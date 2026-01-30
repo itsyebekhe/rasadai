@@ -1,183 +1,383 @@
 <!DOCTYPE html>
-<html lang="fa" dir="rtl" data-theme="light">
+<html lang="fa" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>رادار ایران | Iran Radar</title>
-    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css" rel="stylesheet" />
+    <title>IRAN LIVE FEED | رادار زنده</title>
+    
+    <!-- Fonts: Vazirmatn (Persian) & JetBrains Mono (English/Numbers) -->
+    <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     
     <style>
         :root {
-            --bg-body: #f3f4f6;
-            --bg-card: #ffffff;
-            --bg-modal: #ffffff;
-            --text-main: #111827;
-            --text-sub: #4b5563;
-            --accent: #dc2626;
-            --border: #e5e7eb;
-            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
-        }
-        [data-theme="dark"] {
-            --bg-body: #0f172a;
-            --bg-card: #1e293b;
-            --bg-modal: #1e293b;
-            --text-main: #f3f4f6;
-            --text-sub: #94a3b8;
-            --accent: #ef4444;
-            --border: #334155;
-            --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+            --bg: #09090b;
+            --panel: #18181b;
+            --border: #27272a;
+            --text-main: #e4e4e7;
+            --text-mute: #a1a1aa;
+            --accent: #ef4444; /* Red for alerts */
+            --accent-glow: rgba(239, 68, 68, 0.3);
+            --primary: #3b82f6;
+            
+            --tag-danger: #7f1d1d;
+            --tag-warning: #78350f;
+            --tag-success: #064e3b;
+            --tag-info: #1e3a8a;
         }
 
-        body { font-family: 'Vazirmatn', sans-serif; background: var(--bg-body); color: var(--text-main); margin: 0; padding-bottom: 50px; }
-        
-        /* Nav */
-        nav { background: var(--bg-card); padding: 15px; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; position: sticky; top:0; z-index:10; }
-        .brand { font-weight: 900; font-size: 1.2rem; display: flex; align-items: center; gap: 10px; }
-        .brand i { color: var(--accent); }
+        * { box-sizing: border-box; }
 
-        /* Grid */
-        .container { max-width: 1000px; margin: 20px auto; padding: 0 15px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 20px; }
-        
-        /* Card */
-        .card { background: var(--bg-card); border-radius: 12px; box-shadow: var(--shadow); border: 1px solid var(--border); overflow: hidden; display: flex; flex-direction: column; }
-        .card-body { padding: 20px; flex: 1; }
-        .meta { font-size: 0.8rem; color: var(--text-sub); display: flex; justify-content: space-between; margin-bottom: 10px; }
-        .source-badge { background: rgba(220, 38, 38, 0.1); color: var(--accent); padding: 2px 8px; border-radius: 6px; }
-        h2 { margin: 0 0 10px 0; font-size: 1.1rem; line-height: 1.5; }
-        p.summary { font-size: 0.9rem; color: var(--text-sub); line-height: 1.8; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-
-        .card-footer { padding: 15px 20px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; }
-        button { background: none; border: none; cursor: pointer; font-family: inherit; color: var(--text-sub); transition: 0.3s; }
-        button:hover { color: var(--accent); }
-        .read-btn { font-weight: bold; display: flex; align-items: center; gap: 5px; }
-
-        /* --- MODAL FOR FULL TEXT --- */
-        .modal-overlay {
-            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
-            background: rgba(0, 0, 0, 0.6); backdrop-filter: blur(5px);
-            z-index: 100; opacity: 0; visibility: hidden; transition: 0.3s;
-            display: flex; justify-content: center; align-items: center;
+        body {
+            margin: 0;
+            background-color: var(--bg);
+            color: var(--text-main);
+            font-family: 'Vazirmatn', sans-serif;
+            overflow-x: hidden;
         }
-        .modal-overlay.active { opacity: 1; visibility: visible; }
 
-        .modal-content {
-            background: var(--bg-modal); width: 90%; max-width: 700px; height: 85vh;
-            border-radius: 16px; position: relative; display: flex; flex-direction: column;
-            box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
-            transform: translateY(20px); transition: 0.3s;
+        /* --- HEADER & TICKER --- */
+        .header-bar {
+            background: rgba(9, 9, 11, 0.95);
+            border-bottom: 1px solid var(--border);
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: sticky;
+            top: 0;
+            z-index: 50;
+            backdrop-filter: blur(10px);
         }
-        .modal-overlay.active .modal-content { transform: translateY(0); }
 
-        .modal-header { padding: 20px; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: flex-start; }
-        .close-btn { font-size: 1.5rem; color: var(--text-sub); padding: 0 10px; }
+        .logo {
+            font-weight: 900;
+            font-size: 1.4rem;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            letter-spacing: -1px;
+        }
         
-        .modal-body { padding: 30px; overflow-y: auto; line-height: 2; font-size: 1.05rem; white-space: pre-line; text-align: justify; }
+        .live-dot {
+            width: 10px; height: 10px;
+            background: var(--accent);
+            border-radius: 50%;
+            box-shadow: 0 0 10px var(--accent);
+            animation: pulse 1.5s infinite;
+        }
+
+        @keyframes pulse { 0% {opacity: 1;} 50% {opacity: 0.4;} 100% {opacity: 1;} }
+
+        .ticker-wrap {
+            width: 100%;
+            background: var(--panel);
+            border-bottom: 1px solid var(--border);
+            overflow: hidden;
+            height: 40px;
+            display: flex;
+            align-items: center;
+        }
+
+        .ticker {
+            display: inline-block;
+            white-space: nowrap;
+            padding-right: 100%;
+            animation: marquee 40s linear infinite;
+            font-size: 0.9rem;
+            color: var(--text-mute);
+        }
         
-        .modal-title { font-size: 1.4rem; font-weight: 900; margin-bottom: 10px; }
-        .modal-meta { font-size: 0.85rem; color: var(--text-sub); margin-bottom: 20px; border-bottom: 2px solid var(--accent); display: inline-block; padding-bottom: 5px; }
+        .ticker-item { margin-left: 40px; display: inline-flex; align-items: center; gap: 8px; }
+        .ticker-item::before { content: "●"; color: var(--accent); font-size: 0.6rem; }
+
+        @keyframes marquee { 0% { transform: translate3d(0, 0, 0); } 100% { transform: translate3d(100%, 0, 0); } }
+
+        /* --- LAYOUT --- */
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        .feed-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+            margin-bottom: 30px;
+            border-bottom: 2px solid var(--border);
+            padding-bottom: 15px;
+        }
         
-        .skeleton { background: linear-gradient(90deg, var(--bg-card), var(--border), var(--bg-card)); background-size: 200%; animation: shimmer 1.5s infinite; border-radius: 6px; height: 15px; margin-bottom: 8px; }
-        @keyframes shimmer { 0% {background-position: 200% 0;} 100% {background-position: -200% 0;} }
+        .feed-title {
+            margin: 0;
+            font-size: 1.8rem;
+            font-weight: 900;
+            background: linear-gradient(45deg, #fff, #a1a1aa);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .last-update {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--primary);
+        }
+
+        /* --- FEED ITEMS --- */
+        .feed-list {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            position: relative;
+        }
+
+        /* Vertical Line */
+        .feed-list::before {
+            content: '';
+            position: absolute;
+            right: 19px;
+            top: 10px;
+            bottom: 10px;
+            width: 2px;
+            background: var(--border);
+            z-index: 0;
+        }
+
+        .feed-item {
+            display: flex;
+            gap: 25px;
+            position: relative;
+            z-index: 1;
+            opacity: 0;
+            animation: slideIn 0.5s forwards;
+        }
+
+        @keyframes slideIn { from {opacity: 0; transform: translateY(20px);} to {opacity: 1; transform: translateY(0);} }
+
+        /* Timeline Dot */
+        .feed-marker {
+            width: 40px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 5px;
+        }
+        
+        .dot {
+            width: 14px; height: 14px;
+            background: var(--bg);
+            border: 2px solid var(--text-mute);
+            border-radius: 50%;
+            transition: 0.3s;
+        }
+        
+        .feed-item:hover .dot { border-color: var(--primary); background: var(--primary); box-shadow: 0 0 15px var(--primary); }
+
+        .feed-content {
+            flex: 1;
+            background: var(--panel);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 20px;
+            transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .feed-content:hover {
+            transform: translateX(-5px);
+            border-color: var(--text-mute);
+            box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
+        }
+
+        /* Tag Styling */
+        .tag {
+            font-size: 0.7rem;
+            padding: 4px 10px;
+            border-radius: 4px;
+            font-weight: bold;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+        .tag.danger { background: var(--tag-danger); color: #fca5a5; }
+        .tag.warning { background: var(--tag-warning); color: #fdba74; }
+        .tag.success { background: var(--tag-success); color: #86efac; }
+        .tag.info { background: var(--tag-info); color: #93c5fd; }
+        .tag.primary { background: #3f3f46; color: #e4e4e7; }
+
+        .headline {
+            margin: 0 0 10px 0;
+            font-size: 1.15rem;
+            line-height: 1.6;
+            font-weight: 700;
+        }
+
+        .eng-title {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8rem;
+            color: var(--text-mute);
+            margin-bottom: 15px;
+            display: block;
+            direction: ltr;
+            text-align: left;
+            border-left: 2px solid var(--border);
+            padding-left: 10px;
+        }
+
+        .meta-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-top: 1px solid var(--border);
+            padding-top: 12px;
+            margin-top: 15px;
+        }
+
+        .source-info {
+            font-size: 0.8rem;
+            color: var(--text-mute);
+            font-family: 'JetBrains Mono';
+        }
+        .source-info i { margin-left: 5px; }
+
+        .actions { display: flex; gap: 10px; }
+        
+        .btn-icon {
+            background: rgba(255,255,255,0.05);
+            border: none;
+            color: var(--text-main);
+            width: 32px; height: 32px;
+            border-radius: 6px;
+            cursor: pointer;
+            display: flex; align-items: center; justify-content: center;
+            transition: 0.2s;
+        }
+        .btn-icon:hover { background: var(--primary); color: white; }
+
     </style>
 </head>
 <body>
 
-    <nav>
-        <div class="brand"><i class="fas fa-radar"></i> رادار ایران</div>
-        <button onclick="toggleTheme()"><i class="fas fa-moon" id="theme-icon"></i></button>
+    <nav class="header-bar">
+        <div class="logo">
+            <div class="live-dot"></div>
+            رادار ایران
+        </div>
+        <div style="font-family: 'JetBrains Mono'; font-size: 0.9rem; color: var(--text-mute);">
+            <i class="far fa-clock"></i> <span id="clock">00:00</span>
+        </div>
     </nav>
 
-    <div class="container">
-        <div id="grid" class="grid">
-            <!-- Loading State -->
-            <div class="card"><div class="card-body"><div class="skeleton" style="height:20px; width:60%"></div><div class="skeleton" style="height:100px"></div></div></div>
-            <div class="card"><div class="card-body"><div class="skeleton" style="height:20px; width:60%"></div><div class="skeleton" style="height:100px"></div></div></div>
+    <!-- Scrolling Ticker -->
+    <div class="ticker-wrap">
+        <div class="ticker" id="ticker-content">
+            <!-- JS will fill this -->
+            <span class="ticker-item">در حال دریافت اخبار...</span>
         </div>
     </div>
 
-    <!-- FULL TEXT MODAL -->
-    <div class="modal-overlay" id="newsModal" onclick="closeModal(event)">
-        <div class="modal-content">
-            <div class="modal-header">
-                <button class="close-btn" onclick="closeModalDirect()">&times;</button>
-                <div style="flex:1; padding-left:15px">
-                    <h2 id="m-title" class="modal-title"></h2>
-                    <span id="m-source" class="modal-meta"></span>
-                </div>
-            </div>
-            <div id="m-body" class="modal-body">
-                <!-- Text goes here -->
+    <div class="container">
+        <div class="feed-header">
+            <h1 class="feed-title">فید خبری زنده</h1>
+            <span class="last-update" id="last-updated-txt">--</span>
+        </div>
+
+        <div class="feed-list" id="feed-root">
+            <!-- News Items Go Here -->
+            <div style="text-align: center; padding: 40px; color: var(--text-mute);">
+                <i class="fas fa-satellite-dish fa-spin fa-2x"></i><br><br>در حال برقراری ارتباط با سرور...
             </div>
         </div>
     </div>
 
     <script>
-        let allData = [];
+        // --- 1. CLOCK ---
+        setInterval(() => {
+            const now = new Date();
+            document.getElementById('clock').innerText = now.toLocaleTimeString('en-US', {hour12: false, hour:'2-digit', minute:'2-digit'});
+        }, 1000);
 
-        function toggleTheme() {
-            const html = document.documentElement;
-            const current = html.getAttribute('data-theme');
-            const target = current === 'light' ? 'dark' : 'light';
-            html.setAttribute('data-theme', target);
-            localStorage.setItem('theme', target);
+        // --- 2. TIME AGO ---
+        function timeAgo(dateString) {
+            const date = new Date(dateString);
+            const diff = (new Date() - date) / 1000;
+            if (diff < 60) return "اکنون";
+            if (diff < 3600) return Math.floor(diff/60) + "m";
+            if (diff < 86400) return Math.floor(diff/3600) + "h";
+            return Math.floor(diff/86400) + "d";
         }
-        if(localStorage.getItem('theme') === 'dark') toggleTheme();
 
-        // 1. Fetch
-        fetch('news.json?t='+Date.now()).then(r=>r.json()).then(data => {
-            allData = data;
-            render(data);
-        });
+        // --- 3. COPY FUNCTION ---
+        function copyLink(url) {
+            navigator.clipboard.writeText(url);
+            alert("لینک کپی شد"); // Simple alert fits the "Terminal" vibe
+        }
 
-        // 2. Render Grid
-        function render(news) {
-            const grid = document.getElementById('grid');
-            grid.innerHTML = '';
-            news.forEach((item, idx) => {
-                grid.innerHTML += `
-                <div class="card">
-                    <div class="card-body">
-                        <div class="meta">
-                            <span class="source-badge">${item.source}</span>
-                            <span>${new Date(item.date).toLocaleDateString('fa-IR')}</span>
+        // --- 4. RENDER ---
+        fetch('news.json?t=' + Date.now())
+            .then(res => res.json())
+            .then(data => {
+                const root = document.getElementById('feed-root');
+                const ticker = document.getElementById('ticker-content');
+                
+                root.innerHTML = '';
+                ticker.innerHTML = '';
+
+                if(data.length > 0) {
+                    document.getElementById('last-updated-txt').innerText = "UPDATED: " + new Date().toLocaleTimeString();
+                }
+
+                data.forEach((item, index) => {
+                    // Add to Feed
+                    const delay = index * 0.05; // Staggered animation
+                    const tagClass = item.tag_color || 'primary';
+                    const tagLabel = item.tag || 'خبر';
+
+                    const html = `
+                    <div class="feed-item" style="animation-delay: ${delay}s">
+                        <div class="feed-marker">
+                            <div class="dot"></div>
+                            <span style="font-family:'JetBrains Mono'; font-size:0.7rem; margin-top:5px; color:var(--text-mute)">
+                                ${timeAgo(item.date)}
+                            </span>
                         </div>
-                        <h2>${item.title_fa}</h2>
-                        <p class="summary">${item.summary_fa}</p>
-                    </div>
-                    <div class="card-footer">
-                        <button class="read-btn" onclick="openModal(${idx})">
-                            <i class="fas fa-book-open"></i> مطالعه کامل خبر
-                        </button>
-                        <a href="${item.url}" target="_blank"><button><i class="fas fa-external-link-alt"></i></button></a>
-                    </div>
-                </div>`;
+                        <div class="feed-content">
+                            <span class="tag ${tagClass}">${tagLabel}</span>
+                            <h3 class="headline">${item.title_fa}</h3>
+                            <span class="eng-title">${item.title_en}</span>
+                            
+                            <div class="meta-row">
+                                <span class="source-info">
+                                    <i class="fas fa-newspaper"></i> ${item.source}
+                                </span>
+                                <div class="actions">
+                                    <button class="btn-icon" onclick="copyLink('${item.url}')" title="کپی لینک">
+                                        <i class="fas fa-link"></i>
+                                    </button>
+                                    <a href="${item.url}" target="_blank" class="btn-icon" title="مشاهده">
+                                        <i class="fas fa-arrow-left"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>`;
+                    root.innerHTML += html;
+
+                    // Add to Ticker (Only first 10)
+                    if (index < 10) {
+                        ticker.innerHTML += `<span class="ticker-item">${item.title_fa}</span>`;
+                    }
+                });
+                
+                // Duplicate ticker content for smooth infinite loop
+                ticker.innerHTML += ticker.innerHTML; 
+            })
+            .catch(err => {
+                console.error(err);
+                document.getElementById('feed-root').innerHTML = '<p style="text-align:center; color: var(--accent)">خطا در دریافت اطلاعات</p>';
             });
-        }
-
-        // 3. Modal Logic
-        function openModal(idx) {
-            const item = allData[idx];
-            document.getElementById('m-title').innerText = item.title_fa;
-            document.getElementById('m-source').innerText = item.source + " | " + new Date(item.date).toLocaleDateString('fa-IR');
-            
-            // Handle Full Text formatting
-            const textContent = item.full_text_fa ? item.full_text_fa : "متن کامل در دسترس نیست.";
-            document.getElementById('m-body').innerText = textContent;
-
-            document.getElementById('newsModal').classList.add('active');
-            document.body.style.overflow = 'hidden'; // Stop background scrolling
-        }
-
-        function closeModal(e) {
-            if (e.target.id === 'newsModal') closeModalDirect();
-        }
-
-        function closeModalDirect() {
-            document.getElementById('newsModal').classList.remove('active');
-            document.body.style.overflow = 'auto';
-        }
     </script>
 </body>
 </html>
