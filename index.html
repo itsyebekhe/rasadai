@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>IRAN LIVE FEED | رادار زنده</title>
+    <title>IRAN INTEL DASHBOARD</title>
     
-    <!-- Fonts -->
     <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
@@ -19,381 +18,291 @@
             --text-mute: #a1a1aa;
             --accent: #ef4444;
             --primary: #3b82f6;
+            --success: #10b981;
             
             --tag-danger: #7f1d1d;
             --tag-warning: #78350f;
             --tag-success: #064e3b;
             --tag-info: #1e3a8a;
+            --tag-primary: #3f3f46;
         }
 
+        body { margin: 0; background: var(--bg); color: var(--text-main); font-family: 'Vazirmatn'; overflow-x: hidden; }
         * { box-sizing: border-box; }
+        
+        /* SCROLLBAR */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: var(--bg); }
+        ::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb:hover { background: #555; }
 
-        body {
-            margin: 0;
-            background-color: var(--bg);
-            color: var(--text-main);
-            font-family: 'Vazirmatn', sans-serif;
-            overflow-x: hidden;
-        }
+        /* HEADER GROUP */
+        .sticky-top-group { position: sticky; top: 0; z-index: 100; box-shadow: 0 10px 40px rgba(0,0,0,0.8); }
 
-        /* --- STICKY WRAPPER (Keeps Nav + Ticker at top) --- */
-        .sticky-top-group {
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            box-shadow: 0 10px 30px -10px rgba(0,0,0,0.8);
-        }
-
-        /* --- HEADER --- */
         .header-bar {
-            background: rgba(9, 9, 11, 0.98); /* Less transparent for readability */
+            background: rgba(9, 9, 11, 0.95);
+            backdrop-filter: blur(10px);
             border-bottom: 1px solid var(--border);
-            padding: 15px 20px;
+            padding: 12px 20px;
             display: flex;
             justify-content: space-between;
             align-items: center;
         }
 
-        .logo {
-            font-weight: 900;
-            font-size: 1.4rem;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            letter-spacing: -1px;
-            color: #fff;
-        }
-        
-        .live-dot {
-            width: 10px; height: 10px;
-            background: var(--accent);
-            border-radius: 50%;
-            box-shadow: 0 0 10px var(--accent);
-            animation: pulse 1.5s infinite;
-        }
-        @keyframes pulse { 0% {opacity: 1;} 50% {opacity: 0.4;} 100% {opacity: 1;} }
+        .logo { font-weight: 900; font-size: 1.3rem; display: flex; align-items: center; gap: 10px; color: #fff; }
+        .live-dot { width: 8px; height: 8px; background: var(--accent); border-radius: 50%; animation: pulse 1.5s infinite; }
+        @keyframes pulse { 0% {opacity:1; box-shadow:0 0 0 0 rgba(239,68,68,0.7);} 70% {opacity:1; box-shadow:0 0 0 10px rgba(239,68,68,0);} 100% {opacity:0;} }
 
-        /* --- SLOWER TICKER --- */
-        .ticker-wrap {
-            width: 100%;
-            background: var(--panel);
+        /* MARKET BAR */
+        .market-bar {
+            background: #000;
             border-bottom: 1px solid var(--border);
-            overflow: hidden;
-            height: 36px;
+            padding: 5px 0;
+            font-family: 'JetBrains Mono';
+            font-size: 0.75rem;
             display: flex;
-            align-items: center;
-            /* Ensure it sits on top of content below */
-            position: relative; 
-            z-index: 99; 
-        }
-
-        .ticker {
-            display: inline-block;
-            white-space: nowrap;
-            padding-right: 100%;
-            /* Changed from 40s to 120s for slower speed */
-            animation: marquee 120s linear infinite; 
-            font-size: 0.85rem;
+            justify-content: center;
+            gap: 20px;
             color: var(--text-mute);
         }
+        .market-item span { color: var(--success); font-weight: bold; margin-right: 5px; }
 
-        /* Pause on Hover */
-        .ticker-wrap:hover .ticker {
-            animation-play-state: paused;
-            cursor: default;
-        }
-        
-        .ticker-item { margin-left: 50px; display: inline-flex; align-items: center; gap: 8px; }
-        .ticker-item::before { content: "●"; color: var(--accent); font-size: 0.6rem; }
+        /* TICKER */
+        .ticker-wrap { background: var(--panel); border-bottom: 1px solid var(--border); height: 32px; display: flex; align-items: center; overflow: hidden; }
+        .ticker { white-space: nowrap; padding-right: 100%; animation: marquee 120s linear infinite; font-size: 0.8rem; color: var(--text-mute); display: inline-block; }
+        .ticker-wrap:hover .ticker { animation-play-state: paused; }
+        .ticker-item { margin-left: 40px; display: inline-flex; align-items: center; gap: 8px; }
+        .ticker-item::before { content: "⚡"; font-size: 0.7rem; color: var(--primary); }
+        @keyframes marquee { 0% {transform: translateX(0);} 100% {transform: translateX(100%);} }
 
-        @keyframes marquee { 0% { transform: translate3d(0, 0, 0); } 100% { transform: translate3d(100%, 0, 0); } }
+        /* MAIN CONTAINER */
+        .container { max-width: 950px; margin: 0 auto; padding: 20px; }
 
-        /* --- CONTENT LAYOUT --- */
-        .container {
-            max-width: 900px;
-            margin: 0 auto;
-            padding: 30px 20px;
+        /* FILTERS */
+        .filter-bar { display: flex; gap: 10px; margin-bottom: 25px; overflow-x: auto; padding-bottom: 5px; }
+        .filter-btn {
+            background: var(--panel); border: 1px solid var(--border); color: var(--text-mute);
+            padding: 8px 16px; border-radius: 20px; cursor: pointer; font-family: inherit; font-size: 0.85rem;
+            transition: 0.2s; white-space: nowrap;
         }
+        .filter-btn:hover, .filter-btn.active { background: var(--text-main); color: var(--bg); border-color: var(--text-main); font-weight: bold; }
 
-        .feed-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: flex-end;
-            margin-bottom: 30px;
-            border-bottom: 2px solid var(--border);
-            padding-bottom: 15px;
-        }
-        
-        .feed-title {
-            margin: 0;
-            font-size: 1.8rem;
-            font-weight: 900;
-            background: linear-gradient(45deg, #fff, #a1a1aa);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-        }
-
-        .last-update {
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.8rem;
-            color: var(--primary);
-        }
-
-        /* --- FEED ITEMS --- */
-        .feed-list {
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-            position: relative;
-        }
-
-        /* Vertical Line */
-        .feed-list::before {
-            content: '';
-            position: absolute;
-            right: 19px;
-            top: 10px;
-            bottom: 10px;
-            width: 2px;
-            background: var(--border);
-            z-index: 0;
-        }
+        /* FEED GRID */
+        .feed-list { display: flex; flex-direction: column; gap: 15px; }
 
         .feed-item {
-            display: flex;
-            gap: 25px;
-            position: relative;
-            z-index: 1;
-            opacity: 0;
-            animation: slideIn 0.5s forwards;
+            background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
+            display: flex; overflow: hidden; transition: 0.3s;
+            position: relative; opacity: 0; animation: fadeUp 0.5s forwards;
         }
+        .feed-item:hover { transform: translateY(-3px); border-color: var(--text-mute); box-shadow: 0 10px 20px rgba(0,0,0,0.3); }
+        @keyframes fadeUp { from {opacity:0; transform:translateY(10px);} to {opacity:1; transform:translateY(0);} }
 
-        @keyframes slideIn { from {opacity: 0; transform: translateY(20px);} to {opacity: 1; transform: translateY(0);} }
-
-        /* Timeline Dot */
-        .feed-marker {
-            width: 40px;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            padding-top: 5px;
+        /* IMAGE SIDE */
+        .feed-img {
+            width: 140px; background: #000; flex-shrink: 0;
+            display: flex; align-items: center; justify-content: center; overflow: hidden;
         }
+        .feed-img img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; transition: 0.3s; }
+        .feed-item:hover .feed-img img { opacity: 1; scale: 1.05; }
+        .no-img { color: #333; font-size: 2rem; }
+
+        /* CONTENT SIDE */
+        .feed-content { padding: 15px; flex: 1; display: flex; flex-direction: column; }
         
-        .dot {
-            width: 14px; height: 14px;
-            background: var(--bg);
-            border: 2px solid var(--text-mute);
-            border-radius: 50%;
-            transition: 0.3s;
-        }
-        
-        .feed-item:hover .dot { border-color: var(--primary); background: var(--primary); box-shadow: 0 0 15px var(--primary); }
-
-        .feed-content {
-            flex: 1;
-            background: var(--panel);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 20px;
-            transition: 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            position: relative;
-            overflow: hidden;
-        }
-
-        .feed-content:hover {
-            transform: translateX(-5px);
-            border-color: var(--text-mute);
-            box-shadow: 0 10px 30px -10px rgba(0,0,0,0.5);
-        }
-
-        /* Tag Styling */
-        .tag {
-            font-size: 0.7rem;
-            padding: 4px 10px;
-            border-radius: 4px;
-            font-weight: bold;
-            display: inline-block;
-            margin-bottom: 10px;
-        }
+        .top-row { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
+        .tag { font-size: 0.65rem; padding: 3px 8px; border-radius: 4px; font-weight: bold; }
         .tag.danger { background: var(--tag-danger); color: #fca5a5; }
         .tag.warning { background: var(--tag-warning); color: #fdba74; }
         .tag.success { background: var(--tag-success); color: #86efac; }
         .tag.info { background: var(--tag-info); color: #93c5fd; }
-        .tag.primary { background: #3f3f46; color: #e4e4e7; }
+        .tag.primary { background: var(--tag-primary); color: #e4e4e7; }
 
-        .headline {
-            margin: 0 0 10px 0;
-            font-size: 1.15rem;
-            line-height: 1.6;
-            font-weight: 700;
-        }
+        .time-ago { font-family: 'JetBrains Mono'; font-size: 0.7rem; color: var(--text-mute); }
 
-        .eng-title {
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.8rem;
-            color: var(--text-mute);
-            margin-bottom: 15px;
-            display: block;
-            direction: ltr;
-            text-align: left;
-            border-left: 2px solid var(--border);
-            padding-left: 10px;
-        }
+        h3 { margin: 0 0 5px 0; font-size: 1.1rem; line-height: 1.5; font-weight: 700; }
+        .eng-title { font-family: 'JetBrains Mono'; font-size: 0.75rem; color: var(--text-mute); direction: ltr; text-align: left; display: block; margin-bottom: 10px; }
 
-        .meta-row {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            border-top: 1px solid var(--border);
-            padding-top: 12px;
-            margin-top: 15px;
-        }
-
-        .source-info {
-            font-size: 0.8rem;
-            color: var(--text-mute);
-            font-family: 'JetBrains Mono';
-        }
-        .source-info i { margin-left: 5px; }
-
-        .actions { display: flex; gap: 10px; }
+        .bot-row { margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #333; padding-top: 10px; }
+        .source { font-size: 0.75rem; color: var(--text-mute); }
         
-        .btn-icon {
-            background: rgba(255,255,255,0.05);
-            border: none;
-            color: var(--text-main);
-            width: 32px; height: 32px;
-            border-radius: 6px;
-            cursor: pointer;
-            display: flex; align-items: center; justify-content: center;
-            transition: 0.2s;
+        .actions button, .actions a {
+            background: none; border: none; color: var(--text-mute); cursor: pointer;
+            margin-right: 10px; font-size: 0.9rem; transition: 0.2s;
         }
-        .btn-icon:hover { background: var(--primary); color: white; }
+        .actions button:hover, .actions a:hover { color: var(--primary); }
 
+        /* Sentiment Bar */
+        .sentiment-bar { height: 3px; width: 100%; background: #333; margin-top: 0; position: absolute; bottom:0; left:0; }
+        .sentiment-fill { height: 100%; transition: width 0.5s; }
+
+        @media (max-width: 600px) {
+            .feed-item { flex-direction: column; }
+            .feed-img { width: 100%; height: 120px; }
+            .market-bar { display: none; } /* Hide tickers on small mobile */
+        }
     </style>
 </head>
 <body>
 
-    <!-- STICKY GROUP: NAV + TICKER -->
     <div class="sticky-top-group">
-        
+        <!-- Market Data (Fake live simulation) -->
+        <div class="market-bar">
+            <div class="market-item">USDT/IRR: <span id="usdt-price">Loading...</span></div>
+            <div class="market-item">BTC: <span id="btc-price">Loading...</span></div>
+            <div class="market-item">BRENT OIL: <span>$78.42</span></div>
+            <div class="market-item">TEHRAN TIME: <span id="clock" style="color:white">00:00</span></div>
+        </div>
+
         <nav class="header-bar">
-            <div class="logo">
-                <div class="live-dot"></div>
-                رادار ایران
-            </div>
-            <div style="font-family: 'JetBrains Mono'; font-size: 0.9rem; color: var(--text-mute);">
-                <i class="far fa-clock"></i> <span id="clock">00:00</span>
-            </div>
+            <div class="logo"><div class="live-dot"></div> IRAN INTEL</div>
+            <div style="font-size: 0.8rem; color: var(--text-mute);" id="status-indicator">● ONLINE</div>
         </nav>
 
         <div class="ticker-wrap">
-            <div class="ticker" id="ticker-content">
-                <span class="ticker-item">در حال دریافت اخبار...</span>
-            </div>
+            <div class="ticker" id="ticker-content">...</div>
         </div>
-
     </div>
 
     <div class="container">
-        <div class="feed-header">
-            <h1 class="feed-title">فید خبری زنده</h1>
-            <span class="last-update" id="last-updated-txt">--</span>
+        <!-- Filters -->
+        <div class="filter-bar">
+            <button class="filter-btn active" onclick="filterFeed('all', this)">همه</button>
+            <button class="filter-btn" onclick="filterFeed('نظامی', this)">نظامی / امنیتی</button>
+            <button class="filter-btn" onclick="filterFeed('هسته‌ای', this)">هسته‌ای</button>
+            <button class="filter-btn" onclick="filterFeed('اقتصادی', this)">اقتصادی</button>
+            <button class="filter-btn" onclick="filterFeed('سیاسی', this)">سیاسی</button>
         </div>
 
         <div class="feed-list" id="feed-root">
-            <div style="text-align: center; padding: 40px; color: var(--text-mute);">
-                <i class="fas fa-satellite-dish fa-spin fa-2x"></i><br><br>در حال اتصال به سرور...
+            <div style="text-align: center; padding: 50px;">
+                <i class="fas fa-circle-notch fa-spin fa-2x" style="color:var(--text-mute)"></i>
             </div>
         </div>
     </div>
 
     <script>
-        // --- 1. CLOCK ---
+        let allNews = [];
+        let currentFilter = 'all';
+
+        // 1. CLOCK
         setInterval(() => {
-            const now = new Date();
-            document.getElementById('clock').innerText = now.toLocaleTimeString('en-US', {hour12: false, hour:'2-digit', minute:'2-digit'});
+            document.getElementById('clock').innerText = new Date().toLocaleTimeString('en-GB', {timeZone: 'Asia/Tehran', hour:'2-digit', minute:'2-digit'});
         }, 1000);
 
-        // --- 2. TIME AGO ---
-        function timeAgo(dateString) {
-            const date = new Date(dateString);
-            const diff = (new Date() - date) / 1000;
-            if (diff < 60) return "اکنون";
-            if (diff < 3600) return Math.floor(diff/60) + "m";
-            if (diff < 86400) return Math.floor(diff/3600) + "h";
+        // 2. CRYPTO PRICES (USDT as proxy for Dollar)
+        async function fetchPrices() {
+            try {
+                const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=tether,bitcoin&vs_currencies=irr,usd');
+                const data = await res.json();
+                // Formatting Toman roughly (IRR / 10)
+                const usdtToman = Math.floor(data.tether.irr / 10).toLocaleString(); 
+                document.getElementById('usdt-price').innerText = usdtToman + " T";
+                document.getElementById('btc-price').innerText = "$" + data.bitcoin.usd.toLocaleString();
+            } catch(e) { console.log("Market API Error"); }
+        }
+        fetchPrices();
+        setInterval(fetchPrices, 60000); // Update prices every min
+
+        // 3. MAIN DATA LOOP
+        function loadData() {
+            document.getElementById('status-indicator').style.color = 'var(--success)';
+            
+            fetch('news.json?t=' + Date.now())
+                .then(res => res.json())
+                .then(data => {
+                    // Only render if we have new data count or first load
+                    if (data.length !== allNews.length) {
+                        allNews = data;
+                        renderFeed();
+                        renderTicker();
+                    }
+                })
+                .catch(() => {
+                    document.getElementById('status-indicator').style.color = 'var(--accent)';
+                    document.getElementById('status-indicator').innerText = "● OFFLINE";
+                });
+        }
+
+        // 4. RENDERING
+        function renderFeed() {
+            const root = document.getElementById('feed-root');
+            root.innerHTML = '';
+            
+            const filtered = currentFilter === 'all' 
+                ? allNews 
+                : allNews.filter(n => n.tag.includes(currentFilter));
+
+            if(filtered.length === 0) {
+                root.innerHTML = '<p style="text-align:center; color:#555">موردی یافت نشد</p>';
+                return;
+            }
+
+            filtered.forEach((item, index) => {
+                // Image Logic
+                let imgHTML = `<div class="no-img"><i class="fas fa-bolt"></i></div>`;
+                if(item.image) {
+                    imgHTML = `<img src="${item.image}" loading="lazy" onerror="this.style.display='none'">`;
+                }
+
+                // Sentiment Color
+                let sentColor = '#555';
+                if(item.sentiment > 0.1) sentColor = 'var(--success)';
+                if(item.sentiment < -0.1) sentColor = 'var(--accent)';
+
+                const html = `
+                <div class="feed-item" style="animation-delay: ${index * 0.05}s">
+                    <div class="feed-img">${imgHTML}</div>
+                    <div class="feed-content">
+                        <div class="top-row">
+                            <span class="tag ${item.tag_color || 'primary'}">${item.tag || 'خبر'}</span>
+                            <span class="time-ago">${timeAgo(item.date)}</span>
+                        </div>
+                        <h3>${item.title_fa}</h3>
+                        <span class="eng-title">${item.title_en}</span>
+                        
+                        <div class="bot-row">
+                            <span class="source"><i class="far fa-newspaper"></i> ${item.source}</span>
+                            <div class="actions">
+                                <button onclick="navigator.clipboard.writeText('${item.url}')"><i class="fas fa-link"></i></button>
+                                <a href="${item.url}" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="sentiment-bar"><div class="sentiment-fill" style="width: 100%; background: ${sentColor}"></div></div>
+                </div>`;
+                root.innerHTML += html;
+            });
+        }
+
+        function renderTicker() {
+            const t = document.getElementById('ticker-content');
+            let txt = '';
+            allNews.slice(0, 10).forEach(n => {
+                txt += `<span class="ticker-item">${n.title_fa}</span>`;
+            });
+            t.innerHTML = txt + txt; // Duplicate for loop
+        }
+
+        // 5. UTILS
+        function timeAgo(date) {
+            const diff = (new Date() - new Date(date)) / 1000;
+            if(diff < 60) return "اکنون";
+            if(diff < 3600) return Math.floor(diff/60) + "m";
+            if(diff < 86400) return Math.floor(diff/3600) + "h";
             return Math.floor(diff/86400) + "d";
         }
 
-        // --- 3. COPY FUNCTION ---
-        function copyLink(url) {
-            navigator.clipboard.writeText(url);
-            alert("لینک کپی شد");
+        function filterFeed(tag, btn) {
+            currentFilter = tag;
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            renderFeed();
         }
 
-        // --- 4. RENDER ---
-        fetch('news.json?t=' + Date.now())
-            .then(res => res.json())
-            .then(data => {
-                const root = document.getElementById('feed-root');
-                const ticker = document.getElementById('ticker-content');
-                
-                root.innerHTML = '';
-                ticker.innerHTML = '';
-
-                if(data.length > 0) {
-                    document.getElementById('last-updated-txt').innerText = "UPDATED: " + new Date().toLocaleTimeString();
-                }
-
-                data.forEach((item, index) => {
-                    // Feed
-                    const delay = index * 0.05;
-                    const tagClass = item.tag_color || 'primary';
-                    const tagLabel = item.tag || 'خبر';
-
-                    const html = `
-                    <div class="feed-item" style="animation-delay: ${delay}s">
-                        <div class="feed-marker">
-                            <div class="dot"></div>
-                            <span style="font-family:'JetBrains Mono'; font-size:0.7rem; margin-top:5px; color:var(--text-mute)">
-                                ${timeAgo(item.date)}
-                            </span>
-                        </div>
-                        <div class="feed-content">
-                            <span class="tag ${tagClass}">${tagLabel}</span>
-                            <h3 class="headline">${item.title_fa}</h3>
-                            <span class="eng-title">${item.title_en}</span>
-                            
-                            <div class="meta-row">
-                                <span class="source-info">
-                                    <i class="fas fa-newspaper"></i> ${item.source}
-                                </span>
-                                <div class="actions">
-                                    <button class="btn-icon" onclick="copyLink('${item.url}')" title="کپی لینک">
-                                        <i class="fas fa-link"></i>
-                                    </button>
-                                    <a href="${item.url}" target="_blank" class="btn-icon" title="مشاهده">
-                                        <i class="fas fa-arrow-left"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>`;
-                    root.innerHTML += html;
-
-                    // Ticker (Top 10 items)
-                    if (index < 10) {
-                        ticker.innerHTML += `<span class="ticker-item">${item.title_fa}</span>`;
-                    }
-                });
-                
-                // Duplicate for smooth loop
-                ticker.innerHTML += ticker.innerHTML; 
-            })
-            .catch(err => {
-                console.error(err);
-                document.getElementById('feed-root').innerHTML = '<p style="text-align:center; color: var(--accent)">خطا در دریافت اطلاعات</p>';
-            });
+        // Init
+        loadData();
+        setInterval(loadData, 30000); // Check for news every 30s
     </script>
 </body>
 </html>
