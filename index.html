@@ -3,427 +3,516 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>سامانه رصد هوشمند</title>
+    <title>سامانه رصد هوشمند | OSINT Dashboard</title>
     
+    <!-- Fonts -->
     <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     
     <style>
         :root {
-            --bg: #09090b;
-            --panel: #18181b;
-            --border: #27272a;
+            /* Modern Dark Palette (Zinc) */
+            --bg: #09090b;           /* Very dark background */
+            --panel: #18181b;        /* Slightly lighter for cards */
+            --border: #27272a;       /* Border color */
+            --hover: #27272a;
+            
             --text-main: #e4e4e7;
             --text-mute: #a1a1aa;
             
-            --accent: #ef4444;   /* Red */
-            --warning: #f59e0b;  /* Orange */
-            --success: #10b981;  /* Green */
-            --primary: #3b82f6;  /* Blue */
+            /* Semantic Colors */
+            --accent: #ef4444;       /* Red - Critical */
+            --warning: #f59e0b;      /* Orange - Warning */
+            --success: #10b981;      /* Green - Stable */
+            --primary: #3b82f6;      /* Blue - Info/Links */
             
-            --tag-danger: #450a0a;
-            --tag-warning: #451a03;
-            --tag-success: #064e3b;
-            --tag-info: #172554;
-            --tag-primary: #27272a;
+            /* Tag Backgrounds */
+            --tag-danger-bg: #450a0a;
+            --tag-warning-bg: #451a03;
+            --tag-success-bg: #064e3b;
+            --tag-info-bg: #172554;
         }
 
-        body { margin: 0; background: var(--bg); color: var(--text-main); font-family: 'Vazirmatn'; overflow-x: hidden; }
-        * { box-sizing: border-box; }
+        body { 
+            margin: 0; 
+            background: var(--bg); 
+            color: var(--text-main); 
+            font-family: 'Vazirmatn', sans-serif; 
+            overflow-x: hidden; 
+            -webkit-font-smoothing: antialiased;
+        }
+
+        * { box-sizing: border-box; outline: none; }
         
-        ::-webkit-scrollbar { width: 8px; }
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar { width: 6px; height: 6px; }
         ::-webkit-scrollbar-track { background: var(--bg); }
-        ::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
+        ::-webkit-scrollbar-thumb { background: #3f3f46; border-radius: 3px; }
 
-        /* --- HEADER & TICKER --- */
-        .sticky-top-group { position: sticky; top: 0; z-index: 100; box-shadow: 0 10px 40px rgba(0,0,0,0.8); }
+        /* --- LAYOUT UTILITIES --- */
+        .container { max-width: 1000px; margin: 0 auto; padding: 20px; }
+        .flex-center { display: flex; align-items: center; justify-content: center; }
+        .mono { font-family: 'JetBrains Mono', monospace; direction: ltr; display: inline-block; }
 
-        .header-bar {
-            background: rgba(9, 9, 11, 0.95);
-            backdrop-filter: blur(10px);
+        /* --- STICKY HEADER --- */
+        .app-header {
+            position: sticky; top: 0; z-index: 100;
+            background: rgba(9, 9, 11, 0.85);
+            backdrop-filter: blur(12px);
             border-bottom: 1px solid var(--border);
+        }
+
+        /* Top Bar: Market Data */
+        .market-ticker {
+            background: #000;
+            border-bottom: 1px solid var(--border);
+            padding: 6px 0;
+            font-size: 0.75rem;
+            display: flex; justify-content: center; gap: 20px;
+            color: var(--text-mute);
+        }
+        .market-item span { color: var(--text-main); font-weight: bold; margin-right: 5px; }
+        .market-item.up span { color: var(--success); }
+        .market-item.down span { color: var(--accent); }
+
+        /* Main Nav */
+        .nav-bar {
             padding: 12px 20px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
+            display: flex; justify-content: space-between; align-items: center;
         }
-
-        .logo { font-weight: 900; font-size: 1.2rem; display: flex; align-items: center; gap: 10px; color: #fff; }
-        .live-dot { width: 8px; height: 8px; background: var(--accent); border-radius: 50%; animation: pulse 1.5s infinite; }
-        @keyframes pulse { 0% {opacity:1; box-shadow:0 0 0 0 rgba(239,68,68,0.7);} 70% {opacity:1; box-shadow:0 0 0 10px rgba(239,68,68,0);} 100% {opacity:0;} }
-
-        .market-bar {
-            background: #000; border-bottom: 1px solid var(--border);
-            padding: 5px 0; font-family: 'JetBrains Mono'; font-size: 0.75rem;
-            display: flex; justify-content: center; gap: 20px; color: var(--text-mute);
-            direction: ltr; 
+        .logo { 
+            font-weight: 900; font-size: 1.1rem; 
+            display: flex; align-items: center; gap: 10px; 
+            color: #fff; letter-spacing: -0.5px;
         }
-        .market-item { direction: rtl; } 
-        .market-item span { color: var(--success); font-weight: bold; margin-left: 5px; font-family: 'JetBrains Mono'; }
-
-        .ticker-wrap { background: var(--panel); border-bottom: 1px solid var(--border); height: 32px; display: flex; align-items: center; overflow: hidden; }
-        .ticker { white-space: nowrap; padding-right: 100%; animation: marquee 120s linear infinite; font-size: 0.8rem; color: var(--text-mute); display: inline-block; }
-        .ticker-wrap:hover .ticker { animation-play-state: paused; }
-        .ticker-item { margin-left: 40px; display: inline-flex; align-items: center; gap: 8px; }
-        .ticker-item::before { content: "⚡"; font-size: 0.7rem; color: var(--primary); }
-        @keyframes marquee { 0% {transform: translateX(0);} 100% {transform: translateX(100%);} }
-
-        .container { max-width: 950px; margin: 0 auto; padding: 20px; }
-
-        /* --- INTEL STATUS PANEL --- */
-        .intel-panel {
-            display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 25px;
+        .live-badge {
+            display: flex; align-items: center; gap: 6px;
+            background: rgba(239, 68, 68, 0.15); color: var(--accent);
+            padding: 4px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: bold;
+            border: 1px solid rgba(239, 68, 68, 0.3);
         }
-        .intel-box {
-            background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 15px;
+        .pulse-dot { width: 6px; height: 6px; background: var(--accent); border-radius: 50%; animation: pulse 2s infinite; }
+        @keyframes pulse { 0% {opacity:1; box-shadow:0 0 0 0 rgba(239,68,68,0.7);} 70% {opacity:1; box-shadow:0 0 0 8px rgba(239,68,68,0);} 100% {opacity:0;} }
+
+        /* Rolling Ticker */
+        .news-ticker-wrap {
+            background: var(--panel); border-bottom: 1px solid var(--border);
+            height: 36px; overflow: hidden; display: flex; align-items: center;
         }
-        .clock-grid {
-            display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; text-align: center;
+        .ticker-content {
+            white-space: nowrap; animation: scroll 60s linear infinite;
+            font-size: 0.85rem; color: var(--text-mute); display: inline-flex; align-items: center;
         }
-        .clock-item h4 { margin: 0; color: var(--text-mute); font-size: 0.75rem; }
-        .clock-item div { font-size: 1.1rem; font-weight: bold; font-family: 'JetBrains Mono'; margin-top: 5px; direction: ltr; }
+        .ticker-item { margin-left: 50px; display: inline-flex; align-items: center; gap: 8px; }
+        .ticker-item i { color: var(--primary); font-size: 0.7rem; }
+        @keyframes scroll { 0% {transform: translateX(0);} 100% {transform: translateX(100%);} }
+
+        /* --- DASHBOARD WIDGETS --- */
+        .dashboard-grid {
+            display: grid; grid-template-columns: 2fr 1fr; gap: 15px; margin-bottom: 30px; margin-top: 10px;
+        }
         
-        .defcon-box { display: flex; align-items: center; justify-content: space-between; }
-        .defcon-title { font-size: 0.9rem; color: var(--text-mute); }
-        .defcon-level { font-weight: 900; font-size: 1.2rem; }
-        .level-bar { height: 6px; background: #333; border-radius: 3px; margin-top: 10px; overflow: hidden; }
-        .level-fill { height: 100%; transition: width 0.5s, background 0.5s; width: 0%; }
-
-        /* --- OSINT TOOLKIT --- */
-        .section-label { font-size: 0.8rem; color: var(--text-mute); margin-bottom: 10px; font-weight: bold; display: block; border-bottom: 1px solid #333; padding-bottom: 5px; }
-        
-        .osint-tools {
-            display: flex; gap: 10px; overflow-x: auto; padding-bottom: 5px; margin-bottom: 20px;
+        /* Card Style */
+        .card {
+            background: var(--panel); border: 1px solid var(--border);
+            border-radius: 12px; padding: 20px; position: relative;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
         }
-        .tool-btn {
-            background: #000; border: 1px solid var(--border); color: var(--text-mute);
-            padding: 10px 15px; border-radius: 8px; cursor: pointer; text-decoration: none;
-            display: flex; align-items: center; gap: 8px; font-size: 0.8rem; white-space: nowrap; transition: 0.2s;
+
+        /* Clocks */
+        .clocks-container {
+            display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; text-align: center;
+            height: 100%; align-items: center;
         }
-        .tool-btn:hover { border-color: var(--primary); color: var(--text-main); transform: translateY(-2px); }
-        .tool-btn i { color: var(--primary); margin-left: 5px; }
-        
-        /* Twitter/X Special Color */
-        .tool-btn.social:hover { border-color: #1da1f2; }
-        .tool-btn.social i { color: #1da1f2; }
+        .clock-box h4 { margin: 0 0 8px 0; color: var(--text-mute); font-size: 0.8rem; font-weight: normal; }
+        .clock-box .time { font-size: 1.4rem; font-weight: 700; letter-spacing: 1px; }
 
-        /* --- FEED STYLES --- */
-        .filter-bar { display: flex; gap: 10px; margin-bottom: 20px; overflow-x: auto; }
-        .filter-btn {
-            background: var(--panel); border: 1px solid var(--border); color: var(--text-mute);
-            padding: 6px 14px; border-radius: 20px; cursor: pointer; font-family: inherit; font-size: 0.85rem;
-            transition: 0.2s; white-space: nowrap;
+        /* Threat Level */
+        .threat-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 15px; }
+        .threat-title { font-size: 0.9rem; font-weight: bold; color: var(--text-mute); }
+        .threat-value { font-size: 1.1rem; font-weight: 900; }
+        
+        .progress-track { background: #27272a; height: 8px; border-radius: 4px; overflow: hidden; }
+        .progress-fill { height: 100%; transition: width 0.5s ease, background 0.5s ease; width: 0%; }
+
+        /* --- OSINT TOOLS BAR --- */
+        .section-header {
+            font-size: 0.85rem; font-weight: 700; color: var(--text-mute);
+            margin-bottom: 12px; display: flex; align-items: center; gap: 10px;
         }
-        .filter-btn:hover, .filter-btn.active { background: var(--text-main); color: var(--bg); border-color: var(--text-main); font-weight: bold; }
+        .section-header::after { content: ''; height: 1px; flex: 1; background: var(--border); }
 
-        .feed-list { display: flex; flex-direction: column; gap: 15px; }
-        .feed-item {
-            background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
-            display: flex; overflow: hidden; transition: 0.3s; position: relative; opacity: 0; animation: fadeUp 0.5s forwards;
+        .tools-scroll {
+            display: flex; gap: 10px; overflow-x: auto; padding-bottom: 10px; margin-bottom: 25px;
         }
-        .feed-item:hover { transform: translateY(-3px); border-color: var(--text-mute); box-shadow: 0 10px 20px rgba(0,0,0,0.3); }
-        @keyframes fadeUp { from {opacity:0; transform:translateY(10px);} to {opacity:1; transform:translateY(0);} }
-        
-        .feed-img { width: 140px; background: #000; flex-shrink: 0; display: flex; align-items: center; justify-content: center; overflow: hidden; }
-        .feed-img img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; }
-        .no-img { color: #333; font-size: 2rem; }
-        
-        .feed-content { padding: 15px; flex: 1; display: flex; flex-direction: column; }
-        .top-row { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
-        .tag { font-size: 0.65rem; padding: 3px 8px; border-radius: 4px; font-weight: bold; }
-        
-        .tag.danger { background: var(--tag-danger); color: #fca5a5; }
-        .tag.warning { background: var(--tag-warning); color: #fdba74; }
-        .tag.success { background: var(--tag-success); color: #86efac; }
-        .tag.info { background: var(--tag-info); color: #93c5fd; }
-        .tag.primary { background: var(--tag-primary); color: #e4e4e7; }
+        .app-btn {
+            background: var(--panel); border: 1px solid var(--border);
+            color: var(--text-mute); text-decoration: none;
+            padding: 10px 16px; border-radius: 8px; font-size: 0.85rem;
+            display: flex; align-items: center; gap: 8px; white-space: nowrap;
+            transition: all 0.2s;
+        }
+        .app-btn:hover {
+            border-color: var(--primary); color: var(--text-main); background: #1e1e24; transform: translateY(-2px);
+        }
+        .app-btn.twitter:hover { border-color: #1da1f2; color: #1da1f2; }
 
-        .time-ago { font-size: 0.7rem; color: var(--text-mute); }
-        h3 { margin: 0 0 5px 0; font-size: 1.1rem; line-height: 1.5; font-weight: 700; }
-        .eng-title { font-family: 'JetBrains Mono'; font-size: 0.75rem; color: var(--text-mute); direction: ltr; text-align: left; display: block; margin-bottom: 10px; }
-        .bot-row { margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #333; padding-top: 10px; }
-        .source { font-size: 0.75rem; color: var(--text-mute); }
-        .actions button, .actions a { background: none; border: none; color: var(--text-mute); cursor: pointer; margin-right: 10px; font-size: 0.9rem; transition: 0.2s; }
-        .actions button:hover, .actions a:hover { color: var(--primary); }
-        .sentiment-bar { height: 3px; width: 100%; background: #333; margin-top: 0; position: absolute; bottom:0; left:0; }
+        /* --- NEWS FEED --- */
+        .filter-row { display: flex; gap: 8px; margin-bottom: 20px; overflow-x: auto; padding-bottom: 5px; }
+        .filter-chip {
+            background: transparent; border: 1px solid var(--border); color: var(--text-mute);
+            padding: 6px 14px; border-radius: 20px; font-size: 0.8rem; cursor: pointer;
+            transition: 0.2s; white-space: nowrap; font-family: inherit;
+        }
+        .filter-chip:hover, .filter-chip.active {
+            background: var(--text-main); color: var(--bg); border-color: var(--text-main); font-weight: bold;
+        }
 
-        @media (max-width: 650px) {
-            .feed-item { flex-direction: column; }
-            .feed-img { width: 100%; height: 120px; }
-            .market-bar { display: none; }
-            .intel-panel { grid-template-columns: 1fr; }
+        .feed-container { display: flex; flex-direction: column; gap: 12px; min-height: 300px; }
+
+        .news-item {
+            display: flex; background: var(--panel); border: 1px solid var(--border);
+            border-radius: 10px; overflow: hidden; transition: 0.2s;
+            position: relative;
+        }
+        .news-item:hover { border-color: #52525b; transform: translateY(-2px); }
+
+        .news-thumb {
+            width: 120px; background: #202025; flex-shrink: 0;
+            display: flex; align-items: center; justify-content: center;
+            color: #333; font-size: 1.5rem; overflow: hidden;
+        }
+        .news-thumb img { width: 100%; height: 100%; object-fit: cover; opacity: 0.9; }
+
+        .news-body { padding: 15px; flex: 1; display: flex; flex-direction: column; }
+        
+        .news-meta { display: flex; justify-content: space-between; margin-bottom: 8px; font-size: 0.75rem; }
+        .tag-badge { padding: 2px 8px; border-radius: 4px; font-weight: bold; }
+        .tag-badge.danger { background: var(--tag-danger-bg); color: #fca5a5; }
+        .tag-badge.warning { background: var(--tag-warning-bg); color: #fdba74; }
+        .tag-badge.info { background: var(--tag-info-bg); color: #93c5fd; }
+        
+        .news-title { font-size: 1.05rem; font-weight: 700; margin: 0 0 5px 0; line-height: 1.6; }
+        .news-eng { font-size: 0.75rem; color: #666; font-family: 'JetBrains Mono'; direction: ltr; text-align: left; display: block; margin-bottom: 10px; }
+        
+        .news-footer { 
+            margin-top: auto; padding-top: 10px; border-top: 1px solid #27272a; 
+            display: flex; justify-content: space-between; align-items: center; color: var(--text-mute); font-size: 0.8rem;
+        }
+        .action-links a, .action-links button {
+            color: var(--text-mute); margin-right: 12px; cursor: pointer; background: none; border: none; font-size: 0.9rem; transition: 0.2s;
+        }
+        .action-links a:hover { color: var(--primary); }
+
+        /* Sentiment Bar (Bottom of card) */
+        .sentiment-line { position: absolute; bottom: 0; left: 0; right: 0; height: 3px; background: #27272a; }
+        .sentiment-indicator { height: 100%; width: 100%; opacity: 0.8; }
+
+        /* --- RESPONSIVE --- */
+        @media (max-width: 768px) {
+            .dashboard-grid { grid-template-columns: 1fr; }
+            .market-ticker { display: none; } /* Hide extra data on mobile to clean up */
+            .news-item { flex-direction: column; }
+            .news-thumb { width: 100%; height: 100px; display: none; } /* Optional: Hide thumb on mobile or make full width */
+            .clocks-container { gap: 5px; }
+            .clock-box .time { font-size: 1.1rem; }
         }
     </style>
 </head>
 <body>
 
-    <div class="sticky-top-group">
-        <div class="market-bar">
-            <div class="market-item">دلار (آزاد): <span id="usd-price">...</span></div>
-            <div class="market-item">بیت‌کوین: <span id="btc-price">...</span></div>
-            <div class="market-item">تهران: <span id="clock" style="color:white">00:00</span></div>
+    <!-- Header & Nav -->
+    <header class="app-header">
+        <div class="market-ticker mono">
+            <div class="market-item up">BTC: <span id="btc-price">...</span></div>
+            <div class="market-item">USD: <span id="usd-price">...</span></div>
+            <div class="market-item">TEH: <span id="header-time">00:00</span></div>
         </div>
-
-        <nav class="header-bar">
-            <div class="logo"><div class="live-dot"></div> سامانه رصد ایران</div>
-            <div style="font-size: 0.8rem; color: var(--text-mute);" id="status-indicator">● آنلاین</div>
+        
+        <nav class="nav-bar">
+            <div class="logo">
+                <i class="fas fa-layer-group" style="color:var(--primary)"></i>
+                سامانه رصد
+            </div>
+            <div class="live-badge">
+                <div class="pulse-dot"></div>
+                LIVE
+            </div>
         </nav>
 
-        <div class="ticker-wrap">
-            <div class="ticker" id="ticker-content">در حال دریافت اطلاعات...</div>
+        <div class="news-ticker-wrap">
+            <div class="ticker-content" id="ticker-box">
+                <!-- Javascript will fill this -->
+                <span class="ticker-item">در حال اتصال به سرور...</span>
+            </div>
         </div>
-    </div>
+    </header>
 
     <div class="container">
-
-        <!-- STATUS PANEL -->
-        <div class="intel-panel">
-            <div class="intel-box">
-                <div class="clock-grid">
-                    <div class="clock-item">
-                        <h4>واشنگتن</h4>
-                        <div id="clock-dc">--:--</div>
-                    </div>
-                    <div class="clock-item">
-                        <h4 style="color:var(--text-main)">تهران</h4>
-                        <div id="clock-tehran" style="color:var(--text-main)">--:--</div>
-                    </div>
-                    <div class="clock-item">
-                        <h4>تل‌آویو</h4>
-                        <div id="clock-tlv">--:--</div>
-                    </div>
+        
+        <!-- Dashboard Grid -->
+        <div class="dashboard-grid">
+            <!-- 1. World Clocks -->
+            <div class="card clocks-container">
+                <div class="clock-box">
+                    <h4>واشنگتن</h4>
+                    <div class="time mono" id="clock-dc">--:--</div>
+                </div>
+                <div class="clock-box">
+                    <h4 style="color:var(--primary)">تهران</h4>
+                    <div class="time mono" style="color:var(--text-main)" id="clock-tehran">--:--</div>
+                </div>
+                <div class="clock-box">
+                    <h4>تل‌آویو</h4>
+                    <div class="time mono" id="clock-tlv">--:--</div>
                 </div>
             </div>
-            
-            <div class="intel-box">
-                <div class="defcon-box">
-                    <span class="defcon-title">وضعیت تنش (تخمین)</span>
-                    <span class="defcon-level" id="tension-text">...</span>
+
+            <!-- 2. Threat Level -->
+            <div class="card">
+                <div class="threat-header">
+                    <span class="threat-title"><i class="fas fa-shield-alt"></i> سطح تنش</span>
+                    <span class="threat-value" id="defcon-text">Normal</span>
                 </div>
-                <div class="level-bar">
-                    <div class="level-fill" id="tension-fill"></div>
+                <div class="progress-track">
+                    <div class="progress-fill" id="defcon-fill" style="width: 20%; background: var(--success);"></div>
                 </div>
-                <div style="font-size: 0.7rem; color: #555; margin-top: 5px; text-align: left; direction: ltr;">
-                    * Based on AI Sentiment Analysis
+                <div style="font-size: 0.7rem; color: #555; margin-top: 10px; text-align: left;" class="mono">
+                    AI SENTIMENT ANALYSIS
                 </div>
             </div>
         </div>
 
-        <!-- OSINT TOOLKIT - MAPS & DATA -->
-        <span class="section-label">ابزارهای رصد زنده (Maps & Data)</span>
-        <div class="osint-tools">
-            <a href="https://firms.modaps.eosdis.nasa.gov/map/#d:today;@53.7,32.4,6z" target="_blank" class="tool-btn">
-                <i class="fas fa-fire"></i> ناسا (آتش/انفجار)
+        <!-- Toolkit -->
+        <div class="section-header">ابزارهای OSINT</div>
+        <div class="tools-scroll">
+            <a href="https://firms.modaps.eosdis.nasa.gov/" target="_blank" class="app-btn">
+                <i class="fas fa-fire"></i> نقشه‌ی آتش (NASA)
             </a>
-            <a href="https://cybermap.kaspersky.com/" target="_blank" class="tool-btn">
-                <i class="fas fa-shield-virus"></i> حملات سایبری
+            <a href="https://www.flightradar24.com/32.42,53.68/5" target="_blank" class="app-btn">
+                <i class="fas fa-plane-arrival"></i> رادار هوایی
             </a>
-            <a href="https://www.flightradar24.com/32.42,53.68/5" target="_blank" class="tool-btn">
-                <i class="fas fa-plane"></i> رادار هوایی
+            <a href="https://cybermap.kaspersky.com/" target="_blank" class="app-btn">
+                <i class="fas fa-network-wired"></i> حملات سایبری
             </a>
-            <a href="https://www.vesselfinder.com/" target="_blank" class="tool-btn">
-                <i class="fas fa-ship"></i> ردیاب دریایی
+            <a href="https://twitter.com/search?q=Iran&f=live" target="_blank" class="app-btn twitter">
+                <i class="fab fa-twitter"></i> توییتر (زنده)
             </a>
-            <a href="https://netblocks.org/" target="_blank" class="tool-btn">
-                <i class="fas fa-wifi"></i> نت‌بلاکس (اینترنت)
-            </a>
-            <a href="https://earth.google.com/web/" target="_blank" class="tool-btn">
-                <i class="fas fa-globe"></i> گوگل ارث
+            <a href="#" class="app-btn">
+                <i class="fas fa-database"></i> آرشیو داده
             </a>
         </div>
 
-        <!-- SOCIAL INTEL (TWITTER) -->
-        <span class="section-label">شبکه‌های اجتماعی (Live Social Feeds)</span>
-        <div class="osint-tools">
-            <a href="https://twitter.com/search?q=Iran%20(explosion%20OR%20attack%20OR%20conflict)&src=typed_query&f=live" target="_blank" class="tool-btn social">
-                <i class="fab fa-twitter"></i> اخبار فوری (Global)
-            </a>
-            <a href="https://twitter.com/search?q=%23Iran%20video&src=typed_query&f=live" target="_blank" class="tool-btn social">
-                <i class="fab fa-twitter"></i> تصاویر و ویدیو
-            </a>
-            <a href="https://twitter.com/search?q=%23Israel%20%23Iran&src=typed_query&f=live" target="_blank" class="tool-btn social">
-                <i class="fab fa-twitter"></i> اسرائیل/ایران
-            </a>
-            <a href="https://twitter.com/search?q=(Rial%20OR%20Toman)%20price&src=typed_query&f=live" target="_blank" class="tool-btn social">
-                <i class="fab fa-twitter"></i> بازار ارز
-            </a>
+        <!-- Feed Section -->
+        <div class="section-header">فید خبری (Live Feed)</div>
+        
+        <div class="filter-row">
+            <button class="filter-chip active" onclick="filterData('all', this)">همه</button>
+            <button class="filter-chip" onclick="filterData('نظامی', this)">نظامی</button>
+            <button class="filter-chip" onclick="filterData('سیاسی', this)">سیاسی</button>
+            <button class="filter-chip" onclick="filterData('اقتصادی', this)">اقتصادی</button>
+            <button class="filter-chip" onclick="filterData('فوری', this)">فوری</button>
         </div>
 
-        <!-- FILTER & FEED -->
-        <div class="filter-bar">
-            <button class="filter-btn active" onclick="filterFeed('all', this)">همه</button>
-            <button class="filter-btn" onclick="filterFeed('نظامی', this)">نظامی / امنیتی</button>
-            <button class="filter-btn" onclick="filterFeed('هسته‌ای', this)">هسته‌ای</button>
-            <button class="filter-btn" onclick="filterFeed('اقتصادی', this)">اقتصادی</button>
-            <button class="filter-btn" onclick="filterFeed('سیاسی', this)">سیاسی</button>
-        </div>
-
-        <div class="feed-list" id="feed-root">
-            <div style="text-align: center; padding: 50px;">
-                <i class="fas fa-circle-notch fa-spin fa-2x" style="color:var(--text-mute)"></i>
+        <div id="feed-root" class="feed-container">
+            <!-- Loading State -->
+            <div class="flex-center" style="height: 150px; color: var(--text-mute);">
+                <i class="fas fa-circle-notch fa-spin fa-2x"></i>
             </div>
         </div>
+
     </div>
 
     <script>
-        let allNews = [];
+        // --- CONFIGURATION ---
+        const API_URL = 'news.json'; // Ensure this file exists
+        let allNewsData = [];
         let currentFilter = 'all';
 
-        // --- 1. WORLD CLOCKS ---
-        function updateClocks() {
+        // --- 1. CLOCK LOGIC ---
+        function updateTime() {
             const now = new Date();
-            
-            const fmt = (tz) => new Intl.DateTimeFormat('en-GB', {
+            const getTzTime = (tz) => new Intl.DateTimeFormat('en-US', {
                 timeZone: tz, hour: '2-digit', minute: '2-digit', hour12: false
             }).format(now);
 
-            document.getElementById('clock-dc').innerText = fmt('America/New_York');
-            document.getElementById('clock-tehran').innerText = fmt('Asia/Tehran');
-            document.getElementById('clock').innerText = fmt('Asia/Tehran');
-            document.getElementById('clock-tlv').innerText = fmt('Asia/Jerusalem');
+            document.getElementById('clock-dc').innerText = getTzTime('America/New_York');
+            document.getElementById('clock-tehran').innerText = getTzTime('Asia/Tehran');
+            document.getElementById('header-time').innerText = getTzTime('Asia/Tehran');
+            document.getElementById('clock-tlv').innerText = getTzTime('Asia/Jerusalem');
         }
-        setInterval(updateClocks, 1000);
-        updateClocks();
+        setInterval(updateTime, 1000);
+        updateTime();
 
-        // --- 2. CALCULATE CONFLICT LEVEL (PERSIAN) ---
-        function updateTensionMeter(news) {
-            const recent = news.slice(0, 20);
-            if(recent.length === 0) return;
-
-            const avgSentiment = recent.reduce((sum, n) => sum + (n.sentiment || 0), 0) / recent.length;
-            const dangerCount = recent.filter(n => n.tag === 'نظامی' || n.tag === 'هسته‌ای').length;
-            
-            const textEl = document.getElementById('tension-text');
-            const fillEl = document.getElementById('tension-fill');
-            
-            if (dangerCount > 8 || avgSentiment < -0.15) {
-                textEl.innerText = "بحرانی"; // CRITICAL
-                textEl.style.color = "var(--accent)";
-                fillEl.style.width = "100%";
-                fillEl.style.background = "var(--accent)";
-            } else if (dangerCount > 4 || avgSentiment < -0.05) {
-                textEl.innerText = "افزایش یافته"; // ELEVATED
-                textEl.style.color = "var(--warning)";
-                fillEl.style.width = "66%";
-                fillEl.style.background = "var(--warning)";
-            } else {
-                textEl.innerText = "پایدار"; // STABLE
-                textEl.style.color = "var(--success)";
-                fillEl.style.width = "33%";
-                fillEl.style.background = "var(--success)";
+        // --- 2. MARKET DATA (MOCKED/FETCH) ---
+        async function fetchMarket() {
+            try {
+                // Mocking BTC fetch - replace with real API if needed
+                const btcRes = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd');
+                const btcData = await btcRes.json();
+                document.getElementById('btc-price').innerText = "$" + btcData.bitcoin.usd.toLocaleString();
+            } catch (e) {
+                console.log("Market API Error");
             }
+            // Mocking USD (Usually needs a specific Iranian API or manual JSON)
+            document.getElementById('usd-price').innerText = "N/A"; 
         }
+        fetchMarket();
 
-        // --- 3. FETCH PRICES ---
-        function fetchMarketData() {
-            fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd')
-                .then(r => r.json()).then(d => {
-                    document.getElementById('btc-price').innerText = "$" + d.bitcoin.usd.toLocaleString();
-                }).catch(e => console.log(e));
-
-            fetch('market.json?t=' + Date.now())
-                .then(r => r.json()).then(d => {
-                    document.getElementById('usd-price').innerText = d.usd + " T";
-                }).catch(e => document.getElementById('usd-price').innerText = "N/A");
-        }
-        fetchMarketData();
-        setInterval(fetchMarketData, 60000);
-
-        // --- 4. LOAD CONTENT ---
-        function loadData() {
-            document.getElementById('status-indicator').style.color = 'var(--success)';
-            fetch('news.json?t=' + Date.now())
-                .then(res => res.json())
-                .then(data => {
-                    if (JSON.stringify(data) !== JSON.stringify(allNews)) {
-                        allNews = data;
-                        renderFeed();
-                        renderTicker();
-                        updateTensionMeter(data);
-                    }
-                })
-                .catch(() => {
-                    document.getElementById('status-indicator').style.color = 'var(--accent)';
-                    document.getElementById('status-indicator').innerText = "● آفلاین";
-                });
+        // --- 3. NEWS FEED LOGIC ---
+        async function loadNews() {
+            try {
+                // To test without a file, uncomment the array below and comment out the fetch:
+                // const data = mockData; 
+                const response = await fetch(API_URL + '?t=' + Date.now());
+                const data = await response.json();
+                
+                if(JSON.stringify(data) !== JSON.stringify(allNewsData)) {
+                    allNewsData = data;
+                    renderFeed();
+                    renderTicker();
+                    calculateThreatLevel();
+                }
+            } catch (error) {
+                console.error("Error loading news:", error);
+                document.getElementById('feed-root').innerHTML = `
+                    <div style="text-align:center; padding:30px; border:1px dashed #333; border-radius:10px;">
+                        <i class="fas fa-exclamation-triangle" style="color:var(--warning)"></i><br>
+                        خطا در دریافت اطلاعات<br>
+                        <small class="mono">Check console or ensure news.json exists</small>
+                    </div>`;
+            }
         }
 
         function renderFeed() {
-            const root = document.getElementById('feed-root');
-            root.innerHTML = '';
-            
-            const filtered = currentFilter === 'all' 
-                ? allNews 
-                : allNews.filter(n => (n.tag && n.tag.includes(currentFilter)));
+            const container = document.getElementById('feed-root');
+            container.innerHTML = '';
 
-            if(filtered.length === 0) {
-                root.innerHTML = '<p style="text-align:center; color:#555">موردی یافت نشد</p>';
+            const filtered = currentFilter === 'all' 
+                ? allNewsData 
+                : allNewsData.filter(item => item.tag && item.tag.includes(currentFilter));
+
+            if (filtered.length === 0) {
+                container.innerHTML = '<div style="text-align:center; color:#555; padding:20px;">موردی یافت نشد</div>';
                 return;
             }
 
-            filtered.forEach((item, index) => {
-                let imgHTML = `<div class="no-img"><i class="fas fa-bolt"></i></div>`;
-                if(item.image) {
-                    imgHTML = `<img src="${item.image}" loading="lazy" onerror="this.style.display='none'">`;
+            filtered.forEach(item => {
+                // Determine Tag Color
+                let tagClass = 'info';
+                if(item.tag === 'نظامی' || item.tag === 'فوری') tagClass = 'danger';
+                if(item.tag === 'اقتصادی') tagClass = 'warning';
+
+                // Determine Sentiment Color
+                let sentColor = 'var(--primary)'; // neutral
+                if(item.sentiment < -0.2) sentColor = 'var(--accent)'; // bad
+                if(item.sentiment > 0.2) sentColor = 'var(--success)'; // good
+
+                // Handle Image (Show Icon if no image)
+                let thumbHTML = `<i class="fas fa-bolt" style="color:#333"></i>`;
+                if (item.image && item.image.length > 5) {
+                    thumbHTML = `<img src="${item.image}" alt="news" loading="lazy" onerror="this.style.display='none'">`;
                 }
 
-                let sentColor = '#333';
-                if(item.sentiment > 0.1) sentColor = 'var(--success)';
-                if(item.sentiment < -0.1) sentColor = 'var(--accent)';
-
                 const html = `
-                <div class="feed-item" style="animation-delay: ${index * 0.05}s">
-                    <div class="feed-img">${imgHTML}</div>
-                    <div class="feed-content">
-                        <div class="top-row">
-                            <span class="tag ${item.tag_color || 'primary'}">${item.tag || 'خبر'}</span>
-                            <span class="time-ago">${timeAgo(item.date)}</span>
+                <div class="news-item">
+                    <div class="news-thumb">${thumbHTML}</div>
+                    <div class="news-body">
+                        <div class="news-meta">
+                            <span class="tag-badge ${tagClass}">${item.tag || 'News'}</span>
+                            <span class="mono">${timeAgo(item.date)}</span>
                         </div>
-                        <h3>${item.title_fa}</h3>
-                        <span class="eng-title">${item.title_en}</span>
+                        <h3 class="news-title">${item.title_fa}</h3>
+                        ${item.title_en ? `<span class="news-eng">${item.title_en}</span>` : ''}
                         
-                        <div class="bot-row">
-                            <span class="source"><i class="far fa-newspaper"></i> ${item.source}</span>
-                            <div class="actions">
-                                <button onclick="navigator.clipboard.writeText('${item.url}')"><i class="fas fa-link"></i></button>
+                        <div class="news-footer">
+                            <span><i class="far fa-newspaper"></i> ${item.source || 'منبع ناشناس'}</span>
+                            <div class="action-links">
                                 <a href="${item.url}" target="_blank"><i class="fas fa-external-link-alt"></i></a>
                             </div>
                         </div>
                     </div>
-                    <div class="sentiment-bar"><div class="sentiment-fill" style="width: 100%; background: ${sentColor}"></div></div>
-                </div>`;
-                root.innerHTML += html;
+                    <div class="sentiment-line">
+                        <div class="sentiment-indicator" style="background: ${sentColor}"></div>
+                    </div>
+                </div>
+                `;
+                container.innerHTML += html;
             });
         }
 
+        // --- 4. UTILITIES ---
         function renderTicker() {
-            const t = document.getElementById('ticker-content');
-            let txt = '';
-            allNews.slice(0, 10).forEach(n => {
-                txt += `<span class="ticker-item">${n.title_fa}</span>`;
+            const box = document.getElementById('ticker-box');
+            let content = '';
+            // Duplicate the list 3 times for smooth infinite scroll
+            const headlines = allNewsData.slice(0, 5).map(n => 
+                `<span class="ticker-item"><i class="fas fa-circle"></i> ${n.title_fa}</span>`
+            ).join('');
+            
+            box.innerHTML = headlines + headlines + headlines;
+        }
+
+        function calculateThreatLevel() {
+            // Simple logic: If many "Military" or negative sentiment news exist -> High Threat
+            const recent = allNewsData.slice(0, 15);
+            let score = 0;
+            
+            recent.forEach(n => {
+                if(n.tag === 'نظامی') score += 2;
+                if(n.tag === 'فوری') score += 1;
+                if(n.sentiment < -0.1) score += 1;
             });
-            t.innerHTML = txt + txt; 
+
+            const textEl = document.getElementById('defcon-text');
+            const fillEl = document.getElementById('defcon-fill');
+
+            if (score > 10) {
+                textEl.innerText = "CRITICAL";
+                textEl.style.color = "var(--accent)";
+                fillEl.style.width = "100%";
+                fillEl.style.background = "var(--accent)";
+            } else if (score > 5) {
+                textEl.innerText = "ELEVATED";
+                textEl.style.color = "var(--warning)";
+                fillEl.style.width = "60%";
+                fillEl.style.background = "var(--warning)";
+            } else {
+                textEl.innerText = "STABLE";
+                textEl.style.color = "var(--success)";
+                fillEl.style.width = "25%";
+                fillEl.style.background = "var(--success)";
+            }
         }
 
-        function timeAgo(date) {
-            const diff = (new Date() - new Date(date)) / 1000;
-            if(isNaN(diff)) return "";
-            if(diff < 60) return "لحظاتی پیش";
-            if(diff < 3600) return Math.floor(diff/60) + " دقیقه پیش";
-            if(diff < 86400) return Math.floor(diff/3600) + " ساعت پیش";
-            return Math.floor(diff/86400) + " روز پیش";
-        }
-
-        function filterFeed(tag, btn) {
+        function filterData(tag, btn) {
             currentFilter = tag;
-            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            document.querySelectorAll('.filter-chip').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             renderFeed();
         }
 
-        loadData();
-        setInterval(loadData, 30000); 
+        function timeAgo(dateString) {
+            const date = new Date(dateString);
+            const seconds = Math.floor((new Date() - date) / 1000);
+            if (seconds < 60) return "اکنون";
+            let interval = Math.floor(seconds / 31536000);
+            if (interval >= 1) return interval + " سال پیش";
+            interval = Math.floor(seconds / 2592000);
+            if (interval >= 1) return interval + " ماه پیش";
+            interval = Math.floor(seconds / 86400);
+            if (interval >= 1) return interval + " روز پیش";
+            interval = Math.floor(seconds / 3600);
+            if (interval >= 1) return interval + " ساعت پیش";
+            interval = Math.floor(seconds / 60);
+            return interval + " دقیقه پیش";
+        }
+
+        // Initialize
+        loadNews();
+        setInterval(loadNews, 60000); // Auto refresh every minute
+
     </script>
 </body>
 </html>
