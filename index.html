@@ -16,15 +16,17 @@
             --border: #27272a;
             --text-main: #e4e4e7;
             --text-mute: #a1a1aa;
-            --accent: #ef4444;
-            --primary: #3b82f6;
-            --success: #10b981;
             
-            --tag-danger: #7f1d1d;
-            --tag-warning: #78350f;
+            --accent: #ef4444;   /* Red */
+            --warning: #f59e0b;  /* Orange */
+            --success: #10b981;  /* Green */
+            --primary: #3b82f6;  /* Blue */
+            
+            --tag-danger: #450a0a;
+            --tag-warning: #451a03;
             --tag-success: #064e3b;
-            --tag-info: #1e3a8a;
-            --tag-primary: #3f3f46;
+            --tag-info: #172554;
+            --tag-primary: #27272a;
         }
 
         body { margin: 0; background: var(--bg); color: var(--text-main); font-family: 'Vazirmatn'; overflow-x: hidden; }
@@ -34,6 +36,7 @@
         ::-webkit-scrollbar-track { background: var(--bg); }
         ::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
 
+        /* --- HEADER & TICKER --- */
         .sticky-top-group { position: sticky; top: 0; z-index: 100; box-shadow: 0 10px 40px rgba(0,0,0,0.8); }
 
         .header-bar {
@@ -50,17 +53,10 @@
         .live-dot { width: 8px; height: 8px; background: var(--accent); border-radius: 50%; animation: pulse 1.5s infinite; }
         @keyframes pulse { 0% {opacity:1; box-shadow:0 0 0 0 rgba(239,68,68,0.7);} 70% {opacity:1; box-shadow:0 0 0 10px rgba(239,68,68,0);} 100% {opacity:0;} }
 
-        /* MARKET BAR */
         .market-bar {
-            background: #000;
-            border-bottom: 1px solid var(--border);
-            padding: 5px 0;
-            font-family: 'JetBrains Mono';
-            font-size: 0.75rem;
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            color: var(--text-mute);
+            background: #000; border-bottom: 1px solid var(--border);
+            padding: 5px 0; font-family: 'JetBrains Mono'; font-size: 0.75rem;
+            display: flex; justify-content: center; gap: 20px; color: var(--text-mute);
         }
         .market-item span { color: var(--success); font-weight: bold; margin-right: 5px; }
 
@@ -73,69 +69,62 @@
 
         .container { max-width: 950px; margin: 0 auto; padding: 20px; }
 
-        /* --- NEW MAP STYLES --- */
-        .map-section {
-            margin-bottom: 25px;
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            overflow: hidden;
-            background: var(--panel);
-            display: none; /* Hidden by default */
-            animation: fadeIn 0.5s;
+        /* --- NEW: INTEL STATUS PANEL --- */
+        .intel-panel {
+            display: grid; grid-template-columns: 1fr 1fr; gap: 15px; margin-bottom: 25px;
         }
-        .map-section.active { display: block; }
-        .map-header {
-            padding: 10px 15px;
-            background: #000;
-            border-bottom: 1px solid var(--border);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 0.85rem;
-            color: var(--text-mute);
+        .intel-box {
+            background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 15px;
         }
-        .map-frame {
-            width: 100%;
-            height: 450px;
-            border: none;
-            background: #09090b;
+        .clock-grid {
+            display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; text-align: center;
         }
-        @keyframes fadeIn { from {opacity:0;} to {opacity:1;} }
-
-        .filter-bar { display: flex; gap: 10px; margin-bottom: 25px; overflow-x: auto; padding-bottom: 5px; align-items: center; }
+        .clock-item h4 { margin: 0; color: var(--text-mute); font-size: 0.7rem; font-family: 'JetBrains Mono'; }
+        .clock-item div { font-size: 1.1rem; font-weight: bold; font-family: 'JetBrains Mono'; margin-top: 5px; }
         
+        .defcon-box { display: flex; align-items: center; justify-content: space-between; }
+        .defcon-title { font-size: 0.9rem; color: var(--text-mute); }
+        .defcon-level { font-family: 'JetBrains Mono'; font-weight: 900; font-size: 1.5rem; letter-spacing: 2px; }
+        .level-bar { height: 6px; background: #333; border-radius: 3px; margin-top: 10px; overflow: hidden; }
+        .level-fill { height: 100%; transition: width 0.5s, background 0.5s; width: 0%; }
+
+        /* --- NEW: OSINT TOOLKIT --- */
+        .osint-tools {
+            display: flex; gap: 10px; overflow-x: auto; padding-bottom: 5px; margin-bottom: 25px;
+        }
+        .tool-btn {
+            background: #000; border: 1px solid var(--border); color: var(--text-mute);
+            padding: 10px 15px; border-radius: 8px; cursor: pointer; text-decoration: none;
+            display: flex; align-items: center; gap: 8px; font-size: 0.8rem; white-space: nowrap; transition: 0.2s;
+        }
+        .tool-btn:hover { border-color: var(--primary); color: var(--text-main); transform: translateY(-2px); }
+        .tool-btn i { color: var(--primary); }
+
+        /* --- FEED STYLES --- */
+        .filter-bar { display: flex; gap: 10px; margin-bottom: 20px; overflow-x: auto; }
         .filter-btn {
             background: var(--panel); border: 1px solid var(--border); color: var(--text-mute);
-            padding: 8px 16px; border-radius: 20px; cursor: pointer; font-family: inherit; font-size: 0.85rem;
+            padding: 6px 14px; border-radius: 20px; cursor: pointer; font-family: inherit; font-size: 0.85rem;
             transition: 0.2s; white-space: nowrap;
         }
         .filter-btn:hover, .filter-btn.active { background: var(--text-main); color: var(--bg); border-color: var(--text-main); font-weight: bold; }
-        
-        /* Special styles for Map Buttons */
-        .filter-btn.map-toggle { border-color: var(--primary); color: var(--primary); }
-        .filter-btn.map-toggle:hover, .filter-btn.map-toggle.active { background: var(--primary); color: white; }
 
         .feed-list { display: flex; flex-direction: column; gap: 15px; }
-
         .feed-item {
             background: var(--panel); border: 1px solid var(--border); border-radius: 12px;
-            display: flex; overflow: hidden; transition: 0.3s;
-            position: relative; opacity: 0; animation: fadeUp 0.5s forwards;
+            display: flex; overflow: hidden; transition: 0.3s; position: relative; opacity: 0; animation: fadeUp 0.5s forwards;
         }
         .feed-item:hover { transform: translateY(-3px); border-color: var(--text-mute); box-shadow: 0 10px 20px rgba(0,0,0,0.3); }
         @keyframes fadeUp { from {opacity:0; transform:translateY(10px);} to {opacity:1; transform:translateY(0);} }
-
-        .feed-img {
-            width: 140px; background: #000; flex-shrink: 0;
-            display: flex; align-items: center; justify-content: center; overflow: hidden;
-        }
-        .feed-img img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; transition: 0.3s; }
-        .no-img { color: #333; font-size: 2rem; }
-
-        .feed-content { padding: 15px; flex: 1; display: flex; flex-direction: column; }
         
+        .feed-img { width: 140px; background: #000; flex-shrink: 0; display: flex; align-items: center; justify-content: center; overflow: hidden; }
+        .feed-img img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; }
+        .no-img { color: #333; font-size: 2rem; }
+        
+        .feed-content { padding: 15px; flex: 1; display: flex; flex-direction: column; }
         .top-row { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
         .tag { font-size: 0.65rem; padding: 3px 8px; border-radius: 4px; font-weight: bold; }
+        
         .tag.danger { background: var(--tag-danger); color: #fca5a5; }
         .tag.warning { background: var(--tag-warning); color: #fdba74; }
         .tag.success { background: var(--tag-success); color: #86efac; }
@@ -143,25 +132,19 @@
         .tag.primary { background: var(--tag-primary); color: #e4e4e7; }
 
         .time-ago { font-family: 'JetBrains Mono'; font-size: 0.7rem; color: var(--text-mute); }
-
         h3 { margin: 0 0 5px 0; font-size: 1.1rem; line-height: 1.5; font-weight: 700; }
         .eng-title { font-family: 'JetBrains Mono'; font-size: 0.75rem; color: var(--text-mute); direction: ltr; text-align: left; display: block; margin-bottom: 10px; }
-
         .bot-row { margin-top: auto; display: flex; justify-content: space-between; align-items: center; border-top: 1px solid #333; padding-top: 10px; }
         .source { font-size: 0.75rem; color: var(--text-mute); }
-        
-        .actions button, .actions a {
-            background: none; border: none; color: var(--text-mute); cursor: pointer;
-            margin-right: 10px; font-size: 0.9rem; transition: 0.2s;
-        }
+        .actions button, .actions a { background: none; border: none; color: var(--text-mute); cursor: pointer; margin-right: 10px; font-size: 0.9rem; transition: 0.2s; }
         .actions button:hover, .actions a:hover { color: var(--primary); }
         .sentiment-bar { height: 3px; width: 100%; background: #333; margin-top: 0; position: absolute; bottom:0; left:0; }
-        
-        @media (max-width: 600px) {
+
+        @media (max-width: 650px) {
             .feed-item { flex-direction: column; }
             .feed-img { width: 100%; height: 120px; }
             .market-bar { display: none; }
-            .map-frame { height: 350px; }
+            .intel-panel { grid-template-columns: 1fr; }
         }
     </style>
 </head>
@@ -169,9 +152,9 @@
 
     <div class="sticky-top-group">
         <div class="market-bar">
-            <div class="market-item">DOLLAR (Free): <span id="usd-price">...</span></div>
+            <div class="market-item">USD: <span id="usd-price">...</span></div>
             <div class="market-item">BTC: <span id="btc-price">...</span></div>
-            <div class="market-item">TIME: <span id="clock" style="color:white">00:00</span></div>
+            <div class="market-item">GOLD: <span id="gold-price">...</span></div>
         </div>
 
         <nav class="header-bar">
@@ -180,32 +163,71 @@
         </nav>
 
         <div class="ticker-wrap">
-            <div class="ticker" id="ticker-content">...</div>
+            <div class="ticker" id="ticker-content">Initializing...</div>
         </div>
     </div>
 
     <div class="container">
-        
-        <!-- --- NEW: MAP CONTAINER --- -->
-        <div id="map-viewer" class="map-section">
-            <div class="map-header">
-                <span id="map-title"><i class="fas fa-plane"></i> رادار هوایی</span>
-                <button onclick="closeMap()" style="background:none; border:none; color:var(--text-mute); cursor:pointer;"><i class="fas fa-times"></i> بستن</button>
+
+        <!-- STATUS PANEL -->
+        <div class="intel-panel">
+            <div class="intel-box">
+                <div class="clock-grid">
+                    <div class="clock-item">
+                        <h4>DC (USA)</h4>
+                        <div id="clock-dc">--:--</div>
+                    </div>
+                    <div class="clock-item">
+                        <h4 style="color:var(--text-main)">TEHRAN</h4>
+                        <div id="clock-tehran" style="color:var(--text-main)">--:--</div>
+                    </div>
+                    <div class="clock-item">
+                        <h4>TEL AVIV</h4>
+                        <div id="clock-tlv">--:--</div>
+                    </div>
+                </div>
             </div>
-            <!-- Iframe source will be injected by JS -->
-            <iframe id="map-frame" class="map-frame" src=""></iframe>
+            
+            <div class="intel-box">
+                <div class="defcon-box">
+                    <span class="defcon-title">CONFLICT LEVEL ESTIMATE</span>
+                    <span class="defcon-level" id="tension-text">ANALYZING</span>
+                </div>
+                <div class="level-bar">
+                    <div class="level-fill" id="tension-fill"></div>
+                </div>
+                <div style="font-size: 0.7rem; color: #555; margin-top: 5px; text-align: left;">
+                    *Based on NLP sentiment analysis of last 20 news items.
+                </div>
+            </div>
         </div>
 
+        <!-- OSINT TOOLKIT BUTTONS -->
+        <div class="osint-tools">
+            <a href="https://www.flightradar24.com/32.42,53.68/5" target="_blank" class="tool-btn">
+                <i class="fas fa-plane"></i> FlightRadar24 (Iran)
+            </a>
+            <a href="https://www.vesselfinder.com/" target="_blank" class="tool-btn">
+                <i class="fas fa-ship"></i> Marine Traffic
+            </a>
+            <a href="https://netblocks.org/regions/ir" target="_blank" class="tool-btn">
+                <i class="fas fa-wifi"></i> NetBlocks (Internet)
+            </a>
+            <a href="https://apps.sentinel-hub.com/eo-browser/" target="_blank" class="tool-btn">
+                <i class="fas fa-satellite"></i> Sentinel Satellite
+            </a>
+            <a href="https://earth.google.com/web/" target="_blank" class="tool-btn">
+                <i class="fas fa-globe"></i> Google Earth
+            </a>
+        </div>
+
+        <!-- FILTER & FEED -->
         <div class="filter-bar">
             <button class="filter-btn active" onclick="filterFeed('all', this)">همه</button>
-            <button class="filter-btn" onclick="filterFeed('نظامی', this)">نظامی</button>
+            <button class="filter-btn" onclick="filterFeed('نظامی', this)">نظامی / امنیتی</button>
             <button class="filter-btn" onclick="filterFeed('هسته‌ای', this)">هسته‌ای</button>
             <button class="filter-btn" onclick="filterFeed('اقتصادی', this)">اقتصادی</button>
-            
-            <!-- --- NEW: MAP BUTTONS --- -->
-            <div style="width:1px; height:20px; background:var(--border); margin:0 5px;"></div>
-            <button class="filter-btn map-toggle" onclick="toggleMap('air')"><i class="fas fa-plane"></i> هوایی</button>
-            <button class="filter-btn map-toggle" onclick="toggleMap('sea')"><i class="fas fa-ship"></i> دریایی</button>
+            <button class="filter-btn" onclick="filterFeed('سیاسی', this)">سیاسی</button>
         </div>
 
         <div class="feed-list" id="feed-root">
@@ -219,72 +241,71 @@
         let allNews = [];
         let currentFilter = 'all';
 
-        // --- MAP CONFIGURATION ---
-        const maps = {
-            // RadarBox is very iframe friendly and dark themed
-            'air': 'https://www.radarbox.com/embed/widget?lat=32.42&lng=53.68&z=5&style=dark&layers=labels',
-            // VesselFinder focused on Persian Gulf
-            'sea': 'https://www.vesselfinder.com/aismap?zoom=6&lat=27.0&lon=52.0&width=100%&height=450&names=true'
-        };
+        // --- 1. WORLD CLOCKS ---
+        function updateClocks() {
+            const now = new Date();
+            
+            const fmt = (tz) => new Intl.DateTimeFormat('en-GB', {
+                timeZone: tz, hour: '2-digit', minute: '2-digit', hour12: false
+            }).format(now);
 
-        function toggleMap(type) {
-            const container = document.getElementById('map-viewer');
-            const frame = document.getElementById('map-frame');
-            const title = document.getElementById('map-title');
+            document.getElementById('clock-dc').innerText = fmt('America/New_York');
+            document.getElementById('clock-tehran').innerText = fmt('Asia/Tehran');
+            document.getElementById('clock-tlv').innerText = fmt('Asia/Jerusalem');
+        }
+        setInterval(updateClocks, 1000);
+        updateClocks();
 
-            // If already open on the same type, close it
-            if (container.style.display === 'block' && frame.getAttribute('data-type') === type) {
-                closeMap();
-                return;
+        // --- 2. CALCULATE CONFLICT LEVEL ---
+        function updateTensionMeter(news) {
+            // Take last 20 news items
+            const recent = news.slice(0, 20);
+            if(recent.length === 0) return;
+
+            // Average sentiment (TextBlob polarity: -1.0 to 1.0)
+            const avgSentiment = recent.reduce((sum, n) => sum + (n.sentiment || 0), 0) / recent.length;
+            
+            // Count "Danger" tags
+            const dangerCount = recent.filter(n => n.tag === 'نظامی' || n.tag === 'هسته‌ای').length;
+            
+            const textEl = document.getElementById('tension-text');
+            const fillEl = document.getElementById('tension-fill');
+            
+            // Logic for Tension Level
+            if (dangerCount > 8 || avgSentiment < -0.15) {
+                textEl.innerText = "CRITICAL";
+                textEl.style.color = "var(--accent)";
+                fillEl.style.width = "100%";
+                fillEl.style.background = "var(--accent)";
+            } else if (dangerCount > 4 || avgSentiment < -0.05) {
+                textEl.innerText = "ELEVATED";
+                textEl.style.color = "var(--warning)";
+                fillEl.style.width = "66%";
+                fillEl.style.background = "var(--warning)";
+            } else {
+                textEl.innerText = "STABLE";
+                textEl.style.color = "var(--success)";
+                fillEl.style.width = "33%";
+                fillEl.style.background = "var(--success)";
             }
-
-            // Set content
-            frame.src = maps[type];
-            frame.setAttribute('data-type', type);
-            
-            if(type === 'air') title.innerHTML = '<i class="fas fa-plane" style="color:var(--primary)"></i> ترافیک هوایی (زنده)';
-            if(type === 'sea') title.innerHTML = '<i class="fas fa-ship" style="color:var(--accent)"></i> ترافیک دریایی (خلیج فارس)';
-
-            // Show
-            container.style.display = 'block';
-            container.classList.add('active');
-
-            // Scroll to map
-            window.scrollTo({ top: 100, behavior: 'smooth' });
         }
 
-        function closeMap() {
-            const container = document.getElementById('map-viewer');
-            const frame = document.getElementById('map-frame');
-            
-            container.style.display = 'none';
-            frame.src = ''; // Clear src to stop using bandwidth
-            frame.setAttribute('data-type', '');
-        }
-
-        // --- EXISTING LOGIC ---
-
-        setInterval(() => {
-            document.getElementById('clock').innerText = new Date().toLocaleTimeString('en-GB', {timeZone: 'Asia/Tehran', hour:'2-digit', minute:'2-digit'});
-        }, 1000);
-
+        // --- 3. FETCH PRICES ---
         function fetchMarketData() {
             fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd')
                 .then(r => r.json()).then(d => {
                     document.getElementById('btc-price').innerText = "$" + d.bitcoin.usd.toLocaleString();
-                }).catch(e => console.log("Crypto Error"));
+                }).catch(e => console.log(e));
 
             fetch('market.json?t=' + Date.now())
                 .then(r => r.json()).then(d => {
                     document.getElementById('usd-price').innerText = d.usd + " T";
-                }).catch(e => {
-                    document.getElementById('usd-price').innerText = "N/A";
-                });
+                }).catch(e => document.getElementById('usd-price').innerText = "N/A");
         }
-        
         fetchMarketData();
         setInterval(fetchMarketData, 60000);
 
+        // --- 4. LOAD CONTENT ---
         function loadData() {
             document.getElementById('status-indicator').style.color = 'var(--success)';
             fetch('news.json?t=' + Date.now())
@@ -294,6 +315,7 @@
                         allNews = data;
                         renderFeed();
                         renderTicker();
+                        updateTensionMeter(data);
                     }
                 })
                 .catch(() => {
@@ -370,9 +392,7 @@
 
         function filterFeed(tag, btn) {
             currentFilter = tag;
-            document.querySelectorAll('.filter-btn').forEach(b => {
-                if(!b.classList.contains('map-toggle')) b.classList.remove('active');
-            });
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
             btn.classList.add('active');
             renderFeed();
         }
