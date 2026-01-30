@@ -30,13 +30,10 @@
         body { margin: 0; background: var(--bg); color: var(--text-main); font-family: 'Vazirmatn'; overflow-x: hidden; }
         * { box-sizing: border-box; }
         
-        /* SCROLLBAR */
         ::-webkit-scrollbar { width: 8px; }
         ::-webkit-scrollbar-track { background: var(--bg); }
         ::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
-        ::-webkit-scrollbar-thumb:hover { background: #555; }
 
-        /* HEADER GROUP */
         .sticky-top-group { position: sticky; top: 0; z-index: 100; box-shadow: 0 10px 40px rgba(0,0,0,0.8); }
 
         .header-bar {
@@ -67,7 +64,6 @@
         }
         .market-item span { color: var(--success); font-weight: bold; margin-right: 5px; }
 
-        /* TICKER */
         .ticker-wrap { background: var(--panel); border-bottom: 1px solid var(--border); height: 32px; display: flex; align-items: center; overflow: hidden; }
         .ticker { white-space: nowrap; padding-right: 100%; animation: marquee 120s linear infinite; font-size: 0.8rem; color: var(--text-mute); display: inline-block; }
         .ticker-wrap:hover .ticker { animation-play-state: paused; }
@@ -75,10 +71,8 @@
         .ticker-item::before { content: "⚡"; font-size: 0.7rem; color: var(--primary); }
         @keyframes marquee { 0% {transform: translateX(0);} 100% {transform: translateX(100%);} }
 
-        /* MAIN CONTAINER */
         .container { max-width: 950px; margin: 0 auto; padding: 20px; }
 
-        /* FILTERS */
         .filter-bar { display: flex; gap: 10px; margin-bottom: 25px; overflow-x: auto; padding-bottom: 5px; }
         .filter-btn {
             background: var(--panel); border: 1px solid var(--border); color: var(--text-mute);
@@ -87,7 +81,6 @@
         }
         .filter-btn:hover, .filter-btn.active { background: var(--text-main); color: var(--bg); border-color: var(--text-main); font-weight: bold; }
 
-        /* FEED GRID */
         .feed-list { display: flex; flex-direction: column; gap: 15px; }
 
         .feed-item {
@@ -98,16 +91,13 @@
         .feed-item:hover { transform: translateY(-3px); border-color: var(--text-mute); box-shadow: 0 10px 20px rgba(0,0,0,0.3); }
         @keyframes fadeUp { from {opacity:0; transform:translateY(10px);} to {opacity:1; transform:translateY(0);} }
 
-        /* IMAGE SIDE */
         .feed-img {
             width: 140px; background: #000; flex-shrink: 0;
             display: flex; align-items: center; justify-content: center; overflow: hidden;
         }
         .feed-img img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; transition: 0.3s; }
-        .feed-item:hover .feed-img img { opacity: 1; scale: 1.05; }
         .no-img { color: #333; font-size: 2rem; }
 
-        /* CONTENT SIDE */
         .feed-content { padding: 15px; flex: 1; display: flex; flex-direction: column; }
         
         .top-row { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 8px; }
@@ -131,27 +121,22 @@
             margin-right: 10px; font-size: 0.9rem; transition: 0.2s;
         }
         .actions button:hover, .actions a:hover { color: var(--primary); }
-
-        /* Sentiment Bar */
         .sentiment-bar { height: 3px; width: 100%; background: #333; margin-top: 0; position: absolute; bottom:0; left:0; }
-        .sentiment-fill { height: 100%; transition: width 0.5s; }
-
+        
         @media (max-width: 600px) {
             .feed-item { flex-direction: column; }
             .feed-img { width: 100%; height: 120px; }
-            .market-bar { display: none; } /* Hide tickers on small mobile */
+            .market-bar { display: none; }
         }
     </style>
 </head>
 <body>
 
     <div class="sticky-top-group">
-        <!-- Market Data (Fake live simulation) -->
         <div class="market-bar">
-            <div class="market-item">USDT/IRR: <span id="usdt-price">Loading...</span></div>
-            <div class="market-item">BTC: <span id="btc-price">Loading...</span></div>
-            <div class="market-item">BRENT OIL: <span>$78.42</span></div>
-            <div class="market-item">TEHRAN TIME: <span id="clock" style="color:white">00:00</span></div>
+            <div class="market-item">DOLLAR (Free): <span id="usd-price">...</span></div>
+            <div class="market-item">BTC: <span id="btc-price">...</span></div>
+            <div class="market-item">TIME: <span id="clock" style="color:white">00:00</span></div>
         </div>
 
         <nav class="header-bar">
@@ -165,7 +150,6 @@
     </div>
 
     <div class="container">
-        <!-- Filters -->
         <div class="filter-bar">
             <button class="filter-btn active" onclick="filterFeed('all', this)">همه</button>
             <button class="filter-btn" onclick="filterFeed('نظامی', this)">نظامی / امنیتی</button>
@@ -185,34 +169,41 @@
         let allNews = [];
         let currentFilter = 'all';
 
-        // 1. CLOCK
         setInterval(() => {
             document.getElementById('clock').innerText = new Date().toLocaleTimeString('en-GB', {timeZone: 'Asia/Tehran', hour:'2-digit', minute:'2-digit'});
         }, 1000);
 
-        // 2. CRYPTO PRICES (USDT as proxy for Dollar)
-        async function fetchPrices() {
-            try {
-                const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=tether,bitcoin&vs_currencies=irr,usd');
-                const data = await res.json();
-                // Formatting Toman roughly (IRR / 10)
-                const usdtToman = Math.floor(data.tether.irr / 10).toLocaleString(); 
-                document.getElementById('usdt-price').innerText = usdtToman + " T";
-                document.getElementById('btc-price').innerText = "$" + data.bitcoin.usd.toLocaleString();
-            } catch(e) { console.log("Market API Error"); }
-        }
-        fetchPrices();
-        setInterval(fetchPrices, 60000); // Update prices every min
+        // --- FETCH PRICES (Combined) ---
+        function fetchMarketData() {
+            // 1. Get Crypto from CoinGecko
+            fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin&vs_currencies=usd')
+                .then(r => r.json())
+                .then(d => {
+                    document.getElementById('btc-price').innerText = "$" + d.bitcoin.usd.toLocaleString();
+                })
+                .catch(e => console.log("Crypto Error"));
 
-        // 3. MAIN DATA LOOP
+            // 2. Get Scraped Dollar Price (From local JSON file)
+            fetch('market.json?t=' + Date.now())
+                .then(r => r.json())
+                .then(d => {
+                    document.getElementById('usd-price').innerText = d.usd + " T";
+                })
+                .catch(e => {
+                    console.log("Market File Error");
+                    document.getElementById('usd-price').innerText = "N/A";
+                });
+        }
+        
+        fetchMarketData();
+        setInterval(fetchMarketData, 60000); // Refresh every minute
+
         function loadData() {
             document.getElementById('status-indicator').style.color = 'var(--success)';
-            
             fetch('news.json?t=' + Date.now())
                 .then(res => res.json())
                 .then(data => {
-                    // Only render if we have new data count or first load
-                    if (data.length !== allNews.length) {
+                    if (JSON.stringify(data) !== JSON.stringify(allNews)) {
                         allNews = data;
                         renderFeed();
                         renderTicker();
@@ -224,14 +215,13 @@
                 });
         }
 
-        // 4. RENDERING
         function renderFeed() {
             const root = document.getElementById('feed-root');
             root.innerHTML = '';
             
             const filtered = currentFilter === 'all' 
                 ? allNews 
-                : allNews.filter(n => n.tag.includes(currentFilter));
+                : allNews.filter(n => (n.tag && n.tag.includes(currentFilter)));
 
             if(filtered.length === 0) {
                 root.innerHTML = '<p style="text-align:center; color:#555">موردی یافت نشد</p>';
@@ -239,14 +229,12 @@
             }
 
             filtered.forEach((item, index) => {
-                // Image Logic
                 let imgHTML = `<div class="no-img"><i class="fas fa-bolt"></i></div>`;
                 if(item.image) {
                     imgHTML = `<img src="${item.image}" loading="lazy" onerror="this.style.display='none'">`;
                 }
 
-                // Sentiment Color
-                let sentColor = '#555';
+                let sentColor = '#333';
                 if(item.sentiment > 0.1) sentColor = 'var(--success)';
                 if(item.sentiment < -0.1) sentColor = 'var(--accent)';
 
@@ -281,12 +269,12 @@
             allNews.slice(0, 10).forEach(n => {
                 txt += `<span class="ticker-item">${n.title_fa}</span>`;
             });
-            t.innerHTML = txt + txt; // Duplicate for loop
+            t.innerHTML = txt + txt; 
         }
 
-        // 5. UTILS
         function timeAgo(date) {
             const diff = (new Date() - new Date(date)) / 1000;
+            if(isNaN(diff)) return "";
             if(diff < 60) return "اکنون";
             if(diff < 3600) return Math.floor(diff/60) + "m";
             if(diff < 86400) return Math.floor(diff/3600) + "h";
@@ -300,9 +288,8 @@
             renderFeed();
         }
 
-        // Init
         loadData();
-        setInterval(loadData, 30000); // Check for news every 30s
+        setInterval(loadData, 30000); 
     </script>
 </body>
 </html>
