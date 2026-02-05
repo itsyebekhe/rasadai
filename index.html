@@ -2,723 +2,630 @@
 <html lang="fa" dir="rtl">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>سامانه رصد هوشمند | Intel Dashboard</title>
     
     <!-- Fonts -->
     <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     
     <style>
         :root {
-            /* Base Colors */
-            --bg-body: #050505;
-            --bg-card: rgba(20, 20, 23, 0.6);
-            --bg-card-hover: rgba(30, 30, 35, 0.8);
-            --border-color: rgba(255, 255, 255, 0.08);
+            --bg-app: #09090b;
+            --bg-card: rgba(30, 30, 35, 0.7);
+            --bg-card-hover: rgba(45, 45, 50, 0.85);
+            --border-subtle: rgba(255, 255, 255, 0.08);
+            --border-highlight: rgba(255, 255, 255, 0.15);
             
-            /* Text */
-            --text-main: #ededed;
-            --text-muted: #888888;
+            --text-main: #ececec;
+            --text-muted: #9ca3af;
             
-            /* Status Colors */
-            --accent: #ef4444;   /* Red - Critical */
-            --warning: #f59e0b;  /* Orange - Warning */
-            --success: #10b981;  /* Green - Stable */
-            --info: #3b82f6;     /* Blue - Info */
-            --neon-glow: 0 0 10px rgba(59, 130, 246, 0.3);
-
-            /* Tags */
-            --tag-mil: rgba(239, 68, 68, 0.15);
-            --tag-mil-text: #fca5a5;
-            --tag-nuc: rgba(245, 158, 11, 0.15);
-            --tag-nuc-text: #fdba74;
-            --tag-eco: rgba(16, 185, 129, 0.15);
-            --tag-eco-text: #6ee7b7;
+            --accent-red: #ef4444;
+            --accent-orange: #f59e0b;
+            --accent-green: #10b981;
+            --accent-blue: #3b82f6;
+            
+            --shadow-glow: 0 0 20px rgba(0,0,0,0.5);
         }
 
-        /* --- Global Reset & Base --- */
-        body { 
-            margin: 0; 
-            background-color: var(--bg-body);
+        /* --- RESET & BASE --- */
+        * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+        body {
+            margin: 0; padding: 0;
+            background-color: var(--bg-app);
             background-image: 
-                radial-gradient(circle at 10% 20%, rgba(59, 130, 246, 0.03) 0%, transparent 20%),
-                radial-gradient(circle at 90% 80%, rgba(239, 68, 68, 0.03) 0%, transparent 20%);
-            color: var(--text-main); 
-            font-family: 'Vazirmatn', sans-serif; 
+                linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+            background-size: 30px 30px;
+            color: var(--text-main);
+            font-family: 'Vazirmatn', sans-serif;
+            min-height: 100vh;
             overflow-x: hidden;
-            min-height: 100vh;
         }
-        
-        * { box-sizing: border-box; outline: none; }
-        a { text-decoration: none; color: inherit; }
 
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-track { background: var(--bg-body); }
-        ::-webkit-scrollbar-thumb { background: #333; border-radius: 10px; }
-        ::-webkit-scrollbar-thumb:hover { background: #555; }
-
-        /* --- Layout Grid --- */
-        .app-container {
-            display: grid;
-            grid-template-rows: auto auto 1fr;
-            max-width: 1400px;
+        /* --- LAYOUT --- */
+        .app-wrapper {
+            max-width: 1440px;
             margin: 0 auto;
-            min-height: 100vh;
             padding: 15px;
-            gap: 15px;
+            display: grid;
+            grid-template-columns: 320px 1fr;
+            grid-template-rows: auto auto 1fr;
+            gap: 20px;
+            height: 100vh;
         }
 
-        /* --- Header --- */
-        .main-header {
+        /* --- HEADER --- */
+        .header-area {
+            grid-column: 1 / -1;
             display: flex;
             justify-content: space-between;
             align-items: center;
-            padding: 15px 25px;
-            background: var(--bg-card);
+            background: rgba(9, 9, 11, 0.8);
             backdrop-filter: blur(12px);
-            border: 1px solid var(--border-color);
+            padding: 12px 20px;
             border-radius: 16px;
+            border: 1px solid var(--border-subtle);
+            position: sticky;
+            top: 0;
+            z-index: 100;
         }
-        
+
         .brand {
+            font-weight: 900;
+            font-size: 1.2rem;
             display: flex;
             align-items: center;
             gap: 12px;
-            font-weight: 800;
-            font-size: 1.1rem;
             letter-spacing: -0.5px;
         }
         
-        .pulse-icon {
-            width: 10px; height: 10px;
-            background: var(--accent);
+        .live-dot {
+            width: 8px; height: 8px;
+            background: var(--accent-red);
             border-radius: 50%;
-            box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.7);
-            animation: pulse-red 2s infinite;
+            box-shadow: 0 0 10px var(--accent-red);
+            animation: pulse 2s infinite;
         }
-        
-        .sys-status {
-            font-size: 0.75rem;
-            color: var(--success);
+
+        .system-status {
             font-family: 'JetBrains Mono';
+            font-size: 0.7rem;
             background: rgba(16, 185, 129, 0.1);
-            padding: 4px 10px;
-            border-radius: 20px;
+            color: var(--accent-green);
+            padding: 4px 12px;
+            border-radius: 100px;
             border: 1px solid rgba(16, 185, 129, 0.2);
         }
 
-        /* --- Ticker --- */
-        .ticker-bar {
+        /* --- TICKER --- */
+        .ticker-area {
+            grid-column: 1 / -1;
             background: var(--bg-card);
-            border: 1px solid var(--border-color);
+            border: 1px solid var(--border-subtle);
             border-radius: 12px;
-            height: 36px;
-            overflow: hidden;
+            height: 40px;
             display: flex;
             align-items: center;
-            font-size: 0.8rem;
+            overflow: hidden;
+            font-size: 0.85rem;
             color: var(--text-muted);
         }
-        .ticker-content {
-            white-space: nowrap;
-            animation: ticker-scroll 100s linear infinite;
-        }
-        .ticker-item {
-            display: inline-flex;
-            align-items: center;
-            margin: 0 30px;
-        }
-        .ticker-item::before {
-            content: '';
-            display: inline-block;
-            width: 4px; height: 4px;
-            background: var(--info);
-            border-radius: 50%;
-            margin-left: 8px;
-        }
+        .ticker-wrap { width: 100%; overflow: hidden; white-space: nowrap; }
+        .ticker-move { display: inline-block; animation: ticker 80s linear infinite; }
+        .ticker-item { display: inline-block; padding: 0 2rem; }
+        .ticker-item::before { content: '◆'; color: var(--accent-blue); margin-left: 10px; font-size: 0.8em; }
 
-        /* --- Dashboard Grid Content --- */
-        .dashboard-content {
-            display: grid;
-            grid-template-columns: 300px 1fr;
-            gap: 15px;
-        }
-
-        /* --- Sidebar Panels --- */
-        .panel {
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: 16px;
-            padding: 20px;
-            margin-bottom: 15px;
+        /* --- SIDEBAR --- */
+        .sidebar-area {
             display: flex;
             flex-direction: column;
+            gap: 20px;
+            overflow-y: auto;
+            padding-bottom: 20px;
+            max-height: calc(100vh - 100px);
+        }
+        
+        /* Hide scrollbar for sidebar */
+        .sidebar-area::-webkit-scrollbar { width: 0; }
+
+        .panel {
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: 16px;
+            padding: 16px;
             position: relative;
             overflow: hidden;
         }
-        .panel::before {
-            content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 2px;
-            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.1), transparent);
-        }
-
-        .panel-title {
+        
+        .panel h4 {
+            margin: 0 0 15px 0;
             font-size: 0.8rem;
             color: var(--text-muted);
             text-transform: uppercase;
             letter-spacing: 1px;
-            margin-bottom: 15px;
             display: flex;
-            justify-content: space-between;
             align-items: center;
-        }
-
-        /* Market Data */
-        .market-row {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            margin-bottom: 12px;
-            padding-bottom: 12px;
-            border-bottom: 1px solid var(--border-color);
-        }
-        .market-row:last-child { border-bottom: none; margin-bottom: 0; padding-bottom: 0; }
-        .m-label { font-size: 0.85rem; color: var(--text-muted); display: flex; align-items: center; gap: 8px; }
-        .m-value { font-family: 'JetBrains Mono'; font-weight: 700; color: var(--text-main); }
-        
-        /* OSINT Links Grid */
-        .tools-grid {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
             gap: 8px;
         }
-        .tool-link {
-            background: rgba(255,255,255,0.03);
-            border: 1px solid var(--border-color);
-            color: var(--text-muted);
-            padding: 10px;
-            border-radius: 8px;
-            font-size: 0.75rem;
+
+        /* Market Items */
+        .market-item {
             display: flex;
-            flex-direction: column;
+            justify-content: space-between;
             align-items: center;
-            gap: 6px;
-            transition: all 0.2s;
+            padding: 10px 0;
+            border-bottom: 1px solid var(--border-subtle);
+        }
+        .market-item:last-child { border-bottom: none; }
+        .market-val { font-family: 'JetBrains Mono'; font-weight: 700; color: var(--text-main); }
+        .market-lbl { font-size: 0.9rem; color: var(--text-muted); display: flex; align-items: center; gap: 8px;}
+
+        /* Tools Grid */
+        .tools-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+        .tool-btn {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid var(--border-subtle);
+            color: var(--text-muted);
+            padding: 12px;
+            border-radius: 10px;
+            font-size: 0.75rem;
             text-align: center;
-        }
-        .tool-link i { font-size: 1.1rem; color: var(--info); }
-        .tool-link:hover {
-            background: rgba(59, 130, 246, 0.1);
-            border-color: var(--info);
-            color: var(--text-main);
-            transform: translateY(-2px);
-        }
-
-        /* --- Main Area: Clocks & Status --- */
-        .status-header {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            margin-bottom: 20px;
-        }
-
-        .clock-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 15px;
-            text-align: center;
-        }
-        .clock-label { font-size: 0.75rem; color: var(--text-muted); margin-bottom: 5px; }
-        .clock-time { font-family: 'JetBrains Mono'; font-size: 1.5rem; font-weight: 700; }
-
-        .defcon-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            padding: 15px;
+            transition: 0.3s;
             display: flex;
             flex-direction: column;
-            justify-content: center;
+            gap: 8px;
+            align-items: center;
         }
-        .defcon-top { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
-        .defcon-val { font-weight: 900; font-size: 1.1rem; }
-        .meter-bg { height: 6px; background: rgba(255,255,255,0.1); border-radius: 3px; overflow: hidden; }
-        .meter-fill { height: 100%; width: 0%; transition: width 0.5s ease, background 0.5s ease; }
+        .tool-btn i { font-size: 1.2rem; color: var(--accent-blue); }
+        .tool-btn:hover { background: rgba(59,130,246,0.15); border-color: var(--accent-blue); color: #fff; transform: translateY(-2px); }
 
-        /* --- Feed Section --- */
-        .feed-controls {
+        /* --- MAIN FEED --- */
+        .main-content {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            overflow-y: auto;
+            max-height: calc(100vh - 100px);
+            padding-bottom: 50px;
+        }
+        .main-content::-webkit-scrollbar { width: 6px; }
+        .main-content::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
+
+        /* Clocks Row */
+        .clocks-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+        }
+        .clock-box {
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 12px;
+            text-align: center;
+        }
+        .clock-time { font-family: 'JetBrains Mono'; font-size: 1.4rem; font-weight: 700; display: block;}
+        .clock-city { font-size: 0.75rem; color: var(--text-muted); }
+
+        /* Tension Meter */
+        .tension-panel {
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: 12px;
+            padding: 15px 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .tension-header { display: flex; justify-content: space-between; align-items: center; }
+        .tension-title { font-size: 0.8rem; color: var(--text-muted); }
+        .tension-status { font-weight: 800; font-size: 1rem; }
+        
+        .progress-track { width: 100%; height: 6px; background: rgba(255,255,255,0.1); border-radius: 10px; overflow: hidden; }
+        .progress-fill { height: 100%; width: 0%; transition: width 1s ease, background 0.5s; box-shadow: 0 0 10px currentColor; }
+
+        /* Feed Controls */
+        .feed-filters {
             display: flex;
             gap: 10px;
             overflow-x: auto;
-            padding-bottom: 10px;
-            margin-bottom: 10px;
+            padding: 5px 2px;
+            scrollbar-width: none;
         }
-        .filter-chip {
+        .feed-filters::-webkit-scrollbar { display: none; }
+        
+        .chip {
             background: transparent;
-            border: 1px solid var(--border-color);
+            border: 1px solid var(--border-subtle);
             color: var(--text-muted);
-            padding: 6px 16px;
+            padding: 8px 16px;
             border-radius: 100px;
             font-size: 0.85rem;
-            cursor: pointer;
             white-space: nowrap;
-            transition: 0.2s;
-        }
-        .filter-chip:hover, .filter-chip.active {
-            background: var(--text-main);
-            color: #000;
-            border-color: var(--text-main);
-            font-weight: bold;
-        }
-
-        .feed-container {
-            display: flex;
-            flex-direction: column;
-            gap: 12px;
-        }
-
-        /* Feed Item Card */
-        .intel-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border-color);
-            border-radius: 12px;
-            display: flex;
-            overflow: hidden;
-            transition: transform 0.2s, border-color 0.2s;
-            position: relative;
-            animation: slideIn 0.4s ease forwards;
-        }
-        .intel-card:hover {
-            transform: translateX(-4px);
-            border-color: rgba(255,255,255,0.2);
-            background: var(--bg-card-hover);
-        }
-
-        .card-visual {
-            width: 120px;
-            flex-shrink: 0;
-            background: #000;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-left: 1px solid var(--border-color);
-        }
-        .card-visual img { width: 100%; height: 100%; object-fit: cover; opacity: 0.7; }
-        .card-visual i { font-size: 1.5rem; color: #333; }
-
-        .card-body {
-            flex: 1;
-            padding: 15px;
-            display: flex;
-            flex-direction: column;
-        }
-
-        .card-meta {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 8px;
-            font-size: 0.7rem;
-        }
-        .intel-tag {
-            padding: 2px 8px;
-            border-radius: 4px;
-            font-weight: bold;
-            font-size: 0.65rem;
-        }
-        
-        .intel-tag.military { background: var(--tag-mil); color: var(--tag-mil-text); }
-        .intel-tag.nuclear { background: var(--tag-nuc); color: var(--tag-nuc-text); }
-        .intel-tag.eco { background: var(--tag-eco); color: var(--tag-eco-text); }
-        .intel-tag.generic { background: rgba(255,255,255,0.1); color: #ccc; }
-
-        .card-title {
-            margin: 0 0 4px 0;
-            font-size: 1rem;
-            line-height: 1.5;
-            font-weight: 700;
-        }
-        .card-subtitle {
-            font-family: 'JetBrains Mono';
-            font-size: 0.7rem;
-            color: var(--text-muted);
-            direction: ltr;
-            text-align: left;
-            margin-bottom: 12px;
-            display: block;
-        }
-
-        .card-footer {
-            margin-top: auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            border-top: 1px solid rgba(255,255,255,0.05);
-            padding-top: 8px;
-        }
-        .source-name { font-size: 0.75rem; color: var(--text-muted); display: flex; align-items: center; gap: 5px; }
-        
-        .card-actions button, .card-actions a {
-            background: none; border: none;
-            color: var(--text-muted);
             cursor: pointer;
-            margin-right: 10px;
-            font-size: 0.9rem;
             transition: 0.2s;
         }
-        .card-actions *:hover { color: var(--info); }
+        .chip.active { background: var(--text-main); color: #000; font-weight: bold; border-color: var(--text-main); }
+        .chip:hover:not(.active) { background: rgba(255,255,255,0.05); color: var(--text-main); }
 
-        /* Sentiment Bar */
-        .sentiment-indicator {
-            position: absolute;
-            right: 0; top: 0; bottom: 0;
-            width: 3px;
-            background: #333;
+        /* News Card */
+        .news-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border-subtle);
+            border-radius: 16px;
+            display: grid;
+            grid-template-columns: 110px 1fr;
+            overflow: hidden;
+            transition: transform 0.2s;
+            min-height: 110px;
+            position: relative;
         }
-
-        /* Animations */
-        @keyframes pulse-red { 0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4); } 70% { box-shadow: 0 0 0 6px rgba(239, 68, 68, 0); } 100% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0); } }
-        @keyframes ticker-scroll { 0% { transform: translateX(0); } 100% { transform: translateX(100%); } }
-        @keyframes slideIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
-
-        /* Mobile Responsive */
-        @media (max-width: 900px) {
-            .dashboard-content { grid-template-columns: 1fr; }
-            .card-visual { width: 80px; }
-            .status-header { grid-template-columns: 1fr 1fr; }
+        .news-card:hover { transform: translateX(-4px); background: var(--bg-card-hover); border-color: var(--border-highlight); }
+        
+        .card-img {
+            background: #000;
+            position: relative;
         }
-        @media (max-width: 600px) {
-            .app-container { padding: 10px; }
-            .intel-card { flex-direction: column; }
-            .card-visual { width: 100%; height: 100px; border-left: none; border-bottom: 1px solid var(--border-color); }
+        .card-img img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; }
+        
+        .card-content { padding: 15px; display: flex; flex-direction: column; justify-content: space-between; }
+        
+        .card-header { display: flex; justify-content: space-between; font-size: 0.7rem; margin-bottom: 6px; }
+        .tag { padding: 2px 8px; border-radius: 4px; font-weight: bold; }
+        .tag.military { background: rgba(239, 68, 68, 0.2); color: #fca5a5; }
+        .tag.nuclear { background: rgba(245, 158, 11, 0.2); color: #fdba74; }
+        .tag.eco { background: rgba(16, 185, 129, 0.2); color: #6ee7b7; }
+        .tag.general { background: rgba(255,255,255,0.1); color: #ccc; }
+
+        .card-title { margin: 0; font-size: 1rem; line-height: 1.5; color: var(--text-main); font-weight: 700; }
+        .card-source { margin-top: 10px; font-size: 0.75rem; color: var(--text-muted); display: flex; align-items: center; gap: 6px; }
+        
+        .sentiment-line { position: absolute; right: 0; top: 0; bottom: 0; width: 3px; }
+
+        /* Skeleton Loading */
+        .skeleton { background: linear-gradient(90deg, #1f1f23 25%, #2a2a30 50%, #1f1f23 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 4px; }
+        .sk-card { height: 110px; border-radius: 16px; margin-bottom: 15px; }
+
+        @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+        @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(239, 68, 68, 0.4); } 70% { box-shadow: 0 0 0 6px rgba(239, 68, 68, 0); } 100% { box-shadow: 0 0 0 0 transparent; } }
+        @keyframes ticker { 100% { transform: translateX(100%); } }
+
+        /* --- MOBILE RESPONSIVE --- */
+        @media (max-width: 960px) {
+            .app-wrapper {
+                display: flex;
+                flex-direction: column;
+                height: auto;
+                padding: 10px;
+                gap: 15px;
+            }
+
+            .header-area { position: sticky; top: 0; z-index: 999; margin: 0 -10px; width: calc(100% + 20px); border-radius: 0; border-left: none; border-right: none; }
+            
+            /* Hide sidebar by default or move it */
+            .sidebar-area { 
+                order: 2; /* Move to bottom */ 
+                max-height: none; 
+                overflow: visible; 
+            }
+            
+            .main-content { 
+                order: 1; 
+                max-height: none; 
+                overflow: visible; 
+                padding-bottom: 0; 
+            }
+
+            /* Make Clocks smaller on mobile */
+            .clock-time { font-size: 1.1rem; }
+
+            /* Card changes for Mobile */
+            .news-card {
+                grid-template-columns: 1fr; /* Stack Image on top */
+                grid-template-rows: 140px auto;
+            }
+            .card-img { width: 100%; height: 100%; }
+            .sentiment-line { top: 140px; } /* Adjust sentiment line */
+            
+            /* Market data horizontally scrolling on mobile */
+            .sidebar-area .panel:first-child {
+                display: flex;
+                flex-wrap: nowrap;
+                overflow-x: auto;
+                gap: 15px;
+                padding: 12px;
+            }
+            .sidebar-area .panel:first-child h4 { display: none; } /* Hide title on mobile */
+            .market-item { border-bottom: none; border-right: 1px solid var(--border-subtle); padding: 0 15px 0 0; min-width: 120px; flex-direction: column; align-items: flex-start; gap: 5px; }
+            .market-item:last-child { border: none; }
+            
+            .ticker-area { display: none; } /* Hide ticker on mobile to save space */
         }
     </style>
 </head>
 <body>
 
-<div class="app-container">
+<div class="app-wrapper">
     
-    <!-- HEADER -->
-    <header class="main-header">
+    <!-- Header -->
+    <header class="header-area">
         <div class="brand">
-            <div class="pulse-icon"></div>
-            <span>رصد هوشمند ایران</span>
+            <div class="live-dot"></div>
+            <span>Rasad<span style="color:var(--text-muted); font-weight:400">.Intel</span></span>
         </div>
-        <div class="sys-status" id="status-indicator">
-            <i class="fas fa-wifi"></i> SYSTEM ONLINE
+        <div class="system-status" id="sys-status">
+            <i class="fas fa-satellite-dish"></i> CONNECTING...
         </div>
     </header>
 
-    <!-- TICKER -->
-    <div class="ticker-bar">
-        <div class="ticker-content" id="ticker-content">
-            <!-- Filled via JS -->
-            <span class="ticker-item">در حال بارگذاری اطلاعات زنده...</span>
+    <!-- Ticker (Desktop Only) -->
+    <div class="ticker-area">
+        <div class="ticker-wrap">
+            <div class="ticker-move" id="ticker-content">
+                <!-- Ticker items -->
+            </div>
         </div>
     </div>
 
-    <!-- MAIN DASHBOARD -->
-    <main class="dashboard-content">
+    <!-- Sidebar (Market & Tools) -->
+    <aside class="sidebar-area">
+        <!-- Market -->
+        <div class="panel">
+            <h4><i class="fas fa-chart-line"></i> Market Data</h4>
+            <div class="market-item">
+                <span class="market-lbl"><i class="fas fa-dollar-sign"></i> USD/TMN</span>
+                <span class="market-val" id="price-usd">...</span>
+            </div>
+            <div class="market-item">
+                <span class="market-lbl"><i class="fab fa-bitcoin"></i> Bitcoin</span>
+                <span class="market-val" id="price-btc">...</span>
+            </div>
+            <div class="market-item">
+                <span class="market-lbl"><i class="fas fa-coins"></i> Gold/Gr</span>
+                <span class="market-val" id="price-gold">...</span>
+            </div>
+        </div>
+
+        <!-- Tools -->
+        <div class="panel">
+            <h4><i class="fas fa-toolbox"></i> OSINT Tools</h4>
+            <div class="tools-grid">
+                <a href="https://firms.modaps.eosdis.nasa.gov/map/#d:today;@53.7,32.4,6z" target="_blank" class="tool-btn">
+                    <i class="fas fa-fire"></i> NASA Fire
+                </a>
+                <a href="https://www.flightradar24.com/32.42,53.68/5" target="_blank" class="tool-btn">
+                    <i class="fas fa-plane"></i> FlightRadar
+                </a>
+                <a href="https://twitter.com/search?q=Iran%20(explosion%20OR%20attack)&f=live" target="_blank" class="tool-btn">
+                    <i class="fab fa-twitter"></i> Live Intel
+                </a>
+                <a href="https://netblocks.org/" target="_blank" class="tool-btn">
+                    <i class="fas fa-wifi"></i> NetBlocks
+                </a>
+            </div>
+        </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
         
-        <!-- SIDEBAR (Tools & Market) -->
-        <aside>
-            <!-- Market Panel -->
-            <div class="panel">
-                <div class="panel-title">
-                    <span><i class="fas fa-chart-line"></i> بازار مالی</span>
-                </div>
-                <div class="market-row">
-                    <span class="m-label"><i class="fas fa-dollar-sign"></i> دلار آزاد</span>
-                    <span class="m-value" id="usd-price">...</span>
-                </div>
-                <div class="market-row">
-                    <span class="m-label"><i class="fab fa-bitcoin"></i> بیت‌کوین</span>
-                    <span class="m-value" id="btc-price">...</span>
-                </div>
-                <div class="market-row">
-                    <span class="m-label"><i class="fas fa-coins"></i> تتر</span>
-                    <span class="m-value" id="usdt-price">...</span>
-                </div>
+        <!-- Clocks -->
+        <div class="clocks-row">
+            <div class="clock-box">
+                <span class="clock-city">TEHRAN</span>
+                <span class="clock-time" id="clock-teh">--:--</span>
             </div>
-
-            <!-- OSINT MAPS -->
-            <div class="panel">
-                <div class="panel-title">
-                    <span><i class="fas fa-map-marked-alt"></i> ابزارهای رصد</span>
-                </div>
-                <div class="tools-grid">
-                    <a href="https://firms.modaps.eosdis.nasa.gov/map/#d:today;@53.7,32.4,6z" target="_blank" class="tool-link">
-                        <i class="fas fa-fire"></i> NASA Fire
-                    </a>
-                    <a href="https://cybermap.kaspersky.com/" target="_blank" class="tool-link">
-                        <i class="fas fa-shield-virus"></i> Cyber Map
-                    </a>
-                    <a href="https://www.flightradar24.com/32.42,53.68/5" target="_blank" class="tool-link">
-                        <i class="fas fa-plane"></i> Flight Radar
-                    </a>
-                    <a href="https://netblocks.org/" target="_blank" class="tool-link">
-                        <i class="fas fa-wifi"></i> NetBlocks
-                    </a>
-                </div>
+            <div class="clock-box">
+                <span class="clock-city">TEL AVIV</span>
+                <span class="clock-time" id="clock-tlv">--:--</span>
             </div>
-
-            <!-- SOCIAL INTEL -->
-            <div class="panel">
-                <div class="panel-title">
-                    <span><i class="fab fa-twitter"></i> فیدهای اجتماعی</span>
-                </div>
-                <div class="tools-grid">
-                    <a href="https://twitter.com/search?q=Iran%20(explosion%20OR%20attack)&f=live" target="_blank" class="tool-link">
-                        <i class="fas fa-bolt"></i> فوری/امنیتی
-                    </a>
-                    <a href="https://twitter.com/search?q=%23Iran%20video&f=live" target="_blank" class="tool-link">
-                        <i class="fas fa-video"></i> تصاویر زنده
-                    </a>
-                    <a href="https://twitter.com/search?q=(Rial%20OR%20Toman)%20price&f=live" target="_blank" class="tool-link">
-                        <i class="fas fa-money-bill-wave"></i> نبض بازار
-                    </a>
-                    <a href="https://twitter.com/search?q=Israel%20Iran&f=live" target="_blank" class="tool-link">
-                        <i class="fas fa-crosshairs"></i> تقابل منطقه
-                    </a>
-                </div>
+            <div class="clock-box">
+                <span class="clock-city">WASHINGTON</span>
+                <span class="clock-time" id="clock-dc">--:--</span>
             </div>
-        </aside>
+        </div>
 
-        <!-- MAIN FEED AREA -->
-        <section>
-            <!-- Clocks & Tension -->
-            <div class="status-header">
-                <div class="clock-card">
-                    <div class="clock-label">تهران (Tehran)</div>
-                    <div class="clock-time" id="clock-tehran" style="color:var(--text-main)">--:--</div>
-                </div>
-                <div class="clock-card">
-                    <div class="clock-label">تل‌آویو (Tel Aviv)</div>
-                    <div class="clock-time" id="clock-tlv">--:--</div>
-                </div>
-                <div class="clock-card">
-                    <div class="clock-label">واشنگتن (DC)</div>
-                    <div class="clock-time" id="clock-dc">--:--</div>
-                </div>
-                
-                <div class="defcon-card">
-                    <div class="defcon-top">
-                        <span style="font-size:0.75rem; color:var(--text-muted)">سطح تنش (AI)</span>
-                        <span class="defcon-val" id="tension-text">Calculating...</span>
-                    </div>
-                    <div class="meter-bg">
-                        <div class="meter-fill" id="tension-fill"></div>
-                    </div>
-                </div>
+        <!-- Tension Meter -->
+        <div class="tension-panel">
+            <div class="tension-header">
+                <span class="tension-title">GEOPOLITICAL TENSION LEVEL (AI)</span>
+                <span class="tension-status" id="tension-txt">ANALYZING</span>
             </div>
-
-            <!-- Feed Filters -->
-            <div class="feed-controls">
-                <button class="filter-chip active" onclick="filterFeed('all', this)">همه اخبار</button>
-                <button class="filter-chip" onclick="filterFeed('نظامی', this)">نظامی / امنیتی</button>
-                <button class="filter-chip" onclick="filterFeed('هسته‌ای', this)">هسته‌ای</button>
-                <button class="filter-chip" onclick="filterFeed('اقتصادی', this)">اقتصادی</button>
-                <button class="filter-chip" onclick="filterFeed('سیاسی', this)">دیپلماتیک</button>
+            <div class="progress-track">
+                <div class="progress-fill" id="tension-bar"></div>
             </div>
+        </div>
 
-            <!-- Feed List -->
-            <div class="feed-container" id="feed-root">
-                <!-- Items injected here -->
-                <div style="text-align: center; padding: 50px; color: var(--text-muted);">
-                    <i class="fas fa-circle-notch fa-spin fa-2x"></i>
-                    <p style="margin-top:10px">در حال دریافت داده‌های زنده...</p>
-                </div>
-            </div>
+        <!-- Filters -->
+        <div class="feed-filters">
+            <button class="chip active" onclick="filterFeed('all', this)">All Feeds</button>
+            <button class="chip" onclick="filterFeed('نظامی', this)">Military</button>
+            <button class="chip" onclick="filterFeed('هسته‌ای', this)">Nuclear</button>
+            <button class="chip" onclick="filterFeed('اقتصادی', this)">Economy</button>
+            <button class="chip" onclick="filterFeed('سیاسی', this)">Politics</button>
+        </div>
 
-        </section>
+        <!-- News Feed -->
+        <div id="feed-container">
+            <!-- Skeleton Loader -->
+            <div class="skeleton sk-card"></div>
+            <div class="skeleton sk-card"></div>
+            <div class="skeleton sk-card"></div>
+        </div>
+        
     </main>
-
 </div>
 
 <script>
-    // --- STATE MANAGEMENT ---
-    let allNews = [];
+    /* --- CONFIG & STATE --- */
+    let newsData = [];
     let currentFilter = 'all';
 
-    // --- 1. WORLD CLOCKS (Functionality Preserved) ---
+    /* --- 1. TIME LOGIC --- */
     function updateClocks() {
         const now = new Date();
-        const fmt = (tz) => new Intl.DateTimeFormat('en-GB', {
-            timeZone: tz, hour: '2-digit', minute: '2-digit', hour12: false
+        const getShiftedTime = (tz) => new Intl.DateTimeFormat('en-GB', {
+            timeZone: tz, hour:'2-digit', minute:'2-digit', hour12: false
         }).format(now);
 
-        document.getElementById('clock-dc').innerText = fmt('America/New_York');
-        document.getElementById('clock-tehran').innerText = fmt('Asia/Tehran');
-        document.getElementById('clock-tlv').innerText = fmt('Asia/Jerusalem');
+        document.getElementById('clock-teh').innerText = getShiftedTime('Asia/Tehran');
+        document.getElementById('clock-tlv').innerText = getShiftedTime('Asia/Jerusalem');
+        document.getElementById('clock-dc').innerText = getShiftedTime('America/New_York');
     }
     setInterval(updateClocks, 1000);
     updateClocks();
 
-    // --- 2. TENSION METER LOGIC (Functionality Preserved) ---
-    function updateTensionMeter(news) {
-        const recent = news.slice(0, 20);
-        if(recent.length === 0) return;
+    /* --- 2. MARKET DATA --- */
+    async function fetchMarket() {
+        // Crypto
+        try {
+            const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,pax-gold&vs_currencies=usd');
+            const data = await res.json();
+            document.getElementById('price-btc').innerText = `$${(data.bitcoin.usd / 1000).toFixed(1)}k`;
+            document.getElementById('price-gold').innerText = `$${data['pax-gold'].usd.toFixed(0)}`;
+        } catch(e) {}
 
-        // Simple sentiment logic
-        const avgSentiment = recent.reduce((sum, n) => sum + (n.sentiment || 0), 0) / recent.length;
-        const dangerCount = recent.filter(n => n.tag === 'نظامی' || n.tag === 'هسته‌ای').length;
-        
-        const textEl = document.getElementById('tension-text');
-        const fillEl = document.getElementById('tension-fill');
-        
-        if (dangerCount > 8 || avgSentiment < -0.15) {
-            textEl.innerText = "CRITICAL / بحرانی";
-            textEl.style.color = "var(--accent)";
-            fillEl.style.width = "100%";
-            fillEl.style.background = "var(--accent)";
-            fillEl.style.boxShadow = "0 0 10px var(--accent)";
-        } else if (dangerCount > 4 || avgSentiment < -0.05) {
-            textEl.innerText = "HIGH / افزایش یافته";
-            textEl.style.color = "var(--warning)";
-            fillEl.style.width = "66%";
-            fillEl.style.background = "var(--warning)";
-            fillEl.style.boxShadow = "none";
-        } else {
-            textEl.innerText = "STABLE / عادی";
-            textEl.style.color = "var(--success)";
-            fillEl.style.width = "33%";
-            fillEl.style.background = "var(--success)";
-            fillEl.style.boxShadow = "none";
+        // Local JSON (Iran Market)
+        try {
+            const res = await fetch('market.json?t=' + Date.now());
+            const data = await res.json();
+            document.getElementById('price-usd').innerText = data.usd + " T";
+        } catch(e) {
+            document.getElementById('price-usd').innerText = "N/A";
+        }
+    }
+    fetchMarket();
+
+    /* --- 3. FEED & TENSION LOGIC --- */
+    async function loadNews() {
+        try {
+            const res = await fetch('news.json?t=' + Date.now());
+            const data = await res.json();
+            
+            if (JSON.stringify(data) !== JSON.stringify(newsData)) {
+                newsData = data;
+                renderFeed();
+                updateTicker();
+                updateTension();
+                
+                const stat = document.getElementById('sys-status');
+                stat.innerHTML = '<i class="fas fa-check-circle"></i> SYSTEM ONLINE';
+                stat.style.color = 'var(--accent-green)';
+                stat.style.background = 'rgba(16, 185, 129, 0.1)';
+            }
+        } catch (e) {
+            console.error(e);
         }
     }
 
-    // --- 3. MARKET DATA FETCH (Functionality Preserved) ---
-    function fetchMarketData() {
-        // BTC
-        fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,tether&vs_currencies=usd')
-            .then(r => r.json()).then(d => {
-                document.getElementById('btc-price').innerText = "$" + d.bitcoin.usd.toLocaleString();
-                document.getElementById('usdt-price').innerText = "$" + d.tether.usd.toFixed(2);
-            }).catch(e => console.log(e));
+    function updateTension() {
+        const recent = newsData.slice(0, 15);
+        if(!recent.length) return;
 
-        // USD (Local JSON Simulation)
-        fetch('market.json?t=' + Date.now())
-            .then(r => r.json()).then(d => {
-                document.getElementById('usd-price').innerText = parseInt(d.usd).toLocaleString() + " T";
-            }).catch(e => document.getElementById('usd-price').innerText = "N/A");
-    }
-    fetchMarketData();
-    setInterval(fetchMarketData, 60000);
+        // Simple Heuristic
+        let score = 0;
+        recent.forEach(n => {
+            if(n.tag === 'نظامی') score += 10;
+            if(n.tag === 'هسته‌ای') score += 8;
+            if(n.sentiment < -0.2) score += 5;
+        });
 
-    // --- 4. NEWS & FEED LOGIC ---
-    function loadData() {
-        fetch('news.json?t=' + Date.now())
-            .then(res => res.json())
-            .then(data => {
-                // Only update if changed
-                if (JSON.stringify(data) !== JSON.stringify(allNews)) {
-                    allNews = data;
-                    renderFeed();
-                    renderTicker();
-                    updateTensionMeter(data);
-                    
-                    const status = document.getElementById('status-indicator');
-                    status.innerHTML = '<i class="fas fa-check-circle"></i> SYSTEM ONLINE';
-                    status.style.color = 'var(--success)';
-                    status.style.borderColor = 'rgba(16, 185, 129, 0.2)';
-                }
-            })
-            .catch(() => {
-                const status = document.getElementById('status-indicator');
-                status.innerHTML = '<i class="fas fa-exclamation-triangle"></i> CONNECTION LOST';
-                status.style.color = 'var(--accent)';
-                status.style.borderColor = 'var(--accent)';
-            });
+        const bar = document.getElementById('tension-bar');
+        const txt = document.getElementById('tension-txt');
+        
+        let width = Math.min(score, 100);
+        let color = 'var(--accent-green)';
+        let status = 'LOW / STABLE';
+
+        if(score > 30) { color = 'var(--accent-orange)'; status = 'ELEVATED'; }
+        if(score > 60) { color = 'var(--accent-red)'; status = 'CRITICAL'; }
+
+        bar.style.width = width + '%';
+        bar.style.background = color;
+        bar.style.color = color; // For box-shadow
+        txt.innerText = status;
+        txt.style.color = color;
     }
 
     function getTagClass(tag) {
         if(tag.includes('نظامی')) return 'military';
         if(tag.includes('هسته‌ای')) return 'nuclear';
         if(tag.includes('اقتصادی')) return 'eco';
-        return 'generic';
+        return 'general';
     }
 
     function renderFeed() {
-        const root = document.getElementById('feed-root');
-        root.innerHTML = '';
-        
+        const container = document.getElementById('feed-container');
         const filtered = currentFilter === 'all' 
-            ? allNews 
-            : allNews.filter(n => (n.tag && n.tag.includes(currentFilter)));
-
+            ? newsData 
+            : newsData.filter(n => n.tag && n.tag.includes(currentFilter));
+        
         if(filtered.length === 0) {
-            root.innerHTML = '<p style="text-align:center; color:#555; padding:20px;">اطلاعاتی با این فیلتر موجود نیست</p>';
+            container.innerHTML = `<div style="text-align:center; padding:30px; color:var(--text-muted)">No reports found in this category.</div>`;
             return;
         }
 
-        filtered.forEach((item, index) => {
-            let imgHTML = `<div class="card-visual"><i class="fas fa-satellite-dish"></i></div>`;
-            if(item.image) {
-                imgHTML = `<div class="card-visual"><img src="${item.image}" loading="lazy" onerror="this.parentNode.innerHTML='<i class=\\'fas fa-image\\'></i>'"></div>`;
-            }
+        let html = '';
+        filtered.forEach(item => {
+            const tagCls = getTagClass(item.tag || '');
+            const timeStr = new Date(item.date).toLocaleTimeString('fa-IR', {hour:'2-digit', minute:'2-digit'});
+            
+            // Image handling with fallback
+            let imgUrl = item.image;
+            if(!imgUrl || imgUrl.length < 10) imgUrl = "https://placehold.co/600x400/1e1e23/FFF?text=INTEL";
 
-            // Sentiment Color Bar
-            let sentColor = 'rgba(255,255,255,0.1)';
-            if(item.sentiment > 0.1) sentColor = 'var(--success)';
-            if(item.sentiment < -0.1) sentColor = 'var(--accent)';
+            // Sentiment Color
+            let sColor = 'transparent';
+            if(item.sentiment > 0.1) sColor = 'var(--accent-green)';
+            if(item.sentiment < -0.1) sColor = 'var(--accent-red)';
 
-            const tagClass = getTagClass(item.tag || '');
-
-            const html = `
-            <div class="intel-card" style="animation-delay: ${index * 0.05}s">
-                <div class="sentiment-indicator" style="background: ${sentColor}"></div>
-                ${imgHTML}
-                <div class="card-body">
-                    <div class="card-meta">
-                        <span class="intel-tag ${tagClass}">${item.tag || 'GENERAL'}</span>
-                        <span style="color:var(--text-muted)"><i class="far fa-clock"></i> ${timeAgo(item.date)}</span>
-                    </div>
-                    <h3 class="card-title">${item.title_fa}</h3>
-                    <span class="card-subtitle">${item.title_en || ''}</span>
-                    
-                    <div class="card-footer">
-                        <span class="source-name"><i class="fas fa-rss"></i> ${item.source}</span>
-                        <div class="card-actions">
-                            <button onclick="navigator.clipboard.writeText('${item.url}')" title="Copy Link"><i class="fas fa-link"></i></button>
-                            <a href="${item.url}" target="_blank" title="Open Source"><i class="fas fa-external-link-alt"></i></a>
+            html += `
+            <article class="news-card">
+                <div class="sentiment-line" style="background:${sColor}"></div>
+                <div class="card-img">
+                    <img src="${imgUrl}" loading="lazy" alt="news">
+                </div>
+                <div class="card-content">
+                    <div>
+                        <div class="card-header">
+                            <span class="tag ${tagCls}">${item.tag || 'INFO'}</span>
+                            <span style="color:var(--text-muted)">${timeStr}</span>
                         </div>
+                        <h3 class="card-title"><a href="${item.url}" target="_blank" style="text-decoration:none; color:inherit">${item.title_fa}</a></h3>
+                        <p style="margin:5px 0 0; font-size:0.8rem; color:var(--text-muted); font-family:'JetBrains Mono'">${item.title_en || ''}</p>
+                    </div>
+                    <div class="card-source">
+                        <i class="fas fa-rss"></i> ${item.source}
+                        <i class="fas fa-external-link-alt" style="margin-right:auto"></i>
                     </div>
                 </div>
-            </div>`;
-            root.innerHTML += html;
+            </article>
+            `;
         });
+        container.innerHTML = html;
     }
 
-    function renderTicker() {
+    function updateTicker() {
         const t = document.getElementById('ticker-content');
-        let txt = '';
-        allNews.slice(0, 10).forEach(n => {
-            txt += `<span class="ticker-item">${n.title_fa} <span style="font-family:'JetBrains Mono'; font-size:0.7em; opacity:0.5">${n.source}</span></span>`;
+        let html = '';
+        newsData.slice(0, 8).forEach(n => {
+            html += `<span class="ticker-item">${n.title_fa}</span>`;
         });
-        // Duplicate for smooth loop
-        t.innerHTML = txt + txt; 
+        t.innerHTML = html + html; // Duplicate for smooth loop
     }
 
-    function timeAgo(date) {
-        const diff = (new Date() - new Date(date)) / 1000;
-        if(isNaN(diff)) return "";
-        if(diff < 60) return "Just now";
-        if(diff < 3600) return Math.floor(diff/60) + "m ago";
-        if(diff < 86400) return Math.floor(diff/3600) + "h ago";
-        return Math.floor(diff/86400) + "d ago";
-    }
-
-    function filterFeed(tag, btn) {
+    window.filterFeed = (tag, btn) => {
         currentFilter = tag;
-        document.querySelectorAll('.filter-chip').forEach(b => b.classList.remove('active'));
+        document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
         btn.classList.add('active');
         renderFeed();
-    }
+    };
 
-    // Initial Load
-    loadData();
-    setInterval(loadData, 30000); 
+    // Initialize
+    loadNews();
+    setInterval(loadNews, 30000);
 
 </script>
 </body>
