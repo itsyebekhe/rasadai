@@ -1,454 +1,208 @@
 <!DOCTYPE html>
-<html lang="fa" dir="rtl">
+<html lang="fa" dir="rtl" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>سامانه رصد هوشمند | Intel Radar</title>
     
-    <!-- External Assets -->
+    <!-- Fonts -->
     <link href="https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700;800&display=swap" rel="stylesheet">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
     
-    <style>
-        :root {
-            /* Palette */
-            --bg-body: #050507;
-            --bg-card: rgba(20, 20, 25, 0.7);
-            --bg-card-hover: rgba(35, 35, 40, 0.9);
-            --bg-glass: rgba(10, 10, 12, 0.8);
-            
-            --border-dim: rgba(255, 255, 255, 0.05);
-            --border-light: rgba(255, 255, 255, 0.15);
-            
-            --text-main: #e0e0e0;
-            --text-muted: #858585;
-            
-            /* Status Colors */
-            --accent-red: #ff3b30;
-            --accent-orange: #ff9500;
-            --accent-green: #34c759;
-            --accent-blue: #0a84ff;
-            --accent-purple: #bf5af2;
-            
-            --shadow-neon: 0 0 10px rgba(10, 132, 255, 0.2);
-        }
-
-        /* --- GLOBAL RESET --- */
-        * { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-        
-        body {
-            margin: 0; padding: 0;
-            background-color: var(--bg-body);
-            background-image: 
-                radial-gradient(circle at 15% 50%, rgba(10, 132, 255, 0.04) 0%, transparent 25%),
-                radial-gradient(circle at 85% 30%, rgba(255, 59, 48, 0.03) 0%, transparent 25%);
-            color: var(--text-main);
-            font-family: 'Vazirmatn', sans-serif;
-            overflow-x: hidden;
-            min-height: 100vh;
-        }
-
-        ::-webkit-scrollbar { width: 6px; }
-        ::-webkit-scrollbar-track { background: var(--bg-body); }
-        ::-webkit-scrollbar-thumb { background: #333; border-radius: 4px; }
-
-        /* --- LAYOUT GRID --- */
-        .app-container {
-            max-width: 1440px;
-            margin: 0 auto;
-            padding: 15px;
-            display: grid;
-            grid-template-rows: auto auto 1fr;
-            grid-template-columns: 300px 1fr;
-            gap: 20px;
-            height: 100vh;
-        }
-
-        /* --- HEADER --- */
-        .header-bar {
-            grid-column: 1 / -1;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            padding: 12px 20px;
-            background: var(--bg-glass);
-            backdrop-filter: blur(16px);
-            border: 1px solid var(--border-dim);
-            border-radius: 16px;
-            z-index: 100;
-        }
-
-        .brand {
-            font-weight: 900;
-            font-size: 1.1rem;
-            display: flex;
-            align-items: center;
-            gap: 12px;
-            letter-spacing: -0.5px;
-        }
-        
-        .status-dot {
-            width: 8px; height: 8px;
-            background: var(--accent-red);
-            border-radius: 50%;
-            box-shadow: 0 0 0 0 rgba(255, 59, 48, 0.7);
-            animation: pulse 2s infinite;
-        }
-
-        .sys-badge {
-            font-family: 'JetBrains Mono';
-            font-size: 0.7rem;
-            background: rgba(10, 132, 255, 0.1);
-            color: var(--accent-blue);
-            padding: 4px 12px;
-            border-radius: 100px;
-            border: 1px solid rgba(10, 132, 255, 0.2);
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-
-        /* --- TICKER --- */
-        .ticker-bar {
-            grid-column: 1 / -1;
-            background: var(--bg-card);
-            border: 1px solid var(--border-dim);
-            border-radius: 12px;
-            height: 38px;
-            display: flex;
-            align-items: center;
-            overflow: hidden;
-            font-size: 0.85rem;
-            color: var(--text-muted);
-        }
-        .ticker-track { display: flex; white-space: nowrap; animation: scroll 80s linear infinite; }
-        .ticker-item { margin: 0 25px; display: flex; align-items: center; gap: 8px; }
-        .ticker-item::before { content: '⚡'; font-size: 0.8em; opacity: 0.7; }
-
-        /* --- SIDEBAR (Market & Tools) --- */
-        .sidebar {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            overflow-y: auto;
-        }
-        
-        .panel {
-            background: var(--bg-card);
-            border: 1px solid var(--border-dim);
-            border-radius: 16px;
-            padding: 16px;
-        }
-        
-        .panel-head {
-            font-size: 0.8rem;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 1px;
-            margin-bottom: 15px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-        }
-
-        .market-row {
-            display: flex;
-            justify-content: space-between;
-            padding: 8px 0;
-            border-bottom: 1px solid var(--border-dim);
-        }
-        .market-row:last-child { border-bottom: none; }
-        .m-val { font-family: 'JetBrains Mono'; font-weight: 700; color: var(--text-main); }
-        
-        .tools-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
-        .tool-btn {
-            background: rgba(255,255,255,0.02);
-            border: 1px solid var(--border-dim);
-            color: var(--text-muted);
-            padding: 12px;
-            border-radius: 10px;
-            font-size: 0.75rem;
-            text-align: center;
-            text-decoration: none;
-            transition: 0.2s;
-            display: flex;
-            flex-direction: column;
-            gap: 8px;
-            align-items: center;
-        }
-        .tool-btn:hover { background: rgba(10, 132, 255, 0.1); border-color: var(--accent-blue); color: #fff; transform: translateY(-2px); }
-
-        /* --- MAIN FEED --- */
-        .main-feed {
-            display: flex;
-            flex-direction: column;
-            gap: 15px;
-            overflow-y: auto;
-            padding-right: 5px; /* space for scrollbar */
-        }
-
-        /* Clocks */
-        .clocks { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; }
-        .clock-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border-dim);
-            border-radius: 12px;
-            padding: 10px;
-            text-align: center;
-        }
-        .clock-time { font-family: 'JetBrains Mono'; font-size: 1.3rem; font-weight: 700; display: block; margin-top: 4px; }
-        .clock-lbl { font-size: 0.7rem; color: var(--text-muted); }
-
-        /* Tension Meter */
-        .tension-box {
-            background: var(--bg-card);
-            border: 1px solid var(--border-dim);
-            border-radius: 12px;
-            padding: 15px;
-        }
-        .meter-bar { height: 6px; background: rgba(255,255,255,0.1); border-radius: 10px; overflow: hidden; margin-top: 10px; }
-        .meter-fill { height: 100%; width: 0%; transition: width 0.5s ease, background 0.5s; }
-
-        /* Filters */
-        .filters { display: flex; gap: 8px; overflow-x: auto; padding-bottom: 5px; scrollbar-width: none; }
-        .chip {
-            background: transparent;
-            border: 1px solid var(--border-dim);
-            color: var(--text-muted);
-            padding: 6px 14px;
-            border-radius: 100px;
-            font-size: 0.8rem;
-            cursor: pointer;
-            white-space: nowrap;
-            transition: 0.2s;
-        }
-        .chip.active { background: var(--text-main); color: #000; font-weight: bold; border-color: var(--text-main); }
-        .chip:hover:not(.active) { border-color: var(--text-main); color: var(--text-main); }
-
-        /* --- INTEL CARD --- */
-        .intel-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border-dim);
-            border-radius: 16px;
-            overflow: hidden;
-            display: grid;
-            grid-template-columns: 110px 1fr;
-            transition: transform 0.2s, border-color 0.2s;
-            position: relative;
-            animation: slideUp 0.4s ease forwards;
-        }
-        .intel-card:hover { border-color: var(--border-light); transform: translateY(-2px); }
-
-        .card-visual { background: #000; position: relative; }
-        .card-visual img { width: 100%; height: 100%; object-fit: cover; opacity: 0.8; }
-        
-        .sentiment-strip { position: absolute; left: 0; top: 0; bottom: 0; width: 3px; z-index: 2; }
-
-        .card-body { padding: 15px; display: flex; flex-direction: column; }
-        
-        .card-header { display: flex; justify-content: space-between; font-size: 0.7rem; margin-bottom: 8px; }
-        .tag { padding: 2px 8px; border-radius: 4px; font-weight: bold; }
-        .tag.military { background: rgba(255, 59, 48, 0.15); color: #ff8a84; }
-        .tag.nuclear { background: rgba(255, 149, 0, 0.15); color: #ffcc80; }
-        .tag.eco { background: rgba(52, 199, 89, 0.15); color: #8cfeb3; }
-        .tag.politics { background: rgba(10, 132, 255, 0.15); color: #80cfff; }
-
-        .card-title { margin: 0 0 5px 0; font-size: 1rem; line-height: 1.5; font-weight: 700; color: #fff; }
-        
-        /* EXPANDED AI SECTION */
-        .ai-brief {
-            margin-top: 15px;
-            background: rgba(0,0,0,0.3);
-            border-radius: 8px;
-            padding: 12px;
-            font-size: 0.85rem;
-            display: none; /* Hidden by default */
-            border-right: 2px solid var(--accent-purple);
-        }
-        .ai-label { color: var(--accent-purple); font-weight: bold; display: block; margin-bottom: 4px; font-size: 0.75rem; letter-spacing: 1px;}
-        .ai-text { color: #ccc; margin: 0 0 10px 0; line-height: 1.6; }
-        .ai-bullets { padding-right: 18px; margin: 0; color: #bbb; line-height: 1.5; }
-        .ai-bullets li { margin-bottom: 4px; }
-
-        .card-footer {
-            margin-top: auto;
-            padding-top: 10px;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-        }
-        .source { font-size: 0.75rem; color: var(--text-muted); display: flex; align-items: center; gap: 5px; }
-
-        .actions { display: flex; gap: 10px; }
-        .btn-ai {
-            background: transparent;
-            border: 1px solid var(--border-dim);
-            color: var(--text-main);
-            padding: 4px 10px;
-            border-radius: 6px;
-            font-size: 0.75rem;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            gap: 5px;
-            transition: 0.2s;
-        }
-        .btn-ai:hover { border-color: var(--accent-purple); color: var(--accent-purple); background: rgba(191, 90, 242, 0.1); }
-        .btn-link { color: var(--text-muted); font-size: 1rem; padding: 4px; transition: 0.2s; }
-        .btn-link:hover { color: var(--accent-blue); }
-
-        /* --- ANIMATIONS --- */
-        @keyframes pulse { 0% { box-shadow: 0 0 0 0 rgba(255, 59, 48, 0.4); } 70% { box-shadow: 0 0 0 6px rgba(255, 59, 48, 0); } 100% { box-shadow: 0 0 0 0 transparent; } }
-        @keyframes scroll { 0% { transform: translateX(0); } 100% { transform: translateX(50%); } }
-        @keyframes slideUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
-        .skeleton { background: linear-gradient(90deg, #151518 25%, #202025 50%, #151518 75%); background-size: 200% 100%; animation: shimmer 1.5s infinite; border-radius: 8px; height: 100px; margin-bottom: 10px; }
-        @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
-
-        /* --- MOBILE RESPONSIVE --- */
-        @media (max-width: 900px) {
-            .app-container {
-                display: flex;
-                flex-direction: column;
-                height: auto;
-                padding: 10px;
-                gap: 15px;
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Vazirmatn', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        dark: {
+                            900: '#050507',
+                            800: '#0e0e12',
+                            700: '#18181b',
+                        },
+                        neon: {
+                            blue: '#0a84ff',
+                            red: '#ff3b30',
+                            green: '#30d158',
+                            purple: '#bf5af2',
+                            orange: '#ff9f0a'
+                        }
+                    },
+                    animation: {
+                        'pulse-slow': 'pulse 3s cubic-bezier(0.4, 0, 0.6, 1) infinite',
+                        'shimmer': 'shimmer 1.5s infinite linear',
+                        'scroll': 'scroll 80s linear infinite',
+                    },
+                    keyframes: {
+                        shimmer: {
+                            '0%': { backgroundPosition: '200% 0' },
+                            '100%': { backgroundPosition: '-200% 0' }
+                        },
+                        scroll: {
+                            '0%': { transform: 'translateX(0)' },
+                            '100%': { transform: 'translateX(50%)' }
+                        }
+                    }
+                }
             }
-            .header-bar { position: sticky; top: 0; border-radius: 0; border-width: 0 0 1px 0; margin: -10px -10px 0 -10px; width: calc(100% + 20px); }
-            
-            .sidebar { order: 2; overflow: visible; }
-            .main-feed { order: 1; overflow: visible; padding-right: 0; }
-            
-            .intel-card { grid-template-columns: 1fr; grid-template-rows: 150px auto; }
-            .card-visual { width: 100%; height: 100%; }
-            .sentiment-strip { width: 100%; height: 3px; bottom: 0; top: auto; left: 0; }
-            
-            .tools-grid { grid-template-columns: repeat(4, 1fr); }
-            .tool-btn { font-size: 0.65rem; padding: 8px; }
-            .ticker-bar { display: none; } /* Hide ticker on mobile */
+        }
+    </script>
+
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .scrollbar-hide::-webkit-scrollbar { display: none; }
+            .glass { @apply bg-dark-800/80 backdrop-blur-md border border-white/5; }
+            .card-hover { @apply transition-all duration-300 hover:-translate-y-1 hover:border-white/20; }
+        }
+        body {
+            background-image: 
+                radial-gradient(circle at 10% 20%, rgba(10, 132, 255, 0.03) 0%, transparent 20%),
+                radial-gradient(circle at 90% 80%, rgba(255, 59, 48, 0.03) 0%, transparent 20%);
         }
     </style>
 </head>
-<body>
+<body class="bg-dark-900 text-gray-200 font-sans min-h-screen overflow-x-hidden selection:bg-neon-blue/20 selection:text-neon-blue">
 
-<div class="app-container">
+<div class="max-w-[1600px] mx-auto p-4 lg:p-6 grid lg:grid-cols-[300px_1fr] gap-6 relative">
     
     <!-- HEADER -->
-    <header class="header-bar">
-        <div class="brand">
-            <div class="status-dot"></div>
-            <span>Rasad<span style="color:#666">.AI</span></span>
+    <header class="lg:col-span-2 sticky top-0 z-50 glass rounded-2xl p-4 flex justify-between items-center shadow-lg shadow-black/50">
+        <div class="flex items-center gap-3">
+            <div class="relative w-3 h-3">
+                <span class="absolute inline-flex h-full w-full rounded-full bg-neon-red opacity-75 animate-ping"></span>
+                <span class="relative inline-flex rounded-full h-3 w-3 bg-neon-red"></span>
+            </div>
+            <h1 class="font-black text-xl tracking-tight">Rasad<span class="text-gray-600 font-light">.AI</span></h1>
         </div>
-        <div class="sys-badge" id="sys-status">
-            <i class="fas fa-satellite-dish"></i> CONNECTING
+        
+        <div id="sys-status" class="flex items-center gap-2 px-3 py-1 rounded-full bg-neon-blue/10 border border-neon-blue/20 text-neon-blue text-xs font-mono">
+            <i class="fas fa-satellite-dish animate-pulse"></i> CONNECTING...
         </div>
     </header>
 
-    <!-- TICKER (Desktop) -->
-    <div class="ticker-bar">
-        <div class="ticker-track" id="ticker-content">
-            <div class="ticker-item">در حال دریافت داده‌های زنده...</div>
+    <!-- TICKER -->
+    <div class="lg:col-span-2 bg-dark-800 border border-white/5 rounded-xl h-10 flex items-center overflow-hidden relative">
+        <div id="ticker-content" class="flex whitespace-nowrap animate-scroll min-w-full">
+            <span class="px-8 text-sm text-gray-500">در حال دریافت داده‌های زنده...</span>
         </div>
     </div>
 
     <!-- SIDEBAR -->
-    <aside class="sidebar">
-        <!-- Market Data -->
-        <div class="panel">
-            <div class="panel-head"><i class="fas fa-chart-line"></i> بازار مالی</div>
-            <div class="market-row">
-                <span style="color:var(--text-muted)">دلار تهران</span>
-                <span class="m-val" id="price-usd">...</span>
-            </div>
-            <div class="market-row">
-                <span style="color:var(--text-muted)">بیت‌کوین</span>
-                <span class="m-val" id="price-btc">...</span>
-            </div>
-            <div class="market-row">
-                <span style="color:var(--text-muted)">تتر</span>
-                <span class="m-val" id="price-usdt">...</span>
+    <aside class="space-y-4 order-2 lg:order-1">
+        
+        <!-- Market -->
+        <div class="glass rounded-2xl p-5">
+            <h4 class="text-xs font-bold text-gray-500 mb-4 flex items-center gap-2">
+                <i class="fas fa-chart-line"></i> بازار مالی
+            </h4>
+            <div class="space-y-3">
+                <div class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-sm text-gray-400">دلار تهران</span>
+                    <span id="price-usd" class="font-mono font-bold text-gray-200">...</span>
+                </div>
+                <div class="flex justify-between items-center border-b border-white/5 pb-2">
+                    <span class="text-sm text-gray-400">بیت‌کوین</span>
+                    <span id="price-btc" class="font-mono font-bold text-gray-200">...</span>
+                </div>
+                <div class="flex justify-between items-center">
+                    <span class="text-sm text-gray-400">تتر</span>
+                    <span id="price-usdt" class="font-mono font-bold text-gray-200">...</span>
+                </div>
             </div>
         </div>
 
         <!-- Tension Meter -->
-        <div class="tension-box">
-            <div style="display:flex; justify-content:space-between; margin-bottom:5px;">
-                <span style="font-size:0.75rem; color:var(--text-muted)">TENSION LEVEL (AI)</span>
-                <span style="font-weight:800; font-size:0.9rem;" id="tension-text">ANALYZING</span>
+        <div class="glass rounded-2xl p-5">
+            <div class="flex justify-between items-center mb-2">
+                <span class="text-[10px] font-bold text-gray-500 tracking-wider">TENSION LEVEL (AI)</span>
+                <span id="tension-text" class="text-xs font-black text-gray-300">ANALYZING</span>
             </div>
-            <div class="meter-bar">
-                <div class="meter-fill" id="tension-fill"></div>
+            <div class="h-1.5 w-full bg-white/5 rounded-full overflow-hidden">
+                <div id="tension-fill" class="h-full bg-neon-green w-0 transition-all duration-1000 ease-out shadow-[0_0_10px_currentColor]"></div>
             </div>
         </div>
 
         <!-- Tools -->
-        <div class="panel">
-            <div class="panel-head"><i class="fas fa-toolbox"></i> ابزارهای رصد</div>
-            <div class="tools-grid">
-                <a href="https://firms.modaps.eosdis.nasa.gov/map/#d:today;@53.7,32.4,6z" target="_blank" class="tool-btn">
-                    <i class="fas fa-fire"></i> NASA Fire
+        <div class="glass rounded-2xl p-5">
+            <h4 class="text-xs font-bold text-gray-500 mb-4 flex items-center gap-2">
+                <i class="fas fa-toolbox"></i> ابزارهای رصد
+            </h4>
+            <div class="grid grid-cols-2 gap-2">
+                <a href="https://firms.modaps.eosdis.nasa.gov/" target="_blank" class="flex flex-col items-center gap-2 p-3 rounded-xl bg-white/5 hover:bg-neon-blue/10 hover:border-neon-blue/30 border border-transparent transition-all group">
+                    <i class="fas fa-fire text-lg text-gray-400 group-hover:text-neon-blue"></i>
+                    <span class="text-[10px] text-gray-400">NASA FIRE</span>
                 </a>
-                <a href="https://www.flightradar24.com/32.42,53.68/5" target="_blank" class="tool-btn">
-                    <i class="fas fa-plane"></i> FlightRadar
+                <a href="https://www.flightradar24.com/" target="_blank" class="flex flex-col items-center gap-2 p-3 rounded-xl bg-white/5 hover:bg-neon-blue/10 hover:border-neon-blue/30 border border-transparent transition-all group">
+                    <i class="fas fa-plane text-lg text-gray-400 group-hover:text-neon-blue"></i>
+                    <span class="text-[10px] text-gray-400">FLIGHT RADAR</span>
                 </a>
-                <a href="https://twitter.com/search?q=Iran%20(explosion%20OR%20attack)&f=live" target="_blank" class="tool-btn">
-                    <i class="fab fa-twitter"></i> Live Intel
+                <a href="https://twitter.com/search?q=Iran&f=live" target="_blank" class="flex flex-col items-center gap-2 p-3 rounded-xl bg-white/5 hover:bg-neon-blue/10 hover:border-neon-blue/30 border border-transparent transition-all group">
+                    <i class="fab fa-twitter text-lg text-gray-400 group-hover:text-neon-blue"></i>
+                    <span class="text-[10px] text-gray-400">SOCIAL INTEL</span>
                 </a>
-                <a href="https://netblocks.org/" target="_blank" class="tool-btn">
-                    <i class="fas fa-wifi"></i> NetBlocks
+                <a href="https://netblocks.org/" target="_blank" class="flex flex-col items-center gap-2 p-3 rounded-xl bg-white/5 hover:bg-neon-blue/10 hover:border-neon-blue/30 border border-transparent transition-all group">
+                    <i class="fas fa-wifi text-lg text-gray-400 group-hover:text-neon-blue"></i>
+                    <span class="text-[10px] text-gray-400">NETBLOCKS</span>
                 </a>
             </div>
         </div>
     </aside>
 
     <!-- MAIN FEED -->
-    <main class="main-feed">
+    <main class="flex flex-col gap-6 order-1 lg:order-2">
+        
         <!-- Clocks -->
-        <div class="clocks">
-            <div class="clock-card">
-                <span class="clock-lbl">TEHRAN</span>
-                <span class="clock-time" id="clock-teh">--:--</span>
+        <div class="grid grid-cols-3 gap-3">
+            <div class="glass rounded-xl p-3 text-center">
+                <span class="text-[10px] text-gray-500 block mb-1">TEHRAN</span>
+                <span id="clock-teh" class="font-mono font-bold text-xl text-gray-200">--:--</span>
             </div>
-            <div class="clock-card">
-                <span class="clock-lbl">TEL AVIV</span>
-                <span class="clock-time" id="clock-tlv">--:--</span>
+            <div class="glass rounded-xl p-3 text-center">
+                <span class="text-[10px] text-gray-500 block mb-1">TEL AVIV</span>
+                <span id="clock-tlv" class="font-mono font-bold text-xl text-gray-200">--:--</span>
             </div>
-            <div class="clock-card">
-                <span class="clock-lbl">WASH DC</span>
-                <span class="clock-time" id="clock-dc">--:--</span>
+            <div class="glass rounded-xl p-3 text-center">
+                <span class="text-[10px] text-gray-500 block mb-1">WASH DC</span>
+                <span id="clock-dc" class="font-mono font-bold text-xl text-gray-200">--:--</span>
             </div>
         </div>
 
-        <!-- Filters -->
-        <div class="filters">
-            <button class="chip active" onclick="filterFeed('all', this)">همه گزارش‌ها</button>
-            <button class="chip" onclick="filterFeed('نظامی', this)">نظامی</button>
-            <button class="chip" onclick="filterFeed('هسته‌ای', this)">هسته‌ای</button>
-            <button class="chip" onclick="filterFeed('اقتصادی', this)">اقتصادی</button>
-            <button class="chip" onclick="filterFeed('سیاسی', this)">سیاسی</button>
+        <!-- Filter Chips -->
+        <div class="flex gap-2 overflow-x-auto pb-2 scrollbar-hide mask-fade">
+            <button onclick="filterFeed('all', this)" class="chip active whitespace-nowrap px-4 py-1.5 rounded-full text-xs font-medium border transition-colors bg-gray-200 text-black border-gray-200">همه گزارش‌ها</button>
+            <button onclick="filterFeed('نظامی', this)" class="chip whitespace-nowrap px-4 py-1.5 rounded-full text-xs font-medium border border-white/10 text-gray-400 hover:border-white/30 hover:text-white transition-colors">نظامی</button>
+            <button onclick="filterFeed('هسته‌ای', this)" class="chip whitespace-nowrap px-4 py-1.5 rounded-full text-xs font-medium border border-white/10 text-gray-400 hover:border-white/30 hover:text-white transition-colors">هسته‌ای</button>
+            <button onclick="filterFeed('اقتصادی', this)" class="chip whitespace-nowrap px-4 py-1.5 rounded-full text-xs font-medium border border-white/10 text-gray-400 hover:border-white/30 hover:text-white transition-colors">اقتصادی</button>
+            <button onclick="filterFeed('سیاسی', this)" class="chip whitespace-nowrap px-4 py-1.5 rounded-full text-xs font-medium border border-white/10 text-gray-400 hover:border-white/30 hover:text-white transition-colors">سیاسی</button>
         </div>
 
-        <!-- Feed List -->
-        <div id="feed-container">
-            <div class="skeleton"></div>
-            <div class="skeleton"></div>
-            <div class="skeleton"></div>
+        <!-- News Feed -->
+        <div id="feed-container" class="space-y-4">
+            <!-- Skeleton Loader -->
+            <div class="h-28 w-full rounded-2xl bg-gradient-to-r from-dark-800 via-dark-700 to-dark-800 bg-[length:200%_100%] animate-shimmer"></div>
+            <div class="h-28 w-full rounded-2xl bg-gradient-to-r from-dark-800 via-dark-700 to-dark-800 bg-[length:200%_100%] animate-shimmer"></div>
         </div>
+
     </main>
+
 </div>
 
 <script>
-    /* --- CONFIG --- */
+    /* --- STATE --- */
     let newsData = [];
     let currentFilter = 'all';
 
     /* --- 1. CLOCKS --- */
     function updateClocks() {
         const now = new Date();
-        const fmt = (tz) => new Intl.DateTimeFormat('en-GB', {
-            timeZone: tz, hour: '2-digit', minute: '2-digit', hour12: false
-        }).format(now);
-        
+        const fmt = (tz) => new Intl.DateTimeFormat('en-GB', { timeZone: tz, hour: '2-digit', minute: '2-digit', hour12: false }).format(now);
         document.getElementById('clock-teh').innerText = fmt('Asia/Tehran');
         document.getElementById('clock-tlv').innerText = fmt('Asia/Jerusalem');
         document.getElementById('clock-dc').innerText = fmt('America/New_York');
@@ -456,9 +210,8 @@
     setInterval(updateClocks, 1000);
     updateClocks();
 
-    /* --- 2. MARKET DATA --- */
+    /* --- 2. MARKET --- */
     async function fetchMarket() {
-        // Crypto
         try {
             const r = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,tether&vs_currencies=usd');
             const d = await r.json();
@@ -466,109 +219,98 @@
             document.getElementById('price-usdt').innerText = `$${d.tether.usd.toFixed(2)}`;
         } catch(e) {}
 
-        // Local USD (from market.json)
         try {
             const r = await fetch('market.json?t=' + Date.now());
             const d = await r.json();
             document.getElementById('price-usd').innerText = d.usd + " T";
-        } catch(e) {
-            document.getElementById('price-usd').innerText = "N/A";
-        }
+        } catch(e) { document.getElementById('price-usd').innerText = "N/A"; }
     }
     fetchMarket();
     setInterval(fetchMarket, 60000);
 
-    /* --- 3. CORE LOGIC --- */
+    /* --- 3. FEED LOGIC --- */
     async function loadData() {
         try {
             const res = await fetch('news.json?t=' + Date.now());
             const data = await res.json();
-            
-            // Basic equality check to avoid re-rendering if identical
             if (JSON.stringify(data) !== JSON.stringify(newsData)) {
                 newsData = data;
                 renderFeed();
                 updateTicker();
                 updateTension(data);
-                
                 const s = document.getElementById('sys-status');
                 s.innerHTML = '<i class="fas fa-check-circle"></i> SYSTEM ONLINE';
-                s.style.color = 'var(--accent-green)';
-                s.style.borderColor = 'var(--accent-green)';
-                s.style.background = 'rgba(52, 199, 89, 0.1)';
+                s.className = "flex items-center gap-2 px-3 py-1 rounded-full bg-neon-green/10 border border-neon-green/20 text-neon-green text-xs font-mono";
             }
-        } catch (e) {
-            console.error("Data Load Error:", e);
-        }
+        } catch (e) { console.error(e); }
     }
 
-    function getTagClass(tag) {
-        if(tag.includes('نظامی')) return 'military';
-        if(tag.includes('هسته‌ای')) return 'nuclear';
-        if(tag.includes('اقتصادی')) return 'eco';
-        if(tag.includes('سیاسی')) return 'politics';
-        return 'generic';
+    function getTagStyles(tag) {
+        if(tag.includes('نظامی')) return 'bg-neon-red/10 text-neon-red border-neon-red/20';
+        if(tag.includes('هسته‌ای')) return 'bg-neon-orange/10 text-neon-orange border-neon-orange/20';
+        if(tag.includes('اقتصادی')) return 'bg-neon-green/10 text-neon-green border-neon-green/20';
+        if(tag.includes('سیاسی')) return 'bg-neon-blue/10 text-neon-blue border-neon-blue/20';
+        return 'bg-white/5 text-gray-400 border-white/10';
     }
 
     function renderFeed() {
         const root = document.getElementById('feed-container');
-        const filtered = currentFilter === 'all' 
-            ? newsData 
-            : newsData.filter(n => n.tag && n.tag.includes(currentFilter));
+        const filtered = currentFilter === 'all' ? newsData : newsData.filter(n => n.tag && n.tag.includes(currentFilter));
 
         if(filtered.length === 0) {
-            root.innerHTML = '<div style="text-align:center; padding:30px; color:#555;">گزارشی با این فیلتر موجود نیست</div>';
+            root.innerHTML = '<div class="text-center py-10 text-gray-600 text-sm">گزارشی موجود نیست</div>';
             return;
         }
 
         let html = '';
         filtered.forEach((item, index) => {
-            // Fallbacks
-            const img = item.image || "https://placehold.co/600x400/111/444?text=Rasad.AI";
-            const summaryPoints = Array.isArray(item.summary) 
-                ? item.summary.map(s => `<li>${s}</li>`).join('') 
-                : `<li>${item.summary || 'تحلیل در دسترس نیست'}</li>`;
+            const img = item.image || "https://placehold.co/600x400/111/444?text=INTEL";
+            const summaryHTML = Array.isArray(item.summary) 
+                ? item.summary.map(s => `<li class="mb-1">${s}</li>`).join('') 
+                : `<li>${item.summary || 'تحلیل موجود نیست'}</li>`;
             
-            // Sentiment Color
-            let sColor = '#555';
-            if(item.sentiment > 0.2) sColor = 'var(--accent-green)';
-            if(item.sentiment < -0.2) sColor = 'var(--accent-red)';
+            // Sentiment Color for strip
+            let sColor = 'bg-gray-600';
+            if(item.sentiment > 0.2) sColor = 'bg-neon-green';
+            else if(item.sentiment < -0.2) sColor = 'bg-neon-red';
 
             html += `
-            <article class="intel-card" id="card-${index}">
-                <div class="sentiment-strip" style="background:${sColor}"></div>
+            <article id="card-${index}" class="glass rounded-2xl overflow-hidden relative group card-hover flex flex-col md:flex-row min-h-[140px]">
                 
-                <div class="card-visual">
-                    <img src="${img}" loading="lazy" alt="intel">
+                <!-- Sentiment Strip -->
+                <div class="absolute right-0 top-0 bottom-0 w-1 ${sColor} z-10"></div>
+                
+                <!-- Image -->
+                <div class="md:w-32 h-32 md:h-auto shrink-0 bg-black relative">
+                    <img src="${img}" loading="lazy" class="w-full h-full object-cover opacity-80 group-hover:opacity-100 transition-opacity" alt="news">
                 </div>
-                
-                <div class="card-body">
-                    <div class="card-header">
-                        <span class="tag ${getTagClass(item.tag || '')}">${item.tag || 'GENERAL'}</span>
-                        <span style="color:var(--text-muted)"><i class="far fa-clock"></i> ${timeAgo(item.timestamp * 1000)}</span>
+
+                <!-- Content -->
+                <div class="p-4 flex-1 flex flex-col">
+                    <div class="flex justify-between items-start mb-2 pl-2">
+                        <span class="px-2 py-0.5 rounded text-[10px] font-bold border ${getTagStyles(item.tag || '')}">${item.tag || 'INFO'}</span>
+                        <span class="text-[10px] text-gray-500 font-mono">${timeAgo(item.timestamp * 1000)}</span>
                     </div>
 
-                    <h3 class="card-title">${item.title_fa}</h3>
-                    <div style="font-size:0.8rem; color:var(--text-muted); direction:ltr; text-align:left; font-family:'JetBrains Mono'">${item.title_en}</div>
+                    <h3 class="font-bold text-gray-100 text-base leading-snug mb-1">${item.title_fa}</h3>
+                    <p class="text-[10px] text-gray-500 font-mono dir-ltr text-left mb-4 truncate">${item.title_en}</p>
 
-                    <!-- HIDDEN AI ANALYSIS -->
-                    <div class="ai-brief" id="brief-${index}">
-                        <span class="ai-label"><i class="fas fa-crosshairs"></i> STRATEGIC IMPACT</span>
-                        <p class="ai-text">${item.impact || 'در حال پردازش...'}</p>
-                        
-                        <span class="ai-label"><i class="fas fa-list-ul"></i> EXECUTIVE SUMMARY</span>
-                        <ul class="ai-bullets">
-                            ${summaryPoints}
-                        </ul>
+                    <!-- AI Hidden Section -->
+                    <div id="brief-${index}" class="hidden bg-black/40 rounded-lg p-4 mb-4 border-r-2 border-neon-purple text-sm animate-fade-in">
+                        <span class="text-neon-purple text-[10px] font-bold tracking-widest block mb-2"><i class="fas fa-crosshairs mr-1"></i> STRATEGIC IMPACT</span>
+                        <p class="text-gray-300 leading-relaxed mb-4 text-xs">${item.impact || 'در حال پردازش...'}</p>
+                        <span class="text-neon-purple text-[10px] font-bold tracking-widest block mb-2"><i class="fas fa-list-ul mr-1"></i> SUMMARY</span>
+                        <ul class="text-gray-400 list-disc pr-4 text-xs leading-relaxed">${summaryHTML}</ul>
                     </div>
 
-                    <div class="card-footer">
-                        <div class="source"><i class="fas fa-rss"></i> ${item.source}</div>
-                        <div class="actions">
-                            <button class="btn-ai" onclick="toggleBrief(${index})">
-                                <i class="fas fa-brain"></i> تحلیل هوش مصنوعی
+                    <!-- Footer -->
+                    <div class="mt-auto flex justify-between items-center pt-2 border-t border-white/5">
+                        <div class="text-[10px] text-gray-500 flex items-center gap-1"><i class="fas fa-rss"></i> ${item.source}</div>
+                        <div class="flex gap-2">
+                            <button onclick="toggleBrief(${index})" id="btn-${index}" class="flex items-center gap-1.5 px-2.5 py-1 rounded-md text-[10px] border border-white/10 text-gray-400 hover:text-neon-purple hover:border-neon-purple/50 hover:bg-neon-purple/10 transition-all">
+                                <i class="fas fa-brain"></i> تحلیل هوشمند
                             </button>
-                            <a href="${item.url}" target="_blank" class="btn-link">
+                            <a href="${item.url}" target="_blank" class="p-1 text-gray-500 hover:text-neon-blue transition-colors text-sm">
                                 <i class="fas fa-external-link-alt"></i>
                             </a>
                         </div>
@@ -580,19 +322,15 @@
         root.innerHTML = html;
     }
 
-    /* --- 4. HELPERS --- */
     function toggleBrief(idx) {
         const el = document.getElementById(`brief-${idx}`);
-        const btn = document.querySelector(`#card-${idx} .btn-ai`);
-        
-        if (el.style.display === 'block') {
-            el.style.display = 'none';
-            btn.style.borderColor = 'var(--border-dim)';
-            btn.style.color = 'var(--text-main)';
+        const btn = document.getElementById(`btn-${idx}`);
+        if(el.classList.contains('hidden')) {
+            el.classList.remove('hidden');
+            btn.classList.add('text-neon-purple', 'border-neon-purple/50', 'bg-neon-purple/10');
         } else {
-            el.style.display = 'block';
-            btn.style.borderColor = 'var(--accent-purple)';
-            btn.style.color = 'var(--accent-purple)';
+            el.classList.add('hidden');
+            btn.classList.remove('text-neon-purple', 'border-neon-purple/50', 'bg-neon-purple/10');
         }
     }
 
@@ -600,68 +338,62 @@
         const t = document.getElementById('ticker-content');
         let html = '';
         newsData.slice(0, 10).forEach(n => {
-            html += `<div class="ticker-item">${n.title_fa} <span style="font-size:0.7em; opacity:0.6">(${n.source})</span></div>`;
+            html += `<div class="px-8 flex items-center gap-2 text-xs text-gray-400"><span class="text-neon-blue">⚡</span> ${n.title_fa} <span class="opacity-50">(${n.source})</span></div>`;
         });
         t.innerHTML = html + html; 
     }
 
     function updateTension(data) {
-        // Simple algo: Count "Military/Nuclear" + Negative Sentiment
         const recent = data.slice(0, 15);
         if(!recent.length) return;
-        
         let score = 0;
         recent.forEach(n => {
             if(n.tag === 'نظامی') score += 10;
             if(n.tag === 'هسته‌ای') score += 12;
             if(n.sentiment < -0.3) score += 5;
         });
-
+        
+        const pct = Math.min(score, 100);
         const fill = document.getElementById('tension-fill');
         const txt = document.getElementById('tension-text');
         
-        // Normalize 0-100
-        const pct = Math.min(score, 100);
         fill.style.width = `${pct}%`;
-
+        
         if(pct < 30) {
-            fill.style.background = 'var(--accent-green)';
-            fill.style.boxShadow = 'none';
+            fill.className = "h-full bg-neon-green w-0 transition-all duration-1000 ease-out shadow-[0_0_10px_currentColor]";
             txt.innerText = "LOW / عادی";
-            txt.style.color = 'var(--accent-green)';
+            txt.className = "text-xs font-black text-neon-green";
         } else if (pct < 65) {
-            fill.style.background = 'var(--accent-orange)';
-            fill.style.boxShadow = '0 0 10px var(--accent-orange)';
-            txt.innerText = "ELEVATED / افزایش یافته";
-            txt.style.color = 'var(--accent-orange)';
+            fill.className = "h-full bg-neon-orange w-0 transition-all duration-1000 ease-out shadow-[0_0_10px_currentColor]";
+            txt.innerText = "ELEVATED / حساس";
+            txt.className = "text-xs font-black text-neon-orange";
         } else {
-            fill.style.background = 'var(--accent-red)';
-            fill.style.boxShadow = '0 0 15px var(--accent-red)';
+            fill.className = "h-full bg-neon-red w-0 transition-all duration-1000 ease-out shadow-[0_0_15px_currentColor]";
             txt.innerText = "CRITICAL / بحرانی";
-            txt.style.color = 'var(--accent-red)';
+            txt.className = "text-xs font-black text-neon-red animate-pulse";
         }
+    }
+
+    function filterFeed(tag, btn) {
+        currentFilter = tag;
+        document.querySelectorAll('.chip').forEach(c => {
+            c.className = "chip whitespace-nowrap px-4 py-1.5 rounded-full text-xs font-medium border border-white/10 text-gray-400 hover:border-white/30 hover:text-white transition-colors";
+        });
+        btn.className = "chip active whitespace-nowrap px-4 py-1.5 rounded-full text-xs font-medium border transition-colors bg-gray-200 text-black border-gray-200";
+        renderFeed();
     }
 
     function timeAgo(ms) {
         const diff = (new Date() - new Date(ms)) / 1000;
-        if(isNaN(diff)) return "";
         if(diff < 60) return "لحظاتی پیش";
         if(diff < 3600) return Math.floor(diff/60) + " دقیقه پیش";
         if(diff < 86400) return Math.floor(diff/3600) + " ساعت پیش";
         return Math.floor(diff/86400) + " روز پیش";
     }
 
-    function filterFeed(tag, btn) {
-        currentFilter = tag;
-        document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
-        btn.classList.add('active');
-        renderFeed();
-    }
-
     // Init
     loadData();
     setInterval(loadData, 30000);
-
 </script>
 </body>
 </html>
