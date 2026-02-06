@@ -1,5 +1,73 @@
 [
     {
+        "title_fa": "آتش‌سوزی در پایتخت ایران مهار شد",
+        "title_en": "Fire in Iran's capital Tehran extinguished",
+        "summary": [
+            "آتش‌سوزی در تهران رخ داد و مقامات گزارش داده‌اند که حریق خاموش شده است.",
+            "اطلاعات اولیه درباره تلفات یا میزان خسارت منتشر نشده است.",
+            "تیم‌های آتش‌نشانی عملیات اطفاء را انجام دادند و علت حادثه در دست بررسی است."
+        ],
+        "impact": "این حادثه ممکن است موجب اختلال کوتاه‌مدت در ترافیک و خدمات محلی شده باشد، اما با مهار آتش ریسک گسترده کاهش یافته است.",
+        "tag": "آتش‌سوزی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tcktrRVRjaGZWUUhWdEgxUXpHWXVKSUkxRExVU0dUOE1faDRHZkw5TC1hX2tESC1VYkN5U1FUakN0Tm44dDBpODQzUGtyYTc0ekJ0dFREcjVPYVh2ejU3UTB0eDlNdWE1R3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Fri, 06 Feb 2026 23:15:26 GMT",
+        "timestamp": 1770419726.0
+    },
+    {
+        "title_fa": "ترامپ بر کشورهای واردکننده از ایران تعرفه وضع کرد؛ هم‌زمان مذاکرات هسته‌ای از سر گرفته شد",
+        "title_en": "Trump imposes tariffs on countries that import from Iran as nuclear talks resume",
+        "summary": [
+            "دولت ترامپ تعرفه‌هایی بر کشورهایی که کالا از ایران وارد می‌کنند اعمال کرده تا فشار اقتصادی بر تهران و شرکای تجاری‌اش افزایش یابد.",
+            "این تصمیم هم‌زمان با ازسرگیری مذاکرات هسته‌ای است و می‌تواند فضای اعتماد بین طرف‌ها را تضعیف کرده و روند دیپلماسی را پیچیده کند.",
+            "پی‌آمدها شامل تنش در روابط با متحدان، افزایش هزینه‌های تجاری و احتمال واکنش تلافی‌جویانه از سوی ایران یا شرکای تجاری‌اش است."
+        ],
+        "impact": "این اقدام ممکن است مذاکرات هسته‌ای را مختل کند، روابط آمریکا با شرکای تجاری‌اش را خدشه‌دار سازد و خطر تشدید تنش‌های منطقه‌ای و اختلال در زنجیره‌های تجاری را افزایش دهد.",
+        "tag": "تعرفه‌ها",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IbnZYcW5uWVA5c19HV0ZtTHB3RDlDS2FadVRKM1pBc1JqSV9wWGdUclRQUkx4STNBX1lWeW1MWGU4c2xBT3lIbFh6VVhPdjd2Sm9tRXdBWHdPLWxqTVZLU2I0b2NJN1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Fri, 06 Feb 2026 23:13:00 GMT",
+        "timestamp": 1770419580.0
+    },
+    {
+        "title_fa": "ایران: گفتگوها با آمریکا در عمان «شروع خوبی» بود و ادامه خواهد یافت",
+        "title_en": "Iran says talks with U.S. in Oman were 'good start' and will continue",
+        "summary": [
+            "نمایندگان ایران و آمریکا در عمان دیدار کردند.",
+            "ایران این مذاکرات را «شروع خوبی» توصیف کرده است.",
+            "مقامات اعلام کرده‌اند که گفتگوها ادامه خواهد یافت."
+        ],
+        "impact": "این مذاکرات می‌تواند راه را برای کاهش تنش‌ها و ازسرگیری مذاکرات دیپلماتیک میان تهران و واشنگتن هموار کند.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.4,
+        "source": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FUGl6TzdIY1JVZG1pZHgyWlVYMzc4cmllVUtCMkxGRU96VmFoOU9qNHQ3cFczZFFFUnhoR3V6Z1d6T0xwQVprWVdRU2FKOFdoX0hUa2pyemxfdFN6Mmd2YXZFMEhJWF8xcnhqUw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Fri, 06 Feb 2026 23:03:30 GMT",
+        "timestamp": 1770419010.0
+    },
+    {
+        "title_fa": "تحریم‌های آمریکا شبکه نفت‌کش‌های مرتبط با ایران را هدف قرار داد؛ ریسک ژئوپولیتیک نفت کاهش یافت",
+        "title_en": "U.S. Sanctions Target Iran-Linked Tanker Network, Lifting Geopolitical Risk for Oil",
+        "summary": [
+            "واشنگتن تحریم‌هایی علیه شبکه نفت‌کش‌های مرتبط با ایران اعمال کرد که هدف آن محدودسازی روش‌های دورزدن تحریم و قطع مسیرهای انتقال غیرشفاف انرژی است.",
+            "اقدام آمریکا، بازار نفت را از نظر ژئوپولیتیک آرام‌تر کرده و می‌تواند نوسانات قیمت را کاهش دهد و جریان محموله‌ها را تثبیت کند.",
+            "این تحریم‌ها فشار اقتصادی و دیپلماتیک بر ایران و بازیگران واسط را افزایش داده و ممکن است درآمدهای صادراتی و عملیات شرکت‌های واسط حمل‌ونقل را مختل کند."
+        ],
+        "impact": "تحریم‌ها به کاهش نوسانات بازار نفت و پایین آوردن ریسک ژئوپولیتیک منجر شده و هم‌زمان فشار اقتصادی و دیپلماتیک جدیدی بر ایران و شبکه‌های واسط ایجاد می‌کند.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": 0.3,
+        "source": "TipRanks",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQX1g2QjB2bzdFbGpFZ3g0bHppZmhGMkE0UjJQejczUVEtM3hRV2pYbHRwX1YwallJUTVUVEx5OWkzaW10XzVyazRldXVyMVRiXzhTZVE4YWdXaEpDN0dOYVhlTWo4MnJfcUp2cHkzbHhscnFWNEZFMEJkRnljR1AxWVl4Z2lRTlAxRXZkNWVqZjJ5eWRpbFc1ZEl0SS12YWFZRVNMVGxxdHllckZXTUVxZ19UNUFlS2dWeUJVMUJkWWw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Fri, 06 Feb 2026 23:02:51 GMT",
+        "timestamp": 1770418971.0
+    },
+    {
         "title_fa": "آغاز مذاکرات حیاتی ایران و آمریکا در عمان در سایه تهدید به تقابل",
         "title_en": "Iran, US start crucial talks in Oman as confrontation looms",
         "summary": [
@@ -15,6 +83,23 @@
         "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNclFTOTg3dkR4M1M3Sk1RZlpkOFI2WUU3SXV0S3VyeC1idnY0UkIzVnBsNG9vVjRkQ2ZvVEw5NTlBUDNGMnpuaEJrVFBUSmtVU1FuQWVDT3l0QWxQWXhGNFpmZ1NhNWMxR3J3NU9Damc0NzdpaktuNE9sYzJFQ2VhQy1yV2pxcHJ1UTBwN1VXN011TDFlb2g2NlZsaC1tM2RSc2FoSnRFRXI?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Fri, 06 Feb 2026 22:57:26 GMT",
         "timestamp": 1770418646.0
+    },
+    {
+        "title_fa": "آمریکا تحریم‌هایی علیه ناوگان نفتی مخفی ایران وضع کرد همزمان با ازسرگیری مذاکرات هسته‌ای در عمان",
+        "title_en": "US slaps sanctions on Iran's secret oil fleet as nuclear talks restart in Oman",
+        "summary": [
+            "واشنگتن تحریم‌هایی علیه آنچه «ناوگان نفتی مخفی» ایران می‌خواند اعمال کرده است.",
+            "این اقدام در همان زمانی انجام می‌شود که مذاکرات هسته‌ای میان ایران و طرف‌های بین‌المللی در عمان از سر گرفته شده است.",
+            "تحریم‌ها می‌توانند صادرات نفت ایران را محدود کنند، فشار دیپلماتیک را افزایش دهند و ریسک تنش‌های منطقه‌ای و نوسان در بازار انرژی را بالا ببرند."
+        ],
+        "impact": "تحریم‌ها احتمالاً روند مذاکرات را پیچیده‌تر کرده، صادرات انرژی ایران را تحت فشار قرار می‌دهند و به افزایش تنش‌ها و ناپایداری در بازارهای انرژی منجر خواهند شد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "India Today",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeXAyd0ozNEdSUDZqNm9GdWo1eC1wdThrVzJieFJuMGRLUEdRR0pHUlM0SnJmb2tEMkZMSlE2STNGQkdkZVlTVW43aTgydElwZXk5dTNtQUxyUW9xbGVuQVUtdzNRZW5qWVlHekVnN2NoYW5IR29RR2dNS3JOSTMtdDgyTzZGV21EWVZOcFV5R2tZQ01sb2xpWFdadWtkSHY3dVF1YnA3eGlpek9JS1E5UHNOMkpQakFOOG54MlJIRmlKeU8xUVJNRkVKdWxBTDVoZGfSAdcBQVVfeXFMTW8tMXNDYmliTkVtLU10blJ6OVl6cGZ6MVJoUkJOYVV2R1BLWGVYYktZY0p3eWVIUWhLaG53dG1KUHIxak9GUVJpSy01aW9EMXlhMndJOHB1NEVxOTAtQzRzcy1DOTlibmpFRGJGUHlRNlJQMzFnU3g0YndXOVBYRGlTZ3ExX01JMVE1WlY1RjU2TEU1Sks5SjViRGhUREVoSmpoN3VENVBuMHUyZnhlWndXV2FZNzlNeDN0aEdUSnAxWGlMcGl2NWliekRWcF9Lc2FWM2dSUlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "date": "Fri, 06 Feb 2026 22:29:28 GMT",
+        "timestamp": 1770416968.0
     },
     {
         "title_fa": "ترامپ «ناوگان سایه» ایران را هدف قرار داد؛ تحریم‌های جدید علیه شبکه نفتی تهران",
@@ -1700,104 +1785,5 @@
         "image": null,
         "date": "Fri, 06 Feb 2026 07:53:00 GMT",
         "timestamp": 1770364380.0
-    },
-    {
-        "title_fa": "ایران و آمریکا برای مذاکرات هسته‌ای در عمان پس از اعتراضات سراسری ایران دیدار می‌کنند",
-        "title_en": "Iran and US set for talks in Oman over nuclear program after Tehran shaken by nationwide protests",
-        "summary": [
-            "جلسه در عمان درباره برنامه هسته‌ای بین تهران و واشینگتن برنامه‌ریزی شده است.",
-            "اعتراضات سراسری در ایران فشار سیاسی و نگرانی از تضعیف اقتدار داخلی را افزایش داده‌اند.",
-            "مذاکرات هم فرصت کاهش تنش بین‌المللی و هم ریسک تشدید بحران‌های داخلی را به همراه دارد."
-        ],
-        "impact": "این گفت‌وگوها می‌توانند موقتاً فشارهای بین‌المللی را کاهش دهند ولی ناآرامی‌های داخلی احتمال تضعیف توان چانه‌زنی و مشروعیت دولت ایران را افزایش می‌دهد.",
-        "tag": [
-            "هسته‌ای",
-            "سیاسی",
-            "اجتماعی"
-        ],
-        "sentiment": -0.2,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWW82UEpUYUhfQTJqRlJOeWxtckhjenc5bmJxVGQybVhkeW5YWVV2c2ZpWVk3YVJxN0Zhb29fZG9DQ212ejBZVmFwXzRpS1dOQ3ZTSTdiRVpSSmN6Ty1uN1R2SVg2eGllOHAwdlVTUFBSdE1CeEZFZkQtaUtTMFJORnRnTndKMzhwZ0hOXzJPaVBSWTE4NkV6MFQ1cEx6Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "date": "Fri, 06 Feb 2026 07:52:59 GMT",
-        "timestamp": 1770364379.0
-    },
-    {
-        "title_fa": "ایران خواستار «احترام متقابل» پیش از مذاکرات با آمریکا در عمان",
-        "title_en": "Iran urges 'mutual respect' ahead of talks with US in Oman",
-        "summary": [
-            "تهران از طرف‌های مذاکره‌کننده خواسته به اصل احترام متقابل پایبند باشند",
-            "نشست در عمان به‌عنوان فرصتی دیپلماتیک برای کاهش تنش‌ها مطرح شده است",
-            "لحن بیانیه محتاطانه است و تضمینی برای نتایج عملی یا تغییر سیاست‌ها ارائه نمی‌دهد"
-        ],
-        "impact": "این رویکرد می‌تواند فضای مذاکرات را تا حدی آرام‌تر کند و احتمال ازسرگیری گفت‌وگوها را افزایش دهد، اما به‌تنهایی تضمینی برای برداشتن تحریم‌ها یا تغییر بنیادی رفتار آمریکا نیست.",
-        "tag": [
-            "سیاسی",
-            "هسته‌ای"
-        ],
-        "sentiment": 0.25,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUhvNlpRdUZCVklEc0RjU0t1cWlLVkk4OG9hdzlDZF9kR2hTZlZCZGswcUhUdGJYNldMZTREd3NDd1FlVzBNWm1zUEctLTI5TVVCQnRSaXpYSFhnNzdrcEV2amRxbUdDU1dWRkxha1ZkRFg4QmxQTlVFM1RrUkYtZnFSYmczQWRyVHJjZk5YY0YxUnZvT2FJ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Fri, 06 Feb 2026 07:47:02 GMT",
-        "timestamp": 1770364022.0
-    },
-    {
-        "title_fa": "مذاکرات حساس ایران و آمریکا در عمان؛ اختلاف بر سر پرونده هسته‌ای، نگرانی از جنگ و شکاف‌های دستورکار",
-        "title_en": "Iran, US to hold high-stakes Oman talks as nuclear dispute, war fears and agenda rifts loom",
-        "summary": [
-            "ایران و آمریکا در عمان مذاکراتی با اهمیت بالا برگزار می‌کنند.",
-            "محورهای اصلی تنش: پرونده هسته‌ای و نگرانی از تقابل نظامی.",
-            "اختلافات درباره دستورکار مذاکرات، چشم‌انداز توافق را پیچیده کرده است."
-        ],
-        "impact": "این مذاکرات می‌تواند احتمال درگیری نظامی را کاهش دهد اما شکاف‌های عمیق در دستورکار و منافع سیاسی احتمال تداوم تنش‌ها و بن‌بست‌های دیپلماتیک را حفظ می‌کند.",
-        "tag": [
-            "نظامی",
-            "هسته‌ای",
-            "سیاسی"
-        ],
-        "sentiment": -0.2,
-        "source": "Ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HNHN3VGh4a2RQb1BsU3cybWxaSFpybGQ3cXNqcEVpSHZMM1V5LTBMSUtpem50dW9Gc1ZmdlVIcTF0czFuekE4SGEyaW9kY3dWNlQxY05SanQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "date": "Fri, 06 Feb 2026 07:44:44 GMT",
-        "timestamp": 1770363884.0
-    },
-    {
-        "title_fa": "برنامه هسته‌ای ایران پس از حمله هوایی آمریکا: وضعیت فعلی و سناریوهای پیش‌رو",
-        "title_en": "Iran’s nuclear program: Where it stands after US bombing – and what comes next",
-        "summary": [
-            "آسیب به برخی زیرساخت‌ها و اختلال در نظارت بین‌المللی بر برنامه هسته‌ای",
-            "احتمال کند شدن فعالیت‌های علنی و هم‌زمان تسریع در مسیرهای پنهان و ذخیره‌سازی مواد شکاف‌پذیر",
-            "افزایش ریسک واکنش تلافی‌جویانه ایران و تشدید تنش‌های منطقه‌ای"
-        ],
-        "impact": "این حمله احتمالاً برنامه هسته‌ای را به سمت اقدامات پنهانی و تسریع غنی‌سازی سوق داده و ریسک تشدید تنش‌های منطقه‌ای و انزوای دیپلماتیک را افزایش می‌دهد.",
-        "tag": [
-            "هسته‌ای"
-        ],
-        "sentiment": -0.6,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSm5VYURuZ2dYejRObFF4cFZNcHBlZzk4bWNySHRZLUtxSEZPUllwVlZsVzVpSkstQ3ExNklQV1Y1QUpiekZaQ1FkUmpIOUwtMndISlk4SklySGw5Zy1XUzhZNUpOVFRWQm1PNDVsRU9haGZVN2lMT3NsQ3RlNmxLdXNXWEo1ckpndmJDbUhuRlJzX0Q1T2l3aVZiQlVlZ0N5cTRUclpVN1lYZ3ozYmItaFNocXhacjZvWVQzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "date": "Fri, 06 Feb 2026 07:37:39 GMT",
-        "timestamp": 1770363459.0
-    },
-    {
-        "title_fa": "برنامه هسته‌ای ایران پس از حمله هوایی آمریکا: وضعیت فعلی و سناریوهای پیش‌رو",
-        "title_en": "Iran’s nuclear program: Where it stands after US bombing – and what comes next",
-        "summary": [
-            "آسیب به برخی زیرساخت‌ها و اختلال در نظارت بین‌المللی بر برنامه هسته‌ای",
-            "احتمال کند شدن فعالیت‌های علنی و هم‌زمان تسریع در مسیرهای پنهان و ذخیره‌سازی مواد شکاف‌پذیر",
-            "افزایش ریسک واکنش تلافی‌جویانه ایران و تشدید تنش‌های منطقه‌ای"
-        ],
-        "impact": "این حمله احتمالاً برنامه هسته‌ای را به سمت اقدامات پنهانی و تسریع غنی‌سازی سوق داده و ریسک تشدید تنش‌های منطقه‌ای و انزوای دیپلماتیک را افزایش می‌دهد.",
-        "tag": [
-            "هسته‌ای"
-        ],
-        "sentiment": -0.6,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSm5VYURuZ2dYejRObFF4cFZNcHBlZzk4bWNySHRZLUtxSEZPUllwVlZsVzVpSkstQ3ExNklQV1Y1QUpiekZaQ1FkUmpIOUwtMndISlk4SklySGw5Zy1XUzhZNUpOVFRWQm1PNDVsRU9haGZVN2lMT3NsQ3RlNmxLdXNXWEo1ckpndmJDbUhuRlJzX0Q1T2l3aVZiQlVlZ0N5cTRUclpVN1lYZ3ozYmItaFNocXhacjZvWVQzcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "image": null,
-        "date": "Fri, 06 Feb 2026 07:37:39 GMT",
-        "timestamp": 1770363459.0
     }
 ]
