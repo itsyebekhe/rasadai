@@ -29,6 +29,8 @@ jobs:
         env: 
           # THIS IS THE IMPORTANT PART
           POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          CHANNEL_ID: ${{ secrets.CHANNEL_ID }}
         run: python main.py
 
       - name: Commit and Push Changes
