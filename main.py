@@ -71,23 +71,35 @@ class IranNewsRadar:
             logger.warning("Telegram credentials missing.")
             return
 
-        # Prepare Data with HTML escaping
-        title_fa = html.escape(item.get('title_fa', 'News Update'))
-        url = item.get('url', '')
-        summary_list = item.get('summary', [])
-        impact = html.escape(item.get('impact', ''))
-        tag = html.escape(item.get('tag', 'General'))
+        # 1. Prepare Data & Fix Types
+        title_fa = str(item.get('title_fa', 'News Update'))
+        url = str(item.get('url', ''))
+        impact = str(item.get('impact', ''))
         
-        # Format Bullet points
-        summary_text = "\n".join([f"• {html.escape(s)}" for s in summary_list])
+        # Fix Tag: Handle if AI returns a list OR a string
+        raw_tag = item.get('tag')
+        if isinstance(raw_tag, list):
+            # If list ['Politics'], take first item
+            tag_str = str(raw_tag[0]) if raw_tag else 'General'
+        else:
+            tag_str = str(raw_tag) if raw_tag else 'General'
 
-        # Construct Message HTML
-        # Title is linked, Analysis is quoted, Preview disabled
+        # 2. Escape HTML characters ( < > & )
+        safe_title = html.escape(title_fa)
+        safe_impact = html.escape(impact)
+        safe_tag = html.escape(tag_str)
+        
+        # 3. Format Summary
+        summary_list = item.get('summary', [])
+        if isinstance(summary_list, str): summary_list = [summary_list] # Safety check
+        safe_summary = "\n".join([f"• {html.escape(str(s))}" for s in summary_list])
+
+        # 4. Construct Message HTML
         message_html = (
-            f"<b><a href='{url}'>{title_fa}</a></b>\n\n"
-            f"<blockquote>{summary_text}\n\n"
-            f"🎯 <b>تأثیر:</b> {impact}</blockquote>\n\n"
-            f"#{tag.replace(' ', '_')}"
+            f"<b><a href='{url}'>{safe_title}</a></b>\n\n"
+            f"<blockquote>{safe_summary}\n\n"
+            f"🎯 <b>تأثیر:</b> {safe_impact}</blockquote>\n\n"
+            f"#{safe_tag.replace(' ', '_')}"
         )
 
         api_url = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -103,7 +115,7 @@ class IranNewsRadar:
             if resp.status_code != 200:
                 logger.error(f"Telegram Error {resp.status_code}: {resp.text}")
             else:
-                logger.info(f" -> Sent to Telegram: {title_fa[:20]}")
+                logger.info(f" -> Sent to Telegram: {safe_title[:20]}")
         except Exception as e:
             logger.error(f"Telegram Exception: {e}")
 
@@ -180,7 +192,6 @@ class IranNewsRadar:
     def process_item(self, entry):
         orig_url = entry.get('url')
         
-        # Check against existing news.json URLs (before scraping)
         if orig_url in self.seen_urls: 
             return None
 
@@ -189,7 +200,6 @@ class IranNewsRadar:
         
         real_url, full_text = self.scrape_article(orig_url)
         
-        # Check against existing news.json URLs (after scraping/redirect)
         if real_url in self.seen_urls: 
             return None
 
@@ -242,21 +252,17 @@ class IranNewsRadar:
 
         # 4. Send & Save
         if new_items:
-            # Sort for Telegram sending (oldest first)
             new_items.sort(key=lambda x: x.get('timestamp', 0))
 
             logger.info(f"Sending {len(new_items)} new items...")
             
             for item in new_items:
                 self.send_to_telegram(item)
-                time.sleep(2) # Avoid rate limits
+                time.sleep(2) 
 
             # Update Database
-            # We add new items to existing_news, sort by Newest First, and slice to keep size manageable
             updated_list = new_items + self.existing_news
             updated_list.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-            
-            # Keep last 100 items to ensure history for deduplication is sufficient
             final_list = updated_list[:100] 
 
             with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
