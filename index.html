@@ -18,9 +18,9 @@
             theme: {
                 extend: {
                     fontFamily: {
-                        sans: ['Vazirmatn', 'sans-serif'],
-                        mono: ['Space Mono', 'monospace'],
-                        display: ['Orbitron', 'sans-serif'],
+                        sans: ['"Vazirmatn FD"', 'sans-serif'],
+                        mono: ['"Vazirmatn FD"', 'sans-serif'],
+                        display: ['"Vazirmatn FD"', 'sans-serif'],
                     },
                     colors: {
                         void: {
@@ -204,26 +204,26 @@
         <div class="absolute w-full h-px bg-gradient-to-r from-transparent via-cyber-cyan to-transparent animate-scan-line"></div>
     </div>
 
-    <div class="relative z-10 max-w-[1800px] mx-auto p-3 md:p-4 lg:p-6">
+    <div class="relative z-10 max-w-[1800px] mx-auto p-2 md:p-4 lg:p-6">
         
         <!-- ═══════════════ HEADER ═══════════════ -->
-        <header class="gradient-border rounded-2xl mb-4 lg:mb-6 overflow-hidden">
-            <div class="relative p-4 lg:p-5 flex flex-col md:flex-row justify-between items-center gap-4 bg-void-800/90 backdrop-blur-xl">
+        <header class="gradient-border rounded-2xl mb-3 lg:mb-6 overflow-hidden">
+            <div class="relative p-3 lg:p-5 flex flex-row justify-between items-center gap-3 bg-void-800/90 backdrop-blur-xl">
                 
                 <!-- Logo -->
-                <div class="flex items-center gap-4">
+                <div class="flex items-center gap-3 lg:gap-4">
                     <div class="relative">
-                        <div class="w-12 h-12 lg:w-14 lg:h-14 rounded-xl bg-gradient-to-br from-cyber-cyan to-cyber-blue flex items-center justify-center glow-cyan">
-                            <i class="fas fa-radar text-2xl lg:text-3xl text-void-950"></i>
+                        <div class="w-10 h-10 lg:w-14 lg:h-14 rounded-xl bg-gradient-to-br from-cyber-cyan to-cyber-blue flex items-center justify-center glow-cyan">
+                            <i class="fas fa-radar text-lg lg:text-3xl text-void-950"></i>
                         </div>
-                        <span class="absolute -top-1 -right-1 w-3 h-3 bg-cyber-red rounded-full animate-glow-pulse"></span>
+                        <span class="absolute -top-1 -right-1 w-2.5 h-2.5 lg:w-3 lg:h-3 bg-cyber-red rounded-full animate-glow-pulse"></span>
                     </div>
                     <div>
-                        <h1 class="font-display font-black text-2xl lg:text-3xl tracking-wider">
+                        <h1 class="font-display font-black text-lg lg:text-3xl tracking-wider leading-none">
                             <span class="text-gradient">RASAD</span>
-                            <span class="text-gray-600 text-lg lg:text-xl">.AI</span>
+                            <span class="text-gray-600 text-sm lg:text-xl">.AI</span>
                         </h1>
-                        <p class="text-[10px] lg:text-xs text-gray-500 font-mono tracking-widest">INTELLIGENCE MONITORING SYSTEM</p>
+                        <p class="text-[8px] lg:text-xs text-gray-500 font-mono tracking-widest hidden sm:block">سامانه رصد هوشمند اخبار</p>
                     </div>
                 </div>
 
@@ -232,66 +232,66 @@
                     <!-- Live Clocks -->
                     <div class="hidden md:flex items-center gap-4 px-4 py-2 rounded-xl bg-void-700/50 border border-white/5">
                         <div class="text-center">
-                            <span class="text-[8px] text-gray-500 font-mono block">TEHRAN</span>
+                            <span class="text-[8px] text-gray-500 font-mono block">تهران</span>
                             <span id="clock-teh" class="font-mono font-bold text-lg text-cyber-cyan">--:--</span>
                         </div>
                         <div class="w-px h-8 bg-gradient-to-b from-transparent via-cyber-cyan/30 to-transparent"></div>
                         <div class="text-center">
-                            <span class="text-[8px] text-gray-500 font-mono block">TEL AVIV</span>
+                            <span class="text-[8px] text-gray-500 font-mono block">تل‌آویو</span>
                             <span id="clock-tlv" class="font-mono font-bold text-lg text-gray-400">--:--</span>
                         </div>
                         <div class="w-px h-8 bg-gradient-to-b from-transparent via-cyber-cyan/30 to-transparent"></div>
                         <div class="text-center">
-                            <span class="text-[8px] text-gray-500 font-mono block">WASH DC</span>
+                            <span class="text-[8px] text-gray-500 font-mono block">واشنگتن</span>
                             <span id="clock-dc" class="font-mono font-bold text-lg text-gray-400">--:--</span>
                         </div>
                     </div>
 
                     <!-- System Status -->
-                    <div id="sys-status" class="flex items-center gap-2 px-4 py-2 rounded-xl bg-cyber-cyan/10 border border-cyber-cyan/30 glow-cyan">
-                        <div class="relative w-2 h-2">
+                    <div id="sys-status" class="flex items-center gap-2 px-3 py-1.5 lg:px-4 lg:py-2 rounded-xl bg-cyber-cyan/10 border border-cyber-cyan/30 glow-cyan">
+                        <div class="relative flex w-1.5 h-1.5 lg:w-2 lg:h-2">
                             <span class="absolute inline-flex h-full w-full rounded-full bg-cyber-cyan opacity-75 animate-ping"></span>
-                            <span class="relative inline-flex rounded-full h-2 w-2 bg-cyber-cyan"></span>
+                            <span class="relative inline-flex rounded-full h-1.5 w-1.5 lg:h-2 lg:w-2 bg-cyber-cyan"></span>
                         </div>
-                        <span class="text-cyber-cyan text-xs font-mono font-bold tracking-wider">CONNECTING</span>
+                        <span class="text-cyber-cyan text-[10px] lg:text-xs font-mono font-bold tracking-wider">در حال اتصال</span>
                     </div>
                 </div>
             </div>
         </header>
 
         <!-- ═══════════════ MOBILE STATS BAR ═══════════════ -->
-        <div class="md:hidden flex gap-2 overflow-x-auto scrollbar-hide pb-3">
+        <div class="md:hidden flex gap-2 overflow-x-auto scrollbar-hide pb-2 mb-2">
             <div class="flex-shrink-0 intel-card rounded-xl px-4 py-2 flex items-center gap-3">
                 <i class="fas fa-clock text-cyber-cyan text-sm"></i>
                 <div>
-                    <span class="text-[8px] text-gray-500 block">TEHRAN</span>
+                    <span class="text-[8px] text-gray-500 block">تهران</span>
                     <span id="mob-clock-teh" class="font-mono font-bold text-sm text-cyber-cyan">--:--</span>
                 </div>
             </div>
             <div class="flex-shrink-0 intel-card rounded-xl px-4 py-2 flex items-center gap-3">
                 <i class="fas fa-dollar-sign text-cyber-green text-sm"></i>
                 <div>
-                    <span class="text-[8px] text-gray-500 block">USD/IRR</span>
+                    <span class="text-[8px] text-gray-500 block">دلار</span>
                     <span id="mob-usd" class="font-mono font-bold text-sm text-cyber-green">...</span>
                 </div>
             </div>
             <div class="flex-shrink-0 intel-card rounded-xl px-4 py-2 flex items-center gap-3">
                 <i class="fab fa-bitcoin text-cyber-yellow text-sm"></i>
                 <div>
-                    <span class="text-[8px] text-gray-500 block">BTC</span>
+                    <span class="text-[8px] text-gray-500 block">بیت‌کوین</span>
                     <span id="mob-btc" class="font-mono font-bold text-sm text-cyber-yellow">...</span>
                 </div>
             </div>
         </div>
 
         <!-- ═══════════════ TICKER ═══════════════ -->
-        <div class="relative mb-4 lg:mb-6 rounded-xl overflow-hidden bg-void-800/80 border border-cyber-cyan/10">
+        <div class="relative mb-3 lg:mb-6 rounded-xl overflow-hidden bg-void-800/80 border border-cyber-cyan/10">
             <div class="absolute inset-y-0 right-0 w-20 bg-gradient-to-l from-void-800 to-transparent z-10"></div>
             <div class="absolute inset-y-0 left-0 w-20 bg-gradient-to-r from-void-800 to-transparent z-10"></div>
             <div class="flex items-center h-10 lg:h-12">
                 <div class="flex-shrink-0 px-4 py-2 bg-cyber-red/20 border-l border-cyber-red/30 flex items-center gap-2">
                     <span class="w-2 h-2 bg-cyber-red rounded-full animate-glow-pulse"></span>
-                    <span class="text-cyber-red text-xs font-mono font-bold">LIVE</span>
+                    <span class="text-cyber-red text-xs font-mono font-bold">زنده</span>
                 </div>
                 <div id="ticker-content" class="flex whitespace-nowrap animate-ticker-scroll">
                     <span class="px-8 text-sm text-gray-500">در حال دریافت داده‌های زنده...</span>
@@ -299,22 +299,35 @@
             </div>
         </div>
 
-        <!-- ═══════════════ MAIN GRID ═══════════════ -->
-        <div class="grid grid-cols-1 lg:grid-cols-[320px_1fr] xl:grid-cols-[350px_1fr] gap-4 lg:gap-6">
+        <!-- ═══════════════ DESKTOP TABS ═══════════════ -->
+        <div class="hidden lg:flex justify-center mb-6">
+            <div class="bg-void-800/50 p-1.5 rounded-xl border border-white/5 backdrop-blur-sm flex gap-2">
+                <button onclick="switchTab('news')" id="desk-tab-news" class="px-8 py-2.5 rounded-lg text-sm font-bold font-mono transition-all bg-cyber-cyan/10 text-cyber-cyan border border-cyber-cyan/30 shadow-[0_0_15px_rgba(0,240,255,0.2)]">
+                    <i class="fas fa-newspaper ml-2"></i>اخبار
+                </button>
+                <button onclick="switchTab('dashboard')" id="desk-tab-dashboard" class="px-8 py-2.5 rounded-lg text-sm font-bold font-mono transition-all text-gray-400 hover:text-gray-200 hover:bg-white/5 border border-transparent">
+                    <i class="fas fa-chart-pie ml-2"></i>داشبورد
+                </button>
+            </div>
+        </div>
+
+        <!-- ═══════════════ CONTENT VIEWS ═══════════════ -->
+        <div class="relative min-h-[50vh]">
             
-            <!-- ═══════════════ SIDEBAR ═══════════════ -->
-            <aside class="space-y-4 lg:space-y-6 order-2 lg:order-1">
+            <!-- ═══════════════ DASHBOARD VIEW ═══════════════ -->
+            <div id="view-dashboard" class="hidden animate-fade-up">
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 
                 <!-- TENSION METER -->
-                <div class="intel-card rounded-2xl p-5 corner-decor overflow-hidden relative">
-                    <div class="flex items-center justify-between mb-4">
+                <div class="intel-card rounded-2xl p-4 corner-decor overflow-hidden relative">
+                    <div class="flex items-center justify-between mb-2">
                         <div class="flex items-center gap-2">
                             <div class="w-8 h-8 rounded-lg bg-cyber-red/20 flex items-center justify-center">
                                 <i class="fas fa-heartbeat text-cyber-red"></i>
                             </div>
                             <div>
-                                <h3 class="text-xs font-bold text-gray-400 font-mono tracking-widest">THREAT LEVEL</h3>
-                                <span id="tension-text" class="text-lg font-display font-bold text-gray-300">ANALYZING...</span>
+                                <h3 class="text-xs font-bold text-gray-400 font-mono tracking-widest">سطح تهدید</h3>
+                                <span id="tension-text" class="text-lg font-display font-bold text-gray-300">در حال تحلیل...</span>
                             </div>
                         </div>
                         <div id="tension-percent" class="text-2xl font-display font-black text-gray-600">0%</div>
@@ -329,170 +342,189 @@
                     
                     <!-- Scale -->
                     <div class="flex justify-between mt-2 text-[10px] font-mono text-gray-600">
-                        <span>LOW</span>
-                        <span>MODERATE</span>
-                        <span>CRITICAL</span>
+                        <span>عادی</span>
+                        <span>حساس</span>
+                        <span>بحرانی</span>
                     </div>
                 </div>
 
                 <!-- MARKET DATA -->
-                <div class="intel-card rounded-2xl p-5 hidden lg:block">
-                    <div class="flex items-center gap-2 mb-4">
+                <div class="intel-card rounded-2xl p-4">
+                    <div class="flex items-center gap-2 mb-2">
                         <div class="w-8 h-8 rounded-lg bg-cyber-green/20 flex items-center justify-center">
                             <i class="fas fa-chart-line text-cyber-green"></i>
                         </div>
-                        <h3 class="text-xs font-bold text-gray-400 font-mono tracking-widest">MARKET WATCH</h3>
+                        <h3 class="text-xs font-bold text-gray-400 font-mono tracking-widest">رصد بازار</h3>
                     </div>
                     
-                    <div class="space-y-3">
-                        <div class="flex justify-between items-center p-3 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-green/30 transition-colors">
+                    <div class="space-y-0 divide-y divide-white/5 border border-white/5 rounded-xl bg-void-700/20 overflow-hidden">
+                        <div class="flex justify-between items-center p-2 hover:bg-white/5 transition-colors">
                             <div class="flex items-center gap-3">
-                                <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-green-500 to-green-700 flex items-center justify-center text-white font-bold text-xs">$</div>
+                                <div class="w-6 h-6 rounded bg-green-500/20 flex items-center justify-center text-green-500 font-bold text-[10px]">$</div>
                                 <div>
-                                    <span class="text-xs text-gray-400">دلار آمریکا</span>
-                                    <span class="text-[10px] text-gray-600 block font-mono">USD/IRR</span>
+                                    <span class="text-xs text-gray-300">دلار آمریکا</span>
                                 </div>
                             </div>
-                            <span id="price-usd" class="font-mono font-bold text-lg text-gray-200">...</span>
+                            <span id="price-usd" class="font-mono font-bold text-sm text-gray-200">...</span>
                         </div>
                         
-                        <div class="flex justify-between items-center p-3 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-yellow/30 transition-colors">
+                        <div class="flex justify-between items-center p-2 hover:bg-white/5 transition-colors">
                             <div class="flex items-center gap-3">
-                                <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-yellow-500 to-orange-600 flex items-center justify-center text-white font-bold text-xs">₿</div>
+                                <div class="w-6 h-6 rounded bg-yellow-500/20 flex items-center justify-center text-yellow-500 font-bold text-[10px]">₿</div>
                                 <div>
-                                    <span class="text-xs text-gray-400">بیت‌کوین</span>
-                                    <span class="text-[10px] text-gray-600 block font-mono">BTC/USD</span>
+                                    <span class="text-xs text-gray-300">بیت‌کوین</span>
                                 </div>
                             </div>
-                            <span id="price-btc" class="font-mono font-bold text-lg text-gray-200">...</span>
+                            <span id="price-btc" class="font-mono font-bold text-sm text-gray-200">...</span>
                         </div>
                         
-                        <div class="flex justify-between items-center p-3 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-cyan/30 transition-colors">
+                        <div class="flex justify-between items-center p-2 hover:bg-white/5 transition-colors">
                             <div class="flex items-center gap-3">
-                                <div class="w-8 h-8 rounded-lg bg-gradient-to-br from-cyan-500 to-cyan-700 flex items-center justify-center text-white font-bold text-xs">₮</div>
+                                <div class="w-6 h-6 rounded bg-cyan-500/20 flex items-center justify-center text-cyan-500 font-bold text-[10px]">₮</div>
                                 <div>
-                                    <span class="text-xs text-gray-400">تتر</span>
-                                    <span class="text-[10px] text-gray-600 block font-mono">USDT</span>
+                                    <span class="text-xs text-gray-300">تتر</span>
                                 </div>
                             </div>
-                            <span id="price-usdt" class="font-mono font-bold text-lg text-gray-200">...</span>
+                            <span id="price-usdt" class="font-mono font-bold text-sm text-gray-200">...</span>
                         </div>
                     </div>
                 </div>
 
                 <!-- INTEL TOOLS -->
-                <div class="intel-card rounded-2xl p-5">
-                    <div class="flex items-center gap-2 mb-4">
+                <div class="intel-card rounded-2xl p-4 md:col-span-2 lg:col-span-1">
+                    <div class="flex items-center gap-2 mb-2">
                         <div class="w-8 h-8 rounded-lg bg-cyber-magenta/20 flex items-center justify-center">
                             <i class="fas fa-satellite text-cyber-magenta"></i>
                         </div>
-                        <h3 class="text-xs font-bold text-gray-400 font-mono tracking-widest">OSINT TOOLS</h3>
+                        <h3 class="text-xs font-bold text-gray-400 font-mono tracking-widest">ابزارهای رصد</h3>
                     </div>
                     
-                    <div class="grid grid-cols-2 gap-2">
+                    <div class="grid grid-cols-3 gap-2">
                         <a href="https://firms.modaps.eosdis.nasa.gov/" target="_blank" 
-                           class="group p-4 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-red/50 hover:bg-cyber-red/10 transition-all flex flex-col items-center gap-2">
+                           class="group p-2 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-red/50 hover:bg-cyber-red/10 transition-all flex flex-col items-center gap-1">
                             <div class="w-10 h-10 rounded-xl bg-cyber-red/20 flex items-center justify-center group-hover:scale-110 transition-transform">
                                 <i class="fas fa-fire text-cyber-red"></i>
                             </div>
-                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-red transition-colors">NASA FIRMS</span>
+                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-red transition-colors">آتش‌سوزی‌ها</span>
                         </a>
                         
                         <a href="https://www.flightradar24.com/" target="_blank" 
-                           class="group p-4 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-yellow/50 hover:bg-cyber-yellow/10 transition-all flex flex-col items-center gap-2">
+                           class="group p-2 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-yellow/50 hover:bg-cyber-yellow/10 transition-all flex flex-col items-center gap-1">
                             <div class="w-10 h-10 rounded-xl bg-cyber-yellow/20 flex items-center justify-center group-hover:scale-110 transition-transform">
                                 <i class="fas fa-plane text-cyber-yellow"></i>
                             </div>
-                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-yellow transition-colors">FLIGHTRADAR</span>
+                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-yellow transition-colors">رادار پرواز</span>
                         </a>
                         
                         <a href="https://twitter.com/search?q=Iran&f=live" target="_blank" 
-                           class="group p-4 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-cyan/50 hover:bg-cyber-cyan/10 transition-all flex flex-col items-center gap-2">
+                           class="group p-2 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-cyan/50 hover:bg-cyber-cyan/10 transition-all flex flex-col items-center gap-1">
                             <div class="w-10 h-10 rounded-xl bg-cyber-cyan/20 flex items-center justify-center group-hover:scale-110 transition-transform">
                                 <i class="fab fa-twitter text-cyber-cyan"></i>
                             </div>
-                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-cyan transition-colors">SOCIAL INTEL</span>
+                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-cyan transition-colors">رصد اجتماعی</span>
                         </a>
                         
                         <a href="https://netblocks.org/" target="_blank" 
-                           class="group p-4 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-green/50 hover:bg-cyber-green/10 transition-all flex flex-col items-center gap-2">
+                           class="group p-2 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-green/50 hover:bg-cyber-green/10 transition-all flex flex-col items-center gap-1">
                             <div class="w-10 h-10 rounded-xl bg-cyber-green/20 flex items-center justify-center group-hover:scale-110 transition-transform">
                                 <i class="fas fa-network-wired text-cyber-green"></i>
                             </div>
-                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-green transition-colors">NETBLOCKS</span>
+                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-green transition-colors">اینترنت</span>
                         </a>
                         
                         <a href="https://www.marinetraffic.com/" target="_blank" 
-                           class="group p-4 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-blue/50 hover:bg-cyber-blue/10 transition-all flex flex-col items-center gap-2">
+                           class="group p-2 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-blue/50 hover:bg-cyber-blue/10 transition-all flex flex-col items-center gap-1">
                             <div class="w-10 h-10 rounded-xl bg-cyber-blue/20 flex items-center justify-center group-hover:scale-110 transition-transform">
                                 <i class="fas fa-ship text-cyber-blue"></i>
                             </div>
-                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-blue transition-colors">MARINE</span>
+                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-blue transition-colors">کشتی‌رانی</span>
                         </a>
                         
                         <a href="https://earthquake.usgs.gov/" target="_blank" 
-                           class="group p-4 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-magenta/50 hover:bg-cyber-magenta/10 transition-all flex flex-col items-center gap-2">
+                           class="group p-2 rounded-xl bg-void-700/50 border border-white/5 hover:border-cyber-magenta/50 hover:bg-cyber-magenta/10 transition-all flex flex-col items-center gap-1">
                             <div class="w-10 h-10 rounded-xl bg-cyber-magenta/20 flex items-center justify-center group-hover:scale-110 transition-transform">
                                 <i class="fas fa-globe text-cyber-magenta"></i>
                             </div>
-                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-magenta transition-colors">SEISMIC</span>
+                            <span class="text-[10px] font-mono text-gray-500 group-hover:text-cyber-magenta transition-colors">زلزله‌نگاری</span>
                         </a>
                     </div>
                 </div>
 
                 <!-- QUICK STATS -->
-                <div class="intel-card rounded-2xl p-5 hidden lg:block">
-                    <div class="flex items-center gap-2 mb-4">
+                <div class="intel-card rounded-2xl p-4">
+                    <div class="flex items-center gap-2 mb-2">
                         <div class="w-8 h-8 rounded-lg bg-cyber-blue/20 flex items-center justify-center">
                             <i class="fas fa-chart-pie text-cyber-blue"></i>
                         </div>
-                        <h3 class="text-xs font-bold text-gray-400 font-mono tracking-widest">STATISTICS</h3>
+                        <h3 class="text-xs font-bold text-gray-400 font-mono tracking-widest">آمار گزارش‌ها</h3>
                     </div>
                     
                     <div class="grid grid-cols-2 gap-3">
-                        <div class="text-center p-3 rounded-xl bg-void-700/50">
+                        <div class="text-center p-2 rounded-xl bg-void-700/50">
                             <span id="stat-total" class="block text-2xl font-display font-bold text-cyber-cyan">0</span>
-                            <span class="text-[10px] text-gray-500 font-mono">TOTAL REPORTS</span>
+                            <span class="text-[10px] text-gray-500 font-mono">کل اخبار</span>
                         </div>
-                        <div class="text-center p-3 rounded-xl bg-void-700/50">
+                        <div class="text-center p-2 rounded-xl bg-void-700/50">
                             <span id="stat-critical" class="block text-2xl font-display font-bold text-cyber-red">0</span>
-                            <span class="text-[10px] text-gray-500 font-mono">CRITICAL</span>
+                            <span class="text-[10px] text-gray-500 font-mono">اخبار مهم</span>
                         </div>
                     </div>
                 </div>
-            </aside>
+                </div>
+            </div>
 
-            <!-- ═══════════════ MAIN FEED ═══════════════ -->
-            <main class="order-1 lg:order-2 space-y-4 lg:space-y-6">
+            <!-- ═══════════════ NEWS VIEW ═══════════════ -->
+            <div id="view-news" class="space-y-4 lg:space-y-6 animate-fade-up">
                 
-                <!-- FILTER CHIPS -->
-                <div class="flex gap-2 overflow-x-auto pb-2 scrollbar-hide">
-                    <button onclick="filterFeed('all', this)" 
-                            class="chip chip-active flex-shrink-0 px-5 py-2.5 rounded-xl text-xs font-bold font-mono tracking-wider border border-cyber-cyan/30 transition-all">
-                        <i class="fas fa-layer-group mr-2"></i>ALL
-                    </button>
-                    <button onclick="filterFeed('نظامی', this)" 
-                            class="chip flex-shrink-0 px-5 py-2.5 rounded-xl text-xs font-bold font-mono tracking-wider border border-white/10 text-gray-400 hover:border-cyber-red/50 hover:text-cyber-red hover:bg-cyber-red/10 transition-all">
-                        <i class="fas fa-crosshairs mr-2"></i>نظامی
-                    </button>
-                    <button onclick="filterFeed('هسته‌ای', this)" 
-                            class="chip flex-shrink-0 px-5 py-2.5 rounded-xl text-xs font-bold font-mono tracking-wider border border-white/10 text-gray-400 hover:border-cyber-yellow/50 hover:text-cyber-yellow hover:bg-cyber-yellow/10 transition-all">
-                        <i class="fas fa-radiation mr-2"></i>هسته‌ای
-                    </button>
-                    <button onclick="filterFeed('اقتصادی', this)" 
-                            class="chip flex-shrink-0 px-5 py-2.5 rounded-xl text-xs font-bold font-mono tracking-wider border border-white/10 text-gray-400 hover:border-cyber-green/50 hover:text-cyber-green hover:bg-cyber-green/10 transition-all">
-                        <i class="fas fa-chart-bar mr-2"></i>اقتصادی
-                    </button>
-                    <button onclick="filterFeed('سیاسی', this)" 
-                            class="chip flex-shrink-0 px-5 py-2.5 rounded-xl text-xs font-bold font-mono tracking-wider border border-white/10 text-gray-400 hover:border-cyber-blue/50 hover:text-cyber-blue hover:bg-cyber-blue/10 transition-all">
-                        <i class="fas fa-landmark mr-2"></i>سیاسی
-                    </button>
+                <!-- CONTROLS BAR -->
+                <div class="flex flex-col gap-3 bg-void-800/50 p-3 rounded-2xl border border-white/5 backdrop-blur-sm sticky top-2 lg:top-4 z-20 shadow-xl shadow-void-950/50">
+                    <!-- Top Row: Search & Sort -->
+                    <div class="flex flex-col md:flex-row gap-3 justify-between">
+                        <div class="relative w-full md:w-1/2">
+                            <i class="fas fa-search absolute right-3 top-1/2 -translate-y-1/2 text-gray-500 text-xs"></i>
+                            <input type="text" 
+                                   placeholder="جستجو در اخبار..." 
+                                   oninput="handleSearch(this.value)"
+                                   class="w-full bg-void-950 border border-white/10 rounded-xl py-2.5 pr-9 pl-4 text-xs text-gray-300 focus:outline-none focus:border-cyber-cyan/50 transition-colors font-mono">
+                        </div>
+                        
+                        <div class="flex gap-2">
+                            <select onchange="handleSort(this.value)" class="bg-void-950 border border-white/10 rounded-xl py-2 px-3 text-xs text-gray-300 focus:outline-none focus:border-cyber-cyan/50 font-mono flex-grow md:flex-grow-0">
+                                <option value="newest">جدیدترین</option>
+                                <option value="oldest">قدیمی‌ترین</option>
+                                <option value="urgency">فوریت</option>
+                            </select>
+                            <button onclick="loadData()" class="p-2.5 rounded-xl border border-white/10 text-gray-400 hover:text-cyber-cyan hover:border-cyber-cyan/50 transition-all bg-void-950" title="Refresh">
+                                <i class="fas fa-sync-alt"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Bottom Row: Filter Chips -->
+                    <div class="flex gap-2 overflow-x-auto pb-1 scrollbar-hide">
+                        <button onclick="filterFeed('all', this)" 
+                                class="chip chip-active flex-shrink-0 px-4 py-2 rounded-lg text-[10px] font-bold font-mono tracking-wider border border-cyber-cyan/30 transition-all">
+                            همه
+                        </button>
+                        <button onclick="filterFeed('نظامی', this)" class="chip flex-shrink-0 px-4 py-2 rounded-lg text-[10px] font-bold font-mono tracking-wider border border-white/10 text-gray-400 hover:border-cyber-red/50 hover:text-cyber-red hover:bg-cyber-red/10 transition-all">
+                            نظامی
+                        </button>
+                        <button onclick="filterFeed('هسته‌ای', this)" class="chip flex-shrink-0 px-4 py-2 rounded-lg text-[10px] font-bold font-mono tracking-wider border border-white/10 text-gray-400 hover:border-cyber-yellow/50 hover:text-cyber-yellow hover:bg-cyber-yellow/10 transition-all">
+                            هسته‌ای
+                        </button>
+                        <button onclick="filterFeed('اقتصادی', this)" class="chip flex-shrink-0 px-4 py-2 rounded-lg text-[10px] font-bold font-mono tracking-wider border border-white/10 text-gray-400 hover:border-cyber-green/50 hover:text-cyber-green hover:bg-cyber-green/10 transition-all">
+                            اقتصادی
+                        </button>
+                        <button onclick="filterFeed('سیاسی', this)" class="chip flex-shrink-0 px-4 py-2 rounded-lg text-[10px] font-bold font-mono tracking-wider border border-white/10 text-gray-400 hover:border-cyber-blue/50 hover:text-cyber-blue hover:bg-cyber-blue/10 transition-all">
+                            سیاسی
+                        </button>
+                    </div>
                 </div>
 
                 <!-- NEWS FEED -->
-                <div id="feed-container" class="space-y-4">
+                <div id="feed-container" class="flex flex-col">
                     <!-- Skeleton Loaders -->
-                    <div class="intel-card rounded-2xl p-6 animate-pulse">
+                    <div class="p-6 animate-pulse border-b border-white/5">
                         <div class="flex justify-between mb-4">
                             <div class="h-6 w-20 bg-void-600 rounded-lg"></div>
                             <div class="h-4 w-24 bg-void-600 rounded-lg"></div>
@@ -504,7 +536,7 @@
                             <div class="h-8 w-28 bg-void-600 rounded-lg"></div>
                         </div>
                     </div>
-                    <div class="intel-card rounded-2xl p-6 animate-pulse">
+                    <div class="p-6 animate-pulse border-b border-white/5">
                         <div class="flex justify-between mb-4">
                             <div class="h-6 w-20 bg-void-600 rounded-lg"></div>
                             <div class="h-4 w-24 bg-void-600 rounded-lg"></div>
@@ -517,7 +549,7 @@
                         </div>
                     </div>
                 </div>
-            </main>
+            </div>
         </div>
 
         <!-- ═══════════════ FOOTER ═══════════════ -->
@@ -525,7 +557,7 @@
             <div class="flex items-center justify-center gap-4 text-gray-600 text-xs font-mono">
                 <span>RASAD.AI v2.0</span>
                 <span class="w-1 h-1 bg-gray-700 rounded-full"></span>
-                <span>INTELLIGENCE MONITORING</span>
+                <span>سامانه رصد هوشمند</span>
                 <span class="w-1 h-1 bg-gray-700 rounded-full"></span>
                 <span id="footer-time">--</span>
             </div>
@@ -534,22 +566,14 @@
 
     <!-- ═══════════════ MOBILE NAV ═══════════════ -->
     <nav class="lg:hidden fixed bottom-0 inset-x-0 bg-void-900/95 backdrop-blur-xl border-t border-white/5 z-50">
-        <div class="flex justify-around items-center h-16">
-            <button class="flex flex-col items-center gap-1 text-cyber-cyan">
+        <div class="grid grid-cols-2 h-16">
+            <button onclick="switchTab('news')" id="mob-tab-news" class="flex flex-col items-center justify-center gap-1 text-cyber-cyan hover:bg-white/5 transition-colors">
                 <i class="fas fa-home text-lg"></i>
-                <span class="text-[10px] font-mono">HOME</span>
+                <span class="text-[10px] font-mono">خانه</span>
             </button>
-            <button onclick="document.querySelector('aside').scrollIntoView({behavior: 'smooth'})" class="flex flex-col items-center gap-1 text-gray-500 hover:text-gray-300 transition-colors">
-                <i class="fas fa-tools text-lg"></i>
-                <span class="text-[10px] font-mono">TOOLS</span>
-            </button>
-            <button class="flex flex-col items-center gap-1 text-gray-500 hover:text-gray-300 transition-colors">
-                <i class="fas fa-chart-line text-lg"></i>
-                <span class="text-[10px] font-mono">MARKET</span>
-            </button>
-            <button class="flex flex-col items-center gap-1 text-gray-500 hover:text-gray-300 transition-colors">
-                <i class="fas fa-cog text-lg"></i>
-                <span class="text-[10px] font-mono">SETTINGS</span>
+            <button onclick="switchTab('dashboard')" id="mob-tab-dashboard" class="flex flex-col items-center justify-center gap-1 text-gray-500 hover:text-gray-300 hover:bg-white/5 transition-colors">
+                <i class="fas fa-chart-pie text-lg"></i>
+                <span class="text-[10px] font-mono">داشبورد</span>
             </button>
         </div>
     </nav>
@@ -560,6 +584,49 @@
 ═══════════════════════════════════════════════════ */
 let newsData = [];
 let currentFilter = 'all';
+let currentSearch = '';
+let currentSort = 'newest';
+let itemsToShow = 10;
+
+function switchTab(tab) {
+    const newsView = document.getElementById('view-news');
+    const dashView = document.getElementById('view-dashboard');
+    
+    // Desktop Tabs
+    const dNews = document.getElementById('desk-tab-news');
+    const dDash = document.getElementById('desk-tab-dashboard');
+    
+    // Mobile Tabs
+    const mNews = document.getElementById('mob-tab-news');
+    const mDash = document.getElementById('mob-tab-dashboard');
+
+    if (tab === 'news') {
+        newsView.classList.remove('hidden');
+        dashView.classList.add('hidden');
+        
+        updateTabStyles(dNews, dDash, true);
+        updateTabStyles(mNews, mDash, false);
+    } else {
+        newsView.classList.add('hidden');
+        dashView.classList.remove('hidden');
+        
+        updateTabStyles(dDash, dNews, true);
+        updateTabStyles(mDash, mNews, false);
+    }
+    window.scrollTo({top: 0, behavior: 'smooth'});
+}
+
+function updateTabStyles(active, inactive, isDesktop) {
+    if (isDesktop) {
+        active.className = "px-8 py-2.5 rounded-lg text-sm font-bold font-mono transition-all bg-cyber-cyan/10 text-cyber-cyan border border-cyber-cyan/30 shadow-[0_0_15px_rgba(0,240,255,0.2)]";
+        inactive.className = "px-8 py-2.5 rounded-lg text-sm font-bold font-mono transition-all text-gray-400 hover:text-gray-200 hover:bg-white/5 border border-transparent";
+    } else {
+        active.classList.add('text-cyber-cyan');
+        active.classList.remove('text-gray-500');
+        inactive.classList.add('text-gray-500');
+        inactive.classList.remove('text-cyber-cyan');
+    }
+}
 
 /* ═══════════════════════════════════════════════════
    CLOCKS
@@ -653,13 +720,13 @@ async function loadData() {
             // Update system status
             const status = document.getElementById('sys-status');
             status.innerHTML = `
-                <div class="relative w-2 h-2">
+                <div class="relative flex w-1.5 h-1.5 lg:w-2 lg:h-2">
                     <span class="absolute inline-flex h-full w-full rounded-full bg-cyber-green opacity-75 animate-ping"></span>
-                    <span class="relative inline-flex rounded-full h-2 w-2 bg-cyber-green"></span>
+                    <span class="relative inline-flex rounded-full h-1.5 w-1.5 lg:h-2 lg:w-2 bg-cyber-green"></span>
                 </div>
-                <span class="text-cyber-green text-xs font-mono font-bold tracking-wider">ONLINE</span>
+                <span class="text-cyber-green text-[10px] lg:text-xs font-mono font-bold tracking-wider">آنلاین</span>
             `;
-            status.className = "flex items-center gap-2 px-4 py-2 rounded-xl bg-cyber-green/10 border border-cyber-green/30 glow-green";
+            status.className = "flex items-center gap-2 px-3 py-1.5 lg:px-4 lg:py-2 rounded-xl bg-cyber-green/10 border border-cyber-green/30 glow-green";
         }
     } catch (e) { 
         console.error('Feed error:', e);
@@ -706,24 +773,61 @@ function getTagConfig(tag) {
     };
 }
 
+function handleSearch(val) {
+    currentSearch = val.toLowerCase();
+    itemsToShow = 10;
+    renderFeed();
+}
+
+function handleSort(val) {
+    currentSort = val;
+    itemsToShow = 10;
+    renderFeed();
+}
+
+function loadMore() {
+    itemsToShow += 10;
+    renderFeed();
+}
+
 function renderFeed() {
     const container = document.getElementById('feed-container');
-    const filtered = currentFilter === 'all' 
+    let filtered = currentFilter === 'all' 
         ? newsData 
         : newsData.filter(n => n.tag && n.tag.includes(currentFilter));
 
-    if(filtered.length === 0) {
+    // Search Filter
+    if (currentSearch) {
+        filtered = filtered.filter(n => 
+            (n.title_fa && n.title_fa.toLowerCase().includes(currentSearch)) ||
+            (n.title_en && n.title_en.toLowerCase().includes(currentSearch)) ||
+            (n.summary && n.summary.toString().toLowerCase().includes(currentSearch))
+        );
+    }
+
+    // Sorting
+    filtered.sort((a, b) => {
+        if (currentSort === 'newest') return b.timestamp - a.timestamp;
+        if (currentSort === 'oldest') return a.timestamp - b.timestamp;
+        if (currentSort === 'urgency') return b.urgency - a.urgency;
+        return 0;
+    });
+
+    const totalItems = filtered.length;
+    const visibleItems = filtered.slice(0, itemsToShow);
+
+    if(visibleItems.length === 0) {
         container.innerHTML = `
-            <div class="intel-card rounded-2xl p-12 text-center">
+            <div class="col-span-full intel-card rounded-2xl p-12 text-center">
                 <i class="fas fa-inbox text-4xl text-gray-700 mb-4"></i>
-                <p class="text-gray-500 font-mono">NO REPORTS AVAILABLE</p>
+                <p class="text-gray-500 font-mono">موردی یافت نشد</p>
             </div>
         `;
         return;
     }
 
     let html = '';
-    filtered.forEach((item, index) => {
+    visibleItems.forEach((item, index) => {
         const tagConfig = getTagConfig(item.tag);
         const summaryHTML = Array.isArray(item.summary) 
             ? item.summary.map(s => `<li class="mb-1.5">${s}</li>`).join('') 
@@ -731,101 +835,92 @@ function renderFeed() {
         
         // Sentiment indicator
         let sentimentColor = 'bg-gray-500';
-        let sentimentText = 'NEUTRAL';
+        let sentimentText = 'خنثی';
         if(item.sentiment > 0.2) {
             sentimentColor = 'bg-cyber-green';
-            sentimentText = 'POSITIVE';
+            sentimentText = 'مثبت';
         } else if(item.sentiment < -0.2) {
             sentimentColor = 'bg-cyber-red';
-            sentimentText = 'NEGATIVE';
+            sentimentText = 'منفی';
         }
 
         html += `
-        <article class="intel-card rounded-2xl overflow-hidden animate-fade-up" style="animation-delay: ${index * 0.1}s">
-            <!-- Sentiment Strip -->
-            <div class="h-1 ${sentimentColor}"></div>
+        <article class="group relative py-3 md:py-5 border-b border-white/5 hover:bg-white/[0.02] transition-colors animate-fade-up px-2" style="animation-delay: ${index * 0.05}s">
+            <!-- Sentiment Indicator -->
+            <div class="absolute right-0 top-6 bottom-6 w-0.5 rounded-full ${sentimentColor} opacity-30 group-hover:opacity-100 transition-opacity"></div>
             
-            <div class="p-4 lg:p-6">
+            <div class="pr-4 md:pr-5 pl-1 md:pl-2 flex flex-col gap-1.5 md:gap-2">
                 <!-- Header -->
-                <div class="flex flex-wrap justify-between items-start gap-3 mb-4">
-                    <div class="flex items-center gap-3">
-                        <span class="px-3 py-1.5 rounded-lg text-[11px] font-bold font-mono ${tagConfig.bg} ${tagConfig.border} ${tagConfig.text} border flex items-center gap-2">
-                            <i class="fas ${tagConfig.icon}"></i>
-                            ${item.tag || 'INFO'}
-                        </span>
-                        <span class="px-2 py-1 rounded text-[10px] font-mono ${sentimentColor}/20 text-gray-400">${sentimentText}</span>
-                    </div>
-                    <span class="text-[11px] text-gray-500 font-mono flex items-center gap-2">
-                        <i class="far fa-clock"></i>
-                        ${timeAgo(item.timestamp * 1000)}
-                    </span>
+                <div class="flex justify-between items-start gap-4">
+                    <h3 class="font-bold text-gray-200 text-sm md:text-base leading-relaxed group-hover:text-cyber-cyan transition-colors">${item.title_fa}</h3>
+                    <span class="text-[10px] text-gray-500 font-mono whitespace-nowrap flex-shrink-0 mt-1">${timeAgo(item.timestamp * 1000)}</span>
                 </div>
 
-                <!-- Content -->
-                <h3 class="font-bold text-gray-100 text-base lg:text-lg leading-relaxed mb-2">${item.title_fa}</h3>
-                <p class="text-xs text-gray-500 font-mono mb-4 dir-ltr text-left">${item.title_en}</p>
+                <!-- Subtitle -->
+                <p class="text-[11px] text-gray-500 font-mono dir-ltr text-left line-clamp-1 opacity-60 group-hover:opacity-100 transition-opacity">${item.title_en}</p>
+
+                <!-- Meta Row -->
+                <div class="flex items-center gap-3 mt-1">
+                    <span class="text-[10px] font-mono text-cyber-cyan/70 flex items-center gap-1">
+                        <i class="fas fa-satellite-dish text-[8px]"></i> ${item.source}
+                    </span>
+                    <span class="w-0.5 h-2 bg-gray-700 rounded-full"></span>
+                    <span class="text-[10px] ${tagConfig.text} opacity-80 font-bold">${item.tag || 'INFO'}</span>
+                    
+                    <!-- Actions (Visible on Hover) -->
+                    <div class="mr-auto flex items-center gap-4 lg:gap-2 opacity-100 lg:opacity-0 lg:group-hover:opacity-100 transition-opacity">
+                        <button onclick="toggleAnalysis(${index})" class="text-gray-500 hover:text-cyber-magenta transition-colors p-2 lg:p-0" title="AI Analysis"><i class="fas fa-robot text-base lg:text-sm"></i></button>
+                        <a href="${item.url}" target="_blank" class="text-gray-500 hover:text-cyber-cyan transition-colors p-2 lg:p-0" title="Open Link"><i class="fas fa-external-link-alt text-base lg:text-sm"></i></a>
+                        <button onclick="shareItem('${item.title_fa}', '${item.url}')" class="text-gray-500 hover:text-cyber-green transition-colors p-2 lg:p-0" title="Share"><i class="fas fa-share-alt text-base lg:text-sm"></i></button>
+                    </div>
+                </div>
 
                 <!-- AI Analysis (Hidden by default) -->
-                <div id="analysis-${index}" class="hidden mb-4 animate-fade-up">
-                    <div class="bg-void-700/50 rounded-xl p-4 border-r-2 border-cyber-magenta">
+                <div id="analysis-${index}" class="hidden mt-4 animate-fade-up">
+                    <div class="bg-void-800/50 rounded-lg p-4 border-r-2 border-cyber-magenta text-xs">
                         <div class="flex items-center gap-2 mb-3">
-                            <div class="w-6 h-6 rounded-lg bg-cyber-magenta/20 flex items-center justify-center">
-                                <i class="fas fa-brain text-cyber-magenta text-xs"></i>
-                            </div>
-                            <span class="text-[10px] font-mono font-bold text-cyber-magenta tracking-widest">AI ANALYSIS</span>
+                            <i class="fas fa-robot text-cyber-magenta"></i>
+                            <span class="font-mono font-bold text-cyber-magenta tracking-widest">تحلیل هوشمند</span>
                         </div>
-                        
-                        <div class="mb-4">
-                            <span class="text-[10px] font-mono text-gray-500 block mb-1">IMPACT ASSESSMENT</span>
-                            <p class="text-sm text-gray-300 leading-relaxed">${item.impact || 'در حال تحلیل...'}</p>
-                        </div>
-                        
-                        <div>
-                            <span class="text-[10px] font-mono text-gray-500 block mb-1">KEY POINTS</span>
-                            <ul class="text-sm text-gray-400 list-disc pr-5 leading-relaxed">${summaryHTML}</ul>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Footer -->
-                <div class="flex flex-wrap justify-between items-center pt-4 border-t border-white/5 gap-3">
-                    <div class="flex items-center gap-2 text-xs text-gray-500">
-                        <i class="fas fa-satellite-dish"></i>
-                        <span class="font-mono">${item.source}</span>
-                    </div>
-                    
-                    <div class="flex items-center gap-2">
-                        <button onclick="toggleAnalysis(${index})" id="btn-analysis-${index}" 
-                                class="px-4 py-2 rounded-xl text-xs font-mono font-bold border border-cyber-magenta/30 text-cyber-magenta hover:bg-cyber-magenta/10 transition-all flex items-center gap-2 active:scale-95">
-                            <i class="fas fa-brain"></i>
-                            <span class="hidden sm:inline">تحلیل هوشمند</span>
-                            <span class="sm:hidden">AI</span>
-                        </button>
-                        
-                        <a href="${item.url}" target="_blank" 
-                           class="p-2 rounded-xl border border-white/10 text-gray-400 hover:border-cyber-cyan/50 hover:text-cyber-cyan hover:bg-cyber-cyan/10 transition-all">
-                            <i class="fas fa-external-link-alt"></i>
-                        </a>
+                        <p class="text-gray-300 leading-relaxed mb-3"><span class="text-gray-500 font-mono block mb-1">تأثیر:</span>${item.impact || 'در حال تحلیل...'}</p>
+                        <span class="text-gray-500 font-mono block mb-1">خلاصه:</span>
+                        <ul class="text-gray-400 list-disc pr-4 leading-relaxed space-y-1">${summaryHTML}</ul>
                     </div>
                 </div>
             </div>
         </article>
         `;
     });
+
+    // Load More Button
+    if (totalItems > itemsToShow) {
+        html += `
+            <div class="col-span-full text-center pt-4">
+                <button onclick="loadMore()" class="px-6 py-3 rounded-xl bg-void-800 border border-cyber-cyan/30 text-cyber-cyan font-mono text-xs hover:bg-cyber-cyan/10 transition-all">
+                    بارگذاری بیشتر (+${totalItems - itemsToShow})
+                </button>
+            </div>
+        `;
+    }
     
     container.innerHTML = html;
 }
 
 function toggleAnalysis(index) {
     const analysis = document.getElementById(`analysis-${index}`);
-    const btn = document.getElementById(`btn-analysis-${index}`);
     
     if(analysis.classList.contains('hidden')) {
         analysis.classList.remove('hidden');
-        btn.classList.add('bg-cyber-magenta/20', 'border-cyber-magenta');
     } else {
         analysis.classList.add('hidden');
-        btn.classList.remove('bg-cyber-magenta/20', 'border-cyber-magenta');
+    }
+}
+
+function shareItem(title, url) {
+    if (navigator.share) {
+        navigator.share({ title: 'RASAD Intelligence', text: title, url: url }).catch(console.error);
+    } else {
+        navigator.clipboard.writeText(`${title}\n${url}`).then(() => alert('Link copied to clipboard!'));
     }
 }
 
@@ -868,15 +963,15 @@ function updateTension(data) {
     percent.innerText = `${pct}%`;
     
     if(pct < 30) {
-        text.innerText = "LOW / عادی";
+        text.innerText = "عادی";
         text.className = "text-lg font-display font-bold text-cyber-green";
         percent.className = "text-2xl font-display font-black text-cyber-green";
     } else if(pct < 65) {
-        text.innerText = "ELEVATED / حساس";
+        text.innerText = "حساس";
         text.className = "text-lg font-display font-bold text-cyber-yellow";
         percent.className = "text-2xl font-display font-black text-cyber-yellow";
     } else {
-        text.innerText = "CRITICAL / بحرانی";
+        text.innerText = "بحرانی";
         text.className = "text-lg font-display font-bold text-cyber-red animate-pulse";
         percent.className = "text-2xl font-display font-black text-cyber-red animate-pulse";
     }
@@ -895,6 +990,7 @@ function updateStats(data) {
 
 function filterFeed(tag, btn) {
     currentFilter = tag;
+    itemsToShow = 10;
     
     // Reset all chips
     document.querySelectorAll('.chip').forEach(chip => {
