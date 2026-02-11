@@ -27,6 +27,7 @@ CONFIG = {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'), 
         'CHANNEL_ID': os.environ.get('TG_CHANNEL_ID') 
     },
+    'PROXY_URL': 'https://raw.githubusercontent.com/itsyebekhe/MTProtoNexus/refs/heads/gh-pages/extracted_proxies.json',
     'TIMEOUT': 20,
     'MAX_WORKERS': 4,
     'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY')
@@ -109,6 +110,28 @@ class IranNewsRadar:
             logger.warning(f"⚠️ Could not resolve URL {gnews_url}: {e}")
             return gnews_url
 
+    # --- PROXY FETCHING ---
+    def fetch_best_proxies(self):
+        """Fetches proxies, filters for Online, sorts by latency, returns top 9"""
+        try:
+            resp = self.scraper.get(CONFIG['PROXY_URL'], timeout=10)
+            if resp.status_code != 200:
+                return []
+            
+            data = resp.json()
+            
+            # Filter: Must be Online
+            online_proxies = [p for p in data if p.get('status') == 'Online']
+            
+            # Sort: Low latency first
+            online_proxies.sort(key=lambda x: x.get('latency') if x.get('latency') is not None else 99999)
+            
+            # Return top 9 for the 3x3 grid
+            return online_proxies[:9]
+        except Exception as e:
+            logger.error(f"Error fetching proxies: {e}")
+            return []
+
     # --- MARKET DATA ---
     def fetch_market_rates(self):
         data = {"usd": "نامشخص", "oil": "نامشخص", "updated": "--:--"}
@@ -138,6 +161,7 @@ class IranNewsRadar:
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id: return
 
+        # 1. Get Market Data
         try:
             with open(CONFIG['FILES']['MARKET'], 'r') as f: mkt = json.load(f)
             usd_price = mkt.get('usd', 'نامشخص')
@@ -145,10 +169,35 @@ class IranNewsRadar:
             market_text = f"💵 <b>دلار:</b> {usd_price} تومان | 🛢 <b>نفت:</b> {oil_price} دلار"
         except: market_text = ""
 
+        # 2. Get Proxies and Build Keyboard (9 Buttons)
+        proxies = self.fetch_best_proxies()
+        reply_markup = None
+        
+        if proxies:
+            keyboard = []
+            row = []
+            for i, p in enumerate(proxies, 1):
+                latency = p.get('latency', '?')
+                # Button Text: "Proxy 1 (88ms)"
+                btn_text = f"🚀 {i} ({latency}ms)"
+                btn = {"text": btn_text, "url": p['tg_url']}
+                row.append(btn)
+                
+                # Create a new row every 3 buttons
+                if len(row) == 3:
+                    keyboard.append(row)
+                    row = []
+            
+            if row: # Add remaining buttons
+                keyboard.append(row)
+                
+            reply_markup = {"inline_keyboard": keyboard}
+
         utc_now = datetime.now(timezone.utc)
         iran_offset = timezone(timedelta(hours=3, minutes=30))
         current_time = utc_now.astimezone(iran_offset).strftime("%H:%M")
         
+        # 3. Construct Message
         header = (
             f"📡 <b>رادار هوشمند اخبار ایران</b> | ⏱ {current_time}\n"
             f"{market_text}\n"
@@ -205,11 +254,21 @@ class IranNewsRadar:
             messages_to_send.append(current_chunk + footer)
 
         api_url = f"https://api.telegram.org/bot{token}/sendMessage"
+        
         for i, msg in enumerate(messages_to_send):
+            payload = {
+                "chat_id": chat_id, 
+                "text": msg, 
+                "parse_mode": "HTML", 
+                "disable_web_page_preview": True
+            }
+
+            # Attach buttons ONLY to the LAST message
+            if i == len(messages_to_send) - 1 and reply_markup:
+                payload["reply_markup"] = reply_markup
+
             try:
-                cloudscraper.create_scraper().post(api_url, json={
-                    "chat_id": chat_id, "text": msg, "parse_mode": "HTML", "disable_web_page_preview": True
-                })
+                cloudscraper.create_scraper().post(api_url, json=payload)
                 time.sleep(1.5)
             except Exception as e:
                 logger.error(f"❌ Send Fail: {e}")
@@ -234,7 +293,6 @@ class IranNewsRadar:
         context = full_text if len(full_text) > 100 else headline
         fallback = {"title_fa": headline, "summary": ["تحلیل در دسترس نیست"], "impact": "بررسی نشده", "tag": "News", "urgency": 3, "sentiment": 0}
 
-        # --- UPDATED PROMPT FOR OPPOSITION / SHAHIST PERSPECTIVE ---
         system_prompt = (
             "You are a Senior Strategic Analyst for the Iranian Opposition (Pro-Pahlavi/Nationalist view). "
             "Analyze the news from the perspective of Iran's National Interest, distinguishing it from the 'Islamic Republic Regime's interest'. "
@@ -259,7 +317,7 @@ class IranNewsRadar:
                         "role": "user", 
                         "content": f"HEADLINE: {headline}\nTEXT: {context}"
                     }],
-                    "temperature": 0.2 # Slightly higher creativity for political nuance
+                    "temperature": 0.2
                 }, timeout=30
             )
             if resp.status_code == 200:
