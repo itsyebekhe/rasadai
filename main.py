@@ -189,7 +189,7 @@ class IranNewsRadar:
             item_html = (
                 f"{icon} <b><a href='{url}'>{safe_title}</a></b>\n"
                 f"🗞 <i>منبع: {safe_source}</i>\n\n"
-                f"📝 <b>خلاصه:</b>\n{safe_summary}\n\n"
+                f"📝 <b>تحلیل:</b>\n{safe_summary}\n\n"
                 f"🎯 <b>تأثیر:</b> {safe_impact}\n\n"
                 f"#{safe_tag}\n"
                 f"〰️〰️〰️〰️〰️〰️〰️\n\n"
