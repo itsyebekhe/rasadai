@@ -5,10 +5,10 @@ import logging
 import cloudscraper
 import html
 import re
-import random  # Added for random name selection
+import random
 import concurrent.futures
 import feedparser
-from urllib.parse import quote
+from urllib.parse import quote, unquote
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 from gnews import GNews
@@ -17,15 +17,11 @@ from dateutil import parser
 
 # --- CONFIGURATION ---
 CONFIG = {
-    # 1. BROAD GLOBAL SEARCH
     'SEARCH_QUERY': 'Iran AND (Israel OR USA OR nuclear OR conflict OR sanctions OR currency OR IRGC)',
-    
-    # 2. SPECIFIC TARGETED SOURCES
     'TARGET_SOURCES': [
         'iranintl.com', 'bbc.com/persian', 'radiofarda.com', 'independentpersian.com',
         'dw.com/fa', 'presstv.ir', 'tasnimnews.com', 'farsnews.ir', 'irna.ir', 'mehrnews.com'
     ],
-
     'FILES': {
         'NEWS': 'news.json',
         'MARKET': 'market.json'
@@ -37,13 +33,13 @@ CONFIG = {
     'PROXY_URL': 'https://raw.githubusercontent.com/itsyebekhe/MTProtoNexus/refs/heads/gh-pages/extracted_proxies.json',
     'TIMEOUT': 20,
     'MAX_WORKERS': 4,
-    'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY')
+    'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY'),
+    'AI_RETRIES': 3
 }
 
-# --- ORIGINAL IRANIAN NAMES ---
 PROXY_NAMES = [
     "Kourosh", "Dariush", "Kaveh", "Rostam", "Arash", "Siavash", "Babak", 
-    "K خشayar", "Sorena", "Ariobarzan", "Mithra", "Anahita", "Faridun", 
+    "Khashayar", "Sorena", "Ariobarzan", "Mithra", "Anahita", "Faridun", 
     "Jamshid", "Zal", "Bahram", "Shapur", "Artaban", "Pirooz", "Maziar",
     "Tahmineh", "Gordafarid", "Cassandan", "Atusa", "Roxana", "Mandana"
 ]
@@ -150,7 +146,8 @@ class IranNewsRadar:
                     'url': r.get('url'),
                     'publisher': {'title': r.get('source')},
                     'published date': r.get('date'),
-                    'description': r.get('body')
+                    'description': r.get('body'),
+                    'image': r.get('image') # DDGS sometimes provides images too
                 })
         except Exception as e:
             logger.error(f"DDG Error ({query}): {e}")
@@ -162,14 +159,43 @@ class IranNewsRadar:
             encoded_query = quote(query)
             url = f"https://www.bing.com/news/search?q={encoded_query}&format=rss"
             feed = feedparser.parse(url)
+            
             for entry in feed.entries:
-                pub_title = entry.source.title if hasattr(entry, 'source') else 'Bing News'
+                publisher = "Bing News"
+                if hasattr(entry, 'news_source'): publisher = entry.news_source
+                elif hasattr(entry, 'source') and hasattr(entry.source, 'title'): publisher = entry.source.title
+
+                # Clean Redirects
+                final_link = entry.link
+                if "apiclick.aspx" in final_link:
+                    match = re.search(r'[?&]url=([^&]+)', final_link)
+                    if match: final_link = unquote(match.group(1))
+
+                # --- IMAGE EXTRACTION (NEW) ---
+                image_url = None
+                try:
+                    # feedparser handles namespaces, usually maps 'news:image' to 'news_image'
+                    if hasattr(entry, 'news_image'):
+                        raw_url = entry.news_image
+                        # Check if we have width/height data to replace placeholders
+                        width = getattr(entry, 'news_imagemaxwidth', '700')
+                        height = getattr(entry, 'news_imagemaxheight', '400')
+                        
+                        # Replace {0} and {1} in string like: ...&w={0}&h={1}&c=14
+                        if '{0}' in raw_url:
+                            image_url = raw_url.replace('{0}', str(width)).replace('{1}', str(height))
+                        else:
+                            image_url = raw_url
+                except Exception:
+                    pass
+
                 results.append({
                     'title': entry.title,
-                    'url': entry.link,
-                    'publisher': {'title': pub_title},
+                    'url': final_link,
+                    'publisher': {'title': publisher},
                     'published date': entry.published,
-                    'description': entry.summary if hasattr(entry, 'summary') else entry.title
+                    'description': entry.summary if hasattr(entry, 'summary') else entry.title,
+                    'image': image_url  # Add to result
                 })
         except Exception as e:
             logger.error(f"Bing RSS Error: {e}")
@@ -221,39 +247,63 @@ class IranNewsRadar:
         context = full_text if len(full_text) > 100 else headline
         
         is_regime = any(x in source_name.lower() for x in ['tasnim', 'fars', 'irna', 'press', 'mehr'])
+        
         regime_instruction = ""
         if is_regime:
-            regime_instruction = "WARNING: Input is Iranian State Propaganda. DEBUNK it. Identify hidden agendas. Do not treat claims as facts. "
+            regime_instruction = (
+                "WARNING: The input text is from Iranian State Media (Propaganda). "
+                "You must DEBUNK it in your Persian summary. Identify hidden agendas. "
+                "Do not repeat their claims as facts. "
+            )
 
         system_prompt = (
-            "You are a Strategic Analyst for the Iranian Opposition. "
+            "You are a Strategic Analyst for the Iranian Opposition (Pro-Pahlavi/Nationalist). "
             f"{regime_instruction}"
-            "Analyze news via Iran's National Interest. Output JSON: "
-            "{title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}."
+            "TASK: Analyze the news news via Iran's National Interest.\n"
+            "LANGUAGE RULES (CRITICAL): \n"
+            "1. THE JSON OUTPUT VALUES MUST BE IN PERSIAN (FARSI) ONLY. NO ENGLISH.\n"
+            "2. If the input is English, TRANSLATE your analysis to Persian.\n"
+            "3. 'tag' must be one Persian word.\n"
+            "OUTPUT FORMAT JSON: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}."
         )
 
-        try:
-            resp = self.scraper.post(
-                "https://gen.pollinations.ai/v1/chat/completions",
-                headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
-                json={
-                    "model": "openai",
-                    "messages": [
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": f"HEADLINE: {headline}\nSOURCE: {source_name}\nTEXT: {context}"}
-                    ],
-                    "temperature": 0.3
-                }, timeout=30
-            )
-            if resp.status_code == 200:
-                clean = resp.json()['choices'][0]['message']['content'].replace('```json','').replace('```','').strip()
-                return json.loads(clean)
-        except: pass
+        for attempt in range(CONFIG['AI_RETRIES']):
+            try:
+                resp = self.scraper.post(
+                    "https://gen.pollinations.ai/v1/chat/completions",
+                    headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
+                    json={
+                        "model": "openai",
+                        "messages": [
+                            {"role": "system", "content": system_prompt},
+                            {"role": "user", "content": f"HEADLINE: {headline}\nSOURCE: {source_name}\nTEXT: {context}"}
+                        ],
+                        "temperature": 0.3
+                    }, timeout=30
+                )
+                
+                if resp.status_code == 200:
+                    raw_content = resp.json()['choices'][0]['message']['content']
+                    clean = raw_content.replace('```json','').replace('```','').strip()
+                    data = json.loads(clean)
+                    
+                    if not data.get('title_fa') or not data.get('summary'):
+                        raise ValueError("Empty fields in AI response")
+                        
+                    return data
+                else:
+                    logger.warning(f"AI Error Status: {resp.status_code}")
+                    
+            except Exception as e:
+                logger.warning(f"AI Attempt {attempt+1} failed: {e}")
+                time.sleep(2)
+
         return None
 
     def process_item(self, entry):
         raw_title = entry.get('title', '').rsplit(' - ', 1)[0]
         publisher = entry.get('publisher', {}).get('title', 'Unknown')
+        image_url = entry.get('image') # Get extracted image
         
         logger.info(f"Processing: {publisher} | {raw_title[:20]}...")
         
@@ -265,7 +315,7 @@ class IranNewsRadar:
         text = self.scrape_article_text(final_url, snippet)
         
         ai = self.analyze_with_ai(raw_title, text, publisher)
-        if not ai: ai = {}
+        if not ai: return None
 
         try: ts = parser.parse(entry.get('published date')).timestamp()
         except: ts = time.time()
@@ -278,7 +328,8 @@ class IranNewsRadar:
             "tag": ai.get('tag', 'General'),
             "urgency": ai.get('urgency', 3),
             "source": publisher,
-            "url": final_url, 
+            "url": final_url,
+            "image": image_url, # Pass image to result
             "timestamp": ts
         }
 
@@ -298,17 +349,12 @@ class IranNewsRadar:
         if proxies:
             keyboard = []
             row = []
-            # Shuffle names to keep it fresh
             names_pool = random.sample(PROXY_NAMES, min(len(proxies), len(PROXY_NAMES)))
             
             for i, p in enumerate(proxies):
-                # Pick a name from the pool
                 proxy_name = names_pool[i]
                 latency = p.get('latency', '?')
-                
-                # Button Text: "🛡 Rostam (88ms)"
-                btn_text = f"🛡 {proxy_name}"
-                
+                btn_text = f"🛡 {proxy_name} ({latency}ms)"
                 row.append({"text": btn_text, "url": p['tg_url']})
                 if len(row) == 3:
                     keyboard.append(row)
@@ -331,6 +377,7 @@ class IranNewsRadar:
             url = str(item.get('url', ''))
             impact = str(item.get('impact', ''))
             urgency = item.get('urgency', 3)
+            img_link = item.get('image', '')
             
             icon = "🔹"
             if urgency >= 8: icon = "🚨"
@@ -344,8 +391,15 @@ class IranNewsRadar:
             if isinstance(summary_raw, str): summary_raw = [summary_raw]
             safe_summary = "\n".join([f"▪️ {html.escape(str(s))}" for s in summary_raw])
 
+            # --- IMAGE EMBEDDING ---
+            # If an image exists, we add a hidden 0-width character link at the start of the title.
+            # Telegram's "Link Preview" feature will often pick this up and display the image at the top of the message.
+            hidden_image = ""
+            if img_link:
+                hidden_image = f"<a href='{img_link}'>&#8205;</a>"
+
             item_html = (
-                f"{icon} <b><a href='{url}'>{html.escape(title)}</a></b>\n"
+                f"{icon} {hidden_image}<b><a href='{url}'>{html.escape(title)}</a></b>\n"
                 f"🗞 <i>منبع: {safe_source}</i>\n\n"
                 f"📝 <b>تحلیل:</b>\n{safe_summary}\n\n"
                 f"🎯 <b>تأثیر:</b> {html.escape(impact)}\n\n"
@@ -364,7 +418,8 @@ class IranNewsRadar:
 
         api_url = f"https://api.telegram.org/bot{token}/sendMessage"
         for i, msg in enumerate(messages_to_send):
-            payload = {"chat_id": chat_id, "text": msg, "parse_mode": "HTML", "disable_web_page_preview": True}
+            # disable_web_page_preview must be FALSE to show the image
+            payload = {"chat_id": chat_id, "text": msg, "parse_mode": "HTML", "disable_web_page_preview": False}
             if i == len(messages_to_send) - 1 and reply_markup:
                 payload["reply_markup"] = reply_markup
             try:
