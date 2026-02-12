@@ -34,7 +34,9 @@ CONFIG = {
     'TIMEOUT': 20,
     'MAX_WORKERS': 4,
     'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY'),
-    'AI_RETRIES': 3
+    'AI_RETRIES': 3,
+    # New Config: Minimum urgency score required to send to Telegram (1-10)
+    'MIN_TELEGRAM_URGENCY': 7 
 }
 
 PROXY_NAMES = [
@@ -284,9 +286,13 @@ class IranNewsRadar:
 
         # --- MODULAR & CONDITIONAL SYSTEM PROMPT ---
         system_prompt = (
-            "You are a Strategic Analyst for the Iranian Nationalist Pro-Pahlavi Opposition. Analyze news with realism and focus ONLY on what is mentioned in the text.\n\n"
+            "You are a Strategic Analyst for the Iranian Nationalist Pro-Pahlavi Opposition. Analyze news with realism.\n\n"
             f"{regime_instruction}"
-            "STRICT GUIDELINES (Apply ONLY if relevant to the news content):\n"
+            "STRICT GUIDELINES FOR URGENCY SCORE (1-10):\n"
+            "- Score 9-10: Immediate physical danger, War/Direct Conflict with Israel/USA, Major nationwide protests, death of top officials.\n"
+            "- Score 7-8: Significant Sanctions, New repressive laws, Major currency collapse, Confirmed strikes on proxies.\n"
+            "- Score 1-6: Standard political statements, Economic data, Opinion pieces, Routine diplomatic meetings.\n\n"
+            "INSTRUCTIONS:\n"
             "1. TOPIC-SPECIFIC LOGIC:\n"
             "   - IF the news is about SANCTIONS or CONFLICT with Israel/USA: Frame it as a factor that weakens the regime's grip on power and supports the people's path to freedom.\n"
             "   - IF the news mentions RUSSIA, CHINA, or NORTH KOREA: Treat them as the regime's partners in suppression. Do NOT mention them if they are not in the news article.\n"
@@ -295,7 +301,7 @@ class IranNewsRadar:
             "Example: Do not link a foreign soldier's personal bet to internal Iranian suppression unless the text provides a direct military link.\n"
             "3. NO GENERIC REPETITION: Do not include a standard political lecture. If the news is about a specific event, the summary must be about THAT event.\n"
             "4. OUTPUT: Results must be in PERSIAN (Farsi) only.\n\n"
-            "JSON STRUCTURE: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}"
+            "JSON STRUCTURE: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(integer 1-10), sentiment(-1.0 to 1.0)}"
         )
 
         current_text = full_text
@@ -314,7 +320,7 @@ class IranNewsRadar:
                             {"role": "system", "content": system_prompt},
                             {"role": "user", "content": f"SOURCE: {source_name}\nHEADLINE: {headline}\nTEXT: {current_text}"}
                         ],
-                        "temperature": 0.25 # Lowered temperature for more factual/logical consistency
+                        "temperature": 0.25 
                     }, timeout=45
                 )
                 
@@ -384,6 +390,9 @@ class IranNewsRadar:
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
         if not token or not chat_id: return
 
+        # Only fetch proxies if we are actually sending a message
+        if not items: return
+
         try:
             with open(CONFIG['FILES']['MARKET'], 'r') as f: mkt = json.load(f)
             market_text = f"💵 <b>دلار:</b> {mkt.get('usd')} | 🛢 <b>نفت:</b> {mkt.get('oil')}"
@@ -409,8 +418,9 @@ class IranNewsRadar:
         utc_now = datetime.now(timezone.utc)
         current_time = utc_now.astimezone(timezone(timedelta(hours=3, minutes=30))).strftime("%H:%M")
         
-        header = f"📡 <b>رادار هوشمند اخبار ایران</b> | ⏱ {current_time}\n{market_text}\n➖➖➖➖➖➖➖➖➖➖\n\n"
-        footer = "\n🆔 @RasadAIOfficial\n📊 <a href='https://itsyebekhe.github.io/rasadai/'>مشاهده داشبورد کامل</a>"
+        # Header changed to reflect it might be "Breaking News" or "Important Update"
+        header = f"🚨 <b>رادار اخبار مهم ایران</b> | ⏱ {current_time}\n{market_text}\n➖➖➖➖➖➖➖➖➖➖\n\n"
+        footer = "\n🆔 @RasadAIOfficial\n📊 <a href='https://itsyebekhe.github.io/rasadai/'>مشاهده اخبار بیشتر در سایت</a>"
 
         messages_to_send = []
         current_chunk = header
@@ -424,8 +434,8 @@ class IranNewsRadar:
             img_link = item.get('image', '')
             
             icon = "🔹"
-            if urgency >= 8: icon = "🚨"
-            elif urgency >= 6: icon = "⚠️"
+            if urgency >= 9: icon = "🔥🔴"
+            elif urgency >= 7: icon = "🚨"
 
             is_regime = any(x in source.lower() for x in ['tasnim', 'fars', 'irna', 'press', 'mehr'])
             safe_source = html.escape(source)
@@ -504,19 +514,43 @@ class IranNewsRadar:
                     self.seen_urls.add(res['url'])
 
         if new_items:
-            self.existing_news.extend(new_items)
-            self.existing_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-            self.existing_news = self.existing_news[:150]
+            # 1. SAVE ALL NEWS TO JSON (For the Website)
+            # We combine existing news with ALL new items, regardless of urgency
+            all_news_to_save = self.existing_news + new_items
+            all_news_to_save.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+            all_news_to_save = all_news_to_save[:150] # Keep last 150 items for JSON
             
             try:
                 with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
-                    json.dump(self.existing_news, f, indent=4, ensure_ascii=False)
-                logger.info(">>> DB Saved.")
+                    json.dump(all_news_to_save, f, indent=4, ensure_ascii=False)
+                logger.info(">>> DB Saved (All items).")
             except Exception as e:
                 logger.error(f"Save Failed: {e}")
 
-            new_items.sort(key=lambda x: x.get('urgency', 0), reverse=True)
-            self.send_digest_to_telegram(new_items)
+            # 2. FILTER NEWS FOR TELEGRAM
+            # Only send high urgency items
+            telegram_items = []
+            min_urgency = CONFIG['MIN_TELEGRAM_URGENCY']
+            
+            for item in new_items:
+                urgency = item.get('urgency', 0)
+                tag = str(item.get('tag', '')).lower()
+                
+                # Rule: Send if urgency is high OR if it's very specific conflict news
+                is_conflict_related = any(w in tag for w in ['war', 'conflict', 'military', 'protest', 'strike'])
+                
+                if urgency >= min_urgency:
+                    telegram_items.append(item)
+                elif urgency >= 6 and is_conflict_related:
+                    # Allow slightly lower urgency if it's explicitly about conflict
+                    telegram_items.append(item)
+
+            if telegram_items:
+                telegram_items.sort(key=lambda x: x.get('urgency', 0), reverse=True)
+                logger.info(f"Sending {len(telegram_items)} important items to Telegram.")
+                self.send_digest_to_telegram(telegram_items)
+            else:
+                logger.info(">>> New items found, but none met urgency criteria for Telegram.")
             
             logger.info(">>> Done.")
         else:
