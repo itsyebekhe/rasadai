@@ -279,21 +279,23 @@ class IranNewsRadar:
         regime_instruction = ""
         if is_regime:
             regime_instruction = (
-                "WARNING: Input is Iranian State Propaganda. DEBUNK it using facts. "
+                "CRITICAL: The source is Iranian State Media. Use your analysis to expose propaganda or hidden facts. "
             )
 
-        # --- UPDATED SYSTEM PROMPT WITH YOUR SPECIFIC INSTRUCTIONS ---
+        # --- MODULAR & CONDITIONAL SYSTEM PROMPT ---
         system_prompt = (
-            "You are a Strategic Analyst for the Iranian Opposition (Pro-Pahlavi/Pro-Nationalist/Liberation). "
+            "You are a Strategic Analyst for the Iranian Nationalist Pro-Pahlavi Opposition. Analyze news with realism and focus ONLY on what is mentioned in the text.\n\n"
             f"{regime_instruction}"
-            "Analyze all news through the lens of the Iranian people's struggle against the regime.\n"
-            "SPECIAL INSTRUCTIONS:\n"
-            "1. If the news is about SANCTIONS, MILITARY PRESSURE, or CONFLICT between the regime and (Israel/USA), "
-            "frame it POSITIVELY as a necessary step toward weakening the oppressors and freeing the Iranian people. "
-            "Emphasize that the people see outside pressure as a path to liberty.\n"
-            "2. GEOPOLITICS: Russia, China, & North Korea are ALLIES OF THE REGIME. View their actions, if mentioned in news, as enabling suppression.\n"
-            "3. LANG: PERSIAN ONLY.\n"
-            "4. OUTPUT JSON: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}."
+            "STRICT GUIDELINES (Apply ONLY if relevant to the news content):\n"
+            "1. TOPIC-SPECIFIC LOGIC:\n"
+            "   - IF the news is about SANCTIONS or CONFLICT with Israel/USA: Frame it as a factor that weakens the regime's grip on power and supports the people's path to freedom.\n"
+            "   - IF the news mentions RUSSIA, CHINA, or NORTH KOREA: Treat them as the regime's partners in suppression. Do NOT mention them if they are not in the news article.\n"
+            "   - IF the news is about INTERNAL PROTESTS/ECONOMY: Focus on the regime's failure and the people's resilience.\n"
+            "2. REALISM & RELEVANCE: Stay grounded in the facts of the article. Do NOT create forced or imaginary connections. "
+            "Example: Do not link a foreign soldier's personal bet to internal Iranian suppression unless the text provides a direct military link.\n"
+            "3. NO GENERIC REPETITION: Do not include a standard political lecture. If the news is about a specific event, the summary must be about THAT event.\n"
+            "4. OUTPUT: Results must be in PERSIAN (Farsi) only.\n\n"
+            "JSON STRUCTURE: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}"
         )
 
         current_text = full_text
@@ -301,7 +303,7 @@ class IranNewsRadar:
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
                 if attempt > 0:
-                    current_text = headline + " " + full_text[:500]
+                    current_text = headline + " " + full_text[:800]
 
                 resp = self.scraper.post(
                     "https://gen.pollinations.ai/v1/chat/completions",
@@ -310,26 +312,27 @@ class IranNewsRadar:
                         "model": "openai",
                         "messages": [
                             {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": f"HEADLINE: {headline}\nSOURCE: {source_name}\nTEXT: {current_text}"}
+                            {"role": "user", "content": f"SOURCE: {source_name}\nHEADLINE: {headline}\nTEXT: {current_text}"}
                         ],
-                        "temperature": 0.4 # Slightly increased for more descriptive 'praising' language
-                    }, timeout=40
+                        "temperature": 0.25 # Lowered temperature for more factual/logical consistency
+                    }, timeout=45
                 )
                 
                 if resp.status_code == 200:
                     raw_content = resp.json()['choices'][0]['message']['content']
-                    clean = raw_content.replace('```json','').replace('```','').strip()
+                    clean = re.sub(r'```json\s*|```', '', raw_content).strip()
                     data = json.loads(clean)
+                    
                     if not data.get('title_fa') or not data.get('summary'):
-                        raise ValueError("Empty fields")
+                        raise ValueError("Incomplete response")
                     return data
+                
                 elif resp.status_code == 400:
-                    logger.warning("AI Error 400 (Text too long). Retrying with shorter text.")
-                else:
-                    logger.warning(f"AI Error Status: {resp.status_code}")
+                    logger.warning("AI Input too long, shortening...")
+                    continue
                     
             except Exception as e:
-                logger.warning(f"AI Fail: {e}")
+                logger.error(f"AI Attempt {attempt+1} failed: {e}")
                 time.sleep(2)
 
         return None
