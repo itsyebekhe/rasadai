@@ -53,8 +53,15 @@ class IranNewsRadar:
         self.api_key = CONFIG['POLLINATIONS_KEY']
         self.existing_news = self._load_existing_news()
         
-        self.seen_urls = {item.get('url') for item in self.existing_news if item.get('url')}
-        self.seen_titles = {self._normalize_text(item.get('title_en', '')) for item in self.existing_news}
+        # Build deduplication sets
+        self.seen_urls = set()
+        self.seen_titles = set()
+        
+        for item in self.existing_news:
+            if item.get('url'):
+                self.seen_urls.add(item['url'])
+            if item.get('title_en'):
+                self.seen_titles.add(self._normalize_text(item['title_en']))
         
         self.gnews_en = GNews(language='en', country='US', period='1h', max_results=5)
 
@@ -70,6 +77,12 @@ class IranNewsRadar:
         return words - stop_words
 
     def _is_duplicate_fuzzy(self, new_title, comparison_pool):
+        # 1. Check Exact Title Match first (Faster)
+        norm_title = self._normalize_text(new_title)
+        if norm_title in self.seen_titles:
+            return True
+
+        # 2. Fuzzy Token Match
         new_tokens = self._get_tokens(new_title)
         if not new_tokens: return False
 
@@ -165,13 +178,11 @@ class IranNewsRadar:
                 if hasattr(entry, 'news_source'): publisher = entry.news_source
                 elif hasattr(entry, 'source') and hasattr(entry.source, 'title'): publisher = entry.source.title
 
-                # Clean Redirects
                 final_link = entry.link
                 if "apiclick.aspx" in final_link:
                     match = re.search(r'[?&]url=([^&]+)', final_link)
                     if match: final_link = unquote(match.group(1))
 
-                # Image Extraction
                 image_url = None
                 try:
                     if hasattr(entry, 'news_image'):
@@ -235,36 +246,38 @@ class IranNewsRadar:
                 text = article_body.get_text(separator=' ').strip()
             else:
                 text = " ".join([p.get_text().strip() for p in soup.find_all('p')])
-            return text[:4500] if len(text) > 100 else fallback_snippet
+            # Reduced to 2500 to prevent AI 400 Error (Bad Request due to context limit)
+            return text[:2500] if len(text) > 100 else fallback_snippet
         except: return fallback_snippet
 
     def analyze_with_ai(self, headline, full_text, source_name):
         if not self.api_key: return None
-        context = full_text if len(full_text) > 100 else headline
         
         is_regime = any(x in source_name.lower() for x in ['tasnim', 'fars', 'irna', 'press', 'mehr'])
         
         regime_instruction = ""
         if is_regime:
             regime_instruction = (
-                "WARNING: The input text is from Iranian State Media (Propaganda). "
-                "You must DEBUNK it in your Persian summary. Identify hidden agendas. "
-                "Do not repeat their claims as facts. "
+                "WARNING: Input is Iranian State Propaganda. DEBUNK it. Identify hidden agendas. "
             )
 
         system_prompt = (
-            "You are a Strategic Analyst for the Iranian Opposition (Pro-Pahlavi/Nationalist). "
+            "You are a Strategic Analyst for the Iranian Opposition (Nationalist). "
             f"{regime_instruction}"
-            "TASK: Analyze the news news via Iran's National Interest.\n"
-            "LANGUAGE RULES (CRITICAL): \n"
-            "1. THE JSON OUTPUT VALUES MUST BE IN PERSIAN (FARSI) ONLY. NO ENGLISH.\n"
-            "2. If the input is English, TRANSLATE your analysis to Persian.\n"
-            "3. 'tag' must be one Persian word.\n"
-            "OUTPUT FORMAT JSON: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}."
+            "Analyze via Iran's National Interest. "
+            "LANG: PERSIAN ONLY. "
+            "OUTPUT JSON: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}."
         )
+
+        current_text = full_text
 
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
+                # Fallback Logic: If error 400, cut text drastically for next attempt
+                if attempt > 0:
+                    logger.warning(f"Retrying AI with shortened text (Attempt {attempt+1})")
+                    current_text = headline + " " + full_text[:500]
+
                 resp = self.scraper.post(
                     "https://gen.pollinations.ai/v1/chat/completions",
                     headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
@@ -272,10 +285,10 @@ class IranNewsRadar:
                         "model": "openai",
                         "messages": [
                             {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": f"HEADLINE: {headline}\nSOURCE: {source_name}\nTEXT: {context}"}
+                            {"role": "user", "content": f"HEADLINE: {headline}\nSOURCE: {source_name}\nTEXT: {current_text}"}
                         ],
                         "temperature": 0.3
-                    }, timeout=30
+                    }, timeout=40
                 )
                 
                 if resp.status_code == 200:
@@ -284,14 +297,17 @@ class IranNewsRadar:
                     data = json.loads(clean)
                     
                     if not data.get('title_fa') or not data.get('summary'):
-                        raise ValueError("Empty fields in AI response")
+                        raise ValueError("Empty fields")
                         
                     return data
+                elif resp.status_code == 400:
+                    logger.warning("AI Error 400 (Bad Request) - Text likely too long.")
+                    # Loop will continue and shorten text
                 else:
                     logger.warning(f"AI Error Status: {resp.status_code}")
                     
             except Exception as e:
-                logger.warning(f"AI Attempt {attempt+1} failed: {e}")
+                logger.warning(f"AI Fail: {e}")
                 time.sleep(2)
 
         return None
@@ -299,27 +315,24 @@ class IranNewsRadar:
     def process_item(self, entry):
         raw_title = entry.get('title', '').rsplit(' - ', 1)[0]
         publisher = entry.get('publisher', {}).get('title', 'Unknown')
-        image_url = entry.get('image')
         
         logger.info(f"Processing: {publisher} | {raw_title[:20]}...")
         
         final_url = self._resolve_final_url(entry.get('url'))
-        if final_url in self.seen_urls: return None
-        if self._normalize_text(raw_title) in self.seen_titles: return None
+        
+        # --- STRICT DUPLICATE CHECK ---
+        if final_url in self.seen_urls: 
+            logger.info("Skipping Duplicate URL")
+            return None
         
         snippet = entry.get('description', raw_title)
         text = self.scrape_article_text(final_url, snippet)
         
         ai = self.analyze_with_ai(raw_title, text, publisher)
-        if not ai: 
-            logger.info("Skipping item due to AI failure.")
-            return None
+        if not ai: return None
         
-        # --- FIX: Safe integer conversion for urgency ---
-        try:
-            urgency_val = int(ai.get('urgency', 3))
-        except (ValueError, TypeError):
-            urgency_val = 3
+        try: urgency_val = int(ai.get('urgency', 3))
+        except: urgency_val = 3
 
         try: ts = parser.parse(entry.get('published date')).timestamp()
         except: ts = time.time()
@@ -330,10 +343,10 @@ class IranNewsRadar:
             "summary": ai.get('summary', [snippet]),
             "impact": ai.get('impact', '...'),
             "tag": ai.get('tag', 'General'),
-            "urgency": urgency_val, # Using safe integer
+            "urgency": urgency_val,
             "source": publisher,
             "url": final_url,
-            "image": image_url,
+            "image": entry.get('image'),
             "timestamp": ts
         }
 
@@ -349,12 +362,10 @@ class IranNewsRadar:
 
         proxies = self.fetch_best_proxies()
         reply_markup = None
-        
         if proxies:
             keyboard = []
             row = []
             names_pool = random.sample(PROXY_NAMES, min(len(proxies), len(PROXY_NAMES)))
-            
             for i, p in enumerate(proxies):
                 proxy_name = names_pool[i]
                 latency = p.get('latency', '?')
@@ -395,9 +406,7 @@ class IranNewsRadar:
             if isinstance(summary_raw, str): summary_raw = [summary_raw]
             safe_summary = "\n".join([f"▪️ {html.escape(str(s))}" for s in summary_raw])
 
-            hidden_image = ""
-            if img_link:
-                hidden_image = f"<a href='{img_link}'>&#8205;</a>"
+            hidden_image = f"<a href='{img_link}'>&#8205;</a>" if img_link else ""
 
             item_html = (
                 f"{icon} {hidden_image}<b><a href='{url}'>{html.escape(title)}</a></b>\n"
@@ -434,12 +443,23 @@ class IranNewsRadar:
         results = self.get_combined_news()
         
         unique_batch_results = []
-        seen_batch = set()
+        seen_batch_titles = set()
+        
         for item in results:
             t = item.get('title', '').rsplit(' - ', 1)[0]
+            
+            # --- PRE-CHECK: If we have seen this Title OR URL in history, skip immediately ---
+            norm_t = self._normalize_text(t)
+            if norm_t in self.seen_titles: continue
+            if item.get('url') in self.seen_urls: continue
+            
+            # Also check against current batch
+            if norm_t in seen_batch_titles: continue
+            
+            # Fuzzy check against history
             if self._is_duplicate_fuzzy(t, self.existing_news): continue
-            if t in seen_batch: continue
-            seen_batch.add(t)
+
+            seen_batch_titles.add(norm_t)
             unique_batch_results.append(item)
 
         logger.info(f"Total Fetched: {len(results)} | Unique New: {len(unique_batch_results)}")
@@ -451,24 +471,35 @@ class IranNewsRadar:
                 res = fut.result()
                 if res:
                     new_items.append(res)
+                    # Add to 'seen' immediately to be safe
                     self.seen_titles.add(self._normalize_text(res['title_en']))
                     self.seen_urls.add(res['url'])
-                    self.existing_news.append(res)
 
         if new_items:
-            # Sort is now safe because 'urgency' is guaranteed int
+            # --- CRITICAL FIX: Update and Save DB BEFORE Sending to Telegram ---
+            # This prevents the "Spam Loop" if Telegram succeeds but Script Crashes later.
+            
+            # 1. Update Master List
+            self.existing_news.extend(new_items)
+            
+            # 2. Sort by time
+            self.existing_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+            
+            # 3. Trim to keep file size manageable (last 150 items)
+            self.existing_news = self.existing_news[:150]
+            
+            # 4. SAVE TO DISK NOW
+            try:
+                with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
+                    json.dump(self.existing_news, f, indent=4, ensure_ascii=False)
+                logger.info(">>> Database Saved (Pre-Send).")
+            except Exception as e:
+                logger.error(f"Failed to save DB: {e}")
+
+            # 5. NOW Send to Telegram
             new_items.sort(key=lambda x: x.get('urgency', 0), reverse=True)
             self.send_digest_to_telegram(new_items)
             
-            all_news = self._load_existing_news()
-            existing_urls_file = {x.get('url') for x in all_news}
-            for ni in new_items:
-                if ni['url'] not in existing_urls_file:
-                    all_news.append(ni)
-            
-            all_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-            with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
-                json.dump(all_news[:100], f, indent=4, ensure_ascii=False)
             logger.info(">>> Done.")
         else:
             logger.info(">>> No unique news.")
