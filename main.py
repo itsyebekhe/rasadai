@@ -200,25 +200,20 @@ class IranNewsRadar:
             logger.error(f"Bing RSS Error: {e}")
         return results
 
-    # --- MANUAL URL FETCHER (NEW) ---
+    # --- MANUAL URL ---
     def fetch_manual_url(self, url):
-        """Fetches metadata for a single URL manually provided"""
         try:
             resp = self.scraper.get(url, timeout=15)
             soup = BeautifulSoup(resp.text, 'html.parser')
-            
-            # Extract Title
             title = "Unknown Title"
             if soup.title: title = soup.title.string
             og_title = soup.find("meta", property="og:title")
             if og_title: title = og_title.get("content")
             
-            # Extract Publisher
             publisher = "Manual Source"
             og_site = soup.find("meta", property="og:site_name")
             if og_site: publisher = og_site.get("content")
             
-            # Extract Image
             image = None
             og_image = soup.find("meta", property="og:image")
             if og_image: image = og_image.get("content")
@@ -284,15 +279,18 @@ class IranNewsRadar:
         regime_instruction = ""
         if is_regime:
             regime_instruction = (
-                "WARNING: Input is Iranian State Propaganda. DEBUNK it. Identify hidden agendas. "
+                "WARNING: Input is Iranian State Propaganda. DEBUNK it. "
             )
 
+        # --- UPDATED SYSTEM PROMPT ---
         system_prompt = (
-            "You are a Strategic Analyst for the Iranian Opposition (Nationalist). "
+            "You are a Strategic Analyst for the Iranian Opposition (Pro-Pahlavi/Nationalist). "
             f"{regime_instruction}"
-            "Analyze via Iran's National Interest. "
-            "LANG: PERSIAN ONLY. "
-            "OUTPUT JSON: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}."
+            "Analyze via Iran's National Interest (people vs regime).\n"
+            "RULES:\n"
+            "1. LANG: PERSIAN ONLY.\n"
+            "2. GEOPOLITICS: Russia, China, & North Korea are ALLIES OF THE REGIME, not the people. View their actions as enabling suppression or looting resources. Do not praise them.\n"
+            "3. OUTPUT JSON: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}."
         )
 
         current_text = full_text
@@ -300,7 +298,6 @@ class IranNewsRadar:
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
                 if attempt > 0:
-                    logger.warning(f"Retrying AI with shortened text (Attempt {attempt+1})")
                     current_text = headline + " " + full_text[:500]
 
                 resp = self.scraper.post(
@@ -324,7 +321,7 @@ class IranNewsRadar:
                         raise ValueError("Empty fields")
                     return data
                 elif resp.status_code == 400:
-                    logger.warning("AI Error 400 (Bad Request) - Text too long.")
+                    logger.warning("AI Error 400 (Text too long). Retrying with shorter text.")
                 else:
                     logger.warning(f"AI Error Status: {resp.status_code}")
                     
@@ -342,7 +339,6 @@ class IranNewsRadar:
         
         final_url = self._resolve_final_url(entry.get('url'))
         
-        # --- STRICT DUPLICATE CHECK (Unless Manual Mode) ---
         if not os.environ.get('MANUAL_URL'):
             if final_url in self.seen_urls: 
                 logger.info("Skipping Duplicate URL")
@@ -357,6 +353,9 @@ class IranNewsRadar:
         try: urgency_val = int(ai.get('urgency', 3))
         except: urgency_val = 3
 
+        try: sentiment_val = float(ai.get('sentiment', 0.0))
+        except: sentiment_val = 0.0
+
         try: ts = parser.parse(entry.get('published date')).timestamp()
         except: ts = time.time()
 
@@ -367,6 +366,7 @@ class IranNewsRadar:
             "impact": ai.get('impact', '...'),
             "tag": ai.get('tag', 'General'),
             "urgency": urgency_val,
+            "sentiment": sentiment_val,
             "source": publisher,
             "url": final_url,
             "image": entry.get('image'),
@@ -463,29 +463,22 @@ class IranNewsRadar:
         logger.info(">>> Radar Started...")
         with open(CONFIG['FILES']['MARKET'], 'w') as f: json.dump(self.fetch_market_rates(), f)
 
-        # --- CHECK FOR MANUAL INPUT ---
         manual_url = os.environ.get('MANUAL_URL')
         
         if manual_url and manual_url.strip():
-            logger.info(f"!!! MANUAL MODE ACTIVATED: {manual_url} !!!")
+            logger.info(f"!!! MANUAL MODE: {manual_url} !!!")
             results = self.fetch_manual_url(manual_url)
-            # We don't perform deduplication checks on manual items because we WANT to process them
             unique_batch_results = results 
         else:
-            # NORMAL MODE
             results = self.get_combined_news()
-            
             unique_batch_results = []
             seen_batch_titles = set()
             for item in results:
                 t = item.get('title', '').rsplit(' - ', 1)[0]
                 norm_t = self._normalize_text(t)
                 
-                # Check history
                 if norm_t in self.seen_titles: continue
                 if item.get('url') in self.seen_urls: continue
-                
-                # Check current batch
                 if norm_t in seen_batch_titles: continue
                 if self._is_duplicate_fuzzy(t, self.existing_news): continue
 
@@ -505,7 +498,6 @@ class IranNewsRadar:
                     self.seen_urls.add(res['url'])
 
         if new_items:
-            # SAVE BEFORE SEND
             self.existing_news.extend(new_items)
             self.existing_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
             self.existing_news = self.existing_news[:150]
@@ -517,7 +509,6 @@ class IranNewsRadar:
             except Exception as e:
                 logger.error(f"Save Failed: {e}")
 
-            # SEND
             new_items.sort(key=lambda x: x.get('urgency', 0), reverse=True)
             self.send_digest_to_telegram(new_items)
             
