@@ -53,7 +53,6 @@ class IranNewsRadar:
         self.api_key = CONFIG['POLLINATIONS_KEY']
         self.existing_news = self._load_existing_news()
         
-        # Build deduplication sets
         self.seen_urls = set()
         self.seen_titles = set()
         
@@ -77,24 +76,17 @@ class IranNewsRadar:
         return words - stop_words
 
     def _is_duplicate_fuzzy(self, new_title, comparison_pool):
-        # 1. Check Exact Title Match first (Faster)
         norm_title = self._normalize_text(new_title)
-        if norm_title in self.seen_titles:
-            return True
-
-        # 2. Fuzzy Token Match
+        if norm_title in self.seen_titles: return True
         new_tokens = self._get_tokens(new_title)
         if not new_tokens: return False
-
         for item in comparison_pool:
             existing_title = item.get('title', item.get('title_en', ''))
             existing_tokens = self._get_tokens(existing_title)
             if not existing_tokens: continue
-
             intersection = new_tokens.intersection(existing_tokens)
             union = new_tokens.union(existing_tokens)
             if not union: continue
-            
             similarity = len(intersection) / len(union)
             if similarity > 0.35 or len(intersection) >= 4:
                 return True
@@ -208,6 +200,41 @@ class IranNewsRadar:
             logger.error(f"Bing RSS Error: {e}")
         return results
 
+    # --- MANUAL URL FETCHER (NEW) ---
+    def fetch_manual_url(self, url):
+        """Fetches metadata for a single URL manually provided"""
+        try:
+            resp = self.scraper.get(url, timeout=15)
+            soup = BeautifulSoup(resp.text, 'html.parser')
+            
+            # Extract Title
+            title = "Unknown Title"
+            if soup.title: title = soup.title.string
+            og_title = soup.find("meta", property="og:title")
+            if og_title: title = og_title.get("content")
+            
+            # Extract Publisher
+            publisher = "Manual Source"
+            og_site = soup.find("meta", property="og:site_name")
+            if og_site: publisher = og_site.get("content")
+            
+            # Extract Image
+            image = None
+            og_image = soup.find("meta", property="og:image")
+            if og_image: image = og_image.get("content")
+
+            return [{
+                'title': title,
+                'url': url,
+                'publisher': {'title': publisher},
+                'published date': datetime.now(timezone.utc).isoformat(),
+                'description': "Manual Submission",
+                'image': image
+            }]
+        except Exception as e:
+            logger.error(f"Manual Fetch Error: {e}")
+            return []
+
     def get_combined_news(self):
         all_entries = []
         all_entries.extend(self.fetch_gnews())
@@ -246,7 +273,6 @@ class IranNewsRadar:
                 text = article_body.get_text(separator=' ').strip()
             else:
                 text = " ".join([p.get_text().strip() for p in soup.find_all('p')])
-            # Reduced to 2500 to prevent AI 400 Error (Bad Request due to context limit)
             return text[:2500] if len(text) > 100 else fallback_snippet
         except: return fallback_snippet
 
@@ -273,7 +299,6 @@ class IranNewsRadar:
 
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
-                # Fallback Logic: If error 400, cut text drastically for next attempt
                 if attempt > 0:
                     logger.warning(f"Retrying AI with shortened text (Attempt {attempt+1})")
                     current_text = headline + " " + full_text[:500]
@@ -295,14 +320,11 @@ class IranNewsRadar:
                     raw_content = resp.json()['choices'][0]['message']['content']
                     clean = raw_content.replace('```json','').replace('```','').strip()
                     data = json.loads(clean)
-                    
                     if not data.get('title_fa') or not data.get('summary'):
                         raise ValueError("Empty fields")
-                        
                     return data
                 elif resp.status_code == 400:
-                    logger.warning("AI Error 400 (Bad Request) - Text likely too long.")
-                    # Loop will continue and shorten text
+                    logger.warning("AI Error 400 (Bad Request) - Text too long.")
                 else:
                     logger.warning(f"AI Error Status: {resp.status_code}")
                     
@@ -320,10 +342,11 @@ class IranNewsRadar:
         
         final_url = self._resolve_final_url(entry.get('url'))
         
-        # --- STRICT DUPLICATE CHECK ---
-        if final_url in self.seen_urls: 
-            logger.info("Skipping Duplicate URL")
-            return None
+        # --- STRICT DUPLICATE CHECK (Unless Manual Mode) ---
+        if not os.environ.get('MANUAL_URL'):
+            if final_url in self.seen_urls: 
+                logger.info("Skipping Duplicate URL")
+                return None
         
         snippet = entry.get('description', raw_title)
         text = self.scrape_article_text(final_url, snippet)
@@ -440,29 +463,36 @@ class IranNewsRadar:
         logger.info(">>> Radar Started...")
         with open(CONFIG['FILES']['MARKET'], 'w') as f: json.dump(self.fetch_market_rates(), f)
 
-        results = self.get_combined_news()
+        # --- CHECK FOR MANUAL INPUT ---
+        manual_url = os.environ.get('MANUAL_URL')
         
-        unique_batch_results = []
-        seen_batch_titles = set()
-        
-        for item in results:
-            t = item.get('title', '').rsplit(' - ', 1)[0]
+        if manual_url and manual_url.strip():
+            logger.info(f"!!! MANUAL MODE ACTIVATED: {manual_url} !!!")
+            results = self.fetch_manual_url(manual_url)
+            # We don't perform deduplication checks on manual items because we WANT to process them
+            unique_batch_results = results 
+        else:
+            # NORMAL MODE
+            results = self.get_combined_news()
             
-            # --- PRE-CHECK: If we have seen this Title OR URL in history, skip immediately ---
-            norm_t = self._normalize_text(t)
-            if norm_t in self.seen_titles: continue
-            if item.get('url') in self.seen_urls: continue
-            
-            # Also check against current batch
-            if norm_t in seen_batch_titles: continue
-            
-            # Fuzzy check against history
-            if self._is_duplicate_fuzzy(t, self.existing_news): continue
+            unique_batch_results = []
+            seen_batch_titles = set()
+            for item in results:
+                t = item.get('title', '').rsplit(' - ', 1)[0]
+                norm_t = self._normalize_text(t)
+                
+                # Check history
+                if norm_t in self.seen_titles: continue
+                if item.get('url') in self.seen_urls: continue
+                
+                # Check current batch
+                if norm_t in seen_batch_titles: continue
+                if self._is_duplicate_fuzzy(t, self.existing_news): continue
 
-            seen_batch_titles.add(norm_t)
-            unique_batch_results.append(item)
+                seen_batch_titles.add(norm_t)
+                unique_batch_results.append(item)
 
-        logger.info(f"Total Fetched: {len(results)} | Unique New: {len(unique_batch_results)}")
+        logger.info(f"Total Fetched: {len(results)} | To Process: {len(unique_batch_results)}")
 
         new_items = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIG['MAX_WORKERS']) as exc:
@@ -471,32 +501,23 @@ class IranNewsRadar:
                 res = fut.result()
                 if res:
                     new_items.append(res)
-                    # Add to 'seen' immediately to be safe
                     self.seen_titles.add(self._normalize_text(res['title_en']))
                     self.seen_urls.add(res['url'])
 
         if new_items:
-            # --- CRITICAL FIX: Update and Save DB BEFORE Sending to Telegram ---
-            # This prevents the "Spam Loop" if Telegram succeeds but Script Crashes later.
-            
-            # 1. Update Master List
+            # SAVE BEFORE SEND
             self.existing_news.extend(new_items)
-            
-            # 2. Sort by time
             self.existing_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-            
-            # 3. Trim to keep file size manageable (last 150 items)
             self.existing_news = self.existing_news[:150]
             
-            # 4. SAVE TO DISK NOW
             try:
                 with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
                     json.dump(self.existing_news, f, indent=4, ensure_ascii=False)
-                logger.info(">>> Database Saved (Pre-Send).")
+                logger.info(">>> DB Saved.")
             except Exception as e:
-                logger.error(f"Failed to save DB: {e}")
+                logger.error(f"Save Failed: {e}")
 
-            # 5. NOW Send to Telegram
+            # SEND
             new_items.sort(key=lambda x: x.get('urgency', 0), reverse=True)
             self.send_digest_to_telegram(new_items)
             
