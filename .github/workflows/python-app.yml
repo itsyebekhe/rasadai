@@ -2,8 +2,13 @@ name: Iran Radar Update
 
 on:
   schedule:
-    - cron: '*/45 * * * *' # Runs every 15 minutes
+    - cron: '*/45 * * * *' # Runs every 45 minutes
   workflow_dispatch:      # Allows manual run
+    inputs:
+      manual_url:
+        description: 'Paste a specific News URL to process (Leave empty for normal mode)'
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -29,8 +34,9 @@ jobs:
         env: 
           POLLINATIONS_API_KEY: ${{ secrets.POLLINATIONS_API_KEY }}
           TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
-          # CHANGED: The key must be TG_CHANNEL_ID to match python os.environ.get
-          TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }} 
+          TG_CHANNEL_ID: ${{ secrets.TG_CHANNEL_ID }}
+          # Pass the manual input to an Environment Variable
+          MANUAL_URL: ${{ inputs.manual_url }}
         run: python main.py
 
       - name: Commit and Push Changes
@@ -38,7 +44,6 @@ jobs:
           git config --global user.name "IranRadarBot"
           git config --global user.email "bot@noreply.github.com"
           
-          # CHANGED: Removed sent_news.txt (we use news.json for history now)
           git add news.json market.json
           
           # Commit only if there are changes
