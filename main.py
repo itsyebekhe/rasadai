@@ -289,7 +289,7 @@ class IranNewsRadar:
             "Analyze via Iran's National Interest (people vs regime).\n"
             "RULES:\n"
             "1. LANG: PERSIAN ONLY.\n"
-            "2. GEOPOLITICS: Russia, China, & North Korea are ALLIES OF THE REGIME, not the people. View their actions as enabling suppression or looting resources. Do not praise them.\n"
+            "2. GEOPOLITICS: Russia, China, & North Korea are ALLIES OF THE REGIME, not the people. View their actions, if mentioned in news source, as enabling suppression or looting resources. Do not praise them.\n"
             "3. OUTPUT JSON: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(1-10), sentiment(-1.0 to 1.0)}."
         )
 
