@@ -1,5 +1,22 @@
 [
     {
+        "title_fa": "گزارش CBS: انتظار می‌رود حاملۀ هواپیمابر دیگری از آمریکا به خاورمیانه اعزام شود",
+        "title_en": "Another U.S. aircraft carrier expected to head to Middle East, officials say",
+        "summary": [
+            "شبکه CBS گزارش داده است که یک ناو هواپیمابر دیگر از نیروی دریایی آمریکا قرار است به منطقه خاورمیانه اعزام شود.",
+            "افزایش حضور دریایی و نظامی آمریکا در منطقه می‌تواند سطح فشار و بازدارندگی را بالا ببرد و باعث تشدید تنش‌های منطقه‌ای شود.",
+            "برای داخل ایران این تحرک بین‌المللی به معنای فشار سیاسی و امنیتی بیشتر بر رژیم است که می‌تواند پایه‌های سلطهٔ فعلی را تضعیف کرده و فضای بیشتری برای حرکت‌های آزادی‌خواهانه مردم فراهم کند."
+        ],
+        "impact": "اعزام این ناو فشار و تنش علیه تهران را افزایش می‌دهد و ممکن است توان سرکوب رژیم را تضعیف و راه را برای پیشروی مردم در مسیر آزادی هموارتر کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": 0.5,
+        "source": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTFhYMVpCeGQtcTQ4cmdGOFhLYURoVVFXYmRBZmhxQVBQTm5LaU9VNXBWRjUyM0x2SXEzZGZLYUhnUVBxcERocC1TNlp2SlBNcm5hWkJ0ZFpGaC1CVGw1MG9vZU9UUmJ6NkpBVVdVX3VFYjR0OGFnaldRWG5fcDBkQlZtRTJWWXZu0gGOAUFVX3lxTFBWSDl6R0cxRkJkalg5ekZvdDZWeWIyOTNNaXZqLTFKTkFLamlVNmNXNzlKVEJHLWEyZm1VSTdzMlJBaV8weXJlZWZ3ZVAtZUpCbGdmZm91Ym9pSHNFUWtXRTFNeWlIVHc5cEVPcElIdUV4MlBEbXU2OWJTR3B4TjNJUXctaU1VWHpFVGdJbmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1770958314.0
+    },
+    {
         "title_fa": "ترامپ قرار است در نشست «Board of Peace» درباره کمک مالی و اعزام نیرو به غزه اعلام کند، مقام‌ها می‌گویند",
         "title_en": "Trump to announce Gaza funding, troops at Board of Peace meeting, officials say",
         "summary": [
@@ -100,6 +117,23 @@
         "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRTlWS01XdHZNV2lPcUk4TXQzeGNNbkl2ek9sRmd5d3V0QTQ5N0xjekpfQlpVeU1Gc1hLQVpWSE1Xd25LalVsTjRrZ1VXNTVHSEJMMXpiQ0xUM0F0Nmc5SUNhU1hROHdFR3BnR29RcEZxdWQ1dTQtTE5ySVd2V2piMW5wOFhYdGlzWmQtRGdn?oc=5&hl=en-US&gl=US&ceid=US:en",
         "image": null,
         "timestamp": 1770930401.0
+    },
+    {
+        "title_fa": "سرکوب در ایران اکنون سیاستمداران داخلی را هدف گرفته است",
+        "title_en": "Iran’s crackdown is now targeting its own politicians",
+        "summary": [
+            "چندین عضو جریان اصلاح‌طلب، از جمله رهبر این جریان، بازداشت شده‌اند.",
+            "این موج بازداشت‌ها صدای میانه‌روها را خاموش می‌کند و ظرفیت تغییر از درون نظام را کاهش می‌دهد.",
+            "اقدام حکومت مشروعیت داخلی را تضعیف کرده و می‌تواند اپوزیسیون را به سمت گسست بیشتر از نظام سوق دهد."
+        ],
+        "impact": "این سرکوب فضای سیاسی را تنگ‌تر کرده و مشروعیت جمهوری اسلامی را بیش از پیش کاهش می‌دهد.",
+        "tag": "سرکوب",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-crackdown-is-now-targeting-its-own-politicians/ar-AA1WfNq5",
+        "image": null,
+        "timestamp": 1770926400.0
     },
     {
         "title_fa": "دونالد ترامپ: ایران باید توافق کند تا از پیامدهای دردناک اجتناب کند",
@@ -2433,39 +2467,5 @@
         "url": "https://johnmenadue.com/post/2026/02/irans-comprehensive-peace-proposal-to-the-united-states/",
         "image": "",
         "timestamp": 1768575004.0
-    },
-    {
-        "title_fa": "ادعاهای تبلیغاتی درباره گسترش همکاری‌های حمل‌ونقل ایران و ازبکستان — چه کسانی سود می‌برند؟",
-        "title_en": "Iran, Uzbekistan transport ministers stress boosting ties",
-        "summary": [
-            "آمار رشد تردد و ادعای «کاهش هزینه تجارت» بدون شفافیت قابل‌اعتناست؛ منافع عمدتاً به جیب شرکت‌های دولتی، پیمانکاران نزدیک به رژیم و واسطه‌های خصوصی می‌رود، نه مصرف‌کننده یا کارگر ایرانی.",
-            "افزایش ناگهانی تردد ناوگان ازبکستان می‌تواند نشان‌دهنده رونق مسیرهای ترانزیت برای دورزدن تحریم‌ها و انتقال منابع به نفع حکومت باشد؛ این درآمدها معمولاً در ساختارهای حکومتی و دولتی متمرکز می‌شود و مردم عادی از آن بهره‌مند نمی‌شوند.",
-            "مذاکرات و تفاهم‌نامه‌ها بدون شفافیت، با قراردادهای بلندمدت و بدون نظارت پارلمانی بسته می‌شوند؛ چنین پروژه‌هایی خطر تداوم فساد، بی‌کیفیت‌سازی زیرساخت‌ها، نقض حقوق کارگران و تقویت توان سرکوب داخلی رژیم را افزایش می‌دهند."
-        ],
-        "impact": "این توافق‌ها در کوتاه‌مدت به رژیم ارز و مسیرهایی برای دورزدن تحریم می‌آورد و قدرت اقتصادیِ نهادهای حکومتی را تقویت می‌کند، اما تاثیر مثبتی بر معیشت مردم، شفافیت یا کاهش قیمت‌ها ندارد.",
-        "tag": "ترانزیت",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Mehr News Agency",
-        "url": "https://en.mehrnews.com/news/241729/Iran-Uzbekistan-transport-ministers-stress-boosting-ties",
-        "image": "https://www.bing.com/th?id=OVFT.c2V2nWUO6Kkw9XBoRiBd9y",
-        "timestamp": 1768236862.0
-    },
-    {
-        "title_fa": "درک بن‌بست هسته‌ای آمریکا و ایران: دیپلماسی، تهدیدها و منافع منطقه‌ای",
-        "title_en": "Understanding the US-Iran nuclear standoff: Diplomacy, threats and regional stakes",
-        "summary": [
-            "منبع: Moneycontrol و تیتر بالا؛ اما متن مقاله در لینک‌های ارائه‌شده در دسترس نیست و پیوندها خطا می‌دهند.",
-            "براساس تیتر، موضوع حول دیپلماسی، تهدیدها و منافع منطقه‌ای مرتبط با بن‌بست هسته‌ای آمریکا-ایران است؛ با این حال جزئیات مشخص مقاله قابل بررسی نیست.",
-            "به‌طور کلی، مواجهه و فشار دیپلماتیک-امنیتی با آمریکا می‌تواند قدرت رژیم را تضعیف کند و فضای سیاسی را برای مقاومت و مطالبات مردم ایران بازتر سازد."
-        ],
-        "impact": "حتی بدون دسترسی به متن، تنش هسته‌ای با آمریکا یک عامل مهم است که می‌تواند به تضعیف رژیم و تقویت مسیر آزادی‌خواهانه مردم کمک کند.",
-        "tag": "آمریکا",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/understanding-the-us-iran-nuclear-standoff-diplomacy-threats-and-regional-stakes-article-13826317.html",
-        "image": "https://www.bing.com/th?id=OVFT.Ip4rlQSBX8jS_wOuyFA6ey",
-        "timestamp": 1768082567.0
     }
 ]
