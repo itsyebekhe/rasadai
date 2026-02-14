@@ -1,5 +1,22 @@
 [
     {
+        "title_fa": "ازسرگیری مذاکرات آمریکا و ایران در ژنو در حالی که تنش‌ها ادامه دارد",
+        "title_en": "US-Iran talks to resume in Geneva as tensions simmer",
+        "summary": [
+            "مذاکرات میان آمریکا و ایران در ژنو از سر گرفته می‌شود؛ اقدامی دیپلماتیک در بحبوحه تنش‌های مستمر بین دو طرف.",
+            "از سرگیری گفت‌وگوها می‌تواند از تشدید نظامی فوری جلوگیری کند، اما همزمان رژیم تهران را در معرض فشارها و مذاکرات بین‌المللی بیشتری قرار می‌دهد.",
+            "برای اپوزیسیون و مردم ایران، هر روند دیپلماتیکی که مانع از تشدید سرکوب یا جنگ شود می‌تواند فضایی برای افزایش فشار بر رژیم و پیشبرد مطالبات آزادی فراهم کند."
+        ],
+        "impact": "این مذاکرات می‌توانند ابزار فشار بین‌المللی را تقویت کنند و به تضعیف دیرپای کنترل رژیم و تقویت مسیر مردم برای تغییر کمک کنند.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.4,
+        "source": "Ynetnews",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyUVEtaHpwc0tmNGxQZDJyR0t5RUhDLVZISFM3SGY4MEswQkpZZmFpclZ5V3loSW96RzN6OGNIMWg0dTBXLTc1WVp4dlVIbUg0TDQzYTR3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771095006.0
+    },
+    {
         "title_fa": "حزب‌الله: ایران مانع تحقق طرح «اسرائیل بزرگ» است",
         "title_en": "Iran main barrier to materialization of 'Greater Israel' plot",
         "summary": [
@@ -15,6 +32,23 @@
         "url": "https://en.mehrnews.com/news/241796/Iran-main-barrier-to-materialization-of-Greater-Israel-plot",
         "image": "https://media.mehrnews.com/d/2026/02/14/4/5904962.jpg?ts=1771092734182",
         "timestamp": 1771093980.0
+    },
+    {
+        "title_fa": "روبیو تهدید ایران، پیوندهای فراآتلانتیک و اولویت‌های امنیتی جهانی را در مونیخ برجسته کرد",
+        "title_en": "Rubio Highlights Iran Threat, Transatlantic Ties, and Global Security Priorities in Munich",
+        "summary": [
+            "سناتور مارکو روبیو در مونیخ بر «تهدید ایران» تأکید کرد و خواستار تقویت پیوندهای فراآتلانتیک برای مقابله با این تهدید شد.",
+            "او اولویت‌های امنیتی جهانی را مطرح کرد و بر نیاز به هماهنگی سیاسی و امنیتی میان آمریکا و متحدان اروپایی برای پاسخ به اقدامات منطقه‌ای ایران تأکید نمود.",
+            "اظهارات روبیو می‌تواند مسیر سیاست‌های سخت‌تر و فشار بین‌المللی علیه رژیم تهران را تقویت کند و پیام حمایت غرب از اقدامات بازدارنده را ارسال نماید."
+        ],
+        "impact": "این نوع موضع‌گیری‌های غربی توانایی رژیم در تداوم سیاست‌های منطقه‌ای و داخلی را تضعیف کرده و فضای امید برای تحول داخلی را تقویت می‌کند.",
+        "tag": "تهدید",
+        "urgency": 4,
+        "sentiment": 0.6,
+        "source": "kurdistan24.net",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSGhwZ1RpTTNxcjNwcmhLalF1cHVGSjNRU3lWU1JIeTlRZkFqMU9JT3pNb2VlcTRUZG84aEV5eW9abGRFWmEyU1psWW9kSGpnUXJ0Z1plbWwzVWE5MWpkMzNfTmU0QVBCQnJFa191QjVuTk01aHBESmlvRmNBSms2ajBZcWdxT09FdHRWWXhFRnFRRlFZQVp6MFNEMkNrMU52NEt1c3R1ZmJwbmg2bHVLQlM2WEhtN1hkVDVHd21xcDJCQjdBcnFrWEdqcEQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "image": null,
+        "timestamp": 1771093933.0
     },
     {
         "title_fa": "وزیر خارجه ایران: اروپا در مذاکرات هسته‌ای جای خود را به «دوستان مؤثر» منطقه‌ای تهران داده است",
@@ -3293,39 +3327,5 @@
         "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPd2NTOS1FWEEtenluRzRBRDM5UFJTaVhicmRYTU9VZTFmZnVEV2x2WmVjN3ZwNXZvQmo2Z0NBNXRvSTZkODdHWHVGb3hZbzBDNWJUcTlocTdlYXZ6a0JuZGF3UnBabXN2Vm5qUy1hcHhweEZUOEctQmFDNDlTUUFtUFZMQmFpd3J2emhRVDBMS05hNXM0NG5ha2NPYjFFdWdYVk9nN3FDSV9ESGd4Mm54b3daRmdRaUszZHBULWNrdXRjME9TZXR3aFNHR1l0bU9hT3FLZ0V3UUY5bFM5NEd4czJSbkFmRUdLMnl0d0dTbFM3Tk1lLTAzYVhSaXUxaU93aEp5M1dwbjFldnM?oc=5&hl=en-US&gl=US&ceid=US:en",
         "date": "Wed, 11 Feb 2026 08:03:42 GMT",
         "timestamp": 1770797022.0
-    },
-    {
-        "title_fa": "در حالی که مذاکرات هسته‌ای با ایران به نقطهٔ بحرانی رسیده است، نتانیاهو با ترامپ دیدار می‌کند",
-        "title_en": "As Iran Nuclear Talks Hit Critical Point, Netanyahu to Meet Trump",
-        "summary": [
-            "مذاکرات هسته‌ای ایران وارد مرحلهٔ حساسی شده و تصمیمات آتی می‌تواند سرنوشت توافق را تعیین کند.",
-            "بنیامین نتانیاهو با دونالد ترامپ دیدار می‌کند؛ دیداری که ممکن است سیاست آمریکا نسبت به تهران و رویکرد فشار یا تعامل را تحت‌تأثیر قرار دهد.",
-            "این دیدار می‌تواند بر مسیر مذاکرات، فشارهای دیپلماتیک و اقتصادی و ریسک تنش‌های منطقه‌ای اثر بگذارد."
-        ],
-        "impact": "ملاقات نتانیاهو و ترامپ می‌تواند معادلات مذاکرات هسته‌ای و سیاست‌های واشنگتن نسبت به ایران را تغییر داده و احتمال حصول توافق یا تشدید تنش را تعیین کند.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Caspian Post",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNanVWYnRoeU52UGF4Y1lOZFFTT2tuWnpNXzg2WTUxaktwc0xhMXYyQVRHY0ZFVDZ1MkdsOFVpWWh2bGdheDRUQUd2cHFYTWRwY2puWjR4aHo4QjRHRHVILVB4NnFtOUgzeVFGLV9mQ1RiOFpFX0xuaE1NRUVWWnpHVmZXS1VYd21CcWRVZ18wVE56MWZ1amcyaFBySGIzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "date": "Wed, 11 Feb 2026 07:46:00 GMT",
-        "timestamp": 1770795960.0
-    },
-    {
-        "title_fa": "مسأله هسته‌ای ایران در واقع مسأله جانشینی است",
-        "title_en": "Iran’s nuclear problem is really a succession problem",
-        "summary": [
-            "مقاله می‌گوید که بحث عمومی درباره ایران اغلب به دو گزینه «توافق» یا «حمله نظامی» تقلیل یافته و این قاب‌بندی غلط است.",
-            "نویسنده استدلال می‌کند که مشکل اصلی، بحران جانشینی و بی‌ثباتی داخلی رژیم است که تصمیم‌گیری‌های هسته‌ای و راهبردی را شکل می‌دهد.",
-            "از منظر مخالف ملی‌گرای پادشاهی‌خواه، تمرکز بر بحران جانشینی به‌عنوان نقطه ضعف رژیم، فرصتی است تا فشارهای خارجی و خیزش‌های داخلی را هم‌راستا کرد و راه را برای آزادی مردم هموار ساخت."
-        ],
-        "impact": "تأکید بر بحران جانشینی رژیم، عاملی است که ارکان قدرت تهران را تضعیف و مسیر دستیابی مردم به آزادی را تقویت می‌کند.",
-        "tag": "جانشینی",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "Israel National News",
-        "url": "https://www.israelnationalnews.com/news/422373",
-        "image": "https://www.bing.com/th?id=OVFT.NAFZQrDzH5leZxazGv3lBS",
-        "timestamp": 1770795516.0
     }
 ]
