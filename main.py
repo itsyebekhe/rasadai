@@ -8,7 +8,7 @@ import re
 import random
 import concurrent.futures
 import feedparser
-from urllib.parse import quote, unquote
+from urllib.parse import quote, unquote, urlparse, urlunparse
 from datetime import datetime, timedelta, timezone
 from bs4 import BeautifulSoup
 from gnews import GNews
@@ -35,8 +35,9 @@ CONFIG = {
     'MAX_WORKERS': 4,
     'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY'),
     'AI_RETRIES': 3,
-    # New Config: Minimum urgency score required to send to Telegram (1-10)
-    'MIN_TELEGRAM_URGENCY': 7 
+    'MIN_TELEGRAM_URGENCY': 7,
+    'MAX_NEWS_AGE_HOURS': 24, # Drop news older than this
+    'HISTORY_SIZE': 300       # Keep last 300 items in history
 }
 
 PROXY_NAMES = [
@@ -58,20 +59,34 @@ class IranNewsRadar:
         self.seen_urls = set()
         self.seen_titles = set()
         
+        # Populate history sets
         for item in self.existing_news:
             if item.get('url'):
-                self.seen_urls.add(item['url'])
+                self.seen_urls.add(self._clean_url(item['url']))
             if item.get('title_en'):
                 self.seen_titles.add(self._normalize_text(item['title_en']))
+            if item.get('title_fa'):
+                self.seen_titles.add(self._normalize_text(item['title_fa']))
         
-        self.gnews_en = GNews(language='en', country='US', period='1h', max_results=5)
+        self.gnews_en = GNews(language='en', country='US', period='4h', max_results=5)
+
+    def _clean_url(self, url):
+        """Removes query parameters to prevent duplicates based on ?utm_source etc."""
+        if not url: return ""
+        try:
+            parsed = urlparse(url)
+            # Rebuild url without query params
+            clean = urlunparse((parsed.scheme, parsed.netloc, parsed.path, '', '', ''))
+            return clean.rstrip('/')
+        except:
+            return url
 
     def _normalize_text(self, text):
         if not text: return ""
         return re.sub(r'\W+', '', text).lower()
 
     def _get_tokens(self, text):
-        stop_words = {'a', 'an', 'the', 'and', 'or', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'is', 'are', 'was', 'news', 'report'}
+        stop_words = {'a', 'an', 'the', 'and', 'or', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'is', 'are', 'was', 'news', 'report', 'breaking'}
         if not text: return set()
         clean = re.sub(r'[^\w\s]', '', text.lower())
         words = set(clean.split())
@@ -80,17 +95,24 @@ class IranNewsRadar:
     def _is_duplicate_fuzzy(self, new_title, comparison_pool):
         norm_title = self._normalize_text(new_title)
         if norm_title in self.seen_titles: return True
+        
         new_tokens = self._get_tokens(new_title)
-        if not new_tokens: return False
+        if len(new_tokens) < 3: return False # Too short to judge
+
         for item in comparison_pool:
-            existing_title = item.get('title', item.get('title_en', ''))
+            existing_title = item.get('title_en', item.get('title', ''))
             existing_tokens = self._get_tokens(existing_title)
+            
             if not existing_tokens: continue
+            
             intersection = new_tokens.intersection(existing_tokens)
             union = new_tokens.union(existing_tokens)
+            
             if not union: continue
             similarity = len(intersection) / len(union)
-            if similarity > 0.35 or len(intersection) >= 4:
+            
+            # If 50% similar words, it's a duplicate
+            if similarity > 0.5:
                 return True
         return False
 
@@ -146,6 +168,7 @@ class IranNewsRadar:
         results = []
         try:
             ddgs = DDGS()
+            # Changed timelimit to 'd' (day)
             ddg_gen = ddgs.news(query=query, region=region, safesearch="off", timelimit="d", max_results=10)
             for r in ddg_gen:
                 results.append({
@@ -181,10 +204,8 @@ class IranNewsRadar:
                 try:
                     if hasattr(entry, 'news_image'):
                         raw_url = entry.news_image
-                        width = getattr(entry, 'news_imagemaxwidth', '700')
-                        height = getattr(entry, 'news_imagemaxheight', '400')
                         if '{0}' in raw_url:
-                            image_url = raw_url.replace('{0}', str(width)).replace('{1}', str(height))
+                            image_url = raw_url.replace('{0}', '700').replace('{1}', '400')
                         else:
                             image_url = raw_url
                 except Exception:
@@ -237,12 +258,12 @@ class IranNewsRadar:
         all_entries.extend(self.fetch_gnews())
         all_entries.extend(self.fetch_bing_rss(CONFIG['SEARCH_QUERY']))
         all_entries.extend(self.fetch_duckduckgo(CONFIG['SEARCH_QUERY'], region='wt-wt'))
-        all_entries.extend(self.fetch_duckduckgo("ایران AND (آمریکا OR اسرائیل OR دلار OR جنگ)", region='ir-ir'))
-
-        for domain in CONFIG['TARGET_SOURCES']:
+        
+        # Reduced external sites to prevent timeout, focus on quality
+        for domain in CONFIG['TARGET_SOURCES'][:5]: 
             try:
                 query = f"site:{domain} Iran"
-                if any(x in domain for x in ['tasnim', 'fars', 'irna', 'bbc.com/persian', 'radiofarda']):
+                if any(x in domain for x in ['tasnim', 'fars', 'irna', 'bbc.com', 'radiofarda']):
                     query = f"site:{domain} ایران"
                 site_res = self.fetch_duckduckgo(query, region='wt-wt')
                 all_entries.extend(site_res)
@@ -264,13 +285,15 @@ class IranNewsRadar:
             if final_url.lower().endswith('.pdf'): return fallback_snippet
             resp = self.scraper.get(final_url, timeout=15)
             soup = BeautifulSoup(resp.text, 'html.parser')
-            for tag in soup(["script", "style", "nav", "footer", "header", "form"]): tag.extract()
-            article_body = soup.find('div', class_=re.compile(r'(article|story|body|content)'))
+            for tag in soup(["script", "style", "nav", "footer", "header", "form", "iframe"]): tag.extract()
+            article_body = soup.find('div', class_=re.compile(r'(article|story|body|content|entry)'))
             if article_body:
                 text = article_body.get_text(separator=' ').strip()
             else:
                 text = " ".join([p.get_text().strip() for p in soup.find_all('p')])
-            return text[:2500] if len(text) > 100 else fallback_snippet
+            
+            clean_text = re.sub(r'\s+', ' ', text)
+            return clean_text[:2500] if len(clean_text) > 100 else fallback_snippet
         except: return fallback_snippet
 
     def analyze_with_ai(self, headline, full_text, source_name):
@@ -280,37 +303,28 @@ class IranNewsRadar:
         
         regime_instruction = ""
         if is_regime:
-            regime_instruction = (
-                "CRITICAL: The source is Iranian State Media. Use your analysis to expose propaganda or hidden facts. "
-            )
+            regime_instruction = "CRITICAL: The source is Iranian State Media. Expose propaganda. "
 
-        # --- MODULAR & CONDITIONAL SYSTEM PROMPT ---
         system_prompt = (
-            "You are a Strategic Analyst for the Iranian Nationalist Pro-Pahlavi Opposition. Analyze news with realism.\n\n"
+            "You are a Strategic Analyst for the Iranian Nationalist Opposition. Analyze news with realism.\n\n"
             f"{regime_instruction}"
             "STRICT GUIDELINES FOR URGENCY SCORE (1-10):\n"
-            "- Score 9-10: Immediate physical danger, War/Direct Conflict with Israel/USA, Major nationwide protests, death of top officials.\n"
-            "- Score 7-8: Significant Sanctions, New repressive laws, Major currency collapse, Confirmed strikes on proxies.\n"
-            "- Score 1-6: Standard political statements, Economic data, Opinion pieces, Routine diplomatic meetings.\n\n"
+            "- 9-10: Immediate War, Major Protests, Death of Leader.\n"
+            "- 7-8: New Sanctions, Currency Collapse, Proxy Strikes.\n"
+            "- 1-6: Standard politics, Routine news, Opinions.\n\n"
             "INSTRUCTIONS:\n"
-            "1. TOPIC-SPECIFIC LOGIC:\n"
-            "   - IF the news is about SANCTIONS or CONFLICT with Israel/USA: Frame it as a factor that weakens the regime's grip on power and supports the people's path to freedom.\n"
-            "   - IF the news mentions RUSSIA, CHINA, or NORTH KOREA: Treat them as the regime's partners in suppression. Do NOT mention them if they are not in the news article.\n"
-            "   - IF the news is about INTERNAL PROTESTS/ECONOMY: Focus on the regime's failure and the people's resilience.\n"
-            "2. REALISM & RELEVANCE: Stay grounded in the facts of the article. Do NOT create forced or imaginary connections. "
-            "Example: Do not link a foreign soldier's personal bet to internal Iranian suppression unless the text provides a direct military link.\n"
-            "3. NO GENERIC REPETITION: Do not include a standard political lecture. If the news is about a specific event, the summary must be about THAT event.\n"
-            "4. OUTPUT: Results must be in PERSIAN (Farsi) only.\n\n"
-            "JSON STRUCTURE: {title_fa, summary[3 bullet points], impact(1 sentence), tag(1 word), urgency(integer 1-10), sentiment(-1.0 to 1.0)}"
+            "1. Output in PERSIAN (Farsi).\n"
+            "2. Summary: 3 bullet points, factual, relevant.\n"
+            "3. No generic lectures. Analyze THIS specific event.\n"
+            "JSON: {title_fa, summary[list], impact, tag, urgency(int), sentiment(float)}"
         )
 
         current_text = full_text
 
         for attempt in range(CONFIG['AI_RETRIES']):
             try:
-                if attempt > 0:
-                    current_text = headline + " " + full_text[:800]
-
+                if attempt > 0: current_text = headline + " " + full_text[:800]
+                
                 resp = self.scraper.post(
                     "https://gen.pollinations.ai/v1/chat/completions",
                     headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
@@ -325,18 +339,11 @@ class IranNewsRadar:
                 )
                 
                 if resp.status_code == 200:
-                    raw_content = resp.json()['choices'][0]['message']['content']
-                    clean = re.sub(r'```json\s*|```', '', raw_content).strip()
+                    raw = resp.json()['choices'][0]['message']['content']
+                    clean = re.sub(r'```json\s*|```', '', raw).strip()
                     data = json.loads(clean)
-                    
-                    if not data.get('title_fa') or not data.get('summary'):
-                        raise ValueError("Incomplete response")
-                    return data
-                
-                elif resp.status_code == 400:
-                    logger.warning("AI Input too long, shortening...")
-                    continue
-                    
+                    if 'title_fa' in data and 'summary' in data: return data
+                time.sleep(1)
             except Exception as e:
                 logger.error(f"AI Attempt {attempt+1} failed: {e}")
                 time.sleep(2)
@@ -347,14 +354,17 @@ class IranNewsRadar:
         raw_title = entry.get('title', '').rsplit(' - ', 1)[0]
         publisher = entry.get('publisher', {}).get('title', 'Unknown')
         
-        logger.info(f"Processing: {publisher} | {raw_title[:20]}...")
-        
+        # Resolve URL first to check for duplicates
         final_url = self._resolve_final_url(entry.get('url'))
-        
+        clean_final_url = self._clean_url(final_url)
+
         if not os.environ.get('MANUAL_URL'):
-            if final_url in self.seen_urls: 
-                logger.info("Skipping Duplicate URL")
+            if clean_final_url in self.seen_urls:
                 return None
+            if self._is_duplicate_fuzzy(raw_title, self.existing_news):
+                return None
+
+        logger.info(f"Processing: {publisher} | {raw_title[:20]}...")
         
         snippet = entry.get('description', raw_title)
         text = self.scrape_article_text(final_url, snippet)
@@ -364,9 +374,6 @@ class IranNewsRadar:
         
         try: urgency_val = int(ai.get('urgency', 3))
         except: urgency_val = 3
-
-        try: sentiment_val = float(ai.get('sentiment', 0.0))
-        except: sentiment_val = 0.0
 
         try: ts = parser.parse(entry.get('published date')).timestamp()
         except: ts = time.time()
@@ -378,9 +385,10 @@ class IranNewsRadar:
             "impact": ai.get('impact', '...'),
             "tag": ai.get('tag', 'General'),
             "urgency": urgency_val,
-            "sentiment": sentiment_val,
+            "sentiment": ai.get('sentiment', 0),
             "source": publisher,
-            "url": final_url,
+            "url": final_url, # Store original for clicking
+            "clean_url": clean_final_url, # Store for dedup
             "image": entry.get('image'),
             "timestamp": ts
         }
@@ -388,10 +396,7 @@ class IranNewsRadar:
     def send_digest_to_telegram(self, items):
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
-        if not token or not chat_id: return
-
-        # Only fetch proxies if we are actually sending a message
-        if not items: return
+        if not token or not chat_id or not items: return
 
         try:
             with open(CONFIG['FILES']['MARKET'], 'r') as f: mkt = json.load(f)
@@ -409,21 +414,23 @@ class IranNewsRadar:
                 latency = p.get('latency', '?')
                 btn_text = f"🛡 {proxy_name} ({latency}ms)"
                 row.append({"text": btn_text, "url": p['tg_url']})
-                if len(row) == 3:
+                if len(row) == 2: # Max 2 per row for better mobile view
                     keyboard.append(row)
                     row = []
             if row: keyboard.append(row)
             reply_markup = {"inline_keyboard": keyboard}
 
         utc_now = datetime.now(timezone.utc)
-        current_time = utc_now.astimezone(timezone(timedelta(hours=3, minutes=30))).strftime("%H:%M")
+        ir_time = utc_now.astimezone(timezone(timedelta(hours=3, minutes=30))).strftime("%H:%M")
         
-        # Header changed to reflect it might be "Breaking News" or "Important Update"
-        header = f"🚨 <b>رادار اخبار مهم ایران</b> | ⏱ {current_time}\n{market_text}\n➖➖➖➖➖➖➖➖➖➖\n\n"
+        header = f"🚨 <b>رادار اخبار مهم ایران</b> | ⏱ {ir_time}\n{market_text}\n➖➖➖➖➖➖➖➖➖➖\n\n"
         footer = "\n🆔 @RasadAIOfficial\n📊 <a href='https://itsyebekhe.github.io/rasadai/'>مشاهده اخبار بیشتر در سایت</a>"
 
         messages_to_send = []
         current_chunk = header
+        
+        # Sort by urgency for the message
+        items.sort(key=lambda x: x['urgency'], reverse=True)
 
         for item in items:
             title = str(item.get('title_fa', item.get('title_en')))
@@ -444,7 +451,8 @@ class IranNewsRadar:
             summary_raw = item.get('summary', [])
             if isinstance(summary_raw, str): summary_raw = [summary_raw]
             safe_summary = "\n".join([f"▪️ {html.escape(str(s))}" for s in summary_raw])
-
+            
+            # Invisible link for preview if available
             hidden_image = f"<a href='{img_link}'>&#8205;</a>" if img_link else ""
 
             item_html = (
@@ -465,15 +473,51 @@ class IranNewsRadar:
         if current_chunk != header:
             messages_to_send.append(current_chunk + footer)
 
+        # Send messages
         api_url = f"https://api.telegram.org/bot{token}/sendMessage"
+        sc = cloudscraper.create_scraper()
+        
         for i, msg in enumerate(messages_to_send):
             payload = {"chat_id": chat_id, "text": msg, "parse_mode": "HTML", "disable_web_page_preview": False}
+            # Only add proxy buttons to the very last message
             if i == len(messages_to_send) - 1 and reply_markup:
                 payload["reply_markup"] = reply_markup
+            
             try:
-                cloudscraper.create_scraper().post(api_url, json=payload)
+                sc.post(api_url, json=payload)
                 time.sleep(1.5)
-            except: pass
+            except Exception as e:
+                logger.error(f"TG Send Error: {e}")
+
+    def save_news(self, new_items):
+        """Merges new items with old items and saves to file safely."""
+        try:
+            # Combine
+            all_news = new_items + self.existing_news
+            
+            # Remove strict duplicates based on URL
+            seen_u = set()
+            unique_news = []
+            for item in all_news:
+                u = self._clean_url(item.get('url'))
+                if u and u not in seen_u:
+                    seen_u.add(u)
+                    unique_news.append(item)
+            
+            # Sort by timestamp desc
+            unique_news.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
+            
+            # Trim history
+            final_list = unique_news[:CONFIG['HISTORY_SIZE']]
+            
+            with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
+                json.dump(final_list, f, indent=4, ensure_ascii=False)
+            
+            logger.info(">>> news.json updated successfully.")
+            return final_list
+        except Exception as e:
+            logger.error(f"Save Failed: {e}")
+            return self.existing_news
 
     def run(self):
         logger.info(">>> Radar Started...")
@@ -488,87 +532,80 @@ class IranNewsRadar:
         if manual_url and manual_url.strip():
             logger.info(f"!!! MANUAL MODE: {manual_url} !!!")
             results = self.fetch_manual_url(manual_url)
-            unique_batch_results = results 
+            candidates = results
         else:
             results = self.get_combined_news()
-            unique_batch_results = []
+            candidates = []
             seen_batch_titles = set()
             
-            # Filter against EXISTING history (Loaded from news.json)
+            cutoff_date = datetime.now(timezone.utc) - timedelta(hours=CONFIG['MAX_NEWS_AGE_HOURS'])
+            
             for item in results:
+                # 1. Check Date
+                try:
+                    p_date = item.get('published date')
+                    if p_date:
+                        dt = parser.parse(p_date)
+                        # Make naive datetime aware (assume UTC if missing)
+                        if dt.tzinfo is None: dt = dt.replace(tzinfo=timezone.utc)
+                        if dt < cutoff_date: continue # SKIP OLD NEWS
+                except: pass # If date parse fails, assume recent
+
+                # 2. Check Deduplication
+                raw_url = item.get('url', '')
+                clean_u = self._clean_url(raw_url)
+                if clean_u in self.seen_urls: continue
+
                 t = item.get('title', '').rsplit(' - ', 1)[0]
                 norm_t = self._normalize_text(t)
                 
-                # Check if exists in history
                 if norm_t in self.seen_titles: continue
-                if item.get('url') in self.seen_urls: continue
-                
-                # Check if duplicate within current batch
                 if norm_t in seen_batch_titles: continue
-                
-                # Check fuzzy match against history
                 if self._is_duplicate_fuzzy(t, self.existing_news): continue
 
                 seen_batch_titles.add(norm_t)
-                unique_batch_results.append(item)
+                candidates.append(item)
 
-        logger.info(f"Total Fetched: {len(results)} | Unique New Items: {len(unique_batch_results)}")
+        logger.info(f"Total Fetched: {len(results)} | Candidates (New & Recent): {len(candidates)}")
 
-        # --- 2. PROCESSING ONLY NEW ITEMS ---
+        # --- 2. PROCESSING ---
         new_processed_items = []
-        with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIG['MAX_WORKERS']) as exc:
-            futures = {exc.submit(self.process_item, i): i for i in unique_batch_results}
-            for fut in concurrent.futures.as_completed(futures):
-                res = fut.result()
-                if res:
-                    new_processed_items.append(res)
-                    # Add to 'seen' immediately to prevent dupes if code loops unexpectedly
-                    self.seen_titles.add(self._normalize_text(res['title_en']))
+        if candidates:
+            with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIG['MAX_WORKERS']) as exc:
+                futures = {exc.submit(self.process_item, i): i for i in candidates}
+                for fut in concurrent.futures.as_completed(futures):
+                    res = fut.result()
+                    if res:
+                        new_processed_items.append(res)
+                        # Add to seen immediately so we don't double process if logic expands
+                        self.seen_urls.add(res['clean_url'])
 
-        # --- 3. HANDLING ---
+        # --- 3. SAVING & SENDING ---
         if new_processed_items:
-            # A. Prepare Telegram List (STRICTLY from new_processed_items)
+            # SAVE FIRST to prevent duplicates if sending fails
+            self.existing_news = self.save_news(new_processed_items)
+            
+            # Prepare Telegram List
             telegram_items = []
             min_urgency = CONFIG['MIN_TELEGRAM_URGENCY']
             
             for item in new_processed_items:
                 urgency = item.get('urgency', 0)
                 tag = str(item.get('tag', '')).lower()
-                is_conflict = any(w in tag for w in ['war', 'conflict', 'military', 'strike', 'attack'])
+                is_conflict = any(w in tag for w in ['war', 'conflict', 'military', 'strike', 'attack', 'nuclear'])
                 
-                # Logic: High Urgency OR (Medium Urgency + Conflict Topic)
                 if urgency >= min_urgency:
                     telegram_items.append(item)
                 elif urgency >= 6 and is_conflict:
                     telegram_items.append(item)
 
-            # B. Send to Telegram
             if telegram_items:
-                # Sort by urgency descending
-                telegram_items.sort(key=lambda x: x.get('urgency', 0), reverse=True)
-                logger.info(f"Sending {len(telegram_items)} NEW items to Telegram.")
+                logger.info(f"Sending {len(telegram_items)} items to Telegram.")
                 self.send_digest_to_telegram(telegram_items)
             else:
-                logger.info(">>> New items processed, but none met urgency criteria.")
-
-            # C. Save to Database (Merge New + Old)
-            # We put new items at the top
-            all_news_to_save = new_processed_items + self.existing_news
-            
-            # Sort by timestamp to keep file organized
-            all_news_to_save.sort(key=lambda x: x.get('timestamp', 0), reverse=True)
-            
-            # Keep file size manageable (keep last 200)
-            all_news_to_save = all_news_to_save[:200]
-            
-            try:
-                with open(CONFIG['FILES']['NEWS'], 'w', encoding='utf-8') as f: 
-                    json.dump(all_news_to_save, f, indent=4, ensure_ascii=False)
-                logger.info(">>> news.json updated.")
-            except Exception as e:
-                logger.error(f"Save Failed: {e}")
+                logger.info("New items saved, but urgency too low for Telegram.")
         else:
-            logger.info(">>> No unique news found in this run.")
+            logger.info(">>> No valid new items found.")
 
 if __name__ == "__main__":
     IranNewsRadar().run()
