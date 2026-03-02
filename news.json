@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آنچه درباره گسترش جنگ آمریکا با ایران می‌دانیم؛ ورود به روز سوم",
+        "title_en": "What we know about the widening US war with Iran, as conflict enters third day",
+        "summary": [
+            "براساس تیتر CNN، درگیری میان آمریکا و ایران وارد روز سوم شده و گزارش‌ها از تشدید دامنه عملیاتی حکایت دارند؛ اما جزئیات میدانی و شمار تلفات در این عنوان مشخص نیست.",
+            "تشدید نظامی می‌تواند زمینه افزایش فشار خارجی و احتمال تحریم‌های تازه را فراهم کند که ساختار اقتصادی رژیم را بیش از پیش تضعیف می‌کند؛ این نوع فشارها کسری بودجه، کاهش ارزش پول ملی و فشار بر طبقات شهری را تشدید خواهند کرد.",
+            "افزایش هزینه‌های نظامی و ناامنی منطقه‌ای احتمالاً نارضایتی عمومی را افزایش می‌دهد و ظرفیت رژیم برای خرید وفاداری یا کنترل اجتماعی را کاهش می‌دهد؛ این روند می‌تواند پیوندهای اجتماعی-اقتصادی رژیم را شکننده‌تر کند."
+        ],
+        "impact": "تشدید جنگ احتمالاً ثبات داخلی رژیم را بیش از پیش تضعیف و ریسک گسترش منطقه‌ای و تشدید بحران اقتصادی را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/news/other/what-we-know-about-the-widening-us-war-with-iran-as-conflict-enters-third-day/ar-AA1Xm6Jb",
+        "clean_url": "https://www.msn.com/en-us/news/other/what-we-know-about-the-widening-us-war-with-iran-as-conflict-enters-third-day/ar-AA1Xm6Jb",
+        "image": null,
+        "timestamp": 1772450316.0
+    },
+    {
         "title_fa": "گسترش جنگ: شبه‌نظامیان مورد حمایت ایران وارد میدان شدند و هواپیماهای اسرائیل و آمریکا ایران را بمباران می‌کنند",
         "title_en": "War widens to include Iranian-backed militias as Israeli and American planes pound Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbGZBbGJaZ3otQVJyWHY2cE0zY0ZNcGNpR3FVZWJqS0JhQW5UVS13dVBUS1BOWkpfQ3NnZ05SS1Y5NHNaUUxnR0tuMzJtQzQ4Q0ItUWtNME9qRUVTNUhFR05ZRmdHMVM0NmpPb0xhbGJxVVRlWXRUSGhRanFWME50RGNPT25PSnBhVkRzcmRn",
         "image": null,
         "timestamp": 1772449800.0
+    },
+    {
+        "title_fa": "سفیر هسته‌ای ایران ادعا کرد حملات هوایی آمریکا و اسرائیل تأسیسات غنی‌سازی نطنز را هدف قرار داده‌اند",
+        "title_en": "Iran's nuclear ambassador alleges that US-Israeli airstrikes targeted the Natanz enrichment facility",
+        "summary": [
+            "سفیر هسته‌ای ایران مدعی شده که حملات هوایی آمریکا و اسرائیل تأسیسات غنی‌سازی نطنز را هدف قرار داده‌اند؛ تا کنون شواهد مستقل و تأییدیه رسمی از جزئیات و خسارات منتشر نشده است.",
+            "چنین ادعایی نمادی از تشدید فشار خارجی بر برنامه هسته‌ای ایران است و می‌تواند روند تضعیف ساختاری رژیم را از طریق افزایش هزینه‌های امنیتی و فشار سیاسی خارجی تشدید کند.",
+            "در داخل، حتی بدون تأیید مستقل، این روایت امکان بهره‌برداری حکومت برای توجیه تشدید کنترل امنیتی و محدودسازی فضای سیاسی را فراهم می‌کند؛ واکنش‌های متقابل منطقه‌ای یا عملیات تجسسی/انتقامی محتمل‌اند."
+        ],
+        "impact": "اگر ادعا تأیید شود، می‌تواند تنش نظامی و سیاسی بین تهران و واشنگتن/تل‌آویو را سریعاً افزایش دهد و فشار بر ثبات داخلی حکومت را تشدید کند.",
+        "tag": "نطنز",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3ZZX3JZZTNIV19wWmpQaEJHOWMtMXh2SmF5bTFrVnNpcnRWVXF2dXpRSnRlYS0zTFM5SFZTQktMZ1c4ZzFoWm1VU2xpS3Z5c1ZUcXdzTXZvdlA1MmhCc1JjVXJIaFIzLW1PYnk1aldMQVhqLXVVVkZ4VEtnTmtCTDU2bWtrRUI0MkxQMXpScFRtWjhySmVvZ2RhaGhaM3BzOUFOY0dQbTFLZmxvWTdIMms5VGo1YXJhUmd2LUhpQWJhdmdGVDRQMUNuNFh1ZWRaZkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPS3ZZX3JZZTNIV19wWmpQaEJHOWMtMXh2SmF5bTFrVnNpcnRWVXF2dXpRSnRlYS0zTFM5SFZTQktMZ1c4ZzFoWm1VU2xpS3Z5c1ZUcXdzTXZvdlA1MmhCc1JjVXJIaFIzLW1PYnk1aldMQVhqLXVVVkZ4VEtnTmtCTDU2bWtrRUI0MkxQMXpScFRtWjhySmVvZ2RhaGhaM3BzOUFOY0dQbTFLZmxvWTdIMms5VGo1YXJhUmd2LUhpQWJhdmdGVDRQMUNuNFh1ZWRaZkE",
+        "image": null,
+        "timestamp": 1772449387.0
     },
     {
         "title_fa": "وضعیت پس از حملات آمریکا و اسرائیل به ایران",
@@ -268,6 +304,24 @@
         "clean_url": "https://www.reuters.com/world/middle-east/israel-strikes-lebanon-following-hezbollah-attacks-widening-iran-conflict-2026-03-02",
         "image": null,
         "timestamp": 1772423100.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: تانکرهای نفتی و پالایشگاه‌ها هدف حمله قرار گرفتند؛ آمریکا و اسرائیل با ایران تبادل حملات کردند و جنگ گسترده‌تر شد",
+        "title_en": "Live updates: Oil tankers and refineries under attack as US and Israel exchange strikes with Iran and war widens",
+        "summary": [
+            "حملات گزارش‌شده علیه تانکرهای نفتی و پالایشگاه‌ها در پی تبادل حملات میان آمریکا، اسرائیل و ایران؛ گسترش جبهه‌های درگیری و هدف‌گیری خطوط حیاتی انرژی را نشان می‌دهد.",
+            "هدف‌گیری زیرساخت‌های نفتی می‌تواند صادرات انرژی و درآمدهای ارزی را مختل کند و فشارهای اقتصادی بر دولت را افزایش دهد؛ تضعیف درآمدها توان سرکوب و مدیریت بحران را کاهش می‌دهد و نارضایتی داخلی را تشدید می‌کند.",
+            "اگرچه گزارش‌ها نامی از پشتیبانان خارجی مشخصی نمی‌برد، این تشدید نظامی ریسک افزایش تحریم‌ها، انزوای بین‌المللی و اختلال در تجارت دریایی را بالا می‌برد و پیامدهای فوری برای قیمت سوخت و معیشت شهری خواهد داشت."
+        ],
+        "impact": "تشدید حملات به زیرساخت‌های نفتی می‌تواند درآمدهای ارزی و توان دولت برای مدیریت بحران را بکاهد و ناپایداری سیاسی و اجتماعی را تشدید کند.",
+        "tag": "نفت",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-us-israel-hezbollah-strikes-03-02-2026",
+        "clean_url": "https://apnews.com/live/iran-us-israel-hezbollah-strikes-03-02-2026",
+        "image": "http://www.bing.com/th?id=OVFT.lES97rHD_pJIn63MeFCgxi&pid=News",
+        "timestamp": 1772421780.0
     },
     {
         "title_fa": "آخرین خبر: کشته‌شدن علی خامنه‌ای و انتصاب علیرضا آرافی به شورای موقت؛ جنگ منطقه‌ای گسترش یافت و کویت سه هواپیمای نظامی آمریکا را اشتباهاً زد",
@@ -844,6 +898,24 @@
         "clean_url": "https://www.newyorker.com/news/the-lede/what-ayatollah-ali-khamenei-meant-to-iran-and-what-comes-next",
         "image": "http://www.bing.com/th?id=OVFT.bCyo3O6vh4ndgZ5SpDffbC&pid=News",
         "timestamp": 1772375700.0
+    },
+    {
+        "title_fa": "نماینده جمهوری‌خواه مست: هدف نظامی آمریکا در ایران «حذف» تهدید علیه آمریکایی‌ها است",
+        "title_en": "GOP Rep Mast says US military objective in Iran is to ‘eliminate’ threat to Americans",
+        "summary": [
+            "بیان صریح نماینده جمهوری‌خواه مبنی بر «حذف» تهدید نشانگر تغییر لحن به سمت راه‌حل‌های نظامی و مشروع‌سازی ضربات پیشگیرانه علیه اهداف مرتبط با تهران است؛ این چارچوب دست آمریکا را برای اقدامات تهاجمی‌تر باز می‌کند.",
+            "نه تنها توانایی نظامی و سیاسی رژیم هدف قرار می‌گیرد، بلکه تشدید فشار خارجی عملاً ساختارهای بقا و دسترسی‌های مالی-نظامی را تضعیف می‌کند؛ این تضعیف به خطاها و مدیریت ناکارآمد اقتصادی افزوده و نارضایتی عمومی را عمیق‌تر خواهد کرد.",
+            "اعلام چنین هدفی ریسک افزایش واکنش‌های نامتقارن و انتقام‌جویانه از سوی حکومت و گروه‌های وابسته را بالا می‌برد و فضای منطقه‌ای را به سمت عدم‌اطمینان و تشدید درگیری سوق می‌دهد — پیامی که باید به‌عنوان هشدار راهبردی خوانده شود."
+        ],
+        "impact": "در کوتاه‌مدت، این موضع احتمالِ گسترش عملیات نظامی و فشارهای بین‌المللی را افزایش می‌دهد و در میان‌مدت ریسک بی‌ثباتی داخلی و رفتارهای تهاجمی رژیم را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/gop-rep-mast-says-us-military-objective-iran-eliminate-threat-americans",
+        "clean_url": "https://www.foxnews.com/world/gop-rep-mast-says-us-military-objective-iran-eliminate-threat-americans",
+        "image": "http://www.bing.com/th?id=OVFT.bRv1FZe8Ac5oc7mZPEAGEy&pid=News",
+        "timestamp": 1772373300.0
     },
     {
         "title_fa": "بیش از ۱۰۰ کشته در حمله به مدرسه ابتدایی دخترانه در ایران؛ آنچه می‌دانیم",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/us-iran-nuclear-talks-wrap-224448218.html",
         "image": null,
         "timestamp": 1772122200.0
-    },
-    {
-        "title_fa": "برگزاری سومین دور مذاکرات هسته‌ای آمریکا و ایران",
-        "title_en": "U.S.-Iran Hold Third Round of Nuclear Talks",
-        "summary": [
-            "سومین دور مذاکرات غیرمستقیم هسته‌ای در ژنو برگزار شد؛ مذاکرات در سایه بزرگ‌ترین تقویت نظامی آمریکا در منطقه و تهدیدهای متقابل به رویارویی نظامی ادامه یافت و عباس عراقی هشدار داد که حمله آمریکا می‌تواند «جنگ ویرانگر» به دنبال داشته باشد، هرچند هر دو طرف گفتند توافق را ترجیح می‌دهند.",
-            "پیشنهادات مطرح‌شده شامل محدودیت در غنی‌سازی اورانیوم، تعلیق موقت فعالیت‌های غنی‌سازی و برچیدن تاسیسات اصلی هسته‌ای است؛ ایران عملاً پیشنهاد خرید کالاها و استقبال از سرمایه‌گذاری‌های آمریکایی را مطرح کرده، اما آمریکا می‌گوید تهران از امتیازدهی درباره موشک‌های بالستیک خودداری می‌کند.",
-            "پیامدهای منطقه‌ای مشهود است: آمریکا و استرالیا دیپلمات‌ها را فراخواندند، اتباع خارجی از ایران خارج می‌شوند، و سعودی‌ها و امارات اعلام کردند به آمریکا برای استفاده از خاک‌شان در حمله اجازه نمی‌دهند؛ بریتانیا نیز استفاده از پایگاه‌ها را محدود کرده که گزینه‌های نظامی آمریکا را تضعیف می‌کند. "
-        ],
-        "impact": "این مذاکرات حساس در حالی که فشار خارجی و ممانعت متحدان از همراهی نظامیَیِ آمریکا فضای انتخاب نظامی را محدود کرده، ضعف استراتژیک و آسیب‌پذیری رژیم را تشدید و ریسک بی‌ثباتی سیاسی-اقتصادی را افزایش می‌دهد.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Council",
-        "url": "https://www.cfr.org/articles/u-s-iran-hold-third-round-of-nuclear-talks",
-        "clean_url": "https://www.cfr.org/articles/u-s-iran-hold-third-round-of-nuclear-talks",
-        "image": null,
-        "timestamp": 1772122020.0
-    },
-    {
-        "title_fa": "شورای روابط خارجی — منبع فاقد محتوا",
-        "title_en": "Council on Foreign Relations",
-        "summary": [
-            "متن ارسال‌شده صرفاً عنوان «Council on Foreign Relations» را تکرار کرده و هیچ محتوای خبری یا تحلیلی ارائه نمی‌دهد.",
-            "بدون متن یا داده قابل استناد، نمی‌توان الزام‌های چارچوب تحلیلی را (تحریم‌ها، نقش بازیگران خارجی، نارضایتی داخلی) اعمال یا ارزیابی کرد؛ هر گونه استنتاج فراتر ساختگی است.",
-            "برای تحلیل واقع‌گرایانه و اقدام‌محور باید منبع کامل یا لینک به مطلب اصلی دریافت شود؛ در غیر این صورت اطلاعات قابل‌استفاده‌ای وجود ندارد."
-        ],
-        "impact": "عدم وجود محتوای قابل تحلیل مانع هرگونه ارزیابی درباره تحریم‌ها، همپیمانان خارجی یا نارضایتی داخلی می‌شود و تحلیل‌گر را از ارائه نتیجه‌گیری‌های مستند بازمی‌دارد.",
-        "tag": "بی‌محتوا",
-        "urgency": 1,
-        "sentiment": -0.5,
-        "source": "Council on Foreign Relations",
-        "url": "https://www.cfr.org/articles/trumps-2026-state-of-the-union-foreign-policy-issue-guide",
-        "clean_url": "https://www.cfr.org/articles/trumps-2026-state-of-the-union-foreign-policy-issue-guide",
-        "image": null,
-        "timestamp": 1772119952.0
-    },
-    {
-        "title_fa": "نظریات کارشناسان خاورمیانه درباره مذاکرات آمریکا–ایران و احتمال جنگ",
-        "title_en": "Mideast experts on U.S.-Iran negotiations and potential for war",
-        "summary": [
-            "منبع ارسال‌شده فاقد متن خبری است و تنها تیتر موجود است؛ بنابراین جزئیات دیدگاه کارشناسان قابل تأیید نیست.",
-            "با اتکا به موضوع تیتر، محورهای قابل انتظار اما غیراثباتی شامل سازوکار مذاکرات، آستانه‌های تقابل نظامی و نقش فشارهای خارجی/تحریم‌ها در تضعیف ساختار رژیم است — این موارد در منبع ارائه‌شده گزارش نشده‌اند.",
-            "در سطح تحلیل ساختاری، فشارهای خارجی و تحریم‌ها به شکل مزمن ظرفیت اقتصادی و مشروعیت سیاسی رژیم را تضعیف می‌کنند و شکست مذاکرات می‌تواند پیوند بین جناح‌های تندرو و سیاست‌های پرخطر را تقویت کند که همزمان ریسک درگیری نظامی و تشدید نارضایتی داخلی را بالا می‌برد؛ این نتیجه‌گیری‌ها کلی و مبتنی بر الگوهای شناخته‌شده‌اند نه اطلاعات مندرج در منبع."
-        ],
-        "impact": "در غیاب جزئیات، تحلیل واقع‌بینانه این است که بن‌بست در مذاکرات می‌تواند با تشدید تحریم‌ها و رشد گرایش‌های نظامی، ثبات داخلی رژیم را به‌سرعت تضعیف کند.",
-        "tag": "مذاکره",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "Public Broadcasting Service (PBS)",
-        "url": "https://www.pbs.org/newshour/show/mideast-experts-on-u-s-iran-negotiations-and-potential-for-war",
-        "clean_url": "https://www.pbs.org/newshour/show/mideast-experts-on-u-s-iran-negotiations-and-potential-for-war",
-        "image": "http://www.bing.com/th?id=OVFT.fYmRWYdm8gL7Dxy_JTJ5TS&pid=News",
-        "timestamp": 1772116500.0
-    },
-    {
-        "title_fa": "آینده مدیر جشنواره فیلم برلین در سایه جنجال غزه",
-        "title_en": "Berlin Film Festival Director's Future in Spotlight after Gaza Furore",
-        "summary": [
-            "مدیر جشنواره فیلم برلین پس از جنجالی مرتبط با موضوع غزه تحت فشار عمومی و سیاسی قرار گرفته و آینده حرفه‌ای او به‌شدت در معرض بازنگری قرار دارد.",
-            "این گزارش هیچ اشاره‌ای به تحریم‌ها یا فشارهای اقتصادی خارجی ندارد و بنابراین ادعاهای مربوط به تأثیر ساختاری تحریم بر ثبات رژیم‌ها در این پوشش قابل اثبات نیست.",
-            "موضوع محدود به نهاد فرهنگی و افکار عمومی آلمان است؛ هیچ نشانه‌ای از اعتراضات داخلی یا بحران اقتصادی در ایران در متن گزارش وجود ندارد و هر استنباط فراتر از این بدون شواهد مستند غیرواقع‌گرا خواهد بود."
-        ],
-        "impact": "این جنجال موقعیت شغلی مدیر جشنواره را به خطر انداخته و اعتبار جشنواره را در صحنه عمومی و سیاسی به چالش کشیده است.",
-        "tag": "فرهنگی",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Asharq Al-Awsat",
-        "url": "https://english.aawsat.com/features/5245099-berlin-film-festival-directors-future-spotlight-after-gaza-furore",
-        "clean_url": "https://english.aawsat.com/features/5245099-berlin-film-festival-directors-future-spotlight-after-gaza-furore",
-        "image": "https://english.aawsat.com/s3/files/styles/1200x600/public/2026-02/1412321_0.jpeg.webp",
-        "timestamp": 1772115600.0
     }
 ]
