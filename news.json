@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "جنگ آمریکا و اسرائیل علیه ایران گسترش یافت",
+        "title_en": "US-Israel war on Iran",
+        "summary": [
+            "نیروهای هوایی اسرائیل و آمریکا حملاتی علیه خاک ایران انجام داده‌اند؛ در تهران دود پس از یک ضربه دیده شده و تاریخ گزارش‌شده ۱ مارس است.",
+            "درگیری فراتر رفته و گروه‌های شبه‌نظامی مورد حمایت ایران به میدان تحولات کشیده شده‌اند که نشان‌دهنده گسترش جغرافیایی و پیچیدگی تنش‌هاست.",
+            "فشاری که از ترکیب حملات نظامی و احتمال تشدید تحریم‌ها بر حکومت وارد می‌شود، بنیان‌های اقتصادی و کارکرد سیاسی را تضعیف و احتمالاً نارضایتی عمومی را افزایش خواهد داد؛ شواهد مستقیم درباره اعتراضات گسترده در متن گزارش نیست."
+        ],
+        "impact": "در کوتاه‌مدت این موج حملات و فشار خارجی ثبات حکومت را با تضعیف اقتصادی و کاهش کنترل بر شبکه‌های نیابتی به‌طور معناداری تضعیف خواهد کرد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The Guardian",
+        "url": "https://www.bostonglobe.com/2026/03/02/world/us-iran-conflict/",
+        "clean_url": "https://www.bostonglobe.com/2026/03/02/world/us-iran-conflict",
+        "image": null,
+        "timestamp": 1772427655.0
+    },
+    {
+        "title_fa": "سرمایه‌گذاران در انتظار واکنش بورس به حمله آمریکا و اسرائیل به ایران",
+        "title_en": "Investors Brace for Stock Market’s Reaction to U.S.-Israel Attack on Iran",
+        "summary": [
+            "سرمایه‌گذاران آماده واکنش فوری بازار سهام به حمله مشترک آمریکا و اسرائیل هستند؛ افزایش نوسان، خروج سرمایه و گرایش به دارایی‌های امن محتمل است.",
+            "حمله مستقیم از سوی بازیگران خارجی فشارهای ساختاری بر اقتصاد را تشدید می‌کند و هزینه تأمین مالی دولت و امکان دستکاری بازار را محدودتر می‌سازد که ثبات رژیم را تضعیف می‌کند.",
+            "در کوتاه‌مدت تشدید شوک‌های بازار می‌تواند ارزش ریال و شرایط معیشتی را بدتر کند و احتمال افزایش نارضایتی عمومی و بروز مخاطرات سیاسی را افزایش دهد."
+        ],
+        "impact": "پیامد اصلی کاهش اعتماد سرمایه‌گذاران و تشدید فشار اقتصادی است که افق تأمین مالی و ثبات سیاسی رژیم را تضعیف می‌کند.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/01/business/stock-market-iran-war-fallout.html",
+        "clean_url": "https://www.nytimes.com/2026/03/01/business/stock-market-iran-war-fallout.html",
+        "image": null,
+        "timestamp": 1772426577.0
+    },
+    {
         "title_fa": "جنگ ایران: وضعیت فعلی، واکنش‌های جهانی و گام‌های بعدی",
         "title_en": "Iran conflict: Where things stand, global responses — and what comes next",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://english.aawsat.com/features/5244966-what-know-iran-and-us-meet-new-nuclear-talks-americans-deploy-forces-mideast",
         "image": "https://english.aawsat.com/s3/files/styles/1200x600/public/2026-02/1411720_0.jpeg.webp",
         "timestamp": 1772088840.0
-    },
-    {
-        "title_fa": "آمریکا و ایران مذاکرات هسته‌ای را در ژنو از سر می‌گیرند در حالی که تهدید نظامی تشدید شده است",
-        "title_en": "U.S. and Iran to Resume Nuclear Talks in Geneva Amid Heightening Military Threat",
-        "summary": [
-            "گزارش: آمریکا و ایران مذاکرات هسته‌ای را در ژنو از سر می‌گیرند؛ همزمان خبر از تشدید تهدید نظامی علیه ایران مطرح شده است.",
-            "ابعاد فشار خارجی: از سرگیری گفتگوها در چنین فضایی معمولاً نشانه‌ای از فشار خارجی و تضعیف ساختاری رژیم است که آن را وادار به فاصله‌گیری موقت از تقابل مستقیم می‌کند.",
-            "ابعاد داخلی: متن منبع به جزئیات اعتراضات یا وضعیت اقتصادی اشاره‌ای نکرده؛ با این حال، ادامه تهدید نظامی و دیپلماسی هم‌زمان می‌تواند آسیب‌پذیری حکمرانی و نارضایتی‌های اقتصادی را تشدید کند."
-        ],
-        "impact": "پیامد فوری این است که مذاکرات احتمالاً فشار و خطر نظامی را کاهش موقت می‌دهد اما هم‌زمان نشان می‌دهد رژیم زیر فشار ساختاری قرار دارد و قادر به حل بحران‌های راهبردی نیست.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDhzYzgzeVNCSVNwUFRhRkx2dURiRHVBSVpCcGpEdnFBcFJLbFFtdzFZWWtjR3lOMlpPeFBiTG1ZSG5RUjR3QTNaVUplVWxzNVIxNUdNd280YWoxcEpFU0xBajJLM004OGRpY0JrQ3BRNnRhdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNeVVsVjZVbEJzdVZsUC1MZHlYbDRNRjF5aFpYY0thM3RaNzB4RTNidWFkaUFIR2JLSHlWQVJKcjVLYVJqVGVjMndTaVpDU3lsWFg1VHdmZ2pOYzB4bVR5OERvS3E2X1FCMi1ySUIwSUdOYkRZOURybUJyaGNRcWRsOEtwYWRCVUx4RGp2bVpIRHZMdWphbTQ5dTRHNTF5cHBfemdXQVZORFBKSklvMjZuM3BmRGdyaDhzYzgzeVNCSVNwUFRhRkx2dURiRHVBSVpCcGpEdnFBcFJLbFFtdzFZWWtjR3lOMlpPeFBiTG1ZSG5RUjR3QTNaVUplVWxzNVIxNUdNd280YWoxcEpFU0xBajJLM004OGRpY0JrQ3BRNnRhdw",
-        "image": null,
-        "timestamp": 1772088240.0
-    },
-    {
-        "title_fa": "نظرسنجی AP-NORC: آمریکایی‌ها هم خطر برنامه هسته‌ای ایران را جدی می‌دانند و هم به قضاوت نظامی ترامپ اعتماد ندارند",
-        "title_en": "What Americans think about Trump’s judgment on military force as Iran talks resume: new AP-NORC poll",
-        "summary": [
-            "نظرسنجی AP-NORC (19–23 فوریه) نشان می‌دهد تقریباً نیمی از بزرگسالان آمریکا «بسیار» یا «بسیار زیاد» نگران تهدید مستقیم برنامه هسته‌ای ایران هستند؛ حدود ۳ از ۱۰ «نسبتاً» نگران و ۲ از ۱۰ کم‌اهمیت یا بی‌اهمیت می‌دانند.",
-            "دونالد ترامپ که در دوره قبلی خود توافق هسته‌ای را لغو کرد، بارها تهدید به استفاده از زور برای مهار برنامه هسته‌ای ایران کرده و در گزارش به ادعای «نابودی» پس از یک جنگ ۱۲ روزه در ژوئن و بمباران سایت‌های هسته‌ای ایران اشاره شده است؛ تهران هم اعلام کرده در صورت شکست مذاکرات پاسخ خواهد داد و نیروهای آمریکایی در منطقه تجمع یافته‌اند.",
-            "آمریکا همچنین به‌خاطر کشته‌شدن معترضان ایران هشدار داده است؛ تهران تاکنون از پذیرش توقف غنی‌سازی یا تحویل ذخایر اورانیوم با غنای بالا خودداری کرده که نشانگر تداوم بحران داخلی و مقاومتی استراتژیک در برابر فشار خارجی."
-        ],
-        "impact": "فشار نظامی و دیپلماتیک فعلی، بار ساختاری را بر حکومت ایران افزایش می‌دهد—هزینه‌های اقتصادی و سیاست سرکوب داخلی را بالا می‌برد و در کوتاه‌مدت شانس تشدید بحران یا پاسخ نظامی را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/02/26/trump-iran-poll/",
-        "clean_url": "https://www.bostonherald.com/2026/02/26/trump-iran-poll",
-        "image": "http://www.bing.com/th?id=OVFT.rz1ASxYem_5Wubiitg-EZC&pid=News",
-        "timestamp": 1772086920.0
     }
 ]
