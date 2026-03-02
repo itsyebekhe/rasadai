@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ادعای ایران: تاسیسات نطنز در حملات مشترک آمریکا و اسرائیل هدف قرار گرفت",
+        "title_en": "Iran says Natanz nuclear site hit in US-Israeli strikes",
+        "summary": [
+            "ایران اعلام کرد تاسیسات نطنز هدف حملات مشترک آمریکا و اسرائیل قرار گرفته؛ مقیاس و جزئیات خسارت به‌صورت مستقل تأیید نشده.",
+            "این عملیات نشانه فشار مستقیم خارجی بر برنامه هسته‌ای رژیم است و می‌تواند تاب‌آوری فنی و سیاسی آن را تضعیف کند.",
+            "آسیب‌پذیری نطنز بازتاب شکست در مدیریت امنیتی و فنی رژیم است و احتمالاً نارضایتی عمومی و شکاف‌های داخلی را افزایش می‌دهد."
+        ],
+        "impact": "اعلام این حمله می‌تواند به تشدید تنش‌های منطقه‌ای، افزایش فشار بین‌المللی و تضعیف بیشتر ظرفیت‌های هسته‌ای و مشروعیت رژیم منجر شود.",
+        "tag": "ناتنز",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://www.usnews.com/news/world/articles/2026-03-02/iran-says-natanz-nuclear-site-hit-in-us-israeli-strikes",
+        "clean_url": "https://www.usnews.com/news/world/articles/2026-03-02/iran-says-natanz-nuclear-site-hit-in-us-israeli-strikes",
+        "image": null,
+        "timestamp": 1772444227.0
+    },
+    {
         "title_fa": "چرا سرنوشت ایران در دست سپاه پاسداران است",
         "title_en": "Why Iran's fate lies in the hands of its Revolutionary Guards",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.straitstimes.com/world/middle-east/why-irans-fate-lies-in-the-hands-of-its-revolutionary-guards",
         "image": null,
         "timestamp": 1772443380.0
+    },
+    {
+        "title_fa": "آنچه در روز سوم حملات آمریکا و اسرائیل به ایران می‌دانیم",
+        "title_en": "What we know on day three of US-Israeli attacks on Iran",
+        "summary": [
+            "گزارش‌ها حاکی از تایید کشته شدن علی خامنه‌ای است؛ عملیات مشترک آمریکا و اسرائیل و واکنش موشکی و پهپادی ایران علیه دارایی‌های آمریکا و اهداف منطقه‌ای فشار خارجی مستقیم بر ساختارهای حکومتی را تشدید کرده و ثبات نهادی را تضعیف می‌کند.",
+            "آژانس مهر بیش از ۲۰ کشته در میدان نیلوفر تهران و اعلام دونالد ترامپ درباره کشته شدن ۴۸ «رهبر ایرانی» و نیز گزارش کشته شدن دست‌کم دو نفر در سنندج نشان می‌دهد هزینه انسانی بالاست و ناتوانی حکومت در محافظت از شهروندان و مدیریت بحران آشکار است.",
+            "گسترش درگیری به خاک امارات، قطر، بحرین، عراق و حمله متقابل به پایگاه نیروی هوایی بریتانیا در پی استفاده از پایگاه‌های قبرس و مداخله کشورهای خارجی (در حالی که استرالیا عملاً از پیوستن به عملیات خودداری کرد) ریسک تبدیل تنش به جنگ منطقه‌ای را افزایش داده است."
+        ],
+        "impact": "این سلسله‌ حملات متقابل، مشروعیت و توان اداره کشور توسط حکومت را سریعاً تضعیف می‌کند و احتمال گسترش درگیری منطقه‌ای همراه با تشدید بحران‌های سیاسی و اقتصادی داخلی را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/know-day-three-us-israeli-083125255.html",
+        "clean_url": "https://www.yahoo.com/news/articles/know-day-three-us-israeli-083125255.html",
+        "image": null,
+        "timestamp": 1772441190.0
     },
     {
         "title_fa": "بیانیه مقدماتی مدیرکل آژانس بین‌المللی انرژی اتمی به هیئت حکام",
@@ -162,6 +198,24 @@
         "timestamp": 1772423100.0
     },
     {
+        "title_fa": "حزب‌الله به اسرائیل حمله کرد؛ هواپیماهای آمریکایی و اسرائیلی ایران را بمباران کردند",
+        "title_en": "Hezbollah strikes Israel as American and Israeli planes pound Iran",
+        "summary": [
+            "ایران و شبه‌نظامیان مورد حمایت ایران موشک‌هایی به سوی اسرائیل و چند کشور عربی شلیک کردند؛ گزارش‌ها حاکی از اصابت به محوطه سفارت آمریکا در کویت است، و همزمان نیروی هوایی آمریکا و اسرائیل اهدافی در خاک ایران بمباران کردند.",
+            "حملات مستقیم نظامی آمریکا و اسرائیل نشان‌دهنده تشدید فشار خارجی است که توان تدارکاتی و زیرساختی رژیم را هدف می‌گیرد؛ این فشار ساختاری هزینه‌های بازسازی و دفاعی را افزایش می‌دهد و ظرفیت نظام برای مدیریت بحران‌های همزمان را کاهش می‌دهد.",
+            "تکیه رژیم بر بازیگران نیابتی برای پروژه‌های منطقه‌ای به‌جای تمرکز بر مسائل داخلی نشان‌دهنده مدیریت ناکارآمد است؛ اختصاص منابع به عملیات خارجی به قیمت فروگذاری بر مشکلات اقتصادی و اجتماعی داخلی، ریسک فرسایش مشروعیت و تشدید نارضایتی احتمالی را بالا می‌برد."
+        ],
+        "impact": "چرخه حمله و تلافی متقابل توان استراتژیک رژیم را فرسایشی می‌کند و خطر گسترش درگیری به یک بحران منطقه‌ای با تبعات داخلی شدید را به‌طور قابل‌توجهی افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/02/g-s1-112140/hezbollah-strikes-israel",
+        "clean_url": "https://www.npr.org/2026/03/02/g-s1-112140/hezbollah-strikes-israel",
+        "image": "http://www.bing.com/th?id=OVFT.gtO-vTyA6eY1yZmz1ZMUmC&pid=News",
+        "timestamp": 1772417340.0
+    },
+    {
         "title_fa": "بمباران B-2 آمریکا علیه ایران؛ اسرائیل ادعای برتری هوایی بر آسمان تهران را مطرح کرد",
         "title_en": "U.S. B-2 Bombers Strike Iran as Israel Claims Air Superiority Over Tehran Skies",
         "summary": [
@@ -214,6 +268,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXd1UDlQX2JDRmloV1pjc1ZvTUZYNGRUcTQ4NWJob2R5QTFFRXBibEtpUkU5N0ZJZTVzQUFRNEVuQ3NGU2VBNlh5dHlLbG04bk1JcDNWQTdYNy1ldTNYLXJUN1FjNnc5ZTI2dVp6NlZDdXgzdmhTZG5DdEJVN2VXMHdnWjJQdElROXpMVnQ2aUNLcXRKdllLbEpOSTQtaE0tTDNaeWxJeDhFazk0bzI0",
         "image": null,
         "timestamp": 1772409840.0
+    },
+    {
+        "title_fa": "مسئول امنیتی ارشد ایران: ایران با آمریکا مذاکره نخواهد کرد",
+        "title_en": "Iran will not negotiate with US, top Iranian security official says. Follow live updates.",
+        "summary": [
+            "مسئول امنیتی ارشد ایران رسماً اعلام کرده تهران حاضر به مذاکره با دولت آمریکا نیست؛ خبر در قالب گزارش زنده منتشر شده است.",
+            "این امتناع از مذاکره فضای لازم برای ادامه و تشدید تحریم‌ها را حفظ می‌کند؛ تحریم‌ها عامل ساختاری تضعیف توان اقتصادی و مشروعیت نهادهای حکومتی هستند.",
+            "از منظر داخلی، این رویکرد چشم‌انداز کاهش فشار اقتصادی را تیره می‌کند و احتمال تشدید نارضایتی اجتماعی و فشار بر حکومت را افزایش می‌دهد."
+        ],
+        "impact": "عملیاتی: اعلام رسمی امتناع از مذاکره، سیاست خارجی تهران را روی رویارویی نگه می‌دارد و امکان کاهش فوری فشار اقتصادی و سیاسی از طریق توافق را حذف می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/03/02/nation/trump-administration-iran-attacks-updates/",
+        "clean_url": "https://www.bostonglobe.com/2026/03/02/nation/trump-administration-iran-attacks-updates",
+        "image": "http://www.bing.com/th?id=OVFT.HaSGVxyWmkhdoanzNicyHS&pid=News",
+        "timestamp": 1772405880.0
     },
     {
         "title_fa": "چرا آمریکا ایران را هدف قرار داد؟ آنچه درباره حمله و واکنش تهران می‌دانیم",
@@ -574,6 +646,24 @@
         "clean_url": "https://www.detroitnews.com/story/news/local/michigan/2026/03/01/metro-detroit-iranian-expats-react-military-strikes-iran/88934666007",
         "image": "http://www.bing.com/th?id=OVFT.Uj4aW4VFVAeMGl9NncxLuy&pid=News",
         "timestamp": 1772377320.0
+    },
+    {
+        "title_fa": "حملات آمریکا و اسرائیل به ایران: چه می‌دانیم در آستانه تلاطم بازارها",
+        "title_en": "U.S.-Israel strikes Iran: What we know as markets brace for turmoil",
+        "summary": [
+            "حملات نظامی آمریکا و اسرائیل به ایران در حال برانگیختن گسترش درگیری منطقه‌ای هستند؛ سرمایه‌گذاران پیش از بازگشایی بازارها به رفتار «خروج از ریسک» روی می‌آورند و بازارها برای تلاطم آماده می‌شوند.",
+            "فشار خارجیِ نظامی ساختارهای اقتصادی و سیاسی رژیم را تضعیف می‌کند: افزایش هزینه‌های دفاعی، اختلال در جریان سرمایه و تشدید ریسک کشورمحور می‌تواند سرمایه‌گذاری، واردات نقدی و ثبات مالی را سریعاً کاهش دهد.",
+            "گزارش اشاره‌ای به اعتراضات داخلی ندارد، اما شوک‌های اقتصادی و نوسانات بازار احتمال تشدید نارضایتی‌های موجود را افزایش می‌دهد و ریسک اجتماعی-سیاسی برای حکومت را بالا می‌برد."
+        ],
+        "impact": "تشدید درگیری باعث تلاطم بازارها و افزایش فشار اقتصادی و سیاسی بر حکومت ایران می‌شود.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/money/markets/us-israel-strikes-iran-what-we-know-as-markets-brace-for-turmoil/ar-AA1XinZx",
+        "clean_url": "https://www.msn.com/en-us/money/markets/us-israel-strikes-iran-what-we-know-as-markets-brace-for-turmoil/ar-AA1XinZx",
+        "image": "https://image.cnbcfm.com/api/v1/image/108271527-1772346480774-gettyimages-2263418875-AA_28022026_2674255.jpeg?v=1772346501&w=1920&h=1080",
+        "timestamp": 1772376960.0
     },
     {
         "title_fa": "ترامپ: «احتمال مرگ‌های بیشتری هست»؛ درگیری‌ها ادامه دارد و رهبر ایران کشته شده است",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.local10.com/news/world/2026/02/26/the-latest-tense-us-iran-talks-in-geneva-as-trump-deploys-warships-and-aircraft-to-the-middle-east",
         "image": "http://www.bing.com/th?id=OVFT.X6YYn4QmODSk8r6sL7vy3i&pid=News",
         "timestamp": 1772111460.0
-    },
-    {
-        "title_fa": "مذاکره‌کنندگان هسته‌ای آمریکا و ایران سه ساعت دیدار کردند؛ تصمیم ترامپ در راه",
-        "title_en": "U.S.-Iran nuclear negotiators meet for 3 hours with Trump decision looming",
-        "summary": [
-            "نشست سه‌ساعته بین مذاکره‌کنندگان آمریکایی و ایرانی برگزار شد؛ نتیجه نشست روشن نیست و تصمیم قریب‌الوقوع ترامپ می‌تواند مسیر مذاکرات و سیاست واشینگتن را تغییر دهد.",
-            "هر تصمیم آمریکا که به افزایش فشار خارجی یا بازگرداندن تحریم‌ها بینجامد، اثرات ساختاری بر تضعیف ثبات رژیم خواهد داشت و ظرفیت مدیریتی اقتصادی و سیاسی حکومت را بیشتر فرسوده می‌کند.",
-            "با وجود نارضایتی عمومی ناشی از سوء‌مدیریت اقتصادی، هنوز شواهدی دال بر فوران فوری اعتراضات وجود ندارد؛ اما شکست مذاکرات یا تشدید تحریم‌ها احتمال تشدید نارضایتی و فشار اجتماعی را بالا می‌برد."
-        ],
-        "impact": "نتیجه این دیدار و تصمیم ترامپ می‌تواند تعیین‌کننده شدت فشارهای خارجی و سطح بی‌ثباتی سیاسی در داخل ایران باشد.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWmlfR1JzWE80bDNSRUVfajNBNkV2SXdxaE1zQWtKdXVpQ3JYbHpJLXhUS3hnak1aRUtVSldvMUNKQ0s2eGV3Yjd4eW5hRzMzcVFUWjdFbVByVURvV0VhWUF3VTBzRVRjT2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tWmlfR1JzWE80bDNSRUVfajNBNkV2SXdxaE1zQWtKdXVpQ3JYbHpJLXhUS3hnak1aRUtVSldvMUNKQ0s2eGV3Yjd4eW5hRzMzcVFUWjdFbVByVURvV0VhWUF3VTBzRVRjT2c",
-        "image": null,
-        "timestamp": 1772109689.0
-    },
-    {
-        "title_fa": "آخرین خبر: وزیر عمانی می‌گوید گفت‌وگوهای آمریکا و ایران در ژنو به پایان رسید اما «به‌زودی» از سر گرفته خواهد شد",
-        "title_en": "The Latest: US-Iran talks end in Geneva but ‘will resume soon,’ Omani minister says",
-        "summary": [
-            "آمریکا و ایران برای سومین بار در ژنو گفتگو کردند؛ وزیر عمانی اعلام کرد نشست به پایان رسیده اما «به‌زودی» از سر گرفته خواهد شد. خبر می‌گوید رئیس‌جمهور آمریکا در تلاش است برنامه هسته‌ای تهران را به تأخیر بیاندازد و هم‌زمان با تهدید از طریق تحرکات/گسترش حضور نظامی فشار وارد می‌کند.",
-            "فشار دیپلماتیک همراه با تهدیدات نظامی آمریکا ساختار ثبات رژیم را هدف گرفته و می‌تواند هزینه‌های اقتصادی و سیاسی بلندمدت برای حکمرانی ایجاد کند — از جمله کاهش سرمایه‌گذاری خارجی، ضربه به اعتبار بین‌المللی و افزایش تنش‌های میان گرایش‌های درون نظام.",
-            "خبر به‌طور مستقیم به اعتراضات داخلی یا شاخص‌های اقتصادی اشاره نکرد؛ اما اگر روند گفت‌وگوها با تهدید نظامی و فشار خارجی ادامه یابد، تجربه تاریخی نشان می‌دهد ضعف‌های مدیریتی و اقتصادی رژیم بیشتر در معرض دید عموم قرار گرفته و احتمال افزایش نارضایتی عمومی وجود دارد."
-        ],
-        "impact": "ادامه این خط همزمان دیپلماسی و تهدید نظامی، فشار ساختاری بر رژیم تهران را تشدید می‌کند — ممکن است برنامه هسته‌ای را کند کند اما همزمان ثبات داخلی و اعتبار بین‌المللی حکومت را کاهش می‌دهد.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "WPLG Local 10",
-        "url": "https://www.local10.com/news/world/2026/02/26/the-latest-us-iran-talks-end-in-geneva-but-will-resume-soon-omani-minister-says/",
-        "clean_url": "https://www.local10.com/news/world/2026/02/26/the-latest-us-iran-talks-end-in-geneva-but-will-resume-soon-omani-minister-says",
-        "image": "http://www.bing.com/th?id=OVFT.X6YYn4QmODSk8r6sL7vy3i&pid=News",
-        "timestamp": 1772107500.0
-    },
-    {
-        "title_fa": "آیا آمریکا و ایران می‌توانند برای جلوگیری از جنگ به توافق هسته‌ای برسند؟",
-        "title_en": "Can the U.S. and Iran reach a nuclear deal to avert a war?",
-        "summary": [
-            "سؤال محوری: آیا مذاکره میان آمریکا و حکومت ایران می‌تواند خطر جنگ را کاهش دهد؛ احتمال حصول توافق وابسته به دامنه امتیازات و سازوکارهای راستی‌آزمایی است.",
-            "تحریم‌ها به‌عنوان اهرم فشار خارجی ساختاری عمل می‌کنند؛ آنها هم می‌توانند حکومت را به میز مذاکره وادارند و هم با تنگ‌تر کردن منابع مالی، ظرفیت حکومت برای دادن امتیازات را تضعیف می‌کنند.",
-            "مشکلات مدیریتی و فشارهای اقتصادی داخلی همراه با نارضایتی عمومی، توان چانه‌زنی حکومت را کاهش می‌دهد و دستیابی به توافق جامع را پیچیده‌تر می‌سازد."
-        ],
-        "impact": "یک توافق هسته‌ای معنادار می‌تواند از تشدید نظامی جلوگیری کند، اما تحقق آن مستلزم توازن فشار خارجی و ضعیف شدن سیاست‌گذاری‌های داخلی حکومت است.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CBS News",
-        "url": "https://www.msn.com/en-us/news/world/can-the-us-and-iran-reach-a-nuclear-deal-to-avert-a-war/ar-AA1X7xDM",
-        "clean_url": "https://www.msn.com/en-us/news/world/can-the-us-and-iran-reach-a-nuclear-deal-to-avert-a-war/ar-AA1X7xDM",
-        "image": null,
-        "timestamp": 1772105261.0
-    },
-    {
-        "title_fa": "آمریکا و ایران در دور سوم مذاکرات هسته‌ای؛ همزمان با استقرار نیروهای بیشتر آمریکایی در خاورمیانه",
-        "title_en": "US and Iran are holding a third round of nuclear talks as more American forces deploy to the Mideast",
-        "summary": [
-            "دور سوم مذاکرات هسته‌ای بین آمریکا و ایران در جریان است؛ خبر توسط AP گزارش شده و جزئیات محتوایی بیشتر در متن گزارش ارائه نشده است.",
-            "همزمان ایالات متحده نیروهای بیشتری به خاورمیانه اعزام کرده است؛ هم‌زمانی مذاکرات و تحرکات نظامی نشان‌دهنده فشار استراتژیک و ریسک تشدید تنش در منطقه است.",
-            "این تحولات می‌تواند حاکی از تلاش رژیم برای کاهش فشار خارجی یا محدود کردن گزینه‌های نظامی مقابل خود باشد و در صورت استمرار، فشار اقتصادی و ناخرسندی اجتماعی را افزایش می‌دهد—هرچند گزارش اشاره مستقیمی به اعتراضات داخلی یا وضعیت اقتصادی نکرده است."
-        ],
-        "impact": "همزمانی مذاکرات و افزایش حضور نظامی آمریکا فشار استراتژیک بر رژیم را تقویت می‌کند و احتمال تشدید تنش‌های منطقه‌ای و هزینه‌های سیاسی-اقتصادی داخلی را بالا می‌برد.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHcwR3V4eUZtLU1GbFhsWElIb3BRX2lQSFBZY2YxZ3FHNk1pNFdCT093TDZyUVh2bmR2dWpkQnloTGJIaF9XdEU5ejExX2xQblpHME5NeXdseGxxVUkwMFJjVTJnRE1YSzdyRWt2ZGVpZWFjUUVIWkJTaHdvMjNGNGdMbUktU05ERnp2bXN5cURrOGVpTUlV?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTHcwR3V4eUZtLU1GbFhsWElIb3BRX2lQSFBZY2YxZ3FHNk1pNFdCT093TDZyUVh2bmR2dWpkQnloTGJIaF9XdEU5ejExX2xQblpHME5NeXdseGxxVUkwMFJjVTJnRE1YSzdyRWt2ZGVpZWFjUUVIWkJTaHdvMjNGNGdMbUktU05ERnp2bXN5cURrOGVpTUlV",
-        "image": null,
-        "timestamp": 1772103840.0
-    },
-    {
-        "title_fa": "یک توافق هسته‌ای میان آمریکا و ایران چه می‌تواند در بر داشته باشد؟",
-        "title_en": "What might a US-Iran nuclear deal entail?",
-        "summary": [
-            "رویترز پرسشی را مطرح می‌کند درباره ساختار و مؤلفه‌های محتمل یک توافق؛ خود تیتر جزئیات مشخصی ارائه نمی‌دهد و موضوع را به بحث می‌گذارد.",
-            "هر بحث واقعی درباره توافق لزوماً شامل عناصر مرتبط با تحریم‌ها، نظارت بین‌المللی و زمان‌بندی اجرای تعهدات است؛ تحلیل باید اثرات ساختاری کاهش فشار خارجی بر ثبات رژیم و منابع مالی آن را ارزیابی کند.",
-            "پیامدهای داخلی اقتصادی و سیاسی برای مدیریت ناکارآمد رژیم اهمیت دارد؛ توافق ممکن است به‌صورت موقت آرامش ایجاد کند یا برعکس، با تشدید رقابت‌های سیاسی داخلی و واکنش مردمی همراه شود — باید با شواهد میدانی دنبال شود."
-        ],
-        "impact": "یک توافق احتمالی میدان تحریم‌ها و توازن داخلی قدرت را تغییر می‌دهد و می‌تواند هم موجب کاهش فشار خارجی و هم تشدید تنش‌های سیاسی داخلی شود.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/us-seeks-deal-prevent-iran-acquiring-nuclear-arsenal-2026-02-26/",
-        "clean_url": "https://www.reuters.com/world/middle-east/us-seeks-deal-prevent-iran-acquiring-nuclear-arsenal-2026-02-26",
-        "image": null,
-        "timestamp": 1772102358.0
     }
 ]
