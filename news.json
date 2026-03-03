@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "رئیس سابق سیا: ایران در گسترش حملات به کشورهای خلیج فارس اشتباه کرد",
+        "title_en": "Ex-CIA director says Iran erred by expanding attacks to Persian Gulf states",
+        "summary": [
+            "اظهارنظر رئیس سابق سیا ارزیابی می‌کند که گسترش حملات ایران به کشورهای حوزه خلیج فارس خطای استراتژیک بوده است.",
+            "چنین گسترشی، به‌ویژه از منظر امنیت منطقه‌ای، می‌تواند منجر به افزایش فشار و انزوای دیپلماتیک علیه تهران شود.",
+            "اگرچه گزارش اشاره مستقیمی به تأثیر داخلی نکرده، اما این تصمیم راهبردی می‌تواند خطر تشدید پیامدهای اقتصادی و نارضایتی عمومی را افزایش دهد."
+        ],
+        "impact": "این هشدارِ یک مقام امنیتی غربی می‌تواند پایه‌ای برای تشدید اقدام‌های دیپلماتیک و فشار خارجی علیه ایران باشد و ریسک‌های اقتصادی و سیاسی داخلی را بالا ببرد.",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1QWFaSWtxZlh2emlBcnloSHpNM3EtU004Ymx0czY5Ty1WX2s5ZnlLVVlheGhkQktDNG50eWhQTmNJandRTVRKZHRvaGdsdkJudkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1QWFaSWtxZlh2emlBcnloSHpNM3EtU004Ymx0czY5Ty1WX2s5ZnlLVVlheGhkQktDNG50eWhQTmNJandRTVRKZHRvaGdsdkJudkE",
+        "image": null,
+        "timestamp": 1772531145.0
+    },
+    {
         "title_fa": "پترائوس: مشارکت اروپا در جنگ با ایران «قطعا یک احتمال»",
         "title_en": "Petraeus: Europe’s participation in Iran war 'certainly a possibility'",
         "summary": [
@@ -124,6 +142,24 @@
         "clean_url": "https://abc7chicago.com/post/federal-agencies-us-cities-alert-potential-retaliatory-attacks-amid-israel-iran-war-conflict-no-specific-threats-il/18669574",
         "image": null,
         "timestamp": 1772504100.0
+    },
+    {
+        "title_fa": "چرا آمریکا به ایران حمله می‌کند؟ آنچه دولت ترامپ درباره دلایل حملات گفته است",
+        "title_en": "Why is the U.S. attacking Iran? Here's what the Trump administration has said motivated the strikes",
+        "summary": [
+            "دونالد ترامپ چهار هدف اصلی برای کمپین بمباران اعلام کرد: نابودی قابلیت‌های موشکی ایران، نابودی نیروی دریایی، جلوگیری از توسعه سلاح هسته‌ای و قطع توان رژیم در تسلیح، تامین مالی و هدایت نیروهای فرامرزی؛ مقام‌های ارشد گفته‌اند عملیات تا تحقق این اهداف ادامه خواهد داشت.",
+            "واشنگتن اقدام را به‌عنوان خنثی‌سازی تهدید «فوری» موشک‌های بالستیک ایران توجیه می‌کند و ادعا کرده شواهدی وجود دارد که تهران ممکن است از موشک‌های متعارف به‌صورت پیش‌دستانه یا همزمان استفاده کند؛ این ادعا در برابر برآورد آژانس اطلاعاتی دفاعی مبنی بر عدم توان موشک‌های میان‌قاره‌ای تا سال 2035 قرار دارد.",
+            "آمریکا بیش از ۱۰۰۰ هدف را در روزهای آغازین بمباران هدف گرفت و رئیس‌جمهور جنگی چند هفته‌ای را پیش‌بینی کرده است؛ مقام‌ها تأکید کرده‌اند مدت عملیات می‌تواند کوتاه‌تر یا طولانی‌تر شود و مقاله اشاره‌ای به اعتراضات داخلی یا پیامدهای اقتصادی مستقیم نکرده است."
+        ],
+        "impact": "تشدید عملیات نظامی و فشار خارجی توان دفاعی، منابع مالی و مشروعیت رژیم را تضعیف خواهد کرد و احتمال تشدید بی‌ثباتی و افزایش هزینه سرکوب داخلی را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/why-us-attack-iran-trump-administration/",
+        "clean_url": "https://www.cbsnews.com/news/why-us-attack-iran-trump-administration",
+        "image": "http://www.bing.com/th?id=OVFT.B9ZEZyER1thpXeUH7JVLgS&pid=News",
+        "timestamp": 1772503860.0
     },
     {
         "title_fa": "تهدید ناشی از مناقشه ایران ظرف ۷۲ ساعت در خاورمیانه گسترش یافت",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.politico.com/news/2026/02/28/trump-iran-operation-00805558",
         "image": "http://www.bing.com/th?id=OVFT.oIQqLU6Qfiz1B8Lww_lhWy&pid=News",
         "timestamp": 1772233080.0
-    },
-    {
-        "title_fa": "اسرائیل حمله پیش‌دستانه علیه ایران را آغاز کرد",
-        "title_en": "Iran-Israel conflict LIVE: Israel launches 'pre-emptive attack' on Iran",
-        "summary": [
-            "اسرائیل اعلام کرده که حمله‌ای پیش‌دستانه علیه ایران اجرا کرده؛ در تهران انفجار گزارش شد و وزیر دفاع اسرائیل وضعیت اضطراری فوری در سراسر کشور اعلام کرد؛ منابع می‌گویند ایالات متحده در این حملات مشارکت دارد.",
-            "مشارکت آمریکا و تکرار تهدیدها نشان‌دهنده افزایش فشار خارجی است که می‌تواند ظرفیت بازدارندگی و زیرساخت‌های نظامی رژیم را هدف قرار دهد و هزینه‌های اقتصادی و سیاسی بلندمدت بر تهران تحمیل کند.",
-            "ادامه برنامه‌های هسته‌ای و موشکی که بهانه این ضربات اعلام شده‌اند، نشان‌دهنده شکست راهبردی و اولویت‌بندی نادرست مدیریت رژیم است؛ این رویکرد به‌احتمال زیاد بار اقتصادی را بر مردم سنگین‌تر و نارضایتی عمومی را تشدید می‌کند."
-        ],
-        "impact": "این عملیات فوری احتمالاً ثبات داخلی رژیم را تضعیف، فضای سرکوب را تشدید و اقتصاد آسیب‌دیده را به بحران عمیق‌تری خواهد کشاند.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/iran-israel-conflict-west-asia-us-trump-live-updates-february-28-2026/article70687247.ece",
-        "clean_url": "https://www.thehindu.com/news/international/iran-israel-conflict-west-asia-us-trump-live-updates-february-28-2026/article70687247.ece",
-        "image": "http://www.bing.com/th?id=OVFT.ibrwqeIxv9mFISyCiN63Ui&pid=News",
-        "timestamp": 1772232780.0
-    },
-    {
-        "title_fa": "تنش ایران-آمریکا/اسرائیل: انفجارها در تهران پس از حمله اسرائیل نزدیک دفاتر رهبری",
-        "title_en": "Iran-US tensions live: Explosions heard in Tehran as Israel strikes Iran near Ayatollah's offices",
-        "summary": [
-            "حملات هوایی اسرائیل به اهدافی در داخل ایران گزارش شده است؛ در پی آن انفجارهایی در تهران شنیده شد و آژیرها نیز در اسرائیل به صدا درآمدند، ارتش اسرائیل هشدار پیشگیرانه‌ای برای آماده‌سازی مردم در برابر احتمال پرتاب موشک صادر کرد.",
-            "ورود درگیری مستقیم به خاک ایران نشان‌دهنده جهش در فشار نظامی خارجی است که پناهگاه و نماد قدرت رژیم را هدف گرفته و توانایی امنیتی و فرماندهی-کنترلی حکومت را زیر سوال می‌برد.",
-            "بازتاب داخلی این حمله به مثابه نشانه‌ای از ناکارآمدی مدیریت امنیتی و راهبردی رژیم است؛ انتظار می‌رود رژیم از ماجرای کنونی برای توجیه سرکوب و بسیج داخلی بهره ببرد و در عین حال فشارهای خارجی و هزینه‌های دفاعی بلندمدت ساختار حاکم را تضعیف کند."
-        ],
-        "impact": "این ضربه مستقیم به خاک ایران، احتمال تشدید مقابله نظامی و افزایش فشارهای داخلی و اقتصادی بر رژیم را به‌طور قابل‌توجهی بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-news/iran-us-latest-news-live-nuclear-talks-oman-donald-trump-ayatollah-khamenei-vienna-geneva-101772239617278.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/us-news/iran-us-latest-news-live-nuclear-talks-oman-donald-trump-ayatollah-khamenei-vienna-geneva-101772239617278.html",
-        "image": null,
-        "timestamp": 1772232720.0
     }
 ]
