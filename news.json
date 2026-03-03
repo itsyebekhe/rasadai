@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پترائوس: مشارکت اروپا در جنگ با ایران «قطعا یک احتمال»",
+        "title_en": "Petraeus: Europe’s participation in Iran war 'certainly a possibility'",
+        "summary": [
+            "دیوید پترائوس، رئیس سابق سازمان اطلاعات مرکزی آمریکا (CIA)، به یورونیوز گفت مشارکت نظامی اروپا در عملیات مشترک آمریکا و اسرائیل علیه ایران «قطعا یک احتمال» است و از نقش دفاعی اروپا در تقویت سامانه‌های پدافندی هوایی و موشکی حمایت کرد.",
+            "پترائوس افزود که بحث‌هایی درباره نقش تهاجمی‌تر کشورهای اروپایی مطرح شده؛ او اشاره کرد انتقام‌های ایران فراتر از اسرائیل و پایگاه‌های آمریکایی گسترش یافته و به زیرساخت‌های غیرنظامی، فرودگاه‌ها، بنادر و حتی پایگاه‌های بریتانیا در قبرس رسیده است، و در عین حال تأکید کرد آمریکا قصد اعزام نیروی زمینی به داخل ایران را ندارد.",
+            "او احتمال داده ترکیب نخبگان حکومت ایران تغییر کرده باشد (کاهش عناصر ایدئولوژیک سخت و افزایش فرصت‌طلبان)؛ تحت فشار نظامی و دیپلماتیک خارجی این تغییر بالقوه می‌تواند شکاف‌های داخلی را عمیق‌تر کند، هرچند او از پیش‌بینی قطعی پرهیز کرد."
+        ],
+        "impact": "اگر اروپا وارد عملیات شود، فشار نظامی و دیپلماتیک بر رژیم ایران به‌طور چشمگیر افزایش می‌یابد، ظرفیت‌های موشکی و پهپادی را هدف قرار می‌دهد و شانس تشدید شکاف‌های داخلی و تضعیف سیاسی نخبگان حاکم را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Euronews.com",
+        "url": "https://ca.news.yahoo.com/europe-participation-iran-war-certainly-090154891.html",
+        "clean_url": "https://ca.news.yahoo.com/europe-participation-iran-war-certainly-090154891.html",
+        "image": null,
+        "timestamp": 1772528093.0
+    },
+    {
         "title_fa": "نتانیاهو: جنگ آمریکا-اسرائیل با ایران «سال‌ها طول نخواهد کشید»",
         "title_en": "Netanyahu says US-Israel war on Iran 'not going to take years'",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26",
         "image": null,
         "timestamp": 1772495280.0
+    },
+    {
+        "title_fa": "حمله پهپادی ایران به سفارت آمریکا در ریاض در ادامه تشدید تهاجمات منطقه‌ای",
+        "title_en": "US Embassy in Saudi Arabia hit with Iranian drones as American and Israeli attacks on Iran escalate",
+        "summary": [
+            "al.com گزارش می‌دهد که ایران با پهپاد سفارت آمریکا در پایتخت عربستان سعودی (ریاض) را هدف قرار داده است، همزمان که تهران به هدف‌گیری مکرر اهدافی در منطقه ادامه می‌دهد.",
+            "این رخداد هم‌زمان با افزایش حملات آمریکایی و اسرائیلی علیه ایران روی داده و نشان‌دهنده نزدیک شدن وضعیت به تقابل نظامی مستقیم است.",
+            "عملیات علیه سفارت ریسک پاسخ نظامی مستقیم از سوی آمریکا و متحدانش و تشدید فشارهای بین‌المللی و تحریم‌ها را بالا می‌برد؛ هزینه‌های اقتصادی و سیاسی برای سرپوش گذاشتن بر ناکارآمدی داخلی افزایش خواهد یافت."
+        ],
+        "impact": "این حمله خطر انتقال مناقشه منطقه‌ای به مرحله تقابل مستقیم با آمریکا و متحدانش را افزایش می‌دهد و ساختار فشار خارجی و اقتصادی علیه حکومت را تندتر می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "al.com",
+        "url": "https://www.al.com/news/2026/03/us-embassy-in-saudi-arabia-hit-with-iranian-drones-as-american-and-israeli-attacks-on-iran-escalate.html",
+        "clean_url": "https://www.al.com/news/2026/03/us-embassy-in-saudi-arabia-hit-with-iranian-drones-as-american-and-israeli-attacks-on-iran-escalate.html",
+        "image": "http://www.bing.com/th?id=OVFT.BKje6fP8Ie2triDWrFFdjC&pid=News",
+        "timestamp": 1772493480.0
     },
     {
         "title_fa": "حملات آمریکا به ایران؛ آزمون شکننده آشتی با چین",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/us-news/iran-us-latest-news-live-nuclear-talks-oman-donald-trump-ayatollah-khamenei-vienna-geneva-101772239617278.html",
         "image": null,
         "timestamp": 1772232720.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: اسرائیل ادعا می‌کند حمله «پیش‌دستانه» به ایران را اجرا کرده؛ وضعیت اضطراری اعلام شد — ایران حریم هوایی را بست",
-        "title_en": "Israel-Iran conflict Live Updates: Israel says it launches ‘preemptive strike against Iran’, declares national emergency",
-        "summary": [
-            "اسرائیل اعلام کرده حمله‌ای «پیش‌دستانه» علیه ایران اجرا کرده و وضعیت اضطراری ملی اعلام نموده — نشانه ورود بحران به فاز مستقیم نظامی.",
-            "سازمان هواپیمایی کشوری ایران حریم هوایی را بست و تمامی پروازها تا صبح پنج‌شنبه لغو شد؛ اختلال مستقیم در حمل‌ونقل هوایی و خدمات زیرساختی.",
-            "این رویارویی فوری خطر تشدید منطقه‌ای را بالا می‌برد و می‌تواند فشار خارجی، هزینه‌های اقتصادی و تضعیف مشروعیت حاکمیت فعلی را تشدید کند."
-        ],
-        "impact": "بسته شدن حریم هوایی همراه با اعلام وضعیت اضطراری نشانه کاهش توان عملیاتی و مدیریتی حاکمیت در مدیریت بحران و افزایش ریسک پیامدهای اقتصادی و سیاسی است.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/israel-iran-conflict-live-updates-israel-says-it-launches-preemptive-strike-against-iran-declares-national-emergency-liveblog-13984610.html",
-        "clean_url": "https://www.firstpost.com/world/israel-iran-conflict-live-updates-israel-says-it-launches-preemptive-strike-against-iran-declares-national-emergency-liveblog-13984610.html",
-        "image": null,
-        "timestamp": 1772232600.0
-    },
-    {
-        "title_fa": "حملات آمریکا و اسرائیل به ایران؛ هدف قرار گرفتن علی خامنه‌ای و مسعود پزشکیان",
-        "title_en": "US and Israel strike Iran, targeting its top leaders",
-        "summary": [
-            "رویترز گزارش می‌دهد آمریکا و اسرائیل حملاتی را علیه اهداف در ایران انجام دادند که علی خامنه‌ای و مسعود پزشکیان از اهداف اعلام‌شده بودند؛ نتیجه نهایی این حملات هنوز نامشخص است.",
-            "فشار نظامی مستقیم از سوی بازیگران خارجی ساختار امنیتی و فرماندهی رژیم را هدف گرفته و توان بقا و محاسبات استراتژیک تهران را تضعیف می‌کند؛ این سطح از فشار خارجی به‌صورت ساختاری رژیم را آسیب‌پذیرتر می‌سازد.",
-            "ریسک تشدید سریع تنش‌های منطقه‌ای بالا است؛ در داخل نیز احتمال واکنش شدید حکومتی وجود دارد که می‌تواند به سرکوب بیشتر یا تمرکز قدرت منجر و بی‌ثباتی سیاسی را تشدید کند."
-        ],
-        "impact": "حمله مستقیم به رهبران ارشد شانس تشدید جنگ منطقه‌ای و افزایش ناپایداری سیاسی داخلی در ایران را به‌طور قابل توجهی بالا می‌برد.",
-        "tag": "حمله",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28/",
-        "clean_url": "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28",
-        "image": "http://www.bing.com/th?id=OVFT.DIFRBQCTQU79Qwz8yeXchC&pid=News",
-        "timestamp": 1772231820.0
     }
 ]
