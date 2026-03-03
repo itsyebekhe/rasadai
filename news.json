@@ -36,6 +36,24 @@
         "timestamp": 1772514680.0
     },
     {
+        "title_fa": "جنگ در ایران: گام بعدی چیست؟",
+        "title_en": "War in Iran: What happens next?",
+        "summary": [
+            "حمله نظامی ایالات متحده به رهبری دونالد ترامپ، که به کشته‌شدن علی خامنه‌ای انجامید، در حالی صورت گرفت که مذاکرات درباره برنامه هسته‌ای ایران ادامه داشت و پیش از آن حملات مشترک آمریکا و اسرائیل در ژوئن ۲۰۲۵ تاسیسات هسته‌ای کلیدی را به‌شدت آسیب زده بود.",
+            "خروج ترامپ از توافق ۲۰۱۵ و بازگشت تحریم‌ها، همراه با حملات نظامی اخیر، قاب فنی و مالی برنامه هسته‌ای و ظرفیت‌های استراتژیک رژیم را تضعیف کرده و منابع دولت را به سمت هزینه‌های امنیتی و نظامی سوق داده است؛ این فشار خارجی ساختارهای تامین و مشروعیت رژیم را فرسایش می‌دهد.",
+            "پیامد فوری شامل فروپاشی مذاکرات دیپلماتیک، افزایش خطر گسترش جنگ منطقه‌ای، و ایجاد خلأ رهبری و بحران داخلی در تهران است؛ در غیاب نقل قول‌هایی از واکنش مردمی در متن گزارش، این متغیرها می‌توانند به اقدام‌های سرکوب‌گرانه و هزینه‌های اقتصادی بیشتر تبدیل شوند."
+        ],
+        "impact": "کشته‌شدن خامنه‌ای و ضربات نظامی هم‌زمان توان بازتولید سیاست خارجی و هسته‌ای حکومت را به‌شدت تضعیف می‌کند و خطر تشدید جنگ منطقه‌ای و بحران سیاسی-اقتصادی داخلی را به‌طور قابل‌توجهی افزایش می‌دهد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Brookings",
+        "url": "https://www.yahoo.com/news/world/article/why-did-trump-attack-iran-is-the-us-at-war-now-how-long-will-this-last-a-complete-faq-on-the-new-mideast-conflict-221852500.html",
+        "clean_url": "https://www.yahoo.com/news/world/article/why-did-trump-attack-iran-is-the-us-at-war-now-how-long-will-this-last-a-complete-faq-on-the-new-mideast-conflict-221852500.html",
+        "image": null,
+        "timestamp": 1772513417.0
+    },
+    {
         "title_fa": "نتانیاهو می‌گوید جنگ با ایران ممکن است «مدتی» طول بکشد، اما نه سال‌ها",
         "title_en": "Netanyahu says war against Iran may take 'some time', but not years",
         "summary": [
@@ -124,6 +142,24 @@
         "clean_url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-today-sensex-oil-gold-india-impact-march-2/4159632",
         "image": null,
         "timestamp": 1772496345.0
+    },
+    {
+        "title_fa": "اسرائیل تهران و بیروت را هدف قرار داد؛ ترامپ از موج بزرگ‌تری از حملات علیه ایران خبر داد",
+        "title_en": "Israel hits Beirut and Tehran as Trump warns Iran of escalated strikes",
+        "summary": [
+            "گزارش‌ها: اسرائیل ادعا کرده حملاتی همزمان به تهران و بیروت انجام داده؛ فیلم‌برداری محلی دود و انفجار در پردیس و گزارش‌هایی از انفجار در استان اصفهان، کنگاور و شیراز را نشان می‌دهد؛ اسرائیل می‌گوید سامانه‌ها و پرتابگرهای موشکی ایران هدف قرار گرفته‌اند.",
+            "فشار دیپلماتیک و تهدید مستقیم: وزارت خارجه آمریکا خروج کارکنان غیرضروری از اردن، بحرین، عراق، قطر و کویت را اجباری اعلام و ترامپ تهدید به \"موج بزرگ\" حملات بیشتر و اهدافی مانند نابودی قابلیت‌های موشکی، نیروی دریایی و برنامه هسته‌ای ایران کرده است.",
+            "پیامدهای منطقه‌ای و اقتصادی فوری: گزارش‌ها از عملیات علیه متحدان آمریکا و هشدار ایران برای هدف قرار دادن هر کشتی در مسیرعبور مهم دریایی نشان می‌دهد بحران می‌تواند مسیرهای تجاری و ثبات منطقه‌ای را به سرعت مختل کند."
+        ],
+        "impact": "این ضربات نظامی و عقب‌نشینی دیپلماتیک، ظرفیت نظامی و فضای مانور سیاسی رژیم را تضعیف می‌کند و همزمان فشارهای اقتصادی و ریسک بی‌ثباتی داخلی را تشدید می‌نماید.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26",
+        "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26",
+        "image": null,
+        "timestamp": 1772495280.0
     },
     {
         "title_fa": "حملات آمریکا به ایران؛ آزمون شکننده آشتی با چین",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.reuters.com/business/aerospace-defense/israel-us-launch-strikes-iran-2026-02-28",
         "image": "http://www.bing.com/th?id=OVFT.DIFRBQCTQU79Qwz8yeXchC&pid=News",
         "timestamp": 1772231820.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید از مذاکرات هسته‌ای با ایران «خوشحال نیست» اما به آنها زمان بیشتری می‌دهد",
-        "title_en": "Trump says he is 'not happy' with the Iran nuclear talks but indicates he'll give them more time",
-        "summary": [
-            "دونالد ترامپ گفته از روند مذاکرات هسته‌ای با ایران «خوشحال نیست» اما قصد دارد به این مذاکرات زمان بیشتری اختصاص دهد.",
-            "این موضع علنی ترکیبی از نارضایتی و خودداری از تشدید فوری را نشان می‌دهد که در کوتاه‌مدت سیاست واشنگتن را به وضعیت بلاتکلیفی می‌برد و فرصت تصمیم‌گیری استراتژیک نامشخصی ایجاد می‌کند.",
-            "برای تهران این پیام می‌تواند فرصت موقتی تنفس سیاسی فراهم کند، اما به‌هیچ‌وجه اثر ساختاری تحریم‌ها یا پیامدهای سوءمدیریت اقتصادی و نارضایتی داخلی را از بین نمی‌برد و احتمالاً رقابت بین جریان‌های مذاکره‌کننده و تندروها را تشدید خواهد کرد."
-        ],
-        "impact": "اظهارنظر ترامپ یک دوره بلاتکلیفی راهبردی ایجاد می‌کند که به حکومت ایران فرصت کاهش فشار فوری می‌دهد اما ساختارهای اقتصادی و سیاسی ضعیف‌شده توسط تحریم‌ها و سوءمدیریت همچنان آسیب‌پذیر باقی می‌ماند.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGFrd3B6TWljNHNsMzQyV1FVYTM5cUY4TUxyT3AtbktfZTg5dHkwMDZvYkZRMmVycjVSSlRDMVpBZ0ZzTlMwSTJQRkNpNmw3TmhLems4UVBwWUF5UzhHemFRbV95RV83N2FyMVlfeVc0YXVLaGZ2S2JLX0xYekh4WVRab2c1T1ItT2FaYWpVX2ZyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUGFrd3B6TWljNHNsMzQyV1FVYTM5cUY4TUxyT3AtbktfZTg5dHkwMDZvYkZRMmVycjVSSlRDMVpBZ0ZzTlMwSTJQRkNpNmw3TmhLems4UVBwWUF5UzhHemFRbV95RV83N2FyMVlfeVc0YXVLaGZ2S2JLX0xYekh4WVRab2c1T1ItT2FaYWpVX2ZyUQ",
-        "image": null,
-        "timestamp": 1772230020.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: حمله آمریکا به ایران؛ ترامپ خواهان سرنگونی دولت شد",
-        "title_en": "Live Updates: U.S. Attacks Iran as Trump Calls for Overthrow of Government",
-        "summary": [
-            "ایالات متحده به ایران حمله کرده و دونالد ترامپ علناً خواستار سرنگونی دولت ایران شده است؛ این اقدام، خطر تشدید فوری درگیری مستقیم بین تهران و واشینگتن را بالا می‌برد.",
-            "موشک‌های بالستیک میان‌برد ایران با برد بیش از ۱۲۰۰ مایل، چندین پایگاه آمریکایی را در محدوده قرار می‌دهد و ریسک حملات متقابل به زیرساخت‌ها و نیروهای مستقر را افزایش می‌دهد.",
-            "فشار نظامی و سیاسی خارجی احتمالاً بار اقتصادی-سیاسی بر حاکمیت را تشدید می‌کند و می‌تواند یا به افزایش سرکوب داخلی برای کنترل اوضاع منجر شود یا در میان‌مدت به تضعیف ساختارهای حکومتی بینجامد."
-        ],
-        "impact": "این حملات و شعارهای سرنگونی احتمال تشدید جنگ منطقه‌ای و افزایش فشار بر حکومت را بالا می‌برد که می‌تواند هم موج جدیدی از سرکوب داخلی و هم کاهش پایدار ثبات را به دنبال داشته باشد.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/iran-attack-us-risk",
-        "clean_url": "https://www.nytimes.com/live/2026/02/28/world/iran-strikes-trump/iran-attack-us-risk",
-        "image": "http://www.bing.com/th?id=OVFT.B98G7F3NQ0Wtula1A2rRIS&pid=News",
-        "timestamp": 1772223960.0
     }
 ]
