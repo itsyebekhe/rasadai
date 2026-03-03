@@ -512,7 +512,7 @@ class IranNewsRadar:
             url = item.get('url', '')
             source = html.escape(str(item.get('source', 'Unknown')))
             
-            is_regime = any(x in source.lower() for x in ['tasnim', 'fars', 'irna', 'press', 'mehr'])
+            is_regime = any(x in source.lower() for x in ['tasnim', 'fars', 'irna', 'presstv', 'mehr'])
             if is_regime: source += " (رسانه حکومتی 🚫)"
 
             urgency = item.get('urgency', 3)
