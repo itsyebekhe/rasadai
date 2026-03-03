@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چه کسی به یک مدرسه دخترانه در ایران حمله کرد و آیا پاسخگویی صورت خواهد گرفت؟",
+        "title_en": "Who attacked a girls' school in Iran, and will there be accountability?",
+        "summary": [
+            "USA Today گزارش یا عنوانی منتشر کرده که از حمله به یک مدرسه دخترانه در ایران خبر می‌دهد و هویت عاملان در عنوان مشخص نیست؛ پرسش محوری گزارش این است که چه کسی مسئول این حمله است.",
+            "عنوان گزارش صراحتاً سؤال درباره پاسخگویی را مطرح می‌کند؛ از عنوان نمی‌توان دیدگاه روشنی درباره آغاز تحقیقات رسمی یا تعهد مقامات برای پاسخگویی استخراج کرد.",
+            "عنوان هیچ اشاره‌ای به تحریم‌ها یا فشار خارجی ندارد و نقشی از روسیه، چین یا کره‌شمالی مطرح نشده است؛ همچنین از این عنوان نمی‌توان نتیجه‌گیری قطعی درباره اعتراضات داخلی یا تبعات اقتصادی کرد."
+        ],
+        "impact": "ابهام درباره عاملان و تردید در توانایی مقامات برای پاسخگویی می‌تواند اعتماد عمومی به تامین امنیت مدارس را تضعیف کرده و بحث‌های سیاسی و مطالبات برای شفافیت را تشدید کند.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "USA Today",
+        "url": "https://www.msn.com/en-us/news/world/who-attacked-a-girls-school-in-iran-and-will-there-be-accountability/ar-AA1XqtLf",
+        "clean_url": "https://www.msn.com/en-us/news/world/who-attacked-a-girls-school-in-iran-and-will-there-be-accountability/ar-AA1XqtLf",
+        "image": null,
+        "timestamp": 1772535900.0
+    },
+    {
         "title_fa": "نتانیاهو بر روی حمایت آمریکا در جنگ علیه ایران قمار می‌کند",
         "title_en": "Netanyahu takes a gamble on American support for Israel with the war against Iran",
         "summary": [
@@ -70,6 +88,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA1QWFaSWtxZlh2emlBcnloSHpNM3EtU004Ymx0czY5Ty1WX2s5ZnlLVVlheGhkQktDNG50eWhQTmNJandRTVRKZHRvaGdsdkJudkE",
         "image": null,
         "timestamp": 1772531145.0
+    },
+    {
+        "title_fa": "اگر امروز ایران خود را به جنگ طولانی و جهنمی با آمریکا پذیرفته باشد چه می‌شود؟",
+        "title_en": "What if today's Iran is resigned to a long, hellish war with the US?",
+        "summary": [
+            "مقاله این فرض را مطرح می‌کند که رژیم ممکن است استراتژی بقا را با پذیرش جنگ فرسایشی و نامتقارن در برابر آمریکا تطبیق داده باشد، یعنی آماده تحمل هزینه‌های بلندمدت برای حفظ بقای سیاسی شود.",
+            "تحریم‌ها و فشار خارجی در یک سناریوی جنگ طولانی ساختار مالی دولت را فرسوده می‌کنند، توان تأمین تجهیزات و خدمات پایه را کاهش می‌دهند و ظرفیت حکمرانی را تضعیف می‌کنند.",
+            "از منظر داخلی، فرسایش اقتصادی و هدررفت منابع می‌تواند نارضایتی عمومی را تشدید کند؛ رژیم را به سرکوب گسترده‌تر و بسیج‌های اجباری وامی‌دارد و خطر تشدید بی‌ثباتی و بحران‌های سیاسی را افزایش می‌دهد."
+        ],
+        "impact": "اگر رژیم چنین مسیری را پذیرفته باشد، کشور وارد چرخه‌ای از ضعف اقتصادی و سیاسی می‌شود که هم توان بازدارندگی واقعی را کاهش می‌دهد و هم احتمال شدت گرفتن درگیری‌های منطقه‌ای و فروپاشی مقطعی مشروعیت داخلی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Responsible Statecraft",
+        "url": "https://www.msn.com/en-us/news/world/what-if-today-s-iran-is-resigned-to-a-long-hellish-war-with-the-us/ar-AA1WS9sg",
+        "clean_url": "https://www.msn.com/en-us/news/world/what-if-today-s-iran-is-resigned-to-a-long-hellish-war-with-the-us/ar-AA1WS9sg",
+        "image": null,
+        "timestamp": 1772530755.0
     },
     {
         "title_fa": "تشییع‌جنازه جمعی قربانیان حمله آمریکا و اسرائیل به مدرسه در ایران",
@@ -214,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TdGNtTXNFV09zbElMZU9JZEV3TktZV0hrN2doTmRYM3BZQ0tpa2xxU3VPT0ZVT2dOd0ZETnpyWkFuNFNLOVZnNDZaMmNjLS1WNi0zVGZqc0lVMGRGcFlCaVdB0gFnQVVfeXFMTm9Danp0bDcxNS1LMTkyandsQ1RTb1BNaGcxenVLYUp1bXZkeDBwMjNpckw4NEs4TUJYdkt1blNIeTd6Q0pCR2duTmtHVXFPaUlHTUR0alBFVi0xaXhOYlFZWEF0MWJnVQ",
         "image": null,
         "timestamp": 1772508411.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: ایران روز چهارم موشک‌های بیشتری به اسرائیل شلیک کرد؛ ترامپ از تعیین جدول زمانی برای جنگ خودداری می‌کند",
+        "title_en": "Live updates: Iran fires more missiles at Israel on day 4, as Trump declines to put a timeline on the war",
+        "summary": [
+            "ایران برای روز چهارم پیاپی موشک به سوی اسرائیل شلیک کرد و رسانه‌ها تأیید شش کشته آمریکایی را گزارش دادند.",
+            "دونالد ترامپ گفت «هر کاری لازم باشد» انجام می‌دهد و برای مدت نامعلوم آماده اقدام است؛ این گفتار نشان‌دهنده احتمال تشدید مشارکت نظامی آمریکا است.",
+            "تشدید حملات و پاسخ‌های احتمالی متقابل، خطر گسترش سریع درگیری منطقه‌ای را بالا می‌برد و فشار خارجی و هزینه‌های اقتصادی بر تهران را افزوده خواهد کرد."
+        ],
+        "impact": "این دور تازهٔ حملات و تلفات آمریکایی می‌تواند منجر به افزایش فشار دیپلماتیک و اقتصادی و تضعیف بیشتر مشروعیت داخلی حکومت شود.",
+        "tag": "تصعيد",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-day-4-trump-gives-no-timeline-as-gulf-states-attacked/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-day-4-trump-gives-no-timeline-as-gulf-states-attacked",
+        "image": "http://www.bing.com/th?id=OVFT.c77OHhrtv8HGb0AhQYPDJS&pid=News",
+        "timestamp": 1772505720.0
     },
     {
         "title_fa": "هشدار نهادهای فدرال و شهرهای آمریکا درباره تهدیدات تلافی‌جویانه پس از حملات به ایران؛ تهدید مشخصی برای ایلینوی گزارش نشده",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/an-overview-irans-energy-industry-infrastructure-2026-02-28",
         "image": "http://www.bing.com/th?id=OVFT.rkKNn-NgLJmx_5IMA5_I6i&pid=News",
         "timestamp": 1772238360.0
-    },
-    {
-        "title_fa": "ایران و اسرائیل حریم هوایی را پس از حملات مشترک آمریکا-اسرائیل بستند",
-        "title_en": "Iran, Israel close airspace after joint US-Israeli strikes on Iran",
-        "summary": [
-            "ایالات متحده و اسرائیل اقدام به حملاتی کردند که مقامات آن‌ها آن‌ها را «پیش‌دستانه» خواندند؛ انفجارهایی در تهران و چند محل دیگر گزارش شد.",
-            "در پی این حملات، هم ایران و هم اسرائیل حریم هوایی خود را بستند و وضعیت منطقه‌ای به سرعت به سمت نظامی‌شدن حرکت کرد.",
-            "عمل مستقیم نظامی آمریکا و اسرائیل علیه اهداف داخل ایران ساختار امنیتی و سیاسی کنونی رژیم را زیر فشار قرار می‌دهد و احتمال واکنش‌های تلافی‌جویانه و تشدید درگیری را افزایش می‌دهد."
-        ],
-        "impact": "اثر استراتژیک: این حملات فوراً رژیم را در معرض تضعیف سیاسی و فشارهای اقتصادی و دیپلماتیک بیشتر قرار می‌دهد و ریسک گسترش درگیری در منطقه را چشمگیر بالا می‌برد.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The Business Standard",
-        "url": "https://www.tbsnews.net/worldbiz/middle-east/iran-israel-close-airspace-after-joint-us-israeli-strikes-iran-1373071",
-        "clean_url": "https://www.tbsnews.net/worldbiz/middle-east/iran-israel-close-airspace-after-joint-us-israeli-strikes-iran-1373071",
-        "image": null,
-        "timestamp": 1772238240.0
-    },
-    {
-        "title_fa": "متن کامل: ترامپ اعلام کرد «عملیات رزمی عمده» علیه ایران",
-        "title_en": "Full text: Trump announces ‘major combat operations’ in Iran",
-        "summary": [
-            "دونالد ترامپ در ویدئویی در Truth Social اعلام کرد هدف دفاع از مردم آمریکا با «حذف تهدیدات قریب‌الوقوع» از سوی رژیم ایران است و از آغاز «عملیات رزمی عمده» خبر داد.",
-            "اعلام رسمی عملیات رزمی خطر تقابل نظامی مستقیم بین آمریکا و ایران را به شکل قابل توجهی افزایش می‌دهد و ریسک گسترش درگیری در منطقه را بالا می‌برد.",
-            "این اعلان احتمال تشدید فشار خارجی (از جمله افزایش تحریم‌ها و انزوای دیپلماتیک) و تشدید بار اقتصادی را بالا می‌برد؛ پی‌آمدهای اقتصادی و سیاسی می‌تواند ضعف‌های مدیریتی و نارضایتی عمومی داخل ایران را برجسته‌تر کند."
-        ],
-        "impact": "اعلان عملیات رزمی از سوی ترامپ ثبات سیاسی و اقتصادی رژیم را تحت فشار شدید قرار می‌دهد و احتمال واکنش نظامی و بحران‌های اقتصادی-اجتماعی فوری را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "NewsNation",
-        "url": "https://www.newsnationnow.com/world/full-text-trump-announces-major-combat-operations-in-iran/",
-        "clean_url": "https://www.newsnationnow.com/world/full-text-trump-announces-major-combat-operations-in-iran",
-        "image": "http://www.bing.com/th?id=OVFT.0mmVOzwS_sOwm0Q2zwW9fC&pid=News",
-        "timestamp": 1772237700.0
-    },
-    {
-        "title_fa": "آمریکا و اسرائیل به ایران حمله کردند؛ ترامپ: «عملیات عمده رزمی» آغاز شد",
-        "title_en": "US and Israel launch attack on Iran, as Trump says 'major combat operations' under way",
-        "summary": [
-            "واشنگتن و تل‌آویو عملیات نظامی علیه ایران را آغاز کردند؛ دونالد ترامپ از «عملیات عمده رزمی» خبر داد، بنیامین نتانیاهو و ارتش اسرائیل حمله را «پیش‌دستانه» خواندند و گزارش‌هایی درباره شلیک موشک‌های تلافی‌جویانه و انفجار در پنج شهر از جمله تهران منتشر شد.",
-            "خبر به روشن کردن افزایش فشار آمریکا برای رسیدن به توافق هسته‌ای اشاره می‌کند؛ تبدیل فشار دیپلماتیک به ضربه نظامی ساختار تضعیف رژیم را تشدید می‌کند، هزینه‌های اقتصادی و انزوای دیپلماتیک را افزایش می‌دهد و زمینه را برای تشدید تحریم‌ها و اختلال در زیرساخت‌ها فراهم می‌سازد.",
-            "گزارش بر محدودیت دسترسی رسانه‌های بین‌المللی به ایران تاکید دارد که اطلاعات عینی را محدود می‌کند؛ در این فضای اطلاعاتی بسته، ارزیابی اوضاع داخلی دشوار است و احتمال افزایش سرکوب و تشدید بی‌ثباتی اقتصادی و اجتماعی وجود دارد."
-        ],
-        "impact": "حمله مشترک آمریکا و اسرائیل ثبات نظام سیاسی و توان اقتصادی ایران را به صورت قابل‌ملاحظه‌ای تضعیف و فشار برای اقدامات تامینی و سرکوب داخلی را تشدید می‌کند.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/cn5ge95q6y7t",
-        "clean_url": "https://www.bbc.com/news/live/cn5ge95q6y7t",
-        "image": null,
-        "timestamp": 1772236980.0
     }
 ]
