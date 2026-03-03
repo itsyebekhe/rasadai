@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "با ادامه بمباران، هدف اسرائیل در ایران مشخص شد: تغییر رژیم",
+        "title_en": "As bombing continues, Israel’s war aim in Iran becomes clear: Regime change",
+        "summary": [
+            "گزارش می‌گوید اسرائیل همراه با ایالات متحده حملات مشترکی را علیه ایران اجرا می‌کند که هدف آشکار آن تسهیل تغییر رژیم از درون است.",
+            "بنیامین نتانیاهو به‌صورت مستقیم از مردم ایران خواسته تا میلیونی به خیابان‌ها بریزند و رژیم «ترس» را سرنگون کنند؛ اما اهداف رسمی آشکار نیست و تمرکز بر فروپاشی ساختاری است نه انتقال آرام قدرت.",
+            "رویکرد تسریع فروپاشی به‌جای تغییر تدریجی، فشار نظامی-سیاسی خارجی را بر ساختارهای امنیتی و اقتصادی ایران افزایش می‌دهد و احتمال تشدید اعتراضات و بی‌ثباتی داخلی و منطقه‌ای را بالا می‌برد."
+        ],
+        "impact": "پیامد فوری محتمل: افزایش فشار بر حکومت، تشدید ناآرامی‌های داخلی و گسترش مخاطرات امنیتی در منطقه.",
+        "tag": "تغییررژیم",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/bombing-continues-israel-war-aim-050853455.html",
+        "clean_url": "https://www.yahoo.com/news/articles/bombing-continues-israel-war-aim-050853455.html",
+        "image": null,
+        "timestamp": 1772514680.0
+    },
+    {
+        "title_fa": "نتانیاهو می‌گوید جنگ با ایران ممکن است «مدتی» طول بکشد، اما نه سال‌ها",
+        "title_en": "Netanyahu says war against Iran may take 'some time', but not years",
+        "summary": [
+            "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، حرف از امکان جنگ با ایران زده و تأکید کرده که درگیری ممکن است «مدتی» طول بکشد اما نه سال‌ها — زبانی صریح برای آماده‌باش نظامی و فشار راهبردی.",
+            "چنین اظهاراتی نرخ خطر تشدید فشارهای خارجی و احتمال اقدام‌های تحریمی یا نظامی را بالا می‌برد؛ از منظر تحلیل ساختاری این فشارها می‌توانند ضعف‌های اقتصادی و منابع تدارکاتی رژیم را بیش از پیش آشکار کنند.",
+            "گسترش تهدید نظامی فوراً هزینه‌های اقتصادی و اجتماعی را افزایش می‌دهد و خطر تشدید نارضایتی عمومی و فشار بر مدیریت ناپایدار اقتصاد را بالا می‌برد؛ واکنش داخلی به گزینه‌های حکومتی را سخت‌تر خواهد کرد."
+        ],
+        "impact": "اظهارات نتانیاهو خطر تشدید درگیری و فشارهای بین‌المللی را بالا می‌برد که می‌تواند ثبات سیاسی و ظرفیت اقتصادی ایران را به طور معناداری تضعیف کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUdVU2pYR1hJeG9pM29yem1ocjBBZ3VHRnU4cGI3RHJnQ0gwdG1QMzVnajBubTBXUFBZaDJ1Y2FHUVcyNmtXREJHV2kxUExjLWxpaEZydkRZVTRoeEpXdldJSkRBQVRmeFZsOWo1MzJfOENtcmI0c0dYZG1PR2oyUmMwWGxtXzd2Qm1DNWtsMmtVczc5bmxTY2xLMmQ0VzdDRUkwdG5Id0txSkNnRm5KOGtZWF8?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVUdVU2pYR1hJeG9pM29yem1ocjBBZ3VHRnU4cGI3RHJnQ0gwdG1QMzVnajBubTBXUFBZaDJ1Y2FHUVcyNmtXREJHV2kxUExjLWxpaEZydkRZVTRoeEpXdldJSkRBQVRmeFZsOWo1MzJfOENtcmI0c0dYZG1PR2oyUmMwWGxtXzd2Qm1DNWtsMmtVczc5bmxTY2xLMmQ0VzdDRUkwdG5Id0txSkNnRm5KOGtZWF8",
+        "image": null,
+        "timestamp": 1772509380.0
+    },
+    {
         "title_fa": "نتانیاهو: حمله لازم بود چون ایران ماه‌ها با مقاوم‌سازی برنامه‌های هسته‌ای و موشکی فاصله داشت",
         "title_en": "Netanyahu: Attack was needed since Iran was months away from making its nuclear, missile programs immune",
         "summary": [
@@ -126,6 +162,24 @@
         "timestamp": 1772489358.0
     },
     {
+        "title_fa": "پیام جنگ ترامپ با ایران: تهدیدهای اغراق‌شده و اهداف متضاد و متغیر",
+        "title_en": "Trump’s Iran war message marked by exaggerated threats and shifting, contradictory goals",
+        "summary": [
+            "حملات مشترک آمریکا و اسرائیل که منجر به کشته شدن علی خامنه‌ای، رهبر جمهوری اسلامی شد، با توجیهاتی همراه بود که مقامات کاخ سفید آنها را بارها تغییر دادند و در برخی موارد با اظهارات اطلاعاتی پنتاگون در تضاد بود.",
+            "دولت ترامپ بین توجیه دفاع از معترضان دی‌ماه، جلوگیری از دستیابی ایران به ظرفیت هسته‌ای و دوربرد، و مقابله با حمایت رژیم از گروه‌های «تروریستی» نوسان کرد؛ این تغییر مکرر اهداف را در جلسات کنگره اذعان کردند.",
+            "ابهام و اغراق در پیام‌رسانی‌ای که برای توجیه حملات ارائه شد، اعتبار استراتژیک ایالات متحده را تضعیف می‌کند و فشار خارجی-نظامی بر رژیم را تشدید می‌نماید در حالی که نارضایتی داخلی و اعتراضات ماه‌های اخیر در ایران زمینه بالقوه بی‌ثباتی را افزایش داده‌اند."
+        ],
+        "impact": "حمله‌های نظامی و پیام‌های متناقض کاخ سفید ساختار مشروعیت و توان عملیاتی رژیم را تضعیف کرده و خطر گسترش بی‌ثباتی داخلی و منطقه‌ای را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": 0.35,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/03/03/politics/trump-iran-war-explanations-goals",
+        "clean_url": "https://www.cnn.com/2026/03/03/politics/trump-iran-war-explanations-goals",
+        "image": null,
+        "timestamp": 1772485200.0
+    },
+    {
         "title_fa": "چگونه جنگ ترامپ با ایران می‌تواند موفق شود یا فاجعه‌بار پیش برود",
         "title_en": "How Trump’s war on Iran could succeed — or go disastrously wrong",
         "summary": [
@@ -142,6 +196,24 @@
         "clean_url": "https://www.cnn.com/2026/03/03/politics/analysis-trump-iran-war-outcomes",
         "image": null,
         "timestamp": 1772485200.0
+    },
+    {
+        "title_fa": "به‌روزرسانی جنگ با ایران: سفارت آمریکا در ریاض هدف پهپاد قرار گرفت؛ ترامپ وعده پاسخ 'به‌زودی' داد",
+        "title_en": "Iran war live updates: U.S. embassy in Riyadh hit by drones, Trump promises response 'soon'",
+        "summary": [
+            "تشدید نظامی سریع: حملات پهپادی به سفارت آمریکا در ریاض، شش کشته در میان نیروهای آمریکایی، سقوط سه اف-۱۵ بر فراز کویت و حملات متقابل اسرائیل علیه اهداف در ایران و لبنان نشان می‌دهد درگیری وارد روز چهارم شده و احتمال ادامه فراتر از برآوردهای اولیه وجود دارد.",
+            "اختلال اقتصادی و زیرساختی جدی: اعلام بسته‌شدن تنگه هرمز، لغو هزاران پرواز، جهش قیمت نفت و طلا و قطع بخشی از مراکز داده آمازون به خاطر حملات پهپادی، فشار فوری بر بازارهای جهانی و زنجیره‌های تأمین را افزایش داده است.",
+            "فشار سیاسی و دیپلماتیک بر حکومت ایران: فراخوان وزارت خارجه آمریکا برای خروج شهروندان از ۱۴ کشور، ارسال نیروهای بیشتر آمریکایی به منطقه و تلاش کنگره برای تصویب قطعنامه اختیارات جنگی نشان‌دهنده منزوی شدن دیپلماتیک و افزایش هزینه‌های بین‌المللی برای تهران است."
+        ],
+        "impact": "این موج حملات و واکنش‌های بین‌المللی، ثبات سیاسی و توان اقتصادی حکومت را تضعیف می‌کند و احتمال واکنش‌های شدیدتر و هزینه‌های بلندمدت برای ادامه حاکمیت را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/03/us-iran-war-live-updates.html",
+        "clean_url": "https://www.cnbc.com/2026/03/03/us-iran-war-live-updates.html",
+        "image": null,
+        "timestamp": 1772483160.0
     },
     {
         "title_fa": "منطقه به صلح نیاز دارد؛ ایران باید به تعهدات بین‌المللی عمل کند",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQXhIQzFiVzBVRjZLSFIzREhUd3hRcjNIOFA0VEpZNENnSlVTT0ZLclpaWHlyOV9JdERGa2ZjamlBNmtmVWZJYkxfcktnN1NIckxTWXZwYmRaUjJuSm5uTVU0OU5Ra1hFV2V0QnMzNXltUjQyNjBQOFN3aFNGMWJoR2dROHFuSlJsY21Nanh0OVRmMXQtSjZLMHlrREZibUtnRF91R1c4NzJjRVZMeEo4eFdiTDhnVFN4TURORXE5VElDTEI0Z1HSAcsBQVVfeXFMUHN2dXJUS216blYxMHRFYU9kQWpPMG81dXlZMWRKQ2I5OVh1TmhUMGw2clFkNDJIY3pmODZQamJocTZib0lJOWxKOU1wLVJoZnFfdXFUQ1ZDWnB0VlBxU1cxNHVGMVFhRTFwUzhoMmNmQVNuUlppUUx1VkJvUjVINmhVbFBZdW5iRUpqU2hWN3pEZUtubjVVTDJKd3R0UHZ4TG5qczBHaG1iVHc0RTkxcE5zMGhrOWltVW8wa1hacVZiYWs1TEw3MmEtSlU",
         "image": null,
         "timestamp": 1772219173.0
-    },
-    {
-        "title_fa": "مارکو روبیو هفته آینده از اسرائیل بازدید می‌کند؛ تنش‌های آمریکا و ایران پس از آخرین گفتگوها همچنان بالا است",
-        "title_en": "Rubio plans to visit Israel next week as U.S.-Iran tensions remain high after latest talks",
-        "summary": [
-            "اعلام برنامه بازدید سناتور مارکو روبیو از اسرائیل نشانه ادامه هم‌راستایی سیاسی واشینگتن با تل‌آویو و تداوم سطح بالای تنش آمریکا-ایران پس از مذاکرات اخیر است.",
-            "این اقدام یک سیگنال سیاسی به سوی مواضع سخت‌گیرانه‌تر است که می‌تواند فضای دیپلماتیک را محدود و گزینه‌های مصالحه را تضعیف کند.",
-            "در صورتی که این روند ادامه یابد، پیامد آن افزایش فشار خارجی بر ساختار قدرت در ایران و تشدید مشکلات اقتصادی و نارضایتی‌های عمومی خواهد بود."
-        ],
-        "impact": "افزایش فشار سیاسی و دیپلماتیک می‌تواند به تضعیف ساختاری بقا و افزایش شکنندگی اقتصادی-اجتماعی در داخل ایران بینجامد.",
-        "tag": "تنش",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "PBS",
-        "url": "https://www.djournal.com/news/nation-world/rubio-plans-to-visit-israel-next-week-as-us-iran-tensions-remain-high-after-latest/article_61c704e6-649c-52d6-9b9d-fd95986524b1.html",
-        "clean_url": "https://www.djournal.com/news/nation-world/rubio-plans-to-visit-israel-next-week-as-us-iran-tensions-remain-high-after-latest/article_61c704e6-649c-52d6-9b9d-fd95986524b1.html",
-        "image": null,
-        "timestamp": 1772212489.0
-    },
-    {
-        "title_fa": "ایران: آمریکا باید «خواست‌های افراطی» را در مذاکرات هسته‌ای کنار بگذارد",
-        "title_en": "Iran says US must drop ‘excessive demands’ in nuclear negotiations",
-        "summary": [
-            "عباس عراقچی، وزیر خارجه ایران، در تماس تلفنی با بدر عبدالعاطی از مصر گفت موفقیت نیازمند «جدیت و واقع‌گرایی» طرف مقابل و اجتناب از محاسبه غلط و خواسته‌های افراطی است؛ او توضیح نداد منظور از این خواسته‌ها دقیقاً چیست.",
-            "عراقچی پیشتر از «پیشرفت» در دور اخیر گفت و از «شدیدترین» مذاکرات تا کنون سخن گفت؛ توافق شده ادامه گفت‌وگوها روی موضوعات کلیدی از جمله پایان تحریم‌ها و اقدامات هسته‌ای به‌طور تفصیلی دنبال شود و تیم‌های فنی موازی در وین کار کنند.",
-            "آمریکا خواستار نابودی زیرساخت‌های هسته‌ای ایران، محدودسازی موشک‌های بالستیک و قطع حمایت از متحدان منطقه‌ای شده؛ تهران موشک‌ها و شبکه‌های منطقه‌ای را غیرقابل مذاکره دانسته، هم‌زمان واشنگتن تهدید به حمله کرده و حضور نظامی عظیم از جمله ورود ناو هواپیمابر به خلیج شرق میانه و خروج کارکنان غیرضروری سفارت‌ها را افزایش داده که خطر تقابل را بالا برده است."
-        ],
-        "impact": "حفظ خواسته‌های افراطی واشنگتن احتمال بن‌بست مذاکرات را بالا می‌برد، فشار تحریمی و اقتصادی را تشدید می‌کند و ثبات سیاسی رژیم را تضعیف و خطر تقابل نظامی منطقه‌ای را افزایش خواهد داد.",
-        "tag": "مذاکرات",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-says-us-must-drop-163116942.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-says-us-must-drop-163116942.html",
-        "image": null,
-        "timestamp": 1772210154.0
-    },
-    {
-        "title_fa": "پرسش و پاسخ: ایران و آمریکا بار دیگر در آستانه جنگ؛ چه انتظاری باید داشت؟",
-        "title_en": "Q&A: Iran and the US are back on the edge of war. What's coming?",
-        "summary": [
-            "عنوان خبر نشان‌دهنده بازگشت سطح بالای تنش‌های نظامی بین ایران و آمریکا است که خطر تبدیل به درگیری مستقیم یا گسترده‌تر را افزایش می‌دهد.",
-            "افزایش تنش‌ها به‌صورت بالقوه فشارهای خارجی و تحریم‌ها را تشدید می‌کند؛ این فشارها ساختار اقتصادی رژیم را ضعیف‌تر کرده و نارضایتی اجتماعی را تشدید می‌کنند.",
-            "امنیت داخلی و مدیریت بحران رژیم زیر آزمون قرار می‌گیرد؛ احتمال افزایش سرکوب برای کنترل اعتراضات وجود دارد که خود می‌تواند ناپایداری سیاسی را عمیق‌تر کند."
-        ],
-        "impact": "قرار گرفتن در آستانه جنگ خطر فروپاشی تدریجیِ توان مدیریتی و اقتصادی رژیم را بالا می‌برد و می‌تواند به موج‌های جدید تحریم و ناآرامی داخلی منجر شود.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "ACLED",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CLU9vT3VRdXp1NWRrNlBKemQ5ZGk5dlpzeFlJdXdxdThaTUFXZF9nOWFma3l4NFpiVUc0RGU0QWphcFU4UGhNRnlmNVpNcWFQYVNzWXdqRjVpRkRLZkNhU3Z1Y29NNExjU1BZRGdWYlQ4SUxaRE8zZjNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5CLU9vT3VRdXp1NWRrNlBKemQ5ZGk5dlpzeFlJdXdxdThaTUFXZF9nOWFma3l4NFpiVUc0RGU0QWphcFU4UGhNRnlmNVpNcWFQYVNzWXdqRjVpRkRLZkNhU3Z1Y29NNExjU1BZRGdWYlQ4SUxaRE8zZjNR",
-        "image": null,
-        "timestamp": 1772207179.0
-    },
-    {
-        "title_fa": "مشارکت آمریکا در حملات اسرائیل علیه ایران؛ تشدید تقابل نظامی",
-        "title_en": "U.S. is participating in Israeli strikes against Iran",
-        "summary": [
-            "اطلاعیه: گزارش می‌گوید ایالات متحده در کنار اسرائیل علیه اهداف مرتبط با ایران ضربه می‌زند — حضور مستقیم آمریکا شدت تنش نظامی را افزایش می‌دهد و صراحتاً به مرحله‌ای از تقابل بین‌المللی تبدیل شده است.",
-            "تحلیل فشار خارجی: مشارکت آمریکا احتمالاً فضای فشار خارجی را تقویت و توان مانور سیاسی-نظامی حکومت را تضعیف می‌کند؛ این امر می‌تواند دسترسی به خطوط تامین، سرمایه‌گذاری خارجی و ظرفیت وارداتی را تحت تاثیر قرار دهد و به گسترش انزوای بین‌المللی بینجامد.",
-            "پیامدهای داخلی و اقتصادی: این تشدید نظامی ضعف‌های مدیریتی و ناتوانی در تضمین امنیت را برجسته می‌کند؛ نتیجه محتمل شامل نوسانات بازارها، تشدید تضعیف مشروعیت حکومت و افزایش پتانسیل نارضایتی و بی‌ثباتی سیاسی است."
-        ],
-        "impact": "مشارکت نظامی آمریکا همراه اسرائیل عملاً فشار استراتژیک را بالا می‌برد و احتمال تسریع در بحران امنیتی و مشروعیت داخلی را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/world-nation/story/2026-02-27/us-participating-in-israeli-strikes-against-iran",
-        "clean_url": "https://www.latimes.com/world-nation/story/2026-02-27/us-participating-in-israeli-strikes-against-iran",
-        "image": "http://www.bing.com/th?id=OVFT.y6BiutKOSwaW31uB0QEhwC&pid=News",
-        "timestamp": 1772206200.0
     }
 ]
