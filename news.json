@@ -72,6 +72,24 @@
         "timestamp": 1772654602.0
     },
     {
+        "title_fa": "پایش درگیری‌های خاورمیانه (ACLED)",
+        "title_en": "Middle East Conflict Monitor",
+        "summary": [
+            "ACLED گزارشی تحت عنوان «پایش درگیری‌های خاورمیانه» منتشر کرده؛ مرجع داده‌ای برای ثبت و رصد رخدادهای خشونت‌آمیز و تجمعات سیاسی در منطقه است.",
+            "این پایش بر جمع‌آوری داده‌های میدانی و منابع باز تکیه دارد تا الگوهای درگیری، حملات و اعتراضات را به‌صورت زمان‌محور نقشه‌برداری کند.",
+            "ابزار مورد استفاده برای تحلیلگران امنیتی، دیپلمات‌ها و ناظران داخلی است و می‌تواند درک از دینامیک‌های منطقه‌ای را تقویت کند، اما نیاز به تفسیر دقیق و بررسی میدانی دارد."
+        ],
+        "impact": "وجود این پایش داده‌محور امکان تحلیل دقیق‌تر روندهای خشونت و اعتراض در خاورمیانه را فراهم می‌کند، اما خودِ داده بدون تفسیر میدانی و پیگیری سیاسی تاثیری محدود خواهد داشت.",
+        "tag": "درگیری",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "ACLED",
+        "url": "https://www.msn.com/en-us/money/markets/us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies/ar-AA1Xwt4x",
+        "clean_url": "https://www.msn.com/en-us/money/markets/us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies/ar-AA1Xwt4x",
+        "image": null,
+        "timestamp": 1772654526.0
+    },
+    {
         "title_fa": "تحلیل: چرا پرتاب‌های موشکی بالیستیک ایران در حال کاهش است",
         "title_en": "Analysis: Why Iran’s ballistic missile launches are declining",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/hegseth-says-us-torpedo-sank-an-iranian-warship-as-military-campaign-ramps-up/ar-AA1XvGrP",
         "image": null,
         "timestamp": 1772647245.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: جمهوری‌خواهان سنا محدودیت اختیارات جنگی را مسدود کردند؛ بحران خاورمیانه گسترش یافت",
+        "title_en": "Live Updates: Senate Republicans Block War Powers Limits as Mideast Crisis Widens",
+        "summary": [
+            "جمهوری‌خواهان سنا با مسدود کردن طرحی که مانع از اقدام نظامی دونالد ترامپ، رئیس‌جمهور آمریکا، علیه ایران بدون مجوز کنگره می‌شد، ظرفیت اقدام نظامی یک‌جانبه واشنگتن را حفظ کردند؛ در عمل احتمال تشدید حملات هوایی علیه اهداف مرتبط با ایران افزایش یافته است.",
+            "مقامات آمریکایی می‌گویند حملات هوایی در حال تشدید است و چند کشور نیروهای تقویتی به منطقه فرستاده‌اند؛ این تحرکات نظامی خارجی موقعیت راهبردی حکومت ایران را در معرض فشار شدیدتر قرار می‌دهد.",
+            "در داخل ایران، تشدید فشار خارجی می‌تواند هزینه‌های اقتصادی و سیاسی را برای مردم و حاکمیت بالا ببرد — افزایش نااطمینانی اقتصادی، فشار بر تجارت منطقه‌ای و احتمال تشدید سرکوب داخلی محتمل است."
+        ],
+        "impact": "مسدود شدن محدودیت‌ها راه را برای عملیات نظامی یک‌جانبه آمریکا هموار می‌کند و فشار خارجی فزاینده خطر بی‌ثباتی سیاسی و اقتصادی را برای رژیم ایران افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump",
+        "clean_url": "https://www.nytimes.com/live/2026/03/04/world/iran-war-israel-lebanon-trump",
+        "image": null,
+        "timestamp": 1772646480.0
     },
     {
         "title_fa": "فرانسه ناو هواپیمابر به مدیترانه اعزام کرد؛ اسپانیا در برابر درخواست آمریکا مقاومت کرد",
@@ -252,6 +288,24 @@
         "timestamp": 1772635224.0
     },
     {
+        "title_fa": "سنای آمریکا تلاش برای محدود کردن اختیارات جنگی ترامپ علیه ایران را ناکام گذاشت",
+        "title_en": "Senate Thwarts Bid to Curb Trump’s War Powers on Iran",
+        "summary": [
+            "اکثریت قریب به اتفاق جمهوریخواهان در سنا طرحی را که نیازمند کسب مجوز کنگره برای ادامه تهاجم در خاورمیانه بود، مسدود کردند؛ بنابراین نظارت قانونگذاری بر ادامه عملیات تهاجمی کاهش یافت.",
+            "این شکست به معنای حفظ اختیار فرماندهی اجرایی برای ادامه عملیات نظامی بدون تصویب صریح کنگره است و امکان تداوم اقدامات یک‌جانبه را افزایش می‌دهد.",
+            "برای ایران این تصمیم می‌تواند به معنای احتمال مواجهه با فشار نظامی بلندمدت‌تر و تشدید فشارهای سیاسی-اقتصادی در داخل باشد که می‌تواند نارضایتی عمومی را افزایش دهد."
+        ],
+        "impact": "مسدود شدن این محدودیت نظارتی خطر تداوم عملیات نظامی آمریکا در منطقه را بالا برده و فشار بر حکومت ایران را تشدید می‌کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html",
+        "image": "http://www.bing.com/th?id=OVFT.B76JnTLoi7usmcDR_JNIbC&pid=News",
+        "timestamp": 1772634720.0
+    },
+    {
         "title_fa": "اسپانیا تهدیدهای تجاری ترامپ را رد کرد؛ از مشارکت در رویارویی با ایران خودداری",
         "title_en": "‘No to War’: Spain Rebukes Trump’s Trade Threats, Refuses to Aid Iran Conflict",
         "summary": [
@@ -268,6 +322,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxOUNDQmRWWEotTzFSOVRVWjA2dFRkODZlSS1OWVp1enNwWGhLUl8zWHhuMXc2Y0NNaHp4SUd0RExOOE1MS1JGSHdqZkkwbk9HSUpZLU9iREZhY1pmOHZnT2ItcFNzenpsekRrOTJkZWxwemF2cl9hVURIdXc",
         "image": null,
         "timestamp": 1772633172.0
+    },
+    {
+        "title_fa": "هِگستِث: آمریکا «شتاب‌دهنده» جنگ با ایران است؛ کاخ سفید خواهان همکاری متحدان",
+        "title_en": "Hegseth says U.S. is ‘accelerating’ war on Iran, as White House demands allied cooperation",
+        "summary": [
+            "اظهارنظر هِگستِث که می‌گوید آمریکا در حال «شتاب‌دهی» به جنگ علیه ایران است، یک هشدار رسانه‌ای-سیاسی مبنی بر تشدید گفتمان جنگی در محافل هوادار تعرض است؛ این اعلام را باید به عنوان ادعایی سیاسی دید، نه سند رسمی عملیات.",
+            "درخواست کاخ سفید برای همکاری متحدان نشان‌دهنده تلاش برای هم‌افزایی فشارهای خارجی؛ این نوع هماهنگی می‌تواند ابزارهای تحریمی و دیپلماتیک را تقویت کرده، منابع اقتصادی و خطوط تأمین رژیم را از نظر ساختاری ضعیف‌تر کند و بار سیاسی داخلی حکومت را افزایش دهد.",
+            "هر گونه افزایش فشار خارجی که با هماهنگی متحدان همراه باشد پتانسیل دارد بار اقتصادی و سیاسی بر طبقات محروم را تشدید کند و از ناکامی‌های مدیریتی رژیم برای افزایش نارضایتی عمومی بهره‌برداری نماید — اما شواهد مستقیم در متن گزارش محدود است و نباید فراتر از ادعاها رفت."
+        ],
+        "impact": "این ترکیبِ گفتمان جنگی و طلبِ همکاری متحدان، رژیم را در معرض فشار اقتصادی-سیاسی فزاینده قرار می‌دهد و فضای نرم و سخت‌افزاری را برای تشدید تنش نظامی و افزایش نارضایتی داخلی باز می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Los Angeles Times",
+        "url": "https://www.latimes.com/politics/story/2026-03-04/hegseth-says-u-s-is-accelerating-war-on-iran-but-strike-at-turkey-wont-trigger-nato",
+        "clean_url": "https://www.latimes.com/politics/story/2026-03-04/hegseth-says-u-s-is-accelerating-war-on-iran-but-strike-at-turkey-wont-trigger-nato",
+        "image": null,
+        "timestamp": 1772632800.0
     },
     {
         "title_fa": "کاخ سفید: نیروهای زمینی آمریکا بخشی از طرح جنگ علیه ایران نیستند",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/03/01/middleeast/iran-new-supreme-leader-khamenei-dead-intl-latam",
         "image": null,
         "timestamp": 1772360040.0
-    },
-    {
-        "title_fa": "خط زمانی: چگونه کشمکش‌ها به تصمیم ترامپ برای حمله به ایران انجامید",
-        "title_en": "Timeline of how hostilities led to Trump's decision to attack Iran",
-        "summary": [
-            "متن کامل مقاله در دسترس نیست؛ بنا بر تیتر، گزارش قرار است خط زمانی حوادث و نقاط عطفی را که به تصمیم رئیس‌جمهور آمریکا برای حمله منجر شد شرح دهد، اما جزئیات و منابع قابل‌تحقق در این نسخه ارائه نشده‌اند.",
-            "از منظر تحریم‌ها و فشار خارجی: هر تصمیم نظامی آمریکا در بستر فشار اقتصادی و دیپلماتیک قابل‌درک است و تداوم چنین فشاری ساختارهای اقتصادی رژیم را تضعیف و ظرفیت بقا و مشروعیت آن را کاهش می‌دهد.",
-            "پیامدهای داخلی: تشدید نظامی و بی‌ثباتی خارجی می‌تواند نارضایتی عمومی را تشدید کند؛ ضعف مدیریت اقتصادی و حکمرانی نظام، زمینه‌های اعتراض و بی‌ثباتی را فراهم می‌آورد—با این حال مقاله حاضر شواهد مستقیم برای این پیوندها ارائه نمی‌دهد."
-        ],
-        "impact": "با دسترسی محدود به متن، واضح است که هر تصمیم به حمله می‌تواند ثبات داخلی ایران را تشدیداً به خطر بیندازد و فشارهای اقتصادی-سیاسی را به سطح انفجاری برساند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/graphics/2026/03/01/us-attack-on-iran-timeline-2026/88933055007/",
-        "clean_url": "https://www.usatoday.com/story/graphics/2026/03/01/us-attack-on-iran-timeline-2026/88933055007",
-        "image": "http://www.bing.com/th?id=OVFT.NmA2_0GcdV464WQ4nF4DEy&pid=News",
-        "timestamp": 1772359740.0
-    },
-    {
-        "title_fa": "حملات تازه آمریکا و اسرائیل به ایران پس از کشته‌شدن علی خامنه‌ای",
-        "title_en": "Live Updates: U.S.-Israel launch another round of strikes on Iran following Khamenei's killing",
-        "summary": [
-            "آمریکا و اسرائیل دور دیگری از حملات نظامی علیه اهداف در ایران را بلافاصله پس از گزارش کشته‌شدن علی خامنه‌ای آغاز کردند؛ خبر اصلی حاکی از تشدید مستقیم رویارویی نظامی است.",
-            "فشار خارجیِ مستقیمِ مبتنی بر حملات هوایی و موشکی ساختار اقتدار رژیم را هدف قرار می‌دهد: این فشار می‌تواند توان کنترلی و لجستیکی نیروهای مسلح و شبکه تصمیم‌گیری را تضعیف کند و فضای سیاسی را به سمت انزوای بین‌المللی و افزایش هزینه‌های نظامی سوق دهد.",
-            "پیامد داخلیِ فوری شامل تشدید سرکوب، محدودیت بیشتر بر اعتراضات و اختلال در اقتصاد (افزایش ناپایداری بازارها، کاهش سرمایه‌گذاری و فشار بر تأمین انرژی و زنجیره‌های تدارکاتی) خواهد بود که مشروعیت رژیم را بیشتر فرسایش می‌دهد."
-        ],
-        "impact": "این تحرک نظامی می‌تواند تسریع‌کننده فروپاشی اقتدار داخلی رژیم باشد و هم‌زمان شانس گسترش درگیری‌های منطقه‌ای و بحران انسانی را افزایش دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnd2WWxoXzJid19HY3gwZzB3LWd4QzRuTEVleUFiLW9JN09qSHF5T2hxYlptREFWRjJIY05wYndiRDExWHBGNU03Yjdta2ZFQU45NGFUZDYtVi1IVjBEbDF5dVlHU2ZDUnZmNGxxU1h1bGt3ZVNiZjZmZUt4UlJoNVdXRmpLWGpPZWdYTzJ6b3lmZUlYLWdtQ1Rn0gGfAUFVX3lxTFBDUHlVTHg3czNabWVTOFVxQlV0Sjd4OEVvcWV4YkI5cmdmOVFJY2tSNEJVaEhBSmNNbmdNbTZENUZqd1p3SGVHUi1GbWZ3X3NSR1BUZmpMWkd3ZENwWTR5V1JoZkpINjdzcWhnRnoyaUF3d1JwZ0V3YWc2TW1MUkk2V1Jxbi1nOVZrMHFIYzdPb3RRcFNsdzZWeDF6ZlhVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnd2WWxoXzJid19HY3gwZzB3LWd4QzRuTEVleUFiLW9JN09qSHF5T2hxYlptREFWRjJIY05wYndiRDExWHBGNU03Yjdta2ZFQU45NGFUZDYtVi1IVjBEbDF5dVlHU2ZDUnZmNGxxU1h1bGt3ZVNiZjZmZUt4UlJoNVdXRmpLWGpPZWdYTzJ6b3lmZUlYLWdtQ1Rn0gGfAUFVX3lxTFBDUHlVTHg3czNabWVTOFVxQlV0Sjd4OEVvcWV4YkI5cmdmOVFJY2tSNEJVaEhBSmNNbmdNbTZENUZqd1p3SGVHUi1GbWZ3X3NSR1BUZmpMWkd3ZENwWTR5V1JoZkpINjdzcWhnRnoyaUF3d1JwZ0V3YWc2TW1MUkk2V1Jxbi1nOVZrMHFIYzdPb3RRcFNsdzZWeDF6ZlhVZw",
-        "image": null,
-        "timestamp": 1772359735.0
-    },
-    {
-        "title_fa": "مرگ خامنه‌ای تهران را در وضعیت جنگی قرار می‌دهد؛ جهان در انتظار واکنش شدیدتر",
-        "title_en": "Iran may 'lash out harder' as Khamenei's death puts Tehran on a war footing, leaving the world bracing for what's next",
-        "summary": [
-            "مرگ خامنه‌ای تهران را در حالت جنگی قرار داده و ناظران هشدار می‌دهند که رژیم ممکن است برای نمایش قدرت و منحرف‌سازی توجه از بحران داخلی به واکنش‌های تهاجمی‌تر دست بزند.",
-            "خلأ رهبری و خطر بحران جانشینی ساختار سیاسی را تضعیف می‌کند؛ ضعف مدیریتی بلندمدت و نارضایتی عمومی اقتصادی و سیاسی می‌تواند رژیم را به سرکوب داخلی و افزایش عملیات برون‌مرزی سوق دهد.",
-            "تحریم‌ها و فشار خارجی به طور ساختاری توان اقتصادی و مشروعیت رژیم را کاهش داده‌اند؛ ادامه یا تشدید این فشارها منابع را محدود و انگیزه‌های تلافی‌جویانه یا تقویت نیابتی‌ها را افزایش می‌دهد."
-        ],
-        "impact": "احتمال افزایش حملات منطقه‌ای، عملیات نیابتی و تشدید سرکوب داخلی بالا رفته که ثبات داخلی و منطقه‌ای را به طور چشمگیری تضعیف خواهد کرد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWpMbl80VUs0N3ZsSS1HN004bkJ0TTJDOUFwVllzUllrMU1fcTRnX0Rrb2d2UXY3Z2VxLUVReVkxU2dSc2hRN01fUnRwR3hwdmJHNUFlbUhiVUJac3FrQlZDTUJQQmhENXlXMUF6dnJhU2tDdEl5aWY0aUNLMEJLbHFnaUF2NUxjREtCWV9hT191dmtIb1drY0czTkNnZ9IBowFBVV95cUxPQUhPR0FqNzBneF85SDFoQXE5enRfU05PZ1BDVVJiZDR6RmtVRUZRXzR0Z2F4ZUd4UER0WjlETUs1Tmp3UWFsc2R0YkxsWTBvYTFJYXhNbzJOZC1jMVUwUTZLczhHQThKSzlQWUZLWXNHejAtbnk5VDg4VDZYd3J3dE81OFA1enp2eUl2VlZnLUdpb2laaVkxZGpJQ3JmMDBnZjVN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWpMbl80VUs0N3ZsSS1HN004bkJ0TTJDOUFwVllzUllrMU1fcTRnX0Rrb2d2UXY3Z2VxLUVReVkxU2dSc2hRN01fUnRwR3hwdmJHNUFlbUhiVUJac3FrQlZDTUJQQmhENXlXMUF6dnJhU2tDdEl5aWY0aUNLMEJLbHFnaUF2NUxjREtCWV9hT191dmtIb1drY0czTkNnZ9IBowFBVV95cUxPQUhPR0FqNzBneF85SDFoQXE5enRfU05PZ1BDVVJiZDR6RmtVRUZRXzR0Z2F4ZUd4UER0WjlETUs1Tmp3UWFsc2R0YkxsWTBvYTFJYXhNbzJOZC1jMVUwUTZLczhHQThKSzlQWUZLWXNHejAtbnk5VDg4VDZYd3J3dE81OFA1enp2eUl2VlZnLUdpb2laaVkxZGpJQ3JmMDBnZjVN",
-        "image": null,
-        "timestamp": 1772356880.0
-    },
-    {
-        "title_fa": "نظارت طولانیِ CIA و اسرائیل پیش از حملات مرگبار به خامنه‌ای و دیگر رهبران ایران",
-        "title_en": "CIA closely watched Khamenei for months before fatal strikes in Iran",
-        "summary": [
-            "نظریه میدانی: CIA و اطلاعات اسرائیل ماه‌ها الگوهای روزمره خامنه‌ای و جمع‌شدن رهبران ارشد را زیرنظر داشتند و فرصت هم‌زمان بودن اجلاس‌ها در مجموعه دولتی تهران را به‌عنوان نقطه ضعف عملیاتی تشخیص دادند؛ حمله هماهنگ روزانه با موشک‌ها و مهمات دقیق از سوی آمریکا و اسرائیل اجرا شد.",
-            "ضعف سازمانی و محاسبات غلط: تجمع مقامات ارشد از جمله فرمانده سپاه پاسداران و وزیر دفاع در نزدیکی خامنه‌ای نشان‌دهنده تمرکز قدرت و اشتباهات حفاظتی بود که امکان اصابت هم‌زمان به چند هدف کلیدی و مرگ رهبران را فراهم کرد.",
-            "پیامدهای خارجی و داخلی: مشارکت مستقیم آمریکا و اسرائیل در عملیات، فشار بین‌المللی و انزوای رژیم را تشدید می‌کند؛ این ضربه احتمالاً شکاف‌های درون‌نخبگانی، اختلال در زنجیره فرماندهی و تشدید ناامنی‌های اقتصادی و سیاسی را تسریع خواهد کرد."
-        ],
-        "impact": "این عملیات یک ضربه ساختاری به لایه‌های رهبری رژیم وارد کرده که احتمالاً خلا قدرت، رقابت جناحی و تشدید فشارهای خارجی و اقتصادی را شتاب می‌دهد.",
-        "tag": "حمله",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/cia-closely-watched-khamenei-months-160953918.html",
-        "clean_url": "https://www.yahoo.com/news/articles/cia-closely-watched-khamenei-months-160953918.html",
-        "image": "http://www.bing.com/th?id=OVFT.sga0MsHB5EGKT5LzKQ0ZRi&pid=News",
-        "timestamp": 1772355120.0
     }
 ]
