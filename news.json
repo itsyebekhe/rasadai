@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اسرائیل تا چه مدت می‌تواند یک درگیری نظامی با ایران را تحمل کند؟",
+        "title_en": "How long can Israel sustain a military conflict with Iran?",
+        "summary": [
+            "رهبران اسرائیل و آمریکا اعلام کرده‌اند که جنگ می‌تواند هفته‌ها ادامه یابد؛ واشنگتن اصرار دارد که توان نظامی لازم برای نبردی طولانی‌مدت را دارد، در حالی که اسرائیل پس از عملیات علیه ایران با رشته‌ای از حملات موشکی و پهپادی و هشدارهای هوایی، تعطیلی مدارس و بسیج ده‌ها هزار نفر مواجه شده است.",
+            "در صورت تشدید فشارهای خارجی یا تحریم‌های هدفمند از سوی ایالات متحده و متحدانش، این اقدامات می‌تواند بار اقتصادی و سیاسی سنگینی بر ساختارهای قدرت در ایران وارد کند و ظرفیت رژیم برای مدیریت بحران را تضعیف نماید.",
+            "ادامه درگیری هزینه‌های مستقیم نظامی و اختلالات روزمره را افزایش می‌دهد؛ این امر احتمال گسترش نارضایتی عمومی و فرسایش مشروعیت حکومتی را بالا می‌برد، خصوصاً اگر اقتصاد و خدمات پایه بیش از پیش متأثر شوند."
+        ],
+        "impact": "اگر منازعه برای مدت چند هفته ادامه یابد، فشار اقتصادی و سیاسی فزاینده می‌تواند توانایی حفاظتی و مدیریتی رژیم ایران را کاهش داده و ثبات داخلی آن را به خطر اندازد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.65,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/long-israel-sustain-military-conflict-080148320.html",
+        "clean_url": "https://www.yahoo.com/news/articles/long-israel-sustain-military-conflict-080148320.html",
+        "image": null,
+        "timestamp": 1772611437.0
+    },
+    {
         "title_fa": "«شاید من...»: ترامپ منکر شد که اسرائیل او را وادار به آغاز جنگ با ایران کرده است",
         "title_en": "\"I Might Have...\": Trump Denies Israel \"Forcing\" Him To Launch Iran War",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.sun-sentinel.com/2026/02/28/irans-supreme-leader-has-been-killed-during-major-attack-trump-says",
         "image": "http://www.bing.com/th?id=OVFT.41hjMpNQaqAACiUSRoiVJS&pid=News",
         "timestamp": 1772288520.0
-    },
-    {
-        "title_fa": "نگاهی به چهره‌های کلیدی سیاسی و مذهبی ایران؛ شایعات درباره مرگ خامنه‌ای و واکنش تهران",
-        "title_en": "A look at Iran’s key political and religious figures",
-        "summary": [
-            "خبر تحلیل AP چهره‌های کلیدی سیاسی و مذهبی ایران را مرور می‌کند و هم‌زمان گزارش‌ها و شایعات درباره وضعیت خامنه‌ای برجسته شده‌اند.",
-            "تهران مرگ خامنه‌ای را تأیید نکرده و دونالد ترامپ ادعا کرده او در حمله‌ای کشته شده است؛ تضاد اطلاع‌رسانی رسمی و خارجی ابهام جدی ایجاد کرده است.",
-            "این ابهام می‌تواند به تقویت فشارهای خارجی و بهانه‌جویی برای تحریم‌ها منجر شود و از سوی دیگر عدم شفافیت حکومتی بی‌اعتمادی و نارضایتی داخلی را تشدید کند."
-        ],
-        "impact": "ادعاها و عدم تأیید رسمی می‌تواند خلأ قدرت موقت ایجاد کند، ناآرامی‌های داخلی را تشدید نماید و فرصت برای فشارهای بین‌المللی و تشدید تحریم‌ها علیه حکومت فراهم آورد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/iran-leadership-tehran-trump-israel-b046aea281a5a9b83eb82c4a62350f59",
-        "clean_url": "https://apnews.com/article/iran-leadership-tehran-trump-israel-b046aea281a5a9b83eb82c4a62350f59",
-        "image": "http://www.bing.com/th?id=OVFT.8HDa1nXNPx-0BjIrTNBW_y&pid=News",
-        "timestamp": 1772288340.0
     }
 ]
