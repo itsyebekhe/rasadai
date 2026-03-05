@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چگونه مناقشه ایران در حال گسترش است — در تصاویر",
+        "title_en": "How the Iran conflict is spreading — in pictures",
+        "summary": [
+            "تصاویر منتشرشده روند گسترش درگیری‌ها را نشان می‌دهد؛ گسترش جغرافیایی یا پیامدهای فرامرزی احتمالاً موانع جدیدی برای ثبات داخلی ایجاد می‌کند.",
+            "افزایش دامنه مناقشه شانس تشدید فشار خارجی و تحریم‌ها را بالا می‌برد و به‌صورت ساختاری توان اقتصادی و منابع دولتی را تحت فشار قرار می‌دهد.",
+            "گسترش تنش‌ها نشانه‌ای از ناکارآمدی مدیریتی و ریسک تشدید نارضایتی‌های داخلی است که می‌تواند هزینه‌های سیاسی و امنیتی رژیم را افزایش دهد."
+        ],
+        "impact": "گسترش مناقشه، مسیر را برای فشارهای بین‌المللی و فشار اقتصادی بیشتر هموار می‌کند و ثبات سیاسی و معیشتی داخل کشور را بیش از پیش تضعیف می‌کند.",
+        "tag": "گسترش",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/news/world/how-the-iran-conflict-is-spreading-in-pictures/ar-AA1XARtY",
+        "clean_url": "https://www.msn.com/en-us/news/world/how-the-iran-conflict-is-spreading-in-pictures/ar-AA1XARtY",
+        "image": null,
+        "timestamp": 1772720166.0
+    },
+    {
         "title_fa": "منابع: اسرائیل در فاز دوم جنگ به سایت‌های موشکی زیرزمینی ایران حمله خواهد کرد",
         "title_en": "Israel to attack Iran's underground missile sites in second phase of war, sources say",
         "summary": [
@@ -232,6 +250,42 @@
         "clean_url": "https://www.financialexpress.com/world-news/dubai-uae-iran-war-live-news-updates-dubai-and-abu-dhabi-to-india-flights-resume/4160942",
         "image": null,
         "timestamp": 1772696784.0
+    },
+    {
+        "title_fa": "جنگ خاورمیانه تشدید شد؛ حملات تازه از سوی اسرائیل، ایران و آمریکا",
+        "title_en": "Iran live updates: Israel and Iran launch new strikes in expanding Middle East war",
+        "summary": [
+            "تشدید نظامی سریع: ایالات متحده، اسرائیل و ایران حملات جدیدی انجام دادند؛ پنتاگون از غرق کردن یک ناو جنگی ایرانی خبر داد و گزارش‌ها حاکی از تلفات گسترده در داخل ایران است — از جمله ذکرِ نام علی خامنه‌ای در فهرست کشته‌شدگان در این گزارش.",
+            "فشار خارجی و خلأ سیاسی بین‌المللی: شکست تلاش سنا برای الزام رئیس‌جمهور آمریکا به کسب اجازه کنگره نشان می‌دهد که واشنگتن فعلاً راه اقدام نظامی بی‌مجوز را باز گذاشته و این فضا رژیم تهران را از منظر امنیتی و دیپلماتیک بیش از پیش آسیب‌پذیر می‌کند.",
+            "پیامدهای داخلی و منطقه‌ای قابل پیش‌بینی: شمار بالای کشته‌ها و حملات متقابل، منابع نظامی و اقتصادی رژیم را تحت فشار قرار می‌دهد و احتمال تشدید نارضایتی داخلی و گسترش پیامدهای امنیتی به همسایگان خلیج فارس را افزایش می‌دهد."
+        ],
+        "impact": "این موج ضربات و تلفاتِ گزارش‌شده پیکره امنیتی و مشروعیت رژیم را ساختاری تضعیف می‌کند و فضای داخلی را به سمت تشدید بحران و احتمال افزایش نارضایتی سوق می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/live/iran-live-updates-israel-and-iran-launch-new-strikes-in-expanding-middle-east-war-142632324.html",
+        "clean_url": "https://www.yahoo.com/news/world/live/iran-live-updates-israel-and-iran-launch-new-strikes-in-expanding-middle-east-war-142632324.html",
+        "image": "http://www.bing.com/th?id=OVFT.PTIjJ29KThP8qeticC7jGC&pid=News",
+        "timestamp": 1772696100.0
+    },
+    {
+        "title_fa": "آشوب‌افکنی ایران در خلیج فارس؛ یک تاکتیک محوری برای بیرون‌کشیدن هزینه‌ها",
+        "title_en": "Chaos sown by Iran's attacks across the Persian Gulf is key to its strategy",
+        "summary": [
+            "پس از آغاز عملیات آمریکا و اسرائیل و کشته‌شدن علی خامنه‌ای، رهبر جمهوری اسلامی، تهران به‌سرعت هزاران پهپاد و موشک بالستیک را به سمت اسرائیل، پایگاه‌ها و سفارت‌های آمریکا و زیرساخت‌های انرژی در خلیج فارس شلیک کرده و تلاش می‌کند جنگ را منطقه‌ای کند.",
+            "استراتژی اساسی جمهوری اسلامی، افزایش هزینه عملیات آمریکا و ایجاد ترس از گسترش درگیری است تا از طریق فشار متحدان آمریکا یا جو ناآرام داخلی، واشینگتن را به عقب‌نشینی یا مسیر دیپلماتیک وادارد؛ هدف تکمیلی ضربه به تولید انرژی برای بالا بردن قیمت نفت و خسته کردن طرف مقابل است.",
+            "این تاکتیک می‌تواند دو نتیجه متضاد داشته باشد: موفقیت در ایجاد راه خروج دیپلماتیک برای تهران یا، برعکس، تشدید ضربات نظامی و تحریمی که منابع اقتصادی و ظرفیت‌های نهادی رژیم را فرسایش می‌دهد و ریسک تزلزل کنترل داخلی را افزایش می‌دهد."
+        ],
+        "impact": "حملات منطقه‌ای ایران ابزار افزایش هزینه برای دشمن را دنبال می‌کند اما در میان‌مدت فشارهای نظامی و تحریمی می‌تواند توان بقا و مدیریت بحران رژیم را تضعیف کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/irans-barrage-attacks-across-persian-110214729.html",
+        "clean_url": "https://www.aol.com/articles/irans-barrage-attacks-across-persian-110214729.html",
+        "image": null,
+        "timestamp": 1772695200.0
     },
     {
         "title_fa": "جنگ ایران: چه در روز ششم حملات آمریکا و اسرائیل می‌گذرد؟",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://apnews.com/live/iran-us-israel-hezbollah-strikes-03-02-2026",
         "image": "http://www.bing.com/th?id=OVFT.lES97rHD_pJIn63MeFCgxi&pid=News",
         "timestamp": 1772421780.0
-    },
-    {
-        "title_fa": "آخرین خبر: کشته‌شدن علی خامنه‌ای و انتصاب علیرضا آرافی به شورای موقت؛ جنگ منطقه‌ای گسترش یافت و کویت سه هواپیمای نظامی آمریکا را اشتباهاً زد",
-        "title_en": "The Latest: War on Iran widens, Kuwait shoots down 3 US warplanes by mistake",
-        "summary": [
-            "علیرضا آرافی به شورای رهبری موقت منصوب شده است پس از کشته‌شدن علی خامنه‌ای؛ این شورا مأموریت اداره کشور را تا تعیین جانشین توسط مجمع مربوطه بر عهده دارد.",
-            "در کنار این بحران داخلی، درگیری منطقه‌ای گسترش یافته و گزارش‌ها حاکی از آن است که کویت سه فروند هواپیمای نظامی آمریکا را به‌طور اشتباه سرنگون کرده است — نشانه‌ای از تشدید تصادمات فرامرزی.",
-            "خلا رهبری و تشدید تنش‌های نظامی ساختار رژیم را در مواجهه با فشارهای خارجی و اقتصادی آسیب‌پذیرتر می‌کند؛ تشدید تحریم‌ها یا فشارهای بین‌المللی می‌تواند ظرفیت مالی و کنترل سیاسی را تضعیف و نارضایتی عمومی را تشدید نماید."
-        ],
-        "impact": "این ترکیب از قتل رهبری و گسترش جنگ یک بحران سیاسی-نظامی فوری ایجاد کرده که احتمال فروپاشی مدیریتی، تشدید بی‌ثباتی داخلی و ورود بازیگران خارجی را به شکل قاطع افزایش می‌دهد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "News10NBC",
-        "url": "https://www.whec.com/top-news/irans-future-hangs-in-the-balance-as-interim-council-featuring-ayatollah-alireza-arafi-takes-charge/",
-        "clean_url": "https://www.whec.com/top-news/irans-future-hangs-in-the-balance-as-interim-council-featuring-ayatollah-alireza-arafi-takes-charge",
-        "image": "http://www.bing.com/th?id=OVFT.NLWDOWkgzzd1tTYpCVFqRS&pid=News",
-        "timestamp": 1772421600.0
-    },
-    {
-        "title_fa": "حزب‌الله به اسرائیل حمله کرد؛ هواپیماهای آمریکایی و اسرائیلی ایران را بمباران کردند",
-        "title_en": "Hezbollah strikes Israel as American and Israeli planes pound Iran",
-        "summary": [
-            "ایران و شبه‌نظامیان مورد حمایت ایران موشک‌هایی به سوی اسرائیل و چند کشور عربی شلیک کردند؛ گزارش‌ها حاکی از اصابت به محوطه سفارت آمریکا در کویت است، و همزمان نیروی هوایی آمریکا و اسرائیل اهدافی در خاک ایران بمباران کردند.",
-            "حملات مستقیم نظامی آمریکا و اسرائیل نشان‌دهنده تشدید فشار خارجی است که توان تدارکاتی و زیرساختی رژیم را هدف می‌گیرد؛ این فشار ساختاری هزینه‌های بازسازی و دفاعی را افزایش می‌دهد و ظرفیت نظام برای مدیریت بحران‌های همزمان را کاهش می‌دهد.",
-            "تکیه رژیم بر بازیگران نیابتی برای پروژه‌های منطقه‌ای به‌جای تمرکز بر مسائل داخلی نشان‌دهنده مدیریت ناکارآمد است؛ اختصاص منابع به عملیات خارجی به قیمت فروگذاری بر مشکلات اقتصادی و اجتماعی داخلی، ریسک فرسایش مشروعیت و تشدید نارضایتی احتمالی را بالا می‌برد."
-        ],
-        "impact": "چرخه حمله و تلافی متقابل توان استراتژیک رژیم را فرسایشی می‌کند و خطر گسترش درگیری به یک بحران منطقه‌ای با تبعات داخلی شدید را به‌طور قابل‌توجهی افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/03/02/g-s1-112140/hezbollah-strikes-israel",
-        "clean_url": "https://www.npr.org/2026/03/02/g-s1-112140/hezbollah-strikes-israel",
-        "image": "http://www.bing.com/th?id=OVFT.gtO-vTyA6eY1yZmz1ZMUmC&pid=News",
-        "timestamp": 1772417340.0
-    },
-    {
-        "title_fa": "بمباران B-2 آمریکا علیه ایران؛ اسرائیل ادعای برتری هوایی بر آسمان تهران را مطرح کرد",
-        "title_en": "U.S. B-2 Bombers Strike Iran as Israel Claims Air Superiority Over Tehran Skies",
-        "summary": [
-            "ایالات متحده با بمب‌افکن‌های B-2 حملاتی را به ایران انجام داده است که نشان‌دهنده ورود مستقیم نیروی آمریکاست به عرصه درگیری‌ها.",
-            "اسرائیل ادعا کرده برتری هوایی بر آسمان تهران دارد؛ این ادعا خطر گسترش سریع و پیچیده‌تر شدن دامنه نظامی‌سازی فضا را افزایش می‌دهد.",
-            "در پی این تحولات فشار خارجی بر رژیم افزایش می‌یابد و در غیاب اطلاعات شفاف درباره اهداف و تلفات، این فشار می‌تواند ضعف مدیریت اقتصادی-سیاسی حکومت را تشدید کند و زمینه نارضایتی داخلی گسترده‌تر را فراهم سازد."
-        ],
-        "impact": "حملات مستقیم آمریکا و ادعای برتری اسرائیل ساختار بقا و مدیریت رژیم را تضعیف می‌کند و احتمال افزایش نارضایتی و تشدید بحران اقتصادی داخلی را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Foundation for Defense of Democracies",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzN2RTRhM2QxNG1UQkllZktQWVAzc01TRmJDUU1DNnJIYmotMDNaOVlMNUNDTTJzdWoyZmp2ZWhVNGJIajBGbFZYbEFaNW53MEVuY1hOOVdoYTNDeS1NWjQ5bW03R29Ka1B3YXQ5a21aRlFldE5TZXBTWDNtWFNicW9wcDN3b1BzdzVNWkJUNm9rdlFwOW5hWDVzaE45Vi1zMEJ5c0MtUTBibm1UUGVRWUlnV3VxZEw4dnlZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSzN2RTRhM2QxNG1UQkllZktQWVAzc01TRmJDUU1DNnJIYmotMDNaOVlMNUNDTTJzdWoyZmp2ZWhVNGJIajBGbFZYbEFaNW53MEVuY1hOOVdoYTNDeS1NWjQ5bW03R29Ka1B3YXQ5a21aRlFldE5TZXBTWDNtWFNicW9wcDN3b1BzdzVNWkJUNm9rdlFwOW5hWDVzaE45Vi1zMEJ5c0MtUTBibm1UUGVRWUlnV3VxZEw4dnlZ",
-        "image": null,
-        "timestamp": 1772414512.0
     }
 ]
