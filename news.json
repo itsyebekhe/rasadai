@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران موشک‌ به سمت اسرائیل شلیک کرد؛ حملات در خاورمیانه وارد ششمین روز شد",
+        "title_en": "Iran launches missiles at Israel as attacks in Middle East commence for a sixth day",
+        "summary": [
+            "گزارش خبرگزاری: ایران موشک‌هایی به سوی اهداف در اسرائیل شلیک کرده و موج حملات منطقه‌ای وارد ششمین روز شده است.",
+            "این اقدام مستقیم خطر تشدید نظامی در منطقه و گسترش دامنه درگیری‌ها را افزایش می‌دهد و احتمال واکنش نظامی یا دیپلماتیک گسترده‌تر را بالا می‌برد.",
+            "افزایش تنش‌های برون‌مرزی ریسک تشدید فشارهای اقتصادی و سیاسی بین‌المللی علیه حکومت تهران را بالا می‌برد و می‌تواند اثرات منفی بر ثبات داخلی داشته باشد."
+        ],
+        "impact": "شلیک موشک به اسرائیل احتمال واکنش نظامی و تشدید تحریم‌ها و انزوای بین‌المللی را بالا می‌برد که به تضعیف ساختاری حکومت و افزایش فشارهای داخلی خواهد انجامید.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "AP News",
+        "url": "https://www.khou.com/article/syndication/associatedpress/us-sinks-iranian-warship-as-iran-warns-of-widespread-destruction-in-the-middle-east/616-7bc47fcf-8fde-4c1f-983f-16b162434bb3",
+        "clean_url": "https://www.khou.com/article/syndication/associatedpress/us-sinks-iranian-warship-as-iran-warns-of-widespread-destruction-in-the-middle-east/616-7bc47fcf-8fde-4c1f-983f-16b162434bb3",
+        "image": null,
+        "timestamp": 1772676600.0
+    },
+    {
         "title_fa": "رأی سنا برای مهار اختیارات جنگی ترامپ علیه ایران شکست خورد",
         "title_en": "US Senate vote fails to rein in Trump war powers on Iran",
         "summary": [
@@ -306,6 +324,24 @@
         "timestamp": 1772642346.0
     },
     {
+        "title_fa": "نیروهای کُرد طرفدار آمریکا برای تهاجم احتمالی به ایران آماده می‌شوند",
+        "title_en": "Pro-American Kurdish Forces Are Preparing Possible Iran Incursion",
+        "summary": [
+            "گزارش نیویورک‌تایمز: سیا به‌طور محرمانه به نیروهای کُرد ایرانی در عراق سلاح‌های سبک تحویل داده؛ برنامه پیش از جنگ فعلی آغاز شده است.",
+            "توانمندسازی نظامی کُردها ظرفیت عملیات مرزی و احتمال نفوذ یا تهاجم را افزایش می‌دهد و کنترل رژیم بر مناطق مرزی را تضعیف می‌کند؛ این دینامیک خطر تشدید پاسخ امنیتی و نظامی از سوی تهران را بالا می‌برد.",
+            "اقدام آمریکا نشان می‌دهد بازیگران خارجی از توانمندسازی مخالفان به‌عنوان ابزار فشار استفاده می‌کنند؛ این روند ساختار قدرت رژیم را از منظر دیپلماتیک و اقتصادی شکننده‌تر کرده و می‌تواند به تشدید سرکوب داخلی و کاهش مشروعیت حکومتی بینجامد."
+        ],
+        "impact": "پشتیبانی سیا از شبه‌نظامیان کُرد احتمال عملیات برون‌مرزی علیه ایران را افزایش می‌دهد و ثبات مرزی و امنیت داخلی رژیم را تضعیف می‌کند.",
+        "tag": "مداخله",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/04/us/politics/kurds-trump-iran-war.html",
+        "clean_url": "https://www.nytimes.com/2026/03/04/us/politics/kurds-trump-iran-war.html",
+        "image": "http://www.bing.com/th?id=OVFT.BSEhnytDuJcxyLl77oqFIi&pid=News",
+        "timestamp": 1772641680.0
+    },
+    {
         "title_fa": "سنای آمریکا برای رأی‌گیری درباره اختیارات جنگی ترامپ در بحبوحه تنش با ایران",
         "title_en": "US Senate to vote on Trump's war powers as Iran conflict continues",
         "summary": [
@@ -376,6 +412,24 @@
         "clean_url": "https://www.nytimes.com/2026/03/04/world/middleeast/iran-war-turkey.html",
         "image": "http://www.bing.com/th?id=OVFT.vGHR09b89ihRgeN6WGvNdi&pid=News",
         "timestamp": 1772636160.0
+    },
+    {
+        "title_fa": "نظرسنجی: اکثریت رای‌دهندگان از نحوه مقابله ترامپ با ایران ناراضی‌اند",
+        "title_en": "Poll: Majority of voters disapprove of how Trump has handled Iran",
+        "summary": [
+            "نظرسنجی ملی NBC نشان می‌دهد اکثریت رأی‌دهندگان با نحوه مواجهه ترامپ با ایران موافق نیستند؛ اکثریت مستقل‌ها و بخشی از جمهوری‌خواهان اعلام کردند آمریکا نباید اقدام نظامی انجام می‌داد.",
+            "این نتایج نشان‌دهنده کاهش اجماع عمومی برای اقدام نظامی است؛ کاهش حمایت در میان مستقل‌ها و تردید در صفوف حزب حاکم، اختیار سیاسی اجرای تشدید نظامی را تضعیف می‌کند.",
+            "متن خبر اشاره‌ای به تحریم‌ها، نقش روسیه/چین/کره‌شمالی یا اعتراضات داخلی و وضعیت اقتصادی ایران ندارد؛ بنابراین نمی‌توان از این منبع درباره تأثیرات ساختاری بر ثبات رژیم ایران یا پیامدهای اقتصادی داخلی نتیجه‌گیری کرد."
+        ],
+        "impact": "این سنخ نتایج آرای عمومی احتمال پشتیبانی از اقدامات نظامی یا اجماع فشار قوی علیه ایران را کاهش می‌دهد و مانع از شکل‌گیری اجماع دوحزبی برای تشدید رویه‌ها می‌شود.",
+        "tag": "نظرسنجی",
+        "urgency": 3,
+        "sentiment": 0.2,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/poll-majority-voters-disapproves-trump-handled-iran-rcna261564",
+        "clean_url": "https://www.nbcnews.com/politics/trump-administration/poll-majority-voters-disapproves-trump-handled-iran-rcna261564",
+        "image": "http://www.bing.com/th?id=OVFT.GdRA3wXrh-DyXWVJQaErDy&pid=News",
+        "timestamp": 1772635920.0
     },
     {
         "title_fa": "پیت هگسث: ورود نیروهای آمریکایی بیشتر به خاورمیانه همزمان با تشدید جنگ با ایران",
@@ -466,6 +520,24 @@
         "clean_url": "https://www.dispatch.com/live-story/news/world/2026/03/04/iran-us-israel-war-live-updates/88973156007",
         "image": null,
         "timestamp": 1772632800.0
+    },
+    {
+        "title_fa": "تماشا: چگونه ترافیک در تنگه هرمز از آغاز جنگ ایران خشک شد",
+        "title_en": "WATCH: How traffic dried up in the Strait of Hormuz since the Iran war began",
+        "summary": [
+            "ترافیک دریایی در تنگه هرمز عملاً متوقف شده و ایران با استفاده از پهپادهای ارزان‌قیمت به‌جای محاصره نیروی دریایی عبور و مرور نفت و کشتی‌ها را فلج کرده است — وضعیتی که بازار جهانی نفت را در معرض شوک قرار داده است.",
+            "انسداد عملی مسیر حیاتی هیدروکربوری احتمال واکنش‌های بین‌المللی و تشدید فشارهای اقتصادی و امنیتی را افزایش می‌دهد؛ این فشارها ساختار اقتصادی و توان حکمرانی رژیم را در بلندمدت تضعیف خواهد کرد.",
+            "استفاده از تاکتیک‌های کم‌هزینه نظامی برای اِعمال اختلال راهبردی نشان‌دهنده ضعف در مدیریت بحران است و می‌تواند با کاهش صادرات، افزایش هزینه حمل و نقل و تشدید نارضایتی عمومی به مشکلات داخلی رژیم دامن بزند."
+        ],
+        "impact": "انسداد عملی هرمز احتمال افزایش فشارهای بین‌المللی و کاهش درآمد نفتی را بالا می‌برد و حاشیه بقا برای حکومت را به‌طور ملموسی تنگ‌تر می‌کند.",
+        "tag": "هورموز",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/04/nx-s1-5736104/iran-war-oil-trump-israel-strait-hormuz-closed-energy-crisis",
+        "clean_url": "https://www.npr.org/2026/03/04/nx-s1-5736104/iran-war-oil-trump-israel-strait-hormuz-closed-energy-crisis",
+        "image": "http://www.bing.com/th?id=OVFT.simiFOI50-29WBMwshWNcy&pid=News",
+        "timestamp": 1772632140.0
     },
     {
         "title_fa": "آمریکا می‌گوید «عمیق‌تر» به درون ایران حمله خواهد کرد؛ جنگ در منطقه گسترش یافت",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcVF6RWhicU9nRTNQVXUyZy12eXpPcjl0dG85QlVTa3J3czdJZlI5Tms3WkJhbjNkdENtdTFtTzlWVmpjVklYUGRZRnc1bEE5S2FsM1Z4NUhxeVZnMlY3SzJNYjhBVEd0bmpMb3RjRnc5OGNsUVF2Zk1xODduTkhGOS1LQlNMaXhnSEZaV3ZXZGxMaXh6VGNrOVBTbGhJN19QbUw1RjZxNzdKNVhBcnBjLdIBtgFBVV95cUxNNGJRcmFzNzBjc294ZWMxMDJNNFl2cTg1UDYyaEluOVgzMXh5a0dnUG1DdUdiSXpfVVQ2NVJaczMzeGlTc2NFY0VROWZ5cVVXUHR1ZGJ4dUhBMjgyZ0l6YXNGNGlUT01qR3lMTk5lSms3VlBFREpjMkhiWUdKeFlFakJPR3dLd0Nfdkd4dzdQS0dSSUtoQ3NJdGRfYzljdmNxakZ4OUd5MlNpT2NHWFBOTlhIYmtkQQ",
         "image": null,
         "timestamp": 1772365596.0
-    },
-    {
-        "title_fa": "پس از کشته شدن خامنه‌ای در حملات، ایران بین ترس و شادی خاموش",
-        "title_en": "After Khamenei killed in strikes, Iran wakes to fear — and quiet joy",
-        "summary": [
-            "تیتر حاکی از کشته شدن خامنه‌ای است؛ اگر تأیید شود، فوری خلأ رهبری ایجاد می‌کند که نهادهای امنیتی، سیاسی و نظامی را در رقابت برای تصاحب قدرت قرار می‌دهد و ثبات ساختاری رژیم را تضعیف می‌کند.",
-            "فشار خارجی و تحریم‌ها می‌توانند اثر تضعیف‌کننده‌شان را تشدید کنند: بازیگران بین‌المللی ممکن است از وقوع خلأ برای افزایش فشار اقتصادی و سیاسی علیه رژیم استفاده کنند و توان حکومت برای مدیریت بحران را کاهش دهند.",
-            "واکنش‌های مردمی گزارش‌شده — ترکیبی از ترس و شادی خاموش — نشان‌دهنده نارضایتی عمیق از سوء‌مدیریت اقتصادی و سرکوب سیاسی است و در صورت تشدید، می‌تواند موج جدید اعتراضات و اختلال در خدمات عمومی را برانگیزد."
-        ],
-        "impact": "تأیید این خبر یک نقطه عطف بحرانی است که می‌تواند روند فروپاشی سیاسی را تسریع و فرصت بازسازی نظم سیاسی جدید را فراهم کند.",
-        "tag": "خلاقدرت",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/03/01/khamenei-death-iran-fear-hope/88932723007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/03/01/khamenei-death-iran-fear-hope/88932723007",
-        "image": "http://www.bing.com/th?id=OVFT.9unJbQ0dP-i7ScHTxhy4_S&pid=News",
-        "timestamp": 1772365140.0
-    },
-    {
-        "title_fa": "حملات آمریکا و اسرائیل در ایران وارد روز دوم شد؛ منطقه در بحران",
-        "title_en": "U.S.-Israeli strikes in Iran continue into 2nd day, as the region faces turmoil",
-        "summary": [
-            "گزارش‌ها حکایت از ادامه حملات مشترک آمریکا و اسرائیل در خاک ایران برای دومین روز متوالی دارد؛ نشانه‌ای روشن از تشدید نظامی با پتانسیل گسترش منطقه‌ای.",
-            "ادامه این حملات فشار خارجی را به سطح عملیاتی بالا می‌برد؛ چنین فشاری می‌تواند به تضعیف ساختاری توان نظامی و ظرفیت مدیریتی حکومت برای مقابله با بحران بینجامد.",
-            "هرگونه آسیب‌دیدگی تاسیسات حیاتی یا اختلال در خدمات عمومی می‌تواند نارضایتی عمومی را تشدید کند و کاستی‌های حکمرانی را برجسته سازد — ریسک ناآرامی داخلی و تشدید سیاست‌های امنیتی افزایش می‌یابد."
-        ],
-        "impact": "این تشدید نظامی احتمالاً مشروعیت و توان مدیریت بحران حکومت را کاهش می‌دهد و خطر گسترش درگیری و بازخیزی اعتراضات داخلی را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YTW83RGlxdnc1cnljdmktS1oyNUxnQ0loRE1rZFNsTXpYVHpraGRQX0lSdUl4OXZQcWEzcF9vRl91dTVtRV9XNVlDUmg3WC1uaTdpeW5NQXM0V0FkSTV6SloxSndaTDEwTWdIRU5SWVlXMzJQa1M1U2pR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YTW83RGlxdnc1cnljdmktS1oyNUxnQ0loRE1rZFNsTXpYVHpraGRQX0lSdUl4OXZQcWEzcF9vRl91dTVtRV9XNVlDUmg3WC1uaTdpeW5NQXM0V0FkSTV6SloxSndaTDEwTWdIRU5SWVlXMzJQa1M1U2pR",
-        "image": null,
-        "timestamp": 1772364081.0
-    },
-    {
-        "title_fa": "مرگ علی خامنه‌ای در حملات هوایی هماهنگ آمریکا و اسرائیل",
-        "title_en": "Iranian Supreme Leader Ali Khamenei, the longest-serving Head of State in the Middle East",
-        "summary": [
-            "علی خامنه‌ای (۱۹۳۹–۲۰۲۶)، دومین رهبر جمهوری اسلامی ایران، در ۲۸ فوریه در حملات هوایی هماهنگ آمریکا و اسرائیل به تهران کشته شد؛ رسانه‌های دولتی خبر را در ۱ مارس تأیید کردند.",
-            "حمله مستقیم به پایتخت و حذف بلندپایه‌ترین مقام حکومتی، نشان‌دهنده شکستِ ساختاری امنیت و بازدارندگی نظام علیه فشار نظامی خارجی است و موقعیت بین‌المللی رژیم را به شدت تضعیف می‌کند.",
-            "این رویداد فوراً خلأ رهبری ایجاد می‌کند، مسیر را برای تشدید تنش‌های منطقه‌ای و افزایش فشارهای خارجی و تحریمی هموار می‌کند و احتمالاً به ناپایداری سیاسی و فشار اقتصادی در داخل کشور دامن خواهد زد."
-        ],
-        "impact": "کشته شدن خامنه‌ای ساختار اقتدار رژیم را تضعیف کرده و به احتمال زیاد منجر به بحران رهبری، تشدید ناآرامی‌های داخلی و افزایش فشارهای بین‌المللی و اقتصادی خواهد شد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": 0.75,
-        "source": "UNITED NEWS OF INDIA",
-        "url": "https://uniindia.com/~/iranian-supreme-leader-ali-khamenei-the-longest-serving-head-of-state-in-the-middle-east/India/news/3758677.html",
-        "clean_url": "https://uniindia.com/~/iranian-supreme-leader-ali-khamenei-the-longest-serving-head-of-state-in-the-middle-east/India/news/3758677.html",
-        "image": null,
-        "timestamp": 1772364060.0
-    },
-    {
-        "title_fa": "فشار تازه قانونگذاران برای رأی‌گیری درباره اختیارات جنگ پس از حملات علیه ایران",
-        "title_en": "Lawmakers stress new urgency around war powers votes after Iran strikes",
-        "summary": [
-            "کنگره تلاش دارد با رای‌گیری تحت قانون اختیارات جنگ 1973 رئیس‌جمهور را از انجام اقدامات نظامی بیشتر علیه ایران بدون تصویب قانونگذاری بازدارد؛ این فشار پس از عملیات گسترده آمریکا و اسرائیل که به‌گفته گزارش‌ها منجر به کشته‌شدن علی خامنه‌ای و تلفات آمریکایی شد، تشدید شده است.",
-            "قانون 1973 رئیس‌جمهور را ملزم به مشورت و گزارش‌دهی به کنگره می‌کند و حضور نظامی بدون مجوز را به 60 روز محدود می‌سازد؛ نمایندگان دموکرات و تعدادی جمهوری‌خواه می‌گویند اقدام اخیر غیرقانونی است و باید فوراً به کنگره عرضه شود.",
-            "روند بازگشت کنگره برای رأی‌گیری و سابقه شکست تدابیر مشابه در ماه‌های اخیر نشان می‌دهد که تفرقه حزبی و بازی‌های سیاسی می‌تواند مانع جلوگیری از تشدید درگیری یا مدیریت پساحادثه در سطوح بالای سیاست خارجی شود."
-        ],
-        "impact": "این حمله و کشته‌شدن علی خامنه‌ای همراه با تلفات آمریکایی خطر گسترش سریع بحران منطقه‌ای را بالا می‌برد و به‌طور هم‌زمان قدرت نظارتی و تصمیم‌گیر کنگره را برای محدود کردن رئیس‌جمهور در مسیر جنگیِ فرسایشی به کانون رقابت‌های سیاسی تبدیل می‌کند.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/congress-war-powers-votes-iran-strikes/",
-        "clean_url": "https://www.cbsnews.com/news/congress-war-powers-votes-iran-strikes",
-        "image": "http://www.bing.com/th?id=OVFT.u1aGX0q4rmRNLH91EMoIqC&pid=News",
-        "timestamp": 1772363880.0
     }
 ]
