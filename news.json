@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تنش ایران ۲۰۲۶: تحلیل اقتصادی اوکسفورد اکانومیکس",
+        "title_en": "Iran Conflict 2026: Economic Impact of US, Israel & Iran Tensions",
+        "summary": [
+            "اوکسفورد اکانومیکس تحلیلی درباره آثار اقتصادی تنش‌های بین آمریکا، اسرائیل و ایران در ۲۰۲۶ منتشر کرده است که تمرکز آن روی پیامدهای اقتصاد کلان و هزینه‌های خارجی‌بودن تنش است.",
+            "گزارش نشان می‌دهد فشار خارجی و ریسک ژئوپلیتیک می‌تواند ساختار اقتصادی را تضعیف کند — از مسیر کاهش سرمایه‌گذاری، اختلال در تجارت و زنجیره‌های تأمین، تا افزایش هزینه تامین انرژی و نوسان در بازارهای ارزی و کالا.",
+            "این شرایط ریسک تشدید شکست‌های مدیریتی و افزایش نارضایتی اجتماعی را بالا می‌برد؛ دولت در مواجهه با محدودیت‌های مالی و اختلال در درآمدهای ارزی، امکانات کمتری برای پاسخ به فشارهای داخلی خواهد داشت."
+        ],
+        "impact": "خلاصه اثر: افزایش بی‌ثباتی اقتصادی و کاهش ظرفیت سیاست‌گذاری که فشار مستقیم بر معیشت مردم و توان دولت برای مدیریت بحران را بالا می‌برد.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Oxford Economics",
+        "url": "https://www.usnews.com/news/world/articles/2026-03-04/iran-conflicts-impact-on-energy-temporary-and-a-small-price-us-energy-secretary-says",
+        "clean_url": "https://www.usnews.com/news/world/articles/2026-03-04/iran-conflicts-impact-on-energy-temporary-and-a-small-price-us-energy-secretary-says",
+        "image": null,
+        "timestamp": 1772690172.0
+    },
+    {
+        "title_fa": "آیا آمریکا تنها به‌خاطر اسرائیل به ایران حمله کرد؟",
+        "title_en": "Did the US only attack Iran because of Israel?",
+        "summary": [
+            "تیتر مقاله پرسشی است درباره انگیزه‌های واشنگتن؛ عنوان به‌تنهایی ادعا نمی‌کند که حمله صرفاً به‌خاطر اسرائیل بوده و برای اثبات چنین ادعایی به شواهد روشن هماهنگی سیاسی-نظامی میان آمریکا و اسرائیل نیاز است.",
+            "تحلیل ساختاری: اگر عملیات آمریکا بخشی از فشار مداوم باشد، تشدید تحریم‌ها و اقدامات نظامی ساختار تأمین منابع رژیم را ضعیف می‌کند و از منظر اقتصادی و سیاسی ثبات داخلی را بیشتر تضعیف خواهد کرد.",
+            "پیامدهای داخلی: پذیرش هر نظریه‌ای درباره انگیزه‌ها باید در پرتو واقعیت‌های مدیریت ناکارا و نارضایتی عمومی بررسی شود؛ ضعف اقتصادی و سرکوب سیاسی ظرفیت مقاومت رژیم در برابر شوک‌های خارجی را کاهش می‌دهد."
+        ],
+        "impact": "نتیجه‌گیری محتاطانه این است که بدون شواهد مستند درباره هماهنگی واشنگتن-تل‌آویو، ادعای «فقط به‌خاطر اسرائیل» قابل اثبات نیست؛ اما هر اقدام آمریکا که بخشی از کارزار فشار باشد، احتمالاً ثبات اقتصادی و سیاسی رژیم را تشدیداً تضعیف می‌کند.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Responsible Statecraft",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMnRraWdwaXRBSWlJUkc5ekMyazI3NEcxV0M5MzBXbVlfdUpKS1VKRkw2bHd1Zk9KbWlOU0duOTRzM19YdWp3WS1TeU12bU9jbG11b05nRl9XYlZaQS1kdGE5OHA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBKMnRraWdwaXRBSWlJUkc5ekMyazI3NEcxV0M5MzBXbVlfdUpKS1VKRkw2bHd1Zk9KbWlOU0duOTRzM19YdWp3WS1TeU12bU9jbG11b05nRl9XYlZaQS1kdGE5OHA",
+        "image": null,
+        "timestamp": 1772687970.0
+    },
+    {
         "title_fa": "ایران موجی از موشک‌ها را به سمت اسرائیل شلیک کرد؛ جمهوری‌خواهان آمریکا مانع از توقف عملیات هوایی آمریکا شدند",
         "title_en": "Iran launches wave of missiles at Israel; US Republicans block measure to halt US air campaign",
         "summary": [
@@ -412,6 +448,24 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/us-senate-to-vote-on-trumps-war-powers-as-iran-conflict-continues/ar-AA1XwHRh",
         "image": null,
         "timestamp": 1772640563.0
+    },
+    {
+        "title_fa": "اظهارات آیزاک هرزوگ درباره حمله به ایران: «وقت گفتن کافی است» و اهداف جنگ",
+        "title_en": "Israel's president says it's \"about time that everybody tells Iran, 'Guys, we're fed up,'\" as he lays out goals for war",
+        "summary": [
+            "رئیس‌جمهور اسرائیل، آیزاک هرزوگ، اعلام کرد که آمریکا و اسرائیل «چاره‌ای جز اقدام» نداشتند و به ایران حمله هوایی کردند؛ او از ادعاهایی درباره تلاش ایران برای تسریع دست‌یابی به بمب اتم و گسترش موشک‌های دوربرد از ۲٬۰۰۰ به ۲۰٬۰۰۰ خبر داد، در حالی که هیچ شاهد خارجیِ مستقلی برای این ادعاها ارائه نشده است و نماینده ویژه کاخ سفید نیز پیش از حملات به ادعای داشته‌های اورانیوم ایران اشاره کرده بود.",
+            "از منظر فشار خارجی: حملات مشترک آمریکا-اسرائیل و اتهامات مرتبط به برنامه هسته‌ای ساختاری می‌توانند توان مالی و تجهیزاتی حکومت را تضعیف و هزینه‌های راهبری نظام را افزایش دهند؛ این فشار راهبردی، امکانات حکومت برای حمایت از پروکسی‌ها را محدود کرده و قابلیت مانور سیاسی داخلی آن را کاهش می‌دهد.",
+            "خبر اشاره‌ای به اعتراضات داخلی یا فروپاشی اقتصادی نکرده؛ با این حال تداوم حملات و اتهامات بین‌المللی یا می‌تواند به حکومت بهانه‌ای برای بسیج و سرکوب بدهد یا در بلندمدت با افزایش هزینه‌های امنیتی و اقتصادی، نارضایتی عمومی و شکاف در صفوف نخبگان را تشدید کند — امری که در متن گزارش تصریح نشده اما از منظر واقع‌گرایانه محتمل است."
+        ],
+        "impact": "تداوم حملات و اتهامات علنی علیه برنامه هسته‌ای ایران احتمال تشدید تنش منطقه‌ای و افزایش فشار بر توان نظامی و سیاسی حکومت تهران را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/israeli-president-isaac-herzog-speaks-on-iran-war-goals/",
+        "clean_url": "https://www.cbsnews.com/news/israeli-president-isaac-herzog-speaks-on-iran-war-goals",
+        "image": "http://www.bing.com/th?id=OVFT.Xy0tXqfA0GKsfQR8KzJFcS&pid=News",
+        "timestamp": 1772640300.0
     },
     {
         "title_fa": "به‌روزرسانی ایران: سناتورهای جمهوری‌خواه مانع محدود کردن اختیارات جنگی ترامپ شدند؛ درگیری در خاورمیانه تشدید شد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://time.com/7381982/iran-girls-school-killed",
         "image": null,
         "timestamp": 1772372220.0
-    },
-    {
-        "title_fa": "پس از حمله آمریکا و اسرائیل به ایران؛ عکس‌ها و ویدئوها از خاورمیانه",
-        "title_en": "After Attack on Iran by the U.S. and Israel, See Photos and Videos From the Middle East - The New York Times",
-        "summary": [
-            "نیویورک تایمز گزارش داده است که پس از حمله مشترک آمریکا و اسرائیل به ایران، مجموعه‌ای از عکس‌ها و ویدئوها از صحنه‌های مرتبط در خاورمیانه منتشر شده است.",
-            "حمله مستقیم از سوی آمریکا و اسرائیل ساختار سیاسی و امنیتی رژیم را در معرض تضعیف قرار می‌دهد؛ تشدید فشار خارجی می‌تواند زمینه افزایش تحریم‌ها، انزوای دیپلماتیک و کاهش توان دولت در مدیریت بحران‌های اقتصادی را فراهم کند.",
-            "در داخل، هزینه‌های میدانی و اقتصادی برای حکومت افزایش می‌یابد؛ این امر ظرفیت رژیم برای کنترل نارضایتی عمومی و ثبات داخلی را تحت فشار قرار می‌دهد و ریسک تشدید بی‌ثباتی را بالا می‌برد."
-        ],
-        "impact": "اثر فوری این رخداد تضعیف ظرفیت بقا و مشروعیت رژیم و افزایش احتمال گسترش درگیری منطقه‌ای است.",
-        "tag": "حمله",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkpIN203WXFqNlluTWo5aXFxUmdydVVRUEJuT3JxTFo2cmZVODQ0S2pVY3ROWGVLNEsyU01kYU0tWmxyNUdHUDJTWVIzM1pUVktkM3dxTkZxYUg2THB5OUZFQWZ0VWxQYVFmQW1rMXgwRTFpMWZQQmhwMC1La01YUWtaWTdzSVVxbzdhWDh5Uk1Ddw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkpIN203WXFqNlluTWo5aXFxUmdydVVRUEJuT3JxTFo2cmZVODQ0S2pVY3ROWGVLNEsyU01kYU0tWmxyNUdHUDJTWVIzM1pUVktkM3dxTkZxYUg2THB5OUZFQWZ0VWxQYVFmQW1rMXgwRTFpMWZQQmhwMC1La01YUWtaWTdzSVVxbzdhWDh5Uk1Ddw",
-        "image": null,
-        "timestamp": 1772371320.0
-    },
-    {
-        "title_fa": "واکنش جهانی به کشتن علی خامنه‌ای به‌دست آمریکا و اسرائیل",
-        "title_en": "World reacts to killing of Iran’s Khamenei by US, Israel forces",
-        "summary": [
-            "کشتن علی خامنه‌ای توسط آمریکا و اسرائیل واکنش‌های تلافی‌جویانه تهران را فعال کرد؛ سپاه پاسداران اعلام کرده به ۲۷ پایگاه در منطقه که نیروهای آمریکایی مستقرند حمله کرده و ایران از حمله به دارایی‌ها و اهداف اسرائیل و آمریکا در چند کشور خلیج خبر داده است.",
-            "واکنش‌های بین‌المللی عمدتاً محکومیت قتل و فراخوان به خویشتن‌داری بوده است؛ روسیه و چین به‌طور رسمی این اقدام را محکوم کردند — نقش مسکو و پکن اکنون به‌عنوان حامیان دیپلماتیک و سیاسی تهران قابل تبیین است و می‌توانند ابزارهای کاهش فشار بین‌المللی علیه رژیم را فراهم کنند.",
-            "رئیس‌جمهور مسعود پزشکیان قتل را «اعلام جنگ علیه مسلمانان» خواند و عزاداری عمومی در تهران گزارش شده؛ هم‌زمان بسته شدن حریم هوایی در منطقه و جلسه اضطراری سران خلیج و اتحادیه اروپا نشان می‌دهد هزینه‌های سیاسی و اقتصادی ناشی از بحران در حال افزایش است و مدیریت ناشی از ناکارآمدی‌های ساختاری را به آزمون سخت‌تری می‌کشد."
-        ],
-        "impact": "مرگ خامنه‌ای و زنجیره حملات تلافی‌جویانه، دگرگونی سریع معادلات امنیتی منطقه را تسریع کرده و با تقویت اتکای رژیم به هم‌پیمانان خارجی، ثبات داخلی و توان مدیریت بحران حکومت را تضعیف می‌کند.",
-        "tag": "بی‌ثباتی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/world-reacts-killing-iran-khamenei-130113921.html",
-        "clean_url": "https://www.yahoo.com/news/articles/world-reacts-killing-iran-khamenei-130113921.html",
-        "image": null,
-        "timestamp": 1772370427.0
-    },
-    {
-        "title_fa": "پس از حملات آمریکا و اسرائیل: چه آینده‌ای در انتظار ایران و منطقه است؟",
-        "title_en": "After US-Israel Strikes: What Comes Next for Iran and the Region?",
-        "summary": [
-            "متن مقاله در منبع ارائه‌شده در دسترس نیست؛ بدون دسترسی به محتوای کامل، نمی‌توان اظهارنظرهای تحلیلی قطعی ارائه داد.",
-            "با توجه به عنوان، اگر حملات آمریکا و اسرائیل رخ داده باشد، عاملان فشار خارجی و تحریم‌ها پتانسیل تضعیف ساختارهای اقتصادی و سیاسی رژیم را دارند که می‌تواند پیامدهای داخلی از جمله افزایش سرکوب و بی‌ثباتی اقتصادی را تقویت کند.",
-            "عنوان همچنین نشان‌دهنده خطر تشدید تنش‌های منطقه‌ای و واکنش‌های نیابتی است؛ اما برای تعیین مسیر دقیق لازم است متن کامل مقاله یا شواهد مستقل درباره ماهیت و گستره حملات در دسترس قرار گیرد."
-        ],
-        "impact": "بدون متن مقاله نمی‌توان نتیجه‌گیری قاطع داشت، اما در صورت صحت حملات آمریکا-اسرائیل، ثبات داخلی و توان بازدارندگی رژیم به‌طور معناداری تحت فشار قرار خواهد گرفت.",
-        "tag": "امنیت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Chicago Council on Global Affairs",
-        "url": "https://www.dispatch.com/story/opinion/contributors/2026/02/28/us-attack-israel-iran-war-what-happens-next/88918107007/",
-        "clean_url": "https://www.dispatch.com/story/opinion/contributors/2026/02/28/us-attack-israel-iran-war-what-happens-next/88918107007",
-        "image": null,
-        "timestamp": 1772370197.0
     }
 ]
