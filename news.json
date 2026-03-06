@@ -90,6 +90,24 @@
         "timestamp": 1772758360.0
     },
     {
+        "title_fa": "حملات اسرائیل به تهران و بیروت؛ ترامپ خواهان نقش در انتخاب رهبر جدید ایران",
+        "title_en": "Israel strikes Tehran, Beirut while Trump wants a say in selecting Iran leader",
+        "summary": [
+            "اسرائیل «موج گسترده» حملات هوایی را به زیرساخت‌های کلیدی در تهران آغاز کرد؛ رسانه‌های دولتی از اصابت به یک خیابان خرید شلوغ و شنیده شدن صدای جنگنده‌ها خبر می‌دهند و هم‌زمان ضرباتی علیه حزب‌الله در بیروت گزارش شده است.",
+            "شورای سه‌نفره‌ای که قرار است رهبر جدید را معرفی کند در آماده‌سازی است؛ رئیس‌جمهور دونالد ترامپ علناً خواستار نقش آمریکا در این فرآیند شده که نشان‌دهنده فشار سیاسی خارجی و درهم‌تنیدگی جنگ و سیاست انتخاباتی است.",
+            "نبردها و هشدارهای تخلیه در بیروت همراه با اخلال در عرضه انرژی و اشاره به بحران نفتی، تصویر شکست مدیریت بحران و افزایش نارضایتی عمومی را تقویت می‌کند."
+        ],
+        "impact": "ادامه این ضربات هوایی و مداخلات سیاسی خارجی ساختار حکومت را تضعیف و خطر تشدید بی‌ثباتی سیاسی و اقتصادی در کوتاه‌مدت را افزایش می‌دهد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-06-26?post-id=cmmedmjyi00003b6rvdi3zom1",
+        "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-06-26",
+        "image": null,
+        "timestamp": 1772754600.0
+    },
+    {
         "title_fa": "قطعات موشکی مظنون به ایران، آتش‌سوزی در مرکز اسرائیل به‌راه انداخت",
         "title_en": "Suspected Iranian missile debris ignites fires in central Israel",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://www.tennessean.com/live-story/news/world/2026/03/05/iran-war-us-israel-live-updates/88986988007",
         "image": null,
         "timestamp": 1772748960.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده درباره ایران: ترامپ به نیروهای ایرانی «مصونیت یا مرگ تضمینی» پیشنهاد داد",
+        "title_en": "Iran live updates: Trump offers immunity or 'guaranteed death' to Iranian forces",
+        "summary": [
+            "دونالد ترامپ به‌طور علنی به نیروهای ایرانی پیشنهاد «مصونیت یا مرگ تضمینی» داده؛ لحن تهدیدآمیز که نشان‌دهنده اراده آمریکا برای مقابله نظامی مستقیم است.",
+            "وزارت دفاع آمریکا روز چهارشنبه دو نفر آخر از شش نظامی آمریکایی کشته‌شده در ساعات آغازین جنگ با ایران را شناسایی کرد؛ تلفات مستقیم و رسمی درگیری را تأیید می‌کند.",
+            "این تقابل نظامی و تلفات اولیه، ریسک‌های سیاست خارجی رژیم را برجسته می‌کند و می‌تواند به افزایش فشارهای نظامی، سیاسی و اقتصادی خارجی و تضعیف بیشتر مشروعیت داخلی منجر شود."
+        ],
+        "impact": "رویارویی مستقیم آمریکا–ایران با تلفات نظامی رسمی، فضای امنیتی و سیاسی رژیم را به‌طرزی ساختاری تضعیف می‌کند و احتمال تشدید فشارهای خارجی و ناپایداری داخلی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "ABC7 Chicago",
+        "url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/",
+        "clean_url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347",
+        "image": "http://www.bing.com/th?id=OVFT.eeFunT7fragaCoutSs4X0C&pid=News",
+        "timestamp": 1772747400.0
     },
     {
         "title_fa": "تعطیلی نماز جمعه در مسجدالاقصی در پی جنگ با ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/03/02/middleeast/iran-war-retaliation-rattles-gulf-neighbors-intl",
         "image": null,
         "timestamp": 1772459160.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ با ایران: شش نظامی آمریکایی کشته شدند؛ روبیو به قانونگذاران گزارش داد",
-        "title_en": "Iran war updates: Six US service members dead; Rubio briefs lawmakers",
-        "summary": [
-            "عنوان گزارش می‌گوید شش عضو نیروهای آمریکایی کشته شده‌اند و مارکو روبیو، سناتور، به قانونگذاران درباره‌ی این رویداد اطلاع‌رسانی کرده است؛ متن کامل خبر ارائه نشده است.",
-            "از منظر استراتژیک، اعلام تلفات آمریکایی‌ها خطر تشدید واکنش‌های نظامی یا سیاسی واشنگتن علیه تهران را افزایش می‌دهد؛ هرگونه پاسخ نظامی یا تحریم تازه می‌تواند فشار ساختاری اقتصادی و سیاسی بر رژیم ایران را تشدید کند.",
-            "منبع ارسال‌شده محتوای اصلی را شامل نمی‌شود؛ برای تحلیل دقیق لازم است مرجع رسمی، مکان حادثه، عامل مدعی مسئولیت و جزئیات تثبیت‌شده تلفات اعلام شوند؛ تا آن زمان باید از گسترش حدسیات خودداری کرد."
-        ],
-        "impact": "این خبر به‌طور محسوس خطر تشدید درگیری و افزایش فشار بین‌المللی بر تهران را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/live-story/news/politics/2026/03/02/iran-live-updates-trump-congress-vote-soldiers-deaths/88937393007/",
-        "clean_url": "https://www.usatoday.com/live-story/news/politics/2026/03/02/iran-live-updates-trump-congress-vote-soldiers-deaths/88937393007",
-        "image": "http://www.bing.com/th?id=OVFT.RxuCoypKiOIsEJU02Vyrei&pid=News",
-        "timestamp": 1772458740.0
-    },
-    {
-        "title_fa": "تشدید درگیری‌ها: کشته شدن ۴ نیروی ارتش آمریکا و افزایش شمار تلفات",
-        "title_en": "Iran conflict escalates: 4 U.S. service members killed as death toll climbs",
-        "summary": [
-            "منبع خبر می‌دهد که در جریان تشدید درگیری‌ها ۴ نیروی نظامی آمریکا کشته شده‌اند و مجموع تلفات در حال افزایش است.",
-            "تشدید نظامی احتمال افزایش فشارهای بین‌المللی و تحریم‌ها را بالا می‌برد؛ چنین فشاری می‌تواند منابع مالی و دیپلماتیک رژیم را محدود کرده و به تضعیف ساختار بقاء آن بینجامد.",
-            "افزایش تلفات و گسترش درگیری‌ها می‌تواند نارضایتی عمومی را تشدید کند و سوءمدیریت اقتصادی و سیاسی را برجسته‌تر سازد؛ این ترکیب ریسک بی‌ثباتی داخلی را افزایش می‌دهد."
-        ],
-        "impact": "تشدید خشونت و کشته شدن نیروهای آمریکایی، چشم‌انداز انزوای بین‌المللی و تشدید فشارهای داخلی را تقویت کرده و ثبات رژیم را به‌طرزی قابل توجه تهدید می‌کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MLUVkMGxCamFRLU1oSWtoWXRubEVxbENRTndzdWE0aWRnTkNhbU9YT1o0aXBoMEVqTzZVUnVmMDF6bXJWS3l1RGQzaE5NNUdRNkV1UUNrZC1uLTZvODh5ZGhYbG5IZ3ZJbU9kRF84Z0cySWtBSFd5WFJBSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MLUVkMGxCamFRLU1oSWtoWXRubEVxbENRTndzdWE0aWRnTkNhbU9YT1o0aXBoMEVqTzZVUnVmMDF6bXJWS3l1RGQzaE5NNUdRNkV1UUNrZC1uLTZvODh5ZGhYbG5IZ3ZJbU9kRF84Z0cySWtBSFd5WFJBSQ",
-        "image": null,
-        "timestamp": 1772457525.0
     }
 ]
