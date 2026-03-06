@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تهران در روز هفتم جنگ آمریکا و اسرائیل علیه ایران بمباران سنگین شد",
+        "title_en": "Tehran hit by heavy bombing on day seven of US-Israel war on Iran",
+        "summary": [
+            "در روز هفتم از جنگ مستقیم آمریکا و اسرائیل علیه ایران، تهران هدف بمباران سنگین قرار گرفت؛ اعلام شده صرفاً در تیتر خبر.",
+            "حمله گسترده هوایی نشان‌دهنده تشدید فشار نظامی خارجی است؛ این نوع فشار ساختار حکمرانی را تضعیف و منابع اقتصادی و نظامی کشور را خالی می‌کند.",
+            "بمباران پایتخت احتمالاً خدمات شهری و بازارها را مختل کرده و ریسک رشد نارضایتی عمومی و تضعیف کنترل حکمرانی بر نظم داخلی را افزایش می‌دهد."
+        ],
+        "impact": "بمباران تهران شانس تشدید بحران سیاسی-امنیتی و کاهش ظرفیت حکمرانی برای حفظ کنترل معیشت و نظم عمومی را به‌طور مستقیم بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/tehran-hit-by-heavy-bombing-on-day-seven-of-us-israel-war-on-iran/ar-AA1XDcje",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/tehran-hit-by-heavy-bombing-on-day-seven-of-us-israel-war-on-iran/ar-AA1XDcje",
+        "image": null,
+        "timestamp": 1772779500.0
+    },
+    {
         "title_fa": "امارات بررسی مسدودسازی دارایی‌های ایران را در بحبوحه تشدید درگیری‌های خاورمیانه مطرح می‌کند: وال‌استریت ژورنال",
         "title_en": "UAE mulls freezing Iranian assets as Middle East conflict escalates: WSJ",
         "summary": [
@@ -106,6 +124,24 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-conflict-middle-east-crisis-drone-ballistic-missile-attacks-explosions-dubai-uae-qatar-tehran-gulf-donald-trump-netanyahu-khamenei/liveblog/129061702.cms",
         "image": null,
         "timestamp": 1772752680.0
+    },
+    {
+        "title_fa": "ایران به اسرائیل و پایگاه‌های آمریکا حمله کرد؛ جنگ تشدید شد",
+        "title_en": "Iran attacks Israel and US bases as war intensifies",
+        "summary": [
+            "ایران روز پنج‌شنبه به اسرائیل و چند پایگاه آمریکایی حمله کرد.",
+            "تهدید تهران متوجه ایالات متحده است؛ ادعا شده حمله در اعتراض به تورپیدو شدن یک ناو جنگی ایرانی در اقیانوس هند انجام شده است.",
+            "این تشدید نظامی احتمال واکنش نظامی گسترده، فشار دیپلماتیک و تحریم‌های شدیدتر را افزایش می‌دهد و نشان‌دهنده فقدان راهبرد پایدار و مدیریت بحران در حکومت است."
+        ],
+        "impact": "خطر برخورد مستقیم با آمریکا و اسرائیل به‌طور جدی افزایش یافته و حکومت را در معرض واکنش نظامی و انزوای بین‌المللی قرار می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "FOX 5 DC",
+        "url": "https://www.fox5dc.com/news/iran-war-continues-strikes-israel-us-march-5-2026",
+        "clean_url": "https://www.fox5dc.com/news/iran-war-continues-strikes-israel-us-march-5-2026",
+        "image": "http://www.bing.com/th?id=OVFT.XFRl0x-LZd07Qs-VSePCCi&pid=News",
+        "timestamp": 1772751720.0
     },
     {
         "title_fa": "به‌روزرسانی جنگ آمریکا-ایران: ترامپ می‌گوید عملیات «بسیار مهم‌تر» از قیمت بنزین است",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5MLUVkMGxCamFRLU1oSWtoWXRubEVxbENRTndzdWE0aWRnTkNhbU9YT1o0aXBoMEVqTzZVUnVmMDF6bXJWS3l1RGQzaE5NNUdRNkV1UUNrZC1uLTZvODh5ZGhYbG5IZ3ZJbU9kRF84Z0cySWtBSFd5WFJBSQ",
         "image": null,
         "timestamp": 1772457525.0
-    },
-    {
-        "title_fa": "بازارهای پیش‌بینی به‌خاطر شرط‌بندی روی ایران تحت بررسی: «معاملات داخلی در روز روشن»، سناتور می‌گوید",
-        "title_en": "Prediction markets draw scrutiny over Iran bets: \"Insider trading in broad daylight,\" senator says",
-        "summary": [
-            "حجم‌های سنگین شرط‌بندی در پلتفرم‌هایی مثل Polymarket و Kalshi روی موضوعاتی چون زمان حمله آمریکا یا اسرائیل و سرنوشت علی خامنه‌ای گزارش شده؛ یک قرارداد در ژانویه ۴ میلیون دلار جذب کرد و حساب‌هایی مانند «Magamyman» صدها هزار دلار سود کردند.",
-            "نشانه‌هایی از بهره‌برداری احتمالی افراد دارای اطلاعات داخلی مطرح شده است؛ شرکت تحلیل بلاک‌چین Bubblemaps مدعی شد چند معامله‌گر مشکوک مجموعا ۱.۲ میلیون دلار از شرط‌بندی روی حمله آمریکا به ایران سود برده‌اند و سناتورهایی مانند Chris Murphy و Ruben Gallego به‌سرعت خواستار ممنوعیت یا تنظیم قوانین جدید شدند.",
-            "این بازارها علاوه بر منافع مالی، سؤالات اخلاقی آشکاری مطرح می‌کنند — منتقدان می‌گویند قراردادهایی که روی مرگ یا حذف سیاسی افراد بسته می‌شوند عملا بازارهای نماینده برای «ترور» ایجاد کرده‌اند و اجازه چنین معاملاتی پیامدهای امنیتی و سیاسی دارد."
-        ],
-        "impact": "نشت و سودجویی آشکار از اطلاعات حساس می‌تواند امنیت عملیاتی و مشروعیت حکومت را تضعیف، فشار قانونی و نظارتی بر پلتفرم‌ها را افزایش و ریسک بی‌ثباتی سیاسی را تشدید کند.",
-        "tag": "نشت",
-        "urgency": 10,
-        "sentiment": -0.65,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/iran-khamenei-prediction-markets-insider-trading/",
-        "clean_url": "https://www.cbsnews.com/news/iran-khamenei-prediction-markets-insider-trading",
-        "image": "http://www.bing.com/th?id=OVFT.xQ6n5SiY6yGDTPpBekobkC&pid=News",
-        "timestamp": 1772456460.0
-    },
-    {
-        "title_fa": "درگیری ایران: پنج نکته که باید بدانید (WSJ)",
-        "title_en": "Iran Conflict: Five Things to Know",
-        "summary": [
-            "مطلب وال‌استریت ژورنال به‌صورت «پنج نکته» پنج نکته کلیدی درباره درگیری در ایران جمع‌بندی می‌کند؛ بدون متن کامل نمی‌توان محتوای دقیق هر نکته را تائید کرد.",
-            "در صورت اشاره به فشارهای خارجی و تحریم‌ها، این فشارها ساختار اقتصادی رژیم را تضعیف می‌کنند و ظرفیت دولت برای مدیریت بحران و خرید وفاداری را کاهش می‌دهند؛ پیامدهای سیاسی داخلی و فشار بر منابع مالی رژیم تقویت خواهد شد.",
-            "در صورت اشاره به اعتراضات یا مشکلات اقتصادی، چنین گزارش‌هایی نشان‌دهنده ناکارآمدی مدیریتی بلندمدت و رشد نارضایتی عمومی است که می‌تواند ثبات محلی و مشروعیت حکومت را بیش از پیش تضعیف کند."
-        ],
-        "impact": "حتی خلاصه‌های خبری کوتاه از سوی رسانه‌های بین‌المللی توان ایجاد موج تحلیلی در میان سیاست‌گذاران و بازارها و تسریع فشار دیپلماتیک-اقتصادی علیه رژیم را دارند.",
-        "tag": "خلاصه",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "WSJ",
-        "url": "https://www.msn.com/en-us/news/world/iran-conflict-five-things-to-know/ar-AA1Xmwk4",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-conflict-five-things-to-know/ar-AA1Xmwk4",
-        "image": null,
-        "timestamp": 1772456400.0
     }
 ]
