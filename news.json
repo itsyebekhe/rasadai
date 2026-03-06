@@ -18,6 +18,24 @@
         "timestamp": 1772830502.0
     },
     {
+        "title_fa": "آمریکا و اسرائیل با سرعتی بی‌سابقه به ایران حمله می‌کنند، گزارش مانیتور جنگ",
+        "title_en": "US and Israel attacking Iran at ‘record pace’, war monitor says",
+        "summary": [
+            "گروه تحقیقاتی Airwars گزارش می‌دهد که روزهای اولیه حملات آمریکا و اسرائیل به ایران «تعداد اهداف مورد اصابت در هر روز» را به سطحی رسانده که در دهه‌های اخیر بی‌سابقه است، و از جمله از شدت بالاتر از کارزار علیه داعش و جنگ اسرائیل در غزه یاد می‌کند.",
+            "این موج بمباران که دولت‌های آمریکا و اسرائیل وعده ادامه آن را داده‌اند، می‌تواند فشار خارجی و احتمال تشدید تحریم‌ها و انزوای بین‌المللی رژیم را افزایش دهد؛ اثرات ساختاری بر ثبات اقتصادی و توانایی حکومت در تأمین منابع حیاتی قابل توجه خواهد بود.",
+            "ادامه حملات سطح بالا ریسک افزایش نارضایتی عمومی را بالا می‌برد و ضعف‌های مدیریتی و ناکارآمدی‌های حکومتی را برجسته می‌سازد؛ هزینه‌های بازسازی و اختلال در خدمات پایه اقتصادی-اجتماعی پتانسیل تشدید بحران داخلی را دارد."
+        ],
+        "impact": "این سطح از حملات، هم فشار خارجی بر رژیم را تشدید و هم توانایی آن برای حفظ کنترل داخلی و مدیریت اقتصادی را به شکلی قابل توجه تضعیف می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/us-israel-attacking-iran-record-203721344.html",
+        "clean_url": "https://www.yahoo.com/news/articles/us-israel-attacking-iran-record-203721344.html",
+        "image": null,
+        "timestamp": 1772829645.0
+    },
+    {
         "title_fa": "چگونه جنگ در ایران به پایان می‌رسد",
         "title_en": "How the war in Iran ends",
         "summary": [
@@ -304,6 +322,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDhDMkdhYnl3amluc3ZBa3dTSk5rTXo1QWM2NHFrd3UzZzBHaWIxZmFKR2l5OHNPbnVfMEE1aFpoTVdzZmI3cktpdHNvWGRmbEphb1RuZnRlak56cER0dE5sSElwRDE5MnRHeWdtLXlTdU9vRkc1NmhSXzF5Y2NBSkthUUVRdHdnOU9FMFVEZjU0b2xHMmV3QzVMTUtIc1MxTkJnV0Vwb9IBrAFBVV95cUxNYncyd2F5cVZMbHRocEVzVFU0Nk1SV2h6YmxVc21Tb3Z5OC1vWGNWT1ptSFVnQl9PR3V0aTlDaGNDZDdkVGhfcld6S3pfUnU4YVJBeURFeWctUjloV0VqNUdQVklWN0Z3TTc3MG9aSm9hSkkyM0lNbngtY0x3NVNITTFkdlFCeGV2SVRWLU5QWkhZZlFlUDJhbGZxaVFUYnJ4c0xLeDZXaGdfM3M1",
         "image": null,
         "timestamp": 1772807635.0
+    },
+    {
+        "title_fa": "جنگ ایران وارد فاز جدیدی شده است",
+        "title_en": "The Iran war has entered a new phase",
+        "summary": [
+            "نتایج نشان می‌دهد حدوداً در نیمه اول هفته اول درگیری، روند جنگ وارد فاز جدیدی شد؛ الگوی درگیری تغییر کرده است.",
+            "یکی از تغییرات روشن این است که تلافی‌جویی‌های ایران کمتر مؤثر شده‌اند: هم از نظر تعداد کاهش یافته‌اند و هم اثربخشی کلی‌شان افت کرده است.",
+            "این دگرگونی الگو نشان می‌دهد موقعیت میدانی قابل تغییر است و توان پاسخ‌دهی سریع ایران تحت فشار قرار گرفته است، اگرچه متن شواهد علل دقیق را تشریح نمی‌کند."
+        ],
+        "impact": "کاهش اثربخشی پاسخ‌های ایران می‌تواند تعادل میدانی را به نفع طرف مقابل تغییر دهد و فشار سیاسی و امنیتی بر رژیم را افزایش دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Economist",
+        "url": "https://www.economist.com/interactive/middle-east-and-africa/2026/03/06/the-iran-war-has-entered-a-new-phase",
+        "clean_url": "https://www.economist.com/interactive/middle-east-and-africa/2026/03/06/the-iran-war-has-entered-a-new-phase",
+        "image": null,
+        "timestamp": 1772803440.0
+    },
+    {
+        "title_fa": "ترامپ: در انتخاب رهبر جدید ایران کمک می‌کنم؛ پیش‌بینی سقوط کوبا",
+        "title_en": "Trump says he’ll help pick Iran’s leader, predicts regime change in Cuba",
+        "summary": [
+            "اظهارنظر ترامپ به POLITICO درباره «کمک به انتخاب رهبر ایران» نشان‌دهنده اراده واشنگتن برای مداخله سیاسی در اختلاف بر سر جانشینی است که می‌تواند فشارهای خارجی و انزوای بین‌المللی رژیم را تشدید کند.",
+            "او همچنین پیش‌بینی کرد «کوبا سقوط خواهد کرد» و از خستگی روزافزون نسبت به اوضاع اوکراین خبر داد؛ این ترکیب مواضع نشانه تغییر اولویت‌ها و احتمال تمرکز مجدد سیاست خارجی آمریکا بر مقابله با رژیم‌های مخالف است.",
+            "متن گزارش شواهد مستقیمی از اعتراضات داخلی یا فروپاشی اقتصادی در ایران ارائه نمی‌دهد؛ با این حال وعده مداخله بیرونی می‌تواند موقعیت ناپایدار نظام را تقویت یا تشدید کند و به اپوزیسیون ظرفیت عملیاتی بیشتری بدهد."
+        ],
+        "impact": "اظهارنظر ترامپ می‌تواند به تسریع فشارهای بین‌المللی بر رژیم، افزایش شکاف‌های داخلی و تقویت تلاش‌های اپوزیسیون برای تغییر ساختار سیاسی بینجامد.",
+        "tag": "ایران",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/03/05/trump-unleashed-president-bullish-on-iran-eyeing-regime-change-in-cuba-and-impatient-with-ukraine-00814292",
+        "clean_url": "https://www.politico.com/news/2026/03/05/trump-unleashed-president-bullish-on-iran-eyeing-regime-change-in-cuba-and-impatient-with-ukraine-00814292",
+        "image": "http://www.bing.com/th?id=OVFT.wFEZnqPbPD8H8xZzwa9Ixy&pid=News",
+        "timestamp": 1772801940.0
     },
     {
         "title_fa": "اسرائیل پس از جنگ با ایران",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/four-men-could-save-destroy-060000747.html",
         "image": "http://www.bing.com/th?id=ONUT.V-t8GTwA2Xvu8ZG_dYpxtw&pid=News",
         "timestamp": 1772519400.0
-    },
-    {
-        "title_fa": "ترامپ: جنگ با ایران می‌تواند «خیلی طولانی‌تر» از برنامه پیش برود",
-        "title_en": "Trump says Iran war could go ‘far longer’ than planned",
-        "summary": [
-            "دونالد ترامپ گفت جنگ با ایران ممکن است «خیلی طولانی‌تر» از آنچه برنامه‌ریزی شده ادامه یابد؛ اظهارنظر او نشانه احتمال تشدید و ادامه بلندمدت عملیات نظامی است.",
-            "تصویر همراه گزارش، پلاکات‌های پاره‌شده علی خامنه‌ای و روح‌الله خمینی را میان خرابی‌های ناشی از حمله‌ای در تهران نشان می‌دهد؛ گزارش می‌گوید علی خامنه‌ای در جریان عملیات مشترک آمریکا و اسرائیل کشته شده است.",
-            "ادامه عملیات مشترک آمریکا و اسرائیل و سخنان ترامپ فشار خارجی را تشدید کرده و به‌طور مستقیم ساختار مشروعیت رژیم را تضعیف می‌کند؛ این شرایط می‌تواند به اختلال در مدیریت اقتصادی و افزایش سرکوب داخلی بینجامد."
-        ],
-        "impact": "تداوم این کمپین نظامی و حذف رهبری رسمی وضعیت خلأ رهبری و فشار خارجی را شدت می‌بخشد و خطر تشدید سرکوب و ناپایداری سیاسی-اقتصادی را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "OregonLive.com",
-        "url": "https://www.oregonlive.com/nation/2026/03/trump-says-iran-war-could-last-weeks.html",
-        "clean_url": "https://www.oregonlive.com/nation/2026/03/trump-says-iran-war-could-last-weeks.html",
-        "image": "http://www.bing.com/th?id=OVFT.LFS-jQEhyEbQKDLbFC2vPC&pid=News",
-        "timestamp": 1772518380.0
-    },
-    {
-        "title_fa": "نتانیاهو: جنگ آمریکا-اسرائیل با ایران «سال‌ها طول نخواهد کشید»",
-        "title_en": "Netanyahu says US-Israel war on Iran 'not going to take years'",
-        "summary": [
-            "گسترش حملات مشترک آمریکا و اسرائیل به ایران در قالب حمله به ساختمان‌های دولتی و بیمارستان‌ها و هدف‌گیری شبه‌نظامیان مورد حمایت ایران در لبنان نشان‌دهنده ورود مستقیم بیشتر بازیگران خارجی به درگیری است.",
-            "اظهار نظر نتانیاهو مبنی بر کوتاه‌مدت بودن جنگ، احتمال تلاش برای فشرده‌سازی عملیات نظامی و فشار بر تهران را نشان می‌دهد؛ این نوع هزینه‌گذاری نظامی می‌تواند فشار بر منابع دولتی و زیرساخت‌ها را تشدید کند.",
-            "آسیب دیدن بیمارستان و ساختمان‌های انتظامی، ضعف در حفاظت از زیرساخت‌های حیاتی و ناکارآمدی مدیریت بحران را نمایان می‌کند و خطر افزایش نارضایتی عمومی را بالا می‌برد."
-        ],
-        "impact": "گسترش حملات مشترک آمریکا و اسرائیل به زیرساخت‌های ایران می‌تواند ثبات داخلی را تضعیف کرده و احتمال بسط درگیری در منطقه را بالا ببرد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.yahoo.com/news/articles/netanyahu-says-us-israel-war-060323005.html",
-        "clean_url": "https://www.yahoo.com/news/articles/netanyahu-says-us-israel-war-060323005.html",
-        "image": null,
-        "timestamp": 1772517780.0
-    },
-    {
-        "title_fa": "«دعا کنید از شب جان سالم به در ببریم»: پایتخت ایران زیر محاصره",
-        "title_en": "‘Pray We Make It Through the Night’: Iran’s Capital Under Siege",
-        "summary": [
-            "ایالات متحده و اسرائیل طی سه روز حملاتی را علیه تهران انجام داده‌اند؛ ویدئوها و گزارش‌ها خسارت گسترده به بلوک‌های مسکونی، ایستگاه پلیس و اتاق‌های بیمارستان با شیشه‌های خردشده و آوار را نشان می‌دهد.",
-            "آسیب شدید به زیرساخت‌های شهری و تهدید مستقیم جان غیرنظامیان نشان‌دهنده ناتوانی دولت در تضمین امنیت شهری است و اعتماد عمومی و احساس امنیت شهروندان را تضعیف می‌کند.",
-            "فشار نظامی مستقیم خارجی ساختار سیاسی و اقتصادی رژیم را تضعیف کرده و با افزایش هزینه‌های امنیتی و اختلال در خدمات عمومی می‌تواند ریسک تشدید بحران سیاسی داخلی و فشار بر منابع اقتصادی را افزایش دهد."
-        ],
-        "impact": "حملات مستقیم ایالات متحده و اسرائیل توانایی رژیم در حفاظت از شهروندان را زیر سؤال می‌برد و ریسک تشدید بحران سیاسی و امنیتی داخلی را به‌طور قابل‌توجهی افزایش می‌دهد.",
-        "tag": "محاصره",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html",
-        "clean_url": "https://www.nytimes.com/2026/03/02/world/middleeast/iran-tehran-strikes.html",
-        "image": "http://www.bing.com/th?id=OVFT.pP80knooeGWWhvfoJnZ7VC&pid=News",
-        "timestamp": 1772515740.0
     }
 ]
