@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حملات ایران در خلیج فارس: سوزاندن پل‌های همسایگی",
+        "title_en": "Iran’s strikes on the Gulf: Burning the bridges of good neighbourliness",
+        "summary": [
+            "تحریم‌ها / فشار خارجی: بر اساس عنوان، این حملات احتمالاً موجب افزایش ایزولاسیون بین‌المللی می‌شود — می‌تواند موج تازه‌ای از تحریم‌ها، کاهش سرمایه‌گذاری خارجی و محدودیت در دسترسی به بازارهای بین‌المللی را تسریع کند و ساختار مالی و ارزی رژیم را تضعیف کند.",
+            "وضعیت داخلی / اقتصاد: اولویت‌گذاری عملیات نظامی به‌جای اصلاحات اقتصادی می‌تواند فشار معیشتی بر مردم را افزایش دهد؛ کاهش درآمدهای ارزی، نوسانات قیمت‌ها و تشدید نارضایتی عمومی پیامد قابل انتظار است و بار مدیریتی ناکارآمدی را برجسته می‌کند.",
+            "ابعاد منطقه‌ای و دیپلماتیک: عنوان نشان می‌دهد که ارتباطات همسایگی آسیب دیده است — پیامد ملموس کاهش ظرفیت مذاکره، افزایش احتمال واکنش‌های نظامی یا دیپلماتیک از سوی کشورهای منطقه و تضعیف جایگاه دیپلماتیک ایران در خلیج فارس خواهد بود."
+        ],
+        "impact": "این اقدام، بر اساس عنوان گزارش، فوراً ریسک واکنش‌های تنبیهی و تشدید فشار دیپلماتیک-اقتصادی را بالا می‌برد و فضای مانور سیاسی و اقتصادی رژیم را بیشتر ناپایدار می‌کند.",
+        "tag": "تهاجم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-strikes-on-the-gulf-burning-the-bridges-of-good-neighbourliness/ar-AA1XH9zg",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-strikes-on-the-gulf-burning-the-bridges-of-good-neighbourliness/ar-AA1XH9zg",
+        "image": null,
+        "timestamp": 1772846899.0
+    },
+    {
         "title_fa": "جنگ با ایران: اسرائیل حملات «وسیع‌مقیاس» به تهران را آغاز کرد",
         "title_en": "Iran war: Israel launches 'broad-scale' strikes on Tehran",
         "summary": [
@@ -270,6 +288,42 @@
         "timestamp": 1772820548.0
     },
     {
+        "title_fa": "استراتژی پرخطر ایران برای جنگ بی‌حد و مرز در خاورمیانه",
+        "title_en": "Iran’s high-risk strategy for a no-limits Middle East war",
+        "summary": [
+            "وال‌استریت‌ژورنال گزارش می‌دهد که رهبران تهران پیش از درگیری فعلی طرحی طراحی کردند که هدف آن گسترش نبرد به سراسر منطقه است.",
+            "اجرای چنین راهبردی احتمال تبدیل یک مناقشه محدود را به رویارویی گسترده با بازیگران منطقه‌ای و فرامنطقه‌ای افزایش می‌دهد و ریسک برخورد مستقیم و تسری خشونت را بالا می‌برد.",
+            "پیگیری سیاست تشدیدی می‌تواند فشارهای دیپلماتیک و تحریمی را علیه رژیم تشدید کند و از منظر داخلی پایه‌های اقتصادی و سیاسی را تضعیف نماید؛ با این حال شدت پیامدها بستگی مستقیم به واکنش بازیگران خارجی و وضعیت نارضایتی داخلی دارد."
+        ],
+        "impact": "این طرح شانس گسترش سریع خشونت در منطقه را بالا می‌برد و از طریق افزایش فشارهای خارجی و تضعیف اقتصادی می‌تواند ثبات رژیم را بیش‌تر متزلزل کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-high-risk-strategy-for-a-no-limits-middle-east-war/ar-AA1XGTbi",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-high-risk-strategy-for-a-no-limits-middle-east-war/ar-AA1XGTbi",
+        "image": "http://www.bing.com/th?id=OVFT.yZkYxWaJrXcFepHAmTDtAC&pid=News",
+        "timestamp": 1772820000.0
+    },
+    {
+        "title_fa": "جنگ در ایران وارد هفته دوم شد؛ ترامپ خواهان «تسلیم بی‌قید و شرط»",
+        "title_en": "Iran war enters second week as Trump demands 'unconditional surrender'",
+        "summary": [
+            "درگیری‌ها گسترش یافته و اسرائیل و ایران و لبنان حملات تازه‌ای را تبادل کردند؛ گزارش پایان زد و خوردها یا راه‌حل دیپلماتیک مشخصی را نشان نمی‌دهد.",
+            "اظهارات ترامپ درباره «تسلیم بی‌قید و شرط» به تشدید فشار سیاسی و دیپلماتیک دامن زده و نشان می‌دهد چارچوب مشخصی برای توقف درگیری وجود ندارد.",
+            "گزارش اشاره‌ای به اعتراضات داخلی یا پیامدهای اقتصادی نکرده؛ با این حال ادامه دور تازه‌زد و خوردها می‌تواند فشار خارجی و ریسک بی‌ثباتی داخلی را افزایش دهد."
+        ],
+        "impact": "گسترش فشار نظامی و دیپلماتیک خارجی هم‌روندهای ساختاری تضعیف سیاسی و امنیتی را تشدید می‌کند و ریسک تشدید بی‌ثباتی داخلی را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-war-enters-second-week-trump-demands-unconditional-surrender-2026-03-07/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-war-enters-second-week-trump-demands-unconditional-surrender-2026-03-07",
+        "image": "http://www.bing.com/th?id=OVFT.YG4McnlWua6zcGSyL5X3VS&pid=News",
+        "timestamp": 1772819700.0
+    },
+    {
         "title_fa": "ادعاهای شبکه‌های اجتماعی درباره فهرست اهداف آمریکا از سوی ایران صحت ندارد",
         "title_en": "Iran did not release a list of U.S. targets, despite social media claims",
         "summary": [
@@ -286,6 +340,24 @@
         "clean_url": "https://www.politifact.com/factchecks/2026/mar/06/social-media/iran-us-military-attack",
         "image": null,
         "timestamp": 1772819100.0
+    },
+    {
+        "title_fa": "ترامپ خواستار «تسلیم بی‌قید و شرط» ایران شد و راه‌های دیپلماتیک را مسدود کرد",
+        "title_en": "Trump demands Iran's 'unconditional surrender,' complicating diplomatic paths",
+        "summary": [
+            "درخواست «تسلیم بی‌قید و شرط» از سوی رئیس‌جمهور آمریکا و اعلام نیاز وی به دخالت در انتخاب رهبر جدید ایران، هر گونه راه‌حل دیپلماتیک سریع را عملاً ناممکن می‌کند؛ تهران انتخاب رهبری را مختص سازوکارهای قانونی داخلی دانسته و از مداخله خارجی رد کرده است.",
+            "در میدان نبرد، تنش‌ها به سرعت گسترش یافته‌اند: حملات گسترده اسرائیل به بیروت و جنوب لبنان، حملات موشکی ایران به اسرائیل و پایگاه‌های میزبان نیروهای آمریکایی در خلیج و اعلام بسته شدن مؤثر تنگه هرمز، نشان‌دهنده جهش به فاز منطقه‌ای جنگ است.",
+            "پیامدهای اقتصادی و فشار خارجی بلافاصله نمایان شد: بازارهای سهام افت کردند و قیمت نفت به بالاترین سطح از ۲۰۲۳ رسید — این شوک‌های اقتصادی ساختاری، کارآمدی مدیریت رژیم را زیر سؤال برده و ظرفیت آن برای تاب‌آوری سیاسی و اقتصادی را تضعیف می‌کند."
+        ],
+        "impact": "ترکیب خواسته‌های واشنگتن برای تغییر رهبری، تشدید جنگ منطقه‌ای و اختلال جریان انرژی، پنجره مذاکره را عملاً بسته و ثبات داخلی و اقتصادی رژیم را به سطح بحرانی سوق می‌دهد.",
+        "tag": "تصاعد",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-urges-iranian-kurds-attack-035308415.html",
+        "clean_url": "https://www.aol.com/articles/trump-urges-iranian-kurds-attack-035308415.html",
+        "image": "http://www.bing.com/th?id=OVFT.RJcFYrkNGzYuvo00NAlASS&pid=News",
+        "timestamp": 1772818740.0
     },
     {
         "title_fa": "اختصاصی رویترز: اسرائیل از طرح کردهای ایرانی برای تصرف مناطق مرزی ایران حمایت می‌کند، منابع می‌گویند",
@@ -324,6 +396,24 @@
         "timestamp": 1772814550.0
     },
     {
+        "title_fa": "ترامپ مذاکرات با ایران را رد کرد و خواستار «تسلیم بی‌قید و شرط» شد؛ روسیه به گزارش‌ها اطلاعات نظامی به ایران می‌دهد",
+        "title_en": "Iran updates: Trump rules out negotiations with Iran and calls for 'unconditional surrender'",
+        "summary": [
+            "رئیس‌جمهور ترامپ مذاکره با ایران را منتفی اعلام کرده و خواستار «تسلیم بی‌قید و شرط» ایران شد و گفت خودش زمان اعلام تسلیم را تعیین خواهد کرد؛ کنگره نتوانست مانع ادامه حملات شود و نمایندگان و سناتورها اقدام به محدودسازی اختیارات نظامی نکردند.",
+            "گزارش‌های چند رسانه‌ای حاکی است روسیه اطلاعاتی درباره تحرکات نظامی آمریکا در اختیار ایران قرار می‌دهد که می‌تواند ضربات تلافی‌جویانه تهران را موثرتر سازد؛ نقش روسیه به‌وضوح به عنوان یک تسهیل‌کننده استراتژیک ظهور کرده اما انگیزه‌های متقابل روشن نیست.",
+            "درگیری‌ها تشدید شده: اسرائیل و آمریکا به تهران و حومه جنوبی بیروت حمله می‌کنند، ایران حملات تلافی‌جویانه انجام می‌دهد؛ تلفات سنگین اعلام شده — دست‌کم ۱٬۲۳۰ کشته در ایران از جمله علی خامنه‌ای، حدود یک‌دوجین در اسرائیل، بیش از ۲۰۰ در لبنان و شش نظامی آمریکایی کشته — و فرماندهان آمریکایی کاهش نرخ آتش ایران و برتری تدریجی توان رزمی ایالات متحده را گزارش می‌دهند؛ اعزام نیروهای زمینی از آمریکا کماکان روی میز است."
+        ],
+        "impact": "فشار نظامی و سیاسی خارجی همراه با نقش تسهیل‌گرانه روسیه ساختار بقا و توان عمل رژیم را تضعیف کرده و خطر تشدید سریع عملیات نظامی و بحران سیاسی داخلی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/live/iran-live-updates-trump-rules-out-negotiations-with-iran-and-calls-for-unconditional-surrender-142632923.html",
+        "clean_url": "https://www.yahoo.com/news/world/live/iran-live-updates-trump-rules-out-negotiations-with-iran-and-calls-for-unconditional-surrender-142632923.html",
+        "image": null,
+        "timestamp": 1772813520.0
+    },
+    {
         "title_fa": "روسیه به ایران اطلاعات درباره موقعیت و تحرکات نظامیان آمریکایی می‌دهد",
         "title_en": "Russia is aiding Iran’s war effort by providing intel on US military targets, sources say",
         "summary": [
@@ -358,6 +448,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPc2FMWE1ZUEx2ak02b29xbDhjVVNvQzRaNENfWkRVV3liVkgyRmlrZnVzcFp6VlU1MkRCZTJRRjBnOGdZRHRibzVCR2d5NVAzbjNQU2tTMXloRUlsR09PZmRCcmd3d1lNZC1XYmxnVkgzLTJpRzRDU3hHdzZVaExycGQ5MUtKWGs2WlRGOXVGQXg",
         "image": null,
         "timestamp": 1772811120.0
+    },
+    {
+        "title_fa": "درخواست «تسلیم بی‌قید و شرط» ترامپ؛ گفت‌وگوی پوتین با رئیس‌جمهور ایران",
+        "title_en": "Trump demands 'unconditional surrender' from Iran as Putin speaks with Iran's president",
+        "summary": [
+            "دونالد ترامپ خواستار «تسلیم بی‌قید و شرط» ایران شده و در حالی که حملات نظامی آمریکا و اسرائیل ادامه دارد، کاخ سفید مدت عملیات را ۴ تا ۶ هفته پیش‌بینی کرده و ترامپ اعلام کرده تنها با تسلیم بی‌قید و شرط مذاکره خواهد کرد و می‌خواهد در انتخاب رهبر آینده ایران نقشی ایفا کند.",
+            "هویت رهبری در پی کشته شدن علی خامنه‌ای، رهبر جمهوری اسلامی، نامشخص مانده؛ حمله‌ها موجی از پاسخ‌های منطقه‌ای را برانگیخته و وعده‌های آمریکا مبنی بر بازسازی اقتصادی پس از انتخاب «رهبر قابل قبول» نشان‌دهنده تمایل به مهندسی تغییرات سیاسی از بیرون است.",
+            "پوتین با رئیس‌جمهور ایران گفتگو کرده؛ نقش روسیه در این ایام می‌تواند به‌عنوان یک تکیه‌گاه راهبردی برای بقای حکومت تهران عمل کند و به کاهش اثرات فشار خارجی کمک نماید، هرچند میزان و ماهیت این حمایت‌ها روشن و تضمین‌شده نیست."
+        ],
+        "impact": "تقابل نظامی و فشار خارجی همراه با خلأ رهبری، ثبات داخلی رژیم را به‌طور جدی تضعیف کرده و احتمال گسست کنترل مرکزی و تشدید بی‌ثباتی سیاسی-اقتصادی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/c5yq82k1wk8o",
+        "clean_url": "https://www.bbc.com/news/articles/c5yq82k1wk8o",
+        "image": "http://www.bing.com/th?id=OVFT.g9O3iM_HG27WsgSMmEqvLi&pid=News",
+        "timestamp": 1772810940.0
     },
     {
         "title_fa": "به‌روز‌رسانی زنده: جهش قیمت نفت و بنزین؛ هزینه اقتصادی جنگ افزایش یافت",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.usatoday.com/story/news/politics/2026/03/03/trump-iran-war-sends-congress-scrambling/88945183007",
         "image": null,
         "timestamp": 1772528940.0
-    },
-    {
-        "title_fa": "اسرائیل حملات هوایی به تهران را تشدید کرد؛ ایران پاسخ منطقه‌ای را گسترش داد",
-        "title_en": "Israel steps up airstrikes in Tehran, as Iran widens its response across the region",
-        "summary": [
-            "اسرائیل حملات هوایی علیه لانچرها و کارخانه‌های موشکی در تهران را افزایش داد و ایران در خلیج فارس و لبنان واکنش نشان داد؛ در چهارمین روز درگیری‌ها صدها نفر کشته شده‌اند که اکثراً در ایران گزارش شده و اطلاع‌رسانی به‌خاطر اختلالات ارتباطی و محدودیت خبرنگاران ناقص است. حملات اولیه آمریکا-اسرائیل همچنین منجر به کشته شدن علی خامنه‌ای، رهبر ایران، شد.",
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، احتمال اعزام نیروهای زمینی را مطرح کرده و اهدافی شامل نابودی ظرفیت موشکی و دریایی ایران، جلوگیری از دستیابی به سلاح هسته‌ای و قطع حمایت از گروه‌های مسلح متحد را اعلام کرده است؛ نابرهم‌خوانی بین اظهارات مقامات ارشد درباره هدف نداشتن «تغییر رژیم» و خواست عمومی برای سرنگونی حکومت ریسک استراتژیک و ابهام را افزایش می‌دهد.",
-            "اختلال در انرژی و سفر، حملات مداوم به زیرساخت‌ها و محدودیت‌های اطلاع‌رسانی نشان‌دهنده ضعف مدیریتی و ناتوانی حکومت در حفاظت از شهروندان و زیرساخت‌های حیاتی است؛ این وضعیت می‌تواند نارضایتی عمومی را تشدید کند، هرچند گزارش مستقل و قابل اتکایی از اعتراضات گسترده فعلاً در دست نیست."
-        ],
-        "impact": "تشدید حملات و پاسخ‌های منطقه‌ای ساختار ثبات رژیم را تضعیف کرده و احتمال گسترش جنگ و اختلال طولانی‌مدت در زیرساخت‌های حیاتی و اقتصاد داخلی را به‌طور چشمگیری بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/03/03/us-iran-israel/",
-        "clean_url": "https://www.bostonherald.com/2026/03/03/us-iran-israel",
-        "image": "http://www.bing.com/th?id=OVFT.huqhqY2n7Q9RJ3AuQMCYsi&pid=News",
-        "timestamp": 1772528400.0
-    },
-    {
-        "title_fa": "تشییع‌جنازه جمعی قربانیان حمله آمریکا و اسرائیل به مدرسه در ایران",
-        "title_en": "Iran holds mass funeral for girls, staff killed in US-Israel school attack",
-        "summary": [
-            "الجزیره گزارش می‌دهد مراسم تشییع‌جماعی برای دختران و کارکنانی برگزار شد که در حمله‌ای که رسانه‌ها آن را منسوب به آمریکا و اسرائیل می‌دانند، کشته شدند؛ حادثه‌ای با تلفات غیرنظامیان بالا.",
-            "این واقعه فوراً فضای خشم عمومی را تشدید می‌کند و خطر تبدیل شدن مراسم تشییع به کانون اعتراضات ضددولتی را بالا می‌برد؛ اگر حکومت نتواند پاسخ قاطع و قابل‌قبولی ارائه دهد، مشروعیت آن بیش از پیش تضعیف خواهد شد.",
-            "از منظر خارجی، این حادثه تنش بین تهران و ایالات متحده/اسرائیل را تشدید می‌کند و می‌تواند به سیاست‌های تنبیهی یا اقدامات تلافی‌جویانه منجر شود؛ در عین حال به‌عنوان عامل افزایش فشارهای خارجی بر رژیم عمل خواهد کرد."
-        ],
-        "impact": "حمله و مراسم تشییع همزمان تهدیدی برای ثبات داخلی و افزایش هزینه‌های بین‌المللی رژیم ایجاد می‌کند و مشروعیت حکومتی را در معرض فرسایش بیشتر قرار می‌دهد.",
-        "tag": "کشتار",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDlOeFo0X29CWkJ0anJocURZRFZVTGJNUGI4Wjl3N2huc0ZzUFQteVhCSnk5a1plUVVrWHRaUHZuSjN1TWVGNS1EeERESFUyWkZFc3dGYnN1LVFnNlVycU5jcW9xTnJWMFBVanVMeUVacjF5TmlRSlhVWnBUV1A1dGwzRk1WT3NLNExMaDZNSnR0SWVMOFFZdU5vMVJlOHp0Qi1YdU9HaEJpcGR5eVF6N2pJNNIBuAFBVV95cUxONG0yUzdEeFgtLUJOVm4yRkxCeE1NOXRHZkVaMG1qeEcyeDIzR1RXc3RjVXRVQm5nNUg0SkY0UEVOX0xyRGJDZWNhaFo0M1hqZy1rMnhfajd3bmxLZHU0NHJLY3VtX3Y4djZHNWxrNExNTkR3UVhJYXl4SGlPQ1Q5aFZMcXFFdnZZM0VWT0lUdVFuVThKLTRncXo5Y1BRdzNnWGs1SVF2VHdGb3RpTTNsNVRaTUtUOTBI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZDlOeFo0X29CWkJ0anJocURZRFZVTGJNUGI4Wjl3N2huc0ZzUFQteVhCSnk5a1plUVVrWHRaUHZuSjN1TWVGNS1EeERESFUyWkZFc3dGYnN1LVFnNlVycU5jcW9xTnJWMFBVanVMeUVacjF5TmlRSlhVWnBUV1A1dGwzRk1WT3NLNExMaDZNSnR0SWVMOFFZdU5vMVJlOHp0Qi1YdU9HaEJpcGR5eVF6N2pJNNIBuAFBVV95cUxONG0yUzdEeFgtLUJOVm4yRkxCeE1NOXRHZkVaMG1qeEcyeDIzR1RXc3RjVXRVQm5nNUg0SkY0UEVOX0xyRGJDZWNhaFo0M1hqZy1rMnhfajd3bmxLZHU0NHJLY3VtX3Y4djZHNWxrNExNTkR3UVhJYXl4SGlPQ1Q5aFZMcXFFdnZZM0VWT0lUdVFuVThKLTRncXo5Y1BRdzNnWGs1SVF2VHdGb3RpTTNsNVRaTUtUOTBI",
-        "image": null,
-        "timestamp": 1772528287.0
-    },
-    {
-        "title_fa": "ترامپ: «خیلی دیر» برای مذاکره با ایران — اسرائیل به تهران حمله می‌کند",
-        "title_en": "Trump says it’s ‘too late’ for talks with Iran as Israel strikes Tehran",
-        "summary": [
-            "حملات و تلفات: اسرائیل اعلام کرد به تأسیسات نظامی در تهران و بیروت حمله کرده و به گفته یک منبع اسرائیلی مجتمع مرتبط با نهاد انتخاب‌کننده رهبر بعدی ایران هدف قرار گرفت؛ خبرگزاری تاسنیم به‌نقل از جمعیت هلال‌احمر ایران دست‌کم ۷۸۰ کشته بر اثر بمباران‌های آمریکا و اسرائیل در سراسر ایران گزارش کرده است.",
-            "فشار دیپلماتیک و امنیتی: ایالات متحده سه سفارت در منطقه (عربستان سعودی، کویت و لبنان) را بست و به اتباع آمریکایی در بیش از دوازده کشور منطقه هشدار خروج داد — گسترش انزوای دیپلماتیک و کاهش کانال‌های رسمی گفت‌وگو با رژیم.",
-            "اقتصاد و خلأ رهبری: ترامپ می‌گوید بخش عمده‌ای از تأسیسات نظامی ایران «نابود» شده و شمار زیادی موشک نیز از کار افتاده؛ توقف موثر عبور کشتی‌ها از تنگه هرمز و بزرگ‌ترین افزایش یک‌روزه قیمت بنزین در آمریکا از ۲۰۰۵ نشان‌دهنده شوک فوری به اقتصاد و مراودات انرژی است؛ همزمان تصاویری از رضا پهلوی در جمع ایرانیان مهاجر در لس‌آنجلس منتشر شد و ترامپ احتمال تصاحب قدرت او را کم‌اهمیت جلوه داد."
-        ],
-        "impact": "این تشدید حملات و هدف قرار گرفتن نهادهای تصمیم‌گیر و مسیرهای حیاتی اقتصادی، ساختار فرماندهی و موقعیت بین‌المللی حکومت را تضعیف می‌کند و شانس گسترش جنگ فرامرزی را به طور چشمگیری افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "CNN",
-        "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26",
-        "clean_url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26",
-        "image": null,
-        "timestamp": 1772528280.0
-    },
-    {
-        "title_fa": "پترائوس: مشارکت اروپا در جنگ با ایران «قطعا یک احتمال»",
-        "title_en": "Petraeus: Europe’s participation in Iran war 'certainly a possibility'",
-        "summary": [
-            "دیوید پترائوس، رئیس سابق سازمان اطلاعات مرکزی آمریکا (CIA)، به یورونیوز گفت مشارکت نظامی اروپا در عملیات مشترک آمریکا و اسرائیل علیه ایران «قطعا یک احتمال» است و از نقش دفاعی اروپا در تقویت سامانه‌های پدافندی هوایی و موشکی حمایت کرد.",
-            "پترائوس افزود که بحث‌هایی درباره نقش تهاجمی‌تر کشورهای اروپایی مطرح شده؛ او اشاره کرد انتقام‌های ایران فراتر از اسرائیل و پایگاه‌های آمریکایی گسترش یافته و به زیرساخت‌های غیرنظامی، فرودگاه‌ها، بنادر و حتی پایگاه‌های بریتانیا در قبرس رسیده است، و در عین حال تأکید کرد آمریکا قصد اعزام نیروی زمینی به داخل ایران را ندارد.",
-            "او احتمال داده ترکیب نخبگان حکومت ایران تغییر کرده باشد (کاهش عناصر ایدئولوژیک سخت و افزایش فرصت‌طلبان)؛ تحت فشار نظامی و دیپلماتیک خارجی این تغییر بالقوه می‌تواند شکاف‌های داخلی را عمیق‌تر کند، هرچند او از پیش‌بینی قطعی پرهیز کرد."
-        ],
-        "impact": "اگر اروپا وارد عملیات شود، فشار نظامی و دیپلماتیک بر رژیم ایران به‌طور چشمگیر افزایش می‌یابد، ظرفیت‌های موشکی و پهپادی را هدف قرار می‌دهد و شانس تشدید شکاف‌های داخلی و تضعیف سیاسی نخبگان حاکم را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Euronews.com",
-        "url": "https://ca.news.yahoo.com/europe-participation-iran-war-certainly-090154891.html",
-        "clean_url": "https://ca.news.yahoo.com/europe-participation-iran-war-certainly-090154891.html",
-        "image": null,
-        "timestamp": 1772528093.0
-    },
-    {
-        "title_fa": "پایان در چشم نیست: روز چهارم جنگ ایران",
-        "title_en": "No End in Sight: Day 4 of the Iran War",
-        "summary": [
-            "رویارویی نظامی ادامه دارد؛ گزارش از حمله به مدرسه ابتدایی در میناب و کندن قبور کودکان کشته‌شده نشان‌دهنده تشدید بحران انسانی و ضربه به مشروعیت داخلی است.",
-            "پیامدهای منطقه‌ای مشخص‌اند: ترکیه با تهدید موج پناهجویان، خطر تقویت گروه‌های کردی (PJAK/PKK) و احتمال اختلال در تامین گاز از ایران مواجه است که فشارهای اقتصادی و امنیتی را افزایش می‌دهد.",
-            "عملیات نظامی آمریکا، اظهارات ترامپ درباره «جلوگیری از جنگ هسته‌ای» و رد شدن گزینه رهبری رضا پهلوی، همزمان نشان می‌دهد فشارهای خارجی و رقابت سیاسی در تبعید، فضای جایگزینی رهبری را محدود می‌کند؛ این شرایط به صورت سیستمیک رژیم را در برابر تضعیف اقتصادی و سیاسی آسیب‌پذیرتر می‌سازد."
-        ],
-        "impact": "تشدید انزوای بین‌المللی و اختلال در زیرساخت‌های اقتصادی می‌تواند مشروعیت رژیم را سریع‌تر فرسوده کرده و خطر بی‌ثباتی داخلی را بالا ببرد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "New York Magazine",
-        "url": "https://nymag.com/intelligencer/article/iran-war-day-4-us-israel-trump-live-updates-commentary-analysis.html",
-        "clean_url": "https://nymag.com/intelligencer/article/iran-war-day-4-us-israel-trump-live-updates-commentary-analysis.html",
-        "image": null,
-        "timestamp": 1772527680.0
-    },
-    {
-        "title_fa": "ترامپ و روبیو دلایل متناقضی برای ورود آمریکا به جنگ با ایران ارائه کردند",
-        "title_en": "Trump, Rubio offer conflicting reasons for US entry into Iran war",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا گفت دستور اعزام نیروهای آمریکایی برای همراهی حمله اسرائیل به ایران را به‌خاطر باورش درباره قصد ایران برای حمله اولیه صادر کرده است.",
-            "مارکو روبیو، سناتور، روز قبل دلیلی متفاوت برای ورود آمریکا مطرح کرده بود؛ بنابراین مقامات ارشد آمریکا پیام‌های متناقضی درباره مبنای تصمیم گرفته‌شده ارائه داده‌اند.",
-            "گزارش هیچ اشاره‌ای به تحریم‌ها، نقش روسیه/چین/کره‌شمالی، یا شواهد اعتراضات داخلی و پیامدهای اقتصادی در ایران ندارد؛ از این منبع نمی‌توان اثرات ساختاری فشار خارجی یا نارضایتی داخلی را به‌طور موثق تحلیل کرد."
-        ],
-        "impact": "پیامدهی متناقض از سوی مقامات ارشد آمریکا وضوح راهبردی واشنگتن را تضعیف کرده و خطر اشتباه‌محاسباتی و گسترش درگیری را بالاتر می‌برد.",
-        "tag": "تناقض",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/europe/trump-says-us-has-knocked-out-many-iranian-naval-air-targets-2026-03-03/",
-        "clean_url": "https://www.reuters.com/world/europe/trump-says-us-has-knocked-out-many-iranian-naval-air-targets-2026-03-03",
-        "image": "http://www.bing.com/th?id=OVFT.RCcY9hFkhJxSprcdOIACoy&pid=News",
-        "timestamp": 1772525100.0
     }
 ]
