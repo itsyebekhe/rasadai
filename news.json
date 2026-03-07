@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آنچه دولت ترامپ درباره چرایی رفتن به جنگ با ایران می‌گوید",
+        "title_en": "What the Trump administration says about why it went to war with Iran",
+        "summary": [
+            "NPR گزارش می‌دهد که دولت ترامپ توجیهات رسمی خود برای اقدام به جنگ علیه ایران را مطرح کرده و مقاله به بازتاب آن ادعاها می‌پردازد.",
+            "تحلیل ساختاری: ورود به درگیری مستقیم یا افزایش فشارهای نظامی-سیاسی می‌تواند به تشدید فشارهای خارجی و اقتصادی علیه رژیم بینجامد و ظرفیت بقای حکمرانی را تضعیف کند.",
+            "پیامدهای داخلی: چنین سناریویی احتمالاً سوءمدیریت و ناکارآمدی اقتصادی را برجسته‌تر می‌کند و می‌تواند موج جدیدی از نارضایتی و اعتراضات اجتماعی را فعال سازد."
+        ],
+        "impact": "اگر ادعاهای دولت ترامپ به منجر به درگیری مستقیم شود، آن فشار خارجی و فروپاشی اقتصادیِ احتمالی مشروعیت رژیم را کاهش و ریسک آشفتگی داخلی را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/07/nx-s1-5734381/white-house-messaging-iran-us-israel-war",
+        "clean_url": "https://www.npr.org/2026/03/07/nx-s1-5734381/white-house-messaging-iran-us-israel-war",
+        "image": null,
+        "timestamp": 1772868193.0
+    },
+    {
         "title_fa": "چرا حوثی‌ها فعلاً وارد نبرد اسرائیل-آمریکا علیه ایران نمی‌شوند",
         "title_en": "Why Yemen’s Houthis are staying out of Israel-US fight with Iran – for now",
         "summary": [
@@ -70,6 +88,24 @@
         "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/day-7-dawns-with-fire-israel-launches-broad-scale-overnight-assault-on-tehran-as-iran-fires-its-biggest-barrage-yet-at-gulf-states/ar-AA1XGfrL",
         "image": null,
         "timestamp": 1772846026.0
+    },
+    {
+        "title_fa": "رئیس‌جمهور ایران در مقابل خواست‌های آمریکا مقاومت کرد و هم‌زمان بابت حملات به همسایگان عذرخواهی کرد",
+        "title_en": "Iran’s president defies US demands while apologizing for strikes on neighbors",
+        "summary": [
+            "تناقض آشکار در مواضع؛ رئیس‌جمهور همخواهان مقاومت در برابر فشارهای آمریکا را نشان داد و هم با پذیرش و عذرخواهی برای حملاتی که به کشورهای همسایه انجام شده‌اند تلاش کرد تبعات دیپلماتیک را کاهش دهد — نشانه تلاش برای مهار همزمان مخاطرات داخلی و خارجی.",
+            "این واکنش دوگانه می‌تواند منجر به افزایش فشار خارجی شود: پذیرش مسئولیت حملات، رژیم را در معرض اقدامات سیاسی و حقوقی و احتمال تحریم‌های جدید قرار می‌دهد، در حالی که سرسختی در برابر آمریکا احتمال تشدید اختلال در روابط را بالا می‌برد.",
+            "در بعد داخلی، چنین محاسبه‌ای شکاف‌های جناحی را برجسته می‌کند و در شرایط اقتصادی شکننده می‌تواند موجب تشدید بی‌اعتمادی عمومی و افزایش آسیب‌پذیری سیاسی حکومت شود."
+        ],
+        "impact": "این ترکیب از مقاومت ظاهری و پذیرش مسئولیت دیپلماتیک، رژیم را کوتاه‌مدت تضعیف و امکان گسترش فشارهای خارجی و داخلی را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-israel-us-march-7-2026-d347fd6a03185f51d670bf4e7cbf5373",
+        "clean_url": "https://apnews.com/article/iran-israel-us-march-7-2026-d347fd6a03185f51d670bf4e7cbf5373",
+        "image": null,
+        "timestamp": 1772839920.0
     },
     {
         "title_fa": "نقل‌قول‌های خارجی بورس کالا ترکمنستان نشانه‌هایی از رشد نشان می‌دهد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.foxnews.com/politics/trump-says-irans-succession-bench-wiped-out-israeli-strike-hits-leadership-deliberations",
         "image": "http://www.bing.com/th?id=OVFT.mj4SGdk02u-Lu-CFw5GuSy&pid=News",
         "timestamp": 1772534160.0
-    },
-    {
-        "title_fa": "پی‌آمد حملات مداوم اسرائیل و آمریکا بر تهران",
-        "title_en": "The aftermath of ongoing Israeli and US strikes on Iran’s capital, Tehran",
-        "summary": [
-            "حملات نظامی اسرائیل و آمریکا به پایتخت ایران طبق گزارش‌ها ادامه دارد؛ این فشار خارجی مستقیم متوجه مرکز قدرت رژیم است.",
-            "این عملیات می‌تواند توان عملیاتی، ارتباطات فرماندهی و زیرساخت‌های حیاتی را مختل کند و از منظر امنیتی آسیب‌پذیری سیاسی داخلی را افزایش دهد.",
-            "تداوم حملات احتمالاً بازارها و اعتماد سرمایه‌گذاران را تضعیف کرده و می‌تواند به تشدید نارضایتی عمومی و فشارهای اجتماعی منجر شود."
-        ],
-        "impact": "پی‌آمد کلی: فشار نظامی مستقیم توان بقا و مشروعیت رژیم را از منظر امنیتی و اقتصادی تضعیف کرده و شانس بی‌ثباتی سیاسی داخلی را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmxvWkpwUDVWZWZKMkR6OExscFRZRFZfXy10QnVVaUYtMkJWZ193SlJGV0xnNHVMekM3WTFTQTBHdF9NZ2lBaDdTSjFnMVF1dl82QjcwSEU3VG0tQi1VU0RQeGZrWFhxdXlVRFdlUk5jeE5uRlpMRG5UMmw4bjFjeE5KZDBwS3d1dmlXempPVWd2T0g3d3Fsb3FuZFE4T2o0V0NRa3Z4LXNRWmt3SXFLX1pmc2TSAboBQVVfeXFMUHpYWUdXZXd4cml5SU1zdjZ5TVFUcjdpSVRfa2txT0FySXZvc1NubHptOHJGWjA4eE1VUTRRVjAyd3RtOUJNY1Y5UERNdktQUG9DWGFYcmlYOExNR2J6cExpN3RhVW1WTkhLUEw5RVJzVDJVc3g1aVdQRTI5akNJcXhjekJ5REZLd3N3Um5yVTM2bm1pQk13akhPMjFxU3JsZVFWSFFhLW85SmJCZnpjcnd6VVM0MDgwMGFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmxvWkpwUDVWZWZKMkR6OExscFRZRFZfXy10QnVVaUYtMkJWZ193SlJGV0xnNHVMekM3WTFTQTBHdF9NZ2lBaDdTSjFnMVF1dl82QjcwSEU3VG0tQi1VU0RQeGZrWFhxdXlVRFdlUk5jeE5uRlpMRG5UMmw4bjFjeE5KZDBwS3d1dmlXempPVWd2T0g3d3Fsb3FuZFE4T2o0V0NRa3Z4LXNRWmt3SXFLX1pmc2TSAboBQVVfeXFMUHpYWUdXZXd4cml5SU1zdjZ5TVFUcjdpSVRfa2txT0FySXZvc1NubHptOHJGWjA4eE1VUTRRVjAyd3RtOUJNY1Y5UERNdktQUG9DWGFYcmlYOExNR2J6cExpN3RhVW1WTkhLUEw5RVJzVDJVc3g1aVdQRTI5akNJcXhjekJ5REZLd3N3Um5yVTM2bm1pQk13akhPMjFxU3JsZVFWSFFhLW85SmJCZnpjcnd6VVM0MDgwMGFn",
-        "image": null,
-        "timestamp": 1772532619.0
-    },
-    {
-        "title_fa": "خاورمیانه؛ روز چهارم تشدید درگیری میان آمریکا، اسرائیل و ایران",
-        "title_en": "MIDDLE EAST LIVE: Fourth day of escalating conflict between US, Israel and Iran",
-        "summary": [
-            "گزارش سازمان ملل: برای چهارمین روز متوالی درگیری‌ها میان آمریکا، اسرائیل و ایران تشدید شده است؛ سطح تنش‌ها اکنون فراتر از یک درگیری محدود و با خطر گسترش منطقه‌ای همراه است.",
-            "هرچند خبر به تحریم‌ها اشاره‌ای ندارد، اما تشدید نظامی معمولاً با افزایش فشارهای خارجی و اقتصادی همراه می‌شود؛ در صورت تشدید فشارها، ساختار اقتصادی رژیم بیشتر تضعیف شده و منابع لازم برای ثبات سیاسی و مدیریت بحران کاهش می‌یابد.",
-            "هیچ اشاره مستقیمی به اعتراضات داخلی در این گزارش نیست؛ با این‌حال ادامه درگیری‌ها هزینه‌های مستقیم اقتصادی (افزایش مخارج امنیتی، سقوط سرمایه‌گذاری و ناپایداری بازارها) را تحمیل می‌کند و ناکارآمدی مدیریتی را برجسته خواهد کرد."
-        ],
-        "impact": "تشدید چهار روزه عملاً فضای سیاسی و اقتصادی را بی‌ثبات‌تر کرده و احتمال خطاهای محاسباتی و گسترش درگیری‌های منطقه‌ای را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "UN News",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BUWRyTHk3QWlEem5RMHFOYVJMNE5PdlhiQ3dJN3pKSGd0ekVDZjVPbkZvalRPRWRDcUNaWTVEOHRsVk5XeDZNZEpNZUFqX2M0UEhoVWV2UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9BUWRyTHk3QWlEem5RMHFOYVJMNE5PdlhiQ3dJN3pKSGd0ekVDZjVPbkZvalRPRWRDcUNaWTVEOHRsVk5XeDZNZEpNZUFqX2M0UEhoVWV2UQ",
-        "image": null,
-        "timestamp": 1772531803.0
     }
 ]
