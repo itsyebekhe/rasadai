@@ -198,6 +198,42 @@
         "timestamp": 1772894040.0
     },
     {
+        "title_fa": "به‌روزرسانی درگیری با ایران: پایان هفته اول با هدف‌گیری ۳۰۰۰ هدف و بازگشت آمریکایی‌های کشته‌شده",
+        "title_en": "Iran Conflict Update: Week One Ends With 3,000 Targets Struck, Fallen Americans Return Home",
+        "summary": [
+            "گزارش می‌دهد که در پایان هفته اول درگیری‌ها، در مجموع ۳۰۰۰ هدف مورد اصابت قرار گرفته‌اند.",
+            "پیکر آمریکایی‌های کشته‌شده به ایالات متحده بازگردانده شده‌اند و گزارش بازگشت قربانیان منتشر شده است.",
+            "متن منبع جزئیات تکمیلی درباره عاملان حملات، محل‌های دقیق، یا تلفات غیرنظامی ارائه نمی‌کند."
+        ],
+        "impact": "شدت و وسعت حملات گزارش‌شده به‌عنوان فشار خارجی مستقیم عمل می‌کند و منابع امنیتی و اقتصادی رژیم را فرسوده کرده که به احتمالی واقعی از افزایش نارضایتی داخلی و تضعیف حکمرانی منجر می‌شود.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Homeland Security Today",
+        "url": "https://www.hstoday.us/featured/u-s-and-israel-strike-iran-triggering-gulf-wide-missile-retaliation-from-tehran/",
+        "clean_url": "https://www.hstoday.us/featured/u-s-and-israel-strike-iran-triggering-gulf-wide-missile-retaliation-from-tehran",
+        "image": "http://www.bing.com/th?id=OVFT.3kEOuVS-w8ufa9jIUJeihy&pid=News",
+        "timestamp": 1772891760.0
+    },
+    {
+        "title_fa": "گزارش اطلاعاتی: ضربات گسترده پیش از جنگ نشان می‌داد رژیم ایران به‌سادگی ساقط نمی‌شود",
+        "title_en": "Intel report warned large-scale strikes ‘unlikely’ to topple Iran’s regime before Trump launched war",
+        "summary": [
+            "گزارش طبقه‌بندی‌شده شورای اطلاعات ملی قبل از آغاز عملیات مشترک آمریکا و اسرائیل نتیجه گرفت که حمله گسترده نظامی به ایران به تنهایی قادر به سرنگونی حکومت نخواهد بود و تلاش برای جایگزینی رهبری «غیرمحتمل» است؛ ساختارهای نظامی و مذهبی پروتکل‌هایی برای حفظ تداوم قدرت دارند.",
+            "با وجود این تحلیل، دولت ترامپ به اقدام تهاجمی ادامه داد و علی خامنه‌ای را در 28 فوریه به ضرب گلوله کشت؛ این تصمیم نشان می‌دهد اراده سیاسی برای تغییر رژیم حتی در برابر تحلیل حرفه‌ای که نتیجه را نامحتمل می‌داند، برگزیده شد و ریسک تشدید و گسترش جنگ را بالا برد.",
+            "پیامدهای داخلیِ قابل انتظار: حتی اگر توان نظامی و زیرساختی آسیب ببیند، گزارش نشان می‌دهد که ساختارهای حکمرانی مقاوم‌اند؛ فشار خارجی و عملیات تهاجمی احتمالاً به تقویت ابزارهای سرکوب، تضعیف بیشتر اقتصادی و افزایش ناپایداری بلندمدت می‌انجامد، نه فروپاشی سریع حکومت."
+        ],
+        "impact": "حملات و ترور رهبری، بر خلاف هدف اعلام‌شده، احتمالاً رژیم را ساقط نمی‌کند بلکه آن را به سمت سرکوب داخلی و جنگ فرسایشی ویرانگر سوق می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/intel-report-warned-large-scale-145208854.html",
+        "clean_url": "https://www.aol.com/articles/intel-report-warned-large-scale-145208854.html",
+        "image": null,
+        "timestamp": 1772891520.0
+    },
+    {
         "title_fa": "پزشکیان: ایران حملات به همسایگان را متوقف می‌کند مگر اینکه از آنجا مورد حمله قرار گیرد",
         "title_en": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian",
         "summary": [
@@ -268,6 +304,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/visualizing-conflict-us-israeli-war-184226369.html",
         "image": null,
         "timestamp": 1772887957.0
+    },
+    {
+        "title_fa": "واکنش پراکنده دیاسپورای ایرانی؛ اتحاد سابق تضعیف شده",
+        "title_en": "A free Iran is their shared dream. But the diaspora remains torn on the best path forward.",
+        "summary": [
+            "دیاسپورای ایرانی اکنون بر سر مسیر رسیدن به «ایران آزاد» تقسیم شده؛ اگرچه هدف مشترک حفظ شده، اما اختلاف‌ها بر روش‌ها و اولویت‌ها غلبه کرده است.",
+            "این تفرقه تغییری مشهود نسبت به اوایل سال جاری است، زمانی که اغلب اعضای دیاسپورا با حمایت از اعتراض‌کنندگان در برابر سرکوبِ خشونت‌بار حکومت، وحدت نشان دادند.",
+            "ضعف در اجماع بیرون مرزها می‌تواند پیام‌رسانی، فشار بین‌المللی و فراهم کردن کمک‌های سیاسی-عملی به اعتراضات داخل کشور را تضعیف کند و امکان بهره‌برداری رژیم از این اختلافات را افزایش می‌دهد."
+        ],
+        "impact": "تشتت در دیاسپورا ظرفیت اعمال فشار هماهنگ و حمایت مؤثر از اعتراضات داخلی را کاهش می‌دهد و در کوتاه‌مدت به نفع تثبیت موقعیت رژیم خواهد بود.",
+        "tag": "تفرقه",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/iranian-diaspora-divided-on-war-rcna262049",
+        "clean_url": "https://www.nbcnews.com/news/us-news/iranian-diaspora-divided-on-war-rcna262049",
+        "image": "http://www.bing.com/th?id=OVFT.gnwNPD2EmWDEP-po9Q4mDy&pid=News",
+        "timestamp": 1772887680.0
     },
     {
         "title_fa": "ترامپ: ایران دیگر «قلدر خاورمیانه» نیست، «بازنده خاورمیانه» شده",
@@ -448,6 +502,24 @@
         "clean_url": "https://www.cnbc.com/2026/03/07/saudi-arabia-told-iran-not-to-attack-it-warns-of-retaliation-reuters.html",
         "image": "http://www.bing.com/th?id=ONUT.bQy50CnC4xG_SSVXB_2gJg&pid=News",
         "timestamp": 1772881380.0
+    },
+    {
+        "title_fa": "حمله پهپادی به نفتکش در تنگه هرمز؛ محاصره ایران عبور کشتی‌ها و جریان نفت را متوقف کرد",
+        "title_en": "Drone strike torches oil tanker in Strait of Hormuz as Iran’s blockade halts global shipping",
+        "summary": [
+            "سپاه پاسداران اعلام کرد نفتکش Prima با پرچم مالت توسط پهپاد انتحاری مورد حمله قرار گرفته و به آتش کشیده شد؛ نیروی دریایی آمریکا هنوز مأموریتی برای حفاظت از کشتی‌ها در منطقه آغاز نکرده است.",
+            "جریان عبور نفت از تنگه هرمز که حدود ۲۰درصد عرضهٔ جهانی را تامین می‌کند تقریباً متوقف شده، دست‌کم سه نفتکش منتظر اجازه عبور مانده‌اند و قیمت نفت ظرف یک هفته حدود ۲۰دلار بالا رفته و به ۹۰ دلار رسیده است که چشم‌انداز رکود را شدت می‌دهد.",
+            "استفاده از کنترل تنگه به‌عنوان اهرم فشار نشان‌دهنده سیاست عمدتاً نظامی و قهرآمیز رژیم است؛ این تاکتیک درآمدهای صادراتی را کاهش می‌دهد، ظرفیت تحمل تحریم‌ها و فشار خارجی را کمتر می‌کند و با تشدید مشکلات اقتصادی، نارضایتی داخلی و خطر واکنش نظامی خارجی را افزایش می‌دهد."
+        ],
+        "impact": "این اقدام می‌تواند به سرعت تنش را به برخورد مستقیم با آمریکا و اسرائیل سوق دهد و همزمان فشار اقتصادی و سیاسی بر حکومت را تشدید کند.",
+        "tag": "محاصره",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/03/07/world-news/drone-strike-torches-oil-tanker-in-strait-of-hormuz-as-irans-blockade-halts-global-shipping/",
+        "clean_url": "https://nypost.com/2026/03/07/world-news/drone-strike-torches-oil-tanker-in-strait-of-hormuz-as-irans-blockade-halts-global-shipping",
+        "image": "http://www.bing.com/th?id=OVFT.w94tJ7UXh_FzVeAFjD2cTy&pid=News",
+        "timestamp": 1772880720.0
     },
     {
         "title_fa": "مجمع خبرگان ظرف یک روز برای انتخاب جانشین خامنه‌ای تشکیل می‌شود",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaU4wOFJqU2dSSnF6ZDRRaVlxWkZid0NjcEVsU2R5UXozUEh5TXpIb3dVME1tdm9HUTdTc0pkUkthUnRxVHpBVy1NM3M2MDJsRmIxd3ZSUG9HQkttSmJxUXFacUI5ekNBQmZqalVOTXliWWkteERib201Y2k4azZfZVp6Um9UU1RVNWE0SEtMNkVwbnVLdFg5b0Y5Vm5zbko0RVE4cWIySmNNZ0NfblR3NnphOGHSAboBQVVfeXFMTWZjVm13SGc4OERVRGp1VXEzdFUtclVEdGVOd3pIX1dWSVRqZ3NVZGxIaFhGb2hQQ3FvNVBOd3huSG9LRDd4dDdMSVVzSXhuczFOSXR5NjNLVldSeHAwRk0xckFVUlZVU3hxTEUxU0tLaXVfdTlNem1VMmpPNjFpekc0TkRjdzU5SE01V0Rnc2RxMzZHSGw1MkpqS1NKWWpocG9aUm9LZTJSNko1eUNpUGR4T1FkaEJyWHln",
         "image": null,
         "timestamp": 1772605425.0
-    },
-    {
-        "title_fa": "سنا برای محدود کردن اختیار جنگی ترامپ در بحبوحه عملیات علیه ایران رأی‌گیری می‌کند",
-        "title_en": "Senate to vote on reining in Trump's war powers amid Iran campaign",
-        "summary": [
-            "سنا روز چهارشنبه درباره طرحی که مانع استفاده بیشتر دولت ترامپ از نیروی نظامی علیه ایران می‌شود رأی‌گیری می‌کند؛ طرح توسط سناتور تیم کین و نماینده رند پال حمایت می‌شود و مشابه ابتکار ژوئن است که رد شد.",
-            "با اکثریت ۵۳ کرسی جمهوری‌خواهان، طرح به احتمال قوی پیش نخواهد رفت؛ سناتور جان فترمن علیه طرح اعلام موضع کرده و تصویب نیازمند حمایت دست‌کم چهار جمهوری‌خواه دیگر است؛ تاد یانگ صریحاً مخالفت کرده و خواستار حفظ اختیارات اجرایی است.",
-            "حتی در صورت تصویب، نتیجه عمدتاً نمادین خواهد بود چون رئیس‌جمهور می‌تواند وتو کند و دموکرات‌ها برای غلبه بر وتو به اکثریت دو‌سوم در هر دو مجلس نیاز دارند؛ کین خود احتمال شکست را پذیرفته اما بر لزوم نظارت کنگره تأکید کرده است."
-        ],
-        "impact": "رأی نمادین کنگره نشان‌دهنده افزایش فشار نظامی و سیاسی خارجی بر رژیم تهران است و می‌تواند هم هزینه‌های سیاسی-انسانی را افزایش دهد و هم مشروعیت کوتاه‌مدت حکومت را به مخاطره بیندازد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/senate-vote-iran-war-powers-resolution-trump/",
-        "clean_url": "https://www.cbsnews.com/news/senate-vote-iran-war-powers-resolution-trump",
-        "image": null,
-        "timestamp": 1772605320.0
-    },
-    {
-        "title_fa": "هگست: آمریکا ناو ایرانی را غرق کرده؛ شمار کشته‌ها رو به افزایش است — به‌روزرسانی‌های ایران",
-        "title_en": "Hegseth says US sunk Iranian warship; death toll climbs. Iran updates.",
-        "summary": [
-            "طبق عنوان USA TODAY، هگست مدعی شده که آمریکا یک ناو ایرانی را غرق کرده و شمار کشته‌ها افزایش یافته؛ گزارش متن کامل و جزئیات عملیاتی را ارائه نکرده است.",
-            "متن خبر در اختیار نیست؛ این ادعا نیازمند تأیید مستقل از منابع میدانی یا بیانیه‌های رسمی ایران و آمریکا است و بدون چنین تأییدی نباید وقوع قطعی یک عملیات نظامی را پذیرفت.",
-            "در صورت تأیید ادعا، پیامدهای فوری شامل تشدید فشارهای خارجی، احتمال اعمال تحریم‌ها یا واکنش‌های نظامی متقابل، و افزایش آسیب‌پذیری رژیم از حیث مشروعیت و نارضایتی داخلی خواهد بود."
-        ],
-        "impact": "اگر ادعای مطرح‌شده تأیید شود، این حادثه می‌تواند به نقطه‌عطفی در تشدید تنش‌های نظامی و سیاسی تبدیل شده و رژیم را تحت فشار خارجی و داخلی شدیدتری قرار دهد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/live-story/news/world/2026/03/04/iran-us-israel-war-live-updates/88973156007/",
-        "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/04/iran-us-israel-war-live-updates/88973156007",
-        "image": "http://www.bing.com/th?id=OVFT.Lnsy9x929sZNjBzs-kefXy&pid=News",
-        "timestamp": 1772604180.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده ایران: هگسِت می‌گوید «ما تسریع می‌کنیم، نه کند می‌شویم»",
-        "title_en": "Iran live updates: 'We are accelerating, not decelerating,' Hegseth says",
-        "summary": [
-            "عراقچی موضع رسمی جمهوری اسلامی را منتقل کرد و اعلام کرد رژیم «برای صلح» است و ادعا می‌کند حمله اسرائیل-آمریکا تنش و هراس منطقه‌ای را تشدید کرده است.",
-            "گزارش‌ها و اظهارنظرهایی مانند نقل قول هگست نشان‌دهنده فضایی از تصاعد و تمایل به تسریع واکنش‌ها در پوشش خبری و گفتمان سیاسی است.",
-            "افزایش مداخلات نظامی خارجی، اگر ادامه یابد، می‌تواند موقعیت بین‌المللی رژیم را تضعیف کرده و احتمال تشدید فشارهای سیاسی و اقتصادی و گسترش ناامنی منطقه‌ای را افزایش دهد."
-        ],
-        "impact": "حمله مشترک اسرائیل-آمریکا تنش‌ها را بالا برده و ریسک بسط عملیات نظامی و تشدید فشارهای بین‌المللی علیه تهران را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "ABC7 Chicago",
-        "url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18665552/",
-        "clean_url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18665552",
-        "image": "http://www.bing.com/th?id=OVFT.454PKM0VgrpG7IutP-doVS&pid=News",
-        "timestamp": 1772603940.0
-    },
-    {
-        "title_fa": "آمریکا ناو جنگی ایران را غرق کرد؛ بمباران‌ها علیه ایران شدت گرفت",
-        "title_en": "US sinks Iranian warship as bombardment of Iran intensifies",
-        "summary": [
-            "وزیر دفاع آمریکا اعلام کرد یک زیردریایی آمریکایی با اژدر یک کشتی جنگی ایرانی را در آب‌های بین‌المللی غرق کرده؛ حملات آمریکا و اسرائیل به نهادهای امنیتی و نمادهای قدرت در تهران افزایش یافته.",
-            "رهبر ایران علی خامنه‌ای در جریان درگیری کشته شد و تلویزیون دولتی اعلام کرد مراسم سوگواری به تعویق افتاده؛ هم‌زمان اسرائیل به حزب‌الله در لبنان حمله کرد و ایران به بحرین، کویت و اسرائیل شلیک نموده است.",
-            "درگیری‌ها تاکنون بیش از هزار کشته در ایران و ده‌ها کشته در لبنان برجای گذاشته، عرضه نفت و گاز و کشتیرانی بین‌المللی مختل شده و ترکیه اعلام کرد دفاع‌های ناتو یک موشک بالیستیک پرتاب‌شده از ایران را پیش از ورود به حریم هوایی این کشور رهگیری کردند."
-        ],
-        "impact": "حملات مستقیم آمریکا و اسرائیل—به‌ویژه غرق‌شدن کشتی جنگی و کشته‌شدن رهبر—ساختار قدرت و توان عملیاتی رژیم را به‌طور ساختاری ضعیف می‌کند، اختلالات جدی اقتصادی و لجستیکی ایجاد می‌کند و مسیر بازسازی سیاسی و اقتصادی رژیم را به‌طرزی چشمگیر دشوارتر می‌سازد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Orlando Sentinel",
-        "url": "https://www.orlandosentinel.com/2026/03/04/us-iran-war/",
-        "clean_url": "https://www.orlandosentinel.com/2026/03/04/us-iran-war",
-        "image": "http://www.bing.com/th?id=OVFT.fLSQuuImZbaNPnhDfygG0y&pid=News",
-        "timestamp": 1772603520.0
     }
 ]
