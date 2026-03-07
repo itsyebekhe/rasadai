@@ -36,6 +36,24 @@
         "timestamp": 1772921348.0
     },
     {
+        "title_fa": "نقشه‌های جنگ ایران: رصد درگیری‌های خاورمیانه",
+        "title_en": "Iran War Maps: Tracking the Mideast Conflict",
+        "summary": [
+            "نیویورک‌تایمز مجموعه‌ای از نقشه‌ها و به‌روزرسانی‌ها برای رصد تحولات جنگ در خاورمیانه منتشر کرده؛ هدف عمده ارائه تصویری جغرافیایی و زمانی از درگیری‌ها برای مخاطبان بین‌المللی است.",
+            "پوشش نقشه‌ای رسانه‌ای می‌تواند شفافیت درباره مکان و روند عملیات را افزایش دهد و در عمل ابزار فشار دیپلماتیک و اطلاعاتی را علیه بازیگران درگیر تقویت کند؛ این امر ساختار سیاسی-امنیتی را در معرض هزینه‌های بین‌المللی قرار می‌دهد.",
+            "اگرچه گزارش جزئیات داخلی ایران را مشخص نمی‌کند، رصد گسترده رسانه‌ای می‌تواند پیامدهای سیاسی داخلی را تشدید کند زیرا اشتباهات و پیامدهای مدیریت بحران برای افکار عمومی قابل رؤیت‌تر می‌شود و زمینه نارضایتی را تقویت می‌کند."
+        ],
+        "impact": "اهمیت راهبردی این نقشه‌ها در توانشان برای تقویت فشار بین‌المللی و افزایش هزینه‌های سیاسی و امنیتی برای حکومت نهفته است.",
+        "tag": "درگیری",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUWpBOUw3b05zUlRrZFVqbThvSTc1elBsdzItdm4tR0M0eUYzSWN1Qm45RGp0R0pLbzJLekxiZ3JBODRlSjB5T2hIMThDVG12NG1zcnVKYzJNYnhqdFE0MVUtcU5VUWR1UkJ6dWthdVRvcW5t?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1uUWpBOUw3b05zUlRrZFVqbThvSTc1elBsdzItdm4tR0M0eUYzSWN1Qm45RGp0R0pLbzJLekxiZ3JBODRlSjB5T2hIMThDVG12NG1zcnVKYzJNYnhqdFE0MVUtcU5VUWR1UkJ6dWthdVRvcW5t",
+        "image": null,
+        "timestamp": 1772919337.0
+    },
+    {
         "title_fa": "ترامپ تهدید به حمله‌ای بسیار شدید علیه ایران کرد؛ اشاره به «مناطق و گروه‌های مردم» تازه",
         "title_en": "President Trump vowed on Saturday that Iran would be “hit very hard” including “areas and groups of people” yet to be targeted since the Israeli-American attacks began. Follow live updates. https://trib.al/R62aizG",
         "summary": [
@@ -232,6 +250,24 @@
         "clean_url": "https://www.theatlantic.com/ideas/2026/03/iran-terror-attack-risk/686277",
         "image": null,
         "timestamp": 1772894040.0
+    },
+    {
+        "title_fa": "دونالد ترامپ دخالت آمریکا در حمله به مدرسه دخترانه در جنوب ایران را رد کرد و ایران را مقصر دانست",
+        "title_en": "Trump says Iran at fault for strike on girls school",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، هرگونه نقش واشنگتن در حمله‌ای که بیش از 165 نفر را در یک مدرسه ابتدایی دخترانه در جنوب ایران کشت، علناً رد کرد.",
+            "ترامپ به‌جای اشاره به عامل بیرونی مشخص، مسئولیت را متوجه حکومت ایران کرد؛ این اتهام علنی می‌تواند فشار دیپلماتیک و سیاسی بین‌المللی علیه رژیم را تشدید کند.",
+            "حادثه با تلفات سنگین و اتهام متقابل می‌تواند نارضایتی عمومی را تشدید کند و تصویر شکست مدیریتی رژیم در تضمین امنیت شهروندان را تقویت نماید."
+        ],
+        "impact": "اتهام رسمی رئیس‌جمهور آمریکا به تهران احتمال افزایش انزوای دیپلماتیک و به‌عنوان توجیهی برای اقدامات فشار از سوی بازیگران بین‌المللی مورداستفاده قرار می‌گیرد.",
+        "tag": "اتهام",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/03/07/trump-iran-girls-school-strike-00818163",
+        "clean_url": "https://www.politico.com/news/2026/03/07/trump-iran-girls-school-strike-00818163",
+        "image": "http://www.bing.com/th?id=OVFT.MGmaWx5_CPPfpyGiA7F8vS&pid=News",
+        "timestamp": 1772891760.0
     },
     {
         "title_fa": "به‌روزرسانی درگیری با ایران: پایان هفته اول با هدف‌گیری ۳۰۰۰ هدف و بازگشت آمریکایی‌های کشته‌شده",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/trump-ignites-civil-war-fears-194638625.html",
         "image": null,
         "timestamp": 1772608500.0
-    },
-    {
-        "title_fa": "معنای واکنش چین به حمله آمریکا به ایران برای سیاست خارجی پکن",
-        "title_en": "What China’s response to the US attack on Iran says about its foreign policy",
-        "summary": [
-            "گزارش آسوشیتدپرس واکنش چین به حمله آمریکا به ایران را تحلیل می‌کند و آن را شاخصی از اولویت‌ها و محدودیت‌های سیاست خارجی پکن معرفی می‌نماید.",
-            "تحلیل مقاله واکنش پکن را در بستر رقابت‌های ژئوپلیتیک گسترده‌تر قرار می‌دهد و به نحوه توازن بین حمایت دیپلماتیک از تهران و اجتناب از رویارویی مستقیم با واشینگتن می‌پردازد.",
-            "نتیجه‌گیری گزارش این است که نوع برخورد چین با این حادثه پیام‌هایی روشن درباره اولویت امنیت منطقه‌ای، منافع اقتصادی و ظرفیت پکن برای ایفای نقشِ میانجی یا حامی محفوظ از تقابل مستقیم دارد."
-        ],
-        "impact": "واکنش چین می‌تواند به عنوان یک پوشش دیپلماتیک و عاملی برای کاهش مؤثر فشار غرب عمل کرده و از این طریق به بقای سیاسی و اقتصادی رژیم ایران کمک کند.",
-        "tag": "چین",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/china-position-us-iran-attack-1042fa7295500f90ecd6285d552da349",
-        "clean_url": "https://apnews.com/article/china-position-us-iran-attack-1042fa7295500f90ecd6285d552da349",
-        "image": null,
-        "timestamp": 1772607180.0
-    },
-    {
-        "title_fa": "ادامه حملات اسرائیل و ایران در روز پنجم جنگ؛ بحران منطقه‌ای",
-        "title_en": "Israel, Iran continue attacks as war enters its fifth day, engulfs region",
-        "summary": [
-            "رویداد کلیدی: در روز پنجم درگیری‌ها، اسرائیل و ایران به حملات ادامه می‌دهند و جنگ به سطح منطقه‌ای گسترش یافته است.",
-            "فشار خارجی و تحریم‌ها: تشدید نظامی احتمال افزایش تحریم‌ها و فشار بین‌المللی را به همراه دارد که ساختار اقتصادی و بقا سیاسی رژیم ایران را بیشتر تضعیف می‌کند.",
-            "پیامدهای داخلی: ادامه جنگ می‌تواند ناکارآمدی مدیریت بحران و سیاست خارجی رژیم ایران را برجسته کند و نارضایتی عمومی و فشارهای اقتصادی را تشدید نماید."
-        ],
-        "impact": "این بحران منطقه‌ای فوراً فشار سیاسی و اقتصادی بر رژیم ایران را افزایش می‌دهد و ریسک گسترش درگیری و اختلال در بازارها و ثبات داخلی را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzh5VWcydXIyazJ0cVlqMG1naHBpMExiS2RjSjU0ak81emd6NHJnQ2xlVWNvREI5NnRZX1NURnQ2VjlRV2UtdTY5al9ma3B1a292MW5kTDB6aU0wT2s0VUtXNVNheFlmTlo2NXBuMVUzRTdZTi0tQXl4OEhTd0lLaEJROE9FbTVHRFR1MVV1UFR0aU01QkRrNWhEQ1FzemN1NWJ1MzY1c0V3ajhhd2ZMadIBtgFBVV95cUxPMGp4U2l4N0VNeUtfUzVhY2h3WGxfazk0R0M2bFpPSTRhWFZHdlBSLXlTT0JfSjNwLVFvb3FrdGRPYmNyTTBmTzlXc0V6QXVmcnQxZmhBNWY1dEZQbjY0NVhaUklZNnAtbTY4c21tNHNWdzRhSnlmaFllV0FzTE5uRjU0Y1o0NnpPMEI2ZkpVTDJOV0p5ZEU5dmpLc0VwREszaHBlNVdnMlNwSG9DMGdkdTNDTUxWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzh5VWcydXIyazJ0cVlqMG1naHBpMExiS2RjSjU0ak81emd6NHJnQ2xlVWNvREI5NnRZX1NURnQ2VjlRV2UtdTY5al9ma3B1a292MW5kTDB6aU0wT2s0VUtXNVNheFlmTlo2NXBuMVUzRTdZTi0tQXl4OEhTd0lLaEJROE9FbTVHRFR1MVV1UFR0aU01QkRrNWhEQ1FzemN1NWJ1MzY1c0V3ajhhd2ZMadIBtgFBVV95cUxPMGp4U2l4N0VNeUtfUzVhY2h3WGxfazk0R0M2bFpPSTRhWFZHdlBSLXlTT0JfSjNwLVFvb3FrdGRPYmNyTTBmTzlXc0V6QXVmcnQxZmhBNWY1dEZQbjY0NVhaUklZNnAtbTY4c21tNHNWdzRhSnlmaFllV0FzTE5uRjU0Y1o0NnpPMEI2ZkpVTDJOV0p5ZEU5dmpLc0VwREszaHBlNVdnMlNwSG9DMGdkdTNDTUxWZw",
-        "image": null,
-        "timestamp": 1772607107.0
     }
 ]
