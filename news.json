@@ -180,6 +180,24 @@
         "timestamp": 1772846899.0
     },
     {
+        "title_fa": "عذرخواهی پزشکیان در میانه حملات موشکی و تشدید درگیری‌ها",
+        "title_en": "Iran's president issues apology amid ongoing strikes on neighboring countries",
+        "summary": [
+            "رئیس‌جمهور مسعود پزشکیان به‌خاطر حملاتی که به کشورهای همسایه انجام شده عذرخواهی کرد، در حالی که حملات موشکی ادامه دارد؛ اظهارنشانی رسمی در میانه آتش‌باری قابل توجه است.",
+            "گزارش خبر می‌دهد که درگیری تشدید شده و ایالات متحده حمایت نظامی از اسرائیل ارائه می‌دهد؛ این عامل فشار خارجی و خطر گسترش نظامی‌سازی بحران را بالا می‌برد.",
+            "ترکیب اعتراف رسمی و تداوم حملات نشان‌دهنده ضعف مدیریت بحران و تضعیف سرمایه سیاسی رژیم است و می‌تواند هزینه‌های اقتصادی و سطح نارضایتی داخلی را افزایش دهد. "
+        ],
+        "impact": "عذرخواهی رسمی همزمان با ادامه حملات و حمایت نظامی آمریکا ساختار امنیتی و سیاسی رژیم را تضعیف کرده و ریسک پیامدهای اقتصادی و اجتماعی (افزایش نارضایتی، فشار بر اقتصاد، احتمال سرریز ناآرامی‌ها) را بالاتر می‌برد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Times Now on MSN",
+        "url": "https://www.msn.com/en-in/news/world/iran-s-president-issues-apology-amid-ongoing-strikes-on-neighboring-countries/ar-AA1XHOD1",
+        "clean_url": "https://www.msn.com/en-in/news/world/iran-s-president-issues-apology-amid-ongoing-strikes-on-neighboring-countries/ar-AA1XHOD1",
+        "image": "http://www.bing.com/th?id=OVFT.JEE6Ld1UrOCJGgfkc6sP5C&pid=News",
+        "timestamp": 1772846398.0
+    },
+    {
         "title_fa": "جنگ با ایران: اسرائیل حملات «وسیع‌مقیاس» به تهران را آغاز کرد",
         "title_en": "Iran war: Israel launches 'broad-scale' strikes on Tehran",
         "summary": [
@@ -196,6 +214,24 @@
         "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/day-7-dawns-with-fire-israel-launches-broad-scale-overnight-assault-on-tehran-as-iran-fires-its-biggest-barrage-yet-at-gulf-states/ar-AA1XGfrL",
         "image": null,
         "timestamp": 1772846026.0
+    },
+    {
+        "title_fa": "هم‌پیمان قدرتمند ایران که در برابر فشار ترامپ تاب آورد، در کنار جنگ می‌ماند",
+        "title_en": "Iran’s Powerful Ally Who Outlasted Trump’s Wrath Looms on Sidelines of War",
+        "summary": [
+            "گزارش اشاره می‌کند انصارالله به‌عنوان یک هم‌پیمان قدرتمند ایران، فشارهای دوره ترامپ را پشت سر گذاشته و همچنان در صحنه منطقه فعال است.",
+            "یک منبع انصارالله به نیوزویک گفت «ارزیابی‌های میدانی و تحولات تعیین‌کننده نیاز به هر مداخله‌ای هستند»، یعنی تصمیم برای ورود به درگیری وابسته به شرایط میدانی است.",
+            "حضور چنین بازیگری در حاشیه میدان نبرد، هم به تهران ابزار نفوذ و هم ریسک گسترش تقابل‌های منطقه‌ای را تحمیل می‌کند."
+        ],
+        "impact": "وجود یک نیروی پایدار و واکنش‌پذیر مانند انصارالله عمق استراتژیک ایران را تقویت می‌کند و تا حدودی اثر فشارهای خارجی را تضعیف می‌نماید، اما همزمان خطر تشدید و گسترش درگیری را افزایش می‌دهد.",
+        "tag": "انصارالله",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/irans-powerful-ally-who-outlasted-trumps-wrath-looms-on-sidelines-of-war-11637505",
+        "clean_url": "https://www.newsweek.com/irans-powerful-ally-who-outlasted-trumps-wrath-looms-on-sidelines-of-war-11637505",
+        "image": null,
+        "timestamp": 1772845200.0
     },
     {
         "title_fa": "عذرخواهی ایران از همسایگان همراه با وعده عدم تسلیم در برابر آمریکا و اسرائیل",
@@ -880,6 +916,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRDhDMkdhYnl3amluc3ZBa3dTSk5rTXo1QWM2NHFrd3UzZzBHaWIxZmFKR2l5OHNPbnVfMEE1aFpoTVdzZmI3cktpdHNvWGRmbEphb1RuZnRlak56cER0dE5sSElwRDE5MnRHeWdtLXlTdU9vRkc1NmhSXzF5Y2NBSkthUUVRdHdnOU9FMFVEZjU0b2xHMmV3QzVMTUtIc1MxTkJnV0Vwb9IBrAFBVV95cUxNYncyd2F5cVZMbHRocEVzVFU0Nk1SV2h6YmxVc21Tb3Z5OC1vWGNWT1ptSFVnQl9PR3V0aTlDaGNDZDdkVGhfcld6S3pfUnU4YVJBeURFeWctUjloV0VqNUdQVklWN0Z3TTc3MG9aSm9hSkkyM0lNbngtY0x3NVNITTFkdlFCeGV2SVRWLU5QWkhZZlFlUDJhbGZxaVFUYnJ4c0xLeDZXaGdfM3M1",
         "image": null,
         "timestamp": 1772807635.0
+    },
+    {
+        "title_fa": "نگرانی‌ها درباره آمریکایی‌های زندانی در منطقه جنگی ایران: «او باید احساس درماندگی شدیدی کند»",
+        "title_en": "Fears for Americans jailed in Iran war zone: \"He must be feeling very helpless\"",
+        "summary": [
+            "وکیل یکی از شهروندان آمریکایی که در زندانی بدنام در ایران نگهداری می‌شود می‌گوید نگرانی از وضعیت او بالا است و از نیروهای آمریکایی و اسرائیلی خواسته «احتیاط شدید» به خرج دهند.",
+            "وجود زندانیان آمریکایی در مناطق هدف‌پذیر، عملیات نظامی و تصمیم‌گیری راهبردی را پیچیده می‌کند و ریسک آسیب‌دیدن غیرنظامیان را افزایش می‌دهد؛ این واقعیت توان پاسخ‌دهی عملیاتی را محدود می‌کند.",
+            "بازداشت شهروندان خارجی تبدیل به اهرم فشار و ابزار چانه‌زنی سیاسی شده و این گونه پرونده‌ها نمادی از شکست‌های ساختاری حکمرانی‌اند که می‌تواند نارضایتی عمومی را تقویت کند."
+        ],
+        "impact": "این پرونده هم فشار خارجی بر حکومت را تشدید می‌کند و هم توان اجرا و انتخاب ابزارهای نظامی را محدود کرده و خطرات انسانی فوری برای زندانیان افزایش می‌یابد.",
+        "tag": "زندانیان",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/fears-for-americans-jailed-in-iran-war-zone-he-must-be-feeling-very-helpless/ar-AA1XGA1j",
+        "clean_url": "https://www.msn.com/en-us/news/world/fears-for-americans-jailed-in-iran-war-zone-he-must-be-feeling-very-helpless/ar-AA1XGA1j",
+        "image": "http://www.bing.com/th?id=OVFT.iyv69v8awP0LRf-Cg3oipC&pid=News",
+        "timestamp": 1772804880.0
     },
     {
         "title_fa": "جنگ ایران وارد فاز جدیدی شده است",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.courant.com/2026/03/03/us-iran-congress",
         "image": "http://www.bing.com/th?id=OVFT.FDeSECvQaIr3vLcjdvwTmC&pid=News",
         "timestamp": 1772549700.0
-    },
-    {
-        "title_fa": "ترامپ در خارج",
-        "title_en": "Trump Abroad",
-        "summary": [
-            "نیو لت ریویو استدلال می‌کند که در سال پنجم ترامپ واشنگتن هم‌زمان موجی از عملیات ضدانقلاب در کارائیب، تهاجم علیه ایران و مانورهای سیاست خارجی متغیر نسبت به چین را دنبال می‌کند و روندی از عملیات مخفی به قتل‌های آشکار را تشدید می‌کند.",
-            "افزایش فشارهای نظامی و عملیات هدفمند ساختاری ثبات داخلی ایران را تضعیف می‌کند؛ این تضعیف رژیم تهران را به اتکای بیشتر به شرکای خارجی و افزایش ابزارهای سرکوب داخلی سوق خواهد داد.",
-            "نوسان سیاست امریکا نسبت به چین می‌تواند نقش چین را به‌عنوان تکیه‌گاه اقتصادی-دیپلماتیک برای بقای رژیم تقویت کند؛ هم‌زمان، تشدید حملات خارجی بدون اصلاحات داخلی ضعف مدیریتی و نارضایتی اجتماعی را افزایشی خواهد کرد."
-        ],
-        "impact": "پی‌آمد: تشدید ترورها و تهاجم‌های آشکار امریکا احتمالاً مقام‌های تهران را به پاسخ‌های تلافی‌جویانه، افزایش سرکوب داخلی و اتکای بیشتر به حمایت‌های خارجی مانند چین سوق می‌دهد.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "New Left Review",
-        "url": "https://newleftreview.org/issues/ii157/articles/susan-watkins-trump-abroad",
-        "clean_url": "https://newleftreview.org/issues/ii157/articles/susan-watkins-trump-abroad",
-        "image": null,
-        "timestamp": 1772549700.0
-    },
-    {
-        "title_fa": "آژانس بین‌المللی انرژی اتمی خسارت به ساختمان‌های نطنز را تأیید کرد",
-        "title_en": "IAEA confirms buildings damaged at Iran’s Natanz nuclear facility",
-        "summary": [
-            "آژانس بین‌المللی انرژی اتمی با استناد به تصاویر ماهواره‌ای تأیید کرد که ساختمان‌های ورودی به تأسیسات زیرزمینی غنی‌سازی سوخت نطنز آسیب دیده‌اند؛ آژانس می‌گوید تأثیر رادیولوژیک پیش‌بینی نمی‌شود و خود واحد FEP که در درگیری ژوئن شدیداً آسیب دیده بود، تأثیر اضافی نشان نمی‌دهد.",
-            "این گزارش با تحلیل موسسه مطالعات امنیت بین‌الملل همخوانی دارد و تاکید می‌کند که آسیب‌ها محدود است اما تأیید می‌نماید که حملات نظامی آمریکا-اسرائیل به زیرساخت‌های هسته‌ای ایران ادامه دارد و دست‌کم ورود به بخش‌های زیرزمینی را هدف گرفته است.",
-            "از منظر داخلی، تکرار این حملات فشار امنیتی و مالی را افزایش می‌دهد: حکومت را وادار به تخصیص منابع برای حفاظت و تعمیر می‌کند، توان عملیاتی هسته‌ای را کاهش می‌دهد و می‌تواند بار اقتصادی و سیاسی را بر شهروندان و نهادهای دولتی شدت ببخشد."
-        ],
-        "impact": "تأیید آژانس از آسیب به ورودی‌های نطنز نشان‌دهنده تشدید فشار نظامی بر زیرساخت‌های هسته‌ای ایران است که می‌تواند ثبات عملیاتی و منابع حکومتی را تضعیف کند.",
-        "tag": "نطنز",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iaea-confirms-entrances-irans-natanz-121401128.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iaea-confirms-entrances-irans-natanz-121401128.html",
-        "image": null,
-        "timestamp": 1772549591.0
-    },
-    {
-        "title_fa": "کشته شدن علی خامنه‌ای و واکنش پیچیده ایرانیان در کالیفرنیا",
-        "title_en": "Conflict in Iran elicit ‘complex' feeling among Californians",
-        "summary": [
-            "هزاران ایرانی در کالیفرنیا در پی اعلام کشته شدن علی خامنه‌ای، رهبر ایران، به خیابان‌ها آمدند؛ برخی جشن گرفتند و گروهی دیگر ناراحت ماندند که استاد سحر رضوی آن را بازتابی از احساسات پیچیده و دید ناقص ناظران خارجی توصیف کرده است.",
-            "گزارش‌ها می‌گویند حمله مشترک آمریکا و اسرائیل در ۲۸ فوریه صدها کشته برجای گذاشت و تهران با حمله موشکی تلافی کرد؛ چنین حمله‌ای توان نظامی و نمادین رژیم را هدف قرار داده که می‌تواند ساختار قدرت و ظرفیت سرکوب رژیم را تضعیف کند اما هم‌زمان خطر تشدید سرکوب داخلی و اختلال‌های اقتصادی را بالا می‌برد.",
-            "واکنش‌های پراکنده در دیاسپورا—از تصاویر علی خامنه‌ای تا عکس‌های رضا پهلوی و ترامپ در میان جشن‌گیران—نشان‌دهنده تقسیم و سردرگمی سیاسی است؛ تحرکات داخلی برای دموکراسی دهه‌ها با سرکوب مواجه شده و این رویداد می‌تواند هم زمینه فروپاشیِ تدریجی کنش‌های مدنی و هم موج جدید اعتراضات را به‌وجود آورد."
-        ],
-        "impact": "این حمله و مرگ رهبر احتمالاً بی‌ثباتی سیاسی و اقتصادی در داخل ایران را تشدید و تنش‌های منطقه‌ای را به‌سرعت افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": 0.35,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/conflict-iran-illicit-complex-feeling-185358173.html",
-        "clean_url": "https://www.yahoo.com/news/articles/conflict-iran-illicit-complex-feeling-185358173.html",
-        "image": "http://www.bing.com/th?id=OVFT.piRKpw9gu3dY9Q0JIKp7dC&pid=News",
-        "timestamp": 1772549400.0
     }
 ]
