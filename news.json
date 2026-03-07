@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چرا حوثی‌ها فعلاً وارد نبرد اسرائیل-آمریکا علیه ایران نمی‌شوند",
+        "title_en": "Why Yemen’s Houthis are staying out of Israel-US fight with Iran – for now",
+        "summary": [
+            "حوثی‌ها با وجود پیشینه حملات به منافع آمریکا و اسرائیل از آغاز حملات اسرائیل-آمریکا به ایران در 28 فوریه عمدتاً به شعار و تظاهرات در صنعا اکتفا کرده‌اند و فعلا از مداخله مستقیم خودداری می‌کنند.",
+            "تحلیلگران این اجتناب را تصمیمی استراتژیک ارزیابی می‌کنند؛ اولویت کنونی حوثی‌ها اجتناب از تلافی‌جویی مستقیم آمریکا و اسرائیل است، در حالی که گزینه مداخله مرحله‌ای همچنان باقی مانده و توانایی‌های حمله را حفظ کرده‌اند.",
+            "حملات اخیر اسرائیل-آمریکا به ایران و حملات پیشین اسرائیل که دست‌کم ۱۲ عضو ارشد دولت حوثی را از جمله نخست‌وزیر احمد الراهاوی کشت، ضربات قابل‌توجهی به رهبری و روحیه طرف‌های وابسته وارد کرده و فضا را برای محدودتر شدن گزینه‌های عملیاتی حوثی تنگ کرده است."
+        ],
+        "impact": "افزایش فشار نظامی بر تهران، ظرفیت عملیاتی شبکه نیابتی‌اش را تضعیف و همزمان احتمال تشدید منطقه‌ای را بالا می‌برد، به‌ویژه اگر حوثی‌ها وارد واکنش متقابل شوند.",
+        "tag": "حوثی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/why-yemen-houthis-staying-israel-042127648.html",
+        "clean_url": "https://www.yahoo.com/news/articles/why-yemen-houthis-staying-israel-042127648.html",
+        "image": null,
+        "timestamp": 1772857479.0
+    },
+    {
         "title_fa": "حملات ایران در خلیج فارس: سوزاندن پل‌های همسایگی",
         "title_en": "Iran’s strikes on the Gulf: Burning the bridges of good neighbourliness",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/day-7-dawns-with-fire-israel-launches-broad-scale-overnight-assault-on-tehran-as-iran-fires-its-biggest-barrage-yet-at-gulf-states/ar-AA1XGfrL",
         "image": null,
         "timestamp": 1772846026.0
+    },
+    {
+        "title_fa": "نقل‌قول‌های خارجی بورس کالا ترکمنستان نشانه‌هایی از رشد نشان می‌دهد",
+        "title_en": "Turkmen exchange's external quotations show signs of growth",
+        "summary": [
+            "ارزش کلی نقل‌قول‌های خارجی در بورس کالای ترکمنستان نسبت به جلسه معاملاتی پیشین افزایش جزئی ثبت کرد؛ این رشد عمدتاً از بخش صنایع سبک پشتیبانی شد.",
+            "خبر حاکی از محدودیت دسترسی به اطلاعات پرداختی است که نشان‌دهنده کمبود شفافیت بازار و مانع ارزیابی دقیق شرایط است.",
+            "افزایش حاشیه‌ای بعید است نشانه بهبود ساختاری باشد و احتمالاً ضعف‌های بنیادین بازار و وابستگی به بخش‌های کوچک را برجسته می‌کند."
+        ],
+        "impact": "این حرکت برای ثبات منطقه‌ای یا سیاست‌های اقتصادی همسایگان اثر قابل‌توجهی ایجاد نمی‌کند، اما ضعف شفافیت و شکنندگی بازار داخلی ترکمنستان را آشکارتر می‌سازد.",
+        "tag": "اقتصاد",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Trend News Agency",
+        "url": "https://www.trend.az/business/4161936.html",
+        "clean_url": "https://www.trend.az/business/4161936.html",
+        "image": "https://www.trend.az/media/2026/02/09/scrmet.png",
+        "timestamp": 1772839740.0
     },
     {
         "title_fa": "جنگ آمریکا-اسرائیل با ایران: پنج مستند و یک اپیزود پادکست برای توضیح پیش‌زمینه",
@@ -160,6 +196,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/war-iran-ends-185027937.html",
         "image": null,
         "timestamp": 1772828400.0
+    },
+    {
+        "title_fa": "جنگ ایران-اسرائیل: آژیر در بحرین به صدا درآمد؛ نگرانی از حملات موشکی تازه ایران به پایگاه‌های آمریکایی در خلیج",
+        "title_en": "Iran-Israel War Live: Sirens blare in Bahrain amid fears of fresh missile attacks on Gulf US bases by Iran",
+        "summary": [
+            "آژیرهای هشدار در بحرین به دنبال نگرانی‌ها از احتمال حملات موشکی تازه ایران به پایگاه‌های نظامی آمریکا در خلیج فارس به صدا در آمده است.",
+            "افزایش تنش، احتمال فعال‌تر شدن حضور نظامی آمریکا و متحدان در منطقه و خطر گسترش درگیری فرامرزی را بالا می‌برد و زمینه واکنش‌های متقابل را تقویت می‌کند.",
+            "تشدید نظامی و تهدید به حملات علیه دارایی‌های خارجی برای رژیم ایران هزینه‌های سیاسی و اقتصادی به دنبال دارد و می‌تواند فشار خارجی و اختلالات اقتصادی را افزایش دهد که فضای سیاسی داخلی را تضعیف می‌کند. "
+        ],
+        "impact": "تشدید درگیری یا پاسخ‌های نظامی متقابل می‌تواند روند تضعیف ساختاری رژیم را از طریق افزایش فشار خارجی و تشدید مشکلات اقتصادی تسریع کند.",
+        "tag": "امنیت",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "News24",
+        "url": "https://news24online.com/world/i-us-israel-attack-on-iran-live-updates-sate-emergency-across-middle-east-explosions-gulf-countries-abu-dhabi-dubai-tel-aviv-strike-in-tehran-ali-khamenei-death-benjamin-netanyahu-donald-trump-latest/767455/",
+        "clean_url": "https://news24online.com/world/i-us-israel-attack-on-iran-live-updates-sate-emergency-across-middle-east-explosions-gulf-countries-abu-dhabi-dubai-tel-aviv-strike-in-tehran-ali-khamenei-death-benjamin-netanyahu-donald-trump-latest/767455",
+        "image": "http://www.bing.com/th?id=OVFT.ESx2mlEnveZg7WffPoZQKi&pid=News",
+        "timestamp": 1772826840.0
     },
     {
         "title_fa": "ترکیه دو منافع کلیدی در منازعه با ایران دارد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/what-if-today-s-iran-is-resigned-to-a-long-hellish-war-with-the-us/ar-AA1WS9sg",
         "image": null,
         "timestamp": 1772530755.0
-    },
-    {
-        "title_fa": "خبر فوری: علی خامنه‌ای، رهبر جمهوری اسلامی، در حملات مشترک آمریکا و اسرائیل کشته شد",
-        "title_en": "Iran live updates: Trump meets with German chancellor amid Iran war",
-        "summary": [
-            "چندین مقام اسرائیلی به ABC خبر داده‌اند که اسرائیل تعیین کرده علی خامنه‌ای در حملات مشترک آمریکا و اسرائیل به تهران در روز شنبه کشته شده است.",
-            "این ضربه ساختاری توان فرماندهی و انسجام سیاسی حکومت را تضعیف می‌کند؛ خلأ رهبری احتمالاً رقابت میان نخبگان را تشدید کرده و ظرفیت رژیم برای مدیریت بحران‌های اقتصادی و سیاسی را کاهش می‌دهد.",
-            "این خبر پتانسیل افزایش نارضایتی عمومی و موج جدید اعتراضات را دارد، اما ابعاد واقعی اعتراضات و فروپاشی اقتصادی وابسته به واکنش نیروهای امنیتی و مکانیسم‌های جانشینی خواهد بود."
-        ],
-        "impact": "مرگ رهبر می‌تواند یک بحران رهبری فوری ایجاد کند که بی‌ثباتی داخلی را تشدید و واکنش‌های سرکوب‌گرانه یا تهاجمی را از سوی ساختارهای نظامی-امنیتی برانگیزد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "ABC7 Chicago",
-        "url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18662700/",
-        "clean_url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18662700",
-        "image": "http://www.bing.com/th?id=OVFT.Qso3uGI7z2WePac-Rg2LDS&pid=News",
-        "timestamp": 1772529840.0
-    },
-    {
-        "title_fa": "ادامه صعود قیمت نفت و گاز طبیعی همزمان با تشدید حملات به ایران",
-        "title_en": "Oil and Natural Gas Prices Extend Rally as Iran Attacks Escalate",
-        "summary": [
-            "حملات ایالات متحده و اسرائیل علیه ایران تشدید شده و واکنش‌های ایران نیز افزایش یافته است.",
-            "بازارهای انرژی به این تشدید نظامی واکنش نشان داده و قیمت نفت و گاز طبیعی در حال صعود است.",
-            "صعود قیمت‌ها و تشدید درگیری‌ها فشار اقتصادی داخلی را افزایش می‌دهد و ثبات رژیم را از طریق تشدید فشار خارجی و هزینه‌های سیاسی-اقتصادی تضعیف می‌کند."
-        ],
-        "impact": "هم‌افزایی میان تحرکات نظامی و افزایش قیمت انرژی بی‌ثباتی منطقه‌ای را تشدید کرده و فضای تصمیم‌گیری سیاسی و اقتصادی ایران را محدودتر می‌کند.",
-        "tag": "نفت",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/03/business/energy-environment/oil-natural-gas-iran-israel-united-states.html",
-        "clean_url": "https://www.nytimes.com/2026/03/03/business/energy-environment/oil-natural-gas-iran-israel-united-states.html",
-        "image": "http://www.bing.com/th?id=ONUT.CIIW1Hge7QdahRV0Rkleyg&pid=News",
-        "timestamp": 1772529420.0
-    },
-    {
-        "title_fa": "جنگ ترامپ با ایران کنگره را به‌هم‌ریخته است",
-        "title_en": "Trump’s Iran war sends Congress scrambling",
-        "summary": [
-            "اقدام نظامی ترامپ علیه ایران کنگره آمریکا را در وضعیت دستپاچگی و واکنش سریع قرار داده است.",
-            "کنگره در تلاش برای تعیین چارچوب‌های سیاسی و قانونی واکنش، پایش پیامدها و تقسیم مسئولیت‌ها قرار دارد.",
-            "برای جمهوری اسلامی، این تشدید نظامی به معنی افزایش فشارهای بین‌المللی و بالا رفتن ریسک ناپایداری داخلی است."
-        ],
-        "impact": "این رویداد شانس بی‌ثباتی منطقه‌ای را افزایش می‌دهد و فشار بر ساختار سیاسی و اقتصادی ایران را شتاب می‌بخشد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/politics/2026/03/03/trump-iran-war-sends-congress-scrambling/88945183007/",
-        "clean_url": "https://www.usatoday.com/story/news/politics/2026/03/03/trump-iran-war-sends-congress-scrambling/88945183007",
-        "image": null,
-        "timestamp": 1772528940.0
     }
 ]
