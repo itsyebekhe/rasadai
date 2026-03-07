@@ -216,6 +216,24 @@
         "timestamp": 1772848860.0
     },
     {
+        "title_fa": "افزایش سریع قیمت بنزین در پی ادامه حمله نظامی ترامپ به ایران",
+        "title_en": "Gas prices are climbing fast as Trump’s Iran conflict continues",
+        "summary": [
+            "واشنگتن‌پست گزارش می‌دهد که ادامه حمله نظامی ترامپ به ایران باعث افزایش سریع قیمت بنزین شده است.",
+            "تهدید به تعطیلی تولید نفت در منطقه عرضه جهانی را تحت فشار قرار داده و محرکی مستقیم برای بالا رفتن قیمت سوخت شده است.",
+            "قطع احتمالی تولید نفت می‌تواند درآمدهای دولت را کاهش دهد، فشار اقتصادی داخلی را تشدید کند و به تضعیف مشروعیت رژیم کمک کند."
+        ],
+        "impact": "شوک عرضه نفت و رشد قیمت بنزین می‌تواند درآمدهای دولت را کاهش داده، فشارهای اقتصادی و نارضایتی اجتماعی را افزایش دهد و توان بقا و مشروعیت حکومت را تضعیف کند.",
+        "tag": "نفت",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/money/markets/gas-prices-are-climbing-fast-as-trump-s-iran-conflict-continues/ar-AA1XI82D",
+        "clean_url": "https://www.msn.com/en-us/money/markets/gas-prices-are-climbing-fast-as-trump-s-iran-conflict-continues/ar-AA1XI82D",
+        "image": null,
+        "timestamp": 1772848800.0
+    },
+    {
         "title_fa": "رئیس‌جمهور: حملات به همسایگان تنها در صورتی متوقف می‌شود که از آنها برای حمله استفاده شوند",
         "title_en": "Live updates: Iran will stop attacking neighbors unless they are used to launch strikes, president says",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.nytimes.com/2026/03/03/us/politics/congress-iran-war-powers.html",
         "image": "http://www.bing.com/th?id=OVFT.i--RXAHRPIC39QJ3NCJZ3i&pid=News",
         "timestamp": 1772561040.0
-    },
-    {
-        "title_fa": "نماینده ایران از شورای حقوق بشر خواست به هجوم آمریکا و اسرائیل واکنش نشان دهد",
-        "title_en": "Iran ambassador calls on UN rights council to respond to US-Israel assault",
-        "summary": [
-            "نماینده ایران در سازمان ملل از شورای حقوق بشر خواسته به آنچه «حمله» مشترک آمریکا و اسرائیل خوانده‌اند، پاسخ دهد؛ این واکنش رسمی تهران به برخورد نظامی یا حملات خارجی است.",
-            "فشار خارجی از این نوع می‌تواند زمینه‌ساز تشدید تحریم‌ها و انزوای دیپلماتیک شود و منابع سیاسی و اقتصادی رژیم را تحت فشار قرار دهد؛ این عوامل ساختاری می‌توانند به تضعیف ثبات بلندمدت نظام بینجامند.",
-            "گزارش حاضر به نقش روسیه، چین یا اعتراضات داخلی و پیامدهای اقتصادی اشاره‌ای نکرده؛ بنابراین شواهد موثق از تضعیف داخلی فوری یا تأثیر اقتصادی مستقیم در متن گزارش موجود نیست."
-        ],
-        "impact": "این درخواست می‌تواند به تشدید تنش‌های نظامی و افزایش فشار دیپلماتیک علیه رژیم منجر شود و بازتاب‌هایی بر ثبات استراتژیک آن داشته باشد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Geneva Solutions",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzF3V2FPa1czUGl0OTRXN2lGRVZ2TWd5SlFRcnF5RTlaMWtYR0YyRWJWbFNHZXRNS2pGbG1NN285a2xyOWUyRnR5MGJ2UVVUS1JOc0ZKOWtNQlRGRnpRdVFzVDBCYXJreFljQjQ2d044MVhIT0RtS1dZR21oTWxTNHNLQl9zU1h2YTZlSkc2cENCRnQ5UHJMOGpnMk9ISWhnSjMyZ3NSb0pEaTdIR3U4ZlFsVHFLZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbzF3V2FPa1czUGl0OTRXN2lGRVZ2TWd5SlFRcnF5RTlaMWtYR0YyRWJWbFNHZXRNS2pGbG1NN285a2xyOWUyRnR5MGJ2UVVUS1JOc0ZKOWtNQlRGRnpRdVFzVDBCYXJreFljQjQ2d044MVhIT0RtS1dZR21oTWxTNHNLQl9zU1h2YTZlSkc2cENCRnQ5UHJMOGpnMk9ISWhnSjMyZ3NSb0pEaTdIR3U4ZlFsVHFLZw",
-        "image": null,
-        "timestamp": 1772558580.0
     }
 ]
