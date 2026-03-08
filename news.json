@@ -234,6 +234,24 @@
         "timestamp": 1772955675.0
     },
     {
+        "title_fa": "عراقچی: رد آتش‌بس و تایید کمک‌های روسیه؛ اصرار بر ادامه جنگ",
+        "title_en": "Iran's foreign minister rejects calls for a ceasefire: 'We need to continue fighting for the sake of our people'",
+        "summary": [
+            "عباس عراقچی، وزیر خارجه ایران در مصاحبه با NBC 'Meet the Press' خواستار رد فراخوان‌ها برای آتش‌بس شد و گفت «باید برای مردم‌مان به مبارزه ادامه دهیم»؛ موضعی که از تمایل رسمی به تشدید نظامی حکایت دارد.",
+            "عراقچی هنگام پاسخ به سوال درباره کمک روسیه اظهار داشت «آنها در جهات مختلف به ما کمک می‌کنند»؛ این اعتراف روسیه را به‌عنوان عامل کمکی راهبردی در ظرفیت‌بخشی به رژیم نشان می‌دهد.",
+            "اصرار بر ادامه جنگ در چارچوب فشارهای خارجی و تنگناهای اقتصادی می‌تواند انزوای بین‌المللی و هزینه‌های داخلی را افزایش دهد و احتمال تشدید واکنش‌های داخلی را بالا ببرد."
+        ],
+        "impact": "پذیرش کمک روسیه همراه با رد آتش‌بس ریسک تشدید درگیری و افزایش انزوای سیاسی-اقتصادی رژیم را بالا می‌برد و فشار داخلی را تشدید می‌کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/irans-foreign-minister-rejects-calls-ceasefire-continue-fighting-rcna262291",
+        "clean_url": "https://www.nbcnews.com/world/iran/irans-foreign-minister-rejects-calls-ceasefire-continue-fighting-rcna262291",
+        "image": null,
+        "timestamp": 1772954580.0
+    },
+    {
         "title_fa": "کهنه‌سربازان سن‌دیِگو علیه دخالت آمریکا در جنگ ایران؛ دیاسپورا تقسیم شده",
         "title_en": "Veterans weigh in on U.S. involvement in Iran",
         "summary": [
@@ -322,6 +340,24 @@
         "clean_url": "https://www.aol.com/articles/latest-israeli-strikes-kill-12-061202661.html",
         "image": "http://www.bing.com/th?id=OVFT.bczux0wM4O6zIOHmuKz_NS&pid=News",
         "timestamp": 1772947860.0
+    },
+    {
+        "title_fa": "آخرین خط مقاومت ایران عقب می‌کشد — اما گروه حوثی هشدار می‌دهد که آماده اقدام است",
+        "title_en": "Iran’s last line of resistance holds back — but Houthi terror group warns it’s ready to act",
+        "summary": [
+            "کارشناس یمن می‌گوید حوثی‌های تحت حمایت ایران تا کنون وارد درگیری مستقیم نشده‌اند؛ این احتیاط استراتژیک نشان‌دهنده محاسبه تهران برای اجتناب از گسترش سریع جنگ در منطقه است.",
+            "حوثی‌ها هشدار داده‌اند که در صورت وسعت گرفتن درگیری‌ها ممکن است به عربستان حمله کنند؛ این تهدید، ظرفیت قابل‌توجهی برای تشدید جنگ نیابتی و کشاندن کشورهای منطقه به درگیری مستقیم را نشان می‌دهد.",
+            "استفاده مستمر از نیابتی‌ها به‌عنوان آخرین خط دفاع، علامتی از ضعف ساختاری رژیم است؛ فشارهای خارجی و تحریم‌ها منابع را تنگ‌تر کرده و مدیریت ناکافی اقتصادی بعید است نارضایتی عمومی را کاهش دهد."
+        ],
+        "impact": "ورود حوثی‌ها به تنش‌ها می‌تواند جنگ نیابتی را تشدید کند، به واکنش‌های منطقه‌ای و بین‌المللی منجر شود و از طریق تحریم‌ها و انزوای بیشتر، شکنندگی پایه‌های داخلی رژیم را افزایش دهد.",
+        "tag": "هشدار",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-last-line-of-resistance-holds-back-but-houthi-terror-group-warns-it-s-ready-to-act/ar-AA1XLyN1",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-last-line-of-resistance-holds-back-but-houthi-terror-group-warns-it-s-ready-to-act/ar-AA1XLyN1",
+        "image": "http://www.bing.com/th?id=OVFT.Hz0_hntzfv57b_jS9Dz14S&pid=News",
+        "timestamp": 1772947531.0
     },
     {
         "title_fa": "نماینده دموکرات: اقدامات ترامپ علیه ایران فراتر از اختیار است — هشدار درباره «جنگی بسیار بزرگ‌تر»",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.nbcnews.com/politics/2026-election/iran-strikes-risk-voter-frustration-economy-rising-gas-prices-rcna261346",
         "image": null,
         "timestamp": 1772655480.0
-    },
-    {
-        "title_fa": "حملات تازه اسرائیل اهداف ایرانی در تهران را هدف قرار داد",
-        "title_en": "Fresh Israeli strikes hammer Iranian targets in Tehran",
-        "summary": [
-            "گزارش منبع اصلی خبر به‌طور خلاصه از «حملات تازه اسرائیل» علیه اهدافی در تهران خبر می‌دهد؛ متن منتشرشده جزئیات درباره تلفات یا اهداف مشخص را ارائه نمی‌کند.",
-            "از منظر فشار خارجی، این حملات نشانه افزایش تهاجم نظامی علیه جمهوری اسلامی است و به صورت ساختاری بازدارندگی و مشروعیت نظام را تضعیف می‌کند؛ پیامد سیاسی و دیپلماتیک می‌تواند تشدید انزوای بین‌المللی رژیم باشد.",
-            "ناتوانی آشکار در حفاظت از پایتخت نمادی از ناکارآمدی‌های امنیتی و حکمرانی است؛ چنین رخدادی می‌تواند نارضایتی عمومی را تشدید و فشار بر اقتصاد و ثبات داخلی را افزایش دهد."
-        ],
-        "impact": "حملات مستقیم در تهران خطر افزایش تنش منطقه‌ای، تضعیف مشروعیت داخلی رژیم و افزایش فشار سیاسی و اقتصادی بر ساختارهای حکومت را بالا می‌برد.",
-        "tag": "حمله",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vaWtzQkZNYWhZSS1mY2RfNUhzaVA5YmxDOFFrdi1yc0x0WGpWUnZGd0JfNFFaY3RRUWMyWTd0a01Qa1BFU09KQ21IVm1xREpTZWJmcEJ6T2xSUWpLUnR2ZlExdGtwWTMwZndKZTBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vaWtzQkZNYWhZSS1mY2RfNUhzaVA5YmxDOFFrdi1yc0x0WGpWUnZGd0JfNFFaY3RRUWMyWTd0a01Qa1BFU09KQ21IVm1xREpTZWJmcEJ6T2xSUWpLUnR2ZlExdGtwWTMwZndKZTBB",
-        "image": null,
-        "timestamp": 1772654602.0
-    },
-    {
-        "title_fa": "پایش درگیری‌های خاورمیانه (ACLED)",
-        "title_en": "Middle East Conflict Monitor",
-        "summary": [
-            "ACLED گزارشی تحت عنوان «پایش درگیری‌های خاورمیانه» منتشر کرده؛ مرجع داده‌ای برای ثبت و رصد رخدادهای خشونت‌آمیز و تجمعات سیاسی در منطقه است.",
-            "این پایش بر جمع‌آوری داده‌های میدانی و منابع باز تکیه دارد تا الگوهای درگیری، حملات و اعتراضات را به‌صورت زمان‌محور نقشه‌برداری کند.",
-            "ابزار مورد استفاده برای تحلیلگران امنیتی، دیپلمات‌ها و ناظران داخلی است و می‌تواند درک از دینامیک‌های منطقه‌ای را تقویت کند، اما نیاز به تفسیر دقیق و بررسی میدانی دارد."
-        ],
-        "impact": "وجود این پایش داده‌محور امکان تحلیل دقیق‌تر روندهای خشونت و اعتراض در خاورمیانه را فراهم می‌کند، اما خودِ داده بدون تفسیر میدانی و پیگیری سیاسی تاثیری محدود خواهد داشت.",
-        "tag": "درگیری",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "ACLED",
-        "url": "https://www.msn.com/en-us/money/markets/us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies/ar-AA1Xwt4x",
-        "clean_url": "https://www.msn.com/en-us/money/markets/us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies/ar-AA1Xwt4x",
-        "image": null,
-        "timestamp": 1772654526.0
     }
 ]
