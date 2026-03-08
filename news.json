@@ -198,6 +198,24 @@
         "timestamp": 1772902134.0
     },
     {
+        "title_fa": "ترامپ وعده تشدید جنگ داد؛ شکاف‌ها در ایران آشکار شد",
+        "title_en": "Trump vows to escalate war as divisions in Iran emerge",
+        "summary": [
+            "گزارش می‌گوید موج فعالیت‌های نظامی در آخر هفته نشان می‌دهد جنگ غیرمنتظره ترامپ علیه ایران ادامه دارد و هیچ نشانه‌ای از کاهش دیده نمی‌شود.",
+            "تیتر به وجود آمدن شکاف‌های داخلی در ایران اشاره می‌کند؛ تنش‌های سیاسی و اختلاف میان نهادهای قدرت احتمالا با تشدید عملیات خارجی برجسته‌تر شده‌اند.",
+            "تشدید جنگ خطر تشدید فشارهای اقتصادی و سیاسی خارجی را افزایش می‌دهد که ساختارهای حکومتی را از نظر مالی و مشروعیت تضعیف خواهد کرد."
+        ],
+        "impact": "تداوم و تشدید عملیات نظامی آمریکا ساختارهای بقا و انسجام داخلی رژیم را بیشتر تضعیف کرده و احتمال رشد نارضایتی اجتماعی و بحران اقتصادی را افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Los Angeles Times on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-vows-to-escalate-war-as-divisions-in-iran-emerge/ar-AA1XK2Sw",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-vows-to-escalate-war-as-divisions-in-iran-emerge/ar-AA1XK2Sw",
+        "image": "http://www.bing.com/th?id=OVFT.pj8FFNz0DDcQqNOBf8NIEi&pid=News",
+        "timestamp": 1772899979.0
+    },
+    {
         "title_fa": "مقامات سابق دولت ترامپ: طرح‌های اسرائیل به ورود آمریکا به جنگ با ایران کمک کرد",
         "title_en": "Trump officials say Israel’s plans helped lead the US into Iran war",
         "summary": [
@@ -790,6 +808,24 @@
         "clean_url": "https://www.npr.org/2026/03/07/nx-s1-5734381/white-house-messaging-iran-us-israel-war",
         "image": null,
         "timestamp": 1772868193.0
+    },
+    {
+        "title_fa": "ایران پیام نخست کاهش تنش را فرستاد، اما با شرطی اساسی",
+        "title_en": "Iran sends first significant message of de-escalation, but with a major caveat",
+        "summary": [
+            "رئیس‌جمهور مسعود پزشکیان اعلام کرد تهران حملات علیه همسایگان خلیج فارس را متوقف می‌کند مشروط بر اینکه حملات علیه ایران از خاک آن کشورها صورت نگیرد؛ این بیانیه هم‌زمان با حملات گسترده‌ای بود که گزارش شد — از جمله 16 موشک بالستیک و 121 پهپاد علیه امارات.",
+            "پزشکیان به همسایگان عذرخواهی کرد و با اشاره به ناپایداری ساختار فرماندهی گفت نیروهای مسلح «به‌طور خودسرانه» عمل کرده‌اند؛ این در حالی است که او پیش‌تر نیز بابت سقوط اقتصادی، کشتار معترضان و ناکارآمدی حکومتی عذرخواهی کرده بود و نشان از ضعف سرمایه سیاسی دولت دارد.",
+            "کشته شدن علی خامنه‌ای و دیگر رهبران در حملات آمریکا و اسرائیل که در متن گزارش آمده، موجب برهم‌ریختگی ساختار تصمیم‌گیری شده و تردید جدی درباره هم‌راستایی مواضع شورای رهبری با رفتار عملیاتی سپاه پاسداران انقلاب اسلامی و ارتش ایجاد کرده است."
+        ],
+        "impact": "فشار خارجی مستقیم (حملات نظامی آمریکا و اسرائیل) همراه با ناتوانی مدیریت داخلی، انسجام سیاسی را تضعیف کرده، شکاف بین نهادهای مسلح و دولت را بزرگ‌تر می‌کند و ریسک فروپاشی کنترل مرکزی و گسترش بی‌ثباتی در داخل کشور را بالا می‌برد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/03/07/middleeast/iran-pezeshkian-message-analysis-intl",
+        "clean_url": "https://www.cnn.com/2026/03/07/middleeast/iran-pezeshkian-message-analysis-intl",
+        "image": null,
+        "timestamp": 1772868120.0
     },
     {
         "title_fa": "عذرخواهی ایران به خلیج — اما جنگ در منطقه ادامه دارد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/long-israel-sustain-military-conflict-080148320.html",
         "image": null,
         "timestamp": 1772611437.0
-    },
-    {
-        "title_fa": "«شاید من...»: ترامپ منکر شد که اسرائیل او را وادار به آغاز جنگ با ایران کرده است",
-        "title_en": "\"I Might Have...\": Trump Denies Israel \"Forcing\" Him To Launch Iran War",
-        "summary": [
-            "ترامپ به نقل از گزارش NDTV انکار کرده که اسرائیل او را وادار به آغاز جنگ با ایران کرده است.",
-            "این اظهارنظر تلاشی روشن برای دور نگه داشتن واشنگتن از نسبت دادن مستقیم مسئولیت هر تنش نظامی با ایران به اسرائیل است و روایت سیاسی داخلی و بین‌المللی را جهت‌دار می‌سازد.",
-            "گزارش اشاره‌ای به تحریم‌ها یا اعتراضات داخلی ندارد؛ با این حال، روایت‌های درباره «فشار خارجی» معمولاً قابلیت استفاده برای منحرف‌سازی از ناکارآمدی‌های اقتصادی و مدیریتی داخل ایران را دارند (تحلیلی و مشروط)."
-        ],
-        "impact": "این انکار هزینه سیاسی نسبت‌دادن هر حمله احتمالی به ایران به اسرائیل را کاهش می‌دهد، اما خطر تشدید منطقه‌ای و بهره‌برداری تبلیغاتی از این روایت را برطرف نمی‌کند.",
-        "tag": "جنگ",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "NDTV",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPejBNUnlZYjVuVk1FajZaODhxS2RlZ2RWRXNEY2VXTmQwbHdack5yNE9jQ041Y2V3VVFHUERfU2tPWUh3QTZHZUlBT1A2eFR1cTNXWkM2M2lKcTJuRUhXemxLMDV6aDJFTG5uS056b3REdFBtU3VSc3NTRFNVZDh6alZuYldYVTZlbUpFb3ZpRzJlaXJLR0JZSDlPLU9RUW9Pd09KYUFCSlA0Mzg3ZVFFdXVUT09MUC1QN3VCT0RZYjFIdkc4WkJfRWdjd3V3ZU41dUZFcVduRU9QSGlqbnFwWTBrNGjSAewBQVVfeXFMTVFxVzV0VkVtYmpxMjRYMklEM0QxcjJpdl81Q3VoTXFpMHByU25EMmxqU2pYSXpSZDAtZF9kUDNRVzk2T1FuaVJwS19yckhldEFhTXA5T0JCV05XSWZBVXNueVRQTjFCZ3VmaUFuQlRGcGlqS3MxOG16UFpFR2U2WGJMQXU4RDdsQVo3dGJDVTRNQmhBLUp5UmJCdGxPN3I2ZnBvSFFBODBIMkJvSXM2Q3NKWXVucFI3VmFOOEw4bVVPQk9aZjNBMnMtN2NOV2dJbXBEWl9UWlRPNUtmZFNqUUl1ZEktU015ajVWU3E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPejBNUnlZYjVuVk1FajZaODhxS2RlZ2RWRXNEY2VXTmQwbHdack5yNE9jQ041Y2V3VVFHUERfU2tPWUh3QTZHZUlBT1A2eFR1cTNXWkM2M2lKcTJuRUhXemxLMDV6aDJFTG5uS056b3REdFBtU3VSc3NTRFNVZDh6alZuYldYVTZlbUpFb3ZpRzJlaXJLR0JZSDlPLU9RUW9Pd09KYUFCSlA0Mzg3ZVFFdXVUT09MUC1QN3VCT0RZYjFIdkc4WkJfRWdjd3V3ZU41dUZFcVduRU9QSGlqbnFwWTBrNGjSAewBQVVfeXFMTVFxVzV0VkVtYmpxMjRYMklEM0QxcjJpdl81Q3VoTXFpMHByU25EMmxqU2pYSXpSZDAtZF9kUDNRVzk2T1FuaVJwS19yckhldEFhTXA5T0JCV05XSWZBVXNueVRQTjFCZ3VmaUFuQlRGcGlqS3MxOG16UFpFR2U2WGJMQXU4RDdsQVo3dGJDVTRNQmhBLUp5UmJCdGxPN3I2ZnBvSFFBODBIMkJvSXM2Q3NKWXVucFI3VmFOOEw4bVVPQk9aZjNBMnMtN2NOV2dJbXBEWl9UWlRPNUtmZFNqUUl1ZEktU015ajVWU3E",
-        "image": null,
-        "timestamp": 1772609001.0
-    },
-    {
-        "title_fa": "سیا در حال برنامه‌ریزی برای تسلیح نیروهای کرد علیه رژیم ایران",
-        "title_en": "CIA ‘plans to arm Kurdish militias to fight Iran’",
-        "summary": [
-            "گزارش‌ها حاکی است که سیا و دولت ترامپ درباره تسلیح و پشتیبانی نظامی از رهبران کرد در عراق و گروه‌های اپوزیسیون ایرانی به‌منظور تحریک قیام داخلی مذاکره می‌کنند؛ تماس‌های مستقیم با رهبران کرد در مرز ایران نیز انجام شده است.",
-            "مسئولان کردی از آمادگی برای شرکت در عملیات زمینی در غرب ایران خبر داده‌اند و ائتلافی از گروه‌های کرد خواستار جدا شدن نیروهای رژیم در کردستان شده‌اند؛ هم‌زمان حملات هوایی آمریکا و اسرائیل اهداف حساس در ایران را هدف قرار داده‌اند.",
-            "اقدامات واشنگتن و تل‌آویو، به‌ویژه فراخوان ترامپ به «برخاستن مردم» و وعده «کمک در راه است»، نشان‌دهنده تلاش برای بهره‌برداری از نارضایتی داخلی و افزایش فشار خارجی بر حکومت تهران است."
-        ],
-        "impact": "تسلیح و هماهنگی خارجی با نیروهای کردی می‌تواند ساختار امنیتی رژیم را از هم بپاشاند، فشار سیاسی و نظامی را افزایش دهد و امکان بروز تفرقه و خروج نیروها از صفوف ارتش منطقه‌ای را بالا ببرد.",
-        "tag": "تسلیح",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/trump-ignites-civil-war-fears-194638625.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-ignites-civil-war-fears-194638625.html",
-        "image": null,
-        "timestamp": 1772608500.0
     }
 ]
