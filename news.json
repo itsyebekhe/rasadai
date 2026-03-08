@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "در هفته اول جنگ؛ کارزار نظامی شدید و بدون پایان‌نامه منسجم",
+        "title_en": "In War’s First Week, a Punishing Military Campaign With No Coherent Endgame",
+        "summary": [
+            "حملات هوایی مشترک آمریکا و اسرائیل به یک کمپوند دولتی در تهران، علی خامنه‌ای، رهبر جمهوری اسلامی و شمار قابل‌توجهی از فرماندهان نظامی و اطلاعاتی را کشت؛ بسیاری از فرماندهان ارشد برای هدایت پاسخ در دسترس نیستند.",
+            "در همان حمله گروهی از مقام‌هایی که کاخ سفید آن‌ها را محتمل‌ترین طرف‌های مذاکره معرفی کرده بود نیز کشته شدند؛ این مسئله ظرفیت‌های میانجی‌گری و احتمال پایان سریع درگیری را تضعیف کرده است.",
+            "با وجود ضربه سنگین، حکومت مرکزی هنوز سرپا است؛ میدان نبرد منطقه‌ای گسترش یافته و طرف ایرانی اولین تلفات آمریکایی را وارد کرده، در حالی که هدف‌گذاری راهبردی واشنگتن نامشخص و پیام‌های رهبری آمریکا متناقض بوده است."
+        ],
+        "impact": "حملات خارجی ساختار فرماندهی را به‌صورت فوری تضعیف و چشم‌انداز مذاکره را کم‌رنگ کرده‌اند، اما با باقی‌ماندن دولت مرکزی و نبود قیام مردمی، این شوک احتمالاً به طولانی‌تر و پیچیده‌تر شدن جنگ می‌انجامد و فضای تصمیم‌گیری را به نفع جریان‌های سختگیر تقویت می‌کند.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html",
+        "clean_url": "https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html",
+        "image": null,
+        "timestamp": 1772990560.0
+    },
+    {
+        "title_fa": "اظهار تعجب رئیس‌جمهور اسرائیل از تردیدها درباره مشروعیت جنگ علیه ایران",
+        "title_en": "'Mind boggles' at doubts over legality of Iran war, Israeli president says",
+        "summary": [
+            "رئیس‌جمهور اسرائیل با گفتن اینکه «بهت‌آور» است که درباره مشروعیت حمله به ایران تردید مطرح می‌شود، نسبت به مخالفت‌ها واکنش نشان داد.",
+            "بحث علنی درباره مشروعیت اقدام نظامی می‌تواند فشار دیپلماتیک و تحریم‌ها را تشدید کند؛ چنین فشاری ساختار اقتصادی و ظرفیت بقا سیاسی رژیم را تضعیف می‌کند.",
+            "هر افزایش تهدید نظامی یا تحریمی، کم‌کاری‌های مدیریتی و اقتصادی رژیم را برجسته می‌کند و احتمال رشد نارضایتی عمومی و بی‌ثباتی داخلی را بالا می‌برد."
+        ],
+        "impact": "اظهارات اسرائیل می‌تواند به تشدید فشارهای بین‌المللی و افزایش ریسک‌های نظامی منجر شود که بار بیشتری بر شکنندگی اقتصادی و سیاسی رژیم وارد خواهد کرد.",
+        "tag": "جنگ",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/world/mind-boggles-at-doubts-over-legality-of-iran-war-israeli-president-says/ar-AA1XM41S",
+        "clean_url": "https://www.msn.com/en-us/news/world/mind-boggles-at-doubts-over-legality-of-iran-war-israeli-president-says/ar-AA1XM41S",
+        "image": null,
+        "timestamp": 1772988810.0
+    },
+    {
+        "title_fa": "ما، مردم آمریکا، از جنگ‌های بی‌پایان خسته شده‌ایم",
+        "title_en": "We, the American people, have had enough of endless wars",
+        "summary": [
+            "عنوان نشان‌دهنده خستگی گسترده عمومی در آمریکا از مداخلات نظامی طولانی‌مدت است و فشار داخلی افزایشی بر تصمیم‌گیران برای بازنگری در سیاست خارجی ایجاد می‌کند.",
+            "فشار رأی‌دهندگان می‌تواند هزینه‌های سیاسی برای دولت‌ها و احزابِ طرفدار عملیات نظامی خارج از مرزها را بالا ببرد و زمینه کاهش تعهدات نظامی و بازگشت تمرکز به سیاست داخلی را فراهم کند.",
+            "کاهش میل عمومی به ادامه جنگ‌ها ممکن است پیام کاهش آمادگی آمریکا برای تعهدات طولانی‌مدت را به بازیگران منطقه‌ای منتقل کند؛ پیامدهای مشخص به واکنش سیاست‌مداران آمریکایی و شرکای منطقه‌ای بستگی دارد."
+        ],
+        "impact": "فشار داخلی علیه «جنگ‌های بی‌پایان» احتمال کاهش مداخلات نظامی آمریکا را بالا می‌برد و در کوتاه‌مدت می‌تواند ساختار ائتلاف‌ها و توازن قوا در نقاط بحران‌زای جهان را تحت تأثیر قرار دهد.",
+        "tag": "ضدجنگ",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/we-the-american-people-have-had-enough-of-endless-wars/ar-AA1XLZmE",
+        "clean_url": "https://www.msn.com/en-us/news/world/we-the-american-people-have-had-enough-of-endless-wars/ar-AA1XLZmE",
+        "image": null,
+        "timestamp": 1772987739.0
+    },
+    {
         "title_fa": "گسترش هدف‌گیری‌ها در جنگ مرتبط با ایران؛ بحرین: تأسیسات آب هدف قرار گرفت",
         "title_en": "Iran war’s targets widen into civilian infrastructure as Bahrain says water plant hit",
         "summary": [
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/us-senate-vote-trumps-war-161510002.html",
         "image": null,
         "timestamp": 1772667728.0
-    },
-    {
-        "title_fa": "پهپادها و راکت‌های شبه‌نظامیان مناطق کردنشین عراق را بمباران می‌کنند؛ جنگ ایران گسترش می‌یابد",
-        "title_en": "Militia Drones And Rockets Bombard Iraqi Kurdistan As Iran War Spreads",
-        "summary": [
-            "گزارش‌ها از حملات مکرر شبه‌نظامیان مورد حمایت ایران با پهپاد و راکت به اربیل و دیگر نقاط کردستان عراق حکایت دارد؛ تحلیل‌گر عراقی لاوک گفوری می‌گوید انفجارها تقریباً هر ساعت شنیده می‌شود.",
-            "استفاده از گروه‌های نیابتی برای پیشبرد اهداف تهران نشان‌دهنده گسترش جنگ به خارج از مرزهای ایران و افزایش خطر بی‌ثباتی منطقه‌ای است که می‌تواند تنش‌های میان دولت‌های منطقه و اقلیم را بالا ببرد.",
-            "تکیه دولت تهران بر شبه‌نظامیان برای فشار خارجی انعکاسی از ضعف ساختاری و ناتوانی در مدیریت سیاسی-امنیتی است و احتمالاً زمینه را برای انزوای بیشتر و فشارهای بین‌المللی فراهم می‌کند."
-        ],
-        "impact": "افزایش حملات نیابتی خطر تبدیل شدن درگیری به بحران منطقه‌ای را بالا برده و موقعیت داخلی رژیم را از منظر امنیتی و دیپلماتیک تضعیف می‌کند.",
-        "tag": "تشدید",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/pauliddon/2026/03/02/militia-drones-and-rockets-bombard-iraqi-kurdistan-amidst-iran-war/",
-        "clean_url": "https://www.forbes.com/sites/pauliddon/2026/03/02/militia-drones-and-rockets-bombard-iraqi-kurdistan-amidst-iran-war",
-        "image": "http://www.bing.com/th?id=OVFT.DmznpQWMbVo6A0wdMQqVsC&pid=News",
-        "timestamp": 1772666580.0
-    },
-    {
-        "title_fa": "آمریکا: «جنگ با ایران ابدی نیست» — کارشناسان مخالف‌اند",
-        "title_en": "The U.S. insists the Iran conflict won't be a 'forever war.' Experts beg to differ",
-        "summary": [
-            "واشنگتن اصرار دارد درگیری با ایران وارد «جنگ همیشگی» نخواهد شد؛ گزارش می‌گوید گروهی از کارشناسان خلاف این نظر را مطرح می‌کنند و احتمال طولانی‌شدن درگیری را بالا می‌دانند.",
-            "کارشناسان هشدار می‌دهند در صورت درازا کشیدن نبرد، فشارهای بین‌المللی و تحریم‌ها تشدید شده و این فشارهای خارجی می‌توانند ساختارهای اقتصادی و سیاسی حکومت را تضعیف کنند.",
-            "طولانی شدن درگیری ریسک افزایش نارضایتی داخلی و تشدید بحران‌های اقتصادی را بالا می‌برد؛ هرگونه تحلیل باید احتیاط کند و از نتیجه‌گیری قطعی پرهیز کند چون شواهد جامع در متن محدود است."
-        ],
-        "impact": "اگر پیش‌بینی کارشناسان معتبر باشد، تداوم منازعه به تضعیف ساختاری رژیم از طریق فشار خارجی و تشدید نارضایتی داخلی منجر خواهد شد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1FiUkpDOXZ5TVVhNXJEWlVmNXJ2YzlYa28zQWwtdDQ0Uk1mdmw3STgxZmpocC1sNWJWLVloRkQ2XzN6V2dncW5EUUNXMlhiTWdscTdOTlhRRzM3bnlzRkFxUl84Qy1hUnNvRnA5ejNBZ3hLN3hTM0NBQ0ZnSzJMME1wWjhkU0VzXy1ET2lsZkk0RXVRTVhZ0gGcAUFVX3lxTFBUR1JmWUU4MDV2blRCSXJ2QVRMUWI2VzhUVHFLdS14MGEtcTc3d3JILU9lWWZTSnB0a0dfTDl4dF9yUHBQS2dEU1lSS0sxZUVKcFZxU29sdGRiZUhsMHJOMzNDR3QtdWk5cm1XWXJDVG9vWk9aNXpFbDl6bUtMNDVDZmFmbkdKbHlMMmdNTExoYzgtRVFhZFhJWWtVMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY1FiUkpDOXZ5TVVhNXJEWlVmNXJ2YzlYa28zQWwtdDQ0Uk1mdmw3STgxZmpocC1sNWJWLVloRkQ2XzN6V2dncW5EUUNXMlhiTWdscTdOTlhRRzM3bnlzRkFxUl84Qy1hUnNvRnA5ejNBZ3hLN3hTM0NBQ0ZnSzJMME1wWjhkU0VzXy1ET2lsZkk0RXVRTVhZ0gGcAUFVX3lxTFBUR1JmWUU4MDV2blRCSXJ2QVRMUWI2VzhUVHFLdS14MGEtcTc3d3JILU9lWWZTSnB0a0dfTDl4dF9yUHBQS2dEU1lSS0sxZUVKcFZxU29sdGRiZUhsMHJOMzNDR3QtdWk5cm1XWXJDVG9vWk9aNXpFbDl6bUtMNDVDZmFmbkdKbHlMMmdNTExoYzgtRVFhZFhJWWtVMA",
-        "image": null,
-        "timestamp": 1772666233.0
-    },
-    {
-        "title_fa": "چرا چین به ایران کمک نمی‌کند",
-        "title_en": "Why China Won’t Help Iran",
-        "summary": [
-            "چین، هرچند بزرگ‌ترین شریک تجاری و دیپلماتیک تهران است، از حمایت آشکار نظامی یا سیاسی چشمگیر خودداری می‌کند و در عوض به کمک‌های اقتصادی و دیپلماتیک احتیاط‌‌آمیز محدود متکی است تا ریسک تقابل مستقیم با آمریکا و تنش‌های بین‌المللی را نپذیرد.",
-            "فشار و حملات آمریکا و اسرائیل ساختارهای مالی و دیپلماتیک رژیم را تضعیف می‌کند: محدود شدن دسترسی به بازارها و منابع ارزی، افزایش هزینه‌های نظامی و منزوی شدن بین‌المللی، که همه به کاهش توان پاسخ‌گویی حکمرانی منجر می‌شود.",
-            "ناکامی‌های مدیریتی و مشکلات اقتصادی پیشین، خشم و نارضایتی عمومی را تشدید کرده‌اند؛ ادامه بمباران‌ها و انزوای بین‌المللی احتمال افزایش ناآرامی‌های اجتماعی و فرسایش مشروعیت حکومت را بالا می‌برد."
-        ],
-        "impact": "چین تا حدی می‌تواند از فروپاشی سریع جلوگیری کند اما از وارد شدن به مقابله نظامی یا برداشتن کامل فشارهای اقتصادی خودداری می‌کند؛ نتیجتاً رژیم تحت فشار خارجی و نارضایتی داخلی باقی می‌ماند.",
-        "tag": "محاصره",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Foreign Affairs",
-        "url": "https://www.foreignaffairs.com/china/why-china-wont-help-iran",
-        "clean_url": "https://www.foreignaffairs.com/china/why-china-wont-help-iran",
-        "image": null,
-        "timestamp": 1772665740.0
     }
 ]
