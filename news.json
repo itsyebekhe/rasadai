@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "هشدار چین: مخالفت با تغییر حکومت در ایران و درخواست پایان فوری عملیات نظامی",
+        "title_en": "‘No popular support’: China warns against government change in Iran",
+        "summary": [
+            "وانگ یی، وزیر خارجه چین، صراحتاً هرگونه «تغییر حکومت» بیرونی در ایران را فاقد «حمایت مردمی» خواند و از بازگشت سریع طرف‌ها به میز مذاکره و توقف عملیات نظامی در منطقه دفاع کرد.",
+            "بیانیه چین در عمل نقش بازدارنده در مقابل گزینه‌های مداخله نظامی یا فشار برای براندازی از خارج بازی می‌کند و این دیدگاه را ترویج می‌دهد که حل اختلافات از راه دیپلماتیک و احترام به حاکمیت کشورها انجام شود.",
+            "گزارش محرمانه شورای اطلاعات ملی آمریکا که در خبر اشاره شده می‌گوید حمله نظامی گسترده به احتمال زیاد ساختار نظامی و روحانیت حاکم در ایران را فرو نمی‌پاشاند؛ این دو پیام ترکیبی راهبردی را برجسته می‌کنند: موانع نظامی و سیاسی برای تغییر رژیم و هم‌زمان ادامه فشارهای دیپلماتیک و اقتصادی به‌عنوان ابزارهای احتمالی تأثیرگذاری."
+        ],
+        "impact": "موضع رسمی پکن شانس موفقیت هر تلاش خارجی برای براندازی را کاهش می‌دهد و در عین حال چهارسوی رقابت بین راهبردهای نظامی، دیپلماتیک و اقتصادی را روشن‌تر می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/no-popular-support-china-warns-083316498.html",
+        "clean_url": "https://www.yahoo.com/news/articles/no-popular-support-china-warns-083316498.html",
+        "image": null,
+        "timestamp": 1772959043.0
+    },
+    {
+        "title_fa": "حمله اسرائیل و آمریکا به مخازن نفتی نزدیک تهران؛ آتش‌سوزی گسترده در شهراَن",
+        "title_en": "Iran war: Israel strikes oil storage sites near Tehran",
+        "summary": [
+            "حملات گسترده آمریکا و اسرائیل ادامه دارد؛ از جمله حمله به مخازن و تاسیسات پالایشی در ایران که رسانه‌های محلی فیلم آتش‌سوزی بزرگ در مخزن شهراَن در حومه تهران را منتشر کردند؛ ارتش اسرائیل مسئولیت حمله به سایت‌های سوختی منتسب به نیروهای مسلح ایران را پذیرفته و تلفات رسمی تاکنون حداقل 1٬332 نفر گزارش شده است؛ دونالد ترامپ خواستار «تسلیم بی‌قیدوشرط» شده و شورای اطلاعات ملی آمریکا می‌گوید حمله‌ای بزرگ‌مقیاس هم‌احتمالاً قادر به سرنگونی دولت نیست.",
+            "فشار خارجی مستقیم بر زیرساخت‌های انرژی و نظامی ایران ساختارهای درآمدی و لجستیکی حکومت را هدف گرفته است: برخورد به مخازن و پالایشگاه‌ها می‌تواند درآمدهای نفتی، توزیع سوخت و توان عملیاتی نظامی ـ اداری را تضعیف کند و از این طریق به تضعیف توان ادامه جنگ و افزایش هزینه‌های داخلی منجر شود.",
+            "درگیری منطقه‌ای گسترش یافته؛ ایران اقدام به حملات تلافی‌جویانه علیه اهداف اسرائیل و دارایی‌های آمریکا در کویت، قطر، عربستان و امارات کرده است، در حالی که مسعود پژشکیان گفته حملات به کشورهای خلیج تنها در صورت استفاده از قلمروشان برای حمله به ایران متوقف خواهد شد؛ امتداد جنگ به خلیج، لبنان و عراق ریسک تشدید و طولانی‌شدن درگیری را بالا برده است."
+        ],
+        "impact": "حملات به تاسیسات نفتی نزدیک تهران ظرفیت درآمدی و تدارکاتی رژیم را تضعیف می‌کند و همزمان هزینه‌های سیاسی و اقتصادی داخلی را افزایش داده و خطر تشدید و طولانی شدن بحران را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "dw.com",
+        "url": "https://www.yahoo.com/news/articles/iran-war-happening-day-nine-075511980.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-war-happening-day-nine-075511980.html",
+        "image": null,
+        "timestamp": 1772955675.0
+    },
+    {
         "title_fa": "کهنه‌سربازان سن‌دیِگو علیه دخالت آمریکا در جنگ ایران؛ دیاسپورا تقسیم شده",
         "title_en": "Veterans weigh in on U.S. involvement in Iran",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcEJacjBPUk44ajBvSmp6UmlMSDRTWnVheGd3clZ0cGpyeDQ5RzJCVWRlTHd4UFE5TjVKbFliTUZBODlTWGNNOVRDSVNhSWxMYk9qMTZScl9wVWxRUElFZ094VXRJUkh3bzdRTURjcWdhOUpUSk91akI1ODdRSDFGNFduMTlndlBaeU1ONWh3QklCNXc5Q1ktOVp2VGgtUHNEUThETU0xNzROY0k",
         "image": null,
         "timestamp": 1772627640.0
-    },
-    {
-        "title_fa": "اسپانیا به‌عنوان استثنا: محکومیت «نسل‌کشی» غزه و رد جنگ با ایران",
-        "title_en": "An outlier for condemning Israel’s Gaza genocide, Spain says no to Iran war",
-        "summary": [
-            "اسپانیا به‌عنوان یک استثنا در محافل بین‌المللی صراحتاً اقدامات اسرائیل در غزه را «نسل‌کشی» محکوم کرده است.",
-            "مقامات اسپانیا اعلام کرده‌اند که از هرگونه جنگ یا مشارکت نظامی علیه ایران حمایت نخواهند کرد و در برابر ایده مداخله نظامی موضع منفی گرفته‌اند.",
-            "این موضع دوگانه پیام راهبردی دارد: کاهش پوشش سیاسی برای تشدید نظامی علیه ایران و سوق دادن معادلات بین‌المللی به سمت ابزارهای دیپلماتیک و غیرنظامی."
-        ],
-        "impact": "رد آشکار جنگ با ایران توسط اسپانیا احتمال توجیه دیپلماتیک و حمایت بین‌المللی از یک مداخله نظامی را ضعیف می‌کند و فشارها را به سمت تحریم‌ها و راهکارهای غیرنظامی هدایت می‌کند، امری که می‌تواند به بقای نسبی رژیم در میان‌مدت کمک کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NSUhaTUJmVmNrR3VBdG1NNVNycmR1WGdFT3FBZF9wQ3RuLWhUYjBXaV9YZDI5ZVhvMmdKZG9Gd21hVmR6c2VjUGlNR2U5Wl9hdjc1S3F3Wk5neGp3eFIwVldvaGtsZEEzSWVVRGlqMFpNcHROSlA3TGV30gF_QVVfeXFMUFVCMEY1ZDNVX3B6YjJyaWRyWVRRZHZfbjB6ek50SFBjeWpHNS1DbXc1aXEydFlZbU9YY0hSanNKdU9aQmlPR1FxXzI1RGMxV3FDTEZTVnNZLTFFNXNCX1Nxck4zVEpZTDU4d0drMGZkckJQNnpvenlTbjY5YU9BNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9NSUhaTUJmVmNrR3VBdG1NNVNycmR1WGdFT3FBZF9wQ3RuLWhUYjBXaV9YZDI5ZVhvMmdKZG9Gd21hVmR6c2VjUGlNR2U5Wl9hdjc1S3F3Wk5neGp3eFIwVldvaGtsZEEzSWVVRGlqMFpNcHROSlA3TGV30gF_QVVfeXFMUFVCMEY1ZDNVX3B6YjJyaWRyWVRRZHZfbjB6ek50SFBjeWpHNS1DbXc1aXEydFlZbU9YY0hSanNKdU9aQmlPR1FxXzI1RGMxV3FDTEZTVnNZLTFFNXNCX1Nxck4zVEpZTDU4d0drMGZkckJQNnpvenlTbjY5YU9BNA",
-        "image": null,
-        "timestamp": 1772627332.0
-    },
-    {
-        "title_fa": "تصاویر ماهواره‌ای نشان می‌دهد حمله به مدرسه در ایران ساختمان‌های بیشتری را هدف گرفته است",
-        "title_en": "Satellite images show Iran school strike hit more buildings than earlier reported",
-        "summary": [
-            "تصاویر ماهواره‌ای حاکی از آن است که مهمات هدایت‌شونده دقیق علاوه بر مدرسه، ساختمان‌های دیگری از جمله یک درمانگاه داخل همان مجموعه را مورد هدف قرار داده‌اند.",
-            "گزارش اولیه اندازه و دامنه ضربه را کمتر نشان داده بود؛ این تضاد می‌تواند نشانه پنهان‌کاری اطلاعاتی یا شکست در حفاظت و هماهنگی نیروهای امنیتی باشد و دقت روایت رسمی را زیر سؤال می‌برد.",
-            "هرچند گزارش به تحریم‌ها اشاره‌ای نمی‌کند، انتشار چنین مدارکی احتمال افزایش نظارت و فشار بین‌المللی و تشدید خشم و بی‌اعتمادی عمومی را تقویت می‌کند."
-        ],
-        "impact": "انتشار این شواهد اعتبار دستگاه‌های اطلاعاتی و امنیتی حاکمیت را تضعیف می‌کند و فضای برای فشار بین‌المللی و خشم داخلی را افزایش می‌دهد.",
-        "tag": "بحران",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/03/04/nx-s1-5735801/satellite-imagery-shows-strike-that-destroyed-iranian-school-was-more-extensive-than-first-reported",
-        "clean_url": "https://www.npr.org/2026/03/04/nx-s1-5735801/satellite-imagery-shows-strike-that-destroyed-iranian-school-was-more-extensive-than-first-reported",
-        "image": "http://www.bing.com/th?id=OVFT.WHZTF4nHZKNJPOkNTk8Sli&pid=News",
-        "timestamp": 1772625360.0
     }
 ]
