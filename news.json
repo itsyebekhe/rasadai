@@ -252,6 +252,24 @@
         "timestamp": 1772954580.0
     },
     {
+        "title_fa": "اسرائیل حملات علیه ایران را گسترش داد؛ تهران در حال تعیین رهبر عالی جدید",
+        "title_en": "Israel expands Iran strikes as Tehran moves to name new supreme leader",
+        "summary": [
+            "نیروهای اسرائیل بمباران‌ها را گسترش دادند و دپوهای سوخت در حوالی تهران هدف قرار گرفتند؛ حمله‌ای که به زیرساخت انرژی رژیم آسیب مستقیم زد.",
+            "تشدید ضربات خارجی به زیرساخت حیاتی سوخت، فشار ساختاری بر توان مدیریتی و تأمین انرژی دولت را افزایش می‌دهد و ضعف در حفاظت از امکانات حساس را برجسته می‌کند.",
+            "همزمان تلاش تهران برای نام‌گذاری رهبر عالی جدید در حالی صورت می‌گیرد که رژیم تحت فشار نظامی قرار دارد؛ این همزمانی خطر تزلزل سیاسی و پیچیدگی در انتقال قدرت را بالا می‌برد."
+        ],
+        "impact": "ترکیب حملات هدفمند به زیرساخت سوخت با فرآیند جانشینی سیاسی، به طور فوری احتمال تشدید تنش نظامی و افزایش آسیب‌پذیری کارکرد اساسی دولت را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/israel-expands-iran-strikes-as-tehran-moves-to-name-new-supreme-leader/ar-AA1XLLsd",
+        "clean_url": "https://www.msn.com/en-us/news/other/israel-expands-iran-strikes-as-tehran-moves-to-name-new-supreme-leader/ar-AA1XLLsd",
+        "image": "http://www.bing.com/th?id=OVFT.Zwdv-NNwmspCeOOZMDZ6GS&pid=News",
+        "timestamp": 1772953233.0
+    },
+    {
         "title_fa": "کهنه‌سربازان سن‌دیِگو علیه دخالت آمریکا در جنگ ایران؛ دیاسپورا تقسیم شده",
         "title_en": "Veterans weigh in on U.S. involvement in Iran",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.economist.com/interactive/2026-iran-war-tracker",
         "image": null,
         "timestamp": 1772657640.0
-    },
-    {
-        "title_fa": "حملات به ایران می‌تواند نارضایتی رأی‌دهندگان را با افزایش قیمت بنزین تشدید کند",
-        "title_en": "Iran strikes risk more voter frustration on the economy with rising gas prices",
-        "summary": [
-            "حملات اخیر به ایران باعث جهش موقتی قیمت بنزین در آمریکا شده و دموکرات‌ها از افزایش قیمت برای حمله به دولت استفاده می‌کنند؛ جمهوری‌خواهان امیدوارند اثر کوتاه‌مدت باشد.",
-            "افزایش قیمت سوخت سریعاً به مسئله‌ای سیاسی بدل شده و می‌تواند نارضایتی رأی‌دهندگان را علیه دولت فعلی تشدید کند؛ هزینه‌های زندگی اکنون معیاری مستقیم برای محک‌زدن عملکرد سیاست خارجی است.",
-            "فشار و حملات خارجی ممکن است در کوتاه‌مدت روایت «تهاجم و مقاومت» را برای حکومت ایران تقویت کند، اما در صورت ادامه اختلال در صادرات انرژی و تشدید تحریم‌ها، این فشارها می‌توانند ظرفیت اقتصادی و تاب‌آوری رژیم را تضعیف کنند."
-        ],
-        "impact": "اثر فوری: افزایش قیمت سوخت فشار سیاسی بر دولت‌های درگیر را بیشتر می‌کند و در صورت ادامه حملات یا اختلال در صادرات نفت، فشار اقتصادی بر ایران تشدید خواهد شد.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/2026-election/iran-strikes-risk-voter-frustration-economy-rising-gas-prices-rcna261346",
-        "clean_url": "https://www.nbcnews.com/politics/2026-election/iran-strikes-risk-voter-frustration-economy-rising-gas-prices-rcna261346",
-        "image": null,
-        "timestamp": 1772655480.0
     }
 ]
