@@ -180,6 +180,24 @@
         "timestamp": 1772987739.0
     },
     {
+        "title_fa": "انتخاب مجتبی خامنه‌ای به‌عنوان رهبر بعدی ایران؛ گزارش رسانه‌های دولتی",
+        "title_en": "Iran live updates: Mojtaba Khamenei chosen as Iran's next supreme leader: Iranian state media",
+        "summary": [
+            "رسانه‌های دولتی ایران گزارش دادند که مجتبی خامنه‌ای به‌عنوان رهبر بعدی ایران انتخاب شده؛ خبر رسمی و جزئیات فرایند جانشینی منتشر نشده است.",
+            "گزارش شامل جمله‌ای جداگانه است که دونالد ترامپ استارمر را به‌خاطر ندادن اجازه استفاده از پایگاه‌های بریتانیا برای حمله به ایران نقد کرده؛ این اشاره نشان‌دهنده تنش‌ها و محدودیت‌های لجستیکی در سطح هم‌پیمانان است.",
+            "متن خبر هیچ اشاره مستقیمی به تحریم‌ها، دخالت روسیه/چین/کره‌شمالی، یا اعتراضات داخلی و وضعیت اقتصادی نکرده؛ بنابراین ارزیابی پیامدهای ساختاری بر ثبات رژیم نیازمند اطلاعات تکمیلی است."
+        ],
+        "impact": "اعلام جانشینی بدون شفافیت درباره فرایند و واکنش نهادها، عدم قطعیت سیاسی را افزایش می‌دهد و احتمال تشدید رقابت‌های درونی و بی‌ثباتی‌ را بالا می‌برد.",
+        "tag": "جانشینی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ABC7 KABC",
+        "url": "https://abc7.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18690082/",
+        "clean_url": "https://abc7.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18690082",
+        "image": "http://www.bing.com/th?id=OVFT.cOdv0KEYcxKf3H7IAgQpvi&pid=News",
+        "timestamp": 1772986620.0
+    },
+    {
         "title_fa": "انتخاب مجتبی خامنه‌ای به‌عنوان رهبر جدید",
         "title_en": "Iran names Mojtaba Khamenei as its new supreme leader",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://www.inquirer.com/news/nation-world/iran-war-civilian-infrastructure-supreme-leader-desalination-oil-depot-trump-20260308.html",
         "image": "http://www.bing.com/th?id=OVFT.bjbfCH-Q5Oa17Fd-ofVQzS&pid=News",
         "timestamp": 1772986260.0
+    },
+    {
+        "title_fa": "ارتقای پسر علی خامنه‌ای همزمان با تشدید حملات منطقه‌ای",
+        "title_en": "Iran elevates Khamenei son as increased strikes shake region",
+        "summary": [
+            "رسانه‌ها گزارش می‌دهند که پسر علی خامنه‌ای به عنوان رهبر جدید منصوب شده است، در حالی که در روز نهم جنگ در خاورمیانه ایران حملاتی را علیه چند کشور ادامه داد.",
+            "این انتقال رهبری نشان‌دهنده تحکیم قدرت درون خانواده حاکم است و می‌تواند اولویت‌گذاری بقای رژیم بر کارآمدی حکمرانی را برجسته کند؛ اقدامی که خطر تشدید نارضایتی عمومی را به همراه دارد.",
+            "ادامه حملات منطقه‌ای همزمان با تغییر رهبری احتمال افزایش فشار و تحریم‌های خارجی و تضعیف ساختاری توان مالی و نظامی رژیم را بالا می‌برد، که پیامدهای سیاسی و اقتصادی داخلی را تشدید خواهد کرد."
+        ],
+        "impact": "ترکیب جایگزینی رهبر از درون خانواده خامنه‌ای و تشدید عملیات نظامی احتمالاً تنش‌های بین‌المللی را بالا می‌برد و فشارهای اقتصادی و سیاسی بر رژیم را فوراً تشدید می‌کند.",
+        "tag": "انتقال_قدرت",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-elevates-khamenei-s-son-as-escalating-strikes-shake-region/ar-AA1XMvtn",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-elevates-khamenei-s-son-as-escalating-strikes-shake-region/ar-AA1XMvtn",
+        "image": "http://www.bing.com/th?id=OVFT.DNnSgOR_gKd-OWXWa_JiUi&pid=News",
+        "timestamp": 1772984251.0
     },
     {
         "title_fa": "گسترش هدف‌گیری‌ها در جنگ مرتبط با ایران؛ بحرین: تأسیسات آب هدف قرار گرفت",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlFQekxhZDRiUXpwNjdQR19MNm0xS2dwZWFRNEZhQk5KYUtZTGg5dWltZEhHUTJwUDlmLVpFaEdYUy1nSjhtZzc5cGhDTXIxejFrQ3hrYkdwSTk4ZHZUX1pCRW1GLThidGNtbWppYS05RmE3cnhMZlNZMUc3em1HVk1uY2tCaVFUcTFIMS04aU5Mck5oaDkzNWI1bEVMVEF3WXZoSVdualpfNkhaYkNmalY3elUzUFR0bjdGUFllTFdrV241elkxYmh5WjRZbE0",
         "image": null,
         "timestamp": 1772697750.0
-    },
-    {
-        "title_fa": "کدام شرکت‌ها از جنگ ترامپ علیه ایران سود می‌برند — اکسون، ری‌تئون و دیگران",
-        "title_en": "These Companies Stand To Benefit From Trump’s Iran War—Exxon, Raytheon And More",
-        "summary": [
-            "خبر گزارش می‌دهد که تشدید حملات و احتمال تعمیق درگیری بلندمدت بازارهایی را که به نفع شرکت‌های دفاعی و انرژی غربی است، تقویت می‌کند؛ نام‌هایی مثل Lockheed، Raytheon و Exxon به عنوان بهره‌برداران برجسته آمده‌اند.",
-            "تشدید درگیری و فشار خارجی می‌تواند به تحکیم مجدد بسته‌های تحریمی و اختلال در صادرات نفت ایران بینجامد؛ این امر درآمدهای ارزی و ظرفیت دولت برای مدیریت اقتصاد را کاهش می‌دهد و ساختارهای مالی را تضعیف می‌کند.",
-            "افزایش هزینه‌های جنگ برای طرف‌های خارجی و رشد درآمد شرکت‌های تسلیحاتی می‌تواند انگیزه‌ای برای طولانی‌تر شدن بحران باشد؛ در داخل ایران، تشدید فشار اقتصادی ریسک افزایش نارضایتی عمومی و فشار سیاسی بر حکومت را بالا می‌برد."
-        ],
-        "impact": "در کوتاه‌مدت این وضعیت منافع مالی و سیاسی برای شرکت‌های دفاعی و انرژی غربی ایجاد می‌کند و هم‌زمان تحریم‌ها و کاهش درآمد نفتی فشار ساختاری بر حکومت ایران را تشدید کرده و ثبات داخلی را بیشتر تضعیف می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/alisondurkee/2026/03/05/these-companies-stand-to-benefit-from-trumps-iran-war-exxon-raytheon-and-more/",
-        "clean_url": "https://www.forbes.com/sites/alisondurkee/2026/03/05/these-companies-stand-to-benefit-from-trumps-iran-war-exxon-raytheon-and-more",
-        "image": null,
-        "timestamp": 1772697420.0
-    },
-    {
-        "title_fa": "به‌روزرسانی ایران - گزارش ویژه عصر، ۴ مارس ۲۰۲۶ (منبع در دسترس نیست)",
-        "title_en": "Iran Update Evening Special Report, March 4, 2026",
-        "summary": [
-            "پیوندهای ارائه‌شده به خطای edgesuite اشاره می‌کنند و متن گزارش Institute for the Study of War قابل دسترسی نیست؛ لذا هیچ محتوای قطعی برای تحلیل در اختیار نیست.",
-            "بدون دسترسی به متن، نمی‌توان ادعاها یا مشاهدات گزارش را تأیید یا رد کرد؛ بنابراین تحلیل ساختاری درباره تحریم‌ها، فشار خارجی، نقش بازیگران خارجی یا روند اعتراضات داخلی امکان‌پذیر نیست و هر نتیجه‌گیری مستلزم دسترسی به نسخه معتبر گزارش است.",
-            "اقدام توصیه‌شده: دسترسی به نسخهٔ اصلی از طریق آرشیو ISW، کانال‌های جایگزین انتشار یا تماس مستقیم با ناشر برای دریافت متن؛ در غیاب آن، باید سناریوهای محتاطانه برای ارزیابی ثبات رژیم و پیامدهای منطقه‌ای طراحی شود."
-        ],
-        "impact": "عدم دسترسی به گزارش رسمی باعث افزایش عدم قطعیت در ارزیابی پیامدهای سیاسی و امنیتی نسبت به ایران و تضعیف توان تصمیم‌گیری سیاست‌گذاران میشود.",
-        "tag": "عدم‌اطلاع",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "Institute for the Study of War",
-        "url": "https://www.financialexpress.com/world-news/dubai-uae-iran-war-live-news-updates-dubai-and-abu-dhabi-to-india-flights-resume/4160942/",
-        "clean_url": "https://www.financialexpress.com/world-news/dubai-uae-iran-war-live-news-updates-dubai-and-abu-dhabi-to-india-flights-resume/4160942",
-        "image": null,
-        "timestamp": 1772696784.0
     }
 ]
