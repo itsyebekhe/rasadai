@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "برای نتانیاهو، ترامپ دعاها را اجابت کرد — با قید و شرط",
+        "title_en": "For Israel’s Netanyahu, Trump grants prayers — with caveats",
+        "summary": [
+            "عنوان گزارش نشان می‌دهد که دونالد ترامپ از مطالبات نتانیاهو حمایت لفظی کرده اما این حمایت مشروط و ناقص است؛ جزئیات قیدها در متن ارائه‌شده معلوم نیست.",
+            "حمایت مشروط واشنگتن می‌تواند اختیارات سیاسی و عملیاتی دولت اسرائیل را در تصمیم‌گیری‌های راهبردی محدود کند و باعث بازنگری تل‌آویو در سیاست‌های کوتاه‌مدت شود.",
+            "در متن ارائه‌شده هیچ اشاره‌ای به تحریم‌ها، فشار خارجی یا وضعیت اقتصادی و اعتراضات داخلی در ایران وجود ندارد؛ بنابراین ادعاهای مستقیم درباره تضعیف ساختاری یا پیامدهای داخلی برای رژیم ایران از دل این عنوان استخراج‌پذیر نیست، هرچند سیاست‌های مشروط آمریکا می‌تواند بازیگری منطقه‌ای تهران را مجبور به تطبیق کند."
+        ],
+        "impact": "حمایت مشروط آمریکا از نتانیاهو فضای دیپلماتیک را تغییر می‌دهد و می‌تواند هم محدودیت عملیاتی برای اسرائیل و هم نیاز به بازتنظیم واکنش‌های منطقه‌ای از سوی ایران ایجاد کند.",
+        "tag": "خاورمیانه",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/other/for-israel-s-netanyahu-trump-grants-prayers-with-some-unwelcome-caveats/ar-AA1XKKL7",
+        "clean_url": "https://www.msn.com/en-us/news/other/for-israel-s-netanyahu-trump-grants-prayers-with-some-unwelcome-caveats/ar-AA1XKKL7",
+        "image": null,
+        "timestamp": 1772968572.0
+    },
+    {
         "title_fa": "آمریکا و اسرائیل ممکن است به اورانیوم ایران حمله کنند، مقام‌ها می‌گویند",
         "title_en": "US, Israel may go after Iranian uranium, officials say",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-weighs-sending-special-forces-to-seize-irans-nuclear-stockpile/ar-AA1XK5b2",
         "image": null,
         "timestamp": 1772943799.0
+    },
+    {
+        "title_fa": "«ترامپ باید بابت کشتن خامنه‌ای هزینه دهد»: هشدار مقام ارشد ایران؛ رئیس‌جمهور آمریکا بی‌تفاوت",
+        "title_en": "‘Trump must pay the price for killing Khamenei’: Iran’s top official warns; US president shrugs it off",
+        "summary": [
+            "لاریجانی، مقام ارشد ایران، با ادعای اینکه «ترامپ باید بابت کشتن خامنه‌ای هزینه دهد» تهدید به انتقام کرد و گفت این اقدام باعث کشته شدن بیش از ۱۰۰۰ نفر شده است (ادعا شده).",
+            "رئیس‌جمهور آمریکا این موضوع را کم‌اهمیت جلوه داده؛ گزارش‌ها از ادعای اسارت نیروهای آمریکایی و تشدید پاسخ‌های نظامی ایران حکایت دارد که خطر تقابل مستقیم را بالا می‌برد.",
+            "این جهش تنش می‌تواند به افزایش فشارهای بین‌المللی و تحریم‌ها منجر شود که ساختار اقتصادی و سیاسی رژیم را تضعیف کرده و احتمال تشدید نارضایتی داخلی و بحران‌های حکمرانی را بالا می‌برد."
+        ],
+        "impact": "هشدار لاریجانی و ادعاهای مرتبط با اسارت نیروهای آمریکایی نشانه افزایش خطر تقابل نظامی است که در صورت تداوم، ثبات اقتصادی و سیاسی رژیم را به‌طور ملموسی تضعیف خواهد کرد.",
+        "tag": "تقابل",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/trump-must-pay-the-price-for-killing-khamenei-iran-s-top-official-warns-trump-shrugs-it-off-article-13854162.html",
+        "clean_url": "https://www.moneycontrol.com/world/trump-must-pay-the-price-for-killing-khamenei-iran-s-top-official-warns-trump-shrugs-it-off-article-13854162.html",
+        "image": "http://www.bing.com/th?id=OVFT.1e-5Ou7VkYBQS_wfvU0lui&pid=News",
+        "timestamp": 1772943480.0
     },
     {
         "title_fa": "اسرائیل پس از وعده نتانیاهو برای «بسیاری از شگفتی‌ها»، حمله به لبنان را از سر گرفت",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYk15R0xVdHhLdHJ5MEdQRjRmV3J2VGZCYnlJSlB6eGFfbnZpUGdXZFZxc3pBV2hBc0h1U1lEaU1oX0xad1N6SmxUdGs2ZW5PdEw1RHBGNElxZkVRUFNrWHphSE5TREpYSl9pT0pBSFY4UzdVSDBBU0Zvci1tMlBYYm5fSDRtUUw3ZS1XTXFxRVZFYVlUcGFBMTNwM2hjMzJFcmdqQ1JjQm1qYnE1VjRXNHBn0gG3AUFVX3lxTE82MXJjVWh3RUwzQ0FRaHBDUVlCS0tra3R5Ni1ZZDhmMzBlZWI3VFpucHVkTWVUb3NlVkdUOW92MldXU0cwVUZPZVJlM0M4SUQ4ckFFamNUY2U4dVo3bENzZTNmUUpPejNVSzFFcXRFYk9OWG44cVB3aG5VeTFOdno2NzJYUWo0dFBqOFcxbXFjazU5YkNKakJSTEZYcXdDbl9NWEpuRU9CWVFubmF6dnBLTUtiVUs2cw",
         "image": null,
         "timestamp": 1772635224.0
-    },
-    {
-        "title_fa": "سنای آمریکا تلاش برای محدود کردن اختیارات جنگی ترامپ علیه ایران را ناکام گذاشت",
-        "title_en": "Senate Thwarts Bid to Curb Trump’s War Powers on Iran",
-        "summary": [
-            "اکثریت قریب به اتفاق جمهوریخواهان در سنا طرحی را که نیازمند کسب مجوز کنگره برای ادامه تهاجم در خاورمیانه بود، مسدود کردند؛ بنابراین نظارت قانونگذاری بر ادامه عملیات تهاجمی کاهش یافت.",
-            "این شکست به معنای حفظ اختیار فرماندهی اجرایی برای ادامه عملیات نظامی بدون تصویب صریح کنگره است و امکان تداوم اقدامات یک‌جانبه را افزایش می‌دهد.",
-            "برای ایران این تصمیم می‌تواند به معنای احتمال مواجهه با فشار نظامی بلندمدت‌تر و تشدید فشارهای سیاسی-اقتصادی در داخل باشد که می‌تواند نارضایتی عمومی را افزایش دهد."
-        ],
-        "impact": "مسدود شدن این محدودیت نظارتی خطر تداوم عملیات نظامی آمریکا در منطقه را بالا برده و فشار بر حکومت ایران را تشدید می‌کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html",
-        "clean_url": "https://www.nytimes.com/2026/03/04/us/politics/senate-trump-war-powers-iran.html",
-        "image": "http://www.bing.com/th?id=OVFT.B76JnTLoi7usmcDR_JNIbC&pid=News",
-        "timestamp": 1772634720.0
-    },
-    {
-        "title_fa": "اسپانیا تهدیدهای تجاری ترامپ را رد کرد؛ از مشارکت در رویارویی با ایران خودداری",
-        "title_en": "‘No to War’: Spain Rebukes Trump’s Trade Threats, Refuses to Aid Iran Conflict",
-        "summary": [
-            "اسپانیا به‌صراحت تهدیدهای تجاری دونالد ترامپ درباره ایران را عقب زد و اعلام کرد در حمایت از درگیری یا اقدام نظامی علیه ایران مشارکت نخواهد کرد.",
-            "این موضع شکاف میان متحدان غربی را نمایان می‌سازد و کارایی تهدیدها و فشارهای اقتصادی آمریکا برای منزوی‌سازی اقتصادی ایران را تضعیف می‌کند.",
-            "کاهش همسویی اروپایی احتمال اثربخشی تحریم‌ها را پایین می‌آورد و به حکومتی که از ناتوانی مدیریتی اقتصادی رنج می‌برد، فضای تنفسی بیشتری می‌بخشد؛ این واقعیت پیامدهای سیاسی داخلی را پیچیده‌تر می‌کند."
-        ],
-        "impact": "واکنش اسپانیا کارایی فشار اقتصادی ایالات متحده را کاهش می‌دهد و به‌طور محتمل زمان بقا و تداوم کنترل حکومت کنونی را افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Time Magazine",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxOUNDQmRWWEotTzFSOVRVWjA2dFRkODZlSS1OWVp1enNwWGhLUl8zWHhuMXc2Y0NNaHp4SUd0RExOOE1MS1JGSHdqZkkwbk9HSUpZLU9iREZhY1pmOHZnT2ItcFNzenpsekRrOTJkZWxwemF2cl9hVURIdXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBxOUNDQmRWWEotTzFSOVRVWjA2dFRkODZlSS1OWVp1enNwWGhLUl8zWHhuMXc2Y0NNaHp4SUd0RExOOE1MS1JGSHdqZkkwbk9HSUpZLU9iREZhY1pmOHZnT2ItcFNzenpsekRrOTJkZWxwemF2cl9hVURIdXc",
-        "image": null,
-        "timestamp": 1772633172.0
     }
 ]
