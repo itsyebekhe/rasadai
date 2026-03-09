@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ پیام‌های متناقضی درباره وضعیت جنگ با ایران ارسال کرد",
+        "title_en": "Trump Delivers Mixed Messages on the State of the Iran War",
+        "summary": [
+            "ترامپ پیام‌های متناقضی درباره وضعیت جنگ با ایران ارسال کرده است؛ موضع روشن و یکپارچه‌ای اعلام نشده است.",
+            "این ابهام راهبردی می‌تواند اجرای تحریم‌ها و فشار خارجی را پیچیده کند و اثربخشی اقدامات علیه رژیم را کاهش دهد.",
+            "تهدید بهره‌برداری تهران از این ابهام وجود دارد؛ رژیم می‌تواند از وضعیت نامشخص برای تقویت روایت داخلی و پوشاندن ناکارآمدی‌های حکمرانی و اقتصادی استفاده کند."
+        ],
+        "impact": "پیام‌های متناقض واشنگتن ریسک بی‌ثباتی استراتژیک را افزایش می‌دهد و ممکن است فشار خارجی را تضعیف کند که در عمل شانس بقا برای رژیم را بالا می‌برد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Time Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HY2FrZFdNbDFSczhWSmZkNlFFRVozQUJpSXh3Z194ei1kWlZmbTRabGxBSEtBVGpPZU1RZnZ0a2s0NGlEb2VLRDg4SEd4RWlOUjRFV0IxWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HY2FrZFdNbDFSczhWSmZkNlFFRVozQUJpSXh3Z194ei1kWlZmbTRabGxBSEtBVGpPZU1RZnZ0a2s0NGlEb2VLRDg4SEd4RWlOUjRFV0IxWQ",
+        "image": null,
+        "timestamp": 1773093859.0
+    },
+    {
         "title_fa": "وزیر خارجه ایران درباره رهبر بعدی و افزایش قیمت نفت چه گفت",
         "title_en": "What Iran's foreign minister told us about the next supreme leader, rising oil prices",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://diem25.org/pursuing-regime-change-who-will-washington-want-to-lead-iran",
         "image": "https://diem25.org/wp-content/uploads/2026/03/Iran-regime-change.jpg",
         "timestamp": 1773088080.0
+    },
+    {
+        "title_fa": "ترامپ: «جنگ بسیار کامل است»؛ بررسی تصرف تنگه هرمز",
+        "title_en": "Trump says \"the war is very complete,\" and he's considering taking over Strait of Hormuz",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور سابق آمریکا، گفت «جنگ بسیار کامل است» و اعلام کرد در حال بررسی گزینه‌ای برای تسلط بر تنگه هرمز؛ اظهاراتی که صراحتاً احتمال پیگیری راه‌حل‌های نظامی برای کنترل این آبراه راهبردی را مطرح می‌کند.",
+            "اگر این ایده پیگیری شود، می‌تواند به تشدید فشارهای خارجی و افزایش احتمال تحریم‌ها و مداخلات نظامی منجر شود که سازوکارهای اقتصادی ایران—به‌ویژه درآمدهای نفتی و ترافیک دریایی—را هدف قرار می‌دهد.",
+            "افزایش تهدید به مداخله در تنگه هرمز می‌تواند ثبات اقتصادی را بیشتر آسیب‌پذیر کند، سرمایه‌گذاری و تجارت را مختل سازد و بهانه‌ای برای تشدید تدابیر امنیتی داخلی فراهم آورد که نارضایتی عمومی را تغذیه می‌کند."
+        ],
+        "impact": "اظهارات ترامپ خطر مواجهه نظامی مستقیم در تنگه هرمز را افزایش می‌دهد و در کوتاه‌مدت می‌تواند به اختلال صادرات انرژی، تشدید فشار اقتصادی بر ایران و تشدید بحران سیاسی داخلی منجر شود.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "CBS News",
+        "url": "https://www.msn.com/en-us/news/world/trump-tells-cbs-news-the-war-is-very-complete/ar-AA1XQWQu",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-tells-cbs-news-the-war-is-very-complete/ar-AA1XQWQu",
+        "image": null,
+        "timestamp": 1773085980.0
     },
     {
         "title_fa": "هدف نهایی ترامپ در قبال ایران چیست در حالی که جنگ آمریکا-اسرائیل تشدید می‌شود؟",
@@ -286,6 +322,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil",
         "image": "https://static01.nyt.com/images/2026/03/28/multimedia/09iran-promo11am/28iran-photos-01-vmfq-facebookJumbo.jpg",
         "timestamp": 1773066240.0
+    },
+    {
+        "title_fa": "آخرین خبر: تماس تلفنی ترامپ و پوتین درباره جنگ در ایران، کرملین اعلام کرد",
+        "title_en": "The Latest: Trump and Putin discuss Iran war during a phone call, Kremlin says",
+        "summary": [
+            "تماس تلفنی دونالد ترامپ، رئیس‌جمهور آمریکا، و ولادیمیر پوتین، رئیس‌جمهور روسیه، نشان‌دهنده تمرکز دو بازیگر بزرگ بر پرونده ایران و احتمال هماهنگی یا تقسیم نقش‌ها در مدیریت بحران است.",
+            "از منظر فشار خارجی و تحریم‌ها، این گفتگو می‌تواند مسیر تصمیم‌گیری درباره تشدید یا تعدیل تحریم‌ها را متاثر کند؛ به‌ویژه که نقش راهبردی روسیه می‌تواند به کاهش اثربخشی فشارهای بین‌المللی برای تهران کمک کند.",
+            "گزارش اشاره مستقیمی به اعتراضات داخلی یا وضعیت اقتصادی نکرده؛ با این حال هر تحرک دیپلماتیک بزرگ به سرعت در اقتصاد ایران و سطح نارضایتی عمومی بازتاب می‌یابد و باید از داده‌های مستند برای ارزیابی اثرات داخلی استفاده شود."
+        ],
+        "impact": "تماس، معادلات منطقه‌ای را پیچیده‌تر می‌کند و می‌تواند هم گزینه‌های تحریمی را تحت‌تأثیر قرار دهد و هم به مسکو فرصت‌های راهبردی برای حمایت دیپلماتیک از تهران بدهد.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/national/2026/03/09/iran-israel-us-latest-march-09-2026/22d0d2c6-1b79-11f1-a29c-fd43da9a479a_story.html",
+        "clean_url": "https://www.washingtonpost.com/national/2026/03/09/iran-israel-us-latest-march-09-2026/22d0d2c6-1b79-11f1-a29c-fd43da9a479a_story.html",
+        "image": "http://www.bing.com/th?id=OVFT.RElDGzDzQ1DLroM-JU_SxC&pid=News",
+        "timestamp": 1773066060.0
     },
     {
         "title_fa": "جنگ با ایران چگونه پایان می‌یابد؟",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.usatoday.com/story/news/nation/2026/03/04/iran-war-gas-prices-americans-worry/88980949007",
         "image": "http://www.bing.com/th?id=OVFT.p-cC3EBX2SVKe615STWRbC&pid=News",
         "timestamp": 1772797980.0
-    },
-    {
-        "title_fa": "اخبار جنگ ایران و اسرائیل: حملات سنگین، موشک‌باران تهران-تل‌آویو و رد مذاکره از سوی ترامپ",
-        "title_en": "Iran Israel War News LIVE Updates: Intense Israeli strikes hit Iran, Trump rules out negotiations with Iran",
-        "summary": [
-            "حملات سنگین: اسرائیل اعلام کرد وارد «مرحله بعدی» درگیری شده و به حومه جنوبی بیروت حمله کرد؛ صدا و سیمای ایران گزارش داد تهران موشک‌هایی را «به قلب تل‌آویو» شلیک کرده و اسرائیل در حال رهگیری آتش ورودی بوده است.",
-            "گسترش منطقه‌ای و تنش‌های دریایی: درگیری در روز هفتم خود قرار دارد و به نقاط دوردست رسیده — از هشدار تهاجمی در لبنان و تهدیدهای متقابل با آذربایجان تا گزارشی از اصابت ابرناو آمریکایی به یک ناوشکن ایرانی در نزدیکی سواحل سری‌لانکا — که نشان می‌دهد درگیری از مرزهای محلی عبور کرده است.",
-            "فشار دیپلماتیک و اقتصادی آمریکا: دولت ترامپ مذاکرات با ایران را رد کرده، سخنگوی کاخ‌سفید خواستار برکناری رژیم حاکم بر ایران شده و برای پوشش ریسک نفتکش‌ها برنامه بازنشستگی ۲۰ میلیارد دلاری اعلام شده؛ از سوی دیگر معاون وزیر خارجه ایران هشدار داده کشورهای اروپایی احتمالاً «اهداف مشروع» پاسخ خواهند بود."
-        ],
-        "impact": "این تشدید نظامی همراه با فشار دیپلماتیک و اقدامات اقتصادی-بیمه‌ای، توان مدیریتی نظام را تحت فشار قرار می‌دهد و ریسک گسترش منطقه‌ای و اختلال طولانی‌مدت در تجارت انرژی را به‌طرز چشمگیری افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/us-israel-iran-attack-news-live-updates-tehran-explosions-missile-attacks-strait-of-hormuz-oil-impact-casualties-liveblog-19863206.htm",
-        "clean_url": "https://www.cnbctv18.com/world/us-israel-iran-attack-news-live-updates-tehran-explosions-missile-attacks-strait-of-hormuz-oil-impact-casualties-liveblog-19863206.htm",
-        "image": null,
-        "timestamp": 1772797980.0
-    },
-    {
-        "title_fa": "برآورد اندیشکده: هزینه آمریکا برای جنگ با ایران در ۱۰۰ ساعت اول ۳.۷ میلیارد دلار",
-        "title_en": "Cost to US for war on Iran is $3.7bn in first 100 hours, says think tank",
-        "summary": [
-            "یک اندیشکده برآورد کرده است که هزینه مستقیم آمریکا برای درگیری نظامی با ایران در صد ساعت اولیه حدود ۳.۷ میلیارد دلار خواهد بود.",
-            "این برآورد محدود به هزینه‌های اولیه و مستقیم است و مقیاس هزینه‌های بلندمدت، نابودی زیرساخت‌ها و تبعات سیاسی را پوشش نمی‌دهد.",
-            "گزارش صراحتاً از پیامدهای داخلی در ایران حرفی نزده؛ اما هر تشدید نظامی کوتاه‌مدت می‌تواند فضای اقتصادی و سیاسی را در داخل کشور تشدید کند."
-        ],
-        "impact": "اعداد منتشرشده نشان می‌دهد آمریکا توان مالی پوشش درگیری‌های کوتاه‌مدت را دارد، اما برای رژیم ایران تشدید درگیری ریسک افزایش بی‌ثباتی داخلی و فشار اقتصادی را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWo5VjRWZ3dpU3Q1UHBiYXh2RkFhVkJabXpnSi12SDBfUEVJUHJPYWNZN0FnbUw0cE5SbjI5NUhLS3Q4UEk5dGQ1UmdhNGlYdUx3a0RYVzRVWUlMaDdZanY0ZlJWQ2pERlhMUXc5Ymk2VVF2Rzc2bE92M2RJR0NabU9rYjJWUXFWMEZDOW5JUHBsSUFSNXFhRFhNeFE1R1dSMENKQWxSRVM1eE8tWW800gG0AUFVX3lxTE5RNmZIVXdoZUt1dFEweU9nSlU5ZG1HSHBPdy1Vc2tmb0NFNmNwV0ZYUGNUQ3lPQXgydGhTTjZfdVNTdkRHZ0hISVdIX3dlYmZ5VTIya1paSng2WDVpWFdCZVBNY2I2cVltUTUwRmNCTXFkdTBBd3QtUXpfSmVRWjRzQ01ucGdpNG5McXNxeDNvdHNfRUw5UWV2Yi11ejNBX19OaEZaRzFzd0k4aURFbzI3LXQ1WQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWo5VjRWZ3dpU3Q1UHBiYXh2RkFhVkJabXpnSi12SDBfUEVJUHJPYWNZN0FnbUw0cE5SbjI5NUhLS3Q4UEk5dGQ1UmdhNGlYdUx3a0RYVzRVWUlMaDdZanY0ZlJWQ2pERlhMUXc5Ymk2VVF2Rzc2bE92M2RJR0NabU9rYjJWUXFWMEZDOW5JUHBsSUFSNXFhRFhNeFE1R1dSMENKQWxSRVM1eE8tWW800gG0AUFVX3lxTE5RNmZIVXdoZUt1dFEweU9nSlU5ZG1HSHBPdy1Vc2tmb0NFNmNwV0ZYUGNUQ3lPQXgydGhTTjZfdVNTdkRHZ0hISVdIX3dlYmZ5VTIya1paSng2WDVpWFdCZVBNY2I2cVltUTUwRmNCTXFkdTBBd3QtUXpfSmVRWjRzQ01ucGdpNG5McXNxeDNvdHNfRUw5UWV2Yi11ejNBX19OaEZaRzFzd0k4aURFbzI3LXQ1WQ",
-        "image": null,
-        "timestamp": 1772797732.0
-    },
-    {
-        "title_fa": "آسوشیتدپرس: روسیه اطلاعاتی به ایران داده که می‌تواند به هدف‌گیری نیروهای نظامی آمریکا کمک کند",
-        "title_en": "Live updates: Russia provided Iran with information that can help Tehran strike US military, AP sources say",
-        "summary": [
-            "آسوشیتدپرس گزارش می‌دهد که روسیه اطلاعاتی در اختیار ایران قرار داده که می‌تواند توان تهران در هدف‌گیری نیروهای نظامی ایالات متحده را ارتقا دهد.",
-            "این اقدام، نقش روسیه را به‌عنوان تسهیل‌کننده بقای استراتژیک رژیم تهران تقویت می‌کند و ریسک تقابل مستقیم بین تهران و واشنگتن را افزایش می‌دهد.",
-            "پیامدهای محتمل شامل تشدید تحریم‌ها و واکنش‌های نظامی یا اطلاعاتی آمریکا و شرکای آن است که می‌تواند فشارهای اقتصادی را شدت ببخشد و نارضایتی داخلی را بیشتر کند."
-        ],
-        "impact": "پیامد فوری این گزارش افزایش احتمال تقابل نظامی مستقیم بین ایران و آمریکا است که ممکن است به پاسخ نظامی یا موج جدیدی از تحریم‌های سنگین منجر شود.",
-        "tag": "تصاعد",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-lebanon-03-06-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-lebanon-03-06-2026",
-        "image": "http://www.bing.com/th?id=OVFT.Jsly1k--bdiPv9sZ61Z35y&pid=News",
-        "timestamp": 1772796540.0
     }
 ]
