@@ -1,5 +1,77 @@
 [
     {
+        "title_fa": "وضعیت پس از آخر هفته دیگر جنگ",
+        "title_en": "Where things stand after another weekend of war",
+        "summary": [
+            "گزارش‌ها حاکی از حملات نیروهای آمریکا و اسرائیل به تاسیسات نفتی در تهران در ۸ مارس است؛ عکسِ منتشرشده دود برخاسته از یک مخزن ذخیره‌سازی سوخت را نشان می‌دهد.",
+            "حملات مستقیم به زیرساخت‌های انرژی ساختار اقتصادی رژیم را هدف می‌گیرد و می‌تواند درآمدهای مرتبط با نفت را کاهش داده و هزینه‌های بازسازی و امنیتی حکومت را افزایش دهد که به تضعیف توانِ بقا و زمان‌بندی سیاست داخلی منجر می‌شود.",
+            "اختلال در تأمین سوخت و فشار اقتصادی ناشی از این ضربات ظرفیت مدیریت بحران حکومت را به نمایش می‌گذارد و می‌تواند نارضایتی عمومی و خطر گسترش اعتراضات را افزایش دهد، که نشان از شکست‌های ساختاری در حکمرانی دارد."
+        ],
+        "impact": "این حملات شتاب فرسایش اقتدار رژیم را افزایش می‌دهد و احتمال تشدید واکنش نظامی خارجی یا سرکوب داخلی و بحران اقتصادی را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://www.bostonglobe.com/2026/03/09/world/iran-war-where-things-stand/",
+        "clean_url": "https://www.bostonglobe.com/2026/03/09/world/iran-war-where-things-stand",
+        "image": null,
+        "timestamp": 1773029747.0
+    },
+    {
+        "title_fa": "آمریکا دستور خروج کارکنان از عربستان را صادر کرد؛ جنگ مرتبط با ایران گسترش می‌یابد و قیمت نفت بالای ۱۱۰ دلار",
+        "title_en": "U.S. orders staff to leave Saudi Arabia as Iran war spreads and oil surges above $110",
+        "summary": [
+            "اعلام خروج کارکنان آمریکایی از عربستان علامت روشنی از تشدید مستقیم تنش‌ها در منطقه است و دال بر گسترش درگیری‌های مرتبط با جنگ ایران است.",
+            "این اقدام فشار خارجی را افزایش می‌دهد و به افزایش هزینه‌های سیاسی و اقتصادی برای رژیم منجر می‌شود؛ در کوتاه‌مدت فضای سیاسی داخلی را تضعیف و ظرفیت‌های دولت برای مدیریت بحران را کاهش می‌دهد.",
+            "صعود قیمت نفت بالای ۱۱۰ دلار نشان‌دهنده ریسک بالای اختلال در عرضه و افزایش هزینه‌های اقتصادی منطقه‌ای است؛ اگرچه ممکن است درآمدهای نفتی مقطعی رخ دهد، بی‌ثباتی و تحریم‌ها فشار معیشتی و نارضایتی عمومی در ایران را تشدید می‌کنند."
+        ],
+        "impact": "خروج کارکنان آمریکایی همراه با جهش قیمت نفت، پنجره‌ای از فشار سیاسی-اقتصادی ایجاد می‌کند که رژیم را شکننده‌تر ساخته و احتمال تشدید ناآرامی‌های داخلی را افزایش می‌دهد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOV9JY0R5Z2x6RGc2YUY2TVBxQlltZDIwZnZQTVVqeWJGd1c3VzVYc042cnYwZlZtSEhoNWs2ZHZoaTdhR05EZUNXeDRCR1Y0Q2huZk5pX2hNZFpvTWx4cWNHU2xVOGdiTWdhX2lKaHVvNnFEbS1zZHFOclVrdXBXaDluclZjZ3JMckRZcG5EcmlTZ0FqOElZQ0NOdWVzNmJic1BtQUNjVUpmeGZyR0NKbVJvaDbSAboBQVVfeXFMT0V4VU8yY0FRVldGd2JyME5ueHBGemZiYy1nU3ZQYkV0QjdaeVlfeGVaMVdNaUFfdTFzRTVEdXFiTnVsRkZqRmFwckJZLUtsaXFoVmFqWDNGR2JwUDJCYzhqM3pCX1R1cnI4TFNDT1czMWZJdmt2bXdBRnhPS3lxNGt6eDFXN3ROVmxaNHF4ODE0S01zeW1sTEZJczg2SVhjT29xdmFvYU5sNC01dlVzZURncXhQeGliSzF3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOV9JY0R5Z2x6RGc2YUY2TVBxQlltZDIwZnZQTVVqeWJGd1c3VzVYc042cnYwZlZtSEhoNWs2ZHZoaTdhR05EZUNXeDRCR1Y0Q2huZk5pX2hNZFpvTWx4cWNHU2xVOGdiTWdhX2lKaHVvNnFEbS1zZHFOclVrdXBXaDluclZjZ3JMckRZcG5EcmlTZ0FqOElZQ0NOdWVzNmJic1BtQUNjVUpmeGZyR0NKbVJvaDbSAboBQVVfeXFMT0V4VU8yY0FRVldGd2JyME5ueHBGemZiYy1nU3ZQYkV0QjdaeVlfeGVaMVdNaUFfdTFzRTVEdXFiTnVsRkZqRmFwckJZLUtsaXFoVmFqWDNGR2JwUDJCYzhqM3pCX1R1cnI4TFNDT1czMWZJdmt2bXdBRnhPS3lxNGt6eDFXN3ROVmxaNHF4ODE0S01zeW1sTEZJczg2SVhjT29xdmFvYU5sNC01dlVzZURncXhQeGliSzF3",
+        "image": null,
+        "timestamp": 1773026940.0
+    },
+    {
+        "title_fa": "ترامپ: تصمیم پایان جنگ با ایران به‌صورت مشترک با اسرائیل گرفته می‌شود",
+        "title_en": "Trump says decision to end Iran war will be made mutually with Israel",
+        "summary": [
+            "اظهارنظر ترامپ اعلام می‌کند که پایان دادن به هر درگیری با ایران قرار است در چارچوب تصمیم‌گیری مشترک واشنگتن و تل‌آویو صورت گیرد و این جایگاه محوری اسرائیل در فرآیند تصمیم‌سازی نظامی-سیاسی آمریکا را تأیید می‌کند.",
+            "چنین بیانیه‌ای به‌عنوان ابزار فشار خارجی ساختاری علیه حکومت ایران قابل تفسیر است و نشان می‌دهد گزینه‌های خروج از تنش، نه از متن داخلی تهران بلکه از پایتخت‌های خارجی تعیین خواهد شد.",
+            "اگر تنش‌ها به درگیری عملی بینجامد، پیامدهای اقتصادی و اجتماعی برای داخل ایران تشدید خواهد شد و می‌تواند نارضایتی عمومی را افزایش دهد — امری که ریشه در ناکارآمدی مدیریتی و بحران‌های ساختاری رژیم دارد."
+        ],
+        "impact": "بیانیه ترامپ احتمال هماهنگی امنیتی نزدیک‌تر واشنگتن و تل‌آویو را تقویت می‌کند و فشار استراتژیک خارجی بر نظام ایران را افزایش می‌دهد، در حالی که خروجی‌های تصمیم‌گیری را از دسترس اپوزیسیون و جامعه ایرانی دورتر می‌سازد.",
+        "tag": "هماهنگی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1B3cW1JMGpYR2dBUXQ1NkZlUDJxaXBvRVk1eVV5TmxOcEF0M0c2Sm9oQTlXS3dhQkk3YlBtVm8tMnFQaUI5NHB0QlNLc25tTWFmQ2dtOFZDWlBvVlQwb2M3clJhMkM5R0pvdXlMeG1uUXJ4RWh2MEFPNm1VZEpuMEp6X24ySXItZURwbTQ1SkFoYnhLZE1zMjBpRlRjMlZVSVhBcW5uUHdVTHdFMTRMNw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1B3cW1JMGpYR2dBUXQ1NkZlUDJxaXBvRVk1eVV5TmxOcEF0M0c2Sm9oQTlXS3dhQkk3YlBtVm8tMnFQaUI5NHB0QlNLc25tTWFmQ2dtOFZDWlBvVlQwb2M3clJhMkM5R0pvdXlMeG1uUXJ4RWh2MEFPNm1VZEpuMEp6X24ySXItZURwbTQ1SkFoYnhLZE1zMjBpRlRjMlZVSVhBcW5uUHdVTHdFMTRMNw",
+        "image": null,
+        "timestamp": 1773026764.0
+    },
+    {
+        "title_fa": "تلویزیون دولتی ایران: مجتبی خامنه‌ای جانشین خود را معرفی کرد",
+        "title_en": "The Latest: Mojtaba Khamenei, son of Iran’s supreme leader, named his successor, Iran state TV says",
+        "summary": [
+            "تلویزیون دولتی گزارش داد که مجتبی خامنه‌ای، فرزند رهبر ایران، جانشینش را معرفی کرده؛ خبر از منبع رسمی حکومتی منتشر شد.",
+            "اعلام رسمی از سوی فردی با پیوند خانوادگی نزدیک به مرکز قدرت، تمرکزِ بحث درباره جانشینی خانوادگی را تقویت می‌کند و می‌تواند مشروعیت نهاد رهبری را در میان منتقدان تضعیف کند.",
+            "از منظر فشار خارجی و تحریم‌ها، این اعلان تغییری بنیادین در معیشت یا وضعیت تحریمی ایران ایجاد نمی‌کند اما احتمالاً ریسک بی‌ثباتی سیاسی و پیامدهای اقتصادی را افزایش می‌دهد."
+        ],
+        "impact": "این اطلاع‌رسانی رسمی از سوی تلویزیون دولتی به خودیِ خود تحریم‌ها را کاهش نخواهد داد اما می‌تواند ادراکِ ناکارآمدی حکمرانی و خطر تشدید نارضایتی‌های اجتماعی را بالا ببرد.",
+        "tag": "جانشینی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "NewsNation",
+        "url": "https://www.nbcnews.com/world/iran/iran-supreme-leader-mojtaba-khamenei-rcna261645",
+        "clean_url": "https://www.nbcnews.com/world/iran/iran-supreme-leader-mojtaba-khamenei-rcna261645",
+        "image": null,
+        "timestamp": 1773025602.0
+    },
+    {
         "title_fa": "قیمت نفت خام از ۱۰۰ دلار گذشت؛ بازارها از حل سریع بحران در ایران ناامید شدند",
         "title_en": "Crude oil rockets past $100 as markets lose hope for a quick resolution in Iran",
         "summary": [
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNkZCUlpMYm5aNmp6eDlNOGxRYWUyQ2NMajBEQzRsMGhuajdYdGc0TEtEbWk1RDk0b0FBMy1qU2c4cmtZaWthVWdSLWR1RXBYaUpxRGdYcGMxcU5jVVRiREJfcUhkYmtmd3dIOVdvd2IyR1ZIQ0Y4eVZJUzZta0hsdnJwYTRrX01tY1Byc1cwMkxzNGJLeXJvYWxB",
         "image": null,
         "timestamp": 1772702796.0
-    },
-    {
-        "title_fa": "گسترش جنگ ایران؛ کشورهای اروپایی عمیق‌تر درگیر می‌شوند",
-        "title_en": "Iran war spreads as European nations drawn further in",
-        "summary": [
-            "ورود نظامی اروپا: بریتانیا جت‌های بیشتری به قطر می‌فرستد، یونان و ایتالیا دفاع قبرس را تقویت می‌کنند و فرانسه استفاده غیررزمی یک پایگاه را به آمریکا مجوز داد؛ با این‌حال رهبران اروپایی از ورود مستقیم و گسترده‌تر خودداری می‌کنند.",
-            "ادامه حملات و تلافی‌ها در روز ششم: اسرائیل ادعا می‌کند سایت‌های موشکی ایران را هدف گرفته، ایران حملات تلافی‌جویانه‌ای در منطقه انجام داد که به مجروح شدن چند نفر در ابوظبی منجر شد، و یک پهپاد یا قطعات آن در نزدیکی فرودگاهی در نخجوان آذربایجان سقوط کرد؛ آذربایجان ایران را متهم و تهران آن را تکذیب کرد.",
-            "گسترش فرامرزی و تخلیه‌ها: تهران اقدام ادعاشده آمریکا علیه یک ناوشکن در نزدیکی سری‌لانکا را محکوم کرد، پروازهای تخلیه و چارتر برای خارجی‌ها و شهروندان آمریکایی آغاز شده اما بسیاری همچنان در منطقه گیر مانده‌اند؛ این منازعه آشکارا از خاورمیانه فراتر می‌رود."
-        ],
-        "impact": "ورود حمایت نظامی و لجستیکی کشورهای اروپایی ساختار رژیم را زیر فشار خارجی بیشتر قرار می‌دهد و ریسک تبدیل درگیری به بحران فرامرزی و تشدید تحریم‌ها را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-05-26?post-id=cmmd9azwd0004356utvbmf9m9",
-        "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-05-26",
-        "image": null,
-        "timestamp": 1772702760.0
-    },
-    {
-        "title_fa": "جنگ ترامپ با ایران؛ شرح",
-        "title_en": "Trump’s War With Iran, Explained",
-        "summary": [
-            "حملات مشترک آمریکا و اسرائیل از ۲۸ فوریه طبق گزارش‌ها بیش از ۱۰۰۰ کشته برجای گذاشته، شامل بیش از ۱۵۰ کودک و ده‌ها مقام ارشد از جمله علی خامنه‌ای، و خلأ قدرتی جدی در تهران ایجاد کرده است.",
-            "دونالد ترامپ عملیات «انتقام حماسی» را ادامه‌دار خواند و علناً خواستار تغییر رژیم شده؛ این حملات مناقشه بر سر دلایل اقدام (دفاعی یا پیش‌دستانه) را شدت بخشیده و باعث کشته‌شدن تعدادی از نیروهای آمریکایی نیز شده است.",
-            "در سطح منطقه و جهانی این درگیری موج حملات تلافی‌جویانه را تشدید کرده، ده‌ها هزار شهروند خارجی را در معرض خطر قرار داده و اختلال قابل‌توجهی در کریدورهای انرژی و هوانوردی ایجاد کرده است."
-        ],
-        "impact": "حملات مستقیم و فراخوان آشکار به تغییر رژیم ساختارهای حکمرانی تهران را تضعیف کرده و با فروپاشی مذاکرات هسته‌ای و قطع روابط راهبردی، فشار خارجی و بی‌ثباتی اقتصادی را تشدید می‌کند که می‌تواند هم مشروعیت سیاسی رژیم را کاهش دهد و هم رفاه عمومی را بیشتر آسیب‌پذیر سازد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Time Magazine",
-        "url": "https://www.yahoo.com/news/articles/trump-war-iran-explained-083603550.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-war-iran-explained-083603550.html",
-        "image": null,
-        "timestamp": 1772700466.0
-    },
-    {
-        "title_fa": "جنگ آمریکا و اسرائیل با ایران، توضیح داده شده",
-        "title_en": "The U.S. and Israeli War With Iran, Explained",
-        "summary": [
-            "Time چارچوبی از دلایل، بازیگران و سازوکارهای کلیدی یک درگیری مستقیم یا گسترش‌یافته بین آمریکا/اسرائیل و ایران ارائه می‌دهد و روندهای نظامی و سیاسی موثر بر صحنه جنگ را تشریح می‌کند.",
-            "افزایش فشار خارجی و تحریم‌ها، از منظر ساختاری، ظرفیت اقتصادی و منابع مالی رژیم را تضعیف می‌کند؛ هزینه‌های نظامی و کاهش دسترسی به بازارها ساختار بقا را شکننده‌تر می‌سازد و فضا را برای اختلافات داخلی و فساد بیشتر باز می‌کند.",
-            "پیامدهای اقتصادی و مدیریتی در داخل کشور —افت درآمدهای ارزی، تشدید تورم، و کاهش خدمات عمومی— ریسک گسترش نارضایتی عمومی و تشدید بحران‌های حکمرانی را بالا می‌برد؛ جنگ بحران‌های اقتصادی و سیاسی را همزمان تشدید می‌کند."
-        ],
-        "impact": "در مقیاس راهبردی، درگیری مستقیم آمریکا/اسرائیل با ایران روند تضعیف ظرفیت بقا و مشروعیت حکمرانی را تسریع کرده و بی‌ثباتی داخلی و منطقه‌ای را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Time Magazine",
-        "url": "https://www.msn.com/en-us/news/world/trump-s-war-with-iran-explained/ar-AA1XzrGt",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-s-war-with-iran-explained/ar-AA1XzrGt",
-        "image": null,
-        "timestamp": 1772700466.0
-    },
-    {
-        "title_fa": "تلفات ایران از ۱۲۰۰ فراتر رفت؛ اختیارات جنگی ترامپ برای رأی‌گیری",
-        "title_en": "Iran toll leaps past 1,200; Trump's war powers up for vote: Live updates",
-        "summary": [
-            "USA TODAY گزارش می‌دهد شمار تلفات مرتبط با ایران از مرز ۱۲۰۰ گذشته است؛ خبر جزئیات علت و منابع تلفات را مشخص نکرده و این آمار بزرگ اما بدون شفافیت است.",
-            "کنگره آمریکا در آستانه رأی‌گیری درباره اختیارات جنگی دونالد ترامپ قرار دارد؛ چنین رأی‌گیری‌ای می‌تواند مجوز اقدام نظامی یا به کارگیری ابزار فشار ایالات متحده را تسهیل یا مشروعیت‌بخشد.",
-            "ترکیب تلفات سنگین و احتمال فعال شدن اختیارات جنگی آمریکا می‌تواند فشار خارجی بر حکومت را تشدید کند و، حتی بدون اطلاعات کامل، نشانه‌ای از ناکارآمدی مدیریتی و افزایش ریسک نارضایتی و بی‌ثباتی داخلی باشد."
-        ],
-        "impact": "این همپوشانی رویدادها احتمال تشدید فشار بین‌المللی و افزایش بی‌ثباتی داخلی را بالا می‌برد و به‌سرعت بر توان حکومت برای کنترل اوضاع اقتصادی و سیاسی تأثیر منفی خواهد گذاشت.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/live-story/news/world/2026/03/05/iran-war-us-israel-live-updates/88986988007/",
-        "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/05/iran-war-us-israel-live-updates/88986988007",
-        "image": null,
-        "timestamp": 1772700060.0
     }
 ]
