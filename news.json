@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جنگ با ایران چگونه پایان می‌یابد؟",
+        "title_en": "How will the Iran war end?",
+        "summary": [
+            "دونالد ترامپ و بنیامین نتانیاهو تصمیم مشترک درباره پایان جنگ خواهند گرفت؛ کاوشگر اصلی اکنون بین تشدید حملات هوایی برای حفظ برتری یا خاتمه تعهد نظامی قرار دارد.",
+            "در هفتهٔ دوم، درگیری با سرعت ویرانگری بالا پیش می‌رود؛ هر دو طرف برخی اهداف نظامی را محقق کرده‌اند اما نتوانسته‌اند اهداف سیاسی تعیین‌شده را به دست آورند و رژیم ایران تا این لحظه تاب‌آوری نشان داده است.",
+            "تبعات اقتصادی (افزایش قیمت نفت، نارضایتی سرمایه‌گذاران حوزه خلیج) هزینهٔ ادامه جنگ را بالا می‌برد و می‌تواند انگیزه‌ای برای یافتن «مسیر خروج» ایجاد کند، اما راه‌حل سیاسی بدون هزینه وجود ندارد."
+        ],
+        "impact": "شدت‌گیری نظامی همراه با فشارهای اقتصادی، گزینه‌ها را برای تهران و واشینگتن محدود می‌کند و آن‌ها را یا به پذیرش راه‌حل‌های سیاسی پرهزینه یا کاهش تعهدات نظامی سوق می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.4,
+        "source": "The Week",
+        "url": "https://www.yahoo.com/news/articles/iran-war-end-141708855.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-war-end-141708855.html",
+        "image": null,
+        "timestamp": 1773065828.0
+    },
+    {
         "title_fa": "با تشدید جنگ در ایران، کالیفرنیایی‌ها دردِ بنزین و ترس از «جنگ همیشگی» را احساس می‌کنند",
         "title_en": "As the war in Iran intensifies, Californians feel pain at the pump and fear a ‘forever war’",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSUVVTXBMdldUdFlEbUJHQWwzLURZdkhzcW1ZdEhLZmRWd21lUDF4WkZRcjA1RFlDc1FBc1JBN3RTWjJOMkVjM0JzcFB1cU9hLWZqYThjRF9tTTRWZldwRDhsVEF4VERwcDNPVUlzU092d1JYZnNCdHJodTZsaTdPWTdJZUxZaWhrbTVkc0VJc3BSV2hBMTBwQ0NfT3dCZnV5b1daTQ",
         "image": null,
         "timestamp": 1773063000.0
+    },
+    {
+        "title_fa": "آیا جنگ با ایران واقعاً روزانه ۲ میلیارد دلار برای آمریکا هزینه دارد؟",
+        "title_en": "Is the Iran war really costing the US $2bn per day?",
+        "summary": [
+            "الجزیره پرسشی کلیدی را مطرح می‌کند: اعتبار ادعای «۲ میلیارد دلار در روز» در مورد هزینه‌های جنگ یا درگیری با ایران باید از نظر روش‌شماری و شواهد بررسی شود.",
+            "اگر چنین رقمی معتبر باشد، فشار سیاسی و اقتصادی بر واشنگتن و شرکای آن افزایش می‌یابد و نیاز به بازتوزیع منابع می‌تواند ظرفیت استراتژیک آمریکا را در سایر حوزه‌ها تضعیف کند (اثر ساختاری تحمیل هزینه).",
+            "متن اشاره‌ای به نقش روسیه، چین یا کره شمالی ندارد و نیز ارتباط مستقیمی با تحریم‌ها یا اعتراضات داخلی ایران ارائه نشده؛ بنابراین هر نتیجه‌گیری گسترده باید تنها بر اساس شواهد موجود باشد."
+        ],
+        "impact": "تأیید یا رد دقیق این ادعا می‌تواند بلافاصله محاسبات بودجه‌ای و سیاسی آمریکا را تغییر دهد و پیامدهای راهبردی برای بازیگران منطقه‌ای ایجاد کند.",
+        "tag": "هزینه",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/is-the-iran-war-really-costing-the-us-2bn-per-day/ar-AA1XPrKR",
+        "clean_url": "https://www.msn.com/en-us/news/world/is-the-iran-war-really-costing-the-us-2bn-per-day/ar-AA1XPrKR",
+        "image": null,
+        "timestamp": 1773062226.0
     },
     {
         "title_fa": "نخست‌وزیر درباره تأثیر درگیری با ایران بر اقتصاد بریتانیا هشدار داد",
@@ -70,6 +106,24 @@
         "clean_url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-stock-prices-down-oil-prices-up-despite-trump-reassurance",
         "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/03/09/d0b308fa-d8e3-4837-b0d9-4fecca0221b7/thumbnail/1200x630g8/19dc55fda13923645c4bd2712b6555a6/iran-war-2265086244.jpg",
         "timestamp": 1773055560.0
+    },
+    {
+        "title_fa": "ایران پس از تعیین رهبر جدید در روز دهم جنگ به اسرائیل و کشورهای خلیج حمله کرد",
+        "title_en": "Iran attacks Israel, Gulf states, after naming new leader on Day 10 of war",
+        "summary": [
+            "ایران در روز دهم درگیری‌ها و هم‌زمان با معرفی رهبر جدید، حملاتی را علیه اسرائیل و چند کشور خلیجی انجام داد.",
+            "زمان‌بندی این حملات همزمان با نامگذاری رهبر جدید نشان می‌دهد تهران تصمیم به گسترش عملیات نظامی و پیام‌رسانی قدرت به منطقه گرفته است؛ این امر می‌تواند پاسخ‌های نظامی و دیپلماتیک را تشدید کند.",
+            "این تحرک نظامی به احتمال زیاد فشارهای خارجی و تحریم‌ها علیه رژیم را افزایش داده و ریسک تشدید بحران اقتصادی و سیاسی داخلی را بالا می‌برد."
+        ],
+        "impact": "حملات هم‌زمان با جانشینی سیاسی وضعیت امنیتی منطقه را به شدت متشنج کرده و احتمال مداخله خارجی و تحریم‌های جدید علیه تهران را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNjN6NlVFX0IxVW5penE4TEV4WHZMZTY2YjhER3kwWkxYcHZudldsM1RVN3hBdHlEcFNwS3J6RnNqZllqN2I0cHZXSlBMSjllS05SM0dQWG5tNTJFLWVLXzEtZkxsS2ZxYzJxSEV4ZkFUZ0hUd1V1d2xja0xBcVpJZFBBRDI4TGo1RXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNjN6NlVFX0IxVW5penE4TEV4WHZMZTY2YjhER3kwWkxYcHZudldsM1RVN3hBdHlEcFNwS3J6RnNqZllqN2I0cHZXSlBMSjllS05SM0dQWG5tNTJFLWVLXzEtZkxsS2ZxYzJxSEV4ZkFUZ0hUd1V1d2xja0xBcVpJZFBBRDI4TGo1RXc",
+        "image": null,
+        "timestamp": 1773054180.0
     },
     {
         "title_fa": "ایران: ۱۲۵۵ کشته در حملات آمریکا و اسرائیل؛ اکثراً غیرنظامیان",
@@ -198,6 +252,24 @@
         "timestamp": 1773042075.0
     },
     {
+        "title_fa": "استارت حملات اسرائیل به داخل ایران؛ نفت بالای ۱۰۰ دلار",
+        "title_en": "Israel resumes strikes on Iran as oil prices surge",
+        "summary": [
+            "اسرائیل موجِ گسترده‌ای از حملات را علیه آنچه «زیرساخت‌ رژیم» خوانده، در سه منطقه ایران از سر گرفت؛ ترکیه گزارش داد پدافندهای ناتو موشکی ایرانی را که وارد حریم هوایی ترکیه شد سرنگون کردند و کشورهای حاشیه خلیج فارس نیز از حملات شبانه خبر دادند.",
+            "قیمت نفت از مرز ۱۰۰ دلار فراتر رفت؛ وزرای مالی گروه هفت برای بررسی آزادسازی مشترک ذخایر استراتژیک گرد هم آمده‌اند و شرکت نفتی بحرین اعلام فورس ماژور کرده است — نشان‌دهنده تهدید جدی به تاسیسات انرژی و اثرات مستقیم اقتصادی جنگ.",
+            "مقتدی در سطح رهبری: مجتبی خامنه‌ای به‌عنوان جانشین علی خامنه‌ای نام‌برده شده است؛ هم‌زمان نیروی نظامی آمریکا گزارش مرگ و جراحات نیروها را تایید کرده و ویدیویی حاکی از هدف‌گیری یک پایگاه دریایی کنار مدرسه منتشر شده که در دست بررسی است."
+        ],
+        "impact": "ترکیب حملات مستقیم به زیرساخت‌ها و آشفتگی در بازار انرژی فشار ساختاری بر رژیم را افزایش می‌دهد، درآمدهای ارزی و مدیریت داخلی را تضعیف کرده و ریسک بی‌ثباتی سیاسی و اقتصادی را به‌سرعت بالا می‌برد.",
+        "tag": "درگیری",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-09-26",
+        "clean_url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-09-26",
+        "image": null,
+        "timestamp": 1773041940.0
+    },
+    {
         "title_fa": "چه چیزی جنگ نامتقارن درباره شانس جنگی ایران می‌گوید",
         "title_en": "What asymmetric warfare may tell us about Iran’s fighting chances",
         "summary": [
@@ -214,6 +286,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2RCZVJHU3NGU0QzUkVUY3FJdGh6M1NwR05BZVBSU2ZCWlRGT0hxb3BhQ0g1SFVMR1JmTDJxYlFrblJrSGdrNWRZVHRYOVZ4NWdXWWZqbTRkUXhWemI0aTBSWXhVQ010N3dFVWoxV0V2V18yWnZYOEZWZVFFQ0k3TnRBYjh1Xy1wcUJVUkxsdXQ5Q1RCWV9WeG04eTE0VTJ4MFlZT0lyZ09OMTjSAbABQVVfeXFMTnNKa1BGNzBCSjBKdlpHYjRPcmlOLWF4MHpwUHBEQVREcTdaa25BaUltSUY5TlF1TDZQc0xRTXhyMGxKSmhETGhOQmk5WG02OWNvOUg0Q0N4YVNNSGJrUjdmeFFmSFRpTlJSc0tFY2QzbGtVb1NQemVCbzBIWEhtQmFWQzYyVzFkYmpnTTBCejUxVW1uTjNvNEY1UGpxQ0JLclF0aEVsb2pMajZIUThWbnE",
         "image": null,
         "timestamp": 1773041919.0
+    },
+    {
+        "title_fa": "ایران مجتبی خامنه‌ای را جانشین رهبری نامید؛ نشانه‌ای از تداوم جنگ و جهش قیمت نفت",
+        "title_en": "Iran names Khamenei’s son to succeed him, signaling no letup in war as oil prices surge",
+        "summary": [
+            "انتصاب مجتبی خامنه‌ای به جانشینی رهبری پیام روشنی از تداوم خط‌مشی‌های کنونی حکومت در حوزه امنیتی و نظامی دارد و کاهش فوری احتمال آتش‌بس یا مصالحه را نشان می‌دهد.",
+            "جهش قیمت نفت پس از اعلام جانشینی منعکس‌کننده افزایش ارزیابی ریسک منطقه‌ای توسط بازارها است و هم‌زمان می‌تواند به تشدید فشارهای اقتصادی داخلی از طریق تورم و کسری بودجه منجر شود.",
+            "این نام‌گذاری خوانشی از تحکیم قدرت در حلقه‌های حکومتی و گرایش به انتقال جانشینی درون‌خانوادگی ارائه می‌دهد؛ در صورت تداوم مشکلات اقتصادی، این تحکیم می‌تواند نارضایتی عمومی و ریسک بی‌ثباتی سیاسی را افزایش دهد."
+        ],
+        "impact": "این جانشینی احتمال ادامه جنگ، تشدید انزوای بین‌المللی و فشار اقتصادی بر مردم را افزایش می‌دهد.",
+        "tag": "تداوم",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7",
+        "clean_url": "https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7",
+        "image": "http://www.bing.com/th?id=OVFT.A0N7aX6bFGxbwvWXttbn5C&pid=News",
+        "timestamp": 1773039180.0
     },
     {
         "title_fa": "به‌روزرسانی زنده: موشک ایرانی به اسرائیل اصابت کرد، نیروی هوایی اسرائیل پاسخ داد",
@@ -250,6 +340,24 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/night-turned-into-day-iranians-tell-of-strikes-on-oil-depots/ar-AA1XLZmH",
         "image": null,
         "timestamp": 1773034805.0
+    },
+    {
+        "title_fa": "افزایش شدید قیمت نفت، هشدار ترامپ، رهبر جدید در ایران — به‌روزرسانی جنگ",
+        "title_en": "Oil prices soar, Trump sends warning, Iran names leader. War updates.",
+        "summary": [
+            "محتوای لینک در دسترس نیست؛ تنها تیترها ارائه شده‌اند و متن اصلی گزارش قابل بررسی نیست، بنابراین تحلیل باید بر پایه فرض‌های محتاطانه و محتوای تیترها بماند.",
+            "اگر قیمت نفت واقعاً جهش کرده باشد، در کوتاه‌مدت تزریق درآمد ارزی می‌تواند فشار مالی ناشی از تحریم‌ها را کاهش دهد اما این اثر ساختاری نیست و ناتوانی حکمرانی و سوءمدیریت اقتصادی را جبران نمی‌کند.",
+            "اعلام رهبر جدید توسط حکومت و هشدار دونالد ترامپ اگر تأیید شوند، نشان‌دهنده تلاش رژیم برای تثبیت کنترل داخلی در برابر فشار خارجی و هم‌زمان هشدارهای دیپلماتیک/امنیتی آمریکاست؛ بدون متن گزارش نمی‌توان نحوه و دامنه این تنش‌ها را دقیقاً سنجید."
+        ],
+        "impact": "در صورت صحت تیترها، ترکیب درآمد نفتی بالاتر و فشار هشدارآمیز آمریکا به‌طور موقتی بقای مالی رژیم را تقویت می‌کند اما آسیب ساختاری اقتصاد و بحران مشروعیت را برطرف نمی‌کند.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Des Moines Register",
+        "url": "https://www.desmoinesregister.com/live-story/news/world/2026/03/09/iran-united-states-war-live-updates/89055802007/",
+        "clean_url": "https://www.desmoinesregister.com/live-story/news/world/2026/03/09/iran-united-states-war-live-updates/89055802007",
+        "image": "http://www.bing.com/th?id=OVFT.W7Q8MP13J4-3y6EdYxNEny&pid=News",
+        "timestamp": 1773034200.0
     },
     {
         "title_fa": "جنگ ایران: اسرائیل \"زیرساخت‌های رژیم\" را هدف قرار می‌دهد",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-conflict-middle-east-crisis-drone-ballistic-missile-attacks-explosions-dubai-uae-qatar-tehran-gulf-donald-trump-netanyahu-khamenei/liveblog/129061702.cms",
         "image": null,
         "timestamp": 1772752680.0
-    },
-    {
-        "title_fa": "ایران به اسرائیل و پایگاه‌های آمریکا حمله کرد؛ جنگ تشدید شد",
-        "title_en": "Iran attacks Israel and US bases as war intensifies",
-        "summary": [
-            "ایران روز پنج‌شنبه به اسرائیل و چند پایگاه آمریکایی حمله کرد.",
-            "تهدید تهران متوجه ایالات متحده است؛ ادعا شده حمله در اعتراض به تورپیدو شدن یک ناو جنگی ایرانی در اقیانوس هند انجام شده است.",
-            "این تشدید نظامی احتمال واکنش نظامی گسترده، فشار دیپلماتیک و تحریم‌های شدیدتر را افزایش می‌دهد و نشان‌دهنده فقدان راهبرد پایدار و مدیریت بحران در حکومت است."
-        ],
-        "impact": "خطر برخورد مستقیم با آمریکا و اسرائیل به‌طور جدی افزایش یافته و حکومت را در معرض واکنش نظامی و انزوای بین‌المللی قرار می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "FOX 5 DC",
-        "url": "https://www.fox5dc.com/news/iran-war-continues-strikes-israel-us-march-5-2026",
-        "clean_url": "https://www.fox5dc.com/news/iran-war-continues-strikes-israel-us-march-5-2026",
-        "image": "http://www.bing.com/th?id=OVFT.XFRl0x-LZd07Qs-VSePCCi&pid=News",
-        "timestamp": 1772751720.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ آمریکا-ایران: ترامپ می‌گوید عملیات «بسیار مهم‌تر» از قیمت بنزین است",
-        "title_en": "US-Iran war updates: Operation 'far more important' than gas prices, Trump says",
-        "summary": [
-            "بر اساس عنوان خبر، دونالد ترامپ گفته است عملیاتی «بسیار مهم‌تر» از قیمت بنزین است؛ متن گزارش کامل در دسترس نیست و جزئیات عملیاتی مشخص نشده‌اند.",
-            "تحلیل تحریم‌ها/فشار خارجی: چنین اولویت‌دهی‌ای نشان می‌دهد واشنگتن حاضر است تبعات اقتصادی داخلی را برای پیشبرد اهداف راهبردی علیه ایران بپذیرد که می‌تواند فشار خارجی بر رژیم را تقویت و تضعیف ساختاری آن را تشدید کند.",
-            "اقتصاد و اعتراضات داخلی: با اطلاعات محدود، این رویکرد می‌تواند تنش‌های اقتصادی و نارضایتی داخلی—چه در آمریکا به‌خاطر قیمت انرژی و چه در ایران به‌خاطر فشارهای خارجی و ناکارآمدی اقتصادی—را تشدید کند، اما بدون داده‌های بیشتر نمی‌توان ابعاد دقیق آن را تأیید کرد."
-        ],
-        "impact": "موضع‌گیری مزبور احتمال افزایش فشار استراتژیک و پذیرش هزینه‌های اقتصادی داخلی از سوی واشنگتن را بالا می‌برد که می‌تواند ثبات رژیم را بیش از پیش تحت فشار قرار دهد.",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "The Tennessean",
-        "url": "https://www.tennessean.com/live-story/news/world/2026/03/05/iran-war-us-israel-live-updates/88986988007/",
-        "clean_url": "https://www.tennessean.com/live-story/news/world/2026/03/05/iran-war-us-israel-live-updates/88986988007",
-        "image": null,
-        "timestamp": 1772748960.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده درباره ایران: ترامپ به نیروهای ایرانی «مصونیت یا مرگ تضمینی» پیشنهاد داد",
-        "title_en": "Iran live updates: Trump offers immunity or 'guaranteed death' to Iranian forces",
-        "summary": [
-            "دونالد ترامپ به‌طور علنی به نیروهای ایرانی پیشنهاد «مصونیت یا مرگ تضمینی» داده؛ لحن تهدیدآمیز که نشان‌دهنده اراده آمریکا برای مقابله نظامی مستقیم است.",
-            "وزارت دفاع آمریکا روز چهارشنبه دو نفر آخر از شش نظامی آمریکایی کشته‌شده در ساعات آغازین جنگ با ایران را شناسایی کرد؛ تلفات مستقیم و رسمی درگیری را تأیید می‌کند.",
-            "این تقابل نظامی و تلفات اولیه، ریسک‌های سیاست خارجی رژیم را برجسته می‌کند و می‌تواند به افزایش فشارهای نظامی، سیاسی و اقتصادی خارجی و تضعیف بیشتر مشروعیت داخلی منجر شود."
-        ],
-        "impact": "رویارویی مستقیم آمریکا–ایران با تلفات نظامی رسمی، فضای امنیتی و سیاسی رژیم را به‌طرزی ساختاری تضعیف می‌کند و احتمال تشدید فشارهای خارجی و ناپایداری داخلی را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "ABC7 Chicago",
-        "url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/",
-        "clean_url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347",
-        "image": "http://www.bing.com/th?id=OVFT.eeFunT7fragaCoutSs4X0C&pid=News",
-        "timestamp": 1772747400.0
-    },
-    {
-        "title_fa": "جدیدترین: حملات هوایی اسرائیل پایتخت‌های ایران و لبنان را بمباران کردند؛ آمریکا هشدار به تشدید حملات داد",
-        "title_en": "The latest: Israeli strikes pound Iran and Lebanon as US warns attacks will intensify",
-        "summary": [
-            "حملات هوایی اسرائیل پایتخت‌های ایران و لبنان را هدف قرار دادند و آمریکا ظاهراً یک ناو حامل پهپاد ایرانی را در دریا هدف گرفت؛ کارزار علیه ناوگان دریایی تهران تشدید شده است.",
-            "این عملیات نظامی نشان‌دهنده انتقال فشار از محدوده تحریم‌ها به فشار نظامی مستقیم است؛ هدف‌گیری ظرفیت دریایی هزینه‌های دفاعی را افزایش می‌دهد و توان عملیاتی رژیم را کاهش می‌کند.",
-            "تشدید حملات بدون شواهد مبنی بر اعتراضات جدید، فشار اقتصادی و سیاسی بر حکومت را افزایش می‌دهد؛ افزایش تخصیص منابع به امنیت می‌تواند ضعف مدیریتی و زمینه‌های نارضایتی عمومی را بیشتر کند."
-        ],
-        "impact": "تشدید حملات هوایی و هدف‌گیری شناورهای پهپادی بلافاصله توان بازدارندگی تهران را تضعیف و چشم‌انداز گسترش درگیری منطقه‌ای را تیره‌تر می‌کند.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/the-latest-israeli-strikes-pound-iran-and-lebanon-as-us-warns-attacks-will-intensify/ar-AA1XDdQ6",
-        "clean_url": "https://www.msn.com/en-us/news/world/the-latest-israeli-strikes-pound-iran-and-lebanon-as-us-warns-attacks-will-intensify/ar-AA1XDdQ6",
-        "image": "http://www.bing.com/th?id=OVFT.aa8NiQdjPKrkdPvfFfy0yi&pid=News",
-        "timestamp": 1772746759.0
-    },
-    {
-        "title_fa": "تعطیلی نماز جمعه در مسجدالاقصی در پی جنگ با ایران",
-        "title_en": "Israel cancels Friday prayers at Al-Aqsa Mosque amid Iran conflict",
-        "summary": [
-            "اداره مدنی اسرائیل اعلام کرد نماز جمعه در مسجدالاقصی در شرق قدس اشغالی به‌خاطر تنش‌های ناشی از حملات موشکی انتقامی ایران لغو شده و دسترسی به شهر قدیم صرفاً برای ساکنان و کسبه محدود مانده است.",
-            "مسئولین اسرائیلی از جمله هشام ابراهیم تصمیم را «به‌خاطر حملات ایران به اسرائیل و منطقه» توجیه کرده‌اند؛ گزارش‌ها حاکی است حملات انتقامی ایران تاکنون ۱۰ کشته در اسرائیل برجای گذاشته و در مقابل دست‌کم ۱٬۲۳۰ نفر در حملات اسرائیل و آمریکا کشته شده‌اند.",
-            "مقامات و رهبران دینی فلسطینی از جمله Ikrima Sabri به تعطیلی‌های مکرر عبادات در الاقصی اعتراض کرده‌اند و این اقدامات به‌عنوان نمونه‌ای از تشدید محدودیت‌ها و افزایش نگرانی‌ها درباره تشدید تصرفات اسرائیل مطرح شده است."
-        ],
-        "impact": "بستن الاقصی و محدود کردن دسترسی در ماه رمضان، عملاً تنش‌های محلی و منطقه‌ای را تشدید می‌کند، خشم فلسطینیان را افزایش داده و خطر گسترش ناآرامی‌ها و فرسایش بیشتر ثبات منطقه را بالا می‌برد.",
-        "tag": "قدس",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/israel-cancels-friday-prayers-al-210201925.html",
-        "clean_url": "https://www.yahoo.com/news/articles/israel-cancels-friday-prayers-al-210201925.html",
-        "image": null,
-        "timestamp": 1772745320.0
-    },
-    {
-        "title_fa": "مرحله بعدی جنگ با ایران چیست؟ کارشناسان در بروکینگز بررسی می‌کنند",
-        "title_en": "What’s next for the Iran war? Experts discuss.",
-        "summary": [
-            "منبع ارائه‌شده فقط تیتر یک میزگرد در بروکینگز است و متن یا استدلال‌های دقیق کارشناسان منتشر نشده؛ نتیجه‌گیری‌های موثق نیازمند دسترسی به بحث کامل است.",
-            "به‌صورت کلی، هر میزگرد تحلیلی درباره «مرحله بعدی» به سناریوهای تشدید نظامی، اثرات فشارهای خارجی و سازوکارهای فروپاشی تدریجی اقتصادی-سیاسی می‌پردازد؛ در این چارچوب تحریم‌ها به‌عنوان عامل ساختاری تضعیف‌کننده رژیم تحلیل می‌شوند که توان مدیریتی و واردات حیاتی را هدف می‌گیرند.",
-            "هر ارزیابی واقع‌گرایانه باید خطای حکمرانی و سوءمدیریت اقتصادی را جزء متغیرهای تسریع‌کننده بی‌ثباتی لحاظ کند؛ بدون اشاره به این محورهای داخلی، پیش‌بینی نتیجه‌گیری کارشناسان ناقص خواهد بود."
-        ],
-        "impact": "بدون متن کامل، پیام اصلی این تیتر این است که تحولات آتی—چه نظامی و چه اقتصادی—می‌تواند ثبات شکننده رژیم را بیشتر تضعیف کند و نیاز به تحلیل دقیق‌تر دارد.",
-        "tag": "تنش",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Brookings",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHpRbVJ0VXNQN0dhX2x5bUl0TG0xdmxpMl9POXlJMlNjZ09qTC12dmdEUzA1UGdXb3FZNFcxQWtoWDBVdm51OFJrWjFMSVFSZURvMDZiZWpsOWxSX28yaGdfZHdOdjRRS1ZIV2dBMHZWaE1qVU5rVmtubk1Ray1VcXE0cC1yQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHpRbVJ0VXNQN0dhX2x5bUl0TG0xdmxpMl9POXlJMlNjZ09qTC12dmdEUzA1UGdXb3FZNFcxQWtoWDBVdm51OFJrWjFMSVFSZURvMDZiZWpsOWxSX28yaGdfZHdOdjRRS1ZIV2dBMHZWaE1qVU5rVmtubk1Ray1VcXE0cC1yQQ",
-        "image": null,
-        "timestamp": 1772744815.0
     }
 ]
