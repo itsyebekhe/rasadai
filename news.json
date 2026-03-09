@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "قیمت نفت خام از ۱۰۰ دلار گذشت؛ بازارها از حل سریع بحران در ایران ناامید شدند",
+        "title_en": "Crude oil rockets past $100 as markets lose hope for a quick resolution in Iran",
+        "summary": [
+            "قیمت نفت خام به بالای ۱۰۰ دلار جهش کرد؛ بازارها این حرکت را به‌عنوان افزایش پریمیوم ریسک مرتبط با وضعیت نامشخص ایران تفسیر می‌کنند.",
+            "از دست رفتن امید به راه‌حل سریع نشان‌دهنده تداوم عدم‌قطعیت سیاسی و امنیتی است که می‌تواند نوسان قیمت‌ها و هزینه تأمین انرژی را بالا ببرد.",
+            "این جهش برای حکومت پیام دوگانه دارد: درآمد نفتی کوتاه‌مدت بالقوه و هم‌زمان افزایش فشار اقتصادی داخلی و تضعیف جذابیت سرمایه‌گذاری بلندمدت که بازارها آن را نشانه آسیب‌پذیری ساختاری می‌دانند."
+        ],
+        "impact": "جهش به بالای ۱۰۰ دلار منعکس‌کننده تشدید ریسک سیاسی ایران است و می‌تواند فشار اقتصادی داخلی و آسیب‌پذیری مالی بلندمدت حکومت را افزایش دهد.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
+        "clean_url": "https://www.npr.org/2026/03/08/nx-s1-5741818/iran-israel-trump-oil-100",
+        "image": null,
+        "timestamp": 1773019474.0
+    },
+    {
+        "title_fa": "نفت بالای ۱۰۰ دلار؛ در پی تشدید جنگ ایران",
+        "title_en": "Oil soars past $100 a barrel amid Iran war",
+        "summary": [
+            "صعود قیمت نفت به بالای ۱۰۰ دلار نشان‌دهنده تشدید تنش‌های نظامی در منطقه است؛ این شوک ژئوپلیتیک فشار خارجی بر تهران را افزایش می‌دهد اما تحریم‌ها و اختلال در صادرات مانع از تبدیل خودکار این قیمت به درآمد مؤثر برای رژیم می‌شوند.",
+            "نوسان شدید قیمت نفت می‌تواند هزینه واردات و تورم داخلی را بالا ببرد و ضعف مدیریت اقتصادی رژیم در کنترل چنین شوک‌هایی را برجسته کند؛ اثرات واقعی بر معیشت مردم سریع و ملموس خواهد بود.",
+            "در کوتاه‌مدت حکومت احتمالاً به اقدامات امنیتی و سرکوب متوسل می‌شود تا کنترل اوضاع را حفظ کند، اگرچه گزارش‌های قطعی از گسترش اعتراضات گسترده تا کنون تایید نشده است."
+        ],
+        "impact": "شوک قیمت نفت به‌سرعت فشار اقتصادی داخلی را افزایش می‌دهد و در عین حال به‌خاطر تحریم‌ها و اختلال در صادرات، توان رژیم برای تبدیل این شوک به ثبات سیاسی محدود خواهد بود.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/money/economy/oil-soars-past-100-a-barrel-amid-iran-war/ar-AA1XMKgH",
+        "clean_url": "https://www.msn.com/en-us/money/economy/oil-soars-past-100-a-barrel-amid-iran-war/ar-AA1XMKgH",
+        "image": null,
+        "timestamp": 1773018202.0
+    },
+    {
         "title_fa": "مجتبی خامنه‌ای کیست؛ رهبر جدید ایران در میانهٔ جنگ؟",
         "title_en": "Who is Mojtaba Khamenei, Iran’s new supreme leader amid war?",
         "summary": [
@@ -124,6 +160,42 @@
         "clean_url": "https://www.sfgate.com/news/article/photos-show-israel-after-iran-retaliated-with-21949908.php",
         "image": null,
         "timestamp": 1772996096.0
+    },
+    {
+        "title_fa": "ایران پسر علی خامنه‌ای را به‌عنوان رهبر جدید انتخاب کرد",
+        "title_en": "Iran selects Ayatollah Ali Khamenei's son as new supreme leader",
+        "summary": [
+            "مجمع خبرگان گزارش داده پس از کشته‌شدن علی خامنه‌ای در حمله مشترک آمریکا و اسرائیل، به «اجماع» برای تعیین رهبر جدید رسیده اما نام رهبر رسماً اعلام نشده و اختلافی فنی درباره تشکیل جلسه حضوری یا از راه دور مانع نهایی شدن فرایند شده است؛ محمدمهدی میرباقری و حیدری ألكاسیر این مسائل را اعلام کرده‌اند و نام مجتبی خامنه‌ای در گزارش‌ها و اظهارات دونالد ترامپ مطرح شده است.",
+            "اسرائیل انبارهای سوخت در تهران را بمباران کرده و آتش‌سوزی‌ها و انتشار مواد مخاطره‌آمیز را موجب شده؛ ایران به‌عنوان تلافی موشک‌هایی به بحرین، کویت و امارات شلیک کرده و طبق گزارش‌ها دسته‌های جدیدی از زیرساخت‌های غیرنظامی هدف قرار گرفته‌اند؛ درگیری‌ها در لبنان نیز تاکنون دست‌کم ۳۹۴ کشته و آوارگی گسترده برجا گذاشته است.",
+            "فشار نظامی خارجی فرایند جانشینی را پیچیده کرده و ضربه به زیرساخت‌های سوختی و غیرنظامی بُعد اقتصادی و مدیریت بحران را نمایان می‌سازد — نشان‌دهنده ضعف‌های ساختاری در مدیریت امنیت و تأمین خدمات حیاتی که می‌تواند نارضایتی عمومی و اختلال اداری را تشدید کند."
+        ],
+        "impact": "ترکیب کشته‌شدن رهبر، حملات متقابل و تضعیف زیرساخت‌های حیاتی فرایند جانشینی را به یک بحران امنیتی و سیاسی تبدیل کرده که ثبات ارکان حکومتی را به‌شکل ملموسی کاهش می‌دهد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/tehrans-deadly-dilemma-electing-successor-154625704.html",
+        "clean_url": "https://www.yahoo.com/news/articles/tehrans-deadly-dilemma-electing-successor-154625704.html",
+        "image": "http://www.bing.com/th?id=OVFT.mk0RE47G7KJHIhKLkgYiOi&pid=News",
+        "timestamp": 1772995860.0
+    },
+    {
+        "title_fa": "قیمت نفت خام از ۱۰۰ دلار فراتر رفت؛ جنگ ایران تولید و حمل‌ونقل را مختل کرده است",
+        "title_en": "Crude oil surpasses $100 a barrel as the Iran war impedes production and shipping",
+        "summary": [
+            "فشارهای ناشی از اختلال در صادرات نفت خلیج‌فارس و گرفتار شدن کشورهای تولیدکننده در جنگ، درآمدهای نفتی را کاهش می‌دهد و ساختار مالی رژیم را ضعیف می‌کند؛ این امر توان تامین ارز و پرداخت واردات حیاتی را تضعیف خواهد کرد.",
+            "افزایش قیمت بنزین و تنگ‌تر شدن عرضه سوخت، فشارهای تورمی و کاهش رفاه عمومی را تشدید می‌کند؛ ضعف در مدیریت عرضه و بودجه می‌تواند نارضایتی اجتماعی را افزایش دهد و ظرفیت حکومت برای مهار بحران را کاهش دهد.",
+            "کندی یا قطع خطوط حمل‌ونقل دریایی در خلیج‌فارس و تأثیر منازعه بر تولید، عرضه جهانی را محدود کرده و بازارها را در برابر نوسانات شدید قیمتی حساس‌تر می‌سازد؛ پیامد فوری افزایش هزینه سوخت و انرژی است."
+        ],
+        "impact": "تداوم اختلال در صادرات و جهش قیمت‌ها ساختار درآمدی و کارکرد دولت را تضعیف می‌کند و احتمال تشدید بحران‌های اقتصادی و سیاسی را بالا می‌برد.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "PennLive",
+        "url": "https://www.pennlive.com/business/2026/03/crude-oil-surpasses-100-a-barrel-as-the-iran-war-impedes-production-and-shipping.html",
+        "clean_url": "https://www.pennlive.com/business/2026/03/crude-oil-surpasses-100-a-barrel-as-the-iran-war-impedes-production-and-shipping.html",
+        "image": "http://www.bing.com/th?id=OVFT.fdUagnsiTRfOgSSPjjHIES&pid=News",
+        "timestamp": 1772992380.0
     },
     {
         "title_fa": "در هفته اول جنگ؛ کارزار نظامی شدید و بدون پایان‌نامه منسجم",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/05/iran-war-us-israel-live-updates/88986988007",
         "image": null,
         "timestamp": 1772700060.0
-    },
-    {
-        "title_fa": "صدها رزمنده کُرد عملیات زمینی در داخل ایران آغاز می‌کنند؛ مقام‌ها گزارش‌ها را تکذیب کردند",
-        "title_en": "Hundreds of Kurdish fighters launch ground offensive in Iran, officials deny reports",
-        "summary": [
-            "گزارش‌ها به نقل از منابع کردی و تأییدیه‌ای از سوی مقامات اسرائیلی و آمریکایی حاکی است که صدها رزمنده کُرد در نقاط مرزی ایران و عراق فعالیت‌های زمینی را آغاز کرده‌اند، در حالی که نهادهای ایرانی و نمایندگان کُرد عبور مرزی را رد می‌کنند.",
-            "عملیات فرامرزی و پاسخ‌های نظامی تهران—از جمله گزارش حمله موشکی سپاه به پایگاه‌های کُرد در عراق—و اظهارنظرهای واشنگتن نشان‌دهنده افزایش فشار منطقه‌ای و خارجی است که توان سیاسی و امنیتی رژیم را تحت فشار ساختاری قرار می‌دهد.",
-            "هدف اعلامی گروه‌های کُرد، پراکندن نیروهای امنیتی regime در مرزها برای کاهش فشار بر اعتراضات شهری است؛ این تاکتیک نشان‌دهنده مدیریت ناتوان و اتکای رژیم به ابزارهای نظامی به‌جای راه‌حل‌های سیاسی است."
-        ],
-        "impact": "این رخداد می‌تواند جبهه جدیدی علیه تهران باز کند و رژیم را به تقسیم نیرو و اقدامات تهاجمی فرامرزی وادارد که خطر تشدید بحران داخلی و بی‌ثباتی منطقه‌ای را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/hundreds-kurdish-fighters-launch-ground-233216970.html",
-        "clean_url": "https://www.yahoo.com/news/articles/hundreds-kurdish-fighters-launch-ground-233216970.html",
-        "image": "http://www.bing.com/th?id=OVFT.AUqtC6bHeS1upj2a6nPsDi&pid=News",
-        "timestamp": 1772698260.0
-    },
-    {
-        "title_fa": "ایران و یهودیان: اتحاد پیش از جنگ — بازخوانی NPR",
-        "title_en": "Iran and the Jewish people: An alliance before war : Throughline",
-        "summary": [
-            "پادکست NPR به بازخوانی تاریخی همزیستی و اتحاد بخش‌هایی از جامعه یهودی با نهادهای ایرانی پیش از تشدید خصومت‌ها می‌پردازد؛ نشان می‌دهد تنش کنونی نتیجه روایت‌سازی سیاسی نیست یک ضرورت تاریخی همیشگی.",
-            "این روایت تاریخی ضریب انتقادی به عملکرد حکومت کنونی اضافه می‌کند: تضعیف هم‌زیستی مدنی و سرکوب تنوع اجتماعی نشان‌دهنده شکست مدیریت داخلی و بحران مشروعیت است.",
-            "در صورت اشاره به فشارهای بین‌المللی و تحریم‌ها، این عوامل ساختار اقتصادی و سیاسی رژیم را تضعیف کرده و بازتوزیع منابع و توان مهار نارضایتی داخلی را مشکل‌تر می‌سازند؛ نتیجه، افزایش ریسک بی‌ثباتی سیاسی است."
-        ],
-        "impact": "بازخوانی روابط پیش از جنگ، روایت رسمی دشمنی دائمی را تضعیف و بستری فکری برای تقویت مخالفت مدنی و افشای ناکارآمدی‌های حکومتی فراهم می‌کند.",
-        "tag": "تحلیل",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/03/05/nx-s1-5734475/iran-and-the-jewish-people-an-alliance-before-war",
-        "clean_url": "https://www.npr.org/2026/03/05/nx-s1-5734475/iran-and-the-jewish-people-an-alliance-before-war",
-        "image": null,
-        "timestamp": 1772698200.0
-    },
-    {
-        "title_fa": "«نه به جنگ»: رهبر اسپانیا در برابر حملات هوایی ترامپ علیه ایران موضع خود را حفظ کرد",
-        "title_en": "'No to war': Spanish leader holds firm amid Trump's Iran airstrikes",
-        "summary": [
-            "بر اساس تیتر، رهبر اسپانیا با شعار «نه به جنگ» در واکنش به حملات هوایی اعلام‌شده توسط ترامپ علیه ایران موضع ضدجنگ خود را حفظ کرده.",
-            "متن کامل گزارش در ورودی ارائه نشده؛ تنها تیتر و پیام فنی سایت در دسترس است و جزئیات مربوط به گستره حملات، نتایج میدانی یا واکنش‌های رسمی ایران و دیگر بازیگران بین‌المللی در گزارش نیست.",
-            "این موضع اروپایی نشان می‌دهد که حتی برخی متحدان آمریکا نسبت به گزینه نظامی علیه ایران محتاط‌اند و بنابراین اجماع بین‌المللی برای تشدید جنگ با ایران محدود است."
-        ],
-        "impact": "در صورت ادامه یا تشدید حملات هوایی آمریکا، فشار خارجی ساختاری بر حاکمیت ایران افزایش یافته و می‌تواند ساختارهای اقتصادی و سیاسی رژیم را تضعیف کند؛ این فشار هم‌زمان خطر افزایش نارضایتی داخلی یا سرکوب بیشتر را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": 0.2,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/03/04/no-to-war-sanchez-spain-trump-iran/88985825007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/03/04/no-to-war-sanchez-spain-trump-iran/88985825007",
-        "image": null,
-        "timestamp": 1772698020.0
-    },
-    {
-        "title_fa": "حملات جدید ایران به اسرائیل و پایگاه‌های آمریکا؛ پاسخ‌های اسرائیل به لبنان ادامه دارد",
-        "title_en": "The Latest: New Iranian attacks target Israel and US bases as more Israeli strikes hit Lebanon",
-        "summary": [
-            "واشنگتن‌پست گزارش می‌دهد که حملات جدیدی از جانب ایران اهدافی در اسرائیل و پایگاه‌های آمریکا را نشانه گرفته‌اند.",
-            "هم‌زمان اسرائیل حملات خود به لبنان را افزایش داده و درگیری منطقه‌ای تشدید شده است.",
-            "خبر محدود به اعلام وقوع حملات است؛ منابع درباره تلفات یا اهداف دقیق گزارشی ارائه نکرده‌اند."
-        ],
-        "impact": "این تقابل نظامی مستقیم خطر تشدید فشارهای بین‌المللی و تضعیف بیشتر ثبات اقتصادی-سیاسی رژیم را افزایش می‌دهد و می‌تواند ظرفیت تحمل ساختارهای ضعیف حکمرانی را کم اثر سازد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlFQekxhZDRiUXpwNjdQR19MNm0xS2dwZWFRNEZhQk5KYUtZTGg5dWltZEhHUTJwUDlmLVpFaEdYUy1nSjhtZzc5cGhDTXIxejFrQ3hrYkdwSTk4ZHZUX1pCRW1GLThidGNtbWppYS05RmE3cnhMZlNZMUc3em1HVk1uY2tCaVFUcTFIMS04aU5Mck5oaDkzNWI1bEVMVEF3WXZoSVdualpfNkhaYkNmalY3elUzUFR0bjdGUFllTFdrV241elkxYmh5WjRZbE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlFQekxhZDRiUXpwNjdQR19MNm0xS2dwZWFRNEZhQk5KYUtZTGg5dWltZEhHUTJwUDlmLVpFaEdYUy1nSjhtZzc5cGhDTXIxejFrQ3hrYkdwSTk4ZHZUX1pCRW1GLThidGNtbWppYS05RmE3cnhMZlNZMUc3em1HVk1uY2tCaVFUcTFIMS04aU5Mck5oaDkzNWI1bEVMVEF3WXZoSVdualpfNkhaYkNmalY3elUzUFR0bjdGUFllTFdrV241elkxYmh5WjRZbE0",
-        "image": null,
-        "timestamp": 1772697750.0
     }
 ]
