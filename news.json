@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پس‌لرزه‌های مرگ علی خامنه‌ای و گسترش جنگ",
+        "title_en": "What Comes Next for Iran? | Michael Rubin on C-SPAN’s Ceasefire",
+        "summary": [
+            "مرگ علی خامنه‌ای در حملات آمریکا و اسرائیل و اعلام جانشینی موقت توسط شورایی متشکل از رئیس‌جمهور مسعود پزشکیان، رئیس قوه قضائیه و یک عضو شورای نگهبان، خلا رهبری آشکار و بحران مشروعیت ایجاد کرده و فرایند تصمیم‌گیری را تضعیف می‌کند.",
+            "تشدید درگیری‌ها: پاسخ‌های موشکی و پهپادی تهران علیه اسرائیل و کشورهای حامی آمریکا در خلیج، از جمله اصابت به زیرساخت‌های غیرنظامی و تلفات بیش از ۲۰۰ نفر در ایران و کشته‌شدن سه نظامی آمریکایی، خطر گسترش جنگ به سطح منطقه‌ای و اختلال در زنجیره‌های لجستیکی و نظامی را افزایش می‌دهد.",
+            "تبعات اقتصادی و فشار خارجی: جهش قیمت نفت بالای ۱۱۰ دلار، صعود طلا و نقره و عقب‌نشینی شاخص‌ها در آمریکا و آسیا همراه با احتمال آزادسازی ذخایر اضطراری گروه ۷، نشان می‌دهد حملات و فشار خارجی ساختار اقتصادی ایران را تضعیف کرده و سوءمدیریت داخلی نارضایتی معیشتی را تشدید خواهد کرد."
+        ],
+        "impact": "مرگ علی خامنه‌ای و حملات متقابل، مشروعیت و انسجام ساختاری رژیم را به‌شدت تضعیف کرده و هم‌زمان خطر فروپاشی کنترل محلی یا تشدید سرکوب دولتی را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Middle East Forum",
+        "url": "https://www.cnbc.com/2026/03/02/iran-israel-us-conflict-oil-jumps-trump-netanyahu-what-is-next.html",
+        "clean_url": "https://www.cnbc.com/2026/03/02/iran-israel-us-conflict-oil-jumps-trump-netanyahu-what-is-next.html",
+        "image": null,
+        "timestamp": 1773076829.0
+    },
+    {
         "title_fa": "ایران دگرگون شد",
         "title_en": "Iran transformed",
         "summary": [
@@ -70,6 +88,24 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/graham-urges-israel-to-rein-in-attacks-on-iran-fuel-infrastructure/ar-AA1XPWkj",
         "image": null,
         "timestamp": 1773067600.0
+    },
+    {
+        "title_fa": "جهش قیمت نفت بازارها را لرزاند؛ ایرانیان در انتخاب رهبر دچار تضاد نظر",
+        "title_en": "Live Updates: Oil Price Surge Rattles Markets; Iranians Appear Conflicted on Choice of Leader",
+        "summary": [
+            "جهش قیمت نفت و افت بورس‌ها نشان می‌دهد جنگ منطقه‌ای و اختلال در تأمین انرژی بار فشار خارجی و شوک اقتصادی را بر ایران و بازارهای جهانی افزایش داده که به تضعیف ساختار تصمیم‌گیری اقتصادی حکومت منجر می‌شود.",
+            "گزارش درباره تضاد نظر ایرانیان در انتخاب رهبر نشانه‌ای از تردید و نارضایتی عمومی و درون‌نخبگانی است که ممکن است ظرفیت حکمرانی را برای پاسخگویی به بحران‌های اقتصادی و امنیتی کاهش دهد.",
+            "افزایش تلفات و بیش از ۶۰۰ هزار آواره در لبنان نتیجه تشدید درگیری‌هاست؛ پیامدهای انسانی و بی‌ثباتی منطقه‌ای این جنگ به نوسان بیشتر قیمت انرژی و انتقال ریسک سیاسی به همسایگان منجر می‌شود."
+        ],
+        "impact": "ترکیب جنگ منطقه‌ای و شوک قیمتی نفت توان مدیریت اقتصادی حکومت را تضعیف می‌کند و شانس بروز فشار داخلی و بین‌المللی شدیدتر را بالا می‌برد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil",
+        "clean_url": "https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil",
+        "image": "https://static01.nyt.com/images/2026/03/28/multimedia/09iran-promo11am/28iran-photos-01-vmfq-facebookJumbo.jpg",
+        "timestamp": 1773066240.0
     },
     {
         "title_fa": "جنگ با ایران چگونه پایان می‌یابد؟",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.aol.com/articles/us-vows-surge-strikes-iran-130831153.html",
         "image": "http://www.bing.com/th?id=ONUT.vEwvAB4HcLIK3fO15ViJ6g&pid=News",
         "timestamp": 1772774640.0
-    },
-    {
-        "title_fa": "امارات بررسی مسدودسازی دارایی‌های ایران را در بحبوحه تشدید درگیری‌های خاورمیانه مطرح می‌کند: وال‌استریت ژورنال",
-        "title_en": "UAE mulls freezing Iranian assets as Middle East conflict escalates: WSJ",
-        "summary": [
-            "وال‌استریت ژورنال گزارش می‌دهد که امارات در حال بررسی مسدودسازی دارایی‌های ایران است؛ این تصمیم در پی تشدید درگیری‌ها در منطقه و به‌عنوان فشاری مالی از سوی یک بازیگر منطقه‌ای مطرح شده است.",
-            "مسدودسازی دارایی‌ها ساختار مالی رژیم را هدف می‌گیرد: کاهش دسترسی به ذخایر ارزی و نقدینگی، دشوارتر شدن تأمین مالی واردات و محدود کردن ظرفیت پرداخت به مؤسسات امنیتی و شبکه‌های مشتری‌سالار که ستون‌های حمایتی حکومت را تشکیل می‌دهند.",
-            "تشدید این فشار مالی می‌تواند شرایط اقتصادی داخلی را بدتر کند و زمینه افزایش فشارهای معیشتی، ناپایداری ارزی و تشدید نارضایتی عمومی را فراهم سازد؛ نشانه‌ای از شکست مدیریت حکومتی در اداره اقتصاد است."
-        ],
-        "impact": "مسدود شدن دارایی‌ها در امارات خطر تشدید بحران نقدینگی و تضعیف توان مالی رژیم برای حفظ ساختارهای امنیتی و توزیع‌های clientelist را افزایش می‌دهد، که می‌تواند موج‌های جدیدی از نارضایتی داخلی را برانگیزد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzlzRDBXWTRRWTdZcExmcFphaG9zSi03SThFbElsMmI4QWdQUFZ5QWxqeFhYRDUtZ1N3VU9GZ1h0Q0J4V1FfNjlXcVFBYjBvNDU3ekkxVXptZFVPVDB1MXk0ZHZqR01JdmYtMDNQX0pTRDA0em1BUmJGckN4Uno2UHY5SzMtZWdoOHNHRHd4N25pVXBFa0hsUWk5MkFlWmlUbmxHTzVybE5TRUcxZXfSAbMBQVVfeXFMTy1TWG8wTXlMZks3b3hFbFBvNjlFUU1RVHNCSmRsdGtYV2tXdTV2aFB6YlNHZU9KUURpNXpUMS1TUVdNWjlqek9ySG9xMUFpYVByc2tVSFFtQlFzTzc2WTAtVmE5WDNrcXgtNGJtTkg5djluQ0Q4VTBqM0hnaU03NjBONWJMRVhuVmlDbG44YXhrRWN1WG5ldHlKRXRDNmVuWUFYNjJPMWI3Smc5S2o4d1MzYjg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTzlzRDBXWTRRWTdZcExmcFphaG9zSi03SThFbElsMmI4QWdQUFZ5QWxqeFhYRDUtZ1N3VU9GZ1h0Q0J4V1FfNjlXcVFBYjBvNDU3ekkxVXptZFVPVDB1MXk0ZHZqR01JdmYtMDNQX0pTRDA0em1BUmJGckN4Uno2UHY5SzMtZWdoOHNHRHd4N25pVXBFa0hsUWk5MkFlWmlUbmxHTzVybE5TRUcxZXfSAbMBQVVfeXFMTy1TWG8wTXlMZks3b3hFbFBvNjlFUU1RVHNCSmRsdGtYV2tXdTV2aFB6YlNHZU9KUURpNXpUMS1TUVdNWjlqek9ySG9xMUFpYVByc2tVSFFtQlFzTzc2WTAtVmE5WDNrcXgtNGJtTkg5djluQ0Q4VTBqM0hnaU03NjBONWJMRVhuVmlDbG44YXhrRWN1WG5ldHlKRXRDNmVuWUFYNjJPMWI3Smc5S2o4d1MzYjg",
-        "image": null,
-        "timestamp": 1772773430.0
-    },
-    {
-        "title_fa": "تشدید حملات شبه‌نظامیان حامی ایران علیه آمریکا، اسرائیل و متحدان",
-        "title_en": "Iran-backed militias intensify attacks against US, Israel and allies",
-        "summary": [
-            "عملیات نظامی مشترک آمریکا و اسرائیل علیه شبکه نیابتی تهران، به‌جای منزوی‌کردن آن، موجب تشدید حملات متقابل شبه‌نظامیان در عراق، جنوب و غرب منطقه شده و میدان نبرد را گسترش داده است؛ هدف‌گیری پایگاه‌ها و زیرساخت‌های مخالفان کرد در شمال عراق نشان‌دهنده گسترش تاکتیک‌های تهاجمی فراتر از درگیری‌های کلاسیک است.",
-            "شبه‌نظامیان عراقی که از بدنه اکثریت شیعه جذب می‌شوند و گفته می‌شود از خطوط فرمانی نیروی قدس تبعیت می‌کنند، نقش محوری پیدا کرده‌اند و ناتوانی دولت عراق در کنترل یا خنثی‌سازی این بازیگران، ضعف حاکمیتی روشن و خطر تبدیل شدن عراق به خط مقدم یک منازعه فرامرزی را نمایان کرده است.",
-            "اقدامات تهاجمی آمریکا و اسرائیل برای کاهش توانمندی این گروه‌ها (ضربات هوایی و عملیات نیروهای ویژه) می‌تواند فشار ساختاری بر شبکه‌های نیابتی تهران وارد کند اما در کوتاه‌مدت احتمال پاسخ‌های تلافی‌جویانه، افزایش هزینه‌های نظامی برای ایران و پیچیده‌تر شدن امنیت منطقه را بالا می‌برد."
-        ],
-        "impact": "این الگوی بازگشت ضربه و تلافی‌جویی شبه‌نظامیان، خطر گسترش درگیری فرامرزی و تبدیل عراق به میدان نبردی پایدار را افزایش می‌دهد که می‌تواند به پریشانی امنیتی گسترده در خاورمیانه منجر شود.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/mar/06/iran-backed-militias-iraq-attacks-us-israel",
-        "clean_url": "https://www.theguardian.com/world/2026/mar/06/iran-backed-militias-iraq-attacks-us-israel",
-        "image": null,
-        "timestamp": 1772773200.0
     }
 ]
