@@ -72,6 +72,24 @@
         "timestamp": 1773046916.0
     },
     {
+        "title_fa": "جنگ ایران به روایت نقشه‌ها و نمودارها",
+        "title_en": "The Iran war in maps and charts",
+        "summary": [
+            "عنوان نشان می‌دهد مقاله تصویری و داده‌محور است و با استفاده از نقشه‌ها و نمودارها خطوط نبرد، گستره جغرافیایی درگیری و روندهای کلیدی مرتبط با «جنگ ایران» را ترسیم می‌کند؛ بدون متن کامل نمی‌توان جزئیات را تأیید کرد.",
+            "در صورت وجود بخش‌هایی درباره تحریم‌ها یا فشار خارجی، این نمودارها باید بر تضعیف ساختاری اقتصاد و توان لجستیکی رژیم و پیامدهای سیاسی داخلی و اقتصادی ناشی از این فشارها دلالت کنند؛ هر تحلیل باید به شواهد درون‌مقاله متکی باشد.",
+            "هر ادعایی درباره اعتراضات داخلی، ناکارآمدی حکمرانی یا سقوط اقتصادی باید بر داده‌های نقشه‌ای و آماری مقاله استوار باشد؛ غیاب متن کامل اجازه نمی‌دهد روابط علّی یا آمار خاصی را فراتر از آنچه عنوان نشان می‌دهد معتبر بدانیم."
+        ],
+        "impact": "یک مروری تصویری می‌تواند نقاط ضعف لجستیکی و تغییرات جغرافیایی در میدان درگیری را برای ناظران و تصمیم‌گیرندگان روشن کند و بنابراین در ارزیابی ثبات رژیم و پیامدهای استراتژیک اهمیت دارد.",
+        "tag": "نقشه‌ها",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Economist",
+        "url": "https://www.economist.com/interactive/2026-iran-war-tracker",
+        "clean_url": "https://www.economist.com/interactive/2026-iran-war-tracker",
+        "image": null,
+        "timestamp": 1773046722.0
+    },
+    {
         "title_fa": "ایران: رهبران اتحادیه اروپا برای نشست آماده می‌شوند؛ قیمت نفت در سایه جنگ جهش یافت",
         "title_en": "Iran: EU leaders set for meeting, oil prices soar amid war",
         "summary": [
@@ -178,6 +196,42 @@
         "clean_url": "https://www.bostonglobe.com/2026/03/09/world/iran-war-where-things-stand",
         "image": null,
         "timestamp": 1773029747.0
+    },
+    {
+        "title_fa": "مجتبی خامنه‌ای به عنوان رهبر عالی منصوب شد؛ نفت از ۱۰۰ دلار عبور کرد و حملات خارجی شدت گرفت",
+        "title_en": "Iran names Khamenei’s son supreme leader as oil price soars past $100 a barrel",
+        "summary": [
+            "انتخاب رهبر: مجتبی خامنه‌ای توسط مجلس خبرگان به عنوان رهبر عالی اعلام شد پس از کشته شدن علی خامنه‌ای در حملات آمریکا و اسرائیل در ۲۸ فوریه؛ در آن حمله چندین خویشاوند نیز کشته شدند و همسر علی خامنه‌ای بعدها بر اثر جراحات فوت کرد. مجتبی هرگز به مرتبه مجتهد نرسید اما رابطه نزدیک با سپاه پاسداران و شبکه‌های اقتصادی رژیم دارد.",
+            "فشار خارجی و بازارها: ادامه حملات هوایی که صدای انفجارها در تهران و عملیات در خلیج را به همراه داشت، بلافاصله بازارها را تکان داد — نفت به بالای ۱۰۰ دلار رسید و بازارهای آسیایی ریزش کردند؛ صندوق بین‌المللی پول درباره پیامدهای تورمی هشدار داد. حذف رهبری ارشد نظام ساختار سیاسی را تضعیف می‌کند اما انتصاب مجتبی با پیوندهای سپاهی می‌تواند از فروپاشی کامل ماشین نظامی-اقتصادی جلوگیری کند، در عین حال انزوای بین‌المللی و ریسک تشدید نظامی را افزایش می‌دهد.",
+            "اقتصاد داخلی و ظرفیت حکمرانی: جهش قیمت نفت همراه با اختلالات نظامی، ریسک‌های تورمی و بلاتکلیفی اقتصادی را تشدید می‌کند؛ وابستگی رژیم به شبکه‌های اقتصادی بسته نشان‌دهنده سوءمدیریت ساختاری است. گزارش‌ها از تظاهرات سراسری مستند نشده‌اند اما کاهش مشروعیت رهبر جدید و فشار معیشتی احتمال تشدید نارضایتی عمومی را بالا می‌برد."
+        ],
+        "impact": "در کوتاه‌مدت انتصاب مجتبی خامنه‌ای ادامه حضور نخبگان کنونی را تضمین می‌کند اما ترکیب حذف رهبری، فشار نظامی خارجی و شوک‌های اقتصادی ثبات سیاسی و اقتصادی رژیم را به‌سرعت تضعیف خواهد کرد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.85,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-09-26",
+        "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-09-26",
+        "image": null,
+        "timestamp": 1773029340.0
+    },
+    {
+        "title_fa": "انتصاب مجتبی خامنه‌ای و تمرکز نظام بر حرفه‌‌ای‌های سفیدپوش؛ پیامدهای سیاسی و اقتصادی",
+        "title_en": "Iran's new supreme leader and the AI threat to white-collar jobs: Morning Rundown",
+        "summary": [
+            "مجتبی خامنه‌ای، فرزند فردی که پیشتر سمت عالی در نظام داشت و کشته شده بود، به عنوان جانشین او منصوب شد — نشانه‌ای از تمرکز قدرت خانوادگی که می‌تواند اجماع نخبگانی را تضعیف کند.",
+            "سیاستمداران اکنون بیش از پیش روی طبقه حرفه‌ایِ سفیدپوش متمرکز شده‌اند چرا که پیشرفت‌های هوش مصنوعی تهدیدی واقعی برای مشاغل آنان ایجاد می‌کند؛ این واکنش حکومتی می‌تواند تلاش برای کنترل، هم‌جهت‌سازی یا حذف منتقدان فنی-اقتصادی را تشدید کند.",
+            "اگر فشارها و تحریم‌های خارجی ادامه یابد، بار اقتصادی و تضعیف منابع توزیع پاداش سیاسی، توانایی رژیم در مدیریت پیامدهای جانشینی و خشم اجتماعی را کاهش می‌دهد — وگرنه هزینه‌های سیاسی داخلی نیز از طریق مدیریت ناکافی فناوری و اقتصاد افزایش خواهد یافت."
+        ],
+        "impact": "ترکیب جانشینی خانوادگی و هدف‌گیری حرفه‌ای‌های آسیب‌پذیر در برابر هوش مصنوعی ثبات سیاسی را تضعیف و پایه‌های مشروعیت رژیم را به سرعت فرسوده خواهد کرد.",
+        "tag": "جانشینی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/us-news/iran-new-supreme-leader-ai-threatens-white-collar-jobs-morning-rundown-rcna262287",
+        "clean_url": "https://www.nbcnews.com/news/us-news/iran-new-supreme-leader-ai-threatens-white-collar-jobs-morning-rundown-rcna262287",
+        "image": null,
+        "timestamp": 1773028860.0
     },
     {
         "title_fa": "چرا تشدید تنش به نفع ایران است",
@@ -682,6 +736,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/tehrans-deadly-dilemma-electing-successor-154625704.html",
         "image": "http://www.bing.com/th?id=OVFT.mk0RE47G7KJHIhKLkgYiOi&pid=News",
         "timestamp": 1772995860.0
+    },
+    {
+        "title_fa": "هگسته درباره حملات به ایران: «این تازه آغاز است»",
+        "title_en": "On Iran strikes, Hegseth says, \"This is only just the beginning\"",
+        "summary": [
+            "در آغاز هفته دوم درگیری‌ها، وزیر دفاع آمریکا پیت هگسته گفت حملات علیه ایران «فقط تازه شروع شده» و وضعیت کارزار نظامی ایالات متحده را تشریح کرد.",
+            "هگسته درباره معنای درخواست رئیس‌جمهور دونالد ترامپ برای «تسلیم بی‌قید و شرط» ایران توضیح داد و آن را با تداوم و تشدید عملیات نظامی مرتبط دانست.",
+            "ادامه و تشدید حملات به‌عنوان فشار خارجی، ساختار قدرت داخلی ایران را هدف می‌گیرد؛ بدون مدرک صریح از اعتراضات جدید، اما هرگونه استمرار درگیری می‌تواند اقتصاد را متزلزل کرده و نارضایتی عمومی را تشدید کند."
+        ],
+        "impact": "کارزار نظامی مستمر و خواستِ تسلیمِ بی‌قید و شرط، فشار خارجی مستقیم بر رژیم را تشدید کرده و در صورت ادامه، ظرفیت بقا و مشروعیت حکومت را از منظر اقتصادی و سیاسی تضعیف خواهد کرد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/on-iran-strikes-hegseth-says-this-is-only-just-the-beginning/ar-AA1XMEMp",
+        "clean_url": "https://www.msn.com/en-us/news/world/on-iran-strikes-hegseth-says-this-is-only-just-the-beginning/ar-AA1XMEMp",
+        "image": "http://www.bing.com/th?id=OVFT.p4XzdDsS2i5iI6O-9Grxei&pid=News",
+        "timestamp": 1772994631.0
     },
     {
         "title_fa": "قیمت نفت خام از ۱۰۰ دلار فراتر رفت؛ جنگ ایران تولید و حمل‌ونقل را مختل کرده است",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/trump-urges-iranian-kurds-attack-iran-war-widens-2026-03-06",
         "image": "http://www.bing.com/th?id=OVFT.8SczCFNIZhrZMWJhrIIony&pid=News",
         "timestamp": 1772736780.0
-    },
-    {
-        "title_fa": "اسرائیل و حزب‌الله ضرباتی رد و بدل می‌کنند؛ درگیری مرتبط با ایران گسترش یافته است",
-        "title_en": "Israel and Hezbollah Trade Blows as Iran Conflict Widens",
-        "summary": [
-            "مواجهه مستقیم نظامی بین اسرائیل و حزب‌الله گزارش شده و تبادل حملات خطوط درگیری را تشدید می‌کند.",
-            "تیتر نشان می‌دهد که دامنه مناقشه فراتر رفته و به محور مرتبط با ایران کشیده شده که خطر گسترش منطقه‌ای را افزایش می‌دهد.",
-            "گزارش اشاره مستقیم به وضعیت داخلی یا اقتصادی ایران ندارد؛ با این حال، گسترش نظامی معمولاً فشارهای خارجی را بالا برده و ریسک تضعیف سیاسی و اجتماعی را افزایش می‌دهد."
-        ],
-        "impact": "تشدید درگیری میان اسرائیل و حزب‌الله که به عرصه مرتبط با ایران کشیده شده، احتمال افزایش فشار بین‌المللی و آسیب‌پذیری ساختارهای امنیتی و سیاسی رژیم را به‌طور قابل‌توجهی بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkpIN203WXFqNlluTWo5aXFxUmdydVVRUEJuT3JxTFo2cmZVODQ0S2pVY3ROWGVLNEsyU01kYU0tWmxyNUdHUDJTWVIzM1pUVktkM3dxTkZxYUg2THB5OUZFQWZ0VWxQYVFmQW1rMXgwRTFpMWZQQmhwMC1La01YUWtaWTdzSVVxbzdhWDh5Uk1Ddw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZkpIN203WXFqNlluTWo5aXFxUmdydVVRUEJuT3JxTFo2cmZVODQ0S2pVY3ROWGVLNEsyU01kYU0tWmxyNUdHUDJTWVIzM1pUVktkM3dxTkZxYUg2THB5OUZFQWZ0VWxQYVFmQW1rMXgwRTFpMWZQQmhwMC1La01YUWtaWTdzSVVxbzdhWDh5Uk1Ddw",
-        "image": null,
-        "timestamp": 1772733168.0
-    },
-    {
-        "title_fa": "آشفتگی عاطفی ایرانیان هنگام مشاهده درگیری‌های خارج از کشور",
-        "title_en": "Emotional turmoil grips Iranians watching conflict unfold overseas",
-        "summary": [
-            "الجزیره گزارش می‌دهد که شمار قابل‌توجهی از ایرانیان هنگام دنبال‌کردن درگیری‌های خارجی دچار آشفتگی عاطفی شده‌اند؛ گزارش رقم یا گستره دقیق این پدیده را مشخص نمی‌کند.",
-            "خبر به نقش تحریم‌ها یا فشار خارجی اشاره‌ای ندارد؛ بنابراین از این منبع نمی‌توان نتیجه‌گیری مستقیم درباره تضعیف ساختاری ثبات سیاسی یا اثرات اقتصادی تحریم‌ها استخراج کرد.",
-            "این موج عاطفی می‌تواند به تشدید بی‌اعتمادی عمومی نسبت به روایت رسمی و افزایش فشار روانی-اجتماعی روی شهروندان و رسانه‌ها بینجامد، هرچند گزارش هیچ نشانه‌ای از تبدیل آن به ناآرامی جمعی یا بحران اقتصادی فوری ارائه نکرده است."
-        ],
-        "impact": "افزایش اضطراب عمومی احتمالاً فشار بر روایت رسمی و فضای سیاسی داخلی را تشدید می‌کند، اما منبع گزارش شواهدی از تشدید فوری بی‌ثباتی یا اثرات مستقیم تحریم‌ها ارائه نکرده است.",
-        "tag": "اضطراب",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGVIS3ctanp3OEZzQXRPVVNiVzdpNzBGb2ZqY2JLaWhSd1Z1Zk1Ea0lKRVhFSVN3dC1qMl9Rc2RZOUFURlRRS2RCQm9xUXM5dnA0cVI1enEzQ0dpV0gyNENFT29ZNUFVXzRQaXo2OEFPRG4yVWVDdmFiSGpPRGMyY3ZHN2wxQ04zUWs0NkwtaUNCU3c1RnNXSmhpY193NU81MUthZDVsZjFaZ9IBrwFBVV95cUxQRXZiZy1MRVVqSm1ERl9vQmlHVDdDR0cyUjFKdjFHUzNiRU4xM29aV2hpRnZ3UHRIa2JOamthQTM2Q1o3aTh3R1dkTjNZeTFkUGpOYXZCYmxINHBiVllmUElGak15Z1FYblhJSFM2Y3oxVnVjWGxwWV9DQ0xmR1BicE9mQXRaSVJENU9TWUFCQVFWVmlkZDIwYkdnYlM5N1ZLTzhfYTlHNkFXZ3ViT2Fv?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUGVIS3ctanp3OEZzQXRPVVNiVzdpNzBGb2ZqY2JLaWhSd1Z1Zk1Ea0lKRVhFSVN3dC1qMl9Rc2RZOUFURlRRS2RCQm9xUXM5dnA0cVI1enEzQ0dpV0gyNENFT29ZNUFVXzRQaXo2OEFPRG4yVWVDdmFiSGpPRGMyY3ZHN2wxQ04zUWs0NkwtaUNCU3c1RnNXSmhpY193NU81MUthZDVsZjFaZ9IBrwFBVV95cUxQRXZiZy1MRVVqSm1ERl9vQmlHVDdDR0cyUjFKdjFHUzNiRU4xM29aV2hpRnZ3UHRIa2JOamthQTM2Q1o3aTh3R1dkTjNZeTFkUGpOYXZCYmxINHBiVllmUElGak15Z1FYblhJSFM2Y3oxVnVjWGxwWV9DQ0xmR1BicE9mQXRaSVJENU9TWUFCQVFWVmlkZDIwYkdnYlM5N1ZLTzhfYTlHNkFXZ3ViT2Fv",
-        "image": null,
-        "timestamp": 1772731012.0
-    },
-    {
-        "title_fa": "شکست قطعنامه محدودسازی اختیارات جنگی در مجلس نمایندگان آمریکا",
-        "title_en": "Iran war powers resolution defeated in House",
-        "summary": [
-            "مجلس نمایندگان به قطعنامه غیرالزام‌آور توماس مسی برای محدود کردن عملیات نظامی آمریکا در برابر ایران رأی منفی داد (۲۱۲–۲۱۹)، در پی مسدود شدن اقدام مشابه در سنای ایالات‌متحده؛ آرای حزبی غالب بود و اکثریت جمهوری‌خواهان برای دادن «فضای مانور» به رئیس‌جمهور رأی منفی دادند.",
-            "قطعنامه ماهیت نمادین داشت و حتی در صورت تصویب الزام اجرایی نداشت؛ تبادل اطلاعات طبقه‌بندی‌شده و اشاره به کشته‌شدن شش نظامی آمریکایی در حمله ایران به پایگاهی در کویت، بستر بحث‌های نمایندگان را تشکیل داد و برخی نمایندگان گفتند پیش از رأی‌گیری باید اطلاعات را دید.",
-            "همزمان مجلس قطعنامه‌ای را با اکثریت گسترده برای تأیید قرار گرفتن ایران در فهرست حامیان تروریسم تصویب کرد؛ مقاله به تحریم‌ها یا فشارهای بلندمدت اقتصادی اشاره‌ای ندارد و هیچ اشاره‌ای به نقش روسیه/چین/کره‌شمالی وجود ندارد."
-        ],
-        "impact": "این شکست سیاسی مانع از ثبت رسمی خواست مجلس برای محدودسازی عملیات نظامی شد و عملاً به دولت آمریکا فضای عمل بیشتری در قبال ایران می‌دهد، در حالی که شکاف حزبی نشان‌دهنده ضعف اجماع قانونی برای محدودکردن مداخله نظامی است.",
-        "tag": "جنگ",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Roll Call",
-        "url": "https://rollcall.com/2026/03/05/iran-war-powers-resolution-defeated-in-house/",
-        "clean_url": "https://rollcall.com/2026/03/05/iran-war-powers-resolution-defeated-in-house",
-        "image": "http://www.bing.com/th?id=OVFT.WcSB6x1OmeFglGTwUHCSny&pid=News",
-        "timestamp": 1772729940.0
-    },
-    {
-        "title_fa": "با تضعیف تهدید موشکی، ایران شلیک‌های کمتر اما به اهداف بیشتر انجام می‌دهد",
-        "title_en": "Its missile threat degraded, Iran is taking fewer shots at more targets",
-        "summary": [
-            "گزارش می‌گوید توان تهران در بهره‌برداری از سلاح‌های قدرتمند راهبردی کاهش یافته و در نتیجه رژیم به حملات پهپادی و ابزارهای کم‌هزینه‌تر برای گسترش جنگ متوسل شده است.",
-            "این تغییر تاکتیکی به جای تمرکز بر حملات قدرتمند و محدود، افزایش تعداد حملات و تنوع اهداف را هدف قرار می‌دهد تا اثر بازدارندگی بدون هزینه‌های بالا حفظ شود.",
-            "ضعف نسبی تهدید موشکی ـ که ممکن است ناشی از فشار خارجی، هدف‌گیری دارایی‌ها یا محدودیت‌های تدارکاتی باشد ـ نمایانگر تضعیف ساختاری قدرت نظامی است و می‌تواند اثرات اقتصادی و سیاسی داخلی از جمله تشدید نارضایتی عمومی و نشانگان مدیریت ناکارآمد را برجسته کند."
-        ],
-        "impact": "این تحول نشان می‌دهد که ظرفیت‌های راهبردی کاهش یافته و رژیم برای حفظ توان تهدیدآمیز به رویه‌های نامتقارن و ارزان‌قیمت متوسل شده که ریسک گسترش آسیب‌پذیری منطقه‌ای و فشار داخلی را بالا می‌برد.",
-        "tag": "پهپاد",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/world/its-missile-threat-degraded-iran-is-taking-fewer-shots-at-more-targets/ar-AA1XCl3f",
-        "clean_url": "https://www.msn.com/en-us/news/world/its-missile-threat-degraded-iran-is-taking-fewer-shots-at-more-targets/ar-AA1XCl3f",
-        "image": null,
-        "timestamp": 1772726400.0
     }
 ]
