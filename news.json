@@ -72,6 +72,24 @@
         "timestamp": 1773118817.0
     },
     {
+        "title_fa": "جنگ با ایران بحران نفتی را عمیق‌تر کرد در حالی که ترامپ پیام‌های متناقض درباره زمان‌بندی می‌دهد",
+        "title_en": "War with Iran deepens oil crisis as Trump gives mixed messages on timeline",
+        "summary": [
+            "گزارش‌ها از موج‌های سنگین حملات هوایی در تهران حکایت دارد و مقام‌های ایرانی اعلام کرده‌اند که برای جنگی طولانی آماده‌اند؛ در مقابل دونالد ترامپ پیام‌های متناقضی درباره زمان پایان درگیری ارسال کرده است.",
+            "این مناقشه بزرگ‌ترین اختلال نفتی تاریخ را ایجاد کرده است: تهدیدها به امنیت عبور از تنگه هرمز و هشدارهای دوطرفه درباره آن جریان نفت و درآمدهای صادراتی را مختل کرده و ریسک فشار اقتصادی بر تهران را افزایش می‌دهد.",
+            "تیم فوتبال زنان ایران که در جام ملت‌های آسیا حضور داشت، در استرالیا عملاً گیر افتاده است؛ چند بازیکن و یک مربی درخواست پناهندگی یا دریافت ویزای بشردوستانه کرده‌اند از آنجا که بیم تعقیب یا مجازات به‌دلیل نخواندن سرود ملی دارند."
+        ],
+        "impact": "تشدید جنگ و اختلال نفتی ساختار درآمدی و مشروعیت داخلی رژیم را تضعیف کرده و شانس بروز بحران سیاسی-اقتصادی گسترده در داخل ایران را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.85,
+        "source": "CNN",
+        "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-10-26",
+        "clean_url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-10-26",
+        "image": null,
+        "timestamp": 1773115800.0
+    },
+    {
         "title_fa": "گزارش ویژه عصر: 9 مارس 2026 — تشدید جنگ و اعلام رهبر جدید از سوی رسانه‌های دولتی",
         "title_en": "Iran Update Evening Special Report: March 9, 2026",
         "summary": [
@@ -574,6 +592,24 @@
         "clean_url": "https://www.kunm.org/npr-news/2026-03-01/photos-u-s-israeli-strikes-in-iran-and-reactions-from-around-the-world",
         "image": null,
         "timestamp": 1773076123.0
+    },
+    {
+        "title_fa": "آمریکا و اسرائیل با ایران وارد جنگ شدند، اما امارات هزینه‌اش را می‌پردازد — چرا",
+        "title_en": "The US and Israel went to war with Iran, but the UAE is paying the price. Here’s why",
+        "summary": [
+            "فشار نظامی مستقیم آمریکا و اسرائیل علیه ایران و پاسخ موشکی-پهپادی تهران ساختار سیاسی-اقتصادی رژیم را تحت فشار قرار می‌دهد؛ منابع به مصرف عملیات نظامی می‌روند و توان اقتصادی داخلی برای پاسخ به شوک‌های جنگی کاهش می‌یابد.",
+            "امارات بیش از هر کشور دیگری هدف گرفته شده: بیش از ۱۷۰۰ موشک و پهپاد به سمت این کشور شلیک شده که وزارت دفاع امارات می‌گوید بیش از ۹۰٪ آنها سرنگون شده‌اند؛ چند حمله به مناطق شهری اصابت کرده و چهار غیرنظامی کشته شده‌اند.",
+            "هدف‌گیری دوبی به خاطر نقش محوری آن در اقتصاد جهانی است؛ تهران حملات علیه مراکز اقتصادی و زیرساخت‌های امارات را ابزاری برای وارد آوردن ضربه روانی و اقتصادی به غرب و اختلال در جریان خروج اتباع و سرمایه‌ها می‌داند — امارات پیشتر به عنوان راه تنفس اقتصادی تهران در دوره تحریم‌ها عمل می‌کرد."
+        ],
+        "impact": "ادامه درگیری نظامی و هدف‌گیری مراکز اقتصادی منطقه‌ای ثبات رژیم ایران را تضعیف کرده و اقتصاد داخلی را به سمت بحران و نارضایتی عمومی بیشتر سوق می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/03/10/middleeast/us-israel-war-iran-uae-cost-intl",
+        "clean_url": "https://www.cnn.com/2026/03/10/middleeast/us-israel-war-iran-uae-cost-intl",
+        "image": null,
+        "timestamp": 1773075600.0
     },
     {
         "title_fa": "ترامپ: ایران به موشک‌های تاماهاوک دسترسی دارد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news24online.com/world/i-us-israel-attack-on-iran-live-updates-sate-emergency-across-middle-east-explosions-gulf-countries-abu-dhabi-dubai-tel-aviv-strike-in-tehran-ali-khamenei-death-benjamin-netanyahu-donald-trump-latest/767455",
         "image": "http://www.bing.com/th?id=OVFT.ESx2mlEnveZg7WffPoZQKi&pid=News",
         "timestamp": 1772826840.0
-    },
-    {
-        "title_fa": "ترکیه دو منافع کلیدی در منازعه با ایران دارد",
-        "title_en": "Turkey Has Two Key Interests in the Iran Conflict",
-        "summary": [
-            "عنوان مقاله ادعا می‌کند ترکیه دو منافع محوری در مناقشه ایران دارد؛ متن کامل در این منبع موجود نیست و جزئیات صریحی برای تایید ارائه نشده است.",
-            "تحمیل فشارهای بین‌المللی و تحریم‌ها ساختار اقتصادی و سیاسی رژیم ایران را تضعیف می‌کند و این تضعیف بخشی از محاسبات امنیتی و اقتصادی ترکیه در مرزها و تجارت با ایران را بازتنظیم می‌کند.",
-            "پی‌آمدهای داخلی: تشدید بحران اقتصادی و سرکوب سیاسی در ایران می‌تواند نارضایتی عمومی را افزایش دهد و متغیرهای منطقه‌ای را تغییر دهد — ترکیه در مقام همسایه راهبردی برای جلوگیری از گسترش بی‌ثباتی و حفظ منافع تجارت و نفوذ عمل خواهد کرد."
-        ],
-        "impact": "رفتار و مداخله ترکیه در این منازعه می‌تواند توازن ثبات منطقه‌ای و مسیرهای اقتصادی میان ایران و همسایگان را تعیین کند.",
-        "tag": "ترکیه",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Carnegie Endowment for International Peace",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZzRrWFh5Z1JJZmhYUnpBZFB0elU4dWQ5LVNVYjVhdm9BR1VJaXlXRmd2YzFPNVZXYUhpOTdVNEVhYlRGdDZKckx5dkZhdk9TTTFmZVU3d2dRWHVSYy1fcUZTR0hiVElMX0VvcUlxNEwzSDhzcl9oVmZLMFZXUVlQa0JZZXhrb2tGYXExQldXWmdzdUdYdlBocWY5UENGenc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZzRrWFh5Z1JJZmhYUnpBZFB0elU4dWQ5LVNVYjVhdm9BR1VJaXlXRmd2YzFPNVZXYUhpOTdVNEVhYlRGdDZKckx5dkZhdk9TTTFmZVU3d2dRWHVSYy1fcUZTR0hiVElMX0VvcUlxNEwzSDhzcl9oVmZLMFZXUVlQa0JZZXhrb2tGYXExQldXWmdzdUdYdlBocWY5UENGenc",
-        "image": null,
-        "timestamp": 1772825400.0
-    },
-    {
-        "title_fa": "نقشه‌برداری کشورهایی که در جنگ آمریکا-اسرائیل با ایران دخیل هستند",
-        "title_en": "Mapping countries involved in the U.S.-Israel war with Iran",
-        "summary": [
-            "متن مقاله در دسترس نیست و امکان بررسی فهرست کشورهای دخیل وجود ندارد؛ عنوان نشان می‌دهد که مقاله قصد دارد بازیگران بین‌المللی در تقابل آمریکا و اسرائیل با ایران را ترسیم کند، اما بدون متن نمی‌توان اطلاعات مشخص یا پیوندهای مستقیم را تأیید کرد.",
-            "در صورت روشن‌شدن نقش بازیگران خارجی، فشارها و تحریم‌های فرامرزی می‌تواند ساختار سیاسی و مالی رژیم را تضعیف کند — کاهش درآمد ارزی، افزایش هزینه‌های نظامی، و تشدید شکاف‌های درونی که به فروپاشی توان حکمرانی می‌انجامد.",
-            "هر گونه تشدید مداخله خارجی و نظامی به‌طور مستقیم عوامل نارضایتی داخلی را تقویت می‌کند؛ سوءمدیریت اقتصادی و سیاسی که هم‌اکنون عامل بی‌اعتمادی عمومی است، در مواجهه با فشار خارجی احتمالاً به اعتراضات گسترده‌تر و بحران‌های مدیریتی منجر خواهد شد."
-        ],
-        "impact": "به‌دلیل عدم دسترسی به متن، تحلیل محدود است؛ با این حال عنوان خبر خود علامتی از خطر تشدید نظامی و فشار خارجی است که می‌تواند ثبات رژیم را به‌طرزی قابل‌توجه تضعیف کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/graphics/2026/03/06/map-shows-how-many-countries-attacked-by-iran-involved-in-us-israel-war/89003182007/",
-        "clean_url": "https://www.usatoday.com/story/graphics/2026/03/06/map-shows-how-many-countries-attacked-by-iran-involved-in-us-israel-war/89003182007",
-        "image": null,
-        "timestamp": 1772825040.0
     }
 ]
