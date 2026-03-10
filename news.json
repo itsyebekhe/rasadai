@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حدود ۱۴۰ نظامی آمریکایی در جنگ با ایران زخمی شدند، پنتاگون می‌گوید",
+        "title_en": "Around 140 US service members wounded in Iran war, Pentagon says",
+        "summary": [
+            "پنتاگون اعلام کرده تقریباً ۱۴۰ عضو نیروهای مسلح آمریکا در جریان جنگ با ایران زخمی شده‌اند؛ این آمار نشانه‌ای از تشدید درگیری مستقیم بین واشنگتن و تهران است.",
+            "افزایش تلفات آمریکایی ریسک تشدید فشارهای بین‌المللی و احتمال واکنش‌های نظامی یا تحریمی علیه ایران را بالا می‌برد — امری که ساختار اقتصادی و سیاسی رژیم را ضعیف‌تر خواهد کرد.",
+            "این تحول هزینه‌های داخلی را افزایش می‌دهد؛ هر گونه ادامه تنش نظامی بار اقتصادی، ناکارآمدی مدیریتی و نارضایتی عمومی را تشدید می‌کند و به مدیریت بحران درون‌حکومتی آسیب می‌زند."
+        ],
+        "impact": "گزارش پنتاگون علامت یک جهش خطرناک در تشدید تنش‌ها است که از مسیر فشار خارجی و بار اقتصادی، ثبات رژیم را تهدید می‌کند.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.usatoday.com/videos/news/2026/03/10/pentagon-announces-140-troops-injured-in-iran-war-says-most-are-minor/89089368007/",
+        "clean_url": "https://www.usatoday.com/videos/news/2026/03/10/pentagon-announces-140-troops-injured-in-iran-war-says-most-are-minor/89089368007",
+        "image": null,
+        "timestamp": 1773177437.0
+    },
+    {
         "title_fa": "آمریکا احتمال اعزام نیرو به داخل ایران برای تامین انبارهای هسته‌ای را بررسی می‌کند",
         "title_en": "US weighs sending forces into Iran to secure nuclear stockpile, reports say",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-7",
         "image": "http://www.bing.com/th?id=OVFT.fN7wSfrpgrFItOsd5uzKmS&pid=News",
         "timestamp": 1772875560.0
-    },
-    {
-        "title_fa": "چرا رئیس‌جمهور ایران عذرخواهی کرد؟",
-        "title_en": "Why did Iran's president apologise?",
-        "summary": [
-            "بی‌بی‌سی فارسی نوشته عذرخواهی رئیس‌جمهور احتمالاً نشانه‌ای از بازآرایی سیاسی در درون ساخت قدرت است.",
-            "گزارش جزئیات صریحی از دلایل نمی‌دهد؛ اما چنین عذرخواهی‌هایی معمولاً پاسخی به انتقادات داخلی و نارضایتی افکار عمومی از عملکرد حکومتی هستند.",
-            "هدف محتمل این حرکت کاهش تنش‌های درونی، بازتعریف خطوط سیاسی و بازتقسیم منافع میان گروه‌های قدرت است تا آسیب‌پذیری حکومت کاهش یابد."
-        ],
-        "impact": "اگر عذرخواهی صرفاً سمبلیک نباشد، می‌تواند آغاز بازتنظیم قدرت و تغییر در اولویت‌های سیاسی داخلی باشد.",
-        "tag": "بازآرایی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "BBC on MSN",
-        "url": "https://www.msn.com/en-us/news/world/why-did-irans-president-apologise/ar-AA1XJ6o9",
-        "clean_url": "https://www.msn.com/en-us/news/world/why-did-irans-president-apologise/ar-AA1XJ6o9",
-        "image": "http://www.bing.com/th?id=OVFT.kHr8Nyx73J_niXTsuSD31y&pid=News",
-        "timestamp": 1772873474.0
     }
 ]
