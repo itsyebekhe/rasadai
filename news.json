@@ -414,6 +414,24 @@
         "timestamp": 1773076123.0
     },
     {
+        "title_fa": "ترامپ: ایران به موشک‌های تاماهاوک دسترسی دارد",
+        "title_en": "Trump says Iran has Tomahawk missiles when asked about deadly school strike",
+        "summary": [
+            "دونالد ترامپ هنگام پاسخ به پرسش درباره حمله مرگبار به یک مدرسه گفت ایران به موشک‌های ساخت آمریکا (تاماهاوک) دسترسی دارد.",
+            "ادعای ترامپ، فارغ از صحت آن، ابزار سیاسی و حقوقی بالقوه‌ای برای توجیه تشدید فشارهای دیپلماتیک و تحریمی یا اقدامات نظامی علیه ایران فراهم می‌کند.",
+            "چنین اتهامی بدون ارائه شواهد روشن، فضای اطلاعاتی را مسموم می‌کند و می‌تواند هم به بهانه‌جویی علیه تهران بینجامد و هم فرصت تبلیغاتی را به رژیم بدهد تا آن را به توجیه شکست‌های داخلی نسبت دهد."
+        ],
+        "impact": "این ادعا، حتی در نبود اثبات فوری، ساختار مشروعیت بین‌المللی را برای افزایش فشار و ریسک‌پذیری نظامی علیه ایران تقویت می‌کند و ثبات سیاسی و اقتصادی کشور را بیشتر در معرض خطر قرار می‌دهد.",
+        "tag": "اتهام",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-says-iran-has-tomahawk-missiles-when-asked-about-deadly-school-strike/ar-AA1XRJ6k",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-has-tomahawk-missiles-when-asked-about-deadly-school-strike/ar-AA1XRJ6k",
+        "image": null,
+        "timestamp": 1773075024.0
+    },
+    {
         "title_fa": "ترامپ: جنگ با ایران «سفری کوتاه‌مدت»",
         "title_en": "Trump: Iran war ‘a short-term excursion’",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.politifact.com/factchecks/2026/mar/06/social-media/iran-us-military-attack",
         "image": null,
         "timestamp": 1772819100.0
-    },
-    {
-        "title_fa": "ترامپ خواستار «تسلیم بی‌قید و شرط» ایران شد و راه‌های دیپلماتیک را مسدود کرد",
-        "title_en": "Trump demands Iran's 'unconditional surrender,' complicating diplomatic paths",
-        "summary": [
-            "درخواست «تسلیم بی‌قید و شرط» از سوی رئیس‌جمهور آمریکا و اعلام نیاز وی به دخالت در انتخاب رهبر جدید ایران، هر گونه راه‌حل دیپلماتیک سریع را عملاً ناممکن می‌کند؛ تهران انتخاب رهبری را مختص سازوکارهای قانونی داخلی دانسته و از مداخله خارجی رد کرده است.",
-            "در میدان نبرد، تنش‌ها به سرعت گسترش یافته‌اند: حملات گسترده اسرائیل به بیروت و جنوب لبنان، حملات موشکی ایران به اسرائیل و پایگاه‌های میزبان نیروهای آمریکایی در خلیج و اعلام بسته شدن مؤثر تنگه هرمز، نشان‌دهنده جهش به فاز منطقه‌ای جنگ است.",
-            "پیامدهای اقتصادی و فشار خارجی بلافاصله نمایان شد: بازارهای سهام افت کردند و قیمت نفت به بالاترین سطح از ۲۰۲۳ رسید — این شوک‌های اقتصادی ساختاری، کارآمدی مدیریت رژیم را زیر سؤال برده و ظرفیت آن برای تاب‌آوری سیاسی و اقتصادی را تضعیف می‌کند."
-        ],
-        "impact": "ترکیب خواسته‌های واشنگتن برای تغییر رهبری، تشدید جنگ منطقه‌ای و اختلال جریان انرژی، پنجره مذاکره را عملاً بسته و ثبات داخلی و اقتصادی رژیم را به سطح بحرانی سوق می‌دهد.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trump-urges-iranian-kurds-attack-035308415.html",
-        "clean_url": "https://www.aol.com/articles/trump-urges-iranian-kurds-attack-035308415.html",
-        "image": "http://www.bing.com/th?id=OVFT.RJcFYrkNGzYuvo00NAlASS&pid=News",
-        "timestamp": 1772818740.0
     }
 ]
