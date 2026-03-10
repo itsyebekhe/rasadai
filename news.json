@@ -252,6 +252,24 @@
         "timestamp": 1773155820.0
     },
     {
+        "title_fa": "ترامپ بدون ارائه شواهد، بمباران مدرسه را متوجه ایران دانست",
+        "title_en": "Without Providing Evidence, Trump Pins School Bombing on Iran",
+        "summary": [
+            "دونالد ترامپ در گفت‌وگو با خبرنگاران مدعی شد بمباران مدرسه شجره طیبه «کار ایران» بوده، اما هیچ سند علنی برای این ادعا ارائه نکرد.",
+            "گزارش‌های متعدد و تحلیل‌های ویدئو، جئولوکیشن و تصاویر ماهواره‌ای نشان می‌دهد حمله در نخستین روز عملیات مشترک آمریکا و اسرائیل (Operation Epic Fury) رخ داده و مدرسه در مجاورت یک پایگاه دریایی مرتبط با سپاه قرار داشت—یک منبع به NBC گفت آن پایگاه بیش از یک دهه تعطیل بوده.",
+            "ویدیوی منتشرشده توسط مهر و بررسی‌های مستقل رسانه‌ها و تصاویر Planet Labs از سوی نیویورک‌تایمز تا حدی وقوع اصابت را تأیید کرده‌اند؛ ادعای مقامات ایرانی درباره بیش از 160 کشته مطرح شده اما این رقم هنوز مستقلاً تایید نشده است."
+        ],
+        "impact": "اصرار ترامپ بر انتساب بی‌اساسِ حمله به ایران در برابر شواهد ویدئویی و ماهواره‌ای، روند شناسایی مسؤولیت را پیچیده‌تر می‌کند و خطر تشدید تنش‌ها و سردرگمی اطلاعاتی را افزایش می‌دهد.",
+        "tag": "اتهام",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "FactCheck.org",
+        "url": "https://www.factcheck.org/2026/03/without-providing-evidence-trump-pins-school-bombing-on-iran/",
+        "clean_url": "https://www.factcheck.org/2026/03/without-providing-evidence-trump-pins-school-bombing-on-iran",
+        "image": null,
+        "timestamp": 1773151500.0
+    },
+    {
         "title_fa": "به‌روزرسانی زنده: «شدیدترین روز» حملات آمریکا به ایران؛ تهران تهدید به بستن نفت تا پایان حملات می‌کند",
         "title_en": "Live updates: 'Most intense day' of U.S. strikes on Iran, Hegseth says; Tehran warns it will block oil until attacks end",
         "summary": [
@@ -358,6 +376,24 @@
         "clean_url": "https://www.livemint.com/news/world/did-iran-send-out-sleeper-cell-signal-us-alert-flags-encrypted-broadcast-after-khameneis-killing-in-iran-11773129889124.html",
         "image": "http://www.bing.com/th?id=OVFT.rRuAWoRELmVEHKw2Xz3HjC&pid=News",
         "timestamp": 1773147660.0
+    },
+    {
+        "title_fa": "دموکرات‌های سنا فشار برای جلسات علنی درباره جنگ با ایران را تشدید کردند",
+        "title_en": "Senate Democrats ramp up pressure campaign for public hearings on war with Iran",
+        "summary": [
+            "دموکرات‌های کنگره از مقامات دولت ترامپ خواسته‌اند جلسات علنی برگزار و درباره جدول‌زمانی و اهداف هر اقدام نظامی علیه ایران توضیح دهند؛ درخواست مستقیم برای افزایش شفافیت در سیاست جنگی.",
+            "این فشار نظارتی عملاً توان محدودسازی اختیار اجرایی در آغاز یا گسترش عملیات نظامی را دارد و می‌تواند با کندکردن روند تصمیم‌گیری و افشای اهداف، امکان تشدید ناگهانی درگیری را کاهش دهد.",
+            "مقاله هیچ اشاره‌ای به تحریم‌ها یا تأثیر خارجی خاص، نقش روسیه/چین/کره‌شمالی، یا شرایط اعتراضات و اقتصاد داخلی ایران ندارد؛ بنابراین هر تحلیل درباره اثرات داخلی رژیم باید محتاطانه و مبتنی بر منابع تکمیلی باشد."
+        ],
+        "impact": "فشار کنگره می‌تواند روند تصمیم‌گیری برای عملیات نظامی علیه ایران را محدود و شفاف‌تر کند، اما از متن مقاله نمی‌توان استنتاجی قاطع درباره تأثیر بر ثبات داخلی رژیم در ایران به دست آورد.",
+        "tag": "نظارتی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/10/g-s1-113167/democrats-iran-trump",
+        "clean_url": "https://www.npr.org/2026/03/10/g-s1-113167/democrats-iran-trump",
+        "image": null,
+        "timestamp": 1773147480.0
     },
     {
         "title_fa": "تعهد به شدیدترین روز حملات آمریکا؛ ایران اصرار دارد به جنگ ادامه دهد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://nypost.com/2026/03/07/world-news/drone-strike-torches-oil-tanker-in-strait-of-hormuz-as-irans-blockade-halts-global-shipping",
         "image": "http://www.bing.com/th?id=OVFT.w94tJ7UXh_FzVeAFjD2cTy&pid=News",
         "timestamp": 1772880720.0
-    },
-    {
-        "title_fa": "مجمع خبرگان ظرف یک روز برای انتخاب جانشین خامنه‌ای تشکیل می‌شود",
-        "title_en": "Iran’s Assembly of Experts to meet within a day to choose Khamenei’s successor",
-        "summary": [
-            "مجمع خبرگان اعلام کرد ظرف یک روز برای انتخاب جانشین خامنه‌ای تشکیل جلسه خواهد داد؛ مظفری، یکی از 88 عضو مجمع، این زمان‌بندی را تأیید کرد و گزارش‌ها می‌گویند به دلیل هدف‌قرار گرفتن ساختمان‌های مجمع در قم و تهران جلسه به‌صورت مجازی برگزار می‌شود.",
-            "ساختمان مجمع در قم توسط نیروی دفاعی اسرائیل «مسطح» گزارش شده و منابع می‌گویند مجمع بر سر معرفی مجتبی خامنه‌ای تقسیم است؛ فرماندهان سپاه تا آخرین دقایق بر اعضا فشار آوردند و اختیار انتصاب و عزل فرماندهان نظامی و اعلام جنگ به شورای رهبری موقت منتقل شده است.",
-            "گزارش‌ها از حمله مشترک آمریکا-اسرائیل، حملات مستقیم به مراکز تصمیم‌گیری و اعتراضاتی در تهران حکایت دارند که نشان‌دهنده آشفتگی داخلی و ناتوانی حکومت در مدیریت بحران است."
-        ],
-        "impact": "حملات خارجی به هسته‌های تصمیم‌گیری رژیم روند جانشینی را تسریع و خلأ رهبری را تشدید کرده؛ انتقال موقت اختیارات می‌تواند فرماندهی نظامی را تضعیف و ثبات سیاسی داخلی را بیش از پیش فرسوده کند.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iran-assembly-experts-meet-within-182018595.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-assembly-experts-meet-within-182018595.html",
-        "image": "http://www.bing.com/th?id=OVFT.LSCxSiNigRsTCBQSIiX4Uy&pid=News",
-        "timestamp": 1772879640.0
-    },
-    {
-        "title_fa": "بصری‌سازی تشدید جنگ آمریکا و اسرائیل با ایران — یک هفته پس",
-        "title_en": "Visualizing the escalation of the US-Israeli war with Iran one week in",
-        "summary": [
-            "نقشه و عنوان گزارش نشان می‌دهد تشدید درگیری‌ها فراتر از مرزهای مستقیم و در چندین تراز منطقه‌ای رخ داده که ریسک هدف‌گیری خطوط مواصلاتی و زیرساخت‌های استراتژیک را بالا برده است.",
-            "فشار خارجی و تحریم‌ها به‌عنوان عامل ساختاری، دسترسی رژیم به منابع مالی و تدارکات را محدود می‌کند و ظرفیت عملیاتی و سیاسی تهران را تضعیف می‌سازد.",
-            "ادامه درگیری و هزینه‌های مرتبط فشار مستقیم بر اقتصاد و معیشت شهروندان وارد می‌کند؛ کاهش سرمایه‌گذاری و افزایش هزینه‌ها می‌تواند نارضایتی اجتماعی و احتمال تشدید اعتراضات را بالا ببرد."
-        ],
-        "impact": "ادامه این تشدید در کوتاه‌مدت ثبات داخلی را کاهش می‌دهد و احتمال برآمدن بحران سیاسی-اقتصادی بزرگ‌تر را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "CNN",
-        "url": "https://www.cnn.com/interactive/2026/03/middleeast/us-israel-iran-war-maps-vis/",
-        "clean_url": "https://www.cnn.com/interactive/2026/03/middleeast/us-israel-iran-war-maps-vis",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/iran-one-week-hp-card-exlargetease.png?c=16x9&q=w_720",
-        "timestamp": 1772878440.0
     }
 ]
