@@ -72,6 +72,24 @@
         "timestamp": 1773102600.0
     },
     {
+        "title_fa": "اخبار جنگ ایران: اصابت موشک به پایگاه آمریکا در عراق و حملات اسرائیل به لبنان؛ تنش‌ها بالا گرفت",
+        "title_en": "Iran War News Live Updates: Missiles hit US base in Iraq, Israel launches strikes on Lebanon as tensions escalate",
+        "summary": [
+            "موشکی به پایگاه آمریکا در عراق اصابت کرد و همزمان اسرائیل حملاتی به خاک لبنان انجام داد؛ آنکارا نیز پس از پرتاب موشک ایران، سامانه‌های پاتریوت را در مرکز ترکیه مستقر کرد — وضعیت به سرعت نظامی و منطقه‌ای می‌شود.",
+            "این زنجیرهٔ عملیات نظامی مستقیم، خطر درگیری گسترده‌تر میان بازیگران منطقه‌ای و فرامنطقه‌ای را افزایش می‌دهد و احتمال واکنش‌های قوی‌تر سیاسی و اقتصادی علیه تهران را بالا می‌برد.",
+            "ادامهٔ تنش‌ها منابع مالی و نظامی را به سمت هزینه‌های امنیتی سوق می‌دهد، بار اقتصادی را تشدید می‌کند و در صورت ادامه می‌تواند نارضایتی عمومی و فشارهای داخلی را افزایش دهد."
+        ],
+        "impact": "این موج حملات مرزهای درگیری را گسترش داده و احتمال رویارویی مستقیم میان نیروهای منطقه‌ای و فرامنطقه‌ای را به شکلی چشمگیر افزایش می‌دهد، که برای ثبات رژیم مخاطره‌آمیز است.",
+        "tag": "تصاعد",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/iran-israel-us-war-live-updates-dubai-uae-tehran-attacks-missiles-drones-trump-says-iran-war-may-end-very-soon-but-threatens-massive-response-if-oil-route-hit-liveblog-13987816.html",
+        "clean_url": "https://www.firstpost.com/world/iran-israel-us-war-live-updates-dubai-uae-tehran-attacks-missiles-drones-trump-says-iran-war-may-end-very-soon-but-threatens-massive-response-if-oil-route-hit-liveblog-13987816.html",
+        "image": null,
+        "timestamp": 1773102240.0
+    },
+    {
         "title_fa": "پاسخ سپاه به ترامپ: «پایان جنگ را ما تعیین خواهیم کرد»",
         "title_en": "Responding to Trump, Iran’s IRGC says it ‘will determine the end of the war’",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/iran-war-enters-second-week-trump-demands-unconditional-surrender-2026-03-07",
         "image": "http://www.bing.com/th?id=OVFT.YG4McnlWua6zcGSyL5X3VS&pid=News",
         "timestamp": 1772819700.0
-    },
-    {
-        "title_fa": "ادعاهای شبکه‌های اجتماعی درباره فهرست اهداف آمریکا از سوی ایران صحت ندارد",
-        "title_en": "Iran did not release a list of U.S. targets, despite social media claims",
-        "summary": [
-            "پست‌های ویروسی مدعی بودند ایران فهرستی از شهرها و پایگاه‌های آمریکایی برای حمله منتشر کرده است؛ این ادعا در بحبوحه تنش‌های جنگی منتشر شد.",
-            "بررسی PolitiFact نشان می‌دهد هیچ سند یا اعلام رسمی از سوی مقامات ایرانی دال بر انتشار چنین فهرستی وجود ندارد و محتوای منتشرشده نادرست یا به اشتباه منتسب شده بود.",
-            "پخش این اطلاعات نادرست می‌تواند نگرانی عمومی و تنش‌های سیاسی را تشدید کند؛ رسانه‌ها و کاربران باید پیش از نشر، صحت ادعاها را راستی‌آزمایی کنند."
-        ],
-        "impact": "هیچ شواهدی در مقاله مبنی بر اینکه این ادعاها تغییر فوری در تحریم‌ها یا اقدامات رسمی خارجی ایجاد کرده باشد وجود ندارد، اما انتشار چنین شایعاتی خطر سوءمحاسبه و تشدید واکنش‌های سیاسی و امنیتی را بالا می‌برد.",
-        "tag": "اطلاعات_نادرست",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "PolitiFact",
-        "url": "https://www.politifact.com/factchecks/2026/mar/06/social-media/iran-us-military-attack/",
-        "clean_url": "https://www.politifact.com/factchecks/2026/mar/06/social-media/iran-us-military-attack",
-        "image": null,
-        "timestamp": 1772819100.0
     }
 ]
