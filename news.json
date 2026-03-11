@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "رویداد جنگ خاورمیانه: نگرانی‌های تورمی هزینه استقراض آمریکا و آلمان را به سطوح اوج مرتبط با درگیری رساند",
+        "title_en": "Middle East war live: Inflation fears push US and German borrowing costs to conflict highs",
+        "summary": [
+            "روند فروش گسترده اوراق دولتی به‌خاطر نگرانی‌های فزاینده تورمی تشدید شده و نرخ‌های بازده اوراق ده‌ساله در آمریکا، آلمان و بازارهای اروپایی و بریتانیا به نزدیک بالاترین سطوح سال رسیده است.",
+            "برای رژیم‌هایی که نیاز یا توان دسترسی به منابع مالی بین‌المللی را دارند، افزایش نرخ‌های جهانی استقراض ساختار تامین مالی خارجی را تضعیف می‌کند؛ این موضوع کارایی دورزدن تحریم‌ها و تأمین مالی پروژه‌های دولتی را کاهش می‌دهد و فشار ساختاری بر ثبات را افزایش می‌دهد.",
+            "افزایش هزینه استقراض همراه با موج تورم، کسری بودجه و نیاز به سیاست‌های ریاضتی را تشدید می‌کند؛ این تبدیل مسائل اقتصادی به عامل افزایش نارضایتی عمومی را تسریع می‌کند و شکست مدیریت اقتصادی را عریان می‌سازد."
+        ],
+        "impact": "افزایش هم‌زمان تورم و هزینه استقراض، توان دولت در تامین مالی سیاست‌ها و حفظ سطح معیشت را کاهش می‌دهد و به گونه‌ای ملموس ثبات سیاسی و اجتماعی را تضعیف می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Financial Times",
+        "url": "https://www.ft.com/content/ad111a3e-ee44-4614-8be1-bef695cdc51b",
+        "clean_url": "https://www.ft.com/content/ad111a3e-ee44-4614-8be1-bef695cdc51b",
+        "image": null,
+        "timestamp": 1773247080.0
+    },
+    {
         "title_fa": "بله، این جنگ انتخابی است. فقط نه برای آمریکا.",
         "title_en": "Opinion | You bet this is a war of choice. Just not America’s.",
         "summary": [
@@ -286,6 +304,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWHpIcGtYZkJqYmZBMHZJR2xRRVF3T09sVW05aS16VDlhd2tmMlhrMkNodmZWdWZLSW0yUGthU1dMdDNGVkVDZkJWNXA0UTlxMURUbWoweHo3RDN2eG81bkhGRXNhNGNlWWYta1pXSTMxXzlqQ2MtYmd4aXgzTHpuMERCMzZUVTJyVHVkZE40NEUzeVFrYWZfX3B4a3dQa3MyR0hjeWc3bFRHdEE",
         "image": null,
         "timestamp": 1773220990.0
+    },
+    {
+        "title_fa": "جنگ خاورمیانه؛ ترس از تورم، بازده اوراق قرضه اروپایی را به نزدیکی بالاترین سطح سالانه برد",
+        "title_en": "Middle East war live: Inflation fears push European bond yields towards yearly highs",
+        "summary": [
+            "گزارش زنده می‌گوید تنش‌های منطقه‌ای، همراه با نگرانی از افزایش تورم، سرمایه‌گذاران را به سمت بالا بردن بازده اوراق قرضه اروپایی سوق داده است.",
+            "افزایش بازده نشان‌دهنده انتظار بازار برای تورم بالاتر و هزینه استقراض بیشتر دولت‌ها و شرکت‌هاست و ریسک مالی کلی را بالا می‌برد.",
+            "خبر، پیامدهای فوری را برای بازارهای جهانی و هزینه تامین مالی کشورهای وابسته به واردات انرژی و کالا نشان می‌دهد اما حاوی اشاره مستقیم به تحریم‌ها یا مداخلات قدرت‌های خارجی نیست."
+        ],
+        "impact": "متن خبر اشاره مستقیمی به فشار تحریمی یا حمایت روسیه/چین/کره‌شمالی ندارد؛ با این حال تشدید نگرانی‌های تورمی و رشد بازده اوراق فضای اقتصادی بین‌المللی را فشرده‌تر می‌کند و ریسک اقتصادی کشورهایی با ضعف ساختاری را افزایش می‌دهد.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The Financial Times",
+        "url": "https://www.ft.com/content/9b922f21-ab8f-47ec-80d7-4bd4c24582c7",
+        "clean_url": "https://www.ft.com/content/9b922f21-ab8f-47ec-80d7-4bd4c24582c7",
+        "image": null,
+        "timestamp": 1773220500.0
     },
     {
         "title_fa": "به‌روزرسانی زنده: چه اتفاقی در اسرائیل، ایران، خاورمیانه می‌افتد؟",
@@ -1132,6 +1168,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-s-control-of-hormuz-means-it-s-exporting-more-oil-today-than-before-the-war/ar-AA1XWsxE",
         "image": null,
         "timestamp": 1773169200.0
+    },
+    {
+        "title_fa": "اگر ایران تنگه هرمز را برای مدت طولانی‌تری ببندد",
+        "title_en": "Oil Prices: What If Iran Manages To Keep The Strait Of Hormuz Closed For Longer?",
+        "summary": [
+            "اختلال فوری در جریان ۲۱٪ از تجارت جهانی نفت: بستن تنگه هرمز عرضه جهانی را فشرده و بهای نفت را به محدوده‌های سه‌رقمی پرتاب می‌کند که شوک قابل توجهی به بازارهای انرژی و زنجیره‌های تأمین وارد می‌آورد.",
+            "فشار و تحریم‌های خارجی تشدید خواهد شد و استراتژیکاً رژیم را تضعیف می‌کند: تداوم بستن تنگه، واکنش‌هایی شامل تحریم‌های هدفمند، محدودیت‌های بیمه و حمل‌ونقل نفتی و احتمال مداخله نظامی یا امنیتی ائتلافی را به‌دنبال خواهد داشت که منابع مالی و ظرفیت دیپلماتیک رژیم را بیشتر هزینه‌زا و آسیب‌پذیر می‌کند.",
+            "پیآمدهای داخلی؛ تشدید فشار اقتصادی و ضعف حکمرانی: شوک قیمت‌ها و اختلال در صادرات/واردات به افزایش تورم، کاهش قدرت خرید و فشار بر خزانه دولت می‌انجامد — اقدامی که نشان‌دهنده تصمیم‌گیری استراتژیک نامناسب و ریسک‌پذیری خطرناک برای ثبات داخلی است."
+        ],
+        "impact": "تداوم بستن تنگه هرمز ظرفیتی جدی برای تضعیف سریع توان مالی و سیاسی رژیم ایجاد می‌کند و احتمال مقابله نظامی یا تحریم‌های وسیع‌تر را افزایش می‌دهد.",
+        "tag": "نفت",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/article/4880635-oil-price-what-if-iran-manages-to-keep-the-strait-of-hormuz-closed-for-longer",
+        "clean_url": "https://seekingalpha.com/article/4880635-oil-price-what-if-iran-manages-to-keep-the-strait-of-hormuz-closed-for-longer",
+        "image": null,
+        "timestamp": 1773169020.0
     },
     {
         "title_fa": "ادعای ایران درباره «شدیدترین عملیات»؛ اسرائیل بار دیگر تهران را بمباران کرد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.nbcsandiego.com/news/local/veterans-weigh-in-u-s-involvement-iran/3991719",
         "image": null,
         "timestamp": 1772952386.0
-    },
-    {
-        "title_fa": "اسرائیل حمله به ایران را تشدید کرد؛ تهران به تصمیم‌گیری درباره جانشینی نزدیک می‌شود",
-        "title_en": "Israel presses Iran assault as Tehran nears succession decision",
-        "summary": [
-            "نیروهای اسرائیلی بمباران را گسترش دادند و میدان‌های سوخت نزدیک تهران را هدف قرار دادند؛ دود سیاه بر آسمان تهران نشست و سخنگوی نظامی اسرائیل گفت این مخازن برای کمک به تلاش جنگی ایران استفاده می‌شده‌اند؛ بنیامین نتانیاهو اعلام کرد حملات «بدون رحم» ادامه می‌یابد و اهداف بیشتری در دستور کار است.",
-            "بحرین از آسیب دیدن یک واحد آب‌شیرین‌کن بر اثر حمله‌ای منتسب به ایران خبر داد؛ سخنگوی وزارت خارجه ایران حمله گسترده به زیرساخت‌های سوخت را «جرم جنگی» خواند و به انتشار مواد خطرناک و آسیب‌های زیست‌محیطی اشاره کرد؛ افزایش قیمت انرژی، اختلال در کسب‌وکار و رفت‌وآمد جهانی گزارش شده است.",
-            "پس از کشته شدن علی خامنه‌ای، تهران به اعلام جانشین نزدیک‌تر شده و نشانه‌ها حاکی از برجستگی مجتبی خامنه‌ای است؛ اسرائیل تهدید کرده هر جانشینی را هدف قرار خواهد داد — ترکیب ضربه به زیرساخت و تهدید مستقیم رهبری، پنجره‌ی شکننده‌ای برای ثبات سیاسی باز کرده است."
-        ],
-        "impact": "حمله‌ به زیرساخت‌های حیاتی همراه با تهدید مستقیم به جانشین بالقوه رهبری، ثبات کوتاه‌مدت نظام را به شدت تضعیف کرده و خطر تشدید سریع خشونت و اختلال عملکرد دولت را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trump-rejects-settling-iran-war-023834223.html",
-        "clean_url": "https://www.aol.com/articles/trump-rejects-settling-iran-war-023834223.html",
-        "image": "http://www.bing.com/th?id=ONUT.wWAtzrGrQdV_hB7f3akb9g&pid=News",
-        "timestamp": 1772951040.0
-    },
-    {
-        "title_fa": "آیا آذربایجان به جنگ آمریکا-اسرائیل علیه ایران کشیده می‌شود؟",
-        "title_en": "Could Azerbaijan be dragged into the US-Israeli war on Iran?",
-        "summary": [
-            "چهار پهپاد به منطقه نخجوان آذربایجان اصابت کردند؛ مقامات باکو از خسارت به فرودگاه و زخمی‌شدن دو غیرنظامی خبر دادند و تهران اتهام‌زنی را رد کرده است.",
-            "رابطه بلندمدت باکو و تل‌آویو ریسک مداخله آذربایجان در گسترش جنگ علیه ایران را افزایش می‌دهد و احتمالاً می‌تواند مرزهای منطقه‌ای را به صحنه‌ای فراتر از درگیری‌های کنونی تبدیل کند.",
-            "تحلیل‌گران ایرانی و اظهارات رسمی دو طرف نشان می‌دهد علت حملات نامشخص است؛ تهران می‌گوید اهدافش پایگاه‌های آمریکایی و اسرائیلی را هدف می‌گیرد و برخی تحلیل‌گران احتمال فعالیت‌های مخفی اسرائیلی برای شعله‌ور کردن تنش‌ها بین تهران و باکو را مطرح کرده‌اند."
-        ],
-        "impact": "گسترش درگیری به حوزه آذربایجان، فشار دیپلماتیک و اقتصادی بر باکو را تشدید می‌کند و روابط نزدیک با اسرائیل را به عامل بالقوه‌ای تبدیل می‌کند که امنیت مرزی، سرمایه‌گذاری خارجی و ثبات منطقه‌ای را تضعیف خواهد کرد.",
-        "tag": "گسترش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Middle East Eye",
-        "url": "https://www.middleeasteye.net/news/could-azerbaijan-dragged-us-israeli-war-iran",
-        "clean_url": "https://www.middleeasteye.net/news/could-azerbaijan-dragged-us-israeli-war-iran",
-        "image": "http://www.bing.com/th?id=ONUT.zOwg_1x1lWv95LNIQPtwRg&pid=News",
-        "timestamp": 1772950740.0
-    },
-    {
-        "title_fa": "پرسش الوندی درباره نتایج احتمالی جنگ آمریکا-اسرائیل با ایران: آیا تکرار آشوبِ پساجنگ عراق ۲۰۰۳ ممکن است؟",
-        "title_en": "What are the likely outcomes of the US-Israel war with Iran, a country three times the size of France? Will the world witness the same chaos as after the 2003 invasion of Iraq? According to Dr. Roham Alvandi at the London School of Economics and Political Sci",
-        "summary": [
-            "روهام الوندی از LSE این سوال را مطرح کرده که درگیری نظامی گسترده غرب و اسرائیل با ایران (سه برابر فرانسه از نظر وسعت) چه نتایجی خواهد داشت و آیا وضعیت پس از ۲۰۰۳ عراق تکرار می‌شود؛ نتیجه‌گیری صریح در منبع وجود ندارد و سوال در قالب سناریو مطرح شده است.",
-            "فشار خارجی و تحریم‌ها به عنوان عامل ساختاری تضعیف‌کننده رژیم قابل توجه خواهند بود؛ هزینه‌های جنگ (اقتصادی و نظامی) توان دولت را کاهش داده و احتمال تشدید فروپاشی اقتصادی، افزایش تورم و کسری بودجه را بالا می‌برد، که به ناپایداری سیاسی دامن می‌زند.",
-            "اگرچه تکرار دقیق الگوی ۲۰۰۳ عراق بعید است به دلیل تفاوت‌های جغرافیایی و ساختاری، اما درگیری گسترده می‌تواند منجر به جنگ نامتقارن طولانی‌مدت، بی‌ثباتی منطقه‌ای و تشدید نارضایتی عمومی شود—خصوصاً در صورت مدیریت ناکارآمد اقتصاد و اختلال در خدمات پایه."
-        ],
-        "impact": "نتیجه: یک جنگ مستقیم علیه ایران خطر فروپاشی اقتصادی و تشدید بی‌ثباتی سیاسی-اجتماعی را به‌طور جدی افزایش می‌دهد، حتی اگر سناریوی دقیقِ «تکرار عراق ۲۰۰۳» نامحتمل باشد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcUl2cFR4VkZOR0Q2X01oanFwdzRXV1VXaEk5MVhKa29zbTFVQ01ucnZBMFlKNk95a3dvckdSckNZaUkyd3JmQ2Z3RjJ0OGJvZmNpVUo5RXRXR1d3aFBlVVFVQkJsNkhidzN3STIxeW5OSjhFazQ1U1lKNTV4QzdWUmNvSXc3ZXFUQXNHbnBnSkRoejhYVjh2b3J0VnhsUmN4Rl9uVjdvUy11NnNreW5Mckg0OEVSdE0wNzFPUXBodXQxREJ1NU9fU2ZBWTVROUZQQnZUbTZxYkVSOVRBZUNyVA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcUl2cFR4VkZOR0Q2X01oanFwdzRXV1VXaEk5MVhKa29zbTFVQ01ucnZBMFlKNk95a3dvckdSckNZaUkyd3JmQ2Z3RjJ0OGJvZmNpVUo5RXRXR1d3aFBlVVFVQkJsNkhidzN3STIxeW5OSjhFazQ1U1lKNTV4QzdWUmNvSXc3ZXFUQXNHbnBnSkRoejhYVjh2b3J0VnhsUmN4Rl9uVjdvUy11NnNreW5Mckg0OEVSdE0wNzFPUXBodXQxREJ1NU9fU2ZBWTVROUZQQnZUbTZxYkVSOVRBZUNyVA",
-        "image": null,
-        "timestamp": 1772949769.0
     }
 ]
