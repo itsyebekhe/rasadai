@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ به Axios گفت «عملاً چیزی برای هدف قرار دادن در ایران باقی نمانده»",
+        "title_en": "Trump tells Axios there's \"practically nothing left\" to target in Iran",
+        "summary": [
+            "اظهارنظر ترامپ ادعایی است مبنی بر اینکه ظرفیت‌های قابل هدف‌گیری رژیم ایرانی به‌ویژه در زمینه‌های نظامی و زیرساختی تا حد زیادی تخریب شده‌اند؛ اگر این ادعا واقعیت داشته باشد، نشانه اثرگذاری بلندمدت فشارهای خارجی و تحریم‌ها بر توان عملیاتی رژیم است.",
+            "از منظر داخلی، ادعای کاهش اهداف نشان‌دهنده تداوم سوءمدیریت اقتصادی و ضعف در نگهداری و بازسازی زیرساخت‌هاست؛ این ضعف ساختاری می‌تواند در صورت ادامه بحران پیامدهای سیاسی-اجتماعی شامل افزایش نارضایتی و تضعیف مشروعیت را تقویت کند.",
+            "برای سیاست خارجی بازیگران غربی و منطقه‌ای، چنین اظهارنظری دو مسیر محتمل می‌گذارد: یا کاهش انگیزه برای عملیات نظامی جدید و تمرکز بیشتر بر فشار اقتصادی-دیپلماتیک، یا تلاش برای بهره‌برداری از تضعیف ادعاشده برای افزایش فشار حداکثری و ایجاد خلأ راهبردی در داخل کشور."
+        ],
+        "impact": "اگر ادعای ترامپ معتبرباشد، نشانگر فشار موفقیت‌آمیز بر ظرفیت‌های رژیم و هم‌زمان تشدید ریسک بی‌ثباتی اقتصادی و سیاسی داخلی است.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "Axios",
+        "url": "https://www.reuters.com/world/middle-east/trump-tells-axios-war-iran-will-end-soon-practically-nothing-left-target-2026-03-11/",
+        "clean_url": "https://www.reuters.com/world/middle-east/trump-tells-axios-war-iran-will-end-soon-practically-nothing-left-target-2026-03-11",
+        "image": null,
+        "timestamp": 1773237630.0
+    },
+    {
         "title_fa": "نقشه‌های جنگ ایران: رصد درگیری‌های خاورمیانه",
         "title_en": "Iran War Maps: Tracking the Mideast Conflict",
         "summary": [
@@ -216,6 +234,24 @@
         "timestamp": 1773218307.0
     },
     {
+        "title_fa": "تصاویر ماهواره‌ای: تبدیل اف-14‌های آمریکایی ایران به لاشه پس از حملات هوایی",
+        "title_en": "Satellite images capture airstrikes reducing Iran's vintage American-made F-14 Tomcats to wreckage",
+        "summary": [
+            "تصاویر ماهواره‌ای نشان می‌دهد حملات هوایی اخیر بخش‌هایی از ناوگان اف-14 ایران را به خرابه تبدیل کرده‌اند؛ اف-14 آخرین جت‌های باقی‌مانده از نوع آمریکایی است که هنوز در ایران پرواز می‌کنند.",
+            "از منظر راهبردی، از دست رفتن این پلتفرم نمادین توان هوایی و ظرفیت بازدارندگی را کاهش می‌دهد و خلأیی ایجاد می‌کند که می‌تواند دیگر بازیگران منطقه‌ای و بین‌المللی را به تشدید فشار یا هدف‌گیری مجدد دارایی‌های نظامی تشویق کند.",
+            "قابلیت مشاهده‌پذیری این خسارت‌ها پایگاه‌ها و نگهداری ناوگان فرسوده را در معرض سوال قرار می‌دهد؛ این وضعیت نشانه‌ای از مدیریت ناکافی منابع دفاعی و ریسک بالای حفاظت از دارایی‌های حساس است که می‌تواند نارضایتی عمومی از ناکارآمدی حاکمیت را تشدید کند."
+        ],
+        "impact": "نابودی بخشی از ناوگان اف-14 ضربه‌ای مستقیم به توان عملیاتی و اعتبار نظامی ایران است که توان بازدارندگی را تضعیف و آسیب‌پذیری مراکز حساس را آشکارتر می‌کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/satellite-images-airstrikes-turn-iran-fleet-vintage-f-14s-wreckage-2026-3",
+        "clean_url": "https://www.businessinsider.com/satellite-images-airstrikes-turn-iran-fleet-vintage-f-14s-wreckage-2026-3",
+        "image": "http://www.bing.com/th?id=OVFT.97ZcO9GyjU0tNl5RT6pXBC&pid=News",
+        "timestamp": 1773217740.0
+    },
+    {
         "title_fa": "جنگ آمریکا–اسرائیل–ایران: فشار دوم‌مرحلۀ قهری و تکه‌تکه‌شدن راهبردی",
         "title_en": "US–Israel–Iran War: Second‑Order Coercion and Strategic Fragmentation",
         "summary": [
@@ -232,6 +268,42 @@
         "clean_url": "https://www.msn.com/en-us/news/world/everything-we-know-on-the-seventh-day-of-the-us-and-israel-s-war-with-iran/ar-AA1XD6u2",
         "image": null,
         "timestamp": 1773216671.0
+    },
+    {
+        "title_fa": "وزیر ورزش: ایران در جام جهانی شرکت نمی‌کند؛ در برابر اطمینان ترامپ به فیفا",
+        "title_en": "Iran to Skip World Cup, Minister Says, Despite Reported Trump Assurances",
+        "summary": [
+            "وزیر ورزش ایران اعلام کرد شرکت در جام جهانی «قابل پذیرش» نیست و بنابراین ایران از حضور صرف‌نظر خواهد کرد.",
+            "این اظهارنظر پس از آن مطرح شد که رئیس فیفا، جیانی اینفانتینو، گفت دونالد ترامپ، رئیس‌جمهور آمریکا، به او گفته ایران خوش‌آمد خواهد بود.",
+            "اختلاف میان پیام‌های خارجی (اطمینان ترامپ به فیفا) و تصمیم رسمی تهران نشان می‌دهد دستگاه حکومتی حاضر به بهره‌گیری از این فرصت بین‌المللی نیست یا با محدودیت‌های سیاسی داخلی مواجه است."
+        ],
+        "impact": "امتناع از حضور در جام جهانی عرصه‌ای را برای بازسازی تصویر بین‌المللی و کاهش تنش‌‌ها از دست می‌دهد و بازتاب‌دهنده محدودیت‌های سیاسی داخلی در اتخاذ تصمیمات حامی تعامل است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/11/world/europe/trump-iran-world-cup-fifa-infantino.html",
+        "clean_url": "https://www.nytimes.com/2026/03/11/world/europe/trump-iran-world-cup-fifa-infantino.html",
+        "image": null,
+        "timestamp": 1773216600.0
+    },
+    {
+        "title_fa": "ایران: در جام جهانی بازی نخواهیم کرد",
+        "title_en": "Iran: We will not play at World Cup",
+        "summary": [
+            "احمد دونیامالی، وزیر ورزش، اعلام کرد ایران به‌خاطر حملات هوایی آمریکا و اسرائیل در جام جهانی ۲۰۲۶ که در آمریکا برگزار می‌شود شرکت نخواهد کرد.",
+            "دونیامالی گفت این تصمیم در واکنش به حملاتی گرفته شده که به‌گفته او منجر به کشته شدن علی خامنه‌ای، رهبر حکومت، شده است.",
+            "این اعلام رسمی عملاً شانس حضور تیم ملی ایران در جام جهانی ۲۰۲۶ را از میان می‌برد و می‌تواند به تشدید انزوای بین‌المللی و افزایش فشارهای داخلی بر رژیم دامن بزند."
+        ],
+        "impact": "اگر ادعای کشته شدن خامنه‌ای و واکنش رسمی دولت صحت یابد، این رویداد ضربه‌ای ساختاری به ظرفیت دیپلماتیک و مشروعیت رژیم وارد می‌کند و ثبات داخلی را به‌سرعت تضعیف خواهد کرد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/donald-trump-gives-iran-green-090935167.html",
+        "clean_url": "https://sports.yahoo.com/articles/donald-trump-gives-iran-green-090935167.html",
+        "image": null,
+        "timestamp": 1773216420.0
     },
     {
         "title_fa": "شکاف در راست افراطی اروپا بر سر جنگ آمریکا و اسرائیل علیه ایران",
@@ -376,6 +448,24 @@
         "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-israel-us-lebanon-tehran-oil-prices-hormuz-rcna262889",
         "image": null,
         "timestamp": 1773209880.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: افزایش نگرانی‌های جهانی انرژی پس از توقف مؤثر ترافیک کالا در تنگه هرمز توسط ایران",
+        "title_en": "Live updates: Global energy concerns mount as Iran effectively stops cargo traffic in the Strait of Hormuz",
+        "summary": [
+            "ایران عملاً ترافیک کالا در تنگه هرمز را متوقف کرده است؛ خبر از افزایش فوری نگرانی‌های جهانی درباره عرضه و امنیت خطوط انرژی می‌دهد.",
+            "این اقدام می‌تواند رژیم را در معرض تشدید فشار بین‌المللی و احتمال واکنش‌های دریایی و اقتصادی قرار دهد؛ به‌طور ساختاری امنیت خارجی رژیم را هدف می‌گیرد و ریسک منزوی‌شدن را افزایش می‌دهد.",
+            "اختلال در گذرگاه حیاتی دریایی احتمالاً درآمدهای صادراتی، هزینه‌های واردات و بیمه حمل‌ونقل را افزایش می‌دهد و حساسیت‌های اقتصادی داخلی را بالا برده که می‌تواند خشم عمومی و ناتوانی دولت در ارائه خدمات را تشدید کند."
+        ],
+        "impact": "توقف مؤثر ترافیک در تنگه هرمز آزمونی جدی برای تاب‌آوری رژیم در مقابل فشارهای بین‌المللی است و احتمالاً ثبات اقتصادی و سیاسی داخلی را بیشتر تضعیف می‌کند.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump--03-11-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump--03-11-2026",
+        "image": "http://www.bing.com/th?id=OVFT.zD5Kag4IxwbylD0UUhMSJy&pid=News",
+        "timestamp": 1773205560.0
     },
     {
         "title_fa": "چرا چین و روسیه در شتاب برای کمک به ایران نیستند؟",
@@ -736,6 +826,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLVJaNldEWGxBdXJFd0U4X3NXRW5iZmhhVWExOU9vLXB4VmlNV1BYS1ptNDB3RDNxS1Z0eVJQaDE5bmotTjMydF9qcTNTQ2dqSzJhUlJJMkY2SDRpRlVMZnRpS2dPck8yZHh3V1BrcWJPWHd5aEM5QS01RHhwWjBwRGpxRFE2dDlVNFhNbjhZSU9vc29KMHRxckx5Q0hXeUhYNmxJWU1rV0d0VnVVSmIxXzA3dWYxd0VJeWtpSnpQUnhyMFpxZHVDcG9ka2xWcHphajBOT1hZVjdmRk9BbkQzZWtn",
         "image": null,
         "timestamp": 1773181635.0
+    },
+    {
+        "title_fa": "آمریکا وعده «شدیدترین روز حملات» داخل ایران را داد",
+        "title_en": "The U.S. vowed its 'most intense day of strikes inside Iran'",
+        "summary": [
+            "وزیر دفاع ایالات متحده، پیت هیگستث، اعلام کرد پنتاگون به رئیس‌جمهور «بیشترین گزینه‌ها» را ارائه می‌دهد و جنگ «نامحدود» نخواهد بود؛ این اظهارنظر پس از سیگنال‌های متناقض رئیس‌جمهور درباره پیشرفت صورت گرفت.",
+            "سر دادن وعده به «شدیدترین روز حملات داخل ایران» نشان‌دهنده تشدید مستقیم تهدید نظامی از سوی آمریکا و احتمال رویارویی فراتر از عملیات مرزی است.",
+            "این تهدیدات بیرونی فشارهای استراتژیک بر رژیم را افزایش می‌دهد و ریسک تشدید بی‌ثباتی سیاسی داخلی و واکنش‌های تلافی‌جویانه را بالا می‌برد."
+        ],
+        "impact": "تهدید به حملات شدید داخل خاک ایران ساختار سیاسی و نظامی رژیم را هدف گرفته و می‌تواند باعث تسریع فرسایش مشروعیت و تشدید شکاف‌های داخلی شود.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": 0.2,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/10/nx-s1-5742828/iran-war-us-trump",
+        "clean_url": "https://www.npr.org/2026/03/10/nx-s1-5742828/iran-war-us-trump",
+        "image": "http://www.bing.com/th?id=OVFT.fuBt4VXgs8blYl3AgVxXBi&pid=News",
+        "timestamp": 1773180240.0
     },
     {
         "title_fa": "حدود ۱۴۰ نظامی آمریکایی در جنگ با ایران زخمی شدند، پنتاگون می‌گوید",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/uae-says-iran-fired-16-111322043.html",
         "image": null,
         "timestamp": 1772944260.0
-    },
-    {
-        "title_fa": "آمریکا در حال بررسی فرستادن نیروهای ویژه برای مصادره ذخایر هسته‌ای ایران",
-        "title_en": "U.S. weighs sending special forces to seize Iran's nuclear stockpile",
-        "summary": [
-            "Axios گزارش داده که واشنگتن گزینه فرستادن نیروهای ویژه برای توقف یا مصادره ذخایر هسته‌ای ایران را بررسی می‌کند؛ اقدامی که سطح تنش نظامی و خطر رویارویی مستقیم را بالا می‌برد.",
-            "این گزینه در چارچوب فشار خارجی و تحریم‌ها قرار دارد و در صورت اجرا می‌تواند کارکرد بازدارندگی رژیم را تضعیف کرده، انزوای بین‌المللی آن را تشدید و هزینه‌های اقتصادی و سیاسی داخلی را افزایش دهد.",
-            "پیامدهای داخلی می‌تواند دوگانه باشد: احتمال تشدید سرکوب و محدودیت‌ها از سوی رژیم و در عین حال تشدید نارضایتی عمومی و افزایش فشار بر حکمرانی ناکارآمد؛ اما هر فرضیه باید مبتنی بر شواهد بعدی باشد."
-        ],
-        "impact": "اگر این اقدام اجرایی شود، به‌سرعت ساختارهای امنیتی و سیاسی رژیم را تحت فشار قرار داده و چرخه فشار خارجی-سرکوب داخلی را تسریع خواهد کرد.",
-        "tag": "هسته‌ای",
-        "urgency": 10,
-        "sentiment": -0.5,
-        "source": "Axios",
-        "url": "https://www.msn.com/en-us/news/world/us-weighs-sending-special-forces-to-seize-irans-nuclear-stockpile/ar-AA1XK5b2",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-weighs-sending-special-forces-to-seize-irans-nuclear-stockpile/ar-AA1XK5b2",
-        "image": null,
-        "timestamp": 1772943799.0
-    },
-    {
-        "title_fa": "به‌روزرسانی ایران: ترامپ هشدار داد ایران ممکن است با «نابودی کامل و مرگ قطعی» مواجه شود",
-        "title_en": "Iran live updates: Trump warns Iran may face 'complete destruction and certain death'",
-        "summary": [
-            "رئیس‌جمهور دونالد ترامپ اعلام «عملیات رزمی بزرگ» علیه ایران کرده و مقامات از حملات مشترک گسترده آمریکا و اسرائیل به اهداف نظامی و دولتی خبر داده‌اند.",
-            "اعلام و اجرای چنین حملاتی می‌تواند ساختار امنیتی و زنجیره فرماندهی رژیم را به‌صورت ساختاری تضعیف کند و فشار خارجی را به مشکلات سیاسی و اقتصادی داخلی تبدیل نماید.",
-            "اگرچه گزارش نشانه مستقیمی از اعتراضات فعلی ارائه نمی‌دهد، اما این اقدام احتمال تشدید اختلال در خدمات پایه، فشار اقتصادی و افزایش نارضایتی عمومی را بالا می‌برد و ناکارآمدی مدیریتی رژیم را برجسته می‌کند."
-        ],
-        "impact": "این تهدید و حملات اعلام‌شده می‌تواند ثبات نظامی و سیاسی رژیم را به‌طور جدی تضعیف کرده و ریسک گسترش درگیری و تشدید بحران اقتصادی-اجتماعی را افزایش دهد.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "ABC7 Chicago",
-        "url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18661061/",
-        "clean_url": "https://abc7chicago.com/live-updates/iran-live-updates-trump-says-major-combat-operations-have-begun/18660347/entry/18661061",
-        "image": "http://www.bing.com/th?id=ONUT.4iqXIIXWhwlTyYt89T8sig&pid=News",
-        "timestamp": 1772943720.0
-    },
-    {
-        "title_fa": "«ترامپ باید بابت کشتن خامنه‌ای هزینه دهد»: هشدار مقام ارشد ایران؛ رئیس‌جمهور آمریکا بی‌تفاوت",
-        "title_en": "‘Trump must pay the price for killing Khamenei’: Iran’s top official warns; US president shrugs it off",
-        "summary": [
-            "لاریجانی، مقام ارشد ایران، با ادعای اینکه «ترامپ باید بابت کشتن خامنه‌ای هزینه دهد» تهدید به انتقام کرد و گفت این اقدام باعث کشته شدن بیش از ۱۰۰۰ نفر شده است (ادعا شده).",
-            "رئیس‌جمهور آمریکا این موضوع را کم‌اهمیت جلوه داده؛ گزارش‌ها از ادعای اسارت نیروهای آمریکایی و تشدید پاسخ‌های نظامی ایران حکایت دارد که خطر تقابل مستقیم را بالا می‌برد.",
-            "این جهش تنش می‌تواند به افزایش فشارهای بین‌المللی و تحریم‌ها منجر شود که ساختار اقتصادی و سیاسی رژیم را تضعیف کرده و احتمال تشدید نارضایتی داخلی و بحران‌های حکمرانی را بالا می‌برد."
-        ],
-        "impact": "هشدار لاریجانی و ادعاهای مرتبط با اسارت نیروهای آمریکایی نشانه افزایش خطر تقابل نظامی است که در صورت تداوم، ثبات اقتصادی و سیاسی رژیم را به‌طور ملموسی تضعیف خواهد کرد.",
-        "tag": "تقابل",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/trump-must-pay-the-price-for-killing-khamenei-iran-s-top-official-warns-trump-shrugs-it-off-article-13854162.html",
-        "clean_url": "https://www.moneycontrol.com/world/trump-must-pay-the-price-for-killing-khamenei-iran-s-top-official-warns-trump-shrugs-it-off-article-13854162.html",
-        "image": "http://www.bing.com/th?id=OVFT.1e-5Ou7VkYBQS_wfvU0lui&pid=News",
-        "timestamp": 1772943480.0
-    },
-    {
-        "title_fa": "اسرائیل پس از وعده نتانیاهو برای «بسیاری از شگفتی‌ها»، حمله به لبنان را از سر گرفت",
-        "title_en": "Israel renews assault on Lebanon after Netanyahu promises 'many surprises' in next phase of war",
-        "summary": [
-            "نیروهای اسرائیلی حملات خود به لبنان را ازسر گرفتند؛ این اقدام با اظهارنظر بنیامین نتانیاهو مبنی بر «بسیاری از شگفتی‌ها» در مرحله بعدی جنگ همراه بوده است.",
-            "گزارش اشاره‌ای به دخالت مستقیم بازیگران بین‌المللی یا تغییر در تحریم‌ها ندارد؛ اما تشدید عملیات نظامی مرزها را ناپایدارتر کرده و احتمال گسترش درگیری را افزایش می‌دهد.",
-            "پیامدهای انسانی، تخریب زیرساخت و افزایش بحران انسانی در لبنان قابل انتظار است و واکنش‌های دیپلماتیک و فشارهای بین‌المللی محتمل خواهد بود."
-        ],
-        "impact": "این ازسرگیری حملات احتمال تبدیل شدن جرقه‌ای محلی به یک تقابل منطقه‌ای بزرگ‌تر را افزایش می‌دهد و بهای امنیتی و انسانی را برای لبنان و همسایگان بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDJydV90WC1USUt1QnU5ZHdIZzZkdU1EWXdrZUdYamlGbFhHbERWaWZZTVJIc2E2dEhnQS02TlQwalFqOWZDd2VabFhGb3VINmdvM25JWF9GbVcwQnlCSjQ2dFBuQTAyRVlDSHRLV0lUVmNjMWJocWpBTmkzYjlxdjMyWmFNOXV2OElvT1NCTTk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZDJydV90WC1USUt1QnU5ZHdIZzZkdU1EWXdrZUdYamlGbFhHbERWaWZZTVJIc2E2dEhnQS02TlQwalFqOWZDd2VabFhGb3VINmdvM25JWF9GbVcwQnlCSjQ2dFBuQTAyRVlDSHRLV0lUVmNjMWJocWpBTmkzYjlxdjMyWmFNOXV2OElvT1NCTTk",
-        "image": null,
-        "timestamp": 1772943360.0
-    },
-    {
-        "title_fa": "حملات هوایی، نه اشغال: خطوط قرمز رأی‌دهندگان ترامپ درباره ایران",
-        "title_en": "Airstrikes, not occupation: Where Trump voters draw red lines on Iran",
-        "summary": [
-            "اکثریت قابل‌توجهی از رأی‌دهندگان حامی ترامپ حملات هوایی علیه اهداف ایران را قابل‌قبول می‌دانند اما اشغال زمینی یا درگیری طولانی‌مدت را رد می‌کنند؛ این محدوده‌گذاری، گزینه‌های نظامی را برای واشینگتن محدود می‌کند.",
-            "تحریم‌ها و فشار خارجی ساختاری، اقتصاد ایران را تحت فشار نگه داشته و به مرور ظرفیت دولت را برای تدارک جنگ طولانی‌مدت و مهار نارضایتی داخلی تضعیف می‌کند؛ این ظرفیت محدود می‌تواند هزینه‌های سیاسی و اقتصادی جنگ را برای تهران بالاتر ببرد.",
-            "سیاست‌مداران آمریکایی با توجه به تمایل پایه رأی‌دهندگان به پرهیز از اشغال، احتمالاً به عملیات کوتاه‌مدت و هیبریدی روی می‌آورند که خطر تشدید منطقه‌ای را کاهش نمی‌دهد ولی فشار راهبردی و اقتصادی روی ایران را حفظ خواهد کرد."
-        ],
-        "impact": "ترکیب ضعیف‌سازی اقتصادی از طریق تحریم‌ها و محدودیت سیاسی داخلی در آمریکا، افق‌های نظامی ایران را تنگ‌تر و آسیب‌پذیری رژیم را در برابر فشارهای داخلی و خارجی افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/us/airstrikes-not-occupation-where-trump-voters-draw-red-lines-on-iran/ar-AA1XLlk8",
-        "clean_url": "https://www.msn.com/en-us/news/us/airstrikes-not-occupation-where-trump-voters-draw-red-lines-on-iran/ar-AA1XLlk8",
-        "image": "http://www.bing.com/th?id=ONUT.k7AXXhEqlqIe4y7X-ta5EQ&pid=News",
-        "timestamp": 1772942717.0
-    },
-    {
-        "title_fa": "بحرین: ایران نیروگاه آب‌شیرین‌کن را هدف قرار داد؛ نگرانی از حمله به زیرساخت‌های غیرنظامی",
-        "title_en": "Bahrain says Iran hit a desalination plant, stoking fears of attacks on civilian sites",
-        "summary": [
-            "بحرین مدعی شد ایران یک نیروگاه آب‌شیرین‌کن را مورد هدف قرار داده است؛ این اتهام در روز نهم جنگ فراگیر میان عملیات‌های آمریکا و اسرائیل و پاسخ‌های ایران، ترس از هدف‌گیری آگاهانه زیرساخت‌های غیرنظامی را بالا برده است.",
-            "حملات هوایی گسترده آمریکا و اسرائیل تاسیسات نفتی اطراف تهران را به آتش کشیده و حملات در لبنان تلفات بالای ۳۰۰ نفر برجای گذاشته است؛ جنگ عملاً به مراکز اقتصادی و زیربنایی کشیده شده است.",
-            "رئیس‌جمهور مسعود پزشکیان وعده گسترش حملات علیه اهداف آمریکایی را مطرح کرد و هم‌زمان اظهارات قبلی آشتی‌جویانه او توسط تندروها نقض شد؛ این تناقضات نشان‌دهنده اختلاف خط مشی و تزلزل تصمیم‌گیری در درون حاکمیت است."
-        ],
-        "impact": "تشدید نظامی و هدف‌گیری زیرساخت‌های غیرنظامی درآمدهای نفتی و خدمات عمومی، به‌ویژه عرضه آب، را مختل می‌کند، ظرفیت مدیریتی رژیم را سست نموده و ریسک بی‌ثباتی سیاسی-اجتماعی را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iranian-drone-damages-desalination-plant-065619674.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iranian-drone-damages-desalination-plant-065619674.html",
-        "image": "http://www.bing.com/th?id=OVFT.uSKJuec7Kw5MV1MulCh6jy&pid=News",
-        "timestamp": 1772940720.0
     }
 ]
