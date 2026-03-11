@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اف‌بی‌آی هشدار داد: ایران قصد داشت با پهپاد کالیفرنیا را به‌عنوان تلافی جنگ هدف قرار دهد",
+        "title_en": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert",
+        "summary": [
+            "اف‌بی‌آی اعلام کرده که دستگاه‌های اطلاعاتی آمریکا نشانه‌هایی دارند که تهران در تلاش یا قصد انجام حمله با پهپاد علیه خاک کالیفرنیا به‌عنوان تلافی اقدامات جنگی را داشته است؛ هشدار نشان‌دهنده سطح بالای تهدید فراتر از مرزهای منطقه‌ای است.",
+            "این ادعا ریسک تشدید فشارهای بین‌المللی و احتمال گسترش تحریم‌ها و اقدامات تلافی‌جویانه نظامی یا اطلاعاتی از سوی آمریکا و متحدانش را افزایش می‌دهد؛ چنین واکنش‌هایی می‌تواند ساختار بقاء سیاسی رژیم را بیش‌ازپیش تحت فشار بگذارد.",
+            "سیاست تمرکز بر عملیات برون‌مرزی و نظامی‌گری به‌جای حل مشکلات اقتصادی و مدیریتی داخلی نشانه ضعف حکمرانی است؛ صرف منابع برای ماجراجویی خارجی می‌تواند نارضایتی عمومی و هزینه‌های اقتصادی را تشدید کند."
+        ],
+        "impact": "هشدار اف‌بی‌آی احتمال تشدید رویارویی مستقیم بین تهران و واشنگتن را بالا می‌برد و زمینه افزایش فشارهای اقتصادی و امنیتی را فراهم می‌کند که می‌تواند ثبات رژیم را بیش‌تر تضعیف کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "abcnews.com",
+        "url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/fbi-warns-iran-aspired-to-attack-california-with-drones-in-retaliation-for-war-alert/ar-AA1YlKWG",
+        "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/fbi-warns-iran-aspired-to-attack-california-with-drones-in-retaliation-for-war-alert/ar-AA1YlKWG",
+        "image": null,
+        "timestamp": 1773265648.0
+    },
+    {
         "title_fa": "پخش زنده - شورای امنیت حملات ایران را محکوم کرد، تهران: جنگ به شرایط ما پایان می‌یابد",
         "title_en": "Live - UNSC condemns Iran attacks, Tehran says war ends on its terms",
         "summary": [
@@ -126,6 +144,24 @@
         "timestamp": 1773240308.0
     },
     {
+        "title_fa": "جنگ ایران: هدف قرار گرفتن کشتی‌های تجاری و بررسی حمله آمریکا به مدرسه",
+        "title_en": "Iran war: Commercial ships are hit and the U.S. investigates its strike on a school",
+        "summary": [
+            "روز دوازدهم درگیری‌ها ادامه یافت؛ کشتی‌های تجاری مورد هدف قرار گرفتند و ایالات متحده حمله‌ای که به مدرسه منتهی شده را بررسی می‌کند؛ خبر از ادامه حملات و افزایش تلفات انسانی حکایت دارد.",
+            "تأثیر ساختاری بر ثبات: با توجه به اشاره خبر به پیامدهای اقتصادی و خطر برای تامین انرژی، شوک‌های اقتصادی و اختلال در تجارت دریایی می‌تواند ظرفیت نهادهای حکومتی برای مدیریت بحران را کاهش داده و ستون‌های ثبات را تضعیف کند.",
+            "ناتوانی مدیریتی و مخاطرات داخلی: هدف گرفتن زیرساخت‌های تجاری و افزایش تلفات انسانی نشان‌دهنده سوءمدیریت است و این شرایط ریسک رشد نارضایتی عمومی و تشدید بحران اقتصادی-انرژی را بالا می‌برد."
+        ],
+        "impact": "وضعیت فعلی ثبات داخلی را تضعیف می‌کند و احتمال گسترش جنگ و تشدید بحران اقتصادی و انرژی را افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/11/nx-s1-5744029/us-iran-war",
+        "clean_url": "https://www.npr.org/2026/03/11/nx-s1-5744029/us-iran-war",
+        "image": null,
+        "timestamp": 1773239940.0
+    },
+    {
         "title_fa": "ترامپ به Axios گفت «عملاً چیزی برای هدف قرار دادن در ایران باقی نمانده»",
         "title_en": "Trump tells Axios there's \"practically nothing left\" to target in Iran",
         "summary": [
@@ -196,6 +232,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps",
         "image": null,
         "timestamp": 1773231206.0
+    },
+    {
+        "title_fa": "تورم در فوریه ثابت ماند؛ جنگ ایران قیمت بنزین را بالا برد",
+        "title_en": "Inflation held steady in February before Iran war drove up gas prices, CPI report shows",
+        "summary": [
+            "شاخص قیمت مصرف‌کننده در فوریه با نرخ سالانه 2.4٪ ثابت ماند (همانند ژانویه)، هسته‌ای 2.5٪؛ هزینه غذا 3.1٪ و غذا خوردن بیرون 3.9٪ رشد داشتند و پیش‌بینی اقتصاددانان برای فوریه 2.5٪ بود.",
+            "داده‌های گزارش دوره قبل از آغاز جنگ در اواخر فوریه را پوشش می‌دهد؛ از زمان آغاز جنگ، قیمت نفت و بنزین جهش کرده‌اند — بنزین در آمریکا حدود 0.60 دلار به ازای هر گالن (حدود 20٪) افزایش یافته و متوسط به 3.58 دلار رسیده است.",
+            "اقتصاددانان هشدار می‌دهند که افزایش قیمت انرژی می‌تواند روند کاهش تورم را معکوس کرده و به بخش‌های دیگر اقتصاد سرایت کند؛ پیامد مستقیم، فشار افزایش‌یافته بر درآمد واقعی خانوارها و تشدید ریسک‌های اقتصادی-سیاسی برای حکومت است."
+        ],
+        "impact": "شوک قیمتی ناشی از جنگ احتمالاً روند تفریط تورم را معکوس کرده و فشار معیشتی را افزایش می‌دهد که به تضعیف ساختاری ثبات سیاسی رژیم می‌انجامد.",
+        "tag": "تورم",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/cpi-report-today-february-2026-inflation-iran-war-trump/",
+        "clean_url": "https://www.cbsnews.com/news/cpi-report-today-february-2026-inflation-iran-war-trump",
+        "image": null,
+        "timestamp": 1773231180.0
     },
     {
         "title_fa": "به‌روزرسانی جنگ ایران: ائتلاف ۳۲ کشور ذخایر نفتی را برای تثبیت عرضه فعال کرد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-says-us-ground-troops-in-iran-possible-as-iran-rejects-ceasefire-possibilities/ar-AA1XMjas",
         "image": "http://www.bing.com/th?id=ONUT.cG7DeJ3ZrBcQXR-yQaxtQw&pid=News",
         "timestamp": 1772964413.0
-    },
-    {
-        "title_fa": "ترامپ: اعزام نیروهای زمینی آمریکا به ایران «ممکن»؛ ایران گزینه آتش‌بس را رد کرد",
-        "title_en": "Trump says U.S. ground troops in Iran ‘possible’ as Iran rejects ceasefire possibilities",
-        "summary": [
-            "اظهارنظر ترامپ درباره «ممکن» بودن اعزام نیروهای زمینی، سیگنالی روشن از آمادگی آمریکا برای تشدید عملیات نظامی است و توان تبدیل منازعات فعلی به مواجهه مستقیم را بالا می‌برد.",
-            "رد قاطع تهران نسبت به هرگونه آتش‌بس نشان می‌دهد که حکومت فعلاً تمایلی به کاهش فوری تنش ندارد؛ این موضع دسترسی به راهکارهای دیپلماتیک را محدود می‌کند.",
-            "تلاقی تهدید عملیاتی آمریکا و پافشاری داخلی رژیم خطرات ساختاری ایجاد می‌کند: افزایش فشار خارجی و تهدید نظامی مستقیم می‌تواند ثبات سیاسی-اقتصادی داخلی را تضعیف و احتمال واکنش‌های اجتماعی یا فرسایش کنترل حکومتی را بالا ببرد."
-        ],
-        "impact": "افزایش احتمال عملیات زمینی آمریکا ریسک گسترش بحران به یک جنگ تمام‌عیار را بالا می‌برد و به‌طور محسوس ظرفیت بقا و ثبات رژیم را در برابر فشار خارجی و نارضایتی داخلی تضعیف خواهد کرد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/politics/story/2026-03-08/trump-says-u-s-ground-troops-in-iran-possible",
-        "clean_url": "https://www.latimes.com/politics/story/2026-03-08/trump-says-u-s-ground-troops-in-iran-possible",
-        "image": "http://www.bing.com/th?id=OVFT.X30pd1WFaBpV0oQcCeFOwS&pid=News",
-        "timestamp": 1772964360.0
-    },
-    {
-        "title_fa": "حملات اسرائیل به زیرساخت‌های سوختی ایران؛ نقطه‌ضعف جدید رژیم",
-        "title_en": "Israel Strikes Energy Infrastructure Crucial to Iran’s Well-Being",
-        "summary": [
-            "ارتش اسرائیل چند تاسیسات سوختی ایران، از جمله مخازن نفتی، را هدف قرار داد؛ اولین حملات شناخته‌شده علیه زیرساخت انرژی کشور است.",
-            "ضربه به زیرساخت انرژی به‌طور مستقیم ظرفیت لجستیکی و ذخیره‌سازی سوخت را کاهش می‌دهد و احتمال ایجاد اختلال در عرضه، افزایش واردات اضطراری و فشار بر بودجه و یارانه‌ها را بالا می‌برد.",
-            "این رخداد ضعف‌های امنیتی و مدیریتی را نشان می‌دهد و می‌تواند نارضایتی عمومی را تقویت کند؛ رژیم احتمالا هم به سرکوب داخلی و هم به اقدامات تلافی‌جویانه نظامی روی خواهد آورد که خطر تشدید منطقه‌ای را بالا می‌برد."
-        ],
-        "impact": "حملات، توان عملیاتی و پایداری اقتصادی رژیم را تضعیف کرده و فشار داخلی همراه با احتمال تشدید نظامی را افزایش می‌دهد.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-energy-infrastructure.html",
-        "clean_url": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-energy-infrastructure.html",
-        "image": "http://www.bing.com/th?id=OVFT.FXs0qzB6zbejepLWjt6uqS&pid=News",
-        "timestamp": 1772963820.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ آمریکا-اسرائیل-ایران: «شاید دیگر کسی نمانده باشد که بگوییم تسلیم می‌شویم»، دونالد ترامپ: پایان جنگ ممکن است تنها با شکست نظامی ایران باشد",
-        "title_en": "US-Israel-Iran War Latest Update: ‘Maybe Nobody Left to Say We Surrender,’ Donald Trump Says Conflict May End Only With Iran’s Military Defeated",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور پیشین آمریکا، با بیان اینکه احتمال دارد پایان این مناقشه تنها با «شکست نظامی ایران» محقق شود، صراحتاً راه‌حل نظامی را مطرح کرده است.",
-            "چنین موضعی ساختاراً فشار خارجی و گزینه‌های نظامی علیه تهران را مشروعیت‌بخشیده و توان چانه‌زنی رژیم را کاهش می‌دهد؛ نتیجهٔ عملی این خط زبان، افزایش احتمال حملات مستقیم و عملیات مشترک در منطقه است.",
-            "از منظر داخلی، تشدید فشار خارجی و تهدید نظامی می‌تواند به وخامت اقتصادی و تشدید قطب‌بندی سیاسی منجر شود و خطر واکنش‌های نظامی انتقام‌جویانه از سوی ایران و گسترش بحران منطقه‌ای را بالا ببرد."
-        ],
-        "impact": "اعلام هدف شکست نظامی ایران از سوی یک بازیگر بزرگ، احتمال تشدید درگیری‌های مستقیم و فرایند فرسایشی علیه تهران را افزایش می‌دهد و ثبات منطقه را به خطر می‌اندازد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "The Sunday Guardian",
-        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQkdfTzZkYWlUV0Z0Szkwc3BqMFh1bEZZQ05iN0d6UEpjWm0wUXhKbXM3RFJHbFIwbnB5c1Z5Q2toRTB5QTFQSzZlTllUU1JmT19oWURVT0w4QXpFTzJkbWZDVDNCNnl0YzY5aWFuTnJxZWhLWDR1TmtvRGpMdmNPa0lkQWpUc0FhV1ZLMnRpOVRWemhNcHhFcHJ0Rk9QU0JCQjU4WnJKLTU5ZG9lcVpITFBOLXFtTEhSQjlFVDdrWkw3eUx4eHZlTlQwb0Q5YmdrNDIyWmY0bGpiWlpIMjJTZThnclJud3lCbWE3bEVqUnhKdDNES0VIOUF2TGxZZFNiRldqdFJxOENsTUNvbnF6VVJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOQkdfTzZkYWlUV0Z0Szkwc3BqMFh1bEZZQ05iN0d6UEpjWm0wUXhKbXM3RFJHbFIwbnB5c1Z5Q2toRTB5QTFQSzZlTllUU1JmT19oWURVT0w4QXpFTzJkbWZDVDNCNnl0YzY5aWFuTnJxZWhLWDR1TmtvRGpMdmNPa0lkQWpUc0FhV1ZLMnRpOVRWemhNcHhFcHJ0Rk9QU0JCQjU4WnJKLTU5ZG9lcVpITFBOLXFtTEhSQjlFVDdrWkw3eUx4eHZlTlQwb0Q5YmdrNDIyWmY0bGpiWlpIMjJTZThnclJud3lCbWE3bEVqUnhKdDNES0VIOUF2TGxZZFNiRldqdFJxOENsTUNvbnF6VVJB",
-        "image": null,
-        "timestamp": 1772963541.0
     }
 ]
