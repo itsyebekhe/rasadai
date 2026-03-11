@@ -1,5 +1,77 @@
 [
     {
+        "title_fa": "به‌روزرسانی زنده: چه اتفاقی در اسرائیل، ایران، خاورمیانه می‌افتد؟",
+        "title_en": "Live Updates: What’s going on in Israel, Iran, Middle East?",
+        "summary": [
+            "گزارش زنده: در دوازدهمین روز درگیری آمریکا-ایران، حمله پهپادی اسرائیل در جنوب لبنان گزارش شده است؛ پهپاد به یک SUV در منطقه صاف‌الهواء برخورد کرده و از زمان حملات اسرائیل حدود ۷۸۰٬۰۰۰ نفر در لبنان آواره شده‌اند.",
+            "پی‌آمد راهبردی: ادامه فشار نظامی خارجی موجب تنگ‌تر شدن حاشیه مانور استراتژیک حکومت می‌شود — منابع مالی و نظامی مجبور به تمرکز روی عملیات دفاعی/تلافی‌جویانه می‌شوند و فضای بین‌المللی و اقتصادی کشور تحت فشار قرار می‌گیرد.",
+            "پی‌آمد داخلی و اقتصادی: استمرار درگیری، ضعف مدیریت و ناکارآمدی حکمرانی را برجسته می‌سازد؛ این شرایط احتمال افزایش نارضایتی اجتماعی، اختلال در خدمات عمومی و فشار مضاعف بر اقتصاد ملی را بالا می‌برد."
+        ],
+        "impact": "تشدید جنگ، توان اقتصادی و عملیاتی حکومت را فرسایش می‌دهد و خطر بی‌ثباتی داخلی و منطقه‌ای را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The Jerusalem Post",
+        "url": "https://zeenews.india.com/world/live-updates/iran-israel-war-live-updates-latest-news-defence-minister-katz-strait-of-hormuz-donald-trump-white-phosphorus-3025737.html",
+        "clean_url": "https://zeenews.india.com/world/live-updates/iran-israel-war-live-updates-latest-news-defence-minister-katz-strait-of-hormuz-donald-trump-white-phosphorus-3025737.html",
+        "image": null,
+        "timestamp": 1773219605.0
+    },
+    {
+        "title_fa": "مدیرعامل مرسک: هزینه جنگ ایران به مصرف‌کننده منتقل می‌شود",
+        "title_en": "Iran war cost will be passed to consumers, shipping giant boss tells BBC",
+        "summary": [
+            "ونسان کلرک، مدیرعامل مرسک، می‌گوید افزایش هزینه‌های حمل‌ونقل ناشی از جنگ بین آمریکا، اسرائیل و ایران و تعطیلی مسیر تنگه هرمز به‌صورت مستقیم به مشتریان و در نهایت به مصرف‌کنندگان منتقل خواهد شد؛ افزایش حدود ۲۰۰ دلار برای هر کانتینر ۲۰ فوتی که معادل ۱۵–۲۰٪ رشد برخی هزینه‌های حمل است.",
+            "خطوط کشتیرانی بزرگ عبور از تنگه هرمز و دریای سرخ را کنار گذاشته و کشتی‌ها مجبور به دورزدن از دماغه امیدنیک شده‌اند؛ چین با فراخواندن مدیران مرسک وارد مدیریت بحران شد که نشان می‌دهد بازیگران اقتصادی بزرگ می‌توانند نقشی تعیین‌کننده در کاهش یا تعدیل پیامدهای تجاری ایفا کنند.",
+            "اختلال در زنجیره تأمین کالاهای اساسی و افزایش هزینه‌های حمل، فشار فوری بر عرضه مواد غذایی و کالاهای مصرفی وارد می‌کند و تصمیم رژیم برای «بستن» مسیرها تحت عنوان «حال جنگ» نشان‌دهنده اولویت‌دادن به منطق نظامی بر نیازهای شهروندان و ناکارآمدی مدیریتی است که می‌تواند نارضایتی عمومی را شدت بخشد."
+        ],
+        "impact": "اختلال حمل‌ونقلی و افزایش هزینه‌ها فشار اقتصادی مستقیم بر خانوارها وارد می‌کند، توان مدیریتی رژیم را نشان می‌دهد و مشروعیت داخلی آن را تضعیف می‌کند.",
+        "tag": "تجارت",
+        "urgency": 6,
+        "sentiment": -0.65,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/c5ykzyd0rkyo",
+        "clean_url": "https://www.bbc.com/news/articles/c5ykzyd0rkyo",
+        "image": null,
+        "timestamp": 1773218307.0
+    },
+    {
+        "title_fa": "شکاف در راست افراطی اروپا بر سر جنگ آمریکا و اسرائیل علیه ایران",
+        "title_en": "Europe’s hard right fractures over US-Israel war on Iran",
+        "summary": [
+            "جریان‌های راست‌افراطی اروپایی بر سر جنگ آمریکا-اسرائیل علیه ایران تقسیم شده‌اند: چهره‌هایی مانند Nigel Farage و حزب اسپانیایی Vox از عملیات حمایت کرده‌اند، در حالی که رهبران AfD (Tino Chrupalla، Markus Frohnmaier)، بخش‌هایی از راست بریتانیا (Paul Golding) و جناحی از راست فرانسه (مواضع محتاطانه مارین لوپن) تردید یا مخالفت نشان داده‌اند.",
+            "تحلیلگران گزارش می‌دهند که مواضع این احزاب بیش از آنکه بر اصول ثابت استوار باشد، تابع ملاحظات ژئوپولیتیک و منافع لحظه‌ای است و وابستگی آشکار به دونالد ترامپ می‌تواند برای این جریان‌ها در عرصه سیاسی اروپایی هزینه‌ساز شود.",
+            "پیامدهای میدانی برای ایران: تشدید اقدام نظامی و حمایت صریح برخی شرکای غربی فشار خارجی را افزایش می‌دهد و می‌تواند توان اقتصادی و دیپلماتیک رژیم را هدف قرار دهد؛ این می‌تواند ریسک پدید آمدن موج‌های مهاجرتی و تشدید مشکلات داخلی را بالا ببرد، اما گزارش شواهد مستقیمی از اعتراضات داخلی مرتبط با این تحولات ارائه نکرده است."
+        ],
+        "impact": "کوتاه‌مدت، این شکستِ اتحاد در صفوف راست افراطی اروپا موقعیت دیپلماسیِ بین‌المللی رژیم را پیچیده‌تر و فشار خارجی را افزایش می‌دهد، اما هیچ علامتی از فروپاشی فوری ساختارهای قدرت در ایران در متن گزارش نیست.",
+        "tag": "شکاف",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/europe-hard-fractures-over-us-080328080.html",
+        "clean_url": "https://www.yahoo.com/news/articles/europe-hard-fractures-over-us-080328080.html",
+        "image": null,
+        "timestamp": 1773216413.0
+    },
+    {
+        "title_fa": "ترکیه در میانه تشدید جنگ مرتبط با ایران قرار گرفت",
+        "title_en": "Turkey caught in the middle as Iran war escalates",
+        "summary": [
+            "گزارش DW نشان می‌دهد تشدید جنگ مرتبط با ایران، ترکیه را به‌عنوان بازیگری میان‌گیر قرار داده و آنکارا با فشارهای همزمان امنیتی و دیپلماتیک روبه‌روست.",
+            "موقعیت میانی ترکیه می‌تواند آنکارا را به موازنه‌داری میان بازیگران منطقه‌ای و غرب وادارد و خطر گسترش درگیری‌ها و پیامدهای فرامرزی را افزایش دهد.",
+            "گزارش به‌صورت مشخص از تحریم‌ها یا ناآرامی‌های داخلی گزارش نمی‌دهد؛ اما تشدید جنگ بالقوه محرکی برای فشارهای اقتصادی و سیاسی داخلی و تشدید مخاطرات مرزی است."
+        ],
+        "impact": "تشدید جنگ مرتبط با ایران، ترکیه را در معرض فشار امنیتی و دیپلماتیک شدید قرار می‌دهد و احتمال گسترش بی‌ثباتی منطقه‌ای را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMW83OWlIM0hrWTI5bjJILUEyaS0zVDVhMEpDRDFUaTJ4SXowdGRFUTktX3J0TE4wVldKS1VCU0prX0NyQXJUUFpFN1JfX2tnRDQ3aUVrSHFnSDFFSzJkN3lkS21seW1fb1FBT3FTWmd0NDctR2dwTy1BT0k0aGZQTW1sc3BnVVZzSEHSAYoBQVVfeXFMTV83TjkyZ1VCbExMZXhvNTJDZmFMRmxqc0ZqOFdsSUJOQ0xveU1xTUJnMGd3U1dGc2xQTE5ld3c3c3BjamhXYnhrRW5yNVRtcDZ0V18zdlJaSkgzVVp3dHdqOFQwTjlJY1VrcG0zUkR2QldCcFRQYWk1emZBNExla1RPcEtlRFJhd0Fn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMW83OWlIM0hrWTI5bjJILUEyaS0zVDVhMEpDRDFUaTJ4SXowdGRFUTktX3J0TE4wVldKS1VCU0prX0NyQXJUUFpFN1JfX2tnRDQ3aUVrSHFnSDFFSzJkN3lkS21seW1fb1FBT3FTWmd0NDctR2dwTy1BT0k0aGZQTW1sc3BnVVZzSEHSAYoBQVVfeXFMTV83TjkyZ1VCbExMZXhvNTJDZmFMRmxqc0ZqOFdsSUJOQ0xveU1xTUJnMGd3U1dGc2xQTE5ld3c3c3BjamhXYnhrRW5yNVRtcDZ0V18zdlJaSkgzVVp3dHdqOFQwTjlJY1VrcG0zUkR2QldCcFRQYWk1emZBNExla1RPcEtlRFJhd0Fn",
+        "image": null,
+        "timestamp": 1773215994.0
+    },
+    {
         "title_fa": "ایران موشک‌ها و پهپادها را به سمت کشورهای خلیج و کشتی‌ای در تنگه هرمز شلیک کرد",
         "title_en": "Iran fires missiles, drones at Gulf nations as ship hit in Strait of Hormuz",
         "summary": [
@@ -324,6 +396,24 @@
         "timestamp": 1773169481.0
     },
     {
+        "title_fa": "کنترل هرمز توسط تهران؛ صادرات نفت بیش از پیش از جنگ",
+        "title_en": "Iran’s control of Hormuz means it’s exporting more oil today than before the war",
+        "summary": [
+            "تهران با باز گذاشتن عبور شناورهای حامل نفت خود و ترساندن سایر شناورها، عملاً صادرات نفت دولتی را نسبت به قبل از جنگ افزایش داده و به طور ضمنی کارایی بخشی از تحریم‌ها را کاهش می‌دهد.",
+            "استفاده از تنگه هرمز به‌عنوان اهرم، هزینه‌ها و مخاطرات عبور برای ناوگان غیرایرانی را بالا می‌برد و می‌تواند اختلال‌های بیمه‌ای و لجستیکی برای خریداران و واسطه‌ها ایجاد کند.",
+            "افزایش درآمد نفتی کوتاه‌مدت ممکن است فشار مالی رژیم را تسکین دهد اما یک راه‌حل موقت است و نشانه بی‌ثباتی مدیریتی و ناتوانی در اصلاحات ساختاری است؛ این اقدام مشروعیت داخلی را جبران نمی‌کند."
+        ],
+        "impact": "این تاکتیک تحریم‌ها را تا حدی تضعیف و درآمد فوری برای رژیم فراهم می‌کند اما آسیب‌پذیری ساختاری و بحران مدیریتی را برطرف نمی‌کند.",
+        "tag": "هرمز",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-control-of-hormuz-means-it-s-exporting-more-oil-today-than-before-the-war/ar-AA1XWsxE",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-control-of-hormuz-means-it-s-exporting-more-oil-today-than-before-the-war/ar-AA1XWsxE",
+        "image": null,
+        "timestamp": 1773169200.0
+    },
+    {
         "title_fa": "ادعای ایران درباره «شدیدترین عملیات»؛ اسرائیل بار دیگر تهران را بمباران کرد",
         "title_en": "Iran claims it launched ‘most intense’ operations so far, Israel bombards Tehran again",
         "summary": [
@@ -358,6 +448,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPa1hOc2tzMHlUNDFrNWlwVVk2Q1oxZmpxcFBVX0E0YkFsV1NZejBaU21fM1VKa0gxVElfZUZhTXE4UXlkZDRaVjJ5ZGQtM0V4Y3Nmb3VacENsRGpyYzV0bE8xZWt2Q3QtWFRlNS1SQVJQVmlsV1RV0gF8QVVfeXFMT1k3QTNrUEpoMVBNVWhWVk5DLVpoUFRDVHU3ZURreTNPMGw5SzFLbWFOa2pBR2FvV3VPS3lma3AteVFLRnNCc2RaS29xV0NUWWV5M3AzWjRTRVFVUEctY1ppdnRXTmdES0pjcWRpQUlQS0s0aFVyTUJ5UXZWXw",
         "image": null,
         "timestamp": 1773166462.0
+    },
+    {
+        "title_fa": "حداقل ۱۷ محل آمریکایی در ضربات متقابل ایران آسیب دیدند؛ تحلیل نیویورک‌تایمز",
+        "title_en": "At Least 17 U.S. Sites Damaged in War With Iran, Analysis Shows",
+        "summary": [
+            "نیویورک‌تایمز دست‌کم ۱۷ سایت مربوط به آمریکا یا میزبان نیروهای آمریکایی در منطقه را که از جمله شامل پایگاه‌ها، سفارت‌خانه‌ها و سامانه‌های دفاع هوایی است، به‌واسطه حملات موشکی و پهپادی ایران و گروه‌های همسو آسیب‌دیده شناسایی کرده است؛ دست‌کم ۱۱ پایگاه نظامی آمریکایی آسیب دیده‌اند (مثلاً پایگاه‌های پرینس سلطان، علی‌السالام، کمپ بوی‌رینگ و العُدید و فرودگاه اربیل).",
+            "ادعاهای خبر بر پایه تصاویر ماهواره‌ای با وضوح بالا، ویدئوهای تایید شده در شبکه‌های اجتماعی و بیانیه‌های مقامات آمریکایی و رسانه‌های رسمی ایران است؛ برخی از اهداف نیز توسط شبه‌نظامیان هم‌محور با ایران هدف قرار گرفته‌اند و گزارش‌ها حاکی از تلفات و تخریب زیرساخت‌های ارتباطی و دفاعی است.",
+            "تحلیل کوتاه از پی‌آمدها: شدت حملات و دامنه ضربات باعث وارد آمدن تقابل مستقیم با آمریکا شده و می‌تواند واکنش سخت‌تر واشنگتن و متحدانش (از جمله تشدید فشارهای سیاسی و اقتصادی یا تحریم‌ها) را محتمل سازد؛ متن گزارش شواهد مستقیمی درباره اعتراضات داخلی یا وضعیت اقتصادی ارائه نمی‌دهد، بنابراین هر‌گونه نتیجه‌گیری در این زمینه باید با احتیاط و بر پایه شواهد مستقل دنبال شود."
+        ],
+        "impact": "پی‌آمد راهبردی فوری این است که منطقه وارد فاز بی‌سابقه‌ای از تقابل نظامی با آمریکا شده که احتمال واکنش شدید واشنگتن و افزایش فشارهای بین‌المللی علیه ایران را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/interactive/2026/03/11/world/middleeast/iran-us-military-bases-strikes-map.html",
+        "clean_url": "https://www.nytimes.com/interactive/2026/03/11/world/middleeast/iran-us-military-bases-strikes-map.html",
+        "image": "http://www.bing.com/th?id=OVFT.owHIJh-XdxwHiI-Jpb3kfi&pid=News",
+        "timestamp": 1773165540.0
     },
     {
         "title_fa": "ایالات متحده 16 شناور مین‌گذار ایران را منهدم کرد؛ تهران تهدید به بستن صادرات نفت منطقه کرد",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.theguardian.com/world/2026/mar/07/iran-us-israel-war-regime-change",
         "image": null,
         "timestamp": 1772903160.0
-    },
-    {
-        "title_fa": "سفیر ایران به بریتانیا: درباره دخالت بیشتر در جنگ «بسیار مراقب» باشید",
-        "title_en": "Iranian ambassador warns UK to be 'very careful' about further involvement in war",
-        "summary": [
-            "سفیر ایران در بریتانیا هشدار داد که لندن باید در صورت «دخالت بیشتر» در جنگ بسیار محتاط عمل کند.",
-            "این اظهارات، علامت رسمی تهران برای بازدارندگی دیپلماتیک است و هدف آن محدود کردن مداخلات خارجی و جلوگیری از تشدید مستقیم درگیری‌ها به نفع منافع داخلی حکومت است.",
-            "پاسخ بریتانیا یا شرکای غربی می‌تواند به تشدید تنش دیپلماتیک، افزایش انزوای بین‌المللی و احتمال واکنش‌های متقابل منطقه‌ای منجر شود."
-        ],
-        "impact": "این هشدار ممکن است در کوتاه‌مدت تنش‌های دیپلماتیک بین تهران و لندن را افزایش دهد و زمینه را برای فشارهای خارجی و تضعیف بیشتر ثبات سیاسی و اقتصادی رژیم فراهم کند.",
-        "tag": "هشدار",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNnZabUZITnhNM19qZlIxdmZZSnROTjFJVC1zRDdsT1IxSEU4OUtadUF3UkJ1VFBmNlU3UXhfU1FXdmwzcU1NQ0YwM1J4SDA0ekdBWjJxSUkwQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1pNnZabUZITnhNM19qZlIxdmZZSnROTjFJVC1zRDdsT1IxSEU4OUtadUF3UkJ1VFBmNlU3UXhfU1FXdmwzcU1NQ0YwM1J4SDA0ekdBWjJxSUkwQQ",
-        "image": null,
-        "timestamp": 1772902437.0
-    },
-    {
-        "title_fa": "رد ادعای ترامپ درباره اعطای «حق سلاح هسته‌ای» به ایران توسط توافق ۲۰۱۵",
-        "title_en": "Fact-checking Trump's comments that a 2015 deal gave Iran the right to nuclear weapons",
-        "summary": [
-            "ادعای ترامپ که توافق هسته‌ای ۲۰۱۵ به ایران «حق ساخت سلاح هسته‌ای» داده، نادرست است؛ برجام محدودیت‌ها و مکانیسم‌های بازرسی را برای ممانعت از تسلیح هسته‌ای برقرار کرد و متن توافق چنین حقی را اعطا نمی‌کند.",
-            "ترامپ از این ادعا برای توجیه خروج آمریکا و بازگرداندن تحریم‌ها استفاده کرد؛ بازگشت تحریم‌ها فشار اقتصادی را تشدید کرده و به طور ساختاری توان رژیم را در مدیریت اقتصاد و کارکرد نهادها تضعیف نموده است.",
-            "هرچند بعضی محدودیت‌ها زمان‌بندی شده بودند، این امر به معنای اعطای «حق» تولید سلاح نیست — اظهارات متهم‌کننده ترامپ تفسیر حقوقی متن توافق را تحریف می‌کند و نباید به عنوان مبنای سیاست‌گذاری اتکا شود."
-        ],
-        "impact": "رد این ادعا از نظر حقوقی می‌تواند به کاهش ابزارهای تبلیغاتی برای توجیه تحریم‌ها کمک کند، اما پیامدهای واقعی بازگشت تحریم‌ها ادامه فشار اقتصادی و تشدید بی‌ثباتی سیاسی در داخل را حفظ می‌کنند.",
-        "tag": "هسته‌ای",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0JIY1Z2ZTczOFdrOTBOSXFmTVd5SmhhbzVBRGluVWRsRklhVEQ0blFiU3dfRk5PMm1UOXpZWDR1TGg0Vk5xX1JrWkUwc1J2MnZQazFESXNERnRUM2hoZG0ta0FrS2VfZnI2a0pQRlJrcktnOVZWREdXWlVhd2xrVW1TZDJINEJ2c3BUU01MVW43STNBSjBXRk1BQzdqbmxwQVMzb1hRN3lTZzI1elhwWEZwX2xtMU9LTGJ2bdIBwgFBVV95cUxQNnJjYzZmMFFRY0VYVzJPcEc4T0tXLUVaRDNDUzBCLXZPeGpEdVdvRXFNelRTWV9QWEVzMGY3OVFsZmU1OVBRLU0tdXBkZ0NqM1lhZXRicEFZT0ZMdnJGS2ZyN3R1Z0ZRblB0aUsxVUpvQ2RoX1RHYS13SHFFRkFlLWRaMVhERzJ6Nnl2OGpIS0QxbVVxSEwtQnRnTWlRVGsxUHk4VHhZVlFoa24zbXB1OEoxSzNqcXk2RURUOVI0RmpoZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0JIY1Z2ZTczOFdrOTBOSXFmTVd5SmhhbzVBRGluVWRsRklhVEQ0blFiU3dfRk5PMm1UOXpZWDR1TGg0Vk5xX1JrWkUwc1J2MnZQazFESXNERnRUM2hoZG0ta0FrS2VfZnI2a0pQRlJrcktnOVZWREdXWlVhd2xrVW1TZDJINEJ2c3BUU01MVW43STNBSjBXRk1BQzdqbmxwQVMzb1hRN3lTZzI1elhwWEZwX2xtMU9LTGJ2bdIBwgFBVV95cUxQNnJjYzZmMFFRY0VYVzJPcEc4T0tXLUVaRDNDUzBCLXZPeGpEdVdvRXFNelRTWV9QWEVzMGY3OVFsZmU1OVBRLU0tdXBkZ0NqM1lhZXRicEFZT0ZMdnJGS2ZyN3R1Z0ZRblB0aUsxVUpvQ2RoX1RHYS13SHFFRkFlLWRaMVhERzJ6Nnl2OGpIS0QxbVVxSEwtQnRnTWlRVGsxUHk4VHhZVlFoa24zbXB1OEoxSzNqcXk2RURUOVI0RmpoZw",
-        "image": null,
-        "timestamp": 1772902134.0
-    },
-    {
-        "title_fa": "ترامپ: ایران مدرسه دختران را بمباران کرد؛ «آنها هیچ دقتی ندارند»",
-        "title_en": "Trump says Iran bombed girls' school. 'They have no accuracy whatsoever'",
-        "summary": [
-            "خبر منبع حاوی ادعای ترامپ است که به‌طور مستقیم ایران را متهم به بمباران یک مدرسه دخترانه کرده و گفته حملات ایران «هیچ دقتی ندارند».",
-            "چنین اتهامی از سوی یک بازیگر سیاسی برجسته می‌تواند به بهانه‌ای برای تشدید فشارهای بین‌المللی، تحریم‌ها یا مداخلات نظامی تبدیل شود و در نتیجه ساختارهای اقتصادی و سیاسی رژیم را تضعیف کند.",
-            "اگر این ادعاها تقویت شوند، می‌توانند مشروعیت داخلی حکومت را کاهش دهند و به‌عنوان نشانه‌ای از ناکارآمدی در محافظت از شهروندان مطرح شوند؛ این وضعیت آستانه نارضایتی عمومی و فشار اقتصادی را افزایش می‌دهد."
-        ],
-        "impact": "ادعاهای علنی علیه ایران می‌تواند زمینه را برای تشدید تحریم‌ها و فشارهای دیپلماتیک فراهم کرده و ثبات ساختاری رژیم را بیشتر متزلزل کند.",
-        "tag": "اتهام",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/nation/2026/03/07/trump-blames-iran-girls-school-bombing/89044150007/",
-        "clean_url": "https://www.usatoday.com/story/news/nation/2026/03/07/trump-blames-iran-girls-school-bombing/89044150007",
-        "image": "http://www.bing.com/th?id=ONUT.OFBow3HEGxelSoxbR-MrCg&pid=News",
-        "timestamp": 1772900520.0
-    },
-    {
-        "title_fa": "ترامپ وعده تشدید جنگ داد؛ شکاف‌ها در ایران آشکار شد",
-        "title_en": "Trump vows to escalate war as divisions in Iran emerge",
-        "summary": [
-            "گزارش می‌گوید موج فعالیت‌های نظامی در آخر هفته نشان می‌دهد جنگ غیرمنتظره ترامپ علیه ایران ادامه دارد و هیچ نشانه‌ای از کاهش دیده نمی‌شود.",
-            "تیتر به وجود آمدن شکاف‌های داخلی در ایران اشاره می‌کند؛ تنش‌های سیاسی و اختلاف میان نهادهای قدرت احتمالا با تشدید عملیات خارجی برجسته‌تر شده‌اند.",
-            "تشدید جنگ خطر تشدید فشارهای اقتصادی و سیاسی خارجی را افزایش می‌دهد که ساختارهای حکومتی را از نظر مالی و مشروعیت تضعیف خواهد کرد."
-        ],
-        "impact": "تداوم و تشدید عملیات نظامی آمریکا ساختارهای بقا و انسجام داخلی رژیم را بیشتر تضعیف کرده و احتمال رشد نارضایتی اجتماعی و بحران اقتصادی را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Los Angeles Times on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-vows-to-escalate-war-as-divisions-in-iran-emerge/ar-AA1XK2Sw",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-vows-to-escalate-war-as-divisions-in-iran-emerge/ar-AA1XK2Sw",
-        "image": "http://www.bing.com/th?id=OVFT.pj8FFNz0DDcQqNOBf8NIEi&pid=News",
-        "timestamp": 1772899979.0
-    },
-    {
-        "title_fa": "مقامات سابق دولت ترامپ: طرح‌های اسرائیل به ورود آمریکا به جنگ با ایران کمک کرد",
-        "title_en": "Trump officials say Israel’s plans helped lead the US into Iran war",
-        "summary": [
-            "مقامات سابق دولت ترامپ گزارش داده‌اند که طرح‌ها یا لابی‌های اسرائیل نقش تاثیرگذاری در سوق دادن آمریکا به برخورد نظامی با ایران داشته است؛ خودِ گزارش جزئیات و اسناد ادعایی را تشریح می‌کند اما بر نقش بازیگر خارجی در روند تصمیم‌گیری تأکید دارد.",
-            "از منظر فشار خارجی و تحریم‌ها، ورود آمریکا به جنگ می‌تواند ساختارهای اقتصادی ایران را بیشتر تضعیف کند و به تشدید تحریم‌ها و فشار مالی-نظامی علیه رژیم بینجامد که به نارضایتی اجتماعی و ضعف مدیریت داخلی دامن می‌زند.",
-            "اگر ادعاها صحت داشته باشد، نشان‌دهنده نقش فعال بازیگران منطقه‌ای در جهت‌دهی به سیاست خارجی آمریکا است و این امر پیامدهای راهبردی و امنیتی گسترده‌ای برای ثبات منطقه و توان دفاعی ایران دارد."
-        ],
-        "impact": "این گزارش به‌عنوان یک هشدار راهبردی عمل می‌کند: مداخله بازیگران خارجی در تصمیم‌گیری‌های واشنگتن می‌تواند منجر به تشدید جنگ، فشارهای اقتصادی بیشتر و افزایش شکنندگی سیاسی-اجتماعی در ایران شود.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTJQYll3OHpVS0VKdjNfRC1pWXVLN2pzLWhfSVRjN2xWM01GNWtCMGRDWDJ6T19MX1E3elNoOFBFclZsdzZjcW5pZkpaWXJfeWd6QU9BOHVkWDN5TTlpN2VuWVFXeFdkVXR6bWJfdXdyOFVacmdZOHNRX25KUXBtZHBlQndaSTFNNEtjek1jRlBta2hM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZTJQYll3OHpVS0VKdjNfRC1pWXVLN2pzLWhfSVRjN2xWM01GNWtCMGRDWDJ6T19MX1E3elNoOFBFclZsdzZjcW5pZkpaWXJfeWd6QU9BOHVkWDN5TTlpN2VuWVFXeFdkVXR6bWJfdXdyOFVacmdZOHNRX25KUXBtZHBlQndaSTFNNEtjek1jRlBta2hM",
-        "image": null,
-        "timestamp": 1772894464.0
-    },
-    {
-        "title_fa": "پرسش‌های سخت درباره جنگ با ایران — پاسخ‌ داده شد",
-        "title_en": "Tough Questions About the Iran War — Answered",
-        "summary": [
-            "آمریکن جیویش کمیته (AJC) مطلبی به صورت سؤال‌و‌پاسخ منتشر کرده که عنوان آن پردازش پرسش‌های دشوار پیرامون جنگ با ایران است.",
-            "عنوان نشان می‌دهد موضوعات کلیدی مانند گزینه‌های نظامی، پیامدهای دیپلماتیک و تبعات منطقه‌ای مورد بحث قرار گرفته‌اند، اما متن کامل برای ارزیابی جزئیات در دسترس نیست.",
-            "بدون دسترسی به محتوای کامل نمی‌توان ادعاهای مشخص درباره اثرات تحریم‌ها، تضعیف ساختارهای داخلی یا نقش بازیگران خارجی را تأیید یا رد کرد؛ تحلیل‌های بعدی باید منحصراً مبتنی بر متن مقاله باشند."
-        ],
-        "impact": "این قطعه می‌تواند در افکار عمومی و حلقه‌های سیاست‌گذاری غربی درباره گزینه‌های برخورد با ایران نقش راهبردی ایفا کند، اما ارزیابی دقیق از پیامدهای داخلی یا تضعیف رژیم نیازمند دسترسی به متن کامل است.",
-        "tag": "جنگ",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "American Jewish Committee (AJC)",
-        "url": "https://www.msn.com/en-us/news/opinion/pentagon-policy-chief-grilled-as-dem-claims-trump-broke-promise-about-going-to-war-with-iran/ar-AA1XBtPO",
-        "clean_url": "https://www.msn.com/en-us/news/opinion/pentagon-policy-chief-grilled-as-dem-claims-trump-broke-promise-about-going-to-war-with-iran/ar-AA1XBtPO",
-        "image": null,
-        "timestamp": 1772894300.0
     }
 ]
