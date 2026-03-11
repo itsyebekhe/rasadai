@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "بار دیگر خاورمیانه به جنگ کشیده شد",
+        "title_en": "Once again, the Middle East has been plunged into war",
+        "summary": [
+            "خبر اصلی: France ONU گزارش می‌دهد که خاورمیانه بار دیگر به جنگ کشیده شده؛ نشان‌دهنده تشدید سریع و گسترده تنش‌های منطقه‌ای است.",
+            "فشارهای خارجی/تحریم‌ها: تشدید نظامی احتمال افزایش فشار و تحریم‌های بین‌المللی علیه بازیگران منطقه‌ای را بالا می‌برد و میتواند ساختارهای سیاسی وابسته را به صورت ساختاری تضعیف کند.",
+            "اقتصاد و نارضایتی داخلی: هزینه‌های بالای جنگ، اختلال در تجارت و انرژی و ضعف مدیریتی دولت‌ها را برجسته می‌کند؛ این ترکیب بار فشار اقتصادی را بیشتر کرده و خطر افزایش نارضایتی و اعتراضات اجتماعی را تشدید می‌کند."
+        ],
+        "impact": "گسترش جنگ در خاورمیانه سرعتاً منابع دولتی را می‌بلعد، موج فشار خارجی را تشدید می‌کند و ثبات داخلی را در کشورهای آسیب‌پذیر به خطر می‌اندازد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "France ONU",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2ZzRk1LeV9JYVRsSmJLdGk2bGIyeU4tNGc1RjRTSkZZb2Jsc2p0dFdfV2lPejEwNUl4TUtwMkRkZlBTQU9XcV9sNmZvNnNVZktxNjU5MFlFZWdsQW5zUFQ3V25sSkpscmdnWGdsLWtiRElIdEczRDhqV3dSdkRBdmdwUDN5SUk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2ZzRk1LeV9JYVRsSmJLdGk2bGIyeU4tNGc1RjRTSkZZb2Jsc2p0dFdfV2lPejEwNUl4TUtwMkRkZlBTQU9XcV9sNmZvNnNVZktxNjU5MFlFZWdsQW5zUFQ3V25sSkpscmdnWGdsLWtiRElIdEczRDhqV3dSdkRBdmdwUDN5SUk",
+        "image": null,
+        "timestamp": 1773266757.0
+    },
+    {
         "title_fa": "اف‌بی‌آی هشدار داد: ایران قصد داشت با پهپاد کالیفرنیا را به‌عنوان تلافی جنگ هدف قرار دهد",
         "title_en": "FBI warns Iran aspired to attack California with drones in retaliation for war: Alert",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://www.reuters.com/world/middle-east/trump-tells-axios-war-iran-will-end-soon-practically-nothing-left-target-2026-03-11",
         "image": null,
         "timestamp": 1773237630.0
+    },
+    {
+        "title_fa": "پیام‌های متناقض دونالد ترامپ درباره ایران سوالات بی‌پاسخ برجای گذاشت",
+        "title_en": "Donald Trump’s mixed messages on Iran leave questions unanswered",
+        "summary": [
+            "ترامپ اهداف مشخصی اعلام نکرد؛ واژه «تسلیم بی‌قیدوشرط» را به کار برد اما مفهوم عملی آن — واگذاری قدرت یا سازش برای پایان درگیری — را توضیح نداد.",
+            "در زمان‌بندی جنگ تناقض نشان داد: چند روز پیش از آن بازه چند هفته‌ای را مطرح کرده بود، اما در پرواز با جمله «نمی‌دانم، هرچه لازم باشد» مردد ظاهر شد.",
+            "بدون ارائه شواهد مشخص، ترامپ مدعی شد حمله مرگبار به مدرسه ابتدایی دخترانه در جنوب‌غرب ایران را ایران انجام داده؛ این ادعا تیم او و خبرنگاران را غافلگیر کرد و منبع آن نامشخص ماند."
+        ],
+        "impact": "پیام‌های متناقض کاخ‌سفید و ادعاهای بدون شواهد، اعتبار اطلاعاتی آمریکا را تضعیف و خطر تشدید نظامی را افزایش می‌دهد که ثبات منطقه‌ای و موقعیت سیاسی حکومت ایران را پیچیده‌تر می‌کند.",
+        "tag": "ابهام",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/mar/11/trump-iran-war-mixed-messages",
+        "clean_url": "https://www.theguardian.com/us-news/2026/mar/11/trump-iran-war-mixed-messages",
+        "image": null,
+        "timestamp": 1773236640.0
     },
     {
         "title_fa": "وزیر ورزش: ایران نمی‌تواند در جام جهانی شرکت کند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/why-are-iranian-leaders-sending-mixed-messages-on-gulf-attacks/ar-AA1XL7MO",
         "image": null,
         "timestamp": 1772970331.0
-    },
-    {
-        "title_fa": "حملات گسترده پس از کشته شدن علی خامنه‌ای؛ تبادل ضربات میان ایران و اسرائیل",
-        "title_en": "UAE hits Iran in first strike of Israel-Iran war",
-        "summary": [
-            "حمله غافلگیرانه آمریکا و اسرائیل به مراکز دولتی ایران منجر به کشته شدن علی خامنه‌ای و دیگر مقامات ارشد شد؛ منابع رسمی از بیش از ۲۰۰ کشته در ایران از زمان آغاز حملات خبر داده‌اند و مسؤلان ایرانی وعده انتقام دادند.",
-            "ایران در واکنش موشک‌هایی به سمت اسرائیل و کشورهای خلیج فارس شلیک کرد؛ اسرائیل حملات «بی‌وقفه» را وعده داد و در داخل اسرائیل انفجارها گزارش شد که از جمله اصابت به یک کنیسه در بیت‌شمیش دست‌کم ۹ کشته و ۲۸ زخمی برجای گذاشت؛ وزارت دفاع آمریکا سه نظامی کشته‌شده را تأیید کرد.",
-            "تیتر منتشرشده به دخالت احتمالی امارات اشاره می‌کند اما متن گزارش اشاره مستقیمی به شلیک امارات ندارد؛ این تناقض نشان می‌دهد دامنه درگیری ممکن است فراتر از تهران-تل‌آویو گسترش پیدا کند و ورود بازیگران منطقه‌ای را تقویت کند."
-        ],
-        "impact": "کشته شدن رهبر و ضربات متقابل ساختار فرماندهی و انسجام رژیم را به‌شدت تضعیف کرده و می‌تواند فرآیند فروپاشی سیاسی را تسریع و نارضایتی و بحران اقتصادی را تشدید کند.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Jerusalem Post",
-        "url": "https://www.dailynews.com/2026/03/01/iran-vows-revenge-after-the-killing-of-its-top-leader-and-trades-strikes-with-israel-in-widening-war/",
-        "clean_url": "https://www.dailynews.com/2026/03/01/iran-vows-revenge-after-the-killing-of-its-top-leader-and-trades-strikes-with-israel-in-widening-war",
-        "image": null,
-        "timestamp": 1772969733.0
-    },
-    {
-        "title_fa": "برای نتانیاهو، ترامپ دعاها را اجابت کرد — با قید و شرط",
-        "title_en": "For Israel’s Netanyahu, Trump grants prayers — with caveats",
-        "summary": [
-            "عنوان گزارش نشان می‌دهد که دونالد ترامپ از مطالبات نتانیاهو حمایت لفظی کرده اما این حمایت مشروط و ناقص است؛ جزئیات قیدها در متن ارائه‌شده معلوم نیست.",
-            "حمایت مشروط واشنگتن می‌تواند اختیارات سیاسی و عملیاتی دولت اسرائیل را در تصمیم‌گیری‌های راهبردی محدود کند و باعث بازنگری تل‌آویو در سیاست‌های کوتاه‌مدت شود.",
-            "در متن ارائه‌شده هیچ اشاره‌ای به تحریم‌ها، فشار خارجی یا وضعیت اقتصادی و اعتراضات داخلی در ایران وجود ندارد؛ بنابراین ادعاهای مستقیم درباره تضعیف ساختاری یا پیامدهای داخلی برای رژیم ایران از دل این عنوان استخراج‌پذیر نیست، هرچند سیاست‌های مشروط آمریکا می‌تواند بازیگری منطقه‌ای تهران را مجبور به تطبیق کند."
-        ],
-        "impact": "حمایت مشروط آمریکا از نتانیاهو فضای دیپلماتیک را تغییر می‌دهد و می‌تواند هم محدودیت عملیاتی برای اسرائیل و هم نیاز به بازتنظیم واکنش‌های منطقه‌ای از سوی ایران ایجاد کند.",
-        "tag": "خاورمیانه",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/other/for-israel-s-netanyahu-trump-grants-prayers-with-some-unwelcome-caveats/ar-AA1XKKL7",
-        "clean_url": "https://www.msn.com/en-us/news/other/for-israel-s-netanyahu-trump-grants-prayers-with-some-unwelcome-caveats/ar-AA1XKKL7",
-        "image": null,
-        "timestamp": 1772968572.0
     }
 ]
