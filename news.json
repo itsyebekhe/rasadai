@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تشدید حملات هوایی در جنگ خاورمیانه همزمان با سرکوب اعتراض‌ها در ایران",
+        "title_en": "Combatants in Mideast war trade more air strikes as Iran clamps down on dissent",
+        "summary": [
+            "طرف‌های درگیر تبادل حملات هوایی را شدت بخشیده‌اند؛ افزایش عملیات هوایی ریسک تسری درگیری و پیچیده‌تر شدن هرگونه تلاش برای کاهش تنش را بالا می‌برد.",
+            "دستگاه حکومتی ایران سرکوب و محدودسازی اعتراض‌ها را تشدید کرده است؛ رویکردی صرفاً امنیتی که احتمالاً پایه اجتماعیِ حکومت را بیش‌تر تضعیف می‌کند و فضای سیاسی را بسته‌تر می‌سازد.",
+            "هم‌پوشانی تشدید درگیری‌های منطقه‌ای و سرکوب داخلی توان مدیریتی و اولویت‌گذاری منابع را تحت فشار قرار می‌دهد؛ همچنین، هر گونه تشدید فشار خارجی (تحریم‌ها یا انزوای دیپلماتیک) می‌تواند ساختارهای اقتصادی و سیاسی رژیم را بیش از پیش آشکارا تضعیف کند."
+        ],
+        "impact": "ترکیب افزایش حملات هوایی در منطقه و تشدید سرکوب داخلی احتمال تسریع تنش‌های منطقه‌ای و تضعیف مشروعیت و تاب‌آوری داخلی رژیم را افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/combatants-mideast-war-trade-more-air-strikes-iran-clamps-down-dissent-2026-03-11/",
+        "clean_url": "https://www.reuters.com/world/middle-east/combatants-mideast-war-trade-more-air-strikes-iran-clamps-down-dissent-2026-03-11",
+        "image": null,
+        "timestamp": 1773199860.0
+    },
+    {
+        "title_fa": "چرا بنیامین نتانیاهو اکنون ایران را هدف قرار داد",
+        "title_en": "Why Netanyahu Chose to Strike Iran Now",
+        "summary": [
+            "مقاله بررسی می‌کند که بنیامین نتانیاهو، نخست‌وزیر اسرائیل، چرا در این مقطع زمانی تصمیم به حمله یا ضربه‌زدن علیه اهداف ایرانی گرفته است و این انتخاب را مبتنی بر محاسبات سیاسی و نظامی توضیح می‌دهد.",
+            "نویسنده عوامل احتمالی را به‌صورت محتمل مطرح می‌کند: منافع سیاسی داخلی نتانیاهو، ارزیابی از تهدیدات هسته‌ای یا نظامی ایران، و تلاش برای بهره‌برداری از زمان‌بندی جهت کسب مزیت دیپلماتیک یا بازدارندگی.",
+            "نتیجه‌گیری مقاله نشان می‌دهد که این اقدام/این زمان‌بندی پیام‌های استراتژیک آشکاری به بازیگران منطقه‌ای و بین‌المللی می‌فرستد و می‌تواند پیامدهای بلندمدتی برای ثبات منطقه‌ای داشته باشد."
+        ],
+        "impact": "اگر این حمله یا کوشش برای ضربه‌زدن اجرا شده یا دنبال شود، فشار خارجی و احتمال تحریم‌ها و انزوا را افزایش می‌دهد و هم‌زمان می‌تواند نارضایتی عمومی و بحران‌های اقتصادی داخل ایران را تشدید کند.",
+        "tag": "حمله",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Arab Center Washington DC",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yMVZXek5aWmJnYTJycXdQZEF2NDd5dUtDMjl0clRSSTY3cjNxQ2FkMDE5WXFTWkdrTmRUR19zeDZuWlNRcUZXUGVocm16c3hUbHFBem5KdnlhMmRoaGZ6UW0yb3VJYU82UE5qUTVFSFl6N25iYVpmS3IzRUFWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yMVZXek5aWmJnYTJycXdQZEF2NDd5dUtDMjl0clRSSTY3cjNxQ2FkMDE5WXFTWkdrTmRUR19zeDZuWlNRcUZXUGVocm16c3hUbHFBem5KdnlhMmRoaGZ6UW0yb3VJYU82UE5qUTVFSFl6N25iYVpmS3IzRUFWZw",
+        "image": null,
+        "timestamp": 1773191151.0
+    },
+    {
         "title_fa": "بروزرسانی زنده: راکت‌های حزب‌الله به مناطق مرکزی اسرائیل رسیدند",
         "title_en": "Live Updates: Hezbollah rockets reach central Israel",
         "summary": [
@@ -70,6 +106,24 @@
         "clean_url": "https://www.usatoday.com/videos/news/2026/03/10/pentagon-announces-140-troops-injured-in-iran-war-says-most-are-minor/89089368007",
         "image": null,
         "timestamp": 1773177437.0
+    },
+    {
+        "title_fa": "آمریکا و ایران در موضع‌گیری سخت‌تر؛ تهدیدها و حملات تشدید شد",
+        "title_en": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+        "summary": [
+            "تشدید نظامی: ایران حملات به زیرساخت‌های نفتی و تهدید به بستن یک گذرگاه حیاتی را انجام داد؛ همزمان وزارت دفاع آمریکا و پنتاگون وعدهٔ «شدت‌ترین» ضربات را داده‌اند و اسرائیل نیز حملاتی علیه اهداف در ایران و لبنان انجام می‌دهد.",
+            "تأثیر داخلی و انسانی: ساکنان تهران از شدیدترین حملات گزارش می‌دهند—قطع برق، اصابت به ساختمان‌های مسکونی، بازارهای نیمه‌تعطیل و ده‌ها هزار نفر که برای پناه‌گیری به حومه رفته‌اند—که نمایانگر ناتوانی حکمرانی در حفاظت از جمعیت شهری است.",
+            "ابعاد منطقه‌ای و بازارها: جنگ وارد روز یازدهم شده و اثرات آن فراتر از مرزها پخش شده است؛ بازارها نگران شده‌اند و تصمیم طرفین برای کنار گذاشتن مذاکرات ریسک گسترش درگیری و بی‌ثباتی اقتصادی را بالا می‌برد."
+        ],
+        "impact": "تداوم چرخهٔ تهدید و تلافی نظامی، فشارهای خارجی و شوک‌های اقتصادی را تشدید کرده و تاب‌آوری سیاسی و اقتصادی حکومت را در برابر نارضایتی داخلی کاهش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Orange County Register",
+        "url": "https://www.ocregister.com/2026/03/10/iran-israel-us-war/",
+        "clean_url": "https://www.ocregister.com/2026/03/10/iran-israel-us-war",
+        "image": null,
+        "timestamp": 1773177180.0
     },
     {
         "title_fa": "آمریکا احتمال اعزام نیرو به داخل ایران برای تامین انبارهای هسته‌ای را بررسی می‌کند",
@@ -286,6 +340,24 @@
         "clean_url": "https://thehill.com/homenews/administration/5776874-us-iran-conflict-months",
         "image": null,
         "timestamp": 1773158987.0
+    },
+    {
+        "title_fa": "آغاز کاشت مین در تنگه هرمز توسط ایران، بر اساس منابع اطلاعاتی آمریکا",
+        "title_en": "Iran begins laying mines in Strait of Hormuz, sources say",
+        "summary": [
+            "گزارش‌های اطلاعاتی آمریکا حاکی است ایران عملیات کاشت مین را در تنگه هرمز آغاز کرده است؛ تا کنون مقیاس محدود اما نمادین است.",
+            "این اقدام در چارچوب تهدید رژیم به «بستن تنگه» و در امتداد تنش‌های جاری با ایالات متحده و اسرائیل قرار می‌گیرد و ریسک اختلال در مسیرهای حیاتی نفتی جهانی را افزایش می‌دهد.",
+            "پیامد فوری احتمال تشدید فشارهای بین‌المللی—ازجمله تحریم‌های تازه، افزایش حضور نظامی دریایی خارجی و اختلال در بیمه و تانکرینگ نفتی—است؛ این نشان‌دهنده مدیریت بحران از سوی رژیم به‌روش‌هایی است که هزینه اقتصادی و سیاسی داخلی را بالا می‌برد."
+        ],
+        "impact": "کاشت مین در تنگه هرمز می‌تواند به‌سرعت منجر به تحریم‌های مضاعف، عملیات نظامی-دریایی بین‌المللی و اختلال جدی در جریان نفتی جهانی شود که ثبات اقتصادی رژیم را تشدیداً تضعیف خواهد کرد.",
+        "tag": "امنیت",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/03/10/politics/iran-begins-laying-mines-in-strait-of-hormuz",
+        "clean_url": "https://www.cnn.com/2026/03/10/politics/iran-begins-laying-mines-in-strait-of-hormuz",
+        "image": null,
+        "timestamp": 1773156900.0
     },
     {
         "title_fa": "جنگ با ایران قیمت‌های نفت را بالا برد و شوکی دیگر به اقتصاد جهانی وارد کرد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.bbc.com/news/articles/c4g0pnnj8xyo",
         "image": null,
         "timestamp": 1772886422.0
-    },
-    {
-        "title_fa": "متحدان نگرانند جنگ با ایران آنها را از سلاح‌های آمریکایی که خریده‌اند محروم کند",
-        "title_en": "Allies fear Iran war will leave them without US weapons they bought",
-        "summary": [
-            "متحدان منطقه‌ای نگرانند که در صورت تشدید جنگ با ایران، دسترسی‌شان به تسلیحات آمریکایی خریداری‌شده قطع یا تدارکات آن مختل شود.",
-            "این نگرانی دلالت بر خطر توقف تدارکات، محدودیت‌های صادراتی یا تصمیمات سیاسی واشنگتن دارد که می‌تواند توان عملیاتی فوری متحدان را تضعیف کند.",
-            "پیامد عملی فوری احتمال گرایش کشورها به تأمین‌کنندگان جایگزین، کاهش بازدارندگی منطقه‌ای و تضعیف نفوذ استراتژیک آمریکا است؛ از منظر داخلی، افزایش هزینه‌های دفاعی و اختلال امنیتی می‌تواند نارضایتی سیاسی و مشکلات اقتصادی را تشدید کند."
-        ],
-        "impact": "قطع یا محدود شدن تدارکات آمریکایی در جریان یک جنگ با ایران می‌تواند خلا امنیتی فوری ایجاد کرده، متحدان را به بازارهای تسلیحاتی جایگزین بکشاند و نفوذ واشنگتن در منطقه را به‌سرعت کاهش دهد.",
-        "tag": "تسلیحات",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Politico",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZU5iWU9NUlZmem5vOUlVZ1RKRGxXcE1KeTJrZWFVUXpxTHJnRXVlOHlkOExZYURnWmpQTHVLcFpTOGlVY1o2WFBBUW5odWVZbGQ0M1psTFc1SFR3a0FraG5nUXRYdWVMN29oM3Z0dVFjWDUzempVbEE4WUFLWVlUQmZRT1h2dUx1RWE0YXRwUGEtYUpaVHVlV25LU201ZUFEQjVyUVd0TWRjSi10MzdWZThfVmpheUZuWnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZU5iWU9NUlZmem5vOUlVZ1RKRGxXcE1KeTJrZWFVUXpxTHJnRXVlOHlkOExZYURnWmpQTHVLcFpTOGlVY1o2WFBBUW5odWVZbGQ0M1psTFc1SFR3a0FraG5nUXRYdWVMN29oM3Z0dVFjWDUzempVbEE4WUFLWVlUQmZRT1h2dUx1RWE0YXRwUGEtYUpaVHVlV25LU201ZUFEQjVyUVd0TWRjSi10MzdWZThfVmpheUZuWnc",
-        "image": null,
-        "timestamp": 1772884800.0
-    },
-    {
-        "title_fa": "دونالد ترامپ بقایای شش آمریکایی کشته‌شده در حمله پهپادی به پایگاه کویت در جریان درگیری با ایران را دریافت کرد",
-        "title_en": "Trump receives remains of six Americans killed in Iran war",
-        "summary": [
-            "رویداد: رئیس‌جمهور دونالد ترامپ در انتقال رسمی بقایای شش نظامی آمریکایی شرکت کرد؛ این افراد در حمله پهپادی به یک پایگاه در کویت کشته شده‌اند که در متن درگیری با ایران رخ داده است.",
-            "فشار خارجی/تحریم‌ها: چنین تلفات مستقیمی علیه آمریکایی‌ها احتمال افزایش فشار سیاسی و دیپلماتیک واشینگتن بر تهران و تقویت مداخلات تلافی‌جویانه یا اقدامات بازدارنده را بالا می‌برد؛ این رخداد ساختار داخلی مقاومت رژیم در مقابل فشارات خارجی را تضعیف می‌کند.",
-            "اقتصاد و نارضایتی داخلی: ادامه درگیری‌های فراملی که به کشته‌شدن شهروندان خارجی و ارتش می‌انجامد، بار هزینه‌های امنیتی و سیاسی رژیم را افزایش می‌دهد و می‌تواند نارضایتی عمومی نسبت به سیاست‌های برون‌گسترده و سوءمدیریت اقتصادی را تشدید کند."
-        ],
-        "impact": "این انتقال جنازه نشان‌دهنده گسترش منازعه منطقه‌ای است و احتمال تشدید پاسخ‌های نظامی و فشارهای دیپلماتیک آمریکا علیه ایران را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-to-receive-remains-of-six-americans-killed-in-iran-war/ar-AA1XIzoc",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-to-receive-remains-of-six-americans-killed-in-iran-war/ar-AA1XIzoc",
-        "image": null,
-        "timestamp": 1772884474.0
-    },
-    {
-        "title_fa": "نیروی هوایی اسرائیل اخیراً دو مرکز «محوری‌ترین» تولید موشک‌های بالستیک ایران را هدف قرار داد، ارتش اسرائیل فاش کرد",
-        "title_en": "Air Force recently struck Iran’s 2 ‘most central’ ballistic missile production sites, IDF reveals",
-        "summary": [
-            "ارتش اسرائیل اعلام کرده نیروی هوایی این کشور اخیراً دو سایت تولید موشک بالستیک در شاهرود را که «محوری‌ترین» تاسیسات تولید موشکی ایران توصیف شده‌اند هدف قرار داده؛ خبر همزمان با تبادل گسترده حملات موشکی و هوایی بین تهران، حزب‌الله و اسرائیل منتشر شد.",
-            "پس از این حملات، شلیک‌های موشکی از ایران شناسایی و آژیرها در مناطق مرکزی و شمالی اسرائیل به صدا درآمد؛ حزب‌الله نیز راکت‌هایی به منطقه کریات شمونا پرتاب کرد؛ گزارش‌ها از آوارگی در بیروت و اختلالاتی مانند دود در فرودگاه دبی حکایت دارد، اما تلفات گسترده فوری گزارش نشده است.",
-            "هدف‌گیری تاسیسات تولید موشک نشان‌دهنده افزایش فشار نظامی مستقیم بر ظرفیت بازدارنده ایران است؛ چنین اقدامات خارجی به طور بالقوه هزینه‌های نظامی و سیاسی رژیم را بالا برده و فضای فشار داخلی و بین‌المللی علیه تهران را تنگ‌تر می‌کند."
-        ],
-        "impact": "حملات مستقیم به مراکز تولید موشک توان بازدارندگی ایران را تضعیف و هزینه‌های حکمرانی و امنیتی رژیم را افزایش می‌دهد و احتمال افزایش بی‌ثباتی داخلی و فشار بین‌المللی را بالا می‌برد.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/liveblog-march-07-2026/",
-        "clean_url": "https://www.timesofisrael.com/liveblog-march-07-2026",
-        "image": null,
-        "timestamp": 1772884020.0
-    },
-    {
-        "title_fa": "ترامپ: شنبه ایران «بسیار سخت» ضربه خواهد خورد",
-        "title_en": "Trump says Iran will be 'hit very hard' on Saturday",
-        "summary": [
-            "اظهارات ترامپ تهدید به ضربه نظامی مستقیم علیه ایران را مطرح کرد و بلافاصله احتمال تشدید تنش بین تهران و واشنگتن را افزایش می‌دهد.",
-            "فشار نظامی مستقیم، حتی در حد تهدید، می‌تواند ساختارهای اقتصادی و سیاسی رژیم را تضعیف کند — افزایش ریسک سرمایه‌گذاری، بی‌ثباتی بازار ارز و فشار بر درآمدهای ارزی از پیامدهای محتمل است.",
-            "بدون شواهد بیشتر، این تهدید می‌تواند دو مسیر متضاد ایجاد کند: بسیج و سرکوب داخلی توسط رژیم یا تشدید نارضایتی عمومی؛ نتیجه به واکنش‌های داخلی و منطقه‌ای بستگی دارد."
-        ],
-        "impact": "این تهدید روند تشدید تنش را شتاب می‌دهد و خطر برگشت‌ناپذیر شدن تقابل دیپلماتیک به رویارویی نظامی را بالا می‌برد که پیامدهای اقتصادی و سیاسی فوری برای رژیم خواهد داشت.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-gb/news/world/trump-says-iran-will-be-hit-very-hard-on-saturday/ar-AA1XIlOK",
-        "clean_url": "https://www.msn.com/en-gb/news/world/trump-says-iran-will-be-hit-very-hard-on-saturday/ar-AA1XIlOK",
-        "image": null,
-        "timestamp": 1772883263.0
     }
 ]
