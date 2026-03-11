@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چرا چین و روسیه در شتاب برای کمک به ایران نیستند؟",
+        "title_en": "Why Are China and Russia Not Rushing to Help Iran?",
+        "summary": [
+            "عنوان نشان می‌دهد که پکن و مسکو از ارائه واکنش سریع و همه‌جانبه به تهران خودداری می‌کنند؛ این خودداری، نفسِ یک تکیه‌گاه بین‌المللی فوری را از رژیم می‌گیرد و اثربخشی فشارهای خارجی را بالا می‌برد.",
+            "چین و روسیه، در نقش توان‌بخش‌های بالقوه برای بقای رژیم، فعلاً با احتیاط عمل می‌کنند؛ این احتیاط نشان‌دهنده محاسبه هزینه-فایده، اجتناب از مواجهه مستقیم با غرب و محدودسازی تعهدات راهبردی است که گزینه‌های خارجی تهران را تنگ‌تر می‌کند.",
+            "عدم کمک سریع بیرونی، بار بحران اقتصادی و سیاسی را روی ساختار قدرت داخلی مضاعف می‌کند؛ سوءمدیریت اقتصادی و نارضایتی‌های عمومی، در نبود خط تنفس خارجی، فشارهای داخلی بر رژیم را تشدید خواهد کرد."
+        ],
+        "impact": "خروج یا خفیف ماندن حمایت پکن و مسکو، کارآیی تحریم‌ها و فشارهای خارجی را افزایش می‌دهد و فضای مانور تهران را برای عبور از شوک‌های داخلی و خارجی به‌طور ملموسی تنگ‌تر می‌سازد.",
+        "tag": "حمایت",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Carnegie Endowment for International Peace",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQl96a2NsaUNYWnpQWnhVek11aWNETnlBUl81YV8tMmloYzF1VzB2RkhsNE1QbTUyTGUybXo3UVVqX2NFM2hxdHoxT3RzSGRZZW8xSV9qSDZsMXFwQjc0Q2YzY2xKbTcxbGxxOEU3a3htcjlWNHFGaWtYVUJuaVZHcUphRWJMSDZvbkhDX0tldw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQl96a2NsaUNYWnpQWnhVek11aWNETnlBUl81YV8tMmloYzF1VzB2RkhsNE1QbTUyTGUybXo3UVVqX2NFM2hxdHoxT3RzSGRZZW8xSV9qSDZsMXFwQjc0Q2YzY2xKbTcxbGxxOEU3a3htcjlWNHFGaWtYVUJuaVZHcUphRWJMSDZvbkhDX0tldw",
+        "image": null,
+        "timestamp": 1773205394.0
+    },
+    {
         "title_fa": "حملات هوایی خاورمیانه را در هم می‌کوبند؛ درگیری مرتبط با ایران وارد هفته دوم شد",
         "title_en": "Airstrikes Pound Middle East as Iran Conflict Enters Second Week",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://www.reuters.com/world/middle-east/combatants-mideast-war-trade-more-air-strikes-iran-clamps-down-dissent-2026-03-11",
         "image": null,
         "timestamp": 1773199860.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: آمریکا می‌گوید کشتی‌های مین‌گذار ایرانی نزدیک گذرگاه حیاتی نفتی هدف قرار گرفتند",
+        "title_en": "Live Updates: U.S. Says It Hit Iranian Mine-Laying Vessels Near Vital Oil Passage",
+        "summary": [
+            "آمریکا اعلام کرده است کشتی‌های مین‌گذاری متعلق به ایران را در حوالی تنگه هرمز هدف گرفته است؛ اقدامی که نشان‌دهنده تقابل نظامی مستقیم است.",
+            "ترافیک نفتکش‌ها از تنگه هرمز خفه شده است؛ این گذرگاه حدود یک‌پنجم نفت جهان را عبور می‌دهد و اختلال در آن تبعات گسترده برای بازار انرژی دارد.",
+            "هیچ علامتی از کاهش تنش دیده نمی‌شود؛ واکنش نظامی آمریکا فشار خارجی بر رژیم را افزایش می‌دهد و ریسک اختلالات طولانی‌مدت در درآمدهای نفتی و بروز نارضایتی داخلی را بالا می‌برد."
+        ],
+        "impact": "درگیری مستقیم خطر توقف یا کندی طولانی‌مدت عبور نفتکش‌ها را بالا می‌برد و ضعف در تأمین امنیت مسیرهای حیاتی نشان‌دهنده ناکارآمدی حکمرانی و افزایش آسیب‌پذیری اقتصادی رژیم است.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel",
+        "clean_url": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel",
+        "image": null,
+        "timestamp": 1773195480.0
     },
     {
         "title_fa": "چرا بنیامین نتانیاهو اکنون ایران را هدف قرار داد",
@@ -270,6 +306,24 @@
         "timestamp": 1773169481.0
     },
     {
+        "title_fa": "ادعای ایران درباره «شدیدترین عملیات»؛ اسرائیل بار دیگر تهران را بمباران کرد",
+        "title_en": "Iran claims it launched ‘most intense’ operations so far, Israel bombards Tehran again",
+        "summary": [
+            "ایران اعلام کرد «شدیدترین و سنگین‌ترین عملیات» از آغاز جنگ را اجرا کرده؛ رهگیری‌هایی در کشورهای خلیج و اسرائیل گزارش شده.",
+            "اسرائیل موج جدیدی از حملات هوایی علیه تهران آغاز کرد؛ ویدئوها انفجارهایی نزدیک فرودگاه مهرآباد را نشان می‌دهد و گزارش‌هایی از حملات شبانه در شمال ایران منتشر شد.",
+            "اختلال در تنگه هرمز: یک کشتی باربری آتش گرفته، گزارش‌هایی درباره مین‌گذاری ایرانی و اعلام آمریکا مبنی بر نابودی شناورهای مین‌گذار؛ همچنین یک پهپاد مشکوک ایرانی به تأسیسات دیپلماتیک آمریکا در عراق اصابت کرد. "
+        ],
+        "impact": "ترکیب حملات هوایی علیه پایتخت، تلاش برای مین‌گذاری در تنگه هرمز و اصابت پهپاد به تأسیسات دیپلماتیک، فشار ساختاری بر اقتصاد نفتی و منابع درآمدی کشور را افزایش می‌دهد، مشروعیت حکومت را تضعیف کرده و ریسک گسترش درگیری به سطح منطقه‌ای و ایجاد اختلال طولانی‌مدت در تجارت انرژی را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-11-26",
+        "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-11-26",
+        "image": null,
+        "timestamp": 1773168840.0
+    },
+    {
         "title_fa": "جنگ با ایران: رئیس‌جمهور اسرائیل ایزاک هرتزوگ هزینه را «قیمت» صلح خاورمیانه خواند",
         "title_en": "Iran war: Israel's president Herzog calls 'cost' for business the price for Middle East peace",
         "summary": [
@@ -340,6 +394,24 @@
         "clean_url": "https://www.cbsnews.com/news/iran-mines-strait-of-hormuz",
         "image": null,
         "timestamp": 1773161280.0
+    },
+    {
+        "title_fa": "به‌روزرسانی جنگ با ایران: پنتاگون می‌گوید ۱۴۰ نظامی آمریکایی زخمی شده‌اند؛ هگست وعده «شدیدترین روز حملات» را داد",
+        "title_en": "Iran war updates: Pentagon says 140 U.S. service members have been wounded as Hegseth vows 'most intense day of strikes'",
+        "summary": [
+            "پنتاگون اعلام کرد ۱۴۰ عضو نیروهای مسلح آمریکا در جریان جنگ با ایران زخمی شده‌اند؛ وزارت دفاع این آمار را روز سه‌شنبه منتشر کرد.",
+            "پیت هگست، وزیر دفاع آمریکا، گفت روز سه‌شنبه «شدیدترین روز حملات داخل ایران» خواهد بود و اعلام کرد تعیین مدت عملیات برعهده رئیس‌جمهور است.",
+            "تصاویر و گزارش‌ها از حمله هوایی اسرائیل به بیروت (تخریب یک ساختمان در ۱۰ مارس) و نوسان شدید قیمت نفت — اوج نزدیک ۱۲۰ دلار و سپس قرار گرفتن زیر ۹۰ دلار — نشان‌دهنده تعمیق و گسترش تنش منطقه‌ای است."
+        ],
+        "impact": "تصعید نظامی با تلفات برای نیروهای آمریکایی و آشفتگی در بازار نفت فشار اقتصادی و سیاسی فوری بر ساختار حکمرانی رژیم وارد می‌کند و توان بقا و مدیریت بحران آن را تضعیف خواهد کرد.",
+        "tag": "تصعید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/live/iran-war-live-updates-pentagon-says-140-us-service-members-have-been-wounded-as-hegseth-vows-most-intense-day-of-strikes-142632621.html",
+        "clean_url": "https://www.yahoo.com/news/world/live/iran-war-live-updates-pentagon-says-140-us-service-members-have-been-wounded-as-hegseth-vows-most-intense-day-of-strikes-142632621.html",
+        "image": "http://www.bing.com/th?id=OVFT.1tICP99ILMKicCb1tV6BRi&pid=News",
+        "timestamp": 1773160320.0
     },
     {
         "title_fa": "جو روگان دونالد ترامپ را به‌خاطر جنگ با ایران انتقاد کرد: «منطقی نیست»",
@@ -520,6 +592,24 @@
         "clean_url": "https://www.factcheck.org/2026/03/without-providing-evidence-trump-pins-school-bombing-on-iran",
         "image": null,
         "timestamp": 1773151500.0
+    },
+    {
+        "title_fa": "آمریکا شدیدترین بمباران علیه ایران را انجام داد، پنتاگون می‌گوید",
+        "title_en": "U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says",
+        "summary": [
+            "پنتاگون اعلام کرد بیش از ۵۰۰۰ هدف در ۱۰ روز مورد حمله قرار گرفته و روز مورد اشاره را «شدیدترین روز حملات» خواند؛ این فشار نظامی مستقیم می‌تواند توان عملیاتی و زیرساخت‌های مرتبط را تضعیف کرده و به اقتصاد وابسته به تنگه هرمز فشار وارد سازد.",
+            "فرماندهی مرکزی آمریکا از حمله به ۱۶ شناور مرتبط با مین‌گذاری در نزدیکی تنگه هرمز خبر داد و ویدئوهایی از اصابت به ۹ شناور منتشر شد؛ هنوز نامشخص است که آیا مین‌ها وارد آب شده‌اند یا خیر.",
+            "جنگ در منطقه پیامدهای انسانی و اقتصادی گسترده‌ای دارد: حملات اسرائیل به اهداف مرتبط با ایران در لبنان نزدیک به ۷۰۰ هزار آواره و دست‌کم ۵۷۰ کشته برجای گذاشته و بازارها، سفرها و اطمینان نسبت به عرضه سوخت و وضعیت صندوق‌های بازنشستگی را متلاطم کرده است."
+        ],
+        "impact": "فشار نظامی مستقیم واشنگتن و تل‌آویو قابلیتِ کنترل و بقای اقتصادی حکومت ایران را هدف گرفته و ریسک تشدید بحران انسانی و گسترش تنش منطقه‌ای را بالا می‌برد.",
+        "tag": "بمباران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html",
+        "clean_url": "https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html",
+        "image": "http://www.bing.com/th?id=OVFT.OsoRq9nAJ9g-9fuGAJ_CQi&pid=News",
+        "timestamp": 1773150840.0
     },
     {
         "title_fa": "به‌روزرسانی زنده: «شدیدترین روز» حملات آمریکا به ایران؛ تهران تهدید به بستن نفت تا پایان حملات می‌کند",
@@ -718,6 +808,24 @@
         "clean_url": "https://www.ft.com/content/6fda3451-8fd3-4ec1-8ab2-17f33291ec5e",
         "image": null,
         "timestamp": 1773145260.0
+    },
+    {
+        "title_fa": "تشدید تنش: دونالد ترامپ هشدار به ایران درباره تنگه هرمز",
+        "title_en": "War Against Iran: The Situation Is Escalating",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، در صفحه Truth Social اعلام کرد اگر ایران جریان نفت در تنگه هرمز را متوقف کند «بیست برابر سخت‌تر» ضربه خواهد خورد.",
+            "این تهدید نظامی مستقیم احتمال تقابل میان ایران و آمریکا را افزایش می‌دهد و فضای تصمیم‌گیری را به سمت اقدامات تهاجمی یا پاسخ‌های نظامی سوق می‌دهد.",
+            "تمرکز بر خطوط حیاتی نفتی فشار خارجی بر رژیم وابسته به درآمد نفت را افزایش می‌دهد و ضعف مدیریتی و مشکلات اقتصادی حکومت را در معرض تشدید نارضایتی داخلی قرار می‌دهد."
+        ],
+        "impact": "نتیجهٔ فوری تهدیدِ ترامپ افزایش ریسک درگیری نظامی و تشدید فشار بر ثبات اقتصادی-سیاسی رژیم است که می‌تواند حساسیت فضای داخلی را بالا ببرد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Charter97",
+        "url": "https://charter97.org/en/news/2026/3/10/676371/",
+        "clean_url": "https://charter97.org/en/news/2026/3/10/676371",
+        "image": null,
+        "timestamp": 1773144240.0
     },
     {
         "title_fa": "به‌روزرسانی زنده: حدود ۱۴۰ نظامی آمریکایی در جنگ با ایران مجروح شدند؛ ۸ نفر به شدت، پنتاگون می‌گوید",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.theatlantic.com/ideas/2026/03/iran-terror-attack-risk/686277",
         "image": null,
         "timestamp": 1772894040.0
-    },
-    {
-        "title_fa": "دونالد ترامپ دخالت آمریکا در حمله به مدرسه دخترانه در جنوب ایران را رد کرد و ایران را مقصر دانست",
-        "title_en": "Trump says Iran at fault for strike on girls school",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، هرگونه نقش واشنگتن در حمله‌ای که بیش از 165 نفر را در یک مدرسه ابتدایی دخترانه در جنوب ایران کشت، علناً رد کرد.",
-            "ترامپ به‌جای اشاره به عامل بیرونی مشخص، مسئولیت را متوجه حکومت ایران کرد؛ این اتهام علنی می‌تواند فشار دیپلماتیک و سیاسی بین‌المللی علیه رژیم را تشدید کند.",
-            "حادثه با تلفات سنگین و اتهام متقابل می‌تواند نارضایتی عمومی را تشدید کند و تصویر شکست مدیریتی رژیم در تضمین امنیت شهروندان را تقویت نماید."
-        ],
-        "impact": "اتهام رسمی رئیس‌جمهور آمریکا به تهران احتمال افزایش انزوای دیپلماتیک و به‌عنوان توجیهی برای اقدامات فشار از سوی بازیگران بین‌المللی مورداستفاده قرار می‌گیرد.",
-        "tag": "اتهام",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/03/07/trump-iran-girls-school-strike-00818163",
-        "clean_url": "https://www.politico.com/news/2026/03/07/trump-iran-girls-school-strike-00818163",
-        "image": "http://www.bing.com/th?id=OVFT.MGmaWx5_CPPfpyGiA7F8vS&pid=News",
-        "timestamp": 1772891760.0
-    },
-    {
-        "title_fa": "به‌روزرسانی درگیری با ایران: پایان هفته اول با هدف‌گیری ۳۰۰۰ هدف و بازگشت آمریکایی‌های کشته‌شده",
-        "title_en": "Iran Conflict Update: Week One Ends With 3,000 Targets Struck, Fallen Americans Return Home",
-        "summary": [
-            "گزارش می‌دهد که در پایان هفته اول درگیری‌ها، در مجموع ۳۰۰۰ هدف مورد اصابت قرار گرفته‌اند.",
-            "پیکر آمریکایی‌های کشته‌شده به ایالات متحده بازگردانده شده‌اند و گزارش بازگشت قربانیان منتشر شده است.",
-            "متن منبع جزئیات تکمیلی درباره عاملان حملات، محل‌های دقیق، یا تلفات غیرنظامی ارائه نمی‌کند."
-        ],
-        "impact": "شدت و وسعت حملات گزارش‌شده به‌عنوان فشار خارجی مستقیم عمل می‌کند و منابع امنیتی و اقتصادی رژیم را فرسوده کرده که به احتمالی واقعی از افزایش نارضایتی داخلی و تضعیف حکمرانی منجر می‌شود.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Homeland Security Today",
-        "url": "https://www.hstoday.us/featured/u-s-and-israel-strike-iran-triggering-gulf-wide-missile-retaliation-from-tehran/",
-        "clean_url": "https://www.hstoday.us/featured/u-s-and-israel-strike-iran-triggering-gulf-wide-missile-retaliation-from-tehran",
-        "image": "http://www.bing.com/th?id=OVFT.3kEOuVS-w8ufa9jIUJeihy&pid=News",
-        "timestamp": 1772891760.0
-    },
-    {
-        "title_fa": "گزارش اطلاعاتی: ضربات گسترده پیش از جنگ نشان می‌داد رژیم ایران به‌سادگی ساقط نمی‌شود",
-        "title_en": "Intel report warned large-scale strikes ‘unlikely’ to topple Iran’s regime before Trump launched war",
-        "summary": [
-            "گزارش طبقه‌بندی‌شده شورای اطلاعات ملی قبل از آغاز عملیات مشترک آمریکا و اسرائیل نتیجه گرفت که حمله گسترده نظامی به ایران به تنهایی قادر به سرنگونی حکومت نخواهد بود و تلاش برای جایگزینی رهبری «غیرمحتمل» است؛ ساختارهای نظامی و مذهبی پروتکل‌هایی برای حفظ تداوم قدرت دارند.",
-            "با وجود این تحلیل، دولت ترامپ به اقدام تهاجمی ادامه داد و علی خامنه‌ای را در 28 فوریه به ضرب گلوله کشت؛ این تصمیم نشان می‌دهد اراده سیاسی برای تغییر رژیم حتی در برابر تحلیل حرفه‌ای که نتیجه را نامحتمل می‌داند، برگزیده شد و ریسک تشدید و گسترش جنگ را بالا برد.",
-            "پیامدهای داخلیِ قابل انتظار: حتی اگر توان نظامی و زیرساختی آسیب ببیند، گزارش نشان می‌دهد که ساختارهای حکمرانی مقاوم‌اند؛ فشار خارجی و عملیات تهاجمی احتمالاً به تقویت ابزارهای سرکوب، تضعیف بیشتر اقتصادی و افزایش ناپایداری بلندمدت می‌انجامد، نه فروپاشی سریع حکومت."
-        ],
-        "impact": "حملات و ترور رهبری، بر خلاف هدف اعلام‌شده، احتمالاً رژیم را ساقط نمی‌کند بلکه آن را به سمت سرکوب داخلی و جنگ فرسایشی ویرانگر سوق می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/intel-report-warned-large-scale-145208854.html",
-        "clean_url": "https://www.aol.com/articles/intel-report-warned-large-scale-145208854.html",
-        "image": null,
-        "timestamp": 1772891520.0
-    },
-    {
-        "title_fa": "پزشکیان: ایران حملات به همسایگان را متوقف می‌کند مگر اینکه از آنجا مورد حمله قرار گیرد",
-        "title_en": "Iran to halt strikes on neighbours unless attacks from there: Pezeshkian",
-        "summary": [
-            "پزشکیان اعلام کرده ایران حملات تلافی‌جویانه به همسایگان را متوقف خواهد کرد مگر اینکه حملاتی از خاک آن کشورها انجام شود؛ سیاستی شرطی که هم اهمیت خویشتن‌داری را نشان می‌دهد و هم حق پاسخ را حفظ می‌کند.",
-            "گزارش اشاره‌ای به تحریم‌ها یا فشار خارجی ندارد؛ با این حال این بیانیه می‌تواند تاکتیکی برای کاهش خطر درگیری مستقیم باشد در حالی که ساختارهای ژئوپلیتیک و آسیب‌پذیری‌های راهبردی رژیم بدون تغییر باقی می‌ماند.",
-            "متن به اقتصاد یا اعتراضات داخلی ارجاع نداده است، اما چنین موضعی می‌تواند بخشی از تلاش حکمرانی برای مهار تشدید بحران‌های داخلی و جلوگیری از شوک‌های خارجی باشد — نشانه‌ای از مدیریت بحران محافظه‌کارانه و حساب‌شده رژیم."
-        ],
-        "impact": "اظهار نظر شرطی پزشکیان ممکن است تنش‌های مرزی را موقتا کاهش دهد اما پایه‌های راهبرد تلافی‌جویانه و خطر تشدید ناگهانی را حذف نمی‌کند.",
-        "tag": "تنش",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/world/iran-to-halt-strikes-on-neighbours-unless-attacks-from-there-pezeshkian/ar-AA1XI2vp",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-to-halt-strikes-on-neighbours-unless-attacks-from-there-pezeshkian/ar-AA1XI2vp",
-        "image": null,
-        "timestamp": 1772890100.0
-    },
-    {
-        "title_fa": "واکنش وزیر خارجه ایران به ترامپ: اگر دنبال تشدید باشد، همان را خواهد دید",
-        "title_en": "Iran’s foreign minister responds to Trump: If he seeks escalation, it’s ‘what he will get’",
-        "summary": [
-            "دونالد ترامپ با لحن تند به تهران هشدار داد و گفت «امروز ایران سخت ضربه خواهد خورد»، و وزیر خارجه ایران پاسخ داده که اگر آمریکا دنبال تشدید باشد، دقیقاً همان را دریافت خواهد کرد.",
-            "این تبادل شدید لفظی ریسک اشتباه محاسباتی و تشدید سریع تنش منطقه‌ای را بالا می‌برد و می‌تواند بهانه‌ای برای افزایش فشارهای سیاسی و تحریمی علیه ایران شود.",
-            "تنش‌های خارجی در شرایطی که حکومت مبتلا به سوء‌مدیریت ساختاری و مشکلات اقتصادی مزمن است، بار هزینه‌های داخلی را افزایش می‌دهد و پتانسیل گسترش نارضایتی عمومی را تقویت می‌کند."
-        ],
-        "impact": "ادامه این الگوی تهدیدات متقابل می‌تواند راه را برای تحریم‌های سخت‌تر و فشار اقتصادی بیشتر باز کند و در نهایت ساختار بقأ رژیم را وارد مرحله آسیب‌پذیری بالاتری کند.",
-        "tag": "تنش",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/03/07/iran-foreign-minister-trump-response-00818122",
-        "clean_url": "https://www.politico.com/news/2026/03/07/iran-foreign-minister-trump-response-00818122",
-        "image": null,
-        "timestamp": 1772889420.0
-    },
-    {
-        "title_fa": "حملات به ایران و پیامدهای گسترش‌یافته — آنچه باید دانست",
-        "title_en": "What to Know About the Bombing of Iran and Its Widening Fallout",
-        "summary": [
-            "نیویورک‌تایمز گزارش حمله‌ای نظامی به خاک ایران و بررسی پیامدهای آن در سطح منطقه‌ای و بین‌المللی را بازتاب داده؛ موضوع محور تحلیل پیامدهای عملی و سیاسی است.",
-            "این نوع حملات احتمال تشدید فشارهای خارجی و موج جدیدی از تحریم‌ها را افزایش می‌دهد که ساختار اقتصادی ضعیف رژیم را بیشتر تضعیف و ظرفیت مدیریت بحران آن را کاهش خواهد داد.",
-            "تشدید درگیری نظامی می‌تواند نارضایتی عمومی و بحران اقتصادی را عمیق‌تر کند و بار ناکارآمدی حکمرانی را برجسته سازد؛ این وضعیت ظرفیت بقا و مشروعیت رژیم را تحت فشار قرار می‌دهد."
-        ],
-        "impact": "حمله و پیامدهایش خطر گسترش درگیری منطقه‌ای را بالا می‌برد و می‌تواند شتاب‌دهنده فروپاشی سیاسی-اقتصادی رژیم باشد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.seattletimes.com/nation-world/what-to-know-about-the-widening-fallout-from-the-bombing-of-iran/",
-        "clean_url": "https://www.seattletimes.com/nation-world/what-to-know-about-the-widening-fallout-from-the-bombing-of-iran",
-        "image": null,
-        "timestamp": 1772889104.0
     }
 ]
