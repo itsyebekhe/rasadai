@@ -54,6 +54,24 @@
         "timestamp": 1773294931.0
     },
     {
+        "title_fa": "پیوستن هکرها به نبرد آمریکا و اسرائیل علیه ایران",
+        "title_en": "Hackers join U.S. and Israel's fight with Iran",
+        "summary": [
+            "Axios گزارش می‌دهد که گروه‌هایی از هکرها در هماهنگی یا هم‌راستایی با اقدامات سایبری آمریکا و اسرائیل علیه ایران وارد صحنه شده‌اند.",
+            "این تحرک دامنه فشار خارجی را به حوزه سایبری گسترش می‌دهد و می‌تواند آسیب‌پذیری‌های دفاع سایبری و زیرساخت‌های حیاتی ایران را افزایش دهد.",
+            "ورود جنگ سایبری ساختار تصمیم‌گیری امنیتی رژیم را پیچیده‌تر و هزینه‌های پاسخ‌دهی متقابل را بالا می‌برد، که پیامدهای سیاسی و اقتصادی در پی خواهد داشت."
+        ],
+        "impact": "گسترش عملیات سایبری هماهنگ فشار بر رژیم را تشدید می‌کند و ریسک اختلالات اقتصادی و افزایش نارضایتی داخلی را بالا می‌برد.",
+        "tag": "سایبری",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WVGdHMERlRkVFbzFyZ3NWT0pOdEF6bFFfd3UyVzB1T19ncUZUNEtNYjZuRHpKbzhLTklrZ3Q4WE1qU0hVbHdCUlRDZXkyY05aRzdlVkNlTXVEM1ZRTzhrbWJYWGRDWkx5Sm0tRThqUHN3cjYyZWdtSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WVGdHMERlRkVFbzFyZ3NWT0pOdEF6bFFfd3UyVzB1T19ncUZUNEtNYjZuRHpKbzhLTklrZ3Q4WE1qU0hVbHdCUlRDZXkyY05aRzdlVkNlTXVEM1ZRTzhrbWJYWGRDWkx5Sm0tRThqUHN3cjYyZWdtSQ",
+        "image": null,
+        "timestamp": 1773294602.0
+    },
+    {
         "title_fa": "ایران سه شرط برای پایان جنگ با آمریکا و اسرائیل اعلام کرد",
         "title_en": "Iran Israel US War: Iran Outlines 3 Conditions To End War With US, Israel",
         "summary": [
@@ -430,6 +448,24 @@
         "clean_url": "https://www.scientificamerican.com/article/iran-was-nowhere-close-to-a-nuclear-bomb-experts-say",
         "image": null,
         "timestamp": 1773255093.0
+    },
+    {
+        "title_fa": "هفت روز آینده در ایران تعیین می‌کند که با رکود تورمی مواجه می‌شویم یا رکود جهانی کامل",
+        "title_en": "The next 7 days in Iran will determine if we face stagflation or a total global recession",
+        "summary": [
+            "هفت روز آینده می‌تواند نقطه عطف باشد: تشدید مناقشه در ایران ریسک تبدیل شوک عرضه و انرژی به رکود تورمی یا سقوط اقتصاد جهانی را افزایش می‌دهد.",
+            "بخش مهمی از بازارها و پرتفوها برای موج ناگهانی ناشی از تشدید درگیری آماده نیستند؛ سرمایه‌گذاران باید انتظار نوسانات شدید و آسیب‌پذیری دارایی‌ها را داشته باشند.",
+            "تشدید تنش‌ها و فشار خارجی ساختار درآمدی رژیم را تضعیف می‌کند؛ ناتوانی مدیریتی در کنترل شوک اقتصادی می‌تواند به تشدید نارضایتی عمومی و بحران‌های داخلی منجر شود."
+        ],
+        "impact": "تصمیمات و تحولات هفته آینده می‌تواند ظرف روزها درآمدهای ارزی را کاهش داده و ثبات اقتصادی داخل ایران را به سرعت تضعیف کند.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "MarketWatch on MSN",
+        "url": "https://www.msn.com/en-us/money/markets/the-next-7-days-in-iran-will-determine-if-we-face-stagflation-or-a-total-global-recession/ar-AA1YqIZl",
+        "clean_url": "https://www.msn.com/en-us/money/markets/the-next-7-days-in-iran-will-determine-if-we-face-stagflation-or-a-total-global-recession/ar-AA1YqIZl",
+        "image": "http://www.bing.com/th?id=OVFT.MeTxsS9uq2eApg0yWe4Z1C&pid=News",
+        "timestamp": 1773253860.0
     },
     {
         "title_fa": "ترامپ می‌گوید جنگ با ایران «به‌زودی» پایان می‌یابد؛ اسرائیل: زمان‌بندی نداریم",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/mind-boggles-at-doubts-over-legality-of-iran-war-israeli-president-says/ar-AA1XM41S",
         "image": null,
         "timestamp": 1772988810.0
-    },
-    {
-        "title_fa": "ما، مردم آمریکا، از جنگ‌های بی‌پایان خسته شده‌ایم",
-        "title_en": "We, the American people, have had enough of endless wars",
-        "summary": [
-            "عنوان نشان‌دهنده خستگی گسترده عمومی در آمریکا از مداخلات نظامی طولانی‌مدت است و فشار داخلی افزایشی بر تصمیم‌گیران برای بازنگری در سیاست خارجی ایجاد می‌کند.",
-            "فشار رأی‌دهندگان می‌تواند هزینه‌های سیاسی برای دولت‌ها و احزابِ طرفدار عملیات نظامی خارج از مرزها را بالا ببرد و زمینه کاهش تعهدات نظامی و بازگشت تمرکز به سیاست داخلی را فراهم کند.",
-            "کاهش میل عمومی به ادامه جنگ‌ها ممکن است پیام کاهش آمادگی آمریکا برای تعهدات طولانی‌مدت را به بازیگران منطقه‌ای منتقل کند؛ پیامدهای مشخص به واکنش سیاست‌مداران آمریکایی و شرکای منطقه‌ای بستگی دارد."
-        ],
-        "impact": "فشار داخلی علیه «جنگ‌های بی‌پایان» احتمال کاهش مداخلات نظامی آمریکا را بالا می‌برد و در کوتاه‌مدت می‌تواند ساختار ائتلاف‌ها و توازن قوا در نقاط بحران‌زای جهان را تحت تأثیر قرار دهد.",
-        "tag": "ضدجنگ",
-        "urgency": 4,
-        "sentiment": 0.4,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/world/we-the-american-people-have-had-enough-of-endless-wars/ar-AA1XLZmE",
-        "clean_url": "https://www.msn.com/en-us/news/world/we-the-american-people-have-had-enough-of-endless-wars/ar-AA1XLZmE",
-        "image": null,
-        "timestamp": 1772987739.0
-    },
-    {
-        "title_fa": "قیمت نفت از ۱۰۰ دلار گذشت؛ تشدید جنگ در ایران",
-        "title_en": "Oil prices soar past $100 a barrel as war escalates in Iran",
-        "summary": [
-            "قیمت نفت خام به بالای ۱۰۰ دلار رسید؛ نفت خام آمریکا تا حدود ۱۰۸ دلار (و مقطعی تا ۱۱۰ دلار) بالا رفت و برنت نزدیک ۱۰۸ دلار معامله شد؛ تحلیل‌گر Kpler احتمال صعود تا ۱۵۰ دلار تا پایان مارس در صورت ادامه اختلال در تنگه هرمز را مطرح کرده است.",
-            "جنگ در ایران تشدید شده و به کشورهای منطقه سرایت کرده است؛ حملات به پالایشگاه‌ها و تهدید ایران برای هدف‌گیری نفت‌کش‌های عبوری از تنگه هرمز (مسیر عبور حدود ۲۰٪ نفت جهان) موجب نگرانی گسترده معامله‌گران شده است؛ دونالد ترامپ هم اوج قیمت‌ها را «قیمتی کوچک» برای امنیت خوانده است.",
-            "متن خبر از تحریم‌های جدید سخنی نمی‌گوید، اما تشدید جنگ و تهدید خطوط ترابری نفتی هزینه اقتصادی جهانی و سیاسی را بالا می‌برد؛ اقدام حکومتی برای بستن یا تهدید عبور نفت نشان‌دهنده شکستِ مدیریت راهبردی و انتقال هزینه‌هایِ خطای سیاست خارجی به مردم و اقتصاد کشور است."
-        ],
-        "impact": "این شوک نفتی و اختلال در تنگه هرمز فشار اقتصادی و سیاسی بر رژیم را افزایش می‌دهد، بازارها را ناپایدار می‌کند و انگیزه برای فشارهای بین‌المللی یا مداخلات منطقه‌ای را تقویت می‌کند.",
-        "tag": "نفت",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/03/08/business/oil-prices-war-iran-trump",
-        "clean_url": "https://www.cnn.com/2026/03/08/business/oil-prices-war-iran-trump",
-        "image": null,
-        "timestamp": 1772987520.0
     }
 ]
