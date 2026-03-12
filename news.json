@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "شلیک موشک‌های حاوی مهمات خوشه‌ای از سوی ایران به اسرائیل",
+        "title_en": "Iran has launched missiles with cluster-munition warheads at Israel over the course of the Middle East war, according to verified footage and Israeli officials — actions that experts say could violate the laws of war.",
+        "summary": [
+            "فیلم‌های تاییدشده و اظهارات مقامات اسرائیلی حاکی است از آغاز درگیری‌ از ۲۸ فوریه بیش از ۱۰ موشک ساخت ایران با کلاهک‌های خوشه‌ای به سمت اسرائیل شلیک شده است — گزارش دورون لاوی، رئیس واحد خنثی‌سازی بمب پلیس اسرائیل.",
+            "مهمات خوشه‌ای زیرمهمات (بومبلیت) را پخش می‌کنند که در مناطق شهری می‌تواند به‌طور غیرتمایزی به غیرنظامیان آسیب بزند؛ از سال ۲۰۰۸ بیش از ۱۰۰ کشور ممنوعیت را امضا کرده‌اند، اما ایران و اسرائیل این پیمان را نپذیرفته‌اند.",
+            "سخنگوی ارتش اسرائیل ناداو شوشانی می‌گوید استفاده ایران از این سلاح در درگیری جاری به‌طور قابل‌توجهی افزایش یافته؛ ویدیویی از انفجار یک زیرمهمات در اور یوهود در ۴ مارس منتشر شد که تلفات گزارش نشد."
+        ],
+        "impact": "استفاده مکرر از مهمات خوشه‌ای می‌تواند موج محکومیت بین‌المللی و تشدید فشارهای خارجی و احتمال پاسخ نظامی اسرائیل را افزایش دهد، در حالی که هزینه‌های مادی و سیاسی برای رژیم بالا می‌برد و نارضایتی داخلی را تشدید خواهد کرد.",
+        "tag": "خوشه‌ای",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "facebook.com",
+        "url": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-israel-cluster-munitions.html",
+        "clean_url": "https://www.nytimes.com/2026/03/11/world/middleeast/iran-israel-cluster-munitions.html",
+        "image": null,
+        "timestamp": 1773287168.0
+    },
+    {
         "title_fa": "ایران شلوغ‌ترین فرودگاه بین‌المللی را هدف قرار داد؛ نهاد ارشد سازمان ملل خواستار توقف حملات به همسایگان خلیج فارس شد",
         "title_en": "Iran targets busiest international airport as top UN body demands halt to attacks on Gulf neighbors",
         "summary": [
@@ -144,6 +162,24 @@
         "timestamp": 1773265648.0
     },
     {
+        "title_fa": "جدیدترین: حملات ایران به کشتی‌ها نگرانی‌های اقتصادی را تشدید کرد و کشورها ذخایر نفتی را آزاد کردند",
+        "title_en": "The Latest: Iran’s attacks on shipping worsen economic concerns as countries tap oil reserves",
+        "summary": [
+            "حملات ایران به کشتی‌های تجاری حوالی تنگه هرمز — از جمله آتش‌زدن یک کشتی باری تایلندی و حملات پهپادی — عرضه و امنیت دریانوردی منطقه‌ای را مختل کرده است.",
+            "این تشدید نظامی موج صعودی قیمت نفت را تشدید کرده و دست‌کم چند کشور را وادار به استفاده از ذخایر استراتژیک نفتی برای مهار شوک قیمتی کرده است.",
+            "پیامدهای اقتصادی و سیاسی داخلی: اختلال در تجارت و افزایش هزینه انرژی بار سنگینی بر اقتصاد وارد می‌کند و می‌تواند منابع مالی و ظرفیت حکمرانی رژیم را تحت فشار قرار دهد."
+        ],
+        "impact": "اثر فوری؛ تشدید هزینه‌های انرژی و اختلال در مسیرهای تجاری می‌تواند فشار اقتصادی را بالا برده و ثبات سیاسی رژیم را تضعیف کند.",
+        "tag": "اقتصاد",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "WRAL",
+        "url": "https://www.wral.com/news/ap/357be-the-latest-iran-fires-at-gulf-states-as-australia-grants-asylum-to-women-on-iranian-soccer-team/",
+        "clean_url": "https://www.wral.com/news/ap/357be-the-latest-iran-fires-at-gulf-states-as-australia-grants-asylum-to-women-on-iranian-soccer-team",
+        "image": "http://www.bing.com/th?id=OVFT.YSh4ZhUwkTGinWY0s9Lm6i&pid=News",
+        "timestamp": 1773264060.0
+    },
+    {
         "title_fa": "بیست سؤال (و پاسخ‌های کارشناسان) درباره جنگ ایران",
         "title_en": "Twenty questions (and expert answers) about the Iran war",
         "summary": [
@@ -160,6 +196,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-war-4-big-questions-that-help-clarify-the-future-of-the-middle-east/ar-AA1XUzYL",
         "image": null,
         "timestamp": 1773261461.0
+    },
+    {
+        "title_fa": "ارتش اسرائیل موجی از ضربات علیه اهداف سپاه در ایران راه‌اندازی کرد؛ عوامل پهپادی پیش از پرتاب هدف قرار گرفتند",
+        "title_en": "IDF launches wave of strikes on IRGC targets across Iran, strikes drone operatives before launch",
+        "summary": [
+            "گزارش‌ها حاکی است موجی از حملات هوایی اسرائیل علیه زیرساخت‌های وابسته به سپاه پاسداران در نقاطی از غرب ایران، تهران، اصفهان، بوشهر و جنوب کشور انجام شد؛ هم‌زمان اهداف حزب‌الله در بیروت هدف گرفته شد و نیروهای اسرائیلی عاملان یک مجموعه پهپادی را در محل پرتاب در غرب ایران پیش از آماده‌سازی پرتاب هدف قرار دادند.",
+            "فوتیج‌های منتشر شده خسارت سنگین به قرارگاه فرماندهی سپاه در فردیس را نشان می‌دهد و رسانه‌ها از اجرای ضربات مشترک اسرائیل-آمریکا و هدف‌گیری زیرساخت‌های نظامی در قم و قدس خبر داده‌اند؛ هدف اعلام‌شده کاهش ظرفیت پرتاب موشک و پهپاد به سمت اسرائیل است.",
+            "تحلیل ساختاری: این حملات مستقیماً توان عملیاتی موشکی و پهپادی رژیم را هدف گرفته و فشار خارجی بر ساختار نظامی را افزایش می‌دهد؛ تضعیف زیرساخت‌های نظامی می‌تواند هزینه‌های سیاسی و اقتصادی برای تهران به دنبال داشته و در صورت تداوم به افزایش آسیب‌پذیری داخلی و تشدید نارضایتی‌ها دامن بزند."
+        ],
+        "impact": "این ضربات توان عملیاتی موشکی و پهپادی رژیم را کاهش می‌دهد و هم‌زمان احتمال تشدید واکنش‌های تلافی‌جویانه و گسترش بی‌ثباتی منطقه‌ای و درون‌مرزی را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/israeli-air-force-strikes-iranian-083340969.html",
+        "clean_url": "https://www.yahoo.com/news/articles/israeli-air-force-strikes-iranian-083340969.html",
+        "image": "http://www.bing.com/th?id=OVFT.frrL-B5vqEhAEtv61JnroS&pid=News",
+        "timestamp": 1773260040.0
     },
     {
         "title_fa": "پخش زنده - شورای امنیت حملات ایران را محکوم کرد، تهران: جنگ به شرایط ما پایان می‌یابد",
@@ -360,6 +414,24 @@
         "timestamp": 1773240308.0
     },
     {
+        "title_fa": "وزیر ورزش: تیم ملی فوتبال ایران در جام جهانی شرکت نمی‌کند",
+        "title_en": "Iran's soccer team cannot participate in the FIFA World Cup, Iranian minister says",
+        "summary": [
+            "وزیر ورزش اعلام کرد تیم ملی ایران که قرار بود در ژوئن سه بازی در آمریکا برگزار کند، به‌خاطر کمپین نظامی آمریکا-اسرائیل که منجر به کشته شدن رهبر ایران شده، از حضور در جام جهانی کناره‌گیری می‌کند.",
+            "کناره‌گیری تیم ملی نشانه‌ای از تضعیف ابزار نرم‌قدرت رژیم و از دست دادن یک فرصت بین‌المللی برای نمایش و مشروعیت‌سازی رسمی است؛ هزینه سیاسی و نمادین برای دولت قابل توجه است.",
+            "این تصمیم می‌تواند هم به‌عنوان تاکتیک موقت برای بسیج احساسات ملی‌گرایانه داخلی و هم به‌عنوان علامتی از انزوای فزاینده بین‌المللی خوانده شود؛ پیامدهای آن بر ثبات سیاسی داخلی به دقت قابل رصد است."
+        ],
+        "impact": "حذف حضور تیم ملی از رویدادی جهانی بلافاصله مشروعیت بین‌المللی رژیم را تضعیف و فضای سیاسی داخلی را برای مانورهای نمادین و واکنش‌های اجتماعی حساس‌تر می‌کند.",
+        "tag": "انزواء",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/11/nx-s1-5744855/fifa-world-cup-iran-team",
+        "clean_url": "https://www.npr.org/2026/03/11/nx-s1-5744855/fifa-world-cup-iran-team",
+        "image": "http://www.bing.com/th?id=OVFT.cfzsBGTEmBTmIutKwMf2rS&pid=News",
+        "timestamp": 1773240060.0
+    },
+    {
         "title_fa": "جنگ ایران: هدف قرار گرفتن کشتی‌های تجاری و بررسی حمله آمریکا به مدرسه",
         "title_en": "Iran war: Commercial ships are hit and the U.S. investigates its strike on a school",
         "summary": [
@@ -376,6 +448,24 @@
         "clean_url": "https://www.npr.org/2026/03/11/nx-s1-5744029/us-iran-war",
         "image": null,
         "timestamp": 1773239940.0
+    },
+    {
+        "title_fa": "اطلاعات آمریکا: حملات مستقیم ایران به تانکرهای نفتی خطرناک‌تر از مین‌ها است",
+        "title_en": "US intelligence sees direct attacks by Iran on oil tankers as greater risk than mines",
+        "summary": [
+            "اطلاعات نظامی آمریکا می‌گوید بزرگ‌ترین تهدید برای تانکرها در تنگه هرمز، حملات مستقیم ایران در مقیاس بالا — مثل موجی از پهپادهای یک‌طرفه یا موشک‌های ساحل به کشتی — است؛ حتی یک موشک یا پهپاد نفوذکننده می‌تواند یک تانکر را غرق کند و به تهران اهرم فشار بدهد.",
+            "آمریکا در واکنش به احتمال مین‌گذاری توسط ایران روز سه‌شنبه به ۱۶ شناور مرتبط با عملیات مین‌گذاری حمله کرد و ویدئویی از هدف قرار گرفتن نُه شناور منتشر شد؛ با این حال حتی اسکورت ناوشکن‌ها و بیمه دولتی هم ممکن است مانع از تلفات یا راضی کردن خدمه برای عبور از تنگه نشود.",
+            "گزارش به‌صورت طبقه‌بندی‌شده به قانون‌گذاران ارائه شد و قانون‌گذاران دموکرات به عملکرد دولت انتقاد داشتند؛ موقتا جایگزین‌های خط لوله محدودند و عبور یک‌پنجم تجارت نفتی جهانی از تنگه، پیامدهای اقتصادی گسترده‌ای در پی دارد."
+        ],
+        "impact": "این وضعیت جریان نفتی جهانی را در معرض اختلال جدی قرار می‌دهد و با افزایش اهرم فشار نظامی-سیاسی ایران، احتمال تشدید درگیری و افزایش فشار خارجی و اقتصادی بر رژیم را بالا می‌برد.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/mar/11/attacks-iran-oil-tankers-strait-hormuz",
+        "clean_url": "https://www.theguardian.com/world/2026/mar/11/attacks-iran-oil-tankers-strait-hormuz",
+        "image": null,
+        "timestamp": 1773237960.0
     },
     {
         "title_fa": "ترامپ به Axios گفت «عملاً چیزی برای هدف قرار دادن در ایران باقی نمانده»",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNY1N6azFLTkk2alZ5RFlOY3E5WWRmVGhoZU83ZFZXVW83SWZlTzBfWkdZNzZJUkVHdko3Qkp5SmFBX01mQ3NRZDVLd0tEVmdYS3JHTkhrdTh4M3Z1MEF4eU1URzlEU3JkQ1NXVGJzQ0dGVFFzeGI0QzRZd19uelFHUWhpUmVwUFk0RF9tcEJmRDBnVlJVTDFFX0Vyc0dIWEdKLXppZDhNRXpDVF9mM0lpZXNR0gG3AUFVX3lxTE93VUY2WXpfSVdpRHVKMkIycUNiWWtTVjB5LXJBeW1VZ3VLbmdOdkxYdHN2YWpqR3k4Z0pMc1UxcWxEWGp5M2o0VEV0TmFacjFjNGhYN3AxREE2NjRmN1A2OW5sT1ppZkZobHlUU1Vob0dBemNjLV9fTXFyLTVIYUdZQmlhUGZBMzN1RHpleFY0T3IwbzVlNW5YMHlJY0Y1QUpnQUdnNWxzWlRjdGZpX1pUODlBTHZFdw",
         "image": null,
         "timestamp": 1772983401.0
-    },
-    {
-        "title_fa": "مجتبی خامنه‌ای، پسر علی خامنه‌ای، به‌عنوان رهبر جدید ایران منصوب شد",
-        "title_en": "Mojtaba Khamenei, son of slain ayatollah, named Iran’s supreme leader",
-        "summary": [
-            "خبر رسمی: مجتبی خامنه‌ای به‌عنوان رهبر جدید جمهوری اسلامی معرفی شد؛ اقدامی که صریحاً به‌عنوان تلاشی برای تأمین ثبات در دوران آشفتگیِ کنونی گزارش شده است.",
-            "فشار خارجی و تحریم‌ها (چنانچه ادامه یابد) ساختار رژیم را تضعیف می‌کند و انتصاب یک جانشین خانوادگی احتمالاً تلاشی است برای حفظ انسجام نخبگی و کنترل پرسنلی در برابر اثرات اقتصادی و دیپلماتیک بیرونی.",
-            "این جانشینی خانوادگی نشان‌دهنده شکست مدیریت ساختاری و فقدان مکانیزم‌های مشروع انتقال قدرت است؛ چنین حرکت‌هایی می‌تواند خشم و ناامیدی عمومی را تشدید کند و ریسک ناآرامی یا فروپاشی تدریجی مشروعیت حکومت را بالا ببرد."
-        ],
-        "impact": "انتخاب مجتبی خامنه‌ای احتمالاً کوتاه‌مدت انسجام نخبگی را تقویت می‌کند اما در بلندمدت فشارهای اقتصادی و فقدان مشروعیت ذاتی می‌تواند ثبات رژیم را زیر سؤال ببرد.",
-        "tag": "جانشینی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/03/08/mojtaba-khamenei-son-of-slain-ayatollah-named-irans-supreme-leader-00818513",
-        "clean_url": "https://www.politico.com/news/2026/03/08/mojtaba-khamenei-son-of-slain-ayatollah-named-irans-supreme-leader-00818513",
-        "image": "http://www.bing.com/th?id=OVFT.mKI07uE1cP26EHbktU1Mjy&pid=News",
-        "timestamp": 1772981880.0
-    },
-    {
-        "title_fa": "ایران رهبر عالی جدیدی دارد. این چه معنایی دارد؟",
-        "title_en": "Iran Has a New Supreme Leader. What Does That Mean?",
-        "summary": [
-            "مجتبی خامنه‌ای، ۵۶ ساله و پسر رهبر پیشین، توسط مجمع ۸۸ نفره خبرگان به‌عنوان رهبر عالی منصوب شد؛ طبق قانون اساسی او اکنون بر سیاست داخلی و خارجی، نیروهای مسلح، قوه قضاییه و رسانه‌های دولتی تسلط دارد و قدرت صدور فتوای غیرالزام‌آور را نیز دارد.",
-            "نقش رهبر عالی شامل صدور حکم‌ها، نظارت بر سیاست‌های دولت و انتصابات عالی است که جایگاه جدید او تمرکز اختیار در دست قوه‌ای را تثبیت می‌کند که به‌صورت آشکار وظیفه سرکوب اعتراضات داخلی را نیز بر عهده دارد.",
-            "این سومین فردی است که از ۱۹۷۹ این جایگاه را به‌دست می‌آورد؛ نقش رهبر در طول زمان بسته به ویژگی‌های هر فرد تغییر کرده است و انتصاب فعلی پرسش‌هایی درباره جهت‌گیری آینده سیاست داخلی، مشروعیت رژیم و ثبات نهادها برمی‌انگیزد."
-        ],
-        "impact": "تمرکز بیشتر اختیارات در دست یک رهبر جدید احتمالاً سیاست داخلی را به سمت انتصابات متمرکز و استفاده از اهرم‌های سرکوب سوق می‌دهد و این الگو در بلندمدت ریسک تضعیف مشروعیت و ثبات رژیم را افزایش می‌دهد.",
-        "tag": "رهبری",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-supreme-leader-khamenei.html",
-        "clean_url": "https://www.nytimes.com/2026/03/08/world/middleeast/iran-supreme-leader-khamenei.html",
-        "image": "http://www.bing.com/th?id=OVFT.BesFLRkH5Ilu6hUDMy2-Ky&pid=News",
-        "timestamp": 1772981760.0
-    },
-    {
-        "title_fa": "انتخاب مجتبی خامنه‌ای به‌عنوان رهبر جدید ایران پس از مرگ علی خامنه‌ای در حملات اولیه آمریکا و اسرائیل",
-        "title_en": "Mojtaba Khamenei to succeed his father as Iran's supreme leader",
-        "summary": [
-            "مجتبی خامنه‌ای، ۵۶ ساله، از سوی رسانه‌های دولتی به‌عنوان جانشین علی خامنه‌ای، رهبر ایران، معرفی شد؛ علی خامنه‌ای در موج نخست حملات آمریکا و اسرائیل در محل اقامتش کشته شد.",
-            "حملات خارجی و تلفات مرتبط (از جمله اعلام مرگ یک نظامی آمریکایی)، همراه با دخالت آشکار رئیس‌جمهور آمریکا در فرایند انتخاب جانشین، فشار بین‌المللی و نقش تحریم‌ها را برجسته می‌کند — مجتبی خامنه‌ای قبلاً در ۲۰۱۹ توسط آمریکا تحریم شده بود.",
-            "گزارش‌ها از هدف قرار گرفتن پایانه‌های نفتی، بمباران جنوب لبنان و صحنه‌های هشدارآمیز در تهران نشان‌دهنده تشدید بحران امنیتی و افزایش نارضایتی داخلی است؛ پیوندهای ادعایی مجتبی با بسیج و سپاه می‌تواند همگرایی اقتدارگرایانه را تسریع کند."
-        ],
-        "impact": "این تحولات ثبات ساختاری رژیم را به‌طور جدی تضعیف می‌کند و شانس تشدید درگیری‌های منطقه‌ای و بروز آشوب داخلی را افزایش می‌دهد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.85,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/cz0g2yg3579t",
-        "clean_url": "https://www.bbc.com/news/live/cz0g2yg3579t",
-        "image": "http://www.bing.com/th?id=OVFT.vgOxnmb8d5BFLUpSH_5fyi&pid=News",
-        "timestamp": 1772981040.0
-    },
-    {
-        "title_fa": "برآورد نقش سپاه در ایران",
-        "title_en": "Sizing Up Iran’s Elite Guards",
-        "summary": [
-            "گزارش می‌گوید بسیاری سپاه پاسداران را مانع اصلی تغییر نظام یا هر تغییر دیگری در ایران می‌دانند.",
-            "این دیدگاه سپاه را به‌عنوان رکن امنیتی-سیاسی‌ای نشان می‌دهد که جلوی جابه‌جایی قدرت و اصلاحات ساختاری را می‌گیرد.",
-            "استنتاج ضمنی این است که فشار خارجی یا تحریم‌ها بدون هدف‌گیری ساختارهای کلیدی سپاه احتمالاً برای ایجاد تغییر بنیادین کافی نخواهد بود."
-        ],
-        "impact": "حفظ این نقش از سوی سپاه، اثبات می‌کند که فشارهای بین‌المللی و اقتصادی به‌تنهایی توانایی براندازی یا تغییر ساختاری رژیم را ندارند و مسیر تغییر را به گزینه‌های داخلی پیچیده‌تر و خطرناک‌تر می‌کشاند.",
-        "tag": "سپاه",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/08/world/iran-revolutionary-guards-corps-nepal-election.html",
-        "clean_url": "https://www.nytimes.com/2026/03/08/world/iran-revolutionary-guards-corps-nepal-election.html",
-        "image": "http://www.bing.com/th?id=OVFT.fiBpOKW59F7n_VN-9dSZpi&pid=News",
-        "timestamp": 1772979480.0
-    },
-    {
-        "title_fa": "پنتاگون: هفتمین عضو نیروی آمریکایی در جنگ با ایران کشته شد",
-        "title_en": "Seventh American service member dies in Iran war, Pentagon says",
-        "summary": [
-            "پنتاگون اعلام کرده این، هفتمین کشته‌شده نظامی آمریکایی در درگیری‌ها با ایران است؛ گزارش اصلی جزئیات محدودی ارائه کرده است.",
-            "افزایش شمار قربانیان آمریکایی نشانه اوج‌گیری درگیری‌ها است و ریسک تشدید واکنش‌های نظامی و سیاسی واشنگتن را افزایش می‌دهد.",
-            "ادامه دادن جنگ بار مالی و مدیریتی بر رژیم ایران تحمیل می‌کند؛ این فشار می‌تواند نارضایتی عمومی را تشدید کرده و ضعف‌های ساختاری حکومت را بیشتر نمایان سازد."
-        ],
-        "impact": "تأیید مرگ هفتمین نیروی آمریکایی روند تشدید درگیری‌ها را نشان می‌دهد و می‌تواند مسیر را برای اقدامات نظامی شدیدتر و فشارهای بین‌المللی بیشتر هموار کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/politics/2026/03/08/us-troop-death-toll-iran-war/89056246007/",
-        "clean_url": "https://www.usatoday.com/story/news/politics/2026/03/08/us-troop-death-toll-iran-war/89056246007",
-        "image": null,
-        "timestamp": 1772979060.0
     }
 ]
