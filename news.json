@@ -126,6 +126,24 @@
         "timestamp": 1773324003.0
     },
     {
+        "title_fa": "رهبر ایران تهدید به انتقام از آمریکا و اسرائیل کرد",
+        "title_en": "Iran war live updates: Iran's leader vows revenge on US, Israel",
+        "summary": [
+            "اطلاع‌رسانی: بر اساس عنوان خبر، رهبر ایران وعدهٔ انتقام از آمریکا و اسرائیل داده است که به‌خودی‌خود خطر تشدید نظامی و واکنش‌های سریع خارجی را افزایش می‌دهد.",
+            "فشار خارجی/تحریم‌ها: لحن تهاجمی می‌تواند محرک افزایش فشار دیپلماتیک و تحریم‌ها علیه حکومت باشد؛ این امر کاهندهٔ ظرفیت‌های اقتصادی و تضعیف‌کنندهٔ ثبات ساختاری رژیم است (این یک تحلیل مبتنی بر احتمال است، نه نقل محتوای تفصیلی خبر).",
+            "پیامدهای داخلی: حکومت احتمالاً از این رجزخوانی برای بسیج داخلی و منحرف کردن افکار عمومی از مشکلات مدیریتی و اقتصادی استفاده خواهد کرد؛ خبر منتشره اشارهٔ مستقیمی به اعتراضات یا شاخص‌های اقتصادی نکرده است."
+        ],
+        "impact": "این تهدیدها ریسک تصاعد نظامی و تشدید فشارهای بین‌المللی را بالا می‌برد و در مجموع پایداری رژیم را در مواجهه با هزینه‌های اقتصادی و دیپلماسی کاهش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Tennessean",
+        "url": "https://www.tennessean.com/live-story/news/world/2026/03/12/iran-war-live-updates-us-israel-strait-hormuz/89109776007/",
+        "clean_url": "https://www.tennessean.com/live-story/news/world/2026/03/12/iran-war-live-updates-us-israel-strait-hormuz/89109776007",
+        "image": "http://www.bing.com/th?id=OVFT.WPfCmsypd_jOCkXRxpiIii&pid=News",
+        "timestamp": 1773323940.0
+    },
+    {
         "title_fa": "صدور نخستین بیانیه رهبر جمهوری اسلامی در بحبوحه جنگ با آمریکا و اسرائیل",
         "title_en": "Iran's supreme leader issues his first statement as war with U.S. and Israel rages",
         "summary": [
@@ -142,6 +160,60 @@
         "clean_url": "https://www.wuft.org/2026-03-12/irans-supreme-leader-issues-his-first-statement-as-war-with-u-s-and-israel-rages",
         "image": null,
         "timestamp": 1773323745.0
+    },
+    {
+        "title_fa": "ادعای ترامپ درباره توافق هسته‌ای اوباما و توسعه هسته‌ای ایران",
+        "title_en": "Trump’s Claim About the Obama Nuclear Deal and Iran’s Nuclear Development",
+        "summary": [
+            "ترامپ مدعی شد که خروج آمریکا از برجام در ۲۰۱۸ مانع از دستیابی ایران به «سلاح هسته‌ای عظیم» شد و بدون آن ایران «سه سال پیش» چنین سلاحی داشت.",
+            "برجام محدودیت‌هایی بر غنی‌سازی و الزام به بازرسی‌های بین‌المللی وضع کرده بود، اما کارشناسانی مانند Laura Rockwood و Richard Nephew می‌گویند ایران پس از خروج آمریکا برنامه هسته‌ای خود را تسریع کرد و پیشرفت‌ها عمدتاً پس از سال ۲۰۱۸ رخ داده است.",
+            "قضاوت قطعی در مورد سناریوی جایگزین ممکن نیست، با این حال خروج آمریکا ساختار نظارتی و محدودیت‌های برجام را تضعیف کرد و امکان پیشروی سریع‌تر در غنی‌سازی را برای تهران فراهم ساخت."
+        ],
+        "impact": "خروج آمریکا از برجام ساختار نظارتی و محدودیت‌ها را تضعیف کرد که به افزایش قابلیت‌های هسته‌ای ایران و تشدید فشارهای بین‌المللی و هزینه‌های اقتصادی و سیاسی داخلی انجامید.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "FactCheck.org",
+        "url": "https://www.factcheck.org/2026/03/trumps-claim-about-the-obama-nuclear-deal-and-irans-nuclear-development/",
+        "clean_url": "https://www.factcheck.org/2026/03/trumps-claim-about-the-obama-nuclear-deal-and-irans-nuclear-development",
+        "image": null,
+        "timestamp": 1773323520.0
+    },
+    {
+        "title_fa": "اولین بیانیه مجتبی خامنه‌ای: تهدید حمله به پایگاه‌های آمریکا و ادامه بستن تنگه هرمز",
+        "title_en": "Iran’s Mojtaba Khamenei vows to fight in first statement as supreme leader",
+        "summary": [
+            "مجتبی خامنه‌ای اعلام کرد تنگه هرمز برای فشار بر دشمنان بسته خواهد ماند و تهدید به حمله به همه پایگاه‌های آمریکا در منطقه را مطرح کرد؛ تاکید بر مشارکت گروه‌های مسلح در یمن و عراق نشان‌دهنده اراده به تشدید عملیات فرامرزی است.",
+            "جامعه ایرانی بر سر انتصاب او تقسیم شده و نگرانی‌ها از مشکلات اقتصادی و تردید در مشروعیت و توانایی رهبری او پس از کشته شدن علی خامنه‌ای و انتصاب سریع از سوی مجمع خبرگان افزایش یافته است؛ این شکاف داخلی ظرفیت حکومت برای مدیریت بحران را تضعیف می‌کند.",
+            "تهدید به بستن هرمز و حمله به پایگاه‌ها، شانس پاسخ نظامی یا تحریم‌های بین‌المللی شدیدتر را بالا می‌برد؛ فشار خارجی و اختلال در صادرات انرژی می‌تواند تضعیف ساختاری اقتصادی و سیاسی رژیم را تسریع کند."
+        ],
+        "impact": "این بیانیه احتمالاً تشدیدی مستقیم در رقابت نظامی منطقه‌ای به‌همراه افزایش احتمال اقدامات تلافی‌جویانه، تحریم‌های وسیع‌تر و رشد نارضایتی داخلی ایجاد می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/iran-mojtaba-khamenei-issues-first-135341968.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-mojtaba-khamenei-issues-first-135341968.html",
+        "image": "http://www.bing.com/th?id=OVFT.uXog9aNZrP-0XlZRoVjTii&pid=News",
+        "timestamp": 1773321360.0
+    },
+    {
+        "title_fa": "اسرائیل به تهران حمله کرد؛ بیانیه نخستِ رهبر جدید جمهوری اسلامی و آوارگی ۳.۲ میلیون نفر",
+        "title_en": "Israel launches Tehran strikes, hours after first statement from new Iran supreme leader released",
+        "summary": [
+            "موج جدید حملات اسرائیل به تهران هم‌زمان با پخش بیانیه‌ای منتسب به Mojtaba Khamenei، رهبر جدید، که متعهد به ادامه مسدودسازی تنگه هرمز شده است؛ وضعیت جسمانی او نامشخص و شایعاتی درباره زخمی یا کشته شدنش منتشر شده است.",
+            "حداقل سه کشتی تجاری دیگر در خلیج فارس هدف حمله قرار گرفته‌اند که به حملات انجام‌شده توسط ایران نسبت داده می‌شود؛ رسانه‌های دولتی ایران از انجام دست‌کم یک ضربه توسط نیروهای ایرانی خبر داده‌اند و اختلال در خطوط کشتیرانی و تهدید به مسدودسازی هرمز موجب تشدید ریسک اقتصادی منطقه‌ای شده است.",
+            "آژانس پناهندگان سازمان ملل: از زمان آغاز حملات اسرائیل و آمریکا در ۲۸ فوریه، ۳.۲ میلیون نفر در داخل ایران آواره شده‌اند؛ در کنار تلفات در لبنان و حملات پهپادی به مواضع نیروهای غربی در عراق که موجب جراحات خفیف به نیروهای آمریکایی شد، نشان‌دهنده تشدید بحران انسانی و امنیتی است."
+        ],
+        "impact": "این ترکیب از فشار نظامی خارجی، اختلال در کشتیرانی و ابهام درباره وضعیت رهبری، ساختار حکومت را تضعیف و ظرفیت مانور سیاسی و اقتصادی رژیم را کاهش می‌دهد؛ خطر فرسایش مشروعیت و افزایش بی‌ثباتی داخلی و منطقه‌ای بالا رفته است.",
+        "tag": "تصاعد",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/live/c4gqjyk0vx3t",
+        "clean_url": "https://www.bbc.com/news/live/c4gqjyk0vx3t",
+        "image": null,
+        "timestamp": 1773318900.0
     },
     {
         "title_fa": "هکرهای وابسته به ایران آمریکا و اهداف دیگر را هدف گرفتند؛ خطر حملات سایبری در جریان جنگ افزایش یافت",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-09-26",
         "image": null,
         "timestamp": 1773041940.0
-    },
-    {
-        "title_fa": "چه چیزی جنگ نامتقارن درباره شانس جنگی ایران می‌گوید",
-        "title_en": "What asymmetric warfare may tell us about Iran’s fighting chances",
-        "summary": [
-            "فشارها و تحریم‌های خارجی می‌تواند گزینه‌های متعارف نظامی را محدود کند؛ تمرکز بر جنگ نامتقارن اغلب نشانه تضعیف توان رزمی متعارف و محدودیت در دسترسی به تجهیزات و تأمین مالی است.",
-            "تکیه بر تاکتیک‌های نامتقارن بار سیاسی و اقتصادی را به داخل منتقل می‌کند؛ ناکارآمدی مدیریتی و نارضایتی عمومی در صورت ادامه درگیری‌های طولانی تشدید خواهد شد.",
-            "واقع‌گرایی ایجاب می‌کند موفقیت نامتقارن را محدود و مشروط ببینیم؛ بدون اصلاحات ساختاری در نیروها و اقتصاد، این راهبرد نمی‌تواند خلاهای مشروعیت و ظرفیت نظامی را جبران کند."
-        ],
-        "impact": "تکیه بر جنگ نامتقارن ممکن است تاب‌آوری نظامی کوتاه‌مدت را نگه دارد اما پاشنه آشیل سیاسی-اقتصادی رژیم را عمیق‌تر کرده و خطر تشدید بی‌ثباتی داخلی را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2RCZVJHU3NGU0QzUkVUY3FJdGh6M1NwR05BZVBSU2ZCWlRGT0hxb3BhQ0g1SFVMR1JmTDJxYlFrblJrSGdrNWRZVHRYOVZ4NWdXWWZqbTRkUXhWemI0aTBSWXhVQ010N3dFVWoxV0V2V18yWnZYOEZWZVFFQ0k3TnRBYjh1Xy1wcUJVUkxsdXQ5Q1RCWV9WeG04eTE0VTJ4MFlZT0lyZ09OMTjSAbABQVVfeXFMTnNKa1BGNzBCSjBKdlpHYjRPcmlOLWF4MHpwUHBEQVREcTdaa25BaUltSUY5TlF1TDZQc0xRTXhyMGxKSmhETGhOQmk5WG02OWNvOUg0Q0N4YVNNSGJrUjdmeFFmSFRpTlJSc0tFY2QzbGtVb1NQemVCbzBIWEhtQmFWQzYyVzFkYmpnTTBCejUxVW1uTjNvNEY1UGpxQ0JLclF0aEVsb2pMajZIUThWbnE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2RCZVJHU3NGU0QzUkVUY3FJdGh6M1NwR05BZVBSU2ZCWlRGT0hxb3BhQ0g1SFVMR1JmTDJxYlFrblJrSGdrNWRZVHRYOVZ4NWdXWWZqbTRkUXhWemI0aTBSWXhVQ010N3dFVWoxV0V2V18yWnZYOEZWZVFFQ0k3TnRBYjh1Xy1wcUJVUkxsdXQ5Q1RCWV9WeG04eTE0VTJ4MFlZT0lyZ09OMTjSAbABQVVfeXFMTnNKa1BGNzBCSjBKdlpHYjRPcmlOLWF4MHpwUHBEQVREcTdaa25BaUltSUY5TlF1TDZQc0xRTXhyMGxKSmhETGhOQmk5WG02OWNvOUg0Q0N4YVNNSGJrUjdmeFFmSFRpTlJSc0tFY2QzbGtVb1NQemVCbzBIWEhtQmFWQzYyVzFkYmpnTTBCejUxVW1uTjNvNEY1UGpxQ0JLclF0aEVsb2pMajZIUThWbnE",
-        "image": null,
-        "timestamp": 1773041919.0
-    },
-    {
-        "title_fa": "ایران مجتبی خامنه‌ای را جانشین رهبری نامید؛ نشانه‌ای از تداوم جنگ و جهش قیمت نفت",
-        "title_en": "Iran names Khamenei’s son to succeed him, signaling no letup in war as oil prices surge",
-        "summary": [
-            "انتصاب مجتبی خامنه‌ای به جانشینی رهبری پیام روشنی از تداوم خط‌مشی‌های کنونی حکومت در حوزه امنیتی و نظامی دارد و کاهش فوری احتمال آتش‌بس یا مصالحه را نشان می‌دهد.",
-            "جهش قیمت نفت پس از اعلام جانشینی منعکس‌کننده افزایش ارزیابی ریسک منطقه‌ای توسط بازارها است و هم‌زمان می‌تواند به تشدید فشارهای اقتصادی داخلی از طریق تورم و کسری بودجه منجر شود.",
-            "این نام‌گذاری خوانشی از تحکیم قدرت در حلقه‌های حکومتی و گرایش به انتقال جانشینی درون‌خانوادگی ارائه می‌دهد؛ در صورت تداوم مشکلات اقتصادی، این تحکیم می‌تواند نارضایتی عمومی و ریسک بی‌ثباتی سیاسی را افزایش دهد."
-        ],
-        "impact": "این جانشینی احتمال ادامه جنگ، تشدید انزوای بین‌المللی و فشار اقتصادی بر مردم را افزایش می‌دهد.",
-        "tag": "تداوم",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7",
-        "clean_url": "https://apnews.com/article/iran-israel-us-march-9-2026-b2aa51ef51d4b57103ffee0c95bc2ff7",
-        "image": "http://www.bing.com/th?id=OVFT.A0N7aX6bFGxbwvWXttbn5C&pid=News",
-        "timestamp": 1773039180.0
-    },
-    {
-        "title_fa": "ایران مجتبی خامنه‌ای را به‌عنوان جانشین پدرش منصوب کرد",
-        "title_en": "Iran names Khamenei’s son to succeed him",
-        "summary": [
-            "مجتبی خامنه‌ای به‌عنوان جانشین پدر متوفی‌اش در مقام رهبری معرفی شد؛ نشان‌دهنده تداوم خط‌مشی سخت‌گیرانه رژیم است.",
-            "انتخاب جانشین هم‌زمان با اعلام جنگ از سوی ایالات متحده و اسرائیل گزارش شده و بازارها واکنش نشان دادند؛ بهای نفت افزایش یافت.",
-            "این نوع جانشینی دودمانی احتمالاً مشروعیت داخلی رژیم را بیشتر تضعیف می‌کند و ریسک‌های اقتصادی و سیاسی را بالا می‌برد، اگرچه جزئیات درباره واکنش‌های داخلی گسترده گزارش نشده است."
-        ],
-        "impact": "تعیین جانشین از درون خانواده رهبری در حالی که تنش نظامی خارجی و شوک نفتی وجود دارد، احتمال افزایش بی‌ثباتی داخلی و تشدید انزوای بین‌المللی رژیم را تقویت می‌کند.",
-        "tag": "جانشینی",
-        "urgency": 10,
-        "sentiment": -0.85,
-        "source": "OregonLive.com",
-        "url": "https://www.oregonlive.com/nation/2026/03/iran-names-khameneis-son-to-succeed-him-as-oil-prices-surge.html",
-        "clean_url": "https://www.oregonlive.com/nation/2026/03/iran-names-khameneis-son-to-succeed-him-as-oil-prices-surge.html",
-        "image": null,
-        "timestamp": 1773037080.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: موشک ایرانی به اسرائیل اصابت کرد، نیروی هوایی اسرائیل پاسخ داد",
-        "title_en": "Live Updates: Iranian missile hits Israel, IAF strikes back",
-        "summary": [
-            "گزارش نشریه: موشکی از ایران به اسرائیل اصابت کرد و نیروی هوایی اسرائیل با حمله متقابل پاسخ داد؛ خبرها در قالب «به‌روزرسانی زنده» منتشر شده‌اند.",
-            "این تبادل آتش مستقیماً سطح تنش منطقه‌ای را بالا می‌برد و خطر گسترش درگیری فراتر از ضربات محدود را افزایش می‌دهد، که می‌تواند به واکنش‌های اضافی یا تشدید حضور نظامی طرف‌ها بینجامد.",
-            "برای رژیم ایران، ادامه چنین رویارویی‌هایی می‌تواند هزینه‌های بین‌المللی و احتمال تشدید تحریم‌ها را بالا ببرد و هر اختلال اقتصادی یا تلفات بیشتر بالقوه نارضایتی داخلی را تقویت می‌کند."
-        ],
-        "impact": "اثر فوری: این درگیری مستقیم خطر تشدید نظامی و افزایش فشارهای سیاسی-اقتصادی بر رژیم را بالا می‌برد و پتانسیل بی‌ثبات‌سازی بیشتر در داخل و منطقه را دارد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yeXpKQkFzS0dnUDV3QXZ6LXFmNndrRVkwbGZSMzJid1pQQ1phZXlSUHV0MDMtVnBPVnFpWEpweGhyc3huQTlSTEJpbVNRbFkwS1N5d2s4UllDdk1td1Bza0tEQ25aUEI1M253SVhyeExGbHV4NGFYYlVaV1o1U2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yeXpKQkFzS0dnUDV3QXZ6LXFmNndrRVkwbGZSMzJid1pQQ1phZXlSUHV0MDMtVnBPVnFpWEpweGhyc3huQTlSTEJpbVNRbFkwS1N5d2s4UllDdk1td1Bza0tEQ25aUEI1M253SVhyeExGbHV4NGFYYlVaV1o1U2c",
-        "image": null,
-        "timestamp": 1773036005.0
     }
 ]
