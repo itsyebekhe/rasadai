@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "درگیری در ایران زنجیره تامین کود را فلج کرد",
+        "title_en": "Iran conflict cripples global fertilizer supply",
+        "summary": [
+            "درگیری در ایران عرضه جهانی کود را مختل کرده است؛ کمبود عرضه و فشار افزایشی بر قیمت‌های بین‌المللی محتمل است.",
+            "این اختلال ضعف و آسیب‌پذیری زیرساخت‌های صنعتی راهبردی و ناتوانی در مدیریت و تأمین امنیت تولید و صادرات را آشکار می‌سازد.",
+            "پیامدها شامل فشار بر امنیت غذایی جهانی، کاهش تولید کشاورزی و افزایش نارضایتی داخلی است؛ هرگونه تحریم یا فشار خارجی اضافی می‌تواند این بحران را تشدید و ثبات سیاسی رژیم را تضعیف کند."
+        ],
+        "impact": "فلج شدن زنجیره تامین کود از ایران فشار فوری بر بازارهای غذایی جهانی وارد می‌کند و می‌تواند شوک اقتصادی و سیاسی به داخل کشور تحمیل کند.",
+        "tag": "کود",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Farm Progress",
+        "url": "https://www.msn.com/en-us/money/markets/food-prices-could-rise-as-iran-conflict-disrupts-fertilizer-supply-chain/ar-AA1YpcAw",
+        "clean_url": "https://www.msn.com/en-us/money/markets/food-prices-could-rise-as-iran-conflict-disrupts-fertilizer-supply-chain/ar-AA1YpcAw",
+        "image": null,
+        "timestamp": 1773296123.0
+    },
+    {
         "title_fa": "ترامپ: آمریکا و اسرائیل باید «کار را تمام کنند» در جنگ با ایران",
         "title_en": "US President Donald Trump says the United States and Israel must “finish the job” in the escalating war with Iran.",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.inquirer.com/news/nation-world/iran-war-civilian-infrastructure-supreme-leader-desalination-oil-depot-trump-20260308.html",
         "image": "http://www.bing.com/th?id=OVFT.bjbfCH-Q5Oa17Fd-ofVQzS&pid=News",
         "timestamp": 1772986260.0
-    },
-    {
-        "title_fa": "ارتقای پسر علی خامنه‌ای همزمان با تشدید حملات منطقه‌ای",
-        "title_en": "Iran elevates Khamenei son as increased strikes shake region",
-        "summary": [
-            "رسانه‌ها گزارش می‌دهند که پسر علی خامنه‌ای به عنوان رهبر جدید منصوب شده است، در حالی که در روز نهم جنگ در خاورمیانه ایران حملاتی را علیه چند کشور ادامه داد.",
-            "این انتقال رهبری نشان‌دهنده تحکیم قدرت درون خانواده حاکم است و می‌تواند اولویت‌گذاری بقای رژیم بر کارآمدی حکمرانی را برجسته کند؛ اقدامی که خطر تشدید نارضایتی عمومی را به همراه دارد.",
-            "ادامه حملات منطقه‌ای همزمان با تغییر رهبری احتمال افزایش فشار و تحریم‌های خارجی و تضعیف ساختاری توان مالی و نظامی رژیم را بالا می‌برد، که پیامدهای سیاسی و اقتصادی داخلی را تشدید خواهد کرد."
-        ],
-        "impact": "ترکیب جایگزینی رهبر از درون خانواده خامنه‌ای و تشدید عملیات نظامی احتمالاً تنش‌های بین‌المللی را بالا می‌برد و فشارهای اقتصادی و سیاسی بر رژیم را فوراً تشدید می‌کند.",
-        "tag": "انتقال_قدرت",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-elevates-khamenei-s-son-as-escalating-strikes-shake-region/ar-AA1XMvtn",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-elevates-khamenei-s-son-as-escalating-strikes-shake-region/ar-AA1XMvtn",
-        "image": "http://www.bing.com/th?id=OVFT.DNnSgOR_gKd-OWXWa_JiUi&pid=News",
-        "timestamp": 1772984251.0
     }
 ]
