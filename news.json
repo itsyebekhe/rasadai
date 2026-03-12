@@ -162,6 +162,24 @@
         "timestamp": 1773296040.0
     },
     {
+        "title_fa": "خبرهای زنده جنگ آمریکا-اسرائیل-ایران: پهپاد ایرانی به ساختمان در دبی اصابت کرد؛ اسرائیل حملات به تهران را گسترش داد",
+        "title_en": "US-Israel-Iran War News Live Updates: Iranian drone hits Dubai building; Israel 'widens' attack on Tehran",
+        "summary": [
+            "حملات هماهنگ آمریکا و اسرائیل از 28 فوریه آغاز شد و طبق گزارش‌ها علی خامنه‌ای، رهبر ایران، کشته شده؛ اسرائیل همچنین سایت هسته‌ای تله‌قان را هدف قرار داده و در تهران انفجارهای قدرتمندی رخ داده است.",
+            "ایران با موشک و پهپاد به مواضع اسرائیل و مسیرهای کشتیرانی در تنگه هرمز حمله کرده؛ پهپادی به ساختمانی در دبی برخورد کرد، اختلال در عرضه نفت و افزایش قیمت‌ها گزارش و کشورهای بزرگ برای مهار شوک بازارها از ذخایر استراتژیک استفاده کرده‌اند؛ همچنین اسرائیل اعلام کرده ابو ذَر محمدی، فرمانده عملیات حزب‌الله در بیروت را حذف کرده است.",
+            "از منظر ساختاری، فشار نظامی مستقیم و اختلال در مسیرهای انرژی می‌تواند ستون‌های اقتصادی و کارکرد حکمرانی را تضعیف کند؛ تهدید تهران به هدف‌گذاری زیرساخت‌های اقتصادی مرتبط با آمریکا و اسرائیل و حملات به کشتی‌های تجاری ریسک تبدیل شدن درگیری به جنگ فرسایشی را افزایش می‌دهد."
+        ],
+        "impact": "این تشدید نظامی و اختلال در مسیرهای انرژی، رژیم را زیر فشار اقتصادی و سیاسی شدید قرار می‌دهد و خطر گسترش درگیری به یک بحران منطقه‌ای و اختلال طولانی‌مدت در تجارت و انرژی را به‌شدت افزایش می‌دهد.",
+        "tag": "تصاعد",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-ballistic-missile-attacks-explosions-gulf-countries-flights-status-donald-trump-netanyahu-khamenei/liveblog/129370636.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-ballistic-missile-attacks-explosions-gulf-countries-flights-status-donald-trump-netanyahu-khamenei/liveblog/129370636.cms",
+        "image": "http://www.bing.com/th?id=OVFT.-hUWaMt34yRjz4dR289KUy&pid=News",
+        "timestamp": 1773295860.0
+    },
+    {
         "title_fa": "ترامپ: آمریکا و اسرائیل باید «کار را تمام کنند» در جنگ با ایران",
         "title_en": "US President Donald Trump says the United States and Israel must “finish the job” in the escalating war with Iran.",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.cnbc.com/2026/03/09/iran-war-us-israel-conflict-oil-prices-kharg-island.html",
         "image": null,
         "timestamp": 1773013500.0
-    },
-    {
-        "title_fa": "قیمت نفت جهش کرد؛ مجتبی خامنه‌ای به‌عنوان رهبر جدید ایران منصوب شد",
-        "title_en": "Live updates: Oil prices soar after Iran names Mojtaba Khamenei the new supreme leader",
-        "summary": [
-            "اعلام مجتبی خامنه‌ای به‌عنوان رهبر جدید بازارها را شوکه کرد؛ قیمت نفت جهانی فوراً جهش کرد و نشان داد بازیگران بین‌المللی ریسک سیاسی در ایران را بازتفسیر می‌کنند.",
-            "تغییر رهبری متمرکز در خاندان خامنه‌ای می‌تواند واکنش خارجی‌ها از جمله تهدید به تحریم‌ها یا بازنگری در روابط اقتصادی را تسریع کند؛ این فشارهای خارجی ساختار اقتصادیِ ضعیف‌شده رژیم را بیشتر تضعیف می‌کند.",
-            "در داخل، تمرکز قدرت و ادامه مدیریت ناکارآمد اقتصادی احتمال تشدید نارضایتی عمومی و افزایش فشار معیشتی را بالا می‌برد؛ در صورت تشدید تحریم‌ها و کاهش درآمدهای نفتی، توانایی دولت در کنترل شرایط ضعیف‌تر خواهد شد."
-        ],
-        "impact": "اعلام جانشینی مجتبی خامنه‌ای فوراً بازار نفت را تکان داد و می‌تواند مسیر را برای تشدید تحریم‌ها، افت درآمدهای دولت و تشدید نارضایتی‌های داخلی هموار کند.",
-        "tag": "جانشینی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-khamenei-03-09-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-khamenei-03-09-2026",
-        "image": "http://www.bing.com/th?id=OVFT.xuOVnGaZETozPFCzM9hkyy&pid=News",
-        "timestamp": 1773012660.0
     }
 ]
