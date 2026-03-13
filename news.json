@@ -108,6 +108,24 @@
         "timestamp": 1773400656.0
     },
     {
+        "title_fa": "ترامپ: ایالات متحده پس از تسهیل تحریم‌ها بر نفت روسیه، ایران را «خیلی سخت» خواهد زد",
+        "title_en": "Trump says U.S. will hit Iran 'very hard' after easing sanctions on Russian oil",
+        "summary": [
+            "تیتر گزارش می‌گوید دونالد ترامپ اعلان کرده ایالات متحده ایران را «خیلی سخت» مورد حمله قرار خواهد داد، هم‌زمان با گزارش از تسهیل تحریم‌ها علیه نفت روسیه؛ متن اصلی خبر در دسترس نیست و اطلاعات تکمیلی نامشخص است.",
+            "از منظر تحریم‌ها و فشار خارجی: تهدید مستقیم به عمل نظامی نشان می‌دهد که واشنگتن احتمالاً از ابزار نظامی و اقتصادی برای تضعیف رژیم تهران استفاده را در اولویت قرار می‌دهد؛ این فشار می‌تواند ثبات ساختاری رژیم را تحت تأثیر قرار دهد اما ریسک تجمیع سرکوب داخلی و بسیج ملی را نیز بالا می‌برد.",
+            "نقش روسیه: چون تسهیل تحریم‌ها علیه نفت روسیه در تیتر آمده، افزایش انعطاف‌پذیری مسکو می‌تواند به‌عنوان یک عامل تسهیل‌کننده برای بقای سیاسی رژیم تهران عمل کند—چه از مسیر همگرایی استراتژیک و چه از مسیر تغییر موازنه سیاسی-اقتصادی منطقه."
+        ],
+        "impact": "این تهدید ترامپ، در صورت جدی بودن، می‌تواند موجب تشدید رویارویی نظامی و فشار اقتصادی و هم‌زمان افزایش سرکوب داخلی در ایران شود که ثبات رژیم را بیش از پیش متزلزل خواهد کرد.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/world/2026/03/13/middle-east-iran-crisis/89133309007/",
+        "clean_url": "https://www.detroitnews.com/story/news/world/2026/03/13/middle-east-iran-crisis/89133309007",
+        "image": null,
+        "timestamp": 1773399780.0
+    },
+    {
         "title_fa": "عکس‌هایی از ایران، اسرائیل و لبنان در هفتهٔ دوم جنگ ایران",
         "title_en": "Photos from Iran, Israel and Lebanon in the 2nd week of the Iran war",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VVlRZeFQ5TmdnbWRRMENMaVc4NE9aZk02aDVueFBHU0N3WGVZMGdWSllSbkVkY0dMN0xaRGsteHNzUENXdkJ5RkJic3JvN25TU3A1VHM5VFNKSElCQ3YtQUdZNk5iU0ZVcTdMTTg1SExYdw",
         "image": null,
         "timestamp": 1773398794.0
+    },
+    {
+        "title_fa": "هدف قابل دستیابی در ایران",
+        "title_en": "An Achievable Goal in Iran",
+        "summary": [
+            "مقاله‌ای در The Atlantic با عنوان «هدف قابل دستیابی در ایران» نوشته دنیس راس؛ بیوگرافی نویسنده: مشاور و پژوهشگر ارشد در Washington Institute و مذاکره‌کننده ارشد آمریکا در خاورمیانه در دوره‌های دولت‌های بوش پدر و کلینتون و هماهنگ‌کننده کاخ‌سفید در دولت اوباما.",
+            "در ورودی ارائه‌شده فقط عنوان و بیوگرافی نویسنده موجود است؛ متن مقاله در دسترس نیست، بنابراین هر تحلیل مشخص درباره سیاست‌های پیشنهادی، تحریم‌ها یا تأثیرات داخلی بدون دسترسی به متن کامل گمانی خواهد بود.",
+            "بر پایه اطلاعات موجود نمی‌توان نقش بازیگران خارجی، پیشنهادات عملی یا ارتباط مستقیم با اعتراضات داخلی و وضعیت اقتصادی را تأیید کرد؛ برای تحلیل واقع‌گرایانه لازم است متن کامل مقاله و منابع مرتبط مرور شود."
+        ],
+        "impact": "بدون دسترسی به متن کامل مقاله، نمی‌توان نتیجه‌گیری قاطع درباره پیامدهای راهبردی یا تأثیر بر ثبات رژیم ارائه کرد.",
+        "tag": "ایران",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/international/2026/03/trump-goal-iran/686356/",
+        "clean_url": "https://www.theatlantic.com/international/2026/03/trump-goal-iran/686356",
+        "image": null,
+        "timestamp": 1773398040.0
     },
     {
         "title_fa": "پهپادهای دوربرد شاهد-۱۳۶ ایران؛ تهدیدی ماندگار در میادین منطقه‌ای",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.firstpost.com/world/iran-israel-us-war-live-updates-dubai-uae-tehran-attacks-missiles-drones-trump-says-iran-war-may-end-very-soon-but-threatens-massive-response-if-oil-route-hit-liveblog-13987816.html",
         "image": null,
         "timestamp": 1773102240.0
-    },
-    {
-        "title_fa": "پاسخ سپاه به ترامپ: «پایان جنگ را ما تعیین خواهیم کرد»",
-        "title_en": "Responding to Trump, Iran’s IRGC says it ‘will determine the end of the war’",
-        "summary": [
-            "سپاه پاسداران در واکنش به اظهارات ترامپ اعلام کرد «پایان جنگ را ما تعیین خواهیم کرد»؛ بیانیه‌ای تهدیدآمیز که پیام هم به رقبا و هم به مخاطبان داخلی دارد.",
-            "اگرچه گزارش به تحریم‌ها اشاره‌ای نمی‌کند، فشارهای خارجی و تحریم‌ها ساختار رژیم را تضعیف کرده‌اند؛ نمایش‌های قدرت از سوی سپاه کارکردی برای جبران کسری مشروعیت و حفظ منابع عملیاتی دارند.",
-            "گزارش به اعتراضات یا وضعیت اقتصادی اشاره‌ای ندارد، اما مداومت در لفاظی‌های نظامی می‌تواند ابزاری برای انحراف از ناکارآمدی مدیریتی باشد و در صورت ادامه کاهش سطح معیشت، ریسک بازخورد اجتماعی را افزایش می‌دهد."
-        ],
-        "impact": "این بیانیه احتمال تشدید تنش منطقه‌ای و افزایش مواجهه راهبردی یا فشارهای خارجی بر رژیم را بالا می‌برد.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-in/news/world/well-determine-when-iran-responds-to-trumps-war-could-end-soon-remark/ar-AA1XRK9I",
-        "clean_url": "https://www.msn.com/en-in/news/world/well-determine-when-iran-responds-to-trumps-war-could-end-soon-remark/ar-AA1XRK9I",
-        "image": null,
-        "timestamp": 1773102225.0
-    },
-    {
-        "title_fa": "ترامپ هشدار داد: ایران «شدیداً هدف قرار خواهد گرفت»",
-        "title_en": "Trump warns Iran 'will be hit very hard' as war enters its second week",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، هشدار داده ایران به‌زودی «شدیداً هدف قرار خواهد گرفت» و احتمال گسترش فهرست اهداف به «مناطق و گروه‌های جدید» را مطرح کرده است.",
-            "این تنش‌زایی نشان‌دهنده افزایش فشار خارجی و احتمال تعمیق عملیات نظامی یا ضربات محدود است؛ چنین اخطارهایی ساختار فشار بر رژیم را تقویت و گزینه‌های نظامی را وسعت می‌دهد.",
-            "در داخل ایران، افزایش تهدیدات خارجی می‌تواند به بدتر شدن وضعیت اقتصادی و سیاسی بینجامد و همسراییِ فشار خارجی و سرکوب داخلی را تشدید کند؛ در عین حال ریسک استفاده رژیم از این تهدیدها برای متمرکزسازی قدرت و مهار اعتراضات عمومی وجود دارد."
-        ],
-        "impact": "این تهدید مستقیم آمریکا بار فشار خارجی را بالا می‌برد و همزمان می‌تواند ثبات مالی-سیاسی رژیم را تضعیف کند و به بهانه‌ای برای تشدید سرکوب داخلی تبدیل شود.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
-        "clean_url": "https://www.npr.org/2026/03/07/nx-s1-5739242/iran-war-oil-trump-israel-spain-economy-one-week",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1374x773+76+152/resize/1400/quality/85/format/png/?url=http://npr-brightspot.s3.amazonaws.com/c8/1d/531528cd49f9bc3efa41ecfae335/4apf3-one-week-in-the-effects-of-the-u-s-israel-war-on-iran-in-the-middle-east.png",
-        "timestamp": 1773100920.0
     }
 ]
