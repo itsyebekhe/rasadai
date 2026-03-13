@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "طرفین در حالی حملات و تهدیدها را تبادل می‌کنند که جنگ ایران به آستانه دو هفته می‌رسد",
+        "title_en": "Both sides trade strikes and threats as the Iran war approaches the two-week mark",
+        "summary": [
+            "خبر کوتاه‌رسانی می‌گوید که دو طرف درگیری‌ها به تبادل حملات و تهدیدها ادامه می‌دهند و جنگ نزدیک به دو هفته شده است.",
+            "داوری گزارش نشان می‌دهد که درگیری‌ها سرسختانه ادامه یافته و ریسک تشدید و گسترش عملیات نظامی وجود دارد.",
+            "اطلاعات منتشره جزئیات تلفات یا نقاط مشخص درگیری را ارائه نمی‌دهد، بنابراین تحلیل باید بر روند عمومی تشدید متمرکز باشد."
+        ],
+        "impact": "ادامه درگیری‌ها احتمال افزایش فشار و تحریم‌های خارجی را بالا می‌برد و ثبات ساختاری نظام را بیش از پیش تضعیف می‌کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ29TOHJ2WnZZdnRxTERSTFBOMHl6dXEyMy1GR1pSVlFpZVhlMWdhZXJaVlFnWTAtYUtrYXlKckNlSGFYcUlna19BUW9sVGxfVXRhRHp1d1FoNFFqOVlyQkpqdzVMYnNOd21MRXNGUDljaVJjWlJLdExQLVgybHRDZTVMOGZQaEZ0bWRxV2pMeDdSS2NWaHc0TzlLeHdDNmo0Q0Z4LQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ29TOHJ2WnZZdnRxTERSTFBOMHl6dXEyMy1GR1pSVlFpZVhlMWdhZXJaVlFnWTAtYUtrYXlKckNlSGFYcUlna19BUW9sVGxfVXRhRHp1d1FoNFFqOVlyQkpqdzVMYnNOd21MRXNGUDljaVJjWlJLdExQLVgybHRDZTVMOGZQaEZ0bWRxV2pMeDdSS2NWaHc0TzlLeHdDNmo0Q0Z4LQ",
+        "image": null,
+        "timestamp": 1773362940.0
+    },
+    {
+        "title_fa": "لبنان از متحدان اسرائیل خواست مداخله کنند؛ ادعای صدها کشته",
+        "title_en": "Lebanon appeals to Israel’s allies to intervene and says hundreds are killed",
+        "summary": [
+            "بیانیه لبنان مبنی بر درخواست مداخله از «متحدان اسرائیل» نشان می‌دهد بیروت برای مهار عملیات اسرائیل به فشار دیپلماتیک خارجی متکی شده و این اتکا نشانه ضعف ظرفیت‌های داخلی در کنترل بحران است.",
+            "ادعای «صدها کشته» — اگر تأیید شود — ریسک افزایش خشم عمومی و فروریزی بیشتر ثبات سیاسی داخلی را بالا می‌برد و می‌تواند به موج اعتراض یا تضعیف نهادهای دولتی منجر شود.",
+            "فشار برای دخالت بازیگران خارجی منطقه‌ای یا فرامنطقه‌ای احتمالاً روند تشدید درگیری را تسریع می‌کند؛ هرگونه مداخله طرف‌های ثالث می‌تواند دامنه نبرد را گسترش دهد و منطقه را به سمت تشدید بحران سوق دهد."
+        ],
+        "impact": "اگر ادعاها مورد تأیید قرار گیرد، پیامد فوری افزایش بی‌ثباتی داخلی در لبنان و تشدید درگیری‌های فرامرزی خواهد بود.",
+        "tag": "درگیری",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/lebanon-appeals-to-israel-s-allies-to-intervene-and-says-hundreds-are-killed/ar-AA1YsPam",
+        "clean_url": "https://www.msn.com/en-us/news/world/lebanon-appeals-to-israel-s-allies-to-intervene-and-says-hundreds-are-killed/ar-AA1YsPam",
+        "image": null,
+        "timestamp": 1773360140.0
+    },
+    {
         "title_fa": "چرا زمان به نفع ایران است وقتی ترامپ تحت فشار برای پایان درگیری قرار دارد",
         "title_en": "Why time is on Iran’s side as Trump faces pressure to end conflict",
         "summary": [
@@ -88,6 +124,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDFqODlMb1RKRVBGcC02amxTVHlpQThRd2dsNXRoWWNwSWpqQlhPSnhKOHdPQWhNbUdHMzBkM3d1ZDZmSXVhMlJhN0dzTmtqZmRJcU5CZVRDc09TZGoycDBGQ1lWWjNGdFo2d25PTmd1UUFWbkFvMm5iaWNxejlEREUtNjVzMTF0cjcyX2dwUTNJT0JRRkduckEwdVJjOFNiRFZybHZzUkhsdXVTblg4Y0ZGc0FHZ09yNzQtV2hEUklYQXd1QUM0Yg",
         "image": null,
         "timestamp": 1773345957.0
+    },
+    {
+        "title_fa": "رهبر جدید ایران از بستن هرمز خبر داد؛ نخست‌وزیر اسرائیل با تهدید پاسخ داد",
+        "title_en": "Iran's new supreme leader vows to keep Hormuz shut, Netanyahu issues threat",
+        "summary": [
+            "مجلوبتبا کمانه‌ای (Mojtaba Khamenei) به طور غیرحضوری و با قرائت تلویزیونی اعلام کرده است که تنگه هرمز را به‌عنوان اهرم فشار مقابل آمریکا و اسرائیل بسته نگه خواهد داشت؛ عدم انتشار تصویر و قرائت سخنرانی نشان‌دهنده شفافیت اندک و تمرکز قدرت موازی در رسانه‌های دولتی است.",
+            "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در کنفرانس مطبوعاتی تهدید ضمنی به قتل رهبر جدید کرد و از حملات نظامی دفاع نمود؛ این رویارویی نظامی تاکنون هزاران تلفات، حملات هوایی در تهران و جنوب بیروت و اختلال در بازارهای انرژی و سهام را به‌همراه داشته است.",
+            "تصمیم به بستن هرمز ممکن است در کوتاه‌مدت اهرم فشار بین‌المللی ایجاد کند اما همزمان بازارهای انرژی، درآمدهای نفتی و سازوکارهای اقتصادی کشور را تحت فشار بیشتر قرار داده و احتمال تحریم‌های شدیدتر و افزایش نارضایتی داخلی را بالا می‌برد؛ خرابی زیرساختی و تلفات غیرنظامی بار واضحی بر مشروعیت و کارایی حکمرانی گذاشته است."
+        ],
+        "impact": "ادامه این دوقطبی تهدید-پاسخ، ریسک تشدید حملات خارجی را افزایش می‌دهد و همزمان فشار اقتصادی و سیاسی داخل کشور را به‌سرعت تشدید خواهد کرد.",
+        "tag": "هرمز",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/irans-supreme-leader-first-remarks-135404106.html",
+        "clean_url": "https://www.yahoo.com/news/articles/irans-supreme-leader-first-remarks-135404106.html",
+        "image": "http://www.bing.com/th?id=OVFT.FzhQHMm3D2nTZV1QTR_sOS&pid=News",
+        "timestamp": 1773341400.0
+    },
+    {
+        "title_fa": "رهبر جدید ایران در اولین اظهارنظر عمومی تصمیم به ادامه جنگ گرفت",
+        "title_en": "Iran's supreme leader resolves to keep fighting in his first public remarks",
+        "summary": [
+            "Mojtaba Khamenei، رهبر جدید ایران، در بیانیه‌ای اعلام کرد که به «ادامه جنگ» متعهد است، تهدید به گشودن «جبهه‌های دیگر» کرد و از «پرونده انتقام» سخن گفت که نشان‌دهنده تشدید موضع نظام است.",
+            "حملات هوایی آمریکا و اسرائیل و هدف‌گیری ایستگاه‌های امنیتی داخل ایران (براساس گزارش ACLED) با هدف تضعیف توان حکومت در سرکوب نارضایتی انجام شده‌اند؛ این فشار خارجی توان کنترلی دولت بر فضای داخلی را تضعیف می‌کند و فضای نارضایتی عمومی را تشدید می‌کند.",
+            "صعود نفت تا حدود ۱۰۰ دلار و تصمیم وزارت خزانه‌داری آمریکا برای صدور مجوز محدود به فروش نفت روسیه، به کاهش موقت شوک قیمتی کمک می‌کند؛ وجود عرضه روسیه در بازار می‌تواند به‌طور غیرمستقیم بخشی از فشار اقتصادی ناشی از جنگ را کاهش دهد و بنابراین به بقای عملی رژیم کمک ناخواسته‌ای برساند."
+        ],
+        "impact": "ادامه و تشدید حملات همراه با تهدید به گشودن جبهه‌های جدید، فشار اقتصادی و سیاسی بر نظام را بالا می‌برد و ریسک گسترش درگیری در منطقه و تضعیف بیشتر کنترل داخلی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Newsday",
+        "url": "https://www.newsday.com/news/nation/iran-israel-us-march-12-2026-oil-prices-x98780",
+        "clean_url": "https://www.newsday.com/news/nation/iran-israel-us-march-12-2026-oil-prices-x98780",
+        "image": "http://www.bing.com/th?id=OVFT.tj6OQja89a1rd9jc1xFBOS&pid=News",
+        "timestamp": 1773336360.0
     },
     {
         "title_fa": "کشورها چگونه به جنگ آمریکا و اسرائیل با ایران نگاه می‌کنند؟",
@@ -1042,6 +1114,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/operation-epic-fury-destroys-irans-navy-and-cuts-missile-attacks-by-90-in-ongoing-campaign/ar-AA1XCgVA",
         "image": null,
         "timestamp": 1773286231.0
+    },
+    {
+        "title_fa": "چرا متحدان خلیج‌فارس از فشار برای پیوستن به جنگ با ایران مقاومت می‌کنند",
+        "title_en": "Why Trump’s Gulf allies are resisting pressure to join the Iran war",
+        "summary": [
+            "داده‌های گزارش: بیش از ۲هزار موشک و پهپاد به سمت کشورهای خلیج شلیک شده و سپاه گفت حدود ۴۰٪ قدرت آتش خود را به سوی اسرائیل هدایت کرده اما اکثریت حملات علیه همسایگان عرب بوده؛ تهران می‌گوید هدف ایجاد فاصله میان خلیج و واشنگتن است و مشاور سیاست خارجی رهبر، ادامه حملات را تکرار کرده است.",
+            "فشار خارجی و پاسخ‌ها: آمریکا و اسرائیل از حملات علیه کشورهای خلیج برای مجبور کردن آنها به ورود به جنگ استفاده می‌کنند، اما رهبران عرب عملاً از مشارکت مستقیم امتناع کرده‌اند؛ فشار علنی سناتور لیندسی گراهام و واکنش سرمایه‌داران منطقه‌ای نشان‌دهنده ناتوانی واشنگتن در جلب حمایت کامل اعراب است.",
+            "پیامدهای راهبردی محدود: تکیه تهران بر ضربه به همسایگان خطرناک و دور از عقلانیت راهبردی است — این تاکتیک ممکن است در کوتاه‌مدت فشار بر واشنگتن ایجاد کند اما هم شانس تشکیل ائتلاف علیه ایران را کاهش می‌دهد و هم ریسک منزوی‌تر شدن سیاسی و آسیب اقتصادی برای رژیم را افزایش می‌دهد."
+        ],
+        "impact": "ادامه حملات تهران و فشارهای واشنگتن خلیج را در بن‌بستی راهبردی قرار داده که می‌تواند فشار دیپلماتیک و اقتصادی بر رژیم ایران را تشدید و اعتبار و ثبات سیاسی آن را ضعیف‌تر کند.",
+        "tag": "امتناع",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/03/12/middleeast/trump-gulf-allies-resisting-iran-war-intl",
+        "clean_url": "https://www.cnn.com/2026/03/12/middleeast/trump-gulf-allies-resisting-iran-war-intl",
+        "image": null,
+        "timestamp": 1773284880.0
     },
     {
         "title_fa": "ایران هرگز تسلیم نمی‌شود؛ تحلیلگر هشدار می‌دهد رژیم ممکن است به سمت سلاح هسته‌ای برود",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://finance.yahoo.com/news/oil-expected-surge-past-100-203445836.html",
         "image": "https://s.yimg.com/ny/api/res/1.2/VO4SloK_gFBXf8LMideyYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD03NDk-/https://media.zenfs.com/en/the_telegraph_258/239b1fab77241b4ef8f5fbb7d4f2095b",
         "timestamp": 1773054060.0
-    },
-    {
-        "title_fa": "نحوه پوشش جنگ در ایران و منطقه توسط نیویورک تایمز",
-        "title_en": "How The Times Reports on the War in Iran and Beyond",
-        "summary": [
-            "حملۀ آمریکا و اسرائیل بمبارانی مرگبار را آغاز کرده که بازتاب جهانی دارد؛ فشار خارجی ساختار امنیتی رژیم را تضعیف و منابع را به سمت بسیج نظامی و مدیریت بحران سوق می‌دهد و بار اقتصادی-سیاسی را افزایش می‌دهد.",
-            "نیویورک تایمز پوشش خبری را در سطح بین‌المللی سازماندهی و منابع را جابجا کرده، اما دسترسی میدانی در داخل ایران به‌طور چشمگیر محدود است؛ ویزاها نادر و مشروط‌اند و گزارشگران تحت همراه و مترجم دولتی قرار می‌گیرند.",
-            "محدودیت شدید اطلاع‌رسانی همراه با ذکر اعتراض‌های اخیر، جنگ ۱۲ روزه و انتخابات ریاست‌جمهوری، نشان‌دهندۀ فقدان مشروعیت و ناکارآمدی مدیریتی است که سطح نارضایتی عمومی را تشدید می‌کند. "
-        ],
-        "impact": "کاهش دسترسی مستقل رسانه‌ای در ترکیب با فشار نظامی خارجی توان رژیم را برای کنترل روایت و مهار نارضایتی‌ها تضعیف می‌کند و ریسک افزایش بی‌ثباتی را بالا می‌برد.",
-        "tag": "سانسور",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/09/insider/07iran-israel-united-states-war.html",
-        "clean_url": "https://www.nytimes.com/2026/03/09/insider/07iran-israel-united-states-war.html",
-        "image": "http://www.bing.com/th?id=OVFT.pmaofgdTbsFXKMtto-M6xC&pid=News",
-        "timestamp": 1773053880.0
-    },
-    {
-        "title_fa": "جهش قیمت نفت و سقوط بازارها پس از انتخاب مجتبی خامنه‌ای به عنوان رهبر؛ تهران در موضع تقابل می‌ماند",
-        "title_en": "Oil prices jump and markets slide as Iran names new supreme leader and digs in",
-        "summary": [
-            "مجتبی خامنه‌ای به‌عنوان رهبر جدید معرفی شد؛ انتصاب او و پیوند روشن او با سپاه پاسداران نشان می‌دهد تهران تصمیم به ادامه رویارویی و تشدید عملیات نظامی گرفته است.",
-            "حملات تازه به زیرساخت‌های نفتی و گاز باعث جهش قیمت نفت و ریزش بازارهای سهام شد؛ جنگ عرضه انرژی جهانی را مختل کرده، خارجی‌ها را از مراکز تجاری فراری داده و میلیون‌ها شهروند را به پناه‌گیری و بی‌خانمانی واداشته است.",
-            "فشار خارجی (عملیات آمریکا و اسرائیل) و قطع و اختلال در صادرات انرژی ساختار اقتصادی و توان حکمرانی را تضعیف می‌کند؛ در مقابل، تجمع‌های گسترده حمایت حکومتی نشان می‌دهد نظام فعلاً به بسیج داخلی برای حفظ بقا متوسل شده است."
-        ],
-        "impact": "این تحولات احتمال ادامه درگیری‌ها را افزایش می‌دهد و اختلال طولانی‌مدت در صادرات انرژی ایران را تشدید کرده که به تضعیف بیشتر اقتصاد و فرسایش توان حکمرانی منجر خواهد شد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/03/09/us-iran-war-mojtaba-khamenei/",
-        "clean_url": "https://www.bostonherald.com/2026/03/09/us-iran-war-mojtaba-khamenei",
-        "image": "http://www.bing.com/th?id=OVFT.Ez9yEsvDJC3pF-VWGLiXvS&pid=News",
-        "timestamp": 1773052560.0
-    },
-    {
-        "title_fa": "ترامپ: «فعلاً زود است» درباره تصاحب نفت ایران صحبت کنیم — اما آن را رد نمی‌کند",
-        "title_en": "Trump says it's 'too soon' to talk about seizing Iran's oil — but doesn't rule it out",
-        "summary": [
-            "در تماس تلفنی با NBC، دونالد ترامپ گفت فعلاً «زود است» برای صحبت درباره تصاحب نفت ایران اما این گزینه را کاملاً رد نکرد؛ او همچنین درباره رهبر جدید ایران، رقابت سنای تگزاس و طرح SAVE America اظهارنظر کرد.",
-            "تحلیل ساختاری: حتی تهدید به تملک نفت می‌تواند به‌عنوان ابزاری برای فشار اقتصادی و سیاسی عمل کند — اگر این تهدید عملی شود یا با دور جدیدی از تحریم‌ها همراه گردد، درآمدهای ارزی رژیم کاهش یافته و توان مالی برای حفظ شبکه‌های نفوذ و یارانه‌ها تضعیف خواهد شد.",
-            "پیامدهای داخلی: اظهارات این‌چنینی می‌تواند ریسک بی‌ثباتی سیاسی و تشدید نارضایتی عمومی را افزایش دهد زیرا فشار اقتصادی بالقوه بر طبقات متوسط و پایین بیشتر می‌شود؛ البته تحقق این سناریو وابسته به تصمیمات عملیاتی و واکنش بازیگران بین‌المللی است."
-        ],
-        "impact": "اثر فوری: حتی به‌صورت لفظی، تهدید به تملک نفت فشار بین‌المللی را تشدید می‌کند و شانس افت درآمد ارزی و تضعیف توان حکمرانی رژیم را بالا می‌برد.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.6,
-        "source": "NBC News on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/trump-says-its-too-soon-to-talk-about-seizing-irans-oil-but-doesnt-rule-it-out/ar-AA1XQfmo",
-        "clean_url": "https://www.msn.com/en-us/news/politics/trump-says-its-too-soon-to-talk-about-seizing-irans-oil-but-doesnt-rule-it-out/ar-AA1XQfmo",
-        "image": "http://www.bing.com/th?id=OVFT.jxcZlZCrGXvZtOcTTY3csS&pid=News",
-        "timestamp": 1773051381.0
-    },
-    {
-        "title_fa": "ایران: ۱۲۵۵ کشته در حملات آمریکا و اسرائیل؛ اکثراً غیرنظامیان",
-        "title_en": "Iran says 1,255 people killed in US-Israeli attacks, mostly civilians",
-        "summary": [
-            "معاون وزیر بهداشت علی جفاریان اعلام کرده دست‌کم ۱۲۵۵ نفر کشته شده‌اند، شامل ۲۰۰ کودک و ۱۱ کارکنِ درمانی؛ بیش از ۱۲٬۰۰۰ نفر مجروح عمدتاً از سوختگی و جراحات فشار؛ ۲۹ مرکز درمانی آسیب دیده و ۱۰ مرکز به‌طور موقت تعطیل شده‌اند، و بمباران تأسیسات نفتی دود سمی را بر تهران پراکنده کرده است.",
-            "حملات نظامی آمریکا و اسرائیل که تأسیسات پزشکی و انرژی را هدف قرار داده‌اند، ظرفیت عملیاتی دولت در ارائه خدمات پایه را تضعیف می‌کنند، بار انسانی و هزینه‌های بازسازی را افزایش می‌دهند و به‌عنوان فشار خارجی ساختار ثبات سیاسی و اقتصادی رژیم را فرسایش می‌دهند.",
-            "مقیاس تلفات و تخریب نشان‌دهنده ضعف مدیریت و محافظت از غیرنظامیان و زیرساخت‌هاست؛ از میان رفتن ظرفیت بیمارستانی و آلودگی ناشی از حمله به نفت، فشارهای اقتصادی را تشدید کرده و خشم و نارضایتی عمومی را افزایش می‌دهد، که ریسک تشدید ناآرامی‌های محلی و فشار سیاسی را بالا می‌برد."
-        ],
-        "impact": "تأثیر فوری این حملات تضعیف شدید توان ارائه خدمات بهداشتی و زیرساخت‌های انرژی است که فضای بحران بشردوستانه، اختلال اقتصادی و تشدید نارضایتی عمومی را تشدید می‌کند.",
-        "tag": "حملات",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-says-1-255-people-101248328.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-says-1-255-people-101248328.html",
-        "image": null,
-        "timestamp": 1773051366.0
-    },
-    {
-        "title_fa": "ایران پس از جنگ: ثبات منطقه‌ای، رقابت قدرت‌های بزرگ و آینده غرب آسیا",
-        "title_en": "Iran after the war: Regional stability, great power rivalry and the future of West Asia",
-        "summary": [
-            "شوک رهبری: مرگ علی خامنه‌ای و انتصاب مجتبی خامنه‌ای به عنوان رهبر جدید، شیبِ انحرافی به سمت تداوم خانوادگی در سیستمی که روزی با ضد‌خاندانی تبیین شد، ایجاد کرده و قدرت روزافزون سپاه پاسداران را تقویت می‌کند که می‌تواند نظام را به‌سمت سیاسی‌سازی امنیتی و تمرکز قهری برای بقا هدایت کند.",
-            "تشدید نظامی و بازچیدمان استراتژیک: درگیری فعلی میان ایران، اسرائیل و آمریکا همراه با حملات متقابل و هدف‌گیری پایگاه‌های نظامیِ آمریکا، ساختار امنیتی منطقه را لرزان کرده و راه را برای دخالت و نفوذ رو به رشد چین و روسیه هموار می‌سازد؛ این بازیگران می‌توانند نقش تعیین‌کننده‌ای در استمرار بقای رژیم ایفا کنند.",
-            "فشار خارجی و شکنندگی داخلی: فشارهای اقتصادی-سیاسی و احتمال افزایش تحریم‌ها و ضربات نظامی ساختار درآمدی و مشروعیت حکومتی را تضعیف می‌کند؛ فضای سیاسیِ گرفتارِ اتکا به سازوکارهای امنیتی و کاهش کارآمدی اداره عمومی، ریسک آشوب اجتماعی و سرکوب گسترده را بالا می‌برد."
-        ],
-        "impact": "ترکیب شوک رهبری، فشارهای خارجی و اتکا به سپاه پاسداران احتمالاً رژیم را به مدلِ بقاگرایانه‌تر و سرکوبگرانه‌تری سوق می‌دهد و همزمان عرصه را برای نفوذ راهبردی چین و روسیه در غرب آسیا بازتر می‌کند.",
-        "tag": "بی‌ثباتی",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/defence/news/iran-after-the-war-regional-stability-great-power-rivalry-and-the-future-of-west-asia/articleshow/129323775.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/defence/news/iran-after-the-war-regional-stability-great-power-rivalry-and-the-future-of-west-asia/articleshow/129323775.cms",
-        "image": null,
-        "timestamp": 1773050340.0
     }
 ]
