@@ -90,6 +90,24 @@
         "timestamp": 1773406140.0
     },
     {
+        "title_fa": "درگیری ترامپ و ایران بر سر حضور در جام جهانی فیفا در آمریکا — متن خبر در دسترس نیست",
+        "title_en": "Donald Trump, Iran clash over participation in FIFA World Cup in US",
+        "summary": [
+            "تیتر گزارش از «درگیری» میان دونالد ترامپ و ایران درباره حضور تیم یا نمایندگان ایران در جام جهانی فیفا در آمریکا خبر می‌دهد؛ متن اصلی در دسترس نیست و جزئیات اعلام نشده است.",
+            "خبر هیچ اشاره‌ای به تحریم‌ها، فشار خارجی ساختاری یا نقش روسیه/چین/کره‌شمالی ندارد؛ بنابراین نمی‌توان اثبات کرد که این منازعه مستقیماً ثبات رژیم را تضعیف یا تقویت می‌کند.",
+            "هم‌چنین هیچ مدرکی در متن موجود درباره اعتراضات داخلی، وضعیت اقتصادی یا پیامدهای اجتماعی دیده نمی‌شود؛ ادعاهای مرتبط با تاثیر روی نارضایتی عمومی بدون شواهد غیرقابل قبول است."
+        ],
+        "impact": "با توجه به فقدان متن، تنها نتیجه منطقی این است که موضوع می‌تواند به سیاسی‌سازی ورزش و افزایش تنش دیپلماتیک بینجامد، اما هیچ شاهدی دال بر تأثیر مستقیم بر ثبات داخلی یا تحریم‌ها ارائه نشده است.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The Palm Beach Post",
+        "url": "https://www.palmbeachpost.com/story/sports/2026/03/13/world-cup-2026-donald-trump-iran-fifa/89138742007/",
+        "clean_url": "https://www.palmbeachpost.com/story/sports/2026/03/13/world-cup-2026-donald-trump-iran-fifa/89138742007",
+        "image": null,
+        "timestamp": 1773406020.0
+    },
+    {
         "title_fa": "ترکیه: پدافند ناتو موشک سوم شلیک‌شده از ایران را رهگیری کرد",
         "title_en": "Turkiye says NATO defences intercepted third missile from Iran",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-s-war-with-iran-explained/ar-AA1XzrGt",
         "image": null,
         "timestamp": 1773104927.0
-    },
-    {
-        "title_fa": "ترامپ: «پیشرفت‌های چشمگیر» علیه ایران؛ بدون تعیین مقصد نهایی",
-        "title_en": "Trump says U.S. is 'achieving major strides' in Iran but doesn't cite endpoint",
-        "summary": [
-            "ترامپ ادعا کرده است که ایالات متحده در برابر ایران «پیشرفت‌های چشمگیری» داشته اما صراحتا نقطه پایان یا معیار موفقیت را مشخص نکرده است.",
-            "ابهام در اهداف حکایت از آن دارد که این اظهارات بیش از اعلام یک استراتژی شفاف، برای شکل‌دهی به روایت عمومی و توجیه ادامه فشارها به‌کار می‌رود.",
-            "ادعای پیشرفت بدون تعیین نقطه پایان می‌تواند به تضعیف ساختاری رژیم منجر شود؛ ادامه فشار خارجی احتمال افزایش مشکلات اقتصادی، تشدید نارضایتی اجتماعی و بزرگ‌تر شدن شکنندگی سیاسی را بالا می‌برد."
-        ],
-        "impact": "اظهارات ترامپ می‌تواند زمینه را برای تشدید فشارها و تحریم‌ها فراهم کند و به بازتشدید آسیب‌پذیری اقتصادی و سیاسی ایران بینجامد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "NPR",
-        "url": "https://www.boisestatepublicradio.org/2026-03-09/trump-says-u-s-is-achieving-major-strides-in-iran-but-doesnt-cite-endpoint",
-        "clean_url": "https://www.boisestatepublicradio.org/2026-03-09/trump-says-u-s-is-achieving-major-strides-in-iran-but-doesnt-cite-endpoint",
-        "image": null,
-        "timestamp": 1773104460.0
     }
 ]
