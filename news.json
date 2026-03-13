@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چه از برنامه هسته‌ای ایران باقی مانده؟ — نیاز به متن کامل برای تحلیل",
+        "title_en": "What remains of Iran's nuclear program?",
+        "summary": [
+            "متن کامل گزارش DW در اختیار نیست؛ بدون متن منبع نمی‌توان ادعاها یا جزئیات فنی را به طور قابل‌راستی‌آزمایی بازتولید کرد.",
+            "برای تحلیل دقیق از شما می‌خواهم متن مقاله یا لینک مستقیم را ارسال کنید؛ پس از دریافت متن، تحلیل من بر محور تحریم‌ها، دستاوردهای فنی (غنی‌سازی، سانتریفیوژها، تسریع زمان گریز)، وضعیت تاسیسات و دسترسی‌های آژانس خواهد بود.",
+            "در صورتی که مقاله به نقش روسیه/چین/کره‌شمالی اشاره کند، آنها به عنوان تکیه‌گاه‌های استراتژیک بقاِ رژیم شناسایی و تحلیل خواهند شد؛ در غیر این‌صورت از وارد کردن این بازیگران خودداری خواهم کرد."
+        ],
+        "impact": "بدون متن معتبر منبع، هر قضاوت فنی یا سیاسی درباره بقای برنامه هسته‌ای و پیامدهای تحریمی غیرقابل اتکا خواهد بود.",
+        "tag": "نیاز",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "DW.com",
+        "url": "https://time.com/7294133/iran-israel-nuclear-program-attack/",
+        "clean_url": "https://time.com/7294133/iran-israel-nuclear-program-attack",
+        "image": null,
+        "timestamp": 1773438799.0
+    },
+    {
         "title_fa": "اسرائیل به هدف‌گیری فوق‌محلی در ایران روی آورد هم‌زمان با تضعیف توان نظامی رژیم",
         "title_en": "Israel shifts to hyperlocal targeting in Iran as regime military power degrades (March 11-13 updates)",
         "summary": [
@@ -664,6 +682,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0NINjRqcUlQVTNMZTlRX2I5Q21kSDFZandvSnBIc0ZBV3M0RE5vVkY2dnV4WW13RUF2N0tac0lTSFpNSTZRTXo4eHNNMENBS2UyTEZMa3VlZHlXeDBxbF9zeTdwUzRoeVEzRGNuMU41M1pIOHpaaDZJbzJ3dkwzcWJIYUVrRXVJS3l0U2gwNnk1YmVpT0xJUlhsUEZNeWVWTUhxZ2RhX1FBY1VUUU5vRGRYSk1IcldMMDhWVFhPUUYtLTRnSVdkTFoyUWZTSnBQLUppSk1kellaVzB6Vko0",
         "image": null,
         "timestamp": 1773385882.0
+    },
+    {
+        "title_fa": "رهبران ایران با سخنان جنگ‌طلبانه و رژه‌های عمومی به ترامپ بی‌اعتنایی کردند",
+        "title_en": "Iran’s leaders defy Trump with bellicose talk and public parades",
+        "summary": [
+            "رهبران ایران سخنان جنگ‌طلبانه مطرح و رژه‌های عمومی برگزار کردند که عملاً مخالفت علنی با سیاست‌های ترامپ را نشان می‌دهد.",
+            "رهبر جدید اعلام کرد یکی از مهم‌ترین گلوگاه‌های انرژی جهان را بسته نگه خواهد داشت؛ اظهارنظری که تهدید بالقوه به امنیت خطوط تامین انرژی جهانی را مطرح می‌کند.",
+            "رئیس شورای امنیت ملی نیز اظهاراتی تهاجمی مطرح کرد که همراه نمایش خیابانی، پیام مقاومت و آمادگی برای رویارویی را به داخل و خارج می‌فرستد."
+        ],
+        "impact": "این نمایش تهدیدآمیز در برابر آمریکا با تشدید فشارهای اقتصادی و تحریمی، فضای مانور دیپلماتیک رژیم را محدود کرده، خطر محاسبات غلط و برخورد نظامی را افزایش می‌دهد و در داخل نیز تلاشی برای پوشاندن ناکارآمدی‌های مدیریتی به شمار می‌آید.",
+        "tag": "تهدید",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-leaders-defy-trump-with-bellicose-talk-and-public-parades/ar-AA1Yzmox",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-leaders-defy-trump-with-bellicose-talk-and-public-parades/ar-AA1Yzmox",
+        "image": null,
+        "timestamp": 1773384958.0
     },
     {
         "title_fa": "به‌روزرسانی زنده: سقوط هواپیما، مرگ ۴ نظامی آمریکایی؛ تلفات آمریکا به ۱۱ نفر رسید — جنگ با ایران نزدیک به دو هفته و بدون پایان مشخص",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-live-updates-3-injured-101000955.html",
         "image": "http://www.bing.com/th?id=OVFT.yeVNi4lX98JldjENOYea5y&pid=News",
         "timestamp": 1773122100.0
-    },
-    {
-        "title_fa": "هگستث ایران را به «شدیدترین روز حملات» تهدید کرد",
-        "title_en": "Hegseth threatens Iran with the ‘most intense day of strikes’",
-        "summary": [
-            "هگستث تهدید کرده که علیه ایران «شدیدترین روز حملات» را اجرا خواهد کرد؛ بیانیه‌ای صریح درباره احتمال تشدید عمل‌گرایی نظامی خارجی.",
-            "تهدیدهای این‌چنینی فشار خارجی بر رژیم را تشدید می‌کند و می‌تواند ساختارهای اقتصادی-سیاسی را با نیاز به هزینه‌های امنیتی و نظامی بیشتر ضعیف کند.",
-            "در داخل، احتمال دارد که این فشار خارجی به افزایش سرکوب و هم‌زمان تشدید نارضایتی عمومی و شکنندگی سیاسی منجر شود — پیامدی که مدیریت ناکارآمد نظام را آشکارتر می‌کند."
-        ],
-        "impact": "این تهدید به‌صورت فوری تنش نظامی را بالا می‌برد و می‌تواند فشارهای اقتصادی و سیاسی را بر رژیم تشدید کند.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/world-nation/story/2026-03-10/iran-war-intense-day-of-strikes",
-        "clean_url": "https://www.latimes.com/world-nation/story/2026-03-10/iran-war-intense-day-of-strikes",
-        "image": "http://www.bing.com/th?id=OVFT.dpIAO-UDHvR-lwl-jEkx4y&pid=News",
-        "timestamp": 1773122040.0
-    },
-    {
-        "title_fa": "چرا حتی علی خامنه‌ای خواستار جانشینی پسرش مجتبی نشد؛ انتصاب تحت فشار سپاه",
-        "title_en": "Why even Ayatollah Khamenei opposed his impotent nepobaby son Mojtaba becoming Iran’s next supreme leader",
-        "summary": [
-            "گزارش نیویورک پست می‌گوید علی خامنه‌ای در وصیت‌نامه‌اش صریحاً خواسته بود مجتبی خامنه‌ای به‌عنوان جانشین انتخاب نشود و رسانه‌ها مدعی‌اند خامنه‌ای پیش‌تر هدف حملات قرار گرفته است.",
-            "سپاه پاسداران مطابق گزارش، بر مجمع خبرگان فشار آورد تا با رأی‌گیری تحمیلی مجتبی را منصوب کند؛ توضیحات منابع مخالف حاکی از رأی نیاوردن او و تحریم جلسه از سوی چند روحانی است که نشان‌دهنده شکاف داخلی نخبگان است.",
-            "حضور مجتبی که سابقه تصدی پست دولتی ندارد و مخالفت آشکار دونالد ترامپ با انتخاب او، می‌تواند مشروعیت بین‌المللی و داخلی نظام را کاهش دهد و زمینه افزایش فشار سیاسی و تحریمی و تشدید نارضایتی‌های اجتماعی را فراهم کند."
-        ],
-        "impact": "انتخاب مجتبی تحت فشار سپاه مشروعیت رهبری را از درون و بیرون تضعیف کرده و خطر افزایش ناآرامی و فشارهای خارجی را واقعی‌تر می‌سازد.",
-        "tag": "تغییررهبری",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/03/10/world-news/ayatollah-khamenei-opposed-son-mojtaba-from-becoming-irans-next-supreme-leader/",
-        "clean_url": "https://nypost.com/2026/03/10/world-news/ayatollah-khamenei-opposed-son-mojtaba-from-becoming-irans-next-supreme-leader",
-        "image": null,
-        "timestamp": 1773121080.0
     }
 ]
