@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تهدید ترامپ علیه ایران پس از موج تازه حملات به کشورهای خلیج و اسرائیل",
+        "title_en": "Trump threatens Iran following new wave of attacks on Gulf states and Israel",
+        "summary": [
+            "دونالد ترامپ پس از موج تازه حملات علیه کشورهای خلیج و اسرائیل، ایران را علناً تهدید کرد.",
+            "این تهدید می‌تواند بهانه‌ای برای تشدید فشارهای تحریمی یا حتی اقدام نظامی از سوی آمریکا و متحدانش باشد و ریسک بالا رفتن تنش‌های منطقه‌ای را افزایش می‌دهد.",
+            "افزایش فشار خارجی در صورت تحقق، می‌تواند ساختار اقتصادی و سیاسی حکومت تهران را بیشتر تضعیف کرده و احتمال تشدید نارضایتی‌های داخلی و اختلال اقتصادی را بالا ببرد."
+        ],
+        "impact": "تهدید ترامپ احتمال تشدید فشارهای تحریمی و نظامی علیه حکومت تهران را افزایش می‌دهد و ثبات داخلی را در معرض خطر قرار می‌دهد.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://www.msn.com/en-us/news/world/trump-threatens-iran-following-new-wave-of-attacks-on-gulf-states-and-israel/ar-AA1YwAlZ",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-threatens-iran-following-new-wave-of-attacks-on-gulf-states-and-israel/ar-AA1YwAlZ",
+        "image": null,
+        "timestamp": 1773391440.0
+    },
+    {
         "title_fa": "ایران حملات به زیرساخت‌ها و شبکه‌های حمل‌ونقل در سراسر خلیج را تشدید کرد",
         "title_en": "Iran escalates attacks on infrastructure and transport networks across the Gulf | First Thing",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWDljM1ZWamZsRUdnOVRHSzAzaUtCX2g2SXRUOTVBQVByRmtLOFdsNkJBVTV6b01HOUdWSjJvR0hqc29QSXBfak1kWDF4YTBnRzVkWHBUSXNhaFAtT3N5ZGJCNHRPZEozQUREQS0tbnh5VndNdTJPNVdxbC1lT0l1R2ctSXpRbjhhSWEwVkNSMHNtYUtVRzBVQmxYUVFNblJ4aG1xak9OTzhuUTQ",
         "image": null,
         "timestamp": 1773390996.0
+    },
+    {
+        "title_fa": "سناریوهای جنگ ایران: قیمت نفتی که بخش‌هایی از اقتصاد را می‌شکند",
+        "title_en": "Iran war scenarios: The oil price that breaks parts of the economy",
+        "summary": [
+            "فهرست‌وار: گزارش Oxford Economics سناریوهای جنگ در خاورمیانه را بررسی می‌کند و هشدار می‌دهد که جهش‌های قیمتی نفت می‌تواند در برخی سناریوها آستانه‌های تحمل اقتصادی ایران را پشت سر بگذارد؛ این مدل‌ها بر پیامدهای شوک درآمدی و اختلال در صادرات تمرکز دارند.",
+            "تحلیل تحریم‌ها/فشار خارجی: در شرایط تشدید بحران و اختلال صادرات، درآمد نفتی کاهش یا ناپایدار می‌شود و این فشار ساختاری منابع رژیم را تضعیف می‌کند؛ کسری درآمد آثار مستقیم بر بودجه‎‌بندی، واردات کالاهای اساسی و توان سرکوب را تقویت می‌کند.",
+            "اقتصاد داخلی و نارضایتی: حتی جهش مثبت قیمت نفت برای رژیم تضمین‌کننده نسخه نجات نیست؛ ناکارآمدی مدیریتی، توزیع نامتعادل درآمد و محدودیت‌های عملیاتی ناشی از تحریم‌ها می‌تواند موجب تورم، کمبود کالا و تشدید نارضایتی‌های اجتماعی گردد و ظرفیت مدیریتی را فرسوده‌تر کند."
+        ],
+        "impact": "اگر سناریوهای جنگ باعث نوسان شدید قیمت نفت و اختلال صادرات شوند، فشار روی خزانه و بازارهای داخلی می‌تواند ثبات سیاسی-اقتصادی رژیم را به‌طور ملموسی کاهش دهد.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Oxford Economics",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnFtU3VNMEZuOTk4QkVqYk1kMEoxWjhia3lpWm5raWJyZFFCLTU0akh4MmdQel9ydUpPb0RsbTluZWZQSGkzblZfUUd3MjE2S19OUVdVS2NLdWhFV2g4TnFUd19KU2dZZ0pLb0RteXMwU0lCQWp3eVY0bm9HNTlOdW9iTExxMzJLZVBhVnV3OC1CTnpOTGdqT0hOVjYtaEVTU2praWp4N0gxLVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnFtU3VNMEZuOTk4QkVqYk1kMEoxWjhia3lpWm5raWJyZFFCLTU0akh4MmdQel9ydUpPb0RsbTluZWZQSGkzblZfUUd3MjE2S19OUVdVS2NLdWhFV2g4TnFUd19KU2dZZ0pLb0RteXMwU0lCQWp3eVY0bm9HNTlOdW9iTExxMzJLZVBhVnV3OC1CTnpOTGdqT0hOVjYtaEVTU2praWp4N0gxLVU",
+        "image": null,
+        "timestamp": 1773387145.0
     },
     {
         "title_fa": "جنگ ایران با اسرائیل و ایالات متحده | ردیاب جهانی درگیری‌ها",
@@ -142,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV2pXVG9RaFBvVnFXdjR0ZnczWVhqY2xfQzZDd19YeHQ2dDR0T014TkVlZW9hSmkxRjJLNF82ZXRZSHdqa1JPejk0NlNEd2VNNER5bENZdTRydE5aV0RFZkFqT3lpT3kzUTJ1UmpIc0NQb09Od1hXVzlsY25QZXFycmE1dFZxLVBUdFBZMG01aFVJVVByNFFZWEZlSlNNbzdBU0FISE44Wi01S3Y3cUN6NU9yVHBzazQxQ1Fralg0Zw",
         "image": null,
         "timestamp": 1773373088.0
+    },
+    {
+        "title_fa": "درون «دفاع موزاییکی» ایران: اگر مجتبی خامنه‌ای زخمی شود، چه کسی واقعاً جنگ تهران را رهبری می‌کند؟",
+        "title_en": "Inside Iran’s 'Mosaic Defence': If Mojtaba Khamenei is injured, who is actually running Tehran's war?",
+        "summary": [
+            "رسانه گزارش می‌دهد که ساختار «دفاع موزاییکی» ایران و رهبری لایه‌ای باعث شده عملیات نظامی حتی پس از ضربات سنگین و تلفات میان فرماندهان سپاه ادامه یابد؛ فرماندهان تأکید کرده‌اند جدول زمان‌بندی جنگ از تهران تعیین می‌شود، نه واشنگتن.",
+            "مقاله می‌گوید علی خامنه‌ای، رهبر وقت، در حملاتی کشته شده و مجتبی خامنه‌ای به‌عنوان رهبر جدید معرفی شد؛ سپس ادعاهای تأییدنشده‌ای درباره زخمی یا کما شدن مجتبی مطرح شده که با وجود ابهام در رهبری، عملیات نظامی متوقف نشده است.",
+            "متن به‌طور مستقیم به تحریم‌ها یا اعتراضات مردمی اشاره نمی‌کند؛ اما استمرار فعالیت نظامی در برابر ضربات هوایی نشان‌دهنده انتقال فرماندهی به ساختارهای پراکنده و نظامی‌محور است که می‌تواند ثبات کوتاه‌مدت را حفظ کند اما ریسک تضعیف ساختاری اقتصادی و سیاسی را تشدید می‌کند."
+        ],
+        "impact": "تداوم توان عملیاتی نظامی علی‌رغم ضربات به رأس نشان می‌دهد قدرت عملی به یک شبکه موزاییکی و نظامی منتقل شده که امکان بقای کوتاه‌مدت رژیم را فراهم می‌کند اما آسیب‌پذیری اقتصادی و بحران مشروعیت سیاسی را در بلندمدت افزایش می‌دهد.",
+        "tag": "رهبری",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/inside-iran-s-mosaic-defence-if-mojtaba-khamenei-is-injured-who-is-actually-running-tehran-s-war-article-13859429.html",
+        "clean_url": "https://www.moneycontrol.com/world/inside-iran-s-mosaic-defence-if-mojtaba-khamenei-is-injured-who-is-actually-running-tehran-s-war-article-13859429.html",
+        "image": null,
+        "timestamp": 1773370980.0
     },
     {
         "title_fa": "حملات اسرائیل به اهداف داخل ایران؛ اخطار تخلیه تهران و تجمع‌های هواداران رژیم",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/how-the-iran-conflict-is-widening-in-maps/ar-AA1XA0Jg",
         "image": null,
         "timestamp": 1773067622.0
-    },
-    {
-        "title_fa": "گراهام از اسرائیل خواست حملات به زیرساخت‌های سوختی ایران را مهار کند",
-        "title_en": "Graham urges Israel to rein in attacks on Iran fuel infrastructure",
-        "summary": [
-            "گراهام صراحتاً از اسرائیل خواسته حملات علیه زیرساخت‌های سوختی ایران را محدود کند؛ نشانه‌ای از نگرانی واشنگتن نسبت به تشدید نظامی و پیامدهای منطقه‌ای.",
-            "مهار این حملات می‌تواند از وارد آمدن شوک‌های فوری به بازار انرژی و تشدید کمبودها جلوگیری کند و به‌طور موقت فشار اقتصادی و نارضایتی داخلی مرتبط با اختلال در سوخت را کاهش دهد.",
-            "این مداخله سیاسی آمریکا-اسرائیل عملاً از تبدیل فشار نظامی به ابزاری برای تضعیف ساختارهای اقتصادی رژیم جلوگیری می‌کند، در حالی که علت‌های اصلی نارضایتی عمومی—سوءمدیریت اقتصادی و فساد—همچنان پابرجا هستند."
-        ],
-        "impact": "فشار علنی یک قانون‌گذار آمریکایی برای مهار حملات نشان می‌دهد واشنگتن می‌کوشد از تشدید تنش و پیامدهای اقتصادی گسترده جلوگیری کند که به‌طور موقت اثربخشی اهرم‌های فشار خارجی بر نارضایتی داخلی را کاهش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Hill",
-        "url": "https://www.msn.com/en-us/news/politics/graham-urges-israel-to-rein-in-attacks-on-iran-fuel-infrastructure/ar-AA1XPWkj",
-        "clean_url": "https://www.msn.com/en-us/news/politics/graham-urges-israel-to-rein-in-attacks-on-iran-fuel-infrastructure/ar-AA1XPWkj",
-        "image": null,
-        "timestamp": 1773067600.0
-    },
-    {
-        "title_fa": "جهش قیمت نفت بازارها را لرزاند؛ ایرانیان در انتخاب رهبر دچار تضاد نظر",
-        "title_en": "Live Updates: Oil Price Surge Rattles Markets; Iranians Appear Conflicted on Choice of Leader",
-        "summary": [
-            "جهش قیمت نفت و افت بورس‌ها نشان می‌دهد جنگ منطقه‌ای و اختلال در تأمین انرژی بار فشار خارجی و شوک اقتصادی را بر ایران و بازارهای جهانی افزایش داده که به تضعیف ساختار تصمیم‌گیری اقتصادی حکومت منجر می‌شود.",
-            "گزارش درباره تضاد نظر ایرانیان در انتخاب رهبر نشانه‌ای از تردید و نارضایتی عمومی و درون‌نخبگانی است که ممکن است ظرفیت حکمرانی را برای پاسخگویی به بحران‌های اقتصادی و امنیتی کاهش دهد.",
-            "افزایش تلفات و بیش از ۶۰۰ هزار آواره در لبنان نتیجه تشدید درگیری‌هاست؛ پیامدهای انسانی و بی‌ثباتی منطقه‌ای این جنگ به نوسان بیشتر قیمت انرژی و انتقال ریسک سیاسی به همسایگان منجر می‌شود."
-        ],
-        "impact": "ترکیب جنگ منطقه‌ای و شوک قیمتی نفت توان مدیریت اقتصادی حکومت را تضعیف می‌کند و شانس بروز فشار داخلی و بین‌المللی شدیدتر را بالا می‌برد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil",
-        "clean_url": "https://www.nytimes.com/live/2026/03/09/world/iran-war-israel-trump-oil",
-        "image": "https://static01.nyt.com/images/2026/03/28/multimedia/09iran-promo11am/28iran-photos-01-vmfq-facebookJumbo.jpg",
-        "timestamp": 1773066240.0
-    },
-    {
-        "title_fa": "آخرین خبر: تماس تلفنی ترامپ و پوتین درباره جنگ در ایران، کرملین اعلام کرد",
-        "title_en": "The Latest: Trump and Putin discuss Iran war during a phone call, Kremlin says",
-        "summary": [
-            "تماس تلفنی دونالد ترامپ، رئیس‌جمهور آمریکا، و ولادیمیر پوتین، رئیس‌جمهور روسیه، نشان‌دهنده تمرکز دو بازیگر بزرگ بر پرونده ایران و احتمال هماهنگی یا تقسیم نقش‌ها در مدیریت بحران است.",
-            "از منظر فشار خارجی و تحریم‌ها، این گفتگو می‌تواند مسیر تصمیم‌گیری درباره تشدید یا تعدیل تحریم‌ها را متاثر کند؛ به‌ویژه که نقش راهبردی روسیه می‌تواند به کاهش اثربخشی فشارهای بین‌المللی برای تهران کمک کند.",
-            "گزارش اشاره مستقیمی به اعتراضات داخلی یا وضعیت اقتصادی نکرده؛ با این حال هر تحرک دیپلماتیک بزرگ به سرعت در اقتصاد ایران و سطح نارضایتی عمومی بازتاب می‌یابد و باید از داده‌های مستند برای ارزیابی اثرات داخلی استفاده شود."
-        ],
-        "impact": "تماس، معادلات منطقه‌ای را پیچیده‌تر می‌کند و می‌تواند هم گزینه‌های تحریمی را تحت‌تأثیر قرار دهد و هم به مسکو فرصت‌های راهبردی برای حمایت دیپلماتیک از تهران بدهد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national/2026/03/09/iran-israel-us-latest-march-09-2026/22d0d2c6-1b79-11f1-a29c-fd43da9a479a_story.html",
-        "clean_url": "https://www.washingtonpost.com/national/2026/03/09/iran-israel-us-latest-march-09-2026/22d0d2c6-1b79-11f1-a29c-fd43da9a479a_story.html",
-        "image": "http://www.bing.com/th?id=OVFT.RElDGzDzQ1DLroM-JU_SxC&pid=News",
-        "timestamp": 1773066060.0
     }
 ]
