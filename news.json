@@ -522,6 +522,24 @@
         "timestamp": 1773476166.0
     },
     {
+        "title_fa": "ترامپ می‌گوید انتخاب کرده زیرساخت‌های نفتی ایران را نابود نکند؛ جنگ وارد هفته سوم شد",
+        "title_en": "Trump says he chose not to ‘wipe out’ ‘obliterated’ Iran’s oil infrastructure as war enters third week",
+        "summary": [
+            "دونالد ترامپ گفت او انتخاب کرده از بین بردن کامل زیرساخت‌های نفتی ایران را انجام ندهد؛ این اظهارنظر هم‌زمان با ورود درگیری‌ها به هفته سوم مطرح شد.",
+            "به گزارش AP، بقایای یک پهپاد ایرانی که منهدم شده بود به یک تأسیسات نفتی در فجیره، امارات متحده عربی برخورد کرد و دود و آتش به همراه داشت — نشانه افزایش خطر برای زیرساخت‌های انرژی منطقه.",
+            "تحلیل ساختاری: تهدید یا هدف‌گیری بخش نفتی ایران می‌تواند درآمدهای ارزی رژیم را کاهش دهد، اهرم فشار خارجی و احتمال تحریم‌ها را تقویت کند و در کوتاه‌مدت فشار اقتصادی و نارضایتی داخلی را تشدید کند؛ این ضعف‌ها ریشه در مدیریت ناکارآمد و آسیب‌پذیری ساختاری نظام دارند."
+        ],
+        "impact": "اظهارات ترامپ و برخورد بقایای پهپاد به تأسیسات انرژی، توان تضعیف اقتصادی و سیاسی رژیم را رشد داده و خطر گسترش درگیری و اختلال در بازارهای انرژی منطقه را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "al.com",
+        "url": "https://www.al.com/news/2026/03/trump-says-he-chose-not-to-wipe-out-obliterated-irans-oil-infrastructure-as-war-enters-third-week.html",
+        "clean_url": "https://www.al.com/news/2026/03/trump-says-he-chose-not-to-wipe-out-obliterated-irans-oil-infrastructure-as-war-enters-third-week.html",
+        "image": null,
+        "timestamp": 1773473880.0
+    },
+    {
         "title_fa": "جنگ با ایران وارد هفته سوم شد؛ ۲۵۰۰ تفنگدار نیروی دریایی آمریکا به منطقه اعزام می‌شوند",
         "title_en": "Iran war enters its third week as 2,500 more US Marines are being sent to the region",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLVJaNldEWGxBdXJFd0U4X3NXRW5iZmhhVWExOU9vLXB4VmlNV1BYS1ptNDB3RDNxS1Z0eVJQaDE5bmotTjMydF9qcTNTQ2dqSzJhUlJJMkY2SDRpRlVMZnRpS2dPck8yZHh3V1BrcWJPWHd5aEM5QS01RHhwWjBwRGpxRFE2dDlVNFhNbjhZSU9vc29KMHRxckx5Q0hXeUhYNmxJWU1rV0d0VnVVSmIxXzA3dWYxd0VJeWtpSnpQUnhyMFpxZHVDcG9ka2xWcHphajBOT1hZVjdmRk9BbkQzZWtn",
         "image": null,
         "timestamp": 1773181635.0
-    },
-    {
-        "title_fa": "آمریکا وعده «شدیدترین روز حملات» داخل ایران را داد",
-        "title_en": "The U.S. vowed its 'most intense day of strikes inside Iran'",
-        "summary": [
-            "وزیر دفاع ایالات متحده، پیت هیگستث، اعلام کرد پنتاگون به رئیس‌جمهور «بیشترین گزینه‌ها» را ارائه می‌دهد و جنگ «نامحدود» نخواهد بود؛ این اظهارنظر پس از سیگنال‌های متناقض رئیس‌جمهور درباره پیشرفت صورت گرفت.",
-            "سر دادن وعده به «شدیدترین روز حملات داخل ایران» نشان‌دهنده تشدید مستقیم تهدید نظامی از سوی آمریکا و احتمال رویارویی فراتر از عملیات مرزی است.",
-            "این تهدیدات بیرونی فشارهای استراتژیک بر رژیم را افزایش می‌دهد و ریسک تشدید بی‌ثباتی سیاسی داخلی و واکنش‌های تلافی‌جویانه را بالا می‌برد."
-        ],
-        "impact": "تهدید به حملات شدید داخل خاک ایران ساختار سیاسی و نظامی رژیم را هدف گرفته و می‌تواند باعث تسریع فرسایش مشروعیت و تشدید شکاف‌های داخلی شود.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": 0.2,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/03/10/nx-s1-5742828/iran-war-us-trump",
-        "clean_url": "https://www.npr.org/2026/03/10/nx-s1-5742828/iran-war-us-trump",
-        "image": "http://www.bing.com/th?id=OVFT.fuBt4VXgs8blYl3AgVxXBi&pid=News",
-        "timestamp": 1773180240.0
     }
 ]
