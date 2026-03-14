@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ به قیام فراخواند، اما با بارش بمب‌ها ایرانی‌ها «بیش از حد وحشت‌زده‌اند که حرکت کنند»",
+        "title_en": "Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’",
+        "summary": [
+            "فراخوان ترامپ به قیام در برابر پس‌زمینه سقوط بمب‌ها قرار گرفته؛ فشار خارجی تلاش برای تحریک شورش مردمی را دنبال می‌کند اما واقعیت میدانی متفاوت است.",
+            "گزارش‌ها از هراس گسترده در میان شهروندان—«بیش از حد وحشت‌زده‌اند که حرکت کنند»—نشان می‌دهد سرکوب و تهدید نظامی مانع تجمعات و حرکت خیابانی شده است.",
+            "ترکیب فشار بین‌المللی و عملیات نظامی ساختار اقتصادی و سیاسی را تضعیف می‌کند اما به‌جای فروپاشی سریع، فضا را به سمت سرکوب سازمان‌یافته، مدیریت بحران و ثبات شکننده سوق می‌دهد؛ تحریم‌ها فشارهای اقتصادی را عمیق‌تر کرده و نارضایتی را تغذیه می‌کنند اما مانع فوری از اقدام عمومی شده‌اند."
+        ],
+        "impact": "این ترکیب فشار خارجی و عملیات نظامی احتمال قیام گسترده را کاهش داده و رژیم را در وضعیتی از سرکوب مؤثر و ثبات شکننده نگه می‌دارد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/trump-urged-uprising-but-as-bombs-fall-iranians-are-too-scared-to-move/ar-AA1YBJzI",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-urged-uprising-but-as-bombs-fall-iranians-are-too-scared-to-move/ar-AA1YBJzI",
+        "image": null,
+        "timestamp": 1773498029.0
+    },
+    {
         "title_fa": "این سربازان آمریکایی در درگیری با ایران جان باختند",
         "title_en": "These American Service Members Died in the Iran Conflict",
         "summary": [
@@ -178,6 +196,42 @@
         "clean_url": "https://seekingalpha.com/article/4882447-weekly-commentary-at-the-brink",
         "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1477138356/image_1477138356.jpg?io=getty-c-w1536",
         "timestamp": 1773476700.0
+    },
+    {
+        "title_fa": "جنگ با ایران وارد هفته سوم شد؛ ۲۵۰۰ تفنگدار نیروی دریایی آمریکا به منطقه اعزام می‌شوند",
+        "title_en": "Iran war enters its third week as 2,500 more US Marines are being sent to the region",
+        "summary": [
+            "در هفته سوم تقابل نظامی آمریکا–اسرائیل با ایران، یک موشک به هلی‌پد داخل محوطه سفارت آمریکا در بغداد اصابت کرد و بقایای یک پهپاد ایرانی که رهگیری شده بود، به یک تأسیسات نفتی در فجیره امارات برخورد کرد؛ تصاویر خبری دود بر فراز سفارت و آتش‌سوزی در بندر فجیره را نشان می‌دهد.",
+            "فرماندهی مشترک نظامی ایران برای اولین بار از آغاز جنگ صراحتاً تهدید کرد شهرها و بنادر تجاری امارات را هدف قرار خواهد داد و بنادر جبیل علی، خلیفه و فجیره را مستقیماً نام برد و خواستار تخلیه مناطق اطراف قرارگاه‌های ادعایی آمریکایی شد — اقدامی که دامنه بحران را به خاک کشورهای همسایه کشانده است.",
+            "آمریکا ۲۵۰۰ تفنگدار نیروی دریایی دیگر به منطقه می‌فرستد که افزایش ملموس حضور نظامی آمریکاست؛ حمله به زیرساخت‌های نفتی منطقه نگرانی جهانی درباره عرضه نفت و تشدید فشار بر اقتصاد ایران را بیشتر کرده است."
+        ],
+        "impact": "تشدید عملیات نظامی و تهدید علیه زیرساخت‌های تجاری منطقه، رژیم را از منظر سیاسی و اقتصادی تضعیف می‌کند، احتمال انزوای بین‌المللی و فشار بر منابع ارزی و معیشتی داخل را افزایش داده و نشان‌دهنده مدیریت استراتژیک ناکارآمدی است که توان دفاع از منافع ملی و ثبات اقتصادی را کاهش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/03/14/iran-war-enters-third-week/",
+        "clean_url": "https://www.chicagotribune.com/2026/03/14/iran-war-enters-third-week",
+        "image": null,
+        "timestamp": 1773473520.0
+    },
+    {
+        "title_fa": "ترامپ به ایران اولتیماتوم درباره تنگه هرمز داد",
+        "title_en": "Trump gives Iran ultimatum over Strait of Hormuz. See latest updates",
+        "summary": [
+            "سرخط USA TODAY حاکی است که ترامپ به ایران اولتیماتومی در خصوص تنگه هرمز اعلام کرده است؛ متن کامل گزارش در دسترس نیست و جزئیات تاییدنشده‌اند.",
+            "افزایش فشار خارجی: چنین اولتیماتومی‌هایی به‌طور مستقیم فشار دیپلماتیک و احتمالاً تهدید به اقدامات اقتصادی یا نظامی را بیشتر می‌کند و می‌تواند ساختار آسیب‌پذیری رژیم را تقویت کند؛ این اثرات بالقوه باید به‌عنوان عاملی که ناپایداری سیاسی-اقتصادی را تشدید می‌کند دیده شود.",
+            "پیامدهای داخلی: تشدید تنش منطقه‌ای می‌تواند منجر به افزایش نورم‌های امنیتی و سرکوب داخلی و بالا رفتن نارضایتی عمومی شود، اما شواهد مشخص از مقاله مبدا برای اثبات روندهای مستقیم وجود ندارد."
+        ],
+        "impact": "بدون جزئیات کامل، این اولتیماتوم فوراً خطر تشدید تنش‌های منطقه‌ای و فشار اقتصادی بر رژیم را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/live-story/news/world/2026/03/14/iran-war-strait-of-hormuz-oil-live-updates/89147489007/",
+        "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/14/iran-war-strait-of-hormuz-oil-live-updates/89147489007",
+        "image": null,
+        "timestamp": 1773473100.0
     },
     {
         "title_fa": "تلفات و هزینه‌های دو هفته جنگ در ایران — گزارش NPR",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/world/live/iran-war-live-updates-pentagon-says-140-us-service-members-have-been-wounded-as-hegseth-vows-most-intense-day-of-strikes-142632621.html",
         "image": "http://www.bing.com/th?id=OVFT.1tICP99ILMKicCb1tV6BRi&pid=News",
         "timestamp": 1773160320.0
-    },
-    {
-        "title_fa": "جو روگان دونالد ترامپ را به‌خاطر جنگ با ایران انتقاد کرد: «منطقی نیست»",
-        "title_en": "Joe Rogan Criticizes Trump Over War in Iran: ‘Doesn’t Make Any Sense’",
-        "summary": [
-            "جو روگان، پادکستر پرشنونده، در اپیزودی از دونالد ترامپ انتقاد کرد و گفت جنگ با ایران «بر اساس آنچه او وعده داده بود، خیلی دیوانه‌کننده است» و «منطقی ندارد».",
-            "روگان بر ناسازگاری این خط‌مشی نظامی با وعده‌های انتخاباتی ترامپ تأکید کرد و این نوع اظهارنظرها می‌توانند پیام حمایت از اقدام نظامی را نزد بخش‌هایی از افکار عمومی تضعیف کنند.",
-            "اظهارنظر او نشان‌دهنده افزایش رقابت سیاسی و حساسیت رسانه‌ای نسبت به هرگونه اقدام نظامی علیه ایران است و ممکن است هزینه سیاسی برای دولت در داخل آمریکا بالا ببرد."
-        ],
-        "impact": "اظهارنظر روگان به‌عنوان یک صدای مؤثر در افکار عمومی می‌تواند هزینه سیاسی اجرای سیاست‌های جنگی علیه ایران را برای ترامپ افزایش دهد و فضای حمایت داخلی را محدودتر کند.",
-        "tag": "ترامپ",
-        "urgency": 2,
-        "sentiment": 0.3,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/joe-rogan-criticizes-trump-over-war-in-iran-doesnt-make-any-sense-11655609",
-        "clean_url": "https://www.newsweek.com/joe-rogan-criticizes-trump-over-war-in-iran-doesnt-make-any-sense-11655609",
-        "image": null,
-        "timestamp": 1773160140.0
-    },
-    {
-        "title_fa": "عکس‌هایی از ایران و سراسر خاورمیانه در ورود جنگ به هفته دوم",
-        "title_en": "Photos from Iran and across the Middle East as the war enters Week 2",
-        "summary": [
-            "منبع گزارش مجموعه‌ای از عکس‌هاست که هم‌زمان با ورود جنگ به هفته دوم، صحنه‌هایی از ایران و دیگر نقاط خاورمیانه را ثبت کرده‌اند و نشان‌دهنده استمرار تنش‌های منطقه‌ای است.",
-            "اگرچه متن گزارش صرفاً بصری است، ادامه جنگ احتمال افزایش فشارهای خارجی و تحریم‌ها را تقویت می‌کند که به‌صورت ساختاری توان اقتصادی و ثبات سیاسی رژیم را تضعیف خواهد کرد.",
-            "تصاویر می‌توانند نشانه‌های محدود از نارضایتی عمومی و پیامدهای اقتصادی ناشی از ناکارآمدی مدیریتی را بازتاب دهند؛ این‌گونه نمایه‌ها، در کنار اقتصاد ضعیف، ظرفیت برای تشدید بحران‌های داخلی را بالا می‌برند."
-        ],
-        "impact": "ادامه هفته‌ها درگیری احتمالاً تضعیف اقتصادی بیشتر و تشدید بحران مشروعیت داخلی را تسریع می‌کند.",
-        "tag": "جنگ",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVYzT1l4TmlxM2FjazNVc3VLdi1LcURsamVBcmhXWVNYSjltb0NkWFV2UmNxUHlIa3NSMEJ0SGtHem9zSlhkWWNtVTNDMzZVMnV3RjBfZU83Sl9uUldtS29fRGx0Sjk3NGtmWXE5NU85MktNSlMzbmx0ZDlKUzNHWTFDOHBwNFJFVlM0bUpHV1c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVVYzT1l4TmlxM2FjazNVc3VLdi1LcURsamVBcmhXWVNYSjltb0NkWFV2UmNxUHlIa3NSMEJ0SGtHem9zSlhkWWNtVTNDMzZVMnV3RjBfZU83Sl9uUldtS29fRGx0Sjk3NGtmWXE5NU85MktNSlMzbmx0ZDlKUzNHWTFDOHBwNFJFVlM0bUpHV1c",
-        "image": null,
-        "timestamp": 1773159598.0
-    },
-    {
-        "title_fa": "مقام نظامی آمریکایی: «به مبارزه ایران احترام می‌گذارم»",
-        "title_en": "US general says he ‘respects’ Iran’s fight",
-        "summary": [
-            "یک مقام نظامی آمریکایی به‌صورت علنی گفته است که «به مبارزه ایران احترام می‌گذارد»، طبق گزارش الجزیره؛ گزارش جزئیات یا زمینهٔ بیشتری ارائه نمی‌دهد.",
-            "گزارش هیچ اشاره‌ای به تغییر در سیاست تحریمی یا فشار خارجی ندارد؛ این نوع اظهارنظر به‌تنهایی اثر ساختاری بر تضعیف یا تقویت ثبات رژیم ایجاد نمی‌کند.",
-            "هیچ دلیلی در متن برای پیوند دادن این اظهارنظر به اعتراضات داخلی یا وضعیت اقتصادی نیامده است؛ در نبود شواهد ملموس، نمی‌توان آن را نشانهٔ تغییر فوری در سطح نارضایتی عمومی دانست."
-        ],
-        "impact": "اظهارنظر می‌تواند ارزش تبلیغاتی برای رژیم داشته باشد اما بر اساس گزارش، تاثیری ساختاری بر ثبات یا تنگنای اقتصادی/تحریمی رژیم برجسته نیست.",
-        "tag": "سیاست",
-        "urgency": 2,
-        "sentiment": -0.3,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamtDZGFvSXlrZ0MxWmpxeU9GVnRsR1MxeUNxOEJlcjQ1NkRWLVdhejRCdmp3Q1dxdndyTUlnMS1aS3Z5eXQwX1gwTDNOWW40UVFxMVBsSTJ2dFhMM3BFNmVmeE9NTGNvc2VRMmJHQXo2dUd1RGYwUndXMFlXcTBPYS1zNll1YWlFanFhU2I2a1hBeDNo0gGaAUFVX3lxTE5OUzhCTEo4a2lIMUZGNWVESWFPS1pqM05sdXR6bzFCQWlaaGFaT3BaWWxkMzF2OGxpZjR2Mmk3VXF5c1Z6SEl1WnlHSVBqY2k3d1p1VHpPZ3VHSG85REdEY2ZXcDRldTJpblNIbi1JdVNjWEh6REF2MzFXVC1hbWxlaFNuTWRhOWNLT21nX1Bra3l6TjVPbmt5S3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNamtDZGFvSXlrZ0MxWmpxeU9GVnRsR1MxeUNxOEJlcjQ1NkRWLVdhejRCdmp3Q1dxdndyTUlnMS1aS3Z5eXQwX1gwTDNOWW40UVFxMVBsSTJ2dFhMM3BFNmVmeE9NTGNvc2VRMmJHQXo2dUd1RGYwUndXMFlXcTBPYS1zNll1YWlFanFhU2I2a1hBeDNo0gGaAUFVX3lxTE5OUzhCTEo4a2lIMUZGNWVESWFPS1pqM05sdXR6bzFCQWlaaGFaT3BaWWxkMzF2OGxpZjR2Mmk3VXF5c1Z6SEl1WnlHSVBqY2k3d1p1VHpPZ3VHSG85REdEY2ZXcDRldTJpblNIbi1JdVNjWEh6REF2MzFXVC1hbWxlaFNuTWRhOWNLT21nX1Bra3l6TjVPbmt5S3c",
-        "image": null,
-        "timestamp": 1773159510.0
     }
 ]
