@@ -162,6 +162,24 @@
         "timestamp": 1773481702.0
     },
     {
+        "title_fa": "به‌روزرسانی: ایران بنادر امارات را تهدید کرد؛ جنگ وارد هفته سوم شد",
+        "title_en": "The Latest: Iran threatens UAE ports as war enters its third week",
+        "summary": [
+            "ایران برای اولین‌بار تهدید به هدف‌گیری زیرساخت‌های یک کشور همسایه کرد و خواستار تخلیه سه بندر بزرگ امارات شد؛ تهران این بنادر را «مناطق مشروع هدف» خواند و مدعی استفاده نظامی آمریکا از آنهاست، همزمان کشتیرانی در تنگه هرمز عملاً متوقف شده است.",
+            "در مقابل، آمریکا و اسرائیل هزاران هدف داخل ایران را هدف قرار داده‌اند و مقام‌های آمریکایی از جمله اعلام کردند که تاسیسات نفتی روی جزیره خارک «نابود» شده‌اند؛ تهران نیز صدها موشک و پهپاد علیه همسایگان گلف شلیک کرده است — این الگوی تقابلی بنیه ساختاری رژیم را تضعیف می‌کند.",
+            "پیامدهای منطقه‌ای و انسانی مشهود است: افزایش آوارگی و تلفات در لبنان، آتش‌سوزی در نمایندگی آمریکا در بغداد و اختلال در جریان نفت؛ ضربه به زیرساخت‌های صادرات نفتی و بسته‌شدن مسیرهای دریایی فشار اقتصادی شدید و ریسک تشدید نارضایتی داخلی را بالا می‌برد."
+        ],
+        "impact": "تهدید به هدف‌گیری بنادر امارات و حمله به خارک می‌تواند درآمدهای نفتی و ظرفیت لجستیکی رژیم را به طور چشمگیر کاهش دهد و همزمان توان معیشتی و صبر مردم داخل کشور را تضعیف کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/latest-trump-threatens-irans-oil-044416352.html",
+        "clean_url": "https://www.yahoo.com/news/articles/latest-trump-threatens-irans-oil-044416352.html",
+        "image": "http://www.bing.com/th?id=OVFT.KlHwWe7JGKcHb5APP2W4Ti&pid=News",
+        "timestamp": 1773480540.0
+    },
+    {
         "title_fa": "تشدید حملات ایران در خلیج فارس در پی دامنه جنگ آمریکا-اسرائیل",
         "title_en": "Iran continues intensified attacks across Gulf in US-Israel war fallout",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-continues-intensified-attacks-across-gulf-in-us-israel-war-fallout/ar-AA1YBLX1",
         "image": null,
         "timestamp": 1773479786.0
+    },
+    {
+        "title_fa": "تهران بندر پرتردد خاورمیانه را تهدید می‌کند؛ جنگ وارد هفته سوم شد",
+        "title_en": "Tehran threatens Middle East's busiest port as Iran war enters its third week",
+        "summary": [
+            "سفارت آمریکا در بغداد بار دیگر هدف قرار گرفت که نشان‌دهنده ادامه مواجهه مستقیم با مواضع آمریکاست و ریسک گسترش درگیری را افزایش می‌دهد.",
+            "بقایای یک پهپاد ایرانی که رهگیری شده بود به یک تاسیسات نفتی در امارات برخورد کرد؛ این حادثه خطر آسیب‌پذیری زیرساخت‌های انرژی و مسیرهای تجاری منطقه را نشان می‌دهد.",
+            "تشدید حملات و تهدید به بنادر پرتردد می‌تواند موج جدیدی از فشارهای بین‌المللی و اقتصادی را به دنبال داشته باشد و امکان تضعیف بیشتر کارکردهای مالی و سیاسی رژیم و افزایش نارضایتی داخلی را بالا ببرد."
+        ],
+        "impact": "ادامه این الگو احتمال اعمال فشارهای بین‌المللی، افزایش هزینه‌های بیمه و حمل‌ونقل دریایی و کاهش درآمدهای صادراتی را افزایش می‌دهد که سازوکارهای مالی رژیم را تضعیف کرده و خشم و بی‌ثباتی داخلی را تشدید خواهد کرد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Los Angeles Times on MSN",
+        "url": "https://www.msn.com/en-us/news/world/tehran-threatens-middle-east-s-busiest-port-as-iran-war-enters-its-third-week/ar-AA1YD1ct",
+        "clean_url": "https://www.msn.com/en-us/news/world/tehran-threatens-middle-east-s-busiest-port-as-iran-war-enters-its-third-week/ar-AA1YD1ct",
+        "image": "http://www.bing.com/th?id=OVFT.-pZrSZG7NQ4Ee1DPXvIbSy&pid=News",
+        "timestamp": 1773477455.0
     },
     {
         "title_fa": "خلاصه هفتگی: در آستانه",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.nytimes.com/interactive/2026/03/11/world/middleeast/iran-us-military-bases-strikes-map.html",
         "image": "http://www.bing.com/th?id=OVFT.owHIJh-XdxwHiI-Jpb3kfi&pid=News",
         "timestamp": 1773165540.0
-    },
-    {
-        "title_fa": "ایالات متحده 16 شناور مین‌گذار ایران را منهدم کرد؛ تهران تهدید به بستن صادرات نفت منطقه کرد",
-        "title_en": "US says it destroyed 16 mine-laying vessels as Iran threatens to block Gulf oil exports",
-        "summary": [
-            "نیروی‌های آمریکا از نابودی 16 شناور مین‌گذار ایرانی خبر دادند و ویدئویی از برخی شناورها منتشر شد؛ این اعلام نشان‌دهنده آماده‌باش برای تشدید اقدام نظامی مستقیم واشنگتن است.",
-            "تهدید ایران به «نگذاریدن حتی یک لیتر» نفت به دشمنان و احتمال بستن تنگه هرمز اهرم استراتژیک تهران را افزایش می‌دهد اما هم‌زمان می‌تواند واکنش‌های نظامی و اقتصادی گسترده‌ای را به دنبال داشته و بازار انرژی جهانی را بر هم زند.",
-            "گزارش از حملات سنگین در تهران، پناه‌گیری ده‌ها هزار نفر در حومه و اعلام قطع مذاکرات توسط حاکمیت نشان می‌دهد مدیریت بحران شکست خورده و هزینه‌های انسانی و نارضایتی عمومی می‌تواند مشروعیت داخلی رژیم را بیشتر تضعیف کند."
-        ],
-        "impact": "این تقابل نظامی و تهدید به بستن تنگه هرمز به‌طور قابل‌توجهی خطر تشدید مداخلات خارجی، اختلال در بازار نفت و افزایش فشار اقتصادی و سیاسی بر رژیم را بالا می‌برد.",
-        "tag": "تصادم",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Newsday",
-        "url": "https://www.newsday.com/news/nation/iran-israel-us-march-10-2026-r21646",
-        "clean_url": "https://www.newsday.com/news/nation/iran-israel-us-march-10-2026-r21646",
-        "image": "http://www.bing.com/th?id=OVFT.8mgmfMUQceGCP3Sd3IJEKy&pid=News",
-        "timestamp": 1773164580.0
-    },
-    {
-        "title_fa": "ایران به ترامپ هشدار داد: «خودت را حذف نکن»؛ جنگ ادامه دارد و پایانی در دید نیست",
-        "title_en": "Iran warns Trump to ‘not to get eliminated yourself’ as war drags on with no end in sight",
-        "summary": [
-            "خبر گزارشی از هشدار مستقیم مقامات ایران به دونالد ترامپ با لحن تهدیدآمیز است و هم‌زمان گزارش می‌دهد که جنگ منطقه‌ای ادامه دارد؛ عکس مرتبط نشان‌دهنده دود ناشی از حمله هوایی اسرائیل در ضاحیه بیروت است.",
-            "این موضع‌گیری تهران، حتی اگر صرفاً کلامی باشد، ریسک تشدید مواجهه با بازیگران آمریکایی و اسرائیلی را بالا می‌برد و می‌تواند چرخه واکنش‌های نظامی و دیپلماتیک در منطقه را تندتر سازد.",
-            "گزارش اشاره‌ای به تحریم‌های جدید یا اعتراضات داخلی نکرده است؛ با این حال ادامه جنگ و انباشت هزینه‌های نظامی احتمال افزایش فشارهای اقتصادی و نارضایتی عمومی را علیه دستگاه حاکم تقویت می‌کند."
-        ],
-        "impact": "هشدار علنی ایران همراه با حملات هوایی جاری خطر تشدید درگیری منطقه‌ای را افزایش داده و هزینه‌های سیاسی-اقتصادی قابل توجهی روی رژیم تحمیل می‌کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "al.com",
-        "url": "https://www.al.com/news/2026/03/iran-warns-trump-to-not-to-get-eliminated-yourself-as-war-drags-on-with-no-end-in-sight.html",
-        "clean_url": "https://www.al.com/news/2026/03/iran-warns-trump-to-not-to-get-eliminated-yourself-as-war-drags-on-with-no-end-in-sight.html",
-        "image": "http://www.bing.com/th?id=OVFT.yz84jajuxYCR-VYHG8mEjy&pid=News",
-        "timestamp": 1773164280.0
     }
 ]
