@@ -108,6 +108,24 @@
         "timestamp": 1773500820.0
     },
     {
+        "title_fa": "ترامپ به ایران اولتیماتوم داد",
+        "title_en": "Trump delivers ultimatum to Iran",
+        "summary": [
+            "رئیس‌جمهور دونالد ترامپ خواست «کشورهای زیادی» ناوگان جنگی بفرستند تا تنگه هرمز باز شود؛ اعلام صریحی که به منزله اولتیماتوم نظامی به ایران است.",
+            "درخواست برای حضور ناوگان بین‌المللی به‌سرعت سطح تنش را بالا می‌برد و احتمال رویارویی دریایی یا برخوردهای نظامی محدود را افزایش می‌دهد.",
+            "افزایش فشار نظامی و دیپلماتیک می‌تواند هزینه‌های اقتصادی ایران را از طریق اختلال در صادرات نفت و بالا رفتن بیمه و هزینه حمل‌ونقل افزایش دهد و به تضعیف ساختاری ثبات رژیم کمک کند."
+        ],
+        "impact": "این اعلامیه، فضای منطقه را به سمت تشدید مداخله نظامی و فشار اقتصادی برای تهران سوق می‌دهد و ریسک اختلال گسترده در عبور و نقل نفتی و تقویت انزوای بین‌المللی رژیم را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Detroit News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-delivers-ultimatum-to-iran/ar-AA1YDr8m",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-delivers-ultimatum-to-iran/ar-AA1YDr8m",
+        "image": "http://www.bing.com/th?id=OVFT.AaPS0EKckhKf74HJC65MUy&pid=News",
+        "timestamp": 1773498273.0
+    },
+    {
         "title_fa": "ترامپ به قیام فراخواند، اما با بارش بمب‌ها ایرانی‌ها «بیش از حد وحشت‌زده‌اند که حرکت کنند»",
         "title_en": "Trump urged uprising, but as bombs fall, Iranians are ‘too scared to move’",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.npr.org/2026/03/10/nx-s1-5742828/iran-war-us-trump",
         "image": "http://www.bing.com/th?id=OVFT.fuBt4VXgs8blYl3AgVxXBi&pid=News",
         "timestamp": 1773180240.0
-    },
-    {
-        "title_fa": "حدود ۱۴۰ نظامی آمریکایی در جنگ با ایران زخمی شدند، پنتاگون می‌گوید",
-        "title_en": "Around 140 US service members wounded in Iran war, Pentagon says",
-        "summary": [
-            "پنتاگون اعلام کرده تقریباً ۱۴۰ عضو نیروهای مسلح آمریکا در جریان جنگ با ایران زخمی شده‌اند؛ این آمار نشانه‌ای از تشدید درگیری مستقیم بین واشنگتن و تهران است.",
-            "افزایش تلفات آمریکایی ریسک تشدید فشارهای بین‌المللی و احتمال واکنش‌های نظامی یا تحریمی علیه ایران را بالا می‌برد — امری که ساختار اقتصادی و سیاسی رژیم را ضعیف‌تر خواهد کرد.",
-            "این تحول هزینه‌های داخلی را افزایش می‌دهد؛ هر گونه ادامه تنش نظامی بار اقتصادی، ناکارآمدی مدیریتی و نارضایتی عمومی را تشدید می‌کند و به مدیریت بحران درون‌حکومتی آسیب می‌زند."
-        ],
-        "impact": "گزارش پنتاگون علامت یک جهش خطرناک در تشدید تنش‌ها است که از مسیر فشار خارجی و بار اقتصادی، ثبات رژیم را تهدید می‌کند.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.usatoday.com/videos/news/2026/03/10/pentagon-announces-140-troops-injured-in-iran-war-says-most-are-minor/89089368007/",
-        "clean_url": "https://www.usatoday.com/videos/news/2026/03/10/pentagon-announces-140-troops-injured-in-iran-war-says-most-are-minor/89089368007",
-        "image": null,
-        "timestamp": 1773177437.0
     }
 ]
