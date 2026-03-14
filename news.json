@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تلفات و هزینه‌های دو هفته جنگ در ایران — گزارش NPR",
+        "title_en": "These are the casualties and cost of the war in Iran 2 weeks into the conflict",
+        "summary": [
+            "NPR به تلفات انسانی و هزینه‌های مادی ناشی از دو هفته درگیری در ایران اشاره کرده است؛ متن ارسال‌شده جزئیات عددی ارائه نمی‌دهد اما محور گزارش فشار فوری جنگ بر مردم و زیرساخت‌هاست.",
+            "هزینه‌های جنگ ساختار مالی و مدیریتی رژیم را تضعیف می‌کند: افزایش مخارج نظامی، کاهش منابع لازم برای خدمات عمومی و اختلال در تجارت و سرمایه‌گذاری، که توان حکومت برای مدیریت بحران و حفظ پایگاه اجتماعی را کاهش می‌دهد.",
+            "بار اقتصادی و انسانی موجود، احتمال افزایش نارضایتی عمومی و تشدید فشارهای داخلی را بالا می‌برد؛ اگر حکومت نتواند خدمات پایه و معیشت را تأمین کند، مسیر به سمت فرسایش مشروعیت و ناآرامی هموارتر می‌شود."
+        ],
+        "impact": "دو هفته درگیری بار مالی و تلفات انسانی‌ای ایجاد کرده که فوراً ظرفیت حکمرانی و انسجام اجتماعی را تضعیف و ریسک تشدید بحران داخلی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "NPR",
+        "url": "https://www.wwno.org/npr-news/2026-03-14/these-are-the-casualties-and-cost-of-the-war-in-iran-2-weeks-into-the-conflict",
+        "clean_url": "https://www.wwno.org/npr-news/2026-03-14/these-are-the-casualties-and-cost-of-the-war-in-iran-2-weeks-into-the-conflict",
+        "image": null,
+        "timestamp": 1773471861.0
+    },
+    {
         "title_fa": "حمله نظامی آمریکا به هاب صادرات نفت ایران در جزیره خارک؛ ترامپ می‌گوید زیرساخت نفتی را نرهاده است",
         "title_en": "U.S. Military Attacks Iran’s Oil Export Hub, Trump Says",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.aol.com/articles/us-attacks-irans-kharg-island-230500466.html",
         "image": null,
         "timestamp": 1773469570.0
+    },
+    {
+        "title_fa": "«پوشش ما صادقانه نیست»: چگونه اسرائیل گزارش‌دهی درباره جنگ را سانسور می‌کند",
+        "title_en": "‘Our coverage is not truthful’: How Israel is censoring reporting on the war",
+        "summary": [
+            "بر اساس گزارش +972 Magazine، مقامات اسرائیلی پرونده‌ای را علیه پوشش رسانه‌ای جنگ مطرح کرده و آن را «صادقانه نیست» خوانده‌اند که به محدودسازی گزارش‌ها انجامیده است.",
+            "مقاله به سازوکارهای اعمال کنترل بر روایت جنگ می‌پردازد — از فشار روی رسانه‌ها و درخواست حذف محتوا تا استفاده از مقررات اداری و نظامی برای محدود کردن دسترسی خبرنگاران — اما جزئیات حقوقی و نمونه‌های مشخص باید با احتیاط خوانده شوند.",
+            "متن اشاره‌ای به تحریم‌ها یا حمایت مستقیم قدرت‌های خارجی ندارد و نامی از نقش روسیه، چین یا کره شمالی برده نشده؛ تمرکز گزارش بر پیامدهای داخلی سانسور و اعتبار خبری است."
+        ],
+        "impact": "گسترش سانسور در پوشش جنگ شفافیت را از بین می‌برد، اعتماد عمومی به منابع رسمی را تضعیف می‌کند و فضای اطلاعاتی را به نفع روایت‌های دولتی و روایت‌سازی جنگ سوق می‌دهد.",
+        "tag": "سانسور",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "+972 Magazine",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZVBLalpSVjNNR29PUjVaaEZ4SmpkVnA5dnNyNlpSWXJUZjlta05ZYTBrWHhGQm9XQjhwcEdYNHVMNnM5QjNsb0Jra3NPN21PSDZLb0RuaWNZMG1odmpoODRCamJ3TzQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE96ZVBLalpSVjNNR29PUjVaaEZ4SmpkVnA5dnNyNlpSWXJUZjlta05ZYTBrWHhGQm9XQjhwcEdYNHVMNnM5QjNsb0Jra3NPN21PSDZLb0RuaWNZMG1odmpoODRCamJ3TzQ",
+        "image": null,
+        "timestamp": 1773468000.0
     },
     {
         "title_fa": "ترامپ: آمریکا سایت‌های نظامی یک جزیره حیاتی برای شبکه نفتی ایران را بمباران کرد",
@@ -72,6 +108,24 @@
         "timestamp": 1773461342.0
     },
     {
+        "title_fa": "آمریکا جزیره نفتی خارگ را بمباران کرد؛ ترامپ دستور «نابودی کامل» داد",
+        "title_en": "Iran War Live Updates: U.S. Says It Bombed Key Iranian Island With Oil Hub",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا اعلام کرد به پنتاگون دستور «نابودی کامل» دارایی‌های نظامی روی جزیره خارگ را داده است.",
+            "وزارت دفاع آمریکا می‌گوید جزیره کلیدی خارگ — با هاب نفتی — هدف حملات قرار گرفته است و در بیانیه‌ای از بمباران آن خبر داده است.",
+            "ایالات متحده اعلام کرده در واکنش نظامی منطقه را با اعزام هزاران تفنگدار دریایی تقویت می‌کند؛ این اقدام میدان فشار نظامی علیه تهران را تشدید می‌کند."
+        ],
+        "impact": "هدف‌گیری هاب نفتی خارگ و افزایش حضور نظامی آمریکا می‌تواند درآمدهای نفتی و ظرفیت مدیریتی رژیم را تضعیف کرده، فشار خارجی را افزایش دهد و ناتوانی در حفاظت از زیرساخت‌های حیاتی را به‌عنوان نشانه شکست حکمرانی برجسته کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
+        "clean_url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
+        "image": null,
+        "timestamp": 1773459960.0
+    },
+    {
         "title_fa": "ترامپ: ایدهٔ خودم دربارهٔ مدت‌زمان جنگ با ایران را دارم",
         "title_en": "Trump says he has ‘own idea’ on how long Iran war will last",
         "summary": [
@@ -124,6 +178,24 @@
         "clean_url": "https://www.msn.com/en-us/money/general/us-hits-military-targets-on-iran-s-kharg-island-as-war-escalates/ar-AA1Yzxxq",
         "image": null,
         "timestamp": 1773451378.0
+    },
+    {
+        "title_fa": "به‌روزرسانی جنگ آمریکا-اسرائیل با ایران: ایران اعلام کرد تأسیسات نفتی خارگ سالم‌اند؛ هشدار به تلافی",
+        "title_en": "US-Israel Iran War Live Updates: Iran says Kharg Island oil infrastructure unharmed after US strikes, warns over retaliation",
+        "summary": [
+            "گزارش‌ها از حمله مشترک آمریکا و اسرائیل به خاک ایران و کشته شدن شش عضو یک خانواده، از جمله یک نوزاد شش‌ماهه، در بمباران یک ساختمان مسکونی در شهر ایوان، استان ایلام، حکایت می‌کند.",
+            "تیم‌های امدادی همچنان در محل مشغول پاک‌سازی آوار و جست‌وجوی بازماندگان هستند؛ گزارش‌ها تأکید می‌کنند که تلفات غیرنظامیان و خرابی ساختمان رخ داده است.",
+            "دولت ایران اعلام کرده زیرساخت‌های نفتی جزیره خارگ از حملات آسیبی ندیده‌اند و هم‌زمان هشدار به تلافی داده است؛ این رویداد خطر تشدید مستقیم درگیری و فشار بر ثبات داخلی را افزایش می‌دهد."
+        ],
+        "impact": "کشته شدن غیرنظامیان در حملات خارجی اعتبار نظام حاکم را تضعیف می‌کند و توانایی آن در تضمین امنیت داخلی را زیر سؤال می‌برد؛ امکان افزایش خشم و نارضایتی عمومی و بروز پیامدهای سیاسی و امنیتی بیشتر وجود دارد.",
+        "tag": "حمله",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/us-israel-iran-war-live-updates-middle-east-drone-missile-attacks-tehran-dubai-uae-liveblog-13989391.html",
+        "clean_url": "https://www.firstpost.com/world/us-israel-iran-war-live-updates-middle-east-drone-missile-attacks-tehran-dubai-uae-liveblog-13989391.html",
+        "image": "http://www.bing.com/th?id=OVFT.xDjXDNVfP_U_-TiJ1Yvzuy&pid=News",
+        "timestamp": 1773449700.0
     },
     {
         "title_fa": "حملات آمریکا به تأسیسات نفتی ایران در حالی که ترامپ می‌گوید «جنگ وقتی تمام می‌شود که در استخوان‌هایم حسش کنم»",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://apnews.com/live/iran-war-israel-trump--03-10-2026",
         "image": null,
         "timestamp": 1773144240.0
-    },
-    {
-        "title_fa": "پیروزی در ایران برای ترامپ چه معنا دارد؟ چهار پایان ممکن",
-        "title_en": "What Does Victory in Iran Look Like for Trump? Four Endgames",
-        "summary": [
-            "نویسنده چهار سناریوی متفاوت برای پایان احتمالی جنگ با ایران مطرح می‌کند و تأکید می‌کند که پیامد هر سناریو از نظر سیاسی و امنیتی به‌طور قابل‌توجهی متفاوت خواهد بود.",
-            "تحلیل هشدار می‌دهد که ترامپ احتمالاً صرف‌نظر از نتیجه میدانی، ادعای «پیروزی» خواهد کرد؛ این روند می‌تواند روایت سیاسی را از واقعیت میدانی جدا کند و مانور تبلیغاتی واشنگتن را شکل دهد.",
-            "هر پایان ممکن پیامدهای متفاوتی بر فشارهای خارجی و تحریم‌ها، تضعیف ساختاری حکومت، و وضعیت اقتصادی و نارضایتی عمومی خواهد داشت؛ مقاله این پیامدها را از منظر ثبات رژیم بررسی می‌کند."
-        ],
-        "impact": "خلاصهٔ اصلی این است که حتی اگر ترامپ ادعای پیروزی کند، پایان واقعی هر سناریو تعیین‌کننده میزان تضعیف ساختاری رژیم، شدت فشار خارجی و هیجان‌های اعتراضی داخلی خواهد بود.",
-        "tag": "پایان",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/what-does-victory-in-iran-look-like-for-trump-four-endgames-11653266",
-        "clean_url": "https://www.newsweek.com/what-does-victory-in-iran-look-like-for-trump-four-endgames-11653266",
-        "image": null,
-        "timestamp": 1773144000.0
-    },
-    {
-        "title_fa": "یک نکته که جمهوری‌خواهان و دموکرات‌ها درباره ایران توافق دارند: نظرسنجی جدید",
-        "title_en": "The 1 thing Republicans and Democrats agree on about Iran: New poll",
-        "summary": [
-            "نظرسنجی گزارش‌شده توسط NJ.com و AP می‌گوید یک موضوع وجود دارد که جمهوری‌خواهان و دموکرات‌ها درباره ایران مشترکاً موافق‌اند؛ متن کوتاه در دسترس جزئیات آن نکته را مشخص نکرده است.",
-            "همراه گزارش، عکسی از رئیس‌جمهور دونالد ترامپ در یک کنفرانس خبری منتشر شده که نشان‌دهنده توجه مستقیم سیاست‌مداران ارشد آمریکاست.",
-            "اگر آن اجماع مربوط به افزایش فشار یا تحریم‌ها باشد، این سیاست می‌تواند تضعیف ساختاری دولت ایران، تشدید فشارهای اقتصادی و افزایش نارضایتی‌های داخلی را به دنبال داشته باشد؛ مقاله خود به شواهد داخلی اشاره نکرده و بنابراین این پیامدها را به‌صورت مشروط مطرح می‌کنم."
-        ],
-        "impact": "یک اجماع دوحزبی علیه ایران، در صورت تبدیل به سیاست عملی، قادر است ساختارهای اقتصادی و سیاسی حاکم را تضعیف و فضای نارضایتی داخلی را تشدید کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "NJ.com",
-        "url": "https://www.nj.com/politics/2026/03/the-1-thing-republicans-and-democrats-agree-on-about-iran-new-poll.html",
-        "clean_url": "https://www.nj.com/politics/2026/03/the-1-thing-republicans-and-democrats-agree-on-about-iran-new-poll.html",
-        "image": null,
-        "timestamp": 1773142500.0
-    },
-    {
-        "title_fa": "حملات موشکی ایران به مناطق مرکزی اسرائیل همزمان با تشدید درگیری‌ها",
-        "title_en": "Iranian missile strikes central Israel amid escalating attacks",
-        "summary": [
-            "گزارش: رسانه‌ها اعلام کرده‌اند که ایران موشک‌هایی به سوی مناطق مرکزی اسرائیل شلیک کرده است؛ این اقدام بخشی از موج جدیدی از حملات متقابل منطقه‌ای است.",
-            "فشار خارجی: شلیک مستقیم به خاک اسرائیل احتمال تشدید فشارهای بین‌المللی، اعمال تحریم‌های تازه و افزایش انزوای سیاسی-اقتصادی رژیم را بالا می‌برد و ظرفیت جذب سرمایه و فناوری را تضعیف می‌کند.",
-            "پیامدهای داخلی: ماجراجویی نظامی هزینه‌های مالی و انسانی را افزایش می‌دهد، منابع دولتی را هدر می‌دهد و در صورت تشدید تلفات و هزینه‌ها می‌تواند نارضایتی اقتصادی و موج‌های اعتراضی را تقویت کند."
-        ],
-        "impact": "این حملات ریسک پاسخ نظامی اسرائیل و فشار بین‌المللی را افزایش می‌دهد و در کوتاه‌مدت به تضعیف سیاسی و اقتصادی رژیم در داخل ایران منجر می‌شود.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUDM5aEtHVEVmaGtWY3h5ZHIzWmd2dUQxdndTNnZwSEhlZ2lQVUZFNEIzcXkxLU5JVzlScFZxSGlfWkdtUDRMc0ZOTnBZMTlzNmR1SHBEM3RSUXpWcjBIRTc2eVczSzNJNHF5SkdsYzdqc0dWTzFTTml5aC1OZmtITDlHRnFBVzhqN25RYkRkZDlrYndhNHZ2eU1QRWRjZWhzSm43REcxOGtpWGhrQTVBekF4UdIBuAFBVV95cUxNT19VUVdwZXZpVUF1am9rVnZkTUZNUURmb24tdEl2YlVXeHRYY1M5Qmh2bzR3Q3VaSXI3RjI0MDg4LUdKMWRzS25jLTFUQWg2TUQ0b0FXMDJjVkJ4N3FZNEYtWXJNSkt1QTIwRElyeE1ySVRhWHV0TWE0ZU9xLVNyUHJtRGVxNjY5S2VERGV4dWpnRDU0b28yM25sZzhpRUlZZENBNjdFaDJSZzgyamkzdzNSNUJVQ2Np?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUDM5aEtHVEVmaGtWY3h5ZHIzWmd2dUQxdndTNnZwSEhlZ2lQVUZFNEIzcXkxLU5JVzlScFZxSGlfWkdtUDRMc0ZOTnBZMTlzNmR1SHBEM3RSUXpWcjBIRTc2eVczSzNJNHF5SkdsYzdqc0dWTzFTTml5aC1OZmtITDlHRnFBVzhqN25RYkRkZDlrYndhNHZ2eU1QRWRjZWhzSm43REcxOGtpWGhrQTVBekF4UdIBuAFBVV95cUxNT19VUVdwZXZpVUF1am9rVnZkTUZNUURmb24tdEl2YlVXeHRYY1M5Qmh2bzR3Q3VaSXI3RjI0MDg4LUdKMWRzS25jLTFUQWg2TUQ0b0FXMDJjVkJ4N3FZNEYtWXJNSkt1QTIwRElyeE1ySVRhWHV0TWE0ZU9xLVNyUHJtRGVxNjY5S2VERGV4dWpnRDU0b28yM25sZzhpRUlZZENBNjdFaDJSZzgyamkzdzNSNUJVQ2Np",
-        "image": null,
-        "timestamp": 1773141799.0
-    },
-    {
-        "title_fa": "۱۰ روز عملیات «خشم اپیک»: وعده واشنگتن و واقعیت",
-        "title_en": "10 Days of 'Operation Epic Fury': What Washington Promised and What Actually Happened",
-        "summary": [
-            "حملات گسترده آمریکا و اسرائیل در ۲۸ فوریه که به کشته شدن علی خامنه‌ای، وزیر دفاع عزیز نصیرزاده و فرمانده سپاه محمد پاکپور منجر شد، مذاکرات هسته‌ای را عملاً متوقف کرد و میانه دیپلماسی را تضعیف کرد.",
-            "تضاد گفتاری میان رئیس‌جمهور ترامپ که «جنگ عملاً تمام‌شده» اعلام کرد و پیام‌های تهاجمی پنتاگون («ما تازه شروع کرده‌ایم»، «بدون رحم») نشان‌دهنده نبود استراتژی هماهنگ پس از عملیات است و اعتبار واشنگتن در مدیریت بحران را کاهش داد.",
-            "الگوی تغییر رژیم شبیه عملیات بازداشت مادورو قابل تکرار نبود؛ نظام با اعلام جانشینی سریع مجتبی خامنه‌ای تلاش به بقا کرد، اما تعلیق مذاکرات و ضربه به رهبری نشان‌دهنده تزلزل ساختاری و افزایش خطر درگیری‌های آینده است."
-        ],
-        "impact": "عملیات نظامی توان بازدارندگی و مذاکره رژیم را تضعیف کرده؛ نظام با جانشینی فوری دوام آورد اما ثبات سیاسی و دیپلماتیک ایران به‌طور قابل‌توجهی کاهش یافته است.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "1news",
-        "url": "https://1news.az/en/news/20260310142035972-10-Days-of-Operation-Epic-Fury-What-Washington-Promised-and-What-Actually-Happened",
-        "clean_url": "https://1news.az/en/news/20260310142035972-10-Days-of-Operation-Epic-Fury-What-Washington-Promised-and-What-Actually-Happened",
-        "image": null,
-        "timestamp": 1773140640.0
     }
 ]
