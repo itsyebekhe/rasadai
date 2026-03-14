@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "این سربازان آمریکایی در درگیری با ایران جان باختند",
+        "title_en": "These American Service Members Died in the Iran Conflict",
+        "summary": [
+            "نیویورک‌تایمز فهرستی از اعضای نیروهای نظامی آمریکا که در چارچوب درگیری‌های مرتبط با ایران جان خود را از دست داده‌اند منتشر کرده است.",
+            "خسارت انسانی گزارش‌شده نشانه تشدید تنش و افزایش ریسک گسترش رویارویی مستقیم میان واشنگتن و تهران است و می‌تواند فشار سیاسی برای واکنش متقابل و درخواست‌های تشدید تحریم‌ها را تقویت کند.",
+            "گزارش اشاره‌ای مستدل به تأثیر این تلفات بر اعتراضات داخلی یا بحران اقتصادی در داخل ایران ندارد؛ هر گونه نتیجه‌گیری درباره تضعیف مستقیم رژیم نیازمند شواهد تکمیلی است."
+        ],
+        "impact": "مرگ نیروهای آمریکایی فشار بر سیاست‌گذاران هر دو طرف را افزایش می‌دهد و احتمال عکس‌العمل‌های سخت‌تر از جمله تشدید فشارهای تحریمی یا اقدام نظامی متقابل را بالا می‌برد، ولی اثر مستقیم بر ثبات داخلی ایران براساس این گزارش نامشخص باقی می‌ماند.",
+        "tag": "تلفات",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html",
+        "clean_url": "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html",
+        "image": null,
+        "timestamp": 1773491956.0
+    },
+    {
         "title_fa": "اسرائیل می‌گوید جنگ با ایران وارد «مرحله تعیین‌کننده» شده است",
         "title_en": "Israel says Iran war entering 'decisive phase'",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-my/news/other/us-embassy-in-iraq-hit-as-mideast-war-enters-third-week/ar-AA1YBTEv",
         "image": null,
         "timestamp": 1773487823.0
+    },
+    {
+        "title_fa": "هشدار رئیس ستاد ارتش: جان‌باختن خدمه IRIS Dena «بی‌پاسخ نخواهد ماند»",
+        "title_en": "US-Israel-Iran War LIVE: Deaths Of IRIS Dena Crew Members \"Won't Go Unanswered\", Warns Iran 's Army Chief",
+        "summary": [
+            "رئیس ستاد ارتش ایران در واکنش به کشته شدن اعضای خدمه شناور IRIS Dena اعلام کرد که این اقدام «بی‌پاسخ نخواهد ماند».",
+            "این پیام تهدیدآمیز در حالی منتشر شده که گزارش‌های زنده درباره تشدید تنش میان ایران، آمریکا و اسرائیل وجود دارد و می‌تواند خطر تشدید رویارویی‌های نظامی را افزایش دهد.",
+            "اگرچه خبر به صورت مستقیم به تحریم‌ها یا اعتراضات داخلی اشاره نکرد، چنین رخدادی می‌تواند فشار دیپلماتیک و احتمال افزایش تحریم‌ها را تقویت کند و نارضایتی عمومی را در صورت ادامه تنش‌ها بدتر سازد."
+        ],
+        "impact": "این تهدید، احتمال تشدید درگیری‌های منطقه‌ای و بالا رفتن فشار بین‌المللی علیه حاکمیت را افزایش می‌دهد و ثبات داخلی را شکننده‌تر خواهد کرد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "NDTV",
+        "url": "https://www.msn.com/en-us/news/us/all-6-crew-members-killed-in-crash-of-us-kc-135-refueling-aircraft-in-iraq/ar-AA1YxF8K",
+        "clean_url": "https://www.msn.com/en-us/news/us/all-6-crew-members-killed-in-crash-of-us-kc-135-refueling-aircraft-in-iraq/ar-AA1YxF8K",
+        "image": null,
+        "timestamp": 1773484044.0
     },
     {
         "title_fa": "جنگ پنجاه‌ساله ما با ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.factcheck.org/2026/03/without-providing-evidence-trump-pins-school-bombing-on-iran",
         "image": null,
         "timestamp": 1773151500.0
-    },
-    {
-        "title_fa": "آمریکا شدیدترین بمباران علیه ایران را انجام داد، پنتاگون می‌گوید",
-        "title_en": "U.S. Showers Iran With Bombs in Most Intense Strikes of the War, Pentagon Says",
-        "summary": [
-            "پنتاگون اعلام کرد بیش از ۵۰۰۰ هدف در ۱۰ روز مورد حمله قرار گرفته و روز مورد اشاره را «شدیدترین روز حملات» خواند؛ این فشار نظامی مستقیم می‌تواند توان عملیاتی و زیرساخت‌های مرتبط را تضعیف کرده و به اقتصاد وابسته به تنگه هرمز فشار وارد سازد.",
-            "فرماندهی مرکزی آمریکا از حمله به ۱۶ شناور مرتبط با مین‌گذاری در نزدیکی تنگه هرمز خبر داد و ویدئوهایی از اصابت به ۹ شناور منتشر شد؛ هنوز نامشخص است که آیا مین‌ها وارد آب شده‌اند یا خیر.",
-            "جنگ در منطقه پیامدهای انسانی و اقتصادی گسترده‌ای دارد: حملات اسرائیل به اهداف مرتبط با ایران در لبنان نزدیک به ۷۰۰ هزار آواره و دست‌کم ۵۷۰ کشته برجای گذاشته و بازارها، سفرها و اطمینان نسبت به عرضه سوخت و وضعیت صندوق‌های بازنشستگی را متلاطم کرده است."
-        ],
-        "impact": "فشار نظامی مستقیم واشنگتن و تل‌آویو قابلیتِ کنترل و بقای اقتصادی حکومت ایران را هدف گرفته و ریسک تشدید بحران انسانی و گسترش تنش منطقه‌ای را بالا می‌برد.",
-        "tag": "بمباران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html",
-        "clean_url": "https://www.nytimes.com/2026/03/10/world/middleeast/us-iran-war-strikes-pentagon.html",
-        "image": "http://www.bing.com/th?id=OVFT.OsoRq9nAJ9g-9fuGAJ_CQi&pid=News",
-        "timestamp": 1773150840.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: «شدیدترین روز» حملات آمریکا به ایران؛ تهران تهدید به بستن نفت تا پایان حملات می‌کند",
-        "title_en": "Live updates: 'Most intense day' of U.S. strikes on Iran, Hegseth says; Tehran warns it will block oil until attacks end",
-        "summary": [
-            "NBC گزارش می‌دهد هگستث این حملات را «شدیدترین روز» حملات آمریکا به ایران توصیف کرده و هم‌زمان تهران تهدید کرده تا پایان حملات جریان نفت را مسدود خواهد کرد.",
-            "اسرائیل به اهدافی در تهران و لبنان حمله کرده است؛ این تحولات باعث جهش در قیمت جهانی نفت و افزایش نگرانی‌ها درباره تنگه هرمز شده است.",
-            "تهدید به بستن صادرات نفت ابزاری اقتصادی است که رژیم برای فشار متقابل به کار می‌برد، اما این رویکرد ریسک منزوی‌تر شدن بین‌المللی و تشدید فشارهای اقتصادی را افزایش می‌دهد و هزینه مستقیم آن را شهروندان ایرانی خواهند پرداخت."
-        ],
-        "impact": "تشدید درگیری‌های نظامی و تهدید به مسدودسازی نفت، شالوده ظرفیت اقتصادی رژیم را تضعیف کرده و ثبات داخلی و معیشت مردم را در معرض آسیب جدی قرار می‌دهد.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-oil-prices-trump-hormuz-israel-rcna262670",
-        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-oil-prices-trump-hormuz-israel-rcna262670",
-        "image": null,
-        "timestamp": 1773149820.0
     }
 ]
