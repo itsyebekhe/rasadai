@@ -306,6 +306,24 @@
         "timestamp": 1773478850.0
     },
     {
+        "title_fa": "خبر اختصاصی رویترز: ترامپ تلاش‌ها برای مذاکره آتش‌بس با ایران را رد کرد",
+        "title_en": "Exclusive: Trump rejects efforts to launch Iran ceasefire talks, sources say",
+        "summary": [
+            "رویترز گزارش می‌دهد که دولت رئیس‌جمهور دونالد ترامپ تلاش متحدان منطقه‌ای را برای آغاز مذاکرات آتش‌بس در جنگی که دو هفته پیش با حمله‌ای گسترده آغاز شد، رد کرده است.",
+            "رد کوتاه‌آمدن آمریکا مسیر دیپلماسی را محدود می‌کند و سیاست سخت‌گیرانه واشینگتن را که اهرم‌های فشار خارجی را حفظ می‌کند تقویت می‌نماید؛ این امر شانس توقف سریع خشونت را کاهش می‌دهد.",
+            "ادامه موضع‌گیری سخت آمریکا پیامدهای داخلی برای حکومت ایران دارد: افزایش هزینه‌های اقتصادی و انسانی، تضعیف بیشتر مشروعیت نظام و تشدید ریسک بی‌ثباتی سیاسی در کوتاه‌مدت."
+        ],
+        "impact": "رد تلاش‌های میانجی‌گرانه توسط آمریکا شانس آتش‌بس فوری را به‌طور قابل‌توجهی کاهش می‌دهد و مسیر به‌سمت تشدید نظامی و فشارهای خارجی را باز نگه می‌دارد.",
+        "tag": "آتش‌بس",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/trump-rejects-efforts-launch-iran-ceasefire-talks-sources-say-2026-03-14/",
+        "clean_url": "https://www.reuters.com/world/middle-east/trump-rejects-efforts-launch-iran-ceasefire-talks-sources-say-2026-03-14",
+        "image": "http://www.bing.com/th?id=OVFT.__0TM8Pizhxg_NAvqE4Rvy&pid=News",
+        "timestamp": 1773478020.0
+    },
+    {
         "title_fa": "تهران بندر پرتردد خاورمیانه را تهدید می‌کند؛ جنگ وارد هفته سوم شد",
         "title_en": "Tehran threatens Middle East's busiest port as Iran war enters its third week",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.theguardian.com/world/2026/mar/10/iranian-regime-is-not-weakening-in-face-of-us-israel-onslaught-but-becoming-more-defiant",
         "image": null,
         "timestamp": 1773172860.0
-    },
-    {
-        "title_fa": "گزارش زنده: تیراندازی به کنسولگری آمریکا؛ چاک شومر خواستار بررسی اعتصاب مدارس شد",
-        "title_en": "Live updates: Shots fired at U.S. consulate; Schumer demands probe of school strike",
-        "summary": [
-            "خبر زنده از وقوع تیراندازی به کنسولگری آمریکا خبر می‌دهد؛ عنوان فاقد جزئیات درباره تلفات، انگیزه یا عاملان است و نیاز فوری به روشن‌سازی از سوی مقامات امنیتی وجود دارد.",
-            "چاک شومر، رهبر اکثریت سنا، خواستار تحقیق درباره اعتصاب مدارس شده است که فشار سیاسی برای پاسخگویی محلی و بررسی نحوه مدیریت سیستم آموزشی را افزایش می‌دهد.",
-            "گزارش اشاره‌ای به نقش تحریم‌ها یا فشار خارجی ندارد و نامی از روسیه، چین یا کره‌شمالی برده نشده؛ همچنین هیچ نشانه‌ای از ارتباط با اعتراضات داخلی یا بحران اقتصادی در عنوان مشاهده نمی‌شود—بنابراین نباید پیوندی بدون شواهد ساخت."
-        ],
-        "impact": "کوتاه‌مدت: این حادثه می‌تواند فشار امنیتی و سیاسی فوری بر نهادهای مسئول تولد کند و درخواست‌های شفاف‌سازی و پاسخ سریع را تشدید نماید؛ اما بدون داده‌های بیشتر، پیامد دیپلماتیک و راهبردی بلندمدت نامشخص است.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "NBC4 Washington",
-        "url": "https://www.newsweek.com/us-consulate-shooting-canada-toronto-update-11653215",
-        "clean_url": "https://www.newsweek.com/us-consulate-shooting-canada-toronto-update-11653215",
-        "image": null,
-        "timestamp": 1773169481.0
     }
 ]
