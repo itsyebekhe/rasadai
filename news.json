@@ -288,6 +288,24 @@
         "timestamp": 1773565406.0
     },
     {
+        "title_fa": "ترامپ: ایران آماده توافق برای پایان جنگ است؛ تهران می‌گوید گفت‌وگو نیست",
+        "title_en": "Trump suggests Iran ready to end war as Tehran sees no talks",
+        "summary": [
+            "ترامپ اعلام کرده ایران آماده انعقاد توافق برای پایان دادن به جنگ است، اما آمریکا دنبال شروط بهتر است که به معنای ادامه فشار سیاسی و دیپلماتیک است.",
+            "مقامات تهران می‌گویند هیچ گفت‌وگویی در جریان نیست؛ تناقض بیانی واشنگتن و تهران احتمالاً بن‌بست مذاکراتی را تأیید می‌کند.",
+            "این وضعیت نشان می‌دهد تنش‌ها کاهش نیافته‌اند و اختلال در تردد دریایی در تنگه هرمز ادامه دارد که پیامدهای منطقه‌ای و تجاری مشخصی برجای می‌گذارد."
+        ],
+        "impact": "این بن‌بستِ گفتاری حاکی از حفظ اهرم فشار آمریکا برای کسب امتیاز بیشتر است و در کوتاه‌مدت به ادامه اختلال دریایی و تشدید عدم‌قطعیت منطقه‌ای می‌انجامد.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-suggests-iran-ready-to-end-war-as-tehran-sees-no-talks/ar-AA1YEqNA",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-suggests-iran-ready-to-end-war-as-tehran-sees-no-talks/ar-AA1YEqNA",
+        "image": "http://www.bing.com/th?id=OVFT.Lo0hFiT8UC9FTjIEUzS7ZS&pid=News",
+        "timestamp": 1773564776.0
+    },
+    {
         "title_fa": "در تقابل ترامپ با ایران: موعظه رفاه در برابر قرآن",
         "title_en": "In Trump's Iran conflict, it's prosperity gospel vs. the Quran",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips",
         "image": null,
         "timestamp": 1773225540.0
-    },
-    {
-        "title_fa": "خلاصه‌ای از جنگ ایران تا کنون",
-        "title_en": "A Summary of the Iran War, So Far",
-        "summary": [
-            "مقاله به‌عنوان یک مرور، رویدادهای کلیدی میدانی و توالی تحولات درگیری را در یک چارچوب زمانی جمع‌بندی می‌کند و تصویری از شدت و مداومت نبردها ارائه می‌دهد.",
-            "فشارهای خارجی و تحریم‌ها به‌عنوان عامل ساختاری تضعیف‌کننده اقتصاد و منابع دولتی برجسته شده‌اند؛ این فشارها انسجام سیاسی و توان نظامی رژیم را به‌صورت بلندمدت تضعیف می‌کنند.",
-            "پیوند مستقیم بین مدیریت اقتصادی ضعیف، افزایش نارضایتی داخلی و ریسک تشدید اعتراضات یا بی‌ثباتی اجتماعی مورد تأکید قرار گرفته است؛ دولت فعلی، با عملکرد ضعیف در مهار تبعات جنگ، اعتبار و کفایت مدیریت را از دست داده است."
-        ],
-        "impact": "تداوم درگیری‌ها همراه با فشارهای اقتصادی ساختاری، ظرفیت بقای سیاسی و امنیتی رژیم را کاهش می‌دهد و احتمال تشدید خشونت داخلی یا فروپاشی کنترل دولتی را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Geopolitical Futures",
-        "url": "https://geopoliticalfutures.com/a-summary-of-the-iran-war-so-far/",
-        "clean_url": "https://geopoliticalfutures.com/a-summary-of-the-iran-war-so-far",
-        "image": null,
-        "timestamp": 1773225122.0
     }
 ]
