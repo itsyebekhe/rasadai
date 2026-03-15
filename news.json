@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "ترامپ مشتاق اعلام پیروزی؛ ایران زخمی اما هنوز کارت‌هایی دارد",
+        "title_en": "Trump is eager to declare victory, but a battered Iran still has cards to play",
+        "summary": [
+            "واشنگتن‌پست می‌نویسد ترامپ در تلاش است پیروزی سیاسی در مواجهه با ایران اعلام کند، اما تهران با وجود ضربه‌دیدگی هنوز ظرفیت‌هایی برای واکنش و پیچیده‌سازی اوضاع منطقه‌ای حفظ کرده است.",
+            "فشارها و تحریم‌های خارجی ساختار اقتصادی و سیاسی را تضعیف کرده‌اند؛ پیامدهای داخلی شامل کاهش درآمدهای ارزی، فشار بر بودجه دولتی و تشدید نارضایتی اجتماعی است که ثبات حکمرانی را تضعیف می‌کند.",
+            "ایران همچنان از اهرم‌های نامتقارن و منطقه‌ای به‌عنوان کارت‌های خود استفاده می‌کند که می‌توانند پاسخ‌های غیرخطی به اقدامات آمریکا و متحدانش ایجاد کنند و ریسک‌پذیری راهبردی را افزایش دهند."
+        ],
+        "impact": "اعلام زودهنگام «پیروزی» از سوی آمریکا می‌تواند فریبنده باشد؛ تهران، هرچند تضعیف‌شده، قادر است با ابزارهای نامتقارن هزینه‌های سیاسی و امنیتی بیشتری به بازیگران خارجی تحمیل کند و وضعیت منطقه را بی‌ثبات نگه دارد.",
+        "tag": "ایران",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/03/15/trump-two-weeks-war-dilemma/",
+        "clean_url": "https://www.washingtonpost.com/politics/2026/03/15/trump-two-weeks-war-dilemma",
+        "image": null,
+        "timestamp": 1773570706.0
+    },
+    {
+        "title_fa": "ادعای سپاه پاسداران: حملات موشکی سنگین به تل‌آویو؛ سرنوشت بنیامین نتانیاهو «نامعلوم»",
+        "title_en": "Iran's IRGC claims heavy missile strikes on Tel Aviv: Netanyahu's fate \"unknown\"",
+        "summary": [
+            "سپاه پاسداران ادعا کرده حملات موشکی سنگینی به تل‌آویو انجام شده و سرنوشت بنیامین نتانیاهو، نخست‌وزیر اسرائیل، «نامعلوم» اعلام شده؛ این ادعاها تا کنون مستقل تأیید نشده‌اند.",
+            "چنین ادعایی می‌تواند فوراً به تشدید واکنش‌های تلافی‌جویانه و افزایش فشار و تحریم‌های بین‌المللی منجر شود که ساختارهای اقتصادی و سیاسی رژیم را بیشتر تضعیف می‌کند.",
+            "گزارش اشاره مستقیمی به تأثیر بر اعتراضات داخلی یا وضعیت اقتصادی نکرده؛ بنابراین پیوند قطعی میان این ادعا و نارضایتی عمومی قابل اثبات نیست."
+        ],
+        "impact": "پیامد فوری این ادعا خطر تشدید درگیری منطقه‌ای و افزایش انزوای بین‌المللی است که توانایی اقتصادی و ثبات سیاسی رژیم را بیشتر تحت فشار قرار می‌دهد.",
+        "tag": "موشکی",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "NEWS.am",
+        "url": "https://news.am/eng/news/936463.html",
+        "clean_url": "https://news.am/eng/news/936463.html",
+        "image": null,
+        "timestamp": 1773569580.0
+    },
+    {
+        "title_fa": "اعلام موج پنجاه‌ویکم عملیات «وعده راست ۴» توسط سپاه پاسداران",
+        "title_en": "Iran's IRGC announces 51st wave of Operation \"True Promise 4\"",
+        "summary": [
+            "سپاه پاسداران موج پنجاه‌ویکم از عملیات موسوم به «وعده راست ۴» را اعلام کرد.",
+            "این اعلام نشان‌دهنده ادامه یک رشته عملیات متوالی است و تأکیدی روشن بر اولویت‌بخشی دستگاه امنیتی به اقدامات نظامی-امنیتی.",
+            "جزئیات هدف، گستره و پیامدهای این موج منتشر نشده؛ تکرار اعلام موج‌ها می‌تواند نشانه‌ی تمرکز بیشتر حکومت بر امنیت به‌جای حل بحران‌های داخلی باشد."
+        ],
+        "impact": "تداوم اعلام موج‌های متعدد احتمالاً منابع و توجه حکومت را از بحران‌های اقتصادی و نارضایتی‌های داخلی منحرف کرده و به فرسایش بیشتر مشروعیت رژیم دامن می‌زند.",
+        "tag": "نظامی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "NEWS.am",
+        "url": "https://news.am/eng/news/936457.html",
+        "clean_url": "https://news.am/eng/news/936457.html",
+        "image": null,
+        "timestamp": 1773569400.0
+    },
+    {
         "title_fa": "در تقابل ترامپ با ایران: موعظه رفاه در برابر قرآن",
         "title_en": "In Trump's Iran conflict, it's prosperity gospel vs. the Quran",
         "summary": [
@@ -124,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRG92TlpPWDJuUjRQMmVZNEJLX2JTbUx0RHBVTTFkVGszMmNraDJzZFlTNGVJNXBJcTNlV3dremxWaXZXLWxscG8tVGwwT1JoMFJuUkotOGFvY2FNWV95bE95OUdOY3FVN2lLM1hybkFBZHp2WGVSd0lINWd2SVZJY08xOFk0V2NiZzA1OW9mMlZyMjNuV2E5WTVFNmh2dFUzamZtY3VJdmZ6V1E0X1dxRFRrV0pTejNWcHhxeHNiRVpNZldRTnlKeUlOSzQ1cmlMZjJF",
         "image": null,
         "timestamp": 1773547087.0
+    },
+    {
+        "title_fa": "اسرائیل بسته اضطراری ۸۲۷ میلیون دلاری برای جنگ با ایران را تصویب کرد",
+        "title_en": "US-Iran War News Live: Israel approves $827 million war funding as Iran conflict intensifies",
+        "summary": [
+            "اسرائیل بسته اضطراری ۸۲۷ میلیون دلاری برای خریدهای امنیتی شامل مهمات، سامانه‌های پیشرفته و تجدید ذخایر رزمی تصویب کرد.",
+            "این اقدام هم‌زمان با وارد شدن تقابل با ایران به هفته سوم، نشان‌دهنده تشدید عملیات و افزایش آمادگی رزمی طرف مقابل است.",
+            "تقویت بودجه نظامی اسرائیل فشار خارجی بر حکومت ایران را افزایش می‌دهد و هزینه‌های دفاعی و ریسک‌های سیاسی-اقتصادی تهران را تشدید می‌کند."
+        ],
+        "impact": "این تأمین مالی فوری توان اقدام نظامی طرف مقابل را بالا می‌برد و احتمالاً ثبات داخلی رژیم ایران را از طریق افزایش فشار نظامی و بار اقتصادی کاهش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/us-israel-iran-war-news-live-updates-missile-drone-attacks-duabi-uae-strait-of-hormuz-15th-march-2026-liveblog-13860603.html",
+        "clean_url": "https://www.moneycontrol.com/world/us-israel-iran-war-news-live-updates-missile-drone-attacks-duabi-uae-strait-of-hormuz-15th-march-2026-liveblog-13860603.html",
+        "image": "http://www.bing.com/th?id=OVFT.XwdwoZqRa3cadek3myUtIi&pid=News",
+        "timestamp": 1773546840.0
     },
     {
         "title_fa": "مرکز پژوهش‌های فضایی ایران در حملات به‌ شدت آسیب دید",
@@ -286,6 +358,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iran-is-ready-to-negotiate-a-ceasefire-but-he-s-not-ready-to-make-a-deal/ar-AA1YD8l5",
         "image": null,
         "timestamp": 1773529925.0
+    },
+    {
+        "title_fa": "دولت‌های خلیج موشک‌ها و پهپادهای جدید را رهگیری کردند؛ ایران تهدید به گسترش جنگ کرد",
+        "title_en": "Gulf states intercept new missiles and drones as Iran threatens to widen war",
+        "summary": [
+            "دولت‌های عرب خلیج فارس روز یکشنبه گزارش دادند مجموعه‌ای از موشک‌ها و پهپادها را رهگیری کرده‌اند؛ این حملات در پی تهدید ایران برای گسترش عملیاتش در منطقه ثبت شد.",
+            "گزارش اشاره می‌کند که اسرائیل و آمریکا در فوریه اقداماتی علیه اهدافی در ایران انجام دادند و این امر به تشدید تنش‌ها بین تهران و بازیگران منطقه‌ای و فرامنطقه‌ای انجامیده است.",
+            "تشدید فعالیت‌های نظامی می‌تواند احتمال افزایش فشارهای بین‌المللی و تحریم‌ها را بالا ببرد و به تشدید مشکلات اقتصادی داخلی منجر شود؛ گزارش حاضر اما اشاره‌ای به اعتراضات داخلی یا جزئیات خسارت‌ها ندارد."
+        ],
+        "impact": "افزایش حملات و تهدید تهران ریسک انزوای بین‌المللی و تشدید فشارهای اقتصادی بر رژیم را بالا می‌برد و در کوتاه‌مدت ثبات سیاسی-امنیتی داخلی را تضعیف خواهد کرد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Associated Press on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-urges-us-allies-to-send-warships-to-strait-of-hormuz-as-iran-vows-to-retaliate/ar-AA1YEcKg?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-urges-us-allies-to-send-warships-to-strait-of-hormuz-as-iran-vows-to-retaliate/ar-AA1YEcKg",
+        "image": "/th?id=OVFT.0Dt3ELYM04yVKdR0BKbXsi&pid=News",
+        "timestamp": 1773525060.0
     },
     {
         "title_fa": "اختصاصی: مقام‌های آمریکایی می‌گویند اسرائیل با کمبود بحرانی رهگیرها روبه‌رو است",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/11/iran-war-live-updates-us-israel-strait-hormuz/89093377007",
         "image": null,
         "timestamp": 1773211080.0
-    },
-    {
-        "title_fa": "ایران کشتی‌های تجاری، فرودگاه دبی و تاسیسات نفتی را هدف قرار داد؛ نگرانی‌ها از انرژی جهانی افزایش یافت",
-        "title_en": "Iran targets commercial ships, Dubai airport and oil facilities as concerns grow over global energy",
-        "summary": [
-            "نیروی نظامی ایران با پهپاد و موشک در خلیج فارس به کشتی‌های تجاری و نزدیکی فرودگاه بین‌المللی دبی حمله کرد؛ دو پهپاد نزدیک فرودگاه اصابت کردند، چهار نفر زخمی شدند و یک کشتی باری تایلندی در تنگه هرمز دچار حریق شد و دست‌کم سه خدمه مفقود شده‌اند.",
-            "حملات هوایی آمریکا و اسرائیل به جمهوری اسلامی ادامه دارد و گزارش‌های اطلاعاتی اسرائیل حاکی از احتمال جراحت مجتبی خامنه‌ای و کشته شدن پدر و همسر او در روز اول درگیری‌ها است؛ این تحولات فشار مستقیم بر رهبری نظام را نشان می‌دهد.",
-            "فرماندهی مشترک ایران اعلام آغاز هدف‌گیری بانک‌ها و مؤسسات مالی در منطقه کرده؛ با توقف مؤثر ترافیک کشتیرانی در تنگه هرمز و تمرکز روی میدان‌ها و پالایشگاه‌های نفتی، شوک اقتصادی منطقه‌ای، مخاطرات مالی و فشارهای داخلی بر حکمرانی افزایش می‌یابد."
-        ],
-        "impact": "ترکیب حملات دریایی، تهدید به هدف‌گیری نهادهای مالی و فشارهای هوایی خارجی توان اقتصادی و سیاسی رژیم را تضعیف کرده و احتمال تشدید سرکوب و بحران مشروعیت داخلی را بالا می‌برد.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Pioneer Press",
-        "url": "https://www.twincities.com/2026/03/11/us-iran-war-strikes/",
-        "clean_url": "https://www.twincities.com/2026/03/11/us-iran-war-strikes",
-        "image": "http://www.bing.com/th?id=OVFT.epDa3geg68jMx4xfCuPBfi&pid=News",
-        "timestamp": 1773210900.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: جنگ با ایران؛ حمله به کشتی‌های تجاری و فرودگاه دبی و تهدید تهران علیه بانک‌ها",
-        "title_en": "Live Updates: Iran war brings new attacks on commercial ships, Dubai airport, as Tehran warns banks are next",
-        "summary": [
-            "دولت ترامپ اعلام کرده «در جنگ با ایران پیروز است»؛ در واکنش تهران سه کشتی نزدیک تنگه هرمز و فرودگاه دبی هدف قرار گرفتند و جمهوری اسلامی هشدار داده بانک‌ها هدف بعدی خواهند بود.",
-            "این حملات مستقیم به زیرساخت‌های حمل‌ونقل و تجارت، ریسک اختلال در خطوط تجاری خلیج فارس، افزایش هزینه‌های بیمه و فشار اقتصادی بر بازیگران منطقه‌ای و بین‌المللی را بالا می‌برد و می‌تواند فشار خارجیِ موجود بر تهران را تشدید کند.",
-            "در سطح داخلی، تشدید درگیری خارجی می‌تواند بهِ پوشش دادن ناکامی‌های اقتصادی و سیاسی حکومت منجر شود اما هم‌زمان احتمال واکنش نظامی یا دیپلماتیک شدیدتر از سوی آمریکا و متحدان را افزایش می‌دهد."
-        ],
-        "impact": "این حوادث به‌سرعت امنیت دریایی و اقتصادی در خلیج فارس را تضعیف می‌کند و شانس برخورد مستقیم بین تهران و قدرت‌های خارجی را بالا می‌برد.",
-        "tag": "تصاعد",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-strait-of-hormuz-ship-attacks-persian-gulf-drones-missiles/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-strait-of-hormuz-ship-attacks-persian-gulf-drones-missiles",
-        "image": null,
-        "timestamp": 1773210420.0
-    },
-    {
-        "title_fa": "حملات به کشتی‌ها در گذرگاه کلیدی و «شدیدترین» حملات ایران؛ پاسخ‌های آمریکا و اسرائیل",
-        "title_en": "Live updates: At least 3 ships attacked near key shipping channel as Iran launches its 'most intense' strikes of the war",
-        "summary": [
-            "حداقل ۳ کشتی حوالی یک گذرگاه تجاری کلیدی هدف قرار گرفتند؛ تهران این عملیات را «شدیدترین» حملات در جنگ نامیده و هم‌زمان آمریکا و اسرائیل نیز به عملیات نظامی دست زدند.",
-            "شدت‌گیری درگیری‌ها می‌تواند به تشدید انزوای بین‌المللی و افزایش فشارهای دیپلماتیک و اقتصادی (از جمله احتمال تحریم‌های جدید) علیه رژیم منجر شود و ساختار اقتصادی آسیب‌پذیر را بیشتر تضعیف کند.",
-            "این رویارویی نظامی نشان‌دهنده ناتوانی مدیریت فعلی در کنترل امنیت است و خطر دارد که پیامدهای اقتصادی و امنیتی آن نارضایتی عمومی و فشارهای سیاسی داخلی را تشدید کند."
-        ],
-        "impact": "افزایش حملات و هدف‌گیری خطوط دریایی احتمالاً فشار دیپلماتیک و اقتصادی بر رژیم را بالا می‌برد و موقعیت داخلی آن را بیشتر تضعیف می‌کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-israel-us-lebanon-tehran-oil-prices-hormuz-rcna262889",
-        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-israel-us-lebanon-tehran-oil-prices-hormuz-rcna262889",
-        "image": null,
-        "timestamp": 1773209880.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: افزایش نگرانی‌های جهانی انرژی پس از توقف مؤثر ترافیک کالا در تنگه هرمز توسط ایران",
-        "title_en": "Live updates: Global energy concerns mount as Iran effectively stops cargo traffic in the Strait of Hormuz",
-        "summary": [
-            "ایران عملاً ترافیک کالا در تنگه هرمز را متوقف کرده است؛ خبر از افزایش فوری نگرانی‌های جهانی درباره عرضه و امنیت خطوط انرژی می‌دهد.",
-            "این اقدام می‌تواند رژیم را در معرض تشدید فشار بین‌المللی و احتمال واکنش‌های دریایی و اقتصادی قرار دهد؛ به‌طور ساختاری امنیت خارجی رژیم را هدف می‌گیرد و ریسک منزوی‌شدن را افزایش می‌دهد.",
-            "اختلال در گذرگاه حیاتی دریایی احتمالاً درآمدهای صادراتی، هزینه‌های واردات و بیمه حمل‌ونقل را افزایش می‌دهد و حساسیت‌های اقتصادی داخلی را بالا برده که می‌تواند خشم عمومی و ناتوانی دولت در ارائه خدمات را تشدید کند."
-        ],
-        "impact": "توقف مؤثر ترافیک در تنگه هرمز آزمونی جدی برای تاب‌آوری رژیم در مقابل فشارهای بین‌المللی است و احتمالاً ثبات اقتصادی و سیاسی داخلی را بیشتر تضعیف می‌کند.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump--03-11-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump--03-11-2026",
-        "image": "http://www.bing.com/th?id=OVFT.zD5Kag4IxwbylD0UUhMSJy&pid=News",
-        "timestamp": 1773205560.0
-    },
-    {
-        "title_fa": "چرا چین و روسیه در شتاب برای کمک به ایران نیستند؟",
-        "title_en": "Why Are China and Russia Not Rushing to Help Iran?",
-        "summary": [
-            "عنوان نشان می‌دهد که پکن و مسکو از ارائه واکنش سریع و همه‌جانبه به تهران خودداری می‌کنند؛ این خودداری، نفسِ یک تکیه‌گاه بین‌المللی فوری را از رژیم می‌گیرد و اثربخشی فشارهای خارجی را بالا می‌برد.",
-            "چین و روسیه، در نقش توان‌بخش‌های بالقوه برای بقای رژیم، فعلاً با احتیاط عمل می‌کنند؛ این احتیاط نشان‌دهنده محاسبه هزینه-فایده، اجتناب از مواجهه مستقیم با غرب و محدودسازی تعهدات راهبردی است که گزینه‌های خارجی تهران را تنگ‌تر می‌کند.",
-            "عدم کمک سریع بیرونی، بار بحران اقتصادی و سیاسی را روی ساختار قدرت داخلی مضاعف می‌کند؛ سوءمدیریت اقتصادی و نارضایتی‌های عمومی، در نبود خط تنفس خارجی، فشارهای داخلی بر رژیم را تشدید خواهد کرد."
-        ],
-        "impact": "خروج یا خفیف ماندن حمایت پکن و مسکو، کارآیی تحریم‌ها و فشارهای خارجی را افزایش می‌دهد و فضای مانور تهران را برای عبور از شوک‌های داخلی و خارجی به‌طور ملموسی تنگ‌تر می‌سازد.",
-        "tag": "حمایت",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Carnegie Endowment for International Peace",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQl96a2NsaUNYWnpQWnhVek11aWNETnlBUl81YV8tMmloYzF1VzB2RkhsNE1QbTUyTGUybXo3UVVqX2NFM2hxdHoxT3RzSGRZZW8xSV9qSDZsMXFwQjc0Q2YzY2xKbTcxbGxxOEU3a3htcjlWNHFGaWtYVUJuaVZHcUphRWJMSDZvbkhDX0tldw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQl96a2NsaUNYWnpQWnhVek11aWNETnlBUl81YV8tMmloYzF1VzB2RkhsNE1QbTUyTGUybXo3UVVqX2NFM2hxdHoxT3RzSGRZZW8xSV9qSDZsMXFwQjc0Q2YzY2xKbTcxbGxxOEU3a3htcjlWNHFGaWtYVUJuaVZHcUphRWJMSDZvbkhDX0tldw",
-        "image": null,
-        "timestamp": 1773205394.0
     }
 ]
