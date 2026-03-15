@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "موشک‌های ساخته شده از واژه‌ها: چگونه روایت‌های رسانه‌های غربی منازعه ایران–اسرائیل–آمریکا را شکل می‌دهند",
+        "title_en": "Missiles Made of Words: How Western Media Narratives Shape the Iran–Israel–US Conflict",
+        "summary": [
+            "مقاله بر این نکته تمرکز دارد که روایت‌های رسانه‌های غربی به شکل غیرمستقیم به عنوان ابزار سیاست‌ورزی عمل کرده و چارچوب ادراکی و گفتمانی دربارۀ منازعه ایران–اسرائیل–آمریکا را تعیین می‌کنند.",
+            "تحلیل اثر فشارها/تحریم‌ها: روایت‌های رسانه‌ای می‌توانند زمینهٔ سیاسی و افکارعمومی لازم برای اعمال فشارهای دیپلماتیک و اقتصادی را فراهم کنند؛ این امر ساختار ثبات رژیم را از طریق محدود کردن فضای مانور دیپلماتیک و اقتصادی تضعیف می‌سازد.",
+            "پیامدهای داخلی و واقع‌گرایی: حتی اگر مقاله به شواهد میدانی مشخصی اشاره نکند، چارچوب‌بندی رسانه‌ای می‌تواند پذیرش داخلی سیاست‌ها را تغییر دهد و فضای تصمیم‌سازی را تنگ‌تر سازد؛ این امر برای تحلیل‌گر استراتژیک نشان‌دهندۀ مخاطراتی است که از عرصهٔ اطلاع‌رسانی سرچشمه می‌گیرد."
+        ],
+        "impact": "روایت‌های غربی می‌توانند مشروعیت‌زدایی و توجیه اقدامات ضدامنیتی علیه ایران را تسهیل کرده و فضای دیپلماتیک و اقتصادی کشور را محدود کنند.",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1RW1HWDdoZFpXU2VVU2VxdzB0T1B3ZWlNZHBabG5NcGM3ZE5oUks1NF9oTENkdTM2YlNzWmFIZHlZbGJUdEI0NW85Rl90elFlcFhYRDNBTjRTRURoaFNJbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1RW1HWDdoZFpXU2VVU2VxdzB0T1B3ZWlNZHBabG5NcGM3ZE5oUks1NF9oTENkdTM2YlNzWmFIZHlZbGJUdEI0NW85Rl90elFlcFhYRDNBTjRTRURoaFNJbA",
+        "image": null,
+        "timestamp": 1773593555.0
+    },
+    {
         "title_fa": "موج جدید حملات هوایی اسرائیل به ایران؛ پاسخ آتش به اهداف آمریکایی و اسرائیلی",
         "title_en": "Israel said it had launched a new wave of airstrikes on Iran on Sunday, while Iranian forces said they were firing at U.S. and Israeli targets as fears grew about the economic fallout from the Middle East war, now in its third week. Follow live updates.",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://www.npr.org/2026/03/15/nx-s1-5748472/us-military-six-killed-iran-war",
         "image": null,
         "timestamp": 1773572408.0
+    },
+    {
+        "title_fa": "دستیار ترامپ: جنگ با ایران در «هفته‌ها» تمام می‌شود؛ قیمت بنزین جهش کرد — به‌روزرسانی زنده",
+        "title_en": "Trump aide says Iran war will end in 'weeks,' gas prices spike: Live updates",
+        "summary": [
+            "دستیار ترامپ مدعی شد جنگ با ایران ظرف «هفته‌ها» به پایان خواهد رسید.",
+            "گزارش‌ها از جهش قیمت بنزین خبر می‌دهند که فشار اقتصادی بر شهروندان را افزایش می‌دهد.",
+            "خبر به صورت «به‌روزرسانی‌های زنده» منتشر شده و جزئیات تکمیلی و قابل‌اتکای میدانی محدود است."
+        ],
+        "impact": "ترکیب اظهارات نظامی از سوی مقام آمریکایی و شوک قیمتی می‌تواند فشار سیاسی و اقتصادی بر ساختار حکمرانی ایران را تشدید کند و پتانسیل نارضایتی عمومی را افزایش دهد.",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "azcentral.com",
+        "url": "https://www.azcentral.com/live-story/news/world/2026/03/15/iran-war-live-updates-trump-latest/89164437007/",
+        "clean_url": "https://www.azcentral.com/live-story/news/world/2026/03/15/iran-war-live-updates-trump-latest/89164437007",
+        "image": "http://www.bing.com/th?id=OVFT.M12iYOgASSwMOJ7Pnm0LNC&pid=News",
+        "timestamp": 1773571800.0
     },
     {
         "title_fa": "ایران جنگ اقتصادی را برای دوام آوردن در برابر آمریکا و اسرائیل آغاز کرده",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://thethaiger.com/news/national/us-israel-iran-war-overview-effects-on-thailand",
         "image": null,
         "timestamp": 1773226620.0
-    },
-    {
-        "title_fa": "معدن‌گذاری انفجاری ایران در تنگه هرمز؛ تشدید جنگ و پیامدها",
-        "title_en": "Iran is escalating the war by placing explosive mines along a key oil route. Here are the risks.",
-        "summary": [
-            "ایران با قرار دادن مین‌های انفجاری در تنگه هرمز از قابلیت کنترل مسیر حیاتی نفتی برای هدف قرار دادن شناورها استفاده کرده و در عمل مسیر را مسدود کرده است.",
-            "این اقدام بلافاصله خطر تقابل مستقیم با آمریکا و اسرائیل و اختلال در عرضه جهانی انرژی را بالا می‌برد و هزینه‌های بیمه و عملیات عبوری کشتی‌ها را افزایش خواهد داد.",
-            "معدن‌گذاری و تشدید نظامی احتمال اعمال فشار و تحریم‌های بیشتر خارجی را افزایش می‌دهد، بار مالی و تورمی را بر اقتصاد تحت‌فشار ایران سنگین‌تر می‌کند و نشان‌دهنده اولویت‌دادن نظام به ماجراجویی منطقه‌ای به‌جای اصلاح ساختاری داخل است که می‌تواند نارضایتی داخلی را بیشتر کند."
-        ],
-        "impact": "این اقدام ریسک تبدیل تنگه هرمز به کانون تقابل مستقیم نظامی و اختلال بلندمدت در صادرات انرژی جهانی را به‌طور قابل‌توجهی افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/03/11/middleeast/iran-mine-strait-of-hormuz-intl",
-        "clean_url": "https://www.cnn.com/2026/03/11/middleeast/iran-mine-strait-of-hormuz-intl",
-        "image": null,
-        "timestamp": 1773226140.0
-    },
-    {
-        "title_fa": "چگونه جنگ در ایران سفر هوایی را مختل کرده — و توصیه‌ها برای مسافران",
-        "title_en": "How the Iran war is disrupting air travel — and advice if you're planning a trip",
-        "summary": [
-            "افزایش قیمت نفت و سوخت جت ناشی از جنگ در ایران باعث شده خطوط هوایی برای پوشش هزینه‌ها بلیت‌ها را گران کنند و مسافران حتی در خارج از خاورمیانه را نگران سازند.",
-            "اختلال در شبکه پروازی، افزایش مسیرهای طولانی‌تر و احتمال کاهش ظرفیت روی برخی مسیرها هزینه، زمان سفر و قابلیت پیش‌بینی را برای مسافران افزایش می‌دهد.",
-            "افزایش هزینه‌های حمل‌ونقل هوایی به‌عنوان یک ضربه اقتصادی کوتاه‌مدت عمل می‌کند؛ اگر فشارهای خارجی یا تحریم‌ها همزمان تشدید شود، آثار ساختاری بر ثبات اقتصادی و سیاسی می‌تواند محسوس‌تر شود."
-        ],
-        "impact": "افزایش مستمر هزینه سوخت جت و تحمیل آن بر خطوط هوایی، فشار هزینه‌ای را به شهروندان و بخش‌های حساس اقتصاد وارد می‌کند و ظرفیت دولت برای مدیریت بحران‌های متعدد را کاهش می‌دهد.",
-        "tag": "هوانوردی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips",
-        "clean_url": "https://www.npr.org/2026/03/11/nx-s1-5742438/iran-war-flight-airline-travel-tips",
-        "image": null,
-        "timestamp": 1773225540.0
     }
 ]
