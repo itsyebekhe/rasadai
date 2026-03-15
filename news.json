@@ -18,6 +18,24 @@
         "timestamp": 1773599700.0
     },
     {
+        "title_fa": "جنگ در ایران: پیشرفت عملیاتی اما چالش‌ها باقی‌اند",
+        "title_en": "The War in Iran: Operational Progress, but Challenges Remain",
+        "summary": [
+            "گزارش اشاره می‌کند که سبد تسلیحاتی آمریکا به‌طور قابل توجهی به سمت تسلیحات کوتاه‌برد وزن داده شده است، ناشی از اتکای همزمان به جنگنده‌های پیشرفته برای نفوذ به فضای دشمن.",
+            "این الگو نشان می‌دهد راهبرد آمریکایی اولویت بر برتری هوایی و عملیات در برد نزدیک است که نحوه طراحی درگیری‌ها و نیازهای مقابله‌ای در منطقه را شکل می‌دهد.",
+            "متن منبع هیچ اشاره‌ای به تأثیر تحریم‌ها، نقش حمایتی روسیه/چین/کره‌شمالی یا وضعیت اعتراضات داخلی ندارد؛ بنابراین نمی‌توان از این گزارش به‌تنهایی درباره پیامدهای اقتصادی-سیاسی داخلی یا ثبات رژیم نتیجه‌گیری کرد."
+        ],
+        "impact": "برای ایران، تمرکز آمریکا بر تسلیحات کوتاه‌برد همراه با اتکا به جنگنده‌های نفوذگر ضرورت تقویت دفاع هوایی و آماده‌سازی برای رویارویی‌های منطقه‌ای در برد نزدیک را برجسته می‌کند.",
+        "tag": "تسلیحات",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Institute for the Study of War",
+        "url": "https://www.cnas.org/publications/commentary/insights-sustaining-war-in-iran",
+        "clean_url": "https://www.cnas.org/publications/commentary/insights-sustaining-war-in-iran",
+        "image": null,
+        "timestamp": 1773598157.0
+    },
+    {
         "title_fa": "جنگ ایران ممکن است در آستانه تشدید باشد",
         "title_en": "The Iran war may be about to escalate",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://www.bloomberg.com/graphics/2026-iran-war-middle-east-strike-targets-map",
         "image": null,
         "timestamp": 1773581641.0
+    },
+    {
+        "title_fa": "مقامات ترامپ و اسرائیل: جنگ در ایران هفته‌ها ادامه خواهد داشت",
+        "title_en": "Trump officials and Israel indicate fighting in Iran will continue for weeks",
+        "summary": [
+            "مقامات دولت ترامپ می‌گویند انتظار دارند جنگ با ایران طی هفته‌ها یا «زودتر» به پایان برسد؛ ترامپ اعلام کرده آمریکا هنوز آماده توافق برای خاتمه درگیری نیست و چند مقام هم گفته‌اند کشورهای دیگر احتمالاً در بازگشایی تنگه هرمز کمک خواهند کرد.",
+            "ارتش اسرائیل به CNN اعلام کرده عملیات دست‌کم سه هفته دیگر ادامه خواهد داشت؛ آمار کشته‌ها طبق گزارش‌ها شامل بیش از ۱٬۳۰۰ کشته در ایران و دست‌کم ۸۵۰ کشته در لبنان است و تلفات غیرنظامیان و خسارت شهری در تهران ثبت شده است.",
+            "اختلال در جریان نفت و افزایش قیمت بنزین (افزایش ۲۴٪ در آمریکا) به همراه هشدار اقتصاددانان درباره احتمال رکود، نشان می‌دهد درآمدهای نفتی و ثبات اقتصادی رژیم تحت فشار قرار دارند؛ وزیر خارجه ایران گفته تهران آماده گفتگو درباره دسترسی امن به تنگه هرمز شده است."
+        ],
+        "impact": "ادامه درگیری و اختلال نفتی ظرف هفته‌های آینده ساختار اقتصادی و مشروعیت رژیم را تضعیف کرده و ریسک تشدید بحران داخلی و فشار بر نهادهای امنیتی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-15-26",
+        "clean_url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-15-26",
+        "image": null,
+        "timestamp": 1773576660.0
     },
     {
         "title_fa": "وزیر خارجه ایران درخواست آتش‌بس را رد کرد: «دلیلی برای مذاکره با آمریکا» نمی‌بینیم",
@@ -412,6 +448,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-suggests-iran-ready-to-end-war-as-tehran-sees-no-talks/ar-AA1YEqNA",
         "image": "http://www.bing.com/th?id=OVFT.Lo0hFiT8UC9FTjIEUzS7ZS&pid=News",
         "timestamp": 1773564776.0
+    },
+    {
+        "title_fa": "تهدید ترامپ به حملات بیشتر به جزیره خارک؛ فشار برای بازگشایی تنگه هرمز",
+        "title_en": "Trump warns of more strikes on Iran's Kharg Island, pressures allies to secure oil chokepoint",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، تهدید کرد که ممکن است بارهای بیشتری جزیره خارک را هدف قرار دهد و گفت حملات قبلی بخش‌هایی از جزیره را «کاملاً نابود» کرده‌اند؛ این لحن تشدیدی آشکار نسبت به ادعای پیشین مبنی بر هدف‌گیری تنها سایت‌های نظامی است.",
+            "در هفته سوم درگیری‌ها، ترافیک در تنگه هرمز قطع مانده و بازار جهانی انرژی دچار آشفتگی شده است؛ گزارش‌ها حاکی است واشنگتن تلاش متحدان منطقه‌ای برای باز کردن کانال‌های مذاکره را نادیده گرفته و سپاه پاسداران موشک‌هایی به سمت اسرائیل و سه پایگاه آمریکا شلیک کرده است.",
+            "حمله به خارک به‌عنوان هاب اصلی صادرات نفت ایران و مسدود ماندن مسیرهای کشتیرانی درآمدهای نفتی را هدف گرفته است؛ این مسئله منابع ارزی حکومت را تضعیف و فشار اقتصادی-سیاسی داخلی را افزایش می‌دهد، و اظهارنظر ترامپ درباره احتمال کشته شدن مجتبی خامنه‌ای و تکذیب عباس عراقچی نشان‌دهنده فضای آشوب‌ناک در رأس حکومت است."
+        ],
+        "impact": "ادامه حملات به خارک و انسداد تنگه هرمز می‌تواند درآمدهای ارزی رژیم را به‌طور محسوس کاهش دهد و در کوتاه‌مدت ثبات سیاسی و اقتصادی حکومت را به خطر اندازد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-warns-more-strikes-irans-084405648.html",
+        "clean_url": "https://www.aol.com/articles/trump-warns-more-strikes-irans-084405648.html",
+        "image": "http://www.bing.com/th?id=OVFT.s9ed-4yG_t4ch6GhfLRqeS&pid=News",
+        "timestamp": 1773562740.0
     },
     {
         "title_fa": "در تقابل ترامپ با ایران: موعظه رفاه در برابر قرآن",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps",
         "image": null,
         "timestamp": 1773231206.0
-    },
-    {
-        "title_fa": "تورم در فوریه ثابت ماند؛ جنگ ایران قیمت بنزین را بالا برد",
-        "title_en": "Inflation held steady in February before Iran war drove up gas prices, CPI report shows",
-        "summary": [
-            "شاخص قیمت مصرف‌کننده در فوریه با نرخ سالانه 2.4٪ ثابت ماند (همانند ژانویه)، هسته‌ای 2.5٪؛ هزینه غذا 3.1٪ و غذا خوردن بیرون 3.9٪ رشد داشتند و پیش‌بینی اقتصاددانان برای فوریه 2.5٪ بود.",
-            "داده‌های گزارش دوره قبل از آغاز جنگ در اواخر فوریه را پوشش می‌دهد؛ از زمان آغاز جنگ، قیمت نفت و بنزین جهش کرده‌اند — بنزین در آمریکا حدود 0.60 دلار به ازای هر گالن (حدود 20٪) افزایش یافته و متوسط به 3.58 دلار رسیده است.",
-            "اقتصاددانان هشدار می‌دهند که افزایش قیمت انرژی می‌تواند روند کاهش تورم را معکوس کرده و به بخش‌های دیگر اقتصاد سرایت کند؛ پیامد مستقیم، فشار افزایش‌یافته بر درآمد واقعی خانوارها و تشدید ریسک‌های اقتصادی-سیاسی برای حکومت است."
-        ],
-        "impact": "شوک قیمتی ناشی از جنگ احتمالاً روند تفریط تورم را معکوس کرده و فشار معیشتی را افزایش می‌دهد که به تضعیف ساختاری ثبات سیاسی رژیم می‌انجامد.",
-        "tag": "تورم",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/cpi-report-today-february-2026-inflation-iran-war-trump/",
-        "clean_url": "https://www.cbsnews.com/news/cpi-report-today-february-2026-inflation-iran-war-trump",
-        "image": null,
-        "timestamp": 1773231180.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ ایران: ائتلاف ۳۲ کشور ذخایر نفتی را برای تثبیت عرضه فعال کرد",
-        "title_en": "Iran War Live Updates: Coalition of 32 Countries to Tap Oil Reserves to Shore Up Supply",
-        "summary": [
-            "ائتلافی متشکل از ۳۲ کشور برای مقابله با تهدید به اختلال عرضه ناشی از جنگ در خاورمیانه و حملات تلافی‌جویانه ایران، تصمیم به رهاسازی یا هماهنگی ذخایر استراتژیک نفتی گرفته است تا بازارها را تأمین کند.",
-            "اقدام مشترک کشورهای واردکننده و تولیدکننده نفت، عملاً توان تهران برای استفاده از تهدید تنگه هرمز به‌عنوان اهرم فشار اقتصادی را کاهش می‌دهد و ظرفیت این بازی ژئواکونومیک را تضعیف می‌کند.",
-            "در صورت ادامه اختلالات یا برخوردهای نظامی، کاهش صادرات نفتی بالقوه درآمدهای دولتی را محدود خواهد کرد و بار تورم و بیکاری را بر طبقه متوسط و پایین افزایش می‌دهد؛ این ضعف‌های اقتصادی می‌تواند نارضایتی‌های داخلی را تشدید کند."
-        ],
-        "impact": "فعال‌سازی ذخایر جهانى بُرد راهبردی ایران در ایجاد اختلال نفتی را کوتاه‌مدت محدود می‌کند و فشار اقتصادی و سیاسی بر حاکمیت را افزایش می‌دهد.",
-        "tag": "نفت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel/heres-the-latest",
-        "clean_url": "https://www.nytimes.com/live/2026/03/11/world/iran-war-news-trump-oil-israel/heres-the-latest",
-        "image": "https://static01.nyt.com/images/2026/03/11/multimedia/11iran-blog-carousel--vbgm/11iran-blog-carousel--vbgm-facebookJumbo.jpg",
-        "timestamp": 1773229980.0
-    },
-    {
-        "title_fa": "۱۲ روز: چگونه طرح ۲۰۲۵ ایران آمریکا و اسرائیل را در جنگی طولانی‌تر گیر انداخت",
-        "title_en": "12 days: How 2025 Iran blueprint trapped US, Israel in longer war",
-        "summary": [
-            "عنوان گزارشِ الجزیره حاکی است که یک «نقشه ۲۰۲۵ ایران» به نحوی آمریکا و اسرائیل را به ماندن در جنگی طولانی‌تر و فرسایشی کشانده است؛ این ادعا در عنوان مطرح شده و جزئیات گزارش باید برای تایید بررسی شود.",
-            "از منظر فشارهای خارجی و تحریم‌ها: تشدید یا طولانی شدن جنگ می‌تواند فشارهای تحریمی و سیاسی خارجی را افزایش دهد و به صورت ساختاری منابع اقتصادی رژیم را کاهش دهد، که به ناپایداری مالی و سیاسی داخلی می‌انجامد.",
-            "ابعاد داخلی: ادامه جنگ هزینه‌های سنگین برای اقتصاد و مدیریت دولتی تحمیل می‌کند و در غیاب کارایی اقتصادی و شفافیت می‌تواند نارضایتی عمومی را تشدید کند؛ اگر گزارش درست باشد، این نقشه استراتژیک برخلاف حفظ اقتدار، ریسک فرسایش مشروعیت و کنترل داخلی را بالا می‌برد."
-        ],
-        "impact": "اگر ادعای عنوان صحیح باشد، این نقشه استراتژیک توانسته بازی را طولانی کند و در کوتاه‌مدت منابع رژیم را فرسایشی کند و در میان‌مدت فشارهای داخلی و خارجی را افزایش دهد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNHbTRsNmFqX1BHUXJVT29VdUFEUk1UNXZUTGlhcXJqcGlkTktubVk2cFN5Rlp1eUJsbk5LekJFZmVZWkNPY0diYmczT0pZM09BSmUybUEtNDQ3N1NkU2tIV09yREwxYi1zS1BxSkc0UTROVS01Y01LR091OE1HSnhNTEFYb1czblp3aWloSnlGU0FIMkE2WUMtLXNEbEVoRk1QRmQyQ2tnOUJB0gGyAUFVX3lxTFBCSDFiMVM0aEhzanpFLWUwcm5JQTZFZ0w3ZmRXSFpJNk9TUVJ6QUpRM1dXc2pCZUNrOU8xMHFQaUoyS3BRWUlPWnk2YjFKdTF0a0xva0c5aFJmQzZlc202ODNQZWFxaVBWbnlZNUZwTVNtTVJFMFF0RnFmNUNTcGdxRnFOOXlPRjMtd0d3WXRsYzdMVjJBR3BpR040dC15VlNISTdCOEpIbkEtMTc0eHc5ZlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTkNHbTRsNmFqX1BHUXJVT29VdUFEUk1UNXZUTGlhcXJqcGlkTktubVk2cFN5Rlp1eUJsbk5LekJFZmVZWkNPY0diYmczT0pZM09BSmUybUEtNDQ3N1NkU2tIV09yREwxYi1zS1BxSkc0UTROVS01Y01LR091OE1HSnhNTEFYb1czblp3aWloSnlGU0FIMkE2WUMtLXNEbEVoRk1QRmQyQ2tnOUJB0gGyAUFVX3lxTFBCSDFiMVM0aEhzanpFLWUwcm5JQTZFZ0w3ZmRXSFpJNk9TUVJ6QUpRM1dXc2pCZUNrOU8xMHFQaUoyS3BRWUlPWnk2YjFKdTF0a0xva0c5aFJmQzZlc202ODNQZWFxaVBWbnlZNUZwTVNtTVJFMFF0RnFmNUNTcGdxRnFOOXlPRjMtd0d3WXRsYzdMVjJBR3BpR040dC15VlNISTdCOEpIbkEtMTc0eHc5ZlE",
-        "image": null,
-        "timestamp": 1773229248.0
     }
 ]
