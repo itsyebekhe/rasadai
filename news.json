@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "ایران تهدید به کشتن نتانیاهو کرد؛ تأثیر جنگ بر منطقه خلیج فارس گسترده‌تر می‌شود",
+        "title_en": "Iran vows to kill Israel's Netanyahu as impact of war on Gulf region widens",
+        "summary": [
+            "رسانه‌ها گزارش می‌دهند ایران رسماً تهدید کرده که نتانیاهو را خواهد کشت؛ این بیانیه نشانه‌ای از تشدید لحن حکومت در پی گسترش درگیری‌هاست.",
+            "گزارش اشاره می‌کند که تأثیر جنگ بر منطقه خلیج فارس در حال گسترش است و این وضعیت ریسک برخوردها و پیامدهای فرامرزی را افزایش می‌دهد.",
+            "تحلیل ساختاری: چنین تهدیدهای علنی احتمال واکنش‌های بین‌المللی و تشدید تحریم‌ها را افزایش می‌دهد؛ فشارهای خارجی می‌تواند ساختار اقتصادی و مشروعیت رژیم را تضعیف کند و ناکارآمدی‌های حکمرانی را برجسته سازد."
+        ],
+        "impact": "تهدید مستقیم علیه نخست‌وزیر اسرائیل به‌همراه گسترش تأثیر جنگ در خلیج فارس ریسک تشدید تنش‌های منطقه‌ای و افزایش فشارهای اقتصادی-سیاسی بر رژیم را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/news/world/iran-vows-to-kill-israel-s-netanyahu-as-impact-of-war-on-gulf-region-widens/ar-AA1YFawm",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-vows-to-kill-israel-s-netanyahu-as-impact-of-war-on-gulf-region-widens/ar-AA1YFawm",
+        "image": null,
+        "timestamp": 1773572741.0
+    },
+    {
+        "title_fa": "اعلام هویت شش کشته در سانحه هوایی؛ جنگ با ایران وارد هفته سوم شد",
+        "title_en": "U.S. military names six killed in plane crash as Iran war enters third week",
+        "summary": [
+            "نیروهای نظامی آمریکا هویت شش نفر را که در یک سانحهٔ هوایی کشته شدند اعلام کردند.",
+            "این حادثه هم‌زمان با ورود جنگ با ایران به هفتهٔ سوم رخ داده و نشان‌دهنده ادامه تنش و هزینهٔ انسانی در عرصهٔ نظامی است.",
+            "گزارش اشاره‌ای به تحریم‌ها یا نقش تسلیحاتی/دیپلماتیک بازیگران خارجی (روسیه، چین، کره‌شمالی) یا اعتراضات و وضعیت اقتصادی داخلی ایران ندارد؛ بنابراین از متن خبر نمی‌توان مستقیم اثرات تحریم‌ها یا نارضایتی داخلی را استنتاج کرد. "
+        ],
+        "impact": "این تلفات مستقیم فشار سیاسی داخلی در آمریکا را افزایش می‌دهد و روندهای کاهش تنش را پیچیده‌تر می‌کند.",
+        "tag": "تلفات",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/15/nx-s1-5748472/us-military-six-killed-iran-war",
+        "clean_url": "https://www.npr.org/2026/03/15/nx-s1-5748472/us-military-six-killed-iran-war",
+        "image": null,
+        "timestamp": 1773572408.0
+    },
+    {
+        "title_fa": "ایران جنگ اقتصادی را برای دوام آوردن در برابر آمریکا و اسرائیل آغاز کرده",
+        "title_en": "Iran wages economic war in hopes of outlasting U.S. and Israel",
+        "summary": [
+            "تیتر نشان می‌دهد تهران راهبرد فرسایشی اقتصادی را برای خسته‌کردن حریفان خارجی دنبال می‌کند؛ این شیوه فشار ساختاری تحریم‌ها را طولانی‌تر کرده و منابع محدود دولتی را بیشتر تحت‌فشار قرار می‌دهد.",
+            "در غیاب جزئیات بیشتر، منطقی است که ادامه چنین رویه‌ای احتمال افزایش تورم، تضعیف قدرت خرید و تشدید نارضایتی عمومی را بالا ببرد که به نوبه خود استحکام سیاسی رژیم را تضعیف می‌کند.",
+            "تیتر به بازیگران هم‌پیمان (روسیه/چین/کره‌شمالی) اشاره‌ای نکرده؛ بنابراین نمی‌توان اتکاهای خارجی را تأیید کرد، اما کلیت استراتژی حاکی از برنامه‌ریزی تهران برای مواجهه بلندمدت با محدودیت‌های بین‌المللی است."
+        ],
+        "impact": "استمرار جنگ اقتصادی ریسک فرسایش ذخایر مالی و کاهش مشروعیت داخلی را بالا می‌برد و ثبات محدود همراه با ناآرامی‌های اقتصادی را محتمل می‌کند.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/iran-wages-economic-war-in-hopes-of-outlasting-us-and-israel/ar-AA1YEMNB",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-wages-economic-war-in-hopes-of-outlasting-us-and-israel/ar-AA1YEMNB",
+        "image": null,
+        "timestamp": 1773570707.0
+    },
+    {
         "title_fa": "ترامپ مشتاق اعلام پیروزی؛ ایران زخمی اما هنوز کارت‌هایی دارد",
         "title_en": "Trump is eager to declare victory, but a battered Iran still has cards to play",
         "summary": [
@@ -52,6 +106,24 @@
         "clean_url": "https://news.am/eng/news/936457.html",
         "image": null,
         "timestamp": 1773569400.0
+    },
+    {
+        "title_fa": "چرا آمریکا و اسرائیل به ایران حمله کردند و جنگ چقدر می‌تواند طول بکشد؟",
+        "title_en": "Why did US and Israel attack Iran and how long could the war last?",
+        "summary": [
+            "تیتر به‌تنهایی اطلاعات کافی نمی‌دهد؛ متن کامل باید اهداف سیاسی-نظامی آمریکا و اسرائیل، شواهد ادعاها و دامنه عملیاتی حملات را مشخص کند.",
+            "تحلیل تحریم‌ها / فشار خارجی: هرگونه حمله یا فشار نظامی-دیپلماتیک می‌تواند تضعیف ساختاری در اقتصاد ایران ایجاد کند، ظرفیت حکمرانی را کاهش دهد و نارضایتی اجتماعی را افزایش دهد؛ پیامدهای داخلی و اثر بر پایداری رژیم باید به‌صراحت بررسی شود.",
+            "مدت درگیری وابسته به توان لجستیکی، ذخایر و تداوم ضربات، واکنش بازیگران منطقه‌ای و سطح نارضایتی داخلی است؛ مدیریت اقتصادی ضعیف و شکست در کنترل معیشت عمومی ریسک تشدید ناآرامی‌ها را افزایش می‌دهد."
+        ],
+        "impact": "در صورت تایید حمله، احتمال تشدید سریع به بحران منطقه‌ای و تحمیل هزینه‌های سنگین سیاسی و اقتصادی بر حکومت ایران بسیار بالاست.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw",
+        "image": null,
+        "timestamp": 1773565412.0
     },
     {
         "title_fa": "در تقابل ترامپ با ایران: موعظه رفاه در برابر قرآن",
@@ -160,6 +232,24 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-12-live-updates",
         "image": null,
         "timestamp": 1773555401.0
+    },
+    {
+        "title_fa": "حملۀ به تأسیسات نفتی امارات هنگام بارگیری کشتی هندی؛ «Jag Laadki» یک روز بعد حرکت کرد",
+        "title_en": "US-Israel-Iran War News Live Updates: UAE oil terminal attacked as Indian vessel loaded crude; ‘Jag Laadki’ sails away a day later",
+        "summary": [
+            "گزارش‌ها حاکی است تأسیسات نفتی در امارات هدف حمله قرار گرفت در حالی که کشتی هندی «Jag Laadki» مشغول بارگیری نفت بود.",
+            "«Jag Laadki» یک روز بعد از گزارش حمله حرکت کرد؛ ادامه حرکت کشتی نشان‌دهنده حفظ نسبی جریان محموله است اما ریسک عملیاتی بنادر و کشتی‌ها را بالا می‌برد.",
+            "پیامدهای استراتژیک این حادثه شامل افزایش احتمال تشدید درگیری منطقه‌ای، نوسانات در بازار انرژی و بالا رفتن هزینه‌های بیمه و حمل‌ونقل است؛ در گزارش اشاره‌ای به تحریم‌ها یا نقش بازیگران ثالث نشده است."
+        ],
+        "impact": "حمله به هاب نفتی منطقه می‌تواند تنش‌ها را تشدید و زنجیره تأمین انرژی را مختل کند که در کوتاه‌مدت قیمت‌ها و هزینه‌های واردات را افزایش می‌دهد.",
+        "tag": "انرژی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-ballistic-missile-attacks-explosions-gulf-countries-dubai-flights-donald-trump-netanyahu-mojtaba-khamenei/liveblog/129567232.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-middle-east-crisis-conflict-drone-ballistic-missile-attacks-explosions-gulf-countries-dubai-flights-donald-trump-netanyahu-mojtaba-khamenei/liveblog/129567232.cms",
+        "image": "http://www.bing.com/th?id=OVFT.Ybh5Ndb5zt12xlB2FKs86C&pid=News",
+        "timestamp": 1773550440.0
     },
     {
         "title_fa": "حملات تلافی‌جویانه ایران به مواضع آمریکایی در خاورمیانه",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://sports.yahoo.com/articles/donald-trump-gives-iran-green-090935167.html",
         "image": null,
         "timestamp": 1773216420.0
-    },
-    {
-        "title_fa": "شکاف در راست افراطی اروپا بر سر جنگ آمریکا و اسرائیل علیه ایران",
-        "title_en": "Europe’s hard right fractures over US-Israel war on Iran",
-        "summary": [
-            "جریان‌های راست‌افراطی اروپایی بر سر جنگ آمریکا-اسرائیل علیه ایران تقسیم شده‌اند: چهره‌هایی مانند Nigel Farage و حزب اسپانیایی Vox از عملیات حمایت کرده‌اند، در حالی که رهبران AfD (Tino Chrupalla، Markus Frohnmaier)، بخش‌هایی از راست بریتانیا (Paul Golding) و جناحی از راست فرانسه (مواضع محتاطانه مارین لوپن) تردید یا مخالفت نشان داده‌اند.",
-            "تحلیلگران گزارش می‌دهند که مواضع این احزاب بیش از آنکه بر اصول ثابت استوار باشد، تابع ملاحظات ژئوپولیتیک و منافع لحظه‌ای است و وابستگی آشکار به دونالد ترامپ می‌تواند برای این جریان‌ها در عرصه سیاسی اروپایی هزینه‌ساز شود.",
-            "پیامدهای میدانی برای ایران: تشدید اقدام نظامی و حمایت صریح برخی شرکای غربی فشار خارجی را افزایش می‌دهد و می‌تواند توان اقتصادی و دیپلماتیک رژیم را هدف قرار دهد؛ این می‌تواند ریسک پدید آمدن موج‌های مهاجرتی و تشدید مشکلات داخلی را بالا ببرد، اما گزارش شواهد مستقیمی از اعتراضات داخلی مرتبط با این تحولات ارائه نکرده است."
-        ],
-        "impact": "کوتاه‌مدت، این شکستِ اتحاد در صفوف راست افراطی اروپا موقعیت دیپلماسیِ بین‌المللی رژیم را پیچیده‌تر و فشار خارجی را افزایش می‌دهد، اما هیچ علامتی از فروپاشی فوری ساختارهای قدرت در ایران در متن گزارش نیست.",
-        "tag": "شکاف",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/europe-hard-fractures-over-us-080328080.html",
-        "clean_url": "https://www.yahoo.com/news/articles/europe-hard-fractures-over-us-080328080.html",
-        "image": null,
-        "timestamp": 1773216413.0
-    },
-    {
-        "title_fa": "ترکیه در میانه تشدید جنگ مرتبط با ایران قرار گرفت",
-        "title_en": "Turkey caught in the middle as Iran war escalates",
-        "summary": [
-            "گزارش DW نشان می‌دهد تشدید جنگ مرتبط با ایران، ترکیه را به‌عنوان بازیگری میان‌گیر قرار داده و آنکارا با فشارهای همزمان امنیتی و دیپلماتیک روبه‌روست.",
-            "موقعیت میانی ترکیه می‌تواند آنکارا را به موازنه‌داری میان بازیگران منطقه‌ای و غرب وادارد و خطر گسترش درگیری‌ها و پیامدهای فرامرزی را افزایش دهد.",
-            "گزارش به‌صورت مشخص از تحریم‌ها یا ناآرامی‌های داخلی گزارش نمی‌دهد؛ اما تشدید جنگ بالقوه محرکی برای فشارهای اقتصادی و سیاسی داخلی و تشدید مخاطرات مرزی است."
-        ],
-        "impact": "تشدید جنگ مرتبط با ایران، ترکیه را در معرض فشار امنیتی و دیپلماتیک شدید قرار می‌دهد و احتمال گسترش بی‌ثباتی منطقه‌ای را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMW83OWlIM0hrWTI5bjJILUEyaS0zVDVhMEpDRDFUaTJ4SXowdGRFUTktX3J0TE4wVldKS1VCU0prX0NyQXJUUFpFN1JfX2tnRDQ3aUVrSHFnSDFFSzJkN3lkS21seW1fb1FBT3FTWmd0NDctR2dwTy1BT0k0aGZQTW1sc3BnVVZzSEHSAYoBQVVfeXFMTV83TjkyZ1VCbExMZXhvNTJDZmFMRmxqc0ZqOFdsSUJOQ0xveU1xTUJnMGd3U1dGc2xQTE5ld3c3c3BjamhXYnhrRW5yNVRtcDZ0V18zdlJaSkgzVVp3dHdqOFQwTjlJY1VrcG0zUkR2QldCcFRQYWk1emZBNExla1RPcEtlRFJhd0Fn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMW83OWlIM0hrWTI5bjJILUEyaS0zVDVhMEpDRDFUaTJ4SXowdGRFUTktX3J0TE4wVldKS1VCU0prX0NyQXJUUFpFN1JfX2tnRDQ3aUVrSHFnSDFFSzJkN3lkS21seW1fb1FBT3FTWmd0NDctR2dwTy1BT0k0aGZQTW1sc3BnVVZzSEHSAYoBQVVfeXFMTV83TjkyZ1VCbExMZXhvNTJDZmFMRmxqc0ZqOFdsSUJOQ0xveU1xTUJnMGd3U1dGc2xQTE5ld3c3c3BjamhXYnhrRW5yNVRtcDZ0V18zdlJaSkgzVVp3dHdqOFQwTjlJY1VrcG0zUkR2QldCcFRQYWk1emZBNExla1RPcEtlRFJhd0Fn",
-        "image": null,
-        "timestamp": 1773215994.0
-    },
-    {
-        "title_fa": "ایران موشک‌ها و پهپادها را به سمت کشورهای خلیج و کشتی‌ای در تنگه هرمز شلیک کرد",
-        "title_en": "Iran fires missiles, drones at Gulf nations as ship hit in Strait of Hormuz",
-        "summary": [
-            "سپاه پاسداران اعلام کرد چهار موشک به مقر نیروهای آمریکایی در خاورمیانه از جمله دو موشک به کمپ عریفجان در کویت شلیک شده؛ کویت رسماً تأیید نکرد اما گارد ملی از انهدام هشت پهپاد خبر داد؛ قطر، عربستان و بحرین نیز رهگیری‌های موشکی/پهپادی و تلفات محلی (مجروح‌شدگان در سیترا، بحرین) را گزارش کردند.",
-            "شورای امنیت سازمان ملل قرار است به قطع‌نامه‌ای که از سوی شورای همکاری خلیج فارس خواستار توقف حملات ایران است رأی دهد؛ این فشار دیپلماتیک می‌تواند به تشدید انزوای بین‌المللی و زمینه‌ساز تحریم‌های بیشتر و فشار اقتصادی بر رژیم تبدیل شود که ساختار ثبات داخلی را تضعیف می‌کند.",
-            "آتش‌سوزی یک شناور در تنگه هرمز و تهدید به چشم‌انداز اختلال در ترافیک نفتی منطقه، خطر افزایش قیمت جهانی انرژی و تشدید بحران عرضه را برجسته می‌کند؛ رهگیری‌های گسترده دفاعی در کشورهای خلیج نشان‌دهنده بالا بودن ریسک گسترش درگیری است."
-        ],
-        "impact": "این موج حملات همراه با فشار بین‌المللی، رژیم را در معرض تضعیف سیاسی و اقتصادی قرار می‌دهد و ریسک اختلال جدی در ترافیک نفتی و افزایش قیمت‌های جهانی را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-fires-missiles-drones-gulf-070435559.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-fires-missiles-drones-gulf-070435559.html",
-        "image": null,
-        "timestamp": 1773213100.0
-    },
-    {
-        "title_fa": "ایران بزرگ‌ترین حملات خود را در تنگه هرمز انجام داد؛ دونالد ترامپ عملیات جنگی گسترده علیه ایران اعلام کرد",
-        "title_en": "Iran live updates: Iran launches 'most strikes yet,' targets at least 2 ships in Strait of Hormuz",
-        "summary": [
-            "گزارش‌ها حاکی است ایران «بیشترین حملات تا کنون» را اجرا کرده و دست‌کم دو کشتی در تنگه هرمز هدف قرار گرفته‌اند.",
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، در ۲۸ فوریه از «عملیات رزمی عمده» علیه ایران خبر داد؛ مقامات از حملات گسترده مشترک آمریکا–اسرائیل به تأسیسات نظامی و دولتی سخن گفته‌اند.",
-            "این مجموعه عملیات نظامی مستقیم فشار خارجی شدیدی بر حاکمیت وارد می‌کند؛ احتمال افزایش تخصیص منابع به بخش دفاع، تشدید فشارهای اقتصادی و بالا رفتن ریسک نارضایتی اجتماعی وجود دارد."
-        ],
-        "impact": "اثر فوری: تشدید درگیری‌های نظامی و حملات مشترک آمریکا–اسرائیل توان عملیاتی و مشروعیت حکومت را تضعیف کرده و احتمال از دست رفتن کنترل بر عرصه داخلی و منطقه‌ای را افزایش می‌دهد.",
-        "tag": "تصادم",
-        "urgency": 10,
-        "sentiment": -0.85,
-        "source": "ABC7 New York",
-        "url": "https://abc7ny.com/live-updates/iran-war-news-live-updates-mojtaba-khamenei-chosen-irans-supreme-leader/18696218/",
-        "clean_url": "https://abc7ny.com/live-updates/iran-war-news-live-updates-mojtaba-khamenei-chosen-irans-supreme-leader/18696218",
-        "image": "http://www.bing.com/th?id=OVFT.ckTvcwF9fhmysCkYSzeE4i&pid=News",
-        "timestamp": 1773211440.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ ایران: رهبر جدید کشور تاییداً زخمی شد",
-        "title_en": "Iran war live updates: New supreme leader confirmed wounded",
-        "summary": [
-            "عنوان USA TODAY ادعا می‌کند رهبر جدید کشور زخمی شده است، اما متن خبر در دسترس نیست و جزئیات مستقل و موثق برای تایید حادثه موجود نیست.",
-            "اگر این ادعا تأیید شود، فشارهای خارجی و تحریم‌ها می‌توانند ساختاری بازارهای سیاسی و اقتصادی رژیم را تضعیف کنند و رقابت برای جانشینی و انسجام نخبگان را تشدید نمایند.",
-            "در صورت صحت خبر، احتمال تشدید نارضایتی عمومی و افزایش شکنندگی مدیریتی وجود دارد؛ با این حال بدون شواهد قابل اتکا نباید فرجام‌گیری یا روندهای بلندمدت را محکم فرض کرد."
-        ],
-        "impact": "در صورت تأیید، این حادثه ضربه‌ای مستقیم به انسجام رهبری و ثبات سیاسی خواهد بود و خلأ قدرت داخلی و فرصت‌های فشار خارجی را افزایش می‌دهد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/live-story/news/world/2026/03/11/iran-war-live-updates-us-israel-strait-hormuz/89093377007/",
-        "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/11/iran-war-live-updates-us-israel-strait-hormuz/89093377007",
-        "image": null,
-        "timestamp": 1773211080.0
     }
 ]
