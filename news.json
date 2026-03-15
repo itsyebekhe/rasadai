@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "در تقابل ترامپ با ایران: موعظه رفاه در برابر قرآن",
+        "title_en": "In Trump's Iran conflict, it's prosperity gospel vs. the Quran",
+        "summary": [
+            "مقاله تقابل کنش‌های ترامپ را به‌عنوان ورود جریان موعظه رفاه انجیلی به سیاست خارجی آمریکا در برابر روایت‌های قرآنی جمهوری اسلامی توصیف می‌کند.",
+            "این خوانش نشان می‌دهد که طرفین از زبان دینی برای مشروع‌سازی فشارها و واکنش‌ها استفاده می‌کنند و نتیجه‌اش قطب‌بندی و کاهش ظرفیت‌های دیپلماتیک برای حل اختلاف است.",
+            "تمرکز روی ابعاد ایدئولوژیک اغلب ریسک تشدید تحریم‌ها و هزینه‌های اقتصادی ـ اجتماعی را افزایش می‌دهد و فرایندهای تغییر درونی ایران را پیچیده‌تر می‌کند."
+        ],
+        "impact": "چارچوب‌بندی ایدئولوژیک منازعه فضای مذاکره را تنگ‌تر و هزینه‌های فشار خارجی و پیامدهای داخلی را تشدید می‌کند.",
+        "tag": "ایدئولوژی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "National Catholic Reporter",
+        "url": "https://www.msn.com/en-us/news/opinion/in-trump-s-iran-conflict-it-s-prosperity-gospel-vs-the-quran/ar-AA1YuP1z",
+        "clean_url": "https://www.msn.com/en-us/news/opinion/in-trump-s-iran-conflict-it-s-prosperity-gospel-vs-the-quran/ar-AA1YuP1z",
+        "image": null,
+        "timestamp": 1773562055.0
+    },
+    {
         "title_fa": "جنگ فرسایشی اسرائیل با ایران و حزب‌الله: راه خروج چیست؟",
         "title_en": "Israel's war of attrition with Iran and Hezbollah: What is the exit strategy?",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.rferl.org/a/israel-hezbollah-lebanon-war-second-front/33704698.html",
         "image": null,
         "timestamp": 1773561360.0
+    },
+    {
+        "title_fa": "شلیک شش رشته موشکی از ایران به اسرائیل؛ حزب‌الله راکت و پهپاد شلیک کرد",
+        "title_en": "Iran targets Israel with 6 ballistic missile salvos since midnight; Hezbollah fires rockets, drones",
+        "summary": [
+            "از نیمه‌شب ایران شش رشته شلیک موشک بالستیک به سوی اسرائیل انجام داده و حزب‌الله نیز راکت و پهپاد به کار برده‌اند — اقدام نظامی مستقیم و هم‌زمان که خطر شعله‌ور شدن درگیری منطقه‌ای را بالا برده است.",
+            "این نوع تشدید نظامی به طور منطقی می‌تواند موجب واکنش‌های تلافی‌جویانه از سوی اسرائیل و متحدانش و نیز تشدید تحریم‌ها و فشار دیپلماتیک بین‌المللی شود؛ پیامدهای اقتصادی و سیاسی ناشی از این فشارها ساختار شکننده رژیم را بیشتر تضعیف خواهد کرد.",
+            "صرف منابع بر عملیات خارجی و نظامی در حالی که اقتصاد داخلی مدیریت ناکارآمدی دارد، بارِ اقتصادی را بیشتر و زمینه افزایش نارضایتی عمومی و تضعیف مشروعیت رژیم را فراهم می‌کند."
+        ],
+        "impact": "این حملات احتمال تلافی اسرائیل و دخالت گسترده‌تر بازیگران خارجی را افزایش می‌دهد و در کوتاه‌مدت هم امنیت منطقه و هم ثبات داخلی رژیم را بیشتر تهدید می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zQnpFRVBKUUhKTW9OOUJHMGNlUFdfcmV0MG04TDl5OHUtSEJPakl2SnU5ck1WWXJzVlFySlFObGhUVllLS20zLUhxZ2lwY1FYOS1vN2FIMUtlVFpWOENDWXg5TdIBaEFVX3lxTE04OHFFcnFtZU9jS1BHeGg0V0xJdkEzWldzTkhBNjg4Ykg2cmFlNWhtTnVPbFo3d2NBS2tMTVQzSnNyeG1QSDRlbGJQLWllMTJ6VFMxVHhXYTgzXzZzRGhYUFVBMUlQeERN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zQnpFRVBKUUhKTW9OOUJHMGNlUFdfcmV0MG04TDl5OHUtSEJPakl2SnU5ck1WWXJzVlFySlFObGhUVllLS20zLUhxZ2lwY1FYOS1vN2FIMUtlVFpWOENDWXg5TdIBaEFVX3lxTE04OHFFcnFtZU9jS1BHeGg0V0xJdkEzWldzTkhBNjg4Ykg2cmFlNWhtTnVPbFo3d2NBS2tMTVQzSnNyeG1QSDRlbGJQLWllMTJ6VFMxVHhXYTgzXzZzRGhYUFVBMUlQeERN",
+        "image": null,
+        "timestamp": 1773560201.0
     },
     {
         "title_fa": "بروزرسانی زنده: ترکش‌ها به مناطق مرکزی اسرائیل خسارت زدند",
@@ -106,6 +142,42 @@
         "clean_url": "https://www.theguardian.com/world/2026/mar/14/gulf-strait-of-hormuz-nightmare-anger-frustration-at-us",
         "image": null,
         "timestamp": 1773540780.0
+    },
+    {
+        "title_fa": "تحولات تازه: کشورهای خلیج حملات جدید را گزارش کردند و تهران بنادر عمده امارات را به تخلیه فرا خواند",
+        "title_en": "The Latest: Gulf countries report new attacks after Iran warns major UAE ports to evacuate",
+        "summary": [
+            "تهران بدون ارائه شواهد، آمریکا را متهم کرد که از «بنادر، اسکله‌ها و مخفی‌گاه‌ها» در امارات برای حمله به جزیره خارک — پایانه اصلی صادرات نفت ایران — استفاده کرده است.",
+            "کشورهای خلیج از وقوع حملات جدید خبر دادند و هم‌زمان ایران از تخلیه بنادر بزرگ امارات سخن گفت؛ این اقدامات ریسک اختلال در خطوط صادرات و افزایش تنش منطقه‌ای را بالا می‌برد.",
+            "تهدید یا آسیب به پایانه خارک در شرایط تحریم و تنگناهای درآمدی نفتی، می‌تواند درآمدهای رژیم را ضربه‌پذیرتر کرده و فشارهای اقتصادی و نارضایتی‌های داخلی را تشدید کند."
+        ],
+        "impact": "تقابل اتهامی و گزارش حملات می‌تواند به تشدید درگیری‌های منطقه‌ای و اختلال در صادرات نفت ایران منجر شود که ثبات اقتصادی و سیاسی داخلی را بیشتر تضعیف می‌کند.",
+        "tag": "نفت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "WPLG Local 10",
+        "url": "https://www.local10.com/news/world/2026/03/15/the-latest-uae-reports-new-missile-attack-a-day-after-iran-warns-3-major-ports-to-evacuate/",
+        "clean_url": "https://www.local10.com/news/world/2026/03/15/the-latest-uae-reports-new-missile-attack-a-day-after-iran-warns-3-major-ports-to-evacuate",
+        "image": "http://www.bing.com/th?id=OVFT.14PO611hWYQi1kvGxhBdFS&pid=News",
+        "timestamp": 1773540300.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده جنگ آمریکا-ایران: تهران هر ابتکاری برای پایان جنگ را می‌پذیرد، اسرائیل مظنون حملات در خلیج معرفی شد",
+        "title_en": "US Iran war LIVE updates: Tehran welcomes any initiative to end war, says Israel could be behind Gulf nation attacks",
+        "summary": [
+            "تهران اعلام کرده هر ابتکاری برای خاتمه جنگ را می‌پذیرد و همزمان اسرائیل را به احتمال دست داشتن در حملات علیه کشورهای خلیج متهم کرده؛ این دوگانه نشان‌دهنده تلاش رژیم برای جلب میانجی‌گری خارجی در حالی است که خود را در معرض اتهامات مرتبط با امنیت منطقه می‌بیند.",
+            "دست‌کم یک انفجار در پایگاه دزفول مشاهده شد و دود از پایگاه برخواسته است؛ هدف‌گیری تأسیسات نظامی نشان‌دهنده فشار مستقیم خارجی یا عملیاتی‌شدن تهدیدهاست که قابلیت تضعیف فوری توان دفاعی و کارآیی فرماندهی را دارد.",
+            "اصفهان بار دیگر هدف حمله قرار گرفت، یک روز پس از کشته شدن ۱۵ کارگر در حمله‌ای به یک کارخانه؛ هدف قرار گرفتن زیرساخت‌های صنعتی و تلفات نیروی کار، ضعف حفاظتی و مدیریت امنیت داخلی را عیان می‌کند و پتانسیل ایجاد نارضایتی اجتماعی و اختلال اقتصادی را دارد."
+        ],
+        "impact": "تداوم حملات به تأسیسات نظامی و صنعتی روحیه و کارکرد دستگاه حاکمیت را تضعیف می‌کند، هم فشار خارجی را افزایش می‌دهد و هم خطر تشدید سرکوب و ناآرامی داخلی را بالا می‌برد.",
+        "tag": "حملات",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-trump-khamenei-strait-of-hormuz-tehran-oil-prices-kharg-island-uss-israel-doha-latest-news-101773537510695.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-trump-khamenei-strait-of-hormuz-tehran-oil-prices-kharg-island-uss-israel-doha-latest-news-101773537510695.html",
+        "image": null,
+        "timestamp": 1773539640.0
     },
     {
         "title_fa": "«جز کوهستان دوستانی نیستند». کردها از ترامپ خواهان کمک برای جنگ زمینی علیه ایران",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-president-apologizes-to-neighbors-as-kurdish-forces-prepare-to-cross-the-border-operation-epic-fury-enters-week-two/ar-AA1XMWoJ",
         "image": null,
         "timestamp": 1773203373.0
-    },
-    {
-        "title_fa": "ترامپ پیوسته به آمریکا می‌گوید در ایران پیروز است؛ کمتر روشن می‌کند جنگ چگونه پایان می‌یابد",
-        "title_en": "Trump keeps telling America he's winning in Iran. He's less clear in explaining how the war ends",
-        "summary": [
-            "نوسان راهبردی واشینگتن: ترامپ میان شعار «تسلیم بی‌قید و شرط» و اعلام پیروزی تاکتیکی تغییر موضع می‌دهد و تیم او خروج و هدف سیاسی روشن را ارائه نکرده است؛ این تزلزل سیاست مسیر درگیری 12 روزه را غیرقابل پیش‌بینی کرده است.",
-            "شکاف بین ادعاها و واقعیت میدانی: دولت آمریکا ادعا می‌کند نیروی دریایی ایران را تضعیف و توان موشکی/پهپادی را کاهش داده، اما تنگه هرمز عملاً در حالت توقف است و مقامات ایران تسلیم نشده‌اند — دستاوردهای نظامی تاکتیکی هنوز به تحقق اهداف سیاسی منجر نشده است.",
-            "پیامدهای اقتصادی و داخلی: جنگ و شوک‌های بازار و اختلال در عبور نفت فشار خارجی ساختاری بر نظام وارد می‌کند؛ اختلال تجارت انرژی و لرزش بازارها هزینه‌های اقتصادی برای مردم و حکومت بر جا می‌گذارد و ضعف مدیریتی در مهار این پیامدها می‌تواند نارضایتی‌های عمومی را تشدید کند."
-        ],
-        "impact": "فشار نظامی و شوک‌های اقتصادی کنونی ساختار قدرت را تضعیف می‌کند و اختلال در تنگه هرمز و بازارها ظرفیت حکومت را برای حفظ کنترل اجتماعی و مشروعیت اقتصادی کاهش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trump-keeps-telling-america-hes-110203156.html",
-        "clean_url": "https://www.aol.com/articles/trump-keeps-telling-america-hes-110203156.html",
-        "image": "http://www.bing.com/th?id=OVFT.ZA-TZu0rjjKxyNNIQIqpoi&pid=News",
-        "timestamp": 1773203220.0
-    },
-    {
-        "title_fa": "اسرائیل می‌گوید ایران از مهمات خوشه‌ای استفاده می‌کند؛ آن‌ها چه هستند؟",
-        "title_en": "Israel says Iran is using cluster munitions. What to know about the weapons",
-        "summary": [
-            "ایران به‌گفته اسرائیل در ادامه درگیری‌ها از مهمات خوشه‌ای استفاده کرده است؛ سرجنگی‌ها در ارتفاع بالا باز می‌شوند و ده‌ها بمبک کوچک را روی مناطق گسترده می‌پراکِند که در شب شبیه شعله‌های نارنجی دیده می‌شوند.",
-            "بمبک‌ها به‌راحتی قابل رهگیری نیستند و حتی پس از فرود به‌عنوان مهمات عمل‌نکرده خطر طولانی‌مدت ایجاد می‌کنند؛ این مهمات وقتی به مراکز پرجمعیت هدف‌گیرند، تلفات غیرنظامیان را افزایش می‌دهد و تهدیدی برای زندگی روزمره مردم است.",
-            "بیش از ۱۲۰ کشور کنوانسیون ممنوعیت مهمات خوشه‌ای را امضا کرده‌اند اما ایران، ایالات متحده و اسرائیل به آن نپیوسته‌اند؛ از منظر عملی، سامانه پدافندی Arrow ممکن است موشک‌ها را رهگیری کند اما پس از رها شدن بمبک‌ها کارآیی محدودی دارد و اطلاع‌رسانی عمومی در اسرائیل برای کاهش تلفات فعال شده است."
-        ],
-        "impact": "استفاده از مهمات خوشه‌ای نه‌تنها خطر فوری انسانی و پیچیدگی در دفاع هوایی را تشدید می‌کند، بلکه تهران را در معرض محکومیت و انزوای سیاسی بین‌المللی قرار می‌دهد و هزینه‌های استراتژیک نظام را افزایش می‌دهد.",
-        "tag": "خوشه‌ای",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://www.mcall.com/2026/03/10/iran-cluster-munitions/",
-        "clean_url": "https://www.mcall.com/2026/03/10/iran-cluster-munitions",
-        "image": null,
-        "timestamp": 1773202767.0
-    },
-    {
-        "title_fa": "موج جدید حملات ایران و بررسی آزادسازی ذخایر نفتی",
-        "title_en": "New wave of Iran attacks as oil reserve release weighed",
-        "summary": [
-            "ایران موج جدیدی از حملات علیه اسرائیل و کشورهای خلیج، از جمله هدف قرار دادن یک میدان نفتی سعودی، را پس از حملات نظامی آمریکا و اسرائیل علیه ایران آغاز کرد و درگیری به فراتر از مرزها گسترش یافته است.",
-            "گزارش‌ها درباره پیشنهاد آزادسازی بی‌سابقه ذخایر نفتی بازارها را تا حدی آرام کرده، اما افزایش هزینه‌های انرژی، سهمیه‌بندی سوخت و تعطیلی مدارس نشان‌دهنده تأثیر مستقیم جنگ بر اقتصاد و معیشت شهروندان است.",
-            "واکنش‌های بین‌المللی — از جمله نشست گروه هفت و تصمیم‌گیری قریب‌الوقوع آژانس بین‌المللی انرژی — فشارهای اقتصادی و سیاسی را بر حکومت ایران برجسته می‌کند و ظرفیت آن برای مدیریت بحران را بیش از پیش تضعیف می‌سازد."
-        ],
-        "impact": "تشدید نظامی همراه با اختلال در بازار انرژی به سرعت منابع مالی و مدیریتی حکومت را فرسایش می‌دهد و توان آن برای حفظ کنترل و مشروعیت را کاهش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/us-targets-iran-mine-laying-000331041.html",
-        "clean_url": "https://www.aol.com/articles/us-targets-iran-mine-laying-000331041.html",
-        "image": "http://www.bing.com/th?id=OVFT.vjqo5B-jA_htf8pri8sFmC&pid=News",
-        "timestamp": 1773201960.0
-    },
-    {
-        "title_fa": "تحلیل: آمریکا جنگ با ایران را شعله‌ور کرد؛ اما کشورهای خلیج فارس هزینه می‌پردازند",
-        "title_en": "Analysis-US ignites Iran war, but Gulf Arab states pay the price, Gulf sources say",
-        "summary": [
-            "منابع خلیجی می‌گویند اقدام آمریکا در شعله‌ور کردن درگیری با ایران سبب شده که حملات ایرانی به زیرساخت‌های منطقه — شامل فرودگاه‌ها، هتل‌ها، بنادر و تاسیسات نظامی و نفتی — هزینه‌های اقتصادی و نظامی مستقیم بر پایتخت‌های خلیجی تحمیل کند.",
-            "ناراحتی و اعتراض پشت پرده در دولت‌های خلیج در حال افزایش است؛ آنها از کشانده شدن به جنگی که آغاز نکرده‌اند و پرداخت بهای امنیتی و اقتصادی بدون اختیار قابل‌توجه انتقاد دارند.",
-            "از منظر ثبات منطقه‌ای، تشدید درگیری نظامی بازار نفت و زیرساخت‌های اقتصادی را مختل می‌کند و فشار خارجی و هزینه‌های مادی را به طور مستقیم بر ایران و همسایگانش تحمیل خواهد کرد."
-        ],
-        "impact": "اقدام نظامی آمریکا ممکن است فشار خارجی بر رژیم ایران را افزایش دهد، اما هزینه‌های ناشی از عملیات تلافی‌جویانه ایران به کشورهای خلیج و اختلال در درآمد نفتی، در میان‌مدت انسجام داخلی و مشروعیتِ حکومت ایران را تضعیف خواهد کرد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/analysis-us-ignites-iran-war-110044895.html",
-        "clean_url": "https://www.aol.com/articles/analysis-us-ignites-iran-war-110044895.html",
-        "image": null,
-        "timestamp": 1773201900.0
     }
 ]
