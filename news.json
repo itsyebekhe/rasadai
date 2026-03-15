@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جنگ فرسایشی اسرائیل با ایران و حزب‌الله: راه خروج چیست؟",
+        "title_en": "Israel's war of attrition with Iran and Hezbollah: What is the exit strategy?",
+        "summary": [
+            "عنوان نشان می‌دهد اسرائیل وارد فرآیند فرسایشی علیه ایران و حزب‌الله شده و پرسش اصلی فقدان یک راهبرد خروج مشخص است.",
+            "یک جنگ فرسایشی بدون راهبرد خروج واضح می‌تواند فشارهای خارجی و اقتصادی را تشدید کند و ساختارهای سیاسی و مدیریتی رژیم ایران را در معرض تضعیف قرار دهد، زیرا هزینه‌های مالی و اجتماعی بلندمدت جمع می‌شوند.",
+            "خطر گسترش درگیری و فرسایش توان داخلی هر دو طرف بالا است؛ نهایتاً مدیریت منابع نظامی و افکار عمومی تعیین‌کننده خواهد بود و فقدان هماهنگی سیاسی در داخل می‌تواند روند فرسایش را تشدید کند."
+        ],
+        "impact": "فقدان راهبرد خروج مشخص احتمال تبدیل فرسایش به بحران سیاسی و اقتصادی بلندمدت برای رژیم ایران را افزایش می‌دهد.",
+        "tag": "فرسایش",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "Haaretz",
+        "url": "https://www.rferl.org/a/israel-hezbollah-lebanon-war-second-front/33704698.html",
+        "clean_url": "https://www.rferl.org/a/israel-hezbollah-lebanon-war-second-front/33704698.html",
+        "image": null,
+        "timestamp": 1773561360.0
+    },
+    {
         "title_fa": "بروزرسانی زنده: ترکش‌ها به مناطق مرکزی اسرائیل خسارت زدند",
         "title_en": "Live Updates: Shrapnel hits cause damage in central Israel",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.aol.com/articles/analysis-us-ignites-iran-war-110044895.html",
         "image": null,
         "timestamp": 1773201900.0
-    },
-    {
-        "title_fa": "تشدید حملات هوایی در جنگ خاورمیانه همزمان با سرکوب اعتراض‌ها در ایران",
-        "title_en": "Combatants in Mideast war trade more air strikes as Iran clamps down on dissent",
-        "summary": [
-            "طرف‌های درگیر تبادل حملات هوایی را شدت بخشیده‌اند؛ افزایش عملیات هوایی ریسک تسری درگیری و پیچیده‌تر شدن هرگونه تلاش برای کاهش تنش را بالا می‌برد.",
-            "دستگاه حکومتی ایران سرکوب و محدودسازی اعتراض‌ها را تشدید کرده است؛ رویکردی صرفاً امنیتی که احتمالاً پایه اجتماعیِ حکومت را بیش‌تر تضعیف می‌کند و فضای سیاسی را بسته‌تر می‌سازد.",
-            "هم‌پوشانی تشدید درگیری‌های منطقه‌ای و سرکوب داخلی توان مدیریتی و اولویت‌گذاری منابع را تحت فشار قرار می‌دهد؛ همچنین، هر گونه تشدید فشار خارجی (تحریم‌ها یا انزوای دیپلماتیک) می‌تواند ساختارهای اقتصادی و سیاسی رژیم را بیش از پیش آشکارا تضعیف کند."
-        ],
-        "impact": "ترکیب افزایش حملات هوایی در منطقه و تشدید سرکوب داخلی احتمال تسریع تنش‌های منطقه‌ای و تضعیف مشروعیت و تاب‌آوری داخلی رژیم را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/combatants-mideast-war-trade-more-air-strikes-iran-clamps-down-dissent-2026-03-11/",
-        "clean_url": "https://www.reuters.com/world/middle-east/combatants-mideast-war-trade-more-air-strikes-iran-clamps-down-dissent-2026-03-11",
-        "image": null,
-        "timestamp": 1773199860.0
     }
 ]
