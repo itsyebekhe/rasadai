@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "اسرائیل موج جدیدی از حملات هوایی «گسترده» علیه ایران انجام داد",
+        "title_en": "Israel carries out new wave of ‘extensive’ airstrikes on Iran",
+        "summary": [
+            "خبر: اسرائیل موج جدیدی از حملات هوایی «گسترده» علیه اهدافی در ایران اجرا کرد.",
+            "«گسترده» توصیف شده در گزارش نشان‌دهنده تشدید مستقیم درگیری نظامی میان اسرائیل و ایران و افزایش خطر گسترش منطقه‌ای است.",
+            "پیامد داخلی: این تشدید نظامی می‌تواند فشار اقتصادی و سیاسی بر رژیم را افزایش دهد و احتمال دارد باعث بسیج منابع دفاعی و سرکوب برای مهار نارضایتی‌های اجتماعی شود."
+        ],
+        "impact": "حمله هوایی گسترده به‌مثابه شتاب‌دهنده فشار خارجی و داخلی عمل می‌کند؛ رژیم را مجبور به انتقال منابع به امور نظامی و امنیتی می‌کند که توان اقتصادی و مشروعیت حکمرانی‌اش را فرسایش می‌دهد و به تضعیف ساختارهای قدرت منجر می‌شود.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/world/israel-airstrikes-iran-war-infrastructure-travel-oil/",
+        "clean_url": "https://www.newsnationnow.com/world/israel-airstrikes-iran-war-infrastructure-travel-oil",
+        "image": null,
+        "timestamp": 1773658885.0
+    },
+    {
+        "title_fa": "چه کسانی از جنگ با ایران چه می‌خواهند؟",
+        "title_en": "Who wants what from the Iran war?",
+        "summary": [
+            "مقالهٔ بی‌بی‌سی یک مرور تحلیلی است از بازیگران داخلی و منطقه‌ای و اهداف متعارض‌شان در پیرامون تهدید یا وقوع جنگ با ایران.",
+            "تمرکز گزارش بر نقش فشارهای خارجی و تحریم‌ها به‌عنوان ابزارهای استراتژیک است و اینکه این ابزارها چگونه محاسبات سیاست خارجی و امنیتی رژیم را شکل می‌دهند.",
+            "تحلیل رابطه میان ضعف‌های ساختاری مدیریت اقتصادی و سیاسی داخل کشور، نارضایتی عمومی و آسیب‌پذیری رژیم در برابر فشارهای خارجی را مطرح می‌کند."
+        ],
+        "impact": "رقابت منافع بازیگران خارجی و استفاده از فشارهای اقتصادی-سیاسی می‌تواند ثبات رژیم را تضعیف کرده و پنجره واکنش داخلی را باز یا بسته کند.",
+        "tag": "جنگ",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/world/who-wants-what-from-the-iran-war/ar-AA1YJ8fI",
+        "clean_url": "https://www.msn.com/en-us/news/world/who-wants-what-from-the-iran-war/ar-AA1YJ8fI",
+        "image": null,
+        "timestamp": 1773658803.0
+    },
+    {
         "title_fa": "مردم بریتانیا چه تأثیری از درگیری آمریکا و ایران پیش‌بینی می‌کنند؟",
         "title_en": "What impact do Britons think the US-Iran conflict will have?",
         "summary": [
@@ -52,6 +88,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/ships-stranded-at-hormuz-energy-crunch-at-home-how-india-s-us-israel-tilt-is-testing-ties-with-iran/ar-AA1YHWmE",
         "image": null,
         "timestamp": 1773645148.0
+    },
+    {
+        "title_fa": "حملات تهران به همسایگان خلیج و توقف جریان نفت؛ نگرانی از بحران انرژی جهانی",
+        "title_en": "Iran hits Gulf neighbors and keeps stranglehold on oil shipping as concerns rise of energy crisis",
+        "summary": [
+            "حمله‌های تلافی‌جویانه ایران با پهپاد و موشک به اسرائیل، پایگاه‌های آمریکایی و زیرساخت‌های انرژی همسایگان خلیج فارس که از دو هفته پس از ضربات آمریکا و اسرائیل شدت گرفته، منطقه را به آستانه گسترش منازعه کشانده است.",
+            "اختلال مؤثر در تردد کشتی‌ها در تنگه هرمز — مسیری که یک‌پنجم نفت جهان از آن عبور می‌کند — و جهش قیمت نفت (برنت بالای ۱۰۰ دلار و تا حدود ۱۲۰ دلار در اوج) ریسک بحران انرژی جهانی را بالا برده و فشار سیاسی و اقتصادی بر آمریکا و مصرف‌کنندگان جهانی را تشدید کرده است.",
+            "در حالی که درخواست رئیس‌جمهور آمریکا برای اعزام ناوگان کشورهای دیگر بی‌پاسخ مانده، و عباس عراقچی، وزیر خارجه ایران، صراحتاً رد آتش‌بس و مذاکرات را اعلام کرده، رژیم تهران با اتخاذ سیاستی که هم هزینه اقتصادی داخلی را افزایش می‌دهد و هم احتمال انزوای بین‌المللی و واکنش‌های شدیدتر را بالا می‌برد، خود را در تله استراتژیک قرار داده است."
+        ],
+        "impact": "تنش نظامی و اختلال در عبور نفت، در کوتاه‌مدت به تهران اهرم می‌دهد اما اقتصاد داخلی را تضعیف و ریسک واکنش و فشار بین‌المللی را تشدید می‌کند، که ثبات رژیم را به مخاطره می‌اندازد.",
+        "tag": "انرژی",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/03/16/world-news/iran-hits-gulf-neighbors-and-keeps-stranglehold-on-oil-shipping-as-concerns-rise-of-energy-crisis/",
+        "clean_url": "https://nypost.com/2026/03/16/world-news/iran-hits-gulf-neighbors-and-keeps-stranglehold-on-oil-shipping-as-concerns-rise-of-energy-crisis",
+        "image": null,
+        "timestamp": 1773632460.0
     },
     {
         "title_fa": "آنچه باید بدانید؛ جنگ با ایران وارد هفته سوم شد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd25BQkEzS0s5eVZFVmQ3RV8yZzBFUGZmekNjczJFc2VjanBQNzZkTkxLeVJkTjNOMEp4LUJrWEcxWXUwSWYyeGVRZzFsdGpCZUUxRXlqd2x5Y3YzWkQ3QVFIaUNuT2hZc2V1V1pJd1NJZ0ZCYVpVM1NoMHBhekF6YUFNVjAtOFAtTFhWcjBHc2s",
         "image": null,
         "timestamp": 1773272250.0
-    },
-    {
-        "title_fa": "قیمت نفت از ۱۰۰ دلار گذشت؛ حملات ایران به کشتی‌ها نگرانی عرضه را تشدید کرد",
-        "title_en": "Live updates: Oil price tops $100 a barrel as Iran attacks on shipping worsen supply concerns",
-        "summary": [
-            "حملات ایران به کشتی‌ها عرضه نفت و حمل‌ونقل دریایی را مختل کرده و بازارها را به‌سمت افزایش قیمت برده‌اند؛ نفت جهانی بالای ۱۰۰ دلار معامله می‌شود.",
-            "مسدود شدن تنگه هرمز که گلوگاه حیاتی انرژی است، بازگشایی دشواری دارد و اختلال طولانی‌مدت در صادرات و زنجیره تأمین انرژی را محتمل می‌کند.",
-            "این رفتار می‌تواند به تشدید فشارهای بین‌المللی و تحریم‌ها منجر شود و در نتیجه ساختار درآمدی و اقتصادی داخل کشور را بیشتر تضعیف و نارضایتی عمومی را افزایش دهد."
-        ],
-        "impact": "پیامد استراتژیک: اختلال مؤثر در عرضه انرژی و افزایش انزوای بین‌المللی رژیم که فشار اقتصادی و ثبات داخلی را سریع‌تر فرسایش می‌دهد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-03-12-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-12-2026",
-        "image": "http://www.bing.com/th?id=OVFT.gbE3gsK7c1fVgkG28M8z9C&pid=News",
-        "timestamp": 1773270180.0
-    },
-    {
-        "title_fa": "هدف‌قرار دادن کشتی‌ها در تنگه هرمز؛ نگرانی جهانی درباره انرژی",
-        "title_en": "Iran targets ships in Strait of Hormuz, raising global energy fears",
-        "summary": [
-            "بر اساس عنوان خبر، هدف‌گیری کشتی‌ها در تنگه هرمز می‌تواند موج جدیدی از فشارهای بین‌المللی و تحریم‌ها را علیه رژیم ایجاد کند و ساختار اقتصادی آن را بیشتر تضعیف نماید.",
-            "چنین اقداماتی نشان‌دهنده سوءمدیریت راهبردی است که هزینه اقتصادی و سیاسی را به شهروندان می‌افزاید و ظرفیت حکومت برای کنترل اوضاع داخلی را کاهش می‌دهد.",
-            "متن گزارش در دسترس نیست؛ بنابراین تحلیل محدود به ادعای عنوان است و از افزودن جزئیات بدون شواهد خودداری شده است."
-        ],
-        "impact": "پیامد فوری افزایش ریسک اختلال در مسیرهای تجارت انرژی و احتمال تشدید واکنش نظامی و تحریمی از سوی بازیگران بین‌المللی است.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "PBS",
-        "url": "https://www.pbs.org/newshour/show/iran-targets-ships-in-strait-of-hormuz-raising-global-energy-fears",
-        "clean_url": "https://www.pbs.org/newshour/show/iran-targets-ships-in-strait-of-hormuz-raising-global-energy-fears",
-        "image": null,
-        "timestamp": 1773269758.0
-    },
-    {
-        "title_fa": "هشدار رئیس مجلس ایران درباره هرگونه تهاجم به جزایر کشور",
-        "title_en": "Iran's parliament speaker warns against any invasion of Iran's islands",
-        "summary": [
-            "محمدباقر قالیباف، رئیس مجلس، اعلام کرد هرگونه تهاجم به جزایر ایران باعث «ریختن خون متجاوزان در خلیج‌فارس» خواهد شد.",
-            "در گزارش اشاره‌ای به محرک این اظهار نظر یا تهدیدکنندهٔ مشخصی نشده و بلافاصله روشن نبود که این هشدار واکنش به چه رخدادی است.",
-            "این لحن تهاجمی جنبهٔ بازدارندگی دارد اما خطر تشدید تنش‌های منطقه‌ای را بالا می‌برد؛ گزارش هیچ اشاره‌ای به تحریم‌ها یا نقش بازیگران خارجی نکرده و چنین موضع‌گیری‌هایی می‌تواند برای تحکیم مشروعیت داخلی یا منحرف‌کردن نارضایتی‌های داخلی به‌کار رود."
-        ],
-        "impact": "تهدید لفظی قالیباف احتمالاً وسیله‌ای برای بازدارندگی و بسیج داخلی است اما در غیاب شواهد عملی می‌تواند به تشدید تنش منطقه‌ای و افزایش ریسک محاسباتی منجر شود.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-parliament-speaker-warns-against-any-invasion-of-iran-s-islands/ar-AA1Ys8VK",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-parliament-speaker-warns-against-any-invasion-of-iran-s-islands/ar-AA1Ys8VK",
-        "image": "http://www.bing.com/th?id=OVFT.N2YqAExnSvZ4JOAvzcqNnS&pid=News",
-        "timestamp": 1773269055.0
     }
 ]
