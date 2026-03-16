@@ -306,6 +306,24 @@
         "timestamp": 1773593555.0
     },
     {
+        "title_fa": "شلیک موشک استراتژیک سوخت‌صلب سجیل برای اولین بار در موج ۵۴ عملیات «وعده راستین ۴»",
+        "title_en": "Iran fires strategic solid-fuel Sejjil missile for first time in 54th wave of Operation \"True Promise 4\"",
+        "summary": [
+            "رژیم ایران در موج ۵۴ عملیات «وعده راستین ۴» برای اولین بار موشک استراتژیک سوخت‌صلب سجیل را شلیک کرد (۱۵ مارس ۲۰۲۶)، اقدامی با ماهیت نمایشی و نظامی که هدف آن پیام‌دهی منطقه‌ای و داخلی است.",
+            "خبر اشاره‌ای به تحریم‌ها یا کمک‌های خارجی نکرده؛ اما چنین نمایش‌هایی می‌تواند ریسک تشدید فشار دیپلماتیک و تحریم‌ها را افزایش دهد و هزینه‌های جدیدی را بر ساختار اقتصادی-سیاسی وارد کند.",
+            "هرچند گزارشی از اعتراضات داخلی ارائه نشده، اولویت‌دادن به پروژه‌های هزینه‌بر نظامی به‌جای اصلاحات اقتصادی و معیشتی نشان‌دهنده مدیریت ضعیف است و پتانسیل افزایش نارضایتی عمومی را تقویت می‌کند."
+        ],
+        "impact": "این شلیک احتمال افزایش تحریم‌ها و فشار دیپلماتیک را بالا می‌برد و با منحرف‌کردن منابع به مصارف نظامی، ثبات داخلی رژیم را بیش از پیش تضعیف می‌کند.",
+        "tag": "موشکی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "NEWS.am",
+        "url": "https://news.am/eng/news/936528.html",
+        "clean_url": "https://news.am/eng/news/936528.html",
+        "image": "https://news.am/img/videos/08/13/36/300x220.jpg",
+        "timestamp": 1773593520.0
+    },
+    {
         "title_fa": "موج جدید حملات هوایی اسرائیل به ایران؛ پاسخ آتش به اهداف آمریکایی و اسرائیلی",
         "title_en": "Israel said it had launched a new wave of airstrikes on Iran on Sunday, while Iranian forces said they were firing at U.S. and Israeli targets as fears grew about the economic fallout from the Middle East war, now in its third week. Follow live updates.",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://6abc.com/live-updates/iran-war-news-live-updates-mojtaba-khamenei-chosen-irans-supreme-leader/18696218",
         "image": "http://www.bing.com/th?id=OVFT.ckTvcwF9fhmysCkYSzeE4i&pid=News",
         "timestamp": 1773255480.0
-    },
-    {
-        "title_fa": "بررسی مقدماتی: آمریکا در حمله به مدرسه در ایران مقصر شناخته شد",
-        "title_en": "U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says",
-        "summary": [
-            "بررسی مقدماتی گزارش شده می‌گوید که آمریکا در حمله‌ای که به یک مدرسه در ایران صورت گرفته مقصر است؛ گزارش کامل و شواهد تفصیلی هنوز علنی نشده‌اند.",
-            "ابعاد دیپلماتیک این اتهام می‌تواند تنش‌ها را تشدید کند و به حکومت ایران سوژه تبلیغاتی برای تقویت موضع ضدآمریکایی و بازتعریف روایت قربانی‌سازی بدهد.",
-            "این گونه حوادث معمولاً فرصتی برای حکومت هستند تا توجه عمومی را از ناکارآمدی‌های اقتصادی و ضعف‌های مدیریتی منحرف کنند و در عین حال ریسک تشدید واکنش‌های خارجی و تحمیل هزینه‌های اقتصادی بیشتر را بالا می‌برند."
-        ],
-        "impact": "نسبت دادن تقصیر به آمریکا ممکن است به‌طور موقت قدرت رژیم را در فضای داخلی تقویت کند اما در میان‌مدت ریسک شدت‌یابی تنش‌های نظامی و فشارهای اقتصادی و سیاسی را بالا می‌برد.",
-        "tag": "حمله",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html",
-        "clean_url": "https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html",
-        "image": null,
-        "timestamp": 1773255191.0
     }
 ]
