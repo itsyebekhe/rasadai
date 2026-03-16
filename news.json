@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "نقشه‌ای که نشان می‌دهد چگونه ۱۶ روز حملات در جنگ آمریکا-اسرائیل علیه ایران تکامل یافته است",
+        "title_en": "Map shows how 16 days of attacks have evolved in US-Israel war on Iran",
+        "summary": [
+            "تیتر نشان می‌دهد که طی ۱۶ روز اخیر حملاتی مرتبط با درگیری آمریکا و اسرائیل علیه اهداف مرتبط با ایران انجام شده و نقشه روند زمانی و جغرافیایی این حملات را به تصویر می‌کشد.",
+            "تداوم حملات به مدت بیش از دو هفته نشان‌دهنده تشدید نظامی است؛ چنین فشار خارجی‌ای می‌تواند هزینه‌های مادی و سیاسی قابل‌توجهی به توان دفاعی و ساختارهای مرتبط رژیم وارد کند.",
+            "گزارش اشاره‌ای به واکنش‌های داخلی یا نقش بازیگران ثالث مانند روسیه/چین/کره‌شمالی ندارد؛ با این حال، حملات مداوم معمولاً فشار اقتصادی و نارضایتی عمومی را تشدید کرده و ریسک تعمیق بحران داخلی را بالا می‌برد."
+        ],
+        "impact": "الگوی ۱۶ روزه تشدید احتمال گسترش منطقه‌ای درگیری و تضعیف پایدار ظرفیت‌های اقتصادی و سیاسی رژیم را افزایش می‌دهد.",
+        "tag": "درگیری",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/map-shows-how-16-days-of-attacks-have-evolved-in-us-israel-war-on-iran/ar-AA1YJqBh",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/map-shows-how-16-days-of-attacks-have-evolved-in-us-israel-war-on-iran/ar-AA1YJqBh",
+        "image": null,
+        "timestamp": 1773650832.0
+    },
+    {
         "title_fa": "کشتی‌ها در هرمز گیر کرده‌اند، بحران انرژی در داخل: چگونه گرایش هند به آمریکا-اسرائیل روابط با ایران را می‌آزماید",
         "title_en": "Ships stranded at Hormuz, energy crunch at home: How India’s U.S.-Israel tilt is testing ties with Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/ships-stranded-at-hormuz-energy-crunch-at-home-how-india-s-us-israel-tilt-is-testing-ties-with-iran/ar-AA1YHWmE",
         "image": null,
         "timestamp": 1773645148.0
+    },
+    {
+        "title_fa": "رویدادهای لحظه‌ای جنگ ایران ـ آمریکا ـ اسرائیل: حمله پهپادی به فجیره؛ اتحادیه اروپا گسیل نیروی دریایی به تنگه هرمز را بررسی می‌کند",
+        "title_en": "Iran US Israel war live updates: UAE's Fujairah hit in drone strike; EU discusses sending Navy to Hormuz",
+        "summary": [
+            "رئیس‌جمهور آمریکا تأیید کرد که گفتگوهایی با ایران جریان دارد اما معتقد است تهران هنوز برای توافق آماده نیست؛ وزیر خارجه ایران وجود مذاکره با آمریکا را تکذیب کرد — این تناقض نشان می‌دهد بازی دیپلماتیکِ واشنگتن می‌تواند برای افزایش فشار ساختاری بر تهران استفاده شود اما اراده سیاسی ایران برای مصالحه محدود است.",
+            "ارتش اسرائیل اعلام آغاز موج تازه‌ای از حملات «فراگیر» به تهران کرد و فرستاده اسرائیل به هند صراحتا هشدار داد که هدف قرار دادن زیرساخت‌های نفتی ایران گزینه‌ای روی میز است — هدف‌گیری تاسیسات انرژی می‌تواند درآمدهای ارزی رژیم را کاهش داده و توان مالی آن برای ادامه عملیات نظامی و تأمین شبکه‌های نیابتی را تضعیف کند.",
+            "حمله پهپادی به فجیره در امارات و بحث اتحادیه اروپا درباره اعزام نیروی دریایی به تنگه هرمز نشان‌دهنده بین‌المللی‌شدن درگیری و افزایش ریسک اختلال در مسیرهای تجاری دریایی است؛ حضور احتمالی نیروی دریایی اروپا راهبرد دریایی ایران را محدودتر و فشار اقتصادی و سیاسی بر تهران را تشدید خواهد کرد."
+        ],
+        "impact": "ترکیب حملات مستقیم، تهدید به هدف‌گیری درآمدهای نفتی و حضور نیروی دریایی خارجی می‌تواند منابع مالی و راهبردی رژیم را تضعیف کرده و ریسک گسترش جنگ و تشدید بحران اقتصادی و نارضایتی‌های داخلی را بالا ببرد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "CNBCTV18",
+        "url": "https://www.cnbctv18.com/world/iran-us-israel-war-live-updates-mojtaba-khamenei-trump-netanyahu-death-toll-missiles-attack-oil-crisis-strait-of-hormuz-liveblog-ws-l-19868831.htm",
+        "clean_url": "https://www.cnbctv18.com/world/iran-us-israel-war-live-updates-mojtaba-khamenei-trump-netanyahu-death-toll-missiles-attack-oil-crisis-strait-of-hormuz-liveblog-ws-l-19868831.htm",
+        "image": null,
+        "timestamp": 1773628680.0
     },
     {
         "title_fa": "حملات گسترده آمریکا و اسرائیل به خاک ایران",
@@ -88,6 +124,24 @@
         "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/iran-israel-war-live-updates-donald-trump-mojtaba-khamenei-middle-east-crisis-dubai-beirut-tel-aviv-latest-news/liveblog/129567246.cms",
         "image": null,
         "timestamp": 1773619205.0
+    },
+    {
+        "title_fa": "جنگ ایران شوک نفتی ایجاد می‌کند اما بحران زنجیره تأمین گسترده‌ای به دنبال ندارد — گلدمن ساکس",
+        "title_en": "The Iran war is driving an oil shock — but not a broad supply chain crisis, Goldman Sachs says",
+        "summary": [
+            "گلدمن ساکس می‌گوید درگیری‌های مرتبط با ایران باعث افزایش قیمت نفت و ایجاد شوک در بازار انرژی شده‌اند، اما این شوک به یک بحران گسترده در زنجیره تأمین جهانی تبدیل نشده است.",
+            "تحلیل نشان می‌دهد اثرات قابل‌توجه محدود به بازار انرژی و نرخ‌های نفت است و اختلال سیستمیک در شبکه‌های تولید و حمل‌ونقل جهانی مشاهده نمی‌شود.",
+            "برای ثبات داخلی ایران پیامدها پیچیده‌اند: شوک نفتی می‌تواند در کوتاه‌مدت درآمدهای ارزی را تحت تأثیر قرار دهد اما در صورت تشدید تحریم‌ها یا محدودیت در صادرات، همان شوک می‌تواند تورم و فشار اقتصادی بر جامعه را تشدید کند."
+        ],
+        "impact": "به لحاظ راهبردی، این وضعیت فشار اقتصادی و سیاسی منطقه‌ای بر رژیم را افزایش می‌دهد اما هنوز نشان‌دهنده ریسک فروپاشی زنجیره تأمین جهانی نیست.",
+        "tag": "نفت",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/oil-price-shock-iran-war-supply-chain-crisis-goldman-sachs-2026-3",
+        "clean_url": "https://www.businessinsider.com/oil-price-shock-iran-war-supply-chain-crisis-goldman-sachs-2026-3",
+        "image": "http://www.bing.com/th?id=OVFT.iQI6z3owU-HxRN0VO5WwxS&pid=News",
+        "timestamp": 1773618600.0
     },
     {
         "title_fa": "مشاور ارشد ترامپ: برآورد هزینه جنگ با ایران تا کنون ۱۲ میلیارد دلار",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/public-safety-and-emergencies/health-and-safety-alerts/fbi-warns-iran-aspired-to-attack-california-with-drones-in-retaliation-for-war-alert/ar-AA1YlKWG",
         "image": null,
         "timestamp": 1773265648.0
-    },
-    {
-        "title_fa": "جدیدترین: حملات ایران به کشتی‌ها نگرانی‌های اقتصادی را تشدید کرد و کشورها ذخایر نفتی را آزاد کردند",
-        "title_en": "The Latest: Iran’s attacks on shipping worsen economic concerns as countries tap oil reserves",
-        "summary": [
-            "حملات ایران به کشتی‌های تجاری حوالی تنگه هرمز — از جمله آتش‌زدن یک کشتی باری تایلندی و حملات پهپادی — عرضه و امنیت دریانوردی منطقه‌ای را مختل کرده است.",
-            "این تشدید نظامی موج صعودی قیمت نفت را تشدید کرده و دست‌کم چند کشور را وادار به استفاده از ذخایر استراتژیک نفتی برای مهار شوک قیمتی کرده است.",
-            "پیامدهای اقتصادی و سیاسی داخلی: اختلال در تجارت و افزایش هزینه انرژی بار سنگینی بر اقتصاد وارد می‌کند و می‌تواند منابع مالی و ظرفیت حکمرانی رژیم را تحت فشار قرار دهد."
-        ],
-        "impact": "اثر فوری؛ تشدید هزینه‌های انرژی و اختلال در مسیرهای تجاری می‌تواند فشار اقتصادی را بالا برده و ثبات سیاسی رژیم را تضعیف کند.",
-        "tag": "اقتصاد",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "WRAL",
-        "url": "https://www.wral.com/news/ap/357be-the-latest-iran-fires-at-gulf-states-as-australia-grants-asylum-to-women-on-iranian-soccer-team/",
-        "clean_url": "https://www.wral.com/news/ap/357be-the-latest-iran-fires-at-gulf-states-as-australia-grants-asylum-to-women-on-iranian-soccer-team",
-        "image": "http://www.bing.com/th?id=OVFT.YSh4ZhUwkTGinWY0s9Lm6i&pid=News",
-        "timestamp": 1773264060.0
-    },
-    {
-        "title_fa": "بیست سؤال (و پاسخ‌های کارشناسان) درباره جنگ ایران",
-        "title_en": "Twenty questions (and expert answers) about the Iran war",
-        "summary": [
-            "مجموعه‌ای از ۲۰ پرسش و پاسخ کارشناسی که سناریوهای تشدید درگیری، نقش بازیگران منطقه‌ای و پیامدهای نظامی-سیاسی احتمالی جنگ با ایران را بررسی می‌کند.",
-            "کارشناسان تأکید می‌کنند فشار تحریمی و انزوای بین‌المللی می‌تواند درآمدهای رژیم را کاهش داده و ستون‌های اقتصادی و مشروعیت حکومتی را تضعیف کند؛ اما این فشارها ممکن است هم‌زمان به افزایش سرکوب داخلی و ابزارسازی بحران برای بقای نظام منجر شود.",
-            "تحلیل‌ها هشدار می‌دهند که هرگونه رویارویی نظامی وضعیت اقتصادی و خدمات عمومی را وخیم‌تر کرده و نارضایتی اجتماعی را تشدید می‌کند؛ پیامد محتمل، افزایش بی‌ثباتی داخلی یا تشدید سرکوب است."
-        ],
-        "impact": "این گزارش نشان می‌دهد وقوع جنگ یا تشدید نظامی می‌تواند رژیم را از منظر اقتصادی و سیاسی تضعیف کند و در عین حال خطر افزایش سرکوب یا بروز بی‌ثباتی داخلی را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Atlantic Council",
-        "url": "https://www.msn.com/en-us/news/world/iran-war-4-big-questions-that-help-clarify-the-future-of-the-middle-east/ar-AA1XUzYL",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-4-big-questions-that-help-clarify-the-future-of-the-middle-east/ar-AA1XUzYL",
-        "image": null,
-        "timestamp": 1773261461.0
-    },
-    {
-        "title_fa": "ارتش اسرائیل موجی از ضربات علیه اهداف سپاه در ایران راه‌اندازی کرد؛ عوامل پهپادی پیش از پرتاب هدف قرار گرفتند",
-        "title_en": "IDF launches wave of strikes on IRGC targets across Iran, strikes drone operatives before launch",
-        "summary": [
-            "گزارش‌ها حاکی است موجی از حملات هوایی اسرائیل علیه زیرساخت‌های وابسته به سپاه پاسداران در نقاطی از غرب ایران، تهران، اصفهان، بوشهر و جنوب کشور انجام شد؛ هم‌زمان اهداف حزب‌الله در بیروت هدف گرفته شد و نیروهای اسرائیلی عاملان یک مجموعه پهپادی را در محل پرتاب در غرب ایران پیش از آماده‌سازی پرتاب هدف قرار دادند.",
-            "فوتیج‌های منتشر شده خسارت سنگین به قرارگاه فرماندهی سپاه در فردیس را نشان می‌دهد و رسانه‌ها از اجرای ضربات مشترک اسرائیل-آمریکا و هدف‌گیری زیرساخت‌های نظامی در قم و قدس خبر داده‌اند؛ هدف اعلام‌شده کاهش ظرفیت پرتاب موشک و پهپاد به سمت اسرائیل است.",
-            "تحلیل ساختاری: این حملات مستقیماً توان عملیاتی موشکی و پهپادی رژیم را هدف گرفته و فشار خارجی بر ساختار نظامی را افزایش می‌دهد؛ تضعیف زیرساخت‌های نظامی می‌تواند هزینه‌های سیاسی و اقتصادی برای تهران به دنبال داشته و در صورت تداوم به افزایش آسیب‌پذیری داخلی و تشدید نارضایتی‌ها دامن بزند."
-        ],
-        "impact": "این ضربات توان عملیاتی موشکی و پهپادی رژیم را کاهش می‌دهد و هم‌زمان احتمال تشدید واکنش‌های تلافی‌جویانه و گسترش بی‌ثباتی منطقه‌ای و درون‌مرزی را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/israeli-air-force-strikes-iranian-083340969.html",
-        "clean_url": "https://www.yahoo.com/news/articles/israeli-air-force-strikes-iranian-083340969.html",
-        "image": "http://www.bing.com/th?id=OVFT.frrL-B5vqEhAEtv61JnroS&pid=News",
-        "timestamp": 1773260040.0
     }
 ]
