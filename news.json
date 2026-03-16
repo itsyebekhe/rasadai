@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اطلاعات آمریکا: رژیم ایران در حال تثبیت قدرت",
+        "title_en": "U.S. intelligence says Iran’s regime is consolidating power",
+        "summary": [
+            "سازمان‌های اطلاعاتی آمریکا ارزیابی کرده‌اند که حکومت ایران روند تثبیت قدرت را دنبال می‌کند.",
+            "تثبیت قدرت، طبق این ارزیابی، احتمالاً با تمرکز اختیار، تقویت ابزارهای امنیتی و محدودسازی فضای سیاسی و مدنی همراه است (به‌عنوان نتیجهٔ مستقیم ارزیابی اطلاعاتی، نه ادعای مستقل).",
+            "تبعات کوتاه‌مدت شامل افزایش تاب‌آوری نظام در برابر فشارهای خارجی و قابلیت سرکوب اعتراضات است؛ اما در بلندمدت ضعف مدیریتی و نارضایتی عمومی را تشدید خواهد کرد."
+        ],
+        "impact": "این گزارش نشان می‌دهد واشنگتن افزایش ظرفیت سرکوب و کاهش فضای سیاسی را می‌بیند که پیچیدگی محاسبات تحریمی و دیپلماتیک علیه تهران را افزایش می‌دهد.",
+        "tag": "تثبیت",
+        "urgency": 5,
+        "sentiment": -0.8,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/politics/international-relations/us-intelligence-says-iran-s-regime-is-consolidating-power/ar-AA1YL18H",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-intelligence-says-iran-s-regime-is-consolidating-power/ar-AA1YL18H",
+        "image": null,
+        "timestamp": 1773692577.0
+    },
+    {
         "title_fa": "رهبران اروپایی دخالت نظامی در تنگه هرمز را رد کردند",
         "title_en": "European leaders reject military involvement in Strait of Hormuz",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://www.npr.org/2026/03/16/nx-s1-5749333/iran-war-gasoline-prices-day-17",
         "image": null,
         "timestamp": 1773683430.0
+    },
+    {
+        "title_fa": "هشدار طوفان زمستانی برای شهرستان‌های شمالی و جنوبی اونیدا",
+        "title_en": "Israel steps up bombing in Lebanon as Iran keeps stranglehold on shipping",
+        "summary": [
+            "هشدار طوفان زمستانی از بعدازظهر سه‌شنبه تا صبح چهارشنبه برای شهرستان‌های شمالی و جنوبی اونیدا صادر شده و احتمال بارش موضعی شدید برفی وجود دارد.",
+            "تجمع برف ۶ تا ۱۰ اینچ پیش‌بینی شده و بادهای تند با سرعت تا ۳۵ مایل بر ساعت می‌تواند دید را کاهش دهد و جاده‌ها را لغزنده کند.",
+            "اقدامات احتیاطی: آخرین پیش‌آگهی‌ها را دنبال کنید و برای تغییرات سریع وضعیت جوی و کاهش دید در جاده‌ها آماده باشید."
+        ],
+        "impact": "شرایط جوی خطرناک احتمالاً باعث لغزندگی گستردهٔ جاده‌ها و اختلال در رفت‌وآمد عصر سه‌شنبه و صبح چهارشنبه در شهرستان‌های اونیدا خواهد شد.",
+        "tag": "هواشناسی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "PBS",
+        "url": "https://www.wktv.com/news/local/national-and-international-news-in-focus-march-16/article_b80bcc41-352f-5432-9d4d-0b0370de18a0.html",
+        "clean_url": "https://www.wktv.com/news/local/national-and-international-news-in-focus-march-16/article_b80bcc41-352f-5432-9d4d-0b0370de18a0.html",
+        "image": null,
+        "timestamp": 1773683272.0
     },
     {
         "title_fa": "جنگ آمریکا-اسرائیل با ایران وارد هفته سوم شد؛ بیش از ۲۰۰۰ کشته",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-12-26",
         "image": null,
         "timestamp": 1773299340.0
-    },
-    {
-        "title_fa": "گزارش زنده: جنگ آمریکا و اسرائیل علیه رژیم ایران ادامه دارد",
-        "title_en": "Live Updates: US-Israeli war against Iran's regime rages on",
-        "summary": [
-            "عنوان خبر نشان‌دهنده ادامه یک کارزار نظامی مستقیم آمریکا و اسرائیل علیه رژیم ایران است؛ سطح تنش کنونی نشانه تشدید مواجهه و افزایش خطر تسری منطقه‌ای است.",
-            "این فشار خارجی می‌تواند ساختار بقا و دسترسی‌های اقتصادی رژیم را تضعیف کند و از طریق کاهش درآمدهای ارزی و اختلال در تجارت، فشار اقتصادی و سیاسی بر حاکمیت کنونی را افزایش دهد.",
-            "در برابر این شوک خارجی، ضعف مدیریت و ناکارآمدی‌های ساختاری داخلی می‌تواند نارضایتی عمومی را تشدید کند و ظرفیت رژیم برای مقابله با بحران‌ها را کاهش دهد."
-        ],
-        "impact": "ادامه این کارزار شتاب سقوط مشروعیت حاکمیت کنونی را افزایش می‌دهد و احتمال تشدید بحران سیاسی-اقتصادی و بروز ناآرامی‌های گسترده را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HOTZvaGFRWFVJOVFOREM0UGFSVXdZbnRZdEV2QTlaSHlhbXlGWW1GYUJzZzhGRndGd0I5a003NnJKdVltRmFaTG1Pa3ZKWGNlUlRSWnVmVkVTWnJWdkZQYzBkR0FodzcxaU9vTHA3SmM3eVdzbWhHd0kwYmxJREk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HOTZvaGFRWFVJOVFOREM0UGFSVXdZbnRZdEV2QTlaSHlhbXlGWW1GYUJzZzhGRndGd0I5a003NnJKdVltRmFaTG1Pa3ZKWGNlUlRSWnVmVkVTWnJWdkZQYzBkR0FodzcxaU9vTHA3SmM3eVdzbWhHd0kwYmxJREk",
-        "image": null,
-        "timestamp": 1773298414.0
-    },
-    {
-        "title_fa": "رهبر جدید: بستن تنگه هرمز ادامه می‌یابد؛ جنگ اقتصادی و حملات به کشتی‌ها تشدید شد",
-        "title_en": "Iran's new supreme leader vows to keep blocking Strait of Hormuz in first statement released by regime",
-        "summary": [
-            "رهبر جدید، مجتبی خامنه‌ای، در بیانیه‌ای که از تلویزیون دولتی خوانده شد اعلام کرده تنگه هرمز را بسته نگه خواهند داشت و وعده «انتقام خون ایرانیان» داده شده — اقدام صریحی که مسیر حیاتی نفت و تجارت جهانی را هدف می‌گذارد.",
-            "گزارش‌ها حاکی از حملات متعدد به نفت‌کش‌ها و کشتی‌های باری در خلیج و اطراف عراق و امارات است و رسانه‌های دولتی ایران حداقل یکی از این عملیات‌ها را منتسب به نیروهای ایرانی دانسته‌اند؛ هم‌زمان تهران می‌گوید بانک‌های غربی را هدف قرار خواهد داد و Citibank در امارات به‌طور موقت شعب خود را تعطیل کرده است.",
-            "حملات هوایی آمریکا و اسرائیل به مواضع در تهران که از جمله به چک‌پوینت‌های بسیج زده شده و روایت‌های رسانه‌ای مبنی بر هدف‌گذاری این حملات برای ایجاد زمینه‌ای برای اعتراضات داخلی، فضای ترس و بی‌ثباتی را تقویت کرده است؛ این ترکیب نظامی-اقتصادی فشارهای خارجی و ناکارآمدی داخلی را برجسته می‌سازد."
-        ],
-        "impact": "تعهد به بستن تنگه هرمز و هدف‌گیری سامانه‌های حیاتی تجارت و بانکداری ساختار اقتصادی و سیاسی رژیم را تضعیف می‌کند و احتمال تشدید جنگ منطقه‌ای و افزایش ناآرامی‌های داخلی را بالا می‌برد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.85,
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/live/c4gqjyk0vx3t",
-        "clean_url": "https://www.bbc.co.uk/news/live/c4gqjyk0vx3t",
-        "image": "http://www.bing.com/th?id=OVFT.IUT5eqSJ7Q5OS8sME9ub1C&pid=News",
-        "timestamp": 1773298380.0
     }
 ]
