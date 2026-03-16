@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "حملات گسترده آمریکا و اسرائیل به خاک ایران",
+        "title_en": "The US and Israel launched multiple strikes across Iran.",
+        "summary": [
+            "اقدام نظامی مستقیم آمریکا و اسرائیل علیه اهداف داخل ایران، مرحله‌ای از تشدید نظامی است که می‌تواند جریان منابع را به سمت هزینه‌های امنیتی و بازسازی زیرساخت‌ها هدایت کند و ظرفیت حکومتی برای اداره اقتصادی را تضعیف کند.",
+            "این حملات، به‌عنوان فشار خارجی، ساختار آسیب‌پذیری‌های ناشی از تحریم‌ها را تشدید می‌کنند؛ افزایش مخارج دفاعی، کاهش سرمایه‌گذاری خارجی و فشار بر ذخایر ارزی احتمالاً کسری‌های بودجه و تورم را تشدید خواهد کرد.",
+            "منبع فعلی گزارشی از اعتراضات داخلی یا پیامدهای اقتصادی مستقیم ارائه نکرده است؛ با این حال، تجربه منطقه‌ای نشان می‌دهد که بمباران‌ها و فشارهای خارجی می‌توانند نارضایتی عمومی را افزایش دهند، به‌ویژه در حضور ضعف‌های ساختاری و سوءمدیریت بلندمدت اقتصادی."
+        ],
+        "impact": "این حملات بقای اقتدار دولت را هدف گرفته و خطر تشدید سریع‌تر درگیری منطقه‌ای و فرسایش توانایی حکمرانی اقتصادی و امنیتی را افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Facebook",
+        "url": "https://www.foxnews.com/politics/iran-fires-missiles-us-bases-across-middle-east-after-american-strikes-nuclear-irgc-sites",
+        "clean_url": "https://www.foxnews.com/politics/iran-fires-missiles-us-bases-across-middle-east-after-american-strikes-nuclear-irgc-sites",
+        "image": null,
+        "timestamp": 1773626638.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: وضعیت جنگ اسرائیل-ایران چیست؟",
+        "title_en": "Live Updates: What's going on in Israel-Iran war?",
+        "summary": [
+            "خبر منبع صرفاً عنوان «به‌روزرسانی زنده» درباره جنگ اسرائیل-ایران را منتشر کرده و متن جزئیات عملیاتی یا تلفات در این ورودی ارائه نشده؛ بنابراین اطلاعات قابل استناد محدود است.",
+            "تحلیل آثار تحریم‌ها/فشار خارجی: در صورت تشدید درگیری و افزایش فشار بین‌المللی، ساختار اقتصادی و توانایی تأمین مالی نهادهای حکومتی تضعیف خواهد شد؛ این کاهش منابع، ظرفیت سرکوب و مدیریت بحران را محدود و ثبات رژیم را شکننده‌تر می‌کند.",
+            "اعتراض‌های داخلی و اقتصاد: گزارش اشاره مستقیم به اعتراضات یا وضعیت اقتصادی ندارد، اما به‌صورت واقع‌گرایانه تشدید نظامی احتمالاً فشارهای معیشتی را افزایش، ارزش پول را بیشتر تضعیف و نارضایتی عمومی را تشدید می‌کند؛ حکومت فعلی ظرفیت محدودی برای مدیریت همزمان فشار نظامی و بحران اقتصادی دارد."
+        ],
+        "impact": "پوشش زنده نشان می‌دهد وضعیت پویا و پرخطر است و هر تشدید نظامی فوری می‌تواند ثبات رژیم را به‌طور قابل‌توجهی کاهش دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://economictimes.indiatimes.com/news/newsblogs/iran-israel-war-live-updates-donald-trump-mojtaba-khamenei-middle-east-crisis-dubai-beirut-tel-aviv-latest-news/liveblog/129567246.cms",
+        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/iran-israel-war-live-updates-donald-trump-mojtaba-khamenei-middle-east-crisis-dubai-beirut-tel-aviv-latest-news/liveblog/129567246.cms",
+        "image": null,
+        "timestamp": 1773619205.0
+    },
+    {
         "title_fa": "مشاور ارشد ترامپ: برآورد هزینه جنگ با ایران تا کنون ۱۲ میلیارد دلار",
         "title_en": "Top Trump adviser says Iran war price tag at $12bn so far",
         "summary": [
@@ -142,6 +178,24 @@
         "clean_url": "https://apnews.com/article/trump-iran-democrats-oil-midterms-e4919b1a69f90f47f8f61c5967e12fac",
         "image": null,
         "timestamp": 1773604892.0
+    },
+    {
+        "title_fa": "ترامپ خواستار «تسلیم» ایران شد؛ ادعا درباره رهبر جدید که «زنده نیست»",
+        "title_en": "Trump demands Iran ‘surrender,’ says he’s hearing new leader ‘not alive’",
+        "summary": [
+            "دونالد ترامپ به‌صورت علنی خواستار تسلیم ایران شد و مدعی شده که خبرهایی درباره اینکه رهبر جدید «زنده نیست» شنیده می‌شود.",
+            "درگیری‌ها ادامه دارد: کشورهای همسایه خلیج از حملات جدید گزارش دادند و تهران آمریکا را به ضربه زدن به ترمینال نفتی اصلی خود در خارگ متهم کرده است.",
+            "فشار نظامی-رسانه‌ای آمریکا همراه با هدف قرار گرفتن زیرساخت‌های نفتی می‌تواند سازوکارهای درآمدی رژیم را تضعیف کند و احتمالاً نارضایتی‌های اقتصادی را تشدید نماید."
+        ],
+        "impact": "هدف قرار گرفتن ترمینال نفتی خارگ به‌همراه تشدید لحن آمریکا می‌تواند درآمدهای ارزی رژیم را کاهش داده و توان حفظ هزینه‌های سرکوب و خرید وفاداری داخلی را سریعاً تضعیف کند.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-15",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-israel-war-latest-march-15",
+        "image": "http://www.bing.com/th?id=OVFT.QEc_4qa6kT2L7gkcGgRhYC&pid=News",
+        "timestamp": 1773601500.0
     },
     {
         "title_fa": "پرونده اپستاین؛ اولین اتهامات علیه میلیاردر محمد الفاید",
@@ -358,6 +412,24 @@
         "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/what-do-the-first-two-weeks-of-the-war-on-iran-portend-for-the-future/ar-AA1YF8yd",
         "image": null,
         "timestamp": 1773583041.0
+    },
+    {
+        "title_fa": "آمریکا و ایران حملات را ادامه می‌دهند؛ ترامپ احتمال توافق را مطرح می‌کند",
+        "title_en": "US, Iran keep up strikes as Trump mulls possibility of deal",
+        "summary": [
+            "آمریکا و ایران همچنان حملات را ادامه می‌دهند؛ نشانه‌ای از کاهش محسوس درگیری دیده نمی‌شود.",
+            "دونالد ترامپ احتمال مذاکرات برای پایان درگیری را مطرح کرده؛ هم‌زمان عملیات نظامی ادامه دارد که نشانگر رویکرد هم‌زمان فشار نظامی و امکان دیپلماسی است.",
+            "درگیری‌ها ترافیک کشتیرانی در تنگه هرمز را به میزان چشمگیری مختل کرده و ریسک‌های اقتصادی و لجستیکی منطقه‌ای را افزایش داده است."
+        ],
+        "impact": "ادامه درگیری و اختلال در ترافیک دریایی فشار اقتصادی و سیاسی بر ایران و بازیگران منطقه‌ای را تشدید می‌کند و در صورت ادامه، می‌تواند ثبات حکمرانی و معیشت را تضعیف کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-and-iran-keep-up-strikes-as-trump-mulls-possibility-of-a-deal/ar-AA1YG5K2",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-and-iran-keep-up-strikes-as-trump-mulls-possibility-of-a-deal/ar-AA1YG5K2",
+        "image": "http://www.bing.com/th?id=OVFT.zOgfRh17c-MOKgewz37TfC&pid=News",
+        "timestamp": 1773582673.0
     },
     {
         "title_fa": "ادامه حملات هوایی در خاورمیانه؛ درگیری وارد هفته سوم می‌شود",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.scientificamerican.com/article/iran-was-nowhere-close-to-a-nuclear-bomb-experts-say",
         "image": null,
         "timestamp": 1773255093.0
-    },
-    {
-        "title_fa": "هفت روز آینده در ایران تعیین می‌کند که با رکود تورمی مواجه می‌شویم یا رکود جهانی کامل",
-        "title_en": "The next 7 days in Iran will determine if we face stagflation or a total global recession",
-        "summary": [
-            "هفت روز آینده می‌تواند نقطه عطف باشد: تشدید مناقشه در ایران ریسک تبدیل شوک عرضه و انرژی به رکود تورمی یا سقوط اقتصاد جهانی را افزایش می‌دهد.",
-            "بخش مهمی از بازارها و پرتفوها برای موج ناگهانی ناشی از تشدید درگیری آماده نیستند؛ سرمایه‌گذاران باید انتظار نوسانات شدید و آسیب‌پذیری دارایی‌ها را داشته باشند.",
-            "تشدید تنش‌ها و فشار خارجی ساختار درآمدی رژیم را تضعیف می‌کند؛ ناتوانی مدیریتی در کنترل شوک اقتصادی می‌تواند به تشدید نارضایتی عمومی و بحران‌های داخلی منجر شود."
-        ],
-        "impact": "تصمیمات و تحولات هفته آینده می‌تواند ظرف روزها درآمدهای ارزی را کاهش داده و ثبات اقتصادی داخل ایران را به سرعت تضعیف کند.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "MarketWatch on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/the-next-7-days-in-iran-will-determine-if-we-face-stagflation-or-a-total-global-recession/ar-AA1YqIZl",
-        "clean_url": "https://www.msn.com/en-us/money/markets/the-next-7-days-in-iran-will-determine-if-we-face-stagflation-or-a-total-global-recession/ar-AA1YqIZl",
-        "image": "http://www.bing.com/th?id=OVFT.MeTxsS9uq2eApg0yWe4Z1C&pid=News",
-        "timestamp": 1773253860.0
-    },
-    {
-        "title_fa": "رژیم ایران نشان داد در سایه بمباران آمریکا هنوز می‌تواند اقتصاد جهانی را تکان دهد",
-        "title_en": "Iran's regime shows it can still rattle the global economy amid U.S. bombardment",
-        "summary": [
-            "حتی با بمباران‌های مداوم آمریکا و حملات اسرائیل، حکومت تهران همچنان در مسند است و توانسته گذرگاه کلیدی منابع انرژی جهانی را مختل کند.",
-            "فشار نظامی و دیپلماتیک خارجی منابع دولتی را تحت فشار قرار می‌دهد و به تضعیف ساختاری مشروعیت و ظرفیت اقتصادی رژیم می‌انجامد؛ اما تا کنون این فشارها به فروپاشی سیستم حکومتی منجر نشده‌اند.",
-            "تصمیم به مسدودسازی مسیرهای انرژی هزینه‌های اقتصادی سنگینی برای مردم و دولت به همراه دارد — تخصیص بیشتر منابع به امنیت، کاهش درآمدهای ارزی و افزایش احتمال تشدید نارضایتی اجتماعی."
-        ],
-        "impact": "توانایی تهران در تهدید و اختلال مسیرهای انرژی جهانی بازارها را بی‌ثبات‌تر می‌کند و در عین حال فشارهای خارجی را پیچیده‌تر و هزینه‌های سیاسی-اقتصادی داخلی را بالاتر می‌برد.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/national-security/irans-regime-shows-can-still-impact-global-economy-us-bombardment-rcna262952",
-        "clean_url": "https://www.nbcnews.com/politics/national-security/irans-regime-shows-can-still-impact-global-economy-us-bombardment-rcna262952",
-        "image": null,
-        "timestamp": 1773252000.0
-    },
-    {
-        "title_fa": "تهدید ایران به نفت ۲۰۰ دلاری هم‌زمان با آزادسازی گسترده ذخایر اضطراری آمریکا",
-        "title_en": "Iran threatens $200 oil barrels as US prepares massive release of emergency petroleum reserves",
-        "summary": [
-            "ادعای نفت تا ۲۰۰ دلار به‌واسطه تشدید حملات مرتبط با آمریکا و اسرائیل؛ خطر اختلال عرضه که می‌تواند بدترین بحران انرژی از دهه ۱۹۷۰ را رقم بزند و بنزین تا ۵ دلار برسد (مطابق گزارش).",
-            "آزادسازی گسترده ذخایر نفتی اضطراری توسط آمریکا اقدامی استراتژیک برای کاهش شوک قیمتی و در عمل اهرمی است که توان جمهوری اسلامی در استفاده از درآمد نفتی و فشار اقتصادی بین‌المللی را تضعیف می‌کند.",
-            "افزایش ناگهانی قیمت‌های انرژی، در کنار سوءمدیریت اقتصادی ساختاری رژیم، می‌تواند بار فقر و نارضایتی را بر مردم سنگین‌تر کند و فضای سیاسی داخل کشور را حساس‌تر سازد."
-        ],
-        "impact": "ادامه تشدید تنش‌ها و شوک قیمت نفت می‌تواند درآمدهای ارزی رژیم را به مخاطره اندازد و نارضایتی اجتماعی را افزایش دهد که ثبات سیاسی را تحت فشار قرار می‌دهد.",
-        "tag": "نفت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Fox Business on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/iran-threatens-200-oil-barrels-as-us-prepares-massive-release-of-emergency-petroleum-reserves/ar-AA1YqK8g",
-        "clean_url": "https://www.msn.com/en-us/money/markets/iran-threatens-200-oil-barrels-as-us-prepares-massive-release-of-emergency-petroleum-reserves/ar-AA1YqK8g",
-        "image": "http://www.bing.com/th?id=OVFT.8LYJ7VKdf5Z2v3KWR__PKy&pid=News",
-        "timestamp": 1773249947.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید جنگ با ایران «به‌زودی» پایان می‌یابد؛ اسرائیل: زمان‌بندی نداریم",
-        "title_en": "Trump says Iran war to end ‘soon’ as Israel claims no time limit",
-        "summary": [
-            "ترامپ اظهار داشته جنگ با ایران «به‌زودی» تمام می‌شود؛ به موازات آن اسرائیل اعلام کرده برای عملیات علیه ایران محدودیت زمانی قائل نیست.",
-            "تضاد مواضع واشنگتن (اظهارنظر ترامپ) و تل‌آویو نشان‌دهنده احتمالی برای تشدید فشار نظامی و دیپلماتیک است که می‌تواند به افزایش تحریم‌ها و تحرکات نظامی منجر شود.",
-            "برای حکومت ایران، این گفتمان پرتنش احتمالاً به شوک‌های اقتصادی بیشتر، توجیه سرکوب داخلی و تشدید نارضایتی اجتماعی می‌انجامد. "
-        ],
-        "impact": "این نوع گفتار دوگانه خطر افزایش عملیات نظامی و تحریم‌ها را بالا می‌برد و ثبات داخلی رژیم را از طریق ضربه به اقتصاد و تشدید سرکوب تضعیف می‌کند.",
-        "tag": "تصاعد",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3ZvRlJOSlpuOUxsMGJ0VXhicmVIVUZGM3RFOFhVWW5WR0pScGdaMmc3LU9xS2ZfNDllSm5mYXBfLWxkWjZqaVFNb0VKdFh4dnJBYUdKWnFxaGQxeGxBRkZWMWxlWHBzeWZBYWFMcGFBNkN6cllwNWtkQU90UXNvWFROazBXRU1aQ2xsZFI1UUtYT0NwSk9nV0dEa1A2bVkyZlFzZFhn0gGrAUFVX3lxTE1GTHBQcVM0LWw0UDBuejQ0QnpPbzAwY001T0dja05OZ0JmSzlFZzdzMU9MdlhSZzNmLThZdDJuTVZzcndfM0lMTFRxSGthMzZocDZrM1JsRUJlY2Via194NGJSazZUZll5Y3RUbHMwbXdIQzRtTkhadVg3N2tiZDNWajR4V0hSYlViSnVDOHJhdkNDVTRRYk1lRDVhTVMyZ09mMkp4eU12cF9uMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNU3ZvRlJOSlpuOUxsMGJ0VXhicmVIVUZGM3RFOFhVWW5WR0pScGdaMmc3LU9xS2ZfNDllSm5mYXBfLWxkWjZqaVFNb0VKdFh4dnJBYUdKWnFxaGQxeGxBRkZWMWxlWHBzeWZBYWFMcGFBNkN6cllwNWtkQU90UXNvWFROazBXRU1aQ2xsZFI1UUtYT0NwSk9nV0dEa1A2bVkyZlFzZFhn0gGrAUFVX3lxTE1GTHBQcVM0LWw0UDBuejQ0QnpPbzAwY001T0dja05OZ0JmSzlFZzdzMU9MdlhSZzNmLThZdDJuTVZzcndfM0lMTFRxSGthMzZocDZrM1JsRUJlY2Via194NGJSazZUZll5Y3RUbHMwbXdIQzRtTkhadVg3N2tiZDNWajR4V0hSYlViSnVDOHJhdkNDVTRRYk1lRDVhTVMyZ09mMkp4eU12cF9uMA",
-        "image": null,
-        "timestamp": 1773249541.0
     }
 ]
