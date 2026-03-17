@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "گسترش جنگ ایران به منطقه خلیج",
+        "title_en": "The Iran War Spreads to the Gulf Region",
+        "summary": [
+            "تیتر نشان می‌دهد درگیری‌های مرتبط با ایران به منطقه خلیج منتقل شده‌اند؛ این گسترش ریسک تبدیل مناقشه به رویارویی فراگیرتر با بازیگران منطقه‌ای و فرامنطقه‌ای را افزایش می‌دهد.",
+            "گسترش درگیری می‌تواند فشارهای خارجی و تحریم‌ها را تشدید کند؛ این فشارها ساختارهای اقتصادی ضعیف رژیم را هدف قرار داده و منابع مالی لازم برای حفظ ثبات داخلی را کاهش می‌دهند.",
+            "افزایش هزینه‌های نظامی و اختلال در تجارت انرژی بار اقتصادی را سنگین‌تر می‌کند و ضعف مدیریت حکومتی را نمایان‌تر ساخته و پتانسیل برای تشدید نارضایتی‌های عمومی را بالا می‌برد."
+        ],
+        "impact": "گسترش جنگ به خلیج، با شدت‌بخشیدن فشار خارجی و ضربه به اقتصاد، ثبات کوتاه‌مدت رژیم را تضعیف و احتمال تشدید بحران‌های داخلی را افزایش می‌دهد.",
+        "tag": "گسترش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "J Street",
+        "url": "https://www.economist.com/interactive/2026-iran-war-tracker",
+        "clean_url": "https://www.economist.com/interactive/2026-iran-war-tracker",
+        "image": null,
+        "timestamp": 1773762405.0
+    },
+    {
+        "title_fa": "اسرائیل می‌گوید لاریجانی را کشته است؛ جنگ شدت گرفت",
+        "title_en": "Israel Says It’s Killed Iran’s Larijani as War Intensifies",
+        "summary": [
+            "اسرائیل اعلام کرده است لاریجانی کشته شده و این ادعا همزمان با تشدید درگیری‌ها گزارش شده است.",
+            "این ادعا می‌تواند روند تشدید نظامی را سریع‌تر کند و ریسک واکنش‌های متقابل ایران و گسترش درگیری منطقه‌ای را افزایش دهد.",
+            "کشته شدن چهره‌ای با نام لاریجانی می‌تواند فشار سیاسی داخلی را بالا ببرد، هزینه‌های امنیتی رژیم را افزایش دهد و ضعف ساختاری مدیریت حاکمیت را به‌عنوان عامل تشدید ناآرامی‌ها برجسته کند."
+        ],
+        "impact": "اگر ادعا تایید شود، حذف یک چهره اعلام‌شده از صفوف نظامی-سیاسی نمادی از تضعیف رهبری است که می‌تواند اهرم فشار خارجی را تقویت و هزینه‌های اقتصادی-امنیتی داخلی را افزایش دهد.",
+        "tag": "ترور",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Bloomberg.com",
+        "url": "https://www.msn.com/en-us/news/world/israel-says-strike-killed-iran-s-larijani-as-war-intensifies/ar-AA1YNYQK",
+        "clean_url": "https://www.msn.com/en-us/news/world/israel-says-strike-killed-iran-s-larijani-as-war-intensifies/ar-AA1YNYQK",
+        "image": null,
+        "timestamp": 1773759184.0
+    },
+    {
         "title_fa": "حملات به ایران، توضیح داده شده: چگونه به اینجا رسیدیم و چه معنایی دارد",
         "title_en": "The Iran Strikes, Explained: How We Got Here and What It Means",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://www.theatlantic.com/national-security/2026/03/iran-war-trump-end/686339",
         "image": null,
         "timestamp": 1773756482.0
+    },
+    {
+        "title_fa": "آیا آمریکا و اسرائیل در حال جنگ با میراث فرهنگی ایران هستند؟",
+        "title_en": "Are the US and Israel waging war on Iran’s cultural heritage?",
+        "summary": [
+            "وزارت میراث فرهنگی ایران اعلام کرده از آغاز جنگ اعلام‌شده آمریکا-اسرائیل علیه ایران دست‌کم ۵۶ موزه، بنای تاریخی و سایت فرهنگی آسیب دیده‌اند؛ تهران با ۱۹ مکان آسیب‌دیده از جمله کاخ گلستان، بازار بزرگ و ساختمان سابق سنا بیشترین خسارت را داشته است.",
+            "آسیب‌ها شامل آثار ثبت‌شده در یونسکو مانند میدان نقش‌جهان و کاخ گلستان است و گزارش‌ها ویدیویی (AP) شکستگی شیشه‌ها و سقف‌های آیینه‌ای کاخ گلستان را نشان می‌دهد؛ یونسکو و کنوانسیون لاهه ۱۹۵۴ و قطعنامه ۲۳۴۷ شورای امنیت حمله به میراث فرهنگی را نقض قانون بین‌الملل می‌دانند.",
+            "اعلام رسمی وزارتخانه نمایانگر یک شکست حفاظتی دولتی درباره نگهداری از میراث ملی است؛ اگر فشار و حملات خارجی ادامه یابد، این موضوع می‌تواند به نمادی از تضعیف توانایی دولت در حفاظت از هویت ملی تبدیل و ظرفیت رژیم را برای حفظ مشروعیت سیاسی کاهش دهد."
+        ],
+        "impact": "آسیب گسترده به میراث فرهنگی، فراتر از خسارت مادی، می‌تواند نقش نمادین در تضعیف مشروعیت رژیم و تشدید آسیب‌پذیری آن در برابر فشارهای بین‌المللی و واکنش‌های داخلی داشته باشد.",
+        "tag": "میراث",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/us-israel-waging-war-iran-122024310.html",
+        "clean_url": "https://www.yahoo.com/news/articles/us-israel-waging-war-iran-122024310.html",
+        "image": null,
+        "timestamp": 1773753175.0
     },
     {
         "title_fa": "کجاست خروج؟ برای ترامپ، بیرون آمدن از جنگ با ایران سخت‌تر از وارد شدن به آن",
@@ -160,6 +214,24 @@
         "clean_url": "https://www.nytimes.com/2026/03/17/world/asia/iran-war-china-us-trump-xi.html",
         "image": null,
         "timestamp": 1773741257.0
+    },
+    {
+        "title_fa": "قطع سراسری اینترنت در ایران؛ دیاسپورا جای خالی صداهای درون کشور را پر می‌کند",
+        "title_en": "Iran’s internet blackout silences voices at home as diaspora creators fill the void",
+        "summary": [
+            "حکومت تهران قطع گسترده اینترنت را در هفته‌های نخست جنگ اعمال کرده و ارتباطات داخلی را خفه کرده؛ این مانع از سنجش قابل اعتماد نگرش‌های مردم داخل ایران می‌شود.",
+            "خلأ اطلاعاتی به ظهور و تقویت سازندگان محتوای ایرانی-آمریکایی منجر شده که روایت‌ها را برای مخاطب خارجی شکل می‌دهند، اما این صداها نماینده تنوع واقعی دیدگاه‌ها در داخل کشور نیستند و شکاف‌های دیاسپورا را عمیق‌تر کرده‌اند.",
+            "سازندگانی مانند Ariana Afshar با خانواده‌هایی که از ترس سرکوب قادر به بیان دیدگاه‌هایشان نیستند روبه‌رو می‌شوند؛ این وضعیت نشان‌دهنده ناکارآمدی مدیریتی در کنترل اطلاعات و فرسایش مشروعیت حکومتی است."
+        ],
+        "impact": "قطع اینترنت مشروعیت حکومت را تضعیف و خلأ اطلاعاتی را برای تسلط روایت‌های خارج از کشور فراهم می‌کند که می‌تواند ثبات سیاسی را در کوتاه‌ و میان‌مدت تضعیف کند.",
+        "tag": "قطعی_اینترنت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/03/17/iran-internet-blackout-diaspora-creators/",
+        "clean_url": "https://www.bostonherald.com/2026/03/17/iran-internet-blackout-diaspora-creators",
+        "image": null,
+        "timestamp": 1773738060.0
     },
     {
         "title_fa": "نامشخص بودن کشته یا زخمی بودن: اسرائیل رئیس دستگاه امنیتی ایران علی لاریجانی را هدف قرار داد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/both-sides-dig-iran-war-004930248.html",
         "image": null,
         "timestamp": 1773359040.0
-    },
-    {
-        "title_fa": "چرا زمان به نفع ایران است وقتی ترامپ تحت فشار برای پایان درگیری قرار دارد",
-        "title_en": "Why time is on Iran’s side as Trump faces pressure to end conflict",
-        "summary": [
-            "بر اساس عنوان The Hill، روزنامه اشاره می‌کند که فشار سیاسی بر ترامپ برای خاتمه درگیری، موجب می‌شود زمان به نفع جمهوری اسلامی عمل کند و فرصت مانور استراتژیک برای تهران افزایش یابد.",
-            "تحلیل تحریم‌ها/فشار خارجی: اگر واشینگتن زیر فشار داخلی و خارجی به دنبال پایان سریع منازعه باشد، امکان کاهش موقت هزینه‌های میدانی علیه تهران بیشتر می‌شود؛ در مقابل، ادامه و تشدید فشارهای طولانی‌مدت می‌تواند ساختار اقتصادی و سیاسی رژیم را فرسوده‌تر کند.",
-            "اعتراضات داخلی و اقتصاد: عنوان به‌طور مستقیم به اعتراضات داخلی یا بازیگران خارجی جایگزین اشاره نکرده، اما هر طولانی شدن وضعیت بحران احتمالاً ناکارایی حکمرانی و نارضایتی‌های اقتصادی را تشدید خواهد کرد—امری که تهدیدی برای بقا و مشروعیت رژیم است."
-        ],
-        "impact": "نتیجه عملی این تیتر این است که معادله سیاسی در واشینگتن ممکن است به تهران زمان و فضای تاکتیکی بدهد؛ در کوتاه‌مدت این امر برای رژیم فرصتی است و برای اپوزیسیون تهدیدی است که باید با تحلیل واقع‌گرایانه مواجه شود.",
-        "tag": "زمان",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Hill",
-        "url": "https://www.msn.com/en-us/news/politics/why-time-is-on-iran-s-side-as-trump-faces-pressure-to-end-conflict/ar-AA1Yv77G",
-        "clean_url": "https://www.msn.com/en-us/news/politics/why-time-is-on-iran-s-side-as-trump-faces-pressure-to-end-conflict/ar-AA1Yv77G",
-        "image": null,
-        "timestamp": 1773354601.0
-    },
-    {
-        "title_fa": "ترامپ و رهبر جدید ایران لحن مقابله‌ای دارند؛ بازار نفت تا کنون تسکین اندکی دیده است",
-        "title_en": "Trump and Iran strike defiant tone as oil markets see little relief",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، و رهبر جدید ایران در روز سیزدهم جنگ لحن مقابله‌ای حفظ کردند؛ این مواضع مانع از ایجاد آرامش در بازارهای انرژی شد.",
-            "اقدامات تازه آمریکا برای مهار قیمت نفت تا این لحظه تأثیر چشمگیری نداشته و بازارها هیچ تسکین قابل‌توجهی تجربه نکرده‌اند.",
-            "عدم تاثیر فوری بر قیمت نفت نشان می‌دهد فشار خارجی بر درآمدهای نفتی ایران می‌تواند تضعیف ساختاری در بودجه و اقتصاد کشور ایجاد کند و هزینه‌های معیشتی را افزایش دهد."
-        ],
-        "impact": "تداوم لحن مقابله‌ای همراه با ناکامی در کاهش سریع قیمت نفت، ریسک تشدید فشار اقتصادی بر حکومت ایران و افزایش بی‌ثباتی سیاسی را بالا می‌برد.",
-        "tag": "نفت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-and-iran-strike-defiant-tone-as-oil-markets-see-little-relief/ar-AA1YuBxV",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-and-iran-strike-defiant-tone-as-oil-markets-see-little-relief/ar-AA1YuBxV",
-        "image": "http://www.bing.com/th?id=OVFT.NrkLJubs2h6Dxg33gFI9bS&pid=News",
-        "timestamp": 1773353860.0
-    },
-    {
-        "title_fa": "نتانیاهو می‌گوید اسرائیل «قدرتمندتر از همیشه» در اولین سخنرانی پس از جنگ با ایران",
-        "title_en": "Netanyahu says Israel ‘stronger than ever’ in first speech since Iran war",
-        "summary": [
-            "بنیامین نتانیاهو در اولین سخنرانی عمومی خود پس از جنگ با ایران اعلام کرد اسرائیل «قدرتمندتر از همیشه» است.",
-            "این بیانیه عمدتاً ماهیتی نمادین و پیام‌رسانی سیاسی دارد و به نظر می‌رسد هدف آن تقویت روحیه داخلی و نمایش بازدارندگی به بازیگران خارجی باشد.",
-            "خبر فعلی جزئیات میدانی یا شواهد مستقل درباره نتایج جنگ ارائه نمی‌دهد؛ بنابراین گزاره‌های مربوط به «قدرت بیشتر» نیاز به شواهد عینی دارند."
-        ],
-        "impact": "پیام نتانیاهو احتمالاً برای تحکیم حمایت داخلی و ارسال علامت به بازیگران منطقه‌ای است، اما اثرگذاری آن در غیاب شواهد میدانی قابل تردید است.",
-        "tag": "اسرائیل",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3ZkUWNoWFphREdDaHRmMmtiOUFyV2FkZzg1WTRtUFRXcjVDYWgydjZKUm4xMHFDZ2ZVcXdULUlIdnVUTTV5Tk9SUFF6SHN3c0d5MEhhNmZxeDFBNG5sdVFScHRmM1RkUkFkbjZlNk4tQzdIV3dWMGxQVzV3WDhJejlXdlhhVHFPRkZxYW1XWENNU2xCY0haZWJmUFpWanVzN3h0aXBuemlTVFF3TEJxWnVR0gG3AUFVX3lxTFBES2NsT1pQc01jWDE5eV82aWtpbElkaVhxR1h2M2U0ZGROdURlOWh0cndMU2Z0aEhQQ25EUEgxcDV3dGZqVmVqRG45clVHSzVJSFp3ZnhpVmIxMWQ0Z2xNTnVUMFdNUVprZGpwcERVWWdPc2dIbGxiaDNkMjNWU0hFSUFwMlhjcDBiVGVNY21NLVJlYlA0MGxxdzFrcmpaRTBMYmVzVjRWa1M3ZW8wdHE2a2NwX3FENA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3ZkUWNoWFphREdDaHRmMmtiOUFyV2FkZzg1WTRtUFRXcjVDYWgydjZKUm4xMHFDZ2ZVcXdULUlIdnVUTTV5Tk9SUFF6SHN3c0d5MEhhNmZxeDFBNG5sdVFScHRmM1RkUkFkbjZlNk4tQzdIV3dWMGxQVzV3WDhJejlXdlhhVHFPRkZxYW1XWENNU2xCY0haZWJmUFpWanVzN3h0aXBuemlTVFF3TEJxWnVR0gG3AUFVX3lxTFBES2NsT1pQc01jWDE5eV82aWtpbElkaVhxR1h2M2U0ZGROdURlOWh0cndMU2Z0aEhQQ25EUEgxcDV3dGZqVmVqRG45clVHSzVJSFp3ZnhpVmIxMWQ0Z2xNTnVUMFdNUVprZGpwcERVWWdPc2dIbGxiaDNkMjNWU0hFSUFwMlhjcDBiVGVNY21NLVJlYlA0MGxxdzFrcmpaRTBMYmVzVjRWa1M3ZW8wdHE2a2NwX3FENA",
-        "image": null,
-        "timestamp": 1773351323.0
-    },
-    {
-        "title_fa": "ترامپ: فکر می‌کنم مجتبی خامنه‌ای زنده اما «آسیب‌دیده» است",
-        "title_en": "Trump says he thinks Iran's new supreme leader is alive but 'damaged'",
-        "summary": [
-            "دونالد ترامپ گفت احتمالاً مجتبی خامنه‌ای زنده اما «آسیب‌دیده» است؛ یک مقام ایرانی به رویترز اعلام کرد او سبک‌جراحت دارد و از زمان انتخابش در انظار عمومی ظاهر نشده است و نخستین اظهارات او توسط مجری تلویزیون قرائت شد.",
-            "حملات آمریکا و اسرائیل که از ۲۸ فوریه آغاز شده‌اند هزاران کشته برجای گذاشته و بازارهای مالی را متلاطم کرده‌اند؛ ضربه به فرماندهان نظامی و جانشینی بحث‌برانگیز رهبران نظامی-سیاسی، تضعیف ساختاری توان عملیاتی و فشار اقتصادی بر حاکمیت را تشدید می‌کند.",
-            "پنهان‌کاری درباره وضعیت رهبر جدید و قرائت پیام‌ها به جای حضور مستقیم او، همراه با تهدید به بستن تنگه هرمز و فراخوان برای بستن پایگاه‌های آمریکا در منطقه، روند انزوای بین‌المللی و فشارهای داخلی را بالا می‌برد و سوالات مشروعیت و ناکارآمدی مدیریتی را تقویت می‌کند."
-        ],
-        "impact": "ترکیب تلفات رهبران نظامی، ابهام درباره رهبری جدید و شوک به بازارها، کنترل مرکزی رژیم را تضعیف و احتمال تشدید بحران‌های سیاسی و اقتصادی داخلی را بیشتر می‌کند.",
-        "tag": "بی‌ثباتی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/trump-says-thinks-irans-supreme-034310775.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-says-thinks-irans-supreme-034310775.html",
-        "image": null,
-        "timestamp": 1773351060.0
     }
 ]
