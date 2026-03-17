@@ -18,6 +18,24 @@
         "timestamp": 1773742658.0
     },
     {
+        "title_fa": "اسرائیل می‌گوید رئیس امنیت ملی ایران لاریجانی را کشت",
+        "title_en": "Israel says killed Iran national security chief Larijani",
+        "summary": [
+            "وزارت دفاع اسرائیل اعلام کرد علی لاریجانی، دبیر شورای عالی امنیت ملی، و غلامرضا سلیمانی، فرمانده بسیج، در حملات هوایی در تهران کشته شده‌اند؛ تا کنون هیچ‌گونه تایید رسمی از سوی مقامات ایران منتشر نشده است.",
+            "ادعای اسرائیل درباره «پیروزی‌های عملیاتی» و اعلام ادامه هدف‌گیری رهبران نشان می‌دهد فشار و دخالت خارجی بر تهران افزایش یافته و این گونه عملیات می‌تواند تضعیف ساختاری در زنجیره فرماندهی، اختلال در تصمیم‌گیری امنیتی و تشدید انزوای بین‌المللی و فشارهای اقتصادی را به دنبال داشته باشد.",
+            "سلیمانی به سرکوب اعتراضات گسترده ژانویه مرتبط است؛ حذف این چهره‌ها ضعف مدیریتی و اتکای نظام به سرکوب را برجسته می‌کند و می‌تواند هم به تشدید سرکوب داخلی و هم به افزایش نارضایتی و تلاطم سیاسی منجر شود."
+        ],
+        "impact": "کشته شدن لاریجانی و سلیمانی، حتی بدون تایید رسمی، ضربه‌ای مستقیم به هسته امنیتی تهران است که فوراً انسجام رهبری را تضعیف، فضای سیاسی را متلاطم و احتمال تشدید سرکوب و واکنش‌های تلافی‌جویانه را افزایش می‌دهد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Leader Publications",
+        "url": "https://www.yahoo.com/news/articles/israel-says-killed-iranian-security-105930805.html",
+        "clean_url": "https://www.yahoo.com/news/articles/israel-says-killed-iranian-security-105930805.html",
+        "image": null,
+        "timestamp": 1773742277.0
+    },
+    {
         "title_fa": "قمار خلیجی اسرائیل در جنگ با ایران",
         "title_en": "Israel’s Gulf-State Gamble in the Iran War",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRENvVU1vVzJGc1Y1QWIwZzVjaUYtUzAyaHdVQWc4VjRsZU03NDBvOUVJQkM4OXNpRFhYTEI0ZkNBZ1N0NXZ1SkxYb2RGRFRJak9mbm9ETk1yc2dsWVNmU3hpSzhWbXlMTXFLLTVldTMxUjhSdm50d1dQa0h0cnI0TDZB",
         "image": null,
         "timestamp": 1773720000.0
+    },
+    {
+        "title_fa": "چرا کشته شدن علی لاریجانی ایران را تکان خواهد داد",
+        "title_en": "Why Ali Larijani’s Killing Will Shake Iran",
+        "summary": [
+            "از دست رفتن یکی از معدود کارگزاران فنی و تأثیرگذار نظام که نقش مرجع میانی و هماهنگ‌کننده میان جناح‌ها را داشت، خلأ مدیریتی ایجاد می‌کند و رقابت‌ درون‌حکومتی برای پر کردن این جایگاه را تشدید خواهد کرد.",
+            "این فقدان ظرفیت میانجی‌گری و مدیریت بحران نظام را در مواجهه با فشارهای خارجی و تحریم‌ها تضعیف می‌کند؛ نبود لاریجانی ریسک تصمیم‌گیری‌های شتاب‌زده و خطاهای راهبردی را بالا می‌برد.",
+            "پیامدهای اقتصادی و اجتماعی ملموس خواهد بود: کاهش توان حکومت در مدیریت مشکلات اقتصادی و مهار نارضایتی‌های از پیش موجود می‌تواند احتمال بروز موج جدیدی از بی‌ثباتی و اعتراضات را افزایش دهد."
+        ],
+        "impact": "کشته شدن لاریجانی خلأ رهبری فنی و میانجی‌گری در ساختار تصمیم‌گیری نظام ایجاد می‌کند که انسجام داخلی را کاهش و توان مقابله با فشارهای خارجی و بحران‌های اقتصادی را تضعیف خواهد کرد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/ali-larijani-iran-trump-war-death-11688589",
+        "clean_url": "https://www.newsweek.com/ali-larijani-iran-trump-war-death-11688589",
+        "image": "http://www.bing.com/th?id=OVFT.I-NJ7E_jhavkhxIzejd7-S&pid=News",
+        "timestamp": 1773719160.0
     },
     {
         "title_fa": "ترامپ از متحدان به‌خاطر رد درخواست درباره تنگه هرمز انتقاد کرد؛ ایران و اسرائیل حملات هوایی تبادل کردند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.mlive.com/news/2026/03/fbi-warned-police-departments-of-possible-drone-attacks-from-iran.html",
         "image": "http://www.bing.com/th?id=OVFT.rbtiO27_oaamAq5Z4_cMmy&pid=News",
         "timestamp": 1773328740.0
-    },
-    {
-        "title_fa": "تهدید ایران به بستن تنگه هرمز و وعده تلافی علیه آمریکا هم‌زمان با جهش قیمت نفت",
-        "title_en": "Iran says will make US regret war as oil prices soar",
-        "summary": [
-            "تهدید عملیاتی: علی لاریجانی (مسئول امنیتی) اعلام کرد ایران تا پشیمان کردن آمریکا دست نخواهد کشید و مجتبا خامنه‌ای، رهبر جدید، رسماً استفاده از «اهرم بستن تنگه هرمز» را سفارش داده؛ این تهدیدها باعث جهش قیمت نفت و هشدار آژانس بین‌المللی انرژی درباره بزرگ‌ترین اختلال عرضه شده است.",
-            "خلأ و تمرکز رهبری: مرگ علی خامنه‌ای در حمله و انتخاب مجتبا خامنه‌ای که گزارش‌ها او را مجروح نشان می‌دهند، همراه با عدم حضور علنی رهبر جدید و خوانده شدن پیام او از تلویزیون دولتی، نشانه‌های سردرگمی مدیریتی و تمرکز تصمیم‌گیری در وضعیتی تردیدآمیز است.",
-            "فشار بین‌المللی و پیامدهای اقتصادی: عملیات مشترک آمریکا-اسرائیل و اظهارات ترامپ درباره ادامه مبارزه، همراه با تلاش‌های دیپلماتیک نامشخص برای پایان درگیری (طبق سخنان معاون وزیر خارجه)، نشان می‌دهد فشار خارجی و اختلال در عبور نفت و گاز می‌تواند درآمدهای ارزی و ثبات اقتصادی ایران را به‌طور ساختاری تضعیف کند."
-        ],
-        "impact": "بستن تنگه هرمز و ادامه درگیری نظامی، در کوتاه‌مدت ضربه مستقیم به درآمدهای ارزی وارد می‌کند و در میان‌مدت خلأ رهبری و فشار بین‌المللی ساختارهای حکومت را تضعیف و احتمالی برای افزایش نارضایتی داخلی و بحران مدیریت ایجاد می‌کند.",
-        "tag": "تنگه",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iran-targets-fuel-facilities-sending-052225951.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-targets-fuel-facilities-sending-052225951.html",
-        "image": null,
-        "timestamp": 1773327600.0
-    },
-    {
-        "title_fa": "منابع امنیتی اسرائیل: به ایران حمله کردیم بدون برنامه روشن برای تغییر رژیم",
-        "title_en": "We attacked Iran with no clear plan for regime change, Israeli security sources say",
-        "summary": [
-            "منابع امنیتی اسرائیل می‌گویند حمله یا حملاتی علیه اهدافی در ایران انجام شده، اما متصدیان عملیات برنامه‌ای روشن برای تغییر رژیم نداشته‌اند.",
-            "این اقرار نشان می‌دهد هدف‌گذاری راهبردی اسرائیل محدود یا نامشخص بوده و احتمالاً ریسک تشدید درگیری و فروریختن بازدارندگی متعارف در منطقه را افزایش می‌دهد.",
-            "فاش شدن نداشتن هدف سیاسی مشخص، فشارهای خارجی بر نظام را تشدید و ضعف مدیریت راهبردی حکومت ایران را در معادلات امنیتی و اقتصادی برجسته می‌کند."
-        ],
-        "impact": "این اعتراف حکایت از بحران راهبردی و افزایش احتمال تشدید نظامی دارد که هم فشارهای خارجی را علیه ساختارهای اقتصادی-سیاسی جمهوری اسلامی بالا می‌برد و هم پرسش‌های داخلی درباره کارآمدی مدیریت امنیتی را تشدید می‌کند.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcngtWjZjNF9NOW9tWkhMMjV4WkZ5SGd3VjUzZi1UNnBRalFkWWtOa1QyUXFrelY1S29TTlJEYUplTlRqa3BjYVpjUWczQ3M2VnZDSFJiZzVCMVJhcHpBbFM2WlNJc050c0lZc3RZR2FrZmUyajdCenBzRlcwREtZaTFGTHMycXdxTEI1d1dZbDJEd0hsc2R2MW00QVRhbGdoZExsTy1mME90V1ppQ1FF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcngtWjZjNF9NOW9tWkhMMjV4WkZ5SGd3VjUzZi1UNnBRalFkWWtOa1QyUXFrelY1S29TTlJEYUplTlRqa3BjYVpjUWczQ3M2VnZDSFJiZzVCMVJhcHpBbFM2WlNJc050c0lZc3RZR2FrZmUyajdCenBzRlcwREtZaTFGTHMycXdxTEI1d1dZbDJEd0hsc2R2MW00QVRhbGdoZExsTy1mME90V1ppQ1FF",
-        "image": null,
-        "timestamp": 1773325680.0
     }
 ]
