@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "کجاست خروج؟ برای ترامپ، بیرون آمدن از جنگ با ایران سخت‌تر از وارد شدن به آن",
+        "title_en": "Where's the exit? For Trump, harder to get out of the Iran war than into it",
+        "summary": [
+            "ایالات متحده و اسرائیل از 28 فوریه حملاتی را علیه ایران آغاز کردند؛ ترامپ در یک ویدئوی تبلیغاتی از پیروزی سریع و از کار انداختن نیروی دریایی، موشک‌ها و ظرفیت هسته‌ای ایران و حتی سرنگونی حکومت صحبت کرد؛ حملات و تلافی‌ها منطقه‌ای شد و از بحرین، سوریه، عراق، قطر تا عربستان آثار مستقیم جنگ دیده شد.",
+            "نکته محوری گزارش: ورود به جنگ آسان‌تر از خروج است — اهداف گسترده ترامپ (از بین بردن ظرفیت‌های نظامی و تغییر حکومت) عملاً امکان بازگرداندن وضعیت به پیش‌را ناتوان می‌سازد و خطر درگیرشدن طولانی‌مدت و تشدید تضادهای منطقه‌ای را افزایش می‌دهد.",
+            "اختلالات اقتصادی و زیرساختی ملموس است — فرودگاه‌ها و خطوط هوایی تعطیل شده و اهداف شهری و نظامی هدف قرار گرفته‌اند؛ اگر فشار خارجی و تنش نظامی ادامه یابد، این اختلال‌ها می‌توانند به تضعیف ساختاری اقتصاد و افزایش نارضایتی عمومی بدل شوند."
+        ],
+        "impact": "این منازعه، آمریکا را در برابر انتخاب دشوارِ توقف اهداف گسترده و پذیرش هزینه‌های طولانی‌مدت گرفتار می‌کند و هم‌زمان به اختلال اقتصادی و تضعیف ثبات سیاسی در داخل ایران و همسایگی منجر می‌شود.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "USA Today",
+        "url": "https://www.yahoo.com/news/articles/wheres-exit-trump-harder-iran-070131386.html",
+        "clean_url": "https://www.yahoo.com/news/articles/wheres-exit-trump-harder-iran-070131386.html",
+        "image": null,
+        "timestamp": 1773753038.0
+    },
+    {
+        "title_fa": "نقشه‌های جنگ ایران: رصد درگیری‌های خاورمیانه",
+        "title_en": "Iran War Maps: Tracking the Mideast Conflict",
+        "summary": [
+            "نیویورک‌تایمز مجموعه‌ای از نقشه‌ها و به‌روزرسانی‌ها برای رصد تحولات جنگ در خاورمیانه منتشر کرده؛ هدف عمده ارائه تصویری جغرافیایی و زمانی از درگیری‌ها برای مخاطبان بین‌المللی است.",
+            "پوشش نقشه‌ای رسانه‌ای می‌تواند شفافیت درباره مکان و روند عملیات را افزایش دهد و در عمل ابزار فشار دیپلماتیک و اطلاعاتی را علیه بازیگران درگیر تقویت کند؛ این امر ساختار سیاسی-امنیتی را در معرض هزینه‌های بین‌المللی قرار می‌دهد.",
+            "اگرچه گزارش جزئیات داخلی ایران را مشخص نمی‌کند، رصد گسترده رسانه‌ای می‌تواند پیامدهای سیاسی داخلی را تشدید کند زیرا اشتباهات و پیامدهای مدیریت بحران برای افکار عمومی قابل رؤیت‌تر می‌شود و زمینه نارضایتی را تقویت می‌کند."
+        ],
+        "impact": "اهمیت راهبردی این نقشه‌ها در توانشان برای تقویت فشار بین‌المللی و افزایش هزینه‌های سیاسی و امنیتی برای حکومت نهفته است.",
+        "tag": "درگیری",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps",
+        "clean_url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps",
+        "image": null,
+        "timestamp": 1773750411.0
+    },
+    {
         "title_fa": "اسرائیل اعلام کرد مسئول ارشد امنیت ملی ایران را کشت",
         "title_en": "Israel kills Iran's national security chief, Israeli defense minister says",
         "summary": [
@@ -250,6 +286,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/exclusive-irans-supreme-leader-rejects-095430432.html",
         "image": "http://www.bing.com/th?id=ONUT.DjXOSSzBX8fY6ddb5Bu8jw&pid=News",
         "timestamp": 1773722820.0
+    },
+    {
+        "title_fa": "سفارت ایران در مکزیک: مذاکره با فیفا برای انتقال بازی‌های ایران از آمریکا به مکزیک",
+        "title_en": "Iran’s Mexico embassy says Iran is negotiating with FIFA to move World Cup matches",
+        "summary": [
+            "سفارت ایران در مکزیک اعلام کرد که تهران در حال مذاکره با فیفا برای انتقال دیدارهای تیم ملی از آمریکا به مکزیک است، اقدامی که پس از توصیه رئیس‌جمهور آمریکا برای عدم حضور تیم رخ داده است.",
+            "فشار و اطلاعیه‌های واشنگتن این مسابقات را سیاسی کرده‌اند؛ انتقالِ مسابقات اگر انجام شود نمادی از عقب‌نشینی دیپلماتیک در مواجهه با نفوذ فشار خارجی خواهد بود و قابلیت تضعیف مشروعیت بین‌المللی حاکمیت را دارد.",
+            "از منظر داخلی، اثر اقتصادی مستقیم ناچیز است اما ضربه نمادین به اعتبار دولت ملموس است؛ حکومت ممکن است تلاش کند با ناسیونالیسم این شکست دیپلماتیک را بازتعریف کند، در حالی که مخالفان می‌توانند آن را به‌عنوان نمونه‌ای از ناکارآمدی و فروپاشی دیپلماسی رسمی برجسته کنند—بدون شواهد فعلی درباره ناآرامی یا اعتراض مردمی گسترده."
+        ],
+        "impact": "پیشنهاد انتقال بازی‌ها نشانه‌ای از تضعیف دیپلماتیک دولت در برابر فشارهای خارجی و فرصت سیاسی برای مخالفان جهت افشای ناکارآمدی‌های حکومتی است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.7,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/sports/other/iran-s-mexico-embassy-says-iran-is-negotiating-with-fifa-to-move-world-cup-matches/ar-AA1YP3SJ",
+        "clean_url": "https://www.msn.com/en-us/sports/other/iran-s-mexico-embassy-says-iran-is-negotiating-with-fifa-to-move-world-cup-matches/ar-AA1YP3SJ",
+        "image": "http://www.bing.com/th?id=ONUT.VeFHARXIl_POtxiT_c6bvw&pid=News",
+        "timestamp": 1773722605.0
     },
     {
         "title_fa": "اسرائیل می‌گوید حمله هوایی علی لاریجانی، مسئول ارشد امنیتی ایران، را کشته است؛ ضربه‌ای به رهبری تهران",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NbVVpNlFVV0RacHkwaDNBVFVXNE4zaldIVzhLUjZIcU54NHZ3TnZlZFBwR3V2WllFZ05Xd2QwQmtvclRQeFlGcHc1S3JDcnVaOUkzSEdWVGVXSVdLX3owTkFtRGtsc3JJUDFVMmExMWdnRjJwWXdwQk5ybw",
         "image": null,
         "timestamp": 1773348286.0
-    },
-    {
-        "title_fa": "جنگ ایران می‌تواند نقطه قوت مورد علاقه ترامپ را تضعیف کند",
-        "title_en": "The Iran war threatens to undermine Trump's favorite bragging point",
-        "summary": [
-            "بازارها در دوره دوم ریاست‌جمهوری دونالد ترامپ صعود کرده‌اند: شاخص‌های سهام بالا رفته، بازده اوراق قرضه کاهش یافته و دلار تقویت سابق را از دست داده است؛ ترامپ این تحرکات بازار را به‌عنوان دستاورد اقتصادی تبلیغ کرده است.",
-            "هرگونه تشدید نظامی یا جنگ با ایران می‌تواند باعث افزایش ریسک‌پریمیوم، نوسان بازارها و جهش قیمت نفت شود و در نتیجه این روندهای بازار را معکوس کند؛ پیامد مستقیم، تضعیف روایت اقتصادی ترامپ خواهد بود.",
-            "گزارش شواهد مستقیمی درباره اعتراضات داخلی یا فروپاشی اقتصادی در ایران ارائه نمی‌کند، اما تشدید درگیری‌های خارجی معمولاً فشارهای اقتصادی را بالا می‌برد و می‌تواند ثبات سیاسی در تهران را بیشتر آسیب‌پذیر کند."
-        ],
-        "impact": "تشدید درگیری با ایران احتمالاً بازارهای جهانی را بی‌ثبات کرده و توان ترامپ در ارائه روایت موفقیت اقتصادی را به‌طور ملموسی تضعیف می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "CNN",
-        "url": "https://www.msn.com/en-us/money/markets/the-iran-war-threatens-to-undermine-trump-s-favorite-bragging-point/ar-AA1YthpA",
-        "clean_url": "https://www.msn.com/en-us/money/markets/the-iran-war-threatens-to-undermine-trump-s-favorite-bragging-point/ar-AA1YthpA",
-        "image": null,
-        "timestamp": 1773346987.0
-    },
-    {
-        "title_fa": "پیامدهای انسانی و آوارگیِ جنگ آمریکا/اسرائیل با ایران",
-        "title_en": "Humanitarian and Displacement Implications of the U.S./Israel-Iran War",
-        "summary": [
-            "گزارش بر آثار مستقیم انسانی و جابجایی جمعیت ناشی از درگیری میان آمریکا و اسرائیل با ایران تمرکز دارد و هشدار می‌دهد که موج آوارگی داخلی و فرامرزی ظرفیت‌های امدادی داخل ایران و در کشورهای همسایه را فرو خواهد برد.",
-            "تحریم‌ها و فشار خارجی ساختاری، هم رژیم را تضعیف می‌کنند و هم تحویل کمک بشردوستانه را مختل می‌سازند؛ محدودیت‌ها و آسیب‌دیدن زیرساخت‌های حیاتی باعث تشدید آسیب‌پذیری غیرنظامیان می‌شود.",
-            "تبعات آوارگی و فروپاشی خدمات شهری، ضعف مدیریتی حکومتی را عیان می‌کند و می‌تواند خشم اجتماعی و بی‌ثباتی داخلی را افزایش دهد؛ پذیرش موج پناهجویان، فشار سیاسی و اقتصادی منطقه‌ای را تشدید خواهد کرد."
-        ],
-        "impact": "بحران انسانی ناشی از جنگ، هم به تضعیف ساختار سیاسی-اقتصادی حکومت کمک می‌کند و هم توانایی دولت در مدیریت وضعیت را از هم اکنون به خطر می‌اندازد، بسترساز گسترش ناآرامی و فرار سرمایه انسانی است.",
-        "tag": "آوارگی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Refugees International",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDFqODlMb1RKRVBGcC02amxTVHlpQThRd2dsNXRoWWNwSWpqQlhPSnhKOHdPQWhNbUdHMzBkM3d1ZDZmSXVhMlJhN0dzTmtqZmRJcU5CZVRDc09TZGoycDBGQ1lWWjNGdFo2d25PTmd1UUFWbkFvMm5iaWNxejlEREUtNjVzMTF0cjcyX2dwUTNJT0JRRkduckEwdVJjOFNiRFZybHZzUkhsdXVTblg4Y0ZGc0FHZ09yNzQtV2hEUklYQXd1QUM0Yg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUDFqODlMb1RKRVBGcC02amxTVHlpQThRd2dsNXRoWWNwSWpqQlhPSnhKOHdPQWhNbUdHMzBkM3d1ZDZmSXVhMlJhN0dzTmtqZmRJcU5CZVRDc09TZGoycDBGQ1lWWjNGdFo2d25PTmd1UUFWbkFvMm5iaWNxejlEREUtNjVzMTF0cjcyX2dwUTNJT0JRRkduckEwdVJjOFNiRFZybHZzUkhsdXVTblg4Y0ZGc0FHZ09yNzQtV2hEUklYQXd1QUM0Yg",
-        "image": null,
-        "timestamp": 1773345957.0
-    },
-    {
-        "title_fa": "رهبر جدید ایران از بستن هرمز خبر داد؛ نخست‌وزیر اسرائیل با تهدید پاسخ داد",
-        "title_en": "Iran's new supreme leader vows to keep Hormuz shut, Netanyahu issues threat",
-        "summary": [
-            "مجلوبتبا کمانه‌ای (Mojtaba Khamenei) به طور غیرحضوری و با قرائت تلویزیونی اعلام کرده است که تنگه هرمز را به‌عنوان اهرم فشار مقابل آمریکا و اسرائیل بسته نگه خواهد داشت؛ عدم انتشار تصویر و قرائت سخنرانی نشان‌دهنده شفافیت اندک و تمرکز قدرت موازی در رسانه‌های دولتی است.",
-            "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، در کنفرانس مطبوعاتی تهدید ضمنی به قتل رهبر جدید کرد و از حملات نظامی دفاع نمود؛ این رویارویی نظامی تاکنون هزاران تلفات، حملات هوایی در تهران و جنوب بیروت و اختلال در بازارهای انرژی و سهام را به‌همراه داشته است.",
-            "تصمیم به بستن هرمز ممکن است در کوتاه‌مدت اهرم فشار بین‌المللی ایجاد کند اما همزمان بازارهای انرژی، درآمدهای نفتی و سازوکارهای اقتصادی کشور را تحت فشار بیشتر قرار داده و احتمال تحریم‌های شدیدتر و افزایش نارضایتی داخلی را بالا می‌برد؛ خرابی زیرساختی و تلفات غیرنظامی بار واضحی بر مشروعیت و کارایی حکمرانی گذاشته است."
-        ],
-        "impact": "ادامه این دوقطبی تهدید-پاسخ، ریسک تشدید حملات خارجی را افزایش می‌دهد و همزمان فشار اقتصادی و سیاسی داخل کشور را به‌سرعت تشدید خواهد کرد.",
-        "tag": "هرمز",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/irans-supreme-leader-first-remarks-135404106.html",
-        "clean_url": "https://www.yahoo.com/news/articles/irans-supreme-leader-first-remarks-135404106.html",
-        "image": "http://www.bing.com/th?id=OVFT.FzhQHMm3D2nTZV1QTR_sOS&pid=News",
-        "timestamp": 1773341400.0
     }
 ]
