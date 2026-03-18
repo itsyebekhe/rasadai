@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "هشدار لاریجانی به آمریکا و اسرائیل پیش از کشته شدنش",
+        "title_en": "Larijani’s warning to US, Israel before his killing",
+        "summary": [
+            "تیتر الجزیره مدعی است لاریجانی پیش از کشته شدن هشدارهایی خطاب به آمریکا و اسرائیل مطرح کرده؛ متن گزارش در دسترس نیست و امکان تایید فوری نیست.",
+            "عدم دسترسی به محتوای مقاله مانع از تأیید زمان، مسئول یا انگیزه مرگ می‌شود؛ هر تحلیل باید مبتنی بر منابع مستقل و موثق باشد.",
+            "در صورت صحت ادعا، رژیم می‌تواند از آن برای تشدید روایت‌های امنیتی داخلی، توجیه سرکوب و افزایش فشار دیپلماتیک علیه خارجی‌ها بهره ببرد."
+        ],
+        "impact": "اگر گزارش تایید شود، فوراً به تشدید اقدامات امنیتی داخلی و افزایش تنش دیپلماتیک با آمریکا و اسرائیل منجر خواهد شد.",
+        "tag": "ترور",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.bloomberg.com/news/articles/2026-03-17/iran-crisis-after-larijani-killing-who-else-in-tehran-can-the-us-talk-to",
+        "clean_url": "https://www.bloomberg.com/news/articles/2026-03-17/iran-crisis-after-larijani-killing-who-else-in-tehran-can-the-us-talk-to",
+        "image": null,
+        "timestamp": 1773796440.0
+    },
+    {
         "title_fa": "ایران مرگ مقام امنیتی ارشد را پس از اعلام اسرائیل درباره «از بین بردن» او تأیید کرد",
         "title_en": "Iran confirms top security leader killed after Israel says he was 'eliminated' in strike",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRHd2OVppUHVxRm5xSDQyX20wUGJKQTY0VGJWQVpudGlsMzFZbmdjeHRadkVOb2RuTXo5QjZtT1M2bU03QUg4WWxuNHN6aEZ2N0NpZTRjSG5vc3pyamhFU1hBcVJBLUtvbkhwNHN6dUFGcDR6ZWpJcllFZ3NLNzVFZDRpbWJVODFWZjVaSG1VLVR2MU14",
         "image": null,
         "timestamp": 1773780040.0
+    },
+    {
+        "title_fa": "دو سهام دفاعی که اگر جنگ در ایران ادامه یابد صعود خواهند کرد",
+        "title_en": "2 Defense Stocks Set to Rise if the Iran War Drags On",
+        "summary": [
+            "منبع می‌گوید جنگ در ایران بازار نفت را مستقیم تحت تأثیر قرار داده و در چنین شرایطی تولیدکنندگان هواپیما، پهپاد و تجهیزات نظامی از افزایش تقاضا بهره‌مند می‌شوند.",
+            "ادامه منازعه احتمالاً تقاضا برای تجهیزات دفاعی را بالا می‌برد و در نتیجه سودآوری شرکت‌های دفاعی را افزایش می‌دهد، ولی همزمان بر شکنندگی اقتصاد کلان می‌افزاید.",
+            "در صورت تداوم جنگ، اختلال در درآمدهای نفتی و فشار خارجی می‌تواند نارضایتی اجتماعی را تشدید کند و ضعف‌ها و کاستی‌های ساختاری مدیریت در کشور را برجسته سازد."
+        ],
+        "impact": "اگر جنگ ادامه یابد، بازارهای دفاعی سود می‌برند ولی فشار اقتصادی بر ایران افزایش یافته و ریسک تشدید ناآرامی‌های داخلی بالا می‌رود.",
+        "tag": "دفاع",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Motley Fool",
+        "url": "https://www.fool.com/investing/2026/03/17/2-defense-stocks-set-to-rise-if-the-iran-war-drags/",
+        "clean_url": "https://www.fool.com/investing/2026/03/17/2-defense-stocks-set-to-rise-if-the-iran-war-drags",
+        "image": "http://www.bing.com/th?id=ONUT.O_huNtM-yS7fV0X4Uu2-dg&pid=News",
+        "timestamp": 1773778680.0
     },
     {
         "title_fa": "کشته‌شدن فرمانده بسیج غلامرضا سلیمانی؛ سپاه پاسداران تایید کرد",
@@ -180,6 +216,24 @@
         "timestamp": 1773762660.0
     },
     {
+        "title_fa": "ایران از کاهش تنش امتناع کرد؛ اسرائیل مسئول امنیتی ارشد ایران را کشت",
+        "title_en": "Iran rejects de-escalation as Israel kills Iranian security chief",
+        "summary": [
+            "اسرائیل علی لاریجانی، مسئول امنیتی ارشد ایران، را ترور کرد و تهران مرگ او را تایید و اعلام کرد که از هرگونه کاهش تنش امتناع می‌کند.",
+            "کشته شدن یک چهره امنیتی برجسته نشان‌دهنده تشدید مستقیم درگیری‌ها است و احتمال پاسخ‌های نظامی یا عملیات تلافی‌جویانه از سوی تهران را افزایش می‌دهد.",
+            "این رخداد فضای فشار خارجی و انزوای بین‌المللی را تشدید می‌کند و می‌تواند توان حکومت در مدیریت بحران‌های سیاسی و اقتصادی داخلی را بیشتر تضعیف کند؛ در پی آن ریسک نارضایتی عمومی و بی‌ثباتی افزوده می‌شود."
+        ],
+        "impact": "این ترور شانس تشدید درگیری منطقه‌ای را به‌طرز قابل‌توجهی بالا می‌برد و رژیم را هم از منظر امنیتی تضعیف و هم در مدیریت اقتصاد و کنترل اجتماعی در معرض فشارهای بیشتر قرار می‌دهد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-rejects-de-escalation-as-israel-kills-iranecthriverity-chief/ar-AA1YRzDH",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-rejects-de-escalation-as-israel-kills-iranecthriverity-chief/ar-AA1YRzDH",
+        "image": "http://www.bing.com/th?id=ONUT.Mxhi-HgUptWM7V1yC7iIiA&pid=News",
+        "timestamp": 1773762626.0
+    },
+    {
         "title_fa": "یک مقام ترامپ به‌خاطر جنگ با ایران استعفا داد؛ اسرائیل ادعا می‌کند دو فرمانده ایرانی را کشته است",
         "title_en": "A Trump official quits over the Iran war, as Israel says it killed 2 Iranian commanders",
         "summary": [
@@ -214,6 +268,24 @@
         "clean_url": "https://www.economist.com/interactive/2026-iran-war-tracker",
         "image": null,
         "timestamp": 1773762405.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: ترامپ متحدان ناتو را سرزنش می‌کند؛ مسئول عالی امنیت ملی ایران کشته شد",
+        "title_en": "Live updates: Trump scolds NATO allies over lack of support; Iran's top national security official killed",
+        "summary": [
+            "اسرائیل اعلام کرد علی لاریجانی، مسئول عالی امنیت ملی ایران و یکی از باسابقه‌ترین چهره‌های باقی‌مانده نظام، کشته شده است.",
+            "این ضربه مستقیم به شبکه‌های امنیتی رژیم است و می‌تواند ساختار کنونی اقتدار را تضعیف کند؛ فقدانِ جایگزین‌های قابل اعتماد در کوتاه‌مدت احتمال بروز بحران رهبری و رقابت درون‌حکومتی را افزایش می‌دهد.",
+            "عواقب داخلی شامل افزایش ناپایداری امنیتی، تشدید تدابیر سرکوب و احتمال اقدام تلافی‌جویانه بیرونی است؛ از منظر اقتصادی و سیاسی، این حادثه فشار بر دولت را تشدید می‌کند و نشانه‌ای از آسیب‌پذیری سیستم امنیتی است. "
+        ],
+        "impact": "کشته شدن لاریجانی ضربه‌ای به سازوکارهای امنیتی رژیم است که بلافاصله فضای رقابت قدرت داخلی و ریسک واکنش‌های تلافی‌جویانه را بالا می‌برد.",
+        "tag": "ترور",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-israel-killed-basij-iraq-embassy-trump-hormuz-rcna263845",
+        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-israel-killed-basij-iraq-embassy-trump-hormuz-rcna263845",
+        "image": "http://www.bing.com/th?id=ONUT.HB0EHzK-p372nLS-iKm7ig&pid=News",
+        "timestamp": 1773760620.0
     },
     {
         "title_fa": "اسرائیل می‌گوید لاریجانی را کشته است؛ جنگ شدت گرفت",
@@ -412,6 +484,24 @@
         "clean_url": "https://www.reuters.com/world/middle-east/ali-larijani-irans-ultimate-backroom-powerbroker-dies-67-2026-03-17",
         "image": "http://www.bing.com/th?id=ONUT.9axKm6yzJH_C-ymHMDANCg&pid=News",
         "timestamp": 1773753600.0
+    },
+    {
+        "title_fa": "اسرائیل کشته شدن رئیس شورای عالی امنیت ملی و فرمانده شبه‌نظامیان را تأیید کرد",
+        "title_en": "Iran War Live Updates: Iran Confirms Israeli Strikes Killed Top Security Chief",
+        "summary": [
+            "رسانه‌های دولتی ایران کشته شدن علی لاریجانی، رئیس شورای عالی امنیت ملی، و غلامرضا سلیمانی، فرمانده یک نیروی شبه‌نظامی وابسته به سپاه پاسداران، در حملات اسرائیل را تأیید کردند؛ لاریجانی به‌عنوان چهره‌ای عمل‌گرا و نزدیک به علی خامنه‌ای معرفی شده بود و گفته می‌شد توان مذاکره با آمریکا را دارد.",
+            "واکنش بین‌المللی و آمریکایی: دونالد ترامپ متحدان ناتو را به خاطر عدم همکاری برای باز کردن تنگه هرمز مورد حمله قرار داده و قیمت نفت افزایش یافته؛ همچنین استعفای جو کنت، مدیر مرکز مبارزه با تروریسم، در پی جنگ گزارش شده است.",
+            "پیامدهای داخلی و منطقه‌ای: هلال احمر ایران از خسارت گسترده به مراکز درمانی و مدارس خبر داده، مراسم تشییع قربانیان برنامه‌ریزی شده و ارتش اسرائیل هشدار تخلیه در جنوب لبنان صادر کرده است؛ گزارش‌ها همچنین از ادامه حملات شبه‌نظامیان طرفدار ایران علیه نیروهای آمریکایی حکایت دارند."
+        ],
+        "impact": "کشته شدن لاریجانی، یک چهرهٔ میانه‌رو با ظرفیت مذاکره، خلأ سیاسی و اطلاعاتی ایجاد می‌کند که فضای قدرت را به نفع تندروها تغییر داده و توان رژیم برای مدیریت جنگ و مذاکره را تضعیف می‌کند.",
+        "tag": "امنیت",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon/iran-war-israel-middle-east-recap",
+        "clean_url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon/iran-war-israel-middle-east-recap",
+        "image": "http://www.bing.com/th?id=ONUT.coWz5w43pFWijOryNQZXvg&pid=News",
+        "timestamp": 1773753360.0
     },
     {
         "title_fa": "آیا آمریکا و اسرائیل در حال جنگ با میراث فرهنگی ایران هستند؟",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/03/12/politics/hormuz-trump-administration-underestimated-iran",
         "image": null,
         "timestamp": 1773389400.0
-    },
-    {
-        "title_fa": "مقاله غیرقابل‌دسترسی درباره ایران — متن اصلی در دسترس نیست",
-        "title_en": "What is really going on in Iran? It's imperative we find out | Opinion",
-        "summary": [
-            "صفحه منبع پیغام «مرورگر پشتیبانی نمی‌شود» نشان می‌دهد متن خبری اصلی در azcentral.com بارگذاری نشده و محتوای مربوط به ایران در دسترس نیست.",
-            "بدون دسترسی به متن یا شواهد گزارش‌شده، تحلیل درباره تحریم‌ها، فشار خارجی، همکاری‌های استراتژیک یا اعتراضات داخلی غیرممکن است و هر استنتاجی فاقد مبنای واقعی خواهد بود.",
-            "اقدام پیشنهادی: نسخه قابل‌دسترسی از مقاله یا منابع خبری معتبر و مستند جایگزین ارسال شود تا امکان تحلیل واقع‌بینانه و متکی بر مدارک فراهم شود."
-        ],
-        "impact": "عدم دسترسی به متن اصلی مانع انجام هر تحلیل معتبر درباره اوضاع ایران می‌شود و هر نتیجه‌گیری مبتنی بر این صفحه غیرقابل‌اعتماد است.",
-        "tag": "دسترسی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "azcentral.com",
-        "url": "https://www.azcentral.com/story/entertainment/media/2026/03/13/media-iran-war/89128438007/",
-        "clean_url": "https://www.azcentral.com/story/entertainment/media/2026/03/13/media-iran-war/89128438007",
-        "image": null,
-        "timestamp": 1773388620.0
-    },
-    {
-        "title_fa": "جنگ ایران عرضه انرژی را مختل کرد؛ رهبر جدید ایران مصمم به ادامه نبرد",
-        "title_en": "Iran war disrupts energy supplies as Iran’s new leader resolves to keep fighting",
-        "summary": [
-            "مجتبی خامنه‌ای، رهبر جدید، در اولین بیانیه عمومی خود اعلام کرد که به نبرد ادامه می‌دهد، وعده درد بیشتر برای کشورهای خلیج و تهدید به گشودن «جبهه‌های دیگر» — سیگنالی از عزم نظام برای تشدید تقابل منطقه‌ای.",
-            "حملات هوایی و حملات متقابل، از جمله اصابت به نفت‌کش در خلیج فارس و آسیب به تأسیسات در بندرها و شهرها، عرضه انرژی جهانی و سفر بین‌المللی را مختل کرده و شوک‌های اقتصادی فوری را تشدید کرده‌اند.",
-            "طبق داده‌های ACLED، حملات آمریکایی و اسرائیلی پاسگاه‌های امنیتی را هدف گرفته‌اند تا توان سرکوب حکومت را تضعیف کنند؛ هم‌زمان تهدیدها و پیام‌های تند مقامات خارجی فشار بین‌المللی را افزایش داده و احتمال فروپاشی کنترل اجتماعی را بالا می‌برد."
-        ],
-        "impact": "تداوم حملات و تهدیدها ساختار سرکوب رژیم را تضعیف کرده، ناپایداری منطقه‌ای را عمق می‌بخشد و شوک‌های مکرر در بازار انرژی و درآمدهای دولت را تقویت می‌کند.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Sun Sentinel",
-        "url": "https://www.sun-sentinel.com/2026/03/12/iran-us-israel-strikes/",
-        "clean_url": "https://www.sun-sentinel.com/2026/03/12/iran-us-israel-strikes",
-        "image": "http://www.bing.com/th?id=OVFT.ii_j9e-eczP88yGOiakxCC&pid=News",
-        "timestamp": 1773388320.0
-    },
-    {
-        "title_fa": "چه می‌دانیم در روز چهاردهم جنگ آمریکا و اسرائیل با ایران",
-        "title_en": "What we know on the 14th day of the US and Israel's war with Iran",
-        "summary": [
-            "در روز چهاردهم درگیری‌های مستقیم بین نیروهای آمریکا و اسرائیل از یک سو و ایران ادامه دارد و وضعیت نظامی منطقه تشدید شده است.",
-            "پیامدهای اقتصادی در حال گسترش است و نشانه‌ای از بهبود دیده نمی‌شود؛ اختلال در تجارت و فشار بر منابع ارزی و زنجیره‌های تامین ملموس است.",
-            "رهبر جدید تهران اعلام کرده تنگه هرمز را بسته نگه خواهد داشت که تهدیدی مستقیم علیه مسیر حیاتی انتقال انرژی و تجارت جهانی پدید آورده است."
-        ],
-        "impact": "فشار نظامی خارجی به‌هم‌پیوسته با اختلال در صادرات انرژی و عملکرد اقتصادی، ظرفیت حکمرانی رژیم را کاهش می‌دهد و احتمال افزایش نارضایتی اجتماعی و تضعیف انسجام سیاسی را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "CNN",
-        "url": "https://www.msn.com/en-us/news/world/what-we-know-on-the-14th-day-of-the-us-and-israel-s-war-with-iran/ar-AA1Yx0CP",
-        "clean_url": "https://www.msn.com/en-us/news/world/what-we-know-on-the-14th-day-of-the-us-and-israel-s-war-with-iran/ar-AA1Yx0CP",
-        "image": null,
-        "timestamp": 1773388121.0
-    },
-    {
-        "title_fa": "سناریوهای جنگ ایران: قیمت نفتی که بخش‌هایی از اقتصاد را می‌شکند",
-        "title_en": "Iran war scenarios: The oil price that breaks parts of the economy",
-        "summary": [
-            "فهرست‌وار: گزارش Oxford Economics سناریوهای جنگ در خاورمیانه را بررسی می‌کند و هشدار می‌دهد که جهش‌های قیمتی نفت می‌تواند در برخی سناریوها آستانه‌های تحمل اقتصادی ایران را پشت سر بگذارد؛ این مدل‌ها بر پیامدهای شوک درآمدی و اختلال در صادرات تمرکز دارند.",
-            "تحلیل تحریم‌ها/فشار خارجی: در شرایط تشدید بحران و اختلال صادرات، درآمد نفتی کاهش یا ناپایدار می‌شود و این فشار ساختاری منابع رژیم را تضعیف می‌کند؛ کسری درآمد آثار مستقیم بر بودجه‎‌بندی، واردات کالاهای اساسی و توان سرکوب را تقویت می‌کند.",
-            "اقتصاد داخلی و نارضایتی: حتی جهش مثبت قیمت نفت برای رژیم تضمین‌کننده نسخه نجات نیست؛ ناکارآمدی مدیریتی، توزیع نامتعادل درآمد و محدودیت‌های عملیاتی ناشی از تحریم‌ها می‌تواند موجب تورم، کمبود کالا و تشدید نارضایتی‌های اجتماعی گردد و ظرفیت مدیریتی را فرسوده‌تر کند."
-        ],
-        "impact": "اگر سناریوهای جنگ باعث نوسان شدید قیمت نفت و اختلال صادرات شوند، فشار روی خزانه و بازارهای داخلی می‌تواند ثبات سیاسی-اقتصادی رژیم را به‌طور ملموسی کاهش دهد.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Oxford Economics",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnFtU3VNMEZuOTk4QkVqYk1kMEoxWjhia3lpWm5raWJyZFFCLTU0akh4MmdQel9ydUpPb0RsbTluZWZQSGkzblZfUUd3MjE2S19OUVdVS2NLdWhFV2g4TnFUd19KU2dZZ0pLb0RteXMwU0lCQWp3eVY0bm9HNTlOdW9iTExxMzJLZVBhVnV3OC1CTnpOTGdqT0hOVjYtaEVTU2praWp4N0gxLVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcnFtU3VNMEZuOTk4QkVqYk1kMEoxWjhia3lpWm5raWJyZFFCLTU0akh4MmdQel9ydUpPb0RsbTluZWZQSGkzblZfUUd3MjE2S19OUVdVS2NLdWhFV2g4TnFUd19KU2dZZ0pLb0RteXMwU0lCQWp3eVY0bm9HNTlOdW9iTExxMzJLZVBhVnV3OC1CTnpOTGdqT0hOVjYtaEVTU2praWp4N0gxLVU",
-        "image": null,
-        "timestamp": 1773387145.0
-    },
-    {
-        "title_fa": "جنگ ایران با اسرائیل و ایالات متحده | ردیاب جهانی درگیری‌ها",
-        "title_en": "Iran’s War With Israel and the United States | Global Conflict Tracker",
-        "summary": [
-            "ردیاب CFR نشان می‌دهد رقابت نظامی و سیاسی میان ایران، اسرائیل و آمریکا به‌صورت مستقیم و از طریق گروه‌های نیابتی ادامه دارد و خطر تشدید درگیری را بالا می‌برد.",
-            "تحریم‌ها و فشار خارجی ساختارهای اقتصادی رژیم را تضعیف کرده‌اند؛ کاهش درآمدهای ارزی و دسترسی محدود به فناوری‌های حیاتی توان مانور دولت را کاهش داده و بستر نارضایتی اجتماعی را تقویت می‌کند.",
-            "ناتوانی مدیریتی در مهار بحران اقتصادی و سرکوب سیاسی، احتمال افزایش اعتراضات داخلی را بالا برده و می‌تواند ثبات ساختاری رژیم را به مخاطره بیندازد."
-        ],
-        "impact": "ادامه این روند هزینه‌های نظامی و اقتصادی را برای رژیم افزایش می‌دهد و احتمال تبدیل تنش‌ها به درگیری منطقه‌ای تمام‌عیار را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw",
-        "image": null,
-        "timestamp": 1773386911.0
     }
 ]
