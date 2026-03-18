@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "رئیس‌جمهور یا کنگره؟ چه کسی در آمریکا حق اعلان جنگ را دارد؟",
+        "title_en": "President or Congress? Who in the US has the power to declare war?",
+        "summary": [
+            "متن قانون اساسی اختیار اعلان جنگ را به کنگره واگذار کرده و درعین‌حال رئیس‌جمهور به‌عنوان فرمانده کل قوا نقش عملی در استفاده از نیروهای مسلح دارد؛ تعارض بین این دو ریشهٔ مناقشه‌های حقوقی و عملی است.",
+            "در عمل رؤسای جمهور بارها بدون اعلان رسمی جنگ عملیات نظامی را آغاز کرده‌اند و کنگره اغلب از طریق تصویب اختیارات استفاده از نیرو یا تامین مالی به صورت ضمنی آن را تایید کرده است؛ تصویب قوانین محدودکننده مانند قانون اختیارات جنگی نتوانسته این شکاف نهادی را کاملاً پر کند.",
+            "این ابهام نهادی موجب کاهش شفافیت و پاسخگویی در تصمیم‌گیری نظامی می‌شود و می‌تواند کارایی ابزار فشار خارجی از جمله تحریم‌ها و بازدارندگی را تضعیف کند؛ بازیگران منطقه‌ای از این عدم قطعیت برای تغییر محاسبات امنیتی خود استفاده می‌کنند."
+        ],
+        "impact": "ابهام در تقسیم اختیارات اعلان جنگ، تصمیم‌گیری نظامی آمریکا را غیرقابل‌پیش‌بینی و فضای سیاست خارجی و فشارهای خارجی علیه رژیم‌ها را کمتر اثربخش می‌سازد.",
+        "tag": "جنگ",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/president-or-congress-who-in-the-us-has-the-power-to-declare-war/ar-AA1YURXT",
+        "clean_url": "https://www.msn.com/en-us/news/world/president-or-congress-who-in-the-us-has-the-power-to-declare-war/ar-AA1YURXT",
+        "image": null,
+        "timestamp": 1773852985.0
+    },
+    {
+        "title_fa": "«خیلی سخت است متوقف کردن»: گزارش بی‌بی‌سی از محل حمله ایران با بمب‌های خوشه‌ای به اسرائیل",
+        "title_en": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
+        "summary": [
+            "بی‌بی‌سی از صحنه‌ای گزارش می‌دهد که به حمله‌ای نسبت داده شده به ایران با استفاده از مهمات خوشه‌ای منتهی شده و نقل‌قول «خیلی سخت است متوقف کردن» بر مشکل رهگیری یا خنثی‌سازی این نوع سلاح‌ها دلالت دارد.",
+            "استفاده از مهمات خوشه‌ای احتمال واکنش بین‌المللی و افزایش فشار سیاسی و تحریمی را بالا می‌برد؛ حتی در صورت عدم اعمال فوری تحریم‌های جدید، ریسک پیامدهای ساختاری اقتصادی که ثبات رژیم را تضعیف می‌کند، جدی است.",
+            "فشارهای بالقوه نظامی و دیپلماتیک می‌تواند هزینه‌های اقتصادی، اختلال در روابط تجاری و انزوای بین‌المللی را تشدید کند — بازتابی از ناکارآمدی در مدیریت و عاملی که ریسک افزایش نارضایتی عمومی را بالا می‌برد."
+        ],
+        "impact": "این حمله می‌تواند شتاب‌دهنده‌ای برای تشدید فشارهای بین‌المللی و تضعیف ثبات داخلی رژیم باشد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/world/very-difficult-to-stop-bbc-visits-scene-of-iran-cluster-bomb-strike-on-israel/ar-AA1YVbJB",
+        "clean_url": "https://www.msn.com/en-us/news/world/very-difficult-to-stop-bbc-visits-scene-of-iran-cluster-bomb-strike-on-israel/ar-AA1YVbJB",
+        "image": null,
+        "timestamp": 1773849869.0
+    },
+    {
         "title_fa": "گابارد به سناتورها گفت رژیم ایران تضعیف شده اما هنوز پابرجاست",
         "title_en": "Gabbard tells senators Iranian regime is degraded but still intact",
         "summary": [
@@ -124,6 +160,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-launches-revenge-missile-attack-on-israel-after-assassinations/ar-AA1YSmpd",
         "image": null,
         "timestamp": 1773830275.0
+    },
+    {
+        "title_fa": "چرا حمله به صنعت گاز ایران معامله‌گران انرژی را نگران کرده است",
+        "title_en": "Why the Strike on Iran's Gas Industry Is Scaring Energy Traders",
+        "summary": [
+            "حمله به زیرساخت‌های گازی، از جمله میدان پارس جنوبی، معامله‌گران انرژی را نگران کرده است زیرا هرچند بخش عمده گاز برای مصرف داخلی است، اختلال در تولید می‌تواند عرضه صادراتی به ترکیه و جریان‌های منطقه‌ای را تنگ‌تر کند.",
+            "این ضربه عملاً یک فشار خارجی بر ظرفیت‌های صادراتی و درآمدهای ارزی ایران ایجاد می‌کند و می‌تواند ساختار اقتصادی و توانایی سیاست‌گذاری رژیم را به لحاظ مالی و سیاسی تضعیف کند.",
+            "اختلال در بخش گاز نشان‌دهنده سوءمدیریت و آسیب‌پذیری زیرساخت‌های حیاتی است؛ کاهش عرضه و افزایش هزینه‌ها می‌تواند کمبودهای داخلی را تشدید کرده و نارضایتی عمومی را بیشتر کند."
+        ],
+        "impact": "بازارهای جهانی با افزایش ریسک عرضه مواجه خواهند شد و همزمان این شوک انرژی فشار اقتصادی و سیاسی بر حکومت ایران را افزایش می‌دهد.",
+        "tag": "گاز",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/iran-us-israel-war-news-2026/card/why-the-strike-on-iran-s-gas-industry-is-scaring-energy-traders-ekxqV0xcntrgF7Kj98Bj",
+        "clean_url": "https://www.wsj.com/livecoverage/iran-us-israel-war-news-2026/card/why-the-strike-on-iran-s-gas-industry-is-scaring-energy-traders-ekxqV0xcntrgF7Kj98Bj",
+        "image": "http://www.bing.com/th?id=ONUT.PAhxAin2C9UYTyKbeS_Tuw&pid=News",
+        "timestamp": 1773829800.0
     },
     {
         "title_fa": "اسرائیل می‌گوید رئیس اطلاعات ایران را در حمله شبانه کشته است",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-supreme-leader-yet-appear-084955547.html",
         "image": "http://www.bing.com/th?id=OVFT.JuSiOAWgUyOf0DCyRuB1gS&pid=News",
         "timestamp": 1773456180.0
-    },
-    {
-        "title_fa": "حملات آمریکا-اسرائیل به ایران: ۱۱۲ کشته و آوارگی میلیون‌ها نفر؛ نابودی جزیره خارگ ضربه‌ای به صادرات نفت",
-        "title_en": "US‑Iran war live: US-Israel strikes on Iran’s Kurdistan province kill 112; millions displaced in West Asia as conflict widens",
-        "summary": [
-            "حملات مشترک آمریکا و اسرائیل به استان کردستان ایران دست‌کم ۱۱۲ کشته برجای گذاشته و در پی گسترش درگیری‌ها میلیون‌ها نفر در غرب آسیا آواره شده‌اند.",
-            "ترامپ اعلام کرده نیروهای آمریکایی «همه اهداف نظامی» در جزیره خارگ را کاملاً نابود کرده‌اند؛ جزیره‌ای که حدود ۹۰ درصد صادرات نفت خام ایران را مدیریت می‌کند و بنابراین ضربه‌ای مستقیم به ظرفیت صادرات و درآمد ارزی رژیم است.",
-            "نابودی زیرساخت کلیدی صادرات نفتی همراه با تلفات گسترده و آوارگی، فشار خارجی و اقتصادی بر رژیم را افزایش می‌دهد و ضعف‌های مدیریتی و آسیب‌پذیری ساختاری نظام را به نمایش می‌گذارد؛ این شرایط می‌تواند ثبات داخلی را به بحران عمیق‌تری سوق دهد."
-        ],
-        "impact": "ضربه به خارگ درآمدهای نفتی رژیم را به شدت کاهش می‌دهد و احتمال تشدید ناآرامی‌های داخلی و فروپاشی مالی دولت را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/us-israel-iran-war-news-live-updates-missile-drone-attacks-duabi-uae-strait-of-hormuz-14th-march-2026-liveblog-13860072.html",
-        "clean_url": "https://www.moneycontrol.com/world/us-israel-iran-war-news-live-updates-missile-drone-attacks-duabi-uae-strait-of-hormuz-14th-march-2026-liveblog-13860072.html",
-        "image": "http://www.bing.com/th?id=OVFT.nxFfl7F336qbXcsFW94vzC&pid=News",
-        "timestamp": 1773454140.0
-    },
-    {
-        "title_fa": "گزارش ویژه عصرانه ایران، ۱۳ مارس ۲۰۲۶ — مؤسسه مطالعات جنگ",
-        "title_en": "Iran Update Evening Special Report, March 13, 2026",
-        "summary": [
-            "مؤسسه مطالعات جنگ گزارشی ویژه درباره ایران منتشر کرده است؛ تاریخ انتشار ۱۳ مارس ۲۰۲۶.",
-            "متن کامل یا نکات تحلیلی گزارش در منبع ارائه‌شده در اختیار نیست و لذا جزئیات محتوایی قابل تأیید نیست.",
-            "بدون دسترسی به محتوای گزارش، نمی‌توان تحلیل معتبری درباره اثرات تحریم‌ها، نقش بازیگران خارجی، یا روند اعتراضات و وضعیت اقتصادی ارائه داد."
-        ],
-        "impact": "نبود جزئیات در اطلاعیه مانع هر تحلیل معتبر از پیامدهای سیاسی یا اقتصادی می‌شود؛ لازم است متن کامل گزارش برای ارزیابی دریافت شود.",
-        "tag": "گزارش",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "Institute for the Study of War",
-        "url": "https://www.msn.com/en-us/news/politics/trump-holds-first-press-conference-since-start-of-iran-war-special-report/vi-AA1XRn39",
-        "clean_url": "https://www.msn.com/en-us/news/politics/trump-holds-first-press-conference-since-start-of-iran-war-special-report/vi-AA1XRn39",
-        "image": null,
-        "timestamp": 1773453253.0
-    },
-    {
-        "title_fa": "ترامپ: ایران دنبال توافق است؛ خامنه‌ای وعده انتقام داد — گزارش ادعا می‌کند حملات آمریکا و اسرائیل به مرگ خامنه‌ای انجامید",
-        "title_en": "Trump says Iran wants a deal but Khamenei vows revenge: In Iran, US has started an endless war; here's why",
-        "summary": [
-            "مقاله گزارش می‌دهد که در ۲۸ فوریه حملات مشترک آمریکا و اسرائیل اجرا شد که به‌طور ادعایی به مرگ خامنه‌ای، رهبر جمهوری اسلامی، انجامید؛ ترامپ می‌گوید ایران دنبال توافق است اما خامنه‌ای وعده انتقام داده است.",
-            "متن گزارش این مجموعه رخدادها را آغاز «جنگ بی‌پایان» آمریکا در ایران توصیف می‌کند و از تشدید فوری تنش‌های نظامی و دیپلماتیک در منطقه خبر می‌دهد.",
-            "نویسنده بر این نکته تأکید می‌کند که فشار خارجی افزایش یافته و این وضعیت در ترکیب با سوءمدیریت اقتصادی و سرکوب سیاسی می‌تواند نارضایتی داخلی و بی‌ثباتی را تشدید کند."
-        ],
-        "impact": "اگر روایت گزارش‌شده پذیرفته شود، مرگ رهبر و حملات مشترک خارجی می‌تواند از طریق افزایش فشار بین‌المللی، واکنش‌های تلافی‌جویانه و تشدید نارضایتی اجتماعی، ساختار سیاسی-اقتصادی حکومت را به‌سرعت تضعیف کند.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Zee News on MSN",
-        "url": "https://www.msn.com/en-in/news/world/trump-says-iran-wants-a-deal-but-khamenei-vows-revenge-in-iran-us-has-started-an-endless-war-here-s-why/ar-AA1YBxfc",
-        "clean_url": "https://www.msn.com/en-in/news/world/trump-says-iran-wants-a-deal-but-khamenei-vows-revenge-in-iran-us-has-started-an-endless-war-here-s-why/ar-AA1YBxfc",
-        "image": "http://www.bing.com/th?id=OVFT.YSZV4vaYDT97aurn0wHczC&pid=News",
-        "timestamp": 1773453174.0
     }
 ]
