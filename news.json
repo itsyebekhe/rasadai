@@ -18,6 +18,24 @@
         "timestamp": 1773833424.0
     },
     {
+        "title_fa": "وِسلی کلارک: این‌گونه جنگ با ایران ممکن است تمام شود، اما بهترین روش نیست",
+        "title_en": "Gen. Wesley Clark: This is how Iran war could end, but not the best way",
+        "summary": [
+            "وِسلی کلارک، فرمانده سابق ارتش آمریکا، در یادداشتی در USA Today سناریویی برای پایان جنگ با ایران مطرح کرده و صریحاً می‌گوید آن سناریو بهترین راه نیست.",
+            "متن کامل گزارش در اختیار نیست؛ از عنوان مشخص است که بحث حول راه‌حل‌های احتمالی پایان درگیری است، اما جزئیات و پایه‌های استدلال در این خلاصه موجود نیست.",
+            "اگر منظور به پایان نظامی یا اجباری باشد، به‌طور مشروط می‌توان گفت چنین پایانی فشار خارجی بر رژیم را تشدید و ظرفیت اقتصادی و سیاسی آن را تضعیف می‌کند؛ همچنین احتمال افزایش نارضایتی داخلی را به همراه خواهد داشت."
+        ],
+        "impact": "اظهارنظر کلارک مباحث راه‌حل‌های نظامی را برجسته می‌کند و ریسک تشدید فشارهای خارجی و بی‌ثباتی داخلی را یادآور می‌شود.",
+        "tag": "جنگ",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "USA Today",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/gen-wesley-clark-this-is-how-iran-war-could-end-but-not-the-best-way/ar-AA1YTLla",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/gen-wesley-clark-this-is-how-iran-war-could-end-but-not-the-best-way/ar-AA1YTLla",
+        "image": null,
+        "timestamp": 1773831900.0
+    },
+    {
         "title_fa": "ایران پس از کشته شدن دو فرمانده بلندپایه، حملات تازه‌ای علیه اسرائیل و کشورهای خلیج فارس انجام داد",
         "title_en": "Iran launches fresh attacks on Israel, Gulf neighbours after 2 high-ranking leaders killed",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-war-what-is-happening-on-day-19-of-us-israel-attacks/ar-AA1YT2IC",
         "image": null,
         "timestamp": 1773818723.0
+    },
+    {
+        "title_fa": "به‌روزرسانی: آمریکا از بمب‌های ضدبست استفاده کرد؛ اسرائیل می‌گوید وزیر اطلاعات ایران را کشته است",
+        "title_en": "Live updates: U.S. unleashes bunker busters, Israel says it killed Iran’s intelligence minister",
+        "summary": [
+            "ارتش آمریکا بمب‌های ضدبست (bunker busters) را به‌کار گرفت — اقدامی مستقیم و قابل توجه از سوی واشنگتن در چارچوب جنگ با ایران که دامنه نظامی بحران را افزایش می‌دهد.",
+            "اسرائیل اعلام کرد وزیر اطلاعات ایران را کشته و هم‌زمان ضرباتی به لبنان زده است — نشانه هدف‌گیری مدیران ارشد و گسترش میدان درگیری فراتر از مرزهای سوریه/لبنان.",
+            "فشار نظامی و سیاسی خارجی هم‌زمان ساختارهای اقتصادی و سیاسی ایران را تضعیف می‌کند: هزینه‌های امنیتی و بازسازی افزایش می‌یابد، و احتمال تشدید سرکوب داخلی و تشدید نارضایتی اجتماعی بالا می‌رود."
+        ],
+        "impact": "این رخدادها فشار خارجی را به شکل چشمگیری افزایش می‌دهد و توانایی حاکمیت برای حفظ ثبات داخلی و مدیریت اقتصادی را بیش از پیش تضعیف می‌کند، در حالی که خطر بروز ناآرامی گسترده و پاسخ سرکوبگرانه را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-bunker-busters-israel-beirut-lebanon-hezbollah-rcna264012",
+        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-bunker-busters-israel-beirut-lebanon-hezbollah-rcna264012",
+        "image": "http://www.bing.com/th?id=OVFT.VBthaOYzVwvGmzkelz9QjS&pid=News",
+        "timestamp": 1773815700.0
     },
     {
         "title_fa": "ایران وعدهٔ انتقام برای لاریجانی را داد؛ ترامپ می‌گوید جنگ ممکن است به‌زودی پایان یابد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.sfgate.com/business/article/the-latest-us-hits-iran-with-intense-strikes-as-22074353.php",
         "image": null,
         "timestamp": 1773437100.0
-    },
-    {
-        "title_fa": "دام تشدید: چگونه جنگ با ایران می‌تواند پرهزینه‌تر و پیچیده‌تر شود",
-        "title_en": "The escalation trap: how the Iran war could become more costly and complex",
-        "summary": [
-            "مقاله می‌نویسد که حمله مشترک آمریکا و اسرائیل در فاز فعلی تاکتیکی موفق بوده — از جمله به‌نقل از متن، کشته شدن علی خامنه‌ای و دیگر رهبران کلیدی — اما این موفقیت‌های تاکتیکی به اهداف استراتژیک مورد ادعا نینجامیده و رژیم همچنان باقی است؛ همین اختلاف بین سطح تاکتیکی و استراتژیک خطر ورود به «دام تشدید» را ایجاد می‌کند.",
-            "تهران به‌صورت یک «تشدید افقی» پاسخ می‌دهد که هدفش گسترش جغرافیایی درگیری (حملات به کشورهای خلیج) و افزایش هزینه‌ها برای واشنگتن و اقتصاد جهانی، به‌ویژه بازار انرژی، است؛ فشار خارجی و نظامی اگر نتایج سیاسی ندهد می‌تواند به جنگی پیچیده‌تر و پرهزینه‌تر برای همه طرف‌ها منتهی شود.",
-            "آمادگی بلندمدت رژیم برای پاسخ افقی نشان می‌دهد منابع و اولویت‌ها به سمت عملیات نظامی و تلافی‌جویی رفته‌اند؛ این الگو می‌تواند ضعف‌های مدیریتی و فشار اقتصادی بر جامعه را تشدید کند و در غیاب موفقیت استراتژیک، ریسک عمیق‌تر شدن بحران‌های داخلی و سیاسی را بالا ببرد."
-        ],
-        "impact": "ناتوانی در تبدیل موفقیت تاکتیکی به موفقیت استراتژیک، مهاجمان و بازیگران منطقه‌ای را وارد چرخه‌ای از تشدید مداوم و هزینه‌های فزاینده نظامی و اقتصادی خواهد کرد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/mar/14/how-iran-war-escalate-vietnam-trump-netanyahu-us-israel",
-        "clean_url": "https://www.theguardian.com/world/2026/mar/14/how-iran-war-escalate-vietnam-trump-netanyahu-us-israel",
-        "image": null,
-        "timestamp": 1773435720.0
-    },
-    {
-        "title_fa": "کاهش ۹۵٪ی حملات پهپادی ایران در حالی که هگست اعلام می‌کند عملیات Epic Fury همچنان در حال تشدید است",
-        "title_en": "Iran’s drone assaults ‘down 95%’ as Hegseth declares Operation Epic Fury is still ‘ramping up’",
-        "summary": [
-            "منبع خبر ادعا می‌کند میزان حملات پهپادی منتسب به ایران تا ۹۵٪ کاهش یافته است؛ این گزارش نشان از افت محسوس در تحرکات پهپادی دارد.",
-            "هگست اعلام کرده عملیات موسوم به Epic Fury همچنان در حال «رَمپ‌آپ» یا تشدید است؛ یعنی رقبا ممکن است به جای کاهش، فشار نظامی را ادامه دهند.",
-            "هیچ جزئیاتی در تیتر درباره علل کاهش یا شواهد میدانی ارائه نشده؛ این افت می‌تواند نتیجه فرسایش تدارکاتی، تلفات عملیاتی، یا سیاست‌های خارجی و تحریم‌ها باشد اما در غیاب دادهٔ بیشتر نمی‌توان آن را قطعی دانست."
-        ],
-        "impact": "اگر کاهش ۹۵٪ تأیید شود، بیانگر تضعیف عملیاتی توان پهپادی رژیم است اما اظهارات درباره تشدید عملیات مقابله‌ای ریسک تشدید درگیری را حفظ می‌کند.",
-        "tag": "پهپاد",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "DefenseScoop",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmhielJmc3lqV1FCUG92TlFnRkN5dWlpNzBUc3lDQzZlUl9HdGtwX1N3elM1eTJUWWZRQm5wenVCbFZFT1dXT04wS0Utdkp1RHl5c2ZrT3BJcS1BMHRLSnFFbFZvamU1cTF3VFQyZENlN0loQlU1ZDRzTXVwdmZXTVM0T01vVWtULURLUUlMRDFQNkxMbEJvWmZFZWM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbmhielJmc3lqV1FCUG92TlFnRkN5dWlpNzBUc3lDQzZlUl9HdGtwX1N3elM1eTJUWWZRQm5wenVCbFZFT1dXT04wS0Utdkp1RHl5c2ZrT3BJcS1BMHRLSnFFbFZvamU1cTF3VFQyZENlN0loQlU1ZDRzTXVwdmZXTVM0T01vVWtULURLUUlMRDFQNkxMbEJvWmZFZWM",
-        "image": null,
-        "timestamp": 1773435293.0
     }
 ]
