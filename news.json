@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آیا جنگ ایران می‌تواند رکود جهانی را آغاز کند؟",
+        "title_en": "Could the Iran war trigger a global recession?",
+        "summary": [
+            "اختلال احتمالی در صادرات انرژی و مسیرهای دریایی مانند تنگه هرمز می‌تواند عرضه جهانی نفت را محدود و شوک قیمتی به بازارها وارد کند — عاملی که در شرایط شکننده اقتصادی می‌تواند مسیر به سوی رکود جهانی را تسریع کند.",
+            "در صورت تشدید درگیری، توسل به تحریم‌ها و فشارهای خارجی می‌تواند منابع ارزی و مالی رژیم را تضعیف کند؛ این تضعیف ساختاری می‌تواند توان مدیریتی دولت در کنترل اقتصادی را کاهش داده و نارضایتی عمومی را تشدید نماید.",
+            "کانال‌های انتقال شوک شامل کاهش تجارت منطقه‌ای، فرار سرمایه، و افت اعتماد بازارهای مالی است؛ احتمال و شدت تبدیل یک بحران منطقه‌ای به رکود جهانی به طول و میزان تشدید درگیری و واکنش سیاست‌گذاران بین‌المللی بستگی دارد."
+        ],
+        "impact": "جنگ شدید منطقه‌ای می‌تواند از طریق شوک عرضه انرژی و افزایش ریسک بازارها شانس ورود به رکود جهانی را بالا ببرد، اما مقیاس واقعی وابسته به مدت و شدت درگیری و سیاست‌گذاری بین‌المللی است.",
+        "tag": "رکود",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://seekingalpha.com/news/4560607-prolonged-us-israel-war-with-iran-could-trigger-oil-shock-and-recession",
+        "clean_url": "https://seekingalpha.com/news/4560607-prolonged-us-israel-war-with-iran-could-trigger-oil-shock-and-recession",
+        "image": null,
+        "timestamp": 1773858275.0
+    },
+    {
         "title_fa": "رئیس‌جمهور یا کنگره؟ چه کسی در آمریکا حق اعلان جنگ را دارد؟",
         "title_en": "President or Congress? Who in the US has the power to declare war?",
         "summary": [
@@ -16,6 +34,42 @@
         "clean_url": "https://www.msn.com/en-us/news/world/president-or-congress-who-in-the-us-has-the-power-to-declare-war/ar-AA1YURXT",
         "image": null,
         "timestamp": 1773852985.0
+    },
+    {
+        "title_fa": "همین حالا اقدام کنید: حمایت از جوامع متاثر در بحران خاورمیانه",
+        "title_en": "Act Now: Supporting Affected Communities During the Middle East Crisis",
+        "summary": [
+            "گروه Islamic Networks Group فراخوانی برای اقدام و حمایت از جوامع آسیب‌دیده در پی بحران جاری در خاورمیانه منتشر کرده است؛ متن منبع صرفاً یک دعوت عمومی برای کمک‌رسانی است.",
+            "متن منبع هیچ اشاره‌ای به تحریم‌ها یا فشار خارجی ندارد؛ بنابراین نمی‌توان از روی این اطلاعیه ساختار تضعیف رژیم یا پیامدهای سیاسی بلندمدت را ارزیابی کرد.",
+            "هیچ نامی از روسیه، چین یا کره شمالی برده نشده و نیز اطلاعات قابل اطمینانی درباره اعتراضات داخلی یا شاخص‌های اقتصادی ارائه نشده؛ به‌دلیل این کمبود جزئیات، تحلیل استراتژیک بسته و محدود باقی می‌ماند."
+        ],
+        "impact": "فراخوان‌های کمک‌رسانی ممکن است فشار انسانی را کاهش دهند اما بدون جزئیات نمی‌توانند تغییری معنادار در توازن سیاسی یا ثبات رژیم ایجاد یا نشان دهند.",
+        "tag": "کمک‌رسانی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Islamic Networks Group",
+        "url": "https://www.msn.com/en-ie/news/world/3-million-in-aid-from-ireland-to-lebanon-as-the-middle-east-crisis-deepens/ar-AA1YvsYE",
+        "clean_url": "https://www.msn.com/en-ie/news/world/3-million-in-aid-from-ireland-to-lebanon-as-the-middle-east-crisis-deepens/ar-AA1YvsYE",
+        "image": null,
+        "timestamp": 1773852800.0
+    },
+    {
+        "title_fa": "حملات اسرائیل به میدان پارس جنوبی؛ تنش تبدیل به جنگ انرژی شد",
+        "title_en": "Israel’s South Pars strikes push Iran conflict into energy war",
+        "summary": [
+            "حملات اسرائیل به تاسیسات پارس جنوبی، نزاع نظامی را به حوزه انرژی وارد کرده و هدف‌گیری زیرساخت‌های گاز/نفتی را به بخشی از تاکتیک‌های درگیری تبدیل می‌کند.",
+            "هدف‌گیری منابع انرژی، ظرفیت صادرات و درآمدهای نفتی/گازی را در معرض اختلال قرار می‌دهد؛ این موضوع فشار مالی رژیم را افزایش و فضای اقتصادی را تنگ‌تر می‌کند.",
+            "آسیب‌پذیری زیرساخت‌های حیاتی، نشانه ضعف مدیریتی و ناتوانی در حفاظت از منابع ملی است و در صورت تشدید اختلال‌ها می‌تواند نارضایتی عمومی و بی‌ثباتی سیاسی را تشدید کند."
+        ],
+        "impact": "این حملات ثبات مالی و سیاسی رژیم را از طریق هدف‌گیری منابع حیاتی انرژی و کاهش قابلیت‌های درآمدزایی و تامین داخلی مستقیماً تهدید می‌کند.",
+        "tag": "انرژی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Sk11ZlhlSWpxOFZMMllGb3EzblBSa21Da05rNnRZWWpDaHJLdkM0UllkWjBZaEpBRDctZkhKYzZwR190QzFEdURPM3B5eHRIMlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Sk11ZlhlSWpxOFZMMllGb3EzblBSa21Da05rNnRZWWpDaHJLdkM0UllkWjBZaEpBRDctZkhKYzZwR190QzFEdURPM3B5eHRIMlE",
+        "image": null,
+        "timestamp": 1773852060.0
     },
     {
         "title_fa": "«خیلی سخت است متوقف کردن»: گزارش بی‌بی‌سی از محل حمله ایران با بمب‌های خوشه‌ای به اسرائیل",
@@ -90,6 +144,24 @@
         "timestamp": 1773836666.0
     },
     {
+        "title_fa": "کشته شدن علی لاریجانی، دبیر شورای عالی امنیت ملی ایران، در حملات",
+        "title_en": "Ali Larijani, Iran's security chief and powerful regime insider, is killed in strikes",
+        "summary": [
+            "منابع رسمی اسرائیل ابتدا و سپس مقامات ایرانی خبر کشته شدن علی لاریجانی، ۶۷ ساله، در حملات شبانه را تأیید کردند؛ خبرها همچنین از کشته شدن پسر او، مرتضی، و گله‌رضا سلیمانی، رئیس بسیج، حکایت دارد.",
+            "لاریجانی به‌عنوان دبیر شورای عالی امنیت ملی رسمیت داشت اما پس از مرگ علی خامنه‌ای بسیاری او را عملاً رهبرِ در قدرت تلقی می‌کردند؛ در ماه‌های اخیر او هدایت سرکوب‌های خشونت‌آمیز اعتراضات را برعهده داشت که به گفته گزارش‌ها هزاران کشته برجای گذاشت.",
+            "وزارت خارجه آمریکا اخیراً برای اطلاعات درباره لاریجانی و دیگر مقامات رژیم جایزه‌ای ۱۰ میلیون دلاری تعیین کرده بود و وزیر دفاع اسرائیل از «شرکای آمریکایی» در اجرای عملیات نام برد—نشانه‌ای از فشار و مداخله خارجی که ثبات ساختاری رژیم را تشدید می‌کند."
+        ],
+        "impact": "این ترور سرانۀ امنیتی ضربه‌ای عمیق به شبکهٔ تصمیم‌گیری رژیم وارد می‌کند، احتمالاً باعث تشدید بی‌ثباتی داخلی، رقابت‌های درونی برای پرکردن خلأ رهبری، و تشدید فشارهای اقتصادی و سیاسی خارجی خواهد شد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/ali-larijani-irans-security-chief-160914739.html",
+        "clean_url": "https://www.yahoo.com/news/articles/ali-larijani-irans-security-chief-160914739.html",
+        "image": "http://www.bing.com/th?id=ONUT._W3r-rTMZLSvIBse8XwtZQ&pid=News",
+        "timestamp": 1773835200.0
+    },
+    {
         "title_fa": "حالا که جنگ با ایران اینجاست، آمریکا باید مأموریتش را تکمیل کند",
         "title_en": "Now that the Iran war is here, the US must complete its mission",
         "summary": [
@@ -106,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSnhmbVVESXhvU25hNkhTU3dHNGMxSlZVbmVLc1h2bFROMWxNU2lqeVE0dGNwVmxYT1gydVFfZlBvYlA3WVZvbDhwSWZTbWpxUnJWTDlud0c4bWhaQlVoaW84LTQ3cExTTGkyS2RFOXluRGRFb0c1aGR3bWluaFVGN1REcGtpRkh2bmU4QXhSMnRIMWo1cmZRdklRNnktcWhab0JOUnNDcHNlcGVqNmtDRjlZZnpKYVZudU5vbmVSWE9JWHQtOGFV",
         "image": null,
         "timestamp": 1773833424.0
+    },
+    {
+        "title_fa": "نتایج کلیدی شهادت مقامات اطلاعاتی در بحبوحه جنگ با ایران",
+        "title_en": "Takeaways from intelligence officials’ testimony amid war with Iran",
+        "summary": [
+            "مقامات اطلاعاتی ارشد—از جمله Tulsi Gabbard (مدیر اطلاعات ملی)، John Ratcliffe (مدیر CIA) و Kash Patel (مدیر FBI)—در برابر کمیته اطلاعات سنا حاضر شدند و تحت سوگند بارها ادعاهای دولت درباره «تهدید هسته‌ای قریب‌الوقوع» ایران را تضعیف یا بی‌پشتوانه نشان دادند.",
+            "استعفای Joe Kent، مدیر مرکز مقابله با تروریسم ملی، که صریحاً از دروغ‌گویی دولت درباره تهدید قریب‌الوقوع سخن گفت، نشان‌دهنده اختلاف‌های عمیق درون کاخ سفید درباره منطق و استنادهای اطلاعاتی جنگ است.",
+            "اظهارات متضاد و فقدان پشتیبانی اطلاعاتی برای ادعاهای کلیدی دولت، اعتبار بین‌المللی و داخلی سیاست‌های فشار و نظامی را کاهش می‌دهد و ریسک محاسبه نادرست و تشدید قابل توجه درگیری را بالا می‌برد."
+        ],
+        "impact": "تضاد آشکار بین روایت سیاسی و شواهد اطلاعاتی، اعتبار دیپلماتیک و توان دولت برای حفظ ائتلاف‌ها و فشار خارجی را تضعیف می‌کند و احتمال تشدید نظامی ناشی از اشتباه اطلاعاتی را افزایش می‌دهد.",
+        "tag": "اعتبار",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/2026/03/18/politics/takeaways-intelligence-officials-worldwide-threats-war-iran",
+        "clean_url": "https://edition.cnn.com/2026/03/18/politics/takeaways-intelligence-officials-worldwide-threats-war-iran",
+        "image": "http://www.bing.com/th?id=ONUT.W8MyydY0PzIg1dFDuWplfQ&pid=News",
+        "timestamp": 1773832440.0
     },
     {
         "title_fa": "وِسلی کلارک: این‌گونه جنگ با ایران ممکن است تمام شود، اما بهترین روش نیست",
@@ -304,6 +394,24 @@
         "clean_url": "https://www.aljazeera.com/video/newsfeed/2026/3/18/aftermath-of-iranian-revenge-strikes-on-israel-leaves-destruction-two-ki",
         "image": null,
         "timestamp": 1773823023.0
+    },
+    {
+        "title_fa": "گابارد: دولت ایران تضعیف شده اما ظاهراً دست‌نخورده باقی مانده",
+        "title_en": "Iran's government degraded but appears intact, Gabbard says",
+        "summary": [
+            "گابارد می‌گوید حکومت ایران دچار تضعیف ساختاری شده اما هنوز کنترل و بقا را حفظ کرده است؛ این ارزیابی نشان‌دهنده کاهش توان عملیاتی یا مشروعیت نسبی حکومت است.",
+            "اگرچه گزارش جزئیات ارائه نمی‌دهد، پیام روشن است: ظرفیت‌های رژیم کمتر شده و این شرایط آسیب‌پذیری‌های داخلی را افزایش می‌دهد؛ هرگونه شواهد تکمیلی از نارضایتی عمومی یا سوء‌مدیریت اقتصادی می‌تواند این تضعیف را تشدید کند.",
+            "ادامه فشارهای خارجی یا تحریم‌ها در چنین وضعیتی می‌تواند تاثیر ساختاری بر پایداری رژیم داشته باشد و زمینه را برای افزایش فشار سیاسی و عملیاتی بر حکومت فراهم کند؛ این فرصت باید توسط اپوزیسیون ملی‌گرا برای تقویت اهرم‌ها و سازمان‌دهی داخلی به‌طور هوشمندانه به‌کار رود."
+        ],
+        "impact": "در کوتاه‌مدت این ارزیابی می‌تواند به تشدید نگاه‌های بین‌المللی و افزایش فرصت‌های سیاسی برای اپوزیسیون داخلی منجر شود، اما فروپاشی فوری را تضمین نمی‌کند.",
+        "tag": "تضعیف",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/politics/2026/03/18/senate-intelligence-committee-iran-war/89207562007/",
+        "clean_url": "https://www.detroitnews.com/story/news/politics/2026/03/18/senate-intelligence-committee-iran-war/89207562007",
+        "image": "http://www.bing.com/th?id=ONUT.b5wKYe6oJ0bsZVIJfYTX2w&pid=News",
+        "timestamp": 1773822960.0
     },
     {
         "title_fa": "قتل علی لاریجانی تصمیم‌گیری در ایران را پیچیده‌تر و گزینه‌ها را محدود کرد",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.bbc.co.uk/news/live/ckg1w1jp8kjt",
         "image": null,
         "timestamp": 1773462960.0
-    },
-    {
-        "title_fa": "جنگ آمریکا و اسرائیل با ایران وارد هفته سوم شد؛ آنچه می‌دانیم",
-        "title_en": "The US-Israel war with Iran has entered a third week. Here’s what we know",
-        "summary": [
-            "درگیری نظامی آمریکا و اسرائیل با ایران وارد هفته سوم شده و استمرار آن فشار خارجی پایداری بر ساختارهای سیاسی و اقتصادی رژیم اعمال می‌کند.",
-            "تداوم جنگ هزینه‌های نظامی را افزایش و توان مدیریتی اقتصاد را محدود می‌کند؛ این وضعیت حکایت از تشدید نارضایتی‌های عمومی و ضعف مدیریتی دارد که ریسک بی‌ثباتی داخلی را بالا می‌برد.",
-            "اطلاعات دقیق درباره دامنه عملیات، تلفات و پیامدهای سیاسی هنوز محدود است؛ هر ارزیابی باید بر شواهد معتبر تکیه کند و از حدس‌وگمان دوری شود."
-        ],
-        "impact": "تداوم درگیری ساختارهای اقتصادی و سیاسی رژیم را تضعیف می‌کند و احتمال تشدید ناآرامی‌های داخلی و پیچیده‌تر شدن بحران منطقه‌ای را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Wc1FQejJDM1lJVlpBMGxLbndHUUZxVzdlUXdiMkZybGFjRmFpLTdoQmc2cU81dV9UZzkzY1E4NXoyY0xIWTV3SEs1eXNvdEFxcmhYZ0tuUnUxZTQ5TkpHU2pRY3JGdTRxYzNOTTFxNFhiWE5JOHNpTHh4aHg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Wc1FQejJDM1lJVlpBMGxLbndHUUZxVzdlUXdiMkZybGFjRmFpLTdoQmc2cU81dV9UZzkzY1E4NXoyY0xIWTV3SEs1eXNvdEFxcmhYZ0tuUnUxZTQ5TkpHU2pRY3JGdTRxYzNOTTFxNFhiWE5JOHNpTHh4aHg",
-        "image": null,
-        "timestamp": 1773462000.0
-    },
-    {
-        "title_fa": "ترامپ: ایران می‌خواهد توافق کند، اما «نه آن توافقی که من می‌پذیرم»",
-        "title_en": "US-Israel Iran War LIVE Updates: Trump Says Iran Wants A Deal, But \"Not The One That I Would Accept\"",
-        "summary": [
-            "دونالد ترامپ می‌گوید ایران خواهان توافق است اما نه توافقی که او آن را قابل‌قبول بداند.",
-            "این اظهارنظر نشان‌دهنده موضع سخت‌تر آمریکا در مذاکرات است و می‌تواند توجیه‌کننده تداوم یا تشدید فشارهای تحریمی و دیپلماتیک علیه ایران باشد.",
-            "اگر بن‌بست مذاکرات ادامه یابد، پیامدهای اقتصادی و سیاسی داخلی و تشدید نارضایتی عمومی محتمل است؛ خبر منبع جزئیات عینی درباره شاخص‌های داخلی ارائه نمی‌دهد."
-        ],
-        "impact": "این موضع بلافاصله شانس حصول یک توافق دیپلماتیک معنادار را کاهش می‌دهد و مسیر را به سوی استمرار فشارهای خارجی و بن‌بست دیپلماتیک می‌کشاند.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "NDTV",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZDktRmhfWFlLSENvX3RtdkhnZmNoUFFjc1lHbmNmZFlfcDFJQXB6Qkc1MldsZXdZdUlMY0hna2tCekdSZGVibk9hS3JlaUJYSmhQRHFCR2RUUERCY2wzNEg1dXRBVXNGT1BrS1pmdk9lWUdTOXlyYWlZLWNXZWdQYUcyYk5mQ0lrQ1o0cnN0YkNnSHNDc3RQWVUwOEFvQ3I1VWFaQnQ1ZFRFZXM2RlNvRmVNMHRtcE5tZndtSHRXV2Y3ZGdOOGM5MDAwNzk5ZlJxdWxUNEdDeFdQLVRPYVNROGtWeEdXeFFIb0Y2a0ljaU1ZZHg4SzJNWDFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZDktRmhfWFlLSENvX3RtdkhnZmNoUFFjc1lHbmNmZFlfcDFJQXB6Qkc1MldsZXdZdUlMY0hna2tCekdSZGVibk9hS3JlaUJYSmhQRHFCR2RUUERCY2wzNEg1dXRBVXNGT1BrS1pmdk9lWUdTOXlyYWlZLWNXZWdQYUcyYk5mQ0lrQ1o0cnN0YkNnSHNDc3RQWVUwOEFvQ3I1VWFaQnQ1ZFRFZXM2RlNvRmVNMHRtcE5tZndtSHRXV2Y3ZGdOOGM5MDAwNzk5ZlJxdWxUNEdDeFdQLVRPYVNROGtWeEdXeFFIb0Y2a0ljaU1ZZHg4SzJNWDFn",
-        "image": null,
-        "timestamp": 1773461342.0
-    },
-    {
-        "title_fa": "آمریکا جزیره نفتی خارگ را بمباران کرد؛ ترامپ دستور «نابودی کامل» داد",
-        "title_en": "Iran War Live Updates: U.S. Says It Bombed Key Iranian Island With Oil Hub",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا اعلام کرد به پنتاگون دستور «نابودی کامل» دارایی‌های نظامی روی جزیره خارگ را داده است.",
-            "وزارت دفاع آمریکا می‌گوید جزیره کلیدی خارگ — با هاب نفتی — هدف حملات قرار گرفته است و در بیانیه‌ای از بمباران آن خبر داده است.",
-            "ایالات متحده اعلام کرده در واکنش نظامی منطقه را با اعزام هزاران تفنگدار دریایی تقویت می‌کند؛ این اقدام میدان فشار نظامی علیه تهران را تشدید می‌کند."
-        ],
-        "impact": "هدف‌گیری هاب نفتی خارگ و افزایش حضور نظامی آمریکا می‌تواند درآمدهای نفتی و ظرفیت مدیریتی رژیم را تضعیف کرده، فشار خارجی را افزایش دهد و ناتوانی در حفاظت از زیرساخت‌های حیاتی را به‌عنوان نشانه شکست حکمرانی برجسته کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
-        "clean_url": "https://www.nytimes.com/live/2026/03/14/world/iran-war-trump-oil-israel",
-        "image": null,
-        "timestamp": 1773459960.0
-    },
-    {
-        "title_fa": "دو هفته جنگ: تصمیم پرخطر ترامپ برای حمله به ایران و تلاش برای مهار پیامدها",
-        "title_en": "Two weeks of war: Inside Trump’s risky decision to attack Iran—and the scramble to contain the fallout",
-        "summary": [
-            "حملات اولیه آمریکا و اسرائیل طبق گزارش منجر به قتل علی خامنه‌ای و شماری از نزدیکان ارشد شده است؛ گزینه‌های جایگزین جانشینی که واشنگتن روی آنها حساب کرده بود نیز از میان رفته‌اند و خلأ و آشفتگی در رده‌های بالای قدرت ایجاد شده است.",
-            "عملیات فراتر از برنامه محدود و کوتاه‌مدت دولت ترامپ پیش رفت؛ جمهوری اسلامی برخلاف انتظار متمرکز شد و واکنش‌های تهاجمی در منطقه از جمله هدف‌گیری نفتکش‌ها و عملاً توقف عبور نفت از تنگه هرمز داشته که بحران جهانی انرژی را شعله‌ور کرده است.",
-            "محاسبات کاخ سفید برای فروپاشی سریع رژیم شکست خورد؛ فقدان راه خروج روشن و گسترش دامنه جنگ فشارهای اقتصادی و سیاسی خارجی را افزایش داده و شکست مدیریت بحران در هر دو طرف را برجسته ساخته است—این شکست‌ها نشان‌دهنده ناتوانی ساختاری در پیش‌بینی و کنترل پیامدهاست."
-        ],
-        "impact": "این رخدادها کوتاه‌مدت به تمرکز قدرت در داخل رژیم و تشدید بحران اقتصادی-انرژتیک منجر شده و بلندمدت ثبات سیاسی و مشروعیت رژیم را در میان مردم تضعیف خواهد کرد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/03/14/politics/trump-iran-attack-decision-fallout",
-        "clean_url": "https://www.cnn.com/2026/03/14/politics/trump-iran-attack-decision-fallout",
-        "image": null,
-        "timestamp": 1773457260.0
-    },
-    {
-        "title_fa": "ترامپ: ایدهٔ خودم دربارهٔ مدت‌زمان جنگ با ایران را دارم",
-        "title_en": "Trump says he has ‘own idea’ on how long Iran war will last",
-        "summary": [
-            "دونالد ترامپ گفته که «ایدهٔ خودش» دربارهٔ مدت‌زمان جنگ با ایران دارد؛ بیانیه‌ای اعلامی و فاقد جزئیات عملیاتی یا جدول زمانی مشخص.",
-            "این نوع اظهارات سیگنالی سیاسی است که می‌تواند انتظارات داخلی و منطقه‌ای را تغییر دهد و در صورت دنبال شدن با اقدامات مشخص، احتمال تشدید تنش یا فشارهای بیشتر علیه رژیم را افزایش دهد.",
-            "پیام‌های جنگ‌طلبانه می‌تواند فشار خارجی را تشدید کند و به‌تبع آن، اثرات اقتصادی و نارضایتی اجتماعی در داخل ایران را عمیق‌تر کند—اما بدون شواهد از گام‌های بعدی، تأثیر دقیق و دامنه آن نامشخص باقی می‌ماند."
-        ],
-        "impact": "در کوتاه‌مدت این اظهارات فضای سیاسی-امنیتی را ملتهب می‌کند و احتمال دارد فشار اقتصادی و سیاسی بر رژیم را تشدید نماید، هرچند نبود اقدامات پسینی قضاوت قاطع را محدود می‌کند.",
-        "tag": "جنگ",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzdPcnFvaEtKYWNyTDN5VUIzYzlOOGlqTFJMcUxNR054bVZ5cWFwNWxOSWFVNG9wdXhSeHdHUW8xMnBwTHhTV0VWRjNMbUY3OHBBVzg0N1A2YnRBZ21PN1J0VHl6eGtqSjI1dHB2d1VPUFE1SlhvVGsya0JOd3lER2JmYlZzVWNN0gGOAUFVX3lxTE1SNUNyMEg1d0pLVENOUmJtWWU4QnRqYTdGc19xSzFSMnd2bERSZzZGQVU2VU9LWnNXTjZsVkhROEdfVnhaYmNoX1VpRmlVeURfSDQ3ZG82S2F2WE9RNF9WTnMxQlVqa3YzSkhPZVQ4SVFEOXRIUWhJaEM1WG0xbUp1bksySHpuZUlhRUhKMlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzdPcnFvaEtKYWNyTDN5VUIzYzlOOGlqTFJMcUxNR054bVZ5cWFwNWxOSWFVNG9wdXhSeHdHUW8xMnBwTHhTV0VWRjNMbUY3OHBBVzg0N1A2YnRBZ21PN1J0VHl6eGtqSjI1dHB2d1VPUFE1SlhvVGsya0JOd3lER2JmYlZzVWNN0gGOAUFVX3lxTE1SNUNyMEg1d0pLVENOUmJtWWU4QnRqYTdGc19xSzFSMnd2bERSZzZGQVU2VU9LWnNXTjZsVkhROEdfVnhaYmNoX1VpRmlVeURfSDQ3ZG82S2F2WE9RNF9WTnMxQlVqa3YzSkhPZVQ4SVFEOXRIUWhJaEM1WG0xbUp1bksySHpuZUlhRUhKMlE",
-        "image": null,
-        "timestamp": 1773457020.0
-    },
-    {
-        "title_fa": "مجتبی خامنه‌ای هنوز ظاهر نشده؛ نظام ممکن است به او نیاز نداشته باشد",
-        "title_en": "Iran’s new supreme leader has yet to appear, and the system may not need him to",
-        "summary": [
-            "شش روز پس از انتصاب، مجتبی خامنه‌ای در انظار عمومی دیده نشده؛ رسانه‌های دولتی فقط بیانیه‌ای منتسب به او پخش کردند و منابع گزارش داده‌اند که در همان موج حملات آمریکا و اسرائیل که پدر و فرماندهان ارشد را کشت، دچار جراحت در پا و صورت شده است.",
-            "غیبت آشکار رهبر جدید نشان می‌دهد مرکز ثقل قدرت به جای شخصیت واحد، بیشتر به نهادها و دستگاه‌های امنیتی منتقل شده است؛ ساختارهای نظامی و حفاظتی اکنون نقش تعیین‌کننده در تصمیم‌گیری دارند.",
-            "رژیم برای جبران این خلأ با برگزاری تجمع‌های هزارنفری و پخش بیانیه‌های هماهنگ تلاش می‌کند انسجام و مشروعیت را بازیابی کند، اما این نمایش‌ها پوششی برای ضعف رهبری و خطر قطبی‌شدن میان نهادها هستند."
-        ],
-        "impact": "غیبت رهبر تازه‌منصب پس از کشته شدن فرماندهان ارشد، فضای بی‌ثباتی و رقابت داخلی برای کنترل نهادهای امنیتی را تشدید می‌کند و توان بازدارندگی و کارآمدی تصمیم‌سازی نظام را کاهش می‌دهد.",
-        "tag": "خلاقدرت",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iran-supreme-leader-yet-appear-084955547.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-supreme-leader-yet-appear-084955547.html",
-        "image": "http://www.bing.com/th?id=OVFT.JuSiOAWgUyOf0DCyRuB1gS&pid=News",
-        "timestamp": 1773456180.0
     }
 ]
