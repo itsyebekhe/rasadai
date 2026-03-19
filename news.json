@@ -756,6 +756,24 @@
         "timestamp": 1773906780.0
     },
     {
+        "title_fa": "نظرسنجی‌ها: اکثریت مِیگَا از اقدامات نظامی ترامپ علیه ایران حمایت می‌کنند",
+        "title_en": "Trump’s Iran war is supposedly splitting MAGA. The polls tell a different story.",
+        "summary": [
+            "علیرغم مخالفت صوتی شماری از محافظه‌کاران، نظرسنجی‌ها نشان می‌دهد بخش اعظم پایگاه مِیگَا از اقدامات نظامی ترامپ در قبال ایران پشتیبانی می‌کنند.",
+            "این وحدت داخلی در حزب جمهوری‌خواه هزینه سیاسی گزینه‌های تهاجمی را برای دولت ترامپ کاهش می‌دهد و راه را برای فشار نظامی یا دیپلماتیک بیشتر باز می‌کند.",
+            "برای رژیم ایران، حمایت قوی آرای مِیگَا از عملیات نظامی آمریکایی خطر افزایش فشارهای خارجی و تشدید محدودیت‌های اقتصادی و امنیتی را بالا می‌برد."
+        ],
+        "impact": "پشتیبانی گسترده پایگاه مِیگَا از اقدامات نظامی ترامپ احتمال تشدید فشارهای نظامی و اقتصادی بر رژیم ایران را افزایش می‌دهد و فضای سیاسی داخلی ایران را تنگ‌تر خواهد کرد.",
+        "tag": "فشار",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "NJ.com",
+        "url": "https://www.nj.com/politics/2026/03/trumps-iran-war-is-supposedly-splitting-maga-the-polls-tell-a-different-story.html",
+        "clean_url": "https://www.nj.com/politics/2026/03/trumps-iran-war-is-supposedly-splitting-maga-the-polls-tell-a-different-story.html",
+        "image": "http://www.bing.com/th?id=OVFT.P2v9OqA2D7D4cqtMk-HxmC&pid=News",
+        "timestamp": 1773904680.0
+    },
+    {
         "title_fa": "جنگ علیه ایران: دونالد ترامپ می‌گوید دیگر حملاتی از سوی اسرائیل به پارس جنوبی نخواهد بود",
         "title_en": "Iran war: Trump says no more Israeli attacks on South Pars",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.bloomberg.com/graphics/2026-iran-war-middle-east-strike-targets-map",
         "image": null,
         "timestamp": 1773581641.0
-    },
-    {
-        "title_fa": "سفیر آمریکا در سازمان ملل «پیروزی قاطع» مقابل ایران را اعلام کرد — سپس گفت پنتاگون ممکن است هنوز نیرو به ایران اعزام کند",
-        "title_en": "Trump’s UN ambassador declares ‘dominant victory’ in Iran — then says Pentagon could still send in US troops",
-        "summary": [
-            "مایک والتز مدعی شد که ایالات متحده «توان نظامی ایران از جمله نیروی دریایی، هوایی و موشکی بالستیک را نابود کرده» و این عملیات را «پیروزی قاطع» خواند؛ با این حال تأکید کرد گزینه اعزام نیروهای زمینی محدود همچنان برای کاخ‌سفید موجود است.",
-            "کریس رایت گفت سناریوی پایان جنگ می‌تواند ظرف «هفته‌ها» رخ دهد؛ جمهوری‌خواهان مطلع از جزئیات از احتمال استفاده از نیروی زمینی در «عملیات هدف‌مند» اجتناب نکرده‌اند و صراحتاً اشغال گسترده‌ای مانند ۲۰۰۳ عراق را رد می‌کنند.",
-            "نگرانی داخلی از جنگ در نظرسنجی‌ها آشکار است و بیانیه‌های مقامات آمریکایی همزمان نشان می‌دهد که فرسایش توان نظامی جمهوری اسلامی می‌تواند فشارهای سیاسی و اقتصادی داخلی را تشدید کند."
-        ],
-        "impact": "اعلام «پیروزی قاطع» همراه با تهدید احتمالی اعزام نیرو، توان دفاعی رژیم را تضعیف و فضای سیاسی داخلی را به‌شدت شکننده‌تر می‌کند و احتمال افزایش نارضایتی و بحران مشروعیت را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/trump-un-ambassador-declares-dominant-200534855.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-un-ambassador-declares-dominant-200534855.html",
-        "image": "http://www.bing.com/th?id=OVFT.8M9UiSSFQYnIUEcCBVeXUS&pid=News",
-        "timestamp": 1773580620.0
     }
 ]
