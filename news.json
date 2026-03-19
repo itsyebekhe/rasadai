@@ -36,6 +36,24 @@
         "timestamp": 1773892500.0
     },
     {
+        "title_fa": "استراتژی اعدام مقامات عالی ایران ممکن است نتیجه عکس بدهد",
+        "title_en": "US and Israel’s strategy to kill Iran’s top figures may prove counterproductive",
+        "summary": [
+            "اسرائیل فرمان داده ارتش هر مقام عالی‌رتبه ایرانی در فهرست ترور را به‌قتل برساند و به مقام‌های آمریکایی گفته شده در صورت قیام، اپوزیسیون داخلی «کشته خواهد شد» — رویکردی که با هدف اعلامی تغییر رژیم از سوی بنیامین نتانیاهو تناقض دارد.",
+            "کارشناسان هشدار می‌دهند که ضربه‌محوری احتمالا رژیم را ساقط نخواهد کرد؛ ساختارهای نهادی امکان جایگزینی از درون را فراهم می‌کنند و حذف چهره‌ها می‌تواند به ظهور افراد آزموده‌نشده، تقویت گرایش‌های نظامی و سخت‌تر شدن سرکوب منجر شود.",
+            "طبق گزارش‌ها، حملات هدف‌دار تا کنون منجر به مرگ علی خامنه‌ای، علی لاریجانی و اسماعیل خطیب شده‌اند؛ تجربه تاریخی اسرائیل از ترورها نشان‌دهنده موفقیت محدود است و این تاکتیک می‌تواند به جای تضعیف، موجب مقاوم‌سازی رژیم شود."
+        ],
+        "impact": "این سیاست فشار خارجی احتمالاً ساختارهای امنیتی-نظامی رژیم را تحکیم کرده، سرکوب داخلی را تشدید و فضای تغییر سیاسی مسالمت‌آمیز را تنگ‌تر خواهد کرد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/mar/18/us-and-israel-strategy-to-kill-irans-top-figures-may-prove-counterproductive",
+        "clean_url": "https://www.theguardian.com/world/2026/mar/18/us-and-israel-strategy-to-kill-irans-top-figures-may-prove-counterproductive",
+        "image": null,
+        "timestamp": 1773892080.0
+    },
+    {
         "title_fa": "سفیر پیشین اسرائیل: جنگ با ایران بیش از شش ماه دیگر دوام نخواهد داشت",
         "title_en": "Former Israeli ambassador doesn’t think Iran war will last for an extra 6 months",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html",
         "image": null,
         "timestamp": 1773491956.0
-    },
-    {
-        "title_fa": "حماس از متحد کلیدی خود ایران خواست حملات علیه کشورهای خلیج را متوقف کند",
-        "title_en": "Hamas urges key ally Iran to halt attacks on Gulf states",
-        "summary": [
-            "حماس از ایران خواسته است اقداماتی که علیه کشورهای حوزه خلیج فارس انجام می‌شود را متوقف کند؛ این درخواست مستقیماً در عنوان گزارش ذکر شده و نشان‌دهنده نگرانی حماس از گسترش تنش است.",
-            "ادامه حملات به خلیج می‌تواند به فشار و منزوی‌شدن بیشتر تهران منجر شود؛ هشدار حماس منعکس‌کننده احتمال افزایش فشارهای دیپلماتیک و اقتصادی از سوی بازیگران منطقه‌ای و بین‌المللی است.",
-            "اگر این روند ادامه یابد، هزینه‌های سیاسی و اقتصادی برای رژیم افزایش یافته و می‌تواند نارضایتی داخلی را تشدید کند؛ با این حال وقوع چنین پیامدهایی باید بر اساس شواهد بعدی تأیید شود."
-        ],
-        "impact": "این اعلام موضع حماس نشان می‌دهد حتی متحدانش از تسری درگیری نگران‌اند و در صورت تداوم می‌تواند زمینه‌ساز تشدید فشارهای منطقه‌ای و تضعیف بیشتر ثبات داخلی تهران شود.",
-        "tag": "تنش",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/world/hamas-urges-key-ally-iran-to-halt-attacks-on-gulf-states/ar-AA1YBzV2",
-        "clean_url": "https://www.msn.com/en-us/news/world/hamas-urges-key-ally-iran-to-halt-attacks-on-gulf-states/ar-AA1YBzV2",
-        "image": null,
-        "timestamp": 1773489946.0
     }
 ]
