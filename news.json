@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "شکست خیره‌کننده بازدارندگی ایران",
+        "title_en": "The Stunning Failure of Iranian Deterrence",
+        "summary": [
+            "مقاله با این گزاره اصلی پیش می‌رود که بازدارندگی ایران شکست خورده و این شکست نشان‌دهنده ناکارآمدی در سیاست‌گذاری استراتژیک و برآمد عملیاتی نیروهای نظامی و شبه‌نظامی است.",
+            "از منظر فشار خارجی، نویسندگان توضیح می‌دهند که این ناکامی ساختار قدرت رژیم را تضعیف می‌کند، اهرم فشار تحریم‌ها و مداخله خارجی را افزایش می‌دهد و ظرفیت بازدارندگی سیاست خارجی تهران را کاهش می‌دهد.",
+            "در داخل، مقاله هشدار می‌دهد که شکست بازدارندگی به‌عنوان نشانه‌ای از سوءمدیریت حکمرانی تفسیر می‌شود و می‌تواند نارضایتی عمومی، بی‌اعتمادی اقتصادی و آسیب‌پذیری سیاسی رژیم را تشدید کند."
+        ],
+        "impact": "پیامد عملی گزارش این است که از بین رفتن بازدارندگی ایران احتمال افزایش تعرضات منطقه‌ای و تقویت اهرم فشار خارجی را بالا می‌برد و در عین حال ثبات داخلی رژیم را بیشتر تضعیف می‌کند.",
+        "tag": "بازدارندگی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/iran/stunning-failure-iranian-deterrence",
+        "clean_url": "https://www.foreignaffairs.com/iran/stunning-failure-iranian-deterrence",
+        "image": null,
+        "timestamp": 1773939794.0
+    },
+    {
         "title_fa": "انکار دیپلمات ایران در کیف مقابل شواهد ارسال پهپاد به روسیه",
         "title_en": "We interviewed Iran's envoy to Ukraine and it was absolutely wild",
         "summary": [
@@ -70,6 +88,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qbFUwdUZxa3B2NVMtODl4RTNJR3NIaURpQVlfZGtEWGx3VjItUm9VTWZjd3FrOV9kMndKU2ZjOEkzdEpQOHBqWDFaYWtQdng0TlE0WHhSZ1NUU2lGUFJpN2lod3NUbHM",
         "image": null,
         "timestamp": 1773933616.0
+    },
+    {
+        "title_fa": "زنده: ایران به تاسیسات انرژی حمله کرد؛ اسرائیل در دو روز ۴۵ نفر را در لبنان کشت",
+        "title_en": "Live: Iran attacks energy sites as Israel kills 45 people in Lebanon in two days",
+        "summary": [
+            "ایران به تاسیسات انرژی حمله کرده که نشانه تشدید مستقیم علیه زیرساخت‌های حیاتی و افزایش خطر نظامی است.",
+            "اسرائیل در دو روز اخیر ۴۵ نفر را در لبنان کشته؛ این آمار منعکس‌کننده افزایش شدت عملیات نظامی و تلفات در مرزهای منطقه است.",
+            "تحلیل: این تحرکات می‌تواند منجر به بسط درگیری منطقه‌ای، تشدید فشارهای بین‌المللی و احتمال تحریم‌های بیشتر شود و در نتیجه ثبات اقتصادی و سیاسی رژیم را تضعیف کند."
+        ],
+        "impact": "پیامد فوری این است که ریسک گسترش درگیری فرامرزی بالا رفته و فشارهای بین‌المللی و اقتصادی که ثبات داخلی رژیم را تضعیف می‌کنند، افزایش خواهد یافت.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Middle East Eye",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FeXpPbkl0TndOTmdVREw1ZUF0MTE1MDd3SXFQWHpWbTBBWEtVWVhlZmZZX2pJZ3BDNERQay1pWW1jbElKNUNEVUFfTVdkTXdaZjB2eUlLblpySXdWN2JLOXUwWWlBRjI2azN0V1V0N1ZZRjg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FeXpPbkl0TndOTmdVREw1ZUF0MTE1MDd3SXFQWHpWbTBBWEtVWVhlZmZZX2pJZ3BDNERQay1pWW1jbElKNUNEVUFfTVdkTXdaZjB2eUlLblpySXdWN2JLOXUwWWlBRjI2azN0V1V0N1ZZRjg",
+        "image": null,
+        "timestamp": 1773933115.0
     },
     {
         "title_fa": "آیا آمریکا و اسرائیل در جنگ با ایران هم‌راستا هستند؟ رمزگشایی از پست ترامپ پس از حملات به میدان‌های گازی",
@@ -216,6 +252,60 @@
         "timestamp": 1773915783.0
     },
     {
+        "title_fa": "تأثیر جنگ در ایران و لبنان بر سلامت عمومی",
+        "title_en": "How The War In Iran And Lebanon Impacts Public Health",
+        "summary": [
+            "کوتاه‌مدت: حملات و درگیری‌ها باعث افزایش فوری تلفات، اشباع بیمارستان‌ها، اختلال در زنجیره تأمین دارو و تجهیزات، شیوع بیماری‌های واگیر در میان آوارگان و آسیب‌پذیری خدمات اضطراری می‌شود.",
+            "بلندمدت: فروپاشی زیرساخت‌های بهداشتی، افزایش بیماری‌های مزمن ناشی از قطع درمان‌ها، پیامدهای روان‌سلامتی گسترده، کاهش پوشش واکسیناسیون و سوءتغذیه در جمعیت‌های درگیر که ده‌ها سال سلامت عمومی را تضعیف می‌کند.",
+            "فشارهای خارجی و اقتصادی: اگر تحریم‌ها یا فشار خارجی تشدید شود، توان دولت در تأمین دارو، واردات تجهیزات و نگهداری شبکه‌های بهداشتی کاهش می‌یابد؛ اقتصاد آسیب‌دیده و اختلال خدمات بهداشتی می‌تواند نارضایتی عمومی را افزایش دهد و بر ثبات سیاسی فشار وارد کند."
+        ],
+        "impact": "ترکیب صدمات مستقیم جنگ و اختلال‌های اقتصادی-سازمانی، سلامت عمومی را کوتاه‌مدت و بلندمدت تضعیف کرده و بار سیاسی و اجتماعی قابل توجهی بر رژیم تحمیل می‌کند.",
+        "tag": "بهداشت",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/omerawan/2026/03/19/how-the-war-in-iran-and-lebanon-impacts-public-health/",
+        "clean_url": "https://www.forbes.com/sites/omerawan/2026/03/19/how-the-war-in-iran-and-lebanon-impacts-public-health",
+        "image": null,
+        "timestamp": 1773915780.0
+    },
+    {
+        "title_fa": "اعدام سه متهم مرتبط با اعتراضات ژانویه از جمله کشتی‌گیر نوجوان؛ هشدار درباره موج جدید اعدام‌ها",
+        "title_en": "Iran hangs 3 people, including teen wrestler, in first executions over January protests",
+        "summary": [
+            "قوه قضائیه سه نفر شامل صالح محمدی (عضو تیم ملی کشتی که هفته گذشته ۱۹ ساله شد)، مهدی قاسمی و سعید داوودی را در شهر قم به اتهام «محاربه» و مشارکت در کشته‌شدن دو مأمور پلیس اعدام کرد.",
+            "گروه‌های حقوق بشری از جمله عفو بین‌الملل و Iran Human Rights اعلام کردند محاکمات «ناسالم»، اعترافات به‌دست‌آمده تحت شکنجه و محرومیت از دسترسی موثر به وکیل وجود داشته است؛ پیش‌ازاین نیز اجرای حکم کورش کیوانی با محکومیت استکهلم و اتحادیه اروپا روبه‌رو شده بود.",
+            "نهادهای حقوق بشری نسبت به افزایش اعدام‌های دسته‌جمعی در سایه تشدید جنگ با اسرائیل و آمریکا و وخامت شرایط امنیتی و سیاسی هشدار داده‌اند."
+        ],
+        "impact": "اعدام‌های شتاب‌زده و مدارک گسترده درباره اعترافات اجباری مشروعیت حکومت را تضعیف کرده و بی‌اعتمادی عمومی و خطر تشدید اعتراضات را بالا می‌برد، در کنار محکومیت‌های بین‌المللی که احتمال افزایش فشارهای دیپلماتیک و اقتصادی و انزوای بیشتر رژیم را تقویت می‌کند.",
+        "tag": "اعدام",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/iran-execution-teen-wrestler-january-protests/",
+        "clean_url": "https://www.cbsnews.com/news/iran-execution-teen-wrestler-january-protests",
+        "image": null,
+        "timestamp": 1773915180.0
+    },
+    {
+        "title_fa": "هشدار ایران درباره «صفر محدودیت» هم‌زمان با تشدید حملات به تاسیسات گازی و نفتی",
+        "title_en": "Iran warns of 'zero restraint' amid heightened gas and oil attacks",
+        "summary": [
+            "خلاصه رخداد: پس از ضربه اسرائیل به میدان گازی پارس جنوبی (تأمین نزدیک به 70 درصد نیاز داخلی گاز)، ایران حملاتی را به مجتمع عظیم LNG راس لافان در قطر و پالایشگاه‌هایی در عربستان و کویت انجام داد؛ تنش‌ها باعث شد قیمت برنت تا 119 دلار صعود و سپس تا 112 دلار اصلاح شود و گاز اروپایی حدود 35 درصد رشد کند.",
+            "فشار خارجی و پیامدهای اقتصادی: تهدید واشنگتن به واکنش شدید و هشدارهای کشورهای خلیج، به همراه بسته شدن تنگه هرمز و اختلال در صادرات انرژی، ساختار درآمدهای ارزی رژیم را نشانه گرفته و ظرفیت دولت برای مدیریت کسری بودجه و ثبات بازارهای داخلی را کاهش می‌دهد.",
+            "خطرات داخلی و مدیریتی: هدف گرفتن زیرساخت‌های انرژی و آسیب به پارس جنوبی که نقش محوری در تامین گاز خانگی دارد، نشان‌دهنده اولویت‌گذاری واکنش نظامی بر مدیریت اقتصادی است و شکاف‌های ساختاری مدیریتی را برجسته می‌کند—خطر افزایش نارضایتی عمومی و فشار بر معیشت شهروندان به طور محسوس بالا رفته است."
+        ],
+        "impact": "تشدید حملات به زیرساخت‌های انرژی، همراه با تهدید واکنش نظامی آمریکا و اختلال در صادرات، فشارهای ارزی و تورمی را افزایش می‌دهد و ظرفیت رژیم برای حفظ کنترل اقتصادی و سیاسی را به طرز قابل‌توجهی تضعیف می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-threatens-destroy-irans-largest-052051938.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-threatens-destroy-irans-largest-052051938.html",
+        "image": null,
+        "timestamp": 1773914100.0
+    },
+    {
         "title_fa": "جنگ وارد فاز تازه شد؛ حمله اسرائیل به میدان گازی ایران و واکنش خلیج",
         "title_en": "War enters new phase as Israel attack on Iran gasfield sparks Gulf response",
         "summary": [
@@ -322,6 +412,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNVdmLVU1OS03dE1ic2FzMzUyZm42QTBmSnRuTFVReDEyTjB3LWdBeUdrMVRGaktWdGF4aFFiY1RoVV9FUGRzdTlwcDVUNW52ZlVTQjVKTDk0d2hwbzFUN3NxUXJYdjVJOXRha0J3R3Jjd083bXBHTk5IcTdQajA",
         "image": null,
         "timestamp": 1773908212.0
+    },
+    {
+        "title_fa": "هگست: «بزرگ‌ترین بسته حمله‌ای تا کنون» علیه ایران امروز اجرا می‌شود",
+        "title_en": "Pete Hegseth says \"largest strike package yet\" coming today in Iran war",
+        "summary": [
+            "وزیر دفاع پیت هگست اعلام کرد که امروز «بزرگ‌ترین بسته حمله‌ای تا کنون» علیه اهداف در ایران اجرا می‌شود؛ پنتاگون به‌نقل گفته بیش از ۷۰۰۰ هدف، از جمله زیرساخت‌های نظامی و صنعتی، مورد حمله قرار گرفتند و رئیس ستاد مشترک دن کِین از استفاده بمب‌های نفوذگر ۵۰۰۰ پوندی و نفوذ عمیق‌تر به حریم هوایی ایران خبر داد.",
+            "اسرائیل میدان گازی پارس جنوبی را هدف قرار داد و ایران در واکنش، تأسیسات گازی قطر در رس لفان را هدف گرفت؛ رئیس‌جمهور ترامپ گفت از حمله اسرائیل «هیچ اطلاعی» نداشته و تهدید به تخریب پارس جنوبی در صورت حمله ایران به قطر کرد؛ بازارهای نفت و گاز واکنش نشان داده و قیمت‌ها بالا رفت.",
+            "واشنگتن‌پست گزارش داد پنتاگون درخواست ۲۰۰ میلیارد دلار اضافی برای جنگ کرده و هگست برخاستن مالی برای ادامه عملیات را ضروری دانست؛ ترکیب حملات هدفمند به زیرساخت‌های انرژی و تقاضای بودجه عظیم، فشار ساختاری بر اقتصاد و مشروعیت حکمرانی ایران را افزایش می‌دهد و ریسک بی‌ثباتی داخلی را بالا می‌برد."
+        ],
+        "impact": "تشدید حملات نظامی هم‌زمان با تحمیل بار مالی سنگین، زیرساخت‌های حیاتی و درآمدهای انرژی ایران را هدف قرار می‌دهد و رژیم را در معرض تضعیف اقتصادی و تشدید نارضایتی داخلی قرار می‌دهد.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/hegseth-caine-iran-war-update-briefing-2026-03-19/",
+        "clean_url": "https://www.cbsnews.com/news/hegseth-caine-iran-war-update-briefing-2026-03-19",
+        "image": null,
+        "timestamp": 1773907440.0
     },
     {
         "title_fa": "جنگ آمریکا و اسرائیل با ایران باعث اختلالات گسترده در نفت و گاز شد",
@@ -646,6 +754,24 @@
         "clean_url": "https://thehill.com/policy/international/5790617-gulf-countries-iran-conflict-diplomacy",
         "image": null,
         "timestamp": 1773889200.0
+    },
+    {
+        "title_fa": "افزایش حملات ایران به تاسیسات انرژی؛ نگرانی آمریکا از تشدید جنگ",
+        "title_en": "U.S. officials face growing concern about Iran war escalating amid energy facility attacks",
+        "summary": [
+            "ایران حملات به تاسیسات نفت و گاز در اطراف خلیج فارس را تشدید کرده است؛ مقام‌های آمریکایی هشدار می‌دهند که این اقدامات ریسک گسترش جنگ را بالا برده و بازار جهانی انرژی را متلاطم می‌کنند.",
+            "این موج حملات می‌تواند واکنش‌های سخت‌تر از جمله تحریم‌های گسترده‌تر و فشار دیپلماتیک را به دنبال داشته باشد؛ کاهش درآمدهای ناشی از صادرات انرژی و محدود شدن دسترسی به منابع مالی، تضعیف ساختاری رژیم را تسریع خواهد کرد.",
+            "پیامدهای اقتصادی (کاهش درآمد، نوسان ارزی و اختلال در بازارهای مرتبط) ناکارآمدی مدیریت حکمرانی را برجسته می‌سازد و احتمال افزایش نارضایتی اجتماعی را بالا می‌برد."
+        ],
+        "impact": "تشدید حملات و احتمال واکنش‌های بین‌المللی همزمان، فشار اقتصادی و سیاسی را افزایش می‌دهد و ظرفیت بقای رژیم را به‌صورت ساختاری ضعیف‌تر خواهد کرد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Los Angeles Times",
+        "url": "https://www.latimes.com/world-nation/story/2026-03-19/iran-intensifies-attacks-on-oil-gas-facilities-in-gulf-after-israeli-strike-on-key-gas-field",
+        "clean_url": "https://www.latimes.com/world-nation/story/2026-03-19/iran-intensifies-attacks-on-oil-gas-facilities-in-gulf-after-israeli-strike-on-key-gas-field",
+        "image": "http://www.bing.com/th?id=OVFT.XWz55DXOIgeUDflHbNB6nS&pid=News",
+        "timestamp": 1773888660.0
     },
     {
         "title_fa": "درگیری ایران و اسرائیل به جنگ انرژی تبدیل می‌شود",
@@ -5272,131 +5398,5 @@
         "clean_url": "https://news.am/eng/news/936457.html",
         "image": null,
         "timestamp": 1773569400.0
-    },
-    {
-        "title_fa": "چرا آمریکا و اسرائیل به ایران حمله کردند و جنگ چقدر می‌تواند طول بکشد؟",
-        "title_en": "Why did US and Israel attack Iran and how long could the war last?",
-        "summary": [
-            "تیتر به‌تنهایی اطلاعات کافی نمی‌دهد؛ متن کامل باید اهداف سیاسی-نظامی آمریکا و اسرائیل، شواهد ادعاها و دامنه عملیاتی حملات را مشخص کند.",
-            "تحلیل تحریم‌ها / فشار خارجی: هرگونه حمله یا فشار نظامی-دیپلماتیک می‌تواند تضعیف ساختاری در اقتصاد ایران ایجاد کند، ظرفیت حکمرانی را کاهش دهد و نارضایتی اجتماعی را افزایش دهد؛ پیامدهای داخلی و اثر بر پایداری رژیم باید به‌صراحت بررسی شود.",
-            "مدت درگیری وابسته به توان لجستیکی، ذخایر و تداوم ضربات، واکنش بازیگران منطقه‌ای و سطح نارضایتی داخلی است؛ مدیریت اقتصادی ضعیف و شکست در کنترل معیشت عمومی ریسک تشدید ناآرامی‌ها را افزایش می‌دهد."
-        ],
-        "impact": "در صورت تایید حمله، احتمال تشدید سریع به بحران منطقه‌ای و تحمیل هزینه‌های سنگین سیاسی و اقتصادی بر حکومت ایران بسیار بالاست.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw",
-        "image": null,
-        "timestamp": 1773565412.0
-    },
-    {
-        "title_fa": "تهران خواست آتش‌بس را تکذیب کرد؛ وزیر خارجه عباس عراقچی: «برای هر مدت لازم می‌جنگیم»",
-        "title_en": "Iran-US war live: Iran denies wanting ceasefire, says it will fight",
-        "summary": [
-            "وزیر خارجه عباس عراقچی رسماً اعلام کرد تهران درخواست آتش‌بس نکرده و حتی خواستار مذاکره هم نشده است.",
-            "ایران به رئیس‌جمهور آمریکا دونالد ترامپ هشدار داد که «برای هر مدت لازم» به نبرد ادامه خواهد داد.",
-            "بیانیه رسمی نشان‌دهنده موضعی غیرقابل مصالحه و آماده‌باش برای تشدید مواجهه با ایالات متحده است."
-        ],
-        "impact": "این موضع تبلیغاتی و سیاسی خطر تشدید درگیری را بالا می‌برد و می‌تواند انزوای بین‌المللی و فشار خارجی را افزایش دهد که به تضعیف ساختاری رژیم منجر شود.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-gb/news/world/iran-us-war-trump-demands-team-effort-to-defend-strait-of-hormuz/ar-AA1YBjcN",
-        "clean_url": "https://www.msn.com/en-gb/news/world/iran-us-war-trump-demands-team-effort-to-defend-strait-of-hormuz/ar-AA1YBjcN",
-        "image": "http://www.bing.com/th?id=OVFT.UcA1G-q2ZhMXN4nzLwfZ0S&pid=News",
-        "timestamp": 1773565406.0
-    },
-    {
-        "title_fa": "ترامپ: ایران آماده توافق برای پایان جنگ است؛ تهران می‌گوید گفت‌وگو نیست",
-        "title_en": "Trump suggests Iran ready to end war as Tehran sees no talks",
-        "summary": [
-            "ترامپ اعلام کرده ایران آماده انعقاد توافق برای پایان دادن به جنگ است، اما آمریکا دنبال شروط بهتر است که به معنای ادامه فشار سیاسی و دیپلماتیک است.",
-            "مقامات تهران می‌گویند هیچ گفت‌وگویی در جریان نیست؛ تناقض بیانی واشنگتن و تهران احتمالاً بن‌بست مذاکراتی را تأیید می‌کند.",
-            "این وضعیت نشان می‌دهد تنش‌ها کاهش نیافته‌اند و اختلال در تردد دریایی در تنگه هرمز ادامه دارد که پیامدهای منطقه‌ای و تجاری مشخصی برجای می‌گذارد."
-        ],
-        "impact": "این بن‌بستِ گفتاری حاکی از حفظ اهرم فشار آمریکا برای کسب امتیاز بیشتر است و در کوتاه‌مدت به ادامه اختلال دریایی و تشدید عدم‌قطعیت منطقه‌ای می‌انجامد.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-suggests-iran-ready-to-end-war-as-tehran-sees-no-talks/ar-AA1YEqNA",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-suggests-iran-ready-to-end-war-as-tehran-sees-no-talks/ar-AA1YEqNA",
-        "image": "http://www.bing.com/th?id=OVFT.Lo0hFiT8UC9FTjIEUzS7ZS&pid=News",
-        "timestamp": 1773564776.0
-    },
-    {
-        "title_fa": "تهدید ترامپ به حملات بیشتر به جزیره خارک؛ فشار برای بازگشایی تنگه هرمز",
-        "title_en": "Trump warns of more strikes on Iran's Kharg Island, pressures allies to secure oil chokepoint",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، تهدید کرد که ممکن است بارهای بیشتری جزیره خارک را هدف قرار دهد و گفت حملات قبلی بخش‌هایی از جزیره را «کاملاً نابود» کرده‌اند؛ این لحن تشدیدی آشکار نسبت به ادعای پیشین مبنی بر هدف‌گیری تنها سایت‌های نظامی است.",
-            "در هفته سوم درگیری‌ها، ترافیک در تنگه هرمز قطع مانده و بازار جهانی انرژی دچار آشفتگی شده است؛ گزارش‌ها حاکی است واشنگتن تلاش متحدان منطقه‌ای برای باز کردن کانال‌های مذاکره را نادیده گرفته و سپاه پاسداران موشک‌هایی به سمت اسرائیل و سه پایگاه آمریکا شلیک کرده است.",
-            "حمله به خارک به‌عنوان هاب اصلی صادرات نفت ایران و مسدود ماندن مسیرهای کشتیرانی درآمدهای نفتی را هدف گرفته است؛ این مسئله منابع ارزی حکومت را تضعیف و فشار اقتصادی-سیاسی داخلی را افزایش می‌دهد، و اظهارنظر ترامپ درباره احتمال کشته شدن مجتبی خامنه‌ای و تکذیب عباس عراقچی نشان‌دهنده فضای آشوب‌ناک در رأس حکومت است."
-        ],
-        "impact": "ادامه حملات به خارک و انسداد تنگه هرمز می‌تواند درآمدهای ارزی رژیم را به‌طور محسوس کاهش دهد و در کوتاه‌مدت ثبات سیاسی و اقتصادی حکومت را به خطر اندازد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trump-warns-more-strikes-irans-084405648.html",
-        "clean_url": "https://www.aol.com/articles/trump-warns-more-strikes-irans-084405648.html",
-        "image": "http://www.bing.com/th?id=OVFT.s9ed-4yG_t4ch6GhfLRqeS&pid=News",
-        "timestamp": 1773562740.0
-    },
-    {
-        "title_fa": "در تقابل ترامپ با ایران: موعظه رفاه در برابر قرآن",
-        "title_en": "In Trump's Iran conflict, it's prosperity gospel vs. the Quran",
-        "summary": [
-            "مقاله تقابل کنش‌های ترامپ را به‌عنوان ورود جریان موعظه رفاه انجیلی به سیاست خارجی آمریکا در برابر روایت‌های قرآنی جمهوری اسلامی توصیف می‌کند.",
-            "این خوانش نشان می‌دهد که طرفین از زبان دینی برای مشروع‌سازی فشارها و واکنش‌ها استفاده می‌کنند و نتیجه‌اش قطب‌بندی و کاهش ظرفیت‌های دیپلماتیک برای حل اختلاف است.",
-            "تمرکز روی ابعاد ایدئولوژیک اغلب ریسک تشدید تحریم‌ها و هزینه‌های اقتصادی ـ اجتماعی را افزایش می‌دهد و فرایندهای تغییر درونی ایران را پیچیده‌تر می‌کند."
-        ],
-        "impact": "چارچوب‌بندی ایدئولوژیک منازعه فضای مذاکره را تنگ‌تر و هزینه‌های فشار خارجی و پیامدهای داخلی را تشدید می‌کند.",
-        "tag": "ایدئولوژی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "National Catholic Reporter",
-        "url": "https://www.msn.com/en-us/news/opinion/in-trump-s-iran-conflict-it-s-prosperity-gospel-vs-the-quran/ar-AA1YuP1z",
-        "clean_url": "https://www.msn.com/en-us/news/opinion/in-trump-s-iran-conflict-it-s-prosperity-gospel-vs-the-quran/ar-AA1YuP1z",
-        "image": null,
-        "timestamp": 1773562055.0
-    },
-    {
-        "title_fa": "جنگ ایران: ترامپ می‌گوید شرایط توافق صلح هنوز «کافی نیست»",
-        "title_en": "Iran war: Trump says peace deal terms not 'good enough yet'",
-        "summary": [
-            "دونالد ترامپ اعلام کرده که شرایط پیشنهادی برای یک توافق صلح با ایران در وضعیت کنونی «کافی نیست» و از متن فعلی رضایت ندارد.",
-            "این موضع‌گیری نشان‌دهنده اراده واشنگتن برای دریافت امتیازهای بیشتر و احتمال ادامه فشار دیپلماتیک و تحریمی علیه جمهوری اسلامی است.",
-            "پیآمد عملی محتمل شامل تشدید بن‌بست مذاکرات، طولانی‌تر شدن درگیری‌های منطقه‌ای و افزایش فشار اقتصادی که می‌تواند نارضایتی‌های داخلی را تشدید کند."
-        ],
-        "impact": "ادامه خط‌مشی سخت واشنگتن و فشار بین‌المللی می‌تواند ثبات سیاسی و اقتصادی رژیم را بیش از پیش تضعیف کند.",
-        "tag": "فشار",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUa3QwQldQV294ZzladEs5ZXNEaE1WUVFVcnR3S1ZtazZHbFJfOGRLU0VPVXlwNjlsT1c3NGhGYjh1eV9TYUFoVDgtQnVvVFJnNTVlZVdJYXlodHdvMTRSNHk1MVJWVktxRHo3TFU5OUNNY3IzRkk4cGFmczJ4QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUa3QwQldQV294ZzladEs5ZXNEaE1WUVFVcnR3S1ZtazZHbFJfOGRLU0VPVXlwNjlsT1c3NGhGYjh1eV9TYUFoVDgtQnVvVFJnNTVlZVdJYXlodHdvMTRSNHk1MVJWVktxRHo3TFU5OUNNY3IzRkk4cGFmczJ4QQ",
-        "image": null,
-        "timestamp": 1773561608.0
-    },
-    {
-        "title_fa": "جنگ فرسایشی اسرائیل با ایران و حزب‌الله: راه خروج چیست؟",
-        "title_en": "Israel's war of attrition with Iran and Hezbollah: What is the exit strategy?",
-        "summary": [
-            "عنوان نشان می‌دهد اسرائیل وارد فرآیند فرسایشی علیه ایران و حزب‌الله شده و پرسش اصلی فقدان یک راهبرد خروج مشخص است.",
-            "یک جنگ فرسایشی بدون راهبرد خروج واضح می‌تواند فشارهای خارجی و اقتصادی را تشدید کند و ساختارهای سیاسی و مدیریتی رژیم ایران را در معرض تضعیف قرار دهد، زیرا هزینه‌های مالی و اجتماعی بلندمدت جمع می‌شوند.",
-            "خطر گسترش درگیری و فرسایش توان داخلی هر دو طرف بالا است؛ نهایتاً مدیریت منابع نظامی و افکار عمومی تعیین‌کننده خواهد بود و فقدان هماهنگی سیاسی در داخل می‌تواند روند فرسایش را تشدید کند."
-        ],
-        "impact": "فقدان راهبرد خروج مشخص احتمال تبدیل فرسایش به بحران سیاسی و اقتصادی بلندمدت برای رژیم ایران را افزایش می‌دهد.",
-        "tag": "فرسایش",
-        "urgency": 9,
-        "sentiment": -0.5,
-        "source": "Haaretz",
-        "url": "https://www.rferl.org/a/israel-hezbollah-lebanon-war-second-front/33704698.html",
-        "clean_url": "https://www.rferl.org/a/israel-hezbollah-lebanon-war-second-front/33704698.html",
-        "image": null,
-        "timestamp": 1773561360.0
     }
 ]
