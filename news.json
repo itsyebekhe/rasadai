@@ -594,6 +594,24 @@
         "timestamp": 1773915180.0
     },
     {
+        "title_fa": "چرا حمله ایران به هاب انرژی قطر سرمایه‌گذاران را وحشت‌زده کرد",
+        "title_en": "Why Iran’s Attack on an Energy Hub in Qatar Spooked Investors",
+        "summary": [
+            "حمله به راس لفان، بزرگ‌ترین مجتمع گاز مایع جهان که حدود یک‌پنجم عرضه جهانی L.N.G. را تامین می‌کند، بلافاصله قیمت‌های جهانی نفت و گاز را جهش داد و بازار را نگران قطع طولانی‌مدت عرضه کرد.",
+            "مقامات قطر، مسئولیت حمله را متوجه ایران کردند؛ ابعاد خسارت هنوز نامشخص است اما تحلیل‌گران هشدار داده‌اند تعمیرات می‌تواند ماه‌ها طول بکشد و سرمایه‌گذاران را از دارایی‌های منطقه‌ای فراری دهد.",
+            "حمله در پی ضربه اسرائیل به میدان گازی جنوب پارس رخ داد؛ این چرخه تلافی‌جویی خطر گسترش درگیری منطقه‌ای را بالا می‌برد و احتمال افزایش فشار دیپلماتیک و تحریم بر تهران را تقویت می‌کند، که به نوبه خود ثبات اقتصادی-سیاسی رژیم را تضعیف خواهد کرد."
+        ],
+        "impact": "این رخداد ریسک تشدید بحران انرژی جهانی را افزایش داده، بازارها را بی‌ثبات کرده و چشم‌انداز فشارهای بین‌المللی و هزینه‌های داخلی را برای رژیم ایران برجسته می‌سازد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/19/world/middleeast/qatar-natural-gas-attacks-ras-laffan.html",
+        "clean_url": "https://www.nytimes.com/2026/03/19/world/middleeast/qatar-natural-gas-attacks-ras-laffan.html",
+        "image": "http://www.bing.com/th?id=OVFT.hBgnaV5xbkji7qGGTtJlzS&pid=News",
+        "timestamp": 1773915120.0
+    },
+    {
         "title_fa": "هشدار ایران درباره «صفر محدودیت» هم‌زمان با تشدید حملات به تاسیسات گازی و نفتی",
         "title_en": "Iran warns of 'zero restraint' amid heightened gas and oil attacks",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-and-iran-keep-up-strikes-as-trump-mulls-possibility-of-a-deal/ar-AA1YG5K2",
         "image": "http://www.bing.com/th?id=OVFT.zOgfRh17c-MOKgewz37TfC&pid=News",
         "timestamp": 1773582673.0
-    },
-    {
-        "title_fa": "ادامه حملات هوایی در خاورمیانه؛ درگیری وارد هفته سوم می‌شود",
-        "title_en": "Airstrikes Pound Middle East as Iran Conflict Approaches Third Week",
-        "summary": [
-            "سرخط گزارش نشان می‌دهد حملات هوایی در خاورمیانه ادامه دارد و در آستانه وارد شدن به هفته سوم درگیری‌ها هستیم؛ این روند ریسک تشدید مواجهه نظامی منطقه‌ای را بالا می‌برد.",
-            "فشار خارجی و تحریم‌ها (در صورت تشدید و تداوم) ساختارهای اقتصادی و سیاسی رژیم را تضعیف خواهند کرد و توان پاسخ‌دهی بلندمدت دولت را کاهش می‌دهند؛ این تضعیف می‌تواند به فرسایش منابع مالی و پشتیبانی نخبگانی بینجامد.",
-            "بار مالی و آسیب به زیرساخت‌ها اقتصاد را تحت فشار قرار می‌دهد و احتمال افزایش نارضایتی و اعتراضات داخلی را تقویت می‌کند، به‌ویژه اگر حکومت نتواند خدمات پایه و معیشت را حفظ کند."
-        ],
-        "impact": "ادامه موج حملات هوایی و ورود در هفته سوم، ثبات داخلی رژیم را فرسایش می‌دهد و خطر گسترش درگیری در سطح منطقه را به‌طور چشمگیر افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.bloomberg.com/graphics/2026-iran-war-middle-east-strike-targets-map/",
-        "clean_url": "https://www.bloomberg.com/graphics/2026-iran-war-middle-east-strike-targets-map",
-        "image": null,
-        "timestamp": 1773581641.0
     }
 ]
