@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تهدید اقتصادی جنگ ایران برای اروپا و آسیا",
+        "title_en": "The Iran War's Economic Threat to Europe and Asia",
+        "summary": [
+            "افزایش تورم و نگرانی از پیامدهای منفی بر رشد؛ بازارها هنوز از تجربه بحران انرژی ۲۰۲۲ آسیب‌پذیر هستند.",
+            "اختلال‌های مرتبط با جنگ در عرضه انرژی می‌تواند موج جدیدی از تورم را به اقتصادهای اروپا و آسیا تحمیل کند و فضای رشد را تضعیف کند.",
+            "فشار اقتصادی فزاینده احتمالاً نارضایتی عمومی را در کشورهای آسیب‌پذیر تشدید می‌کند و توان پاسخگویی حکومت‌ها را کاهش خواهد داد."
+        ],
+        "impact": "تشدید تورمِ ناشی از اختلالات مرتبط با جنگ می‌تواند رشد اقتصادی را در اروپا و آسیا کُند کند و فشار اجتماعی-سیاسی بر نهادها را افزایش دهد.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html",
+        "clean_url": "https://www.nytimes.com/2026/03/19/business/iran-war-fiscal-spending-debt.html",
+        "image": "https://static01.nyt.com/images/2026/03/19/multimedia/19Biz-Iran-Fiscal-Strain-01-lgfc/19Biz-Iran-Fiscal-Strain-01-lgfc-facebookJumbo.jpg",
+        "timestamp": 1773892860.0
+    },
+    {
+        "title_fa": "ترامپ وعده داد که اسرائیل دیگر به میدان گازی ایران حمله نخواهد کرد",
+        "title_en": "Trump vows no more attacks by Israel on Iran gas field after it 'violently lashed out'",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور پیشین آمریکا، وعده داد که دیگر حملاتی از سوی اسرائیل علیه میدان گازی ایران انجام نخواهد شد؛ این اظهارنظر پس از اشاره او به اینکه «به‌طور خشونت‌آمیزی واکنش نشان داده» مطرح شده است.",
+            "گزارش Reuters جزئیات فنی، شواهد یا توضیح درباره مکانیزم اجرایی این وعده را ارائه نکرده و واکنش رسمی ایران یا اسرائیل در متن تایید نشده است.",
+            "اگر این وعده عملی شود، فشار برای تشدید نظامی کوتاه‌مدت کاهش می‌یابد؛ اما دوام پیامدها بستگی به ثبات مواضع طرف‌های منطقه‌ای و مولفه‌های دیپلماتیک دارد."
+        ],
+        "impact": "اثر فوری کاهش ریسک تشدید نظامی است، اما ابهام در جزئیات و پایداری این موضع، تعیین‌کننده ثبات راهبردی بلندمدت خواهد بود.",
+        "tag": "کاهش‌تنش",
+        "urgency": 5,
+        "sentiment": 0.25,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDA1bGlRbVZ6OENrX0FINVNCZEM0T0l6aWxkRjk1UnhmVjZ1UTdlYmVLX3hRak5XbDZVZ3RhVlBVVDVsMU5FejhEcGJKT2dNQzZGVlZIZ0hDdnpsT0JHWDZHRDctSlNtZWp6djA4dTlXNWRPWWtyOUVuVnFzMnpZNUVsQlAtSUJKSDAxZ2YtVWNQS0x5Y1RfMHUtZjA2NTFXVjVUVzJjbEVLeFBsT1RONm9wa19QdzNjT29mZF9jX0RlVzNjOVVlSjJKSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSDA1bGlRbVZ6OENrX0FINVNCZEM0T0l6aWxkRjk1UnhmVjZ1UTdlYmVLX3hRak5XbDZVZ3RhVlBVVDVsMU5FejhEcGJKT2dNQzZGVlZIZ0hDdnpsT0JHWDZHRDctSlNtZWp6djA4dTlXNWRPWWtyOUVuVnFzMnpZNUVsQlAtSUJKSDAxZ2YtVWNQS0x5Y1RfMHUtZjA2NTFXVjVUVzJjbEVLeFBsT1RONm9wa19QdzNjT29mZF9jX0RlVzNjOVVlSjJKSQ",
+        "image": null,
+        "timestamp": 1773892500.0
+    },
+    {
         "title_fa": "سفیر پیشین اسرائیل: جنگ با ایران بیش از شش ماه دیگر دوام نخواهد داشت",
         "title_en": "Former Israeli ambassador doesn’t think Iran war will last for an extra 6 months",
         "summary": [
@@ -108,6 +144,24 @@
         "timestamp": 1773875520.0
     },
     {
+        "title_fa": "هشدار موشکی در دوبی و اصابت به شناور در تنگه هرمز؛ تشدید پس از حمله به پارس جنوبی",
+        "title_en": "Iran War News LIVE Updates: Ahead of Eid, Dubai issues missile alert as projectile strikes vessel near Strait of Hormuz",
+        "summary": [
+            "اخبار گزارش می‌دهند که هشدارهای موبایلی در دوبی نسبت به حملات موشکی ایران ارسال شد، یک فروند موشک/پروژه‌ایل به شناوری نزدیک تنگه هرمز اصابت کرد و امارات تأسیسات گازی را موقتاً تعطیل و پاره‌ای از مواضع نفتی و گازی در عربستان، امارات و قطر برای تخلیه هشدار داده شد؛ دونالد ترامپ مدعی شد حمله به میدان پارس جنوبی توسط نیروهای دفاعی اسرائیل انجام شده است.",
+            "تهدید ترامپ به «ویران کردن گسترده» میدان پارس جنوبی در صورت حمله مجدد ایران به قطر و هشدارهای نظامی منطقه‌ای نشان‌دهنده ارتقای ریسک تصاعدی است؛ دخالت‌های آمریکا و اسرائیل به‌عنوان عامل بازدارنده/تشدیدکننده عمل می‌کنند و بازار انرژی جهانی را بی‌ثبات کرده‌اند.",
+            "از منظر داخلی، هدف قرار گرفتن زیرساخت‌های گازی بحرانی است: حدود ۸۰٪ تولید برق ایران وابسته به گاز است؛ آسیب و تعطیلی تأسیسات گازی و هشدارهای تخلیه نشان‌دهنده ضعف در حفاظت از زیرساخت‌های حیاتی و ریسک افزایش نارضایتی عمومی و اختلال در خدمات پایه است."
+        ],
+        "impact": "این رخدادها احتمال تشدید نظامی منطقه‌ای، اختلال پایدار در بازار انرژی و تضعیف توان داخلی رژیم برای تأمین برق و گاز شهروندان را به‌طور همزمان افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/iran-war-news-live-updates-us-israel-iran-war-middle-east-latest-news-today-19-march-2026-11773877038727.html",
+        "clean_url": "https://www.livemint.com/news/us-news/iran-war-news-live-updates-us-israel-iran-war-middle-east-latest-news-today-19-march-2026-11773877038727.html",
+        "image": "http://www.bing.com/th?id=ONUT.JpzVwZgz1E96A1UDDs3Z7g&pid=News",
+        "timestamp": 1773873600.0
+    },
+    {
         "title_fa": "رئیس اطلاعات آمریکا تولسی گبارد: رژیم ایران «دست‌نخورده» اما «تضعیف‌شده» است",
         "title_en": "US intelligence chief Tulsi Gabbard says Iran's regime 'intact' but 'degraded'",
         "summary": [
@@ -142,6 +196,24 @@
         "clean_url": "https://www.pbs.org/wgbh/frontline/article/ali-larijani-iran-top-security-chief-2025-interview",
         "image": null,
         "timestamp": 1773872197.0
+    },
+    {
+        "title_fa": "افزایش قیمت نفت پس از حمله به میدان گازی بزرگ ایران؛ گزارش جنگ",
+        "title_en": "Oil prices jump after major Iran gas field is attacked. War updates",
+        "summary": [
+            "گزارش می‌گوید حمله‌ای به یک میدان گازی بزرگ در ایران رخ داده و در پی آن قیمت‌های نفت جهش یافته‌اند؛ این رویداد نشان‌دهنده آسیب‌پذیری زیرساخت‌های انرژی است.",
+            "آسیب به تأسیسات انرژی می‌تواند منابع درآمدی رژیم را ناپایدار کند و نوسانات قیمت نفت فشار بر بودجه، بازار ارز و قدرت خرید شهروندان را تشدید نماید.",
+            "این رخداد ریسک‌های ژئوپلیتیک را بالا می‌برد و می‌تواند به افزایش فشارهای خارجی و داخلی و واکنش‌های امنیتی و سرکوب از سوی حکومت منجر شود؛ پیامدها به سرعت بستگی به تحولات میدانی و واکنش بازیگران خارجی دارد."
+        ],
+        "impact": "حمله به این میدان گازی، علاوه بر ایجاد شوک قیمتی، ثبات اقتصادی-سیاسی رژیم را تضعیف‌تر می‌کند و می‌تواند فضای برای سرکوب بیشتر یا بحران مالی وسیع‌تر فراهم آورد.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Tennessean",
+        "url": "https://www.tennessean.com/live-story/news/world/2026/03/18/iran-war-live-updates-us-israel-trump/89203830007/",
+        "clean_url": "https://www.tennessean.com/live-story/news/world/2026/03/18/iran-war-live-updates-us-israel-trump/89203830007",
+        "image": "http://www.bing.com/th?id=ONUT.vI4WBCX3Uc6AtCedDiK7PQ&pid=News",
+        "timestamp": 1773871320.0
     },
     {
         "title_fa": "به‌روزرسانی حمل‌ونقل جنگی ایران — 18 مارس 2026 (محتوا در دسترس نیست)",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/hamas-urges-key-ally-iran-to-halt-attacks-on-gulf-states/ar-AA1YBzV2",
         "image": null,
         "timestamp": 1773489946.0
-    },
-    {
-        "title_fa": "تهران مدعی شد آمریکا از امارات به آن حمله کرده است؛ جنگ وارد هفته سوم شد",
-        "title_en": "Tehran claims the US attacked it from the UAE as Iran war enters its third week",
-        "summary": [
-            "تهران اعلام کرده که ایالات متحده از خاک امارات متحده عربی به ایران حمله کرده و همزمان مناقشه وارد هفته سوم خود شده است.",
-            "ادعای حمله و تهدیدهای تهران علیه بنادر امارات احتمال تشدید فشارهای بین‌المللی و افزایش تحریم‌ها را بالا می‌برد که ساختار اقتصادی و سیاسی رژیم را تضعیف خواهد کرد.",
-            "گزارش‌های صفحه اشاره‌ای به شلیک حدود ده موشک از سوی کره شمالی به سمت دریا دارند؛ حرکتی که به عنوان نمایش قدرت منطقه‌ای می‌تواند به‌عنوان عاملی در معادلات راهبردی و تداوم کمک‌های سیاسی-نظامی برای تهران تعبیر شود، هرچند ارتباط مستقیمی گزارش نشده است."
-        ],
-        "impact": "ادعای حمله از سوی آمریکا، چشم‌انداز افزایش فشار خارجی و مخاطرات اقتصادی-سیاسی را برای رژیم تشدید می‌کند و می‌تواند ثبات داخلی را بیشتر تضعیف کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11",
-        "clean_url": "https://apnews.com/article/iran-iraq-us-trump-march-14-2026-oil-prices-a2399398b4c590995b814d7640362a11",
-        "image": null,
-        "timestamp": 1773489840.0
-    },
-    {
-        "title_fa": "رژیم ایران و توهم میانه‌روها",
-        "title_en": "The regime in Iran and the delusion of moderates",
-        "summary": [
-            "حدود سه دهه پیش رژیم کمپینی را آغاز کرد که هدف اعلامی آن تولیدِ مشروعیت و شکستن انزوای سیاسی بود.",
-            "هدف واقعی این کار، سفیدشویی سابقه دهه اول پس از ۱۳۵۷—که با سرکوب و ترور همراه بود—تشخیص داده شده است؛ «میانه‌روها» به‌عنوان ابزار این پروژه معرفی شده‌اند.",
-            "گزارش به تحریم‌ها یا کمک‌های خارجی اشاره مستقیم نمی‌کند؛ اما خودِ تلاش برای «شکستن انزوا» نشان‌دهنده اعتراف به بحران مشروعیت و فشارهای بین‌المللی و داخلی است."
-        ],
-        "impact": "پیامد عملی این رویکرد ضعف ساختاری مشروعیت را نشان می‌دهد و بعید است بتواند انزوای سیاسی و بی‌اعتمادی داخلی را به‌طور واقعی جبران کند.",
-        "tag": "مشروعیت",
-        "urgency": 2,
-        "sentiment": -0.8,
-        "source": "The Spectator Australia",
-        "url": "https://www.spectator.com.au/2026/03/the-regime-in-iran-and-the-delusion-of-moderates/",
-        "clean_url": "https://www.spectator.com.au/2026/03/the-regime-in-iran-and-the-delusion-of-moderates",
-        "image": null,
-        "timestamp": 1773489840.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ ایران و اسرائیل: ترامپ مذاکرات آتش‌بس را رد کرد — درگیری‌ها تشدید شد",
-        "title_en": "Iran Israel War Live Updates: Iran War to Drag On? Report Says Trump Has Rejected Ceasefire Talks",
-        "summary": [
-            "تشدید نظامی منطقه‌ای: حملات هوایی اخیر آمریکا و اسرائیل به تهران، حملات تلافی‌جویانه ایران علیه اهداف نظامی اسرائیل و پایگاه‌های آمریکایی، اصابت موشک‌ها به تجهیزات سوخت‌رسانی آمریکا در عربستان و برخورد موشک/پهپاد با شناورها و کشتی‌ها، نشان‌دهنده ورود جنگ به فاز گسترده‌تر و فرامرزی است.",
-            "شکست مسیرهای دیپلماتیک و تشدید فشار خارجی: گزارش‌ها مبنی بر رد پیشنهاد آتش‌بس توسط دونالد ترامپ و تماس نخست‌وزیر هند با رئیس‌جمهور ایران حاکی از بسته شدن کانال‌های ساده دیپلماتیک و ادامه فشار نظامی-دیپلماتیک است؛ این فشار خارجی ساختارهای اقتصادی را هدف قرار می‌دهد و می‌تواند هزینه‌های بیمه حمل‌ونقل، اختلال در ترانزیت انرژی و فشار بر بودجه دولتی را افزایش دهد.",
-            "پیامدهای انسانی و شکست مدیریتی داخلی: انفجارهای بخش‌های مسکونی تهران، گزارش آسیب دیدن ساختمان‌های مسکونی و هشدار سازمان جهانی بهداشت درباره باران سیاه سمی، همراه با هشدارهای تخلیه و اثرات بر تجارت دریایی، نشان می‌دهد ساختار حکمرانی در محافظت از شهروندان و حفظ عملکردهای اقتصادی دچار ناتوانی است."
-        ],
-        "impact": "این تحولات توان بازدارندگی و ثبات داخلی رژیم را به‌طور جدی تضعیف می‌کند و هزینه‌های سیاسی و اقتصادی بلندمدت را به همراه دارد.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-iran-us-news-escalates-middle-east-tensions-today-latest-news-liveblog-153815132",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-iran-us-news-escalates-middle-east-tensions-today-latest-news-liveblog-153815132",
-        "image": "http://www.bing.com/th?id=OVFT.h1SApjpJXcD0XQNYOzKJ8C&pid=News",
-        "timestamp": 1773488280.0
-    },
-    {
-        "title_fa": "آمریکا و اسرائیل به ایران حمله کردند؛ مذاکرات هسته‌ای نابود شد",
-        "title_en": "US and Israel attack Iran, destroying nuclear negotiations",
-        "summary": [
-            "دونالد ترامپ اعلام کرد «عملیات‌های عمده رزمی» علیه ایران آغاز شده تا برنامه موشکی بالستیک تهران از بین برود و حکومت علی خامنه‌ای تضعیف شود؛ حملات در هماهنگی با اسرائیل انجام شد.",
-            "رسانه‌های دولتی ایران از حمله‌ای در جنوب کشور خبر دادند که به‌گفته آنها منجر به کشته شدن حدود ۴۰ نفر در یک مدرسه در میناب شد؛ تصاویر و آژیرهای هشدار در تهران و سایر نقاط منتشر شد و مردم برای پناه گرفتن فرار کردند.",
-            "این حملات پس از شکست مذاکرات هسته‌ای صورت گرفت و عملاً روند گفت‌وگوها را متوقف کرده؛ ضربه به توان موشکی و زیرساخت‌های دفاعی می‌تواند بار اقتصادی بیشتری روی بودجه دولت بگذارد و احتمال تشدید نارضایتی اجتماعی را افزایش دهد."
-        ],
-        "impact": "معنای راهبردی این رویداد، تضعیف فوری ظرفیت بازدارندگی ایران و فرورفتن پرونده هسته‌ای در بحران است که فشار اقتصادی و سیاسی داخلی را افزایش و مشروعیت حکومت را در کوتاه‌مدت و میان‌مدت کاهش می‌دهد.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "TRT World",
-        "url": "https://www.yahoo.com/news/articles/trump-announces-attack-iran-says-102351419.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-announces-attack-iran-says-102351419.html",
-        "image": null,
-        "timestamp": 1773487956.0
     }
 ]
