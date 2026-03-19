@@ -252,6 +252,24 @@
         "timestamp": 1773889500.0
     },
     {
+        "title_fa": "دولت‌های خلیج در تنگنای خشم ترامپ و هدف‌گیری ایران",
+        "title_en": "Gulf states walk tightrope between Trump’s ire, Iran’s crosshairs",
+        "summary": [
+            "گزارش می‌گوید دولت‌های خلیج به‌طور پنهانی از آمریکا و اسرائیل می‌خواهند جنگ علیه ایران را به‌صورت قاطعانه تمام کنند، همزمان که تلاش دارند از درگیری مستقیم و قرار گرفتن در تیررس ایران دوری کنند.",
+            "فشار خارجی و نیاز به هم‌راستایی با واشنگتن ساختارهای امنیتی و اقتصادی منطقه را تحت فشار قرار می‌دهد؛ این همگرایی می‌تواند آسیب‌پذیری سیاسی و هزینه‌های امنیتی دولت‌های خلیج را افزایش دهد و ثبات نهادهای داخلی را تضعیف کند.",
+            "تداوم جنگ، اختلال در جریان انرژی و تجارت و ریسک‌های امنیتی فرامرزی را بالا می‌برد؛ این سناریو ضعف در مدیریت بحران و احتمال افزایش نارضایتی عمومی و تنش‌های داخلی را تشدید می‌کند."
+        ],
+        "impact": "نتیجهٔ فوری احتمال تشدید برخوردهای فرامرزی و فشار اقتصادی بر بازیگران منطقه‌ای است که توازن امنیتی خلیج را به مخاطره می‌اندازد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/international/5790617-gulf-countries-iran-conflict-diplomacy/",
+        "clean_url": "https://thehill.com/policy/international/5790617-gulf-countries-iran-conflict-diplomacy",
+        "image": null,
+        "timestamp": 1773889200.0
+    },
+    {
         "title_fa": "درگیری ایران و اسرائیل به جنگ انرژی تبدیل می‌شود",
         "title_en": "The Iran conflict is morphing into an energy war",
         "summary": [
@@ -268,6 +286,24 @@
         "clean_url": "https://www.spectator.com.au/2026/03/the-iran-conflict-is-morphing-into-an-energy-war",
         "image": null,
         "timestamp": 1773887040.0
+    },
+    {
+        "title_fa": "از متحد تا دشمن: تاریخ پیچیده میان آمریکا و ایران",
+        "title_en": "Allies to adversaries: The complex history between the U.S. and Iran",
+        "summary": [
+            "متن خبر در دسترس نیست؛ تنها تیتر منتشر شده است و بنابراین جزئیات قابل استناد برای تحلیل وجود ندارد.",
+            "تیتر حاکی از پرداختن به فراز و فرود روابط آمریکا و ایران است — اگر مقاله به موضوعاتی مانند تحریم‌ها یا مداخلات خارجی پرداخته باشد، انتظار توضیح درباره تضعیف ساختاری رژیم و پیامدهای اقتصادی-سیاسی داخلی منطقی است، اما این استنتاج از تیتر است نه گزارش شده.",
+            "بدون متن کامل نمی‌توان نقش بازیگران خارجی را (در صورت حضور در گزارش)، یا مقیاس اعتراضات و پیامدهای اقتصادی را به‌طور معتبر ارزیابی کرد؛ برای تحلیل واقع‌بینانه به شواهد و نقل‌قول‌های مشخص نیاز است."
+        ],
+        "impact": "عدم دسترسی به متن مانع ارزیابی دقیقِ تاثیرات تاریخی بر ثبات کنونی ایران و توان رژیم برای دوام در برابر فشار خارجی می‌شود.",
+        "tag": "روابط",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2026/03/19/expert-explains-why-iran-and-the-u-s-are-at-war/89218154007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/03/19/expert-explains-why-iran-and-the-u-s-are-at-war/89218154007",
+        "image": null,
+        "timestamp": 1773886860.0
     },
     {
         "title_fa": "ایران حملات تلافی‌جویانه به تاسیسات انرژی خلیج فارس را تشدید کرد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iran-is-ready-to-negotiate-a-ceasefire-but-he-s-not-ready-to-make-a-deal/ar-AA1YD8l5",
         "image": null,
         "timestamp": 1773529925.0
-    },
-    {
-        "title_fa": "دولت‌های خلیج موشک‌ها و پهپادهای جدید را رهگیری کردند؛ ایران تهدید به گسترش جنگ کرد",
-        "title_en": "Gulf states intercept new missiles and drones as Iran threatens to widen war",
-        "summary": [
-            "دولت‌های عرب خلیج فارس روز یکشنبه گزارش دادند مجموعه‌ای از موشک‌ها و پهپادها را رهگیری کرده‌اند؛ این حملات در پی تهدید ایران برای گسترش عملیاتش در منطقه ثبت شد.",
-            "گزارش اشاره می‌کند که اسرائیل و آمریکا در فوریه اقداماتی علیه اهدافی در ایران انجام دادند و این امر به تشدید تنش‌ها بین تهران و بازیگران منطقه‌ای و فرامنطقه‌ای انجامیده است.",
-            "تشدید فعالیت‌های نظامی می‌تواند احتمال افزایش فشارهای بین‌المللی و تحریم‌ها را بالا ببرد و به تشدید مشکلات اقتصادی داخلی منجر شود؛ گزارش حاضر اما اشاره‌ای به اعتراضات داخلی یا جزئیات خسارت‌ها ندارد."
-        ],
-        "impact": "افزایش حملات و تهدید تهران ریسک انزوای بین‌المللی و تشدید فشارهای اقتصادی بر رژیم را بالا می‌برد و در کوتاه‌مدت ثبات سیاسی-امنیتی داخلی را تضعیف خواهد کرد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Associated Press on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-urges-us-allies-to-send-warships-to-strait-of-hormuz-as-iran-vows-to-retaliate/ar-AA1YEcKg?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-urges-us-allies-to-send-warships-to-strait-of-hormuz-as-iran-vows-to-retaliate/ar-AA1YEcKg",
-        "image": "/th?id=OVFT.0Dt3ELYM04yVKdR0BKbXsi&pid=News",
-        "timestamp": 1773525060.0
-    },
-    {
-        "title_fa": "اختصاصی: مقام‌های آمریکایی می‌گویند اسرائیل با کمبود بحرانی رهگیرها روبه‌رو است",
-        "title_en": "Exclusive / Israel is running critically low on interceptors, US officials say",
-        "summary": [
-            "Semafor به نقل از مقام‌های آمریکایی گزارش داده که ذخایر رهگیرهای پدافندی اسرائیل در سطحی بحرانی قرار دارد و کمبود قابل‌توجه است.",
-            "این وضعیت نشان‌دهنده وابستگی عملیاتی اسرائیل به ارسال‌های خارجی، به‌ویژه از ایالات متحده، است؛ هرگونه تأخیر یا محدودیت در کمک‌های نظامی آمریکا می‌تواند این ضعف را تشدید کند.",
-            "کمبود رهگیرها ظرفیتی برای افزایش انتقادات داخلی از مدیریت دفاعی و فشار سیاسی بر دولت و فرماندهی امنیتی ایجاد می‌کند و ممکن است رفتار راهبردی اسرائیل در میدان نبرد را تغییر دهد."
-        ],
-        "impact": "کمبود بحرانی رهگیرها توان بازدارندگی هوایی اسرائیل را تضعیف می‌کند و خطر تشدید عملیات نظامی و فشار سیاسی در منطقه را افزایش می‌دهد.",
-        "tag": "پدافند",
-        "urgency": 8,
-        "sentiment": 0.4,
-        "source": "Semafor",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGpXMTl5NURQQ0NqQVdRR2dJTlE3RTBWT1YtTnE2ZFhjbkNfYjBJUzJfdnNEVnVJMVpIRGg5MkhFdkZuZndkTFFYVldBeG5TZlR2TzRpeE5KN2hTaHlNOGdrNWNKRUdLa29IQ29LU3BmbDRoS3ZZSDZFa0p1TzQ3a2JnQ1FlZlZFX0NXRGRYLVFyZkg4TGJjdWZjR05YZEItS2ZobWU1Um5LcURH?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbGpXMTl5NURQQ0NqQVdRR2dJTlE3RTBWT1YtTnE2ZFhjbkNfYjBJUzJfdnNEVnVJMVpIRGg5MkhFdkZuZndkTFFYVldBeG5TZlR2TzRpeE5KN2hTaHlNOGdrNWNKRUdLa29IQ29LU3BmbDRoS3ZZSDZFa0p1TzQ3a2JnQ1FlZlZFX0NXRGRYLVFyZkg4TGJjdWZjR05YZEItS2ZobWU1Um5LcURH",
-        "image": null,
-        "timestamp": 1773520200.0
     }
 ]
