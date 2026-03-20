@@ -36,6 +36,24 @@
         "timestamp": 1773973980.0
     },
     {
+        "title_fa": "حمله موشکی در کرانه باختری حداقل ۳ کشته بر جای گذاشت",
+        "title_en": "Missile Attack Kills at Least 3 in West Bank",
+        "summary": [
+            "یک حمله موشکی در کرانه باختری، دست‌کم سه کشته برجای گذاشته است؛ خبر در تیتر نیویورک‌تایمز منعکس شده است.",
+            "گزارش توسط Aaron Boxerman، خبرنگار نیویورک‌تایمز در پوشش اسرائیل و غزه و مستقر در اورشلیم تهیه شده است.",
+            "اطلاعات جزئی‌تر درباره هویت قربانیان، عامل حمله یا زمان و مکان دقیق آن در متن ارسالی در دسترس نیست."
+        ],
+        "impact": "این رویداد می‌تواند تنش‌ها در کرانه باختری را تشدید کند و احتمال افزایش اقدامات امنیتی و واکنش‌های نظامی را بالا ببرد.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-west-bank-missile-strike.html",
+        "clean_url": "https://www.nytimes.com/2026/03/18/world/middleeast/iran-west-bank-missile-strike.html",
+        "image": null,
+        "timestamp": 1773972060.0
+    },
+    {
         "title_fa": "پس از کشته‌شدن لاریجانی، رئیس مجلس سخت‌گیر ایران هدایت تلاش جنگی را به‌دست گرفته‌است",
         "title_en": "After Larijani’s death, Iran’s hardline parliament speaker appears to be leading war effort",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.cnas.org/publications/commentary/insights-sustaining-war-in-iran",
         "image": null,
         "timestamp": 1773598157.0
-    },
-    {
-        "title_fa": "جنگ ایران ممکن است در آستانه تشدید باشد",
-        "title_en": "The Iran war may be about to escalate",
-        "summary": [
-            "اکونومیست هشدار می‌دهد که تنش‌ها در پرونده جنگ مرتبط با ایران افزایش یافته و احتمال گسترش عملیات نظامی یا تقابل مستقیم بالاتر رفته است.",
-            "از منظر فشار خارجی، هرگونه تشدید می‌تواند فشار تحریمی و سیاسی بر رژیم را افزایش دهد و ساختارهای اقتصادی-سیاسی را تضعیف کند؛ در متن اشاره‌ای به نقش روسیه، چین یا کره‌شمالی نشده است.",
-            "در صورت تشدید، بار اقتصادی و اجتماعی بر شهروندان افزایش و شکاف‌های داخلی تشدید خواهد شد که می‌تواند نارضایتی عمومی را تقویت و ثبات حکومت را کاهش دهد."
-        ],
-        "impact": "پیآمد فوری: افزایش احتمال رویارویی نظامی منطقه‌ای، تشدید فشارهای بین‌المللی و رشد نارضایتی داخلی که ثبات رژیم را بیش‌ازپیش آسیب‌پذیر می‌کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Economist",
-        "url": "https://www.economist.com/middle-east-and-africa/2026/03/15/the-iran-war-may-be-about-to-escalate",
-        "clean_url": "https://www.economist.com/middle-east-and-africa/2026/03/15/the-iran-war-may-be-about-to-escalate",
-        "image": null,
-        "timestamp": 1773597294.0
     }
 ]
