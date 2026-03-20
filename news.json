@@ -198,6 +198,24 @@
         "timestamp": 1774006320.0
     },
     {
+        "title_fa": "پیشنهاد رفع تحریم نفت ایران به‌دنبال جهش قیمت‌ها",
+        "title_en": "Bessent Floats Lifting Sanctions on Iran as Oil Prices Skyrocket",
+        "summary": [
+            "اسکات بسنت، وزیر خزانه‌داری، اعلام کرد احتمال رفع تحریم نفت ایران وجود دارد تا عرضه‌ای معادل «۱۰ روز تا دو هفته» که گفته شده به چین می‌رفت آزاد شود؛ پیش‌تر هم تحریم نفت روسیه و ونزوئلا کاهش یافته بود.",
+            "خلاصهٔ اقدامات اخیر نشان می‌دهد واشنگتن برای مهار بحران قیمتی نفت از فشار تحریمی صرف‌نظر می‌کند؛ این اقدام کوتاه‌مدت درآمد نقدی برای تهران فراهم می‌کند و اهرم فشار خارجی علیه رژیم را تضعیف می‌کند.",
+            "تصمیمات قبلی ایالات متحده — بازنشسته کردن کشتی‌های ضد مین و اخراج کارشناسان نفت و گاز — در آمادگی برای اختلالات استراتژیک شکست خورده و اکنون کاستن از تحریم‌ها ریسک تحکیم توان عملیاتی و مالی رژیم را افزایش می‌دهد."
+        ],
+        "impact": "رفع موقت تحریم نفتی اگر اجرا شود تنفس مالی کوتاه‌مدتی به رژیم می‌دهد و توانایی واشنگتن برای پیشبرد سیاست‌های فشار راهبردی را کاهش می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/oil-prices-bad-trump-may-150254421.html",
+        "clean_url": "https://www.yahoo.com/news/articles/oil-prices-bad-trump-may-150254421.html",
+        "image": null,
+        "timestamp": 1774004040.0
+    },
+    {
         "title_fa": "اسرائیل حملات بیشتری به تهران انجام می‌دهد و ایران به حملات علیه تاسیسات نفتی خلیج فارس ادامه می‌دهد",
         "title_en": "Israel launches more strikes on Tehran as Iran continues attacks on Gulf oil facilities",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-responsible-for-deadly-attack-on-iranian-school-amnesty-international/ar-AA1YLcqM",
         "image": null,
         "timestamp": 1773680669.0
-    },
-    {
-        "title_fa": "جنگ ایران: آلمان به‌صراحت علیه نقش نظامی در درگیری",
-        "title_en": "Iran war: Germany firmly against military role in conflict",
-        "summary": [
-            "- آلمان موضع قاطع گرفته و هرگونه نقش نظامی مستقیم در درگیری مرتبط با ایران را رد کرده؛ این موضع نشان‌دهنده مخالفت برلین با گسترش عملیات نظامی از سوی خود یا مشارکت نظامی گسترده در اروپا است.",
-            "- نتیجه قریب‌الوقوع این موضع، انتقال ابزار فشار از گزینه‌های نظامی به گزینه‌های سیاسی و اقتصادی (دیپلماسی و تحریم‌های غیرنظامی) خواهد بود؛ یعنی جنگ مستقل نظامی از جانب آلمان بعید است.",
-            "- برای ساختار حاکمیت در ایران، غیبت مداخله نظامی خارجی ریسک کوتاه‌مدت کاهش تشدید را دارد، اما ضعف‌های مدیریتی داخلی و فشارهای اقتصادی همچنان ظرفیت تضعیف مشروعیت داخلی را حفظ می‌کنند."
-        ],
-        "impact": "پیام عملی این تصمیم: خطر تقابل نظامی مستقیم از طرف آلمان کاهش یافته و رقابت برای تحمیل هزینه بر تهران عملاً به مسیرهای دیپلماتیک و اقتصادی منتقل می‌شود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "dw.com",
-        "url": "https://www.msn.com/en-us/news/world/iran-war-germany-firmly-against-military-role-in-conflict/ar-AA1YGOkS",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-germany-firmly-against-military-role-in-conflict/ar-AA1YGOkS",
-        "image": null,
-        "timestamp": 1773680625.0
     }
 ]
