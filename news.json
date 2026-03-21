@@ -234,6 +234,24 @@
         "timestamp": 1774075500.0
     },
     {
+        "title_fa": "جنگ آمریکا و ایران همین‌حالا بودجه بنزین شما را هدف گرفته — بعدی چه خواهد بود؟",
+        "title_en": "The Iran war has already hit your gas budget. Here's what it's coming for next.",
+        "summary": [
+            "هزینه‌های خانوار: گزارش می‌گوید جنگ هزینه‌های اختیاری را کاهش داده و فشار روی بودجه بنزین خانوارها را افزایش داده.",
+            "بازارهای مالی و هزینه وام: نرخ‌های رهن رو به افزایش است و بازار سهام تضعیف شده که چشم‌انداز مصرف و سرمایه‌گذاری را بدتر کرده.",
+            "اعتماد عمومی و پیامدهای داخلی: احساس‌ مصرف‌کننده تیره شده؛ اگر این روند ادامه یابد، شوک اقتصادی می‌تواند به تشدید نارضایتی‌های داخلی و فشار سیاسی علیه حکومت بینجامد."
+        ],
+        "impact": "تداوم این شوک‌ها رفاه مصرف‌کننده را تضعیف می‌کند و پتانسیل دارد از راه فشار اقتصادی و افزایش نارضایتی عمومی ثبات سیاسی و توان حکومتی در ایران را آسیب‌پذیرتر سازد.",
+        "tag": "اقتصاد",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "NBC News on MSN",
+        "url": "https://www.msn.com/en-us/money/markets/the-iran-war-has-already-hit-your-gas-budget-heres-what-its-coming-for-next/ar-AA1Z6Upl",
+        "clean_url": "https://www.msn.com/en-us/money/markets/the-iran-war-has-already-hit-your-gas-budget-heres-what-its-coming-for-next/ar-AA1Z6Upl",
+        "image": null,
+        "timestamp": 1774073824.0
+    },
+    {
         "title_fa": "آخرین خبر: اسرائیل می‌گوید حملات علیه ایران تشدید می‌شود؛ ترامپ از «کاهش» عملیات نظامی سخن می‌گوید",
         "title_en": "The Latest: Israel says attacks on Iran to ramp up as Trump mulls ‘winding down’ military operations",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://thehill.com/policy/defense/5788405-trump-iran-threat-gabbard",
         "image": "http://www.bing.com/th?id=ONUT.Y2M7aAz5GKHWcQ9pcanIdQ&pid=News",
         "timestamp": 1773754800.0
-    },
-    {
-        "title_fa": "رقیب اولیهٔ ترامپ در ایران: روحانی می‌تواند به بهترین انتخاب او برای رهبری تبدیل شود",
-        "title_en": "Trump’s Original Rival in Iran May Emerge As His Best Choice to Lead",
-        "summary": [
-            "خبر گزارش می‌دهد که یک سناریوی رهبری شامل روحانی می‌تواند گزینه‌ای برای القای حس پیروزی به ترامپ باشد، طبق اظهارنظر یک پژوهشگر ایرانی به نیوزویک.",
-            "این گزاره نشان می‌دهد بازیگران خارجی ممکن است علاقه‌مند به ارتقاء چهره‌های نسبتاً میانه‌رو برای کسب پیام سیاسی داخلی باشند تا نتیجه‌گیری از سیاست‌های خود را مصادره کنند.",
-            "چنین سناریویی، در صورت تحقق، می‌تواند رقابت و شکاف میان جناح‌های داخل ساختار قدرت را تشدید کند و معادلات داخلی را به سود بازیگران خارجی تغییر دهد."
-        ],
-        "impact": "این سناریو به آمریکا امکان می‌دهد با معرفی یا حمایت ضمنی از یک چهره میانه‌رو ادعای «پیروزی» کند و همزمان شکاف‌های داخلی و تضعیف مشروعیت رژیم را افزایش دهد.",
-        "tag": "تغییر",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/trumps-original-rival-in-iran-may-emerge-as-his-best-choice-to-lead-11688807",
-        "clean_url": "https://www.newsweek.com/trumps-original-rival-in-iran-may-emerge-as-his-best-choice-to-lead-11688807",
-        "image": "http://www.bing.com/th?id=ONUT.4To9SKyMChxlhRuuq_-anw&pid=News",
-        "timestamp": 1773753960.0
     }
 ]
