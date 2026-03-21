@@ -162,6 +162,24 @@
         "timestamp": 1774093012.0
     },
     {
+        "title_fa": "تیم ترامپ برای گفتگوهای احتمالی صلح با ایران برنامه‌ریزی می‌کند",
+        "title_en": "Trump's team game planning for potential Iran peace talks",
+        "summary": [
+            "گزارش اکسيوس/MSN: پس از سه هفته جنگ، دولت ترامپ بحث‌های اولیه درباره مرحله بعد و شکل احتمالی گفتگوهای صلح با ایران را آغاز کرده و این موضوع براساس اظهارات یک مقام آمریکایی و یک منبع دیگر گزارش شده است.",
+            "تحلیل تحریم‌ها/فشار خارجی: اگر واشنگتن از ابزارهای تحریمی و دیپلماتیک به‌عنوان اهرم در مذاکرات یا پس‌زمینه آن بهره ببرد، این روند می‌تواند منابع مالی و توان عملیاتی رژیم را بیشتر تضعیف کند و فشار ساختاری بر ثبات داخلی را تشدید کند.",
+            "اعتراضات و اقتصاد داخلی: مقاله به‌طور مستقیم به اعتراضات یا فروپاشی اقتصادی اشاره‌ای نکرده؛ اما هرگونه ترکیب مذاکرات با فشار خارجی می‌تواند شتاب نارضایتی عمومی را افزایش داده و ضعف مدیریت اقتصادی رژیم را برملا کند."
+        ],
+        "impact": "آغاز برنامه‌ریزی واشنگتن برای گفتگوهای احتمالی، فرصت‌هایی برای کاهش فوری درگیری ایجاد می‌کند اما هم‌زمان با بهره‌گیری از اهرم‌های فشار خارجی، می‌تواند به تضعیف بیشتر رژیم و تشدید ناپایداری داخلی منجر شود.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Axios on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-s-team-game-planning-for-potential-iran-peace-talks/ar-AA1Z7WIn",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-s-team-game-planning-for-potential-iran-peace-talks/ar-AA1Z7WIn",
+        "image": null,
+        "timestamp": 1774092810.0
+    },
+    {
         "title_fa": "آمریکا تحریم‌های نفتی ایران را برای مهار قیمت انرژی تسهیل کرد؛ تقویت احتمالی تهران",
         "title_en": "U.S. eases Iranian oil sanctions in scramble to contain energy prices, handing Tehran a potential boost",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2ZPWGVKR0E3bXl3SExWdnRrSW96SktTaGh5U2dmN0ZkYlU4UWhVZGpaRmVIMjZmMy1Zc1huaVJSZ0NpOVZSQ2tuTlNMTU1xZEt6b1g2YVlIVzNmcGZvQUh2TFAtUVF0b2lBdk15eVltSUJuWWh6NVFpVlJzTm9uZWRZRGhod1pPUU5uSFhOOHAzRzlJcWdac1RJaU9xbGM2",
         "image": null,
         "timestamp": 1773766440.0
-    },
-    {
-        "title_fa": "کناره‌گیری جو کنت از دولت ترامپ به‌دلیل جنگ با ایران",
-        "title_en": "WA’s Joe Kent leaving Trump administration over war in Iran",
-        "summary": [
-            "جو کنت، مدیر مرکز ملی مقابله با ترور، استعفای فوری خود را اعلام کرد و صریحاً گفت که نمی‌تواند از جنگ جاری با ایران حمایت کند؛ او مدعی شد ایران تهدید فوری نبوده و جنگ «به‌خاطر فشار اسرائیل و لابی قدرتمند آمریکایی» آغاز شده است.",
-            "خروج یک مقام ارشد ضدتروریسم که تابستان گذشته تایید شده بود، نشان‌دهنده شکاف جدی در بدنه امنیتی-دفاعی دولت ترامپ است و اعتبار روایت رسمی درباره تهدید «قریب‌الوقوع» از سوی ایران را مخدوش می‌کند.",
-            "پاسخ خصمانه ترامپ و سخنگوی کاخ‌سفید که ادعای فشار اسرائیل را رد کردند، نشانه‌ای از سیاسی‌کاری در مدیریت امنیت ملی است؛ این تشتت می‌تواند تصمیم‌گیری راهبردی را تضعیف و هزینه‌های سیاسی-عملیاتی برای دولت ایجاد کند."
-        ],
-        "impact": "استعفای کنت بلافاصله انسجام دستگاه امنیت ملی آمریکا در پرونده ایران را تضعیف می‌کند و می‌تواند اختلافات داخلی را افشا و مشروعیت توجیهات دولت برای ادامه جنگ را کاهش دهد.",
-        "tag": "شکاف",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Washington State Standard",
-        "url": "https://www.yahoo.com/news/articles/wa-joe-kent-leaving-trump-164206631.html",
-        "clean_url": "https://www.yahoo.com/news/articles/wa-joe-kent-leaving-trump-164206631.html",
-        "image": null,
-        "timestamp": 1773765963.0
     }
 ]
