@@ -1062,6 +1062,24 @@
         "timestamp": 1773994421.0
     },
     {
+        "title_fa": "با تبعیت از ترامپ، قانونگذاران جمهوری‌خواه از حسابرسی عمومی درباره ایران امتناع می‌کنند",
+        "title_en": "Deferring to Trump, G.O.P. Lawmakers Resist a Public Accounting on Iran",
+        "summary": [
+            "نزدیک به سه هفته پس از شروع جنگی که نظرسنجی‌ها نشان از عدم محبوبیت آن دارد، رهبران جمهوری‌خواه هنوز از فراخواندن مقامات دولتی برای شهادت علنی خودداری کرده‌اند و می‌گویند جلسات علنی شکاف‌ها را نمایان می‌کند.",
+            "این تصمیم عملاً تبعیت کنگره از خط ترامپ را نشان می‌دهد و فضای عمومی و نهادی بررسی سیاست‌های ایالات متحده در قبال ایران را محدود می‌کند.",
+            "نتیجه فوری فقدان جلسات علنی، تضعیف نظارت کنگره بر اقدامات اجرایی مرتبط با ایران است که می‌تواند شفافیت در اجرای تحریم‌ها و گزینه‌های نظامی را کاهش دهد."
+        ],
+        "impact": "امتناع جمهوری‌خواهان از برگزاری جلسات علنی نظارتی، نظارت نهادی بر سیاست ایران را در لحظه‌ای حساس تضعیف می‌کند و راه را برای تصمیم‌های اجرایی بدون پاسخ‌گویی عمومی هموار می‌سازد.",
+        "tag": "نظارت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/20/us/politics/congress-iran-trump.html",
+        "clean_url": "https://www.nytimes.com/2026/03/20/us/politics/congress-iran-trump.html",
+        "image": "http://www.bing.com/th?id=OVFT.18mVQILX8_mBqtUj-DoqBC&pid=News",
+        "timestamp": 1773993840.0
+    },
+    {
         "title_fa": "پیشتازی حمایت از اقدامات جنگی ترامپ علیه ایران با اختلاف دو رقمی — نظرسنجی جدید",
         "title_en": "Approval of Trump’s Iran War Moves Ahead by Double Digit Margin—New Poll",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.news18.com/explainers/mass-arrests-to-shoot-to-kill-threats-irans-severe-crackdown-against-dissent-amid-war-ws-kl-9979231.html",
         "image": null,
         "timestamp": 1773731400.0
-    },
-    {
-        "title_fa": "جنگ آمریکا-اسرائیل علیه ایران",
-        "title_en": "US-Israel war on Iran",
-        "summary": [
-            "عنوان گزارش ادعا می‌کند که آمریکا و اسرائیل علیه ایران درگیر جنگ شده‌اند؛ اگر این خبر تأیید شود، معنای آن تغییر بنیادین در توازن امنیتی منطقه خواهد بود.",
-            "در چارچوب فشار خارجی، درگیری نظامی مستقیم به تشدید تحریم‌ها و محدودیت‌های بین‌المللی منجر می‌شود که ساختارهای اقتصادی و توان حکمرانی رژیم را زیر فشار می‌گذارد.",
-            "خطر افزایش نارضایتی داخلی و تنش‌های اجتماعی-اقتصادی بالا می‌رود؛ حکومت باید بین بسیج منابع برای جنگ و کنترل نارضایتی مردمی انتخاب کند که ناکارآمدی مدیریتی را برجسته خواهد کرد."
-        ],
-        "impact": "تأیید جنگ مستقیم آمریکا و اسرائیل علیه ایران، ثبات داخلی رژیم را به‌طور چشمگیر کاهش داده و احتمال گسترش ناآرامی‌های عمومی و تضعیف مشروعیت حاکم را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw",
-        "image": null,
-        "timestamp": 1773725907.0
     }
 ]
