@@ -180,6 +180,24 @@
         "timestamp": 1774065985.0
     },
     {
+        "title_fa": "دورترین پرتاب موشکی ایران؛ نشانه‌ای از استراتژی جسورانه‌تر",
+        "title_en": "Iran’s Longest Missile Launch Shows Bolder Strategy, Expert Says",
+        "summary": [
+            "طبق گزارش، ایران با شلیک موشک به دیه‌گو گارسیا—پایگاه نظامی آمریکا و بریتانیا در اقیانوس هند—برد عملیاتی خود را تا مسافتی همسان با لندن و پاریس نشان داد و این بلندترین پرتاب ثبت‌شده رژیم ارزیابی شده است.",
+            "کارشناسان گزارش شده این اقدام را به‌مثابه افزایش جسارت تهران در نمایش توانمندی‌های موشکی و ارسال پیام بازدارنده مستقیم به واشنگتن و لندن و نیز بازیگران منطقه‌ای تفسیر می‌کنند.",
+            "از منظر اثرات داخلی و خارجی، فشارهای تحریمی و محدودیت‌های بین‌المللی و ناکارآمدی‌های مدیریتی اقتصادی، رژیم را به سمت نمایش‌های نظامی با هدف کسب اهرم‌های سیاسی و تضعیف انتقادات داخلی سوق می‌دهد؛ این اقدام می‌تواند هزینه‌های اقتصادی و سیاسی بیشتری بر مردم و نهادهای کشور تحمیل کند."
+        ],
+        "impact": "این حمله ریسک تقابل مستقیم با آمریکا و بریتانیا را افزایش می‌دهد و در محاسبات منطقه‌ای، قابلیت به‌کارگیری برد بلند موشکی ایران را به‌عنوان عامل بازدارنده برجسته می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/iran-s-longest-missile-launch-shows-bolder-strategy-expert-says-9En8EvTEEX0mo2ZkxjLc",
+        "clean_url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/iran-s-longest-missile-launch-shows-bolder-strategy-expert-says-9En8EvTEEX0mo2ZkxjLc",
+        "image": null,
+        "timestamp": 1774065060.0
+    },
+    {
         "title_fa": "تأثیرات جهانی جنگ علیه ایران؛ شوک‌های انرژی که زنجیره‌ها را پاره کرد",
         "title_en": "How the Iran war has sent shocks rippling across the globe",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://www.theguardian.com/world/2026/mar/20/gulf-states-weigh-up-options-iran-us-israel-conflict-middle-east-crisis-war",
         "image": null,
         "timestamp": 1774064520.0
+    },
+    {
+        "title_fa": "تحلیل: سه هفته پس از آغاز، جنگ با ایران فراتر از کنترل دونالد ترامپ تشدید شده است",
+        "title_en": "Analysis-three weeks in, Iran war escalates beyond Trump's control",
+        "summary": [
+            "رویترز می‌نویسد که در هفته سوم درگیری‌ها بحران دارد از کنترل رئیس‌جمهور دونالد ترامپ خارج می‌شود و ابعاد منطقه‌ای و جهانی آن پیچیده‌تر شده است.",
+            "افزایش فشارهای خارجی و تشدید عملیات نظامی، به‌صورت ساختاری می‌تواند ثبات حکومت ایران را تضعیف کرده و انتخاب‌های سیاسی ـ اقتصادی داخلی را محدودتر سازد.",
+            "هرگونه ادامه‌دار شدن این روند احتمالاً نارضایتی و فشارهای داخلی را تشدید می‌کند و ضعف مدیریت حکومتی و آسیب‌پذیری اقتصاد را برجسته خواهد کرد."
+        ],
+        "impact": "پیامد فوری: احتمال گسترش درگیری‌های منطقه‌ای افزایش یافته و همزمان توان کنترل و تصمیم‌گیری دولت آمریکا کاهش یافته که فشارهای جمعی بر ساختار قدرت در ایران را تشدید می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/analysis-three-weeks-in-iran-war-escalates-beyond-trump-s-control/ar-AA1Z6CoU",
+        "clean_url": "https://www.msn.com/en-us/news/world/analysis-three-weeks-in-iran-war-escalates-beyond-trump-s-control/ar-AA1Z6CoU",
+        "image": null,
+        "timestamp": 1774064262.0
     },
     {
         "title_fa": "حمله هوایی به تأسیسات غنی‌سازی نطنز در هفته چهارم جنگ",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.record-courier.com/live-story/news/world/2026/03/17/iran-war-us-israel-trump-updates/89189229007",
         "image": null,
         "timestamp": 1773742860.0
-    },
-    {
-        "title_fa": "ارتش اسرائیل تایید کرد: فرمانده ارشد ایران غلامرضا سلیمانی در حمله هوایی کشته شد",
-        "title_en": "US-Iran-Israel War Latest News: IDF Confirms Iran's Top Commander Gholamreza Soleimani Killed In Israeli Airstrike",
-        "summary": [
-            "ارتش دفاع اسرائیل (IDF) کشته شدن غلامرضا سلیمانی، که رسانه‌ها او را فرمانده ارشد ایران گزارش داده‌اند، در حمله هوایی اسرائیل را تایید کرده است؛ گزارش جزئیات محل یا زمان دقیق حمله را ارائه نکرده است.",
-            "این ضربه مستقیم به یک فرمانده ارشد می‌تواند خلأ در زنجیره فرماندهی و توان عملیاتی مسئولان نظامی رژیم ایجاد کند و فشار خارجی و ریسک تشدید نظامی منطقه‌ای را افزایش دهد؛ در عین حال پیامدهای دقیقِ بازدارندگی و تلافی‌جویی بستگی به واکنش نظامی و سیاسی تهران دارد.",
-            "متن خبر اشاره‌ای به نقش روسیه، چین یا کره‌شمالی نکرده است؛ از منظر داخلی، چنین رخدادی احتمالاً رژیم را وادار به تمرکز بر امنیت و افزایش سرکوب می‌کند و می‌تواند منابع را از مدیریت اقتصادی و بحران‌های کف خیابان منحرف سازد."
-        ],
-        "impact": "کشته شدن یک فرمانده ارشد ضربه‌ای به ساختار امنیتی رژیم است که احتمال واکنش نظامی تلافی‌جویانه، تشدید سرکوب داخلی و افزایش تنش منطقه‌ای را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Sunday Guardian",
-        "url": "https://www.msn.com/en-us/news/news/iran-war-israel-targets-top-iranian-official-in-new-strike/ar-AA1YNbkQ",
-        "clean_url": "https://www.msn.com/en-us/news/news/iran-war-israel-targets-top-iranian-official-in-new-strike/ar-AA1YNbkQ",
-        "image": null,
-        "timestamp": 1773742658.0
-    },
-    {
-        "title_fa": "اسرائیل می‌گوید رئیس امنیت ملی ایران لاریجانی را کشت",
-        "title_en": "Israel says killed Iran national security chief Larijani",
-        "summary": [
-            "وزارت دفاع اسرائیل اعلام کرد علی لاریجانی، دبیر شورای عالی امنیت ملی، و غلامرضا سلیمانی، فرمانده بسیج، در حملات هوایی در تهران کشته شده‌اند؛ تا کنون هیچ‌گونه تایید رسمی از سوی مقامات ایران منتشر نشده است.",
-            "ادعای اسرائیل درباره «پیروزی‌های عملیاتی» و اعلام ادامه هدف‌گیری رهبران نشان می‌دهد فشار و دخالت خارجی بر تهران افزایش یافته و این گونه عملیات می‌تواند تضعیف ساختاری در زنجیره فرماندهی، اختلال در تصمیم‌گیری امنیتی و تشدید انزوای بین‌المللی و فشارهای اقتصادی را به دنبال داشته باشد.",
-            "سلیمانی به سرکوب اعتراضات گسترده ژانویه مرتبط است؛ حذف این چهره‌ها ضعف مدیریتی و اتکای نظام به سرکوب را برجسته می‌کند و می‌تواند هم به تشدید سرکوب داخلی و هم به افزایش نارضایتی و تلاطم سیاسی منجر شود."
-        ],
-        "impact": "کشته شدن لاریجانی و سلیمانی، حتی بدون تایید رسمی، ضربه‌ای مستقیم به هسته امنیتی تهران است که فوراً انسجام رهبری را تضعیف، فضای سیاسی را متلاطم و احتمال تشدید سرکوب و واکنش‌های تلافی‌جویانه را افزایش می‌دهد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Leader Publications",
-        "url": "https://www.yahoo.com/news/articles/israel-says-killed-iranian-security-105930805.html",
-        "clean_url": "https://www.yahoo.com/news/articles/israel-says-killed-iranian-security-105930805.html",
-        "image": null,
-        "timestamp": 1773742277.0
     }
 ]
