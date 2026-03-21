@@ -36,6 +36,24 @@
         "timestamp": 1774069200.0
     },
     {
+        "title_fa": "تبادل حملات میان اسرائیل و ایران هم‌زمان با اعزام مارینزهای آمریکا به خاورمیانه",
+        "title_en": "Israel, Iran trade attacks as US sends Marines to Middle East",
+        "summary": [
+            "رویترز گزارش می‌دهد اسرائیل و ایران تبادل حملات داشته‌اند و ایالات متحده در واکنش یا به‌منظور بازدارندگی، نیروی مارینز به منطقه اعزام کرده است؛ این مجموعه رخدادها نشانه افزایش ریسک تصعید نظامی است.",
+            "خبر هیچ اشاره‌ای به تحریم‌های جدید یا نقش بازیگران دیگری مانند روسیه/چین/کره‌شمالی ندارد؛ اما حضور نظامی مستقیم آمریکا خود به‌عنوان فشار خارجی عمل کرده و می‌تواند ساختار ضعف‌های اقتصادی و امنیتی رژیم را تشدید کند.",
+            "گزارش به اعتراضات داخلی یا وضعیت اقتصادی ایران اشاره نکرده است؛ با این حال، تشدید نظامی خارجی معمولاً هزینه‌های امنیتی را افزایش و ظرفیت‌های حکمرانی را تحت فشار قرار می‌دهد که می‌تواند نارضایتی‌های اجتماعی را تشدید کند."
+        ],
+        "impact": "این تحولات احتمال گسترش درگیری منطقه‌ای را بالا می‌برد و فشار بر ساختار امنیتی و اقتصادی ایران را افزایش می‌دهد.",
+        "tag": "تصعید",
+        "urgency": 9,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-ca/news/world/israel-iran-trade-attacks-as-us-sends-marines-to-middle-east/ar-AA1Z6J4m",
+        "clean_url": "https://www.msn.com/en-ca/news/world/israel-iran-trade-attacks-as-us-sends-marines-to-middle-east/ar-AA1Z6J4m",
+        "image": null,
+        "timestamp": 1774068014.0
+    },
+    {
         "title_fa": "دولت ترامپ رفع تحریم از میلیون‌ها بشکه نفت ایران را اعلام کرد",
         "title_en": "Trump administration lifts sanctions on millions of barrels of Iranian oil",
         "summary": [
@@ -250,6 +268,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTnBkNHhsUjVHb0l4Y0lTaHBESjdudm1fMjNYcHNqMGtPV1gzcUx0aDRsZnlMOFV3SkZUUkZ2VzlmbVlPaUVzT0RHckFXTzgzTnNwQnhJZFNFQXZodk5KUDZ4WHZQUXlLNFd4TGJaZzdna2Y1UVhfUWtkRE92ZVV1RmNFTDlWdnNVODBCX1RkQ0M4MkswVU82TWtrT3NkQ2Jx",
         "image": null,
         "timestamp": 1774042380.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده جنگ ایران: اسرائیل به لبنان حمله کرد و ایران به متحدان آمریکا شلیک کرد",
+        "title_en": "Iran War Live Updates: Israel Launches Attacks in Lebanon as Iran Fires on U.S. Allies",
+        "summary": [
+            "آمریکا به‌طور موقت برخی تحریم‌های نفتی ایران را تعلیق کرد تا از افزایش قیمت جهانی نفت جلوگیری کند.",
+            "تعلیق موقت فشار تحریمی به طور کوتاه‌مدت درآمدهای نفتی رژیم را افزایش و فشار مالی خارجی را تخفیف می‌دهد، اما دامنه زمانی محدود است و ساختارهای اقتصادی معیوب را اصلاح نمی‌کند.",
+            "تسکین کوتاه‌مدت ممکن است از شدت نارضایتی عمومی بکاهد، اما سوءمدیریت بودجه، مشکلات ارزی و خلأهای سیاسی بدون اصلاحات ریشه‌ای همچنان باقی می‌مانند."
+        ],
+        "impact": "تعلیق موقت تحریم‌ها تسکین مالی کوتاه‌مدتی به رژیم می‌دهد و احتمالاً مانع تشدید فوری ناآرامی‌ها می‌شود، اما توانایی این اقدام برای تغییر توازن قدرت یا تضمین پایداری بلندمدت بسیار محدود است.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
+        "clean_url": "https://www.nytimes.com/live/2026/03/21/world/iran-war-oil-trump",
+        "image": "http://www.bing.com/th?id=OVFT.EteHQPj4Vm9d3cPCRogpDy&pid=News",
+        "timestamp": 1774041300.0
     },
     {
         "title_fa": "دلیل اینکه هیچ رئیس‌جمهوری پیش از ترامپ جنگ با ایران را تصویب نکرده است",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-17-2026",
         "image": "http://www.bing.com/th?id=ONUT.AfnTP1hu6iKG_7NeFp3G-Q&pid=News",
         "timestamp": 1773733380.0
-    },
-    {
-        "title_fa": "ترامپ از فقدان حمایت درباره تنگه هرمز گلایه کرد",
-        "title_en": "Iran war: Trump laments lack of support over Hormuz",
-        "summary": [
-            "دی‌دابلیو گزارش می‌دهد که دونالد ترامپ، رئیس‌جمهور پیشین آمریکا، نسبت به کمبود حمایت متحدان در موضوع تنگه هرمز ابراز گلایه کرده است.",
-            "این اظهار نظر نشان‌دهنده شکاف در اجماع سیاست خارجی درباره حضور و فشار در خلیج فارس است و می‌تواند روند تشکیل یا تضعیف ائتلاف‌های منطقه‌ای و بین‌المللی را متاثر سازد.",
-            "گزارش شواهد مستقیمی درباره وضعیت اقتصادی داخلی یا اعتراضات مردمی ندارد؛ با این حال کاهش اجماع بین‌المللی معمولاً ظرفیت اعمال فشار خارجی بر تهران را کاهش می‌دهد و پیامدهای سیاسی-اقتصادی داخلی ممکن است در پی آن پدید آید."
-        ],
-        "impact": "فقدان حمایت بین‌المللی که ترامپ به آن اشاره کرده احتمالاً اهرم فشار خارجی علیه حکومت ایران را تضعیف می‌کند و در کوتاه‌مدت کارایی تحریم‌ها و فشار دیپلماتیک را کاهش خواهد داد.",
-        "tag": "هرمز",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRW9PWlhFYUFtcHZQS21qLTVhaFdIa3RhNF93bkF3c1ZpbGhqSnlMT1lNZ1FZcmVJQXM0N3NQX2d5a283MXRXaExNVVVVbmVPLTZHSTIxMWFGQWZoSUJ4OFBpa1BkcU0yQ2hmUlRVa0tlSkJMa3AxcTh5ZExwUTF5T2p6LS1PNmlpVXFwNU9seVlkN25xb2pkZXBxWkdTUmhFSGpkOFhn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRW9PWlhFYUFtcHZQS21qLTVhaFdIa3RhNF93bkF3c1ZpbGhqSnlMT1lNZ1FZcmVJQXM0N3NQX2d5a283MXRXaExNVVVVbmVPLTZHSTIxMWFGQWZoSUJ4OFBpa1BkcU0yQ2hmUlRVa0tlSkJMa3AxcTh5ZExwUTF5T2p6LS1PNmlpVXFwNU9seVlkN25xb2pkZXBxWkdTUmhFSGpkOFhn",
-        "image": null,
-        "timestamp": 1773731412.0
-    },
-    {
-        "title_fa": "ایران سرکوب اعتراض‌ها را در بحبوحه جنگ تشدید کرد: بازداشت‌های گسترده و تهدید به شلیک",
-        "title_en": "Iran Unleashes Crackdown On Dissent Amid War: Mass Arrests To Shoot-To-Kill Threats",
-        "summary": [
-            "نیروهای امنیتی دست به بازداشت‌های گسترده زده‌اند؛ گزارش‌ها حاکی از بازداشت ۱۰ تبعه خارجی با اتهام جاسوسی و طرح تهدیدات «شلیک برای کشتن» علیه معترضان است.",
-            "گزارش سازمان ملل از خاموشی دیجیتال، سرکوب گسترده و افزایش اعدام‌ها خبر می‌دهد؛ این اقدامات احتمالاً محکومیت بین‌المللی و فشارهای حقوقی-تحریمی بیشتری را به دنبال خواهد داشت که به ساختار اقتصادی و دسترسی رژیم به منابع خارجی آسیب می‌زند.",
-            "تمرکز بر سرکوب به جای حل بحران‌های مدیریتی و اقتصادی نشانه شکست حکمرانی است و می‌تواند نارضایتی عمومی را تشدید، موج جدیدی از ناآرامی‌ها و فرار سرمایه را تشدید کند."
-        ],
-        "impact": "سرکوب وسیع و خاموشی دیجیتال می‌تواند فشار بین‌المللی و اقتصادی را افزایش دهد و ثبات سیاسی رژیم را بیش از پیش تضعیف کند.",
-        "tag": "سرکوب",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "News18",
-        "url": "https://www.news18.com/explainers/mass-arrests-to-shoot-to-kill-threats-irans-severe-crackdown-against-dissent-amid-war-ws-kl-9979231.html",
-        "clean_url": "https://www.news18.com/explainers/mass-arrests-to-shoot-to-kill-threats-irans-severe-crackdown-against-dissent-amid-war-ws-kl-9979231.html",
-        "image": null,
-        "timestamp": 1773731400.0
     }
 ]
