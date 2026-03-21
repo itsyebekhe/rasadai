@@ -144,6 +144,24 @@
         "timestamp": 1774082961.0
     },
     {
+        "title_fa": "حمله به دیه‌گو گارسیا در اواخر پنج‌شنبه روی ساحل شرقی آمریکا انجام شد",
+        "title_en": "Iran’s Diego Garcia Attack Happened Late Thursday on the East Coast",
+        "summary": [
+            "رسانه‌ها گزارش می‌دهند ایران موشک‌های بالستیک میان‌برد را به پایگاه مشترک آمریکا-بریتانیا در دیه‌گو گارسیا پرتاب کرده است؛ زمان حمله در اواخر پنج‌شنبه به وقت ساحل شرقی آمریکا ثبت شده است.",
+            "این اقدام تغییر ماهیت درگیری منطقه‌ای را به تقابل مستقیم با تاسیسات نظامی آمریکا و بریتانیا نزدیک‌تر می‌کند و احتمال واکنش نظامی یا تحریمی شدیدتر از سوی غرب را افزایش می‌دهد.",
+            "در داخل ایران، تشدید فشارهای خارجی و پیامدهای اقتصادی احتمالی (افزایش تحریم‌ها، هزینه‌های جنگی، بی‌ثباتی بازارها) می‌تواند خشم عمومی را تشدید کند و آسیب‌پذیری ساختارهای مدیریتی و حکمرانی رژیم را افزایش دهد."
+        ],
+        "impact": "حمله مستقیم به دیه‌گو گارسیا ریسک انتقام‌جویی و تحریم‌های بیشتر را بالا می‌برد و روند فرسایشی اقتصادی-سیاسی رژیم را تسریع می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/iran-s-diego-garcia-attack-happened-late-thursday-on-the-east-coast-98LYAOKXxKml007DljCe",
+        "clean_url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/iran-s-diego-garcia-attack-happened-late-thursday-on-the-east-coast-98LYAOKXxKml007DljCe",
+        "image": "http://www.bing.com/th?id=OVFT.he4heLen0-WQU3Xq5eozhi&pid=News",
+        "timestamp": 1774082640.0
+    },
+    {
         "title_fa": "بازسازی فرماندهی حزب‌الله توسط سپاه برای ورود به جنگ",
         "title_en": "How Iran's IRGC rebooted Lebanon's Hezbollah to be ready for war",
         "summary": [
@@ -718,6 +736,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Xa3VLREpwbERQMkNXSUZHUWhjanA0ODlOZXhoVThsMTFJOXFWRFFrX0p4bnZUXzVWQ3BEY2N1OGpPRnItT3FEa0xXeVBfd18wTGd6SUlyQjF4dw",
         "image": null,
         "timestamp": 1774046045.0
+    },
+    {
+        "title_fa": "تهدید اسرائیل به تشدید حملات علیه ایران؛ بریتانیا هدف‌گیری پایگاه مشترک را محکوم کرد",
+        "title_en": "Israel threatens a surge in attacks on Iran as Britain condemns Tehran targeting a US-UK air base",
+        "summary": [
+            "وزیر دفاع اسرائیل تهدید به افزایش موج حملات علیه ایران کرد.",
+            "بریتانیا ایران را به‌خاطر هدف قرار دادن یک پایگاه مشترک بریتانیا-آمریکا در اقیانوس هند محکوم نمود.",
+            "این رخدادها در چارچوب جنگ در خاورمیانه روی می‌دهد و خطر گسترش درگیری‌های فرامنطقه‌ای را افزایش می‌دهد."
+        ],
+        "impact": "تهدیدهای نظامی و محکومیت‌های دیپلماتیک می‌تواند ساختار بقای رژیم را تضعیف کند، چون هزینه‌های امنیتی و سیاسی را بالا برده و خطر افزایش انزوای اقتصادی و تشدید نارضایتی‌های داخلی را بیشتر می‌سازد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/israel-threatens-a-surge-in-attacks-on-iran-as-britain-condemns-tehran-targeting-a-us-uk-air-base/ar-AA1Z6AFE",
+        "clean_url": "https://www.msn.com/en-us/news/world/israel-threatens-a-surge-in-attacks-on-iran-as-britain-condemns-tehran-targeting-a-us-uk-air-base/ar-AA1Z6AFE",
+        "image": null,
+        "timestamp": 1774045133.0
     },
     {
         "title_fa": "تهدید ایران به اماکن گردشگری جهانی و اعزام تفنگداران دریایی بیشتر آمریکا به خاورمیانه",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.nytimes.com/2026/03/17/world/middleeast/israel-says-it-has-killed-ali-larijani-irans-de-facto-political-leader.html",
         "image": "http://www.bing.com/th?id=ONUT.8_eZYaK3vH5cSjVsaR9zgw&pid=News",
         "timestamp": 1773756000.0
-    },
-    {
-        "title_fa": "مرگ از بالا: علی لاریجانی اسرار ایران را نگه می‌داشت",
-        "title_en": "Death from above: Ali Larijani kept Iran's secrets",
-        "summary": [
-            "مقاله گزارش می‌دهد علی لاریجانی، از تأثیرگذارترین چهره‌های حکومت ایران، درگذشته و پیش‌تر در پرونده هسته‌ای با آمریکا همکاری داشته است.",
-            "مقاله او را «نگهدارنده اسرار ایران» معرفی می‌کند؛ دلالت بر جایگاه مرکزی او در حلقه‌های اطلاعاتی و تصمیم‌گیری سیاسی رژیم دارد.",
-            "حذف چنین فردی که کانال‌های غیررسمی با غرب را می‌شناخت می‌تواند مسیرهای مذاکره و امید به کاهش تحریم‌ها را تضعیف کند و خلأی امنیتی-سیاسی ایجادکند که مدیریت بحران‌های داخلی را پیچیده‌تر سازد."
-        ],
-        "impact": "در کوتاه‌مدت، مرگ لاریجانی شبکه‌های اطلاعاتی و ارتباطات غیررسمی با غرب را تضعیف می‌کند و توانایی رژیم برای کاهش فشار تحریم‌ها و مدیریت تنش‌های داخلی را کاهش می‌دهد.",
-        "tag": "درگذشت",
-        "urgency": 9,
-        "sentiment": -0.4,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/world/death-from-above-ali-larijani-kept-iran-s-secrets/ar-AA1YQSC3",
-        "clean_url": "https://www.msn.com/en-us/news/world/death-from-above-ali-larijani-kept-iran-s-secrets/ar-AA1YQSC3",
-        "image": "http://www.bing.com/th?id=ONUT.XFojQwzSZW_SeNfVaKdVIQ&pid=News",
-        "timestamp": 1773755483.0
-    },
-    {
-        "title_fa": "گابارد: ترامپ نتیجه گرفت ایران تهدید فوری است",
-        "title_en": "Gabbard: Trump concluded Iran posed an imminent threat",
-        "summary": [
-            "تولسی گابارد گفت ترامپ نتیجه گرفت رژیم تروریستی اسلامی ایران یک تهدید فوری است و بر همان اساس اقدام کرده است.",
-            "چنین بیانیه‌ای می‌تواند به‌عنوان توجیه رسمی برای اقدامات نظامی یا فشارهای قهرآمیز آمریکا و متحدانش عمل کند و ریسک تشدید تنش منطقه‌ای را افزایش دهد.",
-            "روایت رسمی فوق احتمال افزایش فشار بین‌المللی بر حکومت و تشدید فرسایش مشروعیت داخلی آن را بالا می‌برد، اگرچه شواهد مستقیم از پیامدهای داخلی در متن گزارش ارائه نشده است."
-        ],
-        "impact": "اظهار نظر گابارد راه را برای توجیه اقدامات نظامی یا فشارهای شدیدتر علیه حکومت هموار می‌کند و ثبات آن را بیشتر تضعیف خواهد کرد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Hill",
-        "url": "https://thehill.com/policy/defense/5788405-trump-iran-threat-gabbard/",
-        "clean_url": "https://thehill.com/policy/defense/5788405-trump-iran-threat-gabbard",
-        "image": "http://www.bing.com/th?id=ONUT.Y2M7aAz5GKHWcQ9pcanIdQ&pid=News",
-        "timestamp": 1773754800.0
     }
 ]
