@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "بازسازی فرماندهی حزب‌الله توسط سپاه برای ورود به جنگ",
+        "title_en": "How Iran's IRGC rebooted Lebanon's Hezbollah to be ready for war",
+        "summary": [
+            "سپاه پاسداران پس از ضربات سال ۲۰۲۴ فرماندهی نظامی حزب‌الله را بازسازی کرد: اعزام افسران برای بازآموزی، نظارت بر تسلیح مجدد و بازچینی ساختارهای فرماندهی که پیش‌تر توسط اطلاعات اسرائیل نفوذ یافته بودند.",
+            "این اقدام نشان‌دهنده تکیه مستقیم تهران بر ساختار نظامی و نیروهای نیابتی است؛ فشار نظامی خارجی (آمریکا و اسرائیل) رژیم را به سرمایه‌گذاری نظامیِ پرهزینه در خارج متقاعد کرد که منابع سیاسی و اقتصادی را منحرف می‌کند و ریسک‌های داخلی را افزایش می‌دهد.",
+            "پیامدهای عملیاتی مشخص است: حزب‌الله اگرچه هنوز به سطح اوج سابق نرسیده اما صدها موشک به سمت اسرائیل شلیک کرده و درگیری‌ها در جنوب لبنان منجر به بیش از ۱۰۰۰ کشته شده؛ کارآیی گروه در برابر یک تهاجم تمام‌عیار اسرائیل اما نامعلوم باقی می‌ماند."
+        ],
+        "impact": "دخالت مستقیم سپاه در بازسازی حزب‌الله توان رزمی نیابتی تهران را احیا کرده و موجب تشدید و گسترش درگیری‌ها با اسرائیل شده است.",
+        "tag": "پروکسی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.yahoo.com/news/articles/irans-irgc-rebooted-lebanons-hezbollah-083410445.html",
+        "clean_url": "https://www.yahoo.com/news/articles/irans-irgc-rebooted-lebanons-hezbollah-083410445.html",
+        "image": null,
+        "timestamp": 1774082061.0
+    },
+    {
+        "title_fa": "ترامپ: جنگ با ایران «از نظر نظامی» برده شده؛ اما پایان یا نقشه راه سیاسی دیده نمی‌شود",
+        "title_en": "Trump says the war on Iran is 'militarily' won. Yet there's still no end — or endgame — in sight",
+        "summary": [
+            "ترامپ ادعا کرده جنگ با ایران «از نظر نظامی» پیروز شده است؛ گزارش CBC هم‌زمان تصریح می‌کند که هیچ پایان مشخص یا راهبرد سیاسی برای خاتمه دادن به درگیری وجود ندارد.",
+            "نبود پایان سیاسی واقعی این ادعا را به پیامی نمادین تبدیل می‌کند و می‌تواند روند درگیری را طولانی و هزینه‌زا سازد — فشارها و تحریم‌های خارجی در صورت ادامه وضعیت می‌توانند ساختار رژیم را به طور تدریجی ضعیف کنند و پیامدهای اقتصادی و سیاسی داخلی را تشدید نمایند.",
+            "حذف یک نقشه راه سیاسی خروجی، ریسک آشکار شدن ناکارآمدی مدیریتی و افزایش نارضایتی در جامعه را بالا می‌برد؛ موفقیت نظامی به تنهایی بدون راه‌حل سیاسی خروجی پایدار ایجاد نمی‌کند."
+        ],
+        "impact": "ادعای «پیروزی نظامی» در غیاب پایان سیاسی عملی، رژیم را در معرض فشار خارجی بیشتر و تشدید بحران اقتصادی و سیاسی قرار می‌دهد و ثبات ساختاری آن را تضعیف می‌کند.",
+        "tag": "جنگ",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM244aVhHMzQ1M0xpRkIwOU05S0pTRVJfTS1yay1ISzJXWWc4MklzTW1TT3ZSSWJoR3FYYk1zUGNTY21qT01UY3FlWEp5YkZPMTM1SEZSQmtSU1VmM29tUHJRQ2t6RWQzdXdacHdEdkp2VjBET2pBVGdDZUF4RG4xWmFuYmFfMjNwVElFcw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM244aVhHMzQ1M0xpRkIwOU05S0pTRVJfTS1yay1ISzJXWWc4MklzTW1TT3ZSSWJoR3FYYk1zUGNTY21qT01UY3FlWEp5YkZPMTM1SEZSQmtSU1VmM29tUHJRQ2t6RWQzdXdacHdEdkp2VjBET2pBVGdDZUF4RG4xWmFuYmFfMjNwVElFcw",
+        "image": null,
+        "timestamp": 1774080000.0
+    },
+    {
         "title_fa": "پنتاگون خواستار ۲۰۰ میلیارد دلار اضافی برای جنگ با ایران و فراتر از آن شد",
         "title_en": "The Pentagon wants an extra $200 billion for the Iran war and beyond",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-17-26",
         "image": "http://www.bing.com/th?id=ONUT.P55ri_Yl-Q1-RJ2DzZm8Tg&pid=News",
         "timestamp": 1773734100.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ ایران: اسرائیل می‌گوید رهبر غیررسمی ایران را کشته است؛ ضربه‌ای به رژیم",
-        "title_en": "Iran War Live Updates: Israel Says It Has Killed Iran’s De Facto Leader, Dealing Blow to Regime",
-        "summary": [
-            "اسرائیل اعلام کرده که رهبر غیررسمی ایران را کشته است؛ این ادعا در کوتاه‌مدت یک شوک اطلاعاتی-سیاسی مهم برای ساختار رهبری رژیم ایجاد می‌کند.",
-            "تانکری لنگرانداز در نزدیکی یک بندر امارات متحده عربی اوایل سه‌شنبه با یک پرتابه هدف قرار گرفت؛ این نخستین حمله به کشتی در اطراف تنگه هرمز طی پنج روز گذشته است و نشان‌دهنده تشدید فعالیت‌های نظامی در مسیرهای حیاتی انرژی است.",
-            "پیامد‌های ساختاری: حذف یک چهره کلیدی و حملات دریایی احتمالاً فشار خارجی و انزوای دیپلماتیک را تشدید می‌کند، توان مدیریتی و بازدارندگی امنیتی رژیم را تضعیف کرده و ریسک گسترش درگیری منطقه‌ای و اختلال در جریان انرژی را افزایش می‌دهد."
-        ],
-        "impact": "کشته شدن چهره‌ای که اسرائیل مدعی است و حمله به نفتکش در تنگه هرمز به‌سرعت تنش‌ها را تشدید می‌کند و خطر رویارویی مستقیم منطقه‌ای و اختلال در بازار انرژی را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon/heres-the-latest",
-        "clean_url": "https://www.nytimes.com/live/2026/03/17/world/iran-war-trump-oil-lebanon/heres-the-latest",
-        "image": "http://www.bing.com/th?id=ONUT.jXZZT8Pj9in-o3Ri0LBdLA&pid=News",
-        "timestamp": 1773733440.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: معاون ارشد مقابله با تروریسم آمریکا، جو کنت، به‌خاطر جنگ با ایران استعفا داد",
-        "title_en": "Live updates: Top US counterterrorism official Joe Kent resigns over Iran war",
-        "summary": [
-            "خبر اصلی: جو کنت، مقام ارشد مقابله با تروریسم در دولت آمریکا، به‌خاطر اختلاف بر سر «جنگ با ایران» از سمت خود کناره‌گیری کرده است.",
-            "تبعات ساختاری: چنین استعفایی علامت‌دهنده اختلافات راهبردی درونی در سیاست ایالات متحده نسبت به ایران است که می‌تواند انسجام فشار خارجی و توان تحمیق هزینه بر تهران را تضعیف کند.",
-            "محدودیت گزارش: گزارش اشاره‌ای به مداخله یا نقش مستقیم روسیه، چین یا کره‌شمالی ندارد و همچنین به اعتراضات داخلی یا وضعیت اقتصادی در ایران ربطی داده نشده است؛ بنابراین تحلیل باید صرفاً بر پیامدهای دیپلماتیک و انسجام سیاست خارجی متمرکز بماند."
-        ],
-        "impact": "استعفا نشان می‌دهد اختلافات در سطح امنیتی-دیپلماتیک آمریکا می‌تواند به کاهش نظم و اثرگذاری فشارهای بین‌المللی علیه رژیم ایران منجر شود.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.0,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-03-17-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-17-2026",
-        "image": "http://www.bing.com/th?id=ONUT.AfnTP1hu6iKG_7NeFp3G-Q&pid=News",
-        "timestamp": 1773733380.0
     }
 ]
