@@ -90,6 +90,24 @@
         "timestamp": 1774092300.0
     },
     {
+        "title_fa": "سه هفته جنگ در ایران؛ حمله آمریکا و اسرائیل و حذف بخش بزرگی از رهبری",
+        "title_en": "War in Iran reaches 3 weeks: What to know",
+        "summary": [
+            "عملیات نظامی مشترک آمریکا و اسرائیل از اواخر فوریه وارد هفته سوم شده است؛ هدف اعلام‌شده نابودی ظرفیت هسته‌ای و موشکی ایران و حملات اولیه که به گزارش‌ها بخش زیادی از رهبری را از جمله علی خامنه‌ای هدف قرار داده‌اند.",
+            "آمریکا تلفات قابل‌توجهی متحمل شده (حداقل ۱۳ کشته و چندصد مجروح) و ایران در واکنش به پایگاه‌های آمریکایی، اهداف اسرائیل و برخی کشورهای خلیج حمله کرده؛ دونالد ترامپ اعزام نیرو و اشغال جزیره خارگ را در نظر دارد و متحدان اروپایی از مشارکت نظامی مستقیم خودداری می‌کنند.",
+            "فشار نظامی خارجی همراه با خلع فرماندهی در رأس قدرت، ساختار کنترل و قابلیت‌های عملیاتی را تضعیف می‌کند و می‌تواند خلا سیاسی، فروپاشی مدیریتی و تشدید نارضایتی‌های اجتماعی را به دنبال داشته باشد."
+        ],
+        "impact": "حذف علی خامنه‌ای و فشار مستقیم نظامی ساختار قدرت را متزلزل کرده و احتمال فروپاشی ساختاری رژیم و گسترش هرج‌ومرج داخلی و بی‌ثباتی منطقه‌ای را به‌طور چشمگیر افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/war-iran-reaches-3-weeks-165631054.html",
+        "clean_url": "https://www.yahoo.com/news/articles/war-iran-reaches-3-weeks-165631054.html",
+        "image": "http://www.bing.com/th?id=OVFT.jTtv3F3I5rS-Ln7hYO_aPC&pid=News",
+        "timestamp": 1774088880.0
+    },
+    {
         "title_fa": "نبرد مگا بر سر ایران و اسرائیل با استعفای جو کنت تشدید شد",
         "title_en": "MAGA battle over Iran, Israel intensifies with Joe Kent resignation",
         "summary": [
@@ -106,6 +124,24 @@
         "clean_url": "https://thehill.com/homenews/house/5794095-trump-resignation-israel-iran",
         "image": null,
         "timestamp": 1774088091.0
+    },
+    {
+        "title_fa": "ایران پایگاه مشترک بریتانیا-آمریکا را هدف قرار داد و تأسیسات اصلی غنی‌سازی‌اش بار دیگر مورد حمله قرار گرفت",
+        "title_en": "Iran targets British-US base and its main nuclear enrichment site is struck again",
+        "summary": [
+            "خبر: گزارش‌ها حاکی است ایران یک پایگاه مشترک بریتانیا و آمریکا را هدف قرار داده و تأسیسات غنی‌سازی اصلی کشور بار دیگر مورد حمله قرار گرفته است—منابع و عامل حمله در عنوان مشخص نشده است.",
+            "فشارها/تحریم‌ها: این نوع برخوردها و پاسخ‌گویی‌های احتمالی بین‌المللی احتمال افزایش فشارهای دیپلماتیک و اقتصادی و زمینه‌ساز تحریم‌های جدید یا تشدید شده است؛ ساختار درآمد ارزی و ظرفیت واردات حیاتی رژیم را ضعیف‌تر خواهد کرد.",
+            "درون‌کشوری/اقتصاد: تکرار حمله به تاسیسات هسته‌ای و هدف‌گیری پایگاه‌های خارجی نشان‌دهنده ضعف مدیریت امنیتی و پیامدهای سیاست‌های جاری است و ریسک تشدید نارضایتی عمومی و فشار بر اقتصاد ناکارآمد را افزایش می‌دهد."
+        ],
+        "impact": "اثر فوری: تشدید تنش نظامی با غرب و احتمال موج جدید تحریم‌ها که فشار اقتصادی و تضعیف مشروعیت سیاسی رژیم را شدت می‌بخشد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e",
+        "clean_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-march-21-2026-260bac76e5554ff31aaf5a3a30c92a2e",
+        "image": "http://www.bing.com/th?id=OVFT.Orhw262YOMQ0KFJFQ741OC&pid=News",
+        "timestamp": 1774087980.0
     },
     {
         "title_fa": "جنگ وارد هفته چهارم شد؛ پایان مشخصی در چشم نیست",
@@ -214,6 +250,24 @@
         "clean_url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/iran-s-diego-garcia-attack-happened-late-thursday-on-the-east-coast-98LYAOKXxKml007DljCe",
         "image": "http://www.bing.com/th?id=OVFT.he4heLen0-WQU3Xq5eozhi&pid=News",
         "timestamp": 1774082640.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: ترامپ در نظر دارد «کاهش» تلاش‌های نظامی علیه ایران",
+        "title_en": "Iran live updates: Trump says he is considering 'winding down' Iran military efforts",
+        "summary": [
+            "دونالد ترامپ اعلام کرده که در نظر دارد تلاش‌های نظامی آمریکا علیه ایران را «کاهش» دهد.",
+            "جنگ شنبه وارد هفته چهارم خود شد.",
+            "کاهش نظامی مستقیم آمریکا ممکن است فشار فوری میدان نبرد را کم کند، اما کاهش عملیات نظامی لزوماً تحریم‌ها، مشکلات ساختاری اقتصادی و ضعف‌های حکمرانی را از بین نمی‌برد و بنابراین ثبات بلندمدت رژیم را تضمین نمی‌کند."
+        ],
+        "impact": "اعلام احتمال «کاهش» عملیات نظامی می‌تواند خطر تشدید درگیری‌های نظامی آنی را کاهش دهد، اما تهدیدات ساختاری اقتصادی و سیاسی که رژیم را آسیب‌پذیر کرده‌اند بدون تغییر باقی می‌مانند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-blasts-nato-allies-as-cowards-over-strait-of-hormuz/ar-AA1YITwK",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-blasts-nato-allies-as-cowards-over-strait-of-hormuz/ar-AA1YITwK",
+        "image": null,
+        "timestamp": 1774082273.0
     },
     {
         "title_fa": "بازسازی فرماندهی حزب‌الله توسط سپاه برای ورود به جنگ",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/israel-says-strike-killed-iran-s-larijani-as-war-intensifies/ar-AA1YNYQK",
         "image": null,
         "timestamp": 1773759184.0
-    },
-    {
-        "title_fa": "رهبری ایران ضربه دوتایی متحمل شد",
-        "title_en": "Iran’s Leadership Suffers a Double Blow",
-        "summary": [
-            "گزارش نیویورک‌تایمز حاکی از وارد آمدن ضربه‌ای دوتایی به دو چهره کلیدی، علی لاریجانی (که در طول جنگ نقش حکمرانی غیررسمی داشت) و غلامرضا سلیمانی است؛ جزئیات دقیق در متن کامل مقاله آمده است.",
-            "این اتفاق در بحبوحه جنگ رخ داده و بلافاصله فضای خلأ رهبری و احتمال تشدید رقابت‌های داخلی بر سر جانشینی و تقسیم قدرت را بیشتر می‌کند.",
-            "از منظر ساختاری، از دست رفتن یا تضعیف دو بازیگر محوری به زنجیره تصمیم‌گیری و هماهنگی اجرایی لطمه می‌زند و کارآمدی دولت و توان مدیریت بحران را کاهش می‌دهد؛ این آسیب‌پذیری در برابر فشارهای خارجی و اقتصادی تشدید خواهد شد."
-        ],
-        "impact": "این ضربه‌های توأم انسجام رهبری را کاهش می‌دهد و شانس بروز کشمکش‌های داخلی، اختلال در فرماندهی جنگی و وخامت شرایط اقتصادی-اجتماعی را افزایش می‌دهد.",
-        "tag": "رهبری",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/17/briefing/irans-leadership-suffers-a-double-blow.html",
-        "clean_url": "https://www.nytimes.com/2026/03/17/briefing/irans-leadership-suffers-a-double-blow.html",
-        "image": "http://www.bing.com/th?id=ONUT.u8qfF265Ebnr5CbjTVGdyA&pid=News",
-        "timestamp": 1773758760.0
-    },
-    {
-        "title_fa": "تالسی گابارد درباره ایران پس از استعفای جو کنت سخن گفت",
-        "title_en": "Tulsi Gabbard Speaks Out on Iran After Joe Kent Resignation",
-        "summary": [
-            "تالسی گابارد اولین اظهارنظر عمومی خود درباره ایران را روز سه‌شنبه پس از حملهٔ آمریکا و اسرائیل به ایران در 28 فوریه مطرح کرد.",
-            "این واکنش رسانه‌ای هم‌زمان با استعفای جو کنت اتفاق افتاده است؛ گزارش جزئیات سخنان گابارد را ارائه نمی‌دهد.",
-            "حملهٔ مشترک آمریکا و اسرائیل نشان‌دهنده افزایش فشار نظامی خارجی است که می‌تواند سازوکارهای بقا و مشروعیت رژیم را به چالش بکشد، هرچند پیامدهای داخلی ملموس نیازمند شواهد بیشتر است."
-        ],
-        "impact": "تلاقی اظهارنظرهای سیاسی خارجی با حملات مستقیم 28 فوریه ریسک تشدید تنش نظامی و سیاسی علیه حکومت ایران را بالا می‌برد و می‌تواند مشروعیت داخلی را بیشتر تضعیف کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/tulsi-gabbard-speaks-out-on-iran-after-joe-kent-resignation-11693602",
-        "clean_url": "https://www.newsweek.com/tulsi-gabbard-speaks-out-on-iran-after-joe-kent-resignation-11693602",
-        "image": null,
-        "timestamp": 1773758760.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده ایران: بیش از یک‌دوجین پهپاد ریپر در نبرد از دست رفتند",
-        "title_en": "Iran live updates: More than a dozen Reaper drones lost in combat",
-        "summary": [
-            "گزارش می‌گوید بیش از یک‌دوجین پهپاد ریپر در جریان درگیری از دست رفته‌اند.",
-            "این پهپادها یا بر اثر شلیک موشک ساقط شده‌اند یا توسط آتش ورودی نابود شده‌اند؛ نشانهٔ تشدید تبادل آتش علیه سامانه‌های پهپادی.",
-            "خبر هیچ اشاره‌ای به تحریم‌ها یا نقش روسیه، چین یا کره‌شمالی نکرده و درباره آثار بر اعتراضات داخلی یا اقتصاد نیز گزارشی ارائه نشده است؛ بنابراین از این گزارش به‌تنهایی نمی‌توان پیامدهای ساختاری بر ثبات رژیم را استنتاج کرد."
-        ],
-        "impact": "پیامد فوری: این تلفات پهپادی نشان‌دهنده تشدید درگیری‌های نظامی و افزایش آسیب‌پذیری دارایی‌های هوایی است که می‌تواند به تشدید واکنش‌های متقابل و فشارهای امنیتی منطقه‌ای منجر شود.",
-        "tag": "پهپادی",
-        "urgency": 9,
-        "sentiment": -0.4,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-200-us-troops-have-been-wounded-including-10-seriously/ar-AA1YITwK",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-200-us-troops-have-been-wounded-including-10-seriously/ar-AA1YITwK",
-        "image": "http://www.bing.com/th?id=ONUT.7SIo_6Ov4E0U2ZYMrNihOQ&pid=News",
-        "timestamp": 1773757101.0
     }
 ]
