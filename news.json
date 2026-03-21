@@ -126,6 +126,24 @@
         "timestamp": 1774086203.0
     },
     {
+        "title_fa": "جدیدترین: تشدید حملات اسرائیل و آمریکا، ایران مقاومت نشان می‌دهد، سایت هسته‌ای نطنز هدف قرار گرفت",
+        "title_en": "The Latest: Israel intensifying attacks, Iran shows defiance, nuclear site hit",
+        "summary": [
+            "وزیر دفاع اسرائیل تهدید به «تشدید قابل‌توجه» حملات اسرائیل و آمریکا کرد؛ نطنز گزارش شد که در حمله هوایی هدف قرار گرفته است و اسرائیل مسئولیت را رد کرد — این رویارویی نظامی مستقیم فشار خارجی و آسیب ساختاری بر توان دولتی ایران را افزایش می‌دهد.",
+            "حمله‌ای به پایگاه مشترک بریتانیا–آمریکا در دیه‌گو گارسیا و شواهدی که نشان می‌دهد تهران توان پرتاب موشک‌هایی در برد فراتر از آنچه اعلام شده داشته، دامنه بحران را فراتر از منطقه برده و به محک جدی برای قابلیت‌های بازدارندگی و لجستیکی رژیم تبدیل شده است.",
+            "تا کنون هیچ نشانه‌ای از قیام داخلی که آمریکا و اسرائیل به آن امید بسته‌اند ظاهر نشده؛ با این حال تلفات سنگین (بیش از ۱,۳۰۰ در ایران)، آوارگی میلیون‌ها نفر و ادامه جنگ نشان‌دهنده شکست در حفاظت از شهروندان و ضعف مدیریتی و سیاسی حکومت است."
+        ],
+        "impact": "تشدید حملات و اصابت به نطنز همزمان فشار خارجی، تضعیف اقتصادی و خلأ مشروعیت داخلی را افزایش می‌دهد و موقعیت بقای حکومت را به خطر می‌اندازد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Orlando Sentinel",
+        "url": "https://www.orlandosentinel.com/2026/03/21/the-latest-israel-intensifying-attacks-iran-shows-defiance-nuclear-site-hit/",
+        "clean_url": "https://www.orlandosentinel.com/2026/03/21/the-latest-israel-intensifying-attacks-iran-shows-defiance-nuclear-site-hit",
+        "image": "http://www.bing.com/th?id=OVFT.Cu687pQD4W4ngSAHMRHyyi&pid=News",
+        "timestamp": 1774086000.0
+    },
+    {
         "title_fa": "ترامپ: جنگ با ایران «در حال پایان» است؛ تفنگداران آمریکا به خاورمیانه اعزام می‌شوند",
         "title_en": "Iran war 'winding down,' says Trump as Marines head to Middle East: Updates",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-200-us-troops-have-been-wounded-including-10-seriously/ar-AA1YITwK",
         "image": "http://www.bing.com/th?id=ONUT.7SIo_6Ov4E0U2ZYMrNihOQ&pid=News",
         "timestamp": 1773757101.0
-    },
-    {
-        "title_fa": "استدلال برای ایجاد منطقه کنترل آمریکا در خوزستان",
-        "title_en": "The case for a U.S. Zone of Control in Khuzestan",
-        "summary": [
-            "مقاله می‌گوید عملیاتی محدود در خوزستان می‌تواند «قلب اقتصادی» ایران را تسخیر کند بدون ایجاد اشرافیت توسعه‌طلبانه که مداخلات قبلی را شکست داده است.",
-            "طرح به‌عنوان اقدامی استراتژیک و محدود معرفی شده که هدفش ضربه زدن به توان اقتصادی دشمن و تغییر شالوده راهبردی بدون تبدیل شدن به درگیری فراگیر است.",
-            "نویسنده مدعی است امکان اجتناب از «زیاده‌روی تمدنی» وجود دارد و این کار را به‌عنوان نسخه‌ای سبک از اشغال منطقه‌ای با اثرات تحولی توصیه می‌کند."
-        ],
-        "impact": "برقراری چنین منطقه کنترلی از سوی آمریکا فشار اقتصادی و دیپلماتیک بر حکومت تهران را افزایش می‌دهد و همزمان ریسک تشدید تقابل نظامی، تحریک ملی‌گرایی و بی‌ثباتی داخلی را بالا می‌برد.",
-        "tag": "اشغال",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Israel National News",
-        "url": "https://www.israelnationalnews.com/news/424101",
-        "clean_url": "https://www.israelnationalnews.com/news/424101",
-        "image": null,
-        "timestamp": 1773756780.0
     }
 ]
