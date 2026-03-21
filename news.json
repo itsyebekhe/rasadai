@@ -180,6 +180,24 @@
         "timestamp": 1774114384.0
     },
     {
+        "title_fa": "هم‌پیمانان حوثی ایران در کمین گذرگاه نفتی دیگری: دریای سرخ",
+        "title_en": "Iran’s Houthi allies lie in wait on another key oil route: the Red Sea",
+        "summary": [
+            "حوثی‌های تحت حمایت تهران تهدیدها را تشدید کرده‌اند و پس از سال‌ها ایجاد گلوگاه در کشتیرانی، اکنون روی مسیر حیاتی نفتی دریای سرخ تمرکز دارند.",
+            "افزایش این تهدیدها احتمال واکنش دیپلماتیک و تحریم‌های بیشتر علیه تهران و شبکه نیابتی‌اش را افزایش می‌دهد زیرا اختلال در خطوط انرژی واکنش بین‌المللی را برمی‌انگیزد.",
+            "تکیه رژیم بر بازیگران نیابتی برای فشار منطقه‌ای نشان‌دهنده ضعف در مدیریت امنیت و اقتصاد داخلی است و ریسک تشدید تنش‌های منطقه‌ای را بالا می‌برد."
+        ],
+        "impact": "کندی یا قطع عبور نفت از دریای سرخ می‌تواند فشار اقتصادی و سیاسی بر تهران را تشدید کرده و شانس مداخله نظامی یا اعمال تحریم‌های جدید را افزایش دهد.",
+        "tag": "دریاسرخ",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-houthi-allies-lie-in-wait-on-another-key-oil-route-the-red-sea/ar-AA1Z8v9i",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-houthi-allies-lie-in-wait-on-another-key-oil-route-the-red-sea/ar-AA1Z8v9i",
+        "image": "http://www.bing.com/th?id=OVFT.51NT45DiMye64jKnES9ofy&pid=News",
+        "timestamp": 1774108800.0
+    },
+    {
         "title_fa": "جنگ با ایران: اسرائیل حملات را تشدید می‌کند و آمریکا گام‌های بعدی را بررسی می‌کند",
         "title_en": "Iran war: Israel to step up attacks as US mulls next steps",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-17-26",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2154760815-20260317093359720.jpg?c=16x9&q=w_800,c_fill",
         "timestamp": 1773782340.0
-    },
-    {
-        "title_fa": "نتانیاهو امیدوار است حملات به ایران به قیام و تغییر رژیم منتهی شود",
-        "title_en": "Netanyahu Hopes Strikes on Iran Will Lead to Uprising and Regime Change",
-        "summary": [
-            "نیویورک‌تایمز می‌نویسد که نتانیاهو حملات را روی دستگاه‌های امنیت داخلی ایران متمرکز کرده و گزارش‌هایی درج شده که علی خامنه‌ای کشته شده و اسرائیل اعلام کرده علی لاریجانی، مقام ارشد امنیتی، هدف قرار گرفته است؛ نیروهای سرکوب که اعتراض‌های پیاپی را فرو نشاندند نیز بمباران شده‌اند.",
-            "بخش‌هایی از فرماندهان سابق اسرائیل این استراتژی را غیرواقع‌بینانه می‌دانند و می‌گویند نهادهای امنیتی ایران عمیقاً جاافتاده و توانمندند، اما برخی کارشناسان می‌گویند ضربات هوایی ممکن است شرایطی فراهم کند که بدون قیام مردمی به نتیجه نرسد.",
-            "نتانیاهو اعلام کرده که ضربات «ضربات خردکننده» به ساختار امنیتی وارد کرده و علناً مردم ایران را تشویق کرده که زمان خروج برای آزادی «نزدیک‌تر» شده و اسرائیل کنار آنها می‌ایستد."
-        ],
-        "impact": "حملات هدفمند به دستگاه‌های امنیتی توان سرکوب رژیم را تضعیف و شکاف‌های سیاسی را عمق می‌بخشد که می‌تواند اعتراضات را تشدید کند، اما نهادهای سرکوب عمیقاً ریشه‌دارند و هم‌زمان خطر تشدید سرکوب یا فروپاشی کنترل مرکزی وجود دارد.",
-        "tag": "تغییررژیم",
-        "urgency": 10,
-        "sentiment": 0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
-        "clean_url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-iran-war-regime-change.html",
-        "image": "http://www.bing.com/th?id=ONUT.hqfnJl3XEuPX1NhtnHlhwQ&pid=News",
-        "timestamp": 1773781200.0
     }
 ]
