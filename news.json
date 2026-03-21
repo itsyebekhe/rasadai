@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جنگ در خاورمیانه: هدف قرار گرفتن تاسیسات هسته‌ای ایران؛ تلفات روزانه کودکان در لبنان معادل «یک کلاس درس»",
+        "title_en": "War in the Middle East: Iran nuclear facility hit as equivalent of ‘one classroom of children’ killed, wounded daily in Lebanon",
+        "summary": [
+            "گزارش UN News از اصابت به یک تاسیسات هسته‌ای در ایران خبر می‌دهد؛ منبع یا عامل حمله در عنوان گزارش مشخص نشده است.",
+            "سازمان ملل مطابق گزارش اعلام کرده است که در لبنان به‌طور متوسط تعداد کودکان کشته یا زخمی‌شده روزانه معادل «یک کلاس درس» است؛ نشان‌دهنده هزینه بالای انسانی و تلفات غیرنظامی در درگیری‌ها.",
+            "خبر اشاره‌ای به تحریم‌های جدید یا واکنش قدرت‌های بزرگ ندارد؛ با این‌حال ترکیب حمله به تاسیسات هسته‌ای و تلفات مدنی قابل‌توجه می‌تواند فشارهای سیاسی، امنیتی و اقتصادی بر حکومت ایران را تشدید کند و بار مدیریتی و نارضایتی عمومی را افزایش دهد."
+        ],
+        "impact": "هدف‌گیری تاسیسات هسته‌ای همراه با تلفات گسترده غیرنظامیان در لبنان نشانه‌ای از تشدید منطقه‌ای است که حتی بدون تحریم‌های تازه، ثبات سیاسی و توان مدیریتی رژیم را تحت فشار قرار می‌دهد.",
+        "tag": "تصاعد",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "UN News",
+        "url": "https://news.un.org/en/story/2026/03/1167175",
+        "clean_url": "https://news.un.org/en/story/2026/03/1167175",
+        "image": null,
+        "timestamp": 1774118064.0
+    },
+    {
         "title_fa": "جنگ با ایران: اسرائیل حملات را تشدید می‌کند و آمریکا گام‌های بعدی را بررسی می‌کند",
         "title_en": "Iran war: Israel to step up attacks as US mulls next steps",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2JWM1dYWXB5cEFtc3MzSUx4XzNLQ0haNERCUGJ3Qk84M2UtQjJtUUI2UDRKV3lIcEE0VjBGcHJENEZIRWYzOTdjbzNTckdIUlREMEFIbW5JaWY0MmhJNzEtUWhnRDVqYUl5TG02VHZMN1ZxMU9yTDFLNDZlRG84dlQ3SHFTUU5xYmJjZXZR",
         "image": null,
         "timestamp": 1774107135.0
+    },
+    {
+        "title_fa": "چرا آمریکا و اسرائیل به ایران حمله کردند و جنگ چقدر می‌تواند طول بکشد؟",
+        "title_en": "Why did US and Israel attack Iran and how long could the war last?",
+        "summary": [
+            "تیتر به‌تنهایی اطلاعات کافی نمی‌دهد؛ متن کامل باید اهداف سیاسی-نظامی آمریکا و اسرائیل، شواهد ادعاها و دامنه عملیاتی حملات را مشخص کند.",
+            "تحلیل تحریم‌ها / فشار خارجی: هرگونه حمله یا فشار نظامی-دیپلماتیک می‌تواند تضعیف ساختاری در اقتصاد ایران ایجاد کند، ظرفیت حکمرانی را کاهش دهد و نارضایتی اجتماعی را افزایش دهد؛ پیامدهای داخلی و اثر بر پایداری رژیم باید به‌صراحت بررسی شود.",
+            "مدت درگیری وابسته به توان لجستیکی، ذخایر و تداوم ضربات، واکنش بازیگران منطقه‌ای و سطح نارضایتی داخلی است؛ مدیریت اقتصادی ضعیف و شکست در کنترل معیشت عمومی ریسک تشدید ناآرامی‌ها را افزایش می‌دهد."
+        ],
+        "impact": "در صورت تایید حمله، احتمال تشدید سریع به بحران منطقه‌ای و تحمیل هزینه‌های سنگین سیاسی و اقتصادی بر حکومت ایران بسیار بالاست.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw",
+        "image": null,
+        "timestamp": 1774106090.0
     },
     {
         "title_fa": "ایران مدعی حمله آمریکا و اسرائیل به تأسیسات غنی‌سازی نطنز شد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-us-iran-news-escalates-trump-middle-east-dubai-uae-tensions-today-latest-news-liveblog-153851964",
         "image": "http://www.bing.com/th?id=ONUT.8a1qGsfcOLA-WltUKdl6jA&pid=News",
         "timestamp": 1773762660.0
-    },
-    {
-        "title_fa": "ایران از کاهش تنش امتناع کرد؛ اسرائیل مسئول امنیتی ارشد ایران را کشت",
-        "title_en": "Iran rejects de-escalation as Israel kills Iranian security chief",
-        "summary": [
-            "اسرائیل علی لاریجانی، مسئول امنیتی ارشد ایران، را ترور کرد و تهران مرگ او را تایید و اعلام کرد که از هرگونه کاهش تنش امتناع می‌کند.",
-            "کشته شدن یک چهره امنیتی برجسته نشان‌دهنده تشدید مستقیم درگیری‌ها است و احتمال پاسخ‌های نظامی یا عملیات تلافی‌جویانه از سوی تهران را افزایش می‌دهد.",
-            "این رخداد فضای فشار خارجی و انزوای بین‌المللی را تشدید می‌کند و می‌تواند توان حکومت در مدیریت بحران‌های سیاسی و اقتصادی داخلی را بیشتر تضعیف کند؛ در پی آن ریسک نارضایتی عمومی و بی‌ثباتی افزوده می‌شود."
-        ],
-        "impact": "این ترور شانس تشدید درگیری منطقه‌ای را به‌طرز قابل‌توجهی بالا می‌برد و رژیم را هم از منظر امنیتی تضعیف و هم در مدیریت اقتصاد و کنترل اجتماعی در معرض فشارهای بیشتر قرار می‌دهد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-rejects-de-escalation-as-israel-kills-iranecthriverity-chief/ar-AA1YRzDH",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-rejects-de-escalation-as-israel-kills-iranecthriverity-chief/ar-AA1YRzDH",
-        "image": "http://www.bing.com/th?id=ONUT.Mxhi-HgUptWM7V1yC7iIiA&pid=News",
-        "timestamp": 1773762626.0
-    },
-    {
-        "title_fa": "یک مقام ترامپ به‌خاطر جنگ با ایران استعفا داد؛ اسرائیل ادعا می‌کند دو فرمانده ایرانی را کشته است",
-        "title_en": "A Trump official quits over the Iran war, as Israel says it killed 2 Iranian commanders",
-        "summary": [
-            "رسانه‌ها گزارش می‌دهند اسرائیل اعلام کرده علی لاریجانی و غلام‌رضا سلیمانی کشته شده‌اند؛ ایران تا کنون این ادعا را تایید نکرده است.",
-            "استعفای یک مقام دولت ترامپ به‌خاطر اختلاف روی برخورد با ایران انعکاس یافت؛ این شکاف در سیاست آمریکا می‌تواند پیچیدگی فشار خارجی و هزینه‌های دیپلماتیک علیه حاکمیت را افزایش دهد و ساختارهای تداوم قدرت را تضعیف کند.",
-            "اگر خبرها تایید شوند، حذف چهره‌های بلندپایه در این سطح می‌تواند مشروعیت داخلی حکومت را تضعیف کند و احتمال افزایش نارضایتی و مخاطرات پایداری سیاسی را بالا ببرد؛ دولت هنوز واکنشی رسمی اعلام نکرده است."
-        ],
-        "impact": "پیامد فوری: این تحولات می‌تواند تنش‌های نظامی و سیاسی را تشدید و دامنه انزوای بین‌المللی و فشارهای اقتصادی بر حکومت را گسترش دهد.",
-        "tag": "ترور",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/03/17/nx-s1-5750253/israel-kills-two-top-iranian-commanders",
-        "clean_url": "https://www.npr.org/2026/03/17/nx-s1-5750253/israel-kills-two-top-iranian-commanders",
-        "image": "http://www.bing.com/th?id=ONUT.wqC7W7eBw9liF0yIMKGMBA&pid=News",
-        "timestamp": 1773762420.0
     }
 ]
