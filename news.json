@@ -18,6 +18,24 @@
         "timestamp": 1774194614.0
     },
     {
+        "title_fa": "آمریکا و ایران تهدید به گسترش جنگ به نیروگاه‌های منطقه‌ای می‌کنند",
+        "title_en": "U.S. and Iran trade threats of expanding war to the region's power plants",
+        "summary": [
+            "ایران و متحدش حزب‌الله فشار بر اسرائیل را با حملات شدید به شمال و جنوب این کشور تشدید کرده‌اند.",
+            "آمریکا و ایران با تهدید به هدف قرار دادن یا پاسخ به حملات علیه تاسیسات انرژی و نیروگاه‌ها، خطر تبدیل درگیری به موجی فراتر از مرزها را افزایش دادند.",
+            "گسترش این کنش‌ها ریسک آسیب به زیرساخت‌های حیاتی و افزایش فشارهای بین‌المللی را بالا می‌برد و می‌تواند تبعات اقتصادی و امنیتی مشخصی برای منطقه و دولت ایران داشته باشد."
+        ],
+        "impact": "این تهدیدها احتمال گسترش درگیری به تاسیسات حیاتی را بالا می‌برد و رژیم را در معرض فشارهای بین‌المللی بیشتر و تشدید مشکلات اقتصادی و بی‌ثباتی داخلی قرار می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Los Angeles Times",
+        "url": "https://www.msn.com/en-us/news/world/us-and-iran-trade-threats-of-expanding-war-to-the-regions-power-plants/ar-AA1ZaPDE",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-trade-threats-of-expanding-war-to-the-regions-power-plants/ar-AA1ZaPDE",
+        "image": null,
+        "timestamp": 1774193583.0
+    },
+    {
         "title_fa": "مقامات ایران به آمریکا، اسرائیل و اتحادیه اروپا کنایه زدند در میانه حملات هوایی و تلاش‌های ترور",
         "title_en": "Iranian authorities taunt US, Israel, EU amid strikes and assassinations",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://www.cbsnews.com/news/iranian-strikes-southern-israel-arad-dimona",
         "image": null,
         "timestamp": 1774175813.0
+    },
+    {
+        "title_fa": "اولتیماتوم ترامپ به ایران و تهدید تلافی‌جویانه",
+        "title_en": "Live updates: Trump’s ultimatum to Iran draws threat of retaliation",
+        "summary": [
+            "تهدید مستقیم ترامپ به «نابودی» نیروگاه‌های برق ایران و اعلام قصد ایران برای بستن تنگه هرمز و هدف قرار دادن نیروگاه‌ها، رویارویی نظامی مستقیم بین ایالات متحده و جمهوری اسلامی را به کانون تنش تبدیل کرده است.",
+            "این اقدام نظامی-تبلیغاتی خارجی ساختار آسیب‌پذیری رژیم را نشان می‌دهد: فشار نظامی و تهدید به حمله به زیرساخت‎‌های حیاتی، ریسک تضعیف اقتصادی و انزوای بیشتر بین‌المللی را افزایش می‌دهد و توانایی حکومت در مدیریت بحران را زیر سؤال می‌برد.",
+            "مقاله ارتباطی با بازیگران خارجی چون روسیه، چین یا کره شمالی نشان نمی‌دهد؛ هرگونه تحلیل درباره نقش آن‌ها باید به شواهد مستقل متکی باشد. در عین حال، هر اختلال در ترافیک نفتی یا شبکه برق داخلی می‌تواند فشار اقتصادی و نارضایتی اجتماعی را تشدید کند."
+        ],
+        "impact": "این رویارویی احتمال افزایش سریع تنش نظامی و اختلال اقتصادی گسترده در داخل ایران را بالا می‌برد و ثبات حکومتی را در معرض خطر قرار می‌دهد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-03-22-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-22-2026",
+        "image": "http://www.bing.com/th?id=OVFT.Cyvve2Khbgz6IjFvYEvgiy&pid=News",
+        "timestamp": 1774173060.0
     },
     {
         "title_fa": "ایران تهدید به بستن تنگه هرمز و ضربه زدن به نیروگاه‌ها پس از ضرب‌الاجل ۴۸ ساعته ترامپ",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://apnews.com/article/iran-gas-field-south-pars-attack-5ad45090d3b66444467cc255ee966a37",
         "image": "http://www.bing.com/th?id=OVFT.foHTdNtiFRcVwyGB-MWglS&pid=News",
         "timestamp": 1773841380.0
-    },
-    {
-        "title_fa": "تأسیسات انرژی در ایران و قطر هدف حمله قرار گرفت؛ قیمت‌ها به اوج رسید",
-        "title_en": "Energy Facilities Attacked in Iran and Qatar, Sending Prices Soaring",
-        "summary": [
-            "حملات به میدان گازی در ایران و یک مجتمع صنعتی در قطر از مهم‌ترین ضربات به زیرساخت‌های انرژی از زمان آغاز جنگ هوایی آمریکا-اسرائیل علیه ایران بوده و بلافاصله موجب جهش قیمت‌ها در بازار جهانی انرژی شد.",
-            "این حملات، فشار خارجی را به صورت مستقیم بر ستون‌های درآمدی رژیم افزایش می‌دهد؛ آسیب به تولید و صادرات انرژی ساختار مالی رژیم را تضعیف کرده و توانایی پرداخت هزینه‌های امنیتی و شبکه‌های مشتری‌گرایی را کاهش می‌دهد.",
-            "ناتوانی در حفاظت از زیرساخت‌های حیاتی نشان‌دهنده سوءمدیریت و ضعف حکمرانی است؛ اختلال در عرضه و رشد قیمت‌ها شتاب شکوهمندی نارضایتی عمومی را شدت می‌بخشد و ممکن است رژیم را به تشدید سرکوب و انتقال منابع به تقویت امنیت و تعمیرات وادار کند."
-        ],
-        "impact": "آسیب به تاسیسات گازی و صنعتی درآمدهای ارزی و عرضه داخلی انرژی را تحت فشار قرار می‌دهد، تورم و نارضایتی را تشدید و ظرفیت بقای سیاسی رژیم را کاهش خواهد داد.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/18/business/energy-environment/israel-strikes-south-pars-gas-oil-prices.html",
-        "clean_url": "https://www.nytimes.com/2026/03/18/business/energy-environment/israel-strikes-south-pars-gas-oil-prices.html",
-        "image": "http://www.bing.com/th?id=OVFT.Wjs5mNDzkev8Q0vOvnXDdi&pid=News",
-        "timestamp": 1773839820.0
-    },
-    {
-        "title_fa": "تشدید حملات به تاسیسات انرژی ایران؛ کشته شدن وزیر اطلاعات و جهش قیمت نفت",
-        "title_en": "Both sides in Iran war ratchet up attacks on energy facilities, as oil prices surge",
-        "summary": [
-            "اسرائیل کمپین هدف‌گیری رهبران ایران را ادامه داد و وزیر اطلاعات ایران در جریان این ضربات کشته شد.",
-            "یک میدان گاز طبیعی دریایی ایران هدف حمله قرار گرفت؛ حملات به تاسیسات انرژی به وضوح شدت یافته‌اند و خطر آسیب بلندمدت به ظرفیت تولید را افزایش می‌دهند.",
-            "قیمت نفت جهانی جهش کرده است که نشان می‌دهد جنگ مستقیم بر بازارهای انرژی تأثیر می‌گذارد و درآمدهای نفتی ایران در کوتاه‌مدت و بلندمدت با مخاطره مواجه است."
-        ],
-        "impact": "این ترکیب فشار نظامی و ضربه به زیرساخت‌های انرژی ساختار رهبری و توانِ درآمدی دولت را تضعیف می‌کند و با کاهش تولید و افزایش هزینه‌ها احتمال افزایش نارضایتی داخلی و بحران اقتصادی را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "KYTV",
-        "url": "https://www.ky3.com/2026/03/18/both-sides-iran-war-ratchet-up-attacks-energy-facilities-oil-prices-surge/",
-        "clean_url": "https://www.ky3.com/2026/03/18/both-sides-iran-war-ratchet-up-attacks-energy-facilities-oil-prices-surge",
-        "image": "http://www.bing.com/th?id=ONUT.xfkCHYul3HuYnJbb-Q9M5w&pid=News",
-        "timestamp": 1773838860.0
     }
 ]
