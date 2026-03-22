@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "یک کشته در شمال، ۱۵ زخمی در منطقه تل‌آویو در شلیک گسترده ایران و حزب‌الله",
+        "title_en": "One killed in North, 15 wounded in Tel Aviv area in Iranian, Hezbollah barrage",
+        "summary": [
+            "نشریه گزارش می‌دهد که در جریان شلیک گسترده منتسب به ایران و حزب‌الله، یک نفر در شمال کشته و ۱۵ نفر در منطقه تل‌آویو زخمی شدند.",
+            "گزارش جزئیات نوع تسلیحات، اهداف مشخص یا انگیزه عملیات را ارائه نکرده و ابعاد دقیق خسارت و توزیع جغرافیایی نیاز به تأیید بیشتر دارد.",
+            "تیتر عاملان را ایران و حزب‌الله می‌داند؛ پیامدهای سیاسی و نظامی این اقدام برای تعمیق یا تشدید درگیری‌ها هنوز روشن نیست."
+        ],
+        "impact": "این حمله خطر تشدید درگیری منطقه‌ای را بالا می‌برد و در کوتاه‌مدت می‌تواند موجی از فشار دیپلماتیک و اقتصادی علیه تهران ایجاد کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-ca/news/news/one-killed-in-north-15-wounded-in-tel-aviv-area-in-iranian-hezbollah-barrage/ar-AA1Z983R",
+        "clean_url": "https://www.msn.com/en-ca/news/news/one-killed-in-north-15-wounded-in-tel-aviv-area-in-iranian-hezbollah-barrage/ar-AA1Z983R",
+        "image": null,
+        "timestamp": 1774183605.0
+    },
+    {
+        "title_fa": "وزیر دفاع اسرائیل تهدید کرد ایران را ده‌ها سال به عقب برگرداند پس از بمباران شهرهای نقب و تل‌آویو",
+        "title_en": "Defense minister threatens to set Iran back decades after Negev cities, Tel Aviv bombarded",
+        "summary": [
+            "وزیر دفاع اسرائیل در واکنش به بمباران شهرهای نقب و تل‌آویو تهدید کرده که می‌تواند ایران را ده‌ها سال به عقب برگرداند؛ این اظهارات نشانگر گام به سوی تشدید مستقیم نظامی است.",
+            "تشدید حملات و این ادعاها خطر تبدیل درگیری‌های مرزی به تقابل فرامنطقه‌ای را بالا می‌برد و احتمالا منابع نظامی و سیاسی تهران را تحت فشار بیشتری قرار می‌دهد.",
+            "این فضای تنش‌زا می‌تواند آسیب‌پذیری اقتصادی و نارضایتی‌های داخلی را افزایش دهد؛ دولت مرکزی با مدیریت ضعیف اقتصادی و هزینه‌های امنیتی بیش‌تر، توان مانور داخلی و خارجی خود را از دست می‌دهد. "
+        ],
+        "impact": "تهدید علنی به «برگرداندن ایران ده‌ها سال» نشان‌دهنده سطحی از تشدید است که می‌تواند به کاهش تدریجی توان اقتصادی، سیاسی و نظامی تهران و افزایش انزوای بین‌المللی منجر شود.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFWE9hQ293UkpJdjA0OGxQS3N2SzA4US05eGlHSFIwVTZJcUE4MmtrYnVITVo0NnVQQXowM0ZfMkVwVm5DZl9rQy1JbWE5Rzd5RFAyYWZVbmZiWm43RDFrTTg5WdIBaEFVX3lxTE41Zk1wLXJyeTUxdmhvTlBNd0ZkbGdVX21VT1dUZWMzUnVwN29paV9jYk1pNUN2Smthd2R4bWdmQzltc05hQTZQM1NnaTBIMmxHY0IwcVNPNVVMSlRWMzVuSEstZnl0UXJj?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFWE9hQ293UkpJdjA0OGxQS3N2SzA4US05eGlHSFIwVTZJcUE4MmtrYnVITVo0NnVQQXowM0ZfMkVwVm5DZl9rQy1JbWE5Rzd5RFAyYWZVbmZiWm43RDFrTTg5WdIBaEFVX3lxTE41Zk1wLXJyeTUxdmhvTlBNd0ZkbGdVX21VT1dUZWMzUnVwN29paV9jYk1pNUN2Smthd2R4bWdmQzltc05hQTZQM1NnaTBIMmxHY0IwcVNPNVVMSlRWMzVuSEstZnl0UXJj",
+        "image": null,
+        "timestamp": 1774183122.0
+    },
+    {
         "title_fa": "تهدید ترامپ به «نابودی» نیروگاه‌های ایران پس از حمله ایران به دو شهر اسرائیل",
         "title_en": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeHc5c3gtZF90QTNQbXFpSzMtb2J0RGxFaHBPcFNHaVRxWXBLNFYydGhFZHRfZHU3TVNRQi1nekhUUUt1WndNQnBxV1Y3QkE5bXdRRTJqUjFsWEdzNHZ0bWE4SktubmJfRVd3YUxSVzVzMXFicV9YMGF0WE5mckxYUXJmZDFDOXVwRFBUQU1SOWtiRDVWaFpWRXhLY0VXOUE0VUVqc2FlY3FqUEtYZTNMWm1aQTVBVFNRQXppR2hB",
         "image": null,
         "timestamp": 1774178520.0
+    },
+    {
+        "title_fa": "پیامدهای حملات موشکی ایران در نزدیکی مرکز هسته‌ای اسرائیل",
+        "title_en": "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
+        "summary": [
+            "موشک‌های ایرانی به دو جامعه نزدیک مرکز پژوهش‌های هسته‌ای اصلی اسرائیل در نواحی دیمونا و آراد اصابت کرد؛ بیش از ۱۰۰ نفر مجروح شدند و ارتش اسرائیل اعلام کرد نتوانست موشک‌ها را رهگیری کند — این نخستین بار است که این مرکز هدف قرار می‌گیرد.",
+            "حملات چند ساعت پس از حمله هوایی به تاسیسات غنی‌سازی نطنز رخ داد؛ ارتش اسرائیل مسئولیت آن حمله را رد کرده و الگوی وقایع نشان‌دهنده چرخه تلافی و تشدید عملیات است.",
+            "نخست‌وزیر اسرائیل، بنیامین نتانیاهو، از رهبران جهان خواست تا به همراه آمریکا در مقابله با ایران وارد عمل شوند و تأکید کرد که عملیات نظامی ادامه خواهد یافت؛ گزارش اشاره‌ای به تحریم‌های جدید یا اعتراضات داخلی در ایران نکرده است، اما این فراخوان می‌تواند مسیر افزایش فشار بین‌المللی را هموار کند."
+        ],
+        "impact": "این حملات به‌طور مستقیم احتمال تشدید فشار بین‌المللی علیه رژیم ایران و گسترش دامنه نظامی درگیری در منطقه را افزایش می‌دهد، در حالی که گزارش حاضر شواهدی از تأثیرات اقتصادی داخلی یا موج اعتراضات را ارائه نمی‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Al Jazeera",
+        "url": "https://www.cbsnews.com/news/iranian-strikes-southern-israel-arad-dimona/",
+        "clean_url": "https://www.cbsnews.com/news/iranian-strikes-southern-israel-arad-dimona",
+        "image": null,
+        "timestamp": 1774175813.0
     },
     {
         "title_fa": "موشک‌های ایرانی در شهری اسرائیلی وحشت منتشر کردند",
@@ -144,6 +198,24 @@
         "timestamp": 1774162636.0
     },
     {
+        "title_fa": "آمریکا و ایران پس از حملات نزدیک به سایت‌های مرتبط با برنامه‌های هسته‌ای، یکدیگر را به گسترش جنگ تهدید کردند",
+        "title_en": "US and Iran trade threats of expanding war after strikes near sites tied to nuclear programs",
+        "summary": [
+            "تهاجم نظامی: ایران و متحدش حزب‌الله حملات خود علیه شمال و جنوب اسرائیل را تشدید کردند؛ موشک‌های ایرانی به شهرهای آراد و دیمونا اصابت کرد که در نزدیکی مرکز تحقیقات هسته‌ای نِگِو قرار دارد و ده‌ها نفر مجروح شدند؛ شهروندان و مقام‌های اسرائیلی صحنه‌ها را بازدید کردند.",
+            "فشار خارجی و پاسخ تهران: رئیس‌جمهور آمریکا تهدید کرد در صورت باز نشدن تنگه هرمز ظرف ۴۸ ساعت نیروگاه‌های ایران را نابود خواهد کرد؛ سخنگوی مجلس ایران پاسخ داد که در صورت اجرایی شدن، تهران زیرساخت‌های انرژی و گسترده‌تری از آمریکایی و اسرائیلی را هدف قرار خواهد داد — تهدیدهایی که مستقیم زیرساخت‌های حیاتی اقتصادی و انرژی ایران را هدف گرفته و فشار راهبردی بر رژیم را افزایش می‌دهد.",
+            "پیامدهای داخلی و سیاسی: تصویرهای مراسم تشییع علی‌محمد نائینی (سخنگوی سپاه) و دیگر کشته‌ها نشان می‌دهد هزینه انسانی برای نیروهای رژیم در حال افزایش است؛ تشدید درگیری‌ها و تهدید به حمله به تاسیسات انرژی، اقتصاد ضعیف و مدیریت ناکارآمد را تحت فشار بیشتر قرار می‌دهد و احتمال افزایش نارضایتی عمومی و فرسایش مشروعیت حکومتی را بالا می‌برد."
+        ],
+        "impact": "اقدامات و تهدیدهای متقابل، محدوده درگیری را فراتر از مرزها و به زیرساخت‌های انرژی و هسته‌ای می‌برد، که به‌طور همزمان ظرفیت اقتصادی رژیم را تضعیف و پذیرش آن را در داخل کاهش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Orlando Sentinel",
+        "url": "https://www.orlandosentinel.com/2026/03/22/us-and-iran-trade-threats-of-expanding-war-after-strikes-near-sites-tied-to-nuclear-programs/",
+        "clean_url": "https://www.orlandosentinel.com/2026/03/22/us-and-iran-trade-threats-of-expanding-war-after-strikes-near-sites-tied-to-nuclear-programs",
+        "image": null,
+        "timestamp": 1774160640.0
+    },
+    {
         "title_fa": "اسرائیل می‌گوید حملات علیه ایران تشدید خواهند شد",
         "title_en": "Israel says attacks on Iran will be intensified",
         "summary": [
@@ -160,6 +232,24 @@
         "clean_url": "https://www.fox7austin.com/news/iran-war-continues-no-end-sight",
         "image": null,
         "timestamp": 1774160433.0
+    },
+    {
+        "title_fa": "آیا ایران به پایگاه مشترک آمریکا و بریتانیا در دیه‌گو گارسیا موشک زد؟",
+        "title_en": "Did Iran launch missiles at US-UK base on Diego Garcia? Here’s what to know",
+        "summary": [
+            "گزارش‌های رسانه‌های آمریکایی از شلیک دو موشک بالستیک به‌سمت پایگاه مشترک آمریکا و بریتانیا در جزیره دیه‌گو گارسیا خبر داده‌اند؛ به‌گزارش وال‌استریت‌ژورنال و سی‌ان‌ان یکی از موشک‌ها در میانهٔ راه دچار نقص شد و دیگری به‌گفته منابع توسط یک رهگیر دریایی آمریکا منهدم شد؛ تهران این اتهام را تکذیب کرده و دولت آمریکا هنوز اظهارنظر رسمی منتشر نکرده است.",
+            "ادعای فرمانده نظامی اسرائیل درباره استفاده از موشک بین‌قاره‌ای دو‌مرحله‌ای با برد حدود ۴۰۰۰ کیلومتر و تصمیم بریتانیا برای تسهیل استفاده آمریکا از پایگاه‌هایش نشان می‌دهد این رخداد می‌تواند محاسبات راهبردی جنگ را تغییر دهد و زمینه را برای تشدید فشارهای نظامی و دیپلماتیک علیه تهران فراهم سازد.",
+            "مقاله اشاره می‌کند که برخی ناظران بین‌المللی و منابع مستقل اعلام کرده‌اند ایران در آستانه ساخت بمب هسته‌ای نیست و به‌کارگیری این ادعاها برای توجیه جنگ، هم هزینه‌های خارجی را برای رژیم افزایش می‌دهد و هم به‌دلیل سوءمدیریت و فقدان شفافیت می‌تواند نارضایتی داخلی و ضعف مشروعیت حاکمیت را تشدید کند."
+        ],
+        "impact": "این واقعه احتمالاً منجر به تشدید فشارهای نظامی و دیپلماتیک، افزایش هزینه‌های اقتصادی برای رژیم و بالارفتن ریسک واکنش‌های تلافی‌جویانه و انزوای بین‌المللی خواهد شد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/did-iran-launch-missiles-us-130357115.html",
+        "clean_url": "https://www.yahoo.com/news/articles/did-iran-launch-missiles-us-130357115.html",
+        "image": null,
+        "timestamp": 1774160400.0
     },
     {
         "title_fa": "پیامدهای اقتصادی فاجعه‌بار یک جنگ طولانی‌مدت با ایران",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/videos/israel-says-2-top-iranian-175326207.html",
         "image": null,
         "timestamp": 1773828878.0
-    },
-    {
-        "title_fa": "ایران کشته شدن وزیر اطلاعات را تأیید کرد؛ اسرائیل همچنان رهبران را هدف قرار می‌دهد",
-        "title_en": "The Latest: Iran confirms killing of intelligence minister as Israel keeps targeting leaders",
-        "summary": [
-            "وزیر اطلاعات ایران توسط نیروهای اسرائیلی کشته شده؛ رسانه‌ها این حادثه را بخشی از سلسله ترورها برای تضعیف نهادها و صنعت ملی گزارش کرده‌اند.",
-            "این اقدام تعادل رهبری و ظرفیت عملیاتی دستگاه‌های اطلاعاتی و امنیتی را مختل می‌کند و خلأ مدیریتی در تصمیم‌گیری راهبردی ایجاد خواهد کرد.",
-            "فشار خارجی و هدف‌گیری رهبران کلیدی هزینه‌های سیاسی و اقتصادی را بالا می‌برد و توانایی رژیم در مدیریت بحران‌های داخلی و صنعتی را کاهش می‌دهد."
-        ],
-        "impact": "این ترور شتاب‌گیرنده زوال کارآمدی نهادهای امنیتی و افزایش هزینه‌های سیاسی-اقتصادی است که نیاز به بازسازی عمیق مدیریت و ساختارها را تحمیل می‌کند.",
-        "tag": "بی‌ثباتی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Times Union",
-        "url": "https://www.timesunion.com/business/article/the-latest-iran-attacks-israel-and-gulf-22082963.php",
-        "clean_url": "https://www.timesunion.com/business/article/the-latest-iran-attacks-israel-and-gulf-22082963.php",
-        "image": "http://www.bing.com/th?id=ONUT.no7yb_wzqg4bkGSec0lIXQ&pid=News",
-        "timestamp": 1773826260.0
-    },
-    {
-        "title_fa": "بحران ایران سایه‌روشن بر اجلاس آتی تاکایچی با ترامپ",
-        "title_en": "Iran conflict looms large over Takaichi's upcoming summit with Trump, experts say",
-        "summary": [
-            "تمرکز بحران ایران در نشست آتی تاکایچی و ترامپ نشان می‌دهد تهران به متغیر مرکزی امنیت منطقه‌ای تبدیل شده و پرونده ایران محور مذاکرات خواهد بود.",
-            "این تمرکز احتمال تشدید فشارهای دیپلماتیک و تحریمی را افزایش می‌دهد که ساختارهای اقتصادی و توان بقا سیاسی رژیم را تضعیف می‌کند.",
-            "افزایش فشار خارجی می‌تواند نارضایتی‌های داخلی ناشی از سوءمدیریت اقتصادی را تشدید کند؛ اما دامنه پیامدها وابسته به نتایج مشخص مذاکرات است."
-        ],
-        "impact": "تمرکز این دیدار بر بحران ایران احتمال افزایش فشار بین‌المللی بر تهران و محدودتر شدن گزینه‌های حکومت در سطح منطقه‌ای و داخلی را بالا می‌برد.",
-        "tag": "ایران",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUE9QVFBRdVJKTzNsUXp5YUxTNnJaLS1oSWVuMXJwSmhaTVF1SlZYOXFsWEpicEh0MzNad09QT3libGVFUVpJTVpmeFpERVRTXzZWT3RmQVVIZHRSa0RzSlh1UzZKTEVKQkx0YVBMREpyVXdlUE5RbDFYd09ibW51dkNUNDMzb0VqdDZPYWFIb2dzaFZEa0RSREhMMWZJaTZiUlNVdGdoOGlEd2VuWEHSAbMBQVVfeXFMUGIydndncHpYWVFzOGpBRGxMNk02OXhVQ1E3N2x2UlRlMUZsRFdGaWRlZmhEYm1fRTd1cDI1QUR0aUVvUXBJeG5VY0ZWUFYxSU41SVNpb3dYYW5XcUt2c21TSDN3dFozU3lkUHFXQ2hVbGdLaVN5SkpVUnVPWDMwTDNpN01PN29rZlZYVkxlMUd2Mm1udFhYeUg1OHFMeWU3NmNzSDJxV29ZSktBbTYyWDVNUGs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUE9QVFBRdVJKTzNsUXp5YUxTNnJaLS1oSWVuMXJwSmhaTVF1SlZYOXFsWEpicEh0MzNad09QT3libGVFUVpJTVpmeFpERVRTXzZWT3RmQVVIZHRSa0RzSlh1UzZKTEVKQkx0YVBMREpyVXdlUE5RbDFYd09ibW51dkNUNDMzb0VqdDZPYWFIb2dzaFZEa0RSREhMMWZJaTZiUlNVdGdoOGlEd2VuWEHSAbMBQVVfeXFMUGIydndncHpYWVFzOGpBRGxMNk02OXhVQ1E3N2x2UlRlMUZsRFdGaWRlZmhEYm1fRTd1cDI1QUR0aUVvUXBJeG5VY0ZWUFYxSU41SVNpb3dYYW5XcUt2c21TSDN3dFozU3lkUHFXQ2hVbGdLaVN5SkpVUnVPWDMwTDNpN01PN29rZlZYVkxlMUd2Mm1udFhYeUg1OHFMeWU3NmNzSDJxV29ZSktBbTYyWDVNUGs",
-        "image": null,
-        "timestamp": 1773824898.0
-    },
-    {
-        "title_fa": "حمله به میدان گازی پارس جنوبی ایران؛ جهش شدید قیمت‌های انرژی",
-        "title_en": "Iran’s South Pars Gas Field Is Attacked, Sending Energy Prices Soaring",
-        "summary": [
-            "میدان پارس جنوبی، بخشی از مخزن گازی مشترک با قطر، هدف حمله‌ای قرار گرفت که به نظر می‌رسید از زمان آغاز جنگ هوایی آمریکا و اسرائیل علیه ایران بارزترین حمله به تاسیسات انرژی باشد.",
-            "خبر حمله به سرعت باعث جهش قیمت‌های انرژی شد و این حادثه می‌تواند تولید و صادرات گاز را مختل کند؛ در نتیجه درآمدهای ارزی دولت و توان مالی مدیریت بحران تحت فشار بیشتر قرار می‌گیرند.",
-            "حمله نشان‌دهنده افزایش شدت درگیری‌ها و آسیب‌پذیری زیرساخت‌های حیاتی است؛ در ترکیب با فشارهای خارجی و تحریم‌ها، این اختلال‌ها ساختار اقتصادی و مشروعیت سیاسی رژیم را تضعیف کرده و زمینه افزایش نارضایتی داخلی را فراهم می‌کند."
-        ],
-        "impact": "این حمله ریسک تشدید جنگ را بالا برده، اختلال بلندمدت در درآمدهای انرژی ایران ایجاد می‌کند و شکنندگی سیاسی رژیم را تقویت می‌کند.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html",
-        "clean_url": "https://www.nytimes.com/2026/03/18/world/middleeast/israel-strikes-south-pars-gas-oil-prices.html",
-        "image": "http://www.bing.com/th?id=ONUT.4M6zJkF2GzZIi1FavDUfdw&pid=News",
-        "timestamp": 1773824520.0
-    },
-    {
-        "title_fa": "اسرائیل ادعای قتل یک رهبر ایرانی را مطرح کرد؛ اما این به معنای پیروزی در جنگ نیست",
-        "title_en": "Israel says it killed another Iranian leader, but that doesn't mean it's winning the war",
-        "summary": [
-            "NBC گزارش می‌دهد اسرائیل مدعی کشته‌شدن یک «رهبر ایرانی» شده است؛ ضربه‌های هدفمند ممکن است فشار خارجی و انزوای بین‌المللی رژیم را افزایش دهد اما فروپاشی ساختاری را فوراً تضمین نمی‌کند.",
-            "ادعای کشته‌شدن یک مقام به‌تنهایی نشانه پیروزی راهبردی نیست؛ جنگ گسترده‌تر است و پیامدهای سیاسی و نظامی منطقه‌ای تعیین‌کننده موفقیت یا شکست خواهند بود.",
-            "این گونه عملیات می‌تواند خشم داخلی را تشدید کند؛ حکومتی که با سوءمدیریت اقتصادی و کاهش مشروعیت روبه‌رو است ممکن است یا به سرکوب داخلی متوسل شود یا برای بسیج ملی اقدام کند — هر دو مسیر ریسک بی‌ثباتی را افزایش می‌دهد."
-        ],
-        "impact": "ادعای اسرائیل، حتی در صورت صحت، احتمال تشدید تنش‌ها و واکنش‌های تلافی‌جویانه را بالا می‌برد و تضمینی برای برنده‌شدن در صحنه راهبردی فراهم نمی‌کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": 0.4,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjB3UHo3TlZBSklpSEV4d2UyMWllY3pNelROT2psUUNTUE8zZDZqQjUwZTd2aFJTQko4UFl5Nml6V0hMQmU4MFJzMmplV1JMQ2hacGNUaFRvTlFxc3N2TkxXNGJIT2hSbDBTTmV6bXViSkgtUW01aTB6Z09aYXVJRk9sNDMyaWRtdHZ2a21OUVotVnlUMXNqc2pabkZaZjBWRjhHVFdsdWY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjB3UHo3TlZBSklpSEV4d2UyMWllY3pNelROT2psUUNTUE8zZDZqQjUwZTd2aFJTQko4UFl5Nml6V0hMQmU4MFJzMmplV1JMQ2hacGNUaFRvTlFxc3N2TkxXNGJIT2hSbDBTTmV6bXViSkgtUW01aTB6Z09aYXVJRk9sNDMyaWRtdHZ2a21OUVotVnlUMXNqc2pabkZaZjBWRjhHVFdsdWY",
-        "image": null,
-        "timestamp": 1773824400.0
-    },
-    {
-        "title_fa": "جنگ در شرایط تنگ",
-        "title_en": "War in Straitened Circumstances",
-        "summary": [
-            "متن کامل مقاله در اختیار قرار نگرفته؛ بر پایه عنوان تنها نمی‌توان ادعاها یا استدلال‌های مشخص را تأیید یا رد کرد.",
-            "بدون دسترسی به محتوای مقاله، امکان تحلیل اثرات تحریم‌ها، نقش بازیگران خارجی، یا وضعیت اعتراضات داخلی براساس چارچوب تحلیلی خواسته‌شده وجود ندارد.",
-            "برای ارزیابی واقعی و دقیق باید متن کامل مقاله یا نقل‌قول‌های مرتبط ارائه شود؛ هر تحلیل فراتر از این حد، ساختگی یا گمراه‌کننده خواهد بود."
-        ],
-        "impact": "قضاوت تحلیلی درباره پیامدها ممکن نیست تا زمانی که متن کامل مقاله در دسترس باشد.",
-        "tag": "نامشخص",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Quillette",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXBHLXRMajhldjA4QXVNZDZlRHlhX2xicVFreGRUTmhHQXFaNTBXcWZzcWtZRDRiRlpoSlBpSlU0amNzTkpGOUZJZlRzYUhDR3dlMmlzeU1McUE5T3J6bDd4U1FyMU1OMGZHWVl5Rm5UOFFOYVF6d0FqeXduYUd4aUpCcVN5c3BvTUtaWTEybzc4M3dQTFVBdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQXBHLXRMajhldjA4QXVNZDZlRHlhX2xicVFreGRUTmhHQXFaNTBXcWZzcWtZRDRiRlpoSlBpSlU0amNzTkpGOUZJZlRzYUhDR3dlMmlzeU1McUE5T3J6bDd4U1FyMU1OMGZHWVl5Rm5UOFFOYVF6d0FqeXduYUd4aUpCcVN5c3BvTUtaWTEybzc4M3dQTFVBdw",
-        "image": null,
-        "timestamp": 1773823838.0
     }
 ]
