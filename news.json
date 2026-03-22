@@ -198,6 +198,24 @@
         "timestamp": 1774178520.0
     },
     {
+        "title_fa": "تهدید ترامپ و واکنش ایران خطر قطع عرضه انرژی را بالا برد",
+        "title_en": "The Latest: New threats from Trump and Iran heighten risks to energy supplies",
+        "summary": [
+            "تهدید دونالد ترامپ به «نابودی» نیروگاه‌های ایران در صورت باز نشدن کامل تنگه هرمز طی ۴۸ ساعت، و اعلام ایران درباره پاسخ به هدف‌گیری تاسیسات انرژی و زیرساخت‌های آمریکا و اسرائیل، تنش را به سوی مقابله مستقیم نظامی برده است.",
+            "شلیک موشکی ایران به دو شهرک در جنوب اسرائیل و پاسخ‌های هوایی/موشکی منطقه‌ای، همراه با تلفات گسترده و جابجایی میلیون‌ها نفر در ایران و لبنان، نشان‌دهنده تشدید بحران انسانی و تخریب زیرساخت‌هاست؛ تلفات اعلام‌شده شامل بیش از 1,500 نفر در ایران و بیش از 1,000 نفر در لبنان است.",
+            "فشار خارجی برای تضمین عبور کشتی‌ها از هرمز و افزایش قیمت نفت، همراه با فراخوان‌هایی از اروپا برای حفظ تاسیسات انرژی، مسیر جنگ را به نقطه‌ای کرده که ریسک اختلال گسترده در عرضه انرژی جهانی و تشدید هزینه‌های اقتصادی منطقه را بالا برده است."
+        ],
+        "impact": "تهدیدها و حملات اخیر احتمال قطع یا اختلال در عبور نفت از تنگه هرمز را افزایش می‌دهد و در کوتاه‌مدت عرضه جهانی انرژی و ثبات اقتصادی رژیم در داخل را تحت فشار جدی قرار می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/latest-trump-says-us-obliterate-042439744.html",
+        "clean_url": "https://www.yahoo.com/news/articles/latest-trump-says-us-obliterate-042439744.html",
+        "image": "http://www.bing.com/th?id=OVFT.D2orb4sLjW4s07ck8S_OLC&pid=News",
+        "timestamp": 1774178400.0
+    },
+    {
         "title_fa": "پیامدهای حملات موشکی ایران در نزدیکی مرکز هسته‌ای اسرائیل",
         "title_en": "Aftermath of Iranian missile strikes near Israel’s nuclear facility",
         "summary": [
@@ -268,6 +286,24 @@
         "clean_url": "https://www.usatoday.com/story/news/politics/2026/03/22/iran-war-oil-gas-prices/89274321007",
         "image": null,
         "timestamp": 1774172700.0
+    },
+    {
+        "title_fa": "سفیر آمریکا در سازمان ملل: اگر تنگه هرمز تا دوشنبه باز نشود، بزرگ‌ترین نیروگاه ایران را نابود خواهیم کرد",
+        "title_en": "Ambassador Waltz: U.S. Will Destroy Iran's Largest Power Plant If Strait of Hormuz Isn't Reopened Monday",
+        "summary": [
+            "مایکل والتز، سفیر آمریکا در سازمان ملل، با تعیین ضرب‌الاجل تا دوشنبه تهدید کرد در صورت باز نشدن تنگه هرمز، هدف قرار دادن و از کار انداختن بزرگ‌ترین نیروگاه ایران را اعلام خواهد کرد.",
+            "این اظهارنظر یک تهدید علنی به حمله بر زیرساخت انرژی غیرنظامی است که سطح تنش را از مانور دیپلماتیک به خطر برخورد نظامی مستقیم ارتقاء می‌دهد و امکان واکنش تلافی‌جویانه و گسترش درگیری را بالا می‌برد.",
+            "حمله به بزرگ‌ترین نیروگاه پیامدهای اقتصادی و انسانی گسترده خواهد داشت: خاموشی‌های سراسری، اختلال در تولید و خدمات حیاتی، تشدید نارضایتی عمومی و افزایش آسیب‌پذیری سیاسی رژیم در مواجهه با مدیریت ناکارآمد داخلی."
+        ],
+        "impact": "این تهدید صریح شانس تبدیل تنش فعلی به درگیری نظامی و تخریب زیرساخت‌های حیاتی را افزایش می‌دهد و ثبات داخلی و قابلیت حکومت‌داری رژیم را به شدت تضعیف می‌کند.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "RealClearPolitics",
+        "url": "https://www.realclearpolitics.com/video/2026/03/22/waltz_us_will_strike_irans_largest_power_plant_if_strait_of_hormuz_isnt_reopened_monday.html?video",
+        "clean_url": "https://www.realclearpolitics.com/video/2026/03/22/waltz_us_will_strike_irans_largest_power_plant_if_strait_of_hormuz_isnt_reopened_monday.html",
+        "image": "http://www.bing.com/th?id=OVFT.VwILQyBQhlr3Anyf8HLWPi&pid=News",
+        "timestamp": 1774171980.0
     },
     {
         "title_fa": "ایران تهدید به بستن تنگه هرمز و ضربه زدن به نیروگاه‌ها پس از ضرب‌الاجل ۴۸ ساعته ترامپ",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/very-difficult-to-stop-bbc-visits-scene-of-iran-cluster-bomb-strike-on-israel/ar-AA1YVbJB",
         "image": null,
         "timestamp": 1773849869.0
-    },
-    {
-        "title_fa": "گابارد به سناتورها گفت رژیم ایران تضعیف شده اما هنوز پابرجاست",
-        "title_en": "Gabbard tells senators Iranian regime is degraded but still intact",
-        "summary": [
-            "گابارد در نشست با سناتورها گفت که رژیم ایران تضعیف‌شده است اما هنوز به‌طور کلی پابرجا مانده؛ این یک ارزیابی مستقیم از وضعیت کنونی قدرت است.",
-            "این ارزیابی نشان می‌دهد فشارهای خارجی و اقداماتی که علیه رژیم اعمال شده ساختارهای قدرت را تخریب کرده‌اند اما کافی نبوده‌اند تا فروپاشی اجتناب‌ناپذیر ایجاد کنند؛ یعنی تضعیف جزئی اما ادامه بقا.",
-            "توصیف «تضعیف‌شده اما پابرجا» دلالت بر شکست مدیریت داخلی و آسیب‌پذیری سیاسی دارد و ریسک تشدید نارضایتی عمومی و بحران اقتصادی را افزایش می‌دهد مگر اینکه تغییر ساختاری رخ دهد."
-        ],
-        "impact": "این اظهارنظر می‌تواند مشروعیت سیاسی داخلی رژیم را بیشتر تضعیف و در عین حال گزینه‌های سیاست خارجی را برای تشدید فشار توجیه کند، اما فروپاشی فوری را رد می‌کند.",
-        "tag": "ایران",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/03/18/tulsi-gabbard-iran-intelligence-hearing/",
-        "clean_url": "https://www.washingtonpost.com/national-security/2026/03/18/tulsi-gabbard-iran-intelligence-hearing",
-        "image": null,
-        "timestamp": 1773848900.0
-    },
-    {
-        "title_fa": "بیانیه نادر مجتبی خامنه‌ای نوید انتقام از قتل علی لاریجانی را داد",
-        "title_en": "The Latest: A rare statement from Iran’s supreme leader signals retaliation over Larijani’s killing",
-        "summary": [
-            "مجتبی خامنه‌ای به‌صورت نادری بیانیه مکتوب صادر کرد و وعدهٔ تلافی برای ترور علی لاریجانی را اعلام کرد؛ خودِ شکل نادر این واکنش نشان‌دهنده شدت واقعه و خلأ اطمینان در سطوح عالی امنیتی است.",
-            "این اعلام رسمی رژیم را به سمت تمرکز بر عملیات تلافی‌جویانه و افزایش اقدامات امنیتی و سرکوب داخلی سوق می‌دهد؛ احتمال دارد این اقدامات برای منحرف‌کردن نارضایتی عمومی ناشی از ناکارآمدی‌های ساختاری اقتصادی و سیاسی به کار رود.",
-            "ریسک تشدید تنش‌های منطقه‌ای افزایش یافته و واکنش تلافی‌جویانه می‌تواند به تحریم‌ها و فشار خارجی بیشتر بینجامد یا به‌عنوان پوششی برای تحکیم کنترل داخلی مورد استفاده قرار گیرد."
-        ],
-        "impact": "این رخداد ثبات نهادهای امنیتی و سیاسی رژیم را تضعیف کرده و احتمال تلافی‌جویی و سرکوب داخلی را افزایش می‌دهد که فشارهای داخلی و خارجی را تشدید خواهد کرد.",
-        "tag": "تلافی",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "WPLG Local 10",
-        "url": "https://www.local10.com/news/world/2026/03/18/the-latest-a-rare-statement-from-irans-supreme-leader-signals-retaliation-over-larijanis-killing/",
-        "clean_url": "https://www.local10.com/news/world/2026/03/18/the-latest-a-rare-statement-from-irans-supreme-leader-signals-retaliation-over-larijanis-killing",
-        "image": "http://www.bing.com/th?id=ONUT.eNioWeoG514ZYDwy_r04Tg&pid=News",
-        "timestamp": 1773848880.0
     }
 ]
