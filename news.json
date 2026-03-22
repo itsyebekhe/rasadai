@@ -180,6 +180,24 @@
         "timestamp": 1774183122.0
     },
     {
+        "title_fa": "اسرائیل فکر می‌کرد می‌تواند شورش در داخل ایران را برانگیزد؛ این اتفاق نیفتاده است",
+        "title_en": "Israel Thought It Could Spur Rebellion Inside Iran. That Hasn’t Happened.",
+        "summary": [
+            "طرح اسرائیل برای شعله‌ور کردن قیام داخلی که ترامپ امید داشت جنگ را سریع خاتمه دهد، تاکنون به نتیجه نرسیده است.",
+            "ناکامی این اقدام نشان می‌دهد فشارهای خارجی و تلاش‌های تحریک‌آمیز به تنهایی توانِ فروپاشی سریعِ ساختار حکومتی را ندارند و اثرات فوری محدود بوده است.",
+            "ضعف حکمرانی و نارضایتی در ایران ادامه دارد اما تبدیل این نارضایتی به شورش فراگیر صورت نگرفته و عرصه داخلی هنوز برای مخالفان فرصت‌سنجی محدود است."
+        ],
+        "impact": "نتیجه عملی: بازیگران خارجی نمی‌توانند صرفاً از بیرون قیام داخلی را خلق کنند؛ تمرکز واقعی باید بر بهره‌برداری از ضعف‌های داخلی و سازمان‌دهیِ پایدارِ اعتراضات باشد.",
+        "tag": "شورش",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html",
+        "clean_url": "https://www.nytimes.com/2026/03/22/us/politics/iran-israel-trump-netanyahu-mossad.html",
+        "image": null,
+        "timestamp": 1774179900.0
+    },
+    {
         "title_fa": "تهدید ترامپ به «نابودی» نیروگاه‌های ایران پس از حمله ایران به دو شهر اسرائیل",
         "title_en": "Trump threatens to 'obliterate' Iran's power plants as Iran strikes 2 Israeli cities",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.foxnews.com/politics/gabbard-sidesteps-iran-imminent-threat-claim-under-senate-grilling",
         "image": "http://www.bing.com/th?id=ONUT.t-aWLit6SasNFpY4fIv0sw&pid=News",
         "timestamp": 1773850080.0
-    },
-    {
-        "title_fa": "«خیلی سخت است متوقف کردن»: گزارش بی‌بی‌سی از محل حمله ایران با بمب‌های خوشه‌ای به اسرائیل",
-        "title_en": "'Very difficult to stop': BBC visits scene of Iran cluster bomb strike on Israel",
-        "summary": [
-            "بی‌بی‌سی از صحنه‌ای گزارش می‌دهد که به حمله‌ای نسبت داده شده به ایران با استفاده از مهمات خوشه‌ای منتهی شده و نقل‌قول «خیلی سخت است متوقف کردن» بر مشکل رهگیری یا خنثی‌سازی این نوع سلاح‌ها دلالت دارد.",
-            "استفاده از مهمات خوشه‌ای احتمال واکنش بین‌المللی و افزایش فشار سیاسی و تحریمی را بالا می‌برد؛ حتی در صورت عدم اعمال فوری تحریم‌های جدید، ریسک پیامدهای ساختاری اقتصادی که ثبات رژیم را تضعیف می‌کند، جدی است.",
-            "فشارهای بالقوه نظامی و دیپلماتیک می‌تواند هزینه‌های اقتصادی، اختلال در روابط تجاری و انزوای بین‌المللی را تشدید کند — بازتابی از ناکارآمدی در مدیریت و عاملی که ریسک افزایش نارضایتی عمومی را بالا می‌برد."
-        ],
-        "impact": "این حمله می‌تواند شتاب‌دهنده‌ای برای تشدید فشارهای بین‌المللی و تضعیف ثبات داخلی رژیم باشد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/world/very-difficult-to-stop-bbc-visits-scene-of-iran-cluster-bomb-strike-on-israel/ar-AA1YVbJB",
-        "clean_url": "https://www.msn.com/en-us/news/world/very-difficult-to-stop-bbc-visits-scene-of-iran-cluster-bomb-strike-on-israel/ar-AA1YVbJB",
-        "image": null,
-        "timestamp": 1773849869.0
     }
 ]
