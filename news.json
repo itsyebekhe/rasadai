@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جنگ ایران به روایت نقشه‌ها و نمودارها",
+        "title_en": "The Iran war in maps and charts",
+        "summary": [
+            "عنوان نشان می‌دهد مقاله تصویری و داده‌محور است و با استفاده از نقشه‌ها و نمودارها خطوط نبرد، گستره جغرافیایی درگیری و روندهای کلیدی مرتبط با «جنگ ایران» را ترسیم می‌کند؛ بدون متن کامل نمی‌توان جزئیات را تأیید کرد.",
+            "در صورت وجود بخش‌هایی درباره تحریم‌ها یا فشار خارجی، این نمودارها باید بر تضعیف ساختاری اقتصاد و توان لجستیکی رژیم و پیامدهای سیاسی داخلی و اقتصادی ناشی از این فشارها دلالت کنند؛ هر تحلیل باید به شواهد درون‌مقاله متکی باشد.",
+            "هر ادعایی درباره اعتراضات داخلی، ناکارآمدی حکمرانی یا سقوط اقتصادی باید بر داده‌های نقشه‌ای و آماری مقاله استوار باشد؛ غیاب متن کامل اجازه نمی‌دهد روابط علّی یا آمار خاصی را فراتر از آنچه عنوان نشان می‌دهد معتبر بدانیم."
+        ],
+        "impact": "یک مروری تصویری می‌تواند نقاط ضعف لجستیکی و تغییرات جغرافیایی در میدان درگیری را برای ناظران و تصمیم‌گیرندگان روشن کند و بنابراین در ارزیابی ثبات رژیم و پیامدهای استراتژیک اهمیت دارد.",
+        "tag": "نقشه‌ها",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Economist",
+        "url": "https://www.msn.com/en-us/news/world/visualizing-the-us-israeli-war-with-iran-and-retaliation-in-maps-and-charts/ar-AA1XguTq",
+        "clean_url": "https://www.msn.com/en-us/news/world/visualizing-the-us-israeli-war-with-iran-and-retaliation-in-maps-and-charts/ar-AA1XguTq",
+        "image": null,
+        "timestamp": 1774155134.0
+    },
+    {
         "title_fa": "عربستان از اتشه نظامی و چهار کارمند سفارت ایران خواست کشور را ترک کنند",
         "title_en": "Saudi Arabia orders Iranian military attache, four embassy staff to leave",
         "summary": [
@@ -340,6 +358,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2JWM1dYWXB5cEFtc3MzSUx4XzNLQ0haNERCUGJ3Qk84M2UtQjJtUUI2UDRKV3lIcEE0VjBGcHJENEZIRWYzOTdjbzNTckdIUlREMEFIbW5JaWY0MmhJNzEtUWhnRDVqYUl5TG02VHZMN1ZxMU9yTDFLNDZlRG84dlQ3SHFTUU5xYmJjZXZR",
         "image": null,
         "timestamp": 1774107135.0
+    },
+    {
+        "title_fa": "ایران موشک‌هایی به پایگاه نظامی آمریکا و بریتانیا در اقیانوس هند شلیک کرد؛ چه چیزهایی درباره برد و قابلیت‌های موشکی‌اش نشان می‌دهد",
+        "title_en": "Iran launched missiles at US-UK military base in the Indian Ocean. Here’s what that says about its capabilities",
+        "summary": [
+            "گزارش می‌گوید ایران تلاش کرد به پایگاهی متعلق به آمریکا و بریتانیا در بیش از ۳۰۰۰ کیلومتری سواحل خود موشک شلیک کند؛ این واقعیت سوالاتی جدی درباره برد عملیاتی و توان هدایت موشکی تهران مطرح می‌کند.",
+            "عملیات نشان‌دهنده توان بالقوه برای پروجکت‌کردن نیرو فراتر از منطقه نزدیک به کشور است و می‌تواند موجب افزایش تدابیر دفاعی و هشدارگری‌های آمریکا و متحدانش و نیز تشدید ریسک تشدید نظامی شود.",
+            "خبر منبع هیچ اشاره‌ای به پیامدهای داخلی مثل اعتراضات یا اثرات اقتصادی مستقیم نکرد؛ بنابراین ارزیابی درباره تأثیر فوری بر نارضایتی عمومی یا مدیریت اقتصادی از این گزارش به‌تنهایی قابل استناد نیست."
+        ],
+        "impact": "اجرای چنین پرتاب‌هایی احتمال افزایش فشار نظامی و دیپلماتیک و تحریم‌هارا بالا می‌برد که می‌تواند ساختار سیاسی-اقتصادی رژیم را بیش از پیش تضعیف کند.",
+        "tag": "موشکی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iranian-hits-neiran-launched-missiles-at-us-uk-military-base-in-the-indian-ocean-here-s-what-that-says-about-its-capabilities/ar-AA1Z7Vtq",
+        "clean_url": "https://www.msn.com/en-us/news/world/iranian-hits-neiran-launched-missiles-at-us-uk-military-base-in-the-indian-ocean-here-s-what-that-says-about-its-capabilities/ar-AA1Z7Vtq",
+        "image": "http://www.bing.com/th?id=OVFT.UlHotHDeNDw_GhprukMX9y&pid=News",
+        "timestamp": 1774106536.0
     },
     {
         "title_fa": "چرا آمریکا و اسرائیل به ایران حمله کردند و جنگ چقدر می‌تواند طول بکشد؟",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOLWlyMnMybjlySDRjbmtDcXRkRUQyY3hVOEVLdWg4cnFCTTRsOURzTGk0ZGpHQjV5QVVnMkU0N1RGOUJTbDVnVEhqdmpRSDJFQTQtWk1rZ3pEQ2Z3T2M3Nk5ZaU5KZzBodGEyRTVkNVBfZ1hVaWdFX1VUWGVRVzFoS3RJOG1mVVBVckpRZ2xVZDB1d9IBlwFBVV95cUxPMFByX2ZqQ2lKeUo5dkFRQnRrUHBzdGkxVWVLcXJyYXd4Z3FQTW9weDZ5RUxWcnUwNnB4UksxeUxWRnFwVlhWTDZtZ2ZJTjlMRzYzRFIxdVFlR3I5bV9RbVp5U1NkWGVYMURNOHB1d1dFajFQdm41YmNUR2FLWVl6aUptdjdzNU1ka29HNEF5TlhqYVBhdGtN",
         "image": null,
         "timestamp": 1773802260.0
-    },
-    {
-        "title_fa": "تمرکز بر هند",
-        "title_en": "Focus on India",
-        "summary": [
-            "ایالات متحده و اسرائیل در یک کارزار نظامی فشرده، پایدار و افزایشی علیه ایران نقش‌آفرینی می‌کنند؛ برخی ناظران آن را «جنگ وجودی» یا «جنگ انتخابی» توصیف کرده‌اند.",
-            "فشار نظامی مستمر از سوی ائتلاف خارجی می‌تواند ساختار سیاسی و ظرفیت اقتصادی رژیم را تضعیف کند؛ محدود شدن دسترسی به منابع و اختلال در زنجیره‌های تأمین و سرمایه‌گذاری، امکان تشدید مشکلات مدیریتی و کاهش مشروعیت حاکمیت را بالا می‌برد.",
-            "در متن گزارش اشاره‌ای به نقش روسیه، چین یا کره‌شمالی نیست و نباید بدون سند آن‌ها را وارد تحلیل کرد؛ با این حال ادامه عملیات افزایشی، احتمال بروز نارضایتی اجتماعی گسترده و آشکار شدن ضعف‌های حکمرانی را افزایش می‌دهد."
-        ],
-        "impact": "تداوم این کارزار فرسایشی و افزایشی می‌تواند ثبات سیاسی و اقتصادی رژیم را به‌طور معناداری تضعیف کرده و خطر تشدید تنش‌های داخلی و منطقه‌ای را بالا ببرد.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Statesman",
-        "url": "https://www.msn.com/en-in/news/opinion/focus-on-india/ar-AA1YSkuh",
-        "clean_url": "https://www.msn.com/en-in/news/opinion/focus-on-india/ar-AA1YSkuh",
-        "image": null,
-        "timestamp": 1773801591.0
-    },
-    {
-        "title_fa": "حملات شبانه در تهران؛ وزیر اطلاعات اسماعیل خطیب هدف قرار گرفت — کشته‌شدن علی لاریجانی و غلامرضا سلیمانی تأیید شد",
-        "title_en": "Iran Israel War Live Updates: Iran Intelligence Minister Esmail Khatib Targeted in Overnight Tehran Strikes",
-        "summary": [
-            "تشدید نظامی: حملات اسرائیل در تهران اسماعیل خطیب، وزیر اطلاعات را هدف قرار داده و جمهوری اسلامی مرگ علی لاریجانی و غلامرضا سلیمانی را تأیید کرده است — ضربه‌ای مستقیم به ارکان امنیتی که قابلیت فرماندهی و بازدارندگی رژیم را کاهش می‌دهد و احتمال پاسخ‌های تلافی‌جویانه و گسترش اهداف حملات را بالا می‌برد.",
-            "فشار خارجی و پیامدهای اقتصادی: تشدید درگیری‌ها همراه با اخلال گسترده در کشتیرانی خلیج، نشست اضطراری IMO و هشدار در مورد افزایش 45 میلیون نفر در معرض قحطی است؛ این شرایط هزینه‌های بیمه و حمل‌ونقل را بالا می‌برد، درآمدهای صادراتی را تضعیف می‌کند و فضای تشدید تحریم‌ها و فشارهای مالی را تشدید خواهد کرد.",
-            "شکست در مدیریت و تضعیف مشروعیت داخلی: اصابت به سایت نیروگاهی بوشهر، انفجارات منطقه‌ای و نیاز به محموله‌های پزشکی خارجی نشان‌دهنده ناتوانی حکمرانی در حفاظت از زیرساخت‌ها و تأمین نیازهای اساسی است — روندی که نارضایتی عمومی را تقویت و ظرفیت دولت برای کنترل نظم را کاهش می‌دهد."
-        ],
-        "impact": "این حملات و کشته‌شدن مقامات ارشد نقطه‌ای از تضعیف هم‌زمان ظرفیت‌های امنیتی و اقتصادی رژیم است و می‌تواند کنترل دولتی را بیش از پیش متزلزل کند.",
-        "tag": "بی‌ثباتی",
-        "urgency": 10,
-        "sentiment": -0.75,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-us-iran-news-escalates-trump-middle-east-dubai-uae-tensions-latest-news-liveblog-153851964",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-us-iran-news-escalates-trump-middle-east-dubai-uae-tensions-latest-news-liveblog-153851964",
-        "image": null,
-        "timestamp": 1773800700.0
     }
 ]
