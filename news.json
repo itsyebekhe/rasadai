@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حملات موشکی ایران به ساختمانی در دیمونا، اسرائیل",
+        "title_en": "Iranian missile strikes building in Dimona, Israel",
+        "summary": [
+            "گزارش اصلی: منابع خبری اعلام کردند موشک‌های شلیک‌شده از سوی ایران به یک ساختمان در دیمونا هدف‌گیری شده‌اند؛ رخدادی که مستقیماً مرز برخورد نظامی با اسرائیل را جابه‌جا می‌کند.",
+            "فشارهای خارجی و ساختار تحریم‌ها: چنین حمله‌ای احتمال تشدید تحریم‌ها و منزوی‌تر شدن نظام را بالا می‌برد، فشارهای اقتصادی ساختاری را تشدید کرده و توان تأمین منابع خارجی را کاهش می‌دهد.",
+            "پیامدهای داخلی و اقتصادی: افزایش هزینه‌های نظامی و واکنش‌های بین‌المللی می‌تواند نارضایتی عمومی را تشدید کند؛ مدیریت بحران اقتصادی و سیاسی رژیم بار اضافی می‌گیرد و ریسک بی‌ثباتی اجتماعی را بالا می‌برد."
+        ],
+        "impact": "این اقدام ریسک تقابل گسترده با اسرائیل و واکنش آمریکا/شرکای بین‌المللی را افزایش می‌دهد و فشارهای بین‌المللی و اقتصادی بر نظام را تشدید می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "NBC News",
+        "url": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html",
+        "clean_url": "https://www.nytimes.com/2026/03/22/world/middleeast/arad-dimona-israel-iran-missile-strike.html",
+        "image": null,
+        "timestamp": 1774208971.0
+    },
+    {
         "title_fa": "دونالد ترامپ چهار گزینه بد برای جنگ با ایران دارد",
         "title_en": "Donald Trump has four bad options for the war in Iran",
         "summary": [
@@ -466,6 +484,24 @@
         "clean_url": "https://whyy.org/articles/philadelphia-iran-war-protest-mccormick-fetterman",
         "image": null,
         "timestamp": 1774164750.0
+    },
+    {
+        "title_fa": "ترامپ و ایران تهدید به تشدید درگیری با حمله به تاسیسات انرژی و آب کردند",
+        "title_en": "Trump, Iran threaten to escalate conflict with attacks on energy and water facilities",
+        "summary": [
+            "خبر اصلی: هر دو طرف تهدید کرده‌اند که برای تشدید درگیری، تاسیسات حیاتی انرژی و آب را هدف قرار خواهند داد؛ این سطح از تهدید، مسیر را از منازعه محدود نظامی به حمله علیه زیرساخت‌های غیرنظامی تغییر می‌دهد.",
+            "فشارهای خارجی و تحریم‌ها: اگر این تهدیدها عملیاتی شود، احتمال افزایش تحریم‌ها و فشار دیپلماتیک بالا رفته و ساختار اقتصادی و سیاسی رژیم را بیش از پیش تضعیف می‌کند — روندی که ثبات داخلی را کاهش می‌دهد.",
+            "پیامدهای داخلی و اقتصادی: هدف گرفتن زیرساخت‌های حیاتی ریسک اختلال گسترده در خدمات پایه، تشدید بحران اقتصادی و رشد نارضایتی عمومی را افزایش می‌دهد؛ این پیامدها محصول مستقیم مدیریت ناکارآمد و تصمیم‌گیری راهبردی بحران‌زا هستند."
+        ],
+        "impact": "این تهدیدها شانس درگیری مستقیم گسترده و قطع خدمات حیاتی را به شدت افزایش می‌دهند و می‌توانند فشارهای اقتصادی و سیاسی داخلی را فوراً و قابل توجهاً تشدید کنند.",
+        "tag": "تصاعد",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/general/trump-iran-threaten-to-escalate-conflict-with-attacks-on-energy-and-water-facilities/ar-AA1ZasCp",
+        "clean_url": "https://www.msn.com/en-us/money/general/trump-iran-threaten-to-escalate-conflict-with-attacks-on-energy-and-water-facilities/ar-AA1ZasCp",
+        "image": null,
+        "timestamp": 1774164417.0
     },
     {
         "title_fa": "ترامپ ۴۸ ساعت ضرب‌الاجل برای بازگشایی تنگه هرمز داد؛ ایران تهدید به تلافی و هدف‌گیری زیرساخت‌های انرژی آمریکا و اسرائیل کرد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/president-or-congress-who-in-the-us-has-the-power-to-declare-war/ar-AA1YURXT",
         "image": null,
         "timestamp": 1773852985.0
-    },
-    {
-        "title_fa": "ایران و اسرائیل حملاتی علیه تأسیسات انرژی رد و بدل کردند؛ جنگ تشدید شد",
-        "title_en": "Iran, Israel trade strikes on energy facilities in worsening war",
-        "summary": [
-            "حملات متقابل به تأسیسات کلیدی انرژی در منطقه عرضه و ثبات بازارهای انرژی را مختل کرده و تلاش‌های آمریکا برای مهار آشفتگی بازارها را بی‌اثر ساخته است.",
-            "این درگیری مستقیم زیرساخت‌های انرژی را هدف قرار داده؛ اختلال در تولید و انتقال انرژی ریسک کاهش درآمدهای ارزی و فرسایش ظرفیت سرمایه‌گذاری را افزایش می‌دهد که به تضعیف توان اقتصادی رژیم تهران منجر می‌شود.",
-            "پیامدهای سیاسی-اقتصادی شامل احتمال فشار تحریمی بیشتر، هزینه‌های بازسازی بالا و تشدید نارضایتی عمومی در صورت تداوم اختلال در عرضه و سقوط رفاه است."
-        ],
-        "impact": "تشدید حملات به تأسیسات انرژی خطر فروریختن درآمدهای ارزی و تشدید بحران اقتصادی-اجتماعی را افزایش داده که می‌تواند ثبات رژیم را سریع‌تر تهدید کند.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/us-aims-to-curb-soaring-oil-prices-as-iran-vows-more-retaliation/ar-AA1YUzpT",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-aims-to-curb-soaring-oil-prices-as-iran-vows-more-retaliation/ar-AA1YUzpT",
-        "image": "http://www.bing.com/th?id=ONUT.yoMcL11By6SUIsfeuzwjig&pid=News",
-        "timestamp": 1773852861.0
-    },
-    {
-        "title_fa": "همین حالا اقدام کنید: حمایت از جوامع متاثر در بحران خاورمیانه",
-        "title_en": "Act Now: Supporting Affected Communities During the Middle East Crisis",
-        "summary": [
-            "گروه Islamic Networks Group فراخوانی برای اقدام و حمایت از جوامع آسیب‌دیده در پی بحران جاری در خاورمیانه منتشر کرده است؛ متن منبع صرفاً یک دعوت عمومی برای کمک‌رسانی است.",
-            "متن منبع هیچ اشاره‌ای به تحریم‌ها یا فشار خارجی ندارد؛ بنابراین نمی‌توان از روی این اطلاعیه ساختار تضعیف رژیم یا پیامدهای سیاسی بلندمدت را ارزیابی کرد.",
-            "هیچ نامی از روسیه، چین یا کره شمالی برده نشده و نیز اطلاعات قابل اطمینانی درباره اعتراضات داخلی یا شاخص‌های اقتصادی ارائه نشده؛ به‌دلیل این کمبود جزئیات، تحلیل استراتژیک بسته و محدود باقی می‌ماند."
-        ],
-        "impact": "فراخوان‌های کمک‌رسانی ممکن است فشار انسانی را کاهش دهند اما بدون جزئیات نمی‌توانند تغییری معنادار در توازن سیاسی یا ثبات رژیم ایجاد یا نشان دهند.",
-        "tag": "کمک‌رسانی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "Islamic Networks Group",
-        "url": "https://www.msn.com/en-ie/news/world/3-million-in-aid-from-ireland-to-lebanon-as-the-middle-east-crisis-deepens/ar-AA1YvsYE",
-        "clean_url": "https://www.msn.com/en-ie/news/world/3-million-in-aid-from-ireland-to-lebanon-as-the-middle-east-crisis-deepens/ar-AA1YvsYE",
-        "image": null,
-        "timestamp": 1773852800.0
     }
 ]
