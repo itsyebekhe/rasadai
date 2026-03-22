@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "دونالد ترامپ چهار گزینه بد برای جنگ با ایران دارد",
+        "title_en": "Donald Trump has four bad options for the war in Iran",
+        "summary": [
+            "اکونومیست گزارش می‌دهد که ترامپ با چهار مسیر نامطلوب روبه‌روست و این موضوع محدودیت راهبردی واشنگتن در قبال ایران را برجسته می‌کند.",
+            "گزینه‌های نظامی مستقیم یا عملیات تهاجمی، ریسک گسترش درگیری و واکنش‌های نامنتظره را بالا می‌برد و احتمال خروج کنترل سناریوها را افزایش می‌دهد.",
+            "فشارهای غیردیپلماتیک مانند تشدید تحریم یا عملیات مخفی ممکن است ساختار اقتصادی و قابلیت‌های رژیم را تضعیف کند اما هم‌زمان می‌تواند سرکوب داخلی را تقویت کند و نارضایتی عمومی را تشدید نماید."
+        ],
+        "impact": "پیامد این گزارش این است که هر یک از چهار گزینه مطرح شده خطر تشدید بی‌ثباتی منطقه‌ای و هزینه‌های سیاسی و اقتصادی سنگین برای واشنگتن و تهران را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Economist",
+        "url": "https://www.economist.com/middle-east-and-africa/2026/03/22/donald-trump-has-four-bad-options-for-the-war-in-iran",
+        "clean_url": "https://www.economist.com/middle-east-and-africa/2026/03/22/donald-trump-has-four-bad-options-for-the-war-in-iran",
+        "image": null,
+        "timestamp": 1774206536.0
+    },
+    {
         "title_fa": "ایران: در صورت حمله آمریکا به تأسیسات انرژی، زیرساخت‌های خاورمیانه را «به‌طور غیرقابل‌برگشت» نابود می‌کنیم",
         "title_en": "Iran says it will ‘irreversibly destroy’ Middle East infrastructure if US attacks energy sites",
         "summary": [
@@ -196,6 +214,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBFWE9hQ293UkpJdjA0OGxQS3N2SzA4US05eGlHSFIwVTZJcUE4MmtrYnVITVo0NnVQQXowM0ZfMkVwVm5DZl9rQy1JbWE5Rzd5RFAyYWZVbmZiWm43RDFrTTg5WdIBaEFVX3lxTE41Zk1wLXJyeTUxdmhvTlBNd0ZkbGdVX21VT1dUZWMzUnVwN29paV9jYk1pNUN2Smthd2R4bWdmQzltc05hQTZQM1NnaTBIMmxHY0IwcVNPNVVMSlRWMzVuSEstZnl0UXJj",
         "image": null,
         "timestamp": 1774183122.0
+    },
+    {
+        "title_fa": "ایران تهدید به بستن کامل تنگه پس از اتمام مهلت کرد",
+        "title_en": "Iran threatens to close strait ‘completely’ after ultimatum",
+        "summary": [
+            "ایران اعلام کرد پس از اتمام مهلت، تنگه را «به‌صورت کامل» خواهد بست؛ تهدیدی مستقیم که دامنه تنش را گسترش می‌دهد.",
+            "ایران و حزب‌الله حملات علیه اسرائیل را تشدید کردند؛ هم‌زمان ایالات متحده و ایران تهدید به هدف‌گیری زیرساخت‌های حیاتی کردند.",
+            "تهدید به بستن تنگه و حمله به زیرساخت‌ها می‌تواند اختلال در مسیرهای انرژی و تجارت بین‌المللی ایجاد کند و خطر تشدید نظامی را بالا ببرد."
+        ],
+        "impact": "این تهدیدها فشار خارجی را تشدید و احتمال تحریم‌ها و آسیب اقتصادی را افزایش می‌دهند که ظرفیت دولت را برای مدیریت بحران و حفظ ثبات داخلی تضعیف می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Columbian",
+        "url": "https://www.columbian.com/news/2026/mar/22/iran-threatens-to-close-strait-completely-after-ultimatum/",
+        "clean_url": "https://www.columbian.com/news/2026/mar/22/iran-threatens-to-close-strait-completely-after-ultimatum",
+        "image": null,
+        "timestamp": 1774180800.0
     },
     {
         "title_fa": "اسرائیل فکر می‌کرد می‌تواند شورش در داخل ایران را برانگیزد؛ این اتفاق نیفتاده است",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-ie/news/world/3-million-in-aid-from-ireland-to-lebanon-as-the-middle-east-crisis-deepens/ar-AA1YvsYE",
         "image": null,
         "timestamp": 1773852800.0
-    },
-    {
-        "title_fa": "حملات اسرائیل به میدان پارس جنوبی؛ تنش تبدیل به جنگ انرژی شد",
-        "title_en": "Israel’s South Pars strikes push Iran conflict into energy war",
-        "summary": [
-            "حملات اسرائیل به تاسیسات پارس جنوبی، نزاع نظامی را به حوزه انرژی وارد کرده و هدف‌گیری زیرساخت‌های گاز/نفتی را به بخشی از تاکتیک‌های درگیری تبدیل می‌کند.",
-            "هدف‌گیری منابع انرژی، ظرفیت صادرات و درآمدهای نفتی/گازی را در معرض اختلال قرار می‌دهد؛ این موضوع فشار مالی رژیم را افزایش و فضای اقتصادی را تنگ‌تر می‌کند.",
-            "آسیب‌پذیری زیرساخت‌های حیاتی، نشانه ضعف مدیریتی و ناتوانی در حفاظت از منابع ملی است و در صورت تشدید اختلال‌ها می‌تواند نارضایتی عمومی و بی‌ثباتی سیاسی را تشدید کند."
-        ],
-        "impact": "این حملات ثبات مالی و سیاسی رژیم را از طریق هدف‌گیری منابع حیاتی انرژی و کاهش قابلیت‌های درآمدزایی و تامین داخلی مستقیماً تهدید می‌کند.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Sk11ZlhlSWpxOFZMMllGb3EzblBSa21Da05rNnRZWWpDaHJLdkM0UllkWjBZaEpBRDctZkhKYzZwR190QzFEdURPM3B5eHRIMlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56Sk11ZlhlSWpxOFZMMllGb3EzblBSa21Da05rNnRZWWpDaHJLdkM0UllkWjBZaEpBRDctZkhKYzZwR190QzFEdURPM3B5eHRIMlE",
-        "image": null,
-        "timestamp": 1773852060.0
-    },
-    {
-        "title_fa": "اطلاعات آمریکا: ایران در حال بازسازی ظرفیت غنی‌سازی نبود",
-        "title_en": "Iran was not rebuilding nuclear enrichment, US intelligence finds",
-        "summary": [
-            "ارزیابی اطلاعاتی آمریکا گزارش می‌دهد که تهران در فرآیند بازسازی ظرفیت غنی‌سازی فعالیت نمی‌کرد؛ این یافته به‌طور مستقیم می‌تواند به کاهش فوری بهانه برای تشدید فشار نظامی یا تحریم‌های جدید منجر شود.",
-            "از منظر فشار خارجی و تحریم‌ها: فقدان شواهد بازسازی غنی‌سازی تهاجمی، امکان کاهش موقتِ اهرم‌های جدید علیه حاکمیت را فراهم می‌کند اما تأثیر ساختاری تحریم‌ها و تضعیف سرمایه‌گذاری بلندمدت در اقتصاد ایران را از بین نمی‌برد.",
-            "از منظر داخلی و حکمرانی: اگر این گزارش درست باشد، نشان‌دهنده ناهمخوانی تبلیغات هسته‌ای حاکمیت با واقعیت فنی است و می‌تواند به افت مشروعیت تکنوکراتیک و تشدید نارضایتی‌های اقتصادی و سیاسی بینجامد."
-        ],
-        "impact": "این ارزیابی احتمالاً فشار برای واکنش نظامی فوری را کاهش می‌دهد ولی وضعیت شکننده اقتصادی و مسألۀ مشروعیت داخلی حاکمیت را تغییری بنیادین نمی‌دهد.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "France 24",
-        "url": "https://www.barrons.com/news/iran-was-not-rebuilding-nuclear-enrichment-us-intelligence-finds-9c6dd736",
-        "clean_url": "https://www.barrons.com/news/iran-was-not-rebuilding-nuclear-enrichment-us-intelligence-finds-9c6dd736",
-        "image": null,
-        "timestamp": 1773851352.0
     }
 ]
