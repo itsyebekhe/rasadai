@@ -18,6 +18,42 @@
         "timestamp": 1774162980.0
     },
     {
+        "title_fa": "جنگ با ایران: تهران به تهدیدهای ترامپ درباره تنگه هرمز پاسخ می‌دهد",
+        "title_en": "Iran war: Tehran vows response to Trump's Hormuz threats",
+        "summary": [
+            "دونالد ترامپ تهدیداتی درباره کنترل یا اقدامات در تنگه هرمز مطرح کرده و تهران به‌طور رسمی وعدهٔ پاسخ داده است.",
+            "این تبادل تهدیدها می‌تواند مسیر افزایش فشارهای خارجی و تحریم‌های بیشتر را هموار کند و ساختار اقتصادی رژیم را در معرض تضعیف قرار دهد.",
+            "افزایش تنش نظامی و دیپلماتیک خطر تشدید نارضایتی داخلی را بالا می‌برد؛ در صورت استمرار بحران اقتصادی، حساسیت جامعه نسبت به حکومت افزایش خواهد یافت."
+        ],
+        "impact": "این تنش می‌تواند تاب‌آوری اقتصادی و سیاسی رژیم را کاهش دهد و آن را هم‌زمان در برابر فشار بین‌المللی و واکنش‌های داخلی آسیب‌پذیرتر کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEtmcldBb2JsM1BrQ2pUdFpRS3JVZTZmSXBjZ0R4WHVqS201OTVJcWFHQ3Q1eVU1WERjTkx4bjM1MmprVGV4VFdVQl82TkdjOTlzQkpybmpqQ1lORGZjMy1vRWR2OUxhOUVlRjR0VmxJel9lT1ZySGZzdDZ0THhDVmhELTljbXZvV0dzWWRHVFVWcEx1?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbEtmcldBb2JsM1BrQ2pUdFpRS3JVZTZmSXBjZ0R4WHVqS201OTVJcWFHQ3Q1eVU1WERjTkx4bjM1MmprVGV4VFdVQl82TkdjOTlzQkpybmpqQ1lORGZjMy1vRWR2OUxhOUVlRjR0VmxJel9lT1ZySGZzdDZ0THhDVmhELTljbXZvV0dzWWRHVFVWcEx1",
+        "image": null,
+        "timestamp": 1774162636.0
+    },
+    {
+        "title_fa": "پیامدهای اقتصادی فاجعه‌بار یک جنگ طولانی‌مدت با ایران",
+        "title_en": "‘The stakes are enormous’: how a prolonged Iran war could shock the global economy",
+        "summary": [
+            "پس از حمله‌های اولیه آمریکا و اسرائیل و کشته شدن علی خامنه‌ای، بازارها به‌سرعت بی‌ثبات شده‌اند: نفت بالای ۱۰۰ دلار، گاز اروپا دو برابر شده و نوسان و اختلال در حمل‌ونقل و زنجیره‌های تأمین افزایش یافته است.",
+            "فشار خارجی و عملیات نظامی مستقیم ساختار درآمدی رژیم را تضعیف می‌کند؛ به‌گفته یونیکرید، «مبارزه برای بقا» باعث می‌شود رژیم انگیزه‌ای برای واکنش شدید نداشته باشد، اما کاهش درآمدهای نفتی و هزینه‌های نظامی و بازسازی، توازن مالی حکومت را به مخاطره می‌اندازد.",
+            "افزایش فوری هزینه‌های سوخت، رشد قیمت کود و لغو پروازها فشار معیشتی را تشدید می‌کند؛ این مشکلات ضعف‌های مدیریت اقتصادی حکومت را نمایان کرده و ریسک تشدید نارضایتی‌های اجتماعی را بالا می‌برد."
+        ],
+        "impact": "نتیجه کلی: جنگ طولانی‌مدت می‌تواند هم رشد جهانی را تضعیف کند و هم منابع مالی و ثبات داخلی ایران را به‌سرعت فرسایش دهد، با پیامدهای خطرناک برای معیشت مردم.",
+        "tag": "اقتصاد",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation",
+        "clean_url": "https://www.theguardian.com/news/ng-interactive/2026/mar/22/iran-war-global-economy-donald-trump-oil-prices-inflation",
+        "image": null,
+        "timestamp": 1774159320.0
+    },
+    {
         "title_fa": "جنگ ایران به روایت نقشه‌ها و نمودارها",
         "title_en": "The Iran war in maps and charts",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-persian-gulf-strait-of-hormuz-trump-netanyahu",
         "image": null,
         "timestamp": 1773805920.0
-    },
-    {
-        "title_fa": "ترامپ به تندی علیه مقام ضدتروریسمی که به‌خاطر جنگ با ایران استعفا داد حمله کرد",
-        "title_en": "Trump slams counterterrorism official who quit over Iran war. Updates",
-        "summary": [
-            "خبر عنوان شده نشان می‌دهد یک مقام در بخش ضدتروریسم به دلیل اختلاف بر سر سیاست درباره جنگ با ایران استعفا داده و دونالد ترامپ او را مورد حمله لفظی قرار داده است.",
-            "استعفا و پاسخ تند رئیس‌جمهور، نشان‌دهنده اختلافات داخلی درباره راهبرد نسبت به ایران در بدنه امنیت ملی ایالات‌متحده است.",
-            "این نوع درگیری‌های علنی می‌تواند پیام‌رسانی آمریکا را تضعیف کند و تصمیم‌گیری در حوزه فشار و مداخله را پیچیده و ناسازگار نماید."
-        ],
-        "impact": "اختلاف و استعفا احتمالاً پیام‌های متناقضی به تهران ارسال می‌کند و توان ایالات‌متحده در اعمال فشار هدفمند را کاهش می‌دهد.",
-        "tag": "آمریکا",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "The Des Moines Register",
-        "url": "https://www.desmoinesregister.com/live-story/news/world/2026/03/17/iran-war-us-israel-trump-updates/89189229007/",
-        "clean_url": "https://www.desmoinesregister.com/live-story/news/world/2026/03/17/iran-war-us-israel-trump-updates/89189229007",
-        "image": null,
-        "timestamp": 1773805800.0
-    },
-    {
-        "title_fa": "تصمیم بعدی ترامپ در جنگ: آیا سوخت هسته‌ای ایران بازپس‌گیری می‌شود؟",
-        "title_en": "Trump’s Next Decision in War: Whether to Retrieve Iran’s Nuclear Fuel",
-        "summary": [
-            "تیتر حاکی از آن است که دولت ترامپ در بحبوحه جنگ درباره بازپس‌گیری سوخت هسته‌ای متعلق به ایران تصمیم‌گیری می‌کند.",
-            "چنین اقدامی می‌تواند ابعاد حقوقی و نظامی پرونده هسته‌ای را تشدید کرده و مسیر دیپلماسی را به‌شدت پیچیده کند.",
-            "پیامد فوری شامل افزایش فشارهای بین‌المللی بر تهران و احتمال تشدید درگیری‌های میدانی خواهد بود."
-        ],
-        "impact": "در کوتاه‌مدت، این تصمیم می‌تواند تشدید تنش‌ها و تحمیل هزینه‌های سیاسی و امنیتی تازه بر حکومت تهران را تسریع کند.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzZGMHQ0bHFEeDlBQzl6NjF6SWJ6LXpVVEZOU0xKdzB6aVA0VFFwQl9mWkp3a3M3aFdFR2MxOWs0clJKYlVyU1BxVlZfMmZRcHpNam4zNGVlQTNpbUxkdWJLYXdSLUYwdHB5T0JSTjBLdExPdDB6RGcxUW1fc2FBUA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXzZGMHQ0bHFEeDlBQzl6NjF6SWJ6LXpVVEZOU0xKdzB6aVA0VFFwQl9mWkp3a3M3aFdFR2MxOWs0clJKYlVyU1BxVlZfMmZRcHpNam4zNGVlQTNpbUxkdWJLYXdSLUYwdHB5T0JSTjBLdExPdDB6RGcxUW1fc2FBUA",
-        "image": null,
-        "timestamp": 1773805389.0
     }
 ]
