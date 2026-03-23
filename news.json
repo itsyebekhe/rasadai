@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "همین حالا اقدام کنید: حمایت از جوامع متاثر در بحران خاورمیانه",
+        "title_en": "Act Now: Supporting Affected Communities During the Middle East Crisis",
+        "summary": [
+            "گروه Islamic Networks Group فراخوانی برای اقدام و حمایت از جوامع آسیب‌دیده در پی بحران جاری در خاورمیانه منتشر کرده است؛ متن منبع صرفاً یک دعوت عمومی برای کمک‌رسانی است.",
+            "متن منبع هیچ اشاره‌ای به تحریم‌ها یا فشار خارجی ندارد؛ بنابراین نمی‌توان از روی این اطلاعیه ساختار تضعیف رژیم یا پیامدهای سیاسی بلندمدت را ارزیابی کرد.",
+            "هیچ نامی از روسیه، چین یا کره شمالی برده نشده و نیز اطلاعات قابل اطمینانی درباره اعتراضات داخلی یا شاخص‌های اقتصادی ارائه نشده؛ به‌دلیل این کمبود جزئیات، تحلیل استراتژیک بسته و محدود باقی می‌ماند."
+        ],
+        "impact": "فراخوان‌های کمک‌رسانی ممکن است فشار انسانی را کاهش دهند اما بدون جزئیات نمی‌توانند تغییری معنادار در توازن سیاسی یا ثبات رژیم ایجاد یا نشان دهند.",
+        "tag": "کمک‌رسانی",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Islamic Networks Group",
+        "url": "https://www.forbes.com/sites/unicefusa/2026/03/20/over-1800-children-killed-or-injured-as-middle-east-conflict-deepens/",
+        "clean_url": "https://www.forbes.com/sites/unicefusa/2026/03/20/over-1800-children-killed-or-injured-as-middle-east-conflict-deepens",
+        "image": null,
+        "timestamp": 1774294438.0
+    },
+    {
         "title_fa": "ترامپ ادعا می‌کند آمریکا با ایران گفتگو کرده است",
         "title_en": "Iran war: Trump claims US has held talks with Iran",
         "summary": [
@@ -232,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94NHgtYXVWYlhBSHJGSzZBaDMtTmJ0LWVFM3lOakZfd2NqU2p4aFlMZ1FSbFhzbGM4WE5aa2lJUEhwSzRSc3BLY3djOUhNcFhkQ0E",
         "image": null,
         "timestamp": 1774275882.0
+    },
+    {
+        "title_fa": "ترامپ: ایران مشتاق توافق برای پایان جنگ است؛ مهلت را برای دیپلماسی تمدید کردم",
+        "title_en": "Trump says Iran is eager for a deal to end the war as he extends deadline to allow for diplomacy",
+        "summary": [
+            "ترامپ گفت آمریکا با یک مقام ایرانی گفتگو کرده و ایران «مشتاق» توافق برای پایان جنگ است؛ او پنج روز دیگر به ایران مهلت داد تا تنگه هرمز را باز کند وگرنه هدف نیروگاه‌هایش قرار خواهند گرفت؛ تهران این مذاکرات را تکذیب کرد.",
+            "تصاویر و گزارش‌ها از اصابت ضربات پیشین در تهران و فرود موشک در حیاط یک مدرسه، نشان‌دهنده اثر مستقیم روی زیرساخت‌های شهری و تهدید به قطع برق و آب شیرین‌کن‌هاست؛ بازارها و بهای نفت به‌سرعت نسبت به امکان حل و فصل دیپلماتیک واکنش نشان دادند.",
+            "این فشار و تهدید نظامی-اقتصادی ساختاری رژیم را تضعیف می‌کند: کاهش اعتماد داخلی به تواناییِ حاکمیت در حفاظت از شهروندان و خدمت‌رسانی، و افزایش ریسک تشدید نارضایتی سیاسی و اقتصادی در صورت ادامه تنش‌ها."
+        ],
+        "impact": "تمدید مهلت و تهدید به هدف قراردادن نیروگاه‌ها فشار خارجی را افزایش می‌دهد و خطر فرسایش اقتصادی و تشدید بی‌ثباتی داخلی را برای رژیم بالا می‌برد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Press Democrat",
+        "url": "https://www.pressdemocrat.com/2026/03/22/trump-says-iran-is-eager-for-a-deal-to-end-the-war-as-he-extends-deadline-to-allow-for-diplomacy/",
+        "clean_url": "https://www.pressdemocrat.com/2026/03/22/trump-says-iran-is-eager-for-a-deal-to-end-the-war-as-he-extends-deadline-to-allow-for-diplomacy",
+        "image": null,
+        "timestamp": 1774273920.0
     },
     {
         "title_fa": "مسیر هسته‌ای عربستان مستقل از نتیجه جنگ با ایران خواهد بود",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.azcentral.com/live-story/news/world/2026/03/19/iran-war-us-israel-trump-live-updates/89214749007",
         "image": "http://www.bing.com/th?id=OVFT.GaDk5i-u_6ZI4c-C5VoCAi&pid=News",
         "timestamp": 1773941460.0
-    },
-    {
-        "title_fa": "شکست خیره‌کننده بازدارندگی ایران",
-        "title_en": "The Stunning Failure of Iranian Deterrence",
-        "summary": [
-            "مقاله با این گزاره اصلی پیش می‌رود که بازدارندگی ایران شکست خورده و این شکست نشان‌دهنده ناکارآمدی در سیاست‌گذاری استراتژیک و برآمد عملیاتی نیروهای نظامی و شبه‌نظامی است.",
-            "از منظر فشار خارجی، نویسندگان توضیح می‌دهند که این ناکامی ساختار قدرت رژیم را تضعیف می‌کند، اهرم فشار تحریم‌ها و مداخله خارجی را افزایش می‌دهد و ظرفیت بازدارندگی سیاست خارجی تهران را کاهش می‌دهد.",
-            "در داخل، مقاله هشدار می‌دهد که شکست بازدارندگی به‌عنوان نشانه‌ای از سوءمدیریت حکمرانی تفسیر می‌شود و می‌تواند نارضایتی عمومی، بی‌اعتمادی اقتصادی و آسیب‌پذیری سیاسی رژیم را تشدید کند."
-        ],
-        "impact": "پیامد عملی گزارش این است که از بین رفتن بازدارندگی ایران احتمال افزایش تعرضات منطقه‌ای و تقویت اهرم فشار خارجی را بالا می‌برد و در عین حال ثبات داخلی رژیم را بیشتر تضعیف می‌کند.",
-        "tag": "بازدارندگی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Foreign Affairs",
-        "url": "https://www.foreignaffairs.com/iran/stunning-failure-iranian-deterrence",
-        "clean_url": "https://www.foreignaffairs.com/iran/stunning-failure-iranian-deterrence",
-        "image": null,
-        "timestamp": 1773939794.0
-    },
-    {
-        "title_fa": "انکار دیپلمات ایران در کیف مقابل شواهد ارسال پهپاد به روسیه",
-        "title_en": "We interviewed Iran's envoy to Ukraine and it was absolutely wild",
-        "summary": [
-            "سرکنسول ایران در کیف انکار کرد که تهران در جنگ روسیه علیه اوکراین دخیل بوده؛ این ادعا در برابر اسناد و گزارش‌هایی قرار دارد که از ارسال پهپادهای شاهد و قرارداد صنعتی تولید شاهد-۱۳۶ در خاک روسیه خبر می‌دهد.",
-            "حمله‌های موشکی و هوایی آمریکا و اسرائیل به اهداف مرتبط با ایران و واکنش گروه‌های همسو با تهران موجب تشدید بحران منطقه‌ای، خشونت و جابه‌جایی مردم شد؛ صحنه آرام اما خالی سفارت در کیف نشان‌دهنده کاهش حمایت محلی و بی‌اعتمادی است.",
-            "روسیه به‌عنوان تکمیل‌کننده زنجیره تولید و استفاده از پهپادها در این گزارش ظاهر شده است؛ این همکاری فنی-صنعتی نقش روسیه را به‌عنوان تسهیل‌کننده بقای عملیاتی تهران در میدان جنگ برجسته می‌کند."
-        ],
-        "impact": "افشای همکاری پهپادی با روسیه و ضربات نظامی متقابل، رژیم را در معرض فشار دیپلماتیک و اقتصادی شدیدتر قرار می‌دهد و می‌تواند نارضایتی داخلی و تضعیف مشروعیت بین‌المللی را تشدید کند.",
-        "tag": "پهپاد",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/interviewed-iran-envoy-ukraine-fact-150516934.html",
-        "clean_url": "https://www.yahoo.com/news/articles/interviewed-iran-envoy-ukraine-fact-150516934.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/PGdgE7x7J7H4lFJQiwtrNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/kyiv_independent_articles_496/fb331da4b84d364975759310e0547327",
-        "timestamp": 1773936600.0
     }
 ]
