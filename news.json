@@ -18,6 +18,24 @@
         "timestamp": 1774300814.0
     },
     {
+        "title_fa": "ترامپ: آمریکا با ایران برای پایان جنگ مذاکره می‌کند؛ ایران این موضوع را تکذیب کرد",
+        "title_en": "Trump says the U.S. is in talks with Iran to end the war, which Iran denies",
+        "summary": [
+            "ادعای ترامپ درباره مذاکرات بین آمریکا و ایران در تضاد با تکذیب رسمی تهران قرار دارد؛ این تناقض نشان‌دهنده وجود روایت‌های متضاد و احتمال کانال‌های پنهان یا بازی رسانه‌ای است.",
+            "در صورت صحت مذاکرات، احتمال کاهش فشار خارجی و تضعیف اثربخشی تحریم‌ها وجود دارد، اما تکذیب رسمی مانع از بهره‌برداری سیاسی مخالفان داخلی و کاهش طولانی‌مدت فشار اقتصادی می‌شود؛ شواهد فعلی مبهم است و نمی‌توان قطعیتی در تأثیر تحریم‌ها اعلام کرد.",
+            "واکنش انکارآمیز تهران نشانه حساسیت سیاسی داخلی نسبت به پیام تسلیم یا مصالحه است و می‌تواند برای رژیم هزینه‌های سیاسی ایجاد کند — هم از منظر اختلافات جناحی و هم از منظر تضعیف اعتماد عمومی به روایت رسمی."
+        ],
+        "impact": "این پیام‌های متناقض، آسیب‌پذیری سیاسی رژیم را افزایش می‌دهد زیرا شفافیت و اعتبار روایت خارجی-دفاعی را تضعیف کرده و توانایی آن برای مدیریت پیامدهای دیپلماتیک را محدود می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "NPR",
+        "url": "https://www.msn.com/en-us/news/world/iran-war-latest-iran-denies-trump-s-claims-tehran-in-talks-to-end-war/ar-AA1ZcgiO",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-latest-iran-denies-trump-s-claims-tehran-in-talks-to-end-war/ar-AA1ZcgiO",
+        "image": null,
+        "timestamp": 1774296040.0
+    },
+    {
         "title_fa": "همین حالا اقدام کنید: حمایت از جوامع متاثر در بحران خاورمیانه",
         "title_en": "Act Now: Supporting Affected Communities During the Middle East Crisis",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZm05M1lGcFZGVEVReFcyb3pUWjlEdjRhVHNEeHJYNGhMSHh2b0JLVVZ3eGFzdFNRcWFxekR0clBLNVlYRjl3VFNLYTZ3ZEZNRkwxcUdOamdTU1UzWGVQVXJ2SVBCYTJabmFfdEowZkk5SGotUzUzT0lPV0NSQTN4eUpNclg3QnNpQVpZ",
         "image": null,
         "timestamp": 1773948009.0
-    },
-    {
-        "title_fa": "نتانیاهو می‌گوید ایران دیگر ظرفیت غنی‌سازی اورانیوم ندارد",
-        "title_en": "Netanyahu says Iran no longer has uranium enrichment capacity",
-        "summary": [
-            "این ادعا توسط بنیامین نتانیاهو اعلام شده و منبع گزارش رویترز است؛ خبر نیاز به تأیید مستقل دارد و صرفاً یک اظهارنظر رسمی است.",
-            "اگر صحت داشته باشد، نشان‌دهنده تضعیف عملیاتی یا دسترسی به زیرساخت‌های غنی‌سازی است که می‌تواند توان بازدارندگی فناوری هسته‌ای رژیم را کاهش دهد و هزینه‌های سیاسی و اقتصادی حکومت را بالا ببرد.",
-            "پیام این ادعا برای بازیگران خارجی و منطقه‌ای اهمیت راهبردی دارد؛ اما نباید بدون شواهد فنی و اطلاعات مستقل به نتیجه‌گیری نهایی رسید — پیامدها بستگی به منشأ این کاهش ظرفیت (فنی، سایبری، ضربتی یا سیاسی) دارد."
-        ],
-        "impact": "در صورت تأیید، از دست رفتن ظرفیت غنی‌سازی می‌تواند مشروعیت و ابزارهای استراتژیک رژیم را ضعیف کرده و فشارهای بین‌المللی و داخلی را افزایش دهد.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://www.usnews.com/news/world/articles/2026-03-19/netanyahu-says-iran-no-longer-has-uranium-enrichment-capacity",
-        "clean_url": "https://www.usnews.com/news/world/articles/2026-03-19/netanyahu-says-iran-no-longer-has-uranium-enrichment-capacity",
-        "image": null,
-        "timestamp": 1773947784.0
     }
 ]
