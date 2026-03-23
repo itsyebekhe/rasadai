@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ ادعا می‌کند آمریکا با ایران گفتگو کرده است",
+        "title_en": "Iran war: Trump claims US has held talks with Iran",
+        "summary": [
+            "ترامپ ادعا کرده که مقام‌های آمریکایی گفت‌وگوهایی با ایران داشته‌اند؛ خبر در قالب گزارش DW منتشر شده و ادعا به‌عنوان اظهار نظر رئیس‌جمهور پیشین منعکس شده است.",
+            "از منظر فشار خارجی و تحریم‌ها: اگر این گفتگوها واقعی باشند، می‌توانند اهرم تحریم‌ها علیه رژیم را کاهش داده و به حاکمیت فرصت تنفسی بدهند، اما به دلیل ساختار آسیب‌پذیر اقتصاد ایران، هرگونه تخفیف در فشار خارجی لزوماً به بهبود معیشت عموم مردم منجر نخواهد شد و می‌تواند ابزارهای فشار داخلی را تغییر شکل دهد.",
+            "از منظر داخلی: اعلام چنین گفت‌وگوهایی برای حاکمیت فرصتی برای توجیه ناکارآمدی مدیریتی و کاهش خشم عمومی است، و هم‌زمان می‌تواند شکاف‌های سیاسی داخل نظام را تشدید کند؛ هر نتیجه‌ای که منافع گروه‌های گوناگون را جابه‌جا کند، ریسک بی‌ثباتی سیاسی را افزایش می‌دهد."
+        ],
+        "impact": "اگر ادعا صحت یابد، احتمالاً اهرم تحریمی واشنگتن را تضعیف و رقابت داخلی در درون نظام را تشدید خواهد کرد؛ اما بهبود اقتصادی عمومی نامطمئن است.",
+        "tag": "گفت‌وگو",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "DW.com",
+        "url": "https://www.msn.com/en-us/politics/government/iran-denies-engaging-in-talks-with-us-after-trump-claims-kushner-witkoff-held-meeting/ar-AA1ZelRZ",
+        "clean_url": "https://www.msn.com/en-us/politics/government/iran-denies-engaging-in-talks-with-us-after-trump-claims-kushner-witkoff-held-meeting/ar-AA1ZelRZ",
+        "image": null,
+        "timestamp": 1774291331.0
+    },
+    {
         "title_fa": "ترامپ ضربات به نیروگاه‌های ایران را برای پنج روز به تعویق انداخت",
         "title_en": "Trump postpones military strikes on Iranian power plants for five days",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/trump-announces-productive-iran-talks-160433876.html",
         "image": null,
         "timestamp": 1774291257.0
+    },
+    {
+        "title_fa": "ایران هرگونه گفت‌وگو با آمریکا را تکذیب کرد؛ پاسخ به ادعای ترامپ درباره «گفت‌وگوهای سازنده»",
+        "title_en": "Iran denies any talks with US after Trump claims ‘productive’ discussions",
+        "summary": [
+            "دونالد ترامپ مدعی شد که گفت‌وگوهایی «سازنده» با ایران داشته، اما تهران هرگونه مذاکرات با آمریکا را رسماً تکذیب کرده است.",
+            "تکذیب رسمی تهران حاکی از رقابت روایت‌ها بین واشنگتن و تهران است؛ رژیم احتمالاً سعی می‌کند با کنترل پیام عمومی از هزینه‌های سیاسی داخلی و فشارهای بیرونی بکاهد.",
+            "حتی اگر گزارش به صراحت درباره تحریم‌ها صحبت نکرده باشد، این تناقض پیام‌ها ساختار تضعیف‌شده دیپلماسی رژیم را نشان می‌دهد و احتمال استفاده بازیگران خارجی از شکاف روایتی را افزایش می‌دهد."
+        ],
+        "impact": "تناقض بیانیه‌ها اعتبار پیام‌رسانی رسمی را کاهش می‌دهد، فضای عدم اطمینان را تشدید کرده و بر توانایی مذاکرات واقعی تحت فشار خارجی اثر منفی می‌گذارد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZU92ckFMWHVOdGRRaWVjdmd3NFBvR3l4clpLNXBfRkdpbXQ1TW1Gd0dWbmhSbm00bVVSZTFSWHZmOE0yY1RIRkJPcW83QzFOY1lYOGF3MkdLZUFRVEZ6Y0Q2WFRQYWR4QUpic0xXc0FLLURVeTkxRFpmU3ZHcGE5d2t0TjMxdDgxSlB1YVZmNmNJbDR4cUQ5WTZoYzhNTERUUVBEbEtOLWNJQVZyQ0ljX0R30gG3AUFVX3lxTFBXYzRxNE9EYW84dVpfYkR2REtlMXJHNlNyOGFqVFJUQlN4N2M4UEN3T0c5VW1Za3J1b1h4RkxzcjZPbjlfV2pLZDd4UUhFUlM5SVlhbUsyQzRKWFVxaDREUDZQRFRUV2pwVWlfUFBJcEFKcUhkREZfZy1XUDUzcGw2WEdQRTd2YXg1N3VsTm9IRlpETlpaN2VWb0Fla2NkTE1oSmZNdWxnVFA0S3daRTVpcDNfQUpLaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZU92ckFMWHVOdGRRaWVjdmd3NFBvR3l4clpLNXBfRkdpbXQ1TW1Gd0dWbmhSbm00bVVSZTFSWHZmOE0yY1RIRkJPcW83QzFOY1lYOGF3MkdLZUFRVEZ6Y0Q2WFRQYWR4QUpic0xXc0FLLURVeTkxRFpmU3ZHcGE5d2t0TjMxdDgxSlB1YVZmNmNJbDR4cUQ5WTZoYzhNTERUUVBEbEtOLWNJQVZyQ0ljX0R30gG3AUFVX3lxTFBXYzRxNE9EYW84dVpfYkR2REtlMXJHNlNyOGFqVFJUQlN4N2M4UEN3T0c5VW1Za3J1b1h4RkxzcjZPbjlfV2pLZDd4UUhFUlM5SVlhbUsyQzRKWFVxaDREUDZQRFRUV2pwVWlfUFBJcEFKcUhkREZfZy1XUDUzcGw2WEdQRTd2YXg1N3VsTm9IRlpETlpaN2VWb0Fla2NkTE1oSmZNdWxnVFA0S3daRTVpcDNfQUpLaw",
+        "image": null,
+        "timestamp": 1774290396.0
     },
     {
         "title_fa": "نظرسنجی جدید درباره ایران؛ معرفی JRDها برای جلوگیری از جنگ‌های آمریکا-اسرائیل",
@@ -88,6 +124,24 @@
         "clean_url": "https://www.washingtonpost.com/politics/2026/03/23/trump-iran-talks-strikes",
         "image": null,
         "timestamp": 1774282329.0
+    },
+    {
+        "title_fa": "نظر: جنگ با ایران عملاً چگونه پیش می‌رود",
+        "title_en": "Opinion: How the war with Iran is actually going",
+        "summary": [
+            "ترامپ ادعا کرده نیروی دریایی و هوایی ایران را نابود کرده است؛ اما تهران همچنان با موشک و پهپاد علیه نیروهای آمریکایی و متحدان منطقه‌ای در خلیج فارس حمله می‌کند؛ این تضاد نشان‌دهنده ادامه ظرفیت ضربتی ایران است.",
+            "ادعاهای از بین بردن توانمندی‌های نظامی ایران در کوتاه‌مدت تا حد زیادی نامعتبر است؛ استفاده مستمر از پهپاد و موشک نشان می‌دهد تهران به ابزارهای رزمی متنوعی برای پاسخ متکی است.",
+            "ادامه عملیات‌های تهاجمی از سوی ایران ریسک تشدید رویارویی مستقیم با آمریکا را بالا می‌برد و اعتبار اطلاعاتی و تبلیغاتی طرف ادعاکننده پیروزی را تضعیف می‌کند."
+        ],
+        "impact": "این واقعیت احتمال تشدید درگیری مستقیم و فرسایشی را افزایش می‌دهد و نشان می‌دهد فشارهای نظامی کوتاه‌مدت نتوانسته‌اند توان ضربتی ایران را از بین ببرند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Hill",
+        "url": "https://www.msn.com/en-us/news/politics/opinion-how-the-war-with-iran-is-actually-going/ar-AA1ZdVMq",
+        "clean_url": "https://www.msn.com/en-us/news/politics/opinion-how-the-war-with-iran-is-actually-going/ar-AA1ZdVMq",
+        "image": "https://thehill.com/wp-content/uploads/sites/2/2026/03/caine_dan_iran_03192026_GettyImages-2267379068-1.jpg?w=1280",
+        "timestamp": 1774281600.0
     },
     {
         "title_fa": "با طولانی‌تر شدن جنگ، گزینه‌های پایان دادن برای آمریکا و ایران تنگ‌تر می‌شود",
@@ -216,6 +270,42 @@
         "timestamp": 1774271580.0
     },
     {
+        "title_fa": "«مخمصه»: ترامپ به‌خاطر ادعای مذاکرات جنگ با ایران و برچسب «اخبار جعلی» تمسخر شد",
+        "title_en": "‘Quagmire’: Trump mocked for ‘fakenews’ claim of Iran war negotiations",
+        "summary": [
+            "دونالد ترامپ ادعا کرد که مذاکراتی میان آمریکا و ایران برای پایان جنگ در جریان است؛ این ادعا در رسانه‌ها به‌عنوان «اخبار جعلی» مورد تمسخر قرار گرفت.",
+            "رئیس مجلس ایران به‌صراحت این ادعا را رد کرد: «هیچ گفت‌وگویی برگزار نشده است»، و تفاوت روشن بین روایت کاخ سفید و مقامات رسمی ایرانی را نشان داد.",
+            "این نوع تناقض علنی می‌تواند بر محاسبات دیپلماتیک و برداشت‌های عمومی درباره شفافیت و توانایی مدیریت بحران در هر دو طرف تأثیر بگذارد."
+        ],
+        "impact": "تناقض آشکار بین ادعاهای آمریکا و تکذیبیه رسمی ایران، اعتبار دستگاه دیپلماسی تهران را تضعیف و فضای امدادی برای افزایش فشارهای خارجی و سیاسی علیه رژیم فراهم می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 2,
+        "sentiment": -0.5,
+        "source": "Staten Island Advance",
+        "url": "https://www.silive.com/politics/2026/03/quagmire-trump-mocked-for-fakenews-claim-of-iran-war-negotiations.html",
+        "clean_url": "https://www.silive.com/politics/2026/03/quagmire-trump-mocked-for-fakenews-claim-of-iran-war-negotiations.html",
+        "image": "http://www.bing.com/th?id=ONUT.dyGRdmPpJmMPgKvmddUNqA&pid=News",
+        "timestamp": 1774269480.0
+    },
+    {
+        "title_fa": "ترامپ سیگنال پایان جنگ با ایران را فرستاد: ۵ سناریو توضیح و رتبه‌بندی شد",
+        "title_en": "Trump Signals Iran War Endgame: 5 Scenarios Explained and Ranked",
+        "summary": [
+            "نویسنده می‌گوید پایان جنگ با ایران نامشخص است؛ سناریوها از یک توافق به‌وسیله ترامپ تا محاصره طولانی تنگه هرمز متغیرند.",
+            "هر سناریو بار سیاسی و اقتصادی متفاوتی بر حکومت تحمیل می‌کند؛ تشدید تحریم‌ها و فشار خارجی می‌تواند ساختارهای اقتصادی را تضعیف و ظرفیت سیاستگذاری را کاهش دهد.",
+            "عدم قطعیت درباره پایان درگیری احتمال ادامه بحران منطقه‌ای را بالا می‌برد که هزینه‌های نظامی و اجتماعی را افزایش داده و زمینهٔ تشدید نارضایتی داخلی را فراهم می‌کند."
+        ],
+        "impact": "تحلیل نشان می‌دهد مسیرهای محتمل منجر به تشدید فشارهای خارجی و افزایش آسیب‌پذیری اقتصادی–سیاسی داخلی می‌شوند.",
+        "tag": "جنگ",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-signals-iran-war-endgame-5-scenarios-explained-and-ranked-11723627",
+        "clean_url": "https://www.newsweek.com/trump-signals-iran-war-endgame-5-scenarios-explained-and-ranked-11723627",
+        "image": "http://www.bing.com/th?id=ONUT.dDKUKThfFuXcj-iY2ShSpQ&pid=News",
+        "timestamp": 1774268160.0
+    },
+    {
         "title_fa": "هک دوربین‌های شهری تهران برای هدف‌گیری علی خامنه‌ای توسط اسرائیل",
         "title_en": "How Israel hacked street cameras to target Iran’s supreme leader",
         "summary": [
@@ -340,6 +430,24 @@
         "clean_url": "https://www.aol.com/articles/latest-us-central-command-leader-040813400.html",
         "image": "http://www.bing.com/th?id=ONUT.m2nGrtjGbA_K6bVPXDVjEQ&pid=News",
         "timestamp": 1774261080.0
+    },
+    {
+        "title_fa": "ترامپ مذاکرات با ایران را آغاز کرد در حالی که متحدان هشدار دادند جنگ می‌تواند فاجعه‌بار باشد",
+        "title_en": "Trump began Iran talks as allies warned war risked disaster",
+        "summary": [
+            "تصمیم ترامپ برای عقب‌نشینی از تهدید نابودی زیرساخت‌های برق ایران پس از هشدارهای خصوصی متحدان ایالات متحده و کشورهای خلیج‌فارس اتخاذ شد؛ این عقب‌نشینی نشان‌دهنده محدودیت عملیاتی واشینگتن در مواجهه مستقیم با ریسک‌های منطقه‌ای است.",
+            "تهدید هدف گرفتن زیرساخت حیاتی، نوعی فشار خارجی است که اگر اجرا می‌شد ساختارهای اقتصادی و خدمات عمومی را به‌طور مستقیم تضعیف می‌کرد و می‌توانست اثرات طولانی‌مدت بر ثبات حکومتی و سطح زندگی مردم داشته باشد.",
+            "حتی تهدید صرف نشان‌دهنده آسیب‌پذیری نظام کنونی است: استفاده از زور علیه زیرساخت‌ها می‌توانست نارضایتی عمومی را تشدید کند و مشکلات مدیریتی و اقتصادی داخل کشور را وخیم‌تر سازد، ضمن آنکه همپوشانی هشدارهای متحدان خارجی محدودیت‌های سیاسی واشینگتن را آشکار می‌کند."
+        ],
+        "impact": "خطر حمله به زیرساخت‌های حیاتی، هرچند متوقف شده، دریچه‌ای به تضعیف بیشتر اقتصاد و افزایش خشم عمومی باز می‌کرد و نشان داد که رژیم در برابر فشار خارجی و تبعات داخلی آن آسیب‌پذیر است.",
+        "tag": "جنگ",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-began-iran-talks-as-allies-warned-war-risked-disaster/ar-AA1ZedwA",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-began-iran-talks-as-allies-warned-war-risked-disaster/ar-AA1ZedwA",
+        "image": "http://www.bing.com/th?id=ONUT.Gxp4QuQdvHaroffZRvmukA&pid=News",
+        "timestamp": 1774260572.0
     },
     {
         "title_fa": "ترامپ: گفتگوها ثمربخش بود؛ حمله به نیروگاه‌های ایران برای ۵ روز به تعویق افتاد",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/interviewed-iran-envoy-ukraine-fact-150516934.html",
         "image": "https://s.yimg.com/ny/api/res/1.2/PGdgE7x7J7H4lFJQiwtrNA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/kyiv_independent_articles_496/fb331da4b84d364975759310e0547327",
         "timestamp": 1773936600.0
-    },
-    {
-        "title_fa": "حملات ایران و اسرائیل تاسیسات انرژی خاورمیانه را هدف گرفتند",
-        "title_en": "Attacks by Iran, Israel target energy facilities in the Middle East",
-        "summary": [
-            "ایران به بزرگ‌ترین مجموعه گاز مایع جهان در قطر حمله کرد و هم‌زمان موشک‌هایی به تاسیسات نفت و گاز عربستان، امارات و کویت شلیک شد؛ این اقدامات تلافی حمله اسرائیل به میدان گازی بزرگ ایران توصیف شده‌اند.",
-            "گزارش همراه تصویری از آتش‌سوزی و خودروهای سوخته در نزدیکی انبار نفتی است که به گفته منابع توسط حمله‌ای مشترک آمریکا-اسرائیل در تهران هدف قرار گرفت؛ سطح جدیدی از هدف‌گیری تاسیسات انرژی را نشان می‌دهد.",
-            "این دنباله حملات نشان‌دهنده تشدید نظامی است که ریسک اختلال عرضه انرژی منطقه‌ای را افزایش می‌دهد و خطر گسترش درگیری فراتر از مرزها را بالا می‌برد."
-        ],
-        "impact": "این سطح از تشدید احتمال افزایش فشارهای بین‌المللی و اختلال در بازار انرژی را بیشتر می‌کند و رژیم را در معرض تنگنای سیاسی-اقتصادی و انزوا قرار می‌دهد.",
-        "tag": "انرژی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "WBUR",
-        "url": "https://www.wbur.org/hereandnow/2026/03/19/energy-attacks-middle-east",
-        "clean_url": "https://www.wbur.org/hereandnow/2026/03/19/energy-attacks-middle-east",
-        "image": null,
-        "timestamp": 1773936588.0
-    },
-    {
-        "title_fa": "بسنت: آمریکا ممکن است تحریم نفت ایرانِ مانده در دریا را بردارد",
-        "title_en": "Bessent says US may lift sanctions on Iranian oil stuck at sea",
-        "summary": [
-            "اطهار نظر بسنت: مقام آمریکایی اعلام کرده ممکن است واشنگتن تحریم‌های مرتبط با محموله‌های نفتی ایران که به‌خاطر تحریم در دریا متوقف شده‌اند را تعلیق یا بردارد.",
-            "از منظر فشار خارجی، چنین اقدامِ احتمالی ساختار فشار اقتصادی را تضعیف می‌کند و دسترسی موقت درآمدهای نفتی را برای حکومت افزایش می‌دهد.",
-            "پیامد داخلی: این تصمیم می‌تواند فضای اقتصادی کوتاه‌مدتی فراهم کند اما ضعف‌های ساختاری مدیریتی و وابستگی به درآمد نفتی را رفع نخواهد کرد و ممکن است منابع را برای تقویت سرکوب یا خرید آرامش اجتماعی به کار گیرد."
-        ],
-        "impact": "رفع احتمالی تحریم این محموله‌ها به‌طور موقت نفس مالی حکومت را باز می‌کند و فشارهای اقتصادی و سیاسی را که می‌توانست به نارضایتی و بی‌ثباتی کمک کند، کاهش می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The Hill",
-        "url": "https://www.msn.com/en-us/politics/government/bessent-says-us-may-lift-sanctions-on-iranian-oil-stuck-at-sea/ar-AA1YZY16",
-        "clean_url": "https://www.msn.com/en-us/politics/government/bessent-says-us-may-lift-sanctions-on-iranian-oil-stuck-at-sea/ar-AA1YZY16",
-        "image": null,
-        "timestamp": 1773936174.0
-    },
-    {
-        "title_fa": "نظرسنجی جدید: اکثریت آمریکایی‌ها می‌گویند جنگ با ایران بیش از آمریکا به نفع اسرائیل خواهد بود",
-        "title_en": "New Poll: Majority of Americans Say Iran War Is For Israel's Benefit Over America's",
-        "summary": [
-            "یافته اصلی: نظرسنجی نشان می‌دهد اکثریت شهروندان آمریکایی معتقدند هر گونه درگیری با ایران بیشتر به نفع اسرائیل خواهد بود تا منافع آمریکا؛ این بازتاب مهمی از بی‌اعتمادی عمومی نسبت به روایت‌های مداخله‌گرایانه است.",
-            "پیامدهای سیاست خارجی: این دیدگاه عمومی هزینه سیاسی برای تشدید نظامی یا تحریمی توسط دولت آمریکا را افزایش می‌دهد و در عمل ظرفیت واشنگتن را برای اعمال فشار‌های گسترده یا مداخله کاهش می‌دهد.",
-            "پیام داخلی برای ایران: هرچند نظرسنجی به‌تنهایی نشانه تغییر در اعتراضات یا اقتصاد داخلی ایران نیست، اما کاهش احتمال مداخله مستقیم خارجی می‌تواند فرصت موقتی برای مدیریت بحران خارجی رژیم فراهم آورد؛ ناکارآمدی اقتصادی و سیاسی اما عامل اصلی نارضایتی داخلی می‌ماند."
-        ],
-        "impact": "این نظرسنجی فشار افکار عمومی آمریکا را بر کاخ سفید برای احتیاط در تشدید نظامی و تحریمی افزایش می‌دهد و بنابراین افق فشار خارجی علیه تهران کوتاه‌مدت‌تر و نامطمئن‌تر می‌شود.",
-        "tag": "نظرسنجی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "IMEU Policy Project",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qbFUwdUZxa3B2NVMtODl4RTNJR3NIaURpQVlfZGtEWGx3VjItUm9VTWZjd3FrOV9kMndKU2ZjOEkzdEpQOHBqWDFaYWtQdng0TlE0WHhSZ1NUU2lGUFJpN2lod3NUbHM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9qbFUwdUZxa3B2NVMtODl4RTNJR3NIaURpQVlfZGtEWGx3VjItUm9VTWZjd3FrOV9kMndKU2ZjOEkzdEpQOHBqWDFaYWtQdng0TlE0WHhSZ1NUU2lGUFJpN2lod3NUbHM",
-        "image": null,
-        "timestamp": 1773933616.0
-    },
-    {
-        "title_fa": "زنده: ایران به تاسیسات انرژی حمله کرد؛ اسرائیل در دو روز ۴۵ نفر را در لبنان کشت",
-        "title_en": "Live: Iran attacks energy sites as Israel kills 45 people in Lebanon in two days",
-        "summary": [
-            "ایران به تاسیسات انرژی حمله کرده که نشانه تشدید مستقیم علیه زیرساخت‌های حیاتی و افزایش خطر نظامی است.",
-            "اسرائیل در دو روز اخیر ۴۵ نفر را در لبنان کشته؛ این آمار منعکس‌کننده افزایش شدت عملیات نظامی و تلفات در مرزهای منطقه است.",
-            "تحلیل: این تحرکات می‌تواند منجر به بسط درگیری منطقه‌ای، تشدید فشارهای بین‌المللی و احتمال تحریم‌های بیشتر شود و در نتیجه ثبات اقتصادی و سیاسی رژیم را تضعیف کند."
-        ],
-        "impact": "پیامد فوری این است که ریسک گسترش درگیری فرامرزی بالا رفته و فشارهای بین‌المللی و اقتصادی که ثبات داخلی رژیم را تضعیف می‌کنند، افزایش خواهد یافت.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FeXpPbkl0TndOTmdVREw1ZUF0MTE1MDd3SXFQWHpWbTBBWEtVWVhlZmZZX2pJZ3BDNERQay1pWW1jbElKNUNEVUFfTVdkTXdaZjB2eUlLblpySXdWN2JLOXUwWWlBRjI2azN0V1V0N1ZZRjg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FeXpPbkl0TndOTmdVREw1ZUF0MTE1MDd3SXFQWHpWbTBBWEtVWVhlZmZZX2pJZ3BDNERQay1pWW1jbElKNUNEVUFfTVdkTXdaZjB2eUlLblpySXdWN2JLOXUwWWlBRjI2azN0V1V0N1ZZRjg",
-        "image": null,
-        "timestamp": 1773933115.0
-    },
-    {
-        "title_fa": "ترامپ مقاله‌ای را به اشتراک گذاشت که ادعا می‌کند آغاز جنگ با ایران از وقوع «هولوکاست» جلوگیری کرده است",
-        "title_en": "Trump shares article that claims launching Iran war prevented another Holocaust",
-        "summary": [
-            "ترامپ در شبکه Truth Social پیوندی به یک یادداشت از Israel National News منتشر کرد که می‌گوید حمله به ایران و خروج از برجام از وقوع «هولوکاست هسته‌ای» جلوگیری کرده؛ یکی از نویسندگان مقاله، جاناتان بورکان، به شورای یادبود هولوکاست آمریکا منصوب شده بود.",
-            "در حالی که دولت ترامپ مدعی «نابودی» قابلیت‌های هسته‌ای ایران است، ظاهراً جزئیات فنی و شواهد ملموس درباره سطح تهدید پیش از جنگ مبهم باقی مانده؛ مدیر اطلاعات ملی از اعلام اینکه آیا تهدید «قریب‌الوقوع» بود خودداری کرد و کنگره برنامه روشن درباره مدیریت موجودی هسته‌ای پس از جنگ دریافت نکرده است.",
-            "عملیات نظامی و تبلیغات مرتبط هزینه‌های روشنی در پی داشته‌اند (افزایش قیمت جهانی نفت، ۱۳ کشته در میان نظامیان آمریکایی) و این ترکیب فشار خارجی می‌تواند بازدارندگی هسته‌ای رژیم را تضعیف و فشارهای سیاسی-اقتصادی بر حکومت ایران را تشدید کند."
-        ],
-        "impact": "روایت رسمی مبنی بر «پیشگیری از هولوکاست» همراه با ضربه‌های نظامی، امکان بازدارندگی هسته‌ای رژیم را کاهش داده و می‌تواند به تشدید فشارهای اقتصادی و افزایش بی‌اعتمادی سیاسی در داخل ایران بینجامد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": 0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/trump-shares-article-claims-launching-203202462.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-shares-article-claims-launching-203202462.html",
-        "image": null,
-        "timestamp": 1773931860.0
-    },
-    {
-        "title_fa": "آیا آمریکا و اسرائیل در جنگ با ایران هم‌راستا هستند؟ رمزگشایی از پست ترامپ پس از حملات به میدان‌های گازی",
-        "title_en": "Are US and Israel in lockstep in Iran war? Deciphering Trump's post after gas field attacks",
-        "summary": [
-            "پست ترامپ پس از حملات به میدان‌های گازی ابهام درباره سطح هماهنگی راهبردی واشنگتن و تل‌آویو را تشدید کرده؛ بررسی زمان‌بندی و محتوای اطلاعات برای تعیین هم‌راستایی ضروری است و باید از نتیجه‌گیری‌های شتاب‌زده پرهیز شود.",
-            "در صورت اثبات هم‌راستایی، انتظار تشدید فشارهای اقتصادی و هدف‌گیری زیرساختی وجود دارد که ساختار مالی و عملیاتی رژیم را ضعیف‌تر کرده و ظرفیت اداره کشور را کاهش می‌دهد؛ این فشارها فرصت و هم ریسک تشدید بی‌ثباتی داخلی را همزمان بالا می‌برند.",
-            "هرگونه تشدید نظامی یا تحریمی بار اقتصادی را بر مردم سنگین‌تر می‌کند و در غیاب مدیریت مسئولانه بحران، احتمال افزایش نارضایتی اجتماعی و گسترش اعتراضات را افزایش می‌دهد؛ این مسئله شکست مدیریتی و ریشه‌ای اقتصادی رژیم را برجسته می‌سازد."
-        ],
-        "impact": "اگر آمریکا و اسرائیل واقعاً هماهنگ عمل کنند، فشار خارجی و خطر درگیری مستقیم که ثبات داخلی رژیم را به‌شدت تهدید می‌کند به‌طور قابل توجهی افزایش خواهد یافت.",
-        "tag": "هماهنگی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMMHE3NTFMZ0EzT3hseE5fZk0xQkl6c20xaFdlMHF0MTlmU0tnUXphbXdNOW9fUjMtOFFFTWNqU29Vak5icUFrWEJkcjBwU2l1bWQ5YU1nV2YwUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMMHE3NTFMZ0EzT3hseE5fZk0xQkl6c20xaFdlMHF0MTlmU0tnUXphbXdNOW9fUjMtOFFFTWNqU29Vak5icUFrWEJkcjBwU2l1bWQ5YU1nV2YwUQ",
-        "image": null,
-        "timestamp": 1773929248.0
     }
 ]
