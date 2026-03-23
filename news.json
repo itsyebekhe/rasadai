@@ -36,6 +36,42 @@
         "timestamp": 1774247467.0
     },
     {
+        "title_fa": "سپاه تهدید کرد: نیروگاه‌ها و زیرساخت‌های غیرنظامی اسرائیل هدف قرار می‌گیرند",
+        "title_en": "IRGC warns it will target Israeli power plants, civilian infrastructure",
+        "summary": [
+            "سپاه اعلام کرده که نیروگاه‌ها و زیرساخت‌های غیرنظامی اسرائیل را هدف خواهد گرفت؛ چنین اعلامیه‌ای ریسک تشدید مستقیم نظامی و توجیه پاسخ‌های تلافی‌جویانه از سوی اسرائیل را افزایش می‌دهد.",
+            "این نوع تهدیدها احتمال واکنش‌های سیاسی و اقتصادی بین‌المللی از جمله تشدید تحریم‌ها و انزوای دیپلماتیک را بالا می‌برد؛ فشار خارجی چنین تحریم‌هایی ساختار اقتصادی شکننده رژیم را فرسایش می‌دهد و توان دولت برای مدیریت بحران‌های داخلی را کاهش می‌دهد.",
+            "در سطح داخلی، موضع‌گیری نظامی می‌تواند تلاش‌هایی برای بسیج حمایت یا پرت کردن افکار عمومی از ناکارآمدی اقتصادی باشد، اما گزارش حاضر هیچ نشانه‌ای دال بر آغاز حمله واقعی ندارد؛ تحلیل باید بین اعلام تهدید و اقدام نظامی واقعی فاصله قائل شود."
+        ],
+        "impact": "تهدید سپاه به هدف قرار دادن تاسیسات برق و زیرساخت‌های غیرنظامی اسرائیل شانس درگیری نظامی مستقیم را افزایش می‌دهد و همزمان فشارهای بین‌المللی و ریسک فرسایش اقتصادی و سیاسی رژیم را تشدید می‌کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ySjhDa011WERYN2RMUHR6amFYVlA5VWJwWkRVZjc1OXFBUGExSDUtYXdiZTJlN2laZThXV0RnZDNHVFVROVZrNVFLcExmTzRaS2hUX0lCLXU1WUtsaVZqV3IxbkxfY1ZPWHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ySjhDa011WERYN2RMUHR6amFYVlA5VWJwWkRVZjc1OXFBUGExSDUtYXdiZTJlN2laZThXV0RnZDNHVFVROVZrNVFLcExmTzRaS2hUX0lCLXU1WUtsaVZqV3IxbkxfY1ZPWHc",
+        "image": null,
+        "timestamp": 1774244844.0
+    },
+    {
+        "title_fa": "سقوط شاخص‌های آسیایی در پی تهدید آمریکا و ایران به تشدید جنگ",
+        "title_en": "Asia stocks slide as US and Iran threaten to intensify war",
+        "summary": [
+            "بازارهای آسیایی امروز سقوط کردند زیرا تهدیدهای متقابل آمریکا و ایران مبنی بر تشدید درگیری‌ها سرمایه‌گذاران را نسبت به گسترش جنگ و بی‌ثباتی منطقه‌ای نگران کرده است.",
+            "تهدید به تشدید جنگ احتمال افزایش تحریم‌ها و فشارهای مالی-دیپلماتیک را بالا می‌برد؛ این فشارها ظرفیت مالی حکومت برای پوشش هزینه‌های نظامی و واردات حیاتی را تضعیف می‌کند و ساختار ثبات داخلی را به خطر می‌اندازد.",
+            "کاهش قیمت دارایی‌ها بازتاب آسیب‌پذیری ساختاری اقتصاد و فقدان اعتماد عمومی به توان حکومت در مدیریت بحران است؛ ادامه این روند فشار معیشتی را تشدید و مشروعیت داخلی را کاهش خواهد داد."
+        ],
+        "impact": "تشدید تهدیدهای جنگی بازارها را ناپایدار کرده و ریسک فشارهای اقتصادی و سیاسی بیشتر بر حکومت را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/world/asia-stocks-slide-as-us-and-iran-threaten-to-intensify-war/ar-AA1ZbmSu",
+        "clean_url": "https://www.msn.com/en-us/news/world/asia-stocks-slide-as-us-and-iran-threaten-to-intensify-war/ar-AA1ZbmSu",
+        "image": null,
+        "timestamp": 1774242734.0
+    },
+    {
         "title_fa": "تهدید ایران به تلافی متقابل در صورت هدف‌گیری نیروگاه‌ها",
         "title_en": "Iran points at tit for tat retaliation if power plants targeted, statement",
         "summary": [
@@ -160,6 +196,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/03/22/world/iran-war-oil-trump",
         "image": null,
         "timestamp": 1774229988.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده ایران: مهلت ۴۸ ساعته ترامپ عصر دوشنبه به پایان می‌رسد",
+        "title_en": "Iran live updates: Trump's 48-hour deadline to expire Monday evening",
+        "summary": [
+            "اطلاع‌رسانی اصلی: مهلت ۴۸ ساعته تعیین‌شده توسط ترامپ تا عصر دوشنبه به پایان می‌رسد.",
+            "وضعیت میدانی: جنگ وارد هفته چهارم شده و هر گونه تصمیم پس از انقضای مهلت می‌تواند جهت‌گیری نبرد را تغییر دهد.",
+            "پیامد فوری: پایان مهلت، احتمال تشدید اقدامات نظامی یا دیپلماتیک را افزایش می‌دهد و فضای تصمیم‌گیری را فشرده‌تر می‌کند."
+        ],
+        "impact": "انقضای مهلت ۴۸ ساعته فشار خارجی را متمرکزتر می‌کند و رژیم را در معرض تشدید تنش نظامی و تضعیف موقعیت استراتژیک قرار می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-s-48-hour-deadline-to-expire-monday-evening/ar-AA1Zckln",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-s-48-hour-deadline-to-expire-monday-evening/ar-AA1Zckln",
+        "image": "http://www.bing.com/th?id=ONUT.AfbDQs6TtZmqygrp-isoCA&pid=News",
+        "timestamp": 1774229780.0
     },
     {
         "title_fa": "بازارها در انتظار اجرای تهدیدهای ترامپ و ایران در تنگه هرمز؛ ریسک پیامدهای بالقوه فاجعه‌بار",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlMFl3NVJVck9oY09pR2pocWFaMHBhRVdFNzFyRFphUlp1U2gzelZIZGloazlPMzJZR1c4Uk51alI5SU84enM4NVV4bHZzZ0k2Y2Z3ZU1RbTBVT2o0THFLZFRqM3dPa1NmeHhkejNjZ0tpWUJ2ekdaaHF1bnLSAYIBQVVfeXFMUHZmV1ZWc2UzT21JUlBYTU9MV0o5T0RTMjA5ME02NlRXWV91N2xkZUFicWNlMmlJMWVsNDZlQnVQVkdlOWs1RmNtcXViTC1NbDNpTzQ2dzZsLWZXblVFcWJDWFRjLTFCUzVUY0dJaDVOYXpIWkIwazlEdEh1R1d1OEgtZw",
         "image": null,
         "timestamp": 1773891285.0
-    },
-    {
-        "title_fa": "حملات به تأسیسات نفتی در میانه تشدید درگیری‌های مرتبط با ایران: پوشش زنده",
-        "title_en": "Oil sites attacked amid Iran war escalations: Live updates",
-        "summary": [
-            "گزارش عنوان می‌کند که تأسیسات نفتی هدف حملاتی قرار گرفته‌اند همزمان با تشدید درگیری‌ها مرتبط با ایران.",
-            "پوشش زنده نشان‌دهنده وضعیتی در حال تحول و احتمال گسترش تنش‌ها در منطقه است؛ جزئیات عاملان و وسعت تخریب در متن گزارش حاضر نیست.",
-            "آسیب‌دیدن زیرساخت‌های نفتی می‌تواند صادرات و درآمد ارزی را مختل کرده و فشار اقتصادی و سیاسی بر رژیم را افزایش دهد، حتی اگر در گزارش به تحریم‌های جدید اشاره نشده باشد."
-        ],
-        "impact": "حمله به زیرساخت‌های نفتی، حتی بدون اعلام عاملان، توان اقتصادی رژیم را تضعیف کرده و حساسیت آن نسبت به تحریم‌ها و نارضایتی داخلی را بالا می‌برد.",
-        "tag": "نفت",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/live-story/news/world/2026/03/19/iran-war-us-israel-trump-live-updates/89214749007/",
-        "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/19/iran-war-us-israel-trump-live-updates/89214749007",
-        "image": null,
-        "timestamp": 1773890880.0
-    },
-    {
-        "title_fa": "پس از حملات تهران، ترامپ: اسرائیل دیگر میادین گازی ایران را هدف نخواهد گرفت",
-        "title_en": "After Tehran strikes, Trump says Israel won't attack Iran gas fields anymore",
-        "summary": [
-            "تیتر گزارش می‌دهد که پس از حملات تهران، دونالد ترامپ اعلام کرده اسرائیل دیگر میادین گازی ایران را هدف نخواهد گرفت—تغییری عملی یا حداقل لفظی در محاسبات نظامی منطقه‌ای.",
-            "کاهش احتمالی تهدید مستقیم به تاسیسات انرژی، فشار نظامی بر بخشی از درآمدهای حیاتی رژیم را موقتاً کاهش می‌دهد، اما تحریم‌ها و فشارهای اقتصادی خارجی همچنان ساختار مالی و بودجه‌ای حکومت را تضعیف می‌کنند.",
-            "ضعف در تضمین امنیت میادین گازی یا تکرار هدف‌گیری آن‌ها نمودی از ناکارآمدی مدیریتی امنیت اقتصادی است و می‌تواند زمینه‌ساز تشدید نارضایتی عمومی شود."
-        ],
-        "impact": "اظهارنظر ترامپ می‌تواند از تشدید نظامی فوری جلوگیری کند اما آسیب اقتصادی و بحران مشروعیت داخلی رژیم با حفظ تحریم‌ها و ناتوانی در حفاظت از درآمدهای انرژی ادامه خواهد داشت.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DcDRRQkxfcTVmdVdtejM3QVIyNFhJb2EtV1I3U1djV1JKLWFCME96eWpUUmdSRzA1RWJuWTQ4LWVSQ2VHdWlpNlRubWdqOFJOTUwzSjBudGNKTUdZVnF3UHVHNHJ6bk5YSHB2UGRoX3A3S1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DcDRRQkxfcTVmdVdtejM3QVIyNFhJb2EtV1I3U1djV1JKLWFCME96eWpUUmdSRzA1RWJuWTQ4LWVSQ2VHdWlpNlRubWdqOFJOTUwzSjBudGNKTUdZVnF3UHVHNHJ6bk5YSHB2UGRoX3A3S1E",
-        "image": null,
-        "timestamp": 1773890400.0
-    },
-    {
-        "title_fa": "ترامپ به ایران هشدار داد: علیه قطر تلافی نکنید پس از حمله اسرائیل به میدان گازی",
-        "title_en": "Trump warns Iran not to retaliate against Qatar following Israeli attack on gas field",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور پیشین آمریکا، به ایران هشدار داده که پس از حمله اسرائیل به یک میدان گازی علیه قطر تلافی نکند؛ هشدار نشانگر مداخله سیاسی فرامنطقه‌ای در بحران فعلی است.",
-            "این فشار خارجی عملاً گزینه‌های تهاجمی تهران را محدود می‌کند و ریسک گسترش درگیری را کاهش می‌دهد؛ هم‌زمان آسیب‌پذیری سیاست خارجی حکومت را در برابر ممانعت‌های بین‌المللی برجسته می‌سازد.",
-            "هرگونه پاسخ نظامی از سوی ایران می‌تواند زمینهٔ افزایش تحریم‌ها یا واکنش‌های منطقه‌ای را فراهم کند؛ پیامد مستقیم این مسیر تشدید فشار اقتصادی و افزایش نارضایتی داخلی خواهد بود."
-        ],
-        "impact": "هشدار ترامپ فضای مانع‌گذاری علیه واکنش ایران را تشدید می‌کند و بار اقتصادی-سیاسی بر حکومت را افزایش می‌دهد، به‌ویژه اگر تهران راه تلافی نظامی را دنبال کند.",
-        "tag": "تنش",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Politico",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZkZoU2JQUmFDLXk0UV9HT2p6a2lsT2c3THp2c0doaWRodmc5NDlOd1d5cE5obzREZUN3ei1YMVFLSWVzYV92MGRZeVo3a04xVlo0bFo0dExTRGhQcTNvc2lrNVY5LXAtZDRuZlo1dHVRUFRBMG1kRlB0M2ZQWnpqYVNhUWtUaFZwWGwyWThmRDNzZ2Z2ZUdpejVxOEUyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZkZoU2JQUmFDLXk0UV9HT2p6a2lsT2c3THp2c0doaWRodmc5NDlOd1d5cE5obzREZUN3ei1YMVFLSWVzYV92MGRZeVo3a04xVlo0bFo0dExTRGhQcTNvc2lrNVY5LXAtZDRuZlo1dHVRUFRBMG1kRlB0M2ZQWnpqYVNhUWtUaFZwWGwyWThmRDNzZ2Z2ZUdpejVxOEUyUQ",
-        "image": null,
-        "timestamp": 1773889961.0
     }
 ]
