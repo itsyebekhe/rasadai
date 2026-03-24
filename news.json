@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اسرائیل موج جدیدی از حملات به تهران راه‌اندازی کرد؛ ترامپ حملات به انرژی ایران را تعلیق کرد",
+        "title_en": "Israel launches new strikes on Tehran as Trump pauses Iran energy attacks",
+        "summary": [
+            "نیروهای دفاعی اسرائیل اعلام کردند موج جدیدی از حملات علیه هدف‌های نظامی در تهران را آغاز کرده‌اند و گفته‌اند تا دستور سیاسی دیگری دریافت نکنند به عملیات ادامه می‌دهند؛ همزمان اعلام شد که هدف‌گیری زیرساخت‌های انرژی فعلاً کنار گذاشته شده است.",
+            "دونالد ترامپ گفت گفت‌وگوهای «سازنده» با تهران داشته و دستور داده هرگونه حمله به نیروگاه‌ها و زیرساخت‌های انرژی ایران برای پنج روز به تعویق بیفتد؛ دفتر نخست‌وزیری اسرائیل به‌سرعت در این مورد واکنش رسمی نشان نداد.",
+            "سپاه پاسداران اعلام کرد حمله‌ای به اهدافی در اسرائیل انجام داده و گزارش‌های رسانه‌ای از تهران از انفجارهایی با ابعاد و شدت بی‌سابقه خبر می‌دهند؛ بنابراین رویارویی نظامی دوجانبه بین ایران و اسرائیل در جریان است. "
+        ],
+        "impact": "تعویق موقت حملات آمریکا به زیرساخت‌های انرژی ممکن است فشار خارجیِ فوری بر شبکه‌های حیاتی کاهش دهد، اما ادامه حملات و تهدیدات اسرائیل ساختار امنیتی و اقتصادی رژیم را تضعیف می‌کند و هزینه‌های سیاسی-اقتصادی و ریسک تشدید درگیری را افزایش می‌دهد.",
+        "tag": "تقابل",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/mar/23/israel-launches-new-strikes-on-tehran-as-trump-pauses-iran-energy-attacks",
+        "clean_url": "https://www.theguardian.com/world/2026/mar/23/israel-launches-new-strikes-on-tehran-as-trump-pauses-iran-energy-attacks",
+        "image": null,
+        "timestamp": 1774323780.0
+    },
+    {
         "title_fa": "ایران: حملات عمدی به کشتی‌های غیرنظامی مصداق جرایم جنگی",
         "title_en": "Iran: Deliberate Attacks on Civilian Ships Apparent War Crimes",
         "summary": [
@@ -54,6 +72,24 @@
         "timestamp": 1774315842.0
     },
     {
+        "title_fa": "ترامپ و ایران سیگنال‌های متناقض درباره مذاکره؛ ضرب‌الاجل هرمز به تعویق افتاد",
+        "title_en": "Trump, Iran give conflicting signals on talks as Hormuz deadline postponed",
+        "summary": [
+            "اظهارات رسمی: دونالد ترامپ گفت ضرب‌الاجل ۴۸ ساعته برای بازگشایی تنگه هرمز را پنج روز تمدید می‌کند و از «۱۵ بند توافق» و «گفت‌وگوهای سازنده» با تهران خبر داد؛ وزارت خارجه ایران گفتگو با واشنگتن را تکذیب کرد و خبرگزاری فارس از آماده‌سازی اقدامات احتمالی علیه تل‌آویو و متحدان منطقه‌ای آمریکا و اسرائیل خبر داد.",
+            "فشار و تضعیف ساختاری: تهدید به حمله علیه نیروگاه‌ها و سیاست فشار حداکثری آمریکا، مؤلفه‌ای ساختاری برای تضعیف توان اقتصادی و سیاسی رژیم است — این فشارها هزینه‌های اقتصادی، اختلال در مدیریت انرژی و کاهش اعتبار داخلی را تشدید می‌کند و باعث می‌شود تهران به پاسخ‌های نامتقارن و تهدیدات منطقه‌ای متوسل شود.",
+            "ابعاد اقتصادی و بازیگر خارجی: کاهش قیمت نفت و واکنش مثبت بازارهای آسیایی و اقدام چین در تنظیم قیمت سوخت نشان می‌دهد بازیگران اقتصادی منطقه می‌توانند شوک‌ها را تعدیل کنند؛ هرچند هیچ دلیلی در گزارش برای حمایت سیاسی-نظامی مستقیم چین از تهران ذکر نشده، اما تعاملات اقتصادی چین می‌تواند به بقأ اقتصادی رژیم کمک کند."
+        ],
+        "impact": "تعویق ضرب‌الاجل احتمال درگیری فوری را کاهش می‌دهد اما سیگنال‌های متناقض از تهران و واشنگتن و برنامه‌ریزی برای واکنش منطقه‌ای نشان‌دهنده ضعف هماهنگی درون‌حکومتی و ادامه خطر گسترش تنش است.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
+        "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-24-26",
+        "image": "http://www.bing.com/th?id=ONUT.qm4tVgO3N5GYZP3leV4aUw&pid=News",
+        "timestamp": 1774301340.0
+    },
+    {
         "title_fa": "ورود جنگ آمریکا و اسرائیل با ایران به هفتهٔ چهارم؛ هزینه‌ها در حال افزایش",
         "title_en": "As US-Israeli war on Iran enters fourth week, costs are mounting",
         "summary": [
@@ -72,6 +108,24 @@
         "timestamp": 1774300814.0
     },
     {
+        "title_fa": "چرا ترامپ حتی اگر بخواهد نمی‌تواند از جنگ با ایران خارج شود",
+        "title_en": "Why Trump may not be able to TACO in Iran — even if he wants to",
+        "summary": [
+            "تعلیق موقت تهدید حمله به نیروگاه‌های ایران توسط ترامپ با بی‌ثباتی زبانی و فقدان یک راهبرد خروج شفاف توأم است؛ تناقضات احتمالیِ موضع آمریکایی اعتبار هر بیانیه‌ای را تضعیف می‌کند.",
+            "تهدیدات برای بستن تنگه هرمز و پاسخ تهدیدآمیز تهران می‌توانست صادرات نفت را مختل و موجی از افزایش قیمت و رکود جهانی ایجاد کند؛ چنین اختلالی فشار اقتصادی و سیاسی بر رژیم را تشدید می‌کند.",
+            "حکایت مقاله از هزینه‌دهي انسانی برای شهروندان ایرانی و ناتوانی دولت در ارائه راه‌حل اقتصادی-مدیریتی است؛ ترکیب سیاست خارجی تهاجمی و مدیریت ضعیف داخلی ریسک تشدید ناآرامی‌های داخلی را بالا می‌برد."
+        ],
+        "impact": "اختلاف میان تهدیدهای نظامی آمریکا و فقدان برنامه خروج راهبردی، فشارهای اقتصادی و سیاسی را بر رژیم ایران تشدید می‌کند و احتمال یا تشدید درگیری نظامی و یا گسترش ناآرامی‌های داخلی را افزایش می‌دهد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/2026/03/24/politics/trump-iran-war-taco-straight-of-hormuz-analysis",
+        "clean_url": "https://edition.cnn.com/2026/03/24/politics/trump-iran-war-taco-straight-of-hormuz-analysis",
+        "image": "http://www.bing.com/th?id=ONUT.1G10LUJR3xVvyREqrrAbSA&pid=News",
+        "timestamp": 1774299600.0
+    },
+    {
         "title_fa": "خشم از تسهیل تحریم نفت ایران؛ ترامپ زیر فشار",
         "title_en": "Trump Faces Blowback on Easing Iran Oil Sanctions",
         "summary": [
@@ -88,6 +142,24 @@
         "clean_url": "https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html",
         "image": "https://static01.nyt.com/images/2026/03/23/multimedia/23dc-sanctions-kmch/23dc-sanctions-kmch-facebookJumbo.jpg",
         "timestamp": 1774298880.0
+    },
+    {
+        "title_fa": "ترامپ می‌گوید ایران خواهان توافق است و حملات هوایی را به تعویق انداخت — خلاصه",
+        "title_en": "Trump says Iran wants a deal as he postpones airstrikes. Recap",
+        "summary": [
+            "دونالد ترامپ اعلام کرده ایران خواهان توافق است و او اجرای حملات هوایی را به تعویق انداخت.",
+            "تعویق ضربات هوایی خطر تشدید نظامی فوری را کاهش می‌دهد اما فشارهای ساختاری مثل تحریم‌ها و تنگنای اقتصادی که ثبات رژیم را سست می‌کنند کماکان باقی است.",
+            "اظهارات طرف آمریکایی ممکن است حرکتی تاکتیکی برای به‌دست‌آوردن اهرم‌های بیشتر باشد؛ این سیگنال لزوماً راه‌حلی برای ناکارآمدی مدیریتی و نارضایتی‌های داخلی در ایران نیست."
+        ],
+        "impact": "تعویق حملات مهلت محدودی برای کاهش تنش می‌دهد اما رژیم ایران همچنان در معرض فشار اقتصادی و سیاسی است که از درون آن را تضعیف می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Milwaukee Journal Sentinel",
+        "url": "https://www.jsonline.com/live-story/news/world/2026/03/23/iran-war-united-states-live-updates/89277729007/",
+        "clean_url": "https://www.jsonline.com/live-story/news/world/2026/03/23/iran-war-united-states-live-updates/89277729007",
+        "image": "http://www.bing.com/th?id=ONUT.Oy7_G66J5X6zWyr3DgC9JA&pid=News",
+        "timestamp": 1774298460.0
     },
     {
         "title_fa": "نمایش موشکی ایران و تاثیر بالقوه بر محاسبات اروپا",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQndSTnNOYy1xV2ZsejJOalZZSlkwYVE0OXlPNkFEVDZYdWtMWU10djg0eXRlX0xQY0xoTkJ6NnVBUWplWHpSQldadEEtZE9yWlpFTElZV2ZiR2pzYWN0TDRVQm9mNHhSWWNUTlpQSFVZMjhFRW95QmFRc0t4Z3dTWWZNNknSAYoBQVVfeXFMTk1tRWdJV1NmeGJfWTlIOXFnUll5a05qUUhjT1Vqc053Vm83YzZhX2M4ZFJJUzktNWd0a2U0dkJ1ZFRVd0xORzZicUR4cG14WlU1eTRJN2VlR0ZxT2RYNlh1bkRWejhxekh1TTZzNmtWM3diOGQtaWxnTXlqUGMxUjk5RDlSdldYenV3",
         "image": null,
         "timestamp": 1773963000.0
-    },
-    {
-        "title_fa": "عملیات «شیر غران» قواعد جنگ علیه ایران را بازنویسی می‌کند",
-        "title_en": "Operation Roaring Lion Is Rewriting the Rules of War Against Iran",
-        "summary": [
-            "عنوان نشان می‌دهد شیوه‌های عملیاتی جدیدی علیه ایران در حال شکل‌گیری است که آستانه‌ها و قواعد سنتی درگیری را بازتعریف می‌کند.",
-            "این بازتعریف قواعد احتمالاً فشار خارجی را ساختاری‌تر و هزینه‌های سیاسی-اقتصادی را برای حکومت افزایش می‌دهد و توان بازدارندگی کنونی را تضعیف خواهد کرد.",
-            "افزایش حملات هدفمند یا تغییر در نحوه اعمال زور، ضعف مدیریتی و نارضایتی عمومی را برجسته می‌کند و گزینه‌های سیاسی داخلی را محدود خواهد ساخت."
-        ],
-        "impact": "اگر این تغییر قواعد تأیید شود، رژیم کنونی در مواجهه با فشار نظامی و سیاسی تشدیدشده به‌سرعت تضعیف شده و خطر بروز بحران‌های داخلی جدی افزایش می‌یابد.",
-        "tag": "تهاجم",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Foundation for Defense of Democracies",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTUzQTF2aU82eXhKUkVERUV5LTJjMVVDXzhJSWlwUVJadHdHN053ak9tWWZMWmloT2R0WkdnNDN1VEo4bXU1N2hHdTNrTHktUEppVGxVZ2ZXR19qTmNaUW1PT1FYUE1aNFVOb1dCYjgtaTRDTUVVUTVsVVNoX1FQeGRSVFNPWUVUVWFnV3VQeVJRUnNJRFRwSVhOaGkzXzh2OHZ5U3F4N3I0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUTUzQTF2aU82eXhKUkVERUV5LTJjMVVDXzhJSWlwUVJadHdHN053ak9tWWZMWmloT2R0WkdnNDN1VEo4bXU1N2hHdTNrTHktUEppVGxVZ2ZXR19qTmNaUW1PT1FYUE1aNFVOb1dCYjgtaTRDTUVVUTVsVVNoX1FQeGRSVFNPWUVUVWFnV3VQeVJRUnNJRFRwSVhOaGkzXzh2OHZ5U3F4N3I0UQ",
-        "image": null,
-        "timestamp": 1773961480.0
-    },
-    {
-        "title_fa": "ایران تهدید به هدف‌گیری سایت‌های گردشگری جهان و تأکید بر ادامه ساخت موشک‌ها سه هفته پس از آغاز درگیری‌ها",
-        "title_en": "Iran threatens world tourism sites and says it is still building missiles 3 weeks into war",
-        "summary": [
-            "حکومت ایران اعلام کرده که سایت‌های تفریحی و گردشگری در سطح جهانی را می‌تواند هدف قرار دهد؛ این تهدید در سه‌هفته‌ای که از حملات آمریکا و اسرائیل می‌گذرد بیان شد.",
-            "رژیم هم‌زمان تصریح کرده که برنامه ساخت موشک‌ها ادامه دارد؛ پیام روشن نمایش تداوم توان نظامی و فقدان عقب‌نشینی در مواجهه با فشارهای خارجی است.",
-            "این موضع‌گیری‌ها به‌عنوان نمایش عینیِ مقاومت حکومتی تفسیر می‌شود و خطر تشدید نظامی و واکنش شدیدتر جامعه بین‌المللی را بالا می‌برد."
-        ],
-        "impact": "اظهارات تهدیدآمیز و تأکید بر تولید موشک‌ها، دلیل سیاسی و عملی برای تشدید اقدامات تنبیهی و نظامی علیه رژیم فراهم می‌کند و ثبات داخلی و اقتصاد را بیشتر تضعیف خواهد کرد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-threatens-world-tourism-sites-and-says-it-is-still-building-missiles-nearly-3-weeks-into-war/ar-AA1Z1Ie4",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-threatens-world-tourism-sites-and-says-it-is-still-building-missiles-nearly-3-weeks-into-war/ar-AA1Z1Ie4",
-        "image": "http://www.bing.com/th?id=OVFT.jBhOerU0OmU4dlg0KfKo9y&pid=News",
-        "timestamp": 1773959690.0
-    },
-    {
-        "title_fa": "ایران به پالایشگاه نفت کویت حمله کرد و انفجارها بر فراز تهران از حمله اسرائیل طنین‌انداز شد",
-        "title_en": "Iran hits Kuwaiti oil refinery and explosions boom over Tehran from Israeli attack",
-        "summary": [
-            "حملات پهپادی ایران یک پالایشگاه نفت در کویت را هدف قرار داد؛ هم‌زمان آژیرها در اسرائیل به‌خاطر هشدار ورود آتش‌بار/موشک به صدا درآمد و نشان‌دهنده تبادل حملات فراتر از مرزهاست.",
-            "انفجارهای مهیب بر فراز تهران از حملات اسرائیل گزارش شده؛ این مواجهه مستقیم نظامی بین تهران و تل‌آویو حکایت از تشدید سریع بحران منطقه‌ای دارد.",
-            "این دور جدید درگیری‌ها بقای رژیم را در معرض فشار خارجی و اقتصادی بیشتر قرار می‌دهد — اختلال در زیرساخت‌های انرژی، کاهش سرمایه‌گذاری و فشار بر معیشت مردم تقویت می‌شود؛ هم‌زمان سوءمدیریت داخلی و تصمیم به تشدید عملیات نظامی می‌تواند نارضایتی عمومی را تشدید کند."
-        ],
-        "impact": "چرخه حملات و پاسخ‌ها منطقه را تا آستانه درگیری گسترده‌تر پیش می‌برد و ثبات اقتصادی و امنیتی داخل کشور را به شکل قابل‌توجهی تضعیف خواهد کرد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-hits-kuwaiti-oil-refinery-and-explosions-boom-over-tehran-from-israeli-attack/ar-AA1Z1Ie4",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-hits-kuwaiti-oil-refinery-and-explosions-boom-over-tehran-from-israeli-attack/ar-AA1Z1Ie4",
-        "image": "http://www.bing.com/th?id=OVFT.3erv8xmYFdhkfLLprcIcJy&pid=News",
-        "timestamp": 1773959690.0
-    },
-    {
-        "title_fa": "وسلی کلارک: نتیجه جنگ با ایران تردیدناپذیر است | نظر",
-        "title_en": "Gen. Wesley Clark: The outcome of Iran war isn't in doubt | Opinion",
-        "summary": [
-            "وسلی کلارک، تحلیل‌گر و فرمانده سابق نظامی آمریکایی، در یک یادداشت رأیی مدعی شده نتیجه یک جنگ با ایران روشن و قطعی است؛ گزارش فنی از اقدام نظامی یا شواهد میدانی ارائه نمی‌کند و ماهیت آن صِرف یک نظر است.",
-            "چنین بیانیه‌ای در صف‌بندی ذهنی سیاست‌گذاران و افکار عمومی آمریکا نقش دارد و می‌تواند باز کردن راه برای توجیه عملیات نظامی، فشارهای دیپلماتیک یا تشدید تحریم‌ها علیه تهران را تسهیل کند.",
-            "برای فضای داخلی ایران، این نوع گزاره‌ها به دو نتیجه محتمل می‌انجامد: تشدید اقدامات سرکوبگرانه به‌بهانه مقابله با تهدید خارجی و نیز افزایش بی‌اعتمادی عمومی نسبت به توان تدارکاتی و مدیریتی رژیم."
-        ],
-        "impact": "این ادعاها دستاویز تقویت فشارهای خارجی و توجیه گزینه‌های نظامی یا تحریمی علیه جمهوری اسلامی را فراهم می‌آورد و در نتیجه به تشدید ناپایداری سیاسی و اقتصادی درون کشور دامن می‌زند.",
-        "tag": "جنگ",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Detroit Free Press",
-        "url": "https://www.freep.com/story/opinion/contributors/2026/03/20/iran-war-end-us-israel-air-strikes/89235223007/",
-        "clean_url": "https://www.freep.com/story/opinion/contributors/2026/03/20/iran-war-end-us-israel-air-strikes/89235223007",
-        "image": null,
-        "timestamp": 1773957780.0
     }
 ]
