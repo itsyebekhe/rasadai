@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حملات هوایی احتمالا آخرین اف-14های ایران را نابود کردند؛ پایانی بر یک ماجرای طولانی و عجیب",
+        "title_en": "Airstrikes may have destroyed Iran's last F-14s, ending a long, strange saga",
+        "summary": [
+            "گزارش‌ها حاکی است حملات هوایی احتمالاً آخرین فروندهای اف-14 نیروی هوایی ایران را از بین برده‌اند و به طور عملی حضور این جنگنده در ایران را خاتمه داده‌اند.",
+            "این رخداد نقطه‌ پایانی بر دوره‌ای طولانی از فرسودگی، کمبود قطعات و تلاش‌های تعمیراتی برای حفظ این هواپیماها است؛ نشانه‌ای از افول ظرفیت نگهداری و لجستیکی ناوگان هوایی.",
+            "از منظر امنیتی و سیاسی، از دست رفتن این دارایی نمادین توان بازدارندگی هوایی را کاهش می‌دهد و می‌تواند زمینه افزایش فشار خارجی و هزینه سیاسی داخلی برای رژیم را فراهم کند."
+        ],
+        "impact": "نابودی احتمالی آخرین اف-14ها نشان‌دهنده ضعف ساختاری در نگهداری و توان نظامی است که هم قابلیت بازدارندگی را کاهش می‌دهد و هم به تضعیف مشروعیت عملیاتی حاکمیت می‌انجامد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVpPVVlNbjdzVWV3LWdwSUNHWk1sOERLemZGX083X2llc3hUSWV1UG5HOTJOYURsT0V0OExzTHFrRGp2WUhpZzFjWVJVODlBdFJrQVNGWG9yb3k1N3hYOVgtZjFXckhkWThqWHZXd01oSVBCNnllQThUTkRKcnhHTkRYaFI1ekkySmtiWDVMQWpPZjZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdVpPVVlNbjdzVWV3LWdwSUNHWk1sOERLemZGX083X2llc3hUSWV1UG5HOTJOYURsT0V0OExzTHFrRGp2WUhpZzFjWVJVODlBdFJrQVNGWG9yb3k1N3hYOVgtZjFXckhkWThqWHZXd01oSVBCNnllQThUTkRKcnhHTkRYaFI1ekkySmtiWDVMQWpPZjZR",
+        "image": null,
+        "timestamp": 1774342800.0
+    },
+    {
         "title_fa": "حملات موشکی ایران به اسرائیل و خلیج پس از تکذیب گفت‌وگوها با ترامپ",
         "title_en": "Iran targets Israel and Gulf states after denying Trump talks",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.newsday.com/news/nation/iran-us-israel-trump-lebanon-march-24-2026-h82502",
         "image": null,
         "timestamp": 1774339949.0
+    },
+    {
+        "title_fa": "ایران اسرائیل و کشورهای خلیج را هدف گرفته؛ در حالی که ترامپ می‌گوید آمریکا در گفت‌وگو برای پایان جنگ است",
+        "title_en": "Iran targets Israel and Gulf Arab states even as Trump says US is in talks to end the war",
+        "summary": [
+            "گزارش حاکی است ایران اهدافی در اسرائیل و کشورهای عرب خلیج فارس را هدف گرفته، همزمان ترامپ اعلام می‌کند آمریکا در گفت‌وگوهایی برای پایان جنگ است.",
+            "همزمانی اقدامات عملی ایران و ادعاهای دیپلماتیک آمریکا نشان‌دهنده تناقضی است که می‌تواند کارآیی روندهای دیپلماتیک را کاهش دهد و ریسک تشدید نظامی در منطقه را افزایش دهد.",
+            "فشارهای خارجی و تحریم‌ها ساختار اقتصادی-سیاسی رژیم را تضعیف کرده‌اند؛ ادامه هدف‌گیری خارجی هزینه‌های داخلی را بالا می‌برد و می‌تواند به نارضایتی عمومی و فرسایش مشروعیت حکمرانی بینجامد."
+        ],
+        "impact": "ادامه هدف‌گیری‌های ایران می‌تواند گفت‌وگوهای آمریکایی برای پایان جنگ را تضعیف کند و شانس گسترش درگیری فراتر از مرزهای کنونی را افزایش دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmNqX0xqUURjclQ0RkdQOFhFUWwxemU2Z3dnZFFudDZkZlJnRFp3dVVtZWpKdjEwRWxpVVVkZ2pWdWJRQWhCWUt5RzFkU1ZiYjF4dzg1d0Jsd283MzR6N1lsSGxnYTVqRFo0b05iNVFfN3JYUGVvMy1JTkRCaExVaDFWdlI4b1pCQUxTVmZPSzdJVkFUUjV6b00wbU1ZVU44eEl0aw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQmNqX0xqUURjclQ0RkdQOFhFUWwxemU2Z3dnZFFudDZkZlJnRFp3dVVtZWpKdjEwRWxpVVVkZ2pWdWJRQWhCWUt5RzFkU1ZiYjF4dzg1d0Jsd283MzR6N1lsSGxnYTVqRFo0b05iNVFfN3JYUGVvMy1JTkRCaExVaDFWdlI4b1pCQUxTVmZPSzdJVkFUUjV6b00wbU1ZVU44eEl0aw",
+        "image": null,
+        "timestamp": 1774339500.0
     },
     {
         "title_fa": "رویدادهای جنگ در غرب آسیا: مجتبی خامنه‌ای گزارشاً موافقت به مذاکره با آمریکا کرد؛ حملات اسرائیل نزدیک بیروت ۲ کشته برجای گذاشت",
@@ -198,6 +234,42 @@
         "timestamp": 1774320415.0
     },
     {
+        "title_fa": "متن منبع ناقص؛ فقط بیوگرافی نویسنده",
+        "title_en": "Will Iran Turn to Terrorism?",
+        "summary": [
+            "متن ارائه‌شده تنها شامل بیوگرافی کوتاه Matthew Levitt، متخصص ضدتروریسم، است و خودِ مقاله‌ای در رابطه با عنوان «آیا ایران به تروریسم روی می‌آورد؟» ارائه نشده.",
+            "بدون متن مقاله، هیچ شواهدی درباره تحلیل تحریم‌ها، فشار خارجی، یا ارزیابی نقش روسیه/چین/کره‌شمالی (در صورت لزوم) وجود ندارد؛ هر اشاره‌ای به این عوامل در متن حاضر غایب است.",
+            "عدم وجود محتوای تحلیلی مانع از استنتاج قابل‌اعتماد درباره پیامدهای داخلی، اقتصاد یا روند اعتراضات می‌شود؛ نمی‌توان ادعا کرد که این عنوان نشان‌دهنده تغییر سیاست یا افزایش خطر است."
+        ],
+        "impact": "نبود متن تحلیلی در منبع، هرگونه قضاوت معتبر درباره پیامدهای امنیتی یا سیاسی مربوط به ایران و منطقه را غیرممکن می‌سازد.",
+        "tag": "ناقص",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/iran/will-iran-turn-terrorism",
+        "clean_url": "https://www.foreignaffairs.com/iran/will-iran-turn-terrorism",
+        "image": null,
+        "timestamp": 1774318620.0
+    },
+    {
+        "title_fa": "یک توافق با ایران به‌سرعت قیمت بنزین را پائین نمی‌آورد",
+        "title_en": "A deal with Iran wouldn’t lower your gas prices anytime soon",
+        "summary": [
+            "ترامپ در بازگشتی ناگهانی گفت تنگه هرمز در صورت توافق باز می‌شود و او خواهان کنترل مشترک آمریکا و ایران بر تنگه است؛ اما واقعیت این است که آمریکا کنترل تنگه را در اختیار ندارد و بستن آن به تهران اهرم فوری اقتصادی داده که به‌سرعت از بین نمی‌رود.",
+            "قیمت‌ها در بازار داخلی آمریکا بالاست: بنزین حدود ۴ دلار و دیزل بالای ۵ دلار در هر گالن؛ حتی در صورت بازگشت تولید و باز شدن تنگه، بازگشت قیمت‌ها به سطح قبل از جنگ (زیر ۳ دلار) زمان‌بر و نامطمئن است.",
+            "مقایسه مقاله با واکنش چین نسبت به مواد معدنی حیاتی نشان می‌دهد ابزارهای صادراتی و تنگنای تدارکاتی می‌تواند به‌عنوان اهرم استراتژیک عمل کند؛ فشار خارجی و تحریم‌ها می‌توانند درآمد رژیم را در بلندمدت تضعیف کنند اما تسلط تهران بر تنگه مزیتی استراتژیک برای بقای آن فراهم کرده است."
+        ],
+        "impact": "کنترل تهران بر تنگه هرمز و کندی بازگشت کامل تولید نفت، فشار اقتصادی داخلی را حفظ می‌کند و در عین حال این کنترل به رژیم اهرم سیاسی-اقتصادی مهمی برای بقا می‌دهد.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/2026/03/24/business/gas-prices-taco-trump-iran",
+        "clean_url": "https://edition.cnn.com/2026/03/24/business/gas-prices-taco-trump-iran",
+        "image": "http://www.bing.com/th?id=ONUT.Ntfqk3NoUlUAH5ISLPSaxA&pid=News",
+        "timestamp": 1774317600.0
+    },
+    {
         "title_fa": "اخبار جنگ آمریکا-اسرائیل-ایران: حملات جدید اسرائیل به جنوب لبنان؛ آژیرها در بحرین و کویت",
         "title_en": "US-Israel-Iran War News Highlights: Israel hits new targets in southern Lebanon; sirens sound in Bahrain, Kuwait",
         "summary": [
@@ -232,6 +304,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/trump-gambled-iran-gulf-allies-060000029.html",
         "image": "http://www.bing.com/th?id=ONUT.zp4Y4ecLwBWcJmA604ouqg&pid=News",
         "timestamp": 1774312020.0
+    },
+    {
+        "title_fa": "مجتبی خامنه‌ای در X اشتراک پریمیوم گرفت، با وجود سیاست ممنوعیت افراد تحریم‌شده",
+        "title_en": "Iran Supreme Leader Mojtaba Khamenei gets another blue check on X, despite sanctions policy",
+        "summary": [
+            "حساب انگلیسی مجتبی خامنه‌ای در X ظاهراً با خرید اشتراک پریمیوم علامت آبی دریافت کرده؛ این در حالی است که علامت آبی روی حساب فارسی پیش‌تر حذف شده بود.",
+            "قوانین X خرید خدمات پریمیوم را برای افراد تحریم‌شده ممنوع می‌کند، اما حساب انگلیسی تا زمان نگارش گزارش فعال مانده و ممکن است برای او منافع مالی داشته باشد.",
+            "این رخداد نشان‌دهنده ضعف یا اجرای نابرابر سیاست‌های پلتفرمی است و تناقض در مدیریت پروفایل‌های رسمی رژیم را برجسته می‌کند، که پیامد نمادین برای اثربخشی تحریم‌ها دارد."
+        ],
+        "impact": "ناتوانی پلتفرم در اجرای ممنوعیت‌های مربوط به افراد تحریم‌شده ساختار بازدارندگی تحریم‌ها را تضعیف می‌کند و به رژیم اجازه می‌دهد از نقص‌های اجرایی برای حفظ حضور رسانه‌ای و منافع احتمالی اقتصادی بهره‌برداری کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/24/iran-supreme-leader-gets-new-x-premium-account-despite-sanctions.html",
+        "clean_url": "https://www.cnbc.com/2026/03/24/iran-supreme-leader-gets-new-x-premium-account-despite-sanctions.html",
+        "image": "http://www.bing.com/th?id=ONUT.jVy4pyeBJf4dPwbK1kLvzQ&pid=News",
+        "timestamp": 1774310700.0
     },
     {
         "title_fa": "سعودی و امارات در آستانه پیوستن به عملیات‌های آمریکا و اسرائیل علیه ایران؛ گزارش وال‌استریت ژورنال",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/preparing-nuclear-threat-report-215458176.html",
         "image": null,
         "timestamp": 1773984179.0
-    },
-    {
-        "title_fa": "حملات ایران به تأسیسات انرژی خلیج و تبادل ضربات با اسرائیل در نوروز",
-        "title_en": "Live updates: Iran attacks Gulf energy sites, exchanges strikes with Israel on Persian New Year",
-        "summary": [
-            "در جریان نوروز، ایران موج جدیدی از حملات به تأسیسات انرژی در خلیج فارس را راه‌اندازی کرد و هم‌زمان تبادل ضرباتی بین ایران و اسرائیل گزارش شد.",
-            "هدف‌گیری تأسیسات انرژی منطقه تهدیدی فوری برای عرضه و ثبات بازار انرژی ایجاد می‌کند و می‌تواند واکنش‌ها و محدودیت‌های بین‌المللی علیه تهران را تشدید نماید.",
-            "تصاعد نظامی مستقیم میان تهران و تل‌آویو ساختار اقتصادی و سیاسی رژیم را از طریق افزایش هزینه‌های امنیتی، کاهش درآمدها و تشدید فشارهای بین‌المللی بیشتر تضعیف می‌کند."
-        ],
-        "impact": "این تشدید نظامی احتمال گسترش درگیری منطقه‌ای را بالا می‌برد و فشار اقتصادی و سیاسی بر رژیم را در کوتاه‌مدت تشدید می‌کند.",
-        "tag": "تصعید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-gulf-energy-attacks-israel-trump-nowruz-rcna264408",
-        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-gulf-energy-attacks-israel-trump-nowruz-rcna264408",
-        "image": null,
-        "timestamp": 1773982860.0
-    },
-    {
-        "title_fa": "نگاهی به کسانی که اکنون افسار قدرت در ایران را در دست دارند",
-        "title_en": "A look at who holds the reins of power in Iran now",
-        "summary": [
-            "گزارش تأکید می‌کند که رأس قدرت کشور در اختیار رهبر عالی است؛ این گزاره محور تحلیل ساختار قدرت در متن است.",
-            "متن ساختار قدرت را ترسیم می‌کند و صراحتاً بین آنچه معلوم است و آنچه نامشخص باقی مانده تمایز قایل می‌شود.",
-            "تمرکز تصمیم‌گیری و ابهام در زوایای فرماندهی پیامدهایی برای نحوه پاسخ به فشارهای خارجی و ثبات داخلی دارد."
-        ],
-        "impact": "تمرکز تصمیم‌گیری در رأس باعث می‌شود که در مواجهه با فشار خارجی یا شوک‌های داخلی، یا ضربه‌ها اثرگذاری بالاتری داشته باشند و یا رژیم از طریق سازوکارهای متمرکز خود تاب‌آوری نشان دهد.",
-        "tag": "تمرکز",
-        "urgency": 4,
-        "sentiment": -0.7,
-        "source": "OregonLive.com",
-        "url": "https://www.oregonlive.com/nation/2026/03/a-look-at-who-holds-the-reins-of-power-in-iran-now.html",
-        "clean_url": "https://www.oregonlive.com/nation/2026/03/a-look-at-who-holds-the-reins-of-power-in-iran-now.html",
-        "image": null,
-        "timestamp": 1773981360.0
-    },
-    {
-        "title_fa": "پیام تحدیدی مجتبی خامنه‌ای",
-        "title_en": "Iran’s Supreme Leader Issues Defiant Message",
-        "summary": [
-            "مجتبی خامنه‌ای، رهبر جدید ایران، در بیانیه‌ای اعلام کرد «امنیت باید از دشمنان داخلی و خارجی گرفته شده و به مردم داده شود.»",
-            "این لحن بر مقابله با «دشمنان داخلی و خارجی» تأکید می‌کند و به طور عملی می‌تواند توجیهی برای تشدید اقدامات امنیتی و سرکوب در داخل کشور فراهم آورد.",
-            "گزارش اشاره‌ای به تحریم‌ها یا نقش بازیگران خارجی (روسیه، چین، کره‌شمالی) ندارد؛ لذا ارزیابی اثرات فشار خارجی یا حمایت‌ خارجی از این موضع‌گیری بر اساس این خبر محدود است."
-        ],
-        "impact": "تأکید بر بازپس‌گیری «امنیت» از دشمنان احتمالاً به افزایش عملیات امنیتی و کوشش برای مشروعیت‌بخشی به سرکوب مخالفان داخلی منجر خواهد شد.",
-        "tag": "امنیتی",
-        "urgency": 4,
-        "sentiment": -0.8,
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/iran-s-supreme-leader-issues-defiant-message-syvu48J69isl2vJxfRsu",
-        "clean_url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/iran-s-supreme-leader-issues-defiant-message-syvu48J69isl2vJxfRsu",
-        "image": "http://www.bing.com/th?id=OVFT._o9zOccdBFYibB1rfOcm3y&pid=News",
-        "timestamp": 1773979620.0
-    },
-    {
-        "title_fa": "کردهای تبعیدی ایران در عراق: فقط با سقوط حکومت مذهبی بازمی‌گردیم",
-        "title_en": "Exiled Iranian Kurds in Iraq say they will return only if Iran’s theocracy falls",
-        "summary": [
-            "بیش از ۳۰۰ خانواده ساکن کمپ کاوا در اربیل که پس از انقلاب ۱۳۵۷ ایران آواره شده‌اند، می‌گویند تنها در صورتی به وطن بازمی‌گردند که حکومت فعلی تغییر کند و دولت جدید امنیت و حمایت از خواست‌های خودمختاری آن‌ها را تضمین کند.",
-            "ساکنان کمپ امید محتاطانه‌ای دارند که تقابل میان آمریکا/اسرائیل و ایران نظام را تضعیف کند و این تضعیف بتواند راهی برای تحقق بازگشت و مطالبات سیاسی‌شان باز کند.",
-            "موضع بازگشت مشروط نشان‌دهنده نارضایتی ساختاری و بی‌اعتمادی دیرینه اقلیت‌های کرد به مرکز قدرت است و بازتاب شکست‌های طولانی‌مدت در تأمین حقوق و امنیت آنها."
-        ],
-        "impact": "این تمایل بازگشت مشروط، در صورت تشدید فشار خارجی یا درگیری نظامی، می‌تواند مشروعیت و ظرفیت حکمرانی نظام را بیشتر تضعیف کند و حکومت را بین تشدید سرکوب یا دادن امتیازهای حداقلی قرار دهد.",
-        "tag": "کردها",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/exiled-iranian-kurds-iraq-return-103921366.html",
-        "clean_url": "https://www.yahoo.com/news/articles/exiled-iranian-kurds-iraq-return-103921366.html",
-        "image": null,
-        "timestamp": 1773978780.0
-    },
-    {
-        "title_fa": "بروزرسانی زنده: هیچ نشانه‌ای از کاهش جنگ با ایران یا کاهش تأثیر آن بر قیمت بنزین و نفت با نزدیک‌شدن به هفتهٔ سوم دیده نمی‌شود",
-        "title_en": "Live Updates: No sign of Iran war or its impact on gas and oil prices easing as 3-week mark nears",
-        "summary": [
-            "دولت ترامپ می‌گوید رژیم ایران «down but not out» و از اعلام مدت زمان ادامهٔ این درگیری مرگبار و پرهزینه خودداری کرده است؛ موضعی که نشان‌دهنده ادامهٔ فشار و بلاتکلیفی راهبردی است.",
-            "عدم کاهش قیمت بنزین و نفت تا هفتهٔ سوم، دلیلی بر تداوم ریسک‌های عرضه و فشار مستقیم بر تورم و هزینه‌های زندگی مردم است؛ اثرات اقتصادی داخلی احتمالاً تشدید می‌شود.",
-            "گزارش اشاره‌ای به اعتراضات داخلی نکرده اما ترکیب فشار خارجی و تشدید هزینه‌های اقتصادی می‌تواند مشروعیت رژیم را تضعیف کند و ریسک ناآرامی‌های مدنی و کاهش کارایی حکمرانی را افزایش دهد."
-        ],
-        "impact": "ادامهٔ درگیری و فشار اقتصادی ساختار بقا و کارایی رژیم را تضعیف کرده و احتمال تشدید ناآرامی‌های داخلی و بحران مدیریتی را بالا می‌برد.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-gas-and-oil-prices-trump-netanyahu-strait-hormuz/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-gas-and-oil-prices-trump-netanyahu-strait-hormuz",
-        "image": "http://www.bing.com/th?id=OVFT.StAgCick96gai8YDevFx-i&pid=News",
-        "timestamp": 1773978480.0
     }
 ]
