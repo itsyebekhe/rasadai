@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "جنگ ایران: تشدید حملات هم‌زمان با صعود قیمت نفت بالای ۱۰۰ دلار",
+        "title_en": "Iran war: Attacks intensify as oil rises above $100",
+        "summary": [
+            "هسته خبر: حملات مرتبط با جنگ در منطقه شدت گرفته و بازار نفت جهانی قیمت شاخص را بالای ۱۰۰ دلار برده است.",
+            "افزایش قیمت نفت می‌تواند درآمدهای نفتی بالقوه را بالا ببرد، اما تحریم‌ها و محدودیت‌های فروش نفت ایران مانع بهره‌مندی کامل از این موج درآمدی شده و در عین حال ریسک‌های سیاسی و تحریمی را تشدید می‌کند.",
+            "ترکیب تشدید درگیری‌ها و فشار اقتصادی ناشی از سوء‌مدیریت عمومی می‌تواند نارضایتی‌های داخلی را تشدید کند و قابلیت بقا و مشروعیت حکومت را بیش از پیش تضعیف نماید."
+        ],
+        "impact": "تشدید حملات همراه با نفت بالای ۱۰۰ دلار فشار بین‌المللی و شوک اقتصادی را افزایش می‌دهد و در عمل احتمال پایداری سیاسی را کاهش می‌دهد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelJBX1VXcEFXdmtkYjNsRnBnMDB2TVM2NXF6UlFKUy0xZjgtdEJtelI0VEpRQXBRQmpwelRXTUVKdVo3RHlwMVJMR194QzdjbmctYUtqbkhyaFNweUlEamxBREdyeWkydXJReng5U1NmUzlmRFN4cWRtdkFlUGg4ZW9oMmo3R3Uxd2pzWHBR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelJBX1VXcEFXdmtkYjNsRnBnMDB2TVM2NXF6UlFKUy0xZjgtdEJtelI0VEpRQXBRQmpwelRXTUVKdVo3RHlwMVJMR194QzdjbmctYUtqbkhyaFNweUlEamxBREdyeWkydXJReng5U1NmUzlmRFN4cWRtdkFlUGg4ZW9oMmo3R3Uxd2pzWHBR",
+        "image": null,
+        "timestamp": 1774366016.0
+    },
+    {
+        "title_fa": "ایران علیه اسرائیل و کشورهای خلیج هدف‌گیری می‌کند؛ اسرائیل عملیات در لبنان را گسترش می‌دهد",
+        "title_en": "Iran targets Israel and Gulf Arab states, Israel to expand Lebanon operations",
+        "summary": [
+            "ایران اهدافی در اسرائیل و کشورهای عرب خلیج را مورد هدف قرار داده است؛ این اقدام احتمال تشدید عملیات نظامی متقابل و گسترش دامنه درگیری‌ها در منطقه را افزایش می‌دهد.",
+            "اسرائیل قصد دارد عملیات خود در لبنان را گسترش دهد؛ گسترش عملیت‌ها ریسک تبدیل درگیری‌های محلی به جبهه‌ای گسترده‌تر با دخالت گروه‌های شبه‌نظامی و کشورهای منطقه را بالا می‌برد.",
+            "خبر به‌طور مستقیم از تحریم‌های جدید یا حمایت‌های خارجی نام نمی‌برد؛ با این حال ادامه تنش‌های نظامی می‌تواند موجی از فشار دیپلماتیک و اقتصادی بر تهران ایجاد کند و نارضایتی داخلی را تشدید کند—تضعیف ساختارهای مدیریتی و اقتصادی که پیش‌تر حساس بوده‌اند."
+        ],
+        "impact": "تشدید فوری تقابل نظامی احتمال گسترش جنگ منطقه‌ای را افزایش می‌دهد و همزمان فشار بین‌المللی و داخلی بر ساختارهای سیاسی و اقتصادی ایران را تشدید می‌کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CBC",
+        "url": "https://www.msn.com/en-us/news/world/iran-targets-commerce-as-drone-hits-dubai-airport-israel-says-war-will-go-on/ar-AA1YHwRj",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-targets-commerce-as-drone-hits-dubai-airport-israel-says-war-will-go-on/ar-AA1YHwRj",
+        "image": null,
+        "timestamp": 1774361937.0
+    },
+    {
         "title_fa": "اسرائیل سه نفر را در بیروت کشت؛ حملات در سراسر لبنان شدت گرفت",
         "title_en": "Israel kills three in Beirut as it intensifies attacks across Lebanon",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOWg1Y2xnNXZicFBneGVmaElRWGZZNWhKUlBMSW9oTTljV2I2dk9vQmh2aUpWY3FxUlZDVFdKT21ST3B3aE1lYUxVQjZSRHRnazhRRVFTRjNocWhycTl6dEFvN09MN1JTd2VfdFZCV1FYdlRpT0dnU0ZYV3dST29RNE1XWUQ2MnhDY0ZzSGZMZDhITG1ZN0lhTi1WZWs1S3hZelFCallEc0p0bkFI0gGyAUFVX3lxTE9MVGFLbURwZUNFa3pnOGN3dmI4RlZ2bjhIWF9XQ0ttcEVhWDdKSXlaMWtTdG5oa0l6bzFBLVhOMVFub3owZ2FSNEpIaVhINXFSdE4zTmVRaW1yQlRtUmFVMnI3YVhqYVpPRW9nYmVmZWlLSDdMdVdqd0F3bFJkbjJ0S200NUxIdHpieE81R0hfNV9GNllseG9NdElPalRhbjl6U0hPdXdDY0lnekhnSlpSWUE",
         "image": null,
         "timestamp": 1774357589.0
+    },
+    {
+        "title_fa": "علیرغم ادعای مذاکره صلح ترامپ، حملات آمریکا و اسرائیل همچنان ایران را هدف می‌گیرند",
+        "title_en": "Despite Trump’s peace talk claims, US-Israeli attacks continue to hit Iran",
+        "summary": [
+            "ادعای ترامپ درباره گفت‌وگوی صلح تلاقی ندارد با واقعیت عملی: حملات نظامی آمریکا و اسرائیل علیه اهداف در ایران ادامه دارد و نشان‌دهنده تداوم فشار نظامی است.",
+            "این فشار خارجی ساختاری، ظرفیت تدافعی و موضع راهبردی رژیم را تضعیف می‌کند و بار اقتصادی و سیاسی اضافی بر حکومت تحمیل می‌نماید؛ فقدان واکنش بازدارنده می‌تواند هزینه‌های بلندمدت امنیتی و دیپلماتیک را بالا ببرد.",
+            "ادامه حملات می‌تواند روایت امنیتی حکومت را تضعیف کند و در غیاب مدیریت اقتصادی و سیاسی کارآمد، بالقوه موجب تشدید نارضایتی عمومی و بحران‌های داخلی شود."
+        ],
+        "impact": "تداوم حملات آمریکا و اسرائیل خطر فرسایش مشروعیت و تاب‌آوری نظام را افزایش می‌دهد و فشار خارجی را به فشار داخلی تبدیل می‌کند.",
+        "tag": "تهاجم",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnVwVDdhakkwRFZLVVEyakJoWFdwRjFkZWxhejVLMDhESi1vNVMxTjdvbmdDX1Q2R2R6NmxGNnVoalpBN0FQaGhfQmp1QWJPYXpDZnJKV3cxWUl3UC02SUhCUmtUNXFuajBNRHpXWUN3NmY0Rkd2SFB4ZHRKT0NyY3Nfai1Pd0wyaUhRMExDZU4yRmw0TFczQ1hoNUt6dWNzeERWOGhHTWZEbC1jY0tfTUg0TdIBuAFBVV95cUxOeEs1TFVNbGFBNjQtT0lwR2JCRnF0eUtwRk9FaDgzWFZsWG9iLWhMRGxYTmxZNXVwRV96SC01MXkxdkZhUFNrTkl3TjVZNmdMYVN5bmxPWjNnRU9oUUVLRkdsR3MydUFPZTZyb3JZQzg3c210QjJyX05rUzNfMHAtcWJzeGo4RlB6OGEyR2FxbDFzVUhhN0dQZHdqUEdWTUZIaHcycndMQkNMcGxnaWtnYzlmbXlNdnRa?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQnVwVDdhakkwRFZLVVEyakJoWFdwRjFkZWxhejVLMDhESi1vNVMxTjdvbmdDX1Q2R2R6NmxGNnVoalpBN0FQaGhfQmp1QWJPYXpDZnJKV3cxWUl3UC02SUhCUmtUNXFuajBNRHpXWUN3NmY0Rkd2SFB4ZHRKT0NyY3Nfai1Pd0wyaUhRMExDZU4yRmw0TFczQ1hoNUt6dWNzeERWOGhHTWZEbC1jY0tfTUg0TdIBuAFBVV95cUxOeEs1TFVNbGFBNjQtT0lwR2JCRnF0eUtwRk9FaDgzWFZsWG9iLWhMRGxYTmxZNXVwRV96SC01MXkxdkZhUFNrTkl3TjVZNmdMYVN5bmxPWjNnRU9oUUVLRkdsR3MydUFPZTZyb3JZQzg3c210QjJyX05rUzNfMHAtcWJzeGo4RlB6OGEyR2FxbDFzVUhhN0dQZHdqUEdWTUZIaHcycndMQkNMcGxnaWtnYzlmbXlNdnRa",
+        "image": null,
+        "timestamp": 1774356975.0
     },
     {
         "title_fa": "خلاصه درگیری ایران: چگونه شوک انرژی سرمایه‌گذاری را بازتعریف می‌کند",
@@ -144,6 +198,42 @@
         "timestamp": 1774342800.0
     },
     {
+        "title_fa": "پاکستان اعلام کرد آماده میزبانی مذاکرات صلح است؛ به‌روزرسانی‌های زنده جنگ ایران",
+        "title_en": "Pakistan 'ready' to host peace talks, PM says. Iran war live updates.",
+        "summary": [
+            "نخست‌وزیر پاکستان گفته کشورش آماده میزبانی مذاکرات صلح است؛ گزارش جزئیات طرف‌ها یا زمان‌بندی را ارائه نمی‌دهد.",
+            "این خبر به‌عنوان بخشی از «به‌روزرسانی‌های زنده درباره جنگ ایران» منتشر شده اما متن کامل گزارش در دسترس نیست.",
+            "سایت منبع پیغام پشتیبانی مرورگر نمایش داده است و دسترسی به جزئیات بیشتر برای قضاوت دقیق‌تر محدود شده است."
+        ],
+        "impact": "در غیاب جزئیات، پیشنهاد پاکستان می‌تواند در حد یک فرصت دیپلماتیک محدود برای کاهش تنش باشد اما اثر ملموسی بر ثبات داخلی ایران یا معادلات منطقه‌ای بدون اطلاعات بیشتر قابل اثبات نیست.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/live-story/news/world/2026/03/24/trump-us-israel-iran-war-live-updates/89294787007/",
+        "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/24/trump-us-israel-iran-war-live-updates/89294787007",
+        "image": "http://www.bing.com/th?id=ONUT.p-iiWP_l1rFecMyLyusx-g&pid=News",
+        "timestamp": 1774340640.0
+    },
+    {
+        "title_fa": "نخست‌وزیر پاکستان: آماده تسهیل گفت‌وگوهای مؤثر و قاطع برای پایان جنگ ایران",
+        "title_en": "The Latest: Pakistan’s prime minister says his nation is ready to facilitate talks to end Iran war",
+        "summary": [
+            "نخست‌وزیر پاکستان اعلام کرده کشورش آماده است «گفت‌وگوهای مؤثر و قاطع» برای خاتمه جنگ ایران را تسهیل کند.",
+            "پاکستان به‌عنوان یکی از بازیگران منطقه‌ای فعال در فشار دیپلماتیک برای حل بحران معرفی شده است.",
+            "بیانیه اسلام‌آباد نشان‌دهنده تلاش برای ایجاد کانال‌های دیپلماتیک منطقه‌ای است، اما طرف‌ها، مکان و جدول زمانی مذاکرات روشن نیست."
+        ],
+        "impact": "پیشنهاد پاکستان می‌تواند کانال دیپلماتیکی برای کاهش درگیری و تغییر موقت فشار بین‌المللی فراهم کند، اما اثرات ساختاری بر ثبات داخلی ایران وابسته به محتوای توافق‌های احتمالی است.",
+        "tag": "میانجیگری",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "WPLG Local 10",
+        "url": "https://www.local10.com/news/world/2026/03/24/the-latest-pakistans-prime-minister-says-his-nation-is-ready-to-facilitate-talks-to-end-iran-war/",
+        "clean_url": "https://www.local10.com/news/world/2026/03/24/the-latest-pakistans-prime-minister-says-his-nation-is-ready-to-facilitate-talks-to-end-iran-war",
+        "image": "http://www.bing.com/th?id=ONUT.jQYP90KbaBbFd0d9QFSTcA&pid=News",
+        "timestamp": 1774340520.0
+    },
+    {
         "title_fa": "حملات موشکی ایران به اسرائیل و خلیج پس از تکذیب گفت‌وگوها با ترامپ",
         "title_en": "Iran targets Israel and Gulf states after denying Trump talks",
         "summary": [
@@ -268,6 +358,24 @@
         "clean_url": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
         "image": "http://www.bing.com/th?id=ONUT.WQxBcpxE0ZiYqUPMyXJfDw&pid=News",
         "timestamp": 1774335360.0
+    },
+    {
+        "title_fa": "گزارش: محمد بن سلمان ترامپ را به ادامه جنگ با ایران ترغیب کرده است",
+        "title_en": "Saudi Prince Is Said to Push Trump to Continue Iran War in Recent Calls",
+        "summary": [
+            "نیویورک‌تایمز گزارش می‌دهد که افراد مطلع به مقامات آمریکایی گفته‌اند محمد بن سلمان در تماس‌های اخیر از ترامپ خواسته جنگ علیه ایران را ادامه دهد.",
+            "او این موقعیت را «فرصت تاریخی» برای بازسازی ساختار منطقه‌ای توصیف کرده است؛ چنین خواسته‌ای نشان‌دهنده اراده سعودی برای تشدید فشار نظامی و سیاسی علیه ایران است و ریسک افزایش درگیری منطقه‌ای را بالا می‌برد.",
+            "ادامه و تشدید فشار خارجی و نظامی می‌تواند درآمدها و توان مدیریتی دولت ایران را تحت فشار قرار دهد و نارضایتی عمومی را تشدید کند، اما تحقق چنین سناریویی به واکنش مستقیم آمریکا و متحدانش و نحوه پاسخ تهران بستگی دارد."
+        ],
+        "impact": "پاسخ مثبت ایالات متحده به درخواست محمد بن سلمان احتمال تشدید جنگ منطقه‌ای و فشار بر ساختار اقتصادی-سیاسی ایران را افزایش می‌دهد که می‌تواند ثبات داخلی را به خطر اندازد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html",
+        "clean_url": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html",
+        "image": "http://www.bing.com/th?id=ONUT.Z_sl49BlkFpkTwyUnEuAgw&pid=News",
+        "timestamp": 1774332360.0
     },
     {
         "title_fa": "ایران مذاکرات با آمریکا را تکذیب کرد",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.thedailybeast.com/trumps-new-maga-enemy-joe-kent-says-followers-didnt-have-the-full-story-about-iran",
         "image": null,
         "timestamp": 1774006560.0
-    },
-    {
-        "title_fa": "نتانیاهو: سرنگونی رژیم ایران به مؤلفه زمینی نیاز دارد",
-        "title_en": "Netanyahu says revolution in Iran will require ‘ground component’ to war",
-        "summary": [
-            "نخست‌وزیر اسرائیل صراحتاً گفت سرنگونی رژیم ایران فراتر از حملات هوایی نیازمند «مؤلفه زمینی» است و از احتمال گزینه‌های نظامی زمینی سخن گفت ولی جزئیات را فاش نکرد.",
-            "تناقض آشکار بین واشنگتن و تل‌آویو: ترامپ اعلام کرد حاضر به اعزام نیروها نیست و از حمله به پارس جنوبی بی‌اطلاع بوده، در حالی که منابعی از هماهنگی ادعایی با آمریکا خبر داده‌اند — اختلاف هدف‌گذاری‌ها میان دو متحد برجسته است.",
-            "حمله اسرائیل به میدان گازی پارس جنوبی و تأکید نتانیاهو بر غیرقابل ادامه‌بودن توان غنی‌سازی و موشکی ایران نشان می‌دهد فشار خارجی اکنون روی ظرفیت‌های اقتصادی و نظامی رژیم متمرکز است و او همچنین از «لازم بودن برخاستن مردم ایران» برای تغییر واقعی سخن گفت."
-        ],
-        "impact": "این ترکیب تهدید به عملیات زمینی، هدف‌گیری زیرساخت‌های انرژی و اختلاف آشکار واشنگتن–تل‌آویو ثبات رژیم حاکم را تضعیف کرده و احتمال تشدید نظامی یا تشدید بحران داخلی را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/netanyahu-says-revolution-iran-require-153945320.html",
-        "clean_url": "https://www.yahoo.com/news/articles/netanyahu-says-revolution-iran-require-153945320.html",
-        "image": "http://www.bing.com/th?id=OVFT.uq9apQCfXGHcBW94C5JHty&pid=News",
-        "timestamp": 1774006560.0
-    },
-    {
-        "title_fa": "ایران از گفتگو درباره هرمز خودداری می‌کند در حالی که رژیم سنگر گرفته",
-        "title_en": "Iran unwilling to talk about Hormuz as regime digs in",
-        "summary": [
-            "منبع گزارش می‌گوید مقام‌های ایرانی حتی از بحث درباره بازگشایی تنگه هرمز خودداری می‌کنند و تمرکز اصلی حکومت اکنون بر بقا در برابر حملات آمریکا و اسرائیل است.",
-            "فشار خارجی و تهدیدات نظامی ساختاری قدرت و چانه‌زنی حکومت را تضعیف می‌کند؛ منابع و اولویت‌ها به دفاع و حفظ بقای سیاسی منتقل شده و ظرفیت مدیریت اقتصادی و دیپلماتیک برای بازگشایی مسیرهای حیاتی کاهش یافته است.",
-            "سنگرگیری فعلی ریسک تشدید نارضایتی داخلی را بالا می‌برد — گزارش به اعتراضات اشاره مستقیم نمی‌کند، اما تعلیق دسترسی یا مذاکره درباره تنگه می‌تواند فشار اقتصادی و سیاسی بر مردم را افزایشی کند و مشروعیت حکومت را بیشتر تضعیف نماید."
-        ],
-        "impact": "خودداری از بررسی بازگشایی تنگه هرمز نشان‌دهنده تمرکز بقاگرایانه حکومت است و احتمال افزایش انزوای بین‌المللی و بی‌ثباتی اقتصادی-سیاسی داخلی را تقویت می‌کند.",
-        "tag": "امنیت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-unwilling-to-talk-about-hormuz-as-regime-digs-in/ar-AA1Z4tQf",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-unwilling-to-talk-about-hormuz-as-regime-digs-in/ar-AA1Z4tQf",
-        "image": "http://www.bing.com/th?id=OVFT.3gCUFAXdurSQn7GXhkK2gy&pid=News",
-        "timestamp": 1774006427.0
-    },
-    {
-        "title_fa": "جنگ آمریکا-اسرائیل-ایران زنده: شهروند هندی در ریاض کشته شد؛ ذخیره گنبد آهنین به اتهام جاسوسی برای ایران با ۱۰۰۰ دلار کریپتو متهم شد",
-        "title_en": "US-Israel-Iran War LIVE: Indian national killed in Riyadh; Iron Dome reservist charged with spying for Iran for $1,000 in crypto, says report",
-        "summary": [
-            "گزارش زنده حاکی است یک شهروند هندی در ریاض کشته شده است؛ جزئیات پرونده و عاملان مرگ در گزارش محدود و نامشخص اعلام شده‌اند.",
-            "یک ذخیره‌نشین سامانه گنبد آهنین به اتهام جاسوسی برای ایران متهم شده و رسانه‌ها می‌گویند پرداختی حدود ۱۰۰۰ دلار در قالب کریپتو به او شده است؛ این اتهام پیامدهای امنیتی و اطلاعاتی برای اسرائیل دارد.",
-            "این تحولات در چارچوب پوشش زنده درباره تنش‌های آمریکا-اسرائیل-ایران گزارش شده و نشان‌دهنده گسترش پیامدهای عملیاتی و اطلاعاتی در منطقه است."
-        ],
-        "impact": "این موارد ریسک تشدید تنش‌های منطقه‌ای و فشار دیپلماتیک را بالا می‌برد و می‌تواند به افزایش فشار بین‌المللی و تضعیف بیشتر مشروعیت داخلی نظام جمهوری اسلامی منجر شود.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Financial Express",
-        "url": "https://www.financialexpress.com/world-news/us-israel-iran-war-live-updates-crude-hits-115-as-israel-attacks-irans-south-pars-gas-field-netanyahu-says-jesus-christ-has-no-advantage-over-genghis-khan/4178368/",
-        "clean_url": "https://www.financialexpress.com/world-news/us-israel-iran-war-live-updates-crude-hits-115-as-israel-attacks-irans-south-pars-gas-field-netanyahu-says-jesus-christ-has-no-advantage-over-genghis-khan/4178368",
-        "image": null,
-        "timestamp": 1774006320.0
-    },
-    {
-        "title_fa": "پیشنهاد رفع تحریم نفت ایران به‌دنبال جهش قیمت‌ها",
-        "title_en": "Bessent Floats Lifting Sanctions on Iran as Oil Prices Skyrocket",
-        "summary": [
-            "اسکات بسنت، وزیر خزانه‌داری، اعلام کرد احتمال رفع تحریم نفت ایران وجود دارد تا عرضه‌ای معادل «۱۰ روز تا دو هفته» که گفته شده به چین می‌رفت آزاد شود؛ پیش‌تر هم تحریم نفت روسیه و ونزوئلا کاهش یافته بود.",
-            "خلاصهٔ اقدامات اخیر نشان می‌دهد واشنگتن برای مهار بحران قیمتی نفت از فشار تحریمی صرف‌نظر می‌کند؛ این اقدام کوتاه‌مدت درآمد نقدی برای تهران فراهم می‌کند و اهرم فشار خارجی علیه رژیم را تضعیف می‌کند.",
-            "تصمیمات قبلی ایالات متحده — بازنشسته کردن کشتی‌های ضد مین و اخراج کارشناسان نفت و گاز — در آمادگی برای اختلالات استراتژیک شکست خورده و اکنون کاستن از تحریم‌ها ریسک تحکیم توان عملیاتی و مالی رژیم را افزایش می‌دهد."
-        ],
-        "impact": "رفع موقت تحریم نفتی اگر اجرا شود تنفس مالی کوتاه‌مدتی به رژیم می‌دهد و توانایی واشنگتن برای پیشبرد سیاست‌های فشار راهبردی را کاهش می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/oil-prices-bad-trump-may-150254421.html",
-        "clean_url": "https://www.yahoo.com/news/articles/oil-prices-bad-trump-may-150254421.html",
-        "image": null,
-        "timestamp": 1774004040.0
-    },
-    {
-        "title_fa": "اسرائیل حملات بیشتری به تهران انجام می‌دهد و ایران به حملات علیه تاسیسات نفتی خلیج فارس ادامه می‌دهد",
-        "title_en": "Israel launches more strikes on Tehran as Iran continues attacks on Gulf oil facilities",
-        "summary": [
-            "اسرائیل حملات بیشتری علیه تهران انجام داده و هم‌زمان ایران به عملیات علیه تاسیسات نفتی در خلیج فارس ادامه می‌دهد؛ خبر حاکی از چرخه حمله و تلافی مستقیم است.",
-            "این الگوی تقابل نشان‌دهنده تشدید مستقیم نظامی بین تهران و تل‌آویو است و احتمال گسترش درگیری به سطح منطقه‌ای را افزایش می‌دهد.",
-            "تداوم هدف‌گیری تاسیسات اقتصادی و پاسخ‌های نظامی می‌تواند فشار خارجی را تشدید کند، اختلال در بازار انرژی را موجب شده و نشانه‌هایی از شکست راهبردهای مدیریتی رژیم را بازتاب دهد که ممکن است نارضایتی داخلی را تشدید کند."
-        ],
-        "impact": "پیامد فوری: افزایش ریسک گسترش جنگ منطقه‌ای، تشدید تحریم‌ها و فشار اقتصادی که ثبات سیاسی و اقتصادی حکومت ایران را بیش از پیش تضعیف می‌کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2xrYnF6TlNvRDZoS0RtX1kxQV8zUEk3WGVPaHFHdWhZekRRWS1CMUdkQ04yTEZDUnVwd2x4dXVhaWlLb01Nb3hHRUtsbkFrQjhBWEx2YWlpb0VWN3laRXRBVHRhV1R3UWVoM0QxWTA3ckZVTVVoMlhOMGZ6M3BhWjcxa0JETFNJZXV5Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT2xrYnF6TlNvRDZoS0RtX1kxQV8zUEk3WGVPaHFHdWhZekRRWS1CMUdkQ04yTEZDUnVwd2x4dXVhaWlLb01Nb3hHRUtsbkFrQjhBWEx2YWlpb0VWN3laRXRBVHRhV1R3UWVoM0QxWTA3ckZVTVVoMlhOMGZ6M3BhWjcxa0JETFNJZXV5Yw",
-        "image": null,
-        "timestamp": 1774002096.0
-    },
-    {
-        "title_fa": "هند در تنگنای تصمیم‌گیری میان جنگ آمریکا و اسرائیل علیه ایران",
-        "title_en": "India in a fix amid US-Israel war against Iran",
-        "summary": [
-            "کشمکش نظامی میان آمریکا-اسرائیل و ایران، هند را در تلاقی میان تعهدات استراتژیک به غرب و نیازهای حیاتی انرژی و اقتصادی‌اش قرار داده است؛ انتخاب اشتباه می‌تواند هزینه‌های سیاسی و اقتصادی بلندمدت برای دهلی نو داشته باشد.",
-            "برای ایران، تشدید فشارهای خارجی و احتمال اعمال تحریم‌های جدید می‌تواند ساختارهای اقتصادی و قابلیت‌های حکمرانی را تضعیف کند و در کوتاه‌مدت موجب افزایش مشکلات معیشتی و تقویت نارضایتی عمومی شود.",
-            "اختلافات منطقه‌ای و فشار دیپلماتیک بر بازیگران میانی مثل هند، ریسک اختلال در زنجیره‌های تأمین و معاملات انرژی را بالا می‌برد و فضا را برای اشتباه محاسباتی و تشدید بحران باز نگه می‌دارد."
-        ],
-        "impact": "نتیجهٔ فوری: تشدید تنش‌ها دهلی نو را مجبور به مدیریت آسیب‌پذیر دیپلماسی و ایران را به مواجهه با فشارهای اقتصادی و سیاسی بیشتر سوق می‌دهد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.5,
-        "source": "European Consortium for Political Research (ECPR)",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ycFZDRTRpc2lXdWdOQ1N6NzlZMVZoNFR5dHZDVkMwNTFxbGRFMUpqRTBXTVptVkM3b1pYYV8tSFBOX194MUJEa2RRR1RSR3BnS2xfMXA3OE5jUVVObTRJeXl3Y3lnOWJqZXpsdi1ETVJGcU5nT1I4S2RBaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8ycFZDRTRpc2lXdWdOQ1N6NzlZMVZoNFR5dHZDVkMwNTFxbGRFMUpqRTBXTVptVkM3b1pYYV8tSFBOX194MUJEa2RRR1RSR3BnS2xfMXA3OE5jUVVObTRJeXl3Y3lnOWJqZXpsdi1ETVJGcU5nT1I4S2RBaw",
-        "image": null,
-        "timestamp": 1774002042.0
     }
 ]
