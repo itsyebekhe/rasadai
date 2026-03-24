@@ -576,6 +576,24 @@
         "timestamp": 1774326420.0
     },
     {
+        "title_fa": "نگرانی تهران: تعویق حملات ترامپ ممکن است دام باشد",
+        "title_en": "Iran Worries Talks Might Be a Trap",
+        "summary": [
+            "مقام‌های تهران نگران‌اند که تعویق حملات دولت ترامپ به زیرساخت‌های انرژی ایران ترفندی برای پایین آوردن موقت قیمت نفت پیش از ازسرگیری حملات باشد.",
+            "هدف‌گذاری روی زیرساخت‌های انرژی، تهران را در حالت هشدار قرار داده و تردید درباره نیت واقعی واشنگتن را تقویت کرده است.",
+            "این برداشت نشان‌دهنده ارزیابی تهران از امکان استفاده آمریکا از بازار نفت به‌عنوان ابزار فشار سیاسی است."
+        ],
+        "impact": "چنین تردیدهایی بی‌اعتمادی متقابل را تشدید، تصمیم‌گیری راهبردی در تهران را مختل و ریسک درگیری مستقیم را بالا می‌برد که به تضعیف ثبات داخلی و اقتصادی منجر خواهد شد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates-2026",
+        "clean_url": "https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates-2026",
+        "image": "http://www.bing.com/th?id=ONUT.3PvzwDTSqDK4u_LcMTXFQQ&pid=News",
+        "timestamp": 1774324740.0
+    },
+    {
         "title_fa": "اسرائیل موج جدیدی از حملات به تهران راه‌اندازی کرد؛ ترامپ حملات به انرژی ایران را تعلیق کرد",
         "title_en": "Israel launches new strikes on Tehran as Trump pauses Iran energy attacks",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-threatens-world-tourism-sites-152809349.html",
         "image": "http://www.bing.com/th?id=OVFT.PpMdDJP28yKVu-aZ0BkFbS&pid=News",
         "timestamp": 1774011960.0
-    },
-    {
-        "title_fa": "زندان‌بانان سابق: آمریکایی‌های زندانی در ایران در خطر بیشتری هستند",
-        "title_en": "Former Iran detainees fear Americans held in Iranian prisons face heightened danger",
-        "summary": [
-            "سیامک نمازی و عماد شارگی هشدار می‌دهند که آمریکایی‌های شناخته‌شده در زندان‌های ایران اکنون «گوشت دم توپ» سیاسی‌اند و با تشدید تنش‌ها در معرض خطر بیشتری قرار دارند.",
-            "تجربه زندانیان از اعدام فضای امنیتی و «تقویت صدا» در اندرون زندان اِوین هنگام ناآرامی‌های خیابانی نشان می‌دهد که حکومت از اعتراضات داخلی با سرکوب و افزایش جمعیت زندانیان پاسخ می‌دهد؛ نشانه‌ای از ناکارآمدی و مدیریت امنیتی شکست‌خورده.",
-            "معامله آزادی پنج آمریکایی در ۲۰۲۳ که همراه با انتقال ۶ میلیارد دلار از دارایی‌های نفتی منجمد شده و تبادل زندانیان بود، نشان داد حکومت ایران از زندانیان به‌عنوان اهرم دیپلماتیک و اقتصادی سود می‌برد و این اقدام توان اهرم فشار طرف مقابل را کاهش می‌دهد."
-        ],
-        "impact": "وجود آمریکایی‌های زندانی در شرایط کنونی نه تنها جان آنها را تهدید می‌کند، بلکه قابلیت واشینگتن برای اعمال فشار دیپلماتیک مؤثر را تضعیف و همزمان به رژیم ابزار چانه‌زنی می‌دهد.",
-        "tag": "گروگان‌گیری",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/former-iran-detainee-fears-americans-iranian-prisons-danger/",
-        "clean_url": "https://www.cbsnews.com/news/former-iran-detainee-fears-americans-iranian-prisons-danger",
-        "image": null,
-        "timestamp": 1774010700.0
     }
 ]
