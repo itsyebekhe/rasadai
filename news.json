@@ -162,6 +162,24 @@
         "timestamp": 1774283681.0
     },
     {
+        "title_fa": "آمریکا از طریق میانجی‌ها پیام فرستاد؛ ترامپ از امکان توافق خبر داد",
+        "title_en": "U.S. sent Iran a message through mediators as Trump signals he's open to a deal, Iranian official says",
+        "summary": [
+            "یک مقام ارشد وزارت خارجه ایران به سی‌بی‌اس گفت آمریکا از طریق میانجی‌ها «نکاتی» فرستاده و تهران در حال بررسی آنهاست؛ ترامپ گفت حدود ۱۵ بند توافق وجود دارد و ایران «آرزوِ صلح» ابراز کرده است.",
+            "ترامپ تهدید به بمباران تأسیسات انرژی را پنج روز معلق کرد و اعلام کرد آمریکا با یک «شخص مهم» در ایران در تماس است اما نه با Mojtaba Khamenei؛ وزارت خارجه ایران ابتدا مذاکرات را تکذیب کرد.",
+            "بازارها واکنش فوری نشان دادند (برنت حدود ۱۰٪ سقوط، S&P ۵۰۰ رشد ۱.۱۵٪)؛ پاکستان و عمان به‌عنوان میانجی نام برده شده‌اند اما محتوای دقیق هر توافقی روشن نیست."
+        ],
+        "impact": "این حرکت موقت فشار خارجی را کاهش می‌دهد اما وابستگی رژیم به میانجی‌ها و ناتوانی در کسب دستاورد قاطع نشان‌دهنده تضعیف ساختاری است که می‌تواند بی‌ثباتی سیاسی و بی‌اعتمادی داخلی را تشدید کند.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/iran-us-message-mediators-trump-iran-war-possible-deal/",
+        "clean_url": "https://www.cbsnews.com/news/iran-us-message-mediators-trump-iran-war-possible-deal",
+        "image": null,
+        "timestamp": 1774283520.0
+    },
+    {
         "title_fa": "ترامپ: آمریکا برخی حملات را به تعویق می‌اندازد در حالی که برای پایان جنگ با ایران مذاکره می‌کند",
         "title_en": "Trump says U.S. is postponing some strikes as it negotiates end to war with Iran",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-war-live-vessel-struck-as-trump-threatens-to-blow-up-gas-field/ar-AA1YXVcf",
         "image": "https://assets.newsweek.com/wp-content/uploads/2026/03/AP26077251875644_dbeb19.jpg?w=1200crop=1",
         "timestamp": 1773948720.0
-    },
-    {
-        "title_fa": "آمریکا بررسی برداشتن تحریم‌های نفتی علیه ایران همزمان با حملات به تأسیسات انرژی خلیج",
-        "title_en": "U.S. mulls lifting oil sanctions on Iran as it hits key Gulf energy sites",
-        "summary": [
-            "آمریکا در حال بررسی برداشتن تحریم‌های نفتی علیه ایران است.",
-            "بر اساس گزارش‌ها، ایران به تأسیسات کلیدی انرژی در منطقه خلیج حمله کرده است.",
-            "ترکیب این دو رویداد می‌تواند درآمدهای رژیم، بازار انرژی جهانی و محاسبات امنیتی منطقه‌ای را دگرگون کند؛ کاهش تحریم‌ها ممکن است فشار اقتصادی داخلی را کاهش دهد اما هم‌زمان ظرفیت مالی رژیم برای تداوم رفتارهای منطقه‌ای را بازمی‌گرداند."
-        ],
-        "impact": "برداشتن احتمالی تحریم‌ها می‌تواند منابع مالی رژیم را تقویت و فشار اقتصادی داخلی را موقتاً تسکین دهد، در حالی که حملات به زیرساخت‌های انرژی ریسک تشدید تنش‌های منطقه‌ای و ناپایداری بازار نفت را بالا می‌برد.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZm05M1lGcFZGVEVReFcyb3pUWjlEdjRhVHNEeHJYNGhMSHh2b0JLVVZ3eGFzdFNRcWFxekR0clBLNVlYRjl3VFNLYTZ3ZEZNRkwxcUdOamdTU1UzWGVQVXJ2SVBCYTJabmFfdEowZkk5SGotUzUzT0lPV0NSQTN4eUpNclg3QnNpQVpZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZm05M1lGcFZGVEVReFcyb3pUWjlEdjRhVHNEeHJYNGhMSHh2b0JLVVZ3eGFzdFNRcWFxekR0clBLNVlYRjl3VFNLYTZ3ZEZNRkwxcUdOamdTU1UzWGVQVXJ2SVBCYTJabmFfdEowZkk5SGotUzUzT0lPV0NSQTN4eUpNclg3QnNpQVpZ",
-        "image": null,
-        "timestamp": 1773948009.0
     }
 ]
