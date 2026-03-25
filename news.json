@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پنتاگون ۲۰۰۰ نیروی هوابرد به خاورمیانه اعزام کرد",
+        "title_en": "Pentagon Orders 2,000 Airborne Troops to Middle East",
+        "summary": [
+            "پنتاگون اعزام ۲۰۰۰ نیروی هوابرد به منطقه خاورمیانه را اعلام کرد؛ اقدام واضح برای تقویت وضعیت بازدارندگی و توان واکنش سریع آمریکا در منطقه است.",
+            "این تحرک نظامی ریسک تشدید تنش‌های منطقه‌ای را افزایش می‌دهد و می‌تواند به‌صورت مشروط زمینه‌ساز فشارهای دیپلماتیک یا تحریمی بیشتر علیه بازیگران منطقه‌ای شود؛ هم‌زمان رژیم داخلی ممکن است از این تهدید برای توجیه سرکوب یا بسیج ملی استفاده کند.",
+            "برای اپوزیسیون، این تحرک فرصتی است تا ضعف‌های راهبردی و هزینه‌های سیاست خارجی رژیم را برجسته کند، اما باید مراقب بود که موج ملی‌گرایی ساخته‌شده توسط حکومت، مجاری اعتراضات مردمی و مطالبات اقتصادی را خفه نکند."
+        ],
+        "impact": "تقویت حضور نظامی آمریکا در منطقه، احتمال تشدید رویارویی و فشار سیاسی-اقتصادی بر حکومت را بالا می‌برد و فضای امنیتی داخلی را به نفع سرکوب تغییر می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.kalw.org/npr-news/2026-03-25/pentagon-orders-troops-from-82nd-airborne-division-to-deploy-to-middle-east",
+        "clean_url": "https://www.kalw.org/npr-news/2026-03-25/pentagon-orders-troops-from-82nd-airborne-division-to-deploy-to-middle-east",
+        "image": null,
+        "timestamp": 1774461622.0
+    },
+    {
         "title_fa": "طرح آمریکا برای پایان جنگ به دنبال خارج کردن اورانیوم غنی‌شده ایران است، مقامات می‌گویند",
         "title_en": "U.S. plan to end war seeks removal of Iran’s enriched uranium, officials say",
         "summary": [
@@ -162,6 +180,24 @@
         "timestamp": 1774437660.0
     },
     {
+        "title_fa": "پیشنهاد ترامپ به ایران — و چرا ممکن است علیه او برگردانده شود",
+        "title_en": "The deal Trump has offered Iran – and why it could be thrown back in his face",
+        "summary": [
+            "طرح ۱۵ بندی واشنگتن خواستار تعطیلی هسته‌ای (اسفران، نطنز، فردو و حدود یک دوجین سایت کوچک)، توقف غنی‌سازی، محدودیت موشکی و بازگشایی تنگه هرمز است؛ میانجی‌هایی از ترکیه، پاکستان و مصر تلاش دارند ظرف ۴۸ ساعت دو طرف را پای میز بیاورند.",
+            "درخواست برای «برچیدن» تأسیسات هسته‌ای همزمان با اظهارات پیشین دولت آمریکا که این سایت‌ها را «کاملاً نابود» اعلام کرده بود، نشان می‌دهد ارزیابی‌های قبلی دست‌کم خوشبینانه یا گمراه‌کننده بوده‌اند؛ پذیرش این شرط برای تهران غیرقابل‌انتظار است چون مقام‌های ایرانی خواستار حفظ حق برنامه هسته‌ای داخلی شده‌اند.",
+            "اسرائیل طرح را «زیبا» خوانده اما متحد اصلی آمریکا احتمال پذیرش تهران را کم می‌داند؛ ایران پیشنهادها را در صحیح بودن شیوه مذاکره زیر سؤال برده و اعلام کرده حاضر به پذیرش سریع آنها نیست — بنابراین شانس توافق مستقیم در کوتاه‌مدت اندک است."
+        ],
+        "impact": "رد یا ناکامی این پیشنهاد شانس تداوم یا تشدید عملیات نظامی و فشار خارجی را بالا می‌برد و می‌تواند به تحکیم سیاست مقاومت هسته‌ای و موشکی در تهران منجر شود.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/deal-trump-offered-iran-why-163610787.html",
+        "clean_url": "https://www.yahoo.com/news/articles/deal-trump-offered-iran-why-163610787.html",
+        "image": "http://www.bing.com/th?id=ONUT.aQ-hxsO1DSmQZT8Sefr3lQ&pid=News",
+        "timestamp": 1774436220.0
+    },
+    {
         "title_fa": "ایران خواستار خروج آمریکا، پرداخت غرامت و کنترل هرمز در پاسخ به پیشنهاد آتش‌بس",
         "title_en": "Iran Raises the Stakes: Demands Gulf Base Closures and Reparations in Ceasefire Counter-Offer",
         "summary": [
@@ -196,6 +232,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jMUhEZEZKeEpUZWlDUWZ4bjZuZVRIQWc4cE40ejJwVlRhX19mZUkyWUk1YWdYa1lCRnNMcGxWQ2Vib2FLbUE4T2lUd05jbTF6Z1E",
         "image": null,
         "timestamp": 1774435692.0
+    },
+    {
+        "title_fa": "چگونه دونالد ترامپ ممکن است شانس خود برای توافق با ایران را خراب کرده باشد",
+        "title_en": "How Donald Trump May Have Sabotaged His Chances for a Deal with Iran",
+        "summary": [
+            "تهدید ترامپ به حمله به زیرساخت‌های انرژی ایران و پیامدهای بسته‌شدن تنگه هرمز نشان‌دهنده افزایش فشار خارجی است که ساختار بقای حکومت را تضعیف می‌کند؛ این فشار نیاز به تضمین‌های امنیتی و لغو واقعی تحریم‌ها را برجسته کرده است.",
+            "حکومت پس از دهه‌ها جنگ اقتصادی اکنون با نیاز به بازسازی گسترده و بحران اقتصادی عمیق روبروست؛ وعده‌های سیاسی بدون تحولات اقتصادی ملموس قادر به آرام کردن نارضایتی عمومی نخواهند بود.",
+            "تناقض رفتاری کاخ سفید — از تهدید حمله تا نشان دادن تمایل به کاهش تنش — در عمل مسیرهای حصول توافق را پیچیده می‌کند؛ هر توافق واقعی باید تضمین توقف حملات و تسهیلات اقتصادی قابل تحقق را شامل شود."
+        ],
+        "impact": "ترکیب تهدید نظامی و فشار اقتصادی شانس یک آتش‌بس پایدار را کاهش و آسیب‌پذیری سیاسی و اقتصادی حکومت را تشدید کرده است.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The New Yorker",
+        "url": "https://www.newyorker.com/news/q-and-a/how-donald-trump-may-have-sabotaged-his-chances-for-a-deal-with-iran",
+        "clean_url": "https://www.newyorker.com/news/q-and-a/how-donald-trump-may-have-sabotaged-his-chances-for-a-deal-with-iran",
+        "image": "http://www.bing.com/th?id=ONUT.DRlCmIm4-iyPjiksKm6mqA&pid=News",
+        "timestamp": 1774435200.0
     },
     {
         "title_fa": "دولت ترامپ پیشنهاد صلح به ایران فرستاد: آنچه باید بدانید",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGpleDBJbHI1bVNsXzZGSDZRV0xqV0dnOXV6ZHlMRjRmSFhHMDh0bXJOT3ZoSnJ5NEdzMFY3SFdFeDE1S3VMakhJa2o3aXZoT05zcnpCcXcyQlp3dzVjVElOU0dUdVl5WXo0TUdvRzlLd1pUOUR3YVhCT0ttc2FKUl9NS3FGd2t2MEZtUmdlTUFlejRoYzR0MDRlWnBwakw1UnlheEx5LS1fX005UzhqM0Z2UdIBuAFBVV95cUxNT2FDODNFRkZtSkgxNk5adk93MEI2aTRvdXR3VDZFZkRiYURzN0lRTGdHV2JlRGxWb1liTzVFX3lzLUpaTmJUYnZySmxSbG5rUlBVTmN0aDhzYkY3TXhIdjljd0NvT2dGQWczbXFwMEl1MHBxa1d1bXlxM28ySG8yb0VLU1I4aFZkeGJweHRnR1JRNVlCM3QwYS1Hd1V1bE1zbl95Qlp4eW93WVZWd2xwMmVSblY0NzdC",
         "image": null,
         "timestamp": 1774114384.0
-    },
-    {
-        "title_fa": "هم‌پیمانان حوثی ایران در کمین گذرگاه نفتی دیگری: دریای سرخ",
-        "title_en": "Iran’s Houthi allies lie in wait on another key oil route: the Red Sea",
-        "summary": [
-            "حوثی‌های تحت حمایت تهران تهدیدها را تشدید کرده‌اند و پس از سال‌ها ایجاد گلوگاه در کشتیرانی، اکنون روی مسیر حیاتی نفتی دریای سرخ تمرکز دارند.",
-            "افزایش این تهدیدها احتمال واکنش دیپلماتیک و تحریم‌های بیشتر علیه تهران و شبکه نیابتی‌اش را افزایش می‌دهد زیرا اختلال در خطوط انرژی واکنش بین‌المللی را برمی‌انگیزد.",
-            "تکیه رژیم بر بازیگران نیابتی برای فشار منطقه‌ای نشان‌دهنده ضعف در مدیریت امنیت و اقتصاد داخلی است و ریسک تشدید تنش‌های منطقه‌ای را بالا می‌برد."
-        ],
-        "impact": "کندی یا قطع عبور نفت از دریای سرخ می‌تواند فشار اقتصادی و سیاسی بر تهران را تشدید کرده و شانس مداخله نظامی یا اعمال تحریم‌های جدید را افزایش دهد.",
-        "tag": "دریاسرخ",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-houthi-allies-lie-in-wait-on-another-key-oil-route-the-red-sea/ar-AA1Z8v9i",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-houthi-allies-lie-in-wait-on-another-key-oil-route-the-red-sea/ar-AA1Z8v9i",
-        "image": "http://www.bing.com/th?id=OVFT.51NT45DiMye64jKnES9ofy&pid=News",
-        "timestamp": 1774108800.0
-    },
-    {
-        "title_fa": "جنگ با ایران: اسرائیل حملات را تشدید می‌کند و آمریکا گام‌های بعدی را بررسی می‌کند",
-        "title_en": "Iran war: Israel to step up attacks as US mulls next steps",
-        "summary": [
-            "اسرائیل قصد دارد سطح حملات علیه اهداف مرتبط با ایران را افزایش دهد و عملیات را تشدید کند.",
-            "آمریکا در حال سنجش گزینه‌های بعدی؛ تردید و تأخیر در تصمیم‌گیری واشنگتن خطر واکنش‌های نامنسجم و تشدید بحران را بالا می‌برد.",
-            "تشدید حملات می‌تواند فشارهای بین‌المللی و اقتصادی بر تهران را افزایش دهد، ریسک تحریم‌ها و نارضایتی داخلی را بالا ببرد و ظرفیت رژیم برای مدیریت ناامنی را کاهش دهد."
-        ],
-        "impact": "تشدید حملات اسرائیل در حالی که آمریکا در حال بررسی واکنش است فشار خارجی و اقتصادی بر رژیم ایران را افزایش می‌دهد و توان حکومت برای مهار نارضایتی‌های داخلی را بیشتر تضعیف می‌کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2JWM1dYWXB5cEFtc3MzSUx4XzNLQ0haNERCUGJ3Qk84M2UtQjJtUUI2UDRKV3lIcEE0VjBGcHJENEZIRWYzOTdjbzNTckdIUlREMEFIbW5JaWY0MmhJNzEtUWhnRDVqYUl5TG02VHZMN1ZxMU9yTDFLNDZlRG84dlQ3SHFTUU5xYmJjZXZR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM2JWM1dYWXB5cEFtc3MzSUx4XzNLQ0haNERCUGJ3Qk84M2UtQjJtUUI2UDRKV3lIcEE0VjBGcHJENEZIRWYzOTdjbzNTckdIUlREMEFIbW5JaWY0MmhJNzEtUWhnRDVqYUl5TG02VHZMN1ZxMU9yTDFLNDZlRG84dlQ3SHFTUU5xYmJjZXZR",
-        "image": null,
-        "timestamp": 1774107135.0
-    },
-    {
-        "title_fa": "ایران موشک‌هایی به پایگاه نظامی آمریکا و بریتانیا در اقیانوس هند شلیک کرد؛ چه چیزهایی درباره برد و قابلیت‌های موشکی‌اش نشان می‌دهد",
-        "title_en": "Iran launched missiles at US-UK military base in the Indian Ocean. Here’s what that says about its capabilities",
-        "summary": [
-            "گزارش می‌گوید ایران تلاش کرد به پایگاهی متعلق به آمریکا و بریتانیا در بیش از ۳۰۰۰ کیلومتری سواحل خود موشک شلیک کند؛ این واقعیت سوالاتی جدی درباره برد عملیاتی و توان هدایت موشکی تهران مطرح می‌کند.",
-            "عملیات نشان‌دهنده توان بالقوه برای پروجکت‌کردن نیرو فراتر از منطقه نزدیک به کشور است و می‌تواند موجب افزایش تدابیر دفاعی و هشدارگری‌های آمریکا و متحدانش و نیز تشدید ریسک تشدید نظامی شود.",
-            "خبر منبع هیچ اشاره‌ای به پیامدهای داخلی مثل اعتراضات یا اثرات اقتصادی مستقیم نکرد؛ بنابراین ارزیابی درباره تأثیر فوری بر نارضایتی عمومی یا مدیریت اقتصادی از این گزارش به‌تنهایی قابل استناد نیست."
-        ],
-        "impact": "اجرای چنین پرتاب‌هایی احتمال افزایش فشار نظامی و دیپلماتیک و تحریم‌هارا بالا می‌برد که می‌تواند ساختار سیاسی-اقتصادی رژیم را بیش از پیش تضعیف کند.",
-        "tag": "موشکی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iranian-hits-neiran-launched-missiles-at-us-uk-military-base-in-the-indian-ocean-here-s-what-that-says-about-its-capabilities/ar-AA1Z7Vtq",
-        "clean_url": "https://www.msn.com/en-us/news/world/iranian-hits-neiran-launched-missiles-at-us-uk-military-base-in-the-indian-ocean-here-s-what-that-says-about-its-capabilities/ar-AA1Z7Vtq",
-        "image": "http://www.bing.com/th?id=OVFT.UlHotHDeNDw_GhprukMX9y&pid=News",
-        "timestamp": 1774106536.0
     }
 ]
