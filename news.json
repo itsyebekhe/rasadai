@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جنگ ترامپ علیه ایران به روایت خودش",
+        "title_en": "Trump’s war on Iran, in his own words",
+        "summary": [
+            "العربیه/الجزیره مجموعه‌ای از اظهارات مستقیم ترامپ درباره ایران را منتشر کرده که تصویر روشنی از موضع تهاجمی و فشار حداکثری ایالات‌متحده ارائه می‌دهد؛ متنِ «به زبان خودِ ترامپ» اولاً قصدِ القای نیت خارجی را شفاف می‌کند.",
+            "تحلیل ساختاری: اگر این اظهارات هم‌راستا با سیاست عملی آمریکا باشد، تشدید تحریم‌ها و فشارهای امنیتی می‌تواند منابع اقتصادی رژیم را بیشتر تضعیف کند—کاهش درآمد ارزی، اختلال در شبکه‌های تامین مالی نهادهای امنیتی و فشار بر توان مدیریت اقتصادی نظام.",
+            "پیامدهای داخلی: افزایش ریتوریک حمله‌ای دو مسیر محتمل ایجاد می‌کند؛ یا نارضایتی عمومی و فشارهای اجتماعی را تشدید می‌کند، یا به رژیم بهانه‌ای برای سرکوب و محدودسازی فضای سیاسی می‌دهد؛ هر دو مسیر نشان‌دهنده ناکارآمدی و بحران مدیریتی ساختار حکومتی است."
+        ],
+        "impact": "اظهارات تهاجمی ترامپ، حتی در قالب ریتوریک، شانس تشدید فشار خارجی و افزایش تنش منطقه‌ای را بالا می‌برد که هم تضعیف اقتصادی رژیم و هم تشدید سرکوب داخلی را تسریع می‌کند.",
+        "tag": "جنگ",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.scmp.com/news/world/middle-east/article/3347664/tracking-trumps-ever-shifting-positions-iran-war-his-own-words",
+        "clean_url": "https://www.scmp.com/news/world/middle-east/article/3347664/tracking-trumps-ever-shifting-positions-iran-war-his-own-words",
+        "image": null,
+        "timestamp": 1774468794.0
+    },
+    {
         "title_fa": "ایران به طرح آتش‌بس آمریکا پاسخ منفی داد در حالی که پیگیر گفتگوهاست",
         "title_en": "Iran gives negative response to US ceasefire plan amid push for talks",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOTNHNnV1R25oRGZQSFQ0NWxrSkN6ZFpFZlE2Z3Q4U3NaSUJ1bU5fZVRQVEIzQlRUbDlJc25vcEQwVVB2aHROZG5PMXJVZm94ZmlIUElyZUZNa1F4d3Q3TklQckpnRTBBSGR3ejhWckpjUVFSeVVZa05tMTdYQi10RlBfdmdJVHB1eUZuOVppMFFuZ0xBLUxwQURIYmVxUUFVYkx5NWZrMFduaGxWN0o2Y1NxT0NOZw",
         "image": null,
         "timestamp": 1774466400.0
+    },
+    {
+        "title_fa": "اکثریت می‌گویند اقدامات نظامی اخیر آمریکا علیه ایران بیش از حد بوده است",
+        "title_en": "Most say the United States’ recent military actions against Iran have gone too far",
+        "summary": [
+            "نظرسنجی AP‑NORC نشان می‌دهد اکثریت آمریکایی‌ها معتقدند مداخلات نظامی اخیر ایالات متحده علیه ایران فراتر از مرزهای قابل قبول بوده است.",
+            "فشارهای خارجی/تحریم‌ها: کاهش حمایت عمومی در آمریکا شانس ادامه عملیات نظامی را محدود می‌کند و به معنای تضعیف ابزارهای اهرمی فوری علیه رژیم است؛ این امر می‌تواند طولانی‌مدت توانایی فشار محوری واشنگتن برای تغییر رفتار تهران را کاهش دهد.",
+            "در داخل ایران: هرگونه تضعیف فشار نظامی خارجی احتمالاً به رهبران رژیم مجال بیشتری برای تمرکز بر مدیریت بحران‌های اقتصادی و سرکوب نارضایتی‌های اجتماعی می‌دهد؛ با این حال این نظرسنجی خود مدرکی بر تغییر قابل‌فروش در وضعیت اقتصادی یا تحرکات اعتراضی داخلی ایران ارائه نمی‌دهد."
+        ],
+        "impact": "کاهش پذیرش عمومی اقدامات نظامی در آمریکا احتمال محدود کردن گزینه‌های فشار مستقیم علیه ایران را افزایش می‌دهد و به رژیم فضای عملیاتی بیشتری برای تحکیم داخلی می‌بخشد.",
+        "tag": "نظرسنجی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "AP-NORC",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZl9iUVdZRTZUZ0FzMk5nU3lYMy11MFFJeFQxRGhTYmZvMlI1SzA3NVdVdXZhdExPdHJxMm9tdzhFQjFHY0d3ZnJXeEdSUERSMzBWcTBnZnUyTl82SlpnOEtWdk9tSi1PUG16WFBNWVpKenJPX3VrUl9XWHBsX3lRcjZRNzR2Y3p1QmJFSXJ1RnRyemZHYnNsdEx3d25SQnd5LUFlX1VXaFkzb0pBb0xr?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZl9iUVdZRTZUZ0FzMk5nU3lYMy11MFFJeFQxRGhTYmZvMlI1SzA3NVdVdXZhdExPdHJxMm9tdzhFQjFHY0d3ZnJXeEdSUERSMzBWcTBnZnUyTl82SlpnOEtWdk9tSi1PUG16WFBNWVpKenJPX3VrUl9XWHBsX3lRcjZRNzR2Y3p1QmJFSXJ1RnRyemZHYnNsdEx3d25SQnd5LUFlX1VXaFkzb0pBb0xr",
+        "image": null,
+        "timestamp": 1774463134.0
     },
     {
         "title_fa": "پنتاگون ۲۰۰۰ نیروی هوابرد به خاورمیانه اعزام کرد",
@@ -162,6 +198,24 @@
         "timestamp": 1774443098.0
     },
     {
+        "title_fa": "حملات ایران نیروهای آمریکایی را وادار به کار از راه دور کرد",
+        "title_en": "Iran’s Attacks Force U.S. Troops to Work Remotely",
+        "summary": [
+            "حملات تلافی‌جویانه ایران به‌خاطر جنگ آمریکا و اسرائیل چند پایگاه نظامی آمریکایی در خاورمیانه را به‌طور جدی آسیب زده و نیروهای آمریکایی را مجبور کرده‌اند از راه دور وظایف خود را پیگیری کنند.",
+            "این عملیات عملکرد میدانی و ظرفیت پاسخ‌دهی فوری ایالات متحده را مختل کرده و خطر تشدید درگیری‌های مستقیم منطقه‌ای را افزایش می‌دهد.",
+            "مقاله به تحریم‌ها یا اعتراضات داخلی اشاره‌ای ندارد؛ با این حال ادامه این حملات می‌تواند فشار خارجی را تشدید و منابع دولتی را به سمت هزینه‌های امنیتی منحرف کند که به تضعیف ثبات داخلی منجر خواهد شد."
+        ],
+        "impact": "افزایش فوری خطر تشدید نظامی با آمریکا و تضعیف توان دولت در مدیریت مسائل اقتصادی و نارضایتی‌های داخلی.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/25/us/politics/iran-us-bases.html",
+        "clean_url": "https://www.nytimes.com/2026/03/25/us/politics/iran-us-bases.html",
+        "image": "http://www.bing.com/th?id=ONUT.nhWRH5vDwcVwqrNtlZyzEw&pid=News",
+        "timestamp": 1774440300.0
+    },
+    {
         "title_fa": "میانجی‌گری آمریکا و ایران: خواسته‌های هر طرف چیست و آیا توافق ممکن است؟",
         "title_en": "US-Iran mediation: What are each side’s demands – and is a deal possible?",
         "summary": [
@@ -214,6 +268,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTVVzQjRTdGtHV0k2X0ZQYWRpRXJqMHhpUE80ZUFTZTFadFl3RGZjSWpjV1FTTEJYY1h5WTdwU2d3RWlmdEFGNV9QX3dpaEhFU3QtLVdKQldfUmdqY2JRUjY4SU5SY0NhNFY5WDBQaVlMOUQ4NTdsRXIxZHllOUsxclR4N3JmMTc5Z2NMR2IyZDJ0ZS02M3dzSjdCSFFULWFxeVNrYg",
         "image": null,
         "timestamp": 1774437660.0
+    },
+    {
+        "title_fa": "ایران قصد مذاکره با آمریکا را ندارد؛ وزیر خارجه: پیشنهاد ترامپ برای پایان جنگ در حال بررسی است",
+        "title_en": "Iran has no intention to hold talks with U.S; foreign minister says Trump proposal to end war being reviewed",
+        "summary": [
+            "وزیر خارجه عباس عراقچی گفت پیام‌رسانی میان طرفین از طریق میانجی «مذاکره مستقیم» محسوب نمی‌شود و تهران فعلاً قصد ورود به گفت‌وگوی رسمی با واشینگتن را ندارد.",
+            "رسانه‌های دولتی از دریافت طرح ۱۵ ماده‌ای ترامپ و ارائه یک پیشنهاد پنج‌ماده‌ای از سوی ایران خبر داده‌اند که از جمله خواستار اِعمال حاکمیت تهران بر تنگه هرمز و دریافت غرامت‌های جنگی است؛ این بند احتمالا برای آمریکا غیرقابل‌پذیرش است.",
+            "فشار دیپلماتیک و تلاش‌های آمریکا برای برقراری آتش‌بس در کنار ارسال پیام‌ها، ابزارهای خارجی برای تحت‌فشار گذاشتن رژیم‌اند؛ گزارش اشاره‌ای به اعتراضات داخلی یا وضعیت اقتصادی نکرده اما اصرار تهران بر اهرم‌های منطقه‌ای نشان‌دهنده تکیه بر فشار خارجی به‌جای اصلاحات مدیریتی داخلی است."
+        ],
+        "impact": "پیشنهاد تهران برای کنترل تنگه هرمز و رد مذاکره مستقیم احتمال بن‌بست دیپلماتیک را تقویت و خطر تشدید نظامی و بحران منطقه‌ای را افزایش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
+        "clean_url": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html",
+        "image": "http://www.bing.com/th?id=ONUT.hIscKOFVMaxjNhKmLHUpbQ&pid=News",
+        "timestamp": 1774436400.0
     },
     {
         "title_fa": "پیشنهاد ترامپ به ایران — و چرا ممکن است علیه او برگردانده شود",
@@ -538,6 +610,24 @@
         "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/iran-war-news-live-updates-strait-of-hormuz-us-iran-donald-trump-mojtaba-khamenei-uae-dubai-middle-east-war-latest-news/liveblog/msid-129765021,curpg-3.cms",
         "image": "https://economictimes.indiatimes.com/thumb/msid-129765021,width-1200,height-900,resizemode-4,imglength-294258/news/newsblogs/iran-war-news-live-updates-strait-of-hormuz-us-iran-donald-trump-mojtaba-khamenei-uae-dubai-middle-east-war-latest-news.jpg",
         "timestamp": 1774424280.0
+    },
+    {
+        "title_fa": "آمریکا طرح صلح ۱۵ بندی به ایران ارائه کرد و دارایی‌های نظامی بیشتری مستقر نمود",
+        "title_en": "U.S. pitches 15-point peace plan to Iran, deploys more military assets",
+        "summary": [
+            "پیشنهاد ۱۵ بندی آمریکا هم‌زمان با افزایش استقرار دارایی‌های نظامی، سیاستِ فشار دیپلماتیک همراه با نمایش قدرت است؛ هدف عملی کاهش فضای مانور بین‌المللی تهران است.",
+            "گزارش به حضور نفتکش روسی اشاره می‌کند؛ روسیه در این معادله به‌عنوان عامل تسهیل‌کننده بقای آماده‌سازی‌های لجستیکی و دورزدن تحریم‌ها قابل توجه است و نقشش به نفع حفظ ظرفیت‌های رژیم ارزیابی می‌شود.",
+            "این ترکیب فشار خارجی و تهدید نظامی می‌تواند بار اقتصادی و ضعف مدیریتی داخلی را تشدید کند و احتمال تشدید نارضایتی‌ها و بی‌ثباتی سیاسی را افزایش دهد."
+        ],
+        "impact": "پیشنهاد دیپلماتیک همراه با تقویت حضور نظامی، شانس تحمیل فشار راهبردی بر تهران را بالا می‌برد و هم‌زمان امکان تقویت مسیرهای روسی برای بقا را افزایش می‌دهد.",
+        "tag": "فشار",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "UPI",
+        "url": "https://www.upi.com/Top_News/World-News/2026/03/25/sends-Iran-peace-proposal/8311774437362/",
+        "clean_url": "https://www.upi.com/Top_News/World-News/2026/03/25/sends-Iran-peace-proposal/8311774437362",
+        "image": "http://www.bing.com/th?id=ONUT.mosXJFCtG8-RH1FosfO_EA&pid=News",
+        "timestamp": 1774422300.0
     },
     {
         "title_fa": "حملات هوایی آمریکا و اسرائیل تهران را هدف قرار دادند؛ تیم‌های نجات به خرابی‌ها پاسخ می‌دهند",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.nbcnews.com/world/iran/natanz-iran-nuclear-enrichment-site-rcna264576",
         "image": null,
         "timestamp": 1774125077.0
-    },
-    {
-        "title_fa": "قطع ویدیوی زن ایرانی هنگام اصابت بمب در حمله‌ای که رسانه‌ها آن را مرتبط با آمریکا و اسرائیل می‌دانند",
-        "title_en": "Iranian woman’s video of US-Israel attack ends as bomb hits",
-        "summary": [
-            "Al Jazeera گزارش می‌دهد ویدیویی که یک زن ایرانی ثبت کرده، هنگام حمله‌ای که رسانه‌ها آن را مرتبط با آمریکا و اسرائیل توصیف کرده‌اند، با اصابت بمب ناگهانی قطع شده است.",
-            "فیلم کوتاه موقعیت غیرنظامیان در محل هدف را نشان می‌دهد و تأیید می‌کند تهدیدات مستقیم علیه جمعیت غیرنظامی با ثبت تصویری لحظه‌ای در جریان است.",
-            "این رخداد، ضعف در تأمین امنیت داخلی را برجسته می‌کند و می‌تواند به تضعیف اعتبار حکومت و افزایش خشم و فشار سیاسی در داخل بینجامد."
-        ],
-        "impact": "اصابت بمب در حضور دوربین شهروندی اعتبار امنیتی رژیم را بیشتر تضعیف می‌کند و ریسک تشدید تنش‌های منطقه‌ای و فشار داخلی را بالا می‌برد.",
-        "tag": "بمباران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.news.com.au/world/iranian-womans-video-of-usisrael-attack-ends-as-bomb-hits/video/8cf43d570aded0f1a1d71d83f1b78cd2",
-        "clean_url": "https://www.news.com.au/world/iranian-womans-video-of-usisrael-attack-ends-as-bomb-hits/video/8cf43d570aded0f1a1d71d83f1b78cd2",
-        "image": null,
-        "timestamp": 1774121400.0
-    },
-    {
-        "title_fa": "نقشه‌های جنگ ایران: رصد درگیری‌های خاورمیانه",
-        "title_en": "Iran War Maps: Tracking the Mideast Conflict",
-        "summary": [
-            "نیویورک‌تایمز مجموعه‌ای از نقشه‌ها و به‌روزرسانی‌ها برای رصد تحولات جنگ در خاورمیانه منتشر کرده؛ هدف عمده ارائه تصویری جغرافیایی و زمانی از درگیری‌ها برای مخاطبان بین‌المللی است.",
-            "پوشش نقشه‌ای رسانه‌ای می‌تواند شفافیت درباره مکان و روند عملیات را افزایش دهد و در عمل ابزار فشار دیپلماتیک و اطلاعاتی را علیه بازیگران درگیر تقویت کند؛ این امر ساختار سیاسی-امنیتی را در معرض هزینه‌های بین‌المللی قرار می‌دهد.",
-            "اگرچه گزارش جزئیات داخلی ایران را مشخص نمی‌کند، رصد گسترده رسانه‌ای می‌تواند پیامدهای سیاسی داخلی را تشدید کند زیرا اشتباهات و پیامدهای مدیریت بحران برای افکار عمومی قابل رؤیت‌تر می‌شود و زمینه نارضایتی را تقویت می‌کند."
-        ],
-        "impact": "اهمیت راهبردی این نقشه‌ها در توانشان برای تقویت فشار بین‌المللی و افزایش هزینه‌های سیاسی و امنیتی برای حکومت نهفته است.",
-        "tag": "درگیری",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps",
-        "clean_url": "https://www.nytimes.com/live/2026/world/us-israel-iran-attack-maps",
-        "image": null,
-        "timestamp": 1774121146.0
-    },
-    {
-        "title_fa": "تهدید ترامپ به «نابودی» نیروگاه‌های ایران؛ موشک‌باران، تلافی تهران و خاموشی اینترنتی بی‌سابقه",
-        "title_en": "Trump says US will ‘obliterate’ Iran’s power plants if Strait of Hormuz not open before 48-hour deadline",
-        "summary": [
-            "دونالد ترامپ با مهلت ۴۸ ساعته اعلام کرده در صورت باز نشدن تنگه هرمز، نیروگاه‌های ایران را «نابود» خواهد کرد؛ تهران متقابلاً تهدید کرده در صورت حمله به نیروگاه‌ها، زیرساخت‌های انرژی مرتبط با آمریکا در منطقه را هدف قرار خواهد داد و گفته کشتی‌های غیر «دشمن» در صورت هماهنگی عبور امن خواهند داشت.",
-            "موجی از حملات و تلفات گزارش شده: عربستان و امارات از رهگیری حملات موشکی خبر داده‌اند، اسرائیل از انجام حملاتی به داخل ایران سخن گفته و ایران نیز موشک‌هایی به جنوب اسرائیل شلیک کرده که بیش از ۱۶۰ نفر مجروح برجای گذاشته؛ آژانس بین‌المللی انرژی اتمی می‌گوید از آسیب به تاسیسات پژوهشی نزدیک دیمونا اطلاعی ندارد و افزایش سطوح تابشی گزارش نشده است.",
-            "نقش راهبردی و فرامنطقه‌ای هم دیده می‌شود: BBC از تلاش ناموفق برای حمله به پایگاه مشترک انگلیس–آمریکا در دیگو گارسیا خبر داده و همزمان خاموشی اینترنت در ایران وارد روز ۲۳ شده که طولانی‌ترین قطع شبکه در تاریخ کشور است؛ این قطع ارتباط نشان‌دهنده فشار سرکوبگرانه و شکنندگی داخلی حکومت است."
-        ],
-        "impact": "تهدیدها و حملات متقابل به زیرساخت‌های انرژی و تسهیل درگیری نظامی، انزوای بین‌المللی و شوک اقتصادی بیشتری بر رژیم وارد کرده و ریسک بی‌ثباتی داخلی را به‌سرعت بالا می‌برد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/ce35wke27ynt",
-        "clean_url": "https://www.bbc.com/news/live/ce35wke27ynt",
-        "image": null,
-        "timestamp": 1774118220.0
-    },
-    {
-        "title_fa": "جنگ در خاورمیانه: هدف قرار گرفتن تاسیسات هسته‌ای ایران؛ تلفات روزانه کودکان در لبنان معادل «یک کلاس درس»",
-        "title_en": "War in the Middle East: Iran nuclear facility hit as equivalent of ‘one classroom of children’ killed, wounded daily in Lebanon",
-        "summary": [
-            "گزارش UN News از اصابت به یک تاسیسات هسته‌ای در ایران خبر می‌دهد؛ منبع یا عامل حمله در عنوان گزارش مشخص نشده است.",
-            "سازمان ملل مطابق گزارش اعلام کرده است که در لبنان به‌طور متوسط تعداد کودکان کشته یا زخمی‌شده روزانه معادل «یک کلاس درس» است؛ نشان‌دهنده هزینه بالای انسانی و تلفات غیرنظامی در درگیری‌ها.",
-            "خبر اشاره‌ای به تحریم‌های جدید یا واکنش قدرت‌های بزرگ ندارد؛ با این‌حال ترکیب حمله به تاسیسات هسته‌ای و تلفات مدنی قابل‌توجه می‌تواند فشارهای سیاسی، امنیتی و اقتصادی بر حکومت ایران را تشدید کند و بار مدیریتی و نارضایتی عمومی را افزایش دهد."
-        ],
-        "impact": "هدف‌گیری تاسیسات هسته‌ای همراه با تلفات گسترده غیرنظامیان در لبنان نشانه‌ای از تشدید منطقه‌ای است که حتی بدون تحریم‌های تازه، ثبات سیاسی و توان مدیریتی رژیم را تحت فشار قرار می‌دهد.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "UN News",
-        "url": "https://news.un.org/en/story/2026/03/1167175",
-        "clean_url": "https://news.un.org/en/story/2026/03/1167175",
-        "image": null,
-        "timestamp": 1774118064.0
-    },
-    {
-        "title_fa": "تهدید ترامپ به حمله به نیروگاه‌های ایران در صورت بازنشدن تنگه هرمز",
-        "title_en": "Trump threatens attack on Iran's power plants if Strait not reopened",
-        "summary": [
-            "دونالد ترامپ در پستی در Truth Social هشدار داد که اگر تنگه هرمز ظرف ۴۸ ساعت «کاملاً باز» نشود، آمریکا «نیروگاه‌های مختلف ایران» را هدف قرار داده و «بزرگ‌ترین» را ابتدا نابود خواهد کرد.",
-            "اسرائیل با اظهارات وزیر دفاع، اسرائیل کاتز، از «تشدید قابل‌توجه» حملات هماهنگ با آمریکا خبر داد و گزارش‌ها حاکی است آمریکا بیش از ۸۰۰۰ هدف و ۱۳۰ شناور ایرانی را هدف قرار داده؛ صداوسیما به نقل از وزارت بهداشت از حدود ۱۵۰۰ کشته و ۲۱٬۰۰۰ زخمی در ایران خبر داده است.",
-            "بسته شدن غیررسمی تنگه هرمز جریان حمل‌ونقل نفت جهانی را فلج کرده و تهدید به هدف گرفتن زیرساخت‌های انرژی، خطر افزایش تلفات غیرنظامی، اختلال بلندمدت در صادرات انرژی و فرسایش بیشتر توان حکمرانی موجود را برجسته می‌سازد."
-        ],
-        "impact": "تهدید و هماهنگی نظامی آمریکا و اسرائیل احتمالاً موجب تشدید حملات علیه زیرساخت‌های انرژی ایران و تشدید بحران اقتصادی و انسانی در داخل کشور خواهد شد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/trump-threatens-attack-irans-power-011428216.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-threatens-attack-irans-power-011428216.html",
-        "image": null,
-        "timestamp": 1774117740.0
     }
 ]
