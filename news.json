@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "طرح ۱۵ بندی آمریکا به تهران رسید؛ ایران علناً دیپلماسی را مسخره کرد",
+        "title_en": "US 15-point plan reaches Tehran as Iran publicly scoffs at diplomacy",
+        "summary": [
+            "ایالات متحده یک بسته ۱۵ بندی را به تهران ارسال کرده است؛ منبع خبر رسیدن این طرح را گزارش می‌دهد.",
+            "پاسخ رسمی تهران به‌صورت علنی تمسخرآمیز بوده است؛ این موضع‌گیری عمومی نشانگر ارجح دانستن بازی سیاسی داخل بر مذاکرات واقعی است.",
+            "ارسال چنین طرحی نشانه افزایش فشار دیپلماتیک و تلاش برای ایجاد اهرم علیه حکومت است و رد علنی آن می‌تواند موقعیت بین‌المللی و ظرفیت چانه‌زنی حکومت را تضعیف کند."
+        ],
+        "impact": "تقابل لفظی به جای گفت‌وگوی جدی، فرصت حل اختلافات را محدود و پایه‌های بین‌المللی و داخلی حکومت را بیش از پیش شکننده می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jMUhEZEZKeEpUZWlDUWZ4bjZuZVRIQWc4cE40ejJwVlRhX19mZUkyWUk1YWdYa1lCRnNMcGxWQ2Vib2FLbUE4T2lUd05jbTF6Z1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jMUhEZEZKeEpUZWlDUWZ4bjZuZVRIQWc4cE40ejJwVlRhX19mZUkyWUk1YWdYa1lCRnNMcGxWQ2Vib2FLbUE4T2lUd05jbTF6Z1E",
+        "image": null,
+        "timestamp": 1774435692.0
+    },
+    {
         "title_fa": "آخرین تحولات جنگ ایران: تهران: آمریکا «با خود مذاکره می‌کند»، ادعای پوشالی ترامپ",
         "title_en": "Iran war latest: US ‘negotiating with itself’, Tehran claims",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/if-iran-keeps-its-uranium-everything-was-for-nothing-experts-say-on-trump-s-war-pause/ar-AA1ZjWpf",
         "image": null,
         "timestamp": 1774433046.0
+    },
+    {
+        "title_fa": "چگونه جنگ با ایران به مسابقه‌ای برای تثبیت نظم اقتصادی جهانی تبدیل شد",
+        "title_en": "How the War in Iran Became a Race to Stabilize the Global Economic Order",
+        "summary": [
+            "حمله‌های مشترک آمریکا و اسرائیل از جمله هدف‌گرفتن میدان گازی مشترک پارس جنوبی با هدف ضربه زدن به اصلی‌ترین منبع انرژی ایران و تضعیف مالی-نظامی رژیم انجام شد؛ در پی کشته‌شدن علی خامنه‌ای، آمریکا خواستار «تسلیم بی‌قید و شرط» شد اما فروپاشی سریع رخ نداد.",
+            "جنگ اکنون به رقابتی برای بازگرداندن ثبات به نظام اقتصادی جهانی تبدیل شده و محور آن بازگشایی تنگه هرمز است؛ ایران با حملات پهپادی علیه نفتکش‌ها و تهدید به پهن‌کردن مین، عملاً عبور و مرور نفتی را فلج کرده و از این ابزار به‌عنوان اهرم بازدارنده و چانه‌زنی استفاده می‌کند.",
+            "این ضربه‌های نظامی و اقتصادی ساختار درآمدی و بین‌المللی رژیم را تضعیف کرده و در عین حال نشان‌دهنده سوء‌مدیریت و اتکای دستگاه حاکم به روش‌های برون‌مرزی برای جبران ضعف‌های داخلی است؛ چنین وضعی فشارهای اقتصادی و نارضایتی عمومی را تشدید می‌کند."
+        ],
+        "impact": "فشار نظامی و اقتصادی ساختارهای درآمدی و مشروعیت رژیم را ضعیف کرده؛ بستن تنگه هرمز موقتا اهرم بازدارنده‌ای به رژیم می‌دهد اما هزینه‌های اقتصادی داخلی و ریسک ناآرامی‌های گسترده را افزایش می‌دهد.",
+        "tag": "نفت",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "newyorker.com",
+        "url": "https://www.newyorker.com/news/the-lede/how-the-war-in-iran-became-a-race-to-stabilize-the-global-economic-order",
+        "clean_url": "https://www.newyorker.com/news/the-lede/how-the-war-in-iran-became-a-race-to-stabilize-the-global-economic-order",
+        "image": null,
+        "timestamp": 1774432800.0
     },
     {
         "title_fa": "آتش‌سوزی در هادرا پس از حمله موشکی از سوی ایران",
@@ -214,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGdhSW9lNnlvWEhEZFhoY2NrWGRyMjlDLTRIOG9ONU04TjZkcnBXSk5GMkpvVG1vdzM4ZG53eUx3SFhZdy0ySVdQcXlnY01RSzR0b2R6VWpaenlBalZpeDR1YkxWNTdjWUlvazg0Y0NRZUYxSWVMd3JFS3ZfT3M2dWhWdU5LMG8zbHIyaU9MM0pDWmhT",
         "image": null,
         "timestamp": 1774409056.0
+    },
+    {
+        "title_fa": "آمریکا احتمالاً حدود ۱۰۰۰ چترباز به خاورمیانه می‌فرستد؛ ایران کاخ سفید را تمسخر کرد",
+        "title_en": "US expected to deploy paratroopers to the Middle East, as Iran taunts White House",
+        "summary": [
+            "اعزام نیرو: بر اساس دو منبع، تقریباً ۱۰۰۰ سرباز از 82nd Airborne Division در روزهای آتی به خاورمیانه اعزام خواهند شد؛ این اقدام هم‌زمان با اظهارات دونالد ترامپ درباره نزدیک بودن توافق برای پایان جنگ گزارش شده است.",
+            "حملات و اختلالات منطقه‌ای: گزارش‌ها حاکی از هدف‌گیری یک منطقه مسکونی در تهران توسط حمله هوایی، مجروح شدن دست‌کم ۹ نفر در نتیجه یک پرتاب موشک به شهری در مرکز اسرائیل و اصابت پهپاد به مخزن سوخت فرودگاه کویت است؛ هم‌زمان ایران اعلام کرده بابت عبور ایمن از تنگه هرمز عوارض دریافت می‌کند و ژاپن اعلام کرده ۳۰ روز ذخایر نفتی خود را آزاد خواهد ساخت و فیلیپین حالت اضطراری ملی اعلام کرده است.",
+            "پیامدهای فشار خارجی و ناکارآمدی داخلی: اعزام نظامی آمریکا و اقدامات اقتصادی-انرژتی شرکای منطقه‌ای، همراه با تصمیم ایران به دریافت عوارض هرمز، فشار خارجی را افزایش می‌دهد؛ هدف‌گیری مناطق مسکونی و اختلال در زیرساخت‌های سوختی نشان‌دهنده ضعف مدیریتی و اولویت‌گذاری‌های اجباری رژیم است که توان تاب‌آوری مالی و سیاسی آن را کاهش می‌دهد."
+        ],
+        "impact": "ترکیب اعزام نیرو، حملات متقابل و اختلالات انرژی ظرفیتمان در منطقه را برای تشدید فوری تنش و فرسایش تدارکات و مشروعیت رژیم افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-25-26",
+        "clean_url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-25-26",
+        "image": "http://www.bing.com/th?id=ONUT.FgPIQyqvWu4reUP27Dse5Q&pid=News",
+        "timestamp": 1774407300.0
     },
     {
         "title_fa": "شلیک موشک ایران به لبنان پس از اخراج فرستاده تهران از بیروت",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.wsj.com/livecoverage/iran-us-israel-war-updates-2026/card/iran-s-diego-garcia-attack-happened-late-thursday-on-the-east-coast-98LYAOKXxKml007DljCe",
         "image": "http://www.bing.com/th?id=OVFT.he4heLen0-WQU3Xq5eozhi&pid=News",
         "timestamp": 1774082640.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: ترامپ در نظر دارد «کاهش» تلاش‌های نظامی علیه ایران",
-        "title_en": "Iran live updates: Trump says he is considering 'winding down' Iran military efforts",
-        "summary": [
-            "دونالد ترامپ اعلام کرده که در نظر دارد تلاش‌های نظامی آمریکا علیه ایران را «کاهش» دهد.",
-            "جنگ شنبه وارد هفته چهارم خود شد.",
-            "کاهش نظامی مستقیم آمریکا ممکن است فشار فوری میدان نبرد را کم کند، اما کاهش عملیات نظامی لزوماً تحریم‌ها، مشکلات ساختاری اقتصادی و ضعف‌های حکمرانی را از بین نمی‌برد و بنابراین ثبات بلندمدت رژیم را تضمین نمی‌کند."
-        ],
-        "impact": "اعلام احتمال «کاهش» عملیات نظامی می‌تواند خطر تشدید درگیری‌های نظامی آنی را کاهش دهد، اما تهدیدات ساختاری اقتصادی و سیاسی که رژیم را آسیب‌پذیر کرده‌اند بدون تغییر باقی می‌مانند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-blasts-nato-allies-as-cowards-over-strait-of-hormuz/ar-AA1YITwK",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-blasts-nato-allies-as-cowards-over-strait-of-hormuz/ar-AA1YITwK",
-        "image": null,
-        "timestamp": 1774082273.0
-    },
-    {
-        "title_fa": "بازسازی فرماندهی حزب‌الله توسط سپاه برای ورود به جنگ",
-        "title_en": "How Iran's IRGC rebooted Lebanon's Hezbollah to be ready for war",
-        "summary": [
-            "سپاه پاسداران پس از ضربات سال ۲۰۲۴ فرماندهی نظامی حزب‌الله را بازسازی کرد: اعزام افسران برای بازآموزی، نظارت بر تسلیح مجدد و بازچینی ساختارهای فرماندهی که پیش‌تر توسط اطلاعات اسرائیل نفوذ یافته بودند.",
-            "این اقدام نشان‌دهنده تکیه مستقیم تهران بر ساختار نظامی و نیروهای نیابتی است؛ فشار نظامی خارجی (آمریکا و اسرائیل) رژیم را به سرمایه‌گذاری نظامیِ پرهزینه در خارج متقاعد کرد که منابع سیاسی و اقتصادی را منحرف می‌کند و ریسک‌های داخلی را افزایش می‌دهد.",
-            "پیامدهای عملیاتی مشخص است: حزب‌الله اگرچه هنوز به سطح اوج سابق نرسیده اما صدها موشک به سمت اسرائیل شلیک کرده و درگیری‌ها در جنوب لبنان منجر به بیش از ۱۰۰۰ کشته شده؛ کارآیی گروه در برابر یک تهاجم تمام‌عیار اسرائیل اما نامعلوم باقی می‌ماند."
-        ],
-        "impact": "دخالت مستقیم سپاه در بازسازی حزب‌الله توان رزمی نیابتی تهران را احیا کرده و موجب تشدید و گسترش درگیری‌ها با اسرائیل شده است.",
-        "tag": "پروکسی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.yahoo.com/news/articles/irans-irgc-rebooted-lebanons-hezbollah-083410445.html",
-        "clean_url": "https://www.yahoo.com/news/articles/irans-irgc-rebooted-lebanons-hezbollah-083410445.html",
-        "image": null,
-        "timestamp": 1774082061.0
-    },
-    {
-        "title_fa": "ترامپ: جنگ با ایران «از نظر نظامی» برده شده؛ اما پایان یا نقشه راه سیاسی دیده نمی‌شود",
-        "title_en": "Trump says the war on Iran is 'militarily' won. Yet there's still no end — or endgame — in sight",
-        "summary": [
-            "ترامپ ادعا کرده جنگ با ایران «از نظر نظامی» پیروز شده است؛ گزارش CBC هم‌زمان تصریح می‌کند که هیچ پایان مشخص یا راهبرد سیاسی برای خاتمه دادن به درگیری وجود ندارد.",
-            "نبود پایان سیاسی واقعی این ادعا را به پیامی نمادین تبدیل می‌کند و می‌تواند روند درگیری را طولانی و هزینه‌زا سازد — فشارها و تحریم‌های خارجی در صورت ادامه وضعیت می‌توانند ساختار رژیم را به طور تدریجی ضعیف کنند و پیامدهای اقتصادی و سیاسی داخلی را تشدید نمایند.",
-            "حذف یک نقشه راه سیاسی خروجی، ریسک آشکار شدن ناکارآمدی مدیریتی و افزایش نارضایتی در جامعه را بالا می‌برد؛ موفقیت نظامی به تنهایی بدون راه‌حل سیاسی خروجی پایدار ایجاد نمی‌کند."
-        ],
-        "impact": "ادعای «پیروزی نظامی» در غیاب پایان سیاسی عملی، رژیم را در معرض فشار خارجی بیشتر و تشدید بحران اقتصادی و سیاسی قرار می‌دهد و ثبات ساختاری آن را تضعیف می‌کند.",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CBC",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM244aVhHMzQ1M0xpRkIwOU05S0pTRVJfTS1yay1ISzJXWWc4MklzTW1TT3ZSSWJoR3FYYk1zUGNTY21qT01UY3FlWEp5YkZPMTM1SEZSQmtSU1VmM29tUHJRQ2t6RWQzdXdacHdEdkp2VjBET2pBVGdDZUF4RG4xWmFuYmFfMjNwVElFcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM244aVhHMzQ1M0xpRkIwOU05S0pTRVJfTS1yay1ISzJXWWc4MklzTW1TT3ZSSWJoR3FYYk1zUGNTY21qT01UY3FlWEp5YkZPMTM1SEZSQmtSU1VmM29tUHJRQ2t6RWQzdXdacHdEdkp2VjBET2pBVGdDZUF4RG4xWmFuYmFfMjNwVElFcw",
-        "image": null,
-        "timestamp": 1774080000.0
     }
 ]
