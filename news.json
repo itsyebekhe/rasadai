@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ: ایرانی‌ها «جنگجویان بد اما مذاکره‌کنندگان خوب» و تهران «درخواست معامله» دارد",
+        "title_en": "Trump says Iranians are 'lousy fighters but great negotiators': Live",
+        "summary": [
+            "رئیس‌جمهور ترامپ ادعا کرده ایرانی‌ها «جنگجویان بدی اما مذاکره‌کنندگان خوبی» هستند و تهران شکست خورده و «التماس» انجام معامله برای پایان جنگ می‌کند.",
+            "این اظهارات به‌عنوان فشار لفظی واشنگتن مطرح شده و می‌تواند بخشی از تلاش برای نمایش برتری دیپلماتیک و سیاسی آمریکا محسوب شود، هرچند گزارش شواهد میدانی مستقل ارائه نمی‌دهد.",
+            "ادعای «درخواست معامله» اگرچه مستند نشده، پتانسیل دارد بر افکار عمومی داخلی و فضای سیاسی تهران تأثیر بگذارد و گزینه‌های تصمیم‌گیران داخلی را محدود کند."
+        ],
+        "impact": "روایت ترامپ ممکن است به تقویت فشار بین‌المللی و کاهش عرصه سیاسی داخلی برای رژیم منجر شود، اما بدون شواهد مستقل درباره وضعیت میدانی ادعاها قابل تأیید نیستند.",
+        "tag": "دیپلماسی",
+        "urgency": 3,
+        "sentiment": 0.4,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-iranians-are-lousy-fighters-but-great-negotiators-live/ar-AA1ZpYpU",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iranians-are-lousy-fighters-but-great-negotiators-live/ar-AA1ZpYpU",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1Zt0IV.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1774537713.0
+    },
+    {
         "title_fa": "خسارت در اسرائیل ناشی از حملات ایران",
         "title_en": "Damage in Israel from Iranian attacks",
         "summary": [
@@ -252,6 +270,24 @@
         "timestamp": 1774513652.0
     },
     {
+        "title_fa": "هزینه زیست‌محیطی جنگ ایران می‌تواند دهه‌ها آسیب و خطرات بهداشتی برجا بگذارد، کارشناسان می‌گویند",
+        "title_en": "Iran war’s environmental toll could leave damage and health risks for decades, experts say",
+        "summary": [
+            "سوزاندن تأسیسات نفتی، غرق شدن کشتی‌ها و حملات موشکی باعث رهاسازی مجموعه‌ای از آلاینده‌ها، فلزات سنگین و ترکیبات سمی شده که هوا، خاک، آب آشامیدنی و کشاورزی را تهدید می‌کنند؛ کاوه مدنی این تخریب را بازگشت سال‌ها به عقب در حفاظت محیط‌زیست توصیف کرده است.",
+            "ثبت و برآورد خسارت دشوار است اما گروه Conflict and Environment Observatory بیش از ۴۰۰ حادثه زیست‌محیطی مرتبط با جنگ را شناسایی کرده؛ تأخیر در تصاویر ماهواره‌ای و قطعی اینترنت در ایران امکان ارزیابی کامل را محدود کرده است.",
+            "از منظر سیاسی-اقتصادی، این بحران زیست‌محیطی بار اضافی بر اقتصاد آسیب‌دیده وارد می‌کند، منابع آب و کشاورزی را تخریب می‌کند و اگر فشار خارجی یا تحریم‌ها ادامه یابد، توان مدیریت بحران حکومت و ثبات اقتصادی را بیش از پیش تضعیف خواهد کرد — این وضعیت می‌تواند نارضایتی عمومی را تشدید کند اما ادعای مواجهه فوری با ناآرامی‌های سراسری نیاز به شواهد بیشتر دارد."
+        ],
+        "impact": "آسیب محیط‌زیستی گسترده ظرفیت بازسازی اقتصادی و مدیریتی حکومت را کاهش می‌دهد و خطر تشدید بحران‌های اجتماعی و سیاسی را در بلندمدت بالا می‌برد.",
+        "tag": "محیط‌زیست",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Morning Call",
+        "url": "https://www.mcall.com/2026/03/26/iran-war-environmental-destruction/",
+        "clean_url": "https://www.mcall.com/2026/03/26/iran-war-environmental-destruction",
+        "image": "http://www.bing.com/th?id=ONUT.q7UYFNp0vTibYBhDFwQIAg&pid=News",
+        "timestamp": 1774513620.0
+    },
+    {
         "title_fa": "اسرائیل نگران است که دونالد ترامپ آتش‌بس با ایران را اعلام کند؛ احتمال توافق کم است",
         "title_en": "Israel fears Donald Trump could announce Iran ceasefire despite low deal odds",
         "summary": [
@@ -268,6 +304,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ta0tEdy12WEwxTmNsOHhhQnlpYm1scW5KRHlEWF80N3JDcmFtd1laSE5nS1FLNEdrTjdvRHdGR3kzbWpnaHpheUQtbUoyem9wbjRKR00yUFptUUZBWjA5bTE1OTR0UXZXUFE",
         "image": null,
         "timestamp": 1774512748.0
+    },
+    {
+        "title_fa": "ترامپ: ایران بهتر است در مذاکرات جدی شود",
+        "title_en": "Trump says Iran 'better get serious' about negotiations. Live updates.",
+        "summary": [
+            "دونالد ترامپ به‌صورت عمومی از ایران خواسته در مذاکرات «جدی» شود — خبر از طریق گزارش‌های زنده منتشر شده است.",
+            "پیام محدود و صرفاً اعلامی است؛ متن کامل گزارش یا جزئیات نشست‌ها در منبع حاضر نیست و اطلاعات بیشتر در گزارش‌های زنده دنبال می‌شود.",
+            "این نوع موضع‌گیری از سوی رئیس‌جمهور آمریکا یک فشار دیپلماتیک آشکار است که می‌تواند به تحرکات سیاسی و رسانه‌ای بیشتر علیه جمهوری اسلامی منتهی شود."
+        ],
+        "impact": "فشار علنی آمریکا پیامد مستقیم نظامی یا اقتصادی جدیدی را اثبات نمی‌کند اما این اعلامیه می‌تواند به تضعیف بیشتر جایگاه سیاسی رژیم و تشدید فشارهای دیپلماتیک و تبلیغاتی منجر شود.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/live-story/news/world/2026/03/26/iran-war-trump-israel-live-updates/89326321007/",
+        "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/26/iran-war-trump-israel-live-updates/89326321007",
+        "image": "http://www.bing.com/th?id=ONUT.8r12Do3JtnmKH7oa_sxbhQ&pid=News",
+        "timestamp": 1774511280.0
     },
     {
         "title_fa": "اسرائیل به درخواست پاکستان عراقچی و قالیباف را از فهرست هدف‌ها حذف کرد، مقام پاکستانی می‌گوید",
@@ -376,6 +430,24 @@
         "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-denies-ceasefire-talks-strait-of-hormuz",
         "image": "http://www.bing.com/th?id=ONUT.oILwvf23qzDDq2DctRMHCQ&pid=News",
         "timestamp": 1774499160.0
+    },
+    {
+        "title_fa": "ترامپ: ایران «التماس توافق می‌کند»؛ تهران طرح آتش‌بس را رد کرد",
+        "title_en": "Live updates: Trump insists Iran is ‘begging to make a deal’ after Tehran dismisses ceasefire plan",
+        "summary": [
+            "دونالد ترامپ ادعا کرده ایران «التماس می‌کند» برای رسیدن به یک توافق، اظهاریه‌ای که پس از رد رسمی طرح آتش‌بس از سوی تهران مطرح شد.",
+            "اظهارات ترامپ به مثابه ابزار فشار سیاسی-تبلیغاتی واشنگتن به حساب می‌آید که تلاش می‌کند برتری مذاکراتی و زمینه‌سازی برای تحریم‌ها یا اقدامات بعدی را القا کند.",
+            "رد طرح آتش‌بس توسط تهران می‌تواند نشان‌دهنده انتخاب سیاست بقا و محکم‌کاری نظامی-سیاسی باشد که ریسک افزایش نارضایتی داخلی و پیچیده‌تر شدن هرگونه راه‌حل دیپلماتیک را بالا می‌برد."
+        ],
+        "impact": "این تقابل گفتاری میان واشنگتن و تهران احتمال تشدید تنش دیپلماتیک و تقویت فشارهای بین‌المللی علیه رژیم را افزایش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-03-26-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-26-2026",
+        "image": "http://www.bing.com/th?id=ONUT.eAVn3D74S2gs1h1eFJKSqg&pid=News",
+        "timestamp": 1774497840.0
     },
     {
         "title_fa": "ایران: طرح آتش‌بس آمریکا در حال بررسی است اما مذاکره‌ای نیست؛ ترامپ: رهبران تهران خواستار توافق‌اند",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/iran-threatens-retaliate-against-gulf-energy-water-after-trump-ultimatum-2026-03-23",
         "image": "http://www.bing.com/th?id=ONUT.bVgUaSlSK5sXGmhjgWt6UQ&pid=News",
         "timestamp": 1774200240.0
-    },
-    {
-        "title_fa": "حملات موشکی ایران به اسرائیل 115 نفر را زخمی کرد؛ سامانه‌های دفاع هوایی نفوذ شدند و افکار عمومی شوکه شد",
-        "title_en": "Iranian missile strikes injure 115 in Israel, officials say, puncturing air defenses and shocking the public",
-        "summary": [
-            "حمله موشکی ایران به اهداف داخل اسرائیل به‌گزارش‌ها 115 زخمی برجای گذاشت و گزارش‌ها نشان می‌دهد تعدادی از موشک‌ها سامانه‌های دفاع هوایی اسرائیل را نفوذ داده‌اند؛ پیامد فوری، شوک و نگرانی امنیتی در افکار عمومی است.",
-            "ابعاد بین‌المللی: این اقدام می‌تواند موجب تشدید تحریم‌ها و فشار دیپلماتیک بر رژیم شود؛ چنین فشار خارجی ساختار اقتصادی-سیاسی رژیم را تضعیف و آسیب‌پذیری بلندمدت آن را افزایش می‌دهد.",
-            "ابعاد داخلی: مداخله نظامی خارجی هزینه‌های اقتصادی و سیاسی را بالا می‌برد، منابع را از مشکلات ساختاری اقتصادی منحرف می‌کند و ریسک افزایش سرکوب یا تشدید نارضایتی عمومی را بالا می‌برد."
-        ],
-        "impact": "این حمله احتمالاً تنش منطقه‌ای را تشدید و فشارهای بین‌المللی و هزینه‌های داخلی رژیم را افزایش خواهد داد.",
-        "tag": "موشکی",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2U0ZGtwWFFXVzBKU3lIU1VfcGRVVEVoT3M4ODh0N3d1S29kbjIyVVRzbERFSktYcE05R044akFnczliNlRFN2RZcVZWRXBBdi01TG9Ud25HNzVJUW9LZGU2dWYxR2FLbW1MQnhnZEM1cE5JdFZ4MnVnNUE1ZUhJOFRnN0NLNEp6dlBFbXNvbmE0SXcyUTJudVpHSFpYdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ2U0ZGtwWFFXVzBKU3lIU1VfcGRVVEVoT3M4ODh0N3d1S29kbjIyVVRzbERFSktYcE05R044akFnczliNlRFN2RZcVZWRXBBdi01TG9Ud25HNzVJUW9LZGU2dWYxR2FLbW1MQnhnZEM1cE5JdFZ4MnVnNUE1ZUhJOFRnN0NLNEp6dlBFbXNvbmE0SXcyUTJudVpHSFpYdw",
-        "image": null,
-        "timestamp": 1774199372.0
-    },
-    {
-        "title_fa": "تهدید ترامپ؛ هشدار به هدف‌گیری تاسیسات انرژی و آب ایران",
-        "title_en": "Iran war live: Iran warns of hits on energy, water sites after Trump threat",
-        "summary": [
-            "دونالد ترامپ تهدید کرده اگر ایران ظرف ۴۸ ساعت تنگه هرمز را باز نکند، نیروگاه‌های برق را «نابود» خواهد کرد؛ تهدیدی مستقیم علیه زیرساخت‌های حیاتی ایران.",
-            "هدف گرفتن تاسیسات انرژی و آب، خطر تبدیل تنش دیپلماتیک به درگیری نظامی مستقیم با آمریکا را به‌شکل معناداری افزایش می‌دهد و نشان‌دهنده تمرکز بر نقاط آسیب‌پذیر رژیم است.",
-            "این فشار خارجی می‌تواند ضعف ساختاری رژیم در حفاظت از منابع حیاتی و تداوم خدمات عمومی را تشدید کند؛ با این حال، در غیاب شواهد مستقل درباره واکنش‌های مردمی یا تأثیرات اقتصادی فوری، باید از نتیجه‌گیری‌های شتاب‌زده پرهیز کرد."
-        ],
-        "impact": "این تهدید ریسک تبدیل مناقشه به درگیری نظامی مستقیم را به شدت بالا برده و آسیب‌پذیری رژیم در حفاظت از زیرساخت‌های حیاتی را عیان می‌کند.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/3/22/iran-war-live-trump-threatens-attacks-on-power-plants-over-hormuz-strait",
-        "image": "http://www.bing.com/th?id=OVFT.yAVK3c-67J4kpX0yBXR09i&pid=News",
-        "timestamp": 1774198320.0
-    },
-    {
-        "title_fa": "تهدید ایران علیه انرژی و آب خلیج پس از هشدار ترامپ",
-        "title_en": "Iran threatens Gulf energy, water systems after Trump's warning",
-        "summary": [
-            "تیتر خبر حاکی است که ایران پس از هشدار ترامپ، تهدید به هدف‌گیری سامانه‌های انرژی و آب در خلیج کرده است؛ متن کامل گزارش در دسترس نیست و اطلاعات جزئی‌تری ارائه نشده.",
-            "چنین اعلام تهدیدی می‌تواند به تشدید فشار خارجی و توجیه افزایش تحریم‌ها یا واکنش نظامی طرف‌های منطقه‌ای و غربی منجر شود؛ بدون متن کامل خبر این رابطه علیّتی قابل اثبات نیست.",
-            "منابع حاضر هیچ داده‌ای درباره پیامدهای داخلی مثل اعتراضات یا وضعیت اقتصادی ارائه نکرده‌اند؛ اما هر موج تازه‌ای از تنش منطقه‌ای به احتمال زیاد هزینه‌های اقتصادی و اجتماعی را برای مردم افزایش می‌دهد."
-        ],
-        "impact": "افزایش فوری ریسک تنش منطقه‌ای و فراهم کردن بهانه برای اقدامات تحریمی یا نظامی علیه رژیم در صورت تأیید یا تشدید تهدیدات.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Detroit News",
-        "url": "https://www.detroitnews.com/story/news/world/2026/03/22/iran-threatens-gulf-energy-water-after-trump-warning/89278593007/",
-        "clean_url": "https://www.detroitnews.com/story/news/world/2026/03/22/iran-threatens-gulf-energy-water-after-trump-warning/89278593007",
-        "image": null,
-        "timestamp": 1774194720.0
-    },
-    {
-        "title_fa": "تهدید ایران به بستن تنگه هرمز و هدف قرار دادن نیروگاه‌ها پس از ضرب‌الاجل ۴۸ ساعته ترامپ",
-        "title_en": "Iran threatens to close Strait of Hormuz and hit power plants after Trump's 48-hour deadline",
-        "summary": [
-            "پس از اعلام ضرب‌الاجل ۴۸ ساعته از سوی ترامپ، مقامات ایران تهدید کردند که تنگه هرمز را خواهند بست و به نیروگاه‌ها حمله خواهند کرد؛ تهدیدی مستقیم که می‌تواند جریان انرژی منطقه‌ای را مختل کند.",
-            "این اقدام طالبان‌گونه نشان‌دهنده فشار خارجی و تنگنای راهبردی است که رژیم را به مانورهای نمایشی و خطرناک سوق می‌دهد؛ بستن تنگه ضربه‌ای ساختاری به درآمدهای نفتی و تجارت دریایی ایران وارد خواهد کرد و توان بازدارندگی اقتصادی رژیم را تضعیف می‌کند.",
-            "تهدید به هدف قرار دادن زیرساخت‌های انرژی خودآسیب است: اختلال یا قطع برق گسترده هزینه اقتصادی مستقیم برای مردم خواهد داشت، رضایت عمومی را کاهش می‌دهد و ضعف مدیریتی حکومت در مقابله با بحران‌ها را عیان می‌کند."
-        ],
-        "impact": "احتمال تقابل نظامی مستقیم با آمریکا افزایش می‌یابد، بازار انرژی جهانی دچار نوسان خواهد شد و فشار اقتصادی و سیاسی بر رژیم و مردم تشدید می‌شود.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZNbWg1Q09hTDJEcmxtYXlZbThHcVFtaDhzNmNubEpTSVdhaHEtNTd4Ym02cUlaREpJeVJOMVRNY2hlaXZ0TlN2U2xROXB2SlBqNG9wNjNUdGVXdk9CQkRL0gHKAUFVX3lxTE1CeXkyeE82aEVDczFPdG51TTB5dXBCTlRuQU5UR3FEVS1CYmhncVZOQU0xTllpQS12TTZWUTVGcWhyeFdZYUFPZFhSdEFlX0dNSzloTU1UNFdLYXZRWUxZNzd0MzNCeHBRZW1wWUFDVHlhdHktRkZwSDRuMThoOGpNcTUta3ZscHVSa19KcnRodzJZYi1RQThVd012VjRjYkQ3R19YRURyR1lIY2hXQ3NIcjZPc2pBR3JYSm5ma2VIUFp1LXljaVJOTlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZNbWg1Q09hTDJEcmxtYXlZbThHcVFtaDhzNmNubEpTSVdhaHEtNTd4Ym02cUlaREpJeVJOMVRNY2hlaXZ0TlN2U2xROXB2SlBqNG9wNjNUdGVXdk9CQkRL0gHKAUFVX3lxTE1CeXkyeE82aEVDczFPdG51TTB5dXBCTlRuQU5UR3FEVS1CYmhncVZOQU0xTllpQS12TTZWUTVGcWhyeFdZYUFPZFhSdEFlX0dNSzloTU1UNFdLYXZRWUxZNzd0MzNCeHBRZW1wWUFDVHlhdHktRkZwSDRuMThoOGpNcTUta3ZscHVSa19KcnRodzJZYi1RQThVd012VjRjYkQ3R19YRURyR1lIY2hXQ3NIcjZPc2pBR3JYSm5ma2VIUFp1LXljaVJOTlE",
-        "image": null,
-        "timestamp": 1774194614.0
     }
 ]
