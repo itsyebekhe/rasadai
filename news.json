@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "خسارت در اسرائیل ناشی از حملات ایران",
+        "title_en": "Damage in Israel from Iranian attacks",
+        "summary": [
+            "رسانه الجزیره گزارش می‌دهد که حملاتی از سوی ایران به اسرائیل خسارت وارد کرده‌اند؛ گزارش جزئیات بیشتر (مجروحان، مقیاس دقیق خسارت یا زمان) را مشخص نکرده است.",
+            "چنین عملیاتی ریسک واکنش‌های بین‌المللی و افزایش فشارها را بالا می‌برد؛ فشارهای دیپلماتیک و احتمال تحریم یا اقدامات تنبیهی می‌تواند ساختار اقتصادی-سیاسی رژیم را زیر فشار بیشتری قرار دهد.",
+            "هزینه‌های نظامی و سیاسی ناشی از این نوع اقدامات ضعف‌های مدیریتی را برجسته می‌سازد و می‌تواند در بلندمدت نارضایتی عمومی و تضعیف ثبات داخلی را تشدید کند."
+        ],
+        "impact": "حملات گزارش‌شده مسیر تشدید تنش منطقه‌ای و افزایش فشارهای بین‌المللی را هموار می‌کند و به‌طور بالقوه ثبات داخلی رژیم را بیشتر تضعیف خواهد کرد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/politics/international-relations/iran-attacks-israel-as-president-trump-weighs-a-potential-land-invasion/ar-AA1ZsHKE",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-attacks-israel-as-president-trump-weighs-a-potential-land-invasion/ar-AA1ZsHKE",
+        "image": null,
+        "timestamp": 1774530859.0
+    },
+    {
         "title_fa": "اسرائیل می‌گوید فرمانده ارشد نیروی دریایی ایران را کشت تا تنگه هرمز باز شود",
         "title_en": "Israel says it killed Iran’s top naval commander in bid to reopen Strait of Hormuz",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUmNRa2tfcHZWVVRRcDZiMVh3UjJ4Q3hURDRkTF9XVFhpYzhZd0o4UGExN2lJMkZudUUweVJwZ3ZTNHZsa3N6WjBhdnJIUFJWMUVfNGkwVFVNS2Y0bG5JWXBSc0dvZHZvZ1ZLaVVaSmpwTXhtNmJDRDRJMkowU3RfbHlUcGJJc2NWUG5JZ0lJc0pWdw",
         "image": null,
         "timestamp": 1774526997.0
+    },
+    {
+        "title_fa": "جنوب‌شرق آسیا به انرژی هسته‌ای روی می‌آورد؛ جنگ مرتبط با ایران عرضه انرژی را مختل کرده است",
+        "title_en": "Southeast Asia turns to nuclear as Iran war disrupts energy supplies",
+        "summary": [
+            "اختلال در عرضه انرژی مرتبط با جنگ در منطقه باعث تسریع برنامه‌های هسته‌ای غیرنفتی در کشورهای جنوب‌شرق آسیا شده و نیاز این کشورها به جایگزین‌های پایدار انرژی را افزایش می‌دهد.",
+            "کاهش درآمدهای نفتی و فشارهای تحریمی ساختاری توان مالی حکومت تهران برای مدیریت اقتصادی و نگه‌داشتن ابزارهای سرکوب را تضعیف می‌کند و فضای آسیب‌پذیری داخلی را افزایش می‌دهد.",
+            "کاهش اتکا بازارهای آسیای جنوب‌شرقی به نفت و گاز خاورمیانه نفوذ ژئوپلیتیک اقتصادی ایران را تقلیل می‌دهد و احتمال تشدید نارضایتی‌های اجتماعی در داخل کشور را افزایش می‌دهد."
+        ],
+        "impact": "این گرایش بلندمدت به انرژی هسته‌ای سهم درآمدهای نفتی و نفوذ منطقه‌ای ایران را کاهش داده و فشار اقتصادی و سیاسی داخلی را تشدید خواهد کرد.",
+        "tag": "انرژی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "NPR",
+        "url": "https://www.boisestatepublicradio.org/2026-03-26/southeast-asia-turns-to-nuclear-as-iran-war-disrupts-energy-supplies",
+        "clean_url": "https://www.boisestatepublicradio.org/2026-03-26/southeast-asia-turns-to-nuclear-as-iran-war-disrupts-energy-supplies",
+        "image": null,
+        "timestamp": 1774524648.0
     },
     {
         "title_fa": "اسرائیل: علیرضا تنگسیری، فرمانده نیروی دریایی سپاه، در حمله هوایی کشته شد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdTk0WGdlcWNyemdPYXQ4cFRrQ2VDcWJ4UnVxajJYV21LS0pOQjB4NEhXeUN3eGo3am00aHJNeWVJbFBEM0o2dFR6VTV3VWR1OWhCSjBvdHZVbHpUdzJ1Z3VWN3BLaUIySUhJRlZNbWg1Q09hTDJEcmxtYXlZbThHcVFtaDhzNmNubEpTSVdhaHEtNTd4Ym02cUlaREpJeVJOMVRNY2hlaXZ0TlN2U2xROXB2SlBqNG9wNjNUdGVXdk9CQkRL0gHKAUFVX3lxTE1CeXkyeE82aEVDczFPdG51TTB5dXBCTlRuQU5UR3FEVS1CYmhncVZOQU0xTllpQS12TTZWUTVGcWhyeFdZYUFPZFhSdEFlX0dNSzloTU1UNFdLYXZRWUxZNzd0MzNCeHBRZW1wWUFDVHlhdHktRkZwSDRuMThoOGpNcTUta3ZscHVSa19KcnRodzJZYi1RQThVd012VjRjYkQ3R19YRURyR1lIY2hXQ3NIcjZPc2pBR3JYSm5ma2VIUFp1LXljaVJOTlE",
         "image": null,
         "timestamp": 1774194614.0
-    },
-    {
-        "title_fa": "آمریکا و ایران تهدید به گسترش جنگ به نیروگاه‌های منطقه‌ای می‌کنند",
-        "title_en": "U.S. and Iran trade threats of expanding war to the region's power plants",
-        "summary": [
-            "ایران و متحدش حزب‌الله فشار بر اسرائیل را با حملات شدید به شمال و جنوب این کشور تشدید کرده‌اند.",
-            "آمریکا و ایران با تهدید به هدف قرار دادن یا پاسخ به حملات علیه تاسیسات انرژی و نیروگاه‌ها، خطر تبدیل درگیری به موجی فراتر از مرزها را افزایش دادند.",
-            "گسترش این کنش‌ها ریسک آسیب به زیرساخت‌های حیاتی و افزایش فشارهای بین‌المللی را بالا می‌برد و می‌تواند تبعات اقتصادی و امنیتی مشخصی برای منطقه و دولت ایران داشته باشد."
-        ],
-        "impact": "این تهدیدها احتمال گسترش درگیری به تاسیسات حیاتی را بالا می‌برد و رژیم را در معرض فشارهای بین‌المللی بیشتر و تشدید مشکلات اقتصادی و بی‌ثباتی داخلی قرار می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Los Angeles Times",
-        "url": "https://www.msn.com/en-us/news/world/us-and-iran-trade-threats-of-expanding-war-to-the-regions-power-plants/ar-AA1ZaPDE",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-trade-threats-of-expanding-war-to-the-regions-power-plants/ar-AA1ZaPDE",
-        "image": null,
-        "timestamp": 1774193583.0
-    },
-    {
-        "title_fa": "تهدید ایران به تلافی علیه انرژی و آب کشورهای خلیج پس از اولتیماتوم ترامپ",
-        "title_en": "Iran threatens to retaliate against Gulf energy and water after Trump ultimatum",
-        "summary": [
-            "ترامپ تهدید به هدف قرار دادن شبکه برق ایران در ظرف ۴۸ ساعت کرد و تهران واکنش نشان داد که در صورت اجرا، خطوط انرژی و آب همسایگان خلیج را تلافی خواهد کرد؛ این گسترش تهدیدها در چارچوب سه هفته درگیری نظامی بین ایران، اسرائیل و ایالات متحده روی داده است.",
-            "فشار خارجی به شکل تهدید نظامی مستقیم، ساختار آسیب‌پذیری رژیم را بالا می‌برد: اجرای حمله به شبکه برق ایران نه تنها بار اقتصادی و امدادی عظیمی تحمیل می‌کند بلکه منابع دولتی را از مدیریت داخلی و ثبات اجتماعی به دفاع و بازسازی سوق می‌دهد و در کوتاه‌مدت شانس بروز بحرانهای داخلی و کاهش حمایت عمومی را افزایش می‌دهد.",
-            "تهدید متقابل هدف قرار دادن زیرساخت‌های غیرنظامی نشان‌دهنده سوءمدیریت راهبردی و اولویت‌دهی به منافع نظامی بر هزینه‌های انسانی و اقتصادی است؛ بازارهای جهانی انرژی و زندگی میلیون‌ها شهروند منطقه که به این زیرساخت‌ها وابسته‌اند، در صورت عملیاتی شدن حملات به سرعت دستخوش اختلال می‌شوند."
-        ],
-        "impact": "احتمال حملات متقابل به زیرساخت‌های غیرنظامی می‌تواند بازارهای جهانی انرژی را متلاطم کرده و تنش منطقه‌ای را به سطحی برساند که مدیریت بحران برای حکومت تهران و همسایگانش عملاً ناممکن شود.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/trump-iran-trade-threats-over-105251832.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-iran-trade-threats-over-105251832.html",
-        "image": null,
-        "timestamp": 1774193400.0
     }
 ]
