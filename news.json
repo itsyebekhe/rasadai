@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چرا آمریکا از به‌کارگیری نیروی نظامی برای تأمین تنگه هرمز خودداری می‌کند؟",
+        "title_en": "Why hasn’t the US military used force to secure the Strait of Hormuz?",
+        "summary": [
+            "مقاله استدلال می‌کند که واشنگتن از مداخله نظامی مستقیم پرهیز می‌کند چون خطر تشدید نظامی و گسترش درگیری فراتر از حملات دریایی محدود است و تعیین عامل حملات غالباً مبهم است.",
+            "هزینه‌های عملیاتی و حقوقیِ تأمین دائم یک معبر آبی بین‌المللی ـ شامل نیاز به حضور طولانی، ریسک برخورد با آب‌های سرزمینی و الزامات مشروعیت بین‌المللی ـ مانع از استفاده قاطع از نیروی نظامی می‌شود.",
+            "آمریکا ترجیح می‌دهد از ابزارهای غیرنظامی و بازدارنده نظیر اسکورت‌های محدود، همکاری چندجانبه، اطلاعات و تحریم‌ها بهره ببرد؛ رویکردی که فشار اقتصادی را بر حکومت افزایش می‌دهد ولی تردد دریایی را به‌طور کامل ایمن نمی‌سازد."
+        ],
+        "impact": "نتیجه این رویکرد این است که واشنگتن از خطر تسلیم‌شدن به هزینه‌های راهبردی و سیاسی یک عملیات گسترده نظامی اجتناب می‌کند، اما این به معنای استمرار آسیب‌پذیری مسیرهای تجاری و افزایش فشار اقتصادی و سیاسی بر حکومت است.",
+        "tag": "هرمز",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Conversation",
+        "url": "https://theconversation.com/why-hasnt-the-us-military-used-force-to-secure-the-strait-of-hormuz-279224",
+        "clean_url": "https://theconversation.com/why-hasnt-the-us-military-used-force-to-secure-the-strait-of-hormuz-279224",
+        "image": null,
+        "timestamp": 1774588164.0
+    },
+    {
         "title_fa": "به‌روزرسانی زنده: ترامپ تقاضای ایران برای توقف حملات را پذیرفت؛ دو سرباز نیروهای دفاعی اسرائیل در جنوب لبنان کشته شدند",
         "title_en": "Live Updates: Trump grants Iranian request to pause strikes, two IDF soldiers killed in southern Lebanon",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ucXFWS0R0bXpFMDRyQkh2OUJuX1ZtdlVpOTVpOVp0S2NnQjJMMnplaV9Ic21ORTFFOThjbXBrcHVST2VNLXJBVEhmUUJBaXlubmZOSGk2X25MU2dpX2d4N013bWx0QWc5QTlpdEltWlFzRTlPMmVfUkNJYlhLSTQ",
         "image": null,
         "timestamp": 1774587605.0
+    },
+    {
+        "title_fa": "افزایش خشم ترامپ نسبت به ایرانِ سرسخت",
+        "title_en": "Trump’s Frustration Grows With Implacable Iran",
+        "summary": [
+            "بلومبرگ گزارش می‌دهد که نارضایتی و خشم دونالد ترامپ نسبت به رویکرد «انعطاف‌ناپذیر» ایران در حال افزایش است.",
+            "عنوان نشان می‌دهد تهران موضعی سرسخت اتخاذ کرده که واکنش و تشدید فشارهای فکری و سیاسی از سوی واشنگتن را برانگیخته؛ متن کامل خبر برای جزئیات بیشتر در دسترس نیست.",
+            "اگر این نارضایتی به اقدامات عملی مانند افزایش تحریم‌ها یا فشارهای دیپلماتیک تبدیل شود، تبعات ساختاری برای ثبات رژیم و اقتصاد داخلی محتمل است؛ گزارش اشاره‌ای به اعتراضات داخلی یا وضعیت اقتصادی نکرده است."
+        ],
+        "impact": "در صورت تبدیل خشم سیاسی به سیاست‌های عملیاتی (تحریم یا فشار دیپلماتیک) احتمال تشدید تضعیف ساختارهای سیاسی-اقتصادی رژیم وجود دارد.",
+        "tag": "فشار",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklHMm5LX0hzLWFFNE9Ka0llZ2JRUUxwQUU2ZE5uMndHVEdhazV3c1RPbXZXSlRwNFctXzg5eHBhdE1ETVgxU0JzNWFrbkxwLTVIdGQtSjJrMFk1X1hwbXF2Snh0TkVhN29rWjJ6eXFuQU8tRkJrTWg5dnk3NlREVVczT1dFTWszZm9pZmRTU2ZMVXAzYWljWkhkalVmRVU4QkZ2SUxtNE5tRVhKUmdtNA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklHMm5LX0hzLWFFNE9Ka0llZ2JRUUxwQUU2ZE5uMndHVEdhazV3c1RPbXZXSlRwNFctXzg5eHBhdE1ETVgxU0JzNWFrbkxwLTVIdGQtSjJrMFk1X1hwbXF2Snh0TkVhN29rWjJ6eXFuQU8tRkJrTWg5dnk3NlREVVczT1dFTWszZm9pZmRTU2ZMVXAzYWljWkhkalVmRVU4QkZ2SUxtNE5tRVhKUmdtNA",
+        "image": null,
+        "timestamp": 1774583139.0
     },
     {
         "title_fa": "فیلم: نزدیک‌بودن اصابت تکه‌های بمب خوشه‌ای منتسب به ایران در مرکزی اسرائیل",
@@ -88,6 +124,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZeVdEQmRlQUlxc2puS1BkSURUWHhSdS1xd3hRTGJIX2dwSHFUYzR0amVzN1FHQ3Rob0lmcnhmVzVzbDVOYlIxay1kU1p5S2tjcGsyVEdxSUtVXzNYYXZGLXhsd9IBaEFVX3lxTE4zQWhYOFdjeTNGb04tRDBuSGl0dWRJV3FUSTZvSXpTQmpJaXIyZUcxMTN0enJYTGkyd0c3eTRSWW1kOTlRTC1Ra05ydkYwNHBaWXNmRGQzcFYzUGp2OHVIeFVsUWJTcUFW",
         "image": null,
         "timestamp": 1774571393.0
+    },
+    {
+        "title_fa": "جنگ در ایران می‌تواند شبیه جنگ اوکراین شود",
+        "title_en": "The War in Iran Could Become Like the War in Ukraine",
+        "summary": [
+            "جیمز اف. جیفری، تحلیلگر ارشد سیاست خاورنزدیک، در این یادداشت هشدار می‌دهد که یک نبرد گسترده در ایران می‌تواند ابعاد و پیامدهایی مشابه جنگ اوکراین پیدا کند؛ این ادعا به‌عنوان یک فرض تحلیلی مطرح شده نه گزارش واقعه‌ای قطعی.",
+            "اگر چنین سناریویی محقق شود، فشار تحریمی و انزوای بین‌المللی می‌تواند ساختار اقتصادی و سیاسی رژیم را به‌صورت ساختاری تضعیف کند — کاهش درآمدهای ارزی، افزایش هزینه جنگ، و فشار بر نهادهای حاکمیتی که می‌تواند شکاف‌های درونی را عمیق‌تر کند.",
+            "یک جنگ فراگیر احتمالاً ضعف‌های مدیریتی و نارضایتی عمومی را تشدید می‌کند؛ این وضعیت می‌تواند به افزایش تنش‌های داخلی و فشار بر اقتصاد ملی منجر شود، اما تبدیل شدن به یک بحران مشابه اوکراین وابسته به عوامل بین‌المللی و داخلی مشخص است."
+        ],
+        "impact": "تبدیل جنگ در ایران به مدلی شبیه اوکراین می‌تواند ثبات رژیم را به‌طور ساختاری تضعیف کرده و پیامدهای گسترده اقتصادی و سیاسی در داخل و در منطقه به‌دنبال داشته باشد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/iran/war-iran-could-become-war-ukraine",
+        "clean_url": "https://www.foreignaffairs.com/iran/war-iran-could-become-war-ukraine",
+        "image": null,
+        "timestamp": 1774567860.0
+    },
+    {
+        "title_fa": "ترامپ مهلت حمله به تأسیسات انرژی ایران را تمدید کرد",
+        "title_en": "Trump moves deadline for striking Iran energy sites",
+        "summary": [
+            "ترامپ پس از دو تمدید به درخواست ایران مهلت تخریب «تأسیسات انرژی» را تا ۶ آوریل تمدید کرد و گفت گفتگوها «خوب پیش می‌رود»؛ فرستاده آمریکا تأیید کرد که فهرست عملیاتی ۱۵ بندی از طریق پاکستان به تهران ارسال شده است.",
+            "همزمان اسرائیل اعلام کرد حملات تازه‌ای به تهران انجام داده و جنگی که بازارهای انرژی را مختل کرده وارد ماه دوم شده؛ تهدید اولیه آمریکا برای بازکردن تنگه هرمز ظرف ۴۸ ساعت تبدیل به تعلیق مهلت شد، در حالی که حدود یک‌پنجم نفت جهانی از این تنگه می‌گذرد.",
+            "پاسخ تهران به فهرست ۱۵ بندی طبق گزارش تسنیم خواستار غرامت جنگی و احترام به «حاکمیت» ایران بر تنگه هرمز و توقف حملات آمریکا و اسرائیل و گروه‌های منطقه‌ای هم‌پیمان شده است؛ تهران در انتظار پاسخ واشنگتن اعلام شده است."
+        ],
+        "impact": "تهدید به هدف‌گرفتن زیرساخت‌های انرژی، ضربه به درآمدهای نفتی و حملات اسرائیل همزمان، رژیم را در تنگنای اقتصادی-سیاسی قرار داده و آنچه به‌عنوان «مذاکره» معرفی می‌شود بیشتر واکنشی تاکتیکی برای کاهش فشار خارجی است تا نشانهٔ اصلاح ساختاری.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/israel-strikes-iran-tehran-rejects-091740688.html",
+        "clean_url": "https://www.yahoo.com/news/articles/israel-strikes-iran-tehran-rejects-091740688.html",
+        "image": "http://www.bing.com/th?id=OVFT.2ptpJGJiuafuC15QRVknOC&pid=News",
+        "timestamp": 1774565100.0
     },
     {
         "title_fa": "چرا عراق حساس‌ترین جبهه در جنگ آمریکا و اسرائیل علیه ایران است",
@@ -646,6 +718,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/iranian-naval-commander-alireza-tangsiri-111039258.html",
         "image": null,
         "timestamp": 1774523650.0
+    },
+    {
+        "title_fa": "ترامپ اعلام کرد: عبور ۱۰ نفتکش از تنگه هرمز؛ «هدیه» ایران",
+        "title_en": "Trump reveals Iran’s ‘present’: 10 oil tankers through the Strait of Hormuz",
+        "summary": [
+            "دونالد ترامپ اعلام کرد عبور ۱۰ نفتکش از تنگه هرمز را به‌عنوان «هدیه» ایران افشا کرده است؛ این موضوع در اولین جلسه کابینه از زمان آغاز درگیری‌ها مطرح شد.",
+            "کابینه ترامپ تلاش به توجیه جنگ کرد اما سیگنال‌ها متناقض، جزئیات اندک و برنامه‌ای برای پایان درگیری دیده نمی‌شود که ریسک تصمیم‌های شتاب‌زده را افزایش می‌دهد.",
+            "اگر فشارهای خارجی و تحریم‌ها تشدید شود، این امر می‌تواند ساختار اقتصادی رژیم را تضعیف و شکاف‌های داخلی را عمیق‌تر کند؛ گزارش مورد بحث اشاره مستقیمی به اعتراضات یا وضعیت اقتصادی نکرده اما ابهام راهبردی پتانسیل افزایش نارضایتی عمومی را دارد."
+        ],
+        "impact": "این تحولات خطر تشدید نظامی منطقه‌ای را بالا می‌برد و نشان‌دهنده فقدان یک استراتژی پایان‌بخش روشن از سوی طرف‌های درگیر است.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/03/26/trump-iran-present-10-oil-tankers-hormuz-00846418",
+        "clean_url": "https://www.politico.com/news/2026/03/26/trump-iran-present-10-oil-tankers-hormuz-00846418",
+        "image": null,
+        "timestamp": 1774523100.0
     },
     {
         "title_fa": "ترامپ درباره امکان توافق با ایران تردید کرد؛ بازار انرژی متلاطم شد",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-postpones-strikes-on-iran-s-power-plants-but-iran-denies-talks/ar-AA1ZdIBY",
         "image": "http://www.bing.com/th?id=ONUT.ekjvLmfStKh-zErY9LbybQ&pid=News",
         "timestamp": 1774251720.0
-    },
-    {
-        "title_fa": "ترامپ: ایران شدیداً خواهان توافق است",
-        "title_en": "Trump Says Iran Wants a Deal Badly",
-        "summary": [
-            "ترامپ اعلام کرد ایران «شدیداً» خواهان توافق است و به ادعای تهران مبنی بر عدم گفتگو با آمریکا پاسخ داد.",
-            "این اظهارنظر از سوی واشنگتن به‌عنوان تلاش برای برجسته‌سازی اهرم فشار و توجیه ادامه سیاست‌های تحریمی و فشار دیپلماتیک قابل تفسیر است.",
-            "متن گزارش شواهد مستقلی از مذاکرات واقعی، سازوکار توافق یا پیامدهای اقتصادی داخلی ارائه نمی‌دهد؛ بنابراین ادعای تعامل پشت پرده تهران قابل اثبات نیست."
-        ],
-        "impact": "این موضع‌گیری احتمالاً در کوتاه‌مدت کارزار فشار آمریکا را تقویت و روایت رسمی تهران را تضعیف می‌کند، اما دلیلی بر وجود مذاکرات قطعی ارائه نمی‌دهد.",
-        "tag": "فشار",
-        "urgency": 5,
-        "sentiment": 0.4,
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates-2026/card/trump-says-iran-wants-a-deal-badly-4GH8LwxEXTk6uGtswIKz",
-        "clean_url": "https://www.wsj.com/livecoverage/iran-war-us-israel-news-updates-2026/card/trump-says-iran-wants-a-deal-badly-4GH8LwxEXTk6uGtswIKz",
-        "image": "http://www.bing.com/th?id=ONUT.3PvzwDTSqDK4u_LcMTXFQQ&pid=News",
-        "timestamp": 1774249080.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: دونالد ترامپ مهلت را برای بازگشایی تنگه هرمز توسط ایران تمدید کرد",
-        "title_en": "Live updates: Trump extends deadline for Iran to reopen Strait of Hormuz",
-        "summary": [
-            "دونالد ترامپ مهلت ضربه زدن به نیروگاه‌های ایران را تمدید کرد؛ این اقدام اهرم فشار سیاسی-نظامی برای تضمین عبور کشتی‌ها از تنگه هرمز را حفظ می‌کند.",
-            "تمدید مهلت سطح عدم قطعیت را بالا می‌برد و تهران را تحت فشار نگه می‌دارد؛ این فشار می‌تواند تهران را وادار به تخصیص منابع دفاعی بیشتر یا اتخاذ واکنش‌های منطقه‌ای کند که هزینه‌های اقتصادی و سیاسی داخلی را افزایش می‌دهد.",
-            "اظهارنظر مبنی بر ادامه گفتگوها در طول هفته نشان‌دهنده فشار دیپلماتیک همزمان با تهدید نظامی است؛ در صورت تشدید به رویارویی مستقیم، زیرساخت‌های انرژی و ثبات منطقه‌ای در معرض خطر جدی قرار می‌گیرند."
-        ],
-        "impact": "تمدید مهلت، فشار نظامی-دیپلماتیک را حفظ می‌کند و عدم قطعیت داخلی و منطقه‌ای را تشدید می‌کند که می‌تواند ظرفیت دولت را برای مدیریت اقتصادی و سیاسی کاهش دهد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "KTVU FOX 2",
-        "url": "https://www.ktvu.com/news/iran-war-latest-march-23-2026",
-        "clean_url": "https://www.ktvu.com/news/iran-war-latest-march-23-2026",
-        "image": "http://www.bing.com/th?id=ONUT.u7N8MG2AW43acpB2r-sHCQ&pid=News",
-        "timestamp": 1774248480.0
-    },
-    {
-        "title_fa": "ترامپ حملات به نیروگاه‌های ایران را به تعویق انداخت پس از آنکه ایران تهدید به مین‌گذاری «کل خلیج فارس» کرد",
-        "title_en": "Trump Postpones Strikes on Iranian Power Plants After Iran Threatens to Mine 'Entire Persian Gulf'",
-        "summary": [
-            "ترامپ اعلام کرد حملات به تعویق افتاد پس از «گفت‌وگوهای بسیار خوب و سازنده» بین ایالات متحده و ایران — نشانه‌ای از عقب‌نشینی موقت از آستانه اقدام نظامی مستقیم.",
-            "تهدید ایران به مین‌گذاری خلیج فارس یک تشدید مستقیم امنیتی است که می‌تواند خطوط کشتیرانی و صادرات انرژی منطقه‌ای را مختل کند و امکان افزایش اقدامات تنبیهی یا تحریمی بین‌المللی را افزایش می‌دهد.",
-            "این تقابل نظامی-دیپلماتیک بازتاب ضعف ساختاری در راهبرد امنیتی و سیاسی رژیم است؛ تعویق حملات فشار فوری را کم می‌کند اما به مسائل اقتصادی و سیاسی عمیق داخلی پاسخی ارائه نمی‌دهد."
-        ],
-        "impact": "عقب‌نشینی موقت آمریکا خطر برخورد نظامی فوری را کاهش داد، اما تهدید ایران برای مین‌گذاری خلیج فارس مخاطرات جدی برای ثبات اقتصادی و امنیتی منطقه حفظ می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/03/23/trump-postpones-strikes-iranian-power-plants-iran-threatens-persian-gulf/",
-        "clean_url": "https://time.com/article/2026/03/23/trump-postpones-strikes-iranian-power-plants-iran-threatens-persian-gulf",
-        "image": "http://www.bing.com/th?id=ONUT.OyiBjlEk-dO0d0_diB0z6w&pid=News",
-        "timestamp": 1774248060.0
-    },
-    {
-        "title_fa": "اسرائیل موج جدید حملات به تهران را آغاز کرد و ایران تهدید به هدف‌گیری نیروگاه‌های خلیج فارس کرد",
-        "title_en": "Israel launches new wave of attacks on Tehran and Iran threatens to start hitting Gulf power plants",
-        "summary": [
-            "واشنگتن پست گزارش می‌دهد اسرائیل موج جدیدی از حملات علیه تهران را آغاز کرده است.",
-            "ایران تهدید کرده که به نیروگاه‌های برق در کشورهای حوزه خلیج فارس حمله خواهد کرد، که نشان‌دهنده هدف‌گیری زیرساخت‌های غیرنظامی است.",
-            "این تقابل مستقیم ریسک تصاعد به درگیری منطقه‌ای را افزایش می‌دهد و می‌تواند فشار بر ثبات داخلی و تجربه‌های اقتصادی مردم را تشدید کند؛ خسارت به زیرساخت‌های انرژی به‌سرعت نارضایتی عمومی را تشدید خواهد کرد."
-        ],
-        "impact": "این تحولات احتمال گسترش فوری درگیری فرامرزی، هدف‌گیری زیرساخت‌های حیاتی و تشدید بحران سیاسی-اقتصادی در داخل ایران را به‌طور قابل‌ملاحظه‌ای افزایش می‌دهد.",
-        "tag": "تصعید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc3ZvbzB3VmdGMkVzc2Y1M29wUDViMERhbWhaSGZXY1RZbWxSeTMzNlF4WTdtMWh0WW5GY3pTRVBXSWF2Vm0xVVVZRjAwX2I0UkRyWUJzdFJfVHJOVEk3QjNLbnBrd3FIbl90a3JHUXFEN0RHWGw4VTFqaVlGV1NTUzNGTzJFVXdMVzlNZHJsNjBzc3Q2OGVMVFV5THc3d1ZaY181Nzd3VkFCOHhGdVcyazk0dmE2OHJpYWRhM2hoRFlHSzBsZy1IcDhGTHRsTk1uNWxKMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc3ZvbzB3VmdGMkVzc2Y1M29wUDViMERhbWhaSGZXY1RZbWxSeTMzNlF4WTdtMWh0WW5GY3pTRVBXSWF2Vm0xVVVZRjAwX2I0UkRyWUJzdFJfVHJOVEk3QjNLbnBrd3FIbl90a3JHUXFEN0RHWGw4VTFqaVlGV1NTUzNGTzJFVXdMVzlNZHJsNjBzc3Q2OGVMVFV5THc3d1ZaY181Nzd3VkFCOHhGdVcyazk0dmE2OHJpYWRhM2hoRFlHSzBsZy1IcDhGTHRsTk1uNWxKMA",
-        "image": null,
-        "timestamp": 1774247679.0
-    },
-    {
-        "title_fa": "جنگ ایران: مدیر آژانس بین‌المللی انرژی هشدار می‌دهد اقتصاد جهانی با «تهدید بزرگ» روبه‌رو است",
-        "title_en": "Iran war: World economy facing 'major threat,' IEA head says",
-        "summary": [
-            "رئیس آژانس بین‌المللی انرژی هشدار داده که جنگ در ایران می‌تواند «تهدید بزرگی» برای اقتصاد جهانی ایجاد کند و خطر اختلالات انرژی و بازارها را بالا می‌برد.",
-            "اگر درگیری تشدید شود و جریان‌های نفت و گاز یا فضای تجاری منطقه‌ای مختل گردد یا به تحریم‌های تازه بینجامد، فشار خارجی ساختاری بر پایه‌های مالی رژیم وارد خواهد شد و ثبات آن را تضعیف می‌کند.",
-            "هر شوک منطقه‌ای به‌ویژه در بخش انرژی می‌تواند آسیب‌پذیری اقتصادی ایران را برجسته کند و در صورت کاهش درآمدهای ارزی یا تشدید تحریم‌ها، نارضایتی‌های داخلی و فشارهای سیاسی را افزایش دهد."
-        ],
-        "impact": "پیام عملی این است که تشدید درگیری یا اختلال در صادرات انرژی می‌تواند شریان‌های مالی رژیم را هدف قرار دهد و همزمان یک شوک گسترده به بازارهای جهانی وارد کند.",
-        "tag": "اقتصاد",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3RON0ItUXVMTXBiaUFCSkVSaERDa09jeEdYOWg1WWJFYmh1b0ZzLWZ0aVFuOElxcmNibUxJdkI1YjJmcmdNdVpqVmFRTnFVLU9CU2d1WXl1U3FtMnBGa1pPWjVrNnd0UFBnVTdQc252dUZZd0ZXU3puZmpZb1Vrby1NeTZwWkZBUlNhc3FEOVFuLTlMbHFz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3RON0ItUXVMTXBiaUFCSkVSaERDa09jeEdYOWg1WWJFYmh1b0ZzLWZ0aVFuOElxcmNibUxJdkI1YjJmcmdNdVpqVmFRTnFVLU9CU2d1WXl1U3FtMnBGa1pPWjVrNnd0UFBnVTdQc252dUZZd0ZXU3puZmpZb1Vrby1NeTZwWkZBUlNhc3FEOVFuLTlMbHFz",
-        "image": null,
-        "timestamp": 1774247467.0
     }
 ]
