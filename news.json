@@ -144,6 +144,24 @@
         "timestamp": 1774703714.0
     },
     {
+        "title_fa": "گسترش تجمع‌های 'نو کینگز' در اشکاش همزمان با یک‌ماهگی حملات نظامی آمریکا به ایران",
+        "title_en": "Oshkosh 'No Kings' rallies grow as Iran war hits one-month mark",
+        "summary": [
+            "صدها نفر در اشکاش روز 28 مارس علی‌رغم سرمای شدید در دو تجمع مسالمت‌آمیز در Rainbow Park و Opera House Square شرکت کردند؛ این رویداد بخشی از حدود ۳۰۰۰ تجمع سراسری علیه سیاست‌های مهاجرتی و جنگ دونالد ترامپ با ایران بود.",
+            "تجمعات با شعارها و سرودهای ضدخشونت و حمایت از مهاجران همراه بود و دقیقاً یک ماه پس از آغاز ضربات نظامی و عملیات رزمی عمده ایالات متحده علیه ایران برگزار شد.",
+            "ماهیت مسالمت‌آمیز و حضور گسترده مردمی نشان‌دهنده فشار افکار عمومی داخلی بر دولت آمریکا است که می‌تواند هزینه سیاسی ادامه یا تشدید عملیات نظامی را بالا ببرد و مسیر تصمیم‌گیری واشنگتن را تحت تأثیر قرار دهد."
+        ],
+        "impact": "اعتراضات گسترده داخلی در آمریکا می‌تواند هزینه سیاسی تشدید نظامی را افزایش دهد؛ هم‌زمان یک ماه حملات نظامی نمایشی از فشار خارجی متراکم است که پتانسیل تضعیف ثبات سیاسی-اقتصادی رژیم ایران را دارد اما پیآمد واقعی به واکنش ایران و تداوم مخالفت داخلی در آمریکا وابسته است.",
+        "tag": "اعتراضات",
+        "urgency": 10,
+        "sentiment": 0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/oshkosh-no-kings-rallies-grow-185313898.html",
+        "clean_url": "https://www.yahoo.com/news/articles/oshkosh-no-kings-rallies-grow-185313898.html",
+        "image": null,
+        "timestamp": 1774702380.0
+    },
+    {
         "title_fa": "ترامپ: ۳۵۵۴ هدف دیگر برای حمله در ایران",
         "title_en": "Trump says 3,554 more targets to strike in Iran",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://seekingalpha.com/news/4568168-trump-iran-offered-the-us-a-present-to-show-good-faith-in-war-resolution-negotiations",
         "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2264107797/image_2264107797.jpg?io=getty-c-w630",
         "timestamp": 1774381440.0
-    },
-    {
-        "title_fa": "ترامپ طرح ۱۵ بندی آتش‌بس را از طریق میانجیان پاکستانی به ایران ارائه داد؛ اعزام حدود ۱۰۰۰ نیرو در دستور بررسی",
-        "title_en": "Trump presents Iran with 15-point ceasefire plan as 1,000 troops face deployment",
-        "summary": [
-            "میانجیان پاکستانی طرح ۱۵ بندی آتش‌بس ارائه‌شده توسط دونالد ترامپ را به تهران تحویل داده‌اند و پاکستان پیشنهاد میزبانی مذاکرات بین آمریکا و تهران را مطرح کرده است.",
-            "واشنگتن برنامه‌ریزی برای اعزام نزدیک به ۱۰۰۰ نیروی نظامی را در نظر دارد که همزمان با پیشنهاد آتش‌بس، فشار نظامی و دیپلماتیک قابل توجهی بر ساختار حکومتی ایران ایجاد می‌کند.",
-            "این ترکیب پیشنهاد دیپلماتیک و تهدید نظامی پتانسیل افزایش فشار خارجی را دارد؛ تاثیر واقعی بسته به واکنش تهران و توانایی رژیم در مدیریت فشارهای اقتصادی و سیاسی در داخل خواهد بود."
-        ],
-        "impact": "ارسال طرح آتش‌بس در کنار آماده‌سازی اعزام ۱۰۰۰ نیرو، فشار خارجی را بر رژیم تشدید کرده و می‌تواند مشروعیت و ظرفیت حکمرانی آن را از منظر سیاسی-اقتصادی تضعیف کند.",
-        "tag": "آتش‌بس",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "al.com",
-        "url": "https://www.al.com/news/2026/03/trump-presents-iran-with-15-point-ceasefire-plan-as-1000-troops-face-deployment.html",
-        "clean_url": "https://www.al.com/news/2026/03/trump-presents-iran-with-15-point-ceasefire-plan-as-1000-troops-face-deployment.html",
-        "image": "http://www.bing.com/th?id=ONUT.K0dghlsiB9KCqmST3S9FRw&pid=News",
-        "timestamp": 1774381380.0
     }
 ]
