@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "موافقت ایران برای عبور ۲۰ کشتی پاکستانی از تنگه هرمز",
+        "title_en": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz",
+        "summary": [
+            "ایران اجازه عبور ۲۰ فروند کشتی با پرچم پاکستان را صادر کرده؛ دو کشتی در روز از تنگه هرمز عبور خواهند کرد.",
+            "پاکستان خود را میانجی منطقه‌ای نشان می‌دهد و مقام‌هایش این گام را به‌عنوان یک اقدام اعتمادساز معرفی می‌کنند؛ نشست وزرای خارجه مصر، ترکیه و عربستان در اسلام‌آباد هم‌راستا با این تلاش‌های دیپلماتیک برنامه‌ریزی شده است.",
+            "در سطح فشارهای بین‌المللی، این امتیاز دریایی می‌تواند تصویر تهران را تا حدی تعدیل کند اما براساس گزارش، شواهدی دال بر کاهش تحریم‌ها یا بهبود ساختاری اقتصاد و ثبات داخلی وجود ندارد؛ خبر اشاره‌ای به تأثیر بر نارضایتی عمومی یا مدیریت حکومتی ندارد."
+        ],
+        "impact": "اثر فوری: کاهش نسبی ریسک تنش دیپلماتیک منطقه‌ای و نمایش انعطاف انتخابی از سوی تهران که اما مشکل ساختاری تحریم‌ها و ناکارآمدی حکمرانی را حل نمی‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/islamabad-iran-allows-20-pakistani-205927296.html",
+        "clean_url": "https://www.yahoo.com/news/articles/islamabad-iran-allows-20-pakistani-205927296.html",
+        "image": null,
+        "timestamp": 1774735016.0
+    },
+    {
         "title_fa": "ورود حوثی‌های مورد حمایت ایران به جنگ یک‌ماهه؛ تهدید فزاینده برای کشتیرانی جهانی",
         "title_en": "Iran-backed Houthis enter the month-old war and could further threaten global shipping",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-25-2026",
         "image": "http://www.bing.com/th?id=ONUT.G5_HSQuJ2AXZdYL0gJiPOA&pid=News",
         "timestamp": 1774386660.0
-    },
-    {
-        "title_fa": "آمریکا طرح ۱۵ بندی برای پایان جنگ خاورمیانه را به ایران فرستاد؛ پاکستان واسطه",
-        "title_en": "United States Said to Have Sent Iran a Plan to End the Middle East War",
-        "summary": [
-            "واشنگتن گفته یک طرح ۱۵ بندی برای پایان درگیری‌ها به ایران ارسال کرده است؛ جزئیات طرح در گزارش نیویورک‌تایمز مشخص نیست.",
-            "تحویل این طرح از طریق پاکستان انجام شد و رئیس ستاد ارتش پاکستان به‌عنوان رابط کلیدی میان آمریکا و ایران معرفی شده است.",
-            "ارسال نشان‌دهنده تداوم استفاده از کانال‌های پنهانی و نظامی‌محور در دیپلماسی با تهران است و می‌تواند امکان چانه‌زنی‌های محدود یا فشارهای هدفمند دیپلماتیک را فراهم کند."
-        ],
-        "impact": "این اقدام می‌تواند یا در کوتاه‌مدت به کاهش تنش و بازشدن راه‌های مذاکره منجر شود یا در صورت رد تهران، بستر تشدید فشارهای بین‌المللی و تضعیف بیشتر موقعیت داخلی رژیم را فراهم آورد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html",
-        "clean_url": "https://www.nytimes.com/2026/03/24/world/middleeast/us-iran-peace-plan.html",
-        "image": "https://static01.nyt.com/images/2026/03/24/multimedia/24int-mideast-iran-plan-2-ltkm/24int-mideast-iran-plan-2-ltkm-facebookJumbo.jpg",
-        "timestamp": 1774386420.0
     }
 ]
