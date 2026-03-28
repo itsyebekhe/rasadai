@@ -198,6 +198,24 @@
         "timestamp": 1774639380.0
     },
     {
+        "title_fa": "ترامپ بررسی اعزام تا ۱۰٬۰۰۰ نیروی اضافی به خاورمیانه در جریان جنگ با ایران را در دست دارد",
+        "title_en": "Trump weighs deploying up to 10,000 more troops to Middle East during war with Iran: report",
+        "summary": [
+            "گزارش‌ها می‌گویند پنتاگون در حال بررسی اعزام تا ۱۰٬۰۰۰ نیروی اضافی به خاورمیانه است و یک مقام ارشد دفاعی این موضوع را اعلام کرده؛ ترامپ هم گفته برای انجام برخی حملات فعلاً توقف قائل شده است.",
+            "افزایش حضور نظامی آمریکا فشار خارجی بر حکومت ایران را تشدید می‌کند و در صورت اجرا می‌تواند با بالا بردن هزینه‌های جنگ و محدودیت‌های تجاری، ساختار اقتصادی و توان حکمرانی را بیشتر تضعیف کند و مشروعیت داخلی را آسیب‌پذیرتر سازد.",
+            "بار اقتصادی بیشتر، خطر افزایش مشمولیت و تلفات نیروها و محدودیت در جریان‌های مالی می‌تواند نارضایتی عمومی را تشدید کند؛ این موضوع جلوه‌ای از ناکارآمدی مدیریت بحران توسط حکومت است و می‌تواند به افزایش اعتراض‌ها دامن بزند."
+        ],
+        "impact": "اعزام احتمالی تا ۱۰٬۰۰۰ نیرو به‌سرعت تنش نظامی را بالا می‌برد و فشار اقتصادی و اجتماعی بر حکومت ایران را به‌گونه‌ای محسوس تشدید می‌کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-03-27-2026",
+        "clean_url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-03-27-2026",
+        "image": "http://www.bing.com/th?id=ONUT.Xy1z6ZCJeD9R_3npAKm22g&pid=News",
+        "timestamp": 1774637940.0
+    },
+    {
         "title_fa": "آمریکا و اسرائیل تاسیسات هسته‌ای ایران را هدف قرار دادند؛ تهران حملاتی در خلیج انجام داد",
         "title_en": "US, Israel Hit Iran’s Nuclear Facilities as Tehran Attacks Gulf",
         "summary": [
@@ -1132,6 +1150,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-and-israel-have-pounded-but-not-eliminated-iran-s-missile-threat/ar-AA1ZuxOr",
         "image": null,
         "timestamp": 1774585614.0
+    },
+    {
+        "title_fa": "ترامپ «هدیه» ایران را فاش کرد و زمان‌بندی تقریبی جنگ را تأیید نمود",
+        "title_en": "Trump reveals 'present' from Iran, confirms estimated timeline for war",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا از مذاکره‌کنندگان ایران خواست «جدی» شوند در حالی که آمریکا و اسرائیل به حملاتی علیه تهران ادامه می‌دهند؛ این خبر نشان‌دهنده فشار دیپلماتیک و نظامی همزمان بر رژیم است.",
+            "فشار نظامی و دیپلماتیک متمرکز ساختارهای بقا و تصمیم‌گیری رژیم را تضعیف می‌کند و دسترسی آن به مسیرهای دیپلماسی و احتمالا خطوط اقتصادی را محدود می‌سازد، که می‌تواند ثبات داخلی و توان عملیاتی را تضعیف کند.",
+            "اعلام زمان‌بندی «تقریبی» جنگ از سوی ترامپ و هماهنگی عملیاتی با اسرائیل نشان‌دهنده استراتژی هدفمند برای افزایش هزینه‌های رژیم و محدود کردن گزینه‌های بقا است؛ همزمان ریسک تشدید درگیری و واکنش‌های منطقه‌ای بالاست."
+        ],
+        "impact": "این تحرکات بلافاصله احتمال درگیری مستقیم گسترده را افزایش داده و رژیم را در نقطه‌ای قرار می‌دهد که توان مانور سیاسی و اقتصادی‌اش به شدت کاهش یافته است.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-march-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-march-26",
+        "image": "http://www.bing.com/th?id=ONUT.rZVIRESQd8bpoRWN7as9dg&pid=News",
+        "timestamp": 1774585440.0
     },
     {
         "title_fa": "موج جدید حملات اسرائیل به تهران و تهدید به تشدید و گسترش",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.npr.org/2026/03/24/nx-s1-5759000/iran-war-talks",
         "image": "http://www.bing.com/th?id=ONUT.WQxBcpxE0ZiYqUPMyXJfDw&pid=News",
         "timestamp": 1774335360.0
-    },
-    {
-        "title_fa": "گزارش: محمد بن سلمان ترامپ را به ادامه جنگ با ایران ترغیب کرده است",
-        "title_en": "Saudi Prince Is Said to Push Trump to Continue Iran War in Recent Calls",
-        "summary": [
-            "نیویورک‌تایمز گزارش می‌دهد که افراد مطلع به مقامات آمریکایی گفته‌اند محمد بن سلمان در تماس‌های اخیر از ترامپ خواسته جنگ علیه ایران را ادامه دهد.",
-            "او این موقعیت را «فرصت تاریخی» برای بازسازی ساختار منطقه‌ای توصیف کرده است؛ چنین خواسته‌ای نشان‌دهنده اراده سعودی برای تشدید فشار نظامی و سیاسی علیه ایران است و ریسک افزایش درگیری منطقه‌ای را بالا می‌برد.",
-            "ادامه و تشدید فشار خارجی و نظامی می‌تواند درآمدها و توان مدیریتی دولت ایران را تحت فشار قرار دهد و نارضایتی عمومی را تشدید کند، اما تحقق چنین سناریویی به واکنش مستقیم آمریکا و متحدانش و نحوه پاسخ تهران بستگی دارد."
-        ],
-        "impact": "پاسخ مثبت ایالات متحده به درخواست محمد بن سلمان احتمال تشدید جنگ منطقه‌ای و فشار بر ساختار اقتصادی-سیاسی ایران را افزایش می‌دهد که می‌تواند ثبات داخلی را به خطر اندازد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html",
-        "clean_url": "https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html",
-        "image": "http://www.bing.com/th?id=ONUT.Z_sl49BlkFpkTwyUnEuAgw&pid=News",
-        "timestamp": 1774332360.0
-    },
-    {
-        "title_fa": "ایران مذاکرات با آمریکا را تکذیب کرد",
-        "title_en": "Iran Denies Holding Talks With United States",
-        "summary": [
-            "تهران اعلام کرده که هیچ گفت‌وگویی با ایالات متحده انجام نشده است.",
-            "تکذیب رسمی می‌تواند نشان‌دهنده حساسیت سیاسی داخلی و عدم تمایل یا ناتوانی حکومت در ورود به مذاکرات آشکار باشد.",
-            "امتناع از تأیید گفت‌وگوها فضای دیپلماسی را محدود کرده و احتمال تداوم یا تشدید بی‌اعتمادی بین تهران و واشنگتن را افزایش می‌دهد."
-        ],
-        "impact": "تکذیب رسمی گفت‌وگوها از سوی تهران فضای دیپلماسی را تنگ‌تر کرده و بی‌اعتمادی دوطرف را تشدید می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 2,
-        "sentiment": -0.6,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR29VWDJZbDJOOEd0SmtIYVBiVXc2SXd1WXRDRXhVblNFOXAtOVA2bTZYcVItZUlnUmh4WGxsNnBURndzR0VqUlhRUHRjTURDc2ZrSC04UE9tZzFaX0ZRcXVRLW95cmFQUGJxS2JrQVY1bnRtTnpVVHh0eVNqUnVrRU53?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR29VWDJZbDJOOEd0SmtIYVBiVXc2SXd1WXRDRXhVblNFOXAtOVA2bTZYcVItZUlnUmh4WGxsNnBURndzR0VqUlhRUHRjTURDc2ZrSC04UE9tZzFaX0ZRcXVRLW95cmFQUGJxS2JrQVY1bnRtTnpVVHh0eVNqUnVrRU53",
-        "image": null,
-        "timestamp": 1774332300.0
     }
 ]
