@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "یک ماه پس از آغاز جنگ با ایران؛ فقط انتخاب‌های سخت برای ترامپ",
+        "title_en": "One month into Iran war, only hard choices for Trump",
+        "summary": [
+            "یک ماه درگیری، واشنگتن را میان دو گزینه سخت قرار داده: تشدید نظامی پرهزینه با ریسک گسترش جنگ یا خویشتن‌داری سیاسی که دستاوردهای محدود دارد.",
+            "ادامه جنگ و فشار خارجی می‌تواند ساختارهای اقتصادی و سیاسی رژیم ایران را بیشتر تضعیف کند و فضای تصمیم‌گیری داخلی را محدودتر سازد.",
+            "اگر راهکار واقع‌گرایانه‌ای اعمال نشود، درگیری احتمالاً بی‌ثباتی منطقه‌ای را تشدید و هزینه‌های انسانی و اقتصادی را برای تمامی طرف‌ها افزایش می‌دهد؛ فشارهای داخلی نیز می‌تواند به افزایش نارضایتی منجر شود."
+        ],
+        "impact": "استراتژیکاً، ترامپ میان گزینه‌های پرهزینه و پرخطر نظامی و راه‌حل‌های دیپلماتیک محدود محبوس شده که هرکدام پیامدهای سنگینی برای ثبات منطقه و وضعیت داخلی ایران دارد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/one-month-into-iran-war-only-hard-choices-trump-2026-03-28/",
+        "clean_url": "https://www.reuters.com/world/middle-east/one-month-into-iran-war-only-hard-choices-trump-2026-03-28",
+        "image": null,
+        "timestamp": 1774674240.0
+    },
+    {
         "title_fa": "روز ۲۹ جنگ آمریکا و اسرائیل با ایران: ترامپ می‌گوید «تمام نشده‌ایم»، نیروهای آمریکایی زخمی شدند",
         "title_en": "What we know on Day 29 of the US and Israel’s war with Iran: Trump says ‘not finished yet,’ US service members wounded",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWN2b0xlYmExZzVCVE9iSmc3MmpEYnp5MlNlWVhNSU14VFlLYlBxcFZ1SHBUSGt2SENtNDczaEhDNUwwMEJaYVhUemdRbEt0cGR0d1ZnWDVYRXdQSEpfeVF3aXpEaFlUMGpVN1ROMmcyUGEwNHl4ODVvNGRGZ1FZM2dlVGtiR3dEUmh4Sl9QS09EZW9PS2ppclRJbWxXb0Vta3F3",
         "image": null,
         "timestamp": 1774669440.0
+    },
+    {
+        "title_fa": "گزارش ویژه به‌روزرسانی ایران، ۲۷ مارس ۲۰۲۶",
+        "title_en": "Iran Update Special Report, March 27, 2026",
+        "summary": [
+            "موسسه مطالعات جنگ (ISW) در تاریخ ۲۷ مارس ۲۰۲۶ گزارشی با عنوان «به‌روزرسانی ایران — گزارش ویژه» منتشر کرده است.",
+            "متن یا محتوای گزارش در منبع ارائه‌شده همراه با این عنوان در دسترس نیست؛ بر این اساس هیچ دادهٔ مستندی در این واژه‌پردازی موجود نیست که بتوان بر پایهٔ آن تحلیل محکم ارائه داد.",
+            "برای تحلیل پیامدهای تحریمی، داخلی یا امنیتی لازم است متن کامل گزارش بررسی شود؛ هر نتیجه‌گیری بدون دسترسی به محتوای گزارش صرفاً گمانه‌زنی است و باید از آن اجتناب شود."
+        ],
+        "impact": "عدم ارائه متن گزارش مانع ارزیابی اثرات فوری بر ثبات داخلی، فشارهای خارجی یا تحرکات منطقه‌ای می‌شود؛ دسترسی به نسخه کامل گزارش ضروری است.",
+        "tag": "گزارش",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Institute for the Study of War",
+        "url": "https://www.msn.com/en-us/news/world/war-on-iran-what-troops-is-the-us-moving-to-the-gulf/ar-AA1Zo49N",
+        "clean_url": "https://www.msn.com/en-us/news/world/war-on-iran-what-troops-is-the-us-moving-to-the-gulf/ar-AA1Zo49N",
+        "image": null,
+        "timestamp": 1774664872.0
     },
     {
         "title_fa": "ترامپ بار دیگر مهلت ایران برای باز کردن تنگه را تمدید کرد؛ تهدید به حمله به شبکه برق",
@@ -142,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFpxM3FfLXBPZFFyVmJSQUJmc2c2MnotWWl2S2NQOUZIb0Zkb3dTcERrX0tkTlFJR2JLRk5XaDZTUWpGcm5kZldmSlRobDFldThTME9EVlozU0I3eXdaVDdScU90R25PNzJtYjJkTVA5X19FenlIM0ppaTdEclptWHF3QkdzMzJlazY5MEJYN2ZaMGxNRTc1Zm4xSXAxQWVHMDBnMkhib0pCazhl0gGyAUFVX3lxTE54QVV3SzZ4RDRzUUV5d2dxU0hqd3lpSWRpVEVYcVM5OFlFcTEzbENXTmFlcXBiMVFwTy1pWjVrQ0tLZDhEejBZZWZFX3oyTnJHWmhRSTE2TmxXdzdYWVRnOHAtM250QWdreXJqNDZfbm1CQndSOW5TbmlLY3VKSklzN1AyaVI1ajJSbC1Fbl9heXYzYm9leEtTSVU2VXZ2U09hZmRpaTJncFhmNl9UbkY4S3c",
         "image": null,
         "timestamp": 1774643413.0
+    },
+    {
+        "title_fa": "آخرین اخبار ایران: گزارش AP از مجروح شدن نیروهای آمریکایی در حمله موشکی به پایگاه هوایی سعودی",
+        "title_en": "Iran latest: US troops wounded in missile attack at Saudi air base, AP reports",
+        "summary": [
+            "خبرگزاری AP به نقل از منابع گزارش داد که یک حمله موشکی منتسب به ایران چندین نیروی آمریکایی را در یک پایگاه هوایی در عربستان سعودی مجروح و تعدادی هواپیما را آسیب‌دیده کرده است.",
+            "اطلاعات اولیه در مورد مقیاس خسارت و تلفات کامل نشده؛ رسانه محلی Fox 2 Detroit خبر را بازنشر کرده است و هنوز تأییدیه رسمی دولت‌های درگیر درباره همه جزئیات منتشر نشده.",
+            "این حمله، خطر تشدید مستقیم تنش بین ایران و آمریکا و افزایش امکان واکنش‌های نظامی یا تحریمی از سوی ایالات متحده و متحدانش را بالا می‌برد."
+        ],
+        "impact": "حمله گزارش‌شده احتمال واکنش نظامی-تحریمی آمریکا و متحدان را افزایش می‌دهد؛ در صورت تشدید فشارهای خارجی، این امر می‌تواند اقتصاد ایران را بیش‌تر تحت فشار قرار داده و ظرفیت رژیم برای مدیریت نارضایتی داخلی و ثبات سیاسی را تضعیف کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "FOX 2 Detroit",
+        "url": "https://www.fox2detroit.com/news/iran-latest-israel-expand-attack-iran-trump-delays-deadline-strait-hormuz",
+        "clean_url": "https://www.fox2detroit.com/news/iran-latest-israel-expand-attack-iran-trump-delays-deadline-strait-hormuz",
+        "image": null,
+        "timestamp": 1774643280.0
     },
     {
         "title_fa": "جنگ آمریکا-اسرائیل علیه ایران، روز ۲۸: آمریکا به دنبال موفقیت نظامی سریع، با طرح دریافت عوارض از تنگه هرمز مخالفت کرد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/where-reported-us-iran-negotiations-071328361.html",
         "image": null,
         "timestamp": 1774336638.0
-    },
-    {
-        "title_fa": "جنگ با ایران افزایش قیمت بنزین و بلیت‌ها را رقم زد؛ نمایندگان درباره گران‌فروشی هشدار دادند اما کارشناسان شوک عرضه را مقصر می‌دانند",
-        "title_en": "As Iran war causes gas and airfares to spike, lawmakers warn of price gouging — but experts point to supply shocks",
-        "summary": [
-            "جنگ میان آمریکا و ایران و عملاً توقف تردد در تنگه هرمز بزرگ‌ترین شوک عرضه نفت در تاریخ ایجاد کرده؛ قیمت نفت بیش از 40% افزایش یافته و برنت تا حدود 112 دلار (در گزارش ~103 دلار) معامله شده است.",
-            "قیمت بنزین در آمریکا میانگین 3.98 دلار بوده و حدود 35% نسبت به ماه قبل رشد داشته؛ قیمت سوخت جت حدود 106% افزایش یافته و برخی خطوط هوایی افزایش کرایه یا عوارض سوخت را اعلام کرده‌اند.",
-            "الیزابت وارن و دیگر قانون‌گذاران در نامه‌ای به رئیس FTC خواستار رصد احتمال گران‌فروشی شده‌اند، اما کن مدلاک از مرکز مطالعات انرژی رایس می‌گوید شواهدی از گران‌فروشی عمدی وجود ندارد و جهش‌ها ناشی از شوک عرضه است."
-        ],
-        "impact": "این شوک عرضه و جهش قیمت‌ها ظرف کوتاه‌مدت فشار اقتصادی بر طبقات متوسط و پایین را تشدید می‌کند و می‌تواند به‌سرعت نارضایتی عمومی را افزایش داده و مشروعیت حکومت را در داخل ایران تضعیف کند.",
-        "tag": "نفت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/03/24/iran-war-gas-prices-airline-tickets.html",
-        "clean_url": "https://www.cnbc.com/2026/03/24/iran-war-gas-prices-airline-tickets.html",
-        "image": "http://www.bing.com/th?id=OVFT.vOrrKp9BT2zNjNArrSS-ny&pid=News",
-        "timestamp": 1774335780.0
-    },
-    {
-        "title_fa": "بروزرسانی زنده: جنگ آمریکا-اسرائیل علیه ایران وارد هفته چهارم شد",
-        "title_en": "Live Updates: US-Israeli war against Iran rages on in fourth week",
-        "summary": [
-            "گزارش جروزالم پست حاکی است که رویارویی نظامی مشترک آمریکا و اسرائیل علیه ایران وارد هفته چهارم شده است؛ نشان‌دهنده تشدید قابل توجه درگیری‌های مستقیم است.",
-            "جنگ مداوم احتمال تشدید فشارهای اقتصادی و دیپلماتیک بر تهران را افزایش می‌دهد؛ این فشارها می‌توانند ساختارهای مالی و توان تامین منابع دولت را تضعیف کرده و گزینه‌های سیاسی داخلی را محدود سازند.",
-            "دامنه این درگیری و شوک‌های اقتصادی احتمالی فضای نارضایتی عمومی را تشدید می‌کند و ضعف‌های مدیریتی و ناکارایی حکمرانی را برجسته می‌سازد؛ با این حال، به دلیل محدودیت اطلاعات موجود، باید از هرگونه پیش‌بینی قطعی درباره فروپاشی داخلی پرهیز کرد."
-        ],
-        "impact": "ادامه جنگ مستقیم، ریسک تشدید بحران داخلی و کاهش توان بازدارندگی و تامین اقتصادی رژیم را به شکل فوری بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zc3N1VE44bi10ajVJc0Y1SW5fYUZrbVlBbGpRVmQ2OWRFdHhvdDhPS0s5R1Y2aTU5VnRLd3Y4YUlXcVZVUVVxUVRQMUxmOXplU0tHcldWbUM5eUVWWXpQbnlQZ1FrMmNVVDhsQ18zbVFUUUVWSThjbFFiTm5iU0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Zc3N1VE44bi10ajVJc0Y1SW5fYUZrbVlBbGpRVmQ2OWRFdHhvdDhPS0s5R1Y2aTU5VnRLd3Y4YUlXcVZVUVVxUVRQMUxmOXplU0tHcldWbUM5eUVWWXpQbnlQZ1FrMmNVVDhsQ18zbVFUUUVWSThjbFFiTm5iU0E",
-        "image": null,
-        "timestamp": 1774335605.0
-    },
-    {
-        "title_fa": "درگیری ایران: تا چه مدت و تا چه اندازه وخیم؟",
-        "title_en": "Iran Conflict: How Long, and How Bad?",
-        "summary": [
-            "گلدمن ساکس به نکته محوری اشاره کرده است: مدت‌زمان و شدت درگیری‌های مرتبط با ایران نامشخص است و این عدم قطعیت بازارها و ریسک‌های سیاسی را افزایش می‌دهد.",
-            "در صورتی که درگیری ادامه یابد، می‌تواند پیامدهای اقتصادی قابل‌توجهی از جمله اختلال در رشد، نوسان بازارها و احتمال تشدید فشارها و تحریم‌های خارجی به‌همراه داشته باشد.",
-            "ادامه درگیری همچنین ضعف‌های ساختاری حکمرانی و سوء‌مدیریت اقتصادی را برجسته خواهد کرد و می‌تواند سطح نارضایتی عمومی و مخاطرات داخلی برای رژیم را افزایش دهد."
-        ],
-        "impact": "عدم قطعیت مورد اشاره گلدمن ساکس نشان می‌دهد که تداوم درگیری ریسک‌های اقتصادی و سیاسی را تقویت می‌کند و بار فشار بر رژیم را بالاتر می‌برد.",
-        "tag": "بحران",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Goldman Sachs",
-        "url": "https://www.npr.org/2026/03/19/nx-s1-5751262/war-polling-trump-presidents-iran",
-        "clean_url": "https://www.npr.org/2026/03/19/nx-s1-5751262/war-polling-trump-presidents-iran",
-        "image": null,
-        "timestamp": 1774335375.0
     }
 ]
