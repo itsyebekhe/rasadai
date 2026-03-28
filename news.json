@@ -90,6 +90,24 @@
         "timestamp": 1774699717.0
     },
     {
+        "title_fa": "یک ماه از جنگ با ایران؛ اهداف دولت ترامپ محقق نشده و او دنبال خاتمه است",
+        "title_en": "Donald Trump, Iran war news: One month into conflict, some Trump administration objectives unfulfilled as he looks to wind it down",
+        "summary": [
+            "گزارش: پس از یک ماه درگیری، بسیاری از اهداف اعلام‌شده از سوی دولت ترامپ به‌طور کامل محقق نشده و کاخ سفید در پی راه‌هایی برای کاهش شدت درگیری و خروج نسبی است.",
+            "مطالعه تحلیلی اشاره می‌کند که ایران تاکتیک‌های شبه‌پیکارجویانه به‌کار گرفته و اختلالات قابل‌توجهی بر اقتصاد جهانی وارد کرده؛ این شیوه جنگی فشار مستقیم نظامی را برای طرف آمریکایی دشوارتر کرده است.",
+            "اقدام چین در گشودن تحقیقات تجاری علیه آمریکا (واکنش به تعرفه‌های ترامپ) در متن گزارش آمده و می‌تواند به‌عنوان عامل خارجی که مانع اجرای بی‌چون‌وچرای فشارهای غرب بر تهران می‌شود، عمل کند."
+        ],
+        "impact": "نتیجه عملی: جنگ یک‌ماهه اهداف فشار خارجی را ناکامل گذاشته، همزمان هزینه‌های اقتصادی و سیاسی برای رژیم افزایش یافته و بازیگری چین مانع از اعمال فشار کامل آمریکا شده است.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ABC7 Chicago",
+        "url": "https://apnews.com/article/trump-iran-objectives-one-month-1a32141f5ca2104af78625b3aa277421",
+        "clean_url": "https://apnews.com/article/trump-iran-objectives-one-month-1a32141f5ca2104af78625b3aa277421",
+        "image": null,
+        "timestamp": 1774697591.0
+    },
+    {
         "title_fa": "تحلیل: حملات حوثی‌ها به اسرائیل برای جنگ با ایران چه معنایی دارد؟",
         "title_en": "Analysis: What do Houthi attacks on Israel mean for the Iran war?",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.tennessean.com/live-story/news/world/2026/03/24/trump-us-israel-iran-war-live-updates/89294787007",
         "image": "http://www.bing.com/th?id=ONUT.L6hqvRyN4-DhTDGnYy3tIw&pid=News",
         "timestamp": 1774367760.0
-    },
-    {
-        "title_fa": "جنگ ایران: تشدید حملات هم‌زمان با صعود قیمت نفت بالای ۱۰۰ دلار",
-        "title_en": "Iran war: Attacks intensify as oil rises above $100",
-        "summary": [
-            "هسته خبر: حملات مرتبط با جنگ در منطقه شدت گرفته و بازار نفت جهانی قیمت شاخص را بالای ۱۰۰ دلار برده است.",
-            "افزایش قیمت نفت می‌تواند درآمدهای نفتی بالقوه را بالا ببرد، اما تحریم‌ها و محدودیت‌های فروش نفت ایران مانع بهره‌مندی کامل از این موج درآمدی شده و در عین حال ریسک‌های سیاسی و تحریمی را تشدید می‌کند.",
-            "ترکیب تشدید درگیری‌ها و فشار اقتصادی ناشی از سوء‌مدیریت عمومی می‌تواند نارضایتی‌های داخلی را تشدید کند و قابلیت بقا و مشروعیت حکومت را بیش از پیش تضعیف نماید."
-        ],
-        "impact": "تشدید حملات همراه با نفت بالای ۱۰۰ دلار فشار بین‌المللی و شوک اقتصادی را افزایش می‌دهد و در عمل احتمال پایداری سیاسی را کاهش می‌دهد.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelJBX1VXcEFXdmtkYjNsRnBnMDB2TVM2NXF6UlFKUy0xZjgtdEJtelI0VEpRQXBRQmpwelRXTUVKdVo3RHlwMVJMR194QzdjbmctYUtqbkhyaFNweUlEamxBREdyeWkydXJReng5U1NmUzlmRFN4cWRtdkFlUGg4ZW9oMmo3R3Uxd2pzWHBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelJBX1VXcEFXdmtkYjNsRnBnMDB2TVM2NXF6UlFKUy0xZjgtdEJtelI0VEpRQXBRQmpwelRXTUVKdVo3RHlwMVJMR194QzdjbmctYUtqbkhyaFNweUlEamxBREdyeWkydXJReng5U1NmUzlmRFN4cWRtdkFlUGg4ZW9oMmo3R3Uxd2pzWHBR",
-        "image": null,
-        "timestamp": 1774366016.0
     }
 ]
