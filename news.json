@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حوثی‌ها ادعای نخستین حمله موشکی به اسرائیل از آغاز جنگ را مطرح کردند",
+        "title_en": "Yemen's Houthis claim first missile attack on Israel since war began",
+        "summary": [
+            "جنبش حوثی یمن اعلام کرده برای نخستین‌بار از آغاز جنگ موشک‌هایی را به سمت اسرائیل شلیک کرده است؛ اعلامیه از سوی رسانه‌های وابسته به حوثی منتشر شد.",
+            "این ادعا نشان‌دهنده تشدید منطقه‌ای و احتمال گسترش درگیری فراتر از مرزهای یمن و جبهه‌های کنونی در منطقه است.",
+            "اقدام حوثی‌ها می‌تواند واکنش‌های نظامی یا دیپلماتیک از سوی اسرائیل و شرکای بین‌المللی آن را برانگیزد و بر امنیت خطوط دریایی و حمل‌ونقل منطقه‌ای فشار افزون‌تری وارد کند."
+        ],
+        "impact": "ادعای حمله موشکی از سوی حوثی‌ها ریسک تشدید درگیری منطقه‌ای و افزایش بی‌ثباتی امنیتی در خاورمیانه را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "PBS",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/war-events/houthis-claim-first-attack-on-israel-since-iran-war-began/ar-AA1ZCp94",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/war-events/houthis-claim-first-attack-on-israel-since-iran-war-began/ar-AA1ZCp94",
+        "image": null,
+        "timestamp": 1774713798.0
+    },
+    {
         "title_fa": "حوثی‌های مورد حمایت ایران ادعای نخستین شلیک موشک به اسرائیل را مطرح کردند؛ جنگ در خاورمیانه تشدید شد",
         "title_en": "Iran-backed Houthis claim first missile launch on Israel as war in the Mideast intensifies",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVZ2Z3d1MjduMVAwTkphREg2TDRfQk1KaUxTaTVWaC1jYnd0VUl2RFlGLUhUYTUyT0pFX3VQdGxnVWktQTVDM0thSmtlWkducmpKSnBnMnp0OEthSTliOEtyM2RUYk5ZUVBDLVE5dFFTQVNKMFowN0FBSjF4OXd5SzRLQjJndlpXeE9odkVBMGx4MmtMNXl5SUhuM0Z2c0JJWm1UUG4wWkJZTjJtY2s4",
         "image": null,
         "timestamp": 1774692721.0
+    },
+    {
+        "title_fa": "درون ارتش ایران: موشک‌ها، میلیشیاها و نیرویی ساخته‌شده برای بقا",
+        "title_en": "Inside Iran’s military: missiles, militias and a force built for survival",
+        "summary": [
+            "عملیات تهاجمی گسترده آمریکا و اسرائیل (مرکز فرماندهی آمریکا: بیش از ۹۰۰۰ هدف و ۹۰۰۰ پرواز عملیاتی) نشان می‌دهد ساختار نظامی ایران عمدتاً برای تاب‌آوری و ادامه نبرد پس از ضربه طراحی شده است؛ نیروها پراکنده، مجموعه‌های موشکی و مراکز تولیدی هدف‌گیری شده‌اند.",
+            "هدف اعلام‌شده آمریکا، نابودی سامانه‌های بالستیک، تضعیف نیروی دریایی و جلوگیری از بازسازی سریع است؛ چنین فشار خارجی ساختار نظامی و منابع اقتصادی رژیم را فرسوده می‌کند و توان بازدارندگی و بازسازی را محدود می‌سازد.",
+            "تقسیم دوگانه نیروها — ارتش (Artesh) و سپاه پاسداران — و اولویت‌دادن بودجه و تجهیز به سپاه مطابق گزارش‌ها، نشانه‌ای از سوءمدیریت توزیعی منابع است که هم کفایت دفاعی کلی را کاهش داده و هم زمینه بی‌اعتمادی عمومی را تقویت می‌کند."
+        ],
+        "impact": "ادامه حملات هدفمند دشمن، اگرچه ارتش ایران را برای «بقا» طراحی‌شده نگه می‌دارد، اما فرسایش سامانه‌های حیاتی و سوءتوزیع منابع، فشار سیاسی و اقتصادی بر رژیم را تشدید می‌کند.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/inside-iran-military-missiles-militias-100051290.html",
+        "clean_url": "https://www.aol.com/articles/inside-iran-military-missiles-militias-100051290.html",
+        "image": null,
+        "timestamp": 1774692000.0
     },
     {
         "title_fa": "زخمی شدن نیروهای آمریکایی در حمله به پایگاه سعودی در ماهگرد یک‌ماهه جنگ",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.axios.com/2026/03/24/iran-peace-discussions-us-israel",
         "image": null,
         "timestamp": 1774374586.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ ایران: گفته می‌شود آمریکا یک طرح صلح به ایران فرستاده است",
-        "title_en": "Iran War Live Updates: U.S. Is Said to Have Sent Iran a Peace Plan",
-        "summary": [
-            "نخست‌وزیر شهباز شریف اعلام کرده پاکستان آماده میزبانی گفتگوهای میان آمریکا و ایران است و رئیس ارتش سید عاصم منیر به عنوان کلید میانجی‌گری مطرح شده است؛ مسیر عملی گفت‌وگوها هنوز مشخص نیست.",
-            "پاکستان در موضعی متوازن قرار دارد: با وجود محکوم کردن حملات آمریکا و اسرائیل به ایران بدون نام بردن از آمریکا، تعهد دفاع از عربستان را حفظ کرده و همزمان ارتباطات منظم با مقامات ایرانی را برقرار نگه داشته است.",
-            "تیتر گزارش حاکی از ارسال گزارشیِ طرح صلح آمریکا به ایران است؛ پیشنهاد میزبانی پاکستان می‌تواند ابزار نفوذ اسلام‌آباد و ترامپ برای مدیریت بحران باشد، اما جزئیات طرح و تضمین‌های قابل اجرا اعلام نشده‌اند."
-        ],
-        "impact": "گزارش ارسال طرح صلح آمریکا همراه با ابتکار پاکستان برای میزبانی مذاکرات ممکن است دامنه عملیات نظامی را کوتاه‌مدت کاهش دهد اما فشار خارجی و اختلال در تنگه هرمز هزینه‌های اقتصادی منطقه‌ای را افزایش می‌دهد و می‌تواند مشروعیت سیاسی رژیم ایران را در داخل تضعیف کند.",
-        "tag": "میانجیگری",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil/pakistan-iran-us-mediation",
-        "clean_url": "https://www.nytimes.com/live/2026/03/24/world/iran-war-trump-oil/pakistan-iran-us-mediation",
-        "image": null,
-        "timestamp": 1774372680.0
-    },
-    {
-        "title_fa": "اسرائیل و ایران حملات متقابل انجام دادند؛ آمریکا می‌گوید حملات به اهداف انرژی را متوقف می‌کند",
-        "title_en": "Israel, Iran trade strikes as U.S. says it is pausing attacks on energy targets",
-        "summary": [
-            "اسرائیل و ایران تبادل حملات داشته‌اند؛ اتفاقی که احتمال تشدید تنش‌های نظامی منطقه‌ای و گسترش رویارویی را بالا می‌برد.",
-            "آمریکا اعلام کرده است حملات به اهداف مرتبط با انرژی را متوقف می‌کند؛ این تصمیم در کوتاه‌مدت از آسیب به زیرساخت‌های حیاتی جلوگیری می‌کند اما ظرفیت مانور واشنگتن در فشار و پاسخ‌دهی را تغییر می‌دهد.",
-            "ادامه درگیری‌ها و فشارهای خارجی می‌تواند ساختار اقتصادی ایران را ضعیف‌تر کند و زمینه‌های افزایش نارضایتی عمومی و آشکار شدن ناکارآمدی مدیریتی در مواجهه با بحران را فراهم سازد."
-        ],
-        "impact": "این دور از حملات هم مشروعیت داخلی رژیم را بیشتر تضعیف می‌کند و هم خطر انتقال تنش به یک برخورد منطقه‌ای گسترده‌تر را واقعی‌تر می‌سازد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/world/israel-iran-trade-strikes-as-us-says-it-is-pausing-attacks-on-energy-targets/ar-AA1Zi1rC",
-        "clean_url": "https://www.msn.com/en-us/news/world/israel-iran-trade-strikes-as-us-says-it-is-pausing-attacks-on-energy-targets/ar-AA1Zi1rC",
-        "image": null,
-        "timestamp": 1774369094.0
     }
 ]
