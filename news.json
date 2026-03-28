@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "کشورهای خلیج: تهدید رو به رشد شبه‌نظامیان تحت پشتیبانی ایران",
+        "title_en": "Gulf countries warn of rising threat from Iran-backed militias and proxies",
+        "summary": [
+            "کشورهای خلیج در بیانیه‌ای مشترک حملات مستقیم و حملات از طریق شبه‌نظامیان مورد حمایت ایران را محکوم کردند و اخیراً کویت از خنثی‌سازی یک توطئه علیه رهبران دولتی و بازداشت شش مظنون مرتبط با حزب‌الله خبر داده است.",
+            "از زمان آغاز بمباران‌های آمریکا و اسرائیل علیه ایران در اواخر فوریه، تهران انتقام‌جویی را به سمت کشورهای حاشیه خلیج برده است؛ طبق گزارش‌ها هزاران موشک و پهپاد از سوی ایران شلیک شده و وقوع حوادث داخلی مرتبط با گروه‌های نیابتی افزایش یافته است.",
+            "حکومت ایران سال‌هاست که نیروهای نیابتی را به‌عنوان ستون سیاست خارجی و امنیتی خود به‌کار گرفته؛ اکنون خلیج در تلاش برای سرکوب شبکه‌های نیابتی است و نگرانی‌ها از فعال‌سازی سلول‌های خفته در منطقه بالا رفته است."
+        ],
+        "impact": "فشار نظامی و اتکای تهران به شبکه‌های نیابتی ثبات منطقه را تضعیف می‌کند و خطر تبدیل مناقشه به درگیری مستقیم بین ایران و کشورهای خلیج را افزایش می‌دهد، که هزینه‌های استراتژیک و سیاسی رژیم ایران را بالاتر می‌برد.",
+        "tag": "پراکسی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/mar/28/gulf-countries-threat-iran-backed-militias-proxies-war-us-israel-middle-east",
+        "clean_url": "https://www.theguardian.com/world/2026/mar/28/gulf-countries-threat-iran-backed-militias-proxies-war-us-israel-middle-east",
+        "image": null,
+        "timestamp": 1774684560.0
+    },
+    {
         "title_fa": "حوثی‌ها برای اولین‌بار اسرائیل را هدف قرار دادند",
         "title_en": "Houthis target Israel for first time since war began",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/4-people-lightly-hurt-buildings-mangled-as-iranian-missile-attack-hits-tel-aviv/ar-AA1ZgTr8",
         "image": null,
         "timestamp": 1774343110.0
-    },
-    {
-        "title_fa": "ترامپ خواستار توافق با ایران است اما مقام‌های اسرائیلی می‌گویند احتمال موفقیت مذاکرات کم است",
-        "title_en": "Trump wants a deal with Iran but success of talks unlikely, Israeli officials say",
-        "summary": [
-            "خبر اصلی: ترامپ خواستار دستیابی به توافق با ایران شده و مقام‌های اسرائیلی به منابع خبرگزاری می‌گویند شانس موفقیت مذاکرات پایین است.",
-            "تحلیل تحریم‌ها/فشار خارجی: اگر مذاکرات پیش برود امکان کاهش برخی تحریم‌ها وجود دارد، اما با توجه به ارزیابی پایین بودن شانس موفقیت، ساختار فشار تحریمی همچنان عاملی تضعیف‌کننده برای ثبات رژیم باقی خواهد ماند.",
-            "اقتصاد و ناخرسندی داخلی: نبود چشم‌انداز فوری برای توافق به معنی عدم ورود فوری منابع یا کاهش فشار اقتصادی است؛ در نتیجه مشکلات مدیریتی و فشارهای معیشتی که سابقه‌دار هستند، ادامه خواهند یافت."
-        ],
-        "impact": "اثر کلیدی: اعلام تمایل واشینگتن به توافق در مقابل ارزیابی اسرائیل از ناکامی محتمل، نشان می‌دهد تحریم‌ها و فشارهای اقتصادی ادامه خواهند یافت و امکان بهبود ساختاری در کوتاه‌مدت اندک است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/trump-wants-a-deal-with-iran-but-success-of-talks-unlikely-israeli-officials-say/ar-AA1ZhXOW",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-wants-a-deal-with-iran-but-success-of-talks-unlikely-israeli-officials-say/ar-AA1ZhXOW",
-        "image": null,
-        "timestamp": 1774343065.0
     }
 ]
