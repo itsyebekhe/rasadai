@@ -36,6 +36,24 @@
         "timestamp": 1774794256.0
     },
     {
+        "title_fa": "اورشلیم در سایه جنگ ایران وارد پسح و عید پاکی کم‌رمق می‌شود",
+        "title_en": "Jerusalem heads into subdued Passover and Easter under shadow of Iran war",
+        "summary": [
+            "مراسم پسح و عید پاک در اورشلیم تحت تاثیر تهدید مرتبط با جنگ ایران کم‌رمق و محتاط برگزار می‌شوند؛ تدابیر امنیتی تشدید شده و فضای عمومی امنیتی شده است.",
+            "افزایش احتمال درگیری‌های منطقه‌ای مرتبط با تهران، ریسک اقدام تلافی‌جویانه یا عملیات فرامنطقه‌ای را بالا برده و روند عادی دیپلماسی و گردشگری مذهبی را مختل می‌کند.",
+            "اگر تنش‌ها ادامه یابد، فشارهای خارجی و تحریم‌های جدید محتمل است؛ این فشارها ساختار اقتصادی رژیم تهران را بیشتر تضعیف کرده و می‌تواند نارضایتی‌های داخلی را تسریع کند."
+        ],
+        "impact": "فضای امنیتی و سیاسی ایجادشده احتمالاً باعث تشدید اقدامات امنیتی اسرائیل، افزایش هزینه‌های منطقه‌ای برای ایران و تسریع روند فروپاشی اقتصادی و نارضایتی داخلی در ایران خواهد شد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/03/29/jerusalem-heads-into-subdued-passover-and-easter-under-shadow-of-iran-war-00849549",
+        "clean_url": "https://www.politico.com/news/2026/03/29/jerusalem-heads-into-subdued-passover-and-easter-under-shadow-of-iran-war-00849549",
+        "image": null,
+        "timestamp": 1774794037.0
+    },
+    {
         "title_fa": "ادعای ایران درباره هدف قرار دادن AWACS و تانکرهای هوایی آمریکا؛ چه اهداف دیگری در ماه گذشته هدف گرفته شده‌اند؟",
         "title_en": "Iran ‘hits’ US AWACS, air tankers: What else has it targeted in past month?",
         "summary": [
@@ -286,6 +304,24 @@
         "clean_url": "https://www.reuters.com/world/middle-east/bahrains-alba-confirms-iranian-attack-its-facilities-2026-03-28",
         "image": null,
         "timestamp": 1774769634.0
+    },
+    {
+        "title_fa": "ایران می‌گوید برای حمله زمینی آمریکا آماده است",
+        "title_en": "Iran says it's prepared for a U.S. ground attack",
+        "summary": [
+            "منبع اعلام‌شده متن خبری را منتشر نکرده؛ فقط عنوان موجود است و هیچ جزئیات عملیاتی یا نقل‌قولی برای راستی‌آزمایی در دسترس نیست، بنابراین تحلیل مبتنی بر شواهد محدود است.",
+            "اگر این ادعا صحت داشته باشد، اعلام آمادگی برای مقابله با حمله زمینی آمریکا سیگنال تشدید نظامی است که می‌تواند ریسک برخورد مستقیم و فشار خارجی (تحریم‌ها، اقدامات منطقه‌ای) را افزایش دهد؛ اما بدون مدارک قابل اتکا نمی‌توان درجه تهدید را تعیین کرد.",
+            "از منظر داخلی، چنین بیانیه‌هایی معمولاً دو هدف همزمان دنبال می‌کنند: نمایش قدرت در صحنه خارجی و منحرف‌کردن افکار عمومی از ناکارآمدی اقتصادی و نارضایتی اجتماعی؛ تحلیل‌گران باید منتظر تأیید مستقل و نشانه‌های میدانی (تحرکات نظامی، اطلاعات میدانی) باشند."
+        ],
+        "impact": "بدون متن یا تأیید مستقل، این عنوان بیش از ارائه اطلاعات استراتژیک، فضای رسانه‌ای را متشنج و ریسک اشتباه محاسباتی را افزایش می‌دهد.",
+        "tag": "ابهام",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Detroit News",
+        "url": "https://www.detroitnews.com/story/news/world/2026/03/29/iran-u-s-marines-ground-attack/89376250007/",
+        "clean_url": "https://www.detroitnews.com/story/news/world/2026/03/29/iran-u-s-marines-ground-attack/89376250007",
+        "image": null,
+        "timestamp": 1774769400.0
     },
     {
         "title_fa": "پنتاگون می‌گوید در حال آماده‌سازی برای عملیات زمینی چندهفته‌ای در ایران، کوتاه از تهاجم کامل",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOazR4WlpjX3BjbU93RUZIZ3BYMC1rRTJJUWxqOWpXdGZKNjRYNDdWNm85c3BpamZYLTNKRmZRUm5kVGlpSktpZEZWSmhDRkhJb09OeFAwU1p4MlB2dUZfTkJDYlE4THhtRExWZkd5YTVxR1ZWRGxZejYyQnNKZlJXdmtrcG56WmdldkVxdUZB",
         "image": null,
         "timestamp": 1774433703.0
-    },
-    {
-        "title_fa": "آخرین تحولات جنگ ایران: تهران: آمریکا «با خود مذاکره می‌کند»، ادعای پوشالی ترامپ",
-        "title_en": "Iran war latest: US ‘negotiating with itself’, Tehran claims",
-        "summary": [
-            "نیروهای مسلح ایران هرگونه مذاکره با آمریکا را رسمی تکذیب و سخنگوی ستاد مشترک رفتار واشنگتن را «مذاکره با خود» خواند و ادعاهای ترامپ درباره پیشرفت گفت‌وگوها را تمسخر کرد.",
-            "رئیس‌جمهور آمریکا اصرار دارد مذاکراتی در جریان است و از گفت‌وگو با «افراد مناسب» در ایران سخن می‌گوید؛ این تناقض رسمی میان دو طرف، ابهام دیپلماتیک و شکست در پیام‌رسانی را نشان می‌دهد.",
-            "هم‌زمان ادامه حملات اسرائیل و آماده‌سازی آمریکا برای اعزام نیرو، فشار نظامی و دیپلماتیک هم‌زمانی را ایجاد کرده که می‌تواند ساختار بقای رژیم را تضعیف کرده و پیامدهای اقتصادی و سیاسی داخلی را تشدید کند."
-        ],
-        "impact": "تناقض آشکار بین ادعاهای واشنگتن و تکذیب رسمی تهران در کنار فشار نظامی، پایه‌های مشروعیت و توان مدیریتی رژیم را بیش از پیش تضعیف می‌کند.",
-        "tag": "فشار",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Times",
-        "url": "https://www.yahoo.com/news/articles/us-talking-itself-says-iran-080940984.html",
-        "clean_url": "https://www.yahoo.com/news/articles/us-talking-itself-says-iran-080940984.html",
-        "image": null,
-        "timestamp": 1774433580.0
-    },
-    {
-        "title_fa": "«اگر ایران اورانیومش را نگه دارد، همه‌چیز بی‌فایده بود»؛ کارشناسان درباره توقف جنگ ترامپ",
-        "title_en": "‘If Iran keeps its uranium, everything was for nothing,' experts say on Trump's war pause",
-        "summary": [
-            "تیتر نشان می‌دهد کارشناسان می‌گویند توقف اقدام نظامی یا «توقف جنگ» اعلام‌شده توسط ترامپ بی‌اثر خواهد بود اگر تهران اورانیوم‌ غنی‌شده‌اش را حفظ کند.",
-            "از منظر فشار خارجی، حفظ مواد هسته‌ای عملاً اهرم تحریمی و دیپلماتیک را خنثی می‌کند؛ بدون خلع یا انتقال مواد، تحریم‌ها و تهدید به اقدام نظامی کارایی کمتری خواهند داشت و فرصت مذاکره کاهش می‌یابد.",
-            "گزارش تیترمحور است و اشاره‌ای به نقش بازیگران خارجی مانند روسیه/چین/کره‌شمالی یا به اعتراضات داخلی و وضعیت اقتصادی ندارد؛ اما پیامد روشن این است که توقف موقت جنگ بدون رسیدن به توافق درباره موجودی اورانیوم، مشروعیت و اثرگذاری فشار بین‌المللی را تضعیف می‌کند. "
-        ],
-        "impact": "توقف جنگِ بدون تضمین خلع یا انتقال اورانیوم، اهرم فشار بین‌المللی را تضعیف می‌کند و به تهران زمان و فضای عمل می‌بخشد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-us/news/other/if-iran-keeps-its-uranium-everything-was-for-nothing-experts-say-on-trump-s-war-pause/ar-AA1ZjWpf",
-        "clean_url": "https://www.msn.com/en-us/news/other/if-iran-keeps-its-uranium-everything-was-for-nothing-experts-say-on-trump-s-war-pause/ar-AA1ZjWpf",
-        "image": null,
-        "timestamp": 1774433046.0
     }
 ]
