@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تشدید جنگ مرتبط با ایران؛ حوثی‌ها برای نخستین بار به اسرائیل حمله کردند",
+        "title_en": "Iran war escalates as Houthis launch first strikes on Israel",
+        "summary": [
+            "حوثی‌ها برای نخستین بار حملاتی علیه اسرائیل انجام دادند؛ این اقدام جنگ را از مرزهای مستقیم ایران-اسرائیل فراتر برده و منطقه را وارد فاز جدیدی از تشدید کرده است.",
+            "گسترش نقش بازیگران نیابتی هم‌پوشان با تهران، خطر واکنش‌های نظامی گسترده‌تر و افزایش فشارهای تحریمی و دیپلماتیک بر حکومت ایران را بالا می‌برد و به تضعیف ساختار ثبات دولت کمک می‌کند.",
+            "در صورت ادامه تشدید، اقتصاد آسیب‌پذیر داخلی و سطح بالای نارضایتی اجتماعی می‌تواند بدتر شود؛ این وضعیت ریشه در سوء‌مدیریت ساختاری دارد و ظرفیت حکومت برای کنترل تبعات را کاهش می‌دهد."
+        ],
+        "impact": "این رخداد خطر تبدیل درگیری‌های نیابتی به رویارویی مستقیم را افزایش می‌دهد و بار فشارهای بین‌المللی و اقتصادی را بر حکومت ایران سنگین‌تر می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS1PTERyT0lobFhQZFk4MVRnV0pFbWdyR2Fmdzh0U1daZ2FScUlVQUhxZXNLZmQ1TFpjd19MUkw5UFNMdU4xay11c0ZYckx0Y3NKdjR0SGF0TGNOeEQzeVVycFVBTmRoYkFLZkpWcnJIWmh3bnBadkVuUG5pUFhXOEdrSF8wbUY0d180bjRtNU8zSk91ZWN6NEpzQUVQdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS1PTERyT0lobFhQZFk4MVRnV0pFbWdyR2Fmdzh0U1daZ2FScUlVQUhxZXNLZmQ1TFpjd19MUkw5UFNMdU4xay11c0ZYckx0Y3NKdjR0SGF0TGNOeEQzeVVycFVBTmRoYkFLZkpWcnJIWmh3bnBadkVuUG5pUFhXOEdrSF8wbUY0d180bjRtNU8zSk91ZWN6NEpzQUVQdw",
+        "image": null,
+        "timestamp": 1774781266.0
+    },
+    {
         "title_fa": "اکثر بازارهای خلیج به‌خاطر نگرانی از گسترش درگیری با ایران کاهش یافتند",
         "title_en": "Most Gulf markets ease on fears of broader Iran conflict",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-29-2026",
         "image": null,
         "timestamp": 1774756805.0
+    },
+    {
+        "title_fa": "در محاصره و زخمی؛ آیا ایران اکنون به بمب هسته‌ای می‌رسد؟",
+        "title_en": "Cornered and wounded, will Iran now go for a nuclear bomb?",
+        "summary": [
+            "مرگ علی خامنه‌ای، رهبر پیشین، که در مقاله به‌عنوان نتیجه حملات آمریکا و اسرائیل گزارش شده، فضای تصمیم‌گیری را به سود جناح‌های سخت‌گیر تغییر داده و بحث عمومی درباره زوال «فتوای» منع سلاح هسته‌ای را تسریع کرده است.",
+            "رژیم تا پیش از این با «صبر راهبردی» به پیشرفت غنی‌سازی اورانیوم تا نزدیکی آستانه تسلیحاتی تن داده اما از ورود به مرحله تولید بمب خودداری کرده؛ حملات نظامی اخیر و دستور ترامپ برای ضربه به تاسیسات هسته‌ای و کشته شدن فرماندهان هسته‌ای این موازنه را متزلزل کرده است.",
+            "نهادهای نظامی مثل سپاه پاسداران (IRGC) بارها از احتمال بازنگری در دکترین هسته‌ای گفته‌اند؛ ترکیب فشار خارجی و تغییر گرایش نخبه‌ها و افکار عمومی خطر حرکت از غنی‌سازی «نزدیک به آستانه» به ساخت تسلیحات را واقعی کرده است."
+        ],
+        "impact": "فشار و حملات مستقیم خارجی، همراه با خلأ رهبری و تغییر افکار نخبگان، هم ساختار اقتدار رژیم را تضعیف می‌کند و هم انگیزه و پوششی برای جهش هسته‌ای فراهم آورده که به ناپایداری منطقه‌ای و داخلی دامن می‌زند.",
+        "tag": "هسته‌ای",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/03/29/middleeast/iran-nuclear-bomb-analysis-intl",
+        "clean_url": "https://www.cnn.com/2026/03/29/middleeast/iran-nuclear-bomb-analysis-intl",
+        "image": null,
+        "timestamp": 1774753260.0
     },
     {
         "title_fa": "جنگ ایران: سپاه می‌گوید دانشگاه‌های آمریکا در خاورمیانه در معرض خطرند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-tehran-mocks-us-warns-against-ground-invasion",
         "image": "http://www.bing.com/th?id=ONUT.b1GGDC1yk_OHgI2iO6-PUw&pid=News",
         "timestamp": 1774415580.0
-    },
-    {
-        "title_fa": "ایران طرح آتش‌بس آمریکا را دریافت کرد",
-        "title_en": "Iran receives a US ceasefire plan, officials say",
-        "summary": [
-            "واشنگتن طرح آتش‌بس را به تهران ارائه کرده؛ این اقدام نشان‌دهنده فشار دیپلماتیک و نظامی شدید در واکنش به کارزار نظامی مشترک آمریکا-اسرائیل است.",
-            "حملات هوایی اخیر، از جمله اصابت به یک ساختمان مسکونی در شمال‌غرب ایران با تلفات غیرنظامیان، ناتوانی ساختار حکومتی در محافظت از شهروندان را برجسته کرده است.",
-            "دریافت طرح آتش‌بس می‌تواند علامتی از تضعیف ساختاری رژیم در برابر فشار خارجی باشد و ریسک افزایش نارضایتی عمومی و تشدید بحران مشروعیت داخلی را بالا ببرد."
-        ],
-        "impact": "این تحول دیپلماتیک-نظامی فشارها بر حاکمیت را تشدید می‌کند و احتمال تسریع تضعیف مشروعیت و افزایش بی‌ثباتی داخلی را بالا می‌برد.",
-        "tag": "آتش‌بس",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "OregonLive.com",
-        "url": "https://www.oregonlive.com/nation/2026/03/iran-receives-a-us-ceasefire-plan-officials-say.html",
-        "clean_url": "https://www.oregonlive.com/nation/2026/03/iran-receives-a-us-ceasefire-plan-officials-say.html",
-        "image": "http://www.bing.com/th?id=ONUT.wytpzob8K2jSDRuy7A4dyA&pid=News",
-        "timestamp": 1774415580.0
-    },
-    {
-        "title_fa": "اکثر آمریکایی‌ها می‌گویند اقدامات نظامی آمریکا علیه ایران بیش از حد بوده است، نظرسنجی جدید AP-NORC نشان می‌دهد",
-        "title_en": "Most Americans say US military action against Iran has gone too far, a new AP-NORC poll finds",
-        "summary": [
-            "نظرسنجی AP-NORC نشان می‌دهد حدود 59٪ آمریکایی‌ها معتقدند اقدام نظامی اخیر آمریکا علیه ایران «بیش از حد» بوده و در حالی جنگ آمریکا و اسرائیل وارد هفته چهارم شده، گزارش‌ها و عکس‌ها از آسیب به مناطق مسکونی در تبریز حکایت دارد.",
-            "نگرانی‌های اقتصادی افزایش یافته: 45٪ از پاسخ‌دهندگان خیلی یا بسیار نگران توان پرداخت بهای بنزین در ماه‌های آینده هستند (افزایش از 30٪)، و میزان رضایت از عملکرد ترامپ حدود 4 از 10 نفر است که ثابت مانده است؛ این ترکیب می‌تواند تبدیل به بار سیاسی قابل توجهی برای دولت شود.",
-            "هم‌زمان حدود دو سوم آمریکایی‌ها جلوگیری از دستیابی ایران به سلاح هسته‌ای را هدفی مهم می‌دانند اما به همان اندازه نگران جلوگیری از افزایش قیمت نفت و گازند — تضادی که مدیریت آن برای کاخ سفید دشوار است و مانع استمرار بی‌قید و شرط عملیات نظامی خواهد شد."
-        ],
-        "impact": "نتایج نظرسنجی نشان می‌دهد حمایت عمومی آمریکا از ادامه عملیات گسترده محدود است و همین محدودیت سیاسی-اقتصادی می‌تواند پایدار شدن فشار خارجی لازم برای تضعیف ساختارهای قدرت در ایران را کاهش دهد، در حالی که خسارت‌های مادی به شهروندان ایرانی خطر افزایش نارضایتی داخلی را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/03/25/us-iran-war-poll/",
-        "clean_url": "https://www.bostonherald.com/2026/03/25/us-iran-war-poll",
-        "image": "http://www.bing.com/th?id=ONUT.65po9b7ac4UTZ0FC976dOA&pid=News",
-        "timestamp": 1774413420.0
     }
 ]
