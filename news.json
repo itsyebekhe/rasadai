@@ -72,6 +72,24 @@
         "timestamp": 1774800302.0
     },
     {
+        "title_fa": "گزارش زنده: اسرائیل وعده تسلط بیشتر در جنوب لبنان داد و حملاتی به یک بندر ایرانی انجام شد",
+        "title_en": "Iran War Live Updates: Israel Vows to Seize More Territory in Lebanon, and Strikes Hit Iranian Port",
+        "summary": [
+            "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، دستور افزایش مناطق تحت کنترل نیروهایش در جنوب لبنان را صادر کرده است؛ این اعلان نشان‌دهنده تشدید میدانی و تلاش برای تثبیت منافع زمینی است.",
+            "رییس مجلس ایران دولت ترامپ را متهم کرد که با ظاهرسازی دیپلماتیک در حال «برنامه‌ریزی محرمانه برای تهاجم زمینی» است؛ این روایت تهران را به واکنش‌های امنیتی و تولید روایت تهدید خارجی سوق می‌دهد.",
+            "گزارش‌ها از ضرباتی به یک بندر ایرانی حکایت دارد؛ اگرچه جزئیات خسارت و عامل حملات در متن محدود است، اما هدف گرفتن زیرساخت‌های بندری می‌تواند پیامدهای اقتصادی و تدارکاتی برای رژیم داشته باشد."
+        ],
+        "impact": "ترکیب تهدیدات زمینی اسرائیل، اتهامات تهران علیه آمریکا و حملات به زیرساخت‌ها احتمال تشدید نظامی منطقه‌ای و افزایش فشارهای اقتصادی و سیاسی بر حکومت را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/regional-officials-pakistan-meeting",
+        "clean_url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil/regional-officials-pakistan-meeting",
+        "image": null,
+        "timestamp": 1774799100.0
+    },
+    {
         "title_fa": "وضعیت هسته‌ای اسرائیل و ایران از منظر حقوق بین‌الملل چه تفاوتی دارد؟",
         "title_en": "How do Israel and Iran's nuclear status differ under international law?",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LTXRyUmRmQ0NwUXk4TVB4OEJKRF9FRW1kZWsyai01SlViekhFWWJMbVVaaVFFQkl3T3hlTWdRUWNtNTNURFZDOWN0cThsanAwSVUtd3J1bzlMRDk2dkV0N3BXRzF4cjlfaVktMdIBckFVX3lxTE1aUTlUcVhpaVVhMDZxbDduMWRxbnFyZFJGaGhzVWpBcm5kcElDODloeDhjd2dLQlZrWjVxVDk3dlZIUkgtMUFUM1VYUTlxMjdONTdrNkM3bU13UEVOS0cwY25VTWlranhxLVRwc1JoMWV5QQ",
         "image": null,
         "timestamp": 1774788412.0
+    },
+    {
+        "title_fa": "پاکستان میزبان مذاکرات صلح بین آمریکا و ایران شد؛ مواضع هر طرف کجاست؟",
+        "title_en": "Pakistan Says It Will Host Peace Talks Between the U.S. and Iran. Here’s Where Each Side Stands",
+        "summary": [
+            "پاکستان اعلام کرده میزبان مذاکرات میان آمریکا و ایران خواهد بود؛ تلاش دیپلماتیک در شرایطی انجام می‌شود که ثبات منطقه‌ای شکننده است.",
+            "موضع آمریکا در مقاله به تمایل به گشودن مسیر دیپلماسی و هم‌زمان حفظ اهرم‌های فشار توصیف شده است؛ ترکیب دیپلماسی و فشار موازی استراتژی واشنگتن را شکل می‌دهد.",
+            "سخنگوی مجلس ایران اتهام زد که آمریکا از مذاکرات به‌عنوان پوششی برای برنامه‌ریزی حمله زمینی استفاده می‌کند؛ این اظهارنظر نشان‌دهنده عمق بی‌اعتمادی و تشتت در دستگاه حکومتی ایران است."
+        ],
+        "impact": "مذاکرات می‌تواند راهی برای کاهش تنش باشد اما بی‌اعتمادی داخلی و تداوم ابزار فشار خارجی شانس موفقیت بلندمدت را به شدت محدود می‌کند.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/03/29/iran-war-pakistan-talks-trump/",
+        "clean_url": "https://time.com/article/2026/03/29/iran-war-pakistan-talks-trump",
+        "image": null,
+        "timestamp": 1774787940.0
     },
     {
         "title_fa": "پاپ لئو رهبران را به استفاده از دین برای توجیه جنگ متهم کرد؛ درگیری‌ها در ایران ادامه دارد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLUhVMEpadUE0SzJpVDNuYVBfcmpIZVZ1eXN6RmRIMDlnaU5wQVN3M0tDMDhPN0Q1MHJWSjd0YjNDbU9kbGZtcXZRcXF6OFJ6VWFHYjUzMDNTWE1lWGVrdC1aX0JxaUVUVjRvdC10ZDladkVZYzlYNjZvc1huR09Ed3JtYnRPV2RqSVc5TDU1Nm5sZ1JwVG5yZGRuV0RpMTVENzBBTXVZUkZpUjM3akZfRV9n0gG3AUFVX3lxTE1ROGtBSWJOMW1GWGVGS3RVSjVvZWpqWURTOEhUVTFaQ0wzTjNaSG9UV3d2N3pubk02SkxZU0tXd3E4MEVzNDZFdTJ4NjhxT2Y4d2hKUEhUSW1WQ1JuVUo1aGx0T2RyX095b2pyUF9hX19pempYSUdRQ0thUllScTlLWkJHTGNYRG1yWHJmSU9nZ25FRXo1YmFEUUVldDlZc3ZycnY4OC04RElUdVZoZVhja1lrTUNzNA",
         "image": null,
         "timestamp": 1774439455.0
-    },
-    {
-        "title_fa": "دونالد ترامپ: اگر ایران قرارداد صلح ننویسد «جهنم را آزاد می‌کنم»، کاخ سفید می‌گوید",
-        "title_en": "Donald Trump will 'unleash hell' if Iran doesn't make peace deal, White House says",
-        "summary": [
-            "کاخ سفید (کارولین لیویت) اعلام کرد که آمریکا و ایران هنوز در حال گفت‌وگوهای صلح هستند؛ هم‌زمان رسانه‌های دولتی ایران گفته‌اند تهران طرح واشینگتن را رد کرده است.",
-            "گفت‌وگوهای هم‌زمان با تهدیدهای علنی نشان‌دهنده فشار خارجی مستمر بر ساختار قدرت در ایران است؛ این فشار ساختاری می‌تواند توان مدیریتی رژیم را تضعیف کند و بار اقتصادی و سیاسی بیشتری روی حکومت و طبقات ضعیف‌تر بگذارد.",
-            "سرایت تهدید نظامی و ابهام در نتایج مذاکرات، فضای عدم اطمینان را افزایش می‌دهد و ریسک کاهش سرمایه‌گذاری، اختلال در تجارت و افزایش نارضایتی عمومی را بالا می‌برد؛ این وضعیت نقاط ضعف مدیریت حکومتی را عیان می‌کند."
-        ],
-        "impact": "تهدید علنی آمریکا ریسک تشدید تنش نظامی و فشار فوری بر دیپلماسی و اقتصاد ایران را بالا می‌برد و وضعیت شکننده کنونی رژیم را تشدید می‌کند.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/en-in/news/world/donald-trump-will-unleash-hell-if-iran-doesn-t-make-peace-deal-white-house-says/ar-AA1ZouMX",
-        "clean_url": "https://www.msn.com/en-in/news/world/donald-trump-will-unleash-hell-if-iran-doesn-t-make-peace-deal-white-house-says/ar-AA1ZouMX",
-        "image": "http://www.bing.com/th?id=ONUT.C0pjCEY3NdTf-JnXmKZN3g&pid=News",
-        "timestamp": 1774439093.0
-    },
-    {
-        "title_fa": "آغاز ضرب‌الاجل پنج‌روزه ترامپ؛ ایران ادعای مذاکرات «بسیار خوب» را کم‌اهمیت می‌خواند",
-        "title_en": "Trump's 5-day pause kicks off as Iran downplays claims of 'very good' talks",
-        "summary": [
-            "دولت ترامپ به‌طور گزارش‌شده پنجره پنج‌روزه‌ای برای پایان درگیری با ایران تعیین کرده و خواستار بازگشایی فوری تنگه هرمز شده؛ تهران اما ادعای «مذاکرات بسیار خوب» را کم‌اهمیت جلوه می‌دهد.",
-            "فشار خارجی بر باز کردن تنگه هرمز اهرمی مستقیم علیه توان اقتصادی و صادراتی رژیم است؛ این نوع تهدید عملیاتی می‌تواند هزینه‌های نظامی را افزایش دهد و هرگونه امتیازدهی سریع، مشروعیت سیاسی حاکمیت را تضعیف کند.",
-            "گزارش هیچ اشاره‌ای به اعتراضات داخلی نکرده اما متمرکز شدن تهدیدات خارجی و مخاطرات اقتصادی قابل‌تصور، احتمال افزایش نارضایتی عمومی را بالا می‌برد و شکست مدیریت بحران را برجسته می‌سازد."
-        ],
-        "impact": "ضرب‌الاجل پنج‌روزه فشار خارجی را متمرکز می‌کند و بسته به واکنش ایران می‌تواند سریعاً به تشدید نظامی منجر شود یا با عقب‌نشینی رژیم، مشروعیت داخلی آن را به شدت تضعیف کند.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/trump-5-day-pause-iran-israel-war-updates-march-24",
-        "clean_url": "https://www.foxnews.com/live-news/trump-5-day-pause-iran-israel-war-updates-march-24",
-        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/03/6bfe957251f0d7b15f93e3f59583302a.jpg",
-        "timestamp": 1774437840.0
     }
 ]
