@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "جنگ ایران: سپاه می‌گوید دانشگاه‌های آمریکا در خاورمیانه در معرض خطرند",
+        "title_en": "Iran war: IRGC says US campuses in Middle East at risk",
+        "summary": [
+            "سپاه پاسداران اعلام کرده دانشگاه‌ها و مراکز مرتبط با آمریکا در خاورمیانه در معرض هدف‌گیری قرار دارند؛ تهدید مستقیم علیه دارایی‌ها و کارکنان آمریکایی.",
+            "چنین اظهاراتی ریسک تشدید تقابل منطقه‌ای و واکنش نظامی یا اطلاعاتی آمریکا و متحدانش را بالا می‌برد و می‌تواند به افزایش تحریم‌ها و فشار خارجی منجر شود.",
+            "گزارش اشاره‌ای به اعتراضات داخلی نکرده است، اما این نوع تحریکات معمولاً بار اقتصادی و سیاسی را بر رژیم می‌افزایند و ثبات ساختاری آن را بیشتر تضعیف می‌کنند."
+        ],
+        "impact": "این تهدیدها می‌توانند واکنش مستقیم آمریکا یا متحدانش را برانگیزند و از طریق تشدید تحریم‌ها و اختلال اقتصادی، ثبات سیاسی رژیم را بیشتر تضعیف کنند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "dw.com",
+        "url": "https://www.msn.com/en-us/news/world/iran-now-threatens-strikes-on-american-israeli-universities-if-this-is-not-done/ar-AA1ZDpjc",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-now-threatens-strikes-on-american-israeli-universities-if-this-is-not-done/ar-AA1ZDpjc",
+        "image": null,
+        "timestamp": 1774752126.0
+    },
+    {
+        "title_fa": "پنتاگون برای هفته‌ها عملیات زمینی در ایران آماده می‌شود",
+        "title_en": "Pentagon prepares for weeks of ground operations in Iran",
+        "summary": [
+            "واشنگتن‌پست گزارش داد پنتاگون خود را برای اجرای عملیات زمینی در ایران برای چند هفته آماده می‌کند.",
+            "آمادگی برای عملیات زمینی نشانه افزایش فوری خطر تقابل نظامی است و می‌تواند به تشدید بی‌ثباتی منطقه‌ای و فرسایش ساختاری ثبات داخلی بینجامد.",
+            "فشار نظامی مستقیم احتمال واکنش‌های داخلی و منطقه‌ای را بالا می‌برد و می‌تواند پویش‌های نارضایتی را تشدید کرده و کارایی حکمرانی را بیشتر زیر سوال ببرد."
+        ],
+        "impact": "تهدید نظامی مستقیم احتمال فروپاشی کنترل محلی و افزایش بحران سیاسی-اجتماعی را بالا می‌برد و ثبات کنونی حکومت را به‌شدت تضعیف می‌کند.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/pentagon-prepares-for-weeks-of-ground-operations-in-iran/ar-AA1ZD3El",
+        "clean_url": "https://www.msn.com/en-us/news/world/pentagon-prepares-for-weeks-of-ground-operations-in-iran/ar-AA1ZD3El",
+        "image": null,
+        "timestamp": 1774749896.0
+    },
+    {
+        "title_fa": "ترامپ بر اساس غریزه جنگ می‌کند و این روش کارآمد نبوده است",
+        "title_en": "Trump is waging war based on instinct and it isn't working",
+        "summary": [
+            "نویسنده می‌گوید تصمیمات جنگی ترامپ مبتنی بر غریزه و واکنش‌های آنی است، نه استراتژی منظم و حساب‌شده.",
+            "به گفته مقاله، این رویکرد عملاً نتیجه‌بخش نبوده و مانع تحقق اهداف راهبردی شده است.",
+            "اعتماد به تصمیمات شهودی می‌تواند اثربخشی فشار خارجی و هماهنگی با متحدان را تضعیف کند و ریسک محاسبات اشتباه و تشدید بحران‌ها را بالا ببرد."
+        ],
+        "impact": "پیامد فوری این وضعیت کاهش اعتماد متحدان و افزایش احتمال اشتباهات راهبردی و تشدید بی‌ثباتی در صحنه بین‌المللی است.",
+        "tag": "سیاست",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/world/trump-is-waging-war-based-on-instinct-and-it-isnt-working/ar-AA1ZCTfN",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-is-waging-war-based-on-instinct-and-it-isnt-working/ar-AA1ZCTfN",
+        "image": null,
+        "timestamp": 1774742566.0
+    },
+    {
         "title_fa": "موافقت ایران برای عبور ۲۰ کشتی پاکستانی از تنگه هرمز",
         "title_en": "Pakistan secures Iran deal to send 20 ships through Strait of Hormuz",
         "summary": [
@@ -70,6 +124,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-backed-houthis-join-war-with-attack-against-israel/ar-AA1ZCCgO",
         "image": null,
         "timestamp": 1774721912.0
+    },
+    {
+        "title_fa": "ادعاهای ایران درباره هدف‌گیری مرکز راداری اسرائیل، فرودگاه تل‌آویو و یک اف-16 آمریکایی",
+        "title_en": "Iran war news live updates: Iran says targeted Israel's radar centre, Tel Aviv airport; claims to have hit US F-16 jet",
+        "summary": [
+            "براساس گزارش Press TV، سپاه پاسداران و ارتش ایران مدعی شدند از سامانه‌های بردبلند و بردمتوسط و پهپادهای تهاجمی برای هدف‌گیری «چندین سایت» از جمله مرکز راداری اسرائیل و فرودگاه تل‌آویو استفاده کرده‌اند و ادعا کردند یک فروند اف-16 آمریکایی را هدف قرار داده‌اند؛ این ادعاها از سوی منابع خارجی تایید مستقل نشده است.",
+            "ادعای هدف‌گیری اهداف مرتبط با اسرائیل و یک جنگنده آمریکایی نشان‌دهنده جهش به سوی تقابل مستقیم بین ایران و بازیگران منطقه‌ای/فرامنطقه‌ای است و ریسک واکنش نظامی فوری یا افزایش اقدامات تلافی‌جویانه را بالا می‌برد.",
+            "در سطح داخلی، این نوع عملیات کوتاه‌مدت می‌تواند به‌طور موقت بهره‌مندی امنیتی برای رژیم ایجاد کند اما هم‌زمان آسیب‌پذیری ساختاری به‌واسطه افزایش فشارهای بین‌المللی، تشدید تحریم‌ها و تشدید مشکلات اقتصادی را افزایش می‌دهد و زمینه نارضایتی عمومی را تشدید می‌کند."
+        ],
+        "impact": "این عملیات ادعایی احتمالاً فشارهای بین‌المللی و خطر تنش نظامی مستقیم با اسرائیل و آمریکا را تشدید می‌کند و ثبات سیاسی-اقتصادی داخلی را بیشتر تضعیف خواهد کرد.",
+        "tag": "تصاعد",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Hindustan Times on MSN",
+        "url": "https://www.msn.com/en-in/news/world/iran-war-news-live-updates-iran-says-targeted-israel-s-radar-centre-tel-aviv-airport-claims-to-have-hit-us-f-16-jet/ar-AA1ZDv1N",
+        "clean_url": "https://www.msn.com/en-in/news/world/iran-war-news-live-updates-iran-says-targeted-israel-s-radar-centre-tel-aviv-airport-claims-to-have-hit-us-f-16-jet/ar-AA1ZDv1N",
+        "image": null,
+        "timestamp": 1774721243.0
     },
     {
         "title_fa": "در حالی که جنگ جریان دارد، سیاستمداران ایرانی برای خروج از معاهده سلاح‌های هسته‌ای فشار می‌آورند",
@@ -250,6 +322,24 @@
         "clean_url": "https://www.bloomberg.com/news/articles/2026-03-28/houthis-enter-war-as-iran-retaliates-over-nuclear-site-attacks",
         "image": null,
         "timestamp": 1774703714.0
+    },
+    {
+        "title_fa": "ایران عبور ۲۰ کشتی پاکستانی دیگر از تنگه هرمز را مجاز اعلام کرد؛ پاکستان: «گام معناداری به سوی صلح»",
+        "title_en": "Iran Allows 20 More Ships To Pass Through Strait Of Hormuz, Pakistan Says: ‘Meaningful Step Toward Peace’",
+        "summary": [
+            "ایران اجازه عبور ۲۰ کشتی پاکستانی دیگر از تنگه هرمز را صادر کرده است؛ معاون نخست‌وزیر پاکستان این اقدام را «پیش‌نشانه صلح» خوانده است و بازگشایی مسیر دریایی را اقدامی کلیدی توصیف کرده‌اند.",
+            "تحت فشارهای بین‌المللی و تحریم‌ها، این گونه امتیازدهی‌های محدود می‌تواند به عنوان ابزار دیپلماتیک برای کاهش تنش‌های منطقه‌ای و تضمین جریان تجارت هدفمند به کار رود، اما ظرفیت آن برای کاستن از فشار ساختاری تحریم‌ها محدود است.",
+            "در داخل ایران، چنین حرکت‌هایی احتمالاً برای نمایش تسلط رژیم بر مسائل امنیتی و نرمانمودن روابط با همسایگان به کار می‌رود؛ این تاکتیک تبلیغاتی ممکن است موقتا نارضایتی‌ها را کاهش دهد اما مشکل بنیادین مدیریت اقتصادی و مشروعیت سیاسی را حل نمی‌کند."
+        ],
+        "impact": "اثر عملی: کاهش کوتاه‌مدت تنش و افزایش اهرم دیپلماتیک منطقه‌ای برای رژیم، اما بدون توقع کاهش قابل‌توجه فشارهای اقتصادی و بی‌ثباتی ساختاری بلندمدت.",
+        "tag": "هرمز",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/saradorn/2026/03/28/iran-allows-20-more-ships-to-pass-through-strait-of-hormuz-pakistan-says-meaningful-step-toward-peace/",
+        "clean_url": "https://www.forbes.com/sites/saradorn/2026/03/28/iran-allows-20-more-ships-to-pass-through-strait-of-hormuz-pakistan-says-meaningful-step-toward-peace",
+        "image": null,
+        "timestamp": 1774703040.0
     },
     {
         "title_fa": "پهلوی: با رهبران کنونی ایران معامله نکنید",
@@ -682,6 +772,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw",
         "image": null,
         "timestamp": 1774674233.0
+    },
+    {
+        "title_fa": "به‌روزرسانی‌های اخیر جنگ با ایران پس از یک ماه: آمریکا؛ حدود یک‌سوم زرادخانه موشکی نابود شد",
+        "title_en": "The latest updates on the Iran war after a month",
+        "summary": [
+            "آمریکا اعلام کرده است که با قطعیت حدود یک‌سوم از زرادخانه موشکی ایران در جریان ماه اول نبرد تخریب شده است؛ جنگ وارد ماه دوم شده است.",
+            "تخریب گسترده موشکی نشان‌دهنده فشار نظامی و اطلاعاتی خارجی است که توان عملیاتی و بازدارندگی رژیم را هدف گرفته است.",
+            "کاهش ظرفیت موشکی می‌تواند هزینه‌های سیاسی و اقتصادی بیشتری برای رژیم ایجاد کند و موقعیت نظام را در معادلات منطقه‌ای ضعیف‌تر سازد."
+        ],
+        "impact": "نابودی نزدیک به یک‌سوم زرادخانه موشکی ضربه‌ای عملی به توان نظامی رژیم وارد کرده و فشار خارجی را بر تداوم اقتدار داخلی و ظرفیت پاسخ‌دهی آن افزایش می‌دهد.",
+        "tag": "تضعیف",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/03/28/nx-s1-5762815/the-latest-updates-on-the-iran-war-after-a-month",
+        "clean_url": "https://www.npr.org/2026/03/28/nx-s1-5762815/the-latest-updates-on-the-iran-war-after-a-month",
+        "image": null,
+        "timestamp": 1774673880.0
     },
     {
         "title_fa": "به‌روزرسانی زنده جنگ ایران-اسرائیل: ادعای ایران — بیش از ۵۰۰ نیروی آمریکایی کشته یا زخمی در یک ماه",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-fires-missile-salvo-trump-060110720.html",
         "image": "http://www.bing.com/th?id=ONUT.jpD57bb_J9AbWHf8EXOXjw&pid=News",
         "timestamp": 1774394700.0
-    },
-    {
-        "title_fa": "حملات هوایی به ایران هم‌زمان با حملات تهران به اسرائیل و کشورهای خلیج؛ دیپلماسی شتاب می‌گیرد",
-        "title_en": "Airstrikes hit Iran as it attacks Israel and Gulf states while diplomatic efforts accelerate",
-        "summary": [
-            "تشدید جنگ: حملات هوایی علیه خاک ایران در حالی انجام شد که موشک‌ها و پهپادهای ایرانی به اسرائیل و نقاط دیگر خاورمیانه اصابت کردند؛ ایالات متحده اعلام آماده‌سازی اعزام حدود ۱۰۰۰ نیروی لشکر 82 هوابرد و نیروهای بیشتر به منطقه کرده است.",
-            "دیپلماسی در میان آتش‌بس دشوار: دونالد ترامپ از گفت‌وگوها با ایران خبر داد اما تهران آن‌را تکذیب کرد؛ پاکستان میزبانی مذاکرات را پیشنهاد داد و چهره‌هایی مانند محمدباقر قالیباف، رئیس مجلس، به‌عنوان کانال احتمالی مطرح‌اند، ولی مشخص نیست چه نهاد یا فردی در ایران اختیار واقعی مذاکره دارد.",
-            "فشار اقتصادی و ساختاری: بسته شدن یا اختلال در تنگه هرمز بار حمل‌ونقل بین‌المللی را به‌هم زده و قیمت سوخت و ریسک اقتصادی جهانی را بالا برده؛ فشار نظامی و اختلال اقتصادی ظرفیت مالی و مدیریتی رژیم را تضعیف می‌کند."
-        ],
-        "impact": "اوایل پیامد: اوج‌گیری نظامی و اختلال اقتصادی انسجام سیاسی رژیم را کاهش و احتمال هدف‌گیری بیشتر رهبران و تشدید بی‌ثباتی داخلی را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/03/24/iran-war-israel-us/",
-        "clean_url": "https://www.baltimoresun.com/2026/03/24/iran-war-israel-us",
-        "image": "http://www.bing.com/th?id=ONUT.LFizy91-k1fYYWMS2b9Hiw&pid=News",
-        "timestamp": 1774392780.0
-    },
-    {
-        "title_fa": "واقعیت‌سنجی: کویت جنگ با ایران اعلام نکرد",
-        "title_en": "Fact Check: Kuwait Did NOT Declare War on Iran",
-        "summary": [
-            "کویت جنگ با ایران اعلام نکرد؛ ادعای انتشار یافته در شبکه‌های اجتماعی مبنی بر اعلان جنگ و حمله موشکی بی‌اساس است و گزارش‌های معتبر هیچ مدرکی برای آن نیافته‌اند.",
-            "کویت در ۱۶ اسفند ۱۴۰۴ (۷ مارس ۲۰۲۶) اعلام فورس ماژور کرد؛ اقدامی حقوقی-تجارتی برای معلق یا تاخیر در تحویل نفت و گاز به دلیل ناامنی منطقه‌ای در تنگه هرمز که حدود ۲۰٪ نفت جهان از آن عبور می‌کند.",
-            "پیامد عملی: فورس ماژور کویت هزینه‌های بیمه و ریسک حمل‌ونقل انرژی را بالا می‌برد و در صورت تداوم بی‌ثباتی می‌تواند درآمدهای صادراتی منطقه‌ای را تضعیف کند؛ ادعاهای نادرست درباره اعلان جنگ اما خطر تشدید روانی و سیاسی را بدون پشتوانه واقعی ایجاد می‌کند."
-        ],
-        "impact": "اعلام فورس ماژور کویت، به‌عنوان یک اقدام حقوقی و تجاری، ریسک عملیاتی صادرات انرژی منطقه را افزایش می‌دهد و در صورت استمرار شرایط ناامن می‌تواند فشار مالی و سیاسی بیشتری بر ایران وارد کند.",
-        "tag": "اطلاعات‌نادرست",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/fact-check-kuwait-did-not-054021282.html",
-        "clean_url": "https://www.yahoo.com/news/articles/fact-check-kuwait-did-not-054021282.html",
-        "image": "http://www.bing.com/th?id=ONUT.9Y232OYONj_m8vpiSakj1g&pid=News",
-        "timestamp": 1774392720.0
-    },
-    {
-        "title_fa": "بستن پایگاه‌های آمریکایی در خلیج، غرامت برای حملات: مطالبات ایران در مذاکره احتمالی آتش‌بس با آمریکا",
-        "title_en": "Closure of American bases in Gulf, reparation for attacks: What Iran is demanding in potential truce deal with US",
-        "summary": [
-            "ایران خواستار بستن پایگاه‌های آمریکایی در خلیج و دریافت غرامت برای حملات به‌عنوان شرط آتش‌بس است.",
-            "ایالات متحده از طریق پاکستان یک طرح ۱۵ بندی برای آتش‌بس پیشنهاد کرده است که مذاکرات را از مسیر غیرمستقیم پیش می‌برد.",
-            "ماهیت بلندپروازانه خواسته‌های ایران احتمال دستیابی به توافق سریع را کاهش می‌دهد و می‌تواند روند تنش‌زدایی را به تأخیر اندازد."
-        ],
-        "impact": "این مطالبات سنگین روند توافق را پیچیده می‌کند و ریسک ادامه تنش منطقه‌ای و بن‌بست دیپلماتیک را افزایش می‌دهد.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Times of India on MSN",
-        "url": "https://www.msn.com/en-in/news/world/closure-of-american-bases-in-gulf-reparation-for-attacks-what-iran-is-demanding-in-potential-truce-deal-with-us/ar-AA1ZlGf1",
-        "clean_url": "https://www.msn.com/en-in/news/world/closure-of-american-bases-in-gulf-reparation-for-attacks-what-iran-is-demanding-in-potential-truce-deal-with-us/ar-AA1ZlGf1",
-        "image": "http://www.bing.com/th?id=ONUT.DKxhZQp4-Jz0hwwhqyFIaw&pid=News",
-        "timestamp": 1774390500.0
-    },
-    {
-        "title_fa": "آمریکا احتمال دیپلماسی با ایران را در پی افزایش هزینه‌های جنگ می‌بیند",
-        "title_en": "US Sees ‘Possibility of Diplomacy’ With Iran as War Costs Rise",
-        "summary": [
-            "بلومبرگ گزارش می‌دهد که واشنگتن اکنون «احتمال دیپلماسی» با ایران را به‌دلیل افزایش هزینه‌های جنگ مورد توجه قرار داده است.",
-            "افزایش هزینه‌های نظامی و سیاسی ناشی از جنگ واشنگتن را به بازنگری در راهبرد‌ها واداشته است؛ این تحول ریشه در فشارهای خارجی و هزینه‌های مستقیم درگیری دارد.",
-            "این گشایش دیپلماتیک می‌تواند به‌طور موقت فشارهای خارجی را کاهش و به حکومت فرصت تنفس بدهد، اما به‌تنهایی نشانه‌ای از اصلاح ساختاری ناکارآمدی‌های اقتصادی و سیاسی نیست."
-        ],
-        "impact": "احتمال مذاکره آمریکا ممکن است موقتا تاب‌آوری رژیم را افزایش دهد و فضای تنفسی بدهد، اما از بین بردن ضعف‌های ساختاری اقتصادی و سیاسی را تضمین نمی‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZm9RQU1yalVIdFh0NS1WejVsOTRzUWJwWEEwbzB5bUVlclBhSldKZmVWa3R2d2NLa0Y2TDJiRlJCTzNPM2EtdmZtSDEzZ05Od1VoVmV4Qm1HTEx6U084R1hFVXdkZnpjenA1UTVqQk5RazJlaTdjMTlPOGFOTWRXTUFzeTVpNF95aEwtdlZzZllwMXdqR0E1MDdmQ1Z4UU5GRnUzTV9nV3Z4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZm9RQU1yalVIdFh0NS1WejVsOTRzUWJwWEEwbzB5bUVlclBhSldKZmVWa3R2d2NLa0Y2TDJiRlJCTzNPM2EtdmZtSDEzZ05Od1VoVmV4Qm1HTEx6U084R1hFVXdkZnpjenA1UTVqQk5RazJlaTdjMTlPOGFOTWRXTUFzeTVpNF95aEwtdlZzZllwMXdqR0E1MDdmQ1Z4UU5GRnUzTV9nV3Z4Zw",
-        "image": null,
-        "timestamp": 1774390399.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید ایران در مذاکرات «هدیه‌ای» مرتبط با جریان‌های انرژی پیشنهاد داد",
-        "title_en": "Trump Says Iran Offered ‘Present’ Tied to Energy Flows in Talks",
-        "summary": [
-            "ترامپ اعلام کرده که ایران در جریان مذاکرات پیشنهادی را به‌عنوان «هدیه» مرتبط با جریان‌های انرژی مطرح کرده است.",
-            "اگر ادعا درست باشد، نشان می‌دهد رژیم از کنترل بر جریان‌های انرژی به‌عنوان اهرم ژئوپلیتیک و ابزار چانه‌زنی استفاده می‌کند؛ این امر هم فرصت و هم نقطه‌ضعفی برای مواجهه با تحریم‌ها ایجاد می‌کند.",
-            "تأثیرات داخلی اقتصادی احتمالی — از کاهش درآمدهای ارزی تا اختلال در عرضه انرژی و تشدید نارضایتی عمومی — ممکن است وجود داشته باشد، اما شواهد روشن درباره پیامدهای عملی هنوز منتشر نشده است."
-        ],
-        "impact": "ادعا می‌تواند موجب تشدید فشار بین‌المللی علیه تهران و افزایش حساسیت بازیگران منطقه‌ای نسبت به امنیت عرضه انرژی شود.",
-        "tag": "انرژی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Bloomberg.com",
-        "url": "https://www.msn.com/en-us/news/world/trump-says-iran-gave-present-tied-to-energy-flows-in-talks/ar-AA1ZjKjJ",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-gave-present-tied-to-energy-flows-in-talks/ar-AA1ZjKjJ",
-        "image": null,
-        "timestamp": 1774388101.0
-    },
-    {
-        "title_fa": "ترامپ: ونس و روبیو در مذاکرات با ایران برای پایان جنگ مشارکت دارند",
-        "title_en": "Trump says Vance and Rubio are participating in talks with Iran to end war",
-        "summary": [
-            "استقرار حدود ۱۰۰۰ نیروی 82nd Airborne آمریکا در خاورمیانه فشار نظامی واقعی بر تهران ایجاد می‌کند؛ این فشار ساختار امنیتی و ظرفیت مانور سیاسی رژیم را تضعیف کرده و هزینه‌های بین‌المللی و داخلی ادامه تقابل را بالا می‌برد.",
-            "مذاکرات به‌ادعای ترامپ به‌ریاست JD Vance و مارکو روبیو و اعلام تمایل تهران به شنیدن «پیشنهادات پایدار» نشانه آسیب‌پذیری استراتژیک رژیم است؛ پذیرش مذاکره نشان می‌دهد تهران برای خروج از وضعیت پرهزینه نظامی به امتیازدهی سیاسی فکر می‌کند.",
-            "اظهارات کیم جونگ اون که جنگ با آمریکا را توجیه‌کننده وضعیت هسته‌ای کره‌شمالی خواند؛ کره‌شمالی در اینجا نقش تسهیل‌کننده تبلیغاتی/راهبردی دارد که به تهران امکان می‌دهد بازدارندگی هسته‌ای و روایت مقاومت را توجیه کند بدون آنکه لزوماً ارتباط تسلیحاتی مستقیم اثبات شده باشد."
-        ],
-        "impact": "همگامی مذاکرات با تشدید حضور نظامی آمریکا نشان‌دهنده قرار گرفتن رژیم در موقعیت ضعف است؛ احتمال تشدید درگیری یا تحمیل معامله سیاسی از سوی تهران به‌منظور کاهش هزینه‌ها افزایش یافته است.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.65,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-25-26",
-        "clean_url": "https://edition.cnn.com/world/live-news/iran-war-us-israel-trump-03-25-26",
-        "image": "http://www.bing.com/th?id=ONUT.FgPIQyqvWu4reUP27Dse5Q&pid=News",
-        "timestamp": 1774386960.0
     }
 ]
