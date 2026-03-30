@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تفاوت ترامپ و رئیس اطلاعاتی تولسی گابارد درباره مسئله هسته‌ای ایران",
+        "title_en": "How Trump and Intelligence Chief Tulsi Gabbard Differ on Iran Nuclear Issue",
+        "summary": [
+            "مقاله به اختلاف مواضع بین دونالد ترامپ و تولسی گابارد در مقام رئیس اطلاعاتی درباره موضوع هسته‌ای ایران اشاره می‌کند و نشان می‌دهد که در رهبری آمریکا روی راهبرد واحد توافق کامل وجود ندارد.",
+            "اختلاف دیدگاه در واشینگتن می‌تواند مسیر فشار تحریمی یا اولویت‌های دیپلماتیک و نظامی علیه ایران را تغییر دهد؛ هر تغییر در جهت سخت‌تر شدن سیاست می‌تواند بار تحریمی و فشار ساختاری را افزایش دهد.",
+            "هرچند مقاله شواهد مستقیمی از پیامد داخلی ارائه نمی‌دهد، اما تغییرات احتمالی در سیاست خارجی آمریکا می‌تواند بر اقتصاد ایران و سطح نارضایتی عمومی تأثیر بگذارد و ظرفیت حکومت را برای مدیریت بحران‌های اقتصادی و اجتماعی کاهش دهد."
+        ],
+        "impact": "اختلاف مواضع کلیدی در رهبری آمریکا می‌تواند پنجره‌های دیپلماتیک را بسته یا باز کند و در صورت سخت‌تر شدن راهبرد، فشار اقتصادی و سیاسی بر رژیم ایران را افزایش داده و ثبات آن را تضعیف کند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Time Magazine",
+        "url": "https://time.com/article/2026/03/30/trump-tulsi-gabbard-differ-on-iran-war-nuclear-capabilities/",
+        "clean_url": "https://time.com/article/2026/03/30/trump-tulsi-gabbard-differ-on-iran-war-nuclear-capabilities",
+        "image": null,
+        "timestamp": 1774891209.0
+    },
+    {
         "title_fa": "«ایران هرگز سلاح هسته‌ای نخواهد داشت» — اظهارنظر سناتور مارکو روبیو در الجزیره",
         "title_en": "‘Iran will never acquire nuclear weapons’ Rubio tells Al Jazeera",
         "summary": [
@@ -180,6 +198,42 @@
         "timestamp": 1774869300.0
     },
     {
+        "title_fa": "به‌روزرساني زنده ایران: ترامپ از «روز بزرگ» با «حملات متعدد» علیه ایران سخن می‌گوید",
+        "title_en": "Iran live updates: Trump touts 'big day' in Iran with 'many' strikes",
+        "summary": [
+            "دونالد ترامپ اعلام کرد که در ۲۸ فوریه عملیات‌های رزمی گسترده‌ای توسط آمریکا و اسرائیل علیه سایت‌های نظامی و دولتی ایران انجام شد؛ علی خامنه‌ای در تهران کشته شد و مجتبی خامنه‌ای به عنوان جانشین انتخاب شد.",
+            "ایران به‌واسطه موشک و پهپاد به اسرائیل، پایگاه‌های منطقه‌ای آمریکا و چند کشور خلیج فارس حمله کرده و تلاش‌هایی برای مسدودسازی تنگه هرمز انجام داده است؛ اسرائیل نیز ضربات علیه حزب‌الله در لبنان را تشدید و عملیات زمینی در جنوب لبنان را گسترش داده است.",
+            "ناتو اعلام کرد یک موشک پرتاب‌شده از ایران در فضای ترکیه توسط سامانه‌های پدافندی خنثی شده است؛ نکته‌ای که نشان‌دهنده دخالت مستقیم بازیگران خارجی و ریسک گسترش مواجهه‌های بین‌المللی است."
+        ],
+        "impact": "حملات گسترده و اختلال در ترافیک دریایی، حتی بدون ذکر تحریم‌های جدید، مانند فشار خارجی ساختاری عمل می‌کند؛ این فشار توان مالی و عملیاتی رژیم را تضعیف، بحران رهبری و نشانگان ضعف در مدیریت حکمرانی را تشدید کرده و می‌تواند نارضایتی عمومی و فرسایش مشروعیت را تسریع کند.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/iran-live-updates-trump-touts-060512806.html",
+        "clean_url": "https://www.aol.com/articles/iran-live-updates-trump-touts-060512806.html",
+        "image": null,
+        "timestamp": 1774867620.0
+    },
+    {
+        "title_fa": "تهدید مجدد ترامپ به تاسیسات برق ایران؛ افزایش دوباره قیمت نفت",
+        "title_en": "Live Updates: Trump renews threat to Iran's power plants as war sends oil prices soaring again",
+        "summary": [
+            "ترامپ تهدید به تهاجم و مصادره نفت ایران و هدف قرار دادن تاسیسات برق این کشور را تجدید کرده است.",
+            "بازارهای انرژی همچنان ناپایدارند و قیمت نفت بار دیگر به‌خاطر تداوم جنگ و تهدیدهای نظامی افزایش یافته است.",
+            "همزمان اظهار نظر درباره امکان توافق سریع برای پایان جنگ، پیام‌های متناقضی فرستاده که ریسک تشدید درگیری و بی‌ثباتی سیاسی-اقتصادی را بالا می‌برد."
+        ],
+        "impact": "تهدیدهای مستقیم به تاسیسات حیاتی و منابع نفتی فشار خارجی بر رژیم را افزایش می‌دهد، احتمال تصاعد نظامی را بالا می‌برد و اختلالات اقتصادی بیشتری به‌بار می‌آورد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-uncertainty-oil-prices-strait-of-hormuz-houthis-red-sea",
+        "image": "http://www.bing.com/th?id=ONUT.g8h1MIsqKQyq5iu_9WQxhQ&pid=News",
+        "timestamp": 1774865940.0
+    },
+    {
         "title_fa": "ایران برای حمله زمینی احتمالی با ورود نیروهای آمریکایی به منطقه آماده می‌شود",
         "title_en": "Iran braces for ground assault as US troops arrive in region",
         "summary": [
@@ -268,6 +322,24 @@
         "clean_url": "https://www.thedailybeast.com/iran-trolls-trump-with-claim-he-is-gaming-the-markets",
         "image": "http://www.bing.com/th?id=ONUT.7RdxyMQ6p2ljay1Y07xaYw&pid=News",
         "timestamp": 1774858920.0
+    },
+    {
+        "title_fa": "خاموشی اینترنت ایران برای پنهان‌سازی خسارت حملات و سرکوب اعتراضات، به گفته مقامات اسرائیلی",
+        "title_en": "Iran's internet blackout hiding strike damage and suppressing dissent, Israeli officials say",
+        "summary": [
+            "مقامات اسرائیلی اعلام کرده‌اند خاموشی گسترده اینترنت در ایران با هدف پنهان کردن خسارت ناشی از حملات نظامی (از جمله حملات گزارش‌شده آمریکا و اسرائیل) و جلوگیری از انتشار اطلاعات میدانی برقرار شده است.",
+            "اطلاعات اسرائیلی این وضعیت را «خاموشی حقیقت» توصیف کرده و تاکید نموده رژیم از قطع شبکه برای مهار اطلاع‌رسانی درباره ضربات و سرکوب صدای معترضین بهره می‌برد.",
+            "قطع دسترسی دیجیتال پیامدهای فوری سیاسی و اقتصادی دارد: کاهش شفافیت، افزایش بی‌اعتمادی عمومی و تشدید امکان بی‌ثباتی که ضعف‌های ساختاری حکمرانی را آشکارتر می‌کند."
+        ],
+        "impact": "خاموشی اینترنت نشان‌دهنده تزلزل امنیتی و سیاسی رژیم است که برای پنهان‌سازی نتایج حملات و مهار نارضایتی‌ها دست به اقدامات انسدادی زده و در کوتاه‌مدت ثبات داخلی را تضعیف می‌کند.",
+        "tag": "خاموشی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/world/irans-internet-blackout-hiding-strike-damage-suppressing-dissent-israeli-officials-say",
+        "clean_url": "https://www.foxnews.com/world/irans-internet-blackout-hiding-strike-damage-suppressing-dissent-israeli-officials-say",
+        "image": "http://www.bing.com/th?id=ONUT.8cTJ02EQSJojsmDytvLp7g&pid=News",
+        "timestamp": 1774857780.0
     },
     {
         "title_fa": "مرگ علی‌رضا تنگسیری، فرمانده نیروی دریایی سپاه تأیید شد",
@@ -378,6 +450,24 @@
         "timestamp": 1774846680.0
     },
     {
+        "title_fa": "نماینده جمهوری‌خواه: کنگره باید درباره اعزام نیروهای زمینی به ایران تصمیم‌گیرنده باشد",
+        "title_en": "GOP Lawmaker Demands Congress ‘Have a Say’ on Ground Troops in Iran",
+        "summary": [
+            "نماینده‌ای که از حملات هوایی علیه ایران حمایت کرده، تأکید کرده اعزام نیروهای زمینی متعهدسازی متفاوتی است و مستلزم مداخله و تصویب کنگره است.",
+            "این موضع تلاش برای محدود کردن اختیارات اجرایی رئیس‌جمهور و قرار دادن مانع قانونی بر توسعه عملیات نظامی از هوایی به زمینی را نشان می‌دهد.",
+            "اگر پرونده اعزام زمینی باز شود، ریسک درگیری مستقیم و تشدید فشارهای بین‌المللی افزایش می‌یابد و پیامدهای امنیتی منطقه‌ای و سیاسی جدی خواهد داشت."
+        ],
+        "impact": "قبول این خواسته می‌تواند در کوتاه‌مدت از گسترش فوری عملیات زمینی جلوگیری کند، اما هر درگیری زمینی محتمل است تحریم‌ها و فشار بین‌المللی را تشدید و شکنندگی اقتصادی و نارضایتی داخلی در ایران را عمیق‌تر کند.",
+        "tag": "مداخله",
+        "urgency": 9,
+        "sentiment": 0.15,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/nancy-mace-insists-congress-should-have-a-say-on-ground-troops-in-iran-11754027",
+        "clean_url": "https://www.newsweek.com/nancy-mace-insists-congress-should-have-a-say-on-ground-troops-in-iran-11754027",
+        "image": "http://www.bing.com/th?id=ONUT._qElbKlWTIp9YNQycYSvlw&pid=News",
+        "timestamp": 1774846140.0
+    },
+    {
         "title_fa": "جنگ اولِ هوش مصنوعی: چگونه منازعه ایران روش جنگ‌افزارها را بازتعریف می‌کند",
         "title_en": "The First AI War: How The Iran Conflict Is Reshaping Warfare",
         "summary": [
@@ -484,6 +574,24 @@
         "clean_url": "https://nymag.com/intelligencer/article/all-of-the-iran-war-plans-are-bad-this-one-is-the-worst.html",
         "image": "http://www.bing.com/th?id=ONUT.Hhhak11Yro8YuzW3-xeCLQ&pid=News",
         "timestamp": 1774840500.0
+    },
+    {
+        "title_fa": "ترامپ ظاهراً رویکرد «براندازی» در ایران را پذیرفته و گفت آمریکا آن را با کشتن رهبر محقق کرده",
+        "title_en": "Trump Seems to Embrace ‘Regime Change’ in Iran, Saying U.S. Already Achieved It by Killing Leader",
+        "summary": [
+            "رئیس‌جمهور آمریکا مدعی شده که با کشتن رهبر ایران «براندازی رژیم» را بالفعل کرده، ادعایی که در حالی بیان شد که ایران همچنان در وضعیتی از تقابل نظامی با آمریکا قرار دارد.",
+            "این زبان‌ورزی رسمی واشنگتن، از منظر فشار خارجی، مرزهای توجیه سیاسی و حقوقی برای اقدامات تهاجمی‌تر، تحریم‌های هدفمند یا عملیات اطلاعاتی علیه ارکان حکومتی ایران را گسترش می‌دهد و ثبات ساختاری رژیم را تضعیف می‌کند.",
+            "اگرچه گزارش به شواهدی درباره اعتراضات داخلی اشاره‌ای نکرده، اما چنین ادعایی می‌تواند هم مشروعیت بین‌المللی حکومت را کاهش دهد و هم بهانه‌ای برای واکنش‌های سرکوبگرانه یا نظامی از سوی حاکمیت به‌منظور حفظ بقای خود فراهم آورد؛ هر دو مسیر ریسک بی‌ثباتی را افزایش می‌دهند."
+        ],
+        "impact": "این ادعا تنش سیاسی-نظامی را تشدید می‌کند و احتمال تشدید اقدامات متقابل یا فشارهای خارجی را بالا می‌برد که می‌تواند ثبات داخلی و بین‌المللی رژیم را به مخاطره اندازد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/03/30/trump-regime-change-iran/",
+        "clean_url": "https://time.com/article/2026/03/30/trump-regime-change-iran",
+        "image": "http://www.bing.com/th?id=ONUT.yqfl70bs-bG3H0pY7j5hUA&pid=News",
+        "timestamp": 1774839540.0
     },
     {
         "title_fa": "تهدید تصرف خارک از سوی ترامپ؛ تهدید نظامی در برابر دیپلماسی",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/26/iran-war-trump-israel-live-updates/89326321007",
         "image": "http://www.bing.com/th?id=ONUT.8r12Do3JtnmKH7oa_sxbhQ&pid=News",
         "timestamp": 1774511280.0
-    },
-    {
-        "title_fa": "اسرائیل به درخواست پاکستان عراقچی و قالیباف را از فهرست هدف‌ها حذف کرد، مقام پاکستانی می‌گوید",
-        "title_en": "Israel took Iran's Araqchi, Qalibaf off hit-list on Pakistan request, Pakistani official says",
-        "summary": [
-            "مقام پاکستانی اعلام کرده که اسرائیل به درخواست پاکستان نام‌های عراقچی و قالیباف را از فهرست هدف‎هایش حذف کرده است.",
-            "این گزارش نشان می‌دهد پاکستان توانسته در تصمیم‌گیری‌های مربوط به هدف‌گیری خارجی نقش میانجی یا فشار دیپلماتیک ایفا کند و اسرائیل به این درخواست پاسخ داده است.",
-            "حذف این نام‌ها از فهرست هدف‌ها هم به‌عنوان یک محاسبه راهبردی دیده می‌شود و هم ضعف احتمالی امنیت بین‌المللی و آسیب‌پذیری مقامات ایرانی را برجسته می‌کند."
-        ],
-        "impact": "این اقدام نفوذ میانجیگری پاکستان در مسائل امنیتی را نشان می‌دهد و می‌تواند تصویر ناتوانی سیاسی-امنیتی رژیم در محافظت از مقامات را تقویت کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWRqbGduSHA3LXJPTjA3dmpwdzhkSFQwUzRuODRqNzIydkZPeHhnOC1oZk5Ic0VibVd5VlNuY3NqUHkxYzliZ0phWlVyZGlWR0N6Qmd3bmFacE9wRmV1Z0hFSUNMZUE4ZFV3WE5DUTd3TUlod09YVHBmREJxRlN0c2M4SkFrVjZ2TlZwQ1QzS3FFeHJQaVJfQ0t4ZWdaZ1hacG9EUVc3S0FDRkFUZ0puMW5WNndRTWZUU01BUEhRWEFYZ3l4WmpF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONWRqbGduSHA3LXJPTjA3dmpwdzhkSFQwUzRuODRqNzIydkZPeHhnOC1oZk5Ic0VibVd5VlNuY3NqUHkxYzliZ0phWlVyZGlWR0N6Qmd3bmFacE9wRmV1Z0hFSUNMZUE4ZFV3WE5DUTd3TUlod09YVHBmREJxRlN0c2M4SkFrVjZ2TlZwQ1QzS3FFeHJQaVJfQ0t4ZWdaZ1hacG9EUVc3S0FDRkFUZ0puMW5WNndRTWZUU01BUEhRWEFYZ3l4WmpF",
-        "image": null,
-        "timestamp": 1774510020.0
-    },
-    {
-        "title_fa": "مجموعه: ایران، اسرائیل و ایالات متحده در جنگ (عملیات ۲۰۲۵–۲۰۲۶) — Just Security",
-        "title_en": "Collection: Iran, Israel and the United States at War (2025-2026 Operations)",
-        "summary": [
-            "این مجموعه گزارشی از عملیات نظامی و امنیتی بین ایران، اسرائیل و ایالات متحده در دورهٔ ۲۰۲۵–۲۰۲۶ است که به رویه‌های اجرایی، پیامدهای راهبردی و چارچوب‌های حقوقی می‌پردازد؛ با این حال بدون متن کامل نمی‌توان جزئیات عملیات را تأیید کرد.",
-            "در مواجهه با فشارهای خارجی و تحریم‌ها، منطقاً چنین درگیری‌هایی و محدودیت‌های اقتصادی ساختاری ظرفیت مالی رژیم را تضعیف می‌کند؛ این تضعیف هزینه‌های نظامی و حمایت از پروکسی‌ها را سنگین‌تر کرده و تاب‌آوری سیاسی و اقتصادی داخلی را کاهش می‌دهد.",
-            "ترکیب جنگ، ناکارآمدی مدیریتی و فرسایش اقتصادی، روند نارضایتی عمومی را تسریع می‌کند؛ اگر مجموعه به شواهد میدانی پرداخته باشد، باید انتظار تشدید اعتراضات و فشار بر نهادهای حکومتی را داشت ـ اما بدون متن‌های تحلیلی دقیق جزئیات قابل اثبات نیست."
-        ],
-        "impact": "این مجموعه نشان می‌دهد که درگیری‌های مستقیم ۲۰۲۵–۲۰۲۶ خطر فرسایش توان اقتصادی و سیاسی رژیم را بالا برده و ریسک تشدید بی‌ثباتی داخلی و گسترش جنگ منطقه‌ای را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Just Security",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoSVdUeXVkem5oeFB6SzlYa0xrbmpSVXdlWDdrX3dhbG5vWFNvZ1ZLXzR6U0N1WVMyekQ0RzY2UXgwRWdwU0E2ZXRIbXZwaWN2eTZRbkU4M1N2X25xMjY0RjQ4WFdvdEc2VHhkbXpONWJYWEo2TzBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoSVdUeXVkem5oeFB6SzlYa0xrbmpSVXdlWDdrX3dhbG5vWFNvZ1ZLXzR6U0N1WVMyekQ0RzY2UXgwRWdwU0E2ZXRIbXZwaWN2eTZRbkU4M1N2X25xMjY0RjQ4WFdvdEc2VHhkbXpONWJYWEo2TzBB",
-        "image": null,
-        "timestamp": 1774504170.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ ایران: تهدیدات جدید ترامپ و تشدید تلاش‌ها برای فشار بر ایران",
-        "title_en": "Iran War Live Updates: Trump Delivers New Threats, Escalating Effort to Pressure Iran",
-        "summary": [
-            "دونالد ترامپ تهدید جدیدی مطرح کرد و به مقام‌های ایرانی هشدار داد پیش‌نهاد صلح او را «قبل از اینکه دیر شود» در نظر بگیرند.",
-            "او گفت هنوز تصمیم نگرفته است که آیا مهلت یا مؤلفه‌های مرتبط با پیشنهادش را تمدید کند؛ علامتی از فشار زمان‌بندی‌شده سیاسی از سوی واشنگتن.",
-            "تشدید مواضع سیاسی-دیپلماتیک ایالات متحده احتمال افزایش فشار اقتصادی و نظامی بر تهران را بالا می‌برد و توان واکنش رژیم را تحت فشار قرار می‌دهد."
-        ],
-        "impact": "افزایش تهدیدات بیرونی در شرایطی که سوءمدیریت بلندمدت رژیم ظرفیت پاسخ‌دهی آن را تضعیف کرده، ثبات سیاسی و اقتصادی تهران را بیش از پیش شکننده کرده و خطر تشدید تنش یا انزوای بین‌المللی را افزایش می‌دهد.",
-        "tag": "تهدید",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil/nato-rutte-strait-of-hormuz",
-        "clean_url": "https://www.nytimes.com/live/2026/03/26/world/iran-war-israel-trump-oil/nato-rutte-strait-of-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.r46gl6x2dPxsu_X21dFeRg&pid=News",
-        "timestamp": 1774503240.0
-    },
-    {
-        "title_fa": "جنگ ایران به روایت نقشه‌ها و نمودارها",
-        "title_en": "The Iran war in maps and charts",
-        "summary": [
-            "عنوان نشان می‌دهد مقاله تصویری و داده‌محور است و با استفاده از نقشه‌ها و نمودارها خطوط نبرد، گستره جغرافیایی درگیری و روندهای کلیدی مرتبط با «جنگ ایران» را ترسیم می‌کند؛ بدون متن کامل نمی‌توان جزئیات را تأیید کرد.",
-            "در صورت وجود بخش‌هایی درباره تحریم‌ها یا فشار خارجی، این نمودارها باید بر تضعیف ساختاری اقتصاد و توان لجستیکی رژیم و پیامدهای سیاسی داخلی و اقتصادی ناشی از این فشارها دلالت کنند؛ هر تحلیل باید به شواهد درون‌مقاله متکی باشد.",
-            "هر ادعایی درباره اعتراضات داخلی، ناکارآمدی حکمرانی یا سقوط اقتصادی باید بر داده‌های نقشه‌ای و آماری مقاله استوار باشد؛ غیاب متن کامل اجازه نمی‌دهد روابط علّی یا آمار خاصی را فراتر از آنچه عنوان نشان می‌دهد معتبر بدانیم."
-        ],
-        "impact": "یک مروری تصویری می‌تواند نقاط ضعف لجستیکی و تغییرات جغرافیایی در میدان درگیری را برای ناظران و تصمیم‌گیرندگان روشن کند و بنابراین در ارزیابی ثبات رژیم و پیامدهای استراتژیک اهمیت دارد.",
-        "tag": "نقشه‌ها",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Economist",
-        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VOEx4LXZTV0R4WWNhdmcyQnBXSXpPcDRRTFgyZGF2ZTIwLVRCalRqRnNyLTBzS29WZFh3U1ZyZTZ3TW0yMUpHeUg5ZExtRjE5dEU3RlZLdFdoX0lCSHRXSU5LNEMyZTZHejQ0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VOEx4LXZTV0R4WWNhdmcyQnBXSXpPcDRRTFgyZGF2ZTIwLVRCalRqRnNyLTBzS29WZFh3U1ZyZTZ3TW0yMUpHeUg5ZExtRjE5dEU3RlZLdFdoX0lCSHRXSU5LNEMyZTZHejQ0",
-        "image": null,
-        "timestamp": 1774502474.0
-    },
-    {
-        "title_fa": "ترامپ: ایران «خیلی» خواهان توافق است؛ کاخ سفید: کمپین «بسیار نزدیک» به دستیابی به اهداف",
-        "title_en": "Trump: Iran wants deal ‘so badly’; White House says campaign ‘very close’ to meeting goals",
-        "summary": [
-            "اظهارنظر ترامپ مبنی بر اینکه ایران «خیلی» خواهان توافق است، از دید ایالات متحده نشانه‌ای از تضعیف جایگاه چانه‌زنی رژیم در مذاکره است؛ این ادعا نشان می‌دهد واشنگتن باور دارد فشارها کارساز بوده‌اند.",
-            "کاخ سفید می‌گوید کمپین فشار «بسیار نزدیک» به اهداف است؛ تعبیر عملی این گزاره، ادامه یا تشدید اقدامات فشار خارجی برای وادار کردن رژیم به امتیازدهی است که می‌تواند ساختارهای اقتصادی و سیاسی را هدف گیرد.",
-            "حتی بدون جزئیات بیشتر، این دو بیان کنار هم حکایت از افزایش هزینه‌های اقتصادی و سیاسی برای حکومت دارد؛ چنین فشارهایی غالباً نارضایتی عمومی را تشدید و ضعف مدیریتی را برجسته می‌کنند."
-        ],
-        "impact": "این اظهارات نشان می‌دهد فشارهای خارجی ممکن است توان چانه‌زنی رژیم را کاهش داده و گزینه‌های داخلی آن را محدود کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnZLYTFmU3NKTWtMdXBfR3hKRDdGYzBsaHEtWWEybUdPVEEzSkJDTDh6WUxJU3ZLN3NWX29vVXYtcllyQnVQT0R1M29ncWdvR3dNcFc2R1R6VGRZQUY2ZFd5VUNGVGlvNUF5UUNyT0oydTZwTmhWaF9qQWwyNTZiVGhleC0zX2ZBRzJmbXlaMTFJMHhrbm5fU3k1RHpMNF90Uk1FN3UyTzZBc1dMNmM0M21vUlkwd9IBuwFBVV95cUxNSXA2Nm1wZmxpak41TmlaZGIyQ0dEWENrQ2FHV3dpejQ5b1VBOE9BMUNJaGRiQXNFS19NUmhpdDA0WmpLWXB5MVhpQW40aG80M25yb1FQWG1vQjlfUWUtMlkyVWw3OU1Zdy1PSmIwNjhmTlMycUFpZXU1SGdidTB0RVhaWjFLQ3MxdDFJUXZ2c3M2OUJFNmdFbE1KUzF1Mml1MWtxT0hoRWo4bmwxMUxoeTY5QXdtcF8wRllN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnZLYTFmU3NKTWtMdXBfR3hKRDdGYzBsaHEtWWEybUdPVEEzSkJDTDh6WUxJU3ZLN3NWX29vVXYtcllyQnVQT0R1M29ncWdvR3dNcFc2R1R6VGRZQUY2ZFd5VUNGVGlvNUF5UUNyT0oydTZwTmhWaF9qQWwyNTZiVGhleC0zX2ZBRzJmbXlaMTFJMHhrbm5fU3k1RHpMNF90Uk1FN3UyTzZBc1dMNmM0M21vUlkwd9IBuwFBVV95cUxNSXA2Nm1wZmxpak41TmlaZGIyQ0dEWENrQ2FHV3dpejQ5b1VBOE9BMUNJaGRiQXNFS19NUmhpdDA0WmpLWXB5MVhpQW40aG80M25yb1FQWG1vQjlfUWUtMlkyVWw3OU1Zdy1PSmIwNjhmTlMycUFpZXU1SGdidTB0RVhaWjFLQ3MxdDFJUXZ2c3M2OUJFNmdFbE1KUzF1Mml1MWtxT0hoRWo4bmwxMUxoeTY5QXdtcF8wRllN",
-        "image": null,
-        "timestamp": 1774500607.0
-    },
-    {
-        "title_fa": "وال‌استریت ژورنال: ترامپ به همکاران گفت تقابل با ایران را در هفته‌های آتی جمع‌بندی کنند",
-        "title_en": "Wall Street Journal: Trump Tells Aides to Wrap Up Iran Conflict in Coming Weeks",
-        "summary": [
-            "گزارش وال‌استریت ژورنال می‌گوید ترامپ از مشاوران خواسته ظرف هفته‌های آتی تقابل با ایران را به نتیجه برسانند؛ متن گزارش جزئیات عملیات یا اهداف مشخص را فاش نمی‌کند.",
-            "تحلیل اثرات فشار خارجی: تصمیم برای جمع‌بندی سریع می‌تواند فشار نظامی و سیاسی فوری بر رژیم را کاهش دهد و فرصت نفس‌گیری کوتاه‌مدت ایجاد کند، اما اطلاعات ناکافی است تا ادعا شود این تحول ساختار ضعف اقتصادی-سیاسی رژیم را به‌طور پایدار تغییر می‌دهد.",
-            "نقش بازیگران خارجی دیگر در گزارش ذکر نشده است و از منظر داخل کشور، اگر تنش فروکش کند ممکن است موقتا نارضایتی عمومی و فشار اقتصادی کاهش یابد، اما سوءمدیریت ساختاری و سرکوب سیاسی همچنان مشکل‌ساز باقی می‌ماند."
-        ],
-        "impact": "اگر پیام جمع‌بندی جدی باشد، واشنگتن می‌تواند فشار نظامی-سیاسی فوری را کاهش دهد و به رژیم فرصت بازتنظیم بدهد اما این امر به‌تنهایی توانایی تغییر بنیادین آسیب‌پذیری‌های داخلی رژیم را ندارد.",
-        "tag": "خاتمه",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNTWRFeUNCSF9JX3BNUjRpUHZMZ2xvNWRqXzlOSExDaUx4UnIzdHVrZTlZaHQyUzNXdFU0RENmZkdmWXRlX3NCV2xJSFFILXdnLV8wOWZIODMyVlhHYnE4TWpsLThyNW4xb29yMzNhS3AzUjB2dFh5X1VrcHRVOElXQUthXzdvdUZiRFVvV3YwVVYxako4ZDFKWUpHQ2JvTzdRR1BhVWlzR2p2clpvamtOV1MteU5RVloyUHg5bUpValB1WC0zY0I4cFM0OWJveG1hN2hFT0JJd05WT0c1VHF0SGkwRzBuNU1WYUJFZjRLQXNXRW95Nm5Tb3NqRm5VNzBFSkhqWEphSmprS3p4TkpBRUpKaWZUaHE3LThpUnVFMA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxNTWRFeUNCSF9JX3BNUjRpUHZMZ2xvNWRqXzlOSExDaUx4UnIzdHVrZTlZaHQyUzNXdFU0RENmZkdmWXRlX3NCV2xJSFFILXdnLV8wOWZIODMyVlhHYnE4TWpsLThyNW4xb29yMzNhS3AzUjB2dFh5X1VrcHRVOElXQUthXzdvdUZiRFVvV3YwVVYxako4ZDFKWUpHQ2JvTzdRR1BhVWlzR2p2clpvamtOV1MteU5RVloyUHg5bUpValB1WC0zY0I4cFM0OWJveG1hN2hFT0JJd05WT0c1VHF0SGkwRzBuNU1WYUJFZjRLQXNXRW95Nm5Tb3NqRm5VNzBFSkhqWEphSmprS3p4TkpBRUpKaWZUaHE3LThpUnVFMA",
-        "image": null,
-        "timestamp": 1774499460.0
     }
 ]
