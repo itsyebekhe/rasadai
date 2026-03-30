@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "مرگ علی‌رضا تنگسیری، فرمانده نیروی دریایی سپاه تأیید شد",
+        "title_en": "Iran confirms death of IRGC Navy chief Alireza Tangsiri",
+        "summary": [
+            "ایران رسماً مرگ علی‌رضا تنگسیری، فرمانده نیروی دریایی سپاه، را تأیید کرد.",
+            "اطلاعات رسمی درباره زمان، مکان یا علت مرگ هنوز منتشر نشده که نشان‌دهنده فقدان شفافیت اطلاع‌رسانی رژیم است.",
+            "از دست رفتن یک فرمانده ارشد احتمالاً رقابت‌های جناحی برای جانشینی را تشدید و به‌طور موقت انسجام و توان عملیاتی نیروی دریایی را تضعیف می‌کند."
+        ],
+        "impact": "این رویداد شکاف رهبری و تضعیف موقت توان عملیاتی نیروی دریایی سپاه را تشدید کرده و می‌تواند حوزه‌های نفوذ و کنترل دریایی را آسیب‌پذیرتر کند.",
+        "tag": "مرگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.military.com/daily-news/headlines/2026/03/27/Iran-Retaliation-Threat-Grows-After-Israeli-Strike-on-Naval-Chief",
+        "clean_url": "https://www.military.com/daily-news/headlines/2026/03/27/Iran-Retaliation-Threat-Grows-After-Israeli-Strike-on-Naval-Chief",
+        "image": null,
+        "timestamp": 1774856965.0
+    },
+    {
+        "title_fa": "اسرائیل میلیاردها دلار بودجه نظامی جدید تصویب کرد",
+        "title_en": "Iran war: Israel approves billions in new military funds",
+        "summary": [
+            "مقامات اسرائیلی تصویب چند میلیارد دلار بودجه نظامی جدید را اعلام کردند؛ اقدام مستقیم برای تقویت توان رزمی در مواجهه با تهدیدات مرتبط با ایران است.",
+            "این تصمیم فضای راهبردی علیه تهران را تنگ‌تر می‌کند و فشار خارجی را افزایش می‌دهد؛ تهران را وادار به تخصیص منابع بیشتر به حوزه دفاعی می‌سازد که اثرات ساختاری بر ثبات اقتصادی و قابلیت‌های حکمرانی خواهد داشت.",
+            "افزایش تهدید و نیاز به پاسخ‌های هزینه‌بر می‌تواند کسری بودجه، فشارهای تورمی و نارضایتی اجتماعی را تشدید کند؛ در صورت تداوم، این روند ریسک آسیب‌پذیری سیاسی و کاهش مشروعیت حاکمیت را بالا می‌برد."
+        ],
+        "impact": "تصویب این بودجه احتمال تشدید عملیات نظامی و افزایش فشار اقتصادی-سیاسی بر حاکمیت ایران را بالا می‌برد و می‌تواند ثبات داخلی را تضعیف کند.",
+        "tag": "تشدید",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFotSC1OSTZ4N0RoaFN3akhNZExadmVTcTlaVXRPaVpORlV4aVpqbEFodi0yOFQ5LUVQV2MxVkpqWkFRMENYLWVrZkFOZkx6WWhyZ2NidDRjZXh6NHpzT19oSkRtUlVPdDRoUS1GUWhLZWNjbGZ6Rm5UN2JfMlBvcmhmMGRoTUVhcVRvUWxtczVnaEpoVUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdFotSC1OSTZ4N0RoaFN3akhNZExadmVTcTlaVXRPaVpORlV4aVpqbEFodi0yOFQ5LUVQV2MxVkpqWkFRMENYLWVrZkFOZkx6WWhyZ2NidDRjZXh6NHpzT19oSkRtUlVPdDRoUS1GUWhLZWNjbGZ6Rm5UN2JfMlBvcmhmMGRoTUVhcVRvUWxtczVnaEpoVUE",
+        "image": null,
+        "timestamp": 1774850566.0
+    },
+    {
         "title_fa": "نگرانی سرمایه‌گذاران با ورود به هفته پنجم جنگ افزایش می‌یابد: جمع‌بندی بازارها",
         "title_en": "Investor Unease Builds Entering War’s Fifth Week: Markets Wrap",
         "summary": [
@@ -180,6 +216,24 @@
         "timestamp": 1774822955.0
     },
     {
+        "title_fa": "ترامپ تهدید به تصاحب نفت ایران و جزیره خارک",
+        "title_en": "Trump raises prospect of taking Iran’s oil and again weighs seizing Kharg Island",
+        "summary": [
+            "ترامپ در مصاحبه و اظهارات علنی احتمال مصادره نفت ایران و تصرف جزیره خارک — که نزدیک به ۹۰٪ صادرات نفت ایران را پردازش می‌کند — را مطرح کرد.",
+            "رییس مجلس ایران از برنامه‌ریزی پنهانی ایالات متحده برای حمله زمینی سخن گفت؛ تخریب یک فروند E-3 Sentry در حمله‌ای که به یک پایگاه سعودی زده شد، می‌تواند توانایی رصد دوربرد آمریکا را تضعیف کند.",
+            "بازارها فوری واکنش نشان دادند: قیمت نفت بالا رفت و شاخص‌های آسیایی افت کردند؛ هر ضربه به خارک ریسک تشدید قابل توجه تنش‌ها و اختلال عمیق اقتصادی برای ایران را دارد."
+        ],
+        "impact": "هر اقدام علیه خارک یا مصادره نفت به‌شکلی ساختاری منابع درآمدی رژیم را تضعیف کرده و می‌تواند به تشدید درگیری نظامی، فشارهای اقتصادی شدیدتر و افزایش ناسامانی سیاسی در داخل بینجامد.",
+        "tag": "نفت",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/03/30/world/live-news/iran-war-us-israel-trump",
+        "clean_url": "https://www.cnn.com/2026/03/30/world/live-news/iran-war-us-israel-trump",
+        "image": null,
+        "timestamp": 1774821420.0
+    },
+    {
         "title_fa": "حمله موشکی حوثی‌ها به اسرائیل؛ نگرانی از انسداد مسیرهای دریایی دریای سرخ",
         "title_en": "A Houthi missile attack on Israel raises concerns about Red Sea shipping routes being blocked",
         "summary": [
@@ -196,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUllEY3ZTREJibkgwZWV0aktqTzc5YkVWLWJSaGE5RkR2aTB1NGVtNU1pLUZ1bXByTEVsNXNJTGM2UmdSQ3hUemVGZXEtalg0OWVVV01GMFRUTjJidl9wSU9ITW1YUk9xdWhHbnpuWW5Ma0lnVDhFX3ZRMzZqZlBhNHo0ZjkyODRZT09fX1dQZldSLUc3cmQtLS1CcmgydFFCZWhBTVpUSTdEN3oyR3BWczFSWExXRWZER2JDUU1qYXJMZWVVQUNZ0gHMAUFVX3lxTE41dDQwSnFObW9EY1RlSjZuMVVqQnY5WktHZ2NCSDZoSy0xVTdkaVhRZFgxeUlfbkZwbG9mWC02Y2p5SWd6NExONHI5bGhSTkVtdV9GVEY2WVJvbTBvVFpOWUpkeTRSYlV5VFFqV2YtbS0zbEIwWWVFYmRTcmlZUEo3NHVaYzVfdXhnNXRtV1RuU0k4TzRVZHJ0R0dlWFpkaF8tMVdZcjZTNHVEOEc5OVpubXN6eUpwazJ3eGFENzQxTUwwUjM1MmEtOWdxWA",
         "image": null,
         "timestamp": 1774820292.0
+    },
+    {
+        "title_fa": "جنگ ترامپ با ایران در یک دوراهی سرنوشت‌ساز",
+        "title_en": "Trump’s Iran war is at a fateful fork in the road",
+        "summary": [
+            "تحلیل تحریم‌ها/فشار خارجی: مقاله صراحتاً تحریم‌ها را نام نمی‌برد؛ اما هشدار می‌دهد که تشدید نظامی و فشار بین‌المللی احتمالی می‌تواند کارآیی اقتصادی رژیم را کاهش و ثبات داخلی را تضعیف کند.",
+            "مسیر استراتژیک: یک ماه پس از آغاز، مقاله تأکید می‌کند که ورود نیروهای زمینی امریکا یا گسترش سریع درگیری، نقطه عطفی است که می‌تواند منجر به گسترش وسیع‌تر نبرد و پیامدهای ژئوپلیتیک فراتر از منطقه شود.",
+            "اقتصاد و نارضایتی داخلی: عکس‌ها و اشاره به «آتش‌سوزی اقتصادی جهانی» نشان می‌دهد آسیب ملموس به زیرساخت‌ها و اقتصاد شهری قابل توجه است و این شرایط می‌تواند فشار اجتماعی و نارضایتی را افزایش دهد."
+        ],
+        "impact": "در کوتاه‌مدت، شتاب گرفتن درگیری یا اعزام نیروی زمینی امریکا احتمال تشدید فروپاشی اقتصادی و فشار سیاسی بر رژیم و افزایش خطر گسترش منطقه‌ای را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/03/30/politics/trump-iran-pakistan-houthis-strait-of-hormuz-analysis",
+        "clean_url": "https://www.cnn.com/2026/03/30/politics/trump-iran-pakistan-houthis-strait-of-hormuz-analysis",
+        "image": null,
+        "timestamp": 1774818060.0
     },
     {
         "title_fa": "به‌روزرسانی جنگ ایران: دونالد ترامپ می‌گوید ایران اجازه عبور کشتی‌های نفتی بیشتری از تنگه هرمز را می‌دهد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://edition.cnn.com/2026/03/26/middleeast/iran-us-gulf-conflict-intl",
         "image": "http://www.bing.com/th?id=ONUT.Ir29Q-RVk7Emfn2gRzLQCw&pid=News",
         "timestamp": 1774472460.0
-    },
-    {
-        "title_fa": "ترامپ: مذاکرات با ایران ادامه دارد در حالی که آمریکا دو سوم کارخانه‌های مهمات کشور را هدف قرار داده است",
-        "title_en": "Trump says Iran negotiations ongoing as US strikes two-thirds of country's munitions plants",
-        "summary": [
-            "اعلام فرمانده نیروی دریایی آمریکا: بیش از دو‌سوم کارخانه‌های تولید مهمات ایران هدف قرار گرفته‌اند؛ این ضربات تدارکاتی ظرفیت نظامی و امکان تداوم تأمین مهمات را به‌طور ساختاری کاهش می‌دهد.",
-            "ترامپ می‌گوید مذاکره‌ها از طریق میانجی‌ها ادامه دارد و پاکستان پیشنهادی ۱۵ بندی برای آتش‌بس به تهران ارائه کرده است؛ هم‌زمان کاخ سفید هشدار داده در صورت بی‌نتیجه‌بودن گفتگوها حملات بیشتری انجام خواهد شد.",
-            "زمینه ژئوپولیتیکی پیچیده است: برنامه دیدار رئیس‌جمهور چین با ترامپ و نقش پاکستان به‌عنوان میانجی می‌تواند به عنوان ابزار متوازن‌کننده و پتانسیل معاضدت‌ برای تهران عمل کند، اما تا کنون هیچ شواهدی از حمایت مستقیم پکن برای خنثی‌سازی حملات نظامی آمریکا گزارش نشده است."
-        ],
-        "impact": "کاهش ساختاری ظرفیت تدارکاتی ایران از یک‌سو فشار اقتصادی و سیاسی را تشدید می‌کند و از سوی دیگر اعتبار اقتدار نظام را تضعیف می‌کند؛ این شرایط احتمال افزایش نارضایتی عمومی و فروپاشی کنترل محلی را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/live-updates-iran-receives-15-114714127.html",
-        "clean_url": "https://www.yahoo.com/news/articles/live-updates-iran-receives-15-114714127.html",
-        "image": "http://www.bing.com/th?id=OVFT.UapzHfMLhPGbuqWGV7CLpi&pid=News",
-        "timestamp": 1774471020.0
-    },
-    {
-        "title_fa": "واکنش ایران به طرح ۱۵ بندی آمریکا: «حداکثری و غیرمنطقی»",
-        "title_en": "Iran calls US proposal to end war ‘maximalist, unreasonable’",
-        "summary": [
-            "آمریکا از طریق پاکستان طرح ۱۵ بندی را که شامل موشک‌های بالیستیک، برنامه هسته‌ای و مسائل تنگه هرمز است به ایران ارائه کرد؛ یک مقام ایرانی به رویترز گفت پاسخ اولیه مثبت نبود و این پاسخ از طریق پاکستان به واشنگتن ارسال شده، در حالی که Axios گزارش داده دولت ترامپ هنوز پیام رسمی رد را دریافت نکرده است.",
-            "یک منبع دیپلماتیک ارشد ایرانی در گفت‌وگو با الجزیره طرح را «بسیار حداکثری و غیرمنطقی» توصیف کرد و تأکید شد تهران تنها در زمانی و با شرایط خود حاضر به پایان دادن به جنگ خواهد بود.",
-            "محورهای پیشنهادی درباره محدودسازی برنامه‌های موشکی و هسته‌ای و مقررات تردد در تنگه هرمز نشان می‌دهد واشنگتن به دنبال اعمال اهرم‌های راهبردی برای مهار ظرفیت‌های ایران است."
-        ],
-        "impact": "کوتاه‌مدت، رد یا غیرقابل قبول دانستن طرح توسط تهران احتمال دستیابی به توافق سریع را کاهش می‌دهد و فشار راهبردی و سیاسی علیه حکومت را افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-rejects-us-proposal-end-161930889.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-rejects-us-proposal-end-161930889.html",
-        "image": null,
-        "timestamp": 1774470833.0
-    },
-    {
-        "title_fa": "ایران فهرست مطالباتی به دونالد ترامپ فرستاد",
-        "title_en": "Donald Trump Reportedly Gets ‘List of Demands’ From Iran",
-        "summary": [
-            "گزارش‌ها می‌گویند ایالات متحده یک طرح صلح ۱۵ بندی به ایران ارائه کرده و در مقابل تهران فهرستی شامل درخواست غرامت جنگی، اختیار رسمی تنگه هرمز، عدم محدودیت برنامه موشکی و تضمین‌های عدم اقدام نظامی آینده را به ترامپ فرستاده است؛ ترامپ همچنین مدعی است مذاکراتی جریان دارد و تهدید به ادامه بمباران کرده است.",
-            "منابع آمریکایی از شرط آمریکا برای تعطیلی برنامه هسته‌ای ایران خبر داده‌اند و ترامپ ادعا کرده هدیه‌ای «مهم» از ایران دریافت کرده که مرتبط با نفت و گاز است؛ در مقابل ابراهیم ذوالفقاری، سخنگوی ایرانی، هرگونه مذاکره را تکذیب و آن را نوعی خودچالش‌نمایی خوانده است.",
-            "این تبادل طرح‌ها و مطالبات نشان‌دهنده تشدید فشار دیپلماتیک و اهرم‌سازی مسائل استراتژیک است: آمریکا در تلاش برای مهار ظرفیت هسته‌ای و نظامی است و ایران با درخواست تضمین امنیتی و مزایا تلاش می‌کند از موضع ضعف جلوگیری کند — نشانه‌ای از فشار بالای ساختاری بر رژیم و میدان مانور محدود آن."
-        ],
-        "impact": "این مبادله رسمیِ طرح‌ها و خواسته‌ها، رژیم را میان دو گزینهٔ واگذاری راهبردی یا تشدید نظامی قرار می‌دهد و بار فشار خارجی و سیاسی را بالا برده که ثبات نهادی و قدرت چانه‌زنی داخلی را تضعیف می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/donald-trump-reportedly-gets-list-020000091.html",
-        "clean_url": "https://www.aol.com/articles/donald-trump-reportedly-gets-list-020000091.html",
-        "image": null,
-        "timestamp": 1774469280.0
-    },
-    {
-        "title_fa": "ایران طرح ۱۵ بندی صلح آمریکا را رد کرد؛ رسانه‌های رسمی گزارش دادند",
-        "title_en": "Iran rejects US 15-point peace plan, state media report",
-        "summary": [
-            "رد رسمی طرح ۱۵ بندی آمریکا نشان‌دهنده اتخاذ موضع تهاجمی و غیرقابل انعطاف از سوی حکومت است؛ این واکنش امکان بهره‌گیری از مسیر دیپلماتیک برای کاهش فشارها را تضعیف می‌کند.",
-            "گزارش‌های منبع اشاره‌ای به نقش روسیه، چین یا کره‌شمالی نکرده‌اند؛ بنابراین باید پیامدهای بعدی فشار واشنگتن را مستقل از ادعاهای حمایت خارجی سنجید.",
-            "امتناع از پذیرش طرح در شرایطی که اقتصاد سال‌ها شکننده بوده است، امید عمومی به راه‌حل دیپلماتیک را کاهش داده و نشان‌دهنده ضعف مدیریتی و ناتوانی در مدیریت بحران‌های راهبردی است."
-        ],
-        "impact": "رد این طرح فضای دیپلماسی را محدود می‌کند و احتمال تشدید فشارهای دیپلماتیک و اقتصادی بر رژیم و کاهش گزینه‌های بازگشت به تعامل را افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taVBmcTZpVnJUNHZQXzJ3TDIzZUlXTV93U010ZkdHX043amJrSVVETEc3YXk2bFNrVzMwb21pZzhvdXRvTFdyU1A0NDhhNnhmaUt6UndVWndkUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4taVBmcTZpVnJUNHZQXzJ3TDIzZUlXTV93U010ZkdHX043amJrSVVETEc3YXk2bFNrVzMwb21pZzhvdXRvTFdyU1A0NDhhNnhmaUt6UndVWndkUQ",
-        "image": null,
-        "timestamp": 1774469221.0
     }
 ]
