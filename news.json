@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تداوم جنگ در ایران نگرانی‌ها درباره درد اقتصادی جهانی را تشدید کرد",
+        "title_en": "Worries about global economic pain deepen as the war in Iran drags on",
+        "summary": [
+            "ادامه درگیری‌ها در ایران فشار بر اقتصاد جهانی را بالا برده و ریسک اختلال در عرضه و افزایش هزینه‌ها را تقویت می‌کند؛ پیامدهای فرامرزی این جنگ، بازارها و زنجیره‌های تأمین را در معرض آسیب بیشتر قرار می‌دهد.",
+            "تحریم‌ها و فشار خارجی ساختارهای اقتصادی رژیم را تضعیف می‌کنند: کاهش درآمد ارزی و محدودیت در واردات کالاهای اساسی ظرفیت دولت برای مدیریت بحران را کاهش می‌دهد و نقطه آسیب‌پذیری حادتری ایجاد می‌کند.",
+            "در داخل کشور، حتی بدون شواهد قطعی از اعتراضات سراسری جدید، افت قدرت خرید و سوء‌مدیریت اقتصادی می‌تواند نارضایتی عمومی را تشدید کند؛ این فشاری است که احتمالاً رژیم را به سرکوب بیشتر یا بسیج منابع محدود سوق خواهد داد."
+        ],
+        "impact": "پیامد استراتژیک: تشدید هزینه‌های اقتصادی هم به کاهش مشروعیت داخلی می‌انجامد و هم انعطاف سیاسی و توان عملیاتی تهران را کاسته؛ نتیجه ممکن است افزایش سرکوب داخلی و تشدید بی‌ثباتی منطقه‌ای باشد.",
+        "tag": "اقتصاد",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://apnews.com/article/iran-us-israel-war-global-economy-oil-1bcb0c616c5ca2e1b6a903c2cd64a4e4",
+        "clean_url": "https://apnews.com/article/iran-us-israel-war-global-economy-oil-1bcb0c616c5ca2e1b6a903c2cd64a4e4",
+        "image": null,
+        "timestamp": 1774928262.0
+    },
+    {
+        "title_fa": "گزارش HRW: ایران بارها از مهمات خوشه‌ای بی‌تفکیک علیه اسرائیل استفاده کرده است",
+        "title_en": "HRW reports Iran repeatedly used indiscriminate cluster munitions on Israel",
+        "summary": [
+            "سازمان حقوق بشری HRW مدعی شده ایران بارها از مهمات خوشه‌ای با اثرات غیرتفکیک‌گر علیه اهداف در اسرائیل استفاده کرده است.",
+            "این اتهام می‌تواند به تشدید فشار دیپلماتیک و حقوقی و افزایش احتمال تحریم‌ها و انزوای بین‌المللی علیه تهران منجر شود.",
+            "ادامه چنین عملیات‌هایی منابع محدود کشور را به سمت ماجراجویی خارجی سوق می‌دهد، بار اقتصادی و نظامی را افزایش می‌دهد و ریسک تشدید نارضایتی عمومی و فرسایش قابلیت حکمرانی را بالا می‌برد."
+        ],
+        "impact": "گزارش HRW می‌تواند تسریع در تحریم‌ها و انزوای بین‌المللی را به دنبال داشته و احتمال بالا گرفتن درگیری‌های منطقه‌ای را افزایش دهد.",
+        "tag": "تصعيد",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Jurist.org",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEhjTmFVcnFkY01GQy1PNTByVDRtSGEyVnpERU5aa1c1MDRLdURxdWdnUzNuM1NIRkNfLVdJM25WTTJDOTVWZHlVSUNpakFyNHotWVp5M3d5NmxnQ1JHZzNHZlZIMTBNbWQtNFQweG03TzE4YTBiZDhlNVd0WmZDSXY1VmVTelNqbHYyXzJPRVRVSndWMWF4QlE3bEJ2QXZjUm9sUkc4eDRwT3RBSHF3YTRn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOEhjTmFVcnFkY01GQy1PNTByVDRtSGEyVnpERU5aa1c1MDRLdURxdWdnUzNuM1NIRkNfLVdJM25WTTJDOTVWZHlVSUNpakFyNHotWVp5M3d5NmxnQ1JHZzNHZlZIMTBNbWQtNFQweG03TzE4YTBiZDhlNVd0WmZDSXY1VmVTelNqbHYyXzJPRVRVSndWMWF4QlE3bEJ2QXZjUm9sUkc4eDRwT3RBSHF3YTRn",
+        "image": null,
+        "timestamp": 1774925771.0
+    },
+    {
         "title_fa": "برخلاف دیدگاه لئو، آموزه جنگ عادلانه کاتولیک از حمله به ایران حمایت می‌کند",
         "title_en": "Contra Pope Leo, Catholic Just War Doctrine Supports Iran Strikes",
         "summary": [
@@ -108,6 +144,24 @@
         "timestamp": 1774901179.0
     },
     {
+        "title_fa": "هم‌پیمانان خلیج به‌طور محرمانه از ترامپ خواستند جنگ را ادامه دهد تا ایران به‌طور قاطع شکست بخورد",
+        "title_en": "Gulf allies privately make the case to Trump to keep fighting until Iran is decisively defeated",
+        "summary": [
+            "منابع آمریکایی، خلیجی و اسرائیلی می‌گویند عربستان و امارات رهبری هم‌پیمانان خلیج را برعهده دارند و از رئیس‌جمهور ترامپ خواسته‌اند بمباران منظومه‌ای علیه ایران را ادامه دهد، زیرا به‌گفته آنها یک ماه حملات آمریکا و متحدانش نتوانسته تهران را به‌طور قاطع تضعیف کند.",
+            "فشار هماهنگ خلیجی-آمریکایی نشان می‌دهد متحدان منطقه‌ای خواهان تغییر در هدف‌گذاری عملیاتی و ادامه فشار نظامی تا نقطه‌ای هستند که آنها «شکست قاطع» ایران را تضمین کند؛ این خواست پتانسیل تبدیل اقدامات محدود به کمپین طولانی‌تر را بالا می‌برد.",
+            "این توصیه متحدان، ضعف‌های راهبردی تهران در مقابله با ضربات هوایی و فشار خارجی را برجسته می‌کند و هم‌زمان خطر تشدید درگیری منطقه‌ای و افزایش هزینه‌های سیاسی و اقتصادی برای رژیم حاکم را بالا می‌برد."
+        ],
+        "impact": "ادامه فشار نظامی و هماهنگی متحدان خلیج با واشینگتن می‌تواند توان نظامی و اقتصادی تهران را بیشتر تضعیف کند و هم‌زمان ریسک گسترش درگیری و تشدید نابسامانی سیاسی در منطقه را بالا ببرد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Pioneer Press",
+        "url": "https://www.twincities.com/2026/03/30/iran-us-gulf-countries/",
+        "clean_url": "https://www.twincities.com/2026/03/30/iran-us-gulf-countries",
+        "image": "http://www.bing.com/th?id=ONUT._MTlUYygnd9F8nFxaY5bzw&pid=News",
+        "timestamp": 1774900920.0
+    },
+    {
         "title_fa": "ترامپ تهدید کرد تاسیسات آب‌شیرین‌کن ایران را در صورت عدم توافق منفجر می‌کند",
         "title_en": "Trump threatens to ‘blow up’ desalination plants in Iran if no deal reached",
         "summary": [
@@ -124,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFkweENOdWFob2lDWDFLQWs0VmFYTVV2WFBaeWxzeGlxLTJmVW9tbTV0TFlPVWxVdmt0UkJqZjVrQTBoaHZOTm9taF9Jc1gyMlRxZ1NUMGllWkJoTGNjQmRRRHEtbkgyc1Fmd3hyWmtxdUZ0elB0N1R1Q1VEZ1l0RlRlMVVxSXkzeTh3Sk5mSWYwR0xjQkVNbDBNOGxCTTMz0gGmAUFVX3lxTE5haG1JUGxTdGNKSGRPZHJwMU9QRlYtcEV4WU51aE1wX1d0Ri1SX01iTmZ5WHJBTUl3RDFla2lFVTdjNk02c1d4VF9FZkxTTkMyXzk0UzZINlV2NC1wcXg4OWkxY0tDalBqVXo0T0N2eXE3Tlh2UWdlOE9oT0l5SGJOUHN1UEFqa19yTnBEYjA3OHdraThxNWVxNVM3UklwanB6VmU3Z2c",
         "image": null,
         "timestamp": 1774899675.0
+    },
+    {
+        "title_fa": "تانکر عظیم نفتی کنار دبی با حمله ایران آتش گرفت؛ ترامپ تهدید به نابودی تاسیسات نفتی ایران کرد",
+        "title_en": "Giant oil tanker off Dubai hit by Iranian strike, Trump threatens to obliterate Iran energy, oil plants",
+        "summary": [
+            "رویترز گزارش می‌دهد یک تانکر نفت خام کاملاً پر در نزدیکی دبی هدف حمله ایران قرار گرفت و به آتش کشیده شد؛ هم‌زمان دونالد ترامپ تهدید کرد بخش انرژی و تاسیسات نفتی ایران را نابود خواهد کرد.",
+            "تهدیدهای رئیس‌جمهور آمریکا و حمله مستقیم به کشتی تجاری، ریسک رویارویی نظامی و تشدید فشارهای بین‌المللی علیه تهران را بالا می‌برد و می‌تواند به موج جدیدی از تحریم‌ها و اختلال در خطوط کشتیرانی و بیمه نفتی بینجامد.",
+            "گزارش اشاره‌ای به اعتراضات داخلی یا پیامدهای اقتصادی در داخل ایران ندارد؛ با این حال چنین مجموعه فشارهای خارجی می‌تواند آسیب‌پذیری‌های اقتصادی ساختاری رژیم را تشدید کند و فضای سیاسی را برای دولت تنگ‌تر سازد."
+        ],
+        "impact": "این حادثه احتمال تشدید درگیری‌های منطقه‌ای، افزایش فشار اقتصادی و دیپلماتیک بر ایران و بی‌ثباتی بیشتر بازارهای انرژی را به‌طور همزمان تقویت می‌کند.",
+        "tag": "نفت",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/giant-oil-tanker-off-dubai-hit-by-iranian-strike-trump-threatens-to-obliterate-iran-energy-oil-plants/ar-AA1ZMmG1",
+        "clean_url": "https://www.msn.com/en-us/news/world/giant-oil-tanker-off-dubai-hit-by-iranian-strike-trump-threatens-to-obliterate-iran-energy-oil-plants/ar-AA1ZMmG1",
+        "image": "http://www.bing.com/th?id=ONUT.ptdDi4NgP8qb8MZ6qOljZg&pid=News",
+        "timestamp": 1774899473.0
     },
     {
         "title_fa": "تصویب محدودیت‌های جدید در تنگه هرمز توسط کمیسیون امنیتی مجلس ایران",
@@ -196,6 +268,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNm5CM2pzQ3RiZFpiUUtaX0pBZTVvUWd6THBUSDZtWGdhcjNRM0xSOHVJNWtRNkpDemVaUlBmSjAtaWFXODVPTkhZc1dFTHJsbkVPNW01elg1YzczMDloSExRTG5rd1BqSkhRQTAzMkFwbHBfc3ZxOXZqMGZFUjVfWVNKZ2pKX0xiR3FNZ2cyMFFwRUlTV293Vjh0TTlQa3ZNSEHSAacBQVVfeXFMT01RZ0dvU2NiLWZvSk0yM05jdmRUSTJZZWFjWlZsYUFQVjByZjAtb0xUQzgyUi10Zkpnb3ZNTUtBUktjV3dnOE9nT2hfXzZuYUZZbXk1dG1ReExXLTBCRjJrRFBOTkFpUF93OFdXVEpFYWJOOU02Y2hZV1ZROGlHeXZyNkRhTW56RDJpQ0dpZXBUaHlvZnV5WllnM1hqTkNuX0VRM0lSWms",
         "image": null,
         "timestamp": 1774894140.0
+    },
+    {
+        "title_fa": "قیمت نفت پس از اظهارات ترامپ درباره پایان جنگ ایران بازگشت نزولی داشت",
+        "title_en": "Oil prices reverse course to fall as traders assess Trump comments on Iran war",
+        "summary": [
+            "بازار: پس از اظهارات دونالد ترامپ مبنی بر تمایل به پایان عملیات حتی در صورتی که تنگه هرمز بسته بماند، قیمت‌های آتی نفت در معاملات آسیا از سقف‌های روزانه بازگشت و هر دو شاخص WTI و برنت کاهش یافتند.",
+            "تهدید نظامی: ترامپ قبلاً تهدید به هدف قرار دادن زیرساخت‌های انرژی ایران از جمله نیروگاه‌ها و تأسیسات نفتی و احتمالاً تأسیسات آب‌شیرین‌کن کرده است؛ گزارش‌ها همچنین حاکی است او گزینه اعزام نیروهای زمینی را بررسی کرده است—عناصر افزایش‌دهنده ریسک نظامی مستقیم.",
+            "روی زمین و عرضه: گزارش حمله تهران به یک نفتکش کویتی در لنگرگاه دبی نشان می‌دهد درگیری‌ها به بخش‌های حیاتی حمل‌ونقل انرژی کشیده شده‌اند؛ این تحرکات کوتاه‌مدت نوسان قیمت را تشدید کرده و تهدیدی واقعی برای درآمد نفتی رژیم محسوب می‌شوند."
+        ],
+        "impact": "افزایش احتمال تشدید مستقیم درگیری که می‌تواند درآمدهای نفتی رژیم را کاهش دهد و ثبات سیاسی–اقتصادی داخلی را بیش از پیش تضعیف کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/03/31/oil-price-today-wti-brent-trump-energy-sites-water-war-escalation-deal.html",
+        "clean_url": "https://www.cnbc.com/2026/03/31/oil-price-today-wti-brent-trump-energy-sites-water-war-escalation-deal.html",
+        "image": "http://www.bing.com/th?id=ONUT.V0N2wvg3FCHgOVnMD9VeRg&pid=News",
+        "timestamp": 1774893240.0
+    },
+    {
+        "title_fa": "آیا گفت‌وگو برای پایان جنگ با ایران جریان دارد؟ پاسخ به طرف بستگی دارد",
+        "title_en": "Are there talks to end the Iran war? Depends on which side you ask",
+        "summary": [
+            "رئیس‌جمهور دونالد ترامپ اعلام کرده که آمریکا در گفت‌وگو با ایران است.",
+            "تهران این ادعا را تکذیب کرده و می‌گوید مذاکره‌ای در حال انجام نیست.",
+            "تناقض رسمی بین دو طرف فضای ابهام راهبردی ایجاد کرده که می‌تواند به برآوردهای اشتباه و تشدید تنش منجر شود."
+        ],
+        "impact": "تناقض در اظهارات دو طرف عدم قطعیت راهبردی را تشدید می‌کند و خطر محاسبات اشتباه و تشدید درگیری را افزایش می‌دهد.",
+        "tag": "ابهام",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "NBC News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/are-there-talks-to-end-the-iran-war-depends-on-which-side-you-ask/ar-AA1ZLH0u",
+        "clean_url": "https://www.msn.com/en-us/news/world/are-there-talks-to-end-the-iran-war-depends-on-which-side-you-ask/ar-AA1ZLH0u",
+        "image": "http://www.bing.com/th?id=ONUT.1icubYkEmCH0WToKSIIYbw&pid=News",
+        "timestamp": 1774892962.0
     },
     {
         "title_fa": "تفاوت ترامپ و رئیس اطلاعاتی تولسی گابارد درباره مسئله هسته‌ای ایران",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.aol.com/articles/latest-trump-says-iran-eager-035342228.html",
         "image": "http://www.bing.com/th?id=ONUT.IC-i1kyRELWPLK_2zjEdxg&pid=News",
         "timestamp": 1774536840.0
-    },
-    {
-        "title_fa": "ترامپ «هدیه» ایران به آمریکا را آشکار کرد؛ دو روز پس از اظهارات مرموز",
-        "title_en": "Trump reveals Iran’s ‘present’ to US days after cryptic remarks",
-        "summary": [
-            "دونالد ترامپ «هدیه» ایران به ایالات متحده را فاش کرد؛ این افشا دو روز پس از اظهارات مبهم او درباره هدیه‌ای به ارزش «مقدار بسیار زیادی پول» صورت گرفت.",
-            "گزارش اشاره می‌کند که رئیس‌جمهور اطلاعات تکمیلی ارائه کرد اما متن منبع جزئیات دقیق هدیه را بیان نمی‌کند؛ تحلیل باید بر اساس اطلاعات محدود منتشرشده بماند.",
-            "افشای عمومی چنین انتقال مالی می‌تواند به عنوان توجیهی برای تشدید فشارها و تحریم‌های بیشتر از سوی آمریکا عمل کند و در داخل ایران نیز به عنوان نشانه‌ای از بار مالی رفتارهای خارجی حکومت استفاده سیاسی شود."
-        ],
-        "impact": "این افشا احتمالا به ابزارهای فشار خارجی علیه حکومت ایران قوت می‌بخشد و می‌تواند در داخل کشور باعث تشدید انتقاد نسبت به هزینه‌کردهای رژیم شود، هرچند جزئیات کامل هنوز مشخص نیست.",
-        "tag": "افشاگری",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "mlive",
-        "url": "https://www.mlive.com/politics/2026/03/trump-reveals-irans-present-to-us-days-after-cryptic-remarks.html",
-        "clean_url": "https://www.mlive.com/politics/2026/03/trump-reveals-irans-present-to-us-days-after-cryptic-remarks.html",
-        "image": "http://www.bing.com/th?id=ONUT.O5_PKfOmBYQLM3gkumYZBA&pid=News",
-        "timestamp": 1774535700.0
-    },
-    {
-        "title_fa": "ترامپ: «جِدی شوید پیش از آنکه خیلی دیر شود» — گزینه‌های نظامی برای خفه کردن درآمد نفتی ایران",
-        "title_en": "Iran war: 'Get serious before it is too late,' Trump warns",
-        "summary": [
-            "رئیس‌جمهور آمریکا با تهدید عمومی به حمله گسترده نظامی، از مقام‌های ایران خواست هرچه سریع‌تر به مذاکرات جدی تن دهند؛ منابع نظامی چهار گزینه اصلی را برای اعمال حداکثر فشار معرفی کرده‌اند: اشغال یا محاصره جزیره خارک، تصرف جزیره لارک، تصرف سه جزیره در ورودی غربی تنگه هرمز که مورد ادعای امارات است، و متوقف یا توقیف کردن نفتکش‌های حامل نفت ایران.",
-            "تحلیل ساختاری فشار خارجی: هدف این گزینه‌ها قطع یا مهار شاهرگ اقتصادی رژیم — صادرات نفت — است؛ چنین عملیاتی می‌تواند درآمدهای ارزی را به طور چشمگیر کاهش دهد، منابع بودجه‌ای برای دستگاه‌های امنیتی و نظامی را تضعیف کند و قابلیت بازگشت اقتصادی و سیاسی رژیم را کاهش دهد. گزارش اشاره‌ای به نقش تسهیل‌گرانه روسیه، چین یا کره شمالی ندارد.",
-            "پیامدهای داخلی و اقتصادی: هدف‌گیری هاب‌های صادرات نفتی فشار معیشتی را تشدید و تنگنای مالی حکومت را عمیق‌تر می‌کند؛ این امر می‌تواند شکاف‌های درون نخبگان و ریسک تشدید نارضایتی عمومی را افزایش دهد و همزمان احتمال گسترش بحران منطقه‌ای از طریق اختلال در عبور و مرور نفتی جهانی را بالا ببرد."
-        ],
-        "impact": "اجرای هر یک از این گزینه‌ها شاهرگ درآمدی رژیم را هدف می‌گیرد و سرعت فرسایش توان مالی و سیاسی حکومت را به طور معناداری افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "DW.com",
-        "url": "https://www.aol.com/news/trump-warns-iran-serious-peace-112702858.html",
-        "clean_url": "https://www.aol.com/news/trump-warns-iran-serious-peace-112702858.html",
-        "image": null,
-        "timestamp": 1774535351.0
-    },
-    {
-        "title_fa": "چرا ترامپ در پرونده ایران به کنگره نیاز دارد: پیامدها و مخاطرات",
-        "title_en": "Why Trump needs Congress on Iran in more ways than one: From the Politics Desk",
-        "summary": [
-            "پنتاگون خواستار لایحه اضطراری ۲۰۰ میلیارد دلاری برای جنگ شده است؛ رقمی که بزرگ‌تر از هر بودجه جداگانه‌ای است که برای افغانستان یا عراق تصویب شده بود.",
-            "ریاست‌جمهوری برای پیشبرد هر اقدام نظامی یا گسترش عملیات علیه ایران نیازمند تائید و پشتوانه سیاسی کنگره است؛ این نیاز، تصمیم‌گیری را به مباحث داخلی و تقسیمات حزبی در واشنگتن گره می‌زند.",
-            "درخواست چنین بودجه‌ای احتمال تشدید فشار خارجی و اقتصادی بر ایران را افزایش می‌دهد و فضا را برای حکومت تنگ‌تر می‌کند؛ این شرایط ریسک تشدید مشکلات اقتصادی و نارضایتی داخلی را بالا می‌برد."
-        ],
-        "impact": "پیشنهاد بودجه جنگی ۲۰۰ میلیارد دلاری واشنگتن فشار خارجی و اقتصادی را بر ایران تشدید می‌کند و توان مانور سیاسی و اقتصادی حکومت را کاهش می‌دهد، که می‌تواند نارضایتی‌های داخلی را عمیق‌تر کند.",
-        "tag": "فشار",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/politics-news/trump-needs-congress-iran-ways-one-politics-desk-rcna265354",
-        "clean_url": "https://www.nbcnews.com/politics/politics-news/trump-needs-congress-iran-ways-one-politics-desk-rcna265354",
-        "image": "http://www.bing.com/th?id=ONUT.AOsgNk7pG3JRac3gxcAleg&pid=News",
-        "timestamp": 1774534980.0
-    },
-    {
-        "title_fa": "آیا ترامپ دستور اشغال ایران را صادر خواهد کرد؟",
-        "title_en": "Will Trump Order an Invasion of Iran?",
-        "summary": [
-            "براساس گزارش‌ها، هنوز دستور فرود نیرو صادر نشده؛ برنامه‌ها در حال تدوین است و نخستین یگان رزمی — 31st Marine Expeditionary Unit — ظرف روزهای آینده به منطقه و تنگه هرمز می‌رسد؛ ترامپ ضرب‌الاجل توافق را تا شب ۶ آوریل تمدید کرده و در صورت عدم حصول توافق، احتمال تشدید نظامی بالا است.",
-            "پنتاگون در حال تدوین گزینه‌های «ضربه نهایی» است که طبق منابع شامل استفاده از نیروی زمینی و بمباران گسترده می‌شود؛ برخی مقامات آمریکایی بسته شدن تنگه هرمز را محرک اصلی برای تشدید قابل‌توجه می‌دانند.",
-            "ترامپ و مقامات ارشد حاضر ممکن است حضور زمینی وسیع را رسمی «اشغال» ننامند و مذاکرات را یا واقعاً ادامه دهند یا همانند حملات هوایی سال گذشته از آن به‌عنوان پوششی برای حملات استفاده کنند؛ جزیره خارگ به‌عنوان هاب حیاتی تجارت نفتی در کانون خطر قرار دارد."
-        ],
-        "impact": "یک تهاجم گسترده یا بسته شدن تنگه هرمز درآمد نفتی و صادرات ایران را هدف گرفته و فشار خارجی-اقتصادی را تشدید می‌کند که ثبات رژیم را به‌طور معناداری تضعیف خواهد کرد.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "New York Magazine",
-        "url": "https://nymag.com/intelligencer/article/will-trump-order-us-boots-ground-troops-invade-iran.html",
-        "clean_url": "https://nymag.com/intelligencer/article/will-trump-order-us-boots-ground-troops-invade-iran.html",
-        "image": "http://www.bing.com/th?id=ONUT.cs7K7a5QN07irbwHTckswQ&pid=News",
-        "timestamp": 1774533840.0
-    },
-    {
-        "title_fa": "یک پیروزی آمریکا در ایران چگونه است؟ نظرات ۲۸ عضو کنگره",
-        "title_en": "What Would a U.S. Win in Iran Look Like? We Asked Over Two Dozen Members of Congress",
-        "summary": [
-            "دیدگاه‌های متناقض کنگره: از ۲۸ عضو پرس‌وجو شده، برخی تنها «سرنگونی رژیم» را پیروزی می‌دانند و گروهی دیگر می‌گویند رویکردهای ترامپ جنگ را غیرقابل‌برد کرده‌اند.",
-            "فشار خارجی و تحریم‌ها: برخی نمایندگان تحریم‌ها و فشار دیپلماتیک را ابزار تضعیف ساختاری رژیم می‌دانند که منابع اقتصادی و قابلیت نهادها را فرسایش می‌دهد و می‌تواند ثبات سیاسی را تضعیف کند.",
-            "اقتصاد و نارضایتی داخلی: پاسخ‌ها منعکس‌کننده نگرانی نسبت به مدیریت ناکارآمد اقتصادی و سرکوب داخلی است؛ این عوامل همراه با فشار خارجی ظرفیت رژیم برای دوام در بحران‌ها را کاهش می‌دهد و پنجره‌ای برای تغییر سیاسی باز می‌کند."
-        ],
-        "impact": "نبود وفاق در کنگره درباره تعریف «پیروزی» نشان می‌دهد آمریکا راهبرد متحدی برای تغییر در ایران ندارد که هم فشارها را طولانی می‌کند و هم فرصت‌های فوری برای تغییر را پراکنده می‌سازد.",
-        "tag": "کنگره",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/03/26/we-asked-members-of-congress-what-winning-the-iran-war-would-look-like/",
-        "clean_url": "https://time.com/article/2026/03/26/we-asked-members-of-congress-what-winning-the-iran-war-would-look-like",
-        "image": "http://www.bing.com/th?id=ONUT.TqB0Qb2IezweuWHMxcd1EQ&pid=News",
-        "timestamp": 1774533000.0
-    },
-    {
-        "title_fa": "تقابل با ایران شک و تردیدها درباره دیپلماسی بی‌قاعده ترامپ را افزایش داد",
-        "title_en": "Standoff With Iran Raises Fresh Doubts About Trump’s Freestyle Diplomacy",
-        "summary": [
-            "گزارش نیویورک‌تایمز نشان می‌دهد که ارسال پیام به ایران از طریق ترکیبی از نزدیکان، اعضای خانواده، چهره‌های مسالمت‌طلب و جنگ‌طلب حکایت از فقدان یک راهبرد هماهنگ و زنجیره فرمان روشن در کاخ سفید دارد.",
-            "این سبک عملیاتیِ تکاپویی و پراکنده پیام‌های متناقض تولید می‌کند که هم احتمال اشتباه محاسباتی و تشدید بحران را بالا می‌برد و هم مانع استفاده موثر از ابزارهای فشار خارجی می‌شود.",
-            "افزایش فشار دیپلماتیک و تحریمی ــ اگر ادامه یابد ــ ساختارهای اقتصادی و سیاسی رژیم را بیشتر تحت فشار قرار می‌دهد؛ در غیاب سیاست خارجی منظم، این فشارها می‌توانند نارضایتی داخلی را تشدید و اهرم‌های دیرپا برای تغییر رفتار حکومت را پیچیده‌تر کنند."
-        ],
-        "impact": "دیپلماسی آشفته واشنگتن ریسک درگیری ناخواسته را افزایش می‌دهد و همزمان بر آسیب‌پذیری اقتصادی و سیاسی حکومت ایران می‌افزاید.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html",
-        "clean_url": "https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html",
-        "image": "http://www.bing.com/th?id=ONUT.YfXUh3wbdlAiTJqB4j7rKw&pid=News",
-        "timestamp": 1774532640.0
     }
 ]
