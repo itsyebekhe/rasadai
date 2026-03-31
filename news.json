@@ -180,6 +180,24 @@
         "timestamp": 1774962900.0
     },
     {
+        "title_fa": "رشد بی‌حوصلگی ترامپ نسبت به ایران؛ نشانه‌های خروج شتاب‌زده",
+        "title_en": "Trump’s exasperation over Iran grows, signaling hastened exit",
+        "summary": [
+            "اظهارات عمومی ترامپ که بازتاب نارضایتی خصوصی او نسبت به ادامه درگیری است، نشان می‌دهد که کاخ سفید تمایل کمتری به یک تعهد طولانی‌مدت نظامی دارد و احتمال خروج سریع‌تر را بالا برده است.",
+            "ادامه درگیری به ماه دوم و نبود دستاوردهای سیاسی ملموس، اراده بین‌المللی برای فشار پیوسته را تضعیف می‌کند؛ کاهش تمایل آمریکا به حضور میدانی می‌تواند کارآمدی فشار نظامی و دیپلماتیک علیه رژیم ایران را کاهش دهد.",
+            "در داخل ایران، پایان شتاب‌زده درگیری خارجی ممکن است فضای محاسبات سیاسی رژیم را تغییر دهد اما سوءمدیریت اقتصادی و نارضایتی عمومی ادامه دارد و همین ساختار ناکارآمد مسبب تداوم بحران مشروعیت است."
+        ],
+        "impact": "خروج شتاب‌زده احتمالاً فشار نظامی کوتاه‌مدت بر تهران را کاهش می‌دهد اما مانع از تشدید مشکلات اقتصادی و نارضایتی عمومی که پایه‌های بی‌ثباتی رژیم را تشکیل می‌دهند نخواهد شد.",
+        "tag": "خروج",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-s-exasperation-over-iran-grows-signaling-hastened-exit/ar-AA1ZRneo",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-s-exasperation-over-iran-grows-signaling-hastened-exit/ar-AA1ZRneo",
+        "image": "http://www.bing.com/th?id=ONUT.FswMjlGFpBjD99NiZsS7eg&pid=News",
+        "timestamp": 1774962107.0
+    },
+    {
         "title_fa": "حملات آمریکا به شهری در ایران میزبان تأسیسات هسته‌ای",
         "title_en": "US strikes Iran city home to nuclear site",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-keeps-strait-hormuz-blocked-170709821.html",
         "image": "http://www.bing.com/th?id=ONUT.EETcHlgOJ4SvuyPKE7s9Gg&pid=News",
         "timestamp": 1774608240.0
-    },
-    {
-        "title_fa": "با افزایش فشارها بر ترامپ برای پایان جنگ، متحدان نگران اقدام بعدی ایران هستند",
-        "title_en": "As Trump feels pressure to end war, allies fear what Iran may do next",
-        "summary": [
-            "فشار سیاسی داخلی بر ترامپ برای خاتمه جنگ می‌تواند تصمیم‌گیری راهبردی آمریکا را تغییر دهد و زمان‌بندی یا شدت عملیات را دگرگون کند.",
-            "متحدان نگران‌اند که خروج یا کاهش تعهد‌های نظامی آمریکا فضای مانور را برای اقدامات تهاجمی یا گسترش عملیات نیابتی ایران باز کند؛ این نگرانی به تضعیف هماهنگی امنیتی منطقه می‌انجامد.",
-            "این وضعیت می‌تواند ابزارهای فشار خارجی از جمله ساختار تحریم‌ها را بازتنظیم کند و تاب‌آوری سیاسی-اقتصادی رژیم را تحت فشار روشن‌تری قرار دهد."
-        ],
-        "impact": "ترکیب فشار داخلی بر پایان جنگ و ترس متحدان از واکنش ایران، ریسک تشدید منطقه‌ای و کاهش اطمینان به کارایی بازدارندگی آمریکا را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHo4M2Q3VVd2UjRoUGxJTkJrMjd0dmFjZy02VjE3bWxwajlwaFdmVWp6SVpyS0FTX1VSM1BqVS1WZnRpcWZKaTAxREdvS29IejBaNWZMUTRDOEF4UHY4WHVBQmZNNUVaeUZ6dElfWTJ2OGhnV0g3aDF3WkR6M0MzX0hDblUxaVNMbm9n?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHo4M2Q3VVd2UjRoUGxJTkJrMjd0dmFjZy02VjE3bWxwajlwaFdmVWp6SVpyS0FTX1VSM1BqVS1WZnRpcWZKaTAxREdvS29IejBaNWZMUTRDOEF4UHY4WHVBQmZNNUVaeUZ6dElfWTJ2OGhnV0g3aDF3WkR6M0MzX0hDblUxaVNMbm9n",
-        "image": null,
-        "timestamp": 1774607487.0
     }
 ]
