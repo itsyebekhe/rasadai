@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "جنگ ایران و اسرائیل",
+        "title_en": "Israel Iran War",
+        "summary": [
+            "منبع تنها یک تیتر کوتاه «Israel Iran War» منتشر کرده و متن خبری یا جزئیات عملیاتی برای تأیید وقوع درگیری وجود ندارد؛ نمی‌توان ادعاهای قطعی مطرح کرد.",
+            "در صورت درگیری مستقیم، احتمال تشدید فشارهای بین‌المللی و تحریم‌ها وجود دارد که می‌تواند تضعیف ساختاری رژیم را تسریع کند و پیامدهای اقتصادی و سیاسی داخلی را شدت بخشد.",
+            "نبود جزئیات مانع از برآورد دقیق از تأثیرات داخلی است؛ اما هر جنگی ظرفیت تشدید ناکارآمدی اقتصادی، افزایش نارضایتی عمومی و فشار بر نهادهای حکومتی را دارد."
+        ],
+        "impact": "بدون اطلاعات تکمیلی، مؤثرترین پیامد محتمل افزایش بی‌ثباتی منطقه‌ای و فشارهای اقتصادی-سیاسی بر ساختارهای حکومتی است.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "GazetteXtra",
+        "url": "https://www.msn.com/en-us/news/world/trump-ramps-up-threats-oil-tanker-struck-what-we-know-on-day-32-of-the-us-and-israel-s-war-with-iran/ar-AA1ZMEcP",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-ramps-up-threats-oil-tanker-struck-what-we-know-on-day-32-of-the-us-and-israel-s-war-with-iran/ar-AA1ZMEcP",
+        "image": null,
+        "timestamp": 1774940659.0
+    },
+    {
+        "title_fa": "بعد از جنگ ایران، تجارت جهانی چقدر سریع می‌تواند بازیابی شود؟",
+        "title_en": "After the Iran war, how fast could global trade recover?",
+        "summary": [
+            "عنوان خبر نشان می‌دهد مقاله به ارزیابی پیامدهای یک جنگ در ایران بر تجارت جهانی و توانایی زنجیره‌های تأمین برای بازگشت به سطح قبل می‌پردازد؛ متن کامل در دسترس نیست.",
+            "در شرایط جنگی اختلال‌های گسترده در خطوط کشتیرانی، بازار انرژی و زنجیره‌های تأمین محتمل است که سرعت جریان کالاها را کاهش و هزینه‌های تجارت را افزایش می‌دهد.",
+            "تحلیل کاربردی باید تأثیر تحریم‌ها و فشار خارجی بر تضعیف ساختار سیاسی-اقتصادی رژیم و تشدید مشکلات داخلی (مدیریت اقتصادی ضعیف، افزایش نارضایتی عمومی) را بررسی کند."
+        ],
+        "impact": "خلاصه اثر کلان: جنگ در ایران می‌تواند تجارت جهانی را به‌طور معناداری مختل کند و در کنار تحریم‌ها و سوءمدیریت اقتصادی ثبات داخلی را بیشتر تضعیف کند.",
+        "tag": "تجارت",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "DW.com",
+        "url": "https://www.msn.com/en-xl/news/other/after-the-iran-war-how-fast-could-global-trade-recover/ar-AA1ZNhww",
+        "clean_url": "https://www.msn.com/en-xl/news/other/after-the-iran-war-how-fast-could-global-trade-recover/ar-AA1ZNhww",
+        "image": null,
+        "timestamp": 1774939678.0
+    },
+    {
         "title_fa": "سه گزینه پیش‌روی ترامپ درباره ایران",
         "title_en": "The three options facing Trump in Iran",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR0xnWTNKQjVCWTh6SHVpQXpZSWk0bl9XbnkxdmF5ZlR2SVRiS1VuYlFiUHQtQ3hzNDBkRVpvaEJRQmVmVnh2TkgtWEJEbENDTVd6Rk1pTDA2RENiaWRfSXByV3lSSHktQVlaOGlFY3hpMHQ1ZkFObkhyUWxVNzdFVjlLakQtcDhjc3VuNDBvTkpnU1ppS2RmemlvVHE4TUlGSnNNYw",
         "image": null,
         "timestamp": 1774547700.0
-    },
-    {
-        "title_fa": "چرا آمریکا و اسرائیل به ایران حمله کردند و جنگ چقدر می‌تواند طول بکشد؟",
-        "title_en": "Why did US and Israel attack Iran and how long could the war last?",
-        "summary": [
-            "تیتر به‌تنهایی اطلاعات کافی نمی‌دهد؛ متن کامل باید اهداف سیاسی-نظامی آمریکا و اسرائیل، شواهد ادعاها و دامنه عملیاتی حملات را مشخص کند.",
-            "تحلیل تحریم‌ها / فشار خارجی: هرگونه حمله یا فشار نظامی-دیپلماتیک می‌تواند تضعیف ساختاری در اقتصاد ایران ایجاد کند، ظرفیت حکمرانی را کاهش دهد و نارضایتی اجتماعی را افزایش دهد؛ پیامدهای داخلی و اثر بر پایداری رژیم باید به‌صراحت بررسی شود.",
-            "مدت درگیری وابسته به توان لجستیکی، ذخایر و تداوم ضربات، واکنش بازیگران منطقه‌ای و سطح نارضایتی داخلی است؛ مدیریت اقتصادی ضعیف و شکست در کنترل معیشت عمومی ریسک تشدید ناآرامی‌ها را افزایش می‌دهد."
-        ],
-        "impact": "در صورت تایید حمله، احتمال تشدید سریع به بحران منطقه‌ای و تحمیل هزینه‌های سنگین سیاسی و اقتصادی بر حکومت ایران بسیار بالاست.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw",
-        "image": null,
-        "timestamp": 1774547447.0
-    },
-    {
-        "title_fa": "واکنش ترامپ به اعدام کشتی‌گیر ۱۹ ساله صالح محمدی",
-        "title_en": "Trump speaks out on Iran's execution of 19-year-old wrestler Saleh Mohammadi",
-        "summary": [
-            "ترامپ نسبت به اعدام صالح محمدی، کشتی‌گیر ۱۹ ساله، واکنش نشان داد.",
-            "این واکنش بین‌المللی می‌تواند فشار دیپلماتیک علیه رژیم را تشدید کند و زمینه‌ساز درخواست‌های تازه برای تحریم یا اقدامات کُنشگرایانه شود.",
-            "اعدام یک جوان ورزشکار نشان‌دهنده شکست مدیریتی و نقض حقوقی است و احتمالاً خشم و نارضایتی عمومی را تشدید می‌کند."
-        ],
-        "impact": "پیام علنی ترامپ احتمالاً منزوی‌تر شدن جمهوری اسلامی در عرصه بین‌المللی را تسریع کرده و ریسک افزایش تنش‌ها و ناآرامی‌های داخلی را بالا می‌برد.",
-        "tag": "اعدام",
-        "urgency": 5,
-        "sentiment": -0.9,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/sports/trump-speaks-out-irans-execution-19-year-old-wrestler-saleh-mohammadi",
-        "clean_url": "https://www.foxnews.com/sports/trump-speaks-out-irans-execution-19-year-old-wrestler-saleh-mohammadi",
-        "image": "http://www.bing.com/th?id=ONUT.Ylpkn3d9fI4bFyb7bSN5vQ&pid=News",
-        "timestamp": 1774546260.0
     }
 ]
