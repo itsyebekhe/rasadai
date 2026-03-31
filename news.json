@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "حملات آمریکا به شهری در ایران میزبان تأسیسات هسته‌ای",
+        "title_en": "US strikes Iran city home to nuclear site",
+        "summary": [
+            "ایالات متحده شهری را که محل یک سایت هسته‌ای ایران است هدف حمله نظامی قرار داد؛ اقدام مستقیم علیه توانمندی‌های حساس هسته‌ای و زیرساختی گزارش شده است.",
+            "این ضربه فشار خارجی را تشدید می‌کند و به‌طور ساختاری توانایی رژیم در جذب سرمایه و تکنولوژی را تضعیف و مشکلات اقتصادی و هزینه‌های سیاسی داخلی را افزایش می‌دهد.",
+            "در سطح داخلی، حمله می‌تواند نارضایتی عمومی و احساس ناکارآمدی حاکمیت در حفاظت از زیرساخت‌های حیاتی را تقویت کند و ریسک بی‌ثباتی گسترده‌تر و برخوردهای امنیتی را بالا ببرد."
+        ],
+        "impact": "پیامد فوری افزایش تنش منطقه‌ای و بالا رفتن احتمال مواجهه نظامی مستقیم است که می‌تواند مشروعیت و کنترل داخلی رژیم را بیشتر فرسایش دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "The Hill",
+        "url": "https://www.oregonlive.com/nation/2026/03/us-strikes-a-city-home-to-an-iranian-nuclear-site.html",
+        "clean_url": "https://www.oregonlive.com/nation/2026/03/us-strikes-a-city-home-to-an-iranian-nuclear-site.html",
+        "image": null,
+        "timestamp": 1774962000.0
+    },
+    {
+        "title_fa": "چرا آمریکا و اسرائیل به ایران حمله کردند و جنگ چقدر می‌تواند طول بکشد؟",
+        "title_en": "Why did US and Israel attack Iran and how long could the war last?",
+        "summary": [
+            "حمله فرضی آمریکا و اسرائیل عمدتاً برای کاهش توان نظامی-موشکی و بریدن زنجیره تأمین و شبکه‌های نیابتی رژیم طراحی شده است؛ فشار خارجی و تحریم‌های تازه ساختار مالی و توان لجستیکی حکومت را بیشتر تضعیف می‌کند.",
+            "در داخل، یک جنگ مستقیم به سرعت فشارهای اقتصادی را تشدید و نارضایتی اجتماعی را گسترش می‌دهد — سوءمدیریت و فساد کنونی توان رژیم برای مدیریت شوک‌های بزرگ را کاهش داده و احتمال تشدید اعتراضات، فرار سرمایه و بی‌ثباتی محلی را بالا می‌برد.",
+            "مدت درگیری تابع سه متغیر کلیدی است: عمق و دامنه عملیات مستقیم، واکنش نیابتی‌ها و ظرفیت جمهوری اسلامی برای تداوم جنگ نامتقارن؛ سناریوها بین حملات محدود چندهفته‌ای تا جنگ طولانی‌مدت نیابتیِ چند ماهه تا چندساله متغیرند."
+        ],
+        "impact": "اثر فوری ــ تضعیف عملیاتی و اقتصادی رژیم و شتاب در قطبی‌شدن سیاسی-اجتماعی که ثبات داخلی را به‌طور قابل‌ملاحظه‌ای کاهش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": 0.6,
+        "source": "bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw",
+        "image": null,
+        "timestamp": 1774959762.0
+    },
+    {
+        "title_fa": "ترامپ از متحدان عصبانی شد؛ جنگ در ایران و بسته شدن تنگه قیمت سوخت را بالا برد",
+        "title_en": "Trump voices frustration with allies as Iran war and strait closure pushes fuel prices higher",
+        "summary": [
+            "گزارش می‌گوید دونالد ترامپ از متحدان خارجی ابراز ناخرسندی کرده است، هم‌زمان جنگ در ایران و بسته شدن یک تنگه حیاتی باعث افزایش قیمت سوخت در بازار جهانی شده است — فشار مستقیم بر دولت‌های غربی برای مدیریت بحران انرژی.",
+            "متن منبع اشاره‌ای به تحریم‌ها یا فشار خارجی مشخص ندارد؛ با این حال اختلال در صادرات انرژی و بالارفتن درآمدهای ارزی می‌تواند ساختار اقتصادی رژیم را تضعیف کند و فرصت‌های فشار خارجی را افزایش دهد، اگرچه شواهد مستقیم در گزارش ارائه نشده است.",
+            "افزایش قیمت سوخت هزینه‌ی معیشت را برای شهروندان بالا می‌برد و اگر ماندگار شود بار سیاسی قابل‌توجهی بر حکومت وارد می‌کند؛ ضعف در مدیریت تأمین انرژی و بازار می‌تواند نارضایتی عمومی را تشدید کند و بهره‌برداری سیاسی رقبا و اپوزیسیون را امکان‌پذیر سازد."
+        ],
+        "impact": "تعلیق یا اختلال عبور نفتی توازن سیاسی-اقتصادی منطقه را به نفع فشارهای داخلی و خارجی به رژیم تغییر می‌دهد و همزمان متحدان غربی را زیر فشار عملیاتی و سیاسی قرار می‌دهد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2xvTjRlbGt3YTV6NEdVX0xwOWk4X0lIWllScm1pRElpYnVXaG54T1pGd05PbGNkV2tNUjdLYkZ1Y1o0MU9fSkpWWTJFXzZVZWRRSEpyTTZNV1hsRlVIWVh6cGk5YzNmTTlpTzBsRkpZelJkdmtiTklRNWJ3VWx5QllIQnJyamdiZjZtTF9XUUxOamhLTExBU3dHUktpS2pqMldkMw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2xvTjRlbGt3YTV6NEdVX0xwOWk4X0lIWllScm1pRElpYnVXaG54T1pGd05PbGNkV2tNUjdLYkZ1Y1o0MU9fSkpWWTJFXzZVZWRRSEpyTTZNV1hsRlVIWVh6cGk5YzNmTTlpTzBsRkpZelJkdmtiTklRNWJ3VWx5QllIQnJyamdiZjZtTF9XUUxOamhLTExBU3dHUktpS2pqMldkMw",
+        "image": null,
+        "timestamp": 1774959720.0
+    },
+    {
         "title_fa": "انفجار صندوق جنگی پوتین بر اثر جنگ ایران و رفع تحریم‌های آمریکا",
         "title_en": "Putin’s War Chest Set To Explode With Iran War, Lifted U.S. Sanctions",
         "summary": [
@@ -216,6 +270,24 @@
         "timestamp": 1774939678.0
     },
     {
+        "title_fa": "ایران: حمله هوایی آمریکا-اسرائیل تاسیسات آب‌شیرین‌کن قشم را از مدار خارج کرد",
+        "title_en": "Iran says US-Israel strike knocked desalination plant offline in Strait of Hormuz",
+        "summary": [
+            "تهران اعلام کرد که یک «حمله هوایی دشمن» اوایل این ماه یکی از تاسیسات آب‌شیرین‌کن در جزیره قشم در تنگه هرمز را کاملاً از مدار خارج کرده است.",
+            "عملیات علیه زیرساخت حیاتی در یک نقطه استراتژیک نشان‌دهنده افزایش فشار خارجی است؛ چنین ضرباتی ساختار مدیریتی و قابلیت‌های رژیم در ارائه خدمات پایه را تضعیف می‌کنند و احتمال تشدید تنش‌های منطقه‌ای را بالا می‌برند.",
+            "خاموشی آب‌شیرین‌کن عرضه آب در سواحل جنوبی را مختل می‌کند، ضعف در محافظت از زیرساخت‌ها را عیان می‌سازد و می‌تواند نارضایتی عمومی را تشدید کند، خصوصاً اگر رژیم نتواند به سرعت راه‌حل جایگزین فراهم آورد."
+        ],
+        "impact": "تعطیلی این تاسیسات فوراً عرضه آب در مناطق ساحلی جنوبی را کاهش می‌دهد و فشار سیاسی و اقتصادی بر رژیم را افزایش می‌دهد.",
+        "tag": "زیرساخت",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-says-us-israel-strike-knocked-desalination-plant-offline-in-strait-of-hormuz/ar-AA1ZOBow",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-says-us-israel-strike-knocked-desalination-plant-offline-in-strait-of-hormuz/ar-AA1ZOBow",
+        "image": "http://www.bing.com/th?id=ONUT._f3wXkvXjL9fhUtkN_SkGA&pid=News",
+        "timestamp": 1774938597.0
+    },
+    {
         "title_fa": "جنگ ایران: جهش قیمت بنزین در آمریکا با تشدید درگیری‌ها",
         "title_en": "Iran war: US gasoline prices surge as conflict escalates",
         "summary": [
@@ -250,6 +322,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump",
         "image": "https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-promo-vgtm/31israel-iran-promo-vgtm-facebookJumbo.jpg",
         "timestamp": 1774936380.0
+    },
+    {
+        "title_fa": "حمله ایران به نفتکش کاملاً بارگیری‌شده در سواحل دبی",
+        "title_en": "Live updates: Iran strikes fully loaded oil tanker off Dubai coast as gas reaches $4 per gallon in US",
+        "summary": [
+            "گزارش‌ها حاکی از آن است که ایران یک نفتکش کاملاً بارگیری‌شده را در نزدیکی سواحل دبی هدف قرار داده؛ خبر هم‌زمان با صعود قیمت بنزین در آمریکا به حدود ۴ دلار در هر گالن گزارش شده.",
+            "این اقدام سیاست خارجی ریسک منزوی‌تر شدن رژیم و افزایش فشارهای بین‌المللی را بالا می‌برد؛ احتمال تشدید تحریم‌ها، اختلال در بیمه و حمل‌ونقل دریایی نفت و کاهش درآمدهای ارزی وجود دارد که ثبات سیاسی را تضعیف می‌کند.",
+            "عملیات نظامی خارجی در وضعیتی که اقتصاد داخلی مشکل‌زاست، نمادی از مدیریت ناکارآمد است؛ هزینه‌های اقتصادی و سیاسی این برخوردها نارضایتی اجتماعی را تشدید می‌کند و امکان پیامدهای داخلی را افزایش می‌دهد."
+        ],
+        "impact": "این حمله تنش منطقه‌ای را تشدید و ریسک هدف‌گیری کشتی‌های تجاری و واکنش‌های سخت بین‌المللی را افزایش می‌دهد که می‌تواند درآمدهای نفتی و ثبات رژیم را بیشتر تضعیف کند.",
+        "tag": "حمله",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-03-31-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-31-2026",
+        "image": "http://www.bing.com/th?id=ONUT.9cEFOb5WZae2CO-Gmx2eHQ&pid=News",
+        "timestamp": 1774935600.0
     },
     {
         "title_fa": "سه گزینه پیش‌روی ترامپ درباره ایران",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-and-israel-have-pounded-but-not-eliminated-iran-s-missile-threat/ar-AA1ZuxOr",
         "image": null,
         "timestamp": 1774585614.0
-    },
-    {
-        "title_fa": "ترامپ «هدیه» ایران را فاش کرد و زمان‌بندی تقریبی جنگ را تأیید نمود",
-        "title_en": "Trump reveals 'present' from Iran, confirms estimated timeline for war",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا از مذاکره‌کنندگان ایران خواست «جدی» شوند در حالی که آمریکا و اسرائیل به حملاتی علیه تهران ادامه می‌دهند؛ این خبر نشان‌دهنده فشار دیپلماتیک و نظامی همزمان بر رژیم است.",
-            "فشار نظامی و دیپلماتیک متمرکز ساختارهای بقا و تصمیم‌گیری رژیم را تضعیف می‌کند و دسترسی آن به مسیرهای دیپلماسی و احتمالا خطوط اقتصادی را محدود می‌سازد، که می‌تواند ثبات داخلی و توان عملیاتی را تضعیف کند.",
-            "اعلام زمان‌بندی «تقریبی» جنگ از سوی ترامپ و هماهنگی عملیاتی با اسرائیل نشان‌دهنده استراتژی هدفمند برای افزایش هزینه‌های رژیم و محدود کردن گزینه‌های بقا است؛ همزمان ریسک تشدید درگیری و واکنش‌های منطقه‌ای بالاست."
-        ],
-        "impact": "این تحرکات بلافاصله احتمال درگیری مستقیم گسترده را افزایش داده و رژیم را در نقطه‌ای قرار می‌دهد که توان مانور سیاسی و اقتصادی‌اش به شدت کاهش یافته است.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-march-26",
-        "clean_url": "https://www.foxnews.com/live-news/us-israel-iran-war-strait-hormuz-updates-march-26",
-        "image": "http://www.bing.com/th?id=ONUT.rZVIRESQd8bpoRWN7as9dg&pid=News",
-        "timestamp": 1774585440.0
-    },
-    {
-        "title_fa": "موج جدید حملات اسرائیل به تهران و تهدید به تشدید و گسترش",
-        "title_en": "Israel hits Tehran with wave of strikes and warns attacks on Iran ‘will escalate and expand’",
-        "summary": [
-            "اسرائیل موج تازه‌ای از حملات علیه تهران راه انداخت؛ گزارش‌ها و عکس‌ها از اصابت به ساختمان‌های مسکونی و خسارات شهری خبر می‌دهند.",
-            "ایالات متحده و اسرائیل هماهنگی نظامی را حفظ کرده‌اند؛ دونالد ترامپ گفت مذاکرات برای پایان جنگ «خوب پیش می‌رود» و به تهران زمان بیشتری برای بازکردن تنگه هرمز داد، اما هیچ نشانه‌ای از عقب‌نشینی تهران مشاهده نشده است.",
-            "حملات مستقیم به پایتخت نشان‌دهنده ضعف بازدارندگی حکومت و افزایش خطر گسترش درگیری است که می‌تواند فشارهای اقتصادی و سیاسی داخلی را تشدید کند."
-        ],
-        "impact": "این ضربات مستقیم به تهران ثبات سیاسی و اقتصادی حکومت را تضعیف کرده و هزینه‌های سرکوب، بازسازی و مدیریت شوک‌های اقتصادی را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Los Angeles Daily News",
-        "url": "https://www.dailynews.com/2026/03/27/israel-iran-us-war/",
-        "clean_url": "https://www.dailynews.com/2026/03/27/israel-iran-us-war",
-        "image": "http://www.bing.com/th?id=ONUT.xvJGGPV1vgmqSCBgIkGchA&pid=News",
-        "timestamp": 1774585320.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: وزیر دفاع اسرائیل هشدار داد حملات اسرائیل به ایران «تشدید و گسترش خواهد یافت»",
-        "title_en": "Live updates: Israel’s defense minister warns that Israeli attacks on Iran ‘will escalate and expand’",
-        "summary": [
-            "خبر: وزیر دفاع اسرائیل اعلام کرده است که حملات نظامی این کشور علیه ایران «تشدید و گسترش» خواهد یافت؛ گزارش جزئیات عملیاتی بیشتر ارائه نمی‌دهد.",
-            "فشارهای خارجی/تحریم‌ها: هرچند گزارش فعلی به تحریم‌ها اشاره‌ای نکرده، اما تشدید تهدیدات نظامی می‌تواند به تشدید فشار دیپلماتیک و تحریم‌های جدید منجر شود؛ اینگونه فشارها ساختار ثبات رژیم را تضعیف و ظرفیت‌های اقتصادی و مالی دولت را کاهش می‌دهد.",
-            "اقتصاد و اعتراضات داخلی: افزایش تنش‌های نظامی احتمالاً هزینه‌های امنیتی را بالا می‌برد، سرمایه‌گذاری و تجارت را مختل می‌کند و با تداوم سوءمدیریت اقتصادی می‌تواند نارضایتی عمومی و خطر تشدید اعتراض‌ها را بیشتر کند."
-        ],
-        "impact": "هشدار اسرائیل ریسک تشدید مواجهه نظامی و فشارهای بین‌المللی را بالا می‌برد و در صورت ادامه می‌تواند به تضعیف ساختاری و تشدید بحران سیاسی-اقتصادی در ایران بینجامد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-03-27-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-27-2026",
-        "image": "http://www.bing.com/th?id=ONUT.nD7o4WgWktKHzB0eTvOsqg&pid=News",
-        "timestamp": 1774584660.0
-    },
-    {
-        "title_fa": "ترامپ: هدف جلوگیری از بمب هسته‌ای ایران است؛ اما پیامد می‌تواند گسترش تسلیحات هسته‌ای باشد",
-        "title_en": "Trump Says His Goal Is to Stop Iran Getting a Nuclear Bomb. But the Result Might Be Lots More Nukes Across the Globe",
-        "summary": [
-            "ترامپ صراحتاً اعلام کرده که هدف سیاستش جلوگیری از دستیابی ایران به بمب هسته‌ای است؛ اما کارشناسان هشدار می‌دهند که چنین رویکردی می‌تواند پیامدهای معکوس داشته باشد.",
-            "فشار یا اقدامات تهاجمی برای جلوگیری از برنامه هسته‌ای ایران، طبق تحلیل کارشناسان، ممکن است رژیم عدم اشاعه را تضعیف کند و انگیزه کشورهای منطقه و فراتر از آن را برای دنبال‌کردن ظرفیت‌های هسته‌ای افزایش دهد.",
-            "مقاله نشان می‌دهد که خطر اصلی متناظر با سیاست اعلام‌شده، گسترش رقابت‌های هسته‌ای و تضعیف قواعد بین‌المللی عدم اشاعه است؛ در متن خبری شواهد مستقیمی درباره تأثیرات داخلی ایران (اعتراضات یا فروپاشی اقتصادی) ارائه نشده و تحلیل درباره پیامدهای داخلی نیازمند داده‌های بیشتر است."
-        ],
-        "impact": "سیاست اعلام‌شده می‌تواند به تضعیف رژیم عدم اشاعه و آغاز دور تازه‌ای از رقابت‌های هسته‌ای منطقه‌ای و جهانی بینجامد.",
-        "tag": "اشاعه",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump/",
-        "clean_url": "https://time.com/article/2026/03/27/us-iran-war-nuclear-weapons-proliferation-deterrent-trump",
-        "image": "http://www.bing.com/th?id=ONUT.4ieyWNxd_-EzPeM_dp8hCQ&pid=News",
-        "timestamp": 1774584660.0
-    },
-    {
-        "title_fa": "افزایش خشم ترامپ نسبت به ایرانِ سرسخت",
-        "title_en": "Trump’s Frustration Grows With Implacable Iran",
-        "summary": [
-            "بلومبرگ گزارش می‌دهد که نارضایتی و خشم دونالد ترامپ نسبت به رویکرد «انعطاف‌ناپذیر» ایران در حال افزایش است.",
-            "عنوان نشان می‌دهد تهران موضعی سرسخت اتخاذ کرده که واکنش و تشدید فشارهای فکری و سیاسی از سوی واشنگتن را برانگیخته؛ متن کامل خبر برای جزئیات بیشتر در دسترس نیست.",
-            "اگر این نارضایتی به اقدامات عملی مانند افزایش تحریم‌ها یا فشارهای دیپلماتیک تبدیل شود، تبعات ساختاری برای ثبات رژیم و اقتصاد داخلی محتمل است؛ گزارش اشاره‌ای به اعتراضات داخلی یا وضعیت اقتصادی نکرده است."
-        ],
-        "impact": "در صورت تبدیل خشم سیاسی به سیاست‌های عملیاتی (تحریم یا فشار دیپلماتیک) احتمال تشدید تضعیف ساختارهای سیاسی-اقتصادی رژیم وجود دارد.",
-        "tag": "فشار",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklHMm5LX0hzLWFFNE9Ka0llZ2JRUUxwQUU2ZE5uMndHVEdhazV3c1RPbXZXSlRwNFctXzg5eHBhdE1ETVgxU0JzNWFrbkxwLTVIdGQtSjJrMFk1X1hwbXF2Snh0TkVhN29rWjJ6eXFuQU8tRkJrTWg5dnk3NlREVVczT1dFTWszZm9pZmRTU2ZMVXAzYWljWkhkalVmRVU4QkZ2SUxtNE5tRVhKUmdtNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYklHMm5LX0hzLWFFNE9Ka0llZ2JRUUxwQUU2ZE5uMndHVEdhazV3c1RPbXZXSlRwNFctXzg5eHBhdE1ETVgxU0JzNWFrbkxwLTVIdGQtSjJrMFk1X1hwbXF2Snh0TkVhN29rWjJ6eXFuQU8tRkJrTWg5dnk3NlREVVczT1dFTWszZm9pZmRTU2ZMVXAzYWljWkhkalVmRVU4QkZ2SUxtNE5tRVhKUmdtNA",
-        "image": null,
-        "timestamp": 1774583139.0
     }
 ]
