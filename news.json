@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اتحادیه اروپا برای گفت‌وگو درباره تنگه هرمز با تهران تماس گرفت",
+        "title_en": "Iran war: EU calls Tehran to discuss Strait of Hormuz",
+        "summary": [
+            "اتحادیه اروپا از تهران خواسته برای بحث درباره وضعیت تنگه هرمز وارد گفت‌وگو شود؛ اقدامی آشکار در حوزه امنیت دریایی منطقه‌ای.",
+            "این تماس دیپلماتیک ابزاری است که می‌تواند هم برای کاهش خطر اختلال تجاری-نفتی و هم برای اعمال فشار سیاسی/اقتصادی بر حکومت مورد استفاده قرار گیرد؛ نتیجه نهایی به اراده سیاسی اتحادیه و پاسخ تهران بستگی دارد.",
+            "با توجه به ضعف‌های ساختاری اقتصادی و سابقه نارضایتی عمومی، تشدید تنش در تنگه هرمز پتانسیل افزایش فشار اجتماعی و سیاسی بر حکومت را دارد و بنابراین تهران انگیزه موقت برای کاهش تنش خواهد داشت."
+        ],
+        "impact": "تماس اتحادیه اروپا مانع از گسترش فوری بحران دریایی نمی‌شود اما بار سیاسی و مدیریتی را بر حکومت ایران افزایش می‌دهد و فضا برای تحرک بین‌المللی علیه تهران را تسهیل می‌کند.",
+        "tag": "هرمز",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "dw.com",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-israel-trump-ultimatum-strait-of-hormuz",
+        "image": null,
+        "timestamp": 1774988775.0
+    },
+    {
         "title_fa": "ایران تهدید به حمله به زیرساخت‌های متعلق به آمریکا در خاورمیانه کرد",
         "title_en": "Iran threatens to strike US-owned infrastructure in the Middle East",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/war-on-iran-us-s-history-of-making-other-nations-pay-for-conflicts/ar-AA1ZPaV9",
         "image": null,
         "timestamp": 1774965720.0
+    },
+    {
+        "title_fa": "آمریکا با اطمینان از برتری هوایی بمب‌افکن‌های B-52 را بر فراز ایران اعزام کرد",
+        "title_en": "Confident of Air Supremacy, U.S. Sends B-52 Bombers Over Iran",
+        "summary": [
+            "آمریکا بمب‌افکن‌های B-52 را بر فراز ایران به‌کار گرفت؛ این نمایش برتری هوایی پیامی مستقیم درباره توان عملیاتی و اراده واشنگتن است و فشار نظامیِ مستقیم ساختارهای بقاء رژیم را تضعیف می‌کند—هم از منظر افزایش خطر حملات متمرکز و هم از منظر هزینه‌های اقتصادی و اختلال در تجارت خارجی.",
+            "ایران همچنان در منطقه تلافی می‌کند، اما بازارها نشانه‌هایی از امید به کاهش درگیری دیدند؛ این واکنش بازارها ممکن است موقتی باشد و هر موج تازه‌‌ای از تنش می‌تواند به سرعت نوسانات ارزی و سرمایه‌گذاری را تشدید کند.",
+            "اسرائیل اعلام کرد بخش بزرگی از لبنان را حتی پس از پایان جنگ اشغال خواهد کرد؛ این موضع چشم‌انداز تبدیل بحران به یک درگیری فرسایشی و اشغال بلندمدت را تقویت می‌کند."
+        ],
+        "impact": "این تحرکات احتمال تشدید سریع نظامی، افزایش ریسک برخورد مستقیم میان آمریکا و ایران و بی‌ثباتی بیشتر در بازارها و مناسبات منطقه‌ای را به‌طور ملموسی بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.75,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/03/31/world/middleeast/us-iran-b52-bombers.html",
+        "clean_url": "https://www.nytimes.com/2026/03/31/world/middleeast/us-iran-b52-bombers.html",
+        "image": "http://www.bing.com/th?id=ONUT.c_xl7TzsMHoWbl_r8L7fRg&pid=News",
+        "timestamp": 1774962900.0
     },
     {
         "title_fa": "حملات آمریکا به شهری در ایران میزبان تأسیسات هسته‌ای",
@@ -306,6 +342,24 @@
         "timestamp": 1774955675.0
     },
     {
+        "title_fa": "رشد شدید بورس پیام می‌دهد: بازار انتظار دارد جنگ ایران به‌زودی پایان یابد",
+        "title_en": "The soaring stock market is sending a message: It expects the Iran war to end soon",
+        "summary": [
+            "صعود چشمگیر شاخص‌های بورس به‌عنوان سیگنالی از جانب سرمایه‌گذاران تفسیر می‌شود که انتظار پایان قریب‌الوقوع جنگ در ایران را دارند.",
+            "کاهش محسوس پرمیوم ریسک سیاسی در قیمت‌گذاری دارایی‌ها نشان می‌دهد بازار نگرانی نسبت به تداوم درگیری را کمتر می‌داند و احتمال بازگشت نقدینگی و سرمایه‌گذاری را افزایش می‌دهد.",
+            "برای حکومت، تغییر ادراک بازار می‌تواند ابزارهای بحران‌سازی و بسیج سیاسی را تضعیف کند و در بلندمدت فضای داخلی را در برابر مطالبات اقتصادی و اجتماعی آسیب‌پذیرتر سازد."
+        ],
+        "impact": "انتظار بازار برای پایان جنگ ریسک مشروعیت‌بخشی رژیم از طریق بحران را کاهش می‌دهد و احتمال تشدید فشارهای اقتصادی-اجتماعی علیه حکومت را در کوتاه‌مدت افزایش می‌دهد.",
+        "tag": "بازار",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Insider",
+        "url": "https://www.businessinsider.com/us-stocks-today-trump-iran-war-oil-prices-wall-street-2026-3",
+        "clean_url": "https://www.businessinsider.com/us-stocks-today-trump-iran-war-oil-prices-wall-street-2026-3",
+        "image": "http://www.bing.com/th?id=ONUT.YnAJNtv5xRCqa1B3l0ApSA&pid=News",
+        "timestamp": 1774955460.0
+    },
+    {
         "title_fa": "اهداف متغیر دولت ترامپ برای جنگ با ایران",
         "title_en": "The Trump administration’s objectives for the Iran war keep changing",
         "summary": [
@@ -466,6 +520,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-remains-a-stubborn-foe-after-absorbing-massive-us-israeli-attacks/ar-AA1ZQfkN",
         "image": "http://www.bing.com/th?id=ONUT.CO7TOsGZXXsyZkZ7cR3SqQ&pid=News",
         "timestamp": 1774946538.0
+    },
+    {
+        "title_fa": "هگست: روزهای آینده برای ایران سرنوشت‌ساز است؛ تهران شرکت‌های آمریکایی در منطقه را تهدید کرد",
+        "title_en": "Hegseth says coming days will be decisive for Iran, Tehran threatens US businesses in region",
+        "summary": [
+            "وزیر دفاع آمریکا، پیتر هگست، اعلام کرد که روزهای پیش‌رو در «جنگ» با ایران سرنوشت‌ساز خواهند بود و هشدار به اتخاذ اقدامات مهم داد.",
+            "خبرگزاری‌ها گزارش دادند که تهران به‌طور علنی شرکت‌های آمریکایی فعال در منطقه را تهدید کرده و حضور اقتصادی و تجاری آمریکا را هدف قرار داده است.",
+            "این اظهارنظرها در شرایط افزایش تنش‌های نظامی و دیپلماتیک بین واشنگتن و تهران مطرح شد و می‌تواند فضای پاسخ‌های نظامی یا حقوقی و سیاسی گسترده‌تری را ایجاد کند."
+        ],
+        "impact": "تهدید مستقیم دارایی‌ها و شرکت‌های آمریکایی همراه با مواضع تهاجمی نظامی، احتمال تشدید فشار بین‌المللی و اقتصادی علیه حکومت تهران را افزایش می‌دهد و ثبات ساختاری آن را تضعیف می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/hegseth-says-coming-days-will-be-decisive-for-iran-tehran-threatens-us-businesses-in-region/ar-AA1ZPQ54",
+        "clean_url": "https://www.msn.com/en-us/news/world/hegseth-says-coming-days-will-be-decisive-for-iran-tehran-threatens-us-businesses-in-region/ar-AA1ZPQ54",
+        "image": "http://www.bing.com/th?id=ONUT.kqKRtduPscjqt8BBeMvjlg&pid=News",
+        "timestamp": 1774945453.0
     },
     {
         "title_fa": "اظهارات پیت هجسث درباره «روزهای سرنوشت‌ساز» علیه ایران؛ تهدید کنترل تنگه هرمز",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORHo4M2Q3VVd2UjRoUGxJTkJrMjd0dmFjZy02VjE3bWxwajlwaFdmVWp6SVpyS0FTX1VSM1BqVS1WZnRpcWZKaTAxREdvS29IejBaNWZMUTRDOEF4UHY4WHVBQmZNNUVaeUZ6dElfWTJ2OGhnV0g3aDF3WkR6M0MzX0hDblUxaVNMbm9n",
         "image": null,
         "timestamp": 1774607487.0
-    },
-    {
-        "title_fa": "عربستان از آمریکا خواسته حملات علیه ایران را تشدید کند، منبع اطلاعاتی تأیید می‌کند",
-        "title_en": "Saudi Arabia urging US to ramp up Iran attacks, intelligence source confirms",
-        "summary": [
-            "منبع اطلاعاتی اعلام کرده عربستان از دولت آمریکا خواسته است اقدامات نظامی علیه ایران را افزایش دهد؛ این گزارش کاهش یا تغییر در سیاست کنونی واشنگتن را نشان نمی‌دهد بلکه فشار دیپلماتیک-امنیتی را ثبت می‌کند.",
-            "فشار عربستان برای تشدید حملات بخشی از راهبرد افزایش فشار خارجی است؛ چنین اقدامی می‌تواند ظرفیت‌های حکمرانی و دسترسی به منابع رژیم را در کوتاه‌مدت تضعیف کند اما همزمان ریسک گسترش درگیری منطقه‌ای و آسیب به زیرساخت‌های اقتصادی را بالا می‌برد.",
-            "در داخل ایران، تشدید فشار خارجی احتمالاً به افزایش سرکوب، اختلال در بازارها و تشدید نارضایتی عمومی خواهد انجامید؛ این نتایج محتمل‌اند و نیازمند پایش دقیق واکنش‌های حکومتی و اجتماعی هستند."
-        ],
-        "impact": "درخواست عربستان برای افزایش حملات آمریکایی، احتمال تشدید تنش‌های نظامی و فشار بین‌المللی بر حکومت ایران را بالا می‌برد و می‌تواند ثبات منطقه‌ای و وضعیت اقتصادی داخلی را به طور قابل‌توجهی تهدید کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE9kb2dseFZ0bm1XRlBsc2U5eXIyeEo0clZ5OF9vZWtOZ1Rka3BGSDFQZWcwUG1YOUk0cnlYblhqVU5DSjZ4NlotSXBIbjJsdGM0NGlVRi03anFxZkNkOVNXZG42a3JWczVrT19obGlVMzMxOHVNbFZ6VlMyX0xUSG55Z2Q3QUJlbGc1ZWJKVkxNa0s3akJkaDZB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWE9kb2dseFZ0bm1XRlBsc2U5eXIyeEo0clZ5OF9vZWtOZ1Rka3BGSDFQZWcwUG1YOUk0cnlYblhqVU5DSjZ4NlotSXBIbjJsdGM0NGlVRi03anFxZkNkOVNXZG42a3JWczVrT19obGlVMzMxOHVNbFZ6VlMyX0xUSG55Z2Q3QUJlbGc1ZWJKVkxNa0s3akJkaDZB",
-        "image": null,
-        "timestamp": 1774607340.0
-    },
-    {
-        "title_fa": "بازبینی واقعیت: ویدئویی که ادعا می‌کرد ایران ترامب را «رهبر عالی» پیشنهاد کرده است، نادرست برچسب خورد",
-        "title_en": "Fact Check: Inspecting claim video shows Trump saying Iran asked him to be supreme leader",
-        "summary": [
-            "ویدئو مربوط به سخنرانی ترامپ در 25 مارس 2026 اصالت دیجیتال دارد اما متن‌هایی که منتشر شد ادعا کردند ترامپ نقل‌قول واقعی از پیشنهاد رسمی ایران کرده؛ این برچسب‌گذاری نادرست است و ترامپ ظاهراً در حال اغراق یا بازگویی نقل‌گفتارهای نامشخص است.",
-            "متن گزارش اشاره می‌کند که حملات مشترک آمریکا و اسرائیل در اواخر فوریه 2026 منجر به کشته شدن علی خامنه‌ای شد و شورای خبرگان، مجتبی خامنه‌ای را به عنوان جانشین برگزید، امری که با ابهامات درباره محل و وضعیت جانشین همراه است.",
-            "این وقایع و پخش روایت‌های تحریف‌شده نشان‌دهنده تضعیف روایت رژیم و خلأ شفافیت در ارکان قدرت است؛ اگرچه گزارش به شواهدی از اعتراضات یا وضعیت اقتصادی فراگیر اشاره‌ای نمی‌کند، اما آشفتگی در روند جانشینی نشانه ضعف نهادی است."
-        ],
-        "impact": "ترکیب ترور رهبری، جانشینی مبهم و گردش روایت‌های نادرست، ساختار مشروعیت و ثبات رژیم را تضعیف کرده و خطر تشدید بحران قدرت و سوءاستفاده تبلیغاتی دشمنان خارجی را افزایش می‌دهد.",
-        "tag": "تحریف",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/fact-check-inspecting-claim-video-170100431.html",
-        "clean_url": "https://www.yahoo.com/news/articles/fact-check-inspecting-claim-video-170100431.html",
-        "image": "http://www.bing.com/th?id=ONUT.WWRKhsut_E86c1e1GrkdRg&pid=News",
-        "timestamp": 1774606740.0
-    },
-    {
-        "title_fa": "ترامپ پیشرفت‌های جنگ را برجسته می‌کند؛ ایران موضع خود را تشدید می‌کند",
-        "title_en": "Trump touts war gains as Iran hardens its stance",
-        "summary": [
-            "ارتش آمریکا و متحدانش تا نزدیک یک ماهگی عملیات ادعا می‌کنند بیش از ۱۰٬۰۰۰ هدف را ضربه زده و ۹۲٪ کشتی‌های بزرگ نیروی دریایی ایران و دو سوم سایت‌های تولید موشک و پهپاد را تخریب یا آسیب‌دیده‌اند؛ فرماندهی مرکزی آمریکا کاهش قابل‌توجه توان رزمی ایران و افت بیش از ۹۰٪ نرخ پرتاب موشک و پهپاد را گزارش کرده است.",
-            "رسانه‌های دولتی ایران از رد پیشنهاد آتش‌بس ۱۵ بندی آمریکا خبر داده و تهران اعلام کرده جنگ را زمانی خاتمه می‌دهد که شرایطش تأمین شود؛ هم‌زمان کاخ سفید می‌گوید مذاکرات همچنان جریان دارد و ترامپ شکست‌پذیری تهران را برجسته می‌کند.",
-            "آمریکا در حال اعزام هزاران نیروی تازه از جمله تفنگداران و چتربازان است؛ استمرار ضربات هوایی، تسلط عملیاتی بر خلیج فارس و تنگه هرمز و تلفات ۱۳ نظامی آمریکایی همراه با بیش از ۲٬۴۰۰ کشته در ایران و لبنان، میدان درگیری را تشدید کرده است."
-        ],
-        "impact": "تخریب گسترده زیرساخت‌های نظامی و تشدید حضور زمینی آمریکا خطر فروپاشی سریع ابزارهای بازدارنده و اعمال هزینه سیاسی-اقتصادی سنگین بر حکومت را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Stars and Stripes",
-        "url": "https://www.stripes.com/theaters/middle_east/2026-03-26/iran-capabilities-destroyed-centcom-21187643.html",
-        "clean_url": "https://www.stripes.com/theaters/middle_east/2026-03-26/iran-capabilities-destroyed-centcom-21187643.html",
-        "image": "http://www.bing.com/th?id=ONUT.jZsiZXyt-iu3Cvk1paVOwA&pid=News",
-        "timestamp": 1774606560.0
-    },
-    {
-        "title_fa": "بستن تنگه هرمز توسط سپاه و تهدید به هدف قرار دادن گذرگاه دریایی حیاتی دیگر",
-        "title_en": "As Iran keeps Strait of Hormuz closed, it's also threatening to target another vital Mideast shipping lane",
-        "summary": [
-            "سپاه پاسداران از اعلام کرده تنگه هرمز برای هر کشتی که مجوز صریح تهران را نداشته باشد بسته است؛ نیروی دریایی سپاه سه کشتی تجاری—از جمله دو کشتی متعلق به COSCO چین—را پس از تلاش برای عبور بازگرداند و قیمت نفت خام جهانی بیش از 110 دلار شد.",
-            "ایران محوطه لراک را به‌عنوان «گذرگاه عوارض» به کار گرفته و طبق گزارش‌ها تا ۲ میلیون دلار بابت عبور هر شناور مطالبه می‌کند؛ مسیر معمول جنوبی از تردد خالی مانده و تهران از کنترل دریایی برای تحصیل درآمد و اعمال فشار استفاده می‌کند.",
-            "بیانیه سپاه مبنی بر منع عبور کشتی‌ها «از و به بنادر متحدان و حامیان دشمنان زیونیستی-آمریکایی» نشانه برنامه‌ریزی برای تعمیم اختلال به گذرگاه‌های دریایی دیگر است و خطر تشدید درگیری منطقه‌ای و ناپایداری بازار انرژی را افزایش می‌دهد."
-        ],
-        "impact": "بستن عملی تنگه هرمز به‌صورت کوتاه‌مدت درآمد و اهرم سیاسی برای رژیم فراهم می‌کند اما ساختار اقتصادی و مشروعیت داخلی را تضعیف می‌کند، افزایش هزینه‌ها و نارضایتی عمومی را تشدید و احتمال واکنش‌های نظامی و تحریمی بین‌المللی را بالا می‌برد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/iran-strait-of-hormuz-bab-el-mandeb-yemen-houthis/",
-        "clean_url": "https://www.cbsnews.com/news/iran-strait-of-hormuz-bab-el-mandeb-yemen-houthis",
-        "image": "http://www.bing.com/th?id=ONUT.i6JwscoS2hX7Hyw2PuEosA&pid=News",
-        "timestamp": 1774606020.0
     }
 ]
