@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ: آمریکا «به‌زودی خواهد رفت»",
+        "title_en": "Iran war: Trump says US will be 'leaving soon'",
+        "summary": [
+            "دونالد ترامپ اعلام کرده است که آمریکا «به‌زودی خواهد رفت»؛ خبر کوتاهی که در DW منتشر شده است.",
+            "اگر منظور ترامپ خروج آمریکا از صحنه مرتبط با تنش‌ها با ایران یا منطقه باشد، این اقدام می‌تواند فشار نظامی و سیاسی خارجی را تضعیف کند و ساختار اهرم‌های خارجی علیه رژیم را تضعیف نماید.",
+            "عواقب داخلی: کاهش حضور آمریکا احتمالاً فضای مانور سیاسی و نظامی برای رژیم را افزایش می‌دهد و در مقابل اپوزیسیون و اعتراضات مردمی را از حمایت و اهرم بین‌المللی محروم می‌سازد؛ همچنین خلأ قدرت ممکن است رقابت بازیگران منطقه‌ای را تشدید کند."
+        ],
+        "impact": "خروج قریب‌الوقوع آمریکا، در صورت تداوم، به کاهش فشار خارجی و بهبود ظرفیت بقا و مانور رژیم منجر خواهد شد و همزمان توان اپوزیسیون را از منظر فشار بین‌المللی تضعیف می‌کند.",
+        "tag": "خروج",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "DW.com",
+        "url": "https://www.msn.com/en-us/news/politics/trump-says-u-s-will-leave-iran-in-two-or-three-weeks/ar-AA1ZRnNZ",
+        "clean_url": "https://www.msn.com/en-us/news/politics/trump-says-u-s-will-leave-iran-in-two-or-three-weeks/ar-AA1ZRnNZ",
+        "image": null,
+        "timestamp": 1775025900.0
+    },
+    {
         "title_fa": "اتحادیه اروپا تحریم‌های ایران را به‌خاطر نقض حقوق بشر تمدید کرد",
         "title_en": "EU extends Iran sanctions citing human rights concerns",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.jurist.org/news/2026/04/eu-extends-iran-sanctions-citing-human-rights-concerns",
         "image": null,
         "timestamp": 1775021695.0
+    },
+    {
+        "title_fa": "چرا محمد قالیباف می‌تواند چرخ‌دنده‌ای حیاتی در پروژه ترامپ علیه ایران باشد",
+        "title_en": "Why Mohammad Ghalibaf Could Be A Critical Cog In Trump's Iran Project",
+        "summary": [
+            "بر اساس تیتر NDTV، مقاله ادعا می‌کند محمد قالیباف می‌تواند نقش محوری در پیشبرد «پروژه ترامپ» علیه ایران ایفا کند؛ اگر چنین نقشی محقق شود، قالیباف ممکن است به اهرمی داخلی برای تقویت فشار خارجی تبدیل شود.",
+            "پیامدهای تحریمی و فشار خارجی: هرگونه هم‌سویی یا تسهیل داخلی این پروژه، کارایی تحریم‌ها و فشار دیپلماتیک را افزایش می‌دهد و به تضعیف ساختارهای اقتصادی رژیم از جمله افزایش بی‌ثباتی ارزی، کاهش سرمایه‌گذاری و اختلال در واردات کلیدی می‌انجامد.",
+            "اقتصاد و اعتراضات داخلی: در بستر مدیریت اقتصادی ناکارآمد و نارضایتی عمومی موجود، ورود فعال بازیگران حکومتی به خدمت پروژه‌های فشار خارجی می‌تواند بی‌اعتمادی اجتماعی را تشدید و احتمال گسترش اعتراضات خیابانی را بالا ببرد. این تحلیل مبتنی بر تیتر است و از فرضیات بی‌پایه پرهیز شده است."
+        ],
+        "impact": "اگر نقش محوری قالیباف در طرح آمریکا تایید شود، رژیم در کوتاه‌مدت ضربه سیاسی-اقتصادی محسوس خواهد خورد و خطر تشدید نارضایتی و اعتراضات داخلی افزایش می‌یابد.",
+        "tag": "تهدید",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "NDTV",
+        "url": "https://www.msn.com/en-in/news/world/why-mohammad-ghalibaf-could-be-a-critical-cog-in-trump-s-iran-project/ar-AA1ZmbUY",
+        "clean_url": "https://www.msn.com/en-in/news/world/why-mohammad-ghalibaf-could-be-a-critical-cog-in-trump-s-iran-project/ar-AA1ZmbUY",
+        "image": null,
+        "timestamp": 1775015919.0
     },
     {
         "title_fa": "حمله به ایران: پرسش هسته‌ای",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX1JvRWhFWVo3S0VBV1h2aHNoVHhqVXVTZWlWTS13Y1pqY25CZl92LUVJWEpXSFVaOXp2REJ0YVVPbnhhOVBYTUItb2ZzZC1DVnQwVDhYVjJWdVg1M2FIbElYeENzRlhkZXZUWGVfVF9jcGNIcUh3TXJQT2F4M3lhV1FqcXBuUkMxdzJjaVNhRVVBOFc0WkxES3g5OHRjOXhZYXFZbkY0MFpVOGJH",
         "image": null,
         "timestamp": 1774625447.0
-    },
-    {
-        "title_fa": "ترامپ مهلت رسیدن به توافق با ایران را تمدید کرد؛ طرح ۱۵ بندی از طریق پاکستان ارسال شد",
-        "title_en": "Iran live updates: Trump extends deadline to reach deal with Iran",
-        "summary": [
-            "دولت ترامپ ضرب‌الاجل مذاکره با ایران را تمدید کرد.",
-            "یک برنامهٔ ۱۵ بندی از سوی آمریکا تهیه و از طریق پاکستان به سمت ایران ارسال شد.",
-            "اطلاعات درباره ارسال این طرح توسط دو منبع آشنا به جزئیات به ABC News اعلام شده است."
-        ],
-        "impact": "تمدید ضرب‌الاجل و ارسال طرح ۱۵ بندی فشار خارجی بر نظام را افزایش می‌دهد و می‌تواند به تشدید انزوای دیپلماتیک و فشارهای اقتصادی منجر شود که ثبات ساختاری رژیم را بیشتر آسیب‌پذیر می‌سازد.",
-        "tag": "فشار",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "ABC7 KABC",
-        "url": "https://abc7.com/live-updates/iran-war-news-trump-strikes-delay-israel-middle-east-oil/18756340/",
-        "clean_url": "https://abc7.com/live-updates/iran-war-news-trump-strikes-delay-israel-middle-east-oil/18756340",
-        "image": "http://www.bing.com/th?id=ONUT.E-0x3c1PecHEO2W52YQkrQ&pid=News",
-        "timestamp": 1774623300.0
-    },
-    {
-        "title_fa": "جنگ علیه ایران در جریان مذاکرات هسته‌ای، توان آمریکا برای گفتگو درباره صلح را تضعیف می‌کند — و پیامدها با ترک ترامپ پایان نخواهد یافت",
-        "title_en": "War on Iran during nuclear negotiations undermines the US’s ability to talk peace around the world − and the effects won’t end when Trump leaves office",
-        "summary": [
-            "مقاله می‌گوید اقدام نظامی یا فشار جنگی علیه ایران در همان زمان مذاکرات هسته‌ای، اعتبار آمریکا به‌عنوان میانجیِ صلح را تضعیف می‌کند و توان واشنگتن را در پیشبرد راه‌حل‌های دیپلماتیک جهانی کاهش می‌دهد.",
-            "نویسنده تأکید می‌کند که این تضعیفِ سرمایه دیپلماتیک موقتی نیست و رفتن یک رئیس‌جمهور (مثلاً ترامپ) به تنهایی اثرات بلندمدتِ بداعتی در اعتماد بین‌المللی ایجاد‌شده را جبران نخواهد کرد.",
-            "برای داخل ایران، هم‌زمانی فشار نظامی و تحریم‌ها می‌تواند روایت‌های نظام را تقویت کند، ساختارهای اقتصادی را بیشتر فرسوده سازد و مدیریت نارضایتی عمومی را دشوارتر کند؛ نتیجه این وضعیت پیچیدگی‌های سیاسی-اقتصادی را تشدید می‌کند."
-        ],
-        "impact": "نتیجه استراتژیک این است که ترکیب فشار نظامی و مذاکرات هسته‌ای، سرمایه دیپلماتیک آمریکا را تحلیل برده و ظرفیت دیپلماسی صلح در منطقه را برای سال‌ها تضعیف می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQnlyT1hrazZOR1NMQTNNSjJFLUF4d0FrRmFRaThDTl9nUUdlNEhVanFyVURZV25JaW1YdVBuWEtjTzNiUUltSlQ4UVRBajlJUzJfN2duT1Zpamd0OTg1djZELXBURk41a2tFX29Td0o0ZmVwTWFxRVVXbURTNTRZNE85UG40bmZPTGFUNUw1UUNiSHdEWno1Qko5MlZzOXhGR29QNnpYRGstWjk0S0NKRWNMMmFOYU1POGlEVUNMYkdmU1pmRDFPcTJpVnJDUWFYdmo3cmFmc1pXQ2FiVUtYa21OOG5DcVBqMnZDYWdsVXpOOVZVRFFPTmo0bk94OWVsR1lIN1RoWjdxSWxCTmU0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQQnlyT1hrazZOR1NMQTNNSjJFLUF4d0FrRmFRaThDTl9nUUdlNEhVanFyVURZV25JaW1YdVBuWEtjTzNiUUltSlQ4UVRBajlJUzJfN2duT1Zpamd0OTg1djZELXBURk41a2tFX29Td0o0ZmVwTWFxRVVXbURTNTRZNE85UG40bmZPTGFUNUw1UUNiSHdEWno1Qko5MlZzOXhGR29QNnpYRGstWjk0S0NKRWNMMmFOYU1POGlEVUNMYkdmU1pmRDFPcTJpVnJDUWFYdmo3cmFmc1pXQ2FiVUtYa21OOG5DcVBqMnZDYWdsVXpOOVZVRFFPTmo0bk94OWVsR1lIN1RoWjdxSWxCTmU0",
-        "image": null,
-        "timestamp": 1774623246.0
     }
 ]
