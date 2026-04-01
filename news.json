@@ -180,6 +180,42 @@
         "timestamp": 1775025900.0
     },
     {
+        "title_fa": "ترامپ: تهران خواستار آتش‌بس شده",
+        "title_en": "Iran War Live: Trump Says Tehran Asked For Ceasefire",
+        "summary": [
+            "دونالد ترامپ به نقل از کاخ سفید گفته تهران درخواست آتش‌بس کرده و او قرار است «به‌روزرسانی مهم» درباره جنگ ارائه کند.",
+            "اگر این ادعا درست باشد، نشان‌دهنده تضعیف استراتژیک رژیم زیر فشار نظامی و دیپلماتیک است و می‌تواند شکاف‌های درون‌حکومتی و آسیب‌پذیری سیاسی را عیان کند.",
+            "پیامدهای اقتصادی و اجتماعی چنین حرکتی بستگی به شرایط پذیرش آتش‌بس دارد؛ سوءمدیریت و فشار معیشتی موجود می‌تواند نارضایتی عمومی را تقویت کند."
+        ],
+        "impact": "تأیید درخواست آتش‌بس ممکن است موقتا فشار نظامی را کاهش دهد اما همزمان ضعف مشروعیت و آسیب‌پذیری داخلی رژیم را برجسته خواهد کرد.",
+        "tag": "آتش‌بس",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-war-live-trump-to-address-nation-strikes-continue-11766515",
+        "clean_url": "https://www.newsweek.com/iran-war-live-trump-to-address-nation-strikes-continue-11766515",
+        "image": "http://www.bing.com/th?id=ONUT.QYd-nPl4qIfo5DB30mnBJg&pid=News",
+        "timestamp": 1775025600.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده: ترامپ ادعا کرد رئیس‌جمهور ایران پیش از سخنرانی او خواهان آتش‌بس است",
+        "title_en": "Live updates: Trump claims Iran’s president wants a ceasefire ahead of his address to Americans",
+        "summary": [
+            "ترامپ مدعی شد که رئیس‌جمهور ایران خواهان آتش‌بس است و این ادعا در آستانه سخنرانی او خطاب به آمریکایی‌ها مطرح شد؛ گزارش اشاره‌ای به تأیید مستقل این ادعا ندارد.",
+            "این خبر در چارچوب به‌روزرسانی زنده خبرگزاری AP منتشر شده است که هم‌زمان پرونده‌های دیگر بین‌المللی را نیز پوشش می‌دهد، از جمله آدم‌ربایی خبرنگار در بغداد و پهلوگیری نفتکش روسیه در کوبا.",
+            "اگر ادعا درست باشد، می‌تواند نشانه‌ای از تمایل تهران به کاهش تنش یا واکنشی به فشار خارجی باشد؛ با این حال گزارش هیچ شواهد مستقلی درباره مکانیسم یا شرط‌های پیشنهادی آتش‌بس ارائه نمی‌دهد."
+        ],
+        "impact": "در صورت تأیید، این ادعا می‌تواند فشار فوری بر جناح‌های تندرو در تهران ایجاد و احتمال کاهش تنش را بالا ببرد، اما در غیاب تأیید مستقل اثرگذاری راهبردی آن نامطمئن است.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-01-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-01-2026",
+        "image": "http://www.bing.com/th?id=ONUT.Q0WkgmB8AujYPm3qMYArjQ&pid=News",
+        "timestamp": 1775024700.0
+    },
+    {
         "title_fa": "اتحادیه اروپا تحریم‌های ایران را به‌خاطر نقض حقوق بشر تمدید کرد",
         "title_en": "EU extends Iran sanctions citing human rights concerns",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HSGVESHNVa05ZdDF2R1pCNFd4ZFJFbmhyNnlzV0g3MGwzV0hTV1dZVEVkaEUtdWtva1otRkNwaXYtblYxY3k4cnVITXN6Z1dyRFZENXZmNTc3S2l6QnBDLV9NUnRzbHhSX1MwajlPdTBjOVZwZWpWSl92TWNwLUU",
         "image": null,
         "timestamp": 1774645601.0
-    },
-    {
-        "title_fa": "حمله اسرائیل به تاسیسات صنعتی و هسته‌ای ایران",
-        "title_en": "Israel attacks major industrial and nuclear sites in Iran",
-        "summary": [
-            "الجزیره گزارش می‌دهد که اسرائیل به تاسیسات صنعتی و هسته‌ای عمده در ایران حمله کرده است؛ گزارش اصلی جزئیات دقیق محل و تلفات را مشخص نکرده است.",
-            "حمله به زیرساخت‌های صنعتی و هسته‌ای مستقیماً ظرفیت فنی و بازدارندگی نظام را هدف گرفته و می‌تواند ساختار قدرت و توان تولیدی حکومت را تضعیف کند.",
-            "آسیب به تأسیسات حیاتی احتمالاً اختلالات اقتصادی، قطعی تولید و افزایش نارضایتی اجتماعی را تشدید می‌کند و دولت را تحت فشار بیشتر مدیریت بحران و سرکوب داخلی قرار می‌دهد."
-        ],
-        "impact": "این حمله می‌تواند فرایند فرسایش مشروعیت داخلی و تضعیف اقتصادی نظام را تسریع کند و خطر تشدید نظامی و آسیب بلندمدت به زیرساخت‌های ایران را بالا ببرد.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFpxM3FfLXBPZFFyVmJSQUJmc2c2MnotWWl2S2NQOUZIb0Zkb3dTcERrX0tkTlFJR2JLRk5XaDZTUWpGcm5kZldmSlRobDFldThTME9EVlozU0I3eXdaVDdScU90R25PNzJtYjJkTVA5X19FenlIM0ppaTdEclptWHF3QkdzMzJlazY5MEJYN2ZaMGxNRTc1Zm4xSXAxQWVHMDBnMkhib0pCazhl0gGyAUFVX3lxTE54QVV3SzZ4RDRzUUV5d2dxU0hqd3lpSWRpVEVYcVM5OFlFcTEzbENXTmFlcXBiMVFwTy1pWjVrQ0tLZDhEejBZZWZFX3oyTnJHWmhRSTE2TmxXdzdYWVRnOHAtM250QWdreXJqNDZfbm1CQndSOW5TbmlLY3VKSklzN1AyaVI1ajJSbC1Fbl9heXYzYm9leEtTSVU2VXZ2U09hZmRpaTJncFhmNl9UbkY4S3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWFpxM3FfLXBPZFFyVmJSQUJmc2c2MnotWWl2S2NQOUZIb0Zkb3dTcERrX0tkTlFJR2JLRk5XaDZTUWpGcm5kZldmSlRobDFldThTME9EVlozU0I3eXdaVDdScU90R25PNzJtYjJkTVA5X19FenlIM0ppaTdEclptWHF3QkdzMzJlazY5MEJYN2ZaMGxNRTc1Zm4xSXAxQWVHMDBnMkhib0pCazhl0gGyAUFVX3lxTE54QVV3SzZ4RDRzUUV5d2dxU0hqd3lpSWRpVEVYcVM5OFlFcTEzbENXTmFlcXBiMVFwTy1pWjVrQ0tLZDhEejBZZWZFX3oyTnJHWmhRSTE2TmxXdzdYWVRnOHAtM250QWdreXJqNDZfbm1CQndSOW5TbmlLY3VKSklzN1AyaVI1ajJSbC1Fbl9heXYzYm9leEtTSVU2VXZ2U09hZmRpaTJncFhmNl9UbkY4S3c",
-        "image": null,
-        "timestamp": 1774643413.0
-    },
-    {
-        "title_fa": "آخرین اخبار ایران: گزارش AP از مجروح شدن نیروهای آمریکایی در حمله موشکی به پایگاه هوایی سعودی",
-        "title_en": "Iran latest: US troops wounded in missile attack at Saudi air base, AP reports",
-        "summary": [
-            "خبرگزاری AP به نقل از منابع گزارش داد که یک حمله موشکی منتسب به ایران چندین نیروی آمریکایی را در یک پایگاه هوایی در عربستان سعودی مجروح و تعدادی هواپیما را آسیب‌دیده کرده است.",
-            "اطلاعات اولیه در مورد مقیاس خسارت و تلفات کامل نشده؛ رسانه محلی Fox 2 Detroit خبر را بازنشر کرده است و هنوز تأییدیه رسمی دولت‌های درگیر درباره همه جزئیات منتشر نشده.",
-            "این حمله، خطر تشدید مستقیم تنش بین ایران و آمریکا و افزایش امکان واکنش‌های نظامی یا تحریمی از سوی ایالات متحده و متحدانش را بالا می‌برد."
-        ],
-        "impact": "حمله گزارش‌شده احتمال واکنش نظامی-تحریمی آمریکا و متحدان را افزایش می‌دهد؛ در صورت تشدید فشارهای خارجی، این امر می‌تواند اقتصاد ایران را بیش‌تر تحت فشار قرار داده و ظرفیت رژیم برای مدیریت نارضایتی داخلی و ثبات سیاسی را تضعیف کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "FOX 2 Detroit",
-        "url": "https://www.fox2detroit.com/news/iran-latest-israel-expand-attack-iran-trump-delays-deadline-strait-hormuz",
-        "clean_url": "https://www.fox2detroit.com/news/iran-latest-israel-expand-attack-iran-trump-delays-deadline-strait-hormuz",
-        "image": null,
-        "timestamp": 1774643280.0
     }
 ]
