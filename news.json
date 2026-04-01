@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ به رویترز: آمریکا ایران را «خیلی سریع» ترک می‌کند و در صورت نیاز بازمی‌گردد",
+        "title_en": "US to leave Iran 'pretty quickly' and return if needed, Trump tells Reuters",
+        "summary": [
+            "دونالد ترامپ در گفت‌وگو با رویترز اعلام کرد که آمریکا ایران را «خیلی سریع» ترک خواهد کرد و در صورت لزوم باز خواهد گشت.",
+            "این اظهارنظر بیانگر رویکرد خروجی مشروط واشنگتن و نوسان در تعهدات سیاسی-امنیتی آمریکا نسبت به حضور و فشار بر تهران است.",
+            "پیام سیاسی این است که امکان کاهش موقت فشار خارجی یا تغییر در نحوه اجرای آن وجود دارد؛ چنین تغییری می‌تواند پیامدهای منطقه‌ای و داخلی قابل‌توجهی داشته باشد."
+        ],
+        "impact": "خروج مشروط آمریکا می‌تواند فشار خارجی و اجبار تحریمی را موقتاً تضعیف کند و فضای مانور رژیم را اندکی افزایش دهد، اما نوسان و عدم‌ثبات راهبردی واشنگتن نیز می‌تواند به افزایش ریسک بی‌ثباتی و رفتارهای محاسبه‌نشده در منطقه بینجامد.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/us-to-leave-iran-pretty-quickly-and-return-if-needed-trump-tells-reuters/ar-AA1ZVDhk",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-to-leave-iran-pretty-quickly-and-return-if-needed-trump-tells-reuters/ar-AA1ZVDhk",
+        "image": null,
+        "timestamp": 1775060950.0
+    },
+    {
         "title_fa": "مسیر ترامپ تعیین‌کننده هم‌راستایی آمریکا و اسرائیل علیه ایران خواهد بود",
         "title_en": "Trump’s path forward on Iran will determine US-Israeli war alignment",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/attacks-ramp-up-in-iran-war-including-strikes-on-us-troops-in-saudi-arabia/ar-AA1ZztBP",
         "image": null,
         "timestamp": 1775048569.0
+    },
+    {
+        "title_fa": "فهرست متغیرِ چهار هدف تیم ترامپ درباره ایران",
+        "title_en": "The Trump team’s ever-changing list of 4 goals in Iran",
+        "summary": [
+            "رسانه گزارش می‌دهد مقامات دولت ترامپ مرتباً چهار هدف اعلام‌شده‌شان درباره عملیات علیه ایران را تغییر داده‌اند: فهرست ابتداییِ هگست (انهدام موشک‌های هجومی، تولید موشک، نیروی دریایی و جلوگیری از دستیابی به هسته‌ای) و سپس نسخه اصلاحی ترامپ که اهداف1 و2 را ادغام و تمرکز جدیدی بر گروه‌های نیابتی منطقه‌ای اضافه کرد؛ سخنگوی کاخ سفید و سناتور روبیو نیز در زمان‌های مختلف نسخه‌های متفاوتی ارائه کردند.",
+            "تحلیل فشار خارجی: حملات نظامی و اعلام هدف‌های متعدد و متغیر، خودِ فشار خارجی را تشدید می‌کند و در سطح ساختاری می‌تواند توان موشکی، تدارکاتی و توانِ اعمال نفوذ منطقه‌ای رژیم را فرسایشی کند — امری که بالقوه ثبات سیاسی را تحت فشار قرار می‌دهد اما تحقق آن به حجم، پایایی و انسجام راهبردیِ اقدامات امریکا بستگی دارد.",
+            "وضع داخلی و اقتصاد: گزارش شواهد مستقیمی از نارضایتی عمومی یا تأثیرات اقتصادیِ ناشی از این تحولات ارائه نمی‌دهد؛ با این حال ادامه عملیات نظامیِ مبهم و پیام‌های متناقض واشنگتن می‌تواند به اختلالات اقتصادی و افزایش نارضایتی اجتماعی منجر شود، اگر فشار و هزینه‌های جنگ بر منابع داخلی تحمیل شود."
+        ],
+        "impact": "پیام‌های متناقض دولت امریکا درباره اهدافِ عملیات، ضعف راهبردی را نمایش می‌دهد و فشار نظامی-سیاسیِ مستمر می‌تواند بستری برای تضعیف ساختاری رژیم فراهم کند.",
+        "tag": "تناقض",
+        "urgency": 10,
+        "sentiment": 0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-administration-objectives-iran-war-175300511.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-administration-objectives-iran-war-175300511.html",
+        "image": "http://www.bing.com/th?id=ONUT.8fXt6VuP69VFDqZO3MgM-Q&pid=News",
+        "timestamp": 1775044200.0
     },
     {
         "title_fa": "پخش زنده — ساختمان سابق سفارت آمریکا در تهران هدف قرار گرفت؛ ترامپ قرار است آمریکایی‌ها را درباره جنگ مطلع کند",
@@ -448,6 +484,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-ceasefire-only-possible-when-hormuz-reopens/ar-AA1ZTreK",
         "image": "http://www.bing.com/th?id=ONUT.iKwbNps_LOJX2akPxJ67ag&pid=News",
         "timestamp": 1775028773.0
+    },
+    {
+        "title_fa": "به‌روزرسانی جنگ با ایران: ترامپ تهدید اورانیوم را کم‌اهمیت جلوه داد و سیگنال‌های متناقض فرستاد",
+        "title_en": "Iran War Live Updates: Trump Downplays Uranium Threat, Sending More Conflicting Signals",
+        "summary": [
+            "ترامپ به رویترز گفت دیگر نگران ذخیره اورانیوم ایران نیست چون «تا حد زیادی زیر زمین است» و ماهواره‌های جاسوسی آن را رصد می‌کنند؛ او قرار بود سخنرانی کند.",
+            "کاهش لحن تهدیدآمیز از سوی رییس‌جمهور آمریکا پیام هماهنگ فشار بین‌المللی را تضعیف می‌کند؛ این تشتت در مواضع واشنگتن می‌تواند کارایی تحریم‌ها و اهرم فشار سیاسی را کاهش دهد و به تهران فضای عملیاتی بیشتری بدهد.",
+            "رصد ماهواره‌ای قابلیت اطلاعاتی را مطرح می‌کند اما «زیرزمینی» بودن ذخایر مشکل هسته‌ای را حل نمی‌کند؛ تناقض گفتار واشنگتن متحدان را سردرگم کرده و فضای استراتژیک نامشخصی ایجاد می‌کند که می‌تواند به تضعیف فرصت‌های فشار برای تغییرات داخلی بینجامد."
+        ],
+        "impact": "تناقض در پیام‌های آمریکا احتمالاً کارایی فشار اقتصادی-سیاسی را کاهش داده و به افزایش انعطاف استراتژیک تهران منجر می‌شود.",
+        "tag": "ابهام",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news",
+        "clean_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news",
+        "image": "http://www.bing.com/th?id=ONUT.LymZRshzU-kZNxAC4hZhFQ&pid=News",
+        "timestamp": 1775028600.0
     },
     {
         "title_fa": "گزارش: ایران تانکری نزدیک سواحل قطر را هدف قرار داد؛ گزارش‌هایی درباره هدف قرار گرفتن فرودگاه کویت و کشته شدن ۵ نفر در حمله اسرائیل به بیروت",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/one-month-into-iran-war-only-hard-choices-trump-2026-03-28",
         "image": null,
         "timestamp": 1774674240.0
-    },
-    {
-        "title_fa": "جنگ آمریکا-اسرائیل علیه ایران",
-        "title_en": "US-Israel war on Iran",
-        "summary": [
-            "عنوان گزارش ادعا می‌کند که آمریکا و اسرائیل علیه ایران درگیر جنگ شده‌اند؛ اگر این خبر تأیید شود، معنای آن تغییر بنیادین در توازن امنیتی منطقه خواهد بود.",
-            "در چارچوب فشار خارجی، درگیری نظامی مستقیم به تشدید تحریم‌ها و محدودیت‌های بین‌المللی منجر می‌شود که ساختارهای اقتصادی و توان حکمرانی رژیم را زیر فشار می‌گذارد.",
-            "خطر افزایش نارضایتی داخلی و تنش‌های اجتماعی-اقتصادی بالا می‌رود؛ حکومت باید بین بسیج منابع برای جنگ و کنترل نارضایتی مردمی انتخاب کند که ناکارآمدی مدیریتی را برجسته خواهد کرد."
-        ],
-        "impact": "تأیید جنگ مستقیم آمریکا و اسرائیل علیه ایران، ثبات داخلی رژیم را به‌طور چشمگیر کاهش داده و احتمال گسترش ناآرامی‌های عمومی و تضعیف مشروعیت حاکم را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LSVFkclU2MmJEVzNmZUhwajZUQ3JQSjRWSzZrdFlueFBSZEl3Ql81eWZfVVZNbmtMXzJpWFBQNXViRjYyaGt5YTU5bkxYOW5xSV9vNUhiQXhTYmZKamZkLTBsYk50dw",
-        "image": null,
-        "timestamp": 1774674233.0
-    },
-    {
-        "title_fa": "به‌روزرسانی‌های اخیر جنگ با ایران پس از یک ماه: آمریکا؛ حدود یک‌سوم زرادخانه موشکی نابود شد",
-        "title_en": "The latest updates on the Iran war after a month",
-        "summary": [
-            "آمریکا اعلام کرده است که با قطعیت حدود یک‌سوم از زرادخانه موشکی ایران در جریان ماه اول نبرد تخریب شده است؛ جنگ وارد ماه دوم شده است.",
-            "تخریب گسترده موشکی نشان‌دهنده فشار نظامی و اطلاعاتی خارجی است که توان عملیاتی و بازدارندگی رژیم را هدف گرفته است.",
-            "کاهش ظرفیت موشکی می‌تواند هزینه‌های سیاسی و اقتصادی بیشتری برای رژیم ایجاد کند و موقعیت نظام را در معادلات منطقه‌ای ضعیف‌تر سازد."
-        ],
-        "impact": "نابودی نزدیک به یک‌سوم زرادخانه موشکی ضربه‌ای عملی به توان نظامی رژیم وارد کرده و فشار خارجی را بر تداوم اقتدار داخلی و ظرفیت پاسخ‌دهی آن افزایش می‌دهد.",
-        "tag": "تضعیف",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/03/28/nx-s1-5762815/the-latest-updates-on-the-iran-war-after-a-month",
-        "clean_url": "https://www.npr.org/2026/03/28/nx-s1-5762815/the-latest-updates-on-the-iran-war-after-a-month",
-        "image": null,
-        "timestamp": 1774673880.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده جنگ ایران-اسرائیل: ادعای ایران — بیش از ۵۰۰ نیروی آمریکایی کشته یا زخمی در یک ماه",
-        "title_en": "Iran Israel War Live Updates: 500 US Troops Killed or Wounded In One Month of Mideast War, Iran's Big Claim",
-        "summary": [
-            "ادعای رسمی ایران: تهران می‌گوید بیش از ۵۰۰ نیروی آمریکایی در منطقه «هایداوتس» در جریان حملات ایرانی کشته یا زخمی شده‌اند و در پیامی به دونالد ترامپ هشدار داده که منطقه به «گورستان» سربازان آمریکایی تبدیل خواهد شد.",
-            "ارتش اسرائیل اعلام کرده که موجی از حملات هوایی را علیه «سایت‌های زیرساختی رژیم» در تهران انجام داده و جزئیات اهداف را بعداً اعلام خواهد کرد؛ هم‌زمان آژیرها در جنوب اسرائیل به‌دلیل اعلام شلیک موشک از سوی ایران به صدا درآمد.",
-            "ارتش ایران از اجرای عملیات پهپادی علیه مراکز جنگ الکترونیک دشمن و رادار حیفا خبر داده و در قالب تبعات منطقه‌ای، یک موشک در مسیر ابوظبی توسط سامانه‌های دفاعی رهگیری شد که به زخمی‌شدن و افزایش تلفات محلی انجامید."
-        ],
-        "impact": "تشدید مستقیم عملیات‌های نظامی متقابل و ادعاهای سنگین تلفات آمریکایی، شانس افزایش فشار و تحریم‌های بین‌المللی و سنگین‌تر شدن هزینه‌های نظامی و مالی رژیم را بالا می‌برد و توان مدیریتی و ثبات داخلی را بیش از پیش فرسوده می‌کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-israel-us-war-live-updates-us-iran-news-ceasefire-trump-middle-east-dubai-uae-saudi-crude-oil-tensions-latest-news-liveblog-153933540",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-israel-us-war-live-updates-us-iran-news-ceasefire-trump-middle-east-dubai-uae-saudi-crude-oil-tensions-latest-news-liveblog-153933540",
-        "image": "http://www.bing.com/th?id=ONUT.9h82utS-SHRSB50UYHc1Rw&pid=News",
-        "timestamp": 1774673280.0
     }
 ]
