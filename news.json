@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ به دنبال توافق با ایران برای پایان جنگ",
+        "title_en": "Trump Seeks Deal With Iran to End War",
+        "summary": [
+            "خبر محدود است: تیتر حاکی از تلاش رئیس‌جمهور سابق/نامزد ترامپ برای رسیدن به توافق با جمهوری اسلامی به منظور خاتمه دادن به «جنگ» است، اما متن جزئیات و دامنه «جنگ» یا شروط توافق را روشن نمی‌کند.",
+            "تحریم‌ها/فشار خارجی: اگر این تلاش منجر به تسهیل یا لغو بخشی از تحریم‌ها شود، می‌تواند نفس اقتصادی کوتاه‌مدتی به رژیم بدهد و ساختار تضعیف‌شده آن را برای مدتی تثبیت کند؛ اگر شروط سخت‌گیرانه باقی بماند، فشارها از منظر فروپاشی بیشتر باقی خواهد ماند — همه‌چیز وابسته به مفاد توافق، که در خبر مشخص نیست.",
+            "اقتصاد و نارضایتی داخلی: حتی در صورت هرگونه معامله‌ای، کاهش فشارهای بیرونی به تنهایی مسایل ریشه‌ای ناشی از مدیریت ناموفق اقتصادی و فساد سیستماتیک را حل نمی‌کند؛ بنابراین انتظار سرکوب یا بازتولید نارضایتی اجتماعی در غیاب اصلاحات ساختاری معقول است."
+        ],
+        "impact": "بدون متن کامل نمی‌توان درباره نتایج دقیق قضاوت کرد، اما هر توافقی که تحریم‌ها را کاهش دهد موقتاً ثبات مالی رژیم را تقویت و ظرفیت سرکوب داخلی را افزایش خواهد داد؛ در غیاب اصلاحات واقعی، این ثبات سطحی خواهد بود.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "armscontrol.org",
+        "url": "https://www.msn.com/en-us/news/world/trump-cites-progress-with-iran-us-proposes-plan-to-end-war/ar-AA1ZlMlq",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-cites-progress-with-iran-us-proposes-plan-to-end-war/ar-AA1ZlMlq",
+        "image": null,
+        "timestamp": 1775079358.0
+    },
+    {
         "title_fa": "شلیک یکی از بزرگ‌ترین موج‌های موشکی ایران به مرکز اسرائیل",
         "title_en": "Central Israel hit by one of Iran’s largest missile barrages in weeks",
         "summary": [
@@ -180,6 +198,24 @@
         "timestamp": 1775056063.0
     },
     {
+        "title_fa": "رئیس‌جمهور ایران در نامه‌ای به مردم آمریکا سیاست «America First» ترامپ را به پرسش کشید",
+        "title_en": "Iran president questions Trump's America First' policy in letter to U.S. public",
+        "summary": [
+            "رئیس‌جمهور ایران نامه‌ای خطاب به افکار عمومی آمریکا نوشته و در آن سیاست «America First» دونالد ترامپ را مورد نقد قرار داده است.",
+            "گزارش می‌گوید ترامپ پیش‌تر اعلام کرده انتظار دارد آمریکا ظرف ۲–۳ هفته ایران را ترک کند و همچنین ادعا کرده رئیس‌جمهور جدید ایران خواستار آتش‌بس شده است، اما تصمیم آمریکا در این‌باره مشروط اعلام شده است.",
+            "این نوع پیام‌پراکنی هدف‌گرفته به افکار عمومی خارجی می‌تواند تلاشی جهت تغییر روایت بین‌المللی از سوی رژیم باشد، اما متن گزارش هیچ دلیلی بر کاهش فشارهای تحریمی یا تاثیر عملی فوری بر وضعیت میدانی و مشروعیت داخلی ارائه نمی‌دهد."
+        ],
+        "impact": "نامه‌ای که هدف خارجی دارد ممکن است در عرصه رسانه‌ای اثرگذار باشد اما شواهد گزارش شده نشان می‌دهد تاثیری بر تضعیف تحریم‌ها یا بهبود واقعی مشروعیت داخلی رژیم ندارد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/crypto/markets/iran-president-questions-trumps-america-first-policy-in-letter-to-u-s-public",
+        "clean_url": "https://www.thestreet.com/crypto/markets/iran-president-questions-trumps-america-first-policy-in-letter-to-u-s-public",
+        "image": "http://www.bing.com/th?id=ONUT.yKowOUelMNuPESnLQX1zIQ&pid=News",
+        "timestamp": 1775055780.0
+    },
+    {
         "title_fa": "گزارش: بریتانیا تا ۲۰۳۵ به ال‌ان‌جی آمریکا وابسته خواهد شد",
         "title_en": "UK to become dependent on US LNG by 2035 — report",
         "summary": [
@@ -268,6 +304,24 @@
         "clean_url": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html",
         "image": "http://www.bing.com/th?id=ONUT.Gu6ZIVsNKW0qXR91nzrrfQ&pid=News",
         "timestamp": 1775053080.0
+    },
+    {
+        "title_fa": "نظرسنجی‌ها درباره جنگ با ایران پیش از سخنرانی ترامپ",
+        "title_en": "What the polls say about the Iran war ahead of Trump's speech: From the Politics Desk",
+        "summary": [
+            "نظرسنجی‌های منتشرشده در آستانه سخنرانی ترامپ افکار عمومی درباره احتمال تقابل نظامی با ایران را ثبت کرده‌اند؛ این داده‌ها معیار عملیاتی برای سیاست‌گذاران و تحلیل‌گران است.",
+            "گفتار اخیر ترامپ درباره «تغییر رژیم» در ایران به‌عنوان محرکی که می‌تواند پذیرش عمومی مداخله یا تشدید تنش‌ها را تحت‌تأثیر قرار دهد مورد توجه قرار گرفته؛ گزارش اشاره‌ای به اقدام نظامی قریب‌الوقوع نمی‌کند.",
+            "پرونده دیوان عالی درباره حق شهروندی تولد نشان‌دهنده اولویت‌ها و دغدغه‌های داخلی آمریکا است که می‌تواند بودجه سیاسی و تمرکز واشنگتن را در آستانه تصمیم‌گیری‌های بزرگ درباره ایران پیچیده‌تر کند."
+        ],
+        "impact": "ترکیب فشار سیاسی داخلی آمریکا، گفتار تهاجمی سیاستمداران و نتایج نظرسنجی‌ها فضای بین‌المللی را علیه حکومت ایران تنگ‌تر می‌کند و ریسک اشتباه محاسباتی و تشدید تنش منطقه‌ای را بالا می‌برد.",
+        "tag": "ایران",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/politics-news/polls-iran-war-trump-speech-politics-desk-rcna266303",
+        "clean_url": "https://www.nbcnews.com/politics/politics-news/polls-iran-war-trump-speech-politics-desk-rcna266303",
+        "image": null,
+        "timestamp": 1775052720.0
     },
     {
         "title_fa": "رئیس‌جمهور آمریکا: همتای ایرانی او خواستار آتش‌بس شده است",
@@ -898,6 +952,24 @@
         "clean_url": "https://www.msn.com/en-in/news/world/why-mohammad-ghalibaf-could-be-a-critical-cog-in-trump-s-iran-project/ar-AA1ZmbUY",
         "image": null,
         "timestamp": 1775015919.0
+    },
+    {
+        "title_fa": "حمله اسرائیل به لبنان همزمان با سخنرانی ترامپ درباره جنگ با ایران",
+        "title_en": "Israel strikes Lebanon as Trump is set to deliver a speech on the Iran war",
+        "summary": [
+            "رسانه گزارش می‌دهد اسرائیل حملاتی به لبنان انجام داده و این رخداد هم‌زمان با اعلام سخنرانی رئیس‌جمهور ترامپ درباره جنگ با ایران است؛ کاخ‌سفید می‌گوید او قرار است «سخنرانی مهمی» ارائه کند.",
+            "هم‌زمانی عملیاتی نظامی اسرائیل و سخنرانی واشنگتن نشان‌دهنده تمرکز بالای بازیگران خارجی بر موضوع ایران است و می‌تواند به افزایش فشار دیپلماتیک و نظامی علیه تهران بینجامد؛ متن گزارش از تحولات بیشتر یا تعقیب تحریم‌های جدید سخن نمی‌گوید.",
+            "گزارش اشاره‌ای به واکنش‌های داخلی در ایران، اعتراضات یا ابعاد اقتصادی ندارد؛ بر پایه متن موجود، نمی‌توان قضاوت قطعی درباره تأثیر فوری این رویدادها بر ثبات داخلی و نارضایتی عمومی ارائه داد."
+        ],
+        "impact": "این تحولات احتمال تشدید درگیری منطقه‌ای را بالا می‌برد و تحت فشار خارجی بیشتر، توان بقا و مشروعیت رژیم در داخل را بیش از پیش آسیب‌پذیر می‌کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump",
+        "clean_url": "https://www.npr.org/2026/04/01/nx-s1-5769805/iran-war-trump",
+        "image": "http://www.bing.com/th?id=ONUT.HOTp_ImUxkGZ1wgmyDEztQ&pid=News",
+        "timestamp": 1775013000.0
     },
     {
         "title_fa": "تهدید ایران به هدف قرار دادن شرکت‌های فناوری آمریکا در صورت ادامه تشدید جنگ",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://apnews.com/article/trump-iran-objectives-one-month-1a32141f5ca2104af78625b3aa277421",
         "image": null,
         "timestamp": 1774697591.0
-    },
-    {
-        "title_fa": "رضا پهلوی در CPAC: «ایران آزاد یک خیال نیست»",
-        "title_en": "Exiled Iranian crown prince tells CPAC that ‘a free Iran is not a fantasy’",
-        "summary": [
-            "رضا پهلوی در کنفرانس CPAC گفت آزادی در ایران «در دسترس» است و این پیام را به مخاطبان محافظه‌کار آمریکایی و اپوزیسیون خارج‌نشین منتقل کرد.",
-            "سخنرانی با هدف جلب حمایت سیاسی و دیپلماتیک از اپوزیسیون و تقویت روایت قابل تحقق بودن تغییر طراحی شد؛ اما ماهیت آن فعلاً نمادین است و تبدیل به فشار عملی بر دولت‌ها نیازمند اقدامات بعدی است.",
-            "حضور در محافل تأثیرگذار آمریکا می‌تواند به تقویت روایت ضعف حکمرانی و جذب ائتلاف‌های جدید کمک کند، اما تأثیر واقعی بر ثبات رژیم وابسته به تداوم حمایت‌های داخلی و بین‌المللی و شکست مدیریت اقتصادی-سیاسی رژیم است."
-        ],
-        "impact": "در کوتاه‌مدت این سخنرانی بیشتر نمادین است و می‌تواند حمایت دیاسپورا و ائتلاف‌های خارجی ضد رژیم را تقویت کند اما تاثیری فوری بر ساختار سیاسی یا اقتصادی داخل ایران نخواهد داشت.",
-        "tag": "اپوزیسیون",
-        "urgency": 5,
-        "sentiment": 0.7,
-        "source": "The Hill",
-        "url": "https://thehill.com/policy/international/5805935-reza-pahlavi-iran-cpac/",
-        "clean_url": "https://thehill.com/policy/international/5805935-reza-pahlavi-iran-cpac",
-        "image": "http://www.bing.com/th?id=ONUT.d1vBTjrmIU_BCxNz73d0Cw&pid=News",
-        "timestamp": 1774696920.0
-    },
-    {
-        "title_fa": "تحلیل: حملات حوثی‌ها به اسرائیل برای جنگ با ایران چه معنایی دارد؟",
-        "title_en": "Analysis: What do Houthi attacks on Israel mean for the Iran war?",
-        "summary": [
-            "این حملات نقش بازیگران نیابتی مرتبط با تهران را در تعمیق و منطقه‌ای‌سازی بحران برجسته می‌کند و نشان می‌دهد منازعه فراتر از جبهه‌های مستقیم ایران شده است.",
-            "فشارهای خارجی و احتمال تشدید تحریم‌ها علیه شبکه‌های نیابتی — و به تبع آن فشار غیرمستقیم بر اقتصاد ایران — می‌تواند سازوکارهای مالی رژیم را تضعیف کند، به‌ویژه اگر غرب و همپیمانان منطقه‌ای واکنش عملی نشان دهند.",
-            "در سطح داخلی، رژیم ممکن است به استفاده از عملیات نیابتی برای منحرف‌سازی نارضایتی‌های اقتصادی و سیاسی روی آورد؛ اما تشدید تنش منطقه‌ای می‌تواند بازخوردهای اقتصادی و اجتماعی معکوسی ایجاد کند که بر ثبات داخلی تأثیر منفی دارد."
-        ],
-        "impact": "این تحرکات احتمال گسترش جنگ به سطح منطقه‌ای و افزایش فشار اقتصادی و سیاسی بر رژیم را بالا می‌برد و گزینه‌های کنترل داخلی را تضعیف می‌کند.",
-        "tag": "تشدید",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "chathamhouse.org",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlBTcFdTVkR3QUJvZmU3SXVDZlBOWjRIMHJpUFkwZWlDcXlJRHhuQzRhLXdDUm85alhwSDVUWkZpV2NsTTlaTGhLN3lFWVpaUm9jVkRIMGxOMkxQbG5xanIzTzdEaDl0SmM4NXIzaGhoOXd4a19JTHAyaWJyX3ZjaUFaRVJxakJKdmRPbFBPakVzNmM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVlBTcFdTVkR3QUJvZmU3SXVDZlBOWjRIMHJpUFkwZWlDcXlJRHhuQzRhLXdDUm85alhwSDVUWkZpV2NsTTlaTGhLN3lFWVpaUm9jVkRIMGxOMkxQbG5xanIzTzdEaDl0SmM4NXIzaGhoOXd4a19JTHAyaWJyX3ZjaUFaRVJxakJKdmRPbFBPakVzNmM",
-        "image": null,
-        "timestamp": 1774696538.0
-    },
-    {
-        "title_fa": "حمله‌ای از جانب ایران ۱۲ نظامی آمریکایی را مجروح کرد؛ دو نفر به‌طور جدی",
-        "title_en": "Attack by Iran leaves 12 US troops injured, two seriously: Live updates",
-        "summary": [
-            "گزارش USA TODAY می‌گوید حمله‌ای از جانب ایران موجب مصدومیت ۱۲ نظامی آمریکایی شده است که دو نفر از آنها در وضعیت جدی قرار دارند؛ گزارش جزئیات بیشتری ارائه نمی‌کند.",
-            "چنین حملاتی معمولاً زمینه‌ساز واکنش دیپلماتیک و افزایش فشار بین‌المللی هستند؛ تشدید تحریم‌ها و انزوای خارجی می‌تواند ساختار اقتصادی و سیاسی رژیم را بیشتر تضعیف کند.",
-            "در متن گزارش اشاره‌ای به پیامدهای داخلی یا اعتراضات نشده است؛ با این حال، تشدید تنش‌های خارجی و هزینه‌های نظامی بالقوه می‌تواند فشار اقتصادی و نارضایتی عمومی را در داخل تشدید کند."
-        ],
-        "impact": "این حادثه احتمال تشدید تنش‌ها و واکنش سخت‌تر آمریکا و متحدان را بالا می‌برد و می‌تواند فشارهای اقتصادی و سیاسی بر رژیم را افزایش دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/live-story/news/world/2026/03/28/iran-attack-us-troops-saudi-arabia-live-updates/89358677007/",
-        "clean_url": "https://www.usatoday.com/live-story/news/world/2026/03/28/iran-attack-us-troops-saudi-arabia-live-updates/89358677007",
-        "image": "http://www.bing.com/th?id=ONUT.QzSbmgRn6cjEe_osKiiWhw&pid=News",
-        "timestamp": 1774696080.0
-    },
-    {
-        "title_fa": "حملات اسرائیل خبرنگارکُش در لبنان؛ موج حملات به تهران و اتهام یمن به ایران",
-        "title_en": "Israeli strike kills journalists in Lebanon, as Yemen says Iran 'dragging country into war'",
-        "summary": [
-            "یک حمله هوایی اسرائیل در لبنان سه خبرنگار را کشت؛ نیروهای مسلح اسرائیل یکی از قربانیان، علی شویب از شبکه المنار، را متهم به عمل‌کرد به‌عنوان عامل عملیاتی کرده و کمیته حفاظت از روزنامه‌نگاران این اقدام را محکوم کرد.",
-            "رسانه‌های ایرانی از حملات سنگین در شرق و غرب تهران و فعال‌شدن پدافند هوایی گزارش داده‌اند؛ ارتش اسرائیل می‌گوید دفتر مرکزی سازمان صنایع دریایی ایران (MIO) در تهران هدف قرار گرفته و این حمله بخشی از «موج وسیع» حملات به زیرساخت‌ها بوده است.",
-            "دولت مورد شناسایی بین‌المللی یمن ایران را متهم کرده که تلاش می‌کند این کشور را به جنگ منطقه‌ای بکشد؛ پیش از این شورشیان حوثی برای نخستین بار از آغاز جنگ، موشکی به سمت اسرائیل شلیک کردند."
-        ],
-        "impact": "هدف‌گیری مراکز پژوهش و تولید دریایی همراه با کشته‌شدن خبرنگاران، ظرفیت نظامی و صنعتی رژیم را تضعیف، هزینه‌های دفاعی و فشارهای اقتصادی را افزایش و اعتبار بین‌المللی و آرامش داخلی را آسیب‌پذیرتر می‌کند؛ این ترکیب خطر گسترش مستقیم درگیری منطقه‌ای را بالا می‌برد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/cje4x38q8xqt",
-        "clean_url": "https://www.bbc.com/news/live/cje4x38q8xqt",
-        "image": "http://www.bing.com/th?id=ONUT.fcuPtgIC-7_iUro23GBv_g&pid=News",
-        "timestamp": 1774695360.0
     }
 ]
