@@ -18,6 +18,24 @@
         "timestamp": 1775160470.0
     },
     {
+        "title_fa": "چه چیزی ممکن است جنگ اسرائیل با ایران را خاتمه دهد؟",
+        "title_en": "What might end Israel’s war on Iran?",
+        "summary": [
+            "تیتر سوالی الجزیره این پرسش را مطرح می‌کند اما متن گزارش در اختیار نیست؛ بنابراین برداشت‌های دقیق از ادعاها یا شواهد مطرح‌شده در مقاله غیرممکن است.",
+            "در چارچوب تحلیلی، تشدید تحریم‌ها و فشار خارجی ساختار اقتصادی و سیاسی رژیم را تضعیف می‌کند و می‌تواند توان ادامه تقابل را کاهش داده و ترجیحات تصمیم‌گیرندگان را تغییر دهد (این حکم مشروط به وجود و دوام چنین فشارهایی است).",
+            "نبود اطلاعات موثق درباره سطح نارضایتی داخلی و وضعیت اقتصادی مانع از نتیجه‌گیری دقیق است؛ با این حال، سوءمدیریت و نارضایتی عمومی که قابل اثبات باشد، عامل کلیدی در تسریع یا پیچیده‌سازی هر راه‌حل پایان‌دهنده به درگیری خواهد بود."
+        ],
+        "impact": "بدون متن کامل، تنها نتیجه عملی اینکه پایان این تقابل بستگی مستقیم به شدت فشارهای خارجی، توان نظامی طرفین و میزان بی‌ثباتی داخلی دارد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.nytimes.com/2026/03/25/world/middleeast/us-iran-war-talks-trump.html",
+        "clean_url": "https://www.nytimes.com/2026/03/25/world/middleeast/us-iran-war-talks-trump.html",
+        "image": null,
+        "timestamp": 1775159712.0
+    },
+    {
         "title_fa": "تکرار گزاره «۲ تا ۳ هفته» ترامپ درباره پایان جنگ با ایران: آشنا و گمراه‌کننده",
         "title_en": "Why Trump’s ‘2 to 3 week’ timeline for the Iran war’s end sounds familiar",
         "summary": [
@@ -232,6 +250,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iranian-president-pens-open-letter-to-american-people/ar-AA1ZW1Ir",
         "image": null,
         "timestamp": 1775139491.0
+    },
+    {
+        "title_fa": "تایید نقل‌قول: مارکو روبیو گفت اگر ایران به جای تسلیحات روی مردم سرمایه‌گذاری می‌کرد، کشور بسیار متفاوتی بود",
+        "title_en": "Fact Check: Marco Rubio said Iran would be 'much different country' if it spent money on people instead of weapons",
+        "summary": [
+            "نقل‌قول به‌درستی به مارکو روبیو نسبت داده شده؛ او در برنامه Good Morning America در 29 مارس 2026 گفت «اگر به‌جای صرف میلیاردرها برای تروریسم یا تسلیحات، آن پول را صرف مردم ایران کرده بودند، کشور بسیار متفاوتی می‌داشتید» (حدود زمان 4:46).",
+            "این اظهارنظر در جریان جنگ جاری میان ایالات متحده و اسرائیل با ایران مطرح شد و هم‌زمان دونالد ترامپ ادعا کرد با «رژیمی جدید و منطقی‌تر» در ایران گفتگو می‌شود؛ با این حال تحلیل‌گران گزارش‌شده می‌گویند شواهدی دال بر از دست رفتن کنترل حکومت وجود ندارد.",
+            "تحلیل روبیو بر این نکته تاکید دارد که بخشی از منابع مالی تهران به فعالیت‌های برون‌مرزی و توان نظامی اختصاص یافته؛ این روایت می‌تواند به عنوان توجیهی برای افزایش فشارهای بین‌المللی و داخلی علیه حکومت مطرح و نقطه‌ضعفی برای مشروعیت داخلی آن قلمداد شود."
+        ],
+        "impact": "اظهارنظر یک مقام ارشد آمریکایی روایت انتقاد از تخصیص منابع در ایران را تقویت می‌کند و می‌تواند به توجیه اقدامات فشار خارجی و تقویت اهرم سیاسی مخالفان داخلی و خارجی تبدیل شود.",
+        "tag": "روایت",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/fact-check-marco-rubio-said-204900571.html",
+        "clean_url": "https://www.yahoo.com/news/articles/fact-check-marco-rubio-said-204900571.html",
+        "image": "http://www.bing.com/th?id=ONUT.8RwDduURBptFS5uJ-HudnA&pid=News",
+        "timestamp": 1775138640.0
     },
     {
         "title_fa": "پاکستان با وجود «موانع» به میانجی‌گری بین ایران و آمریکا ادامه می‌دهد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-weighs-military-operation-to-extract-iran-s-uranium/ar-AA1ZG9lJ",
         "image": "http://www.bing.com/th?id=ONUT.CV5wyOQlYA_em3--jRbEkQ&pid=News",
         "timestamp": 1774807740.0
-    },
-    {
-        "title_fa": "حمله ایران به منطقه صنعتی در جنوب اسرائیل",
-        "title_en": "Iran hits industrial zone in southern Israel",
-        "summary": [
-            "طبق گزارش، ایران به یک منطقه صنعتی در جنوب اسرائیل حمله کرده است؛ جزئیات فنی و پیامدهای فوری نظامی در متن گزارش ارائه نشده‌اند اما این اقدام علامت‌گر افزایش مستقیم تنش‌های نظامی است.",
-            "این نوع عملیات می‌تواند به واکنش‌های دیپلماتیک و تحریمی جدید علیه ایران منجر شود؛ در صورت تشدید فشار خارجی، ساختارهای اقتصادی و سیاسی رژیم بیش‌تر در معرض تلاطم قرار می‌گیرند و توان بازدارندگی داخلی را کاهش می‌دهد.",
-            "اگرچه گزارش شواهدی درباره وضعیت اعتراضات داخلی یا تأثیر اقتصادی مستقیم ارائه نمی‌کند، اما تجربه نشان می‌دهد هزینه‌های استراتژی‌های برون‌مرزی برای حکومت در بلندمدت به افت مشروعیت و تشدید نارضایتی‌های اجتماعی می‌انجامد."
-        ],
-        "impact": "به‌صورت فوری خطر گسترش درگیری منطقه‌ای و احتمال پاسخ نظامی یا فشار تحریمی از سوی اسرائیل و متحدانش افزایش یافته است.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.wsj.com/livecoverage/iran-war-middle-east-news-updates/card/israeli-officials-warn-residents-near-damaged-factory-to-stay-inside-aom56XjeLeniPFAYCNnh",
-        "clean_url": "https://www.wsj.com/livecoverage/iran-war-middle-east-news-updates/card/israeli-officials-warn-residents-near-damaged-factory-to-stay-inside-aom56XjeLeniPFAYCNnh",
-        "image": null,
-        "timestamp": 1774801456.0
-    },
-    {
-        "title_fa": "هشدار ایران به آمریکا درباره تهاجم زمینی؛ پاکستان مذاکرات دیپلماتیک را پیگیری می‌کند",
-        "title_en": "Iran warns U.S. against ground invasion, as Pakistan holds diplomatic talks",
-        "summary": [
-            "ایران رسماً آمریکا را از اجرای هرگونه تهاجم زمینی برحذر داشت؛ این اعلام عمومی نشان‌دهنده نگرانی تهران از احتمال مداخله نظامی مستقیم است.",
-            "پاکستان در حال برگزاری مذاکرات دیپلماتیک است؛ گزارش مبهم است و طرف‌ها یا محتوای مذاکرات دقیقاً مشخص نشده‌اند، اما حرکت نشان‌دهنده تلاش‌های دیپلماتیک منطقه‌ای برای مدیریت بحران است.",
-            "این نوع هشدارها می‌تواند فشارهای بین‌المللی را تشدید کند و با توجه به آسیب‌پذیری اقتصادی ناشی از مدیریت ناکارآمد، ظرفیت حکومت برای مقابله با شوک‌های جدید را کاهش دهد."
-        ],
-        "impact": "این تحولات ریسک درگیری نظامی مستقیم را بالا می‌برد و هم‌زمان احتمال افزایش فشارهای اقتصادی و دیپلماتیک را تقویت می‌کند که ثبات داخلی را بیش از پیش تضعیف خواهد کرد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NPR",
-        "url": "https://www.boisestatepublicradio.org/2026-03-29/iran-warns-u-s-against-ground-invasion-as-pakistan-holds-diplomatic-talks",
-        "clean_url": "https://www.boisestatepublicradio.org/2026-03-29/iran-warns-u-s-against-ground-invasion-as-pakistan-holds-diplomatic-talks",
-        "image": null,
-        "timestamp": 1774801078.0
     }
 ]
