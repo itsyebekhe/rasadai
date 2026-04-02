@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "به‌روزرسانی زنده: آخرین اخبار از اسرائیل، ایران و خاورمیانه",
+        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "summary": [
+            "تشدید جنگ: گزارش‌ها از ماه‌ها عملیات نظامی میان آمریکا، اسرائیل و هم‌پیمانان منطقه‌ای ایران خبر می‌دهند؛ هشدار ترامپ درباره حمله به زیرساخت‌های انرژی و غیرنظامی ایران، افزایش عملیات اسرائیل در جنوب لبنان و حملات مکرر به تاسیسات و مسیرهای دریایی خلیج فارس، بازار نفت را متلاطم و تنگه هرمز را تحت فشار گذاشته است.",
+            "بازی تبلیغاتی و بسیج داخلی: ادعای رئیس‌جمهور مبنی بر «هفت میلیون ایرانی آماده برای برداشتن سلاح» و پخش تصاویر سپاه که پیام‌های ضدترامپ را روی موشک‌ها می‌چسباند نشان‌دهنده تلاش رژیم برای militarize کردن فضای ملی و بهره‌برداری از خشم عمومی، با وجود تکذیب گفت‌وگوهای پشت درها است.",
+            "فشار دیپلماتیک و هزینه بین‌المللی: نشست به رهبری بریتانیا با حضور بیش از ۶۰ کشور و موضع هند مبنی بر لزوم کاهش تنش و حفظ آزادی ناوبری نشان می‌دهد جامعه بین‌الملل به دنبال مهار بحران است؛ این کنش‌ها گزینه‌های رژیم را محدود و امکان استفاده از فشار اقتصادی و دیپلماتیک را بالا می‌برند."
+        ],
+        "impact": "تهدید به هدف قرار گرفتن زیرساخت‌های انرژی و تشدید درگیری، منابع درآمدی و دوام حکمرانی رژیم را هدف گرفته و به سرعت نارضایتی و فشارهای اقتصادی داخلی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-israel-us-war-live-updates-us-iran-news-ceasefire-trump-nuclear-sites-tensions-latest-news-liveblog-153970574",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-israel-us-war-live-updates-us-iran-news-ceasefire-trump-nuclear-sites-tensions-latest-news-liveblog-153970574",
+        "image": null,
+        "timestamp": 1775142005.0
+    },
+    {
+        "title_fa": "پاکستان با وجود «موانع» به میانجی‌گری بین ایران و آمریکا ادامه می‌دهد",
+        "title_en": "Pakistan to continue with Iran-US mediation despite ‘obstacles’",
+        "summary": [
+            "پاکستان اعلام کرده که علیرغم موانع به نقش میانجی‌گرانه بین ایران و آمریکا ادامه می‌دهد؛ این اقدام نشان می‌دهد که کانال‌های دیپلماتیک منطقه‌ای هنوز برای کاهش سریع تنش‌ها فعال هستند.",
+            "تحلیل سانتک‌ها/فشار خارجی: میانجیگری می‌تواند از تشدید فوری تنش‌ها و افزایش هزینه‌های بین‌المللی برای تهران جلوگیری کند، اما به طور ساختاری ضعف‌های اقتصادی و سیاسی رژیم را رفع نخواهد کرد و فقط تسکین موقتی فراهم می‌آورد.",
+            "اقتصاد و مدیریت داخلی: بدون اصلاحات اقتصادی و بهبود پاسخگویی حکمرانی، پیشرفت دیپلماتیک محدود خواهد بود و مسائل بنیادین نارضایتی عمومی و شکست مدیریت را درمان نمی‌کند."
+        ],
+        "impact": "ادامه میانجیگری پاکستان می‌تواند از تشدید نظامی فوری جلوگیری کند اما تاثیری بنیادین بر تزلزل ساختاری و مشکلات اقتصادی-سیاسی رژیم ندارد.",
+        "tag": "میانجیگری",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/politics/international-relations/pakistan-to-continue-with-iran-us-mediation-despite-obstacles/ar-AA200EZ7",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/pakistan-to-continue-with-iran-us-mediation-despite-obstacles/ar-AA200EZ7",
+        "image": null,
+        "timestamp": 1775136203.0
+    },
+    {
         "title_fa": "واکنش ایران به سخنرانی ترامپ: حملات موشکی به اسرائیل و کشورهای خلیج",
         "title_en": "Iran responds to Trump address with missile attacks on Israel, Gulf states",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://www.khou.com/article/news/nation-world/attack-on-iran/iran-more-missiles-us-threats/507-13f9eacd-cfaa-42d4-ab84-1f2e248214a4",
         "image": null,
         "timestamp": 1775132520.0
+    },
+    {
+        "title_fa": "ترامپ تعیین‌گر سرنوشت آتی جنگ نیست",
+        "title_en": "Trump Won't Decide What Happens Next In The War",
+        "summary": [
+            "ترامپ در سخنرانی شبانه اعلام کرد «اهداف راهبردی نزدیک به تکمیل» است و وعده زد ایالات‌متحده «در دو تا سه هفته آینده بسیار سخت ضربه خواهد زد»، اما مشخص نکرده منظور از «پایان کار» چیست.",
+            "ادعاهای رئیس‌جمهور درباره غرق شدن نیروی دریایی ایران، نابودی نیروی هوایی و فلج شدن توان موشکی و هسته‌ای عمدتاً بی‌تحلیل مبتنی بر شواهد علنی هستند؛ ابهام در اهداف و معیارهای موفقیت خطر تشدید و بی‌ثباتی را بالا می‌برد.",
+            "سرنوشت گام‌های بعدی بنا به متن گزارش به تصمیمات تهران وابسته است: رژیم باید هزینه‌های مقاومت ادامه‌دار را در برابر هزینه‌های «تسلیم یا حاکم به نظر نرسیدن» محاسبه کند که این محاسبه خود نشان‌دهنده فشار سیاسی و مخاطرات داخلی برای حکومت است."
+        ],
+        "impact": "تهدید به حملات فشرده در دو تا سه هفته آتی احتمال تشدید نظامی و فرسایش ظرفیت‌های حکومتی در ایران را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Rediff.com",
+        "url": "https://www.rediff.com/news/special/trump-wont-decide-what-happens-next-in-the-war/20260402.htm",
+        "clean_url": "https://www.rediff.com/news/special/trump-wont-decide-what-happens-next-in-the-war/20260402.htm",
+        "image": "https://im.rediff.com/1200-630/news/2026/apr/02iran-crisis-prem1.jpg",
+        "timestamp": 1775132340.0
     },
     {
         "title_fa": "جنگ آمریکا و اسرائیل علیه ایران شتاب‌دهندهٔ دلارزدایی و افول هژمونی آمریکاست",
@@ -144,6 +198,24 @@
         "timestamp": 1775117220.0
     },
     {
+        "title_fa": "جهش قیمت نفت و سقوط بازارها پس از اظهارات ترامپ درباره پایان نامشخص جنگ با ایران",
+        "title_en": "Live updates: Oil prices surge, stocks fall after Trump offers no clear end to war against Iran",
+        "summary": [
+            "قیمت نفت جهش کرد و شاخص‌های سهام به دنبال اظهارات دونالد ترامپ که پایان روشنی برای درگیری با ایران اعلام نکرد، سقوط کردند.",
+            "بریتانیا بیش از ۴۰ کشور را برای برنامه‌ریزی بازگشایی تنگه هرمز گرد هم آورده تا پیامدهای اختلال در مسیرهای انرژی را مدیریت کند.",
+            "ابهام نسبت به پایان‌پذیری تنش نظامی ریسک طولانی شدن درگیری و اختلال پایدار در بازار انرژی را افزایش می‌دهد و عدم قطعیت را در اقتصاد جهانی و منطقه بالا می‌برد."
+        ],
+        "impact": "ابهام درباره خاتمه درگیری احتمال فشارهای خارجی و تحریم‌های بیشتر و نوسانات ارزی-قیمتی را تقویت می‌کند که ساختار اقتصادی و مشروعیت داخلی رژیم را تضعیف و نارضایتی عمومی را تشدید می‌کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-02-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-02-2026",
+        "image": "http://www.bing.com/th?id=ONUT.C_xnt6an0HZmeyK2B5WJhQ&pid=News",
+        "timestamp": 1775116980.0
+    },
+    {
         "title_fa": "روز ۳۴ جنگ ایران: چه رخ می‌دهد؟",
         "title_en": "Iran war: What is happening on day 34 of US-Israel attacks?",
         "summary": [
@@ -232,6 +304,24 @@
         "clean_url": "https://time.com/article/2026/04/02/iran-threatens-crushing-broader-attacks-us-israel-after-trump-warning",
         "image": "http://www.bing.com/th?id=ONUT.EipCiACD5ivla3F92Bor3A&pid=News",
         "timestamp": 1775112900.0
+    },
+    {
+        "title_fa": "صعود قیمت نفت و گفت‌وگوهای متحدان برای امن‌سازی هرمز پس از وعده ترامپ به تشدید حملات علیه ایران",
+        "title_en": "Oil prices surge, allies discuss securing Hormuz after Trump vows to step up Iran attacks",
+        "summary": [
+            "قیمت نفت به‌سرعت افزایش یافت و بازارها به افزایش ریسک عرضه واکنش نشان دادند؛ متحدان غربی درباره تأمین امنیت تنگه هرمز برای حفظ خطوط انرژی رایزنی کردند.",
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، وعده تشدید حملات علیه ایران داد که امید به پایان سریع جنگ در خاورمیانه را از بین برد و خطر گسترش مستقیم درگیری را بالا برد.",
+            "افزایش فشار نظامی و احتمال تشدید تحریم‌ها ساختار اقتصادی و سیاسی رژیم را بیش‌تر تضعیف می‌کند؛ کاهش دسترسی به درآمدهای نفتی و ارز خارجی می‌تواند نارضایتی عمومی و ریسک بی‌ثباتی داخلی را افزایش دهد."
+        ],
+        "impact": "تحولات کنونی ساختار تضعیف رژیم را تسریع کرده و فضای اقتصادی-سیاسی را به سمت افزایش نارضایتی و تشدید احتمال ناآرامی‌های سراسری سوق می‌دهد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/oil-prices-surge-allies-discuss-securing-hormuz-after-trump-vows-to-step-up-iran-attacks/ar-AA200P1C",
+        "clean_url": "https://www.msn.com/en-us/news/world/oil-prices-surge-allies-discuss-securing-hormuz-after-trump-vows-to-step-up-iran-attacks/ar-AA200P1C",
+        "image": "http://www.bing.com/th?id=ONUT.pCmON0AlSgGdL8DJ5kES_g&pid=News",
+        "timestamp": 1775108832.0
     },
     {
         "title_fa": "ترامپ جنگ با ایران را «سرمایه‌گذاری واقعی در فرزندانتان» خواند: به‌روزرسانی زنده",
@@ -394,6 +484,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPTEd5Z191UktSanlzMFlhV3lJOHFYZG5tSkJtSkVBNXZpcmNoaWZnLVM1QUdXTXJEZUFZdW05UWRmbkx6UmRIcGxka2hZSERkLVJBNWZwVU5sRW9mUUlGY1hRZFJOUk5EMVFpQ1JJOTUxNG05aHVxUTZDWThZZw",
         "image": null,
         "timestamp": 1775099400.0
+    },
+    {
+        "title_fa": "ترامپ خروج از توافق هسته‌ای اوباما را «فاجعه» خواند و گفت از پاره کردن آن «افتخار» می‌کند",
+        "title_en": "Trump unleashes on Obama's 'disaster' Iran nuclear deal, says he was 'honored' to rip it apart",
+        "summary": [
+            "ترامپ پایان توافق هسته‌ای ۲۰۱۵ را یکی از بزرگ‌ترین دستاوردهای خود خواند و متن توافق اوباما را «فاجعه» توصیف کرد.",
+            "خروج آمریکا از برجام به بازگرداندن تحریم‌ها انجامید و به‌طور ساختاری فشار اقتصادی بر حکومت را افزایش داد؛ ضریب آسیب‌پذیری سیاست‌ورزی و بودجه‌ریزی رژیم را بالا برد.",
+            "تشدید فشارهای اقتصادی و کاهش درآمدهای ارزی، نشانه‌های ناکارآمدی مدیریتی را عمیق‌تر کرده و زمینه‌های نارضایتی اجتماعی و بحران‌های سیاسی داخلی را تقویت می‌کند."
+        ],
+        "impact": "لغو برجام توسط آمریکا و بازگشت تحریم‌ها ثبات داخلی حکومت را تضعیف کرده و توان عملیاتی و سیاسی تهران را برای مدیریت بحران‌های اقتصادی و منطقه‌ای کاهش می‌دهد.",
+        "tag": "برجام",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/trump-unleashes-on-obama-s-disaster-iran-nuclear-deal-says-he-was-honored-to-rip-it-apart/ar-AA1ZYqgK",
+        "clean_url": "https://www.msn.com/en-us/news/politics/trump-unleashes-on-obama-s-disaster-iran-nuclear-deal-says-he-was-honored-to-rip-it-apart/ar-AA1ZYqgK",
+        "image": "http://www.bing.com/th?id=ONUT.i6Z9-QHwNru4ZF4vlHu3fA&pid=News",
+        "timestamp": 1775098808.0
     },
     {
         "title_fa": "«ما همه کارت‌ها را در اختیار داریم»: دونالد ترامپ می‌گوید جنگ آمریکا با ایران «نزدیک به تکمیل» است",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/pakistan-hosts-four-nation-bid-to-encourage-us-iran-towards-diplomacy/ar-AA1ZEjYY",
         "image": null,
         "timestamp": 1774782858.0
-    },
-    {
-        "title_fa": "تشدید جنگ مرتبط با ایران؛ حوثی‌ها برای نخستین بار به اسرائیل حمله کردند",
-        "title_en": "Iran war escalates as Houthis launch first strikes on Israel",
-        "summary": [
-            "حوثی‌ها برای نخستین بار حملاتی علیه اسرائیل انجام دادند؛ این اقدام جنگ را از مرزهای مستقیم ایران-اسرائیل فراتر برده و منطقه را وارد فاز جدیدی از تشدید کرده است.",
-            "گسترش نقش بازیگران نیابتی هم‌پوشان با تهران، خطر واکنش‌های نظامی گسترده‌تر و افزایش فشارهای تحریمی و دیپلماتیک بر حکومت ایران را بالا می‌برد و به تضعیف ساختار ثبات دولت کمک می‌کند.",
-            "در صورت ادامه تشدید، اقتصاد آسیب‌پذیر داخلی و سطح بالای نارضایتی اجتماعی می‌تواند بدتر شود؛ این وضعیت ریشه در سوء‌مدیریت ساختاری دارد و ظرفیت حکومت برای کنترل تبعات را کاهش می‌دهد."
-        ],
-        "impact": "این رخداد خطر تبدیل درگیری‌های نیابتی به رویارویی مستقیم را افزایش می‌دهد و بار فشارهای بین‌المللی و اقتصادی را بر حکومت ایران سنگین‌تر می‌کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS1PTERyT0lobFhQZFk4MVRnV0pFbWdyR2Fmdzh0U1daZ2FScUlVQUhxZXNLZmQ1TFpjd19MUkw5UFNMdU4xay11c0ZYckx0Y3NKdjR0SGF0TGNOeEQzeVVycFVBTmRoYkFLZkpWcnJIWmh3bnBadkVuUG5pUFhXOEdrSF8wbUY0d180bjRtNU8zSk91ZWN6NEpzQUVQdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeS1PTERyT0lobFhQZFk4MVRnV0pFbWdyR2Fmdzh0U1daZ2FScUlVQUhxZXNLZmQ1TFpjd19MUkw5UFNMdU4xay11c0ZYckx0Y3NKdjR0SGF0TGNOeEQzeVVycFVBTmRoYkFLZkpWcnJIWmh3bnBadkVuUG5pUFhXOEdrSF8wbUY0d180bjRtNU8zSk91ZWN6NEpzQUVQdw",
-        "image": null,
-        "timestamp": 1774781266.0
-    },
-    {
-        "title_fa": "پاکستان می‌گوید میزبان گفت‌وگوهای آمریکا و ایران می‌شود؛ ایران هشدار داد نیروهای زمینی آمریکا «به آتش کشیده خواهند شد»",
-        "title_en": "Pakistan says it will host US-Iran talks, while Iran warns US ground troops would be ‘set on fire’",
-        "summary": [
-            "پاکستان، به گفته وزیر خارجه اشق دار، آماده است میان آمریکا و ایران میزبان گفت‌وگوها شود؛ تاکنون از واشنگتن یا تهران تایید رسمی نیامده و مشخص نیست مذاکرات مستقیم خواهند بود یا غیرمستقیم — فرصتی دیپلماتیک که ماهیت و دامنه آن تعیین‌کننده مسیر بحران است.",
-            "زبان تهدیدآمیز تهران درباره «به آتش کشیده شدن» نیروهای زمینی آمریکا همراه با مراسم ترحیم خبرنگاران کشته‌شده در حمله اسرائیل، نشان می‌دهد رژیم با رواج گفتمان جنگی علیه رقبای خارجی و استفاده از محورهای منطقه‌ای، تنش‌ها را تشدید می‌کند و فضای مصالحه را تضعیف می‌کند.",
-            "مشاهدات میدانی — عبور شهروندانی که بار و اثاثیه خود را حمل می‌کنند از مرز شلمچه و توقف‌‌گاه‌های بسیج در تهران — نمایانگر فشار داخلی، آوارگی و سیاست‌های امنیتی سرکوبگر است؛ این شواهد مؤید ضعف مدیریتی و ناکارآمدی اقتصادی-امنیتی رژیم است."
-        ],
-        "impact": "اگر گفت‌وگوها واقعاً برگزار شوند می‌توانند فشار خارجی و تحریم‌ها را تسکین دهند، اما لحن تهاجمی تهران خطر شکست مذاکرات و تشدید نظامی منطقه‌ای را بالا می‌برد.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "The San Diego Union-Tribune",
-        "url": "https://www.sandiegouniontribune.com/2026/03/28/pakistan-says-it-will-host-us-iran-talks-while-iran-warns-us-ground-troops-would-be-set-on-fire/",
-        "clean_url": "https://www.sandiegouniontribune.com/2026/03/28/pakistan-says-it-will-host-us-iran-talks-while-iran-warns-us-ground-troops-would-be-set-on-fire",
-        "image": null,
-        "timestamp": 1774780620.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ ایران: اسرائیل به تهران حمله کرد و دیپلمات‌ها در پاکستان برای پایان درگیری گرد هم آمدند",
-        "title_en": "Iran War Live Updates: Israel Strikes Tehran as Regional Diplomats Gather in Pakistan",
-        "summary": [
-            "اسرائیل اعلام کرد موجی از حملات علیه زیرساخت‌ها در تهران و سایر نقاط انجام داده و ایران واکنش متقابل نشان داده است.",
-            "نمایندگان عربستان، مصر و ترکیه در پاکستان برای یافتن راه‌حلی دیپلماتیک جهت پایان جنگ گرد هم آمده‌اند.",
-            "حملات مستقیم به پایتخت نشان‌دهنده شکست رژیم در تضمین امنیت ملی و مدیریت بحران است و می‌تواند فشارهای خارجی، تحریم‌ها و تضعیف اقتصادی را تشدید و نارضایتی عمومی را افزایش دهد."
-        ],
-        "impact": "این تشدید نظامی شانس راه‌حل دیپلماتیک را کاهش می‌دهد و احتمال گسترش درگیری منطقه‌ای و فرسایش بیشتر توان اقتصادی و مشروعیت رژیم را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
-        "clean_url": "https://www.nytimes.com/live/2026/03/29/world/iran-war-trump-israel-oil",
-        "image": null,
-        "timestamp": 1774778880.0
-    },
-    {
-        "title_fa": "رئیس مجلس ایران: آمریکا با وجود تلاش‌های دیپلماتیک به‌طور «مخفیانه» در حال طراحی عملیات زمینی است",
-        "title_en": "Iran’s parliament speaker: US ‘secretly’ plotting ground op despite diplomatic efforts",
-        "summary": [
-            "ادعای رئیس مجلس: آمریکا به‌صورت «مخفیانه» در حال برنامه‌ریزی برای عملیات زمینی است، علیرغم اعلام تلاش‌های دیپلماتیک.",
-            "هیچ شواهد مستقل یا جزئیاتی در گزارش مبنی بر تأیید این طرح نظامی ارائه نشده؛ خبر صرفاً بازتاب ادعای رسمی است.",
-            "چنین اتهامی می‌تواند به‌عنوان ابزار سیاسی برای توجیه تدابیر امنیتی شدیدتر و منحرف کردن افکار عمومی از ناکارآمدی‌ها و مشکلات داخلی به‌کار رود."
-        ],
-        "impact": "اگر ادعا صحیح باشد، خطر تشدید مستقیم تنش و کاهش مانور دیپلماتیک را افزایش می‌دهد؛ اگر بی‌اساس باشد، به احتمال قوی برای پوشاندن ضعف‌های حکمرانی و سرکوب سیاسی داخلی مورد بهره‌برداری قرار خواهد گرفت.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5seU9XWkotLWdNYkk0TE8zeGlMLVlvRmstWnRZVk5lcEhSUElKYkNaakpOeGZ3OGFpeG1NVTRQU0dVUmVwY2drS2tPUUN6aExPbU41Zl9ub1RoQ29QY2lmX1gyRdIBaEFVX3lxTFAzT3N4MVVqS09oZGFlVVgxdVViLVZRajhycWg2b3ByaXVhVXItTk1MSlpfNVh5R2hhYW9wSWM1RHZJTTc3UGdPbEFFeWFfVHFuLWl3ajhxaGhNQXUxeFdrZlg1NjQtcndU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5seU9XWkotLWdNYkk0TE8zeGlMLVlvRmstWnRZVk5lcEhSUElKYkNaakpOeGZ3OGFpeG1NVTRQU0dVUmVwY2drS2tPUUN6aExPbU41Zl9ub1RoQ29QY2lmX1gyRdIBaEFVX3lxTFAzT3N4MVVqS09oZGFlVVgxdVViLVZRajhycWg2b3ByaXVhVXItTk1MSlpfNVh5R2hhYW9wSWM1RHZJTTc3UGdPbEFFeWFfVHFuLWl3ajhxaGhNQXUxeFdrZlg1NjQtcndU",
-        "image": null,
-        "timestamp": 1774778070.0
-    },
-    {
-        "title_fa": "سرمایه‌گذاران جایی برای پناه ندارند؛ بازارهای مالی زیر بار درگیری ایران خم شده‌اند",
-        "title_en": "Investors have nowhere to hide as financial markets groan under the weight of the Iran conflict",
-        "summary": [
-            "چهار هفته پس از آغاز درگیری ایران، بازارهای مالی جهانی علائم فشار جدی را نشان می‌دهند و نویز ریسک منطقه‌ای بر جریان سرمایه تأثیر گذاشته است.",
-            "ادامه تنش می‌تواند احتمال تشدید فشار خارجی و تحریم‌ها را افزایش دهد که به صورت ساختاری منابع ارزی و ظرفیت مالی رژیم را محدود کرده و تضعیف ثبات سیاسی-اقتصادی را تسریع می‌کند.",
-            "فشار بازارها ریسک تشدید مشکلات اقتصادی داخلی و تقویت نارضایتی عمومی را بالا می‌برد؛ متن گزارش اشاره مستقیمی به اعتراضات ندارد اما فضای اقتصادیِ آسیب‌پذیر مشهود است."
-        ],
-        "impact": "تشدید فشار بر بازارها احتمال فرار سرمایه و کاهش سرمایه‌گذاری را بالا می‌برد که به سرعت ثبات مالی و سیاسی رژیم را تضعیف خواهد کرد.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "MarketWatch on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/investors-have-nowhere-to-hide-as-financial-markets-groan-under-the-weight-of-the-iran-conflict/ar-AA1ZFa8c",
-        "clean_url": "https://www.msn.com/en-us/money/markets/investors-have-nowhere-to-hide-as-financial-markets-groan-under-the-weight-of-the-iran-conflict/ar-AA1ZFa8c",
-        "image": "http://www.bing.com/th?id=ONUT.fzP-PzXJw4WcNv5VsljmjA&pid=News",
-        "timestamp": 1774774800.0
-    },
-    {
-        "title_fa": "ایران می‌گوید خود را برای هجوم زمینی آماده می‌کند در حالی که گفت‌وگوهای صلح به بن‌بست خورده‌اند: آنچه باید دانست",
-        "title_en": "Iran says it's bracing for ground assault as peace talks stumble: What to know",
-        "summary": [
-            "ایران هشدار داده که برای احتمال هجوم زمینی آمریکا آماده می‌شود؛ این تهدید مستقیم فشار امنیتی و سیاسی خارجی را افزایش می‌دهد و می‌تواند ساختار فرماندهی و ظرفیت‌های اقتصادی رژیم را بیشتر تضعیف کند.",
-            "حملاتی در لبنان منجر به کشته شدن سه خبرنگار شد؛ این رویداد تنش منطقه‌ای را بالا می‌برد، مسیر دیپلماسی را پیچیده‌تر می‌کند و احتمال افزایش محکومیت بین‌المللی را تقویت می‌کند.",
-            "کشورهای منطقه و خلیج فارس در پاکستان برای گفت‌وگو گرد هم آمده‌اند اما گزارش‌ها می‌گویند گفت‌وگوهای صلح دچار بن‌بست شده‌اند؛ این نشان می‌دهد تلاش‌های دیپلماتیک فعلاً ناکافی است و راه‌حل سیاسی کوتاه‌مدت روشن نیست."
-        ],
-        "impact": "خطر تشدید سریع درگیری‌ها و افزایش فشار بین‌المللی بر حکومت بالا رفته است که توان مانور سیاسی و اقتصادی رژیم را محدود می‌کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-says-it-s-bracing-for-ground-assault-as-peace-talks-stumble-what-to-know/ar-AA1ZEZhj",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-says-it-s-bracing-for-ground-assault-as-peace-talks-stumble-what-to-know/ar-AA1ZEZhj",
-        "image": null,
-        "timestamp": 1774772361.0
     }
 ]
