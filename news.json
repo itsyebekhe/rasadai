@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "واکنش ایران به سخنرانی ترامپ: حملات موشکی به اسرائیل و کشورهای خلیج",
+        "title_en": "Iran responds to Trump address with missile attacks on Israel, Gulf states",
+        "summary": [
+            "گزارش The Hill حاکی است ایران در پاسخ به سخنرانی دونالد ترامپ حملات موشکی به اهدافی در اسرائیل و چند کشور حوزه خلیج فارس انجام داده است.",
+            "این حملات یک گام مستقیم به سمت تشدید تنش‌های منطقه‌ای است و احتمال پاسخ نظامی یا فشار دیپلماتیک و تحریم‌های جدید از سوی اسرائیل، کشورهای خلیج یا ایالات متحده را افزایش می‌دهد.",
+            "هزینه‌های امنیتی و سیاسی ناشی از این اقدام به قاعده توان حکومت در مدیریت اقتصاد و مهار نارضایتی‌های مردمی را کاهش می‌دهد؛ در کوتاه‌مدت فشارهای اقتصادی و بی‌ثباتی افزایشی خواهد بود."
+        ],
+        "impact": "اثر اصلی این رویداد افزایش احتمال تحریم‌ها و فشار بین‌المللی است که به تضعیف ساختاری رژیم و تشدید ناتوانی آن در مدیریت بحران اقتصادی و اجتماعی منجر می‌شود.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.85,
+        "source": "The Hill",
+        "url": "https://www.khou.com/article/news/nation-world/attack-on-iran/iran-more-missiles-us-threats/507-13f9eacd-cfaa-42d4-ab84-1f2e248214a4",
+        "clean_url": "https://www.khou.com/article/news/nation-world/attack-on-iran/iran-more-missiles-us-threats/507-13f9eacd-cfaa-42d4-ab84-1f2e248214a4",
+        "image": null,
+        "timestamp": 1775132520.0
+    },
+    {
+        "title_fa": "جنگ آمریکا و اسرائیل علیه ایران شتاب‌دهندهٔ دلارزدایی و افول هژمونی آمریکاست",
+        "title_en": "The US-Israel war on Iran is accelerating de-dollarization and America’s decline | Ahmed Moor",
+        "summary": [
+            "احمد مور در گاردین می‌نویسد اقدام‌های آمریکا و اسرائیل علیه ایران روند جهانی دوری از دلار را تسریع کرده و این را نشانه‌ای از کاهش نفوذ اقتصادی-سیاسی آمریکا می‌داند.",
+            "این شیفت ساختاری می‌تواند کارآمدی تحریم‌های غرب را کاهش دهد و امکان تشکیل کانال‌های تجاری و ذخیره‌سازی ارزی خارج از نظام دلاری را فراهم کند؛ در نتیجه اهرم فشار خارجی علیه ایران تضعیف می‌شود.",
+            "با وجود تضعیف اهرم‌های خارجی، ضعف مدیریتی حاکمیت در اداره اقتصاد و نارضایتی‌های داخلی پابرجاست؛ تضعیف فشار خارجی صرفاً تضمین‌کننده ثبات داخلی نیست و ریسک‌های سیاسی داخلی همچنان باقی است."
+        ],
+        "impact": "شتاب در دلارزدایی احتمالاً فشار تحریم‌ها را کم‌رنگ می‌کند و فرصت‌های بین‌المللی را برای بقای رژیم افزایش می‌دهد، اما ناتوانی حکمرانی در مدیریت اقتصاد و اعتراضات داخلی همچنان خطر بی‌ثباتی را حفظ می‌کند.",
+        "tag": "دلارزدایی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQktrWHdabDk3Wjg0ckliNmFnOHdUYzV1akJJRTNPOVNDcEM3Vi1ILVJ6dHByT2pMcnFnNjY4N19EWHUtT2ktajFTVFU1LUxrUU5ibGQ3SkZVUjZUX3Z3aDBJdlJDZ1F2VXJHN0RIbnB5R2Y5cmktVHdvSVhkS2R6LTQ0YXdfSTY5Yl9DaXNsYzllVm1rTjN2MU1LVmJHNWZYdEtpU1RNYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQktrWHdabDk3Wjg0ckliNmFnOHdUYzV1akJJRTNPOVNDcEM3Vi1ILVJ6dHByT2pMcnFnNjY4N19EWHUtT2ktajFTVFU1LUxrUU5ibGQ3SkZVUjZUX3Z3aDBJdlJDZ1F2VXJHN0RIbnB5R2Y5cmktVHdvSVhkS2R6LTQ0YXdfSTY5Yl9DaXNsYzllVm1rTjN2MU1LVmJHNWZYdEtpU1RNYw",
+        "image": null,
+        "timestamp": 1775129880.0
+    },
+    {
+        "title_fa": "جنگ ایران-آمریکا: تهران اعلام کرد جنگ تا تسلیم دشمن ادامه خواهد داشت",
+        "title_en": "Iran-US war: Tehran says war will go on until enemy's surrender",
+        "summary": [
+            "تهران رسماً اعلام کرده درگیری «تا تسلیم دشمن» ادامه می‌یابد؛ این موضع در واکنش به اظهارات دونالد ترامپ، رئیس‌جمهور آمریکا مبنی بر خروج قریب‌الوقوع نیروهای آمریکایی و گفته او که نیروهای آمریکا «کار را تمام خواهند کرد» بیان شده است.",
+            "فشار و تهدیدات خارجی و لفاظی‌های مربوط به ادامه عملیات نظامی، در صورت تداوم، می‌تواند ساختارهای اقتصادی و سیاسی رژیم را تضعیف کند؛ کاهش سرمایه‌گذاری، افزایش هزینه‌های دفاعی و فشار بر بودجه دولتی از جمله کانال‌های محتمل هستند.",
+            "ادامه تنش نظامی می‌تواند نارضایتی عمومی را تشدید کند؛ ضعف‌های مدیریتی اقتصادی و سرکوب سیاسی موجود (فراتر از متن گزارش) این بستر را برای افزایش اعتراضات و فشارهای داخلی فراهم می‌سازد، اما ارتباط دقیق باید با شواهد میدانی تأیید شود."
+        ],
+        "impact": "تقابل لفظی و تهدید به ادامه جنگ احتمال افزایش هزینه‌های نظامی و سیاسی برای حکومت ایران و افزایش خطر گسترش درگیری را بالا می‌برد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-gb/news/world/iran-us-war-tehran-says-war-will-go-on-until-enemys-surrender/ar-AA1ZYIPq",
+        "clean_url": "https://www.msn.com/en-gb/news/world/iran-us-war-tehran-says-war-will-go-on-until-enemys-surrender/ar-AA1ZYIPq",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ZXk2q.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1775129588.0
+    },
+    {
         "title_fa": "حوثی‌ها با ایران هماهنگ‌اند اما استقلال عملیاتی خود را حفظ کرده‌اند، علیرغم جنگ",
         "title_en": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
         "summary": [
@@ -142,6 +196,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVHZjbVNkeUpXcnVCSjYwRXdld2FhMjhTM2RtdWQyZjZlSUdtUWhyUDRvaDNIWDFLbENEZUlCRUhET0xKN0kzVUUyYWNqZllaSm5QcDYwM2gwQVQ3aHozbzh5bTNnbUx5cTVKVV95YVlQYjJnMTItejVPRFdVSGxoSEVKYks2blNUZUtkUGFZdHEyend1NkY0aFRPcGV2ZTBhbEgwVjNNM0l4NF9Vd0FaVi1saXZEaFJuUENRb3dR0gG-AUFVX3lxTE1mdVNSZVRseVlCam83STljYkEzWVBlVktuRkJzd1F5OW5NTHhLdTBabDk1Y2IxWHI3MnBvY3BMNkVLd19nTjE3UkQ5d002cGNXQldpQVUta2Q2MGlCcFNFQ3dudGFCWVhWZXVqb1AyZjQtUDJhMWl0ejVQN3UwR1cwdEVNY3NwMFRNVk45WXR0dnB4cTBRSy1PTjRuQ1VSWncyTHUxS1FieGg2TnNmTy1RTlpIWWNNeGNPN0lXa3c",
         "image": null,
         "timestamp": 1775114944.0
+    },
+    {
+        "title_fa": "متن نطق دونالد ترامپ درباره جنگ با ایران",
+        "title_en": "Transcript of President Trump’s address on the war against Iran",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، در نطق ملی تهدید به تشدید جنگ با ایران کرد و تاریخ یا چارچوب زمانی مشخصی برای پایان اعلام نشد.",
+            "نطق جزئیات راهبردی مشخص و اطلاعات عملیاتی درباره اهداف و نحوه پیشروی نظامی پیش‌رو ارائه نکرد؛ تاکید بر افزایش فشار و احتمال تشدید اقدامات نظامی بود.",
+            "اظهارات ترامپ نشان‌دهنده افزایش فشار خارجی است که می‌تواند بار اقتصادی و سیاسی بر رژیم ایران را بالا ببرد و ریسک پیامدهای داخلی را افزایش دهد."
+        ],
+        "impact": "تهدید به تشدید جنگ و فشار خارجی می‌تواند ثبات سیاسی و اقتصادی جمهوری اسلامی را بیش از پیش تضعیف کند، با هزینه‌های اقتصادی بالاتر، تشدید سرکوب و افزایش احتمال ناآرامی اجتماعی.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "The Mercury News",
+        "url": "https://www.mercurynews.com/2026/04/02/transcript-of-president-trumps-address-on-the-war-against-iran/",
+        "clean_url": "https://www.mercurynews.com/2026/04/02/transcript-of-president-trumps-address-on-the-war-against-iran",
+        "image": "http://www.bing.com/th?id=ONUT.wL0CbnBRQikFS9Wnzd_yQw&pid=News",
+        "timestamp": 1775113080.0
+    },
+    {
+        "title_fa": "ایران پس از سخنرانی ترامپ حملات «سحق‌کننده و گسترده‌تر» را تهدید کرد",
+        "title_en": "Iran Threatens ‘Crushing and Broader’ Attacks After Trump’s Speech",
+        "summary": [
+            "هشدار تازه ایران در روز ۳۴ جنگ نشان می‌دهد که درگیری فعلاً پایان ملموسی ندارد و تنش‌ها ادامه یافته‌اند.",
+            "این اعلان احتمال تشدید نظامی و گسترش دامنه درگیری‌ها را افزایش می‌دهد و ریسک رویارویی مستقیم با ایالات متحده و متحدان منطقه‌ای را بالا می‌برد.",
+            "جنگ ممتد منابع دولتی را می‌بلعد و می‌تواند فشارهای اقتصادی و نارضایتی عمومی را تشدید کند، امری که ثبات داخلی رژیم را بیشتر تضعیف می‌کند."
+        ],
+        "impact": "فوری: احتمال گسترش درگیری و افزایش فشارهای اقتصادی-سیاسی بر رژیم را بالا می‌برد و فضای بین‌المللی را برای تحریم‌ها و انزوای بیشتر فراهم می‌سازد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/04/02/iran-threatens-crushing-broader-attacks-us-israel-after-trump-warning/",
+        "clean_url": "https://time.com/article/2026/04/02/iran-threatens-crushing-broader-attacks-us-israel-after-trump-warning",
+        "image": "http://www.bing.com/th?id=ONUT.EipCiACD5ivla3F92Bor3A&pid=News",
+        "timestamp": 1775112900.0
     },
     {
         "title_fa": "ترامپ جنگ با ایران را «سرمایه‌گذاری واقعی در فرزندانتان» خواند: به‌روزرسانی زنده",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-says-it-s-bracing-for-ground-assault-as-peace-talks-stumble-what-to-know/ar-AA1ZEZhj",
         "image": null,
         "timestamp": 1774772361.0
-    },
-    {
-        "title_fa": "اکثر بازارهای خلیج به‌خاطر نگرانی از گسترش درگیری با ایران کاهش یافتند",
-        "title_en": "Most Gulf markets ease on fears of broader Iran conflict",
-        "summary": [
-            "اکثر بورس‌ها و بازارهای مالی منطقه خلیج در معاملات اخیر به دلیل نگرانی سرمایه‌گذاران از احتمال گسترش درگیری‌های مرتبط با ایران کاهش یافتند.",
-            "واکنش سریع بازارها نشان‌دهنده حساسیت بالای منطقه به ریسک نظامی و تضعیف اعتماد سرمایه‌گذاران نسبت به پایداری اقتصادی منطقه است.",
-            "این تنش‌های سیاسی-امنیتی می‌تواند هزینه تامین مالی را بالا ببرد و در کوتاه‌مدت فشار اقتصادی بر بازیگران منطقه‌ای را افزایش دهد و تهران را در برابر گزینه‌های اقتصادی و سیاسی سخت‌تری قرار دهد."
-        ],
-        "impact": "کاهش بازارها انعکاس شکنندگی اقتصادی منطقه است و هر تشدید تنش می‌تواند به فشارهای خارجی بیشتر، اختلال جریان سرمایه و احتمالاً افزایش ناپایداری اقتصادی داخلی منجر شود.",
-        "tag": "بازار",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29/",
-        "clean_url": "https://www.reuters.com/world/middle-east/most-gulf-markets-ease-fears-broader-iran-conflict-2026-03-29",
-        "image": null,
-        "timestamp": 1774771809.0
-    },
-    {
-        "title_fa": "آنچه در جنگ خاورمیانه در روز شنبه رخ داد",
-        "title_en": "Here’s What Happened in the War in the Middle East on Saturday",
-        "summary": [
-            "متن کامل مقاله در اختیار نیست؛ تیتر تنها نشان‌دهنده پوشش خبری کلی است و بدون متن نمی‌توان وقایع خاص، بازیگران یا ابعاد عملیات را تأیید کرد.",
-            "برای تحلیل دقیق لازم است جزئیات گزارش شود: شدت درگیری‌ها، طرف‌های درگیر، تلفات، حملات متقابل، و واکنش‌های منطقه‌ای و بین‌المللی.",
-            "در صورت دریافت متن، تحلیل من روی چهار محور خواهد بود: ۱) فشارهای خارجی و تحریم‌ها در صورت ذکر، ۲) نقش یا حمایت بازیگران خارجی در صورت اشاره، ۳) واکنش‌های داخلی و شاخص‌های نارضایتی، ۴) پیامدهای اقتصادی و نظامی برای ثبات رژیم و منطقه."
-        ],
-        "impact": "بدون دسترسی به متن کامل، نمی‌توان ارزیابی قابل اتکا از اثرات فوری یا بلندمدت این گزارش بر ثبات منطقه یا وضع داخلی انجام داد.",
-        "tag": "نامشخص",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/14/world/middleeast/iran-war-recap-kharg-island-oil.html",
-        "clean_url": "https://www.nytimes.com/2026/03/14/world/middleeast/iran-war-recap-kharg-island-oil.html",
-        "image": null,
-        "timestamp": 1774771080.0
-    },
-    {
-        "title_fa": "سپاه ادعای حمله به تأسیسات آلومینیوم امارات و بحرین را مطرح کرد",
-        "title_en": "Iran’s IRGC claims attacks on UAE, Bahrain aluminium facilities",
-        "summary": [
-            "سپاه ادعا کرده که هدف‌گیری تأسیسات آلومینیوم در امارات و بحرین را انجام داده؛ تا کنون هیچ تأیید مستقل یا ادعای رسمی از سوی مقامات هدف منتشر نشده است.",
-            "چنین عملیات برون‌مرزی ریسک تشدید تنش منطقه‌ای، واکنش دیپلماتیک و نظامی متحدان خلیج و افزایش احتمال تحریم‌ها یا فشارهای خارجی را بالا می‌برد؛ این پیامدها مستقیماً ساختار ضعیف‌شده اقتصادی و سیاسی رژیم را هدف می‌گیرد.",
-            "در داخل کشور، اجرای عملیات‌های نظامی فرامرزی به‌جای تعلیق فشارها می‌تواند هزینه‌های اقتصادی و سیاسی حکومت را بیشتر کند و احتمال افزایش نارضایتی اجتماعی و آشفتگی مدیریتی را تقویت نماید."
-        ],
-        "impact": "ادعای حمله، رژیم را در معرض تشدید انزوای دیپلماتیک، فشار تحریمی و اختلال اقتصادی قرار می‌دهد که ثبات داخلی را تضعیف خواهد کرد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "aljazeera.com",
-        "url": "https://www.reuters.com/world/middle-east/bahrains-alba-confirms-iranian-attack-its-facilities-2026-03-28/",
-        "clean_url": "https://www.reuters.com/world/middle-east/bahrains-alba-confirms-iranian-attack-its-facilities-2026-03-28",
-        "image": null,
-        "timestamp": 1774769634.0
-    },
-    {
-        "title_fa": "ایران می‌گوید برای حمله زمینی آمریکا آماده است",
-        "title_en": "Iran says it's prepared for a U.S. ground attack",
-        "summary": [
-            "منبع اعلام‌شده متن خبری را منتشر نکرده؛ فقط عنوان موجود است و هیچ جزئیات عملیاتی یا نقل‌قولی برای راستی‌آزمایی در دسترس نیست، بنابراین تحلیل مبتنی بر شواهد محدود است.",
-            "اگر این ادعا صحت داشته باشد، اعلام آمادگی برای مقابله با حمله زمینی آمریکا سیگنال تشدید نظامی است که می‌تواند ریسک برخورد مستقیم و فشار خارجی (تحریم‌ها، اقدامات منطقه‌ای) را افزایش دهد؛ اما بدون مدارک قابل اتکا نمی‌توان درجه تهدید را تعیین کرد.",
-            "از منظر داخلی، چنین بیانیه‌هایی معمولاً دو هدف همزمان دنبال می‌کنند: نمایش قدرت در صحنه خارجی و منحرف‌کردن افکار عمومی از ناکارآمدی اقتصادی و نارضایتی اجتماعی؛ تحلیل‌گران باید منتظر تأیید مستقل و نشانه‌های میدانی (تحرکات نظامی، اطلاعات میدانی) باشند."
-        ],
-        "impact": "بدون متن یا تأیید مستقل، این عنوان بیش از ارائه اطلاعات استراتژیک، فضای رسانه‌ای را متشنج و ریسک اشتباه محاسباتی را افزایش می‌دهد.",
-        "tag": "ابهام",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Detroit News",
-        "url": "https://www.detroitnews.com/story/news/world/2026/03/29/iran-u-s-marines-ground-attack/89376250007/",
-        "clean_url": "https://www.detroitnews.com/story/news/world/2026/03/29/iran-u-s-marines-ground-attack/89376250007",
-        "image": null,
-        "timestamp": 1774769400.0
-    },
-    {
-        "title_fa": "پنتاگون می‌گوید در حال آماده‌سازی برای عملیات زمینی چندهفته‌ای در ایران، کوتاه از تهاجم کامل",
-        "title_en": "Pentagon said prepping weeks-long ground operation in Iran, short of full invasion",
-        "summary": [
-            "پنتاگون اعلام کرده در حال آماده‌سازی برای یک عملیات زمینی چند هفته‌ای در خاک ایران است، اما آن را به‌عنوان تهاجم تمام‌عیار معرفی نکرده است.",
-            "این اعلامیه فشار خارجی و تهدید نظامی را بر رژیم افزایش می‌دهد و می‌تواند ساختارهای سیاسی-اقتصادی آن را از طریق افزایش هزینه‌های امنیتی، اختلال در تجارت و فرسایش مشروعیت تضعیف کند.",
-            "احتمال دارد واکنش به تهدید نظامی داخلی شامل تشدید سرکوب و محدودیت‌های امنیتی شود که به نوبه خود نارضایتی عمومی و اختلال اقتصادی را به‌طور موقت تشدید می‌کند؛ هر نتیجه راهبردی باید با احتیاط و بر پایه پیامدهای سیاسی-اجتماعی ارزیابی شود."
-        ],
-        "impact": "اثر فوری: اعلام برنامه‌ریزی برای عملیات زمینی احتمال بی‌ثباتی سیاسی و فشار اقتصادی بر رژیم را بالا می‌برد و ظرفیت بقا و مدیریت بحران آن را در کوتاه‌مدت تضعیف می‌کند.",
-        "tag": "تهاجم",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXFGVXpmVE56Zkp2WEJuTWdsY0RLTnpDcXF5LVRPNGhOTUJoRXF3a1laeWVDNWY0LVRQM2ZVZmxPNUxTa0wzSUxhSFc1WGhvNFVkd2Q5TWxlSjBvYVFtUW12YWxJenBXTVA1TWMxZzZobTlkODFRbW1kd3UxUkJJRFE4X1ZfUm5yTUN4ZkM5RlZKcWNJZFJYc04tenB5Y0lmQzlFU0NmWC1qU2gwR3RJZFV30gG3AUFVX3lxTFBYQmZwUnN1eHJxbUMwNzZVREV5UEtEMzhSZ2I4dW5aQ3R4VVduQy1xWGRsNDhVTXJucFdEc2ZoSmh5V3Ytd1Mxc05VNUFyMUlrZkQwTFFoUENOYWV2bl8wa010c0hGUnhhTkVBTDhTYkVuOEQ4c2pyZFcwd1VTUlhXajVRbHVBQlZaTENfZDVkVUgzRDVtbjlmRThINWw3ZGVlWmlQeHlDalRFTGF3Zi0wd0ctMWxZUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObXFGVXpmVE56Zkp2WEJuTWdsY0RLTnpDcXF5LVRPNGhOTUJoRXF3a1laeWVDNWY0LVRQM2ZVZmxPNUxTa0wzSUxhSFc1WGhvNFVkd2Q5TWxlSjBvYVFtUW12YWxJenBXTVA1TWMxZzZobTlkODFRbW1kd3UxUkJJRFE4X1ZfUm5yTUN4ZkM5RlZKcWNJZFJYc04tenB5Y0lmQzlFU0NmWC1qU2gwR3RJZFV30gG3AUFVX3lxTFBYQmZwUnN1eHJxbUMwNzZVREV5UEtEMzhSZ2I4dW5aQ3R4VVduQy1xWGRsNDhVTXJucFdEc2ZoSmh5V3Ytd1Mxc05VNUFyMUlrZkQwTFFoUENOYWV2bl8wa010c0hGUnhhTkVBTDhTYkVuOEQ4c2pyZFcwd1VTUlhXajVRbHVBQlZaTENfZDVkVUgzRDVtbjlmRThINWw3ZGVlWmlQeHlDalRFTGF3Zi0wd0ctMWxZUQ",
-        "image": null,
-        "timestamp": 1774766365.0
     }
 ]
