@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حوثی‌ها با ایران هماهنگ‌اند اما استقلال عملیاتی خود را حفظ کرده‌اند، علیرغم جنگ",
+        "title_en": "Yemen’s Houthis coordinate with Iran, but retain independence, despite war",
+        "summary": [
+            "رابطه حوثی‌ها و ایران نابرابر است: تهران حمایت، تخصص و پوشش سیاسی می‌دهد اما حوثی‌ها همچنان حیطه تصمیم‌گیری مستقل برای پیشبرد پروژه داخلی‌شان را حفظ کرده‌اند.",
+            "تا کنون دخالت حوثی‌ها محدود بوده (تنها حمله تأییدشده 28 مارس علیه اسرائیل) و آن‌ها فعلاً از هدف قرار دادن خط کشتیرانی در دریای سرخ خودداری می‌کنند؛ تهدید به اخلال در عبور تجاری همچنان به‌عنوان اهرم فشار برای افزایش وزن منطقه‌ای نگهداری می‌شود.",
+            "این هماهنگی محاسبه‌شده برای جلوگیری از درگیری گسترده طراحی شده؛ اما تعمیق رویارویی یا افزایش فشار خارجی می‌تواند منابع مادی و انسانی یمن را تخلیه کند و ظرفیت حکمرانی حوثی و شرایط اقتصادی-اجتماعی داخلی را تشدیداً تضعیف نماید."
+        ],
+        "impact": "هماهنگی محدود ولی راهبردی حوثی‌ها با ایران احتمال تشدید فشار خارجی و خالی شدن منابع یمن را افزایش می‌دهد و توان حکمرانی و ثبات داخلی تحت کنترل حوثی را تضعیف می‌کند.",
+        "tag": "حوثی‌ها",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/yemen-houthis-coordinate-iran-retain-103637368.html",
+        "clean_url": "https://www.yahoo.com/news/articles/yemen-houthis-coordinate-iran-retain-103637368.html",
+        "image": null,
+        "timestamp": 1775127143.0
+    },
+    {
         "title_fa": "خطاب ترامپ درباره ایران چه معنایی برای اسرائیل دارد",
         "title_en": "What Trump's Iran address means to Israel",
         "summary": [
@@ -124,6 +142,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news",
         "image": "https://static01.nyt.com/images/2026/04/02/multimedia/02israel-iran-promo-fpjv/02israel-iran-promo-fpjv-facebookJumbo.jpg",
         "timestamp": 1775104320.0
+    },
+    {
+        "title_fa": "ترامپ در نطق درباره جنگ با ایران از رأی‌دهندگان تردیدکننده خواست زمان بیشتری بدهند",
+        "title_en": "Trump uses Iran war address to urge an increasingly skeptical electorate to give him a bit more time",
+        "summary": [
+            "رئیس‌جمهور ایالات متحده در اولین نطق بزرگ خود پس از آغاز عملیات نظامی علیه ایران خواستار «کمی زمان بیشتر» شد و وعده کرد که اهداف نظامی «به‌زودی» تکمیل می‌شوند، اما جدول زمانی مشخصی ارائه نکرد.",
+            "نطق او لحن تهاجمی اخیر را تعدیل کرد؛ خبری از توبیخ آشکار متحدان ناتو یا تشریح مذاکرات احتمالی برای پایان عملیات نبود؛ اعلام شد که ضربات علیه ایران «دو تا سه هفته» آینده ادامه خواهد داشت.",
+            "با وجود ادعای ترامپ درباره تضعیف شدید ایران، گزارش‌ها نشان می‌دهد تهران هنوز توانایی واردآوردن ضربات مؤثر به زیرساخت‌های خلیج و پایگاه‌های آمریکایی را دارد و پیامدهای اقتصادی جهانی ـ از جمله جهش قیمت نفت و سقوط بازارهای آسیایی ـ بازارها را نگران کرده است."
+        ],
+        "impact": "ادامه عملیات نظامی گسترده همراه با اختلالات بازار جهانی، به‌طور ساختاری قدرت و منابع رژیم ایران را تحت فشار قرار می‌دهد و احتمالاً فشارهای اقتصادی و نارضایتی‌های سیاسی داخلی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "The Baltimore Sun",
+        "url": "https://www.baltimoresun.com/2026/04/02/trump-iran-war-address/",
+        "clean_url": "https://www.baltimoresun.com/2026/04/02/trump-iran-war-address",
+        "image": "http://www.bing.com/th?id=ONUT.6BCXWhHo81yRKo_ALiaJ6w&pid=News",
+        "timestamp": 1775103840.0
     },
     {
         "title_fa": "ترامپ: آمریکا در حال نزدیک شدن به تکمیل «اهداف راهبردی اصلی» خود در جنگ با ایران",
@@ -304,6 +340,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOV1c1eHQ4bTAwVmxDQ3pRVDZobktZNTB4QjBDb0JkdHJzSnY2RFY1R0d6Z0Fxa2xyM2JzUmotRkxGZVVGVGt2OXRZXzh2UWNvMkQ1QlplS2xCdFA1dGRrRWZoYUk2SXJmVjFycmFpRW02eHJhYUdnNWx0OC11WlpXcDd2c0lZQnBSb1lQU1RyQjM4NzItX24wVE4zOXpCRDB0aGdaZjVGbVQzdG45LXFGb184cGc3QjZEanNyQXJoU1FrZDhHSVpDNlI1ekpKQk9mRW53VzFDRkxmbkZkTEJQQm5uZTc2NDNKUklCUVhZbXc1U2w5R2lQYWNoUmVJTm1wa0Z3dWJVV1BfY3J3TDBPYXM4dWpZNTI3STVrTUUzQVlLVk91VXcyd1pJZTFtZTJjZElxYkJkZFdqQUVIY09Ub0Itd0Z2MjBXaUg3N1FEWHRUSXRxTmxHUWVucTkyeWZ3M3hMd1pXVUxBbDRCRmxRTHloajRnWDNtellHM0cxZ3lfQVgwaDZLQ1ZMYjVNR3RSbTZiMTVaanlxcDdZQkx2QzZPQQ",
         "image": null,
         "timestamp": 1775093386.0
+    },
+    {
+        "title_fa": "به‌روزرسانی زنده جنگ ایران: جهش قیمت نفت پس از ادعای ترامپ درباره «موفقیت» بدون طرح خروج",
+        "title_en": "Iran War Live Updates: Oil Prices Surge After Trump Claims Success Without Offering Exit Plan",
+        "summary": [
+            "اسرائیل و چند کشور خلیج‌فارس سحرگاه پنج‌شنبه از موج جدیدی از پرتاب‌های پهپادی و موشکی به سوی خود خبر دادند؛ این رخداد ساعات کوتاهی پس از سخنرانی تلویزیونی دونالد ترامپ بود که در آن «موفقیت» را اعلام کرد اما برنامه خروج مشخصی ارائه نداد.",
+            "بازارها بی‌درنگ واکنش نشان دادند و قیمت نفت جهش کرد؛ این واکنش بازتاب نگرانی از تشدید درگیری‌ها و احتمال اختلال در عرضه انرژی در منطقه است.",
+            "از منظر فشار خارجی و ثبات داخلی: ترکیب ادعاهای پیروزی بدون پلن خروج و ادامه حملات نظامی، فشار سیاسی و نظامی بر تهران را افزایش می‌دهد؛ هرچند افزایش موقت قیمت نفت ممکن است درآمد کوتاه‌مدت را تقویت کند، اما ریسک‌های بلندمدت سیاسی و اقتصادی می‌تواند پایه‌های تضعیف‌شده حکمرانی را عمیق‌تر کند."
+        ],
+        "impact": "افزایش تنش منطقه‌ای و نبود خروج شفاف از صحنه عمل، خطر تشدید رویارویی نظامی و فرسایش بیشتر ثبات داخلی رژیم ایران را بالا برده است.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/heres-the-latest",
+        "clean_url": "https://www.nytimes.com/live/2026/04/02/world/iran-war-trump-news/heres-the-latest",
+        "image": "http://www.bing.com/th?id=ONUT.f-ifRkihBCLTNR8T6euxqg&pid=News",
+        "timestamp": 1775087340.0
     },
     {
         "title_fa": "به‌روزرسانی زنده: دونالد ترامپ می‌گوید جنگ «به‌زودی» پایان می‌یابد؛ ایران تکذیب کرد که درخواست آتش‌بس داده است",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/03/29/world/live-news/iran-war-us-israel-trump",
         "image": null,
         "timestamp": 1774763400.0
-    },
-    {
-        "title_fa": "ایران درباره گزارش‌های بررسی عملیات زمینی آمریکا واکنش نشان داد: «هرگز تحقیر را نمی‌پذیریم»",
-        "title_en": "Iran responds to reports US weighing ground operations: 'We will never accept humiliation'",
-        "summary": [
-            "مقامات ایران به خبرهای رسانه‌ای درباره بررسی گزینه عملیات زمینی از سوی آمریکا واکنش تند نشان دادند و شعار «هرگز تحقیر را نمی‌پذیریم» را برجسته کردند.",
-            "در گزارش‌های مرتبط آمده که ایالات متحده نیرو و آماده‌سازی نظامی در خاورمیانه افزایش داده و گزینه‌های ضربتی و زمینی را بررسی می‌کند؛ این تحرکات با تشدید حملات و واکنش‌های منطقه‌ای از جمله جبهه‌گیری‌های شبه‌نظامیان همزمان شده است.",
-            "ادامه فشارهای نظامی و دیپلماتیک علیه تهران خطر وارد شدن کشور به چرخه‌ای از تقابل مستقیم و واکنش‌های نیابتی را بالا می‌برد و می‌تواند ثبات سیاسی-اقتصادی داخلی را بیش از پیش تضعیف کند."
-        ],
-        "impact": "گزارش‌ها درباره گزینه عملیات زمینی آمریکا و واکنش تند تهران نشان می‌دهد که تنش‌ها در آستانه تحول به درگیری مستقیم قرار دارند و این امر فشارها بر ساختارهای امنیتی و اقتصادی رژیم را تشدید می‌کند.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/iran-responds-reports-us-weighing-ground-operations-we-never-accept-humiliation",
-        "clean_url": "https://www.foxnews.com/world/iran-responds-reports-us-weighing-ground-operations-we-never-accept-humiliation",
-        "image": null,
-        "timestamp": 1774763160.0
-    },
-    {
-        "title_fa": "یک ماه در ایران؛ واقعیت سیاسی حزب جمهوری‌خواه نمایان می‌شود",
-        "title_en": "A month into Iran, the GOP’s political reality sinks in",
-        "summary": [
-            "در ایالت‌های رقابتی، جمهوری‌خواهان عمدتاً همچنان از جنگ رئیس‌جمهور حمایت علنی می‌کنند.",
-            "اما پیامدهای ملموس این درگیری — از افزایش هزینه‌های سیاسی برای نامزدها تا نگرانی‌های رأی‌دهندگان — دارند غیرقابل‌انکار می‌شوند.",
-            "فشار ناشی از تقابل خارجی و تبعات عملیاتی جنگ می‌تواند موقعیت انتخاباتی جمهوری‌خواهان در مناطق کلیدی را متزلزل کند."
-        ],
-        "impact": "تداوم حمایت رسمی از درگیری بدون کاهش هزینه‌های محسوس می‌تواند پایگاه رأی جمهوری‌خواهان در ایالت‌های رقابتی را تضعیف و معادلات انتخابات آتی را تغییر دهد.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/03/29/iran-war-trump-gop-midterms-prices-00849116",
-        "clean_url": "https://www.politico.com/news/2026/03/29/iran-war-trump-gop-midterms-prices-00849116",
-        "image": "http://www.bing.com/th?id=ONUT.QrUju72ayf7CiD5wPezDeA&pid=News",
-        "timestamp": 1774762200.0
-    },
-    {
-        "title_fa": "گزارش زنده جنگ ایران: دولت هند از «ذخایر کافی» بنزین و گازوئیل خبر می‌دهد؛ دو تانکر LPG دیگر در مسیر هند",
-        "title_en": "Iran War Live Updates: Indian govt assures 'adequate petrol, diesel stocks' as 2 more LPG tankers head to India",
-        "summary": [
-            "دولت هند اعلام کرده که ذخایر بنزین و گازوئیل «کافی» است و هم‌زمان دو تانکر LPG دیگر به سمت هند در حال حرکت‌اند — خبر مستقیم از تدارک سوخت در میان اختلالات منطقه‌ای.",
-            "اقدام هند را باید به‌عنوان پوششی علیه ریسک‌های تدارکاتی ناشی از وضعیت جنگی منطقه‌ای خواند؛ کشورهای واردکننده اکنون فعالانه زنجیره تأمین خود را بازآرایی می‌کنند که می‌تواند مسیرهای صادراتی و درآمدهای انرژی را تحت فشار قرار دهد.",
-            "کاهش احتمالی درآمدهای صادراتی انرژی در اثر اختلالات تدارکاتی یا فشار خارجی، امکان تضعیف بیشتر توان دولت در پوشش هزینه‌های رفاهی را دارد و در نهایت پتانسیل افزایش نارضایتی‌های داخلی را به همراه می‌آورد."
-        ],
-        "impact": "تحرک هند برای تضمین سوخت، نشانه تشدید ریسک‌های تدارکاتی منطقه‌ای است که قادر است درآمدهای انرژی ایران را کاهش دهد و فشار بر ثبات داخلی را افزایش دهد.",
-        "tag": "سوخت",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/us-israel-iran-war-live-updates-houthis-join-mideast-war-iran-tells-gulf-states-to-cut-support-for-us-israel-liveblog-13994189.html",
-        "clean_url": "https://www.firstpost.com/world/us-israel-iran-war-live-updates-houthis-join-mideast-war-iran-tells-gulf-states-to-cut-support-for-us-israel-liveblog-13994189.html",
-        "image": "http://www.bing.com/th?id=ONUT.ULkbxt_9ARoud6GfwAR1Kg&pid=News",
-        "timestamp": 1774759800.0
     }
 ]
