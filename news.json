@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پیامدهای احتمالی بمباران سایت‌های هسته‌ای ایران توسط آمریکا",
+        "title_en": "Here's What Can Happen When the US Bombs Iran's Nuclear Sites",
+        "summary": [
+            "سایت‌های هسته‌ای مدرن طوری طراحی شده‌اند که سازوکارهای ایمنی و مهار دارند؛ به خودی خود اصابت بمب معمولاً به فاجعه رادیولوژیک کلان منجر نمی‌شود، مگر اینکه سیستم‌های ایمنی یا راکتور عملیاتی آسیب ببیند.",
+            "در موج نخست حملات هماهنگ آمریکا و اسرائیل، اهدافی از جمله نطنز، اردکان و راکتور آب سنگین خنداب هدف قرار گرفتند و خنداب از کار افتاد؛ آژانس بین‌المللی انرژی اتمی تا کنون نشانه‌ای از آلودگی بیرون از سایت گزارش نکرده است.",
+            "خطر منطقه‌ای فراتر از محل اصابت است: تاسیسات آب‌شیرین‌کن که مستقیماً از دریا تغذیه می‌شوند و نیروگاه بوشهر در ساحل خلیج فارس، مسیرهای انتقال آلودگی به شبکه‌های تأمین آب و اکوسیستم دریایی و در نتیجه کشورها و جمعیت‌های ساحلی همسایه را محتمل می‌کنند."
+        ],
+        "impact": "هدف‌گیری تاسیسات هسته‌ای ساختار فنی و ظرفیت بازدارندگی رژیم را تضعیف می‌کند، فشار و انزوای بین‌المللی را افزایش می‌دهد و در صورت نشت یا اختلال در تأمین آب، ضعف مدیریت دولتی و احتمال بروز نارضایتی عمومی و بحران‌های محلی را تشدید خواهد کرد.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "wired.com",
+        "url": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
+        "clean_url": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites",
+        "image": null,
+        "timestamp": 1775153288.0
+    },
+    {
         "title_fa": "گزارش: تسلط فزاینده سپاه همزمان با فروپاشی اقتصادی و شکاف داخلی",
         "title_en": "IRGC tightening grip as Iran faces economic collapse, internal rift – report",
         "summary": [
@@ -70,6 +88,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-macron-tells-trump-dont-speak-every-day-in-new-attack/ar-AA1ZYO1e",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1LTSIo.img?w=1200&h=800&m=4&q=81",
         "timestamp": 1775148323.0
+    },
+    {
+        "title_fa": "موشک‌های ساخته شده از واژه‌ها: چگونه روایت‌های رسانه‌های غربی منازعه ایران–اسرائیل–آمریکا را شکل می‌دهند",
+        "title_en": "Missiles Made of Words: How Western Media Narratives Shape the Iran–Israel–US Conflict",
+        "summary": [
+            "مقاله بر این نکته تمرکز دارد که روایت‌های رسانه‌های غربی به شکل غیرمستقیم به عنوان ابزار سیاست‌ورزی عمل کرده و چارچوب ادراکی و گفتمانی دربارۀ منازعه ایران–اسرائیل–آمریکا را تعیین می‌کنند.",
+            "تحلیل اثر فشارها/تحریم‌ها: روایت‌های رسانه‌ای می‌توانند زمینهٔ سیاسی و افکارعمومی لازم برای اعمال فشارهای دیپلماتیک و اقتصادی را فراهم کنند؛ این امر ساختار ثبات رژیم را از طریق محدود کردن فضای مانور دیپلماتیک و اقتصادی تضعیف می‌سازد.",
+            "پیامدهای داخلی و واقع‌گرایی: حتی اگر مقاله به شواهد میدانی مشخصی اشاره نکند، چارچوب‌بندی رسانه‌ای می‌تواند پذیرش داخلی سیاست‌ها را تغییر دهد و فضای تصمیم‌سازی را تنگ‌تر سازد؛ این امر برای تحلیل‌گر استراتژیک نشان‌دهندۀ مخاطراتی است که از عرصهٔ اطلاع‌رسانی سرچشمه می‌گیرد."
+        ],
+        "impact": "روایت‌های غربی می‌توانند مشروعیت‌زدایی و توجیه اقدامات ضدامنیتی علیه ایران را تسهیل کرده و فضای دیپلماتیک و اقتصادی کشور را محدود کنند.",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "الجزيرة نت",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1RW1HWDdoZFpXU2VVU2VxdzB0T1B3ZWlNZHBabG5NcGM3ZE5oUks1NF9oTENkdTM2YlNzWmFIZHlZbGJUdEI0NW85Rl90elFlcFhYRDNBTjRTRURoaFNJbA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1RW1HWDdoZFpXU2VVU2VxdzB0T1B3ZWlNZHBabG5NcGM3ZE5oUks1NF9oTENkdTM2YlNzWmFIZHlZbGJUdEI0NW85Rl90elFlcFhYRDNBTjRTRURoaFNJbA",
+        "image": null,
+        "timestamp": 1775147521.0
     },
     {
         "title_fa": "روایت تلاش ترامپ برای یافتن راه خروج از جنگ با ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/oil-prices-rise-again-as-the-iran-war-enters-its-5th-week/ar-AA1ZGlxt",
         "image": "http://www.bing.com/th?id=ONUT.9cpGSOKHeWTv4kaQO14vpA&pid=News",
         "timestamp": 1774798016.0
-    },
-    {
-        "title_fa": "وضعیت هسته‌ای اسرائیل و ایران از منظر حقوق بین‌الملل چه تفاوتی دارد؟",
-        "title_en": "How do Israel and Iran's nuclear status differ under international law?",
-        "summary": [
-            "چارچوب حقوقی اصلی همان معاهده منع گسترش سلاح‌های هسته‌ای (NPT) است: دولت‌هایی که عضو NPT نیستند (مانند اسرائیل) از تعهدات ممنوعیت تولید و تملک سلاح هسته‌ای معاف‌اند، در حالی که کشورهای عضو (مانند ایران) موظف به عدم حصول یا تولید سلاح هسته‌ای و پذیرش نظارت آژانس بین‌المللی انرژی اتمی برای فعالیت‌های صلح‌آمیز هستند.",
-            "اجرای این قواعد تابع اراده سیاسی و مکانیزم‌های بین‌المللی است؛ سیاست‌های تبعیض‌آمیز—تحریم گسترده علیه ایران در حالی که ادعاها درباره زرادخانه احتمالی اسرائیل بدون اقدامات مشابه باقی می‌ماند—قابلیت حقوقی رژیم عدم اشاعه را تضعیف و به مشروعیت‌زدایی از روندهای بین‌المللی کمک می‌کند.",
-            "اثر داخلیِ این نوع دوگانه حقوقی و سیاسی: امکان بهره‌برداری تبلیغاتی از سوی حکومت برای توجیه سرکوب و بحران‌زایی اقتصادی و نیز تشدید نارضایتی عمومی، هر دو می‌تواند گزینه‌های سیاسی و اقتصادی حکومت را محدود یا مخدوش کند."
-        ],
-        "impact": "این دوگانهٔ حقوقی و اجرایی، اعتماد به رژیم عدم اشاعه را فرسایش می‌دهد و به‌صورت هم‌زمان فشارهای اقتصادی-سیاسی بر حاکمیت را افزایش می‌دهد.",
-        "tag": "دوگانه",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "The Conversation",
-        "url": "https://theconversation.com/how-do-israel-and-irans-nuclear-status-differ-under-international-law-278916",
-        "clean_url": "https://theconversation.com/how-do-israel-and-irans-nuclear-status-differ-under-international-law-278916",
-        "image": null,
-        "timestamp": 1774795140.0
-    },
-    {
-        "title_fa": "۱۲ نظامی آمریکایی در حمله به پایگاهی در عربستان مجروح شدند، مقامات می‌گویند",
-        "title_en": "12 U.S. Troops Injured in Attack on Saudi Base, Officials Say",
-        "summary": [
-            "به گزارش نیویورک‌تایمز، حمله‌ای به پایگاهی در عربستان سعودی رخ داد که بر اثر آن ۱۲ نظامی آمریکایی زخمی شدند.",
-            "مقامات جزئیات عامل حمله یا ادعا کننده مسئولیت را اعلام نکرده‌اند و اطلاعات تکمیلی درباره سطح خسارت یا انگیزه حمله منتشر نشده است.",
-            "این رویداد به‌سرعت خطر تشدید تنش‌های نظامی و دیپلماتیک در خلیج‌فارس را بالا می‌برد و در صورت واکنش آمریکا می‌تواند به فشارهای دیپلماتیک و تحریمی علیه بازیگران منطقه‌ای منجر شود که ثبات داخلی آنها را تضعیف می‌کند."
-        ],
-        "impact": "به‌طور فوری احتمال افزایش واکنش نظامی و فشارهای دیپلماتیک-تحریمی از سوی آمریکا وجود دارد که می‌تواند به تشدید بی‌ثباتی منطقه‌ای و فشار بر حکومت‌های مرتبط بینجامد.",
-        "tag": "امنیتی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/27/us/politics/strike-us-air-base-injuries.html",
-        "clean_url": "https://www.nytimes.com/2026/03/27/us/politics/strike-us-air-base-injuries.html",
-        "image": null,
-        "timestamp": 1774794256.0
     }
 ]
