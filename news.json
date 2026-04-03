@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اعلام آمادگی حوثی‌ها برای مداخله مستقیم در صورت ورود بازیگران جدید به تقابل آمریکا-اسرائیل با ایران",
+        "title_en": "Houthi supporters demonstrate in solidarity with Iran, as the U.S.-Israeli conflict with Iran continues",
+        "summary": [
+            "یحیی سری، سخنگوی نظامی حوثی‌ها، گفت که «انگشتانشان روی ماشه» است و گروه آماده مداخله نظامی مستقیم است اگر ائتلاف‌های جدیدی به واشنگتن و تل‌آویو علیه ایران بپیوندند یا از دریای سرخ برای حملات علیه ایران استفاده شود.",
+            "این اعلامیه در حالی مطرح شد که حوثی‌ها سابقه حمله به شناورها در دریای سرخ و حملات پهپادی و موشکی علیه اهداف مرتبط با اسرائیل را دارند، اما پس از آتش‌بس ماه مه با آمریکا و توافق آتش‌بس غزه، حملات علیه برخی اهداف متوقف شده بود.",
+            "تهدید حوثی‌ها خطر گسترش جنگ منطقه‌ای و اختلال در مسیرهای کشتیرانی را افزایش می‌دهد؛ فشار خارجی و مداخلات نظامی فرامرزی می‌تواند بارهای اقتصادی و سیاسی بیشتر و تضعیف ساختاری برای ایران و متحدان منطقه‌ای‌اش به همراه داشته باشد."
+        ],
+        "impact": "احتمال فوری: این هشدار ریسک تبدیل درگیری منطقه‌ای به جبهه‌های جدید را بالا می‌برد و می‌تواند به هزینه‌های نظامی و سیاسی قابل‌توجهی برای ایران و شبکه‌های نیابتی‌اش بینجامد.",
+        "tag": "هشدار",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Reuters Connect",
+        "url": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues",
+        "clean_url": "https://www.aljazeera.com/news/2026/3/27/houthis-warn-fingers-on-the-trigger-as-us-israeli-war-on-iran-continues",
+        "image": null,
+        "timestamp": 1775245200.0
+    },
+    {
         "title_fa": "سرنگونی جنگنده آمریکایی بر فراز ایران؛ جست‌وجو برای یک عضو خدمه ادامه دارد",
         "title_en": "US fighter jet shot down over Iran, search under way for crew member, US officials say",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.cfr.org/articles/the-iran-conflict-is-becoming-a-russia-ukraine-proxy-war",
         "image": null,
         "timestamp": 1774882999.0
-    },
-    {
-        "title_fa": "ایران: در انتظار حمله زمینی احتمالی آمریکا؛ اعزام ۳۵۰۰ نیرو به منطقه",
-        "title_en": "Iran says it's 'waiting' for a possible U.S. ground assault as 3,500 troops arrive in Middle East",
-        "summary": [
-            "ایالات متحده حدود ۳۵۰۰ نیروی نظامی به خاورمیانه اعزام کرده است.",
-            "رئیس مجلس ایران اعلام کرد که آمریکا به‌طور پنهانی «برنامه‌ریزی برای حمله زمینی» می‌کند، در حالی که هم‌زمان پیام‌هایی برای مذاکره ارسال می‌شود.",
-            "این تقابل پیام‌های تهدید و دیپلماسی ریسک محاسبه‌زدایی را بالا می‌برد و احتمال تشدید فوری تنش و واکنش‌های امنیتی ایران را افزایش می‌دهد."
-        ],
-        "impact": "حضور نیروها و اتهام تهران احتمال درگیری مستقیم را بالا می‌برد و به احتمال زیاد موضع امنیتی و آماده‌باش ایران را تشدید خواهد کرد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/iran-waiting-possible-us-ground-assault-troops-rcna265665",
-        "clean_url": "https://www.nbcnews.com/world/iran/iran-waiting-possible-us-ground-assault-troops-rcna265665",
-        "image": "http://www.bing.com/th?id=ONUT.-R1etL_YBtDSbhKNqZJvMg&pid=News",
-        "timestamp": 1774882440.0
     }
 ]
