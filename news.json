@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "پنتاگون: ۳۶۵ نظامی آمریکایی در جنگ با ایران زخمی شدند؛ درگیری‌ها تشدید شد",
+        "title_en": "Pentagon: 365 US service members wounded in Iran war as conflict intensifies",
+        "summary": [
+            "پنتاگون اعلام کرده است که ۳۶۵ نظامی آمریکایی در جریان جنگ با ایران مجروح شده‌اند — گزارشی که نشان‌دهنده تشدید موقیعیت رزمی است.",
+            "تشدید درگیری‌ها بار هزینه‌های نظامی را افزایش می‌دهد و ساختار بقاء سیاسی رژیم را تحت فشار قرار می‌دهد؛ اگر تحریم‌ها یا فشار خارجی ادامه یا تشدید شود، این فشارها به گزینه‌های سیاسی و اقتصادی حکومت اضافه خواهد شد.",
+            "افزایش تنش نظامی می‌تواند منابع اقتصادی را بیشتر تخلیه کند و در صورت استمرار مدیریت ضعیف، احتمال تشدید نارضایتی عمومی و فشارهای داخلی افزایش می‌یابد؛ در حال حاضر ادعاهای مربوط به اعتراضات داخلی در این گزارش ذکر نشده است."
+        ],
+        "impact": "گزارش از مجروح شدن شمار بالای نظامیان آمریکایی نشانه‌ای از نقطه‌عطف خطرناک در تشدید بی‌ثباتی منطقه‌ای است که می‌تواند فشارهای داخلی بر رژیم را افزایش دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "wtsp.com",
+        "url": "https://www.12news.com/article/news/nation-world/attack-on-iran/service-members-wounded-in-iran-war-conflict-intensifies/507-d3946624-a06f-4493-a815-2e4deff07117",
+        "clean_url": "https://www.12news.com/article/news/nation-world/attack-on-iran/service-members-wounded-in-iran-war-conflict-intensifies/507-d3946624-a06f-4493-a815-2e4deff07117",
+        "image": null,
+        "timestamp": 1775256720.0
+    },
+    {
+        "title_fa": "اسقف نظامی ارتش آمریکا: درگیری با ایران معیار «جنگ عادلانه» را ندارد",
+        "title_en": "US military archbishop says Iran conflict does not meet ‘just war’ standard",
+        "summary": [
+            "اسقف نظامی ارتش آمریکا اعلام کرد که درگیری با ایران معیارهای «جنگ عادلانه» را ندارد و بنابراین از منظر اخلاقی نمی‌توان آن را توجیه کرد.",
+            "این موضع می‌تواند مشروعیت اخلاقی و سیاسی اعمال نیروی نظامی علیه ایران را در داخل آمریکا تضعیف کند و مانع از کسب حمایت عمومی و سیاسی برای تشدید عملیات نظامی یا فشارهای سخت شود.",
+            "اثر مستقیم این اظهار بر اعتراضات داخلی یا وضعیت اقتصادی ایران نامشخص است، اما ضعف مدیریتی و ناتوانی رژیم در حل مشکلات اقتصادی همچنان یک عامل ساختاری بی‌ثبات‌کننده باقی می‌ماند؛ رژیم ممکن است تلاش کند از این موضع برای تبلیغات ضدغربی بهره‌برداری کند. "
+        ],
+        "impact": "اعلام نظر مذهبی-نظامی در آمریکا احتمالاً فضای تصمیم‌گیری سیاست‌گذاران را محدود می‌کند و ظرفیت استفاده از گزینه‌های فشار سخت یا حمله نظامی علیه ایران را کاهش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0psYkxnS2N6dnRDZWpNOGRzcmdyRlZ3QmFNT3JFTVlDLWNITWdSR0hnUUNiUGRmS3g5LWdRcGFZaGVvVTRQVnBnN0ZIenBpVXRSTndFLUV5cXo0OXk5eUY3MVJ3WmVMRi1jZFZFM1dEbFpQTWZZYmZCN3RWYnBjYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZ0psYkxnS2N6dnRDZWpNOGRzcmdyRlZ3QmFNT3JFTVlDLWNITWdSR0hnUUNiUGRmS3g5LWdRcGFZaGVvVTRQVnBnN0ZIenBpVXRSTndFLUV5cXo0OXk5eUY3MVJ3WmVMRi1jZFZFM1dEbFpQTWZZYmZCN3RWYnBjYQ",
+        "image": null,
+        "timestamp": 1775255940.0
+    },
+    {
         "title_fa": "دو هواپیمای آمریکایی سرنگون شدند؛ دست‌کم یک خدمه مفقود — تشدید جنگ در ایران",
         "title_en": "2 US aircraft shot down as war in Iran escalates. At least 1 crew member is missing",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaTRHZ181b3ZFdEMxenBZSl9zSThiM0s3aWhSOFpyMHB1T25heWIwQ3Z0Y1NyVEVjLXVoeHZBUkI4d3BvQVpyOFhxQ3NoOTlCTFRudjhCLVR6RW1MZG9MT3NqTjVVNWo0VUVkMzFQb0FYSnFjOUo3cXNxbE0waG5kZzVRNTFPM04wcmxMc0VEMWc2aW1RdlpLaktJRUUyNG9aeHZr",
         "image": null,
         "timestamp": 1775253000.0
+    },
+    {
+        "title_fa": "حمله اسرائیل به بیروت؛ آمریکا هشدار می‌دهد ایران ممکن است دانشگاه‌های لبنان را هدف قرار دهد",
+        "title_en": "Israel strikes Beirut, US warns Iran may hit Lebanese universities",
+        "summary": [
+            "رویترز گزارش می‌دهد اسرائیل حملاتی در بیروت انجام داده و ایالات متحده هشدار داده که ایران ممکن است به دانشگاه‌های لبنان حمله کند.",
+            "این هشدار نشان‌دهنده خطر گسترش درگیری فراتر از مرزهای لبنان-اسرائیل است و می‌تواند موجب افزایش فشار دیپلماتیک و تنگ‌تر شدن فضای بین‌المللی علیه تهران شود.",
+            "هدف‌گیری مراکز آموزشی به معنای تبدیل منازعه به عرصه‌ای علیه غیرنظامیان است و بار سیاسی و مدیریتی ناشی از چنین تشدیدی ظرفیت رژیم ایران و دولت‌های محلی لبنان را برای کنترل بحران کاهش می‌دهد."
+        ],
+        "impact": "افزایش احتمال هدف‌گیری اهداف غیرنظامی، تشدید انزوای بین‌المللی تهران و فشار بر توان مدیریتی و سیاسی رژیم را به همراه خواهد داشت.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military/israel-strikes-beirut-us-warns-iran-may-hit-lebanese-universities/ar-AA206H34",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/israel-strikes-beirut-us-warns-iran-may-hit-lebanese-universities/ar-AA206H34",
+        "image": null,
+        "timestamp": 1775246718.0
     },
     {
         "title_fa": "اعلام آمادگی حوثی‌ها برای مداخله مستقیم در صورت ورود بازیگران جدید به تقابل آمریکا-اسرائیل با ایران",
@@ -574,6 +628,24 @@
         "clean_url": "https://www.cnn.com/2026/04/03/middleeast/trump-claims-iran-regime-change-intl",
         "image": "http://www.bing.com/th?id=ONUT.H2tXgYCO92YauYrHbbJFqw&pid=News",
         "timestamp": 1775203080.0
+    },
+    {
+        "title_fa": "سرنگونی دو هواپیمای آمریکایی همزمان با تشدید جنگ؛ هر دو خلبان نجات یافتند، یک عضو خدمه مفقود است",
+        "title_en": "2 U.S. aircraft downed as Iran war escalates; both pilots rescued, one crew member missing, officials say",
+        "summary": [
+            "دو فروند هواپیمای آمریکایی سرنگون شده‌اند؛ مقامات می‌گویند هر دو خلبان نجات یافته‌اند و یک عضو خدمه مفقود است.",
+            "ادعای پیت هگستث، وزیر دفاع آمریکا، که برای هفته‌ها مدعی شد ایالات متحده سامانه‌های دفاع هوایی ایران را فلج کرده است، با این رخداد مورد تردید قرار می‌گیرد.",
+            "این واقعه می‌تواند مسیر تعاملات خارجی را به سوی تشدید فشارها و تحریم‌های سخت‌تر سوق دهد و هم‌زمان تمرکز رژیم را از مدیریت اقتصادی و معضلات داخلی منحرف کند؛ بار سیاسی و اقتصادی داخلی را افزایش می‌دهد."
+        ],
+        "impact": "سرنگونی هواپیماها اعتبار ادعاهای آمریکا درباره تضعیف دفاع هوایی ایران را تضعیف می‌کند و احتمال تشدید فشارهای بین‌المللی و افزایش هزینه‌های سیاسی ـ اقتصادی برای رژیم را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Los Angeles Times",
+        "url": "https://www.latimes.com/world-nation/story/2026-04-03/u-s-pilot-ejected-from-their-aircraft-over-southwestern-iran-affiliate-of-iranian-state-tv-claims",
+        "clean_url": "https://www.latimes.com/world-nation/story/2026-04-03/u-s-pilot-ejected-from-their-aircraft-over-southwestern-iran-affiliate-of-iranian-state-tv-claims",
+        "image": "http://www.bing.com/th?id=ONUT.x9FWmN0eNl5TzJDevf-BTw&pid=News",
+        "timestamp": 1775201820.0
     },
     {
         "title_fa": "جنگ ایران با اسرائیل و ایالات متحده",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbFkweENOdWFob2lDWDFLQWs0VmFYTVV2WFBaeWxzeGlxLTJmVW9tbTV0TFlPVWxVdmt0UkJqZjVrQTBoaHZOTm9taF9Jc1gyMlRxZ1NUMGllWkJoTGNjQmRRRHEtbkgyc1Fmd3hyWmtxdUZ0elB0N1R1Q1VEZ1l0RlRlMVVxSXkzeTh3Sk5mSWYwR0xjQkVNbDBNOGxCTTMz0gGmAUFVX3lxTE5haG1JUGxTdGNKSGRPZHJwMU9QRlYtcEV4WU51aE1wX1d0Ri1SX01iTmZ5WHJBTUl3RDFla2lFVTdjNk02c1d4VF9FZkxTTkMyXzk0UzZINlV2NC1wcXg4OWkxY0tDalBqVXo0T0N2eXE3Tlh2UWdlOE9oT0l5SGJOUHN1UEFqa19yTnBEYjA3OHdraThxNWVxNVM3UklwanB6VmU3Z2c",
         "image": null,
         "timestamp": 1774899675.0
-    },
-    {
-        "title_fa": "تانکر عظیم نفتی کنار دبی با حمله ایران آتش گرفت؛ ترامپ تهدید به نابودی تاسیسات نفتی ایران کرد",
-        "title_en": "Giant oil tanker off Dubai hit by Iranian strike, Trump threatens to obliterate Iran energy, oil plants",
-        "summary": [
-            "رویترز گزارش می‌دهد یک تانکر نفت خام کاملاً پر در نزدیکی دبی هدف حمله ایران قرار گرفت و به آتش کشیده شد؛ هم‌زمان دونالد ترامپ تهدید کرد بخش انرژی و تاسیسات نفتی ایران را نابود خواهد کرد.",
-            "تهدیدهای رئیس‌جمهور آمریکا و حمله مستقیم به کشتی تجاری، ریسک رویارویی نظامی و تشدید فشارهای بین‌المللی علیه تهران را بالا می‌برد و می‌تواند به موج جدیدی از تحریم‌ها و اختلال در خطوط کشتیرانی و بیمه نفتی بینجامد.",
-            "گزارش اشاره‌ای به اعتراضات داخلی یا پیامدهای اقتصادی در داخل ایران ندارد؛ با این حال چنین مجموعه فشارهای خارجی می‌تواند آسیب‌پذیری‌های اقتصادی ساختاری رژیم را تشدید کند و فضای سیاسی را برای دولت تنگ‌تر سازد."
-        ],
-        "impact": "این حادثه احتمال تشدید درگیری‌های منطقه‌ای، افزایش فشار اقتصادی و دیپلماتیک بر ایران و بی‌ثباتی بیشتر بازارهای انرژی را به‌طور همزمان تقویت می‌کند.",
-        "tag": "نفت",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/world/giant-oil-tanker-off-dubai-hit-by-iranian-strike-trump-threatens-to-obliterate-iran-energy-oil-plants/ar-AA1ZMmG1",
-        "clean_url": "https://www.msn.com/en-us/news/world/giant-oil-tanker-off-dubai-hit-by-iranian-strike-trump-threatens-to-obliterate-iran-energy-oil-plants/ar-AA1ZMmG1",
-        "image": "http://www.bing.com/th?id=ONUT.ptdDi4NgP8qb8MZ6qOljZg&pid=News",
-        "timestamp": 1774899473.0
-    },
-    {
-        "title_fa": "تصویب محدودیت‌های جدید در تنگه هرمز توسط کمیسیون امنیتی مجلس ایران",
-        "title_en": "Iran approves horrifying new restrictions on Strait of Hormuz as it tightens chokehold",
-        "summary": [
-            "کمیسیون امنیتی مجلس ایران رسماً طرحی را تصویب کرد که کنترل و محدودیت‌ها بر تنگه هرمز—گذرگاه حیاتی صادرات نفت جهان—را تشدید می‌کند.",
-            "این اقدام احتمال واکنش بین‌المللی را بالا می‌برد؛ می‌تواند به فشارهای دیپلماتیک و اقتصادی، افزایش هزینه‌های بیمه و حمل‌ونقل دریایی و رشد ریسک برخوردهای نظامی در آبراه‌های بین‌المللی بینجامد و در نتیجه رژیم را از منظر راهبردی آسیب‌پذیرتر کند.",
-            "تشدید کنترل تنگه ریسک اختلال در جریان نفت و کاهش درآمدهای ارزی را تشدید می‌کند؛ این سیاست نشان‌دهنده سوء‌مدیریت راهبردی است و احتمالاً بار اقتصادی و سیاسی را بر شهروندان افزون می‌کند و نارضایتی عمومی را افزایش خواهد داد."
-        ],
-        "impact": "این تصمیم، احتمال منزوی‌تر شدن بین‌المللی و فشار اقتصادی بیشتر بر رژیم را افزایش می‌دهد و می‌تواند ثبات سیاسی داخلی را تضعیف کند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Daily Express US",
-        "url": "https://www.msn.com/en-us/news/other/iran-approves-horrifying-new-restrictions-on-strait-of-hormuz-as-it-tightens-chokehold/ar-AA1ZLb9Y",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-approves-horrifying-new-restrictions-on-strait-of-hormuz-as-it-tightens-chokehold/ar-AA1ZLb9Y",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ZL5Rk.img?w=590&h=393&m=4&q=79",
-        "timestamp": 1774899000.0
-    },
-    {
-        "title_fa": "ترامپ در جنگ با ایران در حال شکست است",
-        "title_en": "Trump is losing the war in Iran",
-        "summary": [
-            "حمایت عمومی آمریکا از جنگ علیه ایران در حال فرسایش است؛ نظرسنجی فاکس نیوز خالص تایید عملیات نظامی را -16 و خالص تایید مدیریت ترامپ در موضوع ایران را -28 نشان می‌دهد، در میان مستقل‌ها میزان تایید -58 است.",
-            "در میدان تنش ادامه دارد: ترامپ مهلت باز کردن تنگه هرمز را تمدید کرد، بسته شدن تنگه جریان نفت را مختل و قیمت‌های انرژی را بالا برده و پنتاگون 2,000 نیروی هوابرد به منطقه فرستاده است.",
-            "تلفات سنگین غیرنظامیان در ایران و لبنان (رویترز: دست‌کم 1,464 کشته شامل 217 کودک) و نظرسنجی کوئین‌پی‌یَک که تنها 35٪ معتقدند جنگ جهان را امن‌تر می‌کند، نشان‌دهنده هزینه انسانی و سیاسی بالای ادامه درگیری است."
-        ],
-        "impact": "کاهش حمایت داخلی در آمریکا ظرفیت واشنگتن برای عملیات طولانی‌مدت را تضعیف می‌کند؛ هم‌زمان اختلال در بازار انرژی و تلفات انسانی فشار سیاسی و مشروعیتی را بر حکومت ایران در داخل و منطقه افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.4,
-        "source": "The Washington Post",
-        "url": "https://www.yahoo.com/news/articles/trump-hemorrhages-support-iran-war-233456997.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-hemorrhages-support-iran-war-233456997.html",
-        "image": null,
-        "timestamp": 1774898555.0
-    },
-    {
-        "title_fa": "روبیو: تنگه هرمز «یک‌راه یا دیگری» باز می‌شود؛ تهدید به زور و نابودی توان نظامی ایران",
-        "title_en": "Rubio says Strait of Hormuz to reopen ‘one way or another’ amid Iran war",
-        "summary": [
-            "مارکو روبیو، وزیر خارجه آمریکا، گفت تنگه هرمز «به یک صورت یا دیگری» باز خواهد شد — یا با رعایت ایران از حقوق بین‌الملل یا با تضمین دسترسی توسط ائتلافی از کشورها؛ او همچنین ارزیابی و خواست تغییر رژیم و تخریب توان هوایی و نیروی دریایی ایران را مطرح کرد.",
-            "ادعای احتمال اعزام نیروهای زمینی آمریکا و ادامه اثرگذاری بسته‌بودن تنگه بر بازار جهانی نفت، فشار اقتصادی بر ایران را تشدید می‌کند؛ گزارش ۱٬۹۳۷ کشته در ایران می‌تواند به افزایش نارضایتی داخلی و فرسایش مشروعیت رژیم بینجامد.",
-            "روبیو از وجود «پیام‌ها و گفت‌وگوهای غیرمستقیم» بین آمریکا و عناصر داخل ایران سخن گفت که ایران آنها را تکذیب کرده؛ این ترکیب دیپلماسی مضاف بر تهدید نظامی ساختار سیاست خارجی را به سمت تقابل مستقیم برمی‌گرداند و ریسک تشدید بحران را بالا می‌برد."
-        ],
-        "impact": "تهدید آشکار به بازگشایی تنگه با زور و اهداف نابودی توان نظامی ایران، احتمال درگیری مستقیم را افزایش داده و همزمان اقتصاد و انسجام داخلی رژیم را بیشتر تضعیف می‌کند.",
-        "tag": "تقابل",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/rubio-tells-al-jazeera-strait-142100912.html",
-        "clean_url": "https://www.yahoo.com/news/articles/rubio-tells-al-jazeera-strait-142100912.html",
-        "image": null,
-        "timestamp": 1774895352.0
     }
 ]
