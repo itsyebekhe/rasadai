@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "دوباره در جنگ با ایران؛ برخی اسرائیلی‌ها نگران عادی‌شدن درگیری",
+        "title_en": "At War With Iran Again, Some Israelis Fear Conflict Is Becoming Routine",
+        "summary": [
+            "عنوان مقاله نشان می‌دهد که بخش‌هایی از جامعه اسرائیل نگران تبدیل شدن رویارویی با ایران به وضعیتی تکراری و پایدار هستند.",
+            "فشارهای خارجی و تحریم‌های مستمر ساختارهای اقتصادی و نظامی ایران را فرسوده می‌کنند؛ این فرسایش می‌تواند آسیب‌پذیری بلندمدت حکومت را افزایش دهد و هزینه‌های ادامه جنگ و سرکوب را سنگین‌تر کند.",
+            "تداوم درگیری نظامی احتمال تشدید ناکارآمدی‌های مدیریتی و اقتصادی داخل ایران را بالا می‌برد و می‌تواند به افزایش نارضایتی عمومی و فرسایش مشروعیت حکومت منتهی شود."
+        ],
+        "impact": "تبدیل درگیری به «روتین» ظرفیت بازدارندگی و تاب‌آوری داخلی ایران را کاهش می‌دهد و فرصت فشار بین‌المللی و داخلی بر حکومت را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "nytimes.com",
+        "url": "https://www.nytimes.com/2026/04/03/world/middleeast/israel-war-mood.html",
+        "clean_url": "https://www.nytimes.com/2026/04/03/world/middleeast/israel-war-mood.html",
+        "image": null,
+        "timestamp": 1775207238.0
+    },
+    {
         "title_fa": "جنگ ایران با اسرائیل و ایالات متحده",
         "title_en": "Iran’s War With Israel and the United States | Global Conflict Tracker",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw",
         "image": null,
         "timestamp": 1775201127.0
+    },
+    {
+        "title_fa": "چگونه جنگ با ایران به پایان می‌رسد",
+        "title_en": "How the War with Iran Ends",
+        "summary": [
+            "نظرسنجی Reuters/Ipsos نشان می‌دهد ۶۶٪ آمریکایی‌ها موافق پایان عملیات ایالات متحده در ایران هستند حتی اگر اهداف محقق نشود.",
+            "۲۷٪ شرکت‌کنندگان خواهان ادامه و تکمیل اهداف نظامی آمریکا در منطقه بوده‌اند و ۶٪ پاسخ ندادند؛ نظرسنجی یک روز پیش از سخنرانی ترامپ درباره جنگ منتشر شد.",
+            "فشار گسترده افکار عمومی در آمریکا می‌تواند سقف زمانی و سیاسی عملیات را تعیین کند و احتمال تصمیم زودهنگام واشنگتن برای خروج یا کاهش تعهدات نظامی را افزایش دهد."
+        ],
+        "impact": "کاهش حمایت عمومی آمریکا از ادامۀ عملیات، احتمالاً فشار نظامی-دیپلماتیک علیه تهران را تخفیف می‌دهد و به یک بازه تنفسی برای رژیم منجر می‌شود، اما این کاهش فشار خارجی مانع از تداوم تضعیف ساختاری اقتصادی و نارضایتی داخلی نمی‌شود.",
+        "tag": "جنگ",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "War on the Rocks",
+        "url": "https://www.baltimoresun.com/2026/04/02/do-americans-want-war-with-iran-war-to-end-new-poll-says-66-want-it-over/",
+        "clean_url": "https://www.baltimoresun.com/2026/04/02/do-americans-want-war-with-iran-war-to-end-new-poll-says-66-want-it-over",
+        "image": null,
+        "timestamp": 1775200646.0
     },
     {
         "title_fa": "ترامپ تهدید به نابودی نیروگاه‌های ایران کرد؛ گزارش‌هایی از سرنگونی احتمالی F-35 آمریکا",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.thedailybeast.com/iran-trolls-trump-with-claim-he-is-gaming-the-markets",
         "image": "http://www.bing.com/th?id=ONUT.7RdxyMQ6p2ljay1Y07xaYw&pid=News",
         "timestamp": 1774858920.0
-    },
-    {
-        "title_fa": "خاموشی اینترنت ایران برای پنهان‌سازی خسارت حملات و سرکوب اعتراضات، به گفته مقامات اسرائیلی",
-        "title_en": "Iran's internet blackout hiding strike damage and suppressing dissent, Israeli officials say",
-        "summary": [
-            "مقامات اسرائیلی اعلام کرده‌اند خاموشی گسترده اینترنت در ایران با هدف پنهان کردن خسارت ناشی از حملات نظامی (از جمله حملات گزارش‌شده آمریکا و اسرائیل) و جلوگیری از انتشار اطلاعات میدانی برقرار شده است.",
-            "اطلاعات اسرائیلی این وضعیت را «خاموشی حقیقت» توصیف کرده و تاکید نموده رژیم از قطع شبکه برای مهار اطلاع‌رسانی درباره ضربات و سرکوب صدای معترضین بهره می‌برد.",
-            "قطع دسترسی دیجیتال پیامدهای فوری سیاسی و اقتصادی دارد: کاهش شفافیت، افزایش بی‌اعتمادی عمومی و تشدید امکان بی‌ثباتی که ضعف‌های ساختاری حکمرانی را آشکارتر می‌کند."
-        ],
-        "impact": "خاموشی اینترنت نشان‌دهنده تزلزل امنیتی و سیاسی رژیم است که برای پنهان‌سازی نتایج حملات و مهار نارضایتی‌ها دست به اقدامات انسدادی زده و در کوتاه‌مدت ثبات داخلی را تضعیف می‌کند.",
-        "tag": "خاموشی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/irans-internet-blackout-hiding-strike-damage-suppressing-dissent-israeli-officials-say",
-        "clean_url": "https://www.foxnews.com/world/irans-internet-blackout-hiding-strike-damage-suppressing-dissent-israeli-officials-say",
-        "image": "http://www.bing.com/th?id=ONUT.8cTJ02EQSJojsmDytvLp7g&pid=News",
-        "timestamp": 1774857780.0
-    },
-    {
-        "title_fa": "مرگ علی‌رضا تنگسیری، فرمانده نیروی دریایی سپاه تأیید شد",
-        "title_en": "Iran confirms death of IRGC Navy chief Alireza Tangsiri",
-        "summary": [
-            "ایران رسماً مرگ علی‌رضا تنگسیری، فرمانده نیروی دریایی سپاه، را تأیید کرد.",
-            "اطلاعات رسمی درباره زمان، مکان یا علت مرگ هنوز منتشر نشده که نشان‌دهنده فقدان شفافیت اطلاع‌رسانی رژیم است.",
-            "از دست رفتن یک فرمانده ارشد احتمالاً رقابت‌های جناحی برای جانشینی را تشدید و به‌طور موقت انسجام و توان عملیاتی نیروی دریایی را تضعیف می‌کند."
-        ],
-        "impact": "این رویداد شکاف رهبری و تضعیف موقت توان عملیاتی نیروی دریایی سپاه را تشدید کرده و می‌تواند حوزه‌های نفوذ و کنترل دریایی را آسیب‌پذیرتر کند.",
-        "tag": "مرگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://www.military.com/daily-news/headlines/2026/03/27/Iran-Retaliation-Threat-Grows-After-Israeli-Strike-on-Naval-Chief",
-        "clean_url": "https://www.military.com/daily-news/headlines/2026/03/27/Iran-Retaliation-Threat-Grows-After-Israeli-Strike-on-Naval-Chief",
-        "image": null,
-        "timestamp": 1774856965.0
     }
 ]
