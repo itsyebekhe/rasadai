@@ -252,6 +252,24 @@
         "timestamp": 1775306280.0
     },
     {
+        "title_fa": "مشاوران ارشد ترامپ: هدف‌گیری زیرساخت‌های ایران مَجاز است",
+        "title_en": "Top aides advise Trump blasting Iran’s infrastructure is fair game",
+        "summary": [
+            "مشاوران ارشد کاخ سفید می‌گویند هدف گرفتن نیروگاه‌ها و راه‌ها برای تضعیف برنامه‌های تسلیحاتی ایران قابل توجیه است؛ موضعی که در عمل چراغ سبز برای حمله به زیرساخت‌های غیرنظامی می‌فرستد.",
+            "اگر چنین حملاتی اجرا شود، ظرفیت فنی و زنجیره تأمین برنامه‌های نظامی کاهش می‌یابد و فشار اقتصادی و دیپلماتیک بر حکومت افزایش پیدا می‌کند؛ این فشارها می‌تواند ثبات ساختاری رژیم را تضعیف کند.",
+            "حملات به زیرساخت‌ها احتمالاً زندگی روزمره و اقتصاد را هدف می‌گیرد و می‌تواند نارضایتی عمومی را تشدید کرده و ضعف مدیریتی حکومت را آشکارتر کند؛ اما این پیامدها بسته به گستره و هدف‌گیری حملات متغیر خواهند بود."
+        ],
+        "impact": "این پیشنهادات خطر ورود به تقابل نظامی مستقیم را بالا می‌برد و می‌تواند تضعیف عملیاتی و سیاسی حکومت را تسریع کند.",
+        "tag": "تهاجم",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/top-aides-advise-trump-blasting-iran-s-infrastructure-is-fair-game/ar-AA209Gx7",
+        "clean_url": "https://www.msn.com/en-us/news/world/top-aides-advise-trump-blasting-iran-s-infrastructure-is-fair-game/ar-AA209Gx7",
+        "image": "http://www.bing.com/th?id=ONUT._HKDl02a1uwhIHX8_-3qHg&pid=News",
+        "timestamp": 1775305680.0
+    },
+    {
         "title_fa": "جست‌وجوی خدمه آمریکایی وارد روز دوم شد؛ دو جنگنده و دو هلی‌کوپتر آمریکایی به وسیله آتش ایران هدف قرار گرفتند",
         "title_en": "Iran live updates: Search for missing US crew member enters 2nd day",
         "summary": [
@@ -394,6 +412,24 @@
         "clean_url": "https://www.newsweek.com/iran-war-live-missing-airman-tehran-reward-11782569",
         "image": "http://www.bing.com/th?id=ONUT.GJf5bMyv-7vvodus_GYCFQ&pid=News",
         "timestamp": 1775298600.0
+    },
+    {
+        "title_fa": "گراهام از اولتیماتوم ترامپ به ایران حمایت کرد: «انتخاب کنید»",
+        "title_en": "Graham backs Trump’s Iran ultimatum as deadline approaches: ‘Choose wisely’",
+        "summary": [
+            "سناتور لیندزی گراهام (جمهوری‌خواه-کارولینای جنوبی) از اولتیماتوم دونالد ترامپ حمایت کرده؛ خواسته شده تنگه هرمز باز شود و ظرف ۴۸ ساعت با آمریکا توافق صلح امضا شود.",
+            "این اولتیماتوم به‌عنوان فشار خارجی مستقیم عمل می‌کند و می‌تواند ثبات ساختاری رژیم را تضعیف کند؛ توان سیاسی و اقتصادی حکومت را در برابر بازیگران بین‌المللی کاهش می‌دهد.",
+            "در سطح داخلی، تشدید چنین فشارهایی به‌صورت مشروط می‌تواند ضعف مدیریتی حکومت را برجسته کرده و احتمال تقویت نارضایتی و بی‌ثباتی اجتماعی را افزایش دهد."
+        ],
+        "impact": "اعلام ضرب‌الاجل ۴۸ ساعته احتمال تشدید سریع تنش‌های دیپلماتیک و افزایش ریسک برخوردهای نظامی یا تحریم‌های جدید علیه رژیم را بالا می‌برد.",
+        "tag": "اولتیماتوم",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/senate/5816309-graham-backs-trump-iran-threats/",
+        "clean_url": "https://thehill.com/homenews/senate/5816309-graham-backs-trump-iran-threats",
+        "image": "http://www.bing.com/th?id=ONUT.kzivjkP7wUn1jnK7FGngbA&pid=News",
+        "timestamp": 1775296020.0
     },
     {
         "title_fa": "نگرانی آژانس؛ حمله چهارم به نیروگاه بوشهر و کشته شدن یک کارمند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-live-updates-trump-touts-060512146.html",
         "image": "http://www.bing.com/th?id=ONUT.Q5dq3KfFWzypNFaHgd_-tQ&pid=News",
         "timestamp": 1774975680.0
-    },
-    {
-        "title_fa": "برای اقتصاد جهانی «تمام راه‌ها به قیمت‌های بالاتر و رشد کندتر می‌رسد»",
-        "title_en": "For the Global Economy, 'All Roads Lead to Higher Prices and Slower Growth'",
-        "summary": [
-            "جنگ در ایران باعث اختلال در عرضه کالاها و انرژی شده و مصرف‌کنندگان، شرکت‌ها و دولت‌ها در سراسر جهان را با افزایش قیمت کالاهای ضروری تحت فشار قرار می‌دهد.",
-            "فشارهای خارجی و اختلالات ناشی از درگیری، ساختارهای مالی و بودجه‌ای رژیم را تضعیف و هزینه‌های مدیریت بحران را بالا می‌برد؛ این ضربه اقتصادی پتانسیل کاهش مشروعیت و توان حکمرانی را دارد.",
-            "سوء‌مدیریت اقتصادی پیشین رژیم و کمبود ظرفیت واکنش مؤثر به شوک‌های قیمتی، احتمال تشدید نارضایتی اجتماعی و کاهش توان جبران اثرات تورمی را افزایش می‌دهد."
-        ],
-        "impact": "افزایش همزمان قیمت‌ها و کندی رشد اقتصادی فشار ذخایر ارزی و معیشت را بالا می‌برد و ریسک بی‌ثباتی داخلی و تشدید بحران سیاسی را در کوتاه‌مدت افزایش می‌دهد.",
-        "tag": "تورم",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/03/31/world/middleeast/oil-energy-inflation-global-economy.html",
-        "clean_url": "https://www.nytimes.com/2026/03/31/world/middleeast/oil-energy-inflation-global-economy.html",
-        "image": "https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-global-econ-wrap-topart-kqhj/31israel-iran-global-econ-wrap-topart-kqhj-facebookJumbo.jpg",
-        "timestamp": 1774974900.0
-    },
-    {
-        "title_fa": "اروپا نسبت به برخی عملیات نظامی آمریکا مقاومت نشان می‌دهد؛ نگرانی‌ها از جنگ با ایران افزایش یافته",
-        "title_en": "Europe pushes back on some US military operations as concerns over Iran war mount",
-        "summary": [
-            "کشورهای اروپایی نسبت به مشارکت یا تسهیل برخی عملیات نظامی ارتش آمریکا مقاومت کرده‌اند؛ علت اصلی نگرانی از تشدید درگیری و گسترش جنگ با ایران است.",
-            "این واکنش شکاف در هماهنگی نظامی و دیپلماتیک بین ایالات متحده و متحدان اروپایی را آشکار می‌کند و ظرفیت آمریکا برای اقدام نظامی گسترده را محدود می‌سازد.",
-            "کاهش تمایل اروپا به حمایت نظامی احتمالاً فشارها را به میدان دیپلماسی و تحریم‌ها منتقل می‌کند؛ پیامد دقیق برای ثبات داخلی ایران نامطمئن است اما ریسک‌های ساختاری برای رژیم وجود دارد."
-        ],
-        "impact": "عقب‌نشینی اروپا احتمالاً از تشدید فوری عملیات نظامی علیه ایران جلوگیری می‌کند اما هم‌زمان با افزایش گزاره‌های دیپلماتیک و اقتصادی که توانمندی ساختاری رژیم را تضعیف می‌کند، فضای سیاسی داخلی را پیچیده‌تر می‌نماید.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGI1RDRzSnZ0MW9jTlhyd0tGNFdjQk5EQkwtS3U3UjJXUzFxR05NRVlmT01WLUtEeGlTZzhiUExVbEpENElQT05YckFqcS1URTRZQUZtMzZ1UF9YSXFUYVNlT2ttbjRaTFlhUXVkQmJHVV9oUUFtNjA2N1VzVFpOS0QxNFkzeWozYmFOYWx0bFZ3YzJESUtxZ2RfREtYR2RiaWFQS2VBRzdhcUpUNTBVRGQyMkYweHFHd0Ew?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTGI1RDRzSnZ0MW9jTlhyd0tGNFdjQk5EQkwtS3U3UjJXUzFxR05NRVlmT01WLUtEeGlTZzhiUExVbEpENElQT05YckFqcS1URTRZQUZtMzZ1UF9YSXFUYVNlT2ttbjRaTFlhUXVkQmJHVV9oUUFtNjA2N1VzVFpOS0QxNFkzeWozYmFOYWx0bFZ3YzJESUtxZ2RfREtYR2RiaWFQS2VBRzdhcUpUNTBVRGQyMkYweHFHd0Ew",
-        "image": null,
-        "timestamp": 1774973189.0
     }
 ]
