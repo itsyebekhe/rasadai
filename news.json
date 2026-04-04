@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "سپاه پاسداران انقلاب اسلامی در برابر تهاجم زمینی آمریکا مقاومت سرسختانه‌ای می‌کند؛ تاریخ این را ثابت می‌کند",
+        "title_en": "Iran’s Revolutionary Guard would fiercely resist a US ground invasion. History proves it",
+        "summary": [
+            "مقاله استدلال می‌کند که تجربه‌های گذشته — از جنگ ایران و عراق تا راهبری نبردهای نیابتی منطقه‌ای — نشان می‌دهد سپاه توان و اراده لازم برای مقابله سخت با تهاجم زمینی را دارد و از تاکتیک‌های نامتقارن برای تحمیل هزینه بالا بهره می‌برد.",
+            "شبکه‌های نیابتی و ساختارهای بسیجی‌گونه داخل کشور و در منطقه، امکان بسیج سریع نیرو و جنگ فرسایشی را فراهم می‌کنند؛ این بدان معناست که اشغال زمینی هزینه‌های سیاسی و نظامی بسیار بالایی برای متجاوز به دنبال خواهد داشت.",
+            "در سطح داخلی، مقاله هشدار می‌دهد که یک تهاجم زمینی نه تنها به تشدید درگیری‌های منطقه‌ای منجر می‌شود، بلکه به دلیل تحریم‌ها و مدیریت ضعیف اقتصادی، فشارهای اقتصادی و نارضایتی عمومی را تشدید خواهد کرد و ثبات حکمرانی را بیش از پیش تضعیف می‌کند."
+        ],
+        "impact": "یک تهاجم زمینی آمریکا احتمالاً به مقاومت گسترده و نامتقارن سپاه، تشدید بحران‌های منطقه‌ای و افزایش فشار اقتصادی و سیاسی داخلی منجر می‌شود که ثبات رژیم را هم تحت فشار قرار می‌دهد.",
+        "tag": "مقاومت",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "theconversation.com",
+        "url": "https://theconversation.com/irans-revolutionary-guard-would-fiercely-resist-a-us-ground-invasion-history-proves-it-279796",
+        "clean_url": "https://theconversation.com/irans-revolutionary-guard-would-fiercely-resist-a-us-ground-invasion-history-proves-it-279796",
+        "image": null,
+        "timestamp": 1775287266.0
+    },
+    {
         "title_fa": "یک خدمه نجات یافت پس از سرنگونی جنگنده آمریکایی — لحظه به لحظه",
         "title_en": "One crew member rescued after US fighter jet downed — as it happened",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcThXbUxNcWdBU2NWSHpUOExkR3EyOVVYWFgzbzAzRnpUTHhrYVA2RTdLRmFSWnA4SEd1ZFp0RkJHbE4yMXhlUmdaWi05Tmxwc0pXME1WMEtKbnRNUUZLandjbGFlTU9NWWY0N1BWZ1N3dXd4YmZ0UEFRQmg2a2U4ZjJOckcyeUFVY1U1NUY4Q1NmVmRBcmtBMkh3bHREVlhzZWNlV1g3OWxlU3JFc2gxaHNaVQ",
         "image": null,
         "timestamp": 1775286960.0
+    },
+    {
+        "title_fa": "ردیابی حملات موشکی و پهپادی ایران علیه کشورهای خلیج فارس",
+        "title_en": "Data: Tracking Iran’s missile and drone attacks on Gulf states",
+        "summary": [
+            "NBC News داده‌هایی را گردآوری کرده که حملات موشکی و پهپادی منتسب به ایران علیه کشورهای خلیج فارس را ثبت و تحلیل می‌کند.",
+            "الگوی گزارش‌شده حاکی از رشد تهاجمی‌گری منطقه‌ای است که خطر تصاعد به رویارویی مستقیم بین تهران و کشورهای همسایه را افزایش می‌دهد.",
+            "ادامه این عملیات می‌تواند واکنش‌های تلافی‌جویانه و تشدید تحریم‌ها را به دنبال داشته باشد که به انزوای بین‌المللی رژیم و تشدید فشار اقتصادی و نارضایتی داخلی می‌انجامد."
+        ],
+        "impact": "تداوم این حملات ثبات منطقه‌ای را تضعیف، هزینه‌های دیپلماتیک و اقتصادی رژیم را افزایش و فضای نارضایتی داخلی را تشدید خواهد کرد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://www.msn.com/en-us/news/world/graphic-the-latest-on-iran-s-military-attacks-on-gulf-states/ar-AA1ZyTv2",
+        "clean_url": "https://www.msn.com/en-us/news/world/graphic-the-latest-on-iran-s-military-attacks-on-gulf-states/ar-AA1ZyTv2",
+        "image": null,
+        "timestamp": 1775280602.0
     },
     {
         "title_fa": "بن‌بست را بشکنید — وگرنه ایران پیروز می‌شود",
@@ -106,6 +142,24 @@
         "clean_url": "https://guardian.ng/politics/iran-war-anything-can-happen",
         "image": "https://cdn.guardian.ng/wp-content/uploads/2026/03/Trump-and-Netanyahu.webp",
         "timestamp": 1775277420.0
+    },
+    {
+        "title_fa": "تحلیل: مذاکره‌کنندگان آمریکایی برای گفت‌وگوهای جدی هسته‌ای با ایران آماده نبودند",
+        "title_en": "Analysis: U.S. Negotiators Were Ill-Prepared for Serious Nuclear Talks With Iran",
+        "summary": [
+            "Arms Control Association در این تحلیل می‌گوید تیم مذاکره‌کننده آمریکا برای مواجهه با مباحث فنی و سیاسیِ مذاکرات هسته‌ای با ایران آماده و مجهز نبود.",
+            "آماده نبودن طرف آمریکایی می‌تواند کارایی اهرم‌های فشارِ تحریمی و دیپلماتیک واشنگتن را تضعیف کند و شانس حصول توافقی محکم که محدودیت‌های بلندمدت بر برنامه هسته‌ای ایران برقرار کند را کاهش دهد.",
+            "این کم‌کاری در آماده‌سازی نشان‌دهنده شکست مدیریت راهبردی است و احتمال دارد تهران از ضعف طرف مقابل بهره‌برداری سیاسی کند؛ همزمان ریسک کاهش تاثیرگذاری فشارهای خارجی بر اصلاحات ساختاری درون‌حکومتی را افزایش می‌دهد."
+        ],
+        "impact": "آماده نبودن مذاکره‌کنندگان آمریکایی عملاً شانس دستیابی به توافق بازدارنده را کاهش و اهرم فشار روی تهران را تضعیف می‌کند که می‌تواند ثبات راهبردی غرب در برابر برنامه هسته‌ای ایران را ضعیف سازد.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Arms Control Association",
+        "url": "https://theconversation.com/war-on-iran-during-nuclear-negotiations-undermines-the-uss-ability-to-talk-peace-around-the-world-and-the-effects-wont-end-when-trump-leaves-office-279079",
+        "clean_url": "https://theconversation.com/war-on-iran-during-nuclear-negotiations-undermines-the-uss-ability-to-talk-peace-around-the-world-and-the-effects-wont-end-when-trump-leaves-office-279079",
+        "image": null,
+        "timestamp": 1775277096.0
     },
     {
         "title_fa": "دو هواپیمای جنگی آمریکا سرنگون شدند؛ جست‌وجو در ایران برای یک خدمه مفقود ادامه دارد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOX1d6cTRpREdSZ1hNOUpBSjNDUzJCdHdYenJha2FNZ1dHODJtUDVIZzU1dkYzSjZ5WG05cTAzWEs3cFVpOHVFMWd1WklFR1hzRjU0Vm1uTFRPbU1GZDVrWnZuSXMydXduN1RVbF9zQThyNFhNZW1BVU95T1BYLUJ3V1pPcw",
         "image": null,
         "timestamp": 1774929655.0
-    },
-    {
-        "title_fa": "جنگ ایران به عراق کشیده شد",
-        "title_en": "The Iran War Comes to Iraq",
-        "summary": [
-            "مقاله هشدار می‌دهد که دونالد ترامپ در وضعیت درمانده ممکن است برای پرهیز از خفت سیاسی، نیروی زمینی آمریکا را به نبرد در خاک ایران از طریق عراق بفرستد — اقدامی که حتی اگر محدود به مدت و حوزه شود، می‌تواند فاجعه‌آمیز باشد.",
-            "گسترش نظامی از جمله عملیات زمینی در اطراف تنگه هرمز ریسک تشدید سریع درگیری منطقه‌ای را افزایش می‌دهد و احتمال برگشت‌پذیری سیاسی و نظامی را برای آمریکا بالا می‌برد؛ تجربه مداخلات پیشین به‌عنوان هشدار مطرح می‌شود.",
-            "برای ایران، وارد شدن جنگ به عراق به‌معنی افزایش فشار خارجی ساختاری و تشدید بحران سیاسی-اقتصادی است؛ مدیریت ضعیف جنگ از سوی مخالف خارجی می‌تواند مشروعیت داخلی را بیشتر فرسایش دهد و ظرفیت حکمرانی را تحت فشار قرار دهد."
-        ],
-        "impact": "احتمال عملیات زمینی آمریکایی از خاک عراق تهدیدِ فوری به گسترش جنگ منطقه‌ای است و فشار خارجی را به سطحی می‌برد که ثبات سیاسی و اقتصادی ایران را به‌طور جدی تهدید می‌کند.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.5,
-        "source": "Foreign Affairs",
-        "url": "https://www.theguardian.com/commentisfree/2026/mar/29/trump-boots-ground-iran-war-middle-east",
-        "clean_url": "https://www.theguardian.com/commentisfree/2026/mar/29/trump-boots-ground-iran-war-middle-east",
-        "image": null,
-        "timestamp": 1774929600.0
-    },
-    {
-        "title_fa": "تداوم جنگ در ایران نگرانی‌ها درباره درد اقتصادی جهانی را تشدید کرد",
-        "title_en": "Worries about global economic pain deepen as the war in Iran drags on",
-        "summary": [
-            "ادامه درگیری‌ها در ایران فشار بر اقتصاد جهانی را بالا برده و ریسک اختلال در عرضه و افزایش هزینه‌ها را تقویت می‌کند؛ پیامدهای فرامرزی این جنگ، بازارها و زنجیره‌های تأمین را در معرض آسیب بیشتر قرار می‌دهد.",
-            "تحریم‌ها و فشار خارجی ساختارهای اقتصادی رژیم را تضعیف می‌کنند: کاهش درآمد ارزی و محدودیت در واردات کالاهای اساسی ظرفیت دولت برای مدیریت بحران را کاهش می‌دهد و نقطه آسیب‌پذیری حادتری ایجاد می‌کند.",
-            "در داخل کشور، حتی بدون شواهد قطعی از اعتراضات سراسری جدید، افت قدرت خرید و سوء‌مدیریت اقتصادی می‌تواند نارضایتی عمومی را تشدید کند؛ این فشاری است که احتمالاً رژیم را به سرکوب بیشتر یا بسیج منابع محدود سوق خواهد داد."
-        ],
-        "impact": "پیامد استراتژیک: تشدید هزینه‌های اقتصادی هم به کاهش مشروعیت داخلی می‌انجامد و هم انعطاف سیاسی و توان عملیاتی تهران را کاسته؛ نتیجه ممکن است افزایش سرکوب داخلی و تشدید بی‌ثباتی منطقه‌ای باشد.",
-        "tag": "اقتصاد",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "AP News",
-        "url": "https://apnews.com/article/iran-us-israel-war-global-economy-oil-1bcb0c616c5ca2e1b6a903c2cd64a4e4",
-        "clean_url": "https://apnews.com/article/iran-us-israel-war-global-economy-oil-1bcb0c616c5ca2e1b6a903c2cd64a4e4",
-        "image": null,
-        "timestamp": 1774928262.0
-    },
-    {
-        "title_fa": "اخبار جنگ آمریکا-اسرائیل-ایران (پوشش زنده): ایران هشدار می‌دهد «پاهای متجاوزان را قطع خواهد کرد»؛ واحدهای چچن روسیه در صورت آغاز جنگ زمینی آمریکا آماده‌اند",
-        "title_en": "US-Israel-Iran War News Live Updates: Iran warns it 'will cut off legs' of aggressors; Russia's Chechen units ready if US launches ground war",
-        "summary": [
-            "گزارش‌های زنده حاکی است که رژیم حاکم در ایران با لحن تهدیدآمیز اعلام کرده «پاهای متجاوزان را قطع خواهد کرد»، بیانیه‌ای که نشان‌دهنده افزایش آماده‌سازی کلامی و ارتقای لحن نظامی است.",
-            "خبر در همان پوشش زنده می‌گوید واحدهای چچن تحت نفوذ روسیه آمادگی دارند در صورت راه‌اندازی جنگ زمینی از سوی آمریکا وارد شوند؛ این نشان‌دهنده نقش پتانسیلی روسیه به‌عنوان عامل تسهیل‌کننده برای گسترش مواجهه نظامی است.",
-            "اگرچه گزارش به‌طور مستقیم به تحریم‌ها یا اعتراضات داخلی اشاره نمی‌کند، چنین تشدیدی در لحن و حضور بازیگران خارجی خطر تشدید فشار اقتصادی، انزوای بیشتر بین‌المللی و تشدید نارضایتی اجتماعی را افزایش می‌دهد؛ این موارد ساختار آسیب‌پذیری رژیم را تقویت می‌کند."
-        ],
-        "impact": "این تحولات می‌تواند همزمان شانس گسترش درگیری منطقه‌ای را بالا ببرد و فشارهای اقتصادی و بی‌ثباتی سیاسی داخلی را عمیق‌تر کند، در حالی که روسیه به‌عنوان عامل بازدارنده/پشتیبان محتمل نقش خود را پررنگ‌تر می‌کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-middle-east-crisis-iran-drone-missile-attack-gulf-dubai-qatar-news-strait-of-hormuz-crude-oil-latest-news/liveblog/129896519.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-udates-middle-east-crisis-iran-drone-missile-attack-gulf-dubai-qatar-news-strait-of-hormuz-crude-oil-latest-news/liveblog/129896519.cms",
-        "image": "http://www.bing.com/th?id=ONUT.arisy2OOthISkEOs1bIEHg&pid=News",
-        "timestamp": 1774928220.0
     }
 ]
