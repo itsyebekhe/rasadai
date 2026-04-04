@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "سرنگونی جنگنده آمریکایی بر فراز ایران؛ یک خلبان نجات یافت، مقام‌ها می‌گویند",
+        "title_en": "U.S. fighter jet downed over Iran, one pilot rescued, official says",
+        "summary": [
+            "یک جنگنده آمریکایی بر فراز ایران سرنگون شد؛ رسانه‌ها و مقام‌ها گزارش داده‌اند که یک خلبان نجات یافته است.",
+            "این حادثه امکان تشدید تنش نظامی و افزایش فشار دیپلماتیک و تحریمی علیه تهران را ایجاد می‌کند، گرچه خبر اصلی نشانه‌ای از تحریم جدید یا پاسخ مشخص خارجی ارائه نمی‌دهد.",
+            "از منظر داخلی، چنین رویدادی می‌تواند روایت‌های امنیتی رژیم را تقویت کند یا بالعکس موجی از نارضایتی و فشارهای سیاسی را تشدید نماید، ولی گزارش موجود شواهد مستقیمی درباره اعتراضات یا پیامدهای اقتصادی ارائه نمی‌کند."
+        ],
+        "impact": "سرنگونی جنگنده آمریکایی، در صورت تشدید واکنش‌ها یا وضع تحریم‌های جدید، می‌تواند شکنندگی اقتصادی و سیاسی رژیم را افزایش بدهد و هزینه‌های بقا را برای آن بالاتر ببرد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/news/military/us-fighter-jet-went-iran-search-rescue-mission-underway-officials-say-rcna266523",
+        "clean_url": "https://www.nbcnews.com/news/military/us-fighter-jet-went-iran-search-rescue-mission-underway-officials-say-rcna266523",
+        "image": null,
+        "timestamp": 1775305380.0
+    },
+    {
+        "title_fa": "اصابت پرتابه به پیرامون نیروگاه بوشهر؛ یک نگهبان کشته شد، آژانس بین‌المللی اتمی هشدار داد",
+        "title_en": "Projectile hits near Iran’s Bushehr nuclear plant, killing one: IAEA",
+        "summary": [
+            "آژانس بین‌المللی انرژی اتمی اعلام کرد پرتابه‌ای به ساختمانی در پیرامون نیروگاه اتمی بوشهر اصابت کرده و یک نگهبان کشته شده است؛ به گفته آژانس افزایش سطح تشعشع گزارش نشده و این چهارمین حادثه مشابه در چند هفته اخیر است.",
+            "تکرار این حوادث نشان‌دهنده ضعف حفاظتی و ناتوانی در تأمین امنیت سازه‌های حیاتی است؛ برخورد مستقیم به پیرامون تاسیسات هسته‌ای ریسک خطاهای فاجعه‌بار فنی و انسانی را بالا می‌برد و حکایت از مدیریت ناکارآمد امنیتی دارد.",
+            "هم‌زمان گزارش‌ها از حملات هوایی به منطقه پتروشیمی و انبارهای آب‌بستنی حکایت دارد؛ این نوع هدف‌گیری زیرساخت‌های انرژی و تدارکاتی، فشار خارجی را به رژیم افزایش می‌دهد و هزینه‌های اقتصادی و عملیاتی را بالا می‌برد."
+        ],
+        "impact": "تداوم حملات به تاسیسات هسته‌ای و اقتصادی ثبات عملیاتی و مشروعیت میدانی رژیم را تضعیف کرده و خطر وقوع اشتباهات فاجعه‌بار را افزایش می‌دهد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.cbc.ca/news/world/iran-bushehr-nuclear-struck-9.7153228",
+        "clean_url": "https://www.cbc.ca/news/world/iran-bushehr-nuclear-struck-9.7153228",
+        "image": null,
+        "timestamp": 1775305336.0
+    },
+    {
+        "title_fa": "ایران اعلام کرد کشتی مرتبط با اسرائیل را در تنگه هرمز هدف قرار داده است",
+        "title_en": "Iran says it hit Israel-linked vessel in Hormuz strait",
+        "summary": [
+            "ایران اعلام کرده کشتی‌ای که به اسرائیل مرتبط است در تنگه هرمز هدف قرار گرفته؛ این ادعا هنوز توسط منابع مستقل تایید نشده است.",
+            "چنین ادعایی خطر تشدید تنش‌های منطقه‌ای و افزایش احتمال واکنش نظامی یا اقدامات تلافی‌جویانه از سوی اسرائیل و متحدانش را بالا می‌برد.",
+            "در صورت صحت خبر، این گونه عملیات می‌تواند زمینه افزایش فشارهای بین‌المللی بر ایران را فراهم کند و بالقوه به عنوان ابزارِ انحراف افکار عمومی از بحران‌های داخلی مورد استفاده قرار گیرد."
+        ],
+        "impact": "اگر تأیید شود، این اقدام ریسک گسترش درگیری‌های دریایی و تشدید فشارهای خارجی علیه ایران را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.usnews.com/news/world/articles/2026-04-04/iran-says-it-hit-israel-linked-vessel-in-hormuz-strait",
+        "clean_url": "https://www.usnews.com/news/world/articles/2026-04-04/iran-says-it-hit-israel-linked-vessel-in-hormuz-strait",
+        "image": null,
+        "timestamp": 1775303764.0
+    },
+    {
         "title_fa": "رسانه‌های ایرانی از حملات اسرائیل به مجتمع‌های پتروشیمی گزارش دادند",
         "title_en": "Iranian Media Reports Israeli Strikes on Petrochemical Plants",
         "summary": [
@@ -126,6 +180,42 @@
         "timestamp": 1775286960.0
     },
     {
+        "title_fa": "ادامه جست‌وجو برای خدمه مفقود اف-۱۵ آمریکا؛ ایران از کشته‌شدن یک نفر نزدیک نیروگاه هسته‌ای خبر داد",
+        "title_en": "Search continues for missing US F-15 crew member, as Iran says one killed near nuclear plant",
+        "summary": [
+            "جست‌وجو برای خدمه مفقود اف-۱۵ آمریکایی ادامه دارد؛ رسانه‌های دولتی ایران پاداش اعلام کرده‌اند و در کنار اصابت یک هواپیمای A-10، دست‌کم هفت فروند هواپیمای سرنشین‌دار آمریکایی در جریان درگیری‌ها از دست رفته‌اند — نشانه افزایش مستقیم رویارویی نظامی میان تهران و واشنگتن/تل‌آویو.",
+            "محیط یک نیروگاه هسته‌ای و چند شرکت پتروشیمی هدف قرار گرفته‌اند و دولت ایران اعلام کرده عبور کشتی‌های حامل «کالاهای اساسی» از تنگه هرمز مجاز خواهد بود؛ هدف‌گیری صنایع سنگین و مؤثر بودن مسدودسازی مسیرهای تجاری فشار خارجی را به ستون‌های درآمدی کشور وارد می‌کند.",
+            "وزیر علوم، حسین سیماعی‌سراف، گفت بیش از ۳۰ دانشگاه مورد حملات مستقیم قرار گرفته‌اند و ساختمان‌های یک دانشگاه معتبر در تهران آسیب دیده‌اند؛ محروم شدن میلیون‌ها دانش‌آموز و دانشجو از آموزش نشانه‌ای آشکار از هزینه اجتماعی و ناکارآمدی مدیریتی نظام است که می‌تواند نارضایتی عمومی را افزایش دهد."
+        ],
+        "impact": "این ضربات به زیرساخت‌های صنعتی، تجاری و آموزشی فشار خارجی را سریعاً به بحران‌های داخلی تبدیل می‌کنند و منابع مالی و انسجام اجتماعی نظام را به‌شدت تضعیف می‌سازند.",
+        "tag": "تصاعد",
+        "urgency": 10,
+        "sentiment": -0.75,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/2026/04/04/world/live-news/iran-war-us-trump-oil",
+        "clean_url": "https://edition.cnn.com/2026/04/04/world/live-news/iran-war-us-trump-oil",
+        "image": "http://www.bing.com/th?id=ONUT.SVfh88RzX1F-NMYrb7NRXw&pid=News",
+        "timestamp": 1775282040.0
+    },
+    {
+        "title_fa": "جنگ آمریکا-اسرائیل-ایران: عراقچی می‌گوید حمله به تأسیسات هسته‌ای زندگی در شهرهای خلیج را پایان می‌دهد",
+        "title_en": "US-Israel-Iran War Live: Attacks on nuke facilities will end life in Gulf cities, says Iran's Araghchi",
+        "summary": [
+            "ایران پیشنهاد آتش‌بس ۴۸ ساعته آمریکا را رد کرده؛ پاکستان، ترکیه و مصر برای احیای مذاکرات میان واشینگتن و تهران میانجی‌گری می‌کنند و طرحی شامل آتش‌بس موقت و بازگشایی تنگه هرمز مطرح است، اما تهران خواستار تضمین حل پایدار پیش از ازسرگیری گفتگوهاست.",
+            "وزیر امور خارجه عباس عراقچی اعلام کرد تأسیسات هسته‌ای بوشهر چهار بار هدف قرار گرفته و هشدار داد حمله به سایت‌های هسته‌ای زندگی در شهرهای خلیج را به‌طور بنیادین پایان می‌دهد؛ هم‌زمان اسرائیل به بیروت حمله کرده و بیش از ۱٬۳۰۰ کشته و جابجایی حدود یک‌پنجم جمعیت لبنان گزارش شده است.",
+            "نیروی هوایی ایران یک هواپیمای F-15E آمریکا را سرنگون کرد؛ یک خدمه نجات یافته و یک نفر مفقود است؛ رسانه‌های ایرانی از مردم خواسته‌اند خلبان دشمن را تحویل دهند—این اقدامات نظامی مستقیم، ریسک تشدید منطقه‌ای و فشار خارجی به رژیم را افزایش می‌دهد."
+        ],
+        "impact": "حملات به تأسیسات هسته‌ای و پتروشیمی همراه با مواجهه نظامی مستقیم با آمریکا و اسرائیل، توان اقتصادی و زیرساختی رژیم را هدف قرار می‌دهد، مشروعیت سیاسی داخلی را تضعیف و خطر تشدید جنگ منطقه‌ای و اختلال بلندمدت در صادرات انرژی را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "India Today",
+        "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-strait-of-hormuz-haifa-oil-refinery-ceasefire-2891429-2026-04-04",
+        "clean_url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-strait-of-hormuz-haifa-oil-refinery-ceasefire-2891429-2026-04-04",
+        "image": "http://www.bing.com/th?id=ONUT.Zd98P-EqoyWyHIXkf_MMTQ&pid=News",
+        "timestamp": 1775281980.0
+    },
+    {
         "title_fa": "ردیابی حملات موشکی و پهپادی ایران علیه کشورهای خلیج فارس",
         "title_en": "Data: Tracking Iran’s missile and drone attacks on Gulf states",
         "summary": [
@@ -142,6 +232,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/graphic-the-latest-on-iran-s-military-attacks-on-gulf-states/ar-AA1ZyTv2",
         "image": null,
         "timestamp": 1775280602.0
+    },
+    {
+        "title_fa": "جست‌وجوی خلبان مفقود آمریکایی؛ تهران درِ مذاکرات را نیمه‌باز گذاشت",
+        "title_en": "Iran leaves door open for peace talks as hunt for missing US pilot continues",
+        "summary": [
+            "نیروهای ایرانی برای یافتن یک خلبان آمریکایی مفقود از میان دو هواپیمای سرنگون‌شده بسیج شده‌اند؛ این حادثه ادعای تسلط کامل آمریکا بر آسمان را تضعیف کرده و زمینه تشدید مستقیم درگیری را فراهم می‌کند.",
+            "تهدید بمباران «تا عصر حجر» از سوی دونالد ترامپ و گزارش حمایت عمومی اندک در آمریکا نشان می‌دهد که فشار خارجی و ریسک اقتصادی جهانی بالا رفته و پیچیدگی حل سیاسی بحران را تشدید می‌کند.",
+            "گزارش از خانه‌های آسیب‌دیده در تهران و موضع سرسخت رهبری ایران از آغاز جنگ، نشانه‌هایی از سوءمدیریت و ناکارآمدی حکمرانی در مدیریت بحران است که می‌تواند به افزایش هزینه‌های داخلی و نارضایتی اجتماعی بینجامد."
+        ],
+        "impact": "خطر ماندگاری خلبان مفقود و تزلزل در ادعای کنترل آسمان، شانس گسترش اقدامات نظامی آمریکا و تشدید بحران داخلی-اقتصادی در ایران را افزایش می‌دهد.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/downed-planes-spell-peril-trump-054821842.html",
+        "clean_url": "https://www.yahoo.com/news/articles/downed-planes-spell-peril-trump-054821842.html",
+        "image": "http://www.bing.com/th?id=ONUT.T4BUg_mnNi4cuX6V-hvIhQ&pid=News",
+        "timestamp": 1775279880.0
     },
     {
         "title_fa": "بن‌بست را بشکنید — وگرنه ایران پیروز می‌شود",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.latimes.com/politics/story/2026-03-31/iran-still-firing-missiles-u-s-ground-operations-remain-option-hegseth-says",
         "image": "http://www.bing.com/th?id=ONUT.VnsXJ1-2zm0h8hYEnujqqQ&pid=News",
         "timestamp": 1774941300.0
-    },
-    {
-        "title_fa": "جنگ ایران و اسرائیل",
-        "title_en": "Israel Iran War",
-        "summary": [
-            "منبع تنها یک تیتر کوتاه «Israel Iran War» منتشر کرده و متن خبری یا جزئیات عملیاتی برای تأیید وقوع درگیری وجود ندارد؛ نمی‌توان ادعاهای قطعی مطرح کرد.",
-            "در صورت درگیری مستقیم، احتمال تشدید فشارهای بین‌المللی و تحریم‌ها وجود دارد که می‌تواند تضعیف ساختاری رژیم را تسریع کند و پیامدهای اقتصادی و سیاسی داخلی را شدت بخشد.",
-            "نبود جزئیات مانع از برآورد دقیق از تأثیرات داخلی است؛ اما هر جنگی ظرفیت تشدید ناکارآمدی اقتصادی، افزایش نارضایتی عمومی و فشار بر نهادهای حکومتی را دارد."
-        ],
-        "impact": "بدون اطلاعات تکمیلی، مؤثرترین پیامد محتمل افزایش بی‌ثباتی منطقه‌ای و فشارهای اقتصادی-سیاسی بر ساختارهای حکومتی است.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "GazetteXtra",
-        "url": "https://www.msn.com/en-us/news/world/trump-ramps-up-threats-oil-tanker-struck-what-we-know-on-day-32-of-the-us-and-israel-s-war-with-iran/ar-AA1ZMEcP",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-ramps-up-threats-oil-tanker-struck-what-we-know-on-day-32-of-the-us-and-israel-s-war-with-iran/ar-AA1ZMEcP",
-        "image": null,
-        "timestamp": 1774940659.0
-    },
-    {
-        "title_fa": "جنگ واقعی بر سر آینده ایران",
-        "title_en": "The Real War for Iran’s Future",
-        "summary": [
-            "فشار خارجی و تحریم‌ها: تعهد خامنه‌ای به هژمونی منطقه‌ای و تقابل دائمی با اسرائیل و آمریکا رژیم را در معرض فشارهای خارجی و احتمال تشدید تحریم‌ها قرار داده که ساختار اقتصادی و سیاسی آن را تضعیف می‌کند.",
-            "خلأ رهبری و رقابت درونی: مرگ علی خامنه‌ای و انتصاب سریع مجتبا خامنه‌ای توسط مجمع خبرگان، به‌جای تضمین ثبات، خلأ تجربه و مشروعیت ایجاد کرده و احتمال تشدید رقابت‌های جناحی و نقش‌آفرینی تعیین‌کننده سپاه (IRGC) را افزایش می‌دهد.",
-            "ناکامی مدیریتی و نارضایتی اجتماعی: سرکوب طولانی‌مدت زنان، اقلیت‌ها و مخالفان و تبدیل رهبری به محور مطلق قدرت، نشان‌دهنده شکست حکمرانی و کاهش مشروعیت مردمی است و زمینه‌های افزایش اعتراضات، فرار سرمایه و بحران‌های اقتصادی را فراهم می‌کند."
-        ],
-        "impact": "مرگ خامنه‌ای و انتقال سریع قدرت به مجتبا، رژیم را در وضعیتی شکننده قرار داده که تشدید فشارهای بین‌المللی و تنش‌های داخلی می‌تواند توازن نیروها را به‌سرعت تغییر دهد.",
-        "tag": "خلأ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Foreign Affairs",
-        "url": "https://www.foreignaffairs.com/iran/real-war-irans-future",
-        "clean_url": "https://www.foreignaffairs.com/iran/real-war-irans-future",
-        "image": null,
-        "timestamp": 1774940226.0
-    },
-    {
-        "title_fa": "بعد از جنگ ایران، تجارت جهانی چقدر سریع می‌تواند بازیابی شود؟",
-        "title_en": "After the Iran war, how fast could global trade recover?",
-        "summary": [
-            "عنوان خبر نشان می‌دهد مقاله به ارزیابی پیامدهای یک جنگ در ایران بر تجارت جهانی و توانایی زنجیره‌های تأمین برای بازگشت به سطح قبل می‌پردازد؛ متن کامل در دسترس نیست.",
-            "در شرایط جنگی اختلال‌های گسترده در خطوط کشتیرانی، بازار انرژی و زنجیره‌های تأمین محتمل است که سرعت جریان کالاها را کاهش و هزینه‌های تجارت را افزایش می‌دهد.",
-            "تحلیل کاربردی باید تأثیر تحریم‌ها و فشار خارجی بر تضعیف ساختار سیاسی-اقتصادی رژیم و تشدید مشکلات داخلی (مدیریت اقتصادی ضعیف، افزایش نارضایتی عمومی) را بررسی کند."
-        ],
-        "impact": "خلاصه اثر کلان: جنگ در ایران می‌تواند تجارت جهانی را به‌طور معناداری مختل کند و در کنار تحریم‌ها و سوءمدیریت اقتصادی ثبات داخلی را بیشتر تضعیف کند.",
-        "tag": "تجارت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "DW.com",
-        "url": "https://www.msn.com/en-xl/news/other/after-the-iran-war-how-fast-could-global-trade-recover/ar-AA1ZNhww",
-        "clean_url": "https://www.msn.com/en-xl/news/other/after-the-iran-war-how-fast-could-global-trade-recover/ar-AA1ZNhww",
-        "image": null,
-        "timestamp": 1774939678.0
-    },
-    {
-        "title_fa": "ایران: حمله هوایی آمریکا-اسرائیل تاسیسات آب‌شیرین‌کن قشم را از مدار خارج کرد",
-        "title_en": "Iran says US-Israel strike knocked desalination plant offline in Strait of Hormuz",
-        "summary": [
-            "تهران اعلام کرد که یک «حمله هوایی دشمن» اوایل این ماه یکی از تاسیسات آب‌شیرین‌کن در جزیره قشم در تنگه هرمز را کاملاً از مدار خارج کرده است.",
-            "عملیات علیه زیرساخت حیاتی در یک نقطه استراتژیک نشان‌دهنده افزایش فشار خارجی است؛ چنین ضرباتی ساختار مدیریتی و قابلیت‌های رژیم در ارائه خدمات پایه را تضعیف می‌کنند و احتمال تشدید تنش‌های منطقه‌ای را بالا می‌برند.",
-            "خاموشی آب‌شیرین‌کن عرضه آب در سواحل جنوبی را مختل می‌کند، ضعف در محافظت از زیرساخت‌ها را عیان می‌سازد و می‌تواند نارضایتی عمومی را تشدید کند، خصوصاً اگر رژیم نتواند به سرعت راه‌حل جایگزین فراهم آورد."
-        ],
-        "impact": "تعطیلی این تاسیسات فوراً عرضه آب در مناطق ساحلی جنوبی را کاهش می‌دهد و فشار سیاسی و اقتصادی بر رژیم را افزایش می‌دهد.",
-        "tag": "زیرساخت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-says-us-israel-strike-knocked-desalination-plant-offline-in-strait-of-hormuz/ar-AA1ZOBow",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-says-us-israel-strike-knocked-desalination-plant-offline-in-strait-of-hormuz/ar-AA1ZOBow",
-        "image": "http://www.bing.com/th?id=ONUT._f3wXkvXjL9fhUtkN_SkGA&pid=News",
-        "timestamp": 1774938597.0
-    },
-    {
-        "title_fa": "جنگ ایران: جهش قیمت بنزین در آمریکا با تشدید درگیری‌ها",
-        "title_en": "Iran war: US gasoline prices surge as conflict escalates",
-        "summary": [
-            "تشدید درگیری‌های مرتبط با ایران بازارهای انرژی جهانی را آشفته کرده و باعث افزایش سریع قیمت بنزین در آمریکا شده است.",
-            "این جهش قیمت نشان‌دهنده آسیب‌پذیری زنجیره عرضه نفت و ریسک اختلال در دسترسی به سوخت برای مصرف‌کنندگان و بخش حمل‌ونقل است.",
-            "برای نظام ایران، اختلالات بازار انرژی و نوسان قیمت‌ها می‌تواند فشار اقتصادی خارجی و داخلی را تشدید کند و احتمالا بر ثبات سیاسی موثر باشد."
-        ],
-        "impact": "اثر فوری، تحمیل هزینه بالاتر سوخت بر شهروندان آمریکایی و افزایش فشار اقتصادی و سیاسی منطقه‌ای است که می‌تواند موقعیت نظام ایران را تضعیف کند.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTThaZUxYa3R1bXVaS2NqSVZ0T00tWFYyLU5YTHpURTB2d2YzQlJEOXgwR3VIaTJqUnQyY01PSkRVQUZyNUVEdTczdThfdzRlNmJtNjVqVzlQUTY3blVFWWI4UmVoRjM2NDJQS3o2T0MtV1d4eF95R0JSZk9BOElEbkZaR3dGM2hLY2J0eWgyZnloSkwxRGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTThaZUxYa3R1bXVaS2NqSVZ0T00tWFYyLU5YTHpURTB2d2YzQlJEOXgwR3VIaTJqUnQyY01PSkRVQUZyNUVEdTczdThfdzRlNmJtNjVqVzlQUTY3blVFWWI4UmVoRjM2NDJQS3o2T0MtV1d4eF95R0JSZk9BOElEbkZaR3dGM2hLY2J0eWgyZnloSkwxRGc",
-        "image": null,
-        "timestamp": 1774938048.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ ایران: نفتکش کویتی در آخرین حمله به اهداف انرژی آتش گرفت",
-        "title_en": "Iran War Live Updates: Kuwaiti Oil Tanker Catches Fire In Latest Attack on Energy Targets",
-        "summary": [
-            "شرکت نفت کویت (Kuwait Petroleum Corporation) ایران را مقصر حمله به نفتکشی که حامل نفت خام بود معرفی کرد؛ نفتکش دچار آتش‌سوزی شد.",
-            "این حمله در ادامه هدف‌گیری زیرساخت‌های انرژی گزارش شده است و به گفته خبرها مسیر مهم حمل‌ونقل نفت را خفه کرده است که فشار عرضه را افزایش می‌دهد.",
-            "پیامد فوری اقتصادی شامل افزایش قیمت بنزین در آمریکا تا میانگین حدود ۴ دلار در هر گالن شده است و نشان‌دهنده تأثیرات بر بازارهای انرژی جهانی است."
-        ],
-        "impact": "این حمله، با هدف قرار دادن خطوط حمل و نقل انرژی، فشارهای اقتصادی بین‌المللی را افزایش می‌دهد و در صورت تداوم می‌تواند زمینه را برای فشارهای سیاسی و تحریمی بیشتر علیه رژیم فراهم کرده و منابع درآمدی و ثبات اقتصادی داخلی را تضعیف کند.",
-        "tag": "نفت",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump",
-        "clean_url": "https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump",
-        "image": "https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-promo-vgtm/31israel-iran-promo-vgtm-facebookJumbo.jpg",
-        "timestamp": 1774936380.0
     }
 ]
