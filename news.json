@@ -252,6 +252,24 @@
         "timestamp": 1775277096.0
     },
     {
+        "title_fa": "آمریکا جست‌وجو برای نظامی مفقود را تشدید می‌کند؛ ایران از مردم خواست خلبان «دشمن» را پیدا کنند",
+        "title_en": "US presses search for a missing serviceman as Iran calls on public to find ‘enemy pilot’",
+        "summary": [
+            "نیروی‌های آمریکایی به دنبال یک نظامی مفقود پس از سقوط دو هواپیمای آمریکایی در خاورمیانه هستند؛ جمهوری اسلامی از مردم خواسته است خلبان «دشمن» را شناسایی کنند.",
+            "فراخوان عمومی دولت نشان‌دهنده تلاش رژیم برای بسیج ملی و تغییر جهت افکار عمومی از بحران‌های داخلی است؛ همزمان احتمال تشدید تنش مستقیم و تقابل با آمریکا بالا رفته است.",
+            "فشارهای خارجی و تحریم‌ها ظرفیت مدیریتی حکومت را تضعیف کرده‌اند؛ محدودیت‌های اقتصادی و سیاسی توان پاسخ‌دهی را کاهش داده و حکومت را به استفاده از تاکتیک‌های پرخطر و نمایش قدرت برای حفظ مشروعیت داخلی سوق داده است."
+        ],
+        "impact": "خطر تشدید رویارویی مستقیم با آمریکا افزایش یافته و حکومت ممکن است از این حادثه برای سرکوب و منحرف‌سازی اعتراضات داخلی استفاده کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-4-2026-b1f73e5c2a88ddcf71d93f49f9494e1b",
+        "clean_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-4-2026-b1f73e5c2a88ddcf71d93f49f9494e1b",
+        "image": "http://www.bing.com/th?id=ONUT.ON19mtdeT9uakwqHgC0ofw&pid=News",
+        "timestamp": 1775276760.0
+    },
+    {
         "title_fa": "دو هواپیمای جنگی آمریکا سرنگون شدند؛ جست‌وجو در ایران برای یک خدمه مفقود ادامه دارد",
         "title_en": "Two U.S. warplanes shot down, search ongoing in Iran for 1 missing crew member",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.nytimes.com/live/2026/03/31/world/iran-war-oil-trump",
         "image": "https://static01.nyt.com/images/2026/03/31/multimedia/31israel-iran-promo-vgtm/31israel-iran-promo-vgtm-facebookJumbo.jpg",
         "timestamp": 1774936380.0
-    },
-    {
-        "title_fa": "حمله ایران به نفتکش کاملاً بارگیری‌شده در سواحل دبی",
-        "title_en": "Live updates: Iran strikes fully loaded oil tanker off Dubai coast as gas reaches $4 per gallon in US",
-        "summary": [
-            "گزارش‌ها حاکی از آن است که ایران یک نفتکش کاملاً بارگیری‌شده را در نزدیکی سواحل دبی هدف قرار داده؛ خبر هم‌زمان با صعود قیمت بنزین در آمریکا به حدود ۴ دلار در هر گالن گزارش شده.",
-            "این اقدام سیاست خارجی ریسک منزوی‌تر شدن رژیم و افزایش فشارهای بین‌المللی را بالا می‌برد؛ احتمال تشدید تحریم‌ها، اختلال در بیمه و حمل‌ونقل دریایی نفت و کاهش درآمدهای ارزی وجود دارد که ثبات سیاسی را تضعیف می‌کند.",
-            "عملیات نظامی خارجی در وضعیتی که اقتصاد داخلی مشکل‌زاست، نمادی از مدیریت ناکارآمد است؛ هزینه‌های اقتصادی و سیاسی این برخوردها نارضایتی اجتماعی را تشدید می‌کند و امکان پیامدهای داخلی را افزایش می‌دهد."
-        ],
-        "impact": "این حمله تنش منطقه‌ای را تشدید و ریسک هدف‌گیری کشتی‌های تجاری و واکنش‌های سخت بین‌المللی را افزایش می‌دهد که می‌تواند درآمدهای نفتی و ثبات رژیم را بیشتر تضعیف کند.",
-        "tag": "حمله",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-03-31-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-03-31-2026",
-        "image": "http://www.bing.com/th?id=ONUT.9cEFOb5WZae2CO-Gmx2eHQ&pid=News",
-        "timestamp": 1774935600.0
     }
 ]
