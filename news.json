@@ -108,6 +108,24 @@
         "timestamp": 1775383636.0
     },
     {
+        "title_fa": "ترامپ در پیام عید پاک با الفاظ رکیک ایران را تهدید کرد و «Praise be to Allah» نوشت",
+        "title_en": "Donald Trump Writes 'Praise Be to Allah' in Profanity-Laced Easter Morning Message Threatening Iran",
+        "summary": [
+            "دونالد ترامپ در پست Truth Social روز عید پاک با الفاظ رکیک از ایران خواست تنگه هرمز را باز کند و تهدید به حمله به نیروگاه‌ها، پل‌ها و زیرساخت‌های انرژی کرد.",
+            "این پیام که با عبارت «Praise be to Allah» به پایان رسید، در چارچوب جنگی منتشر شد که گزارش‌ها می‌گویند از 28 فوریه توسط آمریکا و اسرائیل علیه ایران آغاز شده است.",
+            "اظهارات هم‌زمان با افزایش فشار بین‌المللی برای پایان درگیری و نگرانی‌های اقتصادی ناشی از رشد قیمت نفت است؛ این وضعیت ضعف مدیریتی رژیم و احتمال افزایش نارضایتی عمومی را برجسته می‌کند."
+        ],
+        "impact": "تهدیدهای علنی رئیس‌جمهور آمریکا و ادامه عملیات نظامی، فشار اقتصادی و سیاسی بر رژیم ایران را تشدید کرده و ظرفیت تهران برای مدیریت بحران و حفظ مشروعیت داخلی را تضعیف می‌کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/donald-trump-writes-praise-allah-143216752.html",
+        "clean_url": "https://www.yahoo.com/news/articles/donald-trump-writes-praise-allah-143216752.html",
+        "image": "http://www.bing.com/th?id=ONUT.B9Rtbc0eMlnbVweghOOorg&pid=News",
+        "timestamp": 1775376120.0
+    },
+    {
         "title_fa": "آمریکا و اسرائیل به طور فزاینده‌ای زیرساخت‌های غیرنظامی ایران را هدف قرار می‌دهند",
         "title_en": "US and Israel increasingly target Iran's civilian infrastructure",
         "summary": [
@@ -5379,24 +5397,6 @@
         "url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news",
         "clean_url": "https://www.nytimes.com/live/2026/04/01/world/iran-war-trump-oil-news",
         "image": "http://www.bing.com/th?id=ONUT.LymZRshzU-kZNxAC4hZhFQ&pid=News",
-        "timestamp": 1775028600.0
-    },
-    {
-        "title_fa": "گزارش: ایران تانکری نزدیک سواحل قطر را هدف قرار داد؛ گزارش‌هایی درباره هدف قرار گرفتن فرودگاه کویت و کشته شدن ۵ نفر در حمله اسرائیل به بیروت",
-        "title_en": "Iran hits tanker off coast of Qatar, Kuwait airport and Israel kills 5 in Beirut attack",
-        "summary": [
-            "براساس خبر، ایران به تانکری در نزدیکی سواحل قطر حمله کرده است؛ اگر این گزارش تأیید شود، اقدام مستقیم علیه کشتی‌رانی منطقه‌ای هزینه‌های بیمه و ریسک عبور از تنگه‌ها را بالا می‌برد و به انزوای دیپلماتیک و فشار اقتصادی بر تهران می‌افزاید.",
-            "ذکر «فرودگاه کویت» در خبر مبهم است، اما هر اشاره به هدف‌گیری زیرساخت‌های منطقه‌ای احتمال اعمال تحریم‌های جدید و افزایش پاسخ‌های نظامی و دیپلماتیک را تقویت می‌کند و بار امنیتی برای دولت‌های حاشیه خلیج فارس سنگین‌تر می‌شود.",
-            "حمله اسرائیل در بیروت با ۵ کشته، نشان‌دهنده تشدید زنجیره‌ای برخوردهاست؛ چنین واکنش‌هایی ریسک گسترش مواجهات نیابتی را افزایش می‌دهد و ناتوانی حکومت‌ها در تأمین امنیت و کنترل تبعات اقتصادی و اجتماعی را برجسته می‌کند."
-        ],
-        "impact": "در صورت تأیید و تداوم این حوادث، منطقه وارد مرحله‌ای از تشدید تنش و افزایش فشارهای اقتصادی و تحریم‌ها خواهد شد که ثبات رژیم ایران را بشدت تضعیف می‌کند.",
-        "tag": "تصاعد",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "WEAU",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/military/iran-hits-tanker-off-coast-of-qatar-kuwait-airport-and-israel-kills-5-in-beirut-attack/ar-AA1ZSpBT",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/iran-hits-tanker-off-coast-of-qatar-kuwait-airport-and-israel-kills-5-in-beirut-attack/ar-AA1ZSpBT",
-        "image": null,
         "timestamp": 1775028600.0
     }
 ]
