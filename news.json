@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جنگ با ایران خاورمیانه را چگونه تغییر می‌دهد؟ نظرات ۵ کارشناس",
+        "title_en": "How will the Iran war change the Middle East? We asked 5 experts",
+        "summary": [
+            "مقاله با گردآوری دیدگاه پنج کارشناس سناریوهای کلیدی را بررسی می‌کند: تشدید درگیری‌های نیابتی، گسترش بحران به بازیگران منطقه‌ای و بازتعریف ائتلاف‌های سیاسی-نظامی.",
+            "کارشناسان فشار بین‌المللی و تحریم‌ها را عامل تضعیف ساختاری رژیم می‌دانند؛ تحریم‌های گسترده می‌توانند اقتصاد را بیشتر فرسوده کنند، بحران معیشتی را تشدید و مشروعیت حاکمیت را کاهش دهند.",
+            "تحلیل‌ها بر ناکارآمدی مدیریتی و پیامدهای داخلی تأکید دارند؛ افزایش نارضایتی عمومی، تشدید اعتراضات و فشار بر خدمات پایه از جمله پیامدهای محتمل در صورت تداوم جنگ است."
+        ],
+        "impact": "جنگ با ایران احتمالاً ناپایداری منطقه‌ای را تشدید، فشار اقتصادی داخلی را افزایش و نقشه سیاسی-نظامی خاورمیانه را بازتعریف خواهد کرد.",
+        "tag": "ناپایداری",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "theconversation.com",
+        "url": "https://theconversation.com/how-will-the-iran-war-change-the-middle-east-we-asked-5-experts-279652",
+        "clean_url": "https://theconversation.com/how-will-the-iran-war-change-the-middle-east-we-asked-5-experts-279652",
+        "image": null,
+        "timestamp": 1775420861.0
+    },
+    {
         "title_fa": "«در امان و سالم»: چگونه یک نظامی آمریکایی که در ایران سرنگون شد از شکاف کوهی نجات یافت",
         "title_en": "‘Safe and sound’: How a U.S. Airman Shot Down in Iran Was Rescued From a Mountain Crevice",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/04/01/politics/donald-trump-iran-war-white-house-speech-cnn-poll",
         "image": "http://www.bing.com/th?id=ONUT.7o44MqdzFTPEigxyWLrQgA&pid=News",
         "timestamp": 1775048400.0
-    },
-    {
-        "title_fa": "ترامپ: جنگ با ایران در حال پایان است؛ دیگران باید امنیت تنگه هرمز را تضمین کنند",
-        "title_en": "Trump to declare Iran war is winding down and others need to resolve Hormuz",
-        "summary": [
-            "ترامپ، رئیس‌جمهور آمریکا، در آستانه اعلام «پایان» جنگ با ایران قصد دارد هم از پیام سیاسی خاتمه و هم از بازپس‌گذاری مسئولیت امنیت منطقه‌ای به سایر بازیگران سخن بگوید.",
-            "هم‌زمان آمریکا ۲۵۰۰ تفنگدار دریایی اضافه به خاورمیانه می‌فرستد؛ اقدام نظامی که پیام تهدید و فشار را حفظ می‌کند و با ادعای «خاتمه جنگ» تناقض ظاهری دارد.",
-            "گزارش اشاره‌ای به تحریم‌های جدید یا اعتراضات داخلی نکرده؛ اما پیام همزمان خاتمه جنگ و تقویت نیروها می‌تواند فشار خارجی مستمر را حفظ کند و فضای مانور داخلی رژیم را تنگ‌تر نماید."
-        ],
-        "impact": "اعلام پایان جنگ در کنار گسیل نیروی اضافی فشار خارجی را حفظ و قابلیت‌های سیاسی-اقتصادی رژیم را محدود می‌کند، بدون اینکه به‌تنهایی به فروپاشی مشروعیت بینجامد اما زمینه افزایش تنش و هزینه‌های داخلی را فراهم می‌آورد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/04/01/trump-to-declare-iran-war-is-winding-down-and-others-need-to-resolve-hormuz-00854265",
-        "clean_url": "https://www.politico.com/news/2026/04/01/trump-to-declare-iran-war-is-winding-down-and-others-need-to-resolve-hormuz-00854265",
-        "image": "http://www.bing.com/th?id=ONUT.1VCOSqDOhTDGW6qB4aeJOA&pid=News",
-        "timestamp": 1775046720.0
     }
 ]
