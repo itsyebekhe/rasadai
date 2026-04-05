@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "«در امان و سالم»: چگونه یک نظامی آمریکایی که در ایران سرنگون شد از شکاف کوهی نجات یافت",
+        "title_en": "‘Safe and sound’: How a U.S. Airman Shot Down in Iran Was Rescued From a Mountain Crevice",
+        "summary": [
+            "گزارش تایم: یک نظامی آمریکایی در خاک ایران سرنگون شد و سپس از یک شکاف کوهی نجات یافت؛ منابع گزارش می‌دهند وضعیت «در امان و سالم» است.",
+            "پیامدهای خارجی: این حادثه زمینه افزایشی برای فشار دیپلماتیک و احتمال تشدید تحریم‌ها علیه تهران فراهم می‌کند — ضعف‌های امنیتی عملیاتی رژیم بهانه‌ای برای تشدید محدودیت‌ها و نظارت بین‌المللی خواهد بود.",
+            "خطرات داخلی: شکست در جلوگیری یا کنترل چنین واقعه‌ای نشان‌دهنده خلأ در فرماندهی و مدیریت امنیتی است که می‌تواند نارضایتی عمومی را تقویت کند و هزینه‌های اقتصادی و سیاسی رژیم را بالاتر ببرد."
+        ],
+        "impact": "این حادثه تنش میان ایران و آمریکا را تشدید می‌کند، به تهران بهانه افزایش فشار خارجی و تحریم می‌دهد و ضعف‌های امنیتی رژیم را در منظر داخلی و بین‌المللی برجسته می‌سازد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Time Magazine",
+        "url": "https://www.msn.com/en-us/news/world/safe-and-sound-how-a-us-airman-shot-down-in-iran-was-rescued-from-a-mountain-crevice/ar-AA20df0W",
+        "clean_url": "https://www.msn.com/en-us/news/world/safe-and-sound-how-a-us-airman-shot-down-in-iran-was-rescued-from-a-mountain-crevice/ar-AA20df0W",
+        "image": null,
+        "timestamp": 1775416725.0
+    },
+    {
         "title_fa": "نارضایتی گسترده از رکوردشکنی قطع اینترنت جنگی در ایران",
         "title_en": "Frustration grows as Iran’s wartime internet shutdown breaks grim record",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/frustration-grows-iran-wartime-internet-182952272.html",
         "image": null,
         "timestamp": 1775414442.0
+    },
+    {
+        "title_fa": "تماشا: ده زخمی در شمال اسرائیل پس از اصابت موشک‌های ایرانی به خودرو و ساختمان",
+        "title_en": "WATCH: Ten wounded in northern Israel after Iranian missiles damage car, hit building",
+        "summary": [
+            "یک آتش‌بار موشکی منتسب به ایران به شمال اسرائیل شلیک شد؛ در پی اصابت به یک خودرو و یک ساختمان در حومه، در مجموع حداقل ده نفر زخمی شدند و چند نفر دچار حالت اضطراب شدند؛ سرویس‌های اورژانس، آتش‌نشانی و واحدهای جست‌وجو و نجات در محل فعال شدند.",
+            "آسیب‌ها عمدتاً ناشی از موج انفجار بود (شکستگی شیشه‌ها، ضربه موج انفجار)، یک نوزاد به‌صورت سطحی و یک مرد ۸۲ ساله به‌طور شدیدتر مجروح شده‌اند؛ احتمال وجود قربانیان محبوس تحت آوار و وجود موشک منفجر‌نشده باعث دستور تخلیه اطراف شده است.",
+            "این حمله فوراً آژیر خطر در چندین شهر شمالی را به صدا درآورد و فرماندهان انتظامی و نظامی منطقه را به بسیج واحدهای تخصصی و ارزیابی خطرات ساختمانی و بقایای انفجار واداشت."
+        ],
+        "impact": "این تعرض مستقیم امنیت منطقه را تشدید کرده و احتمال واکنش بین‌المللی و افزایش فشار بر ایران را بالا می‌برد، ضمن آنکه هزینه‌های انسانی و اضطراب عمومی به‌عنوان انعکاس شکست مدیریت سیاست خارجی رژیم برجسته می‌شود.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/israel-news/defense-news/article-892140",
+        "clean_url": "https://www.jpost.com/israel-news/defense-news/article-892140",
+        "image": null,
+        "timestamp": 1775413874.0
     },
     {
         "title_fa": "رئیس ستاد ارتش اسرائیل: جمعیت لبنان تا زمان «خلع‌سلاح» جنوب بازنمی‌گردد",
@@ -54,6 +90,24 @@
         "timestamp": 1775409300.0
     },
     {
+        "title_fa": "منطقه در مرز ظرفیت: جنگ، آوارگی و حد توان پاسخ بشردوستانه در خاورمیانه",
+        "title_en": "A Region at Capacity: War, Displacement, and the Limits of Humanitarian Response in the Middle East",
+        "summary": [
+            "تشدید درگیری‌ها به‌ویژه در مرز اسرائیل-لبنان منجر به افزایش تلفات غیرنظامیان و جابه‌جایی میلیونی شده است.",
+            "شبکه‌های بشردوستانه و خدمات پایه‌ای تحت فشار شدید قرار گرفته‌اند: خدمات درمانی مختل، پناهگاه‌ها بیش‌ظرفیت و عملیات امدادی ناتوان از پاسخ کامل.",
+            "گزارش اشاره مستقیمی به تحریم‌ها ندارد؛ با این حال ادامه خشونت و آوارگی، حتی بدون دخالت فشار خارجی، ظرفیت اقتصادی و سیاسی حکومت‌ها را تضعیف کرده و نارضایتی عمومی و خطر تشدید ناآرامی‌ها را افزایش می‌دهد."
+        ],
+        "impact": "ناتوانی سامانه‌های کمک‌رسانی در مقابله با موج آوارگی، ثبات منطقه‌ای و توان مدیریت بحران حکومت‌ها را به‌طور محسوس کاهش می‌دهد و ریسک گسترش بی‌ثباتی فراتر از نقاط درگیری کنونی را بالا می‌برد.",
+        "tag": "بی‌ثباتی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Middle East Council on Global Affairs",
+        "url": "https://www.un.org/en/middle-east-live-13-march-displacement-and-civilian-casualties-mount-across-region",
+        "clean_url": "https://www.un.org/en/middle-east-live-13-march-displacement-and-civilian-casualties-mount-across-region",
+        "image": null,
+        "timestamp": 1775407326.0
+    },
+    {
         "title_fa": "ورود جنگ مرتبط با ایران به هفته ششم؛ تشدید درگیری‌ها محتمل‌ترین سناریو",
         "title_en": "As Iran war enters 6th week, escalation looks the most likely scenario",
         "summary": [
@@ -90,6 +144,24 @@
         "timestamp": 1775395882.0
     },
     {
+        "title_fa": "ترامپ تهدید کرد: «روز نیروگاه و پل»؛ هشدار به ایران درباره تنگه هرمز",
+        "title_en": "Trump drops Easter Sunday f-bomb in new threat to Iran",
+        "summary": [
+            "دونالد ترامپ در پستی در Truth Social با زبانی تند تهدید کرد که روز سه‌شنبه «روز نیروگاه و پل» برای ایران خواهد بود و از تهران خواست فوراً تنگه هرمز را باز کند، همراه با ضرب‌الاجل و هشدار به حمله زیرساختی.",
+            "سياق بحران: تنگه هرمز از اواخر فوریه عملاً بسته مانده، قیمت نفت افزایشی بوده و روز پنجشنبه نیروهای آمریکا بزرگ‌ترین پل (پل B1) در شمال مرکزی ایران را هدف قرار دادند؛ بریتانیا جلسه‌ای با حضور 41 کشور برای بازگشایی تنگه برگزار کرد و متحدان از عدم هماهنگی پیشین آمریکا و اسرائیل انتقاد می‌کنند، از جمله اعلام مخالفت امانوئل مکرون با ورود اروپا به عملیات تهاجمی.",
+            "تحلیل ساختاری: تهدیدها و حملات زیرساختی، هم به منزوی‌شدن دیپلماتیک تهران دامن می‌زند و هم درآمدهای ارزیِ وابسته به عبور و صادرات انرژی را در معرض اختلال قرار می‌دهد؛ این فشارهای نظامی-دیپلماتیک، ناتوانی حکومت در تأمین امنیت گذرگاه‌های حیاتی و مدیریت اقتصادی را برجسته کرده و می‌تواند نارضایتی داخلی را افزایش دهد."
+        ],
+        "impact": "تهدید مستقیم رئیس‌جمهور آمریکا به هدف قرار دادن زیرساخت‌ها همراه با حمله اخیر به پل، خطر گسترش درگیری نظامی منطقه‌ای را بالا می‌برد و با کاهش توان صادرات نفتی ایران فشار اقتصادی و بی‌ثباتی داخلی را تشدید می‌کند.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-drops-easter-sunday-f-123341760.html",
+        "clean_url": "https://www.aol.com/articles/trump-drops-easter-sunday-f-123341760.html",
+        "image": "http://www.bing.com/th?id=ONUT.gKYWQ2Q-dEvlj-sbWD_WNQ&pid=News",
+        "timestamp": 1775392380.0
+    },
+    {
         "title_fa": "به‌روزرسانی زنده: ترامپ به ایران هشدار داد — «در جهنم زندگی خواهید کرد»",
         "title_en": "Live updates: Trump warns Iran will 'be living in Hell' in profanity-laced ultimatum",
         "summary": [
@@ -106,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDNHdwcTlaRTR1XzNYbnQzSTZaQ0JUR0hGMEV0Mmx4UnppdWozM256ZXQ5M19NUGZQSXU2RmZKV3dnc2o1bHVOZkhVcjB5SGVJMGtFM0FVUTlmV2xJZjlLb0JQOEVxbVk1OTh3b19lb9IBdEFVX3lxTE13MzgzN2hWV2d2cVhQTk5QUmQ5ZnkweDI3YWttMktITnd0OUh2bUp2UHJ0MGhhWkpmeWhzMFd1dG1md0stUVBaQVV1NjZ4ZUZaamJ6OE52Z2pWVFR2Zk8zSXVLSFdVaWFPSEJIWWhGS3NXcGtu",
         "image": null,
         "timestamp": 1775392095.0
+    },
+    {
+        "title_fa": "دونالد ترامپ، رئیس‌جمهور آمریکا، پس از نجات خلبان ساقط‌شده تهدید تند جدیدی علیه ایران صادر کرد",
+        "title_en": "Trump issues fiery new Iran threat after US rescues downed aviator",
+        "summary": [
+            "دونالد ترامپ تهدید کرد که در صورت باز نشدن تنگه هرمز تا مهلت تعیین‌شده، ضربات نظامی و هدف‌گیری زیرساخت‌های ایران را تشدید خواهد کرد؛ اظهارات حاوی الفاظ رکیک و لحن تهاجمی بودند.",
+            "این تهدیدها در پی عملیات نجات یک خلبان ساقط‌شده از سوی آمریکا مطرح شد؛ ترکیب عملیات نظامی و لحن تهدیدآمیز ریسک بالا رفتن احتمال اقدام نظامی مستقیم را افزایش می‌دهد.",
+            "افزایش فشار نظامی و سیاسی از سوی آمریکا می‌تواند به عنوان اهرمی برای تضعیف ساختاری رژیم عمل کند: تحت فشار خارجی بیشتر، پیامدهای اقتصادی و سیاسی (افزایش هزینه‌های نظامی، وخامت سرمایه‌گذاری خارجی، فشار بر معیشت) ممکن است نارضایتی‌ها را تشدید کند، هرچند مسیر دقیق واکنش داخلی به شواهد بیشتری نیاز دارد."
+        ],
+        "impact": "تهدیدهای علنی به حمله به زیرساخت‌ها همراه با عملیات نجات، احتمال تشدید تقابل نظامی مستقیم را بالا می‌برد و فشار خارجی‌ای ایجاد می‌کند که ثبات سیاسی و اقتصادی رژیم را آسیب‌پذیرتر می‌سازد.",
+        "tag": "تهدید",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "OregonLive.com",
+        "url": "https://www.oregonlive.com/nation/2026/04/trump-issues-fiery-new-iran-threat-details-of-us-aviator-rescue-emerge.html",
+        "clean_url": "https://www.oregonlive.com/nation/2026/04/trump-issues-fiery-new-iran-threat-details-of-us-aviator-rescue-emerge.html",
+        "image": "http://www.bing.com/th?id=ONUT.QQqCAhJcHJTR7vXbh_UVvg&pid=News",
+        "timestamp": 1775389620.0
     },
     {
         "title_fa": "ترامپ می‌گوید نیروی نظامی آمریکا هوانوردی را که بر فراز ایران سرنگون شده بود نجات داده است",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNVVmSWlTVW1MN3poSWd5bjZDeVAzTDZfMWZwd09sR056YzVfRFU2bnBlbVdCU0dzaFBvRk1HcTV3WmNLLVJoQW92Z1J0MWQ3MlZteGdyZFdtNUg0VUotUEEzMFgzYWdIRk81S09kNFVyRnNqbTZQbC1WTF9qSDREWnJCWXZ5bXdzM3A1R2cyT1RYTmVmdlQ2d3JBSGVXWmZ5ZlHSAacBQVVfeXFMT0oyemlqWlUxcjFNLThSc3lWVTFTTy1oaW0tc05Dek1nRE4yUU5GVFAzMnEwNUNxbWI0ZVI5aTdVTEhSX05rc1A1NllaN1FTcVZ2Zml4LW5uUDZKV3dZRjEwdUo3RzhqU3RRUGRJMF9ORmczSThoa3FNLVJCWEV1N2Z6bWxic1BlUllPZjFEM1dnbVpNeGR1cXJnanduV1ZJc3pqUlZzcVk",
         "image": null,
         "timestamp": 1775039627.0
-    },
-    {
-        "title_fa": "مرور مطبوعات: احتمال خاتمه جنگ ایران از سوی آمریکا هم‌زمان با حمله پهپادی اوکراین به اوست-لوگا روسیه",
-        "title_en": "Press review: US may end Iran war as Ukraine drones strike Russia's Ust-Luga",
-        "summary": [
-            "تیتر اشاره‌ای دوگانه دارد: گمانه‌زنی درباره امکان «خاتمه جنگ ایران» از جانب آمریکا و گزارش حمله پهپادی اوکراین به بندر اوست-لوگا در روسیه؛ خبرها در متن تیتر به هم پیوستگی مستقیمی نشان نمی‌دهند.",
-            "هرگونه تصمیم آمریکا برای پایان‌دادن به درگیری‌ها علیه ایران می‌تواند ساختار فشار خارجی و ابزارهای تحریمی را دستخوش تغییر کند؛ در عین حال جزئیات و مؤلفه‌های این تغییر (مذاکره، آتش‌بس یا عقب‌نشینی) در تیتر مشخص نیست.",
-            "حمله پهپادی به اوست-لوگا نشانه تداوم و تشدید سطح درگیری‌ها در جبهه اوکراین-روسیه است؛ تیتر هیچ دلیلی دال بر ارتباط مستقیم این رخداد با سیاست آمریکا در قبال ایران ارائه نمی‌دهد."
-        ],
-        "impact": "اگر آمریکا واقعاً مسیر خاتمه‌گیری درگیری با ایران را در پیش گیرد، فشار خارجی و معیشت داخلی رژیم دستخوش بازتنظیم می‌شود؛ هم‌زمان حمله پهپادی به اوست-لوگا احتمال تشدید مخاطرات منطقه‌ای و سرایت بی‌ثباتی را افزایش می‌دهد.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/pressreview/2109963",
-        "clean_url": "https://tass.com/pressreview/2109963",
-        "image": null,
-        "timestamp": 1775039160.0
-    },
-    {
-        "title_fa": "تالین عدم‌قبول عبور پهپادهای اوکراینی از حریم هوایی استونی را به کیف ابلاغ می‌کند",
-        "title_en": "Tallinn to convey unacceptability of Ukrainian drones entering Estonian airspace to Kiev",
-        "summary": [
-            "تالین قصد دارد به‌صورت رسمی به کیف اعلام کند ورود پهپادهای اوکراینی به حریم هوایی استونی قابل‌قبول نیست؛ پیام مستقیم درباره نقض حریم هوایی.",
-            "این موضع فشار دیپلماتیک بر کیف را افزایش می‌دهد و از Kyiv می‌خواهد کنترل و قواعد عملیاتی پهپادها را تشدید کند تا از تکرار وقوعات دیپلماتیک پرهیز شود.",
-            "پیام تالین دولت استونی را موظف به نمایش تضمین امنیت هوایی می‌کند و ممکن است در کیف زمینه پرسش‌های داخلی درباره مدیریت و مسئولیت‌پذیری نظامی در خصوص پهپادها را تشدید کند."
-        ],
-        "impact": "پیام تالین آزادی عملیاتی کیف در استفاده از پهپادها را محدود و ریسک تنش‌های دیپلماتیک فرامرزی را افزایش می‌دهد، هرچند این اقدام لزوماً به تغییر مستقیم در سیاست‌های نظامی بزرگ‌تر منتهی نخواهد شد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2110057",
-        "clean_url": "https://tass.com/world/2110057",
-        "image": null,
-        "timestamp": 1775037600.0
-    },
-    {
-        "title_fa": "تلاش ایران برای آتش‌بس ممکن است «چرخه فریب» باشد؛ تحلیل‌گران هشدار می‌دهند در حالی که چهره‌ای مرموز قدرت را تقویت می‌کند",
-        "title_en": "Iran's ceasefire push may be a 'cycle of deception,' analysts warn as shadowy figure gains power",
-        "summary": [
-            "تحلیل‌گران این آتش‌بس‌طلبی را محتملِ تاکتیک فریب می‌دانند تا فشار نظامی و دیپلماتیک را تخفیف داده و زمان بخرد؛ هم‌زمان گزارش‌ها حاکی از تقویت یک چهره مرموز در درون ساختار قدرت است که می‌تواند پیچیدگی تصمیم‌گیری را افزایش دهد.",
-            "شبکه‌های پهپادی مرتبط با چین و تأمین تسلیحات از کره‌شمالی به‌عنوان عوامل کلیدی پشتیبانی نظامی شناسایی شده‌اند؛ این کمک‌ها توان رزمی رژیم را حفظ می‌کند اما وابستگی راهبردی و انزوای بین‌المللی را تشدید می‌کند.",
-            "اختلال گسترده اینترنت برای پنهان‌سازی خسارات حملات و سرکوب اعتراضات، همراه با کنار گذاشتن مکمل‌های میانه‌رو برای توافق با آمریکا، نشان‌دهنده تشدید رخوت مدیریتی و افزایش نارضایتی عمومی است که ریسک ناآرامی‌های داخلی را بالا می‌برد."
-        ],
-        "impact": "ترکیب فریب دیپلوماسی، تکیه بر شرکای خارجی مسلح و سرکوب داخلی می‌تواند ثبات کوتاه‌مدت رژیم را حفظ کند اما روند فرسایش سیاسی و اقتصادی بلندمدت و افزایش فشارهای بین‌المللی را سرعت می‌بخشد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/irans-ceasefire-push-may-cycle-deception-analysts-warn-shadowy-figure-gains-power",
-        "clean_url": "https://www.foxnews.com/world/irans-ceasefire-push-may-cycle-deception-analysts-warn-shadowy-figure-gains-power",
-        "image": "http://www.bing.com/th?id=ONUT.bal8neeWTUDl7urzMgDWVQ&pid=News",
-        "timestamp": 1775037540.0
-    },
-    {
-        "title_fa": "اختلاف مواضع روبیو و ونس درباره جنگ با ایران چالش‌های پیش‌روی آنها تا انتخابات ۲۰۲۸ را برجسته کرد",
-        "title_en": "Rubio's and Vance's differing postures on Iran war highlight their challenges ahead of 2028 election",
-        "summary": [
-            "روزنامه گزارش می‌دهد که روبیو و ونس به‌عنوان قوی‌ترین نامزدهای بالقوه حزب برای اولیه ۲۰۲۸ دیده می‌شوند و هر دو باید نقش‌های رسمی خود در دولت ترامپ را با طرح‌های سیاسی آینده‌شان متعادل کنند.",
-            "هر دو سیاست‌گذار مواضع متفاوتی درباره احتمال درگیری یا فشار بر ایران دارند؛ این تفاوت‌ها پیامد مستقیم بر پیام‌دهی انتخاباتی و توانایی آنها در ارائه یک خط واحد سیاست خارجی دارد.",
-            "اگر یکی از آنها منجر به تشدید تحریم‌ها یا اقدام نظامی شود، پیامدهای ملموسی برای ثبات رژیم در ایران و وضعیت اقتصادی آن خواهد داشت و می‌تواند نارضایتی‌های داخلی را تشدید کند؛ این ارزیابی مبتنی بر رابطه شناخته‌شده بین فشار خارجی و آسیب‌پذیری‌های اقتصادی-سیاسی در تهران است."
-        ],
-        "impact": "اختلاف مواضع می‌تواند نوسان سیاست خارجی آمریکا نسبت به ایران را افزایش دهد و در صورت تشدید فشارها، ثبات اقتصادی و سیاسی داخل ایران را شکننده‌تر کند.",
-        "tag": "انتخابات",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "Los Angeles Times on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/rubios-and-vances-differing-postures-on-iran-war-highlight-their-challenges-ahead-of-2028-election/ar-AA1ZVtSl",
-        "clean_url": "https://www.msn.com/en-us/news/politics/rubios-and-vances-differing-postures-on-iran-war-highlight-their-challenges-ahead-of-2028-election/ar-AA1ZVtSl",
-        "image": "http://www.bing.com/th?id=ONUT.8bt73EbC_OvW1zcd-FPteg&pid=News",
-        "timestamp": 1775037400.0
-    },
-    {
-        "title_fa": "تهدید ایران به حمله به اپل، گوگل، انویدیا و مایکروسافت؛ غول‌های فناوری آمریکا به اهداف جنگی تبدیل شدند",
-        "title_en": "Iran Threatens To Attack Apple, Google, NVIDIA, and Microsoft as US Tech Giants Become War Targets",
-        "summary": [
-            "خبر گزارش می‌دهد که جمهوری اسلامی تهدید کرده شرکت‌های فناوری بزرگ ایالات متحده — اپل، گوگل، انویدیا و مایکروسافت — را هدف حمله قرار دهد.",
-            "این اعلام صریح، شرکت‌های فناوری زیرساختی را به «اهداف جنگی» تبدیل می‌کند و نشان می‌دهد تهران آماده هدف‌گیری عناصر حیاتی زنجیره فناوری رقیب است؛ احتمال مداخله سایبری و اقدامات غیرمتقارن را افزایش می‌دهد.",
-            "پیامدهای داخلی و خارجی ملموس است: چنین تهدیداتی پتانسیل افزایش فشار تحریمی و واکنش امنیتی-قانونی آمریکا را دارد و ممکن است رژیم از این اظهارات برای جابجا کردن افکار عمومی داخلی استفاده کند، هرچند این تاکتیک‌ها جایگزین ضعف‌های ساختاری اقتصادی و مدیریتی نمی‌شوند."
-        ],
-        "impact": "تهدید به هدف قرار دادن شرکت‌های فناوری بزرگ آمریکا می‌تواند منجر به تشدید تحریم‌ها، منزوی‌تر شدن بین‌المللی رژیم و افزایش احتمال پاسخ‌های سایبری یا حقوقی ایالات متحده شود.",
-        "tag": "تهدید",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Android Headlines",
-        "url": "https://www.androidheadlines.com/2026/04/iran-threatens-to-attack-apple-google-nvidia-and-microsoft-as-us-tech-giants-become-war-targets.html",
-        "clean_url": "https://www.androidheadlines.com/2026/04/iran-threatens-to-attack-apple-google-nvidia-and-microsoft-as-us-tech-giants-become-war-targets.html",
-        "image": "http://www.bing.com/th?id=ONUT.jr5FyWGoJpngeHDvk9DCOA&pid=News",
-        "timestamp": 1775036400.0
     }
 ]
