@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پیشنهاد ده‌بندی ایران: پایان حملات و رفع تحریم‌ها به‌عنوان شرط",
+        "title_en": "Iran's 10-Point Proposal Demands an End to Attacks and Sanctions",
+        "summary": [
+            "ایران از طریق واسطه‌های پاکستانی یک پیشنهاد ده‌ بندی ارسال کرد که خواستار پایان حملات و رفع تحریم‌ها است، همزمان با رسیدن مهلت ترامپ برای حملات جدید.",
+            "ارسال خواسته‌ها به‌واسطه نشان‌دهنده تلاش تهران برای جلوگیری از برخورد نظامی فوری و استفاده از مسیرهای غیرمستقیم دیپلماتیک به‌دلیل محدودیت کانال‌های ارتباطی است.",
+            "مطالبات مربوط به رفع تحریم‌ها بازتابِ تأثیر ساختاری فشار خارجی بر توان اقتصادی و سیاسی کشور است و نشان می‌دهد تهران به دنبال تخفیف فوری فشارهای اقتصادی و سیاسی است."
+        ],
+        "impact": "این اقدام می‌تواند یا به کاهش موقت ریسک برخورد نظامی بینجامد و یا در صورت رد درخواست‌ها، شانس تشدید تنش و حملات فوری را افزایش دهد؛ همزمان فشار تحریم‌ها ساختار دولتی و مشروعیت داخلی را تضعیف کرده است.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/06/world/middleeast/iran-10-point-proposal.html",
+        "clean_url": "https://www.nytimes.com/2026/04/06/world/middleeast/iran-10-point-proposal.html",
+        "image": "https://static01.nyt.com/images/2026/04/06/multimedia/06israel-iran-proposal-qvfc/06israel-iran-proposal-qvfc-facebookJumbo.jpg",
+        "timestamp": 1775509860.0
+    },
+    {
         "title_fa": "گزارش: تهران پیشنهاد آتش‌بس را رد کرد",
         "title_en": "Iran war: Tehran reportedly rejects ceasefire proposal",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/what-to-know-about-the-us-iran-proposals-to-end-war/ar-AA1ZoIHU",
         "image": null,
         "timestamp": 1775509798.0
+    },
+    {
+        "title_fa": "حملات ایران نگرانی از نشت مواد شیمیایی در جنوب اسرائیل را برانگیخت",
+        "title_en": "Iranian strikes spark fears of chemical leakage in southern Israel",
+        "summary": [
+            "منبع: Anadolu Ajansı — حملات هوایی/موشکی منتسب به ایران باعث ابراز نگرانی از احتمال نشت مواد شیمیایی در مناطق جنوبی اسرائیل شده است.",
+            "خطر فوری محیطی و نظامی: تهدید نشت مواد شیمیایی می‌تواند تلفات غیرنظامی و اختلال زیست‌محیطی جدی ایجاد کند و احتمال تشدید واکنش‌های نظامی منطقه‌ای را بالا ببرد.",
+            "ابعاد سیاسی-داخلی و فشار خارجی: اگرچه گزارش به تحریم‌ها اشاره‌ای نکرده است، چنین عملیات‌هایی را می‌توان در چارچوب فشار خارجی و تمایل رژیم برای بازتوزیع توجهات از مشکلات داخلی و ناکارآمدی مدیریتی دید."
+        ],
+        "impact": "این رخداد در کوتاه‌مدت تنش منطقه‌ای را تشدید و خطر آلودگی شیمیایی و واکنش تلافی‌جویانه را افزایش می‌دهد، در حالی که نشانگر استفاده رژیم از اقدامات نظامی برای کاستن از پیامدهای بحران‌های داخلی است.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVFSMmZjdzB0ZDQ4RnZNWTFSOFUzX3hlUXBESjJLcVFHc3h0NGYzLXhIOHVVM21BVk5nM0o2Zm9QaFlRTGhQdVFzdzJ6akxvMy15WkxydHNKZUNlUUNvQTBtSW5zMF92Y1lSUTdOdlI5WklGS1daOS1vNzNlb3phLXp4TThjYzhEaUQwWFprTlI3WkxkZTJjVlZjMG1PZ25HVmZ3QUR1dE5MQzZ2VjJvcC03V1ZLcmlTYkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVFSMmZjdzB0ZDQ4RnZNWTFSOFUzX3hlUXBESjJLcVFHc3h0NGYzLXhIOHVVM21BVk5nM0o2Zm9QaFlRTGhQdVFzdzJ6akxvMy15WkxydHNKZUNlUUNvQTBtSW5zMF92Y1lSUTdOdlI5WklGS1daOS1vNzNlb3phLXp4TThjYzhEaUQwWFprTlI3WkxkZTJjVlZjMG1PZ25HVmZ3QUR1dE5MQzZ2VjJvcC03V1ZLcmlTYkE",
+        "image": null,
+        "timestamp": 1775507568.0
     },
     {
         "title_fa": "ترامپ: آمریکا برنامه‌ای برای نابودی پل‌ها و نیروگاه‌ها دارد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.rediff.com/news/special/trump-wont-decide-what-happens-next-in-the-war/20260402.htm",
         "image": "https://im.rediff.com/1200-630/news/2026/apr/02iran-crisis-prem1.jpg",
         "timestamp": 1775132340.0
-    },
-    {
-        "title_fa": "جنگ آمریکا و اسرائیل علیه ایران شتاب‌دهندهٔ دلارزدایی و افول هژمونی آمریکاست",
-        "title_en": "The US-Israel war on Iran is accelerating de-dollarization and America’s decline | Ahmed Moor",
-        "summary": [
-            "احمد مور در گاردین می‌نویسد اقدام‌های آمریکا و اسرائیل علیه ایران روند جهانی دوری از دلار را تسریع کرده و این را نشانه‌ای از کاهش نفوذ اقتصادی-سیاسی آمریکا می‌داند.",
-            "این شیفت ساختاری می‌تواند کارآمدی تحریم‌های غرب را کاهش دهد و امکان تشکیل کانال‌های تجاری و ذخیره‌سازی ارزی خارج از نظام دلاری را فراهم کند؛ در نتیجه اهرم فشار خارجی علیه ایران تضعیف می‌شود.",
-            "با وجود تضعیف اهرم‌های خارجی، ضعف مدیریتی حاکمیت در اداره اقتصاد و نارضایتی‌های داخلی پابرجاست؛ تضعیف فشار خارجی صرفاً تضمین‌کننده ثبات داخلی نیست و ریسک‌های سیاسی داخلی همچنان باقی است."
-        ],
-        "impact": "شتاب در دلارزدایی احتمالاً فشار تحریم‌ها را کم‌رنگ می‌کند و فرصت‌های بین‌المللی را برای بقای رژیم افزایش می‌دهد، اما ناتوانی حکمرانی در مدیریت اقتصاد و اعتراضات داخلی همچنان خطر بی‌ثباتی را حفظ می‌کند.",
-        "tag": "دلارزدایی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQktrWHdabDk3Wjg0ckliNmFnOHdUYzV1akJJRTNPOVNDcEM3Vi1ILVJ6dHByT2pMcnFnNjY4N19EWHUtT2ktajFTVFU1LUxrUU5ibGQ3SkZVUjZUX3Z3aDBJdlJDZ1F2VXJHN0RIbnB5R2Y5cmktVHdvSVhkS2R6LTQ0YXdfSTY5Yl9DaXNsYzllVm1rTjN2MU1LVmJHNWZYdEtpU1RNYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQktrWHdabDk3Wjg0ckliNmFnOHdUYzV1akJJRTNPOVNDcEM3Vi1ILVJ6dHByT2pMcnFnNjY4N19EWHUtT2ktajFTVFU1LUxrUU5ibGQ3SkZVUjZUX3Z3aDBJdlJDZ1F2VXJHN0RIbnB5R2Y5cmktVHdvSVhkS2R6LTQ0YXdfSTY5Yl9DaXNsYzllVm1rTjN2MU1LVmJHNWZYdEtpU1RNYw",
-        "image": null,
-        "timestamp": 1775129880.0
-    },
-    {
-        "title_fa": "جنگ ایران-آمریکا: تهران اعلام کرد جنگ تا تسلیم دشمن ادامه خواهد داشت",
-        "title_en": "Iran-US war: Tehran says war will go on until enemy's surrender",
-        "summary": [
-            "تهران رسماً اعلام کرده درگیری «تا تسلیم دشمن» ادامه می‌یابد؛ این موضع در واکنش به اظهارات دونالد ترامپ، رئیس‌جمهور آمریکا مبنی بر خروج قریب‌الوقوع نیروهای آمریکایی و گفته او که نیروهای آمریکا «کار را تمام خواهند کرد» بیان شده است.",
-            "فشار و تهدیدات خارجی و لفاظی‌های مربوط به ادامه عملیات نظامی، در صورت تداوم، می‌تواند ساختارهای اقتصادی و سیاسی رژیم را تضعیف کند؛ کاهش سرمایه‌گذاری، افزایش هزینه‌های دفاعی و فشار بر بودجه دولتی از جمله کانال‌های محتمل هستند.",
-            "ادامه تنش نظامی می‌تواند نارضایتی عمومی را تشدید کند؛ ضعف‌های مدیریتی اقتصادی و سرکوب سیاسی موجود (فراتر از متن گزارش) این بستر را برای افزایش اعتراضات و فشارهای داخلی فراهم می‌سازد، اما ارتباط دقیق باید با شواهد میدانی تأیید شود."
-        ],
-        "impact": "تقابل لفظی و تهدید به ادامه جنگ احتمال افزایش هزینه‌های نظامی و سیاسی برای حکومت ایران و افزایش خطر گسترش درگیری را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-gb/news/world/iran-us-war-tehran-says-war-will-go-on-until-enemys-surrender/ar-AA1ZYIPq",
-        "clean_url": "https://www.msn.com/en-gb/news/world/iran-us-war-tehran-says-war-will-go-on-until-enemys-surrender/ar-AA1ZYIPq",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1ZXk2q.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1775129588.0
     }
 ]
