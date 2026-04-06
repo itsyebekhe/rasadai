@@ -198,6 +198,24 @@
         "timestamp": 1775480930.0
     },
     {
+        "title_fa": "ترامپ در کنفرانس خبری تهدید به نابودی نیروگاه‌ها و پل‌های ایران کرد",
+        "title_en": "Live updates: Trump vows at news conference to obliterate Iran's power plants and bridges",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، در کنفرانس خبری بطور علنی گفت که نیروگاه‌ها و پل‌های ایران را نابود خواهد کرد.",
+            "سناتور تیم کین نسبت به درخواست ۱.۵ تریلیون دلاری ترامپ برای هزینه‌های نظامی ابراز تردید کرده و نماینده روبن گالِگو در حال بررسی نامزدی برای انتخابات ۲۰۲۸ است—زمینه داخلی آمریکا در پس این اظهارات مطرح است.",
+            "تهدید مستقیم به هدف گرفتن زیرساخت‌های حیاتی، ریسک تشدید تنش نظامی را بالا می‌برد و پیامدهای اقتصادی و سیاسی قابل‌توجهی برای حکومت ایران به همراه خواهد داشت."
+        ],
+        "impact": "این تهدید علنی توازن امنیتی را علیه حکومت ایران نامتعادل‌تر می‌کند و می‌تواند هزینه‌های دفاعی، فشارهای اقتصادی و ضعف مشروعیت داخلی نظام را افزایش دهد.",
+        "tag": "تهدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-defense-budget-gallego-taxes-congress-dhs-shutdown-live-updates-rcna266652",
+        "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-defense-budget-gallego-taxes-congress-dhs-shutdown-live-updates-rcna266652",
+        "image": "http://www.bing.com/th?id=ONUT.2NTsOKI4df9MIg2KY1uJ2w&pid=News",
+        "timestamp": 1775477940.0
+    },
+    {
         "title_fa": "اسرائیل مجتمع پتروشیمی عسلویه را هدف قرار داد، وزیر دفاع می‌گوید",
         "title_en": "Israel strikes Iran's petrochemical complex at Asaluyeh, defence minister says",
         "summary": [
@@ -502,6 +520,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/04/06/world/iran-war-trump-israel",
         "image": "https://static01.nyt.com/images/2026/04/06/multimedia/06israel-iran-carousel-zzz-gpfk/06israel-iran-carousel-zzz-gpfk-verticalTwoByThree735-v3.jpg?quality=75&auto=webp",
         "timestamp": 1775463240.0
+    },
+    {
+        "title_fa": "ترامپ: ایران را «در یک شب» می‌توان نابود کرد",
+        "title_en": "Trump Says Iran Can Be ‘Taken Out in One Night’",
+        "summary": [
+            "اظهارات ترامپ پیرامون امکان «از کار انداختن ایران در یک شب» امنیت منطقه را به‌شدت تشدید کرده و محور درگیری‌ها را حول تنگه هرمز قرار داده است.",
+            "ایران پس از تشدید تهدیدها، مواضع تهاجمی علیه کشورهای خلیج و اسرائیل اعلام کرده؛ این کنش‌ و واکنش‌ها خطر تسری درگیری‌ها را بالا می‌برد.",
+            "اختلال احتمالی در عبور نفت از تنگه هرمز و افزایش هزینه‌های نظامی-اقتصادی، ساختارهای آسیب‌پذیر حکومتی را در معرض فشارهای بیشتر داخلی و بین‌المللی قرار می‌دهد."
+        ],
+        "impact": "تهدید مستقیم آمریکا به توان نظامی علیه ایران خطرِ تبدیل بحران به درگیری نظامی گسترده و تشدید فشار اقتصادی و سیاسی بر حکومت را فوراً افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/iran-war-latest-news-updates-2026",
+        "clean_url": "https://www.wsj.com/livecoverage/iran-war-latest-news-updates-2026",
+        "image": "http://www.bing.com/th?id=ONUT.SUUVlOonRHDcq3CrjQpvAQ&pid=News",
+        "timestamp": 1775462580.0
     },
     {
         "title_fa": "ایران آتش‌بس موقت را رد کرد؛ اسرائیل مجتمع پتروشیمی کلیدی را هدف قرار داد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.latimes.com/politics/story/2026-04-02/trump-speech-on-iran-war-recent-remarks-on-oil-nato-daycare-costs-land-with-thud",
         "image": "http://www.bing.com/th?id=ONUT.1WqCBw-hCZZMTYvprYps3g&pid=News",
         "timestamp": 1775121480.0
-    },
-    {
-        "title_fa": "ترامپ ایران را کوبیده اما ممکن است آن را با دست برتر باقی بگذارد",
-        "title_en": "Trump is battering Iran but may leave it with an upper hand",
-        "summary": [
-            "فشار نظامی گسترده آمریکا و اسرائیل توان عملیاتی ایران را تضعیف کرده اما گزارش‌ها نشان می‌دهد تهران همچنان از ظرفیت موشکی و پهپادی برای حمله به اسرائیل و امارات برخوردار است؛ تضعیف ساختاری وجود دارد اما حذف کامل توان نظامی رخ نداده.",
-            "حملات و متقابلاً بسته شدن صادرات نفت و گاز خلیج فارس خسارت‌های صدها میلیون دلاری روزانه تولید کرده‌اند؛ وعده پایان جنگ ظرف چند هفته (به‌گفته ترامپ) برای کشورهای خلیج چشم‌اندازی خطرناک به‌جا می‌گذارد چون یک حکومت زخمی اما مسلح همچنان تهدید زیرساخت‌های انرژی خواهد بود.",
-            "ضربات به مناطق شهری در تهران و تصاویر خرابی و قربانیان غیرنظامی نشان‌دهنده ناکارآمدی حکمرانی و هزینه سنگین برای مردم است؛ اگرچه شواهدی از اعتراضات فراگیر در متن گزارش نیست، اما اوضاع می‌تواند نارضایتی عمومی را تشدید کند و رژیم را به رفتارهای اقتدارگرایانه‌تر سوق دهد."
-        ],
-        "impact": "نتیجه محتمل این است که حملات کنونی ایران را در کوتاه‌مدت تضعیف می‌کنند اما در غیاب نابودی کامل ظرفیت موشکی/پهپادی و برنامه هسته‌ای، منطقه با تهدید بلندمدتِ یک رژیم زخمی اما مسلح مواجه خواهد ماند.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/04/02/middleeast/trump-gulf-iran-war-exit-intl",
-        "clean_url": "https://www.cnn.com/2026/04/02/middleeast/trump-gulf-iran-war-exit-intl",
-        "image": null,
-        "timestamp": 1775119500.0
-    },
-    {
-        "title_fa": "بریتانیَا: حدود ۴۰ کشور برای بازگشایی تنگه هرمز پس از مسدودسازی ایران گفتگو می‌کنند",
-        "title_en": "Britain says 40 countries discuss reopening Strait of Hormuz after Iran blockade",
-        "summary": [
-            "بریتانیَا می‌گوید حدود ۴۰ کشور در حال بحث درباره اقدام مشترک برای بازگشایی تنگه هرمز هستند تا مانع از «اسیر کردن اقتصاد جهانی» توسط ایران شوند؛ این حرکت اگر اجرایی شود فشار دیپلماتیک و احتمالاً نظامی قابل‌توجهی بر رژیم ایجاد می‌کند و هزینه‌های بین‌المللی بقای آن را افزایش می‌دهد.",
-            "خبر اشاره‌ای به نقش روسیه، چین یا کره‌شمالی ندارد؛ بنابراین این ابتکار فعلاً به‌نظر غرب‌محور است و استفاده‌ی مستقیم از حامیان سنتیِ رژیم به عنوان عامل بازدارنده در متن گزارش مطرح نشده است.",
-            "متن گزارش به وضعیت اقتصادی یا ناآرامی‌های داخلی ایران اشاره مستقیم نمی‌کند؛ با این حال تحریم‌های عملیاتی یا اختلال در ترافیک نفتی می‌تواند فشارهای اقتصادی را تشدید کند و به‌صورت بالقوه نارضایتی‌های اجتماعی موجود را عمیق‌تر سازد."
-        ],
-        "impact": "حرکت حدود ۴۰ کشور برای بازگشایی تنگه هرمز ریسک تشدید رویارویی نظامی-سیاسی با تهران را بالا می‌برد، انزوای بین‌المللی رژیم را افزایش می‌دهد و فشار اقتصادی بر حکومت را تشدید می‌کند.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/dozens-countries-discuss-coalition-secure-passage-through-strait-hormuz-2026-04-02/",
-        "clean_url": "https://www.reuters.com/business/energy/dozens-countries-discuss-coalition-secure-passage-through-strait-hormuz-2026-04-02",
-        "image": "http://www.bing.com/th?id=ONUT.CUibYyNJJ9ZQoVXmEzdrmg&pid=News",
-        "timestamp": 1775118540.0
     }
 ]
