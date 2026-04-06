@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "میانجی‌ها میان آمریکا و ایران درباره آتش‌بس ۴۵ روزه مذاکره می‌کنند؛ احتمال توافق کم است — منابع",
+        "title_en": "US, Iran mediators in talks for 45-day truce, though chances for deal are slim — sources",
+        "summary": [
+            "منابع گزارش می‌دهند میانجی‌ها در پی توافق آتش‌بس ۴۵ روزه میان طرف‌های مرتبط با آمریکا و ایران در حال مذاکره هستند.",
+            "منابع تأکید می‌کنند احتمال رسیدن به توافق اندک است؛ بدین معنی که موانع عملی این مذاکرات قابل توجه‌اند.",
+            "این تلاش میانجی‌گرانه نشانه فشار خارجی برای کاهش تنش است؛ ناکامی در حصول توافق می‌تواند به تداوم درگیری‌های منطقه‌ای و ادامه فشار بین‌المللی علیه رژیم بینجامد."
+        ],
+        "impact": "با توجه به احتمال اندک توافق، در کوتاه‌مدت چشم‌انداز تداوم فشارهای بین‌المللی و استمرار بی‌ثباتی منطقه‌ای و هزینه‌های سیاسی برای رژیم تقویت می‌شود.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/world/iran-mediators-make-last-ditch-push-for-45-day-ceasefire/ar-AA20dOLj",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-mediators-make-last-ditch-push-for-45-day-ceasefire/ar-AA20dOLj",
+        "image": null,
+        "timestamp": 1775442199.0
+    },
+    {
+        "title_fa": "آمریکا، ایران و میانجی‌ها برای آتش‌بس ۴۵ روزه تلاش می‌کنند — گزارش Axios",
+        "title_en": "US, Iran and mediators make push for 45-day ceasefire, Axios reports",
+        "summary": [
+            "Axios به نقل از منابع Reuters گزارش داده که آمریکا، ایران و میانجی‌ها در تلاش برای تحقق یک آتش‌بس ۴۵ روزه هستند.",
+            "حضور فعال آمریکا و میانجی‌ها نشان‌دهنده فشار دیپلماتیک برای مهار فوری خشونت‌ها است، اما گزارش جزئیات توافق، سازوکارهای تضمین یا هویت کامل میانجی‌ها را ذکر نکرده است.",
+            "آتش‌بس موقت ممکن است بار نظامی را کاهش دهد اما گزارش اشاره‌ای به تغییرات اقتصادی یا اعتراضات داخلی نکرده؛ بنابراین این گام درمان ریشه‌های ساختاری حاکمیت نیست."
+        ],
+        "impact": "یک آتش‌بس ۴۵ روزه می‌تواند تنش نظامی را کوتاه‌مدت کاهش دهد و به رژیم زمان تنفس بدهد، اما بدون فشار ساختاری خارجی یا داخلی تغییرات پایداری در عملکرد حکمرانی ایجاد نخواهد کرد.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/us-iran-and-mediators-make-push-for-45-day-ceasefire-axios-reports/ar-AA20e4hq",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-and-mediators-make-push-for-45-day-ceasefire-axios-reports/ar-AA20e4hq",
+        "image": null,
+        "timestamp": 1775441760.0
+    },
+    {
+        "title_fa": "تهران تهدیدات ترامپ درباره تنگه هرمز را محکوم کرد",
+        "title_en": "Iran war updates: Tehran slams Trump threats over Strait of Hormuz closure",
+        "summary": [
+            "دونالد ترامپ در پیام در تراست سوشیال با الفاظ رکیک خواستار باز شدن تنگه هرمز شد و تهدید کرد در صورت عدم اطاعت، تأسیسات برق و پل‌های ایران هدف حمله آمریکا قرار خواهند گرفت.",
+            "این تهدید مستقیم ریسک تشدید رویارویی نظامی را بالا می‌برد و به‌عنوان فشار خارجی عمل می‌کند؛ پیام‌های نظامی یک‌جانبه می‌توانند هزینه حمل‌ونقل دریایی و بیمه را افزایش داده و اثرات ساختاری بر درآمدهای انرژی و ثبات مالی حکومت بگذارند.",
+            "گزارش اشاره‌ای به اعتراضات داخلی نکرده، اما چنین تهدیداتی می‌تواند عدم‌اطمینان اقتصادی را تشدید کند و ناکارآمدی مدیریتی را برجسته سازد که در بلندمدت پایه‌های مشروعیت حکومت را تضعیف می‌کند."
+        ],
+        "impact": "پیام ترامپ احتمال تشدید سریع تنش نظامی را افزایش می‌دهد و هم‌زمان فشارهای اقتصادی و سیاسی بر حکومت ایران را تشدید خواهد کرد.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260405__A6T77TB__v1__HighRes__IranUsIsraelWarGuards-1775378738.jpg?resize=1920,1440",
+        "timestamp": 1775434980.0
+    },
+    {
         "title_fa": "چرا آمریکا و اسرائیل به ایران حمله کردند و جنگ چقدر می‌تواند طول بکشد؟",
         "title_en": "Why did US and Israel attack Iran and how long could the war last?",
         "summary": [
@@ -72,6 +126,24 @@
         "timestamp": 1775419321.0
     },
     {
+        "title_fa": "ترامپ تهدید به تخریب نیروگاه‌های ایران کرد؛ میانجی‌ها به دنبال آتش‌بس",
+        "title_en": "Trump issues Iran threats as mediators reportedly seek ceasefire",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا تهدید کرده از روز سه‌شنبه نیروگاه‌های ایران را هدف قرار دهد و «جهنم» را بر کشور بپاشد؛ تهدید مستقیم به زیرساخت‌های حیاتی ریسک تشدید نظامی و بروز برخورد مستقیم را افزایش می‌دهد.",
+            "گزارش‌ها حاکی از تلاش میانجی‌ها برای حصول آتش‌بس هستند؛ در متن گزارش اشاره‌ای به نقش روسیه، چین یا کره‌شمالی نشده است، بنابراین نباید بازیگران خارجی را بدون شواهد وارد تحلیل کرد.",
+            "فشار نظامی آشکار، به‌عنوان یک عامل تضعیف‌کننده ساختاری، می‌تواند ناتوانی مدیریتی و آسیب‌پذیری اقتصادی-سیاسی حاکمیت را برجسته کند و احتمالاً هزینه‌های اجتماعی و نارضایتی عمومی را تشدید نماید؛ با این حال این پیامدها باید با احتیاط و بر اساس شواهد میدانی بررسی شوند."
+        ],
+        "impact": "تهدید به هدف قرار دادن زیرساخت‌های حیاتی ایران ثبات داخلی را تضعیف کرده و گزینه‌های سیاسی و اقتصادی حکومت را در کوتاه‌مدت محدود می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-issues-ultimatum-to-hit-iran-s-power-plants-after-rescue/ar-AA20dWY3",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-issues-ultimatum-to-hit-iran-s-power-plants-after-rescue/ar-AA20dWY3",
+        "image": "http://www.bing.com/th?id=ONUT.6c_D8jp35ZPxbBKCVrXBlQ&pid=News",
+        "timestamp": 1775417695.0
+    },
+    {
         "title_fa": "«در امان و سالم»: چگونه یک نظامی آمریکایی که در ایران سرنگون شد از شکاف کوهی نجات یافت",
         "title_en": "‘Safe and sound’: How a U.S. Airman Shot Down in Iran Was Rescued From a Mountain Crevice",
         "summary": [
@@ -88,6 +160,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/safe-and-sound-how-a-us-airman-shot-down-in-iran-was-rescued-from-a-mountain-crevice/ar-AA20df0W",
         "image": null,
         "timestamp": 1775416725.0
+    },
+    {
+        "title_fa": "ترامپ بار دیگر زیرساخت‌های ایران را پیش از ضرب‌الاجل جدید تنگه هرمز تهدید کرد",
+        "title_en": "Trump again threatens Iran's infrastructure ahead of his latest Strait of Hormuz deadline",
+        "summary": [
+            "دونالد ترامپ در یک پست در Truth Social تهدید کرد که در صورت باز نشدن تنگه هرمز به ضرب‌الاجلش، حملات گسترده‌ای علیه تاسیسات انرژی و پل‌های ایران انجام خواهد داد و در بیانیه خود از الفاظ رکیک و ارجاع به اسلام استفاده کرد؛ این تکرار تهدیدهای قبلی است که گاهی به تعویق افتاده‌اند.",
+            "چنین ادعاهایی احتمال رویارویی نظامی مستقیم با آمریکا را افزایش می‌دهد و حتی در صورت عدم اقدام فوری، فشار راهبردی و دیپلماتیک بر جمهوری اسلامی را تشدید می‌کند و محاسبات بازدارندگی تهران را دگرگون می‌سازد.",
+            "هدف قرار گرفتن زیرساخت‌های انرژی می‌تواند درآمدهای ارزی و شبکه خدمات حیاتی را مختل کند و ضعف مدیریت و آسیب‌پذیری ساختاری اقتصاد مبتنی بر انرژی رژیم را بیش از پیش برجسته سازد؛ پیامدهای اقتصادی داخلی می‌تواند ثبات سیاسی را تحت فشار قرار دهد."
+        ],
+        "impact": "تهدید به حمله مستقیم به تاسیسات انرژی و پل‌ها ریسک تبدیل تنش به برخورد نظامی کامل با آمریکا را بالا برده و هم‌زمان خطر قطع درآمدها و اختلال در خدمات حیاتی داخل ایران را فوراً افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-again-threatens-irans-infrastructure-140111519.html",
+        "clean_url": "https://www.aol.com/articles/trump-again-threatens-irans-infrastructure-140111519.html",
+        "image": "http://www.bing.com/th?id=ONUT.rJ2GlDpRJLZxXWG2QPDNxw&pid=News",
+        "timestamp": 1775415420.0
     },
     {
         "title_fa": "ویدئو: اصابت موشک ایرانی به ساختمان مسکونی در حیفا",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/takeaways-from-trumps-address-no-end-date-for-iran-war-and-few-details-on-strategy-ahead/ar-AA1ZWr1d",
         "image": "http://www.bing.com/th?id=ONUT.JMf9DIftUTIPh6AqR1sqhw&pid=News",
         "timestamp": 1775055560.0
-    },
-    {
-        "title_fa": "گزارش: بریتانیا تا ۲۰۳۵ به ال‌ان‌جی آمریکا وابسته خواهد شد",
-        "title_en": "UK to become dependent on US LNG by 2035 — report",
-        "summary": [
-            "گزارش تاس پیش‌بینی می‌کند که بریتانیا تا سال ۲۰۳۵ بخش عمده نیاز ال‌ان‌جی خود را از آمریکا تأمین خواهد کرد؛ این روند انتقال وابستگی انرژی به واشنگتن را نشان می‌دهد.",
-            "وابستگی بلندمدت به ال‌ان‌جی آمریکا استقلال راهبردی انرژی دولت بریتانیا را تضعیف می‌کند و موقعیت لندن را در برابر اهرم‌های نفوذ سیاسی و اقتصادی واشنگتن آسیب‌پذیرتر می‌سازد.",
-            "این چشم‌انداز بازتاب ناکافی بودن تنوع‌بخشی منابع انرژی و ریسک‌های اقتصادی همراه از جمله نوسانات قیمت، هزینه‌های زیرساختی و احتمال افزایش هزینه‌ها برای مصرف‌کنندگان است که می‌تواند بی‌اعتمادی عمومی به سیاست‌گذاران را افزایش دهد."
-        ],
-        "impact": "وابستگی به ال‌ان‌جی آمریکا تا ۲۰۳۵ استقلال راهبردی انرژی بریتانیا را کاهش داده و اهرم فشار واشنگتن بر تصمیمات لندن را تقویت می‌کند.",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2110281",
-        "clean_url": "https://tass.com/economy/2110281",
-        "image": null,
-        "timestamp": 1775055060.0
-    },
-    {
-        "title_fa": "روسیه در رتبه ۳۶ رده‌بندی تازه فیفا باقی ماند",
-        "title_en": "Russia remains in 36th place in FIFA's newly-released rankings of national teams",
-        "summary": [
-            "فهرست جدید فیفا نشان می‌دهد تیم ملی روسیه همچنان در رتبه ۳۶ قرار دارد؛ گزارش صرفاً خبری و ورزشی است و جزییات عملکرد تیم را منعکس می‌کند.",
-            "متن گزارش هیچ اشاره‌ای به تحریم‌ها یا فشار خارجی ندارد؛ بنابراین این خبر نقشی در تضعیف ساختاری یا تغییر ثبات سیاسی در ایران ایفا نمی‌کند.",
-            "گزارش اشاره‌ای به نقش روسیه، چین یا کره‌شمالی در حمایت از رژیم ایران ندارد و همچنین هیچ نشانه‌ای از بروز اعتراضات داخلی یا پیامدهای اقتصادی مرتبط ارائه نمی‌کند."
-        ],
-        "impact": "این خبر اهمیت راهبردی اندکی دارد و پیامد مستقیم آن برای ثبات سیاسی و اقتصادی ایران ناچیز است.",
-        "tag": "ورزش",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/sports/2110289",
-        "clean_url": "https://tass.com/sports/2110289",
-        "image": null,
-        "timestamp": 1775054640.0
-    },
-    {
-        "title_fa": "ادامه حملات در ایران و سراسر خاورمیانه هم‌زمان با تهدید به تشدید از سوی ترامپ",
-        "title_en": "Attacks persist in Iran and across the Mideast as Trump threatens escalation",
-        "summary": [
-            "گزارش اصلی: حملات مسلحانه/نظامی در داخل ایران و نقاط دیگری از خاورمیانه ادامه دارد و هم‌زمان ترامپ تهدید به تشدید اقدامات کرده است.",
-            "فشار خارجی: تهدید به تشدید از سوی ترامپ احتمال افزایش اقدامات نظامی و فشارهای بین‌المللی را بالا می‌برد که می‌تواند ساختار سیاسی و اقتصادی رژیم را بیشتر تضعیف کند.",
-            "پیامدهای داخلی: اگر تنش‌ها بالا برود، پیامدهای اقتصادی و امنیتی تشدید خواهد شد و این امر می‌تواند به افزایش نارضایتی عمومی و فشار بر کارکردهای حکومتی بینجامد."
-        ],
-        "impact": "ادامه حملات همراه با تهدید ترامپ ریسک تبدیل درگیری‌های محدود به رویارویی وسیع‌تر منطقه‌ای را بالا می‌برد و رژیم را در معرض فشار سیاسی-اقتصادی شدیدی قرار می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "AP News",
-        "url": "https://www.msn.com/en-us/news/other/attacks-persist-in-iran-and-across-the-mideast-as-trump-threatens-escalation/ar-AA1ZT1Vy",
-        "clean_url": "https://www.msn.com/en-us/news/other/attacks-persist-in-iran-and-across-the-mideast-as-trump-threatens-escalation/ar-AA1ZT1Vy",
-        "image": null,
-        "timestamp": 1775053560.0
-    },
-    {
-        "title_fa": "زنده - ترامپ می‌گوید آمریکا «نسبتاً سریع» ایران را ترک خواهد کرد پیش از سخنرانی",
-        "title_en": "Live - Trump says US to leave Iran ‘pretty quickly’ ahead of address",
-        "summary": [
-            "ترامپ اعلام کرده آمریکا «نسبتاً سریع» ایران را ترک خواهد کرد؛ گزارش صرفاً این اظهارنظر را پیش از یک سخنرانی نقل می‌کند و جزئیات عملیاتی ارائه نمی‌دهد.",
-            "گزارش هیچ اشاره‌ای به تحریم‌ها یا فشار خارجی ندارد؛ بنابراین نمی‌توان اثبات کرد که این گفته تاثیری ساختاری بر تضعیف یا تقویت رژیم خواهد داشت و پیامدهای اقتصادی و سیاسی ناشی از فشار خارجی نامشخص باقی می‌ماند.",
-            "هیچ اطلاعاتی درباره واکنش‌های داخلی، اعتراضات یا وضعیت اقتصادی ارائه نشده؛ ارزیابی پیامدهای داخلی مستلزم دانستن زمان‌بندی، محدوده و سازوکار اجرایی این ادعا است."
-        ],
-        "impact": "تا روشن شدن جزئیات و شواهد اجرایی، این اظهارنظر خبری محدود است و اطلاعات کافی برای نتیجه‌گیری درباره پیامدهای امنیتی یا اقتصادی داخلی فراهم نمی‌کند.",
-        "tag": "خروج",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "ایران اینترنشنال",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wbUxpOWxMUFpVeTVwcmJmeGN4bG5RR3hLWkJaZ2x0NnFOTTF1ZDg2MGh0dE5rOERZZUtrN05YWURsNGEzYjczV2ZreG9CUlV6OG1UejlXVERiaUpEb1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9wbUxpOWxMUFpVeTVwcmJmeGN4bG5RR3hLWkJaZ2x0NnFOTTF1ZDg2MGh0dE5rOERZZUtrN05YWURsNGEzYjczV2ZreG9CUlV6OG1UejlXVERiaUpEb1E",
-        "image": null,
-        "timestamp": 1775053164.0
-    },
-    {
-        "title_fa": "ایالات متحده: ایران فعلاً نسبت به دیپلماسی بدبین است",
-        "title_en": "Iran Is Skeptical About Diplomacy for Now, U.S. Intelligence Says",
-        "summary": [
-            "اطلاعات آمریکایی نشان می‌دهد تهران در کوتاه‌مدت تمایلی به راه‌حل دیپلماتیک ندارد و فعلاً از توقف خشونت‌ها حمایت نمی‌کند.",
-            "هر تصمیم ایران برای ادامه درگیری روند مورد نظر ترامپ برای پایان سریع جنگ در عرض هفته‌ها را پیچیده می‌کند و احتمال تشدید واکنش‌های نظامی و دیپلماتیک را بالا می‌برد.",
-            "بدبینی نسبت به دیپلماسی می‌تواند هزینه‌های خارجی (فشار نظامی و دیپلماتیک) و هزینه‌های اقتصادی را افزایش دهد و بار سیاسی-اداری بر حکومت را سنگین‌تر کند."
-        ],
-        "impact": "اگر تهران به راهبرد ادامه جنگ پایبند بماند، شانس خاتمه سریع درگیری کاهش می‌یابد و هم ثبات منطقه‌ای و هم فشار بر رژیم را به طور محسوسی تشدید می‌کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html",
-        "clean_url": "https://www.nytimes.com/2026/04/01/us/politics/trump-iran-war.html",
-        "image": "http://www.bing.com/th?id=ONUT.Gu6ZIVsNKW0qXR91nzrrfQ&pid=News",
-        "timestamp": 1775053080.0
     }
 ]
