@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "رویترز: ایران و آمریکا پلان آتش‌بس فوری دریافت کردند",
+        "title_en": "Iran, US receive plan to end hostilities, immediate ceasefire, source says",
+        "summary": [
+            "رویترز گزارش می‌دهد ایران و آمریکا هر دو یک پلان برای پایان درگیری‌ها و اعلام آتش‌بس فوری دریافت کرده‌اند؛ دریافت سند به معنای پذیرش یا اجرا قطعی نیست.",
+            "از منظر فشار خارجی و تحریم‌ها، آتش‌بس احتمالی می‌تواند فشار نظامی را کاهش دهد اما تأثیر ساختاری تحریم‌ها بر اقتصاد و تضعیف سیاسی رژیم را فوراً برطرف نمی‌کند؛ کاهش تنش می‌تواند فرصت دیپلماتیک برای رژیم فراهم کند تا پیامدهای اقتصادی را مدیریت کند.",
+            "لزوم طرح آتش‌بس بیش از همه نشانه آسیب‌پذیری است؛ مدیریت ناکارآمد اقتصادی و نارضایتی اجتماعی، هزینه‌های ادامه تنش را برای حکومت افزایش داده و هر راه‌حل سیاسی را به توأم با ملاحظات داخلی تبدیل می‌کند."
+        ],
+        "impact": "در کوتاه‌مدت تنش‌ها کاهش می‌یابد، اما این اقدام نشان‌دهنده ضعف ساختاری رژیم و نیاز به تغییرات بنیادین در مدیریت اقتصادی و سیاسی است.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/china/iran-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-2026-04-06/",
+        "clean_url": "https://www.reuters.com/world/china/iran-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-2026-04-06",
+        "image": null,
+        "timestamp": 1775458500.0
+    },
+    {
+        "title_fa": "از معامله تا فروپاشی: پنج آینده راهبردی برای جنگ ایران",
+        "title_en": "From Bargain to Breakdown: Five Strategic Futures for the Iran War",
+        "summary": [
+            "مقاله پنج سناریوی راهبردی را بررسی می‌کند که از «معامله» یا تسویه کنترل‌شده تا «فروپاشی» کامل صحنه را میانِ منافع داخلی و خارجی تقسیم می‌کند و پیامدهای هر مسیر را بر ثبات ملی می‌سنجد.",
+            "تحلیل به تأثیر فشار خارجی و تحریم‌ها به‌عنوان عامل تضعیف ساختاری حکومت و افزایش آسیب‌پذیری اقتصادی و سیاسی اشاره دارد؛ نتیجه‌گیری این است که فشارهای بیرونی می‌توانند توان بازدارندگی و مشروعیت داخلی را کاهش دهند.",
+            "سناریوهای «فروپاشی» بازتاب ناکارآمدی مدیریتی و شکست در مهار نارضایتی‌های اقتصادی-اجتماعی است؛ در این مسیر ریسک تشدید اعتراضات داخلی، شکست نهادهای کنترل و گسترش درگیری‌های محلی یا منطقه‌ای افزایش می‌یابد."
+        ],
+        "impact": "تقاطع تحریم‌های فشرده و مدیریت ناکارآمد اقتصاد می‌تواند ظرف کوتاه‌مدت ثبات رژیم را تضعیف کند و احتمال ورود کشور به چرخه‌ای از بی‌ثباتی داخلی و تشدید درگیری‌های منطقه‌ای را بالا ببرد.",
+        "tag": "جنگ",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Small Wars Journal",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9scE1iVEZJNElTdFdqaXlpNnRyUmU2VVdQZDhMWTRXY1VrTmU5ZTA5UFZHdFltYWV1ckhxYmhnUnJxRF85elREcFBZLXdEWHJNUWZBY3BGbFcyVVZ2d1NxZWZKN19sQkloQWYwdi1rU3ZrYzd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9scE1iVEZJNElTdFdqaXlpNnRyUmU2VVdQZDhMWTRXY1VrTmU5ZTA5UFZHdFltYWV1ckhxYmhnUnJxRF85elREcFBZLXdEWHJNUWZBY3BGbFcyVVZ2d1NxZWZKN19sQkloQWYwdi1rU3ZrYzd3",
+        "image": null,
+        "timestamp": 1775455410.0
+    },
+    {
+        "title_fa": "نظر: پس از ۴۵۰ حمله موشکی و ۲٬۰۰۰ حمله پهپادی، چرا امارات هنوز وارد جنگ با ایران نشده؟",
+        "title_en": "Opinion | 450 Missile, 2,000 Drone Attacks Later, Why Is UAE Still Not Fighting Iran?",
+        "summary": [
+            "سرخط گزارش می‌دهد که شمار گسترده‌ای از حملات — ۴۵۰ موشک و ۲٬۰۰۰ پهپاد — ثبت شده و سؤال محوری مقاله این است که با وجود این حجم حملات، امارات چرا وارد تقابل نظامی مستقیم با ایران نشده است.",
+            "تحلیل فشارهای خارجی: الگوی حملات نشان‌دهنده افزایش تنش‌های منطقه‌ای و فشار خارجی بر تهران است؛ این وضعیت می‌تواند به تشدید تحریم‌ها و انزوای بین‌المللی منجر شود اما در عین حال ثابت می‌کند که رژیم از ابزار نظامی و شبکه‌های نیابتی برای بقا استفاده می‌کند.",
+            "پیامدهای داخلی و اقتصادی: حفظ چنین عملیات‌های بیرونی هزینه‌بر است و ضعف مدیریتی را برجسته می‌کند؛ ادامه این روند می‌تواند نارضایتی عمومی را تشدید کند و منابع اقتصادی و سیاسی رژیم را تخریب نماید."
+        ],
+        "impact": "ادامه وضع موجود ریسک تبدیل درگیری‌های نیابتی به درگیری مستقیم بین تهران و کشورهای خلیج فارس را بالا می‌برد و ثبات منطقه را بیش از پیش تضعیف می‌کند.",
+        "tag": "تنش",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/opinion/iran-israel-war-why-iran-has-fired-the-most-missiles-at-its-biggest-trading-partner-in-gulf-11306811",
+        "clean_url": "https://www.ndtv.com/opinion/iran-israel-war-why-iran-has-fired-the-most-missiles-at-its-biggest-trading-partner-in-gulf-11306811",
+        "image": null,
+        "timestamp": 1775454102.0
+    },
+    {
         "title_fa": "جنگ ایران را به قدرت بزرگ جهانی تبدیل می‌کند",
         "title_en": "Opinion | The War Is Turning Iran Into a Major World Power",
         "summary": [
@@ -90,6 +144,24 @@
         "timestamp": 1775441760.0
     },
     {
+        "title_fa": "پیش‌نویس آتش‌بس به ایران و آمریکا ارسال شد",
+        "title_en": "Iran and US receive draft proposal for war ceasefire",
+        "summary": [
+            "هر دو طرف—ایران و آمریکا—پیش‌نویس یک پیشنهاد آتش‌بس را دریافت کرده‌اند؛ جزئیات متن و فرستنده پیشنهاد در گزارش حاضر مشخص نیست، بنابراین کانال‌های دیپلماتیک فعال اما مبهم‌اند.",
+            "تحلیل فشار خارجی و تحریم‌ها: دریافت پیش‌نویس نشان‌دهنده تلاش برای کاهش تنش نظامی است؛ اگر نهایی شود می‌تواند فشار امنیتی فوری را کاهش دهد و به‌تبعِ آن اهرم تحریم‌ها و فشار خارجی را تضعیف کند، اما بدون متن پیش‌نویس نمی‌توان ارزیابی قاطع از مصالحه‌ها یا هزینه‌های سیاسی کرد.",
+            "اقتصاد و نارضایتی داخلی: گزارش اشاره‌ای به اعتراضات یا وضعیت اقتصادی ندارد؛ با این حال، ضعف ساختاری مدیریت اقتصادی و ناتوانی در تأمین رفاه عمومی ادامه دارد و یک آتش‌بس موقت، بدون اصلاحات ساختاری، نارضایتی‌های مدنی را به‌طور بنیادین حل نخواهد کرد."
+        ],
+        "impact": "در صورت نهایی شدن پیش‌نویس، فشار نظامی کوتاه‌مدت کاهش می‌یابد و اهرم بین‌المللی علیه حکومت ضعیف‌تر خواهد شد؛ اما پیامدهای سیاسی و اقتصادی دقیق وابسته به مفاد متن است.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-6-2026-87b62d531d3290fde5255077179bd3b5",
+        "clean_url": "https://apnews.com/article/iran-us-israel-trump-lebanon-april-6-2026-87b62d531d3290fde5255077179bd3b5",
+        "image": "http://www.bing.com/th?id=ONUT.MRpmBS4dz6HLN6zaRl70Cw&pid=News",
+        "timestamp": 1775435700.0
+    },
+    {
         "title_fa": "تهران تهدیدات ترامپ درباره تنگه هرمز را محکوم کرد",
         "title_en": "Iran war updates: Tehran slams Trump threats over Strait of Hormuz closure",
         "summary": [
@@ -106,6 +178,24 @@
         "clean_url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex",
         "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260405__A6T77TB__v1__HighRes__IranUsIsraelWarGuards-1775378738.jpg?resize=1920,1440",
         "timestamp": 1775434980.0
+    },
+    {
+        "title_fa": "به‌روزرسانی جنگ آمریکا-ایران: ضرب‌الاجل ترامپ برای باز کردن تنگه هرمز نزدیک می‌شود؛ ایران او را «توهم‌زده» خواند",
+        "title_en": "US-Iran war live updates: Trump deadline to open Hormuz nears, Iran calls him delusional",
+        "summary": [
+            "دونالد ترامپ ضرب‌الاجل گذاشته که اگر تنگه هرمز تا سه‌شنبه باز نشود، تهدید به حمله کرده و تهران این تهدید را «توهم‌زده» توصیف کرده است.",
+            "تهدید مستقیم واشنگتن احتمال تشدید رویارویی نظامی در خلیج فارس را افزایش می‌دهد و خطر محاسبات اشتباه یا درگیری ناخواسته میان طرفین را بالا می‌برد.",
+            "این سطح از تنش دیپلماتیک، فضای حل‌وفصل مسالمت‌آمیز را تنگ می‌کند و تهران را در موضعی قرار می‌دهد که در مواجهه با فشار خارجی آسیب‌پذیرتر به‌نظر می‌رسد."
+        ],
+        "impact": "تقابل علنی تهران و واشنگتن ریسک رویارویی نظامی را بالا می‌برد و توان حکومت برای مدیریت پیامدهای سیاسی و امنیتی را کاهش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "NDTV on MSN",
+        "url": "https://www.msn.com/en-in/news/world/us-iran-war-live-updates-trump-deadline-to-open-hormuz-nears-iran-calls-him-delusional/ar-AA20dGP0",
+        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-war-live-updates-trump-deadline-to-open-hormuz-nears-iran-calls-him-delusional/ar-AA20dGP0",
+        "image": "http://www.bing.com/th?id=ONUT.Dzm8cNPCVVIQLr-JLe95Rg&pid=News",
+        "timestamp": 1775433635.0
     },
     {
         "title_fa": "چرا آمریکا و اسرائیل به ایران حمله کردند و جنگ چقدر می‌تواند طول بکشد؟",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/04/02/world/live-news/iran-war-us-trump-oil-intl-hnk",
         "image": "http://www.bing.com/th?id=ONUT.nbfQJieiUCtSAp9hlINoow&pid=News",
         "timestamp": 1775066340.0
-    },
-    {
-        "title_fa": "برخلاف ادعاهای ترامپ، مقامات غربی: هیچ دلیلی بر از دست رفتن قدرت رژیم ایران وجود ندارد",
-        "title_en": "Despite Trump's claims, there's no indication Iran's regime has lost power, Western officials and experts say",
-        "summary": [
-            "رئیس‌جمهور ترامپ مدعی شده که جنگ هوایی رژیم ایران را ساقط کرده است؛ مقامات و کارشناسان غربی می‌گویند هیچ نشانه‌ای از از دست رفتن کنترل حکومت وجود ندارد.",
-            "گزارش‌های اطلاعاتی و ارزیابی‌های میدانی که در این خبر بازتاب یافته نشان می‌دهد نهادهای مرکزی قدرت هنوز تحت کنترل هستند و اعلام فروپاشی توسط واشینگتن تأیید نشده است.",
-            "اگرچه فروپاشی فوری دیده نمی‌شود، اما فشار خارجی و تحریم‌ها به‌صورت ساختاری ظرفیت اقتصادی و مشروعیت رژیم را تضعیف می‌کند و بحران‌های اقتصادی و نارضایتی داخلی می‌تواند در میان‌مدت تهدیدی جدی برای ثبات باشد."
-        ],
-        "impact": "عدم تحقق ادعای تبلیغاتی درباره ساقط شدن رژیم، نشانگر تداوم تمرکز قدرت در تهران و ضرورت برنامه‌ریزی برای فشارهای بلندمدت اقتصادی و حمایت از اعتراضات داخلی است.",
-        "tag": "ثبات",
-        "urgency": 3,
-        "sentiment": -0.4,
-        "source": "NBC News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/despite-trumps-claims-theres-no-indication-irans-regime-has-lost-power-western-officials-and-experts-say/ar-AA1ZXkT0",
-        "clean_url": "https://www.msn.com/en-us/news/world/despite-trumps-claims-theres-no-indication-irans-regime-has-lost-power-western-officials-and-experts-say/ar-AA1ZXkT0",
-        "image": "http://www.bing.com/th?id=ONUT.e81tjbUxfOL-knqWnMZxeA&pid=News",
-        "timestamp": 1775063585.0
-    },
-    {
-        "title_fa": "ترامپ به رویترز: آمریکا ایران را «خیلی سریع» ترک می‌کند و در صورت نیاز بازمی‌گردد",
-        "title_en": "US to leave Iran 'pretty quickly' and return if needed, Trump tells Reuters",
-        "summary": [
-            "دونالد ترامپ در گفت‌وگو با رویترز اعلام کرد که آمریکا ایران را «خیلی سریع» ترک خواهد کرد و در صورت لزوم باز خواهد گشت.",
-            "این اظهارنظر بیانگر رویکرد خروجی مشروط واشنگتن و نوسان در تعهدات سیاسی-امنیتی آمریکا نسبت به حضور و فشار بر تهران است.",
-            "پیام سیاسی این است که امکان کاهش موقت فشار خارجی یا تغییر در نحوه اجرای آن وجود دارد؛ چنین تغییری می‌تواند پیامدهای منطقه‌ای و داخلی قابل‌توجهی داشته باشد."
-        ],
-        "impact": "خروج مشروط آمریکا می‌تواند فشار خارجی و اجبار تحریمی را موقتاً تضعیف کند و فضای مانور رژیم را اندکی افزایش دهد، اما نوسان و عدم‌ثبات راهبردی واشنگتن نیز می‌تواند به افزایش ریسک بی‌ثباتی و رفتارهای محاسبه‌نشده در منطقه بینجامد.",
-        "tag": "امنیتی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/us-to-leave-iran-pretty-quickly-and-return-if-needed-trump-tells-reuters/ar-AA1ZVDhk",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-to-leave-iran-pretty-quickly-and-return-if-needed-trump-tells-reuters/ar-AA1ZVDhk",
-        "image": null,
-        "timestamp": 1775060950.0
-    },
-    {
-        "title_fa": "مسیر ترامپ تعیین‌کننده هم‌راستایی آمریکا و اسرائیل علیه ایران خواهد بود",
-        "title_en": "Trump’s path forward on Iran will determine US-Israeli war alignment",
-        "summary": [
-            "سرنوشت سیاست ترامپ نسبت به ایران تصمیم‌گیرنده نحوه هماهنگی نظامی و سیاسی واشنگتن و تل‌آویو است؛ جهت‌گیری او تعیین می‌کند که آیا تمرکز بر بازدارندگی و دیپلماسی خواهد بود یا هم‌آهنگی جنگی افزایش می‌یابد.",
-            "در بعد فشار خارجی، هر مسیر تهاجمی‌تر از سوی ترامپ می‌تواند باعث تشدید تحریم‌ها و فشارهای اقتصادی شود؛ این تحریم‌ها ساختارهای اقتصادی جمهوری اسلامی را تضعیف کرده و امکانات بقای رژیم را تحت فشار می‌گذارد.",
-            "تبعات داخلی: شدت‌گیری سیاست خارجی احتمالا شکاف‌های سیاسی و اقتصادی درون کشور را عمیق‌تر می‌کند و نارضایتی عمومی را تشدید می‌نماید؛ موفقیت یا شکست این دینامیک در نهایت بازتاب‌دهنده ضعف‌های مدیریتی و ناکارآمدی حکمرانی خواهد بود."
-        ],
-        "impact": "مسیر تصمیم‌گیری ترامپ می‌تواند هم‌راستایی نظامی و سیاسی آمریکا و اسرائیل را به سطحی برساند که فشارهای خارجی را افزایش و ثبات داخلی رژیم را بیش از پیش تضعیف کند.",
-        "tag": "تنش",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Atlantic Council",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0xPa2Q0TUhKRzhpZHZodWlwd2RSWmxVbTFkTTNtWEs4SUR0TjJjLWI5ckFGTFVTMjZmOXk4Q3JHaWlXS2gxaEwwZ2hYVV9sa1ZORThlY3NsVk1pMFE5OE1VMmZDZEczZXNDWVAzQkY1QlVnVm9DVVZfOU0tbFplWHg1Z3QwMk82Nmc2LV9TUlJmeXZwZHNsV081YzlCWHA2bWNPTjQ5YmQ0TWk1SFllWg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa0xPa2Q0TUhKRzhpZHZodWlwd2RSWmxVbTFkTTNtWEs4SUR0TjJjLWI5ckFGTFVTMjZmOXk4Q3JHaWlXS2gxaEwwZ2hYVV9sa1ZORThlY3NsVk1pMFE5OE1VMmZDZEczZXNDWVAzQkY1QlVnVm9DVVZfOU0tbFplWHg1Z3QwMk82Nmc2LV9TUlJmeXZwZHNsV081YzlCWHA2bWNPTjQ5YmQ0TWk1SFllWg",
-        "image": null,
-        "timestamp": 1775060662.0
-    },
-    {
-        "title_fa": "ترامپ پنج هدف برای جنگ با ایران را مطرح کرد؛ اینجا وضعیت آنها",
-        "title_en": "Trump Laid Out Five Goals for the Iran War. Here’s Where They Stand.",
-        "summary": [
-            "آمریکا و اسرائیل به قابلیت‌های نظامی ایران آسیب جدی وارد کرده‌اند: تضعیف توانمندی‌های متعارف رژیم، کاهش ظرفیت عملیات نظامی کلاسیک و فشار بر زنجیره تأمین تسلیحات.",
-            "با وجود خسارات، ایران هنوز موشک شلیک می‌کند، مواد هسته‌ای دارد و با میلیشیاها در منطقه هماهنگ است؛ یعنی رژیم به‌جای قدرت متعارف به توانمندی‌های نامتقارن و ابزارهای منطقه‌ای متکی باقی مانده است.",
-            "فشار خارجی و ضربات نظامی ساختار ثبات رژیم را فرسوده می‌کند و آن را به تخصیص منابع بیشتر به امنیت و پراکندگی از نیازهای اقتصادی داخلی و کارآمدی حکمرانی واداشته است؛ این وضعیت می‌تواند مشروعیت رژیم را کاهش دهد و ریسک تشدید نارضایتی‌های اجتماعی را بالا ببرد."
-        ],
-        "impact": "خلاصه: ایران از حیث توانمندی متعارف تضعیف شده اما همچنان ظرفیت تهدیدزایی منطقه‌ای و هسته‌ای را حفظ کرده که اهداف استراتژیک واشنگتن و تل‌آویو را پیچیده‌تر می‌کند.",
-        "tag": "تهدید",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html",
-        "clean_url": "https://www.nytimes.com/2026/04/01/us/politics/trump-goals-iran-war.html",
-        "image": "http://www.bing.com/th?id=ONUT.czFKX6ThUozTDiF0HbtQZw&pid=News",
-        "timestamp": 1775059980.0
-    },
-    {
-        "title_fa": "ونس، معاون رئیس‌جمهور آمریکا، تا روز سه‌شنبه از طریق میانجی‌ها درباره درگیری با ایران گفتگو کرد",
-        "title_en": "US VP Vance spoke to intermediaries about Iran conflict as recently as Tuesday, source says",
-        "summary": [
-            "ونس تا روز سه‌شنبه از طریق میانجی‌ها درباره موضوع درگیری با ایران گفتگو کرده است؛ این نشان می‌دهد واشنگتن همچنان به‌صورت فعال از کانال‌های غیرمستقیم برای مدیریت و کاهش ریسک‌ها استفاده می‌کند.",
-            "ادامه این‌گونه روابط میانجی‌گرایانه ساختار فشار دیپلماتیک آمریکا را حفظ می‌کند و می‌تواند زمینه‌ساز تشدید تحریم‌ها یا اقدام‌های هدفمند علیه دارایی‌ها و افراد مرتبط با رژیم شود؛ اثر ساختاری آن بر تضعیف توانمندی‌های تصمیم‌گیری رژیم قابل توجه است.",
-            "گزارش هیچ نشانه‌ای از تغییر میدانی فوری ارائه نمی‌دهد؛ با این حال، استمرار تماس‌ها حاکی از افزایش انزوای بین‌المللی نظام و رشد آسیب‌پذیری نخبگان حاکم است."
-        ],
-        "impact": "تماس‌های ونس روند فشار خارجی را تثبیت می‌کند و احتمال تشدید تحریم‌ها یا اقدامات هدفمند علیه شبکه‌های رژیم را افزایش می‌دهد.",
-        "tag": "فشار",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/us-vp-vance-spoke-to-intermediaries-about-iran-conflict-as-recently-as-tuesday-source-says/ar-AA1ZVRDJ",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-vp-vance-spoke-to-intermediaries-about-iran-conflict-as-recently-as-tuesday-source-says/ar-AA1ZVRDJ",
-        "image": null,
-        "timestamp": 1775057037.0
     }
 ]
