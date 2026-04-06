@@ -180,6 +180,24 @@
         "timestamp": 1775470772.0
     },
     {
+        "title_fa": "ترامپ به ایران هشدار داد ممکن است «تمام نیروگاه‌ها» را هدف قرار دهد؛ ضرب‌الاجل بازگشایی هرمز نزدیک است",
+        "title_en": "Trump warns Iran he may strike 'every power plant' as deadline to reopen Hormuz nears",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، ایران را به تهدید عملیاتی علیه زیرساخت‌های انرژی از جمله «همه نیروگاه‌ها» هشدار داده است.",
+            "معاون رئیس‌جمهور جی.دی. ونس در مذاکرات با حکومت ایران است تا توافق آتش‌بس و بازگشایی تنگه هرمز را تا روز دوشنبه نهایی کند.",
+            "دولت ترامپ فشار دیپلماتیک و تهدید نظامی همزمان را به‌عنوان اهرم برای بازگرداندن دسترسی به آبراه بین‌المللی به کار می‌برد؛ در خود خبر شواهد مستقیم از اعتراضات داخلی یا پیامدهای اقتصادی داخلی ذکر نشده است."
+        ],
+        "impact": "ترکیب تهدید نظامی علنی و مذاکرات فشرده فشار خارجی قابل‌توجهی بر حکومت ایران وارد می‌آورد که توان مانور منطقه‌ای و گزینه‌های سیاسی رژیم را محدود می‌کند، هرچند پیامدهای داخلی بدون شواهد بیشتر نامشخص است.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/trump-iran-war-hormuz-israel-april-6",
+        "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-hormuz-israel-april-6",
+        "image": "http://www.bing.com/th?id=ONUT.-dLuuSSqGZ-MMELgRZ-TLQ&pid=News",
+        "timestamp": 1775470500.0
+    },
+    {
         "title_fa": "حملات هوایی به ایران بیش از ۲۵ کشته؛ پیشنهاد آتش‌بس جدید مطرح شد",
         "title_en": "Airstrikes on Iran kill more than 25 as new ceasefire proposal is shared",
         "summary": [
@@ -430,6 +448,24 @@
         "clean_url": "https://www.reuters.com/world/china/iran-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-2026-04-06",
         "image": null,
         "timestamp": 1775458500.0
+    },
+    {
+        "title_fa": "شوک ایران",
+        "title_en": "The Iran Shock",
+        "summary": [
+            "حمله اولیه آمریکا و اسرائیل به ایران در ۲۸ فوریه ۲۰۲۶ و اقدام تهران برای عملاً بستن تنگه هرمز، بزرگ‌ترین اختلال در جریان‌های انرژی جهان را رقم زد؛ طی سه هفته قیمت نفت ۵۵ درصد افزایش یافت و سوخت‌رسانی، تولید و تأمین انرژی در بسیاری کشورها مختل شد.",
+            "این رویارویی و بسته‌شدن تنگه، فشار خارجی شدیدی بر رژیم تهران اعمال می‌کند و ساختارهای اقتصادی و سیاسی آن را تضعیف می‌سازد؛ این وضعیت ظرفیت تهران برای مدیریت بحران را کاهش داده و پتانسیل افزایش تحریم‌ها و انزوای دیپلماتیک را بالا می‌برد.",
+            "جهش قیمت‌ها و اختلال عرضه فوراً تورم و کندی رشد را تشدید کرده‌اند؛ انتخاب راه‌بندان تنگه به‌عنوان ابزار استراتژیک نشان‌دهنده شکست در مدیریت راهبردی و ضعف حکمرانی اقتصادی است و می‌تواند زمینه‌ساز نارضایتی‌های داخلی گسترده شود."
+        ],
+        "impact": "تداوم بحران انرژی ناشی از بسته‌شدن هرمز، انزوای بین‌المللی تهران را تشدید و توان حکمرانی و بقا سیاسی رژیم را تسریعاً تضعیف خواهد کرد.",
+        "tag": "هرمز",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Foreign Affairs",
+        "url": "https://www.foreignaffairs.com/iran/iran-shock",
+        "clean_url": "https://www.foreignaffairs.com/iran/iran-shock",
+        "image": null,
+        "timestamp": 1775457180.0
     },
     {
         "title_fa": "از معامله تا فروپاشی: پنج آینده راهبردی برای جنگ ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://time.com/article/2026/04/02/iran-threatens-crushing-broader-attacks-us-israel-after-trump-warning",
         "image": "http://www.bing.com/th?id=ONUT.EipCiACD5ivla3F92Bor3A&pid=News",
         "timestamp": 1775112900.0
-    },
-    {
-        "title_fa": "صعود قیمت نفت و گفت‌وگوهای متحدان برای امن‌سازی هرمز پس از وعده ترامپ به تشدید حملات علیه ایران",
-        "title_en": "Oil prices surge, allies discuss securing Hormuz after Trump vows to step up Iran attacks",
-        "summary": [
-            "قیمت نفت به‌سرعت افزایش یافت و بازارها به افزایش ریسک عرضه واکنش نشان دادند؛ متحدان غربی درباره تأمین امنیت تنگه هرمز برای حفظ خطوط انرژی رایزنی کردند.",
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، وعده تشدید حملات علیه ایران داد که امید به پایان سریع جنگ در خاورمیانه را از بین برد و خطر گسترش مستقیم درگیری را بالا برد.",
-            "افزایش فشار نظامی و احتمال تشدید تحریم‌ها ساختار اقتصادی و سیاسی رژیم را بیش‌تر تضعیف می‌کند؛ کاهش دسترسی به درآمدهای نفتی و ارز خارجی می‌تواند نارضایتی عمومی و ریسک بی‌ثباتی داخلی را افزایش دهد."
-        ],
-        "impact": "تحولات کنونی ساختار تضعیف رژیم را تسریع کرده و فضای اقتصادی-سیاسی را به سمت افزایش نارضایتی و تشدید احتمال ناآرامی‌های سراسری سوق می‌دهد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/world/oil-prices-surge-allies-discuss-securing-hormuz-after-trump-vows-to-step-up-iran-attacks/ar-AA200P1C",
-        "clean_url": "https://www.msn.com/en-us/news/world/oil-prices-surge-allies-discuss-securing-hormuz-after-trump-vows-to-step-up-iran-attacks/ar-AA200P1C",
-        "image": "http://www.bing.com/th?id=ONUT.pCmON0AlSgGdL8DJ5kES_g&pid=News",
-        "timestamp": 1775108832.0
-    },
-    {
-        "title_fa": "ترامپ جنگ با ایران را «سرمایه‌گذاری واقعی در فرزندانتان» خواند: به‌روزرسانی زنده",
-        "title_en": "Trump calls Iran war 'a true investment in your children': Live updates",
-        "summary": [
-            "دونالد ترامپ در اظهارنظری جنگ با ایران را «سرمایه‌گذاری واقعی در فرزندانتان» توصیف کرده است؛ متن گزارش محدود به این نقل‌قول است.",
-            "چنین زبانی از سوی رئیس‌جمهور سابق ایالات‌متحده ریسک تشدید تنش‌ها و افزایش فشارهای بین‌المللی بر ایران را بالا می‌برد و می‌تواند امکان برخورد نظامی یا تشدید بحران منطقه‌ای را افزایش دهد.",
-            "این نوع اظهارنظرها در فضای داخلی ایران به‌عنوان عاملی که می‌تواند نارضایتی جامعه و تضعیف بیشتر مشروعیت حکمرانی را تشدید کند تعبیر می‌شود؛ واکنش‌های سیاسی و اجتماعی در داخل و بیرون ایران باید زیرنظر گرفته شود."
-        ],
-        "impact": "اظهارنظر ترامپ احتمال تشدید بحران و افزایش فشار بین‌المللی و داخلی علیه جمهوری اسلامی را بالا می‌برد و ریسک گسترش درگیری را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/04/02/iran-war-news-updates-trump--live/89429564007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/02/iran-war-news-updates-trump--live/89429564007",
-        "image": "http://www.bing.com/th?id=ONUT.ZqQ_OFYIH6ULrBqmQWPXGQ&pid=News",
-        "timestamp": 1775107920.0
     }
 ]
