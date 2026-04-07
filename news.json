@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "وقتی ضرب‌الاجل ترامپ منقضی می‌شود چه اتفاقی می‌افتد؟",
+        "title_en": "What Happens When Trump's Deadline Expires?",
+        "summary": [
+            "تیتر ادعایی بررسی پیامدهای «ضرب‌الاجل ترامپ» را مطرح می‌کند اما متن ارائه‌شده حاوی گزارش مرتبط نیست.",
+            "محتوای صفحه شامل مجموعه‌‌داستان‌های وب نامرتبط (مناظر سینمایی کویمباتوره، دستور پخت کالزون اسفناج، فهرست کلیساهای قدیمی هند) است و هیچ تحلیل سیاسی یا خبری درباره ضرب‌الاجل وجود ندارد.",
+            "بدون متن تحلیلی یا داده‌های تکمیلی، امکان ارزیابی تأثیرات خارجی، تحریم‌ها یا واکنش‌های داخلی نسبت به پایان هر ضرب‌الاجل وجود ندارد؛ گزارش تکمیلی ضروری است."
+        ],
+        "impact": "عدم وجود محتوای مرتبط مانع از هر ارزیابی معتبر درباره پیامدهای سیاسی یا دیپلماتیک انقضای ضرب‌الاجل می‌شود.",
+        "tag": "ناکافی",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Rediff.com",
+        "url": "https://www.rediff.com/news/special/what-happens-when-trumps-deadline-expires/20260407.htm",
+        "clean_url": "https://www.rediff.com/news/special/what-happens-when-trumps-deadline-expires/20260407.htm",
+        "image": "https://im.rediff.com/1200-630/news/2026/apr/07iran-crisis-prem1.jpg",
+        "timestamp": 1775553840.0
+    },
+    {
+        "title_fa": "بروزرسانی زنده: جدیدترین اخبار از اسرائیل، ایران و خاورمیانه",
+        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "summary": [
+            "این برگه یک صفحه بروزرسانی زنده است که ادعای پوشش اسرائیل، ایران و خاورمیانه را دارد اما متن ارسالی هیچ حادثه مشخص یا گزارش تحلیلی ارائه نمی‌کند.",
+            "بخش‌های فهرست‌شده شامل عناوین متنوعی مانند IPL 2026 و نام شهرهای هند است که نشان می‌دهد صفحه ترکیبی خبری/ترند است و نباید به‌عنوان گزارش یک رویداد خاص تلقی شود.",
+            "بر مبنای گزیده ارائه‌شده، هیچ اطلاعاتی در مورد تحریم، عملیات نظامی، سرکوب داخلی یا بحران اقتصادی تأیید نمی‌شود؛ باید منتظر به‌روزرسانی‌های بعدی ماند تا هرگونه تغییر صریح ثبت شود."
+        ],
+        "impact": "در حالت فعلی این متن اطلاعات عملیاتی یا تحلیلی قابل اتکا فراهم نمی‌کند؛ لازم است منبع زنده را پیگیری کنیم تا هر تشدید فوری رصد شود.",
+        "tag": "پایش",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The Jerusalem Post",
+        "url": "https://news24online.com/world/us-iran-israel-war-live-updates-middle-east-conflict-donald-trump-warn-strikes-tehran-strait-of-hormuz-deadline-oil-prices-dubai-uae/796297/",
+        "clean_url": "https://news24online.com/world/us-iran-israel-war-live-updates-middle-east-conflict-donald-trump-warn-strikes-tehran-strait-of-hormuz-deadline-oil-prices-dubai-uae/796297",
+        "image": null,
+        "timestamp": 1775552405.0
+    },
+    {
+        "title_fa": "ارتش اسرائیل به ایرانیان: ۱۲ ساعت آینده از سفر با قطار خودداری کنید — «خطر برای جان‌ها»",
+        "title_en": "IDF Tells Iranians to Avoid Trains for Next 12 Hours, Cites 'Danger to Lives'",
+        "summary": [
+            "ارتش اسرائیل (IDF) به ایرانیان اعلام کرده طی ۱۲ ساعت آینده از استفاده از قطارها خودداری کنند و دلیل را «خطر برای جان‌ها» عنوان کرده است.",
+            "این هشدار عملیاتی خارجی به‌مثابه فشار نظامی/روان‌افکنی عمل می‌کند و توانایی رژیم در تضمین امنیت شبکه حمل‌ونقل و کنترل شهری را زیر سوال می‌برد؛ ضرورت تخصیص منابع اضطراری را افزایش می‌دهد.",
+            "قطع یا تهدید خطوط حمل‌ونقل عمومی بلافاصله پیامدهای اقتصادی و اجتماعی دارد: اختلال در تردد، خسارت کوتاه‌مدت اقتصادی و تشدید بی‌اعتمادی عمومی نسبت به مدیریت بحران."
+        ],
+        "impact": "این هشدار مستقیم می‌تواند کارآمدی رژیم در حفظ امنیت داخلی را تضعیف کند و موجی از نارضایتی و اختلال اقتصادی کوتاه‌مدت پدید آورد.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Haaretz",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUkZLcmZiZXJPRnE1U19NYWNlLUlBdzNiYVlBSmtlQ0hpMmhIcFhYcDhNa2xUU3BOZV81MzJ1cGUxQ1BVZi1DekJ6MTNORVdwTVF3SDFSUkFneERsdkZpWXdVNUpNVE4wZ0wxbm5aYWhJQlktdVBiQ0xVckpxMlBGTjQxaXZEMGpvT1lyWUs0a3FlSkxBc28zbXFIU3JNLXdKa29TUHFtNTVTUFNmSUhMN1luYThKZjU5MXJXdTU1ZFkxbHJMeHU5RTdJTElDcGptS21MU0ZlU1RKbUFXRzNuMGJMSlk1ckx4azE3SzNLLWVMamJCNlYzclh1NTEtWXh2Ny1MZkNRMUJIbDVqVXV4TC1TZUNIN2ZZMGpv?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPUkZLcmZiZXJPRnE1U19NYWNlLUlBdzNiYVlBSmtlQ0hpMmhIcFhYcDhNa2xUU3BOZV81MzJ1cGUxQ1BVZi1DekJ6MTNORVdwTVF3SDFSUkFneERsdkZpWXdVNUpNVE4wZ0wxbm5aYWhJQlktdVBiQ0xVckpxMlBGTjQxaXZEMGpvT1lyWUs0a3FlSkxBc28zbXFIU3JNLXdKa29TUHFtNTVTUFNmSUhMN1luYThKZjU5MXJXdTU1ZFkxbHJMeHU5RTdJTElDcGptS21MU0ZlU1RKbUFXRzNuMGJMSlk1ckx4azE3SzNLLWVMamJCNlYzclh1NTEtWXh2Ny1MZkNRMUJIbDVqVXV4TC1TZUNIN2ZZMGpv",
+        "image": null,
+        "timestamp": 1775551140.0
+    },
+    {
         "title_fa": "گزارش: ادعاهای ترامپ درباره جنگ با ایران «نادرست و اثبات‌نشده» بود",
         "title_en": "Trump made 'false, unsubstantiated' claims on Iran war: Report",
         "summary": [
@@ -90,6 +144,42 @@
         "timestamp": 1775531806.0
     },
     {
+        "title_fa": "به‌روزرسانی زنده: ایران بی‌تأثر در برابر ضرب‌الاجل ترامپ درباره هرمز",
+        "title_en": "Live updates: Iran defiant as Trump's Hormuz deadline nears",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، تهدید کرده است که در صورت بازنشدن تنگه هرمز تا ساعت ۲۰ به‌وقت شرقی، نیروگاه‌ها و پل‌های ایران را بمباران خواهد کرد؛ خبر حاکی از بالا گرفتن تنش مستقیم بین واشینگتن و تهران است.",
+            "این سطح از تهدید نظامی فشار خارجی را به‌شدت افزایش می‌دهد و می‌تواند دسترسی به خطوط تجاری، سرمایه‌گذاری و منابع مالی دولت را بیشتر محدود کند؛ چنین فشاری ساختار سیاسی و اقتصادی رژیم را تضعیف خواهد کرد.",
+            "هرگونه حمله یا قطع گسترده زیرساخت‌ها به اختلال در تأمین برق و تولید صنعتی منجر می‌شود و احتمالاً نارضایتی عمومی و فشارهای اجتماعی بر حکومت را تشدید می‌کند؛ مدیریت موجود در مقابله با این شوک‌ها آزموده خواهد شد."
+        ],
+        "impact": "تهدید مستقیم آمریکا ریسک تشدید رویارویی نظامی را افزایش داده و هم‌زمان فشار اقتصادی و اجتماعی بر رژیم را بالا می‌برد که بقای سیاسی آن را در معرض آزمون قرار می‌دهد.",
+        "tag": "بحران",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039",
+        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039",
+        "image": "http://www.bing.com/th?id=ONUT.eptJDUXoEht37h6nr5F-Pw&pid=News",
+        "timestamp": 1775529120.0
+    },
+    {
+        "title_fa": "کنترل گزینشی ایران بر تنگه هرمز؛ اهرم فشار یا تهدید به اقتصاد جهانی",
+        "title_en": "What to Know About Iran’s ‘Selective’ Closure of the Strait of Hormuz—and Why It Matters",
+        "summary": [
+            "کنترل عملی تهران بر تنگه هرمز به‌آن اجازه می‌دهد عبور انتخابی کشتی‌ها را تضمین یا محدود کند و این اهرم فشار در برابر تهدیدهای دوران ترامپ را تقویت می‌کند.",
+            "توانایی افزون بر اختلال در مسیرهای حامل نفت، بازار جهانی انرژی را به نوسان قیمت‌ها و افزایش هزینه‌های بیمه و حمل‌ونقل حساس می‌کند و خطر تأثیرگذاری فوری بر اقتصادهای وابسته به نفت را بالا می‌برد.",
+            "در سطح داخلی، تسلط بر تنگه فشار کوتاه‌مدتی به رژیم می‌دهد اما تأثیرات ساختاری تحریم‌ها و سوءمدیریت اقتصادی را حذف نمی‌کند و می‌تواند رگه‌های نارضایتی عمومی را تشدید کند."
+        ],
+        "impact": "کنترل گزینشی تنگه هرمز به تهران اهرم قابل‌توجهی برای کاهش فشار خارجی می‌دهد اما خطر تشدید درگیری نظامی و تضعیف بیشتر وضع اقتصادی داخلی را افزایش می‌دهد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/04/07/strait-of-hormuz-countries-pass-deals-iran-us-war-trump/",
+        "clean_url": "https://time.com/article/2026/04/07/strait-of-hormuz-countries-pass-deals-iran-us-war-trump",
+        "image": "http://www.bing.com/th?id=ONUT.34Btt8RnPBCguJKEkIWWRQ&pid=News",
+        "timestamp": 1775527440.0
+    },
+    {
         "title_fa": "تهدید ترامپ به «نابودی یک‌شبه ایران»؛ تهران و تل‌آویو در موضع تدافعی",
         "title_en": "Iran defiant as Trump warns ‘entire country’ could be taken out if no deal reached by Tuesday",
         "summary": [
@@ -142,6 +232,24 @@
         "clean_url": "https://edition.cnn.com/2026/04/07/middleeast/iran-trump-deadline-infrastructure-what-we-know",
         "image": "http://www.bing.com/th?id=ONUT.Y-bxhnwKy_VZ1JvxMhdsJQ&pid=News",
         "timestamp": 1775517600.0
+    },
+    {
+        "title_fa": "به‌روزرسانی جنگ ایران: ضرب‌الاجل ترامپ نزدیک می‌شود؛ نشانه‌ای از پیشرفت دیپلماتیک نیست",
+        "title_en": "Iran War Live Updates: Trump’s Deadline Draws Closer With No Sign of Diplomatic Breakthrough",
+        "summary": [
+            "تهدید مستقیم کاخ سفید به نابودی پل‌ها و نیروگاه‌ها در صورت بازگشایی تنگه هرمز، خطر تبدیل تنش به اقدام نظامیِ ملموس را افزایش می‌دهد و آستانه برخورد مستقیم را پایین می‌آورد.",
+            "فشار خارجی و تهدید به حمله به زیرساخت‌های حیاتی، اثر ساختاری بر ثبات رژیم دارد: کاهش توان مدیریت شوک‌های اقتصادی، محدود شدن فضای دیپلماتیک و افزایش هزینه‌های بقا برای حاکمیت.",
+            "تا کنون هیچ نشانه‌ای از پیشرفت دیپلماتیک مشاهده نشده است؛ این بن‌بست ریسک تشدید اختلالات اقتصادی و احتمال تشدید نارضایتی اجتماعی را افزایش می‌دهد، هر چند وقوع واکنش‌های داخلی دقیقاً قابل پیش‌بینی نیست."
+        ],
+        "impact": "خطر مستقیم حمله به زیرساخت‌ها می‌تواند هم‌زمان به تضعیف اقتصادیِ بلندمدت رژیم و افزایش احتمال تشدید درگیری‌های منطقه‌ای منجر شود.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
+        "clean_url": "https://www.nytimes.com/live/2026/04/07/world/iran-war-trump-news",
+        "image": "http://www.bing.com/th?id=ONUT.la6vVhDVH_arIbrrKLnVTw&pid=News",
+        "timestamp": 1775514420.0
     },
     {
         "title_fa": "رد آتش‌بس توسط ایران هم‌زمان با نزدیک شدن ضرب‌الزمان ترامپ برای حمله به زیرساخت‌ها",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites",
         "image": null,
         "timestamp": 1775153288.0
-    },
-    {
-        "title_fa": "گزارش: تسلط فزاینده سپاه همزمان با فروپاشی اقتصادی و شکاف داخلی",
-        "title_en": "IRGC tightening grip as Iran faces economic collapse, internal rift – report",
-        "summary": [
-            "گزارش می‌گوید سپاه پاسداران در حال افزایش کنترل بر نهادهای امنیتی و اقتصادی است تا خلأ ناشی از ضعف مدیریتی و اختلافات درون‌حاکمیتی را پر کند.",
-            "گزارش وضعیت اقتصادی را در آستانه فروپاشی توصیف می‌کند؛ کاهش درآمدها و افت شدید ارزش پول عمومی فشار بر حکومت و نارضایتی اجتماعی را تشدید کرده است.",
-            "اگر گزارش معتبر باشد، فشارهای خارجی و تحریم‌ها سازوکارهای اقتصادی را تضعیف کرده‌اند و در کنار سوءمدیریت داخلی، اتکای رژیم به نیروهای نظامی و امنیتی را افزایش داده‌اند."
-        ],
-        "impact": "پیامد فوری: تسلط بیشتر سپاه ریسک نظامی‌سازی بیشتر سیاست داخلی، تشدید سرکوب اعتراضات و تشدید بحران مشروعیت حکومتی را بالا می‌برد.",
-        "tag": "بحران",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-us/money/general/irgc-tightening-grip-as-iran-faces-economic-collapse-internal-rift/ar-AA200MGG",
-        "clean_url": "https://www.msn.com/en-us/money/general/irgc-tightening-grip-as-iran-faces-economic-collapse-internal-rift/ar-AA200MGG",
-        "image": null,
-        "timestamp": 1775152295.0
-    },
-    {
-        "title_fa": "ایران تقویت دفاعی و استخدام کودکان در آمادگی برای جنگ زمینی",
-        "title_en": "Iran beefs up defenses, recruits children as it prepares for ground war",
-        "summary": [
-            "رژیم تهران اعلام کرده توان دفاعی را تسریع می‌کند و در صورت تهاجم آمریکا «جنگ تمام‌عیار» را وعده داده و تهدید به حملات جدید در خلیج کرده است.",
-            "گزارش از استخدام کودکان برای نیروی شبه‌نظامی حکایت دارد؛ نشانه کمبود نیروی انسانی و فرسایش اجتماعی که مشروعیت حکمرانی را تضعیف می‌کند.",
-            "آمادگی برای برخورد نظامی منابع عمومی را منحرف می‌کند و حساسیت و احتمال تشدید فشارهای بین‌المللی و انزوا را افزایش می‌دهد."
-        ],
-        "impact": "تشدید نظامی همراه با بهره‌گیری از کودکان ثبات داخلی را تضعیف و نارضایتی اجتماعی را افزایش می‌دهد و قابلیت بقای رژیم را به ریسک می‌اندازد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-beefs-up-defenses-recruits-children-as-it-prepares-for-ground-war/ar-AA202vuU",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-beefs-up-defenses-recruits-children-as-it-prepares-for-ground-war/ar-AA202vuU",
-        "image": "http://www.bing.com/th?id=ONUT.IH5DTjOBRP9pLTbDW_u4gQ&pid=News",
-        "timestamp": 1775151000.0
-    },
-    {
-        "title_fa": "جدیدترین: جهش قیمت نفت و تلاطم بورس‌ها؛ دونالد ترامپ پایان روشنی برای جنگ ارائه نکرد",
-        "title_en": "The Latest: Oil prices surge, stocks waver with Trump offering no clear end to war",
-        "summary": [
-            "قیمت نفت به خاطر افزایش ریسک ژئوپولتیک جهش کرده و بازارهای سهام در واکنش به عدم قطعیت سیاسی ناپایدار شده‌اند.",
-            "اظهارات دونالد ترامپ درباره پایان نامشخص جنگ عدم قطعیت راهبردی را تشدید کرده و فشار روانی و سرمایه‌گذاری بر بازارها را بالا برده است.",
-            "برای ایران، نوسان نفت همراه با تحریم‌ها و محدودیت‌های مالی موجود می‌تواند درآمدهای دولت را متزلزل کند و ریسک تشدید بحران اقتصادی و گسترش نارضایتی عمومی را افزایش دهد."
-        ],
-        "impact": "ترکیب جهش قیمت نفت و عدم‌قطعیت سیاسی احتمال افزایش فشار اقتصادی بر رژیم و تشدید نارضایتی اجتماعی را بالا می‌برد.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "washingtonpost.com",
-        "url": "https://www.washingtonpost.com/national/2026/04/02/iran-israel-us-lebanon-latest-april-2-2026/3fa0a7da-2e4a-11f1-aac2-f56b5ccad184_story.html",
-        "clean_url": "https://www.washingtonpost.com/national/2026/04/02/iran-israel-us-lebanon-latest-april-2-2026/3fa0a7da-2e4a-11f1-aac2-f56b5ccad184_story.html",
-        "image": null,
-        "timestamp": 1775150414.0
-    },
-    {
-        "title_fa": "تعطیلی دو بزرگ‌ترین کارخانه فولاد ایران به‌خاطر اعتصاب، شرکت‌ها می‌گویند",
-        "title_en": "Iran's two largest steel plants shut down due to strikes, companies say",
-        "summary": [
-            "شرکت‌ها گزارش داده‌اند که دو بزرگ‌ترین مجتمع فولادی کشور در پی اعتصاب کارکنان متوقف شده‌اند؛ جزئیات گسترده یا مدت زمان تعطیلی هنوز اعلام نشده است.",
-            "خاموشی این واحدهای کلیدی تولیدی به‌معنی کاهش فوری ظرفیت تولید، کاهش درآمد صادراتی و ایجاد اختلال در زنجیره تأمین صنایع پایین‌دستی است که فشار مالی بر دولت و بنگاه‌ها را افزایش می‌دهد.",
-            "اعتصاب در بزرگ‌ترین کارخانه‌ها نشانه‌ای از نارضایتی سازمان‌یافته کارگری و شکست مدیریت حکومتی در حل مسائل صنفی و اقتصادی است؛ این روند می‌تواند ریسک گسترش اعتراضات کارگری را بالا ببرد."
-        ],
-        "impact": "تعطیلی این واحدها ضربهٔ مستقیم به تولید و درآمد ارزی صنعت فولاد وارد می‌کند و فشار اقتصادی و سیاسی بر حکومت را تشدید می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-two-largest-steel-plants-shut-down-due-to-strikes-companies-say/ar-AA201FdZ",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-two-largest-steel-plants-shut-down-due-to-strikes-companies-say/ar-AA201FdZ",
-        "image": null,
-        "timestamp": 1775149268.0
-    },
-    {
-        "title_fa": "تازه: پیت هگست از رندی جورج، عالی‌ترین افسر ارتش، خواست در جریان جنگ با ایران کناره‌گیری کند",
-        "title_en": "The Latest: Hegseth asks the Army’s top uniformed officer to step down during Iran war",
-        "summary": [
-            "پیت هگست، وزیر دفاع آمریکا، روز پنج‌شنبه از رندی جورج، عالی‌ترین افسر یگان‌های ارتش، خواست کناره‌گیری کند؛ پنتاگون دلیل رسمی را اعلام نکرده.",
-            "این جابه‌جایی در حالی رخ داده که تنش‌ها و درگیری‌ها با ایران ادامه دارد؛ فقدان توضیح رسمی خلأ اطلاعاتی ایجاد کرده و نشان‌دهنده احتمال اختلاف در سطوح فرماندهی یا فشار سیاسی بر رهبری نظامی است.",
-            "پیامد داخلی محتمل شامل تضعیف موقت انسجام فرماندهی، افزایش نظارت کنگره و رسانه‌ها، و تقویت روایت‌ درباره سوءمدیریت و کمبود شفافیت در مدیریت بحران‌های نظامی-سیاسی خواهد بود."
-        ],
-        "impact": "عملیاتی، سیاسی و نظارتی؛ احتمال کاهش موقت ثبات فرماندهی در میدانی که نیاز به ثبات دارد و تشدید فشارهای سیاسی بر تصمیم‌گیران مرتبط با درگیری ایران.",
-        "tag": "ارتش",
-        "urgency": 9,
-        "sentiment": -0.4,
-        "source": "WPLG Local 10",
-        "url": "https://www.local10.com/news/world/2026/04/02/the-latest-iran-and-israel-keep-up-attacks-as-trump-insists-us-will-hit-even-harder/",
-        "clean_url": "https://www.local10.com/news/world/2026/04/02/the-latest-iran-and-israel-keep-up-attacks-as-trump-insists-us-will-hit-even-harder",
-        "image": "http://www.bing.com/th?id=ONUT.YxR0-Bode1FH6sf3XxmbgQ&pid=News",
-        "timestamp": 1775149020.0
-    },
-    {
-        "title_fa": "جنگ ایران-آمریکا: مکرون به ترامپ گفت «لازم نیست هر روز صحبت کنید»",
-        "title_en": "Iran-US war: Macron tells Trump 'don't speak every day' in new attack",
-        "summary": [
-            "مکرون به طور آشکار از رویکرد جنگ‌طلبانه ترامپ انتقاد کرد و گفت نیازی به موضع‌گیری روزانه نیست.",
-            "او صریحاً اعلام کرد بازگشایی تنگه هرمز به‌صورت نظامی «کارساز نخواهد بود».",
-            "این اظهارات اختلاف بین متحدان غربی در مورد راه‌حل نظامی علیه ایران را نمایان می‌سازد و خواستار خویشتن‌داری دیپلماتیک است."
-        ],
-        "impact": "فشار دیپلماتیک فرانسه می‌تواند مسیر را از تشدید نظامی فوری دور کند و در کوتاه‌مدت مانع افزایش مستقیم فشار خارجی بر رژیم ایران شود.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/world/iran-us-war-macron-tells-trump-dont-speak-every-day-in-new-attack/ar-AA1ZYO1e",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-macron-tells-trump-dont-speak-every-day-in-new-attack/ar-AA1ZYO1e",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1LTSIo.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1775148323.0
     }
 ]
