@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ترامپ تهدیدهایش علیه ایران را برای دو هفته مشروط به توافق درباره آتش‌بس عقب می‌کشد",
+        "title_en": "Trump pulls back on his Iran threats for 2 weeks, subject to Iran agreeing to ceasefire",
+        "summary": [
+            "عقب‌نشینی موقت تهدیدهای نظامی آمریکا فشار خارجی مستقیم را کاهش می‌دهد، اما این فاصله دو هفته‌ای ساختارهای آسیب‌پذیر رژیم در حوزه‌های اقتصادی و سیاسی را برطرف نمی‌کند و می‌تواند فرصت بقا به آن بدهد.",
+            "گزارش هیچ اشاره‌ای به نقش روسیه، چین یا کره‌شمالی ندارد؛ بنابراین نباید بدون شواهد فرض کرد که بازیگران خارجی بزرگ در این تصمیم نقش تعیین‌کننده داشته‌اند.",
+            "هیچ نشانه‌ای در این خبر از تأثیر مستقیم بر اعتراضات داخلی یا وضعیت اقتصادی ارائه نشده است؛ اثر نهایی به واکنش داخل ایران و تصمیم‌های بعدی واشنگتن بستگی دارد."
+        ],
+        "impact": "این عقب‌نشینی موقتی خطر رویارویی نظامی فوری را کاهش می‌دهد اما تغییری اساسی در ضعف‌های ساختاری و سیاست خارجی رژیم ایجاد نمی‌کند و تنها زمان محدودی برای بازتنظیم به آن می‌دهد.",
+        "tag": "کاهش‌تنش",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXBFdy0zMGlQWDZGMFltS19ibFltTkltaWI4QnZrWlN2VGxpMUNWRWVLamI5Y2JDUlpOQXg3U01KenFwQ1hhVE1majhvLWVOQVlJSHFUNF9UYVg0dmhHYzVZcUtGcC1RaTlVVnZwclR3TmhXS2FTbEJjTFVaRE1DTVFUQnluUDVnUS1WMjd4ZGRjZW1udDVycV85Wl9OX0JEWmY4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeXBFdy0zMGlQWDZGMFltS19ibFltTkltaWI4QnZrWlN2VGxpMUNWRWVLamI5Y2JDUlpOQXg3U01KenFwQ1hhVE1majhvLWVOQVlJSHFUNF9UYVg0dmhHYzVZcUtGcC1RaTlVVnZwclR3TmhXS2FTbEJjTFVaRE1DTVFUQnluUDVnUS1WMjd4ZGRjZW1udDVycV85Wl9OX0JEWmY4",
+        "image": null,
+        "timestamp": 1775603640.0
+    },
+    {
+        "title_fa": "ترامپ آتش‌بس با ایران را پیش از مهلت ساعت ۲۰ اعلام کرد",
+        "title_en": "Trump announces Iran ceasefire ahead of 8 p.m. deadline",
+        "summary": [
+            "طبق گزارش Politico، ترامپ اعلام کرد آتش‌بس با ایران پیش از مهلت تعیین‌شده ساعت ۲۰ برقرار می‌شود.",
+            "از منظر فشار خارجی، این اعلام می‌تواند از تشدید نظامی فوری جلوگیری کند و موقتاً فضای دیپلماتیک و فشار بین‌المللی را تغییر دهد، اما تضمینی برای کاهش ساختاری توانایی رژیم در بقا نیست.",
+            "در داخل کشور، آتش‌بس ممکن است نارضایتی عمومی و فشارهای اقتصادی را برای کوتاه‌مدت کاهش دهد، اما سوءمدیریت و بحران‌های ساختاری رژیم را پوشش نمی‌دهد و تنش‌ها می‌توانند بازگشت کنند."
+        ],
+        "impact": "آتش‌بس موقتی ریسک برخورد نظامی فوری را کاهش می‌دهد اما به رژیم فرصتی کوتاه‌مدت برای بازتنفس سیاسی و اقتصادی می‌دهد بدون حل ریشه‌ای بحران‌ها.",
+        "tag": "آتش‌بس",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/04/07/donald-trump-iran-war-ceasefire-00863103",
+        "clean_url": "https://www.politico.com/news/2026/04/07/donald-trump-iran-war-ceasefire-00863103",
+        "image": null,
+        "timestamp": 1775601745.0
+    },
+    {
         "title_fa": "تهدید ترامپ به «نابودی یک تمدن» در صورت عدم توافق",
         "title_en": "Trump threatens to destroy Iranian ‘civilization’ if a deal isn’t reached",
         "summary": [
@@ -198,6 +234,24 @@
         "timestamp": 1775579951.0
     },
     {
+        "title_fa": "ترامپ تهدید به نابودی «کل یک تمدن» را پس گرفت و دو هفته به ایران مهلت داد",
+        "title_en": "Trump pulls back threats of destroying ‘whole civilization,’ gives Iran two more weeks",
+        "summary": [
+            "رئیس‌جمهور آمریکا هشدار داد «کل یک تمدن خواهد مرد» اگر ایران تا ساعت ۵ عصر تنگه هرمز را به‌طور کامل باز نکند، سپس تهدید را پس گرفت و مهلت دو هفته‌ای اعلام کرد.",
+            "این نوع زبان تهدیدآمیز و تمدید مهلت، فشار خارجی را حفظ می‌کند و می‌تواند انزوای بین‌المللی و فشار اقتصادی-سیاسی بر تهران را تشدید کند و در نتیجه ساختار ثبات رژیم را تضعیف نماید.",
+            "عقب‌نشینی از لحن نابودی فاجعه‌بار خطر برخورد نظامی فوری را کاهش می‌دهد اما مهلت دو هفته‌ای عدم‌قطعیت را ادامه می‌دهد و فرصت برای بروز پیامدهای ناشی از سوءمدیریت حکمرانی و افزایش نارضایتی داخلی فراهم می‌آورد."
+        ],
+        "impact": "عقب‌نشینی موقت از تهدید نابودی درجه تنش را پایین می‌آورد اما مهلت دو هفته‌ای فشار نظامی-سیاسی را حفظ کرده و در مجموع ثبات سیاسی و اقتصادی رژیم را بیشتر تضعیف می‌کند.",
+        "tag": "تهدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Los Angeles Times",
+        "url": "https://www.latimes.com/world-nation/live/iran-war-updates-trump-deadline-news",
+        "clean_url": "https://www.latimes.com/world-nation/live/iran-war-updates-trump-deadline-news",
+        "image": "http://www.bing.com/th?id=ONUT.x9FWmN0eNl5TzJDevf-BTw&pid=News",
+        "timestamp": 1775577420.0
+    },
+    {
         "title_fa": "اروپا در جنگ با ایران اهرم دارد؛ باید از آن استفاده کند",
         "title_en": "Europe Has Leverage in the Iran War. It Should Use It.",
         "summary": [
@@ -250,6 +304,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/as-trump-s-deadline-nears-last-ditch-effort-seeks-iran-ceasefire/ar-AA20m7Zm",
         "image": "http://www.bing.com/th?id=ONUT.m0c0pZlaZrGJWytvSDqOcQ&pid=News",
         "timestamp": 1775572912.0
+    },
+    {
+        "title_fa": "جهش بازارها و سقوط نفت پس از تعلیق دو هفته‌ای حملات آمریکا به ایران",
+        "title_en": "Dow futures jump 700 points, oil tumbles after Trump suspends Iran attacks for two weeks: Live updates",
+        "summary": [
+            "دونالد ترامپ، رییس‌جمهور آمریکا، اعلام کرد حملات به ایران برای دو هفته به تعویق افتاده؛ قرارداد موقت مبتنی بر پیشنهاد ده‌نقطه‌ای ایران و شرط باز کردن تنگه هرمز است.",
+            "شاخص‌های آتی وال‌استریت به‌سرعت رشد کردند و نفت وست تگزاس حدود ۱۳٪ کاهش یافت؛ واکنشِ بازارها بازتاب کاهش ریسک جنگی کوتاه‌مدت است.",
+            "شورای عالی امنیت ملی ایران با مذاکره دو هفته‌ای در پاکستان موافقت کرده و اسرائیل نیز به گزارش‌ها پایبند شده؛ اما چارچوب زمانی دو هفته‌ای، بازارها و بازیگران منطقه‌ای را محتاط نگه داشته است."
+        ],
+        "impact": "این آتش‌بس موقت فشار نظامی و شوک قیمتی نفت را فوراً کاهش می‌دهد اما بدون تضمین حل سیاسی، فشار خارجی و تهدید به حمله تکراری همچنان ثبات سیاسی-اقتصادی رژیم را در میان‌مدت آسیب‌پذیر نگه می‌دارد.",
+        "tag": "آتش‌بس",
+        "urgency": 9,
+        "sentiment": -0.5,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/07/stock-market-today-live-updates.html",
+        "clean_url": "https://www.cnbc.com/2026/04/07/stock-market-today-live-updates.html",
+        "image": "http://www.bing.com/th?id=ONUT.A_ULpkugAQ2S82rvEfn3Qg&pid=News",
+        "timestamp": 1775570220.0
     },
     {
         "title_fa": "ترامپ در حال بررسی تمدید دو هفته‌ای در آستانه فرا رسیدن مهلت؛ گزارش‌های زنده درباره جنگ با ایران",
@@ -484,6 +556,24 @@
         "clean_url": "https://www.foxnews.com/world/irans-un-ambassador-takes-swipe-trump-final-hours-strait-hormuz-deadline",
         "image": "http://www.bing.com/th?id=ONUT.pUKwjJ64ApxRWqGiF5W01g&pid=News",
         "timestamp": 1775561460.0
+    },
+    {
+        "title_fa": "ترامپ: آتش‌بس دو هفته‌ای در ازای بازگشایی تنگه هرمز تا ساعت ۲۰ به وقت ET",
+        "title_en": "Trump Agrees to Two-Week Cease-Fire With Iran if Hormuz Re-Opened",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، شرط گذاشته که اگر تهران تنگه هرمز را باز کند، واشنگتن آتش‌بس دو هفته‌ای را خواهد پذیرفت.",
+            "مهلت نهایی اجرای این خواست به‌صورت مشخص تا ساعت ۲۰ به وقت شرقی تعیین شده؛ اقدامی آشکار برای اعمال فشار سریع و مستقیم بر تردد نفت و کشتیرانی ایران.",
+            "این پیشنهاد موقت، هم امکان کاهش تنش در کوتاه‌مدت را فراهم می‌کند و هم اهرمی برای تحمیل هزینه‌های سیاسی و اقتصادی بر رژیم حاکم در تهران ایجاد می‌کند."
+        ],
+        "impact": "فشار خارجی بر رژیم افزایش می‌یابد و تهران را بین دو گزینه دشوار قرار می‌دهد: پذیرفتن بازگشایی و پذیرش تضعیف سیاسی-عملی یا رد کردن و مواجه شدن با خطر تشدید نظامی و تحریم‌های سخت‌تر.",
+        "tag": "فشار",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/iran-war-2026-trump-deadline-latest-news",
+        "clean_url": "https://www.wsj.com/livecoverage/iran-war-2026-trump-deadline-latest-news",
+        "image": "http://www.bing.com/th?id=ONUT.YEcXRJTVnNNcLbpfOwR-pg&pid=News",
+        "timestamp": 1775560320.0
     },
     {
         "title_fa": "آیا ترامپ عملیات را اجرا می‌کند؟ گزارش زنده: جنگ با ایران",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.fpri.org/article/2026/04/pathways-for-the-war-with-iran",
         "image": "https://www.fpri.org/wp-content/uploads/2026/04/feat-april3-1024x344.jpg",
         "timestamp": 1775220420.0
-    },
-    {
-        "title_fa": "سرنگونی جنگنده آمریکایی توسط ایران؛ بالا رفتن خطر تشدید درگیری",
-        "title_en": "Iran downs US fighter jet, raising stakes in war",
-        "summary": [
-            "رویداد: ایران یک جنگنده آمریکایی را سرنگون کرده و احتمال حضور یک نظامی آمریکایی زنده و در حال فرار داخل خاک ایران، معادلات واشنگتن را به‌طور مستقیم بحرانی کرده است.",
-            "تحریم‌ها و فشار خارجی: این وضعیت به واشنگتن بهانهٔ افزایش فشار نظامی و تحریمی می‌دهد که می‌تواند ساختار اقتصادی و توان حکمرانی رژیم را تضعیف کند؛ کاهش سرمایه‌گذاری خارجی، اثر بر نرخ ارز و تشدید دشواری‌های بودجه‌ای از نتایج محتمل است.",
-            "اقتصاد و نارضایتی داخلی: برخوردهای نظامیِ پرخطر نشانهٔ مدیریت راهبردی نامناسب و شکستِ توان بازدارندگی حکومتی است؛ احتمال تقویت سرکوب داخلی، افزایش هزینه‌های نظامی و تشدید نارضایتی عمومی وجود دارد که ثبات داخلی را بیشتر به خطر می‌اندازد."
-        ],
-        "impact": "این حادثه شانس تشدید مداخله نظامی و فشار تحریمی آمریکا را افزایش می‌دهد و به‌طور ملموسی ثبات سیاسی-اقتصادی رژیم را تضعیف می‌کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/us-vows-target-more-iranian-infrastructure-nations-seek-open-hormuz-2026-04-03/",
-        "clean_url": "https://www.reuters.com/world/middle-east/us-vows-target-more-iranian-infrastructure-nations-seek-open-hormuz-2026-04-03",
-        "image": "http://www.bing.com/th?id=ONUT.dXRB3rw-2pA_SlnsrOo3WA&pid=News",
-        "timestamp": 1775220420.0
-    },
-    {
-        "title_fa": "پولیتیکو: برای آمریکا نابود کردن ذخایر موشکی باقیمانده ایران دشوار خواهد بود",
-        "title_en": "It will be difficult for US to destroy Iran's remaining missile stockpiles — Politico",
-        "summary": [
-            "گزارش منسوب به پولیتیکو می‌گوید توانایی آمریکا برای از بین بردن کامل ذخایر موشکی باقی‌مانده ایران محدود و مشکل است.",
-            "این واقعیت نشان می‌دهد که حکومت ایران ظرفیت‌های پراکنده و مقاومتی در توان موشکی ایجاد کرده که خنثی‌سازی آن فراتر از حملات نقطه‌ای ساده است.",
-            "در بُعد داخلی، ادامه اولویت‌دهی به برنامه موشکی در مقابل نیازهای اقتصادی می‌تواند حوزه آسیب‌پذیری رژیم را تغییر دهد و فشارهای اقتصادی و نارضایتی عمومی را تشدید کند."
-        ],
-        "impact": "حفظ ذخایر موشکی ایران، ابزار بازدارندگی و بقا برای حکومت فراهم می‌کند و در عین حال نشان‌دهنده تخصیص منابع به نظامی‌گری است که می‌تواند پایه‌های ناپایداری اقتصادی و سیاسی داخلی را تقویت کند.",
-        "tag": "موشکی",
-        "urgency": 5,
-        "sentiment": -0.7,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2111479",
-        "clean_url": "https://tass.com/world/2111479",
-        "image": null,
-        "timestamp": 1775220240.0
-    },
-    {
-        "title_fa": "سقوط جنگنده اف-۱۵ آمریکایی در ایران؛ جست‌وجو برای خدمه آغاز شد",
-        "title_en": "U.S. Fighter Jet Crashes in Iran, Triggering Search for Crew",
-        "summary": [
-            "یک فروند جنگنده اف-۱۵ متعلق به ایالات متحده در خاک ایران سقوط کرده و آمریکا عملیات بازیابی خدمه را شروع کرده است.",
-            "مقامات ایرانی از شهروندان خواستند ابتدا خودشان خدمه را پیدا کنند؛ این اقدام نشان‌دهنده ضعف عملیاتی یا تلاش برای مهار روایت در غیاب کنترل کامل است.",
-            "حادثه خطر افزایش تنش مستقیم میان تهران و واشینگتن و احتمال پیامدهای دیپلماتیک یا تحریمی را بالا می‌برد."
-        ],
-        "impact": "این سقوط اعتبار و توانایی رژیم در کنترل فضای هوایی و امنیت داخلی را تضعیف می‌کند و می‌تواند به فشار دیپلماتیک و تحریمی بیشتری از سوی ایالات متحده بینجامد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.4,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/04/03/rescuers-search-for-crew-of-u-s-fighter-jet-downed-inside-iran/",
-        "clean_url": "https://time.com/article/2026/04/03/rescuers-search-for-crew-of-u-s-fighter-jet-downed-inside-iran",
-        "image": "http://www.bing.com/th?id=ONUT.aL0gL8PuOZKbq6a4Cn_o1w&pid=News",
-        "timestamp": 1775217180.0
-    },
-    {
-        "title_fa": "نظر: گل به خودی ترامپ در قبال ایران",
-        "title_en": "Opinion | Trump’s Iran own goal",
-        "summary": [
-            "واشنگتن پست در یک مطلب تحلیلی عنوان می‌کند که رویکرد ترامپ نسبت به ایران به‌جای تضعیف نظام، نتیجه معکوس داده و آن را «گل به خودی» توصیف می‌کند.",
-            "نویسنده هشدار می‌دهد که فشار حداکثری و تحریم‌ها نه تنها اهداف سیاست‌گذاران آمریکایی را برآورده نکرده، بلکه هزینه‌های دیپلماتیک و امنیتی برای واشنگتن و متحدانش به همراه داشته است.",
-            "مقاله می‌گوید ادامه همین رویکرد مسیر دیپلماسی را مسدود کرده و حل سیاسی تنش‌های منطقه را دشوارتر می‌سازد."
-        ],
-        "impact": "اگر تحلیل حاضر درست باشد، ادامه سیاست‌های کنونی آمریکا احتمالاً اثربخشی فشار خارجی را کاهش می‌دهد و به تقویت مواضع محافظه‌کارانه در ایران کمک می‌کند.",
-        "tag": "سیاستخارجی",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0pQQldwelU3Ni1yQ19aLTVaZHplWG5MYURqWHhtTlNVUFZpUlFuX0Z5VW12Uk1HRm9iVkJhUXowZGNHa1M5VV9QUG1GWTdCamowQW9XOGR5WXBJVjBhTTl0MHBaYWZrc2VLVVRoOEExSUNfOFo1YmxYcGZCQ0ctOXc3c0hXdzhY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0pQQldwelU3Ni1yQ19aLTVaZHplWG5MYURqWHhtTlNVUFZpUlFuX0Z5VW12Uk1HRm9iVkJhUXowZGNHa1M5VV9QUG1GWTdCamowQW9XOGR5WXBJVjBhTTl0MHBaYWZrc2VLVVRoOEExSUNfOFo1YmxYcGZCQ0ctOXc3c0hXdzhY",
-        "image": null,
-        "timestamp": 1775217048.0
-    },
-    {
-        "title_fa": "رهبران عراق در ترازوی تناسب‌سازی؛ مناقشه با ایران شکاف‌های عمیق را عیان کرد",
-        "title_en": "Iraqi leaders face balancing act as Iran conflict exposes deep rifts",
-        "summary": [
-            "گزارش گاردین می‌گوید رهبران عراق بین حفظ رابطه با ایران و مدیریت فشارهای منطقه‌ای باید توازنی دشوار برقرار کنند؛ مناقشه جاری شکاف‌های عمیق سیاسی داخل الیت حاکم را آشکار ساخته است.",
-            "افزایش تنش با ایران می‌تواند رهبران عراق را در معرض فشارهای خارجی و احتمالی تحریم‌ها یا مداخله دیپلماتیک قرار دهد که ساختار تصمیم‌گیری را تضعیف و فضای سیاست داخلی را قطبی‌تر می‌کند.",
-            "این تنش نشان‌دهنده ضعف در مدیریت امور داخلی است و خطر افزایش نارضایتی عمومی و فرسایش ظرفیت‌های اقتصادی و حکمرانی را بالا می‌برد، خصوصاً اگر اختلافات جناحی مانع از سیاست‌گذاری اقتصادی موثر شوند."
-        ],
-        "impact": "در کوتاه‌مدت شکاف‌های سیاسی را عمیق‌تر می‌کند و در میان‌مدت فضای نفوذ بازیگران خارجی را افزایش می‌دهد که ثبات حکمرانی در بغداد را تضعیف خواهد کرد.",
-        "tag": "شکاف",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDBySXlUYXgwUndaRmctdElrYUd6cE1vN0lraTR4NC1YbnJTWlBuV0tDSlVrSmRNa3Y1UENIb2lpeWRhS3luMy1zUDVzaS1DVlpVenBpVFJWQnQ3dnpIVHM3QzY3ODBBc09INFdrTUF6VjFjOThOT19nV0FLdnpucWtOZnZsRVB2MFJKTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDBySXlUYXgwUndaRmctdElrYUd6cE1vN0lraTR4NC1YbnJTWlBuV0tDSlVrSmRNa3Y1UENIb2lpeWRhS3luMy1zUDVzaS1DVlpVenBpVFJWQnQ3dnpIVHM3QzY3ODBBc09INFdrTUF6VjFjOThOT19nV0FLdnpucWtOZnZsRVB2MFJKTQ",
-        "image": null,
-        "timestamp": 1775216760.0
     }
 ]
