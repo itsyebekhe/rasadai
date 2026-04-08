@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "انحصاری: گزارش اطلاعاتی درباره «تهدید مداوم» ایران به آمریکا هشدار داد در حالی که کاخ سفید خطر را کم‌اهمیت جلوه داد",
+        "title_en": "Exclusive: Intelligence report warned of Iran's 'persistent threat' to US as White House downplayed the risk",
+        "summary": [
+            "گزارش اطلاعاتی داخلی به‌صورت محرمانه ایران را به‌عنوان تهدیدی «مداوم» برای آمریکا ارزیابی کرده است؛ این ارزیابی در تضاد با مواضع عمومی کاخ سفید است.",
+            "کاخ سفید عمومی ریسک را کم‌اهمیت جلوه داد و بدین ترتیب شکاف آشکاری میان جامعه اطلاعاتی و پیام رسمی سیاست خارجی پدید آمد؛ چنین ناهمخوانی پیامی از ضعف تصمیم‌گیری است.",
+            "این تناقض می‌تواند توان بازدارندگی و فرصت‌های فشار دیپلماتیک و تحریمی بر رژیم را تضعیف کند و به حکومت ایران امکان دهد از پیام‌های متناقض برای اجتناب از هزینه‌های سیاسی-اقتصادی بهره‌برداری کند."
+        ],
+        "impact": "پیام‌های متناقض بین نهادهای اطلاعاتی و کاخ سفید خطر کاهش فشار خارجی و تضعیف ابزارهای اعمال هزینه را افزایش می‌دهد که در عمل بقای ساختار حاکمیت را آسان‌تر می‌کند.",
+        "tag": "تهدید",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/us/exclusive-intelligence-report-warned-of-irans-persistent-threat-to-us-as-white-house-downplayed-the-risk/ar-AA20nOs4",
+        "clean_url": "https://www.msn.com/en-us/news/us/exclusive-intelligence-report-warned-of-irans-persistent-threat-to-us-as-white-house-downplayed-the-risk/ar-AA20nOs4",
+        "image": null,
+        "timestamp": 1775622935.0
+    },
+    {
+        "title_fa": "نتانیاهو: آتش‌بس آمریکا–ایران شامل لبنان نمی‌شود",
+        "title_en": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
+        "summary": [
+            "بنیامین نتانیاهو از تعلیق حملات آمریکا به ایران حمایت کرده اما اعلام کرده آتش‌بس دو هفته‌ای شامل عملیات نظامی اسرائیل در لبنان نخواهد بود؛ بدین ترتیب فشار نظامی در جنوب لبنان ادامه خواهد یافت.",
+            "اظهارات نخست‌وزیر پاکستان درباره «آتش‌بس فوری در همه‌جا، از جمله لبنان» با موضع اسرائیل در تضاد است؛ این تناقض نشان‌دهنده فقدان هماهنگی دیپلماتیک و ریسک تشدید رویارویی منطقه‌ای است.",
+            "حزب‌الله می‌گوید حملاتش در واکنش به کشته‌شدن علی خامنه‌ای و نقض آتش‌بس نوامبر ۲۰۲۴ بوده؛ از اول مارس، حملات اسرائیل در لبنان بیش از 1,500 کشته و بیش از 1,000,000 آواره برجای گذاشته و اسرائیل تهاجم به جنوب لبنان و هدف‌گذاری برای تصرف قلمرو را دنبال می‌کند."
+        ],
+        "impact": "استثنا کردن لبنان از آتش‌بس عملاً خطر گسترش جنگ فرامرزی را افزایش می‌دهد، عملیات زمینی اسرائیل را مشروعیت‌بخشیده و شانس راه‌حل دیپلماتیک گسترده را کاهش می‌دهد.",
+        "tag": "لبنان",
+        "urgency": 10,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/netanyahu-says-us-iran-ceasefire-031742583.html",
+        "clean_url": "https://www.yahoo.com/news/articles/netanyahu-says-us-iran-ceasefire-031742583.html",
+        "image": null,
+        "timestamp": 1775620944.0
+    },
+    {
         "title_fa": "رشد اکوسیستم رمزارز ایران به ۷.۷۸ میلیارد دلار تا ۲۰۲۵",
         "title_en": "How Iran is thriving on Bitcoin",
         "summary": [
@@ -36,6 +72,24 @@
         "timestamp": 1775603640.0
     },
     {
+        "title_fa": "آتش‌بس دو هفته‌ای؛ هر دو طرف مدعی پیروزی",
+        "title_en": "Both US and Iran claim victory after two-week ceasefire deal reached",
+        "summary": [
+            "توافق آتش‌بس دو هفته‌ای بین آمریکا و ایران برقرار شد؛ هر دو طرف ادعای پیروزی کردند و پست اجتماعی ترامپ موافقت او را نشان می‌دهد؛ ایران اعلام کرده نیروهایش گذر از تنگه هرمز را هماهنگ خواهند کرد و پاکستان دعوت به گفت‌وگو در اسلام‌آباد صادر کرده است.",
+            "نمودِ شکنندگی توافق: دقایقی پس از اعلام آتش‌بس، گزارش‌هایی از حملات موشکی در گستره خلیج و علیه اسرائیل منتشر شد که نشان می‌دهد پای‌بندی به آتش‌بس ضعیف است و امکان از سرگیری فوری درگیری‌ها وجود دارد.",
+            "پیامدهای راهبردی فوری: توقف موقت تنش‌ها فشار دیپلماتیک و نظامی خارجی را قسرق می‌کند اما تعلیقِ موقتی هیچ تضمینی برای تداوم ندارد؛ غیبت هرگونه اشاره به تحریم‌ها یا اعتراضات داخلی در خبر مانع از نتیجه‌گیری قطعی درباره ثبات داخلی رژیم نیست، اما وضع امنیتی پرنوسان به سرعت می‌تواند اقتدار و ظرفیت عملیاتی رژیم را تضعیف کند."
+        ],
+        "impact": "این آتش‌بس شکننده تنها یک وقفه تاکتیکی است و با ادامه حملات پراکنده، ریسک تشدید نظامی و هزینه‌های دیپلماتیک برای تهران بسیار بالاست.",
+        "tag": "آتش‌بس",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/04/08/world/live-news/iran-war-trump-us-ceasefire",
+        "clean_url": "https://www.cnn.com/2026/04/08/world/live-news/iran-war-trump-us-ceasefire",
+        "image": "http://www.bing.com/th?id=ONUT.Wu7_9p2OgsCrfnIVcRCoaw&pid=News",
+        "timestamp": 1775603040.0
+    },
+    {
         "title_fa": "ترامپ آتش‌بس با ایران را پیش از مهلت ساعت ۲۰ اعلام کرد",
         "title_en": "Trump announces Iran ceasefire ahead of 8 p.m. deadline",
         "summary": [
@@ -54,6 +108,24 @@
         "timestamp": 1775601745.0
     },
     {
+        "title_fa": "آتش‌بس دو هفته‌ای میان آمریکا و ایران؛ آغاز مذاکرات برای پر کردن شکاف‌ها",
+        "title_en": "The US and Iran have agreed a ceasefire, with talks to bridge the gulf between them. Here’s what to know",
+        "summary": [
+            "آغاز آتش‌بس دو هفته‌ای اعلام‌شده توسط دونالد ترامپ با شرط بازگشایی تنگه هرمز؛ پاکستان (نخست‌وزیر و فرمانده نظامی‌اش) میانجی شده و تهران پیشنهاد ده‌ماده‌ای ارائه کرده که واشینگتن آن را «قابل مذاکره» خوانده است؛ ترامپ معامله را پیروزی کامل دانسته اما تهدیدهای قبلی را کاملاً پس نگرفته است.",
+            "این آتش‌بس و شرط بازشدن هرمز اهرم اقتصادی و سیاسی کلانی به دست آمریکا می‌دهد؛ به‌طور ساختاری فشار بر درآمدهای ارزی و زنجیره صادرات انرژی تهران را افزایش می‌دهد و در صورت ادامه تهدیدها می‌تواند به تحریم یا اقدام‌های تضعیف‌کننده بیشتر منجر شود که ثبات مالی و سیاسی رژیم را فرسایش می‌دهد.",
+            "اعلام آتش‌بس موجی از نارضایتی در تهران (تجمع در میدان انقلاب) به‌همراه داشت؛ این نشان‌دهنده بحران مشروعیت و خستگی عمومی از مدیریت ناکارآمد و اختلالات اقتصادی ناشی از جنگ و تنش‌های بین‌المللی است، و توقف موقت جنگ لزوماً به کاهش فشار داخلی نمی‌انجامد."
+        ],
+        "impact": "این آتش‌بس موقت احتمال بروز حمله وسیع را در کوتاه‌مدت کاهش می‌دهد اما با تحکیم اهرم بازگشایی هرمز و ادامه تهدیدهای واشینگتن، پایه‌های بقا و مشروعیت حکومت را اقتصادی و سیاسی تضعیف می‌کند و در صورت شکست مذاکرات خطر بازگشت فوری به درگیری بالا است.",
+        "tag": "آتش‌بس",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/04/08/middleeast/us-iran-ceasefire-explainer-war-intl-hnk",
+        "clean_url": "https://www.cnn.com/2026/04/08/middleeast/us-iran-ceasefire-explainer-war-intl-hnk",
+        "image": "http://www.bing.com/th?id=ONUT.VQcQy2TK4fBjH9lnyn96Xg&pid=News",
+        "timestamp": 1775601240.0
+    },
+    {
         "title_fa": "تهدید تهران به هدف قرار دادن تاسیسات انرژی منطقه در آستانه اولتیماتوم آمریکا",
         "title_en": "Iran warns region and beyond as tension builds ahead of US ultimatum",
         "summary": [
@@ -70,6 +142,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-warns-region-beyond-tension-214854771.html",
         "image": null,
         "timestamp": 1775598753.0
+    },
+    {
+        "title_fa": "آتش‌بس دو هفته‌ای؛ عقب‌نشینی تهران مقابل خواست واشنگتن",
+        "title_en": "U.S. and Iran agree to 2-week ceasefire, suspending Trump's threat to annihilate Iran",
+        "summary": [
+            "ایالات متحده و ایران بر آتش‌بس دو هفته‌ای توافق کردند.",
+            "براساس گزارش، ایران به خواست دونالد ترامپ برای بازگشایی تنگه هرمز تن داد.",
+            "در پی این امتیاز، ترامپ تهدید به نابودی گسترده زیرساخت‌های غیرنظامی و نظامی ایران را متوقف کرد."
+        ],
+        "impact": "این عقب‌نشینی تهران در برابر فشار خارجی ضعف ساختاری رژیم را برجسته می‌کند و می‌تواند هزینه‌های سیاسی داخلی و تضعیف مشروعیت حاکمیت را تشدید کند.",
+        "tag": "عقب‌نشینی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/04/07/nx-s1-5776377/iran-war-updates",
+        "clean_url": "https://www.npr.org/2026/04/07/nx-s1-5776377/iran-war-updates",
+        "image": "http://www.bing.com/th?id=ONUT.v7W4DqtsEmIgOcg3OZS5cQ&pid=News",
+        "timestamp": 1775598720.0
     },
     {
         "title_fa": "تهدید ترامپ به «نابودی یک تمدن» در صورت عدم توافق",
@@ -178,6 +268,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-agree-to-ceasefire-hours-before-trump-deadline/ar-AA20n2xu",
         "image": "http://www.bing.com/th?id=ONUT.h9uEZTTDRufve38ujs-17Q&pid=News",
         "timestamp": 1775593392.0
+    },
+    {
+        "title_fa": "چگونه ترامپ ایران را تهدید کرد و حملات را به تعویق انداخت",
+        "title_en": "How Trump has threatened, and postponed, attacks against Iran",
+        "summary": [
+            "عنوان گزارش نشان می‌دهد ترامپ اقدام به تهدید نظامی علیه ایران کرده و سپس اجرای حملات را به تعویق انداخته؛ متن کامل منبع در دسترس نیست و بنابراین جزئیات و شواهد مشخص نشده‌اند.",
+            "ترکیب تهدیدهای نظامی و تعویق در اجرا، اگر گزارش درست باشد، نقش ابزار فشار خارجی را دارد و می‌تواند ظرفیت اقتصادی و مانور سیاسی رژیم را تضعیف کند؛ اما بدون اطلاعات تکمیلی نمی‌توان ابعاد تحریم‌ها یا تأثیر دقیق بر اقتصاد را قطعی دانست.",
+            "فضای تهدید و تعویق موجب افزایش عدم قطعیت اقتصادی، فرار سرمایه و تقویت روایت ناکارآمدی حکمرانی می‌شود که مستعد تشدید نارضایتی عمومی است؛ اثبات این روند نیازمند شواهد میدانی و داده‌های اقتصادی است."
+        ],
+        "impact": "اگر ادعاها مستند باشند، گشتالتی از فشار خارجی و بی‌ثباتی سیاسی ایجاد می‌شود که توان رژیم را کاهش داده و فضای فرصت‌سازی برای اپوزیسیون ملی را تقویت می‌کند.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/graphics/2026/04/07/trump-threatens-postpones-iran-attacks/89501786007/",
+        "clean_url": "https://www.usatoday.com/story/graphics/2026/04/07/trump-threatens-postpones-iran-attacks/89501786007",
+        "image": "http://www.bing.com/th?id=ONUT.eaWUNGlfaMZD2M4sJaehWw&pid=News",
+        "timestamp": 1775589180.0
     },
     {
         "title_fa": "ایران برای دستیابی به توافقی بهتر از اوباما به ترامپ فشار می‌آورد",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSDVSTVlINkJNUWVwaENTM0NUci1LZ3BWNDBMMzNveWhYMmFlZkpMTHM4ajVZS0g2R2daaGxMU1lGZlJ3VndHaTYxSmdzLTR2S0FXNEZwU1Rwb3k0b29wSHREd2R2VTRnU21qUmZxV29qV2FvMmFOVHpQS2t6TGMzMk00MXo3OVRESHU3c285cXpZZ3ZYM0FUYV9CTUFnLVRhdG5wa3YtTmc5X1FEVENTbtIBtgFBVV95cUxNYzdJekRoaVk5X2RPOHVvcWlqQ3lnNGtEWk9iUVR4M3kzRmdsemo1MWFxNHFPMnVCQV9ZMnFwcE1mWUl6QXNMR1RqVmxJN1ZaNFlfaGl0MGE1bEpKdnBTQUtTUUJOVEQwMms4Q2NzVkpkNmNmTWxOZUN5cTY0Y0tDeDMzV3A5aFZqdGpoTWZXYm5MOVZnamtrNlV0c0R5R0VXTm5qdDJ2S3Q5OGgwdjBoaFJSUXVCZw",
         "image": null,
         "timestamp": 1775244118.0
-    },
-    {
-        "title_fa": "ایران و آمریکا در رقابت برای یافتن عضو مفقود خدمه هواپیمای جنگی آمریکایی ساقط‌شده",
-        "title_en": "Iran and US race to find missing American crew member downed in fighter jet",
-        "summary": [
-            "یک فروند F-15 آمریکایی در جنوب ایران ساقط شده؛ یک عضو خدمه ناپدید است و نفر دوم گزارش‌شده که نجات یافته است؛ نیروهای آمریکایی و ایرانی هر دو در جست‌وجو مشارکت می‌کنند و عملیات جست‌وجوی رزمی ویژه آمریکا با بالگرد و واحدهای پیاده‌نشین گزارش شده است.",
-            "ایران مدعی ساقط‌کردن یک جنگنده A-10 دیگر بر فراز خلیج فارس شده؛ آمریکا می‌گوید خلبان آن خود را با چتر نجات داده و نجات یافته است؛ در عین حال اصوات حملات در تهران و سوریه شنیده می‌شود و نخست‌وزیر اسرائیل بنیامین نتانیاهو ادعا کرده که ضرباتی ۷۰٪ ظرفیت تولید فولاد ایران را نابود کرده‌اند.",
-            "وزارت دفاع آمریکا گزارش می‌دهد از آغاز جنگ مشترک آمریکا و اسرائیل با ایران ۳۶۵ نظامی آمریکایی زخمی و ۱۳ کشته ثبت شده است؛ مشخص نیست که آیا سقوط اخیر جنگنده و عملیات نجات در این آمار محاسبه شده‌اند یا خیر."
-        ],
-        "impact": "سقوط جنگنده و هدف‌گیری زیرساخت‌های صنعتی (ادعای کاهش ۷۰٪ ظرفیت فولاد) علامت واضحی از تشدید مستقیم درگیری با آمریکا و اسرائیل است که توان حاکمیت در مدیریت اقتصادی و امنیتی را تضعیف و فشارهای داخلی و هزینه‌های بازسازی را افزایش می‌دهد.",
-        "tag": "درگیری",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/cm29zmpdj3vt",
-        "clean_url": "https://www.bbc.com/news/live/cm29zmpdj3vt",
-        "image": "http://www.bing.com/th?id=ONUT.iowiaquDFlkNIpISEzDIpA&pid=News",
-        "timestamp": 1775241900.0
-    },
-    {
-        "title_fa": "سرنگونی جنگنده آمریکایی بر فراز ایران؛ جست‌وجو برای یک عضو خدمه ادامه دارد",
-        "title_en": "US fighter jet shot down over Iran, search under way for crew member, US officials say",
-        "summary": [
-            "یک جنگنده نیروی هوایی آمریکا در آسمان ایران سرنگون شد؛ مقام‌های آمریکایی اعلام کرده‌اند جست‌وجو برای یافتن یک عضو خدمه در جریان است.",
-            "این رویداد خطر تقابل مستقیم نظامی بین واشنگتن و تهران را به‌طور قابل‌توجهی افزایش می‌دهد و می‌تواند زمینه‌ساز پاسخ‌های نظامی یا فشارهای سیاسی جدید از سوی آمریکا شود.",
-            "در صورت تشدید فشار خارجی و احتمالی تحریم‌ها یا اقدامات تلافی‌جویانه، پیامدهای اقتصادی و سیاسی داخلی رژیم تشدید خواهد شد و احتمال افزایش نارضایتی عمومی وجود دارد."
-        ],
-        "impact": "اثر فوری این حادثه افزایش ریسک تقابل نظامی و سیاسی بین ایران و آمریکا است که هم ثبات منطقه را تهدید می‌کند و هم فشار بر ساختارهای داخلی رژیم را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGlIcmp6ajhocl9IYVNsSVE1TmFlaUUwSFJ5RkREMWhhNlhfN3NqeTgxa2lJZ1pjenY0blE2ZU1kV25USHd6VUY4UGJ0ekRZVUltU1k5NzUtSm5iVUU3cVk0Mmt1Z25XeE1LSHdKRlhHYXhUdm5jemVGTDZVQ1pVeEIxbWhYRGdfMTI5c1dfMXF1bkp3NkZYWmhMLUJuTF9udTFsUHNXd1Z0OEpNQVVGc3ZaR0FCbGtwU2FrNmMtRG5OTDVI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTGlIcmp6ajhocl9IYVNsSVE1TmFlaUUwSFJ5RkREMWhhNlhfN3NqeTgxa2lJZ1pjenY0blE2ZU1kV25USHd6VUY4UGJ0ekRZVUltU1k5NzUtSm5iVUU3cVk0Mmt1Z25XeE1LSHdKRlhHYXhUdm5jemVGTDZVQ1pVeEIxbWhYRGdfMTI5c1dfMXF1bkp3NkZYWmhMLUJuTF9udTFsUHNXd1Z0OEpNQVVGc3ZaR0FCbGtwU2FrNmMtRG5OTDVI",
-        "image": null,
-        "timestamp": 1775238103.0
-    },
-    {
-        "title_fa": "واکنش دونالد ترامپ پس از سرنگونی جنگنده F-15 آمریکا در ایران",
-        "title_en": "Donald Trump Reacts After F-15 US Fighter Jet Shot Down in Iran",
-        "summary": [
-            "گزارش‌ها حاکی است یک فروند جنگنده F-15 آمریکایی توسط نیروهای ایران سرنگون شده و هم‌زمان سقوط دومین هواپیمای جنگی آمریکا در منطقه خلیج فارس در جریان تشدید درگیری‌ها گزارش شده است.",
-            "دونالد ترامپ به این رویداد واکنش نشان داد و رسانه‌ها پوشش واکنش او را برجسته کرده‌اند، اما محتوای مشخص اظهارات در گزارش اصلی خلاصه شده است.",
-            "این حادثه نشان‌دهنده جهش در خطر برخورد مستقیم بین ایالات متحده و ایران است؛ تشدید نظامی احتمال تحریم‌ها و فشارهای بین‌المللی را افزایش می‌دهد و رژیم را وادار به انتقال منابع از اقتصاد به امنیت می‌کند که شکاف مدیریتی و ناراضایتی عمومی را عمیق‌تر خواهد کرد."
-        ],
-        "impact": "سرنگونی جنگندهٔ آمریکایی و سقوط دومین هواپیمای جنگی در خلیج فارس شانس برخورد مستقیم میان آمریکا و ایران را بالا می‌برد و رژیم را هم‌زمان در معرض فشار خارجی شدیدتر و بحران اقتصادی-سیاسی داخلی قرار می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/donald-trump-fighter-jet-plane-shot-down-iran-11779997",
-        "clean_url": "https://www.newsweek.com/donald-trump-fighter-jet-plane-shot-down-iran-11779997",
-        "image": "http://www.bing.com/th?id=ONUT.lO3K9vhEO7g-DEf9B04few&pid=News",
-        "timestamp": 1775235120.0
-    },
-    {
-        "title_fa": "ترامپ گفت ایران «نابود شده.» سپس یک جنگنده F-15E آمریکایی سرنگون شد",
-        "title_en": "Trump said Iran was 'decimated.' Then an American F-15E fighter jet was shot down.",
-        "summary": [
-            "سرنگونی F-15E نشان داد ادعای «نابودسازی» توان نظامی حکومت ایران نادرست است و تهران هنوز ظرفیت وارد کردن ضربه به نیروها و دارایی‌های آمریکا و متحدانش در منطقه را دارد.",
-            "کمپین و فشارهای آمریکا تاکنون نتوانسته ساختارهای عملیاتی حکومت ایران را به‌گونه‌ای تضعیف کند که توان رزمی آن را کاملاً از میان ببرد؛ این محدودیت‌ها کارآمدی راهبرد تحریمی-نظامی واشنگتن را زیر سؤال می‌برد.",
-            "این حادثه احتمال تشدید رویارویی مستقیم را افزایش می‌دهد، راهبردهای بازدارنده آمریکا را پیچیده‌تر می‌کند و اعتبار گفتمان کاهش تهدید تهران را تضعیف می‌کند."
-        ],
-        "impact": "سرنگونی هواپیما نشان می‌دهد فشارهای خارجی و عملیات نظامی آمریکا نتوانسته‌اند ظرفیت ضربتی حکومت ایران را نابود کنند و ریسک مواجهه مستقیم و پیچیدگی راهبردی را بالا برده‌اند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/politics/white-house/trump-said-iran-was-decimated-american-f-15e-fighter-jet-was-shot-rcna266611",
-        "clean_url": "https://www.nbcnews.com/politics/white-house/trump-said-iran-was-decimated-american-f-15e-fighter-jet-was-shot-rcna266611",
-        "image": "http://www.bing.com/th?id=ONUT.rY-0aQSavdLQQeVG-EUy7g&pid=News",
-        "timestamp": 1775234760.0
-    },
-    {
-        "title_fa": "سقوط جنگنده آمریکایی بر فراز ایران؛ یک خدمه نجات یافت",
-        "title_en": "American fighter jet downed over Iran, 1 crew member rescued",
-        "summary": [
-            "خبر اصلی: یک جنگنده آمریکایی بر فراز خاک ایران سقوط کرده؛ یک عضو خدمه نجات یافته و جست‌وجو برای پیدا کردن نفر دوم (افسر سامانه‌های تسلیحاتی) ادامه دارد — اطلاعات محدود و برگرفته از منابع آمریکایی است.",
-            "پیامد راهبردی فوری: این رخداد خطر برخورد مستقیم نظامی بین آمریکا و ایران را به‌شدت افزایش می‌دهد و می‌تواند واکنش‌های نظامی و دیپلماتیک سریع واشنگتن را فعال کند؛ هرگونه اقدام تلافی‌جویانه یا افزایش حضور نظامی، ظرفیت ناپایداری منطقه‌ای را بالا می‌برد.",
-            "ابعاد داخلی و فشار خارجی: اگرچه علت سقوط هنوز روشن نیست، چنین حادثه‌ای می‌تواند به تشدید فشارهای خارجی (در صورت تصمیم واشنگتن به محدودسازی یا تحریم) و همچنین بهره‌برداری رژیم برای بسیج ملی‌گرایانه یا سرکوب داخلی منجر شود؛ اما داده‌های کنونی برای نتیجه‌گیری قطعی ناکافی است."
-        ],
-        "impact": "حادثه یک نقطه عطف با احتمال بالا برای تشدید فوری تنش‌های نظامی و دیپلماتیک منطقه‌ای است که می‌تواند ثبات داخلی رژیم را نیز تحت فشار قرار دهد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/american-fighter-jet-downed-over-iran-1-crew-member-rescued/ar-AA205xhx",
-        "clean_url": "https://www.msn.com/en-us/news/world/american-fighter-jet-downed-over-iran-1-crew-member-rescued/ar-AA205xhx",
-        "image": "http://www.bing.com/th?id=ONUT.FabyCvtqwoY1HeNk9v_39w&pid=News",
-        "timestamp": 1775234008.0
-    },
-    {
-        "title_fa": "سرنگونی جت جنگی آمریکا؛ یک خدمه نجات یافت، دیگری بنا بر منابع در ایران زنده است",
-        "title_en": "U.S. fighter jet shot down: One crew member rescued, other alive in Iran, sources say",
-        "summary": [
-            "گزارش‌ها: یک نفر از خدمه جت آمریکایی نجات یافت و دیگری بنا بر منابع در خاک ایران زنده است؛ حادثه سرنگونی هواپیما واقعیت مقابله مستقیم نظامی بین واشنگتن و تهران را جلو می‌کشد.",
-            "وجود خدمه آمریکایی در ایران احتمال افزایش فشار دیپلماتیک و تحریم‌های جدید از سوی آمریکا و متحدان غربی را بالا می‌برد و این فشارها ساختار شکننده اقتصادی-سیاسی حکومت را بیشتر می‌تواند تضعیف کند.",
-            "این واقعه نشان‌دهنده مدیریت امنیتی و نظامی پرخطر است و می‌تواند نارضایتی عمومی را تشدید کند؛ واکنش‌های تهاجمی یا تلاش برای بازگرداندن خدمه می‌تواند شوک‌های اقتصادی و سیاسی فوری به همراه داشته باشد."
-        ],
-        "impact": "احتمال برخورد نظامی مستقیم و تشدید بی‌ثباتی منطقه‌ای به‌شدت افزایش یافته و پیامدهای فوری برای امنیت و اقتصاد ایران دارد.",
-        "tag": "رویارویی",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Axios",
-        "url": "https://www.msn.com/en-us/news/world/american-fighter-jet-was-downed-over-iran-1-crew-member-rescued/ar-AA205xhx",
-        "clean_url": "https://www.msn.com/en-us/news/world/american-fighter-jet-was-downed-over-iran-1-crew-member-rescued/ar-AA205xhx",
-        "image": null,
-        "timestamp": 1775232561.0
     }
 ]
