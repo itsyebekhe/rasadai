@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "توافق آتش‌بس موقت آمریکا-ایران؛ مفاد و چشم‌انداز",
+        "title_en": "US-Iran ceasefire deal: What are the terms, and what’s next?",
+        "summary": [
+            "مفاد اصلی: آتش‌بس دو هفته‌ای که پاکستان میانجی آن بوده، عملیات نظامی مستقیم آمریکا علیه ایران را متوقف می‌کند؛ ایران به شرط توقف کامل حملات آمریکا و اسرائیل موافقت کرده و گذرگاه تنگه هرمز برای عبور کشتی‌ها باز می‌شود؛ اسرائیل آتش‌بس با ایران را پذیرفته اما آن را به درگیری با حزب‌الله تسری نداده است و برخی حملات منطقه‌ای ادامه دارد.",
+            "فشار خارجی و پیامدها: آتش‌بس فشار نظامی فوری بر تهران را کاهش و اختلال‌ در مسیرهای حمل‌ونقل انرژی و شوک قیمت نفت را موقتا آرام می‌کند؛ مقاله اشاره‌ای به جزئیات تحریم‌ها ندارد، ولی توقف حملات نظامی به‌تنهایی ساختارهای تضعیف‌شده رژیم را بازسازی نمی‌کند و آسیب‌پذیری راهبردی ادامه دارد.",
+            "اقتصاد و سیاست داخلی/آیندۀ مذاکرات: بازگشایی تنگه هرمز تسکین اقتصادی کوتاه‌مدت دارد، اما مقاله نشانه‌ای از حل بحران مدیریتی یا اعتراضات داخلی ارائه نمی‌دهد؛ مذاکرات پیش‌رو در اسلام‌آباد آزمونی است برای تبدیل آتش‌بس موقت به توافقی پایدار، چیزی که به تصمیمات راهبردی و ثبات نهادهای حکومتی بستگی دارد."
+        ],
+        "impact": "این توقف دو هفته‌ای عملیات، فشار نظامی فوری را کم می‌کند اما تضمینی برای حل مشکلات ساختاری حکمرانی یا برطرف‌شدن آسیب‌پذیری‌های راهبردی ایران نیست.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/us-iran-ceasefire-deal-terms-092022752.html",
+        "clean_url": "https://www.yahoo.com/news/articles/us-iran-ceasefire-deal-terms-092022752.html",
+        "image": null,
+        "timestamp": 1775640774.0
+    },
+    {
         "title_fa": "جدیدترین خبر: ترامپ تهدیدها را عقب می‌کشد؛ آمریکا، اسرائیل و ایران به آتش‌بس دو هفته‌ای رسیدند",
         "title_en": "The Latest: Trump pulls back on threats as US, Israel and Iran reach a 2-week ceasefire deal",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/the-latest-trump-pulls-back-on-threats-as-us-israel-and-iran-reach-a-2-week-ceasefire-deal/ar-AA20omnv",
         "image": null,
         "timestamp": 1775634558.0
+    },
+    {
+        "title_fa": "ارتش اسرائیل اعلام کرد حملات علیه ایران متوقف شده، اما در لبنان علیه حزب‌الله به جنگ ادامه می‌دهد",
+        "title_en": "IDF says it has halted strikes in Iran, continues fighting Hezbollah in Lebanon",
+        "summary": [
+            "ارتش اسرائیل می‌گوید حملات بر فراز یا علیه خاک ایران متوقف شده‌اند؛ این توقف می‌تواند وقفه عملیاتی یا بازنگری راهبردی باشد و لزوماً به معنای کاهش ساختاری تنش نیست.",
+            "در لبنان درگیری با حزب‌الله ادامه دارد؛ جبهه لبنانی همچنان محل اصلی تقابل با اسرائیل بوده و ریسک تسری و تشدید منطقه‌ای را حفظ می‌کند.",
+            "فشار نظامی خارجی، ضعف‌های ساختاری امنیتی و مالی رژیم را هدف می‌گیرد و با افزایش هزینه‌های دفاعی ظرفیت حکمرانی و توان پاسخگویی به مشکلات اقتصادی را تضعیف می‌کند؛ این گزارش شواهد مستقیمی از فروپاشی داخلی ارائه نمی‌دهد."
+        ],
+        "impact": "این تحرکات، مخاطرات منطقه‌ای را تشدید و بار دفاعی و اقتصادی رژیم را افزایش می‌دهد که راهبرد بقا را پیچیده‌تر می‌کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "timesofisrael.com",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MHptcDBGVjN0NUd1UjBKRXFVZ0ItblhONnBFcWpCVnJkclF5a0RTUGxHZGM0ODA2REZKb3YzMjNvVjRFa0lkU0thY00zZ0hwNzBwZEVUT0FMNEpqYXgxMWJUSdIBaEFVX3lxTE9DaHl4b3B0amFuOHoyVU5WMUZaZlZkNVU3MnRyWTRtZnRSeXI5MS13dE8yVTNkc3lEeTNQQVUzOWlHNXVrd29WeWpEMHU3bEJqVUtXZ1hYYVlRQXlEa2lnbXNVc2I1TWg3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16MHptcDBGVjN0NUd1UjBKRXFVZ0ItblhONnBFcWpCVnJkclF5a0RTUGxHZGM0ODA2REZKb3YzMjNvVjRFa0lkU0thY00zZ0hwNzBwZEVUT0FMNEpqYXgxMWJUSdIBaEFVX3lxTE9DaHl4b3B0amFuOHoyVU5WMUZaZlZkNVU3MnRyWTRtZnRSeXI5MS13dE8yVTNkc3lEeTNQQVUzOWlHNXVrd29WeWpEMHU3bEJqVUtXZ1hYYVlRQXlEa2lnbXNVc2I1TWg3",
+        "image": null,
+        "timestamp": 1775633627.0
     },
     {
         "title_fa": "عکس‌ها: آمریکا، اسرائیل و ایران بر سر آتش‌بس دو هفته‌ای توافق کردند",
@@ -124,6 +160,24 @@
         "clean_url": "https://www.msn.com/en-in/money/topstories/how-iran-is-thriving-on-bitcoin/ar-AA20o6MD",
         "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202604/69d534959d676-by-2021--iran-controlled-75-of-the-global-bitcoin-hashrate--ranking-fifth-in-the-world--behind-onl-074503776-16x9.jpg",
         "timestamp": 1775617860.0
+    },
+    {
+        "title_fa": "دونالد ترامپ با تهدید رکیک؛ خواستار باز شدن تنگه هرمز شد",
+        "title_en": "Trump issues expletive-laden threat to Iran demanding Strait of Hormuz be opened",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، تهدید کرد که اگر تنگه هرمز باز نشود «سه‌شنبه روز نیروگاه و پل» خواهد بود و وعده داد «جهنم» بر سر ایران فروخواهد آمد و احتمال «انفجار همه‌چیز و تصاحب نفت» را مطرح کرد؛ او هم‌زمان از مذاکرات عمیق و احتمال حصول توافق سخن گفت.",
+            "گزارش‌ها حاکی است نیروی دریایی و کشتی‌ها در حوالی ورودی تنگه لنگر انداخته‌اند و بسته شدن این مسیر که معمولاً حدود 20٪ نفت و گاز جهان از آن می‌گذرد عرضه جهانی را کاهش داده و باعث افزایش قیمت‌ها و نگرانی مصرف‌کنندگان شده است.",
+            "واکنش شهروندان ایرانی شامل ترس و احساس ناتوانی است («ما نمی‌توانیم کاری بکنیم») که نمایانگر افزایش فشار خارجی و ضربه به حس امنیت داخلی است و مسیر را به سوی احتمال تشدید مستقیم نظامی باز می‌کند."
+        ],
+        "impact": "تهدید مستقیم به حمله زیرساختی و تصاحب منابع، همراه با فشار عملیاتی در تنگه هرمز، ساختار ثبات رژیم را از طریق تشدید فشار اقتصادی و افزایش نارضایتی و ترس عمومی بیشتر تضعیف می‌کند.",
+        "tag": "تنش",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/live/cm29zmpdj3vt",
+        "clean_url": "https://www.bbc.com/news/live/cm29zmpdj3vt",
+        "image": "http://www.bing.com/th?id=ONUT.poLfDaHdTdHDP3oeV21sLA&pid=News",
+        "timestamp": 1775613000.0
     },
     {
         "title_fa": "هر دو طرف پس از توافق دقیقه‌نودی آمریکا و ایران بر آتش‌بس، پیروزی را اعلام کردند",
@@ -250,6 +304,24 @@
         "clean_url": "https://www.politico.com/news/2026/04/07/donald-trump-iran-war-ceasefire-00863103",
         "image": null,
         "timestamp": 1775601745.0
+    },
+    {
+        "title_fa": "به‌روزرسانی جنگ ایران: آتش‌بس دو هفته‌ای برقرار شد",
+        "title_en": "Iran War Live Updates: 2-Week Cease-Fire Takes Hold",
+        "summary": [
+            "آتش‌بس دو هفته‌ای به اجرا درآمد اما شامل لبنان نمی‌شود؛ این محدودیت جغرافیایی نشان می‌دهد جبهه‌های منطقه‌ای همچنان باز هستند و احتمال تشدید در سایر محورها پابرجاست.",
+            "ابهام درباره ایمنی تنگه هرمز برای عبور کشتی‌ها و اینکه آیا فرماندهان محلی ایران از توافق مطلع شده‌اند یا نه، نشانه ضعف در هماهنگی عملیاتی است که می‌تواند صادرات نفت و درآمدهای ارزی را مختل کند و فشار اقتصادی و سیاسی بر رژیم را حفظ کند.",
+            "اختلال در اطلاع‌رسانی و اجرای دستورها نمادی از ناکارآمدی مدیریتی و شکست در کنترل مرکزی است؛ حتی اگر آتش‌بس موقت آرامش نسبی بیاورد، این شکست ساختاری می‌تواند اعتماد عمومی را تضعیف کند و ظرفیت نارضایتی اجتماعی را افزایش دهد."
+        ],
+        "impact": "آتش‌بس فوری تنش نظامی را کاهش می‌دهد اما عدم شفافیت درباره ایمنی هرمز و ضعف در کنترل محلی ریسک اقتصادی و سیاسی رژیم را حفظ می‌کند.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news",
+        "clean_url": "https://www.nytimes.com/live/2026/04/08/world/iran-war-trump-news",
+        "image": "http://www.bing.com/th?id=ONUT.e7V7Dg8u5idOKXsa_t3NBg&pid=News",
+        "timestamp": 1775601360.0
     },
     {
         "title_fa": "آتش‌بس دو هفته‌ای میان آمریکا و ایران؛ آغاز مذاکرات برای پر کردن شکاف‌ها",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/1-rescued-after-us-fighter-jet-shot-down-in-iran-search-ongoing-for-crew-member/ar-AA205aef",
         "image": null,
         "timestamp": 1775273035.0
-    },
-    {
-        "title_fa": "گزارش وضعیت جنگ در ایران: همه نگاه‌ها روی زیرساخت‌ها همزمان با تحول در درگیری",
-        "title_en": "Iran War Sitrep: All eyes on infrastructure as conflict morphs",
-        "summary": [
-            "عنوان نشان می‌دهد میدان درگیری از رویارویی نظامی مستقیم به هدف‌گیری و آسیب‌زنی به زیرساخت‌ها در حال تغییر است؛ این تحول پیامدهای بلندمدت بر خدمات حیاتی خواهد داشت.",
-            "آسیب به زیرساخت‌ها توان تولید، حمل‌ونقل و خدمات انرژی را تضعیف می‌کند و در ترکیب با فشارها و محدودیت‌های بین‌المللی می‌تواند ساختار اقتصادی و ظرفیت حکمرانی را تضعیف کند.",
-            "تغییر ماهیت درگیری مدیریت بحران حکومت را سخت‌تر می‌کند و ریسک تشدید نارضایتی‌های عمومی و بحران‌های سیاسی داخلی را افزایش می‌دهد."
-        ],
-        "impact": "تمرکز درگیری روی زیرساخت‌ها می‌تواند اختلال اقتصادی زنجیره‌ای و تشدید بی‌ثباتی سیاسی را تسریع کند.",
-        "tag": "زیرساخت",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Amwaj.media",
-        "url": "https://www.npr.org/2026/03/08/nx-s1-5741719/israel-hits-critical-infrastructure-in-iran-war",
-        "clean_url": "https://www.npr.org/2026/03/08/nx-s1-5741719/israel-hits-critical-infrastructure-in-iran-war",
-        "image": null,
-        "timestamp": 1775272206.0
-    },
-    {
-        "title_fa": "حمله موشکی ایران به مناطق مسکونی در مرکز اسرائیل",
-        "title_en": "Iranian missile attack hits residential areas in central Israel",
-        "summary": [
-            "یک آتشبار موشکی منتسب به ایران با استفاده از مهمات خوشه‌ای به رمات گان و نقاطی در حوالی تل‌آویو اصابت کرد؛ گزارش‌ها حاکی از دو کشته، مجروح و اختلال در شبکه ریلی به‌دلیل ترکش‌هاست.",
-            "در چارچوب چرخه انتقام و بمباران متقابل (گزارش شده از حملات سنگین اسرائیل به ایران و لبنان)، این تشدید می‌تواند هزینه‌های بین‌المللی و فشارهای خارجی بر تهران را تشدید کند و منابع محدود رژیم را به مصارف نظامی بیشتر معطوف سازد.",
-            "اقدام به استفاده از مهمات خوشه‌ای در مناطق شهری و پیامدهای عملیاتی آن—خسارت به غیرنظامیان و زیرساخت حمل‌ونقل—نمونه‌ای از مدیریت ناموفق بحران است که ظرفیت حکومت برای تأمین امنیت شهروندان و کنترل پیامدهای اقتصادی را تضعیف می‌کند."
-        ],
-        "impact": "این حمله چرخه تصاعد را تشدید می‌کند، هزینه‌های نظامی و سیاسی رژیم را بالا می‌برد و ریسک فشارهای بین‌المللی و فرسایش بیش‌تر مشروعیت داخلی را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-missile-fire-kills-two-024803946.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-missile-fire-kills-two-024803946.html",
-        "image": null,
-        "timestamp": 1775271378.0
-    },
-    {
-        "title_fa": "آغاز جست‌وجو برای خدمه مفقود اف-۱۵ آمریکا در ایران",
-        "title_en": "Search for missing US F-15 crew member underway in Iran",
-        "summary": [
-            "رسانه‌های حکومتی ایران خبر داده‌اند «افراد زیادی» در حال جست‌وجو برای خدمه مفقود یک F-15 آمریکایی هستند؛ این گزارش می‌گوید یک فروند F-15 و یک A-10 به‌دلیل آتش دشمن از دست رفته‌اند.",
-            "ادعای عمومی درباره «بسیاری افراد» که در جست‌وجو مشارکت دارند به نظر تلاشی برای کنترل روایت و نمایش سیطره میدانی رژیم است؛ اما جزئیات محدود و مبهم، نشان‌دهنده نقصان در شفافیت و ظرفیت اطلاعاتی رسمی است.",
-            "این حادثه خطر واقعی تشدید تنش با آمریکا را افزایش می‌دهد و می‌تواند زمینه‌ساز فشارهای خارجی بیشتر از جمله تحریم‌ها یا اقدامات تلافی‌جویانه دیپلماتیک/نظامی شود که پیامدهای اقتصادی و سیاسی قابل‌توجهی برای رژیم به دنبال دارد."
-        ],
-        "impact": "وقوع چنین رویدادی می‌تواند از طریق تشدید فشار خارجی و افزایش بی‌اعتمادی داخلی، ثبات ساختاری رژیم را بیش از پیش تضعیف کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/world/search-for-missing-us-f-15-crew-member-underway-in-iran/ar-AA208t3Z",
-        "clean_url": "https://www.msn.com/en-us/news/world/search-for-missing-us-f-15-crew-member-underway-in-iran/ar-AA208t3Z",
-        "image": null,
-        "timestamp": 1775270877.0
-    },
-    {
-        "title_fa": "به‌روزرسانی جنگ ایران و اسرائیل: اصابت پرتابه در نزدیکی نیروگاه هسته‌ای بوشهر، یک کشته",
-        "title_en": "Iran Israel War Live Updates: Projectile Strikes Near Bushehr Nuclear Plant In Iran, One Dead",
-        "summary": [
-            "گزارش‌ها از اصابت یک پرتابه در حوالی نیروگاه هسته‌ای بوشهر و کشته شدن یک نفر حکایت دارد؛ این رخداد در چارچوب تشدید درگیری‌ها با حضور موشک‌ها، پهپادها و تهدیدات دریایی گزارش شده است.",
-            "ورود مستقیم آمریکا و اسرائیل به مرحله گسترده‌تر از طریق حملات و فشار نظامی، ساختارهای امنیتی و اقتصادی رژیم را تحت فشار مضاعف قرار می‌دهد و ظرفیت جمهوری اسلامی برای حفظ ثبات منطقه‌ای و داخلی را تضعیف می‌کند.",
-            "خطر هدف‌گیری یا اختلال در تأسیسات حساس هسته‌ای شتاب گرفته؛ این وضعیت می‌تواند اعتماد عمومی را کاهش داده و نارضایتی‌ها را افزایش دهد، زیرا مردم پیامدهای امنیتی و اقتصادی این تنش فزاینده را لمس خواهند کرد."
-        ],
-        "impact": "اصابت نزدیک به یک نیروگاه هسته‌ای علاوه بر تهدید امنیت فنی، مشروعیت رژیم در محافظت از مردم و زیرساخت‌ها را تضعیف کرده و خطر گسترش عملیاتی و ناآرامی‌های داخلی را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-israel-us-war-live-updates-us-iran-news-ceasefire-trump-middle-east-tensions-latest-news-liveblog-153996231",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-israel-us-war-live-updates-us-iran-news-ceasefire-trump-middle-east-tensions-latest-news-liveblog-153996231",
-        "image": null,
-        "timestamp": 1775268720.0
     }
 ]
