@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "از باریدن آتش تا آتش‌بس: چگونه ترامپ مسیر جنگ با ایران را برگرداند؟",
+        "title_en": "From raining fire to ceasefire: How did Trump reverse course on the Iran war?",
+        "summary": [
+            "ترامپ روند تشدید نظامی را متوقف و مسیر را از حمله گسترده به سمت آتش‌بس تغییر داد — تحولی سریع در روایت و تاکتیک آمریکایی که خبر آن در تیتر گزارش آمده است.",
+            "این تغییر جهت می‌تواند فشار نظامی و توجیه عملیات مستقیم علیه تهران را به‌طور فوری کاهش دهد؛ با این حال ابزارهای فشار خارجی مانند تحریم‌ها همچنان به‌عنوان اهرم‌های تضعیف ساختاری رژیم باقی می‌مانند و تأثیر بلندمدت را تعیین خواهند کرد.",
+            "برای عرصه داخلی ایران، عقب‌نشینی خارجی ممکن است ریسک نظامی را موقتاً پایین بیاورد ولی ضعف در مدیریت بحران و ناکارآمدی ساختاری حکومت را برجسته می‌کند؛ آرامش کوتاه‌مدت اقتصادی محتمل است اما مسائل بنیادین مدیریتی و نارضایتی عمومی حل نخواهند شد."
+        ],
+        "impact": "تصمیم ترامپ برای عقب‌نشینی نظامیِ فوری فشار خارجی را کاهش می‌دهد اما تهدیدهای ساختاری سیاسی و اقتصادی که ثبات رژیم را تضعیف می‌کنند همچنان پابرجا خواهند ماند.",
+        "tag": "آتش‌بس",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "USA Today",
+        "url": "https://www.msn.com/en-us/news/world/from-raining-fire-to-ceasefire-how-did-trump-reverse-course-on-the-iran-war/ar-AA20ocBV",
+        "clean_url": "https://www.msn.com/en-us/news/world/from-raining-fire-to-ceasefire-how-did-trump-reverse-course-on-the-iran-war/ar-AA20ocBV",
+        "image": null,
+        "timestamp": 1775652720.0
+    },
+    {
+        "title_fa": "آمریکا و ایران به آتش‌بس دو هفته‌ای پیش از ضرب‌الاجل ترامپ رسیدند",
+        "title_en": "U.S. and Iran reach 2-week ceasefire ahead of Trump's deadline",
+        "summary": [
+            "آمریکا و ایران توافق کردند آتش‌بس دو هفته‌ای برقرار شود؛ این اعلام قبل از ضرب‌الاجل تعیین‌شده توسط ترامپ صورت گرفت.",
+            "آتش‌بس موقتی خطر تصاعد نظامی را کاهش می‌دهد اما خود به‌تنهایی تحریم‌ها یا ضعف ساختاری رژیم را برطرف نمی‌کند.",
+            "رژیم می‌تواند از این فاصله زمانی برای تسکین فشار داخلی و بازتنظیم روایت سیاسی بهره ببرد؛ در نبود اصلاحات اقتصادی واقعی این فرجه احتمالاً دوام بقا را تقویت می‌کند."
+        ],
+        "impact": "این آتش‌بس کوتاه‌مدت زمان سیاسی و اقتصادی به رژیم می‌دهد اما تغییر ساختاری در تحریم‌ها یا پایگاه قدرت آن ایجاد نخواهد کرد.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "CBS News",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWdMR2RQZEpSSnE3R1BPd1dPVVNvX21tYjhCbFZjcVJRMkozZVFxc3NKUFZid19fMTBZR2Zia3lhbmtLbDlXV21fSERfY3JNYkhEMktlNHZKVXdzaEk4UGlkcDBienpZWjl2OHpwQW9pRnBBaUh2aU5sQlBsVlNkM1FLLVowRXB4WFhWc2g3dmQxYjZzelJzNWhXRlROZjFmN2psUkJWbS1NcHF0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQWdMR2RQZEpSSnE3R1BPd1dPVVNvX21tYjhCbFZjcVJRMkozZVFxc3NKUFZid19fMTBZR2Zia3lhbmtLbDlXV21fSERfY3JNYkhEMktlNHZKVXdzaEk4UGlkcDBienpZWjl2OHpwQW9pRnBBaUh2aU5sQlBsVlNkM1FLLVowRXB4WFhWc2g3dmQxYjZzelJzNWhXRlROZjFmN2psUkJWbS1NcHF0",
+        "image": null,
+        "timestamp": 1775645933.0
+    },
+    {
         "title_fa": "حملات نظامی اسرائیل به جنوب لبنان پس از آتش‌بس آمریکا و ایران",
         "title_en": "Israeli military strikes southern Lebanon after US-Iran ceasefire",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://edition.cnn.com/2026/04/04/world/live-news/iran-war-us-trump-oil",
         "image": "http://www.bing.com/th?id=ONUT.SVfh88RzX1F-NMYrb7NRXw&pid=News",
         "timestamp": 1775282040.0
-    },
-    {
-        "title_fa": "جنگ آمریکا-اسرائیل-ایران: عراقچی می‌گوید حمله به تأسیسات هسته‌ای زندگی در شهرهای خلیج را پایان می‌دهد",
-        "title_en": "US-Israel-Iran War Live: Attacks on nuke facilities will end life in Gulf cities, says Iran's Araghchi",
-        "summary": [
-            "ایران پیشنهاد آتش‌بس ۴۸ ساعته آمریکا را رد کرده؛ پاکستان، ترکیه و مصر برای احیای مذاکرات میان واشینگتن و تهران میانجی‌گری می‌کنند و طرحی شامل آتش‌بس موقت و بازگشایی تنگه هرمز مطرح است، اما تهران خواستار تضمین حل پایدار پیش از ازسرگیری گفتگوهاست.",
-            "وزیر امور خارجه عباس عراقچی اعلام کرد تأسیسات هسته‌ای بوشهر چهار بار هدف قرار گرفته و هشدار داد حمله به سایت‌های هسته‌ای زندگی در شهرهای خلیج را به‌طور بنیادین پایان می‌دهد؛ هم‌زمان اسرائیل به بیروت حمله کرده و بیش از ۱٬۳۰۰ کشته و جابجایی حدود یک‌پنجم جمعیت لبنان گزارش شده است.",
-            "نیروی هوایی ایران یک هواپیمای F-15E آمریکا را سرنگون کرد؛ یک خدمه نجات یافته و یک نفر مفقود است؛ رسانه‌های ایرانی از مردم خواسته‌اند خلبان دشمن را تحویل دهند—این اقدامات نظامی مستقیم، ریسک تشدید منطقه‌ای و فشار خارجی به رژیم را افزایش می‌دهد."
-        ],
-        "impact": "حملات به تأسیسات هسته‌ای و پتروشیمی همراه با مواجهه نظامی مستقیم با آمریکا و اسرائیل، توان اقتصادی و زیرساختی رژیم را هدف قرار می‌دهد، مشروعیت سیاسی داخلی را تضعیف و خطر تشدید جنگ منطقه‌ای و اختلال بلندمدت در صادرات انرژی را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "India Today",
-        "url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-strait-of-hormuz-haifa-oil-refinery-ceasefire-2891429-2026-04-04",
-        "clean_url": "https://www.indiatoday.in/world/story/us-israel-iran-war-live-updates-middle-east-tension-strait-of-hormuz-haifa-oil-refinery-ceasefire-2891429-2026-04-04",
-        "image": "http://www.bing.com/th?id=ONUT.Zd98P-EqoyWyHIXkf_MMTQ&pid=News",
-        "timestamp": 1775281980.0
-    },
-    {
-        "title_fa": "ردیابی حملات موشکی و پهپادی ایران علیه کشورهای خلیج فارس",
-        "title_en": "Data: Tracking Iran’s missile and drone attacks on Gulf states",
-        "summary": [
-            "NBC News داده‌هایی را گردآوری کرده که حملات موشکی و پهپادی منتسب به ایران علیه کشورهای خلیج فارس را ثبت و تحلیل می‌کند.",
-            "الگوی گزارش‌شده حاکی از رشد تهاجمی‌گری منطقه‌ای است که خطر تصاعد به رویارویی مستقیم بین تهران و کشورهای همسایه را افزایش می‌دهد.",
-            "ادامه این عملیات می‌تواند واکنش‌های تلافی‌جویانه و تشدید تحریم‌ها را به دنبال داشته باشد که به انزوای بین‌المللی رژیم و تشدید فشار اقتصادی و نارضایتی داخلی می‌انجامد."
-        ],
-        "impact": "تداوم این حملات ثبات منطقه‌ای را تضعیف، هزینه‌های دیپلماتیک و اقتصادی رژیم را افزایش و فضای نارضایتی داخلی را تشدید خواهد کرد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://www.msn.com/en-us/news/world/graphic-the-latest-on-iran-s-military-attacks-on-gulf-states/ar-AA1ZyTv2",
-        "clean_url": "https://www.msn.com/en-us/news/world/graphic-the-latest-on-iran-s-military-attacks-on-gulf-states/ar-AA1ZyTv2",
-        "image": null,
-        "timestamp": 1775280602.0
     }
 ]
