@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حملات نظامی اسرائیل به جنوب لبنان پس از آتش‌بس آمریکا و ایران",
+        "title_en": "Israeli military strikes southern Lebanon after US-Iran ceasefire",
+        "summary": [
+            "رویداد: گزارش‌ها حاکی است که بلافاصله پس از اعلام آتش‌بس میان آمریکا و ایران، نیروهای نظامی اسرائیل جنوب لبنان را هدف حملاتی قرار دادند؛ نشانگر شکنندگی آتش‌بس و ادامه عملیاتی منطقه‌ای مستقل از توافقات دوجانبه.",
+            "فشار خارجی/امنیتی: این حملات نشان می‌دهد که «کاهش تنش» رسمی لزوماً به کاهش فشار امنیتی یا نظامی منجر نشده و از منظر ساختاری تضعیف توان حکمرانی ایران در تضمین امنیت ملی و ثبات منطقه‌ای را تشدید می‌کند؛ نتایج احتمالی شامل افزایش هزینه‌های نظامی، ریسک سرمایه‌گذاری و فشار بر بدهی‌های خارجی خواهد بود.",
+            "داخلی/اقتصاد: ادامه درگیری‌ها علیرغم آتش‌بس می‌تواند نارضایتی عمومی را تشدید کند؛ در شرایطی که مدیریت اقتصادی ناکارا باقی بماند، تشدید تنش‌های خارجی به سرعت به فشارهای معیشتی و افزایش احتمال اعتراضات محلی تبدیل خواهد شد."
+        ],
+        "impact": "حمله نظامی پس از آتش‌بس نشان می‌دهد توافق فعلی شکننده است و خطر گسترش درگیری منطقه‌ای را افزایش می‌دهد، امری که به تضعیف بیشتر اقتدار داخلی و افزایش هزینه‌های اقتصادی برای ایران می‌انجامد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/world/israel-strikes-southern-lebanon-after-us-iran-ceasefire/ar-AA20p6Cz",
+        "clean_url": "https://www.msn.com/en-us/news/world/israel-strikes-southern-lebanon-after-us-iran-ceasefire/ar-AA20p6Cz",
+        "image": null,
+        "timestamp": 1775645377.0
+    },
+    {
         "title_fa": "ایران طرح ده‌ماده‌ای «توافق با ترامپ» را منتشر کرد… اما عوارض ۵۰۰میلیارد دلاری در تنگه هرمز و غنی‌سازی هسته‌ای ممکن است باقی بماند",
         "title_en": "Iran reveals 10-point deal 'agreed with Trump'…but $500bn 'tollbooth' in Strait of Hormuz & nuke enrichment could remain",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/us-iran-ceasefire-deal-terms-092022752.html",
         "image": null,
         "timestamp": 1775640774.0
+    },
+    {
+        "title_fa": "آتش‌بس دو هفته‌ای میان ایران و آمریکا با میزبانی پاکستان؛ تنگه هرمز باز شد",
+        "title_en": "US and Iran agree to two-week ceasefire brokered by Pakistan",
+        "summary": [
+            "ایالات متحده و ایران با میانجی‌گری پاکستان به آتش‌بس فوری دو هفته‌ای توافق کردند؛ در پی آن تنگه هرمز برای عبور دریایی باز شد و نخست‌وزیر شهباز شریف دعوت کرد نمایندگان دو طرف در ۱۰ آوریل در اسلام‌آباد برای مذاکرات تکمیلی حاضر شوند.",
+            "این توافق نشان می‌دهد ظرفیت فشار دیپلماتیک و تهدید نظامی آمریکا و متحدانش توانسته تهران را موقتا به میز مذاکره بیاورد؛ گزارش اما هیچ جزئیاتی از امتیازدهی مشخص یا تضمین‌های بلندمدت ارائه نمی‌دهد.",
+            "گزارش نشانه‌ای از واکنش داخلی یا اثرات اقتصادی در ایران ارائه نکرده؛ بازگشایی تنگه هرمز می‌تواند اختلالات تجاری و نفتی کوتاه‌مدت را کاهش دهد، اما هیچ دلالتی بر حل ساختاری بحران‌های حکمرانی یا کاهش بلندمدت نارضایتی داخلی ندارد."
+        ],
+        "impact": "آتش‌بس و بازگشایی تنگه هرمز فشار فوری نظامی-اقتصادی را کاهش می‌دهد اما تضمینی برای ثبات ساختاری رژیم یا رفع بحران‌های سیاسی و اقتصادی داخلی نیست.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Reuters",
+        "url": "https://tribune.com.pk/story/2601633/us-and-iran-agree-to-pakistans-two-week-ceasefire-framework",
+        "clean_url": "https://tribune.com.pk/story/2601633/us-and-iran-agree-to-pakistans-two-week-ceasefire-framework",
+        "image": null,
+        "timestamp": 1775640571.0
     },
     {
         "title_fa": "آتش‌بس شکننده میان آمریکا و ایران آرامش بازار را برانگیخت — اما مسیر روشنی به صلح پایدار نیست",
@@ -180,6 +216,60 @@
         "timestamp": 1775622935.0
     },
     {
+        "title_fa": "آتش‌بس ترامپ با ایران از تمجید رهبران جهان برخوردار شد",
+        "title_en": "President Trump’s ceasefire with Iran draws praise from world leaders",
+        "summary": [
+            "رهبران اسرائیل، آلمان و بریتانیا تمجید خود را از آتش‌بس اعلام‌شده توسط رئیس‌جمهور ترامپ نسبت به ایران ابراز کردند.",
+            "ترامپ اعلام کرد که آمریکا در کاهش ترافیک دریایی در تنگه هرمز کمک خواهد کرد و این سخن نشان‌دهنده نقش عملیاتی واشنگتن در منطقه است.",
+            "حمایت بین‌المللی از آتش‌بس، در حالی که تنش نظامی را موقتا کاهش می‌دهد، می‌تواند به تشدید فشارهای سیاسی و اقتصادی بر رژیم ایران بینجامد."
+        ],
+        "impact": "آتش‌بس خطر تشدید رویارویی نظامی را کاهش می‌دهد اما تحسین جهانی از اقدام آمریکا می‌تواند انزوای سیاسی و آسیب‌پذیری اقتصادی رژیم ایران را تقویت کند.",
+        "tag": "صلح",
+        "urgency": 5,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/trump-us-iran-war-ceasefire-strait-hormuz-israel-live-updates-04-08-2026",
+        "clean_url": "https://www.foxnews.com/live-news/trump-us-iran-war-ceasefire-strait-hormuz-israel-live-updates-04-08-2026",
+        "image": "http://www.bing.com/th?id=ONUT.lm6jcBdmdDlDJga_G1kmqA&pid=News",
+        "timestamp": 1775622360.0
+    },
+    {
+        "title_fa": "ترامپ آتش‌بس با ایران را اعلام کرد؛ آیا صلح پایدار خواهد ماند؟",
+        "title_en": "Trump announces ceasefire with Iran. Will peace last? Live war updates",
+        "summary": [
+            "تحلیل تحریم‌ها و فشار خارجی: اعلام آتش‌بس از سوی ترامپ اگر واقعی باشد فشارهای نظامی را موقتاً کاهش می‌دهد اما ساختار تحریم‌ها و فشار اقتصادی که به تضعیف ساختاری رژیم می‌انجامد، بدون تصمیم سیاسی و لغو رسمی تحریم‌ها تغییر نخواهد کرد؛ بنابراین سودمندی بلندمدت برای تضعیف رژیم محدود است.",
+            "اعتراضات داخلی و اقتصاد: آتش‌بس موقت می‌تواند تنش‌های خیابانی را کاهش دهد اما ناکارآمدی مدیریتی، فساد و شرایط معیشتی نامناسب ریشه‌های نارضایتی را حفظ می‌کنند؛ احتمال بازگشت یا تشدید اعتراضات بستگی مستقیم به بهبود اقتصادی واقعی دارد، نه فقط قطع آتش.",
+            "اصل واقع‌گرایی و شواهد محدود: گزارش حاضر جزئیات کلیدی—سازوکار نظارت بر آتش‌بس، طرف‌های امضا‌کننده، ضمانت‌های اجرایی و تغییرات در سیاست تحریمی واشنگتن—را ارائه نمی‌دهد؛ بدون این اطلاعات نمی‌توان درباره پایداری یا اثرات استراتژیک توافق قضاوت قطعی کرد."
+        ],
+        "impact": "آتش‌بس اعلام‌شده می‌تواند ثبات کوتاه‌مدتی ایجاد کند اما بدون تغییر در ساختار تحریم‌ها و اصلاحات مدیریتی، روند تضعیف رژیم ادامه خواهد یافت.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2026/04/08/iran-war-ceasefire-strait-hormuz-trump-updates--live/89509782007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/08/iran-war-ceasefire-strait-hormuz-trump-updates--live/89509782007",
+        "image": "http://www.bing.com/th?id=ONUT.PLNDoIobPeULdRlZhZ5UUg&pid=News",
+        "timestamp": 1775622300.0
+    },
+    {
+        "title_fa": "چرا پاکستان و چین میانجی‌گری یک آتش‌بس شکننده ایران را انجام دادند",
+        "title_en": "Why Pakistan and China brokered a fragile Iran ceasefire",
+        "summary": [
+            "متن منبع ارائه‌شده در دسترس نیست و جزئیات گزارش USA TODAY درباره آتش‌بس در داده‌های پیوست تأیید نمی‌شود؛ بنابراین هر تحلیل باید با احتیاط خوانده شود.",
+            "عنوان نشان می‌دهد که پاکستان و چین به‌عنوان میانجی در حصول یک آتش‌بس شکننده مرتبط با ایران نقش داشته‌اند؛ محتوای دقیق، دامنه و تعهدات طرفین در متن ارائه‌شده معلوم نیست.",
+            "در صورت صحت گزارش، حضور چین به‌عنوان میانجی باید به‌عنوان اقدامی سازنده برای بقای راهبردی رژیم تعبیر شود که به آن تنفس سیاسی و اقتصادی می‌دهد، و نقش پاکستان نیز به‌عنوان میانجی منطقه‌ای در کاهش فوری تنش‌ها قابل توجه است؛ اما هیچ دلیلی در متن برای ادعای رفع ساختاری مشکلات اقتصادی یا پایان نارضایتی داخلی وجود ندارد."
+        ],
+        "impact": "اگر خبر معتبر باشد، میانجیگری پاکستان و چین به رژیم فرصت تنفس کوتاه‌مدت می‌دهد که می‌تواند فشار نظامی فوری و آسیب‌پذیری در برابر تحریم‌ها را موقتا کاهش دهد، اما ریشه‌های ضعف حکمرانی و بحران اقتصادی همچنان پابرجا خواهند ماند.",
+        "tag": "میانجیگری",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2026/04/08/us-iran-ceasefire-brokered-by-pakistan-and-china/89512459007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/08/us-iran-ceasefire-brokered-by-pakistan-and-china/89512459007",
+        "image": "http://www.bing.com/th?id=ONUT.geHanNRzYpd0soo_AOvR4w&pid=News",
+        "timestamp": 1775621040.0
+    },
+    {
         "title_fa": "نتانیاهو: آتش‌بس آمریکا–ایران شامل لبنان نمی‌شود",
         "title_en": "Netanyahu says US-Iran ceasefire ‘does not include Lebanon’",
         "summary": [
@@ -196,6 +286,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/netanyahu-says-us-iran-ceasefire-031742583.html",
         "image": null,
         "timestamp": 1775620944.0
+    },
+    {
+        "title_fa": "طرح صلح ده‌ماده‌ای ایران: احتمال موافقت ترامپ با هر پیشنهاد چقدر است",
+        "title_en": "Iran’s 10-Point Peace Plan: How Likely Trump Will Agree To Each Proposal",
+        "summary": [
+            "رسانه گزارش می‌دهد ایران یک طرح صلح ده‌ماده‌ای را افشا کرده و دونالد ترامپ آن را «پایه‌ای قابل مذاکره» خوانده؛ کاخ سفید هم همزمان توقف دو هفته‌ای حملات هوایی آمریکا را در حین مذاکرات اعلام کرده است.",
+            "اعلام توقف حملات، فشار نظامی مستقیم ایالات متحده را موقتاً کاهش می‌دهد و به تهران «زمان نفس‌گیری» می‌دهد؛ با این حال گزارش هیچ نشانه‌ای از لغو یا تسهیل تحریم‌ها را ذکر نکرده است.",
+            "متن خبر واکنش داخلی یا تغییر در سیاست‌های اقتصادی جمهوری اسلامی را پوشش نمی‌دهد؛ بنابراین این ابتکار فعلاً یک مانور دیپلماتیک است و نه پاسخی به ناکارآمدی ساختاری داخلی."
+        ],
+        "impact": "توقف دو هفته‌ای حملات، اهرم فشار نظامی آمریکا را کوتاه‌مدت تضعیف کرده و به رژیم وقت می‌فروشد، اما بدون تغییر در وضعیت تحریم‌ها یا اصلاحات داخلی این اقدام ثبات بلندمدت نظام را تضمین نمی‌کند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-war-ten-point-peace-plan-how-likely-donald-trump-agree-11798406",
+        "clean_url": "https://www.newsweek.com/iran-war-ten-point-peace-plan-how-likely-donald-trump-agree-11798406",
+        "image": "http://www.bing.com/th?id=ONUT.5RaYdOA9hzAV1dVY7dnUEQ&pid=News",
+        "timestamp": 1775620680.0
     },
     {
         "title_fa": "آغاز آتش‌بس دو هفته‌ای میان آمریکا و ایران؛ اسرائیل: لبنان مشمول نیست",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/graphic-the-latest-on-iran-s-military-attacks-on-gulf-states/ar-AA1ZyTv2",
         "image": null,
         "timestamp": 1775280602.0
-    },
-    {
-        "title_fa": "جست‌وجوی خلبان مفقود آمریکایی؛ تهران درِ مذاکرات را نیمه‌باز گذاشت",
-        "title_en": "Iran leaves door open for peace talks as hunt for missing US pilot continues",
-        "summary": [
-            "نیروهای ایرانی برای یافتن یک خلبان آمریکایی مفقود از میان دو هواپیمای سرنگون‌شده بسیج شده‌اند؛ این حادثه ادعای تسلط کامل آمریکا بر آسمان را تضعیف کرده و زمینه تشدید مستقیم درگیری را فراهم می‌کند.",
-            "تهدید بمباران «تا عصر حجر» از سوی دونالد ترامپ و گزارش حمایت عمومی اندک در آمریکا نشان می‌دهد که فشار خارجی و ریسک اقتصادی جهانی بالا رفته و پیچیدگی حل سیاسی بحران را تشدید می‌کند.",
-            "گزارش از خانه‌های آسیب‌دیده در تهران و موضع سرسخت رهبری ایران از آغاز جنگ، نشانه‌هایی از سوءمدیریت و ناکارآمدی حکمرانی در مدیریت بحران است که می‌تواند به افزایش هزینه‌های داخلی و نارضایتی اجتماعی بینجامد."
-        ],
-        "impact": "خطر ماندگاری خلبان مفقود و تزلزل در ادعای کنترل آسمان، شانس گسترش اقدامات نظامی آمریکا و تشدید بحران داخلی-اقتصادی در ایران را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/downed-planes-spell-peril-trump-054821842.html",
-        "clean_url": "https://www.yahoo.com/news/articles/downed-planes-spell-peril-trump-054821842.html",
-        "image": "http://www.bing.com/th?id=ONUT.T4BUg_mnNi4cuX6V-hvIhQ&pid=News",
-        "timestamp": 1775279880.0
-    },
-    {
-        "title_fa": "بن‌بست را بشکنید — وگرنه ایران پیروز می‌شود",
-        "title_en": "Break the Stalemate—or Iran Wins",
-        "summary": [
-            "عنوان مقاله هشدار مستقیمی را مطرح می‌کند: ادامه بن‌بست کنونی به نفع رژیم ایران خواهد بود و نیاز فوری به تغییر راهبردی از سوی بازیکنان مقابل وجود دارد.",
-            "تحریم‌ها و فشار خارجی به‌تنهایی در شرایط بن‌بست بلندمدت ساختارهای رژیم را تضعیف تضمین‌شده نمی‌کنند؛ رژیم می‌تواند فشارها را به ابزارهایی برای تحکیم دستگاه امنیتی، بسیج ملی‌گرایی و توجیه سیاست‌های ناکارآمد اقتصادی تبدیل کند—لذا فشارها باید با اقدامات سیاسی و نظامی متوازن شود.",
-            "ناکامی در شکستن بن‌بست، تشدید ناکارآمدی اقتصادی و نارضایتی اجتماعی را افزایش می‌دهد اما ظرفیت رژیم برای سرکوب و بازتوزیع منابع می‌تواند مانع فروپاشی فوری شود؛ قضاوت دقیق نیازمند متن کامل مقاله است."
-        ],
-        "impact": "بدون اقدام راهبردی و فوری برای شکستن بن‌بست، بازیگران مهارکننده با افزایش هزینه‌های سیاسی و نظامی روبه‌رو شده و احتمالاً در میدان رقابت منطقه‌ای میدان را به تهران خواهند باخت.",
-        "tag": "بن‌بست",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "meforum.org",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Cc0VlVUZoSEhwMnlaTE5Pc19QNjZXQlV4Tms4QWxENDgzdU50aURaWXdvdVJDTVJNYS1oX3VDZWJaTzdEOWp4NmFjZFREVVpxZU4xblhubFlBMFUzWmxBNFN1cUdyLXFXNndVcHVTYlhmWGY5cEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Cc0VlVUZoSEhwMnlaTE5Pc19QNjZXQlV4Tms4QWxENDgzdU50aURaWXdvdVJDTVJNYS1oX3VDZWJaTzdEOWp4NmFjZFREVVpxZU4xblhubFlBMFUzWmxBNFN1cUdyLXFXNndVcHVTYlhmWGY5cEE",
-        "image": null,
-        "timestamp": 1775279700.0
-    },
-    {
-        "title_fa": "جدیدترین: رسانه‌های دولتی ایران می‌گویند جنگنده پشتیبانی هوایی A-10 آمریکا توسط پدافند هوایی ایران هدف قرار گرفت",
-        "title_en": "The Latest: US A-10 attack aircraft was hit by Iranian air defense forces, says Iran’s state media",
-        "summary": [
-            "رسانه‌های رسمی ایران گزارش دادند یک فروند هواپیمای پشتیبانی نزدیک A-10 ساخت آمریکا توسط سامانه‌های پدافندی ایران هدف قرار گرفته است.",
-            "در متن خبر تأیید مستقل از منابع خارجی یا بیانیه رسمی ایالات متحده ذکر نشده و جزئیات تکمیلی فنی یا تصویری ارائه نشده است.",
-            "این ادعا می‌تواند خطر تشدید رویارویی نظامی با آمریکا را افزایش دهد و احتمال موج جدیدی از فشارهای بین‌المللی و تحریم‌ها را بالا ببرد؛ پیامدهای اقتصادی-سیاسی بالقوه می‌تواند ثبات رژیم را تحت فشار قرار دهد."
-        ],
-        "impact": "این رخداد می‌تواند بلافاصله تنش نظامی و فشار دیپلماتیک و اقتصادی بر ایران را افزایش دهد و در میان‌مدت به تشدید بحران اقتصادی و کاهش مشروعیت سیاسی رژیم منجر شود.",
-        "tag": "رویارویی",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Seattle Times",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFhVOUpoQ0FiMnlJWEVMQy03VWJBU2hRZ1F4RzRRcUw5dnB4RU1scWF0bWVMV0VUNXNuNE5YVFNhNUtTQVI2dEJlNjZqaml3UEJMTjdtTHJ3ZnN1em43Q2FGU0lNWmxCbi1YOXpWTnhjTkg1Ul9SWWQzSTJBOEhfa0EzTXRZNDBlTHF1SmlMZVpPZlZKT19rTmt6ZFFlMXBKZkp5MEY2OWFmbnhnQ1NiUUg4NGhGdjBjTGVKMEFfbkFmYWlVNlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeFhVOUpoQ0FiMnlJWEVMQy03VWJBU2hRZ1F4RzRRcUw5dnB4RU1scWF0bWVMV0VUNXNuNE5YVFNhNUtTQVI2dEJlNjZqaml3UEJMTjdtTHJ3ZnN1em43Q2FGU0lNWmxCbi1YOXpWTnhjTkg1Ul9SWWQzSTJBOEhfa0EzTXRZNDBlTHF1SmlMZVpPZlZKT19rTmt6ZFFlMXBKZkp5MEY2OWFmbnhnQ1NiUUg4NGhGdjBjTGVKMEFfbkFmYWlVNlE",
-        "image": null,
-        "timestamp": 1775278709.0
-    },
-    {
-        "title_fa": "۳۶۵ عضو نیروهای آمریکایی در درگیری با ایران مجروح شدند",
-        "title_en": "365 US service members have been wounded in action in Iran conflict",
-        "summary": [
-            "خبر اصلی: ۳۶۵ عضو نیروهای آمریکایی در درگیری با ایران مجروح شده‌اند؛ منبع گزارش تنها همین آمار را منعکس کرده است.",
-            "فشار خارجی/تحریم‌ها: این سطح تلفات می‌تواند فشار سیاسی-نظامی بر واشنگتن را افزایش دهد و به احتمال افزایش واکنش‌های تلافی‌جویانه یا تحریمی منجر شود که در مجموع می‌تواند ساختارهای اقتصادی و سیاسی رژیم را تضعیف کند.",
-            "اعتراضات داخلی/اقتصاد: ادامه ماجراجویی‌های نظامی و هزینه‌گذاری امنیتی، در شرایط مشکلات اقتصادی موجود، پتانسیل تشدید نارضایتی عمومی را دارد؛ اتصال مستقیم این حادثه به قیام یا اعتراض گسترده نیازمند شواهد بیشتری است."
-        ],
-        "impact": "افزایش فوری تنش نظامی که احتمال تشدید فشار خارجی و افزایش نارضایتی داخلی را بالا می‌برد.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "firstalert4.com",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkNqdUM2UDBoMll6d3FlaU4yQUVWY0ZKTklYNk5DTXZGSlhMLS1BWnVrQjc5M1dBV3NFV0ZraUwyUy1kTXVzejBsLTcwYnBnM2xadUVhRkp4OHlzV3c2Nmd2eFgzVWdkZFpoLUVRcy1uU0NUZWRMY0hWNHZrczNqODdsX3VjeWNzS2Q1SVBzLWZCX1RWazFZaTNJbFFVQ0NXMkg40gG3AUFVX3lxTE9qeng2cEo5NUgxNUZmWjRYTGtHeVcwNnRfanVSM0hGQlZPQjdkVGNmMjhzUWRzelFYTl8zNlBVS3l2MEFzTmdPZDFJT3NEb0Z6eTZwdzhQYUdjTUtkY2tfMDlNcVNrb3BPQnNIa2FaTnhzdy0xTUhUOGlsS3E1V1ZJTUxvd1FmN3N4TTlRdWlvemh3QURDRTBvX1diQWpjTTV6dUJ0eGZ0TDdUOEtlTnpvM2ZTdTRJNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkNqdUM2UDBoMll6d3FlaU4yQUVWY0ZKTklYNk5DTXZGSlhMLS1BWnVrQjc5M1dBV3NFV0ZraUwyUy1kTXVzejBsLTcwYnBnM2xadUVhRkp4OHlzV3c2Nmd2eFgzVWdkZFpoLUVRcy1uU0NUZWRMY0hWNHZrczNqODdsX3VjeWNzS2Q1SVBzLWZCX1RWazFZaTNJbFFVQ0NXMkg40gG3AUFVX3lxTE9qeng2cEo5NUgxNUZmWjRYTGtHeVcwNnRfanVSM0hGQlZPQjdkVGNmMjhzUWRzelFYTl8zNlBVS3l2MEFzTmdPZDFJT3NEb0Z6eTZwdzhQYUdjTUtkY2tfMDlNcVNrb3BPQnNIa2FaTnhzdy0xTUhUOGlsS3E1V1ZJTUxvd1FmN3N4TTlRdWlvemh3QURDRTBvX1diQWpjTTV6dUJ0eGZ0TDdUOEtlTnpvM2ZTdTRJNA",
-        "image": null,
-        "timestamp": 1775278500.0
-    },
-    {
-        "title_fa": "جدیدترین تحولات جنگ با ایران: ساقط شدن F-15 و حملات تلافی‌جویانه منطقه‌ای",
-        "title_en": "Latest updates on the Iran war",
-        "summary": [
-            "گزارش‌ها حاکی از ساقط شدن یک جنگنده آمریکایی F-15 و حمله به چند هدف داخل ایران است؛ اطلاعات دقیق درباره اهداف و تلفات هنوز در حال تکمیل است.",
-            "ایران اقدام به حملات تلافی‌جویانه علیه کشورهای منطقه کرده است؛ دامنه، اهداف و بازیگران درگیر این واکنش‌ها هنوز به‌طور کامل مشخص نیست.",
-            "این تشدید نظامی احتمال افزایش رویارویی مستقیم با آمریکا و شرکای منطقه‌ای را بالا می‌برد و می‌تواند فشارهای بین‌المللی (از جمله خطر تشدید تحریم‌ها) و انتقال منابع حکومتی به امور امنیتی را تشدید کند؛ تبعات اقتصادی داخلی احتمالا تشدید نارضایتی عمومی را بیشتر خواهد کرد."
-        ],
-        "impact": "تشدید درگیری‌ها ریسک گسترش مواجهه نظامی مستقیم و افزایش فشار بین‌المللی را بالا می‌برد و با انتقال منابع به هزینه‌های نظامی، اقتصاد داخلی و ثبات سیاسی را ضعیف‌تر می‌کند.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/04/04/nx-s1-5773234/latest-updates-on-the-iran-war",
-        "clean_url": "https://www.npr.org/2026/04/04/nx-s1-5773234/latest-updates-on-the-iran-war",
-        "image": null,
-        "timestamp": 1775278440.0
-    },
-    {
-        "title_fa": "هگست: «تنش‌های مربوط به ایران تازه آغاز شده‌اند»",
-        "title_en": "Iran conflict latest: Hegseth says Iran conflict has \"only just begun\"",
-        "summary": [
-            "عنوان گزارش نقل قولی از هگست است که مدعی شده درگیری‌ها درباره ایران «فقط آغاز شده‌اند»؛ خبر منبعی از لحن جنگ‌طلبانه رسانه‌ای را منعکس می‌کند، نه گزارش عملیات نظامی جدید.",
-            "افزایش لحن جنگ‌طلبانه در رسانه‌های خارجی می‌تواند زمینه‌ساز فشارهای بیشتر—از جمله توجیه تحریم‌ها یا اقدامات نظامی—باشد، اما تا وقتی این لحن به سیاست رسمی تبدیل نشود، پیامدها شرطی و غیرقطعی‌اند.",
-            "متن منبع اشاره‌ای به اعتراضات داخلی، وضعیت اقتصادی یا نقش روسیه/چین/کره‌شمالی ندارد؛ بنابراین نمی‌توان بر اساس این خبر روابط استراتژیک یا نارضایتی‌های داخلی را مستقیماً استنتاج کرد."
-        ],
-        "impact": "تشدید لحن رسانه‌ای می‌تواند روند سیاسی را برای تشدید فشارهای خارجی یا مشروع‌سازی عملیات نظامی علیه رژیم هموار کند، اما تبدیل این لحن به اقدامات واقعی هنوز اثبات نشده و اثرات ساختاری بسته به واکنش دولت‌های خارجی خواهد بود.",
-        "tag": "تنش",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Investing.com",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNmU1V2liZ2ZLU0FmclhzeENybFM2UjJIZzZhNmE0VDl3X3gxY0ZMcm82bnB5V3dWbDlkWUs3anRCY1R3cGdjOFd6ZlFCaHpPWTVISk5wcXNjeGVzVWVOQllsVUFqZmRlLVZORHZaR1BoeGY2UEViWmFJaDlEQ1VPbEtEUTZwTzlmd2x3a09HaDJoWWF2QTk4UzFsVDdhSS10RHlFOFlsX3RvQ1FjMTRoZDN3d084MjlrWGlZNDJUOUlsbGtuOGdEYXI5TVA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNmU1V2liZ2ZLU0FmclhzeENybFM2UjJIZzZhNmE0VDl3X3gxY0ZMcm82bnB5V3dWbDlkWUs3anRCY1R3cGdjOFd6ZlFCaHpPWTVISk5wcXNjeGVzVWVOQllsVUFqZmRlLVZORHZaR1BoeGY2UEViWmFJaDlEQ1VPbEtEUTZwTzlmd2x3a09HaDJoWWF2QTk4UzFsVDdhSS10RHlFOFlsX3RvQ1FjMTRoZDN3d084MjlrWGlZNDJUOUlsbGtuOGdEYXI5TVA",
-        "image": null,
-        "timestamp": 1775277608.0
     }
 ]
