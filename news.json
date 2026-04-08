@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چه آمریکا، ایران، اسرائیل و پاکستان درباره آتش‌بس گفته‌اند",
+        "title_en": "What the US, Iran, Israel and Pakistan have said about the ceasefire",
+        "summary": [
+            "گزارش رویترز بیانیه‌های رسمی چهار بازیگر را درباره پیشنهاد یا اجرای آتش‌بس گردآوری کرده است؛ هر کشور مواضع متمایزی ارائه کرده که نشان‌دهنده تقسیم‌بندی دیپلوماسی منطقه‌ای است.",
+            "متن گزارش به صورت توصیفی مواضع را نقل می‌کند و به شواهد جدید از تغییرات موازنه قدرت یا تحریم‌های تازه اشاره نمی‌کند؛ بنابراین نتیجه‌گیری درباره تحولات ساختاری فراتر از مواضع رسمی محدود است.",
+            "گزارش اشاره‌ای به نقش روسیه، چین یا کره‌شمالی ندارد و نیز هیچ نشانه‌ای از ارتباط مستقیم این بیانیه‌ها با اعتراضات داخلی یا بحران اقتصادی در داخل کشورها مطرح نشده است."
+        ],
+        "impact": "جمع‌بندی رسمی مواضع چهار کشور اهمیت تاکتیکی دارد اما به خودی خود نشان‌دهنده تغییر ساختاری در موازنه منطقه‌ای یا فروپاشی دولت‌ها نیست؛ این داده‌ها باید همراه با تحولات میدانی و فشارهای اقتصادی بررسی شوند.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "Reuters",
+        "url": "https://www.usnews.com/news/world/articles/2026-04-08/explainer-what-the-us-iran-israel-and-pakistan-have-said-about-the-ceasefire",
+        "clean_url": "https://www.usnews.com/news/world/articles/2026-04-08/explainer-what-the-us-iran-israel-and-pakistan-have-said-about-the-ceasefire",
+        "image": null,
+        "timestamp": 1775653180.0
+    },
+    {
         "title_fa": "از باریدن آتش تا آتش‌بس: چگونه ترامپ مسیر جنگ با ایران را برگرداند؟",
         "title_en": "From raining fire to ceasefire: How did Trump reverse course on the Iran war?",
         "summary": [
@@ -126,6 +144,24 @@
         "timestamp": 1775637549.0
     },
     {
+        "title_fa": "آتش‌بس شکننده؛ آمریکا و ایران برای مذاکرات در پاکستان آماده می‌شوند",
+        "title_en": "Fragile ceasefire takes effect as US and Iran prepare for talks in Pakistan",
+        "summary": [
+            "آتش‌بس شکننده اجرا شد و هم دونالد ترامپ و هم تهران آن را پیروزی جلوه دادند؛ پنتاگون اعلام کرده است که نیروهای آمریکایی در صورت دستور آماده ازسرگیری عملیات رزمی هستند، که وضعیت را به شدت ناپایدار نگه می‌دارد.",
+            "تهران اعلام کرده هماهنگی برای بازگشایی تنگه هرمز صورت خواهد گرفت؛ این گام عملی می‌تواند اختلال تجاری را کاهش دهد و به رژیم فرصت دیپلماتیک و اقتصادی کوتاه‌مدت بدهد اما متن گزارش روشن نمی‌کند که آیا این به کاهش تحریم‌ها یا بهبود ساختاری اقتصاد خواهد انجامید.",
+            "مذاکرات آمریکا و ایران در پاکستان برنامه‌ریزی شده و هم‌زمان اسرائیل عملیات زمینی در لبنان را ادامه می‌دهد؛ آتش‌بس فعلی صرفاً محدود به کاهش فوری خشونت‌ها است و درگیری‌های منطقه‌ای و خطر تشدید دوباره ادامه دارند."
+        ],
+        "impact": "آتش‌بس موقت فشار نظامی مستقیم را کاهش می‌دهد و به رژیم تنفسی موقت برای بازسازی ظرفیت‌های امنیتی و دیپلماتیک می‌دهد، اما شکنندگی ساختاری و احتمال ازسرگیری درگیری بالا باقی می‌ماند.",
+        "tag": "آتش‌بس",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/2026/04/08/world/live-news/iran-war-trump-us-ceasefire",
+        "clean_url": "https://edition.cnn.com/2026/04/08/world/live-news/iran-war-trump-us-ceasefire",
+        "image": "http://www.bing.com/th?id=ONUT.Wu7_9p2OgsCrfnIVcRCoaw&pid=News",
+        "timestamp": 1775634600.0
+    },
+    {
         "title_fa": "جدیدترین خبر: ترامپ تهدیدها را عقب می‌کشد؛ آمریکا، اسرائیل و ایران به آتش‌بس دو هفته‌ای رسیدند",
         "title_en": "The Latest: Trump pulls back on threats as US, Israel and Iran reach a 2-week ceasefire deal",
         "summary": [
@@ -142,6 +178,42 @@
         "clean_url": "https://www.msn.com/en-us/news/world/the-latest-trump-pulls-back-on-threats-as-us-israel-and-iran-reach-a-2-week-ceasefire-deal/ar-AA20omnv",
         "image": null,
         "timestamp": 1775634558.0
+    },
+    {
+        "title_fa": "ادامه حملات ساعاتی پس از آتش‌بس «شکننده» ایران: آیا تنگه هرمز باز است؟",
+        "title_en": "Attacks continue hours after Iran’s ‘fragile’ ceasefire: Is Strait of Hormuz open?",
+        "summary": [
+            "ایران، آمریکا و اسرائیل یک آتش‌بس دو هفته‌ای موقت به‌عنوان توافق لحظهٔ آخر اعلام کردند؛ این توافق به دونالد ترامپ امکان عقب‌نشینی از تهدید بمباران گسترده را داد.",
+            "با وجود اعلام آتش‌بسِ شکننده، حملات چند ساعت پس از توافق ادامه یافت که پرسش فوری درباره باز بودن تنگه هرمز و ثبات گذرگاه حیاتی تجارت دریایی را برجسته می‌کند.",
+            "آتش‌بس موقت نشان‌دهنده فشار خارجی و تضعیف توان رژیم برای مواجهه مستقیم است؛ این فشار ساختار سیاسی-اقتصادی را بیشتر آسیب‌پذیر می‌کند و ریسک تداوم بی‌ثباتی را بالا می‌برد."
+        ],
+        "impact": "آرامش موقت، عدم قطعیت را کاهش نمی‌دهد و ادامه حملات نشان می‌دهد که اختلال در تنگه هرمز و تجارت منطقه‌ای همچنان تهدیدی عملیاتی و اقتصادی باقی می‌ماند.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "al.com",
+        "url": "https://www.al.com/news/2026/04/attacks-resume-hours-after-irans-fragile-ceasefire-is-strait-of-hormuz-open.html",
+        "clean_url": "https://www.al.com/news/2026/04/attacks-resume-hours-after-irans-fragile-ceasefire-is-strait-of-hormuz-open.html",
+        "image": "http://www.bing.com/th?id=ONUT.XTnsQ30EYwY746JFtg8WGQ&pid=News",
+        "timestamp": 1775634300.0
+    },
+    {
+        "title_fa": "ادعای نقض آتش‌بس توسط اسرائیل و ادامه کنترل ایران بر تنگه هرمز",
+        "title_en": "Live Updates: Iran claims Israeli ceasefire violations as it appears to maintain control over Strait of Hormuz",
+        "summary": [
+            "ایران می‌گوید اسرائیل توافق آتش‌بس مشروط اعلام‌شده توسط ترامپ را نقض کرده است.",
+            "گزارش‌ها نشان می‌دهد ایران ظاهراً همچنان کنترل عملیاتی بر عبور و مرور دریایی در تنگه هرمز را حفظ کرده است.",
+            "ادعاهای نقض آتش‌بس همراه با کنترل تنگه، خطر تشدید تنش منطقه‌ای و اختلال در مسیرهای انرژی جهانی را افزایش می‌دهد."
+        ],
+        "impact": "این تحولات می‌تواند فشارهای خارجی و اقتصادی را تشدید کند و به کاهش بیشتر سرمایه‌گذاری و افزایش نارضایتی داخلی دامن بزند، در نتیجه ثبات سیاسی رژیم را تضعیف‌تر می‌کند.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-trump-ceasefire-strait-hormuz-israel-war-hezbollah-continues/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-trump-ceasefire-strait-hormuz-israel-war-hezbollah-continues",
+        "image": "http://www.bing.com/th?id=ONUT.Y_OUV2-mqafkCRQucve3pA&pid=News",
+        "timestamp": 1775633760.0
     },
     {
         "title_fa": "ارتش اسرائیل اعلام کرد حملات علیه ایران متوقف شده، اما در لبنان علیه حزب‌الله به جنگ ادامه می‌دهد",
@@ -232,6 +304,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-israel-and-iran-agree-to-a-2-week-ceasefire-as-trump-pulls-back-on-his-threats/ar-AA20omgP",
         "image": null,
         "timestamp": 1775626246.0
+    },
+    {
+        "title_fa": "آمریکا، اسرائیل و ایران بر آتش‌بس موقت توافق کردند؛ جزئیات نامشخص",
+        "title_en": "Live updates: US, Israel and Iran agree to a tentative ceasefire, even as the terms remain unclear",
+        "summary": [
+            "آمریکا، اسرائیل و ایران بر یک آتش‌بس موقت توافق کرده‌اند اما شرایط و سازوکار اجرای آن در گزارش مشخص نشده و تداوم آتش‌بس نامطمئن است.",
+            "روسیه و چین قطعنامهٔ نرم‌شده سازمان ملل برای بازگشایی تنگه هرمز را وتو کردند؛ این مداخله بین‌المللی نقش حمایتی آنها را به‌عنوان عامل بقای رژیم برجسته می‌کند.",
+            "اخبار مرتبط: خبرنگار آمریکایی شلی کیتلسون پس از یک هفته ربوده‌شدن در عراق آزاد شد که نشان‌دهنده ادامه سطح بالای مخاطره و بی‌ثباتی منطقه‌ای است."
+        ],
+        "impact": "آتش‌بس موقت ممکن است تنش نظامی فوری را کاهش دهد اما در غیاب شفافیت درباره مفاد توافق و با وجود وتوی روسیه و چین، مشکل ساختاری فشارهای خارجی و ناکارآمدی حکمرانی که ثبات واقعی را تهدید می‌کند حل نخواهد شد.",
+        "tag": "آتش‌بس",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-08-2026",
+        "image": "http://www.bing.com/th?id=ONUT.RJthM3uEgIx6usC2e-ydLw&pid=News",
+        "timestamp": 1775624460.0
     },
     {
         "title_fa": "انحصاری: گزارش اطلاعاتی درباره «تهدید مداوم» ایران به آمریکا هشدار داد در حالی که کاخ سفید خطر را کم‌اهمیت جلوه داد",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-latest-trump-gives-tehran-48-hours-to-open-strait-of-hormuz/ar-AA207bHe",
         "image": "http://www.bing.com/th?id=ONUT.8xUpyla9JMFnzCnlBDpt9Q&pid=News",
         "timestamp": 1775287470.0
-    },
-    {
-        "title_fa": "سپاه پاسداران انقلاب اسلامی در برابر تهاجم زمینی آمریکا مقاومت سرسختانه‌ای می‌کند؛ تاریخ این را ثابت می‌کند",
-        "title_en": "Iran’s Revolutionary Guard would fiercely resist a US ground invasion. History proves it",
-        "summary": [
-            "مقاله استدلال می‌کند که تجربه‌های گذشته — از جنگ ایران و عراق تا راهبری نبردهای نیابتی منطقه‌ای — نشان می‌دهد سپاه توان و اراده لازم برای مقابله سخت با تهاجم زمینی را دارد و از تاکتیک‌های نامتقارن برای تحمیل هزینه بالا بهره می‌برد.",
-            "شبکه‌های نیابتی و ساختارهای بسیجی‌گونه داخل کشور و در منطقه، امکان بسیج سریع نیرو و جنگ فرسایشی را فراهم می‌کنند؛ این بدان معناست که اشغال زمینی هزینه‌های سیاسی و نظامی بسیار بالایی برای متجاوز به دنبال خواهد داشت.",
-            "در سطح داخلی، مقاله هشدار می‌دهد که یک تهاجم زمینی نه تنها به تشدید درگیری‌های منطقه‌ای منجر می‌شود، بلکه به دلیل تحریم‌ها و مدیریت ضعیف اقتصادی، فشارهای اقتصادی و نارضایتی عمومی را تشدید خواهد کرد و ثبات حکمرانی را بیش از پیش تضعیف می‌کند."
-        ],
-        "impact": "یک تهاجم زمینی آمریکا احتمالاً به مقاومت گسترده و نامتقارن سپاه، تشدید بحران‌های منطقه‌ای و افزایش فشار اقتصادی و سیاسی داخلی منجر می‌شود که ثبات رژیم را هم تحت فشار قرار می‌دهد.",
-        "tag": "مقاومت",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "theconversation.com",
-        "url": "https://theconversation.com/irans-revolutionary-guard-would-fiercely-resist-a-us-ground-invasion-history-proves-it-279796",
-        "clean_url": "https://theconversation.com/irans-revolutionary-guard-would-fiercely-resist-a-us-ground-invasion-history-proves-it-279796",
-        "image": null,
-        "timestamp": 1775287266.0
-    },
-    {
-        "title_fa": "ایالات متحده و ایران: خلاصه‌ای از اینکه چگونه دهه‌ها بی‌اعتمادی و کینه به جنگی آشکار انجامید",
-        "title_en": "US and Iran: A brief history of how decades of mistrust and bad blood led to open warfare",
-        "summary": [
-            "ریشه بحران: کودتای ۱۹۵۳ به رهبری آمریکا و بریتانیا علیه محمد مصدق و سپس حمایت واشنگتن از حکومت سرکوبگر شاه، نقطه شروع بی‌اعتمادی بلندمدت میان ایران و آمریکا بود؛ انقلاب ۱۹۷۹ و تسخیر سفارت آمریکا مناسبات دیپلماتیک را قطع و مسیر تحریم‌ها را هموار کرد.",
-            "فشار خارجی و تحریم‌ها: از ۱۹۸۴ ایران به‌عنوان «حامی تروریسم» اعلام شد و تحریم‌ها و انزوای دیپلماتیک ساختار درآمد و گزینه‌های سیاست خارجی رژیم را محدود کرده‌اند، و فرصت‌های واقعی آشکار برای آشتی یا کاهش تنش‌ها را کاهش داده‌اند.",
-            "اوایل ۲۰۲۵: برخورد نظامی مستقیم — گزارش‌ها از بمباران‌های آمریکا علیه اهدافی در ایران و پاسخ تهران با حملات در خلیج فارس و محدودسازی تردد در تنگه هرمز نشان می‌دهد تنش دیرپای تاریخی به درگیری نظامی بازگشته؛ این چرخه تنش نتیجه ترکیبی از سیاست‌های شکست‌خورده داخلی و فشار خارجی است."
-        ],
-        "impact": "ترکیب تحریم‌ها، انزوای دیپلماتیک و مدیریت ناکارآمد داخلی رژیم را تضعیف کرده و همزمان شانس تشدید منازعه نظامی و بحران اقتصادی-امنیتی را در داخل و منطقه بالا برده است.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/us-iran-brief-history-decades-140406023.html",
-        "clean_url": "https://www.yahoo.com/news/articles/us-iran-brief-history-decades-140406023.html",
-        "image": "http://www.bing.com/th?id=ONUT.zK54QUbxXxSyPjf_LJGc3Q&pid=News",
-        "timestamp": 1775287080.0
-    },
-    {
-        "title_fa": "یک خدمه نجات یافت پس از سرنگونی جنگنده آمریکایی — لحظه به لحظه",
-        "title_en": "One crew member rescued after US fighter jet downed — as it happened",
-        "summary": [
-            "یک جنگنده نیروی هوایی آمریکا سرنگون شد و یک عضو خدمه نجات یافت، طبق گزارش The Times.",
-            "گزارش جزئیات محل، علت سرنگونی و وضعیت دیگر اعضای خدمه را ارائه نکرده است.",
-            "هیچ اشاره‌ای به مسئولیت سقوط، اقدامات تلافی‌جویانه یا دخالت بازیگران منطقه‌ای و بین‌المللی در متن گزارش وجود ندارد."
-        ],
-        "impact": "با اطلاعات محدود موجود، این حادثه پتانسیل تشدید تنش‌های نظامی را دارد اما فقدان جزئیات مانع از هر ارزیابی راهبردی دقیق درباره پیامدهای بلندمدت می‌شود.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.5,
-        "source": "The Times",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcThXbUxNcWdBU2NWSHpUOExkR3EyOVVYWFgzbzAzRnpUTHhrYVA2RTdLRmFSWnA4SEd1ZFp0RkJHbE4yMXhlUmdaWi05Tmxwc0pXME1WMEtKbnRNUUZLandjbGFlTU9NWWY0N1BWZ1N3dXd4YmZ0UEFRQmg2a2U4ZjJOckcyeUFVY1U1NUY4Q1NmVmRBcmtBMkh3bHREVlhzZWNlV1g3OWxlU3JFc2gxaHNaVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcThXbUxNcWdBU2NWSHpUOExkR3EyOVVYWFgzbzAzRnpUTHhrYVA2RTdLRmFSWnA4SEd1ZFp0RkJHbE4yMXhlUmdaWi05Tmxwc0pXME1WMEtKbnRNUUZLandjbGFlTU9NWWY0N1BWZ1N3dXd4YmZ0UEFRQmg2a2U4ZjJOckcyeUFVY1U1NUY4Q1NmVmRBcmtBMkh3bHREVlhzZWNlV1g3OWxlU3JFc2gxaHNaVQ",
-        "image": null,
-        "timestamp": 1775286960.0
-    },
-    {
-        "title_fa": "کاخ سفید درخواست بودجه دفاعی ۱.۵ تریلیون دلاری در پی جنگ با ایران مطرح کرد",
-        "title_en": "White House seeks $1.5 tn defense budget as Iran war drives costs",
-        "summary": [
-            "پرزیدنت ترامپ درخواست بودجه سال ۲۰۲۷ به میزان ۱.۵ تریلیون دلار را ارائه کرد؛ افزایش بیش از ۴۰ درصدی هزینه پنتاگون برای تداوم عملیات نظامی و تجدید مهمات پس از آغاز جنگ با ایران، که رسانه‌های آمریکا هزینه آن را تا ۲ میلیارد دلار در روز گزارش کرده‌اند.",
-            "درخواست بخشی از یک بسته ۹۲ صفحه‌ای است و به‌عنوان اولویت دولت جنگی معرفی شده؛ رئیس‌جمهور برای پوشش بخشی از هزینه‌ها پیشنهاد کاهش حدود ۷۳ میلیارد دلار از هزینه‌های غیرنظامی و واگذاری بعضی وظایف به سطح ایالتی را داده است، و این موضوع در کنگره به جبهه سیاسی تند تبدیل خواهد شد.",
-            "برای ایران، تقویت و طولانی شدن پرداخت‌های نظامی آمریکا معنایش افزایش فشار خارجی و تخلیه توان‌های نظامی و اقتصادی حامیان داخلی است؛ این فشار مالی-نظامی احتمال دارد کسری منابع را تشدید کند و ناامیدی عمومی را افزایش دهد، هرچند پیامدهای داخلی بستگی به واکنش‌های میدانی و مدیریتی دارد."
-        ],
-        "impact": "افزایش چشمگیر بودجه نظامی آمریکا نشانه واضح تشدید فشار نظامی و هزینه‌ای بر ایران است که می‌تواند توان رزمی و ثبات داخلی حکومت را تحت فشار قرار دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/white-house-requests-giant-1-133035688.html",
-        "clean_url": "https://www.yahoo.com/news/articles/white-house-requests-giant-1-133035688.html",
-        "image": "http://www.bing.com/th?id=ONUT.i-DVE2jot4qs9V2GXnXSXA&pid=News",
-        "timestamp": 1775285400.0
-    },
-    {
-        "title_fa": "ادامه جست‌وجو برای خدمه مفقود اف-۱۵ آمریکا؛ ایران از کشته‌شدن یک نفر نزدیک نیروگاه هسته‌ای خبر داد",
-        "title_en": "Search continues for missing US F-15 crew member, as Iran says one killed near nuclear plant",
-        "summary": [
-            "جست‌وجو برای خدمه مفقود اف-۱۵ آمریکایی ادامه دارد؛ رسانه‌های دولتی ایران پاداش اعلام کرده‌اند و در کنار اصابت یک هواپیمای A-10، دست‌کم هفت فروند هواپیمای سرنشین‌دار آمریکایی در جریان درگیری‌ها از دست رفته‌اند — نشانه افزایش مستقیم رویارویی نظامی میان تهران و واشنگتن/تل‌آویو.",
-            "محیط یک نیروگاه هسته‌ای و چند شرکت پتروشیمی هدف قرار گرفته‌اند و دولت ایران اعلام کرده عبور کشتی‌های حامل «کالاهای اساسی» از تنگه هرمز مجاز خواهد بود؛ هدف‌گیری صنایع سنگین و مؤثر بودن مسدودسازی مسیرهای تجاری فشار خارجی را به ستون‌های درآمدی کشور وارد می‌کند.",
-            "وزیر علوم، حسین سیماعی‌سراف، گفت بیش از ۳۰ دانشگاه مورد حملات مستقیم قرار گرفته‌اند و ساختمان‌های یک دانشگاه معتبر در تهران آسیب دیده‌اند؛ محروم شدن میلیون‌ها دانش‌آموز و دانشجو از آموزش نشانه‌ای آشکار از هزینه اجتماعی و ناکارآمدی مدیریتی نظام است که می‌تواند نارضایتی عمومی را افزایش دهد."
-        ],
-        "impact": "این ضربات به زیرساخت‌های صنعتی، تجاری و آموزشی فشار خارجی را سریعاً به بحران‌های داخلی تبدیل می‌کنند و منابع مالی و انسجام اجتماعی نظام را به‌شدت تضعیف می‌سازند.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.75,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/04/04/world/live-news/iran-war-us-trump-oil",
-        "clean_url": "https://edition.cnn.com/2026/04/04/world/live-news/iran-war-us-trump-oil",
-        "image": "http://www.bing.com/th?id=ONUT.SVfh88RzX1F-NMYrb7NRXw&pid=News",
-        "timestamp": 1775282040.0
     }
 ]
