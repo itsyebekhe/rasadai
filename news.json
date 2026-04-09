@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "مجوز نتانیاهو برای گفت‌وگوی مستقیم با لبنان؛ اهرمی برای پیشبرد آتش‌بس و مهار نفوذ حزب‌الله",
+        "title_en": "Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts",
+        "summary": [
+            "بنیامین نتانیاهو اعلام کرد اجازه داده مذاکرات مستقیم با لبنان «هرچه سریع‌تر» آغاز شود؛ هدف اعلامی آن خلع‌سلاح شبه‌نظامیان مورد حمایت ایران (حزب‌الله) و ایجاد روابط میان دو همسایه است.",
+            "به گفته منبع آگاه، انتظار می‌رود مذاکرات از هفته آینده در واشینگتن و با میانجی‌گری/رسیدگی رسمی در آمریکا پیگیری شود؛ طرف آمریکایی با «میشل عیسا» (سفیر آمریکا در لبنان) و طرف اسرائیلی با «یخیئل لایتر» (سفیر اسرائیل در آمریکا) انجام می‌شود و لبنان فعلاً واکنش فوری نشان نداده است.",
+            "این تصمیم در خلأ سیاسی ساده رخ نمی‌دهد: اختلاف بر سر این‌که آیا توافق آتش‌بس شامل توقف درگیری میان اسرائیل و حزب‌الله هست یا نه ادامه دارد و هم‌زمان یک روز پس از حملات هوایی اسرائیل به بیروت که «مرگبارترین روز لبنان از آغاز جنگ» توصیف شده، فضای مذاکره پرتنش است."
+        ],
+        "impact": "مذاکرات مستقیم می‌تواند آتش‌بس را تقویت کند، اما با توجه به تداوم حضور حزب‌الله و اختلاف‌های قدیمی درباره مرز، احتمال رسیدن به توافق پایدار همچنان پایین و شکننده است.",
+        "tag": "لبنان",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "AP News",
+        "url": "https://www.huffpost.com/entry/iran-us-ceasefire-strait-of-hormuz_n_69d76965e4b00247ba998644",
+        "clean_url": "https://www.huffpost.com/entry/iran-us-ceasefire-strait-of-hormuz_n_69d76965e4b00247ba998644",
+        "image": null,
+        "timestamp": 1775768700.0
+    },
+    {
+        "title_fa": "پیامدهای ناخواسته جنگ آمریکا-ایران: عقب‌نشینی از نبرد مستقیم و جهش به تهدیدات ترکیبی",
+        "title_en": "What Are the Unintended Consequences of the U.S.-Iran Conflict for Defense and Security?",
+        "summary": [
+            "با اعلام آتش‌بس مشروط دو هفته‌ای میان آمریکا و ایران، گزارش CSIS بر این تأکید می‌کند که کمپین اخیر با هدف واردکردن «آسیب گسترده» به زیرساخت نظامی و دیگر زیرساخت‌های ایران، به‌جای پایان‌دادن به قابلیت‌های تهران، ممکن است ایران را به استفاده بیشتر از تهدیدات ترکیبی سوق دهد.",
+            "تهدیدات ترکیبی که شامل ترور، حملات سایبری، خرابکاری، عملیات روانی و اجبار اقتصادی است، به ایران امکان می‌دهد بدون اتکا به درگیری متعارف، هزینه را به دشمن منتقل کند؛ همچنین گزارش به سابقه شبکه‌سازی ایران در این حوزه در خاورمیانه، اروپا و حتی آمریکا اشاره دارد.",
+            "نکته کلیدی گزارش این است که شبکه گسترده بازیگران نیابتی و ظرفیت اقدام غیرمستقیم ایران، می‌تواند «دور شدن از نبرد نظامی» را تبدیل به «مزیت عملی» کند: یعنی هزینه‌ها برای طرف مقابل در قالب ناامنی فرسایشی و حملات پنهان ادامه پیدا کند."
+        ],
+        "impact": "اگر این روند تثبیت شود، حتی با کاهش درگیری مستقیم (آتش‌بس دو هفته‌ای)، احتمال افزایش تهدیدات غیرمتعارف علیه امنیت دفاعی آمریکا و شرکایش بالا می‌رود و مدیریت ریسک منطقه‌ای پیچیده‌تر می‌شود.",
+        "tag": "تهدیدات_ترکیبی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "Center for Strategic and International Studies",
+        "url": "https://www.csis.org/analysis/what-are-unintended-consequences-us-iran-conflict-defense-and-security",
+        "clean_url": "https://www.csis.org/analysis/what-are-unintended-consequences-us-iran-conflict-defense-and-security",
+        "image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-04/GettyImages-2269727322_cropped.jpg?VersionId=YZbhSKZcr4ozHZUTe_aKkePMTRRLf4xX",
+        "timestamp": 1775767560.0
+    },
+    {
+        "title_fa": "بزرگ‌ترین موج حملات اسرائیل به لبنان در روز اول آتش‌بس آمریکا-ایران؛ تهدید مستقیم برای فروپاشی توافق",
+        "title_en": "What is Israel's war in Lebanon and why could it shatter the Iran ceasefire?",
+        "summary": [
+            "CNN گزارش می‌دهد که در روز اول آتش‌بس میان آمریکا و ایران، اسرائیل بزرگ‌ترین موج حملات خود به لبنان از آغاز جنگ را اجرا کرد و دست‌کم 182 نفر را کشت.",
+            "این سطح از شدت عملیات، مستقیما «آتش‌بس شکننده» را در معرض فروپاشی قرار می‌دهد و می‌تواند به چرخه تلافی‌جویانه و شکست عملی توافق منجر شود.",
+            "اقدام اسرائیل در همان شروع آتش‌بس، نشان می‌دهد که هماهنگی و مهار میدانی برای حفظ آرامش منطقه‌ای کافی نبوده و احتمال بی‌ثباتی فوری بالاست."
+        ],
+        "impact": "این حملات گسترده در لحظه آغاز آتش‌بس، ریسک شکست توافق و تشدید ناگهانی درگیری‌ها بین بازیگران در لبنان را بالا می‌برد.",
+        "tag": "لبنان",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/news/world/what-is-israel-s-war-in-lebanon-and-why-could-it-shatter-the-iran-ceasefire/ar-AA20w6yO",
+        "clean_url": "https://www.msn.com/en-us/news/world/what-is-israel-s-war-in-lebanon-and-why-could-it-shatter-the-iran-ceasefire/ar-AA20w6yO",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2269931888.jpg?c=16x9&q=w_800,c_fill",
+        "timestamp": 1775767140.0
+    },
+    {
         "title_fa": "نتانیاهو: آمادگی برای گفت‌وگوهای مستقیم با لبنان؛ هدف، خلع‌سلاح حزب‌الله",
         "title_en": "Iran war: Israel says it will hold talks with Lebanon 'soon'",
         "summary": [
@@ -232,6 +286,24 @@
         "clean_url": "https://www.aol.com/articles/trump-whipsaw-strategy-iran-worried-134132345.html",
         "image": "http://www.bing.com/th?id=ONUT.OpEryO5gS9NH79Lyl_MQVA&pid=News",
         "timestamp": 1775742060.0
+    },
+    {
+        "title_fa": "ایران برای عبور از تنگه هرمز از نفتکش‌ها «پرداخت بیت‌کوین» می‌خواهد؛ نخستین آزمون پرداخت حاکمیتی با کریپتو در گلوگاه جهانی",
+        "title_en": "A Landmark Moment for Crypto As Iran Demands Bitcoin Payment From Oil Tankers Crossing the Strait of Hormuz",
+        "summary": [
+            "ایران اعلام کرده برای عبور نفتکش‌ها از تنگه هرمز، از هر بشکه ۱ دلار به‌صورت بیت‌کوین دریافت می‌کند و این را به‌عنوان نخستین کاربرد «پرداخت حاکمیتی با کریپتو» در یکی از مهم‌ترین مسیرهای تجارت جهانی معرفی می‌کند.",
+            "در متن تأکید می‌شود استفاده از استیبل‌کوین‌ها مثل USDT به‌خاطر اقدامات تتر (مسدودسازی بیش از ۳.۳ میلیارد دلار در کیف‌پول‌ها، از جمله وجوه مرتبط با IRGC) عملیاتی نبوده، چون بیت‌کوین طبق ادعا «قابل فریز شدن توسط طرف ثالث» است.",
+            "هم‌زمان به الگوی پیشین در منطقه اشاره می‌شود: نیروهای هم‌پیمان ایران (حوثی‌ها) در تنگه باب‌المندب سازوکار «ترانزیت گزینشی» مشابه دارند و گسترش عوارض کریپتویی می‌تواند باعث شود دو مسیر حیاتی کشتیرانی (هرمز و باب‌المندب) عملاً با رمزارز گره بخورد."
+        ],
+        "impact": "این حرکت نشان می‌دهد رژیم برای دور زدن محدودیت‌های مالی و کاهش آسیب‌پذیری پرداخت، از کریپتو به‌عنوان ابزار درآمدی قابل‌اجرا در گلوگاه‌های ژئواکونومیک استفاده می‌کند و ریسک بی‌ثباتی و رقابت بر سر کنترل گذرگاه‌ها را بالا می‌برد.",
+        "tag": "crypto",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "24/7 Wall St.",
+        "url": "https://247wallst.com/investing/2026/04/09/a-landmark-moment-for-crypto-as-iran-demands-bitcoin-payment-from-oil-tankers-crossing-the-strait-of-hormuz/",
+        "clean_url": "https://247wallst.com/investing/2026/04/09/a-landmark-moment-for-crypto-as-iran-demands-bitcoin-payment-from-oil-tankers-crossing-the-strait-of-hormuz",
+        "image": "http://www.bing.com/th?id=ONUT.d7Hq5oPtbIALvD0V1ZBArA&pid=News",
+        "timestamp": 1775741520.0
     },
     {
         "title_fa": "آغاز آتش‌بس میان آمریکا و ایران روی «زمین لغزنده» با هشدار ترامپ (بر اساس متن موجود)",
@@ -502,6 +574,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/fetterman-breaks-with-democrats-says-trump-s-military-strikes-on-iran-have-made-the-world-safer/ar-AA20vu8U",
         "image": null,
         "timestamp": 1775722448.0
+    },
+    {
+        "title_fa": "شکاف در دموکرات‌ها بر سر اختیارات جنگی؛ فترمن ایران را «جرم جنگی ۴۷ ساله» می‌نامد",
+        "title_en": "Rogue Dem bucks party on Trump war powers, calls Iran '47-year-old war crime'",
+        "summary": [
+            "سناتور جان فترمن با خط حزب دموکرات‌ها مخالفت کرد و در موضوع ایران، ادعاهای «جرم جنگی» علیه رئیس‌جمهور دونالد ترامپ را نپذیرفت.",
+            "او اعلام کرد مانع‌تراشی برای رأی‌گیری بعدی درباره «اختیارات جنگی» در سنا خواهد داشت، یعنی جبهه داخلی آمریکا می‌تواند مانع از روند تصمیم‌گیری درباره اقدام‌های نظامی شود.",
+            "فترمن با به‌کار بردن تعبیر «جرم جنگی ۴۷ ساله» برای ایران، تلاش کرد یک چارچوب سیاسی-تبلیغاتی تند برای مشروعیت‌بخشی به فشار علیه تهران بسازد، اما در عین حال روی «جنگ‌اختیارها» هم با هم‌حزبی‌هایش درگیر شد."
+        ],
+        "impact": "این رخداد بیشتر یک عامل کنترل‌گر در سیاست آمریکا است تا خبر قطعی از اقدام نظامی؛ شکاف در دموکرات‌ها می‌تواند سرعت یا شدت مسیر اختیارات جنگی را کند کند.",
+        "tag": "آمریکا",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/rogue-dem-bucks-party-on-trump-war-powers-calls-iran-47-year-old-war-crime/ar-AA20vu51",
+        "clean_url": "https://www.msn.com/en-us/news/politics/rogue-dem-bucks-party-on-trump-war-powers-calls-iran-47-year-old-war-crime/ar-AA20vu51",
+        "image": "http://www.bing.com/th?id=ONUT.8c5Jqxy_y-TSAMSLs3m-lw&pid=News",
+        "timestamp": 1775722067.0
     },
     {
         "title_fa": "خطر از هم پاشیدن آتش‌بس؛ حملات اسرائیل در لبنان و احتمال مین‌گذاری در تنگه هرمز",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-issues-ultimatum-to-hit-iran-s-power-plants-after-rescue/ar-AA20dWY3",
         "image": "http://www.bing.com/th?id=ONUT.6c_D8jp35ZPxbBKCVrXBlQ&pid=News",
         "timestamp": 1775417695.0
-    },
-    {
-        "title_fa": "«در امان و سالم»: چگونه یک نظامی آمریکایی که در ایران سرنگون شد از شکاف کوهی نجات یافت",
-        "title_en": "‘Safe and sound’: How a U.S. Airman Shot Down in Iran Was Rescued From a Mountain Crevice",
-        "summary": [
-            "گزارش تایم: یک نظامی آمریکایی در خاک ایران سرنگون شد و سپس از یک شکاف کوهی نجات یافت؛ منابع گزارش می‌دهند وضعیت «در امان و سالم» است.",
-            "پیامدهای خارجی: این حادثه زمینه افزایشی برای فشار دیپلماتیک و احتمال تشدید تحریم‌ها علیه تهران فراهم می‌کند — ضعف‌های امنیتی عملیاتی رژیم بهانه‌ای برای تشدید محدودیت‌ها و نظارت بین‌المللی خواهد بود.",
-            "خطرات داخلی: شکست در جلوگیری یا کنترل چنین واقعه‌ای نشان‌دهنده خلأ در فرماندهی و مدیریت امنیتی است که می‌تواند نارضایتی عمومی را تقویت کند و هزینه‌های اقتصادی و سیاسی رژیم را بالاتر ببرد."
-        ],
-        "impact": "این حادثه تنش میان ایران و آمریکا را تشدید می‌کند، به تهران بهانه افزایش فشار خارجی و تحریم می‌دهد و ضعف‌های امنیتی رژیم را در منظر داخلی و بین‌المللی برجسته می‌سازد.",
-        "tag": "بحران",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Time Magazine",
-        "url": "https://www.msn.com/en-us/news/world/safe-and-sound-how-a-us-airman-shot-down-in-iran-was-rescued-from-a-mountain-crevice/ar-AA20df0W",
-        "clean_url": "https://www.msn.com/en-us/news/world/safe-and-sound-how-a-us-airman-shot-down-in-iran-was-rescued-from-a-mountain-crevice/ar-AA20df0W",
-        "image": null,
-        "timestamp": 1775416725.0
-    },
-    {
-        "title_fa": "ترامپ بار دیگر زیرساخت‌های ایران را پیش از ضرب‌الاجل جدید تنگه هرمز تهدید کرد",
-        "title_en": "Trump again threatens Iran's infrastructure ahead of his latest Strait of Hormuz deadline",
-        "summary": [
-            "دونالد ترامپ در یک پست در Truth Social تهدید کرد که در صورت باز نشدن تنگه هرمز به ضرب‌الاجلش، حملات گسترده‌ای علیه تاسیسات انرژی و پل‌های ایران انجام خواهد داد و در بیانیه خود از الفاظ رکیک و ارجاع به اسلام استفاده کرد؛ این تکرار تهدیدهای قبلی است که گاهی به تعویق افتاده‌اند.",
-            "چنین ادعاهایی احتمال رویارویی نظامی مستقیم با آمریکا را افزایش می‌دهد و حتی در صورت عدم اقدام فوری، فشار راهبردی و دیپلماتیک بر جمهوری اسلامی را تشدید می‌کند و محاسبات بازدارندگی تهران را دگرگون می‌سازد.",
-            "هدف قرار گرفتن زیرساخت‌های انرژی می‌تواند درآمدهای ارزی و شبکه خدمات حیاتی را مختل کند و ضعف مدیریت و آسیب‌پذیری ساختاری اقتصاد مبتنی بر انرژی رژیم را بیش از پیش برجسته سازد؛ پیامدهای اقتصادی داخلی می‌تواند ثبات سیاسی را تحت فشار قرار دهد."
-        ],
-        "impact": "تهدید به حمله مستقیم به تاسیسات انرژی و پل‌ها ریسک تبدیل تنش به برخورد نظامی کامل با آمریکا را بالا برده و هم‌زمان خطر قطع درآمدها و اختلال در خدمات حیاتی داخل ایران را فوراً افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trump-again-threatens-irans-infrastructure-140111519.html",
-        "clean_url": "https://www.aol.com/articles/trump-again-threatens-irans-infrastructure-140111519.html",
-        "image": "http://www.bing.com/th?id=ONUT.rJ2GlDpRJLZxXWG2QPDNxw&pid=News",
-        "timestamp": 1775415420.0
-    },
-    {
-        "title_fa": "ویدئو: اصابت موشک ایرانی به ساختمان مسکونی در حیفا",
-        "title_en": "Video captures Iranian missile striking residential building in Haifa",
-        "summary": [
-            "الجزیره ویدئویی منتشر کرده که نشان می‌دهد یک موشک منتسب به ایران به یک ساختمان مسکونی در شهر حیفا اصابت کرده است.",
-            "در گزارش جزئیات تلفات یا تأیید مستقل حادثه ارائه نشده؛ نیاز به بررسی‌های بیشتر و تأیید منابع مستقل وجود دارد.",
-            "چنین حمله‌ای بلافاصله خطر تشدید تقابل نظامی با اسرائیل، افزایش فشار دیپلماتیک و احتمال اعمال تحریم‌های جدید علیه تهران را بالا می‌برد."
-        ],
-        "impact": "این رخداد توان بالقوه‌ای برای تشدید واکنش نظامی اسرائیل و افزایش فشار بین‌المللی بر ایران دارد و ثبات منطقه را به مخاطره می‌اندازد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-in/video/news/video-captures-iranian-missile-striking-residential-building-in-haifa/vi-AA20dn4U",
-        "clean_url": "https://www.msn.com/en-in/video/news/video-captures-iranian-missile-striking-residential-building-in-haifa/vi-AA20dn4U",
-        "image": null,
-        "timestamp": 1775415286.0
-    },
-    {
-        "title_fa": "نارضایتی گسترده از رکوردشکنی قطع اینترنت جنگی در ایران",
-        "title_en": "Frustration grows as Iran’s wartime internet shutdown breaks grim record",
-        "summary": [
-            "قطع سراسری اینترنت که از پس از آغاز حملات ایالات متحده و اسرائیل در ۸ اسفند به حدود یک درصد سطح پیشاجنگ کاهش یافته، طبق گزارش NetBlocks طولانی‌ترین خاموشی ملی ثبت‌شده در جهان است و تنها یک اینترانت محدود و کند خدمات دولت را حفظ کرده است.",
-            "اقتصاد دیجیتال و کسب‌وکارهای آنلاین در معرض فروپاشی هستند؛ دولت در ژانویه هم یک قطعی ۲۰ روزه اعمال کرد که هزاران کشته در اعتراضات سراسری ثبت شد و مقامات خود اذعان دارند خسارات روزانه مستقیم ده‌ها میلیون دلار است؛ بیکاری، اخراج‌ها و تهدید خدمات پایه افزایش یافته است.",
-            "اعمال شبکه‌بندی طبقاتی اتصال (دسترسی محدودی برای برخی بنگاه‌ها و افراد) نشان‌دهنده سیاست کنترل اطلاعات برای مدیریت جنگ و سرکوب است، اما این راهبرد کوتاه‌مدت به تضعیف ظرفیت‌های اقتصادی و افزایش نارضایتی و مخاطرات بی‌ثباتی داخلی منجر می‌شود."
-        ],
-        "impact": "این خاموشی اینترنتی ممکن است از نظر امنیتی موقتا کنترل اطلاع‌رسانی را در اختیار رژیم قرار دهد اما ساختارهای اقتصادی و ظرفیت توسعه دیجیتال کشور را به‌شدت تضعیف کرده و خطر تشدید نارضایتی، خروج سرمایه و تشدید بی‌ثباتی داخلی را بالا می‌برد.",
-        "tag": "اینترنت",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/frustration-grows-iran-wartime-internet-182952272.html",
-        "clean_url": "https://www.yahoo.com/news/articles/frustration-grows-iran-wartime-internet-182952272.html",
-        "image": null,
-        "timestamp": 1775414442.0
-    },
-    {
-        "title_fa": "تماشا: ده زخمی در شمال اسرائیل پس از اصابت موشک‌های ایرانی به خودرو و ساختمان",
-        "title_en": "WATCH: Ten wounded in northern Israel after Iranian missiles damage car, hit building",
-        "summary": [
-            "یک آتش‌بار موشکی منتسب به ایران به شمال اسرائیل شلیک شد؛ در پی اصابت به یک خودرو و یک ساختمان در حومه، در مجموع حداقل ده نفر زخمی شدند و چند نفر دچار حالت اضطراب شدند؛ سرویس‌های اورژانس، آتش‌نشانی و واحدهای جست‌وجو و نجات در محل فعال شدند.",
-            "آسیب‌ها عمدتاً ناشی از موج انفجار بود (شکستگی شیشه‌ها، ضربه موج انفجار)، یک نوزاد به‌صورت سطحی و یک مرد ۸۲ ساله به‌طور شدیدتر مجروح شده‌اند؛ احتمال وجود قربانیان محبوس تحت آوار و وجود موشک منفجر‌نشده باعث دستور تخلیه اطراف شده است.",
-            "این حمله فوراً آژیر خطر در چندین شهر شمالی را به صدا درآورد و فرماندهان انتظامی و نظامی منطقه را به بسیج واحدهای تخصصی و ارزیابی خطرات ساختمانی و بقایای انفجار واداشت."
-        ],
-        "impact": "این تعرض مستقیم امنیت منطقه را تشدید کرده و احتمال واکنش بین‌المللی و افزایش فشار بر ایران را بالا می‌برد، ضمن آنکه هزینه‌های انسانی و اضطراب عمومی به‌عنوان انعکاس شکست مدیریت سیاست خارجی رژیم برجسته می‌شود.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Jerusalem Post",
-        "url": "https://www.jpost.com/israel-news/defense-news/article-892140",
-        "clean_url": "https://www.jpost.com/israel-news/defense-news/article-892140",
-        "image": null,
-        "timestamp": 1775413874.0
     }
 ]
