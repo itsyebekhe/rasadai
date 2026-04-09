@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ارزیابی PBS از ادعاهای ترامپ و هگست درباره «پیروزی» آمریکا در جنگ با ایران",
+        "title_en": "Fact-checking Trump and Hegseth's claims of U.S. 'victory' in the Iran war",
+        "summary": [
+            "PBS ادعاهای ترامپ و پیت هگست درباره اینکه آمریکا در «جنگ با ایران» به پیروزی رسیده را به‌عنوان گزاره‌ای نیازمند راستی‌آزمایی مطرح می‌کند و عملاً چارچوب تبلیغاتی را از «واقعیت میدانی» جدا می‌سازد.",
+            "در متن حاضر، محتوای مشخصِ جزئیاتِ ادعاها و شواهدِ طرف مقابل ارائه نشده، اما خودِ موضوعِ «fact-checking» نشان می‌دهد روایت رسمیِ پیروزی قابل اتکا نیست یا دست‌کم به داده‌های قابل راستی‌آزمایی نیاز دارد.",
+            "از نظر اثرگذاری راهبردی، اگر روایت «پیروزی» از سوی رسانه معتبر زیر سؤال برود، در سطح سیاسی/امنیتی می‌تواند به کاهش مشروعیتِ روایت جنگ و تضعیف انسجام ائتلاف‌های داخلیِ تصمیم‌گیری آمریکا بینجامد؛ البته این نتیجه باید محدود به همان ادعاهای مورد بررسی باشد."
+        ],
+        "impact": "در چارچوب تحلیل راهبردی، زیر سؤال رفتن روایت «پیروزی» می‌تواند نشانه‌ای از فاصله بین اهداف اعلامی و واقعیت‌های نتیجه‌محور باشد، اما در نبود جزئیاتِ مقاله، اثر مستقیم بر عملیات رژیم یا مسیر تحولات ایران را نمی‌توان بیش از این نتیجه گرفت.",
+        "tag": "راستی‌آزمایی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/politics/fact-checking-trump-and-hegseths-claims-of-u-s-victory-in-the-iran-war",
+        "clean_url": "https://www.pbs.org/newshour/politics/fact-checking-trump-and-hegseths-claims-of-u-s-victory-in-the-iran-war",
+        "image": null,
+        "timestamp": 1775769272.0
+    },
+    {
         "title_fa": "مجوز نتانیاهو برای گفت‌وگوی مستقیم با لبنان؛ اهرمی برای پیشبرد آتش‌بس و مهار نفوذ حزب‌الله",
         "title_en": "Netanyahu authorizes direct talks with Lebanon in potential boost to ceasefire efforts",
         "summary": [
@@ -70,6 +88,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/israel-netanyahu-ready-talks-lebanon-171637052.html",
         "image": null,
         "timestamp": 1775764988.0
+    },
+    {
+        "title_fa": "روز جنگ ایران ۴۱: تشییع فرمانده اطلاعات سپاه و بن‌بست «آتش‌بس یا جنگ» در لبنان میان تهران و واشنگتن",
+        "title_en": "Iran war day 41: What’s happening in Lebanon, Middle East and beyond?",
+        "summary": [
+            "در تهران مراسم تشییع ماجد خدمی، رئیس اطلاعات سازمان اطلاعات سپاه، برگزار شد؛ ایران و اسرائیل مرگ او را به «حملات» نسبت می‌دهند و این رخداد، هزینه امنیتی جنگ را برای نهادهای کلیدی رژیم بالا می‌برد.",
+            "لبنان پس از موج حملات اسرائیل که دست‌کم ۲۵۴ کشته و بیش از ۱,۱۶۵ زخمی گزارش شده، «روز ملی عزای عمومی» اعلام کرد؛ نخست‌وزیر نواف سلام گفته همه ظرفیت‌های سیاسی و دیپلماتیک برای توقف حملات بسیج می‌شود.",
+            "تهران «آتش‌بس در لبنان» را شرط محوری طرح ۱۰ ماده‌ای خود می‌داند و همزمان بر شفاف‌بودن شروط تأکید می‌کند؛ از سوی دیگر نتانیاهو می‌گوید لبنان در آتش‌بسی که میان آمریکا و ایران مطرح است «شامل نیست» و جی‌دی ونس هم می‌گوید چنین وعده‌ای داده نشده، در نتیجه اختلاف صریح بر سر دامنه آتش‌بس، مذاکره را وارد فاز بن‌بست «یا توقف یا ادامه جنگ از مسیر اسرائیل» کرده است."
+        ],
+        "impact": "افزایش هزینه امنیتی در داخل ایران و اختلاف علنی بر سر پوشش آتش‌بس لبنان، احتمال تداوم چرخه حملات و سخت‌تر شدن مسیر توافق را بالا می‌برد.",
+        "tag": "لبنان",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/iran-war-day-41-happening-063244175.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-war-day-41-happening-063244175.html",
+        "image": null,
+        "timestamp": 1775763627.0
     },
     {
         "title_fa": "حمله آمریکا و اسرائیل به ایران؛ فرسایش طولانی و شوک بازارها، نگاه‌های بین‌المللی از مسکو تا آلمان",
@@ -268,6 +304,60 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-10-point-plan-changed-144713601.html",
         "image": null,
         "timestamp": 1775746384.0
+    },
+    {
+        "title_fa": "اسرائیل اهرم مانور روی روند «صلح» ترامپ با ایران",
+        "title_en": "Israel Complicates Trump’s Push for Peace With Iran",
+        "summary": [
+            "ترامپ اعلام کرد از بنیامین نتانیاهو خواسته است شدت عملیات نظامی اسرائیل در لبنان کاهش پیدا کند؛ یعنی مسیر مذاکره عملاً به تصمیمات میدانی اسرائیل گره خورده است.",
+            "این اقدام نشان می‌دهد هرگونه «پیشروی» در روند صلح با ایران، تابع محدودسازی یا تغییر شکل فشار نظامی در لبنان است، نه صرفاً اراده سیاسی واشنگتن.",
+            "چنین تداخلی از سوی تل‌آویو می‌تواند زمان‌بندی و محتوای هر معامله احتمالی با تهران را پیچیده کند؛ چون عملیات ادامه‌دار یا تغییرناپذیر، سیگنال‌های مذاکره را تضعیف می‌کند."
+        ],
+        "impact": "وابستگی روند صلح به کاهش/ادامه فشار نظامی در لبنان، ریسک کندی و بی‌ثباتی در مذاکرات احتمالی با ایران را بالا می‌برد.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/09/us/politics/israel-trump-iran-truce.html",
+        "clean_url": "https://www.nytimes.com/2026/04/09/us/politics/israel-trump-iran-truce.html",
+        "image": "http://www.bing.com/th?id=ONUT.xq1KH-dEypyDsX1H1qY7gQ&pid=News",
+        "timestamp": 1775744820.0
+    },
+    {
+        "title_fa": "هرمز عملاً در آستانه توقف؛ ایران هشدار داد کشتی‌ها در محدوده‌هایش بمانند",
+        "title_en": "Hormuz at near standstill as Iran warns ships to keep to its waters",
+        "summary": [
+            "طبق گزارش رویترز، تردد کشتی‌ها در تنگه هرمز در روز پنجشنبه به‌طور چشمگیر پایین‌تر از حالت عادی بود و به کمتر از ۱۰٪ حجم معمول رسید، حتی با وجود اینکه یک آتش‌بس میان آمریکا و ایران اعلام شده است.",
+            "تهران با هشدار به کشتی‌ها، عملاً بر کنترل خود بر تردد و محدوده‌های دریایی تأکید کرد و همین پیام، سیگنال بازدارندگی و تهدید عملی برای کشتیرانی تجاری صادر کرد.",
+            "اختلاف میان «آتش‌بس» و «کاهش شدید ترافیک» نشان می‌دهد مدیریت تنش صرفاً سیاسی نیست و رفتار امنیتی/عملی ایران در تنگه همچنان می‌تواند کریدور حیاتی حمل‌ونقل را مختل نگه دارد."
+        ],
+        "impact": "اختلال پایدار در هرمز حتی در چارچوب ادعای آتش‌بس، هزینه بیمه و ریسک عملیات کشتیرانی را بالا می‌برد و فشار اقتصادی مستقیم بر زنجیره‌های وابسته به این گذرگاه وارد می‌کند.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/shipping-traffic-through-hormuz-virtual-standstill-despite-ceasefire-data-shows-2026-04-09/",
+        "clean_url": "https://www.reuters.com/world/middle-east/shipping-traffic-through-hormuz-virtual-standstill-despite-ceasefire-data-shows-2026-04-09",
+        "image": "http://www.bing.com/th?id=ONUT.l9iSSRW2eLszT6_wZiSZ7Q&pid=News",
+        "timestamp": 1775743500.0
+    },
+    {
+        "title_fa": "ایران «عوارض ارز دیجیتال» برای کشتی‌های نفتی در تنگه هرمز مطالبه می‌کند",
+        "title_en": "Iran’s $7.8 billion crypto economy finds new way to grow after cease-fire",
+        "summary": [
+            "طبق گزارش، ایران از نفتکش‌هایی که از تنگه هرمز عبور می‌کنند خواسته تا بابت عبور و استفاده از مسیر، «عوارض» را به شکل ارز دیجیتال پرداخت کنند.",
+            "این اقدام نشان می‌دهد ایران در پی گسترش راه‌های جدید درآمدی برای دور زدن محدودیت‌ها و حفظ جریان مالی رژیم است و می‌کوشد اقتصاد مبتنی بر کریپتو را به یک ابزار پایدارتر تبدیل کند.",
+            "برداشت کلیدی این گزارش این است که ارز دیجیتال برای رژیم، فقط یک ابزار فرعی نیست؛ به عنوان مکانیزم درآمد و استمرار فعالیت‌های اقتصادی در شرایط فشار خارجی نقش پررنگ‌تری پیدا کرده است."
+        ],
+        "impact": "این سیاست می‌تواند به تقویت ظرفیت مالی رژیم از مسیرهای غیرمتعارف کمک کند و هم‌زمان ریسک‌های حقوقی-مالی و اختلال در زنجیره حمل‌ونقل دریایی تنگه هرمز را افزایش دهد.",
+        "tag": "تحریم‌گریزی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/money/markets/iran-s-78-billion-crypto-economy-finds-new-way-to-grow-after-cease-fire/ar-AA20w95E",
+        "clean_url": "https://www.msn.com/en-us/money/markets/iran-s-78-billion-crypto-economy-finds-new-way-to-grow-after-cease-fire/ar-AA20w95E",
+        "image": "http://www.bing.com/th?id=ONUT.INGxLgd7ge4n_Q-ELCSZpw&pid=News",
+        "timestamp": 1775743200.0
     },
     {
         "title_fa": "چرخش تبلیغاتی ترامپ درباره ایران: تهدید تشدید، سپس آتش‌بس دو هفته‌ای",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.cleveland.com/nation/2026/04/trumps-expletive-filled-threat-toward-iran-raises-concerns-of-possible-war-crimes.html",
         "image": "http://www.bing.com/th?id=ONUT.BbNn2z8uUIVzyC1G5MjACw&pid=News",
         "timestamp": 1775421360.0
-    },
-    {
-        "title_fa": "جنگ با ایران خاورمیانه را چگونه تغییر می‌دهد؟ نظرات ۵ کارشناس",
-        "title_en": "How will the Iran war change the Middle East? We asked 5 experts",
-        "summary": [
-            "مقاله با گردآوری دیدگاه پنج کارشناس سناریوهای کلیدی را بررسی می‌کند: تشدید درگیری‌های نیابتی، گسترش بحران به بازیگران منطقه‌ای و بازتعریف ائتلاف‌های سیاسی-نظامی.",
-            "کارشناسان فشار بین‌المللی و تحریم‌ها را عامل تضعیف ساختاری رژیم می‌دانند؛ تحریم‌های گسترده می‌توانند اقتصاد را بیشتر فرسوده کنند، بحران معیشتی را تشدید و مشروعیت حاکمیت را کاهش دهند.",
-            "تحلیل‌ها بر ناکارآمدی مدیریتی و پیامدهای داخلی تأکید دارند؛ افزایش نارضایتی عمومی، تشدید اعتراضات و فشار بر خدمات پایه از جمله پیامدهای محتمل در صورت تداوم جنگ است."
-        ],
-        "impact": "جنگ با ایران احتمالاً ناپایداری منطقه‌ای را تشدید، فشار اقتصادی داخلی را افزایش و نقشه سیاسی-نظامی خاورمیانه را بازتعریف خواهد کرد.",
-        "tag": "ناپایداری",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "theconversation.com",
-        "url": "https://theconversation.com/how-will-the-iran-war-change-the-middle-east-we-asked-5-experts-279652",
-        "clean_url": "https://theconversation.com/how-will-the-iran-war-change-the-middle-east-we-asked-5-experts-279652",
-        "image": null,
-        "timestamp": 1775420861.0
-    },
-    {
-        "title_fa": "اسرائیل به سراغ مرد پشت امپراتوری رمزارز ایران رفت",
-        "title_en": "Israel Goes After the Man Behind Iran’s Crypto Empire",
-        "summary": [
-            "براساس تیتر گزارش، اسرائیل تمرکز عملیاتی خود را روی فردی گذاشته که گفته می‌شود شبکه‌ای از رمزارزها مرتبط با ایران را هدایت می‌کند؛ جزئیات هویتی و دامنه عملیات در متن فراهم نیست.",
-            "تحلیل فشار خارجی: هدف‌گیری یک مهره کلیدی در شبکه رمزارزی می‌تواند کانال‌های جایگزین مالی رژیم برای دور زدن تحریم‌ها را تضعیف کند، اما تأثیر ساختاری وابسته به توان ایران در بازسازی یا جابجایی جریان‌های مالی است.",
-            "پیامدهای داخلی/اقتصادی: قطع یا محدود شدن سازوکارهای رمزارزی ممکن است بار تأمین مالی نهادهای حکومتی را افزایش و هزینه‌های ناشی از آن را به شهروندان منتقل کند؛ این امر می‌تواند انگیزه‌های نارضایتی عمومی را تشدید کند، هرچند این سناریو مشروط به شواهد بیشتر است."
-        ],
-        "impact": "اگر این پیگرد عملیاتی موثر باشد، توانایی رژیم در دور زدن تحریم‌ها کم خواهد شد و فشار مالی به داخل کشور منتقل می‌شود.",
-        "tag": "رمزارز",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "The Free Press",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tdHJPaV8xMWk4NlJnYjV5dGw4YlZhNThiMFdtOEE4SkhqWVRma19TWTFXUEVveUE0OXdKWWZvdktBbHV3dUZZZGZrMzJCa3NhSEhaOC1KUlFtSFNkd3RYd3FfZmtONEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tdHJPaV8xMWk4NlJnYjV5dGw4YlZhNThiMFdtOEE4SkhqWVRma19TWTFXUEVveUE0OXdKWWZvdktBbHV3dUZZZGZrMzJCa3NhSEhaOC1KUlFtSFNkd3RYd3FfZmtONEE",
-        "image": null,
-        "timestamp": 1775420521.0
-    },
-    {
-        "title_fa": "تهدیدات جدید ترامپ علیه ایران و بن‌بست تنگه هرمز",
-        "title_en": "Trump issues fiery new threats against Iran",
-        "summary": [
-            "رئیس‌جمهور آمریکا در تهدیدی رکیک و علنی با تعیین مهلت اعلام کرد که در صورت باز نشدن تنگه هرمز به‌زودی نیروگاه‌ها و پل‌ها و سایر زیرساخت‌های ایران را هدف خواهد گرفت؛ او به Axios گفت «هر چیز آن‌جا را منفجر می‌کنم»، اما جزئیات مهلت‌ها و اقدامات مشخص نشد.",
-            "ایران پاسخ داد: حملاتی به زیرساخت‌ها در کشورهای همسایه خلیج انجام شد، تهدید به محدودسازی تنگه باب‌المندب مطرح شد و فرماندهی مشترک نظامی هشدار داده در صورت حمله آمریکا یا اسرائیل حملات به نفت و زیرساخت‌های غیرنظامی منطقه را تشدید خواهد کرد؛ تهران بازگشایی کامل هرمز را منوط به جبران خسارت جنگ اعلام کرد.",
-            "در پنج هفته درگیری هزاران تن کشته شده‌اند، بازارها و قیمت سوخت متلاطم شده و هر دو طرف به اهداف غیرنظامی مانند میدان‌های نفتی و آب‌شیرین‌کن‌ها حمله کرده‌اند؛ حق‌دانان بین‌المللی یادآور شده‌اند هدف‌گرفتن زیرساخت‌های غیرنظامی تنها در صورت توجیه نظامی قوی مجاز است و در غیر این صورت ممکن است مصداق جنایت جنگی باشد."
-        ],
-        "impact": "این تشدید تهدیدات و حملات متقابل، فشار خارجی و هزینه‌های جنگ را بر رژیم افزایش می‌دهد و ساختار اقتصادی-امنیتی کشور را تضعیف کرده و احتمال برخورد نظامی مستقیم با آمریکا یا اسرائیل را بالا می‌برد.",
-        "tag": "تصعيد",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Boston Herald",
-        "url": "https://www.bostonherald.com/2026/04/05/trump-issues-fiery-new-threats-against-iran/",
-        "clean_url": "https://www.bostonherald.com/2026/04/05/trump-issues-fiery-new-threats-against-iran",
-        "image": "http://www.bing.com/th?id=ONUT.qR9aXWPNhLFPY0jBfpTwpA&pid=News",
-        "timestamp": 1775420460.0
-    },
-    {
-        "title_fa": "تحلیل: ترامپ پس از عملیات نجات پیروزی در جنگ با ایران را اعلام کرد، اما تهدیدها علیه عملیات آمریکا همچنان پابرجاست",
-        "title_en": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
-        "summary": [
-            "اعلام پیروزی توسط ترامپ پس از یک عملیات نجات؛ اقدام به‌شدت نمایشی برای تثبیت روایت پیروزی سیاسی-نظامی در داخل آمریکا و فشار روانی بر طرف مقابل.",
-            "هرچند تبلیغات پیروزی پررنگ است، گزارش می‌گوید تهدیدها علیه عملیات آمریکا همچنان وجود دارد؛ یعنی آسیب‌پذیری عملیاتی و خطر تشدید در میدان باقی است.",
-            "اثر استراتژیک بر رژیم ایران: چنین رویدادی می‌تواند توان بازدارندگی رژیم را زیر سوال ببرد و در صورت تکرار، روایت ضعف مدیریتی و شکاف‌های امنیتی داخلی را تقویت کند."
-        ],
-        "impact": "اعلام پیروزی در شرایطی که تهدیدها پابرجاست، احتمال تشدید تنش‌های نظامی و افزایش فشار سیاسی-اقتصادی بر رژیم ایران را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQkt4YlVRMk9yRkpNcXlYMThERlBOZGV1U29NVHpudTFseUdwXzBNNGZvZkNmeTdaUjR1YWRkVVI0Y2lwQ29PaGFMYXNPaGo5cDFhc0NfMTlBZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1rQkt4YlVRMk9yRkpNcXlYMThERlBOZGV1U29NVHpudTFseUdwXzBNNGZvZkNmeTdaUjR1YWRkVVI0Y2lwQ29PaGFMYXNPaGo5cDFhc0NfMTlBZw",
-        "image": null,
-        "timestamp": 1775419321.0
-    },
-    {
-        "title_fa": "ترامپ تهدید به تخریب نیروگاه‌های ایران کرد؛ میانجی‌ها به دنبال آتش‌بس",
-        "title_en": "Trump issues Iran threats as mediators reportedly seek ceasefire",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا تهدید کرده از روز سه‌شنبه نیروگاه‌های ایران را هدف قرار دهد و «جهنم» را بر کشور بپاشد؛ تهدید مستقیم به زیرساخت‌های حیاتی ریسک تشدید نظامی و بروز برخورد مستقیم را افزایش می‌دهد.",
-            "گزارش‌ها حاکی از تلاش میانجی‌ها برای حصول آتش‌بس هستند؛ در متن گزارش اشاره‌ای به نقش روسیه، چین یا کره‌شمالی نشده است، بنابراین نباید بازیگران خارجی را بدون شواهد وارد تحلیل کرد.",
-            "فشار نظامی آشکار، به‌عنوان یک عامل تضعیف‌کننده ساختاری، می‌تواند ناتوانی مدیریتی و آسیب‌پذیری اقتصادی-سیاسی حاکمیت را برجسته کند و احتمالاً هزینه‌های اجتماعی و نارضایتی عمومی را تشدید نماید؛ با این حال این پیامدها باید با احتیاط و بر اساس شواهد میدانی بررسی شوند."
-        ],
-        "impact": "تهدید به هدف قرار دادن زیرساخت‌های حیاتی ایران ثبات داخلی را تضعیف کرده و گزینه‌های سیاسی و اقتصادی حکومت را در کوتاه‌مدت محدود می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-issues-ultimatum-to-hit-iran-s-power-plants-after-rescue/ar-AA20dWY3",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-issues-ultimatum-to-hit-iran-s-power-plants-after-rescue/ar-AA20dWY3",
-        "image": "http://www.bing.com/th?id=ONUT.6c_D8jp35ZPxbBKCVrXBlQ&pid=News",
-        "timestamp": 1775417695.0
     }
 ]
