@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "نتانیاهو: آمادگی برای گفت‌وگوهای مستقیم با لبنان؛ هدف، خلع‌سلاح حزب‌الله",
+        "title_en": "Iran war: Israel says it will hold talks with Lebanon 'soon'",
+        "summary": [
+            "بنیامین نتانیاهو اعلام کرد کابینه‌اش را برای آغاز گفت‌وگوهای مستقیم با لبنان «به‌زودی» مأمور کرده است؛ محور مذاکرات، خلع‌سلاح حزب‌الله و ایجاد روابط صلح‌آمیز میان اسرائیل و لبنان است.",
+            "این اعلامیه یک روز پس از حملات اسرائیل به جنوب و شمال لبنان منتشر شد که بنا به متن، بیش از ۳۰۰ کشته بر جای گذاشت و خطر تضعیف آتش‌بس شکننده میان آمریکا و ایران را بالا برد.",
+            "در حالی‌که نتانیاهو و آمریکا/اسرائیل می‌گویند لبنان در آتش‌بس دو هفته‌ای نیامده، ایران و میانجی پاکستان می‌گویند لبنان شامل این توافق هست؛ در داخل لبنان هم همزمان با مسیر دیپلماتیک رئیس‌جمهور جوزف عون، حزب‌الله مذاکره مستقیم را رد کرده و آتش‌بس را شرط مقدم می‌داند."
+        ],
+        "impact": "اختلاف بر سر شمول یا عدم شمول لبنان در آتش‌بس، همراه با رد حزب‌الله، احتمال تشدید و بی‌ثباتی در جبهه لبنان را بالا می‌برد و هرگونه توافق را به نقطه شکننده‌ای تبدیل می‌کند.",
+        "tag": "منطقه",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "dw.com",
+        "url": "https://www.yahoo.com/news/articles/israel-netanyahu-ready-talks-lebanon-171637052.html",
+        "clean_url": "https://www.yahoo.com/news/articles/israel-netanyahu-ready-talks-lebanon-171637052.html",
+        "image": null,
+        "timestamp": 1775764988.0
+    },
+    {
+        "title_fa": "حمله آمریکا و اسرائیل به ایران؛ فرسایش طولانی و شوک بازارها، نگاه‌های بین‌المللی از مسکو تا آلمان",
+        "title_en": "The U.S. and Israel’s War With Iran: Where Do We Go From Here?",
+        "summary": [
+            "این گزارش می‌گوید جنگ که به حدود دو هفته نزدیک شده، «انرژی و بازارهای سهام» را در وضعیت آشفتگی نگه داشته است؛ ترامپ می‌گوید قصد دارد جنگ را «در زمان‌بندی خودش» پایان دهد، اما ایران از «جنگ فرسایشی بلندمدت» برای آسیب‌زدن به اقتصاد جهانی حرف می‌زند.",
+            "در مسکو، بر اساس فضای رسانه‌ای و بازخوردهایی که گزارش شده، واکنش عمومی علیه عملیات آمریکا-اسرائیل پررنگ است: یادبود موقت بیرون سفارت ایران با گل و شمع شکل گرفته و رسانه‌های طرفدار کرملین می‌گویند اکثریت روس‌ها این عملیات را رد می‌کنند؛ وزارت خارجه روسیه هم آن را «تهاجم پیشاپیش‌طرح‌ریزی‌شده و بی‌دلیل» علیه یک عضو مستقل سازمان ملل توصیف کرده است.",
+            "در آلمان، تمرکز رسانه‌ها در روزهای اول روی اختلال گسترده سفر بوده: حدود ۳۰ هزار آلمانی در امارات و دیگر کشورهای خلیج سرگردان شدند چون شرکت‌های هواپیمایی هزاران پرواز را لغو کردند؛ گزارش‌ها همچنین به تجربه‌های میدانی مسافران از آلارم‌ها و انتظارهای طولانی در فرودگاه‌ها اشاره می‌کند."
+        ],
+        "impact": "افزایش احتمال فرسایش طولانی و تداوم ضربه به زنجیره‌های انرژی/بازار و نیز شوک‌های مستقیم به حمل‌ونقل بین‌المللی، هزینه سیاسی و اقتصادی جنگ را برای طرفین و حامیانشان سنگین‌تر می‌کند.",
+        "tag": "تحریم/فشار",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Carnegie Endowment for International Peace",
+        "url": "https://www.cbsnews.com/news/us-iran-war-israel-how-other-countries-view-middle-east-conflict/",
+        "clean_url": "https://www.cbsnews.com/news/us-iran-war-israel-how-other-countries-view-middle-east-conflict",
+        "image": null,
+        "timestamp": 1775763316.0
+    },
+    {
         "title_fa": "گروه‌های نزدیک به ایران از هوش مصنوعی برای تلاشی هدفمند در روایت جنگ و تحریک افکار عمومی علیه ترامپ استفاده می‌کنند",
         "title_en": "Pro-Iran groups deploy AI to troll Trump, influence the war narrative",
         "summary": [
@@ -178,6 +214,42 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-10-point-plan-changed-144713601.html",
         "image": null,
         "timestamp": 1775746384.0
+    },
+    {
+        "title_fa": "چرخش تبلیغاتی ترامپ درباره ایران: تهدید تشدید، سپس آتش‌بس دو هفته‌ای",
+        "title_en": "Trump’s whipsaw strategy with Iran has some worried | The Excerpt",
+        "summary": [
+            "طبق گزارش AOL، ترامپ در بازه کوتاهی از تهدیدهای تند به عقب‌نشینی روی آورد: تهدید «تا فردا ساعت ۸:۰۰ صبح به وقت شرق» و هشدار درباره «بی‌پل» و «بی‌نیروگاه» در سخنان دوشنبه مطرح شد و همزمان در شبکه Truth Social پیام بسیار تهاجمی درباره «مرگ یک تمدن» منتشر کرد.",
+            "با نزدیک شدن به مهلت، مسیر عوض شد: ترامپ در آستانه همان ضرب‌الاجل اعلام کرد «آتش‌بس دو هفته‌ای» برقرار می‌شود؛ پرسش اصلی این است که آیا این آتش‌بس می‌تواند به توافقی برای پایان جنگ منجر شود یا فقط وقفه تاکتیکی است.",
+            "در سطح بازیگران، متن به نقش مستقیم و غیرمستقیم اشاره می‌کند: ایران، آمریکا و اسرائیل در مرکز ماجرا هستند؛ پاکستان با میانجی‌گری نخست‌وزیرش در مذاکرات نقش دارد؛ کشورهای دیگر منطقه که از تلافی‌جویی ایران آسیب دیده‌اند ذی‌نفوذند؛ همچنین چین نیز «نقش» داشته است."
+        ],
+        "impact": "این چرخش رفتاری می‌تواند هم احتمال بن‌بست/بی‌اعتمادی را بالا ببرد و هم با ایجاد یک پنجره زمانی دو هفته‌ای، مذاکرات را موقتاً از مسیر جنگ مستقیم خارج کند.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-whipsaw-strategy-iran-worried-134132345.html",
+        "clean_url": "https://www.aol.com/articles/trump-whipsaw-strategy-iran-worried-134132345.html",
+        "image": "http://www.bing.com/th?id=ONUT.OpEryO5gS9NH79Lyl_MQVA&pid=News",
+        "timestamp": 1775742060.0
+    },
+    {
+        "title_fa": "آغاز آتش‌بس میان آمریکا و ایران روی «زمین لغزنده» با هشدار ترامپ (بر اساس متن موجود)",
+        "title_en": "US-Iran ceasefire on tenuous ground; Trump issues warning. Live updates",
+        "summary": [
+            "خبر ادعایی «آتش‌بس آمریکا و ایران» صرفاً در سطح تیتر مطرح شده، اما متن ارائه‌شده عملاً گزارش محتوایی، جزئیات توافق، یا زمان/شرایط آتش‌بس را ارائه نمی‌کند و تنها به بخش فنی سایت می‌پردازد.",
+            "صرفاً اشاره به «هشدار ترامپ» دیده می‌شود، ولی در داده‌ی موجود هیچ نقل‌قول، مضمون دقیق هشدار، یا اقدامات مشخصی که او تهدید کرده ارائه نشده است.",
+            "بنابراین از همین اطلاعات قابل اتکا، نه می‌توان میزان دوام آتش‌بس را سنجید و نه اثر آن بر اقتصاد/پروتکل‌های امنیتی یا واکنش‌های داخلی را؛ متن در دسترس عملاً قطع شده است."
+        ],
+        "impact": "با توجه به نبود داده‌ی واقعی در متن ارائه‌شده، اثر قابل ارزیابی بر ثبات رژیم یا روند تنش‌ها در این لحظه قابل استناد نیست.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/world/2026/04/09/trump-ceasefire-lebanon-iran-war-israel-updates--live/89526832007/",
+        "clean_url": "https://www.freep.com/story/news/world/2026/04/09/trump-ceasefire-lebanon-iran-war-israel-updates--live/89526832007",
+        "image": "http://www.bing.com/th?id=ONUT.Ib28WgEi2coVfz_CRnvFNA&pid=News",
+        "timestamp": 1775740620.0
     },
     {
         "title_fa": "آیا آمریکا در جنگ علیه ایران به اهدافش رسید؟ نزاع بر سر روایت، اما دستاورد هسته‌ای اثبات‌نشده",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.jpost.com/israel-news/defense-news/article-892140",
         "image": null,
         "timestamp": 1775413874.0
-    },
-    {
-        "title_fa": "رئیس ستاد ارتش اسرائیل: جمعیت لبنان تا زمان «خلع‌سلاح» جنوب بازنمی‌گردد",
-        "title_en": "IDF Chief: Lebanese Population Won't Return to South Until Area 'Demilitarized'",
-        "summary": [
-            "رئیس ستاد ارتش اسرائیل اعلام کرده بازگشت شهروندان لبنانی به مناطق جنوبی منوط به «خلع‌سلاح» و خالی شدن منطقه از تهدیدات نظامی است.",
-            "این موضع‌گیری به معنای ادامه حضور یا کنترل امنیتی تا زمان تحقق شرط نظامی است و بازسازی و بازگشت آوارگان را تا زمان نامعلومی به تعویق می‌اندازد.",
-            "تأخیر در بازگشت ساکنان فشارهای انسانی و اقتصادی بر دولت لبنان را تشدید می‌کند و توان پاسخگویی حکمرانی محلی را زیر سؤال می‌برد."
-        ],
-        "impact": "این موضع رسمی اسرائیل روند بازگشت آوارگان را مسدود می‌کند، کنترل نظامی را تثبیت و فشارهای سیاسی-اقتصادی بر دولت لبنان را افزایش می‌دهد.",
-        "tag": "امنیتی",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaU5IQkkwQ1FnUVJlSDM1NGhJX1NGRXBJOXljQ0w1Zm5jRktBZTlYR3BRZ2lRN3FWXzJqdlQ1Z1luTEo4Y2hFNUtQdl9ZczExMnpudjdfX1lhNFhxbGUyX09UMjV4RFVlMjZuVTZzUkJPNU5jVVp5LVVqTDJMTEhjUk1OLTNzMFNvZzFWbFZydDhEQXlaaFgxM1dXenYxaWpOeWtENHV1eGxvV0J3dGlrSVdCZE5oQmFqOVN2V0ZFQnF2SGFONUJTN3ZGQk5iTGtvekc3TG1BWVZ2VE9sS0dBTEdYRkFaMUkyUDFKSVJaU1dwcVpTQW9GYUVrVG9rZWNORDEwc2lQT3AtcFk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPaU5IQkkwQ1FnUVJlSDM1NGhJX1NGRXBJOXljQ0w1Zm5jRktBZTlYR3BRZ2lRN3FWXzJqdlQ1Z1luTEo4Y2hFNUtQdl9ZczExMnpudjdfX1lhNFhxbGUyX09UMjV4RFVlMjZuVTZzUkJPNU5jVVp5LVVqTDJMTEhjUk1OLTNzMFNvZzFWbFZydDhEQXlaaFgxM1dXenYxaWpOeWtENHV1eGxvV0J3dGlrSVdCZE5oQmFqOVN2V0ZFQnF2SGFONUJTN3ZGQk5iTGtvekc3TG1BWVZ2VE9sS0dBTEdYRkFaMUkyUDFKSVJaU1dwcVpTQW9GYUVrVG9rZWNORDEwc2lQT3AtcFk",
-        "image": null,
-        "timestamp": 1775413260.0
-    },
-    {
-        "title_fa": "ترامپ: تا سه‌شنبه ممکن است توافق با ایران حاصل شود، در غیر این صورت «همه‌چیز را منفجر می‌کنم»",
-        "title_en": "Trump says Iran deal possible by Tues., otherwise \"I am blowing up everything\"",
-        "summary": [
-            "رئیس‌جمهور آمریکا اعلام کرد تا سه‌شنبه امکان نهایی شدن توافق با ایران وجود دارد و در صورت عدم توافق تهدید کرد «همه‌چیز را منفجر» خواهد کرد؛ این یک اولتیماتوم آشکار است.",
-            "ابراز چنین تهدید صریحی روند دیپلماتیک را در معرض فروپاشی قرار می‌دهد و احتمال تشدید سریع تنش‌های نظامی و سیاسی در منطقه را افزایش می‌دهد.",
-            "گزارش جزئیات تحریم‌ها یا اقدامات نظامی مشخص را مطرح نکرد؛ اما به‌طور منطقی این سطح تهدید می‌تواند منجر به فشار خارجی بیشتر شود که اثرات ساختاری بر ثبات سیاسی و اقتصاد ایران خواهد داشت."
-        ],
-        "impact": "این اولتیماتوم مستقیم ریسک تشدید تحریم‌ها و درگیری نظامی را بالا می‌برد و در کوتاه‌مدت ثبات سیاسی و شرایط اقتصادی داخل ایران را بیش از پیش متزلزل می‌کند.",
-        "tag": "اولتیماتوم",
-        "urgency": 9,
-        "sentiment": 0.3,
-        "source": "Axios",
-        "url": "https://www.msn.com/en-us/news/world/trump-to-axios-iran-deal-possible-by-tues-otherwise-i-am-blowing-up-everything/ar-AA20cAxp",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-to-axios-iran-deal-possible-by-tues-otherwise-i-am-blowing-up-everything/ar-AA20cAxp",
-        "image": null,
-        "timestamp": 1775412653.0
-    },
-    {
-        "title_fa": "ترامپ: تا دوشنبه یا سه‌شنبه توافق با ایران ممکن است؛ در صورت شکست تهدید به «انفجار همه‌چیز» کرد",
-        "title_en": "Trump says Iran deal possible by Monday or Tuesday, threatens to blow 'everything up' if talks fail",
-        "summary": [
-            "دونالد ترامپ اعلام کرد احتمال دستیابی به توافق با رژیم ایران تا دوشنبه یا سه‌شنبه وجود دارد، اما همزمان تهدید کرد در صورت شکست مذاکرات «همه‌چیز را منفجر» خواهد کرد.",
-            "این گزاره ضمن تلاش برای فشار دیپلماتیک، پیام روشنی از آمادگی واشنگتن برای تشدید اهرم‌ها علیه ایران ارسال می‌کند، چه در حوزه تحریم و فشار اقتصادی و چه در تهدید به استفاده از گزینه‌های نظامی.",
-            "برای رژیم ایران این وضعیت یک پنجره زمانی فشرده خلق می‌کند: یا پذیرش سریع سازش با هزینه سیاسی داخلی یا مواجهه با تشدید فشار خارجی که می‌تواند پیامدهای فوری بر ثبات سیاسی و وضعیت اقتصادی داشته باشد."
-        ],
-        "impact": "اظهارات تهدیدآمیز ترامپ احتمال افزایش فشارهای خارجی بر رژیم ایران را بالا می‌برد و رژیم را در معرض انتخاب میان سازش فوری یا تشدید بحران از طریق تحریم‌ها و تهدیدهای نظامی قرار می‌دهد.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTWNLOFpoX1B0TUViT2Y2bUxDX2ZxWEV6MnNYdEdzV0NOWWxLRWhxTHFhVC13Y3prUTBpTGVSWWNKeFhlWEUzMjlOb0pGR1VWYnp2Mi1hZ0Z6TlVkcGFvTHVGODNENHRfZjBTU2U3MVZpdlZ0N0JERWpzRXpNaWwxU0lVQ19xRUVqdlBaRjRYVWpXNEdYVVIwcWtmY213ZVZDcFVRMURfdXh3SFF4ZmljRm1NdDNGeWxqRWNMMUUxNkVPOXQwRjZhS3NNdWRKOXQyTGhMRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTWNLOFpoX1B0TUViT2Y2bUxDX2ZxWEV6MnNYdEdzV0NOWWxLRWhxTHFhVC13Y3prUTBpTGVSWWNKeFhlWEUzMjlOb0pGR1VWYnp2Mi1hZ0Z6TlVkcGFvTHVGODNENHRfZjBTU2U3MVZpdlZ0N0JERWpzRXpNaWwxU0lVQ19xRUVqdlBaRjRYVWpXNEdYVVIwcWtmY213ZVZDcFVRMURfdXh3SFF4ZmljRm1NdDNGeWxqRWNMMUUxNkVPOXQwRjZhS3NNdWRKOXQyTGhMRQ",
-        "image": null,
-        "timestamp": 1775409300.0
-    },
-    {
-        "title_fa": "منطقه در مرز ظرفیت: جنگ، آوارگی و حد توان پاسخ بشردوستانه در خاورمیانه",
-        "title_en": "A Region at Capacity: War, Displacement, and the Limits of Humanitarian Response in the Middle East",
-        "summary": [
-            "تشدید درگیری‌ها به‌ویژه در مرز اسرائیل-لبنان منجر به افزایش تلفات غیرنظامیان و جابه‌جایی میلیونی شده است.",
-            "شبکه‌های بشردوستانه و خدمات پایه‌ای تحت فشار شدید قرار گرفته‌اند: خدمات درمانی مختل، پناهگاه‌ها بیش‌ظرفیت و عملیات امدادی ناتوان از پاسخ کامل.",
-            "گزارش اشاره مستقیمی به تحریم‌ها ندارد؛ با این حال ادامه خشونت و آوارگی، حتی بدون دخالت فشار خارجی، ظرفیت اقتصادی و سیاسی حکومت‌ها را تضعیف کرده و نارضایتی عمومی و خطر تشدید ناآرامی‌ها را افزایش می‌دهد."
-        ],
-        "impact": "ناتوانی سامانه‌های کمک‌رسانی در مقابله با موج آوارگی، ثبات منطقه‌ای و توان مدیریت بحران حکومت‌ها را به‌طور محسوس کاهش می‌دهد و ریسک گسترش بی‌ثباتی فراتر از نقاط درگیری کنونی را بالا می‌برد.",
-        "tag": "بی‌ثباتی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Middle East Council on Global Affairs",
-        "url": "https://www.un.org/en/middle-east-live-13-march-displacement-and-civilian-casualties-mount-across-region",
-        "clean_url": "https://www.un.org/en/middle-east-live-13-march-displacement-and-civilian-casualties-mount-across-region",
-        "image": null,
-        "timestamp": 1775407326.0
     }
 ]
