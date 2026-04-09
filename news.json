@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "نتانیاهو جنگ با ایران را «کارِ ناتمام» می‌داند؛ نشانه‌ای از تداوم فشار راهبردی",
+        "title_en": "For Israel's Netanyahu, the War With Iran Is Unfinished Business",
+        "summary": [
+            "گزارش نیویورک‌تایمز بر این چارچوب می‌چرخد که برای بنیامین نتانیاهو، جنگ با ایران پایان‌یافته تلقی نمی‌شود و «کار ناتمام» باقی مانده است.",
+            "این یعنی برنامه‌ریزی سیاسی/امنیتی طرف اسرائیلی به سمت ادامه‌دار شدن فشار علیه تهران تنظیم می‌شود، نه تثبیت وضعیت موجود.",
+            "در نبود جزئیات اجرایی در متنِ ارائه‌شده، محور خبر بیشتر اعلامِ جهت‌گیری است تا گزارش یک اقدام مشخص یا تاریخ‌دار."
+        ],
+        "impact": "تداوم روایت نتانیاهو مبنی بر «ناتمام بودن» پرونده ایران، می‌تواند ریسک تداوم یا تشدید فشار راهبردی را بالا ببرد، حتی اگر اقدام فوری در همین متن مشخص نشده باشد.",
+        "tag": "اسرائیل",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/09/world/middleeast/us-iran-negotiations-israel-netanyahu.html",
+        "clean_url": "https://www.nytimes.com/2026/04/09/world/middleeast/us-iran-negotiations-israel-netanyahu.html",
+        "image": "https://static01.nyt.com/images/2026/04/09/multimedia/09int-iran-Israel-assess-01-pvkz/09int-iran-Israel-assess-01-pvkz-facebookJumbo.jpg",
+        "timestamp": 1775747580.0
+    },
+    {
         "title_fa": "آیا آمریکا در جنگ علیه ایران به اهدافش رسید؟ نزاع بر سر روایت، اما دستاورد هسته‌ای اثبات‌نشده",
         "title_en": "Has US achieved its war objectives in Iran?",
         "summary": [
@@ -124,6 +142,24 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/even-if-iran-war-ends-now-farmers-costs-will-have-to-be-passed-on/ar-AA20s9Hk",
         "image": null,
         "timestamp": 1775723644.0
+    },
+    {
+        "title_fa": "فترمن از خط حزب دموکرات‌ها فاصله گرفت و از حملات نظامی ترامپ علیه ایران حمایت کرد",
+        "title_en": "Fetterman breaks with Democrats, says Trump's military strikes on Iran have 'made the world safer'",
+        "summary": [
+            "سناتور جان فترمن در واکنش به لایحه/رأی‌گیری جدید مرتبط با اختیارات جنگ، با دموکرات‌ها همراه نشد و مخالفتش را علنی کرد.",
+            "او مدعی شد اقدام‌های نظامی ترامپ علیه ایران «جهان را امن‌تر کرده» است؛ موضعی که با اجماع غالب دموکرات‌ها درباره ریسک‌های جنگی هم‌راستا نیست.",
+            "این شکاف حزبی هم‌زمان با اختلاف بر سر رأی‌گیری «رزولوشن اختیارات جنگ» برجسته شد و نشان داد پرونده ایران می‌تواند شکاف‌های داخلی واشنگتن را تشدید کند."
+        ],
+        "impact": "این موضع، شکاف در صف‌بندی‌های سیاسی آمریکا درباره ایران را تشدید می‌کند و احتمالاً بر روندهای تصمیم‌گیری درباره تشدید یا مهار عملیات‌های نظامی اثر می‌گذارد.",
+        "tag": "ایالات_متحده",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/fetterman-breaks-with-democrats-says-trump-s-military-strikes-on-iran-have-made-the-world-safer/ar-AA20vu8U",
+        "clean_url": "https://www.msn.com/en-us/news/world/fetterman-breaks-with-democrats-says-trump-s-military-strikes-on-iran-have-made-the-world-safer/ar-AA20vu8U",
+        "image": null,
+        "timestamp": 1775722448.0
     },
     {
         "title_fa": "خطر از هم پاشیدن آتش‌بس؛ حملات اسرائیل در لبنان و احتمال مین‌گذاری در تنگه هرمز",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/04/05/middleeast/operation-us-airman-iran-wwk-intl",
         "image": null,
         "timestamp": 1775383636.0
-    },
-    {
-        "title_fa": "ترامپ به ایران: تنگه را باز کنید یا در جهنم خواهید زیست",
-        "title_en": "Trump tells Iran to open strait 'or you'll be living in Hell': Live updates",
-        "summary": [
-            "اظهارنظر علنی دونالد ترامپ، رئیس‌جمهور پیشین آمریکا، با تهدید «باز کردن تنگه یا زندگی در جهنم» سیگنالی مستقیم مبنی بر احتمال تشدید تنش‌ها و فشارهای نظامی-دیپلماتیک علیه ایران ارسال کرده است.",
-            "این زبان تهدیدآمیز می‌تواند زمینهٔ توجیه افزایش تحریم‌ها و تقویت حضور یا اقدامات نظامی طرف‌های خارجی را فراهم کند؛ تشدید چنین فشارهایی ساختارهای اقتصادی و سیاسی رژیم را از نظر استراتژیک ضعیف‌تر می‌سازد.",
-            "تهدیدهای آشکار بیرونی بار اقتصادی و روانی بر جامعه و دولت را افزایش می‌دهد و در شرایط کنونی شکنندگی مدیریتی و نارضایتی عمومی را برجسته‌تر می‌کند؛ رژیم مجبور به پرداخت هزینه‌های بالاتر برای کنترل داخلی خواهد شد."
-        ],
-        "impact": "این پیام تهدیدآمیز احتمال تشدید رویارویی نظامی-دیپلماتیک و افزایش فشارهای اقتصادی بر رژیم را بالا می‌برد و ثبات سیاسی داخلی را آسیب‌پذیرتر می‌کند.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/04/05/iran-war-live-updates-trump-threat-strait-hormuz--live/89474925007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/05/iran-war-live-updates-trump-threat-strait-hormuz--live/89474925007",
-        "image": "http://www.bing.com/th?id=ONUT.Ld42q1UbSoDFDyL3nXIabw&pid=News",
-        "timestamp": 1775383200.0
-    },
-    {
-        "title_fa": "ترامپ با تهدید به حمله به شبکه برق و پل‌های ایران ضرب‌الاجل تعیین کرد؛ پس‌زمینه نجات پایگاه‌نشده توسط تیم نیروی ویژه",
-        "title_en": "Trump issues expletive-laden threat to strike Iran's power grid Tuesday after SEALs rescue downed airman",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، در پیام توهین‌آمیز اعلام کرد که تا روز سه‌شنبه در صورت بازنشدن تنگه هرمز، نیروهای آمریکایی «روز نیروگاه‌ها و پل‌ها» را در ایران اجرا خواهند کرد و حتی از «گرفتن نفت» سخن گفت.",
-            "ترامپ مدعی شد آمریکا از طریق واسطه‌های کردی به معترضان ایرانی سلاح رسانده است؛ CNN قبلاً گزارش داده بود که هدف از این حمایت تحریک قیام داخلی است؛ در کنار آن، گفتگوهای میانجی‌گرانه عمان برای بازگشایی تنگه ادامه دارد.",
-            "یک عملیات نجات توسط تیم نیروی ویژه آمریکایی در داخل خاک ایران انجام شد؛ تهران آن عملیات را «فریب» خوانده و تهدیدات ترامپ را تحریک‌آمیز و تلافی‌جویانه توصیف کرده است."
-        ],
-        "impact": "تهدید مستقیم به هدف‌گرفتن زیرساخت‌های حیاتی و عملیات‌های ویژه باعث تشدید سریع تنش نظامی و سیاسی، آسیب به شبکه‌های اقتصادی وابسته به صادرات نفت و افزایش آسیب‌پذیری داخلی رژیم در برابر اعتراضات خواهد شد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/article/trump-issues-expletive-laden-threat-to-strike-irans-power-grid-tuesday-after-seals-rescue-downed-airman-150657230.html",
-        "clean_url": "https://www.yahoo.com/news/politics/article/trump-issues-expletive-laden-threat-to-strike-irans-power-grid-tuesday-after-seals-rescue-downed-airman-150657230.html",
-        "image": null,
-        "timestamp": 1775379000.0
     }
 ]
