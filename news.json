@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "چرا حملات اسرائیل به لبنان می‌تواند آتش‌بس آمریکا-ایران را فلج کند",
+        "title_en": "Why Israel’s attacks on Lebanon could cripple US-Iran ceasefire",
+        "summary": [
+            "حملات هوایی گسترده اسرائیل به لبنان، فقط ساعاتی پس از اعلام آتش‌بس دو هفته‌ای میان آمریکا و ایران، دست‌کم ۲۵۴ کشته و ۱٬۱۶۵ زخمی برجای گذاشت و اختلافات درباره دامنه آتش‌بس را تشدید کرد.",
+            "ایران خواستار گنجانده‌شدن لبنان در مذاکرات آتش‌بس شده است؛ در مقابل آمریکا و اسرائیل می‌گویند آتش‌بس فقط میان طرف‌های درگیر مستقیم با ایران برقرار است — این اختلاف فنی می‌تواند فوراً توافق موقت را بی‌معنا کند.",
+            "مقاله اشاره‌ای به تحریم‌ها یا اعتراضات داخلی ندارد؛ با این حال ادامه حملات و سردرگمی درباره دامنه آتش‌بس مذاکرات برنامه‌ریزی‌شده در اسلام‌آباد را در معرض شکست قرار داده و پتانسیل افزایش فشار بین‌المللی و نارضایتی داخلی را تقویت می‌کند."
+        ],
+        "impact": "اقدام اسرائیل علیه لبنان ظرف ساعات پس از اعلام آتش‌بس شانس تبدیل آتش‌بس موقت به یک فروپاشی کامل و گسترش درگیری‌های فرامرزی را به‌طور جدی افزایش داده است.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/why-israel-attacks-lebanon-could-105756221.html",
+        "clean_url": "https://www.yahoo.com/news/articles/why-israel-attacks-lebanon-could-105756221.html",
+        "image": null,
+        "timestamp": 1775732625.0
+    },
+    {
+        "title_fa": "پس از تعلیق جنگ توسط ترامپ، ایرانیان پرچمِ پیروزی برافراشتند نه تسلیم",
+        "title_en": "After Trump pauses war, Iranians fly flags of victory, not surrender",
+        "summary": [
+            "بر اساس گزارش واشنگتن‌پست، پس از توقف موقت عملیات نظامی توسط ترامپ، گروه‌هایی در ایران پرچم‌های پیروزی برافراشتند و این رخداد در برخی محافل عمومی به‌عنوان نمادی از «پیروزی» و نه «تسلیم» تفسیر شد.",
+            "این نمادگرایی می‌تواند به‌سرعت توسط نهادهای رسمی یا جریان‌های سیاسی داخلی برای تقویت روایت‌های مشروعیت و قدرت بازتاب داده شود؛ با این حال گزارش اشاره‌ای به تغییر ساختاری در توان نظامی یا جهت‌گیری سیاست خارجی نکرده است.",
+            "چنین نمایش‌هایی به‌تنهایی تاثیری بر فشارهای خارجی مانند تحریم‌ها ندارد و ممکن است به‌عنوان ابزار رسانه‌ای برای کاستن از نمودهای نارضایتی داخلی به کار رود، ولی گزارش جزئیات موثق درباره وضعیت اقتصادی یا اعتراضات مردمی ارائه نمی‌دهد."
+        ],
+        "impact": "پیام نمادینِ «پیروزی» احتمالاً در کوتاه‌مدت روایت‌های ملی‌گرایانه را تقویت می‌کند و بازتاب رسانه‌ای می‌یابد، اما تغییری واقعی در ساختار فشارهای خارجی یا بحران‌های اقتصادی و مدیریتی ایجاد نمی‌کند.",
+        "tag": "نمادگرایی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/other/after-trump-pauses-war-iranians-fly-flags-of-victory-not-surrender/ar-AA20uOSq",
+        "clean_url": "https://www.msn.com/en-us/news/other/after-trump-pauses-war-iranians-fly-flags-of-victory-not-surrender/ar-AA20uOSq",
+        "image": null,
+        "timestamp": 1775730725.0
+    },
+    {
         "title_fa": "آیا زنجیره‌های جهانی تامین از جنگ در ایران بازیابی خواهند شد؟",
         "title_en": "Can global supply chains recover from the Iran war?",
         "summary": [
@@ -610,6 +646,24 @@
         "clean_url": "https://www.nytimes.com/2026/04/08/world/middleeast/us-iran-ceasefire-uranium-nuclear-weapons.html",
         "image": "https://static01.nyt.com/images/2026/04/08/multimedia/08int-iran-uranium-jpbc/08int-iran-uranium-jpbc-facebookJumbo.jpg",
         "timestamp": 1775659800.0
+    },
+    {
+        "title_fa": "آمریکا و ایران آتش‌بس دوهفته‌ای بستند. حالا چه؟",
+        "title_en": "The U.S. and Iran Struck a Two-Week Truce. Now What?",
+        "summary": [
+            "آتش‌بس دوهفته‌ای میان آمریکا، ایران و اسرائیل با میانجی‌گری پاکستان اعلام شد؛ پاکستان دعوت به مذاکرات در اسلام‌آباد کرده و هر دو طرف آن را پیروزی خواندند، اما اختلافاتی—از جمله ادعای پاکستان درباره لبنان—هنوز حل‌نشده باقی است.",
+            "در حالی که ترامپ آتش‌بس را پیروزی خواند و پیشنهاد ده‌نقطه‌ای ایران را نقطه شروع مذاکرات دانست، حملات پس از اعلام آتش‌بس ادامه یافتند: اصابت به یک پالایشگاه نفت ایران و گزارش حملات هوایی در کویت و امارات؛ هزاران سرباز آمریکایی در منطقه همچنان مستقرند که نشان‌دهنده شکنندگی آتش‌بس است.",
+            "واکنش مثبت رهبران چین، اروپا و آفریقا به اعلام آتش‌بس ثبت شده است—حضور چین در میان حمایت‌کنندگان باید به‌عنوان عاملی که ظرفیت بقا و مانور سیاسی تهران را تقویت می‌کند در نظر گرفته شود؛ هم‌زمان ترامپ از احتمال بحث رفع تحریم‌ها سخن گفت و تهدید به وضع تعرفه ۵۰٪ علیه تامین‌کنندگان سلاح ایران کرد."
+        ],
+        "impact": "این آتش‌بس موقت می‌تواند فشار خارجی اقتصادی و سیاسی را تا حدی تعدیل کند و ظرفیت بقا را برای رژیم تقویت نماید، اما ادامه حملات به زیرساخت‌ها و حضور نظامی خارجی نشان می‌دهد شکنندگی داخلی و ریسک تشدید مجدد در کوتاه‌مدت پابرجاست.",
+        "tag": "آتش‌بس",
+        "urgency": 9,
+        "sentiment": -0.4,
+        "source": "Council",
+        "url": "https://www.cfr.org/articles/the-u-s-and-iran-struck-a-two-week-truce-now-what",
+        "clean_url": "https://www.cfr.org/articles/the-u-s-and-iran-struck-a-two-week-truce-now-what",
+        "image": "https://res.cloudinary.com/dmovl8u5q/images/f_auto,q_auto/v1775656366/IranCeasefire_DB_04082026_A/IranCeasefire_DB_04082026_A.jpg?_i=AA",
+        "timestamp": 1775659020.0
     },
     {
         "title_fa": "با آتش‌بس در ایران، وضعیت پنج هدف جنگی ترامپ کجاست",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/us-pilot-downed-f-15-101050622.html",
         "image": "http://www.bing.com/th?id=ONUT.257o9dOt8hT1azTfCHF8pA&pid=News",
         "timestamp": 1775360760.0
-    },
-    {
-        "title_fa": "ترامپ: ۴۸ ساعت به ایران برای توافق یا مواجهه با «جهنم»",
-        "title_en": "Trump warns Iran has 48 hours to make deal or face 'Hell'",
-        "summary": [
-            "هشدار ۴۸ ساعته ترامپ به ایران — تهدید روشن به «جهنم» در صورت عدم دستیابی به توافق؛ اعلان فشار فوری که می‌تواند مقدمه اقدام نظامی یا تحریم‌های تهاجمی باشد.",
-            "فشار خارجی: چنین تهدیدی ابزار مستقیم برای تضعیف ساختار اقتصادی و سیاسی رژیم است و می‌تواند فضای مانور دیپلماتیک و اقتصادی تهران را کوتاه‌مدتاً محدود کند.",
-            "پیامدهای داخلی: بی‌اطلاعی از واکنش داخلی از گزارش مشخص نیست، اما به‌طور محتمل این اقدام یا گفتمان امنیتی رژیم را تحکیم می‌کند و یا، در صورت شکست در مدیریت بحران، به افزایش تنش و بی‌ثباتی بین نخبگان و جامعه منجر خواهد شد."
-        ],
-        "impact": "این تهدید ۴۸ ساعته ریسک تشدید نظامی و فشار فوری بر ثبات سیاسی-اقتصادی ایران را به‌طور چشمگیر افزایش می‌دهد.",
-        "tag": "تهدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "chinadailyasia.com",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95aTNRQ1hrYWJOSHdMakwxTWp6aThyX0xmOTZ6Zy10dGFuNHF6MHRrdm01TnJQOVRFLXdJaGJ2bmMyclUyUVBJWUQyenpxczM4TTdJQ3d6SEo?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE95aTNRQ1hrYWJOSHdMakwxTWp6aThyX0xmOTZ6Zy10dGFuNHF6MHRrdm01TnJQOVRFLXdJaGJ2bmMyclUyUVBJWUQyenpxczM4TTdJQ3d6SEo",
-        "image": null,
-        "timestamp": 1775358415.0
-    },
-    {
-        "title_fa": "آخرین خبر: نظامی آمریکایی مفقود پس از سرنگونی جنگنده توسط ایران نجات یافت",
-        "title_en": "The Latest: US service member missing after Iran shot down jet rescued",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا می‌گوید نظامی آمریکایی که پس از سرنگونی یک جنگنده توسط ایران مفقود شده بود در عملیاتی با «ده‌ها هواپیما» پیدا و نجات یافته است.",
-            "این حادثه تقابل مستقیم میان تهران و واشنگتن را نشان می‌دهد و خطر تشدید درگیری‌های نظامی و اقدامات تلافی‌جویانه را افزایش می‌دهد.",
-            "وقوع چنین رویدادی به واشنگتن بهانه و توجیهی برای افزایش فشار دیپلماتیک و تحریم‌ها می‌دهد و ضعف مدیریت امنیتی و هزینه‌های سیاسی-اقتصادی حاکمیت را برجسته می‌کند؛ می‌تواند نارضایتی عمومی را تشدید کند."
-        ],
-        "impact": "پیامد فوری: احتمال تشدید تنش‌های نظامی و بهره‌برداری واشنگتن از حادثه برای افزایش فشار اقتصادی و سیاسی علیه رژیم افزایش یافته است.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.75,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national/2026/04/05/iran-israel-us-lebanon-latest-april-5-2026/b680ebe0-30a6-11f1-aac2-f56b5ccad184_story.html",
-        "clean_url": "https://www.washingtonpost.com/national/2026/04/05/iran-israel-us-lebanon-latest-april-5-2026/b680ebe0-30a6-11f1-aac2-f56b5ccad184_story.html",
-        "image": "http://www.bing.com/th?id=ONUT.DkvFVZb9f9DQqWfjkac8Cg&pid=News",
-        "timestamp": 1775356560.0
-    },
-    {
-        "title_fa": "توقف تولید در پتروشیمی امارات پس از حملات پهپادی؛ کویت از «خسارت قابل‌توجه» خبر داد",
-        "title_en": "Iran, Israel-US war LIVE: Production halted at UAE petrochemicals plant as drones spark multiple fires; Kuwait reports ‘significant damage’",
-        "summary": [
-            "حملات پهپادی چندگانه آتش‌سوزی‌هایی در تاسیسات پتروشیمی و نفتی منطقه ایجاد و منجر به توقف تولید در یک مجتمع پتروشیمی در امارات شد.",
-            "کویت گزارش «خسارت قابل‌توجه» داده و مقامات منطقه‌ای از اختلال در ترافیک دریایی و عملیات پالایشگاهی خبر می‌دهند.",
-            "این رویدادها ضعف مقاومت زیرساخت‌های انرژی در خلیج فارس را نشان می‌دهد و به‌سرعت ریسک اختلال عرضه و افزایش هزینه‌های حمل‌ونقل و بیمه را بالا برده‌اند."
-        ],
-        "impact": "حملات پهپادی جاری زنجیره تأمین انرژی منطقه را هدف قرار داده و فشار اقتصادی کوتاه‌مدت بر کشورهای خلیج فارس و بازار نفت را تشدید می‌کند.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Financial Express",
-        "url": "https://www.financialexpress.com/world-news/iran-israel-us-war-live-updates-donald-trump-strait-of-hormuz-middle-east-conflict-oil-price-today/4195679/",
-        "clean_url": "https://www.financialexpress.com/world-news/iran-israel-us-war-live-updates-donald-trump-strait-of-hormuz-middle-east-conflict-oil-price-today/4195679",
-        "image": "http://www.bing.com/th?id=ONUT.0aib81SRTj_eWrzDyvEPaw&pid=News",
-        "timestamp": 1775355360.0
     }
 ]
