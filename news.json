@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اتهام ایران به نقض آتش‌بس از سوی آمریکا و اسرائیل؛ تهدید به پایان توافق",
+        "title_en": "Iran accuses U.S. and Israel of ceasefire violations, threatening truce",
+        "summary": [
+            "ایران آمریکا و اسرائیل را به نقض آتش‌بس متهم کرده و تهدید به خاتمه توافق آتش‌بس کرده است.",
+            "اگر این اتهامات به افزایش فشار خارجی یا بهانه‌ای برای تحریم‌های جدید بدل شود، ساختار اقتصادی و سیاسی رژیم را بیش از پیش تضعیف خواهد کرد و توان مدیریتی دولت در بحران را کاهش می‌دهد.",
+            "گزارش اشاره‌ای به نقش روسیه، چین یا کره‌شمالی ندارد؛ تهدید به خاتمه آتش‌بس نشان‌دهنده ضعف مدیریت بحران داخلی است و می‌تواند نارضایتی عمومی و هزینه‌های اقتصادی را تشدید کند."
+        ],
+        "impact": "این اتهام و تهدید به خاتمه آتش‌بس خطر تشدید نظامی و افزایش فشارهای بین‌المللی را بالا می‌برد و پایداری سیاسی-اقتصادی رژیم را بیشتر تحت فشار قرار می‌دهد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/other/iran-accuses-us-of-ceasefire-violations-threatening-fragile-truce/ar-AA20pB5V",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-accuses-us-of-ceasefire-violations-threatening-fragile-truce/ar-AA20pB5V",
+        "image": null,
+        "timestamp": 1775690718.0
+    },
+    {
         "title_fa": "ایران: پس از حملات اسرائیل، گفت‌وگوهای صلح «غیرمنطقی» است",
         "title_en": "Iran says peace talks would be 'unreasonable' following Israeli strikes",
         "summary": [
@@ -108,6 +126,24 @@
         "timestamp": 1775674955.0
     },
     {
+        "title_fa": "آتش‌بس شکننده آمریکا-ایران: نکاتی برای رصد",
+        "title_en": "The Fragile U.S.-Iran Ceasefire: Issues to Watch",
+        "summary": [
+            "آتش‌بس دو هفته‌ای فعلی تنها یک توقف موقت در درگیری است و مسائل محوری—برنامه هسته‌ای و موشکی ایران، حمایت تهران از شبه‌نظامیان، سرکوب معترضان و مطالبات غرامت—حل نشده‌اند؛ خواسته‌های ایران (رفع تحریم‌ها، حق غنی‌سازی، توقف حملات به لبنان و تضمین عدم ازسرگیری حملات) با خواسته‌های واشنگتن و تل‌آویو فاصله چشمگیر دارد و تلاش طرفین برای نمایش پیروزی داخلی مذاکرات را پیچیده می‌کند.",
+            "کارزار نظامی آمریکا و اسرائیل در ۲۰۲۵ و ۲۰۲۶ بخش‌های عمده‌ای از تاسیسات و ذخایر هسته‌ای ایران را تخریب کرد و بسیاری از تاسیسات اکنون زیر آوارند؛ این ضربه کوتاه‌مدت توان فنی ایران را کاهش داده اما احتمال دارد تهران برای جبران، تلاش‌های هسته‌ای و پنهان‌سازی را تشدید کند.",
+            "فشار خارجی و تحریم‌ها ساختار اقتصادی و سیاسی رژیم را تضعیف کرده‌اند؛ خواست رفع تحریم‌ها و ادعاهای غرامت نشانگر هزینه اقتصادی سنگین است و همزمان سرکوب معترضان مشروعیت داخلی حکومت را کاهش داده و ریسک ناپایداری سیاسی و اقتصادی را تقویت می‌کند."
+        ],
+        "impact": "آتش‌بس فعلی می‌تواند جنگ را موقتاً متوقف کند اما حل‌نشدن مسائل هسته‌ای و ادامه فشار تحریمی همراه با مطالبات غرامتی و سرکوب داخلی، ثبات رژیم را بیش از پیش تضعیف کرده و احتمال ازسرگیری خشونت را افزایش می‌دهد.",
+        "tag": "آتش‌بس",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Center for Strategic and International Studies",
+        "url": "https://www.csis.org/analysis/fragile-us-iran-ceasefire-issues-watch",
+        "clean_url": "https://www.csis.org/analysis/fragile-us-iran-ceasefire-issues-watch",
+        "image": "https://csis-website-prod.s3.amazonaws.com/s3fs-public/2026-04/GettyImages-2269457089_cropped.jpg?VersionId=emlYzHPIucyi7qvftUk6hARVPj6GzNjo",
+        "timestamp": 1775671800.0
+    },
+    {
         "title_fa": "اسرائیل از آتش‌بس میان آمریکا و ایران حمایت می‌کند اما اهداف جنگی نتانیاهو محقق نشده‌اند",
         "title_en": "Israel backs US-Iran ceasefire but Netanyahu's war goals remain unfulfilled",
         "summary": [
@@ -160,6 +196,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zdWo2YzhXbFFWUy00S2ZTXzFSS2NNS1RROGtzM1JqOU9jUnQ1SmZNRGdlRGlQdGt3LUNvdzdUY3lKaHRlMjBXMS1yOTg4a0lSTzZ4Y2lxc3kyNC1OZ0JpNkduTm1oV1RVSkZnbHdR",
         "image": null,
         "timestamp": 1775667703.0
+    },
+    {
+        "title_fa": "ایران و آمریکا هر دو پس از توافق آتش‌بس دو هفته‌ای خود را پیروز اعلام کردند",
+        "title_en": "US and Iran both claim victory after agreeing to 2-week ceasefire following more than a month of war",
+        "summary": [
+            "توافق آتش‌بس دو هفته‌ای اعلام شد اما بستن مجدد تنگه هرمز توسط جمهوری اسلامی و ادامه حملات پهپادی و موشکی نشان می‌دهد سازوکار اجرای آتش‌بس شکننده است؛ صدها کشتی در تنگه منتظر خروج‌اند و واشنگتن خواستار بازگشایی فوری شده است.",
+            "تشتت سیاست خارجی در تهران آشکار است: محمدباقر قالیباف، رئیس مجلس، مدعی نقض شروط ایران شده و از غیرمعقول‌بودن مذاکرات سخن گفته، در حالی که عباس عرقچی، وزیر خارجه، تأکید دارد پایان جنگ در لبنان بخشی از توافق بوده؛ این پراکندگی مواضع نشان‌دهنده ضعف هماهنگی در رهبری است.",
+            "تابع پیامدهای اقتصادی و سیاسی: انسداد هرمز و تشدید تنش‌های نظامی تجارت دریایی و درآمدهای مرتبط را تحت فشار قرار می‌دهد و ناتوانی در تضمین آتش‌بس پایدار سرمایه‌گذاری، ثبات بازار و اعتماد عمومی را بیشتر تضعیف می‌کند."
+        ],
+        "impact": "تداوم انسداد تنگه هرمز و ناتوانی رژیم در اجرای یک آتش‌بس پایدار، اقتدار حکومت و ثبات اقتصادی را سریعاً تضعیف کرده و ریسک تشدید نظامی را بالا می‌برد.",
+        "tag": "بحران",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Los Angeles Daily News",
+        "url": "https://www.dailynews.com/2026/04/08/us-israel-iran-ceasefire/",
+        "clean_url": "https://www.dailynews.com/2026/04/08/us-israel-iran-ceasefire",
+        "image": "http://www.bing.com/th?id=ONUT.es9pmWoUCAzSgGquoX6zAQ&pid=News",
+        "timestamp": 1775667180.0
+    },
+    {
+        "title_fa": "چه باید درباره پیشنهاد آتش‌بس ایران بدانید در آستانه مذاکرات صلح",
+        "title_en": "What to Know About Iran’s Ceasefire Proposal as Peace Talks Approach",
+        "summary": [
+            "دونالد ترامپ، رئیس‌جمهور آمریکا، پیشنهاد آتش‌بس را «پایه‌ای قابل مذاکره» توصیف کرده و این موضع می‌تواند چارچوب سیاسی مذاکرات پیش‌رو را تحت‌تأثیر قرار دهد.",
+            "کارشناسان هشدار داده‌اند که در مذاکرات برنامه‌ریزی‌شده نقاط اختلاف قابل‌توجهی وجود دارد که می‌تواند پیشرفت را کند یا متوقف کند؛ متن اشاره‌ای به جزئیات این اختلافات نکرده است.",
+            "گزارش به پیامدهای بین‌المللی و مداخله بازیگران خارجی مشخص اشاره‌ای ندارد و همچنین هیچ اشاره‌ای به نقش روسیه، چین یا کره‌شمالی در متن نیست."
+        ],
+        "impact": "پیشنهاد مورد تأیید آمریکا می‌تواند موقتاً فضای مذاکره را فراهم کند اما ابهامات و نقاط اختلافِ گزارش‌شده از سوی کارشناسان، خطر به بن‌بست کشیده شدن مذاکرات را واقعی نگه می‌دارند.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/04/08/iran-us-ceasefire-proposal-talks/",
+        "clean_url": "https://time.com/article/2026/04/08/iran-us-ceasefire-proposal-talks",
+        "image": "http://www.bing.com/th?id=ONUT.Uv_1opCcBVNjUe3BoTOygQ&pid=News",
+        "timestamp": 1775664660.0
     },
     {
         "title_fa": "جنگ با ایران: پیت هگست پیروزی «تاریخی» آمریکا را اعلام کرد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ld2pRU1JfQWJYRll2M0NzZ1RHSnFSZm4td2RiS1RQRERjWEVNRkk4VTVzMl9GR01GOW5VSW16N1BvQ0dsTEZYbDhwVTdncUlQSDIxeFg1allFQQ",
         "image": null,
         "timestamp": 1775319565.0
-    },
-    {
-        "title_fa": "روسیه: هماهنگی با نیروهای دفاعی اسرائیل برای تخلیه کارکنان از تأسیسات هسته‌ای ایران",
-        "title_en": "Russia said coordinating with IDF on evacuation of workers from Iran nuclear plant",
-        "summary": [
-            "روسیه اعلام کرده با نیروهای دفاعی اسرائیل درباره تخلیه کارکنان از یک تأسیسات هسته‌ای در ایران هماهنگ می‌کند؛ نشان‌دهنده دخالت مستقیم بازیگران خارجی در مسائل امنیتی داخلی ایران.",
-            "نقش عملیاتی روسیه در این فرایند حکایت از تبدیل مسکو به عاملی است که به‌صورت عملیاتی توانایی‌های لازم برای کاهش فشارهای فوری علیه تهران را فراهم می‌آورد و عملاً به بقای سیاسی-نظامی رژیم کمک می‌کند.",
-            "گزارش اشاره‌ای به تحریم‌ها یا اعتراضات داخلی نکرده؛ با این حال چنین هماهنگی خارجی ضعف مشروعیت داخلی و تکیه بر حمایت بیرونی را برجسته می‌سازد و می‌تواند ریسک تشدید نظامی و پیامدهای سیاسی-اقتصادی در داخل کشور را افزایش دهد."
-        ],
-        "impact": "این اطلاعیه فوراً خطر تشدید نظامی منطقه را افزایش می‌دهد و نشان می‌دهد رژیم برای مدیریت بحران‌ها متکی به بازیگران خارجی است، امری که بی‌ثباتی سیاسی و اقتصادی داخلی را تشدید می‌کند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlAxaHVjek5tM2c1OFhLaTd0REFaV3lWSHFxaDVpSkcwWlBVVXpaSWRxTWRzY3BMcjNqYVpISkhGTy1LLXhJR25zNk80Tk1jWVlkWkVYZDR4aUpRelBWVDdiY2IwZHZNdWhFUzJ0eTRkX2FUbDBjTVp1MGZLNVdfOWRJeUFhLU5Td0xfRGxZUk9LQ0doRmFqQmhkZDBRNlV6ejBIY01NSlJRRG9UMnJjcVdqWdIBuAFBVV95cUxNSjNRNUI4eFU3RzhoMU1mSC1aRTlDOUhoVl9EQWZnQkZqMUlqcXpsLXdYTkhHZXA2VkVuMzJGSHAzc0FmQkFZWnhWc2xZRFFtd3dSQy1GX1RlMzlNbmtMcTc0VEFtTTRvMURIV0RfX3lGMTBpT2pFS204YWZpWEE3c3Q2VENVcGdBTG1aQXp3bWstTkpGZGZITUtBNzFsNjZScEpyZ0dURmdwVlQxNVlXdzJ6alF4T2ta?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlAxaHVjek5tM2c1OFhLaTd0REFaV3lWSHFxaDVpSkcwWlBVVXpaSWRxTWRzY3BMcjNqYVpISkhGTy1LLXhJR25zNk80Tk1jWVlkWkVYZDR4aUpRelBWVDdiY2IwZHZNdWhFUzJ0eTRkX2FUbDBjTVp1MGZLNVdfOWRJeUFhLU5Td0xfRGxZUk9LQ0doRmFqQmhkZDBRNlV6ejBIY01NSlJRRG9UMnJjcVdqWdIBuAFBVV95cUxNSjNRNUI4eFU3RzhoMU1mSC1aRTlDOUhoVl9EQWZnQkZqMUlqcXpsLXdYTkhHZXA2VkVuMzJGSHAzc0FmQkFZWnhWc2xZRFFtd3dSQy1GX1RlMzlNbmtMcTc0VEFtTTRvMURIV0RfX3lGMTBpT2pFS204YWZpWEE3c3Q2VENVcGdBTG1aQXp3bWstTkpGZGZITUtBNzFsNjZScEpyZ0dURmdwVlQxNVlXdzJ6alF4T2ta",
-        "image": null,
-        "timestamp": 1775316495.0
-    },
-    {
-        "title_fa": "ترامپ: رهبران نظامی ایران «خاتمه یافته‌اند»",
-        "title_en": "Trump says Iran's military leaders 'are terminated'",
-        "summary": [
-            "خبر: دونالد ترامپ در اظهارنظری کوتاه اعلام کرد که «رهبران نظامی ایران خاتمه یافته‌اند»؛ گزارش منبع فاقد جزئیات تکمیلی درباره اقدام عملی یا زمان‌بندی است.",
-            "فشار خارجی/تحریم‌ها: این نوع زبان تهاجمی واشنگتن ریسک تشدید فشارهای دیپلماتیک و اقتصادی را بالا می‌برد و به‌طور ساختاری می‌تواند ظرفیت رژیم را در مدیریت بحران‌های داخلی تضعیف کند، اگرچه گزارش هیچ اشاره مستقیمی به تحریم یا اقدام متقابل ندارد.",
-            "ثبات داخلی و اقتصاد: هیچ مدرک مستقیمی در گزارش برای ارتباط فوری این خبر با افزایش اعتراضات یا فروپاشی اقتصادی وجود ندارد؛ اما تاریخ نشان داده که تهدیدات خارجی می‌تواند به تشدید سرکوب داخلی و تشدید مشکلات اقتصادی منجر شود، به‌ویژه در رژیمی که ضعف مدیریتی ساختاری دارد."
-        ],
-        "impact": "اظهارنظر ترامپ احتمالاً فشار سیاسی و امنیتی را تشدید می‌کند و می‌تواند به ماهیت بحران‌زای بیشتری در داخل ایران بینجامد، اما شواهدی از اقدام فوری یا تغییر ملموس در سیاست وجود ندارد.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "The Detroit News",
-        "url": "https://www.detroitnews.com/story/news/world/2026/04/04/search-for-missing-fighter-jet-crew-member/89469947007/",
-        "clean_url": "https://www.detroitnews.com/story/news/world/2026/04/04/search-for-missing-fighter-jet-crew-member/89469947007",
-        "image": "http://www.bing.com/th?id=ONUT.9DWxcRrESy9go_8dtUj44A&pid=News",
-        "timestamp": 1775315700.0
-    },
-    {
-        "title_fa": "ترامپ به ایران هشدار داد: ۴۸ ساعت برای «توافق، باز کردن هرمز» یا «جهنم»",
-        "title_en": "Trump warns Iran: 48 hours to ‘make a deal, open Hormuz’ or ‘all hell’ will rain down",
-        "summary": [
-            "دونالد ترامپ به ایران ۴۸ ساعت مهلت داده تا «توافق کند و تنگه هرمز را باز کند»، وگرنه وعده «جهنم نازل می‌شود» داده است.",
-            "این هشدار صریح نشان‌دهنده تشدید خطر رویارویی مستقیم نظامی و افزایش فشارهای خارجی علیه تهران است.",
-            "افزایش چنین تهدیدهایی می‌تواند ضربه‌ای به وضعیت اقتصادی و سیاسی داخلی وارد کند و نارضایتی عمومی را تشدید نماید."
-        ],
-        "impact": "پیام مستقیم واشنگتن احتمال تشدید تنش نظامی و فشار اقتصادی بر رژیم را بالا می‌برد و ریسک بی‌ثباتی داخلی را افزایش می‌دهد.",
-        "tag": "تهدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxMndBOXJzY2ZGcnpGXzBIZWUyUGI5Q01TamRrZ3JpeXV3YWhhQlRlU2xrRkFGd0hKSkZLNzdIV0NwUzc4SkN1MElTUERZakNMN1RIbk5aajlrNFA1YXdJajNR0gFnQVVfeXFMUFpNdnNxUkZPWkplLUlkbTRrdkhmMFV1djlvMWl2LVRJNDlpbnFWbXZHNUctY0VTakphWE9TbXJ2dTBsY1hramx4ZkJoX2VhTF9sbnpyYjhFWmc3YTUxYmxYZUJsemxWNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAxMndBOXJzY2ZGcnpGXzBIZWUyUGI5Q01TamRrZ3JpeXV3YWhhQlRlU2xrRkFGd0hKSkZLNzdIV0NwUzc4SkN1MElTUERZakNMN1RIbk5aajlrNFA1YXdJajNR0gFnQVVfeXFMUFpNdnNxUkZPWkplLUlkbTRrdkhmMFV1djlvMWl2LVRJNDlpbnFWbXZHNUctY0VTakphWE9TbXJ2dTBsY1hramx4ZkJoX2VhTF9sbnpyYjhFWmc3YTUxYmxYZUJsemxWNA",
-        "image": null,
-        "timestamp": 1775313502.0
-    },
-    {
-        "title_fa": "تهدید رئیس‌جمهور ترامپ: ۴۸ ساعت برای بازگشایی تنگه هرمز یا پیامدهای ویرانگر",
-        "title_en": "Trump warns Iran of looming deadline to reopen Strait of Hormuz: \"Time is running out\"",
-        "summary": [
-            "فشار خارجی و تهدید نظامی مستقیم: فرماندهی واشنگتن با اعلام ضرب‌الاجل ۴۸ ساعته و تهدید به هدف قراردادن تأسیسات برق تلاش می‌کند رژیم ایران را از منظر نظامی و اقتصادی بیشتر تضعیف کند؛ این فشار، در پی حملات مشترک آمریکا و اسرائیل و اختلال در مسیرهای دریایی، ساختار آسیب‌پذیری حکومت را تشدید می‌کند.",
-            "پاسخ نظامی و تبلیغاتی تهران: علی عبداللهی علیابادی از ستاد مرکزی خاتم‌الانبیاء تهدید ترامپ را «ناآرام، عصبی و احمقانه» خواند و پیام‌های متقابل شدید ارسال شد؛ تنشِ لفظی و نظامی دو طرف شواهدی است که میدان را برای تشدید سریع درگیری‌ها باز می‌گذارد.",
-            "پنجره دیپلماتیک فشرده و مخاطره‌آمیز: میانجی‌گران پاکستان، ترکیه و مصر در تلاش برای آوردن طرفین به میز مذاکره هستند و عباس عراقچی تمایل تهران به گفت‌وگو را اعلام کرد، اما ضرب‌الاجل ۴۸ ساعته، هر توافق سیاسی را به شتاب و ریسک تبدیل می‌کند."
-        ],
-        "impact": "این تهدید ۴۸ ساعته احتمال تشدید فوری عملیات نظامی را بالا می‌برد و هر پنجره دیپلماتیک محتمل را به شدت تنگ و پرخطر می‌کند.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/trump-reminds-iran-ultimatum-reopen-strait-of-hormuz/",
-        "clean_url": "https://www.cbsnews.com/news/trump-reminds-iran-ultimatum-reopen-strait-of-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.H8wz53bCPJnXbQvlKPx_Zw&pid=News",
-        "timestamp": 1775312580.0
     }
 ]
