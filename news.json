@@ -144,6 +144,24 @@
         "timestamp": 1775826900.0
     },
     {
+        "title_fa": "مهلت ۲۴ ساعته و هشدار از احتمال ازسرگیری حملات؛ تلاش برای مذاکره در سایه تشدید درگیری‌ها",
+        "title_en": "Iran War Live Updates: New 24-Hour Deadline Looms as Trump Warns Strikes May Resume",
+        "summary": [
+            "بر اساس گزارش Newsweek، «Vance» برای گفت‌وگو درباره ایران به پاکستان می‌رود، اما این حرکت هم‌زمان با تهدید واقعی به ازسرگیری حملات مطرح شده است.",
+            "ترامپ هشدار داده که در صورت ادامه شرایط، حملات می‌تواند دوباره از سر گرفته شود و همین موضوع «مهلت ۲۴ ساعته» را به اهرم فشار مستقیم تبدیل می‌کند.",
+            "هم‌زمان، خبر از «حملات اسرائیل علیه حزب‌الله» و بالا بودن تنش در تنگه هرمز می‌دهد که می‌تواند آتش‌بس شکننده را به‌هم بزند."
+        ],
+        "impact": "ترکیب فشار زمانی، تهدید نظامی و افزایش تنش در هرمز احتمال فروپاشی آتش‌بس و گسترش درگیری را بالا می‌برد.",
+        "tag": "مواجهه",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-war-live-updates-vance-pakistan-iran-talks-israel-hezbollah-hormuz-ceasefire-trump-11811063",
+        "clean_url": "https://www.newsweek.com/iran-war-live-updates-vance-pakistan-iran-talks-israel-hezbollah-hormuz-ceasefire-trump-11811063",
+        "image": "http://www.bing.com/th?id=ONUT.NHfSPkCkDXypJggLuq3i1g&pid=News",
+        "timestamp": 1775825340.0
+    },
+    {
         "title_fa": "گزارش (نظری) واشنگتن‌پست: ریسک سیاسی جنگ در ایران برای اسرائیل",
         "title_en": "Opinion | This poll shows the political risk to Israel from the war in Iran",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSU5semktUWlrUkVyNjdTNXNRb19tdHVQandVc0tTa2Zfd3F0V3dUXzNhREdnRDhQNlVwVHNkVE1mWlV2RXQyT0NzSmQxR3ZFcEFvTmNXY21LR285b1g1TW1nSDktZEhEbm16c0xiZi1ZamI4NU1IM2wwR3h6MWU2dU9qblNrYmtU",
         "image": null,
         "timestamp": 1775823241.0
+    },
+    {
+        "title_fa": "تهدید ترامپ علیه ایران همزمان با سفر ونس به پاکستان برای مذاکرات پایان جنگ؛ فشار هم‌زمان در محور لبنان و تنگه هرمز",
+        "title_en": "Trump threatens Iran as Vance heads to Pakistan for peace talks",
+        "summary": [
+            "بلومبرگ گزارش می‌دهد ترامپ فشار علیه ایران را افزایش داده است، هم‌زمان با سفر JD Vance به پاکستان برای رایزنی‌های مرتبط با پایان جنگ.",
+            "در متن خبر به «حملات هوایی اسرائیل در لبنان» اشاره شده که هم‌پوشانی زمانی با تشدید لحن واشینگتن علیه ایران را برجسته می‌کند.",
+            "همچنین به «موثر بودن اختلال/محدودیت در تنگه هرمز» اشاره شده؛ یعنی فشار از مسیر امنیت کشتیرانی و ریسک تجاری-نفتی هم فعال شده است."
+        ],
+        "impact": "ترکیب تهدید سیاسی واشینگتن با فشار میدانی در لبنان و ریسک عملیاتی در تنگه هرمز، احتمال تشدید دور بعدی تنش و افزایش هزینه‌های اقتصادی برای جمهوری اسلامی را بالا می‌برد.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-seeks-leverage-with-iran-as-hormuz-lebanon-threaten-talks/ar-AA20B6FC",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-seeks-leverage-with-iran-as-hormuz-lebanon-threaten-talks/ar-AA20B6FC",
+        "image": "http://www.bing.com/th?id=ONUT.W7rJdwR5lTe5kMwtB_nEUw&pid=News",
+        "timestamp": 1775823228.0
     },
     {
         "title_fa": "آتش‌بس «ناپایدار» آمریکا-ایران زیر فشار بی‌اعتمادی و شروط تهران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0NzeUZxdW9kUXN0SF9NSzJLWmpCMDltZWV6X2VxQTExS3hNaTNsRlpfWTZ1RVlWaTJsQ2w4SzZqdDRiZDRCMTRRSFZITGtlZDlXbUlGWXllLUczMFZMUlhWZklBQWwzMjdwWkdZcVh6cFZZbF91UHhSbVJSMmk3OXc5NEFQZFNMaWJJUTdWYk5sck00b3p1Sl9Ca0hwMFhLWklV0gGoAUFVX3lxTE1GZE92RHVnWlREb3JHVWwyNHJKV0VRWnExazZieDlkSnloeVUwaktwTl9YSm52WTFzS1piSW0tTmp4Y190MUZmMjZ6RVQzNktkUmJ0cmlRdWJ6MWFYbFlYY0tKTzh5dmEzUE94emltS2tSb1BNa0NGcFNxY184ckswMFRRNVh6RXR5eXVEdnV5Rko5VUdLcHl4cjZqUGhoMGg2Zm5KOEJlUQ",
         "image": null,
         "timestamp": 1775488680.0
-    },
-    {
-        "title_fa": "۳ دلیل برای عدم اعلام آتش‌بس در ایران",
-        "title_en": "3 Reasons Why There Will Be No Ceasefire In Iran",
-        "summary": [
-            "نویسنده تأکید می‌کند که تا ضرب‌الاجل سه‌شنبه ساعت ۲۰ برای باز شدن تنگه، بازارها به امید آتش‌بس دل بسته‌اند اما از منظر ساختاری توافق تا فردا ناممکن است.",
-            "مطلب هشدار می‌دهد که بازار انرژی دچار آرامش کاذب است و قیمت‌ها بیشتر منعکس‌کننده امید بازار نسبت به شواهد و ساختار واقعی عرضه و تقاضاست.",
-            "مقاله به‌صورت مستقیم به تحریم‌ها یا نقش روسیه/چین/کره‌شمالی اشاره نکرده؛ همین حذف صریح ملاحظات خارجی و داخلی، تحلیل پیرامون ثبات رژیم را محدود می‌کند و نشان می‌دهد شفافیت اطلاعاتی پایین است."
-        ],
-        "impact": "نبود آتش‌بسِ فوری احتمال نوسان شدید قیمت انرژی و خطر اختلال عملیاتی در تنگه را بالا می‌برد و به‌تدریج هزینه‌های سیاسی-اقتصادی را بر حکومت تحمیل خواهد کرد.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/article/4888652-3-reasons-why-there-will-be-no-ceasefire-in-iran",
-        "clean_url": "https://seekingalpha.com/article/4888652-3-reasons-why-there-will-be-no-ceasefire-in-iran",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2268503996/image_2268503996.jpg?io=getty-c-w1536",
-        "timestamp": 1775488560.0
-    },
-    {
-        "title_fa": "نیروگاه‌های ایران که ترامپ تهدید به نابودی آن‌ها کرده کجا هستند؟",
-        "title_en": "Where are Iran’s power plants that Trump has threatened to destroy?",
-        "summary": [
-            "تهدید به هدف‌گیری نیروگاه‌ها بخشی از الگوی فشار خارجی است که زیرساخت‌های حیاتی را نشانه می‌گیرد؛ عملی شدن چنین تهدیدی ضربه‌ای ساختاری به تولید برق و اقتصاد وارد می‌کند و ظرفیت حکومت برای مدیریت بحران‌های مالی و اجتماعی را تضعیف خواهد کرد.",
-            "قطع گسترده برق پیامدهای مستقیم معیشتی و اقتصادی دارد: تعطیلی کارخانه‌ها و خدمات، افزایش بیکاری و تشدید نارضایتی عمومی که ضعف‌های مدیریتی و ناکارآمدی سرمایه‌گذاری در شبکه را عیان می‌کند و می‌تواند اعتراضات و ناآرامی‌ها را تشدید کند.",
-            "بدون اطلاعات مشخص از اهداف یا نقشه عملیاتی، نمی‌توان احتمال اجرا یا محل دقیق نیروگاه‌ها را تأیید کرد؛ اما همین تهدیدها به‌تنهایی هزینه‌های سیاسی و امنیتی را بالا می‌برد و فوریت اقدام برای محافظت از زیرساخت‌ها و آماده‌سازی پاسخ‌های سیاسی-اجتماعی را افزایش می‌دهد."
-        ],
-        "impact": "تهدید به نابودی نیروگاه‌ها فوریت حفاظت از زیرساخت‌ها را بالا می‌برد و می‌تواند شکاف بین حکومت و جامعه را عمیق‌تر کند که در نهایت به بی‌ثباتی گسترده‌تری منتهی خواهد شد.",
-        "tag": "زیرساخت",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.forbes.com/sites/siladityaray/2026/03/30/trump-boasts-hell-blow-up-irans-power-plants-and-oil-wells-if-hormuz-strait-deal-not-shortly-reached/",
-        "clean_url": "https://www.forbes.com/sites/siladityaray/2026/03/30/trump-boasts-hell-blow-up-irans-power-plants-and-oil-wells-if-hormuz-strait-deal-not-shortly-reached",
-        "image": null,
-        "timestamp": 1775487171.0
     }
 ]
