@@ -90,6 +90,24 @@
         "timestamp": 1775827140.0
     },
     {
+        "title_fa": "ایران شرط جدید برای ادامه مذاکرات؛ توقف احتمالی نشست شنبه در پاکستان تا آزادسازی «وجوه ایرانی»",
+        "title_en": "Iran War Live Updates: Iran Adds New Condition as Vance Heads to Peace Talks",
+        "summary": [
+            "براساس گزارش، رئیس مجلس ایران اعلام کرده مذاکرات برنامه‌ریزی‌شده برای شنبه در پاکستان تنها در صورت آزادی «وجوه ایرانی» انجام می‌شود؛ جزئیات این وجوه مشخص نشده است.",
+            "این موضع به‌عنوان یک شرط جدید عمل می‌کند و می‌تواند مسیر گفت‌وگوها را به بن‌بست یا دست‌کم به تأخیر بیندازد، چون طرف‌های مقابل باید بدون شفافیتِ مقدار و منبع، تصمیم سیاسی بگیرند.",
+            "هم‌زمان با حضور جیمز ونس در مسیر «مذاکرات صلح»، پیام سیاسی ایران روشن است: اهرم‌گیری از وضعیت مالی برای کشاندن طرف مقابل به امتیازدهی، نه توافق فوری."
+        ],
+        "impact": "این شرط جدید، اگر عملیاتی نشود، احتمال لغو یا کندشدن مذاکرات را بالا می‌برد و هر دور گفت‌وگو را به یک معامله بر سر دسترسی مالی گره می‌زند.",
+        "tag": "مذاکرات",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon/a-senior-iranian-official-says-blocked-assets-must-be-released-before-talks-with-the-us-can-begin",
+        "clean_url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon/a-senior-iranian-official-says-blocked-assets-must-be-released-before-talks-with-the-us-can-begin",
+        "image": "https://static01.nyt.com/images/2026/04/10/multimedia/10israel-iran-ghalibaf-monkeywrench-topart-jwbm/10israel-iran-ghalibaf-monkeywrench-topart-jwbm-facebookJumbo.jpg",
+        "timestamp": 1775826900.0
+    },
+    {
         "title_fa": "گزارش (نظری) واشنگتن‌پست: ریسک سیاسی جنگ در ایران برای اسرائیل",
         "title_en": "Opinion | This poll shows the political risk to Israel from the war in Iran",
         "summary": [
@@ -718,6 +736,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02WE9QNjZSc0lXMENlUGxHSVpwcV9BblBvWl9MQ2pYaTduV21ES2cyWnhqMW5ES3RLa196c2lwX19KWVY1cVRxV2k0MDBWWHN5ek4tYm9XM3pndw",
         "image": null,
         "timestamp": 1775787044.0
+    },
+    {
+        "title_fa": "تلاش دولت‌ها برای پنهان‌سازی اطلاعات «جنگ ایران» در فضای مجازی و محدودیت‌های اینترنتی",
+        "title_en": "How governments have tried to hide information about the Iran war online",
+        "summary": [
+            "گزارش NPR می‌گوید دولت‌ها برای کنترل روایت عمومی، اینترنت را مسدود می‌کنند، انتشار در شبکه‌های اجتماعی را ممنوع می‌سازند و دسترسی به تصاویر ماهواره‌ای تجاری را قطع می‌کنند.",
+            "با وجود این اقدامات، کارشناسان معتقدند سانسور و محدودسازی اطلاعات همیشه به نتیجه یکسان نمی‌رسد و «اثرگذاری آن ترکیبی/متفاوت» است؛ یعنی ممکن است بخشی از اطلاعات باز هم از کانال‌های دیگر پخش شود.",
+            "این یعنی راهبرد پنهان‌سازی بیشتر یک تلاش برای کاهش دسترسی عمومی است تا تضمین کامل خاموشی اطلاعات، و شکاف میان کنترل رسمی و واقعیت‌های قابل رصد می‌تواند ادامه‌دار باشد."
+        ],
+        "impact": "قطع اینترنت و محدودسازی داده‌های قابل‌اتکا، توان نیروهای بیرونی و افکار عمومی برای راستی‌آزمایی را کم می‌کند، اما طبق گزارش، لزوماً به حذف کامل اطلاعات منتهی نمی‌شود.",
+        "tag": "سانسور",
+        "urgency": 5,
+        "sentiment": -0.35,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship",
+        "clean_url": "https://www.npr.org/2026/04/10/nx-s1-5775780/us-iran-war-israel-satellite-imagery-planet-vantor-censorship",
+        "image": "http://www.bing.com/th?id=ONUT.veeK7lujPsCgIFMrSrMQAA&pid=News",
+        "timestamp": 1775786400.0
     },
     {
         "title_fa": "چالش‌های متعدد آتش‌بس ایران و پیامدهای آن برای محاسبات قدرت",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/live-updates-us-iran-weigh-110128353.html",
         "image": null,
         "timestamp": 1775485901.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: تبادل حملات ایران و اسرائیل و تهدید تشدیدشده دونالد ترامپ درباره تنگه هرمز",
-        "title_en": "Live updates: Israel and Iran trade attacks as Trump escalates threat over Strait of Hormuz",
-        "summary": [
-            "گزارش می‌گوید ایران و اسرائیل حملاتی را مبادله کرده‌اند؛ منبع جزئیات فنی ارائه نکرده اما تقابل نظامی مستقیم ثبت شده است.",
-            "تشدید تهدید دونالد ترامپ درباره تنگه هرمز نشان‌دهنده افزایش فشار ایالات متحده است — فشار خارجی که به تضعیف ساختار اقتصادی و سیاسی رژیم و کاهش منابع دولت منجر می‌شود.",
-            "ترکیب حملات متقابل و تهدید واشینگتن ریسک گسترش منطقه‌ای را افزایش می‌دهد، هزینه‌های نظامی و اختلال در تجارت دریایی را بالا می‌برد و می‌تواند نارضایتی داخلی را تشدید کند."
-        ],
-        "impact": "افزایش تنش نظامی همراه با تهدید ایالات متحده می‌تواند فشار اقتصادی و سیاسی بر رژیم را تشدید کرده و فضای نارضایتی اجتماعی را گسترش دهد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "NBC 6 South Florida",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHhjT0o1R2puQ1BtWDBkRzlteV9yUG1KMUZ2ajhSSkRJc1Y2ZXZsRWZ0LXVONGxwaGY4SXlVd0tXYzJGM3Ryc1NoRDljOFlzNWJMSkljWjlUQldZbGlBOWJDQUh3dUc4cWdlZGFsNWZabFBsblpuZHRXWDBoWlpubXVlMk40bmdGT0FnYmhzNG9PUzZ2bFd0NGRrRFZ2X3NSeUHSAaoBQVVfeXFMTzJDMHVLUEM1amdBVzF1cTFGM2xVeEVWRnY2ejdPS3F2c2NIWjBra1Fyck5zOTBpVXJWRnNUa2R6aWZGdnJXcFZnSlcwWUN2dGprRUVaSkJyemJVbUh2ME96dWN1d0ZNRUZiZHNPQ1FFcjN4ZmpfelgyOU9ISU9qbUFKYXV0YU1PaGFMc2pTbnVJR0pYWVg0TndOSDIzbGk5czdvZFhRd01HV0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTHhjT0o1R2puQ1BtWDBkRzlteV9yUG1KMUZ2ajhSSkRJc1Y2ZXZsRWZ0LXVONGxwaGY4SXlVd0tXYzJGM3Ryc1NoRDljOFlzNWJMSkljWjlUQldZbGlBOWJDQUh3dUc4cWdlZGFsNWZabFBsblpuZHRXWDBoWlpubXVlMk40bmdGT0FnYmhzNG9PUzZ2bFd0NGRrRFZ2X3NSeUHSAaoBQVVfeXFMTzJDMHVLUEM1amdBVzF1cTFGM2xVeEVWRnY2ejdPS3F2c2NIWjBra1Fyck5zOTBpVXJWRnNUa2R6aWZGdnJXcFZnSlcwWUN2dGprRUVaSkJyemJVbUh2ME96dWN1d0ZNRUZiZHNPQ1FFcjN4ZmpfelgyOU9ISU9qbUFKYXV0YU1PaGFMc2pTbnVJR0pYWVg0TndOSDIzbGk5czdvZFhRd01HV0E",
-        "image": null,
-        "timestamp": 1775485871.0
-    },
-    {
-        "title_fa": "تهدید ترامپ: ضرب‌الاجل ۴۸ ساعته و وعده بمباران زیرساخت‌های ایران",
-        "title_en": "Trump and Hegseth on Iran war: ‘God is good’",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، با ارجاع‌های دینی و توئیت‌هایی حاوی «۴۸ ساعت» ضرب‌الاجل، خواستار باز کردن تنگه هرمز و آزادسازی نفت شد و تهدید کرد در صورت عدم تمکین، زیرساخت‌های مدنی ایران هدف حمله قرار خواهند گرفت؛ پیت هگست، وزیر دفاع، این لحن تهاجمی را در کنفرانس خبری واشنگتن تأیید کرد.",
-            "این هشدار مستقیماً نوعی فشار خارجی است: تهدید به هدف گرفتن زیرساخت‌های مدنی و گلوگاه نفتی ساختارهای اقتصادی ایران را هدف می‌گیرد و می‌تواند ثبات مالی و توان توزیع کالا را تضعیف کند؛ چنین فشارهایی از نظر ساختاری رژیم را از منظر اقتصادی و سیاسی آسیب‌پذیرتر می‌کنند، هرچند واکنش‌های ملی‌گرایانه داخلی نیز ممکن است موقتاً انسجام را حفظ کند.",
-            "گرچه گزارش به ناآرامی‌های داخلی اخیر اشاره نکرد، اما تهدید به حمله به زیرساخت‌ها و اختلال تنگه هرمز عملاً بار هزینه‌های اقتصادی را بر دوش جامعه شهری و بازارها می‌گذارد و می‌تواند نارضایتی عمومی را تشدید کند؛ این پیام مستقیم، آزمونی برای مدیریت بحران و نشانگر ضعف‌های عملکرد حکمرانی اقتصادی است."
-        ],
-        "impact": "ضرب‌الاجل و تهدید به هدف گرفتن زیرساخت‌ها، ریسک تشدید فروپاشی اقتصادی و افزایش نارضایتی داخلی را بالا می‌برد و رژیم را تحت فشار استراتژیک و سیاسی شدیدتری قرار می‌دهد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/04/06/politics/hegseth-trump-iran-war-easter-christianity-analysis",
-        "clean_url": "https://www.cnn.com/2026/04/06/politics/hegseth-trump-iran-war-easter-christianity-analysis",
-        "image": "http://www.bing.com/th?id=ONUT.ak3ZhSPGVQotlrwUOSmX_A&pid=News",
-        "timestamp": 1775484120.0
     }
 ]
