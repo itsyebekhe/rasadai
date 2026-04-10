@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "آمادگی آمریکا و ایران برای گفت‌وگوهای آتش‌بس؛ نتانیاهو مذاکره با لبنان را مجاز کرد",
+        "title_en": "US and Iran prepare for ceasefire talks as Netanyahu authorizes negotiations with Lebanon",
+        "summary": [
+            "طبق گزارش Audacy، آمریکا و ایران برای برگزاری گفت‌وگوهای آتش‌بس آماده می‌شوند، یعنی کانال‌های مذاکره فعال شده‌اند.",
+            "همزمان، رسانه‌ها اعلام کرده‌اند که بنیامین نتانیاهو مذاکرات با لبنان را مجاز کرده است؛ این یعنی فضای سیاسی برای گسترش روند مذاکره از موضوع ایران/آتش‌بس به جبهه لبنان هم باز شده است.",
+            "این رویداد بیشتر یک حرکت دیپلماتیک-عملیاتی برای کاهش درگیری است تا تغییر ساختاری در قدرت؛ بنابراین فعلاً نشانه‌ای از عقب‌نشینی داخلی یا فروپاشی اقتصاد/نظام ارائه نشده است."
+        ],
+        "impact": "احتمال کاهش تنش و شکل‌گیری مسیر گفت‌وگوهای چندجانبه بالا می‌رود، اما اثر فوری آن بر ثبات رژیم یا وضعیت داخلی ایران بدون داده‌های تکمیلی قابل اثبات نیست.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Audacy",
+        "url": "https://www.sfgate.com/news/world/article/us-and-iran-prepare-for-ceasefire-talks-as-22198996.php",
+        "clean_url": "https://www.sfgate.com/news/world/article/us-and-iran-prepare-for-ceasefire-talks-as-22198996.php",
+        "image": null,
+        "timestamp": 1775801914.0
+    },
+    {
+        "title_fa": "آیا خروج از توافق هسته‌ای ایران جنگ را نزدیک‌تر کرد؟",
+        "title_en": "Did Leaving the Iran Nuclear Deal Bring Us Closer to War?",
+        "summary": [
+            "این مطلبِ روزنامه «تایمز اسرائیل» به‌صورت تحلیلی می‌پرسد که خروج/کنار گذاشتن توافق هسته‌ای چه تاثیری بر احتمال رویارویی نظامی داشته است؛ یعنی تمرکز آن بر پیامدهای راهبردی این تصمیم است، نه وقوع یک رخداد مشخص در لحظه.",
+            "استدلال اصلی در قالب پرسش مطرح می‌شود: اینکه تغییر چارچوب هسته‌ای و کاهش محدودیت‌های نظارتی/توافقی (در برداشت کلی متن) می‌تواند ریسک محاسبات غلط و تشدید تنش را افزایش دهد—اما متنِ ارائه‌شده جزئیات عددی یا شواهد مستقیم از افزایش فوری درگیری ارائه نمی‌کند.",
+            "با توجه به نبود داده‌های مشخص در متن کوتاهِ منبع، نمی‌توان از این عنوان به‌تنهایی نتیجه گرفت که «رویدادهای قطعی» رخ داده یا هدف‌گیری/اعزام نیرو یا حمله‌ای تأیید شده است؛ بنابراین ارزیابی باید محدود به سطح «ریسک‌سنجی و امکان‌سنجی» باقی بماند."
+        ],
+        "impact": "این گزارش در سطح ارزیابی خطرات راهبردی می‌ماند و به‌تنهایی مدرک قطعی برای افزایش فوری احتمال جنگ ارائه نمی‌کند.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdy15MmZ2YmhQNHlnS2YzcHRkcDJybEUwOHUzYmdMeGh0cXN0dHhFUklRc1NBZ25neHdwY2tZYXdYeFpxb1BGN1dfVFlCY0FRTTdiWUJkQlowblFWWktza2dkUkVxb3QwTlVIdmpDamkwcm5WM3JJcjloaE9QOXpuT2lndk96d0lJSVEwVlhQM3ZoX2c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdy15MmZ2YmhQNHlnS2YzcHRkcDJybEUwOHUzYmdMeGh0cXN0dHhFUklRc1NBZ25neHdwY2tZYXdYeFpxb1BGN1dfVFlCY0FRTTdiWUJkQlowblFWWktza2dkUkVxb3QwTlVIdmpDamkwcm5WM3JJcjloaE9QOXpuT2lndk96d0lJSVEwVlhQM3ZoX2c",
+        "image": null,
+        "timestamp": 1775800680.0
+    },
+    {
+        "title_fa": "آتش‌بس ادعایی آمریکا-اسرائیل-ایران؛ گزارش می‌گوید ضربه‌ها سنگین بوده اما فروپاشی رخ نداده است",
+        "title_en": "Euroviews. Former Israeli PM: US-Israel-Iran war ceasefire – what next?",
+        "summary": [
+            "این متن مدعی است که حمله مشترک ۲۸ فوریه آمریکا و اسرائیل «قدرتمند و سریع» بوده و چند رهبر از جمله «آیت‌الله خامنه‌ای» را هدف قرار داده است، اما هم‌زمان تاکید می‌کند رژیم ایران فرو نپاشیده و ثبات خود را حفظ کرده است.",
+            "بر اساس ادعاهای مقاله، نیروی هوایی ایران «شدیداً ضربه» خورده، نیروی دریایی تقریباً «از بین رفته»، و زیرساخت‌های حمل‌ونقل از جمله پل‌ها و محورهای مرکزی توسط نیروی هوایی اسرائیل هدف گرفته شده؛ با این حال توان موشکی ایران همچنان فعال توصیف می‌شود.",
+            "نویسنده می‌گوید با وجود آتش‌بس دو هفته‌ای، غنی‌سازی اورانیوم (که هدف اصلی عملیات عنوان شده) هنوز در کنترل دولت ایران است و «احتمال منطقی» برای انتقال آن به دست کشوری که برای ترامپ و نتانیاهو قابل قبول باشد وجود ندارد."
+        ],
+        "impact": "جمع‌بندی متن نشان می‌دهد آتش‌بس فعلاً روند فروپاشی یا مهار قطعی تهدید هسته‌ای را محقق نکرده و توان‌های باقیمانده رژیم و کنترل غنی‌سازی همچنان اهرم اصلی دوام آن باقی می‌ماند.",
+        "tag": "آتش‌بس",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Euronews.com",
+        "url": "https://www.yahoo.com/news/articles/former-israeli-pm-us-israel-043842025.html",
+        "clean_url": "https://www.yahoo.com/news/articles/former-israeli-pm-us-israel-043842025.html",
+        "image": null,
+        "timestamp": 1775795922.0
+    },
+    {
         "title_fa": "۶۵۰ موشک ایرانی، ۲۴ کشته و ۱۰٬۸۰۰ حمله هوایی اسرائیل؛ جنگ در قالب اعداد",
         "title_en": "650 Iranian missiles fired, 24 killed, and 10,800 Israeli strikes: The war in numbers",
         "summary": [
@@ -270,6 +324,24 @@
         "timestamp": 1775762465.0
     },
     {
+        "title_fa": "افزایش تنش پیرامون آتش‌بس آمریکا-ایران؛ محدودیت جریان نفت و اختلاف بر سر تعهدات",
+        "title_en": "US-Iran ceasefire deal shows strain ahead of talks with oil flows squeezed",
+        "summary": [
+            "واشینگتن مدعی شده ایران به وعده‌های خود درباره تعهدات مرتبط با تنگه هرمز پایبند نبوده و همین موضوع «ریسک فرسایش» آتش‌بس را قبل از نشست‌های آینده بالا برده است.",
+            "طبق گزارش، اسرائیل حملاتی به لبنان انجام داده که ایران آن را نقض آتش‌بس توصیف کرده؛ یعنی تنش میدانی از همان کانال‌های امنیتیِ مورد بحث آتش‌بس تغذیه می‌کند.",
+            "همزمان اعلام شده «جریان‌های نفت» تحت فشار قرار گرفته است، که می‌تواند هم بر فشار اقتصادی اثر مستقیم بگذارد و هم زمینه روانی-تجاری برای سخت‌تر شدن مذاکرات را فراهم کند."
+        ],
+        "impact": "این ترکیبِ اختلاف بر سر تعهدات تنگه هرمز، درگیری‌های مرتبط در لبنان و فشار بر جریان نفت نشان می‌دهد آتش‌بس بیشتر وارد فاز بی‌ثباتی و چانه‌زنی می‌شود تا تثبیت.",
+        "tag": "آتش‌بس",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/us-iran-ceasefire-deal-shows-strain-ahead-talks-with-oil-flows-squeezed-2026-04-10/",
+        "clean_url": "https://www.reuters.com/world/asia-pacific/us-iran-ceasefire-deal-shows-strain-ahead-talks-with-oil-flows-squeezed-2026-04-10",
+        "image": "http://www.bing.com/th?id=ONUT.Nk3kguppSA44gNgbb4EW6w&pid=News",
+        "timestamp": 1775758440.0
+    },
+    {
         "title_fa": "اسرائیل برای گفت‌وگو با لبنان وارد فاز میانجی‌گری می‌شود تا آتش‌بس با ایران به‌هم نخورد",
         "title_en": "Israel seeks Lebanon talks after bombardments threaten Iran truce",
         "summary": [
@@ -448,6 +520,24 @@
         "clean_url": "https://www.nytimes.com/2026/04/09/world/middleeast/us-iran-negotiations-israel-netanyahu.html",
         "image": "https://static01.nyt.com/images/2026/04/09/multimedia/09int-iran-Israel-assess-01-pvkz/09int-iran-Israel-assess-01-pvkz-facebookJumbo.jpg",
         "timestamp": 1775747580.0
+    },
+    {
+        "title_fa": "ادامه مذاکرات آمریکا و ایران با شکنندگی بیشتر توافق آتش‌بس به‌دلیل ادعای نقض توسط اسرائیل در لبنان",
+        "title_en": "US talks with Iran are still on despite tests of ceasefire",
+        "summary": [
+            "به‌رغم تداوم گفت‌وگوهای آمریکا و ایران، آتش‌بسِ مورد توافقِ دو طرف «شکننده‌تر» شده است؛ ایران می‌گوید حملات اسرائیلی در لبنان شب گذشته با این توافق مغایرت داشته است.",
+            "این ادعا مستقیماً اعتبار عملیاتی توافق را فرسایش می‌دهد و زمینه بی‌اعتمادی و احتمال لغزش در اجرای آتش‌بس را بالا می‌برد.",
+            "در متن گزارش، نکته کلیدی این است که روند مذاکرات سیاسی حفظ شده، اما تست‌های آتش‌بس عملاً نشان می‌دهد مدیریت تنش میدانی در حال گسست است."
+        ],
+        "impact": "شکست در اجرای پایدار آتش‌بس، هزینه سیاسی مذاکرات را بالا می‌برد و ریسک تشدید چرخه درگیری را افزایش می‌دهد.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Los Angeles Times on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-talks-with-iran-are-still-on-despite-tests-of-ceasefire/ar-AA20xm7M",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-talks-with-iran-are-still-on-despite-tests-of-ceasefire/ar-AA20xm7M",
+        "image": "http://www.bing.com/th?id=ONUT.CvkcT0JUYd6jSDr0rkqsNg&pid=News",
+        "timestamp": 1775747160.0
     },
     {
         "title_fa": "ابهام بر سر «طرح ۱۰ نقطه‌ای» ایران؛ ویرانی اعتبار گفت‌وگو زیر سایه اختلاف زبانی درباره غنی‌سازی",
@@ -754,6 +844,24 @@
         "clean_url": "https://www.npr.org/2026/04/09/nx-s1-5777657/expert-discusses-whether-the-war-has-made-irans-regime-stronger",
         "image": "http://www.bing.com/th?id=ONUT.pR2TzlO8dKS10cvmsUzx_w&pid=News",
         "timestamp": 1775729580.0
+    },
+    {
+        "title_fa": "تهدید تازه ترامپ درباره بستن تنگه هرمز و هدف قرار دادن زیرساخت‌های ایران؛ تهران بازی جنگ را «ترسناک و جنایت‌بار» می‌خواند",
+        "title_en": "Iran war updates: Tehran slams Trump threats over Strait of Hormuz closure",
+        "summary": [
+            "ترامپ بار دیگر تهدید کرده است که در صورت بازنشدن تنگه هرمز، ایران را با حمله به پل‌ها و نیروگاه‌ها هدف می‌گیرد و گفته ایران «جهنم» را تجربه خواهد کرد.",
+            "مقامات ارشد ایرانی این اظهارات را «تحریک به جنایت جنگی» و ادامه «بازی خطرناک» دانسته‌اند؛ استدلال آنها این است که چنین اقداماتی مستقیماً به غیرنظامیان آسیب می‌زند.",
+            "این گزارش نشان می‌دهد پرونده هرمز به یک اهرم فشار نظامی تبدیل شده و تهدیدات متقابل، ریسک محاسبه‌نشدن پیامدها را بالا می‌برد."
+        ],
+        "impact": "گسترش تهدیدهای مستقیم علیه زیرساخت‌های حیاتی، احتمال تشدید سریع بحران عملیاتی در تنگه هرمز را بالا می‌برد و هزینه غیرنظامی را به‌طور مستقیم افزایش می‌دهد.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/AFP__20260405__A6T77TB__v1__HighRes__IranUsIsraelWarGuards-1775378738.jpg?resize=1920,1440",
+        "timestamp": 1775728320.0
     },
     {
         "title_fa": "آیا زنجیره‌های جهانی تامین از جنگ در ایران بازیابی خواهند شد؟",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQklmaFlUVWk1VWg3OVYtdEFRc3FIdEJ0MXZXcGpTMlNnOWRONUVjTmJWX3NvY1J3ZXFJVW9Hemt4YWFUZFlpLXM4Zklub1l6REVoYVFJaS1sTlZUd1NxN3pXWFY1cW45RjlNZDQzenNOS0ItdG5MTV9ZU0tQcGJrSy1mRV9nd2FwT1hoRmoyeVp2cUdudWVEUTYyWTJRcF9SOXJ6cHBR",
         "image": null,
         "timestamp": 1775450202.0
-    },
-    {
-        "title_fa": "جنگ با ایران در آستانه «پایان»؛ ضرب‌الاجل ترامپ و سناریوهای خاتمه",
-        "title_en": "Iran war nears ‘completion’ as Trump eyes deadline — what the endgame could look like",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، با ضرب‌الاجل برای بازگشایی تنگه هرمز تهدید کرده ظرف ۲–۳ هفته حملات بسیار سنگینی علیه ایران انجام دهد و به‌ویژه تأسیسات تولید برق و زیرساخت‌های انرژی را هدف قرار دهد.",
-            "دولت آمریکا مجموعه اهداف خود را به زیرساخت‌های مختلط و راه‌های حیاتی از جمله پل‌های بزرگ گسترش داده است؛ نمونهٔ اخیر تخریب پل B1 در کرج نشان می‌دهد حمله به تدارکات نظامی و شبکه حمل‌ونقل اکنون رسماً در دستور است.",
-            "تحلیلگران می‌گویند پایان‌دادن به جنگ به احتمال زیاد نتیجه یک ضربه قاطع نیست بلکه روندی از عملیات‌های پله‌ای خواهد بود — از هدف‌گیری شبکه‌های موشکی و پهپادی تا ضربات گسترده‌تر به انرژی و حمل‌ونقل — و تهدیدهای ترامپ برای بازپس‌گیری نفت و کنترل هرمز خطر تشدید فوری را بالا می‌برد."
-        ],
-        "impact": "حملات هدف‌مند به زیرساخت‌های انرژی و حمل‌ونقل هم درآمدهای دولت را کاهش می‌دهد و هم ظرفیت عملیاتی نظامی و مشروعیت حکومتی را تضعیف کرده و احتمال تشدید متقابل را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/iran-war-nears-completion-trump-090018432.html",
-        "clean_url": "https://www.aol.com/articles/iran-war-nears-completion-trump-090018432.html",
-        "image": "http://www.bing.com/th?id=ONUT.JsA2P6xlhduz2sJ6OnXzuw&pid=News",
-        "timestamp": 1775449920.0
-    },
-    {
-        "title_fa": "ایران آتش‌بس موقت را رد کرد؛ ترامپ ضرب‌الاجل برای بازگشایی تنگه هرمز تعیین کرد",
-        "title_en": "Iran rejects temporary ceasefire, as Trump sets deadline for reopening Strait of Hormuz",
-        "summary": [
-            "ایران پیشنهاد آتش‌بس موقت را رد کرد و دلیل را این دانست که آتش‌بس موقت به دشمنان فرصت توقف و بازآرایی برای ادامه درگیری می‌دهد.",
-            "رئیس‌جمهور آمریکا ضرب‌الاجل شفاهی تعیین کرده و گفت «زمان در حال اتمام است» برای بازگشایی تنگه هرمز؛ او همچنین قرار است درباره نجات خدمه یک F-15 ساقط‌شده بر فراز ایران کنفرانس خبری برگزار کند.",
-            "اسرائیل اعلام کرد رئیس اداره اطلاعات سپاه پاسداران ایران کشته شده است؛ رسانه‌های دولتی ایران گزارش دادند شش کودک در حملات مشترک اسرائیل-آمریکا کشته شدند و حمله ایرانی به یک ساختمان مسکونی در حیفا چهار کشته بر جای گذاشت."
-        ],
-        "impact": "فشار نظامی مستقیم و تهدید به انسداد مسیر حیاتی هرمز قیمت نفت را بالا برده و با ایجاد هزینه‌های اقتصادی و تلفات انسانی، ظرفیت مدیریتی رژیم را تحت فشار قرار می‌دهد؛ این ترکیب می‌تواند مشروعیت داخلی و ثبات ساختاری رژیم را بیش از پیش تضعیف کند.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/04/06/world/live-news/iran-war-us-trump-oil",
-        "clean_url": "https://www.cnn.com/2026/04/06/world/live-news/iran-war-us-trump-oil",
-        "image": "http://www.bing.com/th?id=ONUT.qlilcs4mSZGcg-LjubIDDA&pid=News",
-        "timestamp": 1775449500.0
-    },
-    {
-        "title_fa": "آمریکا و ایران معامله صلح را بررسی می‌کنند پس از تهدید ترامپ — به‌روزرسانی زنده جنگ",
-        "title_en": "US, Iran weigh peace deal after Trump issues threat. Live war updates.",
-        "summary": [
-            "طبق عنوان خبر، آمریکا و ایران ظاهراً بررسی یک «معامله صلح» را مطرح کرده‌اند و این جنبش هم‌زمان با صدور تهدیدی از سوی دونالد ترامپ گزارش شده است؛ متن کامل گزارش در دسترس نیست.",
-            "وب‌سایت پیغام فنی نمایش می‌دهد و متن اصلی مقاله بارگیری نمی‌شود؛ بنابراین هیچ منبع، جزئیات یا شواهد مستندی در اختیار گزارشگر خارجی موجود نیست که بتوان بر مبنای آن تحلیل قطعی ارائه کرد.",
-            "در صورت صحت تیتر، هر گونه گفتگو درباره معامله احتمالاً با منطق کاهش فشار خارجی و تحریم‌ها پیوند خورده است؛ اما بدون متن قابل اتکا نمی‌توان اثرات ساختاری تحریم‌ها بر ثبات رژیم یا پیامدهای اقتصادی و سیاسی داخلی را به‌درستی ارزیابی کرد."
-        ],
-        "impact": "اگر مذاکرات واقعی باشند، احتمال تشدید درگیری نظامی کوتاه‌مدت کاهش می‌یابد اما فقدان شفافیت می‌تواند فضای عدم‌اطمینان داخلی را تشدید کند و رژیم را بیشتر در معرض بحران‌های سیاسی-اقتصادی قرار دهد.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/04/06/iran-war-updates-donald-trump-strait-hormuz--live/89476990007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/06/iran-war-updates-donald-trump-strait-hormuz--live/89476990007",
-        "image": "http://www.bing.com/th?id=ONUT.FoH4k90e63AgBSAYdX8PSA&pid=News",
-        "timestamp": 1775449500.0
-    },
-    {
-        "title_fa": "ترامپ: اگر تنگه بسته بماند برای ایران «جهنم» رقم می‌زنم؛ امکان توافق وجود دارد",
-        "title_en": "Trump vows 'hell' for Iran if Strait stays shut, says a deal is possible",
-        "summary": [
-            "دونالد ترامپ هشدار داد که در صورت بسته شدن تنگه هرمز، ایالات متحده واکنشی بسیار شدید علیه ایران انجام خواهد داد و هم‌زمان گفته امکان دستیابی به توافق نیز وجود دارد.",
-            "این موضع تهدیدآمیز شانس افزایش فشار خارجی—شامل توجیه تحریم‌ها یا اقدامات نظامی—را بالا می‌برد و به تضعیف ساختار امنیتی و اقتصادی ایران منجر می‌شود.",
-            "گرچه پنجره مذاکره مطرح شده، هم‌زمان لحن جنگی فضای تصمیم‌گیری داخلی را محدود می‌کند و می‌تواند پیامدهای اقتصادی و فشار سیاسی بر جامعه را تشدید نماید."
-        ],
-        "impact": "اظهارات ترامپ ریسک تقابل نظامی و فشار خارجی را افزایش می‌دهد و در مجموع ثبات سیاسی-اقتصادی حکومت ایران را تضعیف خواهد کرد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.3,
-        "source": "reuters.com",
-        "url": "https://www.reuters.com/business/aerospace-defense/trump-vows-hell-iran-if-strait-stays-shut-says-deal-is-possible-2026-04-06/",
-        "clean_url": "https://www.reuters.com/business/aerospace-defense/trump-vows-hell-iran-if-strait-stays-shut-says-deal-is-possible-2026-04-06",
-        "image": null,
-        "timestamp": 1775446860.0
-    },
-    {
-        "title_fa": "ایران درخواست آتش‌بس موقت برای بازگشایی تنگه هرمز را رد کرد؛ مذاکرات را «ناسازگار» با تهدیدات خواند",
-        "title_en": "Iran rejects call for temporary ceasefire to reopen Hormuz and says peace talks ‘incompatible’ with threats",
-        "summary": [
-            "مقام‌های ایرانی می‌گویند پیشنهاد دو‌مرحله‌ای پاکستان (آتش‌بس فوری و بازگشایی تنگه هرمز با ۱۵–۲۰ روز زمان برای توافق نهایی) مورد بررسی قرار گرفته اما تهران حاضر نیست در ازای آتش‌بس موقت تنگه را باز کند و از پذیرش «مهلت‌ها و تهدیدها» امتناع می‌کند.",
-            "اسماعیل باغایی، سخنگوی وزارت خارجه، اعلام کرد مواضع و مطالبات ایران تهیه شده و مذاکرات را با «الزامات و تهدید به ارتکاب جنایت جنگی» ناسازگار خواند؛ هم‌زمان تهدیدات و مهلت‌گذاری‌های دونالد ترامپ برای حمله به زیرساخت‌های انرژی ادامه دارد.",
-            "پاکستان به‌عنوان کانال ارتباطی منحصربه‌فرد تلاش میانجی‌گرانه را پیش می‌برد (چارچوب موسوم به «اتفاق اسلام‌آباد»)؛ عدم پذیرش فوری راه‌حلی باعث افزایش ریسک تشدید درگیری‌ها و خسارت به تاسیسات حیاتی انرژی خواهد شد."
-        ],
-        "impact": "رد آتش‌بس موقت در ازای بازگشایی هرمز، احتمال تشدید نظامی و فشار اقتصادی بر ایران را بالا برده و ثبات داخلی حاکمیت را بیشتر تضعیف می‌کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iran-rejects-call-temporary-ceasefire-090748308.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-rejects-call-temporary-ceasefire-090748308.html",
-        "image": "http://www.bing.com/th?id=ONUT.q879dK8MnMBq8obOOIou0A&pid=News",
-        "timestamp": 1775446500.0
-    },
-    {
-        "title_fa": "میانجی‌ها میان آمریکا و ایران درباره آتش‌بس ۴۵ روزه مذاکره می‌کنند؛ احتمال توافق کم است — منابع",
-        "title_en": "US, Iran mediators in talks for 45-day truce, though chances for deal are slim — sources",
-        "summary": [
-            "منابع گزارش می‌دهند میانجی‌ها در پی توافق آتش‌بس ۴۵ روزه میان طرف‌های مرتبط با آمریکا و ایران در حال مذاکره هستند.",
-            "منابع تأکید می‌کنند احتمال رسیدن به توافق اندک است؛ بدین معنی که موانع عملی این مذاکرات قابل توجه‌اند.",
-            "این تلاش میانجی‌گرانه نشانه فشار خارجی برای کاهش تنش است؛ ناکامی در حصول توافق می‌تواند به تداوم درگیری‌های منطقه‌ای و ادامه فشار بین‌المللی علیه رژیم بینجامد."
-        ],
-        "impact": "با توجه به احتمال اندک توافق، در کوتاه‌مدت چشم‌انداز تداوم فشارهای بین‌المللی و استمرار بی‌ثباتی منطقه‌ای و هزینه‌های سیاسی برای رژیم تقویت می‌شود.",
-        "tag": "آتش‌بس",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "The Times of Israel",
-        "url": "https://www.msn.com/en-us/news/world/iran-mediators-make-last-ditch-push-for-45-day-ceasefire/ar-AA20dOLj",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-mediators-make-last-ditch-push-for-45-day-ceasefire/ar-AA20dOLj",
-        "image": null,
-        "timestamp": 1775442199.0
     }
 ]
