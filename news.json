@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "جمع‌بندی تحلیلی: «موفقیت بزرگ» اسرائیل در جنگ ایران—اما نه «پیروزی»",
+        "title_en": "Iran war is huge success for Israel - but it is not a victory, yet - opinion",
+        "summary": [
+            "این مطلب در چارچوب یک نظر تحلیلی، جنگ علیه ایران را برای اسرائیل «موفقیت بزرگ» معرفی می‌کند؛ با این حال ادعا می‌کند که هنوز به سطح «پیروزی» نرسیده است.",
+            "نویسنده میان موفقیت‌های تاکتیکی/عملیاتی و نتیجه نهایی سیاسی-استراتژیک فاصله می‌گذارد و می‌گوید برتری فعلی الزاماً به معنای پایان پرونده تهدید ایران نیست.",
+            "تمرکز مقاله نه بر رویدادهای جزئی، بلکه بر ارزیابی مرحله‌ای از جنگ و میزان تحقق اهداف اعلامی است: «موفقیت هست»، اما «فرجام قطعی» هنوز تعیین نشده است."
+        ],
+        "impact": "برداشت اصلی این است که حتی در روایت رسانه‌ای اسرائیل از «موفقیت»، جنگ هنوز وارد فاز تثبیت دستاوردهای نهایی نشده و ادامه ابهام استراتژیک باقی می‌ماند.",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EM0JyNkxYZVc3RTQxaHhKakRMTXI1ck5QX2FsUGJoSGVqWHM1S3hIUFlpa3ByU1VnUm1USmQxODJHNmlSU2VleGZDLWpfVHA4MHZuVDR4SQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EM0JyNkxYZVc3RTQxaHhKakRMTXI1ck5QX2FsUGJoSGVqWHM1S3hIUFlpa3ByU1VnUm1USmQxODJHNmlSU2VleGZDLWpfVHA4MHZuVDR4SQ",
+        "image": null,
+        "timestamp": 1775805913.0
+    },
+    {
+        "title_fa": "بازنگری امنیتی کشورهای خلیج فارس پس از جنگ آمریکا-اسرائیل علیه ایران و اصرار تهران بر کنترل تنگه هرمز",
+        "title_en": "Gulf states rethink security in light of US-Israel war on Iran",
+        "summary": [
+            "کشورهای خلیج فارس در پی جنگ اخیر آمریکا و اسرائیل علیه ایران، به دنبال افزودن شریک‌های امنیتی‌اند تا با تهدید مداوم رژیم ایران و باقی‌مانده سامانه موشکی‌اش مدیریت بحران را سخت‌تر کنند؛ چون پایگاه‌های آمریکا در خاکشان آن‌ها را هدف تلافی ایران قرار داد.",
+            "اختلاف اصلی مذاکرات آمریکا و ایران درباره آینده تنگه هرمز است: ایران در توافق آتش‌بس اعلام کرده کنترل خود بر آبراهی را که جریان عمده تجارت خلیج را می‌برد حفظ می‌کند و همین موضوع «تهدید اعمال فشار» بر تنگه تلقی می‌شود.",
+            "درون خلیج فارس شکاف دیده می‌شود: امارات و بحرین خط سخت‌گیرانه‌تری دارند، اما برخی دیگر به دنبال کاهش تنش و بازسازی روابط با تهران‌اند؛ هم‌زمان رسانه دولتی ایران می‌گوید امارات پشت حمله به تأسیسات نفتی جزیره لاوان بوده، در حالی که امارات واکنشی نشان نداده و عربستان نیز تماس رسمی با ایران از سر گرفته است."
+        ],
+        "impact": "این روند احتمال بازآرایی توازن امنیتی در خلیج فارس را بالا می‌برد و هم‌زمان ریسک «گره خوردن بحران به تنگه هرمز» را در مذاکرات آمریکا-ایران تشدید می‌کند.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/apr/10/gulf-states-rethink-security-us-israel-war-iran-ceasefire",
+        "clean_url": "https://www.theguardian.com/world/2026/apr/10/gulf-states-rethink-security-us-israel-war-iran-ceasefire",
+        "image": null,
+        "timestamp": 1775803440.0
+    },
+    {
+        "title_fa": "مارپیچ مرگِ نفت ترش: دیزل و آمونیاک در قلب زنجیره گرسنگی",
+        "title_en": "The Sour Crude Death Spiral: Diesel, Ammonia, and the Geopolitics of Starvation",
+        "summary": [
+            "این گزارش مدعی است که در پی «بستن عملیِ تنگه هرمز» طی چهل روز گذشته، انتقالِ اوره/کودهای پایه آمونیاک با وقفه جدی روبه‌رو شده و همین وقفه از «برداشت بد» تا «فاجعه غذایی» فاصله‌ای کوتاه ایجاد کرده است.",
+            "نویسندگان می‌گویند نقطه‌ی گرانش جنگ، نه نفت خام بلکه «دیزل و آمونیاک» است: دیزل برای ماشین‌آلات و حمل‌ونقل زنجیره کشاورزی و آمونیاک (فرایند هابر-بوش) برای تغذیه خاک؛ به ادعای متن، قطع آمونیاک می‌تواند تا حدود ۴۰٪ فروپاشی در عملکرد جهانی محصول ایجاد کند.",
+            "به‌عنوان شواهد بازار، گزارش افزایش جهشی قیمت دیزل را مطرح می‌کند: رشد بیش از ۱۱۳٪ در بازار سنگاپور نسبت به ۲۸ فوریه و عبور قیمت دیزل در آمریکا از ۵.۰۴ دلار/گالن (افزایش ۳۴٪ طی پنج هفته)، و نتیجه می‌گیرد این «کمبود اوره» عملاً وارد مرحله‌ی اثرگذاری زنجیره‌ای شده است."
+        ],
+        "impact": "اگر وقفه در انتقال کود و سوختِ زنجیره کشاورزی برای مدت طولانی ادامه پیدا کند، طبق چارچوب همین گزارش، اثر آن می‌تواند به کاهش جدی تولید غذایی و تشدید بحران اجتماعی-اقتصادی منجر شود.",
+        "tag": "تحریم-غذا",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "The Peoples Voice",
+        "url": "https://www.thepeoplesvoice.org/TPV3/Voices.php/2026/04/10/the-sour-crude-death-spiral-1",
+        "clean_url": "https://www.thepeoplesvoice.org/TPV3/Voices.php/2026/04/10/the-sour-crude-death-spiral-1",
+        "image": null,
+        "timestamp": 1775802240.0
+    },
+    {
         "title_fa": "آمادگی آمریکا و ایران برای گفت‌وگوهای آتش‌بس؛ نتانیاهو مذاکره با لبنان را مجاز کرد",
         "title_en": "US and Iran prepare for ceasefire talks as Netanyahu authorizes negotiations with Lebanon",
         "summary": [
@@ -36,6 +90,24 @@
         "timestamp": 1775800680.0
     },
     {
+        "title_fa": "جنگ ایران به روایت نقشه‌ها و نمودارها",
+        "title_en": "The Iran war in maps and charts",
+        "summary": [
+            "عنوان نشان می‌دهد مقاله تصویری و داده‌محور است و با استفاده از نقشه‌ها و نمودارها خطوط نبرد، گستره جغرافیایی درگیری و روندهای کلیدی مرتبط با «جنگ ایران» را ترسیم می‌کند؛ بدون متن کامل نمی‌توان جزئیات را تأیید کرد.",
+            "در صورت وجود بخش‌هایی درباره تحریم‌ها یا فشار خارجی، این نمودارها باید بر تضعیف ساختاری اقتصاد و توان لجستیکی رژیم و پیامدهای سیاسی داخلی و اقتصادی ناشی از این فشارها دلالت کنند؛ هر تحلیل باید به شواهد درون‌مقاله متکی باشد.",
+            "هر ادعایی درباره اعتراضات داخلی، ناکارآمدی حکمرانی یا سقوط اقتصادی باید بر داده‌های نقشه‌ای و آماری مقاله استوار باشد؛ غیاب متن کامل اجازه نمی‌دهد روابط علّی یا آمار خاصی را فراتر از آنچه عنوان نشان می‌دهد معتبر بدانیم."
+        ],
+        "impact": "یک مروری تصویری می‌تواند نقاط ضعف لجستیکی و تغییرات جغرافیایی در میدان درگیری را برای ناظران و تصمیم‌گیرندگان روشن کند و بنابراین در ارزیابی ثبات رژیم و پیامدهای استراتژیک اهمیت دارد.",
+        "tag": "نقشه‌ها",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "The Economist",
+        "url": "https://www.economist.com/interactive/2026-iran-war-tracker",
+        "clean_url": "https://www.economist.com/interactive/2026-iran-war-tracker",
+        "image": null,
+        "timestamp": 1775796392.0
+    },
+    {
         "title_fa": "آتش‌بس ادعایی آمریکا-اسرائیل-ایران؛ گزارش می‌گوید ضربه‌ها سنگین بوده اما فروپاشی رخ نداده است",
         "title_en": "Euroviews. Former Israeli PM: US-Israel-Iran war ceasefire – what next?",
         "summary": [
@@ -52,6 +124,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/former-israeli-pm-us-israel-043842025.html",
         "image": null,
         "timestamp": 1775795922.0
+    },
+    {
+        "title_fa": "ادامه حملات اسرائیل به حزب‌الله و بن‌بست لبنان، شرط‌گذاری ایران برای تداوم آتش‌بس و شرکت در مذاکرات",
+        "title_en": "Iran War Live Updates: Israel Strikes Hezbollah as Lebanon Impasse Threatens Cease-Fire",
+        "summary": [
+            "اسرائیل اعلام کرده حملات به «میلیشیاهای مورد حمایت ایران» را ادامه می‌دهد و این موضع عملاً می‌تواند آتش‌بس را شکننده کند.",
+            "ایران گفته در صورت تمدید نشدن آتش‌بس لبنان، در گفت‌وگوهای صلح با ایالات متحده در پاکستان شرکت نخواهد کرد؛ یعنی اهرم فشار ایران، گره‌زدن پرونده لبنان به مسیر مذاکرات با واشنگتن است.",
+            "تنش در لبنان و «مانع توافق» میان طرف‌ها به عنوان تهدیدی علیه آتش‌بس مطرح شده و همین موضوع، احتمال تشدید درگیری‌های نیابتی را بالا می‌برد."
+        ],
+        "impact": "این پیام‌های متقابل نشان می‌دهد آتش‌بس لبنان به نقطه شکست نزدیک است و احتمال ادامه یا تشدید درگیری‌ها به هزینه‌های سیاسی-امنیتی بیشتر برای همه طرف‌ها منجر می‌شود.",
+        "tag": "لبنان",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon",
+        "clean_url": "https://www.nytimes.com/live/2026/04/10/world/iran-war-trump-israel-lebanon",
+        "image": "https://static01.nyt.com/images/2026/04/10/multimedia/10israel-iran-promo-wjpf/10israel-iran-promo-wjpf-facebookJumbo.jpg",
+        "timestamp": 1775791620.0
     },
     {
         "title_fa": "۶۵۰ موشک ایرانی، ۲۴ کشته و ۱۰٬۸۰۰ حمله هوایی اسرائیل؛ جنگ در قالب اعداد",
@@ -108,6 +198,60 @@
         "timestamp": 1775783889.0
     },
     {
+        "title_fa": "جِی‌دی ونس برای میانجی‌گری گفت‌وگوهای ایران و آمریکا راهی پاکستان می‌شود؛ سایه تهدید بر آتش‌بس اسرائیل–لبنان",
+        "title_en": "US Iran War LIVE: JD Vance to head to Pakistan today to lead mediated talks with Iran",
+        "summary": [
+            "طبق گزارش هندوستان‌تایمز، جِی‌دی ونس امروز به پاکستان سفر می‌کند تا گفت‌وگوهای میانجی‌گرانه را برای ایران پیش ببرد، در حالی که هماهنگی‌ها در اسلام‌آباد برای این نشست‌ها انجام می‌شود.",
+            "این تحرک دیپلماتیک هم‌زمان با «تداوم ضربات کشنده اسرائیل در لبنان» رخ می‌دهد که به‌طور مستقیم می‌تواند آتش‌بسِ میان اسرائیل و لبنان را که اوایل همین هفته توافق شده، به هم بزند.",
+            "با وجود برپایی زمینه مذاکرات، متن خبر تأکید می‌کند که ایران «همچنان» در این فرآیند وضعیت روشن و قطعی ندارد و این ابهام می‌تواند روند مذاکرات را شکننده کند."
+        ],
+        "impact": "اگر ضربات اسرائیل در لبنان ادامه یابد و آتش‌بس فروبپاشد، فضای مذاکره برای هر طرف تنگ‌تر می‌شود و احتمال پیشروی چرخه تنش افزایش پیدا می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/iran-us-war-news-pakistan-talks-israel-lebanon-missile-drone-strikes-april-10-live-updates-donald-trump-strait-of-hormuz-101775781907592.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/iran-us-war-news-pakistan-talks-israel-lebanon-missile-drone-strikes-april-10-live-updates-donald-trump-strait-of-hormuz-101775781907592.html",
+        "image": "http://www.bing.com/th?id=ONUT.1nBO5daVIsRZxmOHR-Y7uA&pid=News",
+        "timestamp": 1775783100.0
+    },
+    {
+        "title_fa": "ترامپ عقب‌نشینی از تهدید علیه ایران؛ توافق دو هفته‌ای آتش‌بس میان ایران و آمریکا/اسرائیل",
+        "title_en": "Trump backs off Iran threats, US, Israel and Iran agree to two-week ceasefire",
+        "summary": [
+            "طبق گزارش MassLive، ترامپ اعلام کرد تهدیدهای مربوط به حمله به پل‌ها، نیروگاه‌ها و سایر اهداف غیرنظامی در ایران را کاهش می‌دهد، مشروط به اینکه ایران آتش‌بس دو هفته‌ای را بپذیرد.",
+            "در همین چارچوب، گزارش می‌گوید آمریکا و اسرائیل با ایران بر سر آتش‌بس دو هفته‌ای توافق کرده‌اند و شرط اصلی، همچنین «بازگشایی» موارد مورد اشاره در متن توافق است (جزئیات دقیق در بخش ارسالی کامل نیست).",
+            "این تغییر موضع نشان می‌دهد فشار خارجی به‌جای تشدید فوری، به سمت مهار زمان‌دار بحران حرکت کرده و رژیم عملاً یک فرصت کوتاه برای تنفس سیاسی/عملیاتی می‌گیرد، اما هیچ نشانه‌ای از حل ریشه‌ای اختلافات در متن ارائه نشده است."
+        ],
+        "impact": "این عقب‌نشینی و آتش‌بس دو هفته‌ای بیشتر یک مکث عملیاتی برای کاهش ریسک جنگ و مدیریت فشار است تا تغییر پایدار در معادله امنیتی و اقتصادی ایران.",
+        "tag": "آتش‌بس",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "MassLive",
+        "url": "https://www.masslive.com/news/2026/04/trump-backs-off-iran-threats-offers-two-week-ceasefire.html",
+        "clean_url": "https://www.masslive.com/news/2026/04/trump-backs-off-iran-threats-offers-two-week-ceasefire.html",
+        "image": "http://www.bing.com/th?id=ONUT.5Cnw7GA0RPv5YYRSOnnVRQ&pid=News",
+        "timestamp": 1775781900.0
+    },
+    {
+        "title_fa": "هشدار ایران به پاسخ «دردآور» در صورت ادامه حملات اسرائیل به لبنان و همزمان رجزکشی درباره تنگه هرمز",
+        "title_en": "Iran warns it will respond if Israeli attacks on Lebanon don't stop immediately",
+        "summary": [
+            "سپاه پاسداران می‌گوید اگر حملات اسرائیل به لبنان فوراً متوقف نشود، پاسخ «تاسف‌برانگیز/پشیمان‌کننده» خواهد داد؛ این هشدار در فضای ادعای تل‌آویو و واشنگتن مطرح می‌شود که لبنان در چارچوب آتش‌بس دو هفته‌ای با ایران قرار ندارد.",
+            "نتانیاهو می‌گوید اسرائیل «بزرگ‌ترین ضربه» به حزب‌الله از آغاز عملیات زمینی در لبنان را وارد کرده است؛ هم‌زمان خبرها از ادامه حمله‌ها پس از اعلام آتش‌بس در امارات، کویت و همچنین یک پالایشگاه در جنوب ایران حکایت می‌کند و محمدباقر قالیباف می‌گوید چند بند آتش‌بس «صراحتاً نقض» شده است.",
+            "در بُعد فشار دریایی، ایران اعلام کرده است کشتی‌هایی که بدون اجازه از تنگه هرمز عبور کنند «هدف قرار داده و منهدم» می‌شوند و می‌گوید مسیر «عملاً بسته» است؛ در مقابل، سخنگوی کاخ سفید می‌گوید ترامپ خواهان بازگشایی تنگه «بدون هیچ محدودیتی» است و همچنین مذاکره‌کنندگان آمریکایی قرار است برای پیگیری صلح به پاکستان بروند."
+        ],
+        "impact": "این ترکیبِ هشدار تهران، ادعای نبود شمول لبنان در آتش‌بس و کشمکش بر سر امنیت تنگه هرمز، احتمال دور شدن آتش‌بس از کنترل و جهش ریسک در جنگ نیابتی و مسیرهای انرژی را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/live/c5yw4g3z7qgt",
+        "clean_url": "https://www.bbc.com/news/live/c5yw4g3z7qgt",
+        "image": "http://www.bing.com/th?id=ONUT.bYRPn9HtA8_TWkwQ1BhGVA&pid=News",
+        "timestamp": 1775776140.0
+    },
+    {
         "title_fa": "بن‌بست مذاکرات آتش‌بس؛ جنگ به دستور کار عملیاتی تهران و خروج سیاسی واشنگتن گره خورده است",
         "title_en": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
         "summary": [
@@ -142,6 +286,24 @@
         "clean_url": "https://www.firstpost.com/world/us-iran-israel-war-live-updates-strait-of-hormuz-trump-lebanon-strikes-oil-liveblog-13998650.html",
         "image": "http://www.bing.com/th?id=ONUT.GL5l32padUKtiQStQOAkJA&pid=News",
         "timestamp": 1775770200.0
+    },
+    {
+        "title_fa": "حمله ترامپ به چهره‌های رسانه‌ای MAGA به‌خاطر انتقاد از تهدیدات ایران",
+        "title_en": "'Losers.' Trump jabs MAGA media figures critical of his Iran threats",
+        "summary": [
+            "ترامپ در واکنش رسانه‌ای، به تیترها و موضع‌گیری‌های Tucker Carlson، Megyn Kelly، Candace Owens و Alex Jones تاخته که نسبت به تهدیدات او علیه ایران ابراز نگرانی کرده بودند.",
+            "این اقدام نشان می‌دهد اختلاف در جبهه داخلیِ حامیان ترامپ بر سر مدیریت ریسک تنش با ایران پابرجاست و انتقاد از لحن و پیام سیاست خارجی برای او قابل‌تحمل نیست.",
+            "در سطح راهبردی، تمرکز بر سرکوب روایت منتقدان رسانه‌ای می‌تواند به تشدید فضای قطبی‌شده کمک کند، اما در متن خبر، شواهدی از تغییر واقعی در سیاست یا اقدامات عملی علیه ایران ارائه نشده است."
+        ],
+        "impact": "این بیشتر یک عملیات کنترل روایت در داخل آمریکا است و بدون شواهد از اقدام اجرایی جدید علیه ایران، اثر مستقیم فوری بر رژیم ایران محدود به فضای سیاسی/رسانه‌ای می‌ماند.",
+        "tag": "رسانه",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The Detroit News on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/losers-trump-jabs-maga-media-figures-critical-of-his-iran-threats/ar-AA20ycA9",
+        "clean_url": "https://www.msn.com/en-us/news/politics/losers-trump-jabs-maga-media-figures-critical-of-his-iran-threats/ar-AA20ycA9",
+        "image": "http://www.bing.com/th?id=ONUT.tHKbhTukmbIodhq7znRyhg&pid=News",
+        "timestamp": 1775769592.0
     },
     {
         "title_fa": "ارزیابی PBS از ادعاهای ترامپ و هگست درباره «پیروزی» آمریکا در جنگ با ایران",
@@ -5236,167 +5398,5 @@
         "clean_url": "https://www.foreignaffairs.com/iran/iran-shock",
         "image": null,
         "timestamp": 1775457180.0
-    },
-    {
-        "title_fa": "از معامله تا فروپاشی: پنج آینده راهبردی برای جنگ ایران",
-        "title_en": "From Bargain to Breakdown: Five Strategic Futures for the Iran War",
-        "summary": [
-            "مقاله پنج سناریوی راهبردی را بررسی می‌کند که از «معامله» یا تسویه کنترل‌شده تا «فروپاشی» کامل صحنه را میانِ منافع داخلی و خارجی تقسیم می‌کند و پیامدهای هر مسیر را بر ثبات ملی می‌سنجد.",
-            "تحلیل به تأثیر فشار خارجی و تحریم‌ها به‌عنوان عامل تضعیف ساختاری حکومت و افزایش آسیب‌پذیری اقتصادی و سیاسی اشاره دارد؛ نتیجه‌گیری این است که فشارهای بیرونی می‌توانند توان بازدارندگی و مشروعیت داخلی را کاهش دهند.",
-            "سناریوهای «فروپاشی» بازتاب ناکارآمدی مدیریتی و شکست در مهار نارضایتی‌های اقتصادی-اجتماعی است؛ در این مسیر ریسک تشدید اعتراضات داخلی، شکست نهادهای کنترل و گسترش درگیری‌های محلی یا منطقه‌ای افزایش می‌یابد."
-        ],
-        "impact": "تقاطع تحریم‌های فشرده و مدیریت ناکارآمد اقتصاد می‌تواند ظرف کوتاه‌مدت ثبات رژیم را تضعیف کند و احتمال ورود کشور به چرخه‌ای از بی‌ثباتی داخلی و تشدید درگیری‌های منطقه‌ای را بالا ببرد.",
-        "tag": "جنگ",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Small Wars Journal",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9scE1iVEZJNElTdFdqaXlpNnRyUmU2VVdQZDhMWTRXY1VrTmU5ZTA5UFZHdFltYWV1ckhxYmhnUnJxRF85elREcFBZLXdEWHJNUWZBY3BGbFcyVVZ2d1NxZWZKN19sQkloQWYwdi1rU3ZrYzd3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9scE1iVEZJNElTdFdqaXlpNnRyUmU2VVdQZDhMWTRXY1VrTmU5ZTA5UFZHdFltYWV1ckhxYmhnUnJxRF85elREcFBZLXdEWHJNUWZBY3BGbFcyVVZ2d1NxZWZKN19sQkloQWYwdi1rU3ZrYzd3",
-        "image": null,
-        "timestamp": 1775455410.0
-    },
-    {
-        "title_fa": "واکنش تلافی‌جویانه تهران: تهدید به بستن تنگه‌ای دیگر پس از تهدیدات رکیک ترامپ",
-        "title_en": "Iran threatens to close yet another strait in wake of Trump’s expletive-filled threat",
-        "summary": [
-            "دونالد ترامپ، رییس‌جمهور آمریکا، با لحنی رکیک تهدید کرد که اگر ایران تا ضرب‌الاجل تعیین‌شده تنگه هرمز را باز نکند علیه زیرساخت‌ها اقدام خواهد کرد؛ تهران در پاسخ تهدید به بستن یک تنگه دیگر مطرح کرده است.",
-            "این تقابل کلامی و تهدید به اخلال در مسیرهای حمل‌ونقل دریایی فشار خارجی را افزایش می‌دهد و احتمال اختلال در صادرات نفت و تشدید تحریم‌ها یا محدودیت‌های بین‌المللی را بالا می‌برد که ساختار اقتصادی رژیم را هدف قرار می‌دهد.",
-            "انتخاب ابزار بستن تنگه به‌عنوان پاسخ، نشان‌دهنده تکیه رژیم بر اهرم‌های امنیتی و نظامی به‌جای سیاست‌های اصلاحی است و می‌تواند نارضایتی عمومی و ریسک بی‌ثباتی داخلی را تشدید کند."
-        ],
-        "impact": "این رویارویی می‌تواند به تقابل نظامی یا اختلال گسترده در خطوط انرژی منجر شود و در کوتاه‌مدت ثبات اقتصادی و سیاسی ایران را به شدت تضعیف کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "PennLive",
-        "url": "https://www.pennlive.com/politics/2026/04/iran-threatens-to-close-yet-another-strait-in-wake-of-trumps-expletive-filled-threat.html",
-        "clean_url": "https://www.pennlive.com/politics/2026/04/iran-threatens-to-close-yet-another-strait-in-wake-of-trumps-expletive-filled-threat.html",
-        "image": "http://www.bing.com/th?id=ONUT.uyu_EgvjtOajYbGkmmMvoA&pid=News",
-        "timestamp": 1775455260.0
-    },
-    {
-        "title_fa": "جنگ آمریکا-اسرائیل-ایران: گزارش زنده حملات و تشدید تنش‌های منطقه‌ای",
-        "title_en": "US-Israel–Iran war: Live updates on strikes and regional tensions",
-        "summary": [
-            "آژانس آناتولی گزارش زنده‌ای از حملات و افزایش تنش میان آمریکا، اسرائیل و ایران منتشر کرده است؛ متن منبع جزئیات عملیاتی دقیق را ارائه نمی‌دهد.",
-            "تشدید رویارویی نظامی مستقیم به‌سرعت ریسک فشار خارجی و پاسخ‌های تلافی‌جویانه را بالا می‌برد و ساختارهای اقتصادی و سیاسی رژیم را در برابر شوک‌های بیرونی آسیب‌پذیرتر می‌کند.",
-            "در غیاب جزئیات بیشتر، پیام اصلی خبر هشدار نسبت به افزایش ناگهانی ریسک منطقه‌ای است؛ پیامدهای داخلی بستگی مستقیم به شدت درگیری و توان موسسات حکومتی برای مدیریت بحران دارد."
-        ],
-        "impact": "اثر فوری: احتمال تشدید بی‌ثباتی منطقه‌ای و افزایش فشار اقتصادی و سیاسی بر رژیم که ظرفیت پاسخ‌دهی آن را به‌طرز قابل‌توجهی تضعیف می‌کند.",
-        "tag": "تصاعد",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGhmdzRwQ2pXZXlIU0U2ZklzVDk4YUJHNFlubFNXSTNPM3hEZ0F1M0NzRlZoeWFpRk0td2kyUHZRR0pWWWxGdExqMF9WSzd4elE5aTZGZnhwZGV2dFJKSVd0Z0Rwa0YwX1dCaWZFRVpSWXJDMlA0WDBJRV9zVjVhb2J3XzBtd1NOcHRZZEp1Q2R4QTR6enRyeElDSG14ZDlrZTVKM0tnRERXZnRSTVZjLQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaGhmdzRwQ2pXZXlIU0U2ZklzVDk4YUJHNFlubFNXSTNPM3hEZ0F1M0NzRlZoeWFpRk0td2kyUHZRR0pWWWxGdExqMF9WSzd4elE5aTZGZnhwZGV2dFJKSVd0Z0Rwa0YwX1dCaWZFRVpSWXJDMlA0WDBJRV9zVjVhb2J3XzBtd1NOcHRZZEp1Q2R4QTR6enRyeElDSG14ZDlrZTVKM0tnRERXZnRSTVZjLQ",
-        "image": null,
-        "timestamp": 1775454979.0
-    },
-    {
-        "title_fa": "نظر: پس از ۴۵۰ حمله موشکی و ۲٬۰۰۰ حمله پهپادی، چرا امارات هنوز وارد جنگ با ایران نشده؟",
-        "title_en": "Opinion | 450 Missile, 2,000 Drone Attacks Later, Why Is UAE Still Not Fighting Iran?",
-        "summary": [
-            "سرخط گزارش می‌دهد که شمار گسترده‌ای از حملات — ۴۵۰ موشک و ۲٬۰۰۰ پهپاد — ثبت شده و سؤال محوری مقاله این است که با وجود این حجم حملات، امارات چرا وارد تقابل نظامی مستقیم با ایران نشده است.",
-            "تحلیل فشارهای خارجی: الگوی حملات نشان‌دهنده افزایش تنش‌های منطقه‌ای و فشار خارجی بر تهران است؛ این وضعیت می‌تواند به تشدید تحریم‌ها و انزوای بین‌المللی منجر شود اما در عین حال ثابت می‌کند که رژیم از ابزار نظامی و شبکه‌های نیابتی برای بقا استفاده می‌کند.",
-            "پیامدهای داخلی و اقتصادی: حفظ چنین عملیات‌های بیرونی هزینه‌بر است و ضعف مدیریتی را برجسته می‌کند؛ ادامه این روند می‌تواند نارضایتی عمومی را تشدید کند و منابع اقتصادی و سیاسی رژیم را تخریب نماید."
-        ],
-        "impact": "ادامه وضع موجود ریسک تبدیل درگیری‌های نیابتی به درگیری مستقیم بین تهران و کشورهای خلیج فارس را بالا می‌برد و ثبات منطقه را بیش از پیش تضعیف می‌کند.",
-        "tag": "تنش",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/opinion/iran-israel-war-why-iran-has-fired-the-most-missiles-at-its-biggest-trading-partner-in-gulf-11306811",
-        "clean_url": "https://www.ndtv.com/opinion/iran-israel-war-why-iran-has-fired-the-most-missiles-at-its-biggest-trading-partner-in-gulf-11306811",
-        "image": null,
-        "timestamp": 1775454102.0
-    },
-    {
-        "title_fa": "تهدید ترامپ به «انفجار همه‌چیز» اگر ایران توافق نکند، بر تلاش آتش‌بس پاکستان سایه انداخت",
-        "title_en": "Live Updates: Trump's threat to blow \"everything up\" if Iran won't make a deal hangs over new ceasefire bid",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور سابق آمریکا تهدید کرده که در صورت امتناع ایران از توافق تا روز سه‌شنبه، نیروگاه‌ها و پل‌های این کشور را نابود خواهد کرد.",
-            "این تهدید صریح بر ابتکار پاکستان برای آتش‌بس سایه انداخته و شانس موفقیت راه‌حل دیپلماتیک را کاهش می‌دهد و ریسک لغو یا تشدید نظامی را بالا می‌برد.",
-            "فشار نظامی و تهدیدهای این‌چنینی از سوی واشنگتن ساختارهای سیاسی-اقتصادی حکومت تهران را بیشتر تضعیف می‌کند؛ در کوتاه‌مدت احتمال تمرکز بیشتر بر سیاست‌های امنیتی و محدودیت‌های داخلی و آسیب‌پذیری فزایندهٔ زیرساخت‌های حیاتی وجود دارد."
-        ],
-        "impact": "پیامد فوری تهدید ترامپ، تضعیف ابتکار آتش‌بس پاکستان و افزایش احتمال حملات هدف‌مند به زیرساخت‌های حیاتی ایران است.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-bridges-ceasefire-push-air-force-rescue/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-bridges-ceasefire-push-air-force-rescue",
-        "image": "http://www.bing.com/th?id=ONUT.U3Zl5AhVb384yf-P7pPwxQ&pid=News",
-        "timestamp": 1775452800.0
-    },
-    {
-        "title_fa": "ترامپ: ایران در سرنگونی اف-۱۵ «شانس آورد»؛ مقامات نگران تله بودند",
-        "title_en": "Trump says Iran 'got lucky' with shooting down F-15, officials feared trap",
-        "summary": [
-            "ترامپ در گفت‌وگو با Axios گفت ایران در سرنگونی یک فروند اف-۱۵ «شانس آورد»، ارزیابی‌ای که رویکرد سیاسی او به رخداد را نشان می‌دهد.",
-            "مقامات آمریکایی ابراز نگرانی کردند که این اقدام ممکن است عمدی بوده و «تله» برای کشاندن نیروهای آمریکا به واکنش طراحی شده باشد؛ این امر ریسک تقابل‌های هوایی با ایران را برجسته می‌کند.",
-            "ترامپ به استفاده یک عضو خدمه از عبارتی اشاره کرد که آن را «چیزی که یک مسلمان می‌گوید» توصیف کرده است؛ چارچوب‌بندی مذهبی-فرهنگی این رویداد می‌تواند تبعات سیاسی و تبلیغاتی داخلی و منطقه‌ای داشته باشد."
-        ],
-        "impact": "این حادثه می‌تواند به تقویت موج فشار خارجی و توجیه اقدامات سخت‌گیرانه‌تر از جمله تشدید تحریم‌ها منجر شود و در مجموع ساختار سیاسی-اقتصادی و مشروعیت رژیم را تضعیف کند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-says-iran-got-lucky-with-shooting-down-f-15-officials-feared-trap/ar-AA20dKa8",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-got-lucky-with-shooting-down-f-15-officials-feared-trap/ar-AA20dKa8",
-        "image": null,
-        "timestamp": 1775452264.0
-    },
-    {
-        "title_fa": "جنگ ایران را به قدرت بزرگ جهانی تبدیل می‌کند",
-        "title_en": "Opinion | The War Is Turning Iran Into a Major World Power",
-        "summary": [
-            "یادداشت تحلیلی نیویورک‌تایمز مدعی است که درگیری فعلی نفوذ منطقه‌ای و بین‌المللی ایران را تقویت می‌کند؛ این ادعا بر لبه ژئوپلیتیک تاکید دارد و فرض ثبات داخلی و اقتصادی را نادیده می‌گیرد.",
-            "از منظر ساختاری، تبدیل شدن به «قدرت بزرگ» نیازمند پایه‌های اقتصادی و سازمانی پایدار است؛ فشارهای بین‌المللی و تحریم‌های ساختاری اقتصاد را تضعیف کرده و ظرفیت بلندمدت رژیم را محدود می‌کنند.",
-            "هرگونه بهره‌برداری از افزایش نفوذ خارجی با واقعیت نارضایتی عمومی و مدیریت ناکارآمد اقتصادی در داخل مواجه است؛ ضعف‌های حکمرانی می‌تواند مانع تبدیل موفق نفوذ منطقه‌ای به قدرت جهانی باثبات شود."
-        ],
-        "impact": "این روایت می‌تواند برای توجیه تشدید مداخله منطقه‌ای از سوی حکومت مورد استفاده قرار گیرد، اما بحران‌های اقتصادی و اجتماعی داخلی مانع از تثبیت تبدیل نفوذ موقت به قدرت جهانی خواهند شد.",
-        "tag": "نفوذ",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5abUQ1VVJub0hSUlJTd3Qtd1ZycDdZQWVjdl9OU2daVHk4SXctaHBmcEVES2ZXUnRoUnJNb3ZGZFl1S1FQejBjNkJSd0xWY1YwX2ZoZVZ4cmItZFNzaWlhRmZPN2k2RXROUjRWQjdfVXhtbER4OUxqYlFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5abUQ1VVJub0hSUlJTd3Qtd1ZycDdZQWVjdl9OU2daVHk4SXctaHBmcEVES2ZXUnRoUnJNb3ZGZFl1S1FQejBjNkJSd0xWY1YwX2ZoZVZ4cmItZFNzaWlhRmZPN2k2RXROUjRWQjdfVXhtbER4OUxqYlFn",
-        "image": null,
-        "timestamp": 1775451605.0
-    },
-    {
-        "title_fa": "پیشنهاد آتش‌بس به ایران و آمریکا پس از تهدیدهای ترامپ: «در جهنم زندگی خواهید کرد»",
-        "title_en": "Iran and US given ceasefire proposal after Trump’s threats: ‘You’ll be living in Hell’",
-        "summary": [
-            "پیشنهاد آتش‌بس به دو طرف ایران و آمریکا ارائه شده؛ این اقدام در پاسخ به تهدید تند دونالد ترامپ و بالا گرفتن خطر رویارویی نظامی مطرح شده است.",
-            "محمدباقر قالیباف، رئیس مجلس، با تأکید بر «احترام به حقوق مردم ایران» خواهان پایان دادن به این بازی خطرناک شده؛ اظهارنظری که نشان‌دهنده نگرانی از هزینه‌های سیاسی و اجتماعی بحران در داخل است.",
-            "در کوتاه‌مدت آتش‌بس می‌تواند از تشدید مستقیم درگیری جلوگیری کند، اما تهدیدهای علنی آمریکا احتمال افزایش فشارهای خارجی (اعم از تحریم یا اقدامات دیگر) و تشدید نارضایتی داخلی را بالا می‌برد و در بلندمدت می‌تواند تضعیف ساختاری رژیم را تشدید کند."
-        ],
-        "impact": "اثر فوری: کاهش احتمال برخورد نظامی مستقیم اما افزایش خطر فشار خارجی و فساد سیاسی-اقتصادی که نارضایتی عمومی را تشدید و ثبات رژیم را ضعیف‌تر می‌کند.",
-        "tag": "آتش‌بس",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "al.com",
-        "url": "https://www.al.com/news/2026/04/iran-and-us-given-ceasefire-proposal-after-trumps-threats-youll-be-living-in-hell.html",
-        "clean_url": "https://www.al.com/news/2026/04/iran-and-us-given-ceasefire-proposal-after-trumps-threats-youll-be-living-in-hell.html",
-        "image": "http://www.bing.com/th?id=ONUT.18jxpuhZUi-RF-z0C2VJXQ&pid=News",
-        "timestamp": 1775450580.0
-    },
-    {
-        "title_fa": "آمریکا، ایران و میانجی‌ها درباره آتش‌بس احتمالی ۴۵ روزه گفتگو می‌کنند: گزارش",
-        "title_en": "US, Iran and mediators discussing possible 45-day ceasefire: Report",
-        "summary": [
-            "گزارش‌ها می‌گویند آمریکا، ایران و میانجی‌ها درباره امکان برقرار کردن یک آتش‌بس ۴۵ روزه در حال گفتگو هستند؛ منبع و جزئیات بیشتر در گزارش ذکر نشده است.",
-            "در صورت صحت گفتگوها، احتمال دارد این مذاکرات پاسخ راهبردی رژیم به فشار خارجی و هزینه‌های نظامی-سیاسی اخیر باشد؛ چنین گفتمان‌هایی نشان‌دهنده یک محاسبه تاکتیکی برای کاهش هزینه‌ها است نه تغییر ساختاری.",
-            "آتش‌بس موقتی می‌تواند تنش‌ها را کاهش دهد ولی مشکل اصلی ضعف مدیریتی اقتصادی و بی‌اعتمادی عمومی را حل نمی‌کند؛ بدون اصلاحات ساختاری، سود سیاسی و اجتماعی این آتش‌بس محدود خواهد بود."
-        ],
-        "impact": "اگر مذاکرات به آتش‌بس ۴۵ روزه منجر شود، فشارهای فوری بر نظام کاهش می‌یابد اما خطر عدم پایدارسازی بلندمدت به دلیل ناکارآمدی‌های ساختاری و اقتصادی باقی می‌ماند.",
-        "tag": "آتش‌بس",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQklmaFlUVWk1VWg3OVYtdEFRc3FIdEJ0MXZXcGpTMlNnOWRONUVjTmJWX3NvY1J3ZXFJVW9Hemt4YWFUZFlpLXM4Zklub1l6REVoYVFJaS1sTlZUd1NxN3pXWFY1cW45RjlNZDQzenNOS0ItdG5MTV9ZU0tQcGJrSy1mRV9nd2FwT1hoRmoyeVp2cUdudWVEUTYyWTJRcF9SOXJ6cHBR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQklmaFlUVWk1VWg3OVYtdEFRc3FIdEJ0MXZXcGpTMlNnOWRONUVjTmJWX3NvY1J3ZXFJVW9Hemt4YWFUZFlpLXM4Zklub1l6REVoYVFJaS1sTlZUd1NxN3pXWFY1cW45RjlNZDQzenNOS0ItdG5MTV9ZU0tQcGJrSy1mRV9nd2FwT1hoRmoyeVp2cUdudWVEUTYyWTJRcF9SOXJ6cHBR",
-        "image": null,
-        "timestamp": 1775450202.0
     }
 ]
