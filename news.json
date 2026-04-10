@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "بن‌بست مذاکرات آتش‌بس؛ جنگ به دستور کار عملیاتی تهران و خروج سیاسی واشنگتن گره خورده است",
+        "title_en": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+        "summary": [
+            "مذاکرات آتش‌بس در پاکستان با سه مانع اصلی روبه‌رو است: بی‌اعتمادی کامل، نبود «زمینه مشترک»، و تشدید حملات اسرائیل به لبنان که می‌تواند هر روند توافقی را از مسیر خارج کند. ",
+            "ترامپ برای «خروج» از جنگ به زمان نیاز دارد چون انتخابات میان‌دوره‌ای نوامبر و سفرهای خارجی (از جمله دیدار با پادشاه چارلز و سپس نشست با شی جین‌پینگ) برنامه را به سمت کاهش تنش سوق می‌دهد؛ از طرف دیگر، رژیم ایران با وجود دشنام‌های تبلیغاتی و توان پرتاب موشک و پهپاد، زیر فشار خسارت سنگین قرار گرفته و برای بازسازی و تقویت موضعش می‌خواهد از روند مذاکره زمان بخرد.",
+            "اختلاف فاحش در فهرست‌های اعلامی دو طرف مانع توافق «بالاتر» از آتش‌بس است و حتی حفظ صرفِ ادامه گفت‌وگوها هم در شرایط جنگی بدون اعتماد، فقط می‌تواند ظاهری مثبت بسازد؛ موضوع فوری‌تر و محوری، بازگشایی تنگه هرمز است، چون بستن آن اهرم فشار اقتصادی برای ایران ایجاد می‌کند و اکنون به گره اصلی مذاکره تبدیل شده است."
+        ],
+        "impact": "اگر توافق قابل‌اجرا برای بازگشایی تنگه هرمز و شکل‌دادن به آتش‌بس بدون اعتماد شکل نگیرد، خطر بازگشت چرخه حملات و تشدید بحران دریایی بالا می‌ماند.",
+        "tag": "تحلیل",
+        "urgency": 8,
+        "sentiment": -0.55,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo",
+        "clean_url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo",
+        "image": null,
+        "timestamp": 1775775707.0
+    },
+    {
         "title_fa": "ارزیابی PBS از ادعاهای ترامپ و هگست درباره «پیروزی» آمریکا در جنگ با ایران",
         "title_en": "Fact-checking Trump and Hegseth's claims of U.S. 'victory' in the Iran war",
         "summary": [
@@ -232,6 +250,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/spain-ramps-up-criticism-of-israel-us-defying-trump-threats/ar-AA20w9LM",
         "image": null,
         "timestamp": 1775753756.0
+    },
+    {
+        "title_fa": "فرصه آتش‌بس ایران «در آستانه فروپاشی»؛ ادامه حملات اسرائیل به لبنان",
+        "title_en": "Iran ceasefire ‘on the verge of collapse’ as Israel continues attacks on Lebanon",
+        "summary": [
+            "طبق گزارش، آتش‌بس مرتبط با ایران «در آستانه فروپاشی» قرار گرفته و دلیل اصلی این وضعیت هم‌چنان ادامه حملات اسرائیل به لبنان است.",
+            "حملات اسرائیل در لبنان مستقیم و فوری به زیرساخت‌های شهری آسیب زده؛ نمونه آن حمله هوایی به بیروت و جست‌وجوی نیروهای دفاع مدنی لبنان برای یافتن قربانیان در میان آوار است.",
+            "این چرخه حمله و تشدید، می‌تواند زمینه را برای از دست رفتن هرگونه توافق شکننده فراهم کند و هزینه سیاسی-امنیتی را برای همه طرف‌های درگیر بالا ببرد."
+        ],
+        "impact": "ادامه حملات اسرائیل به لبنان به‌عنوان عامل محرک، احتمال فروپاشی آتش‌بس را بالا می‌برد و خطر گسترش بی‌ثباتی منطقه‌ای را تشدید می‌کند.",
+        "tag": "آتش‌بس",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "al.com",
+        "url": "https://www.al.com/news/2026/04/iran-ceasefire-hovers-on-the-verge-of-collapse-as-israel-continues-attacks-on-lebanon.html",
+        "clean_url": "https://www.al.com/news/2026/04/iran-ceasefire-hovers-on-the-verge-of-collapse-as-israel-continues-attacks-on-lebanon.html",
+        "image": "http://www.bing.com/th?id=ONUT.0UD6s9Wav5TRmrGzpt6m3A&pid=News",
+        "timestamp": 1775752620.0
     },
     {
         "title_fa": "حمله اسرائیل به لبنان بلافاصله پس از اعلام آتش‌بس آمریکا-ایران؛ شکاف در اجرای توافق و تلاقی با منافع جنگی",
@@ -700,6 +736,24 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/rogue-dem-bucks-party-on-trump-war-powers-calls-iran-47-year-old-war-crime/ar-AA20vu51",
         "image": "http://www.bing.com/th?id=ONUT.8c5Jqxy_y-TSAMSLs3m-lw&pid=News",
         "timestamp": 1775722067.0
+    },
+    {
+        "title_fa": "تهدید ترامپ به «حملات بزرگ‌تر و قوی‌تر» در صورت عدم دستیابی به «توافق واقعی» و شکنندگی آتش‌بس آمریکا-ایران",
+        "title_en": "Trump threatens 'bigger and stronger' attacks if Iran doesn’t comply with 'real agreement'",
+        "summary": [
+            "ترامپ اعلام کرده اگر ایران «توافق واقعی» مورد نظر آمریکا را اجرا نکند، حملات را «بزرگ‌تر و قوی‌تر» خواهد کرد؛ پیام او عملاً زهر تردید به پایداری آتش‌بس شکننده آمریکا-ایران می‌ریزد.",
+            "هم‌زمان، تنش‌ها در تنگه هرمز و نگرانی از حملات اسرائیل علیه حزب‌الله در لبنان، ریسک سرریز شدن درگیری منطقه‌ای به سطح تقابل مستقیم‌تر را بالا می‌برد.",
+            "این گزارش بر پیوند بین فشار سیاسی/نظامی آمریکا و گره‌های امنیتی منطقه (هرمز و لبنان) تاکید می‌کند، اما هیچ جزئیات اجرایی جدید درباره اقدامات مشخص ارائه نمی‌دهد؛ در نتیجه تمرکز بر «تهدید و اهرم فشار» است."
+        ],
+        "impact": "این تهدید می‌تواند آتش‌بس را از حالت «موقت و شکننده» به «قابل فروپاشی» نزدیک کند و احتمال تشدید درگیری دریایی و ضربه‌های متقابل را افزایش دهد.",
+        "tag": "تحریم_فشار",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "TIME on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-threatens-bigger-and-stronger-attacks-if-iran-doesn-t-comply-with-real-agreement/ar-AA20vGIU",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-threatens-bigger-and-stronger-attacks-if-iran-doesn-t-comply-with-real-agreement/ar-AA20vGIU",
+        "image": "http://www.bing.com/th?id=ONUT.CjLfDhDw4aeW23SBct6qjQ&pid=News",
+        "timestamp": 1775719992.0
     },
     {
         "title_fa": "خطر از هم پاشیدن آتش‌بس؛ حملات اسرائیل در لبنان و احتمال مین‌گذاری در تنگه هرمز",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-in/news/world/us-iran-war-live-updates-trump-deadline-to-open-hormuz-nears-iran-calls-him-delusional/ar-AA20dGP0",
         "image": "http://www.bing.com/th?id=ONUT.Dzm8cNPCVVIQLr-JLe95Rg&pid=News",
         "timestamp": 1775433635.0
-    },
-    {
-        "title_fa": "بروزرسانی زنده: اسرائیل می‌گوید رئیس اطلاعات سپاه پاسداران ایران را کشته است",
-        "title_en": "Live updates: Israel says it killed the head of intelligence for Iran’s Revolutionary Guard",
-        "summary": [
-            "اسرائیل مدعی است که رئیس واحد اطلاعات سپاه پاسداران را کشته است؛ گزارش از سوی خبرگزاری AP منتشر شده و ادعا هنوز به صورت مستقل تاییدنشده باقی مانده است.",
-            "از دست رفتن یک مقام عالی‌رتبه اطلاعاتی به‌صورت موقت هماهنگی و ظرفیت اطلاعاتی سپاه را تضعیف کرده و خلأ رهبری در این بخش ایجاد می‌کند که پیچیدگی عملیات و واکنش‌دهی را افزایش می‌دهد.",
-            "این اقدام ریسک تشدید تنش‌های مستقیم یا نیابتی بین ایران و اسرائیل را بالا می‌برد و احتمال دارد دولت ایران را به تشدید اقدامات امنیتی و سرکوب داخلی یا پاسخ‌های تلافی‌جویانه وادار کند."
-        ],
-        "impact": "کشته شدن رئیس اطلاعات سپاه نقطه‌ای است که توان عملیاتی امنیتی و ثبات سیاسی داخلی را تضعیف کرده و احتمال تشدید رویارویی منطقه‌ای و فشارهای داخلی را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-06-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-06-2026",
-        "image": "http://www.bing.com/th?id=ONUT.Dx1Bzz2wI4B2sxPfL9cclg&pid=News",
-        "timestamp": 1775426820.0
-    },
-    {
-        "title_fa": "چرا آمریکا و اسرائیل به ایران حمله کردند و جنگ چقدر می‌تواند طول بکشد؟",
-        "title_en": "Why did US and Israel attack Iran and how long could the war last?",
-        "summary": [
-            "تیتر به‌تنهایی اطلاعات کافی نمی‌دهد؛ متن کامل باید اهداف سیاسی-نظامی آمریکا و اسرائیل، شواهد ادعاها و دامنه عملیاتی حملات را مشخص کند.",
-            "تحلیل تحریم‌ها / فشار خارجی: هرگونه حمله یا فشار نظامی-دیپلماتیک می‌تواند تضعیف ساختاری در اقتصاد ایران ایجاد کند، ظرفیت حکمرانی را کاهش دهد و نارضایتی اجتماعی را افزایش دهد؛ پیامدهای داخلی و اثر بر پایداری رژیم باید به‌صراحت بررسی شود.",
-            "مدت درگیری وابسته به توان لجستیکی، ذخایر و تداوم ضربات، واکنش بازیگران منطقه‌ای و سطح نارضایتی داخلی است؛ مدیریت اقتصادی ضعیف و شکست در کنترل معیشت عمومی ریسک تشدید ناآرامی‌ها را افزایش می‌دهد."
-        ],
-        "impact": "در صورت تایید حمله، احتمال تشدید سریع به بحران منطقه‌ای و تحمیل هزینه‌های سنگین سیاسی و اقتصادی بر حکومت ایران بسیار بالاست.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55MG5wdTJrMFlNLWRENFBMZEFMcW0yN0E5dE1lajB6eGRWU1JNN2Y0cXhkbGlGdEpTcG1naHdqN00yLThGV3Qzd2RmYWhBa0tfS1I5ejRobjVGZw",
-        "image": null,
-        "timestamp": 1775424348.0
-    },
-    {
-        "title_fa": "ایران هشدار به تلافی «بسیار ویرانگر» پس از تهدیدات رکیک ترامپ",
-        "title_en": "Iran warns of 'devastating' retaliation after Trump's expletive-filled threats",
-        "summary": [
-            "دونالد ترامپ مهلت زمانی تعیین کرد و با الفاظ رکیک تهدید به حمله به زیرساخت‌های ایران («روز نیروگاه و پل») نمود؛ بی‌بی‌سی می‌گوید این تهدید می‌تواند مصداق احتمال جرم جنگی باشد و واشنگتن درباره نجات خلبان ساقط‌شده گزارش خواهد داد.",
-            "ایران هشدار داد در صورت هدف قرار گرفتن اهداف غیرنظامی پاسخی «بسیار ویرانگر» خواهد داد؛ خبرگزاری فارس وابسته به سپاه گزارش داد ۱۵ کشتی ظرف ۲۴ ساعت گذشته با اجازه ایران از تنگه هرمز عبور کرده اما ترافیک حدود ۹۰٪ کاهش یافته و مقام‌ها می‌گویند تنگه تنها برای «کشورهای دشمن» بسته است و عراق معاف است.",
-            "مقامات ایرانی پیشنهاد دریافت عوارض از عبور کشتی‌ها را مطرح کرده و دفتر رئیس‌جمهور گفت تنگه زمانی باز می‌شود که بخشی از عوارض برای جبران خسارات جنگ به کار رود؛ یک مقام منطقه‌ای می‌گوید پیشرفت واقعی در مذاکرات بدون آتش‌بس بعید است."
-        ],
-        "impact": "اگرچه گزارش به تحریم‌ها اشاره‌ای ندارد، تهدید مستقیم نظامی آمریکا و محدودسازی عبور در تنگه هرمز فشار ساختاری بر اقتصاد ایران را از طریق کاهش درآمدهای ترانزیتی و افزایش هزینه‌های جنگ تشدید می‌کند و به تضعیف ثبات سیاسی و تاب‌آوری رژیم می‌انجامد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/c5yw4g3z7qgt",
-        "clean_url": "https://www.bbc.com/news/live/c5yw4g3z7qgt",
-        "image": "http://www.bing.com/th?id=ONUT.tPgD7KFuL9rB6jR0Pz-E1Q&pid=News",
-        "timestamp": 1775423700.0
     }
 ]
