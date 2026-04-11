@@ -126,6 +126,24 @@
         "timestamp": 1775907540.0
     },
     {
+        "title_fa": "آخرین خبر جنگی: عبور 2 ناو آمریکایی از تنگه هرمز",
+        "title_en": "Iran war latest: 2 US warships transit Strait of Hormuz",
+        "summary": [
+            "طبق گزارش FOX 10 Phoenix، دو ناو جنگی آمریکا در تنگه هرمز در حال ترانزیت هستند؛ یک نشانه مستقیم از افزایش آمادگی عملیاتی در مسیرهای حیاتی انرژی.",
+            "بخش قابل‌توجهی از متن منبع به هشدارهای آب‌وهوایی در آریزونا مربوط است (Red Flag و Wind Advisory) و هیچ جزئیات دیگری درباره اقدام ایران یا هدف‌گیری نظامی ارائه نمی‌کند.",
+            "بنابراین داده‌های موجود بیشتر بر «نمایش حضور نظامی» و فشار امنیتی/عملیاتی می‌چرخد تا اطلاعات تأییدشده درباره درگیری یا عملیات مشخص."
+        ],
+        "impact": "ترانزیت ناوهای آمریکایی از تنگه هرمز ریسک اشتباه محاسباتی و تشدید تنش دریایی را بالا می‌برد، اما در متن حاضر شواهدی از درگیری یا اقدام مشخص ایران ارائه نشده است.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "FOX 10 Phoenix",
+        "url": "https://www.fox10phoenix.com/news/iran-war-latest-ceasefire-talks-strait-hormuz",
+        "clean_url": "https://www.fox10phoenix.com/news/iran-war-latest-ceasefire-talks-strait-hormuz",
+        "image": "http://www.bing.com/th?id=ONUT.aARcWD_eFVX-dmIbfFwcgQ&pid=News",
+        "timestamp": 1775905560.0
+    },
+    {
         "title_fa": "دیدار ونس با شارif پیش از مذاکرات آتش‌بس؛ اهرم‌گیری جدید آمریکا در پرونده ایران-منطقه",
         "title_en": "Vance, US negotiators meeting with Iran, Pakistan delegations for ceasefire talks",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://www.detroitnews.com/story/news/world/2026/04/11/iran-u-s-peace-talks-war-pakistan/89567601007",
         "image": "http://www.bing.com/th?id=ONUT.idnBMDv7nejmFdIC1bKNcA&pid=News",
         "timestamp": 1775903760.0
+    },
+    {
+        "title_fa": "گزارش: رهبر معظم ایران با حملات آمریکا-اسرائیل در تهران به شدت آسیب‌دیده و پدرش کشته شد",
+        "title_en": "Iran's supreme leader severely disfigured by US strikes: report",
+        "summary": [
+            "به‌گفته گزارش رویترز با استناد به منابع ناشناس، مجتبی خامنه‌ای پس از حملات هوایی آمریکا-اسرائیل به تهران دچار آسیب شدید/ناشکل‌شدن شده است.",
+            "همان گزارش ادعا می‌کند این حملات منجر به کشته‌شدن پدر او شده؛ این یعنی ضربه مستقیم به رأس تصمیم‌گیری و یک رویداد با پیام سیاسی-امنیتی سنگین است.",
+            "اگر ادعای «آسیب شدید» و «مرگ پدر» دقیق باشد، تهران با یک بحران مشروعیت و اختلال جدی در سازوکارهای امنیتی-فرماندهی روبه‌رو می‌شود، چون حمله به پایتخت و هدف‌گیری نزدیک به بالاترین سطح ممکن است نظم داخلی را دچار شوک کند."
+        ],
+        "impact": "این رویداد در صورت صحت، احتمال تشدید تنش و بی‌ثباتی فوری در مدیریت بحران داخل رژیم را بالا می‌برد.",
+        "tag": "اسکالیشن",
+        "urgency": 10,
+        "sentiment": -0.85,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/irans-supreme-leader-severely-disfigured-by-us-strikes-report/ar-AA20EIkU",
+        "clean_url": "https://www.msn.com/en-us/news/world/irans-supreme-leader-severely-disfigured-by-us-strikes-report/ar-AA20EIkU",
+        "image": "http://www.bing.com/th?id=ONUT.MZqepmWe_pxrkTLhV1S6Uw&pid=News",
+        "timestamp": 1775903402.0
     },
     {
         "title_fa": "ورود ونس به پاکستان برای مذاکرات صلح با ایران؛ گره اصلی «آزادسازی دارایی‌های مسدود» و پرونده هسته‌ای",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://seekingalpha.com/article/4888893-why-is-stock-market-holding-up-so-well",
         "image": null,
         "timestamp": 1775567580.0
-    },
-    {
-        "title_fa": "آمریکا و ایران ایده‌هایی برای پایان جنگ مطرح کردند؛ پیشنهادها علناً رد شد",
-        "title_en": "Amid Escalating Threats, U.S. and Iran Float Ideas to End War",
-        "summary": [
-            "آمریکا و ایران هر یک طرح‌هایی را که می‌تواند مبنای مذاکرات برای پایان جنگ باشد مطرح کرده‌اند.",
-            "رهبران دو طرف تاکنون علناً پیشنهادهای طرف مقابل را رد کرده‌اند؛ این ردها نشان‌دهنده فقدان اعتماد و فضای سیاسی نامساعد برای گفت‌وگوست.",
-            "این تبادل پیشنهادها در شرایط تهدید فزاینده و تحت فشار خارجی رخ داده است؛ ادامه فشار خارجی می‌تواند روندهای تضعیف ساختاری رژیم را تشدید کند و محتوای هر توافق بالقوه را دگرگون سازد."
-        ],
-        "impact": "ادامه ردها شانس توافق سریع را کاهش می‌دهد و احتمال تشدید نظامی یا گسترش بحران منطقه‌ای را افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/04/07/world/middleeast/us-iran-war-negotiations-proposals.html",
-        "clean_url": "https://www.nytimes.com/2026/04/07/world/middleeast/us-iran-war-negotiations-proposals.html",
-        "image": null,
-        "timestamp": 1775567520.0
-    },
-    {
-        "title_fa": "ترامپ هشدار داد «کل یک تمدن امشب از بین می‌رود» اگر با ایران توافق نشود",
-        "title_en": "Trump warns a 'whole civilization will die tonight' if a deal with Iran isn't reached",
-        "summary": [
-            "اظهارنظر دونالد ترامپ این‌بار شکست احتمالی توافق با ایران را به عنوان یک تهدید وجودی معرفی کرده و لحن را تا سطح هشدار به «نابودی تمدن» بالا برده است.",
-            "این نوع لفاظی‌ها فشار خارجی را تشدید می‌کند؛ افزایش فشار سیاسی و اقتصادی می‌تواند به تضعیف ساختاری رژیم منجر شود و ظرفیت مانور تهران در دیپلماسی و اقتصاد را کاهش دهد.",
-            "از منظر داخلی، چنین بیانیه‌هایی دو مسیر محتمل ایجاد می‌کنند: تقویت روایت تهدید خارجی که برای بسیج یا سرکوب داخلی استفاده می‌شود، و همزمان تنگ‌تر کردن فضای مذاکره — گزارش هیچ مدرکی درباره تأثیر مستقیم روی اعتراضات فعلی ارائه نمی‌دهد."
-        ],
-        "impact": "این تهدید بزرگ لفظی فوریت خطر تشدید نظامی را بالا می‌برد، فضای مذاکره را محدود می‌کند و به نفع جریان‌های تندرو در هر دو طرف می‌انجامد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmlKTnBkbG5iOGs1Z250OVgxUkxPWWFvcnVPUE01dXpEVmpKWDN6VXFDcEdQWDNGWWhtSzJZLXhMdEpaLVhLWmZmem9CQ0ZnS1RUV2dWV05iUm90N2o2dDBjUjhrUFFtajZvRXhRUW10Y1BRX1Z2X3U5WWs3V1RJV29sTGJrVm5iZHluRTJsZ1FxSnlfN0hVeFFXaldtaVpKWjNNRi1PWGdORFlPX3Q2MjYtWkxmd0pO0gG-AUFVX3lxTE53WW9TRkNYUzBsVnp2aFY0WHZoQl84emhLZlRBZHJqMkIzOE5hREMtdkRuVThYNmxfTGNxSXk3dFZfTTlFblJ4Y0lPb19fbExxbVFoQV9jWUxTQzhobjlORnM0UWtDY1BVdU8zcVdQbGs0WjRlLVpSTDdBSllIbFpUbEJlZVNGNGtCWU8xb2s0SUZ1TmwwOUhRbmplVGd4ZHQ5eDNjUEh6bkRFV3lJNzFja19JRGRJcHllQVNRQ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRmlKTnBkbG5iOGs1Z250OVgxUkxPWWFvcnVPUE01dXpEVmpKWDN6VXFDcEdQWDNGWWhtSzJZLXhMdEpaLVhLWmZmem9CQ0ZnS1RUV2dWV05iUm90N2o2dDBjUjhrUFFtajZvRXhRUW10Y1BRX1Z2X3U5WWs3V1RJV29sTGJrVm5iZHluRTJsZ1FxSnlfN0hVeFFXaldtaVpKWjNNRi1PWGdORFlPX3Q2MjYtWkxmd0pO0gG-AUFVX3lxTE53WW9TRkNYUzBsVnp2aFY0WHZoQl84emhLZlRBZHJqMkIzOE5hREMtdkRuVThYNmxfTGNxSXk3dFZfTTlFblJ4Y0lPb19fbExxbVFoQV9jWUxTQzhobjlORnM0UWtDY1BVdU8zcVdQbGs0WjRlLVpSTDdBSllIbFpUbEJlZVNGNGtCWU8xb2s0SUZ1TmwwOUhRbmplVGd4ZHQ5eDNjUEh6bkRFV3lJNzFja19JRGRJcHllQVNRQ0E",
-        "image": null,
-        "timestamp": 1775567142.0
     }
 ]
