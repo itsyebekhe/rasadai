@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "گزارش تورم رو به جهش ترامپ؛ پیوند مستقیم به تنش‌های ایران",
+        "title_en": "Trump faces surging inflation report, fueled by Iran conflict",
+        "summary": [
+            "واشنگتن‌پست از «گزارش تورم رو به جهش» می‌گوید که به‌عنوان پیامدِ تنش‌های مرتبط با درگیری ایران مطرح شده است؛ یعنی هزینه‌های اقتصادی به‌صورت مستقیم تحت اثر تشدید بحران قرار می‌گیرد.",
+            "این گزارش نشان می‌دهد بازارها و اقتصاد آمریکا از ناحیه ریسک ژئوپلیتیک پیرامون ایران، فشار قیمتی می‌گیرند؛ یعنی سنجش‌های کلان اقتصادی به میدان جنگ مالی و امنیتی گره خورده است.",
+            "در سطح سیاست‌گذاری، چنین وضعیتی معمولاً محدودکننده است: رشد هزینه‌ها می‌تواند دست ترامپ را برای مدیریت افکار عمومی و کنترل نارضایتی اقتصادی تنگ‌تر کند، چون تورم به سرعت به معیشت ضربه می‌زند."
+        ],
+        "impact": "افزایش تورمِ ناشی از تنش با ایران می‌تواند هم ثبات سیاسی داخل آمریکا را تحت فشار بگذارد و هم هزینه‌های اقتصادی را برای مدیریت بحران بالا ببرد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/money/markets/inflation-probably-picked-up-in-march-fueled-by-iran-conflict/ar-AA20zfp4",
+        "clean_url": "https://www.msn.com/en-us/money/markets/inflation-probably-picked-up-in-march-fueled-by-iran-conflict/ar-AA20zfp4",
+        "image": null,
+        "timestamp": 1775865733.0
+    },
+    {
         "title_fa": "واشنگتن پست: پایان جنگ میان آمریکا و ایران به چه چیزی وابسته است؟",
         "title_en": "What will it take for U.S. and Iran to end war? Here’s what we know.",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/what-will-it-take-for-us-and-iran-to-end-war-here-s-what-we-know/ar-AA20BNiL",
         "image": null,
         "timestamp": 1775861645.0
+    },
+    {
+        "title_fa": "دیدگاه‌های اروپایی درباره تنش آمریکا و ایران",
+        "title_en": "European Perspectives on the U.S.-Iran Conflict",
+        "summary": [
+            "گزارش CNAS به‌طور کلی بر «چشم‌اندازهای اروپا» نسبت به مناقشه آمریکا و ایران تمرکز دارد و چارچوب فکری اروپا درباره نحوه مدیریت این اختلاف را برجسته می‌کند.",
+            "متن، برخلاف تیتر، جزئیات قابل‌اتکا از اقدام مشخص اروپایی‌ها (تحریم جدید، سازوکار مالی، یا توافق عملی) ارائه نمی‌دهد و بیشتر در سطح تحلیل/مواضع باقی می‌ماند.",
+            "چون اطلاعات مشخصی از ضربه‌های امنیتی، فشار اقتصادی جدید، یا تحرکات میدانی در خود متن نیامده، نمی‌توان نتیجه‌گیری عملی درباره کاهش یا افزایش توان رژیم از این گزارش استخراج کرد."
+        ],
+        "impact": "این یک جمع‌بندی موضعی است و بدون داده‌های اجرایی، اثر مستقیم و قابل سنجش بر توازن قدرت یا وضعیت اقتصادی/امنیتی ایران از متن حاضر قابل استنتاج نیست.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Center for a New American Security | CNAS",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmN2dkw5NjF5SlctSW53TXNScDNVNHRtYUppSXFoVks1NHZNR09UZEo3SHVYMFNLMVl2bjVEZFVqbzRJal9fMEZuVGN2ODdRLVlBaUxZcmZxY0VENTk4eHJVWWkxSm5VOG8zUUV0RkV6UERhN1hqaFgyRzRPWmVvTGt6SFp5WGNLdXFJcEl0MjVKdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdmN2dkw5NjF5SlctSW53TXNScDNVNHRtYUppSXFoVks1NHZNR09UZEo3SHVYMFNLMVl2bjVEZFVqbzRJal9fMEZuVGN2ODdRLVlBaUxZcmZxY0VENTk4eHJVWWkxSm5VOG8zUUV0RkV6UERhN1hqaFgyRzRPWmVvTGt6SFp5WGNLdXFJcEl0MjVKdw",
+        "image": null,
+        "timestamp": 1775861017.0
     },
     {
         "title_fa": "ایران در مذاکرات پیش‌رو دست برتر دارد (بر اساس گزارش «The Atlantic»)",
@@ -70,6 +106,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUt1RkRGLXk1NVEtX2RvSFF4VkItNDktMlRra1hxc3FDOXhyUUl4UlplMDVHUENYOGRjUTdSRHloRW56WFlHRzRBOFRZNGFFNUp2eWF6UVZoYlRZeE1QdmZxV2ZaMWx0Wm84OEF5TjljZEZtUmkwQ2kzcVJSY0tkVVRKSV9GZi1VZGxBVGdoSllGQjRUQmpualRCWGRSYWxaR1R2YUg4MFVvSHPSAbABQVVfeXFMT0llNnAwTUhXUWZFX2RtYUhfWjctNnJpRHg2ZHV2dHItR2QxQmYyOEM1LV9mVml6RlJQdy1fM0cyM0ZCT0MyRjEzMXRXSGdBSk1Ud2hXYnhZYkp1aElRaXc3c201YnJCTGQzLXdjX2xac2FvTGJvNGJzYTJqZUJJSGIzU2drV0c3blE0S2JCaGVHTEZpZXlMRzFjbXBEdmVxRVVsZkhWTUVabjJqMTVmRG8",
         "image": null,
         "timestamp": 1775855451.0
+    },
+    {
+        "title_fa": "تحلیل جنگ اسرائیل علیه لبنان (به روایت Time)",
+        "title_en": "Israel's War Against Lebanon, Explained",
+        "summary": [
+            "مطلب Time با عنوان «جنگ اسرائیل علیه لبنان، توضیح داده شد» صرفاً بر تشریح ابعاد جنگ تمرکز دارد و در داده‌ای که ارائه شده، جزئیات مشخصی از اهداف، زمان‌بندی عملیات، یا پیامدهای قابل راستی‌آزمایی برای بازیگران منطقه‌ای ارائه نمی‌دهد.",
+            "در متن ارسالی هیچ اشاره‌ای به وضعیت تحریم‌ها، فشار خارجی علیه ایران، یا سازوکارهای اقتصادی/سیاسی مؤثر بر رژیم دیده نمی‌شود؛ بنابراین نمی‌توان درباره اثر مستقیم این جنگ بر ثبات داخلی نتیجه‌گیری کرد.",
+            "همچنین در اطلاعات موجود، هیچ گزارش مشخصی از نقش یا واکنش نیروهای نیابتی، اعتراضات داخلی، یا دخالت بازیگران خارجی (روسیه/چین/کره شمالی) نقل نشده است؛ تحلیل بدون افزودن داده غیرقابل انجام است."
+        ],
+        "impact": "با توجه به کمبود محتوای قابل اتکا در داده ارسالی، فقط می‌توان گفت این گزارش در سطح «توضیح جنگ» است و اثرات راهبردی مستقیم بر ایران قابل استخراج نیست.",
+        "tag": "لبنان",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Time Magazine",
+        "url": "https://www.msn.com/en-us/news/world/israels-war-against-lebanon-explained/ar-AA20CuPc",
+        "clean_url": "https://www.msn.com/en-us/news/world/israels-war-against-lebanon-explained/ar-AA20CuPc",
+        "image": null,
+        "timestamp": 1775854934.0
     },
     {
         "title_fa": "ترامپ: در صورت عدم پایبندی ایران به مذاکرات، آماده‌سازی نظامی با «بارگیری کشتی‌ها»",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/donald-trump-claims-iran-seeks-101836922.html",
         "image": null,
         "timestamp": 1775509657.0
-    },
-    {
-        "title_fa": "حملات ایران نگرانی از نشت مواد شیمیایی در جنوب اسرائیل را برانگیخت",
-        "title_en": "Iranian strikes spark fears of chemical leakage in southern Israel",
-        "summary": [
-            "منبع: Anadolu Ajansı — حملات هوایی/موشکی منتسب به ایران باعث ابراز نگرانی از احتمال نشت مواد شیمیایی در مناطق جنوبی اسرائیل شده است.",
-            "خطر فوری محیطی و نظامی: تهدید نشت مواد شیمیایی می‌تواند تلفات غیرنظامی و اختلال زیست‌محیطی جدی ایجاد کند و احتمال تشدید واکنش‌های نظامی منطقه‌ای را بالا ببرد.",
-            "ابعاد سیاسی-داخلی و فشار خارجی: اگرچه گزارش به تحریم‌ها اشاره‌ای نکرده است، چنین عملیات‌هایی را می‌توان در چارچوب فشار خارجی و تمایل رژیم برای بازتوزیع توجهات از مشکلات داخلی و ناکارآمدی مدیریتی دید."
-        ],
-        "impact": "این رخداد در کوتاه‌مدت تنش منطقه‌ای را تشدید و خطر آلودگی شیمیایی و واکنش تلافی‌جویانه را افزایش می‌دهد، در حالی که نشانگر استفاده رژیم از اقدامات نظامی برای کاستن از پیامدهای بحران‌های داخلی است.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVFSMmZjdzB0ZDQ4RnZNWTFSOFUzX3hlUXBESjJLcVFHc3h0NGYzLXhIOHVVM21BVk5nM0o2Zm9QaFlRTGhQdVFzdzJ6akxvMy15WkxydHNKZUNlUUNvQTBtSW5zMF92Y1lSUTdOdlI5WklGS1daOS1vNzNlb3phLXp4TThjYzhEaUQwWFprTlI3WkxkZTJjVlZjMG1PZ25HVmZ3QUR1dE5MQzZ2VjJvcC03V1ZLcmlTYkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVFSMmZjdzB0ZDQ4RnZNWTFSOFUzX3hlUXBESjJLcVFHc3h0NGYzLXhIOHVVM21BVk5nM0o2Zm9QaFlRTGhQdVFzdzJ6akxvMy15WkxydHNKZUNlUUNvQTBtSW5zMF92Y1lSUTdOdlI5WklGS1daOS1vNzNlb3phLXp4TThjYzhEaUQwWFprTlI3WkxkZTJjVlZjMG1PZ25HVmZ3QUR1dE5MQzZ2VjJvcC03V1ZLcmlTYkE",
-        "image": null,
-        "timestamp": 1775507568.0
-    },
-    {
-        "title_fa": "ترامپ: آمریکا برنامه‌ای برای نابودی پل‌ها و نیروگاه‌ها دارد",
-        "title_en": "Live updates: Trump says US has plan to destroy bridges, power plants Tuesday",
-        "summary": [
-            "دونالد ترامپ اعلام کرده است که ایالات متحده برنامه‌ای برای نابودی پل‌ها و نیروگاه‌ها دارد؛ این ادعا سیگنالی از گرایش به هدف‌گیری زیرساخت‌های حیاتی است که در صورت اجرا می‌تواند کارکرد حکومت هدف را تضعیف کند اما به قیمت افزایش تلفات غیرنظامی و مشروعیت‌بخشی به واکنش‌های تلافی‌جویانه خواهد بود.",
-            "چنین اظهارنظری می‌تواند فشار دیپلماتیک و هنجاری بر فضای بین‌المللی شدت ببخشد و محاسبات امنیتی بازیگران منطقه‌ای و دولتی را تغییر دهد؛ احتمال افزایش اقدامات متقابل و تشدید بی‌ثباتی وجود دارد، هرچند اجرای عملیاتی آن بستگی به تصمیمات بعدی دارد.",
-            "در عرصه داخلی، لحن تهاجمی از سوی یک بازیگر مؤثر می‌تواند به قطبی‌شدن سیاسی، تضعیف اعتماد عمومی به مدیریت بحران و ریسک ناپایداری اقتصادی در اثر برآوردهای امنیتی و بازارها بینجامد."
-        ],
-        "impact": "این اظهارنظر نشانه جهش به سمت استفاده از ضربه‌زنی به زیرساخت‌هاست که خطر تشدید نظامی و بی‌ثباتی سیاسی را به‌طور قابل‌توجهی افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "NewsNation",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0tmREtDaTVCNFFDWGFCRjlORF92eW56cUs3Vjh2Q3Z5V2x1QUZqYnpha2RuYldjSWpNcnJvbVQ5T200TDlDQXVqREg3ZGtPVHRKVExCczZDWFRNVnlnOGJiOUd2Y1cyWHEyME1WTjFXckdkX09VMEEtN0FvT3lhWEhXWDZuZGRSRFM5UHRnazRyUy1VZlFYajJ4NkwzTzNL0gGmAUFVX3lxTE91a1pQTFBLMDVRMlFwbnlabFhlYjVvUG5QTHFlNGRkZnZPY0ZpSDhCZFFEa3BjY0p5UkU3eVJGWmY0UUNVRjBzT3pBbDVCN2lsOFVhNU5kRjItNkdLbFhpTVI4YTdfZU8tQ1RCc3FFc2Zxb0VaQ0ppcEFoTUotRkdHZXNTeUxpZGkzTlQxanppZUpIS3Q5cTExNFNYdUVRRlRsaFJlQlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOS0tmREtDaTVCNFFDWGFCRjlORF92eW56cUs3Vjh2Q3Z5V2x1QUZqYnpha2RuYldjSWpNcnJvbVQ5T200TDlDQXVqREg3ZGtPVHRKVExCczZDWFRNVnlnOGJiOUd2Y1cyWHEyME1WTjFXckdkX09VMEEtN0FvT3lhWEhXWDZuZGRSRFM5UHRnazRyUy1VZlFYajJ4NkwzTzNL0gGmAUFVX3lxTE91a1pQTFBLMDVRMlFwbnlabFhlYjVvUG5QTHFlNGRkZnZPY0ZpSDhCZFFEa3BjY0p5UkU3eVJGWmY0UUNVRjBzT3pBbDVCN2lsOFVhNU5kRjItNkdLbFhpTVI4YTdfZU8tQ1RCc3FFc2Zxb0VaQ0ppcEFoTUotRkdHZXNTeUxpZGkzTlQxanppZUpIS3Q5cTExNFNYdUVRRlRsaFJlQlE",
-        "image": null,
-        "timestamp": 1775506685.0
-    },
-    {
-        "title_fa": "ترامپ: ایران در «یک شب» گرفته می‌شود؛ جنگ وارد هفته ششم شد",
-        "title_en": "Trump says Iran could be ‘taken out in one night’: What we know about the war, now in its 6th week",
-        "summary": [
-            "تهدیدهای آمریکا: ترامپ اعلام کرد که نیروهای آمریکا برنامه‌ای برای نابودی پل‌ها و نیروگاه‌ها تا نیمه‌شب دارند و گفت ایران می‌تواند «در یک شب» از بین برود — هدف‌گیری زیرساخت‌های حیاتی می‌تواند مصداق جنایت جنگی باشد و سابقه تعیین ضرب‌الاجل برای بازشدن تنگه هرمز ادامه دارد.",
-            "عملیات و دیپلماسی هم‌زمان: اسرائیل فهرست اهداف انرژی و زیرساختی را به‌روزرسانی کرده و حمله‌ای به یک پتروشیمی در جنوب ایران انجام شد؛ هم‌زمان واشنگتن می‌گوید تهران در مذاکرات «شرکت‌کننده فعال» است، اما تهران آتش‌بس موقت را رد و پاسخ ۱۰ بندی با درخواست پایان خصومت‌ها، پروتکل عبور امن از هرمز، بازسازی و رفع تحریم‌ها ارائه کرد.",
-            "فشار اقتصادی و ریسک داخلی: بحران بشر‌دوستانه و فشار بر اقتصاد جهانی گزارش شده — ترکیب حملات، تهدید به هدف‌گیری زیرساخت‌ها و ادامه تحریم‌ها ساختار اقتصادی را ضعیف می‌کند و توان مدیریتی دولت را کاهش می‌دهد، که پتانسیل افزایش نارضایتی اجتماعی و بی‌ثباتی را بالا می‌برد."
-        ],
-        "impact": "اثر استراتژیک: تشدید فشارهای نظامی و اقتصادی و بن‌بست دیپلماتیک، ساختار اقتصادی و مشروعیت رژیم را تضعیف کرده و ریسک گسترش درگیری و بی‌ثباتی داخلی را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.75,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/trump-threatens-iran-deadline-know-015722029.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-threatens-iran-deadline-know-015722029.html",
-        "image": "http://www.bing.com/th?id=ONUT.MOTYMdroRLvWnZiK8L7onQ&pid=News",
-        "timestamp": 1775506320.0
     }
 ]
