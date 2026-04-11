@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پیشنهاد برای پایان درگیری و بازگشایی تنگه هرمز؛ ایران و آمریکا گزارش‌ها را دریافت کردند",
+        "title_en": "Iran, U.S. receive proposal to end conflict, reopen Strait of Hormuz - reports",
+        "summary": [
+            "بنابر گزارش Investing.com، ایران و آمریکا «پیشنهادی» برای پایان درگیری دریافت کرده‌اند که محور آن بازگشایی تنگه هرمز است.",
+            "در صورت جدی شدن این سناریو، ریسک اختلال در مسیرهای انرژی و تجارت منطقه‌ای کاهش می‌یابد و همین موضوع مستقیماً بر انتظار بازار از آینده هزینه‌های انرژی اثر می‌گذارد.",
+            "در چارچوب فشار خارجی، هرگونه مکانیسم توافق/توقف تنش می‌تواند از شدت فشارهای اقتصادی بر رژیم بکاهد، اما خودِ «پیشنهاد» در متن به‌تنهایی نتیجه نهایی را ثابت نمی‌کند."
+        ],
+        "impact": "بازگشایی تنگه هرمز در صورت تبدیل پیشنهاد به توافق، از نظر اقتصادی می‌تواند به کاهش ریسک و نوسان بازار منجر شود؛ اما متن فعلاً فقط «دریافت پیشنهاد» را گزارش کرده است.",
+        "tag": "تنش‌زدایی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Investing.com",
+        "url": "https://www.msn.com/en-us/news/world/us-sent-iran-a-15-point-plan-to-end-the-war-new-reports-allege/ar-AA1Zl1rp",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-sent-iran-a-15-point-plan-to-end-the-war-new-reports-allege/ar-AA1Zl1rp",
+        "image": null,
+        "timestamp": 1775895209.0
+    },
+    {
         "title_fa": "نقاط اصلی گفت‌وگو در مذاکرات آمریکا و ایران در پاکستان (رویترز)",
         "title_en": "What are the main talking points at the US-Iran negotiations in Pakistan?",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.usnews.com/news/world/articles/2026-04-11/factbox-what-are-the-main-talking-points-at-the-us-iran-negotiations-in-pakistan",
         "image": null,
         "timestamp": 1775894987.0
+    },
+    {
+        "title_fa": "بحران «سوئز‌سازی» ترامپ: عقب‌نشینی شتاب‌زده در ماجرای ایران به‌جای توافق روشن",
+        "title_en": "Is Iran Trump’s Suez crisis, or just a passing thunderstorm?",
+        "summary": [
+            "این گزارش می‌گوید ترامپ برای ایران وعده نابودی «غیرقابل بازگشت» داده بود، اما در عمل نتوانست تهدید را به نتیجه اجرایی برساند و ناچار شد تنها با فاصله کوتاه، عقب‌نشینی کند و آن را در قالبی قابل‌توجیه جمع‌وجور کند.",
+            "طبق گزارش، عقب‌نشینی به «ماموریت نجات» با میانجی‌گری پاکستان و در کنار آن چین انجام شد؛ سپس هم در روایت آمریکا و هم در روایت ایران، اختلاف ایجاد شد که دقیقاً چه چیزی و با چه مفادی مبنای آتش‌بس دو هفته‌ای بوده است.",
+            "در پی هرج‌ومرج شبانه، واشینگتن از «برداشت نادرست مشروع» برای پوشش لبنان سخن گفت و همچنین ادعا کرد پذیرش ترامپ از «چارچوب گفت‌وگوها» صرفاً اشاره به برنامه‌ای ملایم‌تر و متفاوت بوده؛ در مقابل، سخنگوی کاخ سفید «برنامه ۱۰ امتیازی» منتشرشده توسط ایران را «خواستۀ تهران» دانست که ترامپ کنار گذاشته است و تا پنجشنبه «هیچ توافق» مشخصی بر سر متن توافق شکل نگرفته بود."
+        ],
+        "impact": "این نوسان رفتاری و ابهام در متن آتش‌بس نشان می‌دهد راهبرد فشار حداکثری بدون نتیجه، صرفاً به بحران روایت و شکنندگی توافق‌های کوتاه‌مدت تبدیل شده است.",
+        "tag": "ایران",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/apr/11/iran-trump-suez-crisis-strait-of-hormuz",
+        "clean_url": "https://www.theguardian.com/world/2026/apr/11/iran-trump-suez-crisis-strait-of-hormuz",
+        "image": null,
+        "timestamp": 1775894400.0
     },
     {
         "title_fa": "این جنگ، جنگ اسرائیل است؛ اما پیامدهایش مستقیماً به تهران هم برمی‌گردد",
@@ -106,6 +142,24 @@
         "clean_url": "https://news24online.com/world/what-is-in-irans-10-point-ceasefire-plan-trump-says-tehrans-peace-plan-workable/797150",
         "image": "http://www.bing.com/th?id=ONUT.rLxjII0CZc2eg0cL8dVdbg&pid=News",
         "timestamp": 1775868540.0
+    },
+    {
+        "title_fa": "اظهارات موجتبی خامنه‌ای؛ همزمان با تلاش دیپلماتیک و شکنندگی آتش‌بس",
+        "title_en": "US Iran War Live Updates: Iranian delegation arrives in Pakistan for talks with US, Vance en route",
+        "summary": [
+            "موجتبی خامنه‌ای در پیام پخش‌شده از تلویزیون دولتی اعلام کرد تهران جنگ با آمریکا یا اسرائیل را دنبال نمی‌کند، اما «حقوق مشروع» خود را هم واگذار نخواهد کرد.",
+            "این موضع‌گیری در چارچوب گزارش «به‌روزرسانی‌های زنده جنگ ایران و آمریکا» و هم‌زمان با ورود یک هیئت ایرانی به پاکستان برای گفت‌وگو با آمریکا مطرح شده است.",
+            "هم‌زمان با این روند، گزارش می‌گوید یک آتش‌بس شکننده برای دو هفته در جریان است و سخنان مقام ایرانی در همین فضای متزلزل بیان شده است."
+        ],
+        "impact": "ترکیبِ پیام نفی‌جنگ با تأکید بر حقوقِ غیرقابل‌صرف و هم‌زمانی با آتش‌بس، نشان می‌دهد تهران تلاش دارد فشارها را با کانال‌های مذاکره مدیریت کند بدون عقب‌نشینی از مطالباتش.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/newsblogs/us-iran-war-live-updates-strait-of-hormuz-israel-iran-news-trump-netanyahu-khamenei-middle-east-war-crude-oil/liveblog/130156487.cms",
+        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/us-iran-war-live-updates-strait-of-hormuz-israel-iran-news-trump-netanyahu-khamenei-middle-east-war-crude-oil/liveblog/130156487.cms",
+        "image": "https://economictimes.indiatimes.com/thumb/msid-130156487,width-1200,height-900,resizemode-4,imglength-132142/news/newsblogs/us-iran-war-live-updates-strait-of-hormuz-israel-iran-news-trump-netanyahu-khamenei-middle-east-war-crude-oil.jpg",
+        "timestamp": 1775868240.0
     },
     {
         "title_fa": "ورود هیئت ۷۱ نفره ایران به اسلام‌آباد برای گفت‌وگوهای جنگ آمریکا-ایران؛ انتظار «عدم گفت‌وگوی مستقیم» با تیم ونس",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMFV0ZG4zUnc0aVNCc2I1Q01mWGVpSUF1aUVUUGZWcTdjcVRMQzNuOGFYX1ZxNndtLTA5MWYzZUFacnppd1NHU1lGc192SmxNMDd5U2U0aXdGRURfdlcwcTJ2SzZGdmlldDl4MG5LYmdVNlpaNmkxbGN6ZWUtaTF3U3lQMzBPRWd2SjZwckVsR2xPYkxRNUl1ZXJyTlY5TmV6aW41UUhDSHVjdnlobE5J",
         "image": null,
         "timestamp": 1775547888.0
-    },
-    {
-        "title_fa": "گزارش زنده جنگ ایران: مهلت ۱۰ ساعته ترامپ، انفجارها در جزیره خارک گزارش شد",
-        "title_en": "Iran War Live: Trump Deadline In 10 Hours, Kharg Island Explosions Reported",
-        "summary": [
-            "رئیس‌جمهور Donald Trump مهلت ۱۰ ساعته اعلام کرد و با تهدید به «پاک کردن یک تمدن» هشدار داد؛ هم‌زمان ایالات متحده اهداف نظامی را در جزیره خارک هدف قرار داد و انفجارها گزارش شد.",
-            "جزیره خارک، به‌عنوان هاب حیاتی صادرات نفت ایران، هدف حملات گزارش‌شده قرار گرفت که می‌تواند درآمدهای نفتی و توان مالی رژیم را ضربه‌پذیرتر کند.",
-            "این حملات و تهدیدهای علنی ریسک تشدید سریع نظامی را بالا برده و فشار خارجی بر ساختار سیاسی و اقتصادی حکومت را افزایش می‌دهد."
-        ],
-        "impact": "حمله به خارک و تهدید ترامپ همزمان، ظرفیت مالی و مشروعیت رژیم را تضعیف و احتمال تسریع درگیری نظامی و فروپاشی اقتصادی را افزایش می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/iran-war-updated-trump-deadline-11791307",
-        "clean_url": "https://www.newsweek.com/iran-war-updated-trump-deadline-11791307",
-        "image": "http://www.bing.com/th?id=ONUT.LPHcphTY9Yt8CWGBGrIiNg&pid=News",
-        "timestamp": 1775547840.0
-    },
-    {
-        "title_fa": "هشدار اسرائیل درباره خطوط ریلی ایران پیش از پایان ضرب‌الاجل ترامپ",
-        "title_en": "Israel threatens Iran’s trains, railways before Trump’s deadline expires",
-        "summary": [
-            "نیروهای مسلح اسرائیل به مردم ایران هشدار داده‌اند از قطارها و خطوط ریلی دوری کنند، با اشاره به احتمال حملات به زیرساخت‌های غیرنظامی پیش از پایان ضرب‌الاجل مربوط به باز شدن تنگه هرمز که به ترامپ نسبت داده شده است؛ در همین حال پل سعودی-بحرین به‌صورت نامحدود به‌خاطر نگرانی از حملات احتمالی بسته شده است.",
-            "شورای امنیت سازمان ملل قرار است درباره متنی تَضعیف‌شده برای بازگشایی تنگه هرمز رأی‌گیری کند و روسیه و چین ممکن است این متن را وتو کنند؛ حضور این کشورها در روند دیپلماسی عملاً نقش تسهیل‌کننده بقا برای رژیم ایران را تقویت می‌کند.",
-            "افزایش تهدیدات نظامی و فشار خارجی ساختاری، ریسک تضعیف بیشتر توان اقتصادی و سیاسی حکومت را بالا می‌برد: اختلال در خطوط حمل‌ونقل و تنگه هرمز هزینه‌های تجارت و امنیت داخلی را افزایش می‌دهد و در غیاب شواهد مستقیم از اعتراضات گسترده، احتمال تشدید نارضایتی اجتماعی به‌واسطه فشار اقتصادی و خطرات امنیتی رشد می‌کند."
-        ],
-        "impact": "تهدید به هدف قرار دادن زیرساخت‌های ریلی خطر تشدید درگیری نظامی، اختلال در تجارت منطقه‌ای و افزایش هزینه‌های سیاسی-اقتصادی برای حکومت ایران را به‌طور ملموسی بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/israel-threatens-iran-trains-railways-073956755.html",
-        "clean_url": "https://www.yahoo.com/news/articles/israel-threatens-iran-trains-railways-073956755.html",
-        "image": null,
-        "timestamp": 1775547675.0
-    },
-    {
-        "title_fa": "افزایش نگرانی‌ها درباره استفاده احتمالی دونالد ترامپ از سلاح‌های هسته‌ای علیه ایران",
-        "title_en": "Fears Donald Trump will use nuclear weapons against Iran grow online",
-        "summary": [
-            "کاربران و تحلیلگران در شبکه‌های اجتماعی از طیف‌های مختلف سیاسی احتمال حمله هسته‌ای ترامپ به ایران را مطرح کرده‌اند.",
-            "این گفتمان عمومی گزارش‌شده ترس از یک اقدام نظامی فاجعه‌بار را تقویت کرده و فضای خبری و ادراک ریسک را مسموم می‌کند.",
-            "تشدید چنین روایت‌هایی می‌تواند به تشدید تنش‌های دیپلماتیک و فشار بر نهادهای تصمیم‌گیر در تهران و واشینگتن منجر شود."
-        ],
-        "impact": "ترس از استفاده هسته‌ای، احتمال افزایش فشارهای بین‌المللی و بی‌ثباتی منطقه‌ای را بالا می‌برد و حکومت ایران را در معرض ریسک امنیتی و اقتصادی شدیدتری قرار می‌دهد.",
-        "tag": "اتمی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/news/world/fears-donald-trump-will-use-nuclear-weapons-against-iran-grow-online/ar-AA20lrd3",
-        "clean_url": "https://www.msn.com/en-us/news/world/fears-donald-trump-will-use-nuclear-weapons-against-iran-grow-online/ar-AA20lrd3",
-        "image": "http://www.bing.com/th?id=ONUT.jZgenuI1VTd28MhKUM0hxQ&pid=News",
-        "timestamp": 1775547614.0
     }
 ]
