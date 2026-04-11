@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آغاز گفت‌وگوهای آمریکا و ایران در پاکستان با مطالبات تهران درباره هرمز و آتش‌بس لبنان",
+        "title_en": "US-Iran talks begin in Pakistan; Tehran demands control of Hormuz, truce in Lebanon",
+        "summary": [
+            "طبق گزارش «تایمز اسرائیل»، مذاکرات آمریکا و ایران در پاکستان آغاز شده و محورهایی مانند «خواست تهران برای کنترل هرمز» در دستور طرح‌ها مطرح است؛ موضوعی که مستقیماً با توان دریایی و اهرم اقتصادی ایران گره خورده است.",
+            "تهران همچنین «آتش‌بس در لبنان» را مطالبه کرده؛ یعنی تلاش برای تغییر موازنه میدانی از مسیر مذاکره و مدیریت هزینه‌های درگیری به جای عقب‌نشینی علنی از اهرم‌های منطقه‌ای.",
+            "این وضعیت در عمل نشان می‌دهد رژیم برای تثبیت قدرت چانه‌زنی خود به دو مطالبه هم‌زمان تکیه می‌کند: کنترل یک گلوگاه حیاتی (هرمز) و محدودسازی سطح درگیری در جبهه لبنان؛ هم‌زمانی این دو نشان‌دهنده محاسبه برای مهار فشارهای خارجی است."
+        ],
+        "impact": "ورود این مطالبات به کانال مذاکره می‌تواند اهرم‌های فشار-مقابله را تیزتر کند و اگر به توافق نرسد، احتمال تشدید رقابت دریایی و فرسایش سیاسی بالا می‌رود.",
+        "tag": "مذاکرات",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/world/us-iran-talks-begin-in-pakistan-tehran-demands-control-of-hormuz-truce-in-lebanon/ar-AA20F8SF",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-talks-begin-in-pakistan-tehran-demands-control-of-hormuz-truce-in-lebanon/ar-AA20F8SF",
+        "image": null,
+        "timestamp": 1775918542.0
+    },
+    {
         "title_fa": "آغاز مذاکرات مستقیم آمریکا و ایران در پاکستان برای پایان جنگ شش‌هفته‌ای",
         "title_en": "US-Iran talks on ending war begin in Pakistan",
         "summary": [
@@ -88,6 +106,24 @@
         "clean_url": "https://www.dawn.com/news/1990170",
         "image": "https://i.dawn.com/large/2026/04/09135749783ebe2.webp",
         "timestamp": 1775897940.0
+    },
+    {
+        "title_fa": "تاریخچه مذاکرات آمریکا و ایران؛ از «تسکین تحریم» تا «گفت‌وگوهای هسته‌ای»",
+        "title_en": "U.S.-Iran Talks Timeline: Key Moments Between Two Adversaries",
+        "summary": [
+            "این گزارش، روند مذاکرات واشنگتن و تهران را به‌صورت خط زمانی مرور می‌کند و محورهای تکرارشونده را نشان می‌دهد: تلاش برای پیوند دادن امتیازهای اقتصادی/تحریمی با بحث‌های هسته‌ای.",
+            "چارچوب اصلی گفت‌وگوها طی دهه‌ها حول همین مبادله شکل گرفته است: کاهش فشار خارجی در ازای محدودسازی یا تعاملات مرتبط با برنامه هسته‌ای.",
+            "به‌جای تمرکز بر یک رویداد مشخص، متن ماهیت کلی روند را برجسته می‌کند: گفت‌وگوها بارها آغاز شده‌اند، اما به دلیل اختلافات راهبردی میان دو طرف، نتایج ناپایدار یا مرحله‌ای بوده است."
+        ],
+        "impact": "این مرور تاریخی نشان می‌دهد که اهرم تحریم و موضوع هسته‌ای به‌عنوان ابزار چانه‌زنی دائمی عمل کرده‌اند و همین ساختار، هم فشار خارجی و هم انگیزه‌های داخلی را برای ادامه چرخه مذاکره تقویت کرده است.",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/11/world/middleeast/us-iran-talks-timeline-key-moments.html",
+        "clean_url": "https://www.nytimes.com/2026/04/11/world/middleeast/us-iran-talks-timeline-key-moments.html",
+        "image": null,
+        "timestamp": 1775896020.0
     },
     {
         "title_fa": "پیشنهاد برای پایان درگیری و بازگشایی تنگه هرمز؛ ایران و آمریکا گزارش‌ها را دریافت کردند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://nymag.com/intelligencer/article/iran-war-trump-deadline-infrastructure-threats-live-updates.html",
         "image": "http://www.bing.com/th?id=ONUT.Yp0VkGj6EFqn10O_yBIcRw&pid=News",
         "timestamp": 1775560140.0
-    },
-    {
-        "title_fa": "هزینه‌های جنگ ایران: افزایش قیمت سوخت و فشار بر اقتصاد خانوار در بریتانیا",
-        "title_en": "Energy bills, mortgages and more: How the Iran war affects your money",
-        "summary": [
-            "قیمت بنزین در بریتانیا به‌طور متوسط به 157.02p در هر لیتر رسیده که 24p بالاتر از شروع درگیری گزارش شده و دیزل به 189.42p رسیده که 47p افزایش داشته است.",
-            "پر کردن مخزن 55 لیتری یک خودروی خانوادگی از ابتدای جنگ به‌طور میانگین برای بنزین £13 و برای دیزل £26 گران‌تر شده؛ فشار مستقیم بر بودجه خانوارها و هزینه حمل‌ونقل.",
-            "تداوم درگیری و اختلال در زنجیره تأمین می‌تواند فشارهای خارجی و اقتصادی را تشدید کند، که هم به افزایش هزینه‌ها در کشورهای واردکننده انرژی منجر می‌شود و هم آسیب‌پذیری سیاسی–اقتصادی رژیم ایران را افزایش می‌دهد."
-        ],
-        "impact": "افزایش قیمت سوخت و بی‌ثباتی زنجیره تأمین هزینه زندگی در بریتانیا را بالا برده و در صورت تداوم، فشارهای خارجی و داخلی را بر رژیم ایران تشدید خواهد کرد.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c2e4ygndjpwo",
-        "clean_url": "https://www.bbc.co.uk/news/articles/c2e4ygndjpwo",
-        "image": null,
-        "timestamp": 1775558614.0
-    },
-    {
-        "title_fa": "با نزدیک‌شدن ضرب‌الاجل ترامپ، رهبران ایران در حالت اعتراض واکنش نشان دادند",
-        "title_en": "As Trump’s deadline approaches, Iranian leaders respond in defiance",
-        "summary": [
-            "ضرب‌الاجل اعلام‌شده از سوی ترامپ علامت افزایش فشار دیپلماتیک و تحریمی است؛ گزارش اشاره می‌کند که رهبران ایران واکنشی قاطع و معترضانه نشان داده‌اند.",
-            "افزایش فشار خارجی می‌تواند فضای اقتصادی و بودجه‌ای رژیم را تنگ‌تر کند و در بلندمدت ظرفیت حکومت برای مدیریت شوک‌های اقتصادی را تضعیف سازد.",
-            "گزارش اشاره‌ای به نقش روسیه، چین یا کره شمالی ندارد؛ هرگونه تحلیل درباره مداخله یا کمک خارجی باید بر اساس شواهد مستقلی تایید شود؛ همچنین گزارش به‌طور مستقیم به اعتراضات داخلی اشاره نمی‌کند، اما واکنش تند رهبران معمولاً بخشی از تلاش برای مهار یا هدایت افکار عمومی داخلی است."
-        ],
-        "impact": "نتیجهٔ فوری این تنش دیپلماتیک احتمالاً فشارهای اقتصادی بیشتر بر رژیم و افزایش ریسک تضعیف مشروعیت داخلی است که می‌تواند مسیر بی‌ثباتی را هموارتر کند.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.7,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ySUk5d1J1VHRkTWxDUVBhNDZnS1dyRGgzcE1CM2plTU5NanlVT25TUVpMV0F6UVA1YUw3REwyTDUxZ2ZodDdyNEYzTVhZRjFSbkxJZkIycW5Qb212Q0Y3cTV6SUVwZjA4bWN3VzNB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ySUk5d1J1VHRkTWxDUVBhNDZnS1dyRGgzcE1CM2plTU5NanlVT25TUVpMV0F6UVA1YUw3REwyTDUxZ2ZodDdyNEYzTVhZRjFSbkxJZkIycW5Qb212Q0Y3cTV6SUVwZjA4bWN3VzNB",
-        "image": null,
-        "timestamp": 1775558413.0
     }
 ]
