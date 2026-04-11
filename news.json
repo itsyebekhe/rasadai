@@ -270,6 +270,24 @@
         "timestamp": 1775916720.0
     },
     {
+        "title_fa": "گفت‌وگوهای صلح آمریکا-ایران تا یکشنبه ادامه یافت؛ ایران عبور ناوهای آمریکایی از تنگه هرمز را رد کرد",
+        "title_en": "US.-Iran peace talks stretch into Sunday as Iran denies US Navy destroyers passed through Hormuz",
+        "summary": [
+            "گزارش «Forbes on MSN» می‌گوید گفت‌وگوهای آمریکا و ایران پس از پیشرفت در روز شنبه، تا یکشنبه ادامه می‌یابد و یک مقام پاکستانیِ ناشناس روند مذاکرات را «در حال پیشرفت» توصیف کرده است.",
+            "هم‌زمان، ایران ادعای مطرح‌شده درباره عبور ناوهای نیروی دریایی آمریکا (ناوهای جنگی) از تنگه هرمز را رد کرده است و این موضوع به اختلاف اطلاعاتی/روایی میان طرف‌ها دامن می‌زند.",
+            "ترکیبِ ادامه مذاکرات و ردِ روایت عبور از هرمز نشان می‌دهد که هم‌پوشانی «دیپلماسی» و «کنترل روایت عملیات دریایی» در دستور کار است، بدون اینکه در متن گزارش جزئیات تصمیم مشخص یا توافق قابل راستی‌آزمایی آمده باشد."
+        ],
+        "impact": "ادامه مذاکرات می‌تواند موقتاً تنش را مدیریت کند، اما اختلاف بر سر هرمز و عدم ارائه جزئیات توافق، ریسک بی‌ثباتی ارتباطی و عملیاتی را حفظ می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Forbes on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-iran-peace-talks-stretch-into-sunday-as-iran-denies-us-navy-destroyers-passed-through-hormuz/ar-AA20EQL4",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-peace-talks-stretch-into-sunday-as-iran-denies-us-navy-destroyers-passed-through-hormuz/ar-AA20EQL4",
+        "image": "http://www.bing.com/th?id=ONUT.Qe5CmsSotO6fFlpI0tgnIA&pid=News",
+        "timestamp": 1775916044.0
+    },
+    {
         "title_fa": "آغاز مذاکرات مستقیم آمریکا و ایران در پاکستان برای پایان جنگ شش‌هفته‌ای",
         "title_en": "US-Iran talks on ending war begin in Pakistan",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/trump-says-whole-civilization-die-134829326.html",
         "image": "http://www.bing.com/th?id=ONUT._oHJg27TtzgrKZiVIdQw-g&pid=News",
         "timestamp": 1775581680.0
-    },
-    {
-        "title_fa": "کاخ سفید ایده استفاده ترامپ از سلاح هسته‌ای علیه ایران را رد کرد",
-        "title_en": "White House slams notion of Trump using nuclear weapon in Iran",
-        "summary": [
-            "کاخ سفید به گزارش‌ها درباره امکان استفاده ترامپ از سلاح هسته‌ای علیه ایران واکنش نشان داده و این ایده را رد کرد.",
-            "این موضع رسمی احتمال تشدید فوری به سوی اقدام هسته‌ای از سوی آمریکا را کاهش می‌دهد و مانع از افزایش سریع تنش بین‌المللی می‌شود.",
-            "گزارش هیچ اشاره‌ای به تحریم‌ها، حمایت‌های خارجی یا واکنش‌های داخلی در ایران ندارد؛ بنابراین ارزیابی تأثیر بر ثبات رژیم، اقتصاد یا اعتراضات در داخل کشور با اطلاعات موجود ممکن نیست."
-        ],
-        "impact": "رد رسمی کاخ سفید ریسک یک مرحله فاجعه‌بار از تشدید نظامی را کاهش می‌دهد، اما مسئله درگیری ایدئولوژیک و پیامدهای سیاسی-امنیتی منطقه‌ای همچنان باز است.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Hill",
-        "url": "https://www.msn.com/en-us/news/politics/white-house-slams-notion-of-trump-using-nuclear-weapon-in-iran/ar-AA20mt7V",
-        "clean_url": "https://www.msn.com/en-us/news/politics/white-house-slams-notion-of-trump-using-nuclear-weapon-in-iran/ar-AA20mt7V",
-        "image": null,
-        "timestamp": 1775581560.0
     }
 ]
