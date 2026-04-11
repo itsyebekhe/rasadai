@@ -36,6 +36,24 @@
         "timestamp": 1775873817.0
     },
     {
+        "title_fa": "ورود هیئت ۷۱ نفره ایران به اسلام‌آباد برای گفت‌وگوهای جنگ آمریکا-ایران؛ انتظار «عدم گفت‌وگوی مستقیم» با تیم ونس",
+        "title_en": "US-Iran war talks in Pakistan LIVE: 'No direct talks' expected as Vance-led team, Iranian delegation arrive in Islamabad",
+        "summary": [
+            "هیئت ۷۱ نفره ایران به ریاست محمدباقر قالیباف، شامگاه جمعه وارد اسلام‌آباد شد؛ روند سفر به‌طور گزارش‌شده به‌دلیل چند مرحله تأخیر، تحت‌تأثیر ادامه حملات اسرائیل قرار گرفته است.",
+            "بر اساس گزارش، تیم آمریکایی به ریاست جیمز ونس وارد پاکستان شده و انتظار می‌رود «گفت‌وگوی مستقیم» میان طرف‌های مذاکره‌کننده برگزار نشود؛ یعنی نقش پاکستان بیشتر به میانجی‌گری و کانالیزه‌کردن پیام‌ها محدود می‌ماند.",
+            "این نشست در چارچوب «گفت‌وگوهای جنگ آمریکا-ایران» در حال پیگیری است، اما ساختار اعلام‌شده (نبود گفت‌وگوی مستقیم) نشان می‌دهد سازوکار توافق‌محور هنوز بسته نشده و بیشتر مدیریت تنش است تا حل‌وفصل فوری."
+        ],
+        "impact": "محدود شدن گفت‌وگوها به کانال‌های غیرمستقیم احتمالاً تنش را مدیریت می‌کند اما سرعت رسیدن به توافق را پایین نگه می‌دارد.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/usiran-war-news-live-updates-islamabad-talks-hotel-pakistan-israel-lebanon-strikes-donald-trump-latest-strait-of-hormuz-101775868910414.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/usiran-war-news-live-updates-islamabad-talks-hotel-pakistan-israel-lebanon-strikes-donald-trump-latest-strait-of-hormuz-101775868910414.html",
+        "image": "http://www.bing.com/th?id=ONUT.9JLBM8PjmobvNsGaxoZwiQ&pid=News",
+        "timestamp": 1775867580.0
+    },
+    {
         "title_fa": "گزارش تورم رو به جهش ترامپ؛ پیوند مستقیم به تنش‌های ایران",
         "title_en": "Trump faces surging inflation report, fueled by Iran conflict",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/inflation-probably-picked-up-in-march-fueled-by-iran-conflict/ar-AA20zfp4",
         "image": null,
         "timestamp": 1775865733.0
+    },
+    {
+        "title_fa": "عدم امکان استخراج محتوا از منبع؛ فقط عنوان درباره «اهرم ایران» در مذاکرات صلح پاکستان و پیوند آن با تنگه هرمز",
+        "title_en": "Iran's 'trump card' in Pakistan peace talks – the Strait of Hormuz",
+        "summary": [
+            "متن گزارش قابل‌دسترسی نیست و فقط عنوان کلی «اهرم ایران» در مذاکرات صلح پاکستان با اشاره به تنگه هرمز دیده می‌شود؛ بنابراین جزئیات ادعای اهرم و سازوکار آن قابل راستی‌آزمایی نیست.",
+            "چون هیچ اطلاعات مشخصی درباره فشار خارجی، تحرکات نیابتی، یا واکنش اقتصاد/افکار عمومی ارائه نشده، نمی‌توان اثرات ساختاری بر ثبات رژیم را بر مبنای متن گزارش تحلیل کرد.",
+            "هم‌زمان، نبودِ متن مانع اجرای چارچوب واقع‌گرایانه است: هرگونه ارتباط‌سازی بیشتر (به آمریکا/تحریم‌ها/عملیات) بدون شواهد مستقیم، حدس‌زنی محسوب می‌شود."
+        ],
+        "impact": "به علت نبود متن گزارش، ارزیابی اثر واقعی ادعای «اهرم ایران» بر روند مذاکرات پاکستان و ریسک تنگه هرمز فعلاً ممکن نیست.",
+        "tag": "نامشخص",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2026/04/11/iran-strait-of-hormuz-control-peace-talks-pakistan/89533760007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/11/iran-strait-of-hormuz-control-peace-talks-pakistan/89533760007",
+        "image": "http://www.bing.com/th?id=ONUT.iy3q_sbf8Pqq_hDdwrI0GA&pid=News",
+        "timestamp": 1775865600.0
     },
     {
         "title_fa": "گزارش زنده: سفر JD Vance به پاکستان برای گفت‌وگو درباره ایران؛ همزمان ترامپ «برنامه پشتیبان لازم نیست» اعلام می‌کند",
@@ -88,6 +124,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/what-will-it-take-for-us-and-iran-to-end-war-here-s-what-we-know/ar-AA20BNiL",
         "image": null,
         "timestamp": 1775861645.0
+    },
+    {
+        "title_fa": "ارزیابی اطلاعاتی آمریکا: ایران «هزاران» موشک بالستیک را حفظ کرده و می‌تواند لانچرها را دوباره فعال کند",
+        "title_en": "Iran retains thousands of missiles, ability to reactivate launchers",
+        "summary": [
+            "با وجود ادعاهای پنتاگون درباره «کاهش شدید» و نابودی ذخایر، گزارش وال‌استریت ژورنال به نقل از ارزیابی اطلاعاتی آمریکا می‌گوید ایران همچنان هزاران موشک بالستیک در اختیار دارد و توان بازفعال‌سازی لانچرها را نیز دارد.",
+            "طبق همین گزارش، بخشی از لانچرها ممکن است از کار افتاده یا آسیب دیده باشد، اما بسیاری از آنها «قابل احیا» توصیف شده‌اند و حتی امکان بازیابی موشک‌های نگهداری‌شده در سایت‌های آسیب‌دیده مطرح است.",
+            "هم‌زمان گفته می‌شود تولید موشک توسط ایران در وضعیت فعلی محدود است و اسرائیل توان شلیک روزانه را در جریان درگیری کاهش داده؛ همچنین شمار کروز موشک‌ها کم اما پهپادها به دلیل مصرف و حملات هوایی «به‌شدت» کاهش یافته‌اند."
+        ],
+        "impact": "اگر ایران بتواند بخشی از لانچرها را دوباره عملیاتی کند، حتی با محدودیت تولید، خطر بازسازی سریع توان ضربتی در دوره آتش‌بس بالا می‌ماند و ادعای «تمام‌شدن» عملاً قابل اتکا نیست.",
+        "tag": "موشکی",
+        "urgency": 8,
+        "sentiment": -0.35,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/iran-retains-thousands-missiles-ability-054158707.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-retains-thousands-missiles-ability-054158707.html",
+        "image": "http://www.bing.com/th?id=ONUT.PqO_IjH9KqLE7gUQBk-hLg&pid=News",
+        "timestamp": 1775861520.0
     },
     {
         "title_fa": "دیدگاه‌های اروپایی درباره تنش آمریکا و ایران",
@@ -142,6 +196,24 @@
         "clean_url": "https://www.nytimes.com/2026/04/11/world/middleeast/iran-delegation-pakistan-us.html",
         "image": "http://www.bing.com/th?id=ONUT.8uGLvOxaoLMoL04Yay0IHg&pid=News",
         "timestamp": 1775859180.0
+    },
+    {
+        "title_fa": "ورود ونس به اسلام‌آباد برای گفت‌وگوهای آتش‌بس با ایران",
+        "title_en": "Live updates: Vance arrives in Islamabad for ceasefire talks with Iran",
+        "summary": [
+            "خبرگزاری آسوشیتدپرس اعلام کرد که «جی. دی. ونس» وارد اسلام‌آباد شده تا در چارچوب گفت‌وگوهای آتش‌بس با ایران وارد رایزنی شود.",
+            "این حرکت یک گام دیپلماتیکِ مشخص در مسیر کاهش تنش‌های جنگی گزارش‌شده میان ایران و طرف‌های درگیر است، اما محتوای مذاکرات و شروط آتش‌بس در متن فعلی ارائه نشده است.",
+            "در سطح راهبردی، اهمیت این رویداد بیشتر از آنکه به جزئیات فنی مربوط باشد، به تلاش برای تثبیت کانال تماس و جلوگیری از تشدید بیشتر در یک برهه حساس برمی‌گردد."
+        ],
+        "impact": "این سفر می‌تواند مسیر مذاکره را باز نگه دارد، اما تا زمانی که شروط و تضمین‌ها روشن نشوند، اثر آن بر کاهش واقعی تنش‌ها نامشخص است.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-11-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-11-2026",
+        "image": "http://www.bing.com/th?id=ONUT.4SjFcjJS-iDMM8HlcL3eng&pid=News",
+        "timestamp": 1775858820.0
     },
     {
         "title_fa": "ورود هیئت ایرانی به پاکستان همزمان با پیام ترامپ برای ونس؛ نشانه‌ای از مدیریت دیپلماتیک تنش میان تهران و تل‌آویو",
@@ -304,6 +376,24 @@
         "clean_url": "https://www.aol.com/articles/us-iran-set-peace-talks-024007111.html",
         "image": "http://www.bing.com/th?id=ONUT.fAPgKLadtHmNqEWZJ88edw&pid=News",
         "timestamp": 1775852040.0
+    },
+    {
+        "title_fa": "ونسن وارد پاکستان شد؛ مذاکرات صلح با ایران در سایه تردید به پایایی آتش‌بس",
+        "title_en": "Iran War Live Updates: Vance Lands in Pakistan for Peace Talks With Iran",
+        "summary": [
+            "خبرگزاری نیویورک‌تایمز گزارش می‌دهد جِی‌دی ونس، معاون رئیس‌جمهور آمریکا، برای مذاکرات مربوط به ایران وارد پاکستان شده است تا درباره آتش‌بس و امکان رسیدن به توافق بلندمدت گفت‌وگو کند.",
+            "در گزارش، عدم قطعیت پررنگ است: معلوم نیست آتش‌بس پایدار بماند و دو طرف بتوانند به یک توافق طولانی‌مدت برسند؛ همین یعنی بخش بزرگی از روند در مرحله آزمون و ریسک‌محور است.",
+            "ونس قبل از رفتن به مذاکرات، موضعی «امیدوارانه اما محتاط» اتخاذ کرده که نشان می‌دهد واشنگتن هم‌زمان به امکان پیشرفت و احتمال شکست/برگشت تنش واقف است."
+        ],
+        "impact": "این حرکت نشان می‌دهد تمرکز فعلاً بر مهار چرخه تنش از طریق گفت‌وگو است، اما خودِ گزارش احتمال فروپاشی آتش‌بس را جدی می‌گیرد.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan",
+        "clean_url": "https://www.nytimes.com/live/2026/04/11/world/iran-war-trump-talks-pakistan",
+        "image": "http://www.bing.com/th?id=ONUT.E-TdrI6NHiVN5v2ffKdRbw&pid=News",
+        "timestamp": 1775851980.0
     },
     {
         "title_fa": "ترامپ: در صورت عدم پایبندی ایران به مذاکرات، آماده‌سازی نظامی با «بارگیری کشتی‌ها»",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.foxnews.com/live-news/trump-iran-deadline-israel-hormuz-april-7",
         "image": "http://www.bing.com/th?id=ONUT.lpMakpDibNhmTjFyLdqgpg&pid=News",
         "timestamp": 1775541420.0
-    },
-    {
-        "title_fa": "ایران سرسخت در آستانه ضرب‌الاجل آتش‌بس ترامپ",
-        "title_en": "Iran defiant on eve of Trump's ceasefire deadline",
-        "summary": [
-            "روی‌داد: خبرگزاری رویترز گزارش می‌دهد ایران درست پیش از موعد تعیین‌شده از سوی ترامپ برای اعلام آتش‌بس موضعی سرسختانه اتخاذ کرده و از عقب‌نشینی خبری نیست.",
-            "تحلیل تحریم/فشار خارجی: این ایستادگی نشان می‌دهد فشار واشنگتن تا کنون نتوانسته تهران را وادار به انعطاف قابل‌ملاحظه کند؛ در عین حال ادامه فشار خارجی ساختار اقتصادی و سیاسی رژیم را هدف گرفته و هزینه‌های بقا را بالا می‌برد.",
-            "اقتصاد و نارضایتی داخلی: حفظ موضع سختگیرانه بدون اصلاحات مدیریتی، نمادی از ناکارآمدی حاکمیتی است که در بلندمدت می‌تواند نارضایتی عمومی و تنش‌های اجتماعی را تشدید کند (بدون ادعای وجود تظاهرات کنونی مگر به استناد گزارش‌های موثق)."
-        ],
-        "impact": "سرسختی تهران در آستانه ضرب‌الاجل ترامپ شانس کاهش فوری تنش را کم کرده و احتمال افزایش فشارهای بین‌المللی و هزینه‌های اقتصادی داخلی را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/iran-defiant-on-eve-of-trumps-ceasefire-deadline/ar-AA20jkew",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-defiant-on-eve-of-trumps-ceasefire-deadline/ar-AA20jkew",
-        "image": null,
-        "timestamp": 1775535660.0
-    },
-    {
-        "title_fa": "فراخوان رژیم ایران برای تشکیل سپر انسانی حوالی نیروگاه‌ها همزمان با مهلت ترامپ",
-        "title_en": "Live Updates: Trump's deadline looms over Iran war as regime calls on civilians to shield power plants",
-        "summary": [
-            "رژیم ایران از جوانان خواسته‌اند اطراف نیروگاه‌ها به‌عنوان «سپر انسانی» حاضر شوند؛ این فراخوان همزمان با مهلت تعیین‌شده توسط ترامپ و تهدید به تخریب زیرساخت‌های غیرنظامی صورت گرفته است.",
-            "فراخوان مشارکت مدنی در حفاظت نظامی از زیرساخت‌ها نشان‌دهنده ضعف ساختاری رژیم در تضمین امنیت و کنترل است؛ مجبور کردن یا تشویق شهروندان به قرار گرفتن در معرض هدف نظامی، هزینه سیاسی و حقوقی قابل‌توجهی برای رژیم دارد و به تضعیف بیشتر کارایی حکومت و اقتصاد منتهی می‌شود.",
-            "این اقدام بلافاصله ریسک تشدید درگیری مستقیم با آمریکا را بالا می‌برد و می‌تواند خشم عمومی را علیه رژیم افزایش دهد؛ بازتولید نظامی‌سازی جامعه همچنان منجر به افزایش نارضایتی و احتمال فوران اعتراضات محلی خواهد شد."
-        ],
-        "impact": "فراخوان به ایجاد سپر انسانی نمادی از بی‌کفایتی حکمرانی است که احتمال تشدید درگیری خارجی و فرسایش بیشتر مشروعیت داخلی رژیم را افزایش می‌دهد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-deadline-power-plants-human-chains-israel-train-strikes",
-        "image": "http://www.bing.com/th?id=ONUT.-Cj0NwSiVSf08YGJY6VCWw&pid=News",
-        "timestamp": 1775533080.0
-    },
-    {
-        "title_fa": "مجموعه: ایران، اسرائیل و ایالات متحده در جنگ (عملیات ۲۰۲۵–۲۰۲۶) — Just Security",
-        "title_en": "Collection: Iran, Israel and the United States at War (2025-2026 Operations)",
-        "summary": [
-            "این مجموعه گزارشی از عملیات نظامی و امنیتی بین ایران، اسرائیل و ایالات متحده در دورهٔ ۲۰۲۵–۲۰۲۶ است که به رویه‌های اجرایی، پیامدهای راهبردی و چارچوب‌های حقوقی می‌پردازد؛ با این حال بدون متن کامل نمی‌توان جزئیات عملیات را تأیید کرد.",
-            "در مواجهه با فشارهای خارجی و تحریم‌ها، منطقاً چنین درگیری‌هایی و محدودیت‌های اقتصادی ساختاری ظرفیت مالی رژیم را تضعیف می‌کند؛ این تضعیف هزینه‌های نظامی و حمایت از پروکسی‌ها را سنگین‌تر کرده و تاب‌آوری سیاسی و اقتصادی داخلی را کاهش می‌دهد.",
-            "ترکیب جنگ، ناکارآمدی مدیریتی و فرسایش اقتصادی، روند نارضایتی عمومی را تسریع می‌کند؛ اگر مجموعه به شواهد میدانی پرداخته باشد، باید انتظار تشدید اعتراضات و فشار بر نهادهای حکومتی را داشت ـ اما بدون متن‌های تحلیلی دقیق جزئیات قابل اثبات نیست."
-        ],
-        "impact": "این مجموعه نشان می‌دهد که درگیری‌های مستقیم ۲۰۲۵–۲۰۲۶ خطر فرسایش توان اقتصادی و سیاسی رژیم را بالا برده و ریسک تشدید بی‌ثباتی داخلی و گسترش جنگ منطقه‌ای را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Just Security",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoSVdUeXVkem5oeFB6SzlYa0xrbmpSVXdlWDdrX3dhbG5vWFNvZ1ZLXzR6U0N1WVMyekQ0RzY2UXgwRWdwU0E2ZXRIbXZwaWN2eTZRbkU4M1N2X25xMjY0RjQ4WFdvdEc2VHhkbXpONWJYWEo2TzBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoSVdUeXVkem5oeFB6SzlYa0xrbmpSVXdlWDdrX3dhbG5vWFNvZ1ZLXzR6U0N1WVMyekQ0RzY2UXgwRWdwU0E2ZXRIbXZwaWN2eTZRbkU4M1N2X25xMjY0RjQ4WFdvdEc2VHhkbXpONWJYWEo2TzBB",
-        "image": null,
-        "timestamp": 1775531806.0
-    },
-    {
-        "title_fa": "ایران آتش‌بس را رد کرد؛ مهلت ترامپ برای تهدید به 'آتش جهنم' نزدیک می‌شود",
-        "title_en": "Defiant Iran rejects ceasefire as clock ticks down on Trump threat to unleash 'hell'",
-        "summary": [
-            "خبر اصلی: ایران هیچ نشانه‌ای از قبول درخواست رئیس‌جمهور آمریکا برای باز گذاشتن تنگه هرمز تا پایان سه‌شنبه نشان نداد و آتش‌بس را رد کرد؛ واشنگتن تهدید به حملات گسترده علیه زیرساخت‌های غیرنظامی کرده است.",
-            "فشار خارجی/امنیتی: این منازعه از فشار دیپلماتیک به تهدید مستقیم نظامی تبدیل شده — تهدید به حملات وسیع می‌تواند منابع مالی و عملیاتی رژیم را تحت فشار قرار دهد و انزوای بین‌المللی آن را تشدید کند.",
-            "اقتصاد و نارضایتی داخلی: ادامه تقابل و ریسک برخورد عملیاتی احتمال افزایش شوک‌های اقتصادی و تشدید نارضایتی عمومی را بالا می‌برد و ضعف‌های مدیریتی و ناکارآمدی حکمرانی را نمایان می‌سازد."
-        ],
-        "impact": "این بحران می‌تواند به درگیری نظامی مستقیم و تشدید آسیب‌های اقتصادی و سیاسی علیه رژیم منجر شود.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/iran-defiant-eve-trumps-ceasefire-deadline-2026-04-07/",
-        "clean_url": "https://www.reuters.com/world/asia-pacific/iran-defiant-eve-trumps-ceasefire-deadline-2026-04-07",
-        "image": "http://www.bing.com/th?id=ONUT.IGUNDioueEsh9mimB44ZCA&pid=News",
-        "timestamp": 1775529120.0
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: ایران بی‌تأثر در برابر ضرب‌الاجل ترامپ درباره هرمز",
-        "title_en": "Live updates: Iran defiant as Trump's Hormuz deadline nears",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، تهدید کرده است که در صورت بازنشدن تنگه هرمز تا ساعت ۲۰ به‌وقت شرقی، نیروگاه‌ها و پل‌های ایران را بمباران خواهد کرد؛ خبر حاکی از بالا گرفتن تنش مستقیم بین واشینگتن و تهران است.",
-            "این سطح از تهدید نظامی فشار خارجی را به‌شدت افزایش می‌دهد و می‌تواند دسترسی به خطوط تجاری، سرمایه‌گذاری و منابع مالی دولت را بیشتر محدود کند؛ چنین فشاری ساختار سیاسی و اقتصادی رژیم را تضعیف خواهد کرد.",
-            "هرگونه حمله یا قطع گسترده زیرساخت‌ها به اختلال در تأمین برق و تولید صنعتی منجر می‌شود و احتمالاً نارضایتی عمومی و فشارهای اجتماعی بر حکومت را تشدید می‌کند؛ مدیریت موجود در مقابله با این شوک‌ها آزموده خواهد شد."
-        ],
-        "impact": "تهدید مستقیم آمریکا ریسک تشدید رویارویی نظامی را افزایش داده و هم‌زمان فشار اقتصادی و اجتماعی بر رژیم را بالا می‌برد که بقای سیاسی آن را در معرض آزمون قرار می‌دهد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039",
-        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-deadline-hormuz-infrastructure-ceasefire-rcna267039",
-        "image": "http://www.bing.com/th?id=ONUT.eptJDUXoEht37h6nr5F-Pw&pid=News",
-        "timestamp": 1775529120.0
     }
 ]
