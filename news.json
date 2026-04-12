@@ -594,6 +594,24 @@
         "timestamp": 1775965320.0
     },
     {
+        "title_fa": "اعلام محاصره دریایی توسط ترامپ پس از شکست مذاکرات صلح و تداوم محدودسازی تردد در تنگه هرمز",
+        "title_en": "Trump announces naval blockade against Iran after peace talks break down",
+        "summary": [
+            "ترامپ اعلام کرده محاصره دریایی علیه ایران اجرا می‌شود، اما همزمان گزارش می‌دهد که مذاکرات صلح به نتیجه نرسیده‌اند و روند سیاسی شکست خورده است.",
+            "ایران پس از اعلام «آتش‌بس» در همان هفته، همچنان تردد را در تنگه هرمز محدود می‌کند؛ یعنی اهرم فشار عملیاتی حفظ شده و بازگشت به وضعیت عادی رخ نداده است.",
+            "پیامد مستقیم این وضعیت، تشدید ریسک اختلال در کریدور حیاتی انرژی و حمل‌ونقل دریایی است؛ زیرا محاصره اعلامی و محدودسازی تردد در یک منطقه حساس هم‌زمان فعال مانده‌اند."
+        ],
+        "impact": "ترکیب محاصره دریایی اعلام‌شده و تداوم محدودسازی تردد در تنگه هرمز، احتمال درگیری دریایی و اختلال جدی در جریان تجارت منطقه را بالا می‌برد.",
+        "tag": "دریایی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-announces-naval-blockade-against-iran-after-peace-talks-break-down/ar-AA20HHRw",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-announces-naval-blockade-against-iran-after-peace-talks-break-down/ar-AA20HHRw",
+        "image": "http://www.bing.com/th?id=ONUT.jYKNZPC0jSAFzRfjF3hg4g&pid=News",
+        "timestamp": 1775965143.0
+    },
+    {
         "title_fa": "پایان مذاکرات صلح آمریکا و ایران بدون توافق؛ هیئت‌ها از پاکستان خارج شدند",
         "title_en": "US-Iran peace talks end without a deal as delegations leave Pakistan",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.al.com/news/2026/04/iran-reverses-course-on-key-ceasefire-demand-as-attacks-continue.html",
         "image": "http://www.bing.com/th?id=ONUT.AyYDCqWFEcIrWCEMur_5EQ&pid=News",
         "timestamp": 1775644500.0
-    },
-    {
-        "title_fa": "وقتی هگست پیروزی در جنگ با ایران را اعلام کرد، کِین لحن محتاطانه گرفت",
-        "title_en": "As Hegseth proclaims victory in Iran war, Caine takes cautious tone",
-        "summary": [
-            "هگست ادعای پیروزی در جنگ با ایران را مطرح کرد؛ اما متن اشاره می‌کند که وزیر دفاع (کِین) وضعیت خصومت‌ها را عمدتاً در گذشته توصیف کرده است — نشانه‌ای از اختلاف میان اظهارنظرهای تبلیغاتی و ارزیابی رسمی میدان.",
-            "رئیس ستاد مشترک تأکید کرد که «آتش‌بس یک مکث است»، بیانیه‌ای که احتمال ازسرگیری عملیات نظامی را بالا می‌برد و نشان می‌دهد آتش‌بس فعلی شکننده و موقتی است.",
-            "هیچ اشاره‌ای به تحریم‌ها، فشارهای خارجی یا وضعیت اقتصادی و اعتراضات داخلی در متن نیست؛ بنابراین نمی‌توان از این گزارش درباره اثرات ساختاری فشارهای خارجی یا ناراضایتی داخلی نتیجه‌گیری قابل اتکایی کرد."
-        ],
-        "impact": "تناقض میان تبلیغات پیروزی و لحن محتاط مقامات نظامی خطر بازگشت سریع درگیری‌ها را افزایش می‌دهد و ثبات سیاسی-امنیتی در منطقه را شکننده نگه می‌دارد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/04/08/hegseth-caine-iran-ceasefire/",
-        "clean_url": "https://www.washingtonpost.com/national-security/2026/04/08/hegseth-caine-iran-ceasefire",
-        "image": "http://www.bing.com/th?id=ONUT.4_f_Jm4jUyOuOc8st-6BSA&pid=News",
-        "timestamp": 1775644380.0
     }
 ]
