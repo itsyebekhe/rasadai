@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "محور فشار آمریکا: جریان نفت از تنگه هرمز به نفع ریاض، و تشدید ریسک سیاسی برای ایران",
+        "title_en": "Saudi Arabia gets more oil flowing as US blocks Strait of Hormuz. What you need to know about Iran today",
+        "summary": [
+            "گزارش می‌گوید با وجود اقدامات آمریکا برای جلوگیری از عبور نفت از تنگه هرمز، عربستان سعودی موفق شده «نفت بیشتری» را به جریان بیندازد؛ این یعنی اهرم حیاتی ایران در منطقه عملاً زیر فشار قرار گرفته است، اما متن جزئیات فنی درباره میزان یا سازوکار دقیق ارائه نمی‌دهد.",
+            "در بخش مربوط به ایران، اشاره اصلی به تصویر/خبر «اعتراض در تل‌آویو» است که خواستار پایان جنگ است؛ این موضوع مستقیم درباره ایران نیست، ولی نشان می‌دهد فشار و نارضایتی در جبهه اسرائیل در حال تداوم است و می‌تواند محاسبات امنیتی منطقه را پیچیده کند.",
+            "این روایت بیشتر بر اثرات ژئو-اکونومیک تمرکز دارد: یعنی توان ایران برای کنترل یا اثرگذاری بر معبر هرمز محدود شده، و نتیجه بالقوه آن فشار اقتصادی و سیاسی بر تصمیم‌گیری‌های تهران است—بدون اینکه در متن، اقدام مشخص نظامی یا نقض مستقیم در برابر ایران گزارش شده باشد."
+        ],
+        "impact": "مسدودسازی/مهار مسیر تنگه هرمز توسط آمریکا، با توجه به روایت، اهرم فشار ایران را کاهش می‌دهد و زمینه بی‌ثباتی اقتصادی-امنیتی برای تهران را تقویت می‌کند.",
+        "tag": "هرمز",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Australian Broadcasting Corporation",
+        "url": "https://www.abc.net.au/news/2026-04-13/iran-israel-war-daily-briefing/106557044",
+        "clean_url": "https://www.abc.net.au/news/2026-04-13/iran-israel-war-daily-briefing/106557044",
+        "image": null,
+        "timestamp": 1776024884.0
+    },
+    {
+        "title_fa": "فروپاشی اقتصادی؛ نقطه‌ضعف اصلی رژیم با جهش ۴۰درصدی قیمت‌ها از آغاز جنگ",
+        "title_en": "Iran's crumbling economy is the regime's greatest weakness with prices up 40% since the war began while authorities worry about making payroll",
+        "summary": [
+            "بر اساس گزارش، قیمت‌ها از شروع جنگ حدود ۴۰٪ افزایش یافته و این فشار مستقیم به معیشت مردم تبدیل شده است؛ نشانه‌ای از ناتوانی دولت در کنترل هزینه‌های پایه و تورم.",
+            "یک مقام ایرانی به Reuters گفته در صورت لغو نشدن تحریم‌ها، «فاجعه» رخ می‌دهد؛ یعنی حتی مقامات خود رژیم بحران را در سطح بقا و مدیریت عمومی می‌بینند.",
+            "مقام‌ها نگران «حقوق و دستمزد» هستند؛ یعنی فشار نقدینگی و کسری عملیاتی تا جایی پیش رفته که پرداخت منظم تعهدات مالی هم به مسئله امنیتی تبدیل می‌شود."
+        ],
+        "impact": "ترکیب تورم شدید و نگرانی رسمی از پرداخت حقوق، نشان می‌دهد رژیم با فرسایش همزمان مشروعیت اقتصادی و توان اجرایی روبه‌رو است و این شکاف می‌تواند به بی‌ثباتی داخلی منجر شود.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "Fortune",
+        "url": "https://www.msn.com/en-us/money/economy/iran-s-crumbling-economy-is-the-regime-s-greatest-weakness-with-prices-up-40-since-the-war-began-while-authorities-worry-about-making-payroll/ar-AA20J3bf",
+        "clean_url": "https://www.msn.com/en-us/money/economy/iran-s-crumbling-economy-is-the-regime-s-greatest-weakness-with-prices-up-40-since-the-war-began-while-authorities-worry-about-making-payroll/ar-AA20J3bf",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA20J0AX.img?w=2048&h=1365&m=4&q=81",
+        "timestamp": 1776022911.0
+    },
+    {
         "title_fa": "ترامپ فرمان محاصره تنگه هرمز را پس از پایان مذاکرات صلح آمریکا-ایران صادر کرد",
         "title_en": "‘Blown to hell’: Trump orders Hormuz blockade after US-Iran peace talks end",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.npr.org/2026/04/08/nx-s1-5776818/wall-street-stocks-oil-trump-iran-ceasefire",
         "image": "http://www.bing.com/th?id=ONUT.lAV7LsoxlGjAoJ5YTUIYEg&pid=News",
         "timestamp": 1775646600.0
-    },
-    {
-        "title_fa": "لئو از «صلح‌نامه» با ایران تمجید کرد؛ تهدید ترامپ را «غیرقابل‌قبول» خواند",
-        "title_en": "Pope Leo praises Iran deal after calling Trump threat 'unacceptable'",
-        "summary": [
-            "لئو طی بیانیه‌ای تهدید ترامپ به «پاک‌سازی یک تمدن» را غیرقابل‌قبول دانست و هم‌زمان توافق با ایران را به‌عنوان یک «صلح‌نامه/آتش‌بس» ستود.",
-            "تمجید از توافق تنها ساعاتی پس از محکومیت تهدیدها صورت گرفت؛ واکنشی که جهت‌گیری واتیکان به مذاکره و خنثی‌سازی تنش را نشان می‌دهد.",
-            "این موضع‌گیری بین‌المللی، بدون اشاره به شرایط داخلی ایران، پتانسیل تقویت مشروعیت دیپلماتیک رژیم را دارد و می‌تواند مانع از حفظ فشار خارجی شود."
-        ],
-        "impact": "تقدیر یک نهاد بین‌المللی از «توافق» می‌تواند اهرم فشار خارجی را کمرنگ کند و راه بازگشت مشروعیت بین‌المللی برای حکومت ایران را هموار سازد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/world/pope-leo-praises-iran-deal-after-calling-trump-threat-unacceptable/ar-AA20qJdW",
-        "clean_url": "https://www.msn.com/en-us/news/world/pope-leo-praises-iran-deal-after-calling-trump-threat-unacceptable/ar-AA20qJdW",
-        "image": "http://www.bing.com/th?id=ONUT.ncpoZW-zJNhKWEXnWXSMZA&pid=News",
-        "timestamp": 1775646205.0
-    },
-    {
-        "title_fa": "توافق آتش‌بس در حال از هم پاشیدن؛ حملات ادامه دارد و شرایط صلح ترامپ نامشخص مانده",
-        "title_en": "Iran ceasefire deal frays as attacks continue; Trump’s peace terms remain unclear",
-        "summary": [
-            "آتش‌بسِ اعلام‌شده درحال فرسایش است و حملات ادامه دارد؛ توافق فراتر از تیترها، عملاً پایدار نیست.",
-            "وزیر دفاع پیت هگستث و کاخ سفید با نمایش اعتماد به نفس، ایران را به پایبندی به توافق تهدید کردند؛ پیام صریح تهدید به «عواقب» اما بدون ذکر گام‌های مشخص است.",
-            "ابهام در شروط صلح اعلام‌شده توسط ترامپ فضای راهبردی را مبهم نگه داشته و این ابهام می‌تواند بازدارندگی را تضعیف و طرف‌های منطقه‌ای را برای بهره‌برداری از خلأ تشویق کند."
-        ],
-        "impact": "هشدارهای عمومی آمریکا در غیاب شفافیت درباره اقدامات بعدی می‌تواند آتش‌بس را آسیب‌پذیر کرده و راه را برای تشدید نظامی یا فشارهای بین‌المللی بیشتر باز کند.",
-        "tag": "آتش‌بس",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Los Angeles Times",
-        "url": "https://www.latimes.com/politics/story/2026-04-08/iran-ceasefire-deal-frays-as-attacks-continue-trumps-peace-terms-remain-unclear",
-        "clean_url": "https://www.latimes.com/politics/story/2026-04-08/iran-ceasefire-deal-frays-as-attacks-continue-trumps-peace-terms-remain-unclear",
-        "image": "http://www.bing.com/th?id=ONUT.P4iZSpB3JfHEoHpBk-pboA&pid=News",
-        "timestamp": 1775646060.0
     }
 ]
