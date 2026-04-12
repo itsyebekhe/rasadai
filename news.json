@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "افزایش قیمت نفت به بالای ۱۰۰ دلار در پی شکست گفت‌وگوهای صلح و برنامه آمریکا برای محاصره دریایی بنادر ایران",
+        "title_en": "Oil prices surge above $100 as U.S. Navy to blockade Iran's ports after peace talks fail",
+        "summary": [
+            "طبق گزارش CNBC، بهای نفت به بالای ۱۰۰ دلار رسیده است؛ محرک مستقیم آن تشدید تنش میان آمریکا و ایران پس از شکست گفت‌وگوهای صلح است.",
+            "این گزارش می‌گوید آمریکا با نقش نیروی دریایی، در نظر دارد بنادر ایران را برای اجرای «محاصره/بلوکِ» دریایی تحت فشار قرار دهد؛ یعنی سطح درگیری به حوزه عملیاتی و نظامی نزدیک شده است.",
+            "اثر بلافاصله این سناریو در بازار نفت، افزایش ریسک اختلال در صادرات و برآورد هزینه‌های تأمین انرژی است؛ بنابراین ضربه ابتدا از مسیر قیمت‌گذاری و ریسک دریایی به اقتصاد وارد می‌شود."
+        ],
+        "impact": "محاصره دریایی برنامه‌ریزی‌شده، با افزایش احتمال اختلال در صادرات نفت، فشار مالی مستقیم بر رژیم و همزمان بی‌ثباتی ارزی/بودجه‌ای را تشدید می‌کند.",
+        "tag": "تحریم‌دریایی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/news/world/oil-prices-surge-above-100-as-us-navy-to-blockade-irans-ports-after-peace-talks-fail/ar-AA20IJXz",
+        "clean_url": "https://www.msn.com/en-us/news/world/oil-prices-surge-above-100-as-us-navy-to-blockade-irans-ports-after-peace-talks-fail/ar-AA20IJXz",
+        "image": null,
+        "timestamp": 1776031456.0
+    },
+    {
         "title_fa": "تهدید ترامپ: ۵۰٪ تعرفه سنگین علیه چین در صورت ارسال تسلیحات به ایران",
         "title_en": "China faces 50pc tariffs if it arms Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.telegraph.co.uk/world-news/2026/04/12/iran-war-latest-news-peace-talks-trump-vance-strait-hormuz",
         "image": "https://www.telegraph.co.uk/content/dam/world-news/2026/04/12/TELEMMGLPICT000477874819_17760240533910_trans_NvBQzQNjv4BqA7N2CxnJWnYI3tCbVBgu9T0aesusvN1TE7a0ddd_esI.jpeg?impolicy=OG-Live",
         "timestamp": 1776029160.0
+    },
+    {
+        "title_fa": "اسرائیل برای مذاکره با لبنان چراغ سبز نشان داد، اما به ضربه‌زدن به حزب‌الله ادامه می‌دهد",
+        "title_en": "Israel Agrees to Talks With Lebanon but Keeps Striking Hezbollah",
+        "summary": [
+            "اسرائیل اعلام کرده که با لبنان وارد مذاکره می‌شود، اما هم‌زمان عملیات علیه حزب‌الله را قطع نکرده است.",
+            "این ترکیبِ «گفت‌وگو» و «ادامه حملات» نشان می‌دهد که هدف از مذاکرات صرفاً اعتمادسازی نیست، بلکه فشار نظامی برای تغییر موازنه میدانی است.",
+            "ادامه ضربات در کنار شروع مذاکرات می‌تواند هزینه سیاسی برای حزب‌الله و زمینه‌سازی برای تحمیل شروط از مسیر نظامی-دیپلماتیک ایجاد کند."
+        ],
+        "impact": "این الگو احتمالاً تنش منطقه‌ای را در کوتاه‌مدت بالا نگه می‌دارد و مسیر تصمیم‌گیری بازیگران در لبنان را به سمت مدیریت بحران تحت فشار می‌برد.",
+        "tag": "لبنان",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TdTYtTGl2Q09qQTdacUpNVUlaN0Vncjg3dS1nMzF6cmo3OEpON0xkRWpJUEFnNWVjOFloQzNsT194ZVRoWW5MZHpsOFowbThfZlA0WkNnVXJlenljQkE1UUw1SG1GbFVIOFNLckMyVVBIV1NNYWpuTFdpT3pITzA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TdTYtTGl2Q09qQTdacUpNVUlaN0Vncjg3dS1nMzF6cmo3OEpON0xkRWpJUEFnNWVjOFloQzNsT194ZVRoWW5MZHpsOFowbThfZlA0WkNnVXJlenljQkE1UUw1SG1GbFVIOFNLckMyVVBIV1NNYWpuTFdpT3pITzA",
+        "image": null,
+        "timestamp": 1776025152.0
     },
     {
         "title_fa": "محور فشار آمریکا: جریان نفت از تنگه هرمز به نفع ریاض، و تشدید ریسک سیاسی برای ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/04/08/politics/negotiations-trump-iran-ceasefire-deal",
         "image": "http://www.bing.com/th?id=ONUT.msykwjtT5QEpcZz-CPJkUw&pid=News",
         "timestamp": 1775649900.0
-    },
-    {
-        "title_fa": "محمدباقر قالیباف: آمریکا توافق آتش‌بس را نقض کرده است",
-        "title_en": "U.S. has violated ceasefire agreement, Iran parliamentary speaker says",
-        "summary": [
-            "قالیباف، رئیس مجلس، آمریکا را متهم کرد که سه بند از طرح ده‌ماده‌ای آتش‌بس ایران را نقض کرده است: ادامه حملات اسرائیل به لبنان، ورود پهپاد به حریم هوایی ایران و محروم کردن ایران از حق غنی‌سازی؛ در چنین وضعیتی مذاکره دوجانبه را نامعقول خواند.",
-            "اختلاف بنیادین بر سر مدیریت تنگه هرمز؛ آمریکا خواستار بازگشایی کامل و بدون عوارض است و ایران بنا بر گزارش‌ها خواستار اخذ عوارض از شناورهاست؛ خبرگزاری فارس از توقف تردد نفت‌کش‌ها همزمان با حملات به لبنان خبر داد و قیمت نفت بیش از 15٪ افت کرد.",
-            "نقض اعلام‌شده آتش‌بس و تناقض در تفسیر مفاد توافق، فشار خارجی و عدم اعتماد متقابل را تشدید می‌کند و فضای مذاکره را تضعیف می‌کند؛ این شکاف نشان‌دهنده ناکارآمدی مدیریت بحران و خطر تشدید اقتصادی-امنیتی برای رژیم است."
-        ],
-        "impact": "نقض آتش‌بس و اختلاف درباره تنگه هرمز احتمال بازگشت به عمل نظامی و تشدید آسیب‌های اقتصادی و سیاسی برای جمهوری اسلامی را بالا می‌برد.",
-        "tag": "تشنج",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html",
-        "clean_url": "https://www.cnbc.com/2026/04/08/ceasefire-iran-war-lebanon.html",
-        "image": "http://www.bing.com/th?id=ONUT.t1oHnLtZeGgPFjLf6zYMZA&pid=News",
-        "timestamp": 1775649360.0
-    },
-    {
-        "title_fa": "آتش‌بس سست میان آمریکا و ایران در معرض تردید؛ اسرائیل لبنان را بمباران می‌کند",
-        "title_en": "Shaky US-Iran ceasefire in doubt as Israel pounds Lebanon",
-        "summary": [
-            "گزارش رویترز می‌گوید تردید جدی نسبت به پایداری آتش‌بس بین آمریکا و ایران وجود دارد، همزمان اسرائیل حملات خود به لبنان را ادامه می‌دهد.",
-            "کاخ سفید اعلام کرده تیم مذاکره‌ای آمریکا درباره ایران به ریاست معاون رئیس‌جمهور جی‌دی ونس برای گفتگو به پاکستان اعزام می‌شود، اقدامی که نشان‌دهنده تلاش دیپلماتیک همزمان با تشدید نظامی است.",
-            "ادامه حملات و تردید نسبت به آتش‌بس فشار خارجی و نظامی را بر رژیم ایران افزایش می‌دهد و می‌تواند منابع اقتصادی و تاب‌آوری سیاسی حاکمیت را تضعیف کند؛ این وضعیت احتمالاً به پیچیده‌تر شدن مدیریت بحران‌های داخلی منجر خواهد شد."
-        ],
-        "impact": "تداوم حملات و شکست احتمالی آتش‌بس، فشار خارجی را افزایش داده و ثبات ساختاری و توان مدیریتی رژیم را بیش از پیش تضعیف می‌کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/trump-agrees-two-week-ceasefire-iran-says-safe-passage-through-hormuz-possible-2026-04-08/",
-        "clean_url": "https://www.reuters.com/world/asia-pacific/trump-agrees-two-week-ceasefire-iran-says-safe-passage-through-hormuz-possible-2026-04-08",
-        "image": "http://www.bing.com/th?id=ONUT.lsEnN73XkKOTlImajXLAcw&pid=News",
-        "timestamp": 1775648940.0
     }
 ]
