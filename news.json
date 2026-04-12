@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "پایان بی‌نتیجه گفت‌وگوهای آمریکا و ایران در پاکستان",
+        "title_en": "The Latest: US and Iranian delegations leave Pakistan after talks end without agreement",
+        "summary": [
+            "هیئت‌های آمریکا و ایران پس از برگزاری مذاکرات در پاکستان، بدون دستیابی به توافق، محل گفت‌وگو را ترک کردند.",
+            "این خروج بدون توافق نشان می‌دهد شکاف در مسائل محوری میان دو طرف باقی مانده و فضای لازم برای معامله سیاسی یا فنی شکل نگرفته است.",
+            "چنین سناریویی معمولاً ریسک تبدیل شدن بن‌بست به مسیرهای پرهزینه‌تر را بالا می‌برد، چون کانال مذاکره به نتیجه عملی نرسیده است."
+        ],
+        "impact": "بی‌نتیجه ماندن مذاکرات در پاکستان می‌تواند فشار و عدم‌قطعیت را برای طرفین افزایش دهد و احتمال تشدید تنش‌های مرتبط با موضوع مورد اختلاف را بالا ببرد.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Washington Post",
+        "url": "https://www.timesunion.com/news/article/the-latest-us-vice-president-vance-leaves-22201921.php",
+        "clean_url": "https://www.timesunion.com/news/article/the-latest-us-vice-president-vance-leaves-22201921.php",
+        "image": null,
+        "timestamp": 1775991858.0
+    },
+    {
+        "title_fa": "پایان مذاکرات آمریکا-ایران بدون توافق؛ «استریتینگ» ابراز ناامیدی کرد",
+        "title_en": "US-Iran talks ending without deal disappointing, Streeting says",
+        "summary": [
+            "گفت‌وگوهای آمریکا و ایران بدون دست‌یابی به توافق پایان یافته و استریتینگ آن را «ناامیدکننده» توصیف کرده است.",
+            "این جمع‌بندی نشان می‌دهد کانال دیپلماتیک فعلاً نتوانسته به یک خروجی مشخص برسد و شکاف در منافع/پیش‌شرط‌ها باقی مانده است.",
+            "تا زمانی که نتیجه ملموس اعلام نشود، ریسک ادامه‌دار ماندن فشارهای ساختاری و بی‌ثباتی اقتصادی-سیاسی برای هر دو طرف بالا می‌ماند."
+        ],
+        "impact": "عدم دستیابی به توافق، مسیر کاهش تنش را مسدود و احتمال تداوم هزینه‌های اقتصادی و سیاسی را افزایش می‌دهد.",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/politics/international-relations/us-iran-talks-ending-without-deal-disappointing-streeting-says/ar-AA20HpIE",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-iran-talks-ending-without-deal-disappointing-streeting-says/ar-AA20HpIE",
+        "image": null,
+        "timestamp": 1775986084.0
+    },
+    {
         "title_fa": "ناکامی آمریکا و ایران در رسیدن به توافق صلح پس از گفت‌وگوهای طولانی در پاکستان",
         "title_en": "US and Iran fail to reach peace deal after marathon talks in Pakistan",
         "summary": [
@@ -90,6 +126,24 @@
         "timestamp": 1775967608.0
     },
     {
+        "title_fa": "تشدید درگیری ایران و اسرائیل؛ شکست گفت‌وگوهای اسلام‌آباد، حمله اسرائیلی به جنوب لبنان و تلاش آمریکا برای تغییر وضعیت در تنگه هرمز",
+        "title_en": "Iran Israel War Live Updates: Mideast Tension Escalates As Lebanon Strikes Israel After Failed Islamabad Talks",
+        "summary": [
+            "گفت‌وگوهای آمریکا و ایران در اسلام‌آباد با وجود اختلاف شدید بر سر «اهرم‌ها» برای پایان جنگ، بدون توافق پایان یافت؛ تلویزیون دولتی ایران اعلام کرد هیئت ایرانی پس از ناکامی مذاکرات پایتخت پاکستان را ترک کرده است.",
+            "آمریکا با پیشنهاد ۱۵ ماده‌ای از جمله سازوکارهای نظارت و عقب‌نشینی در برنامه هسته‌ای ایران، همچنین «بازگشایی» تنگه هرمز را مطرح کرده؛ در مقابل، پیشنهاد ۱۰ ماده‌ای ایران بر پایان تضمینی جنگ و کنترل تنگه هرمز و توقف حملات اسرائیل علیه حزب‌الله تأکید داشته است.",
+            "در سطح میدانی، یک حمله اسرائیلی یک‌شنبه صبح به خانه‌ای در شهر مارعوب در جنوب لبنان، طبق خبرگزاری ملی لبنان، به کشته شدن ۶ نفر انجامید؛ همزمان گفته می‌شود با کاهش نسبی حملات بر بیروت، حملات در جنوب لبنان تشدید شده و این روند کنار تشدید عملیات زمینی قرار گرفته است."
+        ],
+        "impact": "شکست مذاکرات و ادامه اختلاف بر سر تنگه هرمز و توقف حملات حزب‌الله، ریسک چرخه تشدید نظامی را بالا می‌برد و عملاً «تغییر وضعیت» مدنظر آمریکا را به سمت فشار بیشتر و محاسبات پرهزینه‌تر سوق می‌دهد.",
+        "tag": "escalation",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-israel-war-live-updates-us-iran-news-trump-pakistan-islamabad-talks-lebanon-strikes-strait-of-hormuz-liveblog-154058656",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-israel-war-live-updates-us-iran-news-trump-pakistan-islamabad-talks-lebanon-strikes-strait-of-hormuz-liveblog-154058656",
+        "image": "http://www.bing.com/th?id=ONUT.PLxhFxzwZ1M-UPcLUFaQvQ&pid=News",
+        "timestamp": 1775967180.0
+    },
+    {
         "title_fa": "شکست گفت‌وگوهای آمریکا و ایران ضربه به امیدها برای خروج از بحران",
         "title_en": "Failure of US-Iran talks is a blow to hopes of finding an off-ramp to crisis",
         "summary": [
@@ -106,6 +160,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdjYteG5CSFZPci1JYnFEcUpnajBSbTRqMGlQemlSOXJoVXBjU0tGNUxJeHAyRUluMkNxOU1NMm5DX3lnaGdqRFRnMURCSDBoWFNzUWctenZTTjBtSEFtbVdLVk5kM3Aya2ZBcFFhZnBNbXQzQ2pfUEtnQXlpeU9ib1NuYlBCeENP",
         "image": null,
         "timestamp": 1775965320.0
+    },
+    {
+        "title_fa": "پایان مذاکرات صلح آمریکا و ایران بدون توافق؛ هیئت‌ها از پاکستان خارج شدند",
+        "title_en": "US-Iran peace talks end without a deal as delegations leave Pakistan",
+        "summary": [
+            "خبرگزاری رویترز گزارش می‌کند مذاکرات صلح میان آمریکا و ایران در پاکستان به بن‌بست رسید و دو هیئت بدون دستیابی به توافق، محل را ترک کردند.",
+            "طبق این گزارش، تلاش‌ها برای رسیدن به چارچوبی جهت پایان «جنگ» میان دو طرف (همان‌طور که متن خبری اشاره می‌کند) در نهایت به نتیجه نرسید و خروج هیئت‌ها نشان‌دهنده شکست در موضوعات اختلافی است.",
+            "جزئیات بیشتر درباره علت دقیق اختلاف یا محتوای مذاکرات در این بخش از متن ارسال‌شده ارائه نشده، اما خودِ «عدم توافق» و خروج هماهنگ هیئت‌ها از پاکستان پیام سیاسی روشنی دارد: فشار دیپلماتیک فعلاً به معامله منتهی نشده است."
+        ],
+        "impact": "بن‌بست در مذاکرات یعنی مسیر کاهش تنش از طریق مذاکره فعلاً بسته می‌ماند و احتمال تداوم یا تشدید رفتارهای پرریسک در ادامه افزایش می‌یابد.",
+        "tag": "مذاکرات",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-iran-peace-talks-end-without-a-deal-as-delegations-leave-pakistan/ar-AA20HHNn",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-peace-talks-end-without-a-deal-as-delegations-leave-pakistan/ar-AA20HHNn",
+        "image": "http://www.bing.com/th?id=ONUT.iPa_gbOA7yERyhKD5W5Keg&pid=News",
+        "timestamp": 1775964683.0
     },
     {
         "title_fa": "پایان مذاکرات آتش‌بس آمریکا و ایران در پاکستان؛ ایران از «مطالبات افراطی» آمریکا می‌گوید و اختلاف بر سر چند موضوع کلیدی باقی ماند",
@@ -376,6 +448,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
         "image": null,
         "timestamp": 1775942400.0
+    },
+    {
+        "title_fa": "خروج ونس از پاکستان پس از بن‌بست در مذاکرات جنگ ایران",
+        "title_en": "Live updates: Vance leaves Pakistan after impasse in Iran war negotiations",
+        "summary": [
+            "بر اساس گزارش، ونس پاکستان را ترک کرده چون مذاکرات مربوط به آتش‌بس/کاهش تنش در جنگ ایران به بن‌بست خورده و توافقی حاصل نشده است.",
+            "در خبر اشاره شده که ایران و آمریکا (طرف‌های مذاکره) گفت‌وگو را بدون نتیجه پایان داده‌اند و هر طرف دیگری را مقصر معرفی می‌کند.",
+            "این رخداد نشان می‌دهد مسیر دیپلماسی برای مهار پیامدهای جنگ فعلاً مسدود شده و هزینه سیاسیِ ادامه بن‌بست بر عهده همه طرف‌ها خواهد بود."
+        ],
+        "impact": "بن‌بست در مذاکرات، احتمال تداوم یا تشدید تنش‌ها را بالا می‌برد چون کانال توقف یا محدودسازی جنگ فعلاً باز نمی‌ماند.",
+        "tag": "مذاکره",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-12-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-12-2026",
+        "image": "http://www.bing.com/th?id=ONUT.AOWXbndIruVNa5ohnexnfA&pid=News",
+        "timestamp": 1775941920.0
     },
     {
         "title_fa": "خبر توقف درگیری آمریکا–اسرائیل–ایران: «با وجود شکست‌های میدانی، انتظارات را پایین نیاوردند»",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/netanyahu-says-us-iran-ceasefire-031742583.html",
         "image": null,
         "timestamp": 1775620944.0
-    },
-    {
-        "title_fa": "طرح صلح ده‌ماده‌ای ایران: احتمال موافقت ترامپ با هر پیشنهاد چقدر است",
-        "title_en": "Iran’s 10-Point Peace Plan: How Likely Trump Will Agree To Each Proposal",
-        "summary": [
-            "رسانه گزارش می‌دهد ایران یک طرح صلح ده‌ماده‌ای را افشا کرده و دونالد ترامپ آن را «پایه‌ای قابل مذاکره» خوانده؛ کاخ سفید هم همزمان توقف دو هفته‌ای حملات هوایی آمریکا را در حین مذاکرات اعلام کرده است.",
-            "اعلام توقف حملات، فشار نظامی مستقیم ایالات متحده را موقتاً کاهش می‌دهد و به تهران «زمان نفس‌گیری» می‌دهد؛ با این حال گزارش هیچ نشانه‌ای از لغو یا تسهیل تحریم‌ها را ذکر نکرده است.",
-            "متن خبر واکنش داخلی یا تغییر در سیاست‌های اقتصادی جمهوری اسلامی را پوشش نمی‌دهد؛ بنابراین این ابتکار فعلاً یک مانور دیپلماتیک است و نه پاسخی به ناکارآمدی ساختاری داخلی."
-        ],
-        "impact": "توقف دو هفته‌ای حملات، اهرم فشار نظامی آمریکا را کوتاه‌مدت تضعیف کرده و به رژیم وقت می‌فروشد، اما بدون تغییر در وضعیت تحریم‌ها یا اصلاحات داخلی این اقدام ثبات بلندمدت نظام را تضمین نمی‌کند.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/iran-war-ten-point-peace-plan-how-likely-donald-trump-agree-11798406",
-        "clean_url": "https://www.newsweek.com/iran-war-ten-point-peace-plan-how-likely-donald-trump-agree-11798406",
-        "image": "http://www.bing.com/th?id=ONUT.5RaYdOA9hzAV1dVY7dnUEQ&pid=News",
-        "timestamp": 1775620680.0
-    },
-    {
-        "title_fa": "آغاز آتش‌بس دو هفته‌ای میان آمریکا و ایران؛ اسرائیل: لبنان مشمول نیست",
-        "title_en": "Live updates: Iran war ceasefire begins, Israel says Lebanon not included",
-        "summary": [
-            "آمریکا و ایران به آتش‌بس دو هفته‌ای توافق کردند که بلافاصله اجرا شد؛ این توافق چند ساعت پیش از مهلت تعیین‌شده از سوی دونالد ترامپ برای بازگشایی تنگه هرمز اعلام شد.",
-            "اسرائیل صراحتاً اعلام کرد که لبنان در دامنه این آتش‌بس قرار ندارد و بنابراین جنبه‌های منطقه‌ای درگیری‌ها همچنان پیچیده باقی می‌ماند.",
-            "آتش‌بس موقتی است و هیچ‌یک از طرف‌ها تعهد به حل ساختاری اختلافات یا رفع فشارهای اقتصادی و تحریمی نشان نداده‌اند."
-        ],
-        "impact": "این آتش‌بس کوتاه‌مدت به رژیم اجازه نفس‌کشی سیاسی و نظامی می‌دهد اما تا زمانی که تحریم‌ها، ناکارآمدی اقتصادی و مدیریت بحران پابرجا بماند، ثباتِ بلندمدت رژیم تضمین نشده و فشارهای داخلی می‌توانند ظرف همان دوره دو هفته‌ای تشدید شوند.",
-        "tag": "آتش‌بس",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-ceasefire-trump-hormuz-israel-lebanon-rcna267205",
-        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-ceasefire-trump-hormuz-israel-lebanon-rcna267205",
-        "image": "http://www.bing.com/th?id=ONUT.51xDw15PGfgbqbKcAEkzkA&pid=News",
-        "timestamp": 1775619720.0
-    },
-    {
-        "title_fa": "رشد اکوسیستم رمزارز ایران به ۷.۷۸ میلیارد دلار تا ۲۰۲۵",
-        "title_en": "How Iran is thriving on Bitcoin",
-        "summary": [
-            "براساس گزارش، تا ۲۰۲۵ ارزش اکوسیستم رمزارز ایران به ۷٫۷۸ میلیارد دلار رسیده که با تولید ناخالص داخلی برخی کشورها قابل قیاس است.",
-            "چنین حجمی از دارایی رمزی می‌تواند ابزار عملیاتی برای دورزدن تحریم‌ها و جابه‌جایی ارزش خارج از سیستم بانکی رسمی باشد؛ ساختاراً این امر هم بقای کوتاه‌مدت رژیم را تسهیل می‌کند و هم پایه‌های درآمدی و شفافیت مالی دولت را تضعیف می‌کند.",
-            "رشد سریع رمزارزها نشانه ناکامی مدیریت پولی و ارزی است؛ خروج سرمایه و جستجوی دارایی‌های جایگزین می‌تواند فشار اقتصادی و نارضایتی اجتماعی را تشدید کند."
-        ],
-        "impact": "تقویت بازار رمزارز به تهران امکان‌های بیشتری برای کاهش اثربخشی تحریم‌ها و فرار از کنترل مالی رسمی می‌دهد که مدیریت بحران اقتصادی را پیچیده‌تر می‌کند.",
-        "tag": "رمزارز",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Business Today",
-        "url": "https://www.msn.com/en-in/money/topstories/how-iran-is-thriving-on-bitcoin/ar-AA20o6MD",
-        "clean_url": "https://www.msn.com/en-in/money/topstories/how-iran-is-thriving-on-bitcoin/ar-AA20o6MD",
-        "image": "https://akm-img-a-in.tosshub.com/businesstoday/images/story/202604/69d534959d676-by-2021--iran-controlled-75-of-the-global-bitcoin-hashrate--ranking-fifth-in-the-world--behind-onl-074503776-16x9.jpg",
-        "timestamp": 1775617860.0
-    },
-    {
-        "title_fa": "تعلیق حملات پس از توافق ترامپ و ایران روی آتش‌بس دو هفته‌ای پابرجا مانده است",
-        "title_en": "Halt in strikes appears to hold after Trump, Iran agree to 2-week ceasefire",
-        "summary": [
-            "آتش‌بس دو هفته‌ای بین واشنگتن و تهران ظاهراً برقرار مانده و هر دو طرف ادعای پیروزی کرده‌اند؛ این توقف پس از نزدیک به شش هفته بمباران رخ داده است.",
-            "وقفه موقت در حملات فرصت فوری برای کاهش تلفات و خرابی فراهم می‌آورد، اما گزارش نشانی از تضمین بلندمدت یا سازوکارهای نظارتی روشن نمی‌دهد.",
-            "از منظر ثبات داخلی، آتش‌بس ممکن است فشار نظامی را کاهش دهد اما تأثیر آن بر ضعف‌های ساختاری اقتصادی و سیاسی که رژیم را تضعیف کرده‌اند در کوتاه‌مدت محدود خواهد بود."
-        ],
-        "impact": "اثر: آتش‌بس دو هفته‌ای تنش فوری را کاهش می‌دهد اما فاقد تضمین استمرار است و بدون توافق جامع احتمال بازگشت سریع خصومت‌ها بالاست.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/04/08/trump-iran-war-ceasefire-israel/",
-        "clean_url": "https://www.washingtonpost.com/world/2026/04/08/trump-iran-war-ceasefire-israel",
-        "image": "http://www.bing.com/th?id=ONUT.mfQ62O5MC4mBvm2kC4aypA&pid=News",
-        "timestamp": 1775616180.0
-    },
-    {
-        "title_fa": "دونالد ترامپ با تهدید رکیک؛ خواستار باز شدن تنگه هرمز شد",
-        "title_en": "Trump issues expletive-laden threat to Iran demanding Strait of Hormuz be opened",
-        "summary": [
-            "دونالد ترامپ، رئیس‌جمهور آمریکا، تهدید کرد که اگر تنگه هرمز باز نشود «سه‌شنبه روز نیروگاه و پل» خواهد بود و وعده داد «جهنم» بر سر ایران فروخواهد آمد و احتمال «انفجار همه‌چیز و تصاحب نفت» را مطرح کرد؛ او هم‌زمان از مذاکرات عمیق و احتمال حصول توافق سخن گفت.",
-            "گزارش‌ها حاکی است نیروی دریایی و کشتی‌ها در حوالی ورودی تنگه لنگر انداخته‌اند و بسته شدن این مسیر که معمولاً حدود 20٪ نفت و گاز جهان از آن می‌گذرد عرضه جهانی را کاهش داده و باعث افزایش قیمت‌ها و نگرانی مصرف‌کنندگان شده است.",
-            "واکنش شهروندان ایرانی شامل ترس و احساس ناتوانی است («ما نمی‌توانیم کاری بکنیم») که نمایانگر افزایش فشار خارجی و ضربه به حس امنیت داخلی است و مسیر را به سوی احتمال تشدید مستقیم نظامی باز می‌کند."
-        ],
-        "impact": "تهدید مستقیم به حمله زیرساختی و تصاحب منابع، همراه با فشار عملیاتی در تنگه هرمز، ساختار ثبات رژیم را از طریق تشدید فشار اقتصادی و افزایش نارضایتی و ترس عمومی بیشتر تضعیف می‌کند.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/live/cm29zmpdj3vt",
-        "clean_url": "https://www.bbc.com/news/live/cm29zmpdj3vt",
-        "image": "http://www.bing.com/th?id=ONUT.poLfDaHdTdHDP3oeV21sLA&pid=News",
-        "timestamp": 1775613000.0
     }
 ]
