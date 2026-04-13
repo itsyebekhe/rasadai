@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "افت بیش از ۱.۵٪ شاخص‌های هند با جهش قیمت نفت؛ فشار اقتصادی از مسیر انرژی",
+        "title_en": "India's Sensex, Nifty fall by over 1.5% on surge in oil prices",
+        "summary": [
+            "طبق گزارش TASS، شاخص‌های Sensex و Nifty هند هم‌زمان بیش از ۱.۵٪ کاهش یافتند که عامل اصلی آن «افزایش قیمت نفت» اعلام شده است.",
+            "این افت نشان می‌دهد نوسان انرژی مستقیماً به هزینه‌ها و انتظارات بازار منتقل شده و ریسک‌پذیری سرمایه‌گذاران را پایین آورده است.",
+            "از منظر تحلیل فشار خارجی، گرانی نفت می‌تواند تورم وارداتی و عدم‌قطعیت اقتصادی را تشدید کند و در چنین شرایطی به سرعت به بازارهای سهام منتقل می‌شود."
+        ],
+        "impact": "جهش قیمت نفت اثر زنجیره‌ای روی بازارهای مالی دارد و با کاهش Sensex و Nifty، فشار اقتصادی از مسیر انرژی را پررنگ می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/economy/2115881",
+        "clean_url": "https://tass.com/economy/2115881",
+        "image": null,
+        "timestamp": 1776067020.0
+    },
+    {
         "title_fa": "گفت‌وگوهای آمریکا و ایران در اسلام‌آباد: چه چیزی مانع توافق شد و گام بعدی چیست؟",
         "title_en": "US-Iran Talks: What Prevented a Deal and What's Next?",
         "summary": [
@@ -126,6 +144,78 @@
         "timestamp": 1776044400.0
     },
     {
+        "title_fa": "تهدید «محاصره دریایی» تنگه هرمز؛ آمریکا می‌گوید ناوگان را متوقف می‌کند، ایران می‌گوید کنترل کامل دارد",
+        "title_en": "Iran War News LIVE Updates: What does ‘naval blockade’ mean? Ships stop moving through Strait of Hormuz",
+        "summary": [
+            "آمریکا پس از شکست مذاکرات صلح میان ایران و آمریکا در اسلام‌آباد، به شکل علنی تهدید کرده است که نیروی دریایی می‌تواند به‌سرعت «محاصره دریایی» بر تردد کشتی‌ها در تنگه هرمز اعمال کند؛ طبق تعریف حقوق عملیات دریایی، هدف جلوگیری از ورود/خروج شناورها از مناطق تحت کنترل دشمن است.",
+            "سپاه پاسداران مدعی شد نیروهای امنیتی ایران کنترل کامل تنگه هرمز را دارند و در صورت «اقدام اشتباه» دشمنان در «گرداب مرگبار» گرفتار می‌شوند؛ همزمان رئیس نیروی دریایی ایران تهدید ترامپ را «مسخره و خنده‌دار» خواند و گفت نیروهای نظامی حرکات ناوگان تهاجمی آمریکا را رصد و نظارت می‌کنند.",
+            "از نظر اثر عملی، مدیرعامل «Vespucci Maritime» به بی‌بی‌سی گفته است که تهدید ترامپ احتمالاً اثر محدود دارد چون تعداد کشتی‌های عبوری کم است و آن‌هایی هم که پول پرداخت می‌کنند، پیش‌تر تحت تحریم‌های آمریکا قرار دارند؛ در ادامه، چین نیز از همه طرف‌ها خواست آرامش و خویشتنداری را رعایت کنند."
+        ],
+        "impact": "تهدید محاصره دریایی و پاسخ متقابل ایران، ریسک اختلال در کریدور حیاتی هرمز را بالا می‌برد، اما طبق گزارش، اثر عملی فوری می‌تواند محدود باشد و به سطح اجرای واقعی و میزان کشتی‌های درگیر بستگی دارد.",
+        "tag": "هرمز",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/world/us-iran-war-live-updates-ceasefire-brent-crude-oil-prices-gold-rates-market-nuclear-weapon-hormuz-kharg-trump-13-april-11776037393331.html",
+        "clean_url": "https://www.livemint.com/news/world/us-iran-war-live-updates-ceasefire-brent-crude-oil-prices-gold-rates-market-nuclear-weapon-hormuz-kharg-trump-13-april-11776037393331.html",
+        "image": "http://www.bing.com/th?id=ONUT.uR4c1s49QSOBYieZ_Kh_LQ&pid=News",
+        "timestamp": 1776043980.0
+    },
+    {
+        "title_fa": "ترمپ بعد از شکست مذاکرات معاونش، تهدید به نابودی ایران و محاصره تنگه هرمز را تشدید کرد",
+        "title_en": "Trump claims he could ‘take out Iran in one day’ after saying military was ‘LOCKED AND LOADED’ following peace talks failure",
+        "summary": [
+            "ترمپ در گفت‌وگو با فاکس نیوز ادعا کرد می‌تواند «ایران را یک‌روزه» هدف قرار دهد و حتی توان نیروگاهی و زیرساخت انرژی ایران را ظرف یک‌ساعت از کار بیندازد؛ هم‌زمان این ادعاها را چند ساعت پس از پایان مذاکرات معاونش در اسلام‌آباد مطرح کرد.",
+            "هم‌زمان با ناکامی مذاکرات، ترمپ اعلام کرد نیروی دریایی آمریکا فرایند محاصره تنگه هرمز را آغاز می‌کند و «هر کشتی» که برای عبور از این مسیر به دولت ایران «عوارض» پرداخت کند یا قصد ورود/خروج از تنگه را داشته باشد، مشمول ممانعت می‌شود.",
+            "این رویکرد با اظهارات قبلی در شبکه‌های اجتماعی همراه شد و نگرانی از تشدید مستقیم رویارویی نظامی و فشار اقتصادی جهانی—به‌ویژه به‌خاطر نقش حیاتی تنگه هرمز در تجارت انرژی—را بالا برد."
+        ],
+        "impact": "اگر این تهدیدها به اقدام عملی تبدیل شود، ریسک درگیری مستقیم و اختلال جدی در جریان انرژی و تجارت جهانی به‌طور همزمان افزایش می‌یابد.",
+        "tag": "تحریک",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-says-military-locked-loaded-133820945.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-says-military-locked-loaded-133820945.html",
+        "image": "http://www.bing.com/th?id=ONUT.YSt9H6mnoq5kid7ozrtkkQ&pid=News",
+        "timestamp": 1776043500.0
+    },
+    {
+        "title_fa": "تلاش برای توافق هسته‌ای و آتش‌بس؛ بعد از شکست مذاکرات چه سناریویی پیش روست؟",
+        "title_en": "After Iran talks falter, the big question is what happens next?",
+        "summary": [
+            "مذاکرات عالی‌رتبه ایران و آمریکا در اسلام‌آباد پس از ۲۱ ساعت نتوانست اختلافات گسترده ۴۷ ساله را جمع کند؛ فاصله اصلی بر سر بی‌اعتمادی دیرینه درباره برنامه هسته‌ای و پیامدهای جنگ اخیر، به‌ویژه کنترل ایران بر تنگه راهبردی هرمز، باقی مانده است.",
+            "مذاکرات با «تابوی سیاسی» شکستن رابطه مستقیم طرفین آغاز شد اما حالا محور سؤال این است که سرنوشت آتش‌بس پیشنهادی/مورد مناقشه دو هفته‌ای چه می‌شود؛ همچنین گزارش‌هایی وجود دارد که برخی گفت‌وگوها پس از اعلام «آخرین و بهترین پیشنهاد» از سوی معاون رئیس‌جمهور آمریکا ادامه یافته است.",
+            "تمرکز آمریکا طبق گفته JD Vance بر گرفتن تعهد روشن از ایران است که به دنبال سلاح هسته‌ای یا ابزارهای رسیدن سریع به آن نباشد؛ در مقابل ایران همچنان بر حق غنی‌سازی پای می‌فشارد و در دور قبلی پیشنهادهایی مانند رقیق‌سازی بخشی از ذخیره اورانیوم ۶۰ درصدی داده بود، اما درخواست‌های مرتبط با هرمز و محدودیت‌های سخت‌گیرانه آمریکا/مخالفان هنوز برآورده نشده است."
+        ],
+        "impact": "شکست مذاکرات یعنی احتمال از سرگیری فشار و بی‌ثباتی بیشتر در چارچوب آتش‌بس و ادامه شوک‌های اقتصادی ناشی از تهدید/اختلال در تنگه هرمز افزایش می‌یابد.",
+        "tag": "مذاکرات",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/c5y943x2g8qo",
+        "clean_url": "https://www.bbc.com/news/articles/c5y943x2g8qo",
+        "image": "http://www.bing.com/th?id=ONUT.uweYIpqHiO_X9UZ17eOFCg&pid=News",
+        "timestamp": 1776042840.0
+    },
+    {
+        "title_fa": "ونِس: مذاکرات با ایران برای پایان جنگ خاورمیانه به توافق نرسید",
+        "title_en": "Vance says talks failed to reach deal with Iran on ending Mideast war",
+        "summary": [
+            "جی.دی. ونِس پس از ۲۱ ساعت مذاکره در اسلام‌آباد اعلام کرد توافقی برای پایان جنگ حاصل نشد و می‌گوید «پیشنهاد نهایی و بهترین» را به تهران داده است؛ محور درخواست واشنگتن، «تعهد بنیادین» ایران برای عدم دستیابی به سلاح هسته‌ای بود، با این ادعا که چنین تعهدی دیده نشده است.",
+            "آمریکا هم‌زمان اعلام کرده در چارچوب مذاکرات، حملات علیه اسرائیل را برای دو هفته متوقف می‌کند؛ پاکستان نیز می‌گوید همچنان تسهیل‌گر گفت‌وگوها خواهد بود و از دو طرف می‌خواهد به آتش‌بس موقت احترام بگذارند، در حالی که ایران از «مطالبات غیرمنطقی» آمریکا سخن می‌گوید و تأکید می‌کند انتظار توافق در یک جلسه بعد از ۴۰ روز جنگ واقع‌بینانه نبوده است.",
+            "این مذاکرات در بستر تشدید تنش‌ها آغاز شد: حمله آمریکا و اسرائیل به ایران در ۲۸ فوریه و پاسخ تهران، جنگ را گسترش داده و به اقتصاد جهانی ضربه زده است؛ همچنین مسئله تنگه هرمز در روایت‌ها پررنگ است (ادعاهای آمریکا درباره حرکت ناوهای مین‌روب و اتهام ایران به «مطالبات بیش از حد» درباره مسیر دریایی)، و ترامپ نیز در جریان گفت‌وگوها گفت آمریکا از نظر نظامی «پیروز شده» است."
+        ],
+        "impact": "شکست مذاکرات یعنی توقف یا کاهش فشارها فقط به شکل محدود و موقت پیش می‌رود و با تداوم اختلاف بر سر تضمین‌های هسته‌ای و کنترل ریسک هرمز، احتمال ادامه چرخه درگیری بالا می‌ماند.",
+        "tag": "ایران-آمریکا",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/vance-islamabad-iran-talks-overshadowed-064918594.html",
+        "clean_url": "https://www.yahoo.com/news/articles/vance-islamabad-iran-talks-overshadowed-064918594.html",
+        "image": "http://www.bing.com/th?id=ONUT.Jy905JTQfW6tw79yQWVnCA&pid=News",
+        "timestamp": 1776042660.0
+    },
+    {
         "title_fa": "تحلیل نظرخواهانه: ماجرای اسلام‌آباد و برداشت واشنگتن پست از سناریوی ترامپ",
         "title_en": "Opinion | What really happened in Islamabad — and what Trump is trying now",
         "summary": [
@@ -142,6 +232,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR2p1ZVdLY3h5QkJLNGRFMG9fZTZsSHVnM0tNRE1QbkpOQWI3R2tqQUVQWHgtcm1mSi1uUVY0RlRrVHFHRndNZjdGaXAtWUcxMno3eXhtUWlQYWFOWGZUbTMxcklvM1RGUnBEU2YwQUtYMFJ5Sm94a3ZyVkNVdE02ZTZwV2ctR0p2ZWNFXzd2bFRIOGVxNzRJdWpYbjg4Mm93bzhKSGZ0enBJWGc",
         "image": null,
         "timestamp": 1776037845.0
+    },
+    {
+        "title_fa": "واشنگتن پس از شکست گفت‌وگوها با تهران، هیئت‌ها را از اسلام‌آباد خارج کرد",
+        "title_en": "Vance, US negotiators depart meeting with Iran, Pakistan delegation after peace talks fail",
+        "summary": [
+            "طبق گزارش فاکس‌نیوز، JD Vance و مقامات کاخ سفید پس از ناکامی در رسیدن به توافق صلح با ایران، از اسلام‌آباد خارج شدند.",
+            "این خروج پس از پایان جلسه با هیئت‌های مرتبط شامل هیئت پاکستان انجام شد، اما نتیجه مذاکرات توافق نبود.",
+            "شکست گفت‌وگوها، سطح فشار و بن‌بست در کانال‌های دیپلماتیک آمریکا-ایران را پررنگ می‌کند و احتمالاً چرخه تصمیم‌گیری را به مسیرهای سخت‌تر می‌برد."
+        ],
+        "impact": "این رخداد نشان‌دهنده تداوم بن‌بست در مذاکره است و می‌تواند به افزایش فشارهای سیاسی و اقدامات اهرمی به‌جای توافق منجر شود.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.35,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iranar-vance-strait-hormuz-april-12",
+        "clean_url": "https://www.foxnews.com/live-news/us-iranar-vance-strait-hormuz-april-12",
+        "image": "http://www.bing.com/th?id=ONUT.6sHKXji_SXiognVtMlgQMw&pid=News",
+        "timestamp": 1776036840.0
     },
     {
         "title_fa": "ترامپ اعلام کرد محاصره بنادر ایران از دوشنبه آغاز می‌شود؛ مذاکرات صلح بی‌نتیجه پایان یافت",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLVZ2aXNYWERoaVZBdWlxUWpCX3BMQlVCWjd3ZEpQZ2dKN21aR3lwMGdDWkVSM0Z3T2JvVzA4ZjZMcXFRSWtrUjJ3cno0MHFwQ0phWkdGdkIzY0Z5RFhkNlBpQTRsSjNUTk10emVzaEZ3NlhxQjU5Tkxsa3NTRU5VQUVMamkwUU9GeVR2WTA3MUt4dTM0QjFVQ1hESXliT0s2ZEtPVHNkVnBKb1lrWXdqdlZBRTBEVGJLVGlRVzhvNXdscFUwanloQTVwb1VOUQ",
         "image": null,
         "timestamp": 1775685944.0
-    },
-    {
-        "title_fa": "آتش‌بس جنگ ایران ممکن است در حال از هم پاشیدن باشد: بروز‌رسانی‌ها",
-        "title_en": "The Iran War Cease-fire May Already Be Unraveling: Updates",
-        "summary": [
-            "آمریکا و ایران آتش‌بس دو هفته‌ای اعلام کردند، اما آتش‌بس شکننده است: چندین بازیگر همچنان شلیک می‌کنند و اسرائیل به رغم فشارها به بمباران اهداف در لبنان ادامه می‌دهد که طرف‌های آمریکایی و اسرائیلی می‌گویند شامل توافق نیست.",
-            "تنگه هرمز همچنان تحت کنترل ایران مانده و دوباره بسته شده؛ این اقدام اهرم راهبردی تهران را تقویت و خطر تصادم دریایی با آمریکا و متحدانش را افزایش می‌دهد.",
-            "اختلاف عمیق میان خواست‌های جنگ‌پایان آمریکا و ایران، همراه با ادامه ضربات در لبنان، فضای آتش‌بس را بی‌ثبات نگه داشته و احتمال بازگشت سریع درگیری یا تشدید فشارهای بین‌المللی و تحریم‌ها را افزایش می‌دهد."
-        ],
-        "impact": "شکنندگی آتش‌بس و بسته شدن هرمز ریسک تشدید نظامی و افزایش انزوای بین‌المللی رژیم را بالا می‌برد و آن را در موقعیتی ساختاریاً آسیب‌پذیر قرار می‌دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "New York Magazine",
-        "url": "https://nymag.com/intelligencer/article/iran-war-cease-fire-aftermath-trump-negotiations-live-updates.html",
-        "clean_url": "https://nymag.com/intelligencer/article/iran-war-cease-fire-aftermath-trump-negotiations-live-updates.html",
-        "image": "http://www.bing.com/th?id=ONUT.IBlywClHFUOU0raobNuNPw&pid=News",
-        "timestamp": 1775681700.0
-    },
-    {
-        "title_fa": "بررسی واقعیات: اهداف ترامپ در جنگ با ایران عمدتاً محقق نشده‌اند",
-        "title_en": "Fact check: Trump's objectives in the war with Iran have largely not been achieved",
-        "summary": [
-            "NPR در بررسی خود نتیجه می‌گیرد که بسیاری از اهداف اعلام‌شده دولت ترامپ در مواجهه با ایران عمدتاً تحقق نیافته‌اند.",
-            "اهداف مشخصی که معمولاً به آن‌ها اشاره می‌شود—تضعیف ساختار توان سیاسی رژیم، متوقف کردن پیشرفت‌های حساس، و کاهش نفوذ منطقه‌ای—به‌طور ملموس حاصل نشده‌اند یا دستاوردهای محدود داشته‌اند.",
-            "فشار حداکثری و اقدامات نظامی محدود نتایج راهبردی مورد ادعا را ایجاد نکرده و در عین حال هزینه‌های اقتصادی را برای مردم افزایش داده و چشم‌انداز تشدید تنش‌ها را حفظ کرده است."
-        ],
-        "impact": "پیامد کلی این است که تحریم‌ها و فشارها رژیم را سرنگون نکرده‌اند اما اقتصاد را آسیب‌پذیرتر و خشم عمومی را افزایش داده‌اند؛ ثبات سیاسی کلان به‌طور نسبی برقرار مانده است.",
-        "tag": "تحریم‌ها",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlBqLWRBRFRrM3gzSnZXSmYtTnZXaUdpOHFqUGIxZFB2VlJwRDYxWTdoUlBEMS1zNFJOS00xNFNObkNrd0tCd3ZDZl92a3dzZG9ScDBSVHB4Mk5WcVJ3SG9xTjUwdXZqYVR4NW0wRkxTaDJmWHNKTS1qRE5JLTh0NlNnVHFtYklVYXFXX3JzOVRPNExnbmxScGJKOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYlBqLWRBRFRrM3gzSnZXSmYtTnZXaUdpOHFqUGIxZFB2VlJwRDYxWTdoUlBEMS1zNFJOS00xNFNObkNrd0tCd3ZDZl92a3dzZG9ScDBSVHB4Mk5WcVJ3SG9xTjUwdXZqYVR4NW0wRkxTaDJmWHNKTS1qRE5JLTh0NlNnVHFtYklVYXFXX3JzOVRPNExnbmxScGJKOA",
-        "image": null,
-        "timestamp": 1775681358.0
-    },
-    {
-        "title_fa": "جنگ آمریکا با ایران چه دستاوردی داشته است؟",
-        "title_en": "What has the U.S. war with Iran accomplished?",
-        "summary": [
-            "بدون متن کامل گزارش NPR، هر ارزیابی دقیق ناممکن است؛ اما تیتر خود نشان‌دهنده افزایش قابل‌توجه تقابل و نیاز به بررسی پیامدهای امنیتی و سیاسی است.",
-            "تحریم‌ها و فشار خارجی: جنگ مستقیم آمریکا می‌تواند به تضعیف ساختار اقتصادی، کاهش درآمد ارزی، تشدید تورم و فشار بر تامین معیشت مردم منجر شود و این موارد به‌عنوان شریان‌های تضعیف مشروعیت حکومت عمل می‌کنند.",
-            "اعتراضات داخلی و اقتصاد: مدیریت ناکارآمد و فساد بلندمدت در ترکیب با شوک‌های جنگی احتمال افزایش اعتراضات و فرسایش توان حکومتی را بالا می‌برد؛ اما برای اثبات این روندها باید داده‌های میدانی و اقتصادی مندرج در گزارش را دید."
-        ],
-        "impact": "پیامد فوری: تشدید ریسک بی‌ثباتی داخلی و فشار اقتصادی که توان بقای حاکمیت را به‌شکل قابل‌توجهی تحت‌فشار قرار می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-        "clean_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-        "image": null,
-        "timestamp": 1775681358.0
-    },
-    {
-        "title_fa": "گسل داخلی حزب کارگر و تبدیل «عملیات» به بن‌بست در تنگه هرمز",
-        "title_en": "Labour is divided over the Green threat",
-        "summary": [
-            "ترامپ در ۹ مارس عملیات نظامی علیه ایران را «سفر کوتاه» توصیف کرد که قرار است «خیلی زود» تمام شود، اما هدف از «قطع مسیر به سمت توان هسته‌ای» عملاً به «بازگشایی تنگه هرمز با زور» تغییر کرد؛ نتیجه این است که وضعیت پیش از جنگ دیگر قابل بازگشت نیست.",
-            "بازگشایی تنگه هرمز با نیروی نظامی، به‌دلیل پرهزینه بودن تلفات آمریکا، و بازگشت کنترل به ایران پس از خروج نیروها، به بن‌بست سیاسی-نظامی می‌انجامد؛ حتی اگر طرح آتش‌بس برای بازگشایی تنگه (منتسب به پاکستان در ۶ آوریل) توافق و اجرا شود، تهران دست بالا را حفظ می‌کند.",
-            "کمیته امنیت ملی مجلس ایران پیشنهاد وضع عوارض/تعرفه برای کشتی‌های عبورکننده از تنگه را تصویب کرده و اظهارات ابراهیم عزیزی نشان می‌دهد ایران عملاً مسیر حیاتی تجارت جهانی را مشروط به «قوانین جدید» خود می‌خواهد؛ هم‌زمان گزارش به حمله بی‌سابقه ۱۸ مارس به شهرک صنعتی راس لفان قطر با موشک و پهپاد نیز اشاره می‌کند که کارایی نیروی بازدارنده ایران را در سطح منطقه نمایش داده است."
-        ],
-        "impact": "این روند، تنگه هرمز را از یک مسیر آزاد بین‌المللی به اهرم فشار اقتصادی-امنیتی ایران تبدیل می‌کند و توان آمریکا برای خروج بدون «واگذاری مسیر» را کاهش می‌دهد.",
-        "tag": "تنگههرمز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "New Statesman",
-        "url": "https://www.newstatesman.com/international-politics/geopolitics/2026/04/the-end-of-the-american-empire",
-        "clean_url": "https://www.newstatesman.com/international-politics/geopolitics/2026/04/the-end-of-the-american-empire",
-        "image": "https://dl6pgk4f88hky.cloudfront.net/2026/04/07/202615coverjohngraygold-800x418.jpg?1775624817",
-        "timestamp": 1775678640.0
-    },
-    {
-        "title_fa": "ونس رهبری هیئت آمریکا برای مذاکرات شنبه با ایران را برعهده می‌گیرد",
-        "title_en": "Vance to lead US delegation to Iran talks on Saturday",
-        "summary": [
-            "رویترز گزارش می‌دهد ونس هدایت هیئت آمریکا را در مذاکراتی که روز شنبه با ایران برگزار می‌شود برعهده خواهد داشت؛ خبر مستقیم و جزئیات موضوع مذاکرات ارائه نشده است.",
-            "حضور یک هیئت ارشد آمریکایی نشانه ادامه فشار دیپلماتیک و ظرفیت تحریم‌ها برای القای چرخش‌های تاکتیکی در سیاست خارجی رژیم است؛ چنین دیدارهایی می‌توانند خوراک رسانه‌ای برای ادعای کاهشِ تنش فراهم کنند اما به خودی خود ضعف‌های ساختاری اقتصادی را جبران نمی‌کنند.",
-            "برگزاری این مذاکرات در شرایطی که حکومت زیر بار مشکلات اقتصادی و نارضایتی اجتماعی قرار دارد، نشان می‌دهد تهران به راه‌های دیپلماتیک برای مدیریت فشارها متوسل شده؛ این تاکتیک ممکن است کوتاه‌مدت فشاری را بکاهد اما نشانه‌ای از ناتوانی مدیریتی بلندمدت است."
-        ],
-        "impact": "ملاقات تحت رهبری ونس بیشتر یک راهبرد مدیریت بحران برای کاهش فشار خارجی است تا علاج ساختاری مشکلات داخلی رژیم.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/vance-to-lead-us-delegation-at-peace-talks-with-iran-in-pakistan-on-saturday/ar-AA20rwOc",
-        "clean_url": "https://www.msn.com/en-us/news/world/vance-to-lead-us-delegation-at-peace-talks-with-iran-in-pakistan-on-saturday/ar-AA20rwOc",
-        "image": null,
-        "timestamp": 1775677013.0
-    },
-    {
-        "title_fa": "آتش‌بس در آستانه فروپاشی؛ اسرائیل حملات در لبنان را گسترش داد و ایران دوباره تنگه هرمز را بست",
-        "title_en": "Ceasefire is threatened as Israel expands Lebanon strikes and Iran closes strait again",
-        "summary": [
-            "ایران در واکنش به حملات تازه اسرائیل علیه حزب‌الله و حملات گسترده در بیروت، تنگه هرمز را بار دیگر بست؛ کاخ سفید خواستار بازگشایی فوری این گذرگاه شد.",
-            "اسرائیل حملات خود در لبنان را تشدید کرد و در موجی از حملات که دست‌کم ۱۸۲ کشته و صدها زخمی برجای گذاشت، مناطق مسکونی و تجاری بیروت هدف قرار گرفت—رویدادی که آتش‌بس دو هفته‌ای را به آستانه فروپاشی کشانده است.",
-            "در تهران شکاف‌های نخبه‌ای آشکار شد: محمدباقر قالیباف، رئیس مجلس، از شکست شرایط اعلام‌شده ایران شکایت کرد و عباس عراقچی، وزیر خارجه، بر این تاکید کرد که پایان جنگ در لبنان بخشی از توافق بوده؛ در مقابل، بنیامین نتانیاهو و دونالد ترامپ اعلام کردند آتش‌بس شامل لبنان نیست."
-        ],
-        "impact": "گسترش حملات و بستن تنگه هرمز احتمال تبدیل بحران به یک درگیری منطقه‌ای را بالا می‌برد و هم‌زمان فشارهای بین‌المللی و نارضایتی‌های داخلی را تشدید می‌کند، که ثبات حکمرانی تهران را تضعیف خواهد کرد.",
-        "tag": "بحران",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "AP News",
-        "url": "https://www.nbclosangeles.com/news/national-international/iran-closes-strait-of-hormuz-israeli-attacks-lebanon-threatening-ceasefire/3873131/",
-        "clean_url": "https://www.nbclosangeles.com/news/national-international/iran-closes-strait-of-hormuz-israeli-attacks-lebanon-threatening-ceasefire/3873131",
-        "image": null,
-        "timestamp": 1775676360.0
     }
 ]
