@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "درگیری ایران-آمریکا با سلاح‌های جدید؛ تهران و واشنگتن وارد فاز تسلیحاتی تازه شدند",
+        "title_en": "In Iran conflict, Tehran and Washington fight with new weapons",
+        "summary": [
+            "Breaking Defense اعلام می‌کند که در چارچوب «درگیری ایران و واشنگتن»، طرفین با «سلاح‌های جدید» وارد رقابت تسلیحاتی شده‌اند، یعنی برتری عملیات احتمالا به سمت قابلیت‌های تازه و پیچیده‌تر متمایل شده است.",
+            "این تیتر به‌طور مشخص بر ادامه تنش عملیاتی تکیه دارد: نه صرفا تهدید سیاسی، بلکه «در حال جنگ با ابزارهای جدید» که می‌تواند چرخه واکنش و ضدواکنش را تشدید کند.",
+            "در متن ارائه‌شده جزئیات فنی، زمان‌بندی یا نوع سلاح‌ها نیامده است؛ بنابراین ارزیابی اثرگذاری مستقیم (بر اقتصاد یا سرکوب داخلی) فقط در حد پیامد کلی افزایش فشار امنیتی قابل اتکا است."
+        ],
+        "impact": "ورود «سلاح‌های جدید» به میدان معمولاً یعنی افزایش هزینه، ریسک و فشار امنیتی-عملیاتی که می‌تواند ثبات عملیاتی حکومت را در کوتاه‌مدت تحت تنش قرار دهد.",
+        "tag": "تسلیحات",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Breaking Defense",
+        "url": "https://www.msn.com/en-us/news/world/us-and-iran-could-hold-new-peace-talks-as-soon-as-this-week-sources-say/ar-AA20RWor",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-could-hold-new-peace-talks-as-soon-as-this-week-sources-say/ar-AA20RWor",
+        "image": null,
+        "timestamp": 1776180500.0
+    },
+    {
         "title_fa": "چرا واشنگتن و تهران بر سر مدت «تعلیق غنی‌سازی» به توافق نمی‌رسند؟",
         "title_en": "Why are the US, Iran arguing over duration of uranium enrichment ban?",
         "summary": [
@@ -217,6 +235,24 @@
         "timestamp": 1776163680.0
     },
     {
+        "title_fa": "پیشنهاد آمریکا برای تعلیق ۲۰ ساله غنی‌سازی اورانیوم؛ ادامه فشار نظامی و بن‌بست مذاکره",
+        "title_en": "Iran live updates: US proposes 20-year suspension on Iranian uranium enrichment",
+        "summary": [
+            "خبرگزاری‌ها گزارش می‌دهند دولت آمریکا پیشنهاد «تعلیق ۲۰ ساله» غنی‌سازی اورانیوم ایران را مطرح کرده و آن را گره اصلی اختلافات هسته‌ای دانسته است.",
+            "در همان فضای تنش، آمریکا پس از شکست گفت‌وگوهای ایران و آمریکا در پاکستان، تهدید به اقداماتی شدید علیه مسیر حیاتی انرژی کرده و از آغاز «محاصره تنگه هرمز» در زمان مشخص سخن گفته بود؛ این یعنی فشار اقتصادی-استراتژیک به جای توافق سریع در دستور کار است.",
+            "هم‌زمان، داده‌های افکار عمومی آمریکا نشان می‌دهد ۵۱٪ از آمریکایی‌ها معتقدند اقدام نظامی علیه ایران ارزشش را نداشته و این می‌تواند پشتوانه سیاسی برای استمرار فشارهای پرریسک را محدود کند."
+        ],
+        "impact": "اگر تعلیق پیشنهادی به توافق نرسد، فشار ترکیبی هسته‌ای و تهدیدهای دریایی احتمالاً به تشدید تنش و هزینه‌بالا شدن سناریوهای درگیری منطقه‌ای منجر می‌شود.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/iran-live-updates-us-blockade-071706970.html",
+        "clean_url": "https://www.aol.com/articles/iran-live-updates-us-blockade-071706970.html",
+        "image": "http://www.bing.com/th?id=ONUT.C5Alcb6DWWDQtlPwEJuixg&pid=News",
+        "timestamp": 1776163140.0
+    },
+    {
         "title_fa": "مذاکرات مستقیم اسرائیل-لبنان در آمریکا؛ آنچه باید بدانید",
         "title_en": "Israel-Lebanon direct talks in the US: All to know",
         "summary": [
@@ -233,6 +269,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSUROa25EUjJFdHAtUEpsWEJ0TmVoUjNCN2JUTG4zMWRzY05qTW5pWEFXV09Pbk56NnQweVU5YjlTeUdQc2pFQUxlN2NGY082SlhIMlZDakhmZ1ZqZ1hPdU9lcHlQZVIyNlc5Zm1Sb280MWd0UU1jRm9LUnk2ZHZ6Q2RvalNmbUhrb2xzMnRIOTEwMHY00gGaAUFVX3lxTE52WnNnY3FOcUNmRVRrQkVkMEp4MFdubm8tbl81eS1nYno5ckJ5bkxHSDhkM1VweHBGdVRmLXlvbDNQZ2U5LUdtTXBSRzFtSmw4X040REhzUmNXZEx2eU5JOFNJX29WQzUzSmlSa3RWZUJwMzVMNExrNG5yTXBnT2RSNGkzNjhGMUMzdEloN2ZRWG1NdUxxelV1M0E",
         "image": null,
         "timestamp": 1776162702.0
+    },
+    {
+        "title_fa": "آغاز گفت‌وگوهای صلح در واشنگتن و همزمانی با انسداد کشتی‌های مرتبط با ایران",
+        "title_en": "Peace talks begin in DC. US blocks Iran-linked ships. Live updates",
+        "summary": [
+            "طبق تیتر USA TODAY، گفت‌وگوهای موسوم به «صلح» در واشنگتن دی‌سی آغاز شده است؛ همزمان خبر از «مسدود شدن/جلوگیری» از کشتی‌های مرتبط با ایران می‌دهد.",
+            "این ترکیب از مسیر دیپلماتیک (گفت‌وگو) با فشار عملیاتی (انسداد کشتی‌ها) نشان می‌دهد واشنگتن قصد دارد اهرم‌های اقتصادی-امنیتی را کنار مذاکره به کار ببرد.",
+            "متن ارسالی عملاً محتوای خبر را ارائه نمی‌کند و فقط صفحه‌ی خطای مرورگر را نشان می‌دهد؛ بنابراین جزئیات مانند زمان‌بندی، شدت محدودیت‌ها، یا دامنه دقیق کشتی‌ها قابل اتکا نیست."
+        ],
+        "impact": "همزمانی مذاکره با اقدام علیه کشتی‌های مرتبط با ایران می‌تواند هزینه‌ و فشار زنجیره تدارکات را بالا ببرد، اما بدون جزئیات متن، شدت اثرگذاری را نمی‌توان دقیق سنجید.",
+        "tag": "تحریم-دریایی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2026/04/14/iran-war-strait-hormuz-trump-updates--live/89595803007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/14/iran-war-strait-hormuz-trump-updates--live/89595803007",
+        "image": "http://www.bing.com/th?id=ONUT.fxCd5nZoDtC2MAuI0P0piw&pid=News",
+        "timestamp": 1776162420.0
+    },
+    {
+        "title_fa": "ترامپ می‌گوید مذاکرات با ایران جریان دارد، اما «کمی کند» است",
+        "title_en": "Trump suggests Iran talks underway but a ‘bit slow’",
+        "summary": [
+            "ترامپ اعلام کرده که مذاکرات ایران-آمریکا «در حال انجام» است، ولی سرعت آن «کمی کند» شده؛ این یعنی دولت آمریکا بار دیگر در مسیر رسیدن به یک توافق حرکت می‌کند.",
+            "این اظهارنظر در چارچوب تلاش واشینگتن برای «دوباره» مذاکره با ایران مطرح شده و نشان می‌دهد خروجیِ مذاکرات هنوز قطعی نیست و روند در مرحله کند پیش می‌رود.",
+            "هیچ جزئیاتی درباره شروط، زمان‌بندی یا خطوط قرمز ارائه نشده، بنابراین اثر اصلی فعلاً بیشتر در سطح روند سیاسی و فشار دیپلماتیک است تا نتیجه مشخص."
+        ],
+        "impact": "ادامه‌دار بودن مذاکراتِ نامشخص، می‌تواند برای هر دو طرف فضای محاسبه‌گری و فشار مذاکراتی را طولانی کند، بدون اینکه نشانه فوری از توافق عملی وجود داشته باشد.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/5830594-us-iran-peace-talks-trump-pakistan/",
+        "clean_url": "https://thehill.com/homenews/administration/5830594-us-iran-peace-talks-trump-pakistan",
+        "image": "http://www.bing.com/th?id=ONUT.ByYqY1yipQXbrvPWkndL2Q&pid=News",
+        "timestamp": 1776161280.0
+    },
+    {
+        "title_fa": "آمریکا و ایران برای دور دوم گفت‌وگوها؛ تهران درباره توقف موقت صادرات از تنگه هرمز تصمیم می‌گیرد",
+        "title_en": "US, Iran pursue new talks as Tehran weighs pause in Hormuz shipments",
+        "summary": [
+            "بر اساس گزارش بلومبرگ (از طریق MSN)، آمریکا و ایران در حال رایزنی برای برگزاری دور دوم مذاکرات در روزهای آینده هستند تا زمینه یک توافق را فراهم کنند.",
+            "طبق متن، تهران در کنار مذاکرات، گزینه «وقفه/مکث در ارسال کالا» از تنگه هرمز را بررسی می‌کند تا به‌زعم سیاست‌گذار ایرانی اهرم فشار برای هموار شدن مسیر توافق ایجاد شود.",
+            "این یعنی معادله فعلی فقط دیپلماتیک نیست: تهران هم‌زمان با گفت‌وگوها، ابزار اقتصادی-امنیتیِ گلوگاه انرژی را به‌عنوان اهرم در مذاکرات نگه می‌دارد."
+        ],
+        "impact": "این روند می‌تواند چند روز آینده را میان فشار اقتصادی از مسیر تنگه هرمز و مدیریت ریسک در مذاکرات متوقف نگه دارد، اما خودِ بررسی توقف ارسال، احتمال نوسان سریع در بازار و ریسک امنیتی را بالا می‌برد.",
+        "tag": "گفتگو",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-and-iran-weigh-further-truce-talks-with-trump-blockade-underway/ar-AA20Q8WJ",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-weigh-further-truce-talks-with-trump-blockade-underway/ar-AA20Q8WJ",
+        "image": "http://www.bing.com/th?id=ONUT.RyuLoeNVXx-APR6Epfg_iw&pid=News",
+        "timestamp": 1776160839.0
     },
     {
         "title_fa": "CNN: تشدید «بازی مرغ» اقتصادی ایران و آمریکا با احتمال ورود به فاز نظامی خطرناک",
@@ -5309,95 +5399,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1EM0JyNkxYZVc3RTQxaHhKakRMTXI1ck5QX2FsUGJoSGVqWHM1S3hIUFlpa3ByU1VnUm1USmQxODJHNmlSU2VleGZDLWpfVHA4MHZuVDR4SQ",
         "image": null,
         "timestamp": 1775805913.0
-    },
-    {
-        "title_fa": "افزایش تورم پس از آغاز جنگ با ایران؛ گزارش مارس CPI در آمریکا",
-        "title_en": "Inflation surged following start of Iran war, March CPI report shows",
-        "summary": [
-            "گزارش USA TODAY می‌گوید تورم در آمریکا بعد از شروع «جنگ با ایران» جهش کرده و در گزارش مارس CPI بازتاب یافته است.",
-            "این خبر به‌طور ضمنی نشان می‌دهد فشار اقتصادی از مسیر شوک‌های مرتبط با جنگ (هزینه‌های انرژی، اختلالات زنجیره تامین و ریسک‌های بازار) می‌تواند هزینه زندگی را بالا ببرد.",
-            "متن ارائه‌شده جزئیات بیشتری درباره ارقام دقیق CPI، زمان‌بندی اثرگذاری یا علت‌های تفکیکی (انرژی/غذا/حمل‌ونقل) ندارد و تنها به «جهش تورم» پس از شروع جنگ اشاره می‌کند."
-        ],
-        "impact": "اگر تورم واقعاً همزمان با آغاز جنگ جهش کرده باشد، فشار هزینه‌ای مستقیم بر اقتصاد آمریکا و پیامدهای سیاسی داخلی تشدید می‌شود.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/money/2026/04/10/march-inflation-report-cpi--live/89503290007/",
-        "clean_url": "https://www.usatoday.com/story/money/2026/04/10/march-inflation-report-cpi--live/89503290007",
-        "image": null,
-        "timestamp": 1775805660.0
-    },
-    {
-        "title_fa": "واشنگتن برای آزادی آمریکایی‌های بازداشت‌شده از ایران مذاکره می‌کند",
-        "title_en": "US negotiators to ask Iran to release detained Americans",
-        "summary": [
-            "طبق گزارش، تیم مذاکره‌کننده آمریکا قرار است از ایران بخواهد چند آمریکایی بازداشت‌شده را آزاد کند؛ اما زمان این درخواست ممکن است وابسته به دشواری روند گفت‌وگوها با تیم ترامپ شود.",
-            "منبع‌های مطلع می‌گویند اگر مذاکرات سخت پیش برود، اجرای این خواسته احتمالاً عقب می‌افتد، یعنی اهرم فشار یا مسیر عملی‌سازی نتیجه‌گیری هنوز قطعی نیست.",
-            "این خبر بیشتر نشان‌دهنده تلاش آمریکا برای گره‌زدن یک خواسته انسانی/امنیتی به روند مذاکره است تا یک اقدام فوری و تضمین‌شده."
-        ],
-        "impact": "احتمال تأخیر در طرح درخواست آزادی می‌تواند مسیر رسیدن به نتیجه را مبهم‌تر کند و نشان دهد که پرونده بازداشت‌شدگان در کوتاه‌مدت به یک گشایش فوری منتهی نخواهد شد.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/world/us-negotiators-to-ask-iran-to-release-detained-americans/ar-AA20AHZV",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-negotiators-to-ask-iran-to-release-detained-americans/ar-AA20AHZV",
-        "image": null,
-        "timestamp": 1775803950.0
-    },
-    {
-        "title_fa": "بازنگری امنیتی کشورهای خلیج فارس پس از جنگ آمریکا-اسرائیل علیه ایران و اصرار تهران بر کنترل تنگه هرمز",
-        "title_en": "Gulf states rethink security in light of US-Israel war on Iran",
-        "summary": [
-            "کشورهای خلیج فارس در پی جنگ اخیر آمریکا و اسرائیل علیه ایران، به دنبال افزودن شریک‌های امنیتی‌اند تا با تهدید مداوم رژیم ایران و باقی‌مانده سامانه موشکی‌اش مدیریت بحران را سخت‌تر کنند؛ چون پایگاه‌های آمریکا در خاکشان آن‌ها را هدف تلافی ایران قرار داد.",
-            "اختلاف اصلی مذاکرات آمریکا و ایران درباره آینده تنگه هرمز است: ایران در توافق آتش‌بس اعلام کرده کنترل خود بر آبراهی را که جریان عمده تجارت خلیج را می‌برد حفظ می‌کند و همین موضوع «تهدید اعمال فشار» بر تنگه تلقی می‌شود.",
-            "درون خلیج فارس شکاف دیده می‌شود: امارات و بحرین خط سخت‌گیرانه‌تری دارند، اما برخی دیگر به دنبال کاهش تنش و بازسازی روابط با تهران‌اند؛ هم‌زمان رسانه دولتی ایران می‌گوید امارات پشت حمله به تأسیسات نفتی جزیره لاوان بوده، در حالی که امارات واکنشی نشان نداده و عربستان نیز تماس رسمی با ایران از سر گرفته است."
-        ],
-        "impact": "این روند احتمال بازآرایی توازن امنیتی در خلیج فارس را بالا می‌برد و هم‌زمان ریسک «گره خوردن بحران به تنگه هرمز» را در مذاکرات آمریکا-ایران تشدید می‌کند.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/apr/10/gulf-states-rethink-security-us-israel-war-iran-ceasefire",
-        "clean_url": "https://www.theguardian.com/world/2026/apr/10/gulf-states-rethink-security-us-israel-war-iran-ceasefire",
-        "image": null,
-        "timestamp": 1775803440.0
-    },
-    {
-        "title_fa": "هشدار ونس به ایران در مذاکرات صلح؛ بسته‌بودن تنگه هرمز و ادعای نقض آتش‌بس توسط تهران",
-        "title_en": "Live updates: Don't try to play the U.S. in peace talks, Vance warns Iran, as Strait of Hormuz remains closed",
-        "summary": [
-            "دونالد ترامپ، ایران را به نقض وعده‌های آتش‌بس متهم کرده و گفته تهران «کار بسیار بدی» در بازگشایی تنگه راهبردی هرمز انجام داده است.",
-            "جیمز ونس در ادامه هشدار داده که ایران نباید در روند مذاکرات صلح تلاش کند نقش ایالات متحده را «بازی بدهد»، هم‌زمان با تداوم بسته‌بودن تنگه هرمز.",
-            "خبر روی «یادداشت‌های زنده» تمرکز دارد و نشان می‌دهد مسدودبودن تنگه هرمز همچنان عامل مستقیم تنش و اهرم فشار در تعاملات سیاسی و امنیتی است."
-        ],
-        "impact": "بسته‌بودن تنگه هرمز همراه با ادعاهای علنی نقض آتش‌بس، احتمال تشدید فشار خارجی و افزایش ریسک درگیری عملیاتی را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-hormuz-israel-lebanon-ceasefire-talks-rcna273610",
-        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-hormuz-israel-lebanon-ceasefire-talks-rcna273610",
-        "image": "http://www.bing.com/th?id=ONUT.ihtqU1wjBpobqJ12GBxkkg&pid=News",
-        "timestamp": 1775802600.0
-    },
-    {
-        "title_fa": "مارپیچ مرگِ نفت ترش: دیزل و آمونیاک در قلب زنجیره گرسنگی",
-        "title_en": "The Sour Crude Death Spiral: Diesel, Ammonia, and the Geopolitics of Starvation",
-        "summary": [
-            "این گزارش مدعی است که در پی «بستن عملیِ تنگه هرمز» طی چهل روز گذشته، انتقالِ اوره/کودهای پایه آمونیاک با وقفه جدی روبه‌رو شده و همین وقفه از «برداشت بد» تا «فاجعه غذایی» فاصله‌ای کوتاه ایجاد کرده است.",
-            "نویسندگان می‌گویند نقطه‌ی گرانش جنگ، نه نفت خام بلکه «دیزل و آمونیاک» است: دیزل برای ماشین‌آلات و حمل‌ونقل زنجیره کشاورزی و آمونیاک (فرایند هابر-بوش) برای تغذیه خاک؛ به ادعای متن، قطع آمونیاک می‌تواند تا حدود ۴۰٪ فروپاشی در عملکرد جهانی محصول ایجاد کند.",
-            "به‌عنوان شواهد بازار، گزارش افزایش جهشی قیمت دیزل را مطرح می‌کند: رشد بیش از ۱۱۳٪ در بازار سنگاپور نسبت به ۲۸ فوریه و عبور قیمت دیزل در آمریکا از ۵.۰۴ دلار/گالن (افزایش ۳۴٪ طی پنج هفته)، و نتیجه می‌گیرد این «کمبود اوره» عملاً وارد مرحله‌ی اثرگذاری زنجیره‌ای شده است."
-        ],
-        "impact": "اگر وقفه در انتقال کود و سوختِ زنجیره کشاورزی برای مدت طولانی ادامه پیدا کند، طبق چارچوب همین گزارش، اثر آن می‌تواند به کاهش جدی تولید غذایی و تشدید بحران اجتماعی-اقتصادی منجر شود.",
-        "tag": "تحریم-غذا",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "The Peoples Voice",
-        "url": "https://www.thepeoplesvoice.org/TPV3/Voices.php/2026/04/10/the-sour-crude-death-spiral-1",
-        "clean_url": "https://www.thepeoplesvoice.org/TPV3/Voices.php/2026/04/10/the-sour-crude-death-spiral-1",
-        "image": null,
-        "timestamp": 1775802240.0
     }
 ]
