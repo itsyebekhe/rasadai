@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چرا واشنگتن و تهران بر سر مدت «تعلیق غنی‌سازی» به توافق نمی‌رسند؟",
+        "title_en": "Why are the US, Iran arguing over duration of uranium enrichment ban?",
+        "summary": [
+            "گزارش می‌گوید تیم‌های مذاکره‌کننده آمریکا و ایران در اسلام‌آباد دیدار کردند و بر سر توافق مرتبط با «مدت غنی‌سازی اورانیوم» به نتیجه نرسیدند؛ اختلاف اصلی این است که آمریکا تعلیق ۲۰‌ساله غنی‌سازی را شرط رفع تحریم می‌گذارد، اما تهران تعلیق/محدودیت بیشتر از ۵ سال را نمی‌پذیرد.",
+            "این بن‌بست هم‌زمان با مذاکرات برای تمدید/تداوم گفت‌وگوهای آتش‌بس توصیف شده، اما متن تصریح می‌کند که همین تفاوت در بندهای غنی‌سازی به مانع «جدی» در مسیر رسیدن به توافق پایان جنگ تبدیل شده است.",
+            "در پس‌زمینه مطالب، «قدرت ذخایر و توان غنی‌سازی» به‌عنوان محور خواسته دیرینه آمریکا مطرح می‌شود: واشنگتن از تهران می‌خواهد علاوه بر عدم ساخت سلاح هسته‌ای، «توان رسیدن» به آن را هم از طریق محدودیت‌های بلندمدت کاهش دهد."
+        ],
+        "impact": "اختلاف بر سر مدت تعلیق غنی‌سازی به‌طور مستقیم مانع توافق جامع‌تر و بنابراین استمرار روند آتش‌بس می‌شود، چون رفع تحریم‌ها و کنترل ظرفیت هسته‌ای به هم گره خورده است.",
+        "tag": "nuclear",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/why-us-iran-arguing-over-145224657.html",
+        "clean_url": "https://www.yahoo.com/news/articles/why-us-iran-arguing-over-145224657.html",
+        "image": null,
+        "timestamp": 1776178401.0
+    },
+    {
         "title_fa": "آمادگی آمریکا برای دور دوم مذاکرات؛ تشدید محاصره دریایی در تنگه هرمز و اختلاف بر سر برنامه هسته‌ای",
         "title_en": "US eyes potential second round of talks with Iran as blockade takes hold",
         "summary": [
@@ -37,6 +55,24 @@
         "timestamp": 1776175456.0
     },
     {
+        "title_fa": "ریچل ریوز جنگ احتمالی با ایران را «فریب» دانست و گفت هزینه‌اش روی خانواده‌های بریتانیایی می‌افتد",
+        "title_en": "Rachel Reeves hits out at Donald Trump Iran war 'folly' hitting UK families",
+        "summary": [
+            "ریچل ریوز، در واکنش به رویکرد دونالد ترامپ، جنگ با ایران را «فوللی/حماقت» توصیف کرد و مدعی شد پیامدهای آن مستقیم به جیب خانواده‌های بریتانیا فشار می‌آورد.",
+            "نکته محوری گزارش، تمرکز رسانه‌ای بر اثر اقتصادی جنگ بر خارج از ایران است؛ یعنی افزایش فشار هزینه‌ها و بی‌ثباتی اقتصادی به‌عنوان نتیجه احتمالی سیاست‌های مداخله‌جویانه.",
+            "این گزارش به‌صورت مستقیم از جزئیات تحریم یا اقدام نظامی مشخص علیه دارایی‌های رژیم ایران یا نقش روسیه/چین سخن نمی‌گوید؛ صرفاً یک موضع سیاسی درباره «عواقب» مطرح می‌کند."
+        ],
+        "impact": "این نوع موضع‌گیری در سطح سیاست‌گذاری بریتانیا بیشتر یک هشدار درباره هزینه‌های اقتصادی جنگ است تا یک اقدام عملی علیه ظرفیت‌های رژیم.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "The Mirror",
+        "url": "https://www.msn.com/en-us/news/world/rachel-reeves-hits-out-at-folly-of-trumps-iran-war-amid-imf-growth-warnings/ar-AA20RX9a",
+        "clean_url": "https://www.msn.com/en-us/news/world/rachel-reeves-hits-out-at-folly-of-trumps-iran-war-amid-imf-growth-warnings/ar-AA20RX9a",
+        "image": null,
+        "timestamp": 1776175000.0
+    },
+    {
         "title_fa": "آزمون اراده در ایران: ترامپ همچنان تهران را دست‌کم می‌گیرد",
         "title_en": "A Test of Wills in Iran: Trump Is Still Underestimating Tehran’s Resolve",
         "summary": [
@@ -71,6 +107,24 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/us-proposed-20-year-pause-on-iran-s-nuclear-program-in-pakistan-talks/ar-AA20RRHT",
         "image": null,
         "timestamp": 1776174420.0
+    },
+    {
+        "title_fa": "واشنگتن پست: صلح وابسته به سازش هسته‌ای است، اما فاصله دو طرف زیاد است",
+        "title_en": "Peace with Iran hinges on nuclear compromise, and the two sides are miles apart",
+        "summary": [
+            "واشنگتن پست می‌گوید هر نوع «صلح» میان ایران و غرب بدون یک سازش هسته‌ای ممکن نیست، اما سطح اختلافات آن‌قدر بالاست که توافق نزدیک به نظر نمی‌رسد.",
+            "چارچوب مذاکره عملاً بر سر میزان و حدود امتیازهای هسته‌ای است و گزارش به بن‌بست یا شکاف جدی در مواضع اشاره دارد، نه به پیشرفت ملموس در مذاکرات.",
+            "از متن گزارش شواهد مستقیم از تصمیم‌های اجرایی، توافق‌های جزئی یا زمان‌بندی مشخص استخراج نمی‌شود و بنابراین عدم‌قطعیت سیاسی-راهبردی در مسیر مذاکرات برجسته می‌شود."
+        ],
+        "impact": "این وضعیت، احتمال ادامه فشار سیاسی و تداوم چرخه بی‌اعتمادی را بالا می‌برد و هر عقب‌نشینی را به امتیازدهی هسته‌ای گره می‌زند.",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/peace-with-iran-hinges-on-nuclear-compromise-and-the-two-sides-are-miles-apart/ar-AA20QumZ",
+        "clean_url": "https://www.msn.com/en-us/news/world/peace-with-iran-hinges-on-nuclear-compromise-and-the-two-sides-are-miles-apart/ar-AA20QumZ",
+        "image": null,
+        "timestamp": 1776173507.0
     },
     {
         "title_fa": "آل‌جزیره: ایران مانع پروژه «اسرائیل بزرگ» است",
@@ -215,6 +269,24 @@
         "clean_url": "https://whyy.org/articles/philadelphia-iran-war-ceasefire-khamenei-trump",
         "image": null,
         "timestamp": 1776157505.0
+    },
+    {
+        "title_fa": "برنامه هسته‌ای ایران «پس‌رفته»، اما «پاک‌نشده»؛ سناریوی فشار نظامی به‌جای حذف کامل توان",
+        "title_en": "Iran nuclear programme 'set back' but not wiped out",
+        "summary": [
+            "طبق گزارش، حملات اخیر آمریکا و اسرائیل به‌گونه‌ای توصیف شده که مسیر ساخت بمب هسته‌ای آینده را «به عقب» برده و بخش‌هایی از توان هسته‌ای و موشکی جمهوری اسلامی را «شدیداً آسیب» زده است.",
+            "با وجود این، متن تأکید می‌کند که این ضربه «توان را از بین نبرده»؛ یعنی بازیابی و ادامه‌دادن برنامه، همچنان امکان‌پذیر است و اثر بازدارندگی مطلق حاصل نشده.",
+            "چارچوب خبر نشان می‌دهد هدف عملیات‌ها بیشتر «اختلال و کندسازی» قابلیت‌هاست تا «ریشه‌کنی» کامل؛ بنابراین تصمیم‌گیری بعدی آمریکا/اسرائیل احتمالاً بر تشدید فشار برای جلوگیری از ترمیم سریع تکیه خواهد داشت."
+        ],
+        "impact": "نتیجه عملی این روایت، ایجاد وقفه و فرسایش توان هسته‌ای-موشکی بدون حذف قطعی آن است و ریسک ادامه رقابت تا رسیدن به بازدارندگی پایدار همچنان باقی می‌ماند.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2026/04/iran-nuclear-programme-set-back-not-wiped-out",
+        "clean_url": "https://www.al-monitor.com/originals/2026/04/iran-nuclear-programme-set-back-not-wiped-out",
+        "image": "http://www.bing.com/th?id=ONUT.NK6De1rz1USAIhAiFtC37g&pid=News",
+        "timestamp": 1776157260.0
     },
     {
         "title_fa": "جایگاه ترکیه در سناریوی جنگ آمریکا-اسرائیل-ایران",
@@ -5327,77 +5399,5 @@
         "clean_url": "https://www.thepeoplesvoice.org/TPV3/Voices.php/2026/04/10/the-sour-crude-death-spiral-1",
         "image": null,
         "timestamp": 1775802240.0
-    },
-    {
-        "title_fa": "آمادگی آمریکا و ایران برای گفت‌وگوهای آتش‌بس؛ نتانیاهو مذاکره با لبنان را مجاز کرد",
-        "title_en": "US and Iran prepare for ceasefire talks as Netanyahu authorizes negotiations with Lebanon",
-        "summary": [
-            "طبق گزارش Audacy، آمریکا و ایران برای برگزاری گفت‌وگوهای آتش‌بس آماده می‌شوند، یعنی کانال‌های مذاکره فعال شده‌اند.",
-            "همزمان، رسانه‌ها اعلام کرده‌اند که بنیامین نتانیاهو مذاکرات با لبنان را مجاز کرده است؛ این یعنی فضای سیاسی برای گسترش روند مذاکره از موضوع ایران/آتش‌بس به جبهه لبنان هم باز شده است.",
-            "این رویداد بیشتر یک حرکت دیپلماتیک-عملیاتی برای کاهش درگیری است تا تغییر ساختاری در قدرت؛ بنابراین فعلاً نشانه‌ای از عقب‌نشینی داخلی یا فروپاشی اقتصاد/نظام ارائه نشده است."
-        ],
-        "impact": "احتمال کاهش تنش و شکل‌گیری مسیر گفت‌وگوهای چندجانبه بالا می‌رود، اما اثر فوری آن بر ثبات رژیم یا وضعیت داخلی ایران بدون داده‌های تکمیلی قابل اثبات نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Audacy",
-        "url": "https://www.sfgate.com/news/world/article/us-and-iran-prepare-for-ceasefire-talks-as-22198996.php",
-        "clean_url": "https://www.sfgate.com/news/world/article/us-and-iran-prepare-for-ceasefire-talks-as-22198996.php",
-        "image": null,
-        "timestamp": 1775801914.0
-    },
-    {
-        "title_fa": "آیا خروج از توافق هسته‌ای ایران جنگ را نزدیک‌تر کرد؟",
-        "title_en": "Did Leaving the Iran Nuclear Deal Bring Us Closer to War?",
-        "summary": [
-            "این مطلبِ روزنامه «تایمز اسرائیل» به‌صورت تحلیلی می‌پرسد که خروج/کنار گذاشتن توافق هسته‌ای چه تاثیری بر احتمال رویارویی نظامی داشته است؛ یعنی تمرکز آن بر پیامدهای راهبردی این تصمیم است، نه وقوع یک رخداد مشخص در لحظه.",
-            "استدلال اصلی در قالب پرسش مطرح می‌شود: اینکه تغییر چارچوب هسته‌ای و کاهش محدودیت‌های نظارتی/توافقی (در برداشت کلی متن) می‌تواند ریسک محاسبات غلط و تشدید تنش را افزایش دهد—اما متنِ ارائه‌شده جزئیات عددی یا شواهد مستقیم از افزایش فوری درگیری ارائه نمی‌کند.",
-            "با توجه به نبود داده‌های مشخص در متن کوتاهِ منبع، نمی‌توان از این عنوان به‌تنهایی نتیجه گرفت که «رویدادهای قطعی» رخ داده یا هدف‌گیری/اعزام نیرو یا حمله‌ای تأیید شده است؛ بنابراین ارزیابی باید محدود به سطح «ریسک‌سنجی و امکان‌سنجی» باقی بماند."
-        ],
-        "impact": "این گزارش در سطح ارزیابی خطرات راهبردی می‌ماند و به‌تنهایی مدرک قطعی برای افزایش فوری احتمال جنگ ارائه نمی‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdy15MmZ2YmhQNHlnS2YzcHRkcDJybEUwOHUzYmdMeGh0cXN0dHhFUklRc1NBZ25neHdwY2tZYXdYeFpxb1BGN1dfVFlCY0FRTTdiWUJkQlowblFWWktza2dkUkVxb3QwTlVIdmpDamkwcm5WM3JJcjloaE9QOXpuT2lndk96d0lJSVEwVlhQM3ZoX2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdy15MmZ2YmhQNHlnS2YzcHRkcDJybEUwOHUzYmdMeGh0cXN0dHhFUklRc1NBZ25neHdwY2tZYXdYeFpxb1BGN1dfVFlCY0FRTTdiWUJkQlowblFWWktza2dkUkVxb3QwTlVIdmpDamkwcm5WM3JJcjloaE9QOXpuT2lndk96d0lJSVEwVlhQM3ZoX2c",
-        "image": null,
-        "timestamp": 1775800680.0
-    },
-    {
-        "title_fa": "ترامپ: ایران در اجرای آتش‌بس و تضمین عبور آزاد کشتی‌ها «خیلی ضعیف» عمل می‌کند",
-        "title_en": "Trump says Iran doing ‘very poor job’ in ceasefire deal: Vance trying to negotiate peace",
-        "summary": [
-            "ترامپ اعلام کرده ایران در چارچوب یک توافق/آتش‌بس، مانع «جریان آزاد کشتی‌ها» از تنگه مورد اشاره شده و از این بابت انتقاد شدید وارد کرده است.",
-            "او تأکید کرده که تنگه مذکور مسیر عبور حدود ۲۰٪ نفت تجارت جهانی بوده و محدودسازی عبور، اثر مستقیم بر اقتصاد و زنجیره عرضه انرژی دارد.",
-            "هم‌زمان، متن خبر از تلاش ونس برای مذاکره به‌منظور «صلح/حل‌وفصل» خبر می‌دهد که نشان می‌دهد فشار دیپلماتیک آمریکا روی ترتیبات عملیاتی توافق متمرکز است."
-        ],
-        "impact": "تمرکز فشار آمریکا روی عبور کشتی‌ها یعنی هرگونه اختلال در تنگه می‌تواند هزینه اقتصادی فوری برای تهران و ریسک تشدید تنش دریایی را بالا ببرد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.55,
-        "source": "al.com",
-        "url": "https://www.al.com/news/2026/04/trump-says-iran-doing-very-poor-job-in-ceasefire-deal-vance-trying-to-negotiate-peace.html",
-        "clean_url": "https://www.al.com/news/2026/04/trump-says-iran-doing-very-poor-job-in-ceasefire-deal-vance-trying-to-negotiate-peace.html",
-        "image": null,
-        "timestamp": 1775798940.0
-    },
-    {
-        "title_fa": "آمادگی آمریکا و ایران برای گفت‌وگو در اسلام‌آباد در حالی که آتش‌بس شکننده پابرجاست و تردد تنگه هرمز پایین مانده",
-        "title_en": "Live Updates: U.S., Iran prepare for talks as shaky ceasefire holds, Strait of Hormuz traffic remains low",
-        "summary": [
-            "آمریکا و ایران برای گفت‌وگوهای شنبه در اسلام‌آباد، پاکستان آماده می‌شوند؛ این روند در چارچوب یک آتش‌بس «شکننده» و با وجود چند اختلاف کلیدی شکل گرفته است.",
-            "طبق گزارش CBS، با اینکه آتش‌بس فعلاً برقرار مانده، «نقاط اختلاف» همچنان حل‌نشده است؛ یعنی مذاکرات بیشتر برای مدیریت بحران است تا رفع ریشه‌ای درگیری‌ها.",
-            "در کنار آتش‌بس، تردد در تنگه هرمز پایین گزارش شده که نشان می‌دهد ریسک عملیاتی و نااطمینانی امنیتی هنوز به سطح عادی برنگشته است."
-        ],
-        "impact": "پابرجا ماندن آتش‌بس تا زمان برگزاری گفت‌وگو احتمال تشدید فوری را کم می‌کند، اما پایین بودن ترافیک تنگه هرمز و وجود اختلاف‌های کلیدی، ریسک برگشت تنش را برای آینده حفظ می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-ceasefire-talks",
-        "image": null,
-        "timestamp": 1775797260.0
     }
 ]
