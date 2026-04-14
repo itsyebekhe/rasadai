@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "رئیس موساد به انتقادات درباره جنگ با ایران پاسخ داد",
+        "title_en": "Israel’s Spy Chief Addresses Criticism About the War With Iran",
+        "summary": [
+            "بر اساس گزارش نیویورک‌تایمز، رئیس موساد به موج انتقادها درباره نحوه و مسیر «جنگ با ایران» پاسخ داده و تلاش کرده روایت رسمی را تثبیت کند.",
+            "این اقدام نشان می‌دهد اختلاف و فشار سیاسی/اطلاعاتی در داخل اسرائیل درباره هزینه‌ها، پیامدها و برداشت افکار عمومی از عملیات‌های مرتبط با ایران بالا گرفته است.",
+            "صرفاً از متن موجود، جزئیات جدید درباره اقدامات عملی یا برنامه‌های مشخص علیه ایران ارائه نشده و تمرکز گزارش بر مدیریت انتقادها و کنترل روایت است."
+        ],
+        "impact": "این نوع پاسخ‌جویی در سطح عالی سرویس اطلاعاتی معمولاً بیانگر افزایش ریسک سیاسی و نیاز به توجیه‌سازی درباره راهبرد علیه ایران است، نه لزوماً نشانه اقدام نظامی فوری.",
+        "tag": "اسرائیل-ایران",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/14/world/middleeast/israel-barnea-mossad-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/04/14/world/middleeast/israel-barnea-mossad-iran.html",
+        "image": null,
+        "timestamp": 1776197184.0
+    },
+    {
         "title_fa": "پنتاگون: هیچ کشتی در روز اول از «محاصره/بلوکاد» آمریکا در تنگه هرمز عبور نکرد",
         "title_en": "No ships ‘make it past US blockade’ in Hormuz strait in first day: Pentagon",
         "summary": [
@@ -5381,23 +5399,5 @@
         "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-ceasefire-strait-hormuz-israel-04-10-26",
         "image": "http://www.bing.com/th?id=ONUT.vMSmKVyn17ias_vGlw5OcQ&pid=News",
         "timestamp": 1775809380.0
-    },
-    {
-        "title_fa": "بازگشت تاکتیک‌های تبلیغات جنگی ایران علیه آمریکا و اسرائیل؛ تشدید جنگ روانی همزمان با تهدیدهای منطقه‌ای",
-        "title_en": "Iran’s ‘Godfather of propaganda’ tactics resurface in war with US and Israel",
-        "summary": [
-            "منبع می‌گوید تاکتیک‌های موسوم به «پدر تبلیغات جنگی» ایران دوباره در چارچوب جنگ با آمریکا و اسرائیل به کار گرفته می‌شود؛ یعنی تمرکز صرفاً نظامی نیست و جنگ روانی و رسانه‌ای هم فعال شده است.",
-            "در همان متن، هم‌زمان به هشدارهای منطقه‌ای درباره تنگه هرمز اشاره می‌شود (از جمله گزارش‌های مربوط به آژانس دریایی سازمان ملل) که «سابقه‌ای خطرناک» ایجاد می‌کند؛ این یعنی فشار سیاسی/اقتصادی همراه با عملیات نظامی در حال تشدید است.",
-            "همچنین ادعا می‌شود ایران درباره ادامه‌ندادن آتش‌بس با حذف حزب‌الله از توافق تهدید می‌کند و هم‌زمان چند خبر دیگر از افزایش تنش‌ها و هشدارها در سطح خاورمیانه منتشر شده است."
-        ],
-        "impact": "ترکیب جنگ روانی تبلیغاتی با تهدیدهای سیاسی-منطقه‌ای، ریسک فرسایش کنترل داخلی و افزایش خطاهای محاسباتی را در مدیریت بحران بالا می‌برد.",
-        "tag": "جنگ_روانی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/irans-godfather-propaganda-tactics-resurface-war-us-israel",
-        "clean_url": "https://www.foxnews.com/world/irans-godfather-propaganda-tactics-resurface-war-us-israel",
-        "image": "http://www.bing.com/th?id=ONUT.0LM60HWIQ_eTHI1Tj1v6YQ&pid=News",
-        "timestamp": 1775809140.0
     }
 ]
