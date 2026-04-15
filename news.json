@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "رد جمهوری‌خواهان از محدودیت‌های ایران همزمان با نزدیک شدن «نقطه عطف» اختیارات جنگی",
+        "title_en": "Republicans reject Iran limits as war powers milestone nears",
+        "summary": [
+            "بر اساس گزارش Politico، جمهوری‌خواهان با طرح/تلاش برای اعمال «محدودیت‌های ایران» مخالفت می‌کنند و این مخالفت در آستانه نزدیک شدن یک «نقطه عطف» در حوزه اختیارات جنگی مطرح شده است.",
+            "این موضع‌گیری نشان می‌دهد که روند تصمیم‌گیری در آمریکا در مسیر افزایش یا تسهیل ابزارهای اجرایی در برابر ایران می‌تواند پیش برود، زیرا جمهوری‌خواهان عملاً چارچوب محدودکننده را کنار می‌زنند.",
+            "پیامد مستقیم از منظر راهبردی این است که حتی بدون تغییرات اعلام‌شده در میدان، احتمال اعمال فشار سیاسی-نظامی و گسترش سطح اختیار دولت در موضوع ایران بالا می‌رود."
+        ],
+        "impact": "مقاومت جمهوری‌خواهان در برابر محدودیت‌های ایران، فضای سیاست آمریکا را به سمت اجرای اختیارات جنگی گسترده‌تر می‌برد و ریسک تشدید فشار را افزایش می‌دهد.",
+        "tag": "اختیاراتجنگی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Politico",
+        "url": "https://www.msn.com/en-us/news/politics/republicans-reject-iran-limits-as-war-powers-milestone-nears/ar-AA20Ysxs",
+        "clean_url": "https://www.msn.com/en-us/news/politics/republicans-reject-iran-limits-as-war-powers-milestone-nears/ar-AA20Ysxs",
+        "image": null,
+        "timestamp": 1776280773.0
+    },
+    {
         "title_fa": "اظهارات ترامپ درباره «نزدیک بودن پایان جنگ ایران» و اشاره به موعد احتمالی پیش از سفر سلطنتی",
         "title_en": "Trump Says Iran War ‘Close to Over,’ Hints at Possible Deadline Ahead of Royal Visit",
         "summary": [
@@ -126,6 +144,24 @@
         "timestamp": 1776259500.0
     },
     {
+        "title_fa": "چرخش آمریکا از بمباران به جنگ اقتصادی علیه ایران",
+        "title_en": "From dropping bombs to pressuring banks: US pivots to economic warfare on Iran",
+        "summary": [
+            "بر اساس گزارش The Seattle Times، دولت ترامپ در حال طراحی تغییر محور جنگ علیه ایران از «اتکا به بمب» به «فشار اقتصادی» است تا تهران را از مسیر محدودسازی مالی تحت فشار بگذارد.",
+            "این تغییر شامل تمرکز بر تحت فشار گذاشتن بانک‌ها و سازوکارهای مالی است؛ یعنی تلاش برای کاهش توان ایران در نقل‌وانتقال پول، تعاملات بانکی و دور زدن محدودیت‌ها.",
+            "برداشت کلیدی مقاله این است که واشنگتن می‌خواهد اثرات این فشار اقتصادی را به‌عنوان ابزار اصلی تغییر دهد، نه یک مکمل؛ یعنی هدف، «وادارسازی» است نه صرفاً تشدید عملیات نظامی."
+        ],
+        "impact": "اگر اجرای عملیِ فشار بانکی تشدید شود، ساختار مالی و ظرفیت دور زدن تحریم‌ها دچار ریسک جدی می‌شود و به بی‌ثباتی اقتصادی در داخل میدان می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Seattle Times",
+        "url": "https://www.seattletimes.com/business/from-dropping-bombs-to-pressuring-banks-u-s-pivots-to-economic-warfare-on-iran/",
+        "clean_url": "https://www.seattletimes.com/business/from-dropping-bombs-to-pressuring-banks-u-s-pivots-to-economic-warfare-on-iran",
+        "image": "http://www.bing.com/th?id=ONUT.-GyBDsAfwvNPUzKj1Ukc3Q&pid=News",
+        "timestamp": 1776258720.0
+    },
+    {
         "title_fa": "سنا بار دیگر قطعنامه اختیارات جنگی علیه ایران را متوقف کرد",
         "title_en": "Senate blocks Iran war powers resolution for fourth time",
         "summary": [
@@ -160,6 +196,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-war-iran-military-threatens-red-sea-gulf-trade/ar-AA20X4zf",
         "image": null,
         "timestamp": 1776257284.0
+    },
+    {
+        "title_fa": "عقب‌نشینی‌های چندجبهه‌ای ترامپ و محدود شدن ابزارهای فشار",
+        "title_en": "It’s Not Just Iran. Trump Is Flailing on Multiple Fronts.",
+        "summary": [
+            "بر اساس گزارش Jonathan Lemire در The Atlantic، ترامپ در چند عرصه از جمله ایران و مجارستان با «شکست‌های پیاپی» روبه‌رو شده و نشان می‌دهد روش‌های معمولِ ارعابِ او کارایی سابق را ندارد.",
+            "این گزارش به‌صورت مستقیم پیامد شکست‌خورده بودن سیاست فشار را پررنگ می‌کند: اگر ابزار ارعاب مؤثر نباشد، توان اعمال هزینه سیاسی/اقتصادی از مسیر تهدید هم کاهش پیدا می‌کند و طرف مقابل می‌تواند در برابر خواسته‌ها مقاوم‌تر عمل کند.",
+            "چون متن ارائه‌شده جزئیات عملی درباره اقدام‌های مشخص علیه ایران نمی‌دهد، تحلیل باید در همین سطح بماند: تغییر موازنه به نفع رژیم‌ها/دولت‌های هدف از رهگذر ناکامی تاکتیک‌های تهدیدمحور ترامپ، نه از طریق یک اتصال یا ادعای بی‌پایه."
+        ],
+        "impact": "ناکامی ترامپ در ایران و دیگر جبهه‌ها به‌طور ساختاری یعنی ارعاب سیاسی به تنهایی دیگر ضامن نتیجه نیست و فشار خارجی بدون ابزارهای تکمیلی می‌تواند اثر محدودتری داشته باشد.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/politics/2026/04/trump-iran-hungary-melania-epstein/686816/",
+        "clean_url": "https://www.theatlantic.com/politics/2026/04/trump-iran-hungary-melania-epstein/686816",
+        "image": "http://www.bing.com/th?id=ONUT.FlKeRwvMVUGHR3-Dvkrh5w&pid=News",
+        "timestamp": 1776257220.0
     },
     {
         "title_fa": "تهدید ایران به ضربه به کشتیرانی در خلیج فارس و دریای سرخ در چارچوب تنش میان واشنگتن و تهران",
@@ -5345,59 +5399,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-iran-talks-set-to-begin-in-pakistani-capital-after-delegations-arrive/ar-AA20D4c7",
         "image": null,
         "timestamp": 1775890507.0
-    },
-    {
-        "title_fa": "آغاز گفت‌وگوی سه‌جانبه آمریکا و ایران در پاکستان پس از شکننده شدن آتش‌بس در لبنان",
-        "title_en": "3-Way Talks With The U.S. And Iran Begin In Pakistan",
-        "summary": [
-            "طبق گزارش AP، مذاکرات آمریکا و ایران در اسلام‌آباد آغاز شد؛ ایران «سه‌طرفه»‌ بودن را با حضور آمریکا، ایران و پاکستان اعلام کرده، در حالی که آمریکا در همان لحظه آن را تأیید یا اظهار نظر نکرد.",
-            "نمایندگان آمریکا به سرپرستی «JD Vance» و هیئت ایران به سرپرستی «محمدباقر قالیباف» درباره راه پیشبرد آتش‌بس شکننده گفت‌وگو می‌کنند؛ این روند چند روز پس از نشست جداگانه مقام‌های دو طرف با نخست‌وزیر پاکستان «شهباز شریف» آغاز شده است.",
-            "همزمان اسرائیل با وجود شرط‌های ایران برای توقف درگیری در لبنان، به حملات ادامه داده و طبق گزارش رسانه دولتی لبنان دست‌کم سه نفر در حمله روز شنبه کشته شده‌اند؛ تهران نیز گفته برخی ایده‌های پیشنهادی را به‌عنوان «خط قرمز» مطرح کرده است."
-        ],
-        "impact": "در کوتاه‌مدت امکان کاهش تنش نظامی در لبنان وجود دارد، اما ادامه حملات اسرائیل و بی‌اعتمادی عمومی در ایران، فشار اقتصادی و هزینه‌های انسانی را پایدارتر می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/united-states-iranian-officials-meet-with-mediators-pakistan-talks-kick-off_n_69da3462e4b048dba44d5cab",
-        "clean_url": "https://www.huffpost.com/entry/united-states-iranian-officials-meet-with-mediators-pakistan-talks-kick-off_n_69da3462e4b048dba44d5cab",
-        "image": "http://www.bing.com/th?id=ONUT.my0Iq4R-sI-5xgtoO1EX_A&pid=News",
-        "timestamp": 1775890200.0
-    },
-    {
-        "title_fa": "آمریکا و ایران گفت‌وگوهای صلح برگزار کردند؛ ترامپ از پاکسازی تنگه هرمز می‌گوید",
-        "title_en": "US and Iran hold peace talks. Trump says US clearing Strait of Hormuz.",
-        "summary": [
-            "بر اساس گزارش USA TODAY، آمریکا و ایران وارد «گفت‌وگوهای صلح» شده‌اند؛ جزئیات توافق یا چارچوب عملیاتی در متن ارائه‌شده مشخص نیست.",
-            "ترامپ مدعی شده که آمریکا «مسیر تنگه هرمز را پاکسازی می‌کند»؛ این ادعا می‌تواند به معنای تشدید یا مشروع‌سازی اقدام نظامی/بازدارنده در مسیر حیاتی کشتیرانی باشد، اما در داده‌ی حاضر، اقدام مشخص و زمان‌بندی روشن ارائه نشده است.",
-            "با توجه به متنِ در دسترس فقط در حد همین ادعا و عنوان خبر، نمی‌توان زنجیره‌ی علّیِ مستقیم بین گفت‌وگوها و تغییرات واقعی در اقتصاد یا امنیت را اثبات کرد؛ با این حال، همزمانی مذاکره با پیام نظامی، ریسک نوسان امنیتی منطقه را بالا می‌برد."
-        ],
-        "impact": "ترکیب «گفت‌وگوی صلح» با ادعای عملیات/پاکسازی تنگه هرمز، احتمال بالا بودن ریسک امنیتی برای تجارت منطقه و نوسان در محاسبات تصمیم‌گیری تهران و واشنگتن را افزایش می‌دهد، بدون اینکه در داده‌ی موجود نتیجه‌ی واقعی مذاکره قابل ارزیابی باشد.",
-        "tag": "مذاکره",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/04/11/trump-vance-iran-war-pakistan-peace-talks--live/89561515007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/11/trump-vance-iran-war-pakistan-peace-talks--live/89561515007",
-        "image": "http://www.bing.com/th?id=ONUT.ploLLZ6YmfAEQyQFT-KYOw&pid=News",
-        "timestamp": 1775889540.0
-    },
-    {
-        "title_fa": "ورود هیات‌های آمریکا و ایران به اسلام‌آباد برای تبدیل آتش‌بس شکننده به توافق؛ هم‌زمان کش‌وقوس بر سر آزادسازی دارایی‌های مسدود و شرط‌های تهران",
-        "title_en": "Iran-US War Ceasefire Talks Live Updates: Islamabad peace talks begin amid uncertainties",
-        "summary": [
-            "هم‌زمان با آغاز رایزنی‌ها در اسلام‌آباد، معاون رئیس‌جمهور آمریکا J.D. Vance با نخست‌وزیر پاکستان Shehbaz Sharif دیدار کرد؛ هم‌زمان از «توافق واشنگتن برای آزادی دارایی‌های یخ‌زده ایران در قطر و بانک‌های خارجی» خبر داده شد، اما یک مقام کاخ سفید این گزارش را رد کرد.",
-            "هدف مذاکرات، تبدیل آتش‌بس شش‌هفته‌ای و شکننده به پایان دائمی جنگ است؛ واشنگتن این روند را با «دست باز برای مذاکره» همراه با نمایش آمادگی نظامی پیش برده و ترامپ هشدار داده که ناوهای آمریکایی «سرشار از مهمات» هستند و اگر گفت‌وگوها شکست بخورد، نتیجه می‌تواند طی ۲۴ ساعت روشن شود.",
-            "هیاتی که از سوی تهران هدایت می‌شود (محمدباقر قالیباف و عباس عراقچی) پیشروی را منوط به توقف فوری حملات اسرائیل علیه لبنان و نیز رفع/بازگشایی دارایی‌های مسدود دانسته؛ در نتیجه محور چانه‌زنی‌ها دقیقاً بر پدیده‌های فشار اقتصادی و شرط‌های امنیتی متمرکز است."
-        ],
-        "impact": "اگر آزادی دارایی‌ها و توقف حملات به‌عنوان پیش‌شرط پذیرفته نشود، خطر فرسودگی سریع آتش‌بس و بازگشت تنش به سطح جنگی افزایش می‌یابد، چون آمریکا هم‌زمان مذاکره و فشار نظامی را هم‌راستا کرده است.",
-        "tag": "تحریم‌ها",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/us-news/iran-united-states-peace-talks-islamabad-live-updates-10630462/",
-        "clean_url": "https://indianexpress.com/article/world/us-news/iran-united-states-peace-talks-islamabad-live-updates-10630462",
-        "image": "http://www.bing.com/th?id=ONUT.m2iaJr_eGu7qKJpKdtw5bQ&pid=News",
-        "timestamp": 1775887740.0
     }
 ]
