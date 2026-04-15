@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "عدم‌جمع‌بندی در ایران؛ ادعای شکست اسرائیل در آمریکا",
+        "title_en": "In Iran, the conflict is unresolved. But in the US, Israel is losing the war",
+        "summary": [
+            "این گزارش با دو قاب‌بندی هم‌زمان پیش می‌رود: «در ایران تعارض حل نشده» و هم‌زمان «در آمریکا اسرائیل در حال از دست دادن جنگ»؛ اما متن ارائه‌شده فقط ادعا را مطرح می‌کند و هیچ جزئیات قابل راستی‌آزمایی درباره اقدامات، زمان، یا نتایج مشخص نمی‌دهد.",
+            "از منظر فشار خارجی و تحولات سیاستی، اشاره مستقیمی به تحریم‌ها، قوانین سرکوب، یا حملات علیه دارایی‌های رژیم وجود ندارد؛ بنابراین نمی‌توان اثر ساختاری بر ثبات رژیم را از همین متن استخراج کرد.",
+            "در بخش اقتصاد و اعتراضات داخلی ایران نیز هیچ داده‌ای در اختیار نیست؛ در نتیجه ادعاهای مرتبط با نارضایتی عمومی یا فروپاشی اقتصادی از این گزارش قابل اتکا نیست."
+        ],
+        "impact": "با توجه به نبود جزئیات، این متن بیشتر یک چارچوب خبری/برداشت سیاسی است تا گزارشی که بتواند پیامدهای مشخص برای ایران یا آمریکا را اندازه‌گیری کند.",
+        "tag": "تحلیل",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/politics/in-iran-the-conflict-is-unresolved-but-in-the-us-israel-is-losing-the-war/ar-AA20Y1B1",
+        "clean_url": "https://www.msn.com/en-us/news/politics/in-iran-the-conflict-is-unresolved-but-in-the-us-israel-is-losing-the-war/ar-AA20Y1B1",
+        "image": null,
+        "timestamp": 1776265707.0
+    },
+    {
         "title_fa": "آخرین جزئیات گفت‌وگوهای آمریکا و ایران درباره میانجی‌گری",
         "title_en": "US-Iran talks: What’s the latest on mediation efforts?",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03N2dPQlJqSVZqT0dkMkJ1RFBEdUw0UTgtVmw2VTFqQ2dUVDEwMmtFeWtUOV80T1lnellxOHpRTTRMN1YwVmpsYUlqakZBNjNZNnpndnNzZldpdFdZN0E",
         "image": null,
         "timestamp": 1776240546.0
+    },
+    {
+        "title_fa": "ایران: تهدید به تلافی در پی محاصره دریایی آمریکا",
+        "title_en": "Iran War Live Updates: Iran Threatens Retaliation Over U.S. Blockade",
+        "summary": [
+            "طبق گزارش، نیروی نظامی آمریکا در چارچوب «محاصره/مسدودسازی» اقدام کرده تا ترافیک دریایی به بنادر ایران و از بنادر ایران را کنترل کند، در حالی که خود تنگه باز مانده است.",
+            "هدف اعلامی این نوع فشار، محدود کردن جریان کالا و تجارت از مسیر بندری است؛ یعنی ضربه اقتصادی/لجستیکی بدون بستن کامل مسیر عبور از تنگه.",
+            "ایران نیز تهدید به «تلافی» کرده که نشان می‌دهد این اقدام می‌تواند به چرخه تنش دریایی و ریسک برخوردهای بیشتر منجر شود."
+        ],
+        "impact": "این الگوی فشار دریایی، با هدف کاهش تحرک اقتصادی و لجستیکی، زمینه بی‌ثباتی و افزایش احتمال درگیری‌های محدود اما خطرناک در آب‌های پیرامونی را بالا می‌برد.",
+        "tag": "محاصره",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel/heres-how-the-us-blockade-of-iranian-shipping-is-taking-shape",
+        "clean_url": "https://www.nytimes.com/live/2026/04/15/world/iran-war-trump-us-israel/heres-how-the-us-blockade-of-iranian-shipping-is-taking-shape",
+        "image": "http://www.bing.com/th?id=ONUT.J4JgrTKhs0LqBVQzfQT-JA&pid=News",
+        "timestamp": 1776236280.0
     },
     {
         "title_fa": "توافق آمریکا و ایران برای آتش‌بس دو هفته‌ای و از سرگیری تردد در تنگه هرمز",
@@ -502,6 +538,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/israel-lebanon-hold-rare-talks-230843509.html",
         "image": null,
         "timestamp": 1776208377.0
+    },
+    {
+        "title_fa": "ادعای «اجرای کامل» انسداد هرمز از سوی آمریکا و تهدید ایران به توقف تجارت در خلیج",
+        "title_en": "US says Hormuz blockade ‘fully implemented’ as Iran threatens to block Gulf trade. Follow live updates.",
+        "summary": [
+            "طبق گزارش، آمریکا می‌گوید «انسداد هرمز» به‌طور کامل اجرا شده و در مقابل، ایران تهدید کرده که می‌تواند جریان تجارت در خلیج فارس را متوقف کند؛ این یعنی اهرم فشار دریایی وارد فاز عملی و قابل‌سنجش شده است.",
+            "تصویر ارائه‌شده از صف کشتی‌های نفتکش و باری در تنگه هرمز، از احتمال تشدید اختلال در حمل‌ونقل و هزینه‌کردن شرکت‌ها برای عبور/تأخیر حمایت می‌کند؛ اختلالی که می‌تواند سریع به بازارهای انرژی و زنجیره تأمین سرایت کند.",
+            "چون متن خبر «تهدید» ایران را در کنار «اجرای کامل» آمریکا قرار می‌دهد، ریسک محاسبه‌نادرست و درگیری مستقیمِ دریایی بالا می‌رود و هر دو طرف در حال بالا بردن هزینهِ طرف مقابل‌اند."
+        ],
+        "impact": "اگر انسداد/تهدید متقابل از سطح ادعا و فرمان عملیاتی به درگیری دریایی برسد، هزینه انرژی و بی‌ثباتی مسیرهای تجاری خلیج فارس به‌سرعت تشدید می‌شود.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Boston Globe",
+        "url": "https://www.bostonglobe.com/2026/04/15/nation/us-iran-war-live-updates/",
+        "clean_url": "https://www.bostonglobe.com/2026/04/15/nation/us-iran-war-live-updates",
+        "image": "http://www.bing.com/th?id=ONUT.l_DutiiCeWKOCe4aF6dv1A&pid=News",
+        "timestamp": 1776207360.0
     },
     {
         "title_fa": "ترامپ از احتمال ازسرگیری مذاکرات آمریکا-ایران طی همین هفته می‌گوید؛ قفل زمانی بر سر غنی‌سازی و فشار روی بازگشایی تنگه هرمز",
@@ -5345,59 +5399,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/usiran-war-news-live-updates-islamabad-talks-hotel-pakistan-israel-lebanon-strikes-donald-trump-latest-strait-of-hormuz-101775868910414.html",
         "image": "http://www.bing.com/th?id=ONUT.9JLBM8PjmobvNsGaxoZwiQ&pid=News",
         "timestamp": 1775867580.0
-    },
-    {
-        "title_fa": "گزارش تورم رو به جهش ترامپ؛ پیوند مستقیم به تنش‌های ایران",
-        "title_en": "Trump faces surging inflation report, fueled by Iran conflict",
-        "summary": [
-            "واشنگتن‌پست از «گزارش تورم رو به جهش» می‌گوید که به‌عنوان پیامدِ تنش‌های مرتبط با درگیری ایران مطرح شده است؛ یعنی هزینه‌های اقتصادی به‌صورت مستقیم تحت اثر تشدید بحران قرار می‌گیرد.",
-            "این گزارش نشان می‌دهد بازارها و اقتصاد آمریکا از ناحیه ریسک ژئوپلیتیک پیرامون ایران، فشار قیمتی می‌گیرند؛ یعنی سنجش‌های کلان اقتصادی به میدان جنگ مالی و امنیتی گره خورده است.",
-            "در سطح سیاست‌گذاری، چنین وضعیتی معمولاً محدودکننده است: رشد هزینه‌ها می‌تواند دست ترامپ را برای مدیریت افکار عمومی و کنترل نارضایتی اقتصادی تنگ‌تر کند، چون تورم به سرعت به معیشت ضربه می‌زند."
-        ],
-        "impact": "افزایش تورمِ ناشی از تنش با ایران می‌تواند هم ثبات سیاسی داخل آمریکا را تحت فشار بگذارد و هم هزینه‌های اقتصادی را برای مدیریت بحران بالا ببرد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/money/markets/inflation-probably-picked-up-in-march-fueled-by-iran-conflict/ar-AA20zfp4",
-        "clean_url": "https://www.msn.com/en-us/money/markets/inflation-probably-picked-up-in-march-fueled-by-iran-conflict/ar-AA20zfp4",
-        "image": null,
-        "timestamp": 1775865733.0
-    },
-    {
-        "title_fa": "عدم امکان استخراج محتوا از منبع؛ فقط عنوان درباره «اهرم ایران» در مذاکرات صلح پاکستان و پیوند آن با تنگه هرمز",
-        "title_en": "Iran's 'trump card' in Pakistan peace talks – the Strait of Hormuz",
-        "summary": [
-            "متن گزارش قابل‌دسترسی نیست و فقط عنوان کلی «اهرم ایران» در مذاکرات صلح پاکستان با اشاره به تنگه هرمز دیده می‌شود؛ بنابراین جزئیات ادعای اهرم و سازوکار آن قابل راستی‌آزمایی نیست.",
-            "چون هیچ اطلاعات مشخصی درباره فشار خارجی، تحرکات نیابتی، یا واکنش اقتصاد/افکار عمومی ارائه نشده، نمی‌توان اثرات ساختاری بر ثبات رژیم را بر مبنای متن گزارش تحلیل کرد.",
-            "هم‌زمان، نبودِ متن مانع اجرای چارچوب واقع‌گرایانه است: هرگونه ارتباط‌سازی بیشتر (به آمریکا/تحریم‌ها/عملیات) بدون شواهد مستقیم، حدس‌زنی محسوب می‌شود."
-        ],
-        "impact": "به علت نبود متن گزارش، ارزیابی اثر واقعی ادعای «اهرم ایران» بر روند مذاکرات پاکستان و ریسک تنگه هرمز فعلاً ممکن نیست.",
-        "tag": "نامشخص",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/04/11/iran-strait-of-hormuz-control-peace-talks-pakistan/89533760007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/11/iran-strait-of-hormuz-control-peace-talks-pakistan/89533760007",
-        "image": "http://www.bing.com/th?id=ONUT.iy3q_sbf8Pqq_hDdwrI0GA&pid=News",
-        "timestamp": 1775865600.0
-    },
-    {
-        "title_fa": "گزارش زنده: سفر JD Vance به پاکستان برای گفت‌وگو درباره ایران؛ همزمان ترامپ «برنامه پشتیبان لازم نیست» اعلام می‌کند",
-        "title_en": "Iran, US-Israel war LIVE: JD Vance reaches Pakistan for talks with Iran – ‘Don’t need backup plan’ says Trump",
-        "summary": [
-            "JD Vance برای گفت‌وگو با محور ایران به پاکستان رسیده است؛ این یعنی بازیگری آمریکا در مسیر مدیریت تنش با تهران از کانال منطقه‌ای در جریان است.",
-            "هم‌زمان ترامپ می‌گوید «برنامه پشتیبان لازم نیست»؛ پیام ضمنی آن، تاکید بر کنترل روایت و عدم پذیرش سناریوی تشدید خارج از اختیار واشنگتن است.",
-            "متن منبع جزئیات اقتصادی یا گزارش مستند درباره واکنش داخلی ایران، اعتراضات یا اقدامات عملی علیه دارایی‌های رژیم ارائه نمی‌دهد؛ بنابراین اثرگذاری فوری بیشتر در سطح دیپلماتیک/راهبردی مطرح است."
-        ],
-        "impact": "این رویداد می‌تواند به کوتاه‌مدت فشار روانی و کانالیزه شدن مذاکره/مهار تنش را تقویت کند، اما فعلاً از متن منبع چیزی که به اقدام عملی مستقیم علیه رژیم یا افزایش تحریم‌ها اشاره کند دیده نمی‌شود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Financial Express",
-        "url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-vance-peace-talks-in-pakistan-strait-of-hormuz-lebanon-oil-price-ceasefire-latest-news/4203399/",
-        "clean_url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-vance-peace-talks-in-pakistan-strait-of-hormuz-lebanon-oil-price-ceasefire-latest-news/4203399",
-        "image": "http://www.bing.com/th?id=ONUT.AM09HrynXLoptdYO2D4W5g&pid=News",
-        "timestamp": 1775863980.0
     }
 ]
