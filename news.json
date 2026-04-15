@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اظهارات ترامپ درباره «نزدیک بودن پایان جنگ ایران» و اشاره به موعد احتمالی پیش از سفر سلطنتی",
+        "title_en": "Trump Says Iran War ‘Close to Over,’ Hints at Possible Deadline Ahead of Royal Visit",
+        "summary": [
+            "ترامپ مدعی شده جنگ ایران «تقریباً رو به پایان» است و این ادعا را به‌عنوان نشانه‌ای از نزدیک شدن به یک نقطه تصمیم‌گیری مطرح کرده است.",
+            "وی به «موعد احتمالی» اشاره کرده که می‌تواند با زمان‌بندی سیاسی پیش از یک سفر سلطنتی هم‌زمان شود؛ یعنی فشار و چانه‌زنی دیپلماتیک محتمل است با ضرب‌آهنگ رسانه‌ای-سیاسی دنبال شود.",
+            "این پیام بیش از آنکه خبر عملیاتی باشد، سیگنال فشار خارجی و مدیریت افکار عمومی است و می‌تواند بر محاسبات تهران در حوزه سیاست داخلی و سیاست امنیتی اثر بگذارد."
+        ],
+        "impact": "اگر موعد اعلام‌شده صرفاً ابزار فشار باشد، هدف اصلی آن کاهش انعطاف تهران و وادار کردن به پذیرش گزینه‌های محدودتر در مذاکرات/اقدامات بعدی خواهد بود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Time Magazine",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JenFYMXRxUXZhand1anVnODNCbm0zb0s1Y0tTM1dxbWF6OTNuSVJnX04waTJ5ZW1MdGprbjM1SndmeGhsdkZuTzlNT0o2TGMxZy14bWJfa0hoM293TGhGVkRoSkJxQU4ySTZ6WDN6TjRvMGViLWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JenFYMXRxUXZhand1anVnODNCbm0zb0s1Y0tTM1dxbWF6OTNuSVJnX04waTJ5ZW1MdGprbjM1SndmeGhsdkZuTzlNT0o2TGMxZy14bWJfa0hoM293TGhGVkRoSkJxQU4ySTZ6WDN6TjRvMGViLWc",
+        "image": null,
+        "timestamp": 1776279860.0
+    },
+    {
         "title_fa": "آیا ترامپ می‌تواند توافق بهتری با ایران از توافق اوباما بسازد؟",
         "title_en": "Can Trump get a better Iran deal than Obama?",
         "summary": [
@@ -106,6 +124,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-war-iran-military-threatens-red-sea-gulf-trade/ar-AA20X4zf",
         "image": null,
         "timestamp": 1776257284.0
+    },
+    {
+        "title_fa": "تهدید ایران به ضربه به کشتیرانی در خلیج فارس و دریای سرخ در چارچوب تنش میان واشنگتن و تهران",
+        "title_en": "Live updates: Iran threatens shipping in Gulf and Red Sea",
+        "summary": [
+            "NBC News گزارش می‌دهد ایران «کشتیرانی» در خلیج فارس و دریای سرخ را تهدید کرده است؛ یعنی اهرم فشار دریایی که می‌تواند مسیر تجارت و بیمه/ریسک حمل‌ونقل منطقه را بالا ببرد.",
+            "این پیام در کنار «پیمان/آتش‌بس آمریکا-ایران» و هم‌زمانی با موضوع تنگه هرمز و «محاصره/بلوکاد ترامپ» مطرح می‌شود که نشانه بالا بودن احتمال تداوم چرخه فشار و تقابل است، نه رفع دائمی ریسک.",
+            "پای ثابت گزارش‌های NBC، پیوند این تنش‌ها با جنگ اسرائیل-لبنان و تلاش‌های «مذاکرات صلح» است؛ یعنی ریسک گسترش بحران منطقه‌ای در حال ترکیب شدن با ابزارهای دریایی ایران است."
+        ],
+        "impact": "تهدید عملیاتی علیه کشتیرانی می‌تواند ظرف کوتاه‌مدت ریسک امنیتی و هزینه‌های حمل‌ونقل را جهشی کند و ثبات هر توافق شکننده بین آمریکا و ایران را فرسایش دهد.",
+        "tag": "دریایی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-blockade-iran-hormuz-trump-peace-talks-rcna331890",
+        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-blockade-iran-hormuz-trump-peace-talks-rcna331890",
+        "image": "http://www.bing.com/th?id=ONUT.rA1_ApXxdYFXbiEkmzSbag&pid=News",
+        "timestamp": 1776255360.0
     },
     {
         "title_fa": "محاصره دریایی آمریکا برای قطع «شریان‌های اقتصادی» ایران از مسیر بنادر؛ از خارک تا چابهار",
@@ -5363,41 +5399,5 @@
         "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-trump-iran-hormuz-israel-lebanon-ceasefire-talks-pakistan-rcna285140",
         "image": null,
         "timestamp": 1775883942.0
-    },
-    {
-        "title_fa": "روز ۴۳ درگیری ایران و آمریکا؛ مذاکرات آتش‌بس در اسلام‌آباد همزمان با فروپاشی شبکه ارتباطی و تلفات سنگین لبنان",
-        "title_en": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-        "summary": [
-            "هیئت ارشد ایران برای گفت‌وگوهای آتش‌بس با آمریکا وارد اسلام‌آباد شد؛ محمدباقر قالیباف و عباس عراقچی مذاکرات را پیش می‌برند و طرف آمریکایی با JD Vance، استیو ویتکف و جرد کوشنر حاضر است.",
-            "همزمان با نزدیک‌شدن مذاکرات، واشنگتن به نمایندگی از Vance پیام داده آماده «دست باز» است اگر ایران حسن‌نیت نشان دهد؛ اما در تهران نگاه غالب بدبینانه است و تحلیلگر زُهْره خرازمی از تردید عمومی نسبت به آمریکا می‌گوید، در حالی که تهران مدعی اهرم‌هایی مانند تنگه هرمز است.",
-            "در داخل ایران اختلال ارتباطی گسترده ادامه دارد: قطع اینترنتِ سراسری از مرز ۱۰۰۰ ساعت عبور کرده (به گفته NetBlocks). در جبهه منطقه‌ای هم لبنان از کشته‌شدن حداقل ۳۵۷ نفر در حملات اسرائیل خبر داده و هشدار داده تلفات می‌تواند افزایش یابد."
-        ],
-        "impact": "ترکیب «گفت‌وگوهای آتش‌بس» با قطع اینترنت و تشدید تلفات در لبنان، فشار مستقیم بر توان حکمرانی و هزینه‌های انسانی-سیاسی نظام می‌گذارد و فضای معامله را پرریسک و شکننده می‌کند.",
-        "tag": "مذاکرات",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-war-happening-day-43-044917734.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-war-happening-day-43-044917734.html",
-        "image": null,
-        "timestamp": 1775883081.0
-    },
-    {
-        "title_fa": "تهدیدهای پیش از مذاکره ایران و هشدار ترامپ سایه‌افکن بر «مذاکرات سرنوشت‌ساز» اسلام‌آباد",
-        "title_en": "Pre-negotiation threats by Iran, Trump cast shadow over ‘make-or-break’ Islamabad peace talks",
-        "summary": [
-            "نماینده‌های ایران برای گفت‌وگوهای برنامه‌ریزی‌شده در اسلام‌آباد با آمریکا وارد شده‌اند، اما تهران شرط گذاشته پیش از شروع مذاکره باید آتش‌بس در لبنان برقرار شود و دارایی‌های بلوکه‌شده ایران آزاد گردد؛ همزمان اعلام شده اجرای دو اقدام توافق‌شده هنوز انجام نشده است.",
-            "دونالد ترامپ به‌صورت علنی هشدار داده اگر ایران به توافق نرسد، آمریکا اقدام نظامی تازه‌ای انجام خواهد داد؛ در همین چارچوب، برخی ابهام‌ها درباره اینکه آیا نشست طبق زمان‌بندی برگزار می‌شود یا نه، افزایش یافته است.",
-            "نواز شریف «مذاکرات اسلام‌آباد» را «سرنوشت‌ساز» توصیف کرده؛ با وجود اعلام آتش‌بس دو هفته‌ای ترامپ که بخشی از حملات را متوقف کرده، اختلافات کلیدی همچنان حل نشده‌اند (ادعای ادامه اختلال در تنگه هرمز و ادامه درگیری‌ها میان اسرائیل و حزب‌الله در لبنان)."
-        ],
-        "impact": "این پیش‌شرط‌ها و تهدیدهای متقابل، احتمال شکست یا دست‌کم تأخیر مذاکرات را بالا می‌برد و بحران را به سمت فاز فشار حداکثری با هزینه‌های مستقیم برای ثبات منطقه‌ای سوق می‌دهد.",
-        "tag": "مذاکرات",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/iran-us-islamabad-talks-trump-threats-ghalibaf-lebanon-ceasefire-10630577/",
-        "clean_url": "https://indianexpress.com/article/world/iran-us-islamabad-talks-trump-threats-ghalibaf-lebanon-ceasefire-10630577",
-        "image": "http://www.bing.com/th?id=ONUT.m9K5SW-67G01ArDDiShdrg&pid=News",
-        "timestamp": 1775880060.0
     }
 ]
