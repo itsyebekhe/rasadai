@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "میانجی‌ها برای تمدید آتش‌بس آمریکا-ایران فشار می‌آورند",
+        "title_en": "Mediators push to extend U.S.-Iran ceasefire",
+        "summary": [
+            "طبق گزارش NPR، میانجی‌ها در حال رایزنی برای تمدید آتش‌بس میان آمریکا و ایران هستند؛ این یعنی وضعیت جنگی/تنش‌زا می‌تواند با توافقی جدید ادامه پیدا کند یا حداقل موقتاً کنترل شود.",
+            "این رویداد در سطح فشار خارجی قابل ارزیابی است: اصرار میانجی‌ها به تمدید، نشان می‌دهد طرفین به دنبال کاهش ریسک و هزینه‌های مستقیم برخورد هستند و فضای دیپلماسی فعال‌تر شده است.",
+            "با توجه به متن محدود خبر (فقط عنوان)، جزئیات اقتصادی، سازوکارهای نظارتی، یا واکنش داخلی ایران ارائه نشده؛ بنابراین درباره اثرات داخلی باید از حدس و فرض خودداری کرد."
+        ],
+        "impact": "تمدید احتمالی آتش‌بس می‌تواند فعلاً شدت تنش را پایین نگه دارد، اما بدون مشخص شدن جزئیات، اثر پایدار یا جبران‌کننده برای وضعیت داخلی ایران قابل ارزیابی نیست.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates",
+        "clean_url": "https://www.npr.org/2026/04/16/nx-s1-5787392/iran-middle-east-updates",
+        "image": null,
+        "timestamp": 1776339930.0
+    },
+    {
         "title_fa": "نظر: «نزدیک‌به‌توافق» محبوب‌ترین نوع معامله برای رژیم ایران است",
         "title_en": "Opinion | A near-deal is Iran’s favorite kind of deal",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjRfUTBUWWRteHBWdHNXSnd5a201Yy1HamhsSHNVWGdJN2hoSXEtUFRrU3FEblVIVEhrT0xoclVReHZ4Q0hmSHdTMEhIczNtMnhMTkg2RUtVM1paakhMcTFqV2RXeXZPMGpjQ0l3bnJRLTNtd3lhaThiOHRpRDJsTTJ0TG9FNV9Lc1lnbV9adUxxUGZQSlRJ0gGcAUFVX3lxTE1lWWFZdDhfaW5FUDRxQjJ0Nk1SNFFyV00zdjh2RWZqdmhuN2Rpd1hndjhMa0d4amgzTXlrUWtBNmY1eUQxaWREQTBvVjRPdERPWHprbUVDODBRcFhueWZuaVVJeGduSWZEd3ExVndxeUlqMndPWEk2YUdCQTZYNjhLM05TdmFsRVNUMVFCbktLU3M3MW9QQkVqeThTdg",
         "image": null,
         "timestamp": 1776317558.0
+    },
+    {
+        "title_fa": "تلاش‌های دیپلماتیک برای پایان جنگ و ازسرگیری جریان نفت از تنگه هرمز؛ فشار چندجانبه افزایش می‌یابد",
+        "title_en": "Live Updates: Diplomatic efforts to end Iran war, reopen Strait of Hormuz intensify on multiple fronts",
+        "summary": [
+            "با وجود آتش‌بس که جنگ را «منجمد» کرده، تنگه هرمز هنوز برای حرکت نفت فعال نشده و همین گلوگاه اقتصادی-امنیتی، محور مذاکرات و رایزنی‌های فزاینده است.",
+            "خبر بر «ایجاد مسیر خروج دیپلماتیک» برای توقف کامل بحران تاکید دارد، یعنی تمرکز از صرفِ توقف درگیری به رفع مانع عملیِ انتقال نفت منتقل شده است.",
+            "چون در متن به نبود حرکت نفت از تنگه اشاره شده، تنش و ریسک برای زنجیره تأمین انرژی همچنان پابرجاست و طرف‌های درگیر ناچارند برای عملیاتی شدن توافق، از چند مسیر هم‌زمان فشار بیاورند."
+        ],
+        "impact": "آتش‌بس بدون باز شدن تنگه هرمز، بحران را به شکل اقتصادی ادامه‌دار می‌چسباند و احتمالاً مذاکرات برای تضمین اجرای واقعی را تشدید می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.1,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-diplomacy-ceasefire/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-diplomacy-ceasefire",
+        "image": "http://www.bing.com/th?id=ONUT.yhGj9qATJRhuYcPABbsEAA&pid=News",
+        "timestamp": 1776316560.0
     },
     {
         "title_fa": "بازدید رئیس ستاد ارتش پاکستان از تهران برای تمدید آتش‌بس میان آمریکا و ایران",
@@ -342,6 +378,24 @@
         "timestamp": 1776304440.0
     },
     {
+        "title_fa": "هگست گفت آمریکا در صورت شکست مذاکرات، آمادگی بازگشت به درگیری و ادامه محاصره بنادر ایران را دارد",
+        "title_en": "Iran War Live Updates: Hegseth Says U.S. Is Poised to Resume Combat if Talks Fail",
+        "summary": [
+            "پیت هگست، وزیر دفاع آمریکا، به رهبران ایران هشدار داد «انتخاب درست» داشته باشند و اعلام کرد اقدامات محاصره/مسدودسازی بنادر ایران در صورت ناکامی مذاکرات ادامه خواهد یافت.",
+            "او صراحتاً گفت اگر مذاکرات شکست بخورد، آمریکا آماده است «درگیری» را از سر بگیرد؛ پیام اصلی، انتقال فشار از سطح گفت‌وگو به سطح عملیات نظامی است.",
+            "این موضع به‌عنوان ابزار فشار خارجی طراحی شده تا هزینه اقتصادی و دریایی برای ایران را بالا ببرد و از ادامه بن‌بست سیاسی جلوگیری کند."
+        ],
+        "impact": "با توجه به تهدید ادامه محاصره و امکان از سرگیری درگیری، احتمال تشدید تنش دریایی و افزایش فشار اقتصادی بر سیستم حکمرانی ایران بالا می‌رود.",
+        "tag": "فشار_نظامی",
+        "urgency": 8,
+        "sentiment": -0.55,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+        "clean_url": "https://www.nytimes.com/live/2026/04/16/world/iran-war-trump-lebanon-news",
+        "image": "http://www.bing.com/th?id=ONUT.6IBdc4Dod2YQJGqRe5jdsw&pid=News",
+        "timestamp": 1776303960.0
+    },
+    {
         "title_fa": "ایران: عدم عقب‌نشینی از تنگه هرمز تا زمان «تأمین کامل حقوق»؛ هشدار مستقیم به آمریکا",
         "title_en": "Iran Israel War Live Updates: Iran warns US it won’t step back from Hormuz until rights are fully secured",
         "summary": [
@@ -520,6 +574,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa3Npb0RfaGNzekhaVUVqQ0I5OHYzbllTN2R1bDA4cDdGcE1sTHl2aWNkSEhHTHZoWVo4RFI3V2ticmxBTnluQTNHOGZFajA1dVV0QkFkdVFETVYydDMzdHlQQmU1aXdiY2hOSkxhSmtNTTg5MGZZOFd1T1p5dXNXekdtYjlDRklseHJDeXI3RXRPSjNkbUlKZlJOUHYzcHBORWhFNnBMendpVnF5SkI4Q2xSZkx0dEMzT0HSAb8BQVVfeXFMUEx1SEFxRV81QW5panZBWGVnM3hEU3RDeXNQZEtQdjFhLVlzZ0JwMDVDeDgtazg1N0FkckdkcnFfNkc4MUNUMGViSkwwNmRBUmNxc29TRnhXOTJ0YXVlc1dWLUZKVHVlMlkxTWVZR0l6VWdDcTJIR2RWMDNLQ0dYN2tKYWhhdG1UUWdRSkVZUTU3SjdTdG9IdGIyRmdSdC1TSXBzMkY5b1Z6MWdMdXpnVjMxX3BJRVBJOElYUzJMMTQ",
         "image": null,
         "timestamp": 1776283669.0
+    },
+    {
+        "title_fa": "اقتصاد جنگ‌زده ایران را به مذاکره هل می‌دهد",
+        "title_en": "Iran’s war-shattered economy means it has an urgent reason to negotiate",
+        "summary": [
+            "وال‌استریت ژورنال به «آسیب‌های ناشی از حملات آمریکا و اسرائیل» اشاره می‌کند که ترمیم آن‌ها سال‌ها زمان می‌برد و همین هزینه بلندمدت، فشار فوری برای یافتن راه‌حل مالی ایجاد کرده است.",
+            "نتیجه این وضعیت، افزایش انگیزه تهران برای مذاکره در جهت «تسکین مالی» است؛ یعنی دسترسی به منابع/معافیت‌های پولی یا سازوکارهایی برای کاهش فشار مالی، هدف اصلی گفت‌وگوها معرفی می‌شود.",
+            "چارچوب گزارش این است که مذاکره نه از جنس چرخش سیاسی، بلکه واکنش اضطراری به فرسایش اقتصادیِ ناشی از جنگ است و بدون آن، ظرفیت بازسازی و مدیریت اقتصاد دچار فرسایش طولانی‌مدت می‌شود."
+        ],
+        "impact": "این روایت نشان می‌دهد فشار ترکیبیِ جنگ و هزینه‌های بازسازی، تهران را برای گرفتن تسکین مالی از مسیر مذاکره در موقعیت کم‌گزینه قرار می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/money/general/iran-s-war-shattered-economy-means-it-has-an-urgent-reason-to-negotiate/ar-AA20Zyzr",
+        "clean_url": "https://www.msn.com/en-us/money/general/iran-s-war-shattered-economy-means-it-has-an-urgent-reason-to-negotiate/ar-AA20Zyzr",
+        "image": "http://www.bing.com/th?id=ONUT.BWLyo6UQiD447G6_lgvRjQ&pid=News",
+        "timestamp": 1776283200.0
     },
     {
         "title_fa": "رد کاخ سفید به درخواست تمدید آتش‌بس و احتمال از سرگیری گفت‌وگوها در پاکستان",
@@ -5327,77 +5399,5 @@
         "clean_url": "https://www.nytimes.com/live/2026/04/12/world/iran-war-trump-talks-pakistan",
         "image": null,
         "timestamp": 1775942400.0
-    },
-    {
-        "title_fa": "خروج ونس از پاکستان پس از بن‌بست در مذاکرات جنگ ایران",
-        "title_en": "Live updates: Vance leaves Pakistan after impasse in Iran war negotiations",
-        "summary": [
-            "بر اساس گزارش، ونس پاکستان را ترک کرده چون مذاکرات مربوط به آتش‌بس/کاهش تنش در جنگ ایران به بن‌بست خورده و توافقی حاصل نشده است.",
-            "در خبر اشاره شده که ایران و آمریکا (طرف‌های مذاکره) گفت‌وگو را بدون نتیجه پایان داده‌اند و هر طرف دیگری را مقصر معرفی می‌کند.",
-            "این رخداد نشان می‌دهد مسیر دیپلماسی برای مهار پیامدهای جنگ فعلاً مسدود شده و هزینه سیاسیِ ادامه بن‌بست بر عهده همه طرف‌ها خواهد بود."
-        ],
-        "impact": "بن‌بست در مذاکرات، احتمال تداوم یا تشدید تنش‌ها را بالا می‌برد چون کانال توقف یا محدودسازی جنگ فعلاً باز نمی‌ماند.",
-        "tag": "مذاکره",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-12-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-12-2026",
-        "image": "http://www.bing.com/th?id=ONUT.AOWXbndIruVNa5ohnexnfA&pid=News",
-        "timestamp": 1775941920.0
-    },
-    {
-        "title_fa": "خبر توقف درگیری آمریکا–اسرائیل–ایران: «با وجود شکست‌های میدانی، انتظارات را پایین نیاوردند»",
-        "title_en": "US-Israel-Iran War Ceasefire News Live Updates: ‘Refused to lower expectations despite battlefield defeats’",
-        "summary": [
-            "این گزارش بر محور «توقف درگیری» میان آمریکا، اسرائیل و ایران تنظیم شده، اما همزمان یک پیام رسانه‌ای/سیاسی را برجسته می‌کند که طرف ایرانی «با وجود شکست‌های میدانی» از توقعات خود کوتاه نیامده است.",
-            "عبارت «battlefield defeats» نشان می‌دهد درگیری‌های نظامی/میدانی برای ایران نتیجه‌ مطلوب نداشته، ولی اراده‌ سیاسی برای ادامه‌ی روند مذاکره/چانه‌زنی یا تغییر نکردن اهداف، حفظ شده است.",
-            "چون متن ارائه‌شده صرفاً تیتر و سرنخ خبری است و جزئیات مشخص از شروط توقف، طرف‌های مذاکره‌کننده، یا زمان/دامنه‌ آتش‌بس ندارد، نمی‌توان درباره اثر عملی این توقف بر میادین یا موضع رسمی دقیق ایران نتیجه‌گیری قطعی کرد."
-        ],
-        "impact": "اگر توقف درگیری واقعی و قابل‌اجرا باشد، شکاف بین «شکست میدانی» و «پایین نیاوردن انتظارات» می‌تواند به چرخه‌ تنش‌های بعدی و شکست آتش‌بس منجر شود.",
-        "tag": "آتش‌بس",
-        "urgency": 9,
-        "sentiment": -0.2,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-ceasefire-talks-israel-airstrike-missile-attack-lebanon-nawaf-salam-donald-trump-pakistan-netanyahu-deal-strait-of-hormuz-impact-latest-news/liveblog/130201055.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-ceasefire-talks-israel-airstrike-missile-attack-lebanon-nawaf-salam-donald-trump-pakistan-netanyahu-deal-strait-of-hormuz-impact-latest-news/liveblog/130201055.cms",
-        "image": "http://www.bing.com/th?id=ONUT.FQPSItefln_fKCaKjLGs8Q&pid=News",
-        "timestamp": 1775940720.0
-    },
-    {
-        "title_fa": "مذاکرات ایران-آمریکا در پاکستان همزمان با ادعای آمریکا درباره «پاکسازی» تنگه هرمز",
-        "title_en": "Iran-US negotiations underway in Pakistan, US says Strait of Hormuz being 'cleared'",
-        "summary": [
-            "بر اساس گزارش France 24، مذاکرات ایران و آمریکا در پاکستان در جریان است؛ نشانه‌ای از تلاش برای مدیریت مستقیم بحران‌های دریایی و امنیتی، نه رفع ریشه‌ای تنش‌های ساختاری.",
-            "همزمان، آمریکا مدعی شده تنگه هرمز در حال «clearing» شدن است؛ یعنی کنترل/کاهش ریسک برای مسیرهای حیاتی نفتی، با یک چارچوب عملیاتی که می‌تواند به محدودیت یا فشار بر بازیگران منطقه‌ای ختم شود.",
-            "در غیاب جزئیات دقیق از محتوا و زمان‌بندی توافق، خروجی محتمل بیشتر «تنظیم میدان» است تا تضمین پایدار؛ برای همین، اثر کوتاه‌مدت می‌تواند کاهش تنش دریایی باشد اما اهرم‌های اقتصادی و امنیتی همچنان برای فشار سیاسی باقی می‌ماند."
-        ],
-        "impact": "همزمانی گفت‌وگوی دیپلماتیک با اقدامات اعلامی درباره تنگه هرمز، بیانگر رقابت بر سر اهرم‌های امنیت مسیر انرژی است و می‌تواند موقتاً تنش را پایین بیاورد اما بحران را حل نمی‌کند.",
-        "tag": "هامز",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "France 24",
-        "url": "https://www.msn.com/en-us/news/world/us-iran-negotiations-underway-trump-says-strait-of-hormuz-being-cleared/ar-AA20FRnu",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-negotiations-underway-trump-says-strait-of-hormuz-being-cleared/ar-AA20FRnu",
-        "image": null,
-        "timestamp": 1775940509.0
-    },
-    {
-        "title_fa": "آیا جامعه اسرائیل به جنگ دائمی عادت کرده است؟",
-        "title_en": "Has Israeli society become conditioned to permanent war?",
-        "summary": [
-            "الجزیره طرح می‌کند که ممکن است جامعه اسرائیل به الگوی «جنگ دائمی» عادت کرده باشد، اما متن ارائه‌شده فقط یک عنوان/طرح بحث است و جزئیات قابل راستی‌آزمایی ارائه نمی‌دهد.",
-            "هیچ اشاره‌ای به اقدامات مشخص دولت اسرائیل، تصمیم‌های امنیتی، یا آمار اجتماعی/اقتصادی در متن موجود نیست، بنابراین نمی‌توان اثرات ساختاری یا پیامدهای عملی را دقیق سنجید.",
-            "از آنجا که در اطلاعات فعلی فقط طرح پرسش گزارش شده و شواهد مشخصی نقل نشده، این موضوع بیشتر در سطح تحلیل رسانه‌ای/روایت عمومی باقی می‌ماند نه یک گزارش رویدادی."
-        ],
-        "impact": "در نبود داده‌های مشخص، این گزارش فعلاً فقط یک قاب رسانه‌ای درباره روان‌شناسی/عادت جنگی در اسرائیل است و اثر مستقیم قابل اندازه‌گیری از متن استخراج نمی‌شود.",
-        "tag": "تحلیلرسانه‌ای",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdC1HTE12b29jczJBUHdTdWFycTM3R3pmTnVRclFVamJIcnVnNHJ6VzVxQjd0RVhDQmVRMnFuNE1TZFhQT1pEMF9lYTV6QTJybk1nWHc2NkRqQnQzWkh2VG9icERsMHB1OXkza0FYNTdPOEItV3VyWnI2d0l1SUVJZzZIMEdZbTNqTGQ3THkzcTBSdnNEWmlwNlg0WTBOLXhYeVI5NWR2MXpJbzY4bkI00gG0AUFVX3lxTE9PSEJfTE5kYXpOSVQtWUlURTUxeHFTT2VwRW1KcE1SSGVWZHBZT08yaWxwcU9wZEZ0dC0xcl80bDRSclVWMk5xamJIOWpaaGJlRE90YzBua0oxZFUtU1JIUjZfNkFtcXZNMXF1YXlDUnlpWWFncXFHcFdkMy0zaXpsdFdyNHRzRGtrLXJvcmE2cFFnR2hrUFlWbXU3ZzByVDZJaEZmNV9iQWJiNW5VZnJBVlBVVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdC1HTE12b29jczJBUHdTdWFycTM3R3pmTnVRclFVamJIcnVnNHJ6VzVxQjd0RVhDQmVRMnFuNE1TZFhQT1pEMF9lYTV6QTJybk1nWHc2NkRqQnQzWkh2VG9icERsMHB1OXkza0FYNTdPOEItV3VyWnI2d0l1SUVJZzZIMEdZbTNqTGQ3THkzcTBSdnNEWmlwNlg0WTBOLXhYeVI5NWR2MXpJbzY4bkI00gG0AUFVX3lxTE9PSEJfTE5kYXpOSVQtWUlURTUxeHFTT2VwRW1KcE1SSGVWZHBZT08yaWxwcU9wZEZ0dC0xcl80bDRSclVWMk5xamJIOWpaaGJlRE90YzBua0oxZFUtU1JIUjZfNkFtcXZNMXF1YXlDUnlpWWFncXFHcFdkMy0zaXpsdFdyNHRzRGtrLXJvcmE2cFFnR2hrUFlWbXU3ZzByVDZJaEZmNV9iQWJiNW5VZnJBVlBVVQ",
-        "image": null,
-        "timestamp": 1775940333.0
     }
 ]
