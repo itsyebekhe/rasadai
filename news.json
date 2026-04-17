@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "رکوردزنی شاخص‌های آمریکا همزمان با افت قیمت نفت",
+        "title_en": "US Stock Market Today | Dow Jones | Nasdaq Highlights: S&P 500, Nasdaq end at fresh records as oil prices tumble",
+        "summary": [
+            "بر اساس گزارش Economic Times، شاخص‌های بورس آمریکا (S&P 500 و Nasdaq) در پایان معاملات به رکوردهای تازه رسیدند.",
+            "هم‌زمان با این رشد، قیمت نفت کاهش پیدا کرده که در گزارش به‌عنوان عامل هم‌سو با بهبود بازارها ذکر شده است.",
+            "متن ارائه‌شده عملاً اطلاعاتی درباره ایران یا رژیم سیاسی/تحریم‌ها ارائه نمی‌کند و بخش مربوط به بازار هند (Nifty) نیز فقط عدد و اشاره کوتاه دارد."
+        ],
+        "impact": "افت قیمت نفت می‌تواند فشار هزینه‌های انرژی را کم کند و هم‌زمان احساس ریسک‌پذیری در بازارها را تقویت کند، اما در متن حاضر هیچ ارتباط مستقیم و قابل‌اتکایی به ایران گزارش نشده است.",
+        "tag": "اقتصاد",
+        "urgency": 1,
+        "sentiment": 0.4,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-israel-lebanon-war-ceasefire-peace-talks-brent-crude-oil-inflation-earnings-stock-price-news/liveblog/130332336.cms",
+        "clean_url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-israel-lebanon-war-ceasefire-peace-talks-brent-crude-oil-inflation-earnings-stock-price-news/liveblog/130332336.cms",
+        "image": "https://economictimes.indiatimes.com/thumb/msid-130332336,width-1200,height-900,resizemode-4,imglength-2084152/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-trump-iran-israel-lebanon-war-ceasefire-peace-talks-brent-crude-oil-inflation-earnings-stock-price-news.jpg",
+        "timestamp": 1776456840.0
+    },
+    {
+        "title_fa": "بازتولید «ماموریت انجام شد»؛ جاروجنجالی تبلیغاتی درباره «پیروزی» در جنگ علیه ایران",
+        "title_en": "Trump’s Iran war victory boast has echoes of Bush’s ill-fated ‘mission accomplished’ claim",
+        "summary": [
+            "گاردین می‌گوید ادعای پیروزی جنگی ترامپ درباره ایران، از نظر لحن و پیام‌رسانی با ژست «ماموریت انجام شد» جورج دبلیو بوش هم‌خانواده است؛ یعنی بیشتر تبلیغاتی و در قالب اطمینان‌سازی عمل می‌کند تا نتیجه‌گیری راهبردی.",
+            "این مقایسه به شکست بعدی در آن روایت اشاره دارد و می‌کشد مخاطب را به این نتیجه برساند که چنین اعلام‌های زودهنگام، می‌تواند واقعیت پیچیده میدانی و هزینه‌های بعدی را پنهان کند.",
+            "متن دقیقاً وارد جزئیات اثربخشی یا نتایج عملی اقدامات علیه ایران نمی‌شود و تمرکز آن بر «اثر روایی» و شباهت سیاسی/رسانه‌ای است که از یک ژست پیروزی فاصله‌ای با واقعیت ندارد."
+        ],
+        "impact": "این گزارش بیشتر هشداری سیاسی-رسانه‌ای است: جارزدن پیروزی بدون تصویر روشن از پیامدهای واقعی، ریسک محاسبه غلط و تشدید رقابت‌های بعدی را بالا می‌برد.",
+        "tag": "تبلیغات",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTdTM1p3MnlIWXdXTUJzRElJR0I5U3NabWFsMmZYU1VTVjhTbGg1Zlo5NlFpdlhJbmp5c3kxYTBEeFR0bnNmQ0FzMS04NDByTHdxUjdXSEpHRGtOUWsxNHRFUzRuN1FYSFE1dEd4VnNLd2g3Wm9SQVVjbWRhcXYxWEtHNWwtbTg0LTVNaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNTdTM1p3MnlIWXdXTUJzRElJR0I5U3NabWFsMmZYU1VTVjhTbGg1Zlo5NlFpdlhJbmp5c3kxYTBEeFR0bnNmQ0FzMS04NDByTHdxUjdXSEpHRGtOUWsxNHRFUzRuN1FYSFE1dEd4VnNLd2g3Wm9SQVVjbWRhcXYxWEtHNWwtbTg0LTVNaw",
+        "image": null,
+        "timestamp": 1776455880.0
+    },
+    {
         "title_fa": "واکنش جهانی به بازگشایی تنگه هرمز؛ پیام‌های متناقض آمریکا و ایران و تداوم «محاصره»",
         "title_en": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
         "summary": [
@@ -268,6 +304,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/scoop-us-considers-20-billion-cash-for-uranium-deal-with-iran/ar-AA217kAZ",
         "image": null,
         "timestamp": 1776428819.0
+    },
+    {
+        "title_fa": "بالا رفتن امیدها به مذاکرات ایران؛ اما مسیر پایان‌دادن به اختلافات سخت‌تر از تبلیغات است",
+        "title_en": "Optimism Rises for Iran Talks, but Hard Work Awaits",
+        "summary": [
+            "دونالد ترامپ اعلام کرد روند رسیدن به یک توافق نهایی صلح با ایران «خیلی سریع» پیش می‌رود، اما متن گزارش تصریح می‌کند این خوش‌بینی، از نظر تحلیلگران، بعید است.",
+            "طبق این روایت، کلیدِ مسئله «سریع شدن» نیست؛ بلکه انجام «کار سخت» برای نهایی‌کردن بندهای اختلافی باقی‌مانده است که به زمان و چانه‌زنی واقعی نیاز دارد.",
+            "شکاف میان پیام سیاسی رئیس‌جمهور آمریکا و ارزیابی کارشناسان نشان می‌دهد احتمال دارد مسیر مذاکرات، پرچالش‌تر از آن چیزی باشد که در بیانیه‌ها القا می‌شود."
+        ],
+        "impact": "این وضعیت می‌تواند برای افکار عمومی انتظارِ زمان‌بندی کوتاه ایجاد کند، اما در عمل ریسک طولانی شدن و پیچیده شدن مذاکرات را بالا نگه می‌دارد.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/17/us/strait-of-hormuz-open-iran-talks-negotiations.html",
+        "clean_url": "https://www.nytimes.com/2026/04/17/us/strait-of-hormuz-open-iran-talks-negotiations.html",
+        "image": "http://www.bing.com/th?id=ONUT.1bvGKJqSPnjGv0g7cgIQ7g&pid=News",
+        "timestamp": 1776427800.0
     },
     {
         "title_fa": "واکنش مذاکره‌کنندگان ایرانی به «تهدید حمله احتمالی اسرائیل» و خروج همراه پاکستان از مذاکرات صلح",
@@ -646,6 +700,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-says-strait-of-hormuz-to-reopen-amid-push-to-end-war/ar-AA218e2J",
         "image": "http://www.bing.com/th?id=ONUT.rsKA6PXl_YQXdjitG-Xmag&pid=News",
         "timestamp": 1776407861.0
+    },
+    {
+        "title_fa": "بازگشایی کامل تنگه هرمز؛ ترامپ می‌گوید محاصره دریایی و فشار بر کشتی‌ها و بنادر ایران ادامه دارد",
+        "title_en": "Live updates: Trump and Iran say Strait of Hormuz is now fully open, but US naval blockade will stay",
+        "summary": [
+            "به‌گفته خبرگزاری آسوشیتدپرس و طبق گزارش نیروی دریایی آمریکا، تنگه هرمز از وضعیت اختلال خارج شده و «کامل» باز شده است، در حالی که عملیات پاکسازی مین توسط آمریکا هم‌چنان در حال انجام است.",
+            "ترامپ اعلام کرده با وجود باز شدن مسیر کشتیرانی، «محاصره/انسداد» کشتی‌های ایرانی و فشار بر بنادر ایران برقرار می‌ماند؛ یعنی رفع نگرانی عملیاتی درباره تنگه، به‌معنای لغو سیاست فشار نیست.",
+            "این ترکیبِ «باز شدن کریدور» در کنار «ماندن محدودیت‌های دریایی» عملاً ریسک و هزینه تجارت ایران را کاهش نمی‌دهد، چون مسیر باز ممکن است با محدودیت‌های اجرایی و کنترل‌های مستمر همراه باشد."
+        ],
+        "impact": "ادامه انسداد/محاصره علی‌رغم باز شدن تنگه، احتمال فشار اقتصادی و اختلال تجاری بر ایران را حفظ می‌کند و در عمل اهرم دریایی آمریکا را دست‌نخورده نگه می‌دارد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-17-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-17-2026",
+        "image": "http://www.bing.com/th?id=ONUT.j4fV2MQgCbp6nFCkmdvofg&pid=News",
+        "timestamp": 1776407640.0
     },
     {
         "title_fa": "ایران اعلام کرد تنگه هرمز برای کشتیرانی تجاری کاملاً باز است؛ ترامپ گفت محاصره آمریکا همچنان برقرار است",
@@ -5327,77 +5399,5 @@
         "clean_url": "https://www.usnews.com/news/world/articles/2026-04-13/israelis-oppose-iran-ceasefire-divided-over-whether-to-respect-it-poll-says",
         "image": null,
         "timestamp": 1776071576.0
-    },
-    {
-        "title_fa": "ترامپ تهدید کرد به کشتی‌های ایران در تنگه هرمز حمله می‌شود؛ «محاصره دریایی» وارد فاز اجرایی شد",
-        "title_en": "Trump vows to hit Iran’s ships as Hormuz blockade takes hold",
-        "summary": [
-            "ترامپ اعلام کرد آمریکا به هر کشتی ایرانی که به کشتی‌های آمریکایی در تنگه هرمز نزدیک شود حمله خواهد کرد و این پیام عملاً به تهدید مستقیم برای ریسک درگیری دریایی تبدیل می‌شود.",
-            "همزمان با «محاصره/انسداد دریایی» که ترامپ برقرار کرده، روز دوشنبه تنگه هرمز وارد فاز اجرایی این محدودسازی شد و دامنه عملیات نظامی آمریکا در یک نقطه حیاتی ترسیم گردید.",
-            "این اقدام در چارچوب فشار فوری خارجی اجرا می‌شود و از آنجا که تنگه هرمز گلوگاه تجارت نفت است، می‌تواند شوک قیمتی و اختلال مالی ایجاد کند—اما متن صرفاً به تهدید حمله و اجرای محاصره اشاره دارد، نه جزئیات فنی یا تلفات."
-        ],
-        "impact": "با تبدیل نزدیک‌شدن هر کشتی به ناوهای آمریکا به «هدف حمله»، احتمال برخورد ناخواسته یا زنجیره‌سازی سریع درگیری در تنگه هرمز به شکل جدی بالا می‌رود و ثبات عملیات دریایی منطقه را تضعیف می‌کند.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-vows-to-hit-iran-s-ships-as-hormuz-blockade-takes-hold/ar-AA20MUnj",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-vows-to-hit-iran-s-ships-as-hormuz-blockade-takes-hold/ar-AA20MUnj",
-        "image": null,
-        "timestamp": 1776070745.0
-    },
-    {
-        "title_fa": "آمریکا از دوشنبه محاصره دریایی در تنگه هرمز را آغاز می‌کند؛ مذاکره با ایران به نتیجه نرسید",
-        "title_en": "U.S. will begin blockading ships in Strait of Hormuz on Monday after Iran talks yield no deal",
-        "summary": [
-            "CBS News می‌گوید آمریکا از دوشنبه «محاصره/blockade» کشتی‌ها در تنگه هرمز را آغاز خواهد کرد، چون گفت‌وگوهای ایران به نتیجه‌ای نرسیده است.",
-            "این تصمیم مستقیماً ریسک محاسبه‌نشده در یک گلوگاه حیاتی کشتیرانی را بالا می‌برد و احتمال درگیری دریایی را از سطح فشار سیاسی به سطح عملیات اجرایی منتقل می‌کند.",
-            "از منظر فشار خارجی، چنین اقداماتی می‌تواند به سرعت هزینه‌های اقتصادی و توان عملیاتی ایران در تجارت و صادرات نفتی را محدود کند—بدون اینکه هنوز مشخصات جزئیات اجرا (دامنه، استثناها، یا قواعد درگیری) در متن ارائه شده باشد."
-        ],
-        "impact": "شروع محاصره دریایی در تنگه هرمز یک پله جدی به سمت تقابل نظامی می‌گذارد و می‌تواند بحران را از بن‌بست مذاکره به درگیری واقعی تبدیل کند.",
-        "tag": "محاصره",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3BjbS0wbVNsakpHdDNKSDU3aGFWUFg4akhreGM0RVR4MHlneFlhM3kyWllUeWtnZXA2aERjRGZQZlluQlJBMHQ1ZnZGNE9BMER2Wmo2OV9tZW5NNHhHVmk0bHNoZTc5UWhLQlJnMGFxRlptQ0lQd2FEckV3SWhuYjlRZEJHWlQxWTczYnFkSjhGQnZlckMw0gGcAUFVX3lxTE9DVHRIbV92d1JUV1RLRU80S0hRYjREMkhnWkVmYUFub3BXRGwxb3lMdjhJdWxDZ0V6cHVrYnRENHpKWlAxYzdxMDVNZzN0Mk4tZUs3cFVfRW5LMC1OT0ktcE94T3RwaEszSGR0VHB0MlB4bW4yYk5kUk1pTUF5R2tiODFkX0I1cTRMYVc2UXZQQTUtRGhyWmpHTDdNeQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNM3BjbS0wbVNsakpHdDNKSDU3aGFWUFg4akhreGM0RVR4MHlneFlhM3kyWllUeWtnZXA2aERjRGZQZlluQlJBMHQ1ZnZGNE9BMER2Wmo2OV9tZW5NNHhHVmk0bHNoZTc5UWhLQlJnMGFxRlptQ0lQd2FEckV3SWhuYjlRZEJHWlQxWTczYnFkSjhGQnZlckMw0gGcAUFVX3lxTE9DVHRIbV92d1JUV1RLRU80S0hRYjREMkhnWkVmYUFub3BXRGwxb3lMdjhJdWxDZ0V6cHVrYnRENHpKWlAxYzdxMDVNZzN0Mk4tZUs3cFVfRW5LMC1OT0ktcE94T3RwaEszSGR0VHB0MlB4bW4yYk5kUk1pTUF5R2tiODFkX0I1cTRMYVc2UXZQQTUtRGhyWmpHTDdNeQ",
-        "image": null,
-        "timestamp": 1776068220.0
-    },
-    {
-        "title_fa": "افت بیش از ۱.۵٪ شاخص‌های هند با جهش قیمت نفت؛ فشار اقتصادی از مسیر انرژی",
-        "title_en": "India's Sensex, Nifty fall by over 1.5% on surge in oil prices",
-        "summary": [
-            "طبق گزارش TASS، شاخص‌های Sensex و Nifty هند هم‌زمان بیش از ۱.۵٪ کاهش یافتند که عامل اصلی آن «افزایش قیمت نفت» اعلام شده است.",
-            "این افت نشان می‌دهد نوسان انرژی مستقیماً به هزینه‌ها و انتظارات بازار منتقل شده و ریسک‌پذیری سرمایه‌گذاران را پایین آورده است.",
-            "از منظر تحلیل فشار خارجی، گرانی نفت می‌تواند تورم وارداتی و عدم‌قطعیت اقتصادی را تشدید کند و در چنین شرایطی به سرعت به بازارهای سهام منتقل می‌شود."
-        ],
-        "impact": "جهش قیمت نفت اثر زنجیره‌ای روی بازارهای مالی دارد و با کاهش Sensex و Nifty، فشار اقتصادی از مسیر انرژی را پررنگ می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/economy/2115881",
-        "clean_url": "https://tass.com/economy/2115881",
-        "image": null,
-        "timestamp": 1776067020.0
-    },
-    {
-        "title_fa": "تهدید ایران به تلافی علیه بنادر همسایه خلیج فارس در واکنش به محاصره دریایی آمریکا",
-        "title_en": "Iran threatens to retaliate against Gulf ports for US blockade",
-        "summary": [
-            "ارتش آمریکا اعلام کرده از دوشنبه «محاصره» کشتی‌هایی را که از بنادر ایران خارج می‌شوند آغاز می‌کند؛ تهران در پاسخ تهدید کرده به بنادر همسایه خلیج فارس تلافی خواهد کرد.",
-            "این تهدید نشان می‌دهد رقابت مستقیم روی کریدورهای دریایی می‌تواند از سطح پیام‌های سیاسی به سطح اختلال عملی در حمل‌ونقل منطقه‌ای برسد، اما متن گزارش جزئیات اقدام مشخص ارائه نمی‌کند.",
-            "با توجه به ماهیت دریایی ماجرا، پیامد محتمل افزایش ریسک بیمه، هزینه حمل و اختلال زنجیره تامین در مسیرهای خلیج فارس است—بخش‌هایی از بحران اقتصادی از جنس شوک لجستیکی و فشار مالی، نه صرفاً جدال لفظی."
-        ],
-        "impact": "در کوتاه‌مدت، محاصره دریایی آمریکا و تهدید تلافی ایران ریسک درگیری یا اختلال گسترده در تجارت دریایی خلیج فارس را بالا می‌برد و می‌تواند به فشار اقتصادی فوری بر بازیگران منطقه‌ای منجر شود.",
-        "tag": "دریایی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-threatens-to-retaliate-against-gulf-ports-for-us-blockade/ar-AA20Mf59",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-threatens-to-retaliate-against-gulf-ports-for-us-blockade/ar-AA20Mf59",
-        "image": "http://www.bing.com/th?id=ONUT.PjF6QY1O_7QbeZP164Rb2w&pid=News",
-        "timestamp": 1776061387.0
     }
 ]
