@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "بیانیه ترامپ درباره آتش‌بس اسرائیل-لبنان و جایگاه جنگی-دیپلماتیک آن",
+        "title_en": "Iran latest: Trump calls Israel-Lebanon ceasefire a 'historic day'",
+        "summary": [
+            "در گزارش «LiveNOW از FOX» با این عنوان، تنها محتوایی که در متن قابل مشاهده است مربوط به «هشدار مه غلیظ» است، نه رویداد سیاسی یا نظامی مشخص درباره ایران.",
+            "عنوان خبر می‌گوید ترامپ آتش‌بس اسرائیل-لبنان را «روز تاریخی» خوانده، اما در متن ارسال‌شده هیچ جزئیات قابل راستی‌آزمایی درباره ایران، واکنش رسمی تهران، یا اثر عملی این اظهارنظر ارائه نشده است.",
+            "بنابراین نمی‌توان بر اساس داده‌های فعلی، ارتباطی بین این اظهارنظر و تحولات داخلی ایران (اقتصاد/اعتراضات) یا سیاست‌های خارجی رژیم ایجاد کرد."
+        ],
+        "impact": "فعلاً فقط یک چارچوب رسانه‌ای برای بحث دیپلماتیک آتش‌بس دیده می‌شود و چون جزئیات مربوط به ایران وجود ندارد، اثر قابل اندازه‌گیری بر رژیم یا معیشت مردم ایران از متن حاضر استخراج نمی‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "LiveNOW from FOX",
+        "url": "https://www.fox2detroit.com/news/iran-latest-trump-calls-israel-lebanon-ceasefire-historic-day",
+        "clean_url": "https://www.fox2detroit.com/news/iran-latest-trump-calls-israel-lebanon-ceasefire-historic-day",
+        "image": null,
+        "timestamp": 1776422113.0
+    },
+    {
         "title_fa": "ایران در برابر «حمله قدرتمند» مقاومت کرد؛ نیروی بازدارندگی تایوان هم می‌تواند الگو بگیرد",
         "title_en": "Iran Resisted a Powerful Attacker. Taiwan Can Too.",
         "summary": [
@@ -5381,23 +5399,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-talks-leave-trump-tough-182937353.html",
         "image": null,
         "timestamp": 1776018540.0
-    },
-    {
-        "title_fa": "ایران هشدار داده در صورت اقدام آمریکا برای محدودسازی هرمز، از طریق متحدانش تنگه باب‌المندب را به «گره خفگی جهانی» تبدیل می‌کند",
-        "title_en": "Gate of Tears at risk: Iran threatens major new global chokepoint if US moves on Hormuz",
-        "summary": [
-            "فاکس‌نیوز در گزارشی به نقل از یک مشاور ارشد منطقه‌ای می‌گوید ایران تهدید کرده اگر آمریکا «تنگه هرمز» را مسدود یا تحت کنترل سخت قرار دهد، می‌تواند از طریق نیروهای نیابتی خود و به‌طور مشخص حوثی‌ها، بستن «تنگه باب‌المندب» را دنبال کند.",
-            "در این چارچوب، اهرم عملیاتی ایران از هرمز به باب‌المندب منتقل می‌شود؛ یعنی هدف، افزایش فشار بر مسیرهای حیاتی کشتیرانی و تجارت جهانی است، نه صرفاً مانور سیاسی.",
-            "این سناریو عملاً ریسک اختلال در زنجیره لجستیک جهانی و افزایش هزینه انرژی را بالا می‌برد و می‌تواند به شکاف‌های بیشتر در محاسبات امنیتی دولت آمریکا و شرکایش منجر شود."
-        ],
-        "impact": "تهدید تنگه باب‌المندب در صورت تشدید تنش با آمریکا، می‌تواند به اختلال مستقیم در مسیرهای دریایی و شوک اقتصادی جهانی بدل شود و به‌عنوان ابزار فشار چندمحوره علیه آمریکا و بازارها عمل کند.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/gate-of-tears-at-risk-iran-threatens-major-new-global-chokepoint-if-us-moves-on-hormuz/ar-AA20Jhfb",
-        "clean_url": "https://www.msn.com/en-us/news/world/gate-of-tears-at-risk-iran-threatens-major-new-global-chokepoint-if-us-moves-on-hormuz/ar-AA20Jhfb",
-        "image": null,
-        "timestamp": 1776014651.0
     }
 ]
