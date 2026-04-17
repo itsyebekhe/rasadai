@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آغاز آتش‌بس موقت میان اسرائیل و حزب‌الله در لبنان و هم‌زمانی با فشار دیپلماتیک برای معامله ایران",
+        "title_en": "Iran war: Temporary Israel-Lebanon ceasefire takes effect",
+        "summary": [
+            "آتش‌بس موقت اسرائیل–لبنان پس از یک دوره ۱۰روزه اعلام شد، اما ارتش لبنان اسرائیل را به نقض آتش‌بس متهم کرد؛ در همین حال نتانیاهو گفته نیروهای اسرائیلی از مواضع جنوب لبنان عقب نمی‌روند و حزب‌الله نیز شرط کرده فقط در صورت توقف حملات اسرائیل آتش‌بس را رعایت کند.",
+            "دونالد ترامپ از پیشرفت در گفت‌وگوهای ایران سخن گفته و هم‌زمان تهدید به ازسرگیری جنگ مطرح کرده است؛ او همچنین گفته نشست کاخ سفید میان اسرائیل و لبنان می‌تواند تا دو هفته آینده برگزار شود و مذاکرات با تهران شاید همین آخر هفته جریان بگیرد. ",
+            "هم‌زمان، رهبران بریتانیا و فرانسه یک نشست مجازی با مشارکت ۴۰ کشور برای بررسی راهکارهای بازگشایی تنگه هرمز برگزار می‌کنند؛ همچنین در سراسر لبنان جشن‌های خیابانی به راه افتاده، اما تهدید تازه درباره آینده جنگ به «محروم‌سازی/خلع‌سلاح شدن حزب‌الله» گره خورده است."
+        ],
+        "impact": "این آتش‌بس موقت بیشتر یک مکث تاکتیکی است تا حل مسئله، چون شرط‌های متقابل درباره توقف حملات و خلع‌سلاح حزب‌الله تعیین‌کننده سرنوشت مذاکرات ایران و خطر بازگشت جنگ است.",
+        "tag": "لبنان",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "DW.com",
+        "url": "https://www.cnn.com/2026/04/17/world/live-news/iran-war-trump-lebanon-israel-ceasefire",
+        "clean_url": "https://www.cnn.com/2026/04/17/world/live-news/iran-war-trump-lebanon-israel-ceasefire",
+        "image": null,
+        "timestamp": 1776401686.0
+    },
+    {
         "title_fa": "آغاز آتش‌بس ۱۰روزه در لبنان پس از توافق اسرائیل با سازوکار مورد حمایت آمریکا",
         "title_en": "10-day ceasefire in Lebanon begins as Israel agrees to U.S.-backed deal",
         "summary": [
@@ -106,6 +124,24 @@
         "clean_url": "https://www.wfae.org/world/2026-04-16/israel-agrees-to-a-ceasefire-in-its-war-with-hezbollah-but-will-keep-troops-in-lebanon",
         "image": null,
         "timestamp": 1776377330.0
+    },
+    {
+        "title_fa": "ترامپ: جنگ ایران باید «زود» تمام شود؛ آغاز آتش‌بس ده‌روزه و احتمال دیدار میان طرف‌ها",
+        "title_en": "Trump says Iran war should end 'soon', both sides may meet at weekend",
+        "summary": [
+            "ترامپ اعلام کرد با وجود ادامه درگیری‌ها، احتمال رسیدن به توافق برای پایان جنگ را «به‌زودی» می‌داند و از آتش‌بس ده‌روزه که از یکشنبه آغاز شده حمایت کرد.",
+            "او مستقیماً از گروه «حزب‌الله» همسو با تهران خواست حملات را متوقف کند تا آتش‌بس پایدار بماند و مسیر گفت‌وگو باز شود.",
+            "طبق گزارش، احتمال دیدار میان طرف‌های درگیر در آخر هفته مطرح شده که می‌تواند به مذاکرات برای چارچوب پایان جنگ منتهی شود—اما هنوز تضمینی درباره نتیجه وجود ندارد."
+        ],
+        "impact": "این رویداد نشان می‌دهد فشار سیاسی و چارچوب آتش‌بس می‌تواند موقتاً عملیات را کاهش دهد، ولی سرنوشت جنگ به توافق واقعی و اجرای بی‌نقص آن بستگی دارد.",
+        "tag": "آتش‌بس",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-should-end-soon-both-sides-may-meet-weekend-2026-04-17/",
+        "clean_url": "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-should-end-soon-both-sides-may-meet-weekend-2026-04-17",
+        "image": "http://www.bing.com/th?id=ONUT.tanUGh6bdqpG4PMgX-dvSA&pid=News",
+        "timestamp": 1776375360.0
     },
     {
         "title_fa": "اظهار ترامپ درباره ناتوانی ایران از داشتن سلاح هسته‌ای و واکنش به پاپ",
@@ -358,6 +394,24 @@
         "clean_url": "https://www.politico.com/news/2026/04/16/trump-badly-wants-to-end-the-iran-war-but-the-off-ramp-remains-elusive-00877748",
         "image": "http://www.bing.com/th?id=ONUT.VvogM3VBAU91MrmQWHc9Zw&pid=News",
         "timestamp": 1776351360.0
+    },
+    {
+        "title_fa": "رقابت داخلی ترامپ بر سر چیدمان تیم سیاست ایران همزمان با داغ شدن مذاکرات",
+        "title_en": "Trump muses about Vance vs. Rubio as Iran peace talks heat up",
+        "summary": [
+            "CNN (از طریق MSN) گزارش می‌دهد ترامپ در بحبوحه داغ شدن مذاکرات برای پایان درگیری با ایران، درباره امکان جابه‌جایی/ترکیب تیم سیاست خارجی با محوریت بحث «ونز در برابر روبیو» اظهارنظر کرده است.",
+            "بر اساس متن منتشرشده، ونس که زمانی نسبت به جنگ با ایران تردید داشته، حالا مأمور برقراری توافق شده و ترامپ روند کار او را به‌صورت نزدیک دنبال می‌کند.",
+            "در همین چارچوب، ترامپ از مسیرهای مختلف درباره پیشرفت ونس پرس‌وجو کرده تا تصمیم‌اش را برای مسیر مذاکره و چیدمان قدرت اجرایی مرتبط با پرونده ایران تنظیم کند."
+        ],
+        "impact": "این خبر نشان می‌دهد پرونده ایران در حال تبدیل شدن به ابزار مدیریت ریسک و رقابت درونی کاخ سفید است، نه صرفاً یک مسیر مذاکره ثابت و یکپارچه.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/trump-muses-about-vance-vs-rubio-as-iran-peace-talks-heat-up/ar-AA214wtf",
+        "clean_url": "https://www.msn.com/en-us/news/politics/trump-muses-about-vance-vs-rubio-as-iran-peace-talks-heat-up/ar-AA214wtf",
+        "image": "http://www.bing.com/th?id=ONUT.TjqHzZwXjMgnY3g3gCmYbg&pid=News",
+        "timestamp": 1776350838.0
     },
     {
         "title_fa": "قالیباف: آتش‌بس در لبنان به همان اندازه آتش‌بس در ایران اهمیت دارد",
@@ -5345,59 +5399,5 @@
         "clean_url": "https://www.timesunion.com/news/article/the-latest-us-vice-president-vance-leaves-22201921.php",
         "image": null,
         "timestamp": 1775991858.0
-    },
-    {
-        "title_fa": "شکست مذاکرات ایران و آمریکا؛ تهران اهرم‌های خیالی را مبنا قرار داد",
-        "title_en": "Iran talks done in by Tehran's delusions over leverage they don't have, US official says",
-        "summary": [
-            "مذاکرات ایران و آمریکا پس از آن فروپاشید که تهران «اهرم» مورد ادعا را بیش از واقعیت محاسبه کرد و نتیجه را به‌نفع خودش تصور کرد؛ مقام آمریکایی این خطای محاسباتی را عامل اصلی بن‌بست اعلام کرده است.",
-            "طبق گزارش، معاون رئیس‌جمهور آمریکا، JD Vance، پاکستان را بدون دستیابی به توافق ترک کرد و این خروج بدون نتیجه، نشان‌دهنده فرارِ محور مذاکرات از مسیر توافق است.",
-            "در چارچوب فشار خارجی، پیام ضمنی این است که تداوم بن‌بست می‌تواند کارایی ابزارهای چانه‌زنی تهران را بیشتر محدود کند و جایگزین‌پذیری گزینه‌های مذاکره را برای طرف آمریکایی بالا ببرد."
-        ],
-        "impact": "این رخداد مستقیماً هزینه سیاسی مذاکرات را برای تهران بالا می‌برد و احتمال تداوم چرخه بی‌نتیجه را افزایش می‌دهد.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": -0.35,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-talks-done-in-by-tehran-s-delusions-over-leverage-they-don-t-have-us-official-says/ar-AA20IBk5",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-talks-done-in-by-tehran-s-delusions-over-leverage-they-don-t-have-us-official-says/ar-AA20IBk5",
-        "image": "http://www.bing.com/th?id=ONUT.z82Y_Z01rDlFCib4x0VDbg&pid=News",
-        "timestamp": 1775990820.0
-    },
-    {
-        "title_fa": "استارمر خواستار راه‌حل برای آمریکا و ایران پس از ناکامی گفت‌وگوهای صلح شد",
-        "title_en": "Starmer urges US and Iran to 'find way through' after peace talks falter",
-        "summary": [
-            "خبر BBC می‌گوید کی‌یر استارمر از آمریکا و ایران خواسته پس از شکست/ناکامی گفت‌وگوهای صلح، مسیر جدیدی برای «پیدا کردن راه عبور» پیدا کنند؛ یعنی بن‌بست فعلی شکسته نشده و مذاکره متوقف یا بی‌نتیجه شده است.",
-            "در سطح ساختار قدرت، این نوع مکث در کانال‌های مذاکره معمولاً فضای تنش را بدون ارائه‌ی گره‌گشایی واقعی نگه می‌دارد و فرصت بازسازی ائتلاف‌ها و اجماع خارجی علیه رژیم را هم می‌تواند محدود کند، اما الزاماً به توافق عملی منجر نمی‌شود.",
-            "از آن‌جا که متن صرفاً به «کوتاه‌آمدن مذاکرات صلح» و درخواست برای ادامه روند اشاره دارد، هیچ داده‌ی مشخصی درباره تحمیل یا کاهش تحریم‌ها، تغییرات اقتصادی داخلی، یا نقش بازیگران خارجی دیگر ارائه نشده است."
-        ],
-        "impact": "بن‌بست در گفت‌وگوهای صلح و توصیه برای ادامه مسیر، به‌جای کاهش تنش، احتمالاً وضعیت «نامشخص و پرریسک» را طولانی‌تر می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYUVEZ29FZjA2Y1pxYVNuMlBpZmxqVVlZNDV2aHNtaVR6akFZZW5ZYjMwajh6eGd0MVZjSThRS2NPamVzcnI4Qnh0WFFtMnZ0NEdKNk54TzJqdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYUVEZ29FZjA2Y1pxYVNuMlBpZmxqVVlZNDV2aHNtaVR6akFZZW5ZYjMwajh6eGd0MVZjSThRS2NPamVzcnI4Qnh0WFFtMnZ0NEdKNk54TzJqdw",
-        "image": null,
-        "timestamp": 1775990391.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید ناوگان آمریکا برای محاصره تنگه هرمز وارد عمل می‌شود؛ شکست گفت‌وگوها بهانه اعلام شد",
-        "title_en": "Iran war updates: Trump says Navy to blockade Strait of Hormuz after failed talks",
-        "summary": [
-            "طبق گزارش USA TODAY، دونالد ترامپ می‌گوید آمریکا ناوگان خود را برای محاصره/بلوک تنگه هرمز آماده می‌کند و این اقدام را به «شکست مذاکرات» گره می‌زند.",
-            "این یعنی احتمال تشدید تنش دریایی در مسیر حیاتی صادرات انرژی افزایش یافته و هرگونه خطای محاسباتی می‌تواند به درگیری مستقیم منجر شود.",
-            "با توجه به اینکه متن ارسالی تنها به تیتر و جمله‌بندی اشاره دارد و جزئیات عملیاتی ارائه نکرده، فعلاً سطح اقدام در حد اعلام سیاسی و جهت‌گیری راهبردی گزارش شده است."
-        ],
-        "impact": "بلوک/محاصره تنگه هرمز می‌تواند به سرعت هزینه‌های اقتصادی و ریسک امنیتی را بالا ببرد و زمینه برای تشدید درگیری را فراهم کند.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/04/12/strait-hormuz-blockade-us-navy-trump/89578769007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/12/strait-hormuz-blockade-us-navy-trump/89578769007",
-        "image": "http://www.bing.com/th?id=ONUT.EBPjqwfyVxpouyKZ2JjtMg&pid=News",
-        "timestamp": 1775988060.0
     }
 ]
