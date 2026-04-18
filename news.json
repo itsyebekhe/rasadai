@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پست‌های مدیریت‌نشده ترامپ و تهران روند صلح را متوقف کرد",
+        "title_en": "Trump and Tehran’s series of mismanaged posts stall progress towards peace",
+        "summary": [
+            "طبق گزارش، مجموعه پیام‌ها و اظهارنظرهای رد و بدل‌شده میان ترامپ و تهران به‌جای ایجاد مسیر گفت‌وگو، پیشرفت به سمت توافق را کند یا متوقف کرده است.",
+            "این رفتار ارتباطی «غیرحساب‌شده» تصویر بی‌ثباتی در سیاست‌گذاری را تقویت می‌کند و هزینه هماهنگی را برای هر دو طرف بالا می‌برد.",
+            "نتیجه عملی گزارش این است که فضای مذاکره از حالت پیشروی خارج شده و روند صلح بدون دستاورد مشخص درجا می‌زند."
+        ],
+        "impact": "توقف پیشرفت به سمت صلح، ریسک طولانی‌تر شدن بن‌بست سیاسی و تداوم فشارهای جانبی بر تصمیم‌گیری‌های امنیتی و اقتصادی را افزایش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDlJZzdTVDFxUTdJa1lEYkpwa0hXbTFqclloeU5Fb0NvcHFWYUp6dlF5aWVUc0djaFJHM3dJQUtEMDR6b2hqd1g5SnNBVTlES04wR05ZVGZMZDJicmNsd044bG53WEZNNHZwclk3VDBCYTF6bjVPdjh3a3BMQXpnYVF6d3YteFJtUER0d1RvRVNEelJ3RGZ2TVVrX1BKWEs1ZVNN?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDlJZzdTVDFxUTdJa1lEYkpwa0hXbTFqclloeU5Fb0NvcHFWYUp6dlF5aWVUc0djaFJHM3dJQUtEMDR6b2hqd1g5SnNBVTlES04wR05ZVGZMZDJicmNsd044bG53WEZNNHZwclk3VDBCYTF6bjVPdjh3a3BMQXpnYVF6d3YteFJtUER0d1RvRVNEelJ3RGZ2TVVrX1BKWEs1ZVNN",
+        "image": null,
+        "timestamp": 1776527460.0
+    },
+    {
         "title_fa": "تمدید معافیت آمریکا از تحریم نفت روسیه برای کاهش کمبودهای جنگی ایران؛ با وجود انکار «بیسِنت»",
         "title_en": "US extends waiver on Russian oil sanctions to ease Iran war shortages despite Bessent denial",
         "summary": [
@@ -5381,23 +5399,5 @@
         "clean_url": "https://www.nytimes.com/live/2026/04/14/world/iran-war-oil-hormuz",
         "image": null,
         "timestamp": 1776128340.0
-    },
-    {
-        "title_fa": "پیشنهاد پاکستان برای دور دوم گفت‌وگوهای آمریکا-ایران، همزمان با تشدید بن‌بست",
-        "title_en": "Pakistan proposes second round of US-Iran talks as standoff deepens",
-        "summary": [
-            "هم‌زمان با گزارش رویارویی شدیدتر، آمریکا اعلام کرد بنادر ایران را عملاً محاصره کرده است؛ تهران نیز در واکنش تهدید کرد به اهدافی در سطح منطقه حمله خواهد کرد.",
-            "پاکستان اعلام کرده برای کاهش تنش، دور دوم گفت‌وگوهای آمریکا و ایران را پیشنهاد می‌دهد؛ یعنی بازیگران میانجی در حال تلاش برای مهار پیامدهای بن‌بست هستند، نه حل ریشه‌ای آن.",
-            "با توجه به ماهیت اقدامات اعلام‌شده (محاصره/مسدودسازی بنادر و تهدید حملات منطقه‌ای)، ریسک خطا و تبدیل تنش به درگیری مستقیم بالا می‌رود و هزینه اقتصادی و امنیتی برای هر دو طرف در حال افزایش است."
-        ],
-        "impact": "این روند با تمرکز بر فشار عملی (محاصره بندری) و تهدید عملیاتی (هدف‌گیری در منطقه)، احتمال تشدید سریع بحران و هزینه‌های اقتصادی/امنیتی را بالا می‌برد.",
-        "tag": "بن‌بست",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/efforts-underway-for-second-round-of-us-iran-talks-as-us-blockade-takes-effect/ar-AA20PRmb",
-        "clean_url": "https://www.msn.com/en-us/news/world/efforts-underway-for-second-round-of-us-iran-talks-as-us-blockade-takes-effect/ar-AA20PRmb",
-        "image": "http://www.bing.com/th?id=ONUT.AYcBE47X2K9DfOBvWkARWw&pid=News",
-        "timestamp": 1776126980.0
     }
 ]
