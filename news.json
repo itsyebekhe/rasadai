@@ -18,6 +18,24 @@
         "timestamp": 1776502860.0
     },
     {
+        "title_fa": "نگرانی‌های اصلی سیاستمداران درباره ریسک‌های ناشی از جنگ آمریکا-ایران",
+        "title_en": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
+        "summary": [
+            "بر اساس گزارش CNBC، بیش از ۳۰ مقام پولی و سیاستگذار از میان نگرانی‌هایی که به «جنگ جاری آمریکا-ایران» مرتبط شده‌اند، از جمله رکود-تورمی و امنیت انرژی نام برده‌اند.",
+            "چارچوب گزارش، تمرکز بر ریسک‌های برون‌زا برای اقتصاد و سیاست‌گذاری است: فشار تورمی همزمان با کندی رشد، و نیز اختلال‌های بالقوه در زنجیره انرژی و قیمت‌ها.",
+            "این نوع اجماع کارشناسی نشان می‌دهد که پیامدهای جنگ صرفاً نظامی نیست و به طراحی سیاست‌های مالی/پولی، مدیریت تورم و تاب‌آوری انرژی نیز سرایت کرده است."
+        ],
+        "impact": "گسترش نگرانی از رکود-تورمی و ناامنی انرژی می‌تواند هزینه‌های سیاست‌گذاری را بالا ببرد و شوک‌ها را به اقتصاد و بازار انرژی منتقل کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/money/markets/we-spoke-to-over-30-central-bankers-policymakers-and-politicians-here-are-their-top-concerns/ar-AA21algL",
+        "clean_url": "https://www.msn.com/en-us/money/markets/we-spoke-to-over-30-central-bankers-policymakers-and-politicians-here-are-their-top-concerns/ar-AA21algL",
+        "image": "https://image.cnbcfm.com/api/v1/image/108287368-1775489030380-gettyimages-2269502140-6_april_destruc_3e7a0131.jpeg?v=1775497725&w=1920&h=1080",
+        "timestamp": 1776496620.0
+    },
+    {
         "title_fa": "ترامپ تهدید کرد در صورت نرسیدن به توافق با ایران، آمریکا «شروع به بمباران دوباره» می‌کند",
         "title_en": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
         "summary": [
@@ -124,6 +142,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BGZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw",
         "image": null,
         "timestamp": 1776483840.0
+    },
+    {
+        "title_fa": "فشار بر امنیت کشتیرانی تنگه هرمز؛ میانجی‌گری مصر-پاکستان برای توافق آمریکا-ایران",
+        "title_en": "Iran Israel War Live Updates: UK urges full reopening of Strait of Hormuz as global shipping concerns mount",
+        "summary": [
+            "طبق گزارش، مصر می‌گوید با پاکستان «به‌طور جدی» در حال میانجی‌گری برای رسیدن به توافق نهایی میان آمریکا و ایران است و وزیر خارجه مصر، بدر عبداللطیف، از امکان پیشرفت «در روزهای آینده» سخن گفته است.",
+            "همزمان با افزایش نگرانی‌های جهانی درباره کشتیرانی، بریتانیا خواستار «بازگشایی کامل» تنگه هرمز شده؛ یعنی محور بحران صرفاً سیاسی نیست و به ناامنی عملیاتی مسیرهای تجاری گره خورده است.",
+            "این ترکیب (تشدید فشار لجستیکی-کشتیرانی به‌همراه تلاش‌های دیپلماتیک) نشان می‌دهد که کانال مذاکره فعال است، اما خودِ مصر هم «چالش‌های قابل‌توجه» را مانع جدی می‌داند."
+        ],
+        "impact": "اگر میانجی‌گری مصر-پاکستان به توافق آمریکا-ایران منجر شود، فشار مستقیم بر مسیر تنگه هرمز می‌تواند کاهش یابد؛ اما تا زمان نتیجه قطعی، ریسک اختلال تجارت بالا می‌ماند.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-strait-of-hormuz-iran-us-talks-liveblog-14001742.html",
+        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-strait-of-hormuz-iran-us-talks-liveblog-14001742.html",
+        "image": "http://www.bing.com/th?id=ONUT.VFTPG4T3cYlddxuvJqefIg&pid=News",
+        "timestamp": 1776482520.0
+    },
+    {
+        "title_fa": "ایران دوباره تنگه هرمز را می‌بندد؛ گلی‌باف شرط می‌گذارد و هم‌زمان دور تازه مذاکره با آمریکا در پاکستان مطرح می‌شود",
+        "title_en": "Iran, US-Israel war LIVE: Iran shuts Strait of Hormuz again; reopens six airports as airspace restrictions ease",
+        "summary": [
+            "گلی‌باف اعلام کرد تهران تنگه هرمز را دوباره خواهد بست مگر اینکه آمریکا «محاصره/بلاکد» بنادر ایران را لغو کند؛ هم‌زمان گزارش شده ایران شش فرودگاه را پس از کاهش محدودیت‌های هوایی باز کرده است.",
+            "با وجود هشدارهای آمریکا درباره ادامه اجرای بلاکد و امکان اقدام نظامی، خبر رسیده هیئت‌های ایران و آمریکا برای دور تازه گفت‌وگوها در پاکستان (روز دوشنبه) به اسلام‌آباد برسند؛ هنوز زمان‌بندی رسمی از سوی آمریکا تأیید نشده است.",
+            "در محور سیاسی-امنیتی، ترامپ ادعاهایی درباره «کنترل مواد هسته‌ای» مطرح کرده و مقام‌های ایرانی آن را رد کرده‌اند؛ در لبنان نیز با آغاز «روز دوم» از آتش‌بس ۱۰ روزه، گزارش از ادامه فشارها و اقدامات متقابل همراه با نگرانی از تشدید وجود دارد."
+        ],
+        "impact": "بازبستن/تهدید به بازبستن تنگه هرمز و تشدید بلاکد آمریکا، اهرم فشار اقتصادی را برای ایران بالا می‌برد اما در عین حال ریسک جهش تنش و شوک بیشتر به صادرات انرژی و بازارها را هم افزایش می‌دهد.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Financial Express",
+        "url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-hormuz-blockade-pakistan-negotiations-oil-price-today/4208656/",
+        "clean_url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-hormuz-blockade-pakistan-negotiations-oil-price-today/4208656",
+        "image": "http://www.bing.com/th?id=ONUT.RKcTaY_4jY6IZNQtbD2qYw&pid=News",
+        "timestamp": 1776482400.0
+    },
+    {
+        "title_fa": "ایران محدودیت‌های تنگه هرمز را دوباره اعلام کرد؛ علت «نقض اعتماد» آمریکا",
+        "title_en": "Iran says Strait of Hormuz restrictions reimposed due to US ‘breaches of trust’",
+        "summary": [
+            "نیروهای نظامی ایران می‌گویند محدودیت‌های تنگه هرمز دوباره اعمال شده است و این تصمیم را به «نقض مکرر اعتماد» از سوی آمریکا نسبت می‌دهند؛ در همین چارچوب، رئیس مجلس ایران هم گفته بود اگر آمریکا محاصره دریایی را برندارد، تنگه دوباره بسته می‌شود.",
+            "همزمان، ایران اعلام کرده هیئت‌های آمریکا و ایران دوشنبه وارد دور جدید مذاکره برای پایان جنگ می‌شوند؛ با این حال آمریکا برنامه مذاکرات را تأیید نکرده و ترامپ گفته در صورت شکست مذاکرات ممکن است آتش‌بس را تمدید نکند.",
+            "اظهارات متناقض در خود ایران و واکنش سریع آمریکا باعث آشفتگی برای عبور کشتی‌ها شده: عباس عراقچی گفته بود با اجرای آتش‌بس لبنان، عبور تجاری از تنگه هرمز برای بقیه دوره آتش‌بس «کاملاً باز» است، اما پس از آن ترامپ تأکید کرد محاصره بنادر ایران «با شدت کامل» ادامه خواهد یافت تا «توافق کامل» حاصل شود؛ گزارش‌ها همچنین از ابهام در شرایط و سازوکار عبور و ادعای «مدیریت ایرانی» و «پرداخت هزینه» خبر می‌دهند."
+        ],
+        "impact": "این چرخش فوری و دوگانه در سیاست عبور کشتی‌ها، هزینه و ریسک تجارت دریایی را بالا می‌برد و هم‌زمان اهرم فشار دریایی آمریکا علیه ایران را تثبیت می‌کند.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/2026/04/18/world/live-news/iran-war-trump-israel",
+        "clean_url": "https://edition.cnn.com/2026/04/18/world/live-news/iran-war-trump-israel",
+        "image": "http://www.bing.com/th?id=ONUT.XWOOMS2cS3Ppe74EqrXgPw&pid=News",
+        "timestamp": 1776481560.0
     },
     {
         "title_fa": "نگرانی بانکداران مرکزی از اثر جنگ آمریکا-ایران بر تورم و رشد جهانی در نشست‌های IMF/World Bank",
@@ -5327,77 +5399,5 @@
         "clean_url": "https://www.wrkf.org/npr-news/2026-04-13/trump-vows-to-sink-iranian-ships-approaching-a-u-s-blockade-of-strait-of-hormuz",
         "image": null,
         "timestamp": 1776109967.0
-    },
-    {
-        "title_fa": "افزایش خستگی جنگی در اسرائیل؛ اکثریت با آتش‌بس با ایران مخالف‌اند (طبق نظرسنجی)",
-        "title_en": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
-        "summary": [
-            "بر اساس نظرسنجی گزارش‌شده توسط BBC، با وجود خستگی عمومی از جنگ در اسرائیل، «اکثریت» با آتش‌بس با ایران مخالف‌اند.",
-            "این نتیجه نشان می‌دهد فشار افکار عمومی برای توقف درگیری فعال با ایران پایین‌تر از سطح خستگی جنگی است؛ یعنی جامعه بیشتر خواهان پایان درگیری به شکل تحمیلی‌تری است تا آتش‌بس یک‌طرفه/سریع.",
-            "پیام سیاسی این وضعیت می‌تواند بر محاسبات دولت اسرائیل اثر بگذارد و دست نیروهای موافق آتش‌بس را در فضای داخلی محدود کند."
-        ],
-        "impact": "این‌که اکثریت با آتش‌بس مخالف‌اند، ریسک ادامه یا سخت‌تر شدن فشار نظامی/امنیتی علیه ایران را در سطح سیاسی اسرائیل تقویت می‌کند.",
-        "tag": "افکارعمومی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/other/israelis-war-weary-but-most-oppose-iran-ceasefire-poll-suggests/ar-AA20NRKG",
-        "clean_url": "https://www.msn.com/en-us/news/other/israelis-war-weary-but-most-oppose-iran-ceasefire-poll-suggests/ar-AA20NRKG",
-        "image": null,
-        "timestamp": 1776108008.0
-    },
-    {
-        "title_fa": "بن‌بست در مذاکرات صلح آمریکا و ایران؛ گام بعدی چیست؟",
-        "title_en": "U.S.-Iran Peace Talks Hit an Impasse. What Comes Next?",
-        "summary": [
-            "طبق گزارش شورای روابط خارجی، مذاکرات صلح آمریکا و ایران به بن‌بست خورده است و این نشان می‌دهد اختلاف بر سر محورهای اصلی توافق همچنان حل‌نشده باقی مانده.",
-            "این بن‌بست احتمال می‌دهد مسیر «توافق سریع» بسته شود و تمرکز به‌سمت سناریوهای جایگزین برود: فشارهای دیپلماتیک/اقتصادی یا ادامه مدیریت تنش بدون چارچوب جدید.",
-            "با توجه به اینکه گزارش وارد جزئیات فنیِ طرفین درباره مؤلفه‌های بن‌بست (محورها و شروط) نمی‌شود، ارزیابی بعدی باید مبتنی بر تغییرات ملموس در سیاست‌های محدودکننده/مذاکره مجدد باشد، نه گمانه‌زنی."
-        ],
-        "impact": "بن‌بست مذاکره، ریسک تداوم بی‌ثباتی سیاست‌گذاری و تداوم چرخه فشار-پاسخ را بالا می‌برد، چون چارچوب قابل اتکا برای کاهش تنش تثبیت نشده است.",
-        "tag": "مذاکرات",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Council on Foreign Relations",
-        "url": "https://www.cfr.org/articles/u-s-iran-peace-talks-hit-an-impasse-what-comes-next",
-        "clean_url": "https://www.cfr.org/articles/u-s-iran-peace-talks-hit-an-impasse-what-comes-next",
-        "image": null,
-        "timestamp": 1776106262.0
-    },
-    {
-        "title_fa": "تنگه هرمز به اهرم اصلی ایران تبدیل شد؛ اما این «قدرت» هم می‌تواند قفل‌کننده جنگ باشد",
-        "title_en": "How the Strait of Hormuz became Iran's most powerful weapon",
-        "summary": [
-            "بر اساس گزارش، ایران مدت‌ها تنگه هرمز را اهرم فشار می‌دانست، اما این «جنگ» برای نخستین بار به تهران امکان داده قدرت ادعایی خود را در عمل بیازماید.",
-            "مضمون کلیدی متن این است که آزمون عملی اهرم تنگه باعث شده تهران آن را کنار نگذارد و احتمال تداوم استفاده از آن بالا باشد.",
-            "این روایت بر «قدرت‌نمایی از طریق موقعیت راهبردی» تکیه دارد و نشان می‌دهد که موضوع از سطح تهدیدات خارج شده و به ابزار واقعی در چرخه تنش بدل شده است."
-        ],
-        "impact": "اگر تهران از این اهرم عقب‌نشینی نکند، تنگه هرمز به گلوگاه فشار دائمی تبدیل می‌شود و ریسک اختلال در تجارت و تشدید درگیری‌های منطقه‌ای بالا می‌رود.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/analysis/how-strait-hormuz-became-irans-most-powerful-weapon",
-        "clean_url": "https://www.newarab.com/analysis/how-strait-hormuz-became-irans-most-powerful-weapon",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2026-04/illustration-strait_of_hormuz.jpg?itok=F8zSfE71",
-        "timestamp": 1776102660.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید کشتی‌های ایرانی «حذف/از بین برده می‌شوند»؛ همزمان آغاز بلوک دریایی آمریکا",
-        "title_en": "Trump says Iranian ships to be ‘eliminated’ as US naval blockade begins",
-        "summary": [
-            "بر اساس گزارش الجزیره، ترامپ اعلام کرده که کشتی‌های ایرانی قرار است «eliminated» شوند و هم‌زمان «محاصره/بلوکه دریایی» آمریکا آغاز شده است.",
-            "این بیان صریح، تهدید مستقیم علیه توان دریانوردی و فعالیت‌های صادراتی-دریایی ایران را در چارچوب یک اقدام عملی (بلوک دریایی) قرار می‌دهد.",
-            "از نظر راهبردی، تبدیل ادعا به اقدام دریایی یعنی افزایش ریسک درگیری مستقیم در آب‌های آزاد و تشدید فشار بر اقتصاد ایران از مسیر اختلال احتمالی در تجارت دریایی."
-        ],
-        "impact": "این اقدام می‌تواند ظرف زمان کوتاه هزینه‌های لجستیکی و ریسک عملیاتی ایران در دریا را بالا ببرد و احتمال برخورد مستقیم را افزایش دهد.",
-        "tag": "دریایی",
-        "urgency": 9,
-        "sentiment": -0.95,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZC1tcEN5ZklZaUczLWl3RVc4bXJ6dS1xeU5KbURXVEdPTFhDMU5qNHBhdEZiN2U4cDZNZ3lMNVR3MnI1RWsxcFBTQl80cVhlNkVxM1RZRVFyM3JRdjNTNVZNbzR6MzNUZXFvdnh3V3FYU1lxUFYyZ1B4VnM5UjUzMzduT0o4eWJQV2ZaQ21Ma1kyQ1Q1VjF6SWlrQWVqYnQ3MGFUVzlNSmtVQ2pPdDRhcU9n0gG3AUFVX3lxTFBidmRZSXRpM1pZOUY5bmxPeERwUDZEb1Vmck91cUVQT1lLM1NLLWN6b21sM3VUaUtRUjlvOXg2UTBDV0lTdXRlaWFVWnNXSjhKdEY4TjdpX3BoRGpuNVdFcXFhX0JEWVVpaDE3c0k1b0hSbGRCZjZFN3ptdHZIckk3QTB3VGdLdl8wa281RENTNW9lRzJPWDR5NWcyYXM5Y1VaX1NIeXpXcFFmbkpaQmdfVmotclhEYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZC1tcEN5ZklZaUczLWl3RVc4bXJ6dS1xeU5KbURXVEdPTFhDMU5qNHBhdEZiN2U4cDZNZ3lMNVR3MnI1RWsxcFBTQl80cVhlNkVxM1RZRVFyM3JRdjNTNVZNbzR6MzNUZXFvdnh3V3FYU1lxUFYyZ1B4VnM5UjUzMzduT0o4eWJQV2ZaQ21Ma1kyQ1Q1VjF6SWlrQWVqYnQ3MGFUVzlNSmtVQ2pPdDRhcU9n0gG3AUFVX3lxTFBidmRZSXRpM1pZOUY5bmxPeERwUDZEb1Vmck91cUVQT1lLM1NLLWN6b21sM3VUaUtRUjlvOXg2UTBDV0lTdXRlaWFVWnNXSjhKdEY4TjdpX3BoRGpuNVdFcXFhX0JEWVVpaDE3c0k1b0hSbGRCZjZFN3ptdHZIckk3QTB3VGdLdl8wa281RENTNW9lRzJPWDR5NWcyYXM5Y1VaX1NIeXpXcFFmbkpaQmdfVmotclhEYw",
-        "image": null,
-        "timestamp": 1776102256.0
     }
 ]
