@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تجربه مذاکره با ایران؛ روایت افرادِ درگیر از سازوکار و دشواری‌ها",
+        "title_en": "What's it like to negotiate with Iran? We asked people who have done it",
+        "summary": [
+            "گزارش NPR صرفاً یک مقدمه/جمع‌بندی از تجربه مذاکره با ایران است و به‌جای اعلام رویداد سیاسی-امنیتی مشخص، بر گفته‌های افرادی که «مذاکره کرده‌اند» تکیه دارد.",
+            "در متن ارائه‌شده هیچ اشاره‌ای به تحریم جدید، ضربه نظامی، تغییر مواضع رسمی، یا موج اعتراض داخلی با آمار مشخص وجود ندارد؛ بنابراین نمی‌توان اثر فوری سیاستی یا امنیتی استخراج کرد.",
+            "چون جزئیات قابل راستی‌آزمایی از محتوای گفتگوها (محورها، درخواست‌ها، شکاف‌ها یا نتیجه مذاکرات) در اختیار نیست، تحلیل اثرگذاری باید در سطح کلی و بدون ادعای ساختگی محدود بماند."
+        ],
+        "impact": "این گزارش بیشتر ماهیت شناختی دارد و در چارچوب داده‌های موجود، نشانه مستقیم از تشدید فشار خارجی یا بحران داخلی ارائه نمی‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 2,
+        "sentiment": 0.1,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/04/18/nx-s1-5783873/iran-talks-islamabad-nuclear-jcpoa",
+        "clean_url": "https://www.npr.org/2026/04/18/nx-s1-5783873/iran-talks-islamabad-nuclear-jcpoa",
+        "image": null,
+        "timestamp": 1776502860.0
+    },
+    {
         "title_fa": "ترامپ تهدید کرد در صورت نرسیدن به توافق با ایران، آمریکا «شروع به بمباران دوباره» می‌کند",
         "title_en": "Trump says US will ‘start dropping bombs again’ if no Iran deal is reached",
         "summary": [
@@ -162,6 +180,24 @@
         "timestamp": 1776478608.0
     },
     {
+        "title_fa": "ترامپ اولتیماتوم جدید علیه ایران داد: تهدید به ازسرگیری اقدام نظامی در پایان مهلت آتش‌بس",
+        "title_en": "Trump Issues New Iran Ultimatum: ‘We’ll Have to Start Dropping Bombs’",
+        "summary": [
+            "ترامپ در هواپیمای ایرفورس وان اعلام کرد که اگر تا پایان مهلت آتش‌بس توافق انجام نشود، اقدام نظامی از سر گرفته می‌شود.",
+            "او صراحتاً گزینه «شروع بمباران» را مطرح کرد و سطح تهدید را به شکل مستقیم‌تر از فاز فشار سیاسی ارتقا داد.",
+            "این موضع، از چارچوب بازدارندگی سیاسی خارج شده و به سمت فشار نظامی فوری علیه مسیر تصمیم‌گیری تهران حرکت می‌کند."
+        ],
+        "impact": "تهدید مستقیم به ازسرگیری حمله در پایان آتش‌بس می‌تواند ریسک تشدید ناگهانی تنش و تصمیم‌های پرهزینه برای طرفین را بالا ببرد.",
+        "tag": "threat",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/donald-trump-iran-ultimatium-strait-of-hormuz-ceasefire-11848548",
+        "clean_url": "https://www.newsweek.com/donald-trump-iran-ultimatium-strait-of-hormuz-ceasefire-11848548",
+        "image": "http://www.bing.com/th?id=ONUT.JiTSJQ2p4BGC2B0A_I1Rtw&pid=News",
+        "timestamp": 1776478260.0
+    },
+    {
         "title_fa": "تهدید بستن تنگه هرمز در صورت ادامه «محاصره» آمریکا",
         "title_en": "Iran’s top negotiator threatens to close Strait of Hormuz if US blockade continues",
         "summary": [
@@ -180,6 +216,60 @@
         "timestamp": 1776477940.0
     },
     {
+        "title_fa": "تهدید جدید ایران: اهرم کنترل آبراه به‌عنوان بازدارنده مستقل از پرونده هسته‌ای",
+        "title_en": "For Iran, Flexing Control Over Waterway Is New Deterrent",
+        "summary": [
+            "گزارش می‌گوید دولت ایران می‌تواند با تکیه بر «آبراه» به‌عنوان ابزار فشار/کنترل عملیاتی، برای مقابله با دشمنان یک چارچوب بازدارنده طراحی کند، حتی اگر محدودیت‌هایی در برنامه هسته‌ای اعمال شود.",
+            "این «بازدارندگی» بر محور افزایش اهرم‌های میدانی و کنترل مسیرهای راهبردی ارائه می‌شود، نه بر اساس مذاکره یا تغییر سیاست هسته‌ای.",
+            "جمع‌بندی گزارش این است که از دل یک دوره تنش/درگیری، یک نقشه راه برای حفظ توان اثرگذاری ایران بر تصمیم‌گیری طرف مقابل باقی می‌ماند."
+        ],
+        "impact": "اگر این رویکرد عملیاتی شود، توان ایران برای هزینه‌سازی غیرهسته‌ای بالا می‌رود و بر محاسبات ریسک بازیگران منطقه‌ای و فرامنطقه‌ای اثر مستقیم می‌گذارد.",
+        "tag": "بازدارندگی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html",
+        "clean_url": "https://www.nytimes.com/2026/04/18/us/politics/iran-hormuz-strait-trump.html",
+        "image": "http://www.bing.com/th?id=ONUT.NwwEEFZ-hqWeABafffjROA&pid=News",
+        "timestamp": 1776477720.0
+    },
+    {
+        "title_fa": "شکنندگان خاموشی اینترنت: روایت داخلی از ترس و فرسودگی مردم ایران در آستانه پایان آتش‌بس",
+        "title_en": "Voices inside Iran: Residents break internet blackout to describe life during ceasefire",
+        "summary": [
+            "بر اساس شهادت‌های منتشرشده، برخی ساکنان ایران بعد از اعلام آتش‌بس در ۸ آوریل کمی از نگرانی حمله کاستند، اما همان موج «امید» به سرعت با «ترس از سناریوهای بعدی در دست حکومت» جایگزین شد؛ در متن، علت‌اش نزدیکی به پایان آتش‌بس و بحث درباره باز شدن تنگه هرمز ذکر می‌شود.",
+            "همزمان، جامعه وارد «۵۰مین روز خاموشی اینترنت» شده است؛ ارتباطات فقط از مسیرهای غیررسمی و پرخطر مثل پیام‌های قاچاق، ویس‌نوت و کدگذاری‌شده به بیرون درز می‌کند و حتی برای خانواده‌ها محدودیت شدید خرید حجم اینترنت برای چند پیام یا چند توییت توصیف شده است.",
+            "این روایت‌ها در کنار تشدید سرکوب قرار گرفته: اجرای اعدام علیه مخالفان، بازداشت هزاران نفر و فضای بی‌اعتمادی شدید؛ گفته می‌شود افراد با تهدید نظارت و تلافی‌جویی از سوی سپاه و ترس از پیامدها، به‌رغم خطر، شهادت داده‌اند."
+        ],
+        "impact": "خاموشی اینترنت و تشدید سرکوب، هم ارتباط اجتماعی را می‌شکند و هم نااطمینانی را بالا نگه می‌دارد؛ در نتیجه تاب‌آوری مردم در برابر شوک‌های سیاسی و امنیتی کمتر می‌شود.",
+        "tag": "اینترنت",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/voices-inside-iran-residents-break-082923849.html",
+        "clean_url": "https://www.aol.com/articles/voices-inside-iran-residents-break-082923849.html",
+        "image": "http://www.bing.com/th?id=ONUT.PArhcws417NTosoaoDYjyg&pid=News",
+        "timestamp": 1776477540.0
+    },
+    {
+        "title_fa": "ایران محدودیت‌های تنگه هرمز را دوباره اعمال کرد؛ اتهام نقض توافق از سوی آمریکا",
+        "title_en": "Iran reimposes restrictions on Strait of Hormuz, accusing US of violating deal to reopen it",
+        "summary": [
+            "طبق گزارش، ایران پس از اعلام آمریکا درباره ادامه «محاصره» علیه ایران‌مرتبط‌ها، محدودیت‌های تنگه هرمز را دوباره برقرار کرد و مسیر احیای بازگشایی را معکوس کرد.",
+            "ایران این اقدام را با اتهام به آمریکا برای «نقض معامله/توافق» توجیه کرده و عملاً پیام سیاسی-عملی ارسال می‌کند که خروجی مذاکرات برای تهران قابل‌قبول نبوده است.",
+            "این چرخش سریع نشان می‌دهد تصمیم‌گیری عملی ایران در تنگه هرمز بیشتر تابع فشار و رفتار ایالات متحده است تا روندهای پایدار توافقی؛ بنابراین ریسک اختلال دریایی و هزینه‌های اقتصادی مسیرهای کشتیرانی بالا می‌ماند."
+        ],
+        "impact": "با توجه به حساسیت تنگه هرمز برای تجارت منطقه، بازگشت محدودیت‌ها احتمال افزایش تنش عملیاتی و برهم‌زدن جریان کشتیرانی را تقویت می‌کند.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-reimposes-restrictions-on-strait-of-hormuz-accusing-us-of-violating-deal-to-reopen-it/ar-AA21aVQZ",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-reimposes-restrictions-on-strait-of-hormuz-accusing-us-of-violating-deal-to-reopen-it/ar-AA21aVQZ",
+        "image": "http://www.bing.com/th?id=ONUT.IYboSn5SFUEXiFK7G3p13w&pid=News",
+        "timestamp": 1776475695.0
+    },
+    {
         "title_fa": "ادعای نزدیک‌بودن توافق آمریکا و ایران همزمان با تداوم محاصره و باز شدن محدود مسیر صادراتی",
         "title_en": "US-Israel war with Iran",
         "summary": [
@@ -196,6 +286,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-war-happening-day-49-062326522.html",
         "image": null,
         "timestamp": 1776475527.0
+    },
+    {
+        "title_fa": "ادامه مذاکرات آمریکا-ایران در کنار استمرار محاصره بنادر و اختلاف فوری درباره وضعیت تنگه هرمز",
+        "title_en": "Trump says U.S. has 'good news' on Iran, talks to continue over weekend",
+        "summary": [
+            "ترامپ اعلام کرد «خبر خوب» درباره پیشرفت مذاکرات می‌گوید و تأکید کرد گفت‌وگوها در تعطیلات آخر هفته ادامه خواهد داشت، در حالی که یک آتش‌بس شکننده برقرار است.",
+            "هم‌زمان، رسانه‌های دولتی ایران گزارش دادند تنگه هرمز بار دیگر به روی کشتیرانی بسته شده؛ روایت ایران این است که آمریکا تعهداتش را انجام نداده، پس کانال حیاتی دوباره محدود شده است.",
+            "ترامپ تصریح کرد محاصره بنادر ایران برقرار می‌ماند و احتمال تمدید آتش‌بس دو هفته‌ای را کم دانست؛ او حتی هشدار داد اگر تمدید نشود، «ناچار» بمباران‌ها از سر گرفته می‌شوند. یکی از گره‌های اصلی مذاکرات هم بازیابی مواد برنامه هسته‌ای ایران است."
+        ],
+        "impact": "این ترکیب «ادامه مذاکره + استمرار فشار دریایی + ناپایداری فوری در هرمز» ریسک بی‌ثباتی میدانی و فشار اقتصادی-عملیاتی بر صادرات انرژی ایران را بالا نگه می‌دارد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
+        "clean_url": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
+        "image": "http://www.bing.com/th?id=ONUT.CyDJOHy_V-cjH0GuBIkHkQ&pid=News",
+        "timestamp": 1776470520.0
     },
     {
         "title_fa": "اظهارات ترامپ درباره درگیری آمریکا-اسرائیل با ایران",
@@ -232,6 +340,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM041NnljZ0RQSlhpQTdfVm5FTEJwNkFfSHpRWlE0Sk1FMXVjTTcyNXZKaXpZd1NIMGdDdXNSeW5helZKTTFza0F0c05OdnEtVG9hc1Q3TG40V25TVVYwSmtQcHNWVzI0RmZCM1AxOGlTMnV0cGZVZEhLd09LRkNITHNDbTJ0UdIBiwFBVV95cUxPZXQ4d0NlZ3d4U3JQOThVOTEzR3cwU1A2MXIya29jSEt2QWliR203SGZrUy1ZV2FoUVBxZmgyTHF3bUEwMVJUaEtTaTMzUnlJVU1zbXB6YkV4SHRGakNkcjRuUEtGbXVkeW9FZ0QtVDRmV3ZHdldRanlTNDhDM1E1ZmFmeUFjaFVDSllF",
         "image": null,
         "timestamp": 1776466260.0
+    },
+    {
+        "title_fa": "ایران: بازگشت «کنترل سخت‌گیرانه» بر تنگه هرمز تا پایان محاصره آمریکا",
+        "title_en": "Iran War Live Updates: Iran’s Military Says It Has Reimposed ‘Strict Control’ of Strait of Hormuz",
+        "summary": [
+            "نیروهای نظامی ایران اعلام کرده‌اند که کنترل «سخت‌گیرانه» بر تنگه هرمز را دوباره اعمال کرده‌اند و تا زمانی که آمریکا محاصره بنادر ایران را لغو نکند، این وضعیت را حفظ می‌کنند.",
+            "این ادعا مستقیماً به نااطمینانی درباره دسترسی به تنگه هرمز دامن می‌زند؛ چون استمرار کنترل نظامی ایران وابسته به اقدام ایالات متحده در موضوع محاصره بنادر اعلام شده است.",
+            "رابطه شرطیِ اعلام‌شده بین «کنترل تنگه» و «پایان محاصره بنادر» نشان می‌دهد محور فشار سیاسی-اقتصادی از سوی آمریکا و اهرم‌سازی دریایی از سوی ایران در حال تشدید تقابل است."
+        ],
+        "impact": "گام اعلام‌شده می‌تواند ریسک عملیاتی و هزینه‌های تجارت دریایی را بالا ببرد و مسیر تنش را به سمت درگیری‌های کنترل‌پذیر یا حادثه‌محور در آب‌های حساس سوق دهد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
+        "clean_url": "https://www.nytimes.com/live/2026/04/18/world/iran-us-war-trump-hormuz",
+        "image": null,
+        "timestamp": 1776463800.0
     },
     {
         "title_fa": "ترامپ تهدید به از سرگیری حملات پس از پایان مهلت آتش‌بس با ایران می‌کند",
@@ -5273,131 +5399,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZC1tcEN5ZklZaUczLWl3RVc4bXJ6dS1xeU5KbURXVEdPTFhDMU5qNHBhdEZiN2U4cDZNZ3lMNVR3MnI1RWsxcFBTQl80cVhlNkVxM1RZRVFyM3JRdjNTNVZNbzR6MzNUZXFvdnh3V3FYU1lxUFYyZ1B4VnM5UjUzMzduT0o4eWJQV2ZaQ21Ma1kyQ1Q1VjF6SWlrQWVqYnQ3MGFUVzlNSmtVQ2pPdDRhcU9n0gG3AUFVX3lxTFBidmRZSXRpM1pZOUY5bmxPeERwUDZEb1Vmck91cUVQT1lLM1NLLWN6b21sM3VUaUtRUjlvOXg2UTBDV0lTdXRlaWFVWnNXSjhKdEY4TjdpX3BoRGpuNVdFcXFhX0JEWVVpaDE3c0k1b0hSbGRCZjZFN3ptdHZIckk3QTB3VGdLdl8wa281RENTNW9lRzJPWDR5NWcyYXM5Y1VaX1NIeXpXcFFmbkpaQmdfVmotclhEYw",
         "image": null,
         "timestamp": 1776102256.0
-    },
-    {
-        "title_fa": "آغاز «محاصره دریایی» آمریکا علیه بنادر ایران؛ تهران تهدید به واکنش متقابل کرد",
-        "title_en": "US begins blockade of Iran's ports, Tehran threatens retaliation",
-        "summary": [
-            "ترامپ اعلام کرد آمریکا از دوشنبه عملیات محاصره/انسداد بنادر ایران را آغاز کرده است؛ هدف این اقدام، فشار مستقیم بر مسیرهای تجاری و دریایی جمهوری اسلامی از طریق محدودسازی دسترسی به صادرات و واردات است.",
-            "تهران در واکنش تهدید به مقابله متقابل کرده است؛ این یعنی احتمال افزایش تنش در آب‌های پیرامون ایران و واکنش‌های امنیتی-عملیاتی از سوی طرف ایرانی وجود دارد.",
-            "با توجه به اینکه اقدام در سطح نظامی-دریایی گزارش شده، اثر اولیه آن بیشتر از جنس فشار ساختاری بر تجارت و هزینه‌های عملیاتی حمل‌ونقل است تا صرفاً یک موضع سیاسی؛ اما متن فعلی به جزئیات سطح درگیری یا نوع اقدام عملیاتی اشاره کامل نمی‌دهد."
-        ],
-        "impact": "این اقدام می‌تواند سرعت فشار اقتصادی بر رژیم را بالا ببرد و هم‌زمان ریسک رویارویی مستقیم در محیط دریایی را افزایش دهد.",
-        "tag": "تحریم-دریایی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/world/us-begins-blockade-of-irans-ports-tehran-threatens-retaliation/ar-AA20O0GZ",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-begins-blockade-of-irans-ports-tehran-threatens-retaliation/ar-AA20O0GZ",
-        "image": "http://www.bing.com/th?id=ONUT.3XxatlXCz7BeozqRYOPIcA&pid=News",
-        "timestamp": 1776099907.0
-    },
-    {
-        "title_fa": "بعد از توقف تیراندازی: جمع‌وجور کردن برنامه هسته‌ای ایران در دوره پساجنگ",
-        "title_en": "When the Shooting Stops: Securing Iran’s Nuclear Program After the War",
-        "summary": [
-            "این متن در چارچوب «بعد از جنگ» به مسئله امنیت و کنترل برنامه هسته‌ای ایران می‌پردازد و تمرکزش بر سازوکارهای تضمین و راستی‌آزمایی پس از پایان درگیری است.",
-            "به‌جای تحلیل صرف، بر چالش عملی «قطع تهدید» از مسیر کنترل فعالیت‌های هسته‌ای و جلوگیری از انحراف/ازسرگیری سریع تمرکز دارد.",
-            "رویکرد گزارش به‌طور ضمنی بر این فرض استوار است که هر وقفه در درگیری بدون چارچوب نظارتی و محدودکننده، می‌تواند به بازیابی ظرفیت هسته‌ای منجر شود."
-        ],
-        "impact": "محتوای گزارش بیشتر یک نقشه راه برای مهار ریسک هسته‌ای پس از جنگ است تا یک رویداد نظامی یا تصمیم سیاسی مشخص؛ بنابراین اثر آن عمدتاً در سطح طراحی مکانیزم‌های کنترل و کاهش تهدید تعریف می‌شود.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Nuclear Threat Initiative",
-        "url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-        "clean_url": "https://www.npr.org/2026/04/08/nx-s1-5771492/iran-war-goals-unmet-ceasefire-strait-hormuz-trump",
-        "image": null,
-        "timestamp": 1776098289.0
-    },
-    {
-        "title_fa": "سه تغییر ناشی از جنگ علیه ایران؛ توازن امنیتی و پیامدهای داخلیِ رژیم",
-        "title_en": "Three Changes Wrought by the Iran War",
-        "summary": [
-            "این مطلب با تمرکز بر «سه تغییر» ادعا می‌کند که جنگِ پیرامون ایران، پیامدهای مشخصی در محیط امنیتی و تصمیم‌گیری بازیگران منطقه‌ای ایجاد کرده است، اما متن ارسالی فقط عنوان و مشخصات نویسنده را دارد و جزئیات تغییرات را ارائه نمی‌دهد.",
-            "به‌دلیل نبودنِ محتوای بدنه، نمی‌توان مشخص کرد که آیا این «تغییرات» شامل تحرکات میدانی، فشارهای اقتصادی/تحریمی، یا پیامدهای زنجیره‌ای بر اقتصاد و توان حکمرانی جمهوری اسلامی است یا نه.",
-            "در متن ارسالی هیچ اشاره‌ای به روسیه/چین/کره‌شمالی، یا به شکل مشخص به اعتراضات داخلی، کاهش ارزش پول، یا حملات به دارایی‌های رژیم نشده؛ بنابراین هر پیوندی باید از محدوده قابل‌اتکا خارج شود و من این کار را انجام نمی‌دهم."
-        ],
-        "impact": "بدون دسترسی به متن کامل، ارزیابی دقیق اثرات راهبردی بر ثبات داخلی رژیم و میزان فشار خارجی ممکن نیست.",
-        "tag": "تحلیل",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/ideas/2026/04/iran-war-trump-us-shifts/686780/",
-        "clean_url": "https://www.theatlantic.com/ideas/2026/04/iran-war-trump-us-shifts/686780",
-        "image": null,
-        "timestamp": 1776097782.0
-    },
-    {
-        "title_fa": "محاصره دریایی آمریکا؛ زنجیره سقوط ارزش ریال و جهش تورم در دستور کار",
-        "title_en": "US naval blockade on Iran will trigger currency devaluation spiral and hyperinflation, analyst says",
-        "summary": [
-            "فورچون به‌نقل از یک تحلیلگر می‌گوید محاصره دریایی آمریکا می‌تواند شوک مستقیم به عرضه ارز و روند مبادلات خارجی وارد کند و زمینه «مارپیچ» devaluation را فعال کند.",
-            "این رخداد به‌عنوان عامل تشدیدکننده انتظارهای تورمی معرفی می‌شود؛ یعنی با گران‌تر شدن فوری ارز، هزینه واردات بالا می‌رود و تورم از کنترل خارج می‌شود.",
-            "جمع‌بندی گزارش این است که تشدید فشار خارجی از مسیر مالی، ریسک رسیدن به «هایپر‌اینفلیشن» را افزایش می‌دهد—نه از طریق یک تصمیم داخلی، بلکه از طریق تنگنای ارزی و محدودیت‌های تجاری."
-        ],
-        "impact": "اگر محاصره دریایی به‌صورت مؤثر اجرا شود، مسیر سقوط ریال می‌تواند سریع به تورم بسیار بالا منتهی شود و هزینه‌های زندگی را جهشی کند.",
-        "tag": "اقتصاد",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjNyRk9rb0pfNVRvQU9hQmdVUHlMbjNBcWRCWHEyLUxSTlJUSjdxTHVpbk1BSkFVblBPTUtRTV8wSzhkYnNnVm9Zam5SSWM1TXA1a2JKUEFyYlB2d3UyM2duZXdxeDdvQzFSRkFZbE5kVWJTS1ZrcnV6WEl6VjBSNHdvY1pBQTdIeUh4SDkxeUhPM2wzQW1ZZ2xWdnp0TFJrcHREZVlSdWlTaUh4cG1XTmp2SVFHUnU3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVjNyRk9rb0pfNVRvQU9hQmdVUHlMbjNBcWRCWHEyLUxSTlJUSjdxTHVpbk1BSkFVblBPTUtRTV8wSzhkYnNnVm9Zam5SSWM1TXA1a2JKUEFyYlB2d3UyM2duZXdxeDdvQzFSRkFZbE5kVWJTS1ZrcnV6WEl6VjBSNHdvY1pBQTdIeUh4SDkxeUhPM2wzQW1ZZ2xWdnp0TFJrcHREZVlSdWlTaUh4cG1XTmp2SVFHUnU3",
-        "image": null,
-        "timestamp": 1776094620.0
-    },
-    {
-        "title_fa": "مجموعه: ایران، اسرائیل و ایالات متحده در جنگ (عملیات ۲۰۲۵–۲۰۲۶) — Just Security",
-        "title_en": "Collection: Iran, Israel and the United States at War (2025-2026 Operations)",
-        "summary": [
-            "این مجموعه گزارشی از عملیات نظامی و امنیتی بین ایران، اسرائیل و ایالات متحده در دورهٔ ۲۰۲۵–۲۰۲۶ است که به رویه‌های اجرایی، پیامدهای راهبردی و چارچوب‌های حقوقی می‌پردازد؛ با این حال بدون متن کامل نمی‌توان جزئیات عملیات را تأیید کرد.",
-            "در مواجهه با فشارهای خارجی و تحریم‌ها، منطقاً چنین درگیری‌هایی و محدودیت‌های اقتصادی ساختاری ظرفیت مالی رژیم را تضعیف می‌کند؛ این تضعیف هزینه‌های نظامی و حمایت از پروکسی‌ها را سنگین‌تر کرده و تاب‌آوری سیاسی و اقتصادی داخلی را کاهش می‌دهد.",
-            "ترکیب جنگ، ناکارآمدی مدیریتی و فرسایش اقتصادی، روند نارضایتی عمومی را تسریع می‌کند؛ اگر مجموعه به شواهد میدانی پرداخته باشد، باید انتظار تشدید اعتراضات و فشار بر نهادهای حکومتی را داشت ـ اما بدون متن‌های تحلیلی دقیق جزئیات قابل اثبات نیست."
-        ],
-        "impact": "این مجموعه نشان می‌دهد که درگیری‌های مستقیم ۲۰۲۵–۲۰۲۶ خطر فرسایش توان اقتصادی و سیاسی رژیم را بالا برده و ریسک تشدید بی‌ثباتی داخلی و گسترش جنگ منطقه‌ای را افزایش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Just Security",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoSVdUeXVkem5oeFB6SzlYa0xrbmpSVXdlWDdrX3dhbG5vWFNvZ1ZLXzR6U0N1WVMyekQ0RzY2UXgwRWdwU0E2ZXRIbXZwaWN2eTZRbkU4M1N2X25xMjY0RjQ4WFdvdEc2VHhkbXpONWJYWEo2TzBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoSVdUeXVkem5oeFB6SzlYa0xrbmpSVXdlWDdrX3dhbG5vWFNvZ1ZLXzR6U0N1WVMyekQ0RzY2UXgwRWdwU0E2ZXRIbXZwaWN2eTZRbkU4M1N2X25xMjY0RjQ4WFdvdEc2VHhkbXpONWJYWEo2TzBB",
-        "image": null,
-        "timestamp": 1776093787.0
-    },
-    {
-        "title_fa": "هشدار ترامپ به کشتی‌های ایرانی؛ آغاز بلوک دریایی تنگه هرمز و آزمون دوام آتش‌بس",
-        "title_en": "Trump warns Iranian ships as Hormuz blockade gets underway",
-        "summary": [
-            "طبق گزارش، بلوک دریایی آمریکا در تنگه هرمز از صبح دوشنبه آغاز شده و عملاً وارد فاز فشار نظامی مستقیم بر مسیر حیاتی انرژی شده است.",
-            "همزمان با نزدیک شدن به مهلت 10:00 صبح به وقت ET، ترامپ بلافاصله پس از این زمان، هشدار صریحی به کشتی‌های ایرانی داده و این اقدام را به «دوام آتش‌بس شکننده» گره زده است.",
-            "در چارچوب بحران انرژی جهانی، این عملیات به‌عنوان اهرم فشار طراحی شده تا مانع از گسترش تنش شود؛ اما خودِ ماهیت بلوک نشان می‌دهد ریسک تشدید رویارویی بالاست."
-        ],
-        "impact": "شروع بلوک دریایی در هرمز و هشدار بلافاصله ترامپ، آتش‌بس را از حالت سیاسی به آزمون عملیاتی کشانده و احتمال برخورد مستقیم و اختلال جدی در تجارت انرژی را بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Seeking Alpha",
-        "url": "https://seekingalpha.com/news/4574457-trump-warns-iranian-ships-as-hormuz-blockade-gets-underway",
-        "clean_url": "https://seekingalpha.com/news/4574457-trump-warns-iranian-ships-as-hormuz-blockade-gets-underway",
-        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265963203/image_2265963203.jpg?io=getty-c-w630",
-        "timestamp": 1776091560.0
-    },
-    {
-        "title_fa": "آمادگی آمریکا برای محاصره دریایی بنادر ایران؛ تهدید تهران درباره بنادر خاورمیانه",
-        "title_en": "US military is poised to blockade Iranian ports, while Tehran threatens ports in the Mideast",
-        "summary": [
-            "طبق گزارش AP، نیروی نظامی آمریکا در آستانه اجرای اقدامات محاصره‌ای/بازدارنده علیه بنادر ایران قرار گرفته است؛ هدف عملی چنین اقداماتی فشار مستقیم بر مسیرهای صادراتی و لجستیک دریایی است.",
-            "در مقابل، تهران از «تهدید بنادر» در خاورمیانه سخن گفته که بیانگر خطرِ گسترش تنش از سطح اقتصادی به سطح امنیتی در آب‌های منطقه است.",
-            "این تقابل، همزمان دو پیام دارد: از یک سو فشار خارجی برای تضعیف توان مالی/تدارکاتی ایران، از سوی دیگر تلاش رژیم برای بازدارندگی از طریق بالا بردن هزینه‌های امنیتیِ بازیگران منطقه."
-        ],
-        "impact": "اگر محاصره دریایی عملیاتی شود، فشار مالی و اختلال در حمل‌ونقل ایران می‌تواند سریعاً تشدید شود و ریسک درگیری‌های محدود یا تصادفی در آب‌های منطقه بالا می‌رود.",
-        "tag": "دریایی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2dJQWY4QmxJblNkbFQxSFlCT0hwM2FCRFZqZTdSRUdhYjg5ZC1xdnNyQ0hueHZGbTVsajJFU1RZY2ZtNklYc0J0VUlVSnlTTzZOdi14eVBfTGdIZmFEaHptQVptTkdzSmNrck84RUZraFBDel9aUmxNeDI1OEg0a3NKNW1pbHJiVnI0TnA2TWtJbWo1bVpOeHE1Q1JxYXJPV09fSFp5ZnN2VXN1aVprdVMxemFMTzJRNnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT2dJQWY4QmxJblNkbFQxSFlCT0hwM2FCRFZqZTdSRUdhYjg5ZC1xdnNyQ0hueHZGbTVsajJFU1RZY2ZtNklYc0J0VUlVSnlTTzZOdi14eVBfTGdIZmFEaHptQVptTkdzSmNrck84RUZraFBDel9aUmxNeDI1OEg0a3NKNW1pbHJiVnI0TnA2TWtJbWo1bVpOeHE1Q1JxYXJPV09fSFp5ZnN2VXN1aVprdVMxemFMTzJRNnc",
-        "image": null,
-        "timestamp": 1776091260.0
     }
 ]
