@@ -162,6 +162,24 @@
         "timestamp": 1776606177.0
     },
     {
+        "title_fa": "ایران طرح ترامپ برای گفت‌وگوهای صلح جدید با آمریکا را رد کرد",
+        "title_en": "Iran rebuffs Trump announcement of new peace talks, state news agency reports",
+        "summary": [
+            "طبق گزارش خبرگزاری دولتی ایران، تهران با پیشنهاد ترامپ برای برگزاری دور تازه «گفت‌وگوهای صلح» با آمریکا مخالفت کرده است.",
+            "این موضع‌گیری کمتر از چند ساعت پس از اعلام ترامپ مطرح شده و نشان می‌دهد ایران تلاش می‌کند ابتکار عمل در پرونده هسته‌ای/دیپلماتیک را به واشینگتن واگذار نکند.",
+            "در سطح راهبردی، رد گفت‌وگوهای جدید می‌تواند به تداوم مسیر فشار خارجی و محدودیت‌های اقتصادی منجر شود، چون مسیر کاهش تنش از کانال مذاکره بسته می‌ماند."
+        ],
+        "impact": "رد فوری گفت‌وگوهای جدید، احتمال استمرار فشار و بن‌بست دیپلماتیک را بالا می‌برد و ریسک تشدید هزینه‌های اقتصادی برای حکومت را افزایش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-rebuffs-trump-announcement-of-new-peace-talks-state-news-agency-reports/ar-AA21fTit",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-rebuffs-trump-announcement-of-new-peace-talks-state-news-agency-reports/ar-AA21fTit",
+        "image": "http://www.bing.com/th?id=ONUT.3AxwRXaZC4X6JGphgupFKw&pid=News",
+        "timestamp": 1776601316.0
+    },
+    {
         "title_fa": "گزارش الجزیره: تشریح ۱۰ واژه پرتکرار جنگ و نقش تنگه هرمز، پهپاد شاهد و موشک تاماهاوک",
         "title_en": "Iran war: 10 frequently used words and their meanings",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUm9DTm9obVVHaGJTaHdrX1pIR01NYnd1OUw4UUREdjMxQnV0T2xLc1E1OEEwQ0g0OWNtNGdVRTBOV1QxMTlucXcwU0xnLVhoTkd1TklEZGtRakRTaEVVZWJ0Z21qanpVdUNQeER6bkZHaTBYMm9oWWF2TUFkUFg0ckcyVXVzNnIzUlVRM1lJZlRwTms",
         "image": null,
         "timestamp": 1776223041.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید گفت‌وگو با ایران برای پایان جنگ می‌تواند «به‌زودی» از سر گرفته شود؛ همزمان نیروی دریایی آمریکا کشتی‌های در حال خروج از بنادر ایران را برمی‌گرداند",
-        "title_en": "Trump says talks with Iran could resume soon, as US blockades Iranian ports",
-        "summary": [
-            "ترامپ اعلام کرد گفت‌وگوهای آمریکا و ایران برای پایان جنگ «به‌زودی» از سر می‌گیرد و از «دو روز شگفت‌انگیز» سخن گفت؛ او همچنین گفت لزومی به تمدید آتش‌بس دو هفته‌ای که تا ۲۱ آوریل پایان می‌یابد نمی‌بیند.",
-            "هم‌زمان، آمریکا با اعمال محاصره دریایی اعلام کرد تجارت ورودی و خروجی ایران از راه دریا را عملاً متوقف کرده و نیروهایش کشتی‌های در حال خروج از بنادر ایران را برگردانده‌اند؛ از جمله یک نفتکشِ چینیِ تحت تحریم آمریکا با نام Rich Starry که پس از خروج از خلیج فارس به سمت تنگه هرمز می‌رفت.",
-            "گروه‌های مذاکره‌کننده دو طرف گفته‌اند ممکن است برای دور تازه گفت‌وگوها به اسلام‌آباد در پاکستان بازگردند؛ با این حال نشست قبلی، بدون توافق برای پایان جنگ، به پایان رسید و جنگ از ۲۸ فوریه با حملات آمریکا-اسرائیل آغاز شد و سپس حملات ایران به همسایگان خلیج فارس و نیز تشدید درگیری موازی با حزب‌الله در لبنان را در پی داشت."
-        ],
-        "impact": "محاصره دریایی و تداوم فشردگی اقتصادی، هم‌زمان با وعده از سرگیری مذاکرات، می‌تواند رژیم را بین دو مسیر «توافق سریع برای کاهش فشار» یا «تداوم بن‌بست همراه با افزایش هزینه‌ها» گیر بیندازد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/us-shuts-down-irans-maritime-044734389.html",
-        "clean_url": "https://www.yahoo.com/news/articles/us-shuts-down-irans-maritime-044734389.html",
-        "image": "http://www.bing.com/th?id=ONUT.TscCzNcuxn38nWAS28l--Q&pid=News",
-        "timestamp": 1776222540.0
     }
 ]
