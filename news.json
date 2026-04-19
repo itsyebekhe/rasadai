@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "افزایش قیمت نفت و افت آتی شاخص‌ها در پی تشدید دوباره درگیری ایران",
+        "title_en": "Oil Prices Jumped and Stock Futures Fell on Renewed Iran Conflict",
+        "summary": [
+            "طبق گزارش نیویورک‌تایمز، با «ن»اگهانی شدن/تشدید دوباره «درگیری ایران»، قیمت نفت بالا رفت و این یعنی بازارها افزایش ریسک ژئوپلیتیک و اختلال احتمالی در عرضه را جدی گرفته‌اند.",
+            "هم‌زمان آتی سهام افت کرد که نشان می‌دهد سرمایه‌گذاران اثر این نوسان را بر رشد اقتصادی، هزینه‌های انرژی و ریسک‌های زنجیره‌ای بازارها برآورد کرده‌اند.",
+            "محتوای ارائه‌شده فقط به واکنش بازارها اشاره دارد و جزئیات نوع درگیری، زمان و مکان، یا اقدامات مشخص رژیم/طرف‌های دیگر را در متن فعلی ندارد؛ بنابراین نمی‌توان درباره عامل دقیق یا مسیر سیاست خارجی نتیجه‌گیری ساختگی کرد."
+        ],
+        "impact": "این ترکیب «افزایش نفت + افت آتی سهام» فشار اقتصادی فوری را تقویت می‌کند و توان رژیم برای مدیریت هزینه‌های بحران‌های منطقه‌ای را محدودتر می‌سازد.",
+        "tag": "بازار",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/19/business/oil-stocks-gas-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/04/19/business/oil-stocks-gas-iran.html",
+        "image": null,
+        "timestamp": 1776637246.0
+    },
+    {
         "title_fa": "توقیف اجباری ناوگان آمریکا یک کشتی با پرچم ایران نزدیک تنگه هرمز؛ تردید در دور دوم مذاکرات",
         "title_en": "US seizes Iranian-flagged cargo ship near Strait of Hormuz as new talks are in question",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/slain-iranian-nuclear-scientists-raises-alarm-over-uranium-expertise-reaching-black-market/ar-AA21gJyu",
         "image": null,
         "timestamp": 1776631573.0
+    },
+    {
+        "title_fa": "ادعای ترامپ درباره توقیف کشتی با پرچم تهران و تهدید هدف‌گیری زیرساخت‌های غیرنظامی",
+        "title_en": "Iran-US war latest: Trump says US has seized Tehran-flagged cargo ship",
+        "summary": [
+            "دونالد ترامپ اعلام کرده آمریکا یک کشتی باریِ با پرچم تهران را پس از «ایجاد سوراخ/آسیب» در بدنه، ضبط کرده است؛ این یعنی درگیری مستقیم در سطح عملیات دریایی وارد فاز جدیدی شده است.",
+            "ترامپ همزمان تهدید کرده اگر ایران «توافق را نپذیرد»، آمریکا زیرساخت‌های غیرنظامی ایران را هدف قرار می‌دهد؛ پیام این تهدید، گسترش دامنه فشار به بخش‌های اقتصادی و شهری است، نه فقط اهداف نظامی.",
+            "محتوای گزارش نشان می‌دهد رقابت فشار—توقیف دریایی همراه با تهدید زیرساخت غیرنظامی—به عنوان اهرم اجرایی برای وادارکردن ایران به پذیرش «دیل» مطرح شده است."
+        ],
+        "impact": "این حرکت می‌تواند ریسک تشدید سریع درگیری را بالا ببرد و هزینه‌های عملیاتی و لجستیکی برای ایران را در حوزه دریایی و همچنین امنیت زیرساخت‌های غیرنظامی افزایش دهد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-trump-says-us-has-seized-tehran-flagged-cargo-ship/ar-AA215O5L",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-trump-says-us-has-seized-tehran-flagged-cargo-ship/ar-AA215O5L",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21ciTf.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1776630346.0
     },
     {
         "title_fa": "تداوم تنش‌ها: ادعای ترامپ درباره توقیف یک کشتی ایرانی در میانه آتش‌بس",
@@ -216,6 +252,24 @@
         "timestamp": 1776610800.0
     },
     {
+        "title_fa": "ایران مذاکره صلح را رد کرد؛ ترامپ هیئت مذاکره را به پاکستان می‌فرستد همزمان با تشدید در تنگه هرمز",
+        "title_en": "Iran Rejects New Peace Talks as Trump Sends Negotiators to Pakistan",
+        "summary": [
+            "ایران به‌گزارش خبرگزاری دولتی IRNA یک دور تازه مذاکرات را رد کرد و دلیل را «مطالبات بیش از حد»، «انتظارات غیرواقعی» و ادامه «محاصره دریایی آمریکا» اعلام کرد؛ در گزارش نام مشخصی از مقام‌ها نیامده است.",
+            "این ردیه در پی بالاگرفتن تنش‌ها پس از حمله نیروهای ایرانی به کشتی‌ها نزدیک تنگه هرمز رخ داد؛ ترامپ آن را «نقض کامل» آتش‌بس دانست و هشدار داد در صورت نپذیرفتن توافق، «همه نیروگاه‌ها و همه پل‌ها» در ایران هدف قرار می‌گیرد.",
+            "ترامپ اعلام کرد هیئت مذاکره‌کننده آمریکا به پاکستان می‌رود و احتمالاً دور جدید از عصر دوشنبه آغاز می‌شود؛ رسانه‌ها از نقش معاون رئیس‌جمهور JD Vance و همچنین حضور Steve Witkoff و Jared Kushner در هیئت خبر دادند، در حالی‌که برخی دیپلمات‌های پیشین درباره کمبود تجربه یا احتمال بدتر شدن اوضاع به دلیل اشتباهات هشدار داده‌اند."
+        ],
+        "impact": "رد مذاکره همزمان با ادعای ادامه محاصره دریایی و «عملاً بسته بودن» تنگه هرمز، ریسک ادامه جنگ دریایی و طولانی شدن بحران را بالا می‌برد.",
+        "tag": "مذاکره",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-accuses-iran-total-violation-144043313.html",
+        "clean_url": "https://www.aol.com/articles/trump-accuses-iran-total-violation-144043313.html",
+        "image": "http://www.bing.com/th?id=ONUT.T4Yy12iJsJfPcdOPTbqizg&pid=News",
+        "timestamp": 1776609600.0
+    },
+    {
         "title_fa": "عودتِ آتش‌گشودن و بن‌بست واشنگتن-تهران بر سر تنگه هرمز؛ ایران عقب نشست و کشتی‌ها دوباره متوقف شدند",
         "title_en": "What to know about US-Iran standoff over the Strait of Hormuz",
         "summary": [
@@ -268,6 +322,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-talks-are-on-sparking-push-to-bridge-gaping-divides/ar-AA21gl5c",
         "image": "http://www.bing.com/th?id=ONUT.TXasygjqTlYj8nKgnrRNkw&pid=News",
         "timestamp": 1776607020.0
+    },
+    {
+        "title_fa": "برآورد ناوگان تانک ایران پیش از آغاز جنگ (طبق گزارش‌های اطلاعاتی آمریکا)",
+        "title_en": "Iran's Tank Fleet Before The War: Here's How Many They Had",
+        "summary": [
+            "این گزارش، با اتکا به «گزارش قدرت نظامی ایران» (2019) منتشرشده توسط Defense Intelligence Agency، تعداد تانک‌های ایران را در حدود 1900 دستگاه از انواع مختلف برآورد می‌کند؛ اما تأکید می‌کند که جمع‌بندی دقیق همچنان نامشخص است و ممکن است داده‌ها از نظر زمانی قدیمی باشند.",
+            "به تفکیک نیروها، ایران دو نیروی زمینی جداگانه با تجهیزات مشابه دارد: ارتش و نیروی زمینی IRGC. از تانک‌های سبک یک مدل بومی (Tosan) ذکر می‌شود و در کنار آن تانک‌های چفت‌این که به نسخه «Mobarez» ارتقا داده شده‌اند و نیز حدود 50 دستگاه M-60A1 ارتقا‌یافته آمریکایی در فهرست آمده است.",
+            "بخش اصلی توان تانکی ایران را مدل‌های مختلف T-72 می‌سازد. طبق متن، ایران از 2020 ارتقای ناوگان T-72 را آغاز کرده و ادعا می‌کند 565 فروند T-72 در اختیار دارد؛ همچنین به وجود سامانه‌های دیگر مثل توپخانه خودکششی، توپخانه یدک‌کش و راکت‌اندازهای چندگانه هم اشاره می‌شود."
+        ],
+        "impact": "این ارقام—هرچند با عدم قطعیت—نشان می‌دهد تکیه ایران پیش از جنگ روی تیپ‌های زرهی شوروی‌تبار، به‌ویژه T-72، بوده و در صورت ورود نیروهای زمینی، «پهنای» نیروی تانکی قابل توجه اما «شدت واقعی» آن وابسته به میزان به‌روز بودن و صحت تعداد است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.1,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/irans-tank-fleet-war-heres-191500086.html",
+        "clean_url": "https://www.yahoo.com/news/articles/irans-tank-fleet-war-heres-191500086.html",
+        "image": "http://www.bing.com/th?id=ONUT.rM6Mh97T-JfkzCDXzPIWXQ&pid=News",
+        "timestamp": 1776606780.0
     },
     {
         "title_fa": "ادعای کامالا هریس: بنیامین نتانیاهو ترامپ را به درگیری جنگی با ایران سوق داده است",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHgyTkpEMTdfc3NIXzRFNWk1cTBDcS05T3FaNE1jSE9weTNGaG9BV1FwMlVFRzhxVjdNZU1PT0YxV1l1dERya0JIY0ttQ0lKeHJaTkpSanZuM211eTBfWlZoR1YyYXY0SklNUnNZdmh1Tm9iMDN1U0RkZ0VzR0JEZFd6eVdTb0xLVmFrYlVxQTcxOXY1eFc2UktaQ196MWR5RWZtWjlZWEVKY2MzTHFxaGFn",
         "image": null,
         "timestamp": 1776235309.0
-    },
-    {
-        "title_fa": "اظهارات ترامپ درباره «تمام‌نشدن» جنگ با ایران و ادعای «خیلی نزدیک به پایان»",
-        "title_en": "Live updates: Trump says Iran war 'not finished,' but 'very close to over'",
-        "summary": [
-            "طبق منبع USA TODAY، ترامپ گفته جنگ با ایران «تمام نشده»، اما در همان چارچوب ادعا کرده «خیلی نزدیک به پایان» است؛ این دوگانه‌گویی نشان می‌دهد وضعیت در سطح تهدید و بازدارندگی در نوسان است.",
-            "این نوع اظهارنظر، بدون ارائه جزئیات عملیاتی یا زمان‌بندی، بیشتر پیام سیاسی/بازدارنده برای بازیگران داخلی و خارجی تلقی می‌شود و می‌تواند فضای تصمیم‌گیری تهران را تحت فشار روانی و محاسبات امنیتی قرار دهد.",
-            "با توجه به متن موجود، هیچ مدرکی از توافق، آتش‌بس رسمی یا اقدام مشخص (مثل توافق دیپلماتیک یا حمله/اعتبارسنجی میدانی) ارائه نشده است؛ بنابراین صرفاً می‌توان آن را در دسته «مرحله‌بندی جنگ روانی/سیاسی» تحلیل کرد."
-        ],
-        "impact": "این اظهارات می‌تواند شدت عدم‌قطعیت و فشار امنیتی بر محاسبات رژیم را افزایش دهد، اما تا وقتی اقدام یا توافق مشخص اعلام نشود، اثر آن بیشتر در سطح فضای سیاسی است.",
-        "tag": "تهدید",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/04/15/iran-war-trump-ceasefire-udpates--live/89613406007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/15/iran-war-trump-ceasefire-udpates--live/89613406007",
-        "image": "http://www.bing.com/th?id=ONUT.VNvAbEAxBRGxHHJuUzbeWg&pid=News",
-        "timestamp": 1776235080.0
-    },
-    {
-        "title_fa": "رئیس هسته‌ای سازمان ملل خواستار بازرسی‌های سخت‌گیرانه برای هر توافق پایان جنگ با ایران شد",
-        "title_en": "UN nuclear chief urges strict Iran checks in any deal to end war",
-        "summary": [
-            "رئیس بخش هسته‌ای سازمان ملل از ضرورت اعمال «کنترل‌های سخت‌گیرانه» علیه ایران در چارچوب هر توافق برای پایان جنگ سخن گفت و این پیام را به‌عنوان شرط طراحی هر توافق مطرح کرد.",
-            "این موضع، فشار خارجیِ مبتنی بر راستی‌آزمایی را برجسته می‌کند؛ یعنی هر توافق بدون سازوکارهای دقیقِ نظارتی، از دید سازمان ملل عملاً قابل اتکا نیست.",
-            "در سطح سیاسی، پیام گزارش این است که مسیر خروج از بحران، نه با وعده‌های کلی، بلکه با محدودیت‌های نظارتی مشخص پیش می‌رود؛ بنابراین هزینهٔ مانور برای رژیم در مذاکرات افزایش می‌یابد."
-        ],
-        "impact": "تقاضای بازرسی‌های سخت‌گیرانه، اهرم فشار خارجی را علیه توان مانور ایران در هر معامله بالا می‌برد و می‌تواند روند تصمیم‌گیری داخلی و کیفیت توافق‌ها را تحت فشار جدی قرار دهد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "WRAL",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3lqcGFpVVVfeEpCNnVhb3Q1Nmt3N1pXSUJ5eVBJTHBPVkFmWDNzTmVOUlk3TDFnV210eG5pZFF4M2FMSS1vQU5tcjN5WE5hMThuZXRVamNFekpKaDB0S2xIVUJFTXg3LWVZbEVKNGlJWERVeXF5b1pkUnZELS1HTElxLXdzV2pqX3Z1X3Q0M28zdWVQWTFWU0dlQXJIa0lZZ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOT3lqcGFpVVVfeEpCNnVhb3Q1Nmt3N1pXSUJ5eVBJTHBPVkFmWDNzTmVOUlk3TDFnV210eG5pZFF4M2FMSS1vQU5tcjN5WE5hMThuZXRVamNFekpKaDB0S2xIVUJFTXg3LWVZbEVKNGlJWERVeXF5b1pkUnZELS1HTElxLXdzV2pqX3Z1X3Q0M28zdWVQWTFWU0dlQXJIa0lZZ0E",
-        "image": null,
-        "timestamp": 1776234927.0
-    },
-    {
-        "title_fa": "میانجی‌ها از نزدیک‌تر شدن به آتش‌بس آمریکا-ایران و ازسرگیری گفت‌وگوها می‌گویند؛ محاصره و تهدیدها توافق تازه را در خطر گذاشته است",
-        "title_en": "Mediators believe they are closer to extending US-Iran ceasefire, restarting talks",
-        "summary": [
-            "میانجی‌ها می‌گویند با وجود بحران‌زا بودن «محاصره آمریکا بر بنادر ایران» و «تهدیدهای تازه ایران»، روند تمدید یک توافق آتش‌بسِ یک‌هفته‌ای رو به جلو است و احتمال ادامه آن بیشتر شده است.",
-            "منطقه‌ای‌ها تاکید می‌کنند این آتش‌بس به‌طور فوری با تضعیف اعتماد مواجه شده، چون محاصره و تهدیدهای متقابل می‌تواند همان توافق تازه را سریعاً بی‌اثر کند.",
-            "با این حال، گزارش به جای تضمین قطعی، بر «پیشرفت» در مسیر گفت‌وگوهای دوباره متمرکز است؛ یعنی رژیم و واشنگتن هنوز در مرحله نزدیک‌سازی به تفاهم قرار دارند، نه تثبیت آن."
-        ],
-        "impact": "این وضعیت نشان می‌دهد فشار خارجی و تنش‌سازی متقابل، هزینه سیاسی و اقتصادی هر دو طرف را بالا برده و تنها در چارچوب گفت‌وگوهای فعال می‌تواند از فروپاشی سریع آتش‌بس جلوگیری کند.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "PennLive",
-        "url": "https://www.pennlive.com/politics/2026/04/mediators-believe-they-are-closer-to-extending-us-iran-ceasefire-restarting-talks.html",
-        "clean_url": "https://www.pennlive.com/politics/2026/04/mediators-believe-they-are-closer-to-extending-us-iran-ceasefire-restarting-talks.html",
-        "image": "http://www.bing.com/th?id=ONUT.pKIwZuM9GCR4bf_LmThCdQ&pid=News",
-        "timestamp": 1776232500.0
-    },
-    {
-        "title_fa": "ادعای ترامپ: چین توافق کرده تسلیحات به ایران ندهد",
-        "title_en": "Live updates: Trump claims China has agreed not to provide weapons to Iran",
-        "summary": [
-            "خبر با «ادعای ترامپ» آغاز می‌شود که مدعی است چین پذیرفته تسلیحات به ایران ارائه نکند؛ محتوای گزارش، تأیید مستقل این توافق یا جزئیات اجرایی آن را ارائه نمی‌کند.",
-            "اگر چنین محدودیتی واقعی و قابل راستی‌آزمایی باشد، مستقیماً به یکی از منابع تأمین بیرونی رژیم برای رفع نیازهای تسلیحاتی فشار ساختاری وارد می‌کند—اما تا وقتی سند و تأیید وجود ندارد، نمی‌توان اثر را قطعی دانست.",
-            "گزارش حاضر زمینه‌ای از پیامدهای داخلی یا واکنش رسمی ایران یا چین ارائه نمی‌دهد و بنابراین ارزیابی اثر اقتصادی/امنیتی فقط در سطح «احتمال» باقی می‌ماند."
-        ],
-        "impact": "این ادعا در صورت تحقق، می‌تواند مسیر تأمین خارجی تسلیحات را محدود کند، اما نبودِ تأیید و جزئیات در متن، اثر فوری را نامشخص می‌گذارد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-15-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-15-2026",
-        "image": "http://www.bing.com/th?id=ONUT.AKatEOFyB8ztkr7ACjK2fQ&pid=News",
-        "timestamp": 1776231780.0
     }
 ]
