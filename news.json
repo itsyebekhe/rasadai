@@ -36,6 +36,24 @@
         "timestamp": 1776597157.0
     },
     {
+        "title_fa": "آتش‌بس لبنان و اسرائیل اجرایی شد",
+        "title_en": "Lebanon-Israel Cease-Fire Goes Into Effect",
+        "summary": [
+            "بر اساس گزارش نیویورک‌تایمز، آتش‌بس میان لبنان و اسرائیل وارد فاز اجرایی شده است؛ یعنی یک توقف عملیاتی میان طرفین که مستقیماً بر شدت درگیری‌های مرزی اثر می‌گذارد.",
+            "این رخداد یک تغییر میدانیِ سریع تلقی می‌شود و می‌تواند مسیر محاسبات امنیتی بازیگران منطقه‌ای را عوض کند، چون ادامه یا توقف تبادل آتش معمولاً روی سطح فشار و هزینه جنگ اثر می‌گذارد.",
+            "با توجه به محدودیت متن ارائه‌شده، جزئیات درباره زمینه سیاسی آتش‌بس، زمان‌بندی، نظارت و میزان تعهد طرف‌ها در گزارش حاضر مشخص نیست و نمی‌توان فراتر از «شروع آتش‌بس» تحلیل قطعی ارائه داد."
+        ],
+        "impact": "اجرایی شدن آتش‌بس به‌طور فوری ریسک تشدید درگیری‌های مستقیم را کاهش می‌دهد، اما تا روشن شدن سازوکارها و دوام آن نمی‌توان اثر پایدار را سنجید.",
+        "tag": "آتش‌بس",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-cease-fire.html",
+        "clean_url": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-cease-fire.html",
+        "image": null,
+        "timestamp": 1776596347.0
+    },
+    {
         "title_fa": "زلنسکی از تمدید معافیت تحریم‌های روسیه توسط آمریکا انتقاد کرد",
         "title_en": "Zelensky condemns US extension of Russian sanctions waiver",
         "summary": [
@@ -214,6 +232,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLTFwMkdiU050eEpTRENoTWoxaDQtVWtXWF9ST2VpMmxGbVNRNEJuTFRUemVNWnc5YTRrcEVoOWFDZUdYZThHODlYc19nck9fZy1iTXhCUktCbnJUaTFaQVp5NFMwYTRyR1F4dV9YbGNyNWhaaVBaMHU1RGJ2TnppVUlXRUJHal9jZW1wQnU4cGlWbExaWUZ6M0RKdURLbEpBdExpd05VNTdwV3ppdzJpaUh6Z9IBuAFBVV95cUxQMkVwODZaRFphOEY3VDNpY1JmdHdXdnVuME5UV2xXM0NVSlhmbDY2N3pPQkN1OVp4RlNwdVJxZW5FYzhiU3ZKZEluQ05qUGtEMzhhYTNtZ0ZNS0RQYWRubm1PaWJNVnpfMHpkVWVUV0tTME42VWRRZDZBdExPazVmRXB3alkyM3IzRGExSEZFVjI1SHpELUZldzZRR0d6NEhjcTcza1V2LTNCb0N3U3pMa0hUd1ZQdEtF",
         "image": null,
         "timestamp": 1776581947.0
+    },
+    {
+        "title_fa": "بازگشت هیئت‌های آمریکایی به پاکستان و تکرار تهدید برای هدف گرفتن زیرساخت‌های ایران؛ بن‌بست در تردد تنگه هرمز",
+        "title_en": "US negotiators to return to Pakistan for talks as Trump repeats threat to Iran's infrastructure",
+        "summary": [
+            "ترامپ اعلام کرد نمایندگان آمریکا برای مذاکرات به پاکستان بازمی‌گردند، هم‌زمان تکرار کرد در صورت نرسیدن به توافق، به زیرساخت‌های ایران از جمله نیروگاه‌ها و پل‌ها حمله خواهد شد و همچنین «شلیک به شناورها در تنگه هرمز» را نقض آتش‌بس دانست.",
+            "در تنگه هرمز، با ادعای ایران درباره از سرگیری «محاصره/بلاکاد» و گزارش وب‌سایت‌های پایش دریایی، کشتی‌ها دوباره در حالت توقف قرار گرفته‌اند و فعلاً عبور و مرور مشاهده نمی‌شود؛ در پاکستان هم هم‌زمان با نزدیک شدن به دور تازه مذاکرات، تدابیر امنیتی شدید برای ورود هیئت‌های خارجی تشدید شده است.",
+            "ایران می‌گوید برای «پایش و کنترل» عبور و مرور از تنگه تا پایان قطعی جنگ و رسیدن به صلح پایدار، اطلاعات کامل از کشتی‌ها جمع‌آوری می‌کند، گواهی ترانزیت می‌دهد و برای خدماتِ امنیتی/ایمنی/محیط‌زیست هزینه می‌گیرد؛ هم‌زمان رئیس پارلمان ایران از «پیشرفت» در گفت‌وگوها با آمریکا صحبت می‌کند، اما هر دو طرف فاصله قابل‌توجهی تا توافق دارند."
+        ],
+        "impact": "تهدید مستقیم علیه نیروگاه‌ها و پل‌ها همراه با تشدید محدودیت دریایی، ریسک جهش بحران به درگیری واقعی و فشار اقتصادی-عملیاتی بر ایران را بالا می‌برد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/live/cly90l3ln30t",
+        "clean_url": "https://www.bbc.com/news/live/cly90l3ln30t",
+        "image": "http://www.bing.com/th?id=ONUT.NNf3SBu_ojCMbTg55i3AJQ&pid=News",
+        "timestamp": 1776576240.0
     },
     {
         "title_fa": "خاموشی تنگه هرمز و تشدید رویارویی با آمریکا پس از انسداد دریانوردی",
@@ -448,6 +484,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQODU2d0k0cF80Vk91eXNUbEZQdkY3UTVNNWJ1N1J1a05YaTNSSjh0OHZteUxYVmpXcFBWcXduREZfQldzY0c2UVZ5dDNUcnhtRFY4NFg1VTJhNDNIRkRvMUFOemFfVmhrSENZVHNSUmp5eEZ4bHZnR1F5VGE4dVpuTlVGdUhuVk9hQTBEWnVlRjR6UGk2emJDUG9FNVFfR1Zha01TQ2pQN1V0Z2NyVERlalYwd1pFYkJSS2VoNVBOdERPdTVsa2lZSVJDTG9mSUE",
         "image": null,
         "timestamp": 1776551308.0
+    },
+    {
+        "title_fa": "چرخش ایران درباره بازگشایی تنگه هرمز و ادعای کنترل کامل سپاه",
+        "title_en": "Iran reverses course on reopening Strait of Hormuz, signals warning to US",
+        "summary": [
+            "بنابر اعلام رژیم، تنگه هرمز اکنون تحت «کنترل کامل سپاه» است؛ این یک چرخش آشکار در موضع‌گیری درباره بازگشایی مسیر راهبردی به‌شمار می‌رود.",
+            "رژیم با این پیام، هشدار مستقیم به آمریکا را در قالب مانور بر اهرم حیاتی تنگه هرمز تنظیم کرده است؛ اهرمی که بر صادرات انرژی و زنجیره تامین جهانی اثر فوری دارد.",
+            "چون متن فقط به «ادعای کنترل کامل» و «سیگنال هشدار» اشاره می‌کند، ارتباط مشخص با اقدام عملی یا زمان‌بندی بازگشایی ارائه نشده؛ اما خودِ بازگشت به موضع سخت، ریسک تنش را بالا می‌برد."
+        ],
+        "impact": "این چرخش موضعی رژیم، ظرفیت افزایش تنش دریایی و اختلال بالقوه در امنیت کشتیرانی و عرضه نفت را تقویت می‌کند.",
+        "tag": "هرمز",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/trump-iran-us-war-strait-hormuz-blockade-israel-lebanon-april-18",
+        "clean_url": "https://www.foxnews.com/live-news/trump-iran-us-war-strait-hormuz-blockade-israel-lebanon-april-18",
+        "image": "http://www.bing.com/th?id=ONUT._4-G9XI2NK78HCjPS1WyZw&pid=News",
+        "timestamp": 1776550020.0
     },
     {
         "title_fa": "ترامپ: ایران با بستن مجدد تنگه هرمز «کمی دست به ریسک زد»، اما مذاکرات «خیلی خوب» پیش می‌رود",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://apnews.com/5af3a462138068bce49993b8d1a406e4",
         "image": null,
         "timestamp": 1776182520.0
-    },
-    {
-        "title_fa": "ادامه محاصره بنادر ایران و احتمال دور جدید گفت‌وگو ظرف دو روز آینده",
-        "title_en": "Another round of peace talks with Iran could happen soon, Trump says",
-        "summary": [
-            "ترامپ گفت دور تازه گفت‌وگوهای صلح با ایران ممکن است طی ۲ روز آینده انجام شود، اما هم‌زمان «محاصره بنادر» آمریکا در حال تشدید فشار اقتصادی است.",
-            "نیروی دریایی/فرماندهی سنتکام اعلام کرده بیش از ۱۰هزار نیروی آمریکایی در اجرای این محاصره نقش دارند؛ در ۲۴ ساعت نخست، هیچ کشتی از سد محاصره عبور نکرد و ۶ کشتی تجاری مجبور به بازگشت شدند.",
-            "هم‌زمان با این فشار علیه ایران، در واشنگتن دیدارهای سطح‌بالا میان رهبران لبنان و اسرائیل برای کاهش تنش‌ها برگزار شده، اما حزب‌الله (گروه مورد حمایت ایران) در آن حضور نداشته و گفته به هر توافق احتمالی پایبند نخواهد بود."
-        ],
-        "impact": "این ترکیبِ گفت‌وگوی قریب‌الوقوع با تشدید محاصره، اهرم فشار آمریکا را علیه اقتصاد ایران افزایش می‌دهد و می‌تواند نوسان سیاسی-اقتصادی داخلی را تشدید کند، بدون اینکه تضمینی برای تحقق توافق پایدار از سوی طرف‌های درگیر جنگ‌های منطقه‌ای وجود داشته باشد.",
-        "tag": "تحریم‌ها",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "KMBC",
-        "url": "https://www.kmbc.com/article/another-round-peace-talks-iran-trump/71018430",
-        "clean_url": "https://www.kmbc.com/article/another-round-peace-talks-iran-trump/71018430",
-        "image": "http://www.bing.com/th?id=ONUT.M49N6Qad-Ikd11Y3SQ_baQ&pid=News",
-        "timestamp": 1776181320.0
-    },
-    {
-        "title_fa": "درگیری ایران-آمریکا با سلاح‌های جدید؛ تهران و واشنگتن وارد فاز تسلیحاتی تازه شدند",
-        "title_en": "In Iran conflict, Tehran and Washington fight with new weapons",
-        "summary": [
-            "Breaking Defense اعلام می‌کند که در چارچوب «درگیری ایران و واشنگتن»، طرفین با «سلاح‌های جدید» وارد رقابت تسلیحاتی شده‌اند، یعنی برتری عملیات احتمالا به سمت قابلیت‌های تازه و پیچیده‌تر متمایل شده است.",
-            "این تیتر به‌طور مشخص بر ادامه تنش عملیاتی تکیه دارد: نه صرفا تهدید سیاسی، بلکه «در حال جنگ با ابزارهای جدید» که می‌تواند چرخه واکنش و ضدواکنش را تشدید کند.",
-            "در متن ارائه‌شده جزئیات فنی، زمان‌بندی یا نوع سلاح‌ها نیامده است؛ بنابراین ارزیابی اثرگذاری مستقیم (بر اقتصاد یا سرکوب داخلی) فقط در حد پیامد کلی افزایش فشار امنیتی قابل اتکا است."
-        ],
-        "impact": "ورود «سلاح‌های جدید» به میدان معمولاً یعنی افزایش هزینه، ریسک و فشار امنیتی-عملیاتی که می‌تواند ثبات عملیاتی حکومت را در کوتاه‌مدت تحت تنش قرار دهد.",
-        "tag": "تسلیحات",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Breaking Defense",
-        "url": "https://www.msn.com/en-us/news/world/us-and-iran-could-hold-new-peace-talks-as-soon-as-this-week-sources-say/ar-AA20RWor",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-could-hold-new-peace-talks-as-soon-as-this-week-sources-say/ar-AA20RWor",
-        "image": null,
-        "timestamp": 1776180500.0
-    },
-    {
-        "title_fa": "چرا واشنگتن و تهران بر سر مدت «تعلیق غنی‌سازی» به توافق نمی‌رسند؟",
-        "title_en": "Why are the US, Iran arguing over duration of uranium enrichment ban?",
-        "summary": [
-            "گزارش می‌گوید تیم‌های مذاکره‌کننده آمریکا و ایران در اسلام‌آباد دیدار کردند و بر سر توافق مرتبط با «مدت غنی‌سازی اورانیوم» به نتیجه نرسیدند؛ اختلاف اصلی این است که آمریکا تعلیق ۲۰‌ساله غنی‌سازی را شرط رفع تحریم می‌گذارد، اما تهران تعلیق/محدودیت بیشتر از ۵ سال را نمی‌پذیرد.",
-            "این بن‌بست هم‌زمان با مذاکرات برای تمدید/تداوم گفت‌وگوهای آتش‌بس توصیف شده، اما متن تصریح می‌کند که همین تفاوت در بندهای غنی‌سازی به مانع «جدی» در مسیر رسیدن به توافق پایان جنگ تبدیل شده است.",
-            "در پس‌زمینه مطالب، «قدرت ذخایر و توان غنی‌سازی» به‌عنوان محور خواسته دیرینه آمریکا مطرح می‌شود: واشنگتن از تهران می‌خواهد علاوه بر عدم ساخت سلاح هسته‌ای، «توان رسیدن» به آن را هم از طریق محدودیت‌های بلندمدت کاهش دهد."
-        ],
-        "impact": "اختلاف بر سر مدت تعلیق غنی‌سازی به‌طور مستقیم مانع توافق جامع‌تر و بنابراین استمرار روند آتش‌بس می‌شود، چون رفع تحریم‌ها و کنترل ظرفیت هسته‌ای به هم گره خورده است.",
-        "tag": "nuclear",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/why-us-iran-arguing-over-145224657.html",
-        "clean_url": "https://www.yahoo.com/news/articles/why-us-iran-arguing-over-145224657.html",
-        "image": null,
-        "timestamp": 1776178401.0
     }
 ]
