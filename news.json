@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "توضیح ترامپ درباره اینکه اسرائیل او را به جنگ با ایران قانع نکرد",
+        "title_en": "‘Israel never talked me into the war with Iran,’ Trump says",
+        "summary": [
+            "بر اساس گزارش Al Jazeera، ترامپ مدعی است که اسرائیل «او را به جنگ با ایران» وادار یا متقاعد نکرده است؛ یعنی نقش اسرائیل در تصمیم‌گیری آمریکا را نفی می‌کند.",
+            "این گزاره بیشتر به مدیریت روایت سیاسی واشنگتن مربوط است تا ارائه داده یا جزئیات عملیاتی درباره زمان‌بندی، کانال‌های تصمیم‌گیری یا وجود فشار واقعی؛ بنابراین اثر مستقیم امنیتی از متن قابل استخراج نیست.",
+            "از منظر راهبردی، کاهش یا تکذیب نسبت‌دادن محرک جنگ به اسرائیل می‌تواند نشانه‌ای از تلاش برای کنترل هزینه سیاسی در آمریکا باشد و در نتیجه، فضای فشار داخلی/بین‌المللی بر دولت آمریکا را تحت تأثیر قرار دهد."
+        ],
+        "impact": "این یک ادعای روایی از سوی ترامپ است و در نبود شواهد مشخص، بیشتر می‌تواند پیام سیاسی درباره شکل‌گیری تصمیم در آمریکا باشد تا تغییر فوری در موازنه تهدید علیه ایران.",
+        "tag": "روایت",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-israel-never-talked-me-into-the-war-with-iran/ar-AA21jsxI",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-israel-never-talked-me-into-the-war-with-iran/ar-AA21jsxI",
+        "image": null,
+        "timestamp": 1776698619.0
+    },
+    {
         "title_fa": "بلاتکلیفی مذاکرات صلح ایران و آمریکا همزمان با بسته‌بودن تنگه هرمز و افزایش تنش دریایی",
         "title_en": "Iran peace talks hang in the balance, as oil prices climb",
         "summary": [
@@ -124,6 +142,42 @@
         "clean_url": "https://www.msn.com/en-us/news/other/what-to-know-as-ceasefire-in-the-iran-war-hangs-in-the-balance/ar-AA21jq07",
         "image": null,
         "timestamp": 1776682728.0
+    },
+    {
+        "title_fa": "تهدیدات تازه ترامپ و رد تهران؛ شبح بازگشت جنگ در تنگه هرمز و فشار مستقیم روی بازار نفت",
+        "title_en": "Live Updates: Risk of Iran war reigniting as Trump renews threats, Tehran says no plan to attend peace talks",
+        "summary": [
+            "تهران اعلام کرده برنامه‌ای برای شرکت در گفت‌وگوهای صلح ندارد و عملاً با درخواست‌های ترامپ برای رسیدن به یک توافق خصمانه عمل می‌کند.",
+            "این بن‌بست در کنار درگیری/تنش موجود بر سر تنگه هرمز شکل گرفته و ریسک شروع دوباره جنگ را بالا برده است؛ وضعیتی که مستقیماً به قیمت‌گذاری بازارهای انرژی منتقل می‌شود.",
+            "CBS News به نگرانی بازار از جهش نوسان در نفت و انرژی اشاره می‌کند؛ یعنی ترس از تشدید نظامی، پیشاپیش هزینه اقتصادی را روی معاملات و انتظارات فعالان اقتصادی می‌اندازد."
+        ],
+        "impact": "نقطه‌ثقل اثرگذاری این رخداد، انتقال ریسک تقابل به بازار نفت است: هرچه مسیر مذاکره بسته‌تر شود و تنگه هرمز پرتنش‌تر بماند، احتمال شوک عرضه/قیمت بالاتر می‌رود.",
+        "tag": "تنگههرمز",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-touska-ship-seized-peace-talks-uncertainty/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-touska-ship-seized-peace-talks-uncertainty",
+        "image": "http://www.bing.com/th?id=ONUT.IdmWpmArxYMBRQFl3NEHyA&pid=News",
+        "timestamp": 1776675240.0
+    },
+    {
+        "title_fa": "تردید ترامپ درباره نقش اسرائیل در آغاز جنگ با ایران",
+        "title_en": "Trump Says Israel Didn’t Drag Him Into War With Iran",
+        "summary": [
+            "ترامپ در مصاحبه/اظهار رسمی اعلام کرد که اسرائیل او را «به داخل جنگ با ایران نکشاند» و این تصمیم را به فشار یا نفوذ اسرائیل نسبت نداد.",
+            "او به حمله ۷ اکتبر ۲۰۲۳ حماس به اسرائیل استناد کرد و مدعی شد همین رویداد به او نشان داده که ایران هرگز قادر به جلوگیری از چنین پیامدهایی نبوده است (طبق متن خبر).",
+            "با این روایت، محور بحث از «درگیری ناشی از بازیگری اسرائیل» به «تفسیر ترامپ از تهدید ایران بر اساس رخداد ۷ اکتبر» منتقل می‌شود و نشانه‌ای از اجماع عملی یا دستور مشترک تهران/ریاض-تل‌آویو ارائه نمی‌گردد."
+        ],
+        "impact": "این موضع بیشتر جنبه مدیریت روایت و مشروعیت‌بخشی سیاسی دارد و در نبود نشانه‌های جدید، مستقیماً به تغییر عملی سطح فشار یا مسیر نظامی منجر نمی‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Wall Street Journal",
+        "url": "https://www.wsj.com/livecoverage/iran-war-israel-us-strait-hormuz-2026/card/trump-says-israel-didn-t-drag-him-into-war-with-iran-dm5V0BcIy5q7IArBFXK1",
+        "clean_url": "https://www.wsj.com/livecoverage/iran-war-israel-us-strait-hormuz-2026/card/trump-says-israel-didn-t-drag-him-into-war-with-iran-dm5V0BcIy5q7IArBFXK1",
+        "image": null,
+        "timestamp": 1776672540.0
     },
     {
         "title_fa": "تنش تنگه هرمز دوباره شعله‌ور شد؛ سپاه به جای دیپلماسی فرمان می‌دهد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JenFYMXRxUXZhand1anVnODNCbm0zb0s1Y0tTM1dxbWF6OTNuSVJnX04waTJ5ZW1MdGprbjM1SndmeGhsdkZuTzlNT0o2TGMxZy14bWJfa0hoM293TGhGVkRoSkJxQU4ySTZ6WDN6TjRvMGViLWc",
         "image": null,
         "timestamp": 1776279860.0
-    },
-    {
-        "title_fa": "آیا ترامپ می‌تواند توافق بهتری با ایران از توافق اوباما بسازد؟",
-        "title_en": "Can Trump get a better Iran deal than Obama?",
-        "summary": [
-            "این گزارش صرفاً با طرح یک پرسش تحلیلی آغاز می‌شود و درباره امکان دستیابی ترامپ به «توافق بهتر» نسبت به توافق دوران اوباما صحبت می‌کند؛ هیچ خبر مشخصی از اقدام جدید یا نتیجه مذاکرات ارائه نشده است.",
-            "در متنِ قابل‌مشاهده، جزئیات درباره شروط پیشنهادی، زمان‌بندی، یا واکنش طرف ایرانی ذکر نشده و عملاً محتوای خبر به حد یک چارچوب بحث کاهش یافته است.",
-            "بنابراین از این منبع نمی‌توان نشانه‌های قابل راستی‌آزمایی درباره تشدید فشار خارجی، تغییرات در اقتصاد یا شکل‌گیری اعتراضات داخلی استخراج کرد."
-        ],
-        "impact": "اثر این گزارش بیشتر در سطح سناریوسازی سیاسی است و از آن نمی‌توان تغییر عینی در وضعیت فشارها یا مذاکرات را نتیجه گرفت.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmZFcm1lRkVRaS10SXhLNHdLRXhoeXRGNGVWNlBXWDlWNmlfRUttQlRVQ1otZFJXdkhIb0tpZUEteEhnYWljODdTV0pvS0lOX2tnM2hiR1lUcHJINmxmSW15Qk5pOHNnV2xoQmRDWFRFbF9oYzFTR3FLcVdMVmEwZEhn0gGCAUFVX3lxTE1IQWRYWkV1QXVoSU5sQjQtU1VicDNYa0tFNWY4YjAxWmlVWXdDNkJieTFZZ2xyY09qSDIxNUYxM09uWUFoS2p0Qm92UUZFcDRJZF9fNHdsVFV6aXJpSWRzd2xQeEgwR0FWdFgtSjgwbGJpQXdYbmVsaDdfaVBxRkE1NVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZmZFcm1lRkVRaS10SXhLNHdLRXhoeXRGNGVWNlBXWDlWNmlfRUttQlRVQ1otZFJXdkhIb0tpZUEteEhnYWljODdTV0pvS0lOX2tnM2hiR1lUcHJINmxmSW15Qk5pOHNnV2xoQmRDWFRFbF9oYzFTR3FLcVdMVmEwZEhn0gGCAUFVX3lxTE1IQWRYWkV1QXVoSU5sQjQtU1VicDNYa0tFNWY4YjAxWmlVWXdDNkJieTFZZ2xyY09qSDIxNUYxM09uWUFoS2p0Qm92UUZFcDRJZF9fNHdsVFV6aXJpSWRzd2xQeEgwR0FWdFgtSjgwbGJpQXdYbmVsaDdfaVBxRkE1NVE",
-        "image": null,
-        "timestamp": 1776275325.0
-    },
-    {
-        "title_fa": "رد شدن تمدید آتش‌بس ایران؛ رفت‌وآمد میانجی‌های پاکستانی در تهران و تمرکز استرالیا بر سوخت",
-        "title_en": "Iran war live updates: Australia secures additional diesel shipments as Trump rules out extending ceasefire",
-        "summary": [
-            "رئیس‌جمهور ترامپ اعلام کرده تمدید آتش‌بس دو هفته‌ای با ایران را در نظر ندارد و ترجیح را «توافق بلندمدت» می‌داند؛ هم‌زمان رسانه دولتی ایران می‌گوید مشاور نظامیِ دفتر رهبر، محمدرضا/موجتبا خامنه‌ای، با ادامه آتش‌بس فعلی مخالف است.",
-            "طبق گزارش، شماری از میانجی‌های ارشد پاکستانی برای گفت‌وگو در تهران حضور یافته‌اند تا راهی برای یک چارچوب صلح بلندمدت بین آمریکا و ایران پیدا کنند؛ در کنار این، نتانیاهو گفته عملیات ارتش اسرائیل برای ضربه به حزب‌الله در لبنان ادامه خواهد داشت.",
-            "در جبهه غیرنظامی، دولت استرالیا اعلام کرده ۱۰۰ میلیون لیتر سوخت دیزل اضافی از برونئی و کره‌جنوبی تأمین کرده و هم‌زمان مقامات استرالیا همراه با چند کشور دیگر خواستار دستیابی به توافق صلح و بازگشایی مسیر دریایی تنگه هرمز شده‌اند."
-        ],
-        "impact": "با نزدیک شدن به پایان آتش‌بس بدون نشانه تمدید و هم‌زمان تشدید عملیات اسرائیل در لبنان، احتمال ازسرگیری تنش‌های مستقیم بین ایران و بازیگران درگیر افزایش می‌یابد، در حالی‌که کشورها برای شوک‌های احتمالی در زنجیره انرژی آماده‌سازی می‌کنند.",
-        "tag": "آتش‌بس",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ABC (Australian Broadcasting Corporation)",
-        "url": "https://www.abc.net.au/news/2026-04-16/iran-war-live-updates-ceasefire-extension-lebanon-israel/106569698",
-        "clean_url": "https://www.abc.net.au/news/2026-04-16/iran-war-live-updates-ceasefire-extension-lebanon-israel/106569698",
-        "image": "https://live-production.wcms.abc-cdn.net.au/ef3e5ae9e191ba16f7f3ded39a5baa39?impolicy=wcms_watermark_news&cropH=1152&cropW=2048&xPos=0&yPos=107&width=862&height=485&imformat=generic",
-        "timestamp": 1776272220.0
-    },
-    {
-        "title_fa": "ورود هیئت پاکستانی به تهران برای کاهش تنش‌ها و زمینه‌سازی گفت‌وگوهای بیشتر آمریکا و ایران",
-        "title_en": "Pakistani delegation arrives in Tehran in move to ease tensions and arrange more US-Iran talks",
-        "summary": [
-            "یک هیئت از پاکستان وارد تهران شده است تا تنش‌ها را کاهش دهد و کانال‌های لازم برای گفت‌وگوهای بیشتر میان آمریکا و ایران را فراهم کند.",
-            "این اقدام بیشتر از جنس مدیریت بحران و دیپلماسی میانجی‌گرانه است تا حل ریشه‌ای اختلافات؛ یعنی هدف، کاهش اصطکاک در کوتاه‌مدت است.",
-            "از منظر فشار خارجی، در صورت شکل‌گیری مسیر مذاکره، می‌تواند موقتاً هزینه‌های سیاسی و امنیتی برای رژیم را کمتر کند؛ اما هیچ نشانه‌ای در خبر درباره تغییر جدی در سیاست‌های ساختاری یا لغو فشارها ارائه نشده است."
-        ],
-        "impact": "این خبر نشان می‌دهد کانال‌های دیپلماتیک در حال فعال شدن‌اند، اما بدون داده درباره نتایج مشخص، اثر آن بیشتر به‌صورت مدیریت کوتاه‌مدت تنش خواهد بود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGlCSS1Qc0dEUERaRXhrVkNOSVBIaGhwQ0dMSlo3bkxHSXNVTXo0S3dONG1HMG5FMm9sZFZYOVZZWU9HOHFsX3lwM1R2VmxKeVo5TnBQNGY2S1RoVVdVUmk4dkpWaURlZkotRVdlUlpLMUxkSnlUNTlGOHd6VElJLWJ0U0xObTdPVFQ5WnUyS2VuQXZ5NXY4ZUxFeVFRREVlVGFhX2s0ZE53ZTk0ekRDQVl1QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRGlCSS1Qc0dEUERaRXhrVkNOSVBIaGhwQ0dMSlo3bkxHSXNVTXo0S3dONG1HMG5FMm9sZFZYOVZZWU9HOHFsX3lwM1R2VmxKeVo5TnBQNGY2S1RoVVdVUmk4dkpWaURlZkotRVdlUlpLMUxkSnlUNTlGOHd6VElJLWJ0U0xObTdPVFQ5WnUyS2VuQXZ5NXY4ZUxFeVFRREVlVGFhX2s0ZE53ZTk0ekRDQVl1QQ",
-        "image": null,
-        "timestamp": 1776271920.0
     }
 ]
