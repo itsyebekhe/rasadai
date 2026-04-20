@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "واکنش ایران به گزارش‌های مربوط به هدف قرار گرفتن کشتی‌های هندی و ادامه بررسی‌ها",
+        "title_en": "Iran War Live Updates: Iran President calls out US' behaviour, says historical mistrust remains",
+        "summary": [
+            "سخنگوی وزارت خارجه، اسماعیل بقایی اعلام کرد نهادهای ذی‌ربط در حال بررسی گزارش‌ها درباره احتمال هدف قرار گرفتن کشتی‌های هندی توسط نیروهای مسلح ایران هستند و موضوع در دست ارزیابی است.",
+            "هم‌زمان، «به رفتار آمریکا» انتقاد شده و تأکید گردیده که بی‌اعتمادی تاریخی نسبت به آمریکا همچنان پابرجاست؛ اما جزئیات عملی یا اقدام مشخص از سوی ایران در متن نیامده است.",
+            "این پرونده به‌صورت علنی در چارچوب «گزارش‌ها و بررسی» مطرح شده و سطح اطمینان یا نتیجه نهایی تحقیق‌ها هنوز مشخص نیست."
+        ],
+        "impact": "تا روشن شدن نتیجه بررسی‌ها، ریسک تنش دریایی و افزایش حساسیت متقابل با طرف‌های ثالث (مثل هند و مسیرهای کشتیرانی مرتبط) باقی می‌ماند.",
+        "tag": "تنش‌دریایی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/newsblogs/us-israel-iran-war-live-updates-ceasefire-talks-donald-trump-khamenei-strait-of-hormuz-iranian-ship-news/liveblog/130380219.cms",
+        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/us-israel-iran-war-live-updates-ceasefire-talks-donald-trump-khamenei-strait-of-hormuz-iranian-ship-news/liveblog/130380219.cms",
+        "image": "https://economictimes.indiatimes.com/thumb/msid-130380219,width-1200,height-900,resizemode-4,imglength-82506/news/newsblogs/us-israel-iran-war-live-updates-ceasefire-talks-donald-trump-khamenei-strait-of-hormuz-iranian-ship-news.jpg",
+        "timestamp": 1776713940.0
+    },
+    {
         "title_fa": "مجموعه: ایران، اسرائیل و ایالات متحده در جنگ (عملیات ۲۰۲۵–۲۰۲۶) — Just Security",
         "title_en": "Collection: Iran, Israel and the United States at War (2025-2026 Operations)",
         "summary": [
@@ -54,6 +72,24 @@
         "timestamp": 1776705300.0
     },
     {
+        "title_fa": "ایران از شرکت در گفت‌وگوهای تمدید آتش‌بس با آمریکا در پاکستان طفره می‌رود؛ هیئت ونس در مسیر اعلام شده است",
+        "title_en": "Iran says not attending talks, Vance-led US delegation 'en route' to Pakistan",
+        "summary": [
+            "ایران اعلام کرده است در نشست‌های مربوط به تمدید آتش‌بس با آمریکا که قرار است در پاکستان برگزار شود شرکت نخواهد کرد و دلیل را «باقی ماندن مسائل دشوار» عنوان کرده است.",
+            "هم‌زمان، گزارش می‌گوید هیئت آمریکایی با رهبری ونس در مسیر پاکستان است؛ یعنی واشینگتن برای پیشبرد روند گفت‌وگوها حرکت کرده اما تهران عملاً حضور را رد کرده است.",
+            "این تصمیم نشان می‌دهد گره اصلی همچنان سیاسی/اجرایی است و تا وقتی اختلافات حل نشود، آتش‌بس به‌صورت مستقیم با وقفه و ابهام روبه‌رو می‌شود."
+        ],
+        "impact": "عدم حضور ایران، روند تمدید آتش‌بس را در کوتاه‌مدت کند یا متوقف می‌کند و ریسک تشدید تنش و بدتر شدن حساب‌وکتاب میدانی را بالا می‌برد.",
+        "tag": "آتش‌بس",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New Arab",
+        "url": "https://www.newarab.com/news/iran-says-not-attending-talks-us-team-en-route-pakistan",
+        "clean_url": "https://www.newarab.com/news/iran-says-not-attending-talks-us-team-en-route-pakistan",
+        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2271675729.jpeg?itok=_H6DL4pd",
+        "timestamp": 1776698700.0
+    },
+    {
         "title_fa": "توضیح ترامپ درباره اینکه اسرائیل او را به جنگ با ایران قانع نکرد",
         "title_en": "‘Israel never talked me into the war with Iran,’ Trump says",
         "summary": [
@@ -72,6 +108,24 @@
         "timestamp": 1776698619.0
     },
     {
+        "title_fa": "آمادگی واشینگتن برای گفت‌وگوهای جدید اسرائیل و لبنان؛ خط مقدم مدیریت تنش با ایران",
+        "title_en": "US Iran war live: US to host new talks between Israel, Lebanon on Thursday, says official",
+        "summary": [
+            "به گفته یک مقام، آمریکا پنجشنبه میزبان گفت‌وگوهای جدید میان اسرائیل و لبنان خواهد شد؛ یعنی محور اصلی، مدیریت مستقیم تنش در جبهه لبنان است.",
+            "این خبر به‌تنهایی «جنگ فوری» یا اقدام نظامی مشخص علیه ایران را اثبات نمی‌کند، اما نشان می‌دهد آمریکا در حال طراحی کانال‌های کنترل بحران در مرزهای همسو با ایران است.",
+            "چون متن فقط به گفت‌وگو اشاره دارد، اثر مستقیم اقتصادی/تحریمی یا واکنش داخلی ایران در گزارش قابل استناد نیست و نباید به آن تعمیم داده شود."
+        ],
+        "impact": "این اقدام بیشتر در چارچوب کنترل و کاهش ریسک گسترش درگیری در لبنان معنا دارد، نه یک نشانه قطعی از تشدید مستقیم روی ایران.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/us-iran-peace-talks-islamabad-munir-sharif-trump-jd-vance-white-house-strait-of-hormuz-liveblog-13893561.html",
+        "clean_url": "https://www.moneycontrol.com/world/us-iran-peace-talks-islamabad-munir-sharif-trump-jd-vance-white-house-strait-of-hormuz-liveblog-13893561.html",
+        "image": "http://www.bing.com/th?id=ONUT.0MYhQsP6XZqkUB7M6-QjEQ&pid=News",
+        "timestamp": 1776694620.0
+    },
+    {
         "title_fa": "بلاتکلیفی مذاکرات صلح ایران و آمریکا همزمان با بسته‌بودن تنگه هرمز و افزایش تنش دریایی",
         "title_en": "Iran peace talks hang in the balance, as oil prices climb",
         "summary": [
@@ -88,6 +142,24 @@
         "clean_url": "https://www.cnn.com/2026/04/20/world/live-news/iran-war-us-trump-israel",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/9621605-20260417181039913.jpg?c=16x9&q=w_800,c_fill",
         "timestamp": 1776694200.0
+    },
+    {
+        "title_fa": "تهران و ترامپ پیام‌های متقابل؛ آمریکا تیم را برای گفت‌وگو فعال می‌کند",
+        "title_en": "Iran War Live Updates: Tehran and Trump Send Signals Ahead of Potential Talks",
+        "summary": [
+            "طبق گزارش، JD Vance قرار است نمایندگی آمریکا را برای دوری احتمالی از تنش و پیگیری «معامله صلح» به پاکستان ببرد و ترامپ روی این کانال فشار می‌گذارد.",
+            "در سطح غیرعلنی، مقام‌های ایرانی اعلام کرده‌اند که اگر Vance حضور داشته باشد، تیم اعزام می‌کنند؛ یعنی تهران از آدرس‌دهی مشخص به سطح نمایندگی آمریکا استفاده می‌کند تا زمان و قالب مذاکرات را مدیریت کند.",
+            "این خبر «سیگنال‌سازی» پیش از هر گفت‌وگوی عملی است و هنوز به محتوای توافق یا شروط طرفین (لغو تحریم، محدودیت‌های نظامی، یا سازوکار نظارت) چیزی مشخص ارائه نشده است."
+        ],
+        "impact": "افزایش احتمال گفت‌وگوهای سطحی می‌تواند تنش را موقتاً کنترل کند، اما بدون اطلاعات درباره شروط، بیشتر به مدیریت ریسک سیاسی-امنیتی شبیه است تا تغییر واقعی در توازن فشارها.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz/facing-hard-liners-at-home-and-bluster-from-trump-iran-sends-mixed-signals-on-peace-talks",
+        "clean_url": "https://www.nytimes.com/live/2026/04/20/world/iran-us-war-trump-hormuz/facing-hard-liners-at-home-and-bluster-from-trump-iran-sends-mixed-signals-on-peace-talks",
+        "image": "http://www.bing.com/th?id=ONUT.hSsxqon2MQ3hDGpBg05nwA&pid=News",
+        "timestamp": 1776693900.0
     },
     {
         "title_fa": "سایه جنگ روی مذاکرات آمریکا و ایران؛ پاکستان، توقف نفتکش و اختلاف بر سر خطوط قرمز",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-iran-talks-blockade-hormuz-crisis-attacks-liveblog-liveblog-14000969.html",
         "image": "http://www.bing.com/th?id=ONUT.AuMevP8STeacI4PL3P11CQ&pid=News",
         "timestamp": 1776302040.0
-    },
-    {
-        "title_fa": "آتش‌بس شکننده با ایران؛ همزمانی فشار دریایی آمریکا و پیشروی زمینی اسرائیل بر مرز لبنان",
-        "title_en": "A Fragile Ceasefire with Iran and the Price of Ending the War",
-        "summary": [
-            "پس از شکست در دور اول مذاکرات در اسلام‌آباد، آمریکا و ایران قرار است در روزهای آینده از طریق میانجی‌گری پاکستان از سر بگیرند؛ گزارش‌ها از پیشرفت در چارچوب می‌گویند، اما شکاف‌های جدی باقی است و دستیابی به توافق قطعی نیست. در همین فاصله، ترامپ برای بنادر ایران «محاصره/بلوکه» اعمال کرده است و در کنار آن اسرائیل به پیشروی عملیات در محدوده مرز لبنان—شهر بْنت‌جبیل—ادامه می‌دهد، حتی همزمان با لبنان در واشینگتن گفت‌وگو مستقیم دارد.",
-            "آتش‌بس دو هفته‌ای با ایران در حال اجراست، اما «تردیدآمیز» توصیف می‌شود؛ شرط کلیدی برای موفقیت این نوع توافق، مشخص‌بودن دقیق توقف درگیری‌ها (تاریخ‌ها، مدت، جابه‌جایی/بازگشت نیروها، عقب‌نشینی و سازوکارهای نظارت) است، در حالی که آنچه تاکنون مذاکره شده از نظر سرعت و شتاب در پرداختن به مسائل اصلی، کافی نیست.",
-            "نویسنده هشدار می‌دهد که ترامپ ممکن است دنبال آتش‌بس باشد، اما اسرائیل و حتی حزب‌الله می‌توانند تمایل به «خرابکاری» داشته باشند؛ همچنین توصیه می‌شود بنیامین نتانیاهو با جزئیات آتش‌بس و اهداف منطقه‌ای هماهنگ‌تر شود و مسیر مذاکره از تمرکز بر فرستاده‌های خاص استیو ویتکاف و جرد کوشنر به سمت مذاکره‌گران باتجربه‌تر وزارت خارجه با پشتوانه کارشناسان اطلاعاتی و هسته‌ای تغییر کند."
-        ],
-        "impact": "ادامه فشار دریایی و همزمانی آن با عملیات نظامی در مرز لبنان، احتمال شکنندگی و فروپاشی سریع آتش‌بس ایران را بالا نگه می‌دارد، حتی اگر کانال مذاکره باز بماند.",
-        "tag": "ceasefire",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "War on the Rocks",
-        "url": "https://warontherocks.com/a-fragile-ceasefire-with-iran-and-the-price-of-ending-the-war/",
-        "clean_url": "https://warontherocks.com/a-fragile-ceasefire-with-iran-and-the-price-of-ending-the-war",
-        "image": "http://www.bing.com/th?id=ONUT.80R0YINKPrDgxo0LjBb-5w&pid=News",
-        "timestamp": 1776302040.0
-    },
-    {
-        "title_fa": "مبارزه سخت ایران تازه آغاز شده؛ محاصره آمریکا می‌تواند پایه اقتصادی کنترل سیاسی رژیم را فرسایش دهد",
-        "title_en": "Iran’s Toughest Battle Has Only Just Begun",
-        "summary": [
-            "خبر به‌طور مستقیم درباره احتمال یک «محاصره/بلوکاد آمریکا» سخن می‌گوید که قرار است آسیب جدی به پایه اقتصادی رژیم وارد کند.",
-            "یک کارشناس هشدار داده که این اقدام می‌تواند «هزینه کنترل سیاسی» را بالا ببرد؛ یعنی حفظ نظم داخلی و بقای سیاسی به منابع بیشتر و فشار بالاتر نیاز پیدا می‌کند.",
-            "جمع‌بندی گزارش این است که فشار اقتصادی نه‌فقط اثر کوتاه‌مدت دارد، بلکه می‌تواند توان رژیم برای مدیریت هزینه‌های حکمرانی و مهار نارضایتی‌ها را کاهش دهد."
-        ],
-        "impact": "اگر محاصره اجرا شود، تضعیف پایه اقتصادی به افزایش هزینه‌های سرکوب/کنترل سیاسی تبدیل می‌شود و شکنندگی رژیم را بیشتر می‌کند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.55,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/irans-toughest-battle-has-only-just-begun-11835603",
-        "clean_url": "https://www.newsweek.com/irans-toughest-battle-has-only-just-begun-11835603",
-        "image": "http://www.bing.com/th?id=ONUT.ISgOcoMZpp4Ca9b41fCxdQ&pid=News",
-        "timestamp": 1776301200.0
-    },
-    {
-        "title_fa": "آمادگی دولت ترامپ برای چرخش به جنگ اقتصادی علیه ایران",
-        "title_en": "Trump administration prepares for pivot to economic warfare on Iran",
-        "summary": [
-            "بر اساس گزارش PBS، دولت ترامپ در حال آماده‌سازی برای تغییر رویکرد به سمت «جنگ اقتصادی» علیه ایران است؛ یعنی فشار مستقیم از مسیر ابزارهای مالی/تحریمی به جای تمرکز صرف بر پیام‌های سیاسی.",
-            "این چرخش در چارچوب فشار خارجی می‌تواند به تضعیف ساختاری توان برنامه‌ریزی اقتصادی رژیم منجر شود، چون هزینه‌های نقل‌وانتقال مالی، دسترسی به منابع و اطمینان بازار برای کسب‌وکارهای داخلی کاهش می‌یابد—اما متن به جزئیات ابزارها و زمان‌بندی اشاره نمی‌کند.",
-            "در سطح داخلی، چنین تصمیمی معمولاً با تشدید نوسانات اقتصادی و فشار بر بودجه و معیشت همراه می‌شود و زمینه نارضایتی عمومی را بالا می‌برد؛ با این حال، گزارش حاضر هیچ آمار مشخص از اثرات داخلی یا موج اعتراضی تأییدشده ارائه نمی‌دهد."
-        ],
-        "impact": "حرکت به سمت جنگ اقتصادی می‌تواند ظرفیت رژیم برای مدیریت اقتصاد و تامین مالی را محدود کند، ولی چون جزئیات اقدام مشخص نشده، شدت اثر نیازمند داده‌های بعدی است.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUZiWUN3NGpNT0FZQVdNWHdxcEhSMk1jZ1F0VnpZZzAxb1ZFcU9oZEhaVFNOcTYyT2RXcVkwSF9iX3I3bXdqRTItTXB3TllhcGZIcklWaWpwUG1VejRJUjM0M0VtN29paTZmVlNRRFZYX0Y2MTN2Nk50WUVfV0d0aXdiXzh4Q3g2aExzZ2RfanZLYVM2akFkOVh3VnlmN2ZVZXB6SdIBqgFBVV95cUxOMnRLV05xTENiTlNtQU1rc1VTTE9Ganl5YTlod1NYY0w1dE5sX3R6M1N1dFk2V1Mya0VkMi1SaXowd2RoN2cwM204SkNTTU01Rmo0QVBjODk0dnNzak9MRVIyYkUwWGxKLUh0OElIcTZWNlJjcHVxNVdEWVlZSWJzQmVvd2JwbUdiU3VIVC1Ca2F5bUkzbnZGTGRINFV0UEVCSE5RMVBtbmc5UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUZiWUN3NGpNT0FZQVdNWHdxcEhSMk1jZ1F0VnpZZzAxb1ZFcU9oZEhaVFNOcTYyT2RXcVkwSF9iX3I3bXdqRTItTXB3TllhcGZIcklWaWpwUG1VejRJUjM0M0VtN29paTZmVlNRRFZYX0Y2MTN2Nk50WUVfV0d0aXdiXzh4Q3g2aExzZ2RfanZLYVM2akFkOVh3VnlmN2ZVZXB6SdIBqgFBVV95cUxOMnRLV05xTENiTlNtQU1rc1VTTE9Ganl5YTlod1NYY0w1dE5sX3R6M1N1dFk2V1Mya0VkMi1SaXowd2RoN2cwM204SkNTTU01Rmo0QVBjODk0dnNzak9MRVIyYkUwWGxKLUh0OElIcTZWNlJjcHVxNVdEWVlZSWJzQmVvd2JwbUdiU3VIVC1Ca2F5bUkzbnZGTGRINFV0UEVCSE5RMVBtbmc5UQ",
-        "image": null,
-        "timestamp": 1776296503.0
-    },
-    {
-        "title_fa": "گفت‌وگوی غیرمستقیم آمریکا و ایران برای تمدید آتش‌بس دو هفته‌ای با نقش پررنگ پاکستان",
-        "title_en": "US and Iran in indirect talks to extend two-week ceasefire",
-        "summary": [
-            "آمریکا و ایران به‌صورت غیرمستقیم در تلاش‌اند آتش‌بس دو هفته‌ای را که تا 22 آوریل اعتبار دارد تمدید کنند؛ سخنگوی کاخ سفید اعلام کرد درخواست «رسمی» برای تمدید مطرح نشده اما مذاکره همچنان فعال است و دور دوم احتمالاً در اسلام‌آباد برگزار می‌شود.",
-            "روند میانجی‌گری با سفر فرمانده ارتش پاکستان، اسیم منیر، به تهران ادامه دارد و همراهی‌هایی در سطح وزیر کشور و همچنین سفر نخست‌وزیر پاکستان به عربستان، قطر و ترکیه برای جلب حمایت منطقه‌ای مطرح شده است؛ هم‌زمان مقام‌های منطقه‌ای خبر می‌دهند هر دو طرف به تمدید تمایل دارند.",
-            "از سوی ایران، شرط برای ازسرگیری مذاکرات جدید مطرح شده: پایان حملات اسرائیل به لبنان؛ هم‌زمان نتانیاهو گفته عملیات ارتش اسرائیل علیه حزب‌الله در بخش‌هایی مانند بنت جبیل ادامه دارد و تعهد روشنی به آتش‌بس نداده است."
-        ],
-        "impact": "ادامه بن‌بست روی مسئله لبنان می‌تواند مانع تمدید پایدار آتش‌بس شود، حتی اگر آمریکا و ایران روی جدول زمانی مذاکره توافق داشته باشند.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/apr/15/us-iran-indirect-talks-middle-east-war-ceasefire",
-        "clean_url": "https://www.theguardian.com/world/2026/apr/15/us-iran-indirect-talks-middle-east-war-ceasefire",
-        "image": null,
-        "timestamp": 1776293820.0
     }
 ]
