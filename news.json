@@ -702,6 +702,24 @@
         "timestamp": 1776758292.0
     },
     {
+        "title_fa": "تداوم آتش‌بس از سوی آمریکا در انتظار پیشنهاد ایران؛ همزمان افزایش اختیارات فرماندهان میدانی در عراق",
+        "title_en": "Live updates: Trump says US is extending ceasefire while awaiting proposal from Iran",
+        "summary": [
+            "طبق گزارش، ترامپ می‌گوید آمریکا آتش‌بس را تمدید می‌کند و منتظر دریافت یک پیشنهاد از ایران است؛ یعنی گره اصلی مذاکرات اکنون به «ارائه پیشنهاد» از طرف ایران وابسته شده است.",
+            "هم‌زمان، به روایت متن منتشرشده، ایران تحت فشارهای جنگ، اختیارات بیشتری به فرماندهان میدانی خود بر نیروهای شبه‌نظامی در عراق داده است؛ نشانه‌ای از بازطراحی کنترل میدانی در شرایط عملیاتی.",
+            "این ترکیبِ «تمدید آتش‌بس» از سوی آمریکا با «تمرکز قدرت عملیاتی در عراق» نشان می‌دهد که توقف یا کاهش تنش در سطح سیاسی ممکن است هم‌زمان با تقویت سازوکار نفوذ و مدیریت میدانی ادامه پیدا کند."
+        ],
+        "impact": "تمدید آتش‌بس بدون روشن شدن پیشنهاد ایران، اهرم فشار سیاسی را برای آمریکا حفظ می‌کند، درحالی‌که افزایش اختیارات فرماندهان میدانی در عراق، توان اثرگذاری رژیم در میدان را تقویت می‌کند.",
+        "tag": "آتش‌بس",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-21-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-21-2026",
+        "image": "http://www.bing.com/th?id=ONUT.ZhKttCboMabbhgbdeRnFVA&pid=News",
+        "timestamp": 1776757560.0
+    },
+    {
         "title_fa": "تلاطم جنگ ایران و اثر آن بر قیمت نفت؛ ریسک تنگه هرمز محور جهش‌ها",
         "title_en": "A timeline of how the Iran war shook oil prices — and what comes next",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-lebanon-ceasefire-hezbollah-strait-hormuz",
         "image": "http://www.bing.com/th?id=ONUT.RRDKG1PCaOczkwcmD2xX0g&pid=News",
         "timestamp": 1776403860.0
-    },
-    {
-        "title_fa": "افشای کابل‌های دیپلماتیک: جنگ ایران برای آمریکا چندجانبه هزینه‌زا شده است",
-        "title_en": "Diplomatic cables show Iran war is damaging US on multiple fronts across the world",
-        "summary": [
-            "کابل‌های دیپلماتیک منتشرشده نشان می‌دهد در چند کشور از جمله بحرین، اندونزی و جمهوری آذربایجان، آمریکا در رقابت پیام‌رسانی با جریان‌های همسو با ایران عقب می‌ماند.",
-            "طبق متن گزارش، اثر جنگ ایران نه فقط در محیط منطقه‌ای، بلکه در عرصه‌های رسانه‌ای/دیپلماتیک در نقاط مختلف قابل مشاهده است و آمریکا برای هم‌رسیدن به روایت‌های طرفدار ایران دچار فرسایش می‌شود.",
-            "این وضعیت به‌عنوان «فوت‌وفن» دیپلماسی آمریکا توصیف شده که تلاش می‌کند با پیام‌های پروایران هم‌تراز شود، اما در چند جبهه همزمان به نتیجه فوری نمی‌رسد."
-        ],
-        "impact": "این روند یعنی جنگ ایران به‌صورت غیرنظامی اما چندمحور باعث افزایش هزینه دیپلماسی آمریکا و کاهش توان رقابت در روایت‌سازی در چند کشور کلیدی شده است.",
-        "tag": "کابل‌های‌دیپلماتیک",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/04/17/embassy-cables-detail-how-iran-war-is-hurting-the-us-abroad-00877205",
-        "clean_url": "https://www.politico.com/news/2026/04/17/embassy-cables-detail-how-iran-war-is-hurting-the-us-abroad-00877205",
-        "image": "http://www.bing.com/th?id=ONUT.nXxhCsPRhNfyElF7YnqAXQ&pid=News",
-        "timestamp": 1776401820.0
     }
 ]
