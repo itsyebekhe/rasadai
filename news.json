@@ -198,6 +198,24 @@
         "timestamp": 1776787551.0
     },
     {
+        "title_fa": "گسترش آتش‌بس توسط ترامپ تا زمان ارائه پیشنهاد ایران",
+        "title_en": "Trump extends ceasefire until Iran can submit pivotal proposal: Live updates",
+        "summary": [
+            "طبق تیتر، ترامپ آتش‌بس را تا زمانی تمدید کرده که ایران «پیشنهاد کلیدی» را ارائه کند؛ یعنی زمان‌بندی سیاسی نقش مستقیم در تداوم وضعیت میدانی دارد.",
+            "این گزارش به‌صورت «لایو آپدیت» تنظیم شده، اما متن ارائه‌شده عملاً داده محتوایی (جزئیات پیشنهاد/شرایط آتش‌بس/خط قرمزها) ارائه نمی‌دهد و فقط به چارچوب تمدید اشاره می‌کند.",
+            "محتوای در دسترس از azcentral.com در اینجا بیشتر مربوط به پیام فنی سایت (عدم پشتیبانی مرورگر) است و اطلاعات قابل راستی‌آزمایی درباره اثرات اقتصادی یا تحرکات داخلی منتشر نمی‌کند."
+        ],
+        "impact": "تمدید آتش‌بس تا ارائه پیشنهاد، فشار زمانی و اهرم سیاسی می‌سازد، اما چون جزئیات منتشر نشده، اثر واقعی آن بر سیاست ایران و ثبات تصمیم‌گیری رژیم قابل ارزیابی دقیق نیست.",
+        "tag": "آتش‌بس",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "azcentral.com",
+        "url": "https://www.azcentral.com/story/news/world/2026/04/21/iran-war-peace-talks-trump-vance-updates--live/89710260007/",
+        "clean_url": "https://www.azcentral.com/story/news/world/2026/04/21/iran-war-peace-talks-trump-vance-updates--live/89710260007",
+        "image": "http://www.bing.com/th?id=ONUT.3Ufw_9kbvEn813jPIQe12Q&pid=News",
+        "timestamp": 1776786120.0
+    },
+    {
         "title_fa": "هزینه جنگ آمریکا–اسرائیل–ایران برای دولت‌های حاشیه خلیج فارس",
         "title_en": "How the US–Israel–Iran War Costs the Gulf States",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.aljazeera.com/opinions/2026/4/17/the-iran-war-has-exposed-the-limits-of-neutrality",
         "image": "http://www.bing.com/th?id=ONUT.qbGR-PGM87rlEw2LskOHKQ&pid=News",
         "timestamp": 1776404400.0
-    },
-    {
-        "title_fa": "آتش‌بس اسرائیل-لبنان برقرار می‌ماند؛ ترامپ از گسترش توافق پایان جنگ ایران امید تازه می‌گیرد",
-        "title_en": "Live Updates: Tense Israel-Lebanon ceasefire holds in potential boost for Iran war peace deal prospects",
-        "summary": [
-            "خبر فوری CBS News می‌گوید آتش‌بس اسرائیل-لبنان «تنش‌دار» در حال اجراست و نشانه‌هایی از پایبندی دیده می‌شود.",
-            "همزمان، ترامپ «خوش‌بینی دوباره» درباره رسیدن به یک توافق گسترده‌تر برای پایان جنگ علیه ایران مطرح کرده است؛ پیوند این امید به شرایط منطقه‌ای در گزارش پررنگ است.",
-            "همچنین اعلام شده که حزب‌الله گفته می‌تواند از آتش‌بس اسرائیل-لبنان پیروی کند؛ این موضوع به‌عنوان عامل بالقوه برای کاهش اصطکاک‌های منطقه‌ای و گشایش مسیر «پیشرفت توافق» توصیف شده است."
-        ],
-        "impact": "کاهش تنش مستقیم اسرائیل-لبنان اگر پایدار بماند، احتمال توافق‌های گسترده‌تر درباره توقف درگیری‌های مرتبط با جنگ ایران را در کوتاه‌مدت تقویت می‌کند، اما این به معنی حل ریشه‌ای ظرفیت‌های تنش‌زای تهران نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-lebanon-ceasefire-hezbollah-strait-hormuz/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-lebanon-ceasefire-hezbollah-strait-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.RRDKG1PCaOczkwcmD2xX0g&pid=News",
-        "timestamp": 1776403860.0
     }
 ]
