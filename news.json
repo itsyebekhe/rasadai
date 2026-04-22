@@ -198,6 +198,24 @@
         "timestamp": 1776871750.0
     },
     {
+        "title_fa": "اظهارات کاخ سفید درباره اقدام نیروی دریایی ایران در تنگه هرمز و توقیف دو شناور",
+        "title_en": "White House Says Iran’s Navy ‘Obliterated’ as Tehran Seizes Two Ships",
+        "summary": [
+            "لیویت در گفت‌وگو با فاکس‌نیوز، توقیف دو قایق توسط تهران در تنگه هرمز را «دزدی دریایی» خواند و آن را به‌عنوان اقدام غیرقانونی چارچوب‌بندی کرد.",
+            "هم‌زمان، روایت «نیروی دریایی ایران» در این خبر به‌صورت تقابلی علیه تهران تنظیم شده و هدف آن مشروعیت‌زدایی از رفتار دریایی ایران در منطقه است.",
+            "این رویداد مستقیماً به فضای رویارویی دریایی در تنگه هرمز گره خورده و می‌تواند فشار سیاسی-امنیتی بر رژیم را افزایش دهد، بدون اینکه در متن به جزئیات بیشتر درباره تبعات یا واکنش رسمی مشخص اشاره شده باشد."
+        ],
+        "impact": "توقیف دو شناور در تنگه هرمز، با برچسب‌زنی «دزدی دریایی» توسط کاخ سفید، ریسک تشدید تنش دریایی و تشدید اجماع ضدایرانی را بالا می‌برد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/white-house-irans-navy-obliterated-tehran-seizes-two-ships-11865687",
+        "clean_url": "https://www.newsweek.com/white-house-irans-navy-obliterated-tehran-seizes-two-ships-11865687",
+        "image": "http://www.bing.com/th?id=ONUT.tm_MDdBOqwDenD5OTAdZMA&pid=News",
+        "timestamp": 1776867060.0
+    },
+    {
         "title_fa": "سپاه: توقیف دو کشتی در تنگه هرمز؛ نفت‌کش سوم «از کار افتاده» پس از تمدید آتش‌بس آمریکا",
         "title_en": "Iran war: Revolutionary Guard says seizes ships in Hormuz",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/iran-war-happening-day-49-062326522.html",
         "image": null,
         "timestamp": 1776475527.0
-    },
-    {
-        "title_fa": "ادامه مذاکرات آمریکا-ایران در کنار استمرار محاصره بنادر و اختلاف فوری درباره وضعیت تنگه هرمز",
-        "title_en": "Trump says U.S. has 'good news' on Iran, talks to continue over weekend",
-        "summary": [
-            "ترامپ اعلام کرد «خبر خوب» درباره پیشرفت مذاکرات می‌گوید و تأکید کرد گفت‌وگوها در تعطیلات آخر هفته ادامه خواهد داشت، در حالی که یک آتش‌بس شکننده برقرار است.",
-            "هم‌زمان، رسانه‌های دولتی ایران گزارش دادند تنگه هرمز بار دیگر به روی کشتیرانی بسته شده؛ روایت ایران این است که آمریکا تعهداتش را انجام نداده، پس کانال حیاتی دوباره محدود شده است.",
-            "ترامپ تصریح کرد محاصره بنادر ایران برقرار می‌ماند و احتمال تمدید آتش‌بس دو هفته‌ای را کم دانست؛ او حتی هشدار داد اگر تمدید نشود، «ناچار» بمباران‌ها از سر گرفته می‌شوند. یکی از گره‌های اصلی مذاکرات هم بازیابی مواد برنامه هسته‌ای ایران است."
-        ],
-        "impact": "این ترکیب «ادامه مذاکره + استمرار فشار دریایی + ناپایداری فوری در هرمز» ریسک بی‌ثباتی میدانی و فشار اقتصادی-عملیاتی بر صادرات انرژی ایران را بالا نگه می‌دارد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
-        "clean_url": "https://www.cnbc.com/2026/04/18/trump-says-us-has-good-news-on-iran-talks-to-continue.html",
-        "image": "http://www.bing.com/th?id=ONUT.CyDJOHy_V-cjH0GuBIkHkQ&pid=News",
-        "timestamp": 1776470520.0
     }
 ]
