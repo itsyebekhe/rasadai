@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "کارنامه نظامی: برتری‌های ادعایی اسرائیل در جنگ با ایران و ابهام‌های تعیین‌کننده",
+        "title_en": "A Military Balance Sheet in the U.S. and Israeli War With Iran",
+        "summary": [
+            "بر اساس گزارش بنیاد کارنگی، در رخدادهای جنگ ایران و اسرائیل «موفقیت‌های بزرگ» برای اسرائیل شامل کاهش جدی توان موشکی آینده (تخریب 60٪ تا 80٪ سامانه‌های پرتاب)، نابودی شمار زیادی موشک و کاهش حدود 90٪ آتش موشکی عنوان شده است؛ هم‌زمان «کشتن» رهبران و فرماندهان عالی‌رتبه ایرانی و لطمه سنگین به بخش صنعتی-نظامی نیز جزو نقاط برتری اسرائیل/شکست ایران توصیف شده است.",
+            "در همین چارچوب، گزارش از «برتری‌های بزرگ ایران» به‌عنوان زنده‌ماندن در برابر تلاش‌های تغییر رژیم، نشان‌دادن توان «گلوگیری اقتصاد جهانی»، و ایجاد ناامنی و آشوب در کشورهای منطقه یاد می‌کند؛ اما بخش قابل‌توجهی از این ادعاها به‌صورت کلی آمده و برای جمع‌بندی دقیق نیازمند جزئیات بیشتر است.",
+            "گزارش تأکید می‌کند که چند موضوع هنوز «غیرواضح» مانده و ممکن است سرنوشت را تعیین کند: امکان یا عدم امکان تغییر رژیم، «بازگشت» توان موشکی بالستیک ایران، و مسئله هسته‌ای مرتبط با اورانیوم 60٪ که گفته می‌شود زیر آوار دفن شده است."
+        ],
+        "impact": "گزارش با تمرکز بر تراز قوا نشان می‌دهد حتی با برخی برتری‌های تاکتیکی و ضربه‌های شدید به زیرساخت‌های نظامی-موشکی، نتیجه سیاسی و مسیر آینده جنگ هنوز با چند عامل کلیدی در هاله ابهام است.",
+        "tag": "تحلیل",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Carnegie Endowment for International Peace",
+        "url": "https://www.yahoo.com/news/articles/iran-war-balance-sheet-wins-174515278.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-war-balance-sheet-wins-174515278.html",
+        "image": null,
+        "timestamp": 1776924675.0
+    },
+    {
+        "title_fa": "افزایش سردرگمی در تنگه هرمز پس از حمله ایران به ۳ کشتی",
+        "title_en": "Live updates: Confusion deepens in Strait of Hormuz after Iran attacks 3 ships",
+        "summary": [
+            "بر اساس گزارش AP، حمله ایران به ۳ کشتی در تنگه هرمز باعث تشدید آشفتگی و سردرگمی در منطقه شده است؛ پیامد فوری آن کاهش قابلیت پیش‌بینی وضعیت برای کشتیرانی است.",
+            "این رخداد، تنش عملیاتی و احتمال واکنش زنجیره‌ای از سوی بازیگران منطقه و نیروهای دریایی را بالا می‌برد، چون هر حادثه می‌تواند به سوءبرداشت یا تشدید درگیری منجر شود.",
+            "در سطح سیاسی-امنیتی، چنین اقداماتی معمولاً رژیم را در مسیر ریسک‌محورتر قرار می‌دهد: از یک سو دنبال اهرم‌سازی در معادلات دریایی است، از سوی دیگر احتمال افزایش هزینه‌های امنیتی و اختلال تجاری را برای اقتصاد و اعتبار بین‌المللی بیشتر می‌کند."
+        ],
+        "impact": "حمله به ۳ کشتی در تنگه هرمز خطر تشدید سریع تنش دریایی را افزایش می‌دهد و هزینه‌های امنیتی و اختلال در کشتیرانی را بالا می‌برد.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tNzNHeS0wUWZqdFM1TGUtQ0x0MkhMakpPMWFJOGtFSjdhSkVIbFNZbVFxZVhyZWUzVFA5aVlPVTRLQnN2TGdMM1FyU2Q1cmZFZUcwYlB2Yk5JVlFKMlB4SHFCRmFmR1U?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tNzNHeS0wUWZqdFM1TGUtQ0x0MkhMakpPMWFJOGtFSjdhSkVIbFNZbVFxZVhyZWUzVFA5aVlPVTRLQnN2TGdMM1FyU2Q1cmZFZUcwYlB2Yk5JVlFKMlB4SHFCRmFmR1U",
+        "image": null,
+        "timestamp": 1776919020.0
+    },
+    {
         "title_fa": "ادعای ایران درباره بسته‌ماندن تنگه هرمز به دلیل نقض آتش‌بس",
         "title_en": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQVBuSlZPWWF5enBxV2xFY2U0UUhLbmlzODFyUHNtcEhMMldmSnU2NFkxRW1ZMWdNYXY1MDc2WEtTd1J4UWVhRFFSbWdQbGR4TVJhZUs3dV9LdUZSVm9SSWdVWEh4QzV0dWFhSV9ZWnNTNW52bVFfUjV4ZU9RLVh4VVpvTmp1djZoQzRCWVo3Y2FfSm9yU09ycVc0eE40aGd1RVhLYTVVaDdLMzU0VkE",
         "image": null,
         "timestamp": 1776487980.0
-    },
-    {
-        "title_fa": "ترامپ: اگر توافق هسته‌ای شکست بخورد، آمریکا «گرد هسته‌ای ایران» را در شکلی بسیار نامهربان‌تر پس می‌گیرد",
-        "title_en": "Trump says US will get Iran's nuclear dust 'in a much more unfriendly form' if deal fails",
-        "summary": [
-            "بر اساس گزارش آناتولی اجیاسی، دونالد ترامپ هشدار داده است که در صورت شکست توافق هسته‌ای، آمریکا پیامدهای مرتبط با برنامه هسته‌ای ایران را «در شکلی بسیار نامهربان‌تر» پیگیری خواهد کرد.",
-            "این موضع عملاً تهدید به تشدید فشار سیاسی و احتمالا فنی/تحریمی یا اقدامات اجرایی علیه برنامه هسته‌ای ایران را نشان می‌دهد، بدون اینکه جزئیات اجرایی در متن ذکر شده باشد.",
-            "چنین چارچوبی می‌تواند به بی‌ثباتی تصمیم‌گیری در تهران دامن بزند؛ چون هزینه‌های شکست توافق از منظر آمریکا از «کنترل» به «شدت بالاتر» منتقل می‌شود، در حالی‌که اقتصاد و بازارها معمولاً نسبت به چشم‌اندازهای تشدید فشار حساس‌اند."
-        ],
-        "impact": "هشدار ترامپ اهرم فشار آمریکا را بالاتر می‌برد و خطر تشدید چرخه تحریم/اقدام علیه پرونده هسته‌ای را افزایش می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2NjVV9VdEdZUFJ2Tk5oTmtDcDZwbTdWWHczRzVoZjhQYjFjSVFHVEowdWk0ZXhLc3dCdWpRZ0Fza1BDenhKclFKU04yRDNOQ1I1YXdNMk1rb2VfWjRDVUtaRnpxcjdDaW5ZRmlqcldZVVlxNEN3UlpLYjBDYmZKeTdWWGZxeDRUWTVnaGtOQlozUkF4ZUVYUlRTclZkQmwtX3RFYi1sNkhfTVEyd1ROWElUMkFIdGQ4bXJNT19JcUdiUkw1S3dPUzF5SU5WMzhDOGRTUw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOa2NjVV9VdEdZUFJ2Tk5oTmtDcDZwbTdWWHczRzVoZjhQYjFjSVFHVEowdWk0ZXhLc3dCdWpRZ0Fza1BDenhKclFKU04yRDNOQ1I1YXdNMk1rb2VfWjRDVUtaRnpxcjdDaW5ZRmlqcldZVVlxNEN3UlpLYjBDYmZKeTdWWGZxeDRUWTVnaGtOQlozUkF4ZUVYUlRTclZkQmwtX3RFYi1sNkhfTVEyd1ROWElUMkFIdGQ4bXJNT19JcUdiUkw1S3dPUzF5SU5WMzhDOGRTUw",
-        "image": null,
-        "timestamp": 1776485156.0
-    },
-    {
-        "title_fa": "ایران تنگه هرمز را دوباره باز کرد، اما همزمان تهدید به بستن آن را تکرار کرد؛ در حالی‌که آمریکا «بلوک» را حفظ کرده است",
-        "title_en": "Iran reopens Strait of Hormuz, but threatens to close it again as the US maintains its blockade",
-        "summary": [
-            "طبق گزارش AP News، ایران تنگه هرمز را دوباره باز کرده است، اما با وجود این اقدام، تهدید کرده که ممکن است در صورت تداوم شرایط، دوباره آن را ببندد.",
-            "هم‌زمان، خبر از تداوم «بلوک» آمریکا علیه ایران می‌دهد؛ یعنی فشار خارجی همچنان برقرار است و تنش دریایی بدون کاهش جدی ادامه دارد.",
-            "این وضعیت عملاً یک اهرم فشار متقابل ایجاد می‌کند: ایران از باز و بسته‌سازی تنگه برای اثرگذاری بر محاسبات ایمنی/اقتصادی کشتیرانی استفاده می‌کند، در حالی‌که آمریکا حضور فشار اقتصادی-عملیاتی را حفظ می‌کند."
-        ],
-        "impact": "بازشدن موقت تنگه، کاهش کوتاه‌مدت ریسک کشتیرانی می‌دهد، اما تهدیدِ بازگشت به انسداد یعنی بی‌ثباتی ساختاری و احتمال تکرار بحران باقی می‌ماند.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BGZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcUo3RjZlZ3BGZF9TbEU1TWc1dEdkLVhKRkZmM1F3VzVjTERRS3BPUXE5SFZMOGczLVBZYWpqLTZUcGlyV1JxZ2ktZ2hscm1pQ09TWVNzT05EUU1yNWpoTjR3eko3WjdDSm9fZmhkNnd2Mms4TmU1ZFhEbC0tbkQ5SExIT2lFbWtIYlhQQjFvZlpaMmZpTDhjUHlfX0ZSTEtKLS1CMGVNbUM0TlRLYnUwY0IzcjdlX1RvbmJ4SWJ4cw",
-        "image": null,
-        "timestamp": 1776483840.0
     }
 ]
