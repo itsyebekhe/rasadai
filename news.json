@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "نمودارها: اقتصاد ایران در سراشیبی سقوط آزاد",
+        "title_en": "These charts show how Iran's economy is in freefall",
+        "summary": [
+            "گزارش CNBC با اتکا به «نمودارها» از سقوط جدی اقتصاد ایران خبر می‌دهد و آن را به‌صورت مستقیم «freefall» توصیف می‌کند؛ یعنی ناتوانی در مهار روندهای کاهشی و تشدید فشارهای اقتصادی.",
+            "این چارچوب، به‌طور ضمنی بر اثرات تضعیف ساختاری دلالت دارد: وقتی شاخص‌های کلیدی در نمودارها نزولی و شتاب‌دار دیده می‌شوند، ظرفیت دولت برای مدیریت هزینه‌ها، ثبات بازار و برنامه‌ریزی کاهش پیدا می‌کند.",
+            "در نبود جزئیات عددی از متن ارائه‌شده، نمی‌توان درباره منشأ دقیق (تحریم، سیاست پولی، شوک‌های ارزی یا دیگر عوامل) ادعا کرد؛ اما پیام محوری گزارش روشن است: روندها به سمت وخامت پیوسته می‌روند و هزینه اجتماعی آن بالا خواهد رفت."
+        ],
+        "impact": "سقوط اقتصادیِ نموداری، پایه‌های ثبات حکمرانی را با تشدید نارضایتی و فشار معیشتی تضعیف می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalNfSXQxeWtPOV9CYmxBMG9sVi1Kb0FIbmNaTTMxWFFpUExBUzN6ZmxkYVpyLWQ2VER1WU92bVRJOTliVDQ5dWItVTBCQWhBcVNnSFUxa0VBU1h6ZTItWGZxNUYwcmhYaHZXWnlLb3loNS1jY1U5dXNCSXdYelQzSlhkMkNWcVNzOXJ2VnJ0ZzBYNGhGRzJF0gGcAUFVX3lxTE1vZ0lSWnUxOWs3SjRnY1lzOFBuOTFoNUZ5SkFNb1UxTUwtNER2bnhQR0ZVZjlVQ1piMDB4RXZNbTlvcEhiLWpXZi1QZ2FibG5MTXVZMFhESFo4YUhQMk9fUFZBVW9FTVNrU0N4YlZiNXFsb2tCeVhRV0hyMVhXdkp1eFpSdzBQVENjc19EMWxsbGhMN3FMZXVlVFMxaw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalNfSXQxeWtPOV9CYmxBMG9sVi1Kb0FIbmNaTTMxWFFpUExBUzN6ZmxkYVpyLWQ2VER1WU92bVRJOTliVDQ5dWItVTBCQWhBcVNnSFUxa0VBU1h6ZTItWGZxNUYwcmhYaHZXWnlLb3loNS1jY1U5dXNCSXdYelQzSlhkMkNWcVNzOXJ2VnJ0ZzBYNGhGRzJF0gGcAUFVX3lxTE1vZ0lSWnUxOWs3SjRnY1lzOFBuOTFoNUZ5SkFNb1UxTUwtNER2bnhQR0ZVZjlVQ1piMDB4RXZNbTlvcEhiLWpXZi1QZ2FibG5MTXVZMFhESFo4YUhQMk9fUFZBVW9FTVNrU0N4YlZiNXFsb2tCeVhRV0hyMVhXdkp1eFpSdzBQVENjc19EMWxsbGhMN3FMZXVlVFMxaw",
+        "image": null,
+        "timestamp": 1776936731.0
+    },
+    {
         "title_fa": "فرصت ترامپ برای بازپس‌گیری ابتکار در جنگ ایران، اما عامل غیرقابل‌مهار اسرائیل",
         "title_en": "Trump’s chance to regain control of the Iran war",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.moneycontrol.com/world/trump-says-iran-cannot-blackmail-us-after-tehran-closes-strait-of-hormuz-again-article-13892897.html",
         "image": "http://www.bing.com/th?id=ONUT.07P0ow58Trmm6TwVjsnFtQ&pid=News",
         "timestamp": 1776497760.0
-    },
-    {
-        "title_fa": "نگرانی‌های اصلی سیاستمداران درباره ریسک‌های ناشی از جنگ آمریکا-ایران",
-        "title_en": "We spoke to over 30 central bankers, policymakers and politicians. Here are their top concerns",
-        "summary": [
-            "بر اساس گزارش CNBC، بیش از ۳۰ مقام پولی و سیاستگذار از میان نگرانی‌هایی که به «جنگ جاری آمریکا-ایران» مرتبط شده‌اند، از جمله رکود-تورمی و امنیت انرژی نام برده‌اند.",
-            "چارچوب گزارش، تمرکز بر ریسک‌های برون‌زا برای اقتصاد و سیاست‌گذاری است: فشار تورمی همزمان با کندی رشد، و نیز اختلال‌های بالقوه در زنجیره انرژی و قیمت‌ها.",
-            "این نوع اجماع کارشناسی نشان می‌دهد که پیامدهای جنگ صرفاً نظامی نیست و به طراحی سیاست‌های مالی/پولی، مدیریت تورم و تاب‌آوری انرژی نیز سرایت کرده است."
-        ],
-        "impact": "گسترش نگرانی از رکود-تورمی و ناامنی انرژی می‌تواند هزینه‌های سیاست‌گذاری را بالا ببرد و شوک‌ها را به اقتصاد و بازار انرژی منتقل کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.msn.com/en-us/money/markets/we-spoke-to-over-30-central-bankers-policymakers-and-politicians-here-are-their-top-concerns/ar-AA21algL",
-        "clean_url": "https://www.msn.com/en-us/money/markets/we-spoke-to-over-30-central-bankers-policymakers-and-politicians-here-are-their-top-concerns/ar-AA21algL",
-        "image": "https://image.cnbcfm.com/api/v1/image/108287368-1775489030380-gettyimages-2269502140-6_april_destruc_3e7a0131.jpeg?v=1775497725&w=1920&h=1080",
-        "timestamp": 1776496620.0
     }
 ]
