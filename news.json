@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ استفاده از سلاح هسته‌ای علیه ایران را رد کرد؛ همزمان «کشتن و انهدام» مین‌گذارها و تشدید عملیات دریایی مطرح شد",
+        "title_en": "Trump appears to rule out using nuclear weapons against Iran",
+        "summary": [
+            "ترامپ در کاخ سفید گفت آمریکا «نیازی» به استفاده از سلاح هسته‌ای علیه ایران ندارد و «هرگز نباید توسط هیچ‌کس» به‌کار رود؛ او ادعا کرد که با «اقدامات کاملاً متعارف» ایران «بدون» سلاح هسته‌ای تضعیف شده است.",
+            "با وجود رد هسته‌ای، ترامپ دستور داده ناوهای آمریکا افراد/کشتی‌هایی که مین در تنگه هرمز می‌گذارند را «shoot and kill» کنند و گفته باید «هیچ تردیدی» وجود نداشته باشد؛ همچنین به ادامه عملیات مین‌روب/پاکسازی تنگه در سطحی «سه‌برابر» تأکید کرد.",
+            "هم‌زمان با تشدید ادبیات، گزارش شده آمریکا یک کشتی مرتبط با ایران در اقیانوس هند را در اختیار گرفته و ایران هم موضع تهاجمی‌تری در دریا داشته است: سپاه روز چهارشنبه به سه کشتی در تنگه هرمز شلیک کرده و دو کشتی را تصرف کرده؛ در کنار آن، ترامپ دو هفته آتش‌بس را تمدید کرد و منتظر «پیشنهاد یکپارچه صلح» از تهران شد."
+        ],
+        "impact": "این ترکیبِ رد هسته‌ای با دستور عملیاتی سخت‌گیرانه برای برخورد مرگبار با مین‌گذارها، ریسک برخورد مستقیم و خطای محاسباتی در تنگه هرمز را بالا می‌برد، در حالی که آتش‌بس کوتاه‌مدت می‌تواند به‌طور موقت مانع از انفجار بحران شود.",
+        "tag": "دریایی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Scripps News",
+        "url": "https://www.aol.com/news/us-seizes-iran-linked-oil-123659715.html",
+        "clean_url": "https://www.aol.com/news/us-seizes-iran-linked-oil-123659715.html",
+        "image": null,
+        "timestamp": 1776990494.0
+    },
+    {
         "title_fa": "تضمین عدم استفاده از سلاح هسته‌ای علیه ایران؛ پیام سیاسی با اثر محدود اما پرریسک",
         "title_en": "WATCH: Trump says he won't use nuclear weapons in Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQV8yMld5enRKSDFuc0hldmRreFVOejJFRnE3N0FUTnNUcFkyVF9LVk5kZ0FkUjJyYTBtaUVpVkpfbkZVbG5yazFEcDFwU3pBX2dHNUJNQzNXTnhBUkNXX283WGNKLVdwczJIbzIySGV3ZDd2a3M5cjVWeXhPVHdqVWNBcjFIbGo0VDVDN3RDNFpON0p40gGaAUFVX3lxTE4wQVJ4VzhvYTJLcnFfVVFScDZtUjZuLUEwcW1XOFh6VkpfTXdjR29SQmJIcWxURE9UM0hoVWpqYVBVMVNCNWNlckI1YXJ6dS05ZlpUQ1JuTXJ5NW9JZlA3WHZqTzFURjZndnBBYUdraFdpZW5jQ1NqTVYxN2I5X3NTZUxKakVUT1dNdG53anN3MFJYWWpwX2ZlQUE",
         "image": null,
         "timestamp": 1776983292.0
+    },
+    {
+        "title_fa": "کشف بدافزار خرابکار «Fast16»؛ زمان‌بندی پیش از استاکس‌نت و احتمال دستکاری برنامه‌های هسته‌ای/مهندسی در ایران",
+        "title_en": "Newly Deciphered Sabotage Malware May Have Targeted Iran’s Nuclear Program—and Predates Stuxnet",
+        "summary": [
+            "تحلیل تازه پژوهشگران SentinelOne روی بدافزار Fast16 نشان می‌دهد این کد به حدود ۲۰۰۵ بازمی‌گردد و می‌تواند به‌صورت خودکار در شبکه‌ها پخش شود و سپس فرآیندهای محاسباتی نرم‌افزارهای محاسبات دقیق را دستکاری کند؛ اقدامی که به‌جای تخریب مستقیم داده، نتایج را «غیرقابل‌تشخیص» دچار خطا می‌کند.",
+            "این بدافزار طوری طراحی شده که با تغییرات بسیار جزئی در محاسبات، به‌تدریج باعث خرابی سیستم‌ها، فرسایش سریع‌تر، سقوط/از کار افتادن یا تولید نتایج اشتباه در پژوهش‌های علمی شود؛ در نتیجه می‌تواند خسارت واقعی به تجهیزات و مسیرهای صنعتی ایجاد کند.",
+            "پژوهشگران احتمال می‌دهند Fast16 برای دستکاری نرم‌افزارهای شبیه‌سازی و مهندسی فیزیکی (از جمله نمونه‌هایی که در گزارش به آن‌ها اشاره شده) به‌کار گرفته شده باشد و با توجه به قدمت و ماهیت عملیات، می‌تواند «فصل دیگری» از خرابکاری‌های سایبری دولتی پیش از استاکس‌نت در ایران باشد."
+        ],
+        "impact": "اگر این ارزیابی درست باشد، رژیم ایران با یک تهدید سایبریِ هدفمند به مراکز محاسبات دقیق روبه‌رو بوده که می‌تواند اعتبار داده‌های پژوهشی و عملکرد تجهیزات را به‌صورت پنهان تخریب کند.",
+        "tag": "سایبری",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "WIRED",
+        "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "clean_url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack",
+        "image": null,
+        "timestamp": 1776981600.0
     },
     {
         "title_fa": "احتمال توافق هسته‌ای برای پایان جنگ؛ مقایسه نسخه اوباما با پیشنهاد ترامپ (بر اساس متن منتشرشده)",
@@ -198,6 +234,24 @@
         "timestamp": 1776967837.0
     },
     {
+        "title_fa": "تمدید آتش‌بس لبنان و فشار لفظی ترامپ برای قطع حمایت مالی ایران از حزب‌الله",
+        "title_en": "Iran-Israel War Live Updates: Lebanon ceasefire extended as Trump says Iran 'will have to' stop funding Hezbollah",
+        "summary": [
+            "خبر از «تمدید آتش‌بس لبنان» به‌عنوان محور تحولات میدانی/دیپلماتیک یاد می‌کند و نشان می‌دهد کنترل تنش در مرزهای لبنان هنوز در دستور است.",
+            "ترامپ می‌گوید ایران «خواهد مجبور شد» حمایت مالی از حزب‌الله را متوقف کند؛ این یعنی فشار خارجی و تهدید پیامد سیاسی/اقتصادی به‌صورت مستقیم روی رفتار ایران متمرکز شده است.",
+            "این روایت مستقیماً درباره سازوکار جدید تحریم یا اقدام اجرایی مشخص جزئیات نمی‌دهد، اما با برجسته‌کردن موضوع تامین مالی، کانال احتمالی فشار اقتصادی و امنیتی علیه شبکه‌های نیابتی را پررنگ می‌کند."
+        ],
+        "impact": "اگر این پیام به اقدامات عملی تبدیل شود، منابع و توان عملیاتی حزب‌الله تحت فشار قرار می‌گیرد و محاسبات رژیم درباره ادامه حمایت از نیابتی‌ها سخت‌تر می‌شود.",
+        "tag": "فشارخارجی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-iran-israel-war-live-updates-oil-crises-trump-ceasfire-attacks-us-tensions-strait-of-hormuz-liveblog-14003784.html",
+        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-iran-israel-war-live-updates-oil-crises-trump-ceasfire-attacks-us-tensions-strait-of-hormuz-liveblog-14003784.html",
+        "image": "http://www.bing.com/th?id=ONUT.owaq_waNs2qMueqlrTPHCg&pid=News",
+        "timestamp": 1776967680.0
+    },
+    {
         "title_fa": "پیشنهاد ترامپ برای همکاری آمریکا و ایران در حذف «گرد هسته‌ای»؛ سناریوی فشار-معامله بدون تضمین",
         "title_en": "Trump suggests US, Iran could work together to remove 'nuclear dust' - ABC News",
         "summary": [
@@ -322,6 +376,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-is-facing-an-increasingly-patient-iran/ar-AA21A1u2",
         "image": "http://www.bing.com/th?id=ONUT.KQT2Sp9NW4bMBRQB5getiw&pid=News",
         "timestamp": 1776957573.0
+    },
+    {
+        "title_fa": "ترامپ از «گرد هسته‌ای» حرف می‌زند؛ «واقعیت» پشت این ادعا چقدر است؟",
+        "title_en": "Trump Keeps Talking About Iran’s ‘Nuclear Dust.’ What Is It?",
+        "summary": [
+            "رسانه به تصاویر ماهواره‌ای (فوریه) از سایت هسته‌ای اصفهان اشاره می‌کند که در آن ساخت‌وساز روی ساختمان‌هایی انجام شده که در حملات هوایی آمریکا در ژوئن گذشته تخریب شده بودند؛ یعنی بحث اصلی هم‌زمان با شواهد میدانی، وارد فاز «ادبیات سیاسی» شده است.",
+            "ترامپ «نuclear dust» را کلیدِ پایان جنگ با ایران معرفی می‌کند و می‌گوید برنامه هسته‌ای ایران آن‌قدر با بمب‌های آمریکا آسیب دیده که زیر آوار فقط یک پودر باقی مانده؛ اما متن تأکید می‌کند این توصیف عمداً یا سهوا اهمیت موضوع واقعی یعنی اورانیوم با درجه نزدیک به بمب را کم‌رنگ می‌کند.",
+            "بر اساس گزارش، «گرد» خواندنِ ماجرا دقیق نیست: اورانیوم در کانیسترهایی با ابعاد حدود مخازن بزرگ غواصی نگهداری می‌شود؛ این ماده معمولاً گاز است، اما با دمای محیط جامد می‌شود و در تماس با رطوبت می‌تواند بسیار فرار و بسیار سمی شود و در صورت مدیریت غلط حتی خطر واکنش هسته‌ای را بالا ببرد؛ همچنین کارشناسان گفته‌اند چنین اصطلاحی را پیش‌تر نشنیده‌اند و پیچیدگی‌های غنی‌سازی و نیز مذاکره برای پایان جنگ با این عبارت پوشش داده نمی‌شود."
+        ],
+        "impact": "این گزارش نشان می‌دهد روایت «گرد هسته‌ای» بیشتر یک ساده‌سازی تبلیغاتی است تا توضیح فنیِ مؤثر، و همین می‌تواند بر محاسبات سیاسی-امنیتی طرف آمریکایی و برداشت عمومی از وضعیت واقعی پرونده اثر بگذارد.",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/23/us/politics/trump-iran-nuclear-dust-uranium.html",
+        "clean_url": "https://www.nytimes.com/2026/04/23/us/politics/trump-iran-nuclear-dust-uranium.html",
+        "image": "http://www.bing.com/th?id=ONUT.6lTrQyzb1dhxZZg86qJTPw&pid=News",
+        "timestamp": 1776957120.0
     },
     {
         "title_fa": "ترامپ: آمریکا ناوهای ایرانی در حال مین‌گذاری در تنگه هرمز را «هدف گلوله» قرار می‌دهد و می‌کشد",
@@ -898,6 +970,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnZfZnVkX1pLRndlQ3R6QmVsOW1sSVVNdGxCeE1oS0p0UFlId01NR1JTcE5haGRYZkluUmI5c1VWZDVOYThKUFpzaXRha19oZDNtMnNyV09idG1QcjJLOG01amtkTFI2MzFPTW9FR2lvVGpjSEVGcHpfS2tOeF9HT01FV1ZHUTN2ZWp3cm8yMTdwY2FlZ3oxWFJB",
         "image": null,
         "timestamp": 1776930052.0
+    },
+    {
+        "title_fa": "آخرین تحولات جنگ ایران-آمریکا: ترامپ از تمدید آتش‌بس اسرائیل-لبنان خبر داد؛ زمان‌بندی پایان درگیری را رد کرد",
+        "title_en": "Iran-US war latest: Trump announces Israel-Lebanon ceasefire extension",
+        "summary": [
+            "ترامپ اعلام کرد آتش‌بس بین اسرائیل و لبنان تمدید شده، اما درباره پایان جنگ ایران-آمریکا «چارچوب زمانی» مشخصی مطرح نکرد؛ هم‌زمان بن‌بست ادامه‌دار در تنگه هرمز برقرار است.",
+            "طبق ادعای کاخ سفید، «محاصره/بلوک» آمریکا علیه بنادر ایران در جریان است و اقتصاد ایران را با خفه‌کردن مسیرهای صادراتی تحت فشار می‌گذارد.",
+            "در متن، گزارش مستقل از واقعیت میدانی از نظر جزئیات عملیات نظامی ارائه نشده، اما تمرکز خبری روی فشار عملیاتی از مسیر دریا و استمرار درگیری—نه نزدیک‌بودن به پایان آن—قرار دارد."
+        ],
+        "impact": "تمدید آتش‌بس در جبهه اسرائیل-لبنان بدون ارائه مسیر زمانی برای پایان درگیری با ایران، و تشدید فشار دریایی آمریکا، احتمال ادامه فرسایش اقتصادی رژیم در کوتاه‌مدت را بالا می‌برد.",
+        "tag": "محاصره",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/world/iran-war-live-tehran-calls-opening-strait-of-hormuz-impossible/ar-AA21wLmr",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-live-tehran-calls-opening-strait-of-hormuz-impossible/ar-AA21wLmr",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21waFS.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1776929003.0
     },
     {
         "title_fa": "پایدار ماندن آتش‌بس ایران، اما تشدید تنش‌ها در دریا؛ گزارش زنده",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DU01OOWZiNl9sNFBBczNxVFRZY25Sd1dlZkdXWkMtSnp3WjlreWdydU5pZVpUQXFjZ3hYZEN3NXdmdDl1U1g4VlpRVGkxQmFLY1dHV3RlYWVVdw",
         "image": null,
         "timestamp": 1776592522.0
-    },
-    {
-        "title_fa": "جنگ با ایران: چرا اسرائیل و آمریکا در نهایت بازنده‌اند",
-        "title_en": "War on Iran: Why Israel and the US are the ultimate losers",
-        "summary": [
-            "این مطلب با چارچوب «جنگ علیه ایران» استدلال می‌کند که هر سناریوی درگیری مستقیم، برای اسرائیل و آمریکا هزینه‌زا و بلندمدت‌محور خواهد بود، نه یک دستاورد فوری.",
-            "نویسنده نتیجه‌گیری اصلی را روی فرسایشی شدن پیامدها می‌گذارد: افزایش ریسک‌های امنیتی، فشارهای سیاسی و گسترش هزینه‌های عملیاتی برای طرف‌های آغازگر.",
-            "در نبود جزئیات اجرایی یا داده‌های قابل‌سنجش در همین متنِ ارائه‌شده، تمرکز گزارش بیشتر بر تحلیل پیامدهای راهبردی است تا گزارش یک رویداد مشخص یا اقدام نظامیِ تأییدشده."
-        ],
-        "impact": "این تحلیل بیش از آنکه گزارش رویداد باشد، هشدار پیامدی درباره فرسایشی شدن هزینه‌ها برای اسرائیل و آمریکا ارائه می‌کند.",
-        "tag": "تحلیل",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTQyUXpMVmx6VVoxckx4ZDFzWXQyX0JndS02NTlDMVBZV1NQcm5BSFl6WG16cFNNSEU2cVUtQVdlMngySXNrRlEza0lQeUhTZmdGeDM5X2R5QnNnWjcyd1F0R21zRWt3SGdtcWx4NFRkUG5fTUZWZlNPX0VxMjZqR0RFWXhtUFhidlFZZA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTQyUXpMVmx6VVoxckx4ZDFzWXQyX0JndS02NTlDMVBZV1NQcm5BSFl6WG16cFNNSEU2cVUtQVdlMngySXNrRlEza0lQeUhTZmdGeDM5X2R5QnNnWjcyd1F0R21zRWt3SGdtcWx4NFRkUG5fTUZWZlNPX0VxMjZqR0RFWXhtUFhidlFZZA",
-        "image": null,
-        "timestamp": 1776592140.0
-    },
-    {
-        "title_fa": "تهدید ترامپ برای نابودی نیروگاه‌ها و پل‌های ایران هم‌زمان با نزدیک‌شدن پایان آتش‌بس",
-        "title_en": "Trump threatens to knock out 'every single power plant' and 'every single bridge' in Iran",
-        "summary": [
-            "ترامپ در یک پست تهدید کرد در صورت خروج تهران از توافق هسته‌ای، «همه نیروگاه‌ها» و «همه پل‌ها» در ایران هدف قرار می‌گیرند؛ او این را به‌عنوان اقدام سریع و «لازم» پس از «سال‌های گذشته» مطرح کرد.",
-            "هم‌زمان با نزدیک‌شدن موعد پایان آتش‌بس دو هفته‌ای میان آمریکا، اسرائیل و ایران (پایان چهارشنبه)، نشست بعدی مذاکره در اسلام‌آباد اعلام شده؛ ترکیب هیئت آمریکایی قطعی نیست و گزارش‌ها درباره حضور یا عدم حضور JD Vance اختلاف دارند.",
-            "ترجمان این تهدید با تشدید تنش‌های دریایی همراه است: گزارش شد قایق‌های سپاه پاسداران به یک تانکر در تنگه هرمز تیراندازی کرده‌اند و یک کشتی کانتینری هم با «پرتابگر ناشناس» هدف گرفته شده؛ هند سفیر ایران را احضار کرد."
-        ],
-        "impact": "این تهدید آشکارِ هدف‌گیری زیرساخت حیاتی، هزینه سیاسی-امنیتی هر دو طرف را بالا می‌برد و احتمال لغزش از مذاکره به تقابل عملیاتی در هفته‌های پیش رو را تشدید می‌کند.",
-        "tag": "تحریم-فشار",
-        "urgency": 9,
-        "sentiment": -0.95,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/article/trump-threatens-to-knock-out-every-single-power-plant-and-every-single-bridge-in-iran-161150433.html",
-        "clean_url": "https://www.yahoo.com/news/us/article/trump-threatens-to-knock-out-every-single-power-plant-and-every-single-bridge-in-iran-161150433.html",
-        "image": "http://www.bing.com/th?id=ONUT.30zqjrgcfPoE6kltR7VmJQ&pid=News",
-        "timestamp": 1776592080.0
-    },
-    {
-        "title_fa": "قطر زیر فشار جنگ بین آمریکا و ایران؛ مجبور به «تسویه‌حساب»",
-        "title_en": "In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning",
-        "summary": [
-            "گزارش نیویورک‌تایمز می‌گوید قطر به‌دلیل موقعیت ژئوپلیتیکش عملاً میان آمریکا و ایران «گیر افتاده» و همین وضعیت ناشی از فضای جنگ، این کشور را به بازنگری در محاسبات سیاسی-امنیتی وادار کرده است.",
-            "این چارچوب نشان می‌دهد که جنگ، صرفاً یک بحران منطقه‌ای نیست؛ بلکه به تصمیم‌های عملی دولت‌ها در دو سوی فشار تبدیل می‌شود و کشورهای ثالث را مجبور به انتخاب‌های سخت می‌کند.",
-            "نتیجه گزارش، «تسویه‌حساب» است: یعنی قطر ناچار شده شکاف میان الزامات امنیتی، انتظارات قدرت‌های رقیب و ریسک‌های ناشی از تشدید تنش را به‌صورت جدی مدیریت کند."
-        ],
-        "impact": "این وضعیت می‌تواند قطر را در نقش میانجی/تسهیل‌گر محدودتر و هزینه‌دارتر کند و ریسک تصمیم‌گیری‌های پرتنش در برابر هر دو طرف را بالا ببرد.",
-        "tag": "منطقه‌ای",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZHRsVElXWG9wWV9FSjBibU1PZHZxLTlPTFl0dmF0NnlFaURRUzBfTGsxM292Z3hmRkpDRDRUbVR0MVZwdkhHaVFBRzl3Y05qclJfNVpIbnBzMF8zSW0xZ1RqRnFIVjFZWFBHVFdOLU1iTVJRUHp6SHJaZjl5OXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZHRsVElXWG9wWV9FSjBibU1PZHZxLTlPTFl0dmF0NnlFaURRUzBfTGsxM292Z3hmRkpDRDRUbVR0MVZwdkhHaVFBRzl3Y05qclJfNVpIbnBzMF8zSW0xZ1RqRnFIVjFZWFBHVFdOLU1iTVJRUHp6SHJaZjl5OXM",
-        "image": null,
-        "timestamp": 1776589340.0
-    },
-    {
-        "title_fa": "پزشکیان «حقوق هسته‌ای» را طرح می‌کند؛ مذاکرات آتش‌بس به ضرب‌الاجل نزدیک می‌شود",
-        "title_en": "Pezeshkian Asserts Iran's Nuclear Rights as Ceasefire Negotiations Face Impending Deadline",
-        "summary": [
-            "پزشکیان در چارچوب مذاکرات آتش‌بس، بر ادامه مواضع مربوط به «حقوق هسته‌ای» تأکید کرده و همین موضوع نشان می‌دهد دستور کار دیپلماتیک با مسئله برنامه هسته‌ای گره خورده است.",
-            "خبر به «ضرب‌الاجل نزدیک» برای مذاکرات آتش‌بس اشاره دارد که معمولاً فشار زمانی را افزایش می‌دهد و احتمال بن‌بست یا معامله حداقلی را بالا می‌برد.",
-            "این روایت مستقیماً به سیاست‌گذاری یا تصمیم اجرایی تازه در داخل اشاره نمی‌کند، اما از نظر راهبردی نشان می‌دهد رژیم در مذاکره، از کارت هسته‌ای برای چانه‌زنی استفاده می‌کند."
-        ],
-        "impact": "نزدیک شدن ضرب‌الاجل مذاکرات آتش‌بس همراه با برجسته شدن «حقوق هسته‌ای» می‌تواند مسیر توافق را سخت‌تر و ریسک شکست مذاکره را بیشتر کند.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Kurdistan24",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFhycEZfQThXMXhTWGJjNDk4ODdhOC1fcHg0dzJCWWNaNkd4Rk1PYUJ5aVVITU40eHlPT3NnWnNaYjlVbHRUX3I4bmtKTEpvNmFEMDNfSk56YWVKXzdxUmJPalJObFRBRVFvOFhfbHV1R2xwVG95eWt4MnlTcGd1Um1xS1hQX0JhZjBfa1hoZkNiVnF4QUZ6U0RIQmpadG1pdkpGNTI4djllZVBtU3o5NnVoaS14dnhyMVN4a2luemlkOTRjWGl3VlpMelo2dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaFhycEZfQThXMXhTWGJjNDk4ODdhOC1fcHg0dzJCWWNaNkd4Rk1PYUJ5aVVITU40eHlPT3NnWnNaYjlVbHRUX3I4bmtKTEpvNmFEMDNfSk56YWVKXzdxUmJPalJObFRBRVFvOFhfbHV1R2xwVG95eWt4MnlTcGd1Um1xS1hQX0JhZjBfa1hoZkNiVnF4QUZ6U0RIQmpadG1pdkpGNTI4djllZVBtU3o5NnVoaS14dnhyMVN4a2luemlkOTRjWGl3VlpMelo2dw",
-        "image": null,
-        "timestamp": 1776588960.0
-    },
-    {
-        "title_fa": "ایران و آمریکا هنوز «دور» از توافق؛ بن‌بست تنگه هرمز همچنان مانع اصلی است",
-        "title_en": "Iran, US still ‘far’ from breakthrough amid Strait of Hormuz impasse",
-        "summary": [
-            "ال‌جزیرة گزارش می‌دهد که ایران و آمریکا با وجود رایزنی‌ها، به «شکستن بن‌بست» نرسیده‌اند و اختلاف‌ها درباره وضعیت تنگه هرمز همچنان گسترده است.",
-            "این بن‌بست در عمل نشان می‌دهد موضوعات امنیت کشتیرانی/نظامی‌سازی مسیرهای حیاتی منطقه حل نشده و کانال‌های توافق، به نتیجه قطعی نزدیک نیست.",
-            "فاصله باقی‌مانده میان دو طرف، ریسک ادامه‌دار شدن وضعیت مبهم در تنگه هرمز را تقویت می‌کند و می‌تواند هر لحظه به بحران‌های زنجیره‌ای در سطح منطقه و اقتصاد انرژی دامن بزند."
-        ],
-        "impact": "تا زمانی که بن‌بست تنگه هرمز رفع نشود، احتمال تشدید تنش‌های دریایی و فشارهای اقتصادی ناشی از نااطمینانی در مسیرهای حیاتی افزایش می‌یابد.",
-        "tag": "تنش",
-        "urgency": 6,
-        "sentiment": -0.25,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmRhQ2NKWm80RWtLd1pCcVhVX2g1Z2VHR3YwaTBHeUc0VWZ2RDdnNWhwNjBSWlVZa25ibkNNb0V0NU5XRzFwTzNQTFE1VXRUZnAtQUFERV91b214U2FEU25Wa1dJcnlmaUVLZlJ6Q1hNU2VUZzFhOEhGUGEtTk52STd1c3lkSUxacTdObkU2bkloRkt6TmRTR29PREE3Vl9OeW9PYnJ0d9IBrAFBVV95cUxPY3lSWExLamlTZGdhQ1JKeXByc1lrT2pSZF8yaTlnZlB0cFA4N2NVSlJTMDViSzFqaUtWaHNpLWYza2I1SFloVDJjUUd1YTVYWkN3SkNHeDJUNXdJU0s2bXhHWXNBbkhOeXdIeVNjMjVyc2Y0WkliZVNndFY3bGdrai1CemR6WUNYTmhQanhaYXJvWjRRYnhsM28wdExzdmZoa3NHUHhmZklXZWZN?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUmRhQ2NKWm80RWtLd1pCcVhVX2g1Z2VHR3YwaTBHeUc0VWZ2RDdnNWhwNjBSWlVZa25ibkNNb0V0NU5XRzFwTzNQTFE1VXRUZnAtQUFERV91b214U2FEU25Wa1dJcnlmaUVLZlJ6Q1hNU2VUZzFhOEhGUGEtTk52STd1c3lkSUxacTdObkU2bkloRkt6TmRTR29PREE3Vl9OeW9PYnJ0d9IBrAFBVV95cUxPY3lSWExLamlTZGdhQ1JKeXByc1lrT2pSZF8yaTlnZlB0cFA4N2NVSlJTMDViSzFqaUtWaHNpLWYza2I1SFloVDJjUUd1YTVYWkN3SkNHeDJUNXdJU0s2bXhHWXNBbkhOeXdIeVNjMjVyc2Y0WkliZVNndFY3bGdrai1CemR6WUNYTmhQanhaYXJvWjRRYnhsM28wdExzdmZoa3NHUHhmZklXZWZN",
-        "image": null,
-        "timestamp": 1776588823.0
     }
 ]
