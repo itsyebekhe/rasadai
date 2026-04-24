@@ -1,5 +1,77 @@
 [
     {
+        "title_fa": "تمدید آتش‌بس اسرائیل و لبنان در حالی که ترامپ برای «بهترین توافق» با ایران فشار می‌آورد",
+        "title_en": "Israel, Lebanon extend ceasefire as Trump seeks 'best deal' with Iran",
+        "summary": [
+            "بنابر گزارش رویترز، اسرائیل و لبنان آتش‌بس را تمدید کردند؛ این تصمیم فعلاً شدت درگیری میدانی در مرز شمالی را کاهش می‌دهد، اما مسئله اصلی منطقه‌ای را حل نمی‌کند.",
+            "در همین چارچوب، ترامپ در پی دستیابی به «بهترین توافق» با ایران است؛ یعنی اولویت واشنگتن از مدیریت بحران کوتاه‌مدت به سمت معامله سیاسی/بازدارندگی از کانال مذاکره منتقل می‌شود.",
+            "چنین هم‌زمانیِ تمدید آتش‌بس با تلاش برای معامله با ایران، پیام سیاسی دارد: کاستن از اصطکاک با لبنان برای ایجاد فضا و اهرم بیشتر در روند فشار/مذاکره علیه تهران."
+        ],
+        "impact": "تمدید آتش‌بس، خطر درگیری فوری را پایین می‌آورد، اما تلاش برای «توافق» با ایران نشان می‌دهد محور فشارهای سیاسی/دیپلماتیک تغییر فاز می‌دهد نه اینکه تهدید راهبردی از بین برود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Reuters",
+        "url": "https://www.usnews.com/news/world/articles/2026-04-24/israel-lebanon-extend-ceasefire-as-trump-seeks-best-deal-with-iran",
+        "clean_url": "https://www.usnews.com/news/world/articles/2026-04-24/israel-lebanon-extend-ceasefire-as-trump-seeks-best-deal-with-iran",
+        "image": null,
+        "timestamp": 1777003560.0
+    },
+    {
+        "title_fa": "جنگ و تحریم‌ها روند «پول ملی‌محور» چین را شتاب می‌دهد؛ پیامد بالقوه برای اقتصاد ایران",
+        "title_en": "War and Sanctions Accelerate China’s Currency Push",
+        "summary": [
+            "گزارش نیویورک‌تایمز بر این محور است که جنگ و تحریم‌ها، چین را به سمت افزایش استفاده از ارز خود در مبادلات بین‌المللی هل می‌دهد؛ یعنی فشارهای خارجی مستقیماً روی معماری جریان‌های ارزی اثر می‌گذارد.",
+            "این تغییر می‌تواند دسترسی بازیگران تحریمی و شرکای منطقه‌ای به شبکه‌های مالی مبتنی بر ارزهای رایج را سخت‌تر کند و فشار بیشتری روی نرخ تبدیل و هزینه مبادله بگذارد؛ نتیجه عملی برای ایران تشدید اختلال در تجارت و تامین مالی است.",
+            "از آنجا که این گزارش «شتاب» در سیاست ارزی چین را به‌واسطه شرایط جنگی و تحریمی توضیح می‌دهد، پیام سیاسی/اقتصادی آن این است که رژیم‌های متکی به کانال‌های مالی شکننده، با بی‌ثباتی بیشتر در قیمت‌ها و نقل‌وانتقال سرمایه روبه‌رو می‌شوند."
+        ],
+        "impact": "اگر ایران نتواند از مسیرهای جدید تجاری و تسویه هم‌ارز بهره ببرد، فشار ارزی و هزینه تامین کالا و انرژی برای اقتصاد بیشتر می‌شود.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZjZTWjJRbUcxZklyS0pvN2NTNFFfcXVJcGRwZ18yMldLamkxeVdIV0N4V3JQZ3N2aVlCcU41YVpocGxwMktmOXlqVVJHSG9uQS1kbmdkOGFpZ2tUazAyTlNqUkZyWWlBcjQ5OWxjVFBwNkdXQnM4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oZjZTWjJRbUcxZklyS0pvN2NTNFFfcXVJcGRwZ18yMldLamkxeVdIV0N4V3JQZ3N2aVlCcU41YVpocGxwMktmOXlqVVJHSG9uQS1kbmdkOGFpZ2tUazAyTlNqUkZyWWlBcjQ5OWxjVFBwNkdXQnM4",
+        "image": null,
+        "timestamp": 1777003216.0
+    },
+    {
+        "title_fa": "ادعای NDTV: ایران «سلاح هسته‌ای» دارد، اما به موشک بالستیک مجهز نیست",
+        "title_en": "The US Was Right: Iran Has A 'Nuclear' Weapon, But It's Not A Missile",
+        "summary": [
+            "NDTV با تکیه به ادبیات آمریکا، مدعی شده ایران به «سلاح هسته‌ای» دست یافته، اما آن را به «موشک» به معنای سامانه پرتاب عملیاتی مرتبط نکرده است.",
+            "این چارچوب، شکاف میان ظرفیت هسته‌ای و توان رسانش (delivery) را برجسته می‌کند؛ یعنی خطر سیاسی-امنیتی وجود دارد، اما نوع تهدید را از «ضربه موشکی» به «توان بالقوه/تجهیزات» تغییر می‌دهد.",
+            "چنین ادعایی معمولاً می‌تواند به تشدید فشارهای دیپلماتیک و پیام‌های بازدارنده از سوی واشنگتن منجر شود، چون مبنای ارزیابی تهدید، گستره‌سازی گزینه‌های رژیم را محدود و در عین حال حساس باقی می‌گذارد."
+        ],
+        "impact": "اگر این گزاره‌ها مبنای گزارش‌های اطلاعاتی باشند، محتوای تهدید از موشکی به هسته‌ایِ تجهیزاتی منتقل می‌شود و احتمال فشار خارجی و محاسبات سخت‌تر امنیتی افزایش می‌یابد.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "NDTV",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXBCdWc3dHc1VTVzQlJOX2JZRkx3cUNQRjk2VnI0ajk3THlIUnVrWXVMMDB1TDlyeHBFMnVoREctcjJQclY2OGRjUnRsRktFX3VQNmRCV2l2OWhDR0tvQ1VPOXBxUzJmMW4wdVNxT05vX2EwaG1RSnBXSXNHdkFoMWtkRkhoU2VCNV9Bc25JbkUxeGJyQUM4dy0wVVFPb1RYVUo3NGhVaV9CT05DZ21kWFV0NV9sMk9POGFLRWd4dw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWXBCdWc3dHc1VTVzQlJOX2JZRkx3cUNQRjk2VnI0ajk3THlIUnVrWXVMMDB1TDlyeHBFMnVoREctcjJQclY2OGRjUnRsRktFX3VQNmRCV2l2OWhDR0tvQ1VPOXBxUzJmMW4wdVNxT05vX2EwaG1RSnBXSXNHdkFoMWtkRkhoU2VCNV9Bc25JbkUxeGJyQUM4dy0wVVFPb1RYVUo3NGhVaV9CT05DZ21kWFV0NV9sMk9POGFLRWd4dw",
+        "image": null,
+        "timestamp": 1777001804.0
+    },
+    {
+        "title_fa": "افزایش نفت به بالای ۱۰۶ دلار در بحبوحه بن‌بست آمریکا و ایران در تنگه هرمز",
+        "title_en": "Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
+        "summary": [
+            "بر اساس گزارش الجزیره، قیمت نفت با وجود بن‌بست آمریکا و ایران بر سر تنگه هرمز از مرز ۱۰۶ دلار عبور کرد؛ نشانه‌ای از افزایش ریسک ژئوپلیتیک در مسیرهای حیاتی صادرات انرژی.",
+            "بن‌بست طرفین در تنگه هرمز به‌عنوان عامل اصلی نوسان بازار مطرح شده و بازار را نسبت به احتمال اختلال در حمل‌ونقل دریایی حساس‌تر کرده است.",
+            "این وضعیت فشار مستقیم بر اقتصاد مصرف‌کنندگان و هزینه‌های انرژی در منطقه و بازار جهانی وارد می‌کند، اما متن خبر تمرکز را بر اثرگذاری ریسک و عدم توافق گذاشته است."
+        ],
+        "impact": "بالا رفتن نفت ناشی از بن‌بست در تنگه هرمز می‌تواند هزینه واردات انرژی و فشار تورمی را تشدید کند و بی‌ثباتی را به اقتصادهای منطقه‌ای منتقل سازد.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz/ar-AA21BnUr",
+        "clean_url": "https://www.msn.com/en-us/news/world/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz/ar-AA21BnUr",
+        "image": null,
+        "timestamp": 1776999089.0
+    },
+    {
         "title_fa": "ترامپ استفاده از سلاح هسته‌ای علیه ایران را رد کرد؛ همزمان «کشتن و انهدام» مین‌گذارها و تشدید عملیات دریایی مطرح شد",
         "title_en": "Trump appears to rule out using nuclear weapons against Iran",
         "summary": [
@@ -108,6 +180,24 @@
         "timestamp": 1776976253.0
     },
     {
+        "title_fa": "حمله و توقیف نفتکش پرچم‌دار ایرانی؛ هشدار ایران به پاسخ و ادعای ترامپ درباره «فشار زمانی»",
+        "title_en": "Iran live updates: Trump says no 'time pressure' to secure deal",
+        "summary": [
+            "به گزارش ABC7 Chicago، آمریکا یک کشتی با پرچم ایران را هدف قرار داده و توقیف کرده؛ ادعا شده این کشتی یک «محاصره/بلوکه دریایی» را نزدیک تنگه هرمز دور زده است.",
+            "در همان ادامه، «ایران نظامی» وعده پاسخ داده است؛ یعنی این رویداد در حال تبدیل شدن به یک شکاف خطرناک در سطح تقابل دریایی است، نه یک حادثه محدود.",
+            "هم‌زمان، ترامپ گفته است برای رسیدن به توافق «فشار زمانی» وجود ندارد؛ این گزاره با وجود تشدید تنش عملی در تنگه هرمز، نشان می‌دهد مدیریت بحران و معامله سیاسی هم‌پوشانی کامل ندارند."
+        ],
+        "impact": "توقیف یک کشتی در تنگه هرمز همراه با وعده پاسخ ایران، ریسک اشتباه محاسباتی و تشدید درگیری دریایی را بالا می‌برد.",
+        "tag": "تنش_دریایی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ABC7 Chicago",
+        "url": "https://abc7chicago.com/live-updates/iran-war-straight-hormuz-ceasefire-trump-israel-lebanon/18927353/",
+        "clean_url": "https://abc7chicago.com/live-updates/iran-war-straight-hormuz-ceasefire-trump-israel-lebanon/18927353",
+        "image": "http://www.bing.com/th?id=ONUT.aw6XKJq3Q1y6_Ts9sAnDpg&pid=News",
+        "timestamp": 1776976140.0
+    },
+    {
         "title_fa": "اظهار ترامپ درباره عدم استفاده از سلاح هسته‌ای در جنگ علیه ایران",
         "title_en": "Trump says US will not use nuclear weapon in Iran war",
         "summary": [
@@ -178,6 +268,24 @@
         "clean_url": "https://www.newyorker.com/news/letter-from-trumps-washington/trump-and-the-iran-deal-that-wasnt",
         "image": null,
         "timestamp": 1776973093.0
+    },
+    {
+        "title_fa": "در بن‌بست مذاکرات صلح و بی‌زمانیِ خروج آمریکا از جنگ، نبردِ فرسایشی اقتصاد آغاز می‌شود",
+        "title_en": "Who will blink first as the Iran war hits the world economy?",
+        "summary": [
+            "طبق گزارش CNN، مذاکرات صلح میان ایران و آمریکا متوقف شده و ترامپ هیچ چارچوب زمانی برای پایان جنگ ارائه نکرده؛ بنابراین جنگ وارد فاز فرسایشی می‌شود و رقابت بر سر «توان تحمل» طرف‌ها شکل می‌گیرد.",
+            "CNN این پرسش را برجسته می‌کند که چه بازیگری می‌تواند هزینه‌های اقتصادی ناشی از جنگ را برای مدت طولانی‌تری تحمل کند؛ یعنی فشار اقتصادی به‌عنوان اهرم تصمیم‌سازی ظاهر شده است.",
+            "ادعای کلیدی متن این است که وقتی صلح زمان‌بندی نمی‌شود، اقتصاد جهانی و اقتصادهای درگیر ناگزیر با شوک‌های استمرار جنگ مواجه می‌شوند، اما مشخص نمی‌کند کدام کشور/بخش دقیقاً تحت چه اقدام مشخصی قرار گرفته است."
+        ],
+        "impact": "نبودِ مسیر روشن برای پایان جنگ، ریسک ادامه شوک‌های اقتصادی و تصمیم‌های واکنشی (تحمل، عقب‌نشینی تاکتیکی یا تشدید فشار) را بالا می‌برد.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.35,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/news/world/who-will-blink-first-as-the-iran-war-hits-the-world-economy/ar-AA21AcQq",
+        "clean_url": "https://www.msn.com/en-us/news/world/who-will-blink-first-as-the-iran-war-hits-the-world-economy/ar-AA21AcQq",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/9629647.jpg?c=16x9&q=w_800,c_fill",
+        "timestamp": 1776972932.0
     },
     {
         "title_fa": "درگیری‌های دریایی در تنگه هرمز؛ اتهام «دزدی دریایی» توسط سپاه و هشدار درباره حجم بالای موشک‌ها",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPalNBN3IycGJDQldYV0F6LWc4dGtBQjRNbC1FTVR5ZlpkYTVmeFp6QTY3a1BvNWxOelFNS3YyRVEzTE9WV0tzREdyYWwyZ1B2S0xkTE13T2F2elIzM2o3LWJGbnMybHMxUUxtNnE0LVZNODZMeU1PWjE5NVJDX29zZFJOamV5WmZvaTcwUXdnVDVQbHBqZWJfQ0ZjSXVOUlVUcklRNDI1MnppVDVDbEFqdXU0TDhmekRtTllyWA",
         "image": null,
         "timestamp": 1776597818.0
-    },
-    {
-        "title_fa": "آماده‌سازی مذاکره صلح آمریکا در کنار تکرار تهدیدهای ترامپ علیه ایران (NPR)",
-        "title_en": "U.S. negotiators prepare for more peace talks as Trump repeats threats to Iran",
-        "summary": [
-            "طبق NPR، تیم مذاکره‌کننده آمریکا برای دورهای تازه گفت‌وگو درباره «صلح» آماده می‌شود، در حالی که دونالد ترامپ هم‌زمان تهدیدهای تکراری علیه ایران را مطرح می‌کند.",
-            "این ترکیبِ «مسیر مذاکره» با «فشار تهدیدمحور» یعنی سناریوی فشار سیاسی هم‌زمان با چانه‌زنی؛ هدف، ایجاد برگ برنده از طریق اهرم خارجی است نه اعتمادسازی.",
-            "از متن گزارش، جزئیات تحریم‌های جدید یا اقدام عملی مشخص علیه دارایی‌های رژیم بیان نشده، بنابراین اثر فوریِ قابل اتکا در همین خبر بیشتر در سطح پیام تهدید و روند مذاکره باقی می‌ماند."
-        ],
-        "impact": "این خبر نشان می‌دهد محور سیاست آمریکا همچنان ترکیبی از مذاکره و تهدید است و می‌تواند فضای تصمیم‌گیری در تهران را با ریسک محاسبات غلط و تشدید تنش روانی تحت فشار بگذارد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbk5mXzgxTWJva2VURFpWRDhSRDZ0YTBZdE93cFRpeTBxMFNKam9qaTAwczc2UXNManRaNEhmMEx0U2Q2d2xLc3JEbW1WcEVZYl9xS2dKQ2lYaFI5ZVVBeHlvV3U1Y3QyTU5HY21yREVmUDlab0VaYWlpQmFESnhCZ2NOUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbk5mXzgxTWJva2VURFpWRDhSRDZ0YTBZdE93cFRpeTBxMFNKam9qaTAwczc2UXNManRaNEhmMEx0U2Q2d2xLc3JEbW1WcEVZYl9xS2dKQ2lYaFI5ZVVBeHlvV3U1Y3QyTU5HY21yREVmUDlab0VaYWlpQmFESnhCZ2NOUQ",
-        "image": null,
-        "timestamp": 1776597157.0
-    },
-    {
-        "title_fa": "انقضای آتش‌بس آمریکا-ایران این هفته؛ بدون توافق در افق",
-        "title_en": "U.S.-Iran ceasefire expires this week with no deal in sight",
-        "summary": [
-            "طبق گزارش NPR، آتش‌بس میان آمریکا و ایران که قرار است این هفته پایان یابد، بدون رسیدن به توافق جدید رو به انقضاست.",
-            "نبود «راه‌حل» یا «توافق در دسترس» نشان می‌دهد کانال‌های مذاکره به خروجی عملی نرسیده‌اند و سطح عدم‌قطعیت امنیتی بالا می‌ماند.",
-            "از منظر فشار خارجی، نزدیک شدن به پایان آتش‌بس می‌تواند اهرم‌های تنش‌زایی و ریسکِ بازگشت اقدامات متقابل را افزایش دهد؛ اما تا زمانی که خبری از توافق یا توافق‌نامه مشخص منتشر نشده، اثر آن بیشتر به شکل «تهدید ساختاری» بر ثبات محاسباتی رژیم عمل می‌کند."
-        ],
-        "impact": "با انقضای آتش‌بس و نبود توافق، احتمال تشدید تنش و ازسرگیری چرخه فشارهای متقابل بین آمریکا و ایران افزایش پیدا می‌کند.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
-        "clean_url": "https://www.npr.org/2026/04/19/nx-s1-5790378/iran-us-hormuz-closed-impossible",
-        "image": null,
-        "timestamp": 1776597157.0
-    },
-    {
-        "title_fa": "آتش‌بس لبنان و اسرائیل اجرایی شد",
-        "title_en": "Lebanon-Israel Cease-Fire Goes Into Effect",
-        "summary": [
-            "بر اساس گزارش نیویورک‌تایمز، آتش‌بس میان لبنان و اسرائیل وارد فاز اجرایی شده است؛ یعنی یک توقف عملیاتی میان طرفین که مستقیماً بر شدت درگیری‌های مرزی اثر می‌گذارد.",
-            "این رخداد یک تغییر میدانیِ سریع تلقی می‌شود و می‌تواند مسیر محاسبات امنیتی بازیگران منطقه‌ای را عوض کند، چون ادامه یا توقف تبادل آتش معمولاً روی سطح فشار و هزینه جنگ اثر می‌گذارد.",
-            "با توجه به محدودیت متن ارائه‌شده، جزئیات درباره زمینه سیاسی آتش‌بس، زمان‌بندی، نظارت و میزان تعهد طرف‌ها در گزارش حاضر مشخص نیست و نمی‌توان فراتر از «شروع آتش‌بس» تحلیل قطعی ارائه داد."
-        ],
-        "impact": "اجرایی شدن آتش‌بس به‌طور فوری ریسک تشدید درگیری‌های مستقیم را کاهش می‌دهد، اما تا روشن شدن سازوکارها و دوام آن نمی‌توان اثر پایدار را سنجید.",
-        "tag": "آتش‌بس",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-cease-fire.html",
-        "clean_url": "https://www.nytimes.com/2026/04/16/world/middleeast/israel-lebanon-cease-fire.html",
-        "image": null,
-        "timestamp": 1776596347.0
-    },
-    {
-        "title_fa": "اعزام هیئت ترامپ به پاکستان برای دور تازه گفت‌وگو درباره جنگ ایران؛ همزمان با تشدید فشار بر زیرساخت‌ها",
-        "title_en": "Trump sends delegation to Pakistan for possible new round of Iran war talks",
-        "summary": [
-            "هیئت نمایندگی ترامپ قرار است دوشنبه به پاکستان بازگردد؛ این بار با تمرکز بر گفت‌وگو برای پایان جنگ آمریکا-اسرائیل علیه ایران، درست قبل از پایان یک آتش‌بس شکننده تا چهارشنبه. ترکیب هیئت شامل JD Vance، استیو ویتکوف و جرد کوشنر است.",
-            "تنش هم‌زمان با تصمیم ایران برای بازتعریف محدودیت‌های سخت در ترانزیت کشتی‌های تجاری در تنگه هرمز رخ داده؛ تصمیمی که توافقِ کوتاه‌مدت برای بازگشایی را معکوس کرد، در حالی که آمریکا به لغو «محاصره/مسدودسازی دریایی» تن نداده و همین موجب جهش قیمت نفت شده است.",
-            "ترامپ هم‌زمان با تهدید مستقیم علیه ایران، از احتمال اقدام علیه «نیروگاه‌ها و پل‌ها» در صورت نپذیرفتن توافق سخن گفته و گفت نشست‌ها در اسلام‌آباد «آخرین فرصت» است؛ هم‌زمان طرف ایرانی اعلام می‌کند شکاف زیاد است و امید روشنی به مذاکره «بَرخیز» دیده نمی‌شود."
-        ],
-        "impact": "ترکیب تهدید زیرساختی، فشار دریایی بر هرمز و نزدیک‌شدن به پایان آتش‌بس شکننده احتمال تشدید فوری و پرهزینه‌تر جنگ را بالا می‌برد.",
-        "tag": "ایران‌هُرمز",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks",
-        "clean_url": "https://www.theguardian.com/world/2026/apr/19/trumps-sends-delegation-to-pakistan-for-possible-new-round-of-iran-war-talks",
-        "image": null,
-        "timestamp": 1776593160.0
-    },
-    {
-        "title_fa": "ترامپ: ازسرگیری مذاکرات با تهدید حمله به نیروگاه‌ها و پل‌ها در صورت نبود توافق",
-        "title_en": "Trump says Iran talks will resume, threatens power plants and bridges if no deal",
-        "summary": [
-            "ترامپ اعلام کرد نمایندگان آمریکا این هفته برای ازسرگیری مذاکرات با ایران بازمی‌گردند، اما هم‌زمان ایران را به نقض آتش‌بس متهم کرد.",
-            "در حالی که گزارش‌هایی از حمله در تنگه هرمز مطرح شده، ترامپ از «اقدامات بازدارنده» سخن گفت و به‌طور مشخص تهدید کرد اگر توافقی حاصل نشود، نیروگاه‌ها و پل‌ها هدف قرار خواهند گرفت.",
-            "این پیام در کنار گزارش حمله‌های منتسب به درگیری در مسیرهای دریایی، نشان می‌دهد واشینگتن از کانال مذاکره به‌عنوان پوشش برای فشار فوری امنیتی استفاده می‌کند."
-        ],
-        "impact": "ترکیب تهدید مستقیم علیه زیرساخت‌های غیرنظامی با بازگشت سریع به میز مذاکره، ریسک تشدید تنش در تنگه هرمز و فشار سیاسی-امنیتی بر تصمیم‌گیری ایران را بالا می‌برد.",
-        "tag": "مذاکره",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/04/19/trump-iran-war-hormuz-strait-negotiations/",
-        "clean_url": "https://www.washingtonpost.com/world/2026/04/19/trump-iran-war-hormuz-strait-negotiations",
-        "image": "http://www.bing.com/th?id=ONUT.GfsuLyFiOPg7_PAymGogoQ&pid=News",
-        "timestamp": 1776592680.0
-    },
-    {
-        "title_fa": "زلنسکی از تمدید معافیت تحریم‌های روسیه توسط آمریکا انتقاد کرد",
-        "title_en": "Zelensky condemns US extension of Russian sanctions waiver",
-        "summary": [
-            "ولودیمیر زلنسکی تمدید معافیت تحریم‌های روسیه توسط آمریکا را محکوم کرد و آن را در چارچوب فشار مؤثر بر مسکو نادرست خواند.",
-            "این اقدام آمریکا، از منظر سیاسی پیام «تداوم شکاف در اجماع فشار» علیه روسیه می‌دهد و می‌تواند بر هماهنگی بین جنگ‌طلبی اوکراین و خط تحریمی غرب اثر بگذارد.",
-            "با وجود محکومیت زلنسکی، متن خبر فقط به اقدام تحریمی آمریکا و واکنش او بسنده می‌کند و درباره جزئیات اجرایی، شدت یا دامنه رفع تحریم‌ها اطلاعات جدیدی ارائه نمی‌دهد."
-        ],
-        "impact": "تمدید معافیت می‌تواند کارایی فشار خارجی را کاهش دهد و در نتیجه بر فشار اقتصادی و سیاسی علیه روسیه اثر منفی بگذارد.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DU01OOWZiNl9sNFBBczNxVFRZY25Sd1dlZkdXWkMtSnp3WjlreWdydU5pZVpUQXFjZ3hYZEN3NXdmdDl1U1g4VlpRVGkxQmFLY1dHV3RlYWVVdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DU01OOWZiNl9sNFBBczNxVFRZY25Sd1dlZkdXWkMtSnp3WjlreWdydU5pZVpUQXFjZ3hYZEN3NXdmdDl1U1g4VlpRVGkxQmFLY1dHV3RlYWVVdw",
-        "image": null,
-        "timestamp": 1776592522.0
     }
 ]
