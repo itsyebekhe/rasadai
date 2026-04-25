@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "محاصره دریایی آمریکا ایران را به بحران ذخیره نفت، گرانی و بیکاری می‌کشاند",
+        "title_en": "Iran is suffering in a stand off with the US",
+        "summary": [
+            "CNN گزارش می‌دهد آمریکا با «محاصره دریایی» مسیرهای اصلی اقتصادی ایران را تنگ کرده و کانال‌های صادرات/تجارت را دچار اختلال جدی کرده است.",
+            "نتیجه مستقیم این فشار، نزدیک شدن تهران به «بحران ذخیره‌سازی نفت» است؛ یعنی حتی اگر تولید ادامه داشته باشد، امکان تبدیل به درآمد از مسیرهای اقتصادی محدود می‌شود.",
+            "هم‌زمان مردم با «افزایش قیمت غذا» و «رشد بیکاری» مواجه‌اند که نشان می‌دهد اثر فشار خارجی از اقتصاد رسمی عبور کرده و به سطح معیشت و اشتغال رسیده است."
+        ],
+        "impact": "محاصره دریاییِ فشارزا نه‌تنها ظرفیت فروش نفت را می‌بُرد، بلکه از مسیر تورم غذایی و بیکاری، فرسایش اجتماعی و بی‌ثباتی اقتصادی را تشدید می‌کند.",
+        "tag": "تحریم-فشار",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/news/world/iran-is-suffering-in-a-stand-off-with-the-us-but-may-be-betting-trump-will-blink-first/ar-AA21IbG2",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-is-suffering-in-a-stand-off-with-the-us-but-may-be-betting-trump-will-blink-first/ar-AA21IbG2",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-04-20t145733z-39197522-rc20tka9zu4j-rtrmadp-3-iran-crisis.JPG?c=16x9&q=w_800,c_fill",
+        "timestamp": 1777126593.0
+    },
+    {
         "title_fa": "نگاه سپاه به «پیروزی» و چرا تهران از پذیرش صلح عقب‌نشینی نمی‌کند",
         "title_en": "The IRGC thinks it’s having a good war. Why accept peace?",
         "summary": [
@@ -126,6 +144,24 @@
         "timestamp": 1777108020.0
     },
     {
+        "title_fa": "وزیر خارجه ایران اسلام‌آباد را ترک کرد؛ گزارش‌ها از بی‌ملاقاتی با نمایندگان آمریکا می‌گویند",
+        "title_en": "Live updates: Iran’s foreign minister leaves Islamabad without meeting US envoys, Pakistan officials say",
+        "summary": [
+            "بر اساس گزارش مقام‌های پاکستانی، وزیر خارجه ایران اسلام‌آباد را ترک کرده و در جریان این سفر با نمایندگان آمریکا دیدار نکرده است.",
+            "این رخداد در چارچوب تنش‌های جاری ایران و آمریکا رخ می‌دهد و نشان می‌دهد کانال‌های دیپلماتیک همزمان در سطح عملیاتی بسته یا به‌صورت محدود مدیریت شده‌اند.",
+            "برای پاکستان نیز این وضعیت یک آزمون دشوار است، چون پیام ضمنی آن، کاهش احتمال میانجی‌گری مؤثر میان طرف‌های تهران و واشنگتن در کوتاه‌مدت است."
+        ],
+        "impact": "عدم دیدار با نمایندگان آمریکا عملاً پیام سیاسیِ تشدید تنش و محدود شدن مسیر گفت‌وگو را تقویت می‌کند، بدون اینکه در متن گزارش جزئیات تصمیمات یا کانال‌های جایگزین مشخص شده باشد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-25-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-25-2026",
+        "image": "http://www.bing.com/th?id=ONUT.w1qXGT394S98XfGQgjFdZQ&pid=News",
+        "timestamp": 1777104480.0
+    },
+    {
         "title_fa": "هم‌زمان با اعزام ناوهای بیشتر آمریکا، اسرائیل به‌رغم آتش‌بس در لبنان حمله هوایی انجام می‌دهد و خط ارتباطی هرمز «حیاتی» خوانده می‌شود",
         "title_en": "US-Iran War: Israel Conducts Airstrikes in Lebanon Despite Ceasefire, EU Says Reopening Hormuz 'Vital' Amid Stalled Talks",
         "summary": [
@@ -160,6 +196,24 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/us-negotiators-to-go-to-islamabad-but-iran-says-no-direct-talks/ar-AA21GTfS",
         "image": null,
         "timestamp": 1777102608.0
+    },
+    {
+        "title_fa": "آرقچی در پاکستان: ایران «خواسته‌های حداکثری» آمریکا را نمی‌پذیرد",
+        "title_en": "Iran says it will not accept 'maximalist' US demands as Pakistan pursues peace",
+        "summary": [
+            "عباس آرقچی، وزیر امور خارجه ایران، در جریان میزبانی پاکستان از تلاش جدید برای پایان جنگی که هزاران کشته داده، اعلام کرد ایران «خواسته‌های حداکثری» آمریکا را نمی‌پذیرد و چارچوب خود را از الزامات قابل قبول مشخص کرد.",
+            "آرقچی هم‌زمان «تردیدها/اعتراض» ایران نسبت به مواضع آمریکا را مطرح کرد که نشان می‌دهد شکاف تهران-واشینگتن در محتوای توافق همچنان محور مذاکرات است، نه صرفاً سازوکار گفت‌وگو.",
+            "این اظهارات در بستر تلاش اسلام‌آباد برای پیشبرد روند صلح بیان شد و عملاً نشان می‌دهد توافق احتمالی نیازمند هم‌راستاسازی شروط ایران با خواسته‌های طرف مقابل—به‌ویژه آمریکا—است، وگرنه روند صلح در همان مرحله سیاسی گیر می‌کند."
+        ],
+        "impact": "اختلاف روشن بر سر سطح مطالبات آمریکا و شروط ایران می‌تواند سرعت شکل‌گیری توافق را کم کند و روند «صلح» را به مذاکرات فرسایشی بکشد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/us-negotiators-go-islamabad-iran-says-no-direct-talks-2026-04-25/",
+        "clean_url": "https://www.reuters.com/world/middle-east/us-negotiators-go-islamabad-iran-says-no-direct-talks-2026-04-25",
+        "image": "http://www.bing.com/th?id=ONUT.mCZNtsAOE37qFlgVJKLKug&pid=News",
+        "timestamp": 1777101720.0
     },
     {
         "title_fa": "گزارش NBC News: پوشش کلی از «درگیری‌های خاورمیانه» بدون جزئیات قابل اتکا",
@@ -322,6 +376,24 @@
         "clean_url": "https://www.wsj.com/livecoverage/iran-war-us-trump-2026/card/iran-is-open-to-u-s-talks-but-insists-on-nuclear-enrichment-senior-diplomat-says-vJS9sI1YHhyRHJuHUap7",
         "image": "http://www.bing.com/th?id=ONUT.1fhgh-EjfEKFfZZIK5PvTw&pid=News",
         "timestamp": 1777090200.0
+    },
+    {
+        "title_fa": "آرازغچی پاکستان را ترک کرد؛ بدون دیدار با فرستادگان آمریکا برای مذاکرات غیرمستقیم",
+        "title_en": "Iran's foreign minister leaves Islamabad without meeting US envoys, Pakistan officials say",
+        "summary": [
+            "عباس آرازغچی، وزیر خارجه ایران، عصر شنبه پاکستان را ترک کرد و دو مقام پاکستانی گفتند هنوز نشانه‌ای از حضور فرستادگان آمریکا برای گفت‌وگوهای غیرمستقیم دیده نشده بود.",
+            "آرازغچی در اسلام‌آباد با اسیم منیر، رئیس ارتش پاکستان، و شهباز شریف، نخست‌وزیر پاکستان، دیدار کرد و درباره «خطوط قرمز» تهران برای مذاکرات سخن گفت و اعلام کرد تا رسیدن به نتیجه با تلاش میانجی‌گری پاکستان تعامل می‌کند.",
+            "زمان ورود فرستادگان دولت دونالد ترامپ، استیو ویتکاف و جرد کوشنر، نامشخص بود و کاخ سفید هم اظهارنظر نکرد؛ در عین حال، محیط امنیتی گسترده‌ای برای روند احتمالی گفت‌وگوها گزارش شده بود."
+        ],
+        "impact": "ترک زودهنگام آرازغچی و عدم روشن بودن زمان‌بندی حضور هیئت آمریکا، ریسک توقف یا طولانی شدن مذاکرات بر سر آتش‌بس را بالا می‌برد و به تداوم فشار اقتصادی ناشی از اختلال در صادرات از تنگه هرمز دامن می‌زند.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/trump-sends-envoys-islamabad-iran-041306488.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-sends-envoys-islamabad-iran-041306488.html",
+        "image": "http://www.bing.com/th?id=ONUT.eWA4qBc8bEuRDkrf_t7HYA&pid=News",
+        "timestamp": 1777089360.0
     },
     {
         "title_fa": "چرا مهار نفوذ ایران در تنگه هرمز سخت است",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMkhTWmI1YVBZallrT0w2ZjYzMlh6YnY3dzhPR1BIcEt2X2lIUnFDQU9GSjlFVFR1WTQ1Z1NRVmgyb3Atc3NWclNMYVRaak52M0JSMnJ0RzJrZmw3Nzh0aDJUV2JpQ0syWmZjeEZkQzVOdkVDNDRJNG5BVnB6YmtzSjBReS1PT2FCUmlMWg",
         "image": null,
         "timestamp": 1776762000.0
-    },
-    {
-        "title_fa": "بقای ساختار رهبری پس از حمله آمریکا-اسرائیل؛ مذاکرات پایان جنگ چالش جدیدی برای ایران می‌سازد",
-        "title_en": "Iran’s leadership survived US-Israeli bombardment. But talks to end the war present a new challenge",
-        "summary": [
-            "گزارش می‌گوید پس از بمباران آمریکا-اسرائیل که «رهبری عالی» را هدف گرفت و به کشته شدن رهبر برتر انجامید، نظام فرو نپاشید؛ اما اکنون مشخص نیست فرماندهی واقعی در غیاب رهبریِ قابل مشاهده چگونه اعمال می‌شود، به‌ویژه با ابهام درباره نقش پسرِ جانشین و گزارش‌های زخمی‌شدن او.",
-            "طبق گزارش، مرکز تصمیم‌گیری فعلی به «شورای عالی امنیت ملی» شبیه یک هیئت سیاسی-امنیتی معرفی می‌شود که شامل ارکان عالی غیرنظامی و نظامی است؛ محمدباقر قالیباف، رئیس مجلس، به‌عنوان چهره اصلی و مذاکره‌کننده اصلی با آمریکا دیده می‌شود و وحدت موقت از طریق موضع‌گیری سخت‌گیرانه شکل گرفته است.",
-            "بخش اصلیِ ریسک، اختلاف بر سر «میزان امتیازدهی» در مذاکرات برای پایان جنگ است؛ میانجی‌های پاکستانی قرار است یک دور جدید گفت‌وگو را این هفته میزبانی کنند و وجود «رivalries» و اختلاف‌نظرهای درونی در شورای یادشده می‌تواند شکاف‌ها را در لحظه مذاکره آشکار کند."
-        ],
-        "impact": "در کوتاه‌مدت تمرکز قدرت در شورای عالی امنیت ملی انسجام ایجاد کرده، اما روند مذاکره می‌تواند وحدت شکننده کنونی را به بحران تصمیم‌گیری تبدیل کند.",
-        "tag": "مذاکره",
-        "urgency": 9,
-        "sentiment": -0.4,
-        "source": "The Baltimore Sun",
-        "url": "https://www.baltimoresun.com/2026/04/21/who-runs-iran/",
-        "clean_url": "https://www.baltimoresun.com/2026/04/21/who-runs-iran",
-        "image": "http://www.bing.com/th?id=ONUT.14jopmAqSXorbu2zZhmCpg&pid=News",
-        "timestamp": 1776760440.0
-    },
-    {
-        "title_fa": "تهدیدهای متقابل آمریکا و ایران همزمان با نزدیک‌شدن پایان آتش‌بس شکننده",
-        "title_en": "US, Iran exchange threats as fragile ceasefire set to expire",
-        "summary": [
-            "طبق گزارش، آمریکا و ایران در آستانه پایان آتش‌بس شکننده به شکل متقابل تهدیدهایی را مطرح کرده‌اند؛ یعنی وضعیت فعلی بدون ضمانت جدی برای تمدید پایدار است.",
-            "این چرخه تهدیدها نشان می‌دهد که هر دو طرف از ابزار فشار سیاسی/امنیتی برای مهار دیگری استفاده می‌کنند، اما چون آتش‌بس «موقت و شکننده» توصیف شده، احتمال بازگشت تنش بالا است.",
-            "با توجه به اینکه سرخط خبر روی «انقضا» تمرکز دارد، محور اصلی سناریو آینده تشدید ناگهانی در لحظه پایان توافق است، نه حل اختلافات ریشه‌ای."
-        ],
-        "impact": "انقضای قریب‌الوقوع آتش‌بس احتمال لغزش به درگیری‌های جدید را افزایش می‌دهد و ریسک بی‌ثباتی منطقه‌ای را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTlDTzJnb1lnMUZqZ0Q1UkptUXhYajhFNExjOHYzUUtEdFI5T09lM3g1NlpydFBnaFpGbENscnhrWlRob2RudTl0cUZBNnZiYnV6Z0hQbDVJNzdxN0tNOGZwLTBZRC01cXg1cGZtcHNaNGpibDV2Tl91M0ZmcFJxYmxTX1VZcUk2YW5JaXducWk4cnFjQlVBWnFUQzBPbHprSXNkR3hZZ9IBrAFBVV95cUxQWERRMlBlZUZEeDkyODBDWHdBN3dVWmZ1X20yVGhuMTdJX2ZEanhpS1R2RDFjLWlpOFYzQnZaUE5PeGI2NG9fS0JDanA2WkdUY09fQ2Z2TFlLcXRtenRWN0NvSFpUU0VXS1pXMUFIOE9kQ1dmSjh5RkNXOVZkSTZUYVRuclZtOUxzMGp2QWFTS1d0VHhxVF91LTNPMGJicHA1LXdvejNmeDBiR3d5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUTlDTzJnb1lnMUZqZ0Q1UkptUXhYajhFNExjOHYzUUtEdFI5T09lM3g1NlpydFBnaFpGbENscnhrWlRob2RudTl0cUZBNnZiYnV6Z0hQbDVJNzdxN0tNOGZwLTBZRC01cXg1cGZtcHNaNGpibDV2Tl91M0ZmcFJxYmxTX1VZcUk2YW5JaXducWk4cnFjQlVBWnFUQzBPbHprSXNkR3hZZ9IBrAFBVV95cUxQWERRMlBlZUZEeDkyODBDWHdBN3dVWmZ1X20yVGhuMTdJX2ZEanhpS1R2RDFjLWlpOFYzQnZaUE5PeGI2NG9fS0JDanA2WkdUY09fQ2Z2TFlLcXRtenRWN0NvSFpUU0VXS1pXMUFIOE9kQ1dmSjh5RkNXOVZkSTZUYVRuclZtOUxzMGp2QWFTS1d0VHhxVF91LTNPMGJicHA1LXdvejNmeDBiR3d5",
-        "image": null,
-        "timestamp": 1776758292.0
-    },
-    {
-        "title_fa": "تداوم آتش‌بس از سوی آمریکا در انتظار پیشنهاد ایران؛ همزمان افزایش اختیارات فرماندهان میدانی در عراق",
-        "title_en": "Live updates: Trump says US is extending ceasefire while awaiting proposal from Iran",
-        "summary": [
-            "طبق گزارش، ترامپ می‌گوید آمریکا آتش‌بس را تمدید می‌کند و منتظر دریافت یک پیشنهاد از ایران است؛ یعنی گره اصلی مذاکرات اکنون به «ارائه پیشنهاد» از طرف ایران وابسته شده است.",
-            "هم‌زمان، به روایت متن منتشرشده، ایران تحت فشارهای جنگ، اختیارات بیشتری به فرماندهان میدانی خود بر نیروهای شبه‌نظامی در عراق داده است؛ نشانه‌ای از بازطراحی کنترل میدانی در شرایط عملیاتی.",
-            "این ترکیبِ «تمدید آتش‌بس» از سوی آمریکا با «تمرکز قدرت عملیاتی در عراق» نشان می‌دهد که توقف یا کاهش تنش در سطح سیاسی ممکن است هم‌زمان با تقویت سازوکار نفوذ و مدیریت میدانی ادامه پیدا کند."
-        ],
-        "impact": "تمدید آتش‌بس بدون روشن شدن پیشنهاد ایران، اهرم فشار سیاسی را برای آمریکا حفظ می‌کند، درحالی‌که افزایش اختیارات فرماندهان میدانی در عراق، توان اثرگذاری رژیم در میدان را تقویت می‌کند.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/live/iran-war-israel-trump-04-21-2026",
-        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-21-2026",
-        "image": "http://www.bing.com/th?id=ONUT.ZhKttCboMabbhgbdeRnFVA&pid=News",
-        "timestamp": 1776757560.0
-    },
-    {
-        "title_fa": "تلاطم جنگ ایران و اثر آن بر قیمت نفت؛ ریسک تنگه هرمز محور جهش‌ها",
-        "title_en": "A timeline of how the Iran war shook oil prices — and what comes next",
-        "summary": [
-            "از آغاز جنگ ایران، بازار نفت با نوسان شدید روبه‌رو شده؛ ریسک‌های عرضه در تنگه هرمز عامل اصلی «پرش‌های» قیمت است.",
-            "این وضعیت به شکل دوره‌های رفت‌وبرگشت سریع قیمت‌ها بروز کرده و به «رویدادهای نوسانی تاریخی» در بازار منجر شده است.",
-            "محرک آینده هم همچنان همین منطق است: هر تشدید یا کاهش نگرانی درباره اختلال در مسیرهای عبور از تنگه هرمز، بلافاصله روی انتظارات عرضه و در نتیجه قیمت اثر می‌گذارد."
-        ],
-        "impact": "افزایش عدم‌قطعیت درباره امنیت کریدور هرمز باعث می‌شود قیمت نفت در کوتاه‌مدت همچنان رفتاری انفجاری و پرهزینه برای برنامه‌ریزی داشته باشد.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CNBC on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/a-timeline-of-how-the-iran-war-shook-oil-prices-and-what-comes-next/ar-AA21oBxY",
-        "clean_url": "https://www.msn.com/en-us/money/markets/a-timeline-of-how-the-iran-war-shook-oil-prices-and-what-comes-next/ar-AA21oBxY",
-        "image": "http://www.bing.com/th?id=ONUT.Ki03E-CN8gpXbS-KN8lCdQ&pid=News",
-        "timestamp": 1776756858.0
     }
 ]
