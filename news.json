@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "واقعیت‌محوری درباره برجام/JCPOA؛ هسته بحث و «هزینه‌های» تشدید تنش طبق متن منتشرشده",
+        "title_en": "Beyond Bias: The Core Facts You Need to Know About the Iran Nuclear Deal (JCPOA) and the True Costs of Conflict.",
+        "summary": [
+            "متن منبع، ادعاهای کلی درباره «هستهٔ حقایق» پیرامون برجام را در کنار بحث «هزینه‌های درگیری» طرح می‌کند، اما در همین بخش از متن، اطلاعات مشخص و قابل‌سنجش (آمار، تصمیمات جدید یا متن رسمی توافق/تغییرات آن) ارائه نشده است.",
+            "به‌جای ورود دقیق به جزئیات برجام، بخش‌های ابتدایی و اطرافِ محتوا بیشتر به موضوعات داخلی آمریکا (ترتیبات انتخاباتی، پرونده‌های قضایی، اختلافات رسانه‌ای) می‌پردازد و ارتباط مستقیمش با وضعیت واقعی برجام در این قطعه قابل پیگیری نیست.",
+            "تنها جمله‌ای که تا حدی مستقیم به ارزیابی ایران اشاره می‌کند، نقل‌قول از «Lt Gen Keith Kellogg» است که می‌گوید «ایران بسیار ضعیف است و باید فشار حفظ شود»؛ این گزاره در چارچوب منطقِ تداوم فشار به‌جای تکیه بر روند توافق‌محور قابل تفسیر است، ولی داده‌ای درباره آثار واقعی آن ارائه نمی‌دهد."
+        ],
+        "impact": "در همین قطعه، برجام بیشتر به‌عنوان چارچوبی برای بحث سیاست فشار معرفی می‌شود و چون جزئیات مستند از تغییرات/تعهدات/پشتوانه تحلیلی نیامده، اثرگذاری عملی آن بر تصمیم‌سازی قابل ارزیابی نیست.",
+        "tag": "برجام",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "The Fulcrum",
+        "url": "https://www.foxnews.com/politics/what-you-need-know-5-key-takeaways-from-trumps-iran-address",
+        "clean_url": "https://www.foxnews.com/politics/what-you-need-know-5-key-takeaways-from-trumps-iran-address",
+        "image": null,
+        "timestamp": 1777112216.0
+    },
+    {
         "title_fa": "ادعای «توافق هسته‌ای بزرگ»؛ احتمال تقویت مسیر رژیم برای بازتولید نفوذ",
         "title_en": "One Big Beautiful Iran Nuclear Deal",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTR5WkFmd3J5WlQwWElhdTBBR0F0dDdlS1pmU0NkYnpyTVhmb0J2elBpSWNrcUpQRjZrd3poZzVvNG96dHg5Zk5GS200S2RqNXFNdlpBRm5TMWVJQjkzUkF6VS11MjdmVlVkNEVkQWVOT3gydm1VN3V6VHlGRGN5YmVCbTVGZG9HT0pvdXByX2ZuYXlkNml3eWlUa1F1ZHVwMkVHQnhLOGVna3V4LVZpT2pFbEhyTVpidFE",
         "image": null,
         "timestamp": 1777092156.0
+    },
+    {
+        "title_fa": "چرا مهار نفوذ ایران در تنگه هرمز سخت است",
+        "title_en": "Why Iran’s grip on the Hormuz Strait will be hard to break",
+        "summary": [
+            "در تهران (میدان انقلاب) شعارهای تهاجمی درباره «بسته ماندن تنگه هرمز» و تبدیل کل خلیج فارس به «حوزه شکار» نشان می‌دهد که سیاست فشار دریایی بخشی از روایت رسمی و قابل‌ارائه عمومی است.",
+            "این پیام‌ها حاکی از آن است که بازدارندگی ایران صرفاً تاکتیکی نیست؛ رژیم روی طولانی‌مدت کردن ابهام و هزینه‌سازی برای عبور و مرور در مسیرهای حساس تجاری حساب می‌کند.",
+            "با توجه به تمرکز متن بر «سخت بودنِ شکستنِ مهار» ایران، مشکل اصلی به‌جای یک اقدام کوتاه‌مدت، به ترکیب ابزارهای نفوذ دریایی، پایداری سیاسیِ پشتیبان این سیاست و تداوم هزینه‌سازی برای طرف‌های مقابل برمی‌گردد."
+        ],
+        "impact": "تا زمانی که حکومت این خط را به‌عنوان سیاست بلندمدت و قابل‌تداوم تبلیغ می‌کند، قطع سریع اهرم فشار آن بر مسیر هرمز از نظر راهبردی دشوار می‌ماند.",
+        "tag": "هرمز",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/defense/5845542-iran-us-strait-standoff/",
+        "clean_url": "https://thehill.com/policy/defense/5845542-iran-us-strait-standoff",
+        "image": "http://www.bing.com/th?id=ONUT.IrZ07om_G3eOCrV8v31bhg&pid=News",
+        "timestamp": 1777086000.0
     },
     {
         "title_fa": "روز ۵۷ جنگ؛ میان بن‌بست مذاکرات، واشینگتن دارایی ۳۴۴ میلیون دلاری کریپتوی مرتبط با ایران را مسدود کرد و فرستادگان آمریکا به پاکستان می‌روند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPR29VWDJZbDJOOEd0SmtIYVBiVXc2SXd1WXRDRXhVblNFOXAtOVA2bTZYcVItZUlnUmh4WGxsNnBURndzR0VqUlhRUHRjTURDc2ZrSC04UE9tZzFaX0ZRcXVRLW95cmFQUGJxS2JrQVY1bnRtTnpVVHh0eVNqUnVrRU53",
         "image": null,
         "timestamp": 1776747900.0
-    },
-    {
-        "title_fa": "نزدیک شدن مهلت آتش‌بس آمریکا–ایران و بلاتکلیفی درباره دور دوم مذاکرات در پاکستان",
-        "title_en": "As US-Iran ceasefire deadline nears, uncertainty hangs over possible talks",
-        "summary": [
-            "با نزدیک شدن زمان پایان یک آتش‌بس دو هفته‌ای، هر دو طرف هشدار داده‌اند که در نبود توافق، آماده از سرگیری درگیری خواهند بود؛ همین مسئله فضای مذاکرات را «نامطمئن» کرده است.",
-            "قرار بود دور دوم گفت‌وگوها در پاکستان برگزار شود؛ نقش تیم آمریکا را JD Vance (معاون رئیس‌جمهور) بر عهده داشته باشد و برای ایران محمدباقر قالیباف (رئیس مجلس) مذاکره‌کننده ارزیابی شده، اما ایران تأیید رسمی برای حضور نداده و وزارت خارجه اعلام کرده «تصمیم نهایی» وجود ندارد.",
-            "پاکستان اعلام کرده هنوز منتظر تأیید درباره حضور ایران است؛ همچنین رسانه‌های محلی/منابع منطقه‌ای از سیگنال‌هایی مبنی بر برگزاری دور دوم خبر داده‌اند، ولی اظهارات رسمی ایران و پاکستان نشان می‌دهد توافق سیاسی هنوز قطعی نشده است."
-        ],
-        "impact": "بلاتکلیفی درباره حضور ایران و شرط‌گذاری متقابل، احتمال ادامه چرخه تنش تا پیش از شکل‌گیری توافق را بالا می‌برد و زمان‌بر شدن مذاکرات می‌تواند به ازسرگیری فوری درگیری منجر شود.",
-        "tag": "مذاکره",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "Pioneer Press",
-        "url": "https://www.twincities.com/2026/04/21/iran-us-talks-pakistan/",
-        "clean_url": "https://www.twincities.com/2026/04/21/iran-us-talks-pakistan",
-        "image": "http://www.bing.com/th?id=ONUT.GwYxMbWXkcmohW2CBl4iCg&pid=News",
-        "timestamp": 1776746520.0
-    },
-    {
-        "title_fa": "ابهام درباره مذاکرات ایران و آمریکا همزمان با نزدیک شدن پایان آتش‌بس",
-        "title_en": "Live updates: Doubt surrounds Iran-US talks as ceasefire is set to expire",
-        "summary": [
-            "گزارش AP بر این محور استوار است که با نزدیک شدن زمان پایان آتش‌بس، احتمال دستیابی به توافق پایدار کاهش یافته و «شک و تردید» نسبت به ادامه مذاکرات بالا رفته است.",
-            "ابهام موجود نشان می‌دهد که شکاف در خواسته‌ها یا سازوکار اجرایی میان طرفین حل نشده و رژیم در آستانه یک پنجره زمانی حساس برای جلوگیری از تشدید تنش قرار گرفته است.",
-            "با فرارسیدن موعد انقضای آتش‌بس، ریسک فعال شدن مجدد چرخه تنش—اعم از فشارهای سیاسی و پیامدهای امنیتی—افزایش می‌یابد و هر توافق احتمالی نیازمند تصمیم‌گیری سریع‌تر از گذشته است."
-        ],
-        "impact": "انقضای قریب‌الوقوع آتش‌بس می‌تواند نااطمینانی و ریسک تشدید را بالا ببرد و فضای تصمیم‌گیری برای طرفین را به سمت اقدامات واکنشی سوق دهد.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5taEZWTnFLWmpxaWVQR0dLOHRLT1A3dDFINmREVjFCRV9ucXdEY1dTRk02aVVnODh0bjB2MHZGRnVWdGhNY2hhdExIQXlSNGJXb1pSamFMUGNMY2hwWHFhS2FveVJGUFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5taEZWTnFLWmpxaWVQR0dLOHRLT1A3dDFINmREVjFCRV9ucXdEY1dTRk02aVVnODh0bjB2MHZGRnVWdGhNY2hhdExIQXlSNGJXb1pSamFMUGNMY2hwWHFhS2FveVJGUFU",
-        "image": null,
-        "timestamp": 1776745892.0
     }
 ]
