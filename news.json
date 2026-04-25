@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ادعای «توافق هسته‌ای بزرگ»؛ احتمال تقویت مسیر رژیم برای بازتولید نفوذ",
+        "title_en": "One Big Beautiful Iran Nuclear Deal",
+        "summary": [
+            "متن به‌صورت کلی فقط با عنوان «One Big Beautiful Iran Nuclear Deal» مطرح شده و جزئیات قابل راستی‌آزمایی درباره مفاد، زمان‌بندی، یا کنترل‌های راستی‌آزمایی ارائه نمی‌کند.",
+            "با توجه به نبود اطلاعات مشخص در گزارش، نمی‌توان گفت چه نوع توافقی مدنظر است یا چه آثار عملی بر برنامه هسته‌ای یا محدودیت‌های رژیم خواهد گذاشت؛ بنابراین ارزیابی مبتنی بر متن فقط به سطح تبلیغاتی/سیاسی عنوان محدود می‌ماند.",
+            "اگر چنین توافقی بدون کنترل‌های سخت و قابل راستی‌آزمایی دنبال شود، اثر محتمل آن برای رژیم می‌تواند کاهش فشار و افزایش امکان ادامه سیاست‌های منطقه‌ای باشد—اما این بخش نیازمند جزئیات بیشتر است که در متن موجود نیست."
+        ],
+        "impact": "در نبود جزئیات، تنها اثر قابل اتکا ارزیابیِ «ریسک سیاسی» است: هر توافق مبهم یا کم‌قدرت می‌تواند مسیر رژیم را برای ادامه فعالیت‌ها هموار کند.",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html",
+        "clean_url": "https://www.nytimes.com/2026/04/21/us/politics/2015-iran-nuclear-deal.html",
+        "image": null,
+        "timestamp": 1777108020.0
+    },
+    {
         "title_fa": "هم‌زمان با اعزام ناوهای بیشتر آمریکا، اسرائیل به‌رغم آتش‌بس در لبنان حمله هوایی انجام می‌دهد و خط ارتباطی هرمز «حیاتی» خوانده می‌شود",
         "title_en": "US-Iran War: Israel Conducts Airstrikes in Lebanon Despite Ceasefire, EU Says Reopening Hormuz 'Vital' Amid Stalled Talks",
         "summary": [
@@ -144,6 +162,24 @@
         "timestamp": 1777086000.0
     },
     {
+        "title_fa": "واکنش تهران به پیشنهاد گفت‌وگو: پروازهای بین‌المللی از تهران از سر گرفته شد، همزمان واشنگتن فرستادگانش را به پاکستان می‌فرستد",
+        "title_en": "Iran war news LIVE: International flights resume from Tehran; Iran FM meets Pak army chief",
+        "summary": [
+            "طبق گزارش، ترامپ تصمیم گرفته است استیو ویتکاف و جرد کوشنر را برای گفت‌وگو با وزیر امور خارجه ایران به پاکستان بفرستد؛ این یعنی واشنگتن مسیر غیرمستقیم را برای کانال‌زنی انتخاب کرده است.",
+            "ایران اعلام کرده گفت‌وگوهای مستقیم برگزار نخواهد کرد؛ در نتیجه هر مذاکره‌ای—اگر شکل بگیرد—احتمالاً از فیلتر واسطه‌های منطقه‌ای عبور می‌کند نه از مسیر مستقیم تهران-واشنگتن.",
+            "همزمان با این تنش دیپلماتیک، خبر از از سرگیری پروازهای بین‌المللی از تهران می‌دهد و همچنین آمده که وزیر امور خارجه ایران با رئیس ستاد ارتش پاکستان دیدار کرده است؛ این ترکیب، نشان‌دهنده تلاش برای مدیریت پیامدهای امنیتی/اقتصادی و حفظ کانال‌های ارتباطی است."
+        ],
+        "impact": "از سرگیری پروازها و دیدارهای منطقه‌ای می‌تواند فشار فوری بر اقتصاد و رفت‌وآمد را کمی کاهش دهد، اما رد گفت‌وگوی مستقیم یعنی بحران به‌صورت کنترل‌شده ادامه دارد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-pakistan-islamabad-talks-donald-trump-abbas-araghchi-peace-negotiations-ceasefire-israel-hormuz-101777081091929.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-pakistan-islamabad-talks-donald-trump-abbas-araghchi-peace-negotiations-ceasefire-israel-hormuz-101777081091929.html",
+        "image": null,
+        "timestamp": 1777084800.0
+    },
+    {
         "title_fa": "یوسی ملمن: ارزیابی جامعه اطلاعاتی اسرائیل از درس‌های غزه، ایران و لبنان",
         "title_en": "Yossi Melman — Israel's Intelligence Community: What Have We Learned From Gaza, Iran, and Lebanon?",
         "summary": [
@@ -160,6 +196,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRGVmaTZYRERRc0U3UkFkVTZYelRObVM5LS1HRDZtVTJYWmlnWGs1eTUzb2RsTTFVd1RzbEJ3UUhXd2gxWjF2WUozMWFlTW4wN1BSNEZjX044MzFZNzI1dmhtS1Y3bDVyWTZYR0N4cWpfU19GS0ktWmJpRlJOcVhCbzNmaVRpUGtCNUI2M0tjN2V3OE1oanRYZC1waVFGWVlwbFpENjZHSXlKTHpMN2N6S3hGUjR2cXpQbGNWYXE3ZTM2dw",
         "image": null,
         "timestamp": 1777082893.0
+    },
+    {
+        "title_fa": "جنگ «مِیم»‌های ایران علیه ترامپ؛ تبلیغاتِ «شلِپاراگندا» برای فرسایش حمایت آمریکا",
+        "title_en": "Iran’s Meme War Against Trump Ushers In a Future of ‘Slopaganda’",
+        "summary": [
+            "در جریان آغاز جنگ آمریکا-اسرائیل با ایران، اکانت‌های مرتبط با تهران ابتدا با پیام‌های احساسی برای جلب همدلی تلاش کردند اما اثرگذاری آن‌ها کم بود؛ سپس تاکتیک عوض شد و ویدیوهای کوتاه انیمیشنی با تمسخر تند ترامپ و بازی‌های تصویری/کلیشه‌ای از او در شبکه‌ها پخش شد.",
+            "این محتوای استهزاآمیز—از نمایش ترامپ به شکل‌های کارتونی (مثل لگو یا شخصیت‌های پاپ‌کالچر) تا آهنگ/ترانه‌های مربوط به «بلاکید» و ادبیات شبکه‌ای نسل Z—به سرعت میلیون‌ها بازدید گرفت و هدفش تضعیف پشتیبانی از آمریکا اعلام شده است.",
+            "کارشناسانِ عملیات نفوذ خارجی می‌گویند این سبک، «فناوری و تاکتیک» قابل تکرار در بحران‌های دیگر و رویدادهای سیاسی بزرگ از جمله انتخابات آینده آمریکا است؛ همچنین ده‌ها حساب وابسته به مقامات و دیپلمات‌های ایرانی محتوای گزنده را بازنشر کرده‌اند و ترامپ را به‌عنوان عامل خون‌خواهی یا مهره بی‌اختیار نتانیاهو تصویر می‌کنند (در برخی موارد همراه با اشاره‌هایی که به کلیشه‌های یهودستیزانه نزدیک می‌شود)."
+        ],
+        "impact": "این جابه‌جایی از پیام‌سازی صرف به تبلیغات سرگرم‌کننده و ویروسی نشان می‌دهد تهران برای فرسایش نفوذ آمریکا از جنگ روانیِ کم‌هزینه اما پرسرعت استفاده می‌کند، بدون اینکه لزوماً به تغییر مستقیم میدانی منجر شود.",
+        "tag": "نفوذ",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/interactive/2026/04/25/business/iran-trump-israel-war-memes.html",
+        "clean_url": "https://www.nytimes.com/interactive/2026/04/25/business/iran-trump-israel-war-memes.html",
+        "image": "http://www.bing.com/th?id=ONUT.ZxbGViOmRGuK_AaskhKBxA&pid=News",
+        "timestamp": 1777082520.0
+    },
+    {
+        "title_fa": "ابهام در مذاکرات ایران-آمریکا؛ اعزام نمایندگان آمریکا به پاکستان بدون «مذاکره مستقیم» با ایران",
+        "title_en": "Live updates: U.S. envoys heading to Pakistan with uncertainty over Iran talks",
+        "summary": [
+            "ایران اعلام کرده برنامه‌ای برای گفت‌وگوی مستقیم با هیأت آمریکایی که قرار است در پاکستان حضور داشته باشد وجود ندارد؛ هیأت تحت رهبری استیو ویتکوف و جرد کوشنر است.",
+            "NBC News وضعیت را با عنوان «عدم قطعیت» درباره روند مذاکرات ایران-آمریکا توصیف می‌کند؛ یعنی هدف سفر و پیام سیاسی آن هنوز روشن و قابل راستی‌آزمایی نیست.",
+            "این چارچوب ارتباطی غیرمستقیم، عملاً کانال‌های دیپلماسی را محدود می‌کند و زمینه برای سوءبرداشت یا طولانی شدن بن‌بست را افزایش می‌دهد."
+        ],
+        "impact": "اعلام «عدم مذاکره مستقیم» از سوی ایران، احتمال پیشرفت سریع در مسیر مذاکره را کاهش می‌دهد و هزینه‌های سیاسی و زمانی برای هر دو طرف را بالا می‌برد.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-envoys-heading-pakistan-uncertainty-iran-talks-rcna342031",
+        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-envoys-heading-pakistan-uncertainty-iran-talks-rcna342031",
+        "image": "http://www.bing.com/th?id=ONUT.XeQgPVcsATJqJewUL-nArw&pid=News",
+        "timestamp": 1777081200.0
     },
     {
         "title_fa": "همزمان با مذاکرات غیرمستقیم واشنگتن-تهران در اسلام‌آباد، IRGC بازداشت ۲۴۰ نفر را در «کودتای امنیتی» ضد مخالفان اعلام کرد",
@@ -196,6 +268,24 @@
         "clean_url": "https://www.cnn.com/2026/04/25/world/live-news/iran-war-israel-pakistan-talks",
         "image": "http://www.bing.com/th?id=ONUT._jtDQNMYYioWOHTQ8soYrQ&pid=News",
         "timestamp": 1777081020.0
+    },
+    {
+        "title_fa": "فرستادن نمایندگان ترامپ به اسلام‌آباد در حالی که ایران گفت‌وگوی مستقیم را رد می‌کند",
+        "title_en": "Trump to send envoys to Islamabad as Iran rules out direct talks",
+        "summary": [
+            "طبق گزارش، دونالد ترامپ قرار است نمایندگانی را به اسلام‌آباد بفرستد تا برای ازسرگیری گفت‌وگوها با وزیر خارجه ایران مذاکره کنند؛ ایران اما اعلام کرده گفت‌وگوی مستقیم با آمریکا را انجام نمی‌دهد.",
+            "این حرکت آمریکا یک مسیر غیرمستقیم برای پیشبرد تعاملات ایجاد می‌کند، در حالی که «رد گفت‌وگوی مستقیم» دست رژیم را برای کنترل روایت و کاهش هزینه سیاسی تماس مستقیم باز می‌گذارد.",
+            "در کنار این موضوع، خبر به‌طور ضمنی روی اهرم‌های دریایی/امنیتی تمرکز دارد و احتمال تکرار سناریوی حمایت آمریکا از کشتی‌ها در تنگه هرمز در دهه ۸۰ را مطرح می‌کند (که نشان می‌دهد فشار می‌تواند از کانال امنیتی هم ادامه پیدا کند)."
+        ],
+        "impact": "مذاکره غیرمستقیم جایگزین گفت‌وگوی مستقیم می‌شود و ریسک حرکت به سمت سناریوهای امنیتی در خلیج فارس را بالا نگه می‌دارد، زیرا بن‌بست ارتباطی مستقیم باقی می‌ماند.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-25-2026-7e52d208e7b517c615fc178280ca57d0",
+        "clean_url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-25-2026-7e52d208e7b517c615fc178280ca57d0",
+        "image": "http://www.bing.com/th?id=ONUT.IQ3Oxuqgt8CuYa_SChoe8w&pid=News",
+        "timestamp": 1777080240.0
     },
     {
         "title_fa": "آراگچی در اسلام‌آباد؛ آمریکا و ایران جلسه مستقیم ندارند اما فرستادگان آمریکا برای گفت‌وگو آماده‌اند",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5taEZWTnFLWmpxaWVQR0dLOHRLT1A3dDFINmREVjFCRV9ucXdEY1dTRk02aVVnODh0bjB2MHZGRnVWdGhNY2hhdExIQXlSNGJXb1pSamFMUGNMY2hwWHFhS2FveVJGUFU",
         "image": null,
         "timestamp": 1776745892.0
-    },
-    {
-        "title_fa": "آمریکا و ایران برای گفت‌وگوهای آتش‌بس دوباره به پاکستان می‌روند",
-        "title_en": "US and Iran signal they will return to Pakistan for ceasefire talks, officials say",
-        "summary": [
-            "خبرگزاری آسوشیتدپرس می‌گوید آمریکا و ایران اعلام کرده‌اند برای ادامه مذاکرات آتش‌بس به پاکستان بازمی‌گردند؛ مقام‌ها این بازگشت را تأیید کرده‌اند.",
-            "این حرکت بیشتر نشانه مدیریت هزینه‌های بحران است تا حل ریشه‌ای اختلافات؛ یعنی هر دو طرف می‌کوشند روند را از وضعیت تنش‌زا به گفت‌وگوهای کنترل‌شده منتقل کنند.",
-            "در چارچوب نفوذ خارجی، چنین دور جدیدی از گفت‌وگو معمولاً نتیجه فشارهای امنیتی و محدودیت‌های عملیاتی است که امکان تعویق یا فرسایش را برای طرفین کاهش می‌دهد."
-        ],
-        "impact": "بازگشت مذاکرات به پاکستان می‌تواند موقتاً شدت درگیری‌ها را پایین بیاورد، اما الزاماً به معنی تغییر بنیادین در توان و اراده بازیگران برای جنگ نیست.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30",
-        "clean_url": "https://apnews.com/article/us-iran-war-pakistan-april-21-2026-177a2d0701ef172c3e51686bc1f18f30",
-        "image": "http://www.bing.com/th?id=ONUT.52X22-_r8jqZP7GfW_Lseg&pid=News",
-        "timestamp": 1776745560.0
-    },
-    {
-        "title_fa": "آمریکا و ایران با «کارت‌های جدید» در میدان، لفاظی‌ها را بالا بردند؛ گفت‌وگوهای صلح در بن‌بست",
-        "title_en": "‘New cards on the battlefield’: U.S., Iran ratchet up rhetoric with peace talks in limbo",
-        "summary": [
-            "CNBC می‌گوید هم‌زمان با «گفت‌وگوهای صلح در limbo»، آمریکا و ایران لفاظی‌های خود را تشدید کرده‌اند؛ یعنی کانال دیپلماتیک برای خروج از بحران عمل نمی‌کند و طرفین به فشار روانی رو آورده‌اند.",
-            "چارچوب گزارش بر تقابلِ روایت‌ها و تهدیدهای ضمنی است: جایگزینی مسیر مذاکرات با نمایش قدرت در سطح کلامی، برای وادار کردن طرف مقابل به عقب‌نشینی یا امتیازگیری.",
-            "این وضعیت به‌جای کاهش ریسک، عدم‌قطعیت را بالا می‌برد: وقتی توافق روشن وجود ندارد، هر «کارت جدید» می‌تواند به تشدید محاسبات خطر در میدان دامن بزند."
-        ],
-        "impact": "افزایش لفاظی‌ها همراه با بن‌بست مذاکرات، احتمال تشدید تنش و محاسبه‌گری غلط را بالا می‌برد و از کاهش ریسک جلوگیری می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEl4MGpKMFRhN0hUNlpqRllmTlBGZlI3N1hqb3I0U0dyQ0hwaFFPb2ZoVXcwM2dUbVlzdEQzMWRFanlnR2EzSml2MTY3V3pDVzhNdUV3SVR2YjJjeGxRZkFyNi0xcnN3Ukc1S0YwMU1ZQkpyNmZsRFMzZEpraEFPZFJ2TFBCOE1JOGthN3ZIendHRnlGN0VZS3owU1pQc2tqRXdIT0ViZU9ma25fdkhfRmxhejBfU0JwZDA00gHAAUFVX3lxTE5GVUlIN1ZIVzJJWktWSFl6UEZndlVBRElFRmV6MUViZy1ib0VSODY0ZWs2Q0I3LTNPZEdGdk9YOTFGWEpyU2pldmQwamF4eGVGa09rME9DcmVUclV5Qk1LaE03N1BuYy0wdHNCZUFUOTNINVF5akVOaV9uc0hVd202TUo3MlozQnlrcmIzVTV4a2JHWXk2N2hDWktKZGNnZFVWLThIWHZleVlRWXZPYXlBa0JNTWozT19tWm45VERvYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTEl4MGpKMFRhN0hUNlpqRllmTlBGZlI3N1hqb3I0U0dyQ0hwaFFPb2ZoVXcwM2dUbVlzdEQzMWRFanlnR2EzSml2MTY3V3pDVzhNdUV3SVR2YjJjeGxRZkFyNi0xcnN3Ukc1S0YwMU1ZQkpyNmZsRFMzZEpraEFPZFJ2TFBCOE1JOGthN3ZIendHRnlGN0VZS3owU1pQc2tqRXdIT0ViZU9ma25fdkhfRmxhejBfU0JwZDA00gHAAUFVX3lxTE5GVUlIN1ZIVzJJWktWSFl6UEZndlVBRElFRmV6MUViZy1ib0VSODY0ZWs2Q0I3LTNPZEdGdk9YOTFGWEpyU2pldmQwamF4eGVGa09rME9DcmVUclV5Qk1LaE03N1BuYy0wdHNCZUFUOTNINVF5akVOaV9uc0hVd202TUo3MlozQnlrcmIzVTV4a2JHWXk2N2hDWktKZGNnZFVWLThIWHZleVlRWXZPYXlBa0JNTWozT19tWm45VERvYQ",
-        "image": null,
-        "timestamp": 1776745384.0
-    },
-    {
-        "title_fa": "ترامپ: بازیابی اورانیوم غنی‌شده ایران «فرآیندی طولانی و دشوار» است",
-        "title_en": "Trump says recovery of Iran's enriched uranium will require 'long and difficult process'",
-        "summary": [
-            "ترامپ در اظهارنظر خود بازیابی اورانیوم غنی‌شده ایران را به‌عنوان یک روند «طولانی و دشوار» توصیف کرد؛ یعنی از نظر او زمان‌بر بودن مسیر کاهش/کنترل این ظرفیت به‌طور پیشینی محتمل است.",
-            "این چارچوب، فشار سیاسی را به سمت مدیریت زمان و فرسایش تدریجی می‌برد: حتی اگر توافق یا حرکت دیپلماتیک پیش برود، انتظار برای نتیجه سریع کنار گذاشته می‌شود.",
-            "چون منبع خبر فقط همین ادعا را نقل می‌کند و جزئیات فنی/زمان‌بندی ارائه نشده، پیام عملی آن بیشتر «هشدار درباره پیچیدگی فرآیند» است تا اعلام اقدام مشخص."
-        ],
-        "impact": "این اظهارنظر نشان می‌دهد روند بازگردانی/جمع‌بندی پرونده اورانیوم غنی‌شده، از نگاه واشنگتن ذاتاً کند و پرهزینه خواهد بود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "Anadolu Ajansı",
-        "url": "https://www.aa.com.tr/en/us-israel-iran-war/trump-says-recovery-of-irans-enriched-uranium-will-require-long-and-difficult-process/3912848",
-        "clean_url": "https://www.aa.com.tr/en/us-israel-iran-war/trump-says-recovery-of-irans-enriched-uranium-will-require-long-and-difficult-process/3912848",
-        "image": null,
-        "timestamp": 1776743372.0
-    },
-    {
-        "title_fa": "کنترل نظامی در حال قبضه شدن: سپاه رئیس‌جمهور را کنار می‌زند و نفوذش گسترش می‌یابد",
-        "title_en": "Iran’s Revolutionary Guard sidelines president as military grip expands",
-        "summary": [
-            "گزارش خبرگزاری Fox News می‌گوید سپاه پاسداران عملاً رئیس‌جمهور را کنار زده و «قدرت نظامی» در حال گسترش است؛ یعنی تصمیم‌گیری سیاسی زیر سایه فرماندهی امنیتی-نظامی قرار می‌گیرد.",
-            "به‌صورت مشخص به انتصاب یا نقش «احمد وحیدی» به‌عنوان فرمانده جدید سپاه اشاره شده و پیوند او با «حملات جهانی» و ایدئولوژی «مرگ بر آمریکا» برجسته می‌شود؛ این یعنی سیگنال افزایش فعالیت‌های برون‌مرزی و تشدید تهدیدهاست.",
-            "این چارچوب با ادعای گزارش‌گونه‌ای درباره «تسلط فرمانده سپاه بر قدرت» و ارتباط با «حملات تروریستی متعدد» همراه می‌شود و هم‌زمان روایت می‌گوید ایالات متحده به‌دلیل ابهام در مذاکرات صلح، اطلاعاتی را در «حالت آماده‌باش بالا» نگه داشته است."
-        ],
-        "impact": "کنار زدن رئیس‌جمهور و تحکیم قدرت فرماندهی سپاه، احتمال تصمیم‌های تهاجمی‌تر و پرریسک‌تر علیه منافع آمریکا و متحدانش را بالا می‌برد و فضای سیاسی داخل ایران را هم بیش از پیش امنیتی می‌کند.",
-        "tag": "سپاه",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/world/irans-revolutionary-guard-sidelines-president-military-grip-expands",
-        "clean_url": "https://www.foxnews.com/world/irans-revolutionary-guard-sidelines-president-military-grip-expands",
-        "image": "http://www.bing.com/th?id=ONUT.Ydpmu0VlG6PLt4C0EEQliw&pid=News",
-        "timestamp": 1776741600.0
-    },
-    {
-        "title_fa": "ایران می‌گوید یک تانکر علی‌رغم «تهدیدهای آمریکا» وارد آب‌هایش شده است",
-        "title_en": "Iran war live updates: Iran says tanker entered its waters despite US 'threats'",
-        "summary": [
-            "گزارش می‌گوید ایران مدعی ورود یک تانکر به آب‌های خود است، در حالی‌که این اقدام در روایت ایران با «تهدیدهای آمریکا» در تضاد قرار داده شده؛ یعنی تهران تلاش می‌کند کنترل عملیاتی خود بر مسیرهای دریایی را برجسته کند.",
-            "این رویداد در متن به‌عنوان یک رویارویی لفظی-عملی در فضای جنگی توصیف می‌شود: ادعای ورود کشتی، می‌تواند برای تهران هم برگ برنده تبلیغاتی باشد و هم عامل تشدید خطر سوءبرداشت و درگیری دریایی.",
-            "با توجه به اینکه جزئیات فنی (نام کشتی، زمان، محل دقیق، وضعیت پرچم و محموله) در متن ارسالی مشخص نیست، اثر راهبردی این اتفاق عمدتاً در سطح «تنش دریایی و احتمال افزایش ریسک» قابل ارزیابی است نه در حد اثبات یک اقدام نظامی قطعی."
-        ],
-        "impact": "ورود ادعاشده یک تانکر به آب‌های ایران، در کوتاه‌مدت ریسک تنش و برخورد دریایی را بالا می‌برد و می‌تواند چرخه فشار و مقابله را میان تهران و واشینگتن پررنگ‌تر کند.",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-iran-talks-blockade-hormuz-crisis-attacks-2-liveblog-14002610.html",
-        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-iran-talks-blockade-hormuz-crisis-attacks-2-liveblog-14002610.html",
-        "image": "http://www.bing.com/th?id=ONUT.SGfSDb-xP6F7tITP1MBqZQ&pid=News",
-        "timestamp": 1776740220.0
     }
 ]
