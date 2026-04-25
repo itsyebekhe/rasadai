@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "افزایش امیدها به توافق صلح پس از اعلام باز بودن تنگه توسط ایران",
+        "title_en": "Live Updates: Hopes for Peace Deal Rise After Iran Says Strait Is Open",
+        "summary": [
+            "طبق گزارش نیویورک‌تایمز، فضای سیاسی-دیپلماتیک پس از اعلام ایران درباره باز بودن تنگه، به سمت کاهش تنش و احتمال توافق صلح حرکت کرده است.",
+            "این پیام می‌تواند به‌عنوان عامل کاهش‌دهنده ریسک حمل‌ونقل دریایی و تنش امنیتی تلقی شود و در نتیجه بر محاسبات بازیگران خارجی برای مذاکره اثر بگذارد.",
+            "با این حال، گزارش صرفاً به «امید» به توافق اشاره دارد و هیچ جزئیات اجرایی درباره تعهدات الزام‌آور، زمان‌بندی یا تضمین‌ها ارائه نمی‌کند."
+        ],
+        "impact": "اگر اعلام باز بودن تنگه به یک روند پایدار و قابل راستی‌آزمایی تبدیل نشود، صرفاً می‌تواند کوتاه‌مدت تنش را بخواباند بدون آنکه ساختار بحران را حل کند.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
+        "clean_url": "https://www.nytimes.com/live/2026/04/17/world/iran-us-war-trump",
+        "image": null,
+        "timestamp": 1777070042.0
+    },
+    {
         "title_fa": "تحریم‌های گسترده آمریکا علیه تجارت پنهان چین با ایران برای تضعیف کانال‌های دورزدن",
         "title_en": "U.S. targets China’s shadow trade with Iran in sweeping sanctions",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://www.msn.com/en-us/news/news/israeli-strikes-kill-four-in-gaza-medics-say/ar-AA21ygaV",
         "image": null,
         "timestamp": 1777053780.0
+    },
+    {
+        "title_fa": "تلاش برای ازسرگیری گفت‌وگوهای آمریکا-ایران در پاکستان؛ اما متن منبع فعلاً ارائه نشده است",
+        "title_en": "US-Iran talks to resume in Pakistan this weekend. Live war updates",
+        "summary": [
+            "طبق اشاره کوتاه خبر، قرار است گفت‌وگوهای آمریکا و ایران در پاکستان «این هفته» ازسرگیری شود؛ جزئیات موضوعات، سطح هیئت‌ها یا شروط طرفین در داده ارائه‌شده وجود ندارد.",
+            "بخش «Live war updates» در محتوای ارسالی فقط به‌صورت عنوان دیده می‌شود، اما هیچ اطلاعات قابل‌استناد درباره درگیری‌ها، حملات یا زمان/مکان مشخص در متن وجود ندارد.",
+            "متن ارسالی عملاً تنها به مشکل مرورگر و لود نشدن محتوا اشاره می‌کند؛ بنابراین نمی‌توان اثرات تحریمی/فشار خارجی، نقش روسیه/چین/کره‌شمالی، یا واکنش داخلی و اقتصادی را از همین منبع نتیجه گرفت."
+        ],
+        "impact": "صرفِ اعلام ازسرگیری گفت‌وگو در پاکستان بدون جزئیات، نشانه مدیریت ریسک است نه تغییر ساختاری؛ داده کافی برای سنجش پیامد واقعی بر وضعیت میدانی یا اقتصاد ارائه نشده.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Detroit Free Press",
+        "url": "https://www.freep.com/story/news/world/2026/04/24/iran-war-trump-ceasefire-updates--live/89761694007/",
+        "clean_url": "https://www.freep.com/story/news/world/2026/04/24/iran-war-trump-ceasefire-updates--live/89761694007",
+        "image": null,
+        "timestamp": 1777052280.0
     },
     {
         "title_fa": "عراقچی سه‌کشور را برای احیای گفت‌وگوهای صلح، در سایه بن‌بست تعهد دائمی آمریکا-اسرائیل دربرابر حملات، می‌گردد",
@@ -450,6 +486,24 @@
         "timestamp": 1777040353.0
     },
     {
+        "title_fa": "ورود وزیر خارجه ایران به پاکستان؛ ترامپ «پیشنهادی که خواسته‌های آمریکا را برآورده کند» انتظار دارد",
+        "title_en": "Iran's foreign minister arrives in Pakistan, Trump expects offer satisfying US demands",
+        "summary": [
+            "طبق گزارش رویترز، عباس عراقچی به اسلام‌آباد رسیده تا درباره دستورکار مرتبط با روابط منطقه‌ای و موضوعات مورد اختلاف/مذاکره گفت‌وگو کند و این سفر در چارچوب فشارهای جاری سیاسی-امنیتی ارزیابی می‌شود.",
+            "همزمان، دونالد ترامپ در موضع‌گیری رسانه‌ای اعلام کرده انتظار دارد پیشنهادی ارائه شود که «مطالبات آمریکا را ارضا کند»، که نشان می‌دهد محور اصلی این رایزنی‌ها تحت مدیریت فشار واشنگتن است نه صرفاً روند دیپلماتیک مستقل.",
+            "این خبر به‌خودی‌خود ابعاد داخلی یا جزئیات اقتصادی/اعتراضات را ارائه نمی‌دهد، اما از منظر استراتژیک روشن می‌کند که تهران برای مدیریت هزینه‌های سیاست خارجی زیر سایه خواسته‌های آمریکا ناچار به فعال‌سازی کانال‌های منطقه‌ای است."
+        ],
+        "impact": "این رویداد بیشتر نشانه تشدید رقابت بر سر امتیازدهی در مذاکرات تحت فشار آمریکا است تا یک تغییر پایدار در توازن قدرت.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-foreign-minister-arrives-in-pakistan-trump-expects-offer-satisfying-us-demands/ar-AA21EOwE",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-foreign-minister-arrives-in-pakistan-trump-expects-offer-satisfying-us-demands/ar-AA21EOwE",
+        "image": "http://www.bing.com/th?id=ONUT.ZzoG_J1Zi93iUXu4ZfzGsQ&pid=News",
+        "timestamp": 1777039434.0
+    },
+    {
         "title_fa": "اختلاف روایت‌ها درباره ساختار قدرت در ایران؛ تمرکززدایی تصمیم‌گیری زیر سایه سپاه پاسداران",
         "title_en": "Who is running Iran right now? Trump, security officials offer different accounts",
         "summary": [
@@ -484,6 +538,24 @@
         "clean_url": "https://www.cfr.org/articles/israel-lebanon-ceasefire-extended-for-three-weeks",
         "image": null,
         "timestamp": 1777039027.0
+    },
+    {
+        "title_fa": "رئیس کمیته نیروهای مسلح سنای آمریکا: ترامپ باید حملات علیه ایران را از سر بگیرد",
+        "title_en": "Senate Armed Services chair: Trump should resume strikes on Iran",
+        "summary": [
+            "راجر ویکر، رئیس کمیته نیروهای مسلح سنا، خواستار از سرگیری حملات آمریکا علیه ایران شد و گفت دولت باید «توان نظامی متعارف ایران» را به‌طور کامل هدف قرار دهد.",
+            "این موضع در چارچوب فشار نظامی مستقیم، به‌عنوان سیگنال سیاست‌گذاری برای تشدید عملیات علیه قابلیت‌های زمینی/هوایی متعارف ایران مطرح می‌شود، نه صرفاً اقدامات محدود یا نمادین.",
+            "اگر اجرایی شود، پیامد فوری آن تشدید ریسک درگیری و افزایش هزینه‌های امنیتی برای رژیم است؛ اما چون متن به جزئیات عملیاتی (زمان/مکان/دامنه) اشاره نمی‌کند، اثر دقیق کوتاه‌مدت روی وضعیت میدانی قابل ارزیابی قطعی نیست."
+        ],
+        "impact": "این درخواست می‌تواند مسیر تشدید فشار نظامی را فعال کند و ریسک بی‌ثباتی و هزینه‌های مستقیم برای رژیم را بالا ببرد.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.4,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/04/24/wicker-iran-bomb-00891261",
+        "clean_url": "https://www.politico.com/news/2026/04/24/wicker-iran-bomb-00891261",
+        "image": "http://www.bing.com/th?id=ONUT.igMSmBtQrAf6EVmvVwvVcA&pid=News",
+        "timestamp": 1777038420.0
     },
     {
         "title_fa": "تمدید آتش‌بس اسرائیل و لبنان سه هفته‌ای، هم‌زمان با تشدید تنش‌ها در تنگه هرمز",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObDA3eW5Gam4zWklEVmVuQ3lwd1N1QUpWbmlRVWROSGpudkdXaW42VFFjNU5OVk5vaDczcmdPaDNzY2hiTmtuZkQtUlNYOGVuZ1Z5YktvaTBpWm9RTGs3Z3pYSUNWV04wUE9waFdlUkgxN0ljbS1jU0YxeE9yME93RmFuUm12bml4Vlkzd3VzbnV5SDZfSzdxbkFNbHNRSFBqcHB0R3o0QzBpLXFCMGdhQUlfb0dkUFQtS0VKVzlqaTdZdlhpQ1BPQTUwVU9uUkcweURZUzlTMA",
         "image": null,
         "timestamp": 1776706883.0
-    },
-    {
-        "title_fa": "جنگ ایران ائتلاف آمریکا-کشورهای خلیج فارس را از «سایه» به عرصه علنی کشاند",
-        "title_en": "The Iran war has forced the US-Gulf alliance out of the shadows",
-        "summary": [
-            "گزارش «Atlantic Council» مدعی است که در جریان جنگ ایران، همکاری امنیتی میان آمریکا و کشورهای خلیج فارس از حالت پنهان‌کاری خارج شده و به سطح علنی‌تر کشیده شده است.",
-            "این تحول به‌طور ضمنی نشان می‌دهد که تهدیدات جنگی، طراحی و هماهنگی سیاست‌های منطقه‌ای را از سطح محدود به سطح همکاری‌های سازمان‌یافته‌تر سوق داده است.",
-            "محتوای ارائه‌شده فقط به «علنی شدن» این اتحاد اشاره دارد و جزئیات عملیاتی، زمان‌بندی، یا اقدامات مشخص برای طرف‌های درگیر را در متن حاضر ارائه نمی‌کند."
-        ],
-        "impact": "علنی شدن ائتلاف آمریکا-کشورهای خلیج فارس می‌تواند هزینه محاسبات رژیم را بالا ببرد و ریسک‌های امنیتی آن را تشدید کند، اما چون جزئیات اقدامات ذکر نشده، ارزیابی اثرات دقیق محدود است.",
-        "tag": "امنیت",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Atlantic Council",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUxFM0tMOGlSblJqTGxobnRURXExR1N5b0M3SVZWdWN4SmRRbTdMWnZjOUJJbHV5a25rRGpWdUJ4dWJsMHl0NS04MlByZ2MtUm1waW03U1YybFZEb2U4c1JjLXFqeHd6Q1ZLR1ZPNi1NS3NBZGFwWWFfc3AxUFdpa2lScEpJOC1BOXN4TDBDRENNR3NGWnM1a2FvZzRVLVVWNU9vMlJac1YwR0NsT0VuVjNVdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUxFM0tMOGlSblJqTGxobnRURXExR1N5b0M3SVZWdWN4SmRRbTdMWnZjOUJJbHV5a25rRGpWdUJ4dWJsMHl0NS04MlByZ2MtUm1waW03U1YybFZEb2U4c1JjLXFqeHd6Q1ZLR1ZPNi1NS3NBZGFwWWFfc3AxUFdpa2lScEpJOC1BOXN4TDBDRENNR3NGWnM1a2FvZzRVLVVWNU9vMlJac1YwR0NsT0VuVjNVdw",
-        "image": null,
-        "timestamp": 1776705300.0
-    },
-    {
-        "title_fa": "کاهش فاصله تا توافق پایان جنگ ایران-آمریکا، اما پیام‌های ترامپ آن را متوقف کرد",
-        "title_en": "A deal to end the Iran war seemed close. Then Trump started posting on social media",
-        "summary": [
-            "طبق گزارش، آمریکا و ایران در آستانه نزدیک‌شدن به یک توافق برای پایان جنگ هفت‌هفته‌ای قرار داشتند و «به نظر می‌رسید» روند مذاکره به سمت جمع‌بندی می‌رود.",
-            "با نزدیک‌شدن آخرهفته، ترامپ به‌صورت فعال در شبکه‌های اجتماعی پست‌هایی منتشر کرد؛ همین اقدام به‌عنوان عامل برهم‌زننده روند «نزدیک‌شدن به معامله» معرفی شده است.",
-            "نتیجه گزارش این است که کانال مذاکره و فضای اعتماد/پیشرویِ قابل مشاهده در آستانه توافق، در لحظه با مداخله رسانه‌ای ترامپ دچار وقفه شد، بدون اینکه جزئیات تازه‌ای از محتوای توافق یا طرفین منتشر شود."
-        ],
-        "impact": "این رخداد نشان می‌دهد که تصمیم‌ها و پیام‌های تبلیغاتی در واشنگتن می‌توانند مسیر توافق را حتی در آستانه جمع‌بندی تغییر دهند و ریسک تداوم تنش را بالا ببرند.",
-        "tag": "توافق",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/a-deal-to-end-the-iran-war-seemed-close-then-trump-started-posting-on-social-media/ar-AA21lOsz",
-        "clean_url": "https://www.msn.com/en-us/news/world/a-deal-to-end-the-iran-war-seemed-close-then-trump-started-posting-on-social-media/ar-AA21lOsz",
-        "image": "http://www.bing.com/th?id=ONUT.EMm2i3dB9YSjTariqY3WDA&pid=News",
-        "timestamp": 1776700442.0
-    },
-    {
-        "title_fa": "ایران از «بازدارندگی غیرهسته‌ای»؛ اهرم بستن تنگه هرمز به‌عنوان ابزار فشار",
-        "title_en": "Iran’s Nonnuclear Deterrent",
-        "summary": [
-            "مقاله استدلال می‌کند که اختلال در تنگه هرمز می‌تواند در عمل نقش «بازدارندگی» ایفا کند و بدون نیاز به برنامه هسته‌ای، هزینه‌ و ریسک را برای طرف‌های مقابل بالا ببرد.",
-            "نکته محوری این است که این اهرم صرفاً یک تهدید لفظی نیست، بلکه می‌تواند به‌عنوان ابزار فعال برای محدودسازی تردد و ایجاد نااطمینانی در مسیرهای حیاتی تجاری به کار گرفته شود.",
-            "چارچوب گزارش نشان می‌دهد رژیم می‌خواهد بدون ورود به مسیر هسته‌ای، با ابزارهای متکی بر ژئوپولیتیک (راه‌های آبی و ظرفیت اختلال) توازن بازدارندگی بسازد."
-        ],
-        "impact": "اگر ادعای «قدرت عملیاتی» اختلال در هرمز معتبر شود، احتمال تشدید ریسک امنیتی و اختلال در تجارت منطقه‌ای برای طرف‌های مقابل افزایش می‌یابد و می‌تواند چرخه فشار متقابل را سخت‌تر کند.",
-        "tag": "بازدارندگی",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/04/20/world/iran-hormuz-talks-saudi.html",
-        "clean_url": "https://www.nytimes.com/2026/04/20/world/iran-hormuz-talks-saudi.html",
-        "image": "http://www.bing.com/th?id=ONUT.RrMyCEKzHCr-1uxrig9BXA&pid=News",
-        "timestamp": 1776699720.0
-    },
-    {
-        "title_fa": "ایران از شرکت در گفت‌وگوهای تمدید آتش‌بس با آمریکا در پاکستان طفره می‌رود؛ هیئت ونس در مسیر اعلام شده است",
-        "title_en": "Iran says not attending talks, Vance-led US delegation 'en route' to Pakistan",
-        "summary": [
-            "ایران اعلام کرده است در نشست‌های مربوط به تمدید آتش‌بس با آمریکا که قرار است در پاکستان برگزار شود شرکت نخواهد کرد و دلیل را «باقی ماندن مسائل دشوار» عنوان کرده است.",
-            "هم‌زمان، گزارش می‌گوید هیئت آمریکایی با رهبری ونس در مسیر پاکستان است؛ یعنی واشینگتن برای پیشبرد روند گفت‌وگوها حرکت کرده اما تهران عملاً حضور را رد کرده است.",
-            "این تصمیم نشان می‌دهد گره اصلی همچنان سیاسی/اجرایی است و تا وقتی اختلافات حل نشود، آتش‌بس به‌صورت مستقیم با وقفه و ابهام روبه‌رو می‌شود."
-        ],
-        "impact": "عدم حضور ایران، روند تمدید آتش‌بس را در کوتاه‌مدت کند یا متوقف می‌کند و ریسک تشدید تنش و بدتر شدن حساب‌وکتاب میدانی را بالا می‌برد.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/iran-says-not-attending-talks-us-team-en-route-pakistan",
-        "clean_url": "https://www.newarab.com/news/iran-says-not-attending-talks-us-team-en-route-pakistan",
-        "image": "https://www.newarab.com/sites/default/files/styles/new_arab_overlay_medium_16_9/public/2271675729.jpeg?itok=_H6DL4pd",
-        "timestamp": 1776698700.0
     }
 ]
