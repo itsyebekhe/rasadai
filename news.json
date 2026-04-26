@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "بن‌بست در مذاکرات صلح آمریکا-ایران؛ نزدیک شدن به نقطه عطف دوماهه تشدید درگیری",
+        "title_en": "US-Iran Peace Talks Stall as Conflict Approaches Two-Month Mark",
+        "summary": [
+            "بر اساس گزارش بلومبرگ، مذاکرات صلح میان آمریکا و ایران متوقف شده و روند گفت‌وگوها از حرکت بازمانده است.",
+            "این بن‌بست همزمان با نزدیک شدن درگیری به آستانه دو ماهگی مطرح شده که نشان می‌دهد مدیریت تنش به مسیر عملی نرسیده و خطر ادامه/تشدید درگیری پابرجاست.",
+            "در چنین وضعیتی، هرچه کانال سیاسی برای کاهش ریسک بسته‌تر بماند، هزینه‌های اقتصادی و اختلالات ناشی از نااطمینانی برای اقتصاد و تصمیم‌گیری‌های داخلی رژیم نیز بیشتر می‌شود."
+        ],
+        "impact": "بن‌بست مذاکره یعنی ابزار سیاسیِ کنترل تنش از کار می‌افتد و احتمال تداوم یا بالا رفتن ریسک‌های امنیتی و اقتصادی افزایش می‌یابد.",
+        "tag": "مذاکرات",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Bloomberg.com",
+        "url": "https://www.msn.com/en-us/news/other/us-iran-peace-talks-stall-as-conflict-approaches-two-month-mark/ar-AA21Kake",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-iran-peace-talks-stall-as-conflict-approaches-two-month-mark/ar-AA21Kake",
+        "image": null,
+        "timestamp": 1777185060.0
+    },
+    {
         "title_fa": "گزارش ویژه: سیاست آمریکا در ایران و ادعای «تسلط سپاه»",
         "title_en": "Special Report: U.S. Policy in Iran - IRGC Takeover",
         "summary": [
@@ -70,6 +88,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-war-what-s-happening-on-day-58-as-tehran-washington-talks-stall/ar-AA21JB8A",
         "image": "http://www.bing.com/th?id=ONUT.XaZxzTbfhsDTWaXTRsaniw&pid=News",
         "timestamp": 1777159754.0
+    },
+    {
+        "title_fa": "درخواست رئیس‌جمهور ایران از آمریکا برای پایان «بلوکاد»؛ همزمانی با تشدید تنش‌های واشنگتن-تهران",
+        "title_en": "Live updates: Iran president calls on US to end blockade",
+        "summary": [
+            "رئیس‌جمهور ایران در پاسخ به تنش‌های جاری، از آمریکا خواسته «بلوکاد» را پایان دهد و این پیام را به‌عنوان چارچوب کاهش فشار خارجی مطرح کرده است.",
+            "این حرکت نشان می‌دهد تهران در سطح سیاسی تلاش می‌کند روایت فشار اقتصادی/تحریمی را مستقیم به آمریکا گره بزند تا هم هزینه‌های داخلی را توضیح دهد و هم در مذاکرات آتی دست بالا بگیرد.",
+            "با توجه به متن خبر، اقدام مذکور عمدتاً در حوزه پیام‌رسانی و فشار سیاسی است و شواهدی از تصمیم یا تغییر فوری در سیاست آمریکا یا لغو عملی محدودیت‌ها ارائه نشده است."
+        ],
+        "impact": "صرفِ درخواست پایان «بلوکاد» می‌تواند فشار تبلیغاتی/دیپلماتیک را بالا ببرد، اما تا زمانی که اقدام اجرایی در گزارش نیامده باشد، اثر اقتصادی واقعی و فوری قابل اتکا نیست.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/live/iran-war-israel-trump-04-26-2026",
+        "clean_url": "https://apnews.com/live/iran-war-israel-trump-04-26-2026",
+        "image": "http://www.bing.com/th?id=ONUT.LT15dbIhA4GVXtM4R5BYzQ&pid=News",
+        "timestamp": 1777159320.0
     },
     {
         "title_fa": "تلاش برای گفت‌وگوهای آتش‌بس در پاکستان متوقف شد؛ آراقی پاکستان را ترک کرد و نمایندگان ترامپ حاضر نشدند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-iran-delay-talks-in-high-stakes-game-of-chicken/ar-AA21pNbH",
         "image": "http://www.bing.com/th?id=ONUT.fhs9dtiGPKWUkbwwLUL3jw&pid=News",
         "timestamp": 1776790620.0
-    },
-    {
-        "title_fa": "ترامپ با توجه به نامشخص بودن روند گفت‌وگوها، با تمدید آتش‌بس ایران مخالف است",
-        "title_en": "Trump says he opposes extending Iran ceasefire amid talks uncertainty",
-        "summary": [
-            "ترامپ اعلام کرده با تمدید آتش‌بس ایران مخالف است، اما دلیل اصلی را «نامشخص بودن» وضعیت مذاکرات می‌داند.",
-            "این موضع‌گیری نشان می‌دهد دولت آمریکا تصمیم را به ادامه یا عدم‌تداوم مذاکرات گره زده و در صورت نبود پیشرفت روشن، امکان پایان آتش‌بس را جدی می‌بیند.",
-            "با توجه به ابهام در متن گزارش، پیام سیاسی این تصمیم بیشتر فشار برای تعیین تکلیف سریع‌تر مذاکرات است تا توافق پایدار؛ نتیجه عملی آن می‌تواند افزایش ریسک نوسان در صحنه درگیری‌ها باشد."
-        ],
-        "impact": "اگر مذاکرات شفاف و سریع به نتیجه نرسند، مخالفت ترامپ می‌تواند آتش‌بس را کوتاه‌عمر کرده و احتمال تشدید تنش را بالا ببرد.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUhpV3U0TkVlTmtWN3lBMkNaYmNreWNQYVJ0OEZDd1VfUUNoaDFKZ1BOc3ZYVlA0WmpvMkxfb2RyVXRWdlV1b0ZiS29pUF9LaDFKMnNGeTlhd1l0ZnItV1VPZjJFRE82RnNZd0N4VmN0MGdUWlJnbWhYSjlnMFQ1NUFPT05PYmNNYXZJY08wbzZNMXpjbWRoeHI0YXBIOTJYVHh2QTAxOVVuVjZYVWpn0gG0AUFVX3lxTE0yenY3dW50VXBzWU1sWmVONHBBSnRkYWpTbWs1NVVpM3BQeE02X3M4Ujl6OHZLZzc5YlZ5SFBmNW9sX3hDQUZ3VkZ6eHNZT2VuN1JWT1l5NU04eG9TeENnWW54VmlQUFdTRHpnak10eUFCSTMzV2J3bURRREJkc1FURmNTLWh3RjhSRFRSd3piMm9nS01vSmszbE1HdFAxZ3FDNDdKdkYxbmhnNlBNX2JvX3JWaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSUhpV3U0TkVlTmtWN3lBMkNaYmNreWNQYVJ0OEZDd1VfUUNoaDFKZ1BOc3ZYVlA0WmpvMkxfb2RyVXRWdlV1b0ZiS29pUF9LaDFKMnNGeTlhd1l0ZnItV1VPZjJFRE82RnNZd0N4VmN0MGdUWlJnbWhYSjlnMFQ1NUFPT05PYmNNYXZJY08wbzZNMXpjbWRoeHI0YXBIOTJYVHh2QTAxOVVuVjZYVWpn0gG0AUFVX3lxTE0yenY3dW50VXBzWU1sWmVONHBBSnRkYWpTbWs1NVVpM3BQeE02X3M4Ujl6OHZLZzc5YlZ5SFBmNW9sX3hDQUZ3VkZ6eHNZT2VuN1JWT1l5NU04eG9TeENnWW54VmlQUFdTRHpnak10eUFCSTMzV2J3bURRREJkc1FURmNTLWh3RjhSRFRSd3piMm9nS01vSmszbE1HdFAxZ3FDNDdKdkYxbmhnNlBNX2JvX3JWaQ",
-        "image": null,
-        "timestamp": 1776788399.0
-    },
-    {
-        "title_fa": "تأثیر جنگ ادعایی با آمریکا و اسرائیل بر اقتصاد ایران؛ هشدار به تعدیل‌های گسترده",
-        "title_en": "Iran sees mass redundancies from war with US and Israel",
-        "summary": [
-            "BBC گزارش می‌کند که ایران از «تعدیل گسترده نیروها» در پی پیامدهای یک درگیری فرضی/تهدیدشده با آمریکا و اسرائیل سخن می‌گوید؛ یعنی فشار مستقیم بر بازار کار و امنیت معیشتی شکل گرفته است.",
-            "این وضعیت از منظر فشار خارجی، نشان‌دهنده تضعیف ساختاری ظرفیت تولید و خدمات در محیط نااطمینانی امنیتی است؛ با ریسک بالا، شرکت‌ها تعدیل را به‌عنوان راه‌حل فوری انتخاب می‌کنند و هزینه اجتماعی آن به دولت منتقل می‌شود.",
-            "در سطح داخلی، موج تعدیل می‌تواند نارضایتی عمومی را تشدید کند؛ چون مدیریت اقتصادی و برنامه‌ریزی نیروی کار در چنین شوک‌هایی معمولاً شفافیت و حمایت واقعی از کارکنان ندارد و نارضایتی به سرعت سیاسی می‌شود."
-        ],
-        "impact": "تعدیل‌های گسترده، هم فشار اجتماعی ایجاد می‌کند و هم توان دولت برای مدیریت نارضایتی را محدود می‌سازد.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.65,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/world/iran-sees-mass-redundancies-from-war-with-us-and-israel/ar-AA21oHtr",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-sees-mass-redundancies-from-war-with-us-and-israel/ar-AA21oHtr",
-        "image": null,
-        "timestamp": 1776787551.0
     }
 ]
