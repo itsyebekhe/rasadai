@@ -18,6 +18,24 @@
         "timestamp": 1777212586.0
     },
     {
+        "title_fa": "ادعای وزیر: گرانی‌های پس از جنگ تا ۸ ماه ادامه می‌یابد",
+        "title_en": "Higher prices could last for eight months after Iran war, minister says",
+        "summary": [
+            "خبر بی‌بی‌سی به نقل از یک وزیر می‌گوید «قیمت‌ها» احتمالاً تا هشت ماه پس از جنگ در ایران بالا می‌ماند؛ یعنی دولت خود استمرار فشار اقتصادی را به رسمیت می‌شناسد.",
+            "این اعتراف نشان می‌دهد شوک جنگ فقط مقطعی نیست و به تورم، کاهش قدرت خرید و تضعیف معیشت مردم در بازه زمانی میان‌مدت تبدیل می‌شود.",
+            "با توجه به اینکه علت دقیق و اقدامات جبرانیِ مشخص در متن گزارش نیامده، پیام اصلی این است که مدیریت اقتصادی در تدارک مهار اثرات جنگ ناتوان یا حداقل نامطمئن ارزیابی می‌شود."
+        ],
+        "impact": "اگر پیش‌بینی ۸ ماهه درست باشد، فشار تورمی و فرسایش معیشت به عامل تشدید نارضایتی عمومی و بی‌ثباتی اقتصادی بدل می‌شود.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Z0dzSHgydFRsSlpKaUVyTHlVYnRPSi1YeWxXM21lVXJLYlllaXdzZHZVYkJlS2wxX0ZGY0dLSnNNNmRLbmpTV3RsV0N5ZTlmaGFkMHhoenlHUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Z0dzSHgydFRsSlpKaUVyTHlVYnRPSi1YeWxXM21lVXJLYlllaXdzZHZVYkJlS2wxX0ZGY0dLSnNNNmRLbmpTV3RsV0N5ZTlmaGFkMHhoenlHUQ",
+        "image": null,
+        "timestamp": 1777211934.0
+    },
+    {
         "title_fa": "ترامپ درباره انگیزه «شوتر» تردید دارد؛ همزمان گفت‌وگوهای صلح متوقف است (NPR)",
         "title_en": "Trump doubts shooter motivated by Iran war as peace talks on hold",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/the-latest-uncertainty-shrouds-possible-us-iran-talks-after-trump-extends-ceasefire/ar-AA21rkXL",
         "image": "http://www.bing.com/th?id=ONUT._VczkKyVrYLwQaUVD4BLMg&pid=News",
         "timestamp": 1776811705.0
-    },
-    {
-        "title_fa": "عدم واکنش رسمی تهران به تمدید آتش‌بس؛ گزارش حمله به دو کشتی و تردید جدی به روند گفت‌وگو",
-        "title_en": "Iran War Live Updates: 2 Ships Are Attacked as Future of Talks Is Uncertain",
-        "summary": [
-            "طبق گزارش، پس از اعلام دونالد ترامپ درباره تمدید آتش‌بس فراتر از پایان دو هفته‌ای آن، هیچ پاسخ عمومی از مقام‌های ارشد ایران منتشر نشده است؛ سکوتی که می‌تواند نشانه اختلاف در محاسبه سیاسی-امنیتی باشد.",
-            "هم‌زمان، خبرها از «حمله به دو کشتی» مطرح شده که سطح تنش دریایی را بالا می‌برد و عملاً فضای قابل اتکا برای ادامه مذاکره را محدود می‌کند.",
-            "جمع‌بندی گزارش «نامشخص بودن آینده گفت‌وگوها» است؛ یعنی حتی با وجود تمدید آتش‌بس، دینامیک میدانی و رویدادهای حمله‌محور می‌تواند مذاکرات را از مسیر خارج کند."
-        ],
-        "impact": "ترکیب سکوت رسمی تهران همراه با حملات دریایی، احتمال فرسایشی شدن بحران و شکست عملی روند گفت‌وگو را افزایش می‌دهد.",
-        "tag": "دریایی",
-        "urgency": 7,
-        "sentiment": -0.35,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
-        "clean_url": "https://www.nytimes.com/live/2026/04/22/world/iran-war-trump-ceasefire-talks",
-        "image": "http://www.bing.com/th?id=ONUT.isQ-bo0zZVuMz24zTMhvWg&pid=News",
-        "timestamp": 1776811680.0
     }
 ]
