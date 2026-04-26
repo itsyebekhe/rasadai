@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تبادل ضربه‌های اسرائیل و حزب‌الله در لبنان؛ گفت‌وگوهای ایران معلق مانده است",
+        "title_en": "Israel and Hezbollah Trade Strikes in Lebanon, as Iran Talks Remain on Hold",
+        "summary": [
+            "گزارش می‌گوید اسرائیل و حزب‌الله در لبنان به تبادل حمله‌های متقابل ادامه داده‌اند؛ نشانه‌ای از تداوم درگیری بدون نشانه فوریِ کاهش تنش.",
+            "هم‌زمان تأکید می‌شود «گفت‌وگوهای ایران» در وضعیت تعلیق/درنگ قرار دارد، یعنی کانال‌های دیپلماتیک که می‌توانستند مهار بحران را جلو ببرند، فعال نیستند.",
+            "این ترکیبِ حملات میدانی و توقف گفت‌وگوهای مرتبط، ریسک گسترش چرخه انتقام را بالا می‌برد و احتمال فروکش شدن سریع بحران را کم می‌کند."
+        ],
+        "impact": "درگیریِ هم‌زمان با قفل شدن روند مذاکره، کنترل بحران را سخت‌تر کرده و احتمال تشدید یا سرریز به بازیگران و جبهه‌های دیگر را افزایش می‌دهد.",
+        "tag": "لبنان",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.msn.com/en-us/news/world/idf-and-hezbollah-trade-strikes-rockets-as-israel-and-lebanon-gear-up-for-direct-talks/ar-AA20EXuE",
+        "clean_url": "https://www.msn.com/en-us/news/world/idf-and-hezbollah-trade-strikes-rockets-as-israel-and-lebanon-gear-up-for-direct-talks/ar-AA20EXuE",
+        "image": null,
+        "timestamp": 1777216986.0
+    },
+    {
         "title_fa": "بن‌بست گفت‌وگوهای غیرمستقیم آمریکا و ایران؛ پاکستان میانجی‌گری را ادامه می‌دهد",
         "title_en": "US-Iran conflict: What’s the latest as the Islamabad talks stall?",
         "summary": [
@@ -126,6 +144,42 @@
         "timestamp": 1777199400.0
     },
     {
+        "title_fa": "بن‌بست دیپلماسی ایران؛ هرمز محور میانجی‌گری و شرط‌گذاری درباره «توافق برای پایان جنگ»",
+        "title_en": "Iran diplomacy stalls as Hormuz becomes focal point of mediation efforts",
+        "summary": [
+            "گزارش می‌گوید امید به «شکست دیپلماتیک» در جنگ ایران و آمریکا-اسرائیل عقب نشست؛ گفت‌وگوها برای احیای مذاکرات متوقف شد و هم تهران و هم واشنگتن نشانه‌ای از نرم‌کردن مواضع نشان ندادند.",
+            "نیروهای آمریکا تجهیزات امنیتی را از اسلام‌آباد جمع کردند و طبق گفته منابع پاکستانی، احتمال بازگشت هیئت آمریکا برای مذاکرات نزدیک نیست؛ با این حال عباس عراقچی برای رایزنی‌های بیشتر به اسلام‌آباد برگشت، در حالی‌که ترامپ سفر برنامه‌ریزی‌شده فرستادگان را لغو کرده بود.",
+            "عراقچی در عمان با سلطان هیثم بن طارق درباره امنیت تنگه هرمز مذاکره کرد و ایران خواستار «چارچوب امنیتی منطقه‌ای بدون دخالت بیرونی» شد؛ همچنین ایران بر جمع‌آوری عوارض عبور از تنگه و هم‌زمان پایان «محاصره/بلاک آمریکا» قبل از دور جدید مذاکرات اصرار دارد و میانجی‌های تحت رهبری پاکستان در تلاش برای پل‌زدن شکاف‌ها هستند."
+        ],
+        "impact": "بن‌بست فعلی نشان می‌دهد محور عملی مذاکرات (هرمز، عوارض و رفع محاصره آمریکا) به شرط‌گذاری متقابل گیر کرده و احتمال پیشرفت سریع را کاهش می‌دهد.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/iran-diplomacy-stalls-as-hormuz-becomes-focal-point-of-mediation-efforts/",
+        "clean_url": "https://www.timesofisrael.com/iran-diplomacy-stalls-as-hormuz-becomes-focal-point-of-mediation-efforts",
+        "image": "http://www.bing.com/th?id=ONUT.GDt5uhqAFLwwCWQU0g7bxA&pid=News",
+        "timestamp": 1777195140.0
+    },
+    {
+        "title_fa": "ترامپ پیام مذاکره به ایران می‌دهد؛ بازگشت فرستاده ایران به پاکستان",
+        "title_en": "Trump says Iran can call if it wants to talk, as Iranian envoy returns to Pakistan",
+        "summary": [
+            "ترامپ اعلام کرد اگر ایران بخواهد، می‌تواند تماس بگیرد تا درباره پایان جنگ مذاکره شود؛ پیام او در چارچوب فشار سیاسی برای تغییر مسیر مواضع تهران ارائه شد.",
+            "هم‌زمان خبر بازگشت فرستاده ایران به پاکستان مطرح شده است که نشان می‌دهد کانال‌های منطقه‌ای برای ارتباطات/میانجی‌گری فعال مانده‌اند.",
+            "مضمون گزارش، تمرکز بر گفت‌وگو به جای تقابل علنی فوری است، اما خودِ این «دعوت به تماس» یعنی وضعیت جنگ‌محور همچنان برقرار است و تصمیم‌های تهران زیر ذره‌بین فشار خارجی خواهد بود."
+        ],
+        "impact": "این رخداد بیش از آنکه نشانه حل‌وفصل سریع باشد، ابزاری برای مهار و جهت‌دهی به گزینه‌های رژیم در ادامه جنگ از مسیر تماس سیاسی است.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-iran-can-call-if-it-wants-to-talk-as-iranian-envoy-returns-to-pakistan/ar-AA21LNdr",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iran-can-call-if-it-wants-to-talk-as-iranian-envoy-returns-to-pakistan/ar-AA21LNdr",
+        "image": "http://www.bing.com/th?id=ONUT.epSTA7WKmxjYnhe7asIJPg&pid=News",
+        "timestamp": 1777195015.0
+    },
+    {
         "title_fa": "هزینه‌های جنگ علیه ایران؛ پرداخت بلندمدت از مجرای «نظر» نیویورک‌تایمز",
         "title_en": "Opinion | We Will Be Paying for the Iran War for a Very Long Time",
         "summary": [
@@ -160,6 +214,24 @@
         "clean_url": "https://www.nytimes.com/2026/04/26/business/economy/us-iran-russia-oil-sanctions.html",
         "image": "https://static01.nyt.com/images/2026/04/26/multimedia/26dc-sanctions-lbkc/26dc-sanctions-lbkc-facebookJumbo.jpg",
         "timestamp": 1777194060.0
+    },
+    {
+        "title_fa": "ایران و آمریکا در بلاتکلیفی «نه جنگ، نه صلح» قفل کرده‌اند",
+        "title_en": "Iran and U.S. Sink Into Awkward Limbo of ‘No War, No Peace’",
+        "summary": [
+            "طبق گزارش، دو طرف عملاً وارد وضعیت توقف بدون توافق شده‌اند و هر یک امید دارد طرف مقابل هزینه سیاسی/امنیتی بیشتری را تحمل کند، نه اینکه راه‌حل سریع ارائه دهد.",
+            "تحلیل‌گران هشدار می‌دهند که شرط‌بندی بر «دوام بیشتر» می‌تواند به تشدید تدریجی منجر شود؛ چون نبودِ چارچوب توافقی، مدیریت بحران و کاهش ریسک را سخت می‌کند.",
+            "سناریوی مورد اشاره این است که بلاتکلیفی بدون معامله، تعارض را از حالت کنترل‌شده خارج کند و احتمال خطای محاسباتی یا اقدام واکنشی را بالا ببرد."
+        ],
+        "impact": "این الگوی «نه جنگ، نه صلح» می‌تواند بدون یک مسیر مذاکره، ریسک رویارویی ناخواسته را افزایش دهد و هر لحظه به بی‌ثباتی بیشتر تبدیل شود.",
+        "tag": "بلاتکلیفی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+        "clean_url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+        "image": "http://www.bing.com/th?id=ONUT.DIgHcainOnMrURDI4T9Ccg&pid=News",
+        "timestamp": 1777191540.0
     },
     {
         "title_fa": "انتظار برای دور دوم مذاکرات اسرائیل و لبنان در واشنگتن؛ تنش‌های مرتبط با جنگ ایران پابرجاست",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMnFiR3FaX3p6Y3kwTG9EV3d6MmpYQVBTQUxuQ29jTWJvWWxvdUZMV1RDRmZYYWhQckNkNUtZbGFPODlHdV85cTAyUVFsdnJuMF9yaGpZa01uZkhvb2VHZXplZW5KeWtoekRmTjV3MF9LUU5ZNkdUemFZWHhldWZtbzd5RUlVUV96aDVlRGRsUFpPdnBDVTk0UTExMnFlOWNhVWxJZHQ1bV9PZHpEaXNXdTBn",
         "image": null,
         "timestamp": 1776819595.0
-    },
-    {
-        "title_fa": "تسخیر کشتی‌ها در تنگه هرمز؛ اهرم فشار ایران پس از تمدید آتش‌بس توسط ترامپ",
-        "title_en": "Live updates: Iran seizes ships in Strait of Hormuz after Trump extends ceasefire",
-        "summary": [
-            "NBC News گزارش می‌دهد ایران در تنگه هرمز کشتی‌هایی را توقیف کرده است، هم‌زمان با اینکه ترامپ آتش‌بس را تمدید کرده است.",
-            "این اقدام به‌عنوان تغییر لحظه‌ای در توازن قدرت دریایی در یک گلوگاه راهبردی قابل خوانش است: یعنی استفاده از فشار عملیاتی به جای عقب‌نشینی یا توقف تنش.",
-            "این خبر با متن ارائه‌شده از «روند صبحگاهی» NBC News همراه است، اما هسته رویداد، توقیف کشتی‌ها در هرمز بعد از تمدید آتش‌بس است و نشان می‌دهد درگیری/تنش‌زداییِ ادعا شده با عملیات میدانی ایران هم‌پوشانی داشته است."
-        ],
-        "impact": "توقیف کشتی‌ها در هرمز می‌تواند نااطمینانی فوری در کشتیرانی و ریسک تشدید تنش در کانال دریایی حیاتی ایجاد کند، حتی اگر سطح سیاسی آتش‌بس تمدید شده باشد.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-trump-ceasefire-hormuz-attack-peace-talks-israel-rcna341361",
-        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-trump-ceasefire-hormuz-attack-peace-talks-israel-rcna341361",
-        "image": "http://www.bing.com/th?id=ONUT.Y460DQ1RHFQBceRADq8ExQ&pid=News",
-        "timestamp": 1776817860.0
-    },
-    {
-        "title_fa": "ایران یک کشتی کانتینربر را در تنگه هرمز هدف قرار داد و روند دیپلماسی را دشوار کرد",
-        "title_en": "Irán ataca un buque en el estrecho de Ormuz, complicando los esfuerzos diplomáticos",
-        "summary": [
-            "به گزارش «Chicago Tribune»، ایران روز چهارشنبه در تنگه هرمز به یک کشتی کانتینربر شلیک کرد و به این شناور آسیب وارد شد.",
-            "این اقدام در تنگه هرمز—که گلوگاه حیاتی تجارت دریایی است—به‌طور مستقیم تلاش‌های دیپلماتیک را برای کنترل تنش و جلوگیری از تشدید تنش منطقه‌ای پیچیده می‌کند.",
-            "جزئیات دقیق‌تر از مسئولیت مستقیم، نوع سامانه/عامل درگیری و میزان خسارت یا تلفات در متن ارائه‌شده ذکر نشده و همان سطح از اطلاعات قابل اتکا گزارش‌شده را باید مبنا قرار داد."
-        ],
-        "impact": "این حمله احتمال افزایش ریسک برای تردد کشتی‌ها و فعال شدن چرخه پاسخ متقابل میان طرف‌های منطقه‌ای را بالا می‌برد و دیپلماسی را به سمت بحران امنیتی سوق می‌دهد.",
-        "tag": "اورمزد",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Chicago Tribune",
-        "url": "https://www.chicagotribune.com/2026/04/22/irn-ataca-un-buque-en-el-estrecho-de-ormuz-complicando-los-esfuerzos-diplomticos/",
-        "clean_url": "https://www.chicagotribune.com/2026/04/22/irn-ataca-un-buque-en-el-estrecho-de-ormuz-complicando-los-esfuerzos-diplomticos",
-        "image": "http://www.bing.com/th?id=ONUT.YjyQSx1Q-8FSwe3ip7oeew&pid=News",
-        "timestamp": 1776815700.0
-    },
-    {
-        "title_fa": "حمله نیروی دریایی سپاه به یک کشتی کانتینری در تنگه هرمز پس از تمدید آتش‌بس توسط ترامپ",
-        "title_en": "Iran attacks container ship after Trump extends ceasefire",
-        "summary": [
-            "ترامپ آتش‌بس با ایران را تا پایان مذاکرات صلح تمدید کرد و همزمان اعلام کرد آمریکا «محاصره/بلوکاد» بنادر ایران را ادامه می‌دهد و منتظر یک «پیشنهاد واحد» از دولتی «پراکنده» در ایران است.",
-            "ترامپ تصریح کرد برداشتن این بلوکاد احتمال حصول توافق را تضعیف می‌کند؛ در مقابل، وزیر خارجه ایران پیش‌تر بلوکاد را «اقدام جنگی» توصیف کرده بود.",
-            "ساعاتی پس از تمدید آتش‌بس، طبق UKMTO، یک قایق جنگی متعلق به سپاه به یک کشتی کانتینری نزدیک تنگه هرمز نزدیک شد، بدون هشدار رادیویی شلیک کرد و به پل کشتی «آسیب سنگین» وارد شد؛ خدمه سالم گزارش شدند و آتش‌سوزی یا آلودگی محیطی رخ نداده است."
-        ],
-        "impact": "ادامه بلوکاد همراه با حمله گزارش‌شده در تنگه هرمز، نشان می‌دهد حتی در چارچوب مذاکره، ریسک تشدید تنش دریایی عملاً پابرجاست و می‌تواند گفت‌وگوها را بی‌اعتبار کند.",
-        "tag": "هشدار",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/04/22/world/live-news/iran-war-us-trump-blockade-ceasefire",
-        "clean_url": "https://edition.cnn.com/2026/04/22/world/live-news/iran-war-us-trump-blockade-ceasefire",
-        "image": "http://www.bing.com/th?id=ONUT.klttEg0dOYDEorYxd-6rwA&pid=News",
-        "timestamp": 1776812880.0
-    },
-    {
-        "title_fa": "ابهام مذاکرات آمریکا-ایران پس از تمدید آتش‌بس توسط ترامپ",
-        "title_en": "The latest: Uncertainty shrouds possible US-Iran talks after Trump extends ceasefire",
-        "summary": [
-            "ترامپ اعلام کرد آمریکا آتش‌بس در جنگ را به درخواست پاکستان تمدید می‌کند، اما «گام‌های بعدی» برای ازسرگیری مذاکرات آمریکا-ایران در گزارش AP روشن نیست.",
-            "این وضعیت نشان می‌دهد روند گفت‌وگو به یک زمان‌بندی/چارچوب مشخص متصل نشده و در نتیجه برای هر دو طرف امکان مانور سیاسی-عملی باقی می‌ماند، نه اینکه مسیر توافق از پیش روشن شده باشد.",
-            "تمدید آتش‌بس به‌عنوان اقدام فوری مطرح شده، ولی نبود جزئیات درباره ادامه مذاکرات و شروط احتمالی، فضای بی‌ثباتی و محاسبه‌گری را در طرف‌های درگیر تشدید می‌کند."
-        ],
-        "impact": "ابهام درباره ادامه مذاکرات، احتمال طولانی‌شدن بلاتکلیفی را بالا می‌برد و می‌تواند هم ریسک تشدید درگیری را در آینده حفظ کند هم فرصت فرسایش سیاسی را برای رژیم فراهم آورد.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/the-latest-uncertainty-shrouds-possible-us-iran-talks-after-trump-extends-ceasefire/ar-AA21rkXL",
-        "clean_url": "https://www.msn.com/en-us/news/world/the-latest-uncertainty-shrouds-possible-us-iran-talks-after-trump-extends-ceasefire/ar-AA21rkXL",
-        "image": "http://www.bing.com/th?id=ONUT._VczkKyVrYLwQaUVD4BLMg&pid=News",
-        "timestamp": 1776811705.0
     }
 ]
