@@ -72,6 +72,42 @@
         "timestamp": 1777174685.0
     },
     {
+        "title_fa": "تهران «زیر محاصره» مذاکره را رد می‌کند؛ آراقی در عمان و ترامپ «پیشنهاد رضایت‌بخش» را قبول ندارد",
+        "title_en": "Iran war live: Tehran rejects talks under siege, Araghchi in Oman",
+        "summary": [
+            "ترامپ اعلام کرده ایران «پیشنهاد رضایت‌بخش» ارائه نکرده و همین چارچوب، بن‌بست مذاکرات را تشدید می‌کند.",
+            "عباس عراقچی، وزیر امور خارجه، در مسیر خروج از پاکستان به عمان می‌رود؛ این حرکت نشان می‌دهد کانال‌های دیپلماتیک در حال انتقال/ادامه‌اند اما برآورده نشدن پیش‌شرط‌ها مانع نتیجه‌گیری است.",
+            "تهران در مجموع موضع رد مذاکره را با ادبیات «زیر محاصره» مطرح می‌کند که از دید تحلیل راهبردی یعنی مدیریت بحران را به جای توافق، به سمت فشار متقابل می‌برد."
+        ],
+        "impact": "این وضعیت احتمالاً زمان‌بر بودن مسیر توافق را افزایش می‌دهد و ریسک تشدید چرخه فشار سیاسی-اقتصادی را بالا نگه می‌دارد.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip",
+        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip",
+        "image": "http://www.bing.com/th?id=ONUT.nxh1S7QhEALya193oDCTjQ&pid=News",
+        "timestamp": 1777170180.0
+    },
+    {
+        "title_fa": "بن‌بست جنگ در «حالت بلاتکلیف»: بلوکاد هرمز، فشار اقتصادی و تقویت بقای رژیم با هزینه جهانی",
+        "title_en": "The war in Iran is in a ‘limbo’ phase. Here’s why it could leave the world facing chaos",
+        "summary": [
+            "ترامپ اعلام کرده آمریکا «حمله را نگه می‌دارد» تا وقتی معامله‌ای صورت بگیرد؛ هم‌زمان نیروی دریایی آمریکا به بلوکاد کشتی‌های ایرانی در تنگه هرمز ادامه می‌دهد و در گزارش آمده که امید به تمدید آتش‌بس وجود نداشته و تهدید به حمله به زیرساخت‌های غیرنظامی هم مطرح شده است.",
+            "برآوردهای مطرح‌شده نشان می‌دهد بسته شدن یا محدودسازی تنگه هرمز برای ایران و اقتصاد جهانی هزینه سنگین دارد: سهم بسیار بالایی از نفت و گاز مایع جهان از این مسیر عبور می‌کند و کارشناسان از هزینه‌ای تا حدود ۴۳۵ میلیون دلار در روز برای تهران به‌دلیل اختلال در صادرات/واردات خبر می‌دهند.",
+            "با وجود ضربه اقتصادی، کارشناسان می‌گویند ایران تحمل‌پذیری بیشتری از آنچه بیرون از کشور تصور می‌شود نسبت به این فشار دارد و وضعیت بلاتکلیف ممکن است به بقای رژیم اقتدارگرا کمک کند؛ همچنین مطرح شده که پنتاگون احتمال می‌دهد حدود شش ماه برای پاکسازی مین‌ها از تنگه هرمز زمان لازم داشته باشد."
+        ],
+        "impact": "این «حالت بلاتکلیف» با تداوم بلوکاد هرمز، هم فشار اقتصادی و کمبودهای داخلی را تشدید می‌کند و هم با طولانی‌کردن بحران، شانس بازتولید و تثبیت اقتدارگرایی را بالا می‌برد و در سطح جهان ریسک بی‌ثباتی قیمت انرژی را نگه می‌دارد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/war-iran-limbo-phase-why-083111063.html",
+        "clean_url": "https://www.aol.com/articles/war-iran-limbo-phase-why-083111063.html",
+        "image": "http://www.bing.com/th?id=ONUT.75G0dDz4Tq9BkR9b6GBRlQ&pid=News",
+        "timestamp": 1777169280.0
+    },
+    {
         "title_fa": "روز ۵۸ جنگ ایران: توقف سفر برنامه‌ریزی‌شده ترامپ به پاکستان و بن‌بست تازه در گفت‌وگوهای تهران-واشنگتن",
         "title_en": "Iran war: What’s happening on day 58 as Tehran-Washington talks stall?",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNzA2elVVb1JkQnNueVhtTXlvLUdUN2Y1cjhNNlA4RDJKVHYxSWctY0ZuREM2cG5ScnJSdDluYU9HdFdUbm9jRzFTMlhDakgxQ01TVTU4ZTFhemNjMW9CenY1ZmhiaGwzNEc4dXFDR3BndUUzbG5pRW02Z0xrcEpXU0pIMjRJRGwtdjBYVE1oWEdXaHJYelU3ZHdB",
         "image": null,
         "timestamp": 1776794965.0
-    },
-    {
-        "title_fa": "تحریم‌های جدید آمریکا علیه تامین‌کنندگان تسلیحات ایران",
-        "title_en": "US imposes new sanctions against suppliers of weapons to Iran",
-        "summary": [
-            "آمریکا در روز سه‌شنبه تحریم‌های جدیدی علیه ۱۴ شخص و شرکت اعمال کرد که در تامین مسیرهای دستیابی ایران به سلاح نقش دارند.",
-            "این اقدام با تمرکز بر بازسازی «موجودی موشک‌های بالستیک» تهران صورت می‌گیرد؛ چون ایران در حال جبران خسارت‌های ناشی از «حملات آمریکا-اسرائیل» است.",
-            "اثر ساختاری تحریم‌ها متوجه زنجیره تامین و امکان خرید/تدارک اقلام مرتبط با تسلیحات می‌شود و می‌تواند هزینه، زمان و ریسک معامله برای تامین‌کنندگان را بالا ببرد."
-        ],
-        "impact": "این تحریم‌ها اهرم فشار مستقیم روی تامین‌کنندگان قرار می‌دهد و در کوتاه‌مدت توان ایران برای احیای سریع موجودی تسلیحات را کندتر می‌کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/us-imposes-new-iran-related-sanctions-treasury-website-shows-2026-04-21/",
-        "clean_url": "https://www.reuters.com/world/middle-east/us-imposes-new-iran-related-sanctions-treasury-website-shows-2026-04-21",
-        "image": null,
-        "timestamp": 1776792180.0
-    },
-    {
-        "title_fa": "تعویق مذاکرات آمریکا و ایران؛ بازی فرسایشی تهران و محاسبات کاخ سفید",
-        "title_en": "US., Iran delay talks in high-stakes game of chicken",
-        "summary": [
-            "طبق گزارش، کاخ سفید برنامه اعزام «JD Vance» به پاکستان را متوقف کرده چون تهران در آخرین لحظه مذاکره‌کنندگان خود را نگه داشته و ورود طرف آمریکایی به مسیر از پیش تعیین‌شده را عقب انداخته است.",
-            "این رخداد نشان می‌دهد تهران از «کنترل زمان» برای افزایش اهرم مذاکره استفاده می‌کند: نه با شکست قطعی کانال‌ها، بلکه با ایجاد اختلال در برنامه‌ریزی آمریکا و مدیریت روایت در لحظه.",
-            "در سطح فشار خارجی، این تأخیر به جای حل مسئله، هزینه سیاسی برای واشنگتن ایجاد می‌کند و می‌تواند روند مذاکرات را به الگوی رفت‌وبرگشت و تشدید احتیاط تبدیل کند؛ بدون اینکه در متن گزارش نشانه‌ای از توافق یا عقب‌نشینی واقعی دیده شود."
-        ],
-        "impact": "تعویق برنامه آمریکا به دلیل اقدام آخرخط تهران، ریسک کند شدن روند مذاکره و ادامه بازی فشار-تاخیر را بالا می‌برد.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/world/us-iran-delay-talks-in-high-stakes-game-of-chicken/ar-AA21pNbH",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-delay-talks-in-high-stakes-game-of-chicken/ar-AA21pNbH",
-        "image": "http://www.bing.com/th?id=ONUT.fhs9dtiGPKWUkbwwLUL3jw&pid=News",
-        "timestamp": 1776790620.0
     }
 ]
