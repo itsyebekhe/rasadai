@@ -144,6 +144,24 @@
         "timestamp": 1777191142.0
     },
     {
+        "title_fa": "پاکستان برای احیای مذاکرات آمریکا-ایران زیر فشار لغو سفر فرستادگان کاخ سفید دست‌به‌کار شد",
+        "title_en": "Pakistan races to save negotiations between US and Iran",
+        "summary": [
+            "رهبری سیاسی و نظامی پاکستان روز یکشنبه در حال رایزنی فشرده برای ازسرگیری مذاکرات آتش‌بس میان آمریکا و ایران بود؛ پس از آن‌که دونالد ترامپ به فرستادگان گفته سفرشان به اسلام‌آباد برای این هفته لغو شود.",
+            "عباس عراقچی وزیر خارجه ایران شامگاه شنبه از پایتخت پاکستان خارج شد و قرار بود یکشنبه به اسلام‌آباد بازگردد؛ سپس برای ادامه گفت‌وگوها به مسکو برود، در حالی که گزارش می‌شود پیش‌تر در عمان (میانجی پیشین) دیدار داشته است.",
+            "طبق گفته مقام‌های پاکستانی (با شرط بی‌نامی)، روشن نیست طرف آمریکایی چه زمانی به منطقه برمی‌گردد؛ در حالی که کاخ سفید اعلام کرده بود استیو ویتکاف و جارد کوشنر برای دور دوم مذاکره به اسلام‌آباد اعزام می‌شوند، اما ترامپ بعدتر به دلیل «عدم پیشرفت» مأموریت را لغو کرد."
+        ],
+        "impact": "لغو مأموریت فرستادگان آمریکا و حرکت عراقچی میان چند پایتخت، شانس رسیدن به توافق دائمی را کند و شکننده می‌کند، در حالی‌که آتش‌بس موقت فعلاً جنگ را محدود نگه داشته است.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/04/26/pakistan-races-to-save-negotiations-between-us-and-iran/",
+        "clean_url": "https://www.sun-sentinel.com/2026/04/26/pakistan-races-to-save-negotiations-between-us-and-iran",
+        "image": "http://www.bing.com/th?id=ONUT.kMQ3qWmSj4sPFUh6VEN48w&pid=News",
+        "timestamp": 1777186200.0
+    },
+    {
         "title_fa": "بن‌بست در مذاکرات صلح آمریکا-ایران؛ نزدیک شدن به نقطه عطف دوماهه تشدید درگیری",
         "title_en": "US-Iran Peace Talks Stall as Conflict Approaches Two-Month Mark",
         "summary": [
@@ -250,6 +268,24 @@
         "clean_url": "https://www.cnn.com/2026/04/26/world/live-news/iran-war-trump-israel",
         "image": "http://www.bing.com/th?id=ONUT.QK5Kwye4TWOrb5JtPZ_d1Q&pid=News",
         "timestamp": 1777172760.0
+    },
+    {
+        "title_fa": "ابهام، سایه‌ بر مذاکرات صلح آمریکا-ایران",
+        "title_en": "COMMENTARY: Uncertainty clouds US-Iran peace talks",
+        "summary": [
+            "خبر به این نکته می‌پردازد که پیام‌های متناقض درباره وضعیت تنگه هرمز و دیگر اجزای درگیری، هم از سوی آمریکا و هم از سوی تهران و حتی از داخل هر دو طرف منتشر می‌شود و همین «مه جنگ» مانع از روشن شدن مسیر مذاکرات شده است.",
+            "با وجود تمدید آتش‌بس شکننده توسط دونالد ترامپ، مشخص نیست مذاکرات قرار است در پاکستان انجام شود یا نه؛ روندی که پیش از هر چیز با پست‌های جنجالی در شبکه‌های اجتماعی جلو برده شده، نه با مکاتبات دیپلماتیک آرام.",
+            "والی نصر تحلیل می‌کند که «تغییر رژیم» مدنظر ترامپ در واقع از نوع غرب‌پسند و اصلاح‌طلبانه نیست؛ به گفته او رهبری جدید در تهران تندروتر است و سابقه سرکوب شدیدتر دارد، هرچند در بخش هسته‌ای، اجرای توافق دوره اوباما از نگاه گزارش‌های بازرسان آژانس بین‌المللی انرژی اتمی تأیید شده است."
+        ],
+        "impact": "ابهام امنیتی درباره هرمز و اختلاف برداشت‌ها از ماهیت رهبری جدید تهران، احتمال لغزش مذاکرات به سمت بن‌بست یا تشدید تنش را بالا می‌برد.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "News Tribune",
+        "url": "https://www.newstribune.com/news/2026/apr/26/commentary-uncertainty-clouds-us-iran-peace-talks/",
+        "clean_url": "https://www.newstribune.com/news/2026/apr/26/commentary-uncertainty-clouds-us-iran-peace-talks",
+        "image": "http://www.bing.com/th?id=ONUT.EaCR18nn9cFLAhR4Jg7mOQ&pid=News",
+        "timestamp": 1777170300.0
     },
     {
         "title_fa": "تهران «زیر محاصره» مذاکره را رد می‌کند؛ آراقی در عمان و ترامپ «پیشنهاد رضایت‌بخش» را قبول ندارد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.huffpost.com/entry/pakistan-preparations-iran-us-talks_n_69e74635e4b0ff46b41129d0",
         "image": "http://www.bing.com/th?id=ONUT.2mfrQK4c7dB9BPc3dONS3g&pid=News",
         "timestamp": 1776807600.0
-    },
-    {
-        "title_fa": "تداوم توان نظامی ایران در چارچوب خبر «آتش‌بس» میان آمریکا، اسرائیل و ایران",
-        "title_en": "US-Israel-Iran War Ceasefire News Live Updates: 'Iran still has its key military capabilities'",
-        "summary": [
-            "با وجود مطرح‌شدن خبر «آتش‌بس» در ارتباط با درگیری آمریکا–اسرائیل–ایران، متن خبر از این نکته کلیدی می‌گوید که ایران هنوز «توانمندی‌های نظامی کلیدی» را در اختیار دارد.",
-            "این گزاره به‌طور ضمنی نشان می‌دهد که آتش‌بس (اگر اجرایی باشد) به معنی خنثی شدن کامل ظرفیت‌های تهدید نیست و استمرار قدرت بازدارنده/عملیاتی ایران همچنان در معادله امنیتی باقی می‌ماند.",
-            "چون جزئیات عملی مثل دامنه آتش‌بس، مکان و زمان، یا تضمین‌های راستی‌آزمایی در متن ارائه‌شده مشخص نیست، ارزیابی اثر واقعی آن فعلاً محدود به همین پیام کلی درباره دوام قابلیت‌های نظامی است."
-        ],
-        "impact": "اگر آتش‌بس به کاهش فشار منجر شود، اما توان نظامی کلیدی همچنان باقی بماند، احتمال بازگشت تنش یا استفاده از دوره آتش‌بس برای بازآرایی و تقویت ظرفیت‌ها بالا می‌ماند.",
-        "tag": "آتش‌بس",
-        "urgency": 9,
-        "sentiment": -0.2,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-donald-trump-shehbaz-sharif-iran-ceasefire-talks-strait-of-hormuz-impact-latest-update/liveblog/130429796.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-news-live-updates-donald-trump-shehbaz-sharif-iran-ceasefire-talks-strait-of-hormuz-impact-latest-update/liveblog/130429796.cms",
-        "image": "http://www.bing.com/th?id=ONUT.Pe_MRXKZQiCDBR180uWCHA&pid=News",
-        "timestamp": 1776807000.0
-    },
-    {
-        "title_fa": "صدور دور جدید تحریم‌های آمریکا علیه ایران درست پیش از مذاکرات احتمالی در پاکستان",
-        "title_en": "US issues more Iran sanctions on eve of possible talks in Pakistan",
-        "summary": [
-            "آمریکا در آستانه مذاکرات احتمالی میان طرف‌های مرتبط، مجموعه تحریم‌های جدید علیه ایران صادر کرده است؛ زمان‌بندی این اقدام نشان می‌دهد فشار خارجی هم‌زمان با مسیر گفت‌وگو به‌عنوان اهرم فعال نگه داشته می‌شود.",
-            "این رویکرد می‌تواند هزینه‌های اقتصادی و دسترسی‌های مالی/تجاری ایران را محدودتر کند و با تشدید عدم‌قطعیت، برنامه‌ریزی بخش خصوصی و زنجیره‌های تأمین را تحت فشار قرار دهد.",
-            "با توجه به اینکه موضوع «مذاکرات احتمالی» مطرح است اما هم‌زمان تحریم‌های جدید اعمال شده، پیام سیاسی-اقتصادی برای محدود کردن فضای مانور تهران قبل از نشست در پاکستان ارسال می‌شود؛ بدون اینکه در متن، محتوای مذاکرات یا تضمینی برای کاهش فشار اعلام شده باشد."
-        ],
-        "impact": "تحریم‌های جدید، حتی پیش از شروع مذاکرات، می‌تواند به فرسایش توان اقتصادی دولت و تشدید فشارهای داخلی منجر شود و اعتبار هر مسیر گفت‌وگو را در عمل وابسته به تغییرات تحریمی کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.65,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFZtc2FiUE1kMFRuanktYk1XaUtlZDlBYlV5MURGcDdyS0VpbmJ5SE9xcUk1S21PYnl0QThnSlBNenhSclpWYjhURkdFaldHZHpiV1huS2Q0SUJRR25ZWWhtZ0xDdlFCT1NyeTlHQllYR0N2LXdDUUdyTzUzZU9sdmtSOGM1cURVUnVtVUQ1UV9OQ2pUdUtMdFZMS3YzZWZLbi1Oa3cyMnJ6RzTSAbABQVVfeXFMUEtvbko0U3F0NGhNTkx2TTUzUjNaYnl5WWxFaDFIZUFWYXNFQ2xuYW9jOU5TRU9XakVkbXB4Mk5TQmtQYlhJdTVobUJYczh3ZjFLc2Nnb3p2WU9fT21oNk91RFNKUkZoTUtvM1YtTF90bVoxbENkYXFKdTlVM3dadVFYMlJOam9ESGVRcjNrTUNramQwMnl6QTMwQ2VrMF9PTFBtUVVyb0hiLVhSTHdpb3k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFZtc2FiUE1kMFRuanktYk1XaUtlZDlBYlV5MURGcDdyS0VpbmJ5SE9xcUk1S21PYnl0QThnSlBNenhSclpWYjhURkdFaldHZHpiV1huS2Q0SUJRR25ZWWhtZ0xDdlFCT1NyeTlHQllYR0N2LXdDUUdyTzUzZU9sdmtSOGM1cURVUnVtVUQ1UV9OQ2pUdUtMdFZMS3YzZWZLbi1Oa3cyMnJ6RzTSAbABQVVfeXFMUEtvbko0U3F0NGhNTkx2TTUzUjNaYnl5WWxFaDFIZUFWYXNFQ2xuYW9jOU5TRU9XakVkbXB4Mk5TQmtQYlhJdTVobUJYczh3ZjFLc2Nnb3p2WU9fT21oNk91RFNKUkZoTUtvM1YtTF90bVoxbENkYXFKdTlVM3dadVFYMlJOam9ESGVRcjNrTUNramQwMnl6QTMwQ2VrMF9PTFBtUVVyb0hiLVhSTHdpb3k",
-        "image": null,
-        "timestamp": 1776804170.0
     }
 ]
