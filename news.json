@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ترامپ درباره انگیزه «شوتر» تردید دارد؛ همزمان گفت‌وگوهای صلح متوقف است (NPR)",
+        "title_en": "Trump doubts shooter motivated by Iran war as peace talks on hold",
+        "summary": [
+            "NPR گزارش می‌دهد ترامپ نسبت به این‌که «شوتر» تحت تأثیر جنگ با ایران عمل کرده باشد، ابراز تردید کرده است؛ یعنی پیوند رواییِ «حادثه → جنگ ایران» هنوز قطعی نشده.",
+            "هم‌زمان با این اظهارنظر، خبر حاکی از آن است که گفت‌وگوهای صلح در همان محور/زمینه متوقف مانده‌اند؛ این توقف، ریسک تداوم بی‌ثباتی و سوءمحاسبه در محیط تنش‌زا را بالا می‌برد.",
+            "از منظر تحلیل راهبردی، این خبر به جای یک «فشار مستقیم و ساختاری» روی رژیم یا ایران، بیشتر یک مؤلفه عدم‌قطعیت در روایت‌های سیاسی و امنیتی ایجاد می‌کند و می‌تواند بر تصمیم‌گیری‌ها اثر بگذارد."
+        ],
+        "impact": "توقف مذاکرات و باقی ماندن ابهام درباره انگیزه عامل حادثه، فضای تنش و محاسبات پرریسک را تشدید می‌کند.",
+        "tag": "امنیتی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "NPR",
+        "url": "https://www.kunm.org/npr-news/2026-04-26/trump-doubts-shooter-motivated-by-iran-war-as-peace-talks-on-hold",
+        "clean_url": "https://www.kunm.org/npr-news/2026-04-26/trump-doubts-shooter-motivated-by-iran-war-as-peace-talks-on-hold",
+        "image": null,
+        "timestamp": 1777203610.0
+    },
+    {
+        "title_fa": "جنگ ایران: گفت‌وگوهای صلح متوقف شد؛ بعدش چیست؟",
+        "title_en": "Iran war: Peace talks on hold, what's next?",
+        "summary": [
+            "طبق گزارش DW، گفت‌وگوهای صلح درباره پایان جنگ فعلاً متوقف شده و وضعیت به نقطه بلاتکلیفی برگشته است.",
+            "این توقف یعنی کانال‌های مذاکره به‌صورت عملی از کار افتاده‌اند و طرف‌های درگیر به احتمال زیاد به ابزارهای غیرمذاکره‌ای (فشار سیاسی/عملیات میدانی) تکیه می‌کنند.",
+            "چون متن منبع فقط خبر «معلق شدن گفت‌وگو» را می‌دهد و جزئیات علت یا زمان ازسرگیری ارائه نمی‌کند، ارزیابی دقیقِ مسیر بعدی بدون اطلاعات تکمیلی ممکن نیست."
+        ],
+        "impact": "توقف مذاکرات، ریسک ادامه چرخه تنش و سخت‌تر شدن دستیابی به توافق را بالا می‌برد، اما علت و سناریوهای بعدی در گزارش حاضر روشن نشده است.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWURKOE10ckRrUEZDdkNWek8yUDcxMm5CYk9Na3M2elNJTHd1TTJZTUVXWlZidmdubWJVLURuNnd5R0x5OWNURU1xTHBINkFNQ3hEMVdIS20zbW5XalJELWp6bnVnQ29NclQ0dXFYMl9CY1UxbzZLVl84ckQwMTNSTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWURKOE10ckRrUEZDdkNWek8yUDcxMm5CYk9Na3M2elNJTHd1TTJZTUVXWlZidmdubWJVLURuNnd5R0x5OWNURU1xTHBINkFNQ3hEMVdIS20zbW5XalJELWp6bnVnQ29NclQ0dXFYMl9CY1UxbzZLVl84ckQwMTNSTg",
+        "image": null,
+        "timestamp": 1777203565.0
+    },
+    {
         "title_fa": "ارسال سامانه «گنبد آهنین» و نیرو توسط اسرائیل به امارات در جریان درگیری با ایران",
         "title_en": "Scoop: Israel sent \"Iron Dome\" system and troops to UAE during Iran war",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZFZtc2FiUE1kMFRuanktYk1XaUtlZDlBYlV5MURGcDdyS0VpbmJ5SE9xcUk1S21PYnl0QThnSlBNenhSclpWYjhURkdFaldHZHpiV1huS2Q0SUJRR25ZWWhtZ0xDdlFCT1NyeTlHQllYR0N2LXdDUUdyTzUzZU9sdmtSOGM1cURVUnVtVUQ1UV9OQ2pUdUtMdFZMS3YzZWZLbi1Oa3cyMnJ6RzTSAbABQVVfeXFMUEtvbko0U3F0NGhNTkx2TTUzUjNaYnl5WWxFaDFIZUFWYXNFQ2xuYW9jOU5TRU9XakVkbXB4Mk5TQmtQYlhJdTVobUJYczh3ZjFLc2Nnb3p2WU9fT21oNk91RFNKUkZoTUtvM1YtTF90bVoxbENkYXFKdTlVM3dadVFYMlJOam9ESGVRcjNrTUNramQwMnl6QTMwQ2VrMF9PTFBtUVVyb0hiLVhSTHdpb3k",
         "image": null,
         "timestamp": 1776804170.0
-    },
-    {
-        "title_fa": "سفر ونس به پاکستان به‌طور نامحدود به تعویق افتاد؛ ایران گفت‌وگوهای صلح را تحریم می‌کند",
-        "title_en": "Vance's Pakistan trip postponed indefinitely as Iran boycotts peace talks",
-        "summary": [
-            "طبق گزارش Axios، سفر «جِیک ونس» به پاکستان به‌طور نامحدود به تعویق افتاده است؛ علت اعلامی، «تحریم» ایران برای گفت‌وگوهای صلح است.",
-            "این رخداد نشان می‌دهد ابتکارهای دیپلماتیک برای کاهش تنش در مسیر متوقف‌کننده قرار گرفته و ایران عملاً از میز مذاکره کناره‌گیری کرده است.",
-            "با توجه به اینکه تصمیم ایران مستقیماً برنامه سفر ونس را به هم زده، پیام سیاسی روشنی از اولویت‌دادن به فشار و تداوم رقابت منطقه‌ای منتقل می‌شود."
-        ],
-        "impact": "تعویق نامحدود سفر ونس در پی تحریم گفت‌وگوها، سطح بی‌اعتمادی و احتمال تداوم تنش‌های منطقه‌ای را بالا می‌برد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Axios",
-        "url": "https://www.msn.com/en-us/news/world/vance-s-pakistan-trip-postponed-indefinitely-as-iran-boycotts-peace-talks/ar-AA21lMH9",
-        "clean_url": "https://www.msn.com/en-us/news/world/vance-s-pakistan-trip-postponed-indefinitely-as-iran-boycotts-peace-talks/ar-AA21lMH9",
-        "image": null,
-        "timestamp": 1776804039.0
-    },
-    {
-        "title_fa": "نپذیرفتن مذاکره تحت «سایه تهدیدها» همزمان با وعده ادامه محاصره هرمز؛ بحران دیپلماسی تشدید شد",
-        "title_en": "Iran war live: Trump extends ceasefire as Pakistan talks in disarray",
-        "summary": [
-            "ایران اعلام کرده مذاکره را «زیر سایه تهدیدها» نمی‌پذیرد و این موضع عملاً کانال‌های گفت‌وگو را سیاسی-امنیتی قفل می‌کند.",
-            "همزمان، ترامپ وعده داده محاصره آمریکا بر هرمز را ادامه می‌دهد؛ یعنی فشار خارجی به‌صورت ساختاری حفظ می‌شود، نه صرفاً یک توقف موقت.",
-            "طبق گزارش، روند گفت‌وگوهای مرتبط در پاکستان هم در «تلاطم/اختلال» توصیف شده که نشانه ناپایداری جبهه دیپلماسی و افزایش ریسک سوءتفاهم یا شکست میانجی‌گری است."
-        ],
-        "impact": "حفظ محاصره و رد مذاکره تحت فشار، احتمال فرسایشی شدن بحران و افزایش ریسک درگیری در مسیر هرمز را بالا می‌برد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/4/21/iran-war-live-tehran-shuns-talks-trump-says-us-blockade-to-remain",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/4/21/iran-war-live-tehran-shuns-talks-trump-says-us-blockade-to-remain",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/ap_69e7488ee9b1c-1776765070.jpg?resize=1920,1440",
-        "timestamp": 1776803880.0
     }
 ]
