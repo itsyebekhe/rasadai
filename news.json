@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "مرز: آمریکا در مذاکرات درباره تنگه هرمز «استراتژی قانع‌کننده» ندارد و آلمان هزینه‌های جنگ را می‌دهد",
+        "title_en": "Germany’s Merz says US has no strategy in Iran war",
+        "summary": [
+            "فریدریش مرز گفت آمریکا و ترامپ در مذاکرات مرتبط با تنگه هرمز در معرض تحقیر شدن توسط رهبری ایران قرار گرفته‌اند و از نظر او «استراتژی قانع‌کننده‌ای» برای پیشبرد یا خروج از این بحران ندارند.",
+            "مرز تأکید کرد مسئله فقط ورود به درگیری نیست؛ «باید راه خروج» هم روشن شود و به پیامدهای افغانستان و عراق اشاره کرد، همچنین مدعی شد ایران یا به‌طور ماهرانه مذاکره می‌کند یا مذاکره را به شکلی مدیریت می‌کند که دست آمریکا را تضعیف می‌کند.",
+            "او از اثر مستقیم جنگ علیه ایران بر اقتصاد آلمان گفت و افزود وضعیت را «درهم‌تنیده» می‌بیند؛ مرز همچنین اعلام کرد آلمان پیشنهاد ارسال مین‌روب را برای کمک به بازگشایی تنگه هرمز حفظ کرده، اما فقط پس از پایان جنگ. همزمان اتحادیه اروپا به‌دلیل بحران سوخت و جهش قیمت نفت و گاز، بررسی مسیرهای جایگزین انرژی در خاورمیانه را در دستور کار دارد."
+        ],
+        "impact": "این اظهارات نشان می‌دهد جنگ و بن‌بست مذاکرات، هم بر توان عملیات‌پذیری تنگه هرمز اثر می‌گذارد و هم هزینه‌های فوری اقتصادی برای آلمان و فشار انرژی برای اتحادیه اروپا ایجاد کرده است.",
+        "tag": "ایران-هرمز",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.aol.com/entertainment/germany-says-iran-humiliating-trump-151300499.html",
+        "clean_url": "https://www.aol.com/entertainment/germany-says-iran-humiliating-trump-151300499.html",
+        "image": null,
+        "timestamp": 1777305485.0
+    },
+    {
         "title_fa": "جزئیات مذاکرات آتش‌بس میان آمریکا و ایران (به‌روایت PBS)",
         "title_en": "Here's what to know about ceasefire negotiations between the U.S. and Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.pbs.org/newshour/world/heres-what-to-know-about-ceasefire-negotiations-between-the-u-s-and-iran",
         "image": null,
         "timestamp": 1777303175.0
+    },
+    {
+        "title_fa": "بازتاب جنگ آمریکا-اسرائیل در زندگی «شهروندان عادی» تهران: نفرت از سیستم و ترسِ بی‌پناهی",
+        "title_en": "‘I should not have wished for war’: six ordinary Iranians on how the US-Israel conflict has changed them",
+        "summary": [
+            "به گزارش گاردین، چند شهروند معمولی در تهران می‌گویند جنگ و تشدید درگیری آمریکا-اسرائیل احساساتشان را نسبت به آینده و نسبتشان با «نظام» تغییر داده؛ در روایت‌ها انتظار «انتقام و چرخه جدید کشتار» برجسته است.",
+            "یکی از افراد، بهزاد ۳۱ ساله (مأمور وظیفه اجباری) می‌گوید با وجود داشتن مدرک کارشناسی ارشد، به‌جای نقش اداری به گاردگیری، گشت و انجام امور پاسداری در مراکز نظامی رانده شده و زیر بمباران قرار گرفته است؛ او هم‌زمان تأکید می‌کند «هیچ دلبستگی‌ای به این سیستم ندارد» و آن را «متنفرکننده» توصیف می‌کند.",
+            "بهزاد همچنین وعده‌های «تغییر از راه جنگ» را رد می‌کند و می‌گوید تبلیغات رسانه‌های خارج از کشور (مثل ایران اینترنشنال) از درماندگی مردم تصویر می‌سازد؛ جمع‌بندی او این است که در نهایت بخشی از رژیم «با ترامپ» بر سر معامله‌ای کنار می‌آید و خروجی برای مردم «دیکتاتوری نظامی» خواهد بود."
+        ],
+        "impact": "این روایت‌ها نشان می‌دهد تشدید جنگ، مشروعیت اجتماعی نظام را فرسوده و هزینه انسانی و روانیِ بسیج اجباری را به یک عامل دائمی نارضایتی تبدیل کرده است.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/global-development/ng-interactive/2026/apr/27/i-should-not-have-wished-for-war-six-ordinary-iranians-on-how-the-us-israel-conflict-has-changed-them",
+        "clean_url": "https://www.theguardian.com/global-development/ng-interactive/2026/apr/27/i-should-not-have-wished-for-war-six-ordinary-iranians-on-how-the-us-israel-conflict-has-changed-them",
+        "image": null,
+        "timestamp": 1777302720.0
     },
     {
         "title_fa": "اظهارات ایران درباره فرماندهی نظامی تنگه هرمز و درخواست پرداخت به ریال؛ فشار مستقیم بر بازیگران منطقه‌ای",
@@ -5363,41 +5399,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/us-indefinitely-extend-ceasefire-unclear-013330540.html",
         "image": "http://www.bing.com/th?id=ONUT.OuJgqhG2Ihonm4pXOoLEog&pid=News",
         "timestamp": 1776889260.0
-    },
-    {
-        "title_fa": "هم‌گرایی اروپا در سایه جنگ؛ بدون نیاز به ترامپ",
-        "title_en": "How the war in Iran has brought European countries closer together – without Trump",
-        "summary": [
-            "متن گزارش می‌دهد که پیامدهای جنگ در ایران باعث شده کشورهای اروپایی برای هماهنگی‌های بیشتر به هم نزدیک‌تر شوند، اما این روند به اقدام یا فشار شخصی ترامپ وابسته نیست.",
-            "نکته محوری این چارچوب، نقش عامل امنیتی-منطقه‌ای است: تهدید ناشی از جنگ، اروپایی‌ها را به هم‌راستایی سیاست‌ها و مدیریت ریسک‌های مشترک وادار کرده است.",
-            "گزارش به‌طور مستقیم نشان می‌دهد که «همسویی اروپا» محصول فشار سیاسیِ بیرونیِ یک چهره خاص نیست، بلکه بیشتر از منطق منافع و امنیت مشترک در مواجهه با بی‌ثباتی ایران تغذیه می‌کند."
-        ],
-        "impact": "این هم‌گرایی می‌تواند قدرت چانه‌زنی اروپا را در قبال ایران و مدیریت هزینه‌های جنگ بالا ببرد، حتی اگر عامل محرک آن در رسانه «ترامپ» معرفی نشود.",
-        "tag": "اروپا",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "The Conversation",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGpRTjRNSG1Ud1VQY21QclhWX1VxeGlBQlJZcml5LW92X2w5ajlNQV9rTXp4cnFQU1R6QjhNVWxnZFgxWnBFSHJQTjJPQU91VUFFcEQ1OW9leHhZUXFhVS1ZSk9BaW5ROTlkQkdKVFhDRlBITzA5T2ZXOGJOMVVRTUI5dG9nTzM4bVFMek1nMVRnSVRXRUlXSzZDRm5qMFdDelRqanlRNE0zWFp2R3VNRXhXdl9iZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGpRTjRNSG1Ud1VQY21QclhWX1VxeGlBQlJZcml5LW92X2w5ajlNQV9rTXp4cnFQU1R6QjhNVWxnZFgxWnBFSHJQTjJPQU91VUFFcEQ1OW9leHhZUXFhVS1ZSk9BaW5ROTlkQkdKVFhDRlBITzA5T2ZXOGJOMVVRTUI5dG9nTzM4bVFMek1nMVRnSVRXRUlXSzZDRm5qMFdDelRqanlRNE0zWFp2R3VNRXhXdl9iZw",
-        "image": null,
-        "timestamp": 1776888647.0
-    },
-    {
-        "title_fa": "میانجی‌ها برای بازگرداندن ایران و آمریکا به میز مذاکره تحت فشار ادامه درگیری در تنگه",
-        "title_en": "Mediators Push to Get Iran, U.S. Back Into Negotiations Friday",
-        "summary": [
-            "طبق گزارش وال‌استریت ژورنال، درحالی‌که «جنگ هوایی» بین آمریکا و ایران در یک توقف موقت قرار گرفته، میانجی‌ها تلاش دارند ایران و آمریکا را به مذاکرات (جمعه) برگردانند؛ یعنی تمرکز از فاز نظامی به فاز چانه‌زنی دیپلماتیک منتقل می‌شود.",
-            "همزمان، گزارش تصریح می‌کند نبرد بر سر «کنترل تنگه» همچنان جریان دارد؛ بنابراین حتی با وقفه در حملات هوایی، منبع اصلی ریسک تشدید در حوزه عملیاتی باقی می‌ماند.",
-            "این وضعیت نشان می‌دهد رژیم و آمریکا هر دو هنوز در چارچوب فشارِ مستمر و مدیریت بحران حرکت می‌کنند، نه خروج از بن‌بست؛ مذاکرات قرار است بر اختلاف‌های امنیتی/کنترلیِ جاری بر تنگه اثر بگذارد، اما تضمینی از متن گزارش ارائه نشده است."
-        ],
-        "impact": "توقف موقت جنگ هوایی همراه با ادامه درگیری بر سر کنترل تنگه، احتمال تبدیل بحران به «مذاکره با ریسک عملیاتی» را بالا می‌برد و می‌تواند هر لحظه با شکست مدیریت میانجی‌گری دوباره شعله‌ور شود.",
-        "tag": "مذاکره",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/iran-war-us-ceasefire-2026",
-        "clean_url": "https://www.wsj.com/livecoverage/iran-war-us-ceasefire-2026",
-        "image": "http://www.bing.com/th?id=ONUT.XsD_RKMnrT0JMYcNK97IeQ&pid=News",
-        "timestamp": 1776888180.0
     }
 ]
