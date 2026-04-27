@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "قطع سفر مذاکره‌ای آمریکا و بن‌بست؛ چرا آتش‌بس «برد-برد» نیست",
+        "title_en": "Donald Trump’s Lose-Lose Negotiations with Iran",
+        "summary": [
+            "دونالد ترامپ سفر برنامه‌ریزی‌شده اردوی مذاکره‌ای با محوریت جارد کوشنر و استیو ویتکف را برای تلاش جهت پایان جنگ با ایران لغو کرد؛ جنگی که با وجود تمدید یک آتش‌بس هنوز عملاً متوقف نشده است.",
+            "طبق گزارش، تهران با حفظ «تا حد زیادی بسته» نگه‌داشتن تنگه هرمز، و واشنگتن با ادامه محاصره/بلوکاد بنادر ایران، هر دو طرف را در وضعیت فشار دائمی نگه داشته‌اند و فاصله از توافق بر سر مواد هسته‌ای بیشتر شده است.",
+            "علی واعظ (International Crisis Group) آتش‌بس را ذاتاً ناپایدار توصیف می‌کند: هر توقیف کشتی، هشدار شلیک، یا اقدام رهگیری می‌تواند جرقه بازگشت به درگیری گسترده شود؛ سپس توضیح می‌دهد ایران به‌دلیل محدودیت ظرفیت ذخیره نفت و سرمایه‌گذاری کم در زیرساخت انرژی، در صورت توقف تولید ممکن است نتواند سریع احیا کند، هرچند با فروش نفت به چین «چند ماه» برای تحمل فشار ذخیره اقتصادی دارد."
+        ],
+        "impact": "آتش‌بس در عمل به یک بازی پرریسکِ تشدید-تشدیدنشدن تبدیل شده و فشار اقتصادی و امنیت دریایی، احتمال لغزش به درگیری دوباره را بالا می‌برد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New Yorker",
+        "url": "https://www.newyorker.com/news/q-and-a/donald-trumps-lose-lose-negotiations-with-iran",
+        "clean_url": "https://www.newyorker.com/news/q-and-a/donald-trumps-lose-lose-negotiations-with-iran",
+        "image": null,
+        "timestamp": 1777326631.0
+    },
+    {
         "title_fa": "ترامپ به ایران پیام می‌دهد «تماس بگیرید»؛ بن‌بست مذاکرات صلح همزمان با میزبانی پوتین از دیپلمات ارشد تهران",
         "title_en": "Trump tells Iran 'call us,' with peace talks stalled as Putin hosts Tehran's top diplomat",
         "summary": [
@@ -5381,23 +5399,5 @@
         "clean_url": "https://www.reuters.com/world/asia-pacific/iran-tightens-control-hormuz-after-us-calls-off-renewed-attacks-2026-04-23",
         "image": "http://www.bing.com/th?id=ONUT.lcb1nmcuCSK2QniPFIySaw&pid=News",
         "timestamp": 1776915720.0
-    },
-    {
-        "title_fa": "احمد وحیدی؛ فرمانده سایه‌ای که مدیریت پاسخ نظامی و تیم مذاکره ایران را در دست گرفت",
-        "title_en": "Meet Ahmad Vahidi — the shadowy general actually running Iran — and Trump’s biggest obstacle to peace",
-        "summary": [
-            "بر اساس گزارش، پس از حملات هوایی آمریکا-اسرائیل به رهبری ایران و کشته‌شدن ده‌ها مقام ارشد در روزهای نخست جنگ، احمد وحیدی فرمانده نیروی قدس را کنار زده و به چهره محوری کنترل «پاسخ نظامی» و جهت‌گیری «تیم مذاکره» تبدیل شده است.",
-            "به ادعای تحلیلگران، وحیدی با حلقه نزدیک خود کنترل را در دست گرفته و در نتیجه موضع تهران سخت‌تر شده؛ طوری که مقامات ایران در همین هفته حاضر نشده‌اند در مذاکرات صلح با آمریکا شرکت کنند.",
-            "هم‌زمان، گزارش می‌گوید تهران حملات علیه کشتی‌های در حال عبور از تنگه هرمز را افزایش داده و این روند به‌عنوان ابزار فشار در منازعه دنبال می‌شود."
-        ],
-        "impact": "این جابه‌جایی قدرت به سمت یک مدیریت کاملاً امنیتی-نظامی، احتمال تشدید چرخه درگیری در تنگه هرمز و بن‌بست در مذاکرات را بالا می‌برد.",
-        "tag": "escalation",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/04/23/world-news/who-is-ahmad-vahidi-man-actually-running-iran-and-blocking-a-peace-deal/",
-        "clean_url": "https://nypost.com/2026/04/23/world-news/who-is-ahmad-vahidi-man-actually-running-iran-and-blocking-a-peace-deal",
-        "image": "http://www.bing.com/th?id=ONUT.aDhVRvcRdxoqOM4fThL6-Q&pid=News",
-        "timestamp": 1776914100.0
     }
 ]
