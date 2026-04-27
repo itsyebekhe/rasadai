@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جزئیات مذاکرات آتش‌بس میان آمریکا و ایران (به‌روایت PBS)",
+        "title_en": "Here's what to know about ceasefire negotiations between the U.S. and Iran",
+        "summary": [
+            "PBS با هدف «چه باید بدانید» به موضوع مذاکرات آتش‌بس میان آمریکا و ایران پرداخته و خبر را در قالب پوشش تحلیلی-خبری معرفی می‌کند.",
+            "متن ارائه‌شده صرفاً به وجود مذاکرات اشاره دارد و اطلاعات مشخصی از جزئیات توافق، جدول زمانی، یا خطوط قرمز طرفین در اختیار نمی‌گذارد.",
+            "چون داده‌های این بخش محدود است، نمی‌توان درباره اثر اقتصادی/سیاسی داخلی، واکنش نهادهای رژیم، یا هرگونه سنجه فشار خارجی به‌طور دقیق اظهار نظر کرد."
+        ],
+        "impact": "در غیاب جزئیات قابل‌اتکا در متن، اثر عملی فعلاً بیشتر در سطح روند سیاسی قابل رصد است تا نتیجه نهایی و قابل اندازه‌گیری.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "PBS",
+        "url": "https://www.pbs.org/newshour/world/heres-what-to-know-about-ceasefire-negotiations-between-the-u-s-and-iran",
+        "clean_url": "https://www.pbs.org/newshour/world/heres-what-to-know-about-ceasefire-negotiations-between-the-u-s-and-iran",
+        "image": null,
+        "timestamp": 1777303175.0
+    },
+    {
         "title_fa": "اظهارات ایران درباره فرماندهی نظامی تنگه هرمز و درخواست پرداخت به ریال؛ فشار مستقیم بر بازیگران منطقه‌ای",
         "title_en": "Middle East war live: Iran says its army should be authority of Hormuz, wants payments in rial",
         "summary": [
@@ -160,6 +178,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTlJyOWQ2LVpvVWFCZC1fSTgwckQwc1dSWGdlOVhtZEluM2wyT3FndFVXSkFvdmhGYmVwNk9kNUtoNUR3RW15WWxiUDVyZ3VBTElMa2RyQmxqNEIzU3paeDJid1ZseEtHU0hRcFU1VVNxODg1",
         "image": null,
         "timestamp": 1777284008.0
+    },
+    {
+        "title_fa": "ایران: بازگشایی تنگه هرمز مشروط به پایان جنگ از سوی آمریکا",
+        "title_en": "The Latest: Iran wants Strait of Hormuz reopening tied to US ending the war, officials say",
+        "summary": [
+            "بر اساس گزارش SFGATE، مذاکرات آمریکا و ایران پس از بن‌بست آخرهفته متوقف شده و با وجود آتش‌بس، تنش در تنگه هرمز ادامه دارد؛ هم‌زمان قیمت نفت در روز دوشنبه رو به افزایش است.",
+            "در چارچوب همین بن‌بست، مقام‌های ایرانی اعلام کرده‌اند ایران خواهان بازگشایی تنگه هرمز است اما آن را به پایان جنگ و اقدام آمریکا گره زده‌اند.",
+            "این وضعیت یعنی هرگونه گشایش عملی در مسیر کشتیرانی و صادرات نفت، در گرو تغییر موضع سیاسی-امنیتی آمریکا است و فعلاً مانعی هم‌چنان در سطح عملیاتی (تنش در تنگه) باقی مانده است."
+        ],
+        "impact": "ادامه تنش در تنگه هرمز و تعلیق مذاکرات، ریسک اختلال در صادرات نفت را بالا نگه می‌دارد و می‌تواند نوسان قیمت نفت را تشدید کند.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "SFGATE",
+        "url": "https://www.sfgate.com/business/article/the-latest-oil-prices-go-up-over-stalled-us-iran-22227456.php",
+        "clean_url": "https://www.sfgate.com/business/article/the-latest-oil-prices-go-up-over-stalled-us-iran-22227456.php",
+        "image": "http://www.bing.com/th?id=ONUT.s_kkhh_rqRzlDj_nAZCovw&pid=News",
+        "timestamp": 1777281780.0
+    },
+    {
+        "title_fa": "افزایش قیمت جهانی نفت به بالای ۱۰۲ دلار؛ نگرانی از محدودیت صادرات ایران به خاطر ظرفیت ذخیره‌سازی",
+        "title_en": "Global oil prices top $102 a barrel on concerns Iran may have to cut output due to storage issues",
+        "summary": [
+            "طبق گزارش MarketWatch (MSN)، قیمت آتی نفت در معاملات روز دوشنبه به بالای ۱۰۲ دلار رسید و محرک اصلی آن «اختلاف و درگیری تنشی» میان آمریکا و ایران و نیز «بلاکینگ/اختلال» در تنگه هرمز اعلام شد.",
+            "در متن گزارش، مشکل محوری این است که ذخیره‌سازی نفت خام در ایران ممکن است نزدیک ظرفیت نهایی شود؛ در نتیجه احتمال داده می‌شود ایران برای جلوگیری از سرریز، ناچار به کاهش تولید/خروجی شود.",
+            "این سناریو، مستقیماً به عنوان عامل فشار افزایشی بر بازار جهانی نفت معرفی شده است: هرچه ریسک کاهش عرضه (به‌سبب محدودیت ذخیره) بیشتر شود، قیمت‌ها بالاتر می‌روند."
+        ],
+        "impact": "افزایش قیمت نفت ناشی از ریسک اختلال در صادرات و محدودیت لجستیکی ایران، هم هزینه‌های بازار انرژی را بالا می‌برد و هم می‌تواند اهرم مالی رژیم را تضعیف کند.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "MarketWatch on MSN",
+        "url": "https://www.msn.com/en-us/money/markets/global-oil-prices-top-102-a-barrel-on-concerns-iran-may-have-to-cut-output-due-to-storage-issues/ar-AA21Op2u",
+        "clean_url": "https://www.msn.com/en-us/money/markets/global-oil-prices-top-102-a-barrel-on-concerns-iran-may-have-to-cut-output-due-to-storage-issues/ar-AA21Op2u",
+        "image": "http://www.bing.com/th?id=ONUT.rlCyoNaWkK-oNdZCVeDaSA&pid=News",
+        "timestamp": 1777281120.0
     },
     {
         "title_fa": "ترامپ طرح جدید ایران را بررسی می‌کند؛ عارفچی در آستانه دیدار با پوتین و انتقال «خط قرمزها» درباره هرمز و هسته‌ای",
@@ -5345,59 +5399,5 @@
         "clean_url": "https://www.wsj.com/livecoverage/iran-war-us-ceasefire-2026",
         "image": "http://www.bing.com/th?id=ONUT.XsD_RKMnrT0JMYcNK97IeQ&pid=News",
         "timestamp": 1776888180.0
-    },
-    {
-        "title_fa": "اظهارنظر سناتور جمهوری‌خواه درباره «تمام کردن» ایران با بمب هسته‌ای و پیامدهای آن",
-        "title_en": "GOP Senator Suggests Trump Should “Finish” Iran With Nuclear Bomb",
-        "summary": [
-            "طبق گزارش Truthout، یک سناتور جمهوری‌خواه گفته دونالد ترامپ باید ایران را با بمب هسته‌ای «finish» کند؛ ادبیات این اظهارنظر صریحاً به تشدید خطر جنگ هسته‌ای اشاره دارد.",
-            "این نوع اظهارنظر نشان‌دهنده وجود گفتمان تهاجمی در بخشی از سیاست‌گذاری آمریکا است که می‌تواند فضای فشار خارجی و تهدید عملی علیه تهران را تشدید کند، حتی اگر هنوز به اقدام رسمی تبدیل نشده باشد.",
-            "چنین پیام‌هایی معمولاً به عنوان عامل بی‌ثبات‌کننده عمل می‌کنند: هم هزینه‌های اقتصادی و امنیتی را بالا می‌برند و هم احتمال واکنش‌های تندتر بازیگران منطقه‌ای و نیروهای نیابتی را افزایش می‌دهند."
-        ],
-        "impact": "اظهارنظر هسته‌ایِ علنیِ یک مقام آمریکایی، ریسک تشدید بحران را بالا می‌برد و می‌تواند به فشار خارجی بیشتر و بی‌ثباتی منطقه‌ای دامن بزند.",
-        "tag": "ایالات‌متحده",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Truthout",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNei1PZ003WEpNM0twZ0lZQnYzb1UxNGdpOTdxRzdLem1ncWxYVGlLdzRJTkZLb3c2NVotRFZidnd3c1NDaHF3VmQ3VmlHMHp6OTVfem9EVjV5bnJ6d2lXbVN1LVRhQWZWNW9LRWtmcU5EYUNhZzBRMEtvZ0ZUT2F5eldoU3gxeGNYYkt1Z055WkliN3pmeUlGV0Jn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNei1PZ003WEpNM0twZ0lZQnYzb1UxNGdpOTdxRzdLem1ncWxYVGlLdzRJTkZLb3c2NVotRFZidnd3c1NDaHF3VmQ3VmlHMHp6OTVfem9EVjV5bnJ6d2lXbVN1LVRhQWZWNW9LRWtmcU5EYUNhZzBRMEtvZ0ZUT2F5eldoU3gxeGNYYkt1Z055WkliN3pmeUlGV0Jn",
-        "image": null,
-        "timestamp": 1776887634.0
-    },
-    {
-        "title_fa": "ایران بن‌بست دیپلماتیک را به «محاصره ترامپ» نسبت می‌دهد؛ آتش‌بس شکننده پابرجاست",
-        "title_en": "Iran blames Trump’s blockade for diplomatic impasse as fragile truce holds",
-        "summary": [
-            "طبق گزارش، ایران علت «بن‌بست دیپلماتیک» را اقدامات ترامپ و «محاصره» می‌داند، در حالی‌که همزمان می‌گوید یک آتش‌بس شکننده هنوز برقرار است.",
-            "این موضع‌گیری نشان می‌دهد تهران در چارچوب فشار خارجی، مسئولیت بن‌بست را به بیرون نسبت می‌دهد و در عین حال از حفظ کانال حداقلیِ تنش‌زدایی برای زمان‌خریدن استفاده می‌کند.",
-            "از آنجا که گزارش به «تداوم آتش‌بس» اشاره دارد، فعلاً ریسک تشدید فوری کاهش یافته؛ اما بن‌بست ناشی از فشارهای سیاسی/اقتصادی می‌تواند ناپایداری آتش‌بس را در آینده نزدیک تشدید کند."
-        ],
-        "impact": "بازداشتن گفت‌وگوها زیر سایه «محاصره» و همزمانی آن با حفظ آتش‌بس، نشانه وضعیت گذار پرریسک است که با هر تغییر در فشار یا شکست مذاکرات می‌تواند سریع به تنش فعال تبدیل شود.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmVWTDVkTjd4WEpaRG1Dc19lLVRqbmdpaEo5ZVJjamR3OVhSRWNfekZCOWpEZ0M0aGdwbWIwR1FwUWhBaVVpaXhzMHVRZWVmaGpYZll6SUF2eTJEMmFlN0M1ODNjME1qRXczTHQ5SFRDQmc3dHNWak9JMUxTV2R0NTBJa1lVakcxT05pY18wY2JpUUdxME5ZNWRrbzh2a3N3MmdPelIwSDhnSnZ2dnRmTUNnbVPSAboBQVVfeXFMT1lrSVVmbk9pa1YwcUVOOFVoTUNlQWF2ZW5BNVR5T1c5WXJwMWNBZWdURXFKWVFIS1NjdUJEUENaSXVyNjdLUERReldqVzV1WlY1eHNjVmhsZ1gxQlpYZy0zMzFxTzlWUllWcXBBTmo0Smt3WGJfZWFnQ1psNldIeEUxR0M0OE1UOWNwYW9UMUVDdXV1SzdsOUpBWEpwMFlKa2RqeVpHTE9oM0ZaZXdQUXIzQmx1UXMzSlZn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmVWTDVkTjd4WEpaRG1Dc19lLVRqbmdpaEo5ZVJjamR3OVhSRWNfekZCOWpEZ0M0aGdwbWIwR1FwUWhBaVVpaXhzMHVRZWVmaGpYZll6SUF2eTJEMmFlN0M1ODNjME1qRXczTHQ5SFRDQmc3dHNWak9JMUxTV2R0NTBJa1lVakcxT05pY18wY2JpUUdxME5ZNWRrbzh2a3N3MmdPelIwSDhnSnZ2dnRmTUNnbVPSAboBQVVfeXFMT1lrSVVmbk9pa1YwcUVOOFVoTUNlQWF2ZW5BNVR5T1c5WXJwMWNBZWdURXFKWVFIS1NjdUJEUENaSXVyNjdLUERReldqVzV1WlY1eHNjVmhsZ1gxQlpYZy0zMzFxTzlWUllWcXBBTmo0Smt3WGJfZWFnQ1psNldIeEUxR0M0OE1UOWNwYW9UMUVDdXV1SzdsOUpBWEpwMFlKa2RqeVpHTE9oM0ZaZXdQUXIzQmx1UXMzSlZn",
-        "image": null,
-        "timestamp": 1776886062.0
-    },
-    {
-        "title_fa": "حملات غیرقانونی ماه مارس علیه زیرساخت انرژی میان اسرائیل و ایران",
-        "title_en": "Israel, Iran: Unlawful March Attacks on Energy Infrastructure",
-        "summary": [
-            "بر اساس گزارش Human Rights Watch، حملات ماه مارس به زیرساخت‌های انرژی در چارچوب درگیری میان اسرائیل و ایران «غیرقانونی» توصیف شده‌اند؛ یعنی نقض حقوق بین‌الملل و احتمال هدف‌گیری یا بی‌توجهی به اصول تفکیک و تناسب مطرح است.",
-            "تمرکز گزارش روی «زیرساخت انرژی» نشان می‌دهد خسارت و اختلال مستقیم می‌تواند به ظرفیت تولید/توزیع انرژی و پیامدهای اقتصادی-اجتماعی منجر شود، حتی اگر طرف‌ها ادعاهای متقابل داشته باشند.",
-            "این ادعاها وقتی با فقدان پاسخگویی واقعی همراه شود، به نفع تداوم چرخه حمله-انصراف خواهد بود و سطح خطر برای غیرنظامیان و تضعیف ثبات اقتصادی را بالا می‌برد."
-        ],
-        "impact": "هدف‌گیری یا آسیب‌پذیری زیرساخت انرژی، هم هزینه انسانی را تشدید می‌کند و هم فشار اقتصادی بر کشورها را در کوتاه‌مدت افزایش می‌دهد.",
-        "tag": "حقوق‌بین‌الملل",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Human Rights Watch",
-        "url": "https://www.hrw.org/news/2026/04/22/israel-iran-unlawful-march-attacks-on-energy-infrastructure",
-        "clean_url": "https://www.hrw.org/news/2026/04/22/israel-iran-unlawful-march-attacks-on-energy-infrastructure",
-        "image": null,
-        "timestamp": 1776885553.0
     }
 ]
