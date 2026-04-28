@@ -1,5 +1,77 @@
 [
     {
+        "title_fa": "روز ۶۰ جنگ ایران؛ تیم امنیت ملی آمریکا بررسی پیشنهاد صلح، تماس‌های روسیه-ایران و فشار برای بازگشایی تنگه هرمز",
+        "title_en": "Iran war: What’s happening on day 60 as diplomacy gathers pace?",
+        "summary": [
+            "تیم امنیت ملی آمریکا در حال بررسی پیشنهاد صلح ایران برای توقف جنگ و بازگشایی تنگه هرمز است؛ هم‌زمان واشنگتن درباره گام بعدی خود می‌اندیشد و احتمالاً گفت‌وگوهای مربوط به برنامه هسته‌ای را عقب می‌اندازد.",
+            "وزیر خارجه ایران عباس عراقچی در سن‌پترزبورگ با ولادیمیر پوتین دیدار کرد و گفت تهران درخواست آمریکا برای از سرگیری مذاکرات را در نظر دارد؛ در کنار آن، ایران آمریکا را مسئول بن‌بست مذاکرات معرفی می‌کند و در واکنش به توقیف دو نفتکش «ایران‌لینک» آن را «دزدی دریایی» در آب‌های آزاد می‌خواند.",
+            "هم‌زمان ده‌ها کشور بر «بازگشایی فوری و بدون مانع» تنگه هرمز تاکید کرده‌اند؛ در سطح داخلی نیز یک مقام ایرانی اعلام کرده نیروهای مسلح طبق قانون پیشنهادی مدیریت آبراه اختیار تصمیم‌گیری درباره تنگه را خواهند داشت."
+        ],
+        "impact": "این ترکیب از کانال‌های دیپلماتیک (آمریکا-ایران و روسیه به‌عنوان واسطه) و فشار بین‌المللی برای هرمز، احتمال کاهش تنش‌ها را بالا می‌برد، اما هم‌زمان اختلاف بر سر مذاکرات هسته‌ای و درگیری بر سر کشتی‌گیری‌ها نشان می‌دهد ریسک تشدید همچنان پابرجاست.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/iran-war-happening-day-60-070602797.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-war-happening-day-60-070602797.html",
+        "image": null,
+        "timestamp": 1777360151.0
+    },
+    {
+        "title_fa": "به‌روزرسانی‌های جنگ؛ ادعای عملیات اسرائیل-آمریکا، تلفات سنگین و اجرای آتش‌بس",
+        "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+        "summary": [
+            "طبق گزارش، اسرائیل و آمریکا عملیات «Roaring Lion» و «Epic Fury» را در ۲۸ فوریه آغاز کردند با هدف اعلامی «ایجاد شرایط برای تغییر رژیم»؛ هم‌زمان ادعا شده است که علی خامنه‌ای در پی حمله اسرائیل به یک پناهگاه در تهران کشته شده و وزیر دفاع ایران و چند فرمانده سپاه نیز از بین رفته‌اند.",
+            "طبق همین متن، ایران در پاسخ با شلیک موشکی/حمله علیه چند کشور حاشیه خلیج فارس و پایگاه‌های نظامی آمریکا در منطقه دست به اقدام زده و در مقابل نیز حملات بالستیک به سرزمین اسرائیل از ۲۸ فوریه تا زمان گزارش ادامه داشته است؛ بر پایه اعداد ذکرشده «۱۲ سرباز و ۲۳ غیرنظامی» کشته و «حداقل ۷۶۹۳» نفر دیگر زخمی شده‌اند و همچنین «۱۳ نیروی آمریکایی» کشته شده‌اند (به نقل از CENTCOM).",
+            "در بخش تنظیم تنش، متن به اعلام یک «توافق آتش‌بس» در ۷ آوریل و اجرایی شدن آن از ۸ آوریل اشاره می‌کند، اما اختلاف روایت‌ها درباره حجم و منشاء حملات همچنان در جریان است."
+        ],
+        "impact": "ترکیب ضربه‌های سنگین و تلفات گسترده با وجود اعلام آتش‌بس، سطح خطر را برای هرگونه بازگشت سریع به درگیری بالا نگه می‌دارد و نشانه ضعف/شکست دفاعی و مدیریتی رژیم را تقویت می‌کند.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-04-28/live-updates-894376",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-04-28/live-updates-894376",
+        "image": null,
+        "timestamp": 1777359605.0
+    },
+    {
+        "title_fa": "افزایش قیمت نفت با وجود پیشنهاد ایران برای ازسرگیری بازگشایی تنگه هرمز",
+        "title_en": "Oil prices rise despite Iran’s proposal to reopen Strait of Hormuz",
+        "summary": [
+            "طبق گزارش الجزیره، با وجود مطرح شدن پیشنهاد ایران برای «بازگشایی مجدد تنگه هرمز»، قیمت نفت رشد کرده است؛ یعنی بازار این سیگنال را برای کاهش ریسک ژئوپلیتیک کافی ندانسته است.",
+            "این شکاف بین پیشنهاد سیاسی و واکنش بازار نشان می‌دهد که نگرانی اصلی سرمایه‌گذاران همچنان درباره استمرار تنش و امکان اختلال در مسیرهای حیاتی حمل‌ونقل نفتی پابرجاست.",
+            "بالا رفتن قیمت نفت، حتی در شرایطی که یک پیشنهاد سیاسی مطرح می‌شود، به معنای تداوم هزینه فرصت برای اقتصاد ایران و کل منطقه است و می‌تواند فشارهای جدید بر سیاست‌گذاری داخلی ایجاد کند."
+        ],
+        "impact": "افزایش قیمت نفت با وجود پیشنهاد بازگشایی هرمز، نشانگر آن است که رژیم با ابزارهای صرفاً پیشنهادی نتوانسته اعتماد بازار را برای کاهش ریسک عملیاتی بازگرداند.",
+        "tag": "نفت",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/oil-prices-rise-despite-iran-s-proposal-to-reopen-strait-of-hormuz/ar-AA21SzLW",
+        "clean_url": "https://www.msn.com/en-us/news/world/oil-prices-rise-despite-iran-s-proposal-to-reopen-strait-of-hormuz/ar-AA21SzLW",
+        "image": null,
+        "timestamp": 1777353404.0
+    },
+    {
+        "title_fa": "هنرِ معامله هسته‌ای؛ اهرم فشار یا زمان‌خری برای رژیم؟",
+        "title_en": "The Art of the Nuclear Deal",
+        "summary": [
+            "در گزارش نیویورک‌تایمز با عنوان «هنرِ معامله هسته‌ای»، محور بحث بر این است که مذاکره و طراحی توافق هسته‌ای چگونه می‌تواند منافع سیاسی را با هزینه‌های امنیتی جابه‌جا کند—نه صرفاً نتیجه فنی.",
+            "این نوع چارچوب‌سازی معمولاً به رژیم امکان می‌دهد از شکاف‌های اجرای توافق، زمانِ تنفس سیاسی و ابهام‌های نظارتی برای حفظ ظرفیت‌های خود استفاده کند (اگرچه جزئیات اجرایی در متن ارسالی شما نیست).",
+            "برای تحلیل راهبردی، نکته کلیدی این است که «هنر» در اینجا یعنی چگونه فشار خارجی می‌تواند به ابزار واقعی محدودسازی تبدیل شود یا صرفاً به مدیریت بحران و کاهش موقت فشار منجر گردد."
+        ],
+        "impact": "با توجه به متن محدود ارائه‌شده، اثر اصلی معامله هسته‌ای بیشتر به کیفیت اجرای آن و میزان تبدیل فشار به محدودیت‌های قابل راستی‌آزمایی وابسته است.",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/27/world/nuclear-deal-iran-trump-assasination-charges.html",
+        "clean_url": "https://www.nytimes.com/2026/04/27/world/nuclear-deal-iran-trump-assasination-charges.html",
+        "image": null,
+        "timestamp": 1777350000.0
+    },
+    {
         "title_fa": "ناخرسندی ترامپ از طرح ایران برای ازسرگیری بازگشایی تنگه هرمز",
         "title_en": "Trump Is Dissatisfied With Iran’s Plan to Reopen Strait of Hormuz",
         "summary": [
@@ -54,6 +126,42 @@
         "timestamp": 1777337300.0
     },
     {
+        "title_fa": "توقیف نفتکش ایرانی در تنگه هرمز و آغاز موج جدید درگیری‌های منطقه‌ای/لبنان",
+        "title_en": "US Iran war LIVE updates: Israel carries out air raids in southern Lebanon, says report; US intercepts Iranian tanker",
+        "summary": [
+            "گزارش‌ها حاکی است که نیروی مرکزی آمریکا (US Central Command) یک کشتی ایرانی را در تنگه هرمز متوقف کرده و اجازه نداده به مقصد برسد؛ وزارت‌دفاع آمریکا این اقدام را با هدف جلوگیری از رسیدن محموله به مقصد توصیف کرده است.",
+            "هم‌زمان، بر اساس گزارش Hindustan Times، اسرائیل در جنوب لبنان حملات هوایی انجام داده است؛ این یعنی الگوی فشار نظامی هم‌زمان در چند جبهه در حال تشدید است.",
+            "اطلاعات تکمیلی نشان می‌دهد کاخ سفید «در حال بررسی» وضعیت است؛ یعنی مرحله بعدی می‌تواند شامل تشدید محدودیت‌های دریایی/تحریمی یا پاسخ عملیاتی باشد."
+        ],
+        "impact": "توقیف شناور ایرانی در مسیر تنگه هرمز، هم هزینه عملیاتی و درآمدی رژیم را بالا می‌برد و هم احتمال تبدیل تنش‌های منطقه‌ای به درگیری گسترده‌تر را افزایش می‌دهد.",
+        "tag": "محاصره_دریایی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-abbas-aragchi-trump-peace-talks-pakistan-tehran-strait-of-hormuz-oil-prices-israel-hezbollah-101777339888071.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-abbas-aragchi-trump-peace-talks-pakistan-tehran-strait-of-hormuz-oil-prices-israel-hezbollah-101777339888071.html",
+        "image": "http://www.bing.com/th?id=ONUT.BeNmJaFN8EutcZlFfdf8Ew&pid=News",
+        "timestamp": 1777337100.0
+    },
+    {
+        "title_fa": "ارائه پیشنهاد برای بازگشایی تنگه هرمز و تعویق مذاکرات هسته‌ای؛ جابه‌جایی دیپلماتیک تهران در پی لغو سفر نمایندگان آمریکا",
+        "title_en": "Iran presented Trump with proposal to open Strait of Hormuz and delay nuclear talks",
+        "summary": [
+            "بر اساس گزارش NBC News، عباس عراقچی وزیر خارجه ایران در سن‌پترزبورگ حضور یافته؛ این اتفاق بعد از آن رخ داده که ترامپ سفر نمایندگان آمریکا به پاکستان را لغو کرده است.",
+            "در چارچوب این رویداد، ایران به ترامپ «پیشنهادی» ارائه کرده که محور آن بازگشایی تنگه هرمز و به‌تعویق افتادن گفت‌وگوهای هسته‌ای است.",
+            "این اقدام بیشتر یک اهرم زمان‌بندی و مدیریت ریسک در برابر فشار واشنگتن است تا یک حرکت هم‌راستا با پیشبرد فوری مذاکرات؛ چون هم‌زمان با جابه‌جایی مسیر دیپلماتیک آمریکا مطرح شده است."
+        ],
+        "impact": "این پیشنهاد نشان می‌دهد تهران تلاش می‌کند با خریدن زمان در پرونده هسته‌ای، از گره‌خوردن مستقیم بحران تنگه هرمز با روند مذاکرات جلوگیری کند.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/trump-iran-war-call-us-peace-talks-araghchi-putin-hormuz-rcna342251",
+        "clean_url": "https://www.nbcnews.com/world/iran/trump-iran-war-call-us-peace-talks-araghchi-putin-hormuz-rcna342251",
+        "image": "http://www.bing.com/th?id=ONUT.WTEMQ3Gvq_u7lawfaFSNNg&pid=News",
+        "timestamp": 1777331280.0
+    },
+    {
         "title_fa": "درگیری آمریکا و ایران در سازمان ملل پس از اعطای نقش «عدم اشاعه» به تهران",
         "title_en": "US, Iran clash at UN after Tehran gets nuclear non-proliferation role",
         "summary": [
@@ -70,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbGJYSHBXMVhzaG00Ym1GQS1iTGF3SXVVQ2hWNDlmRlRvSE9EYjB4MXI5NlhzSDYzaUlmQUJHX0JoRnJhMDJVeFpCakVWNVFnNkQzbjJfMk5Jc2xoLWFaazJpem5mbFhMdlRVQ1RQeWRXeXVLZWFpR0VsNklObHhzTVluWnRvX2pZbDlQX1I5cVJSX19vRnZaTDNOdEdKNURJNUtrVzBwSm11RF8zWG9lMjM0ZlZTbVBRQjJF",
         "image": null,
         "timestamp": 1777328889.0
+    },
+    {
+        "title_fa": "بافت فرش و تولید صنعتی ایران در آستانه توقف؛ رهبران همچنان روی «صبر ترامپ» شرط بسته‌اند",
+        "title_en": "Iran's economy has been battered. Its leaders still think Trump will blink first",
+        "summary": [
+            "گزارش از افت شدید تولید در صنایع داخلی می‌گوید: در مرکز صنعت فرش، تولید به «نزدیک توقف» رسیده و در شبکه توزیع مواد غذایی هم مشکل بسته‌بندی (برای شیر و کره) دیده می‌شود.",
+            "در کنار بخش‌های مصرفی، صنعت فلزات هم ضربه خورده؛ نورد/کوره‌های فولاد که زمانی موتور تولید بودند، اکنون با کاهش جدی فعالیت روبه‌رو هستند (متن به «فولادسازهای بزرگ» اشاره می‌کند).",
+            "با وجود این فرسایش اقتصادی، نگاه سیاسی رهبران ایران همچنان این است که ترامپ «اول عقب‌نشینی» می‌کند؛ یعنی انتظار مدیریت فشار از سمت آمریکا هنوز جایگزین اصلاح داخلی نشده."
+        ],
+        "impact": "این وضعیت نشان می‌دهد فشار اقتصادی به شکل گسترده به زنجیره تولید و توزیع رسیده و با اتکای سیاسی رهبران به عقب‌نشینی طرف مقابل، احتمال تداوم ناپایداری اقتصادی بالاست.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.85,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/irans-economy-has-been-battered-its-leaders-still-think-trump-will-blink-first/ar-AA21SC7W",
+        "clean_url": "https://www.msn.com/en-us/news/world/irans-economy-has-been-battered-its-leaders-still-think-trump-will-blink-first/ar-AA21SC7W",
+        "image": "http://www.bing.com/th?id=ONUT.sK5StvLALlBwc8sDwIHGBg&pid=News",
+        "timestamp": 1777328041.0
     },
     {
         "title_fa": "قطع سفر مذاکره‌ای آمریکا و بن‌بست؛ چرا آتش‌بس «برد-برد» نیست",
@@ -5273,131 +5399,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-orders-navy-to-shoot-kill-boats-putting-mines-in-strait/ar-AA21ikNh",
         "image": "http://www.bing.com/th?id=ONUT.KIO3_sHdAINNeJcebQkz8A&pid=News",
         "timestamp": 1776937152.0
-    },
-    {
-        "title_fa": "نمودارها: اقتصاد ایران در سراشیبی سقوط آزاد",
-        "title_en": "These charts show how Iran's economy is in freefall",
-        "summary": [
-            "گزارش CNBC با اتکا به «نمودارها» از سقوط جدی اقتصاد ایران خبر می‌دهد و آن را به‌صورت مستقیم «freefall» توصیف می‌کند؛ یعنی ناتوانی در مهار روندهای کاهشی و تشدید فشارهای اقتصادی.",
-            "این چارچوب، به‌طور ضمنی بر اثرات تضعیف ساختاری دلالت دارد: وقتی شاخص‌های کلیدی در نمودارها نزولی و شتاب‌دار دیده می‌شوند، ظرفیت دولت برای مدیریت هزینه‌ها، ثبات بازار و برنامه‌ریزی کاهش پیدا می‌کند.",
-            "در نبود جزئیات عددی از متن ارائه‌شده، نمی‌توان درباره منشأ دقیق (تحریم، سیاست پولی، شوک‌های ارزی یا دیگر عوامل) ادعا کرد؛ اما پیام محوری گزارش روشن است: روندها به سمت وخامت پیوسته می‌روند و هزینه اجتماعی آن بالا خواهد رفت."
-        ],
-        "impact": "سقوط اقتصادیِ نموداری، پایه‌های ثبات حکمرانی را با تشدید نارضایتی و فشار معیشتی تضعیف می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.8,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalNfSXQxeWtPOV9CYmxBMG9sVi1Kb0FIbmNaTTMxWFFpUExBUzN6ZmxkYVpyLWQ2VER1WU92bVRJOTliVDQ5dWItVTBCQWhBcVNnSFUxa0VBU1h6ZTItWGZxNUYwcmhYaHZXWnlLb3loNS1jY1U5dXNCSXdYelQzSlhkMkNWcVNzOXJ2VnJ0ZzBYNGhGRzJF0gGcAUFVX3lxTE1vZ0lSWnUxOWs3SjRnY1lzOFBuOTFoNUZ5SkFNb1UxTUwtNER2bnhQR0ZVZjlVQ1piMDB4RXZNbTlvcEhiLWpXZi1QZ2FibG5MTXVZMFhESFo4YUhQMk9fUFZBVW9FTVNrU0N4YlZiNXFsb2tCeVhRV0hyMVhXdkp1eFpSdzBQVENjc19EMWxsbGhMN3FMZXVlVFMxaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalNfSXQxeWtPOV9CYmxBMG9sVi1Kb0FIbmNaTTMxWFFpUExBUzN6ZmxkYVpyLWQ2VER1WU92bVRJOTliVDQ5dWItVTBCQWhBcVNnSFUxa0VBU1h6ZTItWGZxNUYwcmhYaHZXWnlLb3loNS1jY1U5dXNCSXdYelQzSlhkMkNWcVNzOXJ2VnJ0ZzBYNGhGRzJF0gGcAUFVX3lxTE1vZ0lSWnUxOWs3SjRnY1lzOFBuOTFoNUZ5SkFNb1UxTUwtNER2bnhQR0ZVZjlVQ1piMDB4RXZNbTlvcEhiLWpXZi1QZ2FibG5MTXVZMFhESFo4YUhQMk9fUFZBVW9FTVNrU0N4YlZiNXFsb2tCeVhRV0hyMVhXdkp1eFpSdzBQVENjc19EMWxsbGhMN3FMZXVlVFMxaw",
-        "image": null,
-        "timestamp": 1776936731.0
-    },
-    {
-        "title_fa": "ادعای ترامپ درباره کنترل آمریکا بر تنگه هرمز و گزارش اختلاف در ایران بر سر رهبری",
-        "title_en": "Iran-Israel War Live Updates: Trump claims US control over Strait of Hormuz, says Iran divided over leadership",
-        "summary": [
-            "ترامپ مدعی شده آمریکا کنترل تنگه هرمز را در اختیار دارد؛ این ادعا مستقیماً به یکی از گلوگاه‌های حیاتی انرژی در منطقه گره می‌خورد و می‌تواند ریسک سوءتفاهم و تشدید تنش را بالا ببرد.",
-            "در همین چارچوب، گزارش می‌گوید ایران بر سر «رهبری» دچار اختلاف است؛ چنین شکاف سیاسی اگر واقعی باشد، توان تصمیم‌گیری و مدیریت بحران رژیم را فرسایش می‌دهد.",
-            "این خبر در قالب «لایو آپدیت» منتشر شده و بیشتر بر ادعاهای سیاسی و گزارش‌های اختلاف داخلی تکیه دارد، نه بر ارائه شواهد روشن از اقدام نظامی مشخص یا توافق/تحریم جدید."
-        ],
-        "impact": "ادعای کنترل تنگه هرمز، فضای جنگ روانی و احتمال تشدید برخورد در آب‌های کلیدی را افزایش می‌دهد و در صورت وجود شکاف رهبری در ایران، ثبات مدیریت بحران داخلی را تضعیف می‌کند.",
-        "tag": "تنگههرمز",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-ceasefire-talks-hormuz-crisis-oil-impacts-liveblog-14003354.html",
-        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-ceasefire-talks-hormuz-crisis-oil-impacts-liveblog-14003354.html",
-        "image": "http://www.bing.com/th?id=ONUT.RuWw0b_FA7N52G070bfYbw&pid=News",
-        "timestamp": 1776931500.0
-    },
-    {
-        "title_fa": "ترامپ دستور نابودی قایق‌های مین‌گذار ایران در تنگه هرمز را صادر کرد؛ هم‌زمان ایران از درآمد عوارض کشتیرانی و آمریکا از اقدام دریایی خبر داد",
-        "title_en": "Trump orders Iran mine-layers sunk, as Iran tolls tankers",
-        "summary": [
-            "ترامپ به نیروی دریایی آمریکا دستور داده هر قایقی که در تنگه هرمز اقدام به مین‌گذاری کند «شلیک و نابود» شود؛ این تصمیم در ادامه تنش‌های دریایی و برای فشار بیشتر علیه تهران مطرح شد.",
-            "آمریکا پس از سوار شدن ناوهایش بر یک کشتی حامل نفت ایران در اقیانوس هند، اعلام کرد عملیات رهگیری دریایی و «حق بازدید» را علیه کشتی «M/T Majestic X» انجام داده و ادامه اجرای «مبارزه دریایی جهانی» برای برهم‌زدن شبکه‌های غیرقانونی و قطع پشتیبانی از ایران را وعده داد.",
-            "در طرف ایران، یک مقام ارشد گفت تهران «نخستین درآمد» از عوارضی را که از عبور کشتی‌ها از تنگه هرمز می‌گیرد دریافت کرده؛ ایران هم اعلام کرد تا زمانی که بنادرش در محاصره آمریکا باشد، تنگه را جز برای شمار محدودی از کشتی‌های مورد تأیید نخواهد گشود."
-        ],
-        "impact": "این ترکیب از دستور شلیک علیه مین‌گذارها، تشدید رهگیری‌های دریایی و تداوم عوارض‌گیری/محاصره بندری، خطر درگیری مستقیم در تنگه هرمز را بالا برده و اهرم اقتصادی برای هر دو طرف ایجاد می‌کند.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/iran-says-wont-reopen-hormuz-065947492.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-says-wont-reopen-hormuz-065947492.html",
-        "image": "http://www.bing.com/th?id=ONUT.sAltt86uNFFo8T0LSSFvtg&pid=News",
-        "timestamp": 1776931380.0
-    },
-    {
-        "title_fa": "فرصت ترامپ برای بازپس‌گیری ابتکار در جنگ ایران، اما عامل غیرقابل‌مهار اسرائیل",
-        "title_en": "Trump’s chance to regain control of the Iran war",
-        "summary": [
-            "ترامپ بار دیگر تهدیدهای تشدید علیه ایران را عقب انداخت و در ۲۱ آوریل، «توافق توقف درگیری» پیشنهادی پاکستان را پذیرفت؛ این در حالی است که بن‌بست واقعی وجود دارد: محاصره دریایی آمریکا علیه بنادر ایران ادامه دارد و همزمان ایران نیز «حملات جدید» به کشتیرانی بین‌المللی در تنگه هرمز انجام داده است.",
-            "متن می‌گوید تمدیدِ توقف درگیری (با نقص‌های جدی) نشانه شکنندگی وضعیت است، مخصوصاً وقتی با «توقف درگیری لبنان» که عملاً به اسرائیل تحمیل شده هم‌زمان می‌شود؛ نتیجه احتمالی، شکاف منافع آمریکا و اسرائیل در جنگ منطقه‌ای است.",
-            "محرک اصلیِ پیش‌بینی‌ناپذیری، اسرائیل است: نتانیاهو به سمت فروپاشی جمهوری اسلامی می‌خواهد، اما ترامپ ممکن است با «موفقیت تاکتیکی» راضی به خروج کنترل‌شده شود. ایران نیز جنگ را «وجودی» می‌بیند و بر اساس منطق بقا، با فشار فرسایشی بر بازار انرژی و همسایگان، پله‌پله سطح درگیری را بالا برده است (از حملات واشنگتن/تل‌آویو تا حمله به حمل‌ونقل هرمز و زیرساخت انرژی)."
-        ],
-        "impact": "این توقف درگیریِ نیمه‌کاره بیشتر از کاهش تنش، نشان می‌دهد جنگ وارد فاز «مدیریت بحران» شده است؛ جایی که ادامه محاصره و حملات متقابل می‌تواند دوباره چرخه تشدید را فعال کند، به‌خصوص اگر اسرائیل به دنبال مسیر فروپاشی باشد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.3,
-        "source": "Defense Priorities",
-        "url": "https://www.ocregister.com/2026/04/22/trumps-chance-to-regain-control-of-the-iran-war/",
-        "clean_url": "https://www.ocregister.com/2026/04/22/trumps-chance-to-regain-control-of-the-iran-war",
-        "image": null,
-        "timestamp": 1776930750.0
-    },
-    {
-        "title_fa": "ایران «تسلیحات هسته‌ای» را در اختیار گرفته؛ اکنون آمریکا باید خود را با واقعیت جدید وفق دهد",
-        "title_en": "Iran Found Its 'Nuclear Weapon'. Now The US Has To Adapt",
-        "summary": [
-            "طبق ادعای NDTV، ایران به نقطه‌ای رسیده که عنوان «سلاح هسته‌ای» برای آن به کار رفته و این یک تغییر راهبردی برای محاسبات طرف مقابل ایجاد می‌کند.",
-            "مضمون گزارش بر این است که با شکل‌گیری این توان، آمریکا دیگر نمی‌تواند با رویکردهای پیشین عمل کند و ناچار به «سازگاری» در سیاست و برنامه‌ریزی امنیتی خواهد بود.",
-            "در متن ارائه‌شده، هیچ جزئیات قابل راستی‌آزمایی درباره زمان، روش، سطح غنی‌سازی یا آزمون/استقرار ارائه نشده و بنابراین ارزیابی اثرگذاری به‌صورت کلی و بر پایه پیام اصلی خبر محدود می‌ماند."
-        ],
-        "impact": "اگر ادعا درست باشد، پیامد اصلی آن تغییر موازنه بازدارندگی و الزام آمریکا به بازطراحی راهبردهاست؛ اما چون جزئیات فنی/عملیاتی در متن وجود ندارد، میزان اثر دقیق نامشخص می‌ماند.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "NDTV",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnZfZnVkX1pLRndlQ3R6QmVsOW1sSVVNdGxCeE1oS0p0UFlId01NR1JTcE5haGRYZkluUmI5c1VWZDVOYThKUFpzaXRha19oZDNtMnNyV09idG1QcjJLOG01amtkTFI2MzFPTW9FR2lvVGpjSEVGcHpfS2tOeF9HT01FV1ZHUTN2ZWp3cm8yMTdwY2FlZ3oxWFJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRnZfZnVkX1pLRndlQ3R6QmVsOW1sSVVNdGxCeE1oS0p0UFlId01NR1JTcE5haGRYZkluUmI5c1VWZDVOYThKUFpzaXRha19oZDNtMnNyV09idG1QcjJLOG01amtkTFI2MzFPTW9FR2lvVGpjSEVGcHpfS2tOeF9HT01FV1ZHUTN2ZWp3cm8yMTdwY2FlZ3oxWFJB",
-        "image": null,
-        "timestamp": 1776930052.0
-    },
-    {
-        "title_fa": "آخرین تحولات جنگ ایران-آمریکا: ترامپ از تمدید آتش‌بس اسرائیل-لبنان خبر داد؛ زمان‌بندی پایان درگیری را رد کرد",
-        "title_en": "Iran-US war latest: Trump announces Israel-Lebanon ceasefire extension",
-        "summary": [
-            "ترامپ اعلام کرد آتش‌بس بین اسرائیل و لبنان تمدید شده، اما درباره پایان جنگ ایران-آمریکا «چارچوب زمانی» مشخصی مطرح نکرد؛ هم‌زمان بن‌بست ادامه‌دار در تنگه هرمز برقرار است.",
-            "طبق ادعای کاخ سفید، «محاصره/بلوک» آمریکا علیه بنادر ایران در جریان است و اقتصاد ایران را با خفه‌کردن مسیرهای صادراتی تحت فشار می‌گذارد.",
-            "در متن، گزارش مستقل از واقعیت میدانی از نظر جزئیات عملیات نظامی ارائه نشده، اما تمرکز خبری روی فشار عملیاتی از مسیر دریا و استمرار درگیری—نه نزدیک‌بودن به پایان آن—قرار دارد."
-        ],
-        "impact": "تمدید آتش‌بس در جبهه اسرائیل-لبنان بدون ارائه مسیر زمانی برای پایان درگیری با ایران، و تشدید فشار دریایی آمریکا، احتمال ادامه فرسایش اقتصادی رژیم در کوتاه‌مدت را بالا می‌برد.",
-        "tag": "محاصره",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/world/iran-war-live-tehran-calls-opening-strait-of-hormuz-impossible/ar-AA21wLmr",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-live-tehran-calls-opening-strait-of-hormuz-impossible/ar-AA21wLmr",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21waFS.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1776929003.0
-    },
-    {
-        "title_fa": "پایدار ماندن آتش‌بس ایران، اما تشدید تنش‌ها در دریا؛ گزارش زنده",
-        "title_en": "Iran ceasefire holds but tensions escalate on the water: Live updates",
-        "summary": [
-            "این گزارش با وجود «پایدار ماندن آتش‌بس»، بر افزایش تنش‌ها در آب‌ها تمرکز دارد و نشان می‌دهد سطح درگیری دریایی می‌تواند حتی پس از آتش‌بس هم بالا بماند.",
-            "عنوان خبر به‌طور مشخص می‌گوید تنش‌ها در زمینه «آب» (اقدامات/رویارویی‌های دریایی) در حال تشدید است و آتش‌بس به‌صورت کامل به کاهش تنش‌های عملیاتی منجر نشده است.",
-            "متن ارائه‌شده از USA TODAY شامل محتوای تحلیلی یا جزئیات قابل راستی‌آزمایی از محل، طرف‌های درگیر، یا اقدامات مشخص نیست و صرفاً به توضیح فنی درباره پشتیبانی مرورگر سایت محدود می‌شود."
-        ],
-        "impact": "اگر آتش‌بس زمینی/کلی پایدار بماند اما تنش‌های دریایی بالا بگیرد، احتمال لغزش به درگیری‌های کنترل‌نشده افزایش می‌یابد.",
-        "tag": "دریایی",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/04/23/iran-war-trump-ceasefire-updates--live/89744228007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/04/23/iran-war-trump-ceasefire-updates--live/89744228007",
-        "image": "http://www.bing.com/th?id=ONUT.N0XLU4TxqHaUzSO7PNz-cQ&pid=News",
-        "timestamp": 1776927420.0
     }
 ]
