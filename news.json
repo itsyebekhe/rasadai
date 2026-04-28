@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تیراندازی سیاسی ترامپ علیه مرز در مورد ایران",
+        "title_en": "Trump slams German Chancellor Merz over Iran",
+        "summary": [
+            "طبق گزارش Politico، ترامپ «اولا» مرز، صدراعظم آلمان، را به خاطر موضع‌گیری درباره ایران مورد انتقاد تند قرار داده است.",
+            "این حمله لفظی به‌طور مستقیم نشان می‌دهد اختلاف واشنگتن با رویکرد اروپا نسبت به ایران هنوز حل نشده و فشار سیاسی علیه دولت‌های اروپایی برای همسو شدن با خط آمریکا ادامه دارد.",
+            "چون متن فقط به «اسلام تند» و انتقاد سیاسی اشاره می‌کند، از ادعاهای فراتر مثل ضربه عملی، تحریم جدید یا تغییر مشخص در سیاست‌ها باید خودداری کرد و صرفاً می‌توان آن را به‌عنوان افزایش فشار دیپلماتیک تحلیل کرد."
+        ],
+        "impact": "این نوع درگیری لفظی احتمالاً اهرم فشار واشنگتن بر اروپا برای تشدید هماهنگی علیه ایران را بالا می‌برد، اما در خود خبر نشانه‌ای از اقدام عملی فوری دیده نمی‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/04/28/trump-merz-german-chancellor-iran-00896561",
+        "clean_url": "https://www.politico.com/news/2026/04/28/trump-merz-german-chancellor-iran-00896561",
+        "image": null,
+        "timestamp": 1777407903.0
+    },
+    {
+        "title_fa": "صدور دور جدید تحریم‌ها بر صادرات نفت ایران",
+        "title_en": "Treasury Issues More Sanctions on Iranian Oil Exports",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا با انتشار تحریم‌های تازه، بر صادرات نفت ایران فشار مستقیم وارد کرده است و مسیر فروش و نقل‌وانتقال درآمدهای نفتی را محدودتر می‌کند.",
+            "این اقدام، فشار مالی-عملیاتی را تشدید می‌کند: ریسک همکاری تجاری و بانکی برای خریداران و واسطه‌ها بالا می‌رود و در نتیجه جریان ارز به اقتصاد ایران سخت‌تر می‌شود.",
+            "چنین تحریم‌هایی معمولاً همزمان با اثر اقتصادی، پیام سیاسی هم دارند و توان رژیم را برای تأمین هزینه‌های داخلی و مدیریت افکار عمومی از محل درآمدهای پایدار کاهش می‌دهند."
+        ],
+        "impact": "تحریم‌های جدید علیه صادرات نفت، اهرم اصلی درآمد رژیم را هدف می‌گیرد و با محدود کردن فروش و گردش ارز، ثبات مالی و مدیریتی آن را تحت فشار جدی‌تر می‌برد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/04/28/us/politics/treasury-iran-oil-sanctions.html",
+        "clean_url": "https://www.nytimes.com/2026/04/28/us/politics/treasury-iran-oil-sanctions.html",
+        "image": null,
+        "timestamp": 1777407165.0
+    },
+    {
         "title_fa": "ترامپ از مرز آلمان به‌خاطر انتقاد از جنگ علیه ایران ایراد گرفت",
         "title_en": "Trump scolds Germany’s Merz for criticism of Iran war",
         "summary": [
@@ -754,6 +790,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/irans-economy-has-been-battered-its-leaders-still-think-trump-will-blink-first/ar-AA21SC7W",
         "image": "http://www.bing.com/th?id=ONUT.sK5StvLALlBwc8sDwIHGBg&pid=News",
         "timestamp": 1777328041.0
+    },
+    {
+        "title_fa": "واشنگتن بررسی پیشنهاد جدید تهران برای بازگشایی تنگه هرمز را آغاز کرد",
+        "title_en": "US says examining latest Iran proposal",
+        "summary": [
+            "سفارت کاخ سفید اعلام کرد که آمریکا «در حال بررسی» پیشنهاد تازه ایران برای رفع گره‌ مذاکرات و باز کردن کامل تنگه هرمز است؛ موضوعی که بعد از دو ماه شوک اقتصادی ناشی از حمله آمریکا و اسرائیل دوباره در مرکز بحران قرار گرفته است.",
+            "طبق گزارش‌ها، تهران پیام‌های مکتوب شامل «خطوط قرمز» را از مسیر پاکستان به واشنگتن فرستاده و در آنها هم به پرونده هسته‌ای و هم به هرمز اشاره شده؛ همچنین مارکو روبیو گفت این پیشنهاد «بهتر از چیزی است که فکر می‌کردیم ارائه شود»، اما اصالت و قابلیت اتکا برای جلوگیری از رسیدن ایران به سلاح هسته‌ای را زیر سؤال برد.",
+            "عباس عراقچی در دیدار با پوتین در روسیه، شکست دورهای قبل را به «رویکرد آمریکا» نسبت داد و خواستار تضمین‌های امنیتی شد؛ همزمان ترامپ سفر برنامه‌ریزی‌شده فرستاده‌هایش (وایتکاف و کوشنر) را لغو کرد و گفت اگر ایران خواهان گفت‌وگوست باید خودش تماس بگیرد."
+        ],
+        "impact": "این روند نشان می‌دهد آمریکا هنوز وارد معامله فوری نمی‌شود و دنبال تضمین‌های سخت برای مهار برنامه هسته‌ای و ریسک حمله مجدد است، در حالی که ایران با شروط امنیتی می‌خواهد فشار روی هرمز را کاهش دهد.",
+        "tag": "تحریم‌ها",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/iran-fm-blames-us-failure-082713574.html",
+        "clean_url": "https://www.yahoo.com/news/articles/iran-fm-blames-us-failure-082713574.html",
+        "image": "http://www.bing.com/th?id=ONUT.s3rQ3LBacQSP9_rGn5CMhA&pid=News",
+        "timestamp": 1777327260.0
     },
     {
         "title_fa": "قطع سفر مذاکره‌ای آمریکا و بن‌بست؛ چرا آتش‌بس «برد-برد» نیست",
@@ -5345,59 +5399,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejlhSnBXQUU0cmRGbThqcnBWbXMzRXJsdm1uVnByZVRKTWRYcUZKSjhsQ0pmVVNUT0tfa2JRY09iXy11bHM4RzNmWTU0b0UzVlQyeU5zbDl1QV9lX1dKQ0o0LWZ6OGVWQVpJa2pTa3o5WG9weXFBTDRFdGlFbnhJQ2dHNzlUMjhNSnlrZGZKc3BGQWxrc01LWWlVQdIBoAFBVV95cUxQZkg1S212N0FSRmJoMnNZUnNpMWtaU3hDQVJGeTh0WHc0d2lzNjUtWHU2cHp3ZWZmcUZ3bHFKem5nbWxueEZYRjNEWGUxZVh3UkFCMU8yNm5pVThkVTFiRlhpRDlnYmhjbTlLT252QTY2TEFydXFqcVphRUtKOTRwV3pITnpDUGF5MUctRDBLMWRhNG1LWXd1YWZyOTMtZWo1",
         "image": null,
         "timestamp": 1776963394.0
-    },
-    {
-        "title_fa": "ترامپ دستور شلیک و کشتار به ناوهای کوچک ایرانی در تنگه هرمز صادر کرد",
-        "title_en": "Trump orders US military to ‘shoot and kill’ Iranian small boats choking Strait of Hormuz",
-        "summary": [
-            "بر اساس گزارش AP، ترامپ دستور داده نیروهای نظامی آمریکا به قایق‌های کوچک ایرانی که در تنگه هرمز ایجاد اختلال می‌کنند، «شلیک و کشتار» انجام دهند؛ یعنی یک فرمان مستقیم برای درگیری مرگبار.",
-            "این اقدام به‌طور مشخص خطر تشدید سریع تنش دریایی را بالا می‌برد، چون منطق عملیات آمریکا به جای بازدارندگی صرف، به برخورد مسلحانه فوری با شناورهای کوچک ایران تکیه می‌کند.",
-            "از منظر فشار خارجی، این تصمیم سازوکارهای محدودکننده قبلی را به سطح عملیاتی ارتقا می‌دهد و می‌تواند هزینه امنیتی و اقتصادی تجارت از مسیر هرمز را فوراً افزایش دهد، حتی پیش از آنکه اثر سیاسی مشخصی ایجاد شود."
-        ],
-        "impact": "این دستور می‌تواند به درگیری ناخواسته و زنجیره‌ای در تنگه هرمز منجر شود و ریسک اختلال در حمل‌ونقل و تشدید فشار خارجی علیه رژیم ایران را به‌صورت فوری بالا ببرد.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1A4UWE1aThHNDBZTWtwZGZEQ3dLTjhFYVZjOElwQVFzZGduOGZtMWxKY0gzZG9lOGo0RFdraWdoTXVYSmp6R1Z4S2l1YzRlcTFiS2lOaDFqaFUzQnMxVnhkYmtnRHp6WUU4LUNMaXdWNHNmY0t2aEtYUTJ4ZDlpVDVCNk5pc2V3dFBSMG1WaUp1aWFXN1Z5TldnNnZsWi01SFM4QkFWLXdWb3VwVnkzbGxZZUJrb29CdVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd1A4UWE1aThHNDBZTWtwZGZEQ3dLTjhFYVZjOElwQVFzZGduOGZtMWxKY0gzZG9lOGo0RFdraWdoTXVYSmp6R1Z4S2l1YzRlcTFiS2lOaDFqaFUzQnMxVnhkYmtnRHp6WUU4LUNMaXdWNHNmY0t2aEtYUTJ4ZDlpVDVCNk5pc2V3dFBSMG1WaUp1aWFXN1Z5TldnNnZsWi01SFM4QkFWLXdWb3VwVnkzbGxZZUJrb29CdVE",
-        "image": null,
-        "timestamp": 1776962160.0
-    },
-    {
-        "title_fa": "کاتس: اسرائیل منتظر «چراغ سبز» برای ازسرگیری جنگ علیه ایران",
-        "title_en": "Katz says Israel waiting for ‘green light’ to renew war against Iran",
-        "summary": [
-            "اسرائیل می‌گوید بنیامین کاتس در چارچوب تصمیم‌گیری خود، از انتظار برای «چراغ سبز» جهت ازسرگیری جنگ علیه ایران خبر داده است؛ یعنی احتمال تشدید عملیات از حالت بازدارندگی به اقدام عملی در دستور کار قرار دارد.",
-            "این نوع بیان، به جای ارائه مسیر مشخص سیاسی، بر منطق عملیات و زمان‌بندی امنیتی تکیه می‌کند و می‌تواند سیگنال افزایش فشار خارجی و احتمال ضربه‌های متوالی به زیرساخت‌ها یا اهداف رژیم را تقویت کند.",
-            "از آنجا که گزارش مستقیماً به «مجوز/چراغ سبز» اشاره دارد و جزئیات آن را ارائه نمی‌کند، نتیجه‌گیری از جنس پیام راهبردی است: رژیم با سناریوی افزایش تهدید نظامی روبه‌رو می‌شود و هزینه محاسباتش بالا می‌رود."
-        ],
-        "impact": "اگر این «چراغ سبز» محقق شود، ریسک وارد شدن ایران به چرخه تشدید نظامی با اسرائیل افزایش می‌یابد.",
-        "tag": "اسرائیل",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWhsX2hNTmtMbHVjVEw0ZkZBdE14N2tiWEVxTUpzWFVUR0VxdjQxZUUteVFOU2VGT3dITHNqLVU3Zy1CbUNydVdCMWJ1aGpwOE5aR2JFVFZ5eVhTMWk5UWJMUld4X1JmVEk0WkJ2VHM0Z3ZaVzBjcnRNdnRLVmg0aE9nNGxIQVJQWm5yeGpNTkZmWHJhN3o2a05SU2E4V1UtNmtxT1ZtTmRpdF9KM0hFQnJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWhsX2hNTmtMbHVjVEw0ZkZBdE14N2tiWEVxTUpzWFVUR0VxdjQxZUUteVFOU2VGT3dITHNqLVU3Zy1CbUNydVdCMWJ1aGpwOE5aR2JFVFZ5eVhTMWk5UWJMUld4X1JmVEk0WkJ2VHM0Z3ZaVzBjcnRNdnRLVmg0aE9nNGxIQVJQWm5yeGpNTkZmWHJhN3o2a05SU2E4V1UtNmtxT1ZtTmRpdF9KM0hFQnJB",
-        "image": null,
-        "timestamp": 1776959756.0
-    },
-    {
-        "title_fa": "حمایت دلار در پی تشدید تنش ایران-آمریکا و افت امید به صلح",
-        "title_en": "Dollar holds firm as angst over Iran-U.S. stand-off drives safe-haven demand",
-        "summary": [
-            "دلار نزدیک اوج‌های اخیر نوسان داشت و در مسیر اولین رشد هفتگی یک ماهه قرار گرفت؛ علت اصلی، افزایش تقاضای پناهگاه امن به دنبال درگیری گسترده در خاورمیانه و «عدم پیشرفت» در مذاکرات صلح بود.",
-            "تهران روز چهارشنبه دو کشتی را در تنگه هرمز متوقف کرد؛ همزمان ترامپ آتش‌بس با ایران را برای همیشه تمدید کرد اما بدون نشانه از ازسرگیری مذاکرات صلح، اختلاف طرفین درباره آتش‌بس، محاصره‌ها، موضوع هسته‌ای و کنترل تنگه باعث شد تنگه عملاً «بسته» تلقی شود و شوک انرژی به اقتصادهای جهانی منتقل گردد.",
-            "یورو 0.2% پایین‌تر بود و در مسیر افت هفتگی 0.5% قرار گرفت؛ پوند 0.3% افت کرد و ین نزدیک 160 (آستانه احتمالی دخالت) ضعیف‌تر شد؛ همچنین روایت مقاله می‌گوید جنگ، قیمت سوخت را بالا برد، اعتماد مصرف‌کننده را نابود کرد و حتی قیمت‌گذاری بازار برای کاهش نرخ بهره در سال جاری را از بین برد."
-        ],
-        "impact": "این تنش، با افزایش ریسک ژئوپلیتیک و شوک انرژی، جریان سرمایه را به سمت دلار سوق می‌دهد و هم‌زمان فشار تورمی و کاهش اعتماد مصرف‌کننده را در اقتصادهای وابسته به انرژی تشدید می‌کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/04/23/dollar-holds-near-1-1/2-week-high-as-iran-us-standoff-persists.html",
-        "clean_url": "https://www.cnbc.com/2026/04/23/dollar-holds-near-1-1/2-week-high-as-iran-us-standoff-persists.html",
-        "image": "https://image.cnbcfm.com/api/v1/image/108216397-1761279116605-gettyimages-528026726-i-181-0152.jpeg?v=1776909559&w=1920&h=1080",
-        "timestamp": 1776958260.0
     }
 ]
