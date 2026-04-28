@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ایران؛ مردم میان حملات «غیرقانونی» گزارش‌شده از سوی آمریکا/اسرائیل و سرکوب مرگبار داخلی گیر افتاده‌اند",
+        "title_en": "Trapped Between Unlawful Attacks by the USA/Israel and Internal Deadly Repression: People in Iran Face Dual Atrocity Risks",
+        "summary": [
+            "گزارش می‌گوید مردم ایران هم‌زمان در معرض «خطر دوگانه» قرار دارند: حملات منتسب به آمریکا/اسرائیل از یک سو و سرکوب خشونت‌بار و مرگبار از سوی دستگاه داخلی از سوی دیگر.",
+            "چارچوب Amnesty International USA بر این است که تلفات و آسیب‌ها ناشی از خشونت/حملات بیرونی، با تلافی‌جویی و سرکوب داخلی پیوند خورده و فرصت‌های دفاع، حمایت و پاسخ‌گویی را از شهروندان می‌گیرد.",
+            "این وضعیت به‌عنوان نمونه‌ای از «نقض‌های هم‌پوشان» ارائه می‌شود: یعنی هم فشار خارجی و هم سازوکار سرکوب داخلی به افزایش ریسک قربانی‌شدن غیرنظامیان منجر می‌شود."
+        ],
+        "impact": "ترکیب روایت‌شده از فشار بیرونی و سرکوب داخلی، ریسک بی‌ثباتی اجتماعی و تشدید چرخه آسیب به غیرنظامیان را بالا می‌برد.",
+        "tag": "سرکوب",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Amnesty International USA",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX29YRV9rYU5iOE5IMXZVSHFyQkllcVYyNjZ2enpWRUxJdmdKa09VeUlMTXctWGNnYkpQMEV1VE1fc0lrZFFJaHlSN0ZHOV9KQU5JSGV4LWs2ZmZZalFCYURMTXYzOFlQdjVVbXEzX2VHN1ZkNnJubmJ6TFI3Q1dHZmdMSGdDdTZFQVE3VGlpQkdvR3hMNVpwOGs0aExxeTVfbDkxRDhiZzV1MS00Y0Y0d0ZKRVhfbGM1X3FCQ1JfeFRVSzlkRG5nbHB6SDJMV2ZHS3dpdkVJakdUSHpHNEVLMDRvVTZWUHB0anROMXlB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX29YRV9rYU5iOE5IMXZVSHFyQkllcVYyNjZ2enpWRUxJdmdKa09VeUlMTXctWGNnYkpQMEV1VE1fc0lrZFFJaHlSN0ZHOV9KQU5JSGV4LWs2ZmZZalFCYURMTXYzOFlQdjVVbXEzX2VHN1ZkNnJubmJ6TFI3Q1dHZmdMSGdDdTZFQVE3VGlpQkdvR3hMNVpwOGs0aExxeTVfbDkxRDhiZzV1MS00Y0Y0d0ZKRVhfbGM1X3FCQ1JfeFRVSzlkRG5nbHB6SDJMV2ZHS3dpdkVJakdUSHpHNEVLMDRvVTZWUHB0anROMXlB",
+        "image": null,
+        "timestamp": 1777417308.0
+    },
+    {
+        "title_fa": "بحران ایران؛ گزارش کلی بدون داده قابل راستی‌آزمایی",
+        "title_en": "The Iran Conflict",
+        "summary": [
+            "این منبع فقط با عنوان «The Iran Conflict» از Ipsos درج شده و هیچ جزئیات روش‌شناسی، آمار، نظرسنجی، یا نتیجه مشخص ارائه نمی‌کند.",
+            "با نبود متن گزارش یا شاخص‌های عددی، نمی‌توان اثرات اقتصادی/سیاسی، سطح حمایت مردمی، یا برداشت عمومی را به‌صورت واقع‌گرایانه تحلیل کرد.",
+            "تا زمانی که نسخه کامل Ipsos (سؤال‌ها، جامعه آماری، تاریخ میدانی و خروجی‌ها) ارائه نشود، هرگونه جمع‌بندی درباره فشار خارجی، تداوم سرکوب، یا تغییرات نارضایتی داخلی غیرقابل اتکا خواهد بود."
+        ],
+        "impact": "در حال حاضر اثر تحلیلی این گزارش به دلیل فقدان داده‌ها صفر است و فقط می‌توان گفت که متن ارسالی برای ارزیابی استراتژیک کافی نیست.",
+        "tag": "نامشخص",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "Ipsos",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices",
+        "image": null,
+        "timestamp": 1777410082.0
+    },
+    {
         "title_fa": "تیراندازی سیاسی ترامپ علیه مرز در مورد ایران",
         "title_en": "Trump slams German Chancellor Merz over Iran",
         "summary": [
@@ -108,6 +144,24 @@
         "timestamp": 1777389470.0
     },
     {
+        "title_fa": "یادداشت: ایران «نقطه‌ای» در دیپلماسی دارد—انتقاد از نگاه تحقیرآمیز و فقدان همدلی",
+        "title_en": "Times Opinion: On the other hand, Iran has a point",
+        "summary": [
+            "این یادداشت استدلال می‌کند احتمال موفقیت دیپلماسی وقتی کاهش می‌یابد که یک طرف دیگری را «دیوانه» یا غیرعقلانی تصور کند؛ اشاره می‌شود که دونالد ترامپ اوایل آوریل چنین لحن تحقیرآمیزی علیه ایران به کار برد.",
+            "نویسنده توضیح می‌دهد ایران یک نظام مذهبی است و دین ذاتاً «غیرعقلانی» تلقی می‌شود، اما «غیرعقلانی» با «دیوانه» یکی نیست؛ سپس هشدار می‌دهد که حتی متحد آمریکا یعنی اسرائیل هم تحت نفوذ جریان‌های مذهبی راست‌گراست و خود آمریکا نیز اختلافات جدی درباره جدایی دین از حکومت دارد.",
+            "یادداشت نتیجه می‌گیرد دیپلماسی آمریکا با کمبود شناخت از دیدگاه طرف مقابل و کمبود همدلی پیش می‌رود؛ همچنین عنوان می‌شود منازعه کنونی با ایران ریشه در مجموعه‌ای از سیاست‌های «بد» آمریکا در طول بیش از یک قرن دارد و با ممانعت از خواست‌های ایرانیان برای دمکراسی مرتبط دانسته می‌شود."
+        ],
+        "impact": "این متن تهدید عملی یا اقدام مشخصی گزارش نمی‌کند، اما چارچوب سیاسی-دیپلماسی را با تاکید بر «نقص همدلی و فهم» نقد می‌نماید و می‌تواند بر ارزیابی عمومی از امکان مذاکره اثر بگذارد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Chattanooga Times Free Press",
+        "url": "https://www.timesfreepress.com/news/2026/apr/28/times-opinion-on-the-other-hand-iran-has-a-point/",
+        "clean_url": "https://www.timesfreepress.com/news/2026/apr/28/times-opinion-on-the-other-hand-iran-has-a-point",
+        "image": "http://www.bing.com/th?id=ONUT.F9AUrkUxiGXi9XdRWE8Q2Q&pid=News",
+        "timestamp": 1777388820.0
+    },
+    {
         "title_fa": "پیشنهاد تازه ایران برای بازگشایی تنگه هرمز در ازای لغو محاصره دریایی؛ واکنش سرد آمریکا و زمان‌سوزی اروپا",
         "title_en": "What’s in Iran’s latest proposal – and how has the US responded?",
         "summary": [
@@ -142,6 +196,24 @@
         "clean_url": "https://www.yahoo.com/news/articles/latest-u-iran-negotiations-iran-193229695.html",
         "image": "http://www.bing.com/th?id=ONUT.26K9lT_N_FKX8zHx9DNS-A&pid=News",
         "timestamp": 1777380660.0
+    },
+    {
+        "title_fa": "تحریم‌های تازه آمریکا علیه ۳۵ فرد و نهاد برای دورزدن تحریم‌های ایران",
+        "title_en": "US imposes sanctions on 35 individuals, entities for aiding Iran's sanctions evasions",
+        "summary": [
+            "طبق گزارش رویترز، دولت آمریکا روز سه‌شنبه ۳۵ فرد و نهاد را به‌دلیل نقش در بخش موسوم به «بانکداری سایه» ایران و کمک به دورزدن تحریم‌ها هدف تحریم‌های جدید قرار داد.",
+            "این اقدام به‌عنوان تشدید فشار مستقیم علیه سازوکارهای مالی غیررسمی تهران مطرح شده و پیام مشخص دارد که زنجیره‌های پولی پنهان هم زیر پوشش تحریم می‌روند.",
+            "در ادامه، آمریکا تهدید کرده که در صورت ادامه فعالیت‌ها، تحریم‌های بیشتری اعمال خواهد کرد؛ یعنی ریسک گسترش دامنه فشار مالی برای شبکه‌های مرتبط رو به افزایش است."
+        ],
+        "impact": "این تحریم‌ها با هدف ضربه به کانال‌های مالی غیرشفاف، هزینه عملیاتی و ریسک انتقال پول را بالا می‌برد و می‌تواند توان دولت در دور زدن محدودیت‌ها را کاهش دهد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/finance/us-imposes-sanctions-35-individuals-entities-aiding-irans-sanctions-evasions-2026-04-28/",
+        "clean_url": "https://www.reuters.com/business/finance/us-imposes-sanctions-35-individuals-entities-aiding-irans-sanctions-evasions-2026-04-28",
+        "image": null,
+        "timestamp": 1777379760.0
     },
     {
         "title_fa": "ایران باید شکست خود را متحمل شود",
@@ -5327,77 +5399,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/who-will-blink-first-as-the-iran-war-hits-the-world-economy/ar-AA21AcQq",
         "image": "https://media.cnn.com/api/v1/images/stellar/prod/9629647.jpg?c=16x9&q=w_800,c_fill",
         "timestamp": 1776972932.0
-    },
-    {
-        "title_fa": "درگیری‌های دریایی در تنگه هرمز؛ اتهام «دزدی دریایی» توسط سپاه و هشدار درباره حجم بالای موشک‌ها",
-        "title_en": "IRGC engages in piracy in Strait of Hormuz; USDIA: Iran has 1000s of missiles TV7Israel News 23 Apr.",
-        "summary": [
-            "بر اساس گزارش TV7 Israel News، سپاه پاسداران در تنگه هرمز به‌عنوان عامل «دزدی دریایی» در مسیرهای دریایی معرفی شده است که می‌تواند ریسک امنیت کشتیرانی و بیمه را بالا ببرد.",
-            "در همین چارچوب، USDIA ادعا کرده ایران «هزاران موشک» در اختیار دارد؛ یعنی تهدید موشکی به‌عنوان مؤلفه اصلی توان بازدارندگی/حمله در محاسبات امنیتی مطرح شده است.",
-            "ترکیب این دو پیام—ناامنی دریایی و ظرفیت گسترده موشکی—عملاً فشار راهبردی روی اقتصاد و تجارت بین‌المللی منطقه را افزایش می‌دهد، حتی اگر جزئیات عملیات مشخص نشده باشد."
-        ],
-        "impact": "این گزارش اگر بازتاب عملی پیدا کند، هزینه‌های کشتیرانی و ریسک هدف‌گیری دریایی بالا می‌رود و همزمان سطح نگرانی از توان موشکی ایران برای دولت‌ها تشدید می‌شود.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "TV7 Israel News",
-        "url": "https://www.msn.com/en-us/news/politics/iran-seizes-ships-in-strait-of-hormuz-after-trump-extends-ceasefire/ar-AA21sVxb",
-        "clean_url": "https://www.msn.com/en-us/news/politics/iran-seizes-ships-in-strait-of-hormuz-after-trump-extends-ceasefire/ar-AA21sVxb",
-        "image": null,
-        "timestamp": 1776969391.0
-    },
-    {
-        "title_fa": "ادعای ترامپ درباره کنترل کامل تنگه هرمز پس از توقیف دو کشتی کانتینری توسط ایران",
-        "title_en": "Trump claims US has total control over strait of Hormuz after Iran seizes two container ships",
-        "summary": [
-            "به‌گزارش The Guardian، پس از اقدام ایران برای توقیف دو کشتی کانتینری، ترامپ ادعا کرده آمریکا «کنترل کامل» بر تنگه هرمز دارد؛ ادعایی که عملاً ناظر به درک قدرت دریایی و مهار بحران در گلوگاه حیاتی تجارت است.",
-            "این رویداد نشان می‌دهد تنش دریایی می‌تواند سریعاً به سطح روایت‌های سیاسی-نظامی برسد و هر طرف با برجسته‌کردن توان خود، به‌دنبال تغییر محاسبات طرف مقابل و متوقف‌کردن ریسک ادامه اقدام‌ها است.",
-            "صرف‌نظر از صحت ادعای «کنترل کامل»، توقیف کشتی‌ها پیام روشنِ فشار عملیاتی دارد: رژیم می‌کوشد از اهرم تنگه هرمز برای مدیریت بحران بهره بگیرد، در حالی که واشنگتن با اعلام کنترل، تلاش می‌کند هزینه سیاسی و ادراکی اقدام را کاهش یا مهار کند."
-        ],
-        "impact": "این اتفاق احتمالاً ریسک اختلال در امنیت کشتیرانی و تشدید چرخه اقدام و واکنش در تنگه هرمز را بالا می‌برد و زمینه فشارهای خارجی و بی‌ثباتی اقتصادی مرتبط با مسیرهای تجاری را تقویت می‌کند.",
-        "tag": "تنگههرمز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOUhqTGFjdHNJNnBhNWxpOGY5dnpSaFJVNmNsbW8xUHY5WnJDOE1SRGwwSFVXM01EWjI5UjB1TS1odmtKQzl1a1BxS0VwanVaSDEwTzFlN0ZEU0J2ZW8zZmF4TC1ScFBsUER4cVBkcTkzUEdPcU1odnlRWlBDSjhaRF9hZ3oteEZFczdyXzRyMWU0Yl9MMHcyQmxETEN0YnRjTGQ2YUdWa1ltT2lUMVQ0NnUzR0phSFNGVmY4ak93M2szeldKZDA5TFBIbVkyLVNNQ0pGaA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPOUhqTGFjdHNJNnBhNWxpOGY5dnpSaFJVNmNsbW8xUHY5WnJDOE1SRGwwSFVXM01EWjI5UjB1TS1odmtKQzl1a1BxS0VwanVaSDEwTzFlN0ZEU0J2ZW8zZmF4TC1ScFBsUER4cVBkcTkzUEdPcU1odnlRWlBDSjhaRF9hZ3oteEZFczdyXzRyMWU0Yl9MMHcyQmxETEN0YnRjTGQ2YUdWa1ltT2lUMVQ0NnUzR0phSFNGVmY4ak93M2szeldKZDA5TFBIbVkyLVNNQ0pGaA",
-        "image": null,
-        "timestamp": 1776968280.0
-    },
-    {
-        "title_fa": "تمدید آتش‌بس؛ گام بعدی در جنگ میان ایران و طرف‌های درگیر چیست؟",
-        "title_en": "Ceasefire extended: What's next in the Iran war?",
-        "summary": [
-            "گزارش DW.com با تیتر «تمدید آتش‌بس» به این موضوع می‌پردازد که آتش‌بس از نظر زمانی ادامه یافته و پرسش اصلی اکنون درباره پیامدهای فوری آن و مسیر بعدی تنش‌هاست.",
-            "در متن ارائه‌شده، جزئیات مشخص از طرف‌ها، محدوده مناطق درگیری، یا شروط سیاسی/نظامیِ تمدید ذکر نشده؛ بنابراین نمی‌توان درباره محتوا یا میزان عقب‌نشینی یا ماندگاری عملی آتش‌بس نتیجه‌گیری مستند انجام داد.",
-            "با توجه به نبود جزئیات در منبعِ داده‌شده، تمرکز گزارش احتمالاً بر سناریوهای پیشِ رو است (مثل شکست یا تثبیت آتش‌بس)، اما این نیازمند متن کامل مقاله برای تحلیل دقیق است."
-        ],
-        "impact": "تمدید آتش‌بس به‌صورت بالقوه زمان می‌خرد، اما بدون مشخصات شروط و دامنه آن، نمی‌توان از کاهش واقعی خطر یا تغییر راهبردی درگیری اطمینان داد.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "DW.com",
-        "url": "https://www.msn.com/en-xl/news/other/ceasefire-extended-whats-next-in-the-iran-war/ar-AA21zyWP",
-        "clean_url": "https://www.msn.com/en-xl/news/other/ceasefire-extended-whats-next-in-the-iran-war/ar-AA21zyWP",
-        "image": null,
-        "timestamp": 1776967837.0
-    },
-    {
-        "title_fa": "تمدید آتش‌بس لبنان و فشار لفظی ترامپ برای قطع حمایت مالی ایران از حزب‌الله",
-        "title_en": "Iran-Israel War Live Updates: Lebanon ceasefire extended as Trump says Iran 'will have to' stop funding Hezbollah",
-        "summary": [
-            "خبر از «تمدید آتش‌بس لبنان» به‌عنوان محور تحولات میدانی/دیپلماتیک یاد می‌کند و نشان می‌دهد کنترل تنش در مرزهای لبنان هنوز در دستور است.",
-            "ترامپ می‌گوید ایران «خواهد مجبور شد» حمایت مالی از حزب‌الله را متوقف کند؛ این یعنی فشار خارجی و تهدید پیامد سیاسی/اقتصادی به‌صورت مستقیم روی رفتار ایران متمرکز شده است.",
-            "این روایت مستقیماً درباره سازوکار جدید تحریم یا اقدام اجرایی مشخص جزئیات نمی‌دهد، اما با برجسته‌کردن موضوع تامین مالی، کانال احتمالی فشار اقتصادی و امنیتی علیه شبکه‌های نیابتی را پررنگ می‌کند."
-        ],
-        "impact": "اگر این پیام به اقدامات عملی تبدیل شود، منابع و توان عملیاتی حزب‌الله تحت فشار قرار می‌گیرد و محاسبات رژیم درباره ادامه حمایت از نیابتی‌ها سخت‌تر می‌شود.",
-        "tag": "فشارخارجی",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-iran-israel-war-live-updates-oil-crises-trump-ceasfire-attacks-us-tensions-strait-of-hormuz-liveblog-14003784.html",
-        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-iran-israel-war-live-updates-oil-crises-trump-ceasfire-attacks-us-tensions-strait-of-hormuz-liveblog-14003784.html",
-        "image": "http://www.bing.com/th?id=ONUT.owaq_waNs2qMueqlrTPHCg&pid=News",
-        "timestamp": 1776967680.0
     }
 ]
