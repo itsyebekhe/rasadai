@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تداوم «محاصره دریایی» در کنار تهدید تهران؛ بن‌بست تازه در مسیر مذاکرات هسته‌ای",
+        "title_en": "Trump vows to maintain Iran blockade, Tehran threaten ‘practical’ action",
+        "summary": [
+            "ترامپ به اکسيوس گفته تا رسیدن به یک توافق هسته‌ای، محاصره/انسداد دریایی آمریکا علیه ایران را ادامه می‌دهد و با هر نوع بازگشایی زودهنگام تنگه هرمز برای پیشبرد گفت‌وگوها مخالفت می‌کند.",
+            "ترامپ محاصره را «موثرتر از بمباران» توصیف کرده و مدعی است که ایران با تشدید فشار به سمت دستیابی به محدودیت هسته‌ای سوق داده می‌شود.",
+            "در پاسخ، ایران شرط گذاشته رفع این «siege» پیش‌شرط بازگشت به مذاکرات است و تهران از «اقدام عملی» در قبال وضعیت فعلی سخن گفته است."
+        ],
+        "impact": "ادامه محاصره با شرط‌گذاری متقابل ایران برای لغو آن، احتمال تشدید تنش دریایی و تشدید اقدامات «عملی» را در مسیر مذاکرات بالا می‌برد.",
+        "tag": "محاصره",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/articles/trump-vows-maintain-iran-blockade-190003981.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-vows-maintain-iran-blockade-190003981.html",
+        "image": null,
+        "timestamp": 1777489403.0
+    },
+    {
         "title_fa": "ترامپ پیشنهاد ایران برای لغو محاصره دریایی را رد کرد و مذاکره هسته‌ای را پیش‌شرط نگه داشت",
         "title_en": "Trump turns down Iran proposal, maintains naval blockade",
         "summary": [
@@ -5381,23 +5399,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/how-long-can-iran-survive-the-us-s-hormuz-blockade/ar-AA21DjNw",
         "image": null,
         "timestamp": 1777030482.0
-    },
-    {
-        "title_fa": "کنفرانس خبری هیگست و کِین درباره جنگ علیه ایران؛ آتش‌بس فرسایشی و تشدید تنش در تنگه هرمز",
-        "title_en": "Hegseth and Caine holding news conference on Iran war, as ceasefire grinds on but tension swirls in Strait of Hormuz",
-        "summary": [
-            "هیگست و کِین در یک کنفرانس خبری درباره وضعیت «جنگ علیه ایران» سخن گفتند؛ در چارچوبی که آتش‌بس عملاً در حال فرسایش است و زمان‌بندی روشن برای کاهش تنش ارائه نشده است.",
-            "با وجود اینکه آتش‌بس ادامه دارد، خبر تأکید می‌کند که «تنش‌ها» در تنگه هرمز همچنان در جریان است؛ یعنی ریسک درگیری دریایی و اختلال در مسیرهای کلیدی تجارت پابرجاست.",
-            "این گزارش به جای اعلام قطعیت، بر وضعیت متزلزل متکی است: آتش‌بس پیش می‌رود اما متغیرهای عملیاتی در منطقه (به‌ویژه در تنگه هرمز) کنترل نشده‌اند و می‌توانند بحران را دوباره شعله‌ور کنند."
-        ],
-        "impact": "فرسایشی بودن آتش‌بس همراه با تنش مداوم در تنگه هرمز، احتمال تشدید دوباره تنش و فشار عملیاتی روی طرف‌های درگیر را بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "CBS News",
-        "url": "https://www.msn.com/en-us/news/world/hegseth-and-caine-holding-iran-war-briefing-amid-strait-of-hormuz-tensions/ar-AA21D071",
-        "clean_url": "https://www.msn.com/en-us/news/world/hegseth-and-caine-holding-iran-war-briefing-amid-strait-of-hormuz-tensions/ar-AA21D071",
-        "image": null,
-        "timestamp": 1777028384.0
     }
 ]
