@@ -144,6 +144,24 @@
         "timestamp": 1777562520.0
     },
     {
+        "title_fa": "تهدید تهران به «ضربات طولانی و دردناک» علیه نیروهای آمریکا و تاکید دوباره بر برنامه هسته‌ای",
+        "title_en": "Live updates: Iran threatens US forces, Ayatollah vows to protect nuclear program",
+        "summary": [
+            "ایران روز پنجشنبه اعلام کرد در صورت تکرار حمله‌های واشنگتن، «ضربات طولانی و دردناک» علیه مواضع آمریکا آغاز خواهد کرد؛ یعنی یک پله تشدیدی برای درگیری مستقیم/نزدیک‌به‌میدان در دستور کار قرار گرفته است.",
+            "همزمان، پیام رسمی دیگری درباره «محافظت» از برنامه هسته‌ای منتشر شد که نشان می‌دهد تهدید نظامی با محور هسته‌ای به‌عنوان اهرم بازدارندگی/چانه‌زنی پیوند خورده است.",
+            "این ترکیبِ تهدید علیه نیروهای آمریکا و تاکید هسته‌ای، فضای سیاسی را از سطح اعلام مواضع به سطح ریسک اقدام متقابل منتقل می‌کند و می‌تواند پاسخ متقابل یا اقدامات پیش‌گیرانه را محتمل‌تر کند."
+        ],
+        "impact": "تهدید صریح علیه مواضع آمریکا همراه با قفل شدن روی برنامه هسته‌ای، احتمال چرخه تشدید و اقدام متقابل را بالا می‌برد.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/world/live-updates-strait-of-hormuz-blockade-iran-negotiations-trump/",
+        "clean_url": "https://www.newsnationnow.com/world/live-updates-strait-of-hormuz-blockade-iran-negotiations-trump",
+        "image": "http://www.bing.com/th?id=ONUT.CeE6Clb0zDSdhI9-duvtYQ&pid=News",
+        "timestamp": 1777561740.0
+    },
+    {
         "title_fa": "ترامپ درباره گزینه‌های نظامی برای فشار بر ایران و رسیدن به توافق مذاکره می‌کند",
         "title_en": "Trump to hear military options as part of efforts to pressure Iran into deal",
         "summary": [
@@ -304,6 +322,24 @@
         "clean_url": "https://time.com/article/2026/04/30/iran-war-nuclear-capabilities-trump-deal-strait-of-hormuz",
         "image": "http://www.bing.com/th?id=ONUT.Zw5AWbh4rwYIRiyHBX9u3A&pid=News",
         "timestamp": 1777549620.0
+    },
+    {
+        "title_fa": "افزایش لفاظی هسته‌ای/موشکی در تهران؛ تهدید مستقیم علیه آمریکا بدون نشانه عملی",
+        "title_en": "Iran’s leader vows to protect nuclear and missile capabilities, calls U.S. ‘great Satan’",
+        "summary": [
+            "رهبر ایران در واکنش به فشارهای خارجی، «حفاظت» از توان هسته‌ای و موشکی را وعده داد و آمریکا را با عنوان «شیطان بزرگ» خطاب کرد؛ یک پیام سیاسی-تهدیدآمیز با تمرکز بر حفظ بازدارندگی.",
+            "این موضع‌گیری با فضای تبلیغاتی داخلی همراه است (تصاویر و روایت راهپیمایی دولتی برای حمایت از رهبری)، که نشان می‌دهد رژیم برای مدیریت افکار عمومی به چارچوب تهدید خارجی متکی می‌ماند.",
+            "در متن گزارش، هیچ اقدام اجرایی مشخص یا داده جدید درباره پیشرفت واقعی برنامه هسته‌ای/موشکی، پاسخ عملی به تحریم‌ها، یا تغییرات میدانی ارائه نشده؛ بنابراین اثر فوری بیشتر در سطح پیام‌رسانی است تا اقدام."
+        ],
+        "impact": "این اظهارات فعلاً یک ابزار بسیج داخلی و کنترل روایت تهدید است، اما چون اقدام عملی جدید گزارش نشده، اثر فوری آن بیشتر روانی/سیاسی تا عملی خواهد بود.",
+        "tag": "تهدید",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "PennLive",
+        "url": "https://www.pennlive.com/politics/2026/04/irans-leader-vows-to-protect-nuclear-and-missile-capabilities-calls-us-great-satan.html",
+        "clean_url": "https://www.pennlive.com/politics/2026/04/irans-leader-vows-to-protect-nuclear-and-missile-capabilities-calls-us-great-satan.html",
+        "image": "http://www.bing.com/th?id=ONUT.xj3OrxgcfEMmLyt5KLN-Tw&pid=News",
+        "timestamp": 1777548780.0
     },
     {
         "title_fa": "نزدیک‌شدن جنگ ایران به مهلت ۶۰روزه؛ کنگره و ترامپ بین ادامه فشار یا تغییر مسیر گیر کرده‌اند",
@@ -5363,41 +5399,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHVwTnFjRVJXN3o4YVVhT09NVlc3OFFFYXd3NVNta2pNQ1NlS0dlZkVQQ24wQmxpNWNVUzl6VjZsV01zS3BtWGFGRDdGamdTLVRESzBWR0VVTW1TamNNdjk4eFoweWM2SWRadjhXY2RJb21qSmhvc2pCcFcxR3Q1NXFCdDNMVFFUQkE",
         "image": null,
         "timestamp": 1777098364.0
-    },
-    {
-        "title_fa": "آراغچی در پاکستان میانجی‌ها را دید؛ مذاکره مستقیم با آمریکا در بلاتکلیفی",
-        "title_en": "Iran’s Araghchi holds Pakistan meetings with US talks in limbo",
-        "summary": [
-            "اراغچی به‌عنوان دیپلمات ارشد ایران در پاکستان با میانجی‌ها دیدار می‌کند تا پیش از رسیدن نمایندگان آمریکا زمینه‌سازی کند؛ اما چشم‌انداز مذاکرات مستقیم برای پایان جنگ هشت‌هفته‌ای تیره است.",
-            "خبر تأکید می‌کند که کانال‌های ارتباطی در مرحله میانجی‌گری می‌مانند و «مذاکرات مستقیم» برای پایان مناقشه‌ای که اقتصاد جهانی را تحت فشار قرار داده، فعلاً عملی نیست.",
-            "پیام مرکزی گزارش این است که با وجود رفت‌وآمد دیپلماتیک، حل‌وفصل سریع در چارچوب مذاکرات مستقیم هنوز در دسترس قرار نگرفته و وضعیت به سمت ادامه فشار اقتصادی پیش می‌رود."
-        ],
-        "impact": "بلاتکلیفی مذاکرات مستقیم یعنی اهرم اقتصادی و روانی جنگ احتمالا برای مدتی طولانی‌تر پابرجا می‌ماند و ریسک تداوم اختلال در اقتصاد جهانی را بالا نگه می‌دارد.",
-        "tag": "مذاکرات",
-        "urgency": 6,
-        "sentiment": -0.25,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-araghchi-holds-pakistan-meetings-with-us-talks-in-limbo/ar-AA21HaAT",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-araghchi-holds-pakistan-meetings-with-us-talks-in-limbo/ar-AA21HaAT",
-        "image": "http://www.bing.com/th?id=ONUT.oKLp-IghsFsCn18Ll1dNSA&pid=News",
-        "timestamp": 1777095213.0
-    },
-    {
-        "title_fa": "اعزام ویتکاف و کوشنر به پاکستان برای گفت‌وگوهای تازه با وزیر خارجه ایران",
-        "title_en": "Trump dispatches Witkoff and Kushner to Pakistan for new talks with Iran's foreign minister",
-        "summary": [
-            "خبرگزاری AP می‌گوید ترامپ «استیون ویتکاف» و «جرِد کوشنر» را برای گفت‌وگوهای جدید با وزیر خارجه ایران به پاکستان می‌فرستد؛ محل رایزنی، انتخاب‌شده برای مدیریت کانال مذاکرات و کاهش هزینه سیاسی برای طرفین است.",
-            "این اقدام در چارچوب تلاش برای از سرگیری/تداوم کانال‌های دیپلماتیک با جمهوری اسلامی صورت می‌گیرد، اما محتوای دقیق توافق یا شروط اعلام نشده است؛ بنابراین فقط می‌توان از «حرکت به سمت مذاکره» صحبت کرد، نه نتیجه.",
-            "از منظر فشار خارجی، نفس اعزام نمایندگان ارشد آمریکایی نشان می‌دهد واشنگتن هنوز در پی مهار ریسک‌های منطقه‌ای و مدیریت تنش با تهران از مسیر گفت‌وگوست، نه صرفاً تشدید یک‌طرفه؛ با این حال، اثر فوری اقتصادی یا حقوقی در گزارش مشخص نیست."
-        ],
-        "impact": "این رایزنی می‌تواند کانال فشار-مذاکره را فعال نگه دارد، اما بدون اعلام جزئیات، اثر عملی کوتاه‌مدت بر سیاست یا اقتصاد ایران قابل ارزیابی نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTR5WkFmd3J5WlQwWElhdTBBR0F0dDdlS1pmU0NkYnpyTVhmb0J2elBpSWNrcUpQRjZrd3poZzVvNG96dHg5Zk5GS200S2RqNXFNdlpBRm5TMWVJQjkzUkF6VS11MjdmVlVkNEVkQWVOT3gydm1VN3V6VHlGRGN5YmVCbTVGZG9HT0pvdXByX2ZuYXlkNml3eWlUa1F1ZHVwMkVHQnhLOGVna3V4LVZpT2pFbEhyTVpidFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZTR5WkFmd3J5WlQwWElhdTBBR0F0dDdlS1pmU0NkYnpyTVhmb0J2elBpSWNrcUpQRjZrd3poZzVvNG96dHg5Zk5GS200S2RqNXFNdlpBRm5TMWVJQjkzUkF6VS11MjdmVlVkNEVkQWVOT3gydm1VN3V6VHlGRGN5YmVCbTVGZG9HT0pvdXByX2ZuYXlkNml3eWlUa1F1ZHVwMkVHQnhLOGVna3V4LVZpT2pFbEhyTVpidFE",
-        "image": null,
-        "timestamp": 1777092156.0
     }
 ]
