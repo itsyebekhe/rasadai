@@ -1,10 +1,7 @@
 const CACHE_NAME = 'rasad-cache-v1';
 const ASSETS_TO_CACHE = [
     './',
-    './index.html',
-    'https://cdn.tailwindcss.com',
-    'https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css',
-    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css'
+    './index.html'
 ];
 
 // Install Event: Cache the UI Shell
@@ -33,10 +30,11 @@ self.addEventListener('fetch', (event) => {
     const url = new URL(event.request.url);
 
     // Handle navigation requests (loading the website itself)
-    // If the network fails (github.io blocked), serve index.html from cache
+    // Optimized for Mobile: Serve Cache-First to avoid long loading/timeouts
     if (event.request.mode === 'navigate') {
         event.respondWith(
-            fetch(event.request).catch(() => caches.match('./index.html'))
+            caches.match('./index.html')
+                .then((response) => response || fetch(event.request))
         );
         return;
     }
@@ -50,7 +48,10 @@ self.addEventListener('fetch', (event) => {
                     caches.open(CACHE_NAME).then(cache => cache.put(event.request, cln));
                     return response;
                 })
-                .catch(() => caches.match(event.request))
+                .catch(() => {
+                console.log('Serving JSON from cache (offline)');
+                return caches.match(event.request);
+            })
         );
         return;
     }

@@ -71,6 +71,10 @@
                         'float': {
                             '0%, 100%': { transform: 'translateY(0)' },
                             '50%': { transform: 'translateY(-10px)' }
+                        },
+                        'progress': {
+                            '0%': { transform: 'translateX(-100%)' },
+                            '100%': { transform: 'translateX(100%)' }
                         }
                     }
                 }
@@ -476,6 +480,11 @@
             <!-- ═══════════════ NEWS VIEW ═══════════════ -->
             <div id="view-news" class="space-y-4 lg:space-y-6 animate-fade-up">
                 
+                <!-- DATA SYNC BAR -->
+                <div id="sync-loader" class="h-0.5 w-full bg-void-800/50 overflow-hidden rounded-full opacity-0 transition-opacity">
+                    <div class="h-full bg-cyber-cyan w-full animate-[progress_2s_infinite]"></div>
+                </div>
+
                 <!-- CONTROLS BAR -->
                 <div class="flex flex-col gap-3 bg-void-800/50 p-3 rounded-2xl border border-white/5 backdrop-blur-sm sticky top-2 lg:top-4 z-20 shadow-xl shadow-void-950/50">
                     <!-- Top Row: Search & Sort -->
@@ -734,30 +743,53 @@ setInterval(fetchMarket, 60000);
    NEWS FEED
 ═══════════════════════════════════════════════════ */
 async function loadData() {
+    const loader = document.getElementById('sync-loader');
+    if (loader) loader.classList.remove('opacity-0');
+
+    // 1. Instant UI: Load from cache first for speed
+    if ('caches' in window && newsData.length === 0) {
+        try {
+            const cache = await caches.open('rasad-cache-v1');
+            const cachedResponse = await cache.match('news.json');
+            if (cachedResponse) {
+                const data = await cachedResponse.json();
+                processDataUpdate(data);
+            }
+        } catch (e) { console.warn('Cache load failed', e); }
+    }
+
+    // 2. Network Sync: Constantly fetch in the background
     try {
         const res = await smartFetch('news.json');
         const data = await res.json();
-        
-        if (JSON.stringify(data) !== JSON.stringify(newsData)) {
-            newsData = data;
-            renderFeed();
-            updateTicker();
-            updateTension(data);
-            updateStats(data);
-            
-            // Update system status
-            const status = document.getElementById('sys-status');
-            status.innerHTML = `
-                <div class="relative flex w-1.5 h-1.5 lg:w-2 lg:h-2">
-                    <span class="absolute inline-flex h-full w-full rounded-full bg-cyber-green opacity-75 animate-ping"></span>
-                    <span class="relative inline-flex rounded-full h-1.5 w-1.5 lg:h-2 lg:w-2 bg-cyber-green"></span>
-                </div>
-                <span class="text-cyber-green text-[10px] lg:text-xs font-mono font-bold tracking-wider">آنلاین</span>
-            `;
-            status.className = "flex items-center gap-2 px-3 py-1.5 lg:px-4 lg:py-2 rounded-xl bg-cyber-green/10 border border-cyber-green/30 glow-green";
-        }
+        processDataUpdate(data, true);
     } catch (e) { 
         console.error('Feed error:', e);
+    } finally {
+        if (loader) loader.classList.add('opacity-0');
+    }
+}
+
+function processDataUpdate(data, isOnline = false) {
+    // Only re-render if data has actually changed to save mobile CPU/Battery
+    if (JSON.stringify(data) !== JSON.stringify(newsData)) {
+        newsData = data;
+        renderFeed();
+        updateTicker();
+        updateTension(data);
+        updateStats(data);
+    }
+    
+    if (isOnline) {
+        const status = document.getElementById('sys-status');
+        status.innerHTML = `
+            <div class="relative flex w-1.5 h-1.5 lg:w-2 lg:h-2">
+                <span class="absolute inline-flex h-full w-full rounded-full bg-cyber-green opacity-75 animate-ping"></span>
+                <span class="relative inline-flex rounded-full h-1.5 w-1.5 lg:h-2 lg:w-2 bg-cyber-green"></span>
+            </div>
+            <span class="text-cyber-green text-[10px] lg:text-xs font-mono font-bold tracking-wider">آنلاین</span>
+        `;
+        status.className = "flex items-center gap-2 px-3 py-1.5 lg:px-4 lg:py-2 rounded-xl bg-cyber-green/10 border border-cyber-green/30 glow-green";
     }
 }
 
