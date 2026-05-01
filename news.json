@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "بازخوانی سناریوی ۱۹۸۷ توسط یک دریاسالار بازنشسته درباره بحران کنونی ایران",
+        "title_en": "Retired admiral sees echoes of 1987 in current Iran conflict",
+        "summary": [
+            "منبع خبری (fox10tv.com) فقط به نقل‌قول «یک دریاسالار بازنشسته» پرداخته که می‌گوید درگیری کنونی ایران «نشانه‌هایی شبیه ۱۹۸۷» دارد.",
+            "در متن ارائه‌شده هیچ جزئیات قابل راستی‌آزمایی درباره اقدامات مشخص، طرف‌های درگیر، مکان، زمان یا نوع درگیری وجود ندارد و صرفاً یک مقایسه تاریخی مطرح شده است.",
+            "بنابراین این گزارش، داده عملی برای ارزیابی اثرات مستقیم سیاسی/اقتصادی یا احتمال تشدید را در اختیار نمی‌گذارد و بیشتر در سطح تحلیل شخصی باقی می‌ماند."
+        ],
+        "impact": "اثر فوری این گزارش محدود است چون فقط یک مقایسه تاریخی از سوی یک مقام بازنشسته مطرح شده و جزئیات اجرایی ندارد.",
+        "tag": "تحلیل",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "fox10tv.com",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military/retired-admiral-sees-echoes-of-1987-in-current-iran-conflict/ar-AA227yCF",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/retired-admiral-sees-echoes-of-1987-in-current-iran-conflict/ar-AA227yCF",
+        "image": null,
+        "timestamp": 1777590060.0
+    },
+    {
         "title_fa": "ایران برنامه هسته‌ای و موشکی را حفظ می‌کند؛ CENTCOM برای جنگ دوباره آماده می‌شود",
         "title_en": "Iran to retain its nuclear & missile programs; CENTCOM prepares for renewed war TV7 Israel - 30 Apr.",
         "summary": [
@@ -5381,23 +5399,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tVC15a1dDSkxFRnFwQWxSZUJrUi1YQXE1X253RU1la3g2ZlBlU2pLdTVhU0MzV19Xel9oNWtpMi1JM2NXYnY4b1Y5cjJqYVlGVXpVRFNqUENwQm1vMEhyZVIybnZobkVuVUhxa0tfRWtWSDd6Mnd3Tw",
         "image": null,
         "timestamp": 1777098921.0
-    },
-    {
-        "title_fa": "ایران-جنگ: انتظار مذاکره مستقیم در اسلام‌آباد وجود ندارد",
-        "title_en": "Iran war: No direct talks in Islamabad expected",
-        "summary": [
-            "بر اساس گزارش DW، برنامه‌ای برای گفت‌وگوی مستقیم میان طرف‌های درگیر جنگ در اسلام‌آباد پیش‌بینی نمی‌شود؛ یعنی کانال ارتباطی مستقیم عملاً بسته می‌ماند.",
-            "این وضعیت عملاً ریسک سوءتفاهم و تشدید تنش را بالا می‌برد، چون پیام‌ها و تصمیم‌ها از مسیرهای غیرمستقیم منتقل می‌شوند نه مذاکره صریح.",
-            "چنین چارچوبی معمولاً نشانه‌ای از این است که طرف‌ها بر سر حداقل‌های توافق فعلی فاصله دارند و راه‌حل سیاسی فوری در کوتاه‌مدت محتمل نیست."
-        ],
-        "impact": "عدم وجود مذاکره مستقیم در اسلام‌آباد، احتمال تداوم مسیر تنش و بن‌بست سیاسی را تقویت می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.25,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHVwTnFjRVJXN3o4YVVhT09NVlc3OFFFYXd3NVNta2pNQ1NlS0dlZkVQQ24wQmxpNWNVUzl6VjZsV01zS3BtWGFGRDdGamdTLVRESzBWR0VVTW1TamNNdjk4eFoweWM2SWRadjhXY2RJb21qSmhvc2pCcFcxR3Q1NXFCdDNMVFFUQkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTHVwTnFjRVJXN3o4YVVhT09NVlc3OFFFYXd3NVNta2pNQ1NlS0dlZkVQQ24wQmxpNWNVUzl6VjZsV01zS3BtWGFGRDdGamdTLVRESzBWR0VVTW1TamNNdjk4eFoweWM2SWRadjhXY2RJb21qSmhvc2pCcFcxR3Q1NXFCdDNMVFFUQkE",
-        "image": null,
-        "timestamp": 1777098364.0
     }
 ]
