@@ -33,10 +33,11 @@ self.addEventListener('fetch', (event) => {
     const url = new URL(event.request.url);
 
     // Handle navigation requests (loading the website itself)
-    // If the network fails (github.io blocked), serve index.html from cache
+    // Optimized for Mobile: Serve Cache-First to avoid long loading/timeouts
     if (event.request.mode === 'navigate') {
         event.respondWith(
-            fetch(event.request).catch(() => caches.match('./index.html'))
+            caches.match('./index.html')
+                .then((response) => response || fetch(event.request))
         );
         return;
     }
@@ -50,7 +51,10 @@ self.addEventListener('fetch', (event) => {
                     caches.open(CACHE_NAME).then(cache => cache.put(event.request, cln));
                     return response;
                 })
-                .catch(() => caches.match(event.request))
+                .catch(() => {
+                console.log('Serving JSON from cache (offline)');
+                return caches.match(event.request);
+            })
         );
         return;
     }
