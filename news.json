@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اظهار ترامپ درباره پایان جنگ آمریکا و ایران؛ اما خلأ اطلاعاتی در متن",
+        "title_en": "Why Trump says the US-Iran war is over",
+        "summary": [
+            "طبق خبر Vox، ترامپ مدعی است که «جنگ آمریکا و ایران» به پایان رسیده؛ متن منحصراً همین ادعا را برجسته می‌کند و جزئیات عملیاتی یا گزارش‌های راستی‌آزمایی‌شده ارائه نمی‌دهد.",
+            "این نوع اعلامیه بدون ارائه نشانه‌های مشخص از توقف درگیری، تغییر وضعیت میدانی، یا توافق رسمی، بیشتر به عنوان یک اظهارنظر سیاسی/تبلیغاتی تلقی می‌شود تا یک تغییر راهبردی قابل اندازه‌گیری.",
+            "با توجه به اینکه متنِ ارائه‌شده فقط تیتر را تکرار می‌کند، نمی‌توان درباره پیامدهای اقتصادی، واکنش تهران، یا نقش بازیگران خارجی نتیجه‌گیری مستند کرد."
+        ],
+        "impact": "فعلاً اثر واقعی این ادعا نامشخص است چون متن گزارش فقط ادعای ترامپ را بدون جزئیات تأییدشدنی پوشش می‌دهد.",
+        "tag": "آمریکا",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "vox.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZPS3doUWtPeTZMOFJEYTlEU1psMjFNUm9Ka0ZmU2t4OVNuMWxmcmNDUjA5SlYxZTVMVWpwVVViVVVxaFhXNWM0WVBQaVF1ZmIzTnlqQU5MN0hQUGhkTlM3UlB0WC0wcG40TVNuSi1WV09BZTlxWVNzejZsQ1QxT2JpNm9oQkRKRzhfeEp6NFB4WDBsU2Y4SmJMQnhwenZFRHJxTlBXdWxYU2gybFhB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXZPS3doUWtPeTZMOFJEYTlEU1psMjFNUm9Ka0ZmU2t4OVNuMWxmcmNDUjA5SlYxZTVMVWpwVVViVVVxaFhXNWM0WVBQaVF1ZmIzTnlqQU5MN0hQUGhkTlM3UlB0WC0wcG40TVNuSi1WV09BZTlxWVNzejZsQ1QxT2JpNm9oQkRKRzhfeEp6NFB4WDBsU2Y4SmJMQnhwenZFRHJxTlBXdWxYU2gybFhB",
+        "image": null,
+        "timestamp": 1777673100.0
+    },
+    {
         "title_fa": "ترامپ از پیشنهاد ایران قانع نیست؛ آژیر دفاعی تهران در میانه ادامه ابهام آتش‌بس و فشار بندری",
         "title_en": "US Iran War Ceasefire News Live Updates: Trump says not satisfied with Iran proposal, signals uncertainty on deal",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-israel-lebanon-direct-meeting-us-iran-ceasefire-negotiation-liveblog-14006375.html",
         "image": "https://images.firstpost.com/uploads/2026/05/Representational-Image-58-2026-05-75edc7e5d28b03965cc9d6a7bb981b6c.jpg?im=FitAndFill=(1200,675)",
         "timestamp": 1777663440.0
+    },
+    {
+        "title_fa": "اظهار رئیس آمریکا درباره ترجیح ندادن به ازسرگیری حملات هوایی علیه ایران",
+        "title_en": "US leader says he'd prefer not to resume airstrikes on Iran",
+        "summary": [
+            "خبرگزاری TASS گزارش می‌دهد که رئیس آمریکا گفته ترجیح می‌دهد حملات هوایی علیه ایران ازسرگیری نشود؛ یعنی پیام سیاسیِ کاهش‌تنش در دستور کار آمریکا قرار گرفته است.",
+            "چون جزئیات عملیاتی، زمان‌بندی یا توافق مشخص در متن TASS ذکر نشده، این اظهارنظر بیشتر جنبه سیگنال‌سازی سیاسی دارد تا یک تغییر تضمینی در سیاست امنیتی.",
+            "این نوع پیام‌ها معمولاً می‌تواند موقتاً ریسک درگیری را پایین بیاورد، اما به‌خودی‌خود نشانه‌ای از رفع فشار ساختاری یا تغییر واقعی در رفتار طرفین ارائه نمی‌کند."
+        ],
+        "impact": "این اظهارنظر در کوتاه‌مدت ریسک تشدید نظامی را کاهش می‌دهد، اما بدون پیگیری مشخص، اثر آن روی روند واقعی فشار سیاسی و امنیتی محدود خواهد ماند.",
+        "tag": "آمریکا",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2125395",
+        "clean_url": "https://tass.com/world/2125395",
+        "image": null,
+        "timestamp": 1777662300.0
     },
     {
         "title_fa": "ایران از مسیر میانجی‌های پاکستان «پیشنهاد صلح» بازنگری‌شده برای آمریکا فرستاده؛ پس از رد پیشنهاد قبلی توسط ترامپ",
@@ -5363,41 +5399,5 @@
         "clean_url": "https://www.erienewsnow.com/news/national/iran-minister-returns-to-pakistan-despite-us-cancelling-talks/article_f94e5185-8a31-5367-aaa0-1c680e12c7dc.html",
         "image": "http://www.bing.com/th?id=ONUT.pPUifEuN8dt0j8cC8CCbeQ&pid=News",
         "timestamp": 1777206660.0
-    },
-    {
-        "title_fa": "خط قرمز ترامپ برای گفت‌وگو با ایران؛ ایران شرط لغو محاصره را پیش گذاشت و وزیر خارجه راهی روسیه شد",
-        "title_en": "Iran US Israel War Live Updates: Trump's Red Line For Talks With Iran",
-        "summary": [
-            "ترامپ اعلام کرد برنامه سفر نمایندگان ارشدش استیو ویتکاف و جارد کوشنر برای مذاکره با ایران در پاکستان لغو شده و اگر ایران بخواهد مذاکره کند باید «تماس بگیرد»؛ این در حالی است که میانجی‌های پاکستانی تلاش می‌کنند شکاف‌های میان آمریکا و ایران را کم کنند.",
-            "ایران برای شروع دور جدید مذاکرات، لغو «محاصره عملیاتی» آمریکا علیه بنادر ایران را شرط گذاشته است؛ مسعود پزشکیان نیز در گفت‌وگو با نخست‌وزیر پاکستان تأکید کرد آمریکا باید ابتدا موانع عملیاتی (از جمله محاصره) را بردارد تا مذاکرات دوباره شکل بگیرد.",
-            "هم‌زمان، وزیر خارجه ایران عباس عراقچی از پاکستان خارج شد و برای دیدار با ولادیمیر پوتین راهی روسیه است؛ در ادامه گزارش‌ها، فشار اقتصادی ناشی از اختلال صادرات نفت و LNG به‌خاطر وضعیت تنگه هرمز و همچنین تهدیدهای نظامی دو طرف هم برجسته شده است."
-        ],
-        "impact": "لغو مسیر مذاکره توسط ترامپ و اصرار ایران بر برداشتن محاصره عملیاتی، احتمال کشیده‌شدن بن‌بست دیپلماتیک به تشدید تنش و فشار اقتصادی بر هر دو طرف را بالا می‌برد.",
-        "tag": "مذاکره",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-trump-us-israel-ceasefire-blockade-crude-oil-pakistan-islamabad-talks-latest-news-liveblog-154175128",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-trump-us-israel-ceasefire-blockade-crude-oil-pakistan-islamabad-talks-latest-news-liveblog-154175128",
-        "image": "http://www.bing.com/th?id=ONUT.pF2Qi6zwKla7JQy4Xhmo9g&pid=News",
-        "timestamp": 1777205340.0
-    },
-    {
-        "title_fa": "ترامپ درباره انگیزه «شوتر» تردید دارد؛ همزمان گفت‌وگوهای صلح متوقف است (NPR)",
-        "title_en": "Trump doubts shooter motivated by Iran war as peace talks on hold",
-        "summary": [
-            "NPR گزارش می‌دهد ترامپ نسبت به این‌که «شوتر» تحت تأثیر جنگ با ایران عمل کرده باشد، ابراز تردید کرده است؛ یعنی پیوند رواییِ «حادثه → جنگ ایران» هنوز قطعی نشده.",
-            "هم‌زمان با این اظهارنظر، خبر حاکی از آن است که گفت‌وگوهای صلح در همان محور/زمینه متوقف مانده‌اند؛ این توقف، ریسک تداوم بی‌ثباتی و سوءمحاسبه در محیط تنش‌زا را بالا می‌برد.",
-            "از منظر تحلیل راهبردی، این خبر به جای یک «فشار مستقیم و ساختاری» روی رژیم یا ایران، بیشتر یک مؤلفه عدم‌قطعیت در روایت‌های سیاسی و امنیتی ایجاد می‌کند و می‌تواند بر تصمیم‌گیری‌ها اثر بگذارد."
-        ],
-        "impact": "توقف مذاکرات و باقی ماندن ابهام درباره انگیزه عامل حادثه، فضای تنش و محاسبات پرریسک را تشدید می‌کند.",
-        "tag": "امنیتی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "NPR",
-        "url": "https://www.kunm.org/npr-news/2026-04-26/trump-doubts-shooter-motivated-by-iran-war-as-peace-talks-on-hold",
-        "clean_url": "https://www.kunm.org/npr-news/2026-04-26/trump-doubts-shooter-motivated-by-iran-war-as-peace-talks-on-hold",
-        "image": null,
-        "timestamp": 1777203610.0
     }
 ]
