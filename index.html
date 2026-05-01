@@ -606,13 +606,18 @@ const FALLBACKS = [
 ];
 
 async function smartFetch(filename) {
+    const controller = new AbortController();
+    const timeoutId = setTimeout(() => controller.abort(), 8000);
+
     // Try 1: Local/Relative (github.io)
     try {
-        const response = await fetch(`${filename}?t=${Date.now()}`);
+        const response = await fetch(`${filename}?t=${Date.now()}`, { signal: controller.signal });
+        clearTimeout(timeoutId);
         if (response.ok) return response;
     } catch (e) {
         console.warn(`Primary fetch failed for ${filename}`);
     }
+    clearTimeout(timeoutId);
 
     // Try Fallbacks: raw.githubusercontent.com then github.com
     for (const base of FALLBACKS) {

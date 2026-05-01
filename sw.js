@@ -48,10 +48,18 @@ self.addEventListener('fetch', (event) => {
                     caches.open(CACHE_NAME).then(cache => cache.put(event.request, cln));
                     return response;
                 })
-                .catch(() => {
-                console.log('Serving JSON from cache (offline)');
-                return caches.match(event.request);
-            })
+                .catch(async () => {
+                    const cachedResponse = await caches.match(event.request);
+                    if (cachedResponse) {
+                        console.log('Serving JSON from cache (offline)');
+                        return cachedResponse;
+                    }
+                    // Return a valid empty JSON response instead of undefined to avoid TypeErrors
+                    return new Response(JSON.stringify([]), { 
+                        status: 200, 
+                        headers: { 'Content-Type': 'application/json' } 
+                    });
+                })
         );
         return;
     }
@@ -68,6 +76,9 @@ self.addEventListener('fetch', (event) => {
                     caches.open(CACHE_NAME).then(cache => cache.put(event.request, cln));
                 }
                 return networkResponse;
+            }).catch(() => {
+                // Fallback for failed asset fetches (like being offline with empty cache)
+                return new Response('Network error occurred', { status: 408 });
             });
         })
     );
