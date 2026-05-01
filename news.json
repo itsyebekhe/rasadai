@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترمپ در حال بررسی گزینه «ویران کردن کامل» ایران؛ هم‌زمان بن‌بست مذاکرات و ادامه محاصره دریایی",
+        "title_en": "Trump considering option to ‘blast the hell out of’ Iran",
+        "summary": [
+            "ترامپ پس از بیش از دو ماه از حملات مشترک آمریکا و اسرائیل به ایران، درباره احتمال ضربات بیشتر شفافیت نداد اما به ارائه «گزینه‌هایی» اشاره کرد؛ از جمله تهدید زبانی برای «blast the hell out of» ایران و تکرار ادبیات هدف‌گیری پل‌ها و زیرساخت انرژی.",
+            "او از نشست گزارش‌شده با فرمانده سنتکام، آدمیرال برد کوپر خبر داد و گفت مذاکرات دشوار است چون آمریکا نمی‌داند با چه کسانی طرف است؛ همچنین ایران روز جمعه از طریق پاکستان «پیشنهاد معامله» داد، اما ترامپ اعلام کرد از آن «رضایت ندارد» و خواستار «معامله درست» است.",
+            "در حالی که آتش‌بس در توازن است، آمریکا محاصره/انسداد دریایی علیه بنادر ایران را ادامه می‌دهد و ادعا می‌کند این اقدام فروش نفت و توان اقتصادی رژیم را خفه می‌کند؛ هم‌زمان دو سفر لغوشده و یک دیدار ناموفق حضوری در پاکستان (با حضور جِی‌دی وَنس) نشان می‌دهد کانال‌های توافق به بن‌بست نزدیک‌اند."
+        ],
+        "impact": "ادامه محاصره دریایی همراه با لحن تهدیدآمیز و نارضایتی از پیشنهاد معامله، ریسک تشدید نظامی و فرسایشی شدن بن‌بست مذاکرات را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.aol.com/news/trump-iranian-regime-disjointed-wont-174100801.html",
+        "clean_url": "https://www.aol.com/news/trump-iranian-regime-disjointed-wont-174100801.html",
+        "image": null,
+        "timestamp": 1777674579.0
+    },
+    {
         "title_fa": "اظهار ترامپ درباره پایان جنگ آمریکا و ایران؛ اما خلأ اطلاعاتی در متن",
         "title_en": "Why Trump says the US-Iran war is over",
         "summary": [
@@ -502,6 +520,24 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/trump-tells-congress-hostilities-with-iran-have-terminated/ar-AA22bkLY",
         "image": "http://www.bing.com/th?id=ONUT.Dro9kdiJjX_OoCOKMPKoig&pid=News",
         "timestamp": 1777637100.0
+    },
+    {
+        "title_fa": "ترامپ «جنگ با ایران» را غیرقانونی جلوه داده؛ عقب‌نشینی از بازه ۶۰روزه و اعلام خاتمه خصومت‌ها",
+        "title_en": "Trump’s Iran war is now officially illegal",
+        "summary": [
+            "بر اساس گزارش نیویورک‌مگزین (از طریق MSN)، ترامپ عملاً از مهلت ۶۰روزه‌ای که قانوناً توسط کنگره برای خروج تعیین شده عبور کرده و با این کار روند حقوقیِ عقب‌نشینی را نقض می‌کند.",
+            "او همزمان ادعا می‌کند «خصومت‌ها خاتمه یافته»، در حالی که طبق چارچوب قانونیِ اشاره‌شده در گزارش، دولت همچنان در حال عبور از ضرب‌الاجل الزام‌آور است.",
+            "نتیجه گزارش این است که اقدام ترامپ از نظر سازوکار قانون‌گذاری آمریکا «غیرقانونی» محسوب می‌شود، نه یک تصمیم صرفاً اجرایی؛ یعنی فشار حقوقی/سیاسی به دولت افزایش می‌یابد."
+        ],
+        "impact": "این پرونده می‌تواند اعتبار و استمرار عملیات‌های مرتبط با ایران را در داخل آمریکا با مانع حقوقی جدی روبه‌رو کند و همزمان فضای سیاسی برای محدودسازی گزینه‌های واشنگتن را تنگ‌تر سازد.",
+        "tag": "تحریم_حقوقی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "New York Magazine on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/trump-s-iran-war-is-now-officially-illegal/ar-AA22bH4K",
+        "clean_url": "https://www.msn.com/en-us/news/politics/trump-s-iran-war-is-now-officially-illegal/ar-AA22bH4K",
+        "image": "http://www.bing.com/th?id=ONUT.nViyRI5-w8WWg3s4I9cEDg&pid=News",
+        "timestamp": 1777636380.0
     },
     {
         "title_fa": "اثر جنگ ایران بر هزینه‌های زندگی و قبض‌ها",
@@ -5363,41 +5399,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/us-iran-conflict-latest-islamabad-140147504.html",
         "image": null,
         "timestamp": 1777212586.0
-    },
-    {
-        "title_fa": "ادعای وزیر: گرانی‌های پس از جنگ تا ۸ ماه ادامه می‌یابد",
-        "title_en": "Higher prices could last for eight months after Iran war, minister says",
-        "summary": [
-            "خبر بی‌بی‌سی به نقل از یک وزیر می‌گوید «قیمت‌ها» احتمالاً تا هشت ماه پس از جنگ در ایران بالا می‌ماند؛ یعنی دولت خود استمرار فشار اقتصادی را به رسمیت می‌شناسد.",
-            "این اعتراف نشان می‌دهد شوک جنگ فقط مقطعی نیست و به تورم، کاهش قدرت خرید و تضعیف معیشت مردم در بازه زمانی میان‌مدت تبدیل می‌شود.",
-            "با توجه به اینکه علت دقیق و اقدامات جبرانیِ مشخص در متن گزارش نیامده، پیام اصلی این است که مدیریت اقتصادی در تدارک مهار اثرات جنگ ناتوان یا حداقل نامطمئن ارزیابی می‌شود."
-        ],
-        "impact": "اگر پیش‌بینی ۸ ماهه درست باشد، فشار تورمی و فرسایش معیشت به عامل تشدید نارضایتی عمومی و بی‌ثباتی اقتصادی بدل می‌شود.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Z0dzSHgydFRsSlpKaUVyTHlVYnRPSi1YeWxXM21lVXJLYlllaXdzZHZVYkJlS2wxX0ZGY0dLSnNNNmRLbmpTV3RsV0N5ZTlmaGFkMHhoenlHUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41Z0dzSHgydFRsSlpKaUVyTHlVYnRPSi1YeWxXM21lVXJLYlllaXdzZHZVYkJlS2wxX0ZGY0dLSnNNNmRLbmpTV3RsV0N5ZTlmaGFkMHhoenlHUQ",
-        "image": null,
-        "timestamp": 1777211934.0
-    },
-    {
-        "title_fa": "وزیر خارجه ایران از اسلام‌آباد به مسکو رفت؛ رایزنی‌های پی‌درپی برای ادامه مذاکرات با آمریکا",
-        "title_en": "Iran minister leaves Pakistan, heads to Russia for more talks",
-        "summary": [
-            "وزارت خارجه ایران اعلام کرد وزیر خارجه کشورمان از اسلام‌آباد به مقصد مسکو خارج شد؛ سفر «پینگ‌پنگی» بین پایتخت‌ها نشان می‌دهد محور رایزنی برای حفظ جریان مذاکرات آمریکا-ایران در حال چرخش است.",
-            "این جابه‌جایی همزمان با امید میانجی‌ها برای «نگه داشتن» مسیر مذاکرات صلح میان تهران و واشنگتن مطرح شده، اما متن گزارش جزئیات توافق یا نتیجه مشخص ارائه نمی‌دهد.",
-            "این رفت‌وآمد پرحجم، به‌جای حل ریشه‌ای اختلافات، بیشتر کارکرد مدیریت بحران و خرید زمان دارد و در نبود دستاورد علنی، نشانه‌ای از شکنندگی روند مذاکره است."
-        ],
-        "impact": "حرکت سریع بین پاکستان و روسیه برای پیشبرد یا تثبیت مذاکرات، بیانگر اتکای رژیم به میانجی‌گری برای جلوگیری از فرسایش مذاکرات است، بدون اینکه خروجی مشخصی در گزارش دیده شود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Erie News Now",
-        "url": "https://www.erienewsnow.com/news/national/iran-minister-returns-to-pakistan-despite-us-cancelling-talks/article_f94e5185-8a31-5367-aaa0-1c680e12c7dc.html",
-        "clean_url": "https://www.erienewsnow.com/news/national/iran-minister-returns-to-pakistan-despite-us-cancelling-talks/article_f94e5185-8a31-5367-aaa0-1c680e12c7dc.html",
-        "image": "http://www.bing.com/th?id=ONUT.pPUifEuN8dt0j8cC8CCbeQ&pid=News",
-        "timestamp": 1777206660.0
     }
 ]
