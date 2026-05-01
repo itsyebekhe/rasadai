@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "قیمت «صلح» با ایران",
+        "title_en": "The Price of Peace With Iran",
+        "summary": [
+            "مطلب با همین تیتر کلی، وعده می‌دهد هزینه‌های واقعی هرگونه توافق/آشتی با ایران را بررسی کند، اما در داده‌ای که ارائه شده هیچ جزئیات مشخص از مفاد توافق، زمان‌بندی یا اقدامات عملی ذکر نشده است.",
+            "از آنجا که متن تنها به عنوان و نام نشریه محدود است، نمی‌توان ارزیابی دقیق از فشار خارجی، مسیر لغو/بازتعریف تحریم‌ها، یا آثار مستقیم آن بر ثبات داخلی رژیم ارائه کرد.",
+            "عدم وجود اطلاعات قابل‌اتکا درباره اعتراضات داخلی، وضعیت اقتصاد، یا نقش بازیگران بیرونی (روسیه/چین/کره‌شمالی) باعث می‌شود تحلیل «داخلی-اقتصادی» و «واقع‌گرایانه» از این گزارش فعلاً غیرممکن باشد."
+        ],
+        "impact": "در حال حاضر فقط با تیتر نمی‌توان گفت این گزارش چه تصمیم/اقدامی را پیش می‌برد یا چه پیامدهای قابل‌سنجشی برای رژیم و جامعه دارد.",
+        "tag": "تحلیل",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "Foreign Affairs",
+        "url": "https://www.msn.com/en-us/news/world/the-price-of-appeasement-20-billion-won-t-buy-peace-with-iran/ar-AA21bZMV",
+        "clean_url": "https://www.msn.com/en-us/news/world/the-price-of-appeasement-20-billion-won-t-buy-peace-with-iran/ar-AA21bZMV",
+        "image": null,
+        "timestamp": 1777640400.0
+    },
+    {
+        "title_fa": "خاندان قدرتمند ایرانی بزرگ‌ترین صرافی رمزارز را راه‌اندازی کرد؛ استفاده برای جابه‌جایی پول توسط سپاه",
+        "title_en": "One of Iran’s most powerful families founded its largest crypto exchange. It’s used by the IRGC to move millions",
+        "summary": [
+            "طبق گزارش رویترز، یکی از قدرتمندترین خاندان‌های ایران بزرگ‌ترین صرافی رمزارز کشور را تأسیس کرده است.",
+            "این صرافی به‌عنوان ابزار مورد استفاده قرار می‌گیرد تا سپاه پاسداران میلیون‌ها دلار/مبلغ را از مسیر رمزارز جابه‌جا کند.",
+            "این سازوکار نشان می‌دهد رژیم و نهادهای امنیتی از اقتصاد غیرشفاف برای دور زدن محدودیت‌ها و حفظ جریان مالی عملیاتی بهره می‌برند."
+        ],
+        "impact": "ادغام قدرت اقتصادی-خانوادگی با کانال مالی سپاه، هم توان مالی نیروهای امنیتی را تقویت می‌کند و هم شفافیت اقتصادی را بیشتر فرسایش می‌دهد.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/investigations/one-irans-most-powerful-families-founded-its-largest-crypto-exchange-its-used-by-2026-05-01/",
+        "clean_url": "https://www.reuters.com/investigations/one-irans-most-powerful-families-founded-its-largest-crypto-exchange-its-used-by-2026-05-01",
+        "image": null,
+        "timestamp": 1777637945.0
+    },
+    {
+        "title_fa": "اثر جنگ ایران بر هزینه‌های زندگی و قبض‌ها",
+        "title_en": "How the Iran war affects your money and bills",
+        "summary": [
+            "BBC با این تیتر به پیوند مستقیم «جنگ ایران» با فشار هزینه‌ای روی مردم اشاره می‌کند، اما در متن ارائه‌شده هیچ جزئیاتی درباره سازوکار دقیق (سوخت، حمل‌ونقل، بیمه، تورم یا نرخ ارز) نیامده است.",
+            "تمرکز گزارش بر پیامدهای مالی است: بالا رفتن هزینه‌ها و فشار روی «پول مردم» و «قبض‌ها»؛ نشانه این است که بازارها و زنجیره‌های تامین تحت ریسک جنگی قرار گرفته‌اند، ولی داده مشخص در اختیار نیست.",
+            "بدون جزئیات بیشتر از BBC (کشورها/تاریخ/اعداد/منابع)، نمی‌توان درباره شدت اثر یا اینکه دقیقاً کدام بخش‌ها (انرژی، برق، کالاهای وارداتی) هدف یا متاثر بوده‌اند حکم قطعی داد."
+        ],
+        "impact": "این گزارش به سطح معیشتی اشاره می‌کند، اما چون جزئیات و داده‌های عددی در متن موجود نیست، ارزیابی دقیق شدت ضربه مالی به‌صورت مستند ممکن نیست.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://www.npr.org/2026/05/01/nx-s1-5805999/the-iran-war-has-caused-oil-and-gas-prices-to-skyrocket-how-its-affecting-consumers",
+        "clean_url": "https://www.npr.org/2026/05/01/nx-s1-5805999/the-iran-war-has-caused-oil-and-gas-prices-to-skyrocket-how-its-affecting-consumers",
+        "image": null,
+        "timestamp": 1777635611.0
+    },
+    {
         "title_fa": "پول: جنگ‌افروزی ترامپ علیه ایران به سطح نارضایتی عراق و ویتنام رسیده است",
         "title_en": "Poll: Trump’s Iran war reaches Iraq- and Vietnam-era disapproval levels",
         "summary": [
@@ -144,6 +198,24 @@
         "timestamp": 1777620712.0
     },
     {
+        "title_fa": "ایران پیشنهاد تازه گفت‌وگو با آمریکا برای پایان جنگ ارائه کرد؛ هزینه‌های درگیری در تنگه هرمز جهش یافت",
+        "title_en": "Live Updates: Iran offers new proposal for talks with U.S. to end war as standoff's costs multiply",
+        "summary": [
+            "طبق گزارش CBS News، ایران اعلام کرده «پیشنهاد جدید» برای گفت‌وگو با آمریکا ارائه داده تا جنگ/درگیری خاتمه پیدا کند.",
+            "این اقدام در متن «بن‌بست در تنگه هرمز» مطرح شده و CBS News تاکید می‌کند هزینه‌های آن در حال افزایش است؛ پیام روشنش فشار اقتصادی بر شبکه تجارت جهانی است.",
+            "افزایش هزینه‌های standoff می‌تواند به تضعیف توان مانور سیاسی-اقتصادی رژیم و افزایش ریسک محاسبات نادرست منجر شود، هرچند جزئیات پیشنهاد و پاسخ آمریکا در متن خبر نیامده است."
+        ],
+        "impact": "اگر گفت‌وگوها جدی شود، می‌تواند مسیر کاهش تنش را باز کند؛ اما فعلاً صرفِ «پیشنهاد» بدون پاسخ و جزئیات، بیشتر بیانگر مدیریت بحران و فشارهای اقتصادی رو به رشد است.",
+        "tag": "گفت‌وگو",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire",
+        "image": "http://www.bing.com/th?id=ONUT.P3QMQXIuDTh3Ky8zCSP1-Q&pid=News",
+        "timestamp": 1777617000.0
+    },
+    {
         "title_fa": "اظهار وزارت خارجه آمریکا: آتش‌بس موقت، مهلت ۶۰ روزه را عقب می‌اندازد",
         "title_en": "Iran war: White House says truce delays 60-day deadline",
         "summary": [
@@ -162,6 +234,24 @@
         "timestamp": 1777616470.0
     },
     {
+        "title_fa": "تهران برای مذاکره با آمریکا میانجی پاکستان را هدف گرفت؛ هم‌زمان بحران تنگه هرمز قیمت نفت را پایین آورد، اما تهدید تشدید نظامی باقی است",
+        "title_en": "Iran sends proposal for negotiations with US to mediator Pakistan",
+        "summary": [
+            "طبق گزارش IRNA، تهران «آخرین پیشنهاد مذاکره» با آمریکا را از مسیر میانجی‌گران پاکستانی ارسال کرده؛ جزئیاتی از مفاد آن منتشر نشده و روشن نیست که آیا پیشنهاد مستقیماً به واشنگتن رسیده است یا نه.",
+            "هم‌زمان با آغاز/ادامه انسداد تنگه هرمز که حدود ۲۰٪ از عرضه جهانی نفت‌وگاز را مختل کرده و صادرات نفت ایران را تحت فشار نیروی دریایی آمریکا محدود کرده، قیمت جهانی نفت جهش داشت؛ اما بعد از انتشار این گزارش، قیمت‌ها افت کرد—نشانه‌ای از واکنش بازار به احتمال کاهش تنش.",
+            "با وجود برقرار بودن آتش‌بس از ۸ آوریل، گزارش‌های مربوط به اطلاع‌دادن ترامپ درباره برنامه حملات تازه برای وادارکردن ایران به مذاکره، همراه با بالا رفتن قیمت نفت تا اوج چهار ساله، نگرانی از ادامه چرخه تهدید نظامی را حفظ کرده است؛ ضمن اینکه ایران از پدافند هوایی و «پاسخ گسترده» در صورت حمله سخن گفته است."
+        ],
+        "impact": "این کانال میانجی‌گری می‌تواند گره مذاکره را باز کند، اما با توجه به فضای تهدید برای حملات جدید و انسداد تنگه هرمز، ریسک تشدید همچنان بالاست.",
+        "tag": "مذاکره",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/uae-says-iran-cannot-trusted-095314690.html",
+        "clean_url": "https://www.yahoo.com/news/articles/uae-says-iran-cannot-trusted-095314690.html",
+        "image": "http://www.bing.com/th?id=ONUT.XutmnW1Jpb7dpYdq51BWAA&pid=News",
+        "timestamp": 1777616280.0
+    },
+    {
         "title_fa": "رئیس صنعت کود: جنگ ایران ۱۰ میلیارد وعده غذایی در هفته را به خطر می‌اندازد",
         "title_en": "Fertiliser boss says Iran war puts 10 billion meals a week at risk",
         "summary": [
@@ -178,6 +268,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fZU42N3ZPWGxXS3V1a0pCQnJmMWJSYlI3ZnNkMkwyTVdIR0tNc0NrSlk2Y3RfVTB2Vy1xU0lVc0F0NGdjVXRFQTI3ZjBSbmxxUG1RWFpaY0pJdw",
         "image": null,
         "timestamp": 1777614678.0
+    },
+    {
+        "title_fa": "تمایل غالب رهبران ایران به معامله: نشانه‌ای از محاسبات بقای اقتصادی-سیاسی",
+        "title_en": "Iran’s Leaders Mostly Want a Deal",
+        "summary": [
+            "این گزارش با تمرکز بر نگاه رهبران ایران نشان می‌دهد که بخش عمده مدیریت کشور به‌جای تشدید رویارویی، «سوار شدن بر یک توافق» را به‌عنوان مسیر ترجیحی در نظر دارد.",
+            "وجود چنین اجماعی ضمنی درباره «میل به معامله» می‌تواند بیانگر فشارهای بیرونی و هزینه‌های داخلی باشد که انگیزه تصمیم‌گیران را به سمت کاهش ریسک خارجی و مهار اثرات اقتصادی سوق می‌دهد—اما مقاله متناظر با آن، جزئیات اجرایی یا توافق مشخص ارائه نمی‌کند.",
+            "با توجه به اینکه متن ارائه‌شده عملاً فقط به هدر و معرفی نویسنده محدود است، نمی‌توان درباره جزئیات طرف‌های مذاکره، خطوط قرمز یا محتوا و زمان‌بندی توافق ادعای دقیق کرد."
+        ],
+        "impact": "میل غالب رهبران به معامله، اگر به اقدام عملی تبدیل شود، می‌تواند موقتاً تنش خارجی را مهار کند، اما در همان حال نشان می‌دهد حکومت برای بقا نیازمند خروج از بن‌بست اقتصادی-سیاسی است.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/international/2026/05/iran-infighting-negotiation-qalibaf/687020/",
+        "clean_url": "https://www.theatlantic.com/international/2026/05/iran-infighting-negotiation-qalibaf/687020",
+        "image": "http://www.bing.com/th?id=ONUT.jj-X59r5ijJIDXgd9_gLtg&pid=News",
+        "timestamp": 1777614180.0
     },
     {
         "title_fa": "روز ۶۳ جنگ: فعال‌سازی پدافند هوایی تهران و چراغ‌قرمزِ «حمله احتمالی» از سوی ترامپ",
@@ -5291,113 +5399,5 @@
         "clean_url": "https://www.houstonchronicle.com/news/world/article/trump-has-paused-3-mideast-wars-but-the-22225567.php",
         "image": null,
         "timestamp": 1777150020.0
-    },
-    {
-        "title_fa": "نیویورک پست: ترامپ و نتانیاهو بر سر هدف مشترک علیه ایران همسو هستند، اما رسانه‌ها آن‌ها را در برابر هم قرار می‌دهند",
-        "title_en": "Michael Goodwin: Trump and Netanyahu have a shared goal for Iran — but the media pits them against each other",
-        "summary": [
-            "مقاله مدعی است حملات رسانه‌ای در آمریکا و اسرائیل، هر دو طرف را متهم می‌کند: در آمریکا ترامپ «فریب‌خورده» معرفی می‌شود و در اسرائیل نتانیاهو به‌عنوان شریک «دودل» که در برابر تصمیمات ترامپ کوتاه می‌آید.",
-            "به‌عنوان نمونه از اختلاف‌سازی رسانه‌ای، به تصمیم ترامپ برای توقف درگیری و اعلام آتش‌بس دو هفته‌ای اشاره می‌شود تا گفت‌وگوهای مربوط به ایران از سر گرفته شود؛ نویسنده این اقدام را نقطه‌ای می‌داند که رسانه‌ها آن را علیه نتانیاهو یا علیه ترامپ قرائت می‌کنند.",
-            "طبق متن، دفتر نتانیاهو بلافاصله بعد از اعلام آتش‌بس، در بیانیه‌ای (فقط به انگلیسی) گفته اسرائیل تصمیم ترامپ برای تعلیق حملات علیه ایران به مدت دو هفته را «حمایت می‌کند»؛ نویسنده این را شاهدی بر پیوند راهبردی یا حداقل همسویی اجرایی می‌داند، نه جنگ روایت‌ها."
-        ],
-        "impact": "این روایت نشان می‌دهد که محور واقعی «همسویی راهبردی علیه ایران» در سایه جنگ رسانه‌ای پنهان می‌ماند، و اختلاف‌سازی می‌تواند بر تصمیم‌سازی داخلی و ادراک عمومی اثر بگذارد.",
-        "tag": "ایران",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/04/25/opinion/michael-goodwin-trump-and-netanyahu-have-a-shared-goal-for-iran-but-the-media-pits-them-against-each-other/",
-        "clean_url": "https://nypost.com/2026/04/25/opinion/michael-goodwin-trump-and-netanyahu-have-a-shared-goal-for-iran-but-the-media-pits-them-against-each-other",
-        "image": "http://www.bing.com/th?id=ONUT.Zs2SO57u4Ot3gfOUFnyQwg&pid=News",
-        "timestamp": 1777149600.0
-    },
-    {
-        "title_fa": "ترامپ مسئولیت را متوجه مقام‌های ایران می‌کند؛ تهران از موضع سخت‌گیرانه دفاع می‌کند",
-        "title_en": "Trump puts onus on Iran’s authorities as they project hardened stance",
-        "summary": [
-            "آل‌جزیرا گزارش می‌دهد که ترامپ بارِ تصمیم‌گیری و پیامدهای احتمالی را متوجه مقام‌های ایران کرده و همزمان از تصویر «موضع سخت‌گیرانه» در سمت تهران سخن می‌رود.",
-            "این چارچوب رسانه‌ای نشان می‌دهد که فشار سیاسی-دیپلماتیک به جای کاهش تنش، به سمت نسبت‌دادن مسئولیت حرکت می‌کند؛ یعنی احتمال تشدید فشار خارجی در افق کوتاه بالا می‌رود.",
-            "چون متن خبری به اقدام مشخص اقتصادی/نظامی یا جزئیات تحریمی جدید اشاره نمی‌کند، تمرکز اصلی فعلاً بر رقابت روایت‌ها و جهت‌دهی به رفتار مقام‌های ایران است نه بر یک رخداد اجرایی تاییدشده."
-        ],
-        "impact": "اثر فوری این پیام‌ها بیشتر در افزایش ریسک محاسبه‌گری غلط و تشدید فشار سیاسی است تا یک تغییر قطعی در وضعیت تحریمی یا میدانی.",
-        "tag": "فشارسیاسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkN4MnNwcmV5a2M4UE1mRkdPSDY2QTZsT0p4UGhKN0RhSUhXNzE5b09xODF3N2hKaFN0UU1qc3NWd05BUS1FcUVnUnB0X0llWnNHVkthdnBxR1FPSms2eUlQMGhPNnFNcktDYlg3V1B3dUtHbzBwMlNIRkUzazVSaFgyNWlfTzdXSi1SZmJZOHF1b1VtTktEaUJ6elUxMmZyOG5hRFNvay1MZHNUVFHSAbMBQVVfeXFMUFRlVFlHN0xZYjl5MU9GdGZoalRMYks5QlNrd2YyX1dnWjNqbF9iLXBvNkJRZDVNUnZzTk1LVWx3RU1QU1hvYWdBa0VzMGgyZjhrRkhSZWdJQlkzLUF1dzBLcmw0eHRCRWhIdV9qbklhTjZ3eGF5U2I3eF93YVR0cHdXYnhWcVRBTUJPbGxkSlpxelNfVVpNeFBiX2llLXB6ZW5hSnowNjBraW1XWE81NDBRM0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVkN4MnNwcmV5a2M4UE1mRkdPSDY2QTZsT0p4UGhKN0RhSUhXNzE5b09xODF3N2hKaFN0UU1qc3NWd05BUS1FcUVnUnB0X0llWnNHVkthdnBxR1FPSms2eUlQMGhPNnFNcktDYlg3V1B3dUtHbzBwMlNIRkUzazVSaFgyNWlfTzdXSi1SZmJZOHF1b1VtTktEaUJ6elUxMmZyOG5hRFNvay1MZHNUVFHSAbMBQVVfeXFMUFRlVFlHN0xZYjl5MU9GdGZoalRMYks5QlNrd2YyX1dnWjNqbF9iLXBvNkJRZDVNUnZzTk1LVWx3RU1QU1hvYWdBa0VzMGgyZjhrRkhSZWdJQlkzLUF1dzBLcmw0eHRCRWhIdV9qbklhTjZ3eGF5U2I3eF93YVR0cHdXYnhWcVRBTUJPbGxkSlpxelNfVVpNeFBiX2llLXB6ZW5hSnowNjBraW1XWE81NDBRM0U",
-        "image": null,
-        "timestamp": 1777147970.0
-    },
-    {
-        "title_fa": "تشدید موضع سخت‌گیرانه تهران: بی‌علاقگی‌تر به مذاکره با آمریکا و ادامه نمایش «وحدت» زیر فشار جنگ",
-        "title_en": "Iran’s authorities project hardened stance with more talks on horizon",
-        "summary": [
-            "رسانه‌های دولتی ایران و مقامات مرتبط، می‌گویند پس از شکست میانجی‌گری در پاکستان، تهران کمتر از قبل مایل است درباره موضوعاتی فراتر از «چارچوب‌های پذیرفته‌شده» وارد مذاکره با آمریکا شود؛ عباس عراقچی در جریان رایزنی در اسلام‌آباد و سپس برنامه سفر به عمان (و بعدتر روسیه) اعلام کرده هنوز «جدی بودن» آمریکا در دیپلماسی را ندیده است.",
-            "با لغو سفر برنامه‌ریزی‌شده استیو ویتکاف و جرد کوشنر به پاکستان از سوی ترامپ، او یک بار دیگر فشار را به دوش رهبری ایران گذاشت و ادعاهای بی‌پایه درباره «اختلافات داخلی» مطرح کرد؛ این وضعیت به‌عنوان زمینه‌ای برای تحکیم پیام‌های ضد امتیازدهی در تهران بازتاب یافته است.",
-            "در داخل، هم‌زمان با خاموشی تقریباً کامل اینترنت که به حدود دو ماه نزدیک می‌شود، مقامات و حامیان نظام با پیام‌های هماهنگ درباره «وحدت» و مخالفت با امتیاز به ترامپ تاکید می‌کنند؛ همچنین دولت به نگرانی از آسیب جنگ به زیرساخت‌های غیرنظامی اشاره کرده و از مردم خواسته مصرف برق را کاهش دهند و برای گزارش قاچاق/سرقت برق پاداش تعیین کرده است."
-        ],
-        "impact": "این ترکیب از شکست مسیر مذاکره، فشار تبلیغاتی آمریکا برای نمایش «اختلاف» و تشدید کنترل اطلاعات داخل کشور، احتمال چرخش به امتیازدهی را پایین می‌آورد و تهران را به سمت مدیریت سخت‌تر ریسک جنگ و اختلالات زیرساختی سوق می‌دهد.",
-        "tag": "ایران-آمریکا",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-authorities-project-hardened-stance-195457128.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-authorities-project-hardened-stance-195457128.html",
-        "image": null,
-        "timestamp": 1777147501.0
-    },
-    {
-        "title_fa": "لغو سفر نمایندگان آمریکا به اسلام‌آباد در جریان جنگ ایران",
-        "title_en": "Iran war: Trump cancels envoys' trip to Islamabad",
-        "summary": [
-            "بر اساس گزارش DW، دونالد ترامپ سفر نمایندگانش به اسلام‌آباد را لغو کرده است؛ تصمیمی که نشان می‌دهد کانال‌های دیپلماتیک و هماهنگی منطقه‌ای در موضوع جنگ ایران متوقف یا دست‌کم به‌طور موقت عقب افتاده‌اند.",
-            "این اقدام بیشتر به‌عنوان اهرم فشار سیاسی/عملی قابل خواندن است: یعنی زمان‌بندی و حضور هیئت‌ها در مسیرهای میانجی‌گری یا مدیریت بحران را به هم می‌زند و می‌تواند بر محاسبات طرف‌های درگیر اثر بگذارد.",
-            "در متن گزارش جزئیات درباره علت دقیق لغو سفر، میزان فشار یا ارتباط مستقیم به عملیات/سیاست مشخص ارائه نشده است؛ بنابراین ارزیابی باید محدود به اثر سیاسیِ لغو سفر و اختلال در روند هماهنگی منطقه‌ای بماند."
-        ],
-        "impact": "لغو سفر به اسلام‌آباد، بدون ارائه جزئیات بیشتر، بیشتر یک پیام فشار و اختلال در مسیرهای میانجی‌گری/هماهنگی منطقه‌ای در جنگ ایران است تا یک تغییر قطعی در راهبرد اعلامی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "DW.com",
-        "url": "https://www.oregonlive.com/nation/2026/04/trump-cancels-envoys-pakistan-trip-as-us-iran-trade-threats-over-strait-of-hormuz.html",
-        "clean_url": "https://www.oregonlive.com/nation/2026/04/trump-cancels-envoys-pakistan-trip-as-us-iran-trade-threats-over-strait-of-hormuz.html",
-        "image": null,
-        "timestamp": 1777146067.0
-    },
-    {
-        "title_fa": "ترامپ: ایران «نمی‌تواند» سلاح هسته‌ای داشته باشد؛ همزمان محاصره آمریکا تا رسیدن به توافق پابرجاست",
-        "title_en": "Iran cannot have a nuclear weapon. It’s that simple.",
-        "summary": [
-            "ترامپ در سخنرانی ۱۷ آوریل در فینیکس اعلام کرد ایران «نمی‌تواند» سلاح هسته‌ای داشته باشد و این موضوع را به‌عنوان شرط قطعی برای هرگونه روند توافق مطرح کرد.",
-            "هم‌زمان به گفته مقامات رژیم، تنگه هرمز برای کشتی‌های تجاری «کامل» از سر گرفته شده، اما ترامپ گفت محاصره آمریکا بر کشتی‌ها و بنادر ایران «با تمام قوت» ادامه می‌یابد تا آمریکا و ایران به توافق برسند؛ از جمله درباره برنامه هسته‌ای.",
-            "واکنش بازار سریع بود: افت بیش از ۱۰٪ قیمت نفت و رشد سهام گزارش شده؛ با این حال رهگیری کشتی‌ها هنوز جابه‌جایی قابل توجهی نشان نمی‌دهد، که بیانگر تداوم بی‌اعتمادی یا محدودیت‌های عملیاتی است."
-        ],
-        "impact": "ترکیب پیام هسته‌ایِ سخت‌گیرانه با تداوم محاصره می‌تواند هم فشار خارجی را تثبیت کند و هم تنگه هرمز را از نظر عملیاتی در وضعیت نیمه‌معلق نگه دارد تا زمان توافق.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "The White House (.gov)",
-        "url": "https://www.yahoo.com/news/articles/trump-iran-cannot-nuclear-weapon-043040145.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-iran-cannot-nuclear-weapon-043040145.html",
-        "image": null,
-        "timestamp": 1777145126.0
-    },
-    {
-        "title_fa": "ارزیابی فاکس نیوز از «جنگ» علیه ایران و تمدید آتش‌بس؛ تمرکز بر ادعاهای «دقیق‌تر دیدن وضعیت»",
-        "title_en": "Think we're losing the war in Iran? Consider where things really stand",
-        "summary": [
-            "فاکس نیوز با طرح این پرسش که «آیا آمریکا/غرب داریم جنگ در ایران را می‌بازیم؟» ادعا می‌کند باید واقعیت‌ها را دقیق‌تر دید، اما متن ارسالی عملاً وارد جزئیات قابل راستی‌آزمایی درباره وضعیت میدان یا تصمیم‌های مشخص واشنگتن نمی‌شود.",
-            "بخش مهم متن به این اشاره می‌کند که «آتش‌بس ایران» تمدید شده و می‌نویسد «آزمون واقعی برای واشنگتن از اینجا شروع می‌شود»، یعنی گزارش چارچوب ارزیابی را از مرحله توافق به مرحله اجرای آزمون منتقل می‌کند.",
-            "در کنار موضوع اصلی، متن یک جریان طولانی از مطالب/اظهارنظرهای دیگر (عمدتاً سیاسی-داخلی آمریکا) را هم کنار هم آورده است؛ این‌ها شواهد مستقیم درباره ایران ارائه نمی‌کنند و بیشتر کارکردشان ایجاد زمینه تبلیغاتی است."
-        ],
-        "impact": "با وجود اشاره به تمدید آتش‌بس و ضرورت «آزمون واقعی»، متن ارسالی داده یا سند اجرایی مشخص برای قضاوت عملی درباره میزان پیشرفت یا شکست استراتژیک ارائه نمی‌دهد.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/think-were-losing-war-iran-consider-where-things-really-stand",
-        "clean_url": "https://www.foxnews.com/opinion/think-were-losing-war-iran-consider-where-things-really-stand",
-        "image": "https://static.foxnews.com/foxnews.com/content/uploads/2026/04/iranian-flag-rubble-2026.jpeg",
-        "timestamp": 1777144920.0
     }
 ]
