@@ -1,10 +1,7 @@
 const CACHE_NAME = 'rasad-cache-v1';
 const ASSETS_TO_CACHE = [
     './',
-    './index.html',
-    'https://cdn.tailwindcss.com',
-    'https://cdn.jsdelivr.net/gh/rastikerdar/vazirmatn@33.003/misc/Farsi-Digits/Vazirmatn-FD-font-face.css',
-    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css'
+    './index.html'
 ];
 
 // Install Event: Cache the UI Shell
