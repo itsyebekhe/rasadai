@@ -72,6 +72,24 @@
         "timestamp": 1777642969.0
     },
     {
+        "title_fa": "اثر جنگ ایران بر اعتماد مصرف‌کننده به مقصدهای سفر (دبی، اسرائیل، ترکیه و آمریکا) طبق YouGov",
+        "title_en": "The Iran war and travel: How consumer sentiment towards Dubai, Israel, Turkey, and the United States has been affected since the start of the conflict",
+        "summary": [
+            "این گزارش YouGov ادعا می‌کند از آغاز «درگیری/جنگ» ایران، نگرش مصرف‌کنندگان نسبت به مقصدهای سفر از جمله دبی، اسرائیل، ترکیه و ایالات متحده تغییر کرده است، اما متن ارائه‌شده هیچ عدد، رتبه‌بندی یا جزئیات روش‌شناسی ارائه نمی‌دهد.",
+            "به‌رغم نام «ایران war»، محتوای «TEXT» عملاً حاوی اطلاعات مرتبط با ایران نیست و فقط فهرستی از آیتم‌های بی‌ربط (مثلاً Kentucky Derby، North Korea Helicopter، Escaped cow و…) دیده می‌شود؛ بنابراین فقط می‌توان به سطح ادعای تیتر اکتفا کرد، نه به نتیجه‌گیری دقیق.",
+            "در چارچوب تحلیل فشار خارجی، چون داده‌های معتبرِ قابل استناد در این متن وجود ندارد، نمی‌توان نشان داد این تغییرات درون خود نشانه‌ای از فروپاشی ساختاری یا تشدید تنش‌های اقتصادی/سیاسی بوده یا صرفاً بازتاب نگرانی مقطعی مسافرتی است."
+        ],
+        "impact": "در نبود داده‌های عددی و جزئیات در متن ارائه‌شده، اثر واقعی جنگ ایران بر بازار مقصدهای سفر قابل اندازه‌گیری و نتیجه‌گیری دقیق نیست.",
+        "tag": "تحلیل‌نظرسنجی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "YouGov",
+        "url": "https://www.upi.com/Top_News/US/2026/04/10/consumer-sentiment/7301775845493/",
+        "clean_url": "https://www.upi.com/Top_News/US/2026/04/10/consumer-sentiment/7301775845493",
+        "image": null,
+        "timestamp": 1777642749.0
+    },
+    {
         "title_fa": "آیا «کره‌ای‌سازی» تنها گزینه منطقی برای ایران است؟",
         "title_en": "Is 'North Koreanization' the Only Logical Move Left for Iran?",
         "summary": [
@@ -106,6 +124,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/the-price-of-appeasement-20-billion-won-t-buy-peace-with-iran/ar-AA21bZMV",
         "image": null,
         "timestamp": 1777640400.0
+    },
+    {
+        "title_fa": "ادعای پایان درگیری ایران از سوی دولت ترامپ همزمان با نزدیک‌شدن ضرب‌الاجل ۶۰ روزه اختیارات جنگ",
+        "title_en": "Trump administration claims Iran conflict ended as 60-day war powers deadline hits",
+        "summary": [
+            "رسانه KOMO می‌گوید دولت ترامپ ادعا کرده «درگیری با ایران» پایان یافته، در حالی که همزمان ضرب‌الاجل ۶۰ روزه اختیارات جنگ در حال فرا رسیدن است.",
+            "این هم‌زمانی، نشانه‌ای از چالش حقوقی/اجرایی است: اگر ادعا درباره پایان منازعه درست باشد، فشارِ «تمدید یا توقف» تصمیم‌های جنگی و اختیارات اجرایی به‌طور طبیعی باید کاهش یابد.",
+            "در چارچوب تحلیل راهبردی، حتی بدون تأیید جزئیات میدانی در متن کوتاه، چنین ادعایی معمولاً بیشتر به مدیریت روایت و پیام سیاسی نسبت به ایران و طرف‌های درگیر مربوط است تا اعلام یک نقطه‌عطف قطعی."
+        ],
+        "impact": "این رخداد در درجه اول پیام سیاسی-حقوقی برای محدود کردن یا کنترل گزینه‌های بعدی آمریکا است و به پایداری واقعی وضعیت بستگی دارد که در گزارش حاضر جزئیات آن ارائه نشده است.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "KOMO",
+        "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNV24zZ2hJTWxUbUJteko5eThZVzJ2UFQyd2FyS2RsVUhzbFdFMWkzZ1N6Uno5UjljaEMzTm02MUdWMDhCdVluRnRKN09Vbk14clZDSUptQWszNWhCY3pBY3M4amNCWFNNMi13LV8xaTZxRHphUVdBNFkzN1lpOHY0bEIxMzNZdy1ITVBZY3NYbEpoWFB6VG9BSVcxVk1naDJhYzE0WmFhSHdpdnBEMm44dzYtT3JycW92ckFVOFl3QXZ4alJOTF9kb3NzSWplVkF1NnpsWEZFajRTNWZ2YUhhLUNsRDVLaHdpRGgyWUlWUHFDNmVsdnA1QzNKX0VIU0Z3Q2U4cENSWDZ5dW9Kb29KdTl5THFlcTlwczFmMnNUUEJPR19wNGpHaGVNTUFYajVmV0pxLThXajkwbFJ5ME1iX0NJUGFYWGx4WWpOV3daUDgwVXgxSVpTVw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNV24zZ2hJTWxUbUJteko5eThZVzJ2UFQyd2FyS2RsVUhzbFdFMWkzZ1N6Uno5UjljaEMzTm02MUdWMDhCdVluRnRKN09Vbk14clZDSUptQWszNWhCY3pBY3M4amNCWFNNMi13LV8xaTZxRHphUVdBNFkzN1lpOHY0bEIxMzNZdy1ITVBZY3NYbEpoWFB6VG9BSVcxVk1naDJhYzE0WmFhSHdpdnBEMm44dzYtT3JycW92ckFVOFl3QXZ4alJOTF9kb3NzSWplVkF1NnpsWEZFajRTNWZ2YUhhLUNsRDVLaHdpRGgyWUlWUHFDNmVsdnA1QzNKX0VIU0Z3Q2U4cENSWDZ5dW9Kb29KdTl5THFlcTlwczFmMnNUUEJPR19wNGpHaGVNTUFYajVmV0pxLThXajkwbFJ5ME1iX0NJUGFYWGx4WWpOV3daUDgwVXgxSVpTVw",
+        "image": null,
+        "timestamp": 1777639557.0
     },
     {
         "title_fa": "خاندان قدرتمند ایرانی بزرگ‌ترین صرافی رمزارز را راه‌اندازی کرد؛ استفاده برای جابه‌جایی پول توسط سپاه",
@@ -232,6 +268,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObHhTaUVPQjJnbmVpekRkSWFYdWtBOEpIbUE3cTI4UFI1UExmbEc0dUtaY0JSTy1BSzVfX0lMNnFLVzZKM3FEYi13YnNhVHJrOHdJRVp6SXFfWTRISG5JUlVtbGlDV2FIUDh5VzJOa2dwRzlHX1Atb29ZOGQxT2N4VDBPODN4WEtFOHZrLUNMWVhBUQ",
         "image": null,
         "timestamp": 1777628700.0
+    },
+    {
+        "title_fa": "ایران پیشنهاد تازه برای مذاکره با آمریکا را از طریق واسطه پاکستانی تحویل داد",
+        "title_en": "Iran submits latest proposal for US negotiations, state media say",
+        "summary": [
+            "طبق گزارش IRNA، ایران «پیشنهاد جدید» مذاکره با آمریکا را اواخر پنجشنبه به واسطه‌ها در پاکستان تحویل داده و هنوز مشخص نیست جزئیات یا حتی دریافت آن از سوی آمریکا تأیید شده باشد یا نه.",
+            "یک آتش‌بس شکننده سه‌هفته‌ای میان آمریکا و ایران «هنوز برقرار» توصیف می‌شود، هرچند دو طرف همچنان اتهام نقض متقابل مطرح می‌کنند.",
+            "با وجود توقف نسبی درگیری‌ها، اختلاف اصلی پابرجاست: محاصره/جلوگیری دریایی آمریکا از خروج نفتکش‌های ایران و در نتیجه فشار اقتصادی؛ همزمان تنگه هرمز که پنجم تجارت جهانی نفت و گاز از آن عبور می‌کند، در کانون ریسک باقی مانده است."
+        ],
+        "impact": "این اقدام نشان می‌دهد ایران برای مدیریت فشار اقتصادی و بن‌بست عملیاتی در هرمز، از مسیر مذاکره و واسطه‌گری تلاش می‌کند؛ اما عدم شفافیت جزئیات و ادامه مناقشه دریایی، ریسک ادامه فرسایش اقتصادی را حفظ می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Sun Sentinel",
+        "url": "https://www.sun-sentinel.com/2026/05/01/iran-us-war-negotations/",
+        "clean_url": "https://www.sun-sentinel.com/2026/05/01/iran-us-war-negotations",
+        "image": "http://www.bing.com/th?id=ONUT.rPCxoAPtmUBeOjMlmX9j_w&pid=News",
+        "timestamp": 1777626900.0
+    },
+    {
+        "title_fa": "افکار عمومی آمریکا علیه رویکرد ترامپ به اقدام نظامی علیه ایران",
+        "title_en": "Americans remain critical of Trump administration’s approach to Iran",
+        "summary": [
+            "طبق نظرسنجی Pew Research Center، بخش قابل توجهی از آمریکایی‌ها از شیوه ترامپ در مدیریت اقدام نظامی علیه ایران ناراضی‌اند.",
+            "۵۹٪ از پاسخ‌دهندگان می‌گویند آمریکا تصمیم اشتباهی در استفاده از نیروی نظامی اتخاذ کرده است.",
+            "این شکاف میان تصمیم‌گیری دولت و قضاوت عمومی می‌تواند فشار سیاسی داخلی برای تغییر مسیر سیاست ایران را تشدید کند."
+        ],
+        "impact": "نارضایتی گسترده افکار عمومی می‌تواند هزینه سیاسی تداوم رویکرد نظامی را بالا ببرد و دولت را به سمت بازنگری در سیاست‌ها سوق دهد.",
+        "tag": "افکارعمومی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Pew Research Center",
+        "url": "https://www.pewresearch.org/short-reads/2026/05/01/americans-remain-critical-of-trump-administrations-approach-to-iran/",
+        "clean_url": "https://www.pewresearch.org/short-reads/2026/05/01/americans-remain-critical-of-trump-administrations-approach-to-iran",
+        "image": "http://www.bing.com/th?id=ONUT.uraeugjHkJTYCCbYgaqYlw&pid=News",
+        "timestamp": 1777626120.0
     },
     {
         "title_fa": "سهم‌گیری جهانی شبکه اختلاس پیرامون مجتبی خامنه‌ای؛ روایت پژوهشی درباره «دولت مافیایی»",
@@ -5327,77 +5399,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-iran-peace-talks-stall-as-conflict-approaches-two-month-mark/ar-AA21Kake",
         "image": null,
         "timestamp": 1777185060.0
-    },
-    {
-        "title_fa": "گزارش ویژه: سیاست آمریکا در ایران و ادعای «تسلط سپاه»",
-        "title_en": "Special Report: U.S. Policy in Iran - IRGC Takeover",
-        "summary": [
-            "Genocide Watch در یک «گزارش ویژه» به سیاست آمریکا در قبال ایران اشاره می‌کند و ادعا می‌کند که «سپاه» در حال تحکیم و گسترش کنترل است؛ اما متن ارائه‌شده جزئیات اجرایی، زمان‌بندی یا مستندات مشخص ارائه نمی‌دهد.",
-            "صورت‌بندی «تسلط» در این خبر بیشتر یک ارزیابی/چارچوب سیاسی است تا گزارش قابل راستی‌آزمایی از یک اقدام مشخص (مثلاً قانون، انتقال بودجه، یا عملیات) در همین متن کوتاه.",
-            "با توجه به نبود جزئیات درباره مسیر تصمیم‌گیری آمریکا، نوع فشار یا کانال‌های عملیاتی، نمی‌توان از این متن به‌تنهایی نتیجه گرفت که کدام سازوکار دقیقاً به تضعیف یا تقویت توان رژیم/سپاه منجر شده است."
-        ],
-        "impact": "این گزارش، اگرچه ادعای کلیدی درباره تشدید نفوذ سپاه مطرح می‌کند، به دلیل فقدان داده‌های مشخص در متن فعلی، اثرگذاری مستقیم قابل اندازه‌گیری بر ثبات رژیم یا اقتصاد ایران ارائه نمی‌دهد.",
-        "tag": "ایالات‌متحده",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "Genocide Watch",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-revolutionary-guard-sidelines-president-as-military-grip-expands/ar-AA21nXuT",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-revolutionary-guard-sidelines-president-as-military-grip-expands/ar-AA21nXuT",
-        "image": null,
-        "timestamp": 1777182482.0
-    },
-    {
-        "title_fa": "پنتاگون بودجه ۲۰۲۷ با تمرکز سنگین بر مهمات و سامانه‌های ضدپهپاد برای جنگ با ایران؛ اما هزینه واقعی مبهم ماند",
-        "title_en": "Pentagon’s 2027 budget proposes big spending on munitions for Iran conflict, but officials mum on cost of war",
-        "summary": [
-            "پنتاگون در بودجه ۲۰۲۷، درخواست ۱.۵ تریلیون دلاری ترامپ را با رشد ۴۲٪ نسبت به ۲۰۲۶ ارائه می‌کند و همزمان می‌گوید جنگ با ایران «موجودی» آمریکا را با سرعتی بی‌سابقه مصرف می‌کند، ولی مقام‌ها از اعلام رقم دقیق خسارت به پایگاه‌های برون‌مرزی و هزینه بازسازی آن طفره می‌روند.",
-            "جولز «جی» هورست (کفالت‌گر comptroller پنتاگون) صریحاً می‌گوید بودجه «قبل از ورود به درگیری با ایران» تدوین شده و هنوز برآورد نهایی از آسیب زیرساخت‌ها یا میزان بودجه لازم برای «بازسازی» آن‌ها در دست نیست؛ یعنی برنامه‌ریزی مالی با قطعیت پایین در میانه تشدید درگیری انجام شده است.",
-            "در همین چارچوب، بودجه شامل صدها میلیارد دلار برای سامانه دفاع موشکی «گنبد آهنین»، افزایش برتری پهپادی، سرمایه‌گذاری در هوش مصنوعی و تقویت «پایه صنعتی دفاعی» است و ارقام مشخصی برای پهپاد و پادپهپاد (حدود ۷۵ میلیارد)، ساخت ناو و کشتی‌های پشتیبانی (حدود ۶۶ میلیارد)، و خرید جنگنده‌ها/بمب‌افکن‌ها (حدود ۱۰۲ میلیارد) ارائه می‌دهد."
-        ],
-        "impact": "این یعنی دولت آمریکا در حال افزایش ظرفیت رزمی برای مصرف سریع ذخایر است، اما همزمان از شفاف‌سازی هزینه واقعی جنگ امتناع می‌کند؛ نشانه‌ای از ابهام مالی و ریسک رشد هزینه‌ها با تشدید بیشتر.",
-        "tag": "ایران",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "Scripps News",
-        "url": "https://www.aol.com/articles/pentagon-2027-budget-proposes-big-200928532.html",
-        "clean_url": "https://www.aol.com/articles/pentagon-2027-budget-proposes-big-200928532.html",
-        "image": null,
-        "timestamp": 1777179876.0
-    },
-    {
-        "title_fa": "جنگ در ایران زنجیره جهانی تأمین فلوراید را خفه می‌کند و باعث کاهش موقت فلوریداسیون آب در آمریکا می‌شود",
-        "title_en": "Iran war throttles global fluoride supply, impacting US waterworks",
-        "summary": [
-            "گزارش می‌گوید فشار جنگ در ایران باعث اختلال در زنجیره تأمین جهانی فلوراید شده و چند دولت محلی در آمریکا، برای جلوگیری از کمبود، غلظت فلوراید در آب را موقتاً کاهش داده یا فلوریداسیون را برای چند هفته متوقف کرده‌اند.",
-            "دو سامانه بزرگ آب در مریلند (پوشش‌دهنده بالتیمور و حومه واشنگتن) اعلام کرده‌اند غلظت فلوراید را پایین‌تر از مقدار توصیه‌شده فدرال کاهش می‌دهند (از 0.7 به 0.4 میلی‌گرم بر لیتر) و یک شهر در پنسیلوانیا نیز حداقل چند هفته فلوریداسیون را متوقف کرده است.",
-            "منابع تأمین‌کننده و گروه‌های تجاری این کمبود را نتیجه هم‌زمان اختلالات حمل‌ونقل و هزینه‌های بالای حمل‌ونقل مرتبط با درگیری در خاورمیانه می‌دانند؛ همچنین به نقش تولیدکنندگان/صادرکنندگان اصلی اشاره شده که «اسرائیل» یکی از تأمین‌کنندگان کلیدی فلوروسیلیسیک اسید برای سیستم‌های آب آمریکا است و اختلال در مسیرهای دریایی (از جمله تنگه هرمز) به‌عنوان عامل تشدیدکننده مطرح می‌شود."
-        ],
-        "impact": "کاهش فلوریداسیون موقت در چند منطقه نشان می‌دهد جنگ در ایران از مسیر اختلالات لجستیکی و افزایش هزینه حمل‌ونقل می‌تواند حتی بر دارایی‌های حیاتی شهری و بهداشت عمومی اثر مستقیم بگذارد.",
-        "tag": "تحریم_و_فشار",
-        "urgency": 6,
-        "sentiment": -0.55,
-        "source": "KXAN Austin",
-        "url": "https://www.aol.com/articles/iran-war-throttles-global-fluoride-210000775.html",
-        "clean_url": "https://www.aol.com/articles/iran-war-throttles-global-fluoride-210000775.html",
-        "image": null,
-        "timestamp": 1777174685.0
-    },
-    {
-        "title_fa": "پزشکیان: آمریکا تا «محاصره بنادر» را برندارد مذاکره نمی‌کنیم، همزمان مین‌روبی در تنگه هرمز ادامه دارد",
-        "title_en": "US Iran War LIVE: US must remove blockade to enter negotiations, says Iranian President",
-        "summary": [
-            "مسعود پزشکیان اعلام کرده ایران در حالی که آمریکا «محاصره بنادر» را ادامه می‌دهد وارد مذاکرات نمی‌شود؛ موضعی که از بن‌بست در مسیر دیپلماسی خبر می‌دهد.",
-            "در همان چارچوب، گزارش‌ها از اقدام آمریکا برای بازگرداندن دسترسی به تنگه هرمز حکایت دارند؛ مسیر راهبردی دریایی تحت فشار بسته‌شدن برای اغلب کشتی‌ها و تهدیدهای ایران قرار گرفته است.",
-            "هم‌زمان، آمریکا عملیات مین‌روبی را با اتکا بیشتر به سامانه‌های بدون‌سرنشین برای شناسایی تهدیدات در آغاز مأموریت انجام می‌دهد؛ در کنار آن، گزارش‌هایی هم از میانجی‌گری غیرمستقیم پاکستان بین آمریکا و ایران مطرح شده است."
-        ],
-        "impact": "اصرار ایران بر لغو محاصره بنادر و استمرار بحران تنگه هرمز، احتمال طولانی‌شدن تنش نظامی و فشار اقتصادی بر تجارت دریایی را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/world/us-iran-war-live-updates-april-28-drones-mine-strait-of-hormuz-trump-brent-crude-oil-price-today-11777162502686.html",
-        "clean_url": "https://www.livemint.com/news/world/us-iran-war-live-updates-april-28-drones-mine-strait-of-hormuz-trump-brent-crude-oil-price-today-11777162502686.html",
-        "image": "http://www.bing.com/th?id=ONUT.UG81PPMi6DAL_vOBWu7Sdw&pid=News",
-        "timestamp": 1777173960.0
     }
 ]
