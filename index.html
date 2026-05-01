@@ -588,6 +588,34 @@ let currentSearch = '';
 let currentSort = 'newest';
 let itemsToShow = 10;
 
+// Fallback Data Configuration
+const GITHUB_USER = 'itsyebekhe'; // Replace with your actual GitHub username
+const GITHUB_REPO = 'rasadai';
+const FALLBACKS = [
+    `https://raw.githubusercontent.com/${GITHUB_USER}/${GITHUB_REPO}/main/`,
+    `https://github.com/${GITHUB_USER}/${GITHUB_REPO}/raw/main/`
+];
+
+async function smartFetch(filename) {
+    // Try 1: Local/Relative (github.io)
+    try {
+        const response = await fetch(`${filename}?t=${Date.now()}`);
+        if (response.ok) return response;
+    } catch (e) {
+        console.warn(`Primary fetch failed for ${filename}`);
+    }
+
+    // Try Fallbacks: raw.githubusercontent.com then github.com
+    for (const base of FALLBACKS) {
+        try {
+            const response = await fetch(`${base}${filename}`);
+            if (response.ok) return response;
+        } catch (e) {
+            console.warn(`Fallback failed for ${base}${filename}`);
+        }
+    }
+}
+
 function switchTab(tab) {
     const newsView = document.getElementById('view-news');
     const dashView = document.getElementById('view-dashboard');
@@ -687,7 +715,7 @@ async function fetchMarket() {
     }
 
     try {
-        const res = await fetch('market.json?t=' + Date.now());
+        const res = await smartFetch('market.json');
         const data = await res.json();
         const price = data.usd + " T";
         document.getElementById('price-usd').innerText = price;
@@ -707,7 +735,7 @@ setInterval(fetchMarket, 60000);
 ═══════════════════════════════════════════════════ */
 async function loadData() {
     try {
-        const res = await fetch('news.json?t=' + Date.now());
+        const res = await smartFetch('news.json');
         const data = await res.json();
         
         if (JSON.stringify(data) !== JSON.stringify(newsData)) {
@@ -1023,6 +1051,13 @@ setInterval(loadData, 30000);
 // Add some visual polish on load
 document.addEventListener('DOMContentLoaded', () => {
     document.body.classList.add('loaded');
+
+    // Register Service Worker
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('./sw.js')
+            .then(() => console.log('Rasad Service Worker Registered'))
+            .catch(err => console.error('SW Registration Failed', err));
+    }
 });
 </script>
 
