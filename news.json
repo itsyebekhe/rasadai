@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پرواز در میانه جنگ با ایران: خرید بلیت همین حالا یا صبر تا پایان درگیری؟",
+        "title_en": "Airfare amid Iran war: Buy now or wait out the conflict? Experts weigh the risks",
+        "summary": [
+            "CNBC درباره تصمیم مسافران میان «خرید فوری» و «صبر تا پایان جنگ» می‌گوید و تأکید می‌کند که رفتار بازار پرواز به ریسک‌های جنگی وابسته است.",
+            "بر اساس گزارش، تحلیلگران نسبت به نوسان قیمت، احتمال تغییر برنامه‌های پروازی و اثرات مستقیم نااطمینانی امنیتی بر هزینه سفر هشدار می‌دهند، اما نسخه یکسانی برای همه ارائه نمی‌شود.",
+            "محتوا بیشتر یک ارزیابی ریسک‌محور برای مصرف‌کننده است و هیچ ادعای مشخص درباره تغییر سیاست‌ها یا رویدادهای نظامی جدید ارائه نمی‌کند."
+        ],
+        "impact": "این گزارش مستقیماً از «تصمیم خرید» حرف می‌زند و اثرش بیشتر نشان‌دادن نااطمینانی اقتصادی ناشی از جنگ است، نه سنجش دقیق توان رژیم یا سطح تشدید عملیات.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/money/markets/airfare-amid-iran-war-buy-now-or-wait-out-the-conflict-experts-weigh-the-risks/ar-AA22f02U",
+        "clean_url": "https://www.msn.com/en-us/money/markets/airfare-amid-iran-war-buy-now-or-wait-out-the-conflict-experts-weigh-the-risks/ar-AA22f02U",
+        "image": null,
+        "timestamp": 1777732502.0
+    },
+    {
         "title_fa": "تهدید آمریکا به تحریم شرکت‌های کشتیرانی در صورت پرداخت «عوارض عبور» به ایران در تنگه هرمز",
         "title_en": "Strait of Hormuz: US threatens shipping firms with sanctions if they pay Iran tolls",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9aODl1aEE0Yzh6a0lteFdER2VWUU9hTnZTeGJObVBhMjN3a25mQTd4TjlpYjVwSm4zalpGdUctSmlFdzdhb3lxbUZFel82TDJvajJ4OTRkeFJwbnB1SnZIdnBHVU5pTEo0Z2lyRnp4U1BtWkhrUEp2TEpB",
         "image": null,
         "timestamp": 1777287969.0
-    },
-    {
-        "title_fa": "ادعاهای جنگی علیه واشنگتن و اسرائیل؛ احتمال سفر سیاسی آراقی و گره خوردن بحران به مسیرهای دریایی تنگه هرمز",
-        "title_en": "US Iran war LIVE updates: Araghchi blames Washington for stalled peace talks, set to meet Putin in Russia soon",
-        "summary": [
-            "به گزارش Hindustan Times، ماجرای «ارائه علت» برای بن‌بست مذاکرات صلح مطرح شده: علی آراقی واشنطن را مسئول توقف روند مذاکرات می‌داند و از محور سیاسی-امنیتی جدید سخن می‌گوید.",
-            "هم‌زمان، روایت مقاله جنگی و تلافی‌جویانه است: بمباران تهران و ترور مقام‌های ارشد و سپس حملات موشکی و پهپادی ایران علیه اسرائیل و پایگاه‌های آمریکا در حوزه خلیج فارس.",
-            "بخش عملیاتیِ حساس گزارش، قصد یا تلاش برای اختلال در کشتیرانی در تنگه هرمز است؛ اقدامی که عملاً هزینه اقتصادی فوری و ریسک امنیتی برای منطقه ایجاد می‌کند."
-        ],
-        "impact": "ترکیب ادعای بن‌بست مذاکرات با تشدید حملات و تمرکز بر تنگه هرمز، احتمال جهش سریع از جنگ نیابتی به بحران منطقه‌ای با پیامدهای مالی-امنیتی فوری را بالا می‌برد.",
-        "tag": "امنیت",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-abbas-araghchi-trump-peace-talks-pakistan-tehran-russia-oil-prices-hormuz-strait-israel-101777254315309.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-abbas-araghchi-trump-peace-talks-pakistan-tehran-russia-oil-prices-hormuz-strait-israel-101777254315309.html",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/04/27/550x309/1_1777055317746_1777055320574_1777255156073.jpg",
-        "timestamp": 1777287960.0
     }
 ]
