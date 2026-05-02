@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تشدید فشار اقتصادی جنگ ایران؛ واشنگتن ابزار کمک دارد، اما انگیزه‌ها را هم باید دید",
+        "title_en": "Asia is being hammered by the Iran conflict's economic fallout. The U.S. has the playbook to help—and every reason to",
+        "summary": [
+            "گزارش می‌گوید اقتصاد آسیا زیر ضربه «عواقب اقتصادی درگیری ایران» قرار گرفته و اثرات آن در سطح منطقه قابل مشاهده است، بدون اینکه جزئیات دقیق از کشور/بخش‌های آسیب‌دیده در همین متن کوتاه ارائه شود.",
+            "ادعا می‌شود آمریکا «برنامه/الگوی» مشخص برای کمک دارد؛ یعنی ظرفیت‌های سیاستی یا اهرم‌های مالی/تجاری برای کاهش شوک‌های ناشی از تنش ایران بر اقتصاد منطقه می‌تواند فعال شود.",
+            "هم‌زمان تأکید می‌شود «هر دلیلی» وجود دارد که آمریکا وارد عمل شود؛ این برداشت در چارچوب فشارهای خارجی می‌تواند به تقویت موقعیت آمریکا در مدیریت هزینه‌های اقتصادی جنگ نیابتی/منطقه‌ای و همچنین کنترل ریسک‌های مالی برای شرکایش تعبیر شود، نه صرفاً یک اقدام بی‌طرفانه."
+        ],
+        "impact": "این روایت نشان می‌دهد که تنش پیرامون ایران از سطح سیاسی به بحران اقتصادی منطقه‌ای رسیده و امکان مداخله آمریکا برای مدیریت ضربه مالی وجود دارد.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUNHTGlhcDBmNUhkUVNqMmhpMi1GN1dGdUkyMy1YRHNudmRQMkdWX1hkN1lOTGpNMGtaaEhrY2hmNExMUEJSY2pwYkhkdjBEWk9zUDBlYTJBZDJCZEN1VEFhWnBLZl9CQUREWjVER0dyWTlsaC05dlFEdUFqcVIzOENEcGVRZ1BwbjVjWndnM0NyUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaUNHTGlhcDBmNUhkUVNqMmhpMi1GN1dGdUkyMy1YRHNudmRQMkdWX1hkN1lOTGpNMGtaaEhrY2hmNExMUEJSY2pwYkhkdjBEWk9zUDBlYTJBZDJCZEN1VEFhWnBLZl9CQUREWjVER0dyWTlsaC05dlFEdUFqcVIzOENEcGVRZ1BwbjVjWndnM0NyUQ",
+        "image": null,
+        "timestamp": 1777712400.0
+    },
+    {
         "title_fa": "ارزیابی ادعای fastcompany: جنگ ایران نشانه «ضعف» اجبار اقتصادی آمریکا است",
         "title_en": "The Iran war proves that U.S. economic coercion is weakening",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://www.aa.com.tr/en/middle-east/iran-announces-new-maritime-rules-amid-strait-of-hormuz-tensions/3924702",
         "image": null,
         "timestamp": 1777707426.0
+    },
+    {
+        "title_fa": "ایران دو نفر را به اتهام جاسوسی برای اسرائیل اعدام کرد",
+        "title_en": "Iran executes two for spying for Israel",
+        "summary": [
+            "خبرگزاری Reuters گزارش می‌دهد که ایران دو نفر را به اتهام جاسوسی برای اسرائیل اعدام کرده است.",
+            "این اقدام به‌طور مستقیم نشان می‌دهد دستگاه امنیتی ایران با «نفوذ خارجی» به‌عنوان تهدید امنیتی برخورد فوری و سرکوب‌گرانه دارد.",
+            "صرف‌نظر از جزئیات پرونده در متن گزارش، اعدام‌ها پیام سیاسی-امنیتی داخلی هم منتقل می‌کنند: تشدید فضای ترس و کاهش امکان افشای سازوکارهای امنیتی/بازجویی."
+        ],
+        "impact": "اعدام‌های مرتبط با جاسوسی، ظرفیت مانور اجتماعی و امنیتی دولت را با ابزار ترس افزایش می‌دهد اما هزینه اعتماد عمومی و احتمال تداوم نارضایتی‌های خاموش را بالا می‌برد.",
+        "tag": "امنیت",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/politics/government/iran-executes-two-for-spying-for-israel/ar-AA22dCwP",
+        "clean_url": "https://www.msn.com/en-us/politics/government/iran-executes-two-for-spying-for-israel/ar-AA22dCwP",
+        "image": null,
+        "timestamp": 1777705404.0
     },
     {
         "title_fa": "ترامپ به کنگره می‌گوید جنگ علیه ایران «تمام شده»؛ همزمان با رسیدن ضرب‌الاجل قانونی",
@@ -142,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBoSVdUeXVkem5oeFB6SzlYa0xrbmpSVXdlWDdrX3dhbG5vWFNvZ1ZLXzR6U0N1WVMyekQ0RzY2UXgwRWdwU0E2ZXRIbXZwaWN2eTZRbkU4M1N2X25xMjY0RjQ4WFdvdEc2VHhkbXpONWJYWEo2TzBB",
         "image": null,
         "timestamp": 1777695972.0
+    },
+    {
+        "title_fa": "برخورد هم‌زمان مسیرهای هگست و مولتون با پرونده ایران",
+        "title_en": "Hegseth’s and Moulton’s Parallel Lives Collide Over Iran",
+        "summary": [
+            "متن ارائه‌شده فقط شامل صفحه/ارجاع به «بیشتر پوشش‌ها» است و اطلاعات واقعی درباره محتوای ادعاشدهٔ مقاله (چه کسی چه گفت یا چه تصمیمی مطرح شد) در دسترس نیست.",
+            "با توجه به نبود جزئیات قابل‌استناد، نمی‌توان ارتباط مستقیم با تحرکات تحریم، عملیات نظامی، یا تغییرات در سیاست خارجی مرتبط با ایران را تحلیل کرد.",
+            "آنچه می‌توان گفت این است که ادعای برخورد «مسیرهای موازی» حول ایران مطرح شده، اما چون متن یا نکات کلیدی گزارش نیامده، ارزیابی دقیق پیامدهای سیاسی/اقتصادی یا واکنش‌های داخلی رژیم غیرممکن است."
+        ],
+        "impact": "در حال حاضر فقط عنوان و نشانه‌های صفحه دیده می‌شود و بدون متن خبری یا نکات مشخص، هیچ برآورد معتبر از اثر آن بر روندهای ایران ممکن نیست.",
+        "tag": "تحلیل",
+        "urgency": 2,
+        "sentiment": 0.0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/02/us/politics/hegseth-moulton-iran-war.html",
+        "clean_url": "https://www.nytimes.com/2026/05/02/us/politics/hegseth-moulton-iran-war.html",
+        "image": "http://www.bing.com/th?id=ONUT.NOjp629nTzCgnduo-0Xx9A&pid=News",
+        "timestamp": 1777687320.0
     },
     {
         "title_fa": "ترامپ استفاده از سلاح هسته‌ای علیه ایران را رد کرد؛ هم‌زمان مذاکرات در بن‌بست ماند",
@@ -612,6 +666,24 @@
         "timestamp": 1777649100.0
     },
     {
+        "title_fa": "افزایش جهشی قیمت بنزین در آمریکا به ۴.۳۹ دلار؛ بزرگ‌ترین جهش یک‌روزه از زمان اعلام آتش‌بس با ایران",
+        "title_en": "Gas prices jump to $4.39 per gallon in biggest one-day increase since Iran ceasefire announced",
+        "summary": [
+            "میانگین ملی قیمت بنزین آمریکا به ۴.۳۹ دلار در هر گالن رسیده که به عنوان «بالاترین سطح جنگی» توصیف شده است.",
+            "طبق گزارش NBC News، این بزرگ‌ترین جهش یک‌روزه از زمان اعلام آتش‌بس با ایران در ۷ آوریل بوده و رشد روزانه رکورددار ثبت شده است.",
+            "این رخداد نشان می‌دهد حتی با وجود اعلام آتش‌بس، فشار روانی/بازاری و عدم قطعیت در زنجیره عرضه و قیمت‌گذاری سوخت همچنان اثر فوری بر مصرف‌کننده دارد."
+        ],
+        "impact": "جهش یک‌روزه قیمت بنزین می‌تواند به تشدید فشار هزینه‌ای بر اقتصاد داخلی و افزایش نوسان انتظارات بازار منجر شود.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/business/energy/gas-prices-iran-war-oil-ceasefire-rcna343053",
+        "clean_url": "https://www.nbcnews.com/business/energy/gas-prices-iran-war-oil-ceasefire-rcna343053",
+        "image": "http://www.bing.com/th?id=ONUT.4epV4A2lgeRgBUcBZlteBA&pid=News",
+        "timestamp": 1777648380.0
+    },
+    {
         "title_fa": "ایران پیشنهاد تازه برای گفت‌وگوهای صلح با آمریکا ارسال کرد",
         "title_en": "Iran Sends New Proposal for Peace Talks with U.S., State Media Says",
         "summary": [
@@ -772,6 +844,24 @@
         "clean_url": "https://www.realclearpolitics.com/video/2026/05/01/trump_threatens_to_blast_the_hell_out_of_iran_on_a_human_basis_id_prefer_not.html",
         "image": "http://www.bing.com/th?id=ONUT.F-uEQVs5nX1TghfQfUNohg&pid=News",
         "timestamp": 1777639980.0
+    },
+    {
+        "title_fa": "ترامپ از «طرح صلح» جدید ایران «راضی نیست»؛ همزمان ادعای پایان جنگ با اتکا به آتش‌بس آوریل",
+        "title_en": "The Latest: Trump says he's 'not satisfied' with Iran's new peace plan",
+        "summary": [
+            "دولت ترامپ می‌گوید جنگ در ایران عملاً پایان یافته است، چون از اوایل آوریل آتش‌بس برقرار شده؛ این برداشت می‌تواند به کاخ سفید امکان دهد فشار سیاسی/حقوقی را محدودتر کند.",
+            "ترامپ اعلام کرده از «طرح صلح» جدید ایران «رضایت کامل» ندارد؛ یعنی حتی در چارچوب آتش‌بس هم اختلاف بر سر کیفیت و پایبندی واقعی به توافق باقی است.",
+            "نتیجه عملی این موضع، حفظ اهرم فشار و نگه‌داشتن پرونده در وضعیت باز است؛ «پایان جنگ» به‌صورت سیاسی زودهنگام اعلام می‌شود اما «عدم رضایت» نشان می‌دهد دولت هنوز برای بستن پرونده متقاعد نشده است."
+        ],
+        "impact": "ترکیبِ ادعای پایان جنگ با عدم رضایت از طرح صلح، احتمال ادامه فشار و مذاکراتِ سخت‌تر را افزایش می‌دهد و مسیر را برای برگشت تنش باز نگه می‌گذارد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/05/01/president-donald-trump/7588106c-4557-11f1-b19d-32431046b5b4_story.html",
+        "clean_url": "https://www.washingtonpost.com/politics/2026/05/01/president-donald-trump/7588106c-4557-11f1-b19d-32431046b5b4_story.html",
+        "image": "http://www.bing.com/th?id=ONUT.oK11QVNCURMQDdB_Ypb_QQ&pid=News",
+        "timestamp": 1777639680.0
     },
     {
         "title_fa": "ادعای پایان درگیری ایران از سوی دولت ترامپ همزمان با نزدیک‌شدن ضرب‌الاجل ۶۰ روزه اختیارات جنگ",
@@ -5309,95 +5399,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONGh0SjhhUUsxRGNVaUVyUEltbUhNcnJtTTUwV3RReUxWUG52UkdCTTVod0VSdUx6TTE4NS1ac0hqT1pxUmFiSnpFQTFhWllxZUxhdUUyQWJtYXYxNHFyRVJrNHJLYzJJVkZBMlF0blZvamZSTzNwOFNzVlJLTUd4U094eHplTkdEV2JfbDZGelFYd09IMTJhbko1a3VoeTTSAaQBQVVfeXFMTzhoNGQyZjFSVlFwN2NyemZHQ0NqWmVyUFpPR0FyM2lSZmk3ZW9kUm1aVXlkbG9EcEtSbThMMlhvY1pzejk3aEtPd0JXSVlkeVRUb2pXdnBSblIweDNhd0RnX0s1LTBJVWk3Q3JHek9SUGRETkw5MlQ0aDdYSFZSTnJjdlpfUGJkUzdSOURJam9CcUpkZkFvZG1WenBOQU9MZHZTS04",
         "image": null,
         "timestamp": 1777266629.0
-    },
-    {
-        "title_fa": "دیپلماسی شتاب‌زده ایران در مسکو؛ تلاش برای اهرم سیاسی در نبود مذاکرات با آمریکا",
-        "title_en": "Iran's flurry of diplomacy, as Trump insists U.S. has 'the cards'",
-        "summary": [
-            "وزیر امور خارجه ایران در حالی به روسیه رفته که این اقدام نتیجه «دیپلماسی فشرده» در آخر هفته اخیر است و هدف آن کسب اهرم سیاسی و پشتوانه خارجی اعلام می‌شود.",
-            "این حرکت با واقعیت «تعلیق/بلاتکلیفی مذاکرات صلح با آمریکا» هم‌زمان است؛ یعنی تهران برای پر کردن خلأِ زمان و فشارِ مذاکراتِ متوقف، به ظرفیت دیپلماتیک تکیه می‌کند.",
-            "هم‌زمان، ترامپ در موضع‌گیری خود می‌گوید آمریکا «برگه‌های لازم را دارد»، که نشان می‌دهد محور رقابت فعلاً بر سر دست برنده در مذاکره و بازی اطلاعاتی است، نه پیشرفت عملی."
-        ],
-        "impact": "اقدام ایران برای حضور در مسکو در نبود مذاکرات فعال با آمریکا، بیشتر یک تلاش برای مدیریت توازن قدرت و افزایش اهرم چانه‌زنی است تا نشانه پیشرفت فوری در صلح.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/04/27/nx-s1-5800669/iran-middle-east-updates",
-        "clean_url": "https://www.npr.org/2026/04/27/nx-s1-5800669/iran-middle-east-updates",
-        "image": "http://www.bing.com/th?id=ONUT._R3WGOJS4QVqSFv0dC6h2w&pid=News",
-        "timestamp": 1777264500.0
-    },
-    {
-        "title_fa": "حزب‌الله مذاکره با اسرائیل را رد کرد؛ تداوم خط سخت‌گیرانه و پیامدهای تشدید تنش",
-        "title_en": "US Iran War Live Updates: Hezbollah says negotiations with Israel are 'out of the question,' reiterates hardline stance",
-        "summary": [
-            "حزب‌الله اعلام کرد مذاکره با اسرائیل «مطلقاً مطرح نیست» و موضع سخت‌گیرانه را دوباره تکرار کرد.",
-            "این پیام به‌صورت مستقیم روندهای دیپلماتیک را محدود می‌کند و فضای مانور برای کاهش تنش میان طرف‌های درگیر را تنگ‌تر می‌سازد.",
-            "برای تهران و محور منطقه‌ای، این نوع موضع‌گیری معمولاً به‌معنای حفظ سطح بالای درگیری لفظی/عملی و افزایش ریسک محاسبه‌اشتباه در میدان است."
-        ],
-        "impact": "رد صریح مذاکره، احتمال ادامه چرخه تشدید تنش و سخت‌تر شدن مسیرهای کاهش تنش را بالا می‌برد.",
-        "tag": "تنش_منطقه‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-ceasefire-talks-hormuz-crisis-oil-impacts-liveblog-liveblog-14004677.html",
-        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-ceasefire-talks-hormuz-crisis-oil-impacts-liveblog-liveblog-14004677.html",
-        "image": "http://www.bing.com/th?id=ONUT.MZzVwzawJv75twxLo87DIg&pid=News",
-        "timestamp": 1777258200.0
-    },
-    {
-        "title_fa": "ایران یک پیشنهاد برای بازگشایی تنگه هرمز به آمریکا ارائه کرد؛ سناریوی «پایان جنگ» روی میز است",
-        "title_en": "Iran gives US proposal for reopening Strait of Hormuz, ending war - Axios",
-        "summary": [
-            "بر اساس گزارش Axios که القدس‌پست هم بازتاب داده، ایران به آمریکا «پیشنهاد» داده تا راه بازگشایی تنگه هرمز فراهم شود و هدف اعلامی آن «پایان جنگ» است.",
-            "این اقدام در چارچوب فشار خارجی قابل تحلیل است: تهدید/اختلال در تردد و تجارت از تنگه هرمز معمولاً اهرم اقتصادی علیه تهران است و طرح بازگشایی می‌تواند تلاش برای کاهش فشار ساختاری و شوک‌های درآمدی باشد.",
-            "با توجه به اینکه متن خبر فقط به «پیشنهاد» و «پایان جنگ» اشاره دارد و جزئیات اجرایی ارائه نمی‌کند، هنوز روشن نیست این پیشنهاد به لغو عملی چه سطحی از تنش‌ها یا محدودیت‌ها منجر می‌شود یا صرفاً تاکتیک مذاکره برای کسب زمان است."
-        ],
-        "impact": "ارائه پیشنهاد بازگشایی هرمز می‌تواند تنش دریایی را کاهش دهد، اما تا زمانی که شروط و تضمین‌های طرفین روشن نشود، اثر آن بر ثبات سیاست خارجی ایران در حد یک گام تاکتیکی باقی می‌ماند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-au/politics/government/iran-gives-us-proposal-for-reopening-strait-of-hormuz-ending-war/ar-AA21Mf2Y",
-        "clean_url": "https://www.msn.com/en-au/politics/government/iran-gives-us-proposal-for-reopening-strait-of-hormuz-ending-war/ar-AA21Mf2Y",
-        "image": null,
-        "timestamp": 1777254536.0
-    },
-    {
-        "title_fa": "افزایش قیمت نفت همزمان با توقف مذاکرات صلح آمریکا و ایران",
-        "title_en": "Oil rises as US-Iran peace talks stall",
-        "summary": [
-            "طبق گزارش BBC، قیمت نفت بالا رفته چون مذاکرات صلح آمریکا و ایران به بن‌بست خورده و همین عدم‌قطعیت، بر بازار اثر فوری گذاشته است.",
-            "این وضعیت نشان می‌دهد پیامدهای سیاسی-دیپلماتیک مستقیم می‌تواند هزینه ریسک برای سرمایه‌گذاران را بالا ببرد و روند قیمت‌گذاری نفت را تحریک کند.",
-            "تا زمانی که مذاکرات از بن‌بست خارج نشوند، بازار احتمالاً به تداوم تنش و اختلالات بالقوه در مسیر عرضه/تجارت انرژی واکنش قیمتی نشان می‌دهد."
-        ],
-        "impact": "توقف مذاکرات باعث تشدید ریسک ادراک‌شده درباره آینده روابط و تجارت انرژی می‌شود و می‌تواند فشار مالی و بی‌ثباتی اقتصادی را در بلندمدت افزایش دهد.",
-        "tag": "نفت",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/money/economy/oil-prices-rise-as-us-iran-peace-talks-stall/ar-AA21MeLZ",
-        "clean_url": "https://www.msn.com/en-us/money/economy/oil-prices-rise-as-us-iran-peace-talks-stall/ar-AA21MeLZ",
-        "image": null,
-        "timestamp": 1777252610.0
-    },
-    {
-        "title_fa": "ایران پیشنهاد برای بازگشایی تنگه به آمریکا داده، اما مذاکرات هسته‌ای را به تعویق انداخت",
-        "title_en": "Iran offers U.S. deal to reopen strait but postpone nuclear talks",
-        "summary": [
-            "طبق گزارش Axios، ایران به آمریکا پیشنهاد یک توافق برای بازگشایی تنگه/مسیر دریایی را داده است، اما در همان چارچوب، مذاکرات هسته‌ای را به تعویق می‌اندازد.",
-            "این چینش پیام روشنی دارد: تهران می‌خواهد از اهرم‌های عملیاتی در حوزه دریانوردی برای گرفتن امتیاز استفاده کند، بدون اینکه هزینه سیاسی-امنیتیِ یک روند جدیِ هسته‌ای را همین حالا بپردازد.",
-            "با توجه به اینکه پیشنهاد «تنگه» و «هسته‌ای» هم‌زمان بسته نشده‌اند، احتمالاً هدف، شکستن فشار زمان‌بندی و مدیریت امتیازگیری مرحله‌ای است؛ نه پیشروی کامل و فوری در پرونده هسته‌ای."
-        ],
-        "impact": "تعویق مذاکرات هسته‌ای همراه با پیشنهاد بازگشایی تنگه، نشانه تلاش برای کسب گشایش‌های محدود و فوری است، اما مانع از کاهش واقعی تنش در سطح پرونده هسته‌ای می‌شود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Axios",
-        "url": "https://www.msn.com/en-us/news/other/iran-offers-us-deal-to-reopen-strait-but-postpone-nuclear-talks/ar-AA21MIyn",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-offers-us-deal-to-reopen-strait-but-postpone-nuclear-talks/ar-AA21MIyn",
-        "image": null,
-        "timestamp": 1777251546.0
     }
 ]
