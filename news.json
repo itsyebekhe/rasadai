@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تهدید آمریکا به تحریم شرکت‌های کشتیرانی در صورت پرداخت «عوارض عبور» به ایران در تنگه هرمز",
+        "title_en": "Strait of Hormuz: US threatens shipping firms with sanctions if they pay Iran tolls",
+        "summary": [
+            "آمریکا از طریق OFAC به شرکت‌های کشتیرانی هشدار داده اگر به نهادهای دولتی ایران بابت «عبور امن» از تنگه هرمز پول پرداخت کنند، می‌توانند در معرض تحریم قرار بگیرند؛ برای افراد/شرکت‌های غیرآمریکایی نیز «ریسک تماس با تحریم» مطرح شده است.",
+            "OFAC دامنه پرداخت‌های ممنوع را وسیع توصیف کرده و می‌گوید پرداخت‌ها می‌تواند شامل پول نقد و همچنین دارایی‌های دیجیتال، تهاتر، مبادلات غیررسمی یا پرداخت‌های عینی باشد؛ حتی کمک‌های خیریه و پول‌دادن به سفارت‌های ایران نیز می‌تواند مصداق ریسک تحریمی شود.",
+            "در پس‌زمینه این هشدار، ایران از «عوارض عبور» برای عبور آزاد از تنگه هرمز حرف می‌زند (BBC ادعای واریز نخستین درآمد به بانک مرکزی را مستقل تأیید نکرده) و گزارش می‌شود آمریکا از شروع جنگ در فوریه، تردد را محدود کرده و از ۱۳ آوریل نیز عملاً نوعی محاصره دریایی/بازداشت جریان کشتی‌ها به بنادر ایران اعمال کرده؛ در کنار آن، درگیری‌های دریایی و توقیف چند کشتی در مسیر تنگه نیز ادامه دارد."
+        ],
+        "impact": "این تهدید تحریمی عملاً کانال‌های کسب درآمد ایران از «عوارض عبور» و همچنین تعامل مالی/بیمه‌ای مرتبط با کشتی‌ها را پرهزینه‌تر می‌کند و می‌تواند هم درآمد و هم کنترل ایران بر مسیر تجاری تنگه را تضعیف کند.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?amp;at_campaign=rss",
+        "clean_url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo",
+        "image": null,
+        "timestamp": 1777731494.0
+    },
+    {
         "title_fa": "گفت‌وگوهای ایران همچنان به نتیجه نزدیک نمی‌شود",
         "title_en": "Iran talks still no closer",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://www.fastcompany.com/91534932/the-iran-conflict-proves-that-u-s-economic-coersion-is-weakening",
         "image": null,
         "timestamp": 1777709192.0
+    },
+    {
+        "title_fa": "تهدید آمریکا شرکت‌های کشتیرانی به تحریم در صورت پرداخت به ایران برای عبور از تنگه هرمز",
+        "title_en": "US threatens shipping firms with sanctions if they pay Iran to transit the Strait of Hormuz",
+        "summary": [
+            "دفتر کنترل دارایی‌های خارجی آمریکا (OFAC) به شرکت‌های کشتیرانی هشدار داده اگر برای «عبور امن» از تنگه هرمز به ایران پول پرداخت کنند، در معرض تحریم قرار می‌گیرند؛ این پرداخت‌ها فقط نقدی نیست و می‌تواند شامل دارایی‌های دیجیتال، تهاتر، مبادلات غیررسمی و حتی پرداخت‌های غیرنقدی مثل کمک‌های خیریه یا پرداخت از طریق نهادهای وابسته در سفارتخانه‌ها باشد.",
+            "این هشدار روی «تلاش عوارضی» ایران تمرکز دارد: ایران پس از حمله و تهدید کشتی‌ها، کنترل عملیاتی تنگه را محدود کرده و سپس با پیشنهاد مسیرهای انحرافی نزدیک‌تر به ساحل و اخذ هزینه، بخشی از عبور را به شکل مشروط ممکن کرده است.",
+            "در واکنش به بسته‌شدن عملی تنگه، آمریکا از ۱۳ آوریل محاصره/انسداد دریایی بنادر ایران را اجرا کرده تا تانکرهای ایرانی نتوانند خارج شوند؛ طبق اعلام فرماندهی مرکزی آمریکا، از آغاز این اقدام به ۴۵ کشتی تجاری گفته شده بازگردند."
+        ],
+        "impact": "این اقدام آمریکا اهرم فشار مالی مستقیم را علیه کانال درآمدی ایران از «عبور امنِ پولی» تشدید می‌کند و می‌تواند به تضعیف جریان‌های درآمدی تهران در کوتاه‌مدت بینجامد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "Chicago Tribune",
+        "url": "https://www.chicagotribune.com/2026/05/02/us-iran-strait-of-hormuz-toll/",
+        "clean_url": "https://www.chicagotribune.com/2026/05/02/us-iran-strait-of-hormuz-toll",
+        "image": "http://www.bing.com/th?id=ONUT.sD_LFhYqlOxLABWpUCP_vg&pid=News",
+        "timestamp": 1777708080.0
     },
     {
         "title_fa": "ایران قوانین جدید دریانوردی در میانه تنش‌ها بر تنگه هرمز اعلام کرد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-abbas-araghchi-trump-peace-talks-pakistan-tehran-russia-oil-prices-hormuz-strait-israel-101777254315309.html",
         "image": "https://www.hindustantimes.com/ht-img/img/2026/04/27/550x309/1_1777055317746_1777055320574_1777255156073.jpg",
         "timestamp": 1777287960.0
-    },
-    {
-        "title_fa": "گفت‌وگوی ترامپ با تیم امنیت ملی درباره طرح ایران برای بازگشایی تنگه هرمز",
-        "title_en": "Trump Discussed Iran’s Strait of Hormuz Proposal With National Security Team",
-        "summary": [
-            "بر اساس اعلام کارولین لیویت، ترامپ روز دوشنبه با تیم امنیت ملی درباره پیشنهاد جدید ایران برای «بازکردن تنگه هرمز» گفت‌وگو کرده است.",
-            "این اقدام نشان می‌دهد کاخ سفید موضوع هرمز را به عنوان یک مسئله فوری امنیتی/اقتصادی در دستور کار داخلی قرار داده و در حال ارزیابی مسیرهای پاسخ سیاستی است.",
-            "چون متن ارائه‌شده جزئیات بیشتر ندارد، فعلاً نمی‌توان مشخص کرد پیشنهاد ایران شامل چه شروطی است یا نتیجه گفت‌وگو به اقدام مشخصی منتهی شده یا نه."
-        ],
-        "impact": "این گفت‌وگو می‌تواند به افزایش سطح بررسی‌های امنیتی و فشار دیپلماتیک/عملیاتی منجر شود، اما تا روشن شدن مفاد پیشنهاد و واکنش طرف آمریکایی، اثر نهایی قابل اندازه‌گیری نیست.",
-        "tag": "هُرمز",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/iran-war-strait-of-hormuz-2026/card/trump-discussed-iran-s-strait-of-hormuz-proposal-with-national-security-team-7WbqyqWJadkSrFN90EWx",
-        "clean_url": "https://www.wsj.com/livecoverage/iran-war-strait-of-hormuz-2026/card/trump-discussed-iran-s-strait-of-hormuz-proposal-with-national-security-team-7WbqyqWJadkSrFN90EWx",
-        "image": "http://www.bing.com/th?id=ONUT.kykuzhDXJ7-jw-zZL94Asg&pid=News",
-        "timestamp": 1777286820.0
-    },
-    {
-        "title_fa": "نحوه پایان جنگ ایران در تحلیل Geopolitical Futures",
-        "title_en": "The Iran War and How It Might End",
-        "summary": [
-            "مطلب به جای گزارش رخداد مشخص، سناریوهای «چگونگی پایان» جنگ را در چارچوب تحولات راهبردی و تعاملات منطقه‌ای بررسی می‌کند؛ یعنی تمرکز روی مسیرهای پایان درگیری است نه یک رویداد قابل‌سنجش (تاریخ/عملیات/آمار).",
-            "از آنجا که متن ارائه‌شده جز تیتر چیزی ندارد، نمی‌توان درباره نوع فشار خارجی، زمان‌بندی خروج نیروها، یا مفاد احتمالی توافق ادعاهای مشخص کرد؛ هر تحلیل باید صرفاً در حد «مدل‌سازی سناریو» باقی بماند.",
-            "عدم وجود جزئیات درباره تحولات داخلی ایران، اعتراضات یا اثرات اقتصادی مستقیم باعث می‌شود بخش «فرسایش ساختاری» تحت تحریم/فشار خارجی یا «شکست حکمرانی» قابل استناد از همین داده کوتاه نباشد."
-        ],
-        "impact": "اثر این محتوا عمدتاً در سطح جهت‌دهی به سناریوهای آینده است، نه ایجاد برآورد قابل راستی‌آزمایی از رویدادهای جاری.",
-        "tag": "سناریو",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "Geopolitical Futures",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTlJyOWQ2LVpvVWFCZC1fSTgwckQwc1dSWGdlOVhtZEluM2wyT3FndFVXSkFvdmhGYmVwNk9kNUtoNUR3RW15WWxiUDVyZ3VBTElMa2RyQmxqNEIzU3paeDJid1ZseEtHU0hRcFU1VVNxODg1?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTlJyOWQ2LVpvVWFCZC1fSTgwckQwc1dSWGdlOVhtZEluM2wyT3FndFVXSkFvdmhGYmVwNk9kNUtoNUR3RW15WWxiUDVyZ3VBTElMa2RyQmxqNEIzU3paeDJid1ZseEtHU0hRcFU1VVNxODg1",
-        "image": null,
-        "timestamp": 1777284008.0
     }
 ]
