@@ -18,6 +18,24 @@
         "timestamp": 1777812660.0
     },
     {
+        "title_fa": "بی‌اعتمادی ترامپ به پیشنهاد تازه صلح ایران؛ ایران از «تنگ شدن پنجره تصمیم» و مهلت به پنتاگون می‌گوید",
+        "title_en": "Trump expresses doubt on latest Iranian peace proposal",
+        "summary": [
+            "ترامپ نسبت به پیشنهاد جدید صلح ایران تردید دارد و روایت رسمی تهران می‌گوید «پنجره تصمیم‌گیری» آمریکا تنگ شده است.",
+            "سپاه در واکنش به نامه ترامپ به رهبران کنگره درباره عدم درخواست اختیار جنگی طبق War Powers Act، آن را این‌گونه چارچوب‌بندی می‌کند که ترامپ بین «عملیات نظامی غیرممکن» یا «یک توافق بد» باید یکی را انتخاب کند.",
+            "تهران می‌گوید به پنتاگون مهلت داده تا «بلوک/محاصره» پایان یابد و در همان حال اصرار دارد پیشنهاد جدیدش چارچوب رسیدگی به اختلافات را شکل می‌دهد."
+        ],
+        "impact": "این کشمکش نشان می‌دهد گره اصلی در مسیر هر توافق احتمالی، همزمان به محدودیت زمانی آمریکا و فشار تهران برای پایان عملیات/بلوک مورد ادعا گره خورده است.",
+        "tag": "تحرک_دیپلماتیک",
+        "urgency": 6,
+        "sentiment": -0.35,
+        "source": "NewsNation",
+        "url": "https://www.yahoo.com/news/articles/trump-says-no-iran-deal-144816675.html",
+        "clean_url": "https://www.yahoo.com/news/articles/trump-says-no-iran-deal-144816675.html",
+        "image": null,
+        "timestamp": 1777811057.0
+    },
+    {
         "title_fa": "اختلال در زنجیره تامین الکترونیک به‌خاطر تنش با ایران؛ احتمال جهش قیمت فناوری",
         "title_en": "Tech prices could rise as Iran conflict disrupts electronics supply chain",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/the-iran-conflict-has-become-the-new-cold-war/ar-AA21TRpl",
         "image": null,
         "timestamp": 1777366886.0
-    },
-    {
-        "title_fa": "ترامپ: ایران می‌خواهد بندرگاه هرمز باز شود؛ اختلاف بر سر «بلوک دریایی» در آستانه پایان جنگ",
-        "title_en": "Trump says Iran wants Hormuz open in tussle over war’s end",
-        "summary": [
-            "ترامپ اعلام کرده ایران از آمریکا خواسته «محاصره/بلوک دریایی» در تنگه هرمز لغو شود تا رفت‌وآمد دریایی دوباره باز گردد، هم‌زمان با مذاکرات برای پایان جنگی که دو ماهه منابع انرژی جهان را مختل کرده است.",
-            "این خواسته ایران عملاً گره‌گشایی از یک اهرم فشار عملیاتی است: بلوک دریایی به‌عنوان ابزار کنترل دسترسی در تنگه، و بازگشایی هرمز به‌عنوان شرط حیاتی برای کاهش ریسک بازار انرژی.",
-            "در سطح فشار خارجی/تحریم‌های ساختاری، روایت بلومبرگ نشان می‌دهد درگیری به مرحله‌ای رسیده که حتی مسیرهای تجاری کلیدی مثل هرمز به ابزار چانه‌زنی مستقیم بین دو طرف تبدیل شده و می‌تواند تصمیم‌گیری اقتصادی و سیاسی را به‌سرعت دگرگون کند."
-        ],
-        "impact": "اگر لغو بلوک دریایی به‌عنوان بخشی از توافق پایان جنگ در نظر گرفته شود، ریسک ژئوپولیتیک انرژی کاهش می‌یابد اما احتمال معامله بر سر کنترل مسیرهای حیاتی تنگه هرمز را هم بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-says-iran-wants-hormuz-open-in-tussle-over-war-s-end/ar-AA21TAvE",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-wants-hormuz-open-in-tussle-over-war-s-end/ar-AA21TAvE",
-        "image": "http://www.bing.com/th?id=ONUT.oKLp-IghsFsCn18Ll1dNSA&pid=News",
-        "timestamp": 1777364378.0
     }
 ]
