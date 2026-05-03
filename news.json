@@ -162,6 +162,24 @@
         "timestamp": 1777825775.0
     },
     {
+        "title_fa": "ترامپ: آمریکا «کشتی‌ها را به‌طور امن» از تنگه هرمز خارج می‌کند",
+        "title_en": "Iran war: Trump says US to 'guide ships safely' from Hormuz",
+        "summary": [
+            "ترامپ اعلام کرد از دوشنبه، آمریکا مأموریت «Project Freedom» را آغاز می‌کند تا کشتی‌های کشورهای «بی‌طرف و بی‌گناه» که در جنگ خاورمیانه دخالت ندارند را از تنگه هرمزِ مسدود خارج کند و دستور داده «بهترین تلاش» برای نجات کشتی‌ها و خدمه انجام شود.",
+            "او تأکید کرد این اقدام جدا از مذاکرات صلح است و آن را «ژست انسانی» برای کشورها و شرکت‌هایی دانست که «هیچ کار اشتباه» نکرده‌اند؛ هرچند مشخص نیست این حرکت از پیش با ایران هماهنگ شده باشد یا نه.",
+            "ترامپ هشدار داد اگر این «فرآیند انسانی» مختل شود، آمریکا «ناچار» با «قدرت» با آن برخورد خواهد کرد، بدون ارائه جزئیات بیشتر؛ همچنین متن می‌گوید ایران از آغاز جنگ (۲۸ فوریه) کنترل عملیاتی بر تنگه دارد و عمدتاً عبور و مرور را محدود کرده است."
+        ],
+        "impact": "این پیام، مرحله‌ای از تبدیل بحران تنگه هرمز به عملیات آشکار دریایی با ریسک برخورد مستقیم را تقویت می‌کند و هم‌زمان فشار سیاسی-عملیاتی علیه ایران را در آستانه مذاکرات افزایش می‌دهد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "DW",
+        "url": "https://www.dw.com/en/iran-war-trump-says-us-to-guide-ships-safely-out-of-hormuz/live-77021634",
+        "clean_url": "https://www.dw.com/en/iran-war-trump-says-us-to-guide-ships-safely-out-of-hormuz/live-77021634",
+        "image": null,
+        "timestamp": 1777824840.0
+    },
+    {
         "title_fa": "ایران با تغییر لحن به گفت‌وگوهای آمریکا درباره پرونده هسته‌ای تن می‌دهد",
         "title_en": "Iran softens stance, agrees to include nuclear file in US talks, sources say",
         "summary": [
@@ -196,6 +214,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBERDJSQ0hEQjgzWXhfUm9IM3JWRFAxWS1jMW1FVjdOQ0s3S0VBdVVlWWRNemtIaFhTWFlkR3pVSV92WXJxYmFXY2gzbGE5YUVhY1JoeVZUT2ZjTnFVYUY2blFDVW96dzBXVzBFRU5GV0RMLU4wR1dBZWRFLS15UkE",
         "image": null,
         "timestamp": 1777822405.0
+    },
+    {
+        "title_fa": "چین برای کسب امتیاز، هم‌زمان با ترامپ و ایران معامله می‌کند؛ هم‌زمان با گسترش جنگ",
+        "title_en": "China Seeks an Advantage With Both Trump and Iran as War Evolves",
+        "summary": [
+            "نیویورک‌تایمز گزارش می‌دهد چین در حال مانور سیاسی برای گرفتن امتیاز از دو طرفِ مؤثر در پرونده ایران و جنگ جاری است: دولت ترامپ و جمهوری اسلامی ایران.",
+            "چارچوب گزارش بر این استوار است که «با تکامل جنگ»، فرصت‌های چانه‌زنی برای چین تغییر می‌کند و پکن تلاش دارد از این تغییر موقعیت، سود سیاسی/اقتصادی بگیرد.",
+            "نکته کلیدی این است که چین به جای انتخاب یک مسیر یگانه، مسیر دوسویه را دنبال می‌کند تا ریسک‌هایش را پوشش دهد و در هر سناریویی دست بالا را داشته باشد."
+        ],
+        "impact": "این رویکرد چین می‌تواند اهرم‌های جمهوری اسلامی را در کوتاه‌مدت تقویت و هزینه‌های خارجی فشار را از نظر سیاسی برای تهران کاهش دهد، اما وابستگی به «چانه‌زنی دوطرفه» در عمل نشان‌دهنده شکنندگی محاسبات رژیم است.",
+        "tag": "چین",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
+        "clean_url": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
+        "image": "http://www.bing.com/th?id=ONUT.JuTUM86ZmHy_7HJxGwrCCw&pid=News",
+        "timestamp": 1777822200.0
     },
     {
         "title_fa": "ایران کمتر از ۱.۳ میلیون دلار عوارض تنگه هرمز جمع کرده؛ نشانه فشار اقتصادی و افت کارایی درآمدی",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNX29YRV9rYU5iOE5IMXZVSHFyQkllcVYyNjZ2enpWRUxJdmdKa09VeUlMTXctWGNnYkpQMEV1VE1fc0lrZFFJaHlSN0ZHOV9KQU5JSGV4LWs2ZmZZalFCYURMTXYzOFlQdjVVbXEzX2VHN1ZkNnJubmJ6TFI3Q1dHZmdMSGdDdTZFQVE3VGlpQkdvR3hMNVpwOGs0aExxeTVfbDkxRDhiZzV1MS00Y0Y0d0ZKRVhfbGM1X3FCQ1JfeFRVSzlkRG5nbHB6SDJMV2ZHS3dpdkVJakdUSHpHNEVLMDRvVTZWUHB0anROMXlB",
         "image": null,
         "timestamp": 1777417308.0
-    },
-    {
-        "title_fa": "بحران ایران؛ گزارش کلی بدون داده قابل راستی‌آزمایی",
-        "title_en": "The Iran Conflict",
-        "summary": [
-            "این منبع فقط با عنوان «The Iran Conflict» از Ipsos درج شده و هیچ جزئیات روش‌شناسی، آمار، نظرسنجی، یا نتیجه مشخص ارائه نمی‌کند.",
-            "با نبود متن گزارش یا شاخص‌های عددی، نمی‌توان اثرات اقتصادی/سیاسی، سطح حمایت مردمی، یا برداشت عمومی را به‌صورت واقع‌گرایانه تحلیل کرد.",
-            "تا زمانی که نسخه کامل Ipsos (سؤال‌ها، جامعه آماری، تاریخ میدانی و خروجی‌ها) ارائه نشود، هرگونه جمع‌بندی درباره فشار خارجی، تداوم سرکوب، یا تغییرات نارضایتی داخلی غیرقابل اتکا خواهد بود."
-        ],
-        "impact": "در حال حاضر اثر تحلیلی این گزارش به دلیل فقدان داده‌ها صفر است و فقط می‌توان گفت که متن ارسالی برای ارزیابی استراتژیک کافی نیست.",
-        "tag": "نامشخص",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "Ipsos",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices",
-        "image": null,
-        "timestamp": 1777410082.0
-    },
-    {
-        "title_fa": "افزایش موجودی اورانیوم غنی‌شده ایران تا ۱۱ تن؛ سرنوشت ذخایر نامعلوم است",
-        "title_en": "How Iran Accumulated 11 Tons of Enriched Uranium",
-        "summary": [
-            "با خروج دونالد ترامپ از توافق هسته‌ای، ایران طی چند سال از انباشت حدود ۲۲هزار پوند (۱۱ تن) اورانیوم غنی‌شده خبر می‌دهد، اما دو ماه پس از آغاز جنگی که آمریکا می‌گوید برای جلوگیری از ساخت بمب اتمی طراحی شده، سرنوشت این ذخایر همچنان نامعلوم مانده است.",
-            "گزارش تأکید می‌کند که «غنی‌سازی» هرچه به درصدهای بالاتر نزدیک‌تر شود سریع‌تر و آسان‌تر می‌شود؛ سطح حدود ۲۰٪ به‌عنوان نقطه‌ای توصیف شده که فاصله زیادی تا سوخت تسلیحاتی (بمب‌گِرید، نزدیک ۹۰٪) ندارد.",
-            "روندها با داده‌های آژانس بین‌المللی انرژی اتمی هم‌راستا معرفی می‌شوند: ایران از غنی‌سازی صنعتی از ۲۰۰۶، رسیدن به غنی‌سازی ۲۰٪ در ۲۰۱۰، و سپس مذاکرات برای محدودسازی پس از نگرانی‌ها؛ توافق ۲۰۱۵ محدودیت‌هایی برای خلوص (۳.۶۷٪) و اندازه موجودی تا ۲۰۳۰ ایجاد کرد و طبق متن، ایران مقداری از اورانیوم غنی‌شده را منتقل و حجم ذخایر را به زیر ۶۶۰ پوند محدود کرد."
-        ],
-        "impact": "انباشت ۱۱ تن اورانیوم غنی‌شده—همراه با نامعلوم‌بودن وضعیت ذخایر—اهرم زمانی ایران را برای جهش به سطوح بالاتر غنی‌سازی تقویت می‌کند و ریسک تصمیم‌های پرهزینه در سطح منطقه‌ای را بالا می‌برد.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/interactive/2026/04/29/science/iran-enriched-uranium-stockpile-nuclear-energy-bomb.html",
-        "clean_url": "https://www.nytimes.com/interactive/2026/04/29/science/iran-enriched-uranium-stockpile-nuclear-energy-bomb.html",
-        "image": "http://www.bing.com/th?id=ONUT.a9bQyK7cr0LT7lpBl3svVQ&pid=News",
-        "timestamp": 1777410060.0
     }
 ]
