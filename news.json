@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران می‌گوید «پنجره تصمیم‌گیری» ترامپ «تنگ‌تر» شده است",
+        "title_en": "Iran claims Trump’s decision window has ‘narrowed’",
+        "summary": [
+            "ایران در واکنش به تصمیمات یا روند مذاکرات/اقدامات مرتبط با ترامپ، اعلام کرده «پنجره تصمیم‌گیری» محدودتر شده است؛ متن، ادعای ارزیابی سیاسی از طرف تهران است نه خبر عملی جدید.",
+            "این گزاره بیشتر یک پیام‌سازی در چارچوب فشار و زمان‌بندی ادراک‌شده از سوی واشنگتن تلقی می‌شود و در گزارش، شواهد مشخص از اجرای اقدام‌های جدید ارائه نشده است.",
+            "با توجه به عدم ذکر جزئیات درباره تحریم، توافق، یا رخداد میدانی، اثر فوری اقتصادی یا داخلی از خودِ این خبر قابل اندازه‌گیری نیست."
+        ],
+        "impact": "این اظهارنظر عمدتاً پیام سیاسی-زمانی است و تا زمانی که با اقدامات ملموس (تحریم/توافق/رخداد میدانی) همراه نشود، اثر مستقیم قابل سنجش ندارد.",
+        "tag": "پیام‌رسانی",
+        "urgency": 3,
+        "sentiment": -0.1,
+        "source": "NewsNation",
+        "url": "https://www.msn.com/en-us/news/world/a-defiant-iran-leaves-trump-with-few-options/ar-AA22dFTi?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/news/world/a-defiant-iran-leaves-trump-with-few-options/ar-AA22dFTi",
+        "image": null,
+        "timestamp": 1777820550.0
+    },
+    {
         "title_fa": "رسانه اسرائیلی: صنعت هوایی اسرائیل در بلاتکلیفی زیر سایه آتش‌بس شکننده با ایران",
         "title_en": "Israel's Airline Industry Left in Limbo Amid Fragile Cease-fire With Iran",
         "summary": [
@@ -178,6 +196,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWUwbHhDR3dKN2ZnVlRBTlRHSHRKZDZrMUl1OEh4WlRWQzdOR1p4NnZLRXNUdUpfMVdPcnFHRzJnMndyWmNCV3B6NkNVRDBDeENmTVU2a3dwVmgzU2pIUnJfMFViNm5MSkppazNFY1ZIUGsyUVRSZGdYTEp2WEN5RGhB",
         "image": null,
         "timestamp": 1777798894.0
+    },
+    {
+        "title_fa": "تهدیدهای متقابل آمریکا-ایران و آماده‌باش نظامی در محور لبنان؛ گفت‌وگوها در بن‌بست و عملیات‌های «باز» برای از سرگیری جنگ",
+        "title_en": "Iran live updates: Israel, Hezbollah exchange attacks as Trump mulls Iran offer",
+        "summary": [
+            "پس از اعلام «عملیات‌های عمده رزمی» آمریکا در ۲۸ فوریه با حملات سنگین مشترک علیه اهداف نظامی/دولتی/زیرساختی ایران، آتش‌بس دو هفته‌ای تمدید شد اما نتیجه‌ای از مذاکرات اولیه در پاکستان به دست نیامد؛ تداوم «محاصره» تا زمان ارائه پیشنهاد ایران ادامه دارد و IRGC می‌گوید دست تصمیم‌گیری آمریکا محدود شده و تهران ضرب‌الاجلی برای رفع محاصره بنادر تعیین کرده است.",
+            "مقام نظامی نزدیک به رهبری ایران، محسن رضایی، اعلام کرد در صورت ازسرگیری درگیری، «گورستان» کشتی‌های نظامی آمریکا ایجاد می‌شود و به قابلیت آسیب‌زدن به ناوهای هواپیمابر و یادآوری تلفات آمریکا در عملیات ماه آوریل (در اشاره به اصفهان) متوسل شد؛ هم‌زمان IRGC مدعی است لحن جهانی علیه واشینگتن چرخیده و به انتقادهای چین، روسیه و اروپا استناد می‌کند.",
+            "در جبهه لبنان، سخنگوی ارتش اسرائیل آویچای آدراعی دستور تخلیه فوری ساکنان ۱۱ شهر و روستا را صادر کرد و گفت ارتش اسرائیل قرار است «قاطعانه» علیه اهداف ادعایی حزب‌الله در این مناطق اقدام کند؛ این یعنی انتقال سریع تنش به فاز عملیات زمینی/هوایی نزدیک به حزب‌الله محتمل است."
+        ],
+        "impact": "بن‌بست مذاکرات و ادامه محاصره، همراه با تهدیدهای عملیاتی دوطرف و آماده‌سازی برای اقدام «قاطعانه» در لبنان، ریسک جهش سریع به درگیری تمام‌عیار را بالا می‌برد.",
+        "tag": "escalation",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "AOL",
+        "url": "https://www.aol.com/news/iran-live-updates-rubio-dismisses-071829482.html",
+        "clean_url": "https://www.aol.com/news/iran-live-updates-rubio-dismisses-071829482.html",
+        "image": "http://www.bing.com/th?id=ONUT.-TH7e0BkXV7Owb2UasPX_g&pid=News",
+        "timestamp": 1777796820.0
+    },
+    {
+        "title_fa": "ارسال سریع ۶۵۰۰ تُن مهمات به اسرائیل؛ نشانه‌ای از آمادگی آمریکا برای تشدید فشار علیه ایران",
+        "title_en": "US Prepping Iran Attack Again? 6,500-Tonne Munitions Sent To Israel In 24 Hours",
+        "summary": [
+            "NDTV گزارش می‌کند که آمریکا طی ۲۴ ساعت ۶۵۰۰ تُن مهمات به اسرائیل ارسال کرده است.",
+            "این اقدام به‌عنوان آماده‌سازی برای یک حمله دوباره علیه ایران یا تشدید درگیری منطقه‌ای تفسیر می‌شود، اما در متن خبر جزئیات عملیاتی درباره هدف یا زمان حمله ارائه نشده است.",
+            "صرف‌نظر از تأیید نهایی نیت، انتقال حجیم مهمات در مدت کوتاه، ظرفیت عملیات نظامی را بالا می‌برد و ریسک تشدید مستقیم و واکنش‌های متقابل را افزایش می‌دهد."
+        ],
+        "impact": "افزایش فوری قابلیت نظامی طرف اسرائیلی می‌تواند چرخه تنش را بالا ببرد و احتمال برخورد مستقیم یا اقدامات تلافی‌جویانه در برابر منافع آمریکا/اسرائیل را بیشتر کند.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/iran-us-war-us-prepping-iran-attack-again-6-500-tons-of-munitions-sent-to-israel-in-24-hours-11434513",
+        "clean_url": "https://www.ndtv.com/world-news/iran-us-war-us-prepping-iran-attack-again-6-500-tons-of-munitions-sent-to-israel-in-24-hours-11434513",
+        "image": "http://www.bing.com/th?id=ONUT.9YDaHo3CmlE30TiK8M_27w&pid=News",
+        "timestamp": 1777795500.0
     },
     {
         "title_fa": "تشدید درگیری انرژی اسرائیل-ایران و احتمال بسته شدن آسمان ایران",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYXNMTlNoclZPRld1X21wRGQ1Uy0yZU9vYXhtUEVpLU1DMVVneFBOclE0aW5OU2VvNEZETnNkU0IyNzJLTkpNZnFrQXJtZkZxYkRoVUxWellsX3gyOXhyVm5ES0dVWS1rUmprazZmN3lEaklqRG8tOXJZNGlGeUZVRV8tNjVXb3B4S252Z2E5TWNGSnl3",
         "image": null,
         "timestamp": 1777367550.0
-    },
-    {
-        "title_fa": "اقدام پیشنهادی ایران برای پایان جنگ بدون توافق هسته‌ای؛ واکنش سرد واشنگتن در گزارش NBC4 Washington",
-        "title_en": "Live updates: U.S. appears cold to Iranian proposal to end the war without a nuclear deal",
-        "summary": [
-            "NBC4 Washington گزارش می‌دهد که آمریکا به پیشنهاد ایران برای پایان جنگ بدون دستیابی به یک توافق هسته‌ای، «سرد» برخورد کرده است.",
-            "این موضع‌گیری نشان می‌دهد واشنگتن حاضر نیست چارچوب پایان جنگ را بدون قید و شرط‌های مرتبط با موضوع هسته‌ای بپذیرد.",
-            "با توجه به متن گزارش، تمرکز کلیدی بر اختلاف بر سر شرط‌های پایان جنگ است نه یک توافق عملیاتی فوری."
-        ],
-        "impact": "این شکاف بر سر شرط‌های پایان جنگ، احتمال ادامه تنش را بالا می‌برد و کانال‌های توافق را محدود می‌کند.",
-        "tag": "تحلیل",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "NBC4 Washington",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGtDM3loNkRRWm9UaUZXRkItMF9acXhHbF9XZVB3eXNpckNteHo3WnR1QXN1Zkw2RkZucEcxX09nY2F2TTVoWE00WWx0TVVpczd2N19GbnMxT01SS2NOcUczNXlTVXM5bXRtemdJMC1WZFhtenY2d09sQ2JLTlMzYUktVzl0bU5JbHRDWklTdVFYU2NtdnlFaXhkQnV1Y3p5Zy1ZQU4td3gxcnF3Ynpjelpyd2NWQUZGQnhz0gHDAUFVX3lxTE1wZl9FajJxd19XWU5FRXFYZ2xUN2tnNjJYS0R0Nk5vaF94WjFxSU9JWE9hYk9LRjB0R3I5TFpmQkIxeFRKbl8xZlY2N0ptZHlpSFNTczQ3Mk8tdWZBYnlqbGl1X1FvX2Y4QTBzQWdZdDM4OExqNkg4T2I5WlMtLWRiSHE1ZWd2YXZILVAtQU01WjVDa2hwejVKd18wUFdYTlh3ZHdFcS03a291d2hrNzA2Y3cxelluVmlheEtnTzdPaG5JRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGtDM3loNkRRWm9UaUZXRkItMF9acXhHbF9XZVB3eXNpckNteHo3WnR1QXN1Zkw2RkZucEcxX09nY2F2TTVoWE00WWx0TVVpczd2N19GbnMxT01SS2NOcUczNXlTVXM5bXRtemdJMC1WZFhtenY2d09sQ2JLTlMzYUktVzl0bU5JbHRDWklTdVFYU2NtdnlFaXhkQnV1Y3p5Zy1ZQU4td3gxcnF3Ynpjelpyd2NWQUZGQnhz0gHDAUFVX3lxTE1wZl9FajJxd19XWU5FRXFYZ2xUN2tnNjJYS0R0Nk5vaF94WjFxSU9JWE9hYk9LRjB0R3I5TFpmQkIxeFRKbl8xZlY2N0ptZHlpSFNTczQ3Mk8tdWZBYnlqbGl1X1FvX2Y4QTBzQWdZdDM4OExqNkg4T2I5WlMtLWRiSHE1ZWd2YXZILVAtQU01WjVDa2hwejVKd18wUFdYTlh3ZHdFcS03a291d2hrNzA2Y3cxelluVmlheEtnTzdPaG5JRQ",
-        "image": null,
-        "timestamp": 1777367425.0
-    },
-    {
-        "title_fa": "قتل رئیس اطلاعات نیروی قدس/سپاه (بر اساس گزارش) همزمان با گسترش حملات هدفمند اسرائیل",
-        "title_en": "Iran's IRGC intel chief killed as Israel expands targeted strikes: What to know",
-        "summary": [
-            "طبق گزارش، «رئیس اطلاعات نیروی سپاه» در پی گسترش حملات هدفمند اسرائیل کشته شده است؛ یعنی ضربه مستقیم به لایه‌های امنیتی-اطلاعاتی نظام. ",
-            "این رخداد به‌طور ضمنی نشان می‌دهد عملیات‌های اسرائیل صرفاً موشکی/فاصله‌ای نیست و می‌تواند به شناسایی و هدف‌گیری افراد کلیدی در ساختارهای اطلاعاتی و امنیتی برسد.",
-            "چنین اتفاقی می‌تواند به اختلال در زنجیره تصمیم‌گیری و انتقال اطلاعات داخلی منجر شود، اما متن ارسالی جزئیات بیشتری درباره زمان، مکان، و پیامدهای فوری در ساختار سپاه ارائه نمی‌کند."
-        ],
-        "impact": "از دست رفتن یک مقام ارشد اطلاعاتی در سپاه، ریسک بی‌ثباتی عملیاتی و تشدید اقدامات تلافی‌جویانه یا افزایش کنترل‌های امنیتی داخلی را بالا می‌برد.",
-        "tag": "IRGC",
-        "urgency": 9,
-        "sentiment": -0.4,
-        "source": "Al-Monitor",
-        "url": "https://www.al-monitor.com/originals/2026/04/irans-irgc-intel-chief-killed-israel-expands-targeted-strikes-what-know",
-        "clean_url": "https://www.al-monitor.com/originals/2026/04/irans-irgc-intel-chief-killed-israel-expands-targeted-strikes-what-know",
-        "image": null,
-        "timestamp": 1777367220.0
-    },
-    {
-        "title_fa": "تبدیل مناقشه ایران به «جنگ سرد» جدید؛ پیامدهای راهبردی برای ثبات رژیم",
-        "title_en": "The Iran conflict has become the new Cold War",
-        "summary": [
-            "گزارش Axios چارچوب تقابل ایران را از سطح تنش‌های مقطعی به یک رقابت بلندمدت میان بلوک‌ها ارتقا می‌دهد؛ یعنی رقابت ساختاری با هزینه‌های اقتصادی و امنیتی پایدارتر.",
-            "اگر این «جنگ سرد» شدن درست باشد، فشار بیرونی از حالت محدود به ابزارهای گسترده‌تر مثل تحریم‌های مالی/فنی، محدودسازی تجارت و تشدید عملیات‌های غیرمستقیم تبدیل می‌شود و این ترکیب معمولاً توان حکومت در مدیریت ریسک را فرسوده می‌کند.",
-            "در چنین سناریویی، اقتصاد داخلی به خاطر تضعیف دسترسی به منابع ارزی، افزایش نااطمینانی و تشدید اختلال در زنجیره واردات-تولید آسیب‌پذیرتر می‌شود؛ که معمولاً نارضایتی اجتماعی را تشدید می‌کند (حتی اگر در متن Axios جزئیات عددی نیامده باشد)."
-        ],
-        "impact": "توصیف «جنگ سرد» یعنی مناقشه وارد فاز کم‌نوسان و فرسایشی شده و این خود می‌تواند به کاهش تاب‌آوری اقتصادی و افزایش هزینه‌های سیاسی برای رژیم منجر شود.",
-        "tag": "تحلیل",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Axios",
-        "url": "https://www.msn.com/en-us/news/politics/the-iran-conflict-has-become-the-new-cold-war/ar-AA21TRpl",
-        "clean_url": "https://www.msn.com/en-us/news/politics/the-iran-conflict-has-become-the-new-cold-war/ar-AA21TRpl",
-        "image": null,
-        "timestamp": 1777366886.0
     }
 ]
