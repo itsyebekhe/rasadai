@@ -216,6 +216,24 @@
         "timestamp": 1777910915.0
     },
     {
+        "title_fa": "جنگ رسانه‌ای ایران در شبکه‌های اجتماعی علیه آمریکا",
+        "title_en": "Iran’s social media war",
+        "summary": [
+            "طبق گزارش The Hill با محوریت «جنگ رسانه‌ای»، ایران شبکه‌های اجتماعی را به یک میدان کلیدی برای مقابله با آمریکا تبدیل کرده است و محتواهای طعنه‌آمیز و پاسخ‌های سریع به‌عنوان ابزار پیشبرد این عملیات معرفی می‌شوند.",
+            "در این چارچوب، جنگ نرم به جای کنش نظامی مستقیم، بر مدیریت افکار عمومی و تاثیرگذاری در فضای دیجیتال تمرکز دارد؛ یعنی تولید روایت‌های قابل‌انتشار و واکنش‌های زمان‌مند به موضوعات روز.",
+            "نکته محوری گزارش این است که ایران برای رقابت در عرصه قدرت نرم، از تکنیک‌های ارتباطی و «جنگ محتوا» استفاده می‌کند، اما در متن ارائه‌شده جزئیات فنی درباره دامنه، موفقیت یا مقیاس دقیق عملیات ذکر نشده است."
+        ],
+        "impact": "این نوع جنگ رسانه‌ای می‌تواند فضای روایت‌سازی پیرامون منافع آمریکا و ایران را تشدید کند، اما چون شواهدی درباره پیامدهای عملیاتی یا تشدید امنیتی مستقیم ارائه نشده، اثر آن بیشتر بر سطح ادراک و جنگ نرم است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Hill",
+        "url": "https://thehill.com/newsletters/technology/5863155-irans-social-media-war/",
+        "clean_url": "https://thehill.com/newsletters/technology/5863155-irans-social-media-war",
+        "image": "http://www.bing.com/th?id=ONUT.Tm-tTyZ0F3VFS74_tARsSw&pid=News",
+        "timestamp": 1777910640.0
+    },
+    {
         "title_fa": "آتش‌بازی واشینگتن-تهران در خلیج فارس و ضربه به امید توقف چهار هفته‌ای",
         "title_en": "US, Iran trade fire in Gulf",
         "summary": [
@@ -412,6 +430,24 @@
         "clean_url": "https://www.theguardian.com/world/2026/may/04/shipping-bosses-nervous-trump-plan-to-guide-vessels-strait-of-hormuz-iran",
         "image": null,
         "timestamp": 1777892940.0
+    },
+    {
+        "title_fa": "هشدار ترامپ به ایران درباره «پروژه آزادی»؛ تهدید به ضربه نظامی در فضای تنش فزاینده",
+        "title_en": "Iran latest: 'Project Freedom' underway as Trump warns Iran not interfere",
+        "summary": [
+            "ترامپ اعلام کرد که ایران نباید در «پروژه آزادی» دخالت کند و هشدار داد که این اقدام می‌تواند با واکنش بسیار شدید همراه شود.",
+            "او گفت در صورت ادامه تنش، «پروژه آزادی» ممکن است به شکل گسترده‌ای با اقدام تلافی‌جویانه مواجه شود و عبارت «blown off the face of the Earth» را به‌عنوان تهدید مطرح کرد.",
+            "این پیام در ادامه تشدید تنش‌های واشنگتن و تهران مطرح شده و نشان می‌دهد گزینه‌های فشار (به‌خصوص با محوریت بازدارندگی سخت) در اولویت قرار دارد."
+        ],
+        "impact": "این اظهارات احتمال تشدید فشار و خطر خطای محاسباتی میان دو طرف را بالا می‌برد و می‌تواند فضای تصمیم‌گیری در تهران را به سمت واکنش سریع‌تر سوق دهد.",
+        "tag": "ایران-آمریکا",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "url": "https://www.fox4news.com/news/iran-latest-may-4",
+        "clean_url": "https://www.fox4news.com/news/iran-latest-may-4",
+        "image": "http://www.bing.com/th?id=ONUT.aPyZcayqurDqNShvq--zMw&pid=News",
+        "timestamp": 1777890300.0
     },
     {
         "title_fa": "ایران در حال بررسی پیشنهاد آمریکا برای پایان جنگ/درگیری است (به روایت آنادولو)",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-s-supreme-leader-says-americans-have-no-place-in-the-persian-gulf/ar-AA225h7o",
         "image": "http://www.bing.com/th?id=ONUT.HaF9Gss0mYR5ynlg9V16Lg&pid=News",
         "timestamp": 1777520702.0
-    },
-    {
-        "title_fa": "هشدار ایران درباره «محاصره» ترامپ در حالی که نفت به بالاترین سطح ۴ سال اخیر می‌رسد",
-        "title_en": "Iran warns Trump's blockade is 'doomed to fail' as oil prices soar to 4-year high",
-        "summary": [
-            "برنت بیش از ۱۲۶ دلار در هر بشکه بالا رفت؛ جهشی که طبق گزارش، بالاترین سطح از سال ۲۰۲۲ است و نشان می‌دهد فشار نفتیِ بیرونی می‌تواند از کانال قیمت اثر غیرمستقیم بگذارد.",
-            "ایران درباره «محاصره» دولت ترامپ هشدار داده و آن را «محکوم به شکست» خوانده؛ این موضع‌گیری در چارچوب تلاش برای تضعیف اثر بازدارندگی فشار خارجی است، اما متن تنها به قیمت‌گذاری نفت و ادعا اشاره می‌کند نه به تحقق عملی اقدامات.",
-            "افزایش قیمت نفت، به‌طور ساختاری می‌تواند توان مالی دولت را در کوتاه‌مدت تقویت کند و ریسکِ شکنندگی اقتصادی ناشی از افت درآمد ارزی را کاهش دهد؛ اثر دقیق آن وابسته به میزان واقعی فروش و شرایط تحریمیِ اجرایی است که در گزارش نیامده."
-        ],
-        "impact": "صعود نفت به سطح ۴ سال اخیر، می‌تواند به رژیم امکان نفس‌کشیدن مالی کوتاه‌مدت بدهد و کارآمدی «محاصره» را در سطح درآمدی برای مدتی کند کند، هرچند نتیجه نهایی به شدت اجرای سیاست‌های فشار وابسته است.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/iran-trump-blockade-doomed-fail-oil-price-high-military-options-hormuz-rcna342831",
-        "clean_url": "https://www.nbcnews.com/world/iran/iran-trump-blockade-doomed-fail-oil-price-high-military-options-hormuz-rcna342831",
-        "image": "http://www.bing.com/th?id=ONUT.0FveVXuExRnaLW38Srez1g&pid=News",
-        "timestamp": 1777516620.0
-    },
-    {
-        "title_fa": "شکاف در دیاسپورای شمال آمریکا درباره گام بعدی پس از آتش‌بس شکننده",
-        "title_en": "Iran's North American diaspora split over next steps after Trump's ceasefire",
-        "summary": [
-            "طبق گزارش رویترز، در بحبوحه توقف موقت و شکننده درگیری میان آمریکا، اسرائیل و ایران، دیاسپورای بزرگ شمال آمریکا درباره اینکه بعد از آتش‌بس چه اقداماتی باید انجام شود دچار اختلاف شده است.",
-            "این شکاف نشان می‌دهد نیروهای مخالف/تبعیدی در خارج از کشور بر سر «راهبرد فشار» یا «راهبرد انتظار» برای تغییر وضعیت به اتفاق نظر نرسیده‌اند، در نتیجه تصمیم‌گیری سیاسی پراکنده خواهد ماند.",
-            "با توجه به اینکه آتش‌بس به‌عنوان «فرصت گذرا» توصیف می‌شود، اختلاف در میان جامعه مهاجر می‌تواند سرعت و هماهنگی تلاش‌های سیاسی را کاهش دهد و احتمال تغییر جهت در فضای عمومی را بالا ببرد."
-        ],
-        "impact": "اختلاف در دیاسپورای شمال آمریکا در شرایط آتش‌بس شکننده، توان اعمال فشار سیاسی هماهنگ علیه رژیم را کم می‌کند و خطر تشدید یا چرخش سریع وضعیت را بالا می‌برد.",
-        "tag": "دیاسپورا",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/media-telecom/irans-north-american-diaspora-split-over-next-steps-after-trumps-ceasefire-2026-04-30/",
-        "clean_url": "https://www.reuters.com/business/media-telecom/irans-north-american-diaspora-split-over-next-steps-after-trumps-ceasefire-2026-04-30",
-        "image": "http://www.bing.com/th?id=ONUT.SZThiBrpuDcc6ruhlmOPkQ&pid=News",
-        "timestamp": 1777516380.0
     }
 ]
