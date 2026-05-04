@@ -1,5 +1,77 @@
 [
     {
+        "title_fa": "امارات: ایران حملات را از سر گرفته؛ هم‌زمان با تلاش آمریکا برای بازگشایی تنگه هرمز",
+        "title_en": "The UAE says Iran resumes attacks as the U.S. moves to reopen the Strait of Hormuz",
+        "summary": [
+            "طبق ادعای امارات، ایران «حملات» را از سر گرفته است؛ اما در متن ارائه‌شده جزئیاتِ نوع حمله یا محل دقیق آن ذکر نشده است.",
+            "هم‌زمان، آمریکا در حال حرکت برای «بازگشایی تنگه هرمز» معرفی شده؛ این یعنی رقابت امنیتی و فشار عملیاتی روی گلوگاه انرژی در حال تشدید است.",
+            "اگرچه این روایت از زاویه امارات و NPR است، اما عدم ارائه اطلاعات مشخص درباره اقدامات ایران و سازوکار بازگشایی توسط آمریکا مانع از نتیجه‌گیری قطعی درباره ابعاد واقعی درگیری می‌شود."
+        ],
+        "impact": "محتوای گزارش—حمله‌-محور بودن ادعاها و هم‌زمانی آن با اقدام آمریکا برای تنگه هرمز—خطر بی‌ثباتی سریع در امنیت کشتیرانی و هزینه‌های انرژی را بالا می‌برد.",
+        "tag": "تنش_منطقه‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9INGhNdm00ejBxc01CS3pBMVRuTTZKWExyV0pseHo5M2JhaGhlbVJwUDlWV0hXYy1hN1dKcWFpLUl0VUhvcDlkQkIzdU9WS19qZ1ZpSGwxLXJKRS1kSWM1dnpSaElOcEpIVC1pcENR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9INGhNdm00ejBxc01CS3pBMVRuTTZKWExyV0pseHo5M2JhaGhlbVJwUDlWV0hXYy1hN1dKcWFpLUl0VUhvcDlkQkIzdU9WS19qZ1ZpSGwxLXJKRS1kSWM1dnpSaElOcEpIVC1pcENR",
+        "image": null,
+        "timestamp": 1777910915.0
+    },
+    {
+        "title_fa": "اظهار ترامپ درباره تنگه هرمز: اهرم فشار یا تبلیغات جنگ روانی؟",
+        "title_en": "Does Trump hold 'all the cards' against Iran in the Strait of Hormuz?",
+        "summary": [
+            "طبق گزارش الجزیره، ترامپ با بالا بردن سطح اطمینان خود از «استثنای برتری/تمام کارت‌ها» در پرونده تنش با ایران، پیام می‌دهد که دستِ بالاتر را در تنگه هرمز دارد؛ هم‌زمان ناظر افزایش تنش‌ها در منطقه نیز هست.",
+            "در همین چارچوب، «اعتماد به نفس» ترامپ به‌عنوان پیام سیاسی/بازدارندگی مطرح می‌شود، اما متن خبر به جزئیاتِ عملیات، اقدامات مشخص یا نتیجه قطعی اشاره نمی‌کند و بیشتر بر برداشت از قدرت مذاکره/فشار تمرکز دارد.",
+            "با توجه به ماهیت گزارش که بر افزایش تنش‌ها در تنگه هرمز تکیه دارد، ریسک اصلی برای ثبات منطقه و اقتصاد جهانی (از مسیر اختلال احتمالی در کشتیرانی) برجسته است، اما ارتباط مستقیم با رژیم یا سازوکار تحریم/اقدام سخت در این گزارش روشن نشده است."
+        ],
+        "impact": "این نوع پیام‌دهی سیاسی می‌تواند هزینه محاسباتی طرف مقابل را بالا ببرد، ولی تا وقتی اقدام عملی یا سازوکار فشار مشخص در خبر نیاید، بیشتر نشانه‌گذاریِ فشار روانی است تا اثباتِ یک تغییر راهبردی.",
+        "tag": "هرمز",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz/ar-AA22mlFN",
+        "clean_url": "https://www.msn.com/en-us/news/world/does-trump-hold-all-the-cards-against-iran-in-the-strait-of-hormuz/ar-AA22mlFN",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/AP26108447320171-1777883488.jpg?resize=1920,1440",
+        "timestamp": 1777907220.0
+    },
+    {
+        "title_fa": "افزون‌طلبی دریایی ایران علیه ناو آمریکایی «تأیید نشد»",
+        "title_en": "Iran did not hit a US Navy ship near Strait of Hormuz, US official tells 'Post'",
+        "summary": [
+            "به‌گفته یک مقام آمریکایی به روزنامه Jerusalem Post، ایران به ناو نیروی دریایی آمریکا نزدیک تنگه هرمز اصابت نکرده است.",
+            "خبر، ادعای یک درگیری/حمله در آب‌های راهبردی تنگه هرمز را از نظر وقوع عملی رد می‌کند و نشان می‌دهد روایت‌های رسانه‌ای درباره رویداد، ممکن است بدون پشتوانه باشند.",
+            "با نبودِ تأیید حمله واقعی، فعلاً از نظر نظامی-عملیاتی افزایش تنش مستقیم در سطح برخورد با ناو آمریکایی «قطعی» نیست، اما فضای خطر و حساسیت عملیاتی در این گذرگاه همچنان پابرجاست."
+        ],
+        "impact": "این تکذیب، ریسکِ جهش فوری به درگیری مستقیم را کاهش می‌دهد، ولی عامل تنش ساختاری در تنگه هرمز را حذف نمی‌کند.",
+        "tag": "تنش‌دریایی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1bWtJYmVvX0JMdzNHcUZEb0tROWZ0YnRiWHRDYVpGdXBWazZNTGxwQWt1bUJKSTZseWIydDJFRWpxZnJqekJfMDVhUTJNOTNyb3JibHBJQ2tKWDFBZzIzU2dObENSbUpwMHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1bWtJYmVvX0JMdzNHcUZEb0tROWZ0YnRiWHRDYVpGdXBWazZNTGxwQWt1bUJKSTZseWIydDJFRWpxZnJqekJfMDVhUTJNOTNyb3JibHBJQ2tKWDFBZzIzU2dObENSbUpwMHc",
+        "image": null,
+        "timestamp": 1777906875.0
+    },
+    {
+        "title_fa": "تمدید آتش‌بس؛ گام بعدی در جنگ ایران چه خواهد بود؟",
+        "title_en": "Ceasefire extended: What's next in the Iran war?",
+        "summary": [
+            "گزارش DW با عنوان «تمدید آتش‌بس» نشان می‌دهد که آتش‌بس در جریان درگیری‌های مرتبط با «جنگ ایران» ادامه پیدا کرده است، اما متنِ ارائه‌شده جزئیاتی از مفاد، زمان‌بندی یا شروط ندارد.",
+            "عنوان، تمرکز را از توقف درگیری به سمت «مرحله بعد» می‌برد؛ یعنی احتمال سناریوهای از سرگیری یا بازتنظیم مواضع نظامی-عملیاتی وجود دارد، بدون آن‌که اطلاعات مشخصی درباره طرف‌های درگیر یا توافق‌های جدید در اختیار باشد.",
+            "در داده‌های فعلی، هیچ نشانه‌ای از تحریم‌های تازه، نقش بازیگران خارجی، یا موج مشخص نارضایتی داخلی/فشار اقتصادی ذکر نشده است؛ بنابراین ارزیابی پیامدها فقط در سطح کلی «عدم قطعیت مرحله بعد» قابل اتکا است."
+        ],
+        "impact": "تمدید آتش‌بس فعلاً از تشدید فوری جلوگیری می‌کند، اما چون جزئیات توافق یا مسیر بعدی منتشر نشده، ریسک برگشت تنش همچنان بالاست.",
+        "tag": "آتش‌بس",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "DW.com",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFMxWXVuY3BVektIamltNko2WV80bVlGM3FPNnlqMEN5a3RVMmloVjVOanJUTDBBeFdORVdGX0pYaVQycTM5Wm1xMkNHbWotTHppMm1SczE2QUFTRnBQaVV0dW9OLVp2bGdoZ0VNaTJ3V2pmbE1IWXZGUTQtTFc3ay1HTFHSAYQBQVVfeXFMUHVfN2ZjeTcyeXhpNDQzNkdBOVBiVkFGUVZlbGxvTXhZS3pFSEF2MVVCemFMN2VNendZZWtDSzl3UTRDS0h6MXNtNWRPVG9DaUw5Q0VITUlVT0hXMlNQMExSdFNJYkxkLTUyMUdFcXVFZFZ5bkJWNnh0c1EtV1lQNzgxSUJv?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbFMxWXVuY3BVektIamltNko2WV80bVlGM3FPNnlqMEN5a3RVMmloVjVOanJUTDBBeFdORVdGX0pYaVQycTM5Wm1xMkNHbWotTHppMm1SczE2QUFTRnBQaVV0dW9OLVp2bGdoZ0VNaTJ3V2pmbE1IWXZGUTQtTFc3ay1HTFHSAYQBQVVfeXFMUHVfN2ZjeTcyeXhpNDQzNkdBOVBiVkFGUVZlbGxvTXhZS3pFSEF2MVVCemFMN2VNendZZWtDSzl3UTRDS0h6MXNtNWRPVG9DaUw5Q0VITUlVT0hXMlNQMExSdFNJYkxkLTUyMUdFcXVFZFZ5bkJWNnh0c1EtV1lQNzgxSUJv",
+        "image": null,
+        "timestamp": 1777903248.0
+    },
+    {
         "title_fa": "تحریم‌های جدید کوبا و هدف‌گیری «بانکداری سایه» ایران توسط OFAC؛ تمرکز بر پایانه‌های نفتی چینی",
         "title_en": "New Cuba Sanctions, OFAC Targets Iranian Shadow Banking and Chinese Oil Terminal",
         "summary": [
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.nytimes.com/live/2026/04/29/us/trump-news",
         "image": "http://www.bing.com/th?id=ONUT.s8qyK-fYoeQSFp2I5REGIg&pid=News",
         "timestamp": 1777470840.0
-    },
-    {
-        "title_fa": "امتناع وزیر دفاع آمریکا از تعیین زمان جنگ علیه ایران؛ طفره از «باتلاق» خوانی",
-        "title_en": "Don’t call it a ‘quagmire’: defense secretary refuses to speculate on length of Iran war",
-        "summary": [
-            "وزیر دفاع آمریکا در جلسه کنگره صراحتاً از گمانه‌زنی درباره «مدت» جنگ علیه ایران خودداری کرد و از ورود به بحث زمان‌بندی پرهیز داشت.",
-            "این موضع در چارچوب پاسخ به چارچوب‌سازی رسانه‌ای/سیاسی پیرامون «باتلاق» مطرح شد، اما مقام دفاعی حاضر نشد حتی به‌صورت غیرمستقیم طولانی‌بودن یا کوتاه‌بودن را تأیید کند.",
-            "همزمان، حضور وزیر دفاع و رئیس ستاد مشترک در جلسه بودجه دفاعی ۲۰۲۷ نشان می‌دهد این جنگ در برنامه‌ریزی عملیاتی و مالی بلندمدت آمریکا لحاظ می‌شود، بدون اینکه عدد یا بازه زمانی اعلام شود."
-        ],
-        "impact": "این رفتار یعنی واشنگتن زمان‌بندی را مبهم نگه می‌دارد تا هم انعطاف عملیاتی داشته باشد و هم هزینه سیاسی پیش‌بینی‌پذیر نپردازد.",
-        "tag": "آمریکا",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Defense News",
-        "url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/dont-call-it-a-quagmire-defense-secretary-refuses-to-speculate-on-length-of-iran-war/",
-        "clean_url": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/dont-call-it-a-quagmire-defense-secretary-refuses-to-speculate-on-length-of-iran-war",
-        "image": "http://www.bing.com/th?id=ONUT.NPGxd80ScgfTr0cDDcGNGA&pid=News",
-        "timestamp": 1777470600.0
-    },
-    {
-        "title_fa": "برآورد پنتاگون: هزینه جنگ ایران ۲۵ میلیارد دلار در دو ماه، بدون تاریخ پایان",
-        "title_en": "The Iran war now has a price tag ($25 billion), but still no end date",
-        "summary": [
-            "پنتاگون اعلام کرده طی دو ماه گذشته هزینه جنگ ۲۵ میلیارد دلار بوده است؛ یعنی فشار مالی مستقیم بر بودجه دفاعی آمریکا وارد شده، نه یک عملیات کوتاه‌مدت.",
-            "در شهادت در کنگره، وزیر دفاع پیت هیگست(h) هیچ زمان‌بندی برای پایان جنگ ارائه نکرد؛ نشانه‌ای از نبود برنامه روشن برای خروج یا مهار سریع در سطح راهبردی.",
-            "نبود «تاریخ پایان» همراه با افزایش هزینه، احتمال طولانی‌شدن درگیری را بالا می‌برد و در نتیجه هزینه سیاسی و اقتصادی برای طرف آمریکایی و متحدانش هم تشدید می‌شود."
-        ],
-        "impact": "افزایش هزینه بدون چشم‌انداز خروج، ریسک تداوم و گسترش درگیری را تقویت می‌کند و محاسبات داخلی برای مدیریت بحران را دشوارتر می‌سازد.",
-        "tag": "هزینه",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date",
-        "clean_url": "https://www.npr.org/2026/04/29/g-s1-119333/the-iran-war-now-has-a-price-tag-25-billion-but-still-no-end-date",
-        "image": "http://www.bing.com/th?id=ONUT.aPkZnJyAAvNuBd3Hy9WDLg&pid=News",
-        "timestamp": 1777467000.0
-    },
-    {
-        "title_fa": "محاکمه‌گونه شدن بازجویی درباره روایت «پیشرفت جنگ ایران» در جلسه استماع خصمانه دموکرات‌ها",
-        "title_en": "In hostile hearing, Democrats accuse Hegseth of misleading public on Iran war progress",
-        "summary": [
-            "دموکرات‌ها در یک استماع مستقیم و طولانی، ادعا کردند هگست در اطلاع‌رسانی عمومی درباره روند جنگ مرتبط با ایران، اطلاعات را گمراه‌کننده یا نادرست ارائه کرده است.",
-            "این جلسه نخستین بار توصیف شده که هگست با بازجویی رودررو و مستمر درباره «پیشرفت جنگ» مواجه شده؛ یعنی فشار سیاسی از سطح اتهام‌های کلی به سطح پاسخ‌طلبی میدانی رسیده است.",
-            "محتوای خبر بر محور جنگ و «پیشرفت آن» و ادعای انحراف در روایت عمومی می‌چرخد، نه بر اعلام تصمیم‌های تازه، بنابراین اثر فوری بیشتر سیاسی-اعتباری است تا عملیاتی."
-        ],
-        "impact": "فشار رسانه‌ای-سیاسی می‌تواند هزینه اعتباری برای روایت جنگ ایجاد کند، اما در متن خبر نشانه‌ای از تغییر فوری در سیاست نظامی یا تشدید عملی وجود ندارد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "TIME on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/in-hostile-hearing-democrats-accuse-hegseth-of-misleading-public-on-iran-war-progress/ar-AA221A52",
-        "clean_url": "https://www.msn.com/en-us/news/politics/in-hostile-hearing-democrats-accuse-hegseth-of-misleading-public-on-iran-war-progress/ar-AA221A52",
-        "image": "http://www.bing.com/th?id=ONUT.7P23rAO5x6jZmjhrmvIWmA&pid=News",
-        "timestamp": 1777466116.0
-    },
-    {
-        "title_fa": "نگرانی درباره پر شدن ظرفیت ذخیره‌سازی نفت ایران و احتمال کاهش تولید در صورت تداوم محاصره دریایی",
-        "title_en": "Is Iran’s oil storage nearly full – and will it have to cut production?",
-        "summary": [
-            "آمریکا از ۱۳ آوریل محاصره/کنترل دریایی بندرهای ایران و تنگه هرمز را آغاز کرده و برآوردهای Kpler (به نقل از بلومبرگ) می‌گوید ایران اگر این وضعیت ادامه یابد ممکن است ظرف ۱۲ تا ۲۲ روز به پایان ظرفیت ذخیره‌سازی نفت خام برسد.",
-            "اسکات برسنت، وزیر خزانه‌داری آمریکا، پیش‌تر گفته بود ظرفیت ذخیره‌سازی جزیره خارک ظرف «چند روز» کامل خواهد شد؛ خارک محل عمده صادرات نفت ایران است و محدودیت ذخیره عملاً اهرم فشار برای محدودسازی صادرات ایجاد می‌کند.",
-            "زمینه تنش از جنگ منطقه‌ای است: ابرهم جاباری (مشاور ارشد فرمانده کل سپاه) در ۲۸ فوریه گفته بود تنگه هرمز «بسته» است و نیروی دریایی و سپاه هر کشتی متخلف را هدف قرار می‌دهند؛ سپس در ماه‌های گذشته ایران گاهی اجازه عبور کشتی‌های «خودی/دوست» یا متقاضیِ عوارض را داده اما اکنون از عبور کشتی‌های دارای پرچم خارجی (حتی موارد قبلاً پذیرفته‌شده) تا لغو محاصره آمریکا خودداری می‌کند."
-        ],
-        "impact": "اگر محاصره دریایی تداوم پیدا کند، محدودیت ظرفیت ذخیره‌سازی می‌تواند ایران را به کاهش تولید یا کند کردن صادرات وادار کند و هم‌زمان ریسک جهش قیمت سوخت را بالا ببرد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.65,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-oil-storage-nearly-full-122253508.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-oil-storage-nearly-full-122253508.html",
-        "image": null,
-        "timestamp": 1777465545.0
     }
 ]
