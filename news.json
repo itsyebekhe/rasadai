@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "پیگیری آمریکا برای حفظ آتش‌بس با ایران؛ ادعای حمله به امارات",
+        "title_en": "US officials seek to maintain ceasefire with Iran, UAE says it was attacked",
+        "summary": [
+            "به‌گزارش رویترز، مقام‌های آمریکایی در تلاش‌اند آتش‌بس با ایران را حفظ کنند، یعنی تمرکز فوری واشنگتن روی جلوگیری از تشدید تنش است.",
+            "در همین چارچوب، امارات اعلام کرده که «مورد حمله» قرار گرفته؛ اما متن گزارشِ ارائه‌شده جزئیات فنی، مسئولیت‌پذیری یا شواهد مستقیم را ذکر نمی‌کند.",
+            "اگر ادعای امارات دقیق باشد، سناریوی فشار خارجی وارد فاز عملیاتی می‌شود و می‌تواند روند مدیریت بحران آمریکا را از سطح سیاسی به سطح امنیتی سنگین‌تر کند؛ بدون اینکه در این داده، نوع حمله یا مقیاس آن مشخص شده باشد."
+        ],
+        "impact": "ادعای حمله به امارات در کنار تلاش آمریکا برای حفظ آتش‌بس، ریسک لغزش از مدیریت تنش به بحران امنیتی گسترده‌تر را بالا می‌برد.",
+        "tag": "آتش‌بس",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-ca/news/other/us-officials-seek-to-maintain-ceasefire-with-iran-uae-says-it-was-attacked/ar-AA22sGKH",
+        "clean_url": "https://www.msn.com/en-ca/news/other/us-officials-seek-to-maintain-ceasefire-with-iran-uae-says-it-was-attacked/ar-AA22sGKH",
+        "image": null,
+        "timestamp": 1778021125.0
+    },
+    {
+        "title_fa": "روبو: مرحله تهاجمی جنگ علیه ایران تمام شده است",
+        "title_en": "Offensive stage of Iran war is over, US Secretary of State Rubio says",
+        "summary": [
+            "مایک پُمپئو؟ خیر—بر اساس گزارش BBC، «رُبوبو» (وزیر خارجه آمریکا) مدعی شده مرحله تهاجمی جنگ علیه ایران به پایان رسیده است؛ یعنی محور عملیات فعال به‌صورت رسمی از سوی واشنگتن تغییر کرده.",
+            "این اظهارنظر به‌طور ضمنی بر کاهش یا انتقال تمرکز از عملیات تهاجمی به فازهای دیگر مانند فشار سیاسی/دیپلماتیک یا مدیریت بازدارندگی دلالت دارد، اما جزئیات عملیاتی ارائه نشده است.",
+            "چون متن صرفاً یک ادعای سیاسی است و داده‌ای درباره تحرکات میدانی، توافق‌ها یا نتایج مشخص نمی‌دهد، اثر فوری قابل‌اتکا بر اقتصاد یا میزان نارضایتی داخلی تنها در صورت گزارش‌های تکمیلی قابل ارزیابی است."
+        ],
+        "impact": "این پیام بیشتر یک «سیگنال» سیاسی-عملیاتی از تغییر فاز راهبرد آمریکا علیه ایران است تا یک خبر قابل اندازه‌گیری درباره وضعیت واقعی در میدان.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jd2hoRlNObjFkbDZuR2FRMDRUSVZGR05GYkRjTjdYd25yZUZjSmRiUDVvM2F0ejJtZHBIVFo5d2FUNm05bjJJWGdrYm9maFV2clFPS0RjV3M0QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Jd2hoRlNObjFkbDZuR2FRMDRUSVZGR05GYkRjTjdYd25yZUZjSmRiUDVvM2F0ejJtZHBIVFo5d2FUNm05bjJJWGdrYm9maFV2clFPS0RjV3M0QQ",
+        "image": null,
+        "timestamp": 1778019464.0
+    },
+    {
         "title_fa": "آمریکا می‌گوید آتش‌بس ایران در تنگه هرمز هنوز «تمام نشده» با وجود ادامه حملات",
         "title_en": "U.S. insists Iran ceasefire not over despite attacks in Strait of Hormuz",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.theatlantic.com/international/2026/05/iran-infighting-negotiation-qalibaf/687020",
         "image": "http://www.bing.com/th?id=ONUT.jj-X59r5ijJIDXgd9_gLtg&pid=News",
         "timestamp": 1777614180.0
-    },
-    {
-        "title_fa": "روز ۶۳ جنگ: فعال‌سازی پدافند هوایی تهران و چراغ‌قرمزِ «حمله احتمالی» از سوی ترامپ",
-        "title_en": "Iran war: What’s happening on day 63 as Trump signals possible attacks",
-        "summary": [
-            "پدافند هوایی در تهران فعال شد؛ خبرگزاری‌های تسنیم و فارس گزارش کردند که هدف مقابله با پهپادها و هواگردهای کوچک بوده است، در فضایی که هشدارهای ایران، آمریکا و اسرائیل ادامه دارد.",
-            "ترامپ از «بازگشت به جنگ با ایران» سخن گفت و درباره احتمال اقدام نظامی با زبان شرطی صحبت کرد؛ هم‌زمان رئیس‌جمهور ایران، مسعود پزشکیان، محاصره/بزرگ‌نمایی عملیات دریایی آمریکا علیه بنادر ایران را «قابل‌تحمل» ندانست و آن را امتداد عملیات نظامی خواند.",
-            "تحلیل‌گران می‌گویند تهران برای تحریم‌های سخت‌تر آماده شده: نفتِ ذخیره‌شده در دریا، بالا بودن قیمت‌ها و اتکای بیشتر به بازار داخلی؛ در کنار آن، مارک کیمیت هشدار می‌دهد فشار نظامی و هزینه اقتصادی احتمالاً واشنگتن را به مذاکره وادار نمی‌کند و بن‌بست می‌تواند بماند."
-        ],
-        "impact": "فعال شدن پدافند تهران همراه با سیگنال ترامپ درباره حمله احتمالی، خطر تشدید نظامی را بالا می‌برد و نشان می‌دهد رژیم در حال مدیریت هزینه اقتصادیِ تحریم‌های شدیدتر است.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/articles/iran-war-happening-day-63-053711198.html",
-        "clean_url": "https://www.yahoo.com/news/articles/iran-war-happening-day-63-053711198.html",
-        "image": null,
-        "timestamp": 1777614042.0
-    },
-    {
-        "title_fa": "ترامپ: باوجود پیروزی‌های نظامی، تهدید هسته‌ای ایران باید رسیدگی شود",
-        "title_en": "Donald Trump: Despite military victories, Iran’s nuclear threat must be addressed",
-        "summary": [
-            "ترامپ در اظهاراتی تأکید می‌کند که حتی اگر عملیات‌های نظامی نتیجه داده باشند، «تهدید هسته‌ای ایران» همچنان یک مسئله فوری است و باید به آن رسیدگی شود.",
-            "چارچوب پیام روشن است: تمرکز صرف بر دستاوردهای میدان نباید جایگزین راهبرد اتمی برای مهار توان هسته‌ای ایران شود.",
-            "این موضع، هم‌زمان پیامی سیاسی به نهادهای بین‌المللی و طرف‌های درگیر امنیت منطقه است که تهدید اتمی را معیار اصلی تصمیم‌گیری می‌داند."
-        ],
-        "impact": "این اظهارات می‌تواند به فشار سیاسی-دیپلماتیک علیه برنامه هسته‌ای ایران دامن بزند و ضرورت اقدامات جدی‌تر را در سطح بین‌المللی برجسته کند.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16akJyb0RxNGxLTzFxSjlkd2lmRUVvZEp3WDQydDNqN05HUldOSHY4ZW1rVm9XcUlaVXdTd1FBME5jT3RaZU9sTDcwRFk5akxyZkFFZUdMTmZHRXkzYWNwNlAtN1p2TTB6Snc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16akJyb0RxNGxLTzFxSjlkd2lmRUVvZEp3WDQydDNqN05HUldOSHY4ZW1rVm9XcUlaVXdTd1FBME5jT3RaZU9sTDcwRFk5akxyZkFFZUdMTmZHRXkzYWNwNlAtN1p2TTB6Snc",
-        "image": null,
-        "timestamp": 1777613929.0
     }
 ]
