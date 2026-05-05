@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "رد و بدل طعنه میان آمریکا و ایران؛ تشدید حملات، آتش‌بس شکننده را تهدید می‌کند",
+        "title_en": "U.S. and Iran exchange taunts as attacks imperil fragile ceasefire",
+        "summary": [
+            "گزارش واشنگتن‌پست از افزایش تنش کلامی میان آمریکا و ایران هم‌زمان با وقوع حملات خبر می‌دهد و نشان می‌دهد که «آتش‌بس شکننده» در عمل زیر فشار مستقیم قرار گرفته است.",
+            "اگر حملات ادامه پیدا کند، هزینه سیاسی و امنیتی برای هر دو طرف بالا می‌رود و احتمال فرسایش توافق یا شکست آن بیشتر می‌شود؛ یعنی کنترل بحران از دست خارج می‌شود، نه اینکه صرفاً یک سوءتفاهم لفظی باشد.",
+            "در چنین شرایطی، توان رژیم برای مدیریت پیامدهای امنیتی و هماهنگی میدانی آزموده می‌شود و هر موج جدید حمله، شکاف میان ادعاهای کنترل وضعیت و واقعیت‌های میدانی را عمیق‌تر می‌کند."
+        ],
+        "impact": "ادامه و تشدید حملات می‌تواند آتش‌بس شکننده را از فاز مدیریت ریسک خارج کرده و به سمت برخورد جدی‌تر سوق دهد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/us-and-iran-exchange-taunts-as-attacks-imperil-fragile-ceasefire/ar-AA22n2Qr",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-exchange-taunts-as-attacks-imperil-fragile-ceasefire/ar-AA22n2Qr",
+        "image": null,
+        "timestamp": 1777979116.0
+    },
+    {
         "title_fa": "ارزیابی اطلاعاتی آمریکا: آسیب محدود به برنامه هسته‌ای ایران",
         "title_en": "US Intelligence Sees Limited Damage to Iran Nuclear Program",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVWVnUTlKWWF1eXhSdjNETmtQdXZ0Y1JDX21Kb1c3X0VXMk5BM1lrdU9PQ3c1T3ZTLXBseVBjbXQtTGVra1ZOemxrUHNUcFJCMmJQZUdYR2VaaUZjdVkwaTdYRVBZdGZxVEhISndRREQ0TUV3TFAxRFIwTDlFZi1RMmxiMzM3Q0FmUUxteDNTNA",
         "image": null,
         "timestamp": 1777972360.0
+    },
+    {
+        "title_fa": "شکستن آتش‌بس و خطر فوری تشدید تنش: ایران و امارات",
+        "title_en": "Iran vs Trump: Is war about to break out?",
+        "summary": [
+            "آتش‌بس شکننده‌ای که از ۸ آوریل آغاز شده بود، با «حمله‌های ایران به امارات» عملاً از هم پاشید.",
+            "این اقدام به‌صورت مستقیم چرخه تشدید را فعال می‌کند و می‌تواند منطقه را از سطح درگیری محدود به درگیری‌های گسترده‌تر نزدیک کند.",
+            "با توجه به چارچوب مطرح‌شده در گزارش، «ایران در برابر ترامپ» بیشتر به یک رقابت اتهامی/بازدارندگی تبدیل شده تا مدیریت بحران، و همین افزایش ریسک جنگ را بالا می‌برد."
+        ],
+        "impact": "شکستن آتش‌بس پایدار نشان می‌دهد کنترل سیاسی-امنیتی بر درگیری کاهش یافته و احتمال واکنش‌های متقابل و گسترش جنگ بالاست.",
+        "tag": "تشدید",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Straits Times",
+        "url": "https://www.straitstimes.com/world/middle-east/iran-vs-trump-is-war-about-to-break-out",
+        "clean_url": "https://www.straitstimes.com/world/middle-east/iran-vs-trump-is-war-about-to-break-out",
+        "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5cfe808f1cf3e7cecc6802d9e5b74f8506d4f999135c0f1199b6b22dc027bb33",
+        "timestamp": 1777970460.0
     },
     {
         "title_fa": "تردید در آتش‌بس منطقه‌ای؛ رقابت آمریکا و ایران برای کنترل تنگه هرمز",
@@ -54,6 +90,24 @@
         "timestamp": 1777965977.0
     },
     {
+        "title_fa": "گزارش امارات از تهدید موشکی و پهپادی و اعلام آمادگی ترامپ برای هدایت کشتی‌ها در تنگه هرمز",
+        "title_en": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz",
+        "summary": [
+            "امارات به‌عنوان طرف منطقه‌ای، از وجود تهدیدهای موشکی و پهپادی خبر داده که نشان می‌دهد خطر مستقیم برای عبور و مرور در تنگه هرمز بالا رفته است.",
+            "ترامپ اعلام کرده است که آمریکا کشتی‌ها را در تنگه هرمز راهنمایی خواهد کرد؛ یعنی سطح دخالت عملیاتی/راهنمایی واشینگتن در یک گلوگاه دریایی تشدید می‌شود.",
+            "این هم‌زمانی گزارش‌های تهدید و اعلام نقش آمریکا، احتمال افزایش تنش دریایی و ریسک برخورد ناخواسته را بالا می‌برد، بدون اینکه در متن به جزئیات میزان یا منبع دقیق تهدیدها پرداخته شود."
+        ],
+        "impact": "این رویداد می‌تواند به تشدید رقابت امنیتی و احتمال درگیری محدود در تنگه هرمز منجر شود و هزینه ریسک تجارت دریایی را بیشتر کند.",
+        "tag": "تنش‌منطقه‌ای",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ",
+        "image": null,
+        "timestamp": 1777964859.0
+    },
+    {
         "title_fa": "ایران: حمله نظامی آمریکا به قایق‌های مسافربری پنج غیرنظامی را کشت",
         "title_en": "Iran says US military killed five civilians in attacks on passenger boats",
         "summary": [
@@ -90,6 +144,42 @@
         "timestamp": 1777957831.0
     },
     {
+        "title_fa": "لغو پروازهای دهلی به غرب آسیا و سفر وزیر خارجه ایران به چین؛ همزمان با محکومیت حمله توسط مودی",
+        "title_en": "US Iran war LIVE: Several Delhi to West Asia flights cancelled; Iran FM to leave for China today",
+        "summary": [
+            "چند پرواز از دهلی به مقاصد غرب آسیا لغو شده است، که نشان‌دهنده افزایش ریسک عملیاتی و نااطمینانی منطقه‌ای برای خطوط هوایی است.",
+            "وزیر خارجه ایران قرار است امروز برای سفر به چین خارج شود؛ این هم‌زمانی می‌تواند نشانه‌ای از تلاش برای تقویت کانال‌های دیپلماتیک/اقتصادی در شرایط تشدید تنش باشد، بدون اینکه در متن جزئیات دیگری ارائه شده باشد.",
+            "نارندرا مودی حمله را «غیرقابل‌قبول» خوانده و بر همبستگی هند با امارات تأکید کرده است؛ این واکنش سیاسی می‌تواند فشار ضمنی بر محاسبات امنیتی و دیپلماتیک تهران را افزایش دهد."
+        ],
+        "impact": "لغو پروازها و هم‌زمانی سفر به چین در کنار واکنش‌های علنی هند، نشانه تشدید ریسک‌های منطقه‌ای و تلاش برای مدیریت پیامدهای تنش است.",
+        "tag": "پروازها",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-trumps-will-be-blown-off-earth-warning-to-iran-as-fresh-attacks-put-ceasefire-under-strain-101777945092539.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-trumps-will-be-blown-off-earth-warning-to-iran-as-fresh-attacks-put-ceasefire-under-strain-101777945092539.html",
+        "image": null,
+        "timestamp": 1777953780.0
+    },
+    {
+        "title_fa": "ارزیابی اطلاعاتی آمریکا: زمان ساخت بمب هسته‌ای ایران پس از جنگ تغییر معناداری نکرده است",
+        "title_en": "Iran no further from nuclear weapon than before war, US intel agencies assess",
+        "summary": [
+            "طبق ارزیابی‌های اطلاعاتی آمریکا که به نقل از سه منبع مطرح شده، «زمان لازم برای ساخت سلاح هسته‌ای» ایران نسبت به تابستان گذشته ثابت مانده و پس از حمله آمریکا-اسرائیل هم به همان سطح برگشته است؛ این یعنی اثر بازدارندگی عملی حملات محدود بوده است.",
+            "منابع می‌گویند حملات اخیر که از ۲۸ فوریه آغاز شد عمدتاً اهداف نظامی متعارف را هدف گرفت، اما در عین حال به چند تأسیسات مهم هسته‌ای هم ضربه وارد شد؛ با این حال نتیجه اطلاعاتی نشان می‌دهد برای «مختل‌کردن جدی» برنامه هسته‌ای، فقط ضربه به سایت‌ها کافی نیست.",
+            "از دید اطلاعاتی، برای کاهش واقعی قابلیت ایران، یا باید «تخریب/حذف» ذخیره اورانیوم با غنای بالا (HEU) باقی‌مانده انجام شود، یا مسیر غنی‌سازی به شکلی ریشه‌ای متوقف شود؛ ضمن اینکه جنگ از ۷ آوریل با توافق آتش‌بس کند شده و ایران نیز مسیر تردد از تنگه هرمز را با اثرگذاری بر حدود ۲۰٪ عرضه جهانی نفت محدود کرده است."
+        ],
+        "impact": "ثابت ماندن جدول زمانی در ارزیابی آمریکا نشان می‌دهد حملات موجود—به‌ویژه بر سایت‌های غنی‌سازی—نتوانسته‌اند به سطحی برسند که تهدید را به‌طور قابل‌توجه به عقب براند.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/iran-no-further-to-nuclear-weapon-than-it-was-before-war-us-intel-agencies-assess/",
+        "clean_url": "https://www.timesofisrael.com/iran-no-further-to-nuclear-weapon-than-it-was-before-war-us-intel-agencies-assess",
+        "image": "http://www.bing.com/th?id=ONUT.MriqkSuZZ8MvDCIhJRh6RQ&pid=News",
+        "timestamp": 1777953780.0
+    },
+    {
         "title_fa": "محکومیت جهانی ایران پس از حمله به امارات با چارچوب «تشدید خطرناک»",
         "title_en": "‘Dangerous escalation’: World condemns Iran after attacks on UAE",
         "summary": [
@@ -124,6 +214,42 @@
         "clean_url": "https://www.msn.com/en-us/news/world/dangerous-escalation-world-condemns-iran-after-attacks-on-uae/ar-AA22oP3s",
         "image": null,
         "timestamp": 1777951350.0
+    },
+    {
+        "title_fa": "اقدام آمریکا برای باز کردن تنگه هرمز، آزمون شکنندگی آتش‌بس ایران را جدی کرد",
+        "title_en": "US attempt to open Strait of Hormuz tests fragile Iran war ceasefire",
+        "summary": [
+            "خبر می‌گوید آمریکا تلاش کرده تنگه هرمز را برای کشتیرانی تجاری «اجباری» باز کند که مستقیماً ریسک فعال شدن دوباره جنگ را بالا می‌برد.",
+            "هم‌زمان گزارش می‌کند آتش‌بس که به گفته خبر در حال تثبیت بود، روز سه‌شنبه «به‌نظر می‌رسد برقرار» است، اما همین وضعیت شکننده تحت فشار یک اقدام سخت‌گیرانه آمریکا قرار گرفته است.",
+            "همچنین اشاره می‌شود امارات متحده عربی درباره ادامه روند و وضعیت مربوط به آتش‌بس موضع داشته، که نشان می‌دهد مدیریت بحران صرفاً داخلی نیست و به هماهنگی منطقه‌ای هم گره خورده است."
+        ],
+        "impact": "اگر فشار آمریکا برای عبور امن تجاری با واکنش ایران هم‌پوشانی پیدا کند، آتش‌بس فعلی از سطح «برقراری ظاهری» به سمت تشدید سریع می‌رود.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-attempt-to-open-strait-of-hormuz-tests-fragile-iran-war-ceasefire/ar-AA22pQlk",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-attempt-to-open-strait-of-hormuz-tests-fragile-iran-war-ceasefire/ar-AA22pQlk",
+        "image": "http://www.bing.com/th?id=ONUT.SYcF_ixn2NGtdyy3spLqWA&pid=News",
+        "timestamp": 1777950655.0
+    },
+    {
+        "title_fa": "اولین حملات مشکوک ایران در دوران آتش‌بس با آمریکا همزمان با عملیات هدایت کشتی‌ها در تنگه هرمز",
+        "title_en": "U.S. and Iran Trade Attacks, Threatening Cease-Fire: What to Know",
+        "summary": [
+            "مقاله TIME از «اولین حملات مشکوک» ایران پس از آغاز آتش‌بس با آمریکا خبر می‌دهد؛ یعنی اهرم فشار و ریسک درگیری دوباره روشن شده است.",
+            "این رخداد همزمان با مأموریت ترامپ برای «راهنمایی» کشتی‌های گرفتار در تنگه هرمز مطرح شده که نشانه فشار عملیاتی-امنیتی بر مسیرهای حساس کشتیرانی است.",
+            "با توجه به اینکه متن صراحتاً تأکید می‌کند این حملات می‌توانند «آتش‌بس» را تهدید کنند، پیام اصلی افزایش بی‌ثباتی میدانی در کنار چانه‌زنی سیاسی است، نه صرفاً یک حادثه محدود."
+        ],
+        "impact": "افزایش احتمال فرسایش یا فروپاشی آتش‌بس، هم هزینه امنیت کشتیرانی در تنگه هرمز را بالا می‌برد و هم ریسک چرخه تلافی در سطح منطقه را تقویت می‌کند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/05/05/iran-us-war-ceasefire-attacks-trump-strait-hormuz-explainer-latest/",
+        "clean_url": "https://time.com/article/2026/05/05/iran-us-war-ceasefire-attacks-trump-strait-hormuz-explainer-latest",
+        "image": "http://www.bing.com/th?id=ONUT.wnBLAymG086lofoxxSV2sA&pid=News",
+        "timestamp": 1777945920.0
     },
     {
         "title_fa": "اوج فشار جنگی؛ واشنگتن و تل‌آویو برای «توافق کامل» با هدف مهار شدید توان‌های حساس ایران فشار را بالا برده‌اند",
@@ -214,6 +340,24 @@
         "clean_url": "https://www.kare11.com/article/syndication/associatedpress/analysis-1-month-into-war-iran-is-using-insurgent-tactics-and-holding-the-world-economy-hostage/616-904d5bf2-610c-4d90-9ef4-4b463b95268e",
         "image": null,
         "timestamp": 1777939194.0
+    },
+    {
+        "title_fa": "اخطار تشدید تنش در تنگه هرمز؛ ادعای نقض آتش‌بس از سوی آمریکا و تبادل شلیک بین نیروهای ایرانی و مسیر هدایت‌شده توسط نیروی دریایی آمریکا",
+        "title_en": "Iran War Live Updates: Iranian Official Warns of Escalation in Strait of Hormuz Standoff",
+        "summary": [
+            "محمدباقر قالیباف، مذاکره‌کننده ارشد ایران، اتهام «نقض آتش‌بس شکننده» را متوجه آمریکا کرد و ادعا نمود که ایالات متحده اقدام‌های خود را از چارچوب توافق خارج کرده است.",
+            "بر اساس گزارش، نیروهای ایرانی به شناورها شلیک کردند؛ در همان زمان نیروی دریایی آمریکا از طریق «هدایت» مسیر، در تنگه هرمز در جریان عبور کشتی‌ها نقش داشته است.",
+            "این روایت عملاً نشان می‌دهد که ریسک محاسبه‌نشده بین نیروهای دریایی دو طرف در یک گلوگاه حیاتی (تنگه هرمز) بالا رفته و هرگونه رخداد می‌تواند به چرخه تشدید فوری تبدیل شود."
+        ],
+        "impact": "این وضعیت احتمال افزایش تنش دریایی و گسترش سریع درگیری را بالا می‌برد، چون ادعاهای متقابل درباره «نقض آتش‌بس» با اقدام عملی شلیک همراه شده است.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
+        "clean_url": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
+        "image": "http://www.bing.com/th?id=ONUT.vhoC5haOO6FGf5CO71p22Q&pid=News",
+        "timestamp": 1777938900.0
     },
     {
         "title_fa": "ایران حمله موشکی به امارات را از سر گرفت؛ نخستین حمله پس از حدود یک ماه",
@@ -5254,149 +5398,5 @@
         "clean_url": "https://time.com/article/2026/04/30/iran-war-nuclear-capabilities-trump-deal-strait-of-hormuz",
         "image": "http://www.bing.com/th?id=ONUT.Zw5AWbh4rwYIRiyHBX9u3A&pid=News",
         "timestamp": 1777549620.0
-    },
-    {
-        "title_fa": "افزایش لفاظی هسته‌ای/موشکی در تهران؛ تهدید مستقیم علیه آمریکا بدون نشانه عملی",
-        "title_en": "Iran’s leader vows to protect nuclear and missile capabilities, calls U.S. ‘great Satan’",
-        "summary": [
-            "رهبر ایران در واکنش به فشارهای خارجی، «حفاظت» از توان هسته‌ای و موشکی را وعده داد و آمریکا را با عنوان «شیطان بزرگ» خطاب کرد؛ یک پیام سیاسی-تهدیدآمیز با تمرکز بر حفظ بازدارندگی.",
-            "این موضع‌گیری با فضای تبلیغاتی داخلی همراه است (تصاویر و روایت راهپیمایی دولتی برای حمایت از رهبری)، که نشان می‌دهد رژیم برای مدیریت افکار عمومی به چارچوب تهدید خارجی متکی می‌ماند.",
-            "در متن گزارش، هیچ اقدام اجرایی مشخص یا داده جدید درباره پیشرفت واقعی برنامه هسته‌ای/موشکی، پاسخ عملی به تحریم‌ها، یا تغییرات میدانی ارائه نشده؛ بنابراین اثر فوری بیشتر در سطح پیام‌رسانی است تا اقدام."
-        ],
-        "impact": "این اظهارات فعلاً یک ابزار بسیج داخلی و کنترل روایت تهدید است، اما چون اقدام عملی جدید گزارش نشده، اثر فوری آن بیشتر روانی/سیاسی تا عملی خواهد بود.",
-        "tag": "تهدید",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "PennLive",
-        "url": "https://www.pennlive.com/politics/2026/04/irans-leader-vows-to-protect-nuclear-and-missile-capabilities-calls-us-great-satan.html",
-        "clean_url": "https://www.pennlive.com/politics/2026/04/irans-leader-vows-to-protect-nuclear-and-missile-capabilities-calls-us-great-satan.html",
-        "image": "http://www.bing.com/th?id=ONUT.xj3OrxgcfEMmLyt5KLN-Tw&pid=News",
-        "timestamp": 1777548780.0
-    },
-    {
-        "title_fa": "نزدیک‌شدن جنگ ایران به مهلت ۶۰روزه؛ کنگره و ترامپ بین ادامه فشار یا تغییر مسیر گیر کرده‌اند",
-        "title_en": "As Iran war nears key 60-day deadline, Congress and Trump face choices on next steps",
-        "summary": [
-            "گزارش CBS News می‌گوید جنگ ایران به یک «مهلت ۶۰روزه» نزدیک می‌شود و حالا کنگره و ترامپ باید درباره گام‌های بعدی تصمیم بگیرند؛ محور مسئله، انتخاب بین تداوم سیاست فعلی یا تنظیم مجدد مسیر است.",
-            "این چارچوب زمانی به‌عنوان نقطه‌عطف سیاسی مطرح می‌شود؛ یعنی تصمیم‌گیری در واشنگتن قرار است مستقیماً بر شدت و جهت فشارهای خارجی اثر بگذارد، نه صرفاً یک بحث اداری کم‌اهمیت.",
-            "جزئیات در متن ارسالی محدود است، اما خودِ مفهوم مهلت ۶۰روزه نشان می‌دهد که رژیم با فشار خارجیِ مرحله‌ای مواجه است و فضای مانور سیاستمدارها برای تأخیر یا تغییر تاکتیک به‌سرعت کاهش می‌یابد."
-        ],
-        "impact": "مهلت ۶۰روزه، احتمال تغییر سیاست واشنگتن را بالا می‌برد و می‌تواند فشار خارجی را یا تشدید کند یا شکل آن را عوض کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1EV0w0dVNlbXhWYUp6VVpqN054dGxCRkotUTZMX09sVHN2bkhqZUFCWmNwdmhGZFROOEtTdnowa2FMNmpZMExaNFk1LXNMUzFTNUsyRGhqaGZTOHUwdEpQc191ZVNfem01d2oyWTEwVnFIRU81ekZxNmJfM09Rd2hDYmtnRG1DSnoxbHJ4R2_SAZYBQVVfeXFMT1RBR0huMUR6QUZoTXU1cjZCYnZZY05GaGg2dUJ0UWMzRXI3QTNoSDFvYmRhMlMzRUh3dXozR3BvblJPdGsydVJYTjNMLW55MmptQXdTODlXMi05U19sS1ZXYlFPVHZSNmxMbkc2OGRqbE1zUEZQVGVldWw1dDdZLVQtM0lYc00zUUkwMUMwM01tT2RYUlpB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk1EV0w0dVNlbXhWYUp6VVpqN054dGxCRkotUTZMX09sVHN2bkhqZUFCWmNwdmhGZFROOEtTdnowa2FMNmpZMExaNFk1LXNMUzFTNUsyRGhqaGZTOHUwdEpQc191ZVNfem01d2oyWTEwVnFIRU81ekZxNmJfM09Rd2hDYmtnRG1DSnoxbHJ4R2_SAZYBQVVfeXFMT1RBR0huMUR6QUZoTXU1cjZCYnZZY05GaGg2dUJ0UWMzRXI3QTNoSDFvYmRhMlMzRUh3dXozR3BvblJPdGsydVJYTjNMLW55MmptQXdTODlXMi05U19sS1ZXYlFPVHZSNmxMbkc2OGRqbE1zUEZQVGVldWw1dDdZLVQtM0lYc00zUUkwMUMwM01tT2RYUlpB",
-        "image": null,
-        "timestamp": 1777547521.0
-    },
-    {
-        "title_fa": "پیامدهای جنگ ایران تازه شروع شده؛ اعلام بازگشایی تنگه هرمز به‌عنوان آزمون فشار و کنترل",
-        "title_en": "The Iran War’s Ramifications Have Only Just Begun",
-        "summary": [
-            "طبق گزارش، دونالد ترامپ در ۱۷ آوریل در Truth Social به اعلام تهران درباره بازگشایی تنگه هرمز برای تردد تجاری واکنش نشان داده؛ این یعنی پرونده تنش دریایی وارد فاز جدیدی از محاسبه و آزمایش قدرت می‌شود.",
-            "در چارچوب «فشار خارجی/تحریم»، چنین اعلامی می‌تواند کوتاه‌مدت سیگنال کاهش ریسک برای تجارت باشد، اما لزوماً به معنای تغییر پایدار رفتار نیست و عملاً کارکرد آن می‌تواند مدیریت هزینه‌های بین‌المللی و زمان‌خریدن برای رژیم باشد.",
-            "از نظر «پروتست داخلی/اقتصاد»، این‌که حتی ترامپ روی همین اعلان دست می‌گذارد، نشان می‌دهد اقتصاد و بازار به ریسک‌های ژئوپلیتیک حساس است؛ بازگشایی یا تهدید دوباره انسداد تنگه می‌تواند نوسان فوری در هزینه‌های انرژی و تجارت ایجاد کند، بدون اینکه مشکلات ساختاری حکمرانی رفع شود."
-        ],
-        "impact": "بازگشایی اعلامی تنگه هرمز بیشتر یک نقطه چرخش تاکتیکی در جنگ اقتصادی و دریایی است تا تضمین واقعی، و اثرات آن می‌تواند در موج‌های بعدی به تشدید یا کنترل ریسک‌ها برون‌مرزی و اقتصادی بیانجامد.",
-        "tag": "تنگه",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/04/the-iran-wars-ramifications-have-only-just-begun/687004/",
-        "clean_url": "https://www.theatlantic.com/national-security/2026/04/the-iran-wars-ramifications-have-only-just-begun/687004",
-        "image": "http://www.bing.com/th?id=ONUT.9Cm1kfIudS2FEGH3sSjb3Q&pid=News",
-        "timestamp": 1777546740.0
-    },
-    {
-        "title_fa": "گزارش از قاچاق نفت ایران با تانکرهایی که خود را شبیه کشتی‌های عراقی نشان می‌دهند",
-        "title_en": "Iran reportedly smuggling oil past blockade by uses tankers posing as Iraqi ships",
-        "summary": [
-            "بر اساس گزارش «BizPac Review»، تانکرهای نفتی ایران با تغییر/پنهان‌سازی موقعیت برای شبیه‌سازی به کشتی‌های عراقی تلاش می‌کنند از «محاصره/بلوکه» مرتبط با سیاست دونالد ترامپ عبور کنند.",
-            "ادعا بر این است که این روش، برای دور زدن نظارت دریایی و کاهش احتمال شناسایی به کار گرفته می‌شود؛ یعنی مسیر و هویت ظاهری کشتی عمداً جعل می‌شود.",
-            "در متن به شرکت «Windward» به‌عنوان مرجع مرتبط با رصد و تحلیل دریایی اشاره شده، اما هیچ جزئیات تاییدشده‌ای از میزان محموله یا موفقیت/شکست عملیات ارائه نمی‌شود."
-        ],
-        "impact": "اگر این الگو واقعی باشد، نشان می‌دهد فشار خارجی صرفاً با «کم‌اثر شدن» مواجه نشده بلکه رژیم با مهندسی عملیات لجستیکی در حال سازگاری برای حفظ درآمد نفتی است.",
-        "tag": "تحریم‌ها",
-        "urgency": 7,
-        "sentiment": -0.25,
-        "source": "BizPac Review",
-        "url": "https://www.bizpacreview.com/2026/04/30/iran-reportedly-smuggling-oil-past-blockade-by-uses-tankers-posing-as-iraqi-ships-1636064/",
-        "clean_url": "https://www.bizpacreview.com/2026/04/30/iran-reportedly-smuggling-oil-past-blockade-by-uses-tankers-posing-as-iraqi-ships-1636064",
-        "image": null,
-        "timestamp": 1777546260.0
-    },
-    {
-        "title_fa": "جلسه بازجویی سنای آمریکا از هگستث و دن کین درباره جنگ با ایران و اثر احتمالی بلوکِ هرمز بر بازار نفت",
-        "title_en": "Hegseth, Caine face Senate grilling on Iran war as Hormuz blockade rattles oil markets",
-        "summary": [
-            "پیت هگستث، وزیر جنگ، و دن کین، ژنرال، در برابر پرسش‌های سناتورها قرار گرفتند؛ موضوعات شامل جنگ با ایران، هزینه‌های عملیات «Epic Fury» و نیز هزینه‌های بودجه پنتاگون بود.",
-            "بخش مشخص جلسه به «بلوکِ هرمز» و پیامد آن بر بازار نفت اختصاص داشت؛ یعنی سنای آمریکا این بحران را به‌صورت مستقیم به نوسان قیمت نفت و ریسک اختلال در مسیرهای کشتیرانی پیوند داده است.",
-            "سناتورها هم‌زمان درباره روند «صحبت‌های صلح» پرسش کردند؛ اما محور ملموس این گزارش، نگرانی از تشدید تنش و بازتاب اقتصادی آن در قیمت انرژی است، نه نتیجه قطعی مذاکرات."
-        ],
-        "impact": "این گزارش نشان می‌دهد که مجلس آمریکا «بلوک هرمز» را یک عامل محرک نوسان بازار نفت می‌بیند و هم‌زمان درباره هزینه و مدیریت جنگ با ایران فشار نظارتی افزایش می‌یابد.",
-        "tag": "ایران",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/pentagon-senate-iran-war-hormuz-blockade-oil-prices-april-30",
-        "clean_url": "https://www.foxnews.com/live-news/pentagon-senate-iran-war-hormuz-blockade-oil-prices-april-30",
-        "image": "http://www.bing.com/th?id=ONUT.DdsksxNOpHcEPIm6wkunwg&pid=News",
-        "timestamp": 1777545840.0
-    },
-    {
-        "title_fa": "تهدید مستقیم به آمریکا و تلاش برای جلب رضایت کشورهای خلیج توسط خامنه‌ای",
-        "title_en": "In defiant message, Iran’s Khamenei threatens US but appeals to Gulf",
-        "summary": [
-            "علی خامنه‌ای در سومین پیام پس از آغاز دوره رهبری، به‌طور علنی به آمریکا حمله کرده و وعده داده «خلیج را از حضور آمریکا پاک کند».",
-            "هم‌زمان همین پیام حامل رویکرد جذب/تنظیم رابطه با کشورهای حوزه خلیج فارس است؛ یعنی هم تهدید بیرونی را نگه می‌دارد و هم در پی کاهش هزینه‌های خارجی برای خود در منطقه می‌کوشد.",
-            "این ترکیب پیامِ تقابلی با آمریکا و پیامِ موازنه‌جویانه برای خلیج، بیشتر نشان‌دهنده تلاش برای بقا از مسیر مدیریت تصویر و اهرم‌سازی منطقه‌ای است تا تغییر واقعی در سیاست‌های راهبردی."
-        ],
-        "impact": "این پیام با بالا بردن ریسک تنش لفظی با آمریکا و هم‌زمان تلاش برای کنترل واکنش بازیگران خلیج، می‌تواند فضای منطقه را پرتنش‌تر کند بدون اینکه الزاماً به اقدام میدانی فوری منجر شود.",
-        "tag": "تهدید",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Al-Monitor",
-        "url": "https://www.al-monitor.com/originals/2026/04/defiant-message-irans-khamenei-threatens-us-appeals-gulf",
-        "clean_url": "https://www.al-monitor.com/originals/2026/04/defiant-message-irans-khamenei-threatens-us-appeals-gulf",
-        "image": "http://www.bing.com/th?id=ONUT.SxCDskr-kJyMYM4OvqXfmA&pid=News",
-        "timestamp": 1777545600.0
-    },
-    {
-        "title_fa": "مقام عالی ایران: رد مطالبات ترامپ و تهدید به حفظ برنامه هسته‌ای/موشکی و بستن تنگه هرمز",
-        "title_en": "Iran’s injured supreme leader rejects Trump’s demands, vows to keep nuclear, missile systems intact",
-        "summary": [
-            "مقام عالی ایران (مجتبی خامنه‌ای) در بیانیه‌ای که از سوی رسانه‌های دولتی منتشر شد، شروط ترامپ را رد کرد و تصریح کرد برنامه‌های هسته‌ای و موشکی و دیگر توانمندی‌های فناورانه «دارایی ملی» است و حفظ خواهد شد؛ هم‌زمان آمریکا را با عبارت‌های تند درباره حضور در خلیج فارس هدف گرفت.",
-            "او همچنین به ناو‌بَند آمریکا بر بنادر ایران حمله کرد و در ادامه پیام، به‌طور ضمنی تهدید کرد که «فصل جدیدی» در خلیج فارس آغاز می‌شود و کنترل تنگه هرمز همچنان در دست ایران می‌ماند.",
-            "در متن خبر، پیوند این موضع با هدف اعلامی ترامپ برای جلوگیری از دستیابی ایران به سلاح هسته‌ای مطرح شده و ادعا شده حدود ۹۰۰ پوند اورانیوم غنی‌شده در داخل کشور وجود دارد؛ ایران نیز همان‌طور که ادعا می‌کند، استفاده نظامی از اورانیوم را رد می‌کند."
-        ],
-        "impact": "این موضع‌گیری، بن‌بست مذاکراتی با فشار آمریکا را تشدید می‌کند و ریسک جهش تنش در تنگه هرمز—محور عبور حدود ۲۰٪ نفت جهان—را بالا می‌برد.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/04/30/world-news/irans-injured-supreme-leader-vows-to-keep-nuclear-missile-systems-intact/",
-        "clean_url": "https://nypost.com/2026/04/30/world-news/irans-injured-supreme-leader-vows-to-keep-nuclear-missile-systems-intact",
-        "image": "http://www.bing.com/th?id=ONUT.60bq0UPxiKjZK0ktQbNzVQ&pid=News",
-        "timestamp": 1777543380.0
-    },
-    {
-        "title_fa": "اختلاف سناتورها بر سر جنگ با ایران و پیامدهای برکناری‌های پنتاگون",
-        "title_en": "Hegseth faces Senate lawmakers split over Iran war, Pentagon firings",
-        "summary": [
-            "در پی یک جلسه طولانی مجلس نمایندگان، وزیر دفاع در برابر دموکرات‌ها بر سر جنگ با ایران درگیر تنش سیاسی شد و همان محور به سنای آمریکا کشیده شد.",
-            "در جلسه سنای آمریکا، هگست با نمایندگان دچار شکاف شده است؛ یعنی حمایت یا مخالفت درباره مسیر جنگ و نحوه مدیریت دفاعی پنتاگون یکدست نیست.",
-            "همزمان با بحث درباره جنگ با ایران، محور دیگر این استماع «برکناری‌ها/پاکسازی» میان مدیران ارشد نظامی پنتاگون است که از نگاه قانونگذاران می‌تواند انسجام فرماندهی و توان عملیاتی را تحت‌تأثیر بگذارد."
-        ],
-        "impact": "این شکاف در سطح قانونگذاری می‌تواند باعث کند شدن تصمیم‌گیری، افزایش فشار برای پاسخ‌گویی درباره رویکرد جنگ با ایران و تضعیف هماهنگی نهادی در پنتاگون شود.",
-        "tag": "ایران",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/hegseth-faces-senate-lawmakers-split-over-iran-war-pentagon-firings/ar-AA226Ebo",
-        "clean_url": "https://www.msn.com/en-us/news/politics/hegseth-faces-senate-lawmakers-split-over-iran-war-pentagon-firings/ar-AA226Ebo",
-        "image": "http://www.bing.com/th?id=ONUT.kEPVr_apSgxObaHRcUyWhA&pid=News",
-        "timestamp": 1777542668.0
     }
 ]
