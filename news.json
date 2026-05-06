@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "درس‌های ناکافی‌ِ توافق‌های «به‌ظاهر» هسته‌ای از جنگ ایران",
+        "title_en": "Better-Than-Nothing Deals: Three Nuclear Security Lessons From the Iran War",
+        "summary": [
+            "این گزارش روی «توافق‌های بهتر از هیچ» متمرکز است و می‌گوید حتی راه‌حل‌های ناقص هم می‌توانند تا حدی ریسک هسته‌ای را کنترل کنند—نه اینکه مشکل را حل کنند.",
+            "سه «درس» امنیت هسته‌ای مطرح می‌کند، با این محور که طراحی سازوکارهای نظارت، پایش و اجرای عملی، تعیین‌کننده‌تر از صرفِ اعلام سیاسی است.",
+            "جمع‌بندی گزارش این است که در پرونده هسته‌ای ایران، هر توافقی که از تضمین‌های اجرایی و نظارت‌پذیری واقعی برخوردار نباشد، محدودیت زمانی دارد و اثر بازدارندگی‌اش شکننده می‌ماند."
+        ],
+        "impact": "این تحلیل نشان می‌دهد امنیت هسته‌ای بدون مکانیزم‌های جدی نظارت و اجرای قابل‌سنجش، صرفاً مدیریت موقت ریسک خواهد بود.",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/articles/better-than-nothing-deals-three-nuclear-security-lessons-from-the-iran-war",
+        "clean_url": "https://www.cfr.org/articles/better-than-nothing-deals-three-nuclear-security-lessons-from-the-iran-war",
+        "image": null,
+        "timestamp": 1778099112.0
+    },
+    {
+        "title_fa": "آتش‌زدن نفتکش ایرانی توسط آمریکا؛ اهرم‌فشار ترامپ برای توافق پایان جنگ",
+        "title_en": "US fires on Iranian oil tanker as Trump pressures Tehran for deal to end war",
+        "summary": [
+            "خبرگزاری AP اعلام می‌کند آمریکا به یک نفتکش ایرانی شلیک کرده است؛ اقدام مستقیم در مسیر تجارت نفت و در چارچوب فشار واشنگتن بر تهران برای رسیدن به توافق مطرح شده توسط ترامپ.",
+            "این رخداد در متنِ فشار سیاسی-امنیتی ترامپ به ایران برای دست‌یابی به «توافق» جهت پایان جنگ قرار گرفته و نشان می‌دهد واشنگتن از سطح تهدید و تحریم به سطح برخورد عملیاتی هم نزدیک شده است.",
+            "از آنجا که این حمله علیه یک دارایی تجاری/نفتی رخ داده، اثر فوری می‌تواند تشدید ریسک کشتیرانی، محدود شدن صادرات واقعی و افزایش هزینه‌های عملیاتی برای بازیگران مرتبط با ایران باشد."
+        ],
+        "impact": "شلیک آمریکا به نفتکش ایرانی می‌تواند بی‌ثباتی فوری در مسیرهای صادرات نفت، بالا رفتن ریسک در کریدورهای دریایی و تقویت چرخه فشار-پاسخ میان تهران و واشنگتن را در پی داشته باشد.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXpOYTBfMDBEV2NQWUZwcmI1TEJJR21DNHVsTTNnQm41MC1MZ0ZSWUh2cFYwOTBkRmhrcUluQTRLWnMtYTdPWXFHUXZQWExIZFktRnZGVkZERTVTRTFtdDRCQnhTeVhFUzNnSWlxbzI3dHY1MG1hMUZmZDdHVjVwbXpJU0VpZVhzZUo1UzJMRV9HTDlQeEN3QVlhUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMXpOYTBfMDBEV2NQWUZwcmI1TEJJR21DNHVsTTNnQm41MC1MZ0ZSWUh2cFYwOTBkRmhrcUluQTRLWnMtYTdPWXFHUXZQWExIZFktRnZGVkZERTVTRTFtdDRCQnhTeVhFUzNnSWlxbzI3dHY1MG1hMUZmZDdHVjVwbXpJU0VpZVhzZUo1UzJMRV9HTDlQeEN3QVlhUQ",
+        "image": null,
+        "timestamp": 1778094960.0
+    },
+    {
+        "title_fa": "آمریکا و ایران می‌گویند به چارچوب توافق دائمی نزدیک شده‌اند؛ همزمان ترامپ تهدیدهای بمب را از سر گرفته است",
+        "title_en": "US, Iran said closing in on framework for permanent deal, as Trump renews bomb threats",
+        "summary": [
+            "طبق گزارش تایمز اسرائیل، آمریکا و ایران ادعا کرده‌اند که در مسیر رسیدن به چارچوب یک توافق دائمی هستند، اما جزئیات روشن از متن و زمان‌بندی در گزارش ارائه نشده است.",
+            "در همین بازه، ترامپ تهدیدهای بمب را دوباره مطرح کرده که نشان‌دهنده تشدید فضای تهدید و فشار روانی علیه طرف مقابل است، نه صرفاً یک روند فنی دیپلماتیک.",
+            "ترکیب «گفت‌وگوی چارچوب‌محور» با «تهدید بمب» بیانگر یک الگوی اهرم‌فشاری است: مذاکره برای کاهش هزینه‌ها در کنار اقدامات تبلیغاتی/تهدیدی برای محدود کردن مانور سیاسی و امنیتی طرف ایرانی."
+        ],
+        "impact": "این وضعیت می‌تواند هم‌زمان مسیر مذاکره را پیش ببرد و اما سطح بی‌ثباتی و خطر ادراک‌شده را بالا نگه دارد، چون تهدید امنیتی هم‌پوشانی با مذاکرات را به ابزار فشار تبدیل می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/world/us-iran-said-closing-in-on-framework-for-permanent-deal-as-trump-renews-bomb-threats/ar-AA22xbtY",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-said-closing-in-on-framework-for-permanent-deal-as-trump-renews-bomb-threats/ar-AA22xbtY",
+        "image": null,
+        "timestamp": 1778090500.0
+    },
+    {
         "title_fa": "تجزیه‌وتحلیل: سوءبرداشت‌های رایج درباره گزارش اطلاعاتی آمریکا درباره تهدید هسته‌ای ایران",
         "title_en": "What is everyone misunderstanding about US intelligence report on Iran nuclear threat? - analysis",
         "summary": [
@@ -144,6 +198,24 @@
         "timestamp": 1778078321.0
     },
     {
+        "title_fa": "ترامپ برای توجیه جنگ با ایران از نظرات یک قهرمان UFC استفاده کرد و گفت «در وضعیت خوبی هستیم»",
+        "title_en": "Trump leans on UFC fighter to support his Iran war stance: ‘We’re in good shape’",
+        "summary": [
+            "ترامپ در دفتر بیضی، همزمان با پرسش درباره روند مذاکرات برای پایان درگیری دوماهه با ایران، مجموعه ادعاهای تکرارشونده درباره «وضعیت خوب» نیروهای نظامی تهران و این‌که بازسازی آن دو دهه زمان می‌خواهد را مطرح کرد و سپس نظر Justin Gaethje را برای تأیید گرفت.",
+            "به گفته متن، گاتچی در پاسخ گفت «عالی»؛ ترامپ نیز پس از آن تکرار کرد «در وضعیت خوبی هستیم» و مدعی شد طی ۲۴ ساعت گذشته «گفت‌وگوهای خیلی خوبی» با تهران داشته‌اند و احتمال توافق «خیلی ممکن» است.",
+            "ترامپ برای توجیه ادعای «گفت‌وگوهای خیلی خوب» آمار ارائه نکرد و بیشتر با ادبیات تحریک‌آمیز درباره «غرور» طرف ایرانی سخن گفت؛ همچنین به روایت متن، وارد بخش‌های طولانی دیگری درباره عملیات جداگانه آمریکا علیه نیکلاس مادورو و رشد بازار سهام شد."
+        ],
+        "impact": "این گزارش نشان می‌دهد ترامپ به‌جای داده و مسیر قابل‌سنجش، برای مشروعیت‌بخشی به جنگ و مذاکرات، به اعتبار نمایشی و اظهارنظر یک چهره ورزشی تکیه می‌کند و این می‌تواند ریسک تداوم بی‌ثباتی را در مسیر «توافق» بالا ببرد.",
+        "tag": "ایران",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-leans-ufc-fighter-support-201537536.html",
+        "clean_url": "https://www.aol.com/articles/trump-leans-ufc-fighter-support-201537536.html",
+        "image": "http://www.bing.com/th?id=ONUT.gI-WXYRltM-xsJFbQ7gd8A&pid=News",
+        "timestamp": 1778075460.0
+    },
+    {
         "title_fa": "درگیری ایران: داده‌محور با اتکای ناقص به منبع Ipsos",
         "title_en": "The Iran Conflict",
         "summary": [
@@ -162,6 +234,24 @@
         "timestamp": 1778070048.0
     },
     {
+        "title_fa": "ایران بررسی پیشنهاد تازه آمریکا برای پایان جنگ در خلیج را آغاز کرده، اما شروط اصلی همچنان دست‌نخورده مانده است",
+        "title_en": "Iran reviewing US proposal to end war, though key demands remain unaddressed",
+        "summary": [
+            "طبق گزارش رویترز، تهران اعلام کرده در حال بررسی پیشنهاد جدید آمریکا برای پایان جنگ در خلیج است و همزمان منابع از نزدیک‌شدن واشینگتن و تهران به یک یادداشت یک‌صفحه‌ای خبر داده‌اند؛ اما «مسائل دشوار» بدون پاسخ مانده‌اند.",
+            "گفته شده اختلاف‌های کلیدی هنوز در پیشنهاد جدید پوشش داده نشده‌اند، یعنی حتی اگر متن توافق اولیه فشرده شود، گره‌های واقعی سیاست امنیتی و سازوکار پایان درگیری حل نشده باقی می‌ماند.",
+            "با توجه به اینکه ایران مرحله «بررسی» را مطرح کرده، این تحول بیشتر نشانه‌ای از تلاش برای مدیریت تنش است تا یک جمع‌بندی نهایی؛ در نتیجه احتمال کش‌وقوس و شرط‌گذاری دوباره بالاست."
+        ],
+        "impact": "این روند می‌تواند موقتاً کانال‌های گفت‌وگو را باز نگه دارد، اما چون شروط اصلی هنوز برطرف نشده، خطر تداوم بی‌ثباتی در خلیج و شکست یا تعویق توافق واقعی همچنان بالاست.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/china/iran-says-it-wants-comprehensive-agreement-with-us-2026-05-06/",
+        "clean_url": "https://www.reuters.com/world/china/iran-says-it-wants-comprehensive-agreement-with-us-2026-05-06",
+        "image": null,
+        "timestamp": 1778069340.0
+    },
+    {
         "title_fa": "ترامپ: اگر ایران به توافق صلح تن ندهد، بمباران در سطحی بسیار بالاتر انجام می‌شود",
         "title_en": "Trump says Iran will be bombed 'at much higher level' if they don't agree peace deal",
         "summary": [
@@ -178,6 +268,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGaTlXUmZjME1HT01TMm0yZTcxNzk2Q3FRY01CLTZuQmJwdkItZzJkQ3YzU0xzUndTSnM3QURUZnlub0tuOFphT1piOXRpM2ZtbFZaTG1aSVc2SmNEVl93VnprRTlSMkI2M0FXQ3pyU08xUFFabVR2UDUzWWtWb3fSAYQBQVVfeXFMUGlLNDNYbjU0bmJiVE9EZUJBX2NTOWZyZ3dULXRWeUk1ek85ci1OaE1JVEREanZfNElBM19BWkNPdlFFaWhwOUt4QWg2dUVaRUhGdjh1SzVhWmRTek5hYmotQmNnV2ZoUHZzblhoTE5NX3FzaHI3VEZ2Q3pxVmtIM1dUSUkt",
         "image": null,
         "timestamp": 1778068715.0
+    },
+    {
+        "title_fa": "گزارش از مذاکرات آمریکا و ایران برای پایان جنگ؛ هم‌زمان تهدیدهای تازه ترامپ",
+        "title_en": "Reports: US., Iran working on plan to end war; Trump renews threats",
+        "summary": [
+            "طبق گزارش UPI از MSN، منابع از ادامه مذاکرات میان آمریکا و ایران برای رسیدن به طرح پایان جنگ خبر داده‌اند و روند گفت‌وگو همچنان جریان دارد.",
+            "هم‌زمان با این خبر مذاکراتی، ترامپ تهدیدهای خود را تمدید کرده است؛ یعنی فشار سیاسی/امنیتی در کنار مسیر مذاکره فعال مانده است.",
+            "جزئیات طرح، چارچوب توافق، یا شروط طرفین در متن ارائه نشده، اما خودِ هم‌زمانی مذاکره و تهدید نشان می‌دهد که طرفین بیشتر در پی اعمال اهرم فشار و معامله بر سر امتیاز هستند تا حصول توافق فوری."
+        ],
+        "impact": "ترکیبِ مذاکره در جریان با تهدیدهای تازه احتمالاً به جای کاهش ناگهانی تنش، آن را به مرحله معامله‌محور و پرریسک‌تر می‌برد.",
+        "tag": "مذاکرات",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "UPI on MSN",
+        "url": "https://www.msn.com/en-us/news/world/reports-us-iran-working-on-plan-to-end-war-trump-renews-threats/ar-AA22x4bl",
+        "clean_url": "https://www.msn.com/en-us/news/world/reports-us-iran-working-on-plan-to-end-war-trump-renews-threats/ar-AA22x4bl",
+        "image": "http://www.bing.com/th?id=ONUT.iNybYnlrfd6ONw70vV1Z4g&pid=News",
+        "timestamp": 1778068102.0
+    },
+    {
+        "title_fa": "تهدید ترامپ به بمباران شدید در صورت نرسیدن به توافق با ایران",
+        "title_en": "Trump threatens intense bombing if Iran peace deal not reached",
+        "summary": [
+            "طبق گزارش، مذاکرات میان واشنگتن و تهران ادامه دارد و در عین حال دو طرف بر سر «آنچه توافق شده» اختلاف دارند؛ یعنی شکاف اصلی همچنان بر سر جزئیات و برداشت‌هاست، نه فقدان گفت‌وگو.",
+            "ترامپ مستقیماً تهدید می‌کند اگر توافق صلح حاصل نشود، اقدام نظامی شدید در دستور قرار می‌گیرد؛ این یعنی فشار از سطح دیپلماتیک به سطح قابلیت عملیاتی ارتقا می‌یابد.",
+            "عدم هم‌پوشانی در محتوای توافق، ریسک شکست مذاکره و در نتیجه افزایش احتمال سناریوی حمله را بالا می‌برد؛ پیام گزارش این است که زمان مذاکره به ابزار فشار تبدیل شده، نه راه‌حل پایدار."
+        ],
+        "impact": "این نوع تهدید، احتمال تشدید تنش و کوتاه‌شدن پنجره توافق را افزایش می‌دهد و ریسک محاسبه‌گری اشتباه را بالا می‌برد.",
+        "tag": "تهدید_نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-threatens-intense-bombing-if-iran-peace-deal-not-reached/ar-AA22qAxU",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-threatens-intense-bombing-if-iran-peace-deal-not-reached/ar-AA22qAxU",
+        "image": "http://www.bing.com/th?id=ONUT.JOHbUFDxMz8MLx6xc_BMwA&pid=News",
+        "timestamp": 1778067741.0
     },
     {
         "title_fa": "آمریکا و ایران به توافق یک‌صفحه‌ای برای پایان جنگ نزدیک می‌شوند؛ پاسخ ظرف ۴۸ ساعت",
@@ -5272,131 +5398,5 @@
         "clean_url": "https://www.nbcnews.com/politics/trump-administration/live-blog/iran-war-60-day-authorization-threshold-trump-hegseth-congress-rcna343015",
         "image": "http://www.bing.com/th?id=ONUT.9tK9ymR7QCbOChWYrWRheQ&pid=News",
         "timestamp": 1777662660.0
-    },
-    {
-        "title_fa": "اظهار رئیس آمریکا درباره ترجیح ندادن به ازسرگیری حملات هوایی علیه ایران",
-        "title_en": "US leader says he'd prefer not to resume airstrikes on Iran",
-        "summary": [
-            "خبرگزاری TASS گزارش می‌دهد که رئیس آمریکا گفته ترجیح می‌دهد حملات هوایی علیه ایران ازسرگیری نشود؛ یعنی پیام سیاسیِ کاهش‌تنش در دستور کار آمریکا قرار گرفته است.",
-            "چون جزئیات عملیاتی، زمان‌بندی یا توافق مشخص در متن TASS ذکر نشده، این اظهارنظر بیشتر جنبه سیگنال‌سازی سیاسی دارد تا یک تغییر تضمینی در سیاست امنیتی.",
-            "این نوع پیام‌ها معمولاً می‌تواند موقتاً ریسک درگیری را پایین بیاورد، اما به‌خودی‌خود نشانه‌ای از رفع فشار ساختاری یا تغییر واقعی در رفتار طرفین ارائه نمی‌کند."
-        ],
-        "impact": "این اظهارنظر در کوتاه‌مدت ریسک تشدید نظامی را کاهش می‌دهد، اما بدون پیگیری مشخص، اثر آن روی روند واقعی فشار سیاسی و امنیتی محدود خواهد ماند.",
-        "tag": "آمریکا",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "TASS Russian News Agency",
-        "url": "https://tass.com/world/2125395",
-        "clean_url": "https://tass.com/world/2125395",
-        "image": null,
-        "timestamp": 1777662300.0
-    },
-    {
-        "title_fa": "ایران از مسیر میانجی‌های پاکستان «پیشنهاد صلح» بازنگری‌شده برای آمریکا فرستاده؛ پس از رد پیشنهاد قبلی توسط ترامپ",
-        "title_en": "US Iran war news LIVE: Iran sends latest proposal to US via Pakistani mediators",
-        "summary": [
-            "به گفته گزارش Hindustan Times، میانجی‌های پاکستانی امروز «پیشنهاد صلح» بازنگری‌شده‌ای را از سوی ایران دریافت کرده‌اند؛ اقدامی که بعد از رد پیشنهاد قبلی توسط دونالد ترامپ انجام شده است.",
-            "این رویداد به‌صورت مستقیم در چارچوب خبرهای جنگ/تنش ایران و آمریکا مطرح شده و نشان می‌دهد ایران در حال تنظیم مجدد پیام خود به واشنگتن از کانال غیرمستقیم است.",
-            "گزارش صرفاً به ارسال «پیشنهاد» اشاره می‌کند و جزئیات شرایط، زمان‌بندی یا واکنش رسمی آمریکا در متن ارسالی شما نیامده است."
-        ],
-        "impact": "این اقدام بیشتر نشانه مدیریت ریسک و تلاش برای بازنگری در مسیر گفت‌وگو با آمریکا از کانال میانجی‌هاست تا تغییر فوری در میدان.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Hindustan Times",
-        "url": "https://www.msn.com/en-in/news/world/us-iran-war-news-live-iran-sends-latest-proposal-to-us-via-pakistani-mediators/ar-AA228dVZ",
-        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-war-news-live-iran-sends-latest-proposal-to-us-via-pakistani-mediators/ar-AA228dVZ",
-        "image": null,
-        "timestamp": 1777661880.0
-    },
-    {
-        "title_fa": "ترامپ به کنگره می‌گوید درگیری با ایران تمام شده؛ اما مجوز جنگ را دور می‌زند",
-        "title_en": "Trump Tells Congress Iran Conflict Is Over, Sidestepping War Authorization",
-        "summary": [
-            "ترامپ در پیام به کنگره ادعا کرده «درگیری با ایران» پایان یافته است، بدون اینکه توضیح روشنی درباره چارچوب واقعی خاتمه، توقف حملات یا رفع تهدیدات ارائه کند.",
-            "هم‌زمان از مسیر «authorization for use of force» برای مجوز جنگ عبور کرده و عملاً تلاش کرده وضعیت را بدون عبور از مجرای قانونیِ مجوز نظامی تثبیت کند.",
-            "این شکاف میان اعلام پایان درگیری و عدم ارائه/درخواست مجوز رسمی، فضای حقوقی و اجرایی برای ادامه یا مدیریت گزینه‌های فشار را مبهم می‌گذارد و هزینه سیاسی کنگره را به سمت بازی با تعریف‌ها منتقل می‌کند."
-        ],
-        "impact": "نتیجه فوری، ایجاد ابهام در وضعیت حقوقی و سیاسی عملیات‌های مرتبط با ایران است و می‌تواند مانع از پاسخ‌گویی شفاف در واشینگتن شود.",
-        "tag": "کنگره",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "WSJ",
-        "url": "https://www.msn.com/en-us/news/other/trump-tells-congress-iran-conflict-is-over-sidestepping-war-authorization/ar-AA22boTx",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-tells-congress-iran-conflict-is-over-sidestepping-war-authorization/ar-AA22boTx",
-        "image": null,
-        "timestamp": 1777660800.0
-    },
-    {
-        "title_fa": "ایران شروط از سرگیری گفت‌وگوهای صلح با آمریکا را نرم کرد",
-        "title_en": "Iran Softens Conditions for Resuming Peace Talks With the U.S.",
-        "summary": [
-            "بر اساس گزارش WSJ، تهران برای از سرگیری گفت‌وگوهای صلح با آمریکا شروط تازه را تعدیل کرده و رویکرد مذاکره‌محورتر نشان داده است.",
-            "این تغییر شرط‌ها، سیگنال سیاسی است که رژیم تلاش دارد کانال‌های ارتباطی را باز نگه دارد، اما محتوای مذاکرات و میزان عقب‌نشینی واقعی روشن نشده است.",
-            "در نبود جزئیات درباره سازوکار اجرا و جدول زمانی، نرم‌شدن شروط بیشتر به‌عنوان تاکتیک مدیریت فشار خارجی و کنترل هزینه‌های اقتصادی/سیاسی قابل ارزیابی است، نه تغییر بنیادی در راهبرد."
-        ],
-        "impact": "این اقدام می‌تواند موقتاً فضای تنش را کاهش دهد، اما به‌خاطر فقدان تضمین‌های اجرایی، احتمالاً بیشتر ابزار مدیریت بحران تا حل اختلاف است.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlV2UFBIcEJGT1Rvd2xqZ1hENVpEMVlpeUlXWGJQeE83OUVMaDN0NVFOUDRkSTFyRW9VZ1NEelRRcmxWYVY4TloyRnd6a3VSNjRIRS1vLUNzUlVKckJkRzNLekJvLUNONUR5dU9WQzFQVzgwM3E4Z2NuRnhQS1pqWW82UzBBWDZLR2ZOVmpBLTJpSVh4eWFmNWdQUmR2Rk9jQ2padm9CMm9sOHFT?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlV2UFBIcEJGT1Rvd2xqZ1hENVpEMVlpeUlXWGJQeE83OUVMaDN0NVFOUDRkSTFyRW9VZ1NEelRRcmxWYVY4TloyRnd6a3VSNjRIRS1vLUNzUlVKckJkRzNLekJvLUNONUR5dU9WQzFQVzgwM3E4Z2NuRnhQS1pqWW82UzBBWDZLR2ZOVmpBLTJpSVh4eWFmNWdQUmR2Rk9jQ2padm9CMm9sOHFT",
-        "image": null,
-        "timestamp": 1777659000.0
-    },
-    {
-        "title_fa": "نظرسنجی: ۶۱٪ آمریکایی‌ها حمله به ایران را اشتباه می‌دانند",
-        "title_en": "Poll finds 61 percent of Americans believe attacking Iran was a mistake",
-        "summary": [
-            "طبق نظرسنجی گزارش‌شده توسط Al Jazeera، ۶۱٪ از آمریکایی‌ها معتقدند حمله به ایران تصمیم اشتباهی بوده است؛ یعنی برداشت عمومی از این اقدام عمدتاً منفی است.",
-            "این نتیجه یک شاخص فشار سیاسی داخلی در آمریکا است و می‌تواند بر فضای مانور دولت و احزاب برای تشدید تنش علیه ایران اثر بگذارد، چون هزینه اعتباری اقدامات تهاجمی بالا می‌ماند.",
-            "خودِ خبر به تغییر سیاست، اقدام نظامی تازه یا روابط جدید اشاره نمی‌کند؛ صرفاً نشان می‌دهد روایت عمومی درباره حمله پیشین در آمریکا منفی شده است."
-        ],
-        "impact": "این داده بیش از آنکه یک تحول امنیتی مستقیم باشد، یک مانع سیاسی داخلی بالقوه برای ادامه خط تهاجمی ایجاد می‌کند.",
-        "tag": "افکارعمومی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGY1WEFmcHZjdXQydUZCbXdMSHlkdGJiMktWUnFiM2FkOUlkZ1g3NFZ3Y2R5ak5paVhrWXktc0U4NmhxZWEzZHRoeEFoaDRTNlF3REZQUjY0QjBoLS05SEZzYWM0b05tY0M5bVc0b1E3SDJIZjlFbmliVEt4MHViMHMxUGttcEtzTFZWaDJ4OHZfSlVPWkxST2tOU3FSRWxoaWQ5aEVwdThvQ3kzcXBiM9IBtgFBVV95cUxPZkV5empGbXNlMC1rZm0wRG40a2JLa2FGQjRVeTBrWVJwV192aXNDTndiMWNiaV8zdGUzeEdiQVNDeEl5TGRnbU4xQUZHQjhKZjdiQXpiSEdZZWsxTC1WZ2NLTjZSNnRyWkxScndLcnBRdGFCWnhDVk11ak10aExtWTdPVTZEdjhWMHdDVFhzWnlyanN1R3ZlX005T0czQm80RUxKS0lwZWFxVUh2TFhoY3JQWTJ3QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGY1WEFmcHZjdXQydUZCbXdMSHlkdGJiMktWUnFiM2FkOUlkZ1g3NFZ3Y2R5ak5paVhrWXktc0U4NmhxZWEzZHRoeEFoaDRTNlF3REZQUjY0QjBoLS05SEZzYWM0b05tY0M5bVc0b1E3SDJIZjlFbmliVEt4MHViMHMxUGttcEtzTFZWaDJ4OHZfSlVPWkxST2tOU3FSRWxoaWQ5aEVwdThvQ3kzcXBiM9IBtgFBVV95cUxPZkV5empGbXNlMC1rZm0wRG40a2JLa2FGQjRVeTBrWVJwV192aXNDTndiMWNiaV8zdGUzeEdiQVNDeEl5TGRnbU4xQUZHQjhKZjdiQXpiSEdZZWsxTC1WZ2NLTjZSNnRyWkxScndLcnBRdGFCWnhDVk11ak10aExtWTdPVTZEdjhWMHdDVFhzWnlyanN1R3ZlX005T0czQm80RUxKS0lwZWFxVUh2TFhoY3JQWTJ3QQ",
-        "image": null,
-        "timestamp": 1777658042.0
-    },
-    {
-        "title_fa": "هشدار آمریکا به شرکت‌های کشتیرانی برای عدم پرداخت «عوارض/کمک‌های» عبور از تنگه هرمز",
-        "title_en": "US warns shippers against paying Strait of Hormuz tolls, 'donations'",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا (OFAC) به کشتی‌رانی‌ها هشدار داده بابت هرگونه پرداخت برای «امنیت عبور» از تنگه هرمز به ایران—حتی اگر با عنوان کمک خیریه، هدیه یا پرداخت‌های غیرنقدی/معاوضه‌ای—در معرض تحریم قرار می‌گیرند.",
-            "این هشدار هم‌زمان با ادامه محاصره/مسدودسازی دریایی آمریکا در تنگه هرمز برای سومین هفته و در شرایطی است که مذاکرات آتش‌بس بین آمریکا و ایران متوقف مانده.",
-            "مقام ایرانی (مسعود پزشکیان) محاصره بنادر را «غیرقابل تحمل» خوانده و توان ایران برای بستن تنگه هرمز به عنوان اهرم اصلی در رقابت با آمریکا مطرح شده؛ چون بخش مهمی از حمل‌ونقل نفت و گاز دریایی جهان از این مسیر عبور می‌کند."
-        ],
-        "impact": "این اقدام عملاً مسیر درآمدی «تعیین‌تعرفه عبور» و هرگونه کانال پرداخت به ایران را پرریسک و هزینه‌بر می‌کند و فشار اقتصادی بر رژیم را از سطح مالی-تجاری به سطح عملیاتیِ کشتیرانی منتقل می‌سازد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/us-warns-shippers-against-paying-171843929.html",
-        "clean_url": "https://www.yahoo.com/news/articles/us-warns-shippers-against-paying-171843929.html",
-        "image": "https://s.yimg.com/ny/api/res/1.2/82njwFLX3L0qyn8IqvtVYA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA7Y2Y9d2VicA--/https://media.zenfs.com/en/al_jazeera_289/ccd8251c9770b1dcc2b10929ae93a13f",
-        "timestamp": 1777656660.0
-    },
-    {
-        "title_fa": "تشدید لحن جنگی: ترامپ از «پیشنهاد صلح» تهران ناراضی است و وعده «تخریب» می‌دهد",
-        "title_en": "Iran-US war latest: Trump 'not satisfied' with Tehran offer",
-        "summary": [
-            "ترامپ اعلام کرده از «پیشنهاد صلح» جدید تهران «خوشش نیامده/راضی نیست» و به‌صورت مستقیم تهدید کرده است که آمریکا «آن‌ها را از بین خواهد برد» («blast them away»).",
-            "او ادعا می‌کند آمریکا «از قبل جنگ را برده»، اما می‌خواهد همان نتیجه را با «حاشیه/اختلاف بزرگ‌تر» به رخ بکشد؛ یعنی هدف، توافق نیست بلکه تشدید فشار برای دستاورد سیاسی-نظامی بیشتر است.",
-            "این موضع نشان می‌دهد کانال مذاکره عملاً در وضعیت شکننده قرار دارد و هر پیشنهاد از سوی تهران با معیار «امتیازدهی بیشتر» آمریکا رد می‌شود، که ریسک تشدید درگیری را بالا می‌برد."
-        ],
-        "impact": "این شکاف آشکار بر سر ارزیابی پیروزی و شروط «بردِ بزرگ‌تر» احتمال ادامه چرخه تهدید و درگیری را افزایش می‌دهد و شانس راه‌حل دیپلماتیک کوتاه‌مدت را کاهش می‌دهد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-tehran-submits-fresh-peace-deal/ar-AA2294qw",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-tehran-submits-fresh-peace-deal/ar-AA2294qw",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA228yHr.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1777654125.0
     }
 ]
