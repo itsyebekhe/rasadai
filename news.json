@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تجزیه‌وتحلیل: سوءبرداشت‌های رایج درباره گزارش اطلاعاتی آمریکا درباره تهدید هسته‌ای ایران",
+        "title_en": "What is everyone misunderstanding about US intelligence report on Iran nuclear threat? - analysis",
+        "summary": [
+            "این گزارشِ تحلیلیِ «The Jerusalem Post» می‌کوشد نشان دهد بخشی از برداشت‌ها از گزارش اطلاعاتی آمریکا درباره تهدید هسته‌ای ایران دقیق نیست، اما متن منتشرشده در درخواست شما جزئیات مشخصی از ادعاها و نتیجه‌گیری‌ها ارائه نمی‌دهد.",
+            "با توجه به اینکه محتوای قابل‌اتکا در پیام شما محدود به عنوان است، نمی‌توان تشخیص داد ادعاهای اصلی مربوط به زمان‌بندی، سطح قابلیت‌ها، یا نوع تهدید دقیقاً چیست؛ بنابراین ارزیابی علمیِ سازوکار اثر آن بر تصمیم‌گیری‌ها باید به متن کامل وابسته بماند.",
+            "در فقدان جزئیات متن، تنها می‌شود گفت این نوع مقاله‌ها معمولاً شکاف میان «اطلاعات خام/برآوردهای احتمالی» و «برداشت‌های سیاسیِ عمومی» را هدف می‌گیرد؛ اما فعلاً هیچ داده قابل استناد برای اتصال به اقتصاد، اعتراضات داخلی یا رفتار منطقه‌ای در اختیار نیست."
+        ],
+        "impact": "اثر این گزارش تا وقتی جزئیات گزارش اطلاعاتی و مشخصات ادعاهای آن در دسترس نباشد، قابل ارزیابی دقیق نیست و فعلاً بیشتر در سطح چارچوب تفسیری باقی می‌ماند.",
+        "tag": "اطلاعات",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZGg2VGFtQnNicWo5dEpZZHROSUp5c2JaUTJJYU5PaG9jRHZvdHZ5MkZfRUczaFVoNzhld0pyWF9kSktrRmZOZGUxdERmVGpZdHJqNTB6bXB6OGVDRG81Q2lNSExCT0swaVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03ZGg2VGFtQnNicWo5dEpZZHROSUp5c2JaUTJJYU5PaG9jRHZvdHZ5MkZfRUczaFVoNzhld0pyWF9kSktrRmZOZGUxdERmVGpZdHJqNTB6bXB6OGVDRG81Q2lNSExCT0swaVE",
+        "image": null,
+        "timestamp": 1778089502.0
+    },
+    {
+        "title_fa": "امید ترامپ به توافق صلح با ایران، همراه با قیود",
+        "title_en": "Trump's hopes for an Iran peace deal come with caveats",
+        "summary": [
+            "BBC گزارش می‌کند ترامپ روی امکان دستیابی به یک «توافق صلح» با ایران حساب کرده، اما همزمان شرط‌هایی گذاشته که مسیر توافق را محدود می‌کند.",
+            "این چارچوبِ مشروط به‌معنای فشار برای امتیازدهی مشخص از سوی تهران است و می‌تواند مذاکرات را به سمت چانه‌زنی سخت‌گیرانه و زمان‌بر سوق دهد.",
+            "در نتیجه، حتی اگر کانال دیپلماتیک فعال شود، احتمال شکل‌گیری توافق سریع پایین است چون «قیود» می‌توانند به‌عنوان معیارهای شکست یا احیاکننده بن‌بست عمل کنند."
+        ],
+        "impact": "قیود ترامپ احتمال توافق محدود و طولانی‌مدت را بالا می‌برد و هرگونه گشایش را مشروط به تحقق نقاط موردنظر او می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/world/trump-s-hopes-for-an-iran-peace-deal-come-with-caveats/ar-AA22x1lp",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-s-hopes-for-an-iran-peace-deal-come-with-caveats/ar-AA22x1lp",
+        "image": null,
+        "timestamp": 1778088724.0
+    },
+    {
         "title_fa": "افزایش شمار هدف‌گیری سامانه‌های نظامی آمریکا توسط ایران؛ با اتکا به تصاویر ماهواره‌ای",
         "title_en": "Iran has hit far more U.S. military assets than reported, satellite images show",
         "summary": [
@@ -34,6 +70,24 @@
         "clean_url": "https://www.theguardian.com/world/2026/may/06/donald-trump-iran-war-deal-us-bombing",
         "image": null,
         "timestamp": 1778083440.0
+    },
+    {
+        "title_fa": "چین دیپلماسی جنگ علیه ایران را پیش از نشست تندروانه ترامپ-شی تشدید می‌کند",
+        "title_en": "China is stepping up its Iran war diplomacy ahead of Trump's summit with Xi",
+        "summary": [
+            "PBS گزارش می‌دهد چین در آستانه نشست «ترامپ با شی» روند دیپلماسی پیرامون «جنگ علیه ایران» را افزایش داده است؛ یعنی تهران به‌طور مستقیم در دستورکار رایزنی‌های خارجی پکن قرار گرفته است.",
+            "این حرکت نشان می‌دهد چین می‌کوشد پیش از شکل‌گیری چیدمان جدید میان واشینگتن و پکن، کارت ایران را در مذاکرات منطقه‌ای فعال‌تر نگه دارد تا هزینه‌ها برای منافعش پایین بماند.",
+            "چون متن صرفاً به «تشدید دیپلماسی» اشاره دارد و جزئیات اقدامات یا نتایج را ارائه نمی‌کند، ارزیابی اثر عملی فعلاً به سطح هماهنگی سیاسی/دیپلماتیک محدود است، نه تأیید تغییرات مشخص در میدان."
+        ],
+        "impact": "تشدید رایزنی چین درباره جنگ علیه ایران، ریسک تبدیل شدن پرونده تهران به ابزار چانه‌زنی در نشست‌های قدرت‌های بزرگ را بالا می‌برد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbUlCZDBJamZiSWNVY2hkV0Y2QlJDRVVqbUZYZjVyZ0o0RTVMRzZ6UEpQcUN4N1R6anpJZTNwRzdmbDNRNWhyMmhQbUxuNzlYT0ZLcW1TR3laQ0c0ZS1CWUJibTVaaVJiMWxXSC1iSG9laTM0VF9sbmJKMXlZcWh0SHY3R2NnMTlPZGhrZmhVLUVQdWp6QlJKdU9LYzQ0N2JFQ3p6QVV4Ny10c0N3ZlHSAbMBQVVfeXFMUFo2Rll2V3BZc3pkNW50RnRvVVZYdjNxbVNwOFM3Y3hSbmR5b05sMFRvT3RyZ3RRdnJkNE81NVJNNTJxTFNIaU1uaktlb2J4QWRUX0xMMnZIWjFETmllTEh2TlNULTZCdGZoVmZVeUpHLTE4Nkg5c0lnTXBvR3dXUGVYbnpYRHhVWU01aDBmdWlPOW1RNkp6Qk5LaWZBRndhZVR1eGg0UGgzemEtczZCRnEya1k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbUlCZDBJamZiSWNVY2hkV0Y2QlJDRVVqbUZYZjVyZ0o0RTVMRzZ6UEpQcUN4N1R6anpJZTNwRzdmbDNRNWhyMmhQbUxuNzlYT0ZLcW1TR3laQ0c0ZS1CWUJibTVaaVJiMWxXSC1iSG9laTM0VF9sbmJKMXlZcWh0SHY3R2NnMTlPZGhrZmhVLUVQdWp6QlJKdU9LYzQ0N2JFQ3p6QVV4Ny10c0N3ZlHSAbMBQVVfeXFMUFo2Rll2V3BZc3pkNW50RnRvVVZYdjNxbVNwOFM3Y3hSbmR5b05sMFRvT3RyZ3RRdnJkNE81NVJNNTJxTFNIaU1uaktlb2J4QWRUX0xMMnZIWjFETmllTEh2TlNULTZCdGZoVmZVeUpHLTE4Nkg5c0lnTXBvR3dXUGVYbnpYRHhVWU01aDBmdWlPOW1RNkp6Qk5LaWZBRndhZVR1eGg0UGgzemEtczZCRnEya1k",
+        "image": null,
+        "timestamp": 1778081797.0
     },
     {
         "title_fa": "گزارش اطلاعاتی آمریکا: احتمال داده می‌شود در تیراندازی در شام ترامپ، عامل مرتبط با درگیری ایران دخیل بوده باشد",
@@ -502,6 +556,24 @@
         "clean_url": "https://abc7.com/live-updates/iran-war-news-trump-project-freedom-strait-of-hormuz/19037371",
         "image": null,
         "timestamp": 1778035567.0
+    },
+    {
+        "title_fa": "ارزیابی هزینه جنگ علیه ایران؛ پنتاگون عدد ۲۵ میلیارد دلار را اعلام کرد",
+        "title_en": "Pentagon says Iran war costs $25 billion. See how it measures up",
+        "summary": [
+            "طبق گزارش USA TODAY، پنتاگون هزینه‌های جنگ علیه ایران را ۲۵ میلیارد دلار برآورد کرده است؛ اما متن ارائه‌شده جزئیات روش محاسبه یا اقلام هزینه را ذکر نمی‌کند.",
+            "این نوع رقم‌گذاری نشان می‌دهد که دولت آمریکا برای سنجش «قیمت» عملیات، به اعداد کلان و گزارش‌های نهادی تکیه می‌کند؛ با این حال، ارتباط مستقیم آن با تغییرات میدانی یا اهداف سیاسی مشخص در همین متن قابل راستی‌آزمایی نیست.",
+            "فاقد جزئیات داخلی درباره وضعیت اقتصاد یا اعتراضات داخلی ایران است؛ بنابراین هر تحلیل از پیامدهای داخلی باید صرفاً بر مبنای همین ادعای هزینه‌ جنگ و نه داده‌های دیگر باشد."
+        ],
+        "impact": "اعلام هزینه ۲۵ میلیارد دلاری، فشار مالی و محاسبات راهبردی را برای تصمیم‌گیری‌های بعدی آمریکا برجسته می‌کند، بدون اینکه در متن فعلی شواهدی از پیامدهای مشخص بر ایران ارائه شود.",
+        "tag": "تحلیل",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/politics/2026/05/06/iran-war-cost-pentagon-budget/89891758007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/05/06/iran-war-cost-pentagon-budget/89891758007",
+        "image": "http://www.bing.com/th?id=ONUT.OQlbRisAFGh3PPC8hBbOLg&pid=News",
+        "timestamp": 1778033460.0
     },
     {
         "title_fa": "تهدید تخلیه ۱۲ روستا و شهر در جنوب لبنان؛ پیامد مستقیم برای زنجیره ریسک جنگ در منطقه",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-tehran-submits-fresh-peace-deal/ar-AA2294qw",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA228yHr.img?w=1200&h=800&m=4&q=81",
         "timestamp": 1777654125.0
-    },
-    {
-        "title_fa": "ادعای کاخ سفید درباره پایان جنگ با ایران همزمان با فرارسیدن مهلت قانون اختیارات جنگی",
-        "title_en": "White House says Iran war 'terminated,' as war powers deadline arrives",
-        "summary": [
-            "اداره ترامپ می‌گوید آتش‌بس با تهران «متهد/terminated» شده و با رسیدن مهلت قانونی، قصد دارد برای ارائه موضوع جنگ دوماهه به کنگره از چارچوب «resolution powers» عبور کند؛ استدلال این است که مهلت ۶۰ روزه به «حملات از ۲۸ فوریه» محدود بوده و عملیات بعدی به‌عنوان ادامه خصومت‌ها تلقی نمی‌شود.",
-            "بر اساس War Powers Resolution (مصوب ۱۹۷۳)، رئیس‌جمهور فقط ۶۰ روز می‌تواند اقدام نظامی انجام دهد و باید یا مجوز کنگره را بگیرد یا ۳۰ روز تمدید کند؛ روز آغاز جنگ ۲۸ فوریه اعلام شده و ترامپ ۴۸ ساعت بعد از نخستین حملات اسرائیل و آمریکا به ایران، کنگره را مطلع کرده است.",
-            "دموکرات‌ها این تعریف را رد می‌کنند و می‌گویند هیچ سازوکاری در قانون برای «پذیرفتن آتش‌بس» بدون مجوز کنگره وجود ندارد؛ همچنین استناد می‌کنند که استقرار ادامه‌دار ناوهای آمریکایی برای محاصره صادرات نفت ایران نشان‌دهنده تداوم خصومت است، نه خاتمه واقعی جنگ؛ سناتور جین شِیِهِن هم مهلت را «آستانه روشن قانونی» دانسته و می‌گوید ترامپ راه خروج یا استراتژی ندارد."
-        ],
-        "impact": "این جدال حقوقی نشان می‌دهد کاخ سفید می‌کوشد مسئولیت سیاسی-قانونی تداوم درگیری را دور بزند، درحالی‌که شواهد عملی (محاصره نفتی و ادامه استقرار نیرو) می‌تواند به تشدید بحران مشروعیت در کنگره و افزایش بی‌ثباتی تصمیم‌گیری منجر شود.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://www.aol.com/articles/white-house-says-iran-war-163512795.html",
-        "clean_url": "https://www.aol.com/articles/white-house-says-iran-war-163512795.html",
-        "image": null,
-        "timestamp": 1777653772.0
-    },
-    {
-        "title_fa": "ترامپ از «پیشنهاد جدید» برای ایران قانع نیست؛ تهدید تهران به تلافی و ادامه ابهام درباره تنگه هرمز",
-        "title_en": "US-Iran ceasefire: Trump says 'not satisfied' with new Iran proposal",
-        "summary": [
-            "ترامپ با وجود اعلام آتش‌بس آمریکا و ایران، می‌گوید از «پیشنهاد جدید ایران» «راضی/قانع نیست» و واشینگتن همزمان ادعا می‌کند درگیری‌ها عملاً «متوقف/پایان یافته» است، با این حال نیروهای آمریکایی همچنان در منطقه حضور دارند و بحث‌های حقوقی درباره ادامه عملیات باقی مانده است.",
-            "پس از جلسه با CENTCOM، ترامپ فقط دو گزینه را مطرح کرد: «حمله و نابودی» یا «تلاش برای معامله»؛ او به گزینه حمله تمایل کمتری نشان داد اما همین چارچوب دوگانه نشان می‌دهد برنامه‌ریزی نظامی و فشار برای تصمیم سخت ادامه دارد.",
-            "در همان چارچوب، تهران تهدید به تلافی می‌کند و سیگنال می‌دهد کنترل عملیاتی بر تنگه هرمز را از دست نخواهد داد؛ همچنین در متن به کشته شدن ۱۴ نیروی ایرانی در یک عملیات مین‌زدایی اشاره شده که می‌تواند بیانگر تداوم ریسک‌های میدانی حتی زیر چتر آتش‌بس باشد."
-        ],
-        "impact": "این ترکیبِ نارضایتی واشینگتن از پیشنهاد ایران، ابهام حقوقی درباره اختیارات جنگ و تاکید تهران بر تداوم نفوذ در تنگه هرمز، احتمال چرخش سریع از «آتش‌بس» به تشدید تنش را بالا نگه می‌دارد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.55,
-        "source": "Gulf News",
-        "url": "https://gulfnews.com/world/mena/us-iran-ceasefire-trump-says-not-satisfied-with-new-iran-proposal-1.500525377",
-        "clean_url": "https://gulfnews.com/world/mena/us-iran-ceasefire-trump-says-not-satisfied-with-new-iran-proposal-1.500525377",
-        "image": "https://gumlet-images.assettype.com/gulfnews/2026-05-01/fuciltvr/tehran.jpg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "timestamp": 1777653600.0
-    },
-    {
-        "title_fa": "ترامپ: ایران خواهان توافق است، اما توافق مدنظر من پذیرفتنی نیست",
-        "title_en": "Trump says 'Iran wants to make a deal, but I'm not satisfied with it'",
-        "summary": [
-            "طبق گزارش CNBC، ترامپ اعلام کرده ایران به دنبال «توافق» است، اما او با شرایط ارائه‌شده «رضایت» ندارد؛ یعنی تهران از نگاه واشنگتن هنوز به آستانه مورد قبول نرسیده است.",
-            "این موضع مستقیماً مسیر فشار مذاکره‌ای را به سمت بازگشت به اهرم‌های اقتصادی/سیاسی می‌برد، چون «عدم رضایت» یعنی توافق فعلی بسته نشده و احتمال تداوم یا تشدید فشار باقی است.",
-            "در متن ارائه‌شده از CNBC جزئیات فنی درباره شروط اختلاف یا نشانه‌ای از توافق جدید وجود ندارد؛ بنابراین فعلاً باید آن را یک سیگنال سیاسی برای سخت‌گیری بیشتر دانست، نه یک پیشرفت عملی در مذاکرات."
-        ],
-        "impact": "این اظهارنظر به‌عنوان ادامه مانع‌تراشی واشنگتن بر سر توافق احتمالی عمل می‌کند و می‌تواند ریسک تداوم فشارهای خارجی را بالا ببرد بدون آنکه راه خروجی جدیدی اعلام شده باشد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.msn.com/en-us/news/world/trump-says-iran-wants-to-make-a-deal-but-i-m-not-satisfied-with-it/ar-AA22bB11",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-wants-to-make-a-deal-but-i-m-not-satisfied-with-it/ar-AA22bB11",
-        "image": null,
-        "timestamp": 1777652840.0
-    },
-    {
-        "title_fa": "ایران پیشنهاد تازه گفت‌وگو با آمریکا برای پایان جنگ ارائه کرد",
-        "title_en": "Iran hands over new proposal for talks with US to end war",
-        "summary": [
-            "طبق گزارش رویترز، ایران «پیشنهاد جدید» برای گفت‌وگو با آمریکا ارائه کرده تا راهی برای پایان جنگ پیدا شود.",
-            "این اقدام بیشتر یک کانال‌سازی سیاسی است و در متن خبر، جزئیات عملی، زمان‌بندی یا امتیازهای مشخص که بلافاصله فشار خارجی یا توان جنگی را تغییر دهد، ذکر نشده است.",
-            "در غیاب اطلاعات قابل راستی‌آزمایی درباره اقدامات میدانی یا سازوکار اجرایی، احتمالاً هدف اصلی کاهش تنش و مدیریت ریسک برای رژیم است نه تغییر ساختاری در وضعیت میدان."
-        ],
-        "impact": "این پیشنهاد می‌تواند زمینه مذاکرات را فعال کند، اما بدون جزئیات و ضمانت‌های اجرایی، اثر فوری بر کاهش واقعی جنگ نامشخص است.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXFST3AwNjc5YVJPejQtWGdQNDY1QWY0Y0g4ODl6UzZSbmRKcnVNOW1vVUpZREw0a1pfWUFLYnFDUlJjd2wweUhiWkZrLXByUC1hTDBlaVBJYVlSNkdWV2FiVjRhVFh6eUJJMWx1MXlhbllaUWQtbFRiR1IxNEI0NVo5QklSSmJscjRXQTRaM0wzTVVvTlpycG01cW9aNzJBMGJsNjRONGh0U1JrcXFSZ3RMUVNZdVNyMW9ocEVyNnQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXFST3AwNjc5YVJPejQtWGdQNDY1QWY0Y0g4ODl6UzZSbmRKcnVNOW1vVUpZREw0a1pfWUFLYnFDUlJjd2wweUhiWkZrLXByUC1hTDBlaVBJYVlSNkdWV2FiVjRhVFh6eUJJMWx1MXlhbllaUWQtbFRiR1IxNEI0NVo5QklSSmJscjRXQTRaM0wzTVVvTlpycG01cW9aNzJBMGJsNjRONGh0U1JrcXFSZ3RMUVNZdVNyMW9ocEVyNnQ",
-        "image": null,
-        "timestamp": 1777649530.0
     }
 ]
