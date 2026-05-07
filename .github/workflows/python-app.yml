@@ -44,7 +44,7 @@ jobs:
           git config --global user.name "IranRadarBot"
           git config --global user.email "bot@noreply.github.com"
           
-          git add news.json market.json
+          git add news.json market.json daily_summary.json
           
           # Commit only if there are changes
           git diff --quiet && git diff --staged --quiet || (git commit -m "Update news feed" && git push)
