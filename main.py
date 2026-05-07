@@ -24,7 +24,8 @@ CONFIG = {
     ],
     'FILES': {
         'NEWS': 'news.json',
-        'MARKET': 'market.json'
+        'MARKET': 'market.json',
+        'DAILY_SUMMARY': 'daily_summary.json'
     },
     'TELEGRAM': {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'), 
@@ -69,6 +70,16 @@ class IranNewsRadar:
                 self.seen_titles.add(self._normalize_text(item['title_fa']))
         
         self.gnews_en = GNews(language='en', country='US', period='4h', max_results=5)
+
+    def _load_previous_daily_summary(self):
+        path = CONFIG['FILES']['DAILY_SUMMARY']
+        if not os.path.exists(path):
+            return None
+        try:
+            with open(path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        except:
+            return None
 
     def _clean_url(self, url):
         """Removes query parameters to prevent duplicates based on ?utm_source etc."""
@@ -404,6 +415,57 @@ class IranNewsRadar:
 
         return None
 
+    def generate_daily_summary(self):
+        """
+        Generate a rolling strategic daily summary.
+        Uses:
+        - All today's news
+        - Previous run's daily summary (if exists)
+        """
+
+        now = datetime.now(timezone.utc)
+        today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
+    
+        todays_items = [
+            item for item in self.existing_news
+            if datetime.fromtimestamp(item.get("timestamp", 0), timezone.utc) >= today_start
+        ]
+
+        if len(todays_items) < 3:
+            return None
+
+        todays_items.sort(key=lambda x: x.get("urgency", 0), reverse=True)
+
+        # Build structured context
+        news_context = []
+        for item in todays_items[:20]:  # limit context size
+            news_context.append(
+                f"""
+Title: {item.get('title_en')}
+Source: {item.get('source')}
+Urgency: {item.get('urgency')}
+Tag: {item.get('tag')}
+Impact: {item.get('impact')}
+Summary: {' '.join(item.get('summary', []))}
+"""
+            )
+
+        news_block = "\n\n".join(news_context)
+
+        previous_summary = self._load_previous_daily_summary()
+        previous_block = ""
+
+        if previous_summary:
+            previous_block = f"""
+Previous Strategic Assessment:
+Themes: {previous_summary.get('themes')}
+Strategic Assessment: {previous_summary.get('strategic_assessment')}
+Market Impact: {previous_summary.get('market_impact')}
+Risk Level: {previous_summary.get('risk_level')}
+"""
+
+        return self.analyze_daily_summary_with_ai(news_block, previous_block)
+
     def process_item(self, entry):
         # We extract the title and strip publisher names (e.g. " - BBC News") for cleaner Bing searching
         raw_title = entry.get('title', '').rsplit(' - ', 1)[0].strip()
@@ -450,6 +512,79 @@ class IranNewsRadar:
             "timestamp": ts
         }
 
+    def analyze_daily_summary_with_ai(self, news_block, previous_block):
+        if not self.api_key:
+            return None
+
+        system_prompt = """
+You are a senior geopolitical intelligence analyst.
+
+This is a rolling daily strategic assessment.
+
+You will receive:
+1) All today's news events
+2) The previous run's strategic summary (if available)
+
+Your job:
+- Detect evolution compared to previous assessment.
+- Identify new escalation or de-escalation signals.
+- Detect structural patterns.
+- Avoid repeating identical analysis unless trend continues.
+- Update risk level dynamically.
+
+OUTPUT LANGUAGE: Persian (Farsi)
+
+STRICT OUTPUT JSON:
+
+{
+  "date": "YYYY-MM-DD",
+  "themes": [3-5 bullet points],
+  "trend_direction": "تصاعدی | نزولی | باثبات",
+  "strategic_assessment": "1-2 paragraphs",
+  "market_impact": "1 paragraph",
+  "risk_level": integer 1-10,
+  "change_from_previous": "افزایش | کاهش | بدون تغییر"
+}
+"""
+
+        try:
+            resp = self.scraper.post(
+                "https://gen.pollinations.ai/v1/chat/completions",
+                headers={
+                    "Authorization": f"Bearer {self.api_key}",
+                    "Content-Type": "application/json"
+                },
+                json={
+                    "model": "openai",
+                    "messages": [
+                        {"role": "system", "content": system_prompt},
+                        {
+                            "role": "user",
+                            "content": f"""
+TODAY NEWS:
+{news_block}
+
+PREVIOUS SUMMARY:
+{previous_block}
+"""
+                        }
+                    ],
+                    "temperature": 0.2
+                },
+                timeout=60
+            )
+
+            if resp.status_code == 200:
+                raw = resp.json()['choices'][0]['message']['content']
+                clean = re.sub(r'```json\s*|```', '', raw).strip()
+                data = json.loads(clean)
+                return data
+
+        except Exception as e:
+            logger.error(f"Daily Summary AI Error: {e}")
+
+        return None
+    
     def send_digest_to_telegram(self, items):
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
         chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
@@ -614,6 +749,18 @@ class IranNewsRadar:
             logger.error(f"Save Failed: {e}")
             return self.existing_news
 
+    def save_daily_summary(self, summary):
+        if not summary:
+            return
+
+        try:
+            with open(CONFIG['FILES']['DAILY_SUMMARY'], 'w', encoding='utf-8') as f:
+                json.dump(summary, f, indent=4, ensure_ascii=False)
+
+            logger.info(">>> daily_summary.json updated successfully.")
+        except Exception as e:
+            logger.error(f"Failed to save daily summary: {e}")
+
     def run(self):
         logger.info(">>> Radar Started...")
         
@@ -701,6 +848,11 @@ class IranNewsRadar:
                 logger.info("New items saved, but urgency too low for Telegram.")
         else:
             logger.info(">>> No valid new items found.")
+
+        # --- 4. GENERATE ROLLING DAILY SUMMARY ---
+        daily_summary = self.generate_daily_summary()
+        if daily_summary:
+            self.save_daily_summary(daily_summary)
 
 if __name__ == "__main__":
     IranNewsRadar().run()
