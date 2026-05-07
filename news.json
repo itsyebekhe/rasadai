@@ -360,6 +360,24 @@
         "timestamp": 1778147040.0
     },
     {
+        "title_fa": "ترپِدورِ دلار: نزدیک شدن به پایان جنگ ایران، اما هوش مصنوعی مانع سقوط می‌شود",
+        "title_en": "Trapdoor creaks for dollar if Iran war ends",
+        "summary": [
+            "رویترز می‌گوید خوش‌بینی تازه نسبت به پایان جنگ ایران باعث شده دلار آمریکا به «کمینه‌های پیش از درگیری» عقب‌نشینی کند؛ یعنی بازار عملاً از کاهش ریسک ژئوپلیتیک قیمت می‌دهد.",
+            "اگر اثر «رکودشکن» یا حامی دلار از سمت «رشد پرشتاب هوش مصنوعی با تمرکز آمریکا» نبود، احتمالاً هر توافق صلح می‌توانست افت دلار را شدیدتر و آشکارتر کند.",
+            "این روایت به جای تمرکز بر تهران، بر سازوکار مالی اثرگذار روی بازار تمرکز دارد: کاهش احتمال طولانی شدن جنگ، فشار نزولی روی دلار ایجاد می‌کند، اما چرخه سرمایه‌گذاری مرتبط با آمریکا این مسیر را تا حدی مهار می‌کند."
+        ],
+        "impact": "کاهش ریسک جنگی به تضعیف دلار منجر می‌شود، ولی رشد سرمایه‌گذاری و تقاضای آمریکا در حوزه هوش مصنوعی نقش سپر کوتاه‌مدت دارد.",
+        "tag": "ارز",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/markets/currencies/trapdoor-creaks-dollar-if-iran-war-ends-2026-05-07/",
+        "clean_url": "https://www.reuters.com/markets/currencies/trapdoor-creaks-dollar-if-iran-war-ends-2026-05-07",
+        "image": "https://www.reuters.com/resizer/v2/QHMFL6HJLNLCXBUCARX3ZTUS2Y.jpg?auth=ba021706a2e8c7cd26f1a3e5db66cb90ab669dfd05764bbe8f5e6710c193532f&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1778144400.0
+    },
+    {
         "title_fa": "آمادگی آمریکا برای توافق پایان جنگ، در حالی که ایران تنش جهانی را حفظ کرده است",
         "title_en": "U.S. Hopeful of Deal to End War as Iran Keeps World on Edge",
         "summary": [
@@ -394,6 +412,24 @@
         "clean_url": "https://www.bloomberg.com/news/articles/2026-05-07/us-iran-deliberate-peace-deal-with-nuclear-breakthrough-distant",
         "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCjhAE8s5_ec/v1/1200x800.jpg",
         "timestamp": 1778142180.0
+    },
+    {
+        "title_fa": "ارزیابی محرمانه سیا: ایران می‌تواند «محاصره هرمز» را ماه‌ها تحمل کند و توان موشکی/پهپادی را حفظ کند",
+        "title_en": "US intelligence says Iran can outlast Trump's Hormuz blockade for months",
+        "summary": [
+            "بر اساس گزارش محرمانه سیا که به کاخ سفید ارائه شده، توان ایران برای مقاومت در برابر محاصره/مسدودسازی دریایی هرمز «برای ماه‌ها» قابل دوام ارزیابی شده است.",
+            "در همین ارزیابی، ایران «آرسنال قابل توجه» موشک‌ها و پهپادها را همچنان در سطح عملیاتی حفظ می‌کند و این یعنی فشار دریایی به‌تنهایی ظرفیت تهدید را سریعاً از بین نمی‌برد.",
+            "این گزارش به‌طور ضمنی نشان می‌دهد که محاسبه فشار خارجی بر مبنای قطع کامل تدارکات/درآمد، در کوتاه‌مدت به فروپاشی سریع توان دفاعی یا بازدارندگی منجر نمی‌شود."
+        ],
+        "impact": "نتیجه مستقیم این ارزیابی، محدود بودن اثر بازدارندگی «محاصره دریایی» در بازه کوتاه است و احتمال افزایش ریسک چرخه تشدید فشار برای رسیدن به هدف‌های عملیاتی را بالا می‌برد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-intelligence-says-iran-can-outlast-trump-s-hormuz-blockade-for-months/ar-AA22CaV9",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-intelligence-says-iran-can-outlast-trump-s-hormuz-blockade-for-months/ar-AA22CaV9",
+        "image": null,
+        "timestamp": 1778141948.0
     },
     {
         "title_fa": "روز جنگ ۶۹: تهران «در حال بررسی» پیشنهادهای آمریکا؛ بمباران اسرائیل در بیروت",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo",
         "image": null,
         "timestamp": 1777731494.0
-    },
-    {
-        "title_fa": "گفت‌وگوهای ایران همچنان به نتیجه نزدیک نمی‌شود",
-        "title_en": "Iran talks still no closer",
-        "summary": [
-            "وینشده‌ گزارش «Vatican News» از بی‌نتیجه‌ماندن مذاکرات حکایت دارد و نشان می‌دهد اختلاف‌ها همچنان پابرجاست.",
-            "این وضعیت، نشانه‌ای از انسداد سیاسی-دیپلماتیک است و می‌تواند به تداوم فشارهای خارجی و بلاتکلیفی تصمیم‌گیری اقتصادی منجر شود.",
-            "خبر فاقد جزئیات درباره توافق‌های مشخص، زمان‌بندی یا مسیر اجرایی است؛ بنابراین نمی‌توان از متن، پیشرفت عملی یا امتیازگیری واقعی را استخراج کرد."
-        ],
-        "impact": "بن‌بست در مذاکرات، مسیر کاهش فشار و بهبود اقتصادی را به تعویق می‌اندازد و احتمال ادامه بی‌ثباتی را بالا نگه می‌دارد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Vatican News",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOHhhYW9oQzhLTUlCdnowZEI5cW5yQ2JPbzhTOHcxamRTbEJtUlRlVWRSejFXckNpNVRyY3RYcHRJQkVkZklwU2k3X2d1RFZkVjAwMlZoNzdwbUV2a1JQbnUwR252NVJsaGFQN1RiLU9WMFVDWWRqUnp4Qmxsa08wMkgzaDVVZ24zbWlCVG5OMkwtbnpwZVpOcGJPVE5OU25qTy1vUllJZUJLaFRfUGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOHhhYW9oQzhLTUlCdnowZEI5cW5yQ2JPbzhTOHcxamRTbEJtUlRlVWRSejFXckNpNVRyY3RYcHRJQkVkZklwU2k3X2d1RFZkVjAwMlZoNzdwbUV2a1JQbnUwR252NVJsaGFQN1RiLU9WMFVDWWRqUnp4Qmxsa08wMkgzaDVVZ24zbWlCVG5OMkwtbnpwZVpOcGJPVE5OU25qTy1vUllJZUJLaFRfUGc",
-        "image": null,
-        "timestamp": 1777730723.0
-    },
-    {
-        "title_fa": "بحران دیپلماسی؛ نارضایتی ترامپ از پیشنهاد صلح ایران و بالا رفتن تهدید ازسرگیری جنگ",
-        "title_en": "Iran war live: Diplomacy in danger as threat of resumed war elevates",
-        "summary": [
-            "ترامپ از پیشنهاد صلح تازه ایران انتقاد کرده و گفته این درخواست‌ها «چیزی نیست که بتواند با آن موافقت کند»، که نشان می‌دهد مسیر توافق عملاً در بن‌بست قرار گرفته است.",
-            "بنابر گزارش، پیامد مستقیم این نارضایتی، «به خطر افتادن دیپلماسی» و افزایش احتمال ازسرگیری جنگ مطرح شده است—نه فقط به دلیل اختلافات کلی، بلکه به خاطر ناسازگاری مشخص پیشنهاد با شروط آمریکا.",
-            "در سطح ساختاری، چنین شکاف گفت‌وگویی می‌تواند به کاهش فضای مانور رژیم در مدیریت زمان و اهرم‌های اقتصادی-سیاسی منجر شود، چون ادامه بن‌بست معمولاً به تشدید فشارهای خارجی و فرسایش ظرفیت داخلی می‌انجامد."
-        ],
-        "impact": "این وضعیت احتمال تبدیل شدن اختلافات مذاکره‌ای به فشار مستقیم و برگشت به سناریوی درگیری را بالا می‌برد، چون توافقی که قابل پذیرش دو طرف باشد شکل نگرفته است.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-05-01T144931Z_1337836316_RC2E0LAD9H6E_RTRMADP_3_IRAN-CRISIS-LEBANON-ISRAEL-1777678447.jpg?resize=1920,1440",
-        "timestamp": 1777727520.0
     }
 ]
