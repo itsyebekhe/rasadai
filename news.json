@@ -18,6 +18,24 @@
         "timestamp": 1778223660.0
     },
     {
+        "title_fa": "گزارش امارات از حمله پهپادی و موشکی؛ بحران آتش‌بس جنگ ایران زیر فشار عملیاتی",
+        "title_en": "UAE reports drone and missile attack as Iran war ceasefire is challenged",
+        "summary": [
+            "امارات اعلام کرده که حمله پهپادی و موشکی رخ داده و این رخداد با ادعای آتش‌بس جنگ ایران در تناقض قرار گرفته است.",
+            "این وضعیت نشان می‌دهد که «آتش‌بس» بیشتر یک ادعای سیاسی است تا یک کنترل واقعی میدانی؛ چون حملات، ولو در سطح گزارش‌شده توسط یک دولت منطقه‌ای، ادامه دارد.",
+            "هم‌زمان خبرهای مرتبط با درگیری‌های دریایی در تنگه هرمز (از جمله ادعای رهگیری حملات ایرانی علیه کشتی‌های نیروی دریایی آمریکا) فضای ریسک و بی‌ثباتی را تشدید می‌کند و امکان فرسایش کنترل مرزی/دریایی را بالا می‌برد."
+        ],
+        "impact": "ادامه حملات گزارش‌شده پس از طرح آتش‌بس، احتمال شکست کامل توافق سیاسی و تشدید چرخه اقدام-پاسخ در سطح منطقه را افزایش می‌دهد.",
+        "tag": "منطقه",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
+        "clean_url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
+        "image": null,
+        "timestamp": 1778221260.0
+    },
+    {
         "title_fa": "از بن‌بست تا ضربه: یک هفته مذاکره پرشتاب آمریکا و ایران بر سر تنگه هرمز",
         "title_en": "From stalemate to strikes: A dizzying week of US-Iran negotiations over the strait of Hormuz",
         "summary": [
@@ -88,6 +106,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1d1FYcDVjN0tXdmdaSnJJSVpIc0I5ZGdQbF9ZcG5QU1NnU3FqMXZvVmN4N3NIQUJiOFZLSkdkQng5LUk3bVEyWm9rTnNHZ0R3YktzVEZCdDdoZw",
         "image": null,
         "timestamp": 1778206074.0
+    },
+    {
+        "title_fa": "پیشنهاد ۳۰روزه آمریکا برای توقف درگیری‌ها؛ ترامپ از «پیشنهاد یک‌برگی» ایراد گرفت و مذاکرات تهران-واشنگتن در چارچوب ۳۰ روزه مطرح شد",
+        "title_en": "US Iran War LIVE: Trump Says US Proposal to Iran 'More Than a One-Page Offer', Tehran, US Discuss 30-Day Framework to Halt Hostilities",
+        "summary": [
+            "طبق گزارش، ترامپ گفته پیشنهاد آمریکا به ایران «بیش از یک پیشنهاد یک‌برگی» است و اختلاف روایت بر سر جزئیات بسته مطرح شده در جریان گفت‌وگوها را برجسته می‌کند.",
+            "همزمان، تهران و آمریکا درباره یک چارچوب ۳۰روزه برای «متوقف کردن خصومت‌ها» بحث کرده‌اند؛ این یعنی فشار سیاسی-دیپلماتیک برای کنترل سطح درگیری در کوتاه‌مدت فعال شده است.",
+            "در همین فضا، «حماس» حملات جاری اسرائیل به غزه را محکوم کرده و آن را نقض آشکار آتش‌بس و بخشی از «جنگ نابودی» خوانده است—اما ارتباط مستقیم این بخش با پیشنهاد ۳۰روزه در متن گزارش به‌صورت قطعی اثبات نشده است."
+        ],
+        "impact": "این روند می‌تواند فعلاً سطح تنش را در کوتاه‌مدت مدیریت کند، اما اگر در غزه آتش‌بس واقعی برقرار نشود، احتمال فروپاشی چارچوب‌های موقت بالا می‌رود.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Republic World",
+        "url": "https://www.republicworld.com/world-news/us-iran-war-live-trump-says-deal-with-iran-possible-held-good-talks-over-44-hours-tehran-says-ready-to-provide-support-to-ships-in-hormuz-live-news",
+        "clean_url": "https://www.republicworld.com/world-news/us-iran-war-live-trump-says-deal-with-iran-possible-held-good-talks-over-44-hours-tehran-says-ready-to-provide-support-to-ships-in-hormuz-live-news",
+        "image": "http://www.bing.com/th?id=ONUT.K_mLD-f0SdI9xkdGiiYUGA&pid=News",
+        "timestamp": 1778201100.0
+    },
+    {
+        "title_fa": "افزایش تنش ایران-آمریکا در تنگه هرمز؛ ادعای ضربه به نفتکش و هدف قرار گرفتن سایت‌های غیرنظامی و کشته شدن یک نیروی دفاع غیرنظامی در لبنان",
+        "title_en": "Iran US War Live Updates: Lebanese civil defence member killed in Israeli air strike, says report",
+        "summary": [
+            "گزارش‌ها از درگیری تازه نظامی در اطراف تنگه هرمز حکایت دارد: ایران می‌گوید نیروهای آمریکا یک نفتکش ایرانی را هدف گرفته و کشتی دیگری نزدیک بندر فجیره را زده است؛ هم‌زمان ایران ادعا می‌کند حملات هوایی آمریکا به نقاط غیرنظامی در بَندر کَمیر، سریک و جزیره قشم اصابت کرده است و سامانه‌های پدافند بر فراز غرب تهران فعال شده‌اند.",
+            "در مقابل، CENTCOM اعلام کرده نیروهای دریایی آمریکا با حمله پهپاد/موشک و قایق‌های تندرو از سوی نیروهای ایرانی مواجه شده و پاسخ داده است؛ همچنین گفته تأسیسات نظامی ایران که مسئول حمله به نیروهای آمریکا بودند هدف قرار گرفته‌اند.",
+            "در جبهه لبنان، گزارش‌ها می‌گویند یک عضو «دفاع غیرنظامی» در حمله هوایی اسرائیل کشته شده و در حملات اسرائیل به جنوب لبنان دست‌کم ۱۱ نفر از جمله کودکان در ناحیه نبطیه جان باخته‌اند."
+        ],
+        "impact": "این چرخه ادعا-تکذیب و هدف قرار گرفتن غیرنظامیان، احتمال تشدید فوری درگیری‌های دریایی و هوایی در مسیرهای حیاتی انرژی را بالا می‌برد.",
+        "tag": "درگیری",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "CNBCTV18",
+        "url": "https://www.cnbctv18.com/world/iran-us-israel-war-ceasefire-live-updates-donald-trump-news-strait-of-hormuz-oil-crisis-lebanon-hezbollah-pakistan-mediation-west-asia-conflict-missile-drone-attacks-liveblog-ws-l-19901556.htm",
+        "clean_url": "https://www.cnbctv18.com/world/iran-us-israel-war-ceasefire-live-updates-donald-trump-news-strait-of-hormuz-oil-crisis-lebanon-hezbollah-pakistan-mediation-west-asia-conflict-missile-drone-attacks-liveblog-ws-l-19901556.htm",
+        "image": "http://www.bing.com/th?id=ONUT.jLCHShqAGcPV13yiRLnEsg&pid=News",
+        "timestamp": 1778200740.0
     },
     {
         "title_fa": "درگیری آتش میان ناوهای آمریکا و ایران در تنگه هرمز؛ آزمون جدی برای آتش‌بس",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVHFSc3prc1VLbzU5LVFTbzhIRWhFUEdSTmlzT3kxZER5Z05DaVphOGtvaktfczJXcDJKODRya2JtQVY2Mk81UXVRQjE0aGlOTURhNTdoV3pqa2xqMElFU0h2d1ptN29GOG90T3c5UUJNbDlxWnRKSlBnaFBTaTFoVm1JT3pRTnlldzdjc1V2LXNKcVQyX1RUaFBXclN1ZmdfNXFrQ1B3",
         "image": null,
         "timestamp": 1777794546.0
-    },
-    {
-        "title_fa": "تهدید افزایش تنش: جنگ زیرساخت انرژی میان ایران و اسرائیل به‌عنوان شروع دور تازه تشدید",
-        "title_en": "Israel–Iran energy infrastructure war signals a dangerous new escalation - opinion",
-        "summary": [
-            "این یادداشت «The Jerusalem Post» هشدار می‌دهد که هدف‌گیری یا درگیری در زیرساخت‌های انرژی ایران و اسرائیل، نشانه ورود به مرحله‌ای خطرناک‌تر از منازعه است.",
-            "نویسنده چارچوب را «جنگ زیرساختی» توصیف می‌کند و از منطق بازدارندگیِ محدود عبور می‌زند: تمرکز بر انرژی می‌تواند چرخه پاسخ‌دادن و تشدید را سریع‌تر کند.",
-            "نتیجه‌گیری مقاله روی پیامدهای امنیتی-عملیاتی است؛ یعنی هر اقدام علیه ظرفیت تولید/انتقال انرژی، اثر مستقیم بر توان اقتصادی و پایداری سرویس‌دهی دارد و در نتیجه انگیزه برای اقدامات متقابل را بالا می‌برد."
-        ],
-        "impact": "اگر جنگ زیرساخت انرژی واقعاً به محور اصلی برخورد تبدیل شود، مسیر تشدید نظامی از حوزه محدود به سطحی می‌رود که می‌تواند هزینه‌های اقتصادی و امنیتی را به‌طور پایدار بالا ببرد.",
-        "tag": "escalation",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGTkpublRuNVhQaUhhWlZCSTZXX2hXVlRjbHAwcUhxaFVJTWRYZTlsaTFBVFdHNWlQLXdQa3N5aWRDREN5T2M5dnlVVFJJclNoQTljM3Zvcw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGTkpublRuNVhQaUhhWlZCSTZXX2hXVlRjbHAwcUhxaFVJTWRYZTlsaTFBVFdHNWlQLXdQa3N5aWRDREN5T2M5dnlVVFJJclNoQTljM3Zvcw",
-        "image": null,
-        "timestamp": 1777794072.0
-    },
-    {
-        "title_fa": "روز ۶۵ جنگ ایران؛ ترامپ در حال بررسی طرح جدید برای پایان جنگ",
-        "title_en": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-        "summary": [
-            "در روز ۶۵، تمرکز گزارش روی بررسی طرح تازه ترامپ برای پایان جنگ است که هنوز به اقدام اجرایی یا جزئیات نهایی مشخص‌شده منجر نشده؛ بنابراین وضعیت میدانی و سیاسی در حالت انتظار و ارزیابی قرار دارد.",
-            "این چارچوب نشان می‌دهد فشار دیپلماتیک/سیاسی از سمت آمریکا هنوز در مرحله طراحی و بازنگری است، نه اجرای بسته‌های الزام‌آور؛ پیامد آن می‌تواند ادامه فرسایش و بلاتکلیفی در تصمیم‌گیری طرفین باشد.",
-            "چون متن صرفاً به «مرور طرح جدید» اشاره دارد و هیچ داده قابل‌اعتنا درباره شدت درگیری، توافق عملی، یا اقدامات تحریمی جدید ارائه نمی‌کند، نتیجه‌گیری درباره تغییرات فوری در اقتصاد یا اعتراضات داخلی صرفاً حدسی خواهد بود."
-        ],
-        "impact": "تا زمان اعلام جزئیات و اجرای طرح، جنگ در مسیر فرسایش می‌ماند و هر تغییر واقعی به بسته‌های تصمیم‌گیری آمریکا وابسته خواهد بود.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEFXenE3dlB0NVRXNV9SNEFqeGhTSS1PU1hXVXdjQ1l1LWwtUzM0VHFaUUhSaTJDLUdPSm8tMFo2em5wNDk4MEtoUXBhNTB0NFlYQ2RhWVRBZ2NkTUsyS3h3OEdTaEJpbzYwaWt3WnBCYUV0ZER0VWVpWmp5d1F0ZERHdjRpdHRYR2FHN0ZOdUpaeFNxcllzXzNuYUI2WHBEdWNaR1BfeHVFM2pnbkVnTdIBtgFBVV95cUxNbTdiSXRpSmhWbE4xMGtleVo5bVRNSzNJeFV2MXhjUnZORHQ2N0dlYlktQ1JCTnAzcHh4QmZYYndjM0xBWUlXU0kyRDc1NllBcEZnemRYc1BveGxXdUhqMk1kWS1WR2Fhb1B4S0xWYkJveDJTUDRYS0s3dmJSYkFXQ1ZrVEE1TDd3QXFGTDF3ald2YTgzNUN6NEo2VVlNY1ZFY1dQT0dsbS00aGJ2RGg0OERQYjM4Zw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEFXenE3dlB0NVRXNV9SNEFqeGhTSS1PU1hXVXdjQ1l1LWwtUzM0VHFaUUhSaTJDLUdPSm8tMFo2em5wNDk4MEtoUXBhNTB0NFlYQ2RhWVRBZ2NkTUsyS3h3OEdTaEJpbzYwaWt3WnBCYUV0ZER0VWVpWmp5d1F0ZERHdjRpdHRYR2FHN0ZOdUpaeFNxcllzXzNuYUI2WHBEdWNaR1BfeHVFM2pnbkVnTdIBtgFBVV95cUxNbTdiSXRpSmhWbE4xMGtleVo5bVRNSzNJeFV2MXhjUnZORHQ2N0dlYlktQ1JCTnAzcHh4QmZYYndjM0xBWUlXU0kyRDc1NllBcEZnemRYc1BveGxXdUhqMk1kWS1WR2Fhb1B4S0xWYkJveDJTUDRYS0s3dmJSYkFXQ1ZrVEE1TDd3QXFGTDF3ald2YTgzNUN6NEo2VVlNY1ZFY1dQT0dsbS00aGJ2RGg0OERQYjM4Zw",
-        "image": null,
-        "timestamp": 1777792725.0
-    },
-    {
-        "title_fa": "تهران مهلت یک‌ماهه به ترامپ می‌دهد تا جنگ را پایان دهد و کانال هرمز را باز کند؛ تهدید آمریکا برای ضربات جدید در صورت «بدرفتاری»",
-        "title_en": "Iran-US war latest: Tehran offers Trump one-month deadline to end war",
-        "summary": [
-            "تهران به ترامپ «یک‌ماهه» فرصت می‌دهد تا در چارچوب پایان درگیری، شرایط مرتبط با بازگشایی و کنترل عبوروبـر در تنگه هرمز را تغییر دهد؛ این پیام، شکل‌دادن به یک ضرب‌الاجل سیاسی برای توقف عملیات‌های جاری است.",
-            "رئیس‌جمهور آمریکا هم‌زمان تهدید کرده اگر ایران «رفتار نکند/تکلیف را رعایت نکند»، حملات تازه انجام می‌شود؛ یعنی دو طرف هم‌زمان مسیر فشار و عملیات نظامی را باز نگه می‌دارند.",
-            "این تقابل بیانگر بن‌بست مذاکره یا تلاش برای مدیریت ریسک تشدید است: هر دو طرف در سطح عمومی روی بازه زمانی و قابلیت اقدام نظامی تکیه می‌کنند، نه بر توافق مشخص و قابل راستی‌آزمایی."
-        ],
-        "impact": "این تعامل در کوتاه‌مدت احتمال موج بعدی تنش نظامی را بالا می‌برد، چون تهدید ضربات آمریکا هم‌زمان با طرح مهلت تهران مطرح شده و هیچ مکانیزم توقف فوری و پایدار اعلام نمی‌شود.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-tehran-offers-trump-one-month-deadline-to-end-war/ar-AA2294qw",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-tehran-offers-trump-one-month-deadline-to-end-war/ar-AA2294qw",
-        "image": "http://www.bing.com/th?id=ONUT.Lt_MniNU9si-KjhJdVkfQw&pid=News",
-        "timestamp": 1777789738.0
     }
 ]
