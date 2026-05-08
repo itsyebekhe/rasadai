@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "انتظار واشنگتن از پاسخ ایران به طرح صلح؛ شعله‌ور شدن دوباره درگیری‌ها در خلیج فارس",
+        "title_en": "US expects Iranian response to peace proposal on Friday, fighting flares in Gulf",
+        "summary": [
+            "رویترز می‌گوید واشنگتن انتظار دارد ایران روز جمعه به «پیشنهاد صلح» پاسخ بدهد؛ هم‌زمان گزارش می‌شود درگیری‌ها در خلیج فارس دوباره تشدید شده‌اند.",
+            "این تقارنِ پاسخ‌محور به پیشنهاد صلح با «فزونی گرفتن شعله‌های جنگ» نشان می‌دهد که فضای تصمیم‌گیری تهران و واشنگتن تحت فشار امنیتی-عملیاتی قرار دارد، نه صرفاً مسیر دیپلماتیک.",
+            "چون جزئیات طرح یا ماهیت پاسخ ایران در متن گزارش‌شده نیامده، ارزیابی اثر آن بر وضعیت میدانی و سطح تنش، فعلاً وابسته به واکنش روز جمعه و استمرار/کاهش درگیری‌ها است."
+        ],
+        "impact": "اگر پاسخ ایران با کاهش تنش همراه نشود، درگیری‌های خلیج فارس می‌تواند مسیر را از دیپلماسی به تشدید تنش‌های مستقیم‌تر سوق دهد.",
+        "tag": "Gulf",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/us-expects-iranian-response-to-peace-proposal-on-friday-fighting-flares-in-gulf/ar-AA22I4et",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-expects-iranian-response-to-peace-proposal-on-friday-fighting-flares-in-gulf/ar-AA22I4et",
+        "image": null,
+        "timestamp": 1778259992.0
+    },
+    {
         "title_fa": "آمریکا پاسخ ایران را درباره پیشنهادهای آتش‌بس در انتظار گذاشته است؛ روبیو می‌گوید",
         "title_en": "US waiting on a response from Iran over proposals for ceasefire deal, says Rubio",
         "summary": [
@@ -108,6 +126,24 @@
         "timestamp": 1778242595.0
     },
     {
+        "title_fa": "تشدید تنش آمریکا و ایران بر سر تنگه هرمز؛ رد قطعنامه شورای امنیت و ادامه درگیری‌های دریایی/هوایی",
+        "title_en": "US Iran War Live Updates: 'Colonialism, Exploitation' Has No Place In The World, Says Iran's President",
+        "summary": [
+            "ایران قطعنامه پیشنهادی آمریکا در شورای امنیت سازمان ملل را «نقص‌دار» و «سیاسی» خواند و آن را تلاشی برای مشروعیت‌بخشی به اقدامات غیرقانونی دانست؛ هم‌زمان خواستار پایان جنگ و رفع «بلوک دریایی» آمریکا و بازگشت کشتیرانی عادی از تنگه هرمز شد و از اعضای سازمان ملل خواست از این قطعنامه حمایت نکنند.",
+            "آمریکا و متحدان خلیج فارسِ همراه، قطعنامه‌ای برای «امنیت دریانوردی» و آزادی کشتیرانی در مسیر حیاتی انرژی ارائه می‌کنند؛ واشنگتن ایران را به تهدید علیه کشتیرانی تجاری و بی‌ثبات‌سازی ترافیک دریایی متهم می‌کند.",
+            "با وجود ادعای تداوم آتش‌بس از سوی ترامپ، گزارش‌ها از ادامه حملات و درگیری‌ها حکایت دارد: ایران اعلام کرد نیروهای آمریکایی به یک نفتکش ایرانی و یک کشتی دیگر نزدیک بندر فجیره حمله کرده‌اند و همچنین حملات هوایی آمریکا به مناطق غیرنظامی در بندرعباس/بندرکَمیر، سیریک و جزیره قشم نسبت داده شده؛ در سوی مقابل، ارتش آمریکا از حمله با موشک، پهپاد و قایق تندرو به نیروهای دریایی خود در تنگه هرمز گفت و مدعی شد با رهگیری و هدف‌گیری «تاسیسات مرتبط با حملات» پاسخ داده است."
+        ],
+        "impact": "این ترکیبِ رد قطعنامه سازمان ملل با ادامه حملات دریایی و هوایی، خطر لغزش به درگیری بازتر و تشدید شوک اقتصادی ناشی از اختلال در کریدور انرژی تنگه هرمز را بالا می‌برد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-trump-iran-news-strait-of-hormuz-ceasefire-peace-proposal-pakistan-latest-news-liveblog-154275494",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-trump-iran-news-strait-of-hormuz-ceasefire-peace-proposal-pakistan-latest-news-liveblog-154275494",
+        "image": "http://www.bing.com/th?id=ONUT.UXpq5j3oK6obcCBEjmTE9g&pid=News",
+        "timestamp": 1778242080.0
+    },
+    {
         "title_fa": "موندوی‌ویس: ترامپ شکست جنگ با ایران را پذیرفته و برای خروج دنبال راه می‌گردد",
         "title_en": "Trump knows he lost the Iran war, and is now desperate to find a way out",
         "summary": [
@@ -160,6 +196,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/just-a-love-tap-trump-insists-cease-fire-with-iran-is-holding-despite-ongoing-attacks-traded/ar-AA22G8d5",
         "image": null,
         "timestamp": 1778236200.0
+    },
+    {
+        "title_fa": "افزایش ۱۰۰٪ تورم در چند روز و بیکاری یک‌میلیونی؛ نشانه‌های شکست حکمرانی اقتصادی",
+        "title_en": "Iran may have a higher tolerance for economic pain—but the pain is excruciating as regime reveals 100% inflation in just days on some items",
+        "summary": [
+            "یک مقام وزارت کار و امور اجتماعی می‌گوید پیامد جنگ باعث شده ۱ میلیون نفر از کار خارج شوند؛ یعنی فشار اقتصادی از سطح خانوارها به سطح بازار کار و درآمد پیوسته منتقل شده است.",
+            "گزارش از «تورم ۱۰۰٪ در چند روز» برای برخی اقلام خبر می‌دهد؛ این سطح جهش قیمت، عملاً کنترل‌پذیری اقتصاد را از بین می‌برد و هزینه زندگی را فوراً غیرقابل پیش‌بینی می‌کند.",
+            "با وجود اشاره به «تحمل بالاتر» در ایران، متن تأکید می‌کند که این درد اقتصادی «excruciating» است؛ یعنی حتی اگر دولت بتواند مدتی تاب بیاورد، واقعیت معیشتی به شکل بی‌وقفه تشدید می‌شود."
+        ],
+        "impact": "این ترکیبِ شوک بیکاری و جهش سریع قیمت، پایه‌های ثبات اقتصادی رژیم را فرسوده و نارضایتی را به‌صورت فوری در زندگی روزمره تثبیت می‌کند.",
+        "tag": "تورم",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Fortune on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-may-have-a-higher-tolerance-for-economic-pain-but-the-pain-is-excruciating-as-regime-reveals-100-inflation-in-just-days-on-some-items/ar-AA22ICOR",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-may-have-a-higher-tolerance-for-economic-pain-but-the-pain-is-excruciating-as-regime-reveals-100-inflation-in-just-days-on-some-items/ar-AA22ICOR",
+        "image": "http://www.bing.com/th?id=ONUT.fePArAXHDPfsM9SsFWuXtw&pid=News",
+        "timestamp": 1778236191.0
     },
     {
         "title_fa": "ترامپ می‌گوید آتش‌بس با ایران همچنان برقرار است؛ هم‌زمان موجی از خشونت گزارش شد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://nypost.com/2026/05/03/business/federal-reserve-official-says-iran-war-limits-central-banks-ability-to-provide-rate-guidance",
         "image": "http://www.bing.com/th?id=ONUT.So1p-TCUNogyfzU6KigOoA&pid=News",
         "timestamp": 1777825860.0
-    },
-    {
-        "title_fa": "گزارش حمله به یک کشتی باری در نزدیکی تنگه هرمز هم‌زمان با پیشنهاد «صلح» جدید ایران",
-        "title_en": "A cargo ship near Strait of Hormuz reports being attacked as Iran makes new peace proposal",
-        "summary": [
-            "طبق گزارش واشنگتن پست، یک کشتی باری نزدیک تنگه هرمز خبر از حمله دریافت کرده است؛ جزئیات عامل یا میزان خسارت در متن ارائه‌شده مشخص نیست.",
-            "هم‌زمان با این رویداد، ایران «پیشنهاد صلح» جدید مطرح کرده است؛ اما نسبت دادن این حمله به همان پیشنهاد یا نتیجه‌گیری قطعی از آن، در گزارش حاضر قابل اثبات نیست.",
-            "این هم‌زمانی، نشان‌دهنده شکاف آشکار بین پیام دیپلماتیک و رفتار عملیاتی در آب‌های حساس است و ریسک بی‌ثباتی عملیاتی برای کشتیرانی منطقه را بالا می‌برد."
-        ],
-        "impact": "این حادثه—فارغ از اینکه چه کسی مسئول بوده—هزینه ریسک کشتیرانی و تنش دریایی را افزایش می‌دهد و مسیر کنترل بحران را سخت‌تر می‌کند.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1VsdHpsNFBOXzRfNmpwNG9uWU56aDJza3lMZGpGSTN0bUF4LUdxY21qdUZwZU5wZUtoTWxvUHpvTHZLRm02SVVQbHBaSzNZbEMwdkJjczVXcU9FMXFKRm5WeXRMSHk4OEZkSHJ4OXl3VTZkV2lPdUVicHQzVUs2MzMwVXhCdjZNV0wzSXVqUXF1dzdZMlJvQWowVERHbXVyTWNzSXdoSG11V0dXMnlZazdiMDRBZUxxUWJGVUxSUEtMejEyTVdfSWV4ZnE1UjhCLXhz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV1VsdHpsNFBOXzRfNmpwNG9uWU56aDJza3lMZGpGSTN0bUF4LUdxY21qdUZwZU5wZUtoTWxvUHpvTHZLRm02SVVQbHBaSzNZbEMwdkJjczVXcU9FMXFKRm5WeXRMSHk4OEZkSHJ4OXl3VTZkV2lPdUVicHQzVUs2MzMwVXhCdjZNV0wzSXVqUXF1dzdZMlJvQWowVERHbXVyTWNzSXdoSG11V0dXMnlZazdiMDRBZUxxUWJGVUxSUEtMejEyTVdfSWV4ZnE1UjhCLXhz",
-        "image": null,
-        "timestamp": 1777825775.0
-    },
-    {
-        "title_fa": "ترامپ: آمریکا «کشتی‌ها را به‌طور امن» از تنگه هرمز خارج می‌کند",
-        "title_en": "Iran war: Trump says US to 'guide ships safely' from Hormuz",
-        "summary": [
-            "ترامپ اعلام کرد از دوشنبه، آمریکا مأموریت «Project Freedom» را آغاز می‌کند تا کشتی‌های کشورهای «بی‌طرف و بی‌گناه» که در جنگ خاورمیانه دخالت ندارند را از تنگه هرمزِ مسدود خارج کند و دستور داده «بهترین تلاش» برای نجات کشتی‌ها و خدمه انجام شود.",
-            "او تأکید کرد این اقدام جدا از مذاکرات صلح است و آن را «ژست انسانی» برای کشورها و شرکت‌هایی دانست که «هیچ کار اشتباه» نکرده‌اند؛ هرچند مشخص نیست این حرکت از پیش با ایران هماهنگ شده باشد یا نه.",
-            "ترامپ هشدار داد اگر این «فرآیند انسانی» مختل شود، آمریکا «ناچار» با «قدرت» با آن برخورد خواهد کرد، بدون ارائه جزئیات بیشتر؛ همچنین متن می‌گوید ایران از آغاز جنگ (۲۸ فوریه) کنترل عملیاتی بر تنگه دارد و عمدتاً عبور و مرور را محدود کرده است."
-        ],
-        "impact": "این پیام، مرحله‌ای از تبدیل بحران تنگه هرمز به عملیات آشکار دریایی با ریسک برخورد مستقیم را تقویت می‌کند و هم‌زمان فشار سیاسی-عملیاتی علیه ایران را در آستانه مذاکرات افزایش می‌دهد.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "DW",
-        "url": "https://www.dw.com/en/iran-war-trump-says-us-to-guide-ships-safely-out-of-hormuz/live-77021634",
-        "clean_url": "https://www.dw.com/en/iran-war-trump-says-us-to-guide-ships-safely-out-of-hormuz/live-77021634",
-        "image": null,
-        "timestamp": 1777824840.0
-    },
-    {
-        "title_fa": "ایران با تغییر لحن به گفت‌وگوهای آمریکا درباره پرونده هسته‌ای تن می‌دهد",
-        "title_en": "Iran softens stance, agrees to include nuclear file in US talks, sources say",
-        "summary": [
-            "طبق گزارش منابع به نقل از Al Arabiya، ایران «موضع را نرم کرده» و موافقت کرده پرونده هسته‌ای در مذاکرات با آمریکا وارد شود؛ این یعنی عقب‌نشینی تاکتیکی از چارچوب‌های قبلی. ",
-            "گفت‌وگو درباره موضوع هسته‌ای می‌تواند مسیر کاهش فشار خارجی را باز کند، اما همزمان نشانه‌ای از نیاز رژیم به مدیریت هزینه‌های سیاسی-اقتصادی در شرایط محدودیت‌هاست (بدون اینکه خودِ نتیجه نهایی تضمین شده باشد).",
-            "چنین تغییر موضعی معمولاً واکنش به فشارهای خارجی/محدودیت‌های مذاکراتی و محاسبه هزینه-فایده داخلی است و به تنهایی نشان‌دهنده حل بحران‌های حکمرانی یا اقتصاد نیست؛ فقط ابزار چانه‌زنی را جابه‌جا می‌کند."
-        ],
-        "impact": "ورود پرونده هسته‌ای به میز گفت‌وگو احتمال کاهش تنش دیپلماتیک را بالا می‌برد، اما بیشتر یک حرکت تاکتیکی برای کنترل فشار است تا اصلاح ساختاری.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Al Arabiya English",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaUx1SlEtRFROaHpLMGtQZGExWWpPY2FhN3BnQ3dtRWFxMGs5Xy1tTnF0RER6WDJNN1R6NlpWc05aSGJEOGZHMFo3THFLbE5JRWtvd1FMSWVkRElBLXYyUG9zeGw5VGpYTHpiOTBYT1cwek5VUGhoaVhXMnlSMFdPQm9JY1NwQVNRRDA5Z0ctYUJIV2YtcWYtUDhWTHh4TVl4bmV0WDJlcXpRdGhJT0JZUXZBSXlBamhYNDEzOG42NUNpZTlFU2pfMEFqRDTSAdIBQVVfeXFMUEM3ZXo0amE5azM1U19yVWxkWVBzcUJSSkFNdXlpYWFSTGFmOTgyb1dwOXM4R2xQVFZtNWYxSGZXVW5oZEY4bmY1REV4b0FfVmVBZVRLNENaU1lUdzFMSUkzQnJLRndCcjBuZ242aWlPUDVrOXZCN2xsTTRmYTQtRTU3UVJBOWpmTVNsVkktay0wZW42d1hNbUk0RmcxUjYtUEo2QmR1NFlmTjVYNDNreVRTSFBRUmxZcUFZV3pJNzEwUnkzalFhdXlNN2h2MnVteGRB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaUx1SlEtRFROaHpLMGtQZGExWWpPY2FhN3BnQ3dtRWFxMGs5Xy1tTnF0RER6WDJNN1R6NlpWc05aSGJEOGZHMFo3THFLbE5JRWtvd1FMSWVkRElBLXYyUG9zeGw5VGpYTHpiOTBYT1cwek5VUGhoaVhXMnlSMFdPQm9JY1NwQVNRRDA5Z0ctYUJIV2YtcWYtUDhWTHh4TVl4bmV0WDJlcXpRdGhJT0JZUXZBSXlBamhYNDEzOG42NUNpZTlFU2pfMEFqRDTSAdIBQVVfeXFMUEM3ZXo0amE5azM1U19yVWxkWVBzcUJSSkFNdXlpYWFSTGFmOTgyb1dwOXM4R2xQVFZtNWYxSGZXVW5oZEY4bmY1REV4b0FfVmVBZVRLNENaU1lUdzFMSUkzQnJLRndCcjBuZ242aWlPUDVrOXZCN2xsTTRmYTQtRTU3UVJBOWpmTVNsVkktay0wZW42d1hNbUk0RmcxUjYtUEo2QmR1NFlmTjVYNDNreVRTSFBRUmxZcUFZV3pJNzEwUnkzalFhdXlNN2h2MnVteGRB",
-        "image": null,
-        "timestamp": 1777822860.0
     }
 ]
