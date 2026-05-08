@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "واشنگتن چرا نتوانسته ایران را شکست دهد؟ (تحلیل نظرخواهانه واشنگتن پست)",
+        "title_en": "Opinion | Iran is no match for America. Why hasn’t Washington defeated it?",
+        "summary": [
+            "این نوشته در چارچوب یک یادداشت/نظر منتشر شده و ادعا می‌کند ایران «هم‌تراز آمریکا نیست»، اما توضیح می‌دهد چرا واشنگتن تاکنون نتوانسته به «شکست» عملی برسد؛ چارچوب تحلیل بیشتر سیاسی-راهبردی است تا گزارشی از یک رخداد مشخص.",
+            "با توجه به متن قابل‌مشاهده، جزئیات فنی درباره سیاست‌های فشار، تحریم‌ها، یا عملیات‌های نظامی/دیپلماتیک ارائه نشده و عملاً اطلاعات خام کافی برای ارزیابی دقیق علت ناکامی یا هزینه‌-فایده وجود ندارد.",
+            "به دلیل نبود متن تحلیلی کامل (این صفحه فقط صفحه ورود/فهرست بخش‌ها را نشان می‌دهد)، نمی‌توان وضعیت اقتصاد داخلی، روند اعتراضات، یا نقش بازیگران خارجی را به‌صورت مستند از همین منبع استخراج کرد."
+        ],
+        "impact": "این محتوا بیشتر ارزیابیِ کلی درباره شکاف میان توان آمریکا و نتیجه عملی در مورد ایران است و بدون متن کامل، اثر مستقیم سیاستی یا امنیتی آن قابل سنجش دقیق نیست.",
+        "tag": "تحلیل",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4531541/iran-sentenced-four-protesters-to-death-pope-leo-not-criticized-iran/",
+        "clean_url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4531541/iran-sentenced-four-protesters-to-death-pope-leo-not-criticized-iran",
+        "image": null,
+        "timestamp": 1778255298.0
+    },
+    {
+        "title_fa": "نگاه واقع‌گرایانه به مذاکرات: بن‌بست «قدرت نظامی» علیه ایران",
+        "title_en": "Military force has got the US nowhere with Iran – here is what a realistic negotiation would look like",
+        "summary": [
+            "گاردین می‌گوید استفاده از نیروی نظامی، آمریکا را به نتیجه علیه ایران نرسانده و ادامه همین رویکرد عملاً بن‌بست می‌سازد.",
+            "این گزارش چارچوبی برای «مذاکره واقع‌گرایانه» پیشنهاد می‌کند که بر پایه کاهش تنش و معامله‌های قابل‌اجرا طراحی شده، نه تهدیدات و فشار صرف.",
+            "در گزارش توضیح مستقیمی از جزئیات توافق ارائه نمی‌شود، اما پیام اصلی روشن است: هر سناریوی مذاکره باید با واقعیت‌های قدرت منطقه‌ای و توان بازدارندگی ایران هم‌تراز شود."
+        ],
+        "impact": "این تحلیل به جای تشدید چرخه فشار-پاسخ، بر ضرورت تغییر مسیر به سمت مذاکره قابل‌اجرا تاکید می‌کند، چون راهبرد نظامی به نتیجه نرسیده است.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVVBUjFhMG9sQ1Y1QnBfX2RtWVNFek81M2lwZ1cyOXl1eDY0a01LWlR0WVh5Z18xWUtBcHFidHdnZnJISk9pZmFEQk1pc0NHYTdFYUo1bG5kWU81WlZxRlZETW4zazVHaFdJRm8yTUJGSG4wVkxndGJpcS1haUtDTTkwV0laX3Q2OE5R?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVVBUjFhMG9sQ1Y1QnBfX2RtWVNFek81M2lwZ1cyOXl1eDY0a01LWlR0WVh5Z18xWUtBcHFidHdnZnJISk9pZmFEQk1pc0NHYTdFYUo1bG5kWU81WlZxRlZETW4zazVHaFdJRm8yTUJGSG4wVkxndGJpcS1haUtDTTkwV0laX3Q2OE5R",
+        "image": null,
+        "timestamp": 1778251920.0
+    },
+    {
+        "title_fa": "اتهام‌زنی ایران و آمریکا درباره ماجراجویی نظامی در تنگه هرمز و ادامه فشار دریایی",
+        "title_en": "Iran accuses US of 'reckless military adventure'",
+        "summary": [
+            "عباس عراقچی، وزیر خارجه ایران، آمریکا را به «ماجراجویی نظامی پرخطر» متهم کرد و گفت هر بار که راه‌حل دیپلماتیک روی میز است، واشنگتن به جای آن به فشار و عملیات رو می‌آورد؛ این اظهارات یک روز پس از آن مطرح شد که دو طرف یکدیگر را به حمله در تنگه هرمز متهم کردند و آمریکا به چند شناور ایرانی هم شلیک کرد.",
+            "ترامپ ادعا کرد «آتش‌بس» برقرار است تا زمینه گفت‌وگو برای پایان جنگی که آمریکا و اسرائیل در فوریه آغاز کرده‌اند فراهم شود؛ هم‌زمان مارکو روبیو گفت ایران انتظار دارد به پیشنهادهای آمریکا در جمعه پاسخ دهد، و هر دو طرف از نقش «خرابکار» یا سوءاستفاده سیاسی طرف مقابل در ادامه بحران سخن گفتند.",
+            "در ادامه تنش‌ها، سنتکام اعلام کرد نیروهای آمریکا دو نفتکش بدون محموله با پرچم ایران را که قصد ورود به بندر در خلیج عمان داشتند «غیرفعال» کرده و با مهمات دقیق دودکش آن‌ها را هدف گرفته‌اند؛ همچنین سنتکام حمله ایران به ناوهایش را «بی‌دلیل» خواند و فرماندهی ارشد نظامی ایران نیز از هدف‌گیری یک نفتکش و حملات هوایی به مناطق ساحلی خبر داد."
+        ],
+        "impact": "ادامه درگیری‌های دریایی هم‌زمان با حفظ محاصره و فشار بندری، ریسک تشدید فوری تنش و اختلال پایدار در مسیر حیاتی هرمز را بالا می‌برد.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
+        "clean_url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
+        "image": null,
+        "timestamp": 1778249664.0
+    },
+    {
         "title_fa": "گزارش امارات از حمله پهپادی و موشکی؛ آمریکا از درگیری با ایران خبر داد",
         "title_en": "UAE reports drone and missile attack after US says it traded fire with Iran",
         "summary": [
@@ -160,6 +214,24 @@
         "clean_url": "https://www.business-standard.com/industry/auto/toyota-expects-4-3-bn-hit-from-iran-war-fallout-amid-supply-disruptions-126050800648_1.html",
         "image": null,
         "timestamp": 1778230485.0
+    },
+    {
+        "title_fa": "سقوط بورس چین و هنگ‌کنگ همزمان با تشدید درگیری آمریکا و ایران؛ انتظار پاسخ ایران",
+        "title_en": "Iran War News Live Updates: We should get Iran's response today, says U.S. secretary of state Rubio on Iran",
+        "summary": [
+            "بر اساس گزارش Economic Times، سهام سرزمین اصلی چین و بورس هنگ‌کنگ در روز جمعه کاهش یافت؛ محرک این افت «ازسرگیری درگیری‌های میان آمریکا و ایران» عنوان شده است.",
+            "این تشدید تنش‌ها «آسیب به آتش‌بس شکننده» توصیف می‌شود و نشان می‌دهد بازارها خطر گسترش درگیری را در قیمت‌ها لحاظ کرده‌اند.",
+            "هم‌زمان، بازار منتظر است پاسخ ایران «امروز» دریافت شود؛ نقل قول درباره این انتظار، اظهارات مارکو روبیو، وزیر امور خارجه آمریکا، است."
+        ],
+        "impact": "با توجه به اینکه بازارها از به‌هم‌ریختن آتش‌بس و احتمال ادامه/گسترش درگیری هراس دارند، ریسک‌گریزی مالی می‌تواند به بی‌ثباتی بیشتر منطقه‌ای و افزایش هزینه‌های عدم‌قطعیت برای اقتصادها منجر شود.",
+        "tag": "بازارهای_مالی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/newsblogs/iran-war-news-live-updates-us-israel-iran-donald-trump-khamenei-ceasefire-uae-strait-of-hormuz-latest-news/liveblog/130941716.cms",
+        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/iran-war-news-live-updates-us-israel-iran-donald-trump-khamenei-ceasefire-uae-strait-of-hormuz-latest-news/liveblog/130941716.cms",
+        "image": "http://www.bing.com/th?id=ONUT.70qs4ykBgCVhaSNyOKFZWQ&pid=News",
+        "timestamp": 1778230440.0
     },
     {
         "title_fa": "فشار بر آتش‌بس؛ حملات تبادلی میان ایران و آمریکا در نزدیکی تنگه هرمز",
@@ -592,6 +664,24 @@
         "clean_url": "https://www.usatoday.com/story/news/world/2026/05/07/iran-war-trump-israel-lebanon-updates--live/89971678007",
         "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/06/USAT/89963551007-20260506-t-170238-z-1221059145-rc-2-s-3-lamxfrr-rtrmadp-3-usatrump.JPG?crop=4564,2568,x0,y237&width=3200&height=1801&format=pjpg&auto=webp",
         "timestamp": 1778189880.0
+    },
+    {
+        "title_fa": "سی‌ان‌ان: تروپ «آن چیزی» را که از جنگ علیه ایران می‌خواست نگرفت؛ از مطالبات حداکثری عقب نشست",
+        "title_en": "Trump is not getting what he initially wanted from the Iran war",
+        "summary": [
+            "گزارش می‌گوید «آتش‌بسِ مذاکره‌محور» در قالب تبادل آتش روز پنج‌شنبه ادامه یافته و نتیجه فعلی بیشتر «یادداشت تفاهم/مکانیسم» برای روند پایان مذاکره‌ای جنگ است، نه بسته‌ای که ابتدا در ذهن تروپ تعریف شده بود.",
+            "چارچوب پیشنهادی شامل توقف/محدودسازی برنامه هسته‌ای ایران برای یک دوره معین (US حداقل حدود ۱۰ سال را دنبال می‌کند) و همچنین تحویل ذخایر اورانیوم با غنای بالا است؛ در مقابل آمریکا می‌تواند تحریم‌ها را «شل» کند و میلیاردها دلار از دارایی‌های مسدودشده ایران را آزاد کند و هر دو طرف متعهد به پایان محدودیت‌های تنگه هرمز شوند.",
+            "سی‌ان‌ان تاکید می‌کند تروپ از ابتدا هدف را «توقف موقت» نگفت؛ او صراحتاً روی خواستِ «هرگز» رسیدن ایران به سلاح هسته‌ای و همچنین رد صریح «مذاکره/توافق» حرف زده بود. همچنین هدف «تغییر رژیم» هم که در ابتدا مطرح بوده، طبق این گزارش خیلی زود کنار گذاشته شده است."
+        ],
+        "impact": "عقب‌نشینی از مطالبات حداکثری نشان می‌دهد فشار جنگ و هزینه‌های سیاسیِ آمریکا می‌تواند به سمت معامله‌ای با امتیازدهی متقابل و کاهش فشار اقتصادیِ فوری حرکت کند.",
+        "tag": "مذاکره",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/05/08/politics/trump-iran-war-demands",
+        "clean_url": "https://www.cnn.com/2026/05/08/politics/trump-iran-war-demands",
+        "image": "http://www.bing.com/th?id=ONUT.rkFPuQm4gMxMJC6nHihF8w&pid=News",
+        "timestamp": 1778187660.0
     },
     {
         "title_fa": "اسرائیل دخالت در انفجارهای جنوب ایران را رد کرد",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUjFPaENMRXV1QkNCbFVWWWFxb1JmWVpnZjdDd3Z6eS1oa2xUcExwQkY2R0dJeWJFTl9icE1CaVVDamxCUE9TNkplNlVnVmtFdTRJN2dLUEdocFFpRFM5OTQ0cWplWHdBeE5INXpvVmg0WDV5aHFlZ2RmS2J1RGVtM0JsQ0dWaUJva1lNTGJuVWM1bm1qNnVyRDhLMDktYWdhUjVlUng2eXh5QQ",
         "image": null,
         "timestamp": 1777821540.0
-    },
-    {
-        "title_fa": "ایران می‌گوید «پنجره تصمیم‌گیری» ترامپ «تنگ‌تر» شده است",
-        "title_en": "Iran claims Trump’s decision window has ‘narrowed’",
-        "summary": [
-            "ایران در واکنش به تصمیمات یا روند مذاکرات/اقدامات مرتبط با ترامپ، اعلام کرده «پنجره تصمیم‌گیری» محدودتر شده است؛ متن، ادعای ارزیابی سیاسی از طرف تهران است نه خبر عملی جدید.",
-            "این گزاره بیشتر یک پیام‌سازی در چارچوب فشار و زمان‌بندی ادراک‌شده از سوی واشنگتن تلقی می‌شود و در گزارش، شواهد مشخص از اجرای اقدام‌های جدید ارائه نشده است.",
-            "با توجه به عدم ذکر جزئیات درباره تحریم، توافق، یا رخداد میدانی، اثر فوری اقتصادی یا داخلی از خودِ این خبر قابل اندازه‌گیری نیست."
-        ],
-        "impact": "این اظهارنظر عمدتاً پیام سیاسی-زمانی است و تا زمانی که با اقدامات ملموس (تحریم/توافق/رخداد میدانی) همراه نشود، اثر مستقیم قابل سنجش ندارد.",
-        "tag": "پیام‌رسانی",
-        "urgency": 3,
-        "sentiment": -0.1,
-        "source": "NewsNation",
-        "url": "https://www.msn.com/en-us/news/world/a-defiant-iran-leaves-trump-with-few-options/ar-AA22dFTi?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/news/world/a-defiant-iran-leaves-trump-with-few-options/ar-AA22dFTi",
-        "image": null,
-        "timestamp": 1777820550.0
-    },
-    {
-        "title_fa": "ایران: تهدید حمله به آمریکا در تنگه هرمز همزمان با آغاز مأموریت ترامپ",
-        "title_en": "Iran warns it will attack US in Strait of Hormuz as Trump mission begins",
-        "summary": [
-            "ایران به‌طور علنی هشدار داده که در تنگه هرمز به آمریکا حمله خواهد کرد و این پیام هم‌زمان با آغاز مأموریت منتسب به ترامپ مطرح شده است.",
-            "ترامپ وعده داده «پروژه آزادی» شامل اسکورت نظامی آمریکا برای بیرون بردن کشتی‌های گرفتار در تنگه هرمز باشد؛ یعنی محور اصلی تنش، کنترل و امن‌سازی مسیر کشتیرانی است.",
-            "این تهدیدها یک الگوی خطرناک از تشدید مستقیم را نشان می‌دهد: برخورد احتمالی بین نیروی آمریکا (اسکورت) و اقدام ایران (تهدید به حمله) در یک گلوگاه حیاتی دریایی."
-        ],
-        "impact": "در صورت تحقق برخورد، احتمال افزایش تنش نظامی و اختلال جدی در تجارت و امنیت کشتیرانی در تنگه هرمز به‌طور فوری بالا می‌رود.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-warns-it-will-attack-us-in-strait-of-hormuz-as-trump-mission-begins/ar-AA22j2Yv",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-warns-it-will-attack-us-in-strait-of-hormuz-as-trump-mission-begins/ar-AA22j2Yv",
-        "image": "http://www.bing.com/th?id=ONUT.gO3ra4PszzaJ65qmpepFIA&pid=News",
-        "timestamp": 1777819486.0
-    },
-    {
-        "title_fa": "حمله به یک کشتی باری در تنگه هرمز؛ تهران تهدید «بستن تنگه» را دوباره فعال کرد",
-        "title_en": "Iran attacks cargo ship in Strait of Hormuz",
-        "summary": [
-            "یک کشتی باری روز یکشنبه در نزدیکی تنگه هرمز هدف برخورد چند قایق کوچک قرار گرفت؛ مقام‌های نظامی بریتانیا گفتند کشتی درست کنار سواحل سیریک ایران (کمی شرق تنگه) زده شد، اما خدمه سالم بودند و هیچ گروهی بلافاصله مسئولیت را نپذیرفت.",
-            "این حمله در ادامه الگوی تهدیدهای تکرارشونده تهران علیه ناوبری از تنگه هرمز است: ایران گفته هر کشتی‌ای که از تنگه عبور کند «حمله» می‌گیرد مگر هزینه بپردازد و ثابت کند وابسته به آمریکا یا اسرائیل نیست؛ ضمن اینکه مسیر کشتی «به سمت شمال» و داخل خلیج فارس توصیف شده است، نه برای خروج از منطقه.",
-            "طبق گزارش، دست‌کم دو دوجین حمله در اطراف و داخل تنگه هرمز از آغاز جنگ رخ داده و این مورد «نخستین حمله از ۲۲ آوریل» بود؛ با وجود ضربه‌های نظامی به نیروی دریایی، سپاه همچنان شناورهای گشتی کوچک را در همان منطقه حفظ کرده و تهدید می‌کند تنگه در کنترل ایران می‌ماند حتی اگر گفت‌وگوهای شکننده با آمریکا ادامه داشته باشد."
-        ],
-        "impact": "این رویداد یک گام دیگر برای تداوم فشار مستقیم بر کریدور حیاتی نفتی است و می‌تواند ریسک درگیری گسترده‌تر در هرمز را بالا ببرد، مخصوصاً در فضایی که آمریکا هم از «پاسخ نظامی» صحبت کرده است.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/03/world-news/iran-attacks-cargo-ship-in-strait-of-hormuz/",
-        "clean_url": "https://nypost.com/2026/05/03/world-news/iran-attacks-cargo-ship-in-strait-of-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.gXs4tPnm5l_TC1MCu_yDOQ&pid=News",
-        "timestamp": 1777818960.0
-    },
-    {
-        "title_fa": "پدافند آمریکا برای موشک‌های حزب‌الله و پاسخ اسرائیل در نزدیکی مرز لبنان؛ بازتاب مستقیم تنش ایران در جبهه شمال",
-        "title_en": "US Iran news highlights: Hezbollah rockets intercepted as Israel fires back near Lebanon border",
-        "summary": [
-            "طبق گزارش Moneycontrol، موشک‌های حزب‌الله در منطقه نزدیک مرز لبنان هدف قرار گرفته و رهگیری/موفقیت پدافند برای مقابله با آن‌ها گزارش شده است؛ نشانه‌ای از تشدید درگیری‌های نیابتی مرتبط با تهران.",
-            "همزمان، اسرائیل در پاسخ به این تحرکات وارد اقدام تلافی‌جویانه شده که تمرکز را از «تهدید» به «درگیری عملی» می‌برد و ریسک گسترش دامنه عملیات را بالا می‌کشد.",
-            "متن منبع جزئیات تحلیلی درباره تحولات داخلی ایران یا وضعیت اقتصادی ارائه نمی‌دهد؛ بنابراین ارزیابی درباره پیامدهای رژیم ایران باید صرفاً در چارچوب تاثیر مستقیم این رخداد منطقه‌ای محدود بماند."
-        ],
-        "impact": "این رخداد می‌تواند چرخه حمله-پاسخ را در مرز لبنان فعال‌تر کند و هزینه‌های عملیاتی برای شبکه‌های نیابتی مرتبط با تهران را افزایش دهد، بدون اینکه از متن درباره فشار اقتصادی یا فروپاشی داخلی نتیجه‌گیری شود.",
-        "tag": "منطقه‌ای",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/iran-submits-peace-proposal-trump-reviews-israel-lebanon-14-point-peace-proposal-us-iran-peace-talks-pakistan-liveblog-13906273.html",
-        "clean_url": "https://www.moneycontrol.com/world/iran-submits-peace-proposal-trump-reviews-israel-lebanon-14-point-peace-proposal-us-iran-peace-talks-pakistan-liveblog-13906273.html",
-        "image": "http://www.bing.com/th?id=ONUT.Ca80D1FnEF6J2r9yqpelCw&pid=News",
-        "timestamp": 1777817220.0
-    },
-    {
-        "title_fa": "حمله به یک کشتی تجاری نزدیک تنگه هرمز؛ همزمان هشدار تند تهران و توقف واقعی عبور‌ونقل نفتی",
-        "title_en": "Iran-US War Ceasefire Live Updates | Bulk carrier near Strait of Hormuz attacked, UK military says",
-        "summary": [
-            "یگان دریایی بریتانیا اعلام کرد یک کشتی فله‌بر نزدیک تنگه هرمز با قایق‌های کوچک مورد حمله قرار گرفته و این رویداد حوالی «سریک» در ایران رخ داده، اما همه خدمه سالم هستند.",
-            "هم‌زمان یک مقام ارشد ایرانی به آمریکا هشدار داده که تنگه هرمز را به «گورستان» نیروهای آمریکایی تبدیل می‌کند؛ در همین فضا، دونالد ترامپ گفته پیشنهاد تازه ایران برای پایان جنگ را «به‌زودی» بررسی می‌کند ولی نسبت به رسیدن به توافق تردید دارد.",
-            "در بخش انرژی، اوپک‌پلاس قرار است سهمیه تولید را برای سومین بار افزایش دهد (حدود ۱۸۸ هزار بشکه در روز)، اما منابع می‌گویند این افزایش «عمدتاً روی کاغذ» می‌ماند چون جنگِ آمریکا-ایران عرضه نفت خلیج را مختل کرده است؛ همچنین داده‌های ردیابی کشتی نشان می‌دهد گذر یک نفتکش/تانکر مرتبط با هند به‌عنوان نخستین عبور مشاهده‌شده پس از تشدید محدودیت‌ها ثبت شده است."
-        ],
-        "impact": "این حمله دریایی نزدیک هرمز، همراه با هشدارهای طرفین و اختلال ادامه‌دار در مسیرهای نفتی، ریسک تشدید درگیری و فشار پایدار بر تجارت انرژی را بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "The Indian Express",
-        "url": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310/",
-        "clean_url": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310",
-        "image": "http://www.bing.com/th?id=ONUT.KIkEHxd5GDVXrTXAI08i5Q&pid=News",
-        "timestamp": 1777817220.0
     }
 ]
