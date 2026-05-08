@@ -90,6 +90,24 @@
         "timestamp": 1778249664.0
     },
     {
+        "title_fa": "اظهار یک مقام سابق: ایران «سلاح هسته‌ای» توسعه نمی‌داد",
+        "title_en": "'Iran wasn't developing a nuclear weapon,' ex-counterterrorism chief says",
+        "summary": [
+            "منبع خبری فقط یک ادعای مربوط به اظهارات یک «رئیس سابق ضدتروریسم» را بازتاب داده که می‌گوید ایران در حال توسعه سلاح هسته‌ای نبوده است؛ هیچ جزئیات فنی یا داده قابل راستی‌آزمایی ارائه نشده.",
+            "در متن ارسالی، هیچ اشاره‌ای به اقدامات اجرایی، تحرکات میدانی، تحریم‌های جدید، یا واکنش دولت‌ها به این ادعا دیده نمی‌شود.",
+            "بخش عمده متن ارسالی به هشدار گرمای شدید و وضعیت کیفیت هوا در آریزونا اختصاص دارد که هیچ ارتباط مستقیمی با موضوع هسته‌ای ندارد."
+        ],
+        "impact": "این گزارش بیشتر جنجال سیاسی/اظهارنظر فردی است و از نظر اطلاعاتی، بدون شواهد و پیامدهای قابل پیگیری، اثر مستقیم راهبردی سنجیده نمی‌شود.",
+        "tag": "هسته‌ای",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "FOX 10 Phoenix",
+        "url": "https://www.fox10phoenix.com/news/joe-kent-iran-wasnt-developing-nuclear-weapon",
+        "clean_url": "https://www.fox10phoenix.com/news/joe-kent-iran-wasnt-developing-nuclear-weapon",
+        "image": "http://www.bing.com/th?id=ONUT.6lEtTZ2OxcJaUPpLTd-iRg&pid=News",
+        "timestamp": 1778247360.0
+    },
+    {
         "title_fa": "گزارش امارات از حمله پهپادی و موشکی؛ آمریکا از درگیری با ایران خبر داد",
         "title_en": "UAE reports drone and missile attack after US says it traded fire with Iran",
         "summary": [
@@ -106,6 +124,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcExZcVpZYU4yU3oxSEpmajVmMktveG8zd1V3anRxdHhneVR1LUFuSUtSZGJpZUEwVEZTNkNZRlBGSzRQSVRkZVprMkp5dzhVUFJPMkdmTFVQMF9tOF8xVng2Qy01ZDlWNW5oTEhjeVcxd0ltQ3h2LUVBNVg1THRtUFp5Y3Ezd1MwUkR6elNoWHNDY00",
         "image": null,
         "timestamp": 1778246220.0
+    },
+    {
+        "title_fa": "کارشناسان: محاصره نفتی ترامپ رژیم را به تخلیه نفت مازاد در خلیج فارس می‌راند",
+        "title_en": "Trump blockade squeezing Iran so hard regime may be dumping oil into Gulf, experts say",
+        "summary": [
+            "طبق گزارش، کارشناسان می‌گویند «بلوک/محاصره» ترامپ باعث شده فشار روی صادرات و مدیریت نفت ایران به حدی برسد که امکان ذخیره‌سازی داخلی رو به پایان است.",
+            "این وضعیت، به‌زعم کارشناسان، می‌تواند رژیم را وادار کند نفت خام مازاد را برای ادامه جریان فروش/تسویه به سمت خلیج فارس هدایت کند.",
+            "نتیجه مستقیم گزارش این است که محدودیت‌های خارجی نه‌فقط درآمدزایی، بلکه ظرفیت لجستیکی و ذخیره‌سازی را هم تحت فشار قرار داده و رفتار عملیاتی رژیم را تغییر داده است."
+        ],
+        "impact": "اگر برداشت کارشناسان درست باشد، فشار ساختاری بر زنجیره نفتی می‌تواند هم ریسک‌های عملیاتی و هم حفره‌های جدید در کنترل رژیم بر صادرات ایجاد کند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": 0.4,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-blockade-squeezing-iran-so-hard-regime-may-be-dumping-oil-into-gulf-experts-say/ar-AA22I6wf",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-blockade-squeezing-iran-so-hard-regime-may-be-dumping-oil-into-gulf-experts-say/ar-AA22I6wf",
+        "image": "http://www.bing.com/th?id=ONUT.w-yR98CaS1SeblRuAyjp8w&pid=News",
+        "timestamp": 1778244148.0
     },
     {
         "title_fa": "رویکرد واشنگتن: «پاسخ ایران» به توافق صلح «امروز» مورد انتظار است",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://cryptobriefing.com/iran-demands-us-troop-withdrawal-sanctions-relief-in-14-point-plan",
         "image": "http://www.bing.com/th?id=ONUT.2xpZXA2r6RcsgD1cq0p7XQ&pid=News",
         "timestamp": 1777830780.0
-    },
-    {
-        "title_fa": "حمله به یک کشتی باری در تنگه هرمز؛ UKMTO از سلامت خدمه خبر داد و CENTCOM از تغییر مسیر ۴۹ کشتی تحت محاصره خبر می‌دهد",
-        "title_en": "Bulk carrier attacked by multiple small craft off Iran, UKMTO says",
-        "summary": [
-            "UKMTO اعلام کرد یک کشتی فله‌بر که به‌سمت شمال حرکت می‌کرد، ۱۱ مایل دریایی غرب سریک (نزدیک تنگه هرمز و در سمت ایران) هدف حمله با چند فروند شناور کوچک قرار گرفت؛ خدمه طبق گزارش «ایمن» هستند و آلودگی محیطی هم گزارش نشده است.",
-            "این رخداد در فضایی رخ می‌دهد که تنگه هرمز از زمان تشدید درگیری‌های مرتبط با جنگ ایالات متحده-اسرائیل علیه ایران، کانون فشار دریایی شده است؛ همچنین وضعیت «نزدیک شدن به محاصره/اختلال جدی در جریان تجارت» در متن به‌عنوان زمینه اصلی آمده است.",
-            "CENTCOM همزمان اعلام کرد که تا امروز ۴۹ کشتی تجاری برای ورود/خروج از بنادر ایران برای انطباق با محاصره ایالات متحده تغییر مسیر داده‌اند و «اجرای کامل» محاصره در دستور کار است."
-        ],
-        "impact": "این زنجیره از حملات دریایی و اجرای محاصره، هزینه تجارت دریایی از تنگه هرمز را بالا می‌برد و ریسک اختلال در صادرات و درآمد ارزی را تشدید می‌کند.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says",
-        "clean_url": "https://www.aljazeera.com/news/2026/5/3/bulk-carrier-attacked-by-multiple-small-craft-off-iran-ukmto-says",
-        "image": null,
-        "timestamp": 1777827017.0
-    },
-    {
-        "title_fa": "کاشکاری: تداوم جنگ ایران توان فدرال رزرو برای راهنمایی نرخ بهره را محدود می‌کند؛ احتمال افزایش نرخ در سناریوهای بد",
-        "title_en": "Federal Reserve official says Iran war limits central bank’s ability to provide rate guidance",
-        "summary": [
-            "نِیل کشکاری، رئیس فدرال رزرو مینیاپولیس، می‌گوید هرچه جنگ ایران طولانی‌تر شود، ریسک تورم بالاتر و آسیب به اقتصاد بیشتر می‌شود و همین عدم‌قطعیت «راهنمایی نرخ» برای تصمیم‌گیری پولی را محدود می‌کند.",
-            "او با اشاره به تشدید اختلالات ناشی از تعطیلی تنگه هرمز و اثر آن بر عرضه ۲۰٪ نفت و گاز جهان، می‌گوید جهش جهانی قیمت انرژی محیط تورمی نامساعد آمریکا را بدتر کرده و حتی ممکن است فدرال رزرو مجبور به افزایش نرخ بهره شود.",
-            "کشکاری در عین حال از اطمینان به «کاهش نرخ» فاصله می‌گیرد و می‌گوید در سناریوهای بد ممکن است «سمت دیگر» یعنی افزایش نرخ اتفاق بیفتد؛ همچنین در آخرین نشست FOMC موجی از مخالفت ایجاد شد که نشان‌دهنده شکاف جدی در برداشت از جهت سیاست نرخ بهره است."
-        ],
-        "impact": "این اظهارات یعنی جنگ ایران، از مسیر شوک انرژی و تشدید عدم‌قطعیت اقتصادی، احتمالیِ افزایش نرخ بهره را تقویت می‌کند و انعطاف سیاست‌گذاری را کاهش می‌دهد.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/03/business/federal-reserve-official-says-iran-war-limits-central-banks-ability-to-provide-rate-guidance/",
-        "clean_url": "https://nypost.com/2026/05/03/business/federal-reserve-official-says-iran-war-limits-central-banks-ability-to-provide-rate-guidance",
-        "image": "http://www.bing.com/th?id=ONUT.So1p-TCUNogyfzU6KigOoA&pid=News",
-        "timestamp": 1777825860.0
     }
 ]
