@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تأثیر ۴.۳ میلیارد دلاری تویوتا ناشی از اختلالات مرتبط با درگیری ایران",
+        "title_en": "Toyota Faces $4.3 Billion Impact Amid Iran Conflict Disruptions",
+        "summary": [
+            "طبق گزارش StockInvest.us، شرکت تویوتا با «اثر ۴.۳ میلیارد دلاری» روبه‌رو شده که به اختلالات ناشی از درگیری‌های مرتبط با ایران نسبت داده شده است؛ یعنی ریسک ژئوپولیتیک مستقیماً به زنجیره عرضه و درآمد شرکت‌ها سرایت کرده است.",
+            "این نوع ضربه مالی معمولاً از مسیر اختلال در حمل‌ونقل، هزینه‌های بیمه/تأمین، و جابه‌جایی مسیرها یا توقف‌های مقطعی رخ می‌دهد؛ اما متن شما جزئیات عملیاتی و منبع دقیق اعداد را ارائه نکرده است.",
+            "از آنجا که داده‌ها فقط به «اثر مالی» اشاره می‌کنند و نه نوع اقدام (تحریم، حمله، یا تصمیم اجرایی)، نتیجه‌گیری درباره شدت فشار خارجی یا رفتار داخلی رژیم بدون شواهد بیشتر ممکن نیست."
+        ],
+        "impact": "اختلالات جنگی/ژئوپولیتیک مرتبط با ایران عملاً به اقتصاد واقعی و شرکت‌های بزرگ تولیدی منتقل شده و ریسک مالی را در کوتاه‌مدت تشدید می‌کند.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "StockInvest.us",
+        "url": "https://www.business-standard.com/industry/auto/toyota-expects-4-3-bn-hit-from-iran-war-fallout-amid-supply-disruptions-126050800648_1.html",
+        "clean_url": "https://www.business-standard.com/industry/auto/toyota-expects-4-3-bn-hit-from-iran-war-fallout-amid-supply-disruptions-126050800648_1.html",
+        "image": null,
+        "timestamp": 1778230485.0
+    },
+    {
         "title_fa": "تبادل آتش میان آمریکا و ایران نزدیک تنگه هرمز؛ خطر جهش به درگیری مستقیم",
         "title_en": "U.S. and Iran exchange fire near the Strait of Hormuz",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-in/news/world/us-iran-exchange-fire-in-strait-of-hormuz-amid-fragile-ceasefire-trump-calls-its-love-tap/ar-AA22F2m8",
         "image": null,
         "timestamp": 1778223660.0
+    },
+    {
+        "title_fa": "روز جنگ ایران ۷۰؛ آتش‌بس متزلزل، درگیری دوباره در تنگه هرمز با رهگیری آمریکا",
+        "title_en": "Iran war day 70: US, Iran trade fire in Hormuz amid ceasefire tensions",
+        "summary": [
+            "امارات اعلام کرد بامداد امروز دفاع هوایی‌اش «درگیر فعال» با حمله پهپادی و موشکی بوده؛ هم‌زمان خبر داده شد که ساعاتی پیش، آمریکا حملات ایران به سه ناوشکن آمریکایی در تنگه هرمز را رهگیری کرده است.",
+            "آمریکا مدعی شد در پاسخ، به «مراکز نظامی ایرانی مسئول حمله به نیروهای آمریکایی» حمله هدفمند انجام داده، در حالی که اعلام کرد به هیچ کشتی آسیب نرسیده است و صرفاً برای حفاظت از نیروهایش آماده است.",
+            "ترامپ گفت آتش‌بس با ایران همچنان برقرار است، با وجود تبادل آتش در هرمز؛ او حملات را «یک چیز جزئی» توصیف کرد و هم‌زمان اعلام کرد مذاکره با ایران ادامه دارد، در حالی که این تنش‌ها می‌تواند توافق شکننده از ۸ آوریل را فرسایش دهد."
+        ],
+        "impact": "تکرار تبادل آتش در هرمز نشان می‌دهد آتش‌بس در عمل ناپایدار است و خطر جهش سریع بحران دریایی و هزینه‌های اقتصادی مسیر نفتی را بالا می‌برد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece",
+        "clean_url": "https://www.thehindu.com/news/international/iran-israel-war-us-ceasefire-talks-strait-of-hormuz-issue-live-updates-may-8-2026/article70953662.ece",
+        "image": null,
+        "timestamp": 1778222138.0
     },
     {
         "title_fa": "گزارش امارات از حمله پهپادی و موشکی؛ بحران آتش‌بس جنگ ایران زیر فشار عملیاتی",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWYteDFuWE52WnBlaS1rSVZGd3pBRTN4ZTM5TzQxNVEtUUZjSWRDSVBwTWZzRXlKY2pHSU0yV2NxX2ZJTGstSkw5ejY5R3lwYlR3Mmcxb01YVjljNERnTDF5Z19pQk9LX2RRd0pfcnRqQXJRaWNsRmFnT3VYOXN3ZzE4MjlNQ0dh",
         "image": null,
         "timestamp": 1777799024.0
-    },
-    {
-        "title_fa": "اگر جنگ آمریکا و ایران شعله‌ور شود، پیامدهایش می‌تواند از «دلیل‌تراشی»‌های اولیه هم بزرگ‌تر باشد",
-        "title_en": "Effects of US-Iran war could dwarf the rationale for it | Opinion",
-        "summary": [
-            "این یادداشت هشدار می‌دهد که حتی اگر جنگ آمریکا و ایران با منطق‌هایی مثل مهار تهدید یا کنترل خطر آغاز شود، اثرات واقعی می‌تواند از آن توجیه‌ها بزرگ‌تر و مخرب‌تر شود.",
-            "تمرکز اصلی روی پیامدهای ناخواسته و هزینه‌های راهبردی است؛ یعنی اینکه نتیجه نهایی ممکن است موازنه منافع-هزینه را به‌نفع هیچ طرفی تغییر ندهد و کل منطقه را در معرض شوک قرار دهد.",
-            "چون متن فقط یک «نظر» است، جزئیات عملیاتی یا شواهد مشخص درباره اقدام نظامی جدید ارائه نمی‌کند، اما استدلال کلانش این است که احتمال تشدید و زنجیره‌ای شدن بحران در صورت شروع جنگ بالاست."
-        ],
-        "impact": "این تحلیل بیشتر یک هشدار راهبردی است تا گزارش رویداد، اما می‌تواند نشان‌دهنده نگرانی جدی از تشدید هزینه‌های جنگ و بی‌تناسب شدن پیامدها با اهداف اعلامی باشد.",
-        "tag": "تحلیل",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Knoxville News Sentinel",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTEZ6b2RqMnlCOE1SeHc5MDJIb294S1lWRXNRanVObUk0SkJRMDhDckJBTENZUVA1dmo0cHBCMC0tU2dvODU3NHVMNG0tUDBFQU45NGRENlFMSnBTVVRYMGprZjcxcDdUU1V3N2dLanlwSnFzNERUYkFWT3F1aWNLTjFQNEZqVmVCZ2JGTUZkbWhnUHoxQ0pYYm9hTDhzZWJ6SEJrSHBRcF9oX1FMN25MVUlxcDJzMHJpSkYxYlVjanduS3dXLXBab2xfRW8xY3pjMU5R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTEZ6b2RqMnlCOE1SeHc5MDJIb294S1lWRXNRanVObUk0SkJRMDhDckJBTENZUVA1dmo0cHBCMC0tU2dvODU3NHVMNG0tUDBFQU45NGRENlFMSnBTVVRYMGprZjcxcDdUU1V3N2dLanlwSnFzNERUYkFWT3F1aWNLTjFQNEZqVmVCZ2JGTUZkbWhnUHoxQ0pYYm9hTDhzZWJ6SEJrSHBRcF9oX1FMN25MVUlxcDJzMHJpSkYxYlVjanduS3dXLXBab2xfRW8xY3pjMU5R",
-        "image": null,
-        "timestamp": 1777798920.0
-    },
-    {
-        "title_fa": "واقعیت پرهزینه و فاقد پشتوانه مردمیِ جنگ علیه ایران پیش پای ترامپ",
-        "title_en": "Trump Faces the Complicated Reality of a Costly, Unpopular War in Iran",
-        "summary": [
-            "گزارش نیویورک‌تایمز روی «واقعیت پیچیده» تمرکز دارد: جنگ با ایران برای ترامپ هزینه‌بر است و از حمایت عمومی و سیاسی برخوردار نیست.",
-            "نکته محوری گزارش، غیرمحبوب بودن جنگ است؛ یعنی حتی اگر گزینه نظامی مطرح شود، مشروعیت داخلی آن شکننده و پرهزینه خواهد بود.",
-            "چارچوب مقاله بیشتر سیاسی-راهبردی است تا جزئیات عملیاتی: تاکید می‌کند که رئیس‌جمهور آمریکا با پیامدهای اقتصادی/امنیتی و فشار افکار عمومی روبه‌روست و همین عامل، اجرای هر سناریوی تهاجمی را سخت می‌کند."
-        ],
-        "impact": "این نوع گزارش نشان می‌دهد حتی در سطح تصمیم‌سازی آمریکا، ظرفیت سیاسی برای یک جنگ پرهزینه علیه ایران محدود است و هزینه‌سازی آن می‌تواند مانع تشدید شود.",
-        "tag": "آمریکا",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWUwbHhDR3dKN2ZnVlRBTlRHSHRKZDZrMUl1OEh4WlRWQzdOR1p4NnZLRXNUdUpfMVdPcnFHRzJnMndyWmNCV3B6NkNVRDBDeENmTVU2a3dwVmgzU2pIUnJfMFViNm5MSkppazNFY1ZIUGsyUVRSZGdYTEp2WEN5RGhB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWWUwbHhDR3dKN2ZnVlRBTlRHSHRKZDZrMUl1OEh4WlRWQzdOR1p4NnZLRXNUdUpfMVdPcnFHRzJnMndyWmNCV3B6NkNVRDBDeENmTVU2a3dwVmgzU2pIUnJfMFViNm5MSkppazNFY1ZIUGsyUVRSZGdYTEp2WEN5RGhB",
-        "image": null,
-        "timestamp": 1777798894.0
     }
 ]
