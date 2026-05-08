@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "تبادل آتش میان آمریکا و ایران نزدیک تنگه هرمز؛ خطر جهش به درگیری مستقیم",
+        "title_en": "U.S. and Iran exchange fire near the Strait of Hormuz",
+        "summary": [
+            "طبق گزارش NBC News، آمریکا و ایران در نزدیکی تنگه هرمز «بادل آتش» داشته‌اند؛ یعنی یک حادثه نظامی مستقیم و بی‌واسطه، نه صرفاً تهدید یا عملیات نیابتی.",
+            "این رویداد اگرچه جزئیات عملیاتی در متن ارائه نشده، اما خودِ ماهیت درگیری—محیط حساس تنگه هرمز—ریسک اختلال در کریدورهای کشتیرانی و تشدید سریع چرخه پاسخ‌متقابل را بالا می‌برد.",
+            "از منظر فشار خارجی و پایداری رژیم، هر گام جدید به سمت درگیری مستقیم معمولاً هزینه‌های اقتصادی و سیاسی را فوراً افزایش می‌دهد و دست دولت را در مدیریت بحران‌های داخلی تنگ‌تر می‌کند، اما در این گزارش هیچ داده‌ای درباره تحریم‌های جدید یا حمایت خارجی مشخص نشده است."
+        ],
+        "impact": "تبادل آتش در منطقه تنگه هرمز می‌تواند به سرعت تبدیل به درگیری گسترده‌تر شود و هم‌زمان فشار اقتصادی و بی‌ثباتی سیاسی را برای تهران تشدید کند.",
+        "tag": "درگیری",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "NBC News",
+        "url": "https://www.msn.com/en-in/news/world/us-iran-exchange-fire-in-strait-of-hormuz-amid-fragile-ceasefire-trump-calls-its-love-tap/ar-AA22F2m8",
+        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-exchange-fire-in-strait-of-hormuz-amid-fragile-ceasefire-trump-calls-its-love-tap/ar-AA22F2m8",
+        "image": null,
+        "timestamp": 1778223660.0
+    },
+    {
+        "title_fa": "از بن‌بست تا ضربه: یک هفته مذاکره پرشتاب آمریکا و ایران بر سر تنگه هرمز",
+        "title_en": "From stalemate to strikes: A dizzying week of US-Iran negotiations over the strait of Hormuz",
+        "summary": [
+            "با ادامه برقراری آتش‌بس آمریکا و ایران، تیم ترامپ «اختتام جنگ» را به‌واسطه تمدید فشار زمان‌بندی‌شده (deadline) مطرح می‌کند؛ همزمان رسانه‌های دولتی ایران از ارائه پیشنهاد صلح جدید برای میانجی‌گری از مسیر پاکستان به واشنگتن خبر می‌دهند، اما جزئیات شروط روشن نیست و ترامپ می‌گوید از نتیجه «رضایت» ندارد.",
+            "در پسِ آتش‌بس، تنش عملیاتی کنار می‌رود: نیروهای آمریکا همچنان در فضای «بلاکاد بنادر» فعال توصیف می‌شوند و ترامپ از عملیات اخیر برای تصرف یک کشتی ایرانی و ضبط محموله نفتی به‌عنوان اقدام «بسیار سودآور» یاد می‌کند؛ همزمان پروژه «Project Freedom» اعلام می‌شود تا خروج کشتی‌های گرفتار در تنگه هماهنگ شود، ولی فرماندهی مرکزی آمریکا تأکید می‌کند نقش آمریکا بیشتر «راهنمایی» است نه اسکورت با ناوهای خود.",
+            "واکنش تهران هم‌زمان با اعلام پروژه جدید، هشدار سیاسی-امنیتی از سوی ابراهیم عزیزی (رئیس کمیسیون امنیت ملی پارلمان ایران) مطرح می‌کند که «دخالت آمریکا» را خط قرمز می‌داند؛ در فضای داخلی آمریکا نیز پیام‌های غیرمستقیم فشار اقتصادی/سیاسی دیده می‌شود (بالا رفتن قیمت سوخت، و برنامه عقب‌نشینی ۵۰۰۰ نیروی آمریکا از آلمان)."
+        ],
+        "impact": "این هفته نشان می‌دهد حتی با آتش‌بس، سازوکارهای فشار و کنترل بر تنگه هرمز و بندرها به‌جای توقف کامل، در قالب مذاکره-عملیات موازی ادامه دارد و ریسک تشدید دوباره را زنده نگه می‌دارد.",
+        "tag": "تنگه",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/may/08/trump-iran-us-war-ceasefire-updates-explained-hormuz",
+        "clean_url": "https://www.theguardian.com/world/2026/may/08/trump-iran-us-war-ceasefire-updates-explained-hormuz",
+        "image": null,
+        "timestamp": 1778212980.0
+    },
+    {
+        "title_fa": "فشار اقتصادی و ریسک سیاسی، واشنگتن و تهران را به سمت معامله هل می‌دهد",
+        "title_en": "How economic pain and political risk are forcing the US and Iran toward a deal",
+        "summary": [
+            "گزارش می‌گوید نشانه‌هایی در حال شکل‌گیری است که درگیری و فشار ایالات متحده علیه ایران به جای تشدید، به سمت پایان/جمع‌بندی پیش می‌رود؛ اما زمان برای اعلام «آتش‌بس» زود است.",
+            "محرک اصلی «درد اقتصادی» و «ریسک سیاسی» معرفی می‌شود: هر دو طرف ظاهراً در حال محاسبه هزینه‌های ادامه مسیر فعلی و کاهش احتمال کنترل پیامدهایش هستند.",
+            "چارچوب گزارش بر «غیرقابل پیش‌بینی بودن» سیاست آمریکا تکیه دارد و نتیجه می‌گیرد همین بی‌ثباتی، روندها را به سمت مذاکره و معامله سوق داده است—نه به دلیل تغییر بنیادین در مواضع."
+        ],
+        "impact": "اگر این روند ادامه پیدا کند، احتمال حرکت به سمت چارچوب توافق افزایش می‌یابد، اما به‌علت تصریح گزارش به «زود بودن اعلام صلح»، ریسک برگشت‌پذیری تصمیم‌ها همچنان بالاست.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Australian",
+        "url": "https://www.theaustralian.com.au/world/how-economic-pain-and-political-risk-are-forcing-the-us-and-iran-toward-a-deal/news-story/2fdc2cc2178f8816083687278d67aa68",
+        "clean_url": "https://www.theaustralian.com.au/world/how-economic-pain-and-political-risk-are-forcing-the-us-and-iran-toward-a-deal/news-story/2fdc2cc2178f8816083687278d67aa68",
+        "image": "https://content.api.news/v3/images/bin/a485de3609996af932873d4bd4ef4a47",
+        "timestamp": 1778212800.0
+    },
+    {
         "title_fa": "هشدار برای تل‌آویو: ترامپ دنبال پایان دادن به «جنگ علیه ایران» است و اسرائیل توان توقفش را ندارد",
         "title_en": "Trump Wants to Cut His Losses and End the Iran War. Israel Can't Stop Him",
         "summary": [
@@ -378,6 +432,24 @@
         "timestamp": 1778171820.0
     },
     {
+        "title_fa": "ترامپ: پس از رهگیری حملات، آمریکا ایران را «سخت‌تر و خشن‌تر» هدف می‌گیرد",
+        "title_en": "Trump warns Iran after US ships transit Strait of Hormuz under fire",
+        "summary": [
+            "ترامپ اعلام کرد که پس از رهگیری حملات ایرانی علیه سه شناور آمریکایی در هنگام عبور نیروهای آمریکا از تنگه هرمز، آمریکا پاسخ «سخت‌تر و خشن‌تر» خواهد داد و از تداوم اقدام نظامی صحبت کرد.",
+            "این پیام مستقیماً به افزایش احتمال درگیری دریایی منجر می‌شود، چون نشان می‌دهد واشنگتن تهدید را فقط بازدارندگی لفظی نمی‌داند و آماده تشدید عملیاتی است.",
+            "هرچند جزئیات بیشتر در متن نیامده، نفس «هشدار پس از رهگیری» یعنی رژیم با ریسک محاسبات اشتباه و تشدید زنجیره‌ای در آب‌های راهبردی روبه‌روست."
+        ],
+        "impact": "اقدام و ادبیات تهدیدآمیز درباره هرمز احتمال تشدید فوری تنش و درگیری دریایی را بالا می‌برد و فشار مستقیم‌تری بر توان تصمیم‌گیری رژیم وارد می‌کند.",
+        "tag": "هشدار",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/5868920-trump-warns-iran-violence/",
+        "clean_url": "https://thehill.com/homenews/administration/5868920-trump-warns-iran-violence",
+        "image": "http://www.bing.com/th?id=ONUT.s4HjmlXYuMFiDO0zvEsEVw&pid=News",
+        "timestamp": 1778171280.0
+    },
+    {
         "title_fa": "ادعای کنترل تنگه هرمز همزمان با پاسخ ضربتی آمریکا و هشدار ترامپ برای تشدید در صورت رد توافق",
         "title_en": "Trump says war to end quickly as Iran claims control of Strait of Hormuz",
         "summary": [
@@ -430,6 +502,24 @@
         "clean_url": "https://www.detroitnews.com/story/news/world/2026/05/07/us-launches-self-defense-strikes-on-iran/89985017007",
         "image": null,
         "timestamp": 1778168700.0
+    },
+    {
+        "title_fa": "تشدید در تنگه هرمز: حمله آمریکا به اهداف نظامی ایران پس از حمله به ناوهای آمریکایی",
+        "title_en": "US strikes military targets in Iran after attacks on destroyers in Strait of Hormuz: Centcom",
+        "summary": [
+            "سنتکام اعلام کرد که نیروهای آمریکا پنجشنبه به تاسیسات نظامی ایران حمله کردند؛ این اقدام به‌عنوان پاسخ به حمله به ناوهای آمریکاییِ هدایت‌شونده در جریان عبور از تنگه هرمز مطرح شده است.",
+            "مبنای رویداد، ارتباط مستقیم زمانی و عملیاتی میان «حمله به ناوهای آمریکایی» و «حمله متقابل» به «اهداف نظامی» در ایران است، بدون ارائه جزئیات بیشتر درباره ماهیت خسارت یا تلفات در گزارش کوتاه.",
+            "این وضعیت ریسک چرخه تلافی‌جویانه در مسیرهای کشتیرانی راهبردی را بالا می‌برد و می‌تواند به سرعت به بحران امنیتی گسترده‌تر در منطقه بینجامد."
+        ],
+        "impact": "حمله آمریکا به اهداف نظامی در ایران، سطح تقابل مستقیم را بالا می‌برد و احتمال تشدید سریع در تنگه هرمز و پیرامون آن را افزایش می‌دهد.",
+        "tag": "تنش‌نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Hill",
+        "url": "https://thehill.com/policy/defense/5868807-us-forces-strike-iranian-targets-ceasefire/",
+        "clean_url": "https://thehill.com/policy/defense/5868807-us-forces-strike-iranian-targets-ceasefire",
+        "image": "http://www.bing.com/th?id=ONUT.2gww40L-ADpgimzG59f9AQ&pid=News",
+        "timestamp": 1778167740.0
     },
     {
         "title_fa": "ایران ادعا می‌کند آمریکا پس از حمله موشکی به تنگه هرمز عقب نشست؛ فرماندهی مرکزی آمریکا تکذیب کرد",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-tehran-offers-trump-one-month-deadline-to-end-war/ar-AA2294qw",
         "image": "http://www.bing.com/th?id=ONUT.Lt_MniNU9si-KjhJdVkfQw&pid=News",
         "timestamp": 1777789738.0
-    },
-    {
-        "title_fa": "اظهار تردید ترامپ درباره «برنامه ایران» هم‌زمان با ادامه حملات اسرائیل در لبنان",
-        "title_en": "Trump doubts Iran plan as Israel strikes continue in Lebanon: Updates",
-        "summary": [
-            "متن منبع فقط درباره مشکل بارگذاری/سازگاری مرورگر در USA TODAY است و هیچ جزئیات قابل‌استنادی از ادعای «برنامه ایران»، اظهارات ترامپ یا گزارش‌های مربوط به حملات اسرائیل ارائه نمی‌کند.",
-            "با توجه به نبود اطلاعات در متن ارسالی، نمی‌توان روند واقعی فشار خارجی، اثرات اقتصادی یا ارزیابی پیامدهای میدانی را به‌صورت دقیق از همین منبع استخراج کرد.",
-            "بنابراین تحلیل راهبردی این رویداد تنها می‌تواند بر این واقعیت تکیه کند که عنوان کلی به «تداوم حملات در لبنان» اشاره دارد، اما داده‌های ضروری برای ارزیابی مشخص در دسترس نیست."
-        ],
-        "impact": "در حال حاضر، به دلیل فقدان محتوای خبری در متن ارائه‌شده، ارزیابی اثر واقعی بر ثبات رژیم یا محور منطقه‌ای ممکن نیست.",
-        "tag": "نامشخص",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/05/03/iran-war-updates-trump-israel--live/89919025007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/05/03/iran-war-updates-trump-israel--live/89919025007",
-        "image": "http://www.bing.com/th?id=ONUT.XBPodWq3TIPGD_B8lUUd2g&pid=News",
-        "timestamp": 1777789560.0
-    },
-    {
-        "title_fa": "ترامپ: جنگ با ایران در صورت «بدرفتاری» روحانیون قابل تجدید است",
-        "title_en": "Trump: Iran war could be renewed if mullahs ‘misbehave’",
-        "summary": [
-            "ترامپ با طرح شرطِ «بدرفتاری» از سوی «روحانیون»، عملاً تهدید به امکان بازگشت درگیری نظامی علیه ایران را در فضای سیاسی-رسانه‌ای برجسته کرد؛ این پیام بیشتر فشار روانی و ایجاد اهرم تصمیم‌سازی برای واشنگتن است تا گزارش یک اقدام فوری.",
-            "این اظهارنظر در چارچوب فشار خارجی قابل ارزیابی است: هدف، تضعیف محاسبه‌گری امنیتی-هزینه‌ای تهران و افزایش ریسک ادراک‌شده برای رژیم است، بدون اینکه جزئیات مشخص درباره زمان یا سناریوی عملیات ارائه شود.",
-            "چون خبر بر «تهدید به تجدید جنگ» و نه اقدامات میدانی یا تحریم‌های جدید تکیه دارد، اثر مستقیم کوتاه‌مدت روی اقتصاد از جنس خبرسازی و نااطمینانی است، نه یک شوک اقتصادیِ قابل اندازه‌گیری؛ بنابراین شاخص‌هایی مثل موج اعتراض یا فروپاشی فوری اقتصادی در همین متن ثابت نشده‌اند."
-        ],
-        "impact": "این اظهارنظر ریسک درگیری را از سطح دیپلماسی به سطح تهدید عملیاتی نزدیک می‌کند و هزینه محاسبات رژیم را بالا می‌برد، اما بدون شواهد اجراییِ جدید، اثر فوری اقتصادی/اعتراضی قابل اثبات نیست.",
-        "tag": "تهدید",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "JNS.org",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNME9aVVJuM3VkWnB4X2J4aXVaN3NkS1BaR0tQbXI3M3NTbEx1R3JKTmk0ejhXNTlMai1VQmpic1NfOXZqU0dJbmJ5Y1UtVGVoS0dPa29YZHJoY2REb1ZhZE5YUXZtRlFPLVV4QmVHT0VFVmp0MzdxNk1kcWlGU2t3ZU04QjhPYWpKbUFtQURFdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNME9aVVJuM3VkWnB4X2J4aXVaN3NkS1BaR0tQbXI3M3NTbEx1R3JKTmk0ejhXNTlMai1VQmpic1NfOXZqU0dJbmJ5Y1UtVGVoS0dPa29YZHJoY2REb1ZhZE5YUXZtRlFPLVV4QmVHT0VFVmp0MzdxNk1kcWlGU2t3ZU04QjhPYWpKbUFtQURFdw",
-        "image": null,
-        "timestamp": 1777788521.0
-    },
-    {
-        "title_fa": "ایران برای پایان جنگ ظرف ۳۰ روز فشار می‌آورد؛ ترامپ همزمان درباره معامله ابراز تردید می‌کند",
-        "title_en": "Iran Presses For An End To War Within 30 Days As Trump Expresses Doubts",
-        "summary": [
-            "رسانه‌های وابسته به ایران یک پیشنهاد ۱۴ ماده‌ای را به آمریکا نسبت می‌دهند که «پایان جنگ» را هدف می‌گیرد نه تمدید صرفِ آتش‌بس؛ بازه زمانی ۳۰ روزه هم در این چارچوب مطرح شده است.",
-            "این پیشنهاد، در برابر طرح ۹ ماده‌ای آمریکا، شامل لغو تحریم‌ها، پایان «محاصره/بلوکه دریایی»، خروج نیروها از منطقه و توقف همه درگیری‌ها—از جمله عملیات اسرائیل در لبنان—است؛ ایران ارسال پاسخ را از طریق میانجی پاکستانی انجام داده است.",
-            "ترامپ اعلام کرده در حال بررسی پیشنهاد است اما نسبت به تحقق معامله ابراز شک دارد؛ همزمان گفت‌وگوهای پیشین از مسیر پاکستان ادامه دارد و یک آتش‌بس شکننده سه‌هفته‌ای ظاهراً در حال برقرار ماندن است."
-        ],
-        "impact": "اگر آمریکا این بسته را نپذیرد، فاصله میان «پایان جنگ» و «تمدید آتش‌بس» می‌تواند آتش‌بس شکننده را در کوتاه‌مدت دوباره فرسایشی و پرریسک کند.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/iran-presses-for-end-to-war-trump-expresses-doubts_n_69f73ecde4b0f658833c2dd8?origin=home-latest-news-unit",
-        "clean_url": "https://www.huffpost.com/entry/iran-presses-for-end-to-war-trump-expresses-doubts_n_69f73ecde4b0f658833c2dd8",
-        "image": "http://www.bing.com/th?id=ONUT.QnZOf3ux8dgHRgI39-uh4A&pid=News",
-        "timestamp": 1777786740.0
-    },
-    {
-        "title_fa": "فراخوان به بسیج عمومی در آمریکا علیه جنگ ایران",
-        "title_en": "Americans must Mobilize against the Iran War for Peace",
-        "summary": [
-            "متن گزارش، یک فراخوان کلی برای بسیج آمریکایی‌ها «علیه جنگ ایران» با ادعای «صلح» ارائه می‌کند، بدون ارائه جزئیات مشخص از عملیات، سیاست اجرایی یا موضع رسمی دولت آمریکا.",
-            "هیچ داده‌ای درباره تحریم‌های جدید، تغییرات اقتصادی، یا اقدام قابل راستی‌آزمایی علیه دارایی‌های رژیم منتشر نشده و بنابراین اثرات فشار خارجی در این متن قابل سنجش نیست.",
-            "محرک اصلی گزارش، فعالیت سیاسی-اجتماعی در آمریکا است نه نشانه‌ای از اعتراض داخلی یا بحران اقتصادی در داخل ایران؛ شواهدی از روند نارضایتی یا فروپاشی اقتصادی در متن وجود ندارد."
-        ],
-        "impact": "این یک پیام سیاسی برای جلوگیری از تشدید در واشنگتن است، اما چون سند اجرایی یا رخداد میدانی ارائه نمی‌دهد، اثر فوری و قابل راستی‌آزمایی آن بر معادلات ایران محدود است.",
-        "tag": "دیپلماسی",
-        "urgency": 3,
-        "sentiment": -0.1,
-        "source": "Informed Comment",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWNFBia1VtOTU2S3pKX05YbDRzTGo4VUxNVHN5aXpudl9BeXBoVGZhdDdxSXF5MVpBeElNNEJOMU1fdEp1dFRHcjBwYlp4RzRmYUowRk51T0VLbjBxeFUzU3lCOGZOM3pvS2JGMWxhNU5WZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWNFBia1VtOTU2S3pKX05YbDRzTGo4VUxNVHN5aXpudl9BeXBoVGZhdDdxSXF5MVpBeElNNEJOMU1fdEp1dFRHcjBwYlp4RzRmYUowRk51T0VLbjBxeFUzU3lCOGZOM3pvS2JGMWxhNU5WZw",
-        "image": null,
-        "timestamp": 1777782845.0
-    },
-    {
-        "title_fa": "هزینه انسانی جنگ اسرائیل و ایران؛ گزارش میدانی و کانون‌گذاری روی قربانیان",
-        "title_en": "Beyond the Bombs: Centering the Human Cost of the Israel-Iran Conflict in On-the-Ground Reporting",
-        "summary": [
-            "متن «The Fulcrum» بر گزارش میدانی و تمرکز بر هزینه انسانی جنگ اسرائیل و ایران تاکید دارد و روایت را از سطح ادعاهای سیاسی به پیامدهای واقعی برای مردم منتقل می‌کند.",
-            "در محتوای ارائه‌شده، هیچ جزئیات قابل راستی‌آزمایی درباره عملیات، زمان‌بندی، میزان خسارت یا هویت/تعداد قربانیان مشخص نشده است؛ بنابراین ارزیابی راهبردی باید محدود بماند به خودِ چارچوب گزارش (کانون‌گذاری بر انسان).",
-            "این نوع روایت می‌تواند بر فشار افکار عمومی و حساسیت رسانه‌ای نسبت به پیامدهای غیرنظامی بیفزاید، اما در داده‌های موجود، نشانه‌ای از تغییر سیاست، تشدید رسمی یا اقدام مشخص دولت‌ها مطرح نشده است."
-        ],
-        "impact": "کانون‌گذاری رسانه‌ای روی هزینه انسانی می‌تواند فضای ادراکی جنگ را به سمت پیامدهای غیرنظامی ببرد، اما چون جزئیات عملیاتی در متن نیامده، اثر فوری راهبردی بر روند میدان قابل سنجش نیست.",
-        "tag": "رسانه",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Fulcrum",
-        "url": "https://www.forbes.com/sites/emilsayegh/2026/04/03/cyber-and-kinetic-warfare-are-now-one-battlefield-what-the-us-israel-iran-conflict-reveals/",
-        "clean_url": "https://www.forbes.com/sites/emilsayegh/2026/04/03/cyber-and-kinetic-warfare-are-now-one-battlefield-what-the-us-israel-iran-conflict-reveals",
-        "image": null,
-        "timestamp": 1777782432.0
     }
 ]
