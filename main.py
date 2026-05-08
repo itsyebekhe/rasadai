@@ -528,7 +528,7 @@ Your job:
 - Detect evolution compared to previous assessment.
 - Identify new escalation or de-escalation signals.
 - Strip away regime propaganda and expose their true vulnerabilities.
-- Provide predictive intelligence for the next 24-48 hours.
+- Provide highly analytical predictive intelligence based on geopolitical realities.
 
 OUTPUT LANGUAGE: Persian (Farsi)
 
@@ -539,13 +539,24 @@ STRICT OUTPUT JSON:
   "executive_tldr": "1 punchy sentence summarizing the day's geopolitical reality",
   "themes": [3-5 bullet points],
   "regime_narrative": "1 concise sentence explaining what propaganda state media is pushing today",
-  "active_actors": ["List 2-4 key entities/people driving today's news"],
-  "trend_direction": "تصاعدی | نزولی | باثبات",
+  "predicted_regime_response": "1 sentence predicting their next move (e.g., proxy attack, internal crackdown, diplomatic deception)",
+  
+  "forecast": {
+    "most_likely_scenario": "1 paragraph predicting the realistic outcome over the next 3-7 days",
+    "regime_worst_case_scenario": "1 paragraph detailing the specific events that could fracture regime stability this week",
+    "flashpoint_indicator": "The specific trigger event/red line that signals immediate severe escalation"
+  },
+  
+  "probability_matrix": {
+    "military_escalation_percent": integer (0-100),
+    "economic_shock_percent": integer (0-100),
+    "domestic_unrest_percent": integer (0-100)
+  },
+
   "strategic_assessment": "1-2 paragraphs of hardline, realistic geopolitical analysis",
   "market_impact": "1 paragraph on economic vulnerabilities and sanctions impact",
   "currency_outlook": "جهش دلار | نوسان بالا | ثبات شکننده",
-  "watch_items": ["2-3 predictive bullet points of what to watch in the next 24-48 hours"],
-  "risk_level": integer 1-10,
+  "risk_level": integer (1-10),
   "change_from_previous": "افزایش | کاهش | بدون تغییر"
 }
 """
