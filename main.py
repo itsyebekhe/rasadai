@@ -535,9 +535,19 @@ OUTPUT LANGUAGE: Persian (Farsi)
 STRICT OUTPUT JSON:
 
 {
-  "date": "YYYY-MM-DD",
+  "date": "YYYY-MM-DD HH:MM",
   "executive_tldr": "1 punchy sentence summarizing the day's geopolitical reality",
   "themes": [3-5 bullet points],
+  
+  "regime_vulnerabilities": {
+    "regime_internal_friction": "1 sentence exposing IRGC vs Government infighting or purges",
+    "infrastructure_vulnerability": "1 sentence on energy shortages, cyber-attacks, or systemic failures",
+    "sanctions_evasion_watch": "1 sentence on oil smuggling or banking evasion exposed today"
+  },
+
+  "proxy_network_status": "1 sentence analyzing the health/actions of regional proxies (Hezbollah, Houthis, etc.)",
+  "opposition_momentum": "1 sentence on diaspora actions, internal strikes, or civil disobedience",
+  
   "regime_narrative": "1 concise sentence explaining what propaganda state media is pushing today",
   "predicted_regime_response": "1 sentence predicting their next move (e.g., proxy attack, internal crackdown, diplomatic deception)",
   
@@ -548,15 +558,18 @@ STRICT OUTPUT JSON:
   },
   
   "probability_matrix": {
-    "military_escalation_percent": integer (0-100),
-    "economic_shock_percent": integer (0-100),
-    "domestic_unrest_percent": integer (0-100)
+    "military_escalation_percent": "integer (0-100)",
+    "economic_shock_percent": "integer (0-100)",
+    "domestic_unrest_percent": "integer (0-100)",
+    "regime_defection_risk_percent": "integer (0-100)" 
   },
+
+  "key_figures_in_focus": ["Name 1 - Reason", "Name 2 - Reason"],
 
   "strategic_assessment": "1-2 paragraphs of hardline, realistic geopolitical analysis",
   "market_impact": "1 paragraph on economic vulnerabilities and sanctions impact",
   "currency_outlook": "جهش دلار | نوسان بالا | ثبات شکننده",
-  "risk_level": integer (1-10),
+  "risk_level": "integer (1-10)",
   "change_from_previous": "افزایش | کاهش | بدون تغییر"
 }
 """
