@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "گزارش امارات از حمله پهپادی و موشکی؛ آمریکا از درگیری با ایران خبر داد",
+        "title_en": "UAE reports drone and missile attack after US says it traded fire with Iran",
+        "summary": [
+            "امارات اعلام کرد پس از آن‌که آمریکا گفت در تبادل آتش با ایران درگیر شده، حمله‌ای شامل پهپاد و موشک رخ داده است؛ این یعنی جبهه تنش مستقیم و فراتر از سطح لفظی گسترش یافته.",
+            "ایالات متحده در گزارش خود «تبادل آتش» را مطرح کرده و همین ادعا، ریسک تشدید فوری را بالا می‌برد؛ چون هر رخداد می‌تواند به پاسخ متقابل دوجانبه و بعدتر به درگیری گسترده‌تر بیانجامد.",
+            "با توجه به نوع تهدید (پهپاد و موشک) و ورود بازیگر منطقه‌ای (امارات) به روایت حادثه، فشار امنیتی بر زیرساخت‌ها و محاسبات پرواز/دریانوردی در خلیج و مسیرهای مرتبط افزایش می‌یابد."
+        ],
+        "impact": "این رخداد نشانه عملیِ بالا رفتن احتمال درگیری مستقیم و بدتر شدن وضعیت امنیت منطقه است، نه صرفاً تنش دیپلماتیک.",
+        "tag": "درگیری",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcExZcVpZYU4yU3oxSEpmajVmMktveG8zd1V3anRxdHhneVR1LUFuSUtSZGJpZUEwVEZTNkNZRlBGSzRQSVRkZVprMkp5dzhVUFJPMkdmTFVQMF9tOF8xVng2Qy01ZDlWNW5oTEhjeVcxd0ltQ3h2LUVBNVg1THRtUFp5Y3Ezd1MwUkR6elNoWHNDY00?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcExZcVpZYU4yU3oxSEpmajVmMktveG8zd1V3anRxdHhneVR1LUFuSUtSZGJpZUEwVEZTNkNZRlBGSzRQSVRkZVprMkp5dzhVUFJPMkdmTFVQMF9tOF8xVng2Qy01ZDlWNW5oTEhjeVcxd0ltQ3h2LUVBNVg1THRtUFp5Y3Ezd1MwUkR6elNoWHNDY00",
+        "image": null,
+        "timestamp": 1778246220.0
+    },
+    {
+        "title_fa": "رویکرد واشنگتن: «پاسخ ایران» به توافق صلح «امروز» مورد انتظار است",
+        "title_en": "Marco Rubio says U.S. expects Iran response on peace deal 'today'",
+        "summary": [
+            "مارکو روبیو اعلام کرده آمریکا انتظار دارد پاسخ ایران به توافق صلح «امروز» دریافت شود؛ یعنی دولت آمریکا زمان‌بندی مشخص برای مرحله بعدی دیپلماسی تعیین کرده است.",
+            "این پیام بیشتر فشار روانی-سیاسی و ایجاد چارچوب زمانی است تا یک تغییر فوری در وضعیت میدانی؛ اما می‌تواند فضای تصمیم‌گیری در تهران را محدودتر کند.",
+            "از منظر تحلیلی، اعلام ضرب‌الاجل واشنگتن نشان می‌دهد که هرگونه تعلل یا ابهام از سوی ایران، بهانه برای تشدید فشارهای بعدی (از جنس تحریمی/سیاسی) فراهم می‌کند، بدون اینکه در گزارش جزئیات جدیدی درباره اقدام عملی آمده باشد."
+        ],
+        "impact": "تعیین «امروز» به‌عنوان زمان پاسخ، ریسک تشدید فشار سیاسی-دیپلماتیک علیه ایران را بالا می‌برد، چون پنجره مانور تهران محدودتر می‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/news/world/marco-rubio-says-us-expects-iran-response-on-peace-deal-today/ar-AA22H1Km",
+        "clean_url": "https://www.msn.com/en-us/news/world/marco-rubio-says-us-expects-iran-response-on-peace-deal-today/ar-AA22H1Km",
+        "image": null,
+        "timestamp": 1778242595.0
+    },
+    {
         "title_fa": "موندوی‌ویس: ترامپ شکست جنگ با ایران را پذیرفته و برای خروج دنبال راه می‌گردد",
         "title_en": "Trump knows he lost the Iran war, and is now desperate to find a way out",
         "summary": [
@@ -34,6 +70,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/scott-jennings-the-war-in-iran-will-be-over-when-there-is-complete-and-total-victory-it-may-take-some-time/ar-AA22zIwd",
         "image": null,
         "timestamp": 1778237205.0
+    },
+    {
+        "title_fa": "ترامپ می‌گوید آتش‌بس با ایران «برقرار است»؛ در حالی که حملات ادامه دارد",
+        "title_en": "‘Just a Love Tap’: Trump Insists Cease-Fire With Iran Is Holding Despite Ongoing Attacks Traded",
+        "summary": [
+            "طبق گزارش Time، ترامپ ادعا کرده آتش‌بس با ایران برقرار است، حتی با وجود اینکه گزارش‌ها از ادامه حملات حکایت می‌کنند.",
+            "عنوان مقاله با کنایه «Just a Love Tap» نشان می‌دهد برداشت رایج این است که ادعای آتش‌بس، بیشتر یک توصیف سیاسی/تبلیغاتی از شدت محدود درگیری است تا پایان واقعی تهدید.",
+            "این شکاف بین ادعای رسمی و واقعیت میدانی، ریسک بدفهمی و محاسبه‌نادرست را بالا می‌برد و می‌تواند مسیر را برای تشدید تنش یا گسترش برخوردهای پراکنده هموار کند."
+        ],
+        "impact": "ادعای تداوم آتش‌بس در کنار ادامه حملات، اعتبار مدیریت بحران را تضعیف می‌کند و احتمال لغزش از کنترل به سمت تشدید تنش را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Time Magazine",
+        "url": "https://www.msn.com/en-us/news/other/just-a-love-tap-trump-insists-cease-fire-with-iran-is-holding-despite-ongoing-attacks-traded/ar-AA22G8d5",
+        "clean_url": "https://www.msn.com/en-us/news/other/just-a-love-tap-trump-insists-cease-fire-with-iran-is-holding-despite-ongoing-attacks-traded/ar-AA22G8d5",
+        "image": null,
+        "timestamp": 1778236200.0
     },
     {
         "title_fa": "ترامپ می‌گوید آتش‌بس با ایران همچنان برقرار است؛ هم‌زمان موجی از خشونت گزارش شد",
@@ -178,6 +232,42 @@
         "clean_url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
         "image": null,
         "timestamp": 1778221260.0
+    },
+    {
+        "title_fa": "انتظار آمریکا برای پاسخ ایران؛ گزارش امارات از پرتاب موج‌های دیگر موشکی و پهپادی",
+        "title_en": "The U.S. awaits Iran's response as the UAE reports another missile barrage",
+        "summary": [
+            "بر اساس گزارش NPR، آتش‌بس شکننده میان ایران و طرف‌های درگیر تحت فشار تازه قرار گرفته است، چون امارات از اصابت‌ها و «موج دیگر» حملات موشکی و پهپادی خبر داده است.",
+            "ایالات متحده در وضعیت انتظار برای «پاسخ ایران» قرار دارد؛ یعنی روند دیپلماتیک عملاً به واکنش ایران گره خورده و هر عدم‌تقارن در پاسخ می‌تواند چرخه تشدید را فعال کند.",
+            "این رخداد به‌صورت مشخص نشان می‌دهد که وضعیت میدانی قابل اتکا نیست و هر حمله جدید می‌تواند تعادل شکننده آتش‌بس را از هم بپاشد."
+        ],
+        "impact": "هر موج تازه از حملات، احتمال فروپاشی عملی آتش‌بس و ورود دوباره به فاز تشدید را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
+        "clean_url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
+        "image": "http://www.bing.com/th?id=ONUT.KekHzYbxKQAxoACMf19k_Q&pid=News",
+        "timestamp": 1778220840.0
+    },
+    {
+        "title_fa": "روبیو درباره حمایت متحدان از ایران پس از مذاکرات ایتالیا فشار می‌آورد",
+        "title_en": "Rubio questions allies' support on Iran following Italy talks",
+        "summary": [
+            "رویترز گزارش می‌دهد مارکو روبیو، وزیر خارجه آمریکا، پس از دیدار با نخست‌وزیر ایتالیا، جورجیا ملونی، در شرایطی که میان دولت ملونی و دولت دونالد ترامپ تنش غیرعادی ایجاد شده، درباره میزان حمایت متحدان از رویکرد آمریکا نسبت به ایران پرسش کرده است.",
+            "این حرکت در چارچوب «فشار دیپلماتیک» واشنگتن به متحدان انجام می‌شود، چون اختلافات سیاسی آشکار بین طرف ایتالیایی و تیم ترامپ عامل مؤثر در این برهه توصیف شده است؛ یعنی اروپا همزمان دنبال همسویی کامل نیست.",
+            "در همین گزارش به جای جزئیات درباره اقدام عملی علیه ایران، محور اصلی بر اختلافات داخلی اتحادها و تلاش آمریکا برای سنجش و وادار کردن متحدان به همراهی است."
+        ],
+        "impact": "این رویداد بیشتر یک سیگنال سیاسی-دیپلماتیک است و نشان می‌دهد آمریکا از شکاف‌های درون جبهه متحدان برای افزایش فشار روی ایران استفاده می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/",
+        "clean_url": "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08",
+        "image": null,
+        "timestamp": 1778219520.0
     },
     {
         "title_fa": "از بن‌بست تا ضربه: یک هفته مذاکره پرشتاب آمریکا و ایران بر سر تنگه هرمز",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://indianexpress.com/article/world/us-news/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon-10668310",
         "image": "http://www.bing.com/th?id=ONUT.KIkEHxd5GDVXrTXAI08i5Q&pid=News",
         "timestamp": 1777817220.0
-    },
-    {
-        "title_fa": "آلمان خواستار بازگشایی تنگه هرمز شد؛ واشینگتن میان اقدام نظامی و سازش دیپلماتیک مردد است",
-        "title_en": "US-Israel-Iran war latest news: Germany urges Iran to reopen Strait of Hormuz as US weighs military action or diplomatic compromise",
-        "summary": [
-            "گزارش می‌گوید بن‌بست میان آمریکا، اسرائیل و ایران وارد مرحله تندتر شده و «فشار نظامی» در کنار «دیپلماسی» به‌عنوان محور تصمیم‌گیری مطرح است؛ هم‌زمان واشینگتن بین اقدام نظامی یا یک راه‌حل دیپلماتیک در حال وزن‌کشی است.",
-            "طبق ادعا، آلمان از ایران خواسته تنگه هرمز را دوباره باز کند؛ این یعنی تهدید یا محدودیت در مسیر کشتیرانی و اثر مستقیم آن بر امنیت منطقه و تجارت به نقطه فشار سیاسی تبدیل شده است.",
-            "متن به «سرریز منطقه‌ای» اشاره می‌کند، اما جزئیات مشخص از نقش یا فعالیت بازیگران دیگر ارائه نشده و برای حفظ دقت، نمی‌توان اتصال‌های ادعایی را به شواهد فراتر از گزارش تعمیم داد."
-        ],
-        "impact": "اگر محور تصمیم‌گیری آمریکا از گزینه دیپلماتیک به سمت عملیات نظامی حرکت کند، ریسک اختلال در مسیرهای حیاتی منطقه—به‌ویژه تنگه هرمز—به‌طور مستقیم بالا می‌رود.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/world/us-israel-iran-war-latest-news-germany-urges-iran-to-reopen-strait-of-hormuz-as-us-weighs-military-action-or-diplomatic-compromise/ar-AA22iGtf",
-        "clean_url": "https://www.msn.com/en-in/news/world/us-israel-iran-war-latest-news-germany-urges-iran-to-reopen-strait-of-hormuz-as-us-weighs-military-action-or-diplomatic-compromise/ar-AA22iGtf",
-        "image": "http://www.bing.com/th?id=ONUT.7Px8KuS8IZPFlgn0YxAifA&pid=News",
-        "timestamp": 1777815960.0
-    },
-    {
-        "title_fa": "اظهارات سپاه و مقامات ایران در واکنش به تردید ترامپ؛ هشدار درباره «عملیات غیرممکن» و «گزینه بد»",
-        "title_en": "US military operation ‘impossible’: Iran",
-        "summary": [
-            "سپاه پاسداران اعلام کرد آمریکا باید میان «عملیات غیرممکن» یا «توافق بد» با ایران یکی را انتخاب کند، پس از آنکه ترامپ طرح جدید صلح تهران را در شبکه اجتماعی رد کرد و گفت ایران «قیمت کافی» نپرداخته است. هم‌زمان از بن‌بست مذاکرات بعد از آتش‌بس ۸ آوریل و تنها یک دور گفت‌وگوی مستقیم تا امروز خبر داده شد.",
-            "طبق گزارش Axios، پیشنهاد ایرانی‌ها شامل مهلت یک‌ماهه برای مذاکره جهت بازگشایی تنگه هرمز، پایان محاصره/بازداشت دریایی آمریکا و «پایان دائمی جنگ» در ایران و لبنان است؛ ایران می‌گوید توپ در زمین تصمیم آمریکا است و مسیر دیپلماسی یا ادامه رویارویی را باید طرف آمریکایی تعیین کند.",
-            "ترامپ صراحتاً آستانه اقدام نظامی جدید را مشخص نکرد و فقط گفت اگر ایران «رفتار بد» انجام دهد ممکن است اقدام رخ دهد. در کنار آن، مشاور نظامی نزدیک به رهبر، از امکان «غرق کردن کشتی‌های آمریکا» سخن گفت، اما در گزارش حاضر هیچ شواهدی از غرق شدن شناورهای آمریکایی توسط ایران ارائه نشده است."
-        ],
-        "impact": "این جدال لفظی-دیپلماتیک، چون بر سر بازگشایی تنگه هرمز و پایان محاصره دریایی گره خورده، ریسک حرکت سریع از مذاکره به سناریوی رویارویی را بالا می‌برد.",
-        "tag": "مذاکرات",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Taipei Times",
-        "url": "https://www.taipeitimes.com/News/front/archives/2026/05/04/2003856709",
-        "clean_url": "https://www.taipeitimes.com/News/front/archives/2026/05/04/2003856709",
-        "image": null,
-        "timestamp": 1777813980.0
-    },
-    {
-        "title_fa": "رسانه اسرائیلی: صنعت هوایی اسرائیل در بلاتکلیفی زیر سایه آتش‌بس شکننده با ایران",
-        "title_en": "Israel's Airline Industry Left in Limbo Amid Fragile Cease-fire With Iran",
-        "summary": [
-            "هاارتز گزارش می‌کند که بخش حمل‌ونقل هوایی اسرائیل به دلیل «آتش‌بس شکننده» با ایران عملاً در وضعیت بلاتکلیفی قرار گرفته است؛ یعنی برنامه‌ریزی عملیاتی و تجاری تحت‌تأثیر ریسک سیاسی-امنیتی مانده است.",
-            "این وضعیت نشان می‌دهد که حتی بدون درگیری مستقیم و فوری، سایه تهدیدهای مرتبط با ایران می‌تواند ظرفیت تصمیم‌گیری خطوط هوایی (مسیرها، زمان‌بندی پرواز، بیمه و ریسک عملیاتی) را مختل کند—نه صرفاً یک نگرانی عمومی، بلکه اختلال فرآیندی در صنعت.",
-            "در نبود قطعیت، نتیجه برای صنعت هوایی اسرائیل می‌تواند کاهش اعتماد عملیاتی و تصمیم‌های محتاطانه‌تر باشد، چون هر تغییر کوچک در شرایط آتش‌بس مستقیماً می‌تواند هزینه و ریسک پرواز را بالا ببرد."
-        ],
-        "impact": "بلاتکلیفی صنعت هوایی اسرائیل تحت آتش‌بس شکننده، فشار اقتصادی غیرمستقیم اما فوری بر عملیات و برنامه‌ریزی خطوط هوایی ایجاد می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdE5uSF8xT0dldk0xeXR5VnNSUFE3UFNlbmhMSmdROXhJM1Z5OWxJSHliTXJneFlEVVA2b1R6YlJ1MWxMejVQMTZSUk84eXhreEN0NEgycHd6bUJpbXA1Y2kzYlpmRUcwNlFUdVRseEhUanFzT3pMR0IxM3hOMC03V0ZETXJ1RFM5UWtvUEU2S1BzY3hZX2lLZlphVUZIZ0dnSWVXaUwtZGNLSnM5RkFDX3lTaGVqbDZYVFhXZDFSdU9ET3RxMWJRNlVOZUd2NE10djY4TWFlSjJiTlRnWDhXSndnSzNFV29uNVB6enVvekFnUVVGNjJMV3pPZEllc3FPUE5GWnhEbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOdE5uSF8xT0dldk0xeXR5VnNSUFE3UFNlbmhMSmdROXhJM1Z5OWxJSHliTXJneFlEVVA2b1R6YlJ1MWxMejVQMTZSUk84eXhreEN0NEgycHd6bUJpbXA1Y2kzYlpmRUcwNlFUdVRseEhUanFzT3pMR0IxM3hOMC03V0ZETXJ1RFM5UWtvUEU2S1BzY3hZX2lLZlphVUZIZ0dnSWVXaUwtZGNLSnM5RkFDX3lTaGVqbDZYVFhXZDFSdU9ET3RxMWJRNlVOZUd2NE10djY4TWFlSjJiTlRnWDhXSndnSzNFV29uNVB6enVvekFnUVVGNjJMV3pPZEllc3FPUE5GWnhEbw",
-        "image": null,
-        "timestamp": 1777812660.0
-    },
-    {
-        "title_fa": "ایران می‌گوید پاسخ آمریکا به طرح «صلح» ۱۴ بندی را در حال بررسی دارد",
-        "title_en": "Iran says that U.S. has responded to its peace proposal",
-        "summary": [
-            "ایران اعلام کرده پاسخ آمریکا به آخرین پیشنهاد خود را بررسی می‌کند؛ پیشنهاد ۱۴ بندی که مورد بررسی رئیس‌جمهور دونالد ترامپ قرار گرفته است.",
-            "این رویداد در چارچوب یک حرکت دیپلماتیک قابل پیگیری است، اما متن خبر جزئیات محتوایی پاسخ آمریکا یا بندهای قابل‌توافق/غیرقابل‌توافق را ارائه نمی‌دهد.",
-            "به‌دلیل نبود داده‌های مشخص درباره سازوکار اجرا، زمان‌بندی، یا امتیازهای متقابل، فعلاً نمی‌توان آن را به بهبود فوری در فشار خارجی یا کاهش نارضایتی داخلی گره زد."
-        ],
-        "impact": "این بیشتر یک مرحله از تعامل دیپلماتیک است تا نشانه مستقیمِ تغییر بنیادین در فشار خارجی یا ثبات داخلی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "UPI",
-        "url": "https://www.upi.com/Top_News/World-News/2026/05/03/pakistan-iran-reviews-us-response-to-peace-plan/1861777833004/",
-        "clean_url": "https://www.upi.com/Top_News/World-News/2026/05/03/pakistan-iran-reviews-us-response-to-peace-plan/1861777833004",
-        "image": "http://www.bing.com/th?id=ONUT.SZbUnv8T3DJpoYsR1jYxYg&pid=News",
-        "timestamp": 1777811940.0
-    },
-    {
-        "title_fa": "بی‌اعتمادی ترامپ به پیشنهاد تازه صلح ایران؛ ایران از «تنگ شدن پنجره تصمیم» و مهلت به پنتاگون می‌گوید",
-        "title_en": "Trump expresses doubt on latest Iranian peace proposal",
-        "summary": [
-            "ترامپ نسبت به پیشنهاد جدید صلح ایران تردید دارد و روایت رسمی تهران می‌گوید «پنجره تصمیم‌گیری» آمریکا تنگ شده است.",
-            "سپاه در واکنش به نامه ترامپ به رهبران کنگره درباره عدم درخواست اختیار جنگی طبق War Powers Act، آن را این‌گونه چارچوب‌بندی می‌کند که ترامپ بین «عملیات نظامی غیرممکن» یا «یک توافق بد» باید یکی را انتخاب کند.",
-            "تهران می‌گوید به پنتاگون مهلت داده تا «بلوک/محاصره» پایان یابد و در همان حال اصرار دارد پیشنهاد جدیدش چارچوب رسیدگی به اختلافات را شکل می‌دهد."
-        ],
-        "impact": "این کشمکش نشان می‌دهد گره اصلی در مسیر هر توافق احتمالی، همزمان به محدودیت زمانی آمریکا و فشار تهران برای پایان عملیات/بلوک مورد ادعا گره خورده است.",
-        "tag": "تحرک_دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "NewsNation",
-        "url": "https://www.yahoo.com/news/articles/trump-says-no-iran-deal-144816675.html",
-        "clean_url": "https://www.yahoo.com/news/articles/trump-says-no-iran-deal-144816675.html",
-        "image": null,
-        "timestamp": 1777811057.0
     }
 ]
