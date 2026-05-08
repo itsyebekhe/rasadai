@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "احتمال ازسرگیری گفت‌وگوهای آمریکا و ایران در اسلام‌آباد هفته آینده",
+        "title_en": "US, Iran may resume talks next week in Islamabad: WSJ",
+        "summary": [
+            "بر اساس گزارش WSJ که آنادولو آن را بازتاب داده، گفت‌وگوهای احتمالی میان آمریکا و ایران هفته آینده در اسلام‌آباد از سر گرفته می‌شود؛ فعلاً فقط سطح «امکان» مطرح است و جزئیات توافق یا دستورکار منتشر نشده.",
+            "از منظر فشار خارجی، اگر این روند واقعاً به مذاکرات عملی منجر شود، می‌تواند دست رژیم را برای مدیریت هزینه‌های بین‌المللی باز کند؛ اما چون متن خبر به نتیجه مشخص اشاره ندارد، اثر آن در کوتاه‌مدت بیشتر «تنفسی/تاخیری» است تا تغییر پایدار در توازن قدرت.",
+            "از حیث اقتصاد و نارضایتی داخلی، این خبر به خودی خود سیگنال مالی یا کنترل سیاست‌های داخلی نمی‌دهد؛ بنابراین اگر وعده مذاکرات بدون خروجی روشن بماند، اثر آن بر کاهش نارضایتی عمومی محدود خواهد بود و مدیریت بحران همچنان محل تردید می‌ماند."
+        ],
+        "impact": "این خبر در بهترین حالت یک کانال دیپلماتیکِ بالقوه برای کاهش فشار کوتاه‌مدت است، اما نبودِ جزئیات خروجی، اعتبار اثر اقتصادی و سیاسی آن را در حال حاضر پایین نگه می‌دارد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Anadolu Ajansı",
+        "url": "https://www.aa.com.tr/en/americas/us-iran-may-resume-talks-next-week-in-islamabad-wsj/3931974",
+        "clean_url": "https://www.aa.com.tr/en/americas/us-iran-may-resume-talks-next-week-in-islamabad-wsj/3931974",
+        "image": null,
+        "timestamp": 1778272927.0
+    },
+    {
         "title_fa": "انتظار واشنگتن از پاسخ ایران به طرح صلح؛ شعله‌ور شدن دوباره درگیری‌ها در خلیج فارس",
         "title_en": "US expects Iranian response to peace proposal on Friday, fighting flares in Gulf",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-trump-iran-news-strait-of-hormuz-ceasefire-peace-proposal-pakistan-latest-news-liveblog-154275494",
         "image": "http://www.bing.com/th?id=ONUT.UXpq5j3oK6obcCBEjmTE9g&pid=News",
         "timestamp": 1778242080.0
+    },
+    {
+        "title_fa": "افزایش نفوذ ایران در جنگ اطلاعاتی با قالب‌های میم و ویدئوهای سبک لگو",
+        "title_en": "How Iran is gaining ground in the information war",
+        "summary": [
+            "رژیم سال‌ها در پیام‌رسانی دچار اختلال بود، اما اکنون با قالب‌های ساده و قابل‌تکثیر (ویدئوهای سبک لگو و میم‌ها) «توان دیده‌شدن» پیدا کرده است.",
+            "این تغییر رویه به‌جای اتکا به روایت‌های سنگین، بر تولید محتوای کوتاه، جذاب و مناسب پلتفرم‌های شبکه‌های اجتماعی تکیه دارد تا هم اثرگذاری و هم سرعت انتشار را بالا ببرد.",
+            "در نتیجه، جنگ اطلاعاتی از حالت کم‌اثر و پرهزینه خارج شده و به یک ابزار عملی برای افزایش نفوذ تبلیغاتی تبدیل شده است؛ مسئله‌ای که لزوماً به معنای قدرت نظامی نیست، اما تهدید ارتباطی و شناختی را تقویت می‌کند."
+        ],
+        "impact": "این تحول نشان می‌دهد رژیم با بهبود تاکتیک‌های تولید محتوا، مانع اصلی در جنگ اطلاعاتی را دور زده و ظرفیت تاثیرگذاری خود را بالا برده است.",
+        "tag": "جنگ_اطلاعاتی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/how-iran-is-gaining-ground-in-the-information-war/ar-AA22ID3W",
+        "clean_url": "https://www.msn.com/en-us/news/world/how-iran-is-gaining-ground-in-the-information-war/ar-AA22ID3W",
+        "image": "http://www.bing.com/th?id=ONUT.4ZeQKz28zrZNL2_bcL-ZzQ&pid=News",
+        "timestamp": 1778240340.0
     },
     {
         "title_fa": "موندوی‌ویس: ترامپ شکست جنگ با ایران را پذیرفته و برای خروج دنبال راه می‌گردد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-gb/war-and-conflicts/military-organizations/hezbollah-pays-steep-price-in-battle-to-reverse-its-fortunes/ar-AA22j6v4",
         "image": null,
         "timestamp": 1777831640.0
-    },
-    {
-        "title_fa": "بلاتکلیفی آتش‌بس اسرائیل-ایران؛ سود احتمالی برای بازارهای اسرائیل و آمریکا",
-        "title_en": "Israel-Iran ceasefire limbo may benefit Israel and US markets",
-        "summary": [
-            "گزارش «The Jerusalem Post» می‌گوید وضعیت آستانه‌ای/بلاتکلیفِ آتش‌بس میان اسرائیل و ایران می‌تواند اثر مثبتی بر بازارهای اسرائیل و آمریکا داشته باشد.",
-            "تمرکز متن روی پیامدهای اقتصادی-بازاری است، نه توافق سیاسی؛ یعنی عدم‌قطعیت کنونی به‌جای تشدید فوری ریسک، در کوتاه‌مدت ممکن است به کاهش نگرانی‌های بازار و حمایت از سرمایه‌گذاری کمک کند.",
-            "این ارزیابی مستقیم به اقدامات یا اهرم‌های فشار خارجی علیه رژیم اشاره نمی‌کند و صرفاً یک برداشت بازارمحور درباره مزیت احتمالی برای اسرائیل و آمریکا ارائه می‌دهد."
-        ],
-        "impact": "این گزارش نشان می‌دهد که بازارها ممکن است از «عدم‌قطعیت کنترل‌شده» در پرونده اسرائیل-ایران برداشت مثبت داشته باشند، بدون اینکه سندی از تغییر جدی در سیاست‌ها ارائه کند.",
-        "tag": "بازار",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mU0xwVGJGcHYwOXJJRzI3dmVUVmRXQ1FQb2t5MnpLMlIyUlI1UnkzaUlwR3g4aUZQc3ZBdi1mM0d0N2hTbEtCbnNhLWdNbDgwLUQxTTVIdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mU0xwVGJGcHYwOXJJRzI3dmVUVmRXQ1FQb2t5MnpLMlIyUlI1UnkzaUlwR3g4aUZQc3ZBdi1mM0d0N2hTbEtCbnNhLWdNbDgwLUQxTTVIdw",
-        "image": null,
-        "timestamp": 1777831200.0
-    },
-    {
-        "title_fa": "ایران طرح ۱۴ ماده‌ای خواهان خروج نیروهای آمریکا و لغو تحریم‌ها شد؛ اما بازار احتمال توافق را کمتر می‌بیند",
-        "title_en": "Iran demands US troop withdrawal, sanctions relief in 14-point plan",
-        "summary": [
-            "ایران در پاسخ به پیشنهاد آتش‌بس آمریکا، طرح ۱۴ ماده‌ای ارائه کرده که خروج نیروهای آمریکایی، لغو تحریم‌ها و آزادسازی دارایی‌های بلوکه‌شده را شرط می‌گذارد؛ این موضع در چارچوب تداوم درگیری از ۲۸ فوریه ۲۰۲۶ مطرح شده است.",
-            "گزارش می‌گوید این مطالبات «سخت‌تر» نسبت به مذاکرات پیشین است و با سناریوی کاهش احتمال توافق آمریکا هم‌خوانی دارد؛ به‌ویژه نرخ احتمال توافق در بازارهای مرتبط (از جمله «عدم توافق») پایین آمده و رسیدن به ضرب‌الاجل ۳۱ مه برای معامله هسته‌ای را دشوارتر نشان می‌دهد.",
-            "طبق متن، ایران موضعش را از مسیر میانجی‌های پاکستانی منتقل کرده و در عین حال، بر کنترل ایران بر تنگه هرمز و ادامه غنی‌سازی اورانیوم (طبق ادعای گزارش) تأکید دارد؛ هر تغییر در موضع نظامی یا فعالیت‌های غنی‌سازی می‌تواند ادراک بازار را جابه‌جا کند و پاسخ رسمی آمریکا (ترامپ/وزارت خارجه) عامل تعیین‌کننده بعدی است."
-        ],
-        "impact": "سخت‌گیری مشروط‌سازی خروج آمریکا و لغو تحریم‌ها احتمال دستیابی به توافق تا ۳۱ مه را کاهش می‌دهد و احتمال بن‌بست در مسیر مذاکره را بالا می‌برد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-demands-us-troop-withdrawal-sanctions-relief-in-14-point-plan/",
-        "clean_url": "https://cryptobriefing.com/iran-demands-us-troop-withdrawal-sanctions-relief-in-14-point-plan",
-        "image": "http://www.bing.com/th?id=ONUT.2xpZXA2r6RcsgD1cq0p7XQ&pid=News",
-        "timestamp": 1777830780.0
     }
 ]
