@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تحریم‌های جدید آمریکا علیه شرکت‌ها و افراد در خاورمیانه و چین برای کمک به ایران",
+        "title_en": "U.S. sanctions companies and individuals in the Middle East and China for helping Iran",
+        "summary": [
+            "طبق گزارش CNBC، آمریکا شرکت‌ها و افراد در خاورمیانه و چین را به اتهام کمک به ایران تحریم کرده است؛ یعنی یک اقدام مستقیم برای قطع مسیرهای تأمین/همکاری تجاری و مالی مرتبط با تهران.",
+            "این نوع تحریم‌ها معمولاً اثر ساختاری بر توان رژیم برای دورزدن محدودیت‌های مالی و دسترسی به شبکه‌های بین‌المللی دارد و هزینه همکاری با ایران را بالا می‌برد، حتی اگر هدف اعلامی در سطح شرکت‌ها و افراد باشد.",
+            "با توجه به اینکه دامنه تحریم هم به منطقه و هم به چین کشیده شده، پیام روشن است: هر گره بیرونی که به پشتیبانی اقتصادی ایران کمک کند، در معرض ریسک معامله، بیمه، حمل‌ونقل و بانکی قرار می‌گیرد و در نهایت فشار را به داخل منتقل می‌کند."
+        ],
+        "impact": "تحریم‌های هدفمند می‌تواند زنجیره‌های بیرونی حمایت از ایران را تضعیف کرده و ریسک اقتصادی و سیاسی برای بازیگران خارجیِ همکاری‌کننده را افزایش دهد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/news/other/us-sanctions-companies-and-individuals-in-the-middle-east-and-china-for-helping-iran/ar-AA22KWU0",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-sanctions-companies-and-individuals-in-the-middle-east-and-china-for-helping-iran/ar-AA22KWU0",
+        "image": null,
+        "timestamp": 1778321424.0
+    },
+    {
+        "title_fa": "گروه‌سالاری جدید در ایران؛ تفویض قدرت به پاسداران، قوه قضائیه و مجلس به‌جای یک فرمانده‌تک‌نفره",
+        "title_en": "The New Leaders Calling the Shots in Iran",
+        "summary": [
+            "بر اساس گزارش تایم، پس از مطرح‌شدن «موجتبا خامنه‌ای» به‌عنوان رهبر جدید، روند اداره کشور بیشتر به شکل تفویض اختیار به یک هسته تصمیم‌گیری پیش می‌رود، نه تمرکز کامل در یک فرد.",
+            "این هسته تصمیم‌گیری طبق گفته یک کارشناس شامل اجزایی از سپاه پاسداران، دستگاه قضایی و نمایندگان مجلس معرفی شده است؛ یعنی ترکیبی از نهادهای امنیتی-حقوقی-سیاسی که هماهنگی‌شان جایگزین فرماندهی شخصی شده است.",
+            "هم‌زمان در گزارش آمده «به نظر نمی‌رسد یک فرد واحد اکنون همه کارها را دست بگیرد»، که نشانه‌ای از جابه‌جایی ساختار قدرت و تقسیم نقش‌ها در رأس نظام است."
+        ],
+        "impact": "تقسیم قدرت میان چند نهاد در رأس حکومت می‌تواند هم سرعت تصمیم‌گیری را بالا ببرد و هم خطر کشمکش‌های درونی را افزایش دهد، چون سازوکار پاسخگویی و خط فرمان واحد مبهم می‌شود.",
+        "tag": "قدرت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Time Magazine",
+        "url": "https://www.baltimoresun.com/2026/05/01/whos-in-charge-in-iran-collection-of-high-ranking-officials-is-calling-the-shots/",
+        "clean_url": "https://www.baltimoresun.com/2026/05/01/whos-in-charge-in-iran-collection-of-high-ranking-officials-is-calling-the-shots",
+        "image": null,
+        "timestamp": 1778320800.0
+    },
+    {
         "title_fa": "جنگ آمریکا-اسرائیل علیه ایران؛ خطر جهش بحران و فروپاشی کنترل",
         "title_en": "US-Israel war on Iran",
         "summary": [
@@ -70,6 +106,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjUWZzTU1NemNnNUVfOWgwRmhxcEZ0QlAwanJPSmFpUkRIbkdPaE02TGNuODBFaEVRazlNU3U4Mkp3QjE3d01WYl9ISTFBSVhWRXE3UFhpeGFFemlGSzNKOE1NMXJSTGRZMnBqcmlIOW4zU0U",
         "image": null,
         "timestamp": 1778300580.0
+    },
+    {
+        "title_fa": "تغییر میدان جنگ ایران؛ تکرار همان شعارهای ترامپ",
+        "title_en": "The Iran war has changed. Trump’s talking points have not",
+        "summary": [
+            "به‌رغم تغییر واقعی جنگ از «حملات شوک و هراس» به یک آتش‌بس یک‌ماهه با بلوکه‌کردن پرهزینه از سوی دو طرف، ترامپ همچنان همان پیام‌های تکراری را نگه داشته و زمان پایان را مرتب نزدیک جلوه می‌دهد.",
+            "ترامپ در اظهارات اخیر مجدداً «تقریباً تمام شدن» را وعده داده و حتی گفته اگر معامله پایان جنگ را ندهد، باید دوباره «بمباران شدید» انجام شود؛ با این حال، بازه‌های زمانی اعلامی از چهار تا شش هفته در کمپین، به یک وعده مبهم‌تر و دائماً در حال عقب افتادن تبدیل شده است.",
+            "گزارش CNN تأکید می‌کند که نوع روایت ترامپ—ادعای کنترل‌بودن جنگ از سوی آمریکا، «ویرانی شدید» توان نظامی ایران، و نزدیک بودن پایان—با تغییرات صحنه هم‌راستا نیست و باعث شده جدیت وعده‌ها قابل سنجش نباشد."
+        ],
+        "impact": "شکاف میان تغییر روند جنگ و ثبات تبلیغات سیاسی، اعتبار پیام‌های کاخ سفید را فرسوده و هرگونه معامله نزدیک‌به‌زمان را در معرض تردید جدی قرار می‌دهد.",
+        "tag": "تحلیل",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/05/09/politics/trump-iran-war-peace-deal-talking-points-analysis",
+        "clean_url": "https://www.cnn.com/2026/05/09/politics/trump-iran-war-peace-deal-talking-points-analysis",
+        "image": "http://www.bing.com/th?id=ONUT.t1rAVbIf0nowWRB12empjA&pid=News",
+        "timestamp": 1778295600.0
     },
     {
         "title_fa": "نشت احتمالی نفت نزدیک پایانه جزیره خارک؛ تهدید جدید برای زیرساخت صادراتی",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.newarab.com/news/irans-navy-attacks-us-ship-missiles-centcom-denies-strike",
         "image": "http://www.bing.com/th?id=ONUT.pyr7U4IJuIHEFGIQXW3avw&pid=News",
         "timestamp": 1777868820.0
-    },
-    {
-        "title_fa": "اعترافات گسیخته ترامپ درباره ایران: پایان‌دادن جنگ بدون روشن‌کردن مسیر بعدی",
-        "title_en": "Transcript: Trump Blurts Out Damning Iran Admission as GOP Panic Grows",
-        "summary": [
-            "ترامپ با ارسال نامه به کنگره اعلام کرده جنگ با ایران «پایان یافته» تا از الزام رأی‌گیری کنگره درباره ادامه درگیری پس از گذشت ۶۰ روز دور بزند؛ اما جزئیات اینکه بعد از این «پایان» چه خواهد شد مبهم مانده.",
-            "در گفت‌وگوهای رسانه‌ای، از جمله مصاحبه با Newsmax، متن گزارش نشان می‌دهد ترامپ «نمی‌داند» چه روندی میان مذاکره‌کنندگان دولت و ایران در جریان است و حتی از نارضایتی از پیشنهاد اخیر ایران حرف می‌زند بدون اینکه دلیل دقیق ارائه شود (بر پایه متن: احتمالاً مرتبط با عدم عقب‌نشینی کامل ایران از برنامه هسته‌ای).",
-            "طبق گزارش، کنفرم دقیقِ مذاکره و محتوای پیشنهادها روشن نشده، ضمن اینکه گفته می‌شود دولت جنگ را به‌واسطه ادعای بسته‌شدن پنجره ۶۰ روزه و با اتکا به وضعیت «آتش‌بس» عملاً بدون رأی‌گیری کنگره جلو برده است؛ در همین زمینه نظرسنجی‌ها نیز از کاهش رضایت عمومی نسبت به جنگ و سردرگمی ترامپ خبر می‌دهند."
-        ],
-        "impact": "این وضعیتِ مبهم‌بودن فرماندهی و فرار از سازوکار قانونی کنگره می‌تواند هم اجرای تصمیم‌ها را بی‌ثبات کند و هم هزینه سیاسی برای دولت را در داخل آمریکا بالا ببرد، بدون اینکه راهبرد روشن در برابر ایران قابل سنجش باشد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/article/209890/transcript-trump-blurts-damning-iran-admission-gop-panic-grows",
-        "clean_url": "https://newrepublic.com/article/209890/transcript-trump-blurts-damning-iran-admission-gop-panic-grows",
-        "image": "http://www.bing.com/th?id=ONUT.xToL_7Upq9dM0DqOyJxGcQ&pid=News",
-        "timestamp": 1777867860.0
-    },
-    {
-        "title_fa": "انتشار نقشه جدید سپاه؛ بازارها احتمال توافق کشتیرانی آزاد در تنگه هرمز تا ۳۱ می را پایین‌تر قیمت‌گذاری کردند",
-        "title_en": "Iran publishes new map asserting control over Strait of Hormuz",
-        "summary": [
-            "سپاه پاسداران نقشه‌ای جدید منتشر کرده که «محدوده‌های تحت کنترل نیروی دریایی» در تنگه هرمز را مشخص می‌کند؛ گزارش شده که این اقدام با خبرگزاری فارس بازتاب یافته و در چارچوب کنترل و محدودیت‌های دریایی قبلی خوانده می‌شود.",
-            "این حرکت همزمان با تنش‌های ناشی از درگیری هوایی آمریکا-اسرائیل علیه ایران و سپس «مسدودسازی تنگه» مطرح شده؛ بر اساس متن، ایران از راه‌هایی مثل سوار شدن بر کشتی‌ها و به‌کارگیری مین‌های دریایی کنترل اعمال کرده و نقشه جدید ادعاهای کنترل را تقویت می‌کند.",
-            "بازارهای پیش‌بینی مرتبط با هرمز واکنش داده‌اند: احتمال «توافق کشتیرانی نامحدود تا ۳۱ می» به ۹.۵٪ کاهش یافته (از ۱۴٪ طی ۲۴ ساعت قبل) و بازار «بازگشت ترافیک به حالت عادی تا پایان ژوئن» بدون تغییر جدی تحت رصد است."
-        ],
-        "impact": "این نقشه به‌عنوان سیگنال استمرار کنترل و محدودیت‌ها در تنگه هرمز، احتمال توافق برای کشتیرانی آزاد را در کوتاه‌مدت کاهش داده و فضای بازار را به سمت سناریوی تداوم فشار سوق داده است.",
-        "tag": "هرمز",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-publishes-new-map-asserting-control-over-strait-of-hormuz/",
-        "clean_url": "https://cryptobriefing.com/iran-publishes-new-map-asserting-control-over-strait-of-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.8AG73XvofP2rTJiLoEbolQ&pid=News",
-        "timestamp": 1777867380.0
-    },
-    {
-        "title_fa": "ترامپ: آمریکا برای «راهنمایی» کشتی‌های گرفتار از تنگه هرمز اقدام می‌کند",
-        "title_en": "Trump says US to 'guide' stranded ships through Strait of Hormuz",
-        "summary": [
-            "براساس گزارش BBC، ترامپ اعلام کرده است که ایالات متحده قصد دارد کشتی‌های «گرفتار/زمین‌گیر» در تنگه هرمز را «راهنمایی» کند؛ یعنی مداخله عملی در یک گلوگاه حیاتی دریایی.",
-            "این اظهارنظر مستقیماً به ریسک تشدید تنش در مسیرهای کشتیرانی می‌افزاید، چون هر اقدام «هدایت» می‌تواند از نگاه بازیگران منطقه‌ای به معنای اعمال فشار یا نظارت راهبردی تفسیر شود.",
-            "از نظر اثر اقتصادی-سیاسی، تنگه هرمز کانال اصلی انتقال انرژی و تجارت منطقه است؛ هر اختلال یا افزایش ریسک عملیاتی در آن، به ناپایداری هزینه‌های حمل‌ونقل و فشار بر اقتصاد کشورها (و به‌طور غیرمستقیم بر وضعیت ایران) دامن می‌زند."
-        ],
-        "impact": "ورود عملی آمریکا به هدایت/مدیریت عبور کشتی‌ها در تنگه هرمز می‌تواند سطح ریسک امنیت دریایی را بالا ببرد و در نتیجه هزینه‌های اقتصادی و احتمال درگیری‌های محدود را افزایش دهد.",
-        "tag": "تنگههرمز",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaHI2TXJQei03d1VvTWh1cEtvVTZoUWNOR1RKbjdUS1hjc3RhZC0tSmhMSHhrRmFJT0xyUnBQeGYyRWZkWEJNd3JSZTJHU3hoMVE4N0E2YU1Mdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaHI2TXJQei03d1VvTWh1cEtvVTZoUWNOR1RKbjdUS1hjc3RhZC0tSmhMSHhrRmFJT0xyUnBQeGYyRWZkWEJNd3JSZTJHU3hoMVE4N0E2YU1Mdw",
-        "image": null,
-        "timestamp": 1777865901.0
     }
 ]
