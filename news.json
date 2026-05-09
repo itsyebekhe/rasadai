@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "نشت احتمالی نفت نزدیک پایانه جزیره خارک؛ تهدید جدید برای زیرساخت صادراتی",
+        "title_en": "Live updates: Possible oil spill seen near Iran’s Kharg Island terminal, report says",
+        "summary": [
+            "بر اساس گزارش NewsNation، نشتی نفت «احتمالی» نزدیک پایانه جزیره خارک دیده شده و این موضوع می‌تواند مستقیم به عملکرد و اعتبار زنجیره صادرات نفت ایران ضربه بزند.",
+            "جزیره خارک گلوگاه اصلی صادرات نفت است؛ هرگونه آلودگی یا اختلال در این نقطه، ریسک توقف عملیات، هزینه‌های پاکسازی و کاهش جریان درآمد ارزی را بالا می‌برد.",
+            "در متن ارائه‌شده جزئیات درباره علت، میزان نشت یا واکنش رسمی طرف ایرانی وجود ندارد؛ بنابراین فعلاً باید آن را به‌عنوان یک هشدار عملیاتی-ایمنی برای زیرساخت صادراتی ثبت کرد، نه یک نتیجه قطعی."
+        ],
+        "impact": "اگر این نشت تأیید و گسترده شود، می‌تواند همزمان ریسک اختلال عملیاتی در پایانه خارک و فشار مالی ناشی از کاهش یا توقف صادرات را تشدید کند.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "NewsNation",
+        "url": "https://www.msn.com/en-us/news/world/suspected-oil-spill-seen-on-satellite-images-near-irans-kharg-island-export-hub/ar-AA22JESt",
+        "clean_url": "https://www.msn.com/en-us/news/world/suspected-oil-spill-seen-on-satellite-images-near-irans-kharg-island-export-hub/ar-AA22JESt",
+        "image": null,
+        "timestamp": 1778292520.0
+    },
+    {
         "title_fa": "تهدید ترامپ برای ازسرگیری «پروژه آزادی پلاس» در صورت نهایی نشدن توافق با ایران",
         "title_en": "Trump threatens to resume 'Project Freedom Plus' if Iran deal not sealed",
         "summary": [
@@ -70,6 +88,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZXdhVmlxWWtsWEo4cl9lVEc2VXlOQWRhSnRsQU1CTEpUYzAxSDgwcnc1Y0VydFhld0ZCODVxbVo4MlFGOGp0UUlQQXBQVEZiSUNISloxTS05eURkMW5uTTlCUkQ1Y21TbFlLeWp5bUc3c0dqczE0aWlETnFxZEJHUzJsNA",
         "image": null,
         "timestamp": 1778277600.0
+    },
+    {
+        "title_fa": "گمانه‌زنی از سرگیری گفت‌وگوهای آمریکا-ایران در اسلام‌آباد و فشار برای چارچوب ۱۴ ماده‌ای",
+        "title_en": "Israel Iran War Live Updates: US-Iran talks may resume in Islamabad next week amid push for 14-point framework",
+        "summary": [
+            "Firstpost می‌گوید احتمال از سرگیری مذاکرات آمریکا-ایران در اسلام‌آباد در هفته آینده مطرح شده، با هدف هم‌راستا کردن طرفین حول «چارچوب ۱۴ ماده‌ای».",
+            "این وضعیت نشان می‌دهد بازیگرهای غربی به دنبال کانال‌سازی سیاسی برای کنترل روند بحران هستند، نه راه‌حل فوری یا متکی به توافق قطعی؛ یعنی مرحله جدیدی از مدیریت ریسک است.",
+            "در نبود جزئیات اجرایی از متن ۱۴ ماده‌ای یا زمان‌بندی رفع اختلاف‌ها، احتمال می‌رود این روند بیشتر به عنوان ابزار فشار دیپلماتیک و توقف/کاهش تنش تاکتیکی به کار رود تا تغییر واقعی در سیاست‌های هسته‌ای یا منطقه‌ای."
+        ],
+        "impact": "به احتمال بالا، این حرکت دیپلماتیک می‌تواند موقتاً شدت تنش را کنترل کند، اما چون جزئیات و تضمین‌های عملی گزارش نشده، اثر پایدار بر کاهش ریسک درگیری محدود خواهد بود.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/israel-iran-war-live-updates-strait-of-hormuz-iran-us-ceasefire-liveblog-14009179.html",
+        "clean_url": "https://www.firstpost.com/world/israel-iran-war-live-updates-strait-of-hormuz-iran-us-ceasefire-liveblog-14009179.html",
+        "image": "http://www.bing.com/th?id=ONUT.WJlVa04KWCnjGfEJdBcM_A&pid=News",
+        "timestamp": 1778276700.0
     },
     {
         "title_fa": "روبیو: انتظار پاسخ ایران به «توافق صلح» آمریکا در روز جمعه",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://edition.cnn.com/2026/05/04/world/live-news/iran-war-hormuz-trump",
         "image": "http://www.bing.com/th?id=ONUT.sqq18MM_L0vauNMwvJo-fw&pid=News",
         "timestamp": 1777864680.0
-    },
-    {
-        "title_fa": "چگونه «باج‌گزار تحریم» ایران از محکومیت به مرگ به مسیر کریپتو رسید",
-        "title_en": "How Iran’s Chief Sanctions Buster Went From Death Row to Crypto",
-        "summary": [
-            "گزارش WSJ می‌گوید یک مقام کلیدی که در عمل نقش دورزدن تحریم‌ها را پیش می‌برد، مسیر زندگی‌اش از محکومیت به مرگ تا استفاده از سازوکارهای مالی جدید—به‌ویژه کریپتو—تغییر کرده است.",
-            "مقاله چارچوب دورزدن تحریم را نشان می‌دهد: گذار از شبکه‌های سنتی به ابزارهای پرریسک و کم‌قیدتر مانند کریپتو برای انتقال ارزش و کاهش ردیابی.",
-            "این روایت، هم‌زمان هم ضعف‌های ساختاری نظام تحریم‌گری را برجسته می‌کند (به‌دلیل قابلیت انطباق رژیم)، و هم ریسک‌های داخلی و فساد/مهندسی‌شده بودن اقتصاد غیرشفاف را تقویت می‌کند."
-        ],
-        "impact": "تمرکز بر کریپتو به‌عنوان ابزار دورزدن تحریم، نشانه انطباق سریع رژیم و هم‌زمان تشدید اقتصاد غیرشفاف و قابل‌اعتراض در داخل است.",
-        "tag": "تحریم‌دورزن",
-        "urgency": 4,
-        "sentiment": -0.7,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTNuMmVrYWE1NW4xT181OXhRUHZHNDNRNXRfdVA2c3owWHpyTEFmWk5mQjRuYTJrTzJxNDQ2VDRPdU11TFVXUHBaMGtXcUNjQk56blRuZG9aS2t0ajlkRE1ZMTlCX3VpM3NySUFhUnRNN0lmMlBnNXdsZElkNG94bG50VkozTHhCMFh2NGNpY2hsOVdBbVFEQjhPSktNVWE4UEJzYlRlWW55ZEo5aFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTTNuMmVrYWE1NW4xT181OXhRUHZHNDNRNXRfdVA2c3owWHpyTEFmWk5mQjRuYTJrTzJxNDQ2VDRPdU11TFVXUHBaMGtXcUNjQk56blRuZG9aS2t0ajlkRE1ZMTlCX3VpM3NySUFhUnRNN0lmMlBnNXdsZElkNG94bG50VkozTHhCMFh2NGNpY2hsOVdBbVFEQjhPSktNVWE4UEJzYlRlWW55ZEo5aFE",
-        "image": null,
-        "timestamp": 1777860000.0
-    },
-    {
-        "title_fa": "بحث «محاصره هرمز» به‌عنوان «گذار کامل» پس از حملات جنبشی آمریکا و اسرائیل به ایران",
-        "title_en": "Hormuz blockade is the 'perfect transition' after US, Israel kinetic strikes against Iran: Kirk Lippold",
-        "summary": [
-            "طبق Fox News، کرک لیپولد اعلام می‌کند که «محاصره/بستن تنگه هرمز» می‌تواند «گذار کامل» بعد از حملات جنبشی آمریکا و اسرائیل علیه ایران باشد؛ یعنی یک گام تشدیدکننده در سطح عملیات منطقه‌ای.",
-            "این اظهارنظر در چارچوب تحلیل‌گرانه، پیوند مستقیم بین «حملات جنبشی» و احتمال انتقال به فشار دریایی در تنگه هرمز را مطرح می‌کند و عملاً سناریوی افزایش هزینه و ریسک برای تجارت و امنیت منطقه را در دستور کار قرار می‌دهد.",
-            "در متن ارائه‌شده، جزئیات مربوط به اقدامات اجرایی، زمان‌بندی یا میزان توان ایران و طرف مقابل ذکر نشده است؛ بنابراین ارزیابی باید محدود به ادعای «گذار» و منطق تشدید پس از عملیات جنبشی بماند."
-        ],
-        "impact": "اگر سناریوی فشار دریایی در تنگه هرمز عملیاتی شود، ریسک درگیری مستقیم و اختلال گسترده در مسیرهای کشتیرانی منطقه به‌طور جدی بالا می‌رود.",
-        "tag": "escalation",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGb0k5cng4NVpyUXdadjJEY29nLS1jeWhtRWlycHJrdDduYlpKbUVYTGU4dUhia0FEOTRuUFY5TEU0V01IOHNnUHluUEpJZV9qMWhoN0d3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGb0k5cng4NVpyUXdadjJEY29nLS1jeWhtRWlycHJrdDduYlpKbUVYTGU4dUhia0FEOTRuUFY5TEU0V01IOHNnUHluUEpJZV9qMWhoN0d3",
-        "image": null,
-        "timestamp": 1777856939.0
     }
 ]
