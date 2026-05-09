@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تاکید ایران بر تنگه هرمز همزمان با بالا گرفتن تنش و فشار آمریکا؛ امارات از رهگیری ۱۵ موشک و ۴ پهپاد خبر داد",
+        "title_en": "‘On level of atomic bomb’: Iran highlights Hormuz importance amid US talks",
+        "summary": [
+            "امارات اعلام کرده ۱۵ موشک و چهار پهپادِ پرتاب‌شده از ایران را رهگیری و منهدم کرده و از بروز خسارت عمده جلوگیری شده است؛ این رخداد به‌عنوان تشدید قابل‌توجه در تنش‌های خلیج فارس توصیف می‌شود.",
+            "کشورها و بازیگران منطقه‌ای به حالت آماده‌باش بالاتر رفته‌اند و نگرانی از دور تازه حملات، یا پاسخ متقابل، فضا را امنیتی‌تر کرده است؛ در نتیجه تنش میان ایران و امارات نیز رو به وخامت گذاشته است.",
+            "با تشدید تهدیدات در اطراف تنگه هرمز، توجه دوباره به نقش راهبردی این گذرگاه جلب شده؛ هرگونه اختلال در آن می‌تواند پیامدهای جدی برای مسیرهای انرژی و قیمت نفت داشته باشد و دیپلماسی را هم تحت فشار قرار دهد."
+        ],
+        "impact": "بالا رفتن ریسک در تنگه هرمز و اختلال‌پذیری تجارت انرژی، هم فشار اقتصادی و هم احتمال سرایت تنش به درگیری گسترده‌تر را افزایش می‌دهد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-trump-us-israel-ceasefire-blockade-khamenei-netanyahu-war-strait-of-hormuz-crude-oil-latest-news-liveblog-154215441",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-trump-us-israel-ceasefire-blockade-khamenei-netanyahu-war-strait-of-hormuz-crude-oil-latest-news-liveblog-154215441",
+        "image": null,
+        "timestamp": 1778344825.0
+    },
+    {
         "title_fa": "جزئیات «پلن نظامی آمریکا» برای تضعیف ایران در صورت شکست مذاکرات هسته‌ای",
         "title_en": "Inside the US military playbook to cripple Iran if nuclear talks collapse",
         "summary": [
@@ -376,6 +394,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGpjQzRpUjh0WTY3WXpSM210bFB6bzFHTVpzS3lVV19zUlNqNWxMSTJFZGJsbFdtdzRtUExfcEFJcVJpTS14TjJ3REQwWnN4YW9kd0RfV1I0bnBCNVRwMHktY1g5UGhfeTNaTi10d2wzTXdIbXliWFI1U3d5ZkRCYTJvd213R2prZ01CUGpJTWI0emViLVJaWnpsTmVlNEZwajR6ZFh2THlqb05IeHJzcngwWVpablM0X3FMSjd3bw",
         "image": null,
         "timestamp": 1778283359.0
+    },
+    {
+        "title_fa": "هدف‌گیری زنجیره تأمین صنعت موشک و پهپاد ایران با تحریم‌های جدید آمریکا",
+        "title_en": "U.S. Targets Iran's Missile and Drone Program With Sanctions",
+        "summary": [
+            "تحریم‌های جدید آمریکا مستقیماً برای سخت‌کردن دسترسی ایران به مواد مورد نیاز تولید پهپاد و موشک طراحی شده‌اند و تمرکز اصلی روی زنجیره تأمین صنعت موشکی-پهپادی است، نه فقط افراد یا یک برنامه منفرد.",
+            "دامنه این فشار صرفاً به چین محدود نیست و همچنین افراد و شرکت‌های مستقر در بلاروس و امارات متحده عربی را هم هدف گرفته است؛ یعنی کانال‌های تامین و واسطه‌گری هم تحت ریسک قرار می‌گیرند.",
+            "اثر استراتژیک مورد انتظار، کند شدن یا گران شدن فرآیند تأمین مواد و اجزا برای تولید است که می‌تواند برنامه‌ریزی صنعتی رژیم را در کوتاه‌مدت با وقفه‌های زنجیره‌ای مواجه کند."
+        ],
+        "impact": "این تحریم‌ها با هدف اختلال در تامین مواد و اجزای کلیدی، فشار مستقیم بر توان عملیاتی و سرعت تولید تسلیحات ایران وارد می‌کنند.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/08/business/trump-sanctions-iran-china.html",
+        "clean_url": "https://www.nytimes.com/2026/05/08/business/trump-sanctions-iran-china.html",
+        "image": "https://static01.nyt.com/images/2026/05/08/multimedia/08dc-sanctions-tqjc/08dc-sanctions-tqjc-facebookJumbo.jpg",
+        "timestamp": 1778282040.0
     },
     {
         "title_fa": "تحریم شرکت‌های متهم به کمک به بخش تسلیحاتی ایران توسط آمریکا؛ فشار مالی برای تضعیف زنجیره تامین",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.nytimes.com/2026/05/04/world/middleeast/israel-palestinians-west-bank-settler-violence-iran-war.html",
         "image": null,
         "timestamp": 1777885712.0
-    },
-    {
-        "title_fa": "دیالکتیک «درگیری وجودی» در روایت ژرومسالیم استراتجیک تریبون",
-        "title_en": "STRATEGIES OF EXISTENTIAL CONFLICT THE DIALECTICS OF ISRAEL-IRAN WAR",
-        "summary": [
-            "متن منتشرشده عملاً خودِ عنوان است و هیچ جزئیات رویدادی، گزارش میدانی یا داده مشخص درباره اقدام‌ها/تحولات اخیر ارائه نمی‌کند؛ بنابراین نمی‌توان درباره یک رخداد قابل راستی‌آزمایی نتیجه گرفت.",
-            "چارچوب «درگیری وجودی» بیشتر یک چارچوب تبلیغاتی-تحلیلی است تا گزارش؛ به‌جای تشریح سیاست‌های اجرایی یا اثرگذاری واقعی، ایده کلی تقابل اسرائیل-ایران را برجسته می‌کند.",
-            "با توجه به فقدان اطلاعات در متن، امکان ارزیابی اثرات تحریم/فشار خارجی، نقش روسیه/چین/کره‌شمالی، یا موج‌های نارضایتی داخلی و بحران اقتصادی وجود ندارد."
-        ],
-        "impact": "این محتوا بیشتر عنوان‌محور و بدون اطلاعات اجرایی است و اثر تحلیلی/عملی قابل اتکا بر اساس آن نمی‌توان تعیین کرد.",
-        "tag": "تحلیل",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Strategic Tribune",
-        "url": "https://www.msn.com/en-us/news/world/comparing-the-military-strategies-of-iran-israel-and-the-us/ar-AA20GBcM",
-        "clean_url": "https://www.msn.com/en-us/news/world/comparing-the-military-strategies-of-iran-israel-and-the-us/ar-AA20GBcM",
-        "image": null,
-        "timestamp": 1777885398.0
-    },
-    {
-        "title_fa": "ایران نسبت به تلاش آمریکا برای بازگشایی تنگه هرمز هشدار تازه داد",
-        "title_en": "Iran issues new warning as US launches effort to reopen Strait of Hormuz",
-        "summary": [
-            "طبق گزارش ABC، هم‌زمان با آغاز تلاش آمریکا برای «بازگشایی» تنگه هرمز، ایران یک هشدار جدید صادر کرده است؛ یعنی تهران برخورد این موضوع را امنیتی و تهدیدآمیز می‌بیند.",
-            "این پرونده مستقیماً روی یک گلوگاه دریایی حساس اثر می‌گذارد و می‌تواند زنجیره ریسک برای کشتیرانی، بیمه و هزینه‌های حمل‌ونقل را بالا ببرد؛ حتی بدون اینکه گزارش به اقدام نظامی مشخص اشاره کند.",
-            "از منظر فشار خارجی، خودِ «تلاش آمریکا» به‌عنوان محرک تشدید تنش عمل می‌کند و می‌تواند فضای تصمیم‌گیری ایران را از مسیرهای سیاسی به سمت اقدامات بازدارنده‌تر سوق دهد."
-        ],
-        "impact": "افزایش احتمال رویارویی لفظی-عملی در تنگه هرمز، ریسک بی‌ثباتی منطقه‌ای و اختلال بالقوه در تجارت دریایی را بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Australian Broadcasting Corporation",
-        "url": "https://www.msn.com/en-us/news/world/iran-threatens-to-attack-us-boats-entering-strait-of-hormuz-latest/ar-AA22jYfd",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-threatens-to-attack-us-boats-entering-strait-of-hormuz-latest/ar-AA22jYfd",
-        "image": null,
-        "timestamp": 1777885081.0
     }
 ]
