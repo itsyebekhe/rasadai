@@ -126,6 +126,24 @@
         "timestamp": 1778305440.0
     },
     {
+        "title_fa": "بازگشت ناوِ بریتانیا به خاورمیانه؛ ترامپ منتظر پاسخ تهران به طرح صلح",
+        "title_en": "Iran-US war latest: UK redeploys destroyer back to Middle East",
+        "summary": [
+            "بریتانیا یک ناوشکن را دوباره به منطقه خاورمیانه اعزام کرده تا حضور دریایی خود را هم‌زمان با تشدید تنش در مسیر ایران و آمریکا حفظ کند.",
+            "طبق گفته مقام‌های آمریکایی، تا پایان جمعه هیچ پاسخ رسمی ایران به پیشنهادها/طرح صلح ترامپ افشا نشده است؛ یعنی ابتکار دیپلماتیک در عمل وارد فاز نامشخص و معلق شده است.",
+            "هم‌زمان، چارچوب روایت در رسانه‌ها نشان می‌دهد آمریکا پاسخ تهران را «منتظر» نگه داشته و این وضعیت می‌تواند زمان‌بندی تنش را تا روشن شدن پاسخ یا عدم پاسخ، در سطح بالایی نگه دارد."
+        ],
+        "impact": "بازگشت ناوشکن بریتانیا و بلاتکلیفی پاسخ ایران، ریسک اشتباه محاسباتی و تشدید غیرمنتظره تنش دریایی را افزایش می‌دهد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-uk-redeploys-destroyer-back-to-middle-east/ar-AA22KG3b",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-uk-redeploys-destroyer-back-to-middle-east/ar-AA22KG3b",
+        "image": "http://www.bing.com/th?id=ONUT.GoVvJavOQkFye8yPbe0zgg&pid=News",
+        "timestamp": 1778304357.0
+    },
+    {
         "title_fa": "پنج نکته کلیدی درباره جنگ اقتصادی/فشار دولت ترامپ علیه ایران",
         "title_en": "Five takeaways as Trump wages war on Iran",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/suspected-oil-spill-seen-on-satellite-images-near-irans-kharg-island-export-hub/ar-AA22JESt",
         "image": null,
         "timestamp": 1778292520.0
+    },
+    {
+        "title_fa": "دریای خزر، مسیر پنهان تجارت-نظامی برای دور زدن فشار آمریکا",
+        "title_en": "Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran",
+        "summary": [
+            "این گزارش از خزر به‌عنوان یک مسیر راهبردی تازه یاد می‌کند که به ایران امکان می‌دهد در چارچوب محاصره و تهدیدهای آمریکا، جریان کالا را از مسیرهای کمتر در معرض کنترل نگه دارد.",
+            "طبق متن، روسیه محموله‌های نظامی و تجاری را از خزر ارسال می‌کند تا توان تهران برای «تحمل حمله آمریکا» تقویت شود؛ یعنی هم پشتیبانی لجستیکی و هم پوشش تجاری وجود دارد.",
+            "اهمیت موضوع در «طولانی‌مدت بودن و نادیده‌ماندن» آن است: اکنون شبکه حمل‌ونقل خزر به ابزار عملی برای کاهش اثر فشار خارجی و حفظ کارکرد اقتصادی-لجستیکی تبدیل شده، نه فقط یک گذر آبراهی معمولی."
+        ],
+        "impact": "گسترش نقش خزر به‌عنوان کریدور ارسال کالاهای نظامی و تجاری، مکانیزم‌های تاب‌آوری ایران در برابر فشار آمریکا را تقویت و هزینه‌های اثرگذاری تحریم/تهدید را برای واشنگتن افزایش می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
+        "clean_url": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
+        "image": "http://www.bing.com/th?id=ONUT.NM_AozK1djXDiGrnzEwS_Q&pid=News",
+        "timestamp": 1778292060.0
     },
     {
         "title_fa": "تهدید ترامپ برای ازسرگیری «پروژه آزادی پلاس» در صورت نهایی نشدن توافق با ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.theguardian.com/world/2026/may/04/could-irans-escalating-economic-crisis-weaken-negotiating-position-with-us",
         "image": null,
         "timestamp": 1777870860.0
-    },
-    {
-        "title_fa": "سقوط سریع اهرم مذاکره؛ ذخایر نفتی ایران به ۱۲ تا ۲۴ روز رسیده و صادرات ۷۰٪ افت کرده",
-        "title_en": "Hold the line! No partial deal with the IRGC",
-        "summary": [
-            "موقعیت مذاکره ایران به‌طور «شدید» تضعیف شده است؛ برآورد داده‌های Kpler نشان می‌دهد تنها ۱۲ تا ۲۴ روز ذخیره قابل‌استفاده نفت در خشکی باقی مانده.",
-            "صادرات نفت حدود ۷۰٪ کاهش یافته و علاوه بر آن، برنامه‌های کاهش تولید به شکل اجباری (forced production cuts) از پیش در حال اجرا است.",
-            "پیام کلیدی متن این است که «معامله جزئی» نمی‌تواند زمان یا انعطاف لازم برای ترمیم فشارهای فعلی را فراهم کند، چون محدودیت ذخیره و افت صادرات همزمان رخ داده‌اند."
-        ],
-        "impact": "این ترکیب یعنی افت شدید صادرات، کاهش اجباری تولید و تخلیه نزدیک ذخایر، توان رژیم برای چانه‌زنی و مدیریت بحران را فوری و ملموس پایین می‌آورد.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.75,
-        "source": "RealClearDefense",
-        "url": "https://www.msn.com/en-us/news/world/hold-the-line-no-partial-deal-with-the-irgc/ar-AA22nl1O",
-        "clean_url": "https://www.msn.com/en-us/news/world/hold-the-line-no-partial-deal-with-the-irgc/ar-AA22nl1O",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22n8zk.img?w=750&h=514&m=4&q=99",
-        "timestamp": 1777870800.0
-    },
-    {
-        "title_fa": "تکذیب آمریکا: ادعای حمله ایران به یک ناو آمریکایی در تنگه هرمز، همزمان با طرح جدید اسکورت/هدایت کشتی‌ها",
-        "title_en": "US denies Iran struck a military vessel during new effort to reopen Strait of Hormuz",
-        "summary": [
-            "آمریکا ادعاهای رسانه‌های ایرانی را رد کرد مبنی بر اینکه ایران یک ناو نیروی دریایی آمریکا را نزدیک یکی از بنادر ایران در جنوب‌شرق تنگه هرمز هدف قرار داده و کشتی را مجبور به بازگشت کرده است.",
-            "هم‌زمان با این جدال خبری، «سازمان اطلاعات دریایی مشترک» تحت رهبری آمریکا اعلام کرد ناوگان‌های تجاری می‌توانند از مسیر آب‌های عمان عبور کنند و یک «منطقه امنیتی تقویت‌شده» ایجاد شده است تا کشتی‌ها هدایت شوند.",
-            "طرح جدید آمریکا می‌تواند از سطح نیروی انسانی و توان رزمی بالاتر برود (نام‌بردن از ناوشکن‌های موشک‌هدایت‌شونده، بیش از 100 فروند هواپیما و 15 هزار نفر) اما نوع دقیق کمک/اسکورت هنوز مشخص نیست؛ در نتیجه، نامشخص بودن میزان تردد و ریسک برای شرکت‌ها و بیمه‌ها برجاست."
-        ],
-        "impact": "این وضعیت نشان می‌دهد واشنگتن می‌کوشد کنترل عملیاتی بر ریسک کشتیرانی را با «هدایت» مدیریت کند، اما نبود قطعیت درباره حفاظت واقعی، احتمال ادامه بلاتکلیفی و هزینه بالای بیمه را تشدید می‌کند.",
-        "tag": "هرمز",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Sun Sentinel",
-        "url": "https://www.sun-sentinel.com/2026/05/04/us-denies-iran-struck-a-military-vessel-during-new-effort-to-reopen-strait-of-hormuz/",
-        "clean_url": "https://www.sun-sentinel.com/2026/05/04/us-denies-iran-struck-a-military-vessel-during-new-effort-to-reopen-strait-of-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.bN8tsC8RN4vkmAzmQ10aFw&pid=News",
-        "timestamp": 1777869840.0
     }
 ]
