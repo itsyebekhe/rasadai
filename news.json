@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آیا در جنگِ ناتمام ایران هیچ برنده‌ای هست؟",
+        "title_en": "Are there any winners in unfinished Iran war?",
+        "summary": [
+            "گزارش از انفجارها و «اقدامات دفاع از خود» آمریکا و همچنین ازسرگیری درگیری‌ها در نزدیکی تنگه هرمز می‌گوید؛ یعنی تنش دریایی همچنان بدون مهار پایدار ادامه دارد.",
+            "بر اساس متن، اهرم‌گیری دریاییِ حل‌نشده و آسیب‌پذیری خلیج فارس می‌تواند ریسک گسترش درگیری را بالا ببرد؛ چون مسیرهای حیاتی تجاری در معرض تکرار حادثه و حمله قرار می‌مانند.",
+            "بحران در چارچوب «بن‌بست سیاسی» توصیف شده است؛ نتیجه عملی آن این است که سازوکار پایدار برای پایان دادن به دورِ جدید درگیری‌ها وجود ندارد."
+        ],
+        "impact": "عدم‌حل اهرم‌های دریایی و ادامه بن‌بست سیاسی، احتمال تشدید و کشیده شدن جنگ به سطح وسیع‌تر را افزایش می‌دهد.",
+        "tag": "تنش_منطقه‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military/are-there-any-winners-in-unfinished-iran-war/ar-AA22NeYJ",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/are-there-any-winners-in-unfinished-iran-war/ar-AA22NeYJ",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22N9AZ.img?w=768&h=502&m=6",
+        "timestamp": 1778364420.0
+    },
+    {
         "title_fa": "ادعای آمریکا درباره «اقدام دفاعی»: حملات به اهداف نظامی ایران همزمان با عبور ناوشکن‌ها از تنگه هرمز",
         "title_en": "US says it carried out self-defense strikes after Iranian attack",
         "summary": [
@@ -16,6 +34,42 @@
         "clean_url": "https://www.aol.com/news/iran-says-no-decisions-made-190157445.html",
         "image": null,
         "timestamp": 1778357092.0
+    },
+    {
+        "title_fa": "گزارش WSJ: اسرائیل در جنگ ایران علیه عراق پایگاه محرمانه داشت و برای جلوگیری از افشا به نیروهای عراقی شلیک کرد",
+        "title_en": "WSJ: Israel operated secret base in Iraq during Iran war, struck Iraqi troops to prevent exposure",
+        "summary": [
+            "طبق گزارش WSJ که i24NEWS منتشر کرده، اسرائیل در دوران جنگ ایران فعالیت میدانی را از طریق یک پایگاه محرمانه در خاک عراق انجام می‌داده است.",
+            "این گزارش ادعا می‌کند اسرائیل برای جلوگیری از «در معرض قرار گرفتن/افشا شدن»، به نیروهای عراقی حمله کرده تا مانع کشف یا ردیابی فعالیت‌های خود شود.",
+            "بخش کلیدی گزارش نه صرفاً عملیات اطلاعاتی، بلکه درگیری مستقیم با نیروهای عراقی برای حفاظت از پوشش عملیاتی اسرائیل است."
+        ],
+        "impact": "این نوع اقدام، ریسک بی‌ثباتی منطقه‌ای و افزایش اصطکاک میان بازیگران در عراق را بالا می‌برد چون هر درگیری می‌تواند به زنجیره انتقام و محدودیت‌های امنیتی برای دولت عراق منجر شود.",
+        "tag": "منطقه‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "i24NEWS",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVl9XbHRoYThMMlJoLXI0bkJzMFlYUE1zZ2RNUE5vY1RGVEg4bl9yQWpJMUZnc1Z6ck03cHBBNlN0QzJZN2ZudVc2ekw2U3lrTkE1dDNvT3FhX0Npcm15WVlhU01Oak0zVmplYTRXVWtCN0RqVlBlZ2Z6amdIa2FGTDU4VWljMWJPV0VqbUN6dTBodkF4NDZWRU5BUG5aVHQwSGhQWXQxeEwta2ZTSXZ5YUdUZ3VqWERHQzZROGZaM3F1cUhrMFJHelhkMThLSmx5M05BanNSaFU4MGs?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVl9XbHRoYThMMlJoLXI0bkJzMFlYUE1zZ2RNUE5vY1RGVEg4bl9yQWpJMUZnc1Z6ck03cHBBNlN0QzJZN2ZudVc2ekw2U3lrTkE1dDNvT3FhX0Npcm15WVlhU01Oak0zVmplYTRXVWtCN0RqVlBlZ2Z6amdIa2FGTDU4VWljMWJPV0VqbUN6dTBodkF4NDZWRU5BUG5aVHQwSGhQWXQxeEwta2ZTSXZ5YUdUZ3VqWERHQzZROGZaM3F1cUhrMFJHelhkMThLSmx5M05BanNSaFU4MGs",
+        "image": null,
+        "timestamp": 1778356452.0
+    },
+    {
+        "title_fa": "افزایش تلفات لبنان در موج حملات اسرائیل؛ پیام مستقیم برای تشدید چرخه جنگ",
+        "title_en": "Iran war live: Israeli strikes kill four in Lebanon, raising Lebanon death toll to 23",
+        "summary": [
+            "بر اساس گزارش Middle East Eye، حملات هوایی اسرائیل در لبنان چهار کشته برجای گذاشته و تلفات کل لبنان را به 23 نفر رسانده است.",
+            "این خبر نشان می‌دهد که روند درگیری در مرزها وارد فاز پرهزینه‌تری شده و هر موج حمله می‌تواند طی مدت کوتاه آمار تلفات را به‌طور محسوس بالا ببرد.",
+            "با توجه به اینکه موضوع به‌طور مستقیم به جنگ مرتبط توصیف شده، افزایش تلفات لبنان به‌عنوان شاخص فشار نظامی و احتمال تداوم یا گسترش عملیات قابل تحلیل است—بدون ادعاهای فراتر از داده‌های منتشرشده در گزارش."
+        ],
+        "impact": "افزایش سریع تلفات در لبنان، ریسک تشدید جنگ و فشار متقابل را بالا می‌برد و ظرفیت مدیریت بحران در منطقه را کاهش می‌دهد.",
+        "tag": "escalation",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Middle East Eye",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc184MUpxSlBUMWtyZjZMRlNkYlQwZVRSelV6T29CWVRZSXJ2X2lzMXVqRVFWR2xpVFJqeXVmMDE2MjhxSUdrakIzeG9YWjBOUlAtWEt4Mk4tYXNCSTNYU1dxbmx1bDFLRmh4M3dLLUZsMmxBeVBXUUNkY0JHMGlySUJMeVJOWUxEdXBmR0Z6bkZMbnIwaXFkb1I5WmkxM3E2bTd2RTRkY29DaEpjcWVQd1NrUG02WXQ3LXpZWnZR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc184MUpxSlBUMWtyZjZMRlNkYlQwZVRSelV6T29CWVRZSXJ2X2lzMXVqRVFWR2xpVFJqeXVmMDE2MjhxSUdrakIzeG9YWjBOUlAtWEt4Mk4tYXNCSTNYU1dxbmx1bDFLRmh4M3dLLUZsMmxBeVBXUUNkY0JHMGlySUJMeVJOWUxEdXBmR0Z6bkZMbnIwaXFkb1I5WmkxM3E2bTd2RTRkY29DaEpjcWVQd1NrUG02WXQ3LXpZWnZR",
+        "image": null,
+        "timestamp": 1778355797.0
     },
     {
         "title_fa": "تعویق پاسخ ایران به پیشنهاد آمریکا همزمان با شعله‌ور شدن درگیری‌ها",
@@ -70,6 +124,24 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-trump-us-israel-ceasefire-blockade-khamenei-netanyahu-war-strait-of-hormuz-crude-oil-latest-news-liveblog-154215441",
         "image": null,
         "timestamp": 1778344825.0
+    },
+    {
+        "title_fa": "ایران پیشنهاد صلح آمریکا را «بررسی می‌کند» و مهلت‌ها را بی‌اثر می‌داند",
+        "title_en": "Iran still reviewing US peace offer, says deadlines ‘mean nothing’",
+        "summary": [
+            "اسماعیل بقایی، سخنگوی وزارت امور خارجه، اعلام کرد که ایران هنوز پیشنهاد آمریکا برای پایان جنگ را بررسی می‌کند و نسبت به «مهلت‌ها و اولتیماتوم‌ها» واکنشی نخواهد داد.",
+            "این موضع نشان می‌دهد تهران تلاش دارد محور مذاکره را از زمان‌بندی و فشار فوری خارج کند و روند را به سمت کنترل در چارچوب خودش ببرد.",
+            "در عمل، برداشت سیاسی پیام می‌دهد که دولت ایران فعلاً تعهد فوری برای پاسخ یا توافق ندارد و استمرار «بازبینی» می‌تواند ابزار مدیریت بحران بدون تصمیم‌گیری سریع باشد."
+        ],
+        "impact": "این پیام احتمالاً مسیر دیپلماسی را طولانی‌تر می‌کند و فشار زمان‌بندی را از دستور کار طرف مقابل خارج می‌سازد، بدون اینکه نشانه‌ای از پیشرفت فوری در پایان جنگ ارائه کند.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-blockade-ceasefire-may-9",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-blockade-ceasefire-may-9",
+        "image": "http://www.bing.com/th?id=ONUT.MFwYkAXVc2J_RkYfYNA2rw&pid=News",
+        "timestamp": 1778339460.0
     },
     {
         "title_fa": "جزئیات «پلن نظامی آمریکا» برای تضعیف ایران در صورت شکست مذاکرات هسته‌ای",
@@ -142,6 +214,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOejQ4WmJwUWVWeXdJeTRURk9uZUp0OEltaVFHZ3pqeEdoNkxJMHp6TGlRcWFuNWJlNmVkODV5bzllbVMtdHRaV3hWVnFUemtDYW9vVVRiWnlqeDRYTmc2ZkptRm16cUhCam4tVTlhYnIxYVoxblQ1eXBGZ1lKTm5IWDZrVi11aFRUTmdMZlBxQ2NPUTF4UlF1U0FUV0g5T1BoNmxOdGoxXzhTSGYzVHVlQkw1ejIwT00",
         "image": null,
         "timestamp": 1778335200.0
+    },
+    {
+        "title_fa": "ایران شرط‌های تضمین برای حضور در جام جهانی را به فیفا و میزبان‌ها تحمیل کرد",
+        "title_en": "Iran demands guarantees for World Cup participation",
+        "summary": [
+            "فدراسیون فوتبال ایران اعلام کرد تیم ایران در جام جهانی تابستان امسال شرکت می‌کند، اما «تضمین‌های» مشخصی می‌خواهد؛ از جمله اینکه میزبان‌ها نگرانی‌های ایران را لحاظ کنند و اعزام هیئت تیم بدون عقب‌نشینی از ارزش‌ها و هویت فرهنگی انجام شود.",
+            "محور اصلی شروط، تضمین روادید برای همه بازیکنان، مربیان و همراهان است؛ حتی برای افرادی که خدمت نظام‌وظیفه خود را با سپاه پاسداران انجام داده‌اند. هم‌زمان، ایران روی موضوع رفتار با تیم ملی نیز فشار می‌آورد: احترام به پرچم و سرود ملی، و همچنین تقویت امنیت در فرودگاه‌ها، هتل‌ها و استادیوم‌ها.",
+            "این مطالبه‌ها بعد از رد ورود مهدی تاج به کانادا مطرح شده؛ تاج قبل‌تر گفته بود ۱۰ شرط به فیفا ارائه داده است. کانادا و آمریکا درباره تاج به خاطر پیوندهایش به سپاه سخت‌گیری کرده‌اند و همین موضوع نشان می‌دهد بخش‌هایی از درخواست‌ها به حوزه صلاحیت فیفا نمی‌رسد و به قوانین آمریکا و کنترل‌های مرزی مربوط می‌شود."
+        ],
+        "impact": "این پرونده حضور ورزشی را به میدان اختلاف حقوقی و امنیتی بین تهران و واشنگتن می‌کشاند و می‌تواند اجرای عملی برخی شروط را به دلیل محدودیت‌های ویزا و «vetting» دشوار کند.",
+        "tag": "جام_جهانی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/ckgpxg03v57o",
+        "clean_url": "https://www.bbc.com/news/articles/ckgpxg03v57o",
+        "image": "http://www.bing.com/th?id=ONUT.KxjS59XtJ8gbJw-5e00CPg&pid=News",
+        "timestamp": 1778327220.0
     },
     {
         "title_fa": "بن‌بست جنگ: کشتی قطری به‌سوی تنگه هرمز می‌رود و آمریکا و ایران به پایان جنگ نزدیک نیستند",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.foxnews.com/world/us-targets-china-refinery-sweeping-iran-oil-crackdown-sanctions-shadow-fleet-tankers",
         "image": null,
         "timestamp": 1777900514.0
-    },
-    {
-        "title_fa": "ایران تهدید به بستن تنگه هرمز پس از اظهارات ترامپ درباره هدایت کشتی‌ها",
-        "title_en": "Iran issues Strait of Hormuz threat after Trump says US to guide vessels",
-        "summary": [
-            "طبق گزارش The Hill، ایران در واکنش به اظهارات ترامپ مبنی بر اینکه آمریکا کشتی‌ها را در تنگه هرمز هدایت می‌کند، تهدید مرتبط با تنگه هرمز صادر کرد.",
-            "این اقدام، پیام سیاسی-امنیتی مستقیم در سطح عملیات کشتیرانی است و نشان می‌دهد تهران فشار روانی و ریسک‌سازی علیه مسیرهای عبور را به عنوان ابزار چانه‌زنی در دستور کار دارد.",
-            "در متن خبر به جزئیات فنی یا زمان‌بندی اقدام ایران اشاره نشده، اما نفسِ تهدید پس از طرح نقش ایالات متحده در هدایت کشتی‌ها، احتمال تشدید تنش دریایی در منطقه را بالا می‌برد."
-        ],
-        "impact": "تهدیدهای ایران در این مقطع می‌تواند هزینه ریسک کشتیرانی را جهش‌وار افزایش دهد و احتمال برخوردهای ناخواسته در تنگه هرمز را بیشتر کند.",
-        "tag": "تنش‌دریایی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aWnRKMGFDbG1zcUx3d3lSVHZlcEhWNUE4d3RuNEdXUFd6ZXVFNVFzMjZEUTVpZzhvbmpoZnpxdHRFSXFSa0M5eWpjemR2cHNaZU9zY2VBMUE4OHNhNUtmQ3B2b3E3R2hkZTg1TkpVLU5LWUg5VGZoM9IBfkFVX3lxTFBSTW1ZVXRNLU9vSTlmekVrZFhhZnhXRjhfMUN6cnFsdjltMURXckhWcDE0X2dIY0luUTY5cDRmTU5qdm95ODJZbUlnSThKREdzaDd3UnNMRWZBcVB5OGM2RXRYeU1pMDNvcmw4MmRqek1sNVBSMG85M0tEa2JzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aWnRKMGFDbG1zcUx3d3lSVHZlcEhWNUE4d3RuNEdXUFd6ZXVFNVFzMjZEUTVpZzhvbmpoZnpxdHRFSXFSa0M5eWpjemR2cHNaZU9zY2VBMUE4OHNhNUtmQ3B2b3E3R2hkZTg1TkpVLU5LWUg5VGZoM9IBfkFVX3lxTFBSTW1ZVXRNLU9vSTlmekVrZFhhZnhXRjhfMUN6cnFsdjltMURXckhWcDE0X2dIY0luUTY5cDRmTU5qdm95ODJZbUlnSThKREdzaDd3UnNMRWZBcVB5OGM2RXRYeU1pMDNvcmw4MmRqek1sNVBSMG85M0tEa2JzUQ",
-        "image": null,
-        "timestamp": 1777898880.0
-    },
-    {
-        "title_fa": "بن‌بست جنگ ایران؛ ریسک سیاسی واقعی دارد، اما «سود استراتژیک» هنوز قابل محاسبه است",
-        "title_en": "The Iran War has real political risks — but don't ignore its strategic payoff",
-        "summary": [
-            "دو ماه پس از شروع جنگ، وضعیت میدانی عملاً در حالت یخ‌زدگی قرار دارد: آتش‌بس شکننده است و پیشروی تعیین‌کننده گزارش نشده.",
-            "بسته‌بودن تنگه هرمز و اجرای «محاصره/بلوکاده» آمریکا همچنان اثر مستقیم بر تجارت و درآمدهای ارزی می‌گذارد و به‌طور طبیعی فشار اقتصادی و اختلال لجستیکی را تشدید می‌کند.",
-            "بحث مذاکرات در نوسان است: امکان تغییر مسیر گفت‌وگوها «قطعیاً منتفی» یا «احتمالاً ممکن» توصیف شده؛ یعنی عدم قطعیت سیاسی بالاست و می‌تواند به تصمیم‌گیری‌های غلط یا تشدید تنش منجر شود."
-        ],
-        "impact": "ترکیب بن‌بست نظامی، بسته‌بودن مسیر حیاتی در تنگه هرمز و بلاتکلیفی مذاکرات، هم می‌تواند رژیم/بازیگران منطقه‌ای را تحت فشار اقتصادی–سیاسی نگه دارد و هم خطر لغزش به بحران جدید را افزایش دهد.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "The Hill",
-        "url": "https://thehill.com/opinion/international/5860066-iran-war-middle-east/",
-        "clean_url": "https://thehill.com/opinion/international/5860066-iran-war-middle-east",
-        "image": "https://thehill.com/wp-content/uploads/sites/2/2026/05/iran_war_04212026_AP26111544004276-1.jpg?w=1280",
-        "timestamp": 1777897800.0
-    },
-    {
-        "title_fa": "عملیات جنگی نیروی هوایی فرسوده ایران هم‌زمان با جنگ آمریکا و اسرائیل",
-        "title_en": "Iran’s Outdated Air Force Went On The Offensive During U.S.-Israel War",
-        "summary": [
-            "Forbes گزارش می‌دهد که نیروی هوایی ایران، با اتکا به توان “قدیمی/فرسوده”، در جریان جنگ میان آمریکا و اسرائیل وارد فاز تهاجمی شده است؛ نکته کلیدی این است که ادعای اصلی بر ماهیت فرسودگی تجهیزات و پیامد عملیاتی آن تکیه دارد.",
-            "این اقدام نشان می‌دهد تهران به جای تمرکز صرف بر بازدارندگی، تلاش کرده است هم‌زمان با موج درگیری واشنگتن-تل‌آویو، فرصت ایجاد فشار یا ایجاد اختلال را از طریق پروازهای تهاجمی دنبال کند.",
-            "با توجه به اینکه منبع فقط از «رفتن به آفنس» و قدیمی بودن نیروی هوایی حرف می‌زند، ارزیابی دقیق میزان موفقیت، اهداف مشخص، یا خسارت‌ها قابل اثبات از متن حاضر نیست و باید از نتیجه‌گیری بزرگ‌تر خودداری کرد."
-        ],
-        "impact": "این رخداد می‌تواند دامنه درگیری را گسترده‌تر کند، اما با توجه به توصیف «فرسودگی»، احتمال ناکارآمدی یا ریسک بالای شکست عملیاتی نیز وجود دارد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.2,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/pauliddon/2026/05/04/irans-outdated-air-force-went-on-the-offensive-during-us-israel-war/",
-        "clean_url": "https://www.forbes.com/sites/pauliddon/2026/05/04/irans-outdated-air-force-went-on-the-offensive-during-us-israel-war",
-        "image": null,
-        "timestamp": 1777896917.0
-    },
-    {
-        "title_fa": "چطور جنگ آمریکا-اسرائیل دست سپاه بر ایران را تثبیت می‌کند",
-        "title_en": "How the US-Israel war has cemented the IRGC's grip on Iran",
-        "summary": [
-            "ادعای اصلی این است که ادامه و تشدید جنگ آمریکا-اسرائیل، به سپاه پاسداران اهرم سیاسی و امنیتی بیشتری می‌دهد و سازوکارهای کنترل در داخل را تقویت می‌کند.",
-            "این چارچوب نشان می‌دهد «امنیت‌سازی» مبتنی بر تهدید خارجی می‌تواند دسترسی نیروهای سپاهی به منابع، تصمیم‌گیری و مهار مخالفان/نارضایتی‌های داخلی را گسترده‌تر کند.",
-            "در سطح ژئوپلیتیک، جنگ بیرونی به‌عنوان پوشش کارکردی برای تحکیم ساختار قدرت داخلی استفاده می‌شود؛ یعنی بحران خارجی به ابزار نظم‌دهی داخلی بدل می‌گردد."
-        ],
-        "impact": "اگر الگوی «تهدید خارجی» به ابزار حکمرانی دائمی تبدیل شود، تمرکز قدرت در سپاه تشدید شده و فضا برای اصلاحات واقعی و کاهش سرکوب کوچک‌تر می‌شود.",
-        "tag": "تحکیم_قدرت",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/analysis/how-us-israel-war-has-cemented-irgcs-grip-iran",
-        "clean_url": "https://www.newarab.com/analysis/how-us-israel-war-has-cemented-irgcs-grip-iran",
-        "image": null,
-        "timestamp": 1777895996.0
-    },
-    {
-        "title_fa": "ایران دستور همکاری برای کشتی‌های «هدایت‌شده» توسط آمریکا در تنگه هرمز صادر کرد",
-        "title_en": "Iran says ships being ‘guided’ by US through Hormuz must work with its armed forces",
-        "summary": [
-            "ایران اعلام کرده کشتی‌هایی که آمریکا ادعا می‌کند از طریق تنگه هرمز «هدایت» می‌شوند، باید با نیروهای مسلح ایران همکاری کنند.",
-            "این موضع مستقیماً تنش عملیاتی را هدف می‌گیرد: ایران تلاش می‌کند هرگونه نقش آمریکا در هدایت یا نظارت دریایی را به چارچوب کنترل‌شده خود تبدیل کند.",
-            "از منظر راهبردی، این پیام هم تهدید ضمنی برای محدود کردن اثرگذاری آمریکا در تنگه هرمز است و هم اهرم فشار برای افزایش نفوذ ایران در مدیریت ریسک کشتیرانی."
-        ],
-        "impact": "این ادعا می‌تواند به افزایش ریسک در برخوردهای نزدیک دریایی و تشدید رقابت عملیاتی آمریکا-ایران در هرمز منجر شود.",
-        "tag": "هورمز",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDZMMUpXS3Y5cjYxN1BkYmwwbm5yVGpwbEJ6WXQzX291ZmdyLW1scjk5ZGJmOGdOSWhwNmtQTTNtQ2o5QXdkRTBjTExxYVU1RDdYeUU3Z0xsSUZUMWZsam1qd3ZtemNTY0p3Q2g4T0U3N0I4X0pRQzJrd25tOGNHMU0xaDNzRXdYNnFJVkdIdFdKQWg2ZHl1SS0yZTBlQ05ncTl6c0xNc2JnY1J5X3dGMlJFS3ZuWVVRYVFv?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeDZMMUpXS3Y5cjYxN1BkYmwwbm5yVGpwbEJ6WXQzX291ZmdyLW1scjk5ZGJmOGdOSWhwNmtQTTNtQ2o5QXdkRTBjTExxYVU1RDdYeUU3Z0xsSUZUMWZsam1qd3ZtemNTY0p3Q2g4T0U3N0I4X0pRQzJrd25tOGNHMU0xaDNzRXdYNnFJVkdIdFdKQWg2ZHl1SS0yZTBlQ05ncTl6c0xNc2JnY1J5X3dGMlJFS3ZuWVVRYVFv",
-        "image": null,
-        "timestamp": 1777894560.0
     }
 ]
