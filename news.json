@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "جنگ آمریکا-اسرائیل علیه ایران؛ خطر جهش بحران و فروپاشی کنترل",
+        "title_en": "US-Israel war on Iran",
+        "summary": [
+            "این تیتر، مبنای یک تقابل مستقیم با ایران را برجسته می‌کند و عملاً یعنی سناریوی تشدید سریع وارد فاز نظامی شده است؛ در چنین شرایطی هر خطای محاسباتی می‌تواند زنجیره حمله/پاسخ را طولانی کند.",
+            "با توجه به اینکه این فقط به «جنگ» اشاره دارد (نه جزئیات مشخص)، نمی‌توان درباره نقاط هدف یا نوع عملیات چیزی اضافه کرد؛ اما ماهیت تقابل، ریسک ضربه به دارایی‌های راهبردی و اختلال در اقتصاد را بالا می‌برد.",
+            "در فقدان اطلاعات دقیق از متن، تمرکز باید روی پیامد سیاسی-اقتصادی باشد: فشار خارجی این‌چنینی معمولاً منابع مالی/اجرایی را تحت کشش قرار می‌دهد و نارضایتی اجتماعی را تشدید می‌کند، چون مردم با هزینه مستقیم ناامنی و اختلال معیشت مواجه می‌شوند."
+        ],
+        "impact": "تبدیل اختلافات به جنگ مستقیم، بیشترین احتمال را برای از دست رفتن کنترل عملیاتی و افزایش شوک اقتصادی و سیاسی در ایران ایجاد می‌کند.",
+        "tag": "escalation",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.financialexpress.com/world-news/us-israel-iran-war-live-updates-us-expects-iran-response-on-latest-peace-plan-despite-attacks-rising-tensions-in-hormuz/4235920/",
+        "clean_url": "https://www.financialexpress.com/world-news/us-israel-iran-war-live-updates-us-expects-iran-response-on-latest-peace-plan-despite-attacks-rising-tensions-in-hormuz/4235920",
+        "image": null,
+        "timestamp": 1778312054.0
+    },
+    {
+        "title_fa": "رویترز: آمریکا و ایران از پایان جنگ دورتر؛ همزمان با شعله‌ور شدن درگیری‌ها در خلیج",
+        "title_en": "US, Iran no closer to ending war as Gulf clashes flare",
+        "summary": [
+            "طبق گزارش رویترز، وضعیت در مسیر پایان جنگ پیشرفتی ندارد و تنش میان آمریکا و ایران همچنان ادامه‌دار است.",
+            "هم‌زمان با بالا گرفتن درگیری‌ها در منطقه خلیج، فضای مذاکرات و امکان کاهش تنش محدود شده و ریسک محاسبه‌نشدنِ اقدامات افزایش یافته است.",
+            "این گزارش بر «افزایش شعله‌ها در خلیج» به‌عنوان متغیر تشدیدکننده تمرکز دارد و نشان می‌دهد که حتی با فشار دیپلماتیک، ماشین تنش منطقه‌ای از کنترل خارج می‌شود."
+        ],
+        "impact": "ادامه ناتمام‌ماندن مسیر کاهش تنش، احتمال تداوم و گسترش درگیری‌های منطقه‌ای را بالا می‌برد و هرگونه پیشرفت جدی برای پایان جنگ را عقب می‌اندازد.",
+        "tag": "منطقه",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/us-iran-no-closer-to-ending-war-as-gulf-clashes-flare/ar-AA22KyAL",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-no-closer-to-ending-war-as-gulf-clashes-flare/ar-AA22KyAL",
+        "image": null,
+        "timestamp": 1778309880.0
+    },
+    {
         "title_fa": "تحریم شرکت‌های چینی ارائه‌دهنده تصاویر ماهواره‌ای از سوی آمریکا به بهانه جنگ ایران",
         "title_en": "US Sanctions Chinese Satellite Imagery Companies Over Iran War",
         "summary": [
@@ -88,6 +124,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-imposes-sanctions-on-companies-it-accuses-of-aiding-iran-s-weapons-sector/ar-AA22J1bq",
         "image": null,
         "timestamp": 1778281219.0
+    },
+    {
+        "title_fa": "تحلیل: کشمکش‌های ترامپ با متحدان احتمالاً پس از جنگ با ایران هم ادامه می‌یابد",
+        "title_en": "Analysis-Trump's feuds, tensions with allies likely to outlast Iran war",
+        "summary": [
+            "خبرگزاری به تصمیم ترامپ برای خارج‌کردن بخشی از نیروهای آمریکایی از آلمان اشاره می‌کند و آن را نشانه‌ای از افزایش فشار واشنگتن بر متحدان اروپایی می‌داند.",
+            "هم‌زمان، تهدیدهای ترامپ برای کاهش نیرو در دیگر بخش‌های اروپا و کم‌اهمیت جلوه‌دادن تعهدات امنیتی، تنش با متحدان را در بلندمدت قابل دوام توصیف می‌کند.",
+            "جمع‌بندی تحلیل رویترز این است که رقابت و اصطکاک میان آمریکا و متحدانش—فارغ از پرونده ایران—می‌تواند به دوره بعد از جنگ هم سرایت کند و الگوی امنیتی غرب را بی‌ثبات‌تر کند."
+        ],
+        "impact": "با تداوم اختلافات آمریکا با متحدان اروپایی، حتی اگر جنگ با ایران به مرحله دیگری برود، ظرفیت هماهنگی سیاسی-امنیتی غرب برای فشار یکپارچه کاهش می‌یابد.",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/analysis-trump-s-feuds-tensions-with-allies-likely-to-outlast-iran-war/ar-AA22Ko5r",
+        "clean_url": "https://www.msn.com/en-us/news/world/analysis-trump-s-feuds-tensions-with-allies-likely-to-outlast-iran-war/ar-AA22Ko5r",
+        "image": null,
+        "timestamp": 1778277992.0
     },
     {
         "title_fa": "به‌روزرسانی زنده: آخرین اخبار اسرائیل، ایران و خاورمیانه (قدرت‌سنجی با اطلاعات ناقص)",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xaHI2TXJQei03d1VvTWh1cEtvVTZoUWNOR1RKbjdUS1hjc3RhZC0tSmhMSHhrRmFJT0xyUnBQeGYyRWZkWEJNd3JSZTJHU3hoMVE4N0E2YU1Mdw",
         "image": null,
         "timestamp": 1777865901.0
-    },
-    {
-        "title_fa": "ایران تهدید کرد ناوهای آمریکایی وارد تنگه هرمز شوند را هدف قرار می‌دهد",
-        "title_en": "Iran threatens to attack US warships entering Strait of Hormuz",
-        "summary": [
-            "ایران اعلام کرده هنگام ورود ناوهای جنگی آمریکا به تنگه هرمز، به آن‌ها حمله خواهد کرد؛ هم‌زمان خبر از تشدید تنش در یک درگیری نظامی ناپایدار و حساس به اختلال در تجارت نفت و گاز دارد.",
-            "این تهدید در پس‌زمینه اقدام‌های اخیر آمریکا و اسرائیل علیه ایران مطرح شده، از جمله حملات و «ترور رهبر عالی»؛ آمریکا نیز با عملیات دریایی «Project Freedom» برای تداوم عبور کشتی‌های تجاری از تنگه هرمز وارد میدان شده است.",
-            "در تفسیر بازارهای پیش‌بینی، این رخداد به افزایش احتمال «YES» در سناریوی «تهاجم آمریکا به ایران» تعبیر شده، در حالی که احتمال «لغو محاصره هرمز تا پایان ماه» در بازار مربوط کاهش یافته و اثر محدودتری روی تنگه باب‌المندب دیده می‌شود."
-        ],
-        "impact": "این تهدید و پاسخ نظامی متقابل، ریسک ورود به فاز درگیری مستقیم‌تر در یک گلوگاه حیاتی انرژی را بالا می‌برد و می‌تواند به تشدید محاسبات جنگی منجر شود.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-threatens-to-attack-us-warships-entering-strait-of-hormuz/",
-        "clean_url": "https://cryptobriefing.com/iran-threatens-to-attack-us-warships-entering-strait-of-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.Ak7IQu890W5ArKJx2-0Kug&pid=News",
-        "timestamp": 1777865100.0
-    },
-    {
-        "title_fa": "ترامپ: آمریکا از دوشنبه کشتی‌های گرفتار در تنگه هرمز را «هدایت» می‌کند",
-        "title_en": "Trump says the US will ‘guide’ stranded ships from the Strait of Hormuz, starting on Monday",
-        "summary": [
-            "ترامپ اعلام کرده آمریکا از دوشنبه عملیات «هدایت» کشتی‌های گرفتار در تنگه هرمز را آغاز خواهد کرد و این اقدام را به‌عنوان اقدام مستقیم ایالات متحده مطرح کرده است.",
-            "این اعلام نشان می‌دهد مسئله تنگه هرمز به‌جای یک بحران صرفاً منطقه‌ای، به سطح مدیریت عملیاتی از سوی آمریکا ارتقا یافته است.",
-            "از متن گزارش AP، جزئیات فنی (نوع ناوگان، محدوده جغرافیایی، نحوه هماهنگی با طرف‌های دیگر یا علت «گرفتاری») ارائه نشده و فعلاً بیشتر یک سیگنال سیاسی-عملیاتی است تا یک گزارش اجرایی دقیق."
-        ],
-        "impact": "این تصمیم می‌تواند ریسک سوءتفاهم و برخورد در کریدور تنگه هرمز را بالا ببرد، چون آمریکا نقش مستقیم‌تری در مدیریت وضعیت کشتیرانی تعریف می‌کند.",
-        "tag": "هشدار",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3ZoeWEzNVd5SmdhMXlxQmFJc2hhTmxlN3NTOG1JaEVTOXAzeFh3MmtBemhvMGRLbXFUVFczX0R3TDkyNmhOWm1KSzZ2RlRNMVN0dmJ6VzFtUGtTVTYtR3J1d0VlSEItd3Y3QTJ5OG5EUVpoSTBhSUlLS1pTYWxhcHZOZDgtWnpVcTl2TkxTcU9xMGhscGlXODNaSHZLSm9tNEZZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3ZoeWEzNVd5SmdhMXlxQmFJc2hhTmxlN3NTOG1JaEVTOXAzeFh3MmtBemhvMGRLbXFUVFczX0R3TDkyNmhOWm1KSzZ2RlRNMVN0dmJ6VzFtUGtTVTYtR3J1d0VlSEItd3Y3QTJ5OG5EUVpoSTBhSUlLS1pTYWxhcHZOZDgtWnpVcTl2TkxTcU9xMGhscGlXODNaSHZLSm9tNEZZ",
-        "image": null,
-        "timestamp": 1777864980.0
-    },
-    {
-        "title_fa": "افزایش تنش در تنگه هرمز؛ سپاه کنترل دریایی را تشدید می‌کند و آمریکا از «پروژه آزادی» خبر می‌دهد",
-        "title_en": "US-Iran War LIVE Updates: Strait of Hormuz tensions escalate as Iran tightens maritime control, issues fresh warnings to shipping firms",
-        "summary": [
-            "ایران از طریق نیروی سپاه (IRGC) به همه شرکت‌های کشتیرانی و بیمه درباره تبعیت از دستورالعمل‌های ناوبری خود هشدار داده و تهدید کرده در صورت عدم رعایت، توقیف/رهگیری «با نیروی قهرآمیز» علیه کشتی‌ها انجام می‌دهد؛ تهران همچنین مسیرهای مورد تایید سپاه را شرط حرکت در تنگه هرمز معرفی کرده است.",
-            "آمریکا «پروژه آزادی» را به‌عنوان یک عملیات پشتیبانی‌شده نظامی برای بازگرداندن/امن‌سازی تجارت دریایی در تنگه هرمز آغاز کرده و هم‌زمان فشار اقتصادی را تشدید می‌کند؛ اسکانر اصلی این روایت، ادعای «کارزار مالی هماهنگ» برای هدف قرار دادن جریان نفت و درآمدهای ایران است.",
-            "ایران در پاسخ گفته هرگونه دخالت ایالات متحده در تنگه هرمز نقض آتش‌بس تلقی می‌شود، در حالی که هم‌زمان دیپلماسی بر محور «پیشنهاد ۱۴ ماده‌ای صلح» در تهران در حال بررسی است؛ در کنار این، آلمان بر بازگشایی مسیر هرمز و محدودسازی/عقب‌نشینی توان هسته‌ای ایران فشار می‌آورد و اسرائیل هم دستورهای تخلیه در جنوب لبنان صادر کرده است."
-        ],
-        "impact": "این چرخه تهدیدهای عملیاتی در تنگه هرمز، احتمال درگیری مستقیم و اختلال جدی در حمل‌ونقل تجاری و بیمه را بالا می‌برد.",
-        "tag": "هورمز",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-israel-lebanon-hezbollah-donald-trump-ceasefire-strait-of-hormuz-talks-oil-liveblog-19897739.htm",
-        "clean_url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-israel-lebanon-hezbollah-donald-trump-ceasefire-strait-of-hormuz-talks-oil-liveblog-19897739.htm",
-        "image": "http://www.bing.com/th?id=ONUT.tmONRbTxXUQgcBJNP4mPlA&pid=News",
-        "timestamp": 1777864920.0
     }
 ]
