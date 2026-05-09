@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ادعای تهران درباره «حملات بی‌پروا» پس از شلیک آمریکا به نفتکش‌ها",
+        "title_en": "Latest on the Iran War: U.S. Fires on Tankers as Tehran Accuses Washington of ‘Reckless’ Attacks",
+        "summary": [
+            "طبق گزارش نیویورک‌تایمز، آمریکا به نفتکش‌ها شلیک کرده و تهران این اقدام را «بی‌پروا/reckless» توصیف کرده است.",
+            "این رویداد نشان می‌دهد تنش مستقیم دریایی میان واشنگتن و تهران وارد فاز پرریسک‌تری شده که می‌تواند به تشدید سریع‌تر در آب‌های منطقه منجر شود.",
+            "اختلاف روایت تهران و آمریکا نه‌تنها جنجال سیاسی است، بلکه بر محاسبات عملیاتی هر دو طرف برای تداوم یا توقف اقدامات دریایی اثر می‌گذارد."
+        ],
+        "impact": "اقدام مستقیم علیه نفتکش‌ها احتمال چرخه تشدید و پاسخ متقابل را بالا می‌برد و ریسک اختلال در مسیرهای اقتصادی مرتبط با ایران را بیشتر می‌کند.",
+        "tag": "تنش_دریایی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDN1U0Q2SXBtOGNaeHpVc1BWQy1SMkdoNjJuSHRsdWM1bFJ3S3dYVk8xRkpqemtmZ3RwQUkzYlQ1RE9IUzlnSk5WTk55ekU3dlZrT1hJNlVSR09qR0JYZjdELWVDMk1ocks4SGZaWDJsZXRPU1JDM3I0U0NqcmV2dzhNVGVnSlJD?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDN1U0Q2SXBtOGNaeHpVc1BWQy1SMkdoNjJuSHRsdWM1bFJ3S3dYVk8xRkpqemtmZ3RwQUkzYlQ1RE9IUzlnSk5WTk55ekU3dlZrT1hJNlVSR09qR0JYZjdELWVDMk1ocks4SGZaWDJsZXRPU1JDM3I0U0NqcmV2dzhNVGVnSlJD",
+        "image": null,
+        "timestamp": 1778323260.0
+    },
+    {
         "title_fa": "تحریم‌های جدید آمریکا علیه شرکت‌ها و افراد در خاورمیانه و چین برای کمک به ایران",
         "title_en": "U.S. sanctions companies and individuals in the Middle East and China for helping Iran",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://www.financialexpress.com/world-news/us-israel-iran-war-live-updates-us-expects-iran-response-on-latest-peace-plan-despite-attacks-rising-tensions-in-hormuz/4235920",
         "image": null,
         "timestamp": 1778312054.0
+    },
+    {
+        "title_fa": "پیشنهاد آمریکا برای پایان جنگ؛ شرط‌های رفع محاصره و بازگشایی تنگه هرمز، تردید درباره «آتش‌بس پایدار»",
+        "title_en": "Iran War Live Updates: Lasting Truce Is Elusive After Week of Traded Attacks",
+        "summary": [
+            "به گفته مقام‌های ایرانی، آمریکا پیشنهادی برای پایان جنگ مطرح کرده است: توقف حملات/درگیری‌ها، پایان «محاصره» بنادر ایران و بازگشایی تنگه هرمز؛ در متن گزارش، محوریت این شروط روشن است.",
+            "ایران «عملاً» از زمان آغاز جنگ تنگه هرمز را بسته نگه داشته که باعث نوسان و فشار مستقیم بر بازارهای جهانی انرژی شده؛ این یعنی تصمیم میدانی ایران، هزینه اقتصادی بین‌المللی تولید کرده است.",
+            "عنوان گزارش بر «بی‌ثباتی آتش‌بس» بعد از یک هفته تبادل حملات تأکید دارد؛ بنابراین حتی اگر پیشنهاد روی میز باشد، توافق نهایی و پایدار هنوز قابل‌اتکا به نظر نمی‌رسد."
+        ],
+        "impact": "اگر هر دو طرف نتوانند همزمان در مورد رفع فشار بندری و بازگشایی تنگه هرمز به توافق برسند، چرخه حمله و پاسخ، با هزینه بالا برای تجارت انرژی ادامه پیدا می‌کند.",
+        "tag": "آتش‌بس",
+        "urgency": 9,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/05/09/world/iran-strikes-trump-ceasefire-hormuz/heres-the-latest",
+        "clean_url": "https://www.nytimes.com/live/2026/05/09/world/iran-strikes-trump-ceasefire-hormuz/heres-the-latest",
+        "image": null,
+        "timestamp": 1778310660.0
     },
     {
         "title_fa": "رویترز: آمریکا و ایران از پایان جنگ دورتر؛ همزمان با شعله‌ور شدن درگیری‌ها در خلیج",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.sun-sentinel.com/2026/05/04/us-denies-iran-struck-a-military-vessel-during-new-effort-to-reopen-strait-of-hormuz",
         "image": "http://www.bing.com/th?id=ONUT.bN8tsC8RN4vkmAzmQ10aFw&pid=News",
         "timestamp": 1777869840.0
-    },
-    {
-        "title_fa": "سازمان دفاعی آمریکا ادعای برخورد ایران با یک شناور نظامی را رد کرد",
-        "title_en": "U.S. rejects claims that Iran struck a military vessel",
-        "summary": [
-            "نیروهای نظامی آمریکا اعلام کرده‌اند ادعاهای مطرح‌شده درباره اینکه ایران یک شناور نیروی دریایی آمریکا را هدف قرار داده، نادرست است.",
-            "این رد ادعا در حالی صادر می‌شود که آمریکا همچنان حضور عملیاتی خود را در منطقه نزدیک خلیج فارس حفظ کرده و برای هدایت کشتی‌ها در این مسیر اعلام آمادگی کرده است.",
-            "این رخداد یک سیگنال مستقیم از تشدید تنش دریایی و تلاش برای کنترل ریسک برخورد و سوءبرداشت در مسیرهای کشتیرانی است، بدون اینکه در متن، شواهد جدیدی از سوی ایران یا آمریکا ارائه شود."
-        ],
-        "impact": "رد رسمی آمریکا احتمالاً فضای اتهام‌زنی را کنترل می‌کند، اما هم‌زمان با حفظ حضور فعال نظامی، احتمال رخدادهای مشابه و تشدید تنش در دریا را بالا نگه می‌دارد.",
-        "tag": "تنش_دریایی",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "PennLive",
-        "url": "https://www.pennlive.com/politics/2026/05/us-rejects-claims-that-iran-struck-a-military-vessel.html",
-        "clean_url": "https://www.pennlive.com/politics/2026/05/us-rejects-claims-that-iran-struck-a-military-vessel.html",
-        "image": "http://www.bing.com/th?id=ONUT.640qWjem74FA5L503fxN9g&pid=News",
-        "timestamp": 1777869480.0
-    },
-    {
-        "title_fa": "حمله ادعایی نیروی دریایی ایران به یک کشتی آمریکایی در تنگه هرمز و رد ادعای CENTCOM",
-        "title_en": "Iran's navy attacks US ship with missiles for passing Strait of Hormuz, CENTCOM denies strike",
-        "summary": [
-            "به‌گزارش «The New Arab»، نیروی دریایی ایران با موشک به یک کشتی آمریکایی حمله کرده و آن را به عبور از تنگه هرمز مرتبط دانسته است، اما CENTCOM این «حمله» را رد کرده است؛ نتیجه عملی این دو روایت، تشدید بی‌اعتمادی و ریسک سوءتفاهم در یک نقطه حساس است.",
-            "همزمان، دونالد ترامپ گفته نیروی دریایی آمریکا کشتی‌ها را از تنگه هرمز «راهنمایی» می‌کند؛ این یعنی واشنگتن در حال ورود فعال‌تر به مسیرهای دریایی است و هر حادثه‌ای می‌تواند به بهانه پاسخ مستقیم تبدیل شود.",
-            "در سطح فشار خارجی و سازوکارهای بازدارندگی، چنین ادعا/تکذیبی بین ایران و آمریکا ساختار ثبات را شکننده‌تر می‌کند: یا باید هر طرف سریعاً عقب‌نشینی کند (که بعید است)، یا چرخه تحریک-پاسخ وارد فاز خطرناک‌تری می‌شود."
-        ],
-        "impact": "این رخداد، صرف‌نظر از اینکه حمله واقعاً رخ داده باشد یا نه، ریسک درگیری مستقیم و تشدید تنش دریایی بین ایران و آمریکا را در تنگه هرمز بالا می‌برد.",
-        "tag": "تنش_دریایی",
-        "urgency": 8,
-        "sentiment": -0.55,
-        "source": "The New Arab",
-        "url": "https://www.newarab.com/news/irans-navy-attacks-us-ship-missiles-centcom-denies-strike",
-        "clean_url": "https://www.newarab.com/news/irans-navy-attacks-us-ship-missiles-centcom-denies-strike",
-        "image": "http://www.bing.com/th?id=ONUT.pyr7U4IJuIHEFGIQXW3avw&pid=News",
-        "timestamp": 1777868820.0
     }
 ]
