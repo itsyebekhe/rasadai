@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "پیشنهاد ایران برای پایان جنگ و لغو تحریم‌ها؛ آزمون واقعی برای سیاست فشار",
+        "title_en": "Iran proposal demands end of war and lifting of sanctions, news agency reports",
+        "summary": [
+            "بر اساس گزارش خبرگزاری‌ها، ایران «پایان جنگ» را به‌عنوان شرط مطرح کرده و هم‌زمان «لغو تحریم‌ها» را مطالبه کرده است؛ یعنی تهران از کانال مذاکره، اهرم فشار اقتصادی را هدف گرفته است.",
+            "این چارچوب در بخش تحریم/فشار خارجی می‌تواند به تضعیف ساختاری توان رژیم برای ادامه هزینه‌های بیرونی منجر شود، اما فقط در صورتی اثر واقعی دارد که طرف مقابل لغو را به‌صورت قابل راستی‌آزمایی و مرحله‌ای اجرا کند.",
+            "از آنجا که متن صرفاً به پیشنهاد اشاره دارد و نه نتیجه یا جزئیات اجرایی، نشانه‌ای از فروپاشی داخلی یا موج اعتراضات در داده‌های ارائه‌شده نیست؛ بنابراین فعلاً باید آن را بیشتر یک حرکت سیاسی برای مدیریت ریسک اقتصادی دانست تا تغییر واقعی در رفتار."
+        ],
+        "impact": "این پیشنهاد اگر به لغو عملی و مرحله‌ای تحریم‌ها گره بخورد، می‌تواند فشار اقتصادی بر رژیم را کاهش دهد؛ در غیر این صورت صرفاً یک مانور دیپلماتیک برای کنترل هزینه‌هاست.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-proposal-demands-end-war-lifting-sanctions-news-agency-reports-2026-05-10/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-proposal-demands-end-war-lifting-sanctions-news-agency-reports-2026-05-10",
+        "image": null,
+        "timestamp": 1778443904.0
+    },
+    {
         "title_fa": "نتانیاهو: جنگ با ایران «تمام نشده»؛ معامله صلح همچنان دور از دسترس",
         "title_en": "Netanyahu says Iran war is 'not over' as peace deal remains elusive",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3UUJ4ekp2S053SzdYT1ZxYnUtd3NWR00ybElsdHV5bDRtZkc5VHU2Vi1OWmZ1WXZhb3ZkbWMzc0hvVXpuNUlESGx5R3N5cV8wVVFBaGFTZ0NIRFdjVndSd2ZZT0h1cG1yVWc",
         "image": null,
         "timestamp": 1778441105.0
+    },
+    {
+        "title_fa": "نتانیاهو: جنگ با ایران «تمام نشده است»",
+        "title_en": "Benjamin Netanyahu says Iran war 'is not over'",
+        "summary": [
+            "بنیا‌مین نتانیاهو در اظهارنظر تازه‌ای گفته جنگ با ایران «تمام نشده است»، که نشان‌دهنده تداوم نگاه تهاجمی و برنامه‌ریزی احتمالی برای دورهای بعدی عملیات است.",
+            "این اظهارنظر در متن خبر آمریکا‌تودی بدون ارائه جزئیات عملیاتی یا زمان‌بندی مشخص آمده، اما پیام سیاسی آن واضح است: چرخه تنش قرار نیست متوقف شود.",
+            "از آنجا که ادعای «تمام نشده است» مستقیماً به احتمال تشدید یا تکرار درگیری‌ها اشاره می‌کند، این می‌تواند ریسک تصمیم‌گیری‌های واکنشی از سوی تهران را بالا ببرد، حتی اگر در خبر موردی از اقدام مشخص ذکر نشده باشد."
+        ],
+        "impact": "این جمله به‌تنهایی سیگنال تشدید و ادامه منازعه را می‌دهد و احتمال دور بعدی فشار یا درگیری را افزایش می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.3,
+        "source": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNElORGlvOHZ5TmQ1anQ3aHRtREFSVHI4LUxWTUxhNDNaa18zaHlZVG00RkZKbVNwd1AwQU02MHNxcHcxZC1TdFVEUXE1MkNVaW83aDBadDF3Mm5rbmxiNnNzRDE2SzV3NzFkN0U2UzVlRGZ6dUcwRC1tbUdUNG5rRVV5bzQ4ZnVUMDVwU0h6VHpFc1c4WTJCNHhGRW1rdGZKb3FUS185Nzc0WWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNElORGlvOHZ5TmQ1anQ3aHRtREFSVHI4LUxWTUxhNDNaa18zaHlZVG00RkZKbVNwd1AwQU02MHNxcHcxZC1TdFVEUXE1MkNVaW83aDBadDF3Mm5rbmxiNnNzRDE2SzV3NzFkN0U2UzVlRGZ6dUcwRC1tbUdUNG5rRVV5bzQ4ZnVUMDVwU0h6VHpFc1c4WTJCNHhGRW1rdGZKb3FUS185Nzc0WWc",
+        "image": null,
+        "timestamp": 1778440560.0
     },
     {
         "title_fa": "ایران کنترل تنگه هرمز و لغو تحریم‌های نفتی را شرط پاسخ به پیشنهاد آمریکا می‌داند",
@@ -124,6 +160,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/gulf-nations-hoped-to-move-beyond-oil-the-iran-war-made-that-much-harder/ar-AA22P7Y9",
         "image": null,
         "timestamp": 1778425341.0
+    },
+    {
+        "title_fa": "ترامپ پیشنهاد ایران برای پایان جنگ را رد کرد؛ «کاملاً غیرقابل‌قبول»",
+        "title_en": "Trump Swats Down Iran’s Offer to End the War: ‘TOTALLY UNACCEPTABLE!’",
+        "summary": [
+            "طبق گزارش Mediaite، ترامپ پیشنهاد ایران برای پایان جنگ را رد کرده و واکنش رسمی او «کاملاً غیرقابل‌قبول» توصیف شده است؛ این یعنی فضای معامله‌ای که ایران تلاش کرده ایجاد کند، از همان ابتدا خنثی شده.",
+            "رد سریع از سوی واشنگتن، اهرم سیاسی ایران برای کسب امتیاز از مسیر مذاکره را کاهش می‌دهد و می‌تواند به تداوم فشارهای خارجی و سخت‌تر شدن کانال‌های کاهش تنش منجر شود.",
+            "در سطح اثرگذاری اقتصادی-سیاسی، پیام این ردیه روشن است: حتی تلاش برای چارچوب پایان جنگ هم بدون تغییر شرایط یا تضمین‌های مورد قبول آمریکا پیش نمی‌رود، بنابراین ریسک تداوم بی‌ثباتی و فرسایش تصمیم‌سازی داخلی برای مدیریت هزینه‌ها بالاست."
+        ],
+        "impact": "رد صریح پیشنهاد ایران توسط ترامپ، مسیر مذاکره را می‌بندد و احتمال تداوم فشار خارجی و افزایش هزینه‌های سیاسی-اقتصادی برای تهران را تقویت می‌کند.",
+        "tag": "تحریم_دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Mediaite",
+        "url": "https://www.mediaite.com/media/news/trump-swats-down-irans-offer-to-end-the-war-totally-unacceptable/",
+        "clean_url": "https://www.mediaite.com/media/news/trump-swats-down-irans-offer-to-end-the-war-totally-unacceptable",
+        "image": "http://www.bing.com/th?id=ONUT.172St0PO1_VlXztvwrr6Zw&pid=News",
+        "timestamp": 1778422380.0
     },
     {
         "title_fa": "واکنش ایران به پیشنهاد آمریکا از مسیر پاکستان؛ یک پیام سیاسی با هدف کنترل هزینه‌ها",
@@ -412,6 +466,24 @@
         "clean_url": "https://nypost.com/2026/05/10/us-news/trump-vows-to-confiscate-irans-nuclear-material",
         "image": "http://www.bing.com/th?id=ONUT.d4HCv7ZWYMbla2dMlRZ5qg&pid=News",
         "timestamp": 1778403120.0
+    },
+    {
+        "title_fa": "ترامپ پاسخ ایران به پیشنهاد صلح را «کاملاً غیرقابل‌قبول» خواند",
+        "title_en": "Trump dismisses Iran's response to peace proposal: \"Totally unacceptable\"",
+        "summary": [
+            "Newsweek (از طریق MSN) گزارش می‌کند که ترامپ پاسخ ایران به پیشنهاد صلح را رد کرده و آن را «کاملاً غیرقابل‌قبول» دانسته است؛ یعنی شکاف جدی در مسیر گفت‌وگوها از همان ابتدا تثبیت شده. ",
+            "رئیس‌جمهور ایران هشدار داده که هدف مذاکرات صلح کمک به پایان درگیری‌هاست، اما همزمان تأکید کرده ایران «هیچ‌گونه تسلیم» ندارد؛ این ترکیب پیام، بیانگر رویکرد چانه‌زنی سخت‌گیرانه است نه عقب‌نشینی.",
+            "تنش کلامی بالا ریسک فرسایش روند مذاکره را افزایش می‌دهد و عملاً هر دو طرف را به سمت موضع‌گیری‌های سخت‌تر سوق می‌دهد، چون چارچوب پذیرش/ردِ پیشنهادها از قبل شکست خورده تلقی می‌شود."
+        ],
+        "impact": "این اقدام بیشتر از هر چیز نشان می‌دهد مسیر مذاکرات با مانع سیاسی جدی روبه‌رو است و احتمال تشدید فشارهای خارجی یا سخت‌تر شدن شروط طرف مقابل افزایش پیدا می‌کند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-sends-us-response-as-its-president-says-talks-dont-mean-surrender/ar-AA22QsNx",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-sends-us-response-as-its-president-says-talks-dont-mean-surrender/ar-AA22QsNx",
+        "image": "http://www.bing.com/th?id=ONUT.ZFTHA4xw8ZAhIXNwq0KTvQ&pid=News",
+        "timestamp": 1778402583.0
     },
     {
         "title_fa": "ایران پاسخ آمریکا را ارسال کرد؛ رئیس‌جمهور: مذاکره یعنی پایان درگیری، نه تسلیم",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.straitstimes.com/world/middle-east/iran-vs-trump-is-war-about-to-break-out",
         "image": "https://cassette.sphdigital.com.sg/image/straitstimes/5cfe808f1cf3e7cecc6802d9e5b74f8506d4f999135c0f1199b6b22dc027bb33",
         "timestamp": 1777970460.0
-    },
-    {
-        "title_fa": "ادعای ادامه نقض آتش‌بس در خلیج فارس؛ هشدار مداوم واشینگتن درباره تداوم تخطی‌ها",
-        "title_en": "Iran ceasefire not over, Defense Secretary Pete Hegseth says",
-        "summary": [
-            "پیت هگست، وزیر دفاع آمریکا، اعلام کرد آتش‌بس ایران «هنوز کامل نشده» و با وجود اعلام آتش‌بس، «نقض‌های متعدد» ادامه دارد.",
-            "او این وضعیت را به مأموریت جدید آمریکا برای اسکورت کشتی‌ها از تنگه هرمز پیوند داد و گفت این تخطی‌ها «انتظار» می‌رفت؛ یعنی واشینگتن از پیش سناریوی ناپایداری را در محاسبات خود لحاظ می‌کند.",
-            "این اظهارات پیام می‌دهد روند درگیری در تنگه می‌تواند شتاب بگیرد یا دست‌کم از حالت کنترل‌شده خارج بماند، چون طرف آمریکایی انتظار تخطی‌های مکرر دارد."
-        ],
-        "impact": "ادامه اعلام‌شده نقض‌ها همراه با اسکورت تنگه هرمز، ریسک تشدید تنش دریایی و برخوردهای مستقیم‌تر را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Jewish Insider",
-        "url": "https://jewishinsider.com/2026/05/iran-ceasefire-continues-hegseth-caine-press-briefing/",
-        "clean_url": "https://jewishinsider.com/2026/05/iran-ceasefire-continues-hegseth-caine-press-briefing",
-        "image": "http://www.bing.com/th?id=ONUT.gv1qOXVsmSM7JYmfJi_Phg&pid=News",
-        "timestamp": 1777969740.0
-    },
-    {
-        "title_fa": "روایت عملیات «افریک فیوری» و پایان آن طبق گفته روبیو",
-        "title_en": "Operation Epic Fury against Iran 'is over,' Rubio says",
-        "summary": [
-            "طبق گزارش، مارکو روبیو گفته «عملیات Epic Fury علیه ایران» «تمام شده است»، یعنی چارچوب عملیات نظامی/فشار مستقیم مقطعی تلقی می‌شود.",
-            "در ادامه، هیگست گفت «Project Freedom» یک عملیات موقت و دفاعی است که هدفش بازگرداندن جریان تردد از طریق آبراه حیاتی است؛ این یعنی تمرکز اعلامی بر اختلال‌زدایی عملیاتی در مسیرهای دریایی است، نه رویکرد ماندگار یا گسترش‌طلبانه در متن خبر.",
-            "هیچ جزئیاتی در متن درباره تحریم‌ها، تلفات، یا ائتلاف‌های خارجی ارائه نشده و بنابراین نمی‌توان فراتر از گزارش گفت که این اقدام چه اثر فوری بر توان اقتصادی/سیاسی رژیم می‌گذارد یا واکنش داخلی چه خواهد بود."
-        ],
-        "impact": "این خبر بیشتر به پایان یک فاز و شروع یا ادامه یک مأموریت «دفاعی و موقت» برای احیای تردد در آبراه حیاتی اشاره دارد و اثرگذاری ژرف آن بر ثبات رژیم در همین متن قابل اثبات نیست.",
-        "tag": "امنیت‌دریایی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Los Angeles Times on MSN",
-        "url": "https://www.msn.com/en-us/news/world/operation-epic-fury-against-iran-is-over-rubio-says/ar-AA22rPz6",
-        "clean_url": "https://www.msn.com/en-us/news/world/operation-epic-fury-against-iran-is-over-rubio-says/ar-AA22rPz6",
-        "image": "http://www.bing.com/th?id=ONUT.qgsg4My9AQDNBjXEJuUocQ&pid=News",
-        "timestamp": 1777968977.0
-    },
-    {
-        "title_fa": "تردید در آتش‌بس منطقه‌ای؛ رقابت آمریکا و ایران برای کنترل تنگه هرمز",
-        "title_en": "Middle East truce in doubt as US and Iran fight for control of Strait of Hormuz",
-        "summary": [
-            "رویترز از تشدید رقابت واشنگتن و تهران بر سر کنترل تنگه هرمز خبر می‌دهد و همین موضوع می‌تواند آتش‌بس منطقه‌ای را از پایه متزلزل کند.",
-            "این کشمکش به‌جای مدیریت بحران، محور «ابزار فشار و کنترل مسیر حیاتی کشتیرانی» را پررنگ می‌کند و ریسک درگیری مستقیم یا عملیات نیابتی را بالا می‌برد.",
-            "با توجه به نقش راهبردی تنگه هرمز در صادرات انرژی، هر گونه تنش جدید می‌تواند هزینه‌های امنیتی و اقتصادی را فوراً بالا ببرد و فشارهای خارجی علیه تهران را تشدید کند."
-        ],
-        "impact": "احتمال لغو یا ناکامی آتش‌بس افزایش یافته و مسیر تنگه هرمز به کانون ریسک نظامی و اقتصادی بدل می‌شود.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/other/middle-east-truce-in-doubt-as-us-and-iran-fight-for-control-of-strait-of-hormuz/ar-AA22p3ov",
-        "clean_url": "https://www.msn.com/en-us/news/other/middle-east-truce-in-doubt-as-us-and-iran-fight-for-control-of-strait-of-hormuz/ar-AA22p3ov",
-        "image": null,
-        "timestamp": 1777967391.0
-    },
-    {
-        "title_fa": "زمان‌بندی سلاح هسته‌ای ایران تقریباً بی‌اثر از حملات آمریکا-اسرائیل؛ داده‌های «منابع» حاکی از کند شدن محدود",
-        "title_en": "Iran's nuclear weapon timeline barely set back despite US-Israeli strikes, sources say",
-        "summary": [
-            "به‌گفته «منابع»، حملات آمریکا و اسرائیل صرفاً «زمان‌بندی هسته‌ای» ایران را به‌طور جدی عقب نانداشته و اثر بازدارنده آن محدود بوده است.",
-            "این گزاره نشان می‌دهد برنامه هسته‌ای ایران یا از قبل انعطاف عملیاتی داشته (مثلاً پراکندگی/پوشش) یا آسیب وارده به نقاط تعیین‌کننده برای توقف واقعی کمتر از حد انتظار بوده است.",
-            "اگر اثر حملات در سطح «بیرون‌زدن از جدول زمانی» محقق نشده، پیام راهبردی این است که فشار نظامیِ تاکتیکی بدون تغییر راهبردی، چرخه تولید و پیشبرد را متوقف نمی‌کند."
-        ],
-        "impact": "جمع‌بندی گزارش این است که حملات ادعایی نتوانسته‌اند شکاف زمانی مؤثر ایجاد کنند و در نتیجه ریسکِ ادامه پیشروی هسته‌ای با سرعت نزدیک به قبل باقی می‌ماند.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeGxWeHFaZ0NLUHp5NXNFZ0xud2xIZDhDc2QxR3dpT214RUFTMzN5d2ZYZ2NTZS04c3N0YlBmWnVrRXBuQWU3Nkd1NkV4OVpCRFItM0JPaDJpa05ERnpMbm05TGNjVDEyZ3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeGxWeHFaZ0NLUHp5NXNFZ0xud2xIZDhDc2QxR3dpT214RUFTMzN5d2ZYZ2NTZS04c3N0YlBmWnVrRXBuQWU3Nkd1NkV4OVpCRFItM0JPaDJpa05ERnpMbm05TGNjVDEyZ3c",
-        "image": null,
-        "timestamp": 1777965977.0
     }
 ]
