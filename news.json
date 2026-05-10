@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "نتانیاهو: جنگ با ایران «تمام نشده»؛ معامله صلح همچنان دور از دسترس",
+        "title_en": "Netanyahu says Iran war is 'not over' as peace deal remains elusive",
+        "summary": [
+            "طبق CNBC، بنیامین نتانیاهو اعلام کرده جنگ با ایران «تمام نشده» و وضعیت در حدِ توقف یا حل‌وفصل نهایی تغییر نکرده است.",
+            "او تاکید کرده «معامله صلح» هنوز دست‌نیافتنی است؛ یعنی مسیر مذاکرات/توافق به بن‌بست یا حداقل به تعویق جدی خورده و نشانه‌های توافق پایدار در گزارش مطرح نشده است.",
+            "این موضع‌گیری، در چارچوب فشار خارجی، سیگنال تداوم تهدید و ابهام امنیتی برای تهران است؛ چون اعلام «تمام نشدن جنگ» معمولاً هزینه سیاسی-اقتصادی و محاسبه ریسک را در هر سناریوی مذاکره افزایش می‌دهد."
+        ],
+        "impact": "این پیام نشان می‌دهد افق توافق محدود به وعده‌های سیاسی نیست و عدم‌قطعیت امنیتی می‌تواند فشار بر تصمیم‌گیری رژیم و اقتصاد را تشدید کند.",
+        "tag": "فشار_خارجی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/news/world/netanyahu-says-iran-war-is-not-over-as-peace-deal-remains-elusive/ar-AA22QKpU",
+        "clean_url": "https://www.msn.com/en-us/news/world/netanyahu-says-iran-war-is-not-over-as-peace-deal-remains-elusive/ar-AA22QKpU",
+        "image": null,
+        "timestamp": 1778443615.0
+    },
+    {
+        "title_fa": "ایران پاسخ خود به پیشنهاد جدید آمریکا برای آتش‌بس را از مسیر میانجی‌گری پاکستان ارسال کرد",
+        "title_en": "Iran submits response to latest US ceasefire proposal via Pakistan mediators",
+        "summary": [
+            "طبق گزارش Jerusalem Post، ایران پاسخ خود را به «پیشنهاد جدید آتش‌بس» آمریکا از طریق میانجی‌گری پاکستان به طرف آمریکایی ارسال کرده است؛ یعنی کانال مذاکره همچنان فعال است.",
+            "این اقدام بیشتر یک آزمون سیاسی-عملی برای سنجش امکان کاهش تنش است تا تغییر ریشه‌ای؛ چون متن و شروط پاسخ ایران در گزارش جزئیات داده نشده و فقط «ارسال پاسخ» ثبت شده است.",
+            "از منظر فشار خارجی، اتکا به مسیر میانجی‌گر (پاکستان) نشان می‌دهد که تهران برای مدیریت هزینه‌های بحران و زمان‌خریدن در کوتاه‌مدت، از کانال‌های غیرمستقیم استفاده می‌کند."
+        ],
+        "impact": "فعال شدن دوباره کانال پاسخ‌گویی از مسیر پاکستان می‌تواند موقتاً شدت تنش را مهار کند، اما تا وقتی جزئیات شروط دو طرف روشن نشود، نتیجه پایدار تضمین نیست.",
+        "tag": "آتش‌بس",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3UUJ4ekp2S053SzdYT1ZxYnUtd3NWR00ybElsdHV5bDRtZkc5VHU2Vi1OWmZ1WXZhb3ZkbWMzc0hvVXpuNUlESGx5R3N5cV8wVVFBaGFTZ0NIRFdjVndSd2ZZT0h1cG1yVWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA3UUJ4ekp2S053SzdYT1ZxYnUtd3NWR00ybElsdHV5bDRtZkc5VHU2Vi1OWmZ1WXZhb3ZkbWMzc0hvVXpuNUlESGx5R3N5cV8wVVFBaGFTZ0NIRFdjVndSd2ZZT0h1cG1yVWc",
+        "image": null,
+        "timestamp": 1778441105.0
+    },
+    {
         "title_fa": "ایران کنترل تنگه هرمز و لغو تحریم‌های نفتی را شرط پاسخ به پیشنهاد آمریکا می‌داند",
         "title_en": "Iran's response to US proposal said to demand control over Hormuz, removal of oil sanctions",
         "summary": [
@@ -142,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzgyd1hmV0JCQ2pIbHBvOXNUWnR1OVU0aVQtVXFjaDdWSzhkVUhFLXJjVTFGLTAwMjRkU1JZRDV1eGhUYk4tV2huNUZhQkZxdXZSeHRZN1J2SElfNlROZm9PMjBYTmw4WlJVYUFEZjE4S1lRRWF3Z2VrNklPV3B1YjE1TUpWc0xOdVJCS3MzVDlrRzhYNk0yRDZOWXoyeVdaM21aU0lIY2RuQXBLaUxLQU1ZQUpYQnhP",
         "image": null,
         "timestamp": 1778416686.0
+    },
+    {
+        "title_fa": "ایران پیشنهاد تازه درباره اورانیوم غنی‌شده در پاسخ به پیشنهاد آمریکا؛ ردِ تخریب و تلاش برای زمان‌خریدی",
+        "title_en": "Iran makes new offer on uranium in response to US, WSJ says",
+        "summary": [
+            "طبق گزارش WSJ که Bloomberg آن را بازتاب داده، ایران در واکنش به پیشنهاد جدید آمریکا برای پایان دادن به وقفه/تنش ۱۰ هفته‌ای، پیشنهاد کرده بخشی از ذخایر اورانیوم بسیار غنی‌شده خود را به یک کشور ثالث منتقل کند.",
+            "ایران این گزینه انتقال را به‌عنوان جایگزین مطرح کرده، اما از ایده «برچیدن» یا نابودی/کنارگذاشتن ظرفیت‌های مرتبط با این ذخایر رد کرده است؛ یعنی عقب‌نشینی ساختاری انجام نمی‌دهد و فقط مدل اجرا را تغییر می‌دهد.",
+            "از منظر فشار خارجی، این حرکت بیشتر یک معامله‌ی زمان‌خریدن است: حتی در چارچوب تعامل، رژیم حاضر نیست هزینهِ کاهش توان را بپذیرد و ترجیح می‌دهد با انتقال به ثالث، بار سیاسی/فنی را جابه‌جا کند."
+        ],
+        "impact": "این پیشنهاد بدون پذیرش برچیدن ذخایر، توان هسته‌ای را در دسترس رژیم نگه می‌دارد و احتمالاً بیشتر به مدیریت بحران و مذاکره بر سر اجرا مربوط است تا کاهش واقعی ظرفیت.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-makes-new-offer-on-uranium-in-response-to-us-wsj-says/ar-AA22PwDj",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-makes-new-offer-on-uranium-in-response-to-us-wsj-says/ar-AA22PwDj",
+        "image": "http://www.bing.com/th?id=ONUT.oGJMZ8Ekhgm5VUecuY2gGg&pid=News",
+        "timestamp": 1778415819.0
     },
     {
         "title_fa": "هشدار ایران درباره تبعیت از تحریم‌های آمریکا هم‌زمان با گزارش حملات در خلیج فارس",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UeGxWeHFaZ0NLUHp5NXNFZ0xud2xIZDhDc2QxR3dpT214RUFTMzN5d2ZYZ2NTZS04c3N0YlBmWnVrRXBuQWU3Nkd1NkV4OVpCRFItM0JPaDJpa05ERnpMbm05TGNjVDEyZ3c",
         "image": null,
         "timestamp": 1777965977.0
-    },
-    {
-        "title_fa": "گزارش امارات از تهدید موشکی و پهپادی و اعلام آمادگی ترامپ برای هدایت کشتی‌ها در تنگه هرمز",
-        "title_en": "UAE Reports Missiles and Drone Threats; Trump Says U.S. Will Guide Ships in Strait of Hormuz",
-        "summary": [
-            "امارات به‌عنوان طرف منطقه‌ای، از وجود تهدیدهای موشکی و پهپادی خبر داده که نشان می‌دهد خطر مستقیم برای عبور و مرور در تنگه هرمز بالا رفته است.",
-            "ترامپ اعلام کرده است که آمریکا کشتی‌ها را در تنگه هرمز راهنمایی خواهد کرد؛ یعنی سطح دخالت عملیاتی/راهنمایی واشینگتن در یک گلوگاه دریایی تشدید می‌شود.",
-            "این هم‌زمانی گزارش‌های تهدید و اعلام نقش آمریکا، احتمال افزایش تنش دریایی و ریسک برخورد ناخواسته را بالا می‌برد، بدون اینکه در متن به جزئیات میزان یا منبع دقیق تهدیدها پرداخته شود."
-        ],
-        "impact": "این رویداد می‌تواند به تشدید رقابت امنیتی و احتمال درگیری محدود در تنگه هرمز منجر شود و هزینه ریسک تجارت دریایی را بیشتر کند.",
-        "tag": "تنش‌منطقه‌ای",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83MmpZTm5iSHpxNF8zRDhXXy0waUxVQ3A3TDFkdlNsV2Q5SjgyaDZ3NUlnVTMwTHVMSmx5aW1sdVJUWGczWTAwb3ZrX1FESDRWcVB3UnA5M3d4b1Z0YWNhZUN2Qi1OTTNFcUF1WWhkQV94Z2tCQTFZ",
-        "image": null,
-        "timestamp": 1777964859.0
-    },
-    {
-        "title_fa": "ادعای «برقراری فعلی آتش‌بس» میان ایران و آمریکا پس از درگیری دریایی و حملات به امارات",
-        "title_en": "Live Updates: Iran ceasefire holding for now, Hegseth says, after Iran attacks UAE, ships in Strait of Hormuz",
-        "summary": [
-            "بر اساس گزارش CBS News، پتروشده فعلی از سوی پیت هگست به‌عنوان «آتش‌بس با ایران فعلاً پابرجاست» مطرح شده، اما بلافاصله با تذکر به ادامه تنش‌ها و درگیری‌ها همراه است.",
-            "این رویداد پس از یک «درگیری دریایی» میان نیروهای ایرانی و آمریکا و سپس «حملات تازه» به امارات در موقعیت حساس تنگه هرمز/منطقه خلیج صورت گرفته است.",
-            "جمع‌بندی گزارش این است که آتش‌بس هنوز در مرحله شکننده و قابل‌تداوم «فعلاً» است و تداوم حملات منطقه‌ای می‌تواند آن را سریعاً از بین ببرد."
-        ],
-        "impact": "درگیری دریایی و حملات به امارات نشان می‌دهد رژیم همچنان از اهرم فشار منطقه‌ای استفاده می‌کند و «آتش‌بس» بیشتر یک وقفه تاکتیکی تا پایان بحران است.",
-        "tag": "منطقه‌ای",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-ships-uae-attacked/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-ships-uae-attacked",
-        "image": "http://www.bing.com/th?id=ONUT.pOqJLmhUDuQeX2fk5ZCrlg&pid=News",
-        "timestamp": 1777961100.0
-    },
-    {
-        "title_fa": "ایران: حمله نظامی آمریکا به قایق‌های مسافربری پنج غیرنظامی را کشت",
-        "title_en": "Iran says US military killed five civilians in attacks on passenger boats",
-        "summary": [
-            "طبق ادعای ایران، نیروهای نظامی آمریکا در حملات به قایق‌های مسافربری «پنج غیرنظامی» را کشته‌اند؛ موضوع مستقیماً به الگوی برخورد نظامی و تلفات غیرنظامی مربوط است.",
-            "اگر این ادعا در چارچوب مستقل راستی‌آزمایی و شفاف‌سازی نشود، به تنش تبلیغاتی و حقوقی دامن می‌زند و می‌تواند زمینه اقدام متقابل یا تشدید عملیات در مناطق درگیری دریایی را فراهم کند.",
-            "برای تحلیل امنیتی، این رویداد می‌تواند نشانه‌ای از افزایش ریسک درگیری مستقیم یا اشتباه محاسباتی در عملیات دریایی باشد؛ اما جزئیات مکان، زمان و نحوه رخداد در متن ارائه نشده است."
-        ],
-        "impact": "این ادعا، در صورت تداوم و عدم کنترل بحران، احتمال تشدید تنش و درگیری‌های دریایی را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3FudHBoUElTRzAtS2dDWl9rbHFIbm12dTN0VkE3R1lzRllNTmxHZ0swV2w2a180SVlGNUFEWXhEaHRnVy1KemdpRi1HcjdOV2FMd2htUTdnRS1Pbnh4cUVnbDdnU0Q4Mk9zdlBfcHJndjE3MHllVkp1OFJuZXZRSEpGSlJfelFPNnl6MC15ZHZJeVgyaEJsZnU4RUljV1JVMjViWWxkSVFfejB6WHlWY1hiSdIBuAFBVV95cUxPM0d3bWhoeWNia09ORlI1TmZoa3ZIV2h0VFYzLXd5Q2U0UTQ3YVJ5cXlkN0pPNUN1dFhMN2NhZkRGWTZ1RG42bFJMVFg3Nks0a2dxSWJPVWxZRWtzN2dIWUM5Vl9TYUY3Ny1hZVpLSTZvVVUzbGNoLVBjUjZvWUx2R0pyVXhHcVl1SjBGSmJmb0hMU3NOY1NSSHZ5LUFrVTdQbFJGS2p0WjRqWmdCdlVUTDhodGRkaVR5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3FudHBoUElTRzAtS2dDWl9rbHFIbm12dTN0VkE3R1lzRllNTmxHZ0swV2w2a180SVlGNUFEWXhEaHRnVy1KemdpRi1HcjdOV2FMd2htUTdnRS1Pbnh4cUVnbDdnU0Q4Mk9zdlBfcHJndjE3MHllVkp1OFJuZXZRSEpGSlJfelFPNnl6MC15ZHZJeVgyaEJsZnU4RUljV1JVMjViWWxkSVFfejB6WHlWY1hiSdIBuAFBVV95cUxPM0d3bWhoeWNia09ORlI1TmZoa3ZIV2h0VFYzLXd5Q2U0UTQ3YVJ5cXlkN0pPNUN1dFhMN2NhZkRGWTZ1RG42bFJMVFg3Nks0a2dxSWJPVWxZRWtzN2dIWUM5Vl9TYUY3Ny1hZVpLSTZvVVUzbGNoLVBjUjZvWUx2R0pyVXhHcVl1SjBGSmJmb0hMU3NOY1NSSHZ5LUFrVTdQbFJGS2p0WjRqWmdCdlVUTDhodGRkaVR5",
-        "image": null,
-        "timestamp": 1777960775.0
     }
 ]
