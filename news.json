@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جنگِ ایران رؤیای «اقتصاد پس از نفت» در خلیج را تهدید می‌کند",
+        "title_en": "Iran war threatens the dream of a post-oil economy in the Gulf",
+        "summary": [
+            "این گزارش با اتکا به چارچوب کلی تهدید جنگ، نشان می‌دهد که مسیر تنوع اقتصادی در کشورهای خلیج می‌تواند زیر فشار ریسک امنیتی و اختلال در برنامه‌ریزی سرمایه‌گذاری از بین برود؛ یعنی پروژه‌های «اقتصاد پس از نفت» به جای متکی شدن بر رشد پایدار، در معرض هزینه‌های ریسک قرار می‌گیرند.",
+            "تمرکز گزارش بر پیوند میان جنگ و منطق اقتصاد منطقه است: افزایش نااطمینانی امنیتی باعث عقب‌نشینی سرمایه، گران‌تر شدن پوشش ریسک و طولانی‌تر شدن دوره‌های تصمیم‌گیری می‌شود—حتی اگر تهدید مستقیماً به یک پروژه مشخص اشاره نشده باشد.",
+            "از منظر تحلیلی، پیام اصلی برای ثبات منطقه این است که هر موج تشدید تنش، ظرفیت جذب سرمایه و نرخ اجرای اصلاحات اقتصادی را کاهش می‌دهد؛ نتیجه عملی آن برای دولت‌های خلیج، فشار بیشتر بر بودجه و تشدید رقابت برای منابع مالی است."
+        ],
+        "impact": "افزایش خطر جنگ، اقتصادهای خلیج را از فاز «تنوع‌بخشی» به سمت مدیریت هزینه‌های ریسک می‌کشاند و تحقق چشم‌اندازهای پس از نفت را عقب می‌اندازد.",
+        "tag": "امنیت-اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/gulf-nations-hoped-to-move-beyond-oil-the-iran-war-made-that-much-harder/ar-AA22P7Y9",
+        "clean_url": "https://www.msn.com/en-us/news/world/gulf-nations-hoped-to-move-beyond-oil-the-iran-war-made-that-much-harder/ar-AA22P7Y9",
+        "image": null,
+        "timestamp": 1778425341.0
+    },
+    {
         "title_fa": "واکنش ایران به پیشنهاد آمریکا از مسیر پاکستان؛ یک پیام سیاسی با هدف کنترل هزینه‌ها",
         "title_en": "Iran sends response to US proposal via Pakistan: state media",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.firstpost.com/world/iran-sends-its-response-to-us-proposal-aimed-at-ending-war-via-pakistan-state-media-reports-14009671.html",
         "image": null,
         "timestamp": 1778418329.0
+    },
+    {
+        "title_fa": "بی‌اعتمادی اسرائیل به خوش‌بینی آمریکا درباره مذاکرات هسته‌ای ایران؛ گره اصلی «توافق هسته‌ای» بازنمانده",
+        "title_en": "Israel doubts US optimism in Iran talks as critical issues on nuclear concessions remain unsolved",
+        "summary": [
+            "طبق گزارش Jerusalem Post، اسرائیل به خوش‌بینی آمریکا در جریان مذاکرات ایران واکنش تردیدآمیز دارد و این یعنی جمع‌بندی واشنگتن از پیشرفت قابل اتکا نیست.",
+            "نکته محوری گزارش این است که «مسائل حیاتی مربوط به امتیازدهی هسته‌ای» همچنان حل نشده مانده و در نتیجه احتمال می‌رود روند توافق‌سازی کند یا متوقف شود.",
+            "اگر حل‌نشدن این گره‌ها ادامه پیدا کند، ریسک شکل‌گیری فشارهای متقابل و تشدید تنش‌های منطقه‌ای بالا می‌رود؛ نه به خاطر اعلام نهایی، بلکه به دلیل فقدان جمع‌بندی روشن درباره بخش‌های هسته‌ای."
+        ],
+        "impact": "ادامه نامشخص‌بودن امتیازدهی هسته‌ای، توان مدیریت بحران را کاهش می‌دهد و احتمال تشدید فشار خارجی و تنش‌های منطقه‌ای را بالا می‌برد.",
+        "tag": "مذاکرات",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41STRNcXNvcU5TY0d0WFNsY3laV3h3ZEZNTzd5X2FDNU5qVVBDeWZJZm00eXdPbExpdEF3a3BuNHo5SlFfWjZTR3lINHJaRGFfenZMemVQS29uMDBoU0g0SGhSX0l3aS1hUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41STRNcXNvcU5TY0d0WFNsY3laV3h3ZEZNTzd5X2FDNU5qVVBDeWZJZm00eXdPbExpdEF3a3BuNHo5SlFfWjZTR3lINHJaRGFfenZMemVQS29uMDBoU0g0SGhSX0l3aS1hUXc",
+        "image": null,
+        "timestamp": 1778417301.0
     },
     {
         "title_fa": "ایران پاسخ خود را به پیشنهاد آمریکا برای پایان جنگ ارسال کرده؛ رسانه دولتی گزارش داد",
@@ -180,6 +216,24 @@
         "timestamp": 1778402361.0
     },
     {
+        "title_fa": "ایران از مسیر پاکستان پاسخ «پیشنهاد صلح» آمریکا را فرستاد؛ همزمان هشدار داد هر حمله تازه با «سلاح‌های غافلگیرکننده» پاسخ داده می‌شود",
+        "title_en": "US Iran war news LIVE: Iran sends response to US peace proposal via Pakistan, says negotiations to focus on ending war",
+        "summary": [
+            "طبق گزارش، ایران پاسخ به پیشنهاد صلح آمریکا را از طریق پاکستان ارسال کرده و چارچوب گفت‌وگوها را «تمرکز بر پایان جنگ» اعلام کرده است، اما متن پیام در همان حال با هشدار امنیتی همراه است: هر حمله تازه می‌تواند با «تاکتیک‌ها و سلاح‌های غافلگیرکننده» پاسخ داده شود.",
+            "همزمان در گزارش به وجود یک حمله/رخداد دریایی اشاره شده: یک «پروژهیل ناشناس» بامداد یکشنبه به یک کشتی در نزدیکی قطر اصابت کرده؛ این رخداد در همان بستری مطرح شده که تهدیدهای IRGC علیه آمریکا مطرح شده بود.",
+            "این ترکیب (پیام مذاکره از یک سو و تهدید عملیات غافلگیرکننده از سوی دیگر) نشان می‌دهد رژیم هم‌زمان دنبال خروج از فشار دیپلماتیک است و می‌خواهد بازدارندگی میدانی را هم حفظ کند؛ یعنی کاهش تنش بدون توقف محاسبات سخت‌افزاری."
+        ],
+        "impact": "این رویدادها احتمال نوسان سریع در سطح درگیری را بالا می‌برد و کانال مذاکره را به یک ابزار مدیریت بحران کوتاه‌مدت تبدیل می‌کند، نه تضمین توقف واقعی جنگ.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-israel-hezbollah-donald-trump-lebanon-hormuz-strait-missile-drones-uae-dubai-ceasefire-peace-talks-irgc-101778384284322.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-israel-hezbollah-donald-trump-lebanon-hormuz-strait-missile-drones-uae-dubai-ceasefire-peace-talks-irgc-101778384284322.html",
+        "image": "http://www.bing.com/th?id=ONUT.XrPVZy31vzhH4qEnOzl6uw&pid=News",
+        "timestamp": 1778401680.0
+    },
+    {
         "title_fa": "روز جنگ ۷۲: تهران هنوز به طرح آمریکا پاسخ نداده؛ اسرائیل به لبنان حمله کرد",
         "title_en": "Iran war day 72: Tehran yet to reply to US plan; Israel bombs Lebanon",
         "summary": [
@@ -198,6 +252,24 @@
         "timestamp": 1778401261.0
     },
     {
+        "title_fa": "پاسخ ایران به پیشنهاد آمریکا برای پایان جنگ در خاورمیانه؛ تداوم بازی سیاسی به جای توقف واقعی بحران",
+        "title_en": "Iran has responded to US proposal in peace talks, state media reports",
+        "summary": [
+            "طبق گزارش رسانه دولتی ایران و بازتاب NBC News (روی MSN)، تهران «پیشنهاد آمریکا» برای پایان جنگ در خاورمیانه را پاسخ داده است؛ اما متن گزارش فقط به وجود پاسخ اشاره می‌کند و جزئیات عملیاتی/زمان‌بندی برای توقف درگیری‌ها ارائه نمی‌دهد.",
+            "این نوع کنش دیپلماتیک، بیشتر شبیه مدیریت تصویر و زمان‌خریدن سیاسی است تا کاهش فوری تنش؛ چون گزارش فعلاً هیچ تضمین قابل راستی‌آزمایی درباره اجرای آتش‌بس یا سازوکار نظارت مطرح نمی‌کند.",
+            "در چارچوب فشار خارجی، چنین پیام‌هایی می‌تواند به انسجام و بقا درون‌سیستمی رژیم کمک کند، ولی به شرط ارائه شروط روشن و قابل‌اجرا؛ در غیر این صورت، احتمالاً فقط مسیر مذاکره را طولانی‌تر می‌کند."
+        ],
+        "impact": "این رویداد فعلاً نشانه‌ای از تداوم تعامل برای کنترل بحران است، نه تضمین کاهش واقعی جنگ یا کاهش ریسک آن در میدان.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "NBC News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-has-responded-to-us-proposal-in-peace-talks-state-media-reports/ar-AA22PYL5",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-has-responded-to-us-proposal-in-peace-talks-state-media-reports/ar-AA22PYL5",
+        "image": "http://www.bing.com/th?id=ONUT.JyfdNZYNd1Mlm18I7bNoOw&pid=News",
+        "timestamp": 1778399328.0
+    },
+    {
         "title_fa": "پاسخ ایران به پیشنهاد آتش‌بس همزمان با ادامه حملات پهپادی علیه کشورهای حاشیه خلیج فارس",
         "title_en": "Iran responds to ceasefire proposal as drones target Gulf nations",
         "summary": [
@@ -214,6 +286,24 @@
         "clean_url": "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
         "image": "http://www.bing.com/th?id=ONUT.nxKsF5HTp35mIMxcox-Otw&pid=News",
         "timestamp": 1778397720.0
+    },
+    {
+        "title_fa": "ایران پاسخ به طرح صلح آمریکا را ارسال کرد، هم‌زمان با ادامه بحران هرمز",
+        "title_en": "Iran offers reply to US peace plan as Hormuz crisis rages on",
+        "summary": [
+            "خبرگزاری ایران (ایرنا) گزارش داد که ایران «پاسخ» خود را به آخرین پیشنهاد آمریکا برای پایان ۱۰ هفته جنگ ارسال کرده، اما جزئیاتی ارائه نشده است.",
+            "این اقدام در جریان «بحران هرمز» رخ می‌دهد و نشان می‌دهد تهران هم‌زمان با ادامه تنش، مسیر مذاکره/پاسخ‌دادن را باز نگه داشته است.",
+            "عدم انتشار محتوای پاسخ، نشانه‌ای از کنترل روایت و مدیریت ریسک سیاسی-امنیتی است؛ اما در نبود جزئیات، نه میزان انعطاف‌پذیری ایران و نه شروط طرف مقابل قابل ارزیابی نیست."
+        ],
+        "impact": "ارسال پاسخ بدون جزئیات می‌تواند فضای تبلیغاتی برای هر دو طرف بسازد، اما تا زمانی که متن و شروط روشن نشود، احتمال ادامه فشار و درگیری در هرمز باقی می‌ماند.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-offers-reply-to-us-peace-plan-as-hormuz-crisis-rages-on/ar-AA22PwDj",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-offers-reply-to-us-peace-plan-as-hormuz-crisis-rages-on/ar-AA22PwDj",
+        "image": "http://www.bing.com/th?id=ONUT.oGJMZ8Ekhgm5VUecuY2gGg&pid=News",
+        "timestamp": 1778396945.0
     },
     {
         "title_fa": "انتظار ترامپ برای پاسخ ایران در شرایط آرام‌تر در تنگه هرمز",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-war-pressures-peak-as-us-israel-push-for-full-deal/gm-GM8C931CF6",
         "image": null,
         "timestamp": 1777945620.0
-    },
-    {
-        "title_fa": "تهدید تهران علیه پایگاه‌های اروپایی؛ پیام پرریسک به گسترش عملیات فراتر از منطقه",
-        "title_en": "Iran threatens European bases amid rising geopolitical tensions",
-        "summary": [
-            "حسین شریعتمداری، سردبیر تندروی کیهان، اعلام کرده اگر اروپایی‌ها اجازه دهند آمریکا از پایگاه‌هایشان برای عملیات نظامی استفاده کند، ایران امکان هدف قرار دادن کشورهای اروپایی را مطرح می‌کند.",
-            "این تهدید در چارچوب تشدید تنش‌های جنگ ایران–آمریکا–اسرائیل در خاورمیانه دیده می‌شود و در گزارش به نمونه‌های پیشینِ قابلیت حمله اشاره شده؛ از جمله هدف گرفتن پایگاه بریتانیا در قبرس و همچنین تأسیسات مرتبط با آمریکا در خلیج.",
-            "گزارش می‌گوید بازارها سناریوی «اقدام نظامی علیه همسایگان» را با احتمال بسیار بالا (100%) قیمت‌گذاری کرده‌اند و هم‌زمان سناریوی «سقوط رژیم» حدود 2.6% برای 31 می ثبت شده؛ در اروپا هم به‌طور مشخص اقدامات امنیتی اطراف پایگاه‌های مرتبط با آمریکا/ناتو تقویت شده است."
-        ],
-        "impact": "این پیام تهران ریسک انتقال درگیری به عمق اروپا را بالا می‌برد و می‌تواند به تشدید اقدامات بازدارنده و در نتیجه فشار خارجی-امنیتی بر رژیم منجر شود.",
-        "tag": "اروپا",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-threatens-european-bases-amid-rising-geopolitical-tensions/",
-        "clean_url": "https://cryptobriefing.com/iran-threatens-european-bases-amid-rising-geopolitical-tensions",
-        "image": "http://www.bing.com/th?id=ONUT.eI2mGAPRxqtylrmutTtKkw&pid=News",
-        "timestamp": 1777943400.0
-    },
-    {
-        "title_fa": "حملات در تنگه هرمز و منطقه خلیج، آتش‌بس شکننده آمریکا-ایران را به خطر انداخت",
-        "title_en": "Attacks in Strait of Hormuz, Gulf region imperil fragile U.S.-Iran ceasefire",
-        "summary": [
-            "گزارش واشینگتن‌پست از «حملات» در تنگه هرمز و دیگر نقاط خلیج فارس می‌گوید که می‌تواند آتش‌بس شکننده میان آمریکا و ایران را بی‌ثبات کند؛ یعنی هر رخداد امنیتیِ ناگهانی می‌تواند چرخه واکنش متقابل را فعال کند.",
-            "تشدید احتمالی در این مسیر حیاتی کشتیرانی، ریسک خطای محاسباتی و پاسخ‌های تلافی‌جویانه را بالا می‌برد و عملاً پنجره محدودِ ثبات را تنگ‌تر می‌کند.",
-            "در سطح راهبردی، چنین حملاتی فشار بر طرفین برای بازگذاشتن کانال کنترل بحران را افزایش می‌دهد و احتمال تبدیل شدن تنش‌های پراکنده به درگیری گسترده را بیشتر می‌کند."
-        ],
-        "impact": "اگر حملات ادامه پیدا کند، آتش‌بس آمریکا-ایران به سرعت از سطح توافق سیاسی به بحران امنیتی تبدیل می‌شود و ریسک تشدید نظامی در تنگه هرمز بالا می‌رود.",
-        "tag": "امنیت",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/other/attacks-in-strait-of-hormuz-gulf-region-imperil-fragile-us-iran-ceasefire/ar-AA22n2Qr",
-        "clean_url": "https://www.msn.com/en-us/news/other/attacks-in-strait-of-hormuz-gulf-region-imperil-fragile-us-iran-ceasefire/ar-AA22n2Qr",
-        "image": null,
-        "timestamp": 1777942482.0
-    },
-    {
-        "title_fa": "امارات ۱۵ موشک و ۴ پهپاد ایران را رهگیری کرد؛ آتش در سایت نفتی فجیره",
-        "title_en": "Iran war updates: UAE intercepts missiles, drone sparks fire at oil site",
-        "summary": [
-            "امارات اعلام کرد سامانه‌های پدافندی‌اش امروز ۱۵ موشک و ۴ پهپاد را که از سوی ایران شلیک شده بود رهگیری کرده است؛ ایران واکنشی رسمی ارائه نکرده است.",
-            "در فجیره، مقامات محلی گزارش دادند یک پهپاد/هدف مرتبط با حمله موجب آتش‌سوزی در یک سایت نفتی شده است.",
-            "عدم اظهارنظر رسمی ایران و تمرکز گزارش بر رهگیری و پیامد میدانی در یک دارایی حیاتی، نشان‌دهنده تبدیل شدن تنش به ریسک مستقیم برای زیرساخت انرژی در منطقه است."
-        ],
-        "impact": "این رخداد احتمالاً ریسک امنیتی مسیرهای انرژی و هزینه‌های عملیاتی برای دارایی‌های نفتی در امارات را بالا می‌برد و زمینه برای تشدید تقابل منطقه‌ای فراهم می‌کند.",
-        "tag": "رهگیری",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/5/4/iran-war-live-tehran-says-trumps-hormuz-mission-violates-ceasefire",
-        "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/2026-04-24T120357Z_940051965_RC2OVKACRE7V_RTRMADP_3_IRAN-CRISIS-IRAQ-CRUDE-1-1777873187.jpg?resize=1920,1440",
-        "timestamp": 1777940520.0
-    },
-    {
-        "title_fa": "یک ماه پس از شروع درگیری ایران با آمریکا/اسرائیل: مهندسی «افزایش کنترل‌شده» و ریسک ساختاری",
-        "title_en": "The Iran–U.S./Israel Conflict One Month After Its Outbreak: The Logic Of Controlled Escalation And Systemic Risk – Analysis",
-        "summary": [
-            "این تحلیل می‌گوید منطق طرفین در یک ماه اخیر بر «افزایش کنترل‌شده» استوار بوده: نه توقف فوری تقابل، نه جهش ناگهانی به تقابل تمام‌عیار، بلکه مدیریت مرحله‌ای برای محاسبه‌پذیر نگه‌داشتن پیامدها.",
-            "با وجود ادعای کنترل، مقاله بر «ریسک سیستمیک» تأکید می‌کند: در چنین الگوی درگیری، خطاهای محاسباتی، واکنش‌های زنجیره‌ای و سوءبرداشت‌ها می‌توانند مرزهای تعیین‌شده را بشکنند و هزینه را ناگهان بالا ببرند.",
-            "چارچوب کلیدی این است که حتی اگر تشدیدکنندگان تلاش کنند سطح درگیری را محدود نگه دارند، ساختار درگیری منطقه‌ای و محرک‌های امنیتی می‌تواند باعث شود رفتارهای تاکتیکی به بحران‌های راهبردی تبدیل شوند."
-        ],
-        "impact": "این روایت نشان می‌دهد حتی «کنترل‌شده» بودن تشدید، ثبات را تضمین نمی‌کند و احتمال سرریز به فاز خطرناک‌تر از کنترل عملیاتی وجود دارد.",
-        "tag": "درگیری",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Eurasia Review",
-        "url": "https://www.kare11.com/article/syndication/associatedpress/analysis-1-month-into-war-iran-is-using-insurgent-tactics-and-holding-the-world-economy-hostage/616-904d5bf2-610c-4d90-9ef4-4b463b95268e",
-        "clean_url": "https://www.kare11.com/article/syndication/associatedpress/analysis-1-month-into-war-iran-is-using-insurgent-tactics-and-holding-the-world-economy-hostage/616-904d5bf2-610c-4d90-9ef4-4b463b95268e",
-        "image": null,
-        "timestamp": 1777939194.0
-    },
-    {
-        "title_fa": "اخطار تشدید تنش در تنگه هرمز؛ ادعای نقض آتش‌بس از سوی آمریکا و تبادل شلیک بین نیروهای ایرانی و مسیر هدایت‌شده توسط نیروی دریایی آمریکا",
-        "title_en": "Iran War Live Updates: Iranian Official Warns of Escalation in Strait of Hormuz Standoff",
-        "summary": [
-            "محمدباقر قالیباف، مذاکره‌کننده ارشد ایران، اتهام «نقض آتش‌بس شکننده» را متوجه آمریکا کرد و ادعا نمود که ایالات متحده اقدام‌های خود را از چارچوب توافق خارج کرده است.",
-            "بر اساس گزارش، نیروهای ایرانی به شناورها شلیک کردند؛ در همان زمان نیروی دریایی آمریکا از طریق «هدایت» مسیر، در تنگه هرمز در جریان عبور کشتی‌ها نقش داشته است.",
-            "این روایت عملاً نشان می‌دهد که ریسک محاسبه‌نشده بین نیروهای دریایی دو طرف در یک گلوگاه حیاتی (تنگه هرمز) بالا رفته و هرگونه رخداد می‌تواند به چرخه تشدید فوری تبدیل شود."
-        ],
-        "impact": "این وضعیت احتمال افزایش تنش دریایی و گسترش سریع درگیری را بالا می‌برد، چون ادعاهای متقابل درباره «نقض آتش‌بس» با اقدام عملی شلیک همراه شده است.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
-        "clean_url": "https://www.nytimes.com/live/2026/05/05/world/iran-war-trump-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.vhoC5haOO6FGf5CO71p22Q&pid=News",
-        "timestamp": 1777938900.0
     }
 ]
