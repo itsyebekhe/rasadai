@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران کنترل تنگه هرمز و لغو تحریم‌های نفتی را شرط پاسخ به پیشنهاد آمریکا می‌داند",
+        "title_en": "Iran's response to US proposal said to demand control over Hormuz, removal of oil sanctions",
+        "summary": [
+            "شبکه خبری «آل‌معیادین» وابسته به حزب‌الله به نقل از منابع آگاه می‌گوید پاسخ ایران به پیشنهاد آمریکا برای پایان جنگ، شامل الزام حفظ «کنترل ایران بر تنگه هرمز» است.",
+            "طبق همین گزارش، ایران همچنین خواستار «برداشته شدن همه تحریم‌های مرتبط با نفت» و «آزادسازی دارایی‌های یخ‌زده ایران» از سوی آمریکا شده است.",
+            "منابع می‌گویند مذاکرات فعلاً تنها به شکل «بیانیه‌های مکتوب» که از مسیر میانجی‌های ایرانی منتقل می‌شود ادامه خواهد داشت."
+        ],
+        "impact": "این مواضع نشان می‌دهد ایران برای هر توافق احتمالی، اهرم امنیتی در تنگه هرمز را با رفع فشار مالی‌ـنفتی از آمریکا گره می‌زند و زمان‌بندی مذاکرات به شرط‌گذاری‌های سخت محدود می‌ماند.",
+        "tag": "تحریم‌ها",
+        "urgency": 6,
+        "sentiment": -0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/liveblog_entry/irans-response-to-us-proposal-said-to-demand-control-over-hormuz-removal-of-oil-sanctions/",
+        "clean_url": "https://www.timesofisrael.com/liveblog_entry/irans-response-to-us-proposal-said-to-demand-control-over-hormuz-removal-of-oil-sanctions",
+        "image": null,
+        "timestamp": 1778440087.0
+    },
+    {
         "title_fa": "ترامپ: اجازه نمی‌دهیم ایران به اورانیوم غنی‌شده برسد",
         "title_en": "Trump says US will not allow Iran to reach enriched uranium",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3BGeTZKcXRDM3V6WkJwNDh2MUpsU1lSYThodEEzS25iZUpha2RUTXAyXzlYZmh6Vmc2Y0taX2x0c1h6bTlrZWVJaWtxVjlJYTI2d25jNXkxeTZpY3pXUW1xM01VbEdpaTRWX2djUVVNa3gwNkUtVW1MbVBJRXZzU0wtaW53XzctS2hGekZZNktmZ0RtN0dxdjQtbmUtRmlQRVE",
         "image": null,
         "timestamp": 1778433947.0
+    },
+    {
+        "title_fa": "نتانیاهو: جنگ با ایران «دستاوردهای زیادی داشت، اما تمام نشده»",
+        "title_en": "Netanyahu: War with Iran ‘accomplished a great deal, but it’s not over’",
+        "summary": [
+            "نتانیاهو در اظهاراتی اعلام کرد که جنگ با ایران «دستاوردهای زیادی» داشته، اما آن را پایان‌یافته ندانست و ادامه مسیر عملیات را در افق نزدیک رد نکرد.",
+            "این موضع‌گیری نشان می‌دهد ارزیابی تل‌آویو از وضعیت فعلی ایران را صرفاً با یک مرحله جمع‌بندی نمی‌کند و احتمال تشدید یا تداوم فشار نظامی/عملیاتی را مطرح می‌سازد.",
+            "از آنجا که متن صرفاً به ارزیابی و چارچوب زمانی عملیات اشاره دارد و جزئیات درباره نقطه دقیق «تمام‌شدن» ارائه نمی‌کند، خروجی مشخصی از این خبر درباره میزان آسیب یا برنامه اقدامات آینده در دست نیست، اما سیگنال سیاسیِ تداوم جنگ ارسال می‌شود."
+        ],
+        "impact": "این پیام سیاسی از سمت اسرائیل، ریسک تداوم یا گسترش چرخه درگیری علیه ایران را بالا می‌برد، بدون اینکه سندی از پایان واقعی عملیات یا تغییر مسیر ارائه کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.35,
+        "source": "Politico",
+        "url": "https://www.msn.com/en-us/news/world/netanyahu-war-with-iran-accomplished-a-great-deal-but-its-not-over/ar-AA22Qohh",
+        "clean_url": "https://www.msn.com/en-us/news/world/netanyahu-war-with-iran-accomplished-a-great-deal-but-its-not-over/ar-AA22Qohh",
+        "image": null,
+        "timestamp": 1778431842.0
     },
     {
         "title_fa": "اظهار ترامپ درباره «ویران‌کردن» در صورت دسترسی به سایت اورانیوم ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV3FudHBoUElTRzAtS2dDWl9rbHFIbm12dTN0VkE3R1lzRllNTmxHZ0swV2w2a180SVlGNUFEWXhEaHRnVy1KemdpRi1HcjdOV2FMd2htUTdnRS1Pbnh4cUVnbDdnU0Q4Mk9zdlBfcHJndjE3MHllVkp1OFJuZXZRSEpGSlJfelFPNnl6MC15ZHZJeVgyaEJsZnU4RUljV1JVMjViWWxkSVFfejB6WHlWY1hiSdIBuAFBVV95cUxPM0d3bWhoeWNia09ORlI1TmZoa3ZIV2h0VFYzLXd5Q2U0UTQ3YVJ5cXlkN0pPNUN1dFhMN2NhZkRGWTZ1RG42bFJMVFg3Nks0a2dxSWJPVWxZRWtzN2dIWUM5Vl9TYUY3Ny1hZVpLSTZvVVUzbGNoLVBjUjZvWUx2R0pyVXhHcVl1SjBGSmJmb0hMU3NOY1NSSHZ5LUFrVTdQbFJGS2p0WjRqWmdCdlVUTDhodGRkaVR5",
         "image": null,
         "timestamp": 1777960775.0
-    },
-    {
-        "title_fa": "گزارش اطلاعاتی آمریکا: با وجود حملات اخیر، زمان‌بندی تسلیحات هسته‌ای ایران تغییر نکرده است",
-        "title_en": "Iran's nuclear weapon timeline remains unchanged despite weeks of strikes: report",
-        "summary": [
-            "طبق گزارش‌های اطلاعاتی آمریکا (MSN)، زمان‌بندی دستیابی ایران به سلاح هسته‌ای از آخرین وضعیتِ گزارش‌شده از «سال گذشته» تغییر نکرده و «بدون تغییر» باقی مانده است.",
-            "این نتیجه علی‌رغم «هفته‌های حملات» و نیز اشاره به «دو ماه جنگ» آغازشده از سوی ترامپ مطرح می‌شود؛ یعنی فشار نظامی نتوانسته برنامه را از مسیر زمانی خارج کند.",
-            "متن به جای اعلام پیشرفت برای مهار برنامه، بر تداوم همان مسیر زمانی تأکید می‌کند و عملاً تصویر شکست/کم‌اثر بودن فشارهای اخیر را تقویت می‌کند."
-        ],
-        "impact": "اگر این ارزیابی اطلاعاتی دقیق باشد، رژیم با وجود حملات، همچنان برنامه را در چارچوب زمانی حفظ کرده و احتمال تشدید چرخه فشار-حمله افزایش می‌یابد.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "MSN",
-        "url": "https://www.msn.com/en-us/news/world/irans-nuclear-weapon-timeline-remains-unchanged-despite-weeks-of-strikes-report/ar-AA22reXt",
-        "clean_url": "https://www.msn.com/en-us/news/world/irans-nuclear-weapon-timeline-remains-unchanged-despite-weeks-of-strikes-report/ar-AA22reXt",
-        "image": "http://www.bing.com/th?id=ONUT.5urHRn34zYdDSNSvSJYcyw&pid=News",
-        "timestamp": 1777960200.0
-    },
-    {
-        "title_fa": "روز ۶۸ جنگ آمریکا-اسرائیل علیه ایران: فروپاشی آتش‌بس در تنگه هرمز",
-        "title_en": "US-Israel War on Iran, Day 68: Ceasefire Unravels in Strait of Hormuz",
-        "summary": [
-            "طبق گزارش EA WorldView، آتش‌بس در تنگه هرمز در حال ازهم‌پاشی است و این یعنی تعارض نظامی در یکی از حساس‌ترین گلوگاه‌های انرژی دوباره شدت گرفته است.",
-            "ادامه‌ بی‌ثباتی دریایی، هزینه‌های عملیاتی و ریسک بیمه/حمل‌ونقل را بالا می‌برد و این فشار مستقیم به اقتصاد وارد می‌کند، حتی اگر همزمان پیام‌های سیاسی برای مدیریت بحران منتشر شود.",
-            "در سطح راهبردی، شکست آتش‌بس نشان می‌دهد که کنترل و هماهنگی بحران از دست بازیگران مسئول خارج می‌شود و همین موضوع احتمال چرخه تشدید در روزهای بعد را بالا می‌برد."
-        ],
-        "impact": "تکرار درگیری در تنگه هرمز، هم‌زمان هم شوک اقتصادی فوری به تجارت و انرژی تحمیل می‌کند و هم سطح تهدید امنیتی را به‌صورت پایدار بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "EA WorldView",
-        "url": "https://www.msn.com/en-in/news/world/iran-israel-us-war-live-updates-araghchi-announces-strait-of-hormuz-completely-open-but-irgc-imposes-fresh-conditions/ar-AA21af6T",
-        "clean_url": "https://www.msn.com/en-in/news/world/iran-israel-us-war-live-updates-araghchi-announces-strait-of-hormuz-completely-open-but-irgc-imposes-fresh-conditions/ar-AA21af6T",
-        "image": null,
-        "timestamp": 1777957831.0
     }
 ]
