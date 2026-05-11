@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ دنبال توقف موقت مالیات فدرال گاز برای مهار جهش قیمت‌ها در بحبوحه درگیری مرتبط با ایران",
+        "title_en": "Trump seeks to pause federal gas tax as prices soar amid Iran conflict",
+        "summary": [
+            "طبق گزارش واشنگتن پست، ترامپ در پی ایجاد توقف موقت مالیات فدرال گاز است، چون قیمت سوخت در شرایطی که تنش‌های مرتبط با ایران تشدید شده، رو به افزایش گذاشته است.",
+            "هدف اعلامی این اقدام، کاهش فشار مستقیم هزینه‌ای بر مصرف‌کننده آمریکایی از مسیر سیاست مالیات بر سوخت در سطح فدرال است، نه تغییر فوری در ظرفیت تولید یا مسیرهای تدارکاتی.",
+            "این خبر نشان می‌دهد که «هزینه اقتصادی جنگ/بحران» در اولویت سیاست داخلی قرار گرفته و واکنش دولت به نوسان قیمت بنزین، بیشتر ماهیت مالی-تنظیمی دارد تا راه‌حل ساختاری."
+        ],
+        "impact": "فشار قیمت انرژی می‌تواند هم بر ثبات سیاست داخلی آمریکا و هم بر روند تصمیم‌گیری درباره فشار خارجی بر ایران اثر بگذارد، اما این اقدام به‌تنهایی یک تغییر راهبردی را ثابت نمی‌کند.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjI3VUlLeWtXTGRnVjRMb1E1SVhuTWR6T1h5cmZGNjllcVdXYnBVbFVPM1FTWXhLZlMyeVY5MlMxakxnTkw0aWFrT3NBOE5EWjhKc1dIRDJ3dUY1X3BhUnNBMjhsNEFvb2tvYXp3d2FJNEFOMnRpcl9oY01UQ1NGNTEtakk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZjI3VUlLeWtXTGRnVjRMb1E1SVhuTWR6T1h5cmZGNjllcVdXYnBVbFVPM1FTWXhLZlMyeVY5MlMxakxnTkw0aWFrT3NBOE5EWjhKc1dIRDJ3dUY1X3BhUnNBMjhsNEFvb2tvYXp3d2FJNEFOMnRpcl9oY01UQ1NGNTEtakk",
+        "image": null,
+        "timestamp": 1778535674.0
+    },
+    {
         "title_fa": "صدور تحریم‌های جدید آمریکا علیه محموله‌های نفت ایران به چین",
         "title_en": "US issues new sanctions over Iran's oil shipments to China",
         "summary": [
@@ -126,6 +144,24 @@
         "timestamp": 1778509920.0
     },
     {
+        "title_fa": "ترامپ طرح آتش‌بس ایران را «زباله» خواند؛ موج نگرانی اقتصادی بلندمدت در چند کشور",
+        "title_en": "Nations Brace for Long-Term Economic Woes as Trump Calls Iran Truce Plan ‘Garbage’",
+        "summary": [
+            "ترامپ آتش‌بس شکننده را «روی حمایت حیاتی» توصیف کرد و با حمله لفظی تند به «طرح آتش‌بس ایران»، اعتبار و دوام همین وضعیت را در سطح بین‌المللی بیشتر زیر سؤال برد.",
+            "رهبر هند از مردم خواست خرید و سفر را کاهش دهند؛ نشانه‌ای از انتظار عمومی برای ادامه فشارهای اقتصادی و اختلال‌های احتمالی در تجارت و هزینه‌های روزمره.",
+            "جمع‌بندی گزارش این است که بازیگران منطقه‌ای آماده یک دوره طولانی از بدترشدن وضعیت اقتصادی‌اند، نه یک بهبود سریع؛ بنابراین ریسک بی‌ثباتی اقتصادی به جای فروکش کردن، به افق بلندمدت منتقل می‌شود."
+        ],
+        "impact": "این نوع پیام‌های تضعیف‌کننده از سوی آمریکا و توصیه‌های صرفه‌جویی در اقتصادهای درگیر، هزینه‌های روانی و عملیاتی را افزایش می‌دهد و احتمال تثبیت پایدار آتش‌بس را کم‌تر می‌کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html",
+        "clean_url": "https://www.nytimes.com/2026/05/11/world/middleeast/economic-woes-trump-iran-truce.html",
+        "image": "http://www.bing.com/th?id=ONUT.2ZrAQwO1yB78dKO3TSx_Lw&pid=News",
+        "timestamp": 1778508000.0
+    },
+    {
         "title_fa": "ایران: آمریکا در مذاکرات پایان جنگ «مطالبات غیرمنطقی» مطرح می‌کند",
         "title_en": "Iran says US making ‘unreasonable’ demands in negotiations to end war",
         "summary": [
@@ -180,6 +216,24 @@
         "timestamp": 1778501880.0
     },
     {
+        "title_fa": "پاکستان با وجود نقش میانجی، اجازه داد برخی هواگردهای ایرانی در پایگاه‌هایش پارک شوند؛ ایالات متحده این را «برای دور زدن» ضربات احتمالی می‌بیند",
+        "title_en": "Pakistan allowed Iran to park military aircraft on its airfields despite mediator role in conflict with U.S.",
+        "summary": [
+            "طبق گفته چند مقام آمریکایی آگاه (با شرط عدم ذکر نام)، چند روز پس از اعلام آتش‌بس توسط ترامپ در اوایل آوریل، تهران چند هواگرد نظامی را به پایگاه نیروی هوایی نیر خان (نزدیک راولپندی) فرستاد؛ از جمله یک فروند RC-130 نیروی هوایی ایران.",
+            "این اقدام، هم‌زمان با ایفای علنی پاکستان به‌عنوان کانال دیپلماتیک کاهش تنش میان تهران و واشنگتن، می‌تواند به‌صورت ضمنی برای مصون‌سازی بخشی از دارایی‌های باقی‌مانده نظامی/هوایی ایران از احتمال حملات آمریکا تفسیر شود؛ البته آمریکا هنوز درباره اینکه آیا میان پروازهای ثبت‌شده «هواگردهای نظامی» بوده یا نه قطعیت ندارد.",
+            "در افغانستان هم، طبق گزارش یک مقام غیرنظامی هوانوردی، یک هواپیمای غیرنظامی ماهان ایر قبل از شروع جنگ در کابل نشست و پس از بسته شدن آسمان ایران در کابل ماند؛ سپس هنگام تشدید حملات پاکستان بر کابل (در مارس) برای کاهش خطر بمباران احتمالی، به هرات نزدیک مرز ایران منتقل شد، اما طالبان وجود هواگردهای ایرانی را رد کرد."
+        ],
+        "impact": "این الگو نشان می‌دهد شبکه‌های عملیاتی منطقه‌ای می‌تواند به ایران فرصت دهد بخشی از دارایی‌های هوایی خود را از مسیرهای قابل هدف‌گیری‌تر دور کند، حتی وقتی خط میانجی‌گری دیپلماتیک برقرار است.",
+        "tag": "هواگرد",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role/",
+        "clean_url": "https://www.cbsnews.com/news/pakistan-iran-military-aircraft-on-its-airfields-us-mediator-role",
+        "image": "http://www.bing.com/th?id=ONUT.ClrDVn444abEGNBG6qol9Q&pid=News",
+        "timestamp": 1778501340.0
+    },
+    {
         "title_fa": "آیا ترامپ تهدید ایران هسته‌ای را تشدید کرده است؟ (بر اساس گزارشی از New York Magazine)",
         "title_en": "Has Trump Made the Threat of a Nuclear Iran Even Worse?",
         "summary": [
@@ -214,6 +268,24 @@
         "clean_url": "https://apnews.com/article/iran-us-israel-china-war-may-11-2026-0e9067769efea20e9d45e3d43158ad8c",
         "image": "http://www.bing.com/th?id=ONUT.AkcTrkxRr4ow8N_eNif5nQ&pid=News",
         "timestamp": 1778495760.0
+    },
+    {
+        "title_fa": "ترامپ: آتش‌بس ایران «روی دستگاه» است؛ بن‌بست با پیشنهاد «غیرقابل‌قبول» تهران تهدید جنگ را بالا برد",
+        "title_en": "Trump says Iran ceasefire is ‘on life support’ after rejecting ‘unacceptable’ peace proposal from Tehran",
+        "summary": [
+            "ترامپ اعلام کرد آتش‌بس در وضعیت بحرانی است و پس از رد پیشنهاد صلح «غیرقابل‌قبول» از سوی تهران، مسیر گفت‌وگو عملاً به بن‌بست رسیده است.",
+            "تهران در واکنش گفت پیشنهاد اخیر «منطقی و سخاوتمندانه» است، اما اختلاف نظر طرفین همچنان ادامه دارد و احتمال ازسرگیری تنش/درگیری دوباره بالا رفته است.",
+            "این کشمکش بر امنیت کریدور تجاری و اقتصاد جهانی (به‌ویژه گلوگاه تنگه) سایه انداخته و NBC News آن را عامل تداوم فشار بر اقتصاد جهانی در کنار تهدید تجدید درگیری توصیف می‌کند."
+        ],
+        "impact": "ادامه بن‌بست میان تهران و واشینگتن، ریسک شکست مذاکرات و برگشت به سناریوی تنش نظامی را افزایش داده و هزینه اقتصادی برای بازارهای جهانی را تشدید می‌کند.",
+        "tag": "بن‌بست",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/iran-us-peace-talks-trump-rejects-totally-unacceptable-hormuz-rcna344501",
+        "clean_url": "https://www.nbcnews.com/world/iran/iran-us-peace-talks-trump-rejects-totally-unacceptable-hormuz-rcna344501",
+        "image": "http://www.bing.com/th?id=ONUT.5Oo4UqK2ODMQk3-I8aGzMg&pid=News",
+        "timestamp": 1778493960.0
     },
     {
         "title_fa": "وضعیت جنگ و مذاکرات صلح آمریکا-ایران؛ پیامدهای فوری برای محاسبات تهران",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.bbc.com/news/live/c152zyj0599t",
         "image": "http://www.bing.com/th?id=ONUT.PnuWGa59IeJkzo9AbNbYRQ&pid=News",
         "timestamp": 1778051580.0
-    },
-    {
-        "title_fa": "ترامپ: در صورت نپذیرفتن توافق صلح، بمباران ازسر می‌شود؛ ایران جنگ به‌روزرسانی‌ها",
-        "title_en": "Trump says bombing will resume if Iran doesn't agree to peace: Iran war updates",
-        "summary": [
-            "بر اساس متن خبرِ با عنوان «Iran war updates»، ترامپ اعلام کرده در صورت عدم رسیدن ایران به «توافق صلح»، حملات بمباران ازسر خواهد شد.",
-            "این موضع‌گیری به‌صورت مستقیم بر مبنای یک شرط سیاسی/دیپلماتیک تنظیم شده و پیام آن، تشدید فشار نظامی برای وادار کردن تهران به پذیرش شروط است.",
-            "در متن ارسالی از USA TODAY جزئیات تکمیلی (زمان، مکان، اهداف یا واکنش رسمی ایران) ارائه نشده و همین محدودیت، اتکا به ادعاهای قابل‌تأییدِ بیشتر را سخت می‌کند."
-        ],
-        "impact": "تهدید ازسرگیری بمباران، اهرم فشار را برای تشدید تنش بالا می‌برد و می‌تواند ریسک عملیات‌های نظامی و بی‌ثباتی اقتصادی-سیاسی داخلی را افزایش دهد.",
-        "tag": "فشارنظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/05/06/iran-war-ceasefire-strait-hormuz-updates--live/89955261007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/05/06/iran-war-ceasefire-strait-hormuz-updates--live/89955261007",
-        "image": "http://www.bing.com/th?id=ONUT.kX9Hg-RvpnoQ6eJNqWOxPw&pid=News",
-        "timestamp": 1778050740.0
-    },
-    {
-        "title_fa": "ایران: عبور امن از تنگه هرمز ممکن است؛ همزمان ترامپ هشدار بمب‌گذاری بدون توافق می‌دهد",
-        "title_en": "Iran says ships can pass Strait of Hormuz as Trump warns of bombings without a deal",
-        "summary": [
-            "سپاه پاسداران می‌گوید پس از توقف تلاش آمریکا برای «هدایت نظامی» عبور کشتی‌های تجاری، عبور امن از تنگه هرمز فراهم خواهد شد؛ یعنی تهران پیام عملیاتی برای کنترل کریدور حیاتی می‌فرستد.",
-            "این موضع در واکنش مستقیم به اظهارات ترامپ مطرح شده که اعلام کرده «پیش از توافق» دست از این روند می‌کشد و همزمان درباره بمب‌گذاری هشدار می‌دهد؛ یک علامت تشدید سطح تهدیدات علیه ناوگان تجاری و فضای عملیاتی تنگه است.",
-            "چون بحث «هدایت نظامی» و «عبور با تضمین» مطرح است، ریسک محاسبه‌نادرست و برخورد محدود اما پرهزینه بالا می‌رود و هر دو طرف تلاش می‌کنند توان بازدارندگی خود را همزمان به بازار حمل‌ونقل القا کنند."
-        ],
-        "impact": "این تبادل پیام، نشانه تشدید رقابت کنترل تنگه هرمز است و می‌تواند هزینه بیمه و ریسک عملیاتی مسیرهای تجاری را بالا ببرد و احتمال حادثه را افزایش دهد.",
-        "tag": "هرمز",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates",
-        "clean_url": "https://www.npr.org/2026/05/06/nx-s1-5813497/iran-war-strait-hormuz-updates",
-        "image": "http://www.bing.com/th?id=ONUT.MpSAHHv_knRlg4sSdai7Uw&pid=News",
-        "timestamp": 1778048220.0
-    },
-    {
-        "title_fa": "تنش آمریکا-ایران: تهران «پیشنهاد» را بررسی می‌کند و ترامپ تهدید تازه مطرح می‌کند",
-        "title_en": "Iran War Live Updates: Tehran Says It Is Reviewing U.S. Proposal as Trump Makes New Threats",
-        "summary": [
-            "تهران اعلام کرده در حال بررسی پیشنهاد آمریکا است، اما همزمان ترامپ تهدید و اولتیماتوم جدیدی مطرح کرده؛ تضاد پیام‌های دولت آمریکا بر وضعیت جنگی و امکان تصمیم‌گیری فوری تهران سایه می‌اندازد.",
-            "طبق گزارش، این رویداد در امتداد پیام‌های متناقض مقامات آمریکایی است؛ نیویورک‌تایمز می‌گوید مارکو روبیو در روزهای قبل درباره وضعیت جنگ اظهاراتی داشته که با خط تهدید فعلی هم‌خوان نیست.",
-            "جمع این دو سیگنال—«بررسی پیشنهاد» از سوی تهران و «تهدید تازه» از سوی کاخ سفید—ریسک تشدید محاسبات غلط را بالا می‌برد و می‌تواند فضای تصمیم‌گیری در دو طرف را امنیتی‌تر کند."
-        ],
-        "impact": "این الگوی پیام‌های متناقض، هزینه محاسبه‌گری و مدیریت تنش را بالا می‌برد و احتمال تشدید چرخه اقدامات و واکنش‌ها را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
-        "clean_url": "https://www.nytimes.com/live/2026/05/06/world/iran-us-hormuz-oil",
-        "image": null,
-        "timestamp": 1778047260.0
-    },
-    {
-        "title_fa": "سکوت ایران در برابر ادعای ترامپ درباره توقف مأموریت تنگه هرمز؛ «پیشرفت بزرگ» و نبود واکنش رسمی",
-        "title_en": "Live Updates: Iran quiet as Trump says Strait of Hormuz effort paused amid \"great progress\" toward peace deal",
-        "summary": [
-            "طبق گزارش CBS News، ایران تا لحظه انتشار خبر واکنش عمومی به ادعای ترامپ درباره «پیشرفت بزرگ» در مسیر یک توافق صلح و «توقف» مأموریت هدایت کشتی‌ها از طریق تنگه هرمز نشان نداده است.",
-            "این یعنی سیگنال‌های علنی از سوی تهران درباره تغییر مسیر امنیتی/عملیاتی در تنگه هرمز یا پذیرش/رد مسیر مذاکره هنوز ارائه نشده و فضای عدم‌قطعیت ایجاد شده است.",
-            "با توجه به اینکه گزارش، «پیشرفت» و «توقف مأموریت» را به زبان ترامپ مطرح کرده اما پاسخ ایران را ثبت نکرده، فعلاً نمی‌توان درباره نتیجه واقعی یا ماهیت توافق ادعایی چیزی بیشتر از توقف/تعلیقِ مأموریت گفت."
-        ],
-        "impact": "تأخیر در واکنش رسمی تهران، نشان‌دهنده مدیریت رسانه‌ای و محاسبه هزینه-فایده است؛ اما فعلاً نشانه‌ای از تغییر قطعی موضع یا توافق نهایی در دست نیست.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-progress-peace-deal-strait-of-hormuz/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-progress-peace-deal-strait-of-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.CO5k7N0BsotcqvDkQnoG6Q&pid=News",
-        "timestamp": 1778043900.0
     }
 ]
