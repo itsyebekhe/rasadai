@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جنگ ایران، تورم را به بالاترین سطح نزدیک به سه سال رساند",
+        "title_en": "Iran war pushed inflation to highest rate in nearly three years",
+        "summary": [
+            "طبق گزارش واشنگتن پست، فشار ناشی از وضعیت جنگی باعث شده نرخ تورم به بالاترین رقم در نزدیک به سه سال برسد؛ یعنی هزینه‌های زندگی و فشار معیشتی وارد فاز جدیدی شده است.",
+            "این جهش تورم نشان‌دهنده فرسایش توان اقتصادی دولت در مدیریت بازار و مهار اثرات شوک‌های امنیتی/تجاری است؛ نتیجه مستقیم آن کاهش قدرت خرید و تشدید نارضایتی اجتماعی خواهد بود.",
+            "افزایش تورم در کنار فضای جنگ، هم ریسک رکود داخلی را بالا می‌برد و هم هزینه‌های حکمرانی را برای رژیم بیشتر می‌کند؛ زیرا منابع باید هم‌زمان صرف کنترل بحران و جبران ناکارآمدی‌ها شوند."
+        ],
+        "impact": "افزایش تورم به بالاترین سطح نزدیک به سه سال، نشانه ضعف ساختاری اقتصاد در برابر شوک‌های جنگی و افزایش فشار عمومی است.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdVI1NzY0UVRfTWxMUWZHUGtSZld4SHFJdXpaZ1FWYllUaDNpd1RkbnNvN3JRNFkxaWwzOTRNVGNYMHE2emh0TVItUVo3Y2JaS2FnV1I4d05lXzhRYS1ZRDB6N0ZCblVic1RKc0NlT0xlcldDUVFNMXBZZllKRVh2bm1FSTVZN0VrZ0gxU0VzMlg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdVI1NzY0UVRfTWxMUWZHUGtSZld4SHFJdXpaZ1FWYllUaDNpd1RkbnNvN3JRNFkxaWwzOTRNVGNYMHE2emh0TVItUVo3Y2JaS2FnV1I4d05lXzhRYS1ZRDB6N0ZCblVic1RKc0NlT0xlcldDUVFNMXBZZllKRVh2bm1FSTVZN0VrZ0gxU0VzMlg",
+        "image": null,
+        "timestamp": 1778622398.0
+    },
+    {
         "title_fa": "بن‌بست مذاکرات آتش‌بس؛ ادعای «کنترل» ترامپ و هگست درباره ایران و تنگه هرمز",
         "title_en": "With ceasefire talks stalled, Trump and Hegseth claim ‘control’ over Iran and Strait of Hormuz",
         "summary": [
@@ -196,6 +214,24 @@
         "clean_url": "https://www.npr.org/2026/05/12/nx-s1-5818279/inflation-cpi-gas-prices-housing-fuel-iran-war",
         "image": null,
         "timestamp": 1778597040.0
+    },
+    {
+        "title_fa": "پنتاگون در حال بررسی تغییر نام عملیات جنگی علیه ایران از «Sledgehammer» در صورت فروپاشی آتش‌بس",
+        "title_en": "Pentagon considering renaming Iran war ‘Sledgehammer’ if ceasefire collapses",
+        "summary": [
+            "یک مقام کاخ سفید به NBC News گفته در صورت شکست آتش‌بس، هر عملیات جنگی جدید علیه ایران با «نام و عملیات جدید» انجام می‌شود، نه لزوماً ادامه مستقیم با نام فعلی.",
+            "این خبر بیشتر جنبه عملیاتی/ارتباطی دارد: تمرکز روی چارچوب اجرای اقدام نظامی و نحوه برچسب‌گذاری آن در سیاست امنیتی آمریکا است، نه ارائه جزئیات درباره نوع حمله یا زمان‌بندی مشخص.",
+            "با وجود نبود جزئیات اجرایی، نفس «برنامه‌ریزی برای سناریوی شکست آتش‌بس» نشان‌دهنده آماده‌باش و احتمال جهش دوباره تنش نظامی در صورت ناکامی روند سیاسی است."
+        ],
+        "impact": "تغییر نام عملیات در سناریوی فروپاشی آتش‌بس، از آمادگی آمریکا برای بازگشت به فاز عملیات نظامی حکایت می‌کند و ریسک تشدید سریع تنش را بالا می‌برد.",
+        "tag": "ایالات_متحده",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/politics/national-security/pentagon-considering-re-naming-iran-war-sledgehammer-ceasefire-collaps-rcna344630",
+        "clean_url": "https://www.nbcnews.com/politics/national-security/pentagon-considering-re-naming-iran-war-sledgehammer-ceasefire-collaps-rcna344630",
+        "image": "http://www.bing.com/th?id=ONUT.r9_Q1oTAMw1gGOMy0Q_AQQ&pid=News",
+        "timestamp": 1778593860.0
     },
     {
         "title_fa": "اتهام: اسرائیل در جریان جنگ ایران، یک پایگاه مخفی در عراق اداره کرده است",
@@ -646,6 +682,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUm9aRzMzM0wxWk0zMFBSVXlLTUowbzZ6Z1VrRGVkbWctR09laUh1M1JIU3hvV2tIMWpMYzlVMzZvM0E0WEZnZ2ZMcVBSU0o4cFg1TkZ5YzdjeExJMXVQZ3ptSmlwZEVVZDY1SlRnTEc0T2Mxd1NGWmdiNjVzelVuWU9nSVJDT013ZVozVXFpal90VVJpYXNqMlZnVzFtSTVkZWpsOC1EdzhJbm5IWm5PUzcwdWfSAboBQVVfeXFMTWJXb1Q1cXlqRG1kMXpiQ2dBbUxhRlVjd09KZ0JvNDduM1Y5V1Y3QWxhOFlXeWNjbjN1NVNVeWQwTmtYZm9OSTh5bmFseVhnVTZQMEx1ZkF2bk1fTzZTYlBvejBHNHRGQ1JoVm1mRXNzNDU2ZlNIcFRzcEt5S3o2UzlwanRxa0V1aTB6LW1kWGVlNFhLZThsLVFzdlJoUTlDcENOUTBMSUVnSWFYU0VIZl9lQkNpdmw5OE93",
         "image": null,
         "timestamp": 1778555219.0
+    },
+    {
+        "title_fa": "ترامپ «غبار هسته‌ای» را مطرح می‌کند؛ پرسش درباره سرنوشت مواد هسته‌ای ایران در سایه ادعای بمباران ژوئن ۲۰۲۵",
+        "title_en": "What will happen to Iran's nuclear material?",
+        "summary": [
+            "رئیس‌جمهور آمریکا، دونالد ترامپ، مواد هسته‌ای را با تعبیر «nuclear dust» توصیف می‌کند و ادعا دارد بمباران ژوئن ۲۰۲۵ برنامه هسته‌ای ایران را «نابود» کرده است.",
+            "مبنای گزارش، طرح این ادعاست که قرار است روشن شود «مواد هسته‌ای» دقیقاً چه سرنوشتی پیدا کرده‌اند—اما متن صرفاً به ادعای ترامپ اشاره می‌کند و جزئیات اثبات‌شده ارائه نمی‌دهد.",
+            "این چارچوب عملاً یک سناریوی فشار خارجی/روانی ایجاد می‌کند: اگر ادعا درست باشد، شکاف در توان هسته‌ای به‌صورت ساختاری تشدید می‌شود؛ اگر درست نباشد، بی‌اعتباری روایت واشنگتن و ابهام راهبردی برای ارزیابی وضعیت واقعی برنامه ایجاد می‌شود."
+        ],
+        "impact": "این نوع روایت آمریکا می‌تواند هم در صورت صحت، ظرفیت هسته‌ای را به‌طور عملی تضعیف کند و هم در صورت عدم صحت، بر تصمیم‌گیری راهبردی و اعتماد عمومی درباره وضعیت واقعی مواد اثر منفی بگذارد.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Business Standard",
+        "url": "https://www.tbsnews.net/world/what-will-happen-irans-nuclear-material-1436856",
+        "clean_url": "https://www.tbsnews.net/world/what-will-happen-irans-nuclear-material-1436856",
+        "image": null,
+        "timestamp": 1778552940.0
     },
     {
         "title_fa": "تأمل ترامپ درباره اقدام نظامی علیه ایران در حالی که آتش‌بس «روی نوار مرگ» است (Axios)",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.nj.com/politics/2026/05/trump-tries-to-defend-length-of-iran-war-but-critics-arent-buying-it.html",
         "image": "http://www.bing.com/th?id=ONUT.-hhDh_BDcOtp8lKb5WeZIQ&pid=News",
         "timestamp": 1778138760.0
-    },
-    {
-        "title_fa": "مجلس آمریکا «بارِت» را تصویب کرد: سقف ۹۰ روزه برای عملیات نظامی در ایران",
-        "title_en": "Barrett bill greenlights, limits military operations in Iran to 90 days",
-        "summary": [
-            "بر اساس متن منتشرشده، لایحه «بارِت» اجازه عملیات نظامی علیه ایران را مشروط و محدود می‌کند: سقف زمانی ۹۰ روزه برای عملیات.",
-            "این اقدام از منظر فشار خارجی، اهرم حقوقی/سیاسی جدیدی علیه روند تصمیم‌گیری نظامی واشینگتن ایجاد می‌کند و امکان تداوم یا گسترش عملیات بدون بازبینی را کاهش می‌دهد.",
-            "اطلاعات بیشتر مثل جزئیات دامنه عملیات، مجوزهای استثنا، یا واکنش رسمی ایران در متن ارائه‌شده وجود ندارد؛ بنابراین نمی‌توان درباره اثر عملی دقیق‌تر فراتر از «محدودیت زمانی ۹۰ روزه» نتیجه‌گیری قطعی کرد."
-        ],
-        "impact": "محدودسازی ۹۰ روزه عملیات نظامی، ریسک «بلندمدت شدن» درگیری و اتکای رژیم به استمرار فشار نظامی را محدود می‌کند، اما بدون جزئیات اجرایی نمی‌توان شدت اثر را دقیق سنجید.",
-        "tag": "تحریم‌/فشار_خارجی",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "The Detroit News",
-        "url": "https://www.detroitnews.com/story/news/politics/2026/05/07/tom-barrett-bill-military-operations-iran-congressional-approval-aumf/89972376007/",
-        "clean_url": "https://www.detroitnews.com/story/news/politics/2026/05/07/tom-barrett-bill-military-operations-iran-congressional-approval-aumf/89972376007",
-        "image": "http://www.bing.com/th?id=ONUT.MmnxVW0P9wPjO99zKauTrQ&pid=News",
-        "timestamp": 1778133720.0
-    },
-    {
-        "title_fa": "دو راهی «دیپلماسی یا جنگ»: شکاف در رهبری ایران بر سر مسیر برخورد با بحران",
-        "title_en": "Diplomacy or more war? Iran’s leaders are split",
-        "summary": [
-            "به گفته گزارش، رهبران ایران هم‌زمان برای «افزایش تنش» و «دیپلماسی» برنامه‌ریزی می‌کنند و فضای تصمیم‌گیری به سمت سناریوی تشدید حرکت دارد.",
-            "این گزارش می‌گوید نظارت‌های سنتی طیف مذهبی/روحانی بر فرماندهان سپاه تضعیف شده و این توازن داخلی برای مهار گزینه‌های تهاجمی از بین رفته است؛ نتیجه عملی آن کاهش کنترل سیاسی-نظارتی بر بازیگران نظامی است.",
-            "هم‌چنین موضوع در چارچوب «اختلاف داخلی» توصیف می‌شود: بخشی از رهبری به سمت گفت‌وگو/کاهش تنش متمایل است و بخشی دیگر آماده‌تر برای تشدید درگیری."
-        ],
-        "impact": "این شکاف درونی احتمال می‌دهد تصمیم‌های امنیتی و نظامی زودتر از مسیر دیپلماسی چیده شوند و ریسک خطای محاسبه در تهران بالا برود.",
-        "tag": "اختلاف_داخلی",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "The Economist",
-        "url": "https://www.economist.com/middle-east-and-africa/2026/05/07/diplomacy-or-more-war-irans-leaders-are-split",
-        "clean_url": "https://www.economist.com/middle-east-and-africa/2026/05/07/diplomacy-or-more-war-irans-leaders-are-split",
-        "image": "http://www.bing.com/th?id=ONUT.eBdVxV-kpFRFZPtC78BiRw&pid=News",
-        "timestamp": 1778130660.0
-    },
-    {
-        "title_fa": "حاکمان عرب نسبت به ایران همدلی ندارند؛ جنگ آمریکا-اسرائیل علیه ایران به شکلی یک‌طرفه در روایت‌هایشان برجسته شده",
-        "title_en": "Arab rulers have little sympathy for Iran",
-        "summary": [
-            "طبق گزارش اکونومیست، دولت‌های عربی (امیرنشین‌ها، پادشاهی‌ها، و نیز چهره‌های نظامی-ریاست‌جمهور) در تلاش‌اند افکار عمومی کشورهای خود را درباره جنگ آمریکا-اسرائیل علیه ایران «مدیریت» کنند و تبلیغات رسانه‌ای‌شان با این چارچوب همسو است.",
-            "این متن روی نبود همدلی سیاسی/رسانه‌ای حاکمان عرب نسبت به ایران تاکید می‌کند و نشان می‌دهد روایت غالب در شبکه‌های دولتی آن کشورها، ایران را در مرکز یک تهدید یا عامل بحران قرار می‌دهد، نه طرفی که مستحق همدردی باشد.",
-            "نتیجه عملی این رویکرد، کاهش هزینه سیاسیِ حمایت ضمنی از فشار خارجی و افزایش ظرفیت دشمنیِ تبلیغاتی علیه ایران در سطح افکار عمومی منطقه است؛ اما مقاله جزئیات عملیات یا سیاست‌های مشخص جدید ارائه نمی‌دهد."
-        ],
-        "impact": "این نوع مدیریت رسانه‌ای در جهان عرب، سرمایه سیاسی ایران را در افکار عمومی منطقه محدود می‌کند و زمینه را برای تحمل بیشتر فشار خارجی علیه تهران فراهم می‌سازد.",
-        "tag": "رسانه‌ای",
-        "urgency": 4,
-        "sentiment": -0.6,
-        "source": "The Economist",
-        "url": "https://www.economist.com/middle-east-and-africa/2026/05/07/arab-rulers-have-little-sympathy-for-iran",
-        "clean_url": "https://www.economist.com/middle-east-and-africa/2026/05/07/arab-rulers-have-little-sympathy-for-iran",
-        "image": "http://www.bing.com/th?id=ONUT.GbaabfVQrRGpa7NQGL3cTw&pid=News",
-        "timestamp": 1778130420.0
     }
 ]
