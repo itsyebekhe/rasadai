@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تشدید تهدید هسته‌ای: اعلام احتمال غنی‌سازی ۹۰٪ در صورت «حمله» دوباره",
+        "title_en": "Iran signals possible 90% uranium enrichment if attacked again",
+        "summary": [
+            "ابراهیم رضا اش/سخنگوی پارلمانی از «غنی‌سازی تا ۹۰٪» در واکنش به «حمله» دوباره صحبت کرده؛ سطحی که معمولاً به‌عنوان نزدیک به سطح تسلیحاتی تلقی می‌شود و عملاً ریسک تشدید سریع را بالا می‌برد.",
+            "گزارش به ذخیره‌سازی اشاره می‌کند: ایران بیش از ۴۰۰ کیلوگرم اورانیوم غنی‌شده تا ۶۰٪ دارد که از نظر فنی می‌تواند به «گام کوتاه» به سطوح بالاتر تبدیل شود؛ یعنی اهرم زمانی برای پیشروی به ۹۰٪ وجود دارد.",
+            "این ترکیب (تهدید سیاسی + ظرفیت ذخیره‌سازی ۶۰٪) نشان‌دهنده نگرانی از پیامدهای خارجی/امنیتی و تلاش برای بازدارندگی نمایشی است؛ اما هم‌زمان می‌تواند فشار بیرونی را جهشی کند و فضای سیاسی-اقتصادی را به سمت بحران ببرد."
+        ],
+        "impact": "اعلام امکان رسیدن به ۹۰٪، سطح ریسک راهبردی را بالا می‌برد و احتمال تشدید فشار خارجی و پیامدهای امنیتی فوری‌تر را افزایش می‌دهد.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "MSN",
+        "url": "https://www.msn.com/en-ca/news/other/iran-signals-possible-90-uranium-enrichment-if-attacked-again/gm-GMLEA7D2C2",
+        "clean_url": "https://www.msn.com/en-ca/news/other/iran-signals-possible-90-uranium-enrichment-if-attacked-again/gm-GMLEA7D2C2",
+        "image": null,
+        "timestamp": 1778705520.0
+    },
+    {
+        "title_fa": "نتانیاهو در میانه جنگ ادعایی با ایران، به‌صورت محرمانه به امارات رفت",
+        "title_en": "Netanyahu secretly visited UAE during war with Iran",
+        "summary": [
+            "بی‌بی‌سی گزارش می‌دهد نتانیاهو در دوره‌ای که رسانه‌ها و مقامات از «جنگ با ایران» صحبت کرده‌اند، به‌صورت محرمانه به امارات سفر کرده است؛ یعنی همکاری منطقه‌ای در سایه و بدون نمایش علنی انجام شده.",
+            "ماهیت مخفیانه سفر، بر اهمیت هماهنگی‌های عملیاتی/سیاسی میان اسرائیل و امارات در زمان تشدید تنش با ایران دلالت دارد، اما جزئیات اقدامات یا توافق‌های مشخص در متن گزارش ارائه نشده است.",
+            "این خبر بیش از هر چیز نشان می‌دهد رژیم حاکمیت ایران (و همچنین تهران به‌عنوان محور تنش) با یک جبهه هماهنگ منطقه‌ای مواجه است که می‌تواند در بحران‌ها از مسیرهای غیرعلنی تصمیم‌سازی و پشتیبانی کند."
+        ],
+        "impact": "سفر مخفیانه نتانیاهو به امارات در بازه تنش با ایران، احتمال هماهنگی‌های پشت‌پرده میان طرف‌های منطقه‌ای را بالا می‌برد و ریسک تشدید تنش را بیشتر می‌کند، بدون اینکه شواهدی از جزئیات توافق در همین متن ذکر شده باشد.",
+        "tag": "منطقه‌ای",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sdVNiMEk4LUxWOE95R0FVcnBPOU1HQmMzMGxRSXVpelF3bENVdS1aQ2NNR05MMFNQeXpHajdodG16c2JwZ01DTHk5bGk0VU5TdVBzQzlXVFIyZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sdVNiMEk4LUxWOE95R0FVcnBPOU1HQmMzMGxRSXVpelF3bENVdS1aQ2NNR05MMFNQeXpHajdodG16c2JwZ01DTHk5bGk0VU5TdVBzQzlXVFIyZw",
+        "image": null,
+        "timestamp": 1778699484.0
+    },
+    {
         "title_fa": "هشدار ترامپ و پاسخ تهران: فشار برای توافق یا «ویرانی» در برابر ادعای آمادگی برای جنگ دوباره",
         "title_en": "Trump: Iran must accept deal or face ruin; Iran claims ready for renewed war TV7 Israel News 13 May.",
         "summary": [
@@ -198,6 +234,60 @@
         "timestamp": 1778679240.0
     },
     {
+        "title_fa": "اعتراف ناتو به بقای توان موشکی ایران؛ ناکامی ادعاهای کاخ سفید و جنگی که هیچ هدفی را محقق نکرد",
+        "title_en": "Trump’s remarkable military failure shows abject fiasco of his Iran war",
+        "summary": [
+            "طبق گفته یک منبع ارشد ناتو به The Independent، دو ماه پس از بمباران مشترک آمریکا-اسرائیل، «قدرت موشکی ایران دست‌کم ۶۰٪» باقی مانده و این موضوع با ادامه حمله موشکی و پهپادی ایران به کشورهای حوزه خلیج فارس هم‌خوانی دارد؛ ادعاهای کاخ سفید درباره «ویران‌شدن» توان ایران با این ارزیابی در تضاد است.",
+            "این ارزیابی ضربه سیاسی به روایت پیروزی واشینگتن است: کاخ سفید گفته بود توان موشکی/نظامی ایران نابود می‌شود، اما اکنون گزارش می‌شود هیچ‌یک از اهداف اعلامی محقق نشده—نه فروپاشی رژیم و نه تغییر رفتار منطقه‌ای، و نه توقف برنامه هسته‌ای.",
+            "منبع گزارش می‌گوید پیامدهای عملی به نفع ایران بوده است: «مذاکره‌کنندگان پیش از حملات» کشته شده‌اند و «نهاد سپاه پاسداران دست‌نخورده مانده»؛ همچنین بسته شدن تنگه هرمز به جهش قیمت جهانی نفت بالای ۱۰۰ دلار در هر بشکه و اختلال در عرضه جهانی کود در فصل کاشت شمال منجر شده و اثرات اقتصادی جنگ را تشدید کرده است."
+        ],
+        "impact": "باقی‌ماندن بخش بزرگ توان موشکی ایران و ناکامی اهداف اعلامی آمریکا، اعتبار راهبرد جنگی واشینگتن را فرسوده و هزینه‌های اقتصادی آن را برای بازار جهانی انرژی و کشاورزی افزایش می‌دهد.",
+        "tag": "تحلیل",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/trump-remarkable-military-failure-shows-105739000.html",
+        "clean_url": "https://www.aol.com/articles/trump-remarkable-military-failure-shows-105739000.html",
+        "image": "http://www.bing.com/th?id=ONUT.fKVj-4CPIHHQJRxGg9cbSQ&pid=News",
+        "timestamp": 1778676240.0
+    },
+    {
+        "title_fa": "ترامپ دنبال کمک چین برای ایران است، اما پکن شاید منافع دیگری را در اولویت بگذارد",
+        "title_en": "Trump wants China's help on Iran. Beijing may have other ideas",
+        "summary": [
+            "تحلیلگران می‌گویند شی جین‌پینگ ممکن است به کانال‌دادن تهران برای بازگشت به میز مذاکره تن بدهد، اما احتمالاً حاضر به کاهش یا قطع حمایت اقتصادی چین از «مهم‌ترین شریک اقتصادی» خود نخواهد بود.",
+            "این برداشت نشان می‌دهد که چین در رویکرد خود به ایران صرفاً تابع فشار واشنگتن نخواهد بود و تصمیم‌ها را بر اساس محاسبات منافع اقتصادی و پایداری روابط تجاری تنظیم می‌کند.",
+            "نتیجه عملی برای مسیر مذاکره این است که هم‌زمانیِ خواست آمریکا برای مهار ایران با محدودیت‌های چین در معامله بر سر حمایت اقتصادی، می‌تواند سرعت و میزان تغییر رفتار تهران را محدود کند."
+        ],
+        "impact": "این شکاف بین هدف سیاسی آمریکا و اولویت‌های اقتصادی چین، احتمالاً اهرم فشار مؤثر بر رژیم ایران را کاهش می‌دهد و مسیر مذاکره را کندتر و کم‌اثرتر می‌کند.",
+        "tag": "چین",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
+        "clean_url": "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13",
+        "image": "http://www.bing.com/th?id=ONUT.3yhdxZeHSbNPQ31S_ahHog&pid=News",
+        "timestamp": 1778673720.0
+    },
+    {
+        "title_fa": "ایران: بار دیگر بن‌بست بررسی قطعنامه اختیارات جنگ در سنای آمریکا و تشدید شکنندگی آتش‌بس",
+        "title_en": "Iran live updates: Senate again fails to advance war powers resolution",
+        "summary": [
+            "طبق گزارش ABC7 KABC، ایران و آمریکا دوباره بر سر نحوه پایان جنگ به بن‌بست خوردند؛ این وضعیت هم‌زمان با «شکافی شدن روزافزون آتش‌بس» رخ داده است.",
+            "گزارش می‌گوید در روزهای اخیر میان دو طرف تبادل آتش صورت گرفته که نشان می‌دهد کانال‌های سیاسی برای توقف درگیری یا تضمین آتش‌بس کارایی لازم را ندارند.",
+            "در همان چارچوب، سنای آمریکا نیز «بار دیگر» نتوانسته قطعنامه اختیارات جنگ را جلو ببرد؛ این یعنی ابزار تصمیم‌گیری/مهار یا تنظیم رویکرد واشنگتن، در کنگره به نتیجه نرسیده و عدم‌قطعیت راهبردی ادامه پیدا می‌کند."
+        ],
+        "impact": "بن‌بست سیاسی واشنگتن-تهران همراه با تبادل آتش، احتمال تداوم یا تشدید درگیری را بالا می‌برد و برای هر دو طرف هزینه‌ سیاسی کنترل‌گری را بیشتر می‌کند.",
+        "tag": "آتش_بس",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ABC7 KABC",
+        "url": "https://abc7.com/live-updates/iran-war-trump-ceasefire-gas-prices-tax-project-freedom/19081855/",
+        "clean_url": "https://abc7.com/live-updates/iran-war-trump-ceasefire-gas-prices-tax-project-freedom/19081855",
+        "image": "http://www.bing.com/th?id=ONUT.ygmAH5WQ_mlrRYZEsM8q1A&pid=News",
+        "timestamp": 1778673300.0
+    },
+    {
         "title_fa": "بن‌بست دیپلماسی و گزینه‌های پرهزینه علیه ایران در دستور کار ترامپ",
         "title_en": "Trump faces slew of ‘bad options’ on Iran as diplomacy falters",
         "summary": [
@@ -214,6 +304,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbzdXTGsxTklkQWsxeEEzWDdITnFIVVR5M1pUYWFYblVlNHlKVTBYSzFZN0lwZmxaaU4zNGg5OENyWjI2YTlJcG5CWnNtV3FZUEw0aHJtSS1DR3MtNW9JT192NThUdkhUSlRxdjhKTXM4Z2o3RUJQRW14ejhXNEFtNW42ZHdMNjdnV29xbnpra1MxZ3JibWROVlpjZTM0cDVVRTJn0gGoAUFVX3lxTE9KSVhPTVVwc3hWZ0dmYnJRX056SzNqNHNXT1A4eFZPVy00U19IQzBhZmJUMjZXMmFuS254TWcxVENOempKUi1YS1E1NFlkbklLNXZKTFF2TzdJWmhUYXY3RVBPLVBpTm1mX2J0Vk9QR29DdkdvaXVITW16XzZaXzNCRFRKZHRlYW14cUtDS3dKN2k2UGVpdVU3YmQzT095UDJ4Z2tfRGZCZw",
         "image": null,
         "timestamp": 1778672773.0
+    },
+    {
+        "title_fa": "واشنگتن‌اکزامینر: جنگ ایران—۱۱ هفته، اما روایت‌ها در داخل آمریکا متناقض است",
+        "title_en": "Why is there an Iran war?",
+        "summary": [
+            "خبر به این واقعیت اشاره می‌کند که جنگ «آمریکا-اسرائیل علیه ایران» وارد یازدهمین هفته شده، در حالی‌که دونالد ترامپ و مقام‌های ارشد دولت آمریکا «دلایل متفاوت» برای آغاز و ادامه آن ارائه کرده‌اند.",
+            "این اختلاف روایت‌ها به خودِ چارچوب تصمیم‌گیری و پیام‌رسانی آمریکا ضربه می‌زند و نشان می‌دهد هدف‌گذاری ثابت و یک‌دست از سوی کاخ سفید روشن و قابل پیگیری نیست.",
+            "مطلب فقط در سطح کلی به «وجود جنگ» و جابه‌جایی علت‌ها می‌پردازد و جزئیات قابل راستی‌آزمایی درباره اثرگذاری میدانی، تحریم‌های جدید، یا نقش مشخص بازیگران خارجی ارائه نمی‌کند."
+        ],
+        "impact": "تناقض در دلایل رسمی، هزینه سیاسی و قابلیت مدیریت بحران برای ادامه جنگ را بالا می‌برد، اما متن ارائه‌شده شواهد مشخصی از پیامدهای اقتصادی/تحریمی یا محورهای میدانی جدید نمی‌دهد.",
+        "tag": "تناقض",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/world/why-is-there-an-iran-war/ar-AA23787R",
+        "clean_url": "https://www.msn.com/en-us/news/world/why-is-there-an-iran-war/ar-AA23787R",
+        "image": "http://www.bing.com/th?id=ONUT.A7xMWMJgQoMSic6dI5XQ4g&pid=News",
+        "timestamp": 1778670374.0
+    },
+    {
+        "title_fa": "نیویورک‌تایمز: شرکت‌های چینی برای فروش مخفیانه سلاح به ایران برنامه‌ریزی می‌کنند؛ واشنگتن از «مسیرهای پنهان» خبر می‌دهد",
+        "title_en": "Chinese Firms Plot Secret Arms Sales to Iran, U.S. Officials Say",
+        "summary": [
+            "طبق گزارش نیویورک‌تایمز، برخی شرکت‌های چینی قصد دارند فروش تسلیحات به ایران را با ارسال از مسیر کشورهای واسط انجام دهند تا منشأ محموله‌ها پنهان بماند.",
+            "ابعاد این طرح، به‌جای معامله مستقیم، بر «پنهان‌کاری مبدا» و دور زدن شناسایی نظارتی تکیه دارد؛ یعنی ریسک حقوقی و امنیتی هم برای شرکت‌ها و هم برای زنجیره تجارت ایجاد می‌کند.",
+            "برای رژیم ایران این یک سیگنال است که کانال‌های تأمین خارجی هنوز فعال‌اند، اما هم‌زمان می‌تواند با فشارهای فزاینده واشنگتن و تشدید سازوکارهای تحریمی/کنترلی همراه شود."
+        ],
+        "impact": "افزایش معامله پنهان تسلیحاتی هم تاب‌آوری کوتاه‌مدت رژیم را بالا می‌برد و هم احتمال تشدید تحریم‌ها و کنترل‌های نظارتی را بیشتر می‌کند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html",
+        "clean_url": "https://www.nytimes.com/2026/05/13/us/politics/china-iran-weapons-trump-xi.html",
+        "image": "http://www.bing.com/th?id=ONUT.WNqIGAucNMr6BDmhczZ0KQ&pid=News",
+        "timestamp": 1778670360.0
     },
     {
         "title_fa": "پیاده‌روی روی طناب: سناریوهای برخورد ایران و آمریکا",
@@ -5272,131 +5398,5 @@
         "clean_url": "https://www.cnbctv18.com/world/iran-us-israel-war-ceasefire-live-updates-donald-trump-news-strait-of-hormuz-oil-crisis-lebanon-hezbollah-pakistan-mediation-west-asia-conflict-missile-drone-attacks-liveblog-ws-l-19901556.htm",
         "image": "http://www.bing.com/th?id=ONUT.jLCHShqAGcPV13yiRLnEsg&pid=News",
         "timestamp": 1778200740.0
-    },
-    {
-        "title_fa": "ادعای آمریکا درباره حمله به اهداف نظامی ایران و اصرار ترامپ بر دوام آتش‌بس هم‌زمان با تبادل آتش",
-        "title_en": "Iran War Live Updates: Trump Insists Cease-Fire Holds Despite Exchange of Fire",
-        "summary": [
-            "آمریکا اعلام کرده به دنبال «حمله به کشتی‌های آمریکایی» به ایران، به «اهداف نظامی ایران» حمله کرده است؛ در نتیجه چارچوب امنیتی آتش‌بس از همان ابتدا با تناقض عملی (تبادل آتش) گره خورده است.",
-            "ترامپ با وجود تبادل آتش، اصرار دارد آتش‌بس برقرار است؛ این شکاف میان پیام سیاسی واشنگتن و واقعیت میدانی می‌تواند هر دو طرف را در آستانه خطای محاسباتی قرار دهد.",
-            "هم‌زمان، تهران و واشنگتن بر سر یک «پیشنهاد صلح» اختلاف‌نظر دارند؛ این نشان می‌دهد کانال مذاکراتی در جریان است، اما اختلافات فعلاً مانع از کاهش تنش عملی نشده است."
-        ],
-        "impact": "ترکیب حمله‌های متقابل و جدال بر سر وضعیت آتش‌بس، ریسک تشدید سریع را بالا می‌برد و مذاکرات را به موضوعی شکننده و وابسته به رخدادهای کوتاه‌مدت تبدیل می‌کند.",
-        "tag": "آتش‌بس",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
-        "clean_url": "https://www.nytimes.com/live/2026/05/08/world/iran-strikes-trump-ceasefire-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.hvcQa0peVKWwH7Qtxlg0xQ&pid=News",
-        "timestamp": 1778197560.0
-    },
-    {
-        "title_fa": "درگیری آتش میان ناوهای آمریکا و ایران در تنگه هرمز؛ آزمون جدی برای آتش‌بس",
-        "title_en": "U.S. destroyers and Iran trade fire in Strait of Hormuz in serious test of ceasefire",
-        "summary": [
-            "طبق گزارش PBS، ناوهای آمریکایی و ایران در تنگه هرمز تبادل آتش داشته‌اند؛ این رویداد مستقیماً اعتبار آتش‌بس را به‌عنوان یک «آزمون جدی» زیر سؤال می‌برد.",
-            "این حادثه در نقطه‌ای رخ داده که هزینه اشتباه محاسباتی برای هر دو طرف بالاست؛ یعنی احتمال تشدید فوری و تبدیل درگیری محدود به یک بحران دریایی افزایش پیدا می‌کند.",
-            "در سطح راهبردی، چنین برخوردی معمولاً فشار سیاسی-عملی را از روی سازوکارهای توقف درگیری برمی‌دارد و نشان می‌دهد کنترل تنش‌ها در میدان، همچنان شکننده است."
-        ],
-        "impact": "این تبادل آتش می‌تواند زنجیره‌ای از اقدامات تلافی‌جویانه و افزایش آمادگی نظامی در منطقه ایجاد کند و آتش‌بس را عملاً فرسوده‌تر سازد.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXMyQ1JqNUZTMXduaGY4Z1NSMTgxVklUQ3ItZVd3VzV6blItakRsZnpPTDdVdGxSTjBseVNTQzE2R21lQmVBcDlnY1BrR1pmVmJVUFRJODNjNnlMYmd2X0gwYXZLX2N0OXVDNnlLa0d1a0ZCRVl1MDJzUWhxR2psemk1ZFNEUTJKeEpjU0Fzc29CX21lejVhM21tdkVXeHBzSDVMUWNVdFlMZXAwRnd4VUprZ0lscWpo?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTXMyQ1JqNUZTMXduaGY4Z1NSMTgxVklUQ3ItZVd3VzV6blItakRsZnpPTDdVdGxSTjBseVNTQzE2R21lQmVBcDlnY1BrR1pmVmJVUFRJODNjNnlMYmd2X0gwYXZLX2N0OXVDNnlLa0d1a0ZCRVl1MDJzUWhxR2psemk1ZFNEUTJKeEpjU0Fzc29CX21lejVhM21tdkVXeHBzSDVMUWNVdFlMZXAwRnd4VUprZ0lscWpo",
-        "image": null,
-        "timestamp": 1778194533.0
-    },
-    {
-        "title_fa": "ماموریت جنگی «Project Freedom» ترامپ علیه ایران عملاً خیلی زود متوقف شد",
-        "title_en": "Trump’s ‘Project Freedom’ Iran war mission was over almost as soon as it started",
-        "summary": [
-            "این گزارش می‌گوید ماموریت ادعایی جنگی ترامپ با عنوان «Project Freedom» علیه ایران، عملاً «تقریباً بلافاصله پس از شروع» پایان یافت.",
-            "محتوای خبر درباره جزئیات عملیاتی یا دستاوردهای میدانی ارائه نمی‌کند؛ بنابراین شکست در تحقق اهداف یا محدودیت‌های اجرایی/سیاسیِ اجرای مأموریت برجسته می‌شود.",
-            "در غیاب داده‌های مشخص از ضربه به زیرساخت‌های رژیم یا تحرکات نظامی تأییدشده، پیام اصلی گزارش، کوتاه‌بودن و بی‌نتیجه‌بودن طرح جنگی در سطح گزارش‌شده است."
-        ],
-        "impact": "کوتاه‌بودن عمر این مأموریت، نشانه ناپایداری و دودلی در مسیر فشار نظامی آمریکا علیه ایران در چارچوبی است که در گزارش ذکر شده.",
-        "tag": "جنگ",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Defense Priorities",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXVsbjNHckYzNzdLWGZ3elpRVzlXamt2VzFDWnZaOHlvMWdObDJObjhuQ3oxZHdwSXhpU2N0S0h0Q015a2NGYmJ4NTFVcEJUTXNZYnhRanpXdVZ5Q0ZlaUNINnFNdW40N0ZqUzg0elNhT0k2Q1ljWjdFWVpBaHNZTXQ4U3lvQkxYd3pHdzNlMy1YN1NMQ1VYSUlNRHlkOVFSeHdFQ0pIT2JBRXRqNmpiSVFBYzFXNnZnTVI5aQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXVsbjNHckYzNzdLWGZ3elpRVzlXamt2VzFDWnZaOHlvMWdObDJObjhuQ3oxZHdwSXhpU2N0S0h0Q015a2NGYmJ4NTFVcEJUTXNZYnhRanpXdVZ5Q0ZlaUNINnFNdW40N0ZqUzg0elNhT0k2Q1ljWjdFWVpBaHNZTXQ4U3lvQkxYd3pHdzNlMy1YN1NMQ1VYSUlNRHlkOVFSeHdFQ0pIT2JBRXRqNmpiSVFBYzFXNnZnTVI5aQ",
-        "image": null,
-        "timestamp": 1778193943.0
-    },
-    {
-        "title_fa": "ترامپ: آتش‌بس پابرجاست؛ تبادل آتش میان آمریکا و ایران ادامه دارد",
-        "title_en": "Trump says ceasefire remains after US and Iran exchange fire",
-        "summary": [
-            "به گزارش CNN، آمریکا و ایران پس از تبادل آتش، ادعا می‌کنند اهداف متفاوتی را زده‌اند: آمریکا می‌گوید تاسیسات نظامی مرتبط با حمله به ناوهایش در تنگه هرمز را هدف قرار داده، در حالی که نیروهای ایران می‌گویند حملات هوایی مناطق غیرنظامی را زده‌اند.",
-            "ترامپ می‌گوید آتش‌بس همچنان برقرار است، اما هشدار داده اگر ایران «به‌زودی» توافق را امضا نکند، حملات را «خیلی سخت‌تر و خیلی خشن‌تر» ادامه می‌دهد؛ همزمان ایران هنوز پاسخ نهایی به پیشنهاد آمریکا برای پایان جنگ را نهایی نکرده است.",
-            "هم‌زمان، امارات از دفاع در برابر «موج تازه» حملات از سوی ایران خبر داده و پاکستان نیز می‌گوید درباره بازگرداندن خدمه کشتی‌های توقیف‌شده توسط آمریکا (۱۱ پاکستانی و ۲۰ ایرانی) که نزدیک آب‌های سنگاپور هستند، با ایران و سنگاپور رایزنی کرده است."
-        ],
-        "impact": "این وضعیت نشان می‌دهد آتش‌بس بیش از یک توقف واقعی، در مرحله شکننده‌ی مدیریت ریسک است و تهدید تشدید، همراه با اختلاف روایت غیرنظامی/نظامی و گسترش تنش فرامرزی (امارات و پرونده توقیف کشتی‌ها) می‌تواند مسیر را به سمت برخورد مستقیم‌تر ببرد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/05/08/world/live-news/iran-war-news",
-        "clean_url": "https://edition.cnn.com/2026/05/08/world/live-news/iran-war-news",
-        "image": "http://www.bing.com/th?id=ONUT.LXkSTmpPBmvGupK7EjkAhg&pid=News",
-        "timestamp": 1778193780.0
-    },
-    {
-        "title_fa": "ایران مدعی حمله به ناوهای دریایی آمریکا پس از هدف قرار دادن نفتکش ایرانی شد",
-        "title_en": "Iran says it attacked US Navy ships after they targeted Iranian tanker",
-        "summary": [
-            "طبق ادعای ایران، پس از این‌که آمریکا نفتکش ایرانی را هدف قرار داده، ایران ناوهای دریایی آمریکا را مورد حمله قرار داده است؛ گزارش آل‌جزیره بر مبنای همین روایت طرف ایرانی است.",
-            "این ادعا نشان می‌دهد تنش دریایی بین ایران و آمریکا وارد فاز تقابلی مستقیم شده است، زیرا موضوع دیگر صرفاً حمایت نیابتی یا تهدید لفظی نیست و به اقدام عملی در دریا گره خورده است.",
-            "با توجه به ماهیت متقابل اتهام‌ها (هدف قرار دادن نفتکش و سپس حمله به ناوها)، احتمال تشدید سریع چرخه اقدام-پاسخ و افزایش ریسک درگیری گسترده‌تر بالا می‌رود، حتی اگر جزئیات عملیاتی در متن حاضر نیامده باشد."
-        ],
-        "impact": "در کوتاه‌مدت، این روایت اگر تأیید یا هم‌زمان با اقدامات واقعی همراه شود، ریسک درگیری مستقیم دریایی و تشدید تنش میان ایران و آمریکا را به شکل محسوسی افزایش می‌دهد.",
-        "tag": "تنش_دریایی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXdpUDF4N0J1aHYwaXZiYmpVUjUyb0dWX0NwYUVyTG0xb3lHblpZQUFpRHQ4MVMxdjhRbXBZb1NvWTJZazdwbHFWdEZLSzlLVllCUVFUeEZWZGFncmQ1ZGNTRGJUcm81YVpmVDlUYXZpOFNuQXc2ZXpwbUlqRGU4bjByVmF0cVVtemtLWmlPYVBPNUZ0SnJvbml5d1k3Vjg4UEVaakJySmRqdnhN0gGyAUFVX3lxTFBIelA3U09Wc0VFT3BKNkxVNW1xTUFTWnlZQmtrUlZ2V3ljeEJELVV5dkJSZEpQLU1CU2p5UWdfejBjbzRac2c1T2thbDJlS2lHcWFYMGpDNGowZFVVX0lqbDRXTTVRUXJzZE5HeE9LLWV3YW5Fa1JxWVZHLUVTQUROcDRoNG9SN2hrVzcxWERJamdiQUgwcVlnRWpXWlhGVXk4eGpRZ19abDRWRnhiczFOSkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXdpUDF4N0J1aHYwaXZiYmpVUjUyb0dWX0NwYUVyTG0xb3lHblpZQUFpRHQ4MVMxdjhRbXBZb1NvWTJZazdwbHFWdEZLSzlLVllCUVFUeEZWZGFncmQ1ZGNTRGJUcm81YVpmVDlUYXZpOFNuQXc2ZXpwbUlqRGU4bjByVmF0cVVtemtLWmlPYVBPNUZ0SnJvbml5d1k3Vjg4UEVaakJySmRqdnhN0gGyAUFVX3lxTFBIelA3U09Wc0VFT3BKNkxVNW1xTUFTWnlZQmtrUlZ2V3ljeEJELVV5dkJSZEpQLU1CU2p5UWdfejBjbzRac2c1T2thbDJlS2lHcWFYMGpDNGowZFVVX0lqbDRXTTVRUXJzZE5HeE9LLWV3YW5Fa1JxWVZHLUVTQUROcDRoNG9SN2hrVzcxWERJamdiQUgwcVlnRWpXWlhGVXk4eGpRZ19abDRWRnhiczFOSkE",
-        "image": null,
-        "timestamp": 1778192325.0
-    },
-    {
-        "title_fa": "بن‌بست یا معامله؟ مکثِ «پروژه آزادی» و تداوم محاصره تنگه هرمز میان آمریکا و ایران",
-        "title_en": "Deal or no deal? US and Iran standoff",
-        "summary": [
-            "رئیس‌جمهور دونالد ترامپ «پروژه آزادی» را متوقف کرده اما همچنان محاصره تنگه هرمز را نگه داشته و هم‌زمان ادعا شده مرحله تهاجمی جنگ علیه ایران پایان یافته؛ در عمل، کمک‌های دریایی آمریکا برای عبور نفتکش‌ها ادعایی بوده و کنترل کلیدی تنگه همچنان دست ایران است.",
-            "تهران یک «مکاتبه/یادداشت یک‌صفحه‌ای» برای واشنگتن داده که طبق گزارش‌ها ۳۰ روز برای مذاکره تعیین می‌کند: بازگشایی تنگه هرمز و (در چارچوب کلی) رفع/تسکین تحریم‌ها؛ واشنگتن اما می‌خواهد گفت‌وگو از برنامه هسته‌ای آغاز شود، در حالی‌که ایران شرط می‌گذارد پیش از طرح موضوع هسته‌ای، باید «توافق جامع» با تضمین حفظ حاکمیت و عدم تهاجم نظامی دوباره حاصل شود.",
-            "نتانیاهو بلافاصله دستور حملات تازه به لبنان صادر کرده چون توقف جنگ در لبنان جزو مطالبات تهران برای پایان‌دادن به فشارهاست؛ در کنار آن، سپاه پاسداران از «همکاری» مالکان کشتی‌ها برای عبور مطابق مقررات ایران تشکر کرده و «عبور امن و پایدار» را به «رویه‌های جدید» گره زده که به معنی دریافت عوارض یک دلار به ازای هر بشکه (پرداخت‌شده به واحد پولی چینی) عنوان شده است."
-        ],
-        "impact": "این وضعیت نشان می‌دهد آمریکا برای جلوگیری از تشدید سریع، وارد کانال مذاکره شده اما با حفظ ابزار فشار، تلاش می‌کند امتیازها را به سمت دستور کار هسته‌ای و تغییرات ساختاری مطلوب خود بکشد.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "Counterfire",
-        "url": "https://www.counterfire.org/article/deal-or-no-deal-us-and-iran-standoff/",
-        "clean_url": "https://www.counterfire.org/article/deal-or-no-deal-us-and-iran-standoff",
-        "image": "https://uploads.counterfire.org/uploads/2026/05/trump-mbs-sv-lg.jpg",
-        "timestamp": 1778190120.0
-    },
-    {
-        "title_fa": "ایران پیشنهاد آمریکا را بررسی می‌کند؛ تهدید ترامپ به حملات هوایی",
-        "title_en": "Iran weighs US proposal as Trump threatens airstrikes: Live updates",
-        "summary": [
-            "مطلب به‌جای ارائه جزئیات خبری، صرفاً صفحه فنیِ «عدم پشتیبانی مرورگر» را نمایش می‌دهد و هیچ اطلاعات قابل راستی‌آزمایی درباره محتوای پیشنهاد آمریکا یا پاسخ ایران ارائه نمی‌کند.",
-            "با وجود تیتر و اشاره به «تهدید ترامپ به حملات هوایی»، متن ارائه‌شده از منبع، هیچ داده مشخصی (زمان، اهداف، واکنش رسمی، یا شواهد) در دسترس قرار نمی‌دهد.",
-            "بنابراین نمی‌توان درباره پیامدهای تحریم‌ها، فعالیت نیروهای نیابتی، وضعیت اقتصاد یا نشانه‌های ناآرامی داخلی بر اساس متن فعلی نتیجه‌گیری کرد."
-        ],
-        "impact": "در وضعیت فعلی فقط می‌توان گفت فضای تهدید نظامی مطرح شده، اما چون متن خبری ارائه نشده، ارزیابی راهبردی از پیامدهای واقعی قابل اتکا نیست.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/05/07/iran-war-trump-israel-lebanon-updates--live/89971678007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/05/07/iran-war-trump-israel-lebanon-updates--live/89971678007",
-        "image": "https://www.usatoday.com/gcdn/authoring/authoring-images/2026/05/06/USAT/89963551007-20260506-t-170238-z-1221059145-rc-2-s-3-lamxfrr-rtrmadp-3-usatrump.JPG?crop=4564,2568,x0,y237&width=3200&height=1801&format=pjpg&auto=webp",
-        "timestamp": 1778189880.0
     }
 ]
