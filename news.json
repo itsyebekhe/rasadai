@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "پیشروی عملیات‌های اسرائیل-آمریکا و ضربات متقابل؛ ادعای کشته‌شدن رهبران ارشد در تهران و تداوم حملات بالستیک",
+        "title_en": "Live Updates: Latest from Israel, Iran, and Middle East",
+        "summary": [
+            "طبق گزارش، عملیات‌های «Roaring Lion» و «Epic Fury» از ۲۸ فوریه آغاز شد با ادعای ایجاد شرایط برای تغییر رژیم، و این متن ادعا می‌کند علی خامنه‌ای در یک حمله اسرائیل به یک پناهگاه در تهران کشته شده است.",
+            "ایران نیز در پاسخ، تیراندازی/حمله به نقاطی در سراسر خاورمیانه از جمله کشورهای حاشیه خلیج فارس و پایگاه‌های نظامی آمریکا در منطقه را گزارش می‌کند، در حالی که تلفات در اسرائیل از حملات بالستیک «تا حداقل ۷٬۶۹۳ مجروح و ۱۲ کشته» ذکر شده است.",
+            "هم‌زمان اعلام می‌شود در چارچوب درگیری‌ها، ۱۳ سرباز آمریکایی نیز کشته شده‌اند (طبق CENTCOM) و یک توافق آتش‌بس در ۷ آوریل اعلام و در ۸ آوریل اجرا شده، اما ادامه تلفات حملات نشان می‌دهد اجرای آن محل مناقشه یا شکننده بوده است."
+        ],
+        "impact": "کشته‌شدن مقام ارشد و فرماندهان ارشد همراه با تداوم تلفات سنگین، ساختار تصمیم‌گیری و توان ضربه‌زنی رژیم را تحت فشار مستقیم قرار می‌دهد و احتمال تشدید چرخه انتقام را بالا می‌برد.",
+        "tag": "تشدیدتنش",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-05-14/live-updates-896134",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-05-14/live-updates-896134",
+        "image": null,
+        "timestamp": 1778800026.0
+    },
+    {
+        "title_fa": "رد نزدیک در مجلس نمایندگان آمریکا درباره محدودسازی اختیارات جنگی ترامپ علیه ایران",
+        "title_en": "US House narrowly rejects bid to rein in Trump Iran war powers",
+        "summary": [
+            "طبق گزارش Reuters، مجلس نمایندگان آمریکا با اختلاف بسیار کم، طرحی را برای محدود کردن اختیارات جنگی ترامپ درباره جنگ علیه ایران رد کرد.",
+            "این تصمیم به دولت اجازه می‌دهد همچنان از ظرفیت اختیارات جنگی برای اقدام علیه ایران استفاده کند، بدون اینکه چارچوب سخت‌گیرانه‌ای که طراحان می‌خواستند برقرار شود.",
+            "نتیجه عملی، افزایش احتمال تداوم یا تشدید فشار نظامی-عملیاتی در سطح منطقه است؛ چون مانع داخلی کمتری در برابر استفاده از ابزارهای جنگی ایجاد شده است."
+        ],
+        "impact": "رد طرح محدودسازی اختیارات جنگی، سطح آزادی عمل دولت آمریکا را برای اقدامات علیه ایران بالا می‌برد و ریسک چرخه تنش و درگیری را بیشتر می‌کند.",
+        "tag": "آمریکا",
+        "urgency": 8,
+        "sentiment": -0.25,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU09HM0Z4REpPVkhWTGF4ZHVBWGlmU0p5MmxRNGdJTDBvTEpEOFlCazEzMXkzemhNazNobFJGd25ZbjZwNm5mdWtFVUxLd2Zocm1aSVlONjZnTkdHT215UGhuaUg1VzQ5djVSOGc1eFZRd0JJM1cxRG1tMHJqdDI1ZGJKTHloaFZNZFBrTzZvSUM2TDVUWUY0ZlVkc09rU21NZldJ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU09HM0Z4REpPVkhWTGF4ZHVBWGlmU0p5MmxRNGdJTDBvTEpEOFlCazEzMXkzemhNazNobFJGd25ZbjZwNm5mdWtFVUxLd2Zocm1aSVlONjZnTkdHT215UGhuaUg1VzQ5djVSOGc1eFZRd0JJM1cxRG1tMHJqdDI1ZGJKTHloaFZNZFBrTzZvSUM2TDVUWUY0ZlVkc09rU21NZldJ",
+        "image": null,
+        "timestamp": 1778798545.0
+    },
+    {
         "title_fa": "چالش جدی بر سر تأمین بودجه بیشتر برای درگیری با ایران؛ سناتورهای جمهوری‌خواه هشدار می‌دهند",
         "title_en": "Additional money for Iran conflict faces challenges, GOP senators warn",
         "summary": [
@@ -70,6 +106,24 @@
         "clean_url": "https://www.aol.com/news/president-trump-says-chinas-president-191003272.html",
         "image": null,
         "timestamp": 1778788450.0
+    },
+    {
+        "title_fa": "پنج پیامد ماندگار جنگ ایران و تغییر توازن در خاورمیانه",
+        "title_en": "Five ways the Iran war will forever alter the Middle East",
+        "summary": [
+            "مقاله «Atlantic Council» چارچوبی ارائه می‌کند که نشان می‌دهد جنگ ایران می‌تواند نظم امنیتی خاورمیانه را به‌صورت ساختاری بازتعریف کند؛ اما متن ارسالی هیچ ادعای مشخص و قابل راستی‌آزمایی (اقدامات، تاریخ‌ها، یا رویدادهای معین) برای تفکیک دقیق «پنج مورد» در اختیار نمی‌گذارد.",
+            "از منظر فشار خارجی و تحریم/کندسازی اقتصادی، یک جنگ منطقه‌ای معمولاً به تشدید ریسک‌های سرمایه‌گذاری، اختلال در تجارت و افزایش هزینه‌های مالی منجر می‌شود؛ با این حال چون محتوای جزئی مقاله در پیام شما نیامده، نمی‌توان ارتباط مستقیم به «اقدامات جدید» یا «قوانین مشخص» را به رژیم نسبت داد.",
+            "در بعد داخلی، هزینه‌های جنگ برای حکومت معمولاً خود را در تضعیف توان مدیریت اقتصادی و افزایش نارضایتی عمومی نشان می‌دهد؛ ولی چون هیچ داده‌ای از متن مقاله (آمار، گزارش میدانی، یا نشانه‌های اعتراض) ارائه نشده، باید این بخش را در سطح «الگوی احتمالی» نگه داشت، نه نتیجه‌گیری قطعی."
+        ],
+        "impact": "این مطلب بیشتر یک نقشه‌راه تحلیلی برای تغییرات آینده است تا یک گزارش رویداد-محور؛ بدون متن کامل، نمی‌توان پیامدهای مشخص را دقیق و قابل راستی‌آزمایی به جنگ و تصمیم‌های رژیم نسبت داد.",
+        "tag": "تحلیل",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Atlantic Council",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemQtcXBhSlRSQk5vMHZRWTNEb2czT3FGSDZjb0tyY2xBckhQeFBXbGRpZWJDb3FfV1BQaHFTVTJCV3k4VE5TQkZMcDUzM1BUQTRadTdsMTFTSHhRU2VXR1ZiVDdRSkRyNTI1TXA1cjEwWU9TQlFLWnVLbjl5TDNjd3otRGRGNWxLRXh3QWU2dDY3TmxJOGZRVDl6TFR5ekZNQzIwRDRfVllvZnc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemQtcXBhSlRSQk5vMHZRWTNEb2czT3FGSDZjb0tyY2xBckhQeFBXbGRpZWJDb3FfV1BQaHFTVTJCV3k4VE5TQkZMcDUzM1BUQTRadTdsMTFTSHhRU2VXR1ZiVDdRSkRyNTI1TXA1cjEwWU9TQlFLWnVLbjl5TDNjd3otRGRGNWxLRXh3QWU2dDY3TmxJOGZRVDl6TFR5ekZNQzIwRDRfVllvZnc",
+        "image": null,
+        "timestamp": 1778788380.0
     },
     {
         "title_fa": "۱۱ هفته بعد، آمریکا هنوز در حال بررسی حمله مرگبار به مدرسه دخترانه در ایران است",
@@ -234,6 +288,24 @@
         "timestamp": 1778770763.0
     },
     {
+        "title_fa": "خبر: یک کشتی در نزدیکی امارات توقیف و به سمت آب‌های ایران هدایت شد؛ هم‌زمان ترامپ درباره ایران با شی گفت‌وگو می‌کند",
+        "title_en": "Ship reported seized off UAE as Trump discusses Iran with Xi",
+        "summary": [
+            "رویترز گزارش می‌دهد یک کشتی «توسط پرسنل ایرانی» در نزدیکی امارات توقیف شده و در مسیر انتقال به آب‌های ایران قرار گرفته است.",
+            "این اقدام هم‌زمان با اعلام کاخ سفید مطرح می‌شود که دونالد ترامپ با شی درباره ایران گفت‌وگو دارد؛ یعنی تهران می‌کوشد فشار میدانی را با پیام‌سازی دیپلماتیک هم‌زمان کند.",
+            "از منظر راهبردی، توقیف یک شناور در آب‌های نزدیک به امارات به افزایش ریسک برای کشتیرانی و تشدید تنش عملی در منطقه منجر می‌شود، در حالی که می‌تواند قدرت چانه‌زنی ایران را در مذاکرات پیش رو ظاهراً بالا ببرد."
+        ],
+        "impact": "این رویداد یک پله تنش امنیتی در تنگه‌ها و مسیرهای تجاری نزدیک به امارات ایجاد می‌کند و احتمال واکنش‌های سیاسی/عملی از سوی بازیگران منطقه‌ای و آمریکا را بالا می‌برد.",
+        "tag": "توقیف",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/markets/ship-reported-seized-off-uae-as-trump-discusses-iran-with-xi/ar-AA23dZPn",
+        "clean_url": "https://www.msn.com/en-us/money/markets/ship-reported-seized-off-uae-as-trump-discusses-iran-with-xi/ar-AA23dZPn",
+        "image": "http://www.bing.com/th?id=ONUT.9oClSlEjVw9V61qHavzlCA&pid=News",
+        "timestamp": 1778770731.0
+    },
+    {
         "title_fa": "گفت‌وگوی ترامپ و شی درباره تنگه هرمز همزمان با عبور ناوگان تجاری چین",
         "title_en": "Trump, Xi discuss Strait of Hormuz as Chinese vessels transit key waterway",
         "summary": [
@@ -340,6 +412,24 @@
         "clean_url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
         "image": "http://www.bing.com/th?id=ONUT.zn4U-HXeP2uLVwAGUUqPrQ&pid=News",
         "timestamp": 1778762220.0
+    },
+    {
+        "title_fa": "ادعای تخریب روایت تلفات غیرنظامی در ایران؛ فرمانده ارشد آمریکا در جلسه سنا پاسخ می‌دهد",
+        "title_en": "Trump Administration Live Updates: Top Commander Dismisses Reports of Civilian Deaths in Iran",
+        "summary": [
+            "براد کوپر، فرمانده ارشد فرماندهی مرکزی آمریکا (CENTCOM)، در حال شهادت دادن در کمیته نیروهای مسلح سنای آمریکا است و به گزارش‌ها درباره تلفات غیرنظامیان در ایران واکنش نشان می‌دهد.",
+            "این اظهارات در چارچوب وضعیت «آتش‌بس شکننده» میان آمریکا و ایران مطرح می‌شود و نشان می‌دهد مدیریت روایت‌ها در واشنگتن بخشی از کنترل تنش عملیاتی است.",
+            "با توجه به ادامه‌ یافتن آتش‌بس، تمرکز فعلی روی مهار تبعات انسانیِ ادعایی و جلوگیری از تشدید فشار داخلی/بین‌المللی است؛ اما متن صرفاً به «رد گزارش‌ها» اشاره دارد و جزئیات و ارقام را ارائه نمی‌کند."
+        ],
+        "impact": "رد یا بی‌اعتبارسازی گزارش‌های تلفات غیرنظامی می‌تواند سرعتِ محکومیت سیاسی و فشار رسانه‌ای را کاهش دهد، اما در کنار آتش‌بس شکننده، ریسک بی‌اعتمادی و لغزش به دور تازه درگیری را بالا نگه می‌دارد.",
+        "tag": "آمریکا-ایران",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/05/14/us/trump-news",
+        "clean_url": "https://www.nytimes.com/live/2026/05/14/us/trump-news",
+        "image": "http://www.bing.com/th?id=ONUT.kgdwx_B4YNcybSxdz9LIrA&pid=News",
+        "timestamp": 1778760300.0
     },
     {
         "title_fa": "توافق چین و آمریکا درباره غیرنظامی‌سازی هرمز؛ حرکت تاکتیکی برای مهار تنش",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjUWZzTU1NemNnNUVfOWgwRmhxcEZ0QlAwanJPSmFpUkRIbkdPaE02TGNuODBFaEVRazlNU3U4Mkp3QjE3d01WYl9ISTFBSVhWRXE3UFhpeGFFemlGSzNKOE1NMXJSTGRZMnBqcmlIOW4zU0U",
         "image": null,
         "timestamp": 1778300580.0
-    },
-    {
-        "title_fa": "تغییر میدان جنگ ایران؛ تکرار همان شعارهای ترامپ",
-        "title_en": "The Iran war has changed. Trump’s talking points have not",
-        "summary": [
-            "به‌رغم تغییر واقعی جنگ از «حملات شوک و هراس» به یک آتش‌بس یک‌ماهه با بلوکه‌کردن پرهزینه از سوی دو طرف، ترامپ همچنان همان پیام‌های تکراری را نگه داشته و زمان پایان را مرتب نزدیک جلوه می‌دهد.",
-            "ترامپ در اظهارات اخیر مجدداً «تقریباً تمام شدن» را وعده داده و حتی گفته اگر معامله پایان جنگ را ندهد، باید دوباره «بمباران شدید» انجام شود؛ با این حال، بازه‌های زمانی اعلامی از چهار تا شش هفته در کمپین، به یک وعده مبهم‌تر و دائماً در حال عقب افتادن تبدیل شده است.",
-            "گزارش CNN تأکید می‌کند که نوع روایت ترامپ—ادعای کنترل‌بودن جنگ از سوی آمریکا، «ویرانی شدید» توان نظامی ایران، و نزدیک بودن پایان—با تغییرات صحنه هم‌راستا نیست و باعث شده جدیت وعده‌ها قابل سنجش نباشد."
-        ],
-        "impact": "شکاف میان تغییر روند جنگ و ثبات تبلیغات سیاسی، اعتبار پیام‌های کاخ سفید را فرسوده و هرگونه معامله نزدیک‌به‌زمان را در معرض تردید جدی قرار می‌دهد.",
-        "tag": "تحلیل",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/05/09/politics/trump-iran-war-peace-deal-talking-points-analysis",
-        "clean_url": "https://www.cnn.com/2026/05/09/politics/trump-iran-war-peace-deal-talking-points-analysis",
-        "image": "http://www.bing.com/th?id=ONUT.t1rAVbIf0nowWRB12empjA&pid=News",
-        "timestamp": 1778295600.0
-    },
-    {
-        "title_fa": "نشت احتمالی نفت نزدیک پایانه جزیره خارک؛ تهدید جدید برای زیرساخت صادراتی",
-        "title_en": "Live updates: Possible oil spill seen near Iran’s Kharg Island terminal, report says",
-        "summary": [
-            "بر اساس گزارش NewsNation، نشتی نفت «احتمالی» نزدیک پایانه جزیره خارک دیده شده و این موضوع می‌تواند مستقیم به عملکرد و اعتبار زنجیره صادرات نفت ایران ضربه بزند.",
-            "جزیره خارک گلوگاه اصلی صادرات نفت است؛ هرگونه آلودگی یا اختلال در این نقطه، ریسک توقف عملیات، هزینه‌های پاکسازی و کاهش جریان درآمد ارزی را بالا می‌برد.",
-            "در متن ارائه‌شده جزئیات درباره علت، میزان نشت یا واکنش رسمی طرف ایرانی وجود ندارد؛ بنابراین فعلاً باید آن را به‌عنوان یک هشدار عملیاتی-ایمنی برای زیرساخت صادراتی ثبت کرد، نه یک نتیجه قطعی."
-        ],
-        "impact": "اگر این نشت تأیید و گسترده شود، می‌تواند همزمان ریسک اختلال عملیاتی در پایانه خارک و فشار مالی ناشی از کاهش یا توقف صادرات را تشدید کند.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "NewsNation",
-        "url": "https://www.msn.com/en-us/news/world/suspected-oil-spill-seen-on-satellite-images-near-irans-kharg-island-export-hub/ar-AA22JESt",
-        "clean_url": "https://www.msn.com/en-us/news/world/suspected-oil-spill-seen-on-satellite-images-near-irans-kharg-island-export-hub/ar-AA22JESt",
-        "image": null,
-        "timestamp": 1778292520.0
-    },
-    {
-        "title_fa": "دریای خزر، مسیر پنهان تجارت-نظامی برای دور زدن فشار آمریکا",
-        "title_en": "Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran",
-        "summary": [
-            "این گزارش از خزر به‌عنوان یک مسیر راهبردی تازه یاد می‌کند که به ایران امکان می‌دهد در چارچوب محاصره و تهدیدهای آمریکا، جریان کالا را از مسیرهای کمتر در معرض کنترل نگه دارد.",
-            "طبق متن، روسیه محموله‌های نظامی و تجاری را از خزر ارسال می‌کند تا توان تهران برای «تحمل حمله آمریکا» تقویت شود؛ یعنی هم پشتیبانی لجستیکی و هم پوشش تجاری وجود دارد.",
-            "اهمیت موضوع در «طولانی‌مدت بودن و نادیده‌ماندن» آن است: اکنون شبکه حمل‌ونقل خزر به ابزار عملی برای کاهش اثر فشار خارجی و حفظ کارکرد اقتصادی-لجستیکی تبدیل شده، نه فقط یک گذر آبراهی معمولی."
-        ],
-        "impact": "گسترش نقش خزر به‌عنوان کریدور ارسال کالاهای نظامی و تجاری، مکانیزم‌های تاب‌آوری ایران در برابر فشار آمریکا را تقویت و هزینه‌های اثرگذاری تحریم/تهدید را برای واشنگتن افزایش می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
-        "clean_url": "https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html",
-        "image": "http://www.bing.com/th?id=ONUT.NM_AozK1djXDiGrnzEwS_Q&pid=News",
-        "timestamp": 1778292060.0
-    },
-    {
-        "title_fa": "جزئیات علنی آسیب‌دیدگی رهبر ایران برای نخستین‌بار؛ همزمان پیام واشنگتن درباره پاسخ تهران",
-        "title_en": "Iran Publicly Details Supreme Leader’s Injuries for First Time",
-        "summary": [
-            "ایران برای اولین‌بار به‌طور عمومی «آسیب‌دیدگی رهبر عالی» را تشریح کرده؛ نشانه‌ای از تغییر در مدیریت روایت داخلی و احتمالاً کنترل پیام سیاسی در داخل نظام.",
-            "مارکو روبیو، وزیر خارجه آمریکا، اعلام کرد واشنگتن انتظار دارد تهران روز جمعه به یک «موافقت‌نامه/پیشنهاد تفاهم‌نامه» برای پایان جنگ پاسخ بدهد؛ یعنی فشار دیپلماتیک وارد مرحله زمان‌بندی‌شده شده است.",
-            "ارتباط مستقیم میان افشای رسمی آسیب‌دیدگی و سازوکار پاسخ تهران در برابر پیشنهاد پایان جنگ در متن گزارش مستقیماً ثابت نشده، اما هر دو رویداد همزمان رخ داده‌اند و می‌توانند بر محاسبات تصمیم‌گیری و سرعت معامله‌گری اثر بگذارند."
-        ],
-        "impact": "همزمانی افشای آسیب‌دیدگی و اعلام ضرب‌الاجل پاسخ آمریکا می‌تواند نشان دهد تهران برای مدیریت ریسک‌های داخلی و همچنین کنترل مسیر مذاکرات پایان جنگ، در حال تنظیم روایت و اولویت‌های خود است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Wall Street Journal",
-        "url": "https://www.wsj.com/livecoverage/iran-war-trump-news",
-        "clean_url": "https://www.wsj.com/livecoverage/iran-war-trump-news",
-        "image": "http://www.bing.com/th?id=ONUT.qTFiI-vQ1aSCr6WIvxsYzg&pid=News",
-        "timestamp": 1778291520.0
-    },
-    {
-        "title_fa": "تهدید ترامپ برای ازسرگیری «پروژه آزادی پلاس» در صورت نهایی نشدن توافق با ایران",
-        "title_en": "Trump threatens to resume 'Project Freedom Plus' if Iran deal not sealed",
-        "summary": [
-            "ترامپ اعلام کرده در صورت نهایی نشدن توافق با ایران، روند ازسرگیری «Project Freedom Plus» را دنبال خواهد کرد؛ تهدیدی مستقیم از سوی واشنگتن که اهرم فشار جدیدی به پرونده هسته‌ای و برون‌مرزی ایران اضافه می‌کند.",
-            "این پیام به‌طور ساختاری می‌تواند وزنِ عدم‌قطعیت برای اقتصاد و تصمیم‌گیری‌های سیاسی داخل را افزایش دهد، چون احتمال بازگشت بسته‌های فشار/محدودیت‌ها می‌تواند هزینه تعاملات مالی و تجاری را بالا ببرد.",
-            "هم‌زمان، چنین موضعی معمولاً به صف‌بندی داخلی رژیم و رقابت بر سر مدیریت بحران دامن می‌زند، چون هر تأخیر در «توافق» به معنی طولانی شدن وضعیت اقتصادی-سیاسی شکننده و کاهش قدرت مانور دولت است."
-        ],
-        "impact": "این تهدید، در صورت تحقق، می‌تواند با افزایش عدم‌قطعیت و برگشت ابزارهای فشار خارجی، ثبات سیاسی-اقتصادی رژیم را تضعیف کند و هزینه تصمیم‌گیری را بالا ببرد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGpjQzRpUjh0WTY3WXpSM210bFB6bzFHTVpzS3lVV19zUlNqNWxMSTJFZGJsbFdtdzRtUExfcEFJcVJpTS14TjJ3REQwWnN4YW9kd0RfV1I0bnBCNVRwMHktY1g5UGhfeTNaTi10d2wzTXdIbXliWFI1U3d5ZkRCYTJvd213R2prZ01CUGpJTWI0emViLVJaWnpsTmVlNEZwajR6ZFh2THlqb05IeHJzcngwWVpablM0X3FMSjd3bw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMGpjQzRpUjh0WTY3WXpSM210bFB6bzFHTVpzS3lVV19zUlNqNWxMSTJFZGJsbFdtdzRtUExfcEFJcVJpTS14TjJ3REQwWnN4YW9kd0RfV1I0bnBCNVRwMHktY1g5UGhfeTNaTi10d2wzTXdIbXliWFI1U3d5ZkRCYTJvd213R2prZ01CUGpJTWI0emViLVJaWnpsTmVlNEZwajR6ZFh2THlqb05IeHJzcngwWVpablM0X3FMSjd3bw",
-        "image": null,
-        "timestamp": 1778283359.0
     }
 ]
