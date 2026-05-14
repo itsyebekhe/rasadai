@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "کاهش ثبات اقتصادی در آفریقا: کنیا بهای خرده‌فروشی سوخت را به‌دلیل درگیری ایران افزایش داد",
+        "title_en": "Kenya raises retail prices for fuel due to Iran conflict",
+        "summary": [
+            "خبرگزاری رویترز گزارش می‌دهد کنیا به خاطر اثرات جنگ ایران، قیمت خرده‌فروشی سوخت را بالا برده است؛ یعنی هزینه انرژی در زنجیره واردات/تامین تحت فشار مستقیم قرار گرفته است.",
+            "این افزایش قیمت نشان می‌دهد نوسان ناشی از تنش‌های مرتبط با ایران می‌تواند حتی خارج از منطقه جنگ، به‌سرعت به اقتصاد داخلی کشورها سرایت کند و فشار تورمی ایجاد کند.",
+            "در این گزارش اشاره‌ای به اقدام‌های جبرانی یا کنترل اثر افزایش قیمت‌ها ارائه نشده و بنابراین پیام آن، تشدید فشار هزینه‌های حمل‌ونقل و مصرف‌کننده در پی بی‌ثباتی بیرونی است."
+        ],
+        "impact": "افزایش قیمت سوخت در کنیا، نشانه عملی از انتقال شوک جنگ و ریسک‌های مرتبط با ایران به بازارهای انرژی و تشدید فشار تورمی در اقتصادهای وابسته به واردات سوخت است.",
+        "tag": "تحریم‌پذیری",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/money/general/kenya-raises-retail-prices-for-fuel-due-to-iran-conflict/ar-AA23cKIW",
+        "clean_url": "https://www.msn.com/en-us/money/general/kenya-raises-retail-prices-for-fuel-due-to-iran-conflict/ar-AA23cKIW",
+        "image": null,
+        "timestamp": 1778779783.0
+    },
+    {
+        "title_fa": "نویسنده گاردین می‌گوید آمریکا تاریخ شروع «جنگ ایران» را هم مشخص نکرده؛ آغاز و پایان مبهم مانده",
+        "title_en": "When will the Iran war end? The US can’t even decide when it began | Lawrence Douglas",
+        "summary": [
+            "لارنس داگلاس در گاردین می‌پرسد «چه زمانی جنگ ایران تمام می‌شود؟» و نتیجه می‌گیرد که خود آمریکا قادر نیست حتی چارچوب زمانیِ شروع این درگیری را دقیق تعریف کند.",
+            "این ابهام، طبق متن، به‌جای ارائه یک نقشه روشن برای پایان، نشان‌دهنده سردرگمی سیاست‌گذاری در واشینگتن و نبود معیار مشخص برای آغاز/پایان عملیات یا سیاست در قبال ایران است.",
+            "در سطح راهبردی، چنین عدم‌قطعیتی معمولاً به تداوم وضعیتِ طولانی‌مدتِ درگیری بدون مسیر خروج منجر می‌شود؛ چون هیچ نقطه توقف یا تعریف موفقیت/شکست به‌صورت روشن تعیین نشده است."
+        ],
+        "impact": "ابهام رسمی در «تاریخ شروع» به معنای نبود چارچوب خروج و افزایش احتمال استمرار درگیری با هزینه‌های سیاسی و اقتصادی است.",
+        "tag": "ابهامراهبردی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHRDRWgxeUFpS1JfNHE4LVAyNGNxMEpuVVBISE1kY1h3RThxblkteTBzd3FZdEplQ0R4b0xfRS13aDUtU3BpWFcwRkRGR1RYX3g5Y053T3Zyd2xKVHJhUG4xWmE1RjRfa2NJaGtrTjZJbDZyZzlkem9vWjhmdW1JYWxrb05vVndHcEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHRDRWgxeUFpS1JfNHE4LVAyNGNxMEpuVVBISE1kY1h3RThxblkteTBzd3FZdEplQ0R4b0xfRS13aDUtU3BpWFcwRkRGR1RYX3g5Y053T3Zyd2xKVHJhUG4xWmE1RjRfa2NJaGtrTjZJbDZyZzlkem9vWjhmdW1JYWxrb05vVndHcEE",
+        "image": null,
+        "timestamp": 1778774400.0
+    },
+    {
         "title_fa": "افزایش تنش در تنگه هرمز؛ یک کشتی توقیف و یک کشتی دیگر غرق شد",
         "title_en": "Tensions flare near Strait of Hormuz as a ship is seized and another is sunk",
         "summary": [
@@ -126,6 +162,24 @@
         "timestamp": 1778755727.0
     },
     {
+        "title_fa": "فشار آمریکا روی چین برای تشدید اقدام علیه «جنگ ایران» همزمان با سفر ترامپ",
+        "title_en": "Iran live updates: US wants China to do more to end Iran war, Rubio says",
+        "summary": [
+            "خبرگزاری ABC News گزارش می‌دهد که آمریکا از چین می‌خواهد برای پایان «جنگ ایران» اقدام بیشتری انجام دهد و این موضوع به‌عنوان یکی از محورهای سایه‌دار روی سفر ترامپ به چین مطرح است.",
+            "ریوبیو این پیام را منتقل کرده، اما متن موجود جزئیات عملی از نوع فشار یا ابزارهای مشخص را ارائه نمی‌دهد؛ بنابراین اثرگذاری احتمالی بیشتر در سطح «فشار سیاسی-دیپلماتیک» قابل ارزیابی است تا یک اقدام فوری و قابل سنجش.",
+            "این نوع فشار معمولاً می‌تواند کانال‌های اقتصادی و سیاسی رژیم را تحت فشار نرم قرار دهد و هزینه محاسبه‌پذیری را بالا ببرد، اما طبق متن ارائه‌شده نمی‌توان به وجود تحریم جدید یا اقدام نظامی مشخص استناد کرد."
+        ],
+        "impact": "فعلاً این یک فشار سیاسی به پکن است که می‌تواند بر معادلات اقتصادی و تصمیم‌گیری رژیم اثر بگذارد، اما بدون جزئیات اجرایی، شتاب تغییرات قابل اندازه‌گیری نیست.",
+        "tag": "دیسکشن",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-us-wants-china-to-do-more-to-end-iran-war-rubio-says/ar-AA22TnDl",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-us-wants-china-to-do-more-to-end-iran-war-rubio-says/ar-AA22TnDl",
+        "image": "http://www.bing.com/th?id=ONUT.OR1slbjMo4LvtwcSFG31RQ&pid=News",
+        "timestamp": 1778755167.0
+    },
+    {
         "title_fa": "افزایش قیمت غذا در ایران همزمان با تشدید درگیری‌ها: پیش‌بینی گرانی‌های بیشتر",
         "title_en": "Food prices surge as Iran conflict spikes fuel costs. Experts warn of more increases",
         "summary": [
@@ -162,6 +216,24 @@
         "timestamp": 1778752885.0
     },
     {
+        "title_fa": "هشدار «چند هفته تا اورانیوم با غنای تسلیحاتی»؛ تهران در آستانه جهش هسته‌ای تحت فشار مستقیم واشنگتن",
+        "title_en": "US Energy Head: Iran 'Small Number of Weeks Away' From Weapons-Grade Uranium",
+        "summary": [
+            "رئیس انرژی آمریکا، با اشاره به برنامه هسته‌ای ایران، گفته «چند هفته‌ای» تا غنی‌سازی در سطح «اورانیوم با غنای تسلیحاتی» باقی مانده است؛ یعنی زمان‌بندی پیشرفت هسته‌ای از مرحله ادعا به تهدید فوری نزدیک می‌شود.",
+            "این اظهارات در پاسخ به پرسش سناتور ریچارد بلومنثال مطرح شده و از منظر فشار خارجی، پیام روشن واشنگتن برای سنجش واکنش‌های بعدی (از سیاست تا اقدام) را منتقل می‌کند.",
+            "اوج‌گیری تهدید هسته‌ای معمولاً به تشدید هزینه‌های سیاسی-امنیتی رژیم و تشدید ریسک‌های اقتصادی داخلی منجر می‌شود، چون هرچه زمان نزدیک‌تر شود، احتمال تصمیم‌های سخت‌تر از سوی طرف‌های درگیر بیشتر می‌شود."
+        ],
+        "impact": "اگر این زمان‌بندی حتی بخشی از واقعیت عملیاتی را بازتاب دهد، رژیم با افزایش فشار خارجی و ریسک واکنش‌های اضطراری مواجه می‌شود و فضای سیاسی-اقتصادی داخل کشور متزلزل‌تر می‌گردد.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Military.com",
+        "url": "https://www.military.com/energy-chief-says-iran-is-weeks-from-weapons-grade-uranium",
+        "clean_url": "https://www.military.com/energy-chief-says-iran-is-weeks-from-weapons-grade-uranium",
+        "image": "http://www.bing.com/th?id=ONUT.8JW5mMCvlsLEL8lFDu3pRg&pid=News",
+        "timestamp": 1778751120.0
+    },
+    {
         "title_fa": "جنگ ایران، فروپاشی راهبردی اروپا را عریان کرد",
         "title_en": "The Iran war exposed Europe’s strategic collapse",
         "summary": [
@@ -178,6 +250,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOakcxNW5nUGhMVVpSMnJwNWhxeFFxWnNJU2hueGVDSjJUc3o2em1YaXZqR0o1Q3lOS0hUR1hUMGRZaUwtbkRuUFN2Q1ZIMkplWjZuWVU0MnBZemZhcm9rS1NkN3BmVTV5NjNEYm9fR0NnakNNTC1PMDhiU3dSb2lYTzhzZTQzbzRhc003SnY5dGRhYVJHXzFSWQ",
         "image": null,
         "timestamp": 1778751019.0
+    },
+    {
+        "title_fa": "تهدید تنگه هرمز همچنان اهرم فشار ایران در مذاکرات؛ مقام پنتاگون: امکان بازدارندگی تجارت برقرار است",
+        "title_en": "Pentagon official: Iran still threatens Strait of Hormuz",
+        "summary": [
+            "یک مقام پنتاگون اعلام کرده که ایران هنوز توان ایجاد تهدید علیه کشتی‌های تجاری در تنگه هرمز را حفظ کرده و همین موضوع «اهرم» آن در هر مذاکره با آمریکا است.",
+            "چارچوب گزارش بر مبنای این فرض است که توان ایران در «دفع/ترساندن» کشتی‌های عبوری، به تهران قدرت چانه‌زنی می‌دهد تا امتیاز بگیرد یا شروط مذاکره را به نفع خود شکل دهد.",
+            "این گزاره مستقیماً نشان می‌دهد که حتی بدون جزئیات جدید از عملیات مشخص، تهدید امنیت کشتیرانی به‌عنوان عامل محاسباتی واشنگتن و شرکت‌های حمل‌ونقل باقی مانده است."
+        ],
+        "impact": "اگر توان بازدارندگی/تهدید در تنگه هرمز فعال بماند، ریسک اختلال در کشتیرانی و افزایش هزینه بیمه و عملیات دریایی می‌تواند تنش را در مسیر مذاکرات پایدارتر کند.",
+        "tag": "هرمز",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "Politico on MSN",
+        "url": "https://www.msn.com/en-us/politics/government/pentagon-official-iran-still-threatens-strait-of-hormuz/ar-AA23cMtb",
+        "clean_url": "https://www.msn.com/en-us/politics/government/pentagon-official-iran-still-threatens-strait-of-hormuz/ar-AA23cMtb",
+        "image": "http://www.bing.com/th?id=ONUT.D9UyEV-IAU49K3YBu2fC5A&pid=News",
+        "timestamp": 1778749964.0
     },
     {
         "title_fa": "مسدود شدن موقت تحریم‌های آمریکا علیه فرانچسکا آلبانزه با حکم دادگاه فدرال",
@@ -250,6 +340,24 @@
         "clean_url": "https://www.aljazeera.com/tag/israel-iran-conflict",
         "image": null,
         "timestamp": 1778742112.0
+    },
+    {
+        "title_fa": "ادعای ایران درباره الزام کشتی‌ها به همکاری با نیروی دریایی؛ گزارش از توقیف یک کشتی نزدیک فجیره",
+        "title_en": "Iran says ships entering strait of Hormuz must cooperate after vessel seized",
+        "summary": [
+            "عباس عراقچی اعلام کرد کشتی‌های ورودی به تنگه هرمز باید با نیروی دریایی ایران همکاری کنند؛ همزمان گزارش شد یک کشتی خارج از بندر فجیرهِ امارات توقیف و به سمت آب‌های ایران برده شده است. سازمان UK Maritime Trading Organisation توقیف را توسط «افراد غیرمجاز» توصیف کرد و کشتی در زمان حادثه لنگر انداخته بود.",
+            "عراقچی در سفر/نشست هند (برگروه بریکس) گفت تنگه هرمز «به روی همه کشتی‌های تجاری» باز است اما باید با نیروهای ایران هماهنگ شوند؛ همچنین به نماینده امارات گفت همکاری با اسرائیل برای امنیت این کشور محافظت ایجاد نمی‌کند.",
+            "خبر هم‌زمان با تداوم تنش‌های دریایی مطرح می‌شود: ایران از آغاز کمپین بمباران آمریکا-اسرائیل عملاً تنگه هرمز را تا حد زیادی بسته است، آمریکا «ضدمحاصره» بنادر ایران اعمال کرده و هزاران کشتی همچنان سرگردان مانده‌اند."
+        ],
+        "impact": "این رویکردِ اعمال الزام عملی به همکاری دریایی، پیام تشدیدکننده کنترل ایران بر یک گلوگاه حیاتی را مخابره می‌کند و احتمال تکرار حادثه‌ها و افزایش بی‌ثباتی کشتیرانی در تنگه را بالا می‌برد.",
+        "tag": "تنگههرمز",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/may/14/iran-strait-of-hormuz-navy-uae",
+        "clean_url": "https://www.theguardian.com/world/2026/may/14/iran-strait-of-hormuz-navy-uae",
+        "image": null,
+        "timestamp": 1778737860.0
     },
     {
         "title_fa": "سایه جنگ ایران بر نشست BRICS در هند",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.washingtonexaminer.com/opinion/beltway-confidential/4531541/iran-sentenced-four-protesters-to-death-pope-leo-not-criticized-iran",
         "image": null,
         "timestamp": 1778255298.0
-    },
-    {
-        "title_fa": "ارزیابی اطلاعاتی آمریکا: مجتبی خامنه‌ای پشت‌پرده، با وجود عدم حضور عمومی، در راهبرد جنگ و مذاکرات نقش دارد",
-        "title_en": "Iran’s injured supreme leader out of public view but still shaping strategy, US intel assesses",
-        "summary": [
-            "بر اساس گزارش‌های اطلاعاتی آمریکا، مجتبی خامنه‌ای در کنار مقام‌های ارشد ایرانی در شکل‌دهی راهبرد جنگ نقش کلیدی دارد، هرچند «اختیار دقیق» درون یک رژیم دچار تفرقه روشن نیست و درباره میزان نفوذ عملی او عدم قطعیت وجود دارد.",
-            "کاهش حضور عمومی به دلیل آسیب جدی ناشی از حمله‌ای است که گفته می‌شود به کشته شدن پدرش و چند فرمانده ارشد نظامی انجامیده و او پس از آن از دید عموم خارج شده؛ آمریکا نیز تاکنون محل دقیق او را به‌صورت تصویری تأیید نکرده است.",
-            "مقام‌های ایرانی همچنان مسیر مدیریت مذاکرات را پیش می‌برند؛ به‌گفته گزارش، خامنه‌ای هیچ ارتباط الکترونیکی استفاده نمی‌کند و ارتباط‌ها از طریق پیام‌رسان/رفت‌وآمد حضوری است. همچنین گفته شده مسعود پزشکیان یک دیدار دوونیم‌ساعته با او داشته و این نخستین گزارش از دیدار حضوری مقام ارشد با رهبر جدید است."
-        ],
-        "impact": "این وضعیت تداوم ابهام در زنجیره فرماندهی و در عین حال حفظ نقش اثرگذار پشت‌پرده، می‌تواند بر سرعت و جهت مذاکرات برای پایان جنگ و همچنین هماهنگی داخلی رژیم اثر بگذارد.",
-        "tag": "ایران",
-        "urgency": 7,
-        "sentiment": -0.35,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/05/08/politics/iran-khamenei-us-deal-intelligence",
-        "clean_url": "https://edition.cnn.com/2026/05/08/politics/iran-khamenei-us-deal-intelligence",
-        "image": "http://www.bing.com/th?id=ONUT.XUfNbLzI3orMdGKcOOiGaA&pid=News",
-        "timestamp": 1778254020.0
-    },
-    {
-        "title_fa": "نگاه واقع‌گرایانه به مذاکرات: بن‌بست «قدرت نظامی» علیه ایران",
-        "title_en": "Military force has got the US nowhere with Iran – here is what a realistic negotiation would look like",
-        "summary": [
-            "گاردین می‌گوید استفاده از نیروی نظامی، آمریکا را به نتیجه علیه ایران نرسانده و ادامه همین رویکرد عملاً بن‌بست می‌سازد.",
-            "این گزارش چارچوبی برای «مذاکره واقع‌گرایانه» پیشنهاد می‌کند که بر پایه کاهش تنش و معامله‌های قابل‌اجرا طراحی شده، نه تهدیدات و فشار صرف.",
-            "در گزارش توضیح مستقیمی از جزئیات توافق ارائه نمی‌شود، اما پیام اصلی روشن است: هر سناریوی مذاکره باید با واقعیت‌های قدرت منطقه‌ای و توان بازدارندگی ایران هم‌تراز شود."
-        ],
-        "impact": "این تحلیل به جای تشدید چرخه فشار-پاسخ، بر ضرورت تغییر مسیر به سمت مذاکره قابل‌اجرا تاکید می‌کند، چون راهبرد نظامی به نتیجه نرسیده است.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVVBUjFhMG9sQ1Y1QnBfX2RtWVNFek81M2lwZ1cyOXl1eDY0a01LWlR0WVh5Z18xWUtBcHFidHdnZnJISk9pZmFEQk1pc0NHYTdFYUo1bG5kWU81WlZxRlZETW4zazVHaFdJRm8yTUJGSG4wVkxndGJpcS1haUtDTTkwV0laX3Q2OE5R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZVVBUjFhMG9sQ1Y1QnBfX2RtWVNFek81M2lwZ1cyOXl1eDY0a01LWlR0WVh5Z18xWUtBcHFidHdnZnJISk9pZmFEQk1pc0NHYTdFYUo1bG5kWU81WlZxRlZETW4zazVHaFdJRm8yTUJGSG4wVkxndGJpcS1haUtDTTkwV0laX3Q2OE5R",
-        "image": null,
-        "timestamp": 1778251920.0
-    },
-    {
-        "title_fa": "اتهام‌زنی ایران و آمریکا درباره ماجراجویی نظامی در تنگه هرمز و ادامه فشار دریایی",
-        "title_en": "Iran accuses US of 'reckless military adventure'",
-        "summary": [
-            "عباس عراقچی، وزیر خارجه ایران، آمریکا را به «ماجراجویی نظامی پرخطر» متهم کرد و گفت هر بار که راه‌حل دیپلماتیک روی میز است، واشنگتن به جای آن به فشار و عملیات رو می‌آورد؛ این اظهارات یک روز پس از آن مطرح شد که دو طرف یکدیگر را به حمله در تنگه هرمز متهم کردند و آمریکا به چند شناور ایرانی هم شلیک کرد.",
-            "ترامپ ادعا کرد «آتش‌بس» برقرار است تا زمینه گفت‌وگو برای پایان جنگی که آمریکا و اسرائیل در فوریه آغاز کرده‌اند فراهم شود؛ هم‌زمان مارکو روبیو گفت ایران انتظار دارد به پیشنهادهای آمریکا در جمعه پاسخ دهد، و هر دو طرف از نقش «خرابکار» یا سوءاستفاده سیاسی طرف مقابل در ادامه بحران سخن گفتند.",
-            "در ادامه تنش‌ها، سنتکام اعلام کرد نیروهای آمریکا دو نفتکش بدون محموله با پرچم ایران را که قصد ورود به بندر در خلیج عمان داشتند «غیرفعال» کرده و با مهمات دقیق دودکش آن‌ها را هدف گرفته‌اند؛ همچنین سنتکام حمله ایران به ناوهایش را «بی‌دلیل» خواند و فرماندهی ارشد نظامی ایران نیز از هدف‌گیری یک نفتکش و حملات هوایی به مناطق ساحلی خبر داد."
-        ],
-        "impact": "ادامه درگیری‌های دریایی هم‌زمان با حفظ محاصره و فشار بندری، ریسک تشدید فوری تنش و اختلال پایدار در مسیر حیاتی هرمز را بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
-        "clean_url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
-        "image": null,
-        "timestamp": 1778249664.0
-    },
-    {
-        "title_fa": "عدم دسترسی به محتوای خبر؛ نمی‌توان ارزیابی تحلیلی از «تهدیدها در گفت‌وگوهای صلح» ارائه کرد",
-        "title_en": "Threats in peace talks: Can Trump's tough-guy approach work on Iran?",
-        "summary": [
-            "متن ارائه‌شده فقط پیام فنی سایت است درباره پشتیبانی‌نشدن مرورگر، نه گزارش خبر یا جزئیات درباره ایران و «رویکرد سخت‌گیرانه» ترامپ.",
-            "هیچ ادعای قابل‌استناد درباره تحریم‌ها، فشار خارجی، مفاد مذاکرات، واکنش تهران، یا رخدادهای امنیتی در منطقه در این منبع موجود نیست؛ بنابراین ارزیابی بدون جعل داده ممنوع است.",
-            "برای تحلیل چارچوبی (فشار خارجی/روسیه-چین/اعتراضات-اقتصاد) باید متن واقعی مقاله یا حداقل بخش‌های کلیدی آن ارسال شود."
-        ],
-        "impact": "در نبود محتوای خبری، اثرگذاری سیاسی/اقتصادی یا سنجش قابلیت اجرای «رویکرد سخت‌گیرانه» قابل استخراج و راستی‌آزمایی نیست.",
-        "tag": "نامشخص",
-        "urgency": 1,
-        "sentiment": -0.2,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/politics/2026/05/08/trump-war-iran-peace-agreement/89983843007/",
-        "clean_url": "https://www.usatoday.com/story/news/politics/2026/05/08/trump-war-iran-peace-agreement/89983843007",
-        "image": "http://www.bing.com/th?id=ONUT.N0XLU4TxqHaUzSO7PNz-cQ&pid=News",
-        "timestamp": 1778248620.0
-    },
-    {
-        "title_fa": "اظهار یک مقام سابق: ایران «سلاح هسته‌ای» توسعه نمی‌داد",
-        "title_en": "'Iran wasn't developing a nuclear weapon,' ex-counterterrorism chief says",
-        "summary": [
-            "منبع خبری فقط یک ادعای مربوط به اظهارات یک «رئیس سابق ضدتروریسم» را بازتاب داده که می‌گوید ایران در حال توسعه سلاح هسته‌ای نبوده است؛ هیچ جزئیات فنی یا داده قابل راستی‌آزمایی ارائه نشده.",
-            "در متن ارسالی، هیچ اشاره‌ای به اقدامات اجرایی، تحرکات میدانی، تحریم‌های جدید، یا واکنش دولت‌ها به این ادعا دیده نمی‌شود.",
-            "بخش عمده متن ارسالی به هشدار گرمای شدید و وضعیت کیفیت هوا در آریزونا اختصاص دارد که هیچ ارتباط مستقیمی با موضوع هسته‌ای ندارد."
-        ],
-        "impact": "این گزارش بیشتر جنجال سیاسی/اظهارنظر فردی است و از نظر اطلاعاتی، بدون شواهد و پیامدهای قابل پیگیری، اثر مستقیم راهبردی سنجیده نمی‌شود.",
-        "tag": "هسته‌ای",
-        "urgency": 2,
-        "sentiment": -0.1,
-        "source": "FOX 10 Phoenix",
-        "url": "https://www.fox10phoenix.com/news/joe-kent-iran-wasnt-developing-nuclear-weapon",
-        "clean_url": "https://www.fox10phoenix.com/news/joe-kent-iran-wasnt-developing-nuclear-weapon",
-        "image": "http://www.bing.com/th?id=ONUT.6lEtTZ2OxcJaUPpLTd-iRg&pid=News",
-        "timestamp": 1778247360.0
-    },
-    {
-        "title_fa": "گزارش امارات از حمله پهپادی و موشکی؛ آمریکا از درگیری با ایران خبر داد",
-        "title_en": "UAE reports drone and missile attack after US says it traded fire with Iran",
-        "summary": [
-            "امارات اعلام کرد پس از آن‌که آمریکا گفت در تبادل آتش با ایران درگیر شده، حمله‌ای شامل پهپاد و موشک رخ داده است؛ این یعنی جبهه تنش مستقیم و فراتر از سطح لفظی گسترش یافته.",
-            "ایالات متحده در گزارش خود «تبادل آتش» را مطرح کرده و همین ادعا، ریسک تشدید فوری را بالا می‌برد؛ چون هر رخداد می‌تواند به پاسخ متقابل دوجانبه و بعدتر به درگیری گسترده‌تر بیانجامد.",
-            "با توجه به نوع تهدید (پهپاد و موشک) و ورود بازیگر منطقه‌ای (امارات) به روایت حادثه، فشار امنیتی بر زیرساخت‌ها و محاسبات پرواز/دریانوردی در خلیج و مسیرهای مرتبط افزایش می‌یابد."
-        ],
-        "impact": "این رخداد نشانه عملیِ بالا رفتن احتمال درگیری مستقیم و بدتر شدن وضعیت امنیت منطقه است، نه صرفاً تنش دیپلماتیک.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcExZcVpZYU4yU3oxSEpmajVmMktveG8zd1V3anRxdHhneVR1LUFuSUtSZGJpZUEwVEZTNkNZRlBGSzRQSVRkZVprMkp5dzhVUFJPMkdmTFVQMF9tOF8xVng2Qy01ZDlWNW5oTEhjeVcxd0ltQ3h2LUVBNVg1THRtUFp5Y3Ezd1MwUkR6elNoWHNDY00?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcExZcVpZYU4yU3oxSEpmajVmMktveG8zd1V3anRxdHhneVR1LUFuSUtSZGJpZUEwVEZTNkNZRlBGSzRQSVRkZVprMkp5dzhVUFJPMkdmTFVQMF9tOF8xVng2Qy01ZDlWNW5oTEhjeVcxd0ltQ3h2LUVBNVg1THRtUFp5Y3Ezd1MwUkR6elNoWHNDY00",
-        "image": null,
-        "timestamp": 1778246220.0
     }
 ]
