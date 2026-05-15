@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ می‌گوید توقف ۲۰ساله برنامه هسته‌ای ایران کافی است",
+        "title_en": "Trump says 20-year nuclear programme suspension by Iran is enough",
+        "summary": [
+            "ترامپ اعلام کرده «توقف ۲۰ساله» برنامه هسته‌ای ایران برای تحقق هدف آمریکا کافی است و عملاً چارچوب مذاکره/فشار را روی یک نقطه پایان کوتاه‌مدت تنظیم می‌کند.",
+            "این موضع یعنی واشنگتن دنبال ارزیابی سیاسی-امنیتی سریع است، نه الزاماً یک روند طولانی‌تر برای رفع نگرانی‌ها یا تضمین‌های گسترده‌تر؛ بنابراین خطر بن‌بست دیپلماتیک بالا می‌رود.",
+            "از آنجا که این گزارش صرفاً نقل‌قول ترامپ است و جزئیات فنی یا شرط‌های اجرایی ارائه نمی‌دهد، اتکای اصلی به «تعریف سیاسی کافی بودن» است و می‌تواند طرف مقابل را به مقاومت در چارچوب دلخواه آمریکا سوق دهد."
+        ],
+        "impact": "این اظهار نظر می‌تواند روند مذاکرات را تندتر و شکننده‌تر کند و احتمال افزایش تنش لفظی و فشار سیاسی را بالا ببرد، بدون اینکه الزاماً تغییر محسوسی در وضعیت عملی برنامه هسته‌ای گزارش شود.",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-20-year-nuclear-programme-suspension-by-iran-is-enough/ar-AA23j0Xz",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-20-year-nuclear-programme-suspension-by-iran-is-enough/ar-AA23j0Xz",
+        "image": null,
+        "timestamp": 1778879825.0
+    },
+    {
         "title_fa": "افزایش بیش از ۳ درصدی قیمت نفت به خاطر ترس از درگیری جدید میان آمریکا و ایران",
         "title_en": "Oil prices climb more than 3% on fears of new US-Iran combat",
         "summary": [
@@ -430,6 +448,24 @@
         "clean_url": "https://www.huffpost.com/entry/irans-top-diplomat-says-lack-trust-is-impeding-talks-end-war-united-states_n_6a072d3fe4b0a33000e15b7d",
         "image": "http://www.bing.com/th?id=ONUT.twfmVcYNArSZ4LJeF9eigw&pid=News",
         "timestamp": 1778830440.0
+    },
+    {
+        "title_fa": "شکاف ترامپ-واتیکان فراتر از ایران؛ تنش درباره مهاجرت و جنگ بالا می‌گیرد",
+        "title_en": "Trump-Vatican Rift Goes Beyond Iran: Tensions Grow Over Immigration and War",
+        "summary": [
+            "ترامپ از «پاپ نخستین» آمریکا به‌عنوان عامل تضعیف غرب انتقاد کرده و همین موضع، شکاف سیاسی میان دو نهاد قدرتمند را تشدید می‌کند.",
+            "این پرونده به‌طور مستقیم به ایران محدود نمی‌ماند؛ محور اختلاف‌ها «مهاجرت» و «جنگ» معرفی شده و نشان می‌دهد موضوعات امنیتی-اجتماعی به کانون تنش تبدیل شده‌اند.",
+            "با توجه به متن منتشرشده، ارتباط مشخص و قابل‌اثباتی میان این اختلاف با سیاست ایران یا تشدید عملی آن گزارش نشده و تمرکز گزارش بیشتر بر پیامدهای ژئوپلیتیک داخلی آمریکا و صف‌بندی‌های غربی است."
+        ],
+        "impact": "این رگه اختلاف بین واشنگتن و واتیکان بیشتر می‌تواند شکاف‌های سیاست خارجی و اجماع غرب را تضعیف کند تا آنکه مستقیماً به ایران یا نیروهای نیابتی اثر فوری و مشخص بزند.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Military.com",
+        "url": "https://www.military.com/rubio-meets-pope-after-trump-attacks-rock-vatican-iran",
+        "clean_url": "https://www.military.com/rubio-meets-pope-after-trump-attacks-rock-vatican-iran",
+        "image": "http://www.bing.com/th?id=ONUT.K3DDETSyXmY1e7htOQFH6g&pid=News",
+        "timestamp": 1778827800.0
     },
     {
         "title_fa": "توافق ترامپ و شی برای جلوگیری از دستیابی ایران به سلاح هسته‌ای در اوج بحران تنگه هرمز",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEN0X195dXk5Y05pNDVZa1VfR1hXN1pPa09TYjdwX2JfTHgyZEtCZFFjMjVSLUFFSlZFTjBnM3lMYXg3ZzdZaVJQa0ZtOV9XMUFjWVFuNTFXUGltRXRjSFdkTDVyMFBtVngzVGV6WGZ6MGxSRGhpTjFSVUI1anZQekdVY25jZ0tYa3h4eVlLSEROZjRsZWgzZkdsV3lUVTNZRXdCZjZPVk1ERTZIYmxPaA",
         "image": null,
         "timestamp": 1778389560.0
-    },
-    {
-        "title_fa": "تهدید تهران علیه کشورها: «مشکل» برای کشتی‌های عبوری از تنگه هرمز؛ هم‌زمان حادثه برخورد به یک کشتی در خلیج فارس و تلفات در لبنان",
-        "title_en": "Iran warns countries enforcing sanctions will ‘face problems’ in Strait of Hormuz",
-        "summary": [
-            "مقام نظامی ایران هشدار داده کشورهایی که تحریم‌ها را علیه ایران اعمال می‌کنند هنگام عبور کشتی‌هایشان از تنگه هرمز «با مشکل روبه‌رو خواهند شد»؛ هم‌زمان تهران گفته اگر کشتی‌هایش در دوران آتش‌بس لبنان هدف قرار بگیرند، «حمله سنگین» به دارایی‌های آمریکا در منطقه انجام می‌دهد.",
-            "گزارش شده یک کشتی فله‌بَر در خلیج فارس، نزدیک قطر، با یک «پروژهیل ناشناس» برخورد داشته است (طبق گزارش سازمان دریانوردی بریتانیا UKMTO)؛ همچنین تصاویر ماهواره‌ای از یک کشتی با پرچم ایران که یک روز قبل با جنگنده آمریکایی هدف قرار گرفته، نشان می‌دهد دود همچنان از آن متصاعد بوده است.",
-            "در جبهه لبنان، حملات اسرائیل در روز شنبه دست‌کم ۲۲ کشته (از جمله چهار کودک) داشته است؛ ارتش اسرائیل می‌گوید ۱۰ نفر از اعضای حزب‌الله را کشته و زیرساخت‌های این گروه را در جنوب لبنان هدف گرفته است."
-        ],
-        "impact": "این زنجیره هشدارها و رخدادهای دریایی، ریسک درگیری مستقیم و اختلال در امنیت کشتیرانی در تنگه هرمز را بالا می‌برد و فشار روانی-عملی بر بازیگران تحریم‌کننده را تشدید می‌کند.",
-        "tag": "تنگه",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/05/10/world/live-news/iran-war-news?post-id=cmozct82i00063b6svlm5ysiy",
-        "clean_url": "https://edition.cnn.com/2026/05/10/world/live-news/iran-war-news",
-        "image": "http://www.bing.com/th?id=ONUT.1-kSqk3uwZ2kCVB4UuCp7w&pid=News",
-        "timestamp": 1778387520.0
-    },
-    {
-        "title_fa": "هشدار سپاه: حمله به کشتی‌های ایرانی پاسخ به ضربه‌زدن به اهداف آمریکا در منطقه را به دنبال دارد",
-        "title_en": "IRGC warns attacks on Iranian vessels would trigger strikes on US targets in region",
-        "summary": [
-            "سپاه با یک هشدار صریح اعلام کرده است که هرگونه حمله به کشتی‌های ایرانی در منطقه می‌تواند به «حمله/اقدام متقابل» علیه اهداف آمریکا در منطقه منجر شود.",
-            "این پیام عملاً ریسکِ گسترش درگیری‌های دریایی را بالا می‌برد و خطوط ارتباطی بین عملیات‌های نیابتی/محلی و واکنش مستقیم به منافع آمریکا را برجسته می‌کند.",
-            "از آنجا که هشدار در سطح نهادی نظامی صادر شده، پیام سیاسی-بازدارنده آن متوجه مدیریت تهدیدات خارجی و حفظ دست بالا در محیط امنیتی پرتنش منطقه است، نه حل اختلافات جاری."
-        ],
-        "impact": "این هشدار می‌تواند چرخه اقدام و واکنش میان نیروهای منطقه‌ای و آمریکا را تشدید کند و خطر درگیری مستقیم در مسیرهای دریایی را افزایش دهد.",
-        "tag": "هشدار",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajk0b1NHZ0VVbzZaMjlFc3Npc0hVS3FobjQxTzB2S1NTNFU3a2N3Y0ptMmdXbHdmejVSeG56OGc0WmhKQk9aOVowTGZremJudXM2VTFCNGkzRER0c0xITmNCUWNxNWRvZ2dPd3BpOE5qQWxCb1V6R1RUQV8tOVRmTTZNbmtZZnc4b1ZPYkpYLXNiMEVnbDRmeUd2cTlSblZGRGRCNU14d2IzenAtUGF5UFBCNHljVUNRR1NhX25aUTR0M0pCY240QzQ5RjlhdGp0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajk0b1NHZ0VVbzZaMjlFc3Npc0hVS3FobjQxTzB2S1NTNFU3a2N3Y0ptMmdXbHdmejVSeG56OGc0WmhKQk9aOVowTGZremJudXM2VTFCNGkzRER0c0xITmNCUWNxNWRvZ2dPd3BpOE5qQWxCb1V6R1RUQV8tOVRmTTZNbmtZZnc4b1ZPYkpYLXNiMEVnbDRmeUd2cTlSblZGRGRCNU14d2IzenAtUGF5UFBCNHljVUNRR1NhX25aUTR0M0pCY240QzQ5RjlhdGp0",
-        "image": null,
-        "timestamp": 1778387056.0
     }
 ]
