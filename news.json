@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "معطل‌ماندن چالش جمهوری‌خواهان علیه جنگ ایران؛ حالا شاید دیر شده باشد",
+        "title_en": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
+        "summary": [
+            "روزنامه نیویورک‌تایمز می‌گوید جمهوری‌خواهان تا زمان مناسب برای به چالش کشیدن تصمیمات ترامپ درباره جنگ/درگیری با ایران دست نگه داشته‌اند و همین تعلل می‌تواند اثر محدودکننده‌شان را از بین ببرد.",
+            "این گزارش به پیامد زمان‌بندی سیاسی اشاره می‌کند: وقتی تصمیم‌ها یا اقدامات وارد فاز اجرا شوند، اهرم‌های نظارتی/قانونی جناح مخالف دیرتر عمل می‌کنند و هزینه‌های راهبردی روی همه طرف‌ها می‌ماند.",
+            "چارچوب مطلب بیشتر سیاسی-نظارتی است تا جزئیات نظامی؛ محور اصلی «فرصت از دست‌رفته» برای مهار یا تغییر مسیر سیاست جنگی مرتبط با ایران است."
+        ],
+        "impact": "اگر تعلل سیاسی به اقدامات انجام‌شده نزدیک‌تر شود، احتمال قفل‌شدن روند افزایش تنش و کاهش توان مهار از داخل آمریکا بالا می‌رود.",
+        "tag": "ایران",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html",
+        "clean_url": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html",
+        "image": null,
+        "timestamp": 1778861166.0
+    },
+    {
         "title_fa": "چرا استراتژی آمریکا و اسرائیل درباره ایران متفاوت است",
         "title_en": "Why US and Israeli Iran Strategies Differ",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-s-asymmetric-strategy-against-israel-and-the-united-states/ar-AA22pCyy",
         "image": null,
         "timestamp": 1778859660.0
+    },
+    {
+        "title_fa": "آراقی: ایران نسبت به «جدیت» آمریکا در مذاکرات، در بن‌بست هسته‌ای تردید دارد",
+        "title_en": "Araghchi: Iran doubts US ‘seriousness’ about talks amid nuclear deadlock",
+        "summary": [
+            "علی باقری آراقی اعلام کرد ایران به «جدیت» آمریکا در ادامه مذاکرات بدبین است و این بی‌اعتمادی، در متنِ «بن‌بست هسته‌ای» مطرح شده است.",
+            "بن‌بست هسته‌ای به‌عنوان عامل اصلی عدم پیشرفت معرفی می‌شود و نشان می‌دهد مذاکرات عملاً در مرحله‌ای قرار دارد که بدون تغییر واقعی در رویکرد طرف مقابل، راه‌حل قابل‌اتکا دیده نمی‌شود.",
+            "این موضع‌گیری بیشتر بر مدیریت ادراک داخلی و خارجی فشار می‌گذارد تا بیان یک مسیر مشخص؛ یعنی اعلام تردید نسبت به نیت آمریکا بدون ارائه گام‌های اجرایی جدید از سوی تهران."
+        ],
+        "impact": "این برداشتِ بی‌اعتمادی متقابل، احتمال طولانی شدن بن‌بست و کاهش انگیزه برای توافق عملی را بالا می‌برد.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTRkUGg1VnUxaDhpQTZlSm9HUXp1R0JXNGwzdXNqV2hna1VsaFB3MDdPajRwaEZ0YjhVNWxObDNiaktvMndRN3pMcW1RaEttLWpDa2YzTjcxa1h6MmxhUFNxT1hMNE81Nmc4aHlxUDdtX0Z0ZmJMY2xHLXBFdUVkQmVVQ2tlbldYR2wwS1FKdkx3RExoVHRHNVBwMkF6eXVfeEljWFRndXdxWjVTVDJV0gG0AUFVX3lxTE9PZS16QTFyMmluU2ZvWklkOUNQQUdlTGVmMm5mX0MyV2xHVi0ybjlKNzZFcTBldkR1MW5tNUp5ams3Zl9HRFRVZEpFVmVuVEl6NmFLZFhzS29ZMjRBNVItWXZTZUJmanc2MjZqLVU0bUhPbFdqQ1J5Nl9pT3lBaThoc1p3ODZGaUZXUGpkOTl3bGxVQjB4QjMwV1VHQzFodEZQTW5GSU1MSkcwS2FacFkwcGhpNg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSTRkUGg1VnUxaDhpQTZlSm9HUXp1R0JXNGwzdXNqV2hna1VsaFB3MDdPajRwaEZ0YjhVNWxObDNiaktvMndRN3pMcW1RaEttLWpDa2YzTjcxa1h6MmxhUFNxT1hMNE81Nmc4aHlxUDdtX0Z0ZmJMY2xHLXBFdUVkQmVVQ2tlbldYR2wwS1FKdkx3RExoVHRHNVBwMkF6eXVfeEljWFRndXdxWjVTVDJV0gG0AUFVX3lxTE9PZS16QTFyMmluU2ZvWklkOUNQQUdlTGVmMm5mX0MyV2xHVi0ybjlKNzZFcTBldkR1MW5tNUp5ams3Zl9HRFRVZEpFVmVuVEl6NmFLZFhzS29ZMjRBNVItWXZTZUJmanc2MjZqLVU0bUhPbFdqQ1J5Nl9pT3lBaThoc1p3ODZGaUZXUGpkOTl3bGxVQjB4QjMwV1VHQzFodEZQTW5GSU1MSkcwS2FacFkwcGhpNg",
+        "image": null,
+        "timestamp": 1778856075.0
     },
     {
         "title_fa": "ترامپ زمان‌بندی برای محدودسازی برنامه هسته‌ای ایران تعیین کرد: «۲۰ سال کافی است»",
@@ -268,6 +304,24 @@
         "clean_url": "https://indianexpress.com/article/world/iran-us-war-live-updates-trump-hormuz-strait-tolls-xi-jinping-10690284",
         "image": null,
         "timestamp": 1778825100.0
+    },
+    {
+        "title_fa": "فرمانده فرماندهی مرکزی آمریکا: جنگ، توان نظامی رژیم ایران را به‌شدت کاهش داده است",
+        "title_en": "US Central Command chief: Iran's military 'severely degraded'",
+        "summary": [
+            "فرمانده فرماندهی مرکزی آمریکا به قانون‌گذاران گفته جنگ، توان نظامی رژیم ایران را «به‌شدت تضعیف» کرده است.",
+            "این اظهارنظر، یک ارزیابی مستقیم از فرسایش قابلیت‌های دفاعی-عملیاتی تهران ارائه می‌کند و نشان می‌دهد واشنگتن اثر جنگ را در ظرفیت‌های نظامی رژیم قابل مشاهده می‌داند.",
+            "با توجه به اینکه متن خبر فقط به «تخریب شدید» توان نظامی اشاره کرده، جزئیات مربوط به نوع عملیات یا زمان‌بندی ارائه نشده و نمی‌توان ارتباط مشخص‌تری را بدون داده بیشتر نتیجه گرفت."
+        ],
+        "impact": "کاهش قابلیت‌های نظامی اعلام‌شده از سوی آمریکا می‌تواند توان رژیم برای بازدارندگی و مدیریت ریسک‌های میدانی را محدود کند، هرچند گزارش حاضر شواهد جزئی ارائه نمی‌دهد.",
+        "tag": "تحلیل",
+        "urgency": 6,
+        "sentiment": -0.35,
+        "source": "UPI on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-central-command-chief-irans-military-severely-degraded/ar-AA23dA9O",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-central-command-chief-irans-military-severely-degraded/ar-AA23dA9O",
+        "image": "http://www.bing.com/th?id=ONUT.MMEmvmK8UOCI1VS074ME4Q&pid=News",
+        "timestamp": 1778825078.0
     },
     {
         "title_fa": "توضیح ترامپ درباره پذیرش «تعلیق کامل ۲۰ ساله» برنامه هسته‌ای ایران",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.tbsnews.net/worldbiz/middle-east/irans-guards-threaten-us-sites-trump-waits-tehran-response-1434681",
         "image": null,
         "timestamp": 1778368680.0
-    },
-    {
-        "title_fa": "آیا در جنگِ ناتمام ایران هیچ برنده‌ای هست؟",
-        "title_en": "Are there any winners in unfinished Iran war?",
-        "summary": [
-            "گزارش از انفجارها و «اقدامات دفاع از خود» آمریکا و همچنین ازسرگیری درگیری‌ها در نزدیکی تنگه هرمز می‌گوید؛ یعنی تنش دریایی همچنان بدون مهار پایدار ادامه دارد.",
-            "بر اساس متن، اهرم‌گیری دریاییِ حل‌نشده و آسیب‌پذیری خلیج فارس می‌تواند ریسک گسترش درگیری را بالا ببرد؛ چون مسیرهای حیاتی تجاری در معرض تکرار حادثه و حمله قرار می‌مانند.",
-            "بحران در چارچوب «بن‌بست سیاسی» توصیف شده است؛ نتیجه عملی آن این است که سازوکار پایدار برای پایان دادن به دورِ جدید درگیری‌ها وجود ندارد."
-        ],
-        "impact": "عدم‌حل اهرم‌های دریایی و ادامه بن‌بست سیاسی، احتمال تشدید و کشیده شدن جنگ به سطح وسیع‌تر را افزایش می‌دهد.",
-        "tag": "تنش_منطقه‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/military/are-there-any-winners-in-unfinished-iran-war/ar-AA22NeYJ",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/are-there-any-winners-in-unfinished-iran-war/ar-AA22NeYJ",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA22N9AZ.img?w=768&h=502&m=6",
-        "timestamp": 1778364420.0
-    },
-    {
-        "title_fa": "ادعای آمریکا درباره «اقدام دفاعی»: حملات به اهداف نظامی ایران همزمان با عبور ناوشکن‌ها از تنگه هرمز",
-        "title_en": "US says it carried out self-defense strikes after Iranian attack",
-        "summary": [
-            "فرماندهی مرکزی آمریکا (CENTCOM) اعلام کرد نیروهای آمریکایی در پاسخ به حمله نیروهای ایرانی شامل موشک، پهپاد و قایق‌های کوچک به ناوشکن‌های ایالات متحده در مسیر خلیج عمان، «حملات دفاعی» انجام دادند و به مجموعه‌ای از سایت‌های مرتبط با حملات از جمله پایگاه‌های پرتاب پهپاد/موشک، مراکز فرماندهی-کنترل و زیرساخت‌های اطلاعاتی و شناسایی ضربه زدند.",
-            "در مقابل، ایران آمریکا را ناقض آتش‌بس دانست؛ اتهام زده شد که نیروهای آمریکایی به یک نفتکش ایرانی و یک کشتی دیگر حمله کرده‌اند و همچنین ادعا شد حملات نزدیک جزیره قشم و دیگر مناطق ساحلی انجام شده است.",
-            "همزمان با این تبادل، رئیس‌جمهور ترامپ گفت آتش‌بس همچنان برقرار است و از تداوم گفت‌وگوها خبر داد: وزارت خارجه ایران از مذاکره از مسیر میانجی‌های پاکستانی سخن گفت، هیچ نتیجه‌ای اعلام نشده و پاسخ ایران نیز هنوز داده نشده؛ گزارش‌ها همچنین از پیش‌نویس در دست بررسی برای کاهش محدودیت‌ها در تنگه هرمز حکایت دارند."
-        ],
-        "impact": "این رویداد نشان می‌دهد هرگونه روند آتش‌بس یا مذاکره می‌تواند با حملات متقابل دوباره وارد فاز بی‌ثباتی نظامی شود و هزینه محاسبات سیاسی ایران و آمریکا را افزایش دهد.",
-        "tag": "iran",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Scripps News",
-        "url": "https://www.aol.com/news/iran-says-no-decisions-made-190157445.html",
-        "clean_url": "https://www.aol.com/news/iran-says-no-decisions-made-190157445.html",
-        "image": null,
-        "timestamp": 1778357092.0
-    },
-    {
-        "title_fa": "گزارش WSJ: اسرائیل در جنگ ایران علیه عراق پایگاه محرمانه داشت و برای جلوگیری از افشا به نیروهای عراقی شلیک کرد",
-        "title_en": "WSJ: Israel operated secret base in Iraq during Iran war, struck Iraqi troops to prevent exposure",
-        "summary": [
-            "طبق گزارش WSJ که i24NEWS منتشر کرده، اسرائیل در دوران جنگ ایران فعالیت میدانی را از طریق یک پایگاه محرمانه در خاک عراق انجام می‌داده است.",
-            "این گزارش ادعا می‌کند اسرائیل برای جلوگیری از «در معرض قرار گرفتن/افشا شدن»، به نیروهای عراقی حمله کرده تا مانع کشف یا ردیابی فعالیت‌های خود شود.",
-            "بخش کلیدی گزارش نه صرفاً عملیات اطلاعاتی، بلکه درگیری مستقیم با نیروهای عراقی برای حفاظت از پوشش عملیاتی اسرائیل است."
-        ],
-        "impact": "این نوع اقدام، ریسک بی‌ثباتی منطقه‌ای و افزایش اصطکاک میان بازیگران در عراق را بالا می‌برد چون هر درگیری می‌تواند به زنجیره انتقام و محدودیت‌های امنیتی برای دولت عراق منجر شود.",
-        "tag": "منطقه‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "i24NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVl9XbHRoYThMMlJoLXI0bkJzMFlYUE1zZ2RNUE5vY1RGVEg4bl9yQWpJMUZnc1Z6ck03cHBBNlN0QzJZN2ZudVc2ekw2U3lrTkE1dDNvT3FhX0Npcm15WVlhU01Oak0zVmplYTRXVWtCN0RqVlBlZ2Z6amdIa2FGTDU4VWljMWJPV0VqbUN6dTBodkF4NDZWRU5BUG5aVHQwSGhQWXQxeEwta2ZTSXZ5YUdUZ3VqWERHQzZROGZaM3F1cUhrMFJHelhkMThLSmx5M05BanNSaFU4MGs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVl9XbHRoYThMMlJoLXI0bkJzMFlYUE1zZ2RNUE5vY1RGVEg4bl9yQWpJMUZnc1Z6ck03cHBBNlN0QzJZN2ZudVc2ekw2U3lrTkE1dDNvT3FhX0Npcm15WVlhU01Oak0zVmplYTRXVWtCN0RqVlBlZ2Z6amdIa2FGTDU4VWljMWJPV0VqbUN6dTBodkF4NDZWRU5BUG5aVHQwSGhQWXQxeEwta2ZTSXZ5YUdUZ3VqWERHQzZROGZaM3F1cUhrMFJHelhkMThLSmx5M05BanNSaFU4MGs",
-        "image": null,
-        "timestamp": 1778356452.0
     }
 ]
