@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "افزایش بیش از ۳ درصدی قیمت نفت به خاطر ترس از درگیری جدید میان آمریکا و ایران",
+        "title_en": "Oil prices climb more than 3% on fears of new US-Iran combat",
+        "summary": [
+            "طبق گزارش رویترز، قیمت نفت بیش از ۳٪ رشد کرده است؛ محرک اصلی بازار «نگرانی از احتمال درگیری تازه میان آمریکا و ایران» است، نه بهبود واقعی در عرضه یا تقاضا.",
+            "این واکنش نشان می‌دهد ریسک ژئوپلیتیک برای معامله‌گران به سطحی رسیده که حتی بدون تأیید جزئیات عملیات، قیمت‌ها را بالا می‌برد.",
+            "از منظر فشار خارجی، چنین جهشی در نفت می‌تواند هم هزینه سرمایه‌گذاری و برنامه‌ریزی برای طرفین را افزایش دهد و هم جریان‌های درآمدی احتمالی برای حکومت را در معرض نوسان قرار دهد؛ نتیجه‌اش تشدید بی‌ثباتی اقتصادی است تا هر نوع اصلاح ساختاری."
+        ],
+        "impact": "افزایش قیمت نفت تحت ترس جنگی، ریسک بی‌ثباتی اقتصاد را بالا می‌برد و به‌طور مستقیم بر انتظارات بازار و برنامه‌ریزی مالی اثر منفی می‌گذارد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMS0waVlBR0ttTF9aOW14VVAxLVl2UklOaktqdHF5R3lUYnBENnI0Y3F3VEh3bV9Kb2VJSUNuR0xSaXFiRVZiM0cyWmlEdWdVR3ZYLU5HUUJkZHdtODlDRFhmamtCTU40eUVrZDBDZVdxeV9OZ3ZzV08zOURTcU5JSVpjelhWUGp2TWJ6SUlkaEVxN0hSOThvUHFFMXhtdlEw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMS0waVlBR0ttTF9aOW14VVAxLVl2UklOaktqdHF5R3lUYnBENnI0Y3F3VEh3bV9Kb2VJSUNuR0xSaXFiRVZiM0cyWmlEdWdVR3ZYLU5HUUJkZHdtODlDRFhmamtCTU40eUVrZDBDZVdxeV9OZ3ZzV08zOURTcU5JSVpjelhWUGp2TWJ6SUlkaEVxN0hSOThvUHFFMXhtdlEw",
+        "image": null,
+        "timestamp": 1778873597.0
+    },
+    {
+        "title_fa": "ترامپ در حال بررسی کاهش تحریم‌های نفت ایران پس از دیدار با شی جین‌پینگ",
+        "title_en": "Trump weighs easing Iran oil sanctions after meeting with Xi Jinping",
+        "summary": [
+            "طبق گزارش Scripps News، ترامپ پس از دیدار با شی جین‌پینگ درباره «اِعمالِ تخفیف» یا «سهولت» تحریم‌ها علیه شرکت‌های چینی که نفت ایران می‌خرند، در حال بررسی است.",
+            "این اقدام، در صورت اجرایی‌شدن، به‌طور مستقیم اهرم فشار خارجی بر درآمد نفتی ایران را کاهش می‌دهد و می‌تواند اثرات مالی تحریم‌ها را برای رژیم کم‌رنگ‌تر کند.",
+            "چارچوب گزارش نشان می‌دهد تمرکز تصمیم در سطح شرکت‌ها و خرید نفت از مسیر چین است، نه تغییر کلی در سیاست؛ بنابراین ریسک «کاهش فشار هدفمند» وجود دارد که به بقای مالی رژیم کمک می‌کند."
+        ],
+        "impact": "اگر ترامپ تحریم‌ها را علیه شرکت‌های چینی خریدار نفت ایران کاهش دهد، انسداد درآمدهای ارزی ایران ضعیف می‌شود و فشار خارجی بر ثبات مالی رژیم کمتر خواهد شد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "Scripps News",
+        "url": "https://www.scrippsnews.com/politics/the-president/trump-weighs-easing-iran-oil-sanctions-after-meeting-with-xi-jinping",
+        "clean_url": "https://www.scrippsnews.com/politics/the-president/trump-weighs-easing-iran-oil-sanctions-after-meeting-with-xi-jinping",
+        "image": null,
+        "timestamp": 1778872427.0
+    },
+    {
+        "title_fa": "توافق اسرائیل و لبنان برای تمدید ۴۵ روزه آتش‌بس؛ واشنگتن همزمان مسیر سیاسی و امنیتی را پیش می‌برد",
+        "title_en": "Israel and Lebanon agree to 45-day extension of ceasefire, U.S. State Department says",
+        "summary": [
+            "اسرائیل و لبنان پس از دو روز مذاکره در واشنگتن، آتش‌بس «شکننده» را ۴۵ روز دیگر تمدید کردند و وزارت خارجه آمریکا اعلام کرد مسیر سیاسی را در ژوئن از سر می‌گیرد.",
+            "با وجود توافق، تبادل آتش از ۱۶ آوریل ادامه داشته و وزارت بهداشت لبنان می‌گوید در حملات هوایی اسرائیل طی روزهای اخیر ۲۲ نفر از جمله ۸ کودک کشته شده‌اند؛ اسرائیل این اتهام را رد می‌کند و می‌گوید هدفش نیروها و زیرساخت‌های حزب‌الله است.",
+            "آمریکا هم‌زمان «مسیر امنیتی» را از ۲۹ مه در پنتاگون با حضور هیئت‌های نظامی دو طرف راه‌اندازی می‌کند و اسرائیل نیز برای ایجاد «منطقه حائل» در جنوب لبنان پیشروی می‌کند؛ گزارش‌ها از ویرانی گسترده روستاها و جابه‌جایی گسترده غیرنظامیان (بیش از یک میلیون نفر) حکایت دارد."
+        ],
+        "impact": "تمدید آتش‌بس ۴۵ روزه، تنش را موقتاً مدیریت می‌کند اما ادامه حملات، شکل‌گیری منطقه حائل و تلفات غیرنظامی، چرخه جنگ فرسایشی را به تعویق می‌اندازد نه پایان می‌دهد.",
+        "tag": "منطقه‌ای",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "PBS",
+        "url": "https://www.aol.com/news/israel-lebanon-agree-extend-ceasefire-184310248.html",
+        "clean_url": "https://www.aol.com/news/israel-lebanon-agree-extend-ceasefire-184310248.html",
+        "image": null,
+        "timestamp": 1778871484.0
+    },
+    {
         "title_fa": "تشدید درگیری‌های حزب‌الله و اسرائیل و اشاره ترامپ به احتمال عملیات علیه ایران",
         "title_en": "Hezbollah-Israel hostilities intensify; Trump hints Iran operation likely TV7 Israel News 15 May.",
         "summary": [
@@ -198,6 +252,24 @@
         "timestamp": 1778845480.0
     },
     {
+        "title_fa": "ترامپ: صبرم با ایران رو به پایان است؛ در مذاکرات با شی جین‌پینگ درخواست کمک از چین نداشتم",
+        "title_en": "Trump says he is losing patience with Iran, did not ask China for favors",
+        "summary": [
+            "ترامپ اعلام کرد صبر او با ایران رو به پایان است و تأکید دارد که تهران نباید به سلاح هسته‌ای دست پیدا کند و باید روندهای مشخص برای بازگشایی/بازگشت را از سر بگیرد.",
+            "ترامپ گفت در جریان گفت‌وگو با شی جین‌پینگ، از چین درخواست «امتیاز» یا «کمک» نکرده است؛ یعنی فشار یا مدیریت بحران به‌صورت مستقیم از مسیر چین طراحی نشده است.",
+            "این پیام بیشتر در چارچوب فشار سیاسی-دیپلماتیک و تهدید به تشدید اقدامات مطرح شده، بدون ارائه جزئیات جدید درباره اقدام نظامی یا ابتکار مشخص تحریمی در متن گزارش."
+        ],
+        "impact": "این اظهارات می‌تواند فضای تصمیم‌گیری در تهران را تنگ‌تر کند و احتمال تشدید فشارهای خارجی را بالا ببرد، اما در این خبر شواهد مشخصی از اقدام عملی فوری ارائه نشده است.",
+        "tag": "فشار",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15/",
+        "clean_url": "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15",
+        "image": "http://www.bing.com/th?id=ONUT.RFpq8L2F90kYXbXJaT5MRA&pid=News",
+        "timestamp": 1778845200.0
+    },
+    {
         "title_fa": "ترامپ درباره تحریم شرکت‌های چینی خریدار نفت ایران وعده تصمیم «به‌زودی» داد",
         "title_en": "Trump says he will soon make a decision about sanctions on Chinese companies buying Iranian oil",
         "summary": [
@@ -214,6 +286,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5BQUdQSGFXTkRmcDM3ZXBwdzRoZ1pVSUhHcDNESG9mMFlGYXdlMlZ5bEE4eUVvYjFRdmUwb29ya1VDMEN5T2w3NXpqVDUzb21naFBudHVHNUlpdm1MdFY1Wk5BWEM0UWk2OC1XeW1XdkRmUDhMX0lxbVBB0gF_QVVfeXFMTkJMT2FOZEtiMHBDVGYweTFSMWpuQkdReGJscFNBUEhxQktTWEJJYmp0SV9Ld092U09aR0lsY2tXLVlhbzFVb3lqZDA2YVQxWXB0dlJFdE51UVo0N19nSmgyYVBndzQtUGdFVlJxVzVBTmx1WW5yNUs5ZlI3M0dLbw",
         "image": null,
         "timestamp": 1778844394.0
+    },
+    {
+        "title_fa": "تخفیف‌دادن نماینده برجسته حزب جمهوری‌خواه آمریکا به گرانی بنزین با نسبت دادن آن به جنگ ایران",
+        "title_en": "Powerful GOP Congressman Dismisses Rising Gas Prices from Iran War: 'That's Life'",
+        "summary": [
+            "جیم جردن، نماینده برجسته جمهوری‌خواه آمریکا، هنگام پرسش درباره افزایش قیمت بنزین که به جنگ با ایران نسبت داده می‌شود، آن را با لحن بی‌اعتنا «زندگی همین است» رد کرد.",
+            "این موضع در گفت‌وگو با کیتلن کالینز از CNN مطرح شد و نشان داد بخشی از جریان حاکم آمریکا حاضر نیست هزینه‌های اقتصادیِ مرتبط با سیاست‌های منطقه‌ای را به عنوان موضوع سیاسی-فشارزا جدی بگیرد.",
+            "از منظر راهبردی، چنین نوع واکنش عمومی می‌تواند به معنای پذیرش ضمنی فشار اقتصادیِ ناشی از تنش با ایران برای جامعه آمریکا و کاهش احتمال عقب‌نشینی سریع سیاست‌ها باشد."
+        ],
+        "impact": "این اظهارنظر، هزینه اقتصادیِ مرتبط با تنش ایران را از فهرست اولویت‌های سیاسی-داخلی خارج می‌کند و می‌تواند مسیر تداوم فشارها را هموارتر سازد.",
+        "tag": "آمریکا",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "People",
+        "url": "https://people.com/gop-congressman-dismisses-rising-gas-prices-from-iran-war-thats-life-11975782",
+        "clean_url": "https://people.com/gop-congressman-dismisses-rising-gas-prices-from-iran-war-thats-life-11975782",
+        "image": "http://www.bing.com/th?id=ONUT.MBpKPYUprbUTZEPBWvwDiw&pid=News",
+        "timestamp": 1778844060.0
     },
     {
         "title_fa": "ترامپ بعد از سفر به پکن می‌گوید احتمال تعلیق ۲۰ ساله برنامه هسته‌ای ایران باز است",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNajk0b1NHZ0VVbzZaMjlFc3Npc0hVS3FobjQxTzB2S1NTNFU3a2N3Y0ptMmdXbHdmejVSeG56OGc0WmhKQk9aOVowTGZremJudXM2VTFCNGkzRER0c0xITmNCUWNxNWRvZ2dPd3BpOE5qQWxCb1V6R1RUQV8tOVRmTTZNbmtZZnc4b1ZPYkpYLXNiMEVnbDRmeUd2cTlSblZGRGRCNU14d2IzenAtUGF5UFBCNHljVUNRR1NhX25aUTR0M0pCY240QzQ5RjlhdGp0",
         "image": null,
         "timestamp": 1778387056.0
-    },
-    {
-        "title_fa": "قطر نخستین محموله LNG را از تنگه هرمز پس از آغاز جنگ ارسال کرد",
-        "title_en": "Qatar Sends First LNG Shipment Through Hormuz Since War Started",
-        "summary": [
-            "بلومبرگ گزارش می‌دهد قطر نخستین محموله LNG را از مسیر تنگه هرمز پس از شروع جنگ جابه‌جا کرده است؛ یعنی چرخه کشتیرانی در یک کریدور حساس دوباره فعال‌تر شده است.",
-            "این رخداد مستقیماً به پیامدهای عملیِ درگیری برای مسیرهای انرژی اشاره دارد: نفتکش‌ها و حامل‌های گاز در نزدیکی جزیره قشم (در تنگه هرمز) در حال ناوبری دیده می‌شوند و ریسک عملیاتی برای انتقال انرژی همچنان موضوع تعیین‌کننده است.",
-            "برای ثبات رژیم، هر افزایش در عبور و مرور انرژی یعنی فشار کمتر روی درآمدها و ظرفیت کنترل‌پذیری بیشتر کریدور است، اما خودِ گزارش نشان می‌دهد که ادامه فعالیت دریایی از یک «وضعیت جنگی» جدا نشده و کماکان هزینه ریسک وجود دارد."
-        ],
-        "impact": "بازگشت بخشی از کشتیرانی LNG از هرمز می‌تواند جریان درآمدی و وضعیت اقتصادی رژیم را تا حدی از حالت شوک خارج کند، ولی جنگی‌بودن شرایط را ثابت نگه می‌دارد.",
-        "tag": "انرژی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Bloomberg.com",
-        "url": "https://www.bostonglobe.com/2026/05/10/world/qatar-sends-1st-lng-shipment-through-hormuz-since-war-started/",
-        "clean_url": "https://www.bostonglobe.com/2026/05/10/world/qatar-sends-1st-lng-shipment-through-hormuz-since-war-started",
-        "image": null,
-        "timestamp": 1778386980.0
-    },
-    {
-        "title_fa": "دادگاه تهدیدات: واکنش ایران به پیشنهاد آمریکا برای پایان جنگ، طبق گزارش رسانه دولتی",
-        "title_en": "Trump Administration Live Updates: Iran Responds to U.S. Proposal to End the War, Iranian State Media Says",
-        "summary": [
-            "در حالی که آمریکا و ایران در اظهارات عمومی شنبه همچنان در حال تهدید متقابل‌اند، رسانه دولتی ایران می‌گوید پاسخ تهران به پیشنهاد آمریکا برای پایان جنگ، با لحن امنیتی و تهدید عملیاتی همراه بوده است.",
-            "سپاه پاسداران/نیروی دریایی آن تأکید کرده هرگونه حمله به کشتی‌های ایرانی با «حمله سنگین» پاسخ داده می‌شود؛ این پیام، هشدار مستقیم برای تشدید احتمالی تنش دریایی است.",
-            "این روند نشان می‌دهد فرآیند پایان جنگ ـ حداقل در سطح تبلیغاتی ـ با بی‌اعتمادی و آماده‌باش امنیتی پیش می‌رود، نه با توافق سیاسی روشن؛ بنابراین ریسک برخوردهای محدود اما پیشرونده در آب‌های منطقه بالا می‌ماند."
-        ],
-        "impact": "تهدیدات متقابل درباره کشتی‌ها، احتمال درگیری دریایی و گسترش چرخه اقدام-پاسخ را در کوتاه‌مدت افزایش می‌دهد.",
-        "tag": "تنش_منطقه‌ای",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/05/10/us/trump-news",
-        "clean_url": "https://www.nytimes.com/live/2026/05/10/us/trump-news",
-        "image": null,
-        "timestamp": 1778383860.0
-    },
-    {
-        "title_fa": "عقب‌ماندن واقعیت از ادعاهای ترامپ درباره مذاکرات ایران",
-        "title_en": "Reality Lags Behind Trump's Diplomatic Claims on Iran Talks",
-        "summary": [
-            "هاارتز گزارش می‌کند که ادعاهای ترامپ درباره پیشرفت «مذاکرات ایران» با وضعیت واقعی همخوان نیست و شکاف میان روایت دیپلماتیک و روند عملی وجود دارد.",
-            "این فاصله نشان می‌دهد کانال‌های گفت‌وگو، یا پیشرفت ملموسی ندارند یا حداقل به شکلی نیستند که در سطح میدانی و تصمیم‌سازی دیده شود؛ یعنی خروجی قابل راستی‌آزمایی تولید نشده است.",
-            "تا وقتی واقعیت مذاکرات روشن و قابل سنجش نباشد، این‌گونه اظهارات صرفاً هزینه تبلیغاتی برای مدیریت انتظارات می‌سازد و می‌تواند برنامه‌ریزی اقتصادی و سیاسی بازیگران منطقه‌ای/بین‌المللی را هم دچار اختلال کند."
-        ],
-        "impact": "اگر پیشرفت واقعی وجود نداشته باشد، ادعاهای دیپلماتیک بیشتر نقش کنترل روایت دارند تا کاهش ریسک یا ایجاد مسیر اجرایی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcmtOdVRBWkNEVXhhR0dIc3R4R2xxejl2Tk5vZ3o3LTNvVk5OTHMtV1otX2l4VGtLY3RrUmczUkZoSFFweHk3ZjVPSHZZZjdXVkt2WmVYcmxZQmVzSERKelBvc04tNC1kSmNnWk5vN1hOSVVCTXY2cHdpTDFGV2JVeER3MEhNUVEyNGxFX2Nndk9BNzRTaFBnNFJ1YVNWRkZvYzdtak9tczhPWGZqYWxsY29ueXNpVC1xVGF0Zkw5aTV6MXZwZFVfeGFLLVJ4UGRTQTd1TTJkc21wWEFfazVETVpqa1Y2ZFFQVXVmVW9uRmZjYWVVNFlTTjA5N0JuLXJPcVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcmtOdVRBWkNEVXhhR0dIc3R4R2xxejl2Tk5vZ3o3LTNvVk5OTHMtV1otX2l4VGtLY3RrUmczUkZoSFFweHk3ZjVPSHZZZjdXVkt2WmVYcmxZQmVzSERKelBvc04tNC1kSmNnWk5vN1hOSVVCTXY2cHdpTDFGV2JVeER3MEhNUVEyNGxFX2Nndk9BNzRTaFBnNFJ1YVNWRkZvYzdtak9tczhPWGZqYWxsY29ueXNpVC1xVGF0Zkw5aTV6MXZwZFVfeGFLLVJ4UGRTQTd1TTJkc21wWEFfazVETVpqa1Y2ZFFQVXVmVW9uRmZjYWVVNFlTTjA5N0JuLXJPcVE",
-        "image": null,
-        "timestamp": 1778382000.0
-    },
-    {
-        "title_fa": "تبعیض اینترنتی در ایران؛ «اینترنت پرو» بعد از قطع گسترده شبکه‌ها، خشم عمومی و شکاف در مدیریت را آشکار کرد",
-        "title_en": "Iran’s two-tier internet access fuels anger and exposes cracks in the regime",
-        "summary": [
-            "طبق گزارش CNN روی MSN، بعد از «قطع اینترنت بی‌سابقه»، بخشی از کاربران با دسترسی ممتاز تحت عنوان «Internet Pro» دوباره آنلاین شدند و همین موضوع به موج اعتراض و انتقاد عمومی دامن زده است.",
-            "وجود یک اینترنت دوطبقه (برای برخی عادی/برای برخی ممتاز) به‌عنوان عامل اصلی افزایش خشم عمومی معرفی شده و نشان می‌دهد قطع و وصل‌ها صرفاً یک تصمیم فنی نبوده، بلکه ابزار مدیریت نابرابر دسترسی است.",
-            "این وضعیت «ترک در رژیم» تلقی شده: یعنی مردم کاهش خدمات سراسری و سپس امتیازدهی گزینشی را به‌عنوان نشانه‌ای از ناهماهنگی و بحران اعتماد می‌بینند."
-        ],
-        "impact": "این الگوی دسترسی دوطبقه، هزینه سیاسی حاکمیت را بالا می‌برد و نارضایتی عمومی را از سطح مصرف رسانه‌ای به اعتراض علنی و پیوسته تبدیل می‌کند.",
-        "tag": "internet",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-two-tier-internet-access-fuels-anger-and-exposes-cracks-in-the-regime/ar-AA22OVaR",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-two-tier-internet-access-fuels-anger-and-exposes-cracks-in-the-regime/ar-AA22OVaR",
-        "image": "http://www.bing.com/th?id=ONUT.HCXF3OURxJCEGcDTiLQo_w&pid=News",
-        "timestamp": 1778380319.0
-    },
-    {
-        "title_fa": "آزمون آتش‌بس ایران؛ آتش‌گرفتن یک کشتی باری پس از اصابت موشک/پروژه نامعلوم در سواحل قطر",
-        "title_en": "Iran ceasefire tested as cargo ship catches fire after being hit off Qatar's coast",
-        "summary": [
-            "طبق اعلام نیروی نظامی بریتانیا، یک کشتی باری یکشنبه پس از اصابت یک «پروژه نامعلوم» در نزدیکی سواحل قطر دچار آتش‌سوزی شد.",
-            "این حادثه بدون روشن شدن هویت طرف درگیر یا نوع و منشأ اصابت رخ داده و بنابراین فعلاً صرفاً یک آزمایش عملی برای شکنندگی یا لغزش در آتش‌بس تلقی می‌شود.",
-            "پیامد مستقیم گزارش‌شده، اختلال و ریسک ایمنی برای کشتیرانی منطقه است، اما متن خبر ارتباط قطعی با سازوکار آتش‌بس یا رژیم مشخص نمی‌کند."
-        ],
-        "impact": "آتش‌سوزی پس از اصابت در آب‌های نزدیک قطر نشان می‌دهد ادعاهای آتش‌بس در عمل می‌تواند با رخدادهای غیرشفاف و قابل‌تداوم در محیط امنیتی منطقه‌ای هم‌زمان شود.",
-        "tag": "امنیت‌دریایی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar",
-        "clean_url": "https://www.npr.org/2026/05/10/nx-s1-5817437/iran-cargo-ship-hit-off-qatar",
-        "image": "http://www.bing.com/th?id=ONUT.FWRNhoyGlky4SyE6XjeM4g&pid=News",
-        "timestamp": 1778379120.0
     }
 ]
