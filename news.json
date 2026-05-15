@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آمریکا می‌خواهد دامنه درگیری حزب‌الله را محدود کند؛ آتش‌بس ایران رو به فرسایش است",
+        "title_en": "US Officials Aim to Contain Hezbollah Fight as Iran Ceasefire Frays",
+        "summary": [
+            "طبق گزارش Military.com، مقام‌های آمریکایی هدف دارند درگیری جاری مرتبط با حزب‌الله را «مهار» کنند تا به گسترش یا تشدید غیرقابل‌کنترل منجر نشود.",
+            "هم‌زمان، گزارش از «فرسایش آتش‌بس» میان ایران و طرف‌های درگیر خبر می‌دهد؛ یعنی توافقی که قرار بوده تنش را کاهش دهد، دوام کمتری دارد.",
+            "این ترکیبِ مهارِ جنگ و شکنندگی آتش‌بس، نشان می‌دهد واشنگتن در عمل برای جلوگیری از تبدیل شدن یک درگیری منطقه‌ای به یک چرخه تشدید گسترده‌تر تلاش می‌کند."
+        ],
+        "impact": "فرسایش آتش‌بس همراه با تلاش آمریکا برای محدودسازی درگیری، ریسک ازسرگیری یا گسترش موجی حملات و بی‌ثباتی بیشتر در سطح منطقه را بالا می‌برد.",
+        "tag": "منطقه‌ای",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Military.com",
+        "url": "https://www.military.com/israel-lebanon-talks-hit-tension-point-as-hezbollah-fighting-rages",
+        "clean_url": "https://www.military.com/israel-lebanon-talks-hit-tension-point-as-hezbollah-fighting-rages",
+        "image": null,
+        "timestamp": 1778805420.0
+    },
+    {
         "title_fa": "پیشروی عملیات‌های اسرائیل-آمریکا و ضربات متقابل؛ ادعای کشته‌شدن رهبران ارشد در تهران و تداوم حملات بالستیک",
         "title_en": "Live Updates: Latest from Israel, Iran, and Middle East",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-uk-redeploys-destroyer-back-to-middle-east/ar-AA22KG3b",
         "image": "http://www.bing.com/th?id=ONUT.GoVvJavOQkFye8yPbe0zgg&pid=News",
         "timestamp": 1778304357.0
-    },
-    {
-        "title_fa": "پنج نکته کلیدی درباره جنگ اقتصادی/فشار دولت ترامپ علیه ایران",
-        "title_en": "Five takeaways as Trump wages war on Iran",
-        "summary": [
-            "عنوان «پنج نکته» فقط چارچوب کلی را می‌گوید و متن گزارش در اختیار نیست؛ بنابراین نمی‌توان مشخص کرد دقیقاً چه اقدامات مشخصی علیه ایران اعلام شده است یا سطح فشار چگونه تغییر کرده.",
-            "در نبود جزئیات، تحلیل قابل اتکا فقط می‌تواند روی پیامدهای ساختاری «جنگ فشار» متمرکز باشد: تشدید محدودیت‌های مالی و تجاری معمولاً به تنگنای نقدینگی، هزینه بالاتر مبادله و فرسایش توان بودجه‌ای دولت منجر می‌شود—اما این ادعا باید با جزئیات همان خبر سنجیده شود.",
-            "برای ارزیابی اثرات داخلی (نارضایتی، کسری کالا/ارز، و فشار معیشتی) یا نقش بازیگران خارجی در تداوم بقای رژیم، لازم است متن خبر درباره ابزارهای فشار (تحریم‌های جدید، اقدامات اجرایی، یا تهدیدات) و زمان‌بندی آن ارائه شود."
-        ],
-        "impact": "بدون متن کامل گزارش AOL.com، فقط می‌توان گفت «جنگ فشار» می‌تواند به تضعیف ساختاری رژیم از مسیر اقتصاد و منابع مالی منجر شود، اما شدت و جهت اثرگذاری هنوز قابل راستی‌آزمایی نیست.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "AOL.com",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjUWZzTU1NemNnNUVfOWgwRmhxcEZ0QlAwanJPSmFpUkRIbkdPaE02TGNuODBFaEVRazlNU3U4Mkp3QjE3d01WYl9ISTFBSVhWRXE3UFhpeGFFemlGSzNKOE1NMXJSTGRZMnBqcmlIOW4zU0U?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjUWZzTU1NemNnNUVfOWgwRmhxcEZ0QlAwanJPSmFpUkRIbkdPaE02TGNuODBFaEVRazlNU3U4Mkp3QjE3d01WYl9ISTFBSVhWRXE3UFhpeGFFemlGSzNKOE1NMXJSTGRZMnBqcmlIOW4zU0U",
-        "image": null,
-        "timestamp": 1778300580.0
     }
 ]
