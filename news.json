@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "گزارش ویژه شبانه ایران (۱۶ می ۲۰۲۶)؛ عدم ارائه جزئیات در متن ارسالی",
+        "title_en": "Iran Update Evening Special Report, May 16, 2026",
+        "summary": [
+            "متن ارسالی تنها شامل عنوان گزارش «Iran Update Evening Special Report, May 16, 2026» از منبع Critical Threats است و هیچ رویداد مشخص، عدد، نام مقام، یا ادعای قابل راستی‌آزمایی درباره ایران ذکر نشده.",
+            "بنابراین نمی‌توان درباره موضوعات کلیدی مثل تحریم/فشار خارجی، نقش روسیه/چین/کره‌شمالی، یا وضعیت اعتراضات و اقتصاد تحلیل عینی ارائه کرد چون داده‌ای در متن وجود ندارد.",
+            "برای تحلیل راهبردی دقیق، باید بدنه گزارش (پاراگراف‌ها یا بولت‌های خبری) ارسال شود تا بتوانم فقط بر اساس محتوای قابل مشاهده نتیجه‌گیری کنم."
+        ],
+        "impact": "در وضعیت فعلی، چون محتوای خبری گزارش ارائه نشده، نمی‌توان اثر راهبردی یا میزان تهدید را بر اساس شواهد استخراج‌شده از متن تعیین کرد.",
+        "tag": "نامشخص",
+        "urgency": 1,
+        "sentiment": 0,
+        "source": "Critical Threats",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzBBc3E0bi0xY2RjZ2tnVG1jbENPbmJLdFJaamNsaHpUbmtEUEJLYTZNYnF1NEdYV1Z1OEhIYVNoUzgxendLTUJkRVV0MzlTMnE0VjJDODF1bWdjRXh0c01wY05RaUJrNkk3WThfYy1SMkxiOU4zQXlmR0pPYVdHcTFIaTlSaUpxUXFLTnE3eW4?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOXzBBc3E0bi0xY2RjZ2tnVG1jbENPbmJLdFJaamNsaHpUbmtEUEJLYTZNYnF1NEdYV1Z1OEhIYVNoUzgxendLTUJkRVV0MzlTMnE0VjJDODF1bWdjRXh0c01wY05RaUJrNkk3WThfYy1SMkxiOU4zQXlmR0pPYVdHcTFIaTlSaUpxUXFLTnE3eW4",
+        "image": null,
+        "timestamp": 1778964574.0
+    },
+    {
         "title_fa": "جمع‌بندی TRT World: تشدید تنش جنگی با ایران، پیام‌های متناقض واشنگتن و بن‌بست سیاسی تهران-آمریکا",
         "title_en": "Live blog - US-Israeli war on Iran",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/irans-response-to-us-proposal-said-to-demand-control-over-hormuz-removal-of-oil-sanctions",
         "image": null,
         "timestamp": 1778440087.0
-    },
-    {
-        "title_fa": "آمادگی کامل برای حفاظت از اورانیوم در کنار تهدید فروپاشی آتش‌بس/تنش با آمریکا؛ در پس‌زمینه حمله پهپادی به یک کشتی تجاری",
-        "title_en": "Iran on 'full readiness' to protect uranium at nuclear sites as Trump slams Tehran's new proposal",
-        "summary": [
-            "در گزارش Fox News، ایران با عنوان «آمادگی کامل» برای حفاظت از اورانیوم در سایت‌های هسته‌ای مطرح شده، هم‌زمان با این‌که ترامپ طرح جدید تهران را به‌شدت نقد کرده است؛ یعنی مسیر دیپلماسی نه‌تنها کند نشده، بلکه بر سر موضوع هسته‌ای سخت‌تر شده است.",
-            "هم‌زمان، خبر حمله پهپادی به یک کشتی تجاری در نزدیکی سواحل قطر مطرح است و «منشأ نامعلوم» اعلام شده؛ اما خودِ رخداد در چارچوب افزایش تنش‌ها با ایران آمده و تهدید می‌کند «آتش‌بس شکننده» میان تهران و آمریکا به هم بخورد.",
-            "این ترکیبِ فشار سیاسی روی پرونده هسته‌ای و حادثه امنیتی در مسیرهای دریایی، می‌تواند به تشدید ریسک محاسبات غلط منجر شود: حتی بدون انتساب قطعی در متن، پیام عملی حمله برای بازار انرژی و کشتیرانی پیامدهای فوری دارد."
-        ],
-        "impact": "این رویدادها هم‌زمان فشار سیاسی بر پرونده هسته‌ای و ریسک تنش نظامی در دریا را بالا می‌برد و احتمال شکست آتش‌بس شکننده را افزایش می‌دهد.",
-        "tag": "هسته‌ای",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/iran-trump-hormuz-peace-proposal-may-10",
-        "clean_url": "https://www.foxnews.com/live-news/iran-trump-hormuz-peace-proposal-may-10",
-        "image": "http://www.bing.com/th?id=ONUT.Rcm0DkFZ2LHfO6QiyiVWAA&pid=News",
-        "timestamp": 1778439720.0
     }
 ]
