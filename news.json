@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "جزئیات بدافزار Fast16 و تکامل خرابکاری سایبری علیه برنامه‌های پژوهشی و مهندسی در ایران",
+        "title_en": "Timeline of Iran’s Nuclear Program and the Stuxnet and Fast16 Attacks",
+        "summary": [
+            "گزارش می‌گوید پژوهشگران SentinelOne بدافزار Fast16 را معکوس‌مهندسی کرده‌اند و بر اساس تحلیل کد، قدمت آن را به ۲۰۰۵ نسبت می‌دهند؛ همچنین منبع احتمالی آن را دولت آمریکا یا یکی از متحدانش مطرح می‌کنند.",
+            "طبق این متن، هدف Fast16 «سازمان‌دهی خرابکاری ظریف» است: بدافزار بعد از انتشار خودکار در شبکه، فرآیندهای محاسباتیِ نرم‌افزارهای شبیه‌سازی با دقت بالا را دستکاری می‌کند تا خروجی‌ها عمداً اشتباه شوند و خرابی‌ها به‌صورت تدریجی یا غیرقابل‌تشخیص بروز کنند.",
+            "به‌زعم تحلیل ارائه‌شده، پیامدهای این دستکاری می‌تواند از نتایج پژوهشی غلط و شکست پروژه‌های مهندسی تا آسیب واقعی به تجهیزات یا حتی فرسایش/سقوط/خروج از سرویس شبیه‌سازها را در بر بگیرد؛ نویسنده این را در ادامه روندی از حملات تخریبی مثل Stuxnet مطرح می‌کند."
+        ],
+        "impact": "این نوع خرابکاری سایبری با دستکاری خروجی نرم‌افزارهای شبیه‌سازی، می‌تواند هزینه‌های فنی و عملیاتی برنامه‌های صنعتی/پژوهشی را افزایش دهد و ریسک خطای محاسباتی و خرابی تجهیزات را بالا ببرد، حتی بدون نیاز به تخریب مستقیم داده‌ها.",
+        "tag": "سایبری",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "zetter-zeroday.com",
+        "url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack/",
+        "clean_url": "https://www.wired.com/story/fast16-malware-stuxnet-precursor-iran-nuclear-attack",
+        "image": null,
+        "timestamp": 1778936589.0
+    },
+    {
+        "title_fa": "ابهام درباره آینده آتش‌بس؛ همزمانی فشارهای آمریکا و ایران",
+        "title_en": "US, Iran double down as ceasefire future uncertain: Live war updates",
+        "summary": [
+            "متن ارائه‌شده به خودِ رویداد خبری یا جزئیات جنگ/آتش‌بس اشاره نمی‌کند و فقط به پیام فنی سایت usatoday.com درباره سازگاری مرورگر مربوط است.",
+            "با اتکا به همین متن، نمی‌توان زمان‌بندی، طرف‌های درگیر، مکان درگیری، یا اینکه آیا آتش‌بس برقرار شده/شکسته شده را به‌صورت قابل راستی‌آزمایی استخراج کرد.",
+            "بنابراین تنها چیزی که از داده قابل استنباط است، خودِ تیتر است: آینده آتش‌بس «نامطمئن» خوانده شده و یک تنش/فشار متقابل میان آمریکا و ایران در حال ادامه است."
+        ],
+        "impact": "در نبود جزئیات معتبر در متن ارائه‌شده، اثر واقعی بر روند میدانی یا سیاست تحریمی قابل سنجش نیست.",
+        "tag": "آتش‌بس",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "USA Today",
+        "url": "https://www.usatoday.com/story/news/world/2026/05/16/iran-war-donald-trump-ceasefire-updates--live/90109508007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/05/16/iran-war-donald-trump-ceasefire-updates--live/90109508007",
+        "image": null,
+        "timestamp": 1778934240.0
+    },
+    {
+        "title_fa": "هم‌زمان با لَنگ‌ماندن مذاکرات، آماده‌سازی اسرائیل و آمریکا برای ازسرگیری جنگ از هفته آینده",
+        "title_en": "As Iran talks stall, Israel and US prepping to renew war as soon as next week – report",
+        "summary": [
+            "طبق گزارش «The Times of Israel»، با اینکه مذاکرات ایران متوقف/کند شده، اسرائیل و آمریکا برای ازسرگیری درگیری از هفته آینده در حال آماده‌سازی‌اند؛ یعنی وضعیت به سمت تنش مستقیم نظامی در حال پیشروی است.",
+            "این وضعیت نشان می‌دهد کانال‌های دیپلماتیک کارکرد بازدارنده خود را از دست داده‌اند و محاسبه‌های امنیتی در واشنگتن و تل‌آویو به سمت اقدام سریع متمایل شده است.",
+            "از منظر فشار خارجی، هرچه «مذاکرات» کندتر بماند، احتمال تبدیل اختلاف به عملیات/درگیری بیشتر می‌شود و ریسک اختلال جدی‌تر در اقتصاد و امنیت داخلی ایران بالا می‌رود، چون مسیر کاهش تنش عملاً بسته‌تر شده است."
+        ],
+        "impact": "توقف مذاکرات همراه با برنامه‌ریزی برای ازسرگیری جنگ، ریسک جهش تنش را بالا می‌برد و می‌تواند شوک‌های امنیتی و اقتصادی فوری ایجاد کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDhlV0ZlRnhhaVNtVzN1R3dyVFJSek5oSlhyOTNvVFdFX01RME1jQ29RYlhHY1ZIODR0UUZOeDRmc0VEVlhUSW5WV2FkOER5UkZkZExtN3ltdEpyT2tZckdIcEZxODJJX2cxVHZJclpYNVdPR2RLdUZRRU1GT2VZa29sYXQzNHFpdFVVdFBQdEtRSHRXM29hT19oZTJpWkZzd2RXUlg4MWxfVnNTMzZCWTBDMkJiY2FDZkHSAboBQVVfeXFMTlg4ZVdGZUZ4YWlTbVczdUd3clRSUnpOaEpYcjkzb1RXRV9NUTBNY0NvUWJYR2NWSDg0dFFGTng0ZnNFRFZYVEluVldhZDhEeVJGZGRMbTd5bXRKck9rWXJHSHBGcTgySV9nMVR2SXJaWDVXT0dkS3VGUUVNRk9lWWtvbGF0MzRxaXRVVXRQUHRLUUh0VzNvYU9faGUyaVpGc3dkV1JYODFsX1ZzUzM2QlkwQzJCYmNhQ2ZB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDhlV0ZlRnhhaVNtVzN1R3dyVFJSek5oSlhyOTNvVFdFX01RME1jQ29RYlhHY1ZIODR0UUZOeDRmc0VEVlhUSW5WV2FkOER5UkZkZExtN3ltdEpyT2tZckdIcEZxODJJX2cxVHZJclpYNVdPR2RLdUZRRU1GT2VZa29sYXQzNHFpdFVVdFBQdEtRSHRXM29hT19oZTJpWkZzd2RXUlg4MWxfVnNTMzZCWTBDMkJiY2FDZkHSAboBQVVfeXFMTlg4ZVdGZUZ4YWlTbVczdUd3clRSUnpOaEpYcjkzb1RXRV9NUTBNY0NvUWJYR2NWSDg0dFFGTng0ZnNFRFZYVEluVldhZDhEeVJGZGRMbTd5bXRKck9rWXJHSHBGcTgySV9nMVR2SXJaWDVXT0dkS3VGUUVNRk9lWWtvbGF0MzRxaXRVVXRQUHRLUUh0VzNvYU9faGUyaVpGc3dkV1JYODFsX1ZzUzM2QlkwQzJCYmNhQ2ZB",
+        "image": null,
+        "timestamp": 1778932244.0
+    },
+    {
         "title_fa": "احتمال ازسرگیری حملات آمریکا-اسرائیل به ایران از هفته آینده",
         "title_en": "US-Israel attacks on Iran could resume as early as next week",
         "summary": [
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.mediaite.com/media/news/trump-swats-down-irans-offer-to-end-the-war-totally-unacceptable",
         "image": "http://www.bing.com/th?id=ONUT.172St0PO1_VlXztvwrr6Zw&pid=News",
         "timestamp": 1778422380.0
-    },
-    {
-        "title_fa": "واکنش ایران به پیشنهاد آمریکا از مسیر پاکستان؛ یک پیام سیاسی با هدف کنترل هزینه‌ها",
-        "title_en": "Iran sends response to US proposal via Pakistan: state media",
-        "summary": [
-            "رسانه‌های دولتی ایران می‌گویند پاسخ ایران به پیشنهاد آمریکا از طریق پاکستان ارسال شده؛ یعنی تهران برای مدیریت فشار خارجی و کاهش اصطکاک مستقیم، مسیر میانجی‌گری را برگزیده است.",
-            "این اقدام به‌خودی‌خود شفاف نمی‌کند محتوا چه بوده، اما نشان می‌دهد ایران در سطح ارتباطات دیپلماتیک دنبال اتلاف‌وقت یا تنظیم اهرم چانه‌زنی است، نه حل فوری اختلاف.",
-            "چون جزئیات اقتصادی یا اجرایی گزارش نشده، ارزیابی اثر واقعی آن به‌طور مستقیم به پیامدهای بعدی (تحریم‌ها، گام‌های متقابل، یا مذاکرات عملی) وابسته است و فعلاً بیشتر یک اقدام سیاسی-ارتباطی محسوب می‌شود."
-        ],
-        "impact": "این حرکت بیشتر ابزار مدیریت مواجهه با آمریکا است و فعلاً نشانه قابل اتکایی از کاهش فشار اقتصادی یا تغییر ملموس در سیاست‌ها ارائه نمی‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "arabnews.jp",
-        "url": "https://www.firstpost.com/world/iran-sends-its-response-to-us-proposal-aimed-at-ending-war-via-pakistan-state-media-reports-14009671.html",
-        "clean_url": "https://www.firstpost.com/world/iran-sends-its-response-to-us-proposal-aimed-at-ending-war-via-pakistan-state-media-reports-14009671.html",
-        "image": null,
-        "timestamp": 1778418329.0
-    },
-    {
-        "title_fa": "بی‌اعتمادی اسرائیل به خوش‌بینی آمریکا درباره مذاکرات هسته‌ای ایران؛ گره اصلی «توافق هسته‌ای» بازنمانده",
-        "title_en": "Israel doubts US optimism in Iran talks as critical issues on nuclear concessions remain unsolved",
-        "summary": [
-            "طبق گزارش Jerusalem Post، اسرائیل به خوش‌بینی آمریکا در جریان مذاکرات ایران واکنش تردیدآمیز دارد و این یعنی جمع‌بندی واشنگتن از پیشرفت قابل اتکا نیست.",
-            "نکته محوری گزارش این است که «مسائل حیاتی مربوط به امتیازدهی هسته‌ای» همچنان حل نشده مانده و در نتیجه احتمال می‌رود روند توافق‌سازی کند یا متوقف شود.",
-            "اگر حل‌نشدن این گره‌ها ادامه پیدا کند، ریسک شکل‌گیری فشارهای متقابل و تشدید تنش‌های منطقه‌ای بالا می‌رود؛ نه به خاطر اعلام نهایی، بلکه به دلیل فقدان جمع‌بندی روشن درباره بخش‌های هسته‌ای."
-        ],
-        "impact": "ادامه نامشخص‌بودن امتیازدهی هسته‌ای، توان مدیریت بحران را کاهش می‌دهد و احتمال تشدید فشار خارجی و تنش‌های منطقه‌ای را بالا می‌برد.",
-        "tag": "مذاکرات",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41STRNcXNvcU5TY0d0WFNsY3laV3h3ZEZNTzd5X2FDNU5qVVBDeWZJZm00eXdPbExpdEF3a3BuNHo5SlFfWjZTR3lINHJaRGFfenZMemVQS29uMDBoU0g0SGhSX0l3aS1hUXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41STRNcXNvcU5TY0d0WFNsY3laV3h3ZEZNTzd5X2FDNU5qVVBDeWZJZm00eXdPbExpdEF3a3BuNHo5SlFfWjZTR3lINHJaRGFfenZMemVQS29uMDBoU0g0SGhSX0l3aS1hUXc",
-        "image": null,
-        "timestamp": 1778417301.0
-    },
-    {
-        "title_fa": "ایران پاسخ خود را به پیشنهاد آمریکا برای پایان جنگ ارسال کرده؛ رسانه دولتی گزارش داد",
-        "title_en": "Iran has sent response to US proposal on ending war, state media reports",
-        "summary": [
-            "بر اساس گزارش رسانه دولتی، ایران پاسخ خود را به پیشنهاد آمریکا برای «پایان جنگ» ارسال کرده است؛ متن جزئیات پیشنهاد و محتوای پاسخ در گزارش حاضر روشن نشده است.",
-            "این روند نشان‌دهنده ادامه‌ی کانال‌کشی سیاسی میان تهران و واشنگتن است، اما هم‌زمان می‌تواند ابزار فشار متقابل برای تغییر شروط طرف مقابل باشد نه نشانه‌ی پایان فوری تنش.",
-            "چون هیچ اهرم‌های اقتصادی/تحریمی یا اقدام میدانی در این گزارش مشخص نشده، ارزیابی اثر مستقیم بر اقتصاد و ثبات داخلی باید محدود بماند و فعلاً بیشتر در سطح مدیریت بحران و گشایش مذاکراتی قابل برداشت است."
-        ],
-        "impact": "ارسال پاسخ به پیشنهاد آمریکا مسیر گفت‌وگو را باز نگه می‌دارد، ولی تا وقتی محتوای شروط و تضمین‌های اجرایی روشن نشود، احتمال ادامه‌ی تنش به‌عنوان سناریوی محتمل باقی است.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": 0.0,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzgyd1hmV0JCQ2pIbHBvOXNUWnR1OVU0aVQtVXFjaDdWSzhkVUhFLXJjVTFGLTAwMjRkU1JZRDV1eGhUYk4tV2huNUZhQkZxdXZSeHRZN1J2SElfNlROZm9PMjBYTmw4WlJVYUFEZjE4S1lRRWF3Z2VrNklPV3B1YjE1TUpWc0xOdVJCS3MzVDlrRzhYNk0yRDZOWXoyeVdaM21aU0lIY2RuQXBLaUxLQU1ZQUpYQnhP?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzgyd1hmV0JCQ2pIbHBvOXNUWnR1OVU0aVQtVXFjaDdWSzhkVUhFLXJjVTFGLTAwMjRkU1JZRDV1eGhUYk4tV2huNUZhQkZxdXZSeHRZN1J2SElfNlROZm9PMjBYTmw4WlJVYUFEZjE4S1lRRWF3Z2VrNklPV3B1YjE1TUpWc0xOdVJCS3MzVDlrRzhYNk0yRDZOWXoyeVdaM21aU0lIY2RuQXBLaUxLQU1ZQUpYQnhP",
-        "image": null,
-        "timestamp": 1778416686.0
     }
 ]
