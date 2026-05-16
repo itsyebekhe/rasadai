@@ -1,5 +1,77 @@
 [
     {
+        "title_fa": "تأیید نيجریه درباره کشته‌شدن رهبر ارشد داعش در عملیات مشترک آمریکا",
+        "title_en": "Nigeria Confirms Killing of Senior ISIS Leader in Joint US Operation",
+        "summary": [
+            "بر اساس گزارش اشراق‌الاوَسط، نيجریه کشته‌شدن یک رهبر ارشد داعش را در «عملیات مشترک» با آمریکا تأیید کرده است؛ اما جزئیات درباره زمان، مکان دقیق یا سطح همکاری عملیاتی منتشر نشده است.",
+            "این اتفاق مستقیماً به توان عملیات برون‌مرزی داعش ضربه می‌زند و از نظر امنیتی، فشار بر شبکه‌های افراطی را افزایش می‌دهد؛ با این حال هیچ اشاره‌ای به ارتباط مستقیم با ایران یا بازیگران منطقه‌ای مرتبط با تهران در متن وجود ندارد.",
+            "علاوه بر خبر عملیات علیه داعش، متن شامل چند خبر دیگر است (از جمله اظهارنظر درباره فیلم انیمیشن، ادعای حملات نظامی در جنوب لبنان و احتمال درخواست آمریکا از اسرائیل برای استفاده از «پول مالیات فلسطینی» در چارچوب برنامه پیشنهادی ترامپ در غزه)، ولی هیچ‌کدام به‌طور مستند با این رخداد یا با ایران گره نمی‌خورند."
+        ],
+        "impact": "کشته‌شدن یک فرمانده ارشد داعش در عملیات مشترک می‌تواند به کاهش ظرفیت اجرایی شاخه‌های داعش منجر شود، اما از متن خبر ارتباط مشخص و قابل‌اتکا به ایران استخراج نمی‌شود.",
+        "tag": "داعش",
+        "urgency": 3,
+        "sentiment": 0.1,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/world/5273740-nigeria-confirms-killing-senior-isis-leader-joint-us-operation",
+        "clean_url": "https://english.aawsat.com/world/5273740-nigeria-confirms-killing-senior-isis-leader-joint-us-operation",
+        "image": "https://static.srpcdigital.com/styles/1200x600/public/2026-05/1544354.jpeg.webp",
+        "timestamp": 1778922360.0
+    },
+    {
+        "title_fa": "پایان «افسانه ارتش مردمی»: بررسی احتمال توسل اسرائیل به مزدوران",
+        "title_en": "End of the 'People's Army' Myth: Israel Weighs Resorting to Mercenaries",
+        "summary": [
+            "اشراق‌العواصل گزارش می‌کند که اسرائیل در حال ارزیابی بازگشت به «مزدور» است؛ یعنی کارکرد و اعتبار نیروهای غیرمستقیم/داخلی که با عنوان «ارتش مردمی» معرفی می‌شوند، برای عملیات آینده کافی تلقی نشده است.",
+            "هم‌زمان، خبرهای مرتبط با عملیات علیه حزب‌الله در جنوب لبنان مطرح شده که نشان می‌دهد تصمیم درباره مزدورها با فشار عملیاتی و نیاز به ابزارهای جایگزین در میدانی گره خورده است.",
+            "بخش دیگری از گزارش به احتمال درخواست آمریکا از اسرائیل برای هدایت «پول مالیات فلسطینی» به سمت طرح گازای ترامپ اشاره می‌کند؛ یعنی حتی سازوکارهای مالی-اداری نیز وارد فاز پشتیبانی از برنامه‌های جنگ/مدیریت پساجنگ می‌شوند."
+        ],
+        "impact": "این ترکیب—گمانه‌زنی برای مزدورگیری همراه با فشار میدانی و دخالت مستقیم در منابع مالی فلسطینی—ریسک تشدید چرخه جنگ و بی‌ثباتی منطقه را بالا می‌برد، بدون اینکه دلیلی از گزارش برای کاهش بحران ارائه شود.",
+        "tag": "لبنان",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Asharq Al-Awsat",
+        "url": "https://english.aawsat.com/world/5273789-end-‘people’s-army’-myth-israel-weighs-resorting-mercenaries",
+        "clean_url": "https://english.aawsat.com/world/5273789-end-‘people’s-army’-myth-israel-weighs-resorting-mercenaries",
+        "image": "https://static.srpcdigital.com/styles/1037xauto/public/2026-05/1543738.jpeg.webp",
+        "timestamp": 1778921580.0
+    },
+    {
+        "title_fa": "اظهارات ترامپ و شی درباره تنگه هرمز و پیام چین علیه ادامه‌دار شدن جنگ",
+        "title_en": "Trump says Xi agrees Iran must open strait, China says war shouldn't have started",
+        "summary": [
+            "ترامپ اعلام کرد شی موافق است ایران باید «تنگه» را باز کند؛ این یعنی فشار سیاسی آمریکا از مسیر هماهنگی با چین به سمت تغییر وضعیت میدانی-امنیتی در تنگه هرمز هدایت شده است.",
+            "چین هم‌زمان پیام داد که «جنگ نباید شروع می‌شد»؛ این موضع، هرچند به‌صورت مستقیم تهدید اجرایی علیه ایران نیست، اما در سطح سیاست خارجی می‌تواند به افزایش حساسیت بین‌المللی و محدود شدن مانور ایران برای ادامه بحران کمک کند.",
+            "با توجه به نبود جزئیات اجرایی در متن، اثر اصلی فعلاً در سطح فشار دیپلماتیک و پیام به طرف‌های درگیر است و نه در شکل تحریم/عملیات مشخص؛ بنابراین ریسک تشدید از جنس سیاسی-ادراکی بالاست، اما هنوز شواهد روشن از اقدام قهری جدید ارائه نشده است."
+        ],
+        "impact": "این رویداد می‌تواند به افزایش فشار بین‌المللی بر ایران برای تغییر رفتار در تنگه هرمز منجر شود، اما چون جزئیات اجرایی ندارد اثر فوری آن بیشتر سیاسی است تا عملیاتی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.1,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWhRa0VGSXhNc1pnb0daVmpKM0wzVDJtdzEtLWxlcDdkcHNQNEpyc3NGcmVXMVJ3dUZjTUJSelFBY0lpZVFHMS1iNXFLR0tWWHZmczFTZl9VM3VkS3E2clk5Q2JKazBITTlqQzRhWXdURGMzQXBhOFFieHAxWHhRRGZjZnNodDVwcDhLZm5TMDdUeUFaZVl4dDV4TElWVUVtajlvcGtCekhkVjhSOGk1elotRVVmcVhsRUZFc3UtZm82NGhnM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeWhRa0VGSXhNc1pnb0daVmpKM0wzVDJtdzEtLWxlcDdkcHNQNEpyc3NGcmVXMVJ3dUZjTUJSelFBY0lpZVFHMS1iNXFLR0tWWHZmczFTZl9VM3VkS3E2clk5Q2JKazBITTlqQzRhWXdURGMzQXBhOFFieHAxWHhRRGZjZnNodDVwcDhLZm5TMDdUeUFaZVl4dDV4TElWVUVtajlvcGtCekhkVjhSOGk1elotRVVmcVhsRUZFc3UtZm82NGhnM0E",
+        "image": null,
+        "timestamp": 1778920888.0
+    },
+    {
+        "title_fa": "روز جنگ ۷۸ ایران؛ سیگنال مذاکره میان ترامپ و تهران همزمان با تمدید آتش‌بس لبنان",
+        "title_en": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+        "summary": [
+            "گزارش به «سیگنال مذاکرات» میان ترامپ و تهران همزمان با تمدید آتش‌بس در لبنان اشاره می‌کند؛ یعنی کانال‌های دیپلماسی فعال شده‌اند، اما متن خبر جزئیات عملی درباره زمان‌بندی یا چارچوب توافق ارائه نمی‌دهد.",
+            "تمدید آتش‌بس لبنان به‌طور مستقیم ریسک گسترش درگیری منطقه‌ای را پایین می‌آورد، ولی همین کاهش تنش می‌تواند به رژیم ایران فرصت تنفس کوتاه‌مدت برای مدیریت پیامدهای جنگ و فشارهای خارجی بدهد—بدون اینکه الزاماً به حل مسئله اصلی منجر شود.",
+            "تا جایی که در همین تیتر آمده، موضوعات اصلی به جنگ و مذاکرات گره خورده و نشانه‌ای روشن از تغییرات داخلی اقتصادی یا اعتراضات گسترده در متن خبر ذکر نشده است؛ پس نمی‌توان درباره فرسایش داخلی فراتر از گزارش تیتر نتیجه قطعی گرفت."
+        ],
+        "impact": "تمدید آتش‌بس لبنان و سیگنال مذاکره احتمالاً کاهش موقت سطح درگیری را به دنبال دارد، اما بدون چارچوب مشخص، نتیجه نهایی برای پایان جنگ و مهار فشارها نامعلوم می‌ماند.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmFTWlZSUjFIeVYxMlJRSjBNWnlFVjhyR3pBeTlwRVFLN3hRWTMxOWJ3M2pyN2diWElfS1JCcmxicVFuTkR4WkJwOWREYjFweEVQX2hiVThFOGZaZWZmM0FZdUFWT095RFhjdXpaRWlNWURKa183eENrWWlodGJZUUhmVlJvWXJ3U3ZXMmZ6THZaeTBsNVFTNHdqNVR4eldiakRodFhQX21yMUNQ0gGyAUFVX3lxTE5raXI2OU9uMXNrY1VPdkdrZ0t0dXpYTHBlZHpCNUlzMFlKMk5ZT082Ql9Nd0pNNGVnN2xobk00VlNFNThRdFRWNi1KREZ5VkcxdEplY2JmVzlkdmxXTUFrekFZMmhvRUJtaGJqcHJYc2cxeHRLQWtsTGxSeThnRHJMeXJ1ekxkUVNiVjJleG5HbTM5MEItbkFjWHAzOEQ5ZGtlQmstcVNnRnlYSF95MlZUTWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMmFTWlZSUjFIeVYxMlJRSjBNWnlFVjhyR3pBeTlwRVFLN3hRWTMxOWJ3M2pyN2diWElfS1JCcmxicVFuTkR4WkJwOWREYjFweEVQX2hiVThFOGZaZWZmM0FZdUFWT095RFhjdXpaRWlNWURKa183eENrWWlodGJZUUhmVlJvWXJ3U3ZXMmZ6THZaeTBsNVFTNHdqNVR4eldiakRodFhQX21yMUNQ0gGyAUFVX3lxTE5raXI2OU9uMXNrY1VPdkdrZ0t0dXpYTHBlZHpCNUlzMFlKMk5ZT082Ql9Nd0pNNGVnN2xobk00VlNFNThRdFRWNi1KREZ5VkcxdEplY2JmVzlkdmxXTUFrekFZMmhvRUJtaGJqcHJYc2cxeHRLQWtsTGxSeThnRHJMeXJ1ekxkUVNiVjJleG5HbTM5MEItbkFjWHAzOEQ5ZGtlQmstcVNnRnlYSF95MlZUTWc",
+        "image": null,
+        "timestamp": 1778918662.0
+    },
+    {
         "title_fa": "چگونه عربستان از درگیری با ایران «فرار» کرد",
         "title_en": "How the Saudis wriggled out of the Iran conflict",
         "summary": [
@@ -72,6 +144,42 @@
         "timestamp": 1778898617.0
     },
     {
+        "title_fa": "گمانه‌زنی ترامپ درباره افزایش حملات آمریکا به ایران و باز ماندن گزینه استقرار زمینی نیروها",
+        "title_en": "US-Iran war LIVE updates: Trump weighs more strikes on Iran, ground troop deployment still on table, says report",
+        "summary": [
+            "طبق گزارش Hindustan Times، ترامپ می‌گوید نسبت به آتش‌بس آمریکا و ایران «چندان موافق» نبوده و دلیل ضمنی را نه ضرورت نظامی، بلکه ملاحظه سیاسی برای پاکستان مطرح کرده است.",
+            "همزمان، او «وزن‌دهی» به حملات بیشتر علیه ایران را مطرح کرده و گزارش می‌گوید گزینه استقرار نیروهای زمینی هنوز کاملاً از دستور خارج نشده است.",
+            "اگر این مواضع به اقدام عملی برسد، یعنی چرخه فشار نظامی از وضعیت توافق/آتش‌بس به سمت تشدید قابل انتظار می‌رود و ریسک درگیری مستقیم افزایش می‌یابد."
+        ],
+        "impact": "باز ماندن گزینه حملات بیشتر و استقرار زمینی، مسیر قطعیت‌زدایی از آتش‌بس را به تشدید فوری تنش نظامی تبدیل می‌کند.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-donald-trump-china-strait-hormuz-petrol-diesel-price-today-israel-lebanon-ceasefire-uae-araghchi-101778892776637.html",
+        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-donald-trump-china-strait-hormuz-petrol-diesel-price-today-israel-lebanon-ceasefire-uae-araghchi-101778892776637.html",
+        "image": "http://www.bing.com/th?id=ONUT.EUGUJjlUolvZ8yn-DeBPCQ&pid=News",
+        "timestamp": 1778896920.0
+    },
+    {
+        "title_fa": "روایت ترامپ درباره توافق آتش‌بس ایران و اسرائیل؛ «به‌عنوان لطف به پاکستان»",
+        "title_en": "Iran Israel War Live Updates: Trump says US agreed to Iran ceasefire ‘as a favour to Pakistan’ after request",
+        "summary": [
+            "بر اساس گزارش Firstpost، ترامپ ادعا کرده آمریکا با یک آتش‌بس میان ایران و اسرائیل موافقت کرده است؛ اما دلیل را «به‌عنوان لطف به پاکستان» بعد از درخواست پاکستان عنوان کرده است.",
+            "این روایت نشان می‌دهد تصمیم‌گیری واشنگتن در موضوع توقف درگیری، صرفاً بر منطق نظامی-امنیتی متمرکز نبوده و به نفوذ/هماهنگی منطقه‌ای بازیگران ثالث گره خورده است.",
+            "در سطح راهبردی، اگر این ادعا دقیق باشد، آتش‌بس بیشتر شبیه معامله سیاسی و مدیریت بحران از بیرون است تا توافق پایدار که منافع داخلی حکومت را هم‌زمان پوشش دهد."
+        ],
+        "impact": "این نوع قاب‌بندی «آتش‌بس به خاطر پاکستان» می‌تواند نشانه‌ای از مدیریت دستوری بحران و افزایش وابستگی تصمیم‌های تهران به کانال‌های خارجی باشد، نه نتیجه یک تثبیت اراده داخلی.",
+        "tag": "آتش‌بس",
+        "urgency": 8,
+        "sentiment": -0.25,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-china-talks-trump-middle-east-war-oil-prices-global-impact-explained-liveblog-14011731.html",
+        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-china-talks-trump-middle-east-war-oil-prices-global-impact-explained-liveblog-14011731.html",
+        "image": "http://www.bing.com/th?id=ONUT.HedUjZxzWWijlkuRBScD7A&pid=News",
+        "timestamp": 1778896740.0
+    },
+    {
         "title_fa": "دفاع ترامپ از اظهارنظر درباره عدم تمرکز بر وضعیت مالی آمریکایی‌ها در گفت‌وگوهای ایران",
         "title_en": "‘Perfect statement’: Trump defends saying he isn’t thinking about Americans’ finances amid Iran talks",
         "summary": [
@@ -124,6 +232,24 @@
         "clean_url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-warns-co-sponsors-of-us-backed-hormuz-strait-resolution-that-they-share-responsibility-for-aggression/3939183",
         "image": null,
         "timestamp": 1778885773.0
+    },
+    {
+        "title_fa": "بن‌بست «چانه‌زنی تهاجمی» ترامپ در قبال ایران",
+        "title_en": "Trump's geopolitical brinkmanship has hit a wall with Iran",
+        "summary": [
+            "طبق گزارش رویترز، رئیس‌جمهور آمریکا در نخستین سال بازگشت به قدرت از سبک مذاکره‌ و فشارِ نمایشی خود در موضوعاتی از تعرفه‌ها تا درگیری‌های مسلحانه امتیاز گرفته است، اما این الگو در پرونده ایران «به دیوار خورده».",
+            "متن گزارش صراحتاً می‌گوید که با وجود سابقه گرفتن امتیاز از دیگر کشورها، رفتار ژئوپلیتیک ترامپ در مورد ایران نتیجه نداده و به بن‌بست رسیده است.",
+            "جمع‌بندی ضمنی این است که ایران در این مقطع نسبت به ترکیب فشار-مذاکره آمریکا، واکنش قابل معامله‌ای نشان نداده یا حداقل در چارچوبی که ترامپ دنبال می‌کند، به عقب‌نشینی نرسیده است (بدون ارائه جزئیات بیشتر در متن ارائه‌شده)."
+        ],
+        "impact": "این بن‌بست نشان می‌دهد اهرم سیاسی-مذاکره‌ای آمریکا در قبال ایران در فاز فعلی کارآمد نیست و می‌تواند مسیر بحران را از «امتیازگیری سریع» به سمت زمان‌بر شدن و تشدید ریسک‌های ثبات منطقه‌ای سوق دهد.",
+        "tag": "ایران-آمریکا",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/trumps-geopolitical-brinkmanship-has-hit-wall-with-iran-2026-05-16/",
+        "clean_url": "https://www.reuters.com/world/middle-east/trumps-geopolitical-brinkmanship-has-hit-wall-with-iran-2026-05-16",
+        "image": "http://www.bing.com/th?id=ONUT.BoI0lOtaTpjlH0T3MmTpEg&pid=News",
+        "timestamp": 1778883660.0
     },
     {
         "title_fa": "چرخش ترامپ درباره ذخیره اورانیوم ایران؛ پیامدهای جدی برای محاسبات فشار و بازدارندگی",
@@ -5272,131 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/us-economy-resilient-amid-iran-conflict-says-jonathan-golub-to-cnbc/ar-AA22x8Q8",
         "image": null,
         "timestamp": 1778412615.0
-    },
-    {
-        "title_fa": "پیشنهاد تازه صلح ایران به آمریکا: دو مطالبه برای تحت فشار گذاشتن ترامپ",
-        "title_en": "Iran's Fresh Peace Offer to US Explained: The 2 Demands Putting Trump Under Pressure",
-        "summary": [
-            "بر اساس گزارش Times Now، ایران در واکنش به پیشنهاد جدید آمریکا برای صلح که از مسیر میانجی‌گری پاکستانی منتقل شده، پاسخ داده و این روند در شرایط «درگیری‌های منطقه‌ای» و «آتش‌بس شکننده» دنبال می‌شود.",
-            "این پاسخ آمریکا را تحت فشار قرار می‌دهد تا میان ادامه مذاکرات یا تشدید اقدامات نظامی یکی را انتخاب کند؛ یعنی تهران تلاش می‌کند هزینه سیاسیِ روی میز بودنِ گزینه نظامی را افزایش دهد.",
-            "مقاله جزئیات «دو مطالبه» را به‌عنوان اهرم فشاری علیه ترامپ معرفی می‌کند، اما متن ارائه‌شده در اینجا مشخص نمی‌کند دقیقاً آن دو شرط چه هستند."
-        ],
-        "impact": "این اقدام بیشتر ابزار مدیریت ریسک و فشار سیاسی در لحظه آتش‌بس شکننده است تا نشانه حل‌وفصل واقعی، چون آمریکا را مستقیماً بین مذاکره و تشدید نظامی قرار می‌دهد.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-war-new-peace-proposal-us-donald-trump-strait-of-hormuz-nuclear-weapons-ceasefire-article-154289585",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-war-new-peace-proposal-us-donald-trump-strait-of-hormuz-nuclear-weapons-ceasefire-article-154289585",
-        "image": "http://www.bing.com/th?id=ONUT.1r97G3xnOMJ4M7J5iHpFtA&pid=News",
-        "timestamp": 1778408820.0
-    },
-    {
-        "title_fa": "اظهارات مایک والتز: دیپلماسی در اولویت، اما بازگشت به بمباران ایران روی میز است",
-        "title_en": "Waltz: Trump Giving Diplomacy Every Possible Chance Before We Go Back To Bombing Iran",
-        "summary": [
-            "مایک والتز می‌گوید گفت‌وگوهای در جریان با ایران هنوز متوقف نشده، اما روند آن‌ها به‌خاطر شرایط داخلی طرف ایرانی و «مخفی ماندن» رهبر جدید که بعد از شدت جراحت در ساعات اولیه درگیری‌ها گزارش شده، دچار تأخیر است.",
-            "او هم‌زمان هشدار می‌دهد که «هر شانس ممکن» برای دیپلماسی داده شده و در صورت عدم حصول نتیجه، گزینه بازگشت به بمباران ایران مطرح خواهد بود—یعنی پنجره مذاکره محدود و مشروط است.",
-            "با توجه به اینکه متن خبر به جزئیات بیشتر از ماهیت و پشت‌پرده این جراحت/مخفی‌ماندن و همچنین روند دقیق مذاکرات اشاره نمی‌کند، تنها پیام روشن این است که کاهش قابلیت تصمیم‌گیری یا انسجام در رأس قدرت در تهران (طبق ادعای خبر) می‌تواند زمان‌بندی فشار نظامی را جلو بیندازد."
-        ],
-        "impact": "این روایت یعنی رژیم با تأخیر در کنترل سیاسی/تصمیم‌گیری مواجه شده و در عین حال، طرف مقابل دیپلماسی را به‌عنوان آخرین مرحله قبل از تشدید نظامی استفاده می‌کند.",
-        "tag": "ایران",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "RealClearPolitics",
-        "url": "https://www.realclearpolitics.com/video/2026/05/10/waltz_trump_is_giving_iran_every_possible_chance_before_we_go_back_to_dropping_bombs.html",
-        "clean_url": "https://www.realclearpolitics.com/video/2026/05/10/waltz_trump_is_giving_iran_every_possible_chance_before_we_go_back_to_dropping_bombs.html",
-        "image": "http://www.bing.com/th?id=ONUT.hLmavLgRQ7eUgFVrx1MBpA&pid=News",
-        "timestamp": 1778408520.0
-    },
-    {
-        "title_fa": "آزمون آتش‌بس ایران با حادثه در دریا و گزارش حمله پهپادی در کویت",
-        "title_en": "Iran ceasefire tested as cargo ship catches fire and Kuwait reports drone attack",
-        "summary": [
-            "گزارش «آزمون آتش‌بس» با حادثه آتش‌سوزی یک کشتی باری آغاز می‌شود؛ حادثه‌ای که می‌تواند به تنش‌های دریایی و ارزیابی طرف‌های منطقه‌ای از میزان پایبندی تهران به کاهش درگیری‌ها گره بخورد.",
-            "در کنار آن، گزارش کویت از «حمله پهپادی» آمده است؛ سیگنالی که نشان می‌دهد بحران امنیتی منطقه در کوتاه‌مدت متوقف نشده و ادعای کاهش تنش تحت فشار رویدادهای میدانی قرار دارد.",
-            "خروجی عملی این ترکیب خبر—آتش در یک کشتی و گزارش حمله پهپادی—این است که آتش‌بس بیشتر در سطح آزمون/کنترل قرار دارد تا تثبیت؛ یعنی هر رخداد جدید می‌تواند چرخه هشدار و واکنش را دوباره فعال کند."
-        ],
-        "impact": "این رویدادهای هم‌زمان اعتبار آتش‌بس را در عمل زیر سؤال می‌برند و احتمال تشدید تنش امنیتی در مسیرهای دریایی و فضای منطقه را بالا می‌برد.",
-        "tag": "آتشبس",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcDRJcmNrZGNnRklJU2RQMnNacFdrMHpSWmlNMzk3a1lVQVFOZm5iSEI1bE03QV9OSF9zRVhweklyQTBCUVl5ZlJIdGNkUEEzVURnVmVUQi1wT1BjTkNoeE5kRzlpOXpBVElia3Q3SFJoTlJSVGxneFBrN0F5RXlBMWp3SU5aZi0wYVREZlpJeFpuNDdqZ1ZhbXVIOTQwQVF2OEhTOE9HcENLNkQteHpNYVBuWEhRY1NiOTU0X2RNY0VMVHlheEpkdg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcDRJcmNrZGNnRklJU2RQMnNacFdrMHpSWmlNMzk3a1lVQVFOZm5iSEI1bE03QV9OSF9zRVhweklyQTBCUVl5ZlJIdGNkUEEzVURnVmVUQi1wT1BjTkNoeE5kRzlpOXpBVElia3Q3SFJoTlJSVGxneFBrN0F5RXlBMWp3SU5aZi0wYVREZlpJeFpuNDdqZ1ZhbXVIOTQwQVF2OEhTOE9HcENLNkQteHpNYVBuWEhRY1NiOTU0X2RNY0VMVHlheEpkdg",
-        "image": null,
-        "timestamp": 1778406311.0
-    },
-    {
-        "title_fa": "گازتِاکسترا: ادعای «جنگ لبنان–اسرائیل–ایران» بدون جزئیات قابل راستی‌آزمایی",
-        "title_en": "Lebanon Israel Iran War",
-        "summary": [
-            "عنوان رسانه «GazetteXtra» یک درگیری گسترده با محور لبنان، اسرائیل و ایران را مطرح می‌کند، اما متن ارائه‌شده عملاً هیچ اطلاعات عملیاتی (زمان، مکان، طرف‌های درگیر، نوع اقدام) نمی‌دهد.",
-            "هیچ داده‌ای درباره تحریم‌ها/فشار خارجی، رخدادهای نظامی مشخص یا تأثیر مستقیم بر دارایی‌های رژیم ارائه نشده است؛ بنابراین امکان تحلیل ساختاری بر پایه این منبع وجود ندارد.",
-            "با توجه به نبود جزئیات اقتصادی یا نشانه‌های اعتراض داخلی در متن، نمی‌توان درباره پیامدهای داخلی یا روند نارضایتی عمومی نتیجه‌گیری کرد."
-        ],
-        "impact": "این گزارش در وضعیت فعلی فقط یک ادعای خبری است و چون جزئیات ندارد، اثر تحلیلی آن بر تصمیم‌گیری و ارزیابی ریسک‌ها محدود می‌ماند.",
-        "tag": "نامشخص",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "GazetteXtra",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZk1oYk1jMlNiR2J6cm1sdXRFSXIzQTQ2VE5MU29DSjU4bTBydzRPb3dIcUlvdXQwc3RhWmQyclNpMDB0RktWelJpd2o4VFA3cEFsSjJKdm1BY1VsYllnMW1uM3R2M3RnbjZ4ZDFoWmpEYkVUbUpvNTNpWTJic3RQXzJMeFdBR3dPN0JmbzNCWEJ5QTV0MHd1THR2T2hYdE5KUjE3cjd2SG1RMmZWSXBWWGVMTG96bk56?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZk1oYk1jMlNiR2J6cm1sdXRFSXIzQTQ2VE5MU29DSjU4bTBydzRPb3dIcUlvdXQwc3RhWmQyclNpMDB0RktWelJpd2o4VFA3cEFsSjJKdm1BY1VsYllnMW1uM3R2M3RnbjZ4ZDFoWmpEYkVUbUpvNTNpWTJic3RQXzJMeFdBR3dPN0JmbzNCWEJ5QTV0MHd1THR2T2hYdE5KUjE3cjd2SG1RMmZWSXBWWGVMTG96bk56",
-        "image": null,
-        "timestamp": 1778406296.0
-    },
-    {
-        "title_fa": "گروه تندرو ایران تلاش‌ها برای ممانعت از مذاکرات هسته‌ای آمریکا را تشدید کرد",
-        "title_en": "Iran Hardline Faction Intensifies Efforts to Block U.S. Nuclear Deal Talks",
-        "summary": [
-            "طبق گزارش Kurdistan24، جناح تندرو در ایران روند «تلاش برای جلوگیری از ورود به گفت‌وگوهای هسته‌ای میان تهران و آمریکا» را تشدید کرده است.",
-            "این اقدام مستقیماً با فرایند مذاکرات گره خورده و پیام آن روشن است: تندروها می‌کوشند مسیر هر توافقی که می‌تواند فضای سیاسی و اقتصادی را تغییر دهد را مسدود کنند.",
-            "با توجه به اینکه جزئیات اجرایی (زمان‌بندی، ابزار فشار، یا واکنش طرف مقابل) در متن گزارش ارائه نشده، باید آن را در سطح «اقدام سیاسی-فشار علیه روند مذاکره» ارزیابی کرد، نه یک رویداد نظامی یا تصمیم نهایی."
-        ],
-        "impact": "تشدید مانع‌تراشی تندروها ریسک کند شدن یا بی‌ثبات شدن مسیر مذاکرات هسته‌ای را بالا می‌برد و به طور غیرمستقیم ابزارهای فشار خارجی را تشدیدپذیرتر می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Kurdistan24",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUtteGZiSjBYY3poZDZrNXM0NmpRRmxMNHFENHEzVTNiTmQtaG1rdmo0WlZFR0RrMFNBeHhlYzBDVlRaUlo1WUk2dEJSam5nMUJGNjNEQzJxS0ZabElxS0pua2tzNXlFbFJKT3dJZXg3SVVKQnVoR0QtR1lkdGZ5TGVOY2hUdURuZzVaRDlQX1VweTAyS3QxMXB6RDdHWHFOOW1tNV84d3VqbG81ck1GTVNMTDVqSnM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUtteGZiSjBYY3poZDZrNXM0NmpRRmxMNHFENHEzVTNiTmQtaG1rdmo0WlZFR0RrMFNBeHhlYzBDVlRaUlo1WUk2dEJSam5nMUJGNjNEQzJxS0ZabElxS0pua2tzNXlFbFJKT3dJZXg3SVVKQnVoR0QtR1lkdGZ5TGVOY2hUdURuZzVaRDlQX1VweTAyS3QxMXB6RDdHWHFOOW1tNV84d3VqbG81ck1GTVNMTDVqSnM",
-        "image": null,
-        "timestamp": 1778405867.0
-    },
-    {
-        "title_fa": "عدم ارائه محتوای قابل‌اتکا درباره پاسخ ایران به پیشنهاد صلح آمریکا",
-        "title_en": "Iran responds to US peace proposal, Iranian media reports. What we know",
-        "summary": [
-            "این منبع فقط یک متن فنی درباره سازگاری مرورگر نمایش می‌دهد و هیچ جزئیاتی از «پیشنهاد صلح آمریکا» یا «پاسخ ایران» در اختیار نمی‌گذارد.",
-            "در گزارش ارسالی، نه نقل‌قولی از مقام ایرانی/آمریکایی وجود دارد و نه هیچ داده‌ای از برنامه یا شرایط طرفین؛ بنابراین نمی‌توان تحلیلی مبتنی بر واقعیت از جهت‌گیری سیاسی یا محتوای پیشنهاد ارائه کرد.",
-            "چون مقاله در متن ارسالی عملاً دیده نشده، هیچ سیگنال قابل‌استناد درباره فشار خارجی، وضعیت اقتصاد داخلی، یا نقش بازیگران خارجی قابل استخراج نیست."
-        ],
-        "impact": "در نبود محتوای خبری واقعی، ارزیابی اثرات سیاسی یا اقتصادی این رخداد فعلاً ممکن نیست.",
-        "tag": "اطلاعات-ناقص",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/politics/2026/05/10/iran-war-us-peace-proposal/90020655007/",
-        "clean_url": "https://www.usatoday.com/story/news/politics/2026/05/10/iran-war-us-peace-proposal/90020655007",
-        "image": null,
-        "timestamp": 1778405160.0
-    },
-    {
-        "title_fa": "ایران به پیشنهاد تازه آمریکا برای پایان جنگ واکنش داد، اما جزئیات قابل‌اتکا ارائه نکرد",
-        "title_en": "Iran Responds to Latest U.S. Proposal to End War, but Offers Few Details",
-        "summary": [
-            "بر اساس گزارش، آمریکا و ایران درباره تمدید ۳۰ روزه آتش‌بس و همچنین از سرگیری کارکرد مسیر تجاری در تنگه هرمز گفت‌وگو کرده‌اند و ایران هم به «پیشنهاد تازه» آمریکا پاسخ داده است.",
-            "با وجود اعلام واکنش ایران، گزارش تصریح می‌کند که ایران «جزئیات کمی» ارائه کرده؛ بنابراین چارچوب اجرایی، زمان‌بندی دقیق و شرایط متقابل روشن نیست و همین ابهام می‌تواند مانع تثبیت یک توافق عملی شود.",
-            "این وضعیت یعنی حرکت در سطح مذاکره و احتمالاً مدیریت بحران، نه توافق نهایی؛ در نتیجه ریسک تداوم ناپایداری و برگشت درگیری‌ها با هر وقفه در توافق یا اختلاف بر سر جزئیات بالا می‌ماند."
-        ],
-        "impact": "ابهام در پاسخ ایران همراه با محورهای پیشنهادی (تمدید آتش‌بس و تنگه هرمز) نشان می‌دهد که جنگ وارد فاز مدیریت تنش شده، اما مسیر توافق پایدار هنوز روشن نیست.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
-        "clean_url": "https://www.nytimes.com/2026/05/10/us/politics/iran-war-us-peace-proposal-response.html",
-        "image": null,
-        "timestamp": 1778403900.0
     }
 ]
