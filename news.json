@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جمع‌بندی TRT World: تشدید تنش جنگی با ایران، پیام‌های متناقض واشنگتن و بن‌بست سیاسی تهران-آمریکا",
+        "title_en": "Live blog - US-Israeli war on Iran",
+        "summary": [
+            "ترامپ درباره جنگ علیه ایران پیام‌های دوگانه داده: از طرفی رفع محاصره را مشروط به توافق می‌داند و از طرف دیگر می‌گوید عجله‌ای برای پایان جنگ ندارد؛ همزمان ادعا کرده امکان رسیدن به «توافق در مدت نسبتاً کوتاه» وجود دارد و خبر خوش‌بینی برای گفت‌وگوهای تازه در پاکستان مطرح شده است.",
+            "ایران موضع سخت‌گیرانه نشان داده: سخنگوی وزارت خارجه می‌گوید برنامه‌ای برای دور دوم گفت‌وگو با آمریکا وجود ندارد؛ در عین حال رئیس‌جمهور پزشکیان می‌گوید باید «هر مسیر عقلانی و دیپلماتیک» برای کاهش تنش‌ها استفاده شود، اما مذاکره تحت فشار و تهدید را قبول نمی‌کند. محمدباقر قالیباف نیز گفته ایران مذاکرات با آمریکا را در شرایط تهدید نمی‌پذیرد و از «آمادگی برای افشای کارت‌های جدید در میدان» صحبت کرده است.",
+            "در سطح درگیری‌های منطقه‌ای و پیام‌های نظامی، گزارش‌ها از اقدامات مستقیم آمریکا و اسرائیل در بستر تنش ایران حکایت دارد: ویدئوی عملیات نیروی دریایی آمریکا روی یک شناور ایرانی منتشر شده و همچنین ویدئوی شلیک یک ناوشکن آمریکا به یک شناور ایرانی نیز ارائه شده؛ همزمان قیمت نفت به‌دلیل عدم‌قطعیت درباره تنگه و گفت‌وگوهای صلح بالا رفته و گزارش شده ۲۷ فروند کشتی از «محاصره آمریکا» در تنگه هرمز کنار زده شده‌اند."
+        ],
+        "impact": "پیوند پیام‌های متناقض واشنگتن با رد تهرانِ مذاکره در شرایط تهدید، احتمال تداوم فاز نظامی و افزایش ریسک امنیتی در مسیر تجارت انرژی را بالا نگه می‌دارد و نوسان بازار نفت را تغذیه می‌کند.",
+        "tag": "ایران-آمریکا",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "TRT World",
+        "url": "https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
+        "clean_url": "https://www.theguardian.com/world/live/2026/apr/20/iran-war-latest-news-updates-live-hormuz-trump-us-iranian-ship-ceasefire-doubt",
+        "image": null,
+        "timestamp": 1778962257.0
+    },
+    {
         "title_fa": "ترمپ پس از رد نگرانی‌های توان‌خرید در میانه جنگ علیه ایران، موضعش را تشدید می‌کند",
         "title_en": "Trump doubles down after dismissing affordability concerns amid Iran war",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://www.usatoday.com/story/news/world/2026/05/16/iran-war-donald-trump-ceasefire-updates--live/90109508007",
         "image": null,
         "timestamp": 1778934240.0
+    },
+    {
+        "title_fa": "بن‌بست آمریکا-ایران بر سر ازسرگیری عبور از تنگه هرمز؛ فشار کمبود عرضه تشدید می‌شود",
+        "title_en": "US, Iran stall on Hormuz reopening as oil supplies tighten",
+        "summary": [
+            "طبق گزارش بلومبرگ (MSN)، ایران اعلام کرده عبور و مرور از تنگه هرمز «پس از پایان درگیری با آمریکا و اسرائیل» برقرار خواهد شد، اما اختلافات طرفین همچنان بدون راه‌حل باقی مانده است.",
+            "ایالات متحده و ایران بر سر «ازسرگیری هرمز» به توافق نرسیده‌اند و همین توقف/کندی روند، در عمل به سفت‌تر شدن شرایط عرضه نفت دامن می‌زند.",
+            "با توجه به اینکه هیچ مسیر روشن برای رفع اختلاف‌ها یا توافق مرحله‌ای گزارش نشده، ریسک اختلال در تجارت انرژی منطقه‌ای همچنان در قیمت‌گذاری بازار نقش فعال خواهد داشت."
+        ],
+        "impact": "این بن‌بست، احتمال تداوم یا تشدید فشار بر عرضه نفت را بالا می‌برد و می‌تواند نوسان قیمتی و هزینه‌های انرژی را در کوتاه‌مدت افزایش دهد.",
+        "tag": "هرمز",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-iran-stall-on-hormuz-reopening-as-oil-supplies-tighten/ar-AA23lsif",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-stall-on-hormuz-reopening-as-oil-supplies-tighten/ar-AA23lsif",
+        "image": "http://www.bing.com/th?id=ONUT.tewVSc2ZFu9tygbRmbjvlQ&pid=News",
+        "timestamp": 1778933407.0
     },
     {
         "title_fa": "هم‌زمان با لَنگ‌ماندن مذاکرات، آماده‌سازی اسرائیل و آمریکا برای ازسرگیری جنگ از هفته آینده",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.foxnews.com/live-news/iran-trump-hormuz-peace-proposal-may-10",
         "image": "http://www.bing.com/th?id=ONUT.Rcm0DkFZ2LHfO6QiyiVWAA&pid=News",
         "timestamp": 1778439720.0
-    },
-    {
-        "title_fa": "ترامپ: اجازه نمی‌دهیم ایران به اورانیوم غنی‌شده برسد",
-        "title_en": "Trump says US will not allow Iran to reach enriched uranium",
-        "summary": [
-            "ترامپ به‌صورت صریح اعلام کرده است که ایالات متحده اجازه دستیابی ایران به ظرفیت اورانیوم غنی‌شده را نخواهد داد؛ یعنی خط‌قرمز سیاسی برای برنامه هسته‌ای با محور «عدم دستیابی» تعیین شده است.",
-            "این موضع، ریسک فشار خارجی را بالا می‌برد و می‌تواند به تشدید هزینه‌های سیاسی-اقتصادی برای رژیم منجر شود، چون برنامه هسته‌ای همزمان به موضوع امنیتی و تجاری گره می‌خورد.",
-            "در سطح داخلی، چنین پیام‌های سختگیرانه معمولاً به‌جای حل بحران حکمرانی، رژیم را مجبور می‌کند روایت‌سازی و مدیریت بحران از مسیر کنترل سیاسی و اقتصادی را تشدید کند؛ نتیجه محتمل، افزایش نارضایتی در میان مردم تحت فشار هزینه‌هاست (بدون ادعای داده جدید فراتر از متن)."
-        ],
-        "impact": "این اعلامیه یک سیگنال فشار راهبردی مستقیم بر برنامه هسته‌ای ایران است و می‌تواند چرخه ریسک و هزینه‌های خارجی را برای رژیم بالا ببرد، حتی اگر جزئیات ابزار اجرایی در متن نیامده باشد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3BGeTZKcXRDM3V6WkJwNDh2MUpsU1lSYThodEEzS25iZUpha2RUTXAyXzlYZmh6Vmc2Y0taX2x0c1h6bTlrZWVJaWtxVjlJYTI2d25jNXkxeTZpY3pXUW1xM01VbEdpaTRWX2djUVVNa3gwNkUtVW1MbVBJRXZzU0wtaW53XzctS2hGekZZNktmZ0RtN0dxdjQtbmUtRmlQRVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQS3BGeTZKcXRDM3V6WkJwNDh2MUpsU1lSYThodEEzS25iZUpha2RUTXAyXzlYZmh6Vmc2Y0taX2x0c1h6bTlrZWVJaWtxVjlJYTI2d25jNXkxeTZpY3pXUW1xM01VbEdpaTRWX2djUVVNa3gwNkUtVW1MbVBJRXZzU0wtaW53XzctS2hGekZZNktmZ0RtN0dxdjQtbmUtRmlQRVE",
-        "image": null,
-        "timestamp": 1778433947.0
-    },
-    {
-        "title_fa": "نتانیاهو: جنگ با ایران «دستاوردهای زیادی داشت، اما تمام نشده»",
-        "title_en": "Netanyahu: War with Iran ‘accomplished a great deal, but it’s not over’",
-        "summary": [
-            "نتانیاهو در اظهاراتی اعلام کرد که جنگ با ایران «دستاوردهای زیادی» داشته، اما آن را پایان‌یافته ندانست و ادامه مسیر عملیات را در افق نزدیک رد نکرد.",
-            "این موضع‌گیری نشان می‌دهد ارزیابی تل‌آویو از وضعیت فعلی ایران را صرفاً با یک مرحله جمع‌بندی نمی‌کند و احتمال تشدید یا تداوم فشار نظامی/عملیاتی را مطرح می‌سازد.",
-            "از آنجا که متن صرفاً به ارزیابی و چارچوب زمانی عملیات اشاره دارد و جزئیات درباره نقطه دقیق «تمام‌شدن» ارائه نمی‌کند، خروجی مشخصی از این خبر درباره میزان آسیب یا برنامه اقدامات آینده در دست نیست، اما سیگنال سیاسیِ تداوم جنگ ارسال می‌شود."
-        ],
-        "impact": "این پیام سیاسی از سمت اسرائیل، ریسک تداوم یا گسترش چرخه درگیری علیه ایران را بالا می‌برد، بدون اینکه سندی از پایان واقعی عملیات یا تغییر مسیر ارائه کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "Politico",
-        "url": "https://www.msn.com/en-us/news/world/netanyahu-war-with-iran-accomplished-a-great-deal-but-its-not-over/ar-AA22Qohh",
-        "clean_url": "https://www.msn.com/en-us/news/world/netanyahu-war-with-iran-accomplished-a-great-deal-but-its-not-over/ar-AA22Qohh",
-        "image": null,
-        "timestamp": 1778431842.0
     }
 ]
