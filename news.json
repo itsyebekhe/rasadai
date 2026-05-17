@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حمله پهپادی که آتش‌سوزی نزدیک نیروگاه هسته‌ای امارات ایجاد کرد",
+        "title_en": "Drone Strike Sparks Fire Near U.A.E. Nuclear Plant",
+        "summary": [
+            "یک حمله پهپادی باعث آتش‌سوزی در نزدیکی نیروگاه هسته‌ای امارات شد؛ هسته‌ی خبر بر «نزدیکی به تأسیسات هسته‌ای» و پیامد فوری امنیتی استوار است.",
+            "این رخداد، ریسک گسترش تنش‌های منطقه‌ای را بالا می‌برد و نشان می‌دهد میدان‌سازی برای سامانه‌های حساس به امنیت فرامرزی هم رسیده است.",
+            "برای تحلیل فشار خارجی علیه تهران، این نوع رویداد بیش از هر چیز به عنوان سیگنال افزایش احتمال درگیری‌های نیابتی و اختلال در محاسبات امنیتی هم‌پیمانان منطقه‌ای عمل می‌کند؛ اما در متن ارائه‌شده هیچ انتساب مشخصی به ایران گزارش نشده است."
+        ],
+        "impact": "افزایش ریسک حملات نزدیک به زیرساخت هسته‌ای می‌تواند زنجیره‌ای از واکنش‌های امنیتی و تشدید فشارهای سیاسی-دیپلماتیک بر بازیگران منطقه‌ای را در پی داشته باشد، بی‌آنکه در این داده انتسابی قابل اثبات مطرح شده باشد.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.35,
+        "source": "WSJ",
+        "url": "https://www.msn.com/en-us/news/world/drone-strike-sparks-fire-near-uae-nuclear-plant/ar-AA23oQFY",
+        "clean_url": "https://www.msn.com/en-us/news/world/drone-strike-sparks-fire-near-uae-nuclear-plant/ar-AA23oQFY",
+        "image": null,
+        "timestamp": 1779033420.0
+    },
+    {
         "title_fa": "در آستانه شایعه جنگ مجدد، ایران ممکن است حملات علیه امارات را تشدید کند",
         "title_en": "Amid rumors of renewed war, Iran may escalate attacks on UAE - analysis",
         "summary": [
@@ -178,6 +196,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdFRWeTJleFVNNjNFQVFPWFY3aFpjeW5jUWtlUEtKM1NpRmo4UV9wNDhrbXZNSFVjd1FxNWlLZWxMOEdaVlV0LTFGQ3dUcDh3WUdYNWZKSkhiZF9QeHJLNDlNQm84cXpWVGN5NlBlYUNKbEs5dzNoWGEyUWs1YnJGTF90SjgtdlliTWhzekpSQmYwRlVkdm5yTVdrS1dDSXBJcE1Na1Z6WG9sb3NLR3BzeXduSGViZWs3THFtQg",
         "image": null,
         "timestamp": 1779008400.0
+    },
+    {
+        "title_fa": "گزارش زنده از تشدید جنگ در خاورمیانه و گفت‌وگوی ترامپ با نتانیاهو در سایه ترس از ضربات تازه آمریکا علیه ایران",
+        "title_en": "Iran US War News Live Updates: Trump Speaks With Netanyahu Amid Fears of Fresh US Strikes on Iran",
+        "summary": [
+            "این گزارش از گسترش درگیری میان اسرائیل و حزب‌الله و افزایش تنش‌های دیپلماتیک در منطقه خبر می‌دهد و همزمان نگرانی درباره امنیت دریایی را برجسته می‌کند.",
+            "طبق متن، ترامپ با نتانیاهو صحبت کرده و این تماس در چارچوب «ترس از ضربات تازه آمریکا علیه ایران» توصیف شده است.",
+            "خبر جزئیات اثبات‌شده‌ای از برنامه یا زمان حمله ارائه نمی‌کند، اما نشان می‌دهد خطر تشدید مستقیم و منطقه‌ای در حال بالا رفتن است."
+        ],
+        "impact": "اگر سناریوی «ضربات تازه آمریکا علیه ایران» عملیاتی شود، سطح ریسک درگیری مستقیم و بی‌ثباتی راهبردی در منطقه به‌طور جدی افزایش می‌یابد.",
+        "tag": "جنگ",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-israel-war-live-updates-trump-warns-iran-as-hormuz-traffic-crisis-deepens-crude-oil-prices-surge-amid-israel-strikes-in-lebanon-liveblog-154336080",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-israel-war-live-updates-trump-warns-iran-as-hormuz-traffic-crisis-deepens-crude-oil-prices-surge-amid-israel-strikes-in-lebanon-liveblog-154336080",
+        "image": "http://www.bing.com/th?id=ONUT.7xrZmlc6FiyffLbt2BhJ9A&pid=News",
+        "timestamp": 1779007920.0
     },
     {
         "title_fa": "حمله آمریکا و اسرائیل به ایران؛ توقف میادین گاز توسط اسرائیل",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-in/news/world/iran-says-us-must-end-one-sided-pressure-calls-its-proposal-generous/ar-AA22TD5v",
         "image": null,
         "timestamp": 1778492127.0
-    },
-    {
-        "title_fa": "ریسک فروپاشی آتش‌بس؛ بن‌بست ایران و آمریکا و رد پاسخ از سوی ترامپ",
-        "title_en": "Ceasefire could collapse as Trump rejects response: Iran’s ‘days are numbered,’ Israel says",
-        "summary": [
-            "طبق گزارش، ایران و آمریکا روز دوشنبه دوباره در بن‌بست بر سر نحوه پایان جنگ گیر کردند؛ هم‌زمان آتش‌بس به دلیل تبادل آتش در روزهای اخیر و حملات/درگیری‌های مرتبط، رو به بی‌ثباتی رفت.",
-            "موضوع کلیدی تشدید شکنندگی توافق، رد «پاسخ» توسط ترامپ است؛ یعنی حتی پس از تلاش برای مدیریت آتش‌بس، اختلافات سیاسی-امنیتی در سطح تصمیم‌گیری باقی مانده و راه را برای توافق پایدار محدود کرده است.",
-            "هم‌زمان، اسرائیل اظهارات تند مطرح کرده که «روزهای ایران» را محدود می‌داند؛ این موضع با توجه به ادامه درگیری‌های اخیر، فشار روانی و سیاسی برای سخت‌تر کردن خطوط میدانی و مذاکره‌ای را افزایش می‌دهد."
-        ],
-        "impact": "اگر بن‌بست ادامه یابد و آتش‌بس همین‌طور شکننده بماند، احتمال لغزش به درگیری مستقیم‌تر در کوتاه‌مدت بالا می‌رود و هر دو طرف را در وضعیت پرریسک عملیاتی قرار می‌دهد.",
-        "tag": "آتش‌بس",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "al.com",
-        "url": "https://www.al.com/news/2026/05/ceasefire-could-collapse-as-trump-rejects-response-irans-days-are-numbered-israel-says.html",
-        "clean_url": "https://www.al.com/news/2026/05/ceasefire-could-collapse-as-trump-rejects-response-irans-days-are-numbered-israel-says.html",
-        "image": "http://www.bing.com/th?id=ONUT.tEeWbYWeDbnQF3ipzMrM-g&pid=News",
-        "timestamp": 1778489580.0
-    },
-    {
-        "title_fa": "رد پیشنهادی جدید ایران توسط ترامپ؛ گره هسته‌ای و «جنگ پهپادی سایه‌دار» تشدید می‌شود",
-        "title_en": "Trump rejects latest Iran proposal amid shadow drone war",
-        "summary": [
-            "ترامپ پیشنهاد تازه ایران را اواخر یکشنبه رد کرد، چون تهران در متن پیشنهاد «تضمین» نداده که هرگز به سلاح هسته‌ای دست نخواهد یافت.",
-            "این رد، ابهام هسته‌ای را حل‌نشده باقی می‌گذارد و عملاً فشار سیاسی-امنیتی علیه رژیم را بالا می‌برد؛ نتیجه مستقیم آن می‌تواند سخت‌تر شدن مواضع غرب در پرونده هسته‌ای باشد.",
-            "هم‌زمان اشاره Fox News به «جنگ پهپادی سایه‌دار» نشان می‌دهد رقابت امنیتی/عملیاتی در حال جریان است و نبود چارچوب تضمینی می‌تواند ادامه و تشدید درگیری‌های غیرمستقیم را محتمل‌تر کند."
-        ],
-        "impact": "تا زمانی که تضمین هسته‌ای ارائه نشود، مسیر هر نوع توافق یا کاهش فشار بسته می‌ماند و احتمال تداوم تنش‌های امنیتی—از جمله در قالب عملیات‌های پهپادی—افزایش می‌یابد.",
-        "tag": "نقض_تضمین",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/trump-iran-war-peace-deal-blockade-hormuz-may-11",
-        "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-peace-deal-blockade-hormuz-may-11",
-        "image": "http://www.bing.com/th?id=ONUT.vyfQ2HULjpGR802oXCrTow&pid=News",
-        "timestamp": 1778488320.0
     }
 ]
