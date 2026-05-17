@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تهدید ترامپ به ایران در بحبوحه بن‌بست مذاکرات؛ اهرم فشار خارجی تشدید می‌شود",
+        "title_en": "‘Won’t be anything left’: Trump issues threat to Iran amid stalled talks",
+        "summary": [
+            "خبرگزاری الجزیره گزارش می‌دهد که ترامپ در شرایط بن‌بست مذاکرات، تهدید کرده «چیزی باقی نمی‌ماند»؛ یعنی پیام او افزایش فشار تا سطحی فراتر از روند مذاکره است.",
+            "این تهدید در متن «متوقف بودن گفت‌وگوها» آمده و نشان می‌دهد واشنگتن فعلاً گزینه مذاکره را فعلاً در اولویت اول قرار نداده و به مسیر فشار سخت متمایل است.",
+            "با توجه به اینکه جزئیات اجرایی (مثل نوع تحریم یا زمان/حوزه اقدام) در متن خبر مشخص نشده، ارزیابی اثر مستقیم باید بر اساس سیگنال سیاسی تشدیدکننده باشد: افزایش ریسک برای برنامه‌ریزی اقتصادی و سیاسی داخل رژیم و تضعیف قدرت مانور آن در مدیریت بحران."
+        ],
+        "impact": "این تهدید می‌تواند به‌عنوان گام بعدی در تشدید فشار خارجی عمل کند و فضای تصمیم‌گیری اقتصادی و سیاسی رژیم را به سمت بی‌ثباتی سوق دهد.",
+        "tag": "فشار-خارجی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/trump-warns-iran-the-clock-is-ticking-as-he-issues-most-direct-threat-yet-amid-stalled-peace-talks/ar-AA23qL9j",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-warns-iran-the-clock-is-ticking-as-he-issues-most-direct-threat-yet-amid-stalled-peace-talks/ar-AA23qL9j",
+        "image": null,
+        "timestamp": 1779049315.0
+    },
+    {
         "title_fa": "هشدار ترامپ؛ بن‌بست مذاکرات صلح، زمان‌سنج فشار را فعال می‌کند",
         "title_en": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
         "summary": [
@@ -88,6 +106,24 @@
         "clean_url": "https://www.bbc.com/news/articles/cwy27pkj1l1o",
         "image": null,
         "timestamp": 1779033166.0
+    },
+    {
+        "title_fa": "ایران برای میزبانی/حضور در جام جهانی ۲۰۲۶ در مسیر توافق با فیفا؛ ادعای «جلسه مثبت» بدون جزئیات",
+        "title_en": "Iran set to play 2026 World Cup after 'positive meeting' with FIFA",
+        "summary": [
+            "این خبر به‌صورت مبهم می‌گوید ایران قرار است در جام جهانی ۲۰۲۶ نقش داشته باشد، اما تنها به یک «جلسه مثبت» با فیفا اشاره می‌کند و هیچ جزئیات قابل راستی‌آزمایی درباره نوع توافق، زمان‌بندی یا تعهدات منتشر نمی‌کند.",
+            "از متن منبعی که ارائه شده است، محتوای واقعی خبر از روزنامه میلواکی جورنال سنتینل در دسترس نیست و بخش نمایش‌داده‌شده عملاً پیام خطای سایت/مرورگر است؛ بنابراین نمی‌توان روابط فشار خارجی، سازوکارهای مالی یا اثرات سیاسی-اقتصادی را از همین داده استخراج کرد.",
+            "با این سطح از اطلاعات، ارتباطی با تحریم‌ها، حمایت بازیگران خارجی، یا وضعیت اعتراضات داخلی و اقتصاد ایران قابل اثبات نیست؛ هر تحلیل باید صرفاً در حد همان ادعای «جلسه مثبت» باقی بماند."
+        ],
+        "impact": "در غیاب جزئیات، این خبر بیشتر یک اعلام پیشینی است تا یک سند روشن از تغییرات ساختاری، و فقط می‌تواند به‌عنوان سیگنال تلاش برای مشروعیت‌سازی سیاسی از مسیر رویداد ورزشی تلقی شود.",
+        "tag": "فیفا",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Milwaukee Journal Sentinel",
+        "url": "https://www.jsonline.com/story/sports/soccer/worldcup/2026/05/17/iran-2026-world-cup-status-fifa-meeting/90132543007/",
+        "clean_url": "https://www.jsonline.com/story/sports/soccer/worldcup/2026/05/17/iran-2026-world-cup-status-fifa-meeting/90132543007",
+        "image": "http://www.bing.com/th?id=ONUT.soooAfzDECeyKkVlACWF2A&pid=News",
+        "timestamp": 1779027600.0
     },
     {
         "title_fa": "در آستانه شایعه جنگ مجدد، ایران ممکن است حملات علیه امارات را تشدید کند",
@@ -286,6 +322,24 @@
         "clean_url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
         "image": null,
         "timestamp": 1779012840.0
+    },
+    {
+        "title_fa": "وان هولن: نتانیاهو «آن‌قدر احمقانه» تراب را کشاند تا به جنگ با ایران وارد کند",
+        "title_en": "Van Hollen argues Netanyahu found Trump ‘stupid enough’ to drag him into Iran war",
+        "summary": [
+            "وان هولن در گفت‌وگو با فاکس نیوز ادعا می‌کند نتانیاهو «ترامپ را آن‌قدر ساده‌لوح پیدا کرده» که بتواند او را به سمت درگیر شدن در جنگ با ایران بکشاند.",
+            "این اظهارنظر، چارچوب روایتِ جنگ‌طلبی را بر اساس محاسبات سیاسی واشنگتن و نقش بازیگران اسرائیلی در فشار برای تشدید تنش علیه ایران برجسته می‌کند، بدون ارائه جزئیات قابل‌سنجش از عملیات یا تصمیم رسمی.",
+            "خبر به جای پرداختن به وضعیت اقتصادی/تحریمی یا نشانه‌های میدانی داخل ایران، بیشتر روی جدال رسانه‌ای و سیاسی درباره احتمال درگیری تمرکز دارد."
+        ],
+        "impact": "این یک تحلیل/اتهام سیاسی در سطح رسانه‌ای است و به خودی خود شواهد جدیدی برای تشدید واقعی بحران ارائه نمی‌کند، اما ریسک ذهنی و تبلیغاتی برای فضای جنگی را بالا می‌برد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/media/van-hollen-argues-netanyahu-found-trump-stupid-enough-drag-him-iran-war",
+        "clean_url": "https://www.foxnews.com/media/van-hollen-argues-netanyahu-found-trump-stupid-enough-drag-him-iran-war",
+        "image": "http://www.bing.com/th?id=ONUT.KLRCkSLWlLyClaJ5m3aTTw&pid=News",
+        "timestamp": 1779012600.0
     },
     {
         "title_fa": "گراهام: مذاکرات آمریکا با ایران «به دیوار خورده» و تا «آسیب بیشتر» امتیاز نمی‌گیرد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOaG5hY3ZyYUxSRW9MbC1Td3g1WlBTVVF5X05uTENkcTlzbERZRWxpZ2hQNDlhUUx2aVpyNy1BQ1NRTXdfV0tDMTlUanRRUWk1OGstY2dZOXd3MnU3Sk9QXy0xeTAyWEx4Tktfa24wV2Q1NV9qZF9MZFpHRUFVRnZ1RlNwU3ZYMmJ2N01ZVkVZYmlybUZwUmU3NTJCLWxZV2l4QlpsXzZBOVFxdGJTeWw0ckRzcTItOHB3R25SSVpYYktqZHRsQ0ZOeTFR",
         "image": null,
         "timestamp": 1778516956.0
-    },
-    {
-        "title_fa": "ایران این ادعا را رد کرد که پیشنهاد ارسال‌شده به آمریکا «مطالبات افراطی» دارد",
-        "title_en": "Iran denies proposal sent to US contains ‘excessive demands’",
-        "summary": [
-            "ایران اعلام کرده پیشنهادی که به آمریکا ارسال شده، شامل «مطالبات افراطی» نیست و این ادعا را رد می‌کند.",
-            "این واکنش در چارچوب اختلاف بر سر محتوای بسته پیشنهادی شکل گرفته و نشان می‌دهد شکاف در روند مذاکرات/تعامل با آمریکا هنوز حل نشده است.",
-            "رد این ادعا بدون ارائه جزئیات مشخص، بیشتر بر مدیریت روایت و کنترل انتظارات سیاسی داخلی و خارجی اثر می‌گذارد تا حل واقعی اختلافات."
-        ],
-        "impact": "این رخداد بیشتر یک نبرد رسانه‌ای-دیپلماتیک است تا نشانه‌ای از کاهش تنش ساختاری، اما می‌تواند سرعت پیشروی در هر مسیر مذاکره را محدود کند.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeURpblZ6b0VqekxjNXFTV3BsdEpLTF9jdUxheUtxbG56eXlmZk9OVk12X1NhN0QwekkwWU1YZFFITHFDTHVvaWlzc1NZcVpZbVRrRFhSYVpSYWh3T0hnQmFtZGczbEtma3BtQVhqUGRyeVdFSmllWGg3Rml6T25KVG55SE04WjRFTTdBb0RXWDM5VHpxeThXU2hhbzdwZzFySERMcVJfVENjRTgwcEHSAbMBQVVfeXFMTmd6bjM5bHlzSTJjcGREdE9UUVBJUVdURlY3Zk9mRUdUTTNfTmptNzdRRWtMRzJILVJTeUxLbmh5YzRDQ3AzUWFBaU1aaWNXYVVUUWYtSTMxZmF0RFhTM1FMbC1GbW41RUxmZ09PV0ZveUVlT1BfOUh5UnhvZGdwRnViZkU4U0plZlpDeE5UMm1JWURKMUY3SGJtczdEeXBFY3Y1ZVVVenUwazN1ZnBlc0xTRUk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeURpblZ6b0VqekxjNXFTV3BsdEpLTF9jdUxheUtxbG56eXlmZk9OVk12X1NhN0QwekkwWU1YZFFITHFDTHVvaWlzc1NZcVpZbVRrRFhSYVpSYWh3T0hnQmFtZGczbEtma3BtQVhqUGRyeVdFSmllWGg3Rml6T25KVG55SE04WjRFTTdBb0RXWDM5VHpxeThXU2hhbzdwZzFySERMcVJfVENjRTgwcEHSAbMBQVVfeXFMTmd6bjM5bHlzSTJjcGREdE9UUVBJUVdURlY3Zk9mRUdUTTNfTmptNzdRRWtMRzJILVJTeUxLbmh5YzRDQ3AzUWFBaU1aaWNXYVVUUWYtSTMxZmF0RFhTM1FMbC1GbW41RUxmZ09PV0ZveUVlT1BfOUh5UnhvZGdwRnViZkU4U0plZlpDeE5UMm1JWURKMUY3SGJtczdEeXBFY3Y1ZVVVenUwazN1ZnBlc0xTRUk",
-        "image": null,
-        "timestamp": 1778516076.0
-    },
-    {
-        "title_fa": "رد ترامپ بر پیشنهاد ایران پس از چند روز حمله؛ پیام سیاسی و امنیتی",
-        "title_en": "Trump rejects Iran's proposal after days of attacks. What to know",
-        "summary": [
-            "طبق گزارش USA Today، ترامپ پیشنهاد ایران را پس از چند روز «حمله» رد کرده است؛ یعنی کانال دیپلماتیکِ پیشنهادی عملاً از سوی واشنگتن بسته شده یا به تعویق افتاده است.",
-            "این رد، سیگنال استمرار فشار سیاسی-امنیتی است و تمرکز را از «پیشنهاد مذاکره» به «مدیریت تهدید و پاسخ بازدارنده» منتقل می‌کند؛ بدون ارائه جزئیات در متنِ ارسالی، نمی‌توان درباره جزئیات توافق یا شرط‌های طرفین نتیجه گرفت.",
-            "در سطح راهبردی، چنین حرکتی می‌تواند چرخه عملیات و ضدعملیات را طولانی‌تر کند، چون طرف مقابل اجرای خواسته‌های خود را در قالب پیشنهادِ ردشده پیگیری نمی‌کند."
-        ],
-        "impact": "رد پیشنهاد ایران توسط ترامپ، احتمال ادامه تنش و کاهش شانس توافق فوری را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "USA Today",
-        "url": "https://www.msn.com/en-us/news/world/trump-rejects-irans-proposal-after-days-of-attacks-what-to-know/ar-AA22TT54",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-rejects-irans-proposal-after-days-of-attacks-what-to-know/ar-AA22TT54",
-        "image": null,
-        "timestamp": 1778511780.0
-    },
-    {
-        "title_fa": "بن‌بست آمریکا و ایران عمیق‌تر شد؛ تداوم بسته‌بودن تنگه به‌دنبال رد پیشنهاد جدید ترامپ",
-        "title_en": "US standoff with Iran deepens and strait remains closed after Trump rejects latest proposal",
-        "summary": [
-            "خبرگزاری AP گزارش می‌کند که در مذاکرات میان آمریکا و ایران، «بن‌بست» تشدید شده و ترامپ پیشنهاد جدید را رد کرده است؛ نتیجه مستقیم آن تداوم بسته‌بودن تنگه است.",
-            "تا زمانی که این گره سیاسی باز نشود، بسته‌بودن مسیر دریایی به‌عنوان یک مانع عملیاتی باقی می‌ماند و هزینه‌های حمل‌ونقل و ریسک تجاری را بالا نگه می‌دارد.",
-            "رد پیشنهاد جدید نشان می‌دهد شکاف در محور امتیازدهی/تعهدات هنوز پر نشده و احتمال کاهش تنش کوتاه‌مدت پایین است، چون هر حرکت بعدی نیازمند یک توافق سیاسی روشن است."
-        ],
-        "impact": "تداوم بسته‌بودن تنگه در پی رد پیشنهاد آمریکا، فشار عملیاتی و اقتصادی را فوری‌تر و مستمرتر می‌کند و هم‌زمان احتمال حل‌وفصل سریع را کاهش می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjZnMkF3cnVjZlZLbnlLQnE2blhoa0dOd0FzRlVPNlkxdThiNW4ybzVwNVJmYVd5YnQ0Q3VDU1lqdTIzM3VORFYwN0pFYmo5THdvazlfOEQzTW15Qk1wYU5ZcmF0aFpNSGFZcUozNlZ1XzJMVkxNYThsN2dRTmU2OE1mcFMzdnVyWi10SHE1UzhBTnE0NThRb3g1alI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjZnMkF3cnVjZlZLbnlLQnE2blhoa0dOd0FzRlVPNlkxdThiNW4ybzVwNVJmYVd5YnQ0Q3VDU1lqdTIzM3VORFYwN0pFYmo5THdvazlfOEQzTW15Qk1wYU5ZcmF0aFpNSGFZcUozNlZ1XzJMVkxNYThsN2dRTmU2OE1mcFMzdnVyWi10SHE1UzhBTnE0NThRb3g1alI",
-        "image": null,
-        "timestamp": 1778509920.0
     }
 ]
