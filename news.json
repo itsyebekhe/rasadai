@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "حمله پهپادی به نیروگاه اتمی البرکه امارات؛ آتش‌سوزی در بخش ژنراتور بیرونی، سطح تشعشع عادی",
+        "title_en": "Drone Strike Causes Fire at UAE Nuclear Power Plant; Radiation Levels Normal",
+        "summary": [
+            "طبق گزارش‌ها، یک حمله پهپادی باعث آتش‌سوزی در ژنراتور الکتریکی خارج از حصار داخلی نیروگاه اتمی «البرکه» در منطقه الظفره ابوظبی شد؛ هیچ مصدومی گزارش نشد و خطر تشعشعات اعلام نگردید.",
+            "سازمان ناظت هسته‌ای فدرال تأکید کرد سامانه‌های ضروری نیروگاه به‌طور عادی کار می‌کنند و حادثه به ایمنی هسته‌ای یا عملیات نیروگاه آسیبی نزده است؛ آتش‌سوزی نیز توسط تیم‌های امدادی سریعاً مهار شد.",
+            "رسانه‌ها آن را در فضایی از تنش‌های منطقه‌ای و مذاکرات ایالات متحده و ایران قرار داده‌اند، اما هیچ مسئولیتی از سوی هیچ گروهی برعهده گرفته نشده و رسانه امارات هم فاعلیت را مشخص نکرده است؛ آژانس بین‌المللی انرژی اتمی نیز گفته در جریان اطلاعات امارات است و وضعیت را زیر نظر دارد."
+        ],
+        "impact": "این حادثه به‌جای ضربه مستقیم به قابلیت هسته‌ای، یک سیگنال امنیتی جدی درباره آسیب‌پذیری زیرساخت انرژی اتمی در برابر حملات دوربرد و بدون ادعای مسئولیت است.",
+        "tag": "امنیت",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Haaretz",
+        "url": "https://www.thequint.com/news/breaking-news/drone-strike-barakah-nuclear-plant-fire-safety",
+        "clean_url": "https://www.thequint.com/news/breaking-news/drone-strike-barakah-nuclear-plant-fire-safety",
+        "image": null,
+        "timestamp": 1779019680.0
+    },
+    {
+        "title_fa": "حمله پهپادی به حریم نیروگاه هسته‌ای امارات؛ لرزش آتش‌بس جنگ ایران و افزایش ریسک تشدید",
+        "title_en": "Drone strike sparks a fire on the perimeter of UAE's nuclear power plant, shaking Iran war ceasefire",
+        "summary": [
+            "طبق گزارش AP، یک حمله پهپادی باعث آتش‌سوزی در حریم نیروگاه هسته‌ای امارات شد و این رخداد از نظر امنیتی، فضای آتش‌بس را «تکان داده» است.",
+            "این حادثه مستقیماً ریسک خطای محاسباتی و گسترش دامنه درگیری‌های منطقه‌ای را بالا می‌برد، چون نیروگاه هسته‌ای هدف حساس با پیامدهای فوری غیرقابل مهار است.",
+            "در متن منتشرشده، جزییات مشخص درباره طرف مسئول حمله یا ارتباط مستقیم عملیاتی آن با طرف‌های درگیر در آتش‌بس ارائه نشده؛ اما خود وقوع حادثه در نزدیکی دارایی هسته‌ای می‌تواند به بی‌اعتمادی و فشار برای اقدامات تلافی‌جویانه دامن بزند."
+        ],
+        "impact": "وقوع آتش‌سوزی ناشی از حمله پهپادی در حریم یک سایت هسته‌ای، آتش‌بس را شکننده‌تر می‌کند و احتمال تشدید سریع را افزایش می‌دهد.",
+        "tag": "امنیت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "AP News",
+        "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
+        "clean_url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
+        "image": null,
+        "timestamp": 1779016260.0
+    },
+    {
         "title_fa": "انقباض رشد اقتصادی اسرائیل در سه‌ماهه اول؛ فشار جنگ مرتبط با ایران گزارش شد",
         "title_en": "Israel Q1 GDP shrinks 3.3% annualised as Iran war weighs",
         "summary": [
@@ -34,6 +70,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE03WHhkbHJhalRYT1gxbjJoeFA3Ykp5ZXNfeDl5VGs1N1hHRHhmclVZbXVsWXl4azVXcGRfWXpzTUdEVFFEXzMzU2JEMVlTS0RMd2FYTDNNaDVZR0Iz",
         "image": null,
         "timestamp": 1779013040.0
+    },
+    {
+        "title_fa": "دو پایگاه اسرائیلی در بیابان عراق برای ماه‌ها پنهان مانده‌اند",
+        "title_en": "In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months",
+        "summary": [
+            "به گزارش نیویورک‌تایمز، دو پایگاه اسرائیلی در بیابان‌های عراق برای ماه‌ها بدون اطلاع‌رسانی عمومی باقی مانده‌اند؛ سطح پنهان‌کاری نشان می‌دهد فعالیت‌های عملیاتی منطقه‌ای می‌تواند از مسیرهای کم‌هزینه‌تر و با ریسک سیاسی پایین‌تر انجام شود.",
+            "این وضعیت عملاً یک اهرم فشار و تهدید بالقوه علیه امنیت منطقه‌ای عراق ایجاد می‌کند، چون پایداری کنترل دولت میزبان را در برابر افشای ناگهانی فعالیت‌های خارجی زیر سؤال می‌برد.",
+            "برای محاسبات تهران، موضوع فقط «وجود» پایگاه نیست؛ طولانی بودن پنهان‌کاری می‌تواند به معنای برنامه‌ریزی عملیاتی مستمر باشد که احتمالاً با شبکه‌های نیابتی و مدیریت میدانی رقابت منطقه‌ای گره می‌خورد، بدون اینکه جزئیات مستقیم در متن ارائه شده باشد."
+        ],
+        "impact": "افشای دیرهنگام استقرارها در خاک عراق، ریسک بی‌ثباتی و تشدید رقابت اطلاعاتی-عملیاتی در میدانی که قبلاً هم درگیر نفوذ بیرونی بوده را بالا می‌برد.",
+        "tag": "خاورمیانه",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
+        "clean_url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
+        "image": null,
+        "timestamp": 1779012840.0
     },
     {
         "title_fa": "گزارش‌ها: اسرائیل در حال آماده‌سازی برای ازسرگیری درگیری با ایران",
@@ -160,6 +214,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORnpDMVBUc09hMGZRQWlUWmpTNWFtRWVKaUM2QjBCWVRELXY0RUZtNUV4NTUzRWkwRmlNYk1YNi12d0tfSUtSVmczNk5vWldtMzBJSWotb1huVVhNZlF5ZTR5MnMzYXRjdEVHUXgyWUZ4c3FKUEN6bjFDQ2l0Wm1NWUVvU3N6OS1ka3g5RDh2TTdkTTBVc202dkpieUN4TDZ2T3JLOHMtRURQQQ",
         "image": null,
         "timestamp": 1778995560.0
+    },
+    {
+        "title_fa": "بن‌بست مذاکرات پایان جنگ هسته‌ای؛ ایران «کاهش ملموس» در پیشنهاد آمریکا ندیده",
+        "title_en": "US Iran war live: Iran says US offered ‘no tangible concessions’ as nuclear war-ending talks edge toward deadlock",
+        "summary": [
+            "بر اساس گزارش، ایران اعلام کرده پیشنهاد آمریکا «هیچ امتیاز ملموس» ارائه نکرده و روند مذاکرات برای پایان‌دادن به بحران هسته‌ای به سمت بن‌بست پیش می‌رود.",
+            "این وضعیت نشان می‌دهد کانال‌های فشار/چانه‌زنی خارجی از مسیر توافق مؤثر عبور کرده و به فضاهای مبهمِ زمان‌بر می‌لغزد؛ عاملی که معمولا هزینه سیاسی و اقتصادی تصمیم‌گیری را برای حکومت بالا می‌برد.",
+            "با توجه به اینکه متن خبر به «نزدیک‌شدن مذاکرات به بن‌بست» اشاره دارد، احتمال تشدید ریسک‌های مرتبط با تحریم‌ها و فشارهای بیرونی (اعم از اقتصادی و امنیتی) بیشتر می‌شود—بدون اینکه هنوز نشانه‌ای از گشایش قابل‌سنجش ارائه شده باشد."
+        ],
+        "impact": "بن‌بست نزدیک‌شونده، ظرفیت رژیم برای معامله بر سر کاهش فشار را تضعیف می‌کند و ریسک افزایش هزینه‌های اقتصادی/امنیتی را بالا می‌برد.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/news/business/us-iran-war-live-news-us-iran-ceasefire-news-donald-trump-trump-news-strait-of-hormuz-israel-lebanon-starmer-abbas-pakistan-liveblog-13921234.html",
+        "clean_url": "https://www.moneycontrol.com/news/business/us-iran-war-live-news-us-iran-ceasefire-news-donald-trump-trump-news-strait-of-hormuz-israel-lebanon-starmer-abbas-pakistan-liveblog-13921234.html",
+        "image": "http://www.bing.com/th?id=ONUT.mM8r5zi0kp_H17p4-GRZsQ&pid=News",
+        "timestamp": 1778994180.0
     },
     {
         "title_fa": "اظهار ترامپ درباره «منافع» ایران برای توافق با آمریکا؛ اهرم فشار، نه معامله اخلاقی",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://time.com/article/2026/04/10/israels-hezbollah-lebanon-war-explained",
         "image": null,
         "timestamp": 1778482402.0
-    },
-    {
-        "title_fa": "نتانیاهو: جنگ با ایران تا حذف ذخایر هسته‌ای کامل نیست",
-        "title_en": "Netanyahu Says Iran War Incomplete Until Nuclear Stockpiles Removed",
-        "summary": [
-            "نتانیاهو اعلام می‌کند که روند جنگ/فشار علیه ایران از نگاه او «کامل» نشده مگر اینکه «ذخایر هسته‌ای» ایران از میان برود.",
-            "این گزاره چارچوب سیاسی-نظامی مشخصی برای ادامه فشار فراهم می‌کند: محور تصمیم‌گیری بر سر برنامه هسته‌ای و نه صرفاً رخدادهای کوتاه‌مدت می‌چرخد.",
-            "با توجه به گزارش، پیام اصلی افزایش سطح انتظار از مرحله بعدی است؛ یعنی احتمال تداوم یا تشدید اقدام‌های خارجی تا رسیدن به هدف حذف ذخایر مطرح می‌شود."
-        ],
-        "impact": "این موضع می‌تواند به‌عنوان سیگنال افزایش فشار و ادامه مسیر اقدامات علیه ایران تلقی شود، چون شرط «کامل شدن» را به حذف ذخایر هسته‌ای گره می‌زند.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "Kurdistan24",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWJuSVljTjBPR0dPbzNvMUNCR1Z2YUlNaXdjWllFZ3I5ZnV6LUxzUFNVT1NiaWJETUFQc3BKcnlzTG1uQmpsTUNSRDZTS0ZzLS1aS0RTai1vcm9JUlBHWnR4cUgya2RYcXBlSVBEdTRzOC1uT0ZEVEMzZTJMVDNvQ1o0Nk93SGpfWE8yLXVuR2hhdTkxd1drd2o2ZVJQbTBrRmlRX1hIQWFGcXZMOHVLSA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWWJuSVljTjBPR0dPbzNvMUNCR1Z2YUlNaXdjWllFZ3I5ZnV6LUxzUFNVT1NiaWJETUFQc3BKcnlzTG1uQmpsTUNSRDZTS0ZzLS1aS0RTai1vcm9JUlBHWnR4cUgya2RYcXBlSVBEdTRzOC1uT0ZEVEMzZTJMVDNvQ1o0Nk93SGpfWE8yLXVuR2hhdTkxd1drd2o2ZVJQbTBrRmlRX1hIQWFGcXZMOHVLSA",
-        "image": null,
-        "timestamp": 1778479260.0
-    },
-    {
-        "title_fa": "ترامپ پاسخ ایران به طرح صلح را «غیرقابل‌قبول» خواند؛ آزمون آتش‌بس در جریان است",
-        "title_en": "Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested",
-        "summary": [
-            "ترامپ «پاسخ ایران به طرح صلح» را «غیرقابل‌قبول» توصیف کرد و همزمان اعلام شد که آتش‌بس در عمل در حال آزمون است.",
-            "این موضع‌گیری نشان می‌دهد که شکاف میان زبان سیاسی واشنگتن و ارزیابی ایران از سازوکارهای صلح، به یک بحران مدیریت‌شده تبدیل شده و به‌طور مستقیم بر ادامه یا فرسایش آتش‌بس اثر می‌گذارد.",
-            "چون متن به «تست» آتش‌بس اشاره می‌کند، مرکز توجه از مذاکرات صرف به میزان پایبندی طرف‌ها منتقل می‌شود و هرگونه انحراف، زمینه تشدید فشار خارجی را فراهم می‌کند."
-        ],
-        "impact": "این اظهارات احتمال سخت‌تر شدن فشار و پیش‌شرط‌ها را در دوره آزمون آتش‌بس بالا می‌برد و می‌تواند پایبندی عملی را شکننده‌تر کند.",
-        "tag": "فشار_دیپلماتیک",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2RSNjhuM1Z2dzB2MmZKbTJybWI2aVFpMFJMdjBHZXk4OXc2UFdkUHdrWWM1enIyckUta1dDV0NiaEtiZnlPeW02UUlSRm5WckVVOUt0SWpHV3RkdHhRN2RVV1ZaMGw0bVdzbWc5OHM2NlhmT2NXOXd4Y1ZraUh5VEUtMGIydHZP?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxON2RSNjhuM1Z2dzB2MmZKbTJybWI2aVFpMFJMdjBHZXk4OXc2UFdkUHdrWWM1enIyckUta1dDV0NiaEtiZnlPeW02UUlSRm5WckVVOUt0SWpHV3RkdHhRN2RVV1ZaMGw0bVdzbWc5OHM2NlhmT2NXOXd4Y1ZraUh5VEUtMGIydHZP",
-        "image": null,
-        "timestamp": 1778477325.0
-    },
-    {
-        "title_fa": "اعدام دانشجوی تحصیلات تکمیلی متهم به جاسوسی برای سیا و موساد؛ پنجمین اعدام با همین اتهام در جنگ نیمه‌دوم ۲۰۲۵",
-        "title_en": "Iran hangs grad student accused of spying for the CIA and Israel's intel agency",
-        "summary": [
-            "ایران اعلام کرد «اروان شکورزاده»، ۲۹ ساله و دانشجوی ممتاز دانشگاه علم و صنعت ایران، به اتهام همکاری با سیا و موساد اعدام شده است؛ وب‌سایت Mizan Online می‌گوید وی اطلاعات مربوط به محل کار، سطح دسترسی، وظایف و اطلاعات حساس را ارائه کرده است.",
-            "گروه‌های حقوق بشری ایران‌اچ‌آر (Iran Human Rights) و هنَگاو گزارش می‌کنند او پیش از اعدام یادداشتی منتشر کرده و اتهام‌ها را ساختگی خوانده است؛ همچنین ادعا شده طی بازداشت در انفرادی و تحت شکنجه برای گرفتن اعتراف اجباری قرار گرفته است.",
-            "این اعدام در ادامه موج اجرای احکام در دوران «جنگ» از اواخر فوریه رخ می‌دهد: طبق گزارش IHR، از آن زمان پنج نفر با اتهام جاسوسی و نیز ۱۳ نفر مرتبط با اعتراضات ژانویه و یک نفر دیگر مرتبط با اعتراضات ۲۰۲۲ و ۱۰ نفر متهم به ارتباط با گروه‌های اپوزیسیونِ ممنوعه اعدام شده‌اند."
-        ],
-        "impact": "این رویداد نشان می‌دهد قوه قضاییه در زمان تشدید تنش خارجی و داخلی، اعدام‌های نمایشی را به‌عنوان ابزار ترساندن و مدیریت بی‌اعتمادی اجتماعی اجرا می‌کند، در حالی‌که اعتبار پرونده‌ها با ادعای شکنجه و اعتراف اجباری تضعیف می‌شود.",
-        "tag": "اعدام",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/news/iran-hangs-grad-student-accused-spying-cia-mossad/",
-        "clean_url": "https://www.cbsnews.com/news/iran-hangs-grad-student-accused-spying-cia-mossad",
-        "image": null,
-        "timestamp": 1778475720.0
-    },
-    {
-        "title_fa": "رد سریع ترامپ به پیشنهاد ایران؛ با تداوم بسته‌بودن تنگه هرمز، نفت جهش کرد",
-        "title_en": "Trump dismisses Iran's offer, oil rises as Hormuz closure persists",
-        "summary": [
-            "ترامپ پاسخ ایران به یک پیشنهاد صلح آمریکا را سریع و علنی رد کرد؛ این ردّیه‌سازی سیاسی، فضای اطمینان برای توقف تنش را محدود کرد و به افزایش ریسک بازار دامن زد.",
-            "همزمان، تداوم بسته‌بودن تنگه هرمز (به‌عنوان عامل اختلال در مسیرهای حیاتی حمل‌ونقل انرژی) همچنان پابرجا گزارش شد و همین محرک اصلی رشد قیمت نفت بود.",
-            "این ترکیبِ «بن‌بست دیپلماتیک + اختلال لجستیکی در تنگه هرمز» نشان می‌دهد که هزینه‌های اقتصادی تنش، همچنان اولویت سیاست‌گذاری را تحت‌الشعاع قرار داده است."
-        ],
-        "impact": "با تداوم اختلال هرمز و بسته ماندن کانال‌های کاهش تنش، فشار مستقیم بر قیمت انرژی و پیامدهای اقتصادی منطقه‌ای تشدید می‌شود.",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": -0.3,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-dismisses-irans-offer-oil-rises-as-hormuz-closure-persists/ar-AA22UCDo",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-dismisses-irans-offer-oil-rises-as-hormuz-closure-persists/ar-AA22UCDo",
-        "image": "http://www.bing.com/th?id=ONUT.UNg5OLDbuPXJKShX1taebA&pid=News",
-        "timestamp": 1778475335.0
     }
 ]
