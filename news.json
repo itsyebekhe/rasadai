@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ترامپ می‌گوید حمله برنامه‌ریزی‌شده علیه ایران را لغو کرده است",
+        "title_en": "Live updates: Trump says he is canceling planned attack on Iran",
+        "summary": [
+            "خبر فوری NewsNation فقط به این ادعا اشاره دارد که ترامپ اعلام کرده حمله برنامه‌ریزی‌شده علیه ایران را لغو می‌کند؛ هیچ جزئیات درباره علت، زمان‌بندی جدید یا ماهیت تهدید/عملیات ارائه نشده است.",
+            "از منظر فشار خارجی، لغو عملیات نظامی مستقیم می‌تواند یک عامل شوک کوتاه‌مدت برای محاسبات امنیتی حکومت را کاهش دهد، اما لزوماً به معنای کاهش فشار ساختاری (تحریم‌ها/سیاست‌های محدودکننده) نیست چون در این گزارش فقط لغو حمله مطرح شده است.",
+            "در سطح داخلی، چون ارتباطی با اعتراضات یا بحران اقتصادی در متن وجود ندارد، نمی‌توان از این رویداد نتیجه‌ای درباره روند نارضایتی عمومی یا مدیریت اقتصادی گرفت؛ تنها اثر قابل اتکا فعلاً مربوط به تغییر در گزینه‌های نظامی بیرونی است."
+        ],
+        "impact": "لغو ادعایی حمله می‌تواند تنش فوری را پایین بیاورد، اما بدون جزئیات و بدون اشاره به تحریم‌ها یا تغییرات سیاستی، اثر بلندمدت بر ثبات رژیم قابل احراز نیست.",
+        "tag": "امنیت",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "NewsNation",
+        "url": "https://www.msn.com/en-us/news/world/live-updates-iran-unveils-new-body-to-manage-strait-of-hormuz/ar-AA23uewf",
+        "clean_url": "https://www.msn.com/en-us/news/world/live-updates-iran-unveils-new-body-to-manage-strait-of-hormuz/ar-AA23uewf",
+        "image": null,
+        "timestamp": 1779140438.0
+    },
+    {
+        "title_fa": "ترامپ می‌گوید حمله به ایران را متوقف کرده و مذاکرات ادامه دارد",
+        "title_en": "Trump says he paused attack on Iran as negotiations continue",
+        "summary": [
+            "خبرگزاری رویترز اعلام کرده دونالد ترامپ گفته حمله به ایران را «متوقف» کرده است، در حالی که روند مذاکرات ادامه دارد.",
+            "این یعنی تصمیم‌گیری نظامی در لحظه، تابع کانال سیاسی و چانه‌زنی است و پیام اصلی آن کنترل ریسک و مدیریت فشار در مرحله مذاکره است.",
+            "از منظر بیرونی، تعلیق تهدید حمله می‌تواند هم‌زمان برای رژیم زمان بخرد تا بر ساختارهای امنیتی و روایت‌سازی داخلی اتکا کند، اما خودِ تصمیم به «توقف»، عدم قطعیت و شکنندگی محاسبات را هم برجسته می‌کند."
+        ],
+        "impact": "تعلیق اعلامی حمله، فشار مستقیم را موقتاً کاهش می‌دهد اما نشان می‌دهد اهرم نظامی به‌صورت مشروط و قابل تغییر نگه داشته شده است.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-gb/news/other/trump-says-he-paused-attack-on-iran-as-negotiations-continue/ar-AA23waf7",
+        "clean_url": "https://www.msn.com/en-gb/news/other/trump-says-he-paused-attack-on-iran-as-negotiations-continue/ar-AA23waf7",
+        "image": null,
+        "timestamp": 1779136384.0
+    },
+    {
         "title_fa": "ترامپ: حمله برنامه‌ریزی‌شده علیه ایران را فردا به درخواست رهبران منطقه به تعویق می‌اندازد",
         "title_en": "Trump says he's postponing 'scheduled attack of Iran tomorrow' at Middle East leaders' request",
         "summary": [
@@ -36,6 +72,24 @@
         "timestamp": 1779129480.0
     },
     {
+        "title_fa": "ادعای سپاه درباره کشف سلاح‌های منتسب به آمریکا در نزدیکی مرز عراق",
+        "title_en": "Iran's IRGC says it seized alleged US-made weapons near Iraqi border",
+        "summary": [
+            "سپاه پاسداران اعلام کرده در نزدیکی مرز عراق «سلاح‌های ساخت آمریکا» را که به‌عنوان محموله قاچاق/ورود غیرمجاز توصیف شده، توقیف کرده است.",
+            "این رویداد در قالب عملیات امنیتی-اطلاعاتی معرفی می‌شود و مستقیماً روی روایت «وجود مسیرهای تأمین خارجی» برای طرف ایرانی تاکید دارد؛ بدون ارائه جزئیات قابل راستی‌آزمایی در متن کوتاه خبر.",
+            "از نظر راهبردی، چنین ادعاهایی معمولاً برای مشروعیت‌بخشی به تشدید کنترل‌های مرزی، افزایش توجیه امنیتی برای فعالیت‌های منطقه‌ای و فشار رسانه‌ای علیه رقبای خارجی به کار می‌رود."
+        ],
+        "impact": "فعلاً این خبر بیشتر یک ابزار روایت‌سازی و فشار امنیتی-سیاسی است تا شواهد قطعی از تغییر جدی در توازن منطقه‌ای، چون جزئیات عینی در متن موجود نیست.",
+        "tag": "امنیت",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "aa.com.tr",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb093M3VFcGg2RHpnMUZsLUlwXzRnQ0Jwb0Z4RUdyVHFtbC1CN2gycFZheFVwMnZyTUlnREYyWEh5U0FsNFVXc3VtUmV0WkdMZXY0R1RzZGdRWmliX2VkQXdyRnZpc0s3ZHU1a0NyajdiSWkyQnAwd09hREZRQVF2MldiQ2MxdUJEOXNMUjh0Q0dFT0VkUzZFb24xOGNGUE9IZ3NOQnhQV1AwQ2xSSExIcmx3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb093M3VFcGg2RHpnMUZsLUlwXzRnQ0Jwb0Z4RUdyVHFtbC1CN2gycFZheFVwMnZyTUlnREYyWEh5U0FsNFVXc3VtUmV0WkdMZXY0R1RzZGdRWmliX2VkQXdyRnZpc0s3ZHU1a0NyajdiSWkyQnAwd09hREZRQVF2MldiQ2MxdUJEOXNMUjh0Q0dFT0VkUzZFb24xOGNGUE9IZ3NOQnhQV1AwQ2xSSExIcmx3",
+        "image": null,
+        "timestamp": 1779128709.0
+    },
+    {
         "title_fa": "پاکستان یک پیشنهاد «صلح» جدید از ایران به آمریکا می‌فرستد؛ تلاش برای مدیریت بحران، نه حل ریشه‌ای منازعه",
         "title_en": "Pakistan sends new Iranian peace proposal to US",
         "summary": [
@@ -52,6 +106,24 @@
         "clean_url": "https://www.reuters.com/world/asia-pacific/pakistan-hands-us-revised-iranian-proposal-ending-war-2026-05-18",
         "image": null,
         "timestamp": 1779128375.0
+    },
+    {
+        "title_fa": "پیشنهاد جدید ایران کافی نیست و می‌تواند جنگ دوباره را شعله‌ور کند",
+        "title_en": "Iran's new offer is insufficient, risks war resumption: senior U.S. official",
+        "summary": [
+            "یک مقام ارشد آمریکایی اعلام کرده «پیشنهاد جدید ایران» برای جلوگیری از بحران‌های جاری کافی نیست و در نتیجه احتمال ازسرگیری درگیری افزایش می‌یابد.",
+            "این اظهارنظر مستقیماً تهدید «بازگشت جنگ» را به ناکافی بودن پیشنهاد گره می‌زند؛ یعنی مسیر دیپلماتیک کنونی از نظر واشینگتن به نقطه توقف منتهی نشده است.",
+            "از متن گزارش فقط همین ادعا برداشت می‌شود: ارزیابی آمریکا از ناکافی بودن پیشنهاد و محاسبه ریسک جنگ؛ جزئیات پیشنهاد ایران و اقدام مشخص بعدی در همین خبر ارائه نشده است."
+        ],
+        "impact": "اگر ارزیابی آمریکا در عمل به اقدام سیاسی/امنیتی منتهی شود، ریسک فعال شدن سناریوهای درگیری دوباره بالا می‌رود.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Axios",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-new-offer-is-insufficient-risks-war-resumption-senior-us-official/ar-AA23uWVD",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-new-offer-is-insufficient-risks-war-resumption-senior-us-official/ar-AA23uWVD",
+        "image": null,
+        "timestamp": 1779127529.0
     },
     {
         "title_fa": "افزایش قیمت در تابستان؛ پیوند تعرفه‌های دولت ترامپ با تشدید جنگ علیه ایران",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html",
         "image": "http://www.bing.com/th?id=ONUT.90KBOVgEz-Y4GW2B6DWFGQ&pid=News",
         "timestamp": 1778601660.0
-    },
-    {
-        "title_fa": "اظهارات ترامپ درباره «پشتیبانی از آتش‌بس» و هشدار پارلمان ایران برای تلافی",
-        "title_en": "Trump says US-Iran ceasefire on ‘life support’ following Tehran’s ‘unacceptable’ peace proposal",
-        "summary": [
-            "ترامپ اعلام کرده آتش‌بس آمریکا-ایران «روی حمایت از حیات» است و آن را نتیجه‌ای از «پیشنهاد صلح غیرقابل‌قبول» تهران می‌داند؛ این چارچوب خبری فشار سیاسی را تشدید می‌کند، نه حل اختلاف را.",
-            "رئیس مجلس ایران می‌گوید تهران در صورت هرگونه حمله، آمادگی «تلافی» دارد؛ پیام بازدارنده برای عملیات احتمالی، همزمان به‌عنوان تهدید متقابل برای بالا بردن هزینه اقدام طرف مقابل عمل می‌کند.",
-            "ترکیب این دو موضع، نشان‌دهنده شکنندگی روند آتش‌بس و نزدیک شدن به فاز تصمیم‌گیری سخت است: واشینگتن با لحن سقوط احتمالی توافق، و تهران با اعلام ظرفیت پاسخ‌گویی فوری."
-        ],
-        "impact": "این هم‌زمانی لحن بی‌اعتمادی و اعلام آمادگی تلافی، احتمال لغزش به درگیری محدود یا عملیات تحریک‌آمیز را بالا می‌برد و فضای مذاکره را تنگ‌تر می‌کند.",
-        "tag": "آتش‌بس",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-peace-deal-may-12",
-        "clean_url": "https://www.foxnews.com/live-news/iran-war-news-trump-strait-hormuz-peace-deal-may-12",
-        "image": "http://www.bing.com/th?id=ONUT.nO77d7rQm5wJw_Vh-kReug&pid=News",
-        "timestamp": 1778600940.0
-    },
-    {
-        "title_fa": "درگیری ایران پایه‌های اقتصاد کشورهای خلیج فارس را فرسوده می‌کند",
-        "title_en": "Iran Conflict Hits Foundations of Gulf Economies",
-        "summary": [
-            "این گزارش بر اثرات مستقیم درگیری پیرامون ایران بر اقتصاد کشورهای حاشیه خلیج فارس تاکید دارد و نتیجه می‌گیرد که نوسان امنیت منطقه به آسیب‌پذیری ساختاری اقتصادهای خلیج منجر می‌شود.",
-            "مبنای نگرانی، اختلال در جریان‌های تجاری و هزینه‌های ریسک برای سرمایه‌گذاری است؛ یعنی حتی بدون ورود به جزئیات نظامی، مکانیزم فشار اقتصادی از مسیر بی‌ثباتی امنیتی عمل می‌کند.",
-            "این وضعیت برای حکومت ایران نیز یک تیغ دو لبه است: هر قدر بحران منطقه‌ای گسترده‌تر شود، هزینه‌های محیط اقتصادی بالا می‌رود و توان مدیریت بحران‌های داخلی رژیم محدودتر می‌شود—اما متن صرفاً به «تاثیر بر اقتصاد خلیج» می‌پردازد و فراتر از آن ادعایی ارائه نمی‌کند."
-        ],
-        "impact": "بی‌ثباتی ناشی از تنش‌های ایران، اقتصادهای خلیج فارس را با افزایش ریسک تجاری و اختلال در سرمایه‌گذاری تضعیف می‌کند و در بلندمدت فشار مضاعفی به مدیریت بحران در خود رژیم وارد می‌سازد.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.35,
-        "source": "Stimson Center",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXl4UGVOQWN4bEtObEF6aHQyUUVPeWZUMFVQejJDcTE3RGpSVFBqcjRXdEc0cVBVN2xDWUNhLURMVEdaQlBMTGNXOEtMQWQxc0htS3c0bDByMUtNZkRGM2hEQlo5eGpwRGRoRnlYZTZTdERFcjFXWDhaVmVIWGJzTzlxTG4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONXl4UGVOQWN4bEtObEF6aHQyUUVPeWZUMFVQejJDcTE3RGpSVFBqcjRXdEc0cVBVN2xDWUNhLURMVEdaQlBMTGNXOEtMQWQxc0htS3c0bDByMUtNZkRGM2hEQlo5eGpwRGRoRnlYZTZTdERFcjFXWDhaVmVIWGJzTzlxTG4",
-        "image": null,
-        "timestamp": 1778600641.0
-    },
-    {
-        "title_fa": "افزایش برآورد هزینه جنگ علیه ایران به ۲۹ میلیارد دلار",
-        "title_en": "Pentagon raises cost of war in Iran to $29 billion",
-        "summary": [
-            "پنتاگون طبق گزارش USA TODAY هزینه جنگ علیه ایران را ۲۹ میلیارد دلار برآورد کرده است؛ یعنی فشار مالی مستقیم بر بودجه دفاعی آمریکا و ادامه منطق عملیات پرهزینه در سناریوی ایران.",
-            "اگر این برآورد به معنای تثبیت یا گسترش عملیات باشد، نتیجه آن تشدید وزن هزینه‌های نظامی بر سیاست آمریکا است و می‌تواند سطح فشار خارجی را در کوتاه‌مدت حفظ کند.",
-            "متن ارسالی منطق جزئیات عملیاتی، زمان‌بندی یا علت دقیق افزایش را مشخص نمی‌کند؛ بنابراین ارزیابی اثر آن بر اقتصاد ایران فقط در حد پیامدهای کلان «فشار خارجی و هزینه‌سازی» باقی می‌ماند."
-        ],
-        "impact": "این رقم نشان‌دهنده تداوم و پرهزینه بودن سیاست نظامی آمریکا درباره ایران است، بدون اینکه در متن منتشرشده جزئیات عملیاتی برای سنجش اثر فوری بر ایران ارائه شود.",
-        "tag": "آمریکا",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "USA TODAY",
-        "url": "https://www.usatoday.com/story/news/world/2026/05/12/iran-war-trump-ceasefire-updates--live/90034878007/",
-        "clean_url": "https://www.usatoday.com/story/news/world/2026/05/12/iran-war-trump-ceasefire-updates--live/90034878007",
-        "image": "http://www.bing.com/th?id=ONUT.a2vYlShk5HlP-XQ6tqH0vg&pid=News",
-        "timestamp": 1778599320.0
-    },
-    {
-        "title_fa": "کویت: ایران به جزیره‌ای حمله کرده که چین در ساخت بندر کمک می‌کند",
-        "title_en": "Kuwait says Iran attacked an island where China is helping to build a port",
-        "summary": [
-            "طبق گزارش AP، کویت اعلام کرده ایران به جزیره‌ای حمله کرده که چین در حال کمک به ساخت یک بندر در آن است؛ این یعنی برخورد، مستقیماً به پروژه زیرساختی طرف چینی گره خورده است.",
-            "اهمیت این رویداد در پیامدهای فرامرزی آن است: هم ریسک امنیتی برای مسیرهای دریایی و هم هزینه سیاسی/عملی برای بازیگران اقتصادی که در پروژه‌های مرتبط با بندر فعال‌اند افزایش می‌یابد.",
-            "در سطح تحلیلی، چنین حادثه‌ای می‌تواند فشار جدید بر محاسبات ریسک سرمایه‌گذاران و دولت‌های منطقه وارد کند و شکاف میان منافع اقتصادی و رفتار امنیتی را تشدید کند، بدون اینکه در متن به جزئیات بیشتر از درگیری یا تلفات اشاره شود."
-        ],
-        "impact": "اگر حمله به پروژه بندری چین استمرار پیدا کند، احتمال افزایش بی‌ثباتی دریایی و هزینه‌های اقتصادی/سیاسی برای بازیگران منطقه‌ای و چینی بالا می‌رود.",
-        "tag": "امنیت دریایی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "AP News",
-        "url": "https://apnews.com/article/iran-us-israel-uae-iron-dome-f3d5738853111cfc80985c157edab7c3",
-        "clean_url": "https://apnews.com/article/iran-us-israel-uae-iron-dome-f3d5738853111cfc80985c157edab7c3",
-        "image": null,
-        "timestamp": 1778599320.0
     }
 ]
