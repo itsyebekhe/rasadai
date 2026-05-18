@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "افزایش قیمت نفت به‌دلیل بن‌بست مذاکرات صلح ایران و آمریکا و ترس از اختلال طولانی‌مدت در عرضه",
+        "title_en": "Oil rises as Iran-U.S. deadlocked peace talks fan fears of extended supply disruption",
+        "summary": [
+            "طبق CNBC، بن‌بست مذاکرات صلح ایران-آمریکا باعث بالا رفتن قیمت نفت شده است؛ بازار از «اختلال طولانی‌مدت در عرضه» می‌ترسد.",
+            "این وضعیت در قالب فشار خارجی/تحریم‌های بالقوه و نااطمینانی سیاستی عمل می‌کند: حتی بدون اعلام اقدام جدید، قراردادهای تجاری و برنامه‌ریزی عرضه تحت تاثیر ریسک سیاسی قرار می‌گیرند و هزینه فرصت برای خریداران بالا می‌رود.",
+            "اثر داخلیِ مستقیم در متن گزارش به‌صورت عددی نیامده، اما منطق اقتصادی روشن است: افزایش ریسک اختلال نفتی معمولاً به بی‌ثباتی بازار انرژی و فشار بر درآمد/نقدینگی و تصمیم‌های سرمایه‌گذاری دامن می‌زند و این یعنی ادامه تنش می‌تواند هزینه‌های حکمرانی را بیشتر کند."
+        ],
+        "impact": "بن‌بست مذاکرات با بالا بردن ریسک اختلال عرضه، به افزایش قیمت نفت و تشدید نااطمینانی برای جریان‌های تجاری و اقتصادی منجر می‌شود.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/politics/international-relations/oil-rises-as-iran-us-deadlocked-peace-talks-fan-fears-of-extended-supply-disruption/ar-AA23r9vo",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/oil-rises-as-iran-us-deadlocked-peace-talks-fan-fears-of-extended-supply-disruption/ar-AA23r9vo",
+        "image": null,
+        "timestamp": 1779064740.0
+    },
+    {
+        "title_fa": "افزایش اعدام‌های سیاسی در ایران از آغاز جنگ؛ پیام خاموش‌کردن صداهای مخالف",
+        "title_en": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+        "summary": [
+            "BBC گزارش می‌دهد از شروع جنگ، روند اعدام‌های سیاسی در ایران شدت گرفته و حتی مسئولان و زندانیان از نزدیک شدن به «آخرین بار شنیدن صدایشان» سخن گفته‌اند؛ یعنی موج تازه‌ای از حذف فیزیکی معترضان/مخالفان شکل گرفته است.",
+            "این موج اعدام‌ها نشان می‌دهد حکومت برای مهار بحران و ترس از گسترش نارضایتی، به سرکوب مستقیم و غیرقابل‌پیش‌بینی متوسل شده؛ اقداماتی که عملاً فضای سیاسی را بیشتر از هر پرونده‌سازی امنیتی خفه می‌کند.",
+            "با توجه به ماهیت سیاست‌زده و هدف‌گیری اعدام‌های سیاسی، پیامد داخلی آن نه فقط بر قربانیان، بلکه بر کل جامعه است: تشدید ترس، کاهش امکان سازمان‌یابی و احتمال تشدید تنش‌های پنهان، حتی اگر در مقطع کوتاه تبدیل به اعتراض علنی نشود."
+        ],
+        "impact": "افزایش اعدام‌های سیاسی از آغاز جنگ، نشانگر اولویت‌دهی حکومت به حذف مخالفان است و این می‌تواند چرخه بی‌ثباتی و نارضایتی را در سطح جامعه عمیق‌تر کند.",
+        "tag": "اعدام",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/other/two-walkers-rescued-from-hilltop-in-peak-district/ar-AA1ZiuJn",
+        "clean_url": "https://www.msn.com/en-us/news/other/two-walkers-rescued-from-hilltop-in-peak-district/ar-AA1ZiuJn",
+        "image": null,
+        "timestamp": 1779058976.0
+    },
+    {
         "title_fa": "بلندگوی رسانه‌ای: «اشتباه نتانیاهو» به‌عنوان تهدید برای اتحاد اسرائیل-امارات در آستانه تقابل با ایران",
         "title_en": "Netanyahu 'blunder' threatens US-backed Israel-UAE alliance at critical moment with Iran: analyst",
         "summary": [
@@ -106,6 +142,24 @@
         "clean_url": "https://www.foxnews.com/video/6395745632112",
         "image": null,
         "timestamp": 1779042300.0
+    },
+    {
+        "title_fa": "افزایش بیش از دوبرابری اعدام‌ها در ایران؛ افزایش جهانی صدور احکام مرگ بنا به گزارش عفو بین‌الملل",
+        "title_en": "Iran Israel War Live Updates: Amnesty says executions in Iran more than doubled in 2025, driving worldwide surge in death penalties",
+        "summary": [
+            "عفو بین‌الملل اعلام کرده در سال 2025 تعداد اعدام‌ها در ایران بیش از دوبرابر شده و این روند به تشدید «حکم مرگ» در سطح جهانی منجر شده است.",
+            "این گزارش مستقیماً بر کارکرد نظام قضایی و ماهیت سیاست سرکوب تکیه دارد و نشان می‌دهد چارچوب کنترل اجتماعی با اتکا به اعدام در حال تشدید است.",
+            "در کنار هزینه انسانی، چنین جهشی می‌تواند ریسک فشار خارجی و انسداد تدریجی مسیرهای اقتصادی/دیپلماتیک را بالا ببرد، چون موضوع اجرای احکام مرگ معمولاً به پرونده‌های تحریمی و محکومیت‌های بین‌المللی گره می‌خورد."
+        ],
+        "impact": "افزایش جهشی اعدام‌ها، هم نشانه تشدید سرکوب داخلی است و هم می‌تواند به فرسایش بیشتر سرمایه اجتماعی و افزایش فشار خارجی علیه رژیم منجر شود.",
+        "tag": "اعدام",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-israel-strikes-lebanon-west-asia-war-trump-oil-prices-hike-liveblog-14012238.html",
+        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-israel-strikes-lebanon-west-asia-war-trump-oil-prices-hike-liveblog-14012238.html",
+        "image": "http://www.bing.com/th?id=ONUT.Cb3DZiVa1aPCAbI_fnqZ8Q&pid=News",
+        "timestamp": 1779041940.0
     },
     {
         "title_fa": "حمله پهپادی که آتش‌سوزی نزدیک نیروگاه هسته‌ای امارات ایجاد کرد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSFRSdkI1TWxrTWJCT1VHQjdsVjNmM05xVDRDMGM4eDRnbC1xd3Bqb3RoS1JnQU51NERCWVRoVWRlVmppV2Nvdk1iSWM0cmhpQnpEY18yQk5rbmxXSE82X3RuczRfUGdoQzBSSTY4bkNIcnctSS1FSDFGSzJuQ1ptSlM0SENqM0NFeVRuUjBHTGtJWHZRbWFRTzdiYnBwRmlVVTJ2Vw",
         "image": null,
         "timestamp": 1778531578.0
-    },
-    {
-        "title_fa": "بن‌بست آمریکا و ایران؛ نه صلح، نه جنگ",
-        "title_en": "US and Iran are locked in a stalemate that’s neither peace nor war",
-        "summary": [
-            "مذاکرات در سطح آمریکا و ایران در فاز بن‌بست قرار دارد و فاصله طرف‌ها از یک توافق «خیلی زیاد» توصیف شده است.",
-            "با وجود اختلاف شدید، اراده برای بازگشت به درگیری مستقیم هم وجود ندارد و طرفین از تشدید به سمت جنگ دوباره پرهیز می‌کنند.",
-            "نتیجه وضعیتی است که نه می‌تواند به عنوان صلح تلقی شود و نه به عنوان جنگِ فعال، بلکه یک تعلیق شکننده بین دو مسیر است."
-        ],
-        "impact": "این وضعیت بن‌بست، ریسک ادامه تنش را بدون حل ریشه‌ای بالا نگه می‌دارد و امکان لغزش به سمت درگیری را در شرایط خطای محاسباتی باقی می‌گذارد.",
-        "tag": "بن‌بست",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/world/us-and-iran-are-locked-in-a-stalemate-that-s-neither-peace-nor-war/ar-AA22WRCu",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-are-locked-in-a-stalemate-that-s-neither-peace-nor-war/ar-AA22WRCu",
-        "image": "http://www.bing.com/th?id=ONUT.qFVlQclv9RvRQdkdE9Y9zg&pid=News",
-        "timestamp": 1778522400.0
-    },
-    {
-        "title_fa": "امارات در آستانه آتش‌بس اعلام‌شده توسط ترامپ، به پالایشگاه لوانا در ایران ضربه محرمانه زد؛ آتش‌سوزی و افت چندماهه تولید گزارش شد",
-        "title_en": "UAE launched secret counter-strike against Iran that crippled oil refinery before cease-fire: report",
-        "summary": [
-            "طبق گزارش، امارات هم‌زمان با تثبیت آتش‌بس توسط رئیس‌جمهور ترامپ در ۸ آوریل، یک رشته ضدحمله محرمانه علیه پالایشگاه لوانا در جزیره لوانا در خلیج فارس انجام داد که به آتش‌سوزی بزرگ در تأسیسات منجر شد و انتظار می‌رود تولید آن «برای ماه‌ها» مختل بماند.",
-            "ایران در همان زمان گفته بود پالایشگاه با «آتش دشمن» هدف قرار گرفته است؛ در مقابل، ایران نیز به حملات علیه امارات و کویت واکنش نشان داد و هم‌زمان از ادامه حملات مشابه در دوران اوج جنگ سخن می‌رفت، بدون اینکه منبع را علنی کند.",
-            "در زمینه فشار نظامی پیشینی، متن گزارش می‌گوید امارات در موج حملات ایران بیشترین سهم را داشته است (بیش از ۲۸۰۰ موشک و پهپاد) و امارات به‌عنوان هدف اصلی به‌دلیل پیوندهای نزدیکش با آمریکا و اسرائیل و نقش مسیرهای جایگزین تجارت نفتی معرفی شده است."
-        ],
-        "impact": "این اقدام، با هدف‌گیری یک گلوگاه تولید نفت و ایجاد اختلال چندماهه، هزینه عملیاتی ایران را افزایش و ریسک تشدید چرخه تلافی در خلیج فارس را بالا می‌برد.",
-        "tag": "میدان",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/11/world-news/uae-launched-secret-retaliatory-attacks-on-irans-oil-refinery-report/",
-        "clean_url": "https://nypost.com/2026/05/11/world-news/uae-launched-secret-retaliatory-attacks-on-irans-oil-refinery-report",
-        "image": "http://www.bing.com/th?id=ONUT.rzuMN41o_qai0xUg77ELmQ&pid=News",
-        "timestamp": 1778518980.0
-    },
-    {
-        "title_fa": "ترامپ: آتش‌بس با ایران «روی نوار مرگ» است؛ او پاسخ تهران را رد کرد",
-        "title_en": "Trump says Iran ceasefire is 'on life support' after he rejects Tehran's response",
-        "summary": [
-            "ترامپ پس از رد پاسخ تهران اعلام کرد که آتش‌بس در وضعیت «روی نوار مرگ» قرار دارد؛ یعنی روند مذاکره وارد مرحله فرسایشی و پرریسک شده است.",
-            "این موضع‌گیری نشان می‌دهد شکاف اراده سیاسی میان واشنگتن و تهران در حال عمیق شدن است و امکان ادامه فشار خارجی یا کاهش اهرم‌های امتیازدهی افزایش پیدا می‌کند.",
-            "چنین پیام‌هایی معمولاً به بی‌ثباتی محاسبات اقتصادی و امنیتی دامن می‌زند: هم هزینه ریسک برای بازیگران منطقه‌ای بالا می‌رود و هم فضای اجرای توافق‌های بالقوه تنگ‌تر می‌شود."
-        ],
-        "impact": "رد پاسخ تهران و توصیف آتش‌بس به‌عنوان «روی نوار مرگ» احتمال شکست/تغییر مسیر مذاکرات و تشدید فشارها را بالا می‌برد.",
-        "tag": "تحریم/فشار",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTFIeHh6enp1TW1pNmRpVy1pZ1ZtaVFvNTF2emxOOUg3VXV1RWE3SkFqb3pwY28yS0pBTDF3MjRFSVNRclFhTWtCZlN0SmQ1MDV2YUZJSXJhdXRUdldyM3VZbEkzYnIxUXlvSk1JREJwVURVVGJhcV9vcEU2WnlLcVZKaXZQX0Fac1VEWW1VZjlwdDNNWHp5ZENCNTROaEhsVFRuQ2ZUd0gwTmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTTFIeHh6enp1TW1pNmRpVy1pZ1ZtaVFvNTF2emxOOUg3VXV1RWE3SkFqb3pwY28yS0pBTDF3MjRFSVNRclFhTWtCZlN0SmQ1MDV2YUZJSXJhdXRUdldyM3VZbEkzYnIxUXlvSk1JREJwVURVVGJhcV9vcEU2WnlLcVZKaXZQX0Fac1VEWW1VZjlwdDNNWHp5ZENCNTROaEhsVFRuQ2ZUd0gwTmc",
-        "image": null,
-        "timestamp": 1778518314.0
     }
 ]
