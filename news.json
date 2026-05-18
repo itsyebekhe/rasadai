@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "پاکستان یک پیشنهاد «صلح» جدید از ایران به آمریکا می‌فرستد؛ تلاش برای مدیریت بحران، نه حل ریشه‌ای منازعه",
+        "title_en": "Pakistan sends new Iranian peace proposal to US",
+        "summary": [
+            "خبرگزاری رویترز گزارش می‌کند پاکستان یک پیشنهاد تازه صلح که به ایران نسبت داده شده را برای آمریکا ارسال کرده است؛ محور رویداد، انتقال یک بسته سیاسی-میانجی‌گرانه است.",
+            "این اقدام در چارچوب فشار یا تسویه‌حساب نیست، بلکه بیشتر یک مکانیزم دیپلماتیک برای کاهش تنش و در دست گرفتن کانال‌های مذاکره با واشنگتن است؛ نتیجه‌اش مستقیماً بر توازن قدرت داخلی رژیم قابل اتکا نیست مگر با پیوندهای مشخص که در متن خبر نیامده است.",
+            "از آنجا که جزئیات محتوای پیشنهاد، زمان‌بندی، یا واکنش آمریکا ذکر نشده، نمی‌توان آن را به عنوان موفقیت یا شکست قطعی خواند؛ اما نشان می‌دهد رقابت منطقه‌ای و نیاز به کنترل ریسک، همچنان محرک اصلی بازیگران بیرونی است."
+        ],
+        "impact": "ارسال پیشنهاد به آمریکا می‌تواند فضای مدیریت بحران ایجاد کند، ولی بدون جزئیات و واکنش طرف آمریکایی، اثربخشی آن بر محدود شدن منازعه یا تغییرات واقعی سیاسی نامشخص است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/pakistan-hands-us-revised-iranian-proposal-ending-war-2026-05-18/",
+        "clean_url": "https://www.reuters.com/world/asia-pacific/pakistan-hands-us-revised-iranian-proposal-ending-war-2026-05-18",
+        "image": null,
+        "timestamp": 1779128375.0
+    },
+    {
+        "title_fa": "ایران پیشنهاد تازه برای پایان جنگ؛ رفع فشار تنگه هرمز بدون دست‌کشیدن از برنامه هسته‌ای",
+        "title_en": "Iran makes new proposal for deal to end war, regional officials say",
+        "summary": [
+            "دو مقام منطقه‌ای با اطلاع از پیشنهاد ایران می‌گویند تهران آماده است «کنترل/فشار بر تنگه هرمز» را پایان دهد، اما خواسته‌هایش را از محور برنامه هسته‌ای جدا کرده و آن را در این پیشنهاد مطرح نکرده است.",
+            "در همین چارچوب، ایران از آمریکا می‌خواهد «بلوک/محاصره» را هم پایان دهد؛ این پیشنهاد از مسیر پاکستان به آمریکا منتقل شده است، اما احتمال پذیرش آن با توجه به ترجیحات اعلام‌شده ترامپ پایین ارزیابی می‌شود.",
+            "هم‌زمان، وزیر خارجه ایران (عباس عراقچی) برای رایزنی در باره جنگ علیه اسرائیل و آمریکا به روسیه سفر کرده و قرار است در دیدار با ولادیمیر پوتین در سن‌پترزبورگ مشورت انجام دهد؛ این حرکت در شرایطی صورت می‌گیرد که هرچند آتش‌بس برقرار است، اما تنش در تنگه هرمز ادامه دارد و قیمت نفت را بالا نگه داشته است."
+        ],
+        "impact": "این پیشنهاد بدون امتیاز هسته‌ای می‌کوشد فشار اقتصادی-نفتی را کاهش دهد، ولی با توجه به موضع آمریکا، احتمال تبدیل آن به توافق پایدار محدود است و بن‌بست چانه‌زنی ادامه‌دار می‌ماند.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Guardian",
+        "url": "https://www.huffpost.com/entry/iran-new-proposal-strait-of-hormuz_n_69ef3008e4b0f3a433cbe2af",
+        "clean_url": "https://www.huffpost.com/entry/iran-new-proposal-strait-of-hormuz_n_69ef3008e4b0f3a433cbe2af",
+        "image": null,
+        "timestamp": 1779124860.0
+    },
+    {
         "title_fa": "اکونومیست: «اتاق جنگ» توضیح می‌دهد چرا ممکن است درگیری ایران دوباره شعله‌ور شود",
         "title_en": "The War Room newsletter: Why the Iran conflict may reignite",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://www.economist.com/middle-east-and-africa/2026/05/18/the-war-room-newsletter-why-the-iran-conflict-may-reignite",
         "image": null,
         "timestamp": 1779122888.0
+    },
+    {
+        "title_fa": " بن‌بست واشنگتن-تهران؛ با «نه توافق، نه خروج»، احتمال درگیری تازه بالاست",
+        "title_en": "No deal, no exit: How US-Iran standoff risks fresh conflict",
+        "summary": [
+            "بنابر گزارش رویترز، سه ماه پس از حمله مشترک آمریکا و اسرائیل به ایران، «محاصره/عملیات انسدادی آمریکا» در کنار کنترل تهران بر تنگه هرمز، یک بن‌بست بدون مسیر خروج ساخته که هیچ‌یک عقب‌نشینی نمی‌کند.",
+            "این وضعیت وارد فاز هزینه‌محور شده: فشار اقتصادی ناشی از درگیری‌های دریایی و اختلال مسیرهای تجاری تشدید شده و همزمان ریسک تصمیم‌گیری پرخطر برای طرفین بالا رفته است.",
+            "تهدید «درگیری تازه» نه به‌عنوان ادعا، بلکه به‌عنوان پیامد منطقی بن‌بست و تشدید درد اقتصادی مطرح می‌شود: هر دو طرف ابزار اهرم دارند، اما توافق یا خروج قابل‌تصور نشان داده نشده است."
+        ],
+        "impact": "بن‌بست در کنترل مسیرهای حیاتی دریایی، هزینه اقتصادی را می‌برد بالا و احتمال لغزش به رویارویی مستقیم را افزایش می‌دهد.",
+        "tag": "تحریم-دریایی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/no-deal-no-exit-how-us-iran-standoff-risks-fresh-conflict-2026-05-18/",
+        "clean_url": "https://www.reuters.com/world/middle-east/no-deal-no-exit-how-us-iran-standoff-risks-fresh-conflict-2026-05-18",
+        "image": "https://www.reuters.com/resizer/v2/GQZD4XXZFVMOHEWBLSCFASM4ZE.jpg?auth=92e9ff8d42fdba1f455c737d179fdc3b981394f50515e1e6c957a3fcb96a8e6b&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1779122820.0
     },
     {
         "title_fa": "هشدار مقام آمریکایی درباره «گفت‌وگو با بمب»؛ هم‌زمان ادعای ایران درباره امتیاز نفتی آمریکا",
@@ -162,6 +216,42 @@
         "timestamp": 1779105300.0
     },
     {
+        "title_fa": "تحرک فشار آمریکا: جلسه امنیت ملی درباره ایران در آستانه دور جدید فشار",
+        "title_en": "Iran live updates: National security meeting planned for Tuesday",
+        "summary": [
+            "ترامپ با زبان تهدید اعلام کرد «زمان در حال گذر است» و هشدار داد اگر رژیم ایران «پیشنهاد بهتری» برای توافق ارائه نکند، با واکنش بسیار سنگین‌تر روبه‌رو خواهد شد.",
+            "در گزارش 6abc، برنامه‌ریزی برای برگزاری جلسه امنیت ملی روز سه‌شنبه به‌عنوان گام بعدی در مسیر تصمیم‌گیری آمریکا درباره ایران مطرح شده است.",
+            "این چارچوب نشان می‌دهد فشار خارجی قرار است به‌صورت مرحله‌ای تشدید شود و هدف آن وادار کردن طرف ایرانی به تغییر در موضع مذاکراتی است."
+        ],
+        "impact": "این خبر به‌معنای افزایش احتمال اعمال فشار گسترده‌تر از سوی آمریکا علیه رژیم ایران است، نه یک حرکت دیپلماتیک ملایم.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "6abc Action News",
+        "url": "https://6abc.com/live-updates/iran-war-news-trump-ceasefire-oil-gas-prices-tax/19125519/",
+        "clean_url": "https://6abc.com/live-updates/iran-war-news-trump-ceasefire-oil-gas-prices-tax/19125519",
+        "image": "http://www.bing.com/th?id=ONUT.q_SHNdI4agZdfGwSt67hBw&pid=News",
+        "timestamp": 1779103800.0
+    },
+    {
+        "title_fa": "هشدار تند ترامپ به ایران، نشست برنامه اقدام نظامی آمریکا و هم‌زمانی بحران لبنان/فشار هسته‌ای",
+        "title_en": "Middle East crisis live: Trump warns ‘clock is ticking’ for Iran to reach peace deal",
+        "summary": [
+            "ترامپ در Truth Social هشدار داده «زمان در حال گذشت است» و اگر ایران سریع به یک «توافق صلح» با آمریکا نرسد، «ویرانی» در انتظارش است؛ هم‌زمان گزارش شده آمریکا هفته‌ آینده با مشاوران امنیت ملی درباره گزینه‌های اقدام نظامی علیه ایران رایزنی می‌کند.",
+            "در جبهه منطقه‌ای، یک حمله پهپادی به نیروگاه هسته‌ای در امارات رخ داده و امارات آن را «تشـدید خطرناک» خوانده و ایران یا متحدانش را مقصر دانسته؛ عربستان نیز از رهگیری سه پهپاد خبر داده است. این رویدادها، ریسک سرایت بحران را بالا می‌برد و فضای فشار حداکثری را تشدید می‌کند.",
+            "تهران خواستار «آتش‌بس پایدار در لبنان» پیش از هر توافق گسترده با آمریکا است؛ اما در لبنان با وجود تمدید آتش‌بس ۴۵ روزه، حملات اسرائیل ادامه داشته (کشته شدن یک فرمانده جهاد اسلامی و خانواده‌اش، و کشته/مجروح شدن غیرنظامیان). همچنین رسانه‌های ایرانی می‌گویند آمریکا در پاسخ اخیر، امتیاز مشخصی نداده و خواست‌هایی از جمله محدود شدن ایران به یک سایت هسته‌ای و انتقال ذخایر اورانیوم غنی‌شده با غنای بالا به آمریکا مطرح کرده است."
+        ],
+        "impact": "این ترکیبِ هشدار نظامی، رایزنی برای گزینه‌های حمله و فشار هسته‌ای، اهرم آمریکا را برای مهار توان ایران افزایش می‌دهد و احتمال فروپاشی روند مذاکرات را بالا می‌برد، در حالی که بحران لبنان همچنان آتش زیر خاکستر حفظ آتش‌بس را دشوار می‌کند.",
+        "tag": "تحلیل",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+        "clean_url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+        "image": null,
+        "timestamp": 1779102540.0
+    },
+    {
         "title_fa": "نظم جدید در خلیج؛ پیامدهای ژئوپلیتیک برای قدرت‌محوری رژیم ایران",
         "title_en": "A New Order for the Gulf",
         "summary": [
@@ -178,6 +268,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/the-uae-s-opec-bombshell-signals-a-new-middle-east-order/ar-AA222Ncm",
         "image": null,
         "timestamp": 1779101139.0
+    },
+    {
+        "title_fa": "ایران «بیمه گذرگاه» را جایگزین فشار می‌کند تا اهرم چانه‌زنی خود را پولی‌سازی کند",
+        "title_en": "Iran offers insurance lifeline for ships crossing Hormuz",
+        "summary": [
+            "بر اساس گزارش، ایران از انسداد/تهدید در تنگه هرمز به عنوان ابزار نهایی چانه‌زنی استفاده کرده و حالا «سیاست بیمه» برای کشتی‌هایی که از این مسیر عبور می‌کنند ارائه می‌دهد؛ یعنی فشار دریایی به قرارداد مالی تبدیل می‌شود.",
+            "این اقدام مستقیماً ریسک عبور از هرمز را سیاسی و معامله‌محور می‌کند: به جای تضمین ایمنی مستقل، سازوکار پرداخت/بیمه به تصمیمات ایران گره می‌خورد و هزینه‌های عملیاتی شرکت‌های کشتیرانی را بالا می‌برد.",
+            "خروجی کلیدی از این خبر، تلاش برای تثبیت یک جریان درآمد و نفوذ قراردادی از محل بحران امنیت دریایی است؛ هم‌زمان پیام بازدارنده برای رقبا ارسال می‌کند که عبور از مسیر بدون تعامل با ایران «بی‌هزینه» نیست."
+        ],
+        "impact": "این مدل بیمه‌محور، اهرم امنیتی ایران در هرمز را به ابزار درآمدی و مدیریتی برای کنترل ریسک مسیر تبدیل می‌کند و می‌تواند هزینه و عدم‌قطعیت کشتیرانی را افزایش دهد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/crypto/markets/iran-offers-insurance-lifeline-for-ships-crossing-hormuz",
+        "clean_url": "https://www.thestreet.com/crypto/markets/iran-offers-insurance-lifeline-for-ships-crossing-hormuz",
+        "image": "http://www.bing.com/th?id=ONUT.Kc7ni4HNvjzI6n0slUeJKQ&pid=News",
+        "timestamp": 1779099840.0
     },
     {
         "title_fa": "نشست «سیتوئیشن روم» با محور ایران بدون چشم‌انداز توافق هسته‌ای؛ تشدید فشار منطقه‌ای از راه رهگیری پهپاد",
@@ -342,6 +450,24 @@
         "timestamp": 1779087300.0
     },
     {
+        "title_fa": "تهدیدات جنگی ترامپ؛ نمایش اسلحه در خیابان‌های ایران و روی تلویزیون هم‌زمان با تشدید تنش",
+        "title_en": "Guns on the television and in Iran’s streets as Trump renews war threats",
+        "summary": [
+            "CNN (در MSN) گزارش می‌دهد که هم‌زمان با تشدید تهدیدات جنگی دونالد ترامپ، در تهران و شهرهای دیگر «هزاران ایرانی» شبانه به خیابان می‌آیند و فضای امنیتی-نمایشی با «اسلحه» در خیابان‌ها و رسانه‌ها دیده می‌شود.",
+            "طبق روایت گزارش، این تحرکات به «حکومتی/دولتی» نسبت داده می‌شود و همین چارچوب، نشان می‌دهد مدیریت بحران و عملیات روانی/امنیتی به‌جای کاهش تنش، پررنگ‌تر شده است.",
+            "زمان‌بندی گزارش در سایه فضای پرتنش منطقه‌ای قرار دارد، اما متن ارائه‌شده جزئیات قابل راستی‌آزمایی درباره عملیات نظامی مشخص نمی‌دهد و تمرکز اصلی روی جو جنگی و بسیج خیابانی است."
+        ],
+        "impact": "تهدید جنگی می‌تواند با افزایش ترس، اختلال در زندگی روزمره و تشدید کنترل امنیتی، ناپایداری سیاسی-اجتماعی را بالا ببرد؛ حتی بدون وقوع عملیات نظامی در خود گزارش.",
+        "tag": "تهدید",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/world/guns-on-the-television-and-in-iran-s-streets-as-trump-renews-war-threats/ar-AA23rHun",
+        "clean_url": "https://www.msn.com/en-us/news/world/guns-on-the-television-and-in-iran-s-streets-as-trump-renews-war-threats/ar-AA23rHun",
+        "image": "http://www.bing.com/th?id=ONUT.AUMPwHHjY8yx1bTMLgz3jg&pid=News",
+        "timestamp": 1779084342.0
+    },
+    {
         "title_fa": "ترامپ: «ساعت در حال گذر است»؛ هشدار به ایران بعد از تماس با نخست‌وزیر",
         "title_en": "Trump says ‘clock is ticking’ for Iran: ‘There won’t be anything left of them’",
         "summary": [
@@ -430,6 +556,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/oil-rises-as-iran-us-deadlocked-peace-talks-fan-fears-of-extended-supply-disruption/ar-AA23r9vo",
         "image": null,
         "timestamp": 1779064740.0
+    },
+    {
+        "title_fa": "شبکه‌های مشترک؛ از تاسیسات رمزارزی ترامپ تا صرافی بزرگ ایران برای جابه‌جایی پول‌های کلان",
+        "title_en": "How Trump’s crypto venture and Iran’s top exchange tapped into the same industry networks",
+        "summary": [
+            "رویترز گزارش می‌دهد که مشتریان صرافی بزرگ ایران برای انتقال «میلیاردها دلار» از مسیر شبکه‌هایی استفاده کرده‌اند که توسط دو بازیگر بزرگ دیگر در صنعت رمزارز ساخته شده بود.",
+            "این گزارش هم‌زمان به «تاسیسات» رمزارزی مرتبط با ترامپ و جایگاه ایران در اکوسیستم صرافی اشاره می‌کند، اما اتصالات مشخص صرفاً در حد «شبکه‌های صنعت» توصیف شده‌اند، نه به‌صورت اثبات‌شده با جزئیات عملیاتی.",
+            "نتیجه کلیدی روایت: صنعت رمزارز به‌عنوان یک لایه ارتباطی عمل کرده تا انتقال‌های پرحجم ممکن شود، یعنی دارایی‌ها از طریق زیرساخت‌های ارتباطی خارج از کنترل مستقیم کاربران عادی جابه‌جا می‌شوند."
+        ],
+        "impact": "این نوع همپوشانی شبکه‌های صنعت می‌تواند امکان گردش مالی پرحجم برای بازیگران ایرانی را در عمل تسهیل کند، حتی اگر متن خبر جزئیات فنی/حقوقی ارائه ندهد.",
+        "tag": "رمزارز",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/investigations/how-trumps-crypto-venture-irans-top-exchange-tapped-into-same-industry-networks-2026-05-18/",
+        "clean_url": "https://www.reuters.com/investigations/how-trumps-crypto-venture-irans-top-exchange-tapped-into-same-industry-networks-2026-05-18",
+        "image": "http://www.bing.com/th?id=ONUT.RX0if2YiR37zmLitz4p8cg&pid=News",
+        "timestamp": 1779063360.0
     },
     {
         "title_fa": "حمل بار جنگی ایران روی دوش شرکت‌های جهانی؛ ۲۵ میلیارد دلار هزینه",
@@ -5254,149 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUWhZaDdNbFJIOFhpdVpPbnRxYXd3eEVLWHpkODBPWFhoXzB6ekdpM0lGWldqM3B3eEYyVDY4ZnB4em1fa1JOZVZMT2xmQS11d3RxUjk1cGJKUnprZ2VzcjdrbXVQYWtaa25UemNuVzV0dnJnSzI4bkdSNkdOalNELUhJRlBaZnJGUGdsSVJGblUwVzJrZEtFQkVYeExTXzU2Slk3RFROTTRoclZSVmxXRFZoSFp1MWNQZGxLaU1DQUnSAcYBQVVfeXFMT0JRZ0V0ZTlBTEpnemNwaEdPMWxud0daRjktOGVna1h2X25RTVc2N2lTbTRyWXhfUDRPdDRiQXpFMUFvWjhKMGswTXNiRUI4a0E2TjZzQkFBMngyXzl4d05nZGxYZlBsWnI3Z2JCVjJBZXl5Zm1lZHNJUnlJZFlNMm1tLVZGZDBMVUY1VTZXRWpWMUw0VXNVenRxdUZOWFJGQlZVb3JQREpScHFEYUxtcmI1U1pyV3JDeFkwTUR4LWhvQU8wNGx3",
         "image": null,
         "timestamp": 1778591093.0
-    },
-    {
-        "title_fa": "فوربس: ترامپ می‌گوید در مذاکرات درباره جنگ ایران، «وضع مالی آمریکایی‌ها» را در نظر نمی‌گیرد",
-        "title_en": "Trump Says ‘I Don’t Think About Americans’ Financial Situations’ When Negotiating Iran War",
-        "summary": [
-            "ترامپ خارج از کاخ سفید گفت هنگام مذاکره برای توافق/صلح با ایران «حتی کمی» به وضعیت مالی مردم آمریکا فکر نمی‌کند و تنها هدفش را جلوگیری از دست‌یابی ایران به سلاح هسته‌ای دانست.",
-            "هم‌زمان با اذعان ضمنی به فشار اقتصادی (تورم، افزایش قیمت انرژی و بنزین، کمبود کالاهای مصرفی)، او مدعی شد سیاست‌هایش «خیلی خوب کار می‌کنند» و بعد از پایان جنگ در ایران قیمت نفت پایین می‌آید و رشد بازار سهام ادامه خواهد داشت.",
-            "ترامپ همچنین ادعا کرد «صدها کشتی» در تنگه هرمز منتظر خروج‌اند و با خروجشان «جریان نفتی» ایجاد می‌شود که به کاهش تورم منجر خواهد شد؛ کاخ سفید هم در پاسخ به فوربس بر تهدید هسته‌ای ایران تأکید کرد، بدون ارائه جزئیات درباره اینکه کدام نظرسنجی مبنای ادعاهای او بوده است."
-        ],
-        "impact": "این اظهارات نشان می‌دهد مذاکرات/رویکرد واشنگتن به مسئله ایران عمدتاً بر محور بازدارندگی هسته‌ای فشرده شده و پیامدهای فوری اقتصادی برای مردم آمریکا، دست‌کم در چارچوب گفتار رسمی، اولویت تصمیم‌گیری نیست.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/zacharyfolk/2026/05/12/trump-says-i-dont-think-about-americans-financial-situations-when-negotiating-iran-war/",
-        "clean_url": "https://www.forbes.com/sites/zacharyfolk/2026/05/12/trump-says-i-dont-think-about-americans-financial-situations-when-negotiating-iran-war",
-        "image": "http://www.bing.com/th?id=ONUT.IY3rZbEtvreET5_KJ6KpHg&pid=News",
-        "timestamp": 1778587200.0
-    },
-    {
-        "title_fa": "حملات پنهان عربستان به خاک ایران؛ گسترش جنگ به سطح عملیات مستقیم و تشدید محاسبه‌پذیری ریاض",
-        "title_en": "Saudi Arabia secretly launched attacks on Iran during regional escalations",
-        "summary": [
-            "دو مقام غربی و دو مقام ایرانی می‌گویند عربستان حملات متعددِ گزارش‌نشده علیه ایران انجام داده؛ نخستین شواهد شناخته‌شده از اقدام نظامی مستقیم ریاض در خاک ایران، با ارزیابی اجرای آن در اواخر مارس و از نوع «پاسخ متقابل» در چارچوب تلافی‌جویی.",
-            "رویترز نتوانست هدف‌های دقیق را تأیید کند؛ با این حال واکنش‌های رسمیِ دو طرف به‌صورت مستقیم نبود: مقام ارشد وزارت خارجه عربستان درباره انجام/عدم انجام حملات پاسخ مشخص نداد و وزارت خارجه ایران هم پاسخی نداد.",
-            "این رویداد در بستر تشدید جنگ منطقه‌ای رخ می‌دهد: ایران پس از حملات آمریکا و اسرائیل در ۲۸ فوریه، به شش عضو شورای همکاری موشکی/پهپادی زده و بستن تنگه هرمز و حمله به زیرساخت نفتی و مراکز غیرنظامی را هم گزارش کرده‌اند؛ سپس امارات و اکنون عربستان وارد فاز حملات فراتر از «واکنش نیابتی» شده‌اند."
-        ],
-        "impact": "ورود عربستان به عملیات مستقیم در خاک ایران، نشان‌دهنده گسترش واقعی جنگ و افزایش ریسک دورشدن از مهار سیاسی است، چون هزینه‌دادن دو سویه از حوزه نیابتی به میدان مستقیم کشیده می‌شود.",
-        "tag": "درگیری",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Jerusalem Post Blogs",
-        "url": "https://www.jpost.com/middle-east/iran-news/article-895961",
-        "clean_url": "https://www.jpost.com/middle-east/iran-news/article-895961",
-        "image": "http://www.bing.com/th?id=ONUT.6NRRlKx40Sa2OpiCdBgRfA&pid=News",
-        "timestamp": 1778585040.0
-    },
-    {
-        "title_fa": "ارسال پیام متنی انبوه از سوی ایران به اسرائیلی‌ها با دعوت به ارائه اطلاعات",
-        "title_en": "Iran sends mass text message to Israelis, inviting them to share intelligence",
-        "summary": [
-            "بر اساس گزارش The Times of Israel، ایران یک پیام متنی انبوه برای اسرائیلی‌ها ارسال کرده و آن‌ها را به «اشتراک‌گذاری اطلاعات» دعوت کرده است.",
-            "این اقدام یک عملیات نفوذ/جمع‌آوری اطلاعات از مسیر ارتباطات غیرنظامی است و هدفش فعال‌سازی کانال‌های پنهان برای دسترسی به داده‌های حساس می‌تواند باشد.",
-            "در متن گزارش، جزئیات فنی درباره دامنه مخاطبان، زمان‌بندی، یا محتوای دقیق پیام ارائه نشده؛ بنابراین ارزیابی اثرگذاری آن باید محدود به همین سطح گزارش باشد."
-        ],
-        "impact": "این پیام انبوه نشان می‌دهد ایران در پی گسترش ابزارهای جمع‌آوری اطلاعات و ایجاد اهرم‌های نفوذ در جامعه هدف است.",
-        "tag": "نفوذ",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3RMZU1teW9OUHlWRS1taEtrREF6ODA3Ti03T2VTcXpQTy1qb3BRU3VPaE1ERHRJMGxZS1hVclEwN3FJUFVDd0xNcjB5RzhOU2hUTjRLV0tSUDJjSXQtOXJja2FSdGtaSW9jWEE0MExhdjJrTk5YNTN6LXZPU1JFc2VSS19faEwzaTVMSWhrcE5ubllhaHVxWGlCV1loeGxXNHpiVXFsMFA0elnSAbABQVVfeXFMTjVfV29zYkhKaG9jWnVDUUJQZGdGTl8zSDZzS3YzZVd3dzE1d2tCVFY2djdjUDB1NzBaNkFDRXlYOXFoVkdVTWZwa0pTSGFfdWhPOEltTXRpdFFleGw5WTJBUy1sMGJybWozWlVPRnRjYTh0QkdiekdGenpUY2FJZ3F3bUZLWkRvT0tkb0xVUkJScWhWbG1mSTh0aXJLSGxGNmNaZFJ3c2RrbDJIMTNhOVI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQY3RMZU1teW9OUHlWRS1taEtrREF6ODA3Ti03T2VTcXpQTy1qb3BRU3VPaE1ERHRJMGxZS1hVclEwN3FJUFVDd0xNcjB5RzhOU2hUTjRLV0tSUDJjSXQtOXJja2FSdGtaSW9jWEE0MExhdjJrTk5YNTN6LXZPU1JFc2VSS19faEwzaTVMSWhrcE5ubllhaHVxWGlCV1loeGxXNHpiVXFsMFA0elnSAbABQVVfeXFMTjVfV29zYkhKaG9jWnVDUUJQZGdGTl8zSDZzS3YzZVd3dzE1d2tCVFY2djdjUDB1NzBaNkFDRXlYOXFoVkdVTWZwa0pTSGFfdWhPOEltTXRpdFFleGw5WTJBUy1sMGJybWozWlVPRnRjYTh0QkdiekdGenpUY2FJZ3F3bUZLWkRvT0tkb0xVUkJScWhWbG1mSTh0aXJLSGxGNmNaZFJ3c2RrbDJIMTNhOVI",
-        "image": null,
-        "timestamp": 1778583825.0
-    },
-    {
-        "title_fa": "درس جنگ ایران برای چین: تغییر محاسبات جنگی علیه آمریکا",
-        "title_en": "What the Iran War Taught China About Fighting the United States",
-        "summary": [
-            "این مطلب، تمرکز جنگ ایران را از «تهران یا اورشلیم» به عنوان مخاطب اصلی، به سمت «پکن» جابه‌جا می‌کند و می‌گوید تیم ترامپ احتمالاً دیر یا زود به این واقعیت پی می‌برد که اثرگذاری واقعی برای چین بوده است.",
-            "چارچوب گزارش به مقایسه راهبردی میان شیوه‌های جنگ/فشار آمریکا در پرونده ایران و نحوه برداشت چین از این الگو اختصاص دارد؛ یعنی اقدام واشنگتن در ایران به عنوان یک نمونه عملی برای چین خوانده می‌شود، نه صرفاً یک پرونده منطقه‌ای.",
-            "از متن ارائه‌شده، ادعای مشخصی درباره جزئیات عملیات، تصمیم‌های ایران، یا ائتلاف‌های فنی قابل راستی‌آزمایی دیده نمی‌شود؛ بنابراین نتیجه‌گیری باید محدود به پیامدهای راهبردی ادراک‌شده برای چین باشد، نه اتصال‌های بی‌مدرک."
-        ],
-        "impact": "این نوع نگاه، خطر تبدیل پرونده ایران به «درس‌نامه جنگی برای چین» را برجسته می‌کند و می‌تواند به چرخش در محاسبات واشنگتن درباره الگوی فشار و مخاطب‌های واقعی آن منجر شود.",
-        "tag": "راهبرد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Council on Foreign Relations",
-        "url": "https://www.cfr.org/articles/what-the-iran-war-taught-china-about-fighting-the-united-states",
-        "clean_url": "https://www.cfr.org/articles/what-the-iran-war-taught-china-about-fighting-the-united-states",
-        "image": "http://www.bing.com/th?id=ONUT.YqGkO29DzFGdFCXGrz1LFA&pid=News",
-        "timestamp": 1778582160.0
-    },
-    {
-        "title_fa": "نیمه‌اتمام: «آتش‌بسِ بدون توقف» ترامپ با ایران در چارچوب الگوی گسترده‌تر",
-        "title_en": "Trump’s Non-Ceasefire Ceasefire with Iran Is Part of a Larger Pattern",
-        "summary": [
-            "مقاله «آتش‌بس بدون توقف» ترامپ با ایران را نه یک معامله جداگانه، بلکه بخشی از یک الگوی بزرگ‌تر از فشار و مدیریت بحران از مسیرهای محدودکننده معرفی می‌کند؛ یعنی اقداماتی که ظاهراً آرامش می‌سازند، اما عملیات/تنش‌ها را واقعاً متوقف نمی‌کنند.",
-            "چارچوب اصلی گزارش بر این نکته استوار است که چنین توافق‌هایی معمولاً زمان می‌خرند و هزینه سیاسی-عملیاتی کوتاه‌مدت ایجاد می‌کنند، بدون اینکه مسئله را به یک توقف پایدار و قابل راستی‌آزمایی تبدیل کنند.",
-            "نتیجه ضمنی این است که رژیم از این جنس «تنظیمات تاکتیکی» برای نفس‌کشیدن استفاده می‌کند، در حالی که طرف مقابل هم از آن برای کنترل ریسک و کاهش تمرکز فشار در زمان مشخص بهره می‌گیرد—و در نهایت چرخه تنش دوباره فعال می‌شود."
-        ],
-        "impact": "این مدلِ «آتش‌بس غیرقابل توقف» بیشتر به تنظیم زمان و میدان بازی می‌پردازد تا کاهش واقعی ظرفیت بحران، و احتمال تداوم چرخۀ تنش را بالا نگه می‌دارد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The New Yorker",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOOVRYdmF3S0NaNzM0aDYtaWVvMUt6S3FCUjNjeXJoTEl2SnBSR3dNaFlOUUxfd2x0enozRVFlVThjcm56TVRjY2JYRW0zZHFkb2hUS0hCVEppVm1DWExOUVJCRy1EYVVHV3h5dFZaTk1CUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOOVRYdmF3S0NaNzM0aDYtaWVvMUt6S3FCUjNjeXJoTEl2SnBSR3dNaFlOUUxfd2x0enozRVFlVThjcm56TVRjY2JYRW0zZHFkb2hUS0hCVEppVm1DWExOUVJCRy1EYVVHV3h5dFZaTk1CUQ",
-        "image": null,
-        "timestamp": 1778580000.0
-    },
-    {
-        "title_fa": "به‌روزرسانی حمل‌ونقل جنگی ایران (۱۱ مه ۲۰۲۶)",
-        "title_en": "Iran War Shipping Update - May 11, 2026",
-        "summary": [
-            "منبع فقط با عنوان «به‌روزرسانی حمل‌ونقل جنگی ایران - ۱۱ مه ۲۰۲۶» آمده و جزئیات قابل راستی‌آزمایی از مسیرها، کشتی‌ها، عملیات یا طرف‌های درگیر ارائه نمی‌کند.",
-            "در نبود متن تکمیلی، نمی‌توان درباره شدت فعالیت‌های دریایی، ارتباط با توقیف/رهگیری یا اثر مستقیم بر تجارت و ریسک لجستیکی نتیجه قطعی داد.",
-            "بنابراین این گزارش فعلاً به‌عنوان یک اطلاعیه/عنوان بدون داده‌های تحلیلی تلقی می‌شود و برای ارزیابی پیامد سیاسی-امنیتی یا اثر بر ثبات رژیم، نیازمند اطلاعات مشخص است."
-        ],
-        "impact": "چون محتوای خبری شامل جزئیات نیست، اثر قابل سنجش بر اقتصاد، فشار خارجی یا ریسک عملیاتی صرفاً بر پایه عنوان قابل تعیین نیست.",
-        "tag": "shipping",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "United Against Nuclear Iran",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkZIbWRfN2U5Y05zTmt4U1BpRUlGZEVIb05pVHQ5SGpkNm1TWWY1alY5SGdOeUE5WHU1NXprb05oV0tHSEoybEllWnlXQ0NQQkVIWDNfR3ZMcnE5MDBIWjBtUlhMMkJ4RE9GUy1yN0RoUXh5X085dmp6NXdIWkt0X1hEazhNZnpQSHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONkZIbWRfN2U5Y05zTmt4U1BpRUlGZEVIb05pVHQ5SGpkNm1TWWY1alY5SGdOeUE5WHU1NXprb05oV0tHSEoybEllWnlXQ0NQQkVIWDNfR3ZMcnE5MDBIWjBtUlhMMkJ4RE9GUy1yN0RoUXh5X085dmp6NXdIWkt0X1hEazhNZnpQSHc",
-        "image": null,
-        "timestamp": 1778579100.0
-    },
-    {
-        "title_fa": "اعلام ارسال سامانه‌های پدافند «آیرون‌دوم» از سوی اسرائیل به امارات با حضور نیرو و تجهیزات",
-        "title_en": "US ambassador to Israel says Israel sent Iron Dome batteries, personnel to UAE to defend country",
-        "summary": [
-            "طبق گفته سفیر آمریکا در اسرائیل، اسرائیل باتری‌های پدافند هوایی «آیرون‌دوم» به‌همراه پرسنل را برای دفاع از امارات ارسال کرده است.",
-            "این یعنی یک هماهنگی امنیتی عملیاتی میان اسرائیل و یکی از بازیگران کلیدی منطقه شکل گرفته که می‌تواند در کوتاه‌مدت توازن بازدارندگی در برابر تهدیدات هوایی را تغییر دهد.",
-            "چون گزارش روی «ارسال نیرو و تجهیزات» تاکید دارد، پیام اصلی آن افزایش آمادگی و پوشش دفاعی برای یک کشور میزبان است، نه صرفاً سطحی از گفت‌وگوهای دیپلماتیک."
-        ],
-        "impact": "افزایش ظرفیت دفاع هوایی در امارات، احتمال تشدید رقابت امنیتی و فشارهای متقابل منطقه‌ای را بالا می‌برد.",
-        "tag": "بازدارندگی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDNqcXRzank2eUZsSVVhMksxNWhDZ1dpOUREUHhmMzNZZzg0WFJIajVpVkRpbmgxQzRMTjdBWjhFWHdORVFlX0RMVno1emxtVW1uQjFFajU5c1hzZHE0RUlGR0FINDFPcDljMDdGS3UtTGdjRUx0RHFNbEkwaGgxRm1fMVNrczBoUmpGOTBpaXREVHppeWxXUUhqMGloN0lfRUhILTRDUW1paThBN3d0VEVEdktWbTljU1dSQ1J2a0VGQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSDNqcXRzank2eUZsSVVhMksxNWhDZ1dpOUREUHhmMzNZZzg0WFJIajVpVkRpbmgxQzRMTjdBWjhFWHdORVFlX0RMVno1emxtVW1uQjFFajU5c1hzZHE0RUlGR0FINDFPcDljMDdGS3UtTGdjRUx0RHFNbEkwaGgxRm1fMVNrczBoUmpGOTBpaXREVHppeWxXUUhqMGloN0lfRUhILTRDUW1paThBN3d0VEVEdktWbTljU1dSQ1J2a0VGQQ",
-        "image": null,
-        "timestamp": 1778579085.0
-    },
-    {
-        "title_fa": "هشدار نماینده: در صورت حمله، ایران می‌تواند غنی‌سازی را تا سطح تسلیحاتی ارتقا دهد",
-        "title_en": "Iran could enrich uranium to weapons grade if attacked, lawmaker warns",
-        "summary": [
-            "به گفته یک نماینده مجلس، ایران در سناریوی «حمله» می‌تواند فرایند غنی‌سازی را به سطح «سلاح‌گری» برساند؛ این ادعا به‌عنوان هشدار بازدارنده مطرح شده است.",
-            "این پیام، به‌صورت مستقیم چرخه تصمیم‌گیری امنیتی تهران را به یک محرک خارجی گره می‌زند و احتمال تشدید ریسک‌های محاسباتی را بالا می‌برد.",
-            "چون متن خبر به جزئیات فنی، زمان‌بندی یا اقدامات مشخص (مثل میزان ذخایر، درصد غنی‌سازی یا برنامه اجرایی) اشاره نمی‌کند، فعلاً بیشتر «سیگنال سیاسی» است تا گزارش اقدام بالفعل."
-        ],
-        "impact": "این اظهارات می‌تواند فضای بین‌المللی را به سمت سناریوهای سخت‌گیرانه‌تر ببرد و ریسک افزایش فشار خارجی یا واکنش پیش‌دستانه را بالا ببرد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHgxWndxenFOTWNkNGptZ2ZMUThMREN5YXpDV1kyNEt3cTRkb2hHQjRldjFUZXNJLXFUZXdmOEdTWThDNEk1cUhfTVhBZkhiZzhoUS12dzBoZTE3QlhnbmtmbkRHME03bnpwTFJSUWJVemQzS1ZnMVJrRl93dV9zZ2h6dm85Y0hsNnhEZDNpazlvZVRBT2lLallzSzZvWlI5MnRzUEttWEVKb2tEUXpZTzlEVkNHOUdiWi1uZg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdHgxWndxenFOTWNkNGptZ2ZMUThMREN5YXpDV1kyNEt3cTRkb2hHQjRldjFUZXNJLXFUZXdmOEdTWThDNEk1cUhfTVhBZkhiZzhoUS12dzBoZTE3QlhnbmtmbkRHME03bnpwTFJSUWJVemQzS1ZnMVJrRl93dV9zZ2h6dm85Y0hsNnhEZDNpazlvZVRBT2lLallzSzZvWlI5MnRzUEttWEVKb2tEUXpZTzlEVkNHOUdiWi1uZg",
-        "image": null,
-        "timestamp": 1778578112.0
     }
 ]
