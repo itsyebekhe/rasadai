@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اتهام «اظهار نامناسب» در جلسه استماع جنگ با ایران؛ درگیری لفظی در واشینگتن درباره خط‌کشی راهبردی",
+        "title_en": "Admiral accuses lawmaker of ‘inappropriate’ remark at Iran war hearing",
+        "summary": [
+            "در گزارش واشینگتن پست، یک دریاسالار در چارچوب جلسه استماع مرتبط با جنگ/اقدامات نظامی علیه ایران، به یک قانون‌گذار به‌خاطر «اظهار نامناسب» حمله کرده و اختلاف علنی در فضای تصمیم‌گیری آمریکا را برجسته کرده است.",
+            "این رخداد مستقیماً نشان‌دهنده شکاف در روایت‌سازی و کنترل پیام درباره مسیر اقدام علیه ایران است، اما هیچ نشانه‌ای از تصمیم عملی جدید، تشدید نظامی قطعی یا تغییر رسمی در سیاست‌ها ارائه نمی‌کند.",
+            "از منظر پیامدگذاری برای تهران، تا زمانی که به اقدام اجرایی (تحریم جدید، دستور عملیاتی یا تغییر سطح آمادگی) منجر نشود، بیشتر یک سیگنال سیاسی/رسانه‌ای است و نه یک عامل فشار ساختاری یا ضربه اقتصادی فوری."
+        ],
+        "impact": "این پرونده عمدتاً تنش سیاسی در واشینگتن را نشان می‌دهد و به‌تنهایی فشار ساختاری یا تغییر فوری در عملیات علیه ایران ایجاد نمی‌کند.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/politics/admiral-accuses-lawmaker-of-inappropriate-remark-at-iran-war-hearing/ar-AA23ABEK",
+        "clean_url": "https://www.msn.com/en-us/news/politics/admiral-accuses-lawmaker-of-inappropriate-remark-at-iran-war-hearing/ar-AA23ABEK",
+        "image": null,
+        "timestamp": 1779225194.0
+    },
+    {
         "title_fa": "تحریم خانه صرافی ارزی ایران و ۱۹ فروند کشتی توسط آمریکا",
         "title_en": "US sanctions Iran currency exchange house, 19 vessels",
         "summary": [
@@ -54,6 +72,24 @@
         "timestamp": 1779219067.0
     },
     {
+        "title_fa": "تهدید ترامپ به «ضربه بزرگ»؛ زمان محدود برای توافق یا تشدید حملات آمریکا",
+        "title_en": "Trump threatens ‘a big hit’ if Tehran does not make deal soon",
+        "summary": [
+            "ترامپ اعلام کرد نزدیک بوده دستور موج تازه حملات علیه ایران را صادر کند و گفته تصمیم لغو آن در ادامه پیشنهاد صلح جدید تهران از مسیر پاکستان (میانجی‌گری پاکستان) گرفته شده است؛ او برای مذاکره «فاصله کوتاه چند روزه» تعیین کرد و هشدار داد در صورت نرسیدن به توافق، حمله‌ای «محدود اما بزرگ» در روزهای آینده انجام خواهد شد.",
+            "ترامپ با رد امکان معامله‌ سریع، خواسته‌های آمریکا را «مهم‌ترین امتیازها» توصیف کرد و مدعی شد رهبران ایران برای توافق «التماس» می‌کنند؛ هم‌زمان، نمایندگان ایرانی این خواسته‌ها را «زیاده‌خواهانه» خواندند. تحلیل‌های منتشرشده از بن‌بست می‌گوید: دو طرف از نظر سطح امتیازهای قابل قبول آن‌قدر فاصله دارند که هیچ‌کدام حاضر به پرداخت بهای سیاسی عقب‌نشینی نیستند.",
+            "با وجود آتش‌بس از ۸ آوریل، بن‌بست ادامه یافته: تنها یک دور گفت‌وگو به مدت ۲۱ ساعت در اسلام‌آباد برگزار شده و میانجی‌ها می‌گویند طرفین «هدف‌گذاری‌ها را تغییر می‌دهند». همچنین گزارش شده ایران همچنان عبور و مرور در تنگه هرمز را محدود/مختل می‌کند و آمریکا نیز بن‌بست دریایی خود علیه بنادر ایران را حفظ کرده است."
+        ],
+        "impact": "تهدید زمان‌دار آمریکا، خطر شکستن آتش‌بس و تشدید فشار نظامی را بالا می‌برد، در حالی که بن‌بست مذاکره نشان می‌دهد راه‌حل سریع سیاسی در دسترس نیست.",
+        "tag": "sanctions",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/may/19/trump-threatens-a-big-hit-if-tehran-does-not-make-deal-soon",
+        "clean_url": "https://www.theguardian.com/world/2026/may/19/trump-threatens-a-big-hit-if-tehran-does-not-make-deal-soon",
+        "image": null,
+        "timestamp": 1779217920.0
+    },
+    {
         "title_fa": "ونَس: «پیشرفت زیادی» در گفت‌وگوهای ایران ایجاد شده",
         "title_en": "'A lot of progress' made in Iran talks, US Vice President JD Vance says",
         "summary": [
@@ -88,6 +124,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/vance-us-prefers-diplomatic-solution-to-iran-conflict-but-is-locked-and-loaded-to-resume-war/ar-AA23A3gJ",
         "image": null,
         "timestamp": 1779214205.0
+    },
+    {
+        "title_fa": "گزارش: اسرائیل برای پیوستن به احتمال حمله آمریکا علیه ایران آماده می‌شود، با وجود تعویق ترامپ",
+        "title_en": "Israel preparing to join potential US strike on Iran despite Trump’s delay — report",
+        "summary": [
+            "طبق گزارش، اسرائیل در حال تدارک برای پیوستن به یک اقدام نظامی احتمالی آمریکا علیه ایران است، حتی اگر تصمیم آمریکا به‌واسطه تعویق ترامپ هنوز نهایی نشده باشد.",
+            "این یعنی برنامه‌ریزی عملیاتی در اسرائیل از وضعیت تصمیم‌گیری واشینگتن عقب نمانده و «پنجره زمانی» مورد انتظار برای اقدام را در نظر گرفته است.",
+            "نبودِ قطعیت در زمان‌بندی آمریکا، مانع آماده‌باش اسرائیل تلقی نشده و می‌تواند ریسک محاسبات غلط و تشدید سریع را بالا ببرد."
+        ],
+        "impact": "آماده‌سازی اسرائیل برای پیوستن به یک حمله احتمالی آمریکا، احتمال ورود به یک چرخه تشدید نظامی را افزایش می‌دهد و می‌تواند فشار فوری و بی‌واسطه‌ای بر تصمیم‌گیری تهران ایجاد کند.",
+        "tag": "escalation",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa202c3hySDAwVGpWa3pwQ2FTY0Uta3ByM0NKQ3FHb1dMSkkxdWM3RzltSjBFbERVSFZjbmVOYm9tanNEUEI2NXFyWjFVRmFSaTJIRnJtLVFzcG5sd0k0ZFludmZHaW1zWFBzaVB1Q2VVS0NLLXJvbmNhRHdXOGg3VHFHNUJtVVVUNWhwX01DamkwUmExRkk2d1BWcms5Ql90eFk5QW5UNDQ3c2I3d2g3SDlIQmhsWGRpNHoya2NoR1Fpdkd3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa202c3hySDAwVGpWa3pwQ2FTY0Uta3ByM0NKQ3FHb1dMSkkxdWM3RzltSjBFbERVSFZjbmVOYm9tanNEUEI2NXFyWjFVRmFSaTJIRnJtLVFzcG5sd0k0ZFludmZHaW1zWFBzaVB1Q2VVS0NLLXJvbmNhRHdXOGg3VHFHNUJtVVVUNWhwX01DamkwUmExRkk2d1BWcms5Ql90eFk5QW5UNDQ3c2I3d2g3SDlIQmhsWGRpNHoya2NoR1Fpdkd3",
+        "image": null,
+        "timestamp": 1779213905.0
     },
     {
         "title_fa": "آمادگی آمریکا-اسرائیل برای فشار به ایران جهت کنار گذاشتن برنامه هسته‌ای",
@@ -196,6 +250,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNUllOMmRSWjQyWkJDaGg3WE1ZemdQaVJ0d3p3eGVaX2E1V0o5Zm9KdE9NQ0hVcTBIWlBGejFBT25LN3k5bFNlM01sTDZfdllnRm5NdGFnY3Z6Z2NMZVZURjRoc3Z4c09Da09WaHVGQTdPQ2JJQ0xjTmVPbFBScHB4Y09KcHRWNXpETUVOVVY4OFJyUzNsZUlPVldDS01RYnJlZHNHRXR0RlVXanVSb1RYeDBYSmpmd3p4ZXFseURmY2FLMjFPaUd2YWxFUGRwM3FPYjljcWtSOVR0VUpHcHc5RnFVZlJoZngxa1hLSWcybVpQVDNMdldiYXpGay1ua3lKSDV5RmtSUHhPVXpfT0ZuRzg4YXNBbk5jVXc",
         "image": null,
         "timestamp": 1779202560.0
+    },
+    {
+        "title_fa": "ایران «مراسم عروسی برای خودفداکاری در جنگ» برگزار می‌کند؛ یک عملیات تبلیغاتی برای پوشاندن فرسایش جنگی",
+        "title_en": "Iran holds weddings for citizens willing to ‘self-sacrifice’ in war",
+        "summary": [
+            "خبرگزاری NewsNation گزارش می‌دهد ایران مراسم عروسی برای شهروندانی برگزار می‌کند که حاضرند در چارچوب جنگ «خودفداکاری» کنند؛ یعنی دولت از ابزارهای اجتماعی برای بسیج و کنترل روانی در شرایط بحران استفاده می‌کند.",
+            "این اقدام هم‌زمان با «گرفتاری ایران در تنگه هرمز» مطرح شده و نشان می‌دهد فشار خارجی و ریسک عملیاتی برای حکومت به مرحله‌ای رسیده که باید روایت‌سازی داخلی را تشدید کند.",
+            "تصاویر منتشرشده شامل پرتره رهبران فعلی و پیشین ایران است؛ این یعنی پیام اصلی نه شادی مدنی، بلکه تبلیغ وفاداری و همراهی با سیاست جنگی است—نشانه‌ای از نیاز رژیم به مدیریت افکار عمومی و کاهش هزینه‌های اجتماعی ادامه بحران."
+        ],
+        "impact": "این نوع برنامه‌ها بیشتر از تقویت واقعی توان نظامی، بیانگر فرسایش مشروعیت و نیاز حکومت به بسیج اجباری‌ـ‌تبلیغاتی در میانه فشارهای خارجی و بن‌بست عملی در تنگه هرمز است.",
+        "tag": "تبلیغاتجنگ",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/world/iran-weddings-self-sacrifice/",
+        "clean_url": "https://www.newsnationnow.com/world/iran-weddings-self-sacrifice",
+        "image": "http://www.bing.com/th?id=ONUT.Ut0uEqKl8QSZfX3tF3MX_A&pid=News",
+        "timestamp": 1779197340.0
+    },
+    {
+        "title_fa": "گزارش: ونس می‌گوید «پیشرفت زیادی» در پرونده ایران حاصل شده است",
+        "title_en": "Vance Gives Update on Iran: ‘We’ve Made A Lot Of Progress’",
+        "summary": [
+            "بر اساس Independent Journal Review، ونس در یک به‌روزرسانی ادعا کرده که «پیشرفت زیادی» درباره ایران انجام شده است، اما متن ارائه‌شده جزئیات قابل‌سنجش (مثل توافق مشخص، زمان‌بندی یا اثر اقتصادی/سیاسی) ندارد.",
+            "هیچ اشاره‌ای در این گزارش به نوع فشار خارجی (تحریم‌های جدید، سازوکارهای نظارتی یا توافق اجرایی) یا شدت تغییرات میدانی نشده است؛ بنابراین ارزیابی اثر ساختاری بر ثبات رژیم باید حداقلی بماند.",
+            "با توجه به نبود داده‌های داخلی در متن (اعتراضات، شاخص‌های اقتصادی، یا اقدامات سرکوب مشخص)، این گزارش بیشتر در سطح اظهارنظر سیاسی/دیپلماتیک باقی می‌ماند و نمی‌توان آن را به روندهای ملموس داخلی رژیم گره زد."
+        ],
+        "impact": "اثر این خبر تا زمانی که جزئیات اجرایی منتشر نشود، بیشتر تبلیغاتی/سیاسی است و نمی‌تواند به‌تنهایی نشانه فرسایش قطعی یا تغییر جدی در توازن قدرت تلقی شود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Independent Journal Review",
+        "url": "https://ijr.com/vance-gives-update-on-iran-weve-made-a-lot-of-progress/",
+        "clean_url": "https://ijr.com/vance-gives-update-on-iran-weve-made-a-lot-of-progress",
+        "image": "http://www.bing.com/th?id=ONUT.WfMkPGWwf4q95QpM6tcHjA&pid=News",
+        "timestamp": 1779195120.0
+    },
+    {
+        "title_fa": "ترامپ: آمریکا می‌تواند دوباره علیه ایران اقدام کند؛ تهران «میل به توافق» را مطرح می‌کند",
+        "title_en": "Trump says US may strike Iran again but that Tehran wants deal",
+        "summary": [
+            "ترامپ اعلام کرده که آمریکا در صورت ادامه تنش‌ها «ممکن است دوباره» به ایران ضربه بزند؛ همزمان طرف ایرانی «پیشنهاد صلح» داده که در آن توقف درگیری‌ها در همه جبهه‌ها محور است.",
+            "طبق متن گزارش، پیشنهاد تهران شامل پایان درگیری‌ها از مسیرهای مرتبط با لبنان و نیز عقب‌نشینی نیروهای آمریکا از نواحی نزدیک به ایران است؛ یعنی کاهش حضور/فشار نظامی واشنگتن به‌عنوان پیش‌شرط کاهش تنش.",
+            "تهران در چارچوب مذاکره، برای «تخریب‌های انجام‌شده» نیز سخن از پرداخت غرامت/تأمین خسارت می‌گوید؛ این مدل معامله‌گرانه تلاش می‌کند هزینه‌های بحران را از طریق سازوکار مالی به گفت‌وگو گره بزند."
+        ],
+        "impact": "این تقابل میان تهدید عملی آمریکا به اقدام مجدد و شرط‌گذاری تهران برای خروج نیروهای نزدیک به ایران، ریسک ادامه چرخه فشار-چانه‌زنی و نیز طولانی شدن بن‌بست را بالا می‌برد.",
+        "tag": "چانه‌زنی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/iran-says-peace-proposal-includes-reparations-war-damage-us-troop-withdrawal-2026-05-19/",
+        "clean_url": "https://www.reuters.com/world/asia-pacific/iran-says-peace-proposal-includes-reparations-war-damage-us-troop-withdrawal-2026-05-19",
+        "image": "http://www.bing.com/th?id=ONUT.hxArVavPN8-jXS4Qs8E8ig&pid=News",
+        "timestamp": 1779193140.0
     },
     {
         "title_fa": "ترامپ اعلام کرد حمله ایران «موقتا متوقف/در حال تعلیق» است؛ جزئیات آنچه درباره مذاکرات اخیر گفته می‌شود",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.jpost.com/israel-news/defense-news/article-896066",
         "image": null,
         "timestamp": 1778679770.0
-    },
-    {
-        "title_fa": "جنگ ایران اهرم فروش انرژی پاک چین را قبل از دیدار ترامپ-شی تقویت می‌کند",
-        "title_en": "Iran war is fueling China’s clean energy surge ahead of Trump-Xi talks",
-        "summary": [
-            "پولیتیکو می‌گوید «جنگ ایران» باعث می‌شود کشورها به سمت خودروهای برقی چینی، انرژی خورشیدی و زنجیره باتری حرکت کنند؛ یعنی چین از این جابه‌جایی تقاضا سود می‌برد و نفوذ تجاری‌اش افزایش پیدا می‌کند.",
-            "این گزارش تاکید می‌کند که این روند، دست چین را در مذاکرات تجاری پیش رو تقویت می‌کند؛ در چارچوب تلاش ترامپ برای گرفتن امتیازهای اقتصادی در پکن.",
-            "نکته محوری این متن نه کمک فنی به حل مسئله ایران، بلکه اثر جانبی جنگ بر جهت‌دهی بازار جهانی انرژی پاک به نفع چین است."
-        ],
-        "impact": "اگر جنگ و نااطمینانی منطقه‌ای ادامه‌دار شود، احتمالاً مسیر خرید انرژی پاک و فناوری ذخیره‌سازی به سمت تامین‌کنندگان چینی بیشتر می‌شود و اهرم چانه‌زنی چین در مذاکرات تجاری را بالا می‌برد.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/05/13/iran-war-is-fueling-chinas-clean-energy-surge-ahead-of-trump-xi-talks-00918799",
-        "clean_url": "https://www.politico.com/news/2026/05/13/iran-war-is-fueling-chinas-clean-energy-surge-ahead-of-trump-xi-talks-00918799",
-        "image": "http://www.bing.com/th?id=ONUT.ht8YXYbTWtUNpnZtLvu3YQ&pid=News",
-        "timestamp": 1778679720.0
-    },
-    {
-        "title_fa": "تورم به بالاترین سطح از ۲۰۲۳ رسید؛ فشار جدید از جیب بنزین",
-        "title_en": "Inflation reaches highest level since 2023 as gas prices keep rising",
-        "summary": [
-            "طبق گزارش USA Today، تورم دوباره به بالاترین سطح از زمان ۲۰۲۳ رسیده و عامل اصلیِ تداوم فشار، رشد مداوم قیمت بنزین است.",
-            "بالا رفتن نرخ‌های تورم همراه با استمرار گرانی سوخت، یعنی هزینه حمل‌ونقل و قیمت اقلام وابسته به انرژی برای مصرف‌کنندگان همچنان رو به افزایش است.",
-            "این وضعیت مستقیماً بر قدرت خرید اثر می‌گذارد و می‌تواند نارضایتی عمومی را در کوتاه‌مدت تشدید کند، چون شوک قیمت سوخت معمولاً به زنجیره کالاها سرایت می‌کند."
-        ],
-        "impact": "افزایش مداوم قیمت بنزین با بالا بردن تورم، فشار مستقیم بر اقتصاد خانوار و احتمال افزایش نارضایتی اجتماعی را تقویت می‌کند.",
-        "tag": "اقتصاد",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "USA Today",
-        "url": "https://www.msn.com/en-us/money/markets/inflation-reaches-highest-level-since-2023-as-gas-prices-keep-rising/ar-AA230kaP",
-        "clean_url": "https://www.msn.com/en-us/money/markets/inflation-reaches-highest-level-since-2023-as-gas-prices-keep-rising/ar-AA230kaP",
-        "image": null,
-        "timestamp": 1778679240.0
-    },
-    {
-        "title_fa": "اختلاف نمایندگان آمریکا بر سر تعلیق مالیات فدرال بنزین در حالی که تنش با ایران قیمت‌ها را بالا می‌برد",
-        "title_en": "Lawmakers clash over Trump gas tax holiday as Iran war drives prices higher",
-        "summary": [
-            "بر اساس گزارش فاکس‌نیوز در MSN، نمایندگان در کنگره بر سر طرح ترامپ برای تعلیق مالیات فدرال بنزین دچار اختلاف شده‌اند؛ این اختلاف مستقیماً به هزینه‌های بالای سوخت گره خورده است.",
-            "هم‌زمان با افزایش قیمت بنزین، قیمت هر گالن به 4.51 دلار رسیده و متن گزارش آن را به تشدید تنش‌های آمریکا با ایران مرتبط می‌کند.",
-            "این درگیری سیاسی داخلی نشان می‌دهد فشار اقتصادی ناشی از بحران‌های خارجی به سطح سیاست‌گذاری انرژی و رقابت‌های پارلمانی در واشنگتن رسیده است."
-        ],
-        "impact": "افزایش قیمت بنزین و بحث کنگره درباره تعلیق مالیات می‌تواند فشار مالی و سیاسی بر دولت آمریکا ایجاد کند، اما متن خبر پیوند مستقیمی به اقدامات مشخص علیه ایران ارائه نمی‌دهد.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/lawmakers-clash-over-trump-gas-tax-holiday-as-iran-war-drives-prices-higher/ar-AA237St2",
-        "clean_url": "https://www.msn.com/en-us/news/politics/lawmakers-clash-over-trump-gas-tax-holiday-as-iran-war-drives-prices-higher/ar-AA237St2",
-        "image": "http://www.bing.com/th?id=ONUT.NIS7C2SO32n4TAZ-blOs4g&pid=News",
-        "timestamp": 1778678546.0
-    },
-    {
-        "title_fa": "اعتراف ناتو به بقای توان موشکی ایران؛ ناکامی ادعاهای کاخ سفید و جنگی که هیچ هدفی را محقق نکرد",
-        "title_en": "Trump’s remarkable military failure shows abject fiasco of his Iran war",
-        "summary": [
-            "طبق گفته یک منبع ارشد ناتو به The Independent، دو ماه پس از بمباران مشترک آمریکا-اسرائیل، «قدرت موشکی ایران دست‌کم ۶۰٪» باقی مانده و این موضوع با ادامه حمله موشکی و پهپادی ایران به کشورهای حوزه خلیج فارس هم‌خوانی دارد؛ ادعاهای کاخ سفید درباره «ویران‌شدن» توان ایران با این ارزیابی در تضاد است.",
-            "این ارزیابی ضربه سیاسی به روایت پیروزی واشینگتن است: کاخ سفید گفته بود توان موشکی/نظامی ایران نابود می‌شود، اما اکنون گزارش می‌شود هیچ‌یک از اهداف اعلامی محقق نشده—نه فروپاشی رژیم و نه تغییر رفتار منطقه‌ای، و نه توقف برنامه هسته‌ای.",
-            "منبع گزارش می‌گوید پیامدهای عملی به نفع ایران بوده است: «مذاکره‌کنندگان پیش از حملات» کشته شده‌اند و «نهاد سپاه پاسداران دست‌نخورده مانده»؛ همچنین بسته شدن تنگه هرمز به جهش قیمت جهانی نفت بالای ۱۰۰ دلار در هر بشکه و اختلال در عرضه جهانی کود در فصل کاشت شمال منجر شده و اثرات اقتصادی جنگ را تشدید کرده است."
-        ],
-        "impact": "باقی‌ماندن بخش بزرگ توان موشکی ایران و ناکامی اهداف اعلامی آمریکا، اعتبار راهبرد جنگی واشینگتن را فرسوده و هزینه‌های اقتصادی آن را برای بازار جهانی انرژی و کشاورزی افزایش می‌دهد.",
-        "tag": "تحلیل",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/trump-remarkable-military-failure-shows-105739000.html",
-        "clean_url": "https://www.aol.com/articles/trump-remarkable-military-failure-shows-105739000.html",
-        "image": "http://www.bing.com/th?id=ONUT.fKVj-4CPIHHQJRxGg9cbSQ&pid=News",
-        "timestamp": 1778676240.0
-    },
-    {
-        "title_fa": "ترامپ دنبال کمک چین برای ایران است، اما پکن شاید منافع دیگری را در اولویت بگذارد",
-        "title_en": "Trump wants China's help on Iran. Beijing may have other ideas",
-        "summary": [
-            "تحلیلگران می‌گویند شی جین‌پینگ ممکن است به کانال‌دادن تهران برای بازگشت به میز مذاکره تن بدهد، اما احتمالاً حاضر به کاهش یا قطع حمایت اقتصادی چین از «مهم‌ترین شریک اقتصادی» خود نخواهد بود.",
-            "این برداشت نشان می‌دهد که چین در رویکرد خود به ایران صرفاً تابع فشار واشنگتن نخواهد بود و تصمیم‌ها را بر اساس محاسبات منافع اقتصادی و پایداری روابط تجاری تنظیم می‌کند.",
-            "نتیجه عملی برای مسیر مذاکره این است که هم‌زمانیِ خواست آمریکا برای مهار ایران با محدودیت‌های چین در معامله بر سر حمایت اقتصادی، می‌تواند سرعت و میزان تغییر رفتار تهران را محدود کند."
-        ],
-        "impact": "این شکاف بین هدف سیاسی آمریکا و اولویت‌های اقتصادی چین، احتمالاً اهرم فشار مؤثر بر رژیم ایران را کاهش می‌دهد و مسیر مذاکره را کندتر و کم‌اثرتر می‌کند.",
-        "tag": "چین",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
-        "clean_url": "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13",
-        "image": "http://www.bing.com/th?id=ONUT.3yhdxZeHSbNPQ31S_ahHog&pid=News",
-        "timestamp": 1778673720.0
-    },
-    {
-        "title_fa": "ایران: بار دیگر بن‌بست بررسی قطعنامه اختیارات جنگ در سنای آمریکا و تشدید شکنندگی آتش‌بس",
-        "title_en": "Iran live updates: Senate again fails to advance war powers resolution",
-        "summary": [
-            "طبق گزارش ABC7 KABC، ایران و آمریکا دوباره بر سر نحوه پایان جنگ به بن‌بست خوردند؛ این وضعیت هم‌زمان با «شکافی شدن روزافزون آتش‌بس» رخ داده است.",
-            "گزارش می‌گوید در روزهای اخیر میان دو طرف تبادل آتش صورت گرفته که نشان می‌دهد کانال‌های سیاسی برای توقف درگیری یا تضمین آتش‌بس کارایی لازم را ندارند.",
-            "در همان چارچوب، سنای آمریکا نیز «بار دیگر» نتوانسته قطعنامه اختیارات جنگ را جلو ببرد؛ این یعنی ابزار تصمیم‌گیری/مهار یا تنظیم رویکرد واشنگتن، در کنگره به نتیجه نرسیده و عدم‌قطعیت راهبردی ادامه پیدا می‌کند."
-        ],
-        "impact": "بن‌بست سیاسی واشنگتن-تهران همراه با تبادل آتش، احتمال تداوم یا تشدید درگیری را بالا می‌برد و برای هر دو طرف هزینه‌ سیاسی کنترل‌گری را بیشتر می‌کند.",
-        "tag": "آتش_بس",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "ABC7 KABC",
-        "url": "https://abc7.com/live-updates/iran-war-trump-ceasefire-gas-prices-tax-project-freedom/19081855/",
-        "clean_url": "https://abc7.com/live-updates/iran-war-trump-ceasefire-gas-prices-tax-project-freedom/19081855",
-        "image": "http://www.bing.com/th?id=ONUT.ygmAH5WQ_mlrRYZEsM8q1A&pid=News",
-        "timestamp": 1778673300.0
     }
 ]
