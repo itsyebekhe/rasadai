@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "گزارش نیویورک‌تایمز: تلاش آمریکا و اسرائیل برای بالا آوردن احمدی‌نژاد، نشانه‌ای از تداوم هدف «ضعیف‌سازی ایران» نه آزادی مردم",
+        "title_en": "Ahmadinejad Is Still Bad for Iranians — and Still Great for Israel",
+        "summary": [
+            "متن ادعا می‌کند نیویورک‌تایمز گفته آمریکا و اسرائیل امید داشتند محمود احمدی‌نژاد در نقش رهبر ایران برجسته شود؛ نویسنده این را خلاف روایت «جنگ برای آزادی» می‌داند و آن را با کارنامه سرکوب جنبش سبز در ۲۰۰۹ پیوند می‌زند.",
+            "در چارچوب همین استدلال، متن به نقش احمدی‌نژاد در «خشونت علیه اعتراضات پس از انتخابات مناقشه‌برانگیز» اشاره می‌کند و می‌گوید او معترضان را با توصیف‌های تحقیرآمیز تقلیل داده است؛ نتیجه‌گیری این است که وی «رهبر دموکراسی» نبوده.",
+            "بخش دوم به جنگ نسبت داده‌شده به اسرائیل علیه رهبری ایران می‌پردازد و می‌گوید طبق ادعای نیویورک‌تایمز، اسرائیل در ساعت‌های اول جنگ «رهبر عالی» را هدف گرفت و حتی درباره هدف‌گیری ساختمانی در خیابان احمدی‌نژاد برای «رهایی» او از محدودیت‌های حرکتی/بازداشت خانگی صحبت می‌شود؛ همچنین از کشته‌شدن نگهبانان و زخمی‌شدن خود احمدی‌نژاد (در برخی گزارش‌ها) یاد می‌کند و سناریوی «جانشینی» را نامحتمل می‌داند."
+        ],
+        "impact": "این روایت اگر درست باشد، نشان می‌دهد محور عملیات خارجی، دستکاری ساختار قدرت و تضعیف ایران از مسیر «تغییر چهره/جانشین‌سازی» است نه راهبرد سیاسی برای بهبود وضعیت مردم.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "The Intercept",
+        "url": "https://theintercept.com/2026/05/20/ahmadinejad-iran-israel-leader/",
+        "clean_url": "https://theintercept.com/2026/05/20/ahmadinejad-iran-israel-leader",
+        "image": null,
+        "timestamp": 1779310434.0
+    },
+    {
+        "title_fa": "پروژه‌ رژیم‌چنج آمریکا/اسرائیل با احمدی‌نژاد: از «کاهش فشار اقتصادی» تا فاجعه‌ در میدان",
+        "title_en": "Trump may see himself in Ahmadinejad but having him lead Iran was a perplexing idea",
+        "summary": [
+            "گاردین با یادآوری سفر ۲۰ سال قبل به تهرانِ هم‌محله احمدی‌نژاد، بحران هزینه زندگی و «ناتوانی مردم در خرید» را به‌عنوان نشانه‌ای از شکست وعده‌های اقتصادی پوپولیستی او برجسته می‌کند؛ پژواکی که امروز به شرایط ترامپ هم نسبت داده می‌شود.",
+            "این متن گزارش «نیویورک‌تایمز» را تکرار می‌کند که براساس منابع رسمی، آمریکا و اسرائیل احمدی‌نژاد را پس از فروپاشی فرضی رژیم، گزینه مدنظر برای رهبری ایران دانسته بودند و حتی گفته می‌شود هدف حملات اسرائیلی به یک پاسگاه امنیتی در ۲۸ فوریه این بوده که او از حصر خانگی آزاد و نصب شود.",
+            "برنامه بلافاصله از کار افتاد: حملات در روز اول جنگ به نگهبانان ضربه زد، احمدی‌نژاد زخمی شد (و ابتدا خبر مرگش در رسانه‌های ایران منتشر شد) و سپس ناپدید شد؛ متن همچنین به «رمزها» درباره اینکه چگونه چهره‌ای مناقشه‌برانگیز به پوستر رژیم‌چنج بدل شد اشاره می‌کند."
+        ],
+        "impact": "این طرحِ جانشین‌سازی از پیش‌برنامه‌ریزی‌شده با شکست میدانی روبه‌رو شد و نشان داد حتی بازیگران خارجی هم در پیش‌بینی پیامدهای اقدام نظامی و مدیریت رقبا ناکام می‌مانند.",
+        "tag": "ایران",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/may/20/mahmoud-ahmadinejad-the-us-and-israels-unlikely-choice-to-lead-iran",
+        "clean_url": "https://www.theguardian.com/world/2026/may/20/mahmoud-ahmadinejad-the-us-and-israels-unlikely-choice-to-lead-iran",
+        "image": null,
+        "timestamp": 1779303720.0
+    },
+    {
         "title_fa": "تایمز اسرائیل: ترامپ می‌گوید نتانیاهو «هر کاری را که من بخواهم» درباره ایران انجام می‌دهد؛ هم‌زمان سپاه به آمریکا برای تکرار جنگ هشدار می‌دهد",
         "title_en": "Trump: Netanyahu will ‘do whatever I want’ on Iran; IRGC warns US against war renewal",
         "summary": [
@@ -142,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRHFoUmRsblotRFN0WXpxSDRkZFp6TXJOai1QRzhOeVI4NG85NHhVZVk3UWUyVGJhLU1fUHNLYm4wQW1wcUdlUmJwR3c2bWoybGJMYmxZQVFTZlVHcVpHdXVMTUJ4UUEySmpLMHVmc0l6UXRFRFpWRFFpZkowU3VYVXZlSE9Fd3RKVDZMY9IBkgFBVV95cUxPTzR6dFpOWUUwTmVqNHlFUk5TNURBRm9mWmhPd3doWUZucGRkbHZwME0wZ09hTjJYT3huYl9fS2ExMXVEc1FXclN3aEJTYlhIT2xOcUtjdVF3MTVGZC0xZXZUc09XN3hyWVdkSU1tQ3p2T2lyN0pPMzlyajBjaWpiME1mal9hSFlmY3djVDFVemdWUQ",
         "image": null,
         "timestamp": 1779288720.0
+    },
+    {
+        "title_fa": "ترامپ: مذاکرات با ایران در «مراحل نهایی» است و در صورت نرسیدن به توافق، فشار نظامی افزایش می‌یابد",
+        "title_en": "Trump says US in ‘final stages’ of talks with Iran: ‘We’ll see what happens’",
+        "summary": [
+            "ترامپ در پایگاه Joint Base Andrews اعلام کرد مذاکرات آمریکا با ایران به «مراحل نهایی» رسیده و در صورت عدم توافق، آمریکا ممکن است «اقداماتی تندتر/ناخوشایندتر» انجام دهد؛ هم‌زمان تأکید کرد گزینه توافق هم در دسترس است و زمان‌بندی می‌تواند از چند روز تا حتی بسیار سریع تغییر کند.",
+            "گزارش می‌گوید مذاکرات فعلی بر سر دو محور کلیدی گیر کرده: برنامه هسته‌ای و «بازگشایی تنگه هرمز»، و همچنین اختلاف بر سر این‌که تا وقتی ایران از حق غنی‌سازی اورانیوم عقب‌نشینی نکند، دور جدید مذاکرات از سوی آمریکا به پیش نمی‌رود؛ از طرف دیگر، گفته شده منابع پاکستانی در تهیه «نامه تفاهم» برای دور جدید گفت‌وگو کمک می‌کنند و محل پیشنهادی هم اسلام‌آباد است.",
+            "واکنش بازار هم بلافاصله گزارش شده: پس از اظهارات ترامپ، قیمت نفت بیش از ۵٪ سقوط کرد و نفت آمریکا زیر ۱۰۰ دلار (حدود ۹۸.۹۴) ماند؛ نشانه‌ای از نگرانی یا نوسان ناشی از احتمال سناریوی تداوم بن‌بست و تشدید فشارها."
+        ],
+        "impact": "این اظهارات، هم فشار دیپلماتیک را فشرده‌تر می‌کند و هم تیغ گزینه نظامی را روی میز نگه می‌دارد؛ در نتیجه ریسک تنش دریایی و اختلال در انرژی (به‌ویژه تنگه هرمز) افزایش می‌یابد.",
+        "tag": "تحریم-فشار",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/20/us-news/trump-us-in-final-stages-of-talks-with-iran-well-see-what-happens/",
+        "clean_url": "https://nypost.com/2026/05/20/us-news/trump-us-in-final-stages-of-talks-with-iran-well-see-what-happens",
+        "image": "http://www.bing.com/th?id=ONUT.lS20-CFayqSUXtuszfnNtg&pid=News",
+        "timestamp": 1779285540.0
     },
     {
         "title_fa": "تماس پرتنش ترامپ و نتانیاهو درباره ایران و اختلاف بر سر توافق پایان جنگ",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.nytimes.com/live/2026/05/14/us/trump-news",
         "image": "http://www.bing.com/th?id=ONUT.kgdwx_B4YNcybSxdz9LIrA&pid=News",
         "timestamp": 1778760300.0
-    },
-    {
-        "title_fa": "توافق چین و آمریکا درباره غیرنظامی‌سازی هرمز؛ حرکت تاکتیکی برای مهار تنش",
-        "title_en": "China and U.S. agree Hormuz should not be ‘militarized,’ Marco Rubio says",
-        "summary": [
-            "طبق گزارش NBC News، مارکو روبیو می‌گوید چین و آمریکا بر سر این نکته توافق دارند که تنگه هرمز نباید «نظامی‌سازی» شود.",
-            "این نوع همگرایی واشینگتن و پکن نشان می‌دهد فشار دیپلماسی برای کاهش احتمال درگیری مستقیم در مسیر کشتیرانی حساس دنبال می‌شود، نه حل ریشه‌ای اختلافات.",
-            "چنین پیام‌هایی معمولاً به‌عنوان محدودکننده فضای تصمیم‌گیری در تهران عمل می‌کند و می‌تواند ریسک محاسبات نظامی را بالا ببرد، اما در متن خبر هیچ جزئیاتی درباره تضمین‌های عملی یا مسیر اجرایی دیده نمی‌شود."
-        ],
-        "impact": "این توافق می‌تواند احتمال تشدید تنش در هرمز را کاهش دهد، اما چون به اقدام اجرایی الزام‌آور اشاره نشده، اثر آن بیشتر تاکتیکی و کوتاه‌مدت است.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "NBC News",
-        "url": "https://www.msn.com/en-us/news/world/china-agreed-with-us-on-strait-of-hormuz-when-trump-discussed-iran-war-with-xi-rubio-says/ar-AA23ba5J",
-        "clean_url": "https://www.msn.com/en-us/news/world/china-agreed-with-us-on-strait-of-hormuz-when-trump-discussed-iran-war-with-xi-rubio-says/ar-AA23ba5J",
-        "image": null,
-        "timestamp": 1778759258.0
-    },
-    {
-        "title_fa": "توقیف یک کشتی در نزدیکی سواحل امارات و حمل آن به سمت آب‌های ایران؛ همزمان یک کشتی دیگر در منطقه هدف حمله قرار گرفت و غرق شد",
-        "title_en": "Ship is reported seized off the coast of the UAE and is heading toward Iran",
-        "summary": [
-            "نیروهای نظامی بریتانیا گزارش دادند یک کشتی که در نزدیکی شرق امارات لنگر انداخته بود توقیف و توسط افراد «غیرمجاز» از محل خارج شده و به سمت آب‌های ایران در حرکت است؛ فاصله محل توقیف حدود ۳۸ مایل دریایی (نزدیک تنگه هرمز) ذکر شده است.",
-            "هم‌زمان، مقامات هند اعلام کردند یک کشتی باری با پرچم هند پس از حمله‌ای که منجر به آتش‌سوزی شد، در سواحل عمان غرق گردید؛ حمله‌ کننده یا عامل مسئول معرفی نشد و مسیر حرکت کشتی از سومالی به سمت شارجه در امارات ذکر شد.",
-            "این رخدادها در چارچوب تشدید تنش در کریدور دریایی تنگه هرمز رخ داده‌اند؛ مقامات ایرانی در گزارش‌ها دوباره بر ادعای حقوق کشورشان درباره آبراه تاکید کرده‌اند و هم‌چنین درباره «حقِ» توقیف نفتکش‌های مرتبط با آمریکا سخن گفته شده است."
-        ],
-        "impact": "تداوم توقیف و حملات دریایی در تنگه هرمز ریسک اختلال در کشتیرانی و جهش قیمت سوخت را بالا می‌برد و عملاً هزینه‌های اقتصادی این مسیر حساس را تشدید می‌کند.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "AP News",
-        "url": "https://www.orlandosentinel.com/2026/05/14/tensions-flare-up-over-strait-of-hormuz-as-ship-is-reported-seized-and-heading-toward-iran/",
-        "clean_url": "https://www.orlandosentinel.com/2026/05/14/tensions-flare-up-over-strait-of-hormuz-as-ship-is-reported-seized-and-heading-toward-iran",
-        "image": null,
-        "timestamp": 1778758920.0
-    },
-    {
-        "title_fa": "سی‌سناتروم/ستاد مرکزی: ادعای کاهش محسوس توان مین‌گذاری ایران در تنگه‌ها، هم‌زمان تهدیدها باقی است",
-        "title_en": "CENTCOM chief says Iran's hold on strait has weakened, but threats remain",
-        "summary": [
-            "آدمیرال برد کوپر، فرمانده فرماندهی مرکزی آمریکا (CENTCOM)، به کمیته نیروهای مسلح سنای آمریکا گفت نفوذ/توان ایران در مسیر تنگه‌ها ضعیف شده است.",
-            "او همچنین مدعی شد نیروهای آمریکایی بیش از ۹۰٪ از موجودی ۸۰۰۰ مین دریایی ایران را منهدم کرده‌اند که به‌طور مستقیم توان ایجاد اختلال در کشتیرانی را کاهش می‌دهد.",
-            "با وجود این اظهارات، کوپر تصریح کرد تهدیدها از بین نرفته‌اند؛ یعنی حتی پس از ضربه به موجودی مین‌ها، خطر اقدامات دیگر یا باقی‌مانده‌های عملیاتی همچنان وجود دارد."
-        ],
-        "impact": "این گزارش نشان می‌دهد توان ایران در سطح مشخصی از جنگ دریایی (مین‌گذاری) دچار فرسایش شدید شده، اما ماهیت تهدید همچنان نامحدود و چندوجهی تلقی می‌شود.",
-        "tag": "دریایی",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "CBS News on MSN",
-        "url": "https://www.msn.com/en-us/news/us/centcom-chief-says-iran-s-hold-on-strait-has-weakened-but-threats-remain/ar-AA23cm28",
-        "clean_url": "https://www.msn.com/en-us/news/us/centcom-chief-says-iran-s-hold-on-strait-has-weakened-but-threats-remain/ar-AA23cm28",
-        "image": "http://www.bing.com/th?id=ONUT.WtJmquW2YcGhq4PjG0oGMQ&pid=News",
-        "timestamp": 1778757285.0
     }
 ]
