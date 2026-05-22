@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "گزارش: پیشنهاد آتش‌بس آمریکا و ایران بدون موضوع هسته‌ای؛ همزمان ضربه سنگین به بنادر قشم و بندرعباس",
+        "title_en": "Report: Draft U.S. and Iran Cease-fire Deal Excludes Nuclear Issue",
+        "summary": [
+            "طبق گزارش‌ها، آمریکا و ایران در چارچوب یک پیشنهاد آتش‌بس در حال مذاکره‌اند اما «مسئله هسته‌ای» از این توافق کنار گذاشته شده است؛ یعنی محدودسازی محور اصلی اختلاف در دستور کار نیست.",
+            "در همان زمان، آمریکا موجی از «اقدامات دفاعی» علیه ایران انجام داد؛ پس از رهگیری چندین موشک، پهپاد و قایق کوچک که به گفته مقامات آمریکایی به سه ناوشکن نیروی دریایی آمریکا در تنگه هرمز حمله می‌کردند، ضربات به پایگاه‌ها و زیرساخت‌های نظامی مرتبط با حمله‌ها و همچنین به بنادر قشم و بندرعباس وارد شد.",
+            "ترامپ اعلام کرد ناوشکن‌ها آسیب ندیده‌اند و حمله‌ متقابل را گسترده توصیف کرد و تهدید کرد در صورت عدم امضای «توافق صلح»، حملات بیشتری ممکن است؛ این یعنی فشار نظامی برای وادار کردن تهران به امتیاز سیاسی ادامه‌دار است."
+        ],
+        "impact": "کنار گذاشته شدن موضوع هسته‌ای، آتش‌بس را از کنترل ریشه‌ای تنش دور می‌کند و ضربات روی قشم/بندرعباس نشان می‌دهد واشنگتن همزمان از اهرم نظامی برای تحمیل چارچوب سیاسی کوتاه‌مدت استفاده می‌کند.",
+        "tag": "ایران-آمریکا",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Haaretz",
+        "url": "https://nypost.com/2026/05/07/us-news/us-launches-self-defense-strikes-in-iran-after-navy-destroyers-targeted-american-official-insists-cease-fire-still-stands-report/",
+        "clean_url": "https://nypost.com/2026/05/07/us-news/us-launches-self-defense-strikes-in-iran-after-navy-destroyers-targeted-american-official-insists-cease-fire-still-stands-report",
+        "image": null,
+        "timestamp": 1779471060.0
+    },
+    {
+        "title_fa": "واسطه‌های منطقه‌ای برای نجات آتش‌بس آمریکا-ایران وارد شتاب شدند",
+        "title_en": "Regional Mediators Rush to Save U.S.-Iran Cease-Fire",
+        "summary": [
+            "طبق گزارش، به‌دنبال حساس شدن وضعیت آتش‌بس میان آمریکا و ایران، چند میانجی منطقه‌ای به‌سرعت وارد روند رایزنی شده‌اند تا از فروریختن توافق جلوگیری شود.",
+            "این وضعیت نشان می‌دهد که ثبات آتش‌بس شکننده است و فشارهای سیاسی/عملیاتی می‌تواند خیلی سریع به تشدید تنش منجر شود؛ بنابراین طرف‌ها برای کنترل ریسک لحظه‌ای دست به میانجی‌گری فوری می‌زنند.",
+            "از آنجا که متن فقط بر تلاش برای «نجات» آتش‌بس متمرکز است و جزئیات درباره تغییرات اقتصادی داخلی یا اقدامات اجرایی مشخص ارائه نمی‌کند، تمرکز راهبردی باید روی مدیریت ریسک و جلوگیری از لغزش به درگیری مستقیم باشد."
+        ],
+        "impact": "میانجی‌گری شتاب‌زده یعنی آتش‌بس در آستانه شکنندگی است و احتمال افزایش تنش در صورت شکست رایزنی‌ها بالا می‌ماند.",
+        "tag": "آتش‌بس",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
+        "clean_url": "https://www.nytimes.com/2026/05/22/world/middleeast/iran-ceasefire-us-qatar-pakistan.html",
+        "image": null,
+        "timestamp": 1779466541.0
+    },
+    {
         "title_fa": "افت شدید اعتماد اقتصادی در آمریکا همزمان با جنگ ایران؛ نظرسنجی از فشار روانی و اقتصادی خبر می‌دهد",
         "title_en": "Economic confidence plummets in US amid Iran war, poll shows",
         "summary": [
@@ -160,6 +196,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw",
         "image": null,
         "timestamp": 1779444946.0
+    },
+    {
+        "title_fa": "روبیو: پیشرفت اندک در مذاکرات غیرمستقیم برای پایان جنگ با ایران؛ اختلاف بر سر غنی‌سازی و «سامانِ عوارض» تنگه هرمز",
+        "title_en": "Live updates: ‘Slight progress’ made in Iran peace talks, Rubio says",
+        "summary": [
+            "مارکو روبیو اعلام کرد مذاکرات غیرمستقیم برای توافق پایان جنگ «اندکی» پیش رفته، اما اختلافات اصلی هنوز حل نشده: برنامه غنی‌سازی هسته‌ای و تلاش تهران برای ایجاد «سیستم عوارض» در تنگه هرمز که وی آن را «غیرقابل‌پذیرش» دانست.",
+            "روبیو تأکید کرد «اساس ماجرا» تغییر نکرده و آمریکا اجازه دستیابی ایران به سلاح هسته‌ای را نمی‌دهد؛ هم‌زمان گزارش شد کشتی‌هایی در تنگه هرمز با هماهنگی نیروهای نظامی ایران (ارتش و سپاه) عبور کرده‌اند و بحث عوارض برای عبور کشتی‌ها به‌عنوان محور تنش مطرح است.",
+            "هم‌زمان، گزارش شد هیئت مذاکره‌ای قطر وارد تهران شده تا در چارچوب هماهنگی با آمریکا کمک کند «توافق نهایی» برای پایان جنگ و حل مسائل باقی‌مانده شکل بگیرد؛ همچنین دیدارهای دیپلماتیک میان مقام‌های ایران و پاکستان برای پیشبرد چارچوب توافق ادامه دارد."
+        ],
+        "impact": "این وضعیت یعنی کانال مذاکره فعال است اما محورهای محرک تنش (هسته‌ای و کنترل/عوارض تنگه هرمز) همچنان باقی مانده و خطر تشدید عملیاتی در محیط تنگه را بالا نگه می‌دارد.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "AOL",
+        "url": "https://www.aol.com/news/live-updates-iran-navy-says-100306216.html",
+        "clean_url": "https://www.aol.com/news/live-updates-iran-navy-says-100306216.html",
+        "image": "http://www.bing.com/th?id=ONUT.dTY_UIMY6Zy6JQIVvWPaBg&pid=News",
+        "timestamp": 1779444180.0
+    },
+    {
+        "title_fa": "واسطه‌های ایران برای توافق محدود در حال دویدن تا جلوی حمله‌های قریب‌الوقوع آمریکا و اسرائیل گرفته شود",
+        "title_en": "Iran mediators race for deal to head off looming US., Israeli strikes",
+        "summary": [
+            "هدف مذاکراتِ در حال انجام، رسیدن به یک چارچوب محدود است تا «وقفه در درگیری» تمدید شود و زمینه برای گفت‌وگوهای عمیق‌تر فراهم گردد.",
+            "این تلاش میانجی‌گرانه نشان می‌دهد که رژیم ایران برای جلوگیری از تشدید مستقیم فشار خارجی، به معامله‌های کوتاه‌مدت و قابل‌مدیریت چشم دوخته است، نه راه‌حل جامع.",
+            "در چارچوب گزارش، تمرکز روی زمان‌بندیِ نزدیک و جلوگیری از «حملات قریب‌الوقوع» قرار دارد که ریسک خروج اوضاع از کنترل را بالا می‌برد."
+        ],
+        "impact": "اگر این چارچوب محدود شکل نگیرد، احتمال تشدید فوری تنش با آمریکا و اسرائیل افزایش پیدا می‌کند و محاسبه‌پذیری رژیم برای مدیریت بحران کاهش می‌یابد.",
+        "tag": "مذاکره",
+        "urgency": 9,
+        "sentiment": -0.35,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/politics/international-relations/iran-mediators-race-for-deal-to-head-off-looming-us-israeli-strikes/ar-AA23PfJ1",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-mediators-race-for-deal-to-head-off-looming-us-israeli-strikes/ar-AA23PfJ1",
+        "image": "http://www.bing.com/th?id=ONUT.4x1BHblo5IglT_s_xwVUBA&pid=News",
+        "timestamp": 1779442860.0
     },
     {
         "title_fa": "طوفان بزرگ در مسیر خاورمیانه؛ در بحبوحه جنگ ایران، هشدار پیش‌بینی‌ها",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-china-talks-trump-middle-east-war-oil-prices-global-impact-explained-liveblog-14011731.html",
         "image": "http://www.bing.com/th?id=ONUT.HedUjZxzWWijlkuRBScD7A&pid=News",
         "timestamp": 1778896740.0
-    },
-    {
-        "title_fa": "دفاع ترامپ از اظهارنظر درباره عدم تمرکز بر وضعیت مالی آمریکایی‌ها در گفت‌وگوهای ایران",
-        "title_en": "‘Perfect statement’: Trump defends saying he isn’t thinking about Americans’ finances amid Iran talks",
-        "summary": [
-            "NBC News گزارش می‌کند ترامپ در واکنش به انتقادها، از این‌که گفته هنگام مذاکره درباره ایران به «امور مالی آمریکایی‌ها» فکر نمی‌کند دفاع کرده است.",
-            "این گزارش بر محور «دفاع از یک عبارت/جمله» می‌چرخد و نشان می‌دهد خودِ لحن و پیام سیاسی اظهارات ترامپ در کانون توجه قرار گرفته، نه جزئیات فنی توافق یا مسیر عملی مذاکرات.",
-            "در سطح تحلیلی، این نوع موضع‌گیری می‌تواند به بی‌اعتمادی داخلی دامن بزند و فشار سیاسی علیه تیم مذاکره‌کننده را افزایش دهد، اما مقاله حاضر مدرکی از تحریم جدید، حمله یا فروپاشی اقتصادی ارائه نمی‌کند."
-        ],
-        "impact": "این خبر بیشتر جنبه سیاسی-ارتباطی دارد و به‌جای داده‌های اقتصادی/امنیتی، روی ادراک عمومی و فشار داخلی اثر می‌گذارد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbXRVSHJfNGlsUDBSR0tfaVF6QnNibFdlQV9KUTNqVFZwd2JZMDNrN3gwbDF2SWFlZEhuS1AtQ1poS3EzV3YtVm13aURubGNIbEw4QlpHYUtEc3J4X09FUkNvallwXzZYdTZWSmloOS1ZdmEtUUhlVUdhLVFnVjcxWlFhYUxyaURBVG05X0U4LWxkN2xpRW5CcmVCWlFZY3E1VzQ2V193Zll3OWJpNm1pZmM3VUYwdjNOMzNKS0UxUWpLa1NCbVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbXRVSHJfNGlsUDBSR0tfaVF6QnNibFdlQV9KUTNqVFZwd2JZMDNrN3gwbDF2SWFlZEhuS1AtQ1poS3EzV3YtVm13aURubGNIbEw4QlpHYUtEc3J4X09FUkNvallwXzZYdTZWSmloOS1ZdmEtUUhlVUdhLVFnVjcxWlFhYUxyaURBVG05X0U4LWxkN2xpRW5CcmVCWlFZY3E1VzQ2V193Zll3OWJpNm1pZmM3VUYwdjNOMzNKS0UxUWpLa1NCbVE",
-        "image": null,
-        "timestamp": 1778895660.0
-    },
-    {
-        "title_fa": "ترامپ هسته‌ای علیه ایران را رد کرد و دستور اقدام دریایی داد",
-        "title_en": "Trump rules out nuclear strike on Iran, orders naval action",
-        "summary": [
-            "خبر یادشده می‌گوید ترامپ «حمله هسته‌ای» به ایران را منتفی دانسته، اما در همان چارچوب «اقدام دریایی» را دستور داده است؛ یعنی تمرکز از ابزار نهایی به عملیات عملیاتی در دریا منتقل شده.",
-            "این پیام می‌تواند به‌عنوان فشار نظامی غیرهسته‌ای تفسیر شود، اما چون جزئیات اقدام دریایی در متن نیامده، نمی‌توان درباره شدت یا محل دقیق آن قضاوت کرد.",
-            "برای اقتصاد و اعتراضات داخلی، داده‌ای در گزارش ارائه نشده؛ بنابراین ارتباط مستقیم با کاهش ارزش پول، تشدید تحریم یا موج نارضایتی قابل استناد نیست و صرفاً باید آن را یک سیگنال فشار خارجی دانست."
-        ],
-        "impact": "رد حمله هسته‌ای همراه با دستور اقدام دریایی، یک مسیر فشار نظامی محدودتر از ابزار هسته‌ای ایجاد می‌کند، با این حال اثر مستقیم اقتصادی/داخلی در متن گزارش مشخص نشده است.",
-        "tag": "فشار_دریایی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "MSN",
-        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX3U3N1FsTk5NaEJGa1pyNGE5ZEc3MW9IejMwbjYxc2lmMl9fT0o2TXIyZ0o2d19MS2lmdExWSFY5c1VYdTFkUmx1bVJSb2h3c2d1S09PSzZ6ZmdqQk44NmRIMDhZcnRTOW1oNk9wSFhhM1FfcFU3dlROUTdNSmJuNE5WRlJ2TTdQVDdVZWJwdTRuQURtNFBoSTNJUGZ2ckY5SUxKUG8xN043cFc1OUxEMFNwa1FLSUVhcDlHZ0RFTEdGVjA1cGdWRWtzMWVSck1XQ2lRX3dubWpkdjBtWkZBaWZSNGNtVG4yc0pDSU5XSWVzUklJNktlVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX3U3N1FsTk5NaEJGa1pyNGE5ZEc3MW9IejMwbjYxc2lmMl9fT0o2TXIyZ0o2d19MS2lmdExWSFY5c1VYdTFkUmx1bVJSb2h3c2d1S09PSzZ6ZmdqQk44NmRIMDhZcnRTOW1oNk9wSFhhM1FfcFU3dlROUTdNSmJuNE5WRlJ2TTdQVDdVZWJwdTRuQURtNFBoSTNJUGZ2ckY5SUxKUG8xN043cFc1OUxEMFNwa1FLSUVhcDlHZ0RFTEdGVjA1cGdWRWtzMWVSck1XQ2lRX3dubWpkdjBtWkZBaWZSNGNtVG4yc0pDSU5XSWVzUklJNktlVQ",
-        "image": null,
-        "timestamp": 1778891399.0
-    },
-    {
-        "title_fa": "ایران به کشورهای همیار قطعنامه هرمز: «مسئولیت تجاوز» را با شما شریک می‌دانیم",
-        "title_en": "Iran warns co-sponsors of US-backed Hormuz Strait resolution that they share responsibility for 'aggression'",
-        "summary": [
-            "ایران درباره قطعنامه «کانال هرمز» که با حمایت آمریکا مطرح شده، به کشورهای همکار/همیارِ این ابتکار هشدار داده و اعلام کرده آنان در «تجاوز» شریک‌اند.",
-            "این موضع‌گیری از سوی ایران با چارچوبِ مقابله با طرح‌های پشتیبانی‌شده توسط آمریکا بیان می‌شود و عملاً پیام بازدارندگی-تهدید برای بازیگران دخیل در پرونده است.",
-            "آنادولو گزارش می‌دهد که هشدار ایران متوجه نقش کشورهای همیار قطعنامه است؛ یعنی تمرکز فشار نه فقط روی آمریکا، بلکه روی دولت‌های همسو با این اقدام هم قرار گرفته است."
-        ],
-        "impact": "این هشدار می‌تواند تنش سیاسی-دیپلماتیک پیرامون ابتکارهای آمریکا درباره هرمز را تشدید کند، اما در متن گزارش نشانه‌ای از اقدام عملی نظامی یا تحریم جدید ارائه نشده است.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-warns-co-sponsors-of-us-backed-hormuz-strait-resolution-that-they-share-responsibility-for-aggression/3939183",
-        "clean_url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-warns-co-sponsors-of-us-backed-hormuz-strait-resolution-that-they-share-responsibility-for-aggression/3939183",
-        "image": null,
-        "timestamp": 1778885773.0
-    },
-    {
-        "title_fa": "بن‌بست «چانه‌زنی تهاجمی» ترامپ در قبال ایران",
-        "title_en": "Trump's geopolitical brinkmanship has hit a wall with Iran",
-        "summary": [
-            "طبق گزارش رویترز، رئیس‌جمهور آمریکا در نخستین سال بازگشت به قدرت از سبک مذاکره‌ و فشارِ نمایشی خود در موضوعاتی از تعرفه‌ها تا درگیری‌های مسلحانه امتیاز گرفته است، اما این الگو در پرونده ایران «به دیوار خورده».",
-            "متن گزارش صراحتاً می‌گوید که با وجود سابقه گرفتن امتیاز از دیگر کشورها، رفتار ژئوپلیتیک ترامپ در مورد ایران نتیجه نداده و به بن‌بست رسیده است.",
-            "جمع‌بندی ضمنی این است که ایران در این مقطع نسبت به ترکیب فشار-مذاکره آمریکا، واکنش قابل معامله‌ای نشان نداده یا حداقل در چارچوبی که ترامپ دنبال می‌کند، به عقب‌نشینی نرسیده است (بدون ارائه جزئیات بیشتر در متن ارائه‌شده)."
-        ],
-        "impact": "این بن‌بست نشان می‌دهد اهرم سیاسی-مذاکره‌ای آمریکا در قبال ایران در فاز فعلی کارآمد نیست و می‌تواند مسیر بحران را از «امتیازگیری سریع» به سمت زمان‌بر شدن و تشدید ریسک‌های ثبات منطقه‌ای سوق دهد.",
-        "tag": "ایران-آمریکا",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/trumps-geopolitical-brinkmanship-has-hit-wall-with-iran-2026-05-16/",
-        "clean_url": "https://www.reuters.com/world/middle-east/trumps-geopolitical-brinkmanship-has-hit-wall-with-iran-2026-05-16",
-        "image": "http://www.bing.com/th?id=ONUT.BoI0lOtaTpjlH0T3MmTpEg&pid=News",
-        "timestamp": 1778883660.0
     }
 ]
