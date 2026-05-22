@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "افت شدید اعتماد اقتصادی در آمریکا همزمان با جنگ ایران؛ نظرسنجی از فشار روانی و اقتصادی خبر می‌دهد",
+        "title_en": "Economic confidence plummets in US amid Iran war, poll shows",
+        "summary": [
+            "طبق گزارش Al Jazeera، یک نظرسنجی نشان می‌دهد اعتماد اقتصادی در آمریکا در بحبوحه جنگ ایران سقوط کرده است؛ یعنی اثر جنگ محدود به صحنه نظامی نیست و به ادراک عمومی از آینده اقتصادی رسیده است.",
+            "این افت اعتماد اقتصادی به‌معنای افزایش نگرانی خانوارها و بازار درباره هزینه‌های احتمالی، بی‌ثباتی و پیامدهای گسترش درگیری است؛ ابزاری برای سنجش فشار روانی و انتظارات منفی است، نه یک معیار مستقیم از «ضربه فوری» به اقتصاد.",
+            "از آن‌جا که خبر مستقیماً به «نظرسنجی» متکی است، باید آن را نشانه‌ای از افزایش نااطمینانی و کاهش ریسک‌پذیری دانست که می‌تواند تصمیم‌گیری مصرف و کسب‌وکار را تحت تأثیر قرار دهد، اما متن جزئیات عددی و سازوکار دقیق را ارائه نمی‌کند."
+        ],
+        "impact": "کاهش اعتماد اقتصادی در آمریکا، اگرچه فعلاً در قالب نظرسنجی است، می‌تواند به تضعیف ظرفیت مانور سیاسی-اقتصادی و تشدید فشار داخلی در دوران جنگ منجر شود.",
+        "tag": "اقتصاد",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/economic-confidence-plummets-in-us-amid-iran-war-poll-shows/ar-AA23PGzY",
+        "clean_url": "https://www.msn.com/en-us/news/world/economic-confidence-plummets-in-us-amid-iran-war-poll-shows/ar-AA23PGzY",
+        "image": null,
+        "timestamp": 1779464700.0
+    },
+    {
         "title_fa": "مهاجرت «مختلط» از مسیر ایران در مه ۲۰۲۶؛ فشار انسانی و فشار سیاسی همزمان",
         "title_en": "Mixed migration through Iran (May 2026)",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWnlhVHVIaXpaUVNKV2Z2ZmRkaUUzLUJnQ21URGw1RGl5NENMaUM4NjlIdnlUSWE5LV9UZ0JUcnRtd2IyaHBFNldvNlRpRHVjaWt4ZFFyNTlTdFVwZTNpZ2NFMENReVlUbjg0XzBpYXMwbW9rZWpwTFhzYjkwZUNXNDFZalUyT3FCZXlNR0VqemFpQQ",
         "image": null,
         "timestamp": 1779457158.0
+    },
+    {
+        "title_fa": "یورش جنگ ایران به پول‌های آسیایی؛ فشار جدید بر بقای مالی رژیم",
+        "title_en": "Asian Currencies Hit by Iran War, Adding to Economic Strain",
+        "summary": [
+            "گزارش نیویورک‌تایمز اعلام می‌کند که جنگ ایران به موج فشار بر ارزهای آسیایی دامن زده و در نتیجه هزینه‌های اقتصادی و نوسان‌های مالی تشدید شده است.",
+            "این فشار بیرونی، به‌طور ساختاری توان رژیم برای مدیریت هزینه‌های جنگ، واردات و تعهدات مالی را محدود می‌کند و اثر آن معمولاً به شکل گرانی و بی‌ثباتی در اقتصاد داخلی تخلیه می‌شود.",
+            "رابطه مستقیم میان «مهمات جنگی/ریسک ژئوپلیتیک» و «فشار ارزی» یعنی اقتصاد ایران از مسیر پولی و تجاری آسیب می‌بیند؛ بنابراین هرچه جنگ طولانی‌تر شود، کسری، فرار سرمایه و نارضایتی اجتماعی محتمل‌تر می‌شود."
+        ],
+        "impact": "گسترش فشار جنگ به بازار ارزهای آسیایی، اهرم مالی رژیم را تضعیف می‌کند و زمینه تشدید ناپایداری اقتصادی در داخل را بالا می‌برد.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/22/business/asia-currency-iran-dollar.html",
+        "clean_url": "https://www.nytimes.com/2026/05/22/business/asia-currency-iran-dollar.html",
+        "image": null,
+        "timestamp": 1779457104.0
     },
     {
         "title_fa": "ایران از واگذاری مواد هسته‌ای عقب‌نشینی نمی‌کند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/trumps-geopolitical-brinkmanship-has-hit-wall-with-iran-2026-05-16",
         "image": "http://www.bing.com/th?id=ONUT.BoI0lOtaTpjlH0T3MmTpEg&pid=News",
         "timestamp": 1778883660.0
-    },
-    {
-        "title_fa": "چرخش ترامپ درباره ذخیره اورانیوم ایران؛ پیامدهای جدی برای محاسبات فشار و بازدارندگی",
-        "title_en": "Opinion | Why Trump’s flip-flop on Iran’s uranium stockpile is a big deal",
-        "summary": [
-            "این متن یک تحلیل خبری-نظری درباره «چرخش» ترامپ در موضع مربوط به ذخیره اورانیوم ایران ارائه می‌کند و محور آن اهمیت سیاسی و عملی چنین تغییر موضعی است.",
-            "با توجه به اینکه این محتوا «نظر» است، تمرکز بر اثر تغییر لحن/موضع واشنگتن بر مسیر مذاکرات، برداشت تهران و همچنین نحوه محاسبه هزینه-فایده برای هر اقدام بعدی قرار دارد، نه یک گزارش قطعی از عملیات یا تصمیم اجرایی جدید.",
-            "مفهوم اصلی مقاله این است که تغییر موضع دولت آمریکا می‌تواند اطمینان‌پذیری فشار یا تعامل را کاهش دهد و در نتیجه، هم بر رفتار سیاسی ایران اثر بگذارد و هم بر استراتژی بازیگران دیگر در پرونده هسته‌ای."
-        ],
-        "impact": "چنین چرخشی، حتی اگر اجرایی و فوری نباشد، می‌تواند پایه‌های سیاست مهار/فشار را در ذهن بازیگران منطقه‌ای و تهران متزلزل کند و روند تصمیم‌گیری را سیاسی‌تر و پرریسک‌تر سازد.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "MS NOW",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XRUNYZHhzOW5pUzZXczRXRnJKMkx3VjZGcGRCUzJfYjI1VmZTRkQxbVJqaXhwNXZvRklyaldNRVA0U2pLOUVGQUNmZVdKbXR0MEg4S2N1cEJxOHRHbnFGbktUWjQ2S2gzMk5sVFcwOUZIZk1Sakc5X0xqR1I?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XRUNYZHhzOW5pUzZXczRXRnJKMkx3VjZGcGRCUzJfYjI1VmZTRkQxbVJqaXhwNXZvRklyaldNRVA0U2pLOUVGQUNmZVdKbXR0MEg4S2N1cEJxOHRHbnFGbktUWjQ2S2gzMk5sVFcwOUZIZk1Sakc5X0xqR1I",
-        "image": null,
-        "timestamp": 1778882197.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید توقف ۲۰ساله برنامه هسته‌ای ایران کافی است",
-        "title_en": "Trump says 20-year nuclear programme suspension by Iran is enough",
-        "summary": [
-            "ترامپ اعلام کرده «توقف ۲۰ساله» برنامه هسته‌ای ایران برای تحقق هدف آمریکا کافی است و عملاً چارچوب مذاکره/فشار را روی یک نقطه پایان کوتاه‌مدت تنظیم می‌کند.",
-            "این موضع یعنی واشنگتن دنبال ارزیابی سیاسی-امنیتی سریع است، نه الزاماً یک روند طولانی‌تر برای رفع نگرانی‌ها یا تضمین‌های گسترده‌تر؛ بنابراین خطر بن‌بست دیپلماتیک بالا می‌رود.",
-            "از آنجا که این گزارش صرفاً نقل‌قول ترامپ است و جزئیات فنی یا شرط‌های اجرایی ارائه نمی‌دهد، اتکای اصلی به «تعریف سیاسی کافی بودن» است و می‌تواند طرف مقابل را به مقاومت در چارچوب دلخواه آمریکا سوق دهد."
-        ],
-        "impact": "این اظهار نظر می‌تواند روند مذاکرات را تندتر و شکننده‌تر کند و احتمال افزایش تنش لفظی و فشار سیاسی را بالا ببرد، بدون اینکه الزاماً تغییر محسوسی در وضعیت عملی برنامه هسته‌ای گزارش شود.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/other/trump-says-20-year-nuclear-programme-suspension-by-iran-is-enough/ar-AA23j0Xz",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-20-year-nuclear-programme-suspension-by-iran-is-enough/ar-AA23j0Xz",
-        "image": null,
-        "timestamp": 1778879825.0
     }
 ]
