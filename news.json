@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اظهارات ترامپ: ایران به توافق با آمریکا «نزدیک‌تر شده»؛ شکاف داخلی و اهرم‌های فشار پنهان می‌ماند",
+        "title_en": "Iran 'getting a lot closer' to agreement with US, Trump says",
+        "summary": [
+            "بی‌بی‌سی فقط گزارش می‌کند که ترامپ گفته ایران «خیلی نزدیک‌تر» به رسیدن به توافق با آمریکا شده است؛ متن خبر جزئیات توافق، زمان‌بندی یا مفاد مشخص را ارائه نمی‌دهد.",
+            "در چارچوب فشار خارجی، چنین اظهاراتی می‌تواند نشان دهد رژیم با امید به کاهش هزینه‌های بین‌المللی یا تعدیل فشارها در مذاکرات حرکت می‌کند، اما نبودِ جزئیات یعنی اثر فوری بر ثبات ساختاری به‌طور قابل‌اثبات مشخص نیست.",
+            "از زاویه اقتصاد و نارضایتی داخلی، صرف نزدیک‌شدنِ ادعایی به توافق بدون اعلام سازوکارهای اجرایی، معمولاً وعده‌ای است که دیر به سفره مردم می‌رسد؛ بنابراین احتمالاً فشارهای معیشتی و نارضایتی همچنان پابرجا می‌ماند."
+        ],
+        "impact": "این خبر در سطح سیاسی سیگنال نزدیکی به مذاکره می‌دهد، اما چون مفاد و آثار اجرایی روشن نیست، بیشتر به عنوان عملیات روانی/چانه‌زنی قابل ارزیابی است تا تضمین کاهش واقعی فشارها.",
+        "tag": "توافق",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/other/iran-getting-a-lot-closer-to-agreement-with-us-trump-says/ar-AA23U0nz",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-getting-a-lot-closer-to-agreement-with-us-trump-says/ar-AA23U0nz",
+        "image": null,
+        "timestamp": 1779557326.0
+    },
+    {
         "title_fa": "نزدیک‌شدن آمریکا و ایران به تمدید ۶۰ روزه آتش‌بس با چارچوب هسته‌ای",
         "title_en": "U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports",
         "summary": [
@@ -232,6 +250,24 @@
         "clean_url": "https://247wallst.com/investing/2026/05/23/as-trump-plans-next-round-in-iran-war-fresh-gas-price-shocks-rattle-consumers",
         "image": "http://www.bing.com/th?id=ONUT.UYE23QEDKtEhDLNVuzNu3w&pid=News",
         "timestamp": 1779519840.0
+    },
+    {
+        "title_fa": "ترمپ با مقام‌های ارشد امنیت ملی درباره «گام‌های بعدی» در جنگ با ایران جلسه می‌گذارد",
+        "title_en": "Trump meets with national security officials as he weighs next steps on Iran",
+        "summary": [
+            "طبق گزارش CNN (از طریق MSN)، دونالد ترامپ روز جمعه با چند تن از مقام‌های ارشد امنیت ملی آمریکا دیدار کرد تا «مسیر بعدی» درباره جنگ با ایران را بررسی کند.",
+            "یک فرد مطلع اعلام کرده این جلسه درباره تصمیم‌گیری آینده در خصوص گزینه‌های برخورد با ایران بوده، اما متن گزارش جزئیات اقدام مشخص یا زمان‌بندی ارائه نمی‌دهد.",
+            "این اقدام در چارچوب فشار و تصمیم‌سازی واشنگتن قرار می‌گیرد و نشان می‌دهد دولت در حال ارزیابی گزینه‌های میدانی/امنیتی است، نه یک مسیر صرفاً دیپلماتیک."
+        ],
+        "impact": "این نشست نشانه‌ای از نزدیک شدن تصمیم‌گیری عملی آمریکا درباره مسیر جنگ/فشار علیه ایران است، بدون اینکه در گزارش جزئیات اقدام قابل راستی‌آزمایی ذکر شده باشد.",
+        "tag": "آمریکا",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-meets-with-national-security-officials-as-he-weighs-next-steps-on-iran/ar-AA23R1K4",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-meets-with-national-security-officials-as-he-weighs-next-steps-on-iran/ar-AA23R1K4",
+        "image": "http://www.bing.com/th?id=ONUT.BVo0kt9eMkr2jZ1q2kMT3A&pid=News",
+        "timestamp": 1779519801.0
     },
     {
         "title_fa": "روز جنگ ۸۵: تهران می‌گوید شکاف‌های بزرگ در گفت‌وگوهای با آمریکا باقی است",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcWsyelFXZkpMdE9WYlppNTZIRzM5MERMWmltNTZ1UXJpd3k1QmtaYjlKTm4xc3dUMUZXUDU3R0xoOTZKMVduaUo2bjJGT2hWTi1HaHNudUdSaVp4Q3UwZ1VYWkJMUFlWV2ttOW56YXctUllJZkxiQ1dpRWF0V0hDRkFQajIwaGfSAYoBQVVfeXFMTUVwekRPUUt0bmRwcmJpNlkzTnFRZS1HdlZoVGFLY1EyN1E5Skk4UnBZbjR5RmpVUDhMcTB0UVowbkpjeHBzTS1RNkN0cGhPVWE0RkxRbzNoYkh1eHlUbS1yS0ZJY3c0d1NtRGdtMDU3VUNIQ1dBMjJWTmpRZ0hPOFdFTXdzd21FM2F3",
         "image": null,
         "timestamp": 1779001648.0
-    },
-    {
-        "title_fa": "ناو هواپیمابر آمریکا پس از عملیات در ایران و ونزوئلا به آمریکا بازگشت",
-        "title_en": "American aircraft carrier returns to U.S. after deployment in Iran, Venezuela",
-        "summary": [
-            "هاارتز گزارش می‌کند که یک ناو هواپیمابر آمریکایی پس از «استقرار/عملیات» در ایران و ونزوئلا، به ایالات متحده برگشته است؛ این یعنی یک نمایش عملیاتیِ مستقیم در دو جبهه متفاوت برای سنجش و فشار استراتژیک.",
-            "این تیپ اقدام، بیشتر یک ابزار فشار نظامی و پیام بازدارندگی است تا یک رخداد صرفاً تشریفاتی؛ بازگشت سریع هم می‌تواند نشان‌دهنده اجرای مأموریت‌های مشخص و قابل‌محاسبه باشد.",
-            "برای جمهوری اسلامی، هرگونه حضور یا عملیات دریایی/هوایی آمریکا نزدیک به محیط ایران به معنای افزایش ریسک محاسباتی و فشار روانی-امنیتی بر تصمیم‌گیری داخلی است، حتی اگر در متن جزئیات فنی یا جزئیات درگیری نیامده باشد."
-        ],
-        "impact": "بازگشت ناو هواپیمابر پس از حضور در «ایران» یعنی سطح فشار نظامی-پیامی آمریکا بالا و قابل تکرار است و می‌تواند بر امنیت عملیاتی و محاسبات رژیم اثر منفی بگذارد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Haaretz",
-        "url": "https://www.msn.com/en-us/news/us/us-aircraft-carrier-returns-home-after-record-deployment-that-included-iran-war-maduro-capture/ar-AA23kcfH",
-        "clean_url": "https://www.msn.com/en-us/news/us/us-aircraft-carrier-returns-home-after-record-deployment-that-included-iran-war-maduro-capture/ar-AA23kcfH",
-        "image": null,
-        "timestamp": 1779001560.0
-    },
-    {
-        "title_fa": "تهدید تازه تهران به واشینگتن و پیش‌نویس تعرفه برای تنگه هرمز در آستانه شکنندگی آتش‌بس",
-        "title_en": "Iran issues chilling threat as ceasefire threatens to fall apart amid key disagreements",
-        "summary": [
-            "ایران از زبان سخنگوی نیروهای مسلح، ژنرال شکری، هشدار داده هرگونه حمله جدید آمریکا «پاسخ شدیدتر و قدرتمندتر» و «اقدامات تهاجمی تاکتیکی بدون اعلام قبلی» در پی خواهد داشت و دولت آمریکا را از موضع «ناامیدی» توصیف کرده است.",
-            "این تهدیدها با ادعای اختلاف بر سر «موضوعات کلیدی» مطرح می‌شود؛ یعنی آتش‌بس فعلی به‌خاطر همین ناسازگاری‌ها در معرض فروپاشی قرار دارد و ایران همچنین از سناریوهای «غافلگیرکننده و طوفانی» علیه دارایی‌ها و نیروهای آمریکا سخن گفته است.",
-            "همزمان، ابراهیم عزیزی رئیس کمیسیون امنیت ملی مجلس، برنامه تعرفه‌گذاری برای کشتی‌های عبوری از تنگه هرمز را اعلام کرده و آن را با «هزینه خدمات تخصصی» مرتبط کرده است."
-        ],
-        "impact": "ترکیب تهدید نظامی و مکانیزم تعرفه‌گذاری برای هرمز، ریسک تشدید تنش و بی‌ثباتی عملیاتی در مسیر حیاتی کشتیرانی را بالا می‌برد و احتمال فروپاشی آتش‌بس را جدی‌تر می‌کند.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/iran-issues-chilling-threat-ceasefire-112400000.html",
-        "clean_url": "https://www.aol.com/articles/iran-issues-chilling-threat-ceasefire-112400000.html",
-        "image": "http://www.bing.com/th?id=ONUT.GwNdrPLUCgS64tqBDtYUUg&pid=News",
-        "timestamp": 1778995680.0
     }
 ]
