@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "نزدیکی آمریکا و ایران به توافق برای تمدید آتش‌بس ۶۰ روزه",
+        "title_en": "US, Iran close to agreeing a 60-day ceasefire extention",
+        "summary": [
+            "طبق گزارش Jerusalem Post، آمریکا و ایران در مرحله نزدیک شدن به توافق برای تمدید آتش‌بس ۶۰ روزه هستند؛ یعنی یک تعامل دیپلماتیکِ زمان‌دار برای مدیریت تنش فعلی.",
+            "این روند، به‌جای حل ریشه‌ای بحران، یک مکانیسم «توقف موقت» ایجاد می‌کند و عملاً به هر دو طرف فرصت می‌دهد بدون ورود به تشدید فوری، فضای مذاکره یا چانه‌زنی را گسترش دهند.",
+            "از منظر فشار خارجی و پایداری داخلی رژیم، چنین توافقی معمولاً می‌تواند اثرات محدودکننده تحریم/فشار را برای مدتی کاهش دهد (نه حذف کامل)، اما گزارش جزئیاتی درباره نتایج اقتصادی یا رهاسازی محدودیت‌های ساختاری ارائه نمی‌کند."
+        ],
+        "impact": "تمدید ۶۰ روزه آتش‌بس احتمالاً تنش فوری را کنترل می‌کند، اما به‌دلیل ماهیت موقت آن، اثرش بر تغییرات راهبردی بلندمدت نامشخص است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-us/news/other/us-iran-close-to-agreeing-on-60-day-extension-of-ceasefire-gradual-reopening-of-strait-of-hormuz/ar-AA23TCYl",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-iran-close-to-agreeing-on-60-day-extension-of-ceasefire-gradual-reopening-of-strait-of-hormuz/ar-AA23TCYl",
+        "image": null,
+        "timestamp": 1779563228.0
+    },
+    {
         "title_fa": "پست پرچم آمریکا روی ایران؛ آزمون فشار روانی و کارت‌سازی ترامپ در برابر جمهوری اسلامی",
         "title_en": "‘United States of the Middle East?’: Trump posts US flag covering Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWk9pWFNoWEFRc19QNXdnb1l5bHNuODRuSmtzYkVLSjRTY25nZWhlUWp4MC04RDJnaldlN09IbWhxdjZMSElDZnlrQUxqRFJra0xEcXdTQmR4OHY0X3NsYXhQN05sTXpfazZrSVY2MUVfVFRJdFRoMEVuUUJzbkxLSlF6MkxHdTJVWFozMnBsbkxkZlNRb0xBQUItZDd6cm05UGE0SUxJaENRN3fSAbABQVVfeXFMTXNGZHhDSWttTzhNYTlYX3M3MG5MVjRSY2FwejY1NFhPY0xzU0FfZVY0VmZmMWZsMjB6cHhGME4yUTFrZXVsd0xWWVAwZkdlNFU3NjJ6cThwMEVhZDhPM1Noem9BMm5wMDVjTXlUejhIY0lHTGM5Um5pb2M5aHZpRTc4bDFOdXA2c2FOVV8yQmJhWWZ5bnN3NmJmNkhUSS1TVHNjMjA5TmQteGVxYXJHZVA",
         "image": null,
         "timestamp": 1779559399.0
+    },
+    {
+        "title_fa": "تعیین مسیر بعدی ترامپ درباره ایران؛ ابهام سیاست خارجی و ریسک تشدید فشار",
+        "title_en": "What will Trump do next with Iran?",
+        "summary": [
+            "متن ارائه‌شده فقط به طرح کلی سؤال NPR درباره اقدام بعدی ترامپ نسبت به ایران اشاره می‌کند و جزئیات سیاست، تصمیم یا رویداد مشخصی گزارش نمی‌دهد.",
+            "از آنجا که هیچ داده‌ای درباره تحریم جدید، حمله یا توافق ارائه نشده، نمی‌توان اثرات فوری بر اقتصاد یا ثبات داخلی رژیم را به‌صورت مستند ارزیابی کرد.",
+            "بنابراین این گزارش در سطح «انتظار/حدس سیاسی» باقی می‌ماند و تنها می‌شود گفت احتمال تداوم فشار یا تغییر رویکرد مطرح است، بدون اینکه شواهدی از اقدام مشخص در اختیار باشد."
+        ],
+        "impact": "در حال حاضر به دلیل نبود جزئیات خبری، تأثیر فوری قابل سنجش بر تحولات ایران گزارش نشده و فقط یک پرسش سیاسی درباره احتمال تغییرات بعدی مطرح شده است.",
+        "tag": "تحلیل",
+        "urgency": 3,
+        "sentiment": 0.0,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision",
+        "clean_url": "https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision",
+        "image": null,
+        "timestamp": 1779558568.0
     },
     {
         "title_fa": "اظهارات ترامپ: ایران به توافق با آمریکا «نزدیک‌تر شده»؛ شکاف داخلی و اهرم‌های فشار پنهان می‌ماند",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-israel-war-live-updates-trump-warns-iran-as-hormuz-traffic-crisis-deepens-crude-oil-prices-surge-amid-israel-strikes-in-lebanon-liveblog-154336080",
         "image": "http://www.bing.com/th?id=ONUT.7xrZmlc6FiyffLbt2BhJ9A&pid=News",
         "timestamp": 1779007920.0
-    },
-    {
-        "title_fa": "ترامپ: یا «تند حرکت کنید» یا «دیگر چیزی از ایران نمی‌ماند»؛ تهدید جدید در اوج بن‌بست مذاکرات و شوک اقتصادی",
-        "title_en": "Trump warns Iran to 'get moving' or 'there won’t be anything left'",
-        "summary": [
-            "ترامپ با انتشار پستی در Truth Social به ایران اولتیماتوم داد: «ساعت می‌گذرد» و اگر «تند حرکت نکنید»، «دیگر چیزی از شما باقی نمی‌ماند»، بدون آنکه دقیقاً مشخص کند چه اقداماتی را تهدید می‌کند.",
-            "این تهدید در ادامه بن‌بست مذاکرات برای پایان جنگ مطرح می‌شود: آمریکا همچنان بنادر ایران را «مسدود» می‌کند و ایران از ابتدای جنگ تنگه هرمز را بسته است؛ نتیجه مستقیم، اختلال جدی در جریان نفت و جهش جهانی قیمت‌ها و همچنین افزایش قیمت بنزین در آمریکا است.",
-            "این اولین بار نیست: ترامپ پیش‌تر هم به پیامدهای شدید مشابه اشاره کرده و حتی تهدید به حمله به زیرساخت‌های غیرنظامی (مانند نیروگاه‌ها و پل‌ها) مطرح شده که در گزارش به‌عنوان موضوع بالقوهِ «جرم جنگی» یاد شده است."
-        ],
-        "impact": "این نوع تهدیدهای غیرشفاف، ریسک تشدید نظامی و تداوم فشار اقتصادی بر هر دو طرف را بالا می‌برد و با انسداد تنگه هرمز و بن‌بست مذاکرات، شوک قیمت انرژی ادامه‌دار می‌شود.",
-        "tag": "تحریم-تهدید",
-        "urgency": 9,
-        "sentiment": -0.95,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/05/17/trump-warns-iran-wont-be-anything-left.html",
-        "clean_url": "https://www.cnbc.com/2026/05/17/trump-warns-iran-wont-be-anything-left.html",
-        "image": "http://www.bing.com/th?id=ONUT.eDG72BNr4XMqCt-yLJnn0g&pid=News",
-        "timestamp": 1779007440.0
-    },
-    {
-        "title_fa": "حمله آمریکا و اسرائیل به ایران؛ توقف میادین گاز توسط اسرائیل",
-        "title_en": "U.S., Israel Launch Attacks on Iran – Israel Shuts Down Gas Fields",
-        "summary": [
-            "بر اساس گزارش EnergyNow.com، آمریکا و اسرائیل «حمله‌هایی» علیه ایران آغاز کرده‌اند و در ادامه گفته می‌شود اسرائیل «میدان‌های گازی» را خاموش کرده است.",
-            "این اقدام مستقیماً به بخش انرژی ایران ضربه می‌زند و از منظر عملیاتی یعنی کاهش تولید/عرضه گاز، اختلال در برنامه‌های صادراتی یا سوخت‌رسانی داخلی و فشار فوری بر زنجیره‌های مرتبط.",
-            "متن منتشرشده جزئیات فنی، میزان خسارت یا گستره جغرافیایی توقف را ارائه نمی‌کند، اما از همان سطح خبر، پیام راهبردی روشن است: هدف‌گیری زیرساخت حیاتی انرژی."
-        ],
-        "impact": "توقف میادین گاز می‌تواند هم‌زمان تولید اقتصادی و تاب‌آوری زیرساختی رژیم را در کوتاه‌مدت تضعیف و به هزینه‌های فنی-مالی فوری منجر شود.",
-        "tag": "انرژی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "EnergyNow.com",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFBOVUNWU1RUSmlEMVZZempwdHMzOGt5dlJpUjJXOC12azJ4T0c3Yl9jZlJ0ZXdQUnFaQy1nSlNZNG02WEpNYnV5bEo3TndDR01HVVFCcjNVMk5xbjNHUVJrcE05cy1qblJQUERXTV8zemxlY182MnVwU1k5WDV6WEhWblFxc1BKa01YN0piUGVrVVNxMFUwVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFBOVUNWU1RUSmlEMVZZempwdHMzOGt5dlJpUjJXOC12azJ4T0c3Yl9jZlJ0ZXdQUnFaQy1nSlNZNG02WEpNYnV5bEo3TndDR01HVVFCcjNVMk5xbjNHUVJrcE05cy1qblJQUERXTV8zemxlY182MnVwU1k5WDV6WEhWblFxc1BKa01YN0piUGVrVVNxMFUwVQ",
-        "image": null,
-        "timestamp": 1779003058.0
     }
 ]
