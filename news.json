@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ایران با میانجی‌ها برای گفت‌وگو نشست؛ آتش‌بس در آستانه فرسایش یا تثبیت",
+        "title_en": "Iran Meets Mediators for Talks as Cease-Fire Hangs in Balance",
+        "summary": [
+            "طبق گزارش نیویورک‌تایمز، ایران برای گفت‌وگو با میانجی‌ها وارد مذاکره شده و وضعیت آتش‌بس «روی لبه» قرار دارد؛ یعنی نتیجه مذاکرات می‌تواند به تشدید یا فروکش درگیری منجر شود.",
+            "چارچوب این خبر بر تردید درباره دوام آتش‌بس تاکید می‌کند و نشان می‌دهد که هنوز تضمین عملی و پایدار از نظر طرف‌ها فراهم نشده است.",
+            "برای ارزیابی پیامدها باید دید مذاکره‌کنندگان چه سازوکار اجرایی (زمان‌بندی، نظارت، و تضمین‌های تخلف) ارائه می‌دهند؛ چون تا وقتی این بخش روشن نباشد، احتمال شکنندگی توافق بالا می‌ماند."
+        ],
+        "impact": "این مرحله می‌تواند یا مسیر تثبیت موقت آتش‌بس را فعال کند یا با فقدان تضمین‌های اجرایی، بحران را به نوسان‌های خطرناک جدید بکشاند.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": 0,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html",
+        "clean_url": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-us-israel-ceasefire-talks.html",
+        "image": null,
+        "timestamp": 1779541293.0
+    },
+    {
+        "title_fa": "قالیباف به میانجی‌گری پاکستان تکیه نکرد؛ پیام «عدم سازش با آمریکا» در شرایط بسته‌بودن تنگه هرمز",
+        "title_en": "Iran's top negotiator says Tehran will not compromise in talks with U.S.",
+        "summary": [
+            "محمدباقر قالیباف در تهران به رئیس ستاد ارتش پاکستان، اسیم منیر، گفت آمریکا شریک «صادق» در مذاکره برای پایان جنگ نیست و ایران بر «حقوق ملی» خود سازش نمی‌کند؛ این پیام همراه با رد امکان کنار آمدن سیاسی با طرف آمریکایی مطرح شد.",
+            "در همین نشست‌ها، از جمله دیدار منیر با مسعود پزشکیان و حضور عباس عراقچی، محور رایزنی «سند ۱۴ ماده‌ای» ایران به‌عنوان چارچوب مذاکرات و تبادل پیام‌ها میان دو طرف اعلام شد؛ یعنی تهران تلاش را در چارچوب امتیازدهی یک‌طرفه آمریکا تعریف نمی‌کند.",
+            "قالیباف هم‌زمان با ادعای «بازسازی توان» نیروهای مسلح در دوره آتش‌بس، هشدار داد اگر آمریکا جنگ را دوباره شروع کند، پیامدها «شدیدتر و تلخ‌تر» از آغاز خواهد بود؛ در نتیجه میانجی‌گری منطقه‌ای پاکستان برای کاهش شکاف‌ها، فعلاً با دیوار بی‌اعتمادی و شرط‌گذاری سخت ایران روبه‌رو است."
+        ],
+        "impact": "این موضع‌گیری احتمال دستیابی سریع به توافق را پایین می‌آورد و با توجه به اینکه تنگه هرمز برای بخش بزرگی از کشتیرانی بسته گزارش شده، ریسک اختلال پایدار در تجارت انرژی و تداوم فشار اقتصادی-امنیتی را بالا می‌برد.",
+        "tag": "مذاکره",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CNBC",
+        "url": "https://www.huffpost.com/entry/irans-top-negotiator-says-tehran-will-not-compromise-in-talks-with-us_n_6a11a206e4b084c012e70dad",
+        "clean_url": "https://www.huffpost.com/entry/irans-top-negotiator-says-tehran-will-not-compromise-in-talks-with-us_n_6a11a206e4b084c012e70dad",
+        "image": null,
+        "timestamp": 1779541234.0
+    },
+    {
         "title_fa": "ژنرال تندروی تحت تعقیب اینترپل به‌عنوان بازیگر کلیدی در جنگ ایران معرفی می‌شود (CNN)",
         "title_en": "A hardline general wanted by Interpol emerges as a key player in Iran war",
         "summary": [
@@ -88,6 +124,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGdNUHRiREpESUxxY0Z0WDZocGxZR2xMN1lOekZOSjQ2Q2k1XzBTQzM2S2ZjOHpISkVkaXhOQkxCWnoyZXFEWWZhVUNRRHN3M1JqTGdaejZsTGQ4LThuV0tVaFZsd3ZyRkQ4VVlQb3hJOGwxanNHTHFQR1pJQ1I1c1BKWVdCS2ZWOHhVcDJjREg4N1hXUzNXb1pIRWlaTTTSAaQBQVVfeXFMTkh4VEFUd19SS1J1UnB5RGF6d3FfNEswTTFHaGNXeC1iWHJ3X3VQTk80UDdCNDBoeEx3NzJaYWkwOXhxT0tIRDIzdGhGUUJtVzN1Rk96X0Fod2lMelZObGJxNWd6RXdydHB5M2JpQml4VWc1M1phbmhDLXBKcDBXaGVVNmluSWFMRVBtX19xVjNHdURwR3h0Vzh2c2dHWDI3RjlMSEE",
         "image": null,
         "timestamp": 1779519375.0
+    },
+    {
+        "title_fa": "ایران به ترامپ هشدار داد «شکست‌های بیشتر» در راه است؛ همزمان مذاکره و آماده‌باش نظامی تشدید شد",
+        "title_en": "Iran US War Live Updates: Iran Threatens ‘More Defeats’ For US As Trump Signals Readiness For Fresh Strikes",
+        "summary": [
+            "تهران به دونالد ترامپ هشدار داده در صورت نادیده‌گرفتن حقوق و منافع ایران، «شکست‌های بیشتر» برای آمریکا اعمال خواهد شد؛ با این حال مقامات ایرانی می‌گویند دیپلماسی هنوز ممکن است، اما هر توافق باید حاکمیت و مطالبات اصلی ایران را رعایت کند.",
+            "مذاکرات میان ایران و آمریکا از مسیر میانجی‌گری ادامه دارد، اما وزارت خارجه ایران اختلافات را «عمیق و جدی» توصیف کرده و این یعنی دست‌یابی به توافق هنوز نزدیک نیست؛ هم‌زمان گزارش‌ها از نشست سطح‌بالای شورای امنیت ملی آمریکا و بررسی «گزینه‌های نظامی» در صورت ناکامی دیپلماسی خبر می‌دهند.",
+            "میانجی‌ها فعال‌تر شده‌اند: رئیس ستاد ارتش پاکستان، اسیم منیر، به تهران سفر کرده و هیئتی از قطر هم وارد شده تا از تشدید بیشتر جلوگیری شود؛ در کنار آن نگرانی‌ها درباره امنیت هسته‌ای بالا گرفته، چون نشست سازمان ملل درباره NPT بدون توافق پایان یافته و اختلافات قدرت‌های بزرگ و مناقشه بر سر برنامه هسته‌ای ایران و حملات به تأسیسات مرتبط دوباره برجسته شده است."
+        ],
+        "impact": "ترکیبِ تهدید مستقیم، کندی مذاکرات و نشانه‌های آماده‌باش نظامی، ریسک بازگشت بحران به تقابل مستقیم را بالا می‌برد، در حالی که گره هسته‌ای و فقدان توافق بین‌المللی اهرم فشار را تشدید می‌کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.2,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-donald-trump-iran-news-israel-strait-of-hormuz-peace-talk-crude-oil-latest-news-liveblog-154382900",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-donald-trump-iran-news-israel-strait-of-hormuz-peace-talk-crude-oil-latest-news-liveblog-154382900",
+        "image": "http://www.bing.com/th?id=ONUT.ff4MPiNwhZIGEWpc0jZCiA&pid=News",
+        "timestamp": 1779519060.0
+    },
+    {
+        "title_fa": "ترامپ درباره از سرگیری حملات هوایی علیه ایران به سمت «پیروزی تعیین‌کننده» متمایل می‌شود؛ نتانیاهو از مذاکرات کنار زده شده",
+        "title_en": "Trump said weighing new Iran strikes as he seeks ‘decisive’ victory; Netanyahu frozen out of talks",
+        "summary": [
+            "طبق گزارش رسانه‌های آمریکا، ترامپ در آستانه تصمیم برای از سرگیری حملات هوایی جدید علیه ایران است، در حالی که نشست بررسی گزینه‌های نظامی با حضور ونس، وزیر دفاع، رئیس سیا و رئیس کارکنان کاخ سفید برگزار شده و احتمال هدف‌گیری بخش انرژی، سایت‌های موشکی احیاشده و تلاش برای ضربه به ذخایر اورانیوم بسیار غنی‌شده مطرح شده است.",
+            "تهران در واکنش هشدار داده است که در صورت ازسرگیری حملات آمریکا، پاسخ «خُردکننده» خواهد داد؛ هم‌زمان آصف مونیَر، رئیس ستاد ارتش پاکستان، برای میانجی‌گری به تهران سفر کرده تا راه‌حل دیپلماتیک پیدا شود، اما ترامپ گفته در صورت عدم جمع‌بندی فوری، همچنان به سمت حمله متمایل است.",
+            "این گزارش‌ها همچنین می‌گویند ترامپ از روند مذاکرات در چند روز گذشته خسته شده و حتی امکان اجرای یک عملیات بزرگ «نهایی» را برای اعلام «پیروزی قطعی» مطرح کرده؛ در همین راستا، CBS از لغو برنامه‌های برخی پرسنل نظامی و اطلاعاتی آمریکا برای تعطیلات آخر هفته خبر داده که نشان‌دهنده نزدیک بودن سطح آمادگی عملیاتی است."
+        ],
+        "impact": "افزایش احتمال حمله مستقیم آمریکا، ریسک تشدید فوری بحران و تبدیل میانجی‌گری به شکست را بالا می‌برد و هم‌زمان با تهدید پاسخ «خُردکننده» از سوی تهران، احتمال چرخه حمله-پاسخ را تشدید می‌کند.",
+        "tag": "ایران-آمریکا",
+        "urgency": 10,
+        "sentiment": -0.7,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/trump-said-weighing-new-strikes-as-he-seeks-decisive-victory-amid-frustration-with-iran-talks/",
+        "clean_url": "https://www.timesofisrael.com/trump-said-weighing-new-strikes-as-he-seeks-decisive-victory-amid-frustration-with-iran-talks",
+        "image": "http://www.bing.com/th?id=ONUT.b4wYqp1moAPVP95s_E-Mgw&pid=News",
+        "timestamp": 1779518820.0
+    },
+    {
+        "title_fa": "تهران و واشنگتن در مسیر تشدید؛ هشدار «پاسخ خردکننده» و گزارش بررسی حملات تازه آمریکا",
+        "title_en": "Iran-Israel war LIVE: Iran chief negotiator vows 'crushing' response if U.S. returns to war",
+        "summary": [
+            "مذاکره‌گر ارشد ایران با ادعای «پاسخ خردکننده» در صورت بازگشت آمریکا به جنگ، هم‌زمان با گزارش‌های رسانه‌ای درباره بررسی حملات تازه از سوی دونالد ترامپ، سطح تهدیدها را بالا برد؛ نشانه‌ای از آمادگی عملیاتی تهران برای برخورد تهاجمی‌تر است.",
+            "گزارش می‌گوید پاکستان و قطر برای میانجی‌گری به تهران آمدند و پاکستان با هدف کاهش تشدید، گفت‌وگوهایش را با محمدباقر قالیباف و عباس عراقچی (وزیر خارجه) پیش برد؛ اما دستورکار اصلی طرفین همچنان «جلوگیری از تشدید» است نه قطع واقعی ریشه جنگ.",
+            "در کنار هشدارهای تهران، گزارش می‌گوید آمریکا در صورت ناکامی مذاکرات «در آخرین لحظات» جدی‌تر به حملات تازه فکر می‌کند؛ یعنی مکانیزم تصمیم در واشنگتن متکی به نتیجه مذاکرات نیست و خودِ روند جنگ می‌تواند مستقل از توافق، ادامه یابد."
+        ],
+        "impact": "افزایش لحن تهدیدآمیز تهران همراه با چراغ‌سبز احتمالی برای حملات جدید آمریکا، احتمال جهش سریع بحران را بالا می‌برد و «میانجی‌گری» را به یک مانع کوتاه‌مدت تبدیل می‌کند.",
+        "tag": "ایران-اسرائیل",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-donald-trump-us-iran-peace-talks-live-updates-may-23-2026/article71013439.ece",
+        "clean_url": "https://www.thehindu.com/news/international/iran-israel-war-west-asia-conflict-donald-trump-us-iran-peace-talks-live-updates-may-23-2026/article71013439.ece",
+        "image": "http://www.bing.com/th?id=ONUT.5Gu2cP7u1phVazkNNPJ77g&pid=News",
+        "timestamp": 1779518160.0
     },
     {
         "title_fa": "سه ماهه: آیا ترامپ در جنگ علیه ایران در حال عقب‌نشینی است؟",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-updates-strait-hormuz-trump-israel-lebanon-ceasefire-petrol-diesel-price-today-araghchi-stock-market-101778978896275.html",
         "image": "http://www.bing.com/th?id=ONUT.be_--snpzTthwnytsdhhZg&pid=News",
         "timestamp": 1778988300.0
-    },
-    {
-        "title_fa": "اسرائیل: قرار گرفتن نیروهای نظامی در «بالاترین آمادگی» برای جنگ احتمالی با ایران",
-        "title_en": "Israel says military at highest readiness level for possible Iran war",
-        "summary": [
-            "طبق گزارش Middle East Eye، اسرائیل اعلام کرده نیروهای نظامی را در «بالاترین سطح آمادگی» برای احتمال وقوع جنگ علیه ایران قرار داده است؛ یعنی رژیم تهران با یک سناریوی تشدید مستقیم مواجه می‌شود.",
-            "این نوع اعلام آمادگی، فشار خارجیِ فوری بر محاسبات سیاسی و امنیتی تهران وارد می‌کند و می‌تواند دست‌کم در کوتاه‌مدت ریسک تصمیم‌گیری‌های پرهزینه و محاسبه‌نشده را بالا ببرد، چون زمان واکنش محدودتر می‌شود.",
-            "از متن خبر، جزئیات مربوط به تحرکات میدانی مشخص یا وجود حمله قطعی ذکر نشده؛ بنابراین محور گزارش، «آمادگی نظامی» و پیام بازدارندگی/تهدید است، نه تأییدِ درگیری بالفعل."
-        ],
-        "impact": "افزایش سطح آمادگی نظامی اسرائیل احتمال مواجهه مستقیم و جهش سریع تنش‌ها را بالا می‌برد، در حالی که شواهدی از وقوع قطعی حمله در متن ارائه نشده است.",
-        "tag": "امنیت",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Middle East Eye",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU01rUmI3WWxSVW84dkdyZDI3WjdNbWlWbzZtbjVCcFV3Z1UxRk5lcVFDWkl0Z1FDZUZoazBDd0NVQjlfTjZBcGduWktuNjJJYnNCbV9CWmt5T0h1bkFXTVNFMGhtS1RvazVqQjBNUlBkd2pNbmhCZFYxbXgzVjhEbkxLbkNyelpXQmdjdWpmdWlxd0NTWFhRckY4NXk0c2l5dFZRVml3OC1RcnZ0N3RwSkQ5YzdialJOa19r?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU01rUmI3WWxSVW84dkdyZDI3WjdNbWlWbzZtbjVCcFV3Z1UxRk5lcVFDWkl0Z1FDZUZoazBDd0NVQjlfTjZBcGduWktuNjJJYnNCbV9CWmt5T0h1bkFXTVNFMGhtS1RvazVqQjBNUlBkd2pNbmhCZFYxbXgzVjhEbkxLbkNyelpXQmdjdWpmdWlxd0NTWFhRckY4NXk0c2l5dFZRVml3OC1RcnZ0N3RwSkQ5YzdialJOa19r",
-        "image": null,
-        "timestamp": 1778987100.0
-    },
-    {
-        "title_fa": "ابهام درباره تلفات «جنگ ایران» در گزارش DD News",
-        "title_en": "How many people have been killed in the Iran war?",
-        "summary": [
-            "DD News بدون ارائه هیچ رقم یا منبع مشخص، صرفاً یک پرسش درباره میزان تلفات «جنگ ایران» مطرح کرده است؛ بنابراین هیچ داده قابل راستی‌آزمایی در متن وجود ندارد.",
-            "فقدان آمار رسمی/مستند در گزارش، امکان ارزیابی پیامد انسانی و اثر آن بر بی‌ثباتی داخلی را از بیرون سلب می‌کند و تنها فضای تبلیغاتی/اطلاعاتی ایجاد می‌شود.",
-            "با توجه به نبود جزئیات درباره مکان، زمان، بازیگران درگیر یا تعداد کشته‌شدگان، نمی‌توان این خبر را به هیچ تصمیم یا روند اقتصادی-سیاسی مشخص رژیم یا مخالفان گره زد."
-        ],
-        "impact": "این گزارش عملاً اطلاعات عملیاتی ارائه نمی‌دهد و برای تحلیل تلفات، ابعاد بحران و پیامدهای داخلی رژیم، قابل اتکا نیست.",
-        "tag": "اطلاع_غلط",
-        "urgency": 1,
-        "sentiment": -0.2,
-        "source": "DD News",
-        "url": "https://www.reuters.com/world/middle-east/how-many-people-have-been-killed-us-israel-war-iran-2026-04-07/",
-        "clean_url": "https://www.reuters.com/world/middle-east/how-many-people-have-been-killed-us-israel-war-iran-2026-04-07",
-        "image": null,
-        "timestamp": 1778986314.0
-    },
-    {
-        "title_fa": "تهران: آماده درگیری است؛ ترامپ درباره «زمان بسیار بد» هشدار داد",
-        "title_en": "Iran says it is ready for conflict as Trump warns of 'bad time'",
-        "summary": [
-            "تهران اعلام کرده اگر گفت‌وگوهای صلح نتیجه ندهد، برای درگیری آماده است؛ هم‌زمان ترامپ از «زمان بسیار بد» برای طرف مقابل سخن گفته است.",
-            "در گزارش به این نکته اشاره می‌شود که ترامپ احتمالاً متن کامل پاسخ تهران را نخوانده یا برداشتش با ادامه پاسخ تهران هم‌راستا نبوده است؛ یعنی پیام‌ها بیشتر در سطح تهدید و بازدارندگی سیاسی باقی مانده‌اند.",
-            "چنین تقابلی نشان می‌دهد مسیر مذاکرات به‌عنوان اهرم فشار برای افزایش قدرت چانه‌زنی فعال شده، نه به‌عنوان چارچوبی برای کاهش ریسک درگیری."
-        ],
-        "impact": "افزایش لحن تهدیدآمیز، خطر لغزش به تنش مستقیم را بالا می‌برد، حتی اگر هنوز نشانه‌ای از شروع عملی جنگ در گزارش ارائه نشده باشد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-says-it-is-ready-for-conflict-as-trump-warns-of-bad-time-live/ar-AA23ecEg",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-says-it-is-ready-for-conflict-as-trump-warns-of-bad-time-live/ar-AA23ecEg",
-        "image": "http://www.bing.com/th?id=ONUT.k9jUeQH5yQp0Y-vwjkZwNQ&pid=News",
-        "timestamp": 1778983193.0
-    },
-    {
-        "title_fa": "بررسی: ترامپ در حال ارزیابی حمله علیه ایران است؛ همزمان اسرائیل برای تشدید درگیری آماده می‌شود",
-        "title_en": "Trump considers Iran strikes as Israel readies for potential war escalation",
-        "summary": [
-            "بر اساس گزارش «Crypto Briefing»، دونالد ترامپ «در حال بررسی» گزینه‌های حمله علیه ایران است؛ سطح قطعیت اقدام عملی مشخص نشده، اما خودِ طرح‌ریزی درگیری مستقیم را جدی می‌کند.",
-            "در همین چارچوب، همزمان با بررسی حملات از سوی آمریکا، اسرائیل نیز «آماده‌سازی برای تشدید احتمالی» را آغاز کرده است؛ یعنی احتمال افزایش چرخه پاسخ‌متقابل در منطقه بالا می‌رود.",
-            "رابطه این خبر با اقتصاد و مردم ایران در متن به‌طور مستقیم نیامده، اما جهت‌گیری به سمت درگیری نظامی معمولاً ریسک شوک‌های امنیتی و بی‌ثباتی سیاسی-اقتصادی را افزایش می‌دهد."
-        ],
-        "impact": "این خبر—حتی در سطح «بررسی»—ریسک ورود به فاز تشدید نظامی را بالا می‌برد و می‌تواند به بی‌ثباتی گسترده‌تر منطقه و فشارهای فزاینده بر ایران منجر شود.",
-        "tag": "تشدیدنظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFNOX0wxNzdvYmtTRzBSN1lNTGdwVzFIS1pobngxajhKQ3QxSnlfR1EwbXJoWGE4UGVMRk5OTWdzdTZUNUlWWmUzVGJPN0JPMVI2ZkJqa0pQMV9fYXAwaXRYTTlWeWk4djBGYVVWRDNOUXdKQ3pvVWVJT19ReWQta0R4Tl9KZVdIRm9PRVl0QXpuSDJ2OEdWNjNNeVV3am0zdHJ1a2hR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFNOX0wxNzdvYmtTRzBSN1lNTGdwVzFIS1pobngxajhKQ3QxSnlfR1EwbXJoWGE4UGVMRk5OTWdzdTZUNUlWWmUzVGJPN0JPMVI2ZkJqa0pQMV9fYXAwaXRYTTlWeWk4djBGYVVWRDNOUXdKQ3pvVWVJT19ReWQta0R4Tl9KZVdIRm9PRVl0QXpuSDJ2OEdWNjNNeVV3am0zdHJ1a2hR",
-        "image": null,
-        "timestamp": 1778977357.0
-    },
-    {
-        "title_fa": "محکومیت ترور رهبر حماس توسط آقراقی در کنار تهدید به تشدید و مانور تدارکاتی برای تنگه هرمز",
-        "title_en": "US-Iran War LIVE Updates: Iran FM Araghchi condems Hamas commander's assassination",
-        "summary": [
-            "کاظم آقراقی وزیر خارجه ایران ترور یک فرمانده حماس را محکوم کرد؛ همزمان خبرها نشان می‌دهد واشنگتن و تهران در لحن تهدیدآمیز درباره ضرورت دستیابی سریع به توافق صلح درگیرند.",
-            "ایران اعلام کرده «به‌زودی» برنامه مدیریت عبور‌ومرور از تنگه هرمز را رونمایی می‌کند و طبق گزارش‌ها احتمال بررسی «سیستم عوارض» برای این آبراه مطرح است؛ اقدامی که می‌تواند اهرم فشار عملیاتی و ریسک اختلال در تجارت جهانی را بالا ببرد.",
-            "هم‌زمان آتش در جنوب لبنان ادامه دارد؛ اسرائیل همچنان بمباران می‌کند و در سطح منطقه‌ای نیز همسو با روایت‌های جنگی، افزایش تنش میان اسرائیل و حزب‌الله گزارش شده است. همچنین قزاقستان ۳۰ واگن کمک انسان‌دوستانه به ایران ارسال کرده، چون ایران پس از ماه‌ها درگیری با آمریکا و اسرائیل با بحران اقتصادی جدی دست‌وپنجه نرم می‌کند."
-        ],
-        "impact": "ترکیب محکومیت ترور، تهدیدهای سیاسی و برنامه‌ریزی برای مدیریت/عوارض تنگه هرمز می‌تواند مسیر گفت‌وگوها را کوتاه‌مدت نگه دارد اما هم‌زمان ریسک تشدید و شوک اقتصادی را بالا می‌برد.",
-        "tag": "هشدار",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/us-israel-iran-war-news-live-updates-donald-trump-tehran-strait-of-hormuz-crude-oil-price-israel-liveblog-19907406.htm",
-        "clean_url": "https://www.cnbctv18.com/world/us-israel-iran-war-news-live-updates-donald-trump-tehran-strait-of-hormuz-crude-oil-price-israel-liveblog-19907406.htm",
-        "image": "http://www.bing.com/th?id=ONUT.28r96ZJ_vv39-LrpQF5G-Q&pid=News",
-        "timestamp": 1778976900.0
     }
 ]
