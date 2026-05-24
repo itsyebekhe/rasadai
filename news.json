@@ -162,6 +162,42 @@
         "timestamp": 1779627720.0
     },
     {
+        "title_fa": "پای‌زدن ترامپ به منتقدان «توافق صلح» با ایران؛ اما متن ارائه‌شده فقط صفحه فنی است",
+        "title_en": "Trump jabs at 'losers' criticizing Iran peace deal. Live updates",
+        "summary": [
+            "عنوان از «طعنه ترامپ» به منتقدان توافق صلح با ایران خبر می‌دهد، ولی متنِ در دسترس از منبع فقط پیام مربوط به ناسازگاری مرورگر است و جزئیات سیاسی/امنیتی یا محتوای توافق را ارائه نمی‌کند.",
+            "در داده فعلی، هیچ اطلاعات قابل راستی‌آزمایی درباره تحریم‌ها، فشار خارجی مشخص، اقدام نظامی یا برنامه‌های اجرایی جدید وجود ندارد؛ بنابراین نمی‌توان اثرات ساختاری بر اقتصاد یا ثبات حکمرانی را از همین متن استخراج کرد.",
+            "همچنین هیچ اشاره‌ای به نقش روسیه/چین/کره شمالی، یا گزارش‌های مشخص از اعتراضات داخلی یا نشانه‌های فروپاشی اقتصادی در محتوای قابل مشاهده وجود ندارد."
+        ],
+        "impact": "با توجه به اینکه متن موجود فاقد جزئیات خبری درباره توافق، تحریم یا اقدام اجرایی است، اثرگذاری تحلیلی قابل اتکا از این منبع فعلاً محدود می‌ماند.",
+        "tag": "دیپلماسی",
+        "urgency": 2,
+        "sentiment": -0.2,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/news/world/2026/05/24/iran-war-live-updates-trump-deal-negotiated--live/90241862007/",
+        "clean_url": "https://www.usatoday.com/story/news/world/2026/05/24/iran-war-live-updates-trump-deal-negotiated--live/90241862007",
+        "image": "http://www.bing.com/th?id=ONUT.p9qmkRS8X9I3YTcQukMoyw&pid=News",
+        "timestamp": 1779626700.0
+    },
+    {
+        "title_fa": "ایران «در اصل» با دفع اورانیوم غنی‌شده بسیار بالا موافقت کرد؛ توافق بزرگ‌تر پایان جنگ نه فوراً",
+        "title_en": "Iran agrees in principle to dispose of highly-enriched uranium, official says",
+        "summary": [
+            "یک مقام ارشد ترامپ می‌گوید مذاکرات برای دفع اورانیوم غنی‌شده بسیار بالا «در جای خیلی خوبی» قرار دارد، اما هنوز زمان‌بندی نهایی مشخص نشده است.",
+            "هم‌زمان اعلام شده که احتمال دارد توافق برای پایان جنگ تا این آخرهفته امضا نشود؛ یعنی پیشرفت در یک محور فنی/هسته‌ای لزوماً به معنی جمع شدن کل پرونده در کوتاه‌مدت نیست.",
+            "این وضعیت نشان می‌دهد رژیم می‌تواند با امتیازهای مرحله‌ای (در سطح «اصل») روند را مدیریت کند، در حالی که موضوعات پیوندخورده به پایان جنگ و سایر شروط، مانع جمع‌بندی سریع می‌ماند."
+        ],
+        "impact": "این توافق مرحله‌ای فقط یک گام مدیریت‌شده در مذاکره است و احتمالاً اثر فوریِ پایان‌دادن به فشارهای کلان یا جمع شدن کامل پرونده جنگ را به تأخیر می‌اندازد.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "CBS News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-agrees-in-principle-to-dispose-of-highly-enriched-uranium-official-says/ar-AA23XhkA",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-agrees-in-principle-to-dispose-of-highly-enriched-uranium-official-says/ar-AA23XhkA",
+        "image": "http://www.bing.com/th?id=ONUT.0rZlL5ArWlsPo7s1BVbTYg&pid=News",
+        "timestamp": 1779626330.0
+    },
+    {
         "title_fa": "پیامدهای «توافق ترامپ با ایران»؛ فشار جدید بر معادلات امنیتی خاورمیانه",
         "title_en": "Middle East Grapples With the Downsides of a Trump Deal With Iran",
         "summary": [
@@ -214,6 +250,24 @@
         "clean_url": "https://www.boisestatepublicradio.org/2026-05-23/trump-touts-iran-breakthrough-but-details-remain-unclear",
         "image": null,
         "timestamp": 1779619502.0
+    },
+    {
+        "title_fa": "حمله کاخ سفید به پومپئو و کروز؛ روایت «تهدید» مذاکرات صلح با ایران در بحبوحه تلاش ترامپ برای توافق دنکل‌سازی",
+        "title_en": "White House blasts Cruz, Pompeo for trashing Trump peace efforts as Iran appeasement",
+        "summary": [
+            "کاخ سفید از درون خود علیه میک پومپئو و سن تد کروز موضع گرفت و آن‌ها را به تضعیف مذاکرات یا سوءاستفاده غیرقانونی از دسترسی‌های امنیتی باقیمانده متهم کرد؛ استیون چئونگ صراحتاً پومپئو را «بی‌اطلاع» خواند و خواست «حرف نزند».",
+            "همزمان، دونالد ترامپ در شبکه اجتماعی از مذاکرات جاری با ایران دفاع کرد و تأکید نمود «بن‌بست/محاصره» تا رسیدن به توافق، راستی‌آزمایی و امضای نهایی در جریان می‌ماند و گفت هیچ خطایی نباید رخ دهد؛ او در عین حال تلاش برای توافق را از جنس «معامله بدِ اوباما» معرفی نمی‌کند.",
+            "چالش اصلی در این گزارش، نه جزئیات فنی توافق، بلکه رقابت سیاسی-امنیتی داخل جبهه جمهوری‌خواه است: افرادی مثل پومپئو از خطر تکرار الگوی اوباما می‌گویند، در حالی که کاخ سفید می‌کوشد روند مذاکرات را به «کار حرفه‌ای‌ها» محدود و مخالفان را بی‌اثر کند."
+        ],
+        "impact": "این کشمکش داخلی در واشنگتن احتمال تغییر لحن و ریسک تأخیر/اختلاف در مسیر مذاکرات را بالا می‌برد، اما در داده‌های این متن هنوز نشانه مستقیم از «قطعیت» یا «شکست» توافق دیده نمی‌شود.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/white-house-blasts-cruz-pompeo-134205230.html",
+        "clean_url": "https://www.aol.com/articles/white-house-blasts-cruz-pompeo-134205230.html",
+        "image": "http://www.bing.com/th?id=ONUT.RW0AQVE8YOIrp-zAkGWjxA&pid=News",
+        "timestamp": 1779618780.0
     },
     {
         "title_fa": "خشم و بی‌اعتمادی عمومی نسبت به احتمال توافق آمریکا-ایران",
@@ -700,6 +754,24 @@
         "clean_url": "https://www.washingtonpost.com/national-security/2026/05/23/us-seeks-iran-ceasefire-extension-war-threats-loom",
         "image": null,
         "timestamp": 1779583665.0
+    },
+    {
+        "title_fa": "ادامه مذاکره آمریکا و ایران بر سر جزئیات؛ محاصره دریایی تا زمان رسیدن به توافق برقرار است",
+        "title_en": "US and Iran still negotiating key terms as officials signal progress on peace deal",
+        "summary": [
+            "بر اساس گزارش CNN، مذاکره آمریکا و ایران هنوز در مرحله نهایی‌سازی «شرایط کلیدی» است و با وجود سیگنال‌های پیشرفت، امضای توافق تا یکشنبه انتظار نمی‌رود؛ یک مقام ارشد آمریکایی نیز تأکید کرده جزئیات اصلی هنوز نهایی نشده است.",
+            "دو محور اصلی اختلاف/تکمیل جزئیات شامل تنگه هرمز و برنامه هسته‌ای ایران است: تهران «در اصول» به بازگشایی تنگه و همچنین دفع ذخایر اورانیوم بسیار غنی‌شده متعهد شده، اما مذاکرات برای تعیین دقیق سازوکارها ادامه دارد.",
+            "موضوعات فنی-اقتصادی شامل «رفع/تعلیق تحریم‌ها» و «آزادسازی دارایی‌های مسدودشده» هنوز در حال چکش‌کاری است؛ در عین حال، ترامپ اعلام کرده محاصره/انسداد بنادر ایران تا زمان رسیدن به یک توافق ادامه خواهد داشت."
+        ],
+        "impact": "ادامه انسداد بنادر همراه با ابهام در بسته تحریمی و آزادسازی دارایی‌ها یعنی فشار اقتصادی به‌عنوان اهرم چانه‌زنی حفظ می‌شود و هم‌زمان امکان تبدیل پیشرفت لفظی به توافق واقعی هنوز قطعی نیست.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/05/24/world/live-news/iran-war-news",
+        "clean_url": "https://www.cnn.com/2026/05/24/world/live-news/iran-war-news",
+        "image": "http://www.bing.com/th?id=ONUT.uwubBNC7WYC_mRDTP_9HSQ&pid=News",
+        "timestamp": 1779580140.0
     },
     {
         "title_fa": "گزارش: ایران پذیرفته ذخایر اورانیوم را تحویل دهد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.usatoday.com/story/news/world/2026/05/18/iran-war-us-trump-strait-of-hormuz-updates--live/90133352007",
         "image": "http://www.bing.com/th?id=ONUT.qIcMkAPnaTkHrpsfwwBvvw&pid=News",
         "timestamp": 1779111360.0
-    },
-    {
-        "title_fa": "ایران پوشش بیمه کشتیرانی از تنگه هرمز را با بیت‌کوین انجام می‌دهد",
-        "title_en": "Iran turns to bitcoin for shipping insurance through the Strait of Hormuz",
-        "summary": [
-            "این گزارش می‌گوید ایران برای بیمه و پوشش ریسک حمل‌ونقل از مسیر تنگه هرمز به بیت‌کوین روی آورده است؛ یعنی به‌جای ابزارهای مالی مرسوم، از سازوکار رمزارز برای دور زدن محدودیت‌ها استفاده می‌کند.",
-            "نشانه‌گذاری ضمنی این اقدام، فشار ساختاری بر کانال‌های مالی و بیمه‌گری تحت کنترل یا محدودیت‌های خارجی است؛ چون نیاز به روش جایگزین، خودِ ضعف در دسترسی به ابزارهای استاندارد را برجسته می‌کند.",
-            "جزئیات گزارش در متن ارسالی محدود است، اما همین انتخاب رمزارز برای «بیمه کشتیرانی» می‌تواند هزینه‌/ریسک عملیاتی را تغییر دهد و وابستگی به راهکارهای غیرمتعارف را برای جریان تجارت و صادرات بیشتر کند."
-        ],
-        "impact": "روی آوردن به بیت‌کوین برای بیمه مسیر حساس هرمز، بیانگر تشدید فشارهای مالی و افزایش اتکای عملیاتی به کانال‌های پرریسک و غیرمتعارف است.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Insider",
-        "url": "https://www.businessinsider.com/iran-bitcoin-strait-of-hormuz-crypto-oil-trump-btc-trump-2026-5",
-        "clean_url": "https://www.businessinsider.com/iran-bitcoin-strait-of-hormuz-crypto-oil-trump-btc-trump-2026-5",
-        "image": "http://www.bing.com/th?id=ONUT.WMQRSJRfGyX8YhCJL-ldoQ&pid=News",
-        "timestamp": 1779107700.0
-    },
-    {
-        "title_fa": "ترامپ ضربه جدید به ایران را به‌دنبال درخواست سران متحدان خلیج فارس عقب انداخت",
-        "title_en": "Trump says holding off on new Iran strikes after Gulf appeal",
-        "summary": [
-            "ترامپ اعلام کرد که برنامه یک حمله جدید علیه ایران در روز سه‌شنبه را پس از درخواست و رایزنی سران کشورهای متحد خلیج فارس لغو کرده است.",
-            "عامل تعیین‌کننده این تصمیم «درخواست برای زمان بیشتر» جهت پیگیری مسیر دیپلماتیک بوده؛ یعنی فشار نظامی به‌صورت موقت تعلیق شده، نه حذف.",
-            "این اقدام به‌طور مستقیم نشان می‌دهد که پویایی تصمیم‌گیری واشینگتن در قبال ایران می‌تواند تحت اثر هماهنگی منطقه‌ای قرار گیرد و سطح تهدید فوری، دست‌کم برای کوتاه‌مدت، کاهش یافته است."
-        ],
-        "impact": "تعلیق ضربه برنامه‌ریزی‌شده، مهلتی برای کانال‌های دیپلماتیک فراهم می‌کند اما سناریوی درگیری را از دستور کار خارج نمی‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-says-holding-off-on-new-iran-strikes-after-gulf-appeal/ar-AA23vsa7",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-holding-off-on-new-iran-strikes-after-gulf-appeal/ar-AA23vsa7",
-        "image": "http://www.bing.com/th?id=ONUT.-X72AhjQ_UBw6OD7A7xoHA&pid=News",
-        "timestamp": 1779106761.0
-    },
-    {
-        "title_fa": "پیشنهاد بازنگری‌شده ایران برای پایان جنگ؛ مذاکره با آمریکا از مسیر اعلام‌شده توسط منبع پاکستانی",
-        "title_en": "Revised Iranian proposal to end war shared with US, Pakistani source says",
-        "summary": [
-            "طبق گزارش رویترز، ایران یک پیشنهاد بازنگری‌شده برای پایان جنگ ارائه کرده و یک منبع پاکستانی گفته این پیشنهاد به آمریکا هم منتقل شده است.",
-            "این رویداد بیشتر یک اقدام دیپلماتیک/اطلاعاتی است تا نشانه عملی از پایان درگیری؛ جزئیات محتوای پیشنهاد و واکنش طرف آمریکایی در متن ارائه نشده است.",
-            "چنین رفتاری می‌تواند نشان‌دهنده تلاش ایران برای کنترل هزینه‌های منطقه‌ای و مدیریت ریسک تشدید باشد، اما بدون داده‌های تأییدی درباره اجرا، صرفاً در سطح اعلام/اشتراک باقی می‌ماند."
-        ],
-        "impact": "اشتراک پیشنهاد بازنگری‌شده با آمریکا می‌تواند مسیر مذاکرات را باز کند، اما چون متن به اقدام اجرایی و زمان‌بندی الزام‌آور اشاره ندارد، اثر فوری آن بر کاهش واقعی جنگ نامشخص است.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-gb/news/world/revised-iranian-proposal-to-end-war-shared-with-us-pakistani-source-says/ar-AA23tRmL",
-        "clean_url": "https://www.msn.com/en-gb/news/world/revised-iranian-proposal-to-end-war-shared-with-us-pakistani-source-says/ar-AA23tRmL",
-        "image": null,
-        "timestamp": 1779105524.0
-    },
-    {
-        "title_fa": "تهدید دوباره ترامپ علیه ایران؛ اهرم هسته‌ای در آستانه تشدید تنش",
-        "title_en": "Trump Threatens Iran as Tensions Surge Again in Middle East",
-        "summary": [
-            "ترامپ با هدف وادار کردن ایران به پذیرش شروط او درباره برنامه هسته‌ای، تهدید کرده که در صورت عدم پذیرش، جنگ دوباره از سر گرفته می‌شود؛ یعنی فشار از مسیر «هسته‌ای» مستقیم به سمت سناریوی تقابل نظامی می‌رود.",
-            "ایران به درخواست‌های ترامپ پاسخ منفی داده و نشان داده که حاضر نیست در چارچوب شروط فعلی عقب‌نشینی کند؛ این عقب‌نماندن، خطر اشتباه محاسباتی و افزایش سطح درگیری را بالا می‌برد.",
-            "در سطح راهبردی، این چرخش به سمت «تهدید جنگ در صورت رد شروط»، نشانه انسداد مسیر مذاکره تحت فشار است: هرچه ایران مقاومت کند، احتمال اقدام‌های تنبیهی یا درگیری‌های محدود می‌تواند بیشتر شود."
-        ],
-        "impact": "این وضعیت احتمال تشدید سریع تنش‌ها را افزایش می‌دهد چون فشار هسته‌ای با تهدید جنگ ترکیب شده و طرف ایران به آن تمکین نکرده است.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
-        "clean_url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
-        "image": "https://static01.nyt.com/images/2026/05/19/multimedia/19iran-trump-vfgk/19iran-trump-vfgk-facebookJumbo.jpg",
-        "timestamp": 1779105300.0
     }
 ]
