@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "۵ مسئله کلیدی برای حل‌وفصل در یک توافق صلح ایران و آمریکا",
+        "title_en": "These Are 5 of the Main Issues to Be Resolved in an Iran-U.S. Peace Deal",
+        "summary": [
+            "این گزارش چارچوب مذاکره بالقوه میان ایران و آمریکا را به چند محور عملیاتی محدود می‌کند، یعنی روندی که اگر به نتیجه برسد می‌تواند ابزارهای فشار خارجی و هزینه‌های سیاسی-اقتصادی رژیم را بازتعریف کند.",
+            "تمرکز بر «مسائل قابل حل» به‌طور ضمنی نشان می‌دهد که گره اصلی پرونده ایران با آمریکا، نه شعارهای سیاسی، بلکه موانع مشخص در حوزه‌های حساس توافق‌های هسته‌ای/تحریمی و سازوکارهای نظارت و تضمین است (بدون ارائه جزئیات در متن ارسالی).",
+            "با توجه به اینکه متنِ ارسالی فقط عنوان و قالب لینک‌دهی دارد و جزئیات پنج مورد ذکر نشده، نمی‌توان درباره اثر مستقیم بر اقتصاد یا احتمال اعتراضات داخلی اظهارنظر دقیق کرد؛ اما نفسِ ورود به فاز حل‌وفصل، معمولاً می‌تواند موقتاً فشار را از مسیرهای بیرونی کاهش دهد و محاسبات داخلی بازیگران را تغییر دهد."
+        ],
+        "impact": "ورود احتمالی به مذاکره برای حل‌وفصل مسائل مشخص، می‌تواند ساختار فشار خارجی را دگرگون کند و روی ثبات سیاسی-اقتصادی رژیم اثر موقت بگذارد، اما بدون جزئیات پنج محور، میزان و جهت اثر هنوز قابل سنجش نیست.",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/24/world/middleeast/five-main-issues-iran-israel-nuclear.html",
+        "clean_url": "https://www.nytimes.com/2026/05/24/world/middleeast/five-main-issues-iran-israel-nuclear.html",
+        "image": "https://static01.nyt.com/images/2026/05/24/multimedia/24int-iran-five-issues-ooooo1-bwqz/24int-iran-five-issues-ooooo1-bwqz-facebookJumbo.jpg",
+        "timestamp": 1779635280.0
+    },
+    {
+        "title_fa": "رهبران اسرائیل درباره احتمال توافق ایران-ترامپ موضع‌گیری مبهم نگه داشتند",
+        "title_en": "Israeli Leaders Say Little About Trump's Potential Iran Deal",
+        "summary": [
+            "طبق گزارش، رهبران اسرائیلی هنگام بحث درباره امکان توافق آینده با ایران توسط دولت ترامپ، اطلاعات و مواضع مشخصی ارائه نکرده‌اند.",
+            "این سکوت/ابهام، اهرم فشار سیاسی اسرائیل را در پرونده هسته‌ای و منطقه‌ای محدود نمی‌کند، اما نشان می‌دهد اسرائیل در حال مدیریت ریسک توافق و تلاش برای ارزیابی پیامدهاست.",
+            "عدم شفافیت از سوی اسرائیل می‌تواند برای طرف‌های درگیر، از جمله ایران و میانجی‌ها، فضای عدم‌قطعیت ایجاد کند و روند تصمیم‌گیری را کندتر و شکننده‌تر کند."
+        ],
+        "impact": "ابهام اسرائیلی درباره توافق بالقوه، احتمالاً مانع شکل‌گیری اجماع سریع و افزایش سطح محاسبه‌گری و عدم‌اطمینان در پرونده ایران می‌شود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html",
+        "clean_url": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html",
+        "image": "https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-reax-1-wgcf/24int-israel-reax-1-wgcf-facebookJumbo.jpg",
+        "timestamp": 1779634020.0
+    },
+    {
         "title_fa": "شکل‌گیری جزئیات توافق احتمالی ایران و آمریکا برای پایان جنگ؛ مسیر باز شدن تدریجی تنگه هرمز و برنامه محدودسازی برنامه هسته‌ای",
         "title_en": "Iran-Israel war LIVE: Details of a deal begin to emerge as Rubio says possibility of 'good news' today",
         "summary": [
@@ -144,6 +180,24 @@
         "timestamp": 1779615614.0
     },
     {
+        "title_fa": "گمانه‌زنی درباره آتش‌بس ۶۰روزه با ایران؛ مذاکره در فاز نهایی",
+        "title_en": "Potential 60-day ceasefire on table with Iran deal",
+        "summary": [
+            "طبق گزارش NewsNation، ترامپ از «جزئیات نهایی» مذاکره برای یک توافق خبر داده که «به‌زودی اعلام» می‌شود و محور آن می‌تواند آتش‌بس ۶۰روزه باشد.",
+            "این وضعیت بیشتر یک حرکت دیپلماتیک برای کنترل ریسک در کوتاه‌مدت است تا حل ریشه‌ای؛ چون متن گزارش بر مراحل نهایی گفت‌وگو تمرکز دارد، نه بر ضمانت‌ها یا چارچوب الزام‌آور.",
+            "با توجه به نبود جزئیات در متن ارسالی، نمی‌توان درباره اثر فوری آن بر اقتصاد یا کاهش فشار خارجی حکم قطعی داد؛ اما هر آتش‌بسی از این جنس معمولاً فرصت تنفس برای مدیریت داخلی و تنظیم مجدد محاسبات هزینه-فایده فراهم می‌کند."
+        ],
+        "impact": "آتش‌بس احتمالی ۶۰روزه می‌تواند تنش را برای مدتی مهار کند، اما چون متن گزارش جزئیات و شروط را روشن نکرده، اثر پایدار و قابل راستی‌آزمایی هنوز مشخص نیست.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "NewsNation",
+        "url": "https://www.newsnationnow.com/world/deal-with-iran-largely-negotiated-subject-to-finalization-trump/",
+        "clean_url": "https://www.newsnationnow.com/world/deal-with-iran-largely-negotiated-subject-to-finalization-trump",
+        "image": "http://www.bing.com/th?id=ONUT.hSC80NhbRRhxaOHidZzOoQ&pid=News",
+        "timestamp": 1779611400.0
+    },
+    {
         "title_fa": "بحث هند و آمریکا درباره خاورمیانه و تجارت؛ هم‌زمان با ادعای آمریکا از پیشرفت در روند مناقشه با ایران",
         "title_en": "India, US discuss Middle East, trade as US cites progress on Iran conflict",
         "summary": [
@@ -214,6 +268,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/05/24/world/iran-war-trump",
         "image": "https://static01.nyt.com/images/2026/05/24/multimedia/24iran-blog-promo-lchn/24iran-blog-header-01-cphq-facebookJumbo.jpg",
         "timestamp": 1779606840.0
+    },
+    {
+        "title_fa": "ترامپ اعلام کرد عجله‌ای برای توافق با ایران ندارد و «بلوکاد» آمریکا باقی می‌ماند",
+        "title_en": "Trump says no rush for Iran deal, US blockade stays",
+        "summary": [
+            "بر اساس گزارش‌های رسانه‌ای آمریکا و ایران، چارچوب مندرج در یادداشت/مکاتبه‌ای که می‌تواند به توافق منجر شود، «مرحله‌ای» طراحی شده و هدف آن پایان دادن به ماه‌ها درگیری، بازگشایی سریع‌تر مسیر آبی و سپس حرکت به سمت کاهش محدودیت‌هاست.",
+            "ترامپ با وجود انتشار این چارچوب، صراحتاً گفت «عجله‌ای» برای رسیدن به توافق وجود ندارد و هم‌زمان اعلام کرد که «بلوکاد» آمریکا همچنان برقرار است؛ یعنی مسیر توافق، به‌جای تضمین فوری، در حالت تعویق سیاسی نگه داشته می‌شود.",
+            "این ترکیب (وجود چارچوب مرحله‌ای در گزارش‌ها + عدم تعهد فوری ترامپ به لغو محدودیت‌ها) پیام فشار اقتصادی و امنیتی را حفظ می‌کند و هزینه زمانی را به طرف ایرانی تحمیل می‌نماید، حتی اگر مذاکرات روی کاغذ به «گام‌های آینده» اشاره کند."
+        ],
+        "impact": "با باقی ماندن بلوکاد و تبدیل توافق به فرایند غیرقطعی و مرحله‌ای، رژیم با تداوم فشار خارجی و عدم قطعیت در چشم‌انداز رفع محدودیت‌ها مواجه می‌شود.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.55,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-2026-05-24/",
+        "clean_url": "https://www.reuters.com/world/us/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening-2026-05-24",
+        "image": "http://www.bing.com/th?id=ONUT.KxMnwEJ5Hnh6RK497ghwAA&pid=News",
+        "timestamp": 1779606300.0
     },
     {
         "title_fa": "واشینگتن علیه پمپئو: کاخ سفید به «سکوت» و «کار به حرفه‌ای‌ها» فراخوان داد",
@@ -322,6 +394,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/axios-says-proposed-us-iran-035722257.html",
         "image": null,
         "timestamp": 1779595020.0
+    },
+    {
+        "title_fa": "جزئیات احتمالی توافق ایران-آمریکا: پایان جنگ، بازگشایی تنگه هرمز و محدودسازی اورانیوم با زمان‌بندی بعدی",
+        "title_en": "Details emerge of a potential Iran deal as Trump says not to rush",
+        "summary": [
+            "منابع منطقه‌ای به خبرگزاری آسوشیتدپرس گفته‌اند آمریکا نزدیک رسیدن به توافقی است که جنگ را پایان دهد، تنگه هرمز را دوباره باز کند و ایران «ذخیره اورانیوم به‌شدت غنی‌شده» را کنار بگذارد؛ اما جزئیات و جدول زمانی برای بعد است.",
+            "ترامپ اعلام کرده توافق «تا حد زیادی مذاکره شده» و همزمان گفته نمایندگانش برای رسیدن به آن «عجله نکنند»؛ درخواست کلیدی او نیز طبق متن، کنار گذاشتن اورانیوم است.",
+            "ایران هنوز به‌طور عمومی متعهد نشده اورانیوم را واگذار کند و در متن تأکید می‌شود که طرفین در هفته‌های اخیر ظاهراً نزدیک به توافق بوده‌اند، ولی تعهد رسمی ایران مطرح نیست."
+        ],
+        "impact": "اگر این توافق عملی شود، کاهش ریسک جنگ و بحران مسیر انرژی می‌تواند فشار فوری بر اقتصاد و تجارت منطقه را کم کند، اما ابهام در تعهد عمومی ایران به اورانیوم می‌تواند مذاکرات را شکننده نگه دارد.",
+        "tag": "توافق",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/details-us-iran-deal-begin-103432045.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/details-us-iran-deal-begin-103432045.html",
+        "image": "http://www.bing.com/th?id=ONUT._fg_G3iIsbo7M2AqNhBzxg&pid=News",
+        "timestamp": 1779594180.0
     },
     {
         "title_fa": "روز ۸۶ جنگ؛ ترامپ از «توافق احتمالی» می‌گوید، فضای بی‌اعتمادی مانع قطعیت است",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/money/companies/exclusive-how-trump-s-crypto-venture-and-iran-s-top-exchange-tapped-into-the-same-industry-networks/ar-AA23ulN5",
         "image": "http://www.bing.com/th?id=ONUT._wngsFv4ESWZuMs3CfiXaQ&pid=News",
         "timestamp": 1779091863.0
-    },
-    {
-        "title_fa": "ایران «پیشنهاد بازبینی‌شده» برای پایان جنگ ارائه کرده؛ فشار زمانی در حال افزایش است",
-        "title_en": "Live updates: Iran reportedly shares revised proposal to end war",
-        "summary": [
-            "بر اساس گزارش NewsNation، یک منبع پاکستانی اعلام کرده که ایران یک پیشنهاد بازبینی‌شده برای پایان جنگ به طرف مقابل ارائه کرده، اما جزئیات این پیشنهاد مشخص نشده است.",
-            "همین منبع تأکید کرده اختلاف‌ها باید سریع‌تر محدود شود چون «زمان زیادی باقی نمانده»، که نشان می‌دهد مذاکرات وارد فاز فشار زمانی شده است.",
-            "با نبود اطلاعات درباره مفاد پیشنهاد یا واکنش طرف مقابل، فعلاً نمی‌توان اثر واقعی آن بر روند جنگ یا تغییر موازنه قدرت را نتیجه گرفت؛ تنها می‌توان فهمید روند دیپلماتیک در حال فشرده‌شدن است."
-        ],
-        "impact": "فشرده‌شدن زمان برای رسیدن به توافق می‌تواند هم شانس معامله را بالا ببرد و هم احتمال بن‌بست فوری را، بدون اینکه هنوز نشانه‌های محتوایی از «کاهش واقعی» اختلاف‌ها ارائه شده باشد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "NewsNation",
-        "url": "https://www.newsnationnow.com/politics/live-updates-iran-new-body-strait-of-hormuz/",
-        "clean_url": "https://www.newsnationnow.com/politics/live-updates-iran-new-body-strait-of-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.E34WuXAp5wRuhH0LSxri2Q&pid=News",
-        "timestamp": 1779089280.0
-    },
-    {
-        "title_fa": "روز جنگ ۸۰؛ ترامپ هشدار داد، تهران ادعای آمادگی برای «مقابله با تجاوز» کرد",
-        "title_en": "Iran war day 80: Trump issues warning; Tehran ready to confront aggression",
-        "summary": [
-            "آل‌جزیره گزارش می‌دهد در روز ۸۰ جنگ، دونالد ترامپ هشدارهایی صادر کرده است و طرف ایرانی در پاسخ اعلام کرده برای «مقابله با تجاوز» آماده است.",
-            "این گزارش بیش از هر چیز در قالب پیام‌های سیاسی-تهدیدآمیز ارائه شده و نشان‌دهنده تشدید سطح ارتباطات تهدیدمحور میان طرفین بدون ارائه جزئیات عملیات یا نتایج میدانی است.",
-            "در نبود شواهد مشخص از اعتصاب‌های جدید، تحرکات زمینی یا تصمیم‌های اقتصادی/حقوقی تازه، اثر اصلی در کوتاه‌مدت روی فضای روانی و احتمال افزایش ریسکِ سوءتفاهم عملیاتی متمرکز است."
-        ],
-        "impact": "فعلاً فقط سطح تهدیدها بالاست و بدون داده‌های عینی از عملیات جدید، این وضعیت بیشتر می‌تواند به افزایش ریسک تنش و درگیری ناخواسته منجر شود.",
-        "tag": "تهدید",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lIXzc3YlJtWFo0emVYaVEwVHdrNnlPbWh4N2t0UlJoLURxb2NiVWtXM1MwSUZXUVJXRlZib08xRUJqTVNKYzdyOWstNUJPQTZpZjY5NFppOUxsMlF3aEw5cjAwTmMtaVM3MFlnUFJwSE9MQW5NVWtFWjJVcGNCa196VXNad1ZrcVZxX1Z4MFVKLWRsVW92WS0tUzkxcFpmUHZMdkJJTFhQTUl1VXpSRmJTSdIBuAFBVV95cUxNY2d2SFpCY292UmJIRTYtSG9DYzd2RS1ZeFJDTTFRNGJLZXI5M2NaQlp6UXJ1dGNHX3dnblpYanZTREV1blR2MVpFaXRLbzIxTWNkOXJ1U0hwdmpOY216M3NIX3B5SkR2cDl2NHJZLUp1aW1lT3dmVFUycXM1bldtSURfYXlYaUVLd1BYN3M4Mmc3cVFaeXRJeDdtRVdMblJpWkpNelNtc1FTWjVSX193ZUdXNGRzaEN1?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT1lIXzc3YlJtWFo0emVYaVEwVHdrNnlPbWh4N2t0UlJoLURxb2NiVWtXM1MwSUZXUVJXRlZib08xRUJqTVNKYzdyOWstNUJPQTZpZjY5NFppOUxsMlF3aEw5cjAwTmMtaVM3MFlnUFJwSE9MQW5NVWtFWjJVcGNCa196VXNad1ZrcVZxX1Z4MFVKLWRsVW92WS0tUzkxcFpmUHZMdkJJTFhQTUl1VXpSRmJTSdIBuAFBVV95cUxNY2d2SFpCY292UmJIRTYtSG9DYzd2RS1ZeFJDTTFRNGJLZXI5M2NaQlp6UXJ1dGNHX3dnblpYanZTREV1blR2MVpFaXRLbzIxTWNkOXJ1U0hwdmpOY216M3NIX3B5SkR2cDl2NHJZLUp1aW1lT3dmVFUycXM1bldtSURfYXlYaUVLd1BYN3M4Mmc3cVFaeXRJeDdtRVdMblJpWkpNelNtc1FTWjVSX193ZUdXNGRzaEN1",
-        "image": null,
-        "timestamp": 1779089211.0
-    },
-    {
-        "title_fa": "افزایش قیمت نفت پس از هشدار ترامپ به ایران درباره توقف مذاکرات صلح",
-        "title_en": "Oil prices rise after Trump warns Iran over stalled peace talks",
-        "summary": [
-            "طبق گزارش BBC، قیمت نفت پس از هشدار ترامپ به ایران و اشاره به «توقف مذاکرات صلح» بالا رفت؛ این سیگنال بازار نشان می‌دهد ریسک سیاسی-امنیتی در پرونده ایران افزایش یافته است.",
-            "در چارچوب فشار خارجی، چنین پیام‌هایی از سمت آمریکا معمولاً به عنوان اهرم برای تشدید هزینه‌های اقتصادی/ریسک سرمایه‌گذاری تعبیر می‌شود و می‌تواند توان رژیم برای مدیریت کسری‌ها را بیشتر محدود کند، حتی اگر اقدام فوری نظامی اعلام نشده باشد.",
-            "در بعد داخلی و اقتصاد، جهش قیمت نفت می‌تواند به صورت مستقیم به نفع درآمدهای صادراتی ایران عمل کند، اما هم‌زمان اثر دومش (بدتر شدن جو مذاکره، افزایش ریسک تحریم/محدودیت‌ها و بی‌ثباتی برنامه‌ریزی) معمولاً برای اقتصاد کلان زیان‌بار است؛ BBC در متن خبر، درباره اعتراض داخلی یا فروپاشی خاص داده مشخص ارائه نمی‌کند."
-        ],
-        "impact": "افزایش نفت در پی هشدار آمریکا نشان می‌دهد ریسک سیاسی-امنیتی پرونده ایران در کوتاه‌مدت بالاست و می‌تواند مسیر اقتصاد رژیم را از کانال بی‌ثباتی تصمیم‌گیری و هزینه‌های فشار خارجی سخت‌تر کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZTFpdHFrYklXZGo5N3lvc09jN3phUGdlOHdtdWctSXVybzdiLWlVNXV0a2poRW9SRnZLRnFOVXExVDlQd0R5OFBGZGxHY0R1ZElsbmZ3WXY0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1CZTFpdHFrYklXZGo5N3lvc09jN3phUGdlOHdtdWctSXVybzdiLWlVNXV0a2poRW9SRnZLRnFOVXExVDlQd0R5OFBGZGxHY0R1ZElsbmZ3WXY0UQ",
-        "image": null,
-        "timestamp": 1779088834.0
-    },
-    {
-        "title_fa": "بِسِنت: واشنگتن از G7 می‌خواهد رژیم تحریم علیه ایران را یکدست و پیوسته اجرا کند",
-        "title_en": "U.S. Treasury Secretary Bessent: will call on G7 to follow sanctions regime on Iran",
-        "summary": [
-            "بنسِنت اعلام کرد که در تعامل با اعضای G7، از آن‌ها می‌خواهد از «رژیم تحریم» علیه ایران تبعیت کنند؛ یعنی هماهنگی در سیاست‌های محدودکننده و کاهش شکاف‌های اجرایی بین کشورها.",
-            "این موضع به‌طور مستقیم بر مبنای «فشار خارجی» عمل می‌کند: هرچه حلقه اجرای تحریم در میان اقتصادهای بزرگ تنگ‌تر شود، راه‌های دورزدن و فروش غیررسمی سخت‌تر می‌شود و ریسک مالی و عملیاتی برای طرف‌های مقابل ایران بالا می‌رود.",
-            "متن خبر جزئیات اقتصادی/اعتراضی داخلی یا واکنش مشخص تهران را ارائه نمی‌کند، اما پیام روشن است: هدف، تضعیف ساختاری ظرفیت رژیم برای کسب درآمد و مدیریت منابع از مسیر تعاملات بیرونی است."
-        ],
-        "impact": "این اقدام بالقوه می‌تواند با سخت‌تر کردن اجرای چندجانبه تحریم‌ها، هزینه دورزدن را افزایش داده و به فشار مالی بر سیاست‌گذاری و بقای اقتصادی حکومت کمک کند.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmQyb1VFMWl5dUZNaFkyS2dlTnVKcndqVVdLRGZKV3htS21pSGo4bE5aMFhhcXZxRTR5dVZuSzVOQWRHSGZVQ05QbUVScGpMZnBJcThRMjItbUJiMXBjOWhjdmNrQzJMZ0VWMWRReVNjdnkwaUpvXzZJSEJIcG1LQ1hGNDlmT3dpa1RaTHdKZi1jM1lqTzZ0M1ozQThZQ2RaaFktVjdGUUJ4akVKdHlwXzNPY3BuelhtaWlr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcmQyb1VFMWl5dUZNaFkyS2dlTnVKcndqVVdLRGZKV3htS21pSGo4bE5aMFhhcXZxRTR5dVZuSzVOQWRHSGZVQ05QbUVScGpMZnBJcThRMjItbUJiMXBjOWhjdmNrQzJMZ0VWMWRReVNjdnkwaUpvXzZJSEJIcG1LQ1hGNDlmT3dpa1RaTHdKZi1jM1lqTzZ0M1ozQThZQ2RaaFktVjdGUUJ4akVKdHlwXzNPY3BuelhtaWlr",
-        "image": null,
-        "timestamp": 1779087300.0
-    },
-    {
-        "title_fa": "تهدیدات جنگی ترامپ؛ نمایش اسلحه در خیابان‌های ایران و روی تلویزیون هم‌زمان با تشدید تنش",
-        "title_en": "Guns on the television and in Iran’s streets as Trump renews war threats",
-        "summary": [
-            "CNN (در MSN) گزارش می‌دهد که هم‌زمان با تشدید تهدیدات جنگی دونالد ترامپ، در تهران و شهرهای دیگر «هزاران ایرانی» شبانه به خیابان می‌آیند و فضای امنیتی-نمایشی با «اسلحه» در خیابان‌ها و رسانه‌ها دیده می‌شود.",
-            "طبق روایت گزارش، این تحرکات به «حکومتی/دولتی» نسبت داده می‌شود و همین چارچوب، نشان می‌دهد مدیریت بحران و عملیات روانی/امنیتی به‌جای کاهش تنش، پررنگ‌تر شده است.",
-            "زمان‌بندی گزارش در سایه فضای پرتنش منطقه‌ای قرار دارد، اما متن ارائه‌شده جزئیات قابل راستی‌آزمایی درباره عملیات نظامی مشخص نمی‌دهد و تمرکز اصلی روی جو جنگی و بسیج خیابانی است."
-        ],
-        "impact": "تهدید جنگی می‌تواند با افزایش ترس، اختلال در زندگی روزمره و تشدید کنترل امنیتی، ناپایداری سیاسی-اجتماعی را بالا ببرد؛ حتی بدون وقوع عملیات نظامی در خود گزارش.",
-        "tag": "تهدید",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/guns-on-the-television-and-in-iran-s-streets-as-trump-renews-war-threats/ar-AA23rHun",
-        "clean_url": "https://www.msn.com/en-us/news/world/guns-on-the-television-and-in-iran-s-streets-as-trump-renews-war-threats/ar-AA23rHun",
-        "image": "http://www.bing.com/th?id=ONUT.AUMPwHHjY8yx1bTMLgz3jg&pid=News",
-        "timestamp": 1779084342.0
     }
 ]
