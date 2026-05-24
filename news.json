@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جزئیات «پیشنهاد توافق» برای پایان تنش آمریکا و ایران (CNN)",
+        "title_en": "What’s in the proposed deal that could end the US-Iran conflict?",
+        "summary": [
+            "این گزارش با محوریت معرفی «پیشنهاد توافق» مطرح می‌کند که می‌تواند مسیر پایان منازعه میان آمریکا و ایران را هموار کند، اما جزئیات دقیق و بندهای مشخص را در متن ارائه‌شده به من نیاورده است.",
+            "کانون تحلیل CNN بر جنبه‌های قابل‌معامله در سطح سیاسی/امنیتی برای کاهش تنش قرار دارد، ولی بدون ارائه اطلاعات مرحله‌ای نمی‌توان درباره سازوکار اجرا، زمان‌بندی یا تضمین‌ها اظهار دقیق کرد.",
+            "چون متنِ ارسالی صرفاً عنوان و اشاره کلی است، هیچ داده‌ای درباره وضعیت اقتصاد، برنامه‌های هسته‌ای، تضمین‌های نظارتی، یا پیامدهای عملی برای طرفین در دست نیست."
+        ],
+        "impact": "در نبود جزئیات واقعی از متن معامله، اثر عملی آن فعلاً در سطح «احتمال کاهش تنش» باقی می‌ماند و ارزیابی اثرگذاری نیازمند بندهای مشخص است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/news/world/what-s-in-the-proposed-deal-that-could-end-the-us-iran-conflict/ar-AA23XaqJ",
+        "clean_url": "https://www.msn.com/en-us/news/world/what-s-in-the-proposed-deal-that-could-end-the-us-iran-conflict/ar-AA23XaqJ",
+        "image": null,
+        "timestamp": 1779638481.0
+    },
+    {
         "title_fa": "۵ مسئله کلیدی برای حل‌وفصل در یک توافق صلح ایران و آمریکا",
         "title_en": "These Are 5 of the Main Issues to Be Resolved in an Iran-U.S. Peace Deal",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.nytimes.com/2026/05/24/world/middleeast/five-main-issues-iran-israel-nuclear.html",
         "image": "https://static01.nyt.com/images/2026/05/24/multimedia/24int-iran-five-issues-ooooo1-bwqz/24int-iran-five-issues-ooooo1-bwqz-facebookJumbo.jpg",
         "timestamp": 1779635280.0
+    },
+    {
+        "title_fa": "ترامپ از ادامه مذاکرات ایران در چارچوب «منظم و سازنده» می‌گوید و هشدار می‌دهد عجله نشود",
+        "title_en": "Trump says Iran negotiations proceeding in 'orderly and constructive manner;' warns against rushing",
+        "summary": [
+            "ترامپ اعلام کرده مذاکرات با ایران در «نظم‌مند و سازنده» پیش می‌رود و از شتاب‌زدگی در روند مذاکره هشدار داده است.",
+            "این موضع نشان می‌دهد فشار دیپلماتیک در حال تبدیل به یک مسیر کنترل‌شده است، نه یک فرایند فوری؛ یعنی اولویت بر مدیریت زمان و امتیازدهی قرار گرفته است.",
+            "با توجه به نبود جزئیات اجرایی در خبر، اثر مستقیم این جمله‌ها بیشتر «سیگنال‌سازی» و آماده‌سازی فضای تصمیم‌گیری است و نمی‌توان از آن به تنهایی تغییر در شدت تحریم‌ها یا اجرای عملی سازوکارهای اقتصادی را نتیجه گرفت."
+        ],
+        "impact": "فعلاً این خبر بیشتر نشانه‌گذاری برای مدیریت روند مذاکره است و بدون اطلاعات مشخص از تحریم‌ها یا اقدامات اجرایی، نمی‌توان اثر اقتصادی/سیاسی فوری و قابل سنجش بر ثبات رژیم را قطعی دانست.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mVWNadnU2ZENiYzJFcE9JcGNrMU5VLUw4ZkJhRFRMa1YwMl9VV1ZPRnkzTVhsRmlXOFdiMmk5MlpGMzVLX19iQkpsYmNyMExjdWtGT3N4VXdoa0I2Y1NEU2xkWXNmNjRZ0gFuQVVfeXFMTVI4UlhQeUdWRlhTaXMxTDZMVUp3NVUxXzBiSjhqb09DbENjRUVMRk5xbnY2LWd0bV9qSXotVlVhd2VBN05KaTZiRXlHcFpqemVNZ1VBZkV3dHlsV0tuVktEQXZRem9felVEX1ZXaGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mVWNadnU2ZENiYzJFcE9JcGNrMU5VLUw4ZkJhRFRMa1YwMl9VV1ZPRnkzTVhsRmlXOFdiMmk5MlpGMzVLX19iQkpsYmNyMExjdWtGT3N4VXdoa0I2Y1NEU2xkWXNmNjRZ0gFuQVVfeXFMTVI4UlhQeUdWRlhTaXMxTDZMVUp3NVUxXzBiSjhqb09DbENjRUVMRk5xbnY2LWd0bV9qSXotVlVhd2VBN05KaTZiRXlHcFpqemVNZ1VBZkV3dHlsV0tuVktEQXZRem9felVEX1ZXaGc",
+        "image": null,
+        "timestamp": 1779634157.0
     },
     {
         "title_fa": "رهبران اسرائیل درباره احتمال توافق ایران-ترامپ موضع‌گیری مبهم نگه داشتند",
@@ -178,6 +214,78 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzBVeUFzR1hfSkpqYnRWNGlETWFibk03ZGJRMDRoYzRCRldOQmdrUzNuVno5U19DRnJMdTh3MnpNY3JLR0t2UDVtR2djU0pPSlc2YXpGX3kzbGlvdnRfTkNYeTh6UVdDbWhaUkRKTDVlNDZlYlFZRWY2dFhyajRtcHlsUUNOR2xiY2lZX3Z1QVdJNDN0eWtkRWV4OWTSAaIBQVVfeXFMTUFrQ2VuLTZXT1JPeHVwaFNDQ0JmNjRnT2dONklkdkpHR3ZzUUN5SEtXTXAzQ1pMLXF6aUpwNkQ1N0V4ZEl5bVFGclVyaDFwdG5jTEJnc250VW1WRlN6OFJucTNKRmRKa3FDR1ItcUdhN2xrNTFmRjdIbWtQTWg1dDRkNGNNVjVZUmN4czFFemlpc2tKc2hxYnBzMzZtZV9MSm5R",
         "image": null,
         "timestamp": 1779615614.0
+    },
+    {
+        "title_fa": "آمریکا می‌گوید آیت‌الله‌المعظمۀ خامنه‌ای به‌طور «در اصل» با واگذاری اورانیومِ غنی‌شده برای یک چارچوب صلح موافقت کرده است",
+        "title_en": "Iran’s supreme leader has agreed ‘in principle’ to give up uranium as part of peace deal, US official says",
+        "summary": [
+            "یک مقام ارشد آمریکایی مدعی است که رهبر عالی ایران، «موجتبا خامنه‌ای»، با چارچوب کلی توافق صلح موافقت کرده؛ توافقی که طبق گفته او شامل «توافق در اصل» برای رسیدگی/خارج‌سازی اورانیوم با غنای بالا از سوی ایران است، هرچند جزئیات هنوز محل چانه‌زنی است.",
+            "قرار است در ازای آن، آمریکا تحریم/«رفع بند محاصره» را در دستور بگذارد تا تنگه هرمز پس از سه ماه جنگ دوباره برای عبور آزاد کشتی‌ها باز شود؛ اما گزارش تاکید می‌کند مسائل بزرگ همچنان حل‌نشده باقی می‌ماند و متن نهایی می‌تواند چند روز زمان ببرد.",
+            "ساختار توافق بر پیوند دادن «رفع تحریم‌ها» به پیشرفت در خارج‌سازی این مواد و نیز پیش‌بینی سازوکار اجرایی برای جلوگیری از غنی‌سازی آینده تمرکز دارد؛ همچنین گفته می‌شود آمریکا در کنار موضوع فنی، به نحوه ارائه داخلی توافق برای جلب رضایت جناح‌های سخت‌گیر ایران هم توجه دارد."
+        ],
+        "impact": "اگر این چارچوب نهایی شود، مستقیماً فشار فوری بر بحران تنگه هرمز و مسیر تحریم‌ها را کاهش می‌دهد، ولی همچنان به‌دلیل باقی‌ماندن اختلاف بر سر جزئیات، امکان شکست یا عقب‌نشینی سیاسی بالا است.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/24/us-news/irans-supreme-leader-has-agreed-in-principle-to-give-up-uranium-as-part-of-peace-deal-us-officials-says/",
+        "clean_url": "https://nypost.com/2026/05/24/us-news/irans-supreme-leader-has-agreed-in-principle-to-give-up-uranium-as-part-of-peace-deal-us-officials-says",
+        "image": "http://www.bing.com/th?id=ONUT.lonSaQm6PCmL4Bk1N4wBOw&pid=News",
+        "timestamp": 1779615240.0
+    },
+    {
+        "title_fa": "ترومپ می‌گوید ایران «هرگز» سلاح هسته‌ای نخواهد داشت؛ شکاف در واشنگتن و تأکید بر عدم تعجیل در توافق",
+        "title_en": "Trump vows Iran can never have a nuke — and US will ‘not rush into a deal’ after GOP Senators criticize draft agreement",
+        "summary": [
+            "ترومپ وعده داد ایران «هرگز» به سلاح هسته‌ای دست نخواهد یافت و اعلام کرد نمایندگانش را برای عجله در توافق تحت فشار قرار نمی‌دهد؛ هم‌زمان «محاصره/بلوکه» را تا زمانی که توافق، راستی‌آزمایی و امضا شود «در وضعیت کامل» نگه می‌دارد.",
+            "چند سناتور سرشناس جمهوری‌خواه (از جمله راجر ویکر و اشاره به نگرانی‌های گسترده‌تر) به جزئیات گزارش‌شده توافق پیش‌نویس انتقاد کردند: نبود پاسخ کافی به نگرانی درباره ذخایر اورانیوم غنی‌شده و اتکای بیش از حد به حسن‌نیت جمهوری اسلامی.",
+            "طبق گزارش‌ها، چارچوب فعلاً شامل یادداشت تفاهم ۶۰ روزه است: ایران برای دسترسی به گلوگاه نفتی تنگه هرمز فعالیت‌هایی برای «پاک‌سازی معادن» انجام می‌دهد و آمریکا در مقابل بخشی از محاصره/محدودیت بنادر و بخشی از فشارهای اقتصادی مرتبط با نفت را کاهش می‌دهد—اما منتقدان می‌گویند همین «آتش‌بس ۶۰ روزه» در عمل می‌تواند دستاوردهای عملیات نظامی اخیر را بی‌اثر کند."
+        ],
+        "impact": "این وضعیت بیشتر از اینکه نشانه «کاهش اهرم فشار» باشد، در عمل تثبیت محاصره و خرید زمان سیاسی در واشنگتن برای یک توافق سخت‌گیرانه‌تر است—با ریسک ادامه تنش و احتمال ازسرگیری عملیات اگر شروط هسته‌ای و راستی‌آزمایی محقق نشود.",
+        "tag": "تحریم_و_هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/05/24/us-news/trump-vows-iran-can-never-have-a-nuke-and-us-will-not-rush-into-a-deal-after-gop-senators-criticize-draft-agreement/",
+        "clean_url": "https://nypost.com/2026/05/24/us-news/trump-vows-iran-can-never-have-a-nuke-and-us-will-not-rush-into-a-deal-after-gop-senators-criticize-draft-agreement",
+        "image": "http://www.bing.com/th?id=ONUT.sdxp76ZfCvuVPkM80-AqPA&pid=News",
+        "timestamp": 1779614880.0
+    },
+    {
+        "title_fa": "ترامپ و ایران در آستانه توافق برای بازگشایی تنگه هرمز؛ لغو محاصره در برابر تعیین‌تکلیف ذخایر اورانیوم غنی‌شده",
+        "title_en": "Trump, Iran near deal on re-opening Strait of Hormuz",
+        "summary": [
+            "طبق گزارش‌ها، دولت ترامپ و ایران بر سر «اصول» یک توافق برای بازگشایی تنگه هرمز هم‌خوانی پیدا کرده‌اند؛ بازگشایی‌ای که به گفته گزارش به‌دلیل انسداد پیشین، به افزایش قیمت گاز در آمریکا و جهان انجامیده است.",
+            "جزئیات نهایی هنوز مشخص نیست: نیویورک‌تایمز با استناد به یک مقام آمریکایی می‌گوید توافق وابسته به تأیید نهایی ترامپ و رهبر عالی ایران است؛ در همین چارچوب، گزارش CBS می‌گوید رهبر عالی ایران چارچوب کلی را تأیید کرده است.",
+            "مکانیزم پیشنهادی به این شکل مطرح شده: آمریکا در برابر توافق ایران برای «تعیین‌تکلیف ذخایر اورانیوم غنی‌شده» و هم‌زمان با لغو محاصره بنادر ایران (مربوط به تهدیدات علیه کشتی‌ها در تنگه هرمز) اقدام می‌کند؛ با این حال، گزارش می‌گوید توافق فعلی درباره موشک‌های ایران و همچنین توقف/محدودیت غنی‌سازی اورانیوم وارد نشده و این موارد باید بعداً مذاکره شوند."
+        ],
+        "impact": "این توافق بالقوه می‌تواند هم فشار امنیتی تنگه هرمز را کاهش دهد و هم مسیر کاهش هزینه‌های انرژی را باز کند، اما چون پرونده موشک و محدودیت غنی‌سازی عملاً به مذاکرات بعدی موکول می‌شود، ریسک تداوم اختلافات و بحران‌های جدید باقی می‌ماند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/administration/5893351-us-iran-agreement-strait-reopening/",
+        "clean_url": "https://thehill.com/homenews/administration/5893351-us-iran-agreement-strait-reopening",
+        "image": "http://www.bing.com/th?id=ONUT.zrqnf26d-NyvQmSfT33hnA&pid=News",
+        "timestamp": 1779614100.0
+    },
+    {
+        "title_fa": "رشد بازارها پس از «توافق» تازه ترامپ با ایران",
+        "title_en": "Markets surge after Trump's latest 'agreement' with Iran",
+        "summary": [
+            "طبق گزارش TheStreet، بازارهای مالی و به‌ویژه کریپتو پس از اعلام «توافق» جدید ترامپ با ایران جهش کردند؛ بیت‌کوین حدود ۳٪ بالا رفت و حدود ۷۶٬۹۰۰ دلار معامله می‌شد.",
+            "ارزش کل بازار کریپتو حدود ۷۵ میلیارد دلار افزایش یافت و رشدهای بخشی مثل NEAR Protocol با جهش ۱۵٪ و رشد Ondo Finance هم به چشم می‌آید.",
+            "این واکنش بازار بیشتر از جنس امید کوتاه‌مدت به کاهش تنش/افزایش امکان دادوستد تلقی می‌شود، نه نشانه‌ای از بهبود ساختاری اقتصاد؛ چون متن فقط به اثر خبر بر قیمت‌ها اشاره دارد."
+        ],
+        "impact": "این موج خرید نشان می‌دهد که فعالان بازار به هر توافق احتمالی، حتی در سطح اعلام خبر، به‌عنوان عامل کاهش ریسک نگاه می‌کنند.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "TheStreet",
+        "url": "https://www.thestreet.com/crypto/markets/markets-surge-after-trumps-latest-agreement-with-iran",
+        "clean_url": "https://www.thestreet.com/crypto/markets/markets-surge-after-trumps-latest-agreement-with-iran",
+        "image": "http://www.bing.com/th?id=ONUT.y1gsrk8kBJgGZ0JPTiYoJA&pid=News",
+        "timestamp": 1779612000.0
     },
     {
         "title_fa": "گمانه‌زنی درباره آتش‌بس ۶۰روزه با ایران؛ مذاکره در فاز نهایی",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/the-uae-s-opec-bombshell-signals-a-new-middle-east-order/ar-AA222Ncm",
         "image": null,
         "timestamp": 1779101139.0
-    },
-    {
-        "title_fa": "ایران «بیمه گذرگاه» را جایگزین فشار می‌کند تا اهرم چانه‌زنی خود را پولی‌سازی کند",
-        "title_en": "Iran offers insurance lifeline for ships crossing Hormuz",
-        "summary": [
-            "بر اساس گزارش، ایران از انسداد/تهدید در تنگه هرمز به عنوان ابزار نهایی چانه‌زنی استفاده کرده و حالا «سیاست بیمه» برای کشتی‌هایی که از این مسیر عبور می‌کنند ارائه می‌دهد؛ یعنی فشار دریایی به قرارداد مالی تبدیل می‌شود.",
-            "این اقدام مستقیماً ریسک عبور از هرمز را سیاسی و معامله‌محور می‌کند: به جای تضمین ایمنی مستقل، سازوکار پرداخت/بیمه به تصمیمات ایران گره می‌خورد و هزینه‌های عملیاتی شرکت‌های کشتیرانی را بالا می‌برد.",
-            "خروجی کلیدی از این خبر، تلاش برای تثبیت یک جریان درآمد و نفوذ قراردادی از محل بحران امنیت دریایی است؛ هم‌زمان پیام بازدارنده برای رقبا ارسال می‌کند که عبور از مسیر بدون تعامل با ایران «بی‌هزینه» نیست."
-        ],
-        "impact": "این مدل بیمه‌محور، اهرم امنیتی ایران در هرمز را به ابزار درآمدی و مدیریتی برای کنترل ریسک مسیر تبدیل می‌کند و می‌تواند هزینه و عدم‌قطعیت کشتیرانی را افزایش دهد.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "TheStreet",
-        "url": "https://www.thestreet.com/crypto/markets/iran-offers-insurance-lifeline-for-ships-crossing-hormuz",
-        "clean_url": "https://www.thestreet.com/crypto/markets/iran-offers-insurance-lifeline-for-ships-crossing-hormuz",
-        "image": "http://www.bing.com/th?id=ONUT.Kc7ni4HNvjzI6n0slUeJKQ&pid=News",
-        "timestamp": 1779099840.0
-    },
-    {
-        "title_fa": "نشست «سیتوئیشن روم» با محور ایران بدون چشم‌انداز توافق هسته‌ای؛ تشدید فشار منطقه‌ای از راه رهگیری پهپاد",
-        "title_en": "Trump to convene top-level Situation Room meeting on Iran with no nuclear deal in sight",
-        "summary": [
-            "فاکس‌نیوز گزارش می‌دهد ترامپ قرار است یک نشست سطح‌بالای «سیتوئیشن روم» درباره ایران برگزار کند، در شرایطی که «توافق هسته‌ای» عملاً در دسترس نیست؛ یعنی مسیر دیپلماسی مهار هسته‌ای بسته‌تر تلقی می‌شود.",
-            "در همان چارچوب، متحدان آمریکا در خاورمیانه همچنان پهپادهای مهاجم منتسب به ایران را رهگیری می‌کنند و این فعالیت دفاعی، هزینه و ریسک عملیاتی برای رژیم را بالا می‌برد.",
-            "تمرکز فشار منطقه‌ای به‌طور مشخص به امارات و عربستان منتقل شده؛ یعنی این دو کشور در حال «بحرانی‌تر کردن» نگاه خود به تهران‌اند و همین می‌تواند محاسبات رژیم را برای مدیریت تهدید و گسترش تنش سخت‌تر کند."
-        ],
-        "impact": "در غیاب توافق هسته‌ای، ترکیب تصمیم‌گیری امنیتی در سطح عالی آمریکا با رهگیری مداوم حملات پهپادی توسط شرکای منطقه‌ای، فشار عملیاتی و سیاسی بر رژیم را افزایش می‌دهد.",
-        "tag": "ایران",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/trump-iran-war-israel-hormuz-nuclear-deal-may-18",
-        "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-israel-hormuz-nuclear-deal-may-18",
-        "image": "http://www.bing.com/th?id=ONUT.o92fRNeOtcA_VsAYnMXfrw&pid=News",
-        "timestamp": 1779099180.0
-    },
-    {
-        "title_fa": "ترامپ: «ساعت در حال گذر است»؛ حملات پهپادی جدید به امارات و عربستان، پیام فشار مستقیم علیه تهران",
-        "title_en": "Trump warns Iran ‘clock is ticking’ as new drone attacks hit U.A.E and Saudi Arabia",
-        "summary": [
-            "بر اساس گزارش NBC News، دونالد ترامپ با اشاره به وضعیت ایران، هشدار تند داده و همزمان خبر از «حملات پهپادی جدید» علیه امارات و عربستان داده است.",
-            "این اتفاق در چارچوب فشار خارجی قابل تحلیل است: هرچه حملات پهپادی در عمق امنیتی کشورهای عربی تشدید شود، احتمال افزایش فشار سیاسی/تحریمی و اقدامات بازدارنده علیه ایران بالا می‌رود.",
-            "در سطح داخلی، گزارش به نشانه‌ای از نارضایتی یا وضعیت معیشتی داخل ایران اشاره نمی‌کند؛ بنابراین اثرگذاری این رخداد فعلاً بیشتر «خارجی و امنیتی» است تا «داخلی»—مگر آنکه پیوند مشخصی به پیامدهای اقتصادی/اختلالات عملیاتی رژیم در متن‌های تکمیلی گزارش شود."
-        ],
-        "impact": "حملات پهپادی جدید و همزمان شدن آن با هشدار علنی رئیس‌جمهور آمریکا، ریسک تشدید فشار و واکنش‌های امنیتی علیه ایران را بالا می‌برد.",
-        "tag": "ایران-فشار",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmpJcDhyOUo1LTJTZFhaZzhzd3E5bElpVnA4S2t1dzBNaGF1c21FV0NlMk40SGlFNVNDMEpiVzdpVnUxS2tRSEZRTmY3MmQ4blZiM0hZRVJwX3YtTk94c2NaRUM5WWVCQ2JGa0hBdEFoQnQxZk5fc01KS3BIR0dNSVB5MFFOXzM0UXJfV0l1YkVOOEs0ZGprVVc2TWxVclV3eFBLMUUxRFZVeWZEXzY4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRmpJcDhyOUo1LTJTZFhaZzhzd3E5bElpVnA4S2t1dzBNaGF1c21FV0NlMk40SGlFNVNDMEpiVzdpVnUxS2tRSEZRTmY3MmQ4blZiM0hZRVJwX3YtTk94c2NaRUM5WWVCQ2JGa0hBdEFoQnQxZk5fc01KS3BIR0dNSVB5MFFOXzM0UXJfV0l1YkVOOEs0ZGprVVc2TWxVclV3eFBLMUUxRFZVeWZEXzY4",
-        "image": null,
-        "timestamp": 1779097232.0
-    },
-    {
-        "title_fa": "ایران با ایجاد «اختیار/سازمان کنترل تنگه» و وصول عوارض، مدیریت تنگه هرمز را رسمی کرد",
-        "title_en": "Iran Formalizes Strait Control and Toll Collection",
-        "summary": [
-            "ایران با انتشار پستی، تشکیل «اختیار/سازمان تنگه خلیج فارس» برای مدیریت تنگه هرمز را اعلام کرد و ایده وصول عوارض را به‌عنوان ابزار اداره و کنترل تنگه عملیاتی‌تر کرد.",
-            "این اقدام از حالت صرفاً سیاسی-اعلامی خارج می‌شود و چارچوب اجرایی برای مدیریت عبور و مرور دریایی و دریافت هزینه را در قالب یک نهاد رسمی تثبیت می‌کند.",
-            "چنین گامی می‌تواند ریسک تنش را برای کشتیرانی، بیمه و زنجیره‌های تأمین منطقه‌ای بالا ببرد و در عمل فشار اقتصادی غیرمستقیم بر طرف‌های وابسته به مسیر تنگه وارد کند."
-        ],
-        "impact": "رسمی‌شدن کنترل نهادی تنگه و وصول عوارض، هم هزینه‌های عملیاتی عبور از تنگه هرمز را افزایش می‌دهد و هم بهانه‌های بیشتری برای تشدید بحران‌های دریایی ایجاد می‌کند.",
-        "tag": "تنگه_هرمز",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/iran-announces-new-body-to-manage-strait-of-hormuz-11962513",
-        "clean_url": "https://www.newsweek.com/iran-announces-new-body-to-manage-strait-of-hormuz-11962513",
-        "image": "http://www.bing.com/th?id=ONUT.5aCXZJwaUwpTXsMUaLZFTw&pid=News",
-        "timestamp": 1779094620.0
-    },
-    {
-        "title_fa": "ترامپ: «ساعت در حال تیک‌تاک است» برای پذیرش توافق از سوی ایران",
-        "title_en": "Trump: ‘Clock is ticking’ for Iran to accept a deal",
-        "summary": [
-            "دونالد ترامپ به‌طور علنی زمان‌بندی فشرده‌ای برای رسیدن ایران به «توافق» مطرح کرده و از تهدید ضمنیِ افزایش فشار در صورت عدم پذیرش در موعد مقرر استفاده کرده است.",
-            "این پیام، اهرم فشار خارجی را به شکل زمانی-سیاسی تقویت می‌کند: هرچه ایران عقب‌تر برود، هزینه‌های مذاکره و احتمال فعال‌شدن ابزارهای تنبیهی بیشتر می‌شود و فضای مانور داخلی را محدودتر می‌کند.",
-            "در متن فقط به موضوع «پذیرش توافق» و ضرورت زمان اشاره شده و هیچ جزئیات قابل‌اتکا درباره نوع تحریم/اقدام، زمان دقیق، یا پیوند مستقیم با عملیات نظامی منتشر نشده است؛ بنابراین ارزیابی باید روی فشار سیاسی-دیپلماتیک مبتنی بماند، نه ادعای سناریوهای تأییدنشده."
-        ],
-        "impact": "فشار زمان‌مند ترامپ می‌تواند هزینه محاسباتی برای رژیم را بالا ببرد و با محدود کردن گزینه‌های مذاکره، ریسک تشدید سازوکارهای تنبیهی را افزایش دهد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Times",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWI3Vi15c29oVGJKYy11bm1ianJXRnVCNEVFNFp3bFhTNEc3X0tBQlR4cmZhQmxxRGJoN2h6czN0UkxXYVZta0F0NlQ0al80c2dINXN3a3hCUUhmX3hHeTZveGRQaDZQTUNtM3FNV0ZRRDBWOGZXakY2WWowQ1JRalVNVlRHMGMydFk2Slhhc29qNkpDbnVUYVVwdElTcFJ4Zlpzag?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNWI3Vi15c29oVGJKYy11bm1ianJXRnVCNEVFNFp3bFhTNEc3X0tBQlR4cmZhQmxxRGJoN2h6czN0UkxXYVZta0F0NlQ0al80c2dINXN3a3hCUUhmX3hHeTZveGRQaDZQTUNtM3FNV0ZRRDBWOGZXakY2WWowQ1JRalVNVlRHMGMydFk2Slhhc29qNkpDbnVUYVVwdElTcFJ4Zlpzag",
-        "image": null,
-        "timestamp": 1779094200.0
-    },
-    {
-        "title_fa": "انحصاری رویترز: نقش شبکه‌های دو بازیگر بزرگ کریپتو در جابه‌جایی میلیاردی پول برای صرافی بزرگ ایران",
-        "title_en": "Exclusive",
-        "summary": [
-            "رویترز (به‌صورت انحصاری) گزارش می‌دهد که مشتریان صرافی بزرگ ایران برای انتقال میلیاردها دلار از «شبکه‌های» ساخته‌شده توسط دو بازیگر بزرگ حوزه کریپتو استفاده کرده‌اند؛ یعنی کانال‌های آماده‌ی این صنعت در خدمت گردش مالی سنگین قرار گرفته‌اند.",
-            "محتوا روی «امکان‌پذیری عملی انتقال وجوه» تمرکز دارد: وقتی حجم دلارها بالا بوده، زیرساخت‌های شبکه‌ای طرف‌های بزرگ کریپتو به‌عنوان مسیر انتقال فعال شده‌اند (نه یک سازوکار مبهم یا محلی).",
-            "این گزارش می‌تواند نشان دهد که اتکای رژیم/وابستگان به ابزارهای مالی دیجیتال برای دورزدن فشارهای خارجی، به‌صورت ساختاری و با استفاده از زیرساخت‌های استاندارد صنعت، ادامه داشته است (به شرط جزئیات بیشتر در متن کامل)."
-        ],
-        "impact": "این رویداد، اگر صحتِ جزئیات رویترز تأیید شود، شکاف فشار بیرونی را با ابزارهای مالی دیجیتال پر می‌کند و توان عملیاتی در جابه‌جایی سرمایه را برای بازیگران داخل ایران افزایش می‌دهد.",
-        "tag": "تحریم‌گریزی",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/money/companies/exclusive-how-trump-s-crypto-venture-and-iran-s-top-exchange-tapped-into-the-same-industry-networks/ar-AA23ulN5",
-        "clean_url": "https://www.msn.com/en-us/money/companies/exclusive-how-trump-s-crypto-venture-and-iran-s-top-exchange-tapped-into-the-same-industry-networks/ar-AA23ulN5",
-        "image": "http://www.bing.com/th?id=ONUT._wngsFv4ESWZuMs3CfiXaQ&pid=News",
-        "timestamp": 1779091863.0
     }
 ]
