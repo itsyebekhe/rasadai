@@ -108,6 +108,42 @@
         "timestamp": 1779710567.0
     },
     {
+        "title_fa": "دستور رئیس‌جمهور برای بازگشایی اینترنت بین‌المللی پس از ۹۰ روز قطع",
+        "title_en": "Iran's president orders reopening of international internet access, state media reports",
+        "summary": [
+            "مسعود پزشکیان دستور داده دسترسی اینترنت بین‌المللی دوباره برقرار شود؛ گزارش رسانه دولتی می‌گوید این اقدام بعد از حدود ۹۰ روز قطعی انجام شده است.",
+            "این تصمیم نشان می‌دهد قطع گسترده ارتباطات اینترنتی، فارغ از اهداف امنیتی یا مدیریتی ادعاشده، عملاً به‌عنوان یک ابزار فشار/مهار اجرا شده و حالا نیاز به «تنظیم مجدد» آن مطرح شده است.",
+            "بازگشایی اینترنت بین‌المللی پس از دوره طولانی، پیام سیاسی-امنیتی ضمنی برای کنترل افکار عمومی و جریان اطلاعات دارد و می‌تواند هم‌زمان نشانه شکست در مدیریت پایدار ارتباطات و خدمات دیجیتال باشد."
+        ],
+        "impact": "بازگشایی اینترنت بین‌المللی می‌تواند موقتاً فشار اطلاعاتی را کاهش دهد، اما خودِ سابقه ۹۰ روزه قطع، ریسک بی‌ثباتی حکمرانی و نارضایتی عمومی ناشی از اختلالات ارتباطی را برجسته می‌کند.",
+        "tag": "اینترنت",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Al-Monitor",
+        "url": "https://www.al-monitor.com/originals/2026/05/irans-president-orders-reopening-international-internet-access-state-media",
+        "clean_url": "https://www.al-monitor.com/originals/2026/05/irans-president-orders-reopening-international-internet-access-state-media",
+        "image": "http://www.bing.com/th?id=ONUT.7JWOC5ML9DMO42A8vvc13g&pid=News",
+        "timestamp": 1779707040.0
+    },
+    {
+        "title_fa": "تغییر لحن ترامپ: «نزدیک بودن» توافق با ایران، همراه با «عجله نداشتن»؛ همزمان میانجی‌ها در تهران",
+        "title_en": "Donald Trump says a deal with Iran is close. But he also says he is in no rush",
+        "summary": [
+            "ترامپ اعلام کرده توافق با ایران «نزدیک» است، اما همزمان تاکید کرده عجله‌ای در کار نیست؛ این دوگانه می‌تواند زمان‌بندی مذاکره را مبهم و اراده ایران و واشنگتن را در معرض آزمون قرار دهد.",
+            "در دوره تعطیلات طولانی روز یادبود، دیپلمات‌ها در واشنگتن امیدوار بودند توافق در آستانه باشد، اما نبود قطعیت از سوی طرف آمریکا نشانه کاهش قابلیت پیش‌بینی مسیر مذاکرات است.",
+            "میانجی‌ها یعنی مقامات پاکستان و قطر برای کمک به میانجی‌گری به تهران سفر کرده‌اند؛ این یعنی روند مذاکره همچنان فعال است، اما به دلیل اظهارات «درنگ» ترامپ، ریسک طولانی شدن روند و چانه‌زنی مجدد بالا می‌رود."
+        ],
+        "impact": "این خبر بیشتر یک حرکت سیاسی/دیپلماتیک با عدم‌قطعیت زمانی است که می‌تواند هم امید مذاکراتی را تقویت کند و هم با «عجله نداشتن» ترامپ، ضرب‌آهنگ رسیدن به توافق را کند یا پیچیده کند.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Economist",
+        "url": "https://www.economist.com/middle-east-and-africa/2026/05/25/donald-trump-says-a-deal-with-iran-is-close-but-he-also-says-he-is-in-no-rush",
+        "clean_url": "https://www.economist.com/middle-east-and-africa/2026/05/25/donald-trump-says-a-deal-with-iran-is-close-but-he-also-says-he-is-in-no-rush",
+        "image": "http://www.bing.com/th?id=ONUT.9DOunqKaIJKa1x-1bDLbeQ&pid=News",
+        "timestamp": 1779705660.0
+    },
+    {
         "title_fa": "گزارش WUSA9: شکل‌گیری توافق برای پایان جنگ ایران؛ آمریکا از «شرایط مورد بحث» می‌گوید",
         "title_en": "Deal to end Iran war is emerging, US officials say. Here are the terms being discussed.",
         "summary": [
@@ -412,6 +448,24 @@
         "clean_url": "https://www.bloomberg.com/news/articles/2026-05-25/israel-set-to-cut-rates-as-efforts-to-end-to-iran-war-advance",
         "image": null,
         "timestamp": 1779678000.0
+    },
+    {
+        "title_fa": "اعتراف نتانیاهو به محدودیت نفوذ اسرائیل بر تصمیم‌های ترامپ درباره ایران",
+        "title_en": "Netanyahu admits difficulty influencing Trump decisions on Iran, sources say",
+        "summary": [
+            "به نقل از منابع، نتانیاهو در گفت‌وگوهای خصوصی با نزدیکانش گفته اسرائیل «توان اندکی» برای اثرگذاری بر تصمیم‌های دونالد ترامپ در پرونده ایران دارد؛ یعنی اهرم‌های سنتی لابی/نفوذ در واشینگتن این‌بار به نتیجه نرسیده یا حداقل در سطحی که انتظار می‌رفت عمل نمی‌کند.",
+            "این روایت هم‌زمان با مذاکرات ترامپ درباره موضوعات مرتبط در حال انجام است و پیام اصلی آن این است که مسیر سیاست آمریکا در قبال ایران بیش از آنکه قابل مهار از سوی اسرائیل باشد، تابع ملاحظات داخلی و محاسبات مستقیم خود کاخ سفید می‌شود.",
+            "در سطح راهبردی، اگر اسرائیل نتواند بر زمان‌بندی یا شدت اقدام علیه ایران اثر بگذارد، احتمال نوسان در سیاست واشینگتن افزایش می‌یابد: نه لزوماً تشدید فوری، بلکه احتمال تغییر مسیر، معامله‌محور شدن تصمیم‌ها یا عقب‌نشینی تاکتیکی."
+        ],
+        "impact": "این خبر نشان می‌دهد که رژیم پهلوی‌ستیز فعلی ایران ممکن است از یک کانال فشار ثابت و پیش‌بینی‌پذیر برخوردار نباشد، اما پیامد مستقیم آن افزایش بی‌ثباتی در ابزارهای فشار خارجی است، نه تضمین کاهش تهدید.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/netanyahu-admits-difficulty-influencing-trump-decisions-iran-sources-say-2026-05-25/",
+        "clean_url": "https://www.reuters.com/world/middle-east/netanyahu-admits-difficulty-influencing-trump-decisions-iran-sources-say-2026-05-25",
+        "image": "http://www.bing.com/th?id=ONUT.uYH2n3F_u6TknBWAWze33A&pid=News",
+        "timestamp": 1779675600.0
     },
     {
         "title_fa": "سقوط تند قیمت نفت همزمان با بن‌بست‌نما در گفت‌وگوهای آمریکا و ایران",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVV1ckZQWkMyYWFjSEROX0FvdFI0QlRQbGxjWlBvQ1RXWGxwaFlrLWlZa1B5QzFwdWtzdjdzc1RudUctYm11NDdpMkNhWnlMNmlpdngxVTJuRFBDY0hDMUpuXzkxZGI5bktYS0x2a0dQM3F5SEhpcFJWcl9SZ2g3ang0d3J2UjZSRi12OHJzQ0xvQ1BacHFYdnJrdXdKd1lYdVZzTnh30gGrAUFVX3lxTE1HRkg4Y3YtaUNDR0FoLXlLY2o0ekE2ZzRseXVLOFdjVmlZcU45V2FHVVFNci01OTk4Ny1RUS1KWGlzcG52Z3J2WTFaWk5OM00xSDhiZ0ljYW5JNmtNUjFVeEpYZW1VVF9wRHpQY2pfRWl5YUR3OUF4ZTdlYmRObHVIWDdyMUZTMS1BbGJLdUxvQjNBSGpUb2Y4bTJzM014a1paRjRFMmRleUtCMA",
         "image": null,
         "timestamp": 1779175800.0
-    },
-    {
-        "title_fa": "تایم‌لاین حمله مشترک آمریکا-اسرائیل به ایران؛ کشته شدن رهبر عالی در ۲۸ فوریه ۲۰۲۶",
-        "title_en": "Iran war timeline and key moments, explained",
-        "summary": [
-            "شب ۲۷ فوریه، با افزایش فعالیت‌های غیرعادی در دولت آمریکا و انتشار ویدیوی پرواز بمب‌افکن‌ها برای حمله به اهداف ایران، نشانه‌های نزدیک بودن عملیات نظامی آشکار شد؛ در ساعت حدود ۲ بامداد به وقت واشنگتن، روایت CNN از فوریت عملیاتی خبر می‌داد.",
-            "در ۲۸ فوریه، ترامپ در ویدئویی منتشرشده در Truth Social اعلام کرد عملیات‌های جنگی گسترده آمریکا در ایران آغاز شده است؛ همچنین جزئیات اولیه حملات از گفته‌های مستقیم او منتشر شد.",
-            "طبق گزارش‌های پس از شروع حملات، اولین موج ضربات به تهران و سایر مناطق منجر به کشته شدن رهبر عالی ایران و «ده‌ها» مقام ارشد دیگر، از جمله وزیر دفاع و فرمانده سپاه پاسداران شد."
-        ],
-        "impact": "کشته شدن رهبر عالی و شماری از فرماندهان ارشد در موج نخست، احتمال اختلال فوری در زنجیره فرماندهی و تصمیم‌گیری را به‌طور جدی بالا می‌برد و ریسک تشدید چرخه تلافی‌جویانه را هم افزایش می‌دهد.",
-        "tag": "escalation",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://www.cnn.com/interactive/2026/05/politics/iran-war-key-moments-vis/",
-        "clean_url": "https://www.cnn.com/interactive/2026/05/politics/iran-war-key-moments-vis",
-        "image": null,
-        "timestamp": 1779174960.0
-    },
-    {
-        "title_fa": "ترامپ بمباران جدید علیه ایران را پس از درخواست متحدان خلیج فارس لغو کرد",
-        "title_en": "Trump says Iran strike called off after Gulf allies appealed",
-        "summary": [
-            "ترامپ اعلام کرد حمله بمباران جدید که برای سه‌شنبه برنامه‌ریزی شده بود را به تعویق انداخته، چون عربستان سعودی و دیگر متحدان خلیج فارس از او خواسته‌اند جنگ متوقف شود و مسیر مذاکره برای پایان جنگ باز شود.",
-            "این تصمیم نشان می‌دهد فشار دیپلماتیک بیرونی در لحظه قادر است «گزینه نظامی» را از دستور کار خارج کند، یعنی سطح درگیری قابل مدیریت است—اما به شرط پذیرش یک چارچوب معاملاتی که هنوز ارائه نشده است.",
-            "به‌خاطر ماهیت «معلق شدن عملیات»، ارزیابی اثر فوری این رخداد بیشتر متوجه فضای روانی و محاسبات امنیتی دو طرف است تا یک تغییر تضمینی در سیاست ایران یا ساختار تصمیم‌گیری در تهران."
-        ],
-        "impact": "تعویق بمباران می‌تواند روند مذاکرات و محاسبات تهدید را موقتاً تغییر دهد، اما تا زمانی که چارچوب توافق روشن نشود، خطر ازسرگیری حمله و ادامه جنگ همچنان پابرجاست.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-says-iran-strike-called-off-after-gulf-allies-appealed/ar-AA23xzwD",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-strike-called-off-after-gulf-allies-appealed/ar-AA23xzwD",
-        "image": "http://www.bing.com/th?id=ONUT.9drb9wfmYNr3HYoSEKktOw&pid=News",
-        "timestamp": 1779172501.0
-    },
-    {
-        "title_fa": "نشت نفت پس از حمله به پالایشگاه ایران در جزیره لاوان؛ آلودگی دریای پارس تا شیدوار رسید",
-        "title_en": "Video and satellite photos show Iran war oil spill on Persian Gulf island",
-        "summary": [
-            "ویدئو و تصاویر ماهواره‌ای نشان می‌دهد پس از حمله به یک پالایشگاه نفتی در جزیره لاوان، آتش‌سوزی دو روز ادامه داشته و لکه نفتی در آب‌های خلیج فارس اطراف جزیره شیدوار (نام محلی: مارو) ایجاد شده است؛ شیدوار زیستگاه مهم و بدون سکنه برای تولیدمثل گونه‌های جانوری است.",
-            "طبق گزارش، فیلم‌های موبایلی از محلی که توسط فردی به نام عِحسان جلالی ثبت شده، دود غلیظ پس از ضربه به پالایشگاه را نشان می‌دهد و ادامه ماجرا با مشاهده پرنده و جانوران بی‌جانِ پوشیده از نفت (و همچنین مواردی مثل ماهی کشف‌شده) همراه بوده است؛ همچنین گفته می‌شود بارش بارانِ آلوده نیز در تهران رخ داده است.",
-            "حمله‌های ایران به تأسیسات نفتی و همچنین حمله به کشتی‌های عبوری از تنگه هرمز و دریای عمان، به عنوان عوامل آسیب زیست‌محیطی دیگر مطرح شده‌اند و محدودیت گسترده اینترنت که به گفته مقاله برای چند هفته اعمال شده، انتشار ویدئوها را به شبکه‌های محدودتر پس از زمان ضربه محدود کرده است."
-        ],
-        "impact": "این حادثه، هزینه عملیاتی جنگ نفتی را از سطح تهدید نظامی به تخریب مستقیم زیست‌محیطی در یکی از حساس‌ترین نقاط دریایی ایران گسترش می‌دهد.",
-        "tag": "زیست‌محیطی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Orlando Sentinel",
-        "url": "https://www.orlandosentinel.com/2026/05/19/iran-war-oil-spill/",
-        "clean_url": "https://www.orlandosentinel.com/2026/05/19/iran-war-oil-spill",
-        "image": "http://www.bing.com/th?id=ONUT.2NxT4NP5uKal3a8oU4z_IQ&pid=News",
-        "timestamp": 1779170940.0
     }
 ]
