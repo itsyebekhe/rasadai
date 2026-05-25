@@ -54,6 +54,24 @@
         "timestamp": 1779724115.0
     },
     {
+        "title_fa": "کندشدن ضرب‌الاجل معامله: ترامپ می‌گوید «عجله نمی‌کنیم» و همچنان «محاصره» را نگه می‌دارد؛ زمزمه صدور اورانیوم غنی‌شده به چین",
+        "title_en": "US-Iran Peace Deal LIVE: Trump says negotiations proceeding nicely; ‘Iran ready to ship out enriched uranium if…'",
+        "summary": [
+            "ترامپ اعلام کرده مذاکرات با ایران «منظم و سازنده» پیش می‌رود، اما به نمایندگانش دستور داده «عجله نکنند» چون زمان به نفع واشینگتن است؛ هم‌زمان تاکید کرده «محاصره» تا زمان رسیدن به توافق، تایید و امضا برقرار می‌ماند.",
+            "در کنار این موضع‌گیری، گزارش شده درباره احتمال «ارسال اورانیوم غنی‌شده» از سوی ایران صحبت شده—در متن آمده ایران اگر شروطی برقرار شود، آمادگی دارد اورانیوم غنی‌شده را برای چین ارسال کند (مشروط به چارچوب/شرایط توافق).",
+            "هم‌زمان خبرهایی از اختلاف/تنش میان ترامپ و بنیامین نتانیاهو مطرح شده؛ نتانیاهو ظاهراً خواهان اقدام نظامی علیه ایران «هم‌اکنون» است، در حالی‌که حزب‌الله می‌گوید امید دارد معامله ایران-آمریکا شامل آن‌ها هم باشد."
+        ],
+        "impact": "این روند یعنی واشینگتن با استفاده از اهرم «محاصره» در پی گرفتن امتیازهای سخت‌گیرانه‌تر است، در حالی که پیشنهادهای مربوط به صادرات اورانیوم می‌تواند محور چانه‌زنی را به سمت تغییرات ملموس در برنامه هسته‌ای و کانال‌های بین‌المللی سوق دهد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/world/usiran-war-news-live-peace-deal-donald-trump-oil-prices-gold-strait-of-hormuz-benjamin-netanyahu-11779669422274.html",
+        "clean_url": "https://www.livemint.com/news/world/usiran-war-news-live-peace-deal-donald-trump-oil-prices-gold-strait-of-hormuz-benjamin-netanyahu-11779669422274.html",
+        "image": "http://www.bing.com/th?id=ONUT.ztxkxzjSnUB2lPL05uUZAQ&pid=News",
+        "timestamp": 1779720600.0
+    },
+    {
         "title_fa": "اظهارات ترامپ درباره «توافق بزرگ و معنادار» با ایران",
         "title_en": "Trump says any deal with Iran will be ‘great and meaningful’",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.foxnews.com/opinion/trumps-iran-war-comes-one-brutal-question-comes-next",
         "image": "http://www.bing.com/th?id=ONUT.Ch6bPOO98FVgP47mGphViA&pid=News",
         "timestamp": 1779184200.0
-    },
-    {
-        "title_fa": "لبه‌تندش خاورمیانه؛ اعلام ترامپ درباره به‌تعجیل نیفتادن حمله به ایران",
-        "title_en": "Middle East on Edge After Trump Says He Delayed Attack on Iran",
-        "summary": [
-            "خبر اصلی این است که ترامپ اعلام کرده زمان‌بندی حمله به ایران را به‌طور مشخص به تعویق انداخته، و همین اظهارنظر فوریت و عدم‌قطعیت را در منطقه بالا برده است.",
-            "این وضعیت به‌طور مستقیم ریسک محاسبه‌نادرست را افزایش می‌دهد: حتی بدون جزئیات نظامی در متن ارسالی، اعلام عمومیِ تغییر زمان‌بندی می‌تواند واکنش‌های زنجیره‌ای از سوی بازیگران منطقه‌ای و محاسبات دفاعی رژیم را تحریک کند.",
-            "در نبود اطلاعات تکمیلی، تمرکز راهبردی باید روی پیامد سیاسی-امنیتی اظهارنظر باشد: تشدید تنش و فرسایش ظرفیت مدیریت بحران در سطح منطقه، به‌ویژه وقتی زمان‌بندی عملیات «قابل تغییر» معرفی می‌شود."
-        ],
-        "impact": "این نوع اعلام عمومی، بدون نیاز به شروع درگیری واقعی، به‌صورت مستقیم احتمال تشدید تنش و درگیری ناخواسته در خاورمیانه را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html",
-        "clean_url": "https://www.nytimes.com/2026/05/19/world/middleeast/iran-trump-tension.html",
-        "image": null,
-        "timestamp": 1779181980.0
     }
 ]
