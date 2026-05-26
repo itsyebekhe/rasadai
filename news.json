@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "بن‌بست مذاکرات ایران-آمریکا بر سر هسته‌ای و «رفع فشار مالی»",
+        "title_en": "Iran-US negotiations stalling around nuclear program, financial relief, mediators say - report",
+        "summary": [
+            "طبق گزارش Jerusalem Post، مذاکرات ایران و آمریکا در موضوع برنامه هسته‌ای و همچنین ارائه «رفع فشار مالی» در حالت توقف/کندی قرار گرفته است؛ نقش «میانجی‌ها» به عنوان عامل مدیریت بن‌بست مطرح شده، نه حل اختلافات.",
+            "این توقف یعنی توافق احتمالی بر سر چارچوب محدودیت‌های هسته‌ای و سازوکار تبادل/تضمین‌های مالی فعلاً پیش نمی‌رود و روند تصمیم‌گیری به سمت عدم قطعیت طولانی‌تر می‌کشد.",
+            "از منظر فشار خارجی، چون «رفع فشار مالی» در کانون مذاکره است، بن‌بست می‌تواند دوباره هزینه مبادله‌/تأمین مالی را بالا ببرد و فشار اقتصادی-سیاسی داخلی را تشدید کند؛ اما گزارش فعلی جزئیات عددی یا اقدام اجرایی جدید ارائه نمی‌کند."
+        ],
+        "impact": "بن‌بست در دو محور هسته‌ای و کمک مالی، احتمال طولانی شدن وضعیت فشار و ناپایداری اقتصادی-سیاسی را بالا می‌برد بدون اینکه فعلاً مسیر توافق روشن باشد.",
+        "tag": "مذاکرات",
+        "urgency": 6,
+        "sentiment": -0.35,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MU29uNGJRaEwwMzNwQUV3R0pQSnowOFpYRUJHM1lZTEt4V29tR3hnYWR1ZUV2R3hVUzBHWEVSUmxVOVQ1TWhDZENlNnhoMnFyWUpnX3ZIa0ZPUEJQelZlTXcwVmwzV1A0a1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MU29uNGJRaEwwMzNwQUV3R0pQSnowOFpYRUJHM1lZTEt4V29tR3hnYWR1ZUV2R3hVUzBHWEVSUmxVOVQ1TWhDZENlNnhoMnFyWUpnX3ZIa0ZPUEJQelZlTXcwVmwzV1A0a1E",
+        "image": null,
+        "timestamp": 1779776454.0
+    },
+    {
         "title_fa": "آمریکا حملات علیه ایران را از سر گرفت و آن را به «تهدید علیه نیروهایش» گره زد",
         "title_en": "U.S. renews strikes on Iran, citing threats posed to American troops",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RX3J1OVFNWlNsbXF2S1E2elJpdkxUQnhTbkdDTUdhcl96amVGYjIxNGR3RjRndXVjVUdWUVZYMFE4aUp2ZE9UVjNvMFR3b011S2YxV0drV2VPbG1wdldKMDlQaXVsNHd0eFZyVw",
         "image": null,
         "timestamp": 1779769980.0
+    },
+    {
+        "title_fa": "بلومبرگ: رهبر جمهوری اسلامی با «سخت‌ترین آزمون تا امروز» روبه‌رو است",
+        "title_en": "Iran’s Supreme Leader Faces Toughest Test Yet",
+        "summary": [
+            "بلومبرگ این گزارش را به‌عنوان «سخت‌ترین آزمون تا امروز» برای رهبر جمهوری اسلامی معرفی کرده، اما در متن ارائه‌شده هیچ جزئیاتی از ماهیت بحران (داخلی/اقتصادی/امنیتی) ذکر نشده است.",
+            "نبودِ داده‌های مشخص در این ورودی، مانع از ارزیابی دقیق فشار خارجی، واکنش نیروهای امنیتی، یا اثرگذاری بر ثبات سیاسی می‌شود و فقط می‌توان نتیجه گرفت که سطح ریسک برای ساختار قدرت بالا رفته است.",
+            "با اتکا به همین سطح از اطلاعات، نمی‌توان ارتباطی با تحریم‌ها، اقدامات علیه دارایی‌های رژیم، یا نقش بازیگران خارجی (روسیه/چین/کره‌شمالی) را بدون شواهد اضافه کرد."
+        ],
+        "impact": "این تیتر به‌طور ضمنی نشان می‌دهد که فشار یا بحران پیشِ روی ساختار رهبری شدیدتر از دوره‌های قبل است، اما برای سنجش اثر واقعی به جزئیات خبر نیاز داریم.",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Bloomberg.com",
+        "url": "https://time.com/article/2026/04/21/war-iran-mojtaba-khamenei-supreme-leader/",
+        "clean_url": "https://time.com/article/2026/04/21/war-iran-mojtaba-khamenei-supreme-leader",
+        "image": null,
+        "timestamp": 1779769883.0
     },
     {
         "title_fa": "حملات آمریکا به جنوب ایران هم‌زمان با مذاکرات قطر",
@@ -88,6 +124,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaDJGdEZ0YndpVVJXUlUydGhtZnZWVUFDdnR6MUdTSmhQNVMyZmRKUGMxZC0yTUNNTGw1Q2Q1M3VsNWVacFJ2X3cwd1BiOTd4b1BSYWxBM1Bodw",
         "image": null,
         "timestamp": 1779763459.0
+    },
+    {
+        "title_fa": "تدارکات جدید آمریکا: حملات تازه علیه قایق‌ها و سامانه‌های پرتاب موشک در ایران",
+        "title_en": "U.S. launches new strikes in Iran, targeting boats and missile launchers",
+        "summary": [
+            "طبق اعلام سخنگوی فرماندهی مرکزی آمریکا، حملات جدید در «دفاع از خود» انجام شده و هدف‌گذاری روی قایق‌ها و پرتاب‌گرهای موشکی بوده است.",
+            "آمریکا این اقدام را با ادعای «خویشتن‌داری» هم‌زمان با «توافق آتش‌بس» توصیف می‌کند، اما خودِ حمله نشان می‌دهد آتش‌بس در میدان به‌طور کامل رعایت یا مؤثر تلقی نشده است.",
+            "این یعنی ظرفیت‌های عملیاتی و تحرک دریایی/موشکی مرتبط با شبکه تهدید، مستقیم هدف قرار گرفته و پیام بازدارندگی از سوی واشنگتن به شکل نظامی منتقل شده است."
+        ],
+        "impact": "این اقدام می‌تواند فشار فوری بر قابلیت‌های لجستیکی و پرتابی رژیم وارد کند و ریسک تشدید چرخه درگیری را بالا ببرد.",
+        "tag": "ایالات_متحده",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/us-military-says-conducted-self-defense-strikes-targets-iran-rcna346839",
+        "clean_url": "https://www.nbcnews.com/world/iran/us-military-says-conducted-self-defense-strikes-targets-iran-rcna346839",
+        "image": "http://www.bing.com/th?id=ONUT._GCjdED3NrsVty_TPuGi5Q&pid=News",
+        "timestamp": 1779756780.0
+    },
+    {
+        "title_fa": "روز ۸۸ جنگ: حملات آمریکا در جنوب ایران نزدیک تنگه هرمز و ادامه مذاکرات قطر",
+        "title_en": "Iran war day 88: US attacks near Strait of Hormuz; talks under way in Qatar",
+        "summary": [
+            "طبق گزارش‌ها، نیروهای آمریکا در جنوب ایران حملاتی انجام داده‌اند و آن را «دفاع از خود» توصیف کرده‌اند؛ انفجارها در بندرعباس (نقطه راهبردی نزدیک تنگه هرمز) گزارش شد و رسانه‌های ایران بعداً اعلام کردند وضعیت تحت کنترل است.",
+            "همزمان با این حملات، هیئت عالی‌رتبه ایران برای مذاکرات در قطر در جریان است: عباس عراقچی، محمدباقر قالیباف و عبدالناصر همتی به‌عنوان اعضای هیئت مذاکره‌کننده معرفی شده‌اند؛ سخنگوی وزارت خارجه نیز از «پیشرفت» خبر داده اما از «قطعی بودن/فوری بودن» توافق صحبت نکرده است.",
+            "در جبهه داخلی، خبرها از رفع کامل قطع اینترنت سراسری پس از حدود ۸۷ روز منتشر شده و همچنین شهرداری تهران اعلام کرده ۹۷٪ ساختمان‌های با آسیب جزئی مرتبط با حملات آمریکا-اسرائیل ترمیم شده‌اند."
+        ],
+        "impact": "ترکیب فشار نظامی در مجاورت تنگه هرمز با ادامه گفت‌وگوهای قطر نشان می‌دهد آمریکا هم‌زمان دنبال مهار و ارزیابی توان دریایی ایران است، بدون اینکه خود را از مسیر مذاکره خارج کند.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-war-day-88-us-061634456.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-war-day-88-us-061634456.html",
+        "image": "http://www.bing.com/th?id=ONUT.df8yyQ_w5b4xZHgdHQdExw&pid=News",
+        "timestamp": 1779751320.0
     },
     {
         "title_fa": "ترامپ شرط «توافق صلح» با ایران را به عادی‌سازی با اسرائیل گره زد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa202c3hySDAwVGpWa3pwQ2FTY0Uta3ByM0NKQ3FHb1dMSkkxdWM3RzltSjBFbERVSFZjbmVOYm9tanNEUEI2NXFyWjFVRmFSaTJIRnJtLVFzcG5sd0k0ZFludmZHaW1zWFBzaVB1Q2VVS0NLLXJvbmNhRHdXOGg3VHFHNUJtVVVUNWhwX01DamkwUmExRkk2d1BWcms5Ql90eFk5QW5UNDQ3c2I3d2g3SDlIQmhsWGRpNHoya2NoR1Fpdkd3",
         "image": null,
         "timestamp": 1779213905.0
-    },
-    {
-        "title_fa": "آمادگی آمریکا-اسرائیل برای فشار به ایران جهت کنار گذاشتن برنامه هسته‌ای",
-        "title_en": "US-Israel Preparations to Compel Iran to Abandon its Nuclear Ambitions - Jerusalem Studio 1024",
-        "summary": [
-            "بر اساس گزارش تلویزیونی «TV7 Israel News» با عنوان «Jerusalem Studio 1024»، آمریکا و اسرائیل در حال آماده‌سازی برای اعمال فشار به ایران با هدف وادار کردن به کنار گذاشتن «جاه‌طلبی‌های هسته‌ای» هستند.",
-            "محتوا به‌طور مشخص بر «اقدام‌های آماده‌سازی» برای وادارسازی تمرکز دارد، اما جزئیات روش (تحریم، عملیات مخفی یا اقدام نظامی) در متن ارائه‌شده ذکر نشده است.",
-            "این روایت، چارچوب فشار خارجی را محور قرار می‌دهد و می‌تواند به معنای افزایش ریسک برای محاسبات سیاسی-امنیتی تهران باشد، چون پیام اصلی آن «تغییر رفتار اتمی ایران» از طریق فشار است."
-        ],
-        "impact": "این سناریو، بدون ارائه جزئیات، سیگنال تشدید فشار خارجی بر ایران برای تغییر مسیر هسته‌ای را تقویت می‌کند.",
-        "tag": "فشار_هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "TV7 Israel News",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnYzh4QmVpUkd3T1N3VHNySVpDbjcweEN5ZElEbzBNd2d3MG0zNm0xeldMaWdENW9GdlJOMFZPZy1DM2Fob3JMd1RpM2pKakhNMTZqUHdGeTVibXdPM2hBU2lXM2Zwc3B5OGZGcm5nM1dFMGI5UGlCOEJn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnYzh4QmVpUkd3T1N3VHNySVpDbjcweEN5ZElEbzBNd2d3MG0zNm0xeldMaWdENW9GdlJOMFZPZy1DM2Fob3JMd1RpM2pKakhNMTZqUHdGeTVibXdPM2hBU2lXM2Zwc3B5OGZGcm5nM1dFMGI5UGlCOEJn",
-        "image": null,
-        "timestamp": 1779212379.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید شی به او اطمینان داده چین سلاح به ایران نمی‌فرستد",
-        "title_en": "Trump says Xi assured him China would not send weapons to Iran",
-        "summary": [
-            "خبر فقط در سطح ادعای سیاسی مطرح است: دونالد ترامپ می‌گوید شی به او «تضمین» داده چین سلاح به ایران ارسال نخواهد کرد؛ هیچ جزئیات قابل راستی‌آزمایی در متن ارائه نشده است.",
-            "از منظر فشار خارجی، اگر این اطمینان معتبر تلقی شود می‌تواند به کاهش دسترسی ایران به برخی اقلام تسلیحاتی کمک کند، اما چون متن به سازوکار اجرایی/حجم کالا اشاره ندارد، اثرگذاری آن فعلاً بیشتر سیاسی است تا ساختاری.",
-            "در نبود شواهد اقتصادی یا میدانی در همین گزارش، نمی‌توان نتیجه گرفت که به اقتصاد یا ثبات داخلی رژیم فوراً ضربه وارد می‌شود؛ فعلاً سیگنالِ کاهش ریسک تامین خارجی است، نه گزارش از تغییر قطعی در تراز تسلیحاتی."
-        ],
-        "impact": "این اعلامیه در صورت تحقق عملی می‌تواند ریسک تامین تسلیحاتی را کاهش دهد، اما با اطلاعات محدود، هنوز اثر فوری و قطعی بر توان رژیم یا اعتراضات داخلی قابل اثبات نیست.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://thehill.com/homenews/ap/ap-international/ap-the-latest-trump-wraps-up-china-visit-and-holds-private-meeting-with-chinese-leader-xi-jinping-2/",
-        "clean_url": "https://thehill.com/homenews/ap/ap-international/ap-the-latest-trump-wraps-up-china-visit-and-holds-private-meeting-with-chinese-leader-xi-jinping-2",
-        "image": null,
-        "timestamp": 1779209796.0
-    },
-    {
-        "title_fa": "پیشروی سنای آمریکا در لایحه برای پایان جنگ علیه ایران؛ کاسی پس از شکست در مقدماتی تغییر موضع داد",
-        "title_en": "Senate advances bill aimed at ending Iran war as Cassidy, after primary loss, flips to support",
-        "summary": [
-            "سنای آمریکا در حال پیشبرد یک لایحه است که هدف آن «پایان جنگ علیه ایران» اعلام شده و نشان‌دهنده فشار سیاسی-قانونی برای تغییر مسیر سیاست واشنگتن است.",
-            "«کاسی» پس از شکست در انتخابات مقدماتی، موضع خود را تغییر داده و این بار از لایحه حمایت می‌کند؛ یعنی دست‌کم در سطح سناتورها، امکان ایجاد اجماع بیشتر برای محدودسازی یا بازتعریف اقدامات جنگی وجود دارد.",
-            "چنین روندی مستقیماً به محیط تصمیم‌گیری کاخ سفید و احتمال تداوم یا کاهش عملیات و سرمایه‌گذاری نظامی علیه ایران اثر می‌گذارد؛ اما گزارش فعلاً جزئیات اجراییِ اعمال‌شدنی را ارائه نمی‌کند."
-        ],
-        "impact": "پیشروی این لایحه می‌تواند فشار ساختاری بر استمرار مسیر جنگ ایجاد کند و هزینه سیاسی ادامه‌دادن سیاست‌های تهاجمی را بالا ببرد، حتی اگر اجرای دقیق آن هنوز قطعی نشده باشد.",
-        "tag": "تحریم_و_فشار",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/trump-iran-war-senate-bill-cassidy-fe89d2df981a79ac816722d0115d3080",
-        "clean_url": "https://apnews.com/article/trump-iran-war-senate-bill-cassidy-fe89d2df981a79ac816722d0115d3080",
-        "image": "http://www.bing.com/th?id=ONUT.8-kyH98_lJDKiVsyNdYshw&pid=News",
-        "timestamp": 1779207900.0
-    },
-    {
-        "title_fa": "ترس از تورم دستورکار اقتصادی اجلاس G7 را زیر سایه جنگ ایران می‌برد",
-        "title_en": "Inflation Fears Cloud G7 Economic Agenda as Iran War Persists",
-        "summary": [
-            "گزارش نیویورک‌تایمز اعلام می‌کند که نگرانی‌های فزاینده از تورم، برنامه‌های اقتصادی G7 را تحت‌تأثیر قرار داده است؛ یعنی محور سیاست‌گذاری اقتصادی این بلوک با ریسک‌های تورمی و هزینه‌های بحران خارجی گره خورده.",
-            "هم‌زمان، تداوم «جنگ ایران» به‌عنوان عامل پس‌زمینه مطرح شده که می‌تواند بر انتظارات بازار، قیمت انرژی و هزینه واردات/صادرات اثر بگذارد و در نتیجه تصمیم‌های اقتصادی را پیچیده‌تر کند.",
-            "نکته کلیدی این است که در سطح بین‌المللی، اولویت‌های اقتصادی در حال جابه‌جایی به سمت مدیریت پیامدهای جنگ است؛ پیامدی که معمولاً در نهایت از مسیر محدودیت‌های مالی/تجاری و نوسان بازارها فشار را تشدید می‌کند."
-        ],
-        "impact": "این وضعیت یعنی دستورکار اقتصادی G7 به جای تمرکز بر سیاست‌های ضدتورمی و رشد، ناچار است واکنش به تبعات اقتصادیِ ادامه جنگ را در اولویت قرار دهد و فضای مالی را ناپایدارتر کند.",
-        "tag": "تحلیل_ژئوایكونومیک",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html",
-        "clean_url": "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html",
-        "image": null,
-        "timestamp": 1779207563.0
     }
 ]
