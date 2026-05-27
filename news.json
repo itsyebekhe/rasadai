@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "بازگشت نسبی اینترنت، شکاف درون حاکمیت را عیان کرد",
+        "title_en": "Iran’s partial internet return exposes rift inside ruling system",
+        "summary": [
+            "ایران اینترنشنال گزارش می‌دهد که بازگشت «جزئی» اینترنت، به‌جای یک فرمان یکپارچه، نشانه اختلاف و چندپارگی درون ساختار حکمرانی است.",
+            "این الگو معمولاً یعنی تصمیم‌گیری درباره کنترل ارتباطات و محدودسازی/برداشت آن هماهنگ نیست و بین نهادهای امنیتی-اداری اختلاف وجود دارد.",
+            "چون دسترسی اینترنتی کامل برقرار نشده، ادامه نااطمینانی برای کسب‌وکارها، رسانه‌ها و کاربران می‌تواند نارضایتی اجتماعی و فرسایش اعتماد عمومی را تشدید کند."
+        ],
+        "impact": "بازگشت ناقص اینترنت سیگنال می‌دهد کنترل ارتباطات در داخل حاکمیت یک‌دست نیست و همین دودستگی می‌تواند بر ثبات سیاسی و اجتماعی اثر فرسایشی بگذارد.",
+        "tag": "اینترنت",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42ZTh1ZFFOQlYxQThEUzA3OGhhZDFmaVNYLVdzMnRsbUl5VU5HWjZidkV6alpTN0E5UncxWXd6OFN6ZmwyUkV1RmQtQkphT09UeGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42ZTh1ZFFOQlYxQThEUzA3OGhhZDFmaVNYLVdzMnRsbUl5VU5HWjZidkV6alpTN0E5UncxWXd6OFN6ZmwyUkV1RmQtQkphT09UeGc",
+        "image": null,
+        "timestamp": 1779911657.0
+    },
+    {
         "title_fa": "گزارش‌های متناقض آمریکا و ایران درباره «توافق»؛ ترامپ: کاهش/تعلیق تحریم در کار نیست",
         "title_en": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVk1JQjZSbXE4WUxINmNUd3BBdjVvNm0xdjJoRVZmcTBJVS13S21ZNFdMRFNWUWRYTzE3SDVIUU5MUHo0Qm1nbXhjNnhXVEowWkJfOWkzR3NseEltUFQtZ2tJOV9nNElfT1pCNGZPSkp6cU1JSHI0UlJXNUZ1RGlKXw",
         "image": null,
         "timestamp": 1779359633.0
-    },
-    {
-        "title_fa": "جنگ ایران فشار اقتصادی بر اروپا می‌گذارد و چشم‌انداز WTI را بالاتر می‌برد",
-        "title_en": "Iran war strains European economy, boosts WTI crude oil price outlook",
-        "summary": [
-            "گزارش می‌گوید ادامه درگیری ایران باعث «چالش اقتصادی قابل توجه» در اروپا شده و هم‌زمان قیمت‌های چند بخش اقتصادی بالا می‌رود؛ در بازار نفت نیز حمایت از عبور WTI از ۱۱۰ دلار تقویت شده است.",
-            "در اسنپ‌شات بازار، احتمال رشد قیمت WTI به آستانه‌های بالاتر به‌دلیل تنش‌های ژئوپلیتیک افزایش یافته؛ قیمت فعلی WTI بر اساس متن حدود ۴۱.۵٪ «YES» است (با افزایش از ۳۶٪ در روز قبل).",
-            "با وجود اثر اقتصادی، متن هیچ اطلاعات جدیدی درباره اقدامات نظامی قریب‌الوقوع اروپا علیه ایران ارائه نمی‌کند و احتمال حمله فرانسه/بریتانیا/آلمان در پیش‌بینی بازار فقط ۵.۱٪ ذکر شده است."
-        ],
-        "impact": "این رخداد، با بالا بردن ریسک ژئوپلیتیک و پرمیوم نفتی، می‌تواند هزینه‌های اقتصادی اروپا را تشدید کند بی‌آنکه نشانه‌ای از عملیات نظامی فوری اروپایی در متن دیده شود.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/iran-war-strains-european-economy-boosts-wti-crude-oil-price-outlook/",
-        "clean_url": "https://cryptobriefing.com/iran-war-strains-european-economy-boosts-wti-crude-oil-price-outlook",
-        "image": "http://www.bing.com/th?id=ONUT.npfAzoT8FIGjwE8Ld_YEoQ&pid=News",
-        "timestamp": 1779358260.0
     }
 ]
