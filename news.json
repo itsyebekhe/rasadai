@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تهیۀ مجدد مهمات پیشرفته آمریکا پس از جنگ با ایران؛ «چند ساله بودنِ» کمبودها و پیامد برای آماده‌باش در غرب اقیانوس آرام",
+        "title_en": "U.S. will need years to replenish stockpiles of advanced weapons used in Iran war, new analysis finds",
+        "summary": [
+            "تحلیل تازه‌ای می‌گوید واشنگتن برای جبران ذخایر «موشک‌های تاماهاوک» و همچنین رهگیرهای پاتریوت و THAAD که در جنگ با ایران به‌طور سنگین مصرف شده‌اند، دست‌کم سه سال زمان نیاز دارد؛ «مسئله پول نیست، زمان است».",
+            "این گزارش هشدار می‌دهد کاهش موجودی‌ها یک «پنجرۀ آسیب‌پذیری» ایجاد کرده است که می‌تواند در هر درگیری بالقوه در غرب اقیانوس آرام (مقابل چین) محدودیت جدی برای آتش‌زنی و پدافند ایجاد کند، حتی اگر سناریوی جنگ با ایران از نظر کلی مهمات «کفایت» داشته باشد.",
+            "هم‌زمان با وجود افزایش بودجۀ دفاعی در طرح تاریخی جمهوری‌خواه برای سال ۲۰۲۷ (۱.۵ تریلیون دلار)، تحلیل تأکید می‌کند تولید سامانه‌های پیچیده و افزایش ظرفیت کارخانه‌ها زمان‌بر است؛ در کنار آن، اشاره می‌شود هدف‌گذاری چین برای اقدام نظامی علیه تایوان تا ۲۰۲۷ ممکن است بلندپروازانه باشد، اما هشدارهای متقابل واشنگتن-پکن احتمال برخورد و حتی درگیری آشکار را تشدید می‌کند."
+        ],
+        "impact": "کمبود «چند ساله» در مهمات پیشرفته آمریکا نشان می‌دهد فشار جنگ ایران نه‌فقط هزینه مالی، بلکه محدودیت عملیاتی فوری در توان ضربه‌زنی و دفاع هوایی/موشکی را به آینده منتقل می‌کند.",
+        "tag": "تحلیل",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "PBS",
+        "url": "https://www.nbcnewyork.com/news/national-international/us-years-replenish-stockpiles-weapons-iran-war-analysis/6506008/",
+        "clean_url": "https://www.nbcnewyork.com/news/national-international/us-years-replenish-stockpiles-weapons-iran-war-analysis/6506008",
+        "image": null,
+        "timestamp": 1779915392.0
+    },
+    {
         "title_fa": "بازگشت نسبی اینترنت، شکاف درون حاکمیت را عیان کرد",
         "title_en": "Iran’s partial internet return exposes rift inside ruling system",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-says-us-not-satisfied-yet-on-deal-with-iran/ar-AA24de9n",
         "image": null,
         "timestamp": 1779903453.0
+    },
+    {
+        "title_fa": "ترامپ: ایران برای پایان جنگ «روی دود» مذاکره می‌کند",
+        "title_en": "Trump says Iran is 'negotiating on fumes' to end war",
+        "summary": [
+            "ترامپ مدعی شده ایران برای رسیدن به توافق جهت پایان جنگ در وضعیت بسیار فرسایشی قرار دارد و مذاکراتش را بی‌پشتوانه توصیف کرده است.",
+            "این ادعا بیشتر یک فشار سیاسی-روانی از سوی آمریکا است تا ارائه نشانه‌های جدید از روند واقعی مذاکره؛ متن ارائه‌شده هیچ جزئیات قابل راستی‌آزمایی از وضعیت مذاکرات یا خواسته‌های دو طرف نمی‌دهد.",
+            "با توجه به نبود داده درباره تحریم‌های جدید، عملیات نظامی یا فروپاشی اقتصادی مشخص در همین گزارش، اثرگذاری کوتاه‌مدت این موضع را باید در چارچوب تشدید فشار خارجی بر محاسبات رژیم تحلیل کرد."
+        ],
+        "impact": "این اظهار نظر، صرفاً به‌عنوان ابزار فشار سیاسی برای سخت‌تر کردن فضای تصمیم‌گیری رژیم عمل می‌کند و بدون داده‌های مشخص، نشانه قطعی از تغییر واقعی در توان یا روند مذاکره ارائه نمی‌دهد.",
+        "tag": "فشار_سیاسی",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "The Columbus Dispatch",
+        "url": "https://www.dispatch.com/story/news/world/2026/05/27/iran-war-updates-trump-cabinet--live/90269083007/",
+        "clean_url": "https://www.dispatch.com/story/news/world/2026/05/27/iran-war-updates-trump-cabinet--live/90269083007",
+        "image": "http://www.bing.com/th?id=ONUT.UvXG2KXACBJM6JIdaSJ16A&pid=News",
+        "timestamp": 1779897600.0
     },
     {
         "title_fa": "تراشیدن خطوط جدید: ترامپ می‌گوید ایران در ازای کنار گذاشتن اورانیوم بسیار غنی‌شده، «تخفيف تحریمی» نمی‌گیرد",
@@ -108,6 +144,24 @@
         "timestamp": 1779894968.0
     },
     {
+        "title_fa": "ایران محدودیت‌های تازه برای توزیع محتوای خبری رسانه‌های بین‌المللی اعمال کرد",
+        "title_en": "Iran expands restrictions on distribution of news content by international media outlets",
+        "summary": [
+            "ایران از طریق وزارت فرهنگ و ارشاد اسلامی به رسانه‌های بین‌المللی مستقر در تهران دستور داده در «تمام محتوای ارسالی» شامل عکس، ویدئو و گزارش‌ها، الزام‌های زبانی اجباری را رعایت کنند و مسئولیت عدم‌تطابق را مستقیماً متوجه خود رسانه‌ها بداند.",
+            "محدودیت جدید رسانه‌های بین‌المللی را وادار می‌کند اعلام کنند محتوای موردنظر قابل استفاده توسط رسانه‌های اسرائیلی و همچنین شبکه‌های تلویزیونی فارسی‌زبان مستقر خارج از ایران نیست.",
+            "این اقدام در امتداد روند دیرینه محدودسازی رسانه‌های بین‌المللی و پیش از آنکه در متن به ممنوعیت یا ریسک تعطیلی برای همکاری با BBC Persian، VOA Persian، Manoto TV و Iran International اشاره شده، و در شرایطی مطرح شده که سه ماه پیش جنگ منطقه‌ای پس از حملات آمریکا و اسرائیل به ایران تشدید و همچنان ناپایدار توصیف می‌شود."
+        ],
+        "impact": "این سیاست سانسوریِ هدفمند، جریان اطلاعات بیرون از کنترل رژیم را تنگ‌تر می‌کند و هزینه انتشار و استفاده دوباره از محتوای خبری را برای رسانه‌های بین‌المللی بالا می‌برد.",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Pioneer Press",
+        "url": "https://www.twincities.com/2026/05/27/iran-media-restrictions/",
+        "clean_url": "https://www.twincities.com/2026/05/27/iran-media-restrictions",
+        "image": "http://www.bing.com/th?id=ONUT.VwuC61rCTE1LhuygpuNpCQ&pid=News",
+        "timestamp": 1779893520.0
+    },
+    {
         "title_fa": "ادعای تلویزیون دولتی: «پیش‌نویس توافق با آمریکا» برای بازگشایی تنگه هرمز و پایان بلوکاد دریایی",
         "title_en": "Iran state TV says draft deal with US would reopen Hormuz shipping, end naval blockade",
         "summary": [
@@ -124,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHB3ZTljSEdNUGlta055MjFRSDNTZGg2WkZmWjdFOUZfRC1Xd2Q2V2FSWmRxd0xPSTBGel91Um5yN3BHRVhhTURxcUFZTHBJckZDU2hvenpkbWg3aGY3cjB1VERORDR6Z00zTEdEbzB4SlBhUG11UkpkcDRTT2lpZmZxNVoxaXNDbHJWUHdkT0Q3d2VqZHFraUY5alIwcGY2WWEtVV9lblgtMy1GOWRIVlU4eVpzU2s2dzVPZFltZC00UXM",
         "image": null,
         "timestamp": 1779890134.0
+    },
+    {
+        "title_fa": "تداوم «حداکثر مطالبات» و تهدید به افزایش حملات علیه ایران",
+        "title_en": "Trump holds to maximum demands on Iran, threatens more strikes",
+        "summary": [
+            "ترامپ نشست کابینه در کاخ سفید را برگزار می‌کند و برنامهٔ جلسه در کمپ دیوید را لغو کرده است؛ هم‌زمان بر «حداکثر مطالبات» درباره ایران پای می‌فشارد و تهدید می‌کند که در صورت پیش نرفتن خواسته‌ها، «حملات بیشتر» انجام خواهد شد.",
+            "این پیام در متن به‌صورت مستقیم یک اهرم فشار امنیتی-سیاسی است: یعنی نه تنها فشار سیاسی، بلکه امکان تشدید عملیات نظامی علیه اهداف مرتبط با ایران به‌عنوان ابزار چانه‌زنی مطرح می‌شود.",
+            "با توجه به اینکه گزارش جزئیات فنی از نوع حمله، زمان‌بندی یا اهداف مشخص ارائه نمی‌کند، تمرکز اثرگذاری در این مرحله بیشتر بر افزایش احتمال تشدید تنش و آماده‌سازی رژیم برای شوک‌های بعدی است، نه بر تأیید یک عملیات مشخص."
+        ],
+        "impact": "این اعلامیه احتمال تشدید فشار خارجی و افزایش ریسک عملیات مستقیم علیه دارایی‌های رژیم را بالا می‌برد و می‌تواند ثبات تصمیم‌گیری داخلی را تحت فشار قرار دهد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/05/27/trump-calls-cabinet-camp-david-amid-declining-approval-iran-economy/",
+        "clean_url": "https://www.washingtonpost.com/politics/2026/05/27/trump-calls-cabinet-camp-david-amid-declining-approval-iran-economy",
+        "image": "http://www.bing.com/th?id=ONUT.-7XHrPn3bvHu-cmL1FwJ4Q&pid=News",
+        "timestamp": 1779889260.0
     },
     {
         "title_fa": "آیا توافق آمریکا و ایران صلح را به لبنان می‌آورد؟",
@@ -180,6 +252,24 @@
         "timestamp": 1779884580.0
     },
     {
+        "title_fa": "ترامپ توافق پیش‌نویس ایران را «ساختگی کامل» خواند، همزمان از «پیشرفت» در توافق صلح سخن گفت",
+        "title_en": "Trump admin. dismisses draft Iran agreement as 'complete fabrication' but claims 'progress' on peace deal",
+        "summary": [
+            "ترامپ در نشست اضطراری کابینه در کاخ سفید گفت تهران «به‌شدت قصد» رسیدن به توافق دارد و مدعی شد آنچه درباره پیش‌نویس/پیشرفت مطرح شده «ساختگی کامل» است، اما همزمان ادعا کرد «پیشرفت» وجود دارد و وعده داد توافق «به خط پایان» برسد.",
+            "او شرایط را با فشار نظامی گره زد و از کاهش توان‌های ایران (“ناوگان/نیروی هوایی/… همه چیز”) و «سقوط آزاد» اقتصاد سخن گفت و افزود اگر ایران توافق نکند، «باید کار را نظامی تمام کرد».",
+            "همزمان خبر مذاکرات در قطر مطرح است: پس از آنکه نیروهای آمریکا سایت‌های پرتاب موشک و شناورهای مین‌گذاری ایران را هدف گرفتند، تهدید «پاسخ متقابل تصمیم‌ساز» از سوی تهران مطرح شد و ایران آمریکا را «نقض شدید» آتش‌بس دانست؛ روبیو سپس گفت اختلاف بر سر «زبان» متن ادامه دارد و اعلام نهایی ممکن است چند روز دیگر طول بکشد."
+        ],
+        "impact": "ترکیب ادعاهای رسانه‌ای درباره «پیشرفت» با تهدید «تمام کردن کار» و پس‌زمینه حملات اخیر، احتمال تشدید تنش و فرسایش روند مذاکرات را بالا می‌برد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/article/trump-admin-dismisses-draft-iran-agreement-as-complete-fabrication-but-claims-progress-on-peace-deal-143602058.html",
+        "clean_url": "https://www.yahoo.com/news/world/article/trump-admin-dismisses-draft-iran-agreement-as-complete-fabrication-but-claims-progress-on-peace-deal-143602058.html",
+        "image": "http://www.bing.com/th?id=ONUT.39-Y5glBrvTYXiP7PkjUjQ&pid=News",
+        "timestamp": 1779884520.0
+    },
+    {
         "title_fa": "ترامپ می‌گوید ایران اشتباه محاسبه کرد و از «میان‌دوره‌ای‌ها» به‌عنوان عامل تأخیر رژیم یاد می‌کند",
         "title_en": "'I don't care about the midterms.' Trump says Iran misjudged him",
         "summary": [
@@ -196,6 +286,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/dont-care-midterms-trump-says-185628900.html",
         "image": "http://www.bing.com/th?id=ONUT.8uCrI4HDAVPNILOulSRKFA&pid=News",
         "timestamp": 1779884100.0
+    },
+    {
+        "title_fa": "کنش ترامپ در نشست کابینه: ادعاهای نادرست درباره جنگ با ایران و اقتصاد",
+        "title_en": "Fact check: Trump makes false claims about Iran war, the economy and the reflecting pool at Cabinet meeting",
+        "summary": [
+            "بر اساس گزارش CNN (روی MSN)، ترامپ در اظهارات عمومی‌اش در نشست کابینه، چند ادعای نادرست درباره «جنگ با ایران» و وضعیت اقتصاد مطرح کرده است.",
+            "این رویداد مستقیماً به محتوای سیاست یا اقدامات تازه علیه ایران اشاره نمی‌کند، اما نشان می‌دهد روایت‌سازی‌های عمومی می‌تواند فضای تصمیم‌سازی و برداشت عمومی از شدت/وضعیت درگیری ایران را مخدوش کند.",
+            "با توجه به اینکه متن صرفاً «عدم صحت ادعاها» را برجسته می‌کند، نمی‌توان نتیجه‌گیری قابل اتکا درباره تشدید واقعی تنش‌ها یا تغییرات سیاستی جدید نسبت به ایران ارائه داد."
+        ],
+        "impact": "تأثیر اصلی این رخداد، تخریب دقت اطلاع‌رسانی و افزایش احتمال سوءبرداشت از وضعیت جنگ و اقتصاد است، نه یک شواهد مشخص از تغییر عملی در سیاست یا میدان.",
+        "tag": "رسانه",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/world/fact-check-trump-makes-false-claims-about-iran-war-the-economy-and-the-reflecting-pool-at-cabinet-meeting/ar-AA24d1oP",
+        "clean_url": "https://www.msn.com/en-us/news/world/fact-check-trump-makes-false-claims-about-iran-war-the-economy-and-the-reflecting-pool-at-cabinet-meeting/ar-AA24d1oP",
+        "image": "http://www.bing.com/th?id=ONUT.xHO3B_dLGC9nZETnjnepmA&pid=News",
+        "timestamp": 1779883763.0
     },
     {
         "title_fa": "ترامپ: از تبعات سیاسیِ جنگ طولانی با ایران نمی‌ترسم",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://finance.yahoo.com/markets/stocks/articles/p-500-futures-fall-oil-114025388.html",
         "image": null,
         "timestamp": 1779367307.0
-    },
-    {
-        "title_fa": "رد انتقال اورانیوم با درجه نزدیک به تسلیحات: شکاف جدید در مذاکرات و اهرم فشار آمریکا",
-        "title_en": "Trump vows to retrieve Iran uranium after Khamenei rejects transfer",
-        "summary": [
-            "ترامپ اعلام کرده می‌خواهد اورانیوم ایران را پس بگیرد؛ همزمان، علی خامنه‌ای انتقال این ماده را رد کرده و دستور داده اورانیوم با درجه نزدیک به تسلیحات در داخل کشور باقی بماند.",
-            "این اختلاف مستقیم حول «دستور توقف‌ناپذیر مالکیت/جابه‌جایی» اورانیوم شکل گرفته و عملاً مسیر توافق را به سمت بن‌بست فشار-امتیاز سوق می‌دهد.",
-            "در سطح سیاست خارجی، موضع خامنه‌ای نشان می‌دهد رژیم حاضر است هزینه دیپلماتیک بدهد تا اهرم هسته‌ای را بیرون از دسترس آمریکا نگه دارد؛ در مقابل، آمریکا رویکرد بازپس‌گیری را به عنوان خواسته اصلی نگه داشته است."
-        ],
-        "impact": "این رخداد، اهرم مذاکره را از «معامله‌پذیری» به «تقابلی‌بودن» تبدیل می‌کند و احتمال تشدید فشار خارجی و سخت‌تر شدن شرایط توافق را بالا می‌برد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "TRT World",
-        "url": "https://www.trtworld.com/article/7124155e1bef",
-        "clean_url": "https://www.trtworld.com/article/7124155e1bef",
-        "image": "http://www.bing.com/th?id=ONUT.1ILlYH2bd9J_JcpFtBV5Jg&pid=News",
-        "timestamp": 1779365940.0
-    },
-    {
-        "title_fa": "افت بیش از ۶٪ قیمت نفت؛ ترامپ می‌گوید مذاکره با ایران در مراحل نهایی است اما تهدید اقدام نظامی باقی است",
-        "title_en": "Oil prices fall more than 6% as Trump says Iran negotiations in final stages",
-        "summary": [
-            "قیمت نفت بیش از ۶٪ سقوط کرده و این واکنش بازار به سیگنال‌های مرتبط با ایران است.",
-            "ترامپ اعلام کرده مذاکره‌ها با ایران وارد مراحل نهایی شده، اما همزمان هشدار داده اقدام نظامی هنوز روی میز است.",
-            "در همین چارچوب، ایران در حال بررسی پیشنهاد جدید «صلح» ارائه‌شده از سوی ترامپ است."
-        ],
-        "impact": "ترکیب افت قیمت نفت با تهدید ضمنی اقدام نظامی، فشار روانی و اقتصادی را بر فضای تصمیم‌گیری تهران تشدید می‌کند.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/trump-iran-war-israel-may-21",
-        "clean_url": "https://www.foxnews.com/live-news/trump-iran-war-israel-may-21",
-        "image": "http://www.bing.com/th?id=ONUT.LU9bsoZM9hOdLB9aTCWWWQ&pid=News",
-        "timestamp": 1779363300.0
-    },
-    {
-        "title_fa": "تشدید دیپلماسی ایران-آمریکا؛ ترامپ دنبال «پاسخ درست» و تهران از کاهش شکاف‌ها می‌گوید",
-        "title_en": "Iran-U.S. diplomacy intensifies as Trump seeks ‘right answers,’ Tehran signals gaps ‘reduced’",
-        "summary": [
-            "طبق گزارش NBC News، گفت‌وگوهای دیپلماتیک ایران و آمریکا وارد فاز فعال‌تری شده و ترامپ «پاسخ‌های درست» را در مسیر مذاکره پیگیری می‌کند.",
-            "در طرف ایرانی، سیگنال داده شده که «شکاف‌ها کاهش یافته» و اختلافات موجود کمتر شده است؛ یعنی هر دو طرف در حال آزمون‌کردن امکان پیشروی در گفت‌وگوها هستند.",
-            "این گزارش جزئیات مشخصی از توافق، چارچوب الزام‌آور، یا اقدامات فنی/اقتصادی منتشر نمی‌کند، اما خودِ شدت‌گیری رایزنی‌ها نشان می‌دهد مذاکرات بدون قطعیت قبلی ادامه دارد."
-        ],
-        "impact": "فعلاً مهم‌ترین پیام، حرکت به سمت مرحله بعدی مذاکره است، نه نتیجه قطعی؛ بنابراین اثر اقتصادی/تحریمی ملموس در همین خبر قابل اثبات نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVklEa2VfY1ZwM3dfVjhkTmYzallHRm5KQXlhbGk0TTc0TUtSeWhfaE96ZEtYOXlTUThmVU92X3k0dnFXRVlSVjNnOURYaUFUdW0yRE1oSU5XUENwTVBCTXFwSVdvLTVBMnRsLXRIZno1aEVMRWJyX3JnRDhpckJjZUh2Y1JKQW9pNWM4WTE0MnJEbHlVdk9oYm1DWFNMdjd0ZmxYeFFn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVklEa2VfY1ZwM3dfVjhkTmYzallHRm5KQXlhbGk0TTc0TUtSeWhfaE96ZEtYOXlTUThmVU92X3k0dnFXRVlSVjNnOURYaUFUdW0yRE1oSU5XUENwTVBCTXFwSVdvLTVBMnRsLXRIZno1aEVMRWJyX3JnRDhpckJjZUh2Y1JKQW9pNWM4WTE0MnJEbHlVdk9oYm1DWFNMdjd0ZmxYeFFn",
-        "image": null,
-        "timestamp": 1779360321.0
-    },
-    {
-        "title_fa": "گفت‌وگوهای ایران و عمان برای ایجاد سامانه دائمی عوارض تردد در تنگه هرمز",
-        "title_en": "Iran in talks with Oman over permanent Hormuz toll system",
-        "summary": [
-            "ایران با عمان درباره راه‌اندازی یک سامانه دائمی عوارض (toll) برای رسمی‌سازی کنترل تردد دریایی از طریق تنگه هرمز وارد مذاکره شده است.",
-            "هدف گزارش‌شده، تبدیل نفوذ عملی ایران بر مسیر حیاتی به یک سازوکار قراردادی/اداری است که هزینه و چارچوب عبور را «نهادینه» کند.",
-            "این حرکت می‌تواند پیام سیاسی-امنیتی آشکار درباره ادعای مدیریت کریدور هرمز باشد، بدون اینکه در متن، جزئیات حقوقی یا واکنش طرف‌های دیگر ارائه شود."
-        ],
-        "impact": "اگر چنین سامانه‌ای به توافق برسد، قدرت چانه‌زنی ایران در مسیر کشتیرانی افزایش پیدا می‌کند و ریسک اختلال اقتصادی برای تجارت منطقه‌ای بالا می‌رود.",
-        "tag": "هورمز",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-in-talks-with-oman-over-permanent-hormuz-toll-system/ar-AA23K2iJ",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-in-talks-with-oman-over-permanent-hormuz-toll-system/ar-AA23K2iJ",
-        "image": "http://www.bing.com/th?id=ONUT.bqLDgYFskmgIXJnnDrq4GA&pid=News",
-        "timestamp": 1779359995.0
-    },
-    {
-        "title_fa": "گزارش اختصاصی: دستور ماندن غنی‌سازی‌شده در داخل ایران از سوی رهبر عالی؛ محور تنش هسته‌ای",
-        "title_en": "Exclusive: Supreme Leader says enriched uranium must stay in Iran, Iranian sources say",
-        "summary": [
-            "طبق گزارش اختصاصی رویترز و به نقل از منابع ایرانی، رهبر عالی بر «ماندن اورانیوم غنی‌شده در ایران» تاکید کرده است؛ یعنی خروج/تغییر مسیر مواد می‌تواند از پیش رد شود.",
-            "این موضع، اهرم مذاکره‌ای را محدود می‌کند و احتمال بن‌بست در مسیر توافق هسته‌ای را بالا می‌برد، چون دست طرف‌های خارجی برای مبادله، نظارت یا جابه‌جایی کنترل‌شده تنگ‌تر می‌شود.",
-            "از منظر عملیاتی، تاکید بر نگهداری داخلی غنی‌سازی یعنی تمرکز رژیم بر حفظ ظرفیت هسته‌ای در داخل و مقاومت در برابر فشارهای خارجی برای تغییر رفتار."
-        ],
-        "impact": "این تصمیم می‌تواند مسیر کاهش تنش هسته‌ای را سخت‌تر کند و ریسک تشدید فشار خارجی و پیامدهای اقتصادی را بالا ببرد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/news/exclusive-supreme-leader-says-enriched-uranium-must-stay-in-iran-iranian-sources-say/ar-AA23JNFm",
-        "clean_url": "https://www.msn.com/en-us/news/news/exclusive-supreme-leader-says-enriched-uranium-must-stay-in-iran-iranian-sources-say/ar-AA23JNFm",
-        "image": null,
-        "timestamp": 1779359758.0
-    },
-    {
-        "title_fa": "مجمع جهانی بهداشت حق رأی آمریکا را به حالت تعلیق درمی‌آورد و وعده «بازگشت» حق رأی ایران را می‌دهد",
-        "title_en": "EXCLUSIVE: World Health Assembly Votes To Suspend USA's Voting Rights, Restore Iran's",
-        "summary": [
-            "طبق گزارش Health Policy Watch، مجمع جهانی بهداشت در نشست رأی‌گیری خود «تعلیق حق رأی آمریکا» را تصویب کرده است؛ اقدام مستقیم در سازوکار نفوذ سیاسی آمریکا داخل نهادهای سلامت بین‌المللی.",
-            "همزمان، تصمیم به «بازگردانی» حق رأی ایران مطرح شده که نشان می‌دهد پرونده ایران از منظر مشارکت سیاسی در ساختار سازمان جهانی سلامت دوباره قابل احیا است.",
-            "این تغییرات، فارغ از اثر فوری درمانی، فشار و اهرم‌سازی‌های سیاسی در حوزه سلامت را جابه‌جا می‌کند و می‌تواند بر نحوه تعامل نهادهای وابسته با پرونده‌های ایران اثر بگذارد."
-        ],
-        "impact": "این تصمیم بیشتر یک جابه‌جایی اهرم سیاسی در چارچوب سلامت جهانی است تا یک تغییر عملیاتی فوری، اما می‌تواند مسیر تعامل بین‌المللی ایران در حوزه‌های سلامت را نرم‌تر کند.",
-        "tag": "diplomacy",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Health Policy Watch",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVk1JQjZSbXE4WUxINmNUd3BBdjVvNm0xdjJoRVZmcTBJVS13S21ZNFdMRFNWUWRYTzE3SDVIUU5MUHo0Qm1nbXhjNnhXVEowWkJfOWkzR3NseEltUFQtZ2tJOV9nNElfT1pCNGZPSkp6cU1JSHI0UlJXNUZ1RGlKXw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVk1JQjZSbXE4WUxINmNUd3BBdjVvNm0xdjJoRVZmcTBJVS13S21ZNFdMRFNWUWRYTzE3SDVIUU5MUHo0Qm1nbXhjNnhXVEowWkJfOWkzR3NseEltUFQtZ2tJOV9nNElfT1pCNGZPSkp6cU1JSHI0UlJXNUZ1RGlKXw",
-        "image": null,
-        "timestamp": 1779359633.0
     }
 ]
