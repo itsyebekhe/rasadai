@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "تبادل حملات ایران و آمریکا؛ ترامپ فشار برای پایان جنگ را رد کرد",
+        "title_en": "Iran and U.S. trade new strikes, after Trump dismisses pressure to end war",
+        "summary": [
+            "طبق گزارش NBC News، ایران و آمریکا پس از آن‌که ترامپ فشارهای بین‌المللی برای پایان جنگ را نادیده گرفت، «حملات جدید» را در برابر هم انجام داده‌اند.",
+            "این روند نشان می‌دهد سطح تقابل مستقیم نظامی میان دو طرف با وجود نگرانی‌های بیرونی، ادامه یافته و تصمیم‌گیری واشنگتن به سمت تشدید عملیاتی می‌رود.",
+            "چارچوب مشخص گزارش درباره اینکه حملات دقیقاً کجا و با چه اهدافی انجام شده‌اند در متن ارسالی نیامده، اما خودِ «تبادل ضربات» سیگنال افزایش ریسک و کاهش مسیرهای مهار بحران را منتقل می‌کند."
+        ],
+        "impact": "ادامه و تازه‌کردن حملات، احتمال قفل‌شدن منطق تلافی‌جویانه را بالا می‌برد و می‌تواند به مرحله‌ای برسد که کنترل بحران دشوارتر شود.",
+        "tag": "تبادل_حملات",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbV82eGxTUXNRVEI5SzBVUDJWblBXUHM1T1o3eGN4NUN3UGlhMENCMXRwbmZnckVqMGFEWlBObmNjdExDaHUzVDFhUmVqXzFXTTV4MWlRdHNuSXlPam00QUdPejk0WmdIWm9GN0QtaEFXZDBtaURFYXVFOE1xSFFOSDNYNS1xSl9XWTluNEhnN2ZxaXZUdmVZLVBQVVdqODNFa29Ib1h6cVpLOGJ5T3BqazFB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbV82eGxTUXNRVEI5SzBVUDJWblBXUHM1T1o3eGN4NUN3UGlhMENCMXRwbmZnckVqMGFEWlBObmNjdExDaHUzVDFhUmVqXzFXTTV4MWlRdHNuSXlPam00QUdPejk0WmdIWm9GN0QtaEFXZDBtaURFYXVFOE1xSFFOSDNYNS1xSl9XWTluNEhnN2ZxaXZUdmVZLVBQVVdqODNFa29Ib1h6cVpLOGJ5T3BqazFB",
+        "image": null,
+        "timestamp": 1779961560.0
+    },
+    {
+        "title_fa": "ادامه تبادل «حمله/پاسخ» میان آمریکا و ایران همزمان با پافشاری ترامپ بر حداکثر خواسته‌ها",
+        "title_en": "U.S. and Iran trade fresh strikes as Trump holds to maximum demands",
+        "summary": [
+            "این گزارش می‌گوید آمریکا و ایران بار دیگر «تبادل ضربه‌ها» را در چارچوب فشار حداکثری دنبال می‌کنند و ترامپ بر همان سیاست و «مطالبات حداکثری» پافشاری دارد.",
+            "کنایه اصلی خبر این است که هیچ مسیر سریع برای کاهش تنش و توقف چرخه درگیری وجود ندارد، چون طرف آمریکایی عقب‌نشینی از شروط را متوقف نکرده است.",
+            "در چنین وضعی، منطق معامله‌گری مبتنی بر فشار افزایش می‌یابد و هر اقدام جدید می‌تواند به دور بعدی تشدید یا واکنش منجر شود؛ بدون نشانه‌های روشن از کنترل بحران از بیرون."
+        ],
+        "impact": "افزایش احتمال تداوم چرخه اقدام متقابل، توان برنامه‌ریزی و ثبات سیاسی-امنیتی داخل ایران را نیز تحت فشار قرار می‌دهد، چون هزینه امنیتی و عدم قطعیت بالا می‌ماند.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/us-strikes-drone-launch-site-as-trump-holds-to-maximum-demands-on-iran/ar-AA24ai9x",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-strikes-drone-launch-site-as-trump-holds-to-maximum-demands-on-iran/ar-AA24ai9x",
+        "image": null,
+        "timestamp": 1779960467.0
+    },
+    {
         "title_fa": "جنگ ایران: سرنگونی پهپادهای ایرانی توسط آمریکا و پاسخ تهران",
         "title_en": "Iran war: US downs Iranian drones, Tehran retaliates",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlp2WmNzY3FWclpLZ2UtR0pjYXdFSm11eHczWFBfbEZ1MjE3a2VONktURTdpamVCUmItMUpVRlBnZjZMUmI3eHRqVWliRE9IVlE0WFhWODJkbnk1LTQzME0tQXE1a3JNNU1HVk5DQllNQW95YXNZbDB0eHdZenJIYXJqTm1QNjU1UHJlTC1ObVY4Rk02bEN5QmxBZm5IcHhCTlFTTmtJdGFubGQ5dUU0TlRYTQ",
         "image": null,
         "timestamp": 1779384463.0
-    },
-    {
-        "title_fa": "ترامپ: ایران «اسلحه هسته‌ای نخواهد داشت»",
-        "title_en": "WATCH: Trump says Iran ‘won’t have nuclear weapon’",
-        "summary": [
-            "طبق گزارش Center Square، دونالد ترامپ ادعا کرده که ایران «اسلحه هسته‌ای نخواهد داشت»؛ این یک پیام سیاسی با هدف شکل‌دهی به محاسبات بازدارندگی است، نه یک اقدام فنی یا حقوقی مشخص.",
-            "این نوع اظهارنظر، تحت چارچوب «فشار خارجی» قرار می‌گیرد و می‌تواند فضای مذاکره/مهار را به سمت سخت‌گیری بیشتر سوق دهد، اما در متن گزارش، هیچ سندی از تحریم جدید یا اقدام مستقیم ارائه نشده است.",
-            "در سطح داخلی، چون جزئیات اجرایی یا زمان‌بندی ارائه نشده، اثر فوری بر ناآرامی داخلی یا اقتصاد از این خبر به‌تنهایی قابل اثبات نیست و باید آن را بیشتر یک سیگنال سیاسی دانست تا یک شوک اقتصادی."
-        ],
-        "impact": "این اظهارنظر بیشتر یک پیام بازدارندگی و فشار روانی است و بدون جزئیات اجرایی، اثر مستقیم اقتصادی/سیاسی فوری از خود خبر قابل تأیید نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The Center Square",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0k1WF9CU0RwQnBQVG4zRzZBNlphOF9UNFljR08tS1MtOUlXNkQyZ21QWXM5VjFNUDJ1MGJrWFRYcFdHelpJSzIyeVRRWDlQRUZ1b3VJaXNEMnlNRGc2Q0R4M1FLWk5sWE9obHNvbzZoX2Q2R196cmQyNVZUSE80LVBVQ2cwR0F3LXk3OVlMWUwtQ1Uz0gGaAUFVX3lxTE1IS3VPc3Z4Ny11MmFHT3FPSDV2NVVOaWJmTnlXdGd1OWMtQzJ1azhJUXJfSm9HSDhDM1FUSEV5THpCUEgwOVhDZlc5SGtFLVJRTHZabFBTWnZRX2tBX2JyTUNfcURWdFVtTHRpc0NqUGZ6UGV2Z05McmdXekZlV2tnZllIYkZValhPSWV6eDZ4R0prQTdHRVhESEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT0k1WF9CU0RwQnBQVG4zRzZBNlphOF9UNFljR08tS1MtOUlXNkQyZ21QWXM5VjFNUDJ1MGJrWFRYcFdHelpJSzIyeVRRWDlQRUZ1b3VJaXNEMnlNRGc2Q0R4M1FLWk5sWE9obHNvbzZoX2Q2R196cmQyNVZUSE80LVBVQ2cwR0F3LXk3OVlMWUwtQ1Uz0gGaAUFVX3lxTE1IS3VPc3Z4Ny11MmFHT3FPSDV2NVVOaWJmTnlXdGd1OWMtQzJ1azhJUXJfSm9HSDhDM1FUSEV5THpCUEgwOVhDZlc5SGtFLVJRTHZabFBTWnZRX2tBX2JyTUNfcURWdFVtTHRpc0NqUGZ6UGV2Z05McmdXekZlV2tnZllIYkZValhPSWV6eDZ4R0prQTdHRVhESEE",
-        "image": null,
-        "timestamp": 1779383340.0
-    },
-    {
-        "title_fa": "ادامه تنش هسته‌ای و گلوگاه هرمز؛ مذاکرات آمریکا-ایران «نشانه‌های خوب» داشت اما اختلافات پابرجاست",
-        "title_en": "Iran Israel War Live Updates: US-Iran talks show ‘good signs’ but key disputes over uranium stockpile and Hormuz persist",
-        "summary": [
-            "گزارش می‌گوید مذاکرات آمریکا و ایران «نشانه‌های خوب» داشته، اما درباره چند اختلاف کلیدی—از جمله میزان/ذخایر اورانیوم و همچنین موضوع هرمز—هم‌خوانی حاصل نشده است.",
-            "محور اختلافات بر سر ذخایر اورانیوم نشان می‌دهد حتی در فضای گفت‌وگو، مسئله ظرفیت هسته‌ای و شروط محدودسازی، همچنان نقطه شکست اصلی باقی مانده است.",
-            "پایداری ابهام و اختلاف درباره هرمز یعنی اهرم فشار عملیاتی در تنگه همچنان از کنترل کامل خارج است و می‌تواند ریسک تشدید تنش را بالا نگه دارد."
-        ],
-        "impact": "حتی با بهبود نسبی فضای مذاکره، استمرار اختلاف بر سر ذخایر اورانیوم و هرمز یعنی مسیر توافق پایدار هنوز بسته است و ریسک چرخه تنش باقی می‌ماند.",
-        "tag": "مذاکرات",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-iran-talks-show-good-signs-but-key-disputes-over-uranium-stockpile-and-hormuz-persist-liveblog-14013834.html",
-        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-iran-talks-show-good-signs-but-key-disputes-over-uranium-stockpile-and-hormuz-persist-liveblog-14013834.html",
-        "image": "http://www.bing.com/th?id=ONUT.n141RA4vT7emCgXHaSbQSA&pid=News",
-        "timestamp": 1779382260.0
     }
 ]
