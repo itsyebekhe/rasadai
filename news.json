@@ -108,6 +108,42 @@
         "timestamp": 1780065067.0
     },
     {
+        "title_fa": "ترامپ نشست شورای وضعیت علیه ایران را بدون تصمیم نهایی پایان داد؛ همزمان موضع تهران مبهم و اخطار دریایی سپاه مطرح شد",
+        "title_en": "Trump concludes Situation Room meeting on Iran without announcing a decision",
+        "summary": [
+            "دونالد ترامپ حدود دو ساعت در «Situation Room» با مشاورانش درباره توافقی احتمالی برای بازگشایی تنگه هرمز و آغاز گفت‌وگوهای هسته‌ای با تهران مذاکره کرد، اما خبر نهایی درباره تصمیم قطعی اعلام نشد؛ خود ترامپ گفته بود در حال آماده‌سازی «تعیین نهایی» است.",
+            "سخنگوی وزارت امور خارجه ایران می‌گوید یادداشت تفاهم میان دو کشور هنوز نهایی نشده و هیچ کلمه قطعی درباره تأیید «موجبتا خَمِنه‌ای» منتشر نشده است؛ یعنی در سطح تصمیم‌گیری تهران هم شفافیت کامل وجود ندارد.",
+            "در همان زمان، نیروی دریایی سپاه از شلیک «تیرهای هشدار» به چهار کشتی نزدیک تنگه هرمز خبر داد (به ادعای خودشان به‌خاطر عبور بدون هماهنگی و مجوز)، و هم‌زمان خبر توقیف حدود ۱ میلیارد دلار رمزارز ایرانی توسط وزارت خزانه‌داری آمریکا مطرح شد؛ همچنین «Strait Authority» با وجود قرار گرفتن در فهرست تحریم‌های آمریکا اعلام کرده عملیاتش را بدون وقفه ادامه می‌دهد."
+        ],
+        "impact": "ترکیبِ بلاتکلیفی در تصمیم آمریکا، عدم نهایی‌شدن تأیید تهران و هم‌زمانی تهدیدهای عملیاتی در تنگه هرمز، ریسک سوءمحاسبه و تشدید تنش دریایی را در کوتاه‌مدت بالا می‌برد.",
+        "tag": "تنگه",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/2026/05/29/world/live-news/iran-trump-war-news",
+        "clean_url": "https://edition.cnn.com/2026/05/29/world/live-news/iran-trump-war-news",
+        "image": null,
+        "timestamp": 1780062420.0
+    },
+    {
+        "title_fa": "ایران لایو: ترامپ «تعیین نهایی» را درباره توافق کوتاه‌مدت انجام می‌دهد",
+        "title_en": "Iran live updates: Trump making 'final determination' on short-term deal",
+        "summary": [
+            "طبق گزارش ABC News (MSN)، مذاکره‌کنندگان آمریکایی و ایرانی می‌گویند به یک پیش‌نویس توافق کوتاه‌مدت رسیده‌اند؛ یعنی کانال مذاکره هنوز به نتیجه نزدیک است اما هنوز نهایی نشده است.",
+            "تمرکز گزارش روی تصمیم‌گیری مرحله‌بعدی است: ترامپ در حال «تعیین نهایی» برای این توافق کوتاه‌مدت است؛ این یعنی استمرار یا تغییر مسیر، وابسته به اراده سیاسی واشینگتن خواهد بود نه صرفاً خروجی فنی مذاکرات.",
+            "چون متن دقیق توافق و اثرات اجرایی آن ارائه نشده، پیام امنیتی و اقتصادی فعلاً در سطح «قابلیت حصول» باقی می‌ماند و تا اعلام رسمی جزئیات، نمی‌شود درباره کاهش/تشدید فشار یا پیامدهای داخلی قضاوت قطعی کرد."
+        ],
+        "impact": "این رویداد می‌تواند مسیر فشار خارجی را موقتاً نرم کند یا آن را به تأخیر بیندازد، اما تا نهایی شدن و انتشار جزئیات اثر مشخصی بر وضعیت رژیم یا اقتصاد دیده نمی‌شود.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-us-conducts-self-defense-strikes-rubio-says-strait-will-re-open/ar-AA23ZnAN",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-us-conducts-self-defense-strikes-rubio-says-strait-will-re-open/ar-AA23ZnAN",
+        "image": "http://www.bing.com/th?id=ONUT.gkINoZP1GtMu5E82QMH97g&pid=News",
+        "timestamp": 1780060560.0
+    },
+    {
         "title_fa": "ورود ترامپ به اتاق عملیات برای «تصمیم نهایی» درباره ایران",
         "title_en": "Trump enters Situation Room to make 'final determination' on Iran",
         "summary": [
@@ -5363,41 +5399,5 @@
         "clean_url": "https://timesofindia.indiatimes.com/india/us-israel-iran-war-live-updates-donald-trump-news-ceasefire-strait-of-hormuz-iran-peace-talks-middle-east-conflict-petrol-diesal-price-hike-latest-news/liveblog/131272301.cms",
         "image": "http://www.bing.com/th?id=ONUT.uTBlYvhYtLSwPMmgoWoP3Q&pid=News",
         "timestamp": 1779510600.0
-    },
-    {
-        "title_fa": "نقش نتانیاهو از «هم‌کیش عملیات» تا «مسافر» در کنار ترامپ علیه ایران",
-        "title_en": "Once Trump’s Co-Pilot Against Iran, Netanyahu Is Now a Mere Passenger",
-        "summary": [
-            "این گزارش می‌گوید نتانیاهو که پیش‌تر در کنار ترامپ به‌عنوان شریک فعال در سیاست فشار علیه ایران دیده می‌شد، اکنون در موقعیتی کم‌اثرتر قرار گرفته و عملاً دنبال‌کننده دستور و تصمیم‌های واشنگتن است.",
-            "چارچوب اصلی نوشته بر تغییر توازن نفوذ بین دولت آمریکا و نخست‌وزیر اسرائیل متمرکز است و نتیجه عملی آن را کاهش اهرم نتانیاهو در تعیین جهت سیاست علیه ایران توصیف می‌کند.",
-            "با توجه به متن ارائه‌شده، هیچ ادعای مشخصی درباره تحرکات مستقیم نظامی، تحریم‌های جدید، یا رویدادهای میدانی علیه دارایی‌های رژیم مطرح نشده و تمرکز صرفاً بر تغییر جایگاه سیاسی/عملی نتانیاهو در تصمیم‌گیری آمریکاست."
-        ],
-        "impact": "کاهش نقش عملی نتانیاهو در تصمیم‌های واشنگتن می‌تواند سرعت و شدت برخی اقدامات علیه ایران را تحت کنترل‌تر شدن مسیرهای سیاست آمریکا قرار دهد، هرچند از متن حاضر شواهد اجرایی جدید بیرون نمی‌آید.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html",
-        "clean_url": "https://www.nytimes.com/2026/05/23/world/middleeast/israel-trump-iran.html",
-        "image": null,
-        "timestamp": 1779508867.0
-    },
-    {
-        "title_fa": "شدت‌گرفتن کنترل ایران بر تنگه هرمز؛ گره حقوقی و چشم‌انداز نامطمئن برای بازگشایی کامل",
-        "title_en": "Iran’s control of Strait of Hormuz raises legal issues; reopening unlikely",
-        "summary": [
-            "گزارش «Financial Times» می‌گوید تشدید کنترل ایران بر تنگه هرمز موجب اختلال در بازارهای انرژی و رفت‌وآمد کشتیرانی شده و «مسائل حقوقی» در این میان برجسته‌تر شده است.",
-            "طبق همین گزارش، بازگشت کامل و «بازگشایی کامل» آبراه در سال 2026 بعید ارزیابی می‌شود؛ یعنی وضعیت فعلی می‌تواند برای مدت طولانی به عدم‌قطعیت بازارها تبدیل شود.",
-            "این روند، ریسک عملیاتی و حقوقی برای شرکت‌های حمل‌ونقل دریایی را بالا می‌برد و عملاً هزینه ریسک ژئوپلیتیک را در قیمت‌گذاری انرژی و بیمه حمل افزایش می‌دهد."
-        ],
-        "impact": "تمدید اختلال احتمالی در هرمز، فشار مستقیم بر زنجیره حمل‌ونقل و قیمت انرژی وارد می‌کند و ریسک حقوقی-عملیاتی را برای بازیگران بین‌المللی تثبیت‌شده نگه می‌دارد.",
-        "tag": "هُرمز",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Invezz on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-control-of-strait-of-hormuz-raises-legal-issues-reopening-unlikely/ar-AA23SyX7",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-control-of-strait-of-hormuz-raises-legal-issues-reopening-unlikely/ar-AA23SyX7",
-        "image": "http://www.bing.com/th?id=ONUT.PKmjQOLkIkFj3iA2xLMS9g&pid=News",
-        "timestamp": 1779508800.0
     }
 ]
