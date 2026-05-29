@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "پیشنهاد ۶۰ روزه آمریکا-ایران: آنچه از گزارش الجزیره برمی‌آید",
+        "title_en": "US-Iran 60-day proposal: What we know",
+        "summary": [
+            "طبق گزارش الجزیره، آمریکا و ایران به‌طور «مقدماتی» درباره تمدید آتش‌بس ۶۰ روزه و آغاز مذاکرات برای پایان دائمی جنگ به تفاهم‌نامه (MOU) رسیده‌اند، اما هنوز نیازمند تأیید نهایی رئیس‌جمهور ترامپ است و هر دو طرف فعلاً درباره متن رسمی اظهار نظر نکرده‌اند؛ طنین بی‌نهایی بودن متن هم از سوی خبرگزاری تسنیم (نیمه‌رسمی) مطرح شده است.",
+            "بر اساس نقل‌قول‌های الجزیره و گزارش Axios (با منابع بدون نام)، محور عملیاتی تفاهم شامل «نامحدود» شدن عبور کشتی‌ها از تنگه هرمز است (بدون عوارض/بدون مزاحمت) و ایران ۳۰ روز برای پاکسازی مین‌ها فرصت خواهد داشت؛ در همین چارچوب، رفع بخشی از محاصره/اعمال دریایی آمریکا به نسبت بازگشت حمل‌ونقل تجاری از تنگه اعلام شده است.",
+            "هم‌زمان، آمریکا در نظر دارد «شماری» از تحریم‌ها علیه ایران را تعلیق کند تا تهران بتواند نفت را «آزادانه» بفروشد؛ هم‌چنین گزارش به این اشاره دارد که اختلاف اصلی بر سر کنترل و شیوه عبور از تنگه هرمز بوده و در دوره جنگ، ایران عبور محدود را با مذاکره و پرداخت عوارض به سپاه مشروط کرده و از سوی دیگر آمریکا نیز محاصره دریایی پشتیبانِ فشار اقتصادی را تشدید کرده است."
+        ],
+        "impact": "این MOU اگر از حالت مقدماتی به تأیید و اجرا برسد، هم فشار دریایی و هم بخشی از اهرم‌های تحریمی آمریکا را کاهش می‌دهد و به‌طور مستقیم توان رژیم برای مدیریت هزینه‌های جنگ و اقتصاد را بهتر می‌کند، حتی اگر هنوز وارد فاز «پایان دائمی» نشده باشد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/politics/articles/us-iran-60-day-proposal-102316250.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/us-iran-60-day-proposal-102316250.html",
+        "image": null,
+        "timestamp": 1780050320.0
+    },
+    {
+        "title_fa": "توضیح ذخایر هسته‌ای ایران به‌عنوان محور مذاکرات پایان جنگ و تمرکز ترامپ",
+        "title_en": "Iran’s nuclear stockpile — a key part of negotiations to end the war and a focus of Trump’s — explained",
+        "summary": [
+            "CNN می‌گوید «ذخایر هسته‌ای ایران» یکی از محورهای اصلی مذاکرات برای پایان جنگ است و هم‌زمان موضوع مورد توجه دونالد ترامپ نیز به شمار می‌رود.",
+            "طبق این گزارش، اهمیت این ذخایر نه صرفاً فنی بلکه سیاسی-چانه‌زنی است: نقطه‌ای که مذاکرات حول آن شکل می‌گیرد و از آن به‌عنوان اهرم برای رسیدن به توافق استفاده می‌شود.",
+            "این محتوا صرفاً در سطح توضیحِ نقش ذخایر در روند مذاکره باقی می‌ماند و جزئیات اجرایی/فنی جدید یا شواهد میدانی مشخص ارائه نمی‌دهد."
+        ],
+        "impact": "این نوع چارچوب‌سازی رسانه‌ای نشان می‌دهد مسئله هسته‌ای همچنان محور فشار و معامله سیاسی است، نه یک تغییر واقعی و قابل‌سنجش در وضعیت میدانی.",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "CNN",
+        "url": "https://www.kten.com/news/politics/iran-s-nuclear-stockpile-a-key-part-of-negotiations-to-end-the-war-and-a/article_fd5a6bb2-dea9-5950-9e95-a775785f0195.html",
+        "clean_url": "https://www.kten.com/news/politics/iran-s-nuclear-stockpile-a-key-part-of-negotiations-to-end-the-war-and-a/article_fd5a6bb2-dea9-5950-9e95-a775785f0195.html",
+        "image": null,
+        "timestamp": 1780045207.0
+    },
+    {
         "title_fa": "فریاد علنی ترامپ درباره عمان؛ دوباره «سوئیسِ خاورمیانه» روی صحنه آمد",
         "title_en": "Trump's Oman outburst throws 'Switzerland of the Middle East' into the spotlight",
         "summary": [
@@ -54,6 +90,24 @@
         "timestamp": 1780036740.0
     },
     {
+        "title_fa": "ترامپ بین امضای توافق پیشنهادی با ایران و تعویق تصمیم، هم‌زمان با افت قیمت نفت و تهدیدهای دریایی نزدیک تنگه هرمز",
+        "title_en": "Trump weighing whether to back memo to end war with Iran, as oil prices slide on prospective of deal",
+        "summary": [
+            "به گزارش CNN، مقام‌های آمریکایی از رسیدن به یک توافق «موقت/مذاکره‌ای» با ایران خبر می‌دهند که شامل تمدید آتش‌بس به مدت ۶۰ روز، آغاز گفت‌وگوهای هسته‌ای و نیز بازگشایی فوری تنگه هرمز بدون عوارض است، اما دونالد ترامپ هنوز امضا نکرده و در حال «چند روز» ارزیابی نهایی است.",
+            "ترامپ گفته چند روز برای تصمیم‌گیری لازم دارد؛ متن توافق تا حدی «قفل شده» ولی معاون او جی‌دی ونس از «چند نکته زبانی» در حال بحث خبر داده است. همچنین گفته شده احتمال دارد امضای نهایی بعد از دریافت خبر قطعی از تأیید «موجتبا خامنه‌ای» انجام شود.",
+            "در همان بازه، سپاه پاسداران در اعلامی دریایی مدعی شده نزدیک تنگه هرمز به چهار شناور «هشدار شلیک» کرده، با این ادعا که آن‌ها بدون هماهنگی/مجوز قبلی قصد عبور داشته‌اند؛ هم‌زمان آتش‌بس به دلیل درگیری‌های اخیر در تنگه تحت فشار بوده است."
+        ],
+        "impact": "تعویق امضای ترامپ در کنار تنش دریایی نزدیک تنگه هرمز، ریسک ادامه‌دار ناپایداری و تداوم فشار امنیتی بر مسیرهای حیاتی انرژی را بالا می‌برد، حتی اگر چارچوب سیاسیِ کاهش جنگ در حال شکل‌گیری باشد.",
+        "tag": "هرمز",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/05/29/world/live-news/iran-trump-war-news",
+        "clean_url": "https://www.cnn.com/2026/05/29/world/live-news/iran-trump-war-news",
+        "image": null,
+        "timestamp": 1780031700.0
+    },
+    {
         "title_fa": "جزئیات عملیات‌های اسرائیل و آمریکا علیه ایران و تلفات متقابل تا زمان اعلام آتش‌بس",
         "title_en": "Live Updates: Latest from Israel, Iran, and Middle East",
         "summary": [
@@ -70,6 +124,24 @@
         "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-05-29/live-updates-897725",
         "image": null,
         "timestamp": 1780030805.0
+    },
+    {
+        "title_fa": "مذاکرات هسته‌ای ترامپ با یک پرسش تعیین‌کننده گیر کرده: سرنوشت ذخیره اورانیوم غنی‌شده ایران",
+        "title_en": "Trump nuclear talks face defining question: What happens to Iran’s uranium stockpile?",
+        "summary": [
+            "با وجود گزارش‌هایی از نزدیک شدن مذاکره‌کنندگان آمریکا و ایران به یک چارچوب موقت، «ذخیره اورانیوم غنی‌شده» همچنان گره‌گاه است: مقام‌های ایرانی حفظ این ذخیره را خط قرمز می‌دانند، در حالی‌که ترامپ وعده داده ایران «موشک/سلاح هسته‌ای» نخواهد داشت و حتی احتمال «برداشتن/تملک» ماده را مطرح کرده است.",
+            "کارشناسان می‌گویند اگر هر بخشی از ذخیره غنی‌شده—به‌ویژه بخش غنی‌شده حدود ۶۰٪ یا حتی سطوح پایین‌تر—در اختیار ایران باقی بماند، توافق می‌تواند عملاً به «داروی زهرآگین» تبدیل شود و ایران را قادر کند هر زمان خواست به سطح غنی‌سازی نزدیک به تسلیحات حرکت کند.",
+            "با تکرار نگرانی‌ها پس از عملیات‌های هوایی آمریکا علیه زیرساخت‌های هسته‌ای (از جمله ضربه‌های ۲۰۲۵ به فردو، نطنز و اصفهان و همچنین «Operation Epic Fury» در ۲۰۲۶)، تأکید می‌شود که آسیب به سانتریفیوژها یا تونل‌ها برنامه را کند می‌کند، اما «حسابرسی، مکان‌یابی، امن‌سازی و خنثی‌سازی خودِ ماده هسته‌ای» چالشی جداگانه و نیازمند دسترسی، اطلاعات قابل اتکا و نظارت بین‌المللی است."
+        ],
+        "impact": "تا زمانی که تکلیف ذخیره غنی‌شده ایران—خصوصاً محموله‌های نزدیک به ۶۰٪—روشن نشود، هر توافق موقت می‌تواند از نظر قابلیت راستی‌آزمایی و جلوگیری از جهش سریع به سمت سطح تسلیحاتی، شکننده و پرریسک بماند.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.35,
+        "source": "AOL",
+        "url": "https://www.aol.com/news/trump-nuclear-talks-face-defining-090536824.html",
+        "clean_url": "https://www.aol.com/news/trump-nuclear-talks-face-defining-090536824.html",
+        "image": null,
+        "timestamp": 1780026720.0
     },
     {
         "title_fa": "تنگنا میان ایران و لبنان؛ هاآرتص هشدار می‌دهد اسرائیل ممکن است هزینه بدهد",
@@ -5327,77 +5399,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1duZXRvZGtnOHFraUhIVHNmQ0JPMGdVMXRXbDhGYndBSWJOZXNQU2FjZGZrYW9jVlM2TnhoYjlMY3FWTElCVDJNWlJHTDVVUm9Wcnl0VE4zVkxCR1B2QWttbE13emUyaFRpLVNMaE5PSzB0dVpCd3F4Q3dzb09TUkFlZTMwcGtZY25GYW5DQ2cwVVHSAZgBQVVfeXFMTjFnbXZnMDFyaGtjNERya2l2V0Focm5TaE95dUh3bmJtS3R1R0tISW51VzhrMFBrZi1mSFg5QzV5cWRxTkFIS2k2MDd6UlI4cXYySG1pTVBWSTlPVUVTb2s1bFJZenQ1ZVBnUU92N0lJQ25XSzZJVTYtNXRMeF9nVkdRU2tqRWNHaWJ2NU9Vbl80ZlBaN0pNNFI",
         "image": null,
         "timestamp": 1779484359.0
-    },
-    {
-        "title_fa": "واشینگتن بررسی «ضربات نظامی تازه» علیه ایران را در کنار ادامه تلاش‌های دیپلماتیک در دستور کار دارد",
-        "title_en": "Iran Israel War Live Updates: Trump administration weighs fresh military strikes on Iran as diplomatic efforts continue",
-        "summary": [
-            "طبق گزارش Firstpost، دولت آمریکا در حال بررسی گزینه‌های حملات نظامی جدید علیه ایران است؛ هم‌زمان تلاش‌های دیپلماتیک ادامه دارد و نشان می‌دهد مسیر فشار دوگانه (تهدید عملی و مذاکره) در جریان است.",
-            "این نوع تصمیم‌گیری در واشینگتن معمولاً اهرم خارجی را علیه رژیم تشدید می‌کند و از نظر راهبردی بر محاسبات امنیتی و بازدارندگی داخلی اثر مستقیم می‌گذارد—به‌خصوص وقتی گزینه نظامی «روی میز» باشد.",
-            "با توجه به اینکه متن فقط به «بررسی» ضربات تازه اشاره می‌کند و جزئیات اعتقاد/قطعیت ارائه نمی‌دهد، نمی‌توان درباره زمان یا هدف دقیق عملیات ادعا کرد؛ اما همین مرحله نشان‌دهنده نزدیک شدن خطر به سطح تقابل مستقیم است."
-        ],
-        "impact": "ترکیب بررسی ضربات نظامی تازه با ادامه دیپلماسی، احتمال تشدید بحران را بالا می‌برد و می‌تواند رژیم را وارد چرخه تصمیم‌های پرریسک‌تر کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-trump-strait-of-hormuz-strikes-on-iran-liveblog-14014206.html",
-        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-trump-strait-of-hormuz-strikes-on-iran-liveblog-14014206.html",
-        "image": "http://www.bing.com/th?id=ONUT.X73rdSU6LLVz8oIFb2Rgbw&pid=News",
-        "timestamp": 1779484200.0
-    },
-    {
-        "title_fa": "ترامپ: جنگ آمریکا-اسرائیل علیه ایران «به‌زودی تمام می‌شود»",
-        "title_en": "Trump says US-Israeli war on Iran will ‘be over with soon’",
-        "summary": [
-            "ترامپ در اظهارنظر رسانه‌ای ادعا کرده جنگ آمریکا-اسرائیل علیه ایران «به‌زودی تمام می‌شود»؛ این یک سیگنال سیاسی برای تشدید فشار و کوتاه‌کردن زمان‌بندی عملیات بالقوه است، بدون ارائه جزئیات قابل راستی‌آزمایی درباره تدارکات یا زمان دقیق.",
-            "از نظر تحلیلی، چنین پیام‌هایی معمولاً با هدف ایجاد اثر روانی و فرسایش محاسبات رژیم انجام می‌شود و می‌تواند ریسک تصمیم‌گیری‌های پرهزینه را بالا ببرد، اما در متن هیچ نشانه‌ای از توافق، آتش‌بس یا تغییر سیاست مشخص وجود ندارد.",
-            "در این خبر اطلاعاتی درباره وضعیت داخلی، اعتراض‌ها یا فروپاشی اقتصادی ارائه نشده است؛ بنابراین نمی‌توان به‌صورت مستند ادعا کرد که این اظهارنظر مستقیماً به ناآرامی یا بحران جدیدی منجر شده است."
-        ],
-        "impact": "اثر فوری این اظهارنظر بیشتر «افزایش عدم‌قطعیت و فشار روانی» روی محاسبات امنیتی رژیم است، چون هیچ داده عملیاتی یا زمان‌بندی دقیق منتشر نشده.",
-        "tag": "تهدید",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXJnWnN3VDYwQ3VFRzJ1RW5QblJQMUY4REVzOUZOUndIVlc3R0Z0WTR1UzV0aGFqY2hLbHdTb3ZDZXFvRzhlalVnTWtpTDhUUGJZX0RoNzNtQmpoYlhwRnVrMVhDZDVKQllsQzZnNGs4c25SLVVEOFpETmFCbmtYN1FHaThEZDg2bGdjaExiWFlxdWFYanM0LVJsSFotWThI?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXJnWnN3VDYwQ3VFRzJ1RW5QblJQMUY4REVzOUZOUndIVlc3R0Z0WTR1UzV0aGFqY2hLbHdTb3ZDZXFvRzhlalVnTWtpTDhUUGJZX0RoNzNtQmpoYlhwRnVrMVhDZDVKQllsQzZnNGs4c25SLVVEOFpETmFCbmtYN1FHaThEZDg2bGdjaExiWFlxdWFYanM0LVJsSFotWThI",
-        "image": null,
-        "timestamp": 1779483881.0
-    },
-    {
-        "title_fa": "ریسک‌های تهدید ایران برای کنترل تنگه هرمز از مسیر اخذ هزینه عبور",
-        "title_en": "The Risks of Iran’s Threat to Control the Strait of Hormuz",
-        "summary": [
-            "ایران قصد دارد برای عبور کشتی‌ها از تنگه هرمز «هزینه» دریافت کند تا بر تنگه اعمال کنترل کند؛ هرچند کارشناسان احتمال تحقق عملی این طرح را پایین می‌دانند، اما نفس تهدید برای صنعت کشتیرانی به‌قدر کافی بی‌ثبات‌کننده است.",
-            "این تهدید باعث نااطمینانی عملیاتی در زنجیره حمل‌ونقل دریایی می‌شود: شرکت‌ها مجبورند ریسک سیاسی/امنیتی را در محاسبات هزینه، بیمه و برنامه‌ریزی مسیر لحاظ کنند، حتی اگر اجرای واقعی محدود باشد.",
-            "از منظر فشار خارجی و تحرکات اقتصادی، پیام این اقدام روشن است: رژیم می‌خواهد اهرم مالی از موقعیت ژئوپلیتیک بسازد، اما همین تلاش می‌تواند هزینه‌های غیرمستقیم (افزایش ریسک سرمایه‌گذاری و بیمه، افت کارایی لجستیک) را تشدید کند و ثبات بازار انرژی را تحت فشار قرار دهد."
-        ],
-        "impact": "حتی بدون احتمال بالای تحقق فوری اخذ هزینه، تهدید کنترل/مانور بر تنگه هرمز باعث اختلال ریسک‌محور در صنعت حمل‌ونقل و تشدید نگرانی‌های امنیت دریایی می‌شود.",
-        "tag": "هرمز",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/23/business/iran-toll-strait-hormuz.html",
-        "clean_url": "https://www.nytimes.com/2026/05/23/business/iran-toll-strait-hormuz.html",
-        "image": "http://www.bing.com/th?id=ONUT.zMduvEQ4ZYSmbgcJqrKlfw&pid=News",
-        "timestamp": 1779483660.0
-    },
-    {
-        "title_fa": "هشدار مقام ارشد امارات: ازسرگیری جنگ ایران «فاجعه‌بار» است",
-        "title_en": "Senior UAE Official To RFE/RL: Restart Of Iran War Would Be 'Catastrophic'",
-        "summary": [
-            "یک مقام ارشد امارات به RFE/RL گفته که ازسرگیری جنگ میان ایران و بازیگران منطقه‌ای/فرامنطقه‌ای «فاجعه‌بار» خواهد بود؛ این یعنی امارات از تشدید تنش به‌عنوان تهدید مستقیم برای ثبات منطقه برداشت می‌کند.",
-            "این اظهارنظر، خودِ اعتراف ضمنی به ریسک بالای بحرانِ امنیتی است: هر سناریوی درگیری مجدد می‌تواند زنجیره اقتصاد-امنیت منطقه را مختل کند، از تجارت و بیمه و حمل‌ونقل گرفته تا هزینه‌های امنیتی دولت‌ها.",
-            "برای ایران، پیام اصلی روشن است: حتی طرف‌های عرب حوزه خلیج فارس هم ادامه سیاست‌های تنش‌آفرین را پرهزینه می‌دانند؛ این نوع فشار افکار عمومی و دولت‌های عرب ممکن است محاسبات تهران برای بازی‌های پرریسک را محدود کند."
-        ],
-        "impact": "این هشدار نشان می‌دهد که فضا برای کنترل هزینه‌های بحران رو به افزایش است و هر جهش به سمت جنگ می‌تواند هم‌زمان پشت پرده حمایت‌های عملی رژیم را تضعیف و فشارهای خارجی-منطقه‌ای را تشدید کند.",
-        "tag": "منطقه",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/iran-war-likely-to-restart-senior-tehran-official-warns-after-trump-says-us-might-be-better-off-without-deal/ar-AA22eMQE",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/iran-war-likely-to-restart-senior-tehran-official-warns-after-trump-says-us-might-be-better-off-without-deal/ar-AA22eMQE",
-        "image": null,
-        "timestamp": 1779479034.0
     }
 ]
