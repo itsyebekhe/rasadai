@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ «تعیین نهایی» درباره پیشنهاد مربوط به ایران را به تعویق انداخت",
+        "title_en": "Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal",
+        "summary": [
+            "طبق گزارش، ترامپ اعلام کرده تصمیم‌گیری نهایی درباره «پیشنهاد ایران» را به تعویق می‌اندازد؛ یعنی جمع‌بندی سیاسی/حقوقی که قرار بوده زودتر انجام شود، هنوز نهایی نشده است.",
+            "این تعویق مستقیماً پیام سیاسیِ اهرمی را کاهش می‌دهد و زمان بیشتری برای رایزنی‌ها و چانه‌زنی‌های پشت‌پرده فراهم می‌کند، نه اینکه یک اقدام قطعی جدید علیه ایران اعلام شود.",
+            "با توجه به اینکه متن گزارش جزئیات اجرایی، تحریم تازه، یا اقدام عملی مشخص را ارائه نمی‌کند، اثر فوری آن بیشتر «نامشخص کردن مسیر تصمیم» است تا وارد کردن فشار ساختاری قطعی."
+        ],
+        "impact": "تعویق «تعیین نهایی» یعنی مرحله ابهام سیاسی ادامه پیدا می‌کند و زمان بیشتری برای محاسبه و مدیریت ریسک برای دو طرف باقی می‌گذارد.",
+        "tag": "سیاست",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.msn.com/en-in/news/other/us-iran-war-news-live-updates-us-ready-to-restart-strikes-on-iran-if-no-deal/ar-AA24pgeh?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-live-updates-us-ready-to-restart-strikes-on-iran-if-no-deal/ar-AA24pgeh",
+        "image": null,
+        "timestamp": 1780158540.0
+    },
+    {
         "title_fa": "هگست: محاصره آمریکا در تنگه هرمز «کاملاً برقرار است»؛ اختلاف تشدید می‌شود",
         "title_en": "Live - Hegseth says blockade on Iran in place as Hormuz dispute deepens",
         "summary": [
@@ -144,6 +162,24 @@
         "timestamp": 1780135320.0
     },
     {
+        "title_fa": "رد صریح پیشنهاد آتش‌بس آمریکا؛ قالیباف وعده را بی‌اعتبار دانست و امتیازگیری را «با موشک» شرط کرد",
+        "title_en": "Iran’s parliament speaker rejects US ceasefire proposal, says Tehran ‘seizes concessions with missiles, not dialogue’",
+        "summary": [
+            "محمدباقر قالیباف، رئیس مجلس، پیشنهاد آمریکا برای تمدید آتش‌بس و بازگشایی تنگه هرمز را رد کرد و تأکید نمود ملاک تهران «اقدام» است نه «تضمین و وعده»؛ او گفت هیچ اقدامی انجام نمی‌شود مگر اینکه طرف مقابل اقدام کند.",
+            "طبق گزارش‌های مذاکراتی، طرح مورد بحث می‌تواند ۶۰ روز آتش‌بس را تمدید کند و «ارسال نامحدود» نفت و گاز از تنگه هرمز را ممکن سازد و در مقابل، آمریکا کاهش محدودیت‌ها بر بنادر و بخشی از رفع تحریم‌های صادرات نفت ایران را در نظر بگیرد؛ با این حال ایران اعلام کرده متن هنوز در مرحله نهایی نیست و تغییراتی رخ داده است.",
+            "قالیباف لحن را تندتر کرد: به‌گفته منابع، او صراحتاً گفت تهران حقوقش را از مسیر «گفتگو» نه، بلکه با «موشک» به دست می‌آورد و برتری در توافق را به برنامه‌ریزی بهتر برای «روز بعد از جنگ» نسبت داد."
+        ],
+        "impact": "این موضع‌گیری نشان می‌دهد تهران می‌خواهد دست‌کم در چارچوب فعلی، هزینه و اهرم نظامی را محور معامله نگه دارد و اعتماد به سازوکارهای توافقی را عملاً حذف می‌کند.",
+        "tag": "Sanctions/ForeignPressure",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Indian Express",
+        "url": "https://indianexpress.com/article/world/iran-strait-of-hormuz-ceasefire-proposal-us-talks-10714734/?ref=premium-page",
+        "clean_url": "https://indianexpress.com/article/world/iran-strait-of-hormuz-ceasefire-proposal-us-talks-10714734",
+        "image": null,
+        "timestamp": 1780134180.0
+    },
+    {
         "title_fa": "اهرم جنگ یا طناب نجات؟",
         "title_en": "Was the Iran war leverage or a lifeline for Tehran?",
         "summary": [
@@ -196,6 +232,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYWk4YS1EM2o0b21XQUJFOHJhellSaWZRcklnY1UtemRiNHFQYzVaU1RzenZkY25GRFhReDRuSmU2a1lnU0RUQXVSMEZvUjlEak5GbXprNzR1RnFJek1vU0RBVVppS19uQzBDdHJWUjNYTGhJaWJsRlhyb2lZYl94RTZ4VlFkeXFZWTZEdWxhaTFXOEZPRFE",
         "image": null,
         "timestamp": 1780123191.0
+    },
+    {
+        "title_fa": "بلوک دریایی تنگه هرمز؛ بازگشت صادرات نفت ایران به سطح پیش از جنگ نامحتمل‌تر می‌شود",
+        "title_en": "Oil exports through the Strait of Hormuz might not return to levels seen before the Iran war",
+        "summary": [
+            "CNBC بر این نکته تاکید می‌کند که «بلوک» ایران در تنگه هرمز باعث اختلال جدی در آزادی کشتیرانی در این مسیر حیاتی شده و همین موضوع آینده صادرات را زیر سوال برده است.",
+            "این اختلال می‌تواند به معنای افت ساختاری در ظرفیت و میزان صادرات نفت از مسیر تنگه هرمز باشد؛ نه صرفاً یک شوک کوتاه‌مدت، چون ریسک کشتیرانی و مسیر را برای خریداران و بیمه‌گران سنگین می‌کند.",
+            "این گزارش صریحاً می‌گوید صادرات نفت از کانال هرمز «احتمالاً» به سطوح دیده‌شده پیش از «جنگ ایران» برنمی‌گردد، یعنی اثرات آن می‌تواند طولانی و وابسته به ادامه نگرانی‌های ناوبری/امنیتی باقی بماند."
+        ],
+        "impact": "ادامه اختلال در هرمز، می‌تواند صادرات نفت را به سمت افت و پایدار شدن کاهش ببرد و فشار اقتصادی را برای دولت تشدید کند.",
+        "tag": "هرمز",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "CNBC on MSN",
+        "url": "https://www.msn.com/en-us/news/world/oil-exports-through-the-strait-of-hormuz-might-not-return-to-levels-seen-before-the-iran-war/ar-AA24q0vb",
+        "clean_url": "https://www.msn.com/en-us/news/world/oil-exports-through-the-strait-of-hormuz-might-not-return-to-levels-seen-before-the-iran-war/ar-AA24q0vb",
+        "image": null,
+        "timestamp": 1780120800.0
     },
     {
         "title_fa": "اظهارات پیت هگست درباره توان آمریکا برای ازسرگیری جنگ علیه ایران",
@@ -5345,59 +5399,5 @@
         "clean_url": "https://www.aol.com/news/ted-cruz-trump-ally-battle-025408976.html",
         "image": "http://www.bing.com/th?id=ONUT.rJX2tay3iT6VYDLShai8pg&pid=News",
         "timestamp": 1779577800.0
-    },
-    {
-        "title_fa": "ترامپ: توافق آمریکا-ایران «بیشتر مذاکره‌شده» است؛ جزئیات بزودی اعلام می‌شود",
-        "title_en": "Iran Israel War Live Updates: Trump says US-Iran agreement is ‘largely negotiated’, details to be announced soon",
-        "summary": [
-            "ترامپ اعلام کرده توافق آمریکا و ایران «به‌طور عمده مذاکره‌شده» و جزئیات آن به‌زودی منتشر می‌شود؛ اما متن گزارش به جزئیات فنی یا زمان‌بندی مشخص اشاره نمی‌کند.",
-            "این پیام نشان می‌دهد مسیر کاهش تنش از طریق کانال دیپلماتیک در جریان است، با این حال سطح تعهدات، مکانیزم اجرا و دامنه موضوعات هنوز در گزارش روشن نشده است.",
-            "در نبود جزئیات، اثر ملموس اقتصادی/تحریمی یا پیامدهای داخلی برای ایران از همین خبر قابل اندازه‌گیری نیست؛ گزارش فعلاً بیشتر یک سیگنال سیاسی است تا تصمیم اجرایی."
-        ],
-        "impact": "این اظهارنظر می‌تواند انتظارات بازار و محاسبات تهران را از مسیر مذاکره تحت‌تأثیر قرار دهد، ولی چون جزئیات اعلام نشده، اثر عملی فعلاً نامشخص است.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-trump-iran-israel-war-lebanon-peace-deal-hormuz-reopening-liveblog-14014470.html",
-        "clean_url": "https://www.firstpost.com/world/iran-israel-war-live-updates-trump-iran-israel-war-lebanon-peace-deal-hormuz-reopening-liveblog-14014470.html",
-        "image": "http://www.bing.com/th?id=ONUT.dfVqMP-FQIT3UkkKQQhb_g&pid=News",
-        "timestamp": 1779576060.0
-    },
-    {
-        "title_fa": "ادعای ترامپ درباره «توافق عمدتاً مذاکره‌شده» برای جنگ ایران همزمان با آتش‌بس شکننده",
-        "title_en": "Agreement on Iran war ‘largely negotiated,’ Trump says amid fragile ceasefire",
-        "summary": [
-            "NBC News گزارش می‌دهد ترامپ ادعا کرده توافق مربوط به جنگ ایران «عمدتاً مذاکره‌شده» است؛ یعنی چارچوب تصمیم‌گیری در حال شکل‌گیری بوده و به نتیجه نهاییِ قطعی نزدیک می‌شود، اما هنوز شکنندگی وجود دارد.",
-            "همزمان با این ادعا، خبر بر «آتش‌بس شکننده» تاکید می‌کند؛ بنابراین ریسک برگشت سریع به درگیری بالا است و از منظر راهبردی، هر طرف ممکن است از اهرم‌های فشار برای تغییر شرایط مذاکره استفاده کند.",
-            "این رویداد بیشتر یک تحول دیپلماتیک/عملیاتی در میدانی است تا نشانه‌ای از حل ریشه‌ای اختلافات؛ پیام اصلی برای ثبات رژیم و مخالفان، استمرار عدم‌قطعیت و امکان سوءاستفاده از خلأهای آتش‌بس است."
-        ],
-        "impact": "آتش‌بس شکننده با ادعای «مذاکره‌شده بودن» توافق، احتمال توقف کوتاه‌مدت درگیری را افزایش می‌دهد اما ریسک تشدید مجدد را هم در کوتاه‌مدت حفظ می‌کند.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "NBC News",
-        "url": "https://www.msn.com/en-us/news/politics/us-and-iran-officials-signal-progress-in-negotiations-amid-fragile-ceasefire/ar-AA23TBRr",
-        "clean_url": "https://www.msn.com/en-us/news/politics/us-and-iran-officials-signal-progress-in-negotiations-amid-fragile-ceasefire/ar-AA23TBRr",
-        "image": null,
-        "timestamp": 1779571554.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید «توافق» با ایران و بازگشایی تنگه هرمز «تا حد زیادی نهایی» شده است",
-        "title_en": "Trump says deal with Iran, opening Strait of Hormuz 'largely negotiated'",
-        "summary": [
-            "ترامپ اعلام کرد پس از تماس با اسرائیل و چندین متحد منطقه‌ای، توافقی با ایران «تا حد زیادی مذاکره» شده و جزئیات نهایی در حال بررسی است؛ او زمان‌بندی مشخص نکرد.",
-            "به گفته او، «موافقت‌نامه/یادداشت تفاهم درباره صلح» هنوز باید بین آمریکا، ایران و دیگر کشورهای شرکت‌کننده نهایی شود و یکی از عناصر آن «بازگشایی تنگه هرمز» است؛ همچنین هیچ اشاره‌ای به برنامه هسته‌ای و اورانیوم با غنای بالا نشده است.",
-            "خبر همزمان گزارش می‌کند که پیش از این، میانجی‌گری با محوریت پاکستان امیدبخش شده بود، اما یک مقام منطقه‌ای از احتمال ادامه فشار/حملات جدید آمریکا علیه ایران خبر داده بود (تا حدی که متن ناقص به «آخرین—» اشاره می‌کند)."
-        ],
-        "impact": "اگر این مسیر به نتیجه برسد، کنترل ریسک در خلیج فارس بالا می‌رود و اهرم‌های فشار خارجی می‌تواند از «تنش عملیاتی» به «چانه‌زنی قراردادی» منتقل شود—در حالی‌که مسئله هسته‌ای فعلاً از دستور حل فوری کنار گذاشته می‌شود.",
-        "tag": "تحرک_دیپلماتیک",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The Washington Post",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-says-deal-iran-opening-205403931.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-deal-iran-opening-205403931.html",
-        "image": null,
-        "timestamp": 1779569590.0
     }
 ]
