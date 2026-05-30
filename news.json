@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ جلسه اتاق وضعیت برای تصمیم‌گیری درباره تمدید آتش‌بس با ایران برگزار می‌کند",
+        "title_en": "Trump calls a Situation Room meeting to decide on extending Iran ceasefire",
+        "summary": [
+            "واشینگتن پست گزارش می‌دهد ترامپ برای تصمیم‌گیری درباره تمدید آتش‌بس با ایران، جلسه «اتاق وضعیت» تشکیل می‌دهد؛ یعنی گام بعدی در سیاست فشار/بازدارندگی مستقیماً در سطح عالی کاخ سفید تعیین می‌شود.",
+            "این تصمیم می‌تواند به‌عنوان اهرم زمان‌بر برای سنجش رفتار رژیم در میدان عمل کند، اما هم‌زمان ریسک می‌دهد که رژیم از توقف یا کاهش درگیری‌ها برای تثبیت روایت داخلی و عملیات پنهان استفاده کند—به‌ویژه اگر شروط سیاسی/امنیتی روشن و قابل راستی‌آزمایی اعلام نشود.",
+            "از منظر واقع‌گرایانه، تمرکز صرف بر «تمدید آتش‌بس» بدون اتصال روشن به شاخص‌های قابل سنجش، ساختار فشار را تضعیف می‌کند و پیام به طرف ایرانی را مبهم می‌گذارد؛ در نتیجه، احتمال تغییر نکردن محاسبات رژیم بالا می‌رود."
+        ],
+        "impact": "برگزاری جلسه اتاق وضعیت نشان می‌دهد محور تصمیم آمریکا به‌جای اقدام‌های یک‌طرفه، بر مدیریت ادامه آتش‌بس و تنظیم فشار در زمان کوتاه متمرکز است.",
+        "tag": "آتش‌بس",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/politics/2026/05/29/trump-calls-situation-room-meeting-decide-extending-iran-ceasefire/",
+        "clean_url": "https://www.washingtonpost.com/politics/2026/05/29/trump-calls-situation-room-meeting-decide-extending-iran-ceasefire",
+        "image": null,
+        "timestamp": 1780110900.0
+    },
+    {
         "title_fa": "وقتی دولت‌ها زبان دیپلماسی را از دست می‌دهند، مسیر به جنگ بسته نمی‌ماند",
         "title_en": "Iran, Israel, and the US: When governments lose the language of diplomacy, war follows",
         "summary": [
@@ -36,6 +54,24 @@
         "timestamp": 1780094220.0
     },
     {
+        "title_fa": "خروج ترامپ از جلسه شورای وضعیت؛ معامله با ایران بدون «تعیین نهایی» و با شرط «خط قرمز» هسته‌ای",
+        "title_en": "US-Iran War Live Updates: Trump's Iran meet ends without 'final determination'",
+        "summary": [
+            "ترامپ پس از حدود دو ساعت نشست در «وایت هوس Situation Room» بدون تصمیم نهایی برای پایان جنگ ایران و آمریکا جلسه را ترک کرد و مقامات آمریکایی اعلام کردند فقط معامله‌ای انجام می‌شود که برای آمریکا سودمند باشد و «خط قرمزها» را برآورده کند.",
+            "طبق بیان یک مقام کاخ سفید، ایران «هرگز» نباید به سلاح هسته‌ای دست پیدا کند؛ هم‌زمان گزارش شده اختلاف‌های باقی‌مانده حول موضوعاتی مانند آزادسازی/بازکردن منابع مالی ایران در حال بررسی است، هرچند گفته می‌شود «پایان نزدیک» است.",
+            "در همان دوره، نهادهای بین‌المللی (IEA، IMF، World Bank، WTO) هشدار داده‌اند که جنگ خاورمیانه فشار بر تأمین انرژی وارد کرده و اقتصادهای آسیب‌پذیرتر را سخت‌تر می‌کوبد؛ این زمینه، فشار هزینه‌ای و بی‌ثباتی اقتصادی را برای منطقه تشدید می‌کند."
+        ],
+        "impact": "عدم رسیدن به «تعیین نهایی» یعنی مسیر معامله هنوز گره دارد و هم‌زمان هزینه‌های جنگ از مسیر انرژی و اقتصاد، فشار فوری روی کشورهای منطقه و محاسبات دیپلماتیک را افزایش می‌دهد.",
+        "tag": "ایران-هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "CNBCTV18",
+        "url": "https://www.cnbctv18.com/world/us-iran-israel-war-ceasefire-donald-trump-crude-deal-west-asia-liveblog-ws-l-19915252.htm",
+        "clean_url": "https://www.cnbctv18.com/world/us-iran-israel-war-ceasefire-donald-trump-crude-deal-west-asia-liveblog-ws-l-19915252.htm",
+        "image": "http://www.bing.com/th?id=ONUT.1EgLfSSpXy6cJPMrJzBr1A&pid=News",
+        "timestamp": 1780090200.0
+    },
+    {
         "title_fa": "روز ۹۱ جنگ؛ نزدیکی واشینگتن و تهران به «توافق ۶۰ روزه»",
         "title_en": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
         "summary": [
@@ -54,6 +90,24 @@
         "timestamp": 1780087683.0
     },
     {
+        "title_fa": "توافق اولیه امریکا و ایران برای تمدید آتش‌بس؛ اما جنگ و گره هسته‌ای هنوز بسته نشده",
+        "title_en": "How far is there to go until the US and Iran end the war?",
+        "summary": [
+            "طبق گزارش رویترز، امریکا و ایران به «توافق برای تمدید آتش‌بس»، اجازه کشتیرانی از تنگه هرمز، و لغو بخشی از محاصره و برخی تحریم‌های امریکا نزدیک شده‌اند، ولی معامله نهایی هنوز قطعی نیست و چند مسئله بنیادی (برنامه هسته‌ای، جنگ اسرائیل با حزب‌الله، و مطالبه رفع تحریم و آزادسازی دارایی‌های بلوکه‌شده) همچنان مانع است.",
+            "در ادامه گفت‌وگوهای عمدتاً غیرمستقیم، چهار منبع مطلع می‌گویند چارچوبی برای توقف جنگ با «مکاتبه تفاهم (memorandum of understanding)» تنظیم شده و ۶۰ روز برای رسیدن به توافق نهایی زمان داده می‌شود؛ با این حال، هر دو طرف پیش‌تر هم بارها «نزدیکی» را اعلام کرده‌اند بدون اینکه به نتیجه برسند و طبق منابع، «ترامپ هنوز تایید نکرده است».",
+            "نقش اسرائیل در توافق روشن نیست؛ ضمن اینکه ایران پیش‌تر گفته توافق چارچوبی فقط توقف جنگ در همه جبهه‌هاست و بعد از یک دوره زمانی (احتمالاً ۳۰ روزه) ورود به بحث‌های سخت‌تر مثل وضعیت اورانیوم با غنای بالا و جزئیات امنیت/زمان‌بندیِ مراحل لغو تحریم و ترتیب اقدامات برای تنگه هرمز آغاز می‌شود."
+        ],
+        "impact": "این توافق اولیه می‌تواند شدت تنش را کاهش دهد، اما چون اختلاف اصلی بر سر هسته‌ای و همچنین «ترتیب» لغو تحریم/امنیت تنگه هرمز حل نشده، پایان واقعی جنگ در گرو تصمیم سیاسی واشینگتن و مذاکرات بعدی است.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/far-until-us-iran-end-151612431.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/far-until-us-iran-end-151612431.html",
+        "image": "http://www.bing.com/th?id=ONUT.ePOgmH_RCzIak2orFv_uqQ&pid=News",
+        "timestamp": 1780083000.0
+    },
+    {
         "title_fa": "اعلام برنامه آمریکا برای رفع محاصره دریایی بنادر ایران از زبان ترامپ",
         "title_en": "Iran war: US to lift naval blockade of ports, Trump says",
         "summary": [
@@ -70,6 +124,24 @@
         "clean_url": "https://www.msn.com/en-xl/news/other/iran-war-vance-says-deal-close-but-not-there-yet/ar-AA24jbPl",
         "image": null,
         "timestamp": 1780082901.0
+    },
+    {
+        "title_fa": "مذاکرات پایان جنگ با ایران و «گیر هسته‌ای»؛ روایت رسانه‌ای بدون جزئیات قابل راستی‌آزمایی",
+        "title_en": "How does Trump solve key 'nuclear dust' hang-up in negotiations to end Iran War?",
+        "summary": [
+            "متن منبع ارسالی عملاً درباره «نuclear dust» و راه‌حل ترامپ در مذاکرات پایان جنگ با ایران جزئیات مشخص ارائه نمی‌دهد و بیشتر یک صفحه از ویدئو/خبرهای پراکنده است.",
+            "هیچ اطلاعات تأییدپذیری درباره اینکه «گیر هسته‌ای» دقیقاً چیست، چه گره فنی/حقوقی دارد، یا ترامپ چه اقدام مشخصی را پیشنهاد/اعمال کرده ارائه نشده است.",
+            "با توجه به ساختار داده‌شده، نمی‌توان ارتباط معنادار و مستندی میان مفاهیم مذاکره، اقدامات ادعایی و پیامدهای تحریم/فشار خارجی یا وضعیت داخلی ایران استخراج کرد."
+        ],
+        "impact": "در غیاب جزئیات واقعی از متن، اثر اطلاعاتی این گزارش روی ارزیابی عملی از مسیر پایان درگیری یا تغییر توازن فشارها بسیار محدود است.",
+        "tag": "نامشخص",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/politics/how-does-trump-solve-key-nuclear-dust-hang-up-negotiations-end-iran-war",
+        "clean_url": "https://www.foxnews.com/politics/how-does-trump-solve-key-nuclear-dust-hang-up-negotiations-end-iran-war",
+        "image": null,
+        "timestamp": 1780082040.0
     },
     {
         "title_fa": "۶ شرط برای «توافق هسته‌ای» مناسب با منافع غرب؛ متن صرفاً تبلیغاتی و فاقد جزئیات درباره ایران",
@@ -376,6 +448,24 @@
         "clean_url": "https://www.kten.com/news/politics/iran-s-nuclear-stockpile-a-key-part-of-negotiations-to-end-the-war-and-a/article_fd5a6bb2-dea9-5950-9e95-a775785f0195.html",
         "image": null,
         "timestamp": 1780045207.0
+    },
+    {
+        "title_fa": "سیگنال خوش‌بینی ترامپ، اما امضای «چارچوب صلح ایران» همچنان انجام نشده است",
+        "title_en": "Trump signals optimism, but still hasn't signed off on an Iran peace framework",
+        "summary": [
+            "لس‌آنجلس‌تایمز گزارش می‌دهد ترامپ از نظر سیاسی با تصمیمی پرتنش روبه‌رو است: ورود به توافقی که به‌طور اجتناب‌ناپذیر مستلزم «امتیازدهی قابل‌توجه» به تهران است، بدون اینکه تأیید نهایی یا امضای چارچوب عملی انجام شده باشد.",
+            "این یعنی فرایند مذاکره در مرحله سیاسی/اعلامی باقی مانده و عدم امضا، اهرم فشار و عدم قطعیت را برای رژیم حفظ می‌کند؛ رژیمی که بدون پشتوانه اقتصادی-سیاسی پایدار، از همین بلاتکلیفی برای خرید زمان استفاده می‌کند.",
+            "در سطح داخلی آمریکا هم این تصمیم پرهزینه است: هرگونه توافق بدون «تأیید نهایی» در عمل هم ریسک واکنش سیاسی داخلی را بالا می‌برد و هم به تهران فرصت می‌دهد روایت خود از مسیر مذاکره را پیش ببرد، بدون تضمین واقعی اجرای تعهدات."
+        ],
+        "impact": "عدم امضای چارچوب، هم فشار ساختاری را به تهران نیمه‌تعلیق نگه می‌دارد و هم مذاکرات را در وضعیت ابهام سیاسی نگه می‌دارد تا رژیم بتواند زمان بخرد.",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Los Angeles Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-signals-optimism-but-still-hasn-t-signed-off-on-an-iran-peace-framework/ar-AA24mLGq",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-signals-optimism-but-still-hasn-t-signed-off-on-an-iran-peace-framework/ar-AA24mLGq",
+        "image": "http://www.bing.com/th?id=ONUT.SexgMH41_-B5GZ0bgNMm6w&pid=News",
+        "timestamp": 1780044151.0
     },
     {
         "title_fa": "فریاد علنی ترامپ درباره عمان؛ دوباره «سوئیسِ خاورمیانه» روی صحنه آمد",
@@ -5309,95 +5399,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/iran-chief-negotiator-vows-crushing-130201850.html",
         "image": "http://www.bing.com/th?id=ONUT.2albS2Uf5pPjT0JOrgE0nw&pid=News",
         "timestamp": 1779527040.0
-    },
-    {
-        "title_fa": "پاکستان گفت‌وگوی جدید درباره جنگ با ایران را در چارچوب فشار دیپلماتیک به پیش می‌برد",
-        "title_en": "From Tehran To Beijing, Pakistan Continues Diplomatic Push With Latest Iran War Talks",
-        "summary": [
-            "طبق گزارش رادیو فردا، پاکستان روند رایزنی‌های دیپلماتیک خود را درباره «گفت‌وگوهای جنگ ایران» همزمان در تهران و بیجینگ ادامه می‌دهد و این یعنی تلاش برای اثرگذاری منطقه‌ای با محوریت کاهش/مدیریت تنش است.",
-            "این حرکت نشان می‌دهد بازیگران همسایه دنبال راهی برای جلوگیری از گسترش پیامدهای درگیری به منافع خود هستند و پاکستان می‌کوشد کانال‌های ارتباطی را به چند پایتخت اصلی متصل نگه دارد.",
-            "خبر بدون ارائه جزئیات درباره محتوای دقیق پیشنهادها یا طرف‌های مشخص باقی می‌ماند، اما خودِ ادامه رایزنی‌ها از تداوم نگرانی منطقه‌ای نسبت به بی‌ثباتی ناشی از تنش ایران حکایت دارد."
-        ],
-        "impact": "این اقدام دیپلماتیک می‌تواند موقتاً شدت تنش را مدیریت کند، اما به‌تنهایی نشانه ضعف یا تغییر ساختاری در تصمیم‌گیری‌های تهران نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://www.rferl.org/a/iran-war-pakistan-america-nuclear-diplomacy-china-rubio/33763157.html",
-        "clean_url": "https://www.rferl.org/a/iran-war-pakistan-america-nuclear-diplomacy-china-rubio/33763157.html",
-        "image": null,
-        "timestamp": 1779527001.0
-    },
-    {
-        "title_fa": "ایران و آمریکا در آستانه تفاهم برای پایان جنگ؛ میانجی‌گری پاکستان و نقش واسطه‌های واشنگتن برجسته شد",
-        "title_en": "Iran and US are close to an understanding aimed at ending the war, officials say",
-        "summary": [
-            "گزارش می‌گوید آمریکا و ایران «نزدیک به توافق‌نامه/مذاکره‌نامه» برای پایان جنگ هستند و احتمال تصمیم نهایی درباره پیش‌نویس تهیه‌شده توسط پاکستان تا ۴۸ ساعت آینده مطرح شده؛ هم‌زمان آمریکا «بررسی دور جدید حملات» را در جریان ارزیابی کرده است.",
-            "ایران از «کاهش اختلافات» در مذاکرات پس از دیدارهای تهران (از جمله گفت‌وگوهای رئیس ارتش پاکستان با مقامات ایرانی) خبر داده و وزیر خارجه آمریکا، مارکو روبیو، از «پیشرفت» و امکان اعلام «خبرهای بعدی» سخن گفته است.",
-            "عناصر میانجی‌گری مشخص شده‌اند: نقش پررنگ معاون رئیس‌جمهور آمریکا JD Vance و نمایندگان استیو ویتکاف و جرد کوشنر برای پل‌زدن شکاف‌ها و همچنین نقش قطر در پشتیبانی از تلاش‌های میانجی‌گرانه پاکستان؛ از سوی ایران، سخنگوی وزارت خارجه پیش‌نویس را «چارچوب توافق» توصیف کرده و زمان‌بندی ۳۰ تا ۶۰ روزه برای تشریح جزئیات را مطرح کرده است."
-        ],
-        "impact": "با وجود ادعای نزدیک‌شدن به چارچوب توقف جنگ، هم ایران و هم آمریکا بر «ریسک ازسرگیری حملات» تأکید دارند و این توافق احتمالی بیش از هر چیز نشان‌دهنده کنترل ریسک در فضای ضرب‌الاجلیِ درگیری است.",
-        "tag": "مذاکره",
-        "urgency": 7,
-        "sentiment": 0.1,
-        "source": "Sun Sentinel",
-        "url": "https://www.sun-sentinel.com/2026/05/23/iran-and-us-are-close-to-an-understanding-aimed-at-ending-the-war-officials-say/",
-        "clean_url": "https://www.sun-sentinel.com/2026/05/23/iran-and-us-are-close-to-an-understanding-aimed-at-ending-the-war-officials-say",
-        "image": "http://www.bing.com/th?id=ONUT.KHdhxU6Y04sD-pkneOBuPA&pid=News",
-        "timestamp": 1779525660.0
-    },
-    {
-        "title_fa": "اختلاف انفجاری: آمریکا اسرائیل را از گفت‌وگوهای صلح با ایران کنار گذاشت",
-        "title_en": "Explosive rift: US excludes Israel from Iran peace talks",
-        "summary": [
-            "طبق گزارش ynetnews، آمریکا اسرائیل را در چارچوب گفت‌وگوهای مربوط به «صلح با ایران» دخالت نداده است؛ یعنی هم‌پیمان مهم اسرائیل از روند مذاکره حذف شده است.",
-            "این اقدام عملاً نشان می‌دهد واشنگتن در طراحی مسیر دیپلماتیک با محدودیت‌ها و ملاحظات خود پیش می‌رود و هماهنگی کامل با تل‌آویو را تضمین نمی‌کند.",
-            "برای تهران، چنین شکافی در جبهه مذاکره‌کننده می‌تواند زمینه مانور سیاسی ایجاد کند؛ چون فشار هماهنگ برای تحقق شروط مشترک کاهش می‌یابد، هرچند متن گزارش جزئیات بیشتری ارائه نمی‌کند."
-        ],
-        "impact": "حذف اسرائیل از روند گفت‌وگوهای مورد اشاره، شکاف در صف سیاست آمریکا را برجسته می‌کند و احتمال چانه‌زنی و تغییر تاکتیک در سطح طرفین را افزایش می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xcVlrLXNLV0FBWmVKS1hZSDRsQk54VHA3VE0yNWZlZU5YajkxZHFiaDBWSlpoQnl1eGw3ZmtLNHBwczVVeGEzTi1rdWtTNTdqbGIzY2xB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xcVlrLXNLV0FBWmVKS1hZSDRsQk54VHA3VE0yNWZlZU5YajkxZHFiaDBWSlpoQnl1eGw3ZmtLNHBwczVVeGEzTi1rdWtTNTdqbGIzY2xB",
-        "image": null,
-        "timestamp": 1779523832.0
-    },
-    {
-        "title_fa": "کاهش امید به توافق؛ همزمان با فشار پاکستان برای گفت‌وگو و بررسی سناریوی حمله توسط آمریکا",
-        "title_en": "Live - Iran downplays deal hopes as Pakistan pushes talks and US weighs strikes",
-        "summary": [
-            "ایران امید به دست‌یابی به توافق را کم‌اهمیت جلوه می‌دهد، در حالی که پاکستان فعالانه مسیر مذاکره را دنبال می‌کند و فضای سیاسی منطقه را به سمت گفت‌وگو می‌برد.",
-            "در روایت خبر، همزمان آمریکا در حال بررسی گزینه‌های ضربه/اقدام نظامی است؛ یعنی هم فشار دیپلماتیک از یک سو و ریسک تشدید نظامی از سوی دیگر وجود دارد.",
-            "ترکیب «کم‌اهمیت کردن توافق» و «ارزیابی اقدام نظامی» به‌طور مستقیم می‌تواند نشانه عدم تمایل/ناتوانی رژیم برای مهار ریسک خارجی از مسیر سیاسی باشد و منطق بازدارندگی یا سناریونویسی امنیتی را تقویت کند."
-        ],
-        "impact": "این وضعیت می‌تواند رژیم را در چرخه مدیریت بحران قرار دهد: مذاکره با پاکستان به‌عنوان خروجی سیاسی عرضه می‌شود، اما همزمان تهدید اقدام آمریکا احتمال بی‌ثباتی و تصمیم‌های واکنشی را بالا می‌برد.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWDhPeUs3b0VFZldUc3UzNzVpX3ZPNHdQNkNkLWNNS2FhaHYwOVFhOG1UeU5VeEJyVDNFbTJBOWRpMWJHc0JDM3ZzVU03MjBvY1FoWVJFcFowR1A3MVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBIWDhPeUs3b0VFZldUc3UzNzVpX3ZPNHdQNkNkLWNNS2FhaHYwOVFhOG1UeU5VeEJyVDNFbTJBOWRpMWJHc0JDM3ZzVU03MjBvY1FoWVJFcFowR1A3MVE",
-        "image": null,
-        "timestamp": 1779521921.0
-    },
-    {
-        "title_fa": "برنامه‌ریزی ترامپ برای دور بعدی جنگ با ایران و جهش قیمت بنزین؛ شوک تازه به مصرف‌کننده پیش از تعطیلات",
-        "title_en": "As Trump Plans Next Round in Iran War, Fresh Gas Price Shocks Rattle Consumers",
-        "summary": [
-            "با بالا رفتن قیمت نفت به بالای ۱۰۰ دلار، میانگین قیمت ملی بنزین آمریکا به ۴.۵۳ دلار برای هر گالن نزدیک می‌شود و این حرکت هم‌زمان با تشدید تنش‌های نظامی ایران، فشار مستقیم جدیدی به مصرف‌کنندگان وارد می‌کند.",
-            "این متن جهش قیمت‌ها را نتیجه «استراتژی غیرقابل‌پیش‌بینی» ترامپ در جنگ با ایران و افزایش نوسان بازار می‌داند؛ تهدید اصلی هم متوجه تنگه هرمز است که روزانه حدود ۲۰٪ از عرضه جهانی نفت از آن عبور می‌کند.",
-            "هزینه سوخت افزایش‌یافته قرار است به زنجیره اقتصادی منتقل شود: شرکت‌ها (هواپیمایی، خرده‌فروشی و تولید) هزینه ورودی انرژی را جذب می‌کنند، اما در نهایت مصرف‌کننده نیز عملاً با یک «مالیات غیررسمی» روی بودجه خانوار روبه‌رو می‌شود؛ در شرایطی که تورم و هزینه وام‌گیری بالاست."
-        ],
-        "impact": "افزایش ریسک اختلال در تنگه هرمز به‌صورت مستقیم شوک انرژی ایجاد می‌کند و با تشدید هزینه‌های مصرف و تولید، فشار اقتصادی را در کوتاه‌مدت بالا می‌برد.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "24/7 Wall St.",
-        "url": "https://247wallst.com/investing/2026/05/23/as-trump-plans-next-round-in-iran-war-fresh-gas-price-shocks-rattle-consumers/",
-        "clean_url": "https://247wallst.com/investing/2026/05/23/as-trump-plans-next-round-in-iran-war-fresh-gas-price-shocks-rattle-consumers",
-        "image": "http://www.bing.com/th?id=ONUT.UYE23QEDKtEhDLNVuzNu3w&pid=News",
-        "timestamp": 1779519840.0
     }
 ]
