@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "مسئله بلوچستان، گلوگاه «جنگ علیه ایران»",
+        "title_en": "The war on Iran has a Balochistan problem",
+        "summary": [
+            "منبع به‌طور مشخص به این نکته اشاره می‌کند که جنگ علیه ایران با یک مسئله امنیتی-سیاسی در بلوچستان گره خورده است، یعنی تنش‌های بیرونی مستقیماً از یک گلوگاه داخلی تغذیه می‌شوند.",
+            "این چارچوب نشان می‌دهد که هر راهبرد فشار یا درگیری، بدون مدیریت بحران بلوچستان، با مقاومت، بی‌ثباتی و هزینه امنیتی بیشتر روبه‌رو می‌شود؛ بنابراین راهبردهای صرفاً بیرونی نمی‌توانند پایدار باشند.",
+            "در غیاب جزئیات داده‌شده در متن کوتاه ارائه‌شده، نمی‌شود ادعا کرد زمان‌بندی یا شدت عملیات‌ها چطور به بلوچستان ربط دارد؛ اما خودِ «اتصال مسئله جنگ به بلوچستان» بیانگر گسترش بعد داخلی منازعه است."
+        ],
+        "impact": "پیوند دادن جنگ به بلوچستان یعنی هر تشدید بیرونی احتمالاً با فرسایش بیشتر کنترل داخلی و افزایش هزینه‌های امنیتی همراه می‌شود.",
+        "tag": "بلوچستان",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "East Asia Forum",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeGd1NVgyc2dXQXpSdFhkSmRaYm1pTnRXbWk5RS1NU3hETjMyVU1QZk56cEU5TDVqLVNMcXFyb3NxTUNTY0hGdmhtbFVtWVB3WlcyOVN5aVI4eHpBcTd1OE5QZnN2MkJHM1hLcTlJVllCbzJYWWlQcFRrbXI0eFItak43Z0tPZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNeGd1NVgyc2dXQXpSdFhkSmRaYm1pTnRXbWk5RS1NU3hETjMyVU1QZk56cEU5TDVqLVNMcXFyb3NxTUNTY0hGdmhtbFVtWVB3WlcyOVN5aVI4eHpBcTd1OE5QZnN2MkJHM1hLcTlJVllCbzJYWWlQcFRrbXI0eFItak43Z0tPZw",
+        "image": null,
+        "timestamp": 1780142400.0
+    },
+    {
+        "title_fa": "ادامه بلاتکلیفی بر سر توافق با ایران پس از اعلام ترامپ برای تصمیم نهایی",
+        "title_en": "Wait for Iran deal continues after Trump says he’ll make ‘final determination’",
+        "summary": [
+            "طبق NBC News، روند «انتظار» برای توافق با ایران ادامه دارد، چون ترامپ گفته است درباره آینده این پرونده «تصمیم نهایی» می‌گیرد؛ این یعنی هنوز نقشه عملی برای اقدام مشخص ارائه نشده است.",
+            "تداوم بلاتکلیفی سیاسی-دیپلماتیک، ریسک بی‌ثباتی اقتصادی را بالا می‌برد: فعالان اقتصادی عموماً تا روشن شدن چارچوب تصمیم آمریکا، وارد قراردادهای بلندمدت نمی‌شوند و این فضا معمولاً هزینه تأمین مالی را افزایش می‌دهد.",
+            "این وضعیت عملاً به نفع مدیریت بحران توسط دولت ایران است (نه به معنای حل مسئله): تا وقتی تصمیم نهایی اعلام نشود، اهرم فشار خارجی هم به صورت کامل فعال نمی‌شود و رژیم فرصت بیشتری برای چرخاندن اقتصاد مبتنی بر محدودیت‌ها و کنترل داخلی پیدا می‌کند."
+        ],
+        "impact": "بلاتکلیفی تا اعلام «تعیین نهایی» احتمال کند شدن تصمیم‌گیری‌های اقتصادی و تشدید فشارهای مالی را افزایش می‌دهد، بدون اینکه نشانه‌ای از اقدام فوری و قطعی دیده شود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/wait-iran-deal-continues-trump-final-determination-rcna347659",
+        "clean_url": "https://www.nbcnews.com/world/iran/wait-iran-deal-continues-trump-final-determination-rcna347659",
+        "image": null,
+        "timestamp": 1780140128.0
+    },
+    {
+        "title_fa": "فشار ترامپ روی ایران، در تغییر شروط معامله صلح اثر ناچیز داشت",
+        "title_en": "Trump’s Pressure Had Little Effect on Iran’s Terms for a Peace Deal",
+        "summary": [
+            "بر اساس گزارش نیویورک‌تایمز، فشارهای ترامپ نتوانسته شروط ایران برای یک توافق/معامله صلح را به شکل جدی جابه‌جا کند؛ یعنی تهران در مواضع خود عقب‌نشینی نکرده است.",
+            "این نتیجه به‌طور ضمنی نشان می‌دهد اهرم فشار آمریکا در کوتاه‌مدت برای تحمیل تغییرات واقعی در خواسته‌های مذاکره‌کننده ایرانی کارایی نداشته و اختلاف بر سر «شرط‌ها» همچنان پابرجاست.",
+            "نبود اثرگذاری مستقیم فشار خارجی روی محتوای شروط، به معنی تداوم بن‌بست یا مذاکره فرسایشی است؛ چون اگر طرفین نتوانند روی نقاط اصلی اختلاف به هم نزدیک شوند، زمان به ضرر فرآیند توافق پیش می‌رود."
+        ],
+        "impact": "این گزارش احتمال ادامه سختی مذاکرات و تداوم فاصله واقعی میان مواضع طرفین را تقویت می‌کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdG16d2d4QVlKODNhMmVYbGRSSy04YVVpWU4zUlBYMTlxQnZpbFIzT2pLMFVEVEMwWFJKTXBmbzVoVkNNQW8zdzAxclB0dDdjMlZ2dm41NVFudFNObmg2X01sNTlLNm8xcEZfRFlzbnFSMlVjb3R3Q0xYbjJpM2NORzVsM19WSkdu?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdG16d2d4QVlKODNhMmVYbGRSSy04YVVpWU4zUlBYMTlxQnZpbFIzT2pLMFVEVEMwWFJKTXBmbzVoVkNNQW8zdzAxclB0dDdjMlZ2dm41NVFudFNObmg2X01sNTlLNm8xcEZfRFlzbnFSMlVjb3R3Q0xYbjJpM2NORzVsM19WSkdu",
+        "image": null,
+        "timestamp": 1780135998.0
+    },
+    {
         "title_fa": "نزدیک‌شدن «توافق صلح ایران» نشان می‌دهد اهداف حداکثری ترامپ کوچک‌تر شده است",
         "title_en": "Looming Iran peace deal shows how Trump’s maximalist goals have shrunk",
         "summary": [
@@ -178,6 +232,24 @@
         "clean_url": "https://www.newsweek.com/why-iran-isnt-backing-down-on-lebanon-12005095",
         "image": null,
         "timestamp": 1780102800.0
+    },
+    {
+        "title_fa": "چرا آمریکا با وجود گفت‌وگوهای صلح، به حمله به جنوب ایران تن داد؛ پیام کنترل عملیاتی تهران بر تنگه هرمز",
+        "title_en": "Why US Risked Peace Talks in Striking Southern Iran This Week",
+        "summary": [
+            "طبق گزارش، تنگه هرمز برای سه ماه گذشته عملاً تحت کنترل ایران بوده و این واقعیت «اثر بازدارندگی» تهدیدهای آمریکا را خنثی کرده است؛ در نتیجه، آمریکا برای تغییر معادله وارد فاز اقدام نظامی شده است.",
+            "هم‌زمانی «تهدیدهای آمریکا» و «گفت‌وگوهای صلح» با «حمله به جنوب ایران» نشان می‌دهد واشینگتن برای جلوگیری از تثبیت کنترل تهران، مجبور به نمایش قدرت عملیاتی در کنار مذاکره شده است.",
+            "این وضعیت یک شکاف مستقیم در روایت سیاست خارجی می‌سازد: تا وقتی کنترل میدانی ایران در تنگه هرمز ادامه دارد، هر روند مذاکره بدون تغییر در واقعیت عملیاتی روی زمین، برای طرف مقابل هزینه و ریسک سیاسی ایجاد می‌کند."
+        ],
+        "impact": "ادامه کنترل عملیاتی ایران بر هرمز طی سه ماه و هم‌زمانی آن با حمله آمریکا، احتمال تشدید تنش دریایی و بی‌ثباتی محاسبات مذاکره را بالا می‌برد.",
+        "tag": "امنیت‌منطقه‌ای",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/why-us-risked-peace-talks-in-striking-southern-iran-this-week-12003359",
+        "clean_url": "https://www.newsweek.com/why-us-risked-peace-talks-in-striking-southern-iran-this-week-12003359",
+        "image": null,
+        "timestamp": 1780100280.0
     },
     {
         "title_fa": "وقتی دولت‌ها زبان دیپلماسی را از دست می‌دهند، مسیر به جنگ بسته نمی‌ماند",
@@ -430,6 +502,24 @@
         "clean_url": "https://apnews.com/live/trump-administration-updates-05-29-2026",
         "image": null,
         "timestamp": 1780069884.0
+    },
+    {
+        "title_fa": "گزارش: احتمال استفاده ایران از موشک دوش‌پرتاب چینی برای سرنگونی جنگنده آمریکایی",
+        "title_en": "Iran may have used Chinese missile to shoot down US fighter jet, sources say",
+        "summary": [
+            "طبق گزارش NBC News (MSN)، جنگنده F-15 که ماه گذشته در جنوب‌غرب ایران هدف قرار گرفت و عملیات نجات پرریسک را فعال کرد، «احتمالاً» با یک موشک دوش‌پرتابِ ساخت چین اصابت شده است.",
+            "این برداشت بر پایه گفته‌های منابع مطرح شده و می‌تواند نشانه‌ای از اتکا یا دسترسی ایران به سامانه‌های موشکیِ خارج از مسیرهای شناخته‌شده باشد، بدون اینکه در متن جزئیات فنی یا محل/مکان دقیق تأیید شود.",
+            "چنین حادثه‌ای، حتی اگر جزئیات نهایی قطعیت نداشته باشد، ریسک رویارویی مستقیم آمریکا و ایران را بالا می‌برد و زمان‌بندی و نوع شواهدِ «منابع» را در کانون توجه قرار می‌دهد."
+        ],
+        "impact": "اگر ارزیابی منابع درباره منشأ موشک درست باشد، هم پیام بازدارندگی ایران تقویت می‌شود و هم احتمال تشدید پاسخ آمریکا در چارچوب دفاع هوایی و عملیات امداد/انتقام افزایش می‌یابد.",
+        "tag": "ایران-آمریکا",
+        "urgency": 9,
+        "sentiment": -0.2,
+        "source": "NBC News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-may-have-used-chinese-missile-to-shoot-down-us-fighter-jet-sources-say/ar-AA24odo5",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-may-have-used-chinese-missile-to-shoot-down-us-fighter-jet-sources-say/ar-AA24odo5",
+        "image": "http://www.bing.com/th?id=ONUT.wjhphFEuyI86yS9OYv71qQ&pid=News",
+        "timestamp": 1780067141.0
     },
     {
         "title_fa": "دیدار کلیدی ترامپ در اتاق وضعیت کاخ سفید برای تعیین گام بعدی درباره توافق با ایران",
@@ -5309,95 +5399,5 @@
         "clean_url": "https://www.nytimes.com/2026/05/23/world/middleeast/iran-peace-deal-trump-proposal.html",
         "image": null,
         "timestamp": 1779559140.0
-    },
-    {
-        "title_fa": "تعیین مسیر بعدی ترامپ درباره ایران؛ ابهام سیاست خارجی و ریسک تشدید فشار",
-        "title_en": "What will Trump do next with Iran?",
-        "summary": [
-            "متن ارائه‌شده فقط به طرح کلی سؤال NPR درباره اقدام بعدی ترامپ نسبت به ایران اشاره می‌کند و جزئیات سیاست، تصمیم یا رویداد مشخصی گزارش نمی‌دهد.",
-            "از آنجا که هیچ داده‌ای درباره تحریم جدید، حمله یا توافق ارائه نشده، نمی‌توان اثرات فوری بر اقتصاد یا ثبات داخلی رژیم را به‌صورت مستند ارزیابی کرد.",
-            "بنابراین این گزارش در سطح «انتظار/حدس سیاسی» باقی می‌ماند و تنها می‌شود گفت احتمال تداوم فشار یا تغییر رویکرد مطرح است، بدون اینکه شواهدی از اقدام مشخص در اختیار باشد."
-        ],
-        "impact": "در حال حاضر به دلیل نبود جزئیات خبری، تأثیر فوری قابل سنجش بر تحولات ایران گزارش نشده و فقط یک پرسش سیاسی درباره احتمال تغییرات بعدی مطرح شده است.",
-        "tag": "تحلیل",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision",
-        "clean_url": "https://www.npr.org/2026/05/23/nx-s1-5832542/trump-iran-decision",
-        "image": null,
-        "timestamp": 1779558568.0
-    },
-    {
-        "title_fa": "اظهارات ترامپ: ایران به توافق با آمریکا «نزدیک‌تر شده»؛ شکاف داخلی و اهرم‌های فشار پنهان می‌ماند",
-        "title_en": "Iran 'getting a lot closer' to agreement with US, Trump says",
-        "summary": [
-            "بی‌بی‌سی فقط گزارش می‌کند که ترامپ گفته ایران «خیلی نزدیک‌تر» به رسیدن به توافق با آمریکا شده است؛ متن خبر جزئیات توافق، زمان‌بندی یا مفاد مشخص را ارائه نمی‌دهد.",
-            "در چارچوب فشار خارجی، چنین اظهاراتی می‌تواند نشان دهد رژیم با امید به کاهش هزینه‌های بین‌المللی یا تعدیل فشارها در مذاکرات حرکت می‌کند، اما نبودِ جزئیات یعنی اثر فوری بر ثبات ساختاری به‌طور قابل‌اثبات مشخص نیست.",
-            "از زاویه اقتصاد و نارضایتی داخلی، صرف نزدیک‌شدنِ ادعایی به توافق بدون اعلام سازوکارهای اجرایی، معمولاً وعده‌ای است که دیر به سفره مردم می‌رسد؛ بنابراین احتمالاً فشارهای معیشتی و نارضایتی همچنان پابرجا می‌ماند."
-        ],
-        "impact": "این خبر در سطح سیاسی سیگنال نزدیکی به مذاکره می‌دهد، اما چون مفاد و آثار اجرایی روشن نیست، بیشتر به عنوان عملیات روانی/چانه‌زنی قابل ارزیابی است تا تضمین کاهش واقعی فشارها.",
-        "tag": "توافق",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/other/iran-getting-a-lot-closer-to-agreement-with-us-trump-says/ar-AA23U0nz",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-getting-a-lot-closer-to-agreement-with-us-trump-says/ar-AA23U0nz",
-        "image": null,
-        "timestamp": 1779557326.0
-    },
-    {
-        "title_fa": "ترامپ از نزدیک شدن به «نهایی شدن» توافق برای پایان جنگ با ایران خبر داد",
-        "title_en": "Trump announces near ‘finalization’ of deal to end Iran war",
-        "summary": [
-            "ترامپ اعلام کرده که روند توافق برای پایان جنگ با ایران وارد مرحله نزدیک به نهایی شدن شده است؛ اما متن گزارش جزئیات فنی، زمان‌بندی اجرا یا تضمین‌های قابل راستی‌آزمایی ارائه نمی‌کند.",
-            "این اعلامیه بعد از تماس‌های جداگانه رئیس‌جمهور با میانجی‌های خاورمیانه و همچنین تماس با بنیامین نتانیاهو، نخست‌وزیر اسرائیل مطرح شده و نشان می‌دهد مسیر این توافق عمدتاً از کانال‌های میانجی‌گری و هماهنگی منطقه‌ای پیش می‌رود.",
-            "چون گزارش فقط «نزدیک به نهایی شدن» را ذکر می‌کند و سند یا چارچوب اجرایی مشخص ندارد، اثر فوری آن بیشتر سیاسی-دیپلماتیک است تا قابل سنجش از نظر اثرگذاری مستقیم بر اقتصاد و ساختارهای فشار."
-        ],
-        "impact": "این خبر می‌تواند فضای مذاکره و اطمینان‌سازی سیاسی را افزایش دهد، اما بدون جزئیات اجرایی هنوز نمی‌توان درباره کاهش فشارهای بیرونی یا تغییر واقعی در رفتار رژیم نتیجه قطعی گرفت.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-announces-near-finalization-of-deal-to-end-iran-war/ar-AA23UdZR",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-announces-near-finalization-of-deal-to-end-iran-war/ar-AA23UdZR",
-        "image": "http://www.bing.com/th?id=ONUT.ZLIrLnIBfqTW0kLtsWrmcw&pid=News",
-        "timestamp": 1779552660.0
-    },
-    {
-        "title_fa": "نزدیک‌شدن آمریکا و ایران به تمدید ۶۰ روزه آتش‌بس با چارچوب هسته‌ای",
-        "title_en": "U.S. and Iran are closing in on a 60-day ceasefire extension with nuclear framework, FT reports",
-        "summary": [
-            "طبق گزارش FT (با انعکاس CNBC)، آمریکا و ایران در مسیر توافق برای تمدید ۶۰ روزه آتش‌بس قرار گرفته‌اند، اما این خبر هنوز به جزئیات «چارچوب هسته‌ای» اشاره مشخص و قابل راستی‌آزمایی نمی‌دهد.",
-            "از منظر فشار خارجی، چنین روندی می‌تواند برای رژیم یک فرصت محدود جهت تنفس سیاسی-اقتصادی ایجاد کند، چون عدم‌قطعیت ناشی از تشدید تنش را کاهش می‌دهد؛ در عین حال، این یک توافق بلندمدت و رفع ساختاری محدودیت‌ها هم تلقی نمی‌شود.",
-            "در سطح داخلی، تمدیدهای کوتاه‌مدت معمولاً بیانگر «مدیریت زمان» است نه حل مشکل حکمرانی؛ یعنی اگر نرخ نارضایتی یا فشار اقتصادی پیش‌تر از بین نرفته باشد، مردم و اقتصاد صرفاً وارد فاز انتظار نسبت به دور بعدی مذاکرات می‌شوند."
-        ],
-        "impact": "این خبر بیشتر یک گام تاکتیکی برای کاهش اصطکاک و خرید زمان است تا تغییر بنیادی در وضعیت هسته‌ای و داخلی.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GekFKeFgteThEeDR5RXM5d1lBaE9aYm9wdnk2LXY5RUFOTXl6LS1tWHdDLWNhNEc5bW5lUmM3X1VHOTItbldiallXdm5UWTJFQ0ZGVXRvcC1qWUZZWkF4cDFfekTSAWpBVV95cUxNR2JTUFdkSGpMenRzU2pxNm5iT0UyWTJyOFJQQ3E5bGwxUGxzZVNBY2NpQWw5OFRfdlJ6dDltN053empCTjFIWVJDQjhDSHJ2b1ZTdFdRTlZTdFQwS0w2a1FtZDVzWWFrN3V3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9GekFKeFgteThEeDR5RXM5d1lBaE9aYm9wdnk2LXY5RUFOTXl6LS1tWHdDLWNhNEc5bW5lUmM3X1VHOTItbldiallXdm5UWTJFQ0ZGVXRvcC1qWUZZWkF4cDFfekTSAWpBVV95cUxNR2JTUFdkSGpMenRzU2pxNm5iT0UyWTJyOFJQQ3E5bGwxUGxzZVNBY2NpQWw5OFRfdlJ6dDltN053empCTjFIWVJDQjhDSHJ2b1ZTdFdRTlZTdFQwS0w2a1FtZDVzWWFrN3V3",
-        "image": null,
-        "timestamp": 1779552501.0
-    },
-    {
-        "title_fa": "اشاره آمریکا و ایران به پیشرفت در «یادداشت تفاهم»؛ میانجی‌گران از تهران خارج شدند",
-        "title_en": "US and Iran hint at progress toward a deal as mediators leave Tehran",
-        "summary": [
-            "طبق گزارش CNN، آمریکا و ایران در آستانه توافق بر سر «یادداشت تفاهم» برای پایان جنگ قرار گرفته‌اند؛ با این حال، هر دو طرف مواضع کلیدی خود را حفظ کرده و از تداوم ریسک حملات هشدار داده‌اند.",
-            "رویکرد تهران به پیش‌نویس پاکستان «چارچوب توافق» توصیف می‌شود: قرار است طی ۳۰ تا ۶۰ روز وارد جزئیات شوند و در نهایت توافق نهایی شکل بگیرد؛ همچنین مسئله تنگه هرمز در دستور کار ذکر شده است.",
-            "میانجی‌گری از کانال پاکستان فعال بوده: رئیس ستاد ارتش پاکستان در تهران گفت‌وگوهای بیشتر انجام داده و گزارش از نقش پررنگ معاون رئیس‌جمهور JD Vance و نیز فرستادگان Steve Witkoff و Jared Kushner خبر می‌دهد؛ در کنار آن، نقش قطر برای پشتیبانی از تلاش‌های میانجی‌گرانه تأیید شده است."
-        ],
-        "impact": "این روند اگر به توافق اجرایی کوتاه‌مدت منتهی شود، می‌تواند فشار امنیتی و هزینه‌های عملیاتی برای رژیم را کاهش دهد، اما چارچوب بودن آن یعنی همچنان احتمال برگشت تنش باقیمانده است.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "CNN",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-us-signal-progress-talks-144038391.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-us-signal-progress-talks-144038391.html",
-        "image": null,
-        "timestamp": 1779550801.0
     }
 ]
