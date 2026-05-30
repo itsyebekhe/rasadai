@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "وقتی دولت‌ها زبان دیپلماسی را از دست می‌دهند، مسیر به جنگ بسته نمی‌ماند",
+        "title_en": "Iran, Israel, and the US: When governments lose the language of diplomacy, war follows",
+        "summary": [
+            "متنِ منبع (Jurist.org) به‌صورت تحلیلی هشدار می‌دهد که فروپاشی ارتباطات دیپلماتیک میان ایران، اسرائیل و آمریکا می‌تواند ریسک تشدید نظامی را افزایش دهد؛ تمرکز آن روی منطق «وقتی گفت‌وگو از کار می‌افتد، جنگ محتمل می‌شود» است.",
+            "در همین چارچوب، مقاله استدلال می‌کند که به‌هم‌ریختگی کانال‌های سیاسی—چه از جنس پیام‌رسانی، چه از جنس کنترل بحران—می‌تواند تصمیم‌گیری را به سمت سناریوهای پرهزینه و خطرناک هل دهد.",
+            "با این حال، در داده‌ای که شما ارائه کرده‌اید، جزئیات مشخصی از اقدام/توافق/تحریم جدید یا رخداد نظامی قابل راستی‌آزمایی ذکر نشده است؛ بنابراین جمع‌بندی باید صرفاً روی خطر ساختاری ناشی از «اختلال در دیپلماسی» بماند، نه ادعاهای فراتر."
+        ],
+        "impact": "نبود زبان و سازوکار دیپلماتیک میان طرف‌های درگیر، به‌صورت مستقیم ریسک محاسبه‌نادرست و حرکت به سمت تقابل را بالا می‌برد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Jurist.org",
+        "url": "https://www.moneycontrol.com/world/us-iran-war-ceasefire-news-donald-trump-iran-nuclear-plan-strait-of-hormuz-ceasefire-plan-mojtaba-khamenei-liveblog-13935002.html",
+        "clean_url": "https://www.moneycontrol.com/world/us-iran-war-ceasefire-news-donald-trump-iran-nuclear-plan-strait-of-hormuz-ceasefire-plan-mojtaba-khamenei-liveblog-13935002.html",
+        "image": null,
+        "timestamp": 1780097469.0
+    },
+    {
         "title_fa": "تردید ترامپ درباره توافق با ایران؛ اهرم فشار خارجی همچنان تعیین‌کننده ماند",
         "title_en": "Trump ponders whether to move forward with Iran deal but hasn’t yet decided",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal",
         "image": null,
         "timestamp": 1780094220.0
+    },
+    {
+        "title_fa": "روز ۹۱ جنگ؛ نزدیکی واشینگتن و تهران به «توافق ۶۰ روزه»",
+        "title_en": "What’s happening on Iran war day 91 as US, Iran near 60-day deal",
+        "summary": [
+            "این گزارش روی روز ۹۱ تنش/جنگ متمرکز است و می‌گوید آمریکا و ایران به چارچوب یک توافق ۶۰ روزه نزدیک شده‌اند؛ یعنی محور تحولات، معامله سیاسی-امنیتی برای تغییر شدت فشارها در بازه کوتاه است.",
+            "چنین «توافق بازدارنده/مرحله‌ای» معمولاً به‌جای حل ریشه‌ای منازعه، با هدف مدیریت هزینه‌های دو طرف طراحی می‌شود؛ نتیجه عملی آن می‌تواند تغییر ریتم تهدیدها و تحرکات منطقه‌ای باشد، نه توقف قطعی.",
+            "در صورت قطعی شدن، پیام داخلی برای تهران این است که رژیم همچنان به مدیریت بحران از مسیر امتیازدهی محدود و زمان‌خریدن تکیه می‌کند؛ نشانه‌ای از تداوم شکنندگی و وابستگی به کاهش فشارهای خارجی در کوتاه‌مدت است."
+        ],
+        "impact": "توافق نزدیک به ۶۰ روزه بیشتر «کنترل شدت بحران» است تا «تغییر معادله»، و می‌تواند به رژیم زمان بدهد اما پایداری بلندمدت آن را تضمین نمی‌کند.",
+        "tag": "توافق",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal/ar-AA24kYZm",
+        "clean_url": "https://www.msn.com/en-us/news/world/whats-happening-on-iran-war-day-91-as-us-iran-near-60-day-deal/ar-AA24kYZm",
+        "image": null,
+        "timestamp": 1780087683.0
     },
     {
         "title_fa": "اعلام برنامه آمریکا برای رفع محاصره دریایی بنادر ایران از زبان ترامپ",
@@ -198,6 +234,24 @@
         "timestamp": 1780060560.0
     },
     {
+        "title_fa": "ترامپ اعلام کرد ناو‌رانی آمریکا برای بنادر ایران را برمی‌دارد؛ راه برای گشودن تنگه هرمز و فضای مذاکره ادعا می‌شود",
+        "title_en": "Trump Declares He Is Lifting The Naval Blockade On Iran (Updated)",
+        "summary": [
+            "ترامپ اعلام کرد «محاصره/بلاکاد» آمریکا علیه بنادر ایران که ماه پیش اعمال شده بود را برمی‌دارد و می‌گوید کشتی‌های گیر افتاده در تنگه هرمز می‌توانند «به مسیر بازگشت» بروند؛ در عین حال گزارش‌ها حاکی از نزدیک شدن واشنگتن و تهران به یک توافق بالقوه است، اما مقام‌های ایرانی این برداشت را رد کرده‌اند.",
+            "متن پیام ترامپ روی شروط مشخص متمرکز است: ایران باید تضمین بدهد به سلاح هسته‌ای دست پیدا نمی‌کند، تنگه هرمز «فوری» و بدون عوارض برای کشتیرانی آزاد در دو جهت باز شود، و هرگونه مین‌های دریایی (در صورت وجود) خنثی/برداشته شود؛ همچنین اشاره شده که بخشی از مین‌ها با عملیات انفجاری/خنثی‌سازی آمریکا از پیش «حذف» شده و ایران هم باید باقی‌مانده‌ها را پاکسازی کند.",
+            "برای پشتیبانی از بخش خنثی‌سازی مین، به استقرار سامانه‌های پهپادی زیردریایی و خودروهای بدون سرنشین در منطقه اشاره شده: فرمانده سنتکام در زمان قبل از این خبر از اعزام UUVهای زیردریایی برای عملیات مقابله با مین خبر داده و فرمانده نیروی دریایی/سازمان‌های مرتبط نیز بر ورود نیروهای بیشتر از جمله پهپادهای زیرآبی به عملیات پاکسازی تأکید کرده‌اند."
+        ],
+        "impact": "برداشتن بلاکاد می‌تواند فشار اقتصادیِ مستقیم آمریکا بر صادرات و تجارت ایران را کاهش دهد، اما هم‌زمان اجرای شرط‌های مرتبط با بازگشایی هرمز و پاکسازی مین‌ها نشان می‌دهد کنترل کریدور دریایی همچنان اهرم اصلی در این سناریو باقی می‌ماند.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-declares-lifting-naval-blockade-181805175.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-declares-lifting-naval-blockade-181805175.html",
+        "image": null,
+        "timestamp": 1780059420.0
+    },
+    {
         "title_fa": "ورود ترامپ به اتاق عملیات برای «تصمیم نهایی» درباره ایران",
         "title_en": "Trump enters Situation Room to make 'final determination' on Iran",
         "summary": [
@@ -234,6 +288,24 @@
         "timestamp": 1780054260.0
     },
     {
+        "title_fa": "ابهام و نوسان ترامپ درباره تسلیم ذخایر اورانیوم غنی‌شده ایران؛ نشانه آشفتگی هدف‌گذاری در پایان جنگ",
+        "title_en": "Trump’s inconsistent rhetoric about getting Iran’s nuclear stockpile",
+        "summary": [
+            "طبق گزارش CNN، ترامپ موضعش را درباره الزام ایران به تحویل ذخایر اورانیوم غنی‌شده چند بار تغییر داده: وزیر خزانه‌داری اسکات بسنت این موضوع را «خط قرمز» خوانده، اما ترامپ در شبکه‌های اجتماعی از «استخراج» و «تخریب» با هماهنگی واشنگتن و تهران و آژانس بین‌المللی انرژی اتمی سخن گفته که الزام تحویل کامل را تضمین نمی‌کند.",
+            "مارکو روبیو نیز بر «تحویل» اورانیوم غنی‌شده تاکید کرده و آن را «نکات رئیس‌جمهور» دانسته، اما متن خبر صراحت دارد که خود ترامپ در روند مذاکراتِ متمرکز بر پایان جنگ، راهکارهایی مطرح کرده که از تحویل همه ذخایر کوتاه می‌آید؛ نتیجه عملی این تناقض، کاهش قابلیت پیش‌بینی برای طرف مقابل است.",
+            "CNN این نوسان را بازتاب «آشفتگی گسترده‌تر» درباره اهداف دولت در جنگ با ایران می‌داند؛ یعنی حتی اگر جزئیات به توافق نهایی گره بخورد، اختلاف در تعریف «چه چیزی باید دقیقاً تحویل شود/شود یا صرفاً جمع‌آوری و تخریب گردد» می‌تواند روند خروج از جنگ و محدودسازی تهدید اتمی را کند یا مبهم کند."
+        ],
+        "impact": "این ناهمخوانی در مطالبات، احتمال کش‌آمدن مذاکره و باقی‌ماندن راه‌های ابهام در سرنوشت ذخایر هسته‌ای را بالا می‌برد.",
+        "tag": "ایران-هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/05/29/politics/trump-nuclear-iran",
+        "clean_url": "https://www.cnn.com/2026/05/29/politics/trump-nuclear-iran",
+        "image": null,
+        "timestamp": 1780051860.0
+    },
+    {
         "title_fa": "پیشنهاد ۶۰ روزه آمریکا-ایران: آنچه از گزارش الجزیره برمی‌آید",
         "title_en": "US-Iran 60-day proposal: What we know",
         "summary": [
@@ -250,6 +322,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/us-iran-60-day-proposal-102316250.html",
         "image": null,
         "timestamp": 1780050320.0
+    },
+    {
+        "title_fa": "قدرت چانه‌زنی هسته‌ای ایران در مذاکرات: اورانیوم بسیار غنی‌شده",
+        "title_en": "Explainer: Iran's strongest card in nuclear talks: its highly enriched uranium",
+        "summary": [
+            "طبق رویترز، ایران و آمریکا درباره تمدید آتش‌بس برای آغاز گفت‌وگوها درباره برنامه هسته‌ای ایران صحبت می‌کنند و آمریکا در این روند بر این شرط پای می‌فشارد که تهران نباید به توان تولید سلاح‌گونه دسترسی پیدا کند.",
+            "در چارچوب توضیح رویترز، «اورانیوم بسیار غنی‌شده» به‌عنوان جدی‌ترین کارت ایران در مذاکرات معرفی می‌شود؛ یعنی ماده‌ای که مستقیماً قدرت چانه‌زنی فنی و زمان‌بندی امتیازدهی/بازستانی را تعیین می‌کند.",
+            "این سناریو نشان می‌دهد هر مذاکره‌ای حول سطح و سرنوشت ذخایر غنی‌سازی می‌چرخد: توافق یا عدم توافق، هم روی مسیر لغو/حفظ محدودیت‌ها و هم روی امکان ادامه فعالیت‌های هسته‌ای اثر مستقیم دارد."
+        ],
+        "impact": "اگر مذاکرات به مهار واقعی ظرفیت غنی‌سازی منتهی نشود، کارت اورانیوم بسیار غنی‌شده عملاً اهرم فشار تهران باقی می‌ماند و ریسک بن‌بست و تشدید تنش‌های بعدی بالا می‌رود.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/irans-strongest-card-nuclear-talks-its-highly-enriched-uranium-2026-05-29/",
+        "clean_url": "https://www.reuters.com/world/irans-strongest-card-nuclear-talks-its-highly-enriched-uranium-2026-05-29",
+        "image": null,
+        "timestamp": 1780049040.0
     },
     {
         "title_fa": "توافق هسته‌ای در آستانه پیش‌نویس؛ مخالفت/عدم‌تأیید رهبران هنوز مانع نهایی‌شدن است",
@@ -5309,95 +5399,5 @@
         "clean_url": "https://247wallst.com/investing/2026/05/23/as-trump-plans-next-round-in-iran-war-fresh-gas-price-shocks-rattle-consumers",
         "image": "http://www.bing.com/th?id=ONUT.UYE23QEDKtEhDLNVuzNu3w&pid=News",
         "timestamp": 1779519840.0
-    },
-    {
-        "title_fa": "ترمپ با مقام‌های ارشد امنیت ملی درباره «گام‌های بعدی» در جنگ با ایران جلسه می‌گذارد",
-        "title_en": "Trump meets with national security officials as he weighs next steps on Iran",
-        "summary": [
-            "طبق گزارش CNN (از طریق MSN)، دونالد ترامپ روز جمعه با چند تن از مقام‌های ارشد امنیت ملی آمریکا دیدار کرد تا «مسیر بعدی» درباره جنگ با ایران را بررسی کند.",
-            "یک فرد مطلع اعلام کرده این جلسه درباره تصمیم‌گیری آینده در خصوص گزینه‌های برخورد با ایران بوده، اما متن گزارش جزئیات اقدام مشخص یا زمان‌بندی ارائه نمی‌دهد.",
-            "این اقدام در چارچوب فشار و تصمیم‌سازی واشنگتن قرار می‌گیرد و نشان می‌دهد دولت در حال ارزیابی گزینه‌های میدانی/امنیتی است، نه یک مسیر صرفاً دیپلماتیک."
-        ],
-        "impact": "این نشست نشانه‌ای از نزدیک شدن تصمیم‌گیری عملی آمریکا درباره مسیر جنگ/فشار علیه ایران است، بدون اینکه در گزارش جزئیات اقدام قابل راستی‌آزمایی ذکر شده باشد.",
-        "tag": "آمریکا",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-meets-with-national-security-officials-as-he-weighs-next-steps-on-iran/ar-AA23R1K4",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-meets-with-national-security-officials-as-he-weighs-next-steps-on-iran/ar-AA23R1K4",
-        "image": "http://www.bing.com/th?id=ONUT.BVo0kt9eMkr2jZ1q2kMT3A&pid=News",
-        "timestamp": 1779519801.0
-    },
-    {
-        "title_fa": "روز جنگ ۸۵: تهران می‌گوید شکاف‌های بزرگ در گفت‌وگوهای با آمریکا باقی است",
-        "title_en": "Iran war day 85: Tehran says major gaps remain in US talks",
-        "summary": [
-            "تهران اعلام کرده که در مذاکرات با آمریکا «شکاف‌های بزرگ» همچنان پابرجاست و امکان جمع‌بندی سریع وجود ندارد.",
-            "این موضع نشان می‌دهد اختلافات واقعی در محورهای مذاکره حل نشده و طرف ایرانی شکست را به بن‌بست نزدیک نمی‌کند، اما روند توافق را هم عملیاتی نمی‌داند.",
-            "با توجه به ادامه جنگ و ورود به روز ۸۵، بی‌ثباتی در مسیر مذاکرات می‌تواند به تشدید ریسک‌های محاسباتی و بن‌بست سیاسی-اقتصادی دامن بزند."
-        ],
-        "impact": "ادامه «شکاف‌های بزرگ» در مذاکرات یعنی کاهش احتمال توافق فوری و تداوم فشار و عدم‌قطعیت بر اقتصاد و مدیریت بحران داخلی.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGdNUHRiREpESUxxY0Z0WDZocGxZR2xMN1lOekZOSjQ2Q2k1XzBTQzM2S2ZjOHpISkVkaXhOQkxCWnoyZXFEWWZhVUNRRHN3M1JqTGdaejZsTGQ4LThuV0tVaFZsd3ZyRkQ4VVlQb3hJOGwxanNHTHFQR1pJQ1I1c1BKWVdCS2ZWOHhVcDJjREg4N1hXUzNXb1pIRWlaTTTSAaQBQVVfeXFMTkh4VEFUd19SS1J1UnB5RGF6d3FfNEswTTFHaGNXeC1iWHJ3X3VQTk80UDdCNDBoeEx3NzJaYWkwOXhxT0tIRDIzdGhGUUJtVzN1Rk96X0Fod2lMelZObGJxNWd6RXdydHB5M2JpQml4VWc1M1phbmhDLXBKcDBXaGVVNmluSWFMRVBtX19xVjNHdURwR3h0Vzh2c2dHWDI3RjlMSEE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbGdNUHRiREpESUxxY0Z0WDZocGxZR2xMN1lOekZOSjQ2Q2k1XzBTQzM2S2ZjOHpISkVkaXhOQkxCWnoyZXFEWWZhVUNRRHN3M1JqTGdaejZsTGQ4LThuV0tVaFZsd3ZyRkQ4VVlQb3hJOGwxanNHTHFQR1pJQ1I1c1BKWVdCS2ZWOHhVcDJjREg4N1hXUzNXb1pIRWlaTTTSAaQBQVVfeXFMTkh4VEFUd19SS1J1UnB5RGF6d3FfNEswTTFHaGNXeC1iWHJ3X3VQTk80UDdCNDBoeEx3NzJaYWkwOXhxT0tIRDIzdGhGUUJtVzN1Rk96X0Fod2lMelZObGJxNWd6RXdydHB5M2JpQml4VWc1M1phbmhDLXBKcDBXaGVVNmluSWFMRVBtX19xVjNHdURwR3h0Vzh2c2dHWDI3RjlMSEE",
-        "image": null,
-        "timestamp": 1779519375.0
-    },
-    {
-        "title_fa": "ایران به ترامپ هشدار داد «شکست‌های بیشتر» در راه است؛ همزمان مذاکره و آماده‌باش نظامی تشدید شد",
-        "title_en": "Iran US War Live Updates: Iran Threatens ‘More Defeats’ For US As Trump Signals Readiness For Fresh Strikes",
-        "summary": [
-            "تهران به دونالد ترامپ هشدار داده در صورت نادیده‌گرفتن حقوق و منافع ایران، «شکست‌های بیشتر» برای آمریکا اعمال خواهد شد؛ با این حال مقامات ایرانی می‌گویند دیپلماسی هنوز ممکن است، اما هر توافق باید حاکمیت و مطالبات اصلی ایران را رعایت کند.",
-            "مذاکرات میان ایران و آمریکا از مسیر میانجی‌گری ادامه دارد، اما وزارت خارجه ایران اختلافات را «عمیق و جدی» توصیف کرده و این یعنی دست‌یابی به توافق هنوز نزدیک نیست؛ هم‌زمان گزارش‌ها از نشست سطح‌بالای شورای امنیت ملی آمریکا و بررسی «گزینه‌های نظامی» در صورت ناکامی دیپلماسی خبر می‌دهند.",
-            "میانجی‌ها فعال‌تر شده‌اند: رئیس ستاد ارتش پاکستان، اسیم منیر، به تهران سفر کرده و هیئتی از قطر هم وارد شده تا از تشدید بیشتر جلوگیری شود؛ در کنار آن نگرانی‌ها درباره امنیت هسته‌ای بالا گرفته، چون نشست سازمان ملل درباره NPT بدون توافق پایان یافته و اختلافات قدرت‌های بزرگ و مناقشه بر سر برنامه هسته‌ای ایران و حملات به تأسیسات مرتبط دوباره برجسته شده است."
-        ],
-        "impact": "ترکیبِ تهدید مستقیم، کندی مذاکرات و نشانه‌های آماده‌باش نظامی، ریسک بازگشت بحران به تقابل مستقیم را بالا می‌برد، در حالی که گره هسته‌ای و فقدان توافق بین‌المللی اهرم فشار را تشدید می‌کند.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.2,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-donald-trump-iran-news-israel-strait-of-hormuz-peace-talk-crude-oil-latest-news-liveblog-154382900",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-donald-trump-iran-news-israel-strait-of-hormuz-peace-talk-crude-oil-latest-news-liveblog-154382900",
-        "image": "http://www.bing.com/th?id=ONUT.ff4MPiNwhZIGEWpc0jZCiA&pid=News",
-        "timestamp": 1779519060.0
-    },
-    {
-        "title_fa": "اظهارات فرمانده پیشین نیروی دریایی آمریکا: «زمان از سرگیری حملات» به ایران نزدیک است؛ هم‌زمان از «بلوک» و انسداد کشتیرانی می‌گویند",
-        "title_en": "‘Only a matter of time’ before US resumes attacks on Iran, former Navy commander says",
-        "summary": [
-            "فرمانده بازنشسته نیروی دریایی آمریکا، کِرک لیپولد، به فاکس نیوز گفته از نظر او «نه اگر، بلکه چه زمانی» واشنگتن عملیات رزمی علیه ایران را از سر می‌گیرد؛ او تاکید کرده مذاکرات می‌تواند صرفاً مرحله آماده‌سازی برای حمله باشد («جور کردن نیرو، سوخت‌گیری و آماده‌سازی برای عملیات»).",
-            "این اظهارات هم‌زمان با پیشروی تیم امنیتی ترامپ در کاخ سفید مطرح شده و ترامپ نیز پیام کنایه‌آمیز درباره «ایالات متحده خاورمیانه» در Truth Social منتشر کرده؛ در کنار آن، روایت‌ها از ادامه گمانه‌زنی جهانی درباره «اقدام بعدی» آمریکا وجود دارد.",
-            "مرکز فرماندهی آمریکا (CENTCOM) اعلام کرده نیروها به نقطه عطف «تغییر مسیر» ۱۰۰ کشتی تجاری رسیده‌اند و در چارچوب اعمال محاصره/بلوک علیه ایران، با توجه به ادعای توقف تقریباً کامل کشتیرانی عبوری از تنگه هرمز توسط ایران، عملیات را جلو برده‌اند."
-        ],
-        "impact": "افزایش فشار دریایی و زبان صریح درباره «از سرگیری عملیات رزمی» ریسک ورود آمریکا به یک فاز تهاجمی‌تر علیه ایران را بالا می‌برد و می‌تواند مذاکرات را به ابزار آماده‌سازی جنگی تبدیل کند.",
-        "tag": "فشارنظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/23/us-news/only-a-matter-of-time-before-us-resumes-attack-on-iran-former-navy-commander/",
-        "clean_url": "https://nypost.com/2026/05/23/us-news/only-a-matter-of-time-before-us-resumes-attack-on-iran-former-navy-commander",
-        "image": "http://www.bing.com/th?id=ONUT.u08QgdEgRimd0vkPCfVFOA&pid=News",
-        "timestamp": 1779518880.0
-    },
-    {
-        "title_fa": "ترامپ درباره از سرگیری حملات هوایی علیه ایران به سمت «پیروزی تعیین‌کننده» متمایل می‌شود؛ نتانیاهو از مذاکرات کنار زده شده",
-        "title_en": "Trump said weighing new Iran strikes as he seeks ‘decisive’ victory; Netanyahu frozen out of talks",
-        "summary": [
-            "طبق گزارش رسانه‌های آمریکا، ترامپ در آستانه تصمیم برای از سرگیری حملات هوایی جدید علیه ایران است، در حالی که نشست بررسی گزینه‌های نظامی با حضور ونس، وزیر دفاع، رئیس سیا و رئیس کارکنان کاخ سفید برگزار شده و احتمال هدف‌گیری بخش انرژی، سایت‌های موشکی احیاشده و تلاش برای ضربه به ذخایر اورانیوم بسیار غنی‌شده مطرح شده است.",
-            "تهران در واکنش هشدار داده است که در صورت ازسرگیری حملات آمریکا، پاسخ «خُردکننده» خواهد داد؛ هم‌زمان آصف مونیَر، رئیس ستاد ارتش پاکستان، برای میانجی‌گری به تهران سفر کرده تا راه‌حل دیپلماتیک پیدا شود، اما ترامپ گفته در صورت عدم جمع‌بندی فوری، همچنان به سمت حمله متمایل است.",
-            "این گزارش‌ها همچنین می‌گویند ترامپ از روند مذاکرات در چند روز گذشته خسته شده و حتی امکان اجرای یک عملیات بزرگ «نهایی» را برای اعلام «پیروزی قطعی» مطرح کرده؛ در همین راستا، CBS از لغو برنامه‌های برخی پرسنل نظامی و اطلاعاتی آمریکا برای تعطیلات آخر هفته خبر داده که نشان‌دهنده نزدیک بودن سطح آمادگی عملیاتی است."
-        ],
-        "impact": "افزایش احتمال حمله مستقیم آمریکا، ریسک تشدید فوری بحران و تبدیل میانجی‌گری به شکست را بالا می‌برد و هم‌زمان با تهدید پاسخ «خُردکننده» از سوی تهران، احتمال چرخه حمله-پاسخ را تشدید می‌کند.",
-        "tag": "ایران-آمریکا",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/trump-said-weighing-new-strikes-as-he-seeks-decisive-victory-amid-frustration-with-iran-talks/",
-        "clean_url": "https://www.timesofisrael.com/trump-said-weighing-new-strikes-as-he-seeks-decisive-victory-amid-frustration-with-iran-talks",
-        "image": "http://www.bing.com/th?id=ONUT.b4wYqp1moAPVP95s_E-Mgw&pid=News",
-        "timestamp": 1779518820.0
     }
 ]
