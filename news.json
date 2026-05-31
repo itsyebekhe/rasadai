@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اعتراض رسمی رئیس‌جمهور به «تسخیر کامل» قدرت توسط فرماندهان سپاه",
+        "title_en": "Iran’s president offers resignation, citing total takeover by IRGC commanders",
+        "summary": [
+            "رئیس‌جمهور اعلام کرده قصد استعفا دارد و دلیل را «تسلط کامل فرماندهان سپاه بر امور» دانسته؛ یعنی کنترل تصمیم‌گیری از سطح نهاد ریاست‌جمهوری عملاً خارج شده است.",
+            "این ادعا در عمل اعتراف به بن‌بست حکمرانی است: هم‌پوشانی و حذف کارکرد دولت، انسجام دستگاه تصمیم‌گیری را فرسوده و قابلیت پاسخ‌گویی نهادها به بحران‌های اقتصادی و اجتماعی را پایین می‌آورد.",
+            "اگر استعفا به کرسی برسد یا حتی به‌عنوان اهرم سیاسی باقی بماند، پیام اصلی آن تثبیت «حاکمیت موازی» است و می‌تواند شکاف در داخل حکومت را تشدید کند؛ شکافی که معمولاً با سرکوب بیشتر و کاهش مشروعیت عملی همراه می‌شود."
+        ],
+        "impact": "این رویداد نه یک اختلاف تشریفاتی، بلکه نشانه آشکار از فروپاشی اختیار واقعی رئیس‌جمهور و تشدید رقابت قدرت در داخل رژیم است.",
+        "tag": "تسخیر",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KbnRUZThzanB2aDJfWlBvbTZWX2lONEZDT1laazZsZzZqZ1UwSkFwXzZub2VaU2FpdURHdWUzb1hWTFlzNDJYRmFXdk1uSEEweGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KbnRUZThzanB2aDJfWlBvbTZWX2lONEZDT1laazZsZzZqZ1UwSkFwXzZub2VaU2FpdURHdWUzb1hWTFlzNDJYRmFXdk1uSEEweGc",
+        "image": null,
+        "timestamp": 1780248279.0
+    },
+    {
         "title_fa": "بن‌بست ادامه جنگ: ترامپ می‌گوید عجله‌ای ندارد و توافق پایان درگیری بین آمریکا و ایران هنوز بسته نشده است",
         "title_en": "U.S. and Iran still without deal to end war after Trump says he's not in a 'hurry'",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://www.msn.com/en-gb/news/world/iran-war-live-us-fires-at-ship-breaching-hormuz-blockade/ar-AA24sBwx",
         "image": null,
         "timestamp": 1780231920.0
+    },
+    {
+        "title_fa": "ترامپ خواستار بازنگری در توافق پیشنهادی با ایران شد؛ ارسال مجدد متن به تهران",
+        "title_en": "Trump Raises Stakes In Iran Negotiations With Fresh Demands: Report",
+        "summary": [
+            "طبق گزارش ABP News، ترامپ برای توافق «تازه و احتمالی» با ایران، مجموعه‌ای از درخواست‌های ویرایشی جدید مطرح کرده و متن را دوباره برای بررسی به تهران فرستاده است.",
+            "این اقدام به‌طور مستقیم یعنی مذاکرات در مرحله ادیت و بازطراحی شروط باقی مانده و طرف ایرانی برای رسیدن به توافق نهایی باید با خواسته‌های تازه سازگار شود.",
+            "از آنجا که گزارش به «ارسال مجدد» و «مطالبات تازه» اشاره می‌کند، فشار خارجی در سطح شروط مذاکره فعال‌تر شده و احتمال کش‌دار شدن یا شکست مذاکرات نیز افزایش پیدا می‌کند."
+        ],
+        "impact": "افزایش شرط‌گذاری بیرونی روند مذاکره را سخت‌تر می‌کند و ریسک طولانی شدن بن‌بست یا فروپاشی توافق را بالا می‌برد.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "ABP News",
+        "url": "https://news.abplive.com/news/world/iran-war-trump-toughens-terms-for-potential-deal-reports-1847235",
+        "clean_url": "https://news.abplive.com/news/world/iran-war-trump-toughens-terms-for-potential-deal-reports-1847235",
+        "image": null,
+        "timestamp": 1780227480.0
     },
     {
         "title_fa": "توافق با ایران، اما نه تکرار سناریوی مونیخ 1938؛ یعنی کنترل ریسکِ فروپاشی از مسیر دیگری",
@@ -5363,41 +5399,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUUzSnpHMG1BRFZKZVZyb05kc2tJQ3ZBdWRfV0FkOGJqNjBpOEdoZFN3bVNHc0tlR0YzbEo2a0MzYjlOWHRUNUhpSFJwVkJSZWFTRDZGOXo3Q3J0Vi1SR2hxWUtXa3ZIU3BVb01LcWlnZWYwUjJZUTV4OVVCOXhWV2NDUHg1QU9KdFR5VENwMmM",
         "image": null,
         "timestamp": 1779650170.0
-    },
-    {
-        "title_fa": "ترامپ به ایران «۵ تا ۷ روز» فرصت می‌دهد؛ تهران می‌گوید بمب نمی‌خواهد",
-        "title_en": "Trump gives Iran ‘5 to 7 days’ to strike nuclear deal, Tehran insists it doesn’t want bomb",
-        "summary": [
-            "به گزارش فاکس‌نیوز، واشنگتن اعلام کرده «چارچوب جدید» توافق هسته‌ای با ایران حدود ۹۵٪ آماده است و برای نهایی‌سازی، ضرب‌الاجل ۵ تا ۷ روزه تعیین شده است.",
-            "مسعود پزشکیان رئیس‌جمهوری ایران می‌گوید تهران به دنبال سلاح هسته‌ای نیست، هم‌زمان با ادامه مذاکرات بر سر میزان ذخایر اورانیوم.",
-            "تنش فعلی حول «ذخایر اورانیوم» می‌چرخد و پیام سیاسی تهران (عدم تمایل به بمب) تلاش برای کاهش فشار فوری در بازه زمانی کوتاه است."
-        ],
-        "impact": "این ضرب‌الاجل کوتاه‌مدت، فضای تصمیم‌گیری تهران را زیر فشار شدیدِ زمان‌بندی قرار می‌دهد و می‌تواند ریسک شکست یا معامله‌ای سخت‌تر بر سر ذخایر اورانیوم را بالا ببرد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/trump-iran-peace-deal-hormuz-may-24",
-        "clean_url": "https://www.foxnews.com/live-news/trump-iran-peace-deal-hormuz-may-24",
-        "image": "http://www.bing.com/th?id=ONUT.EmNoiGcKtHcP30QpU2zGmA&pid=News",
-        "timestamp": 1779649260.0
-    },
-    {
-        "title_fa": "توافق اصولی آمریکا و ایران برای چارچوب معامله؛ محورهای بحث‌شده درباره اورانیوم غنی‌شده و وضعیت تنگه هرمز",
-        "title_en": "U.S., Iran have agreed to broad principles of deal, Trump official says",
-        "summary": [
-            "یک مقام ارشد دولت ترامپ به CBS گفته آمریکا و ایران روی یک توافق «نهایی‌شدن» در حرکت‌اند و طرف ایرانی «در اصول» با معامله‌ای موافق است که شامل دفع اورانیوم با غنای بالا می‌شود؛ هم‌زمان ترامپ از اعلام جزئیات قریب‌الوقوع خبر داده و گفته نمایندگانش را از «عجله» برای جمع‌بندی برحذر داشته است.",
-            "بر پایه اطلاعاتی که CBS از منابع دریافت کرده، آخرین پیشنهاد شامل سازوکار «بازگشایی» تنگه هرمز، «آزادسازی بخشی» از دارایی‌های ایران در بانک‌های خارجی و ادامه مذاکرات بوده؛ در مقابل، فارس نیوز اعلام کرده حتی در صورت توافق، تنگه هرمز همچنان زیر مدیریت ایران می‌ماند.",
-            "همچنین گزارش شده ارتباط‌دادن مقامات ایرانی مجاز برای مذاکره با رهبر عالی‌رتبه با مشکل شدید روبه‌رو است و طبق ادعای اطلاعات آمریکا، محل او نامعلوم و عملاً فقط از طریق زنجیره‌ای از پیام‌رسان‌ها قابل دسترسی است؛ همین فاصله ارتباطی می‌تواند زمان پاسخ‌دهی به پیشنهادهای آمریکا را طولانی کند."
-        ],
-        "impact": "این روند نشان می‌دهد مسیر معامله بیشتر با موانع تصمیم‌گیری داخلی ایران و اختلاف بر سر جزئیات عملیاتی (به‌ویژه هرمز و سطح آزادسازی دارایی‌ها) کند می‌شود، نه صرفاً با نزدیک‌شدن سیاسی به یک چارچوب کلی.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/rubio-says-iran-imposing-tolls-103543594.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/rubio-says-iran-imposing-tolls-103543594.html",
-        "image": "http://www.bing.com/th?id=ONUT.gQw4vZ4Ivb_EfwGXBhDaMg&pid=News",
-        "timestamp": 1779648240.0
     }
 ]
