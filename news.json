@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ متن توافق هسته‌ای ایران را با تغییرات پس فرستاد",
+        "title_en": "Trump sent back Iran deal text with changes",
+        "summary": [
+            "طبق گزارش CNN، ترامپ متن توافق ایران را با اعمال تغییرات به طرف مقابل برگردانده است؛ یعنی پرونده وارد فاز بازچینی و بازتدوین شروط شده، نه صرفاً اعلام نظر.",
+            "این اقدام نشان می‌دهد اختلاف بر سر مفاد کلیدی توافق (هرچند جزئیات در متن ارائه‌شده مشخص نیست) می‌تواند روند مذاکره را طولانی‌تر و پرریسک‌تر کند.",
+            "برای ثبات رژیم، هر تأخیر یا تضعیف امکان دستیابی به توافق پایدار، فشار اقتصادی و عدم‌قطعیت سیاسی را افزایش می‌دهد، چون انتظار بازار و برنامه‌ریزی داخلی به مسیر مذاکرات گره می‌خورد."
+        ],
+        "impact": "بازگرداندن متن توافق با تغییرات، احتمال افزایش بن‌بست یا طولانی شدن مذاکره را بالا می‌برد و می‌تواند فشار اقتصادی و ناپایداری تصمیم‌گیری را تشدید کند.",
+        "tag": "توافق",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "CNN",
+        "url": "https://www.msn.com/en-us/news/other/trump-sent-back-iran-deal-text-with-changes/ar-AA24tZvG",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-sent-back-iran-deal-text-with-changes/ar-AA24tZvG",
+        "image": null,
+        "timestamp": 1780237266.0
+    },
+    {
         "title_fa": "آیا «فردا» برای معامله‌های ایرانِ ترامپ واقعاً می‌رسد؟",
         "title_en": "David M. Shribman: For Trump’s Iran deals, will tomorrow ever come?",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQLXE5Z1lrT2tiaGJ2TlVWTV92ZnBySVlkanZTYmJ0VjJlN2xaWTFaMm50TGNINUE3VTFSWEs0TmRSMmdZY3lXd0o0N1RjMXZEYnp0TFIwR29uVXZNcDdfS2VINFU0YW1lRi1xVUlneW5NZnlVWFkxbGxTRFl2VXpVX3RzR1pXNm9zcmRNZmdDOWZZMzZkQnZENjNldGNuNmh6SThPUGVfc2pEVUNjVTc4UVBhMFFwYlNwdUxPM1lR",
         "image": null,
         "timestamp": 1780237175.0
+    },
+    {
+        "title_fa": "پیشروی تاریخی نیروهای اسرائیلی در لبنان و گره خوردن آن با مذاکرات درباره ایران",
+        "title_en": "Israeli forces make historic push inside Lebanon and complicate an Iran deal",
+        "summary": [
+            "طبق گزارش AP، نیروهای اسرائیلی یک «پیشروی تاریخی» را در داخل لبنان انجام داده‌اند؛ این یعنی سطح درگیری مستقیم در مرزهای جنوبی بالا رفته و هزینه‌های محاسباتی بازیگران منطقه‌ای شدیدتر شده است.",
+            "همین روند به‌صورت مستقیم «توافق/دیل درباره ایران» را پیچیده می‌کند: وقتی عملیات میدانی گسترش پیدا می‌کند، فشار زمان و بی‌اعتمادی امنیتی مانع معامله‌پذیری می‌شود و هر مذاکره‌ای به ابزار تهدید و بازدارندگی گره می‌خورد.",
+            "چنین تشدیدی معمولاً تبعات اقتصادی و سیاسی هم برای کل منطقه دارد، اما متن ارائه‌شده از AP جزئیات مشخصی از سازوکارهای تحریمی یا واکنش دقیق دولت ایران ارائه نمی‌کند؛ بنابراین تحلیل باید همین سطح را پوشش دهد: افزایش ریسک و کاهش فضای معامله."
+        ],
+        "impact": "پیشروی زمینی در لبنان به‌طور عملی ظرفیت دولت‌ها برای رسیدن به یک توافق درباره ایران را محدود می‌کند، چون مسیر امنیتی-عملیاتی از کانال دیپلماتیک جلو می‌زند.",
+        "tag": "لبنان",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "AP News",
+        "url": "https://www.msn.com/en-in/war-and-conflicts/military/israeli-forces-make-historic-push-inside-lebanon-and-complicate-an-iran-deal/ar-AA24ubJX",
+        "clean_url": "https://www.msn.com/en-in/war-and-conflicts/military/israeli-forces-make-historic-push-inside-lebanon-and-complicate-an-iran-deal/ar-AA24ubJX",
+        "image": null,
+        "timestamp": 1780237080.0
     },
     {
         "title_fa": "«توافق هسته‌ای با ایران: پیروزی یا توافقی با اثرات عمیق و واگیرگونه؟»",
@@ -162,6 +198,24 @@
         "timestamp": 1780216673.0
     },
     {
+        "title_fa": "ایران می‌گوید به آمریکا اعتماد ندارد؛ همزمان با سخت‌تر شدن شروط ترامپ",
+        "title_en": "Iran says does not trust US as Trump toughens terms",
+        "summary": [
+            "خبر بر «عدم اعتماد ایران به آمریکا» و این ادعا تمرکز دارد که ترامپ شروط را سخت‌تر کرده است؛ یعنی کانال‌های مذاکره با پیام بی‌اعتمادی و افزایش فشار سیاسی-دیپلماتیک دچار تنش می‌شود.",
+            "در چارچوب فشار خارجی، سخت‌تر شدن شروط می‌تواند هزینه‌های داخلی را بالا ببرد و از مسیر اقتصاد و روانی جامعه، بر ثبات سیاسی رژیم اثر بگذارد؛ اما در متن، هیچ جزئیات مشخص از تحریم‌های جدید یا اعداد و اقدامات اجرایی ارائه نشده است.",
+            "در این گزارش نشانه‌ای از اعتراضات داخلی یا فروپاشی اقتصادی مستقیم ذکر نشده؛ بنابراین نمی‌توان فراتر از پیام سیاسی «سخت‌تر شدن شروط» نتیجه‌سازی کرد."
+        ],
+        "impact": "این نوع پیام‌رسانی بیشتر نشان‌دهنده تشدید اصطکاک دیپلماتیک و احتمال افزایش فشار است، اما بدون داده‌های اجرایی، اثر فوری اقتصادی یا امنیتی در گزارش قابل اثبات نیست.",
+        "tag": "فشار_دیپلماتیک",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "CNA",
+        "url": "https://www.channelnewsasia.com/world/iran-does-not-trust-us-trump-deal-terms-6152266",
+        "clean_url": "https://www.channelnewsasia.com/world/iran-does-not-trust-us-trump-deal-terms-6152266",
+        "image": null,
+        "timestamp": 1780216140.0
+    },
+    {
         "title_fa": "عملیات ارتش اسرائیل برای عقب راندن حزب‌الله با تصرف قلعه بوفور در جنوب لبنان",
         "title_en": "Israel troops capture Beaufort Castle in southern Lebanon push against Hezbollah",
         "summary": [
@@ -178,6 +232,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZ19uYndNRDdIVlVObEJCQjhHUnhNUTRqWTM3NFppenBsU01tWU5ILXU2ZHA3QmVHYllWU0ZQeU1nVzlITlhsUDlFTkJoU19OUXJPUFFyMDBYZ2l2a3EtSVo0YkFRQUF0bTlvOVJ3Vm40dHFGTUoyNm9ZTnlBQWltYXZxak1xLXdOQ29XR05ZNzd3cTF1MWtuZjZRZW14dWZlLWhEcHJfRzVMTlZTMVhhbHdsQ2I0S3hIY2NqdWZMUlZWNjJteVhRd19QVEpJVFBVMjdPd0NtRQ",
         "image": null,
         "timestamp": 1780214754.0
+    },
+    {
+        "title_fa": "تشدید شروط ترامپ و بی‌اعتمادی تهران: بن‌بست در مسیر توافق هسته‌ای و بازگشایی تنگه هرمز",
+        "title_en": "Iran says it does not trust US as Trump toughens terms",
+        "summary": [
+            "ترامپ اعلام کرده اولویت هر توافق، جلوگیری از هرگونه توسعه سلاح هسته‌ای توسط ایران و نیز بازگشایی تنگه هرمزِ محاصره‌شده است، اما تهران از ابتدا نسبت به پایبندی واشینگتن بدبین است.",
+            "محمدباقر قالیباف، مذاکره‌کننده ارشد ایران، هشدار داده تا زمانی که «حقوق ایران» به‌طور کامل تضمین نشود، تهران با هیچ توافقی موافقت نخواهد کرد؛ هم‌زمان گزارش شده ترامپ پیشنهاد «سخت‌گیرانه‌تر» به ایران بازگردانده است.",
+            "این کشمکش می‌تواند زمان‌بندی توافق برای پایان جنگ و بازگشایی تنگه هرمز را دوباره عقب بیندازد؛ زیرا اختلاف جدیِ اعتماد و تداوم فشارهای حقوقی/امنیتی، روند مذاکره را شکننده نگه داشته است."
+        ],
+        "impact": "بن‌بست اعتماد بین واشینگتن و تهران، شانس توافق رسمی را کاهش می‌دهد و احتمال تداوم تنش پیرامون برنامه هسته‌ای و تنگه هرمز را بالا نگه می‌دارد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-says-it-does-not-trust-us-as-trump-toughens-terms-123058406.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-says-it-does-not-trust-us-as-trump-toughens-terms-123058406.html",
+        "image": "http://www.bing.com/th?id=ONUT.Q8UViyECQN0S51hHf2dmUg&pid=News",
+        "timestamp": 1780214400.0
     },
     {
         "title_fa": "گفت‌وگو درباره «نیت ایران» به‌جای «واقعیت اسرائیل»؛ انحرافی در روایت جنگ انسانی غزه",
@@ -5327,77 +5399,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/what-s-in-the-proposed-deal-that-could-end-the-us-iran-conflict/ar-AA23XaqJ",
         "image": null,
         "timestamp": 1779638481.0
-    },
-    {
-        "title_fa": "۵ مسئله کلیدی برای حل‌وفصل در یک توافق صلح ایران و آمریکا",
-        "title_en": "These Are 5 of the Main Issues to Be Resolved in an Iran-U.S. Peace Deal",
-        "summary": [
-            "این گزارش چارچوب مذاکره بالقوه میان ایران و آمریکا را به چند محور عملیاتی محدود می‌کند، یعنی روندی که اگر به نتیجه برسد می‌تواند ابزارهای فشار خارجی و هزینه‌های سیاسی-اقتصادی رژیم را بازتعریف کند.",
-            "تمرکز بر «مسائل قابل حل» به‌طور ضمنی نشان می‌دهد که گره اصلی پرونده ایران با آمریکا، نه شعارهای سیاسی، بلکه موانع مشخص در حوزه‌های حساس توافق‌های هسته‌ای/تحریمی و سازوکارهای نظارت و تضمین است (بدون ارائه جزئیات در متن ارسالی).",
-            "با توجه به اینکه متنِ ارسالی فقط عنوان و قالب لینک‌دهی دارد و جزئیات پنج مورد ذکر نشده، نمی‌توان درباره اثر مستقیم بر اقتصاد یا احتمال اعتراضات داخلی اظهارنظر دقیق کرد؛ اما نفسِ ورود به فاز حل‌وفصل، معمولاً می‌تواند موقتاً فشار را از مسیرهای بیرونی کاهش دهد و محاسبات داخلی بازیگران را تغییر دهد."
-        ],
-        "impact": "ورود احتمالی به مذاکره برای حل‌وفصل مسائل مشخص، می‌تواند ساختار فشار خارجی را دگرگون کند و روی ثبات سیاسی-اقتصادی رژیم اثر موقت بگذارد، اما بدون جزئیات پنج محور، میزان و جهت اثر هنوز قابل سنجش نیست.",
-        "tag": "تحلیل",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/24/world/middleeast/five-main-issues-iran-israel-nuclear.html",
-        "clean_url": "https://www.nytimes.com/2026/05/24/world/middleeast/five-main-issues-iran-israel-nuclear.html",
-        "image": "https://static01.nyt.com/images/2026/05/24/multimedia/24int-iran-five-issues-ooooo1-bwqz/24int-iran-five-issues-ooooo1-bwqz-facebookJumbo.jpg",
-        "timestamp": 1779635280.0
-    },
-    {
-        "title_fa": "ترامپ از ادامه مذاکرات ایران در چارچوب «منظم و سازنده» می‌گوید و هشدار می‌دهد عجله نشود",
-        "title_en": "Trump says Iran negotiations proceeding in 'orderly and constructive manner;' warns against rushing",
-        "summary": [
-            "ترامپ اعلام کرده مذاکرات با ایران در «نظم‌مند و سازنده» پیش می‌رود و از شتاب‌زدگی در روند مذاکره هشدار داده است.",
-            "این موضع نشان می‌دهد فشار دیپلماتیک در حال تبدیل به یک مسیر کنترل‌شده است، نه یک فرایند فوری؛ یعنی اولویت بر مدیریت زمان و امتیازدهی قرار گرفته است.",
-            "با توجه به نبود جزئیات اجرایی در خبر، اثر مستقیم این جمله‌ها بیشتر «سیگنال‌سازی» و آماده‌سازی فضای تصمیم‌گیری است و نمی‌توان از آن به تنهایی تغییر در شدت تحریم‌ها یا اجرای عملی سازوکارهای اقتصادی را نتیجه گرفت."
-        ],
-        "impact": "فعلاً این خبر بیشتر نشانه‌گذاری برای مدیریت روند مذاکره است و بدون اطلاعات مشخص از تحریم‌ها یا اقدامات اجرایی، نمی‌توان اثر اقتصادی/سیاسی فوری و قابل سنجش بر ثبات رژیم را قطعی دانست.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mVWNadnU2ZENiYzJFcE9JcGNrMU5VLUw4ZkJhRFRMa1YwMl9VV1ZPRnkzTVhsRmlXOFdiMmk5MlpGMzVLX19iQkpsYmNyMExjdWtGT3N4VXdoa0I2Y1NEU2xkWXNmNjRZ0gFuQVVfeXFMTVI4UlhQeUdWRlhTaXMxTDZMVUp3NVUxXzBiSjhqb09DbENjRUVMRk5xbnY2LWd0bV9qSXotVlVhd2VBN05KaTZiRXlHcFpqemVNZ1VBZkV3dHlsV0tuVktEQXZRem9felVEX1ZXaGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5mVWNadnU2ZENiYzJFcE9JcGNrMU5VLUw4ZkJhRFRMa1YwMl9VV1ZPRnkzTVhsRmlXOFdiMmk5MlpGMzVLX19iQkpsYmNyMExjdWtGT3N4VXdoa0I2Y1NEU2xkWXNmNjRZ0gFuQVVfeXFMTVI4UlhQeUdWRlhTaXMxTDZMVUp3NVUxXzBiSjhqb09DbENjRUVMRk5xbnY2LWd0bV9qSXotVlVhd2VBN05KaTZiRXlHcFpqemVNZ1VBZkV3dHlsV0tuVktEQXZRem9felVEX1ZXaGc",
-        "image": null,
-        "timestamp": 1779634157.0
-    },
-    {
-        "title_fa": "رهبران اسرائیل درباره احتمال توافق ایران-ترامپ موضع‌گیری مبهم نگه داشتند",
-        "title_en": "Israeli Leaders Say Little About Trump's Potential Iran Deal",
-        "summary": [
-            "طبق گزارش، رهبران اسرائیلی هنگام بحث درباره امکان توافق آینده با ایران توسط دولت ترامپ، اطلاعات و مواضع مشخصی ارائه نکرده‌اند.",
-            "این سکوت/ابهام، اهرم فشار سیاسی اسرائیل را در پرونده هسته‌ای و منطقه‌ای محدود نمی‌کند، اما نشان می‌دهد اسرائیل در حال مدیریت ریسک توافق و تلاش برای ارزیابی پیامدهاست.",
-            "عدم شفافیت از سوی اسرائیل می‌تواند برای طرف‌های درگیر، از جمله ایران و میانجی‌ها، فضای عدم‌قطعیت ایجاد کند و روند تصمیم‌گیری را کندتر و شکننده‌تر کند."
-        ],
-        "impact": "ابهام اسرائیلی درباره توافق بالقوه، احتمالاً مانع شکل‌گیری اجماع سریع و افزایش سطح محاسبه‌گری و عدم‌اطمینان در پرونده ایران می‌شود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html",
-        "clean_url": "https://www.nytimes.com/2026/05/24/world/middleeast/iran-deal-israel-reaction.html",
-        "image": "https://static01.nyt.com/images/2026/05/24/multimedia/24int-israel-reax-1-wgcf/24int-israel-reax-1-wgcf-facebookJumbo.jpg",
-        "timestamp": 1779634020.0
-    },
-    {
-        "title_fa": "نزدیکی آمریکا و ایران به توافق برای تمدید آتش‌بس و ازسرگیری مسیر هرمز؛ پیامد فشار خارجی و محاسبات امنیتی رژیم",
-        "title_en": "The U.S. and Iran near deal to extend ceasefire and reopen Hormuz",
-        "summary": [
-            "طبق گزارش واشنگتن پست، آمریکا و ایران در قالب یک «چارچوب» (memorandum of understanding) برای نزدیک شدن به توافق نهایی، درباره تمدید آتش‌بس و سپس بازگشایی مسیر هرمز وارد مرحله مذاکره شده‌اند؛ یعنی بحث از خبر تا قرارداد عملی، وارد فاز اجرایی شده است.",
-            "در سطح «تحریم/فشار خارجی»، چنین نزدیک شدن به توافق معمولاً ریسک‌های اقتصادی-سیاسی رژیم را کاهش می‌دهد: امکان کاهش هزینه‌های ناشی از اختلال در حمل‌ونقل و دسترسی محدود به تجارت، و در نتیجه تقویت توان مدیریت بحران‌های داخلی را بالا می‌برد—هرچند این موضوع در این گزارش به جزئیات میزان اثر اقتصادی اشاره نکرده است.",
-            "در «واقع‌گرایی»، این گزارش خود به فعالیت مستقیم نیروها یا فروپاشی داخلی رژیم اتکا نمی‌کند؛ تمرکز روی یک مسیر دیپلماتیک است. با این حال، همین حرکت نشان می‌دهد که محاسبات رژیم در برابر فشار بیرونی و هزینه‌های امنیتی-اقتصادی به سمت امتیازدهی محدود سوق داده شده است."
-        ],
-        "impact": "اگر توافق نهایی برای تمدید آتش‌بس و بازگشایی هرمز انجام شود، تنش اقتصادی-امنیتی مرتبط با مسیر تجارت در منطقه کاهش یافته و فشارهای بیرونی بر کارکردهای روزمره رژیم کمتر می‌شود.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/05/24/us-iran-near-deal-extend-ceasefire-reopen-hormuz/",
-        "clean_url": "https://www.washingtonpost.com/world/2026/05/24/us-iran-near-deal-extend-ceasefire-reopen-hormuz",
-        "image": null,
-        "timestamp": 1779633000.0
     }
 ]
