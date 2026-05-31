@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "گفت‌وگو درباره «نیت ایران» به‌جای «واقعیت اسرائیل»؛ انحرافی در روایت جنگ انسانی غزه",
+        "title_en": "OPINION: Why we talk about Iran's intent, not Israel's reality",
+        "summary": [
+            "این ستون در چارچوب یک مقاله نظر‌سنج/نظر‌پرداز، می‌گوید تمرکز رسانه‌ای و سیاسی باید به «واقعیت‌های» میدانی معطوف باشد، نه به بحث درباره «نیت» نسبت‌داده‌شده به ایران؛ یعنی یک جابه‌جایی هدف از توصیف وضعیت واقعی به حدس و تفسیر نیت بازیگران.",
+            "تصویر زمینه گزارش، عبور کاروان کمک انسانی از مسیر غزه و تخلیه محموله توسط برنامه جهانی غذا در غزه‌ (Gaza City) در 16 ژوئن است؛ ستون از همین نقطه استفاده می‌کند تا نشان دهد روایت‌های امنیتی می‌تواند توجه عمومی را از بحران انسانی منحرف کند.",
+            "هیچ ادعای مشخصی از اقدام نظامی تازه یا تشدید مستقیم رخدادها در متن ارائه نشده؛ فقط یک نقد بر «نوع قاب‌بندی» بحث‌هاست: اینکه به‌جای پرداختن به آنچه در غزه اتفاق می‌افتد، بر نیت‌خوانی سیاسی تمرکز می‌شود."
+        ],
+        "impact": "اثر فوری این نوع روایت، کاهش تمرکز عمومی و تصمیم‌گیری بر داده‌های میدانی و تقویت فضای سیاست‌محور به‌جای توجه به بحران انسانی است.",
+        "tag": "رسانه",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Albuquerque Journal",
+        "url": "https://www.abqjournal.com/opinion/opinion-why-we-talk-about-irans-intent-not-israels-reality/3050407",
+        "clean_url": "https://www.abqjournal.com/opinion/opinion-why-we-talk-about-irans-intent-not-israels-reality/3050407",
+        "image": null,
+        "timestamp": 1780209540.0
+    },
+    {
+        "title_fa": "ترامپ خواستار اصلاحات در پیش‌نویس چارچوب آتش‌بس آمریکا-ایران شد؛ گره اصلی «اورانیوم» و «تنگه هرمز» باقی ماند",
+        "title_en": "Donald Trump asks for amendments to agreed upon draft of US-Iran ceasefire deal",
+        "summary": [
+            "ترامپ پیش‌نویس چارچوب آتش‌بس آمریکا-ایران را پس فرستاد و برای دو گره اصلی یعنی نحوه برخورد با ذخایر اورانیوم غنی‌شده و شرایط/زمان‌بندی بازگشایی تنگه هرمز، «شرایط سخت‌تر و دقیق‌تر» خواست؛ بنابراین توافق رسمی هنوز امضا نشده و مذاکرات از ماه‌های گذشته طولانی‌تر شد.",
+            "طبق گزارش، تیم مذاکره‌کننده آمریکا در حال آماده‌سازی متن بود و یک پیشنهاد ایرانی منتظر تأیید ترامپ مانده بود، اما او بدون تصمیم جلسه را ترک کرد و ترجیح داد پیش از نهایی‌شدن، اصلاحات اعمال شود؛ سپس پاسخ تهران ظرف چند روز آینده انتظار می‌رود.",
+            "در چارچوب فعلی، تعهد ایران به عدم پیگیری سلاح هسته‌ای ذکر شده اما «توافق‌های مشخص بیشتر» در متن روشن نیست؛ همچنین یک بازه ۶۰ روزه برای ادامه مذاکره درباره تعهدات هسته‌ای و نیز «رفع/کاهش تحریم‌ها» در نظر گرفته شده و تخلیه/امحاء اورانیوم غنی‌شده به‌عنوان محور اول این زمان‌بندی مطرح است."
+        ],
+        "impact": "این رفت‌وبرگشت واشنگتن، زمان‌بندی رفع تنش را به تعویق می‌اندازد و با سخت‌تر کردن جزئیات فنی درباره اورانیوم و تنگه هرمز، احتمال ادامه فشار و بی‌ثباتی در محاسبات تهران و بازارهای انرژی را بالا می‌برد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post",
+        "url": "https://www.outlookindia.com/international/donald-trump-sends-back-deal-to-iran-for-revision-demands-tougher-terms-on-uranium-and-hormuz",
+        "clean_url": "https://www.outlookindia.com/international/donald-trump-sends-back-deal-to-iran-for-revision-demands-tougher-terms-on-uranium-and-hormuz",
+        "image": null,
+        "timestamp": 1780206754.0
+    },
+    {
+        "title_fa": "ترامپ: ایران به «عدم دستیابی به سلاح هسته‌ای» موافقت کرده است",
+        "title_en": "Trump says Iran has agreed to no nuclear weapons",
+        "summary": [
+            "طبق گزارش France 24، ترامپ ادعا کرده که ایران به برنامه‌ای برای «نداشتن سلاح هسته‌ای» متعهد شده است؛ اما محتوای فنی، زمان‌بندی و سازوکار را در این گزارش مشخص نمی‌کند.",
+            "اگر چنین ادعایی واقعیت اجرایی پیدا کند، فشار خارجی و ریسک‌های تحریمی می‌تواند وارد فاز جدید شود و از منظر ساختار قدرت، رژیم را با امکان کاهش سطح تنش‌های بین‌المللی روبه‌رو کند؛ در عین حال، این گزارش به‌طور صریح جزئیات کاهش یا ادامه تحریم‌ها را نمی‌گوید.",
+            "چون متن خبر صرفاً به سطح اظهارات ترامپ محدود است، نمی‌توان نتیجه گرفت که چه اثری بر اقتصاد یا اعتراضات داخلی گذاشته می‌شود؛ اثر داخلی زمانی قابل ارزیابی است که متن توافق/تعهد و آثار اقتصادی آن اعلام شود."
+        ],
+        "impact": "این اظهارات اگر به توافق قابل راستی‌آزمایی منجر نشود، بیشتر یک ابزار چانه‌زنی سیاسی خواهد بود و در صورت تحقق، می‌تواند بر معادله تحریم-امنیت اثر بگذارد.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "France 24",
+        "url": "https://www.msn.com/en-us/politics/government/trump-says-iran-has-agreed-to-no-nuclear-weapons/ar-AA24t9Ni",
+        "clean_url": "https://www.msn.com/en-us/politics/government/trump-says-iran-has-agreed-to-no-nuclear-weapons/ar-AA24t9Ni",
+        "image": null,
+        "timestamp": 1780205595.0
+    },
+    {
         "title_fa": "دوراهی جنگ ایران و جبهه داخلی؛ سناریوی فشار بر نظام در آستانه انتخابات ۲۰۲۶",
         "title_en": "The Iran War and the Home Front Dilemma",
         "summary": [
@@ -54,6 +108,24 @@
         "timestamp": 1780191740.0
     },
     {
+        "title_fa": "آتش‌بار نیروهای آمریکایی علیه یک کشتی در تنگه هرمز؛ همزمان تشدید جنگ اسرائیل در لبنان",
+        "title_en": "Iran war live: US forces fire at ship 'running Hormuz blockade'",
+        "summary": [
+            "گزارش می‌گوید نیروهای آمریکا به یک کشتی که «در حال دور زدن/تلاش برای عبور از چارچوب‌های مربوط به هرمز» معرفی شده، شلیک کرده‌اند؛ یعنی خطر برخورد مستقیم نظامی در تنگه‌ای که مسیر حیاتی تجارت است بالا رفته است.",
+            "در همان گزارش، گفته می‌شود اسرائیل جنگ در لبنان را تشدید کرده است؛ این هم‌زمانی، بار ریسک درگیری منطقه‌ای را بیشتر می‌کند و می‌تواند تهران را به پاسخ‌گویی عملی یا تشدید آمادگی امنیتی سوق دهد.",
+            "یک مقام ارشد ایرانی، دونالد ترامپ را به «خیانت به دیپلماسی برای سومین بار» متهم کرده؛ اما خودِ متنِ خبر عمدتاً روی حادثه نظامی و زمینه میدانی تمرکز دارد، نه جزئیات مشخصِ توافق‌ها یا شروط دیپلماتیک."
+        ],
+        "impact": "شلیک آمریکا به کشتی در هرمز می‌تواند یک چرخه حادثه-پاسخ ایجاد کند و ریسک اشتباه محاسباتی را در نقطه حساس تجارت دریایی به‌طور جدی بالا ببرد.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-war-live-us-forces-fire-at-ship-running-hormuz-blockade/ar-AA24sXCY",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-live-us-forces-fire-at-ship-running-hormuz-blockade/ar-AA24sXCY",
+        "image": "http://www.bing.com/th?id=ONUT.1eu7mI8-LLF9jsF69TwuEw&pid=News",
+        "timestamp": 1780190443.0
+    },
+    {
         "title_fa": "درخواست ترامپ برای اعمال تغییرات در توافق هسته‌ای؛ گام فشار، نه تفاهم",
         "title_en": "Trump requests edits to Iran deal his envoys negotiated",
         "summary": [
@@ -70,6 +142,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-requests-edits-to-iran-deal-his-envoys-negotiated/ar-AA24s0Iz",
         "image": null,
         "timestamp": 1780189757.0
+    },
+    {
+        "title_fa": "بلوک خوراکی-نظامی تنگه هرمز و بن‌بست مذاکره آمریکا-ایران: کشتی‌ها «خاموش» می‌روند، اختلاف بر سر پول و هسته باقی است",
+        "title_en": "US-Iran News LIVE: Ships going dark, sailing in groups to slip through Strait of Hormuz",
+        "summary": [
+            "ترامپ پس از نشست دو ساعته Situation Room بدون تصمیم نهایی درباره توافق جدید با ایران، ادعا کرد توافق نزدیک است؛ اما اختلافات درباره آزادسازی دارایی‌های ایران و نیز چارچوب «مقررات هسته‌ای» همچنان حل‌نشده مانده است.",
+            "تهران روایت آمریکا را رد می‌کند: رسانه وابسته به IRGC (Fars) گفت ادعاهای ترامپ ترکیبی از «حقیقت و دروغ» است و پیش‌نویس بررسی‌شده در تهران با گفته‌های رئیس‌جمهور آمریکا تفاوت دارد؛ همچنین هیچ «مذاکره‌نامه» نهایی نشده است.",
+            "در کنار بن‌بست مذاکرات، تنش نظامی و راهبردی تشدید می‌شود: CENTCOM پرتاب موشک بالستیک به سمت کویت را به ایران نسبت داده؛ ایران نیز می‌گوید هدف، یک تاسیسات نظامی آمریکا بوده و پاسخ، به حمله آمریکا نزدیک بندرعباس مربوط است. همزمان گزارش‌ها از تشدید کمبود دارو، افزایش بیکاری و کند شدن تجارت خبر می‌دهند و مسیر تنگه هرمز به «نقطه اشتعال» تبدیل شده است؛ از سوی دیگر، برای عبور از تنگه، نشانه‌هایی از تغییر رفتار کشتی‌ها (رفتن در گروه و «خاموش کردن» سیستم‌ها) مطرح شده است."
+        ],
+        "impact": "با وجود ادعای نزدیک بودن توافق، تداوم اختلاف بر سر پول و هسته همراه با درگیری‌های متقاطع و محدودتر شدن فشار اقتصادی، ریسک نوسان سریع از مذاکره به تقابل عملی در تنگه هرمز را بالا می‌برد.",
+        "tag": "ایران-آمریکا",
+        "urgency": 8,
+        "sentiment": -0.65,
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/world/iran-us-news-peace-deal-live-latest-news-donald-trump-israel-qatar-tehran-oil-prices-strait-of-hormuz-11780104779122.html",
+        "clean_url": "https://www.livemint.com/news/world/iran-us-news-peace-deal-live-latest-news-donald-trump-israel-qatar-tehran-oil-prices-strait-of-hormuz-11780104779122.html",
+        "image": "http://www.bing.com/th?id=ONUT.H56nvHpS7h8UxlrzWuexoQ&pid=News",
+        "timestamp": 1780189080.0
     },
     {
         "title_fa": "بازیِ انتظار: جهان منتظر تصمیم ترامپ درباره چارچوب مذاکره‌شده",
@@ -5309,95 +5399,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/the-more-generous-us-ceasefire-terms-are-the-more-suspicious-iran-becomes-they-re-a-ruse-for-another-attack-expert-says/ar-AA23X3ju",
         "image": "http://www.bing.com/th?id=ONUT.p5To_kNsxdcQZ-aa4lUIMQ&pid=News",
         "timestamp": 1779617477.0
-    },
-    {
-        "title_fa": "گزارش الجزیره: آمریکا و ایران به توافق نزدیک می‌شوند برای پایان جنگ",
-        "title_en": "US, Iran inch closer to deal to end the war: What to know",
-        "summary": [
-            "الجزیره از نزدیک شدن آمریکا و ایران به یک توافق برای پایان جنگ خبر می‌دهد، با این چارچوب که مذاکرات می‌تواند به کاهش تنش‌های عملیاتی منجر شود.",
-            "این تحول در سطح سیاست خارجی، فشار مستقیم بر روندهای داخلی رژیم را به‌تنهایی تضمین نمی‌کند؛ با این حال امکان آزاد شدن بخشی از منابع/کانال‌های اقتصادی یا کاهش ریسک‌های منطقه‌ای وجود دارد.",
-            "در نبود جزئیات دقیق در متن منتشرشده، نمی‌توان درباره زمان‌بندی، شروط طرفین یا اثر واقعی بر تحولات میدانی نتیجه‌گیری کرد و هر ارزیابی باید تا انتشار اطلاعات بیشتر محدود بماند."
-        ],
-        "impact": "اگر توافق عملی شود، احتمال کاهش ریسک جنگی و تنش‌های منطقه‌ای بالا می‌رود، اما اثر آن بر ثبات داخلی رژیم به شروط و میزان گره‌گشایی اقتصادی بستگی دارد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzBVeUFzR1hfSkpqYnRWNGlETWFibk03ZGJRMDRoYzRCRldOQmdrUzNuVno5U19DRnJMdTh3MnpNY3JLR0t2UDVtR2djU0pPSlc2YXpGX3kzbGlvdnRfTkNYeTh6UVdDbWhaUkRKTDVlNDZlYlFZRWY2dFhyajRtcHlsUUNOR2xiY2lZX3Z1QVdJNDN0eWtkRWV4OWTSAaIBQVVfeXFMTUFrQ2VuLTZXT1JPeHVwaFNDQ0JmNjRnT2dONklkdkpHR3ZzUUN5SEtXTXAzQ1pMLXF6aUpwNkQ1N0V4ZEl5bVFGclVyaDFwdG5jTEJnc250VW1WRlN6OFJucTNKRmRKa3FDR1ItcUdhN2xrNTFmRjdIbWtQTWg1dDRkNGNNVjVZUmN4czFFemlpc2tKc2hxYnBzMzZtZV9MSm5R?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNzBVeUFzR1hfSkpqYnRWNGlETWFibk03ZGJRMDRoYzRCRldOQmdrUzNuVno5U19DRnJMdTh3MnpNY3JLR0t2UDVtR2djU0pPSlc2YXpGX3kzbGlvdnRfTkNYeTh6UVdDbWhaUkRKTDVlNDZlYlFZRWY2dFhyajRtcHlsUUNOR2xiY2lZX3Z1QVdJNDN0eWtkRWV4OWTSAaIBQVVfeXFMTUFrQ2VuLTZXT1JPeHVwaFNDQ0JmNjRnT2dONklkdkpHR3ZzUUN5SEtXTXAzQ1pMLXF6aUpwNkQ1N0V4ZEl5bVFGclVyaDFwdG5jTEJnc250VW1WRlN6OFJucTNKRmRKa3FDR1ItcUdhN2xrNTFmRjdIbWtQTWg1dDRkNGNNVjVZUmN4czFFemlpc2tKc2hxYnBzMzZtZV9MSm5R",
-        "image": null,
-        "timestamp": 1779615614.0
-    },
-    {
-        "title_fa": "آمریکا می‌گوید آیت‌الله‌المعظمۀ خامنه‌ای به‌طور «در اصل» با واگذاری اورانیومِ غنی‌شده برای یک چارچوب صلح موافقت کرده است",
-        "title_en": "Iran’s supreme leader has agreed ‘in principle’ to give up uranium as part of peace deal, US official says",
-        "summary": [
-            "یک مقام ارشد آمریکایی مدعی است که رهبر عالی ایران، «موجتبا خامنه‌ای»، با چارچوب کلی توافق صلح موافقت کرده؛ توافقی که طبق گفته او شامل «توافق در اصل» برای رسیدگی/خارج‌سازی اورانیوم با غنای بالا از سوی ایران است، هرچند جزئیات هنوز محل چانه‌زنی است.",
-            "قرار است در ازای آن، آمریکا تحریم/«رفع بند محاصره» را در دستور بگذارد تا تنگه هرمز پس از سه ماه جنگ دوباره برای عبور آزاد کشتی‌ها باز شود؛ اما گزارش تاکید می‌کند مسائل بزرگ همچنان حل‌نشده باقی می‌ماند و متن نهایی می‌تواند چند روز زمان ببرد.",
-            "ساختار توافق بر پیوند دادن «رفع تحریم‌ها» به پیشرفت در خارج‌سازی این مواد و نیز پیش‌بینی سازوکار اجرایی برای جلوگیری از غنی‌سازی آینده تمرکز دارد؛ همچنین گفته می‌شود آمریکا در کنار موضوع فنی، به نحوه ارائه داخلی توافق برای جلب رضایت جناح‌های سخت‌گیر ایران هم توجه دارد."
-        ],
-        "impact": "اگر این چارچوب نهایی شود، مستقیماً فشار فوری بر بحران تنگه هرمز و مسیر تحریم‌ها را کاهش می‌دهد، ولی همچنان به‌دلیل باقی‌ماندن اختلاف بر سر جزئیات، امکان شکست یا عقب‌نشینی سیاسی بالا است.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/24/us-news/irans-supreme-leader-has-agreed-in-principle-to-give-up-uranium-as-part-of-peace-deal-us-officials-says/",
-        "clean_url": "https://nypost.com/2026/05/24/us-news/irans-supreme-leader-has-agreed-in-principle-to-give-up-uranium-as-part-of-peace-deal-us-officials-says",
-        "image": "http://www.bing.com/th?id=ONUT.lonSaQm6PCmL4Bk1N4wBOw&pid=News",
-        "timestamp": 1779615240.0
-    },
-    {
-        "title_fa": "ترومپ می‌گوید ایران «هرگز» سلاح هسته‌ای نخواهد داشت؛ شکاف در واشنگتن و تأکید بر عدم تعجیل در توافق",
-        "title_en": "Trump vows Iran can never have a nuke — and US will ‘not rush into a deal’ after GOP Senators criticize draft agreement",
-        "summary": [
-            "ترومپ وعده داد ایران «هرگز» به سلاح هسته‌ای دست نخواهد یافت و اعلام کرد نمایندگانش را برای عجله در توافق تحت فشار قرار نمی‌دهد؛ هم‌زمان «محاصره/بلوکه» را تا زمانی که توافق، راستی‌آزمایی و امضا شود «در وضعیت کامل» نگه می‌دارد.",
-            "چند سناتور سرشناس جمهوری‌خواه (از جمله راجر ویکر و اشاره به نگرانی‌های گسترده‌تر) به جزئیات گزارش‌شده توافق پیش‌نویس انتقاد کردند: نبود پاسخ کافی به نگرانی درباره ذخایر اورانیوم غنی‌شده و اتکای بیش از حد به حسن‌نیت جمهوری اسلامی.",
-            "طبق گزارش‌ها، چارچوب فعلاً شامل یادداشت تفاهم ۶۰ روزه است: ایران برای دسترسی به گلوگاه نفتی تنگه هرمز فعالیت‌هایی برای «پاک‌سازی معادن» انجام می‌دهد و آمریکا در مقابل بخشی از محاصره/محدودیت بنادر و بخشی از فشارهای اقتصادی مرتبط با نفت را کاهش می‌دهد—اما منتقدان می‌گویند همین «آتش‌بس ۶۰ روزه» در عمل می‌تواند دستاوردهای عملیات نظامی اخیر را بی‌اثر کند."
-        ],
-        "impact": "این وضعیت بیشتر از اینکه نشانه «کاهش اهرم فشار» باشد، در عمل تثبیت محاصره و خرید زمان سیاسی در واشنگتن برای یک توافق سخت‌گیرانه‌تر است—با ریسک ادامه تنش و احتمال ازسرگیری عملیات اگر شروط هسته‌ای و راستی‌آزمایی محقق نشود.",
-        "tag": "تحریم_و_هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.35,
-        "source": "New York Post",
-        "url": "https://nypost.com/2026/05/24/us-news/trump-vows-iran-can-never-have-a-nuke-and-us-will-not-rush-into-a-deal-after-gop-senators-criticize-draft-agreement/",
-        "clean_url": "https://nypost.com/2026/05/24/us-news/trump-vows-iran-can-never-have-a-nuke-and-us-will-not-rush-into-a-deal-after-gop-senators-criticize-draft-agreement",
-        "image": "http://www.bing.com/th?id=ONUT.sdxp76ZfCvuVPkM80-AqPA&pid=News",
-        "timestamp": 1779614880.0
-    },
-    {
-        "title_fa": "ترامپ و ایران در آستانه توافق برای بازگشایی تنگه هرمز؛ لغو محاصره در برابر تعیین‌تکلیف ذخایر اورانیوم غنی‌شده",
-        "title_en": "Trump, Iran near deal on re-opening Strait of Hormuz",
-        "summary": [
-            "طبق گزارش‌ها، دولت ترامپ و ایران بر سر «اصول» یک توافق برای بازگشایی تنگه هرمز هم‌خوانی پیدا کرده‌اند؛ بازگشایی‌ای که به گفته گزارش به‌دلیل انسداد پیشین، به افزایش قیمت گاز در آمریکا و جهان انجامیده است.",
-            "جزئیات نهایی هنوز مشخص نیست: نیویورک‌تایمز با استناد به یک مقام آمریکایی می‌گوید توافق وابسته به تأیید نهایی ترامپ و رهبر عالی ایران است؛ در همین چارچوب، گزارش CBS می‌گوید رهبر عالی ایران چارچوب کلی را تأیید کرده است.",
-            "مکانیزم پیشنهادی به این شکل مطرح شده: آمریکا در برابر توافق ایران برای «تعیین‌تکلیف ذخایر اورانیوم غنی‌شده» و هم‌زمان با لغو محاصره بنادر ایران (مربوط به تهدیدات علیه کشتی‌ها در تنگه هرمز) اقدام می‌کند؛ با این حال، گزارش می‌گوید توافق فعلی درباره موشک‌های ایران و همچنین توقف/محدودیت غنی‌سازی اورانیوم وارد نشده و این موارد باید بعداً مذاکره شوند."
-        ],
-        "impact": "این توافق بالقوه می‌تواند هم فشار امنیتی تنگه هرمز را کاهش دهد و هم مسیر کاهش هزینه‌های انرژی را باز کند، اما چون پرونده موشک و محدودیت غنی‌سازی عملاً به مذاکرات بعدی موکول می‌شود، ریسک تداوم اختلافات و بحران‌های جدید باقی می‌ماند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "The Hill",
-        "url": "https://thehill.com/homenews/administration/5893351-us-iran-agreement-strait-reopening/",
-        "clean_url": "https://thehill.com/homenews/administration/5893351-us-iran-agreement-strait-reopening",
-        "image": "http://www.bing.com/th?id=ONUT.zrqnf26d-NyvQmSfT33hnA&pid=News",
-        "timestamp": 1779614100.0
-    },
-    {
-        "title_fa": "انتقاد تند جمهوری‌خواهان از چارچوب «توافق در حال شکل‌گیری» ترامپ با ایران",
-        "title_en": "Ted Cruz, Thom Tillis and other Republicans criticize Trump's emerging Iran deal",
-        "summary": [
-            "سناتورها از جمله تد کروز و تام تیلیس به گزارش‌ها درباره چارچوب پیشنهادی ترامپ اعتراض کرده‌اند: یک آتش‌بس ۶۰ روزه در حالی‌که گفت‌وگوهای برنامه هسته‌ای ادامه دارد، اما طبق روایت‌ها الزام فوری برای خروج مواد هسته‌ایِ موجود در ایران وجود ندارد.",
-            "تد کروز این روند را «اشتباه فاجعه‌آمیز» خواند و تاکید کرد که اگر نتیجه، حفظ توان غنی‌سازی و توسعه سلاح هسته‌ای و همچنین کنترل مؤثر تنگه هرمز باشد، دولت عملاً به یک قدرت هسته‌ای با همان ساختار حکمرانی فعلی کمک کرده است.",
-            "تام تیلیس گفت که بر اساس درکی که دارد با این توافق همراه نخواهد شد و با اشاره به اظهارات پیت هگستث درباره «از بین بردن دفاع‌های ایران» پرسید چرا اکنون بحث پذیرش باقی‌ماندن مواد هسته‌ای در ایران مطرح است؛ او همچنین ساختار آتش‌بس ۶۰ روزه و شرط‌گذاری درباره تنگه هرمز را مبهم دانست و بر ضرورت نقش کنگره برای جلوگیری از شکست توافق‌های مشابه مثل توافق اوباما تاکید کرد."
-        ],
-        "impact": "این شکاف علنی درون‌حزبی می‌تواند مسیر هر چارچوبی را از نظر سیاسی و قانونی سخت کند، به‌ویژه اگر خروجی به «پذیرش واقعیات هسته‌ای» بدون تضمین‌های الزام‌آور برسد.",
-        "tag": "ایران-هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/article/ted-cruz-thom-tillis-and-other-republicans-criticize-trumps-emerging-iran-deal-153625510.html",
-        "clean_url": "https://www.yahoo.com/news/politics/article/ted-cruz-thom-tillis-and-other-republicans-criticize-trumps-emerging-iran-deal-153625510.html",
-        "image": "http://www.bing.com/th?id=ONUT.GwiD3D570w91J_Yi9YSV5Q&pid=News",
-        "timestamp": 1779612000.0
     }
 ]
