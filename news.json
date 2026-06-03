@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "ایران و آمریکا در خلیج فارس تبادل ضربه‌ها دارند؛ آتش‌بس دوباره زیر فشار است",
+        "title_en": "Iran and the US trade strikes in the Persian Gulf, further testing the ceasefire",
+        "summary": [
+            "طبق گزارش WLTX، ایران و آمریکا در خلیج فارس درگیر «ضربه‌زنی/تبادل حمله» شده‌اند و همین موضوع مستقیماً «آتش‌بس» را تحت فشار قرار می‌دهد.",
+            "این رویداد نشان می‌دهد آتش‌بس شکننده است و حتی پس از اعلام یا انتظار از توقف درگیری، ادامه عملیات می‌تواند سریعاً تنش را دوباره بالا ببرد.",
+            "جزئیات فنی درباره اهداف، زمان‌بندی یا سطح خسارت در متن موجود نیامده؛ بنابراین ارزیابی را فقط می‌توان روی اثر سیاسی-عملی «تست شدن آتش‌بس» محدود کرد."
+        ],
+        "impact": "اگر تبادل ضربه‌ها تداوم پیدا کند، احتمال فرسایش آتش‌بس و حرکت به چرخه پاسخ‌ متقابل در خلیج فارس افزایش می‌یابد.",
+        "tag": "خلیج_فارس",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "WLTX",
+        "url": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
+        "clean_url": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
+        "image": null,
+        "timestamp": 1780480500.0
+    },
+    {
+        "title_fa": "روز ۹۶ جنگ؛ از سرگیری حملات آمریکا و ایران در گزارش الجزیره",
+        "title_en": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
+        "summary": [
+            "جزیره از ادامه درگیری در روز ۹۶ خبر می‌دهد و تصریح می‌کند که آمریکا و ایران در قالب «حملات جدید» علیه هم وارد دور تازه‌ای از عملیات شده‌اند.",
+            "چارچوب گزارش بر تشدید تقابل مستقیم/نیمه‌مستقیم میان دو طرف تاکید دارد، یعنی رقابت نظامی به جای فروکش‌کردن، ادامه یافته است.",
+            "در همین سطح از گزارش، جزئیات دقیق درباره اهداف، تلفات یا تاثیر اقتصادی مستقیم ارائه نشده و بنابراین نمی‌توان بر اساس متن ارسالی درباره پیامدهای داخلی با قطعیت نتیجه گرفت."
+        ],
+        "impact": "تداوم حملات جدید در روز ۹۶ نشان می‌دهد چرخه تقابل نظامی هنوز مهار نشده و هزینه‌ امنیتی و ریسک تشدید در کوتاه‌مدت بالا می‌ماند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/war-and-conflicts/military/what-s-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks/ar-AA24Hccb",
+        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/what-s-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks/ar-AA24Hccb",
+        "image": null,
+        "timestamp": 1780475798.0
+    },
+    {
+        "title_fa": "آغاز دور جدید حملات آمریکا و ایران؛ اعلام کویت از اصابت پهپادهای ایرانی به فرودگاه",
+        "title_en": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+        "summary": [
+            "طبق گزارش BBC، همزمان با «حملات جدید» میان آمریکا و ایران، کویت اعلام کرده است که فرودگاه این کشور هدف «پهپادهای ایرانی» قرار گرفته است؛ نشانه‌ای از گسترش تهدید مستقیم فراتر از مرزهای دو طرف.",
+            "هم‌زمانی درگیری‌های نظامی دو کشور و ادعای کویت درباره هدف قرار گرفتن یک زیرساخت غیرنظامی، ریسک تشدید سریع را بالا می‌برد و فضای تصمیم‌گیری سیاسی را به سمت پاسخ‌های متقابل سوق می‌دهد.",
+            "این رویداد مستقیماً به فشار امنیتی و بی‌ثباتی منطقه‌ای می‌افزاید؛ با این حال، مقاله جزئیات بیشتری درباره نوع حمله و تلفات یا واکنش‌های دقیق دولت‌ها ارائه نمی‌کند، بنابراین نتیجه‌گیری قطعی درباره ابعاد کامل عملیات فقط بر اساس همین گزارش ممکن نیست."
+        ],
+        "impact": "این حمله ادعاشده علیه زیرساخت فرودگاهی در کویت، هزینه امنیتی برای منطقه را بالا می‌برد و احتمال چرخه پاسخ‌به‌پاسخ را تشدید می‌کند.",
+        "tag": "درگیری",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQlY0SWk3SW1lWWlyN19nN0VHNklGQ2xvVm04LU8zajZpWEZaOXVaWTk3YmZpRmFLYWUwQVc3T3pMMXc1dWdVZkdsVzVVajUzZllhN29aYVJJdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IQlY0SWk3SW1lWWlyN19nN0VHNklGQ2xvVm04LU8zajZpWEZaOXVaWTk3YmZpRmFLYWUwQVc3T3pMMXc1dWdVZkdsVzVVajUzZllhN29aYVJJdw",
+        "image": null,
+        "timestamp": 1780469654.0
+    },
+    {
         "title_fa": "آغاز دور جدید حملات آمریکا و ایران پس از بن‌بست مذاکرات آتش‌بس",
         "title_en": "US and Iran launch new strikes as ceasefire negotiations stalled",
         "summary": [
@@ -18,6 +72,42 @@
         "timestamp": 1780458053.0
     },
     {
+        "title_fa": "اظهارات ایران درباره «عدم اجازه برای پیشروی آمریکا» در مذاکرات (به‌روایت Firstpost)",
+        "title_en": "Iran Israel War Live Updates: 'Will not allow US to overreach in negotiations,' says Iran",
+        "summary": [
+            "Firstpost فقط به یک خبر اظهاراتی اشاره می‌کند: ایران می‌گوید «اجازه نخواهد داد آمریکا در مذاکرات پیشروی کند»؛ محتوای دقیق بیانیه یا زمینه امنیتی/مذاکره‌ای ارائه نشده است.",
+            "این نوع پیام‌ها بیشتر کارکرد بازدارندگی روانی و چانه‌زنی سیاسی دارد تا گزارش یک رخداد عملیاتی؛ هیچ داده‌ای درباره حمله، تلفات، یا توافق مشخص منتشر نشده است.",
+            "در متن حاضر نشانه‌ای از تشدید تحریم‌ها، اقدام مستقیم علیه دارایی‌های رژیم، یا موج اعتراضات داخلی ارائه نشده و ابعاد اقتصادی/امنیتی قابل راستی‌آزمایی در اختیار نیست."
+        ],
+        "impact": "در کوتاه‌مدت اثر اصلی آن افزایش فشار لفظی و تثبیت موضع مذاکره است، بدون اینکه از متن گزارش بتوان تشدید واقعی یا اقدام نظامی را نتیجه گرفت.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/world/iran-israel-war-updates-us-iran-talks-strait-of-hormuz-israel-lebanon-strikes-trump-rubio-liveblog-14018162.html",
+        "clean_url": "https://www.firstpost.com/world/iran-israel-war-updates-us-iran-talks-strait-of-hormuz-israel-lebanon-strikes-trump-rubio-liveblog-14018162.html",
+        "image": "http://www.bing.com/th?id=ONUT.vPbvy5Fmb0q8wpWl3q6x8A&pid=News",
+        "timestamp": 1780455900.0
+    },
+    {
+        "title_fa": "افزایش درگیری‌ها و جهش نفت؛ بن‌بست گفت‌وگوها به تنگه هرمز ضربه می‌زند",
+        "title_en": "Hostilities flare in Iran war, oil jumps with talks at a stalemate",
+        "summary": [
+            "پس از بالا گرفتن درگیری‌ها، آمریکا چند موشک ایرانی را رهگیری و شماری را نیز رهسپار نکرد؛ هم‌زمان حمله به جزیره قشم گزارش شده و تهران این وضعیت را ادامه‌دار می‌داند.",
+            "توضیح مقامات آمریکایی بر تداوم گفت‌وگوهاست، اما تهران می‌گوید ارتباطات متوقف شده؛ نتیجه عملی این شکاف، تشدید ریسک درگیری بدون کانال قابل اتکا برای کاهش تنش است.",
+            "بستن یا تهدید بستن تنگه هرمز، جریان انرژی جهان را مختل کرده و همین عامل به جهش قیمت نفت انجامیده است؛ بنابراین حتی بدون توافق، بازارها عدم‌قطعیت و امکان اختلال جدی‌تر را قیمت‌گذاری کرده‌اند."
+        ],
+        "impact": "بن‌بست ارتباطی همراه با اختلال در مسیر حیاتی تنگه هرمز، هم ریسک نظامی را بالا می‌برد و هم هزینه‌های اقتصادی برای اقتصاد ایران و بازار جهانی انرژی را فوری‌تر می‌کند.",
+        "tag": "ایران-آمریکا",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/hostilities-flare-iran-war-oil-jumps-with-talks-stalemate-2026-06-03/",
+        "clean_url": "https://www.reuters.com/world/middle-east/hostilities-flare-iran-war-oil-jumps-with-talks-stalemate-2026-06-03",
+        "image": null,
+        "timestamp": 1780454700.0
+    },
+    {
         "title_fa": "عقب‌نشینی اسرائیل و ایران از تهدیدات پس از یک روز تنش",
         "title_en": "Israel and Iran Step Back From Threats After Day of Tension",
         "summary": [
@@ -34,6 +124,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0doYXZBSjJCdjlYOVhxM25obDN5MXBRWmRyRFNPdEZycjZnb0EyR3FqZWNKQVN5VGg0NGwwclhKaXhtTU91Y254Tkd4UENuZjJQSmphaHI2dXBqTzRwN3FTdk5EVllmY2hQQzYzSUtTOWMzY3h1Q29Ed0xfT3B5elBJSWM",
         "image": null,
         "timestamp": 1780450860.0
+    },
+    {
+        "title_fa": "تازه‌ترین خبر: هدف‌گیری نیروهای آمریکا و تحرکات موشکی ایران در خلال آتش‌بس",
+        "title_en": "Iran live updates: Iran targets US forces, Kuwait airport amid ceasefire",
+        "summary": [
+            "این گزارش می‌گوید ایران موشک‌های بالستیک به سمت همسایگان منطقه هدف گرفته؛ آمریکا آن را به عنوان اقدام علیه نیروهای آمریکایی در چارچوب تحولات جاری توصیف کرده است.",
+            "هم‌زمان با ادعای «آتش‌بس»، روایت خبری شامل تمرکز بر «کویت و فرودگاه» است که نشان می‌دهد ریسک برای زیرساخت‌های غیرنظامی منطقه در حال بالا رفتن است.",
+            "صرف‌نظر از روایت‌های سیاسی، پیام راهبردی روشن است: شکاف بین ادعای آتش‌بس و اقدامات تهاجمی، اعتبار تعهدات را فرسایش می‌دهد و احتمال پاسخ نظامی را بیشتر می‌کند."
+        ],
+        "impact": "این نوع حمله می‌تواند چرخه تشدید را فعال کند و هزینه امنیتی برای بازیگران منطقه‌ای و نیروهای آمریکا را به‌طور فوری بالا ببرد.",
+        "tag": "escalation",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ABC News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-us-conducts-strikes-after-iranian-missile-attacks-centcom-says/ar-AA24wONr",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-us-conducts-strikes-after-iranian-missile-attacks-centcom-says/ar-AA24wONr",
+        "image": "http://www.bing.com/th?id=ONUT.DL5MlcljB6NuP2DfLiEJrQ&pid=News",
+        "timestamp": 1780448175.0
+    },
+    {
+        "title_fa": "درگیری ایران و آمریکا؛ کویت: حمله ایران به فرودگاه اصلی آسیب زده است",
+        "title_en": "Iran War Live Updates: Kuwait Says Iranian Attack Has Damaged Its Main Airport",
+        "summary": [
+            "بر اساس گزارش، در طول شب هم آمریکا و هم ایران از «حمله/تیراندازی» خبر داده‌اند و هر طرف دیگری را آغازگر معرفی می‌کند؛ همین وضعیت روایت‌های متعارض، قطع راه برای مدیریت سریع بحران را سخت‌تر می‌کند.",
+            "کویت اعلام کرده حمله ایران به فرودگاه اصلی این کشور آسیب زده است؛ این یعنی ابعاد درگیری از مرزهای صرفاً دوجانبه خارج شده و احتمال واکنش‌های منطقه‌ای افزایش می‌یابد.",
+            "وضعیت تلاش‌های دیپلماتیک برای پایان جنگ روشن نیست؛ بنابراین رژیم و طرف آمریکایی فعلاً در فاز تشدید عمل می‌کنند نه مهار."
+        ],
+        "impact": "ورود آسیب به زیرساخت حیاتی در کویت، ریسک گسترش درگیری و شکل‌گیری پاسخ‌های منطقه‌ای و حتی تقابل مستقیم‌تر را بالا می‌برد.",
+        "tag": "escalation",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
+        "clean_url": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
+        "image": "http://www.bing.com/th?id=ONUT.G3JwzFCDm64jvUqjFdaDgA&pid=News",
+        "timestamp": 1780441260.0
     },
     {
         "title_fa": "اصرار ترامپ بر ادامه مذاکرات با ایران؛ همزمان رویارویی فوری با کنگره",
@@ -5273,131 +5399,5 @@
         "clean_url": "https://www.nytimes.com/live/2026/05/27/world/iran-war-trump-deal",
         "image": "http://www.bing.com/th?id=ONUT.qmYKNl-TOCwyhxO0WKStPA&pid=News",
         "timestamp": 1779863700.0
-    },
-    {
-        "title_fa": "بدبینی عمیق نسبت به آمریکا در تهران؛ همزمان با بررسی تفاهم برای پایان جنگ و درگیری تازه در تنگه هرمز",
-        "title_en": "‘Deep suspicion’ of US lingers as Iran ponders agreement to end war",
-        "summary": [
-            "ابوالقاسم مقتدایی تأکید کرد «اصل بنیادین، بی‌اعتمادی به آمریکا» است؛ هم‌زمان با بازگشت هیئت پارلمانی به ریاست محمدباقر قالیباف از قطر و تلاش برای رسیدن به تفاهم جهت پایان جنگ نزدیک به سه‌ماهه.",
-            "وزارت امور خارجه آمریکا را «نقض آشکار» آتش‌بس شکننده ۸ آوریل دانست؛ حمله به استان هرمزگان و واکنش‌های متقابل (از جمله ادعای سرنگونی یک پهپاد RQ-4 با سامانه پدافندی داخلی «اراش‌ـه کامنگیر») برای تهران «تأیید بدبینی عمیق» توصیف شد.",
-            "در حالی که دو طرف بر سر جزئیات یک تفاهم‌نامه (MoM) برای افزایش عبور کشتی‌ها در تنگه هرمز و همچنین دسترسی ایران به بخشی از پول‌های مسدودشده بحث می‌کنند، گزارش اطلاعات دریایی بریتانیا از یک انفجار خارجی و نشت سوخت در نزدیکی عمان (حدود ۶۰ مایل دریایی شرق مسقط) بدون اظهار نظر رسمی ایران مطرح شد."
-        ],
-        "impact": "این ترکیب از نقض آتش‌بس، رخدادهای دریایی و محاسبه سیاسی تهران درباره «وقفه عملیاتی» می‌تواند روند مذاکره را شکننده کرده و زمینه چرخه جدید تشدید را فراهم کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/world/articles/deep-suspicion-us-lingers-iran-060341691.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/deep-suspicion-us-lingers-iran-060341691.html",
-        "image": null,
-        "timestamp": 1779861843.0
-    },
-    {
-        "title_fa": "پیشروی مذاکرات آمریکا-ایران با سایه رد پاکستان و آزادسازی ۱۰ ملوان هندی؛ هشدارهای سپاه برای پاسخ",
-        "title_en": "US and Iran news LIVE: Trump's Abraham Accords push gets a rare 'no' from Pak; Tehran releases 10 Indian sailors",
-        "summary": [
-            "طبق گزارش، مذاکرات صلح آمریکا-ایران به سمت یک توافق نزدیک شده و همزمان اختلاف‌ها بر سر تحریم‌ها و برنامه هسته‌ای باقی است؛ در همین چارچوب، ایران به‌صورت تلویحی در فضای فشار خارجی و بن‌بست‌های فنی-سیاسی حرکت می‌کند، نه در فضای توافق روشن.",
-            "هم‌زمان با این روند، ادعای «ضربه دوباره به هرمز» از سوی آمریکا مطرح شده و سپاه پاسداران هشدار داده که در صورت ادامه شرایط، «پاسخ» خواهد داد؛ این یعنی مسیر توافق، با ریسک درگیری کنترل‌نشده امنیتی در تنگه هرمز پیش می‌رود.",
-            "تهران ۱۰ ملوان هندی را آزاد کرده است و همچنین «پک» در چارچوب ابتکار/فشارهای سیاسی مرتبط با آبرامز آکوردز، اعلام «نه» داشته؛ این دو خبر نشان می‌دهد که هم‌زمان با چانه‌زنی واشنگتن-تهران، گره‌های منطقه‌ای و تعامل با بازیگران ثالث می‌تواند بر سرعت و هزینه توافق اثر بگذارد."
-        ],
-        "impact": "ترکیب اختلاف بر سر تحریم‌ها، حساسیت امنیتی هرمز و تلاش ایران برای مدیریت هزینه‌های بین‌المللی با آزادی ملوانان، نشان می‌دهد توافق ممکن است جلو برود اما ریسک تشدید تنش همچنان بالاست.",
-        "tag": "ایران-آمریکا",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "Hindustan Times",
-        "url": "https://www.msn.com/en-in/news/world/us-and-iran-news-live-trumps-abraham-accords-push-gets-a-rare-no-from-pak-tehran-releases-10-indian-sailors/ar-AA248Rb0",
-        "clean_url": "https://www.msn.com/en-in/news/world/us-and-iran-news-live-trumps-abraham-accords-push-gets-a-rare-no-from-pak-tehran-releases-10-indian-sailors/ar-AA248Rb0",
-        "image": "https://www.hindustantimes.com/ht-img/img/2026/05/27/550x309/USA-TRUMP-FEDERAL-WORKERS-0_1779843545212_1779843576256_20343740-7194-494c-bf80-ec8973fbc6e0.JPG",
-        "timestamp": 1779861060.0
-    },
-    {
-        "title_fa": "سناریوی توافق ترامپ با ایران؛ ضرورت مطالبه تسلیحاتی از سوی اسرائیل",
-        "title_en": "Trump may cut a deal with Iran and Israel must demand the weapons Obama refused to provide",
-        "summary": [
-            "ynetnews می‌گوید احتمال دارد ترامپ به سمت یک توافق با ایران حرکت کند و این پرونده می‌تواند موازنه امنیتی منطقه را تغییر دهد.",
-            "این رسانه تأکید می‌کند اسرائیل باید در برابر چنین روندی، تسلیحاتی را مطالبه کند که اوباما از ارائه آن خودداری کرده بود؛ یعنی خط مطالبه‌گری اسرائیل باید روی شکاف تسلیحاتیِ باقی‌مانده از دوره پیشین متمرکز شود.",
-            "صورت‌بندی خبر بیشتر «هشدار استراتژیک» برای اقدام اسرائیل است تا یک گزارش قطعی از محتوای توافق؛ جزئیات زمان‌بندی، شرط‌گذاری‌ها و خطوط توافق مشخص نشده است."
-        ],
-        "impact": "اگر توافق شکل بگیرد، اسرائیل احتمالاً مجبور می‌شود برای جلوگیری از برهم‌خوردن برتری امنیتی‌اش، روی دریافت یا تضمین‌های تسلیحاتی به‌عنوان اهرم بازدارندگی جدید فشار بیاورد.",
-        "tag": "توافق",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "ynetnews",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdFBYTEUzODZIT3ZJTmJzM2ttQ0ZPNVpwY0NvU3V3dmMyTm9OcDd5dm1rdzhCbzNsUHVaWlVmSkZfOC1JV0tWUUhNLXpUNm5Bc2djSTNhNkNCV3drMDRZSThxSklKUDBmQmdnZHhR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1NdFBYTEUzODZIT3ZJTmJzM2ttQ0ZPNVpwY0NvU3V3dmMyTm9OcDd5dm1rdzhCbzNsUHVaWlVmSkZfOC1JV0tWUUhNLXpUNm5Bc2djSTNhNkNCV3drMDRZSThxSklKUDBmQmdnZHhR",
-        "image": null,
-        "timestamp": 1779858428.0
-    },
-    {
-        "title_fa": "ادعای ایران درباره تداوم تلاش واشنگتن/تل‌آویو برای تغییر رژیم؛ هم‌زمان افت نفت و بن‌بست مذاکرات بر سر تحریم و برنامه هسته‌ای",
-        "title_en": "US and Iran news live: Iran says US, Israel still seeking regime change after failed military campaign",
-        "summary": [
-            "ایران می‌گوید آمریکا و اسرائیل پس از ناکامی یک «کمپین نظامی» همچنان در پی تغییر رژیم هستند؛ این گزاره در فضای جنگ روانی برای سخت‌کردن موضع مذاکره‌کنندگان و تداوم ابهام سیاسی مطرح شده است.",
-            "هم‌زمان، نفت بیش از ۳٪ افت کرده است؛ معامله‌گران حرکت را به دو عامل گره زده‌اند: پیگیری گفت‌وگوهای صلح آمریکا-ایران و تشدید تنش‌ها پس از آن‌که کره جنوبی حمله به یک کشتی در تنگه هرمز را به موشک ایرانی نسبت داده است.",
-            "گفت‌وگوهای صلح دوباره به بن‌بست خورده؛ دلیل بن‌بست «تحریم‌ها» و «برنامه هسته‌ای» است. این یعنی فشار اقتصادی/سیاسی از مسیر مذاکرات پیش نمی‌رود و ریسک محاسبات اشتباه در بحران‌های امنیتی منطقه‌ای بالا می‌ماند."
-        ],
-        "impact": "افت نفت و بن‌بست مذاکرات نشان می‌دهد بازیگر رژیم در نقطه‌ای گیر کرده که هم فشار تحریم را پس می‌زند و هم هزینه ریسک امنیتی در تنگه هرمز را به اقتصاد و بازار تحمیل می‌کند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Hindustan Times",
-        "url": "https://www.msn.com/en-in/news/news/us-and-iran-news-live-oil-prices-drop-as-trump-weighs-next-move-amid-high-stakes-peace-talks-with-tehran/ar-AA248Rb0",
-        "clean_url": "https://www.msn.com/en-in/news/news/us-and-iran-news-live-oil-prices-drop-as-trump-weighs-next-move-amid-high-stakes-peace-talks-with-tehran/ar-AA248Rb0",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA24aPvw.img?w=550&h=309&m=4&q=95",
-        "timestamp": 1779844679.0
-    },
-    {
-        "title_fa": "ین نزدیک محدوده مداخله بانک مرکزی در نوسان است؛ معامله‌گران ریسک‌های خاورمیانه را می‌سنجند",
-        "title_en": "Yen hovers near intervention zone as traders weigh Middle East risks",
-        "summary": [
-            "این گزارش به‌طور مستقیم می‌گوید ین نزدیک «منطقه مداخله» قرار دارد؛ یعنی بازارها احتمال دخالت برای مهار نوسان ارزی را جدی می‌گیرند.",
-            "علت اصلی نوسان، ارزیابی معامله‌گران از ریسک‌های مرتبط با خاورمیانه است؛ بنابراین محرک، فضای ژئوپلیتیک و انتظار به اختلالات احتمالی در تجارت/ریسک‌های مالی است، نه یک خبر داخلی ثابت و قطعی.",
-            "برای ایران، پیام ضمنی این وضعیت این است که تشدید ریسک‌های منطقه‌ای می‌تواند هزینه‌های پوشش ریسک (ریسک‌پریمیوم) و بی‌ثباتی مالی را بالا ببرد؛ اما در متن Reuters هیچ ارتباط مستقیم یا اقدام مشخص علیه رژیم ایران گزارش نشده است."
-        ],
-        "impact": "نزدیک بودن ین به محدوده مداخله، نشان‌دهنده حساسیت بالای بازار به شوک‌های منطقه‌ای و افزایش بی‌ثباتی مالی است، بدون اینکه در این گزارش، داده‌ای از فشار مشخص علیه ایران ارائه شود.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/money/economy/yen-hovers-near-intervention-zone-as-traders-weigh-middle-east-risks/ar-AA248My8",
-        "clean_url": "https://www.msn.com/en-us/money/economy/yen-hovers-near-intervention-zone-as-traders-weigh-middle-east-risks/ar-AA248My8",
-        "image": null,
-        "timestamp": 1779843840.0
-    },
-    {
-        "title_fa": "سختیِ توافق با ایران با «بازی» ابرهام آکوردز ترامپ بیشتر می‌شود",
-        "title_en": "Opinion | An Iran deal is hard enough. Trump's Abraham Accords gambit is making it harder.",
-        "summary": [
-            "این مطلب یک تحلیل نظری است و مدعی می‌شود تلاش‌های ترامپ برای پیشبرد «ابرهم آکوردز» عملاً مسیر رسیدن به توافق با ایران را پیچیده‌تر می‌کند؛ اما هیچ داده یا رویداد قابل‌استنادِ مشخصی در متن ارائه نشده است.",
-            "استدلال اصلی روی اثرگذاریِ رقابت/هم‌پوشانیِ ابتکارات منطقه‌ای آمریکا بر محاسبات ایران و بازیگران طرف توافق تمرکز دارد: یعنی ابزارهای دیپلماتیکِ موازی می‌توانند اهرم‌های مذاکره را محدود یا شرایط را برای توافق دشوارتر کنند.",
-            "چون منبع صرفاً «نظر» است، درباره تحولات تحریمیِ جدید، اقدامات اجرایی دقیق، یا واکنش مشخص مقامات/بازیگران منطقه‌ای چیزی اثبات‌شده ارائه نمی‌شود و بنابراین نمی‌توان پیامدهای مستقیم اقتصادی یا امنیتی را به شکل قطعی به این گزاره نسبت داد."
-        ],
-        "impact": "اثر این گزارش بیشتر در سطح تحلیل سیاسی است و شواهد اجراییِ مشخص برای سنجش پیامد مستقیم بر فشار اقتصادی یا ثبات رژیم ارائه نمی‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "MS NOW",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNMFFNaFNVSDBMVHBsOXdTNVJGbF9fSExrT0thcU5QSFNzSFJ3T3IyTjh6a08tdTc1MGhiTEdTaHlNcHlmT0l5V0JFU3B6cEFrZ2ZpSTNDZVNEbWtEZG5TRW5ZRnltT1RMYWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBNMFFNaFNVSDBMVHBsOXdTNVJGbF9fSExrT0thcU5QSFNzSFJ3T3IyTjh6a08tdTc1MGhiTEdTaHlNcHlmT0l5V0JFU3B6cEFrZ2ZpSTNDZVNEbWtEZG5TRW5ZRnltT1RMYWc",
-        "image": null,
-        "timestamp": 1779840838.0
-    },
-    {
-        "title_fa": "روز جنگ ۸۹: حملات لبنان به کشته‌شدن ۳۱ نفر انجامید؛ تشدید عملیات زمینی اسرائیل و بالاگرفتن تنش‌های آتش‌بس",
-        "title_en": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
-        "summary": [
-            "در جنوب و شرق لبنان، حملات اسرائیلی دست‌کم ۳۱ کشته و ۴۰ زخمی برجای گذاشت؛ همزمان ده‌ها دستور جابه‌جایی صادر شد و نیروهای زمینی اسرائیل—بر اساس گزارش‌ها—عمق بیشتری به خاک لبنان وارد شدند و موج وحشت و فرار ایجاد کرد.",
-            "هم‌زمان، ایران و آمریکا بر سر «نقض آتش‌بس» درگیر جدال لفظی شدند: ایران حملات آمریکا به جنوب ایران (نزدیک تنگه هرمز) را «نقض آشکار» خواند و آمریکا آن را دفاعی و هدف‌گیری سایت‌های موشکی و شناورها برای مین‌گذاری توصیف کرد.",
-            "در جبهه دیپلماسی و فشار خارجی، ایران هم‌زمان پیگیری آزادسازی ۲۴ میلیارد دلار از دارایی‌های مسدودشده را از کانال مذاکرات ادامه می‌دهد، و از سوی دیگر بخشی از اینترنت پس از یک «توقیف طولانی‌مدت سراسری» طبق NetBlocks به‌تدریج بازمی‌گردد."
-        ],
-        "impact": "تشدید عملیات زمینی و حملات متقاطع، آتش‌بس را شکننده‌تر می‌کند و در عین حال هم‌زمان نشان می‌دهد مدیریت بحران در داخل (کنترل اینترنت) و اهرم اقتصادی (دارایی‌های بلوکه) به ابزارهای بقا و چانه‌زنی بدل شده است.",
-        "tag": "لبنان",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise",
-        "clean_url": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise",
-        "image": "http://www.bing.com/th?id=ONUT.zr1JbY4IE-ymL0EN_ME7ew&pid=News",
-        "timestamp": 1779840060.0
     }
 ]
