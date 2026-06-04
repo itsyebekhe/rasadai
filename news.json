@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ادامه عملیات نظامی اسرائیل در لبنان با وجود اعلام آتش‌بس؛ پیام آشکار به رژیم‌های متکی به «کاهش فشار»",
+        "title_en": "Israel says military operations in Lebanon will continue despite ceasefire announcement",
+        "summary": [
+            "طبق گزارش NBC News، اسرائیل اعلام کرده عملیات نظامی در لبنان را «ادامه می‌دهد» حتی پس از اعلام آتش‌بس؛ یعنی آتش‌بس به‌عنوان ابزار فشار سیاسی یا مدیریت بحران برای توقف واقعی عملیات پذیرفته نشده است.",
+            "این وضعیت مستقیماً ریسک تشدید خشونت را بالا می‌برد و به شکل ساختاری توان هر بازیگر منطقه‌ای برای استفاده از «فاز آرام‌تر» جهت بازتنظیم نیروها یا کاهش هزینه‌های امنیتی را محدود می‌کند.",
+            "از منظر تحلیل واقع‌گرایانه برای ثبات منطقه‌ای، ادامه عملیات یعنی محاسبات بازدارندگی و کنترل میدانی غالب است؛ پیام برای طرف‌هایی که به طولانی شدن بحران و فرسایش تکیه دارند روشن‌تر می‌شود، اما متن گزارش جزئیات مشخصی از اثر اقتصادی یا داخلی ایران ارائه نمی‌کند."
+        ],
+        "impact": "ادامه عملیات باوجود آتش‌بس، احتمال تداوم بحران و افزایش ریسک‌های امنیتی منطقه‌ای را بالا می‌برد و فضا برای کاهش تنش واقعی را تنگ می‌کند.",
+        "tag": "لبنان",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "NBC News",
+        "url": "https://www.msn.com/en-in/news/other/us-iran-news-live-israel-says-lebanon-ops-to-continue-despite-trump-s-truce-announcement-strikes-reported/ar-AA24MQHM",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-iran-news-live-israel-says-lebanon-ops-to-continue-despite-trump-s-truce-announcement-strikes-reported/ar-AA24MQHM",
+        "image": null,
+        "timestamp": 1780561560.0
+    },
+    {
         "title_fa": "تصویب توقف «جنگ با ایران» در مجلس نمایندگان آمریکا؛ اقدام تنبیهی علیه رویکرد ترامپ",
         "title_en": "US House votes to halt Iran war, in rebuke to Trump",
         "summary": [
@@ -340,6 +358,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-nuclear-risk-seen-higher-than-before-trump-attacks-began/ar-AA24JKaa",
         "image": null,
         "timestamp": 1780490855.0
+    },
+    {
+        "title_fa": "اختلاف اصلی بر سر «جبران/پرداخت پولی» در مذاکرات ایران و آمریکا و حساسیت ترامپ نسبت به مقایسه با توافق اوباما",
+        "title_en": "Monetary compensation becomes key sticking point in Iran deal as Trump bristles at comparison to Obama agreement",
+        "summary": [
+            "طبق گزارش CNN، گره اصلی در مذاکرات آمریکا و ایران «جبران/پرداخت‌های پولی» است که هنوز در جزئیات حل نشده و به عنوان نقطه گیر باقی مانده است.",
+            "ترامپ نسبت به این‌که توافق جدید از نظر معیارهای عمومی «برتر» از توافق دوره اوباما دیده شود حساس است و همین نگرانی، فشار سیاسی برای چیدن بندی متفاوت در سازوکار پرداخت ایجاد کرده است.",
+            "این چارچوب نشان می‌دهد حتی قبل از ورود به جزئیات فنی، مناقشه بر سر نحوه و ماهیت پرداخت‌های مالی می‌تواند روند معامله را کند یا متوقف کند."
+        ],
+        "impact": "اگر تکلیف «جبران پولی» روشن نشود، احتمالاً توافق نهایی با تاخیر یا شکست مذاکراتی روبه‌رو می‌شود و هزینه سیاسی برای هر دو طرف بالا می‌رود.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/monetary-compensation-becomes-key-sticking-point-in-iran-deal-as-trump-bristles-at-comparison-to-obama-agreement/ar-AA24LvnZ",
+        "clean_url": "https://www.msn.com/en-us/news/politics/monetary-compensation-becomes-key-sticking-point-in-iran-deal-as-trump-bristles-at-comparison-to-obama-agreement/ar-AA24LvnZ",
+        "image": "http://www.bing.com/th?id=ONUT.OgGY5ju8ia2Qw0Qpa5r8jQ&pid=News",
+        "timestamp": 1780488467.0
     },
     {
         "title_fa": "ترامپ: ایران «از قبل» با کنار گذاشتن جاه‌طلبی سلاح هسته‌ای موافقت کرده است؛ تاکید بر ادامه گفت‌وگوها",
@@ -5363,41 +5399,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdFNTQXNINjRqc1FHeG93UEZZbXlpcDNYSnlpekRXc2FvbEVFVWRwTE5randSbVRqOXpSYVMyT2VqQ2ltc3lTR25GYWFYODN6QVJObi03T19RMUI4MjJkcG5iam5Oc2NKWUZ4SWw2enVyWUdSLWVjcEMwdkZQN05IMkxBS1hIdzZ3UWY5aWN3Nk1idTFRS3ZYU1U1OUQtcXBrQi0ydmJsYkhvb1lTOFl5M1ljVy1PQdIBuwFBVV95cUxPNVVsUlFXbE5tSENqWHFIOS1HbDZ4aDhWd0JIbk4yWGx4LU1Ga1FlMkdUOHM5S1Y1Ull4alI5SkNhWUdwWGxqcUJ1RDIxY1d2RlNMS1puRjFQaU5pR3YzeW5aYWF4LW5JdXA1cnRBTkZ0dGg3ajVfYWR2VlJJeGdWUkRqeGU4cjVmLVlRU2w2Qmh4VTg4dnlHQmVfd3dPNThFeU5SMi1DN29iVXFBSW5wNnp6d0pya3BmaWVz",
         "image": null,
         "timestamp": 1779906150.0
-    },
-    {
-        "title_fa": "ترامپ: آمریکا از توافق با ایران «راضی نیست»",
-        "title_en": "Donald Trump says US 'not satisfied' with Iran deal yet",
-        "summary": [
-            "ترامپ اعلام کرده ایالات متحده با توافق ایران هنوز «رضایت» ندارد، یعنی رویکرد واشینگتن وارد مرحله ارزیابی/فشار مجدد شده است.",
-            "این پیام می‌تواند به معنای تداوم یا تشدید مطالبه‌گری درباره شروط توافق باشد، بدون اینکه در متن خبری جزئیات تغییرات مشخص ارائه شود.",
-            "از نظر اثرگذاری بر ایران، چنین اظهارنظرهایی ریسک بی‌ثباتی انتظارات اقتصادی و دیپلماتیک را بالا می‌برد، چون بازار و طرف‌های درگیر نمی‌دانند آمریکا در نهایت چه چارچوبی را خواهد پذیرفت."
-        ],
-        "impact": "اظهار «عدم رضایت» احتمال بازتولید فشار سیاسی و عدم قطعیت اجرایی پیرامون توافق را افزایش می‌دهد، که به‌طور مستقیم هزینه ریسک برای اقتصاد ایران را بالا می‌برد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/world/trump-says-us-not-satisfied-yet-on-deal-with-iran/ar-AA24de9n",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-us-not-satisfied-yet-on-deal-with-iran/ar-AA24de9n",
-        "image": null,
-        "timestamp": 1779903453.0
-    },
-    {
-        "title_fa": "واشنگتن پس از رد ادعای «توافق فریم‌ورک» درباره تنگه هرمز، حمله هوایی جدید علیه ایران را اعلام کرد",
-        "title_en": "US strikes Iran again, official says, after Trump denies deal on Strait of Hormuz",
-        "summary": [
-            "خبرگزاری راسخات (رویترز) گزارش می‌کند آمریکا «یک بار دیگر» به مواضع/دارایی‌های ایران ضربه زده است؛ مقام آمریکایی گفته این اقدام بعد از انکار دونالد ترامپ درباره وجود معامله برای تنگه هرمز انجام شده است.",
-            "هم‌زمان، واشنگتن گزارش تلویزیون دولتی ایران درباره چارچوبِ توافق برای بازگرداندن کشتیرانی از تنگه هرمز ظرف یک ماه را رد کرده؛ یعنی از نظر آمریکا چنین چارچوبی شکل نگرفته یا جدی نیست.",
-            "این تقابل رسانه‌ای میان ادعای «کاهش تنش/توافق» در ایران و پاسخ «ردِ معامله + اقدام نظامی» در آمریکا، نشان‌دهنده بن‌بست در مسیر دیپلماسی و فشار مستقیم برای وادار کردن رفتار ایران است، نه یک روند تثبیت‌شده."
-        ],
-        "impact": "افزایش ریسک برخورد مستقیم و بی‌ثباتی در مسیر کشتیرانی خلیج فارس می‌تواند هزینه‌های عملیاتی و فشار اقتصادی را بالا ببرد و هم‌زمان فضا برای توافق‌های واقعی را تنگ‌تر کند.",
-        "tag": "escalation",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/iran-could-open-strait-hormuz-within-month-if-terms-agreed-state-tv-says-2026-05-27/",
-        "clean_url": "https://www.reuters.com/world/middle-east/iran-could-open-strait-hormuz-within-month-if-terms-agreed-state-tv-says-2026-05-27",
-        "image": null,
-        "timestamp": 1779901860.0
     }
 ]
