@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "گزارش آژانس: برنامه هسته‌ای ایران نسبت به آغاز جنگ تقریباً تغییری نکرده است",
+        "title_en": "Iran nuclear program relatively unchanged since start of war: IAEA",
+        "summary": [
+            "آژانس بین‌المللی انرژی اتمی بر اساس ارزیابی خود اعلام کرده برنامه هسته‌ای ایران «نسبتاً بدون تغییر» مانده و از زمان شروع جنگ، روند قابل‌توجهی که نشان‌دهنده عقب‌نشینی یا توقف عملی باشد، دیده نمی‌شود.",
+            "این یعنی فشارهای سیاسی/دیپلماتیک یا شوک‌های منطقه‌ای نتوانسته‌اند تصمیم هسته‌ای رژیم را تغییر دهند؛ نتیجه مستقیم برای سنجش ریسک برنامه‌هسته‌ای و مسیر آینده آن روشن است.",
+            "از منظر فشار خارجی، این وضعیت به نفع رژیم عمل می‌کند چون پیام «ثبات فعالیت هسته‌ای» می‌دهد و می‌تواند ظرفیت چانه‌زنی یا ادامه برنامه را تقویت کند، اما همزمان نگرانی از ادامه توان بالقوه را افزایش می‌دهد."
+        ],
+        "impact": "ثابت ماندن برنامه هسته‌ای از نگاه IAEA، نشان می‌دهد عامل بازدارنده مؤثرتر از وعده‌های سیاسی تاکنون بر تصمیم رژیم اثر نگذاشته است.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Hill",
+        "url": "https://www.msn.com/en-us/news/politics/iran-nuclear-program-relatively-unchanged-since-start-of-war-iaea/ar-AA24RxCJ",
+        "clean_url": "https://www.msn.com/en-us/news/politics/iran-nuclear-program-relatively-unchanged-since-start-of-war-iaea/ar-AA24RxCJ",
+        "image": null,
+        "timestamp": 1780600680.0
+    },
+    {
         "title_fa": "تصویر مبهم از ایران جنگ‌زده: شایعه تنش درون‌حاکمیت و استعفای گزارش‌شده",
         "title_en": "Rumours, rifts and a reported resignation form a murky picture of a war-ravaged Iran",
         "summary": [
@@ -16,6 +34,24 @@
         "clean_url": "https://www.abc.net.au/news/2026-06-05/wartime-iran-s-leadership-frictions-more-consequential-/106753196",
         "image": "https://live-production.wcms.abc-cdn.net.au/887e2b8e33eee224e28d571c18904f0f?impolicy=wcms_watermark_news&cropH=1434&cropW=2550&xPos=0&yPos=24&width=862&height=485&imformat=generic",
         "timestamp": 1780599000.0
+    },
+    {
+        "title_fa": "تلاش واشنگتن برای آتش‌بس خاورمیانه همزمان با تشدید فشار آمریکا بر تهران از مسیر تحریم صرافی کریپتو",
+        "title_en": "New round of Israel-Lebanon talks begin in Washington; US imposes sanctions on Iran's largest crypto exchange",
+        "summary": [
+            "در واشنگتن یک دور تازه از گفت‌وگوهای اسرائیل-لبنان آغاز شده و ترامپ می‌گوید احتمال دستیابی به توافق برای بازگشایی تنگه هرمز و تمدید آتش‌بس «در یک هفته آینده» وجود دارد؛ او همچنین به نتانیاهو درباره عقب‌کشیدن نیروها از بیروت فشار آورده است.",
+            "ترامپ ادعا می‌کند با نمایندگان حزب‌الله صحبت کرده و آنها به توقف حملات علیه نیروهای اسرائیلی رضایت داده‌اند، اما نتانیاهو می‌گوید اگر حزب‌الله شهرهای اسرائیلی را هدف بگیرد حملات ادامه می‌یابد و عملیات در جنوب لبنان طبق برنامه پیش می‌رود؛ همزمان مقامات لبنانی می‌گویند حزب‌الله پیشنهاد آتش‌بس مورد حمایت آمریکا را پذیرفته است.",
+            "همزمان با این روند دیپلماتیک، آمریکا تحریم‌های جدیدی علیه بزرگ‌ترین صرافی کریپتوی ایران اعمال کرده است؛ در متن همچنین به افزایش تنش‌های امنیتی اشاره می‌شود و گزارش‌های نظامی از حملات موشکی/پهپادی ایران به همسایگان و پاسخ‌های دفاعی آمریکا و کشورها آمده است."
+        ],
+        "impact": "این ترکیب یعنی فشار مالی-امنیتی آمریکا بر مسیرهای دور زدن تحریم و همزمان معامله روی آتش‌بس، می‌تواند هم قابلیت مانور رژیم را در اقتصاد سایه محدود کند و هم زمان تنش را برای تحکیم فشارهای بعدی در منطقه کوتاه‌تر کند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Gulf News",
+        "url": "https://gulfnews.com/world/mena/trump-says-israel-hezbollah-agree-to-halt-fighting-iran-talks-continue-at-rapid-pace-1.500560244",
+        "clean_url": "https://gulfnews.com/world/mena/trump-says-israel-hezbollah-agree-to-halt-fighting-iran-talks-continue-at-rapid-pace-1.500560244",
+        "image": "https://gumlet-images.assettype.com/gulfnews/2026-05-27/o8u7eubf/newsml_afp_com_20260527T000000Z_PH_GTY_2278476003.jpeg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "timestamp": 1780598760.0
     },
     {
         "title_fa": "نقض پیاپی آتش‌بس توسط ایران؛ نتانیاهو از مسیر دیپلماسی ترامپ درباره ایران حمایت می‌کند",
@@ -304,6 +340,24 @@
         "clean_url": "https://www.reuters.com/world/middle-east/first-iaea-report-irans-nuclear-programme-since-february-shows-little-change-2026-06-04",
         "image": "http://www.bing.com/th?id=ONUT.t9H8rCUlC21WIiuMGKo8RQ&pid=News",
         "timestamp": 1780558320.0
+    },
+    {
+        "title_fa": "افزایش فشار ایران بر ترامپ؛ حمله به فرودگاه کویت و تشدید در تنگه هرمز",
+        "title_en": "Iran ratchets up pressure on Trump with Kuwait airport attack",
+        "summary": [
+            "ایران با سومین حمله به کویت طی حدود یک هفته، الگوی فشار منطقه‌ای را تشدید کرده و روند درگیری را از اهداف کم‌اهمیت‌تر به «اهداف حساس‌تر» کشانده است.",
+            "این اقدام باعث شده تنش در تنگه هرمز، از مرحله درگیری محدودتر به مرحله حساس‌تر برای امنیت عبور و مرور دریایی و ریسک عملیاتی گسترش یابد.",
+            "گزارش تصریح می‌کند که این حمله به‌عنوان ضربه‌ای در چارچوب رویارویی با ترامپ به ارزیابی‌های امنیتی و سیاسی جدید دامن زده، اما جزئیات تکمیلی درباره عاملان یا نتایج میدانی در متن ارائه نشده است."
+        ],
+        "impact": "این حمله سطح ریسک امنیتی در تنگه هرمز را بالا می‌برد و می‌تواند واکنش سخت‌گیرانه‌تر دولت آمریکا یا هم‌پیمانان منطقه‌ای را محتمل کند.",
+        "tag": "هشدارامنیتی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-ratchets-up-pressure-on-trump-with-kuwait-airport-attack/ar-AA24Q5bO",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-ratchets-up-pressure-on-trump-with-kuwait-airport-attack/ar-AA24Q5bO",
+        "image": "http://www.bing.com/th?id=ONUT.onVXO6mrn7MPAMXxPRaMWA&pid=News",
+        "timestamp": 1780558020.0
     },
     {
         "title_fa": "تصویب توقف «جنگ با ایران» در مجلس نمایندگان آمریکا؛ اقدام تنبیهی علیه رویکرد ترامپ",
@@ -5345,59 +5399,5 @@
         "clean_url": "https://www.latimes.com/world-nation/story/2026-05-28/u-s-military-accuses-iran-of-ceasefire-violation-after-kuwait-comes-under-missile-attack",
         "image": "http://www.bing.com/th?id=ONUT.tJ_TBJtZOm4DCGLeF3XQog&pid=News",
         "timestamp": 1779958260.0
-    },
-    {
-        "title_fa": "تلاش برای معامله در شرایط فرسودگی و همزمانی با حملات جدید آمریکا علیه ایران",
-        "title_en": "Iran \"negotiating on fumes,\" Trump says, as U.S. conducts new strikes",
-        "summary": [
-            "ترامپ ادعا کرده ایران «در حال مذاکره روی دود و بخار» است و این برداشت را با عملیات نظامی آمریکا همراه کرده؛ همزمان خبر از برگزاری جلسه کابینه در کاخ سفید برای بررسی «توافق پایان‌دهنده جنگ با ایران» می‌دهد.",
-            "طبق گزارش CBS News، ایالات متحده در کنار بحث‌های مذاکره، «حملات جدید» را انجام داده است؛ یعنی کانال فشار نظامی همزمان با کانال دیپلماسی فعال است و پیام اهرمی جدی منتقل می‌کند.",
-            "در سطح تحلیلی، این ترکیب نشانه ضعف چانه‌زنی یا محدودیت‌های واقعی جمهوری اسلامی در میدان و میز مذاکره است، اما گزارش جزئیات مشخصی از موفقیت یا شکست مذاکرات، وضعیت اقتصاد، یا ماهیت اهداف حملات جدید ارائه نمی‌کند."
-        ],
-        "impact": "همزمانی «پالایش مذاکرات» با «حملات جدید» احتمالاً اهرم فشار آمریکا را در محاسبات تهران بیشتر می‌کند و فضا برای تصمیم‌های پرریسک را بالا می‌برد.",
-        "tag": "تحریم_و_فشار",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "CBS News",
-        "url": "https://www.msn.com/en-us/news/world/iran-negotiating-on-fumes-trump-says-as-us-conducts-new-strikes/vi-AA24ejST",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-negotiating-on-fumes-trump-says-as-us-conducts-new-strikes/vi-AA24ejST",
-        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/05/27/cd928686-1120-4cb6-a814-047d4f495e7d/thumbnail/620x413/6938269a601b2e01150b9e7d4e561247/lebanon-israel-strikes-2277804718.jpg#",
-        "timestamp": 1779954780.0
-    },
-    {
-        "title_fa": "هشدار آمریکا برای جلوگیری از دسترسی هواپیماهای ایران به سوخت‌گیری و فروش بلیت/فرود",
-        "title_en": "Iran, US-Israel war LIVE updates: US warns to block Iranian airlines from landing access, refuelling and ticket sales",
-        "summary": [
-            "طبق گزارش، آمریکا هشدار داده که برای مسدودسازی دسترسی شرکت‌ها/هواپیماهای ایران به «فرود»، «دسترسی سوخت‌گیری» و «فروش بلیت» اقدام خواهد شد؛ یعنی فشار عملیاتی مستقیم بر زیرساخت حمل‌ونقل هوایی رژیم.",
-            "این اقدام به‌عنوان بخشی از فشار خارجی، ظرفیت لجستیکی و انعطاف عملیاتی ایران در جابه‌جایی مسافر و تدارکات را محدود می‌کند و هم‌زمان هزینه‌های عملیاتی و ریسک را برای شبکه هوانوردی بالا می‌برد؛ اثرش بر ثبات داخلی به‌صورت غیرمستقیم از مسیر اختلال خدمات و فشار اقتصادی منتقل می‌شود.",
-            "در سطح سیاسی-امنیتی، چنین پیام‌هایی معمولاً با هدف کاهش امکان استفاده رژیم از کانال‌های بین‌المللی برای دور زدن محدودیت‌ها صادر می‌شوند و می‌تواند زمینه برای تشدید محدودیت‌های مالی/تجاری مرتبط با عملیات هوانوردی را فراهم کند؛ اما ارتباط مشخص با اعتراضات داخلی یا سقوط شاخص‌ها در متن داده نشده است."
-        ],
-        "impact": "مسدودسازی فرود و سوخت‌گیری برای هواپیماهای ایران فشار ساختاری و عملیاتی ایجاد می‌کند و توان دور زدن محدودیت‌ها را کاهش می‌دهد، بدون اینکه در متن نشانه مستقیم از فروپاشی داخلی یا اعتراضات لحظه‌ای ارائه شده باشد.",
-        "tag": "تحریم_عملیاتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Financial Express",
-        "url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-oil-price-today-us-strikes-hormuz-deal-lebanon-middle-east/4253038/",
-        "clean_url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-oil-price-today-us-strikes-hormuz-deal-lebanon-middle-east/4253038",
-        "image": "http://www.bing.com/th?id=ONUT._8JGt2OBMrzqWoUOoLGCwg&pid=News",
-        "timestamp": 1779950280.0
-    },
-    {
-        "title_fa": "ایران موشک به کویت شلیک کرد؛ همزمان اختلاف آتش با آمریکا و بن‌بست در مذاکرات تنگه هرمز تشدید شد",
-        "title_en": "Iran fires missile at Kuwait after second round of U.S. strikes in days",
-        "summary": [
-            "پس از «دور دوم» حملات به‌گفته پنتاگون علیه عملیات پهپادی، ایران می‌گوید یک پایگاه آمریکایی را هدف قرار داده و ادعا می‌کند آمریکا دوباره آتش‌بس را نقض کرده؛ در همان رخداد، مرکز فرماندهی آمریکا (CENTCOM) اعلام کرد کویت یک موشک ایرانی را رهگیری کرده و گزارشی از اصابت به پایگاه آمریکایی منتشر نشده است.",
-            "ترامپ با اشاره به مذاکرات، گفت ایران «روی نفس‌های آخر» مذاکره می‌کند و امکان دستور برای «تمام‌کردن کار» را رد نکرد؛ همزمان تلاش‌های دیپلماتیک برای تمدید آتش‌بس و بازگشایی تنگه هرمز تحت‌تأثیر تبادل جدید آتش قرار گرفته است.",
-            "اسکات بِسِنت، مسئول خزانه‌داری آمریکا، ایران را به «desperate for cash» بودن متهم کرد و به تلاش‌های تهران برای دریافت هزینه ترانزیت از کشتی‌ها در تنگه هرمز به‌عنوان نشانه‌ای از انگیزه مالی اشاره کرد و هشدار داد پرداخت به ایران می‌تواند ناقض تحریم‌های آمریکا باشد؛ در محور دیپلماسی، پاکستان اعلام کرد وزیر خارجه‌اش (ایشاق دار) با مارکو روبیو در واشنگتن دیدار می‌کند تا دیدگاه‌ها درباره تحولات اخیر را تبادل کنند."
-        ],
-        "impact": "این چرخه شلیک و رهگیری، شکاف میان روایت آمریکا و ادعای ایران درباره آتش‌بس را عمیق‌تر می‌کند و خطر افزایش تنش عملیاتی پیرامون تنگه هرمز را بالا می‌برد، در حالی که ابزار فشار مالی و بن‌بست پیشنهادهای ایران مانع جمع‌بندی مذاکره می‌شود.",
-        "tag": "تنش_نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/iran-claims-target-u-retaliation-105002000.html",
-        "clean_url": "https://www.aol.com/articles/iran-claims-target-u-retaliation-105002000.html",
-        "image": "http://www.bing.com/th?id=ONUT.Klkjt0G25JDns31pkuRrgA&pid=News",
-        "timestamp": 1779948720.0
     }
 ]
