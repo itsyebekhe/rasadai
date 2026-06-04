@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "تصویب توقف «جنگ با ایران» در مجلس نمایندگان آمریکا؛ اقدام تنبیهی علیه رویکرد ترامپ",
+        "title_en": "US House votes to halt Iran war, in rebuke to Trump",
+        "summary": [
+            "مجلس نمایندگان آمریکا رأی داده است تا روند «جنگ با ایران» متوقف شود؛ این تصمیم به‌طور مستقیم در چارچوب «سرزنش رویکرد ترامپ» گزارش شده است، یعنی واشنگتن داخلی نسبت به اختیاردهی برای تشدید درگیری‌ها دچار شکاف شده است.",
+            "این رأی، فشار خارجی را از حالت «اجازه برای حرکت به سمت عملیات نظامی» به «محدودسازی مسیر تصمیم‌گیری» تبدیل می‌کند و می‌تواند ریسک محاسباتی رژیم ایران برای تشدید یا ماجراجویی را کاهش دهد، چون دست بالا در واشنگتن یکدست نیست.",
+            "از منظر پیامدهای اقتصادی/سیاسی، توقف چنین روندی معمولاً فضای نااطمینانی بازار و امنیتی پیرامون خلیج فارس را کمی تغییر می‌دهد، اما چون خبر فقط «رأی توقف» را می‌گوید و جزئیات اجرایی/اثر مستقیم در تحریم یا سیاست مالی را ارائه نمی‌کند، نمی‌توان اثر فوری و قطعی بر اقتصاد رژیم را نتیجه گرفت."
+        ],
+        "impact": "این رأی می‌تواند اهرم آمریکا برای تشدید نظامی علیه ایران را موقتاً کند کند، اما تا وقتی جزئیات اجرا اعلام نشود، اثر آن بر اقتصاد و فشار واقعی قابل اندازه‌گیری قطعی نیست.",
+        "tag": "امریکا",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/politics/us-house-votes-to-halt-iran-war-in-rebuke-to-trump/ar-AA24LMa3",
+        "clean_url": "https://www.msn.com/en-us/news/politics/us-house-votes-to-halt-iran-war-in-rebuke-to-trump/ar-AA24LMa3",
+        "image": null,
+        "timestamp": 1780544170.0
+    },
+    {
+        "title_fa": "توافق اسرائیل و لبنان برای تمدید آتش‌بس؛ شرط‌گذاری برای مهار حزب‌الله و فشار غیرمستقیم آمریکا بر مسیر «معامله ایران»",
+        "title_en": "Israel and Lebanon agree to renew ceasefire as Trump seeks to overcome barriers to Iran deal",
+        "summary": [
+            "آمریکا اعلام کرد اسرائیل و لبنان برای اجرای آتش‌بس میان‌مدت توافق کرده‌اند؛ این آتش‌بس به «قطع کامل آتش» از سوی حزب‌الله (هم‌راستا با ایران) و تخلیه همه نیروها/عملیاتگران حزب‌الله از جنوب لبنان مشروط است.",
+            "طبق بیانیه مشترک آمریکا، طرفین همچنین «زون‌های پایلوت» ایجاد می‌کنند که در آن ارتش لبنان کنترل انحصاری سرزمین را به‌دست می‌گیرد و بازیگران غیردولتی از آن کنار گذاشته می‌شوند؛ در عین حال حزب‌الله در مذاکرات حضور نداشته و یک مقام آن می‌گوید آتش‌بس «جزئی» را نمی‌پذیرد.",
+            "این توافق پس از تداوم تبادل آتش در روزهای قبل و در پی مذاکرات مستقیم چهارم میان دیپلمات‌های لبنانی و اسرائیلی در واشنگتن رخ می‌دهد؛ هم‌زمان آمریکا تلاش می‌کند مانع اصلی رسیدن به «توافق گسترده‌تر» بر سر جنگ با ایران را دور بزند، در حالی که تهران می‌گوید جنگ‌ها را به هم مرتبط می‌داند و در اعتراض به عملیات اسرائیل در لبنان تهدید کرده مذاکرات صلح با آمریکا را تعلیق کند."
+        ],
+        "impact": "اگر آتش‌بس بر اساس شروط مرتبط با خلع نیروهای حزب‌الله و کنترل انحصاری ارتش لبنان اجرا نشود، مسیر کاهش درگیری‌ها و نیز تلاش آمریکا برای پیشبرد گفت‌وگوهای «ایران» دوباره وارد بن‌بست می‌شود.",
+        "tag": "iran-deal",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
+        "clean_url": "https://www.theguardian.com/world/2026/jun/04/israel-lebanon-renew-ceasefire-hezbollah-trump-iran-deal-middle-east-us",
+        "image": null,
+        "timestamp": 1780543320.0
+    },
+    {
+        "title_fa": "توافق اسرائیل و لبنان برای تمدید آتش‌بس مشروط به قطع حملات حزب‌الله",
+        "title_en": "Israel and Lebanon agree to renew ceasefire if Hezbollah cuts off attacks",
+        "summary": [
+            "طبق گزارش CBS News، اسرائیل و لبنان برای تمدید آتش‌بس توافق کرده‌اند، اما شرط اصلی این توافق این است که حزب‌الله حملات را متوقف کند.",
+            "این چارچوب نشان می‌دهد که استمرار آتش‌بس به عنوان یک ابزار فشار سیاسی-امنیتی عمل می‌کند و عدم توقف حملات می‌تواند کل روند تمدید را متوقف کند.",
+            "برای ایران، پیام ضمنی این است که ریسک تشدید یا کاهش فعالیت‌های نیابتی می‌تواند مستقیم به ثبات امنیتی مرزهای رژیم‌های درگیر گره بخورد؛ اما در متن خبر هیچ مدرکی درباره نقش مستقیم ایران یا تغییر سیاست تهران ارائه نشده است."
+        ],
+        "impact": "تمدید آتش‌بس مشروط، احتمال کاهش درگیری‌های فرامرزی را افزایش می‌دهد، ولی اگر شرط توقف حملات محقق نشود، زمینه برای برگشت چرخه خشونت فراهم می‌ماند.",
+        "tag": "منطقه",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "CBS News",
+        "url": "https://www.msn.com/en-us/news/world/israel-and-lebanon-agree-to-renew-ceasefire-if-hezbollah-cuts-off-attacks/ar-AA24Mmty",
+        "clean_url": "https://www.msn.com/en-us/news/world/israel-and-lebanon-agree-to-renew-ceasefire-if-hezbollah-cuts-off-attacks/ar-AA24Mmty",
+        "image": null,
+        "timestamp": 1780536660.0
+    },
+    {
         "title_fa": "تضاد روایت‌ها در گفت‌وگوهای جنگ: ایران «پیشرفت ملموس» نمی‌بیند، ترامپ از «نزدیکی معامله» می‌گوید",
         "title_en": "Iran says no 'tangible progress' in war talks, Trump says deal close",
         "summary": [
@@ -52,6 +106,24 @@
         "clean_url": "https://www.npr.org/2026/06/03/nx-s1-5845102/house-iran-war-powers-vote",
         "image": null,
         "timestamp": 1780523392.0
+    },
+    {
+        "title_fa": "سایه تردید بر دیپلماسی ایران: فاصله ادعاهای ترامپ با واقعیت پیشرفت و شدت تنش‌های منطقه",
+        "title_en": "A question looms over Iran diplomacy: Is Trump being straight with the American people?",
+        "summary": [
+            "ترامپ به شکل عمومی مدعی است «توافق نزدیک است» و «همه چیز در نهایت خوب پیش می‌رود»، اما پشت‌پرده‌ها طبق گفته منابع CNN از پیشرفت محدود در چارچوب یک یادداشت تفاهم اولیه حکایت دارد و نه یک توافق واقعی و جامع که ادعا می‌شود منافع امنیتی حیاتی مثل گشودن تنگه هرمز و مهار دائمی برنامه هسته‌ای را حل‌وفصل کند.",
+            "همزمان، لحن تهران کمتر از موضع‌گیری‌های ترامپ خوش‌بینانه و پرطمطراق توصیف شده؛ گزارش شده مذاکره‌کنندگان به‌دلیل حملات اسرائیل به لبنان حتی ارتباط را به‌طور کامل قطع کرده‌اند. این یعنی پیشرفت دیپلماتیک «پیوسته» نیست و بیشتر حالت مدیریتِ کلمات و توقف‌وحرکت دارد تا یک مسیر پایدار به توافق.",
+            "نام‌گذاری «آتش‌بس» هم زیر سؤال است: یک حمله ایرانی در جریان رویدادهای اخیر منجر به کشته‌شدن یک شهروند هندی در کویت (فرودگاه کویت) شده و تهران تلاش کرده به پایگاه‌های آمریکا در کویت و بحرین حمله کند (ناموفق گزارش شده). همچنین این حملات به‌عنوان پاسخ به حمله موشکی آمریکا به یک تانکر با پرچم بوتسوانا در مسیر صادرات نفت ایران و نقطه هاب خَرج معرفی شده است."
+        ],
+        "impact": "ترکیب شکاف میان پیام‌های تبلیغاتی دولت آمریکا و ناپایداری تماس‌ها و تشدیدهای نظامی پراکنده، احتمال رسیدن به توافق جامع را در کوتاه‌مدت پایین می‌آورد و ریسک سرریز تنش به مسیرهای امنیتی را بالا نگه می‌دارد.",
+        "tag": "ایران-دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.55,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/03/politics/trump-iran-war-peace-deal-analysis",
+        "clean_url": "https://www.cnn.com/2026/06/03/politics/trump-iran-war-peace-deal-analysis",
+        "image": "http://www.bing.com/th?id=ONUT.XAYEcm4lsIyFlCunGFZcGQ&pid=News",
+        "timestamp": 1780520400.0
     },
     {
         "title_fa": "ایران از لبنان به‌عنوان اهرم برای شکاف‌انداختن میان ترامپ و اسرائیل استفاده می‌کند",
@@ -160,6 +232,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNYVluSnVYeUNZSHdDNDdaejdJTXNCWkpYOVJ5Y052Y010azBHbXQxalo5VVZZTlR4cU9oM2xNbFdaNjZQaUh1YWU4THZ6MDZ4ZmpQT3BNaVFMQm9XMURPWmR6QndKZF9aZkN5NFg1NktWTTgyMUY4",
         "image": null,
         "timestamp": 1780511795.0
+    },
+    {
+        "title_fa": "رأی مجلس نمایندگان با مدیریت حزب جمهوری‌خواه برای محدود کردن اختیارات جنگی ترامپ علیه ایران",
+        "title_en": "GOP-led House votes to limit Trump’s Iran war powers",
+        "summary": [
+            "مجلس نمایندگان با محوریت جناح جمهوری‌خواه در حال محدود کردن «قدرت‌های جنگی» ترامپ است؛ یعنی حتی در داخل آمریکا هم اجماع برای تشدید عملیات علیه ایران شکل نگرفته است.",
+            "این اقدام در زمانی انجام می‌شود که جنگ از کمپین بمباران سنگین به یک آتش‌بس شکننده تبدیل شده؛ بنابراین کانون سیاست‌گذاری به سمت مهار ریسک تشدید و کنترل پیامدهای میدانی رفته است.",
+            "محدودسازی اختیارات کاخ سفید می‌تواند سرعت تصمیم‌گیری برای حملات بعدی را کاهش دهد و فشار را به سمت مذاکره/مدیریت بحران ببرد، اما خودِ آتش‌بس «تضمین‌شده» نیست و زمینه بی‌ثباتی باقی می‌ماند."
+        ],
+        "impact": "این تصمیم می‌تواند توان ایالات متحده برای اجرای گام‌های جدید علیه ایران را کند و سیاسی‌سازی کند، در حالی که شکنندگی آتش‌بس یعنی ریسک برگشت به خشونت همچنان پابرجاست.",
+        "tag": "ایران",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/gop-led-house-votes-to-limit-trump-s-iran-war-powers/ar-AA24MfxQ",
+        "clean_url": "https://www.msn.com/en-us/news/politics/gop-led-house-votes-to-limit-trump-s-iran-war-powers/ar-AA24MfxQ",
+        "image": "http://www.bing.com/th?id=ONUT.dGIAQPcjHKKeNY0m9xnosA&pid=News",
+        "timestamp": 1780500780.0
+    },
+    {
+        "title_fa": "تصمیم مجلس نمایندگان آمریکا برای توقف جنگ با ایران؛ ضربه سیاسی به ترامپ، نه پایان حملات",
+        "title_en": "Republican-led House votes to stop Iran war, rebuking Trump",
+        "summary": [
+            "مجلس نمایندگان تحت رهبری جمهوری‌خواهان با توقف «جنگ با ایران» مخالفت اجرایی با مسیر ترامپ را تصویب کرد، اما متن خبر تصریح می‌کند این اقدام پایان حملات نظامی آمریکا را تضمین نمی‌کند.",
+            "این مصوبه با وجود جنبه آشکارِ سرزنش سیاسی به ترامپ، هنوز در مرحله‌ای پیش‌ازقطعی است و بدون رأی‌گیری در سنا نمی‌تواند تبدیل به الزام اجرایی شود.",
+            "بنابراین پیام اصلی خبر، تغییر آرایش سیاسی در کنگره است نه تغییر فوری در میدان؛ حملات همچنان می‌تواند ادامه پیدا کند تا زمانی که سنا نتیجه نهایی را مشخص کند."
+        ],
+        "impact": "این رأی فشار داخلی بر ترامپ را افزایش می‌دهد، اما چون پایان حملات تضمین نشده و سنا تعیین‌کننده است، اثر عملی فوری بر کاهش درگیری محدود می‌ماند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/republican-led-house-votes-to-stop-iran-war-rebuking-trump/ar-AA24LOHv",
+        "clean_url": "https://www.msn.com/en-us/news/politics/republican-led-house-votes-to-stop-iran-war-rebuking-trump/ar-AA24LOHv",
+        "image": "http://www.bing.com/th?id=ONUT.IrNj54GYvsUt4Bx4LDdL3w&pid=News",
+        "timestamp": 1780499667.0
+    },
+    {
+        "title_fa": "تصویب قطعنامه اختیارات جنگ در مجلس نمایندگان آمریکا برای توقف اقدام نظامی علیه ایران؛ ضربه سیاسی به ترامپ",
+        "title_en": "House approves war powers resolution to halt military action against Iran, in a rebuke of Trump",
+        "summary": [
+            "مجلس نمایندگان برای نخستین‌بار قطعنامه «اختیارات جنگ» را به تصویب رساند که هدفش توقف اقدام نظامی آمریکا علیه ایران است؛ با وجود تلاش‌های مایک جانسون برای جلوگیری از این نتیجه، رای‌گیری با برتری ۲۱۵–۲۰۸ انجام شد و چند جمهوری‌خواه به دموکرات‌ها پیوستند.",
+            "این رأی در عمل یک واکنش مستقیم به راهبرد جنگی ترامپ است؛ با اینکه احتمال رد هر تصمیم کنگره از سوی ترامپ بالا عنوان شده، این میزان همراهی فراتر از خطوط حزبی نشان‌دهنده رشد نارضایتی سیاسی از ادامه جنگ و دشوار شدن مسیر مذاکره برای «صلح» است.",
+            "گزارش به اثرات داخلی جنگ اشاره می‌کند: افزایش قیمت بنزین و فشار تورمی بر هزینه‌های روزمره مردم، و بازگشت توجه سیاسی به خاورمیانه؛ همچنین گفته شده که ترامپ برای کمک متحدان به از سرگیری تجارت از تنگه هرمز فشار می‌آورد."
+        ],
+        "impact": "تصویب این قطعنامه—حتی با احتمال رد از سوی ترامپ—نشانه افزایش شکاف سیاسی در آمریکا و محدود شدن فضای مانور اجرایی برای ادامه درگیری علیه ایران است.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.35,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/us--iran-us-congress-194324903.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/us--iran-us-congress-194324903.html",
+        "image": "http://www.bing.com/th?id=ONUT.2vxOBZP7cGDsTk2ePceKbg&pid=News",
+        "timestamp": 1780498800.0
     },
     {
         "title_fa": "حمله موشکی ایران به کویت؛ ۱ کشته و ۶۳ زخمی در آزمون دوباره آتش‌بس شکننده با آمریکا",
@@ -5273,131 +5399,5 @@
         "clean_url": "https://www.reuters.com/world/middle-east/iran-could-open-strait-hormuz-within-month-if-terms-agreed-state-tv-says-2026-05-27",
         "image": null,
         "timestamp": 1779901860.0
-    },
-    {
-        "title_fa": "ترامپ: ایران برای پایان جنگ «روی دود» مذاکره می‌کند",
-        "title_en": "Trump says Iran is 'negotiating on fumes' to end war",
-        "summary": [
-            "ترامپ مدعی شده ایران برای رسیدن به توافق جهت پایان جنگ در وضعیت بسیار فرسایشی قرار دارد و مذاکراتش را بی‌پشتوانه توصیف کرده است.",
-            "این ادعا بیشتر یک فشار سیاسی-روانی از سوی آمریکا است تا ارائه نشانه‌های جدید از روند واقعی مذاکره؛ متن ارائه‌شده هیچ جزئیات قابل راستی‌آزمایی از وضعیت مذاکرات یا خواسته‌های دو طرف نمی‌دهد.",
-            "با توجه به نبود داده درباره تحریم‌های جدید، عملیات نظامی یا فروپاشی اقتصادی مشخص در همین گزارش، اثرگذاری کوتاه‌مدت این موضع را باید در چارچوب تشدید فشار خارجی بر محاسبات رژیم تحلیل کرد."
-        ],
-        "impact": "این اظهار نظر، صرفاً به‌عنوان ابزار فشار سیاسی برای سخت‌تر کردن فضای تصمیم‌گیری رژیم عمل می‌کند و بدون داده‌های مشخص، نشانه قطعی از تغییر واقعی در توان یا روند مذاکره ارائه نمی‌دهد.",
-        "tag": "فشار_سیاسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "The Columbus Dispatch",
-        "url": "https://www.dispatch.com/story/news/world/2026/05/27/iran-war-updates-trump-cabinet--live/90269083007/",
-        "clean_url": "https://www.dispatch.com/story/news/world/2026/05/27/iran-war-updates-trump-cabinet--live/90269083007",
-        "image": "http://www.bing.com/th?id=ONUT.UvXG2KXACBJM6JIdaSJ16A&pid=News",
-        "timestamp": 1779897600.0
-    },
-    {
-        "title_fa": "تراشیدن خطوط جدید: ترامپ می‌گوید ایران در ازای کنار گذاشتن اورانیوم بسیار غنی‌شده، «تخفيف تحریمی» نمی‌گیرد",
-        "title_en": "Trump tells PBS News that Iran would not get sanctions relief in exchange for giving up highly enriched uranium",
-        "summary": [
-            "ترامپ در گفت‌وگو با PBS اعلام کرده است که «تسکین/رفع تحریم» در قبال واگذاری اورانیوم بسیار غنی‌شده به ایران تعلق نمی‌گیرد؛ یعنی پیشنهاد معاملاتیِ متداول برای امتیازدهی تحریمی رد شده است.",
-            "این پیام، مسیر مذاکره را از مدل «اقدام-در-ازای-اقدام» به سمت موضع فشار یک‌طرفه سوق می‌دهد و عملاً اهرم اقتصادی لازم برای آرام‌سازی فشار بر رژیم را حذف می‌کند.",
-            "به‌دلیل نبودِ تضمین کاهش تحریم، هزینه‌های تصمیمات هسته‌ای برای تهران سنگین‌تر می‌شود: یا ادامه بن‌بست و فشار اقتصادی، یا انجام اقدام هسته‌ای بدون پاداش قابل اتکا."
-        ],
-        "impact": "اگر این خط سیاستی ثابت بماند، اهرم تحریمی به ابزار اصلی تضعیف و بی‌ثبات‌سازی مدیریت اقتصادی رژیم تبدیل می‌شود و انگیزه برای معامله مؤثر را کاهش می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRFZmRHdDWldmOU5naU9SazlpSkZHNTYzNDI2aWk5VmlpajRRT082N3NUbUZXT29IRjlDQzZVbTNEYkdMMm9VZ0dOSGFnWlFqTENYcnRRZmN5LWIxNEdKZmI1LXp3VFZIYlZXeS1rY0k4NVNHMEZtRExmbWZzZzBKbm5EYkZvZGc5cUR3TmZKRkdreVlENHRWaHFEbUR5bHczVnZHWEN1S0JPN25xYk16ejRxeWVJLWxMVUhJdEtqNDJackN2aW0ybDNHajdvYnU4dGR2b0twY1hNMkFpMGoyaXdFaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRFZmRHdDWldmOU5naU9SazlpSkZHNTYzNDI2aWk5VmlpajRRT082N3NUbUZXT29IRjlDQzZVbTNEYkdMMm9VZ0dOSGFnWlFqTENYcnRRZmN5LWIxNEdKZmI1LXp3VFZIYlZXeS1rY0k4NVNHMEZtRExmbWZzZzBKbm5EYkZvZGc5cUR3TmZKRkdreVlENHRWaHFEbUR5bHczVnZHWEN1S0JPN25xYk16ejRxeWVJLWxMVUhJdEtqNDJackN2aW0ybDNHajdvYnU4dGR2b0twY1hNMkFpMGoyaXdFaw",
-        "image": null,
-        "timestamp": 1779896459.0
-    },
-    {
-        "title_fa": "اسرائیل تخلیه شهری در لبنان را دستور داد؛ تشدید درگیری با حزب‌الله",
-        "title_en": "Israel orders evacuation of Lebanese city as Hezbollah conflict escalates",
-        "summary": [
-            "بر اساس گزارش BBC، اسرائیل دستور تخلیه یک شهر در لبنان را صادر کرده تا از تلفات احتمالی در روند تشدید درگیری با حزب‌الله جلوگیری کند.",
-            "این اقدام نشان می‌دهد که درگیری وارد فاز پرریسک‌تری شده و هرگونه توقف یا کنترل میدانی برای جلوگیری از گسترش جبهه‌ها در کوتاه‌مدت کافی نبوده است.",
-            "با توجه به اینکه حزب‌الله بازیگر اصلی در این جبهه معرفی شده، دستور تخلیه هم پیام امنیتی دارد و هم ابعاد انسانیِ بحران را پیشاپیش تشدید می‌کند."
-        ],
-        "impact": "این نوع تخلیه، احتمال گسترش عملیات و افزایش هزینه‌های انسانی/سیاسی را بالا می‌برد و نشانگر ورود بحران به سطح تهاجمی‌تر است.",
-        "tag": "منطقه",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/world/israel-orders-evacuation-of-lebanese-city-as-conflict-with-hezbollah-escalates/ar-AA24cAiN",
-        "clean_url": "https://www.msn.com/en-us/news/world/israel-orders-evacuation-of-lebanese-city-as-conflict-with-hezbollah-escalates/ar-AA24cAiN",
-        "image": null,
-        "timestamp": 1779894973.0
-    },
-    {
-        "title_fa": "تجمع کابینه ترامپ برای بستن توافق پایان جنگ؛ نگرانی حامیان از تقویت ایران",
-        "title_en": "Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran",
-        "summary": [
-            "بر اساس گزارش ABC7 Los Angeles، ترامپ کابینه را برای دستیابی به یک توافق جهت پایان جنگ گرد هم می‌آورد، اما بخشی از حامیان از پیامد آن هراس دارند که این توافق می‌تواند ایران را «توانمندتر» کند.",
-            "نکته راهبردی این است که اگر توافق پایان جنگ به کاهش فشار خارجی منجر شود، به‌طور بالقوه بر محاسبات امنیتی تهران اثر می‌گذارد و قدرت مانور سیاسی/عملیاتی آن را در منطقه افزایش می‌دهد؛ این نگرانی در متن گزارش به‌عنوان محور مخالفت برخی حامیان آمده است.",
-            "با توجه به اینکه جزئیات اجرایی توافق (شرط‌ها، سازوکار راستی‌آزمایی، یا جدول زمانی) در همین خبر ذکر نشده، تحلیل اثرات دقیق هنوز قابل راستی‌آزمایی نیست و صرفاً می‌توان از پیامد بالقوه «کم‌شدن هزینه راهبردی» برای ایران سخن گفت."
-        ],
-        "impact": "این روند می‌تواند با کاهش فشار و هزینه‌های خارجی، اهرم‌های بازدارندگی علیه ایران را تضعیف کند، اما اثر نهایی به مفاد دقیق توافق بستگی دارد.",
-        "tag": "توافق",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "ABC7 Los Angeles",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdHhBMzFLaURnSDNNd2p5akpxbjcyOVI0T1ZBS1Qyd3M2WFlSWWdYQ2lSX1RMZjE2MktmZ3h3aHoycGdTQzFPM3BUVDV6OGM4VVRETU1YdVBQWVBvZnVFaEo1d085MlN6QWF6U3BCS2tsSzNkcWEweWQxUU5wUdIBgwFBVV95cUxOQWZ0NVpTNHdzcll4SW9qVjdCVW1iLUZ4Rm9rS2taUm00WGRNMjY4V0ZtLUMwZmpzcWp0cEpaX0RNSmFkMVh6clhJWWZ5YzRuRVhXcUFMM3hmQVI2VW1LTERDQWZ0Q3d4UGd2a3dlcElOaDE5Y0xwV2tOdW9wRW5Kdl9Iaw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CdHhBMzFLaURnSDNNd2p5akpxbjcyOVI0T1ZBS1Qyd3M2WFlSWWdYQ2lSX1RMZjE2MktmZ3h3aHoycGdTQzFPM3BUVDV6OGM4VVRETU1YdVBQWVBvZnVFaEo1d085MlN6QWF6U3BCS2tsSzNkcWEweWQxUU5wUdIBgwFBVV95cUxOQWZ0NVpTNHdzcll4SW9qVjdCVW1iLUZ4Rm9rS2taUm00WGRNMjY4V0ZtLUMwZmpzcWp0cEpaX0RNSmFkMVh6clhJWWZ5YzRuRVhXcUFMM3hmQVI2VW1LTERDQWZ0Q3d4UGd2a3dlcElOaDE5Y0xwV2tOdW9wRW5Kdl9Iaw",
-        "image": null,
-        "timestamp": 1779894968.0
-    },
-    {
-        "title_fa": "ایران محدودیت‌های تازه برای توزیع محتوای خبری رسانه‌های بین‌المللی اعمال کرد",
-        "title_en": "Iran expands restrictions on distribution of news content by international media outlets",
-        "summary": [
-            "ایران از طریق وزارت فرهنگ و ارشاد اسلامی به رسانه‌های بین‌المللی مستقر در تهران دستور داده در «تمام محتوای ارسالی» شامل عکس، ویدئو و گزارش‌ها، الزام‌های زبانی اجباری را رعایت کنند و مسئولیت عدم‌تطابق را مستقیماً متوجه خود رسانه‌ها بداند.",
-            "محدودیت جدید رسانه‌های بین‌المللی را وادار می‌کند اعلام کنند محتوای موردنظر قابل استفاده توسط رسانه‌های اسرائیلی و همچنین شبکه‌های تلویزیونی فارسی‌زبان مستقر خارج از ایران نیست.",
-            "این اقدام در امتداد روند دیرینه محدودسازی رسانه‌های بین‌المللی و پیش از آنکه در متن به ممنوعیت یا ریسک تعطیلی برای همکاری با BBC Persian، VOA Persian، Manoto TV و Iran International اشاره شده، و در شرایطی مطرح شده که سه ماه پیش جنگ منطقه‌ای پس از حملات آمریکا و اسرائیل به ایران تشدید و همچنان ناپایدار توصیف می‌شود."
-        ],
-        "impact": "این سیاست سانسوریِ هدفمند، جریان اطلاعات بیرون از کنترل رژیم را تنگ‌تر می‌کند و هزینه انتشار و استفاده دوباره از محتوای خبری را برای رسانه‌های بین‌المللی بالا می‌برد.",
-        "tag": "رسانه",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "Pioneer Press",
-        "url": "https://www.twincities.com/2026/05/27/iran-media-restrictions/",
-        "clean_url": "https://www.twincities.com/2026/05/27/iran-media-restrictions",
-        "image": "http://www.bing.com/th?id=ONUT.VwuC61rCTE1LhuygpuNpCQ&pid=News",
-        "timestamp": 1779893520.0
-    },
-    {
-        "title_fa": "ادعای تلویزیون دولتی: «پیش‌نویس توافق با آمریکا» برای بازگشایی تنگه هرمز و پایان بلوکاد دریایی",
-        "title_en": "Iran state TV says draft deal with US would reopen Hormuz shipping, end naval blockade",
-        "summary": [
-            "تلویزیون دولتی ایران مدعی شده پیش‌نویس توافق با آمریکا می‌تواند باعث بازگشایی کشتیرانی در تنگه هرمز و پایان «محاصره/بلوکاد دریایی» شود؛ یعنی اهرم فشار دریایی فعلی قرار است با مذاکره یا معامله از مسیر کاهش تنش برداشته شود.",
-            "اگر این ادعا درست باشد، نشان می‌دهد راهبرد نیروی دریایی-امنیتی جمهوری اسلامی به‌جای تبدیل شدن به قدرت بازدارنده پایدار، در عمل به ابزار چانه‌زنی قابل معامله تبدیل شده و هزینه‌های اقتصادی/ریسک تجارت برای طرف‌های درگیر می‌تواند محرک عقب‌نشینی باشد.",
-            "این پیام سیاسی هم‌زمان به داخل و خارج مخابره می‌شود: رژیم تلاش می‌کند کنترل روایت را حفظ کند که گویا مسیر حل بحران از «درهای مذاکره» می‌گذرد، نه از اصلاحات ساختاری یا تغییر سیاست‌های پرهزینه."
-        ],
-        "impact": "بازشدن هرمز و کنار رفتن بلوکاد دریایی در صورت تحقق، مستقیماً ریسک تجارت و هزینه‌های بیمه/حمل‌ونقل را کاهش می‌دهد و فشار فوری بر اقتصاد را کم می‌کند، اما وابسته به اعتبار و اجرا شدن «پیش‌نویس توافق» است.",
-        "tag": "تنگه‌هرمز",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHB3ZTljSEdNUGlta055MjFRSDNTZGg2WkZmWjdFOUZfRC1Xd2Q2V2FSWmRxd0xPSTBGel91Um5yN3BHRVhhTURxcUFZTHBJckZDU2hvenpkbWg3aGY3cjB1VERORDR6Z00zTEdEbzB4SlBhUG11UkpkcDRTT2lpZmZxNVoxaXNDbHJWUHdkT0Q3d2VqZHFraUY5alIwcGY2WWEtVV9lblgtMy1GOWRIVlU4eVpzU2s2dzVPZFltZC00UXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVHB3ZTljSEdNUGlta055MjFRSDNTZGg2WkZmWjdFOUZfRC1Xd2Q2V2FSWmRxd0xPSTBGel91Um5yN3BHRVhhTURxcUFZTHBJckZDU2hvenpkbWg3aGY3cjB1VERORDR6Z00zTEdEbzB4SlBhUG11UkpkcDRTT2lpZmZxNVoxaXNDbHJWUHdkT0Q3d2VqZHFraUY5alIwcGY2WWEtVV9lblgtMy1GOWRIVlU4eVpzU2s2dzVPZFltZC00UXM",
-        "image": null,
-        "timestamp": 1779890134.0
-    },
-    {
-        "title_fa": "تداوم «حداکثر مطالبات» و تهدید به افزایش حملات علیه ایران",
-        "title_en": "Trump holds to maximum demands on Iran, threatens more strikes",
-        "summary": [
-            "ترامپ نشست کابینه در کاخ سفید را برگزار می‌کند و برنامهٔ جلسه در کمپ دیوید را لغو کرده است؛ هم‌زمان بر «حداکثر مطالبات» درباره ایران پای می‌فشارد و تهدید می‌کند که در صورت پیش نرفتن خواسته‌ها، «حملات بیشتر» انجام خواهد شد.",
-            "این پیام در متن به‌صورت مستقیم یک اهرم فشار امنیتی-سیاسی است: یعنی نه تنها فشار سیاسی، بلکه امکان تشدید عملیات نظامی علیه اهداف مرتبط با ایران به‌عنوان ابزار چانه‌زنی مطرح می‌شود.",
-            "با توجه به اینکه گزارش جزئیات فنی از نوع حمله، زمان‌بندی یا اهداف مشخص ارائه نمی‌کند، تمرکز اثرگذاری در این مرحله بیشتر بر افزایش احتمال تشدید تنش و آماده‌سازی رژیم برای شوک‌های بعدی است، نه بر تأیید یک عملیات مشخص."
-        ],
-        "impact": "این اعلامیه احتمال تشدید فشار خارجی و افزایش ریسک عملیات مستقیم علیه دارایی‌های رژیم را بالا می‌برد و می‌تواند ثبات تصمیم‌گیری داخلی را تحت فشار قرار دهد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/05/27/trump-calls-cabinet-camp-david-amid-declining-approval-iran-economy/",
-        "clean_url": "https://www.washingtonpost.com/politics/2026/05/27/trump-calls-cabinet-camp-david-amid-declining-approval-iran-economy",
-        "image": "http://www.bing.com/th?id=ONUT.-7XHrPn3bvHu-cmL1FwJ4Q&pid=News",
-        "timestamp": 1779889260.0
     }
 ]
