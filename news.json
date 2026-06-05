@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حزب‌الله آتش‌بسِ پیشنهادی آمریکا بین لبنان و اسرائیل را رد کرد؛ لبنانی‌ها هم‌زمان نیروهایشان را در جنوب مستقر کردند",
+        "title_en": "Hezbollah Rejects Cease-Fire Deal Between Lebanon and Israel",
+        "summary": [
+            "حسن نصرالله قاسم (رهبر حزب‌الله) با ردِ علنی توافق آتش‌بسِ آمریکا‌محور میان لبنان و اسرائیل اعلام کرد این طرح را «نقشه راه برای نابودی بخشی از مردم لبنان و به‌زیرِ سلطه بردن باقی» می‌داند و خواستار توقف گفت‌وگوهای مستقیم لبنان با اسرائیل شد.",
+            "در همان زمان، توافق که در واشینگتن اعلام شده بود، شامل گام‌هایی برای خلع‌سلاح حزب‌الله است، اما حزب‌الله از پذیرش هرگونه درخواست برای خلع‌سلاح خودداری کرد؛ لبنان این توافق را تصویب کرده ولی نفوذ دولت بر حزب‌الله محدود توصیف شده است.",
+            "در پی عقب‌نشینی نیروهای اسرائیلی، نیروهای ارتش لبنان برای استقرار در یک شهر مرزی در جنوب آغاز کردند؛ همچنین مذاکرات سیاسی مستقیم میان لبنان و اسرائیل از اواسط آوریل جریان دارد، درحالی‌که حزب‌الله در آن مشارکت ندارد."
+        ],
+        "impact": "ردِ آتش‌بس توسط حزب‌الله و اصرار بر عدم‌خلع‌سلاح، احتمال ادامه تنش و شکست عملی توافق را بالا می‌برد، حتی اگر دولت لبنان بر مسیر گفت‌وگو تأکید کند.",
+        "tag": "لبنان-اسرائیل",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.yahoo.com/news/world/articles/hezbollah-swiftly-rejects-lebanon-israel-152541826.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/hezbollah-swiftly-rejects-lebanon-israel-152541826.html",
+        "image": null,
+        "timestamp": 1780617559.0
+    },
+    {
         "title_fa": "به‌روزرسانی روزانه ۴ ژوئن ۲۰۲۶ (TV7 Israel News)؛ بدون جزئیات خبری",
         "title_en": "DAILY UPDATE - 04 June 2026",
         "summary": [
@@ -124,6 +142,24 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/iran-war-us-house-votes-to-limit-trumps-war-powers/ar-AA24NU4n",
         "image": null,
         "timestamp": 1780592625.0
+    },
+    {
+        "title_fa": "عدم امکان ورود بازرسان آژانس بین‌المللی انرژی اتمی، نظارت بر برنامه هسته‌ای ایران را مختل کرد",
+        "title_en": "IAEA’s inability to enter Iran blocks oversight of nuclear program",
+        "summary": [
+            "آژانس بین‌المللی انرژی اتمی اعلام کرد که به دلیل تعلیق همکاری از سوی ایران، بازرسان نتوانسته‌اند نظارت کامل بر برنامه هسته‌ای را انجام دهند.",
+            "این وضعیت عملاً دسترسی نظارتی آژانس را محدود کرده و ادامه‌ی ارزیابی مستقل از فعالیت‌های هسته‌ای را سخت‌تر می‌کند.",
+            "آژانس بار دیگر نگرانی‌های خود را مطرح کرده که قطع یا محدود شدن همکاری مانع از تحقق سطح مورد انتظار نظارت و راستی‌آزمایی می‌شود."
+        ],
+        "impact": "کاهش توان بازرسی، شکاف اطلاعاتی ایجاد می‌کند و ریسک تصمیم‌گیری‌های سیاسی-امنیتی مبتنی بر داده ناقص را بالا می‌برد.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "Washington Examiner on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iaea-s-inability-to-enter-iran-blocks-oversight-of-nuclear-program/ar-AA24S2rW",
+        "clean_url": "https://www.msn.com/en-us/news/world/iaea-s-inability-to-enter-iran-blocks-oversight-of-nuclear-program/ar-AA24S2rW",
+        "image": "http://www.bing.com/th?id=ONUT.nKTqcf7PfPAkSU3O6IKLoQ&pid=News",
+        "timestamp": 1780587513.0
     },
     {
         "title_fa": "پایان «خاورمیانه» و ورود جنگ ایران به فاز تعیین‌کننده",
@@ -5363,41 +5399,5 @@
         "clean_url": "https://www.newsweek.com/ceasefire-under-strain-as-iran-us-and-israel-launch-fresh-strikes-12001898",
         "image": "http://www.bing.com/th?id=ONUT.AaeCax9O1IffbBkAKYSxMg&pid=News",
         "timestamp": 1779961200.0
-    },
-    {
-        "title_fa": "ادامه تبادل «حمله/پاسخ» میان آمریکا و ایران همزمان با پافشاری ترامپ بر حداکثر خواسته‌ها",
-        "title_en": "U.S. and Iran trade fresh strikes as Trump holds to maximum demands",
-        "summary": [
-            "این گزارش می‌گوید آمریکا و ایران بار دیگر «تبادل ضربه‌ها» را در چارچوب فشار حداکثری دنبال می‌کنند و ترامپ بر همان سیاست و «مطالبات حداکثری» پافشاری دارد.",
-            "کنایه اصلی خبر این است که هیچ مسیر سریع برای کاهش تنش و توقف چرخه درگیری وجود ندارد، چون طرف آمریکایی عقب‌نشینی از شروط را متوقف نکرده است.",
-            "در چنین وضعی، منطق معامله‌گری مبتنی بر فشار افزایش می‌یابد و هر اقدام جدید می‌تواند به دور بعدی تشدید یا واکنش منجر شود؛ بدون نشانه‌های روشن از کنترل بحران از بیرون."
-        ],
-        "impact": "افزایش احتمال تداوم چرخه اقدام متقابل، توان برنامه‌ریزی و ثبات سیاسی-امنیتی داخل ایران را نیز تحت فشار قرار می‌دهد، چون هزینه امنیتی و عدم قطعیت بالا می‌ماند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/world/us-strikes-drone-launch-site-as-trump-holds-to-maximum-demands-on-iran/ar-AA24ai9x",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-strikes-drone-launch-site-as-trump-holds-to-maximum-demands-on-iran/ar-AA24ai9x",
-        "image": null,
-        "timestamp": 1779960467.0
-    },
-    {
-        "title_fa": "توافق مذاکره‌گران ایران و آمریکا برای تمدید آتش‌بس ۶۰ روزه و آغاز گفت‌وگوهای هسته‌ای؛ منوط به تأیید ترامپ",
-        "title_en": "The Latest: Iran negotiators agree to extend ceasefire, begin nuclear talks pending Trump approval",
-        "summary": [
-            "مذاکره‌گران ایران و آمریکا بر سر تمدید موقت آتش‌بس به مدت ۶۰ روز به توافق «تأییدنشده قطعی» رسیده‌اند و همزمان چارچوب آغاز گفت‌وگوهای هسته‌ای مطرح شده است؛ اما اجرای آن به تأیید ترامپ گره خورده است.",
-            "این روند در صورت نهایی‌شدن، فشار خارجی را به جای قطع یا تشدید، به سمت مدیریت مذاکراتی می‌برد و می‌تواند فرصت تنفس کوتاه‌مدت برای شبکه تصمیم‌گیری رژیم ایجاد کند، بدون آن‌که معضل‌های ساختاری اقتصاد و حکمرانی حل شود.",
-            "از متن خبر، شواهد مستقیمی از لغو یا کاهش فوری فشارهای اقتصادی/تحریمی یا فروپاشی درونی ارائه نشده؛ بنابراین اثر اصلی فعلاً سیاسی-مذاکره‌ای است و نه نشانه‌ای از فروپاشی رژیم یا موج اعتراضی تأییدشده."
-        ],
-        "impact": "تمدید آتش‌بس و شروع مذاکرات هسته‌ایِ مشروط، فعلاً به رژیم امکان مانور زمانی می‌دهد و فشار خارجی را به مسیر مذاکره منتقل می‌کند، بدون اینکه از کاهش واقعی ناهنجاری‌های داخلی خبر داده شود.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "WPLG Local 10",
-        "url": "https://www.local10.com/news/politics/2026/05/28/the-latest-doj-opens-investigation-into-e-jean-carroll-who-accused-trump-of-assault-source-says/",
-        "clean_url": "https://www.local10.com/news/politics/2026/05/28/the-latest-doj-opens-investigation-into-e-jean-carroll-who-accused-trump-of-assault-source-says",
-        "image": "http://www.bing.com/th?id=ONUT.cjwIV2wqUVaJnAA_yZl96A&pid=News",
-        "timestamp": 1779959520.0
     }
 ]
