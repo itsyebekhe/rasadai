@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "برگزاری محرمانه نشست کارشناسان هسته‌ای در تنسی توسط فرستادگان ترامپ برای ایران",
+        "title_en": "Scoop: Trump's Iran envoys quietly convene nuclear experts in Tennessee",
+        "summary": [
+            "طبق گزارش Axios، فرستادگان ترامپ برای ایران به‌صورت محرمانه در تنسی گردهم آمده‌اند تا با کارشناسان هسته‌ای گفت‌وگو کنند.",
+            "این اقدام به‌جای حرکت علنی، بر «هماهنگی فنی/کارشناسی» متمرکز است و نشان می‌دهد کانال‌های مذاکره یا طراحی گزینه‌های مرتبط با پرونده هسته‌ای در سطح تخصصی دنبال می‌شود.",
+            "محرمانه‌بودن نشست، هم می‌تواند برای کاهش ریسک سیاسی باشد و هم برای شکل‌دادن به مسیر تصمیم‌گیری در واشنگتن پیش از ورود به فازهای علنی‌تر."
+        ],
+        "impact": "این نوع نشست تخصصی در سطح کارشناسی می‌تواند مسیر سیاست آمریکا درباره پرونده هسته‌ای را به سمت گزینه‌های عملیاتی‌تر سوق دهد، اما فعلاً داده‌ای از تصمیم اجرایی یا توافق مشخص در متن گزارش ارائه نشده است.",
+        "tag": "هسته‌ای",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Axios",
+        "url": "https://www.msn.com/en-us/news/politics/scoop-trumps-iran-envoys-quietly-convene-nuclear-experts-in-tennessee/ar-AA24W3V2",
+        "clean_url": "https://www.msn.com/en-us/news/politics/scoop-trumps-iran-envoys-quietly-convene-nuclear-experts-in-tennessee/ar-AA24W3V2",
+        "image": null,
+        "timestamp": 1780683656.0
+    },
+    {
+        "title_fa": "توافق اسرائیل و لبنان برای آتش‌بس؛ فراخوان تبلیغاتی «مجدتبا خامنه‌ای» هم‌زمان در تلویزیون",
+        "title_en": "Israel, Lebanon agree to US-backed truce; Mujtaba Khamenei urges supporters on TV7Israel News 5 June",
+        "summary": [
+            "شبکه TV7 Israel News گزارش می‌دهد اسرائیل و لبنان بر سر آتش‌بسِ مورد حمایت آمریکا توافق کرده‌اند، اما متن خبر جزئیات اجرای آن را ارائه نکرده است.",
+            "در همان بازه، «مجدتبا خامنه‌ای» در TV7Israel News از طریق دعوت/فراخوان به هواداران برای همراهی یا حمایت پیام داده است؛ این نشان می‌دهد جریان‌های نزدیک به ساختار حاکمیت در حال مدیریت روایت و بسیج مخاطب هستند.",
+            "با توجه به اینکه خبر صرفاً به «توافق آتش‌بس» و «فراخوان تلویزیونی» اشاره دارد و سندی درباره اقدامات میدانی پس از آتش‌بس یا برخوردهای داخلی ارائه نمی‌کند، نمی‌توان شدت یا دوام این روند را بدون داده تکمیلی نتیجه‌گیری کرد."
+        ],
+        "impact": "آتش‌بس مورد حمایت آمریکا می‌تواند شدت درگیری را کاهش دهد، ولی هم‌زمان پیام‌های تلویزیونیِ چهره‌های نزدیک به رهبری نشان می‌دهد تلاش برای کنترل ادراک عمومی و تداوم شبکه‌های حمایتی ادامه دارد.",
+        "tag": "آتش‌بس",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "TV7 Israel News",
+        "url": "https://www.msn.com/en-us/news/world/hezbollah-rejects-israel-lebanon-truce-as-surrender/ar-AA24N689",
+        "clean_url": "https://www.msn.com/en-us/news/world/hezbollah-rejects-israel-lebanon-truce-as-surrender/ar-AA24N689",
+        "image": null,
+        "timestamp": 1780682852.0
+    },
+    {
         "title_fa": "دارایی‌های مسدودشده ایران در خارج از کشور؛ محدودیت پولی به‌عنوان اهرم فشار",
         "title_en": "Explained: Iran's frozen assets around the world",
         "summary": [
@@ -16,6 +52,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9CdFJUeUVScVpfNXVwZ2lzX0pCVWFOOXFFczBaLWVFdjNQZzktVWN6VVlwdjRhbG1RVlRpeTlwaEdXZmpZMWlmVWYxdDFOZWhjTXc",
         "image": null,
         "timestamp": 1780679282.0
+    },
+    {
+        "title_fa": "جنگ ایران علیه آمریکا و اسرائیل از مسیر حزب‌الله پیش می‌رود",
+        "title_en": "Iran’s war on the US and Israel runs through Hezbollah",
+        "summary": [
+            "این گزارش با محور «جنگ ایران علیه آمریکا و اسرائیل» استدلال می‌کند که محور عملیاتی آن از کانال حزب‌الله جریان دارد.",
+            "نشانه‌گذاری اصلی، پیوند دادن فعالیت‌های حزب‌الله به سناریوی تقابل منطقه‌ای ایران با آمریکا و اسرائیل است، نه صرفاً روایت از رویدادهای داخلی در ایران.",
+            "در متن ارسالی جزئیات میدانی، زمان‌بندی، یا شواهد مشخص از اقدامات حزب‌الله ارائه نشده و صرفاً چارچوب رابطه عملیاتی/راهبری را برجسته می‌کند."
+        ],
+        "impact": "اگر این چارچوب درست باشد، هر تشدید در فعالیت‌های حزب‌الله می‌تواند به افزایش مستقیم ریسک رویارویی در محور آمریکا–اسرائیل منجر شود و هزینه‌های امنیتی برای همه بازیگران منطقه‌ای را بالا ببرد.",
+        "tag": "منطقه‌ای",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "Cleveland Jewish News",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdXpubGJPNFZ4ZGw5OXp5ODZsTGppS2hfeDZueGlmZ1ZoUDlIQjFXVkxHN1Z0OEdMbjNCOU50SXphLVlDeExBMWt0SWoyNmR3RlczMFpOSG9HVlZhWU5lQnpkNjNLN2YyTHVVYmRMRlNyX3poNW5Bd05WZkZIUFhQVmFtQzEzTktmcVpwRlNLSGYzNmtLQ2IyREpxczg1TVFJT3dod2NxMjhmSUd0ZlY3ZnhUSVJnRlVtdkM1SmdEbXhIeWY2UW1VNDhEUC05em5oMUswanNFSk53clUt?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdXpubGJPNFZ4ZGw5OXp5ODZsTGppS2hfeDZueGlmZ1ZoUDlIQjFXVkxHN1Z0OEdMbjNCOU50SXphLVlDeExBMWt0SWoyNmR3RlczMFpOSG9HVlZhWU5lQnpkNjNLN2YyTHVVYmRMRlNyX3poNW5Bd05WZkZIUFhQVmFtQzEzTktmcVpwRlNLSGYzNmtLQ2IyREpxczg1TVFJT3dod2NxMjhmSUd0ZlY3ZnhUSVJnRlVtdkM1SmdEbXhIeWY2UW1VNDhEUC05em5oMUswanNFSk53clUt",
+        "image": null,
+        "timestamp": 1780678800.0
+    },
+    {
+        "title_fa": "تحریم شبکه قاچاق LPG ایران توسط آمریکا؛ فشار مستقیم بر تجارت سوخت و شبکه‌های درآمدی رژیم",
+        "title_en": "US says it issued sanctions on network smuggling Iranian LPG",
+        "summary": [
+            "آمریکا اعلام کرده است تحریم‌هایی علیه شبکه‌ای صادر کرده که سوخت مایع LPG ایران را قاچاق می‌کند؛ هدف، قطع مسیرهای درآمدی و کاهش توان عملیاتی این شبکه‌هاست.",
+            "از منظر فشار خارجی، این اقدام می‌تواند به تضعیف درآمدهای غیررسمی رژیم و پیمانکاران/واسطه‌های مرتبط با زنجیره توزیع منجر شود، اما سطح اثر به گستردگی طرف‌های درگیر و میزان پوشش اجرایی تحریم بستگی دارد.",
+            "در سطح داخلی، فشار بر تجارت سوخت معمولاً هم هزینه مبادله را بالا می‌برد و هم ریسک کنترل‌پذیری بازار را افزایش می‌دهد؛ نتیجه محتمل می‌تواند تشدید اختلال اقتصادی و نارضایتی‌های ناشی از کمبود/گرانی یا بی‌ثباتی قیمت باشد، البته بدون داده مشخص در این خبر."
+        ],
+        "impact": "این تحریم‌ها اهرم فشار آمریکا را بر شبکه‌های درآمدی مرتبط با صادرات/قاچاق LPG افزایش می‌دهد و می‌تواند به اختلال در مسیرهای غیررسمی تأمین سوخت منجر شود.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.1,
+        "source": "Reuters",
+        "url": "https://www.devdiscourse.com/article/international/3930977-us-intensifies-clampdown-on-iranian-lpg-smuggling-network",
+        "clean_url": "https://www.devdiscourse.com/article/international/3930977-us-intensifies-clampdown-on-iranian-lpg-smuggling-network",
+        "image": null,
+        "timestamp": 1780675550.0
     },
     {
         "title_fa": "اعلام صدور تحریم‌های جدید آمریکا علیه ایران",
@@ -162,6 +234,24 @@
         "timestamp": 1780659170.0
     },
     {
+        "title_fa": "تهران می‌گوید موشک اخطار به ناوهای آمریکایی شلیک کرده؛ همزمان عملیات در دریا و تشدید بمباران در لبنان ادامه دارد",
+        "title_en": "Iran ‘fires warning missiles’ at US destroyers",
+        "summary": [
+            "ایران اعلام کرد «موشک‌های اخطار» به دو ناو آمریکایی در تنگه هرمز/خلیج عمان شلیک کرده و ناوها مجبور به خروج از منطقه شدند؛ مقامات آن را پاسخ به «مزاحمت» دریایی و ادعای «ربودن» کشتی‌های تجاری و نفتکش‌ها توسط نیروهای دریایی آمریکا دانستند.",
+            "هم‌زمان، نیروهای آمریکا بلافاصله شبانه یک نفتکش در اقیانوس هند را سوار/کنترل کردند؛ این نفتکش برای حمل نفت خام ایران که واشنگتن تحریم کرده، هدف قرار گرفته بود.",
+            "در سطح میدانی منطقه، اسرائیل در جنوب لبنان دوباره حمله کرد با وجود توافق آتش‌بس که آمریکا برای آن میانجی‌گری کرده بود؛ همچنین حزب‌الله دست‌کم هشت حمله به مواضع اسرائیلی در جنوب لبنان را گزارش داد."
+        ],
+        "impact": "این ترکیبِ تهدید دریایی ایران و اجرای کنترل/بازرسی نفتکش‌های مرتبط با نفت ایران، خطر درگیری مستقیم را بالا می‌برد و هم‌زمان نشان می‌دهد جنگ منطقه‌ای وارد فاز تشدید عملیاتی شده است.",
+        "tag": "دریایی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-fires-warning-missiles-us-160851540.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-fires-warning-missiles-us-160851540.html",
+        "image": "http://www.bing.com/th?id=ONUT.mmNfQy_YXl1zaO5RgoJ-lQ&pid=News",
+        "timestamp": 1780653120.0
+    },
+    {
         "title_fa": "بازآرایی گزینه‌های نظامی اسرائیل در لبنان بر اثر راهبرد ایرانِ ترامپ (یادداشت)",
         "title_en": "How Trump’s Iran strategy is reshaping Israel’s military options in Lebanon - opinion",
         "summary": [
@@ -196,6 +286,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPblBhbXlZMlk1MFV2UGlKZy14TUMzNEV3RUlUdkNTS1NDbTYtRldOb1BDNmZzeHRiTEY0YlpuRGJ5NFQ0a08zYThxeWlUdjhrMGhxbWdjaE85TTJDX3lEQzlUd1h3M3h1SGdMM0UtekZwWnNyLXJCU3drRlhCM2VoQk5aYS1EU3FwY3JyWTlYR1J3TnRUMnl0LWstOTNpMWQwQ043bl8xdV9nVGt6cjRZVUV1Zmo2b0FsVTlXRXV2Um1UMDRCRkE",
         "image": null,
         "timestamp": 1780651472.0
+    },
+    {
+        "title_fa": "بن‌بست گفت‌وگوها بر سر آزادسازی ۲۴ میلیارد دلار؛ هشدار گسترش جنگ از سوی مشاور رهبر ایران",
+        "title_en": "Exclusive: Iran supreme leader’s adviser says talks deadlocked over $24 billion and warns of wider war",
+        "summary": [
+            "به گفته یک مقام عالی‌رتبه ایرانی، گفت‌وگوهای آمریکا و ایران به دلیل اختلاف بر سر آزادسازی ۲۴ میلیارد دلار از دارایی‌های ایرانِ مسدودشده «بن‌بست» شده است و پیش‌شرطِ هر توافق احتمالی، موافقت دولت ترامپ با این آزادی دارایی‌هاست.",
+            "این مقام در چارچوب همان پیام به CNN هشدار داده «جنگ گسترده‌تر» ممکن است در صورت ادامه بن‌بست و عدم توافق شکل بگیرد؛ یعنی مسیر سازوکار مذاکره عملاً به گروگان مانع مالی تبدیل شده است.",
+            "پیام این خبر نشان می‌دهد اهرم اصلی در مذاکره، نه سیاسی بلکه مالی است: بدون تصمیم واشنگتن برای آزادسازی دارایی‌ها، کانال توافق عملاً بسته و ریسک تشدید تنش افزایش می‌یابد."
+        ],
+        "impact": "اگر واشنگتن آزادسازی ۲۴ میلیارد دلار را نپذیرد، احتمال فروپاشی کامل کانال مذاکره و جهش ریسک درگیری‌های منطقه‌ای بالا می‌رود.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/world/exclusive-iran-supreme-leader-s-adviser-says-talks-deadlocked-over-24-billion-and-warns-of-wider-war/ar-AA24W2zY",
+        "clean_url": "https://www.msn.com/en-us/news/world/exclusive-iran-supreme-leader-s-adviser-says-talks-deadlocked-over-24-billion-and-warns-of-wider-war/ar-AA24W2zY",
+        "image": "http://www.bing.com/th?id=ONUT.P9z6YIT8gYY09SRhqBzw2g&pid=News",
+        "timestamp": 1780651247.0
+    },
+    {
+        "title_fa": "ایران در جام جهانی ۲۰۲۶: امید به صعود، اتکا به طعمه‌گل‌زنی و لرزش در دفاع",
+        "title_en": "Fifa World Cup 2026: What you need to know about Iran",
+        "summary": [
+            "ایران در آستانه جام جهانی ۲۰۲۶ برای نخستین بار می‌خواهد به مرحله حذفی برسد، اما مسیر حضورش پس از جنگ میان آمریکا و ایران در ۲۸ فوریه و کشمکش‌های سیاسی با فیفا/اینفانتینو پرتنش شد؛ فیفا با وجود اظهارات ترامپ درباره عدم حضور ایران، پای ایران را به رقابت‌ها نگه داشت و ایران برای تمرین پایگاهش را به مکزیک منتقل کرد.",
+            "نقطه اتکای اصلی تیم، مهدی طارمی است؛ او به‌عنوان منبع قابل اتکای گل و به‌هم‌زننده بازی، و همچنین تیمی که می‌تواند از روی ضربه‌های ایستگاهی از مزیت قد و قامت استفاده کند، بیشترین بار حمله را خواهد داشت.",
+            "ضعف‌ها مشخص‌اند: توقف فوتبال لیگ داخلی از مارس به‌دلیل درگیری، وضعیت بدنی/ریتم بازی داخلی را پایین آورده، تیم سنیِ بالایی دارد و هنوز مسائل دفاعی حل‌نشده باقی است؛ علاوه بر این، شرایط بیرونی و اختلاف‌نظر سیاسی میان اعضای تیم می‌تواند تمرکز را به هم بزند."
+        ],
+        "impact": "این گزارش نشان می‌دهد که بُعد سیاسی و قطع فعالیت لیگ داخلی، هم کیفیت آمادگی میدانی و هم انسجام ذهنی ایران را در جام جهانی ۲۰۲۶ تحت فشار قرار می‌دهد.",
+        "tag": "جام‌جهانی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Yahoo Sports",
+        "url": "https://sports.yahoo.com/articles/fifa-world-cup-2026-know-144919613.html",
+        "clean_url": "https://sports.yahoo.com/articles/fifa-world-cup-2026-know-144919613.html",
+        "image": "http://www.bing.com/th?id=ONUT.XIouMSHln03cFPP8F2vedA&pid=News",
+        "timestamp": 1780647360.0
     },
     {
         "title_fa": "کاهش قیمت نفت با غلبه «امید صلح» بر «ترس از هرمز»؛ همزمان با ادامه حملات اسرائیل و حزب‌الله",
@@ -5272,132 +5398,5 @@
         "clean_url": "https://www.pbs.org/video/may-28-2026-pbs-news-hour-full-episode-1779940857",
         "image": "https://image.pbs.org/video-assets/bHi48e3-asset-mezzanine-16x9-1xYy2Ft.jpg?focalcrop=1200x630x50x10&format=auto",
         "timestamp": 1780014120.0
-    },
-    {
-        "title_fa": "وَنس: آمریکا و ایران «خیلی نزدیک» به توافق‌اند، اما «هنوز به نقطه نرسیده‌اند»",
-        "title_en": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-        "summary": [
-            "جیمز وَنس می‌گوید گفت‌وگوهای آمریکا و ایران به «توافق» نزدیک شده، ولی هنوز به جمع‌بندی نهایی نرسیده است؛ یعنی یک گام فنی/سیاسی باقی مانده و روند در فاز مذاکره حساس قرار دارد.",
-            "این اظهارنظر نشان می‌دهد چارچوب فشار خارجی به‌طور کامل به نتیجه نرسیده، اما امکان نزدیک شدن به یک خروجی سیاسی وجود دارد؛ در نتیجه، فضای عدم‌قطعیت اقتصادی و دیپلماتیک هنوز برای بازیگران منطقه‌ای و بازارها پابرجاست.",
-            "از نظر واقع‌گرایی اجرایی، چون هنوز «توافق نهایی» اعلام نشده، نمی‌توان آن را به‌عنوان کاهش قطعی فشار یا گشایش فوری اقتصادی برای رژیم برداشت کرد؛ اثر واقعی فقط با نهایی شدن جزئیات قابل سنجش است."
-        ],
-        "impact": "نزدیکی مذاکره بدون توافق نهایی، احتمال شوک‌های کوتاه‌مدت در انتظارات اقتصادی را بالا می‌برد اما تا زمان حصول توافق، اثر ساختاری قطعی بر ثبات رژیم و معیشت عمومی محدود می‌ماند.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-in/news/other/not-there-yet-but-very-close-says-jd-vance-on-possible-us-iran-deal-hopefully-we-ll-continue-to-make-progress/ar-AA24jISg",
-        "clean_url": "https://www.msn.com/en-in/news/other/not-there-yet-but-very-close-says-jd-vance-on-possible-us-iran-deal-hopefully-we-ll-continue-to-make-progress/ar-AA24jISg",
-        "image": null,
-        "timestamp": 1780009961.0
-    },
-    {
-        "title_fa": "آمریکا و ایران ظاهراً به توافق آتش‌بس نزدیک‌اند، اما اجرای آن وابسته به تأیید ترامپ است",
-        "title_en": "U.S. and Iran appear to reach ceasefire deal, but Trump needs to approve, sources say",
-        "summary": [
-            "بنابر گزارش منابع به نقل از MS NOW، مذاکرات بین آمریکا و ایران برای آتش‌بس در وضعیت «نزدیک به توافق» قرار دارد، اما هنوز تصمیم نهایی به تأیید ترامپ وابسته است.",
-            "این یعنی هرگونه کاهش تنش احتمالی در کوتاه‌مدت، الزاماً قطعی نیست و توقف یا تأخیر در تأیید آمریکا می‌تواند روند را دوباره نوسانی کند.",
-            "در چارچوب فشار خارجی، همین وابستگی توافق به تصمیم واشنگتن نشان می‌دهد ابزار اصلی تغییر رفتار تهران، نه صرفاً مکانیسم داخلی، بلکه محاسبه سیاسی در آمریکا و مسیر تصویب آن است."
-        ],
-        "impact": "تا زمان تأیید ترامپ، «آتش‌بس» بیشتر یک توافق بالقوه است و عدم قطعیت در تصمیم‌گیری آمریکا می‌تواند اجرای آن را به تأخیر بیندازد یا تضعیف کند.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "MS NOW",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VaDMwN04tWU0zMXByR2pQVzBIajJ2TjMyNHY5TE9JZGs0aXo0dzZxNGJOQ1Zpenp2WGhXVF9qbHlnQl9vc2hNQ29fa0xZVDVTUUMzYjBOUkJSR0t3X2JBdngwbWxzSGVsVXR2cGM5aw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VaDMwN04tWU0zMXByR2pQVzBIajJ2TjMyNHY5TE9JZGs0aXo0dzZxNGJOQ1Zpenp2WGhXVF9qbHlnQl9vc2hNQ29fa0xZVDVTUUMzYjBOUkJSR0t3X2JBdngwbWxzSGVsVXR2cGM5aw",
-        "image": null,
-        "timestamp": 1780007327.0
-    },
-    {
-        "title_fa": "اعمال تحریم‌های تازه آمریکا بر فروش نفت نظامی ایران",
-        "title_en": "US imposes fresh sanctions on Iran's military oil sales, Treasury says",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا اعلام کرده تحریم‌های جدیدی علیه ایران در حوزه «فروش نفت» با تمرکز بر محموله‌های مرتبط با بخش نظامی اعمال شده است.",
-            "این اقدام به‌طور مشخص کانال‌های درآمدی را که می‌تواند به تأمین هزینه‌های نیروهای مسلح یا زنجیره‌های پشتیبانی نظامی کمک کند هدف می‌گیرد و فشار مالی را بر رژیم افزایش می‌دهد.",
-            "چنین تحریم‌هایی معمولاً با افزایش ریسک مبادله، محدودسازی دسترسی به پرداخت و سخت‌تر کردن مسیرهای فروش همراه می‌شوند و در کوتاه‌مدت به بی‌ثباتی اقتصادی و تشدید فشار داخلی کمک می‌کنند."
-        ],
-        "impact": "تحریم جدید بر نفتِ مرتبط با بخش نظامی، فشار ساختاری بر درآمدهای رژیم ایجاد می‌کند و ریسک اختلال مالی را بالا می‌برد.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/money/general/us-imposes-fresh-sanctions-on-iran-s-military-oil-sales-treasury-says/ar-AA24jb17",
-        "clean_url": "https://www.msn.com/en-us/money/general/us-imposes-fresh-sanctions-on-iran-s-military-oil-sales-treasury-says/ar-AA24jb17",
-        "image": null,
-        "timestamp": 1780003986.0
-    },
-    {
-        "title_fa": "واشینگتن و تهران «زمینه‌های یک توافق» دارند؛ اظهارات بستنت",
-        "title_en": "U.S. and Iran Have ‘Makings of a Deal,’ Bessent Says",
-        "summary": [
-            "طبق گزارش WSJ، استیون بستنت می‌گوید آمریکا و ایران «زمینه‌های یک توافق» را دارند؛ یعنی در سطح دیپلماتیک بحث توافق دوباره فعال شده است.",
-            "این نوع اظهارات، بدون جزئیات اجرایی، بیشتر نشان‌دهنده تلاش برای ایجاد کانال‌های مذاکره است تا یک توافق قطعی؛ بنابراین هنوز اثرات عملی بر اقتصاد و سیاست داخلی روشن نشده.",
-            "برای رژیم، هر سیگنال از امکان گشایش خارجی می‌تواند به کاهش فشار روانی و سیاسی کمک کند، اما اگر بسته واقعی تحریم/تعهدات مشخص نشود، هم بی‌اعتمادی داخلی و هم نوسان بازار پابرجا می‌ماند."
-        ],
-        "impact": "اظهارات بستنت می‌تواند روند مذاکره را جلو ببرد، اما تا زمان مشخص شدن ابعاد توافق، اثر مستقیم و قابل سنجش بر وضعیت اقتصادی و ثبات سیاسی محدود است.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "WSJ",
-        "url": "https://www.msn.com/en-us/news/world/us-and-iran-have-makings-of-a-deal-bessent-says/ar-AA24iQYj",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-have-makings-of-a-deal-bessent-says/ar-AA24iQYj",
-        "image": null,
-        "timestamp": 1780000080.0
-    },
-    {
-        "title_fa": "توافق ایران و آمریکا برای تمدید آتش‌بس؛ مشروط به تأیید ترامپ",
-        "title_en": "Iran, US reach deal to extend ceasefire, pending Trump's approval",
-        "summary": [
-            "طبق گزارش رویترز، ایران و آمریکا بر سر تمدید آتش‌بس به توافق رسیده‌اند، اما اجرای آن منوط به تأیید ترامپ است.",
-            "این یعنی هیچ تضمین اجرایی فوری از سوی واشنگتن بدون تصمیم سیاسی ترامپ وجود ندارد و اهرم فشار سیاسی در مرحله بعدی همچنان دست آمریکاست.",
-            "با توجه به اینکه خبر صرفاً به «تمدید آتش‌بس» اشاره دارد، اثرات مستقیم بر سطح فشار اقتصادی/سیاسی یا ساختار تحریم‌ها در متن مشخص نشده و فعلاً بیشتر یک جابه‌جایی در فاز مذاکراتی است تا تغییر پایدار در توازن قدرت."
-        ],
-        "impact": "این توافق می‌تواند موقتاً شدت درگیری را کاهش دهد، اما به‌خاطر شرط تأیید ترامپ، پایداری و زمان‌بندی آن در عمل نامطمئن می‌ماند.",
-        "tag": "آتش‌بس",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/politics/us-iran-reach-tentative-deal-waiting-for-trump-s-approval-sources-say/ar-AA24ivsK",
-        "clean_url": "https://www.msn.com/en-us/news/politics/us-iran-reach-tentative-deal-waiting-for-trump-s-approval-sources-say/ar-AA24ivsK",
-        "image": null,
-        "timestamp": 1779996919.0
-    },
-    {
-        "title_fa": "به‌روزرسانی‌های جنگ ایران و آمریکا: تهران بعد از دو حمله آمریکا پاسخ می‌دهد و IRGC به یک پایگاه آمریکا حمله هدفمند اعلام می‌کند",
-        "title_en": "Iran US War Live Updates: Tehran Hits Back After Twin American Strikes; IRGC Targets US Base",
-        "summary": [
-            "بر اساس گزارش Times Now، عملیات نظامی آمریکا و ایران در خلیج فارس و دیگر مناطق خاورمیانه تشدید شده و «دو حمله آمریکایی» باعث شده تهران «پاسخ» بدهد.",
-            "در متن، به «حمله IRGC به یک پایگاه آمریکا» اشاره شده؛ این یعنی مؤلفه‌های تلافی‌جویانه و هدف‌گیری پایگاه‌های خارجی وارد فاز پرریسک‌تری شده است.",
-            "این گزارش با تاکید بر «ترس از گسترش درگیری منطقه‌ای»، نشان می‌دهد که طرفین در حال حرکت به سمت درگیری گسترده‌تر هستند، نه محدودسازی عملیات."
-        ],
-        "impact": "تداوم چرخه پاسخ‌به‌پاسخ و هدف‌گیری پایگاه‌های آمریکا، احتمال برخورد مستقیم‌تر و سریع‌تر در سطح منطقه‌ای را بالا می‌برد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-donald-trump-netanyahu-iran-news-strikes-israel-lebanon-strait-of-hormuz-peace-talk-liveblog-154414929",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-donald-trump-netanyahu-iran-news-strikes-israel-lebanon-strait-of-hormuz-peace-talk-liveblog-154414929",
-        "image": "https://images.timesnownews.com/thumb/msid-154414929,thumbsize-26468,width-1280,height-720,resizemode-75/154414929.jpg",
-        "timestamp": 1779995340.0
-    },
-    {
-        "title_fa": "وِنس: هنوز مشخص نیست ترامپ توافق آمریکا-ایران را امضا می‌کند/ همزمان احتمال شکنندگی آتش‌بس و فشار مالی روی صادرات نفت ایران",
-        "title_en": "Vance says \"still TBD\" if Trump will sign a U.S.-Iran deal",
-        "summary": [
-            "در آستانه سه‌ماهه شدن جنگ، آمریکا و ایران از طریق میانجی‌ها روی یک تفاهم‌نامه مذاکره می‌کنند که آتش‌بس را ۶۰ روز تمدید کند و سپس گفت‌وگو درباره برنامه هسته‌ای ایران آغاز شود؛ منابع آمریکایی از رسیدن به یک توافق «موقت» خبر دادند، اما این توافق به تأیید رئیس‌جمهور ترامپ وابسته است و ایران هنوز پاسخ نداده است.",
-            "جِی‌دی ونس اعلام کرد مذاکره‌ها در جریان است و «پیشرفت زیاد» وجود دارد، ولی هنوز معلوم نیست ترامپ بتواند به سطح امضای توافق برسد؛ در همین چارچوب، وزیر خزانه‌داری اسکات بِسِنت هم مذاکره‌ها را «در حال انجام» توصیف کرد.",
-            "همزمان آتش‌بس شکننده ارزیابی می‌شود: پنتاگون دو بار در همین هفته به هدف‌هایی در ایران حمله «دفاعی» زده، ایران آن را نقض دانسته و از حمله متقابل به یک پایگاه آمریکایی خبر داده؛ CENTCOM نیز برخی ادعاهای ایران را رد کرد و همچنین خبر رهگیری یک موشک ایرانی در کویت را اعلام کرد.",
-            "در بُعد تحریم‌ها، وزارت خزانه‌داری آمریکا چهارچوب فشار مالی را با تحریم نهادها و شرکت‌هایی که گفته می‌شود به شرکت نفتی نظامیِ ایران در صادرات نفت کمک می‌کنند تشدید کرد؛ هدف، محدود کردن درآمد ایران از مسیر فروش نفت به چین و بازارهای دیگر و قطع/کند کردن شبکه «ناوگان سایه» است."
-        ],
-        "impact": "ترکیب بلاتکلیفی سیاسی درباره امضای توافق از سوی ترامپ و تشدید فشار تحریمی همزمان، می‌تواند هم سرعت مذاکرات را نگه دارد و هم خطر فرسایشی شدن بحران و لغزش دوباره به درگیری را افزایش دهد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.25,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-claims-target-u-retaliation-105002900.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-claims-target-u-retaliation-105002900.html",
-        "image": "http://www.bing.com/th?id=ONUT.noQPIWTvFIYz7Q4Y0QjxBA&pid=News",
-        "timestamp": 1779992880.0
     }
 ]
