@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "از تهران تا تل‌آویو: رسانه‌های خاورمیانه جنگ ایران و مذاکرات آتش‌بس را چگونه قاب‌بندی می‌کنند؟",
+        "title_en": "From Tehran to Tel Aviv: How press in Middle East is framing Iran war, ceasefire negotiations?",
+        "summary": [
+            "این گزارش به‌جای ارائه اطلاعات میدانی، بر «قاب‌بندی رسانه‌ای» در چند کشور از تهران تا تل‌آویو تمرکز دارد و نشان می‌دهد جنگ و مذاکرات آتش‌بس چگونه در افکار عمومی بازنمایی می‌شوند.",
+            "چارچوب رسانه‌ای می‌تواند مستقیماً بر محاسبات سیاسی اثر بگذارد: هرچه روایت‌ها درباره «امکان توقف درگیری» یا «ادامه‌دادن فشار» بیشتر و متناقض‌تر باشد، احتمال سوءمحاسبه و سخت‌تر شدن فضای مذاکره افزایش پیدا می‌کند.",
+            "با توجه به اینکه متن منبع حاضر درباره جزئیات اجرایی یا تحولات قابل راستی‌آزمایی (مانند تایید رسمی آتش‌بس، حمله، یا تحریم جدید) اطلاعات مشخص نمی‌دهد، نتیجه‌گیری باید محدود به اثرات تبلیغاتی/روایی بر افکار عمومی و فشار روانی بر طرف‌ها باشد."
+        ],
+        "impact": "اثر اصلی این گزارش، تحریک یا مهندسی ادراک عمومی از وضعیت جنگ و مذاکرات است، نه شواهد مستقیم از تغییرات عملیاتی.",
+        "tag": "رسانه‌ای",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMnBJeWEwQnk3ckJkLXZ4aDZFWFVIaEJVRE5yYTJHcjI2MUFLQVcydExxbmEtOHBOcnVCN2xfWmw3RGZEbTRTNlRySEQ4dnFDN3A3S1pyYjRFOVlEeXVMallQWTVXN25GdEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJMnBJeWEwQnk3ckJkLXZ4aDZFWFVIaEJVRE5yYTJHcjI2MUFLQVcydExxbmEtOHBOcnVCN2xfWmw3RGZEbTRTNlRySEQ4dnFDN3A3S1pyYjRFOVlEeXVMallQWTVXN25GdEE",
+        "image": null,
+        "timestamp": 1780766484.0
+    },
+    {
+        "title_fa": "ایران موشک به خلیج فارس شلیک کرد؛ پس از هدف قرار گرفتن سایت‌های راداری ایران توسط آمریکا",
+        "title_en": "Iran fires missiles at Gulf after US targets Iranian radar sites",
+        "summary": [
+            "طبق گزارش الجزیره، ایران پس از آنکه آمریکا سایت‌های راداری ایران را هدف گرفت، موشک‌هایی را به منطقه خلیج فارس شلیک کرد.",
+            "این اقدام مستقیماً در چارچوب تقابل عملیاتی با توان شناسایی/پایش مطرح می‌شود: رادارها هدف قرار گرفته‌اند و پاسخ ایران هم در حوزه پرتاب موشک انجام شده است.",
+            "در سطح راهبردی، پیامد فوری این رخداد بالا رفتن ریسک خطای محاسباتی و تشدید درگیری در یک مسیر حساس دریایی است، چون هر دو طرف از «بازدارندگی از طریق اقدام» استفاده کرده‌اند."
+        ],
+        "impact": "این رخداد می‌تواند چرخه پاسخ و مقابله را در سطح منطقه‌ای سریع‌تر کند و احتمال درگیری مستقیم یا حوادث ناخواسته در خلیج فارس را افزایش دهد.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-attacks-bahrain-kuwait-after-us-hits-surveillance-radar-sites/ar-AA24ZuoS",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-attacks-bahrain-kuwait-after-us-hits-surveillance-radar-sites/ar-AA24ZuoS",
+        "image": null,
+        "timestamp": 1780766100.0
+    },
+    {
+        "title_fa": "افزایش نگرانی وزارت دفاع آمریکا از تهدید جاسوسی اسرائیل",
+        "title_en": "Trump’s Defense Department Sees Growing Espionage Threat From Israel",
+        "summary": [
+            "طبق گزارش نیویورک‌تایمز، وزارت دفاع دولت ترامپ از «تهدید رو به رشد جاسوسی» از جانب اسرائیل ابراز نگرانی کرده است؛ محور خبر بر افزایش سطح ریسک امنیتی علیه منافع نظامی آمریکا است.",
+            "این گزاره بیشتر یک هشدار اطلاعاتی/امنیتی است تا اعلام عملیات یا تقابل مستقیم؛ یعنی تمرکز روی سامانه‌های ضدجاسوسی، حفاظت از اطلاعات و ریسک نفوذ است.",
+            "در سطح راهبردی، چنین جمع‌بندی‌ای معمولاً می‌تواند به تشدید کنترل‌های امنیتی داخلی، سخت‌تر شدن دسترسی‌ها و افزایش هزینه‌های عملیاتی برای نیروهای مرتبط با زنجیره‌های اطلاعاتی منجر شود."
+        ],
+        "impact": "این نوع ارزیابی، اگر عملیاتی شود، می‌تواند امنیت اطلاعاتی و هماهنگی‌های دفاعی آمریکا را تحت فشار قرار دهد، اما به‌خودی‌خود نشانه جنگ یا اقدام نظامی فوری نیست.",
+        "tag": "امنیت",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2NIaVBRalZJbm9EbmpVMS1yclhrZGlKbmtsSnhVSVJveXk5TVpCNG4tOVU3LTczSGczTWpPbE56X2lwc0NaQUlBVVl1ZC1BbUtjRElLVE1oTHRDTzBPZHdGRGJPTDVvbE1GMlVzcW1LenJRNTYtRHREbVl1c3VBZUN6RUMyQXViS3NSbkVRMmcxaVhQcWp0MU84blVHUHBtTmZsdg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2NIaVBRalZJbm9EbmpVMS1yclhrZGlKbmtsSnhVSVJveXk5TVpCNG4tOVU3LTczSGczTWpPbE56X2lwc0NaQUlBVVl1ZC1BbUtjRElLVE1oTHRDTzBPZHdGRGJPTDVvbE1GMlVzcW1LenJRNTYtRHREbVl1c3VBZUN6RUMyQXViS3NSbkVRMmcxaVhQcWp0MU84blVHUHBtTmZsdg",
+        "image": null,
+        "timestamp": 1780764108.0
+    },
+    {
         "title_fa": "ترامپ از «به‌خوبی پیش رفتن» وضعیت ایران می‌گوید؛ هم‌زمان آمریکا موشک‌ها و پهپادها را سرنگون می‌کند",
         "title_en": "Trump says 'situation with Iran seems to be going quite well' as US shoots down missiles and drones",
         "summary": [
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/oil-exports-through-the-strait-of-hormuz-might-not-return-to-levels-seen-before-the-iran-war/ar-AA24q0vb",
         "image": null,
         "timestamp": 1780120800.0
-    },
-    {
-        "title_fa": "اظهارات پیت هگست درباره توان آمریکا برای ازسرگیری جنگ علیه ایران",
-        "title_en": "US ‘more than capable’ of resuming war against Iran, Pete Hegseth says",
-        "summary": [
-            "پیت هگست در چارچوب مواضع رسانه‌ای ادعا کرده که آمریکا «بیش از اندازه توانمند» است تا جنگ علیه ایران را از سر بگیرد؛ این اظهارات نشان‌دهنده آماده‌سازی ذهنی/سیاسی برای سناریوی درگیری است، نه یک تصمیم مشخص اما یک سیگنال تهدیدزا.",
-            "در حوزه فشار خارجی، چنین پیام‌هایی می‌تواند ریسک محاسبات اقتصادی و سیاسی را بالا ببرد: افزایش احتمال تشدید تحریم‌ها یا محدودیت‌های مالی-تجاری، و فشار غیرمستقیم بر تصمیم‌گیری سرمایه‌گذاران و شبکه‌های تأمین داخلی.",
-            "چون متن، جزئیات عملیاتی (زمان، هدف، یا نوع اقدام) ارائه نمی‌کند، اتصال مستقیم به اعتراضات داخلی یا بحران فوری اقتصادی قابل اثبات نیست؛ با این حال فضای عدم‌اطمینان معمولاً به بی‌ثباتی قیمت‌ها، هزینه‌های امنیتی و تشدید رفتارهای دفاعی دولت برای کنترل افکار عمومی می‌انجامد."
-        ],
-        "impact": "این اظهارات به‌عنوان سیگنال سیاسی از احتمال تشدید برخورد آمریکا می‌تواند سطح ریسک و فشار اقتصادی-امنیتی را افزایش دهد، حتی بدون ارائه جزئیات اقدام فوری.",
-        "tag": "تهدید",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlpZMUV3bmUtY2hCTFIzV3ZleHVJVWU3LWtmOHd2cVRpQkJhVWp2SmZpcFA2M2psb0ItSWlqM01PVXBDakY1SGF3QllRTVk4TzNNS1Qya3lvUWlJdjAtTFF4YzFkZXlHSTlMSG16Mkt2em5WTjk0Z24ydzV6RVBTVi1YVDF3TGQ0blpQMHllRExKMWZYbUhMYy0wbUdPN2ZlRDhwa2Etd3FjQkRMTWp4Z3ktVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlpZMUV3bmUtY2hCTFIzV3ZleHVJVWU3LWtmOHd2cVRpQkJhVWp2SmZpcFA2M2psb0ItSWlqM01PVXBDakY1SGF3QllRTVk4TzNNS1Qya3lvUWlJdjAtTFF4YzFkZXlHSTlMSG16Mkt2em5WTjk0Z24ydzV6RVBTVi1YVDF3TGQ0blpQMHllRExKMWZYbUhMYy0wbUdPN2ZlRDhwa2Etd3FjQkRMTWp4Z3ktVQ",
-        "image": null,
-        "timestamp": 1780114980.0
-    },
-    {
-        "title_fa": "موک (MoU) میان آمریکا و ایران؛ کندی در نهایی‌سازی توافق و پیامدهای بالقوه برای پایان جنگ",
-        "title_en": "What to watch for in the US-Iran memo to end the war",
-        "summary": [
-            "طبق گزارش CNN (از طریق MSN)، پیش‌نویس «توافق‌نامه تفاهم» آمریکا و ایران برای پایان جنگ با وجود کوتاه بودن احتمالی متن، روند نهایی‌سازی بسیار طولانی‌تر از انتظار طی می‌کند.",
-            "این تأخیر نشان می‌دهد که شکاف‌های جدی در جزئیات اجرایی/سیاسی میان طرفین هنوز بسته نشده و خروجی ممکن است زمان‌بر یا پرریسک‌تر از سناریوی اعلامی باشد.",
-            "مهم‌ترین نقطه برای رصد، خودِ فرایند مذاکره است: اگر تأخیر ادامه‌دار باشد، احتمال طولانی شدن وضعیت «عدم‌قطعیت» و کشیده شدن بحران به فازهای تازه افزایش می‌یابد."
-        ],
-        "impact": "کندی در نهایی‌سازی MoU احتمالاً فضای بی‌ثباتی و ادامه تنش را تا روشن شدن مفاد توافق طولانی می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/what-to-watch-for-in-the-us-iran-memo-to-end-the-war/ar-AA24pUKc",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/what-to-watch-for-in-the-us-iran-memo-to-end-the-war/ar-AA24pUKc",
-        "image": "http://www.bing.com/th?id=ONUT.15SaN4OaFblON1gPTOmgdQ&pid=News",
-        "timestamp": 1780112959.0
-    },
-    {
-        "title_fa": "بلاتکلیفی تصمیم ترامپ بعد از نشست Situation Room؛ روایت از پیشرفت پیش‌نویس توافق با ایران",
-        "title_en": "Iran live updates: Trump yet to announce decision following Situation Room meeting",
-        "summary": [
-            "گزارش ABC News (MSN) می‌گوید مذاکره‌کنندگان آمریکایی و ایرانی به یک «پیش‌نویس توافق» رسیده‌اند، اما تصمیم نهایی هنوز از سوی ترامپ اعلام نشده است؛ یعنی خروجی در مرحله سیاسی/اجرایی گیر کرده، نه در مرحله فنی.",
-            "این فاصله بین «پیش‌نویس» و «تصمیم نهایی» می‌تواند نشانه فشارِ درون‌سیستمی در واشنگتن یا مانع‌تراشی سیاسی باشد؛ به‌خصوص وقتی خروجی هنوز قطعی نشده، ریسکِ بی‌ثبات‌سازی انتظارات در تهران و واشنگتن بالا می‌رود.",
-            "چون جزئیات تحریم/لغو تحریم، زمان‌بندی یا سازوکار اجرا در متن نیامده، نمی‌شود اثرات اقتصادی یا ابزارهای اهرمی را دقیق سنجید؛ اما نفسِ پیشرفت مذاکره نشان می‌دهد کانال‌های فشار-چانه‌زنی فعال است و احتمالاً دولت ایران تلاش می‌کند از بلاتکلیفی آمریکا سود سیاسی ببرد."
-        ],
-        "impact": "رسیدن به پیش‌نویس توافق، اهرم مذاکره را تقویت می‌کند اما عدم اعلام تصمیم نهایی، عامل اصلی نااطمینانی راهبردی و نوسان انتظارات طرفین باقی می‌ماند.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-yet-to-announce-decision-following-situation-room-meeting/ar-AA23ZnAN",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-yet-to-announce-decision-following-situation-room-meeting/ar-AA23ZnAN",
-        "image": "http://www.bing.com/th?id=ONUT.aUvtt-7D9YQOGPZ2fEbLAA&pid=News",
-        "timestamp": 1780111860.0
     }
 ]
