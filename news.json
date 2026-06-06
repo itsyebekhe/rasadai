@@ -108,6 +108,24 @@
         "timestamp": 1780742700.0
     },
     {
+        "title_fa": "ایران برای جام جهانی: مسیر ۴۰ ساعته با اتوبوس، گیر و دار ویزاها و جابه‌جایی به مکزیک",
+        "title_en": "How Iran prepared for the World Cup: A 40-hour bus journey, visa issues and a switch to Mexico",
+        "summary": [
+            "تیم ملی ایران پس از ماه‌ها ابهام ناشی از تنش با آمریکا، در فرودگاه آنتالیا ترکیه راهی آمریکای شمالی شد و قرار است بامداد یکشنبه در تیخوانا مکزیک فرود بیاید؛ مسیری که گزارش از یک برنامه‌ریزی اضطراری حکایت می‌کند.",
+            "اگرچه ویزای مکزیک اوایل هفته برای بخشی از کاروان صادر شده بود، پس از تحویل پاسپورت‌ها به سفارت آمریکا در ترکیه، فقط برخی افراد (از جمله سرمربی امیر غالنویی و برخی دستیاران) ویزای لازم را گرفتند؛ اما ۱۳ نفر از جمله بخش‌هایی از تیم مدیریتی، دو تحلیلگر، مسئولان و افراد رسانه‌ای و غیره بدون ویزا ماندند.",
+            "بیانیه یک مقام کاخ سفید درباره صدور ویزا برای «نیروهای پشتیبانی لازم» و خودداری از اجازه برای «سوءاستفاده برای ورود افراد خطرناک» باعث شوک در اردوی ایران شد و فدراسیون فوتبال ایران از ضرورت پیگیری و تأمین ویزای اعضای تیم فعال در کمپ سخن گفت تا خلأهای ایجادشده پوشش داده شود."
+        ],
+        "impact": "این گزارش نشان می‌دهد موانع ویزا و کنترل‌های امنیتی آمریکا عملاً بر انسجام و ترکیب کاروان ایران اثر مستقیم گذاشته و برای حضور در بازی‌های گروهی نیازمند جبران فوری و تصمیم‌های لجستیکی است.",
+        "tag": "ویزای-سفر",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/athletic/7332366/2026/06/06/iran-world-cup-preparations/",
+        "clean_url": "https://www.nytimes.com/athletic/7332366/2026/06/06/iran-world-cup-preparations",
+        "image": "http://www.bing.com/th?id=ONUT.6bGu8oszBahMk8wfCLbcjw&pid=News",
+        "timestamp": 1780739640.0
+    },
+    {
         "title_fa": "ایران: حملات آمریکا و اسرائیل علت «کاهش جزئی» نظارت هسته‌ای است",
         "title_en": "Iran says US and Israeli strikes to blame for partial loss of nuclear oversight",
         "summary": [
@@ -5379,24 +5397,6 @@
         "url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-yet-to-announce-decision-following-situation-room-meeting/ar-AA23ZnAN",
         "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-yet-to-announce-decision-following-situation-room-meeting/ar-AA23ZnAN",
         "image": "http://www.bing.com/th?id=ONUT.aUvtt-7D9YQOGPZ2fEbLAA&pid=News",
-        "timestamp": 1780111860.0
-    },
-    {
-        "title_fa": "توپولوژیِ آتش‌بس: آتش‌بس‌های «روی کاغذ» در ایران-لبنان-غزه هم‌پیوندند اما در حال فرسایش",
-        "title_en": "Ceasefires in Iran, Lebanon and Gaza are interconnected — and fraying",
-        "summary": [
-            "طبق گزارش NPR، آتش‌بس‌هایی «روی کاغذ» میان اسرائیل و آمریکا درباره ایران و همچنین آتش‌بس‌های مرتبط در لبنان و غزه وجود دارد؛ اما اجرای میدانی آنها یکپارچه و واقعی نیست.",
-            "NPR صراحتاً می‌گوید با وجود آتش‌بس‌ها، در عمل درگیری ادامه دارد و شکاف میان ادعاهای دیپلماتیک و واقعیت میدان به‌وجود آمده است.",
-            "این وضعیت نشان می‌دهد آتش‌بس‌ها در یک زنجیره وابسته‌اند، اما «فرسایش» یعنی احتمال تشدید یا فروپاشی هماهنگی توقف جنگ بالاتر می‌رود، چون طرف‌ها به تعهدات پایبند کامل نیستند."
-        ],
-        "impact": "ادامه جنگ با وجود آتش‌بس‌های اعلامی، احتمال سرریز شدن درگیری میان جبهه‌های متصل (ایران، لبنان و غزه) را افزایش می‌دهد و کانال‌های کنترل تنش را تضعیف می‌کند.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": -0.55,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/05/29/nx-s1-5837557/ceasefires-in-iran-lebanon-and-gaza-are-interconnected-and-fraying",
-        "clean_url": "https://www.npr.org/2026/05/29/nx-s1-5837557/ceasefires-in-iran-lebanon-and-gaza-are-interconnected-and-fraying",
-        "image": null,
         "timestamp": 1780111860.0
     }
 ]
