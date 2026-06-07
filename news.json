@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ: آزادسازی دارایی‌های ایران قبل از رسیدن به توافق آتش‌بس انجام نمی‌شود",
+        "title_en": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+        "summary": [
+            "بر اساس گزارش الجزیره، ترامپ اعلام کرده است که قبل از تحقق توافق آتش‌بس، دارایی‌های ایران آزاد نخواهد شد؛ یعنی اهرم مالی همچنان در دست واشنگتن می‌ماند.",
+            "این موضع به‌طور ساختاری فشار مالی را حفظ می‌کند و می‌تواند هزینه‌های اقتصادی و تصمیم‌گیری داخلی را بالا ببرد، بدون اینکه نشانه‌ای از کاهش فشار در کوتاه‌مدت دیده شود.",
+            "چون شرط‌گذاری برای آزادسازی دارایی‌ها به «رسیدن به آتش‌بس» گره خورده، هرگونه عملیات یا بن‌بست در مسیر مذاکرات، مستقیماً به تداوم محدودیت‌های مالی علیه تهران منجر خواهد شد."
+        ],
+        "impact": "با قفل ماندن دارایی‌ها تا زمان آتش‌بس، احتمال تشدید فشار اقتصادی و افزایش ریسک ناپایداری سیاسی-اقتصادی برای رژیم بالاتر می‌رود.",
+        "tag": "sanctions",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached/ar-AA252ZUn",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached/ar-AA252ZUn",
+        "image": null,
+        "timestamp": 1780851258.0
+    },
+    {
         "title_fa": "حمله هوایی اسرائیل به جنوب بیروت؛ ادامه‌دار شدن جنگ درست چند روز پس از توافق آتش‌بس مورد حمایت آمریکا",
         "title_en": "Israel strikes Beirut's southern suburbs days after US-supported ceasefire deal",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/president-trump-if-we-don-t-get-what-we-want-we-ll-end-it-a-different-way-in-iran/vi-AA24sb1Y",
         "image": null,
         "timestamp": 1780191740.0
-    },
-    {
-        "title_fa": "آتش‌بار نیروهای آمریکایی علیه یک کشتی در تنگه هرمز؛ همزمان تشدید جنگ اسرائیل در لبنان",
-        "title_en": "Iran war live: US forces fire at ship 'running Hormuz blockade'",
-        "summary": [
-            "گزارش می‌گوید نیروهای آمریکا به یک کشتی که «در حال دور زدن/تلاش برای عبور از چارچوب‌های مربوط به هرمز» معرفی شده، شلیک کرده‌اند؛ یعنی خطر برخورد مستقیم نظامی در تنگه‌ای که مسیر حیاتی تجارت است بالا رفته است.",
-            "در همان گزارش، گفته می‌شود اسرائیل جنگ در لبنان را تشدید کرده است؛ این هم‌زمانی، بار ریسک درگیری منطقه‌ای را بیشتر می‌کند و می‌تواند تهران را به پاسخ‌گویی عملی یا تشدید آمادگی امنیتی سوق دهد.",
-            "یک مقام ارشد ایرانی، دونالد ترامپ را به «خیانت به دیپلماسی برای سومین بار» متهم کرده؛ اما خودِ متنِ خبر عمدتاً روی حادثه نظامی و زمینه میدانی تمرکز دارد، نه جزئیات مشخصِ توافق‌ها یا شروط دیپلماتیک."
-        ],
-        "impact": "شلیک آمریکا به کشتی در هرمز می‌تواند یک چرخه حادثه-پاسخ ایجاد کند و ریسک اشتباه محاسباتی را در نقطه حساس تجارت دریایی به‌طور جدی بالا ببرد.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-war-live-us-forces-fire-at-ship-running-hormuz-blockade/ar-AA24sXCY",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-live-us-forces-fire-at-ship-running-hormuz-blockade/ar-AA24sXCY",
-        "image": "http://www.bing.com/th?id=ONUT.1eu7mI8-LLF9jsF69TwuEw&pid=News",
-        "timestamp": 1780190443.0
     }
 ]
