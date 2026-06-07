@@ -270,6 +270,24 @@
         "timestamp": 1780823205.0
     },
     {
+        "title_fa": "ایران برای نخستین بار از زمان آتش‌بس ماه آوریل، موشک به اسرائیل شلیک کرد؛ تل‌آویو در پی حمله به حومه بیروت تهدیدهای متقابل را فعال کرد",
+        "title_en": "Live Updates: Iran Fires Missiles at Israel for First Time Since April Cease-Fire",
+        "summary": [
+            "بر اساس گزارش، ایران بعد از حمله اسرائیل به حومه پایتخت لبنان (بیروت) در همان روز، برای نخستین بار از زمان آتش‌بس ماه آوریل به اسرائیل موشک شلیک کرد.",
+            "این شلیک به‌طور مستقیم در چارچوب تهدیدهای «پاسخ متقابل ایران» توصیف شده که پیش از آن به دنبال حمله اسرائیل مطرح شده بود.",
+            "تحلیل نیویورک‌تایمز نقطه شروع تنش را حمله اسرائیل به اطراف بیروت می‌داند و نشان می‌دهد که زنجیره درگیری در لبنان به سرعت به سطح اقدام مستقیم علیه اسرائیل منتقل شده است."
+        ],
+        "impact": "این رخداد، سطح درگیری را از تهدید و بازدارندگی به اقدام موشکی مستقیم ارتقا می‌دهد و ریسک چرخه پاسخ‌به‌پاسخ را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
+        "clean_url": "https://www.nytimes.com/live/2026/06/07/world/iran-israel-missiles",
+        "image": "http://www.bing.com/th?id=ONUT.dXv-Hv6SQ1lw-5DHTkji1Q&pid=News",
+        "timestamp": 1780823040.0
+    },
+    {
         "title_fa": "اظهار جدید ترامپ درباره «قول بزرگ هسته‌ای» ایران؛ تکرار یک ادعا، نه تحول واقعی",
         "title_en": "Trump Says Iran Has Made a ‘Big’ Nuclear Promise. It Isn’t New.",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.outlookindia.com/international/donald-trump-sends-back-deal-to-iran-for-revision-demands-tougher-terms-on-uranium-and-hormuz",
         "image": null,
         "timestamp": 1780206754.0
-    },
-    {
-        "title_fa": "ترامپ: ایران به «عدم دستیابی به سلاح هسته‌ای» موافقت کرده است",
-        "title_en": "Trump says Iran has agreed to no nuclear weapons",
-        "summary": [
-            "طبق گزارش France 24، ترامپ ادعا کرده که ایران به برنامه‌ای برای «نداشتن سلاح هسته‌ای» متعهد شده است؛ اما محتوای فنی، زمان‌بندی و سازوکار را در این گزارش مشخص نمی‌کند.",
-            "اگر چنین ادعایی واقعیت اجرایی پیدا کند، فشار خارجی و ریسک‌های تحریمی می‌تواند وارد فاز جدید شود و از منظر ساختار قدرت، رژیم را با امکان کاهش سطح تنش‌های بین‌المللی روبه‌رو کند؛ در عین حال، این گزارش به‌طور صریح جزئیات کاهش یا ادامه تحریم‌ها را نمی‌گوید.",
-            "چون متن خبر صرفاً به سطح اظهارات ترامپ محدود است، نمی‌توان نتیجه گرفت که چه اثری بر اقتصاد یا اعتراضات داخلی گذاشته می‌شود؛ اثر داخلی زمانی قابل ارزیابی است که متن توافق/تعهد و آثار اقتصادی آن اعلام شود."
-        ],
-        "impact": "این اظهارات اگر به توافق قابل راستی‌آزمایی منجر نشود، بیشتر یک ابزار چانه‌زنی سیاسی خواهد بود و در صورت تحقق، می‌تواند بر معادله تحریم-امنیت اثر بگذارد.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "France 24",
-        "url": "https://www.msn.com/en-us/politics/government/trump-says-iran-has-agreed-to-no-nuclear-weapons/ar-AA24t9Ni",
-        "clean_url": "https://www.msn.com/en-us/politics/government/trump-says-iran-has-agreed-to-no-nuclear-weapons/ar-AA24t9Ni",
-        "image": null,
-        "timestamp": 1780205595.0
     }
 ]
