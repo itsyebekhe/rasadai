@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "توقف موقت در حملات؛ ایران و اسرائیل اعلام وقفه در درگیری",
+        "title_en": "Middle East updates: Iran, Israel declare pause in attacks",
+        "summary": [
+            "به گزارش DW، ایران و اسرائیل اعلام کرده‌اند که یک وقفه موقت در حملات برقرار می‌شود؛ یعنی سطح درگیری فعلاً کاهش یافته است، اما ماهیت آن «توقف دائمی» معرفی نشده است.",
+            "این اعلام وقفه بیش از هر چیز یک کانال مدیریت بحران است: هدف، پایین آوردن ریسک تشدید سریع و زمان‌دادن برای هماهنگی‌های سیاسی/امنیتی است، نه حل ریشه‌ای تنش‌ها.",
+            "با توجه به اینکه جزئیات دقیق (دامنه، زمان‌بندی، سازوکار راستی‌آزمایی و تبعیت عملی) در متن ارائه نشده، اثر آن فعلاً نامشخص است و می‌تواند به شکل شکننده و قابل‌برگشت باشد."
+        ],
+        "impact": "وقتی طرفین «وقفه» اعلام می‌کنند، خطر تشدید کوتاه‌مدت کاهش می‌یابد، اما بدون جزئیات اجرایی، احتمال برگشت سریع درگیری باقی می‌ماند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.0,
+        "source": "DW",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-strikes-ceasefire-lebanon-beirut/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-israel-strikes-ceasefire-lebanon-beirut",
+        "image": null,
+        "timestamp": 1780958551.0
+    },
+    {
         "title_fa": "ایران جنگ: چه کسانی می‌جنگند و چرا؟ (گزارش گاردین)",
         "title_en": "Iran war: who is fighting and why?",
         "summary": [
@@ -36,6 +54,24 @@
         "timestamp": 1780946909.0
     },
     {
+        "title_fa": "پشت‌پرده: چطور اسرائیل و ایران تقریباً ترامپ را دوباره به سمت جنگ کشاندند (Axios)",
+        "title_en": "Behind the scenes: How Israel and Iran nearly pulled Trump back to war",
+        "summary": [
+            "این گزارش Axios بر «مقابله نزدیک و غیرعلنی» میان طرفین تمرکز دارد که در مقطعی عملاً به آستانه بازگرداندن دولت ترامپ به مسیر درگیری نظامی نزدیک شد.",
+            "محور روایت، تلاش‌های دیپلماتیک/امنیتی پشت‌پرده است؛ یعنی نه اعلام رسمیِ جنگ، بلکه مدیریت ریسک تشدید که می‌توانست تصمیم‌گیری در واشنگتن را به سمت اقدام تهاجمی سوق دهد.",
+            "خروجی گزارش نشان می‌دهد که کانال‌های ارتباطی و سیگنال‌دهی بین تهران و تل‌آویو برای اثرگذاری بر محاسبات آمریکا فعال بوده و خطر جهش از تنش کنترل‌شده به جنگ واقعی وجود داشته است."
+        ],
+        "impact": "این نوع نزدیکی عملیاتی به جنگ، ریسک بی‌ثباتی منطقه‌ای را بالا می‌برد و هرگونه خطای محاسبه می‌تواند مسیر تصمیم‌گیری آمریکا را سریع عوض کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Axios",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tdTdybjZHMG5MZ0tMUzlTZzMyWk5yQzNtMWtObFB2M3pPQkhRQzM2QmNsZG1xd3JTSmtzUDdOWFZjS1pmUzVPVWhmSmM2amdXVFRUbW14QUNNN2wyZ3M5ODR5cndwOGd3Q056NEY5TDBnR0xHa3k2VQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tdTdybjZHMG5MZ0tMUzlTZzMyWk5yQzNtMWtObFB2M3pPQkhRQzM2QmNsZG1xd3JTSmtzUDdOWFZjS1pmUzVPVWhmSmM2amdXVFRUbW14QUNNN2wyZ3M5ODR5cndwOGd3Q056NEY5TDBnR0xHa3k2VQ",
+        "image": null,
+        "timestamp": 1780946300.0
+    },
+    {
         "title_fa": "تعلیق موقت پس از دور تازه انتقام: تهران و تل‌آویو فعلاً عقب نشستند",
         "title_en": "After another round of retaliation, Iran and Israel say they will hold off for now",
         "summary": [
@@ -52,6 +88,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT04zS19vNnRILTE4a1pNXzFGaVJvby1JTEIzYzJrcmNjajd2LURLTlQ2TkQ5YkUtc0YtenllTjdqRVhLQTZDY1EyWEc5eThhVmF6NXE0TUZJQS1fbnpZYUY3dFBQQ19jMlJKbHdvR010SDZqdE1vMy1jZ1E0cUt3QmVpYjFSLTJrS1FhdjNSY2ZuZnM5SXVoNFZMRmFNV3ZEU3hXaVZxYUg2SDMzbGd2ejdsUG9IRmdaTmpUWEdLWE5GT09pRzlXQmpJbGZKLVF2aElMR2JzWTVxN3F30gHqAUFVX3lxTFBtaE1yZS11OUItcFFFNE5oODNjRzV5UjZqUGlySHpWQXFPbDJ3VG5kNkROUVhmSmNvc1pDbHdyb3I1UzhPUXEwa3g3eWNrQ3pHYi1LQXNkYXVxOVNtWl82VldkVzY3V25vQ0w3b243eDl3Uk5BNWdzSWkxSXRCUnVrWWJrWFZsM2RfZjZ2dk1PU0hPUjhGaERhWW9ndC1fZEd6amQ5R0wyYXZkcGxSZFJ3S3pUOS15Y0VPa2NEMHk0RUxqd2xLekY5c2NVSmxJQV8wRVk1RHZPVGhMWFhka3NnY0ZhcmdsWkhWQQ",
         "image": null,
         "timestamp": 1780945985.0
+    },
+    {
+        "title_fa": "ترامپ می‌خواهد فرمان بدهد، اما در ایران به محدودیت می‌خورد",
+        "title_en": "Trump Wants to Call the Shots. But in Iran, He Keeps Hitting His Limits.",
+        "summary": [
+            "نیویورک‌تایمز توصیف می‌کند که ترامپ با بحران‌های خاورمیانه همان الگوی «صدور دستور و برخورد از بالا» را پیش می‌برد که خود وعده داده بود تکرار نشود، و همین مسئله در ایران با مانع روبه‌رو شده است.",
+            "این گزارش نشان می‌دهد محدودیت‌های عملی در ایران—نه صرفاً موضع‌گیری سیاسی—باعث می‌شود ترامپ نتواند کنترل کامل بر نتایج را در دست بگیرد؛ یعنی شکاف میان خواست تصمیم‌گیر و توان اثرگذاری وجود دارد.",
+            "چارچوب اصلی مقاله این است که «ایران مثل یک هدف ساده برای مدیریت بحران نیست» و برای اعمال فشار یا تغییر رفتار، هزینه‌ها، پیچیدگی‌ها و خطوط قرمز ساختاری باعث می‌شوند سیاست واشنگتن به نتیجه دلخواه نرسد."
+        ],
+        "impact": "اثر فوری این وضعیت، کاهش قابلیت پیش‌بینی سیاست خارجی واشنگتن در قبال ایران و استمرار بن‌بست در مدیریت بحران است.",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html",
+        "clean_url": "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html",
+        "image": "http://www.bing.com/th?id=ONUT.IY1ttolHFXCsyW7Aggl9mA&pid=News",
+        "timestamp": 1780930140.0
+    },
+    {
+        "title_fa": "رضا پهلوی: حل بحران با مذاکره با رژیم تهران ممکن نیست",
+        "title_en": "Iran’s Crown Prince Pahlavi says crisis cannot be solved through talks with Tehran's regime",
+        "summary": [
+            "رضا پهلوی (ولیعهد سابق در تبعید) در پی ۲۴ ساعت تشدید تنش میان ایران، حزب‌الله و اسرائیل، مذاکره با رژیم تهران را رد کرد و گفت صلح پایدار بدون تغییر حاکمیت در ایران شکل نمی‌گیرد.",
+            "او با اشاره به نقش تهران در حمایت از «پروکسی‌های تروریستی»، اتهام زد که جمهوری اسلامی دوباره منطقه را به سمت درگیری نظامی می‌کشاند؛ ادعایی که به حمله موشکی ایران به اسرائیل پس از ضربه اسرائیل به اهداف حزب‌الله در بیروت (دحیه) و سپس پاسخ هوایی اسرائیل به اهداف نظامی در غرب و مرکز ایران گره خورده است.",
+            "پهلوی همچنین از دولت‌های خارجی خواست از روند مذاکره با تهران دست بردارند و به جای آن از «مبارزه مردم ایران برای آزادی» حمایت کنند؛ هم‌زمان با گزارش‌هایی که از تلاش آمریکا برای توافق گسترده‌تر جهت پایان درگیری خبر می‌دهند."
+        ],
+        "impact": "این موضع‌گیری، فشار سیاسی علیه مسیر مذاکره با تهران را تشدید می‌کند و در چارچوب افزایش چرخه کنش متقابل ایران–اسرائیل، احتمال تداوم و سخت‌تر شدن مهار بحران را بالاتر می‌برد.",
+        "tag": "مذاکره",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-crown-prince-pahlavi-says-213847985.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-crown-prince-pahlavi-says-213847985.html",
+        "image": "http://www.bing.com/th?id=ONUT.hvxsiC9Ggd_6u9FvYxS0sA&pid=News",
+        "timestamp": 1780929900.0
     },
     {
         "title_fa": "دادوستد حملات اسرائیل و ایران؛ تهدید بازگشت جنگ تمام‌عیار در منطقه",
@@ -160,6 +232,24 @@
         "clean_url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
         "image": null,
         "timestamp": 1780918160.0
+    },
+    {
+        "title_fa": "ایران و اسرائیل موقتاً حملات را متوقف کردند؛ هشدار تهران و اسرائیل به ادامه انتقام در صورت نقض آتش‌بس",
+        "title_en": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
+        "summary": [
+            "ایران و اسرائیل پس از تبادل آتش برای نخستین بار از زمان «توافق آوریل»، اعلام کردند حملات را متوقف کرده‌اند؛ نتانیاهو گفت در لحظه آتش‌بس رعایت می‌شود اما «مبارزه با ایران و حزب‌الله تمام نشده».",
+            "تهران می‌گوید پس از «پاسخ دردناک» به حمله اسرائیل به بیروت، عملیات را متوقف کرده و در صورت تکرار حملات اسرائیل، «اقدام‌های شدیدتر و خردکننده‌تر»—از جمله در لبنان—در پیش است؛ همزمان اسرائیل در ساعات اولیه دوشنبه اهدافی در داخل ایران را هدف گرفت.",
+            "رئیس‌جمهور آمریکا در تماس با BBC گفت نتانیاهو از خواسته‌های او عدول نکرده و کاخ سفید تأیید کرد ترامپ برای بررسی بحران با نتانیاهو تماس گرفته؛ اسرائیل نیز اعلام کرد بنا بر درخواست او حملات را متوقف کرده است."
+        ],
+        "impact": "این توقف موقت می‌تواند چند روز فشار کوتاه‌مدت ایجاد کند، اما تهدیدهای متقابل و ادامه موج‌های حمله نشان می‌دهد احتمال از سرگیری سریع در صورت نقض آتش‌بس بالاست.",
+        "tag": "آتش‌بس",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/cj6ge150z5go",
+        "clean_url": "https://www.bbc.com/news/articles/cj6ge150z5go",
+        "image": "http://www.bing.com/th?id=ONUT.g0U2r0rPnxnd6B0p0wJ_dw&pid=News",
+        "timestamp": 1780913640.0
     },
     {
         "title_fa": "پس از تشدید حملات، اسرائیل و ایران از پایان حملات خبر دادند؛ ترامپ خواستار خویشتنداری شد",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.rferl.org/a/fordham-iran-negotiations-trump-hormuz-nuclear/33769578.html",
         "image": "http://www.bing.com/th?id=ONUT.lGmyHmIXnLrNQZ0o9kstwQ&pid=News",
         "timestamp": 1780291200.0
-    },
-    {
-        "title_fa": "ویرانی جنگ؛ میلیون‌ها آواره و آواره‌مانده در ایران در شرایط فرسایشی",
-        "title_en": "Iran: War has devastated life for millions of refugees and displaced",
-        "summary": [
-            "این گزارش به اثر مستقیم جنگ بر زندگی میلیون‌ها پناهجو و افراد آواره اشاره می‌کند و بر فروپاشی معیشت و خدمات پایه تأکید دارد.",
-            "تمرکز متن بر «ویرانی گسترده زندگی» است، اما جزئیات مشخص درباره منبع ناامنی، آمار دقیق یا اقدامات عملی دولت ارائه نمی‌شود؛ بنابراین ارزیابی دقیق از منشأ و مقیاس سیاست‌های رژیم ممکن نیست.",
-            "با توجه به چارچوب خبری نrc.no، پیام اصلی این است که پیامدهای جنگ به داخل شبکه‌های انسانیِ مهاجرت و جابه‌جایی نیروهای آسیب‌پذیر سرریز کرده و فشار اجتماعی-اقتصادی را تشدید می‌کند."
-        ],
-        "impact": "این وضعیت نشان می‌دهد که جنگ نه‌فقط در میدان نبرد، بلکه در زیست روزمره میلیون‌ها فرد و در توان تحمل اجتماعی-اقتصادی فضا اثر می‌گذارد.",
-        "tag": "پناهندگی",
-        "urgency": 5,
-        "sentiment": -0.6,
-        "source": "nrc.no",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ25VRkpFY0tSdmpyck5IVDhyYzZ2Qjh0c1QxUXJEMzlSTHMwSWtiU04tX0hpd2pPMXc0X2NuajBTMENJVF9GOVVlXzFkQ0thSFM0bTBSUFVfMFFIRldlclVUNXRZXzVlMl9kYlBYNXFzYTFrWno2VGtvYmVsdTBaS3RJMGtzaHE5Ukx4S3dLc1Eta0JaM1lEa09tZmE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ25VRkpFY0tSdmpyck5IVDhyYzZ2Qjh0c1QxUXJEMzlSTHMwSWtiU04tX0hpd2pPMXc0X2NuajBTMENJVF9GOVVlXzFkQ0thSFM0bTBSUFVfMFFIRldlclVUNXRZXzVlMl9kYlBYNXFzYTFrWno2VGtvYmVsdTBaS3RJMGtzaHE5Ukx4S3dLc1Eta0JaM1lEa09tZmE",
-        "image": null,
-        "timestamp": 1780291168.0
-    },
-    {
-        "title_fa": "گزارش مشترک ایران و آمریکا از موج تازه حملات هوایی در خلیج",
-        "title_en": "Iran and US report new wave of air strikes in Gulf",
-        "summary": [
-            "طبق گزارش BBC، ایران و آمریکا از موج تازه حملات هوایی در منطقه خلیج خبر داده‌اند؛ نشانه‌ای از تشدید تنش عملیاتی میان دو طرف.",
-            "چون جزئیات دقیقِ اهداف، زمان‌بندی، یا طرف درگیر در متن در دسترس نیست، نمی‌توان ارتباط‌های فراتر از ادعاهای طرفین را اثبات کرد؛ اما خودِ تکرار حملات، ریسک محاسبه‌نادرست را بالا می‌برد.",
-            "در سطح راهبردی، ادامه حملات می‌تواند هزینه‌های اقتصادی و امنیتی مسیرهای کشتیرانی و مراکز حساس منطقه‌ای را افزایش دهد، حتی اگر تمرکز رسانه‌ای کوتاه‌مدت باشد."
-        ],
-        "impact": "تکرار گزارش‌شده حملات هوایی در خلیج، احتمال ورود به چرخه تشدید را بالا می‌برد و هزینه‌های امنیتی-اقتصادی برای منطقه را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-xl/war-and-conflicts/military/iran-and-us-report-new-wave-of-air-strikes-in-gulf/ar-AA24vUXB",
-        "clean_url": "https://www.msn.com/en-xl/war-and-conflicts/military/iran-and-us-report-new-wave-of-air-strikes-in-gulf/ar-AA24vUXB",
-        "image": null,
-        "timestamp": 1780290701.0
-    },
-    {
-        "title_fa": "وضعیت صنعت فناوری ایران از رونق تا دخالت دولت؛ روایت تضعیف اکوسیستم نوآوری",
-        "title_en": "Iran Had a Thriving Tech Industry. Then the State Stepped In.",
-        "summary": [
-            "مقاله «The Atlantic» می‌گوید ایران زمانی یک صنعت فناوری پررونق داشت: جوانان مبتکر، کارآفرینان دوراندیش، مربیانِ بازگشته/فعال در خارج و سرمایه‌گذارانی با شبکه بین‌المللی.",
-            "پس از آن، «دولت» در روند اکوسیستم فناوری مداخله کرده و این مداخله به‌عنوان عامل اصلی تغییر مسیر از رشد به محدودشدن فضا معرفی می‌شود (با تمرکز روی این‌که قدرت اجرایی چگونه سرعت نوآوری را می‌کاهد).",
-            "در ادامه، زمینه‌های این افت با محوریت نفوذ ساختاری دولت و پیامدهای آن بر سرمایه‌گذاری، فضای کسب‌وکار و امکان رشد شرکت‌ها در متن توضیح داده می‌شود."
-        ],
-        "impact": "جمع‌بندی گزارش این است که دخالت دولت توان رقابت و رشد اکوسیستم فناوری را تضعیف کرده و دسترسی به سرمایه و آزادی عمل فعالان را محدود ساخته است.",
-        "tag": "اقتصاد",
-        "urgency": 4,
-        "sentiment": -0.55,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/06/iran-tech-industry-killed/687376/",
-        "clean_url": "https://www.theatlantic.com/international/2026/06/iran-tech-industry-killed/687376",
-        "image": "http://www.bing.com/th?id=ONUT.FE28xyXjDLqTe6A5umvK-w&pid=News",
-        "timestamp": 1780286940.0
-    },
-    {
-        "title_fa": "تبادل پیام آمریکا و ایران بر سر توافق صلح؛ نه توقف مناقشه، نه گشایش عملی تنگه هرمز",
-        "title_en": "US-Iran News LIVE: Oil climbs, gold slips as peace deal remains elusive",
-        "summary": [
-            "بر اساس گزارش Mint، آمریکا و ایران در آخر هفته پیام‌هایی رد و بدل کردند تا تغییراتی در پیش‌نویس توافق صلح ایجاد شود؛ توافقی که قرار است آتش‌بس را تمدید کند و مسیر تجاری تنگه هرمز را باز نگه دارد.",
-            "با این حال، یک «توافق صریح و اجرایی» هنوز شکل نگرفته و همین وضعیت نشان می‌دهد اختلافات بر سر متن توافق و تضمین‌های عملی، مانع دستیابی سریع به نتیجه شده است.",
-            "هم‌زمان گزارش به حرکت بازار اشاره می‌کند: نفت بالا می‌رود و طلا پایین می‌آید؛ یعنی عدم قطعیت درباره مسیر توافق، هنوز در قیمت‌گذاری منعکس است و سیاست بازار به جای آرامش کامل، فقط نوسان کنترل‌شده را نشان می‌دهد."
-        ],
-        "impact": "تداوم مبهم‌بودن توافق صلح، ریسک سیاسی-امنیتی پیرامون تنگه هرمز را در سطحی نگه می‌دارد که روی رفتار بازار انرژی و فلزات اثر می‌گذارد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "Mint",
-        "url": "https://www.msn.com/en-in/news/world/us-iran-news-live-oil-climbs-gold-slips-as-peace-deal-remains-elusive/ar-AA24vsEr",
-        "clean_url": "https://www.msn.com/en-in/news/world/us-iran-news-live-oil-climbs-gold-slips-as-peace-deal-remains-elusive/ar-AA24vsEr",
-        "image": "https://www.livemint.com/lm-img/img/2026/06/01/1600x900/logo/USA-TRUMP--2_1780283255720_1780283273977_93e3aef2-3580-4faa-ad0e-b3ab5206a226.JPG",
-        "timestamp": 1780284060.0
-    },
-    {
-        "title_fa": "نقش پنهان آسیای مرکزی در معامله احتمالی ایران-اسرائیل-آمریکا",
-        "title_en": "Central Asia’s forgotten stakes in Iran-Israel-US peace",
-        "summary": [
-            "این گزارش می‌گوید معادله احتمالی صلح یا توافق میان ایران، اسرائیل و آمریکا فقط موضوع دوجانبه نیست و آسیای مرکزی می‌تواند «سهم» و اثرات فرعی اما مهمی در پیامدهای آن داشته باشد.",
-            "ادعای اصلی مقاله این است که بازیگران و ظرفیت‌های آسیای مرکزی در تحلیل‌های رسانه‌ای اغلب نادیده گرفته می‌شوند، در حالی‌که ممکن است بر مسیرهای اقتصادی، امنیت مرزی و محاسبات منطقه‌ای اثر بگذارد.",
-            "با این حال، متن ارسالی جزئیات اجرایی (مثل مکانیزم‌ها، طرف‌های مشخص یا رویداد/زمان دقیق) ارائه نمی‌کند و بیشتر در سطح چارچوب تحلیلی و برجسته‌کردن غفلت رسانه‌ای باقی می‌ماند."
-        ],
-        "impact": "اگر توافق یا تنش‌زدایی در محور ایران-اسرائیل-آمریکا جلو برود، آسیای مرکزی می‌تواند عامل شکل‌دهنده به هزینه-فایده‌های منطقه‌ای و مسیرهای اقتصادی/امنیتی باشد، اما شواهد اجرایی در متن ارائه‌شده محدود است.",
-        "tag": "تحلیل",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Amwaj.media",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHBNcXAwRG9aTnpLNW15UWttQnRfRldDV0ZKNzQ5anV0MHVhZG9vMUZ1cjJfWUV0czNOWWQ2MWEyeE9OaW5Na3pDd00tTUdmSDVpNUxOakd0TjlNSU8yRHhGQmlfRE1fR3Nnek1DUDBTYzdtZlVfaThpYnhYakVEcjhQeWJDTlB2b095UGlB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHBNcXAwRG9aTnpLNW15UWttQnRfRldDV0ZKNzQ5anV0MHVhZG9vMUZ1cjJfWUV0czNOWWQ2MWEyeE9OaW5Na3pDd00tTUdmSDVpNUxOakd0TjlNSU8yRHhGQmlfRE1fR3Nnek1DUDBTYzdtZlVfaThpYnhYakVEcjhQeWJDTlB2b095UGlB",
-        "image": null,
-        "timestamp": 1780277851.0
     }
 ]
