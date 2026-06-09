@@ -1,5 +1,113 @@
 [
     {
+        "title_fa": "آیا نتانیاهو واقعاً «از دستور ترامپ سرپیچی کرد» در بمباران ایران؟",
+        "title_en": "Did Netanyahu really ‘defy’ Trump in bombing Iran?",
+        "summary": [
+            "این گزارش با طرح پرسش از روایت سیاسیِ «سرپیچی»، اساساً روی صحت‌سنجی ادعای تقابلی میان نتانیاهو و ترامپ درباره عملیات علیه ایران تمرکز دارد؛ یعنی محور خبر، خودِ ادعاست نه ارائه جزئیات عملیاتی قابل راستی‌آزمایی.",
+            "در نبود داده‌های مشخص در متن ارائه‌شده (مانند زمان‌بندی، فرماندهی، مختصات اهداف، یا اظهارنظرهای رسمیِ هم‌تراز)، نمی‌توان نتیجه گرفت که تصمیم نتانیاهو مستقل از ترامپ بوده یا صرفاً تبلیغاتی/روایت‌سازی سیاسی است.",
+            "بنابراین، پیام راهبردی گزارش این است که جنگ رسانه‌ای و مدیریت ادراک در سطح سیاسی فعال است و باید هر ادعای «چالش مستقیم» را تا زمان انتشار شواهد محکم، مشکوک تلقی کرد."
+        ],
+        "impact": "اثر فوری این نوع روایت، افزایش بی‌اعتمادی و رقابت در جبهه مخالف ایران است، اما بدون شواهد مشخص از متن، نتیجه‌گیری قطعی از «سرپیچی» ممکن نیست.",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/did-netanyahu-really-defy-trump-in-bombing-iran/ar-AA25cpXL",
+        "clean_url": "https://www.msn.com/en-us/news/world/did-netanyahu-really-defy-trump-in-bombing-iran/ar-AA25cpXL",
+        "image": null,
+        "timestamp": 1781016546.0
+    },
+    {
+        "title_fa": "تحلیل پیمایش: برداشت‌های متفاوت از جنگ ایران میان اسرائیلی‌ها، فلسطینی‌ها و آمریکایی‌ها",
+        "title_en": "Israelis, Palestinians, Americans See War in Iran Differently",
+        "summary": [
+            "بر اساس پیمایش مرکز پژوهش‌های پیو، سه گروه تصویری کاملاً متفاوت از جنگ در ایران دارند: ۳/۴ اسرائیلی‌ها حمله را تصمیم درست می‌دانند، در حالی‌که ۸/۱۰ فلسطینی‌های کرانه باختری و قدس شرقی آن را تصمیم نادرست ارزیابی می‌کنند.",
+            "افکار آمریکایی‌ها در مقایسه با قبل چندان هم‌سو نیست: تا اواخر آوریل ۲۰۲۶ اکثریت آمریکایی‌ها می‌گویند رفتن به جنگ اشتباه بوده، اما جامعه آمریکا به شکل محسوس دوقطبی‌تر است.",
+            "پیمایش همچنین نشان می‌دهد اختلاف نظر فقط درباره «حقانیت تصمیم جنگ» نیست؛ برداشت از این‌که کدام کشورها در جنگ ایران برای حفاظت از غیرنظامیان کار کافی انجام می‌دهند، میان سه طرف به‌طور معنی‌دار متفاوت است."
+        ],
+        "impact": "این شکاف ادراکی می‌تواند هزینه سیاسی و ارتباطی تصمیم‌گیری درباره ادامه یا تشدید عملیات را بالا ببرد، چون مشروعیت ادراک‌شده میان بازیگران کلیدی هم‌راستا نیست.",
+        "tag": "پیمایش",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Pew Research Center",
+        "url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-americans-see-war-in-iran-differently/",
+        "clean_url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-americans-see-war-in-iran-differently",
+        "image": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/06/pg_2026.06.09_trilateral_0_05.png?w=420",
+        "timestamp": 1781014020.0
+    },
+    {
+        "title_fa": "اختلاف اسرائیلی‌ها، فلسطینی‌ها و آمریکایی‌ها درباره «کافی بودن» اقدام کشورها برای جلوگیری از تلفات غیرنظامی در جنگ ایران",
+        "title_en": "Israelis, Palestinians and Americans disagree on which countries in Iran war are doing enough to protect civilians",
+        "summary": [
+            "پیو ریسرچ سنتر با نظرسنجی از ۱۰۰۱ نفر در اسرائیل و ۱۰۳۸ نفر در کرانه باختری و شرق قدس (۳۰ مارس تا ۶ مه ۲۰۲۶) و همچنین چند موج نظرسنجی از کلان‌شهرهای آمریکا، نشان می‌دهد برداشت‌ها از اینکه «کشورهای درگیر» برای پرهیز از تلفات غیرنظامی کافی عمل می‌کنند، کاملاً یکدست نیست.",
+            "پرسش کلیدی این گزارش این است که آیا هر طرف «به اندازه کافی» برای جلوگیری از تلفات غیرنظامی اقدام می‌کند یا نه؛ در آمریکا نتایج نزدیک به دو نیم می‌شود و «تقریباً نصف/نصف» دیده می‌شود که نشان‌دهنده شکاف جدی در افکار عمومی درباره نقش ایالات متحده است.",
+            "گزارش به‌طور ضمنی می‌گوید حتی پس از اعلام آتش‌بس در اوایل آوریل، اختلافات ادراکی درباره مسئولیت‌ها و عملکرد برای محافظت از غیرنظامیان باقی مانده و بین سه جامعه (اسرائیل، فلسطین/کرانه باختری و آمریکا) هم‌پوشانی کمی وجود دارد."
+        ],
+        "impact": "این شکاف ادراکی می‌تواند به مشروعیت‌بخشی سیاسی داخلی به ادامه یا تغییر سیاست‌ها علیه جنگ ایران لطمه بزند، چون «ارزیابی عملکرد در حفاظت از غیرنظامیان» در افکار عمومی پایدار و دو قطبی باقی می‌ماند.",
+        "tag": "افکارعمومی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Pew Research Center",
+        "url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-and-americans-disagree-on-which-countries-in-iran-war-are-doing-enough-to-protect-civilians/",
+        "clean_url": "https://www.pewresearch.org/global/2026/06/09/israelis-palestinians-and-americans-disagree-on-which-countries-in-iran-war-are-doing-enough-to-protect-civilians",
+        "image": null,
+        "timestamp": 1781013382.0
+    },
+    {
+        "title_fa": "ادامه تبادل موشکی ایران و اسرائیل؛ چرخه تشدید در حال تثبیت شدن است",
+        "title_en": "Iran and Israel continue to trade missile strikes",
+        "summary": [
+            "بر اساس خبرِ «Speak Freely»، ایران و اسرائیل همچنان در قالب تبادل موشکی به حملات ادامه می‌دهند و الگوی حمله-پاسخ قطع نشده است.",
+            "این وضعیت نشان می‌دهد سطح تنش فراتر از یک رخداد محدود است و تبدیل به چرخه عملیاتی برای تحمیل هزینه و بازدارندگی شده است.",
+            "در متن، هیچ نشانه‌ای از توقف، میانجی‌گری مؤثر یا کانال‌های کاهش تنش ارائه نشده و بنابراین احتمال تداوم و گسترش حملات باقی می‌ماند."
+        ],
+        "impact": "ادامه تبادل موشکی می‌تواند به تشدید سریع‌تر و افزایش ریسک درگیری گسترده‌تر منجر شود.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "1A | Speak Freely",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzNIQjd5WFRNd2xOb1B1UTUzQVFMeVJGV1VoT1B3WGhsUzBkYWFHNjJNVlYwc0F4LWstbW5QMS1qOHMyN2xEMkxIWkhjdmlkQzZkRUFsbVp3bHNVYkFWb09NUEdxSUhJLWlzbjJocV9scGN5ckYxNVFLNUYzN0lzU2RORQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzNIQjd5WFRNd2xOb1B1UTUzQVFMeVJGV1VoT1B3WGhsUzBkYWFHNjJNVlYwc0F4LWstbW5QMS1qOHMyN2xEMkxIWkhjdmlkQzZkRUFsbVp3bHNVYkFWb09NUEdxSUhJLWlzbjJocV9scGN5ckYxNVFLNUYzN0lzU2RORQ",
+        "image": null,
+        "timestamp": 1781010644.0
+    },
+    {
+        "title_fa": "پیش‌روی مذاکره با ایران تحت سایه جنگ جاری؛ اسرائیل-ایران و جنگ لبنان اجازه توقف واقعی نمی‌دهند",
+        "title_en": "Live Updates: Trump says Iran deal possible in 2 or 3 days as Israel and Hezbollah keep fighting",
+        "summary": [
+            "ترامپ اعلام کرده امکان رسیدن به توافق با ایران در ۲ یا ۳ روز آینده وجود دارد، اما همزمان ادامه درگیری‌ها میان اسرائیل و حزب‌الله در لبنان نشان می‌دهد «کاهش تنش» هنوز واقعی و پایدار نشده است.",
+            "به‌جای یک آتش‌بس کنترل‌شده، یک دوره شکننده از تعلیق به‌صورت «تحت آزمون» قرار دارد؛ یعنی هر موج خشونت می‌تواند روند مذاکره و محاسبات طرفین را به‌هم بزند.",
+            "این وضعیت مستقیماً روی اثرپذیری فشار خارجی و انگیزه‌های داخلی رژیم اثر می‌گذارد: اگر جنگ منطقه‌ای ادامه پیدا کند، رژیم برای بقای کوتاه‌مدت به مسیرهای امنیتی/قابلیت‌های نیابتی تکیه می‌کند و هزینه‌های سیاسیِ توافق احتمالی را به تعویق می‌اندازد."
+        ],
+        "impact": "فرصت توافق‌سازی در روزهای نزدیک مطرح شده، اما جنگ جاری لبنان ریسک شکست یا بی‌اثر شدن هر توافق را بالا می‌برد.",
+        "tag": "مذاکره",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-israel/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-israel",
+        "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/06/09/f5fba277-960e-49dd-b661-e1a6cdf326ec/thumbnail/1200x630/7e5fa8a87ddcfe0f1919cc76335a305e/gettyimages-2280075024.jpg",
+        "timestamp": 1781009340.0
+    },
+    {
+        "title_fa": "همزمان با اصرار ترامپ بر نزدیک بودن توافق با ایران، اسرائیل حملات جدیدی در لبنان آغاز کرد",
+        "title_en": "Israel launches new Lebanon strikes even as Trump insists Iran deal coming soon",
+        "summary": [
+            "بر اساس گزارش NBC News، اسرائیل «حملات جدید» در لبنان را آغاز کرده است؛ این یعنی چرخه فشار نظامی در جبهه شمالی فعال مانده و تشدید عملی رخ داده است.",
+            "هم‌زمان با این اقدام، ترامپ ادعا کرده که «توافق با ایران به‌زودی» خواهد رسید؛ اما خبر نشان می‌دهد هم‌پوشانی ادعای دیپلماسی با واقعیت عملیات میدانی وجود دارد.",
+            "پیام سیاست‌گذاری در این فاصله مشخص است: از دید امنیتی، ادامه حملات می‌تواند اهرم فشار را قبل از هر توافق احتمالی حفظ کند، در حالی که اظهارات مقام آمریکایی بیشتر در سطح زمان‌بندی سیاسی باقی مانده است."
+        ],
+        "impact": "ادامه حملات در لبنان هم‌زمان با وعده توافق، احتمالاً فضای مذاکره را تحت‌تأثیر فشار میدانی و محاسبات بازدارندگی قرار می‌دهد.",
+        "tag": "جبهه",
+        "urgency": 8,
+        "sentiment": -0.35,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWoxNjZLUEhJY1Rsd3cwU1lXQXhWX2tMX3RzTFB2dWFJZkFEVFZCaGIwWFVadUtLQ3h6NlpkNEQ2WXByUy1pX21pTFhBY3ZRS2Y1ZW9ZWk9rU1pvc29qbUFMRFdRVEJSWmpTaC05RWRBMUo5WmRsdnVhNlJzVk4zelkxTUZtdkFoUUJOOVc0R3oxWDNLMXFRX2d3cS1nSWdZMHc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSWoxNjZLUEhJY1Rsd3cwU1lXQXhWX2tMX3RzTFB2dWFJZkFEVFZCaGIwWFVadUtLQ3h6NlpkNEQ2WXByUy1pX21pTFhBY3ZRS2Y1ZW9ZWk9rU1pvc29qbUFMRFdRVEJSWmpTaC05RWRBMUo5WmRsdnVhNlJzVk4zelkxTUZtdkFoUUJOOVc0R3oxWDNLMXFRX2d3cS1nSWdZMHc",
+        "image": null,
+        "timestamp": 1781008779.0
+    },
+    {
         "title_fa": "ترامپ می‌گوید مذاکرات صلح بعد از پایان درگیری‌های اسرائیل و ایران همچنان در مسیر است",
         "title_en": "Trump Says Peace Talks on Track After Israel-Iran Clashes End",
         "summary": [
@@ -72,6 +180,24 @@
         "timestamp": 1780999200.0
     },
     {
+        "title_fa": "کند شدن یا دوباره شعله‌ور شدن جنگ ایران-اسرائیل به لبنان گره خورده است",
+        "title_en": "Why Lebanon may hold the key to the future of the Iran war",
+        "summary": [
+            "ایران هم‌زمان با پایان یک تبادل آتش ۱۲ ساعته با اسرائیل، شرط‌گذاری جدید برای پیوند سرنوشت دو جبهه مطرح کرد: سپاه و ستاد خاتم‌الانبیا تهدید کردند اگر حملات اسرائیل علیه ایران و همچنین جنوب لبنان (محل استقرار حزب‌الله) ادامه یابد، «اقداماتی بسیار شدیدتر» از سر گرفته خواهد شد.",
+            "اسرائیل با رد تلاش ایران برای پیوند دادن جبهه لبنان به ایران، حملات هوایی تازه در جنوب لبنان را انجام داد و مقامات اسرائیلی اعلام کردند برای حزب‌الله حملات را تشدید می‌کنند؛ در نتیجه احتمال بازگشت سریع درگیری مستقیم میان ایران و اسرائیل بالا می‌رود.",
+            "در سطح سیاست خارجی، CNN از واگرایی منافع انتخاباتی میان ترامپ در آمریکا و نتانیاهو در اسرائیل سخن می‌گوید؛ همین شکاف می‌تواند مانع از شکل‌گیری یک مسیر واحد برای توافق شود و لبنان را به نقطه تعیین‌کننده برای «ازسرگیری یا توقف» جنگ تبدیل کند."
+        ],
+        "impact": "اگر اسرائیل عقب ننشیند و ایران تهدیدش را عملی کند، لبنان می‌تواند به ماشه بازگشت جنگ مستقیم ایران-اسرائیل بدل شود و روند هرگونه توافق را نیز تضعیف کند.",
+        "tag": "لبنان",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/09/middleeast/lebanon-iran-israel-war-intl",
+        "clean_url": "https://www.cnn.com/2026/06/09/middleeast/lebanon-iran-israel-war-intl",
+        "image": "http://www.bing.com/th?id=ONUT.NLMGz6feJI2rHxm8Ub-QmA&pid=News",
+        "timestamp": 1780991760.0
+    },
+    {
         "title_fa": "ترامپ: توافق با ایران ظرف «دو یا سه روز» و بازگشایی فوری تنگه هرمز",
         "title_en": "Trump says Iran deal could be reached in 'two or three days' and Strait of Hormuz will reopen 'immediately'",
         "summary": [
@@ -88,6 +214,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ma0UxSVVRSVlHV09ObTZzVjIwV2dNcTZCVTA1ZzNlZTMyNHdyaHdjZHd1ZU9nZ0JWbnBEYl9ZTTFzazZBUDcxSHNkcEExNW1mMC02dklIVWVxc29IaTY2Q2Z5c3hKa3NDS1lBYnhB0gFzQVVfeXFMUDdQVldkVzBhcDVzcWFXeG00dW9kaHA2aDBSZGp1Zk96MzZWMFlDd040d3hvaGFldFEzVGUya3BhUmVWWXV1RFBqZlRndnBEbnZHZzB1NVZMWUJObV91dWktSG00UEtMX2F5Y0hINGk2WlEyTQ",
         "image": null,
         "timestamp": 1780990827.0
+    },
+    {
+        "title_fa": "ایران پس از حمله موشکی به اسرائیل، روی بازگشت جنگ تمام‌عیار حساب می‌کند؛ ترامپ بین معامله و مهار تل‌آویو گیر کرده است",
+        "title_en": "Iran’s confidence may soon turn to folly in Trump’s fiasco of a war",
+        "summary": [
+            "ایران با شلیک «رگبار» موشکی به اسرائیل، ریسک پاسخ تنبیهی و تشدید به سمت جنگ گسترده را پذیرفته است؛ مقاله تاکید می‌کند که این اقدام می‌تواند هدف یک حمله هماهنگ اسرائیل و آمریکا را دوباره پیشِ روی جمهوری اسلامی بگذارد.",
+            "بر اساس متن، آمریکا و اسرائیل در آغاز عملیات ۱۰۰ روز پیش (۲۸ فوریه) روی فروپاشی سریع جمهوری اسلامی حساب کرده بودند، اما پس از زنده‌ماندن رژیم و آغاز پاسخ‌گرفتن (از جمله بستن تنگه هرمز)، ایران اکنون خواسته‌های خودش را مطرح می‌کند: توقف حمله اسرائیل علیه حزب‌الله به‌عنوان شرط هر توافق گسترده‌تر با آمریکا.",
+            "مقاله می‌گوید ایران تلاش دارد با مذاکره غیرقطعی با نمایندگان ترامپ، شکاف میان رئیس‌جمهور آمریکا و متحدش ایجاد کند. به‌عنوان نمونه، ترامپ در تماس تلفنی با نتانیاهو از او خواسته کمپین اسرائیل علیه لبنان را متوقف کند تا مذاکره با ایران به خطر نیفتد، اما نتانیاهو با وجود هشدارها، شبانه به ایران پاسخ داده است."
+        ],
+        "impact": "این روند احتمال چرخه‌ای از حملات متقابل و سپس فشار برای واکنش مشترک‌تر آمریکا و اسرائیل را بالا می‌برد و مسیر هر «توافق» را به نفع منطق بازدارندگی نظامی منحرف می‌کند.",
+        "tag": "ایران-اسرائیل",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/attack-israel-astonishing-demonstration-iranian-223300529.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/attack-israel-astonishing-demonstration-iranian-223300529.html",
+        "image": "http://www.bing.com/th?id=ONUT.iGTFzf0GK-rOKlI74OjIeg&pid=News",
+        "timestamp": 1780990620.0
+    },
+    {
+        "title_fa": "توقف حملات اسرائیل علیه ایران پس از تماس ترامپ و واکنش تند منتقدان نتانیاهو",
+        "title_en": "Netanyahu’s Bow to Trump’s Iran Pressure Spurs New Criticism",
+        "summary": [
+            "منتقدان بنیامین نتانیاهو را به‌خاطر توقف حملات علیه ایران پس از تماس با رئیس‌جمهور ترامپ، متهم کردند که آمریکا عملاً تصمیم‌گیرنده سیاست اسرائیل شده است.",
+            "این انتقاد نشان‌دهنده شکاف سیاسی داخلی در اسرائیل است؛ بخشی از اپوزیسیون یا مخالفان سیاست دولت می‌گوید نتانیاهو به جای مدیریت مستقل، خط واشینگتن را اجرا می‌کند.",
+            "در سطح راهبردی، تغییر ناگهانی سطح عملیات علیه ایران بدون ارائه جزئیات روشن از محتوای توافق/فشار طرف آمریکایی، می‌تواند به‌عنوان «کاهش فشار میدانی» تفسیر شود و اعتماد به سیاست بازدارندگی را در میان منتقدان تضعیف کند."
+        ],
+        "impact": "این رخداد بیشتر یک ضربه سیاسی-راهبردی به انسجام تصمیم‌گیری اسرائیل است تا نشانه قطعی از تشدید یا کاهش واقعی توان فشار، اما می‌تواند فضای سیاست‌گذاری را بی‌ثبات‌تر کند.",
+        "tag": "فشار_ایران",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html",
+        "image": "http://www.bing.com/th?id=ONUT.-xBsRL5W4t6UJmyafhZCLw&pid=News",
+        "timestamp": 1780986180.0
     },
     {
         "title_fa": "تعویق «ضربه بزرگ» علیه ایران؛ نتانیاهو بعد از هشدار ترامپ به «تنها بودن اسرائیل» عقب نشست",
@@ -5236,167 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military/iran-warns-israeli-attacks-in-lebanon-threaten-ceasefire-with-us/ar-AA24z9lP",
         "image": null,
         "timestamp": 1780349221.0
-    },
-    {
-        "title_fa": "فشار ترامپ به اسرائیل برای عدم حمله به بیروت و ریسک به‌هم‌خوردن مسیر مذاکرات ایران",
-        "title_en": "Iran War Live Updates: Israel Appears to Pull Back From Threat to Strike Beirut",
-        "summary": [
-            "بر اساس گزارش، ترامپ از اسرائیل می‌خواهد حمله به پایتخت لبنان، بیروت، انجام ندهد؛ یعنی جهت‌گیری سیاستی برای جلوگیری از یک جهش خطرناک در جنگ منطقه‌ای.",
-            "همزمان، مقاله تأکید می‌کند تشدید عملیات اسرائیل علیه حزب‌الله می‌تواند «صلح‌/مذاکرات» با ایران را تهدید کند؛ چون هر افزایش سطح درگیری می‌تواند کانال‌های مذاکره را بی‌اعتبار یا بی‌اثر کند.",
-            "پیام ضمنی خبر این است که معادله امنیتی اسرائیل و لبنان به‌صورت مستقیم به رفتار سیاسی تهران در پرونده مذاکرات گره می‌خورد، اما هیچ ادعایی درباره اقدام مشخص ایران یا تحرک عملیِ جدید از تهران ارائه نشده است."
-        ],
-        "impact": "این وضعیت می‌تواند از یک سو مانع حمله به بیروت شود، اما از سوی دیگر با هر تشدید علیه حزب‌الله، احتمال فرسایش فضای مذاکرات ایران بالا می‌رود.",
-        "tag": "مذاکرات",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
-        "clean_url": "https://www.nytimes.com/live/2026/06/02/world/iran-war-trump-israel-lebanon",
-        "image": "http://www.bing.com/th?id=ONUT.DjS1FLKufGATv5sDJKe_lQ&pid=News",
-        "timestamp": 1780348380.0
-    },
-    {
-        "title_fa": "هک حساب اینستاگرام مقام ارشد نیروی فضایی آمریکا و انتشار پست‌های ضدآمریکایی/پروایرانی",
-        "title_en": "Iran war news live: Netanyahu calls off Lebanon raid after 'heated' call with Trump, Israel then intercepts missiles",
-        "summary": [
-            "طبق گزارش CNN، مهاجمان به حساب اینستاگرام یک مقام ارشد نیروی فضایی آمریکا نفوذ کرده و به‌طور موقت پست‌هایی با مضامین پروایرانی و ضدآمریکایی منتشر کردند؛ بخشی از محتوا به جنگ ویتنام هم اشاره داشت.",
-            "در این گزارش، نام مقام ایرانی ذکر شده (ابراهیم عزیزی، رئیس مجلس/نماینده مرتبط با مجلس) اما متن ارائه‌شده جزئیات اثرگذاری مستقیم این هک بر سیاست یا عملیات را مشخص نمی‌کند و فقط درباره خود رخداد نفوذ خبری است.",
-            "این اتفاق، بدون ارائه شواهد روشن در متن، بیشتر یک عملیات سایبری/تبلیغاتی علیه چهره‌های امنیتی-عملیاتی آمریکا تلقی می‌شود و می‌تواند تنش روانی و اختلال ارتباطی ایجاد کند، اما هنوز به‌عنوان اثبات یک روند گسترده یا دستورعمل عملیاتی قابل اتکا نیست."
-        ],
-        "impact": "نفوذ سایبری به حساب یک مقام ارشد می‌تواند هزینه‌های امنیتی، بحران اعتماد و افزایش ریسک خطای ارتباطی برای طرف آمریکایی ایجاد کند، اما در داده‌های فعلی، شواهد کافی برای سناریوی اقدام نظامی مستقیم وجود ندارد.",
-        "tag": "سایبری",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "MSN",
-        "url": "https://www.msn.com/en-in/news/other/iran-war-news-live-netanyahu-calls-off-lebanon-raid-after-heated-call-with-trump-israel-then-intercepts-missiles/ar-AA24Bbzt",
-        "clean_url": "https://www.msn.com/en-in/news/other/iran-war-news-live-netanyahu-calls-off-lebanon-raid-after-heated-call-with-trump-israel-then-intercepts-missiles/ar-AA24Bbzt",
-        "image": "http://www.bing.com/th?id=ONUT.XQjwRNeYCyUItVoH0GzMRg&pid=News",
-        "timestamp": 1780347660.0
-    },
-    {
-        "title_fa": "ایران اعلام کرد گفتگوها برای پایان جنگ را پس از حمله‌های آمریکا و اسرائیل متوقف می‌کند",
-        "title_en": "Iran says it is breaking off talks to end war after U.S. and Israeli strikes",
-        "summary": [
-            "طبق گزارش واشنگتن‌پست، ایران اعلام کرده روند مذاکرات برای پایان جنگ را متوقف می‌کند؛ دلیل اعلامی، وقوع ضربه‌ها از سوی آمریکا و اسرائیل است.",
-            "این تصمیم نشان می‌دهد مسیر سیاسیِ کاهش تنش عملاً قطع شده و احتمال تشدید درگیری‌های مستقیم یا از مسیر نیابتی بالا می‌رود، چون کانال مذاکره عملاً بی‌اثر شده است.",
-            "از منظر فشار خارجی، حمله‌های گزارش‌شده به‌عنوان محرک واکنش ایران عمل می‌کند و می‌تواند هزینه‌های امنیتی و عملیاتی رژیم را در کوتاه‌مدت افزایش دهد."
-        ],
-        "impact": "توقف مذاکرات در پی حمله‌های آمریکا و اسرائیل یعنی اهرم سیاسی برای مهار بحران از بین رفته و روند به سمت تشدید تنش می‌چرخد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQm0zc1ZESDFjVVJZcUZiOUhhQVFfUjdIV3V4b0FoQkJVb3Z3dHBfVEl1SGNGaUdsQTQxN2U3OWtUelQwbmdKOHI2VUZ5bjVMWWNSTDB5dTdmcFl2Vk1mUnVmVndOQ05hVTlfVzNYOEFmeFlYOXJFd05XMnVkTUFERWprWWZYOTlNaTdiMmctUllpNE91WXk1M0RRNzFTVXYt?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQm0zc1ZESDFjVVJZcUZiOUhhQVFfUjdIV3V4b0FoQkJVb3Z3dHBfVEl1SGNGaUdsQTQxN2U3OWtUelQwbmdKOHI2VUZ5bjVMWWNSTDB5dTdmcFl2Vk1mUnVmVndOQ05hVTlfVzNYOEFmeFlYOXJFd05XMnVkTUFERWprWWZYOTlNaTdiMmctUllpNE91WXk1M0RRNzFTVXYt",
-        "image": null,
-        "timestamp": 1780337990.0
-    },
-    {
-        "title_fa": "تهران گفت‌وگو با آمریکا را به‌خاطر حملات اسرائیل در لبنان متوقف کرد",
-        "title_en": "Tehran suspends talks with U.S. over Israeli attacks in Lebanon, Iranian media reports",
-        "summary": [
-            "طبق گزارش NBC News و بازتاب رسانه‌های ایرانی، تهران به‌دلیل حملات اسرائیل در لبنان، گفت‌وگوهایش با آمریکا را معلق کرده است.",
-            "این اقدام بیشتر یک پیام فشار سیاسی است تا تغییر فوری در ماهیت سیاست؛ اما به‌طور مستقیم کانال‌های ارتباطی تهران-واشینگتن را محدود می‌کند.",
-            "هم‌زمان، پیوند دادن تعلیق مذاکرات به رویداد نظامی در لبنان، نشان می‌دهد تصمیم‌های دیپلماتیک تهران وابسته به روند تنش میدانی در جبهه‌های منطقه‌ای است."
-        ],
-        "impact": "تعلیق مذاکرات می‌تواند خطر سوءمحاسبه و کاهش اهرم‌های مدیریت بحران میان تهران و آمریکا را بالا ببرد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVF82QkkwQjNER2FBd0E2TjF4T0FCQ2RTWjdRb1FYX08zZFRXc0g4MnZQc01mTUJBc2dCTHd3UDhCSjNVM2VaZExvNDJEN0wxNDdFOUF5VzhEWnZIRWliMGZJUzdjSWdfTmtfV0dRWDdvTm8yNTY4a2JxNEVXNGtfVGh3andFeFpLSE0yZWFaRE56MWM5S0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVF82QkkwQjNER2FBd0E2TjF4T0FCQ2RTWjdRb1FYX08zZFRXc0g4MnZQc01mTUJBc2dCTHd3UDhCSjNVM2VaZExvNDJEN0wxNDdFOUF5VzhEWnZIRWliMGZJUzdjSWdfTmtfV0dRWDdvTm8yNTY4a2JxNEVXNGtfVGh3andFeFpLSE0yZWFaRE56MWM5S0E",
-        "image": null,
-        "timestamp": 1780336743.0
-    },
-    {
-        "title_fa": "حمله پهپادی/موشکی آمریکا علیه اهداف نظامی ایران؛ رهگیری موشک‌های شلیک‌شده به کویت",
-        "title_en": "U.S. bombs Iranian military sites and downs missiles Tehran fired at troops in Kuwait",
-        "summary": [
-            "طبق گزارش PBS، آمریکا به «سایت‌های نظامی ایران» حمله بمبارانی انجام داده و همزمان موشک‌های شلیک‌شده از سوی تهران را علیه نیروها در کویت رهگیری و سرنگون کرده است.",
-            "این رخداد مستقیماً نشان‌دهنده ورود به فاز تقابل مستقیم و نظامی میان آمریکا و بازیگران مرتبط با سیاست منطقه‌ای ایران است، نه صرفاً اقدامات نیابتی یا هشدارهای سیاسی.",
-            "از منظر راهبردی، هرچند گزارش جزئیات فنی یا دامنه دقیق اهداف را ارائه نکرده، نفسِ بمباران و رهگیری موشکی، احتمال تداوم چرخه انتقام و تشدید سریع را بالا می‌برد."
-        ],
-        "impact": "این اقدام می‌تواند سطح درگیری را از کنترل‌شده به سمت رقابت پرریسک سوق دهد و هم‌زمان توان ایران برای مدیریت هزینه‌های امنیتی در منطقه را تحت فشار قرار دهد.",
-        "tag": "درگیری",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa002RlllSjhMVjVQcUVIaHR3cTNvUmZWNnY3a2xCTk12OUZJUTllS0ZpY19ncWx0cWN3cDhkSnAtS2J1SlczamdhaHViaU1TSjZwdDRpWGVnckUxamtoZ01nRGpsTkJka2ZwXzlGNy1vakZFZWI5MGxLb3ZpbDhQcWFmajFDYndWUGVFVWRLZ2NKREtjTmJtZTVoYloxSGxBLXY2SzI5UzRtVjd4QTIyZTZPWjVaQmZjMGNj0gHAAUFVX3lxTE5YV0dTamhKMFNjTVpiNHpPeUdyX3Z1M0dyNWpoV3lHV1kyTm45TU5BaU0zVEFnSEJVRVB3UHk3RE40aVZpSjdQUTBxOExTWnRFZVdPSzhtOGlhNkh4b1dQTGQzdTB5WGQ4VHVISUlzUGZVeXRJbVdQcjZhb1JwMVZRbUlwQUllMk9aWFR0eFRWMTRSZ0otV21WYlZnUWZUa2ptbGI3UDdFa2FqeGt2NmVPZ0NrRGI4SnB3MG9Ba2Jjdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa002RlllSjhMVjVQcUVIaHR3cTNvUmZWNnY3a2xCTk12OUZJUTllS0ZpY19ncWx0cWN3cDhkSnAtS2J1SlczamdhaHViaU1TSjZwdDRpWGVnckUxamtoZ01nRGpsTkJka2ZwXzlGNy1vakZFZWI5MGxLb3ZpbDhQcWFmajFDYndWUGVFVWRLZ2NKREtjTmJtZTVoYloxSGxBLXY2SzI5UzRtVjd4QTIyZTZPWjVaQmZjMGNj0gHAAUFVX3lxTE5YV0dTamhKMFNjTVpiNHpPeUdyX3Z1M0dyNWpoV3lHV1kyTm45TU5BaU0zVEFnSEJVRVB3UHk3RE40aVZpSjdQUTBxOExTWnRFZVdPSzhtOGlhNkh4b1dQTGQzdTB5WGQ4VHVISUlzUGZVeXRJbVdQcjZhb1JwMVZRbUlwQUllMk9aWFR0eFRWMTRSZ0otV21WYlZnUWZUa2ptbGI3UDdFa2FqeGt2NmVPZ0NrRGI4SnB3MG9Ba2Jjdw",
-        "image": null,
-        "timestamp": 1780335923.0
-    },
-    {
-        "title_fa": "هشدار ایران: حملات اسرائیل در لبنان می‌تواند آتش‌بس با آمریکا را برهم بزند",
-        "title_en": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
-        "summary": [
-            "بی‌بی‌سی گزارش می‌دهد که ایران نسبت به ادامه یا تشدید حملات اسرائیل در لبنان هشدار داده و اعلام کرده این وضعیت می‌تواند به شکست/برهم‌خوردن آتش‌بس مورد اشاره با آمریکا منجر شود.",
-            "این پیام بیشتر یک اهرم فشار سیاسی-امنیتی است: تهران می‌گوید پویایی میدانی در لبنان، ترتیبات سطح واشنگتن را تحت تأثیر قرار می‌دهد و محاسبات طرفین را تغییر می‌دهد.",
-            "با توجه به متن گزارش، نشانه‌ای از اقدام اجرایی تازه (مثل حمله مستقیم یا اعلام برنامه زمان‌بندی) ارائه نشده؛ اما خودِ «تهدید آتش‌بس» یعنی ریسک تشدید در مسیر هماهنگی‌های سیاسی-نظامی بالا رفته است."
-        ],
-        "impact": "اگر حملات اسرائیل در لبنان ادامه پیدا کند، احتمال به‌هم‌ریختن هماهنگی‌های کاهش تنش با محوریت آمریکا افزایش می‌یابد و مسیر تشدید منطقه‌ای کوتاه‌تر می‌شود.",
-        "tag": "لبنان",
-        "urgency": 8,
-        "sentiment": 0.1,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/politics/international-relations/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks/ar-AA24yBD9",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/iran-warns-israeli-attacks-in-lebanon-and-gaza-threaten-us-ceasefire-talks/ar-AA24yBD9",
-        "image": null,
-        "timestamp": 1780332995.0
-    },
-    {
-        "title_fa": "تصاویر ماهواره‌ای جدید ادعای پاکسازی توان موشکی ایران را زیر سؤال برد",
-        "title_en": "New satellite images challenge Trump claim Iran's missile threat was wiped out",
-        "summary": [
-            "تصاویر ماهواره‌ای تازه نشان می‌دهد چهار مورد از پنج ورودیِ پایگاه موشکی دزفول که قبلاً بسته/هدف قرار گرفته بودند، از ماه گذشته دوباره باز شده‌اند و فقط یک ورودی همچنان بسته است؛ این مستقیماً با روایت «از بین رفتن» توان موشکی در تضاد است.",
-            "به گزارش CNN، ایران ۵۰ مورد از ۶۹ ورودی تونل را در ۱۸ تأسیسات زیرزمینی موشکی که حملات آمریکا و اسرائیل روی آنها انجام شده بود، دوباره باز کرده است؛ یعنی اثر حمله از نظر عملیاتی پایدار نبوده است.",
-            "گزارش‌های تکمیلی حاکی از آن است که ایران بخش عمده‌ای از زیرساخت‌های آسیب‌دیده را ترمیم کرده است؛ نتیجه این است که «اقدام برای نابودی» بیشتر به بازسازی و برگشت قابلیت‌ها تبدیل شده است."
-        ],
-        "impact": "اگر این بازگشایی‌ها و ترمیم‌ها ادامه‌دار باشد، فشار خارجی و ادعاهای پاکسازی توان موشکی/هسته‌ای عملاً به فرسایش کوتاه‌مدت بدل می‌شود و توان بازدارندگی ایران سریع‌تر از چیزی که طرف مقابل انتظار دارد، احیا می‌گردد.",
-        "tag": "تحلیل",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "AOL",
-        "url": "https://www.aol.com/articles/satellite-images-challenge-trump-claim-160700000.html",
-        "clean_url": "https://www.aol.com/articles/satellite-images-challenge-trump-claim-160700000.html",
-        "image": "http://www.bing.com/th?id=ONUT.WEgH07nYCc42uaSixOKm6A&pid=News",
-        "timestamp": 1780330800.0
-    },
-    {
-        "title_fa": "تردید در مذاکرات آمریکا-ایران؛ ترامپ از «بی‌اهمیتی» تا «مشارکت سریع» سخن گفت و تبادل ضربات شکنندگی آتش‌بس را عیان کرد",
-        "title_en": "Trump Says He ‘Couldn’t Care Less’ if Peace Talks with Iran Fall Apart After Countries Exchange Renewed Strikes",
-        "summary": [
-            "ترامپ در مصاحبه با CNBC ابتدا گفت «اگر مذاکرات تمام شود، برای او مهم نیست»، اما بلافاصله بعد در Truth Social نوشت مذاکرات با «سرعت زیاد» ادامه دارد؛ هم‌زمان ادعا کرد نیرو به بیروت اعزام نمی‌شود و درباره آتش‌بس با حزب‌الله نیز اظهارنظر کرد.",
-            "در تهران، رسانه دولتی گفته ایران در واکنش به حملات اسرائیل در لبنان ممکن است مذاکرات را متوقف کند؛ تسنیم نیز گزارش داد تیم مذاکره‌کننده «تعلیق گفت‌وگوها و تبادل متون از طریق میانجی‌ها» را در دستور می‌گذارد، اما ایران هنوز تأیید نکرده که مذاکره دوباره از سر گرفته است.",
-            "هم‌زمان با اظهارنظرهای سیاسی، آمریکا و ایران در چند روز اخیر عملاً وارد چرخه ضربه‌متقابل شده‌اند: آمریکا «دفاع از خود» را برای حمله به سایت‌های رادار و فرماندهی-کنترل پهپاد در گورک و جزیره قشم اعلام کرد و تهران هدف‌گیری پایگاهی مرتبط با حمله را مطرح کرد؛ در پس‌زمینه نیز اتهام‌زنی دوطرف درباره نقض آتش‌بس اسرائیل-لبنان جریان دارد."
-        ],
-        "impact": "ترکیب پیام‌های متناقض ترامپ، تهدید توقف مذاکرات از سوی رسانه‌های نزدیک به سپاه، و تبادل ضربات میان آمریکا و ایران احتمال فروپاشی روند دیپلماسی و تشدید بی‌ثباتی منطقه‌ای را بالا می‌برد.",
-        "tag": "ایران-مذاکرات",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning/",
-        "clean_url": "https://time.com/article/2026/06/01/us-iran-trade-fresh-strikes-peace-talks-president-trump-warning",
-        "image": "http://www.bing.com/th?id=ONUT.gJxUrtG6sevdE8zVtjhWqA&pid=News",
-        "timestamp": 1780326480.0
-    },
-    {
-        "title_fa": "مذاکرات صلح ایران-آمریکا تمام شد؛ حالا نتیجه عملی چیست؟",
-        "title_en": "Iran Peace Talks Are Off. Now What?",
-        "summary": [
-            "مقاله تأکید می‌کند مذاکره میان ایران و آمریکا عملاً شکست خورده چون دو طرف «هم‌راستا» صحبت نکرده‌اند و ایران عملاً محور کنترل بحران را در دست داشته است؛ در نتیجه درخواست‌های ترامپ به بن‌بست خورده و تهران آن را خاتمه داده است.",
-            "بر مبنای متن، ترامپ تصور می‌کرد با فشار نظامی می‌تواند روند گفت‌وگو را به نفع خود کش بدهد؛ اما ایران با وجود بمباران ۳۸ روزه (بیش از ۱۳هزار هدف) و ادعای تلفات شدید در سطوح ارشد سیاسی، «نظام» را حفظ کرده، بقای قدرت در میان شاخه نظامی-امنیتی را ممکن ساخته و بخشی از توان موشکی برای تهدید بازیگران منطقه‌ای را نگه داشته است.",
-            "مقاله می‌گوید جنگ قرار نبود «به نتیجه رژیم‌چنج» برسد و حتی روایت ترامپ درباره هدف‌گذاری هسته‌ای هم تناقض دارد: در متن به حمله «Midnight Hammer» و ادعای نابودی ذخایر غنی‌شده اشاره می‌شود، سپس ترامپ همان ادعا را تعدیل کرده و آن را به دفن در دل سنگ‌گرانیت و امکان رصد ماهواره‌ای گره می‌زند؛ یعنی پیام سیاسی-اطلاعاتی جنگ از ابتدا هم منسجم و قطعی نبوده است."
-        ],
-        "impact": "شکست مذاکرات نشان می‌دهد اهرم فشار آمریکا با اتکا به اثرات بمباران، به «تغییر رفتار» تهران منتهی نشده و خطر ادامه چرخه تنش و حملات بدون توافق را بالا می‌برد.",
-        "tag": "مذاکرات",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Slate",
-        "url": "https://slate.com/news-and-politics/2026/06/trump-iran-war-news-peace-talks-off-what-next.html",
-        "clean_url": "https://slate.com/news-and-politics/2026/06/trump-iran-war-news-peace-talks-off-what-next.html",
-        "image": "http://www.bing.com/th?id=ONUT.7y2_TKcolZ3LhUBmfZHwWQ&pid=News",
-        "timestamp": 1780321440.0
     }
 ]
