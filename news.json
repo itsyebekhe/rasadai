@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "سازوکار ضربه تازه آمریکا علیه ایران؛ افزایش فشار نظامی",
+        "title_en": "U.S. Launches Fresh Wave of Strikes Against Iran",
+        "summary": [
+            "بر اساس گزارش WSJ، آمریکا موج تازه‌ای از حملات را علیه ایران آغاز کرده است که نشانه تشدید فشار مستقیم از مسیر نظامی است.",
+            "این نوع عملیات، ساختار توان عملیاتی نیروهای درگیر را تحت فرسایش قرار می‌دهد و هزینه‌های امنیتی و عملیاتی رژیم را بالا می‌برد، اما متن مشخص نمی‌کند دقیقاً هدف‌ها چه بوده‌اند.",
+            "چون جزئیات اقتصادی/پروتکل‌های تحریمی یا واکنش داخلی در متن ارائه نشده، اثر کوتاه‌مدت اصلی در چارچوب فشار خارجی و برهم‌زدن محاسبات دفاعی رژیم قابل تحلیل است."
+        ],
+        "impact": "اقدام جدید آمریکا با هدف تضعیف توان عملیاتی و افزایش هزینه‌های امنیتی، فشار مستقیم بر رژیم را بالا می‌برد؛ جزئیات اهداف برای سنجش شدت و پیامدهای اقتصادی/سیاسی هنوز روشن نیست.",
+        "tag": "تحرکات",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "WSJ",
+        "url": "https://www.msn.com/en-us/politics/international-relations/us-launches-fresh-wave-of-strikes-against-iran-straining-truce/ar-AA25kLLN",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-launches-fresh-wave-of-strikes-against-iran-straining-truce/ar-AA25kLLN",
+        "image": null,
+        "timestamp": 1781139060.0
+    },
+    {
+        "title_fa": "برنامه‌ریزی برای حملات گسترده آمریکا علیه ایران؛ ادعای هگست",
+        "title_en": "U.S. Plans Major Strikes on Iran, Hegseth Says",
+        "summary": [
+            "بر اساس گزارش وزارت جنگ آمریکا، جان هگست از برنامه‌ریزی برای «حملات بزرگ» علیه ایران خبر داده که نشان‌دهنده ورود واشنگتن به فاز فشار نظامی آشکار است.",
+            "این نوع اعلامیه، اگر اجرایی شود، به‌طور مستقیم بر امنیت زیرساخت‌های رژیم و توان واکنش آن اثر می‌گذارد و می‌تواند چرخه محاسبات امنیتی تهران را به سمت تصمیم‌های پرریسک سوق دهد.",
+            "در سطح سیاسی-اقتصادی، تشدید تهدید نظامی معمولاً ریسک سرمایه‌گذاری و تأمین مالی را بالا می‌برد و می‌تواند نوسان‌های ارزی و فشار بر اقتصاد داخلی را تشدید کند، حتی قبل از وقوع عملیات."
+        ],
+        "impact": "چنانچه این برنامه‌ها به اجرا برسند، رژیم با یک شوک امنیتی مستقیم مواجه می‌شود و هزینه‌های اقتصادی و سیاسی آن پیش از هر توافق احتمالی افزایش خواهد یافت.",
+        "tag": "تهدید_نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "U.S. Department of War (.gov)",
+        "url": "https://www.msn.com/en-us/politics/government/pete-hegseth-says-us-is-ready-to-restart-strikes-on-iran-if-no-deal-is-reached/ar-AA24pYP3",
+        "clean_url": "https://www.msn.com/en-us/politics/government/pete-hegseth-says-us-is-ready-to-restart-strikes-on-iran-if-no-deal-is-reached/ar-AA24pYP3",
+        "image": null,
+        "timestamp": 1781134449.0
+    },
+    {
         "title_fa": "دفاع هگست از شب دوم حملات آمریکا به ایران: مذاکرات با «بمب»",
         "title_en": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
         "summary": [
@@ -304,6 +340,24 @@
         "clean_url": "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond",
         "image": "http://www.bing.com/th?id=ONUT.4hv8t438p8hMyLHAMC_AyQ&pid=News",
         "timestamp": 1781094480.0
+    },
+    {
+        "title_fa": "حمله موشکی آمریکا به ۲۰ هدف در داخل ایران؛ پاسخ به سرنگونی آپاچی و افزایش خطر شکست مذاکرات",
+        "title_en": "US strikes Iran in retaliation for Apache shoot-down",
+        "summary": [
+            "طبق گزارش فاکس نیوز، آمریکا در روز سه‌شنبه به تلافی سرنگونی یک بالگرد آپاچی آمریکایی توسط نیروهای ایران، به ۲۰ هدف داخل ایران حمله کرد.",
+            "هر دو خلبان آمریکایی نجات یافته‌اند، اما این اقدام به‌طور مستقیم چرخه تنش را تشدید کرده و ریسک درگیری‌های بعدی را بالا می‌برد.",
+            "این گزارش تأکید می‌کند که آغاز دوباره خصومت‌ها می‌تواند مذاکرات صلح را از مسیر خارج کند."
+        ],
+        "impact": "ورود یک حمله گسترده به داخل خاک ایران، آستانه تقابل را بالا می‌برد و احتمال فروپاشی یا تعلیق مذاکرات را افزایش می‌دهد.",
+        "tag": "درگیری",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-trump-iran-israel-strikes-06-10-2026",
+        "clean_url": "https://www.foxnews.com/live-news/us-trump-iran-israel-strikes-06-10-2026",
+        "image": null,
+        "timestamp": 1781092500.0
     },
     {
         "title_fa": "پاسخ دولت ترامپ به ادعاهای ایران درباره بلیت‌های جام جهانی فیفا",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/gop-led-house-votes-to-limit-trump-s-iran-war-powers/ar-AA24MfxQ",
         "image": "http://www.bing.com/th?id=ONUT.dGIAQPcjHKKeNY0m9xnosA&pid=News",
         "timestamp": 1780500780.0
-    },
-    {
-        "title_fa": "تصمیم مجلس نمایندگان آمریکا برای توقف جنگ با ایران؛ ضربه سیاسی به ترامپ، نه پایان حملات",
-        "title_en": "Republican-led House votes to stop Iran war, rebuking Trump",
-        "summary": [
-            "مجلس نمایندگان تحت رهبری جمهوری‌خواهان با توقف «جنگ با ایران» مخالفت اجرایی با مسیر ترامپ را تصویب کرد، اما متن خبر تصریح می‌کند این اقدام پایان حملات نظامی آمریکا را تضمین نمی‌کند.",
-            "این مصوبه با وجود جنبه آشکارِ سرزنش سیاسی به ترامپ، هنوز در مرحله‌ای پیش‌ازقطعی است و بدون رأی‌گیری در سنا نمی‌تواند تبدیل به الزام اجرایی شود.",
-            "بنابراین پیام اصلی خبر، تغییر آرایش سیاسی در کنگره است نه تغییر فوری در میدان؛ حملات همچنان می‌تواند ادامه پیدا کند تا زمانی که سنا نتیجه نهایی را مشخص کند."
-        ],
-        "impact": "این رأی فشار داخلی بر ترامپ را افزایش می‌دهد، اما چون پایان حملات تضمین نشده و سنا تعیین‌کننده است، اثر عملی فوری بر کاهش درگیری محدود می‌ماند.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Bloomberg on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/republican-led-house-votes-to-stop-iran-war-rebuking-trump/ar-AA24LOHv",
-        "clean_url": "https://www.msn.com/en-us/news/politics/republican-led-house-votes-to-stop-iran-war-rebuking-trump/ar-AA24LOHv",
-        "image": "http://www.bing.com/th?id=ONUT.IrNj54GYvsUt4Bx4LDdL3w&pid=News",
-        "timestamp": 1780499667.0
-    },
-    {
-        "title_fa": "تصویب قطعنامه اختیارات جنگ در مجلس نمایندگان آمریکا برای توقف اقدام نظامی علیه ایران؛ ضربه سیاسی به ترامپ",
-        "title_en": "House approves war powers resolution to halt military action against Iran, in a rebuke of Trump",
-        "summary": [
-            "مجلس نمایندگان برای نخستین‌بار قطعنامه «اختیارات جنگ» را به تصویب رساند که هدفش توقف اقدام نظامی آمریکا علیه ایران است؛ با وجود تلاش‌های مایک جانسون برای جلوگیری از این نتیجه، رای‌گیری با برتری ۲۱۵–۲۰۸ انجام شد و چند جمهوری‌خواه به دموکرات‌ها پیوستند.",
-            "این رأی در عمل یک واکنش مستقیم به راهبرد جنگی ترامپ است؛ با اینکه احتمال رد هر تصمیم کنگره از سوی ترامپ بالا عنوان شده، این میزان همراهی فراتر از خطوط حزبی نشان‌دهنده رشد نارضایتی سیاسی از ادامه جنگ و دشوار شدن مسیر مذاکره برای «صلح» است.",
-            "گزارش به اثرات داخلی جنگ اشاره می‌کند: افزایش قیمت بنزین و فشار تورمی بر هزینه‌های روزمره مردم، و بازگشت توجه سیاسی به خاورمیانه؛ همچنین گفته شده که ترامپ برای کمک متحدان به از سرگیری تجارت از تنگه هرمز فشار می‌آورد."
-        ],
-        "impact": "تصویب این قطعنامه—حتی با احتمال رد از سوی ترامپ—نشانه افزایش شکاف سیاسی در آمریکا و محدود شدن فضای مانور اجرایی برای ادامه درگیری علیه ایران است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/us--iran-us-congress-194324903.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us--iran-us-congress-194324903.html",
-        "image": "http://www.bing.com/th?id=ONUT.2vxOBZP7cGDsTk2ePceKbg&pid=News",
-        "timestamp": 1780498800.0
-    },
-    {
-        "title_fa": "حمله موشکی ایران به کویت؛ ۱ کشته و ۶۳ زخمی در آزمون دوباره آتش‌بس شکننده با آمریکا",
-        "title_en": "Iranian strikes in Kuwait kill 1, injure 63 as shaky ceasefire with U.S. is further tested",
-        "summary": [
-            "NBC News گزارش می‌دهد در پی «حملات ایران در کویت» یک نفر کشته و ۶۳ نفر زخمی شده‌اند؛ شدت تلفات نشان می‌دهد این عملیات از کنترل کامل بحران فراتر رفته است.",
-            "این رخداد هم‌زمان با «آتش‌بس شکننده با آمریکا» مطرح شده و عملاً آن را در مرحله جدیدی زیر فشار قرار داده است؛ یعنی عدم اطمینان در مدیریت تنش بالاست.",
-            "با توجه به این‌که حمله خارج از خاک ایران رخ داده، پیامد مستقیم آن افزایش ریسک درگیری منطقه‌ای و آسیب به محاسبات امنیتی کشورهای همسایه است؛ نشانه‌ای از ادامه رفتار تنشی، نه تثبیت کاهش تنش."
-        ],
-        "impact": "این حادثه با بالا بردن احتمال پاسخ‌گویی و گسترش تنش، احتمال پایدار ماندن آتش‌بس با آمریکا را کاهش می‌دهد و ریسک درگیری منطقه‌ای را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "NBC News",
-        "url": "https://www.msn.com/en-us/news/world/iran-launches-deadly-new-strikes-on-the-gulf-in-latest-exchange-with-us-to-test-ceasefire/ar-AA24IUlL",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-launches-deadly-new-strikes-on-the-gulf-in-latest-exchange-with-us-to-test-ceasefire/ar-AA24IUlL",
-        "image": null,
-        "timestamp": 1780493731.0
     }
 ]
