@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "انتظار برای امضای توافق آمریکا-ایران و باز شدن مسیرهای حیاتی تنگه هرمز",
+        "title_en": "U.S.-Iran deal expected to reopen Strait of Hormuz could be signed within days, both sides say",
+        "summary": [
+            "NBC News گزارش می‌دهد هر دو طرف اعلام کرده‌اند توافق آمریکا-ایران که می‌تواند به بازگشایی تنگه هرمز منجر شود، احتمالاً ظرف چند روز آینده امضا خواهد شد.",
+            "این رویداد، فشار خارجی را از وضعیت «تهدید اقتصادی-امنیتی دائمی» به سمت «امکان بازگشت نسبی تجارت و درآمدهای ارزی» تغییر می‌دهد و می‌تواند به ثبات کوتاه‌مدت اقتصاد و سیاست داخلی رژیم کمک کند.",
+            "با وجود این، خودِ خبر درباره اقدام‌های داخلی رژیم یا توقف سازوکارهای سرکوب اطلاعات نمی‌دهد؛ بنابراین اثر اصلی گزارش‌شده فعلاً در سطح گشایش کریدور دریایی و پیامدهای اقتصادی مرتبط با آن است، نه بهبود حکمرانی."
+        ],
+        "impact": "امضای قریب‌الوقوع توافق و بازگشایی تنگه هرمز می‌تواند ریسک اختلال در حمل‌ونقل انرژی را کاهش دهد و به رژیم ایران فرصت تنفس اقتصادی بدهد، اما لزوماً تغییری در رفتار سیاسی داخلی ایجاد نمی‌کند.",
+        "tag": "توافق",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "NBC News",
+        "url": "https://www.msn.com/en-us/news/world/us-iran-deal-expected-to-reopen-strait-of-hormuz-could-be-signed-within-days-both-sides-say/ar-AA25y10Q",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-iran-deal-expected-to-reopen-strait-of-hormuz-could-be-signed-within-days-both-sides-say/ar-AA25y10Q",
+        "image": null,
+        "timestamp": 1781346736.0
+    },
+    {
+        "title_fa": "آمریکا و ایران می‌گویند توافق صلح نزدیک است؛ هم‌زمان حملات در تنگه هرمز ادامه دارد",
+        "title_en": "US, Iran say peace deal near despite Hormuz attacks",
+        "summary": [
+            "رسانه DW گزارش می‌دهد که آمریکا و ایران هم‌زمان ادعا می‌کنند «توافق صلح» نزدیک است، در حالی که در کنار این ادعا، حملات در تنگه هرمز هم جریان دارد.",
+            "این هم‌زمانی نشان می‌دهد کانال‌های مذاکره و فشار میدانی می‌توانند با هم پیش بروند: یعنی کاهش تنش در گفت‌وگوها لزوماً به معنای پایان ریسک در دریا نیست.",
+            "چنین شکافی معمولاً به نفع مدیریت بحران موقت است و می‌تواند باعث ادامه بی‌ثباتی اقتصادی/امنیتی در مسیرهای تجاری مرتبط با هرمز شود، بدون اینکه الزاماً به یک توافق اجرایی تبدیل شود."
+        ],
+        "impact": "اگر حملات هرمز متوقف نشود، «نزدیکی توافق» بیشتر حالت مدیریت ادعاییِ بحران خواهد داشت و ریسک نوسان در اقتصاد و امنیت مسیرهای صادراتی همچنان بالا می‌ماند.",
+        "tag": "امنیت_منطقه",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "DW",
+        "url": "https://www.msn.com/en-gb/news/other/iran-war-us-iran-say-peace-deal-near-despite-hormuz-attacks/ar-AA25xhxp",
+        "clean_url": "https://www.msn.com/en-gb/news/other/iran-war-us-iran-say-peace-deal-near-despite-hormuz-attacks/ar-AA25xhxp",
+        "image": null,
+        "timestamp": 1781343900.0
+    },
+    {
         "title_fa": "ادعای مین‌گذاری ورودی سایت هسته‌ای بمب‌خورده برای بازدارندگی از یورش و تلاش برای حفاظت از اورانیوم غنی‌شده",
         "title_en": "Iran said to have mined entrance to bombed nuclear site to deter raid on enriched uranium",
         "summary": [
@@ -52,6 +88,42 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/us-and-iran-approach-a-ceasefire-agreement-but-they-re-not-at-the-finish-line-yet/ar-AA25vGei",
         "image": null,
         "timestamp": 1781328656.0
+    },
+    {
+        "title_fa": "اقدام امنیتی ایران برای دشوار کردن دسترسی به ذخایر اورانیوم؛ هم‌زمان ادعای پایان جنگ و نزدیک بودن توافق آمریکا",
+        "title_en": "Iran US Israel war Live Updates: Iran Places Mines Around Underground Uranium Storage Tunnels",
+        "summary": [
+            "آمریکا: دونالد ترامپ می‌گوید توافق پایان جنگ با ایران «تقریباً کامل» است و احتمالاً طی آخر هفته در اروپا امضا می‌شود؛ همچنین ادعا کرده آمریکا امروز جنگ را پایان داده و ایران پذیرفته «هرگز سلاح هسته‌ای نداشته باشد»، و سخن از بازگشایی تنگه هرمز پس از نهایی شدن توافق مطرح کرده است.",
+            "ایران: طبق گزارش CNN، ایران ورودی تونل‌های محل ذخیره اورانیوم نزدیک به سطح «بمب‌گِرِید» را با ریزش/مسدودسازی تقویت کرده و اطراف تونل‌ها مین‌های انفجاری گذاشته است؛ این کار بعد از بحث عمومی درباره احتمال عملیات آمریکا برای تصاحب مواد انجام شده و دسترسی را «قابل‌توجه» دشوارتر، خطرناک‌تر و زمان‌برتر می‌کند.",
+            "هسته‌ای و راستی‌آزمایی: این دفاعیات می‌تواند هر توافقی که بر مبنای واگذاری/تخلیه ذخایر غنی‌شده باشد را پیچیده کند، چون تأیید و برداشت موجودی اکنون سخت‌تر و پرریسک‌تر خواهد شد؛ در همان فضا، عباس عراقچی هم گفته طرفین روی یک توافق اولیه برای اعلام پایان جنگ در همه جبهه‌ها—از جمله لبنان—کار می‌کنند، در حالی که اسرائیل در مذاکره آمریکا-ایران دخیل نیست و گفته عقب‌نشینی نمی‌کند."
+        ],
+        "impact": "مین‌گذاری و مسدودسازی تونل‌های ذخیره اورانیوم، توان راستی‌آزمایی و هرگونه برداشت سریع از ذخایر را کاهش می‌دهد و حتی با ادعای نزدیک بودن توافق، اهرم هسته‌ای ایران را در زمین عملیاتی تقویت می‌کند.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.35,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-us-iran-news-trump-netanyahu-lebanon-iran-us-bases-attack-middle-east-latest-news-liveblog-154576244",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-israel-war-live-updates-us-iran-news-trump-netanyahu-lebanon-iran-us-bases-attack-middle-east-latest-news-liveblog-154576244",
+        "image": "http://www.bing.com/th?id=ONUT.2gvXglu1yAwSUppEbVzzKw&pid=News",
+        "timestamp": 1781324640.0
+    },
+    {
+        "title_fa": "ادامه درگیری آمریکا-ایران؛ ارگانچی از معامله نزدیک با دو مرحله می‌گوید و شهباز شریف امضای چارچوب صلح ظرف ۲۴ ساعت را مطرح می‌کند",
+        "title_en": "US-Iran War LIVE Updates: Pakistan PM says US-Iran peace deal signing expected within 24 hours",
+        "summary": [
+            "وزیر خارجه ایران ارگانچی احتمال «معامله زودهنگام» را مطرح کرد و گفت این توافق در دو فاز انجام می‌شود؛ همزمان گزارش شده حملات آمریکا علیه اهدافی در ایران برای دومین روز پیاپی ادامه داشته است.",
+            "بنابر گزارش‌های رسانه‌ای، در بحرین (محل استقرار نیروهای آمریکا) آژیرهای موشکی به صدا درآمد و در شهرهای بندرعباس، سیریک و میناب در جنوب ایران انفجارهایی و همچنین عملیات پدافند هوایی در غرب تهران و جنوب ایران گزارش شد.",
+            "شهباز شریف اعلام کرد آمریکا و ایران بر چارچوب یک توافق صلح توافق کرده‌اند، متن نهایی به‌دست آمده و پاکستان «امضای الکترونیکی» را ظرف ۲۴ ساعت آینده و سپس مذاکرات سطح فنی در دستور کار دارد؛ در کنار آن، نیروی دریایی آمریکا ادعا کرد یک کشتی را در خلیج عمان که در پی انتقال نفت ایران بوده «از کار انداخته» است."
+        ],
+        "impact": "اگرچه نشانه‌های مذاکره (چارچوب توافق و زمان‌بندی امضای احتمالی) اعلام شده، تداوم گزارش‌شده حملات و هشدارهای ایران، ریسک تشدید فوری را در کنار مسیر دیپلماتیک بالا نگه می‌دارد.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.4,
+        "source": "CNBCTV18",
+        "url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-airstrikes-tehran-retaliation-hormuz-blockade-bahrain-missile-middle-east-conflict-brent-crude-peace-deal-liveblog-19924898.htm",
+        "clean_url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-airstrikes-tehran-retaliation-hormuz-blockade-bahrain-missile-middle-east-conflict-brent-crude-peace-deal-liveblog-19924898.htm",
+        "image": "http://www.bing.com/th?id=ONUT.WwvekWisNM26FTOe_ENwVw&pid=News",
+        "timestamp": 1781324640.0
     },
     {
         "title_fa": "درهم‌زدن شبکه‌های رمزارزی ایران برای فشار اقتصادی؛ روایت «چگونه ترامپ ایران را وادار به عقب‌نشینی کرد»",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SUFNnTHRETHpRaTNTdU5SbTlaajZUcmtQNUtPM3hhZGNTZm0zZkxVQ1JOQ2dnM2JnN1VCOXNpLVpjM3RPQkFvVElQM3JBSkp3Q29iZm5R",
         "image": null,
         "timestamp": 1780752390.0
-    },
-    {
-        "title_fa": "آژیرهای حمله هوایی در بحرین؛ موشک‌ها و پهپادهای ایرانی به سمت همسایگان حاشیه خلیج فارس",
-        "title_en": "Air raid sirens in Bahrain as Iranian missiles and drones head for Gulf neighbors",
-        "summary": [
-            "طبق گزارش NBC News، آژیرهای حمله هوایی در بحرین به صدا درآمده چون گفته می‌شود موشک‌ها و پهپادهای ایرانی در مسیر هدف‌گیری همسایگان حاشیه خلیج فارس هستند.",
-            "این رخداد نشان‌دهنده افزایش سطح ریسک امنیتی در منطقه است و مستقیماً به تنش عملیاتی با دولت‌های ساحلی خلیج فارس پیوند می‌خورد، نه صرفاً یک تهدید لفظی.",
-            "از آنجا که این گزارش بر «حرکت» تسلیحات هوشمند (پهپاد/موشک) در آسمان تاکید دارد، پیامد فوری آن می‌تواند تشدید اقدام‌های دفاعی، توقف یا اختلال در فعالیت‌های اقتصادی و افزایش هزینه‌های امنیتی برای کشورهای هدف باشد."
-        ],
-        "impact": "این حمله یا نزدیک‌شدن آن می‌تواند به یک چرخه تشدید امنیتی در خلیج فارس تبدیل شود و هزینه اقتصادی و سیاسی برای طرف‌های درگیر را بالا ببرد.",
-        "tag": "تهدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalZlMEJIY0NBNkRqVGd5ZHNEUHl4allFVUV3WnFkZnVka2pZbndPQS13MXlZOEJXSTRBWWFjUUU4ZjNtWDE3VERDX1ZGcjhiNkFaN01PRWtUS21CcFJUQzBvZ01xMEZvN3ozbHZ2Q1lvQ1RLTHJQVjdFczEzWWVrUGdraGdfaVFBQ3duQjBpampSZzluZXg0OWM0Y01fWjZYc3lrc3JDWnk?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQalZlMEJIY0NBNkRqVGd5ZHNEUHl4allFVUV3WnFkZnVka2pZbndPQS13MXlZOEJXSTRBWWFjUUU4ZjNtWDE3VERDX1ZGcjhiNkFaN01PRWtUS21CcFJUQzBvZ01xMEZvN3ozbHZ2Q1lvQ1RLTHJQVjdFczEzWWVrUGdraGdfaVFBQ3duQjBpampSZzluZXg0OWM0Y01fWjZYc3lrc3JDWnk",
-        "image": null,
-        "timestamp": 1780749840.0
-    },
-    {
-        "title_fa": "بررسی توافق هسته‌ای دوران اوباما و خروج دولت ترامپ",
-        "title_en": "Inside the Obama-era Iran nuclear deal that Trump withdrew from",
-        "summary": [
-            "خبر CNBC صرفاً به «توافق هسته‌ای دوران اوباما» و این‌که «دولت ترامپ از آن خارج شد» اشاره دارد و جزئیات تصمیم، متن توافق یا پیامدهای مشخص را در همین ورودی ارائه نمی‌کند.",
-            "با توجه به محدود بودن اطلاعات، نمی‌توان درباره میزان اثرگذاری خروج ترامپ بر ساختار تحریم‌ها یا تغییرات در توان مالی/سیاسی رژیم ادعای دقیق کرد؛ داده قابل اتکا در متنِ موجود وجود ندارد.",
-            "این رویداد، از منظر راهبردی، در چارچوب فشار خارجی و اهرم هسته‌ای قابل تحلیل است، اما برای سنجش اثر واقعی باید گزارش CNBC شامل جزئیات اجرایی/زمان‌بندی/واکنش‌های بعدی را داشت."
-        ],
-        "impact": "در نبود جزئیات از متن CNBC، تنها می‌توان گفت خروج ترامپ از توافق اوباما اهرم فشار هسته‌ای را به حوزه تصمیم‌های سیاسی-تحریمی بازگرداند، اما اثر مشخص آن قابل اندازه‌گیری از همین ورودی نیست.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.msn.com/en-us/news/other/inside-the-obama-era-iran-nuclear-deal-that-trump-withdrew-from/ar-AA24ZbAm",
-        "clean_url": "https://www.msn.com/en-us/news/other/inside-the-obama-era-iran-nuclear-deal-that-trump-withdrew-from/ar-AA24ZbAm",
-        "image": null,
-        "timestamp": 1780747201.0
-    },
-    {
-        "title_fa": "بن‌بست سیاسی ترامپ بر سر دارایی‌های ایران",
-        "title_en": "Trump navigates political minefield over Iran assets",
-        "summary": [
-            "خبر روی «دشواری سیاسی» ترامپ در ارتباط با تصمیم‌گیری درباره دارایی‌های ایران تمرکز دارد؛ یعنی یک مانع داخلی/مجریتی که می‌تواند سرعت یا جهت سیاست او را محدود کند.",
-            "خودِ متن به جزئیات فنی (میزان دارایی، نام کشور/نهاد نگهدارنده، یا اینکه چه تصمیمی در دست بررسی است) اشاره نمی‌کند؛ بنابراین اثر مستقیم آن بر فشار اقتصادی، هنوز قابل سنجش دقیق نیست.",
-            "با توجه به عنوان، این رویداد بیشتر از جنس مدیریت ریسک سیاسی است تا اقدام فوری؛ یعنی احتمالاً تصمیم‌ها می‌تواند زمان‌بر شود و اثر بازدارندگی/فشار مورد انتظار را کند کند."
-        ],
-        "impact": "در نبود جزئیات، مهم‌ترین پیام این است که مسیر سیاست‌گذاری درباره دارایی‌های ایران احتمالاً تحت فشارهای سیاسی قرار دارد و می‌تواند اثر اقتصادی مورد انتظار را به تعویق بیندازد.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Newsmax on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-navigates-political-minefield-over-iran-assets/ar-AA24ZHrU",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-navigates-political-minefield-over-iran-assets/ar-AA24ZHrU",
-        "image": "http://www.bing.com/th?id=ONUT.oXfCMBKZlPvfSo-0x3WTXA&pid=News",
-        "timestamp": 1780742713.0
-    },
-    {
-        "title_fa": "افزایش شدید تنش: پدافند آمریکا موشک‌های ایرانی را هنگام هدف‌گیری متحدان خلیج فارس منهدم کرد",
-        "title_en": "US military shoots down Iranian missiles targeting Gulf allies in major escalation",
-        "summary": [
-            "این گزارش اعلام می‌کند نیروهای نظامی آمریکا موشک‌های ایرانی را در جریان یک عملیات «هدف‌گیری علیه متحدان خلیج فارس» سرنگون کرده‌اند؛ یعنی اقدامات مستقیم ایران علیه شبکه امنیتی منطقه به سطح برخورد نظامی رسیده است.",
-            "اهمیت راهبردی این رویداد در «کاهش آستانه خطا» و تشدید چرخه تلافی است: هر پرتاب موشکی که رهگیری می‌شود، بهانه عملیاتی برای افزایش سطح آمادگی و در نهایت درگیری گسترده‌تر فراهم می‌کند.",
-            "برای ثبات رژیم، این نوع مواجهه معمولاً به فشار خارجی و هزینه‌های امنیتی داخلی می‌افزاید، اما متن گزارش به جزئیات اقتصادی/تحریمی یا دامنه دقیق داخلی اشاره نمی‌کند؛ بنابراین ارزیابی داخلی باید محدود به اثرات ناشی از تشدید تنش نظامی باشد."
-        ],
-        "impact": "این حادثه یک پله واضح در روند برخورد مستقیم است که احتمال تشدید سریع‌تر را بالا می‌برد و هزینه‌های امنیتی برای ایران را افزایش می‌دهد.",
-        "tag": "escalation",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "WLTX",
-        "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQWx5OUI4aDUwcFcxMU9lRDY1ZnJ1V2pGTkVUdWQ4M1pyVlhEcXVhUGc1dHVOQ3A2Z2g5VHBSRnFaM2ZSV0tieFFxdTN4YnZJWHJmSzVzUWVYWnRrQkZlNzZQMXpBdHk2SVZiS0VicGY5dEZMOC0wUTd2Q3FjeTZHNWtsNWJTRldjSFZYNWhOSnl4SlVDaWRWWWhzcnFJZVNtdkNfOERhb3VXUTg4ejBKRTNGS2JUV0R5YlVpUlk5b0JXM09zcXlRU1hDLVYwRFd0TXBxUHlpWGxSWkdCOVRxZE5peThPT2R2bUc0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQWx5OUI4aDUwcFcxMU9lRDY1ZnJ1V2pGTkVUdWQ4M1pyVlhEcXVhUGc1dHVOQ3A2Z2g5VHBSRnFaM2ZSV0tieFFxdTN4YnZJWHJmSzVzUWVYWnRrQkZlNzZQMXpBdHk2SVZiS0VicGY5dEZMOC0wUTd2Q3FjeTZHNWtsNWJTRldjSFZYNWhOSnl4SlVDaWRWWWhzcnFJZVNtdkNfOERhb3VXUTg4ejBKRTNGS2JUV0R5YlVpUlk5b0JXM09zcXlRU1hDLVYwRFd0TXBxUHlpWGxSWkdCOVRxZE5peThPT2R2bUc0",
-        "image": null,
-        "timestamp": 1780742700.0
     }
 ]
