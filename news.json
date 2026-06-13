@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "هم‌زمان با نزدیک‌شدن مذاکره ایران و آمریکا، تهران سالگرد جنگ خونین ۱۲ روزه با اسرائیل را با روایت رسمی «پایان‌زمانی» زنده می‌کند",
+        "title_en": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+        "summary": [
+            "تهران این هفته سالگرد ۱۲ روز جنگ ایران و اسرائیل در ژوئن ۲۰۲۵ را برگزار می‌کند؛ جنگی که در بازه ۱۳ تا ۲۴ ژوئن رخ داد و طبق گزارش، ده‌ها فرمانده ارشد نظامی در آن کشته شدند.",
+            "هم‌زمان، مقام‌های آمریکایی و ایرانی در مذاکره برای تبدیل یک آتش‌بس ۶۰ روزهِ پرتنش به «توافق جامع‌تر» برای صلح و همکاری نزدیک می‌شوند، اما در داخل تهران نسبت به احتمال خرابکاری اسرائیل در این روند تردید وجود دارد.",
+            "در آیین‌ها و پیام‌های رسمی، برخی از فرماندهان کشته‌شده از جمله محمد باقری (رئیس ستاد نیروهای مسلح)، حسین سلامی (فرمانده کل سپاه) و علی‌اکبر حاجی‌زاده (رئیس قدیمی حوزه هوافضا) با ادبیات مذهبی/آخرالزمانی و بنرهای «یاران آخرالزمان» بازنمایی می‌شوند؛ همچنین دانشگاه‌ها برنامه‌های یادبود برای دانشمندان و فیزیک‌دانان ترور شده از جمله محمدمهدی تهرانی را برگزار می‌کنند."
+        ],
+        "impact": "این هم‌زمانیِ مذاکره خارجی با بزرگداشت رسمی تلفات سنگین ۲۰۲۵، نشان می‌دهد که روایت نظام از جنگ هنوز محور انسجام داخلی است و می‌تواند فضای هر توافقی را به‌طور سیاسی-امنیتی سنگین کند.",
+        "tag": "مذاکره",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/world/articles/iran-us-near-deal-tehran-154327526.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-us-near-deal-tehran-154327526.html",
+        "image": null,
+        "timestamp": 1781365635.0
+    },
+    {
         "title_fa": "چالش هسته‌ای در مرکز مذاکرات ترامپ با ایران",
         "title_en": "The nuclear challenge at the heart of Trump's Iran negotiations",
         "summary": [
@@ -90,6 +108,24 @@
         "timestamp": 1781346736.0
     },
     {
+        "title_fa": "ایران: هیئت مذاکره‌کننده برای امضای تفاهم با آمریکا به ژنو یا اسلام‌آباد سفر نمی‌کند",
+        "title_en": "Iran says no plans to travel to Geneva or Islamabad for US-Iran deal signing",
+        "summary": [
+            "اسماعیل بقاءی، سخنگوی وزارت خارجه، اعلام کرد مذاکره‌کنندگان ایران در «دو روز آینده» برای امضای توافق با آمریکا به ژنو یا اسلام‌آباد سفر نخواهند کرد و گزارش‌ها درباره یک مراسم امضای نزدیک در سوئیس را نادرست دانست.",
+            "با وجود ردِ سفر قریب‌الوقوع، بقاءی گفت احتمال امضای یک «مذاکره‌نامه/یادداشت تفاهم» با آمریکا در روزهای آینده منتفی نیست، اما زمان دقیق باید منتظر بماند.",
+            "جزئیات نحوه رسمی‌سازی توافق مبهم است و روایت‌های آمریکا و ایران درباره فرمت امضا با هم هم‌خوان نیست؛ در عین حال امکان امضای از راه دور مطرح شده است، بدون اعلام تاریخ مشخص."
+        ],
+        "impact": "این موضع نشان می‌دهد روند توافق بالقوه با آمریکا بیش از آنکه به یک «مراسم سیاسی» گره خورده باشد، در حال حرکت به سمت سازوکارهای انعطاف‌پذیرِ امضای محدود و غیرنمایشی است و زمان‌بندی هنوز مه‌آلود مانده است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Moneycontrol",
+        "url": "https://www.moneycontrol.com/world/iran-says-no-plans-to-travel-to-geneva-or-islamabad-for-us-iran-deal-signing-article-13948891.html",
+        "clean_url": "https://www.moneycontrol.com/world/iran-says-no-plans-to-travel-to-geneva-or-islamabad-for-us-iran-deal-signing-article-13948891.html",
+        "image": "http://www.bing.com/th?id=ONUT.dkj2V5pC5vdQiTe5qWC0zA&pid=News",
+        "timestamp": 1781344440.0
+    },
+    {
         "title_fa": "آمریکا و ایران می‌گویند توافق صلح نزدیک است؛ هم‌زمان حملات در تنگه هرمز ادامه دارد",
         "title_en": "US, Iran say peace deal near despite Hormuz attacks",
         "summary": [
@@ -142,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53aTdYUHp3dE5QMTZhMVdETzA3YlpLUjZDVTRtazBpb1B3SVlLc2RGRGxvYTJqdVBKeVgtWnFPR0NqVlplc202cHFyRFR2Xy1WWklWek5zVXZTeGNFdlE",
         "image": null,
         "timestamp": 1781339154.0
+    },
+    {
+        "title_fa": "ایران و آمریکا به متن اولیه توافق نزدیک شدند؛ تهران می‌گوید یکشنبه امضا نمی‌شود",
+        "title_en": "Iran and US close on initial deal, Tehran says no signing on Sunday",
+        "summary": [
+            "طبق گزارش رویترز، یک مقام ارشد آمریکایی اعلام کرد که آمریکا و ایران بر سر «متن» توافق برای پایان جنگ به توافق اولیه رسیده‌اند و نشانه‌ها از نزدیک بودن توافق حکایت دارد.",
+            "در مقابل، تهران تصریح کرده است که یکشنبه توافق را امضا نخواهد کرد؛ یعنی فاصله میان «نزدیکی به چارچوب» و «توافق نهایی با امضا» هنوز پابرجاست.",
+            "این شکاف عملی، نشان می‌دهد که تصمیم‌گیری نهایی در داخل و/یا بررسی بندهای حساس ادامه دارد و خطر گیر افتادن توافق در جزئیات اجرایی یا سیاسی همچنان وجود دارد."
+        ],
+        "impact": "عدم‌امضای قریب‌الوقوع از سوی تهران، احتمال تأخیر یا تغییر در بندهای کلیدی را بالا می‌برد و فاز بعدی را پرریسک‌تر از «اعلام نزدیک شدن» می‌کند.",
+        "tag": "توافق",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
+        "clean_url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13",
+        "image": "http://www.bing.com/th?id=ONUT.dQAA0Wd5AwN5YA6IS2j7TA&pid=News",
+        "timestamp": 1781333640.0
     },
     {
         "title_fa": "اظهار پاکستان درباره نزدیک‌شدن آمریکا و ایران به توافق؛ در کنار اختلاف روایت‌ها و هم‌زمانی با اقدامات دریایی",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaVk5aEJFTU13QjdWaFpWRzRCcnd5TmVhNFVkU2ZRVnB5ZXVObGI3OFBkc0hKX3FoR05nQ0pqQzE4NWZ2VzBhU0x2eDNaVkktVkRxQVVYZUFtZjdHNmZnNnJNS0pKWUFhbUx5QlVQTFBtN3V6S3d0UWVUM3Jfc0xqdGhPMl9IVnRwZnkzX1gxcFNabGY3UGNQWkZmemx1bUFUWUJhMGd1aEtWQ1FuYng5aW9BWS1kTXhrS2dLS1hDZ3BpRVVxM1hHUENqYjBQbU9oQzVVaHBzb2k5VVVZVktoeFM3Y0JUZVJaOVZOWlFPSQ",
         "image": null,
         "timestamp": 1780775999.0
-    },
-    {
-        "title_fa": "مشاوره وایتکاف و کوشنر با کارشناسان هسته‌ای «اوک ریج» درباره ایران",
-        "title_en": "Witkoff, Kushner consult with Oak Ridge nuclear experts on Iran - report",
-        "summary": [
-            "طبق گزارش «Jerusalem Post»، وایتکاف و جرد کوشنر با کارشناسان هسته‌ای مرکز «اوک ریج» درباره ایران رایزنی کرده‌اند؛ تمرکز این سطح از مشاوره، انتقال دانش فنی و گزینه‌های سیاستی مرتبط با برنامه هسته‌ای ایران است.",
-            "این اقدام در چارچوب فشار خارجی و بازتولید ظرفیت تحلیل غربی صورت می‌گیرد و می‌تواند طراحی سیاست‌ها علیه برنامه هسته‌ای را دقیق‌تر کند، اما متن گزارش جزئیات مشخص از تصمیمات اجرایی ارائه نمی‌دهد.",
-            "در متن ارسالی، هیچ اشاره‌ای به رخدادهای مستقیم اقتصادی داخلی، اعتراضات، یا ارتباط تازه با روسیه/چین/کره شمالی وجود ندارد؛ بنابراین اثرگذاری را فقط باید در سطح «تقویت ابزار تحلیل و سیاست» محدود دانست."
-        ],
-        "impact": "این رایزنی می‌تواند کیفیت تصمیم‌گیری و اهرم‌های مرتبط با پرونده هسته‌ای علیه ایران را بالا ببرد، بدون اینکه در داده فعلی بتوان اثر فوری یا عملیاتی را قطعی کرد.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-us/news/other/witkoff-kushner-consult-with-oak-ridge-nuclear-experts-on-iran/ar-AA24Yjut",
-        "clean_url": "https://www.msn.com/en-us/news/other/witkoff-kushner-consult-with-oak-ridge-nuclear-experts-on-iran/ar-AA24Yjut",
-        "image": null,
-        "timestamp": 1780775028.0
-    },
-    {
-        "title_fa": "گزارش: نیروهای ویژه اسرائیلی از پایگاه در آذربایجان برای حمله به ایران استفاده کرده‌اند",
-        "title_en": "Israeli special forces reportedly used Azerbaijan base against Iran",
-        "summary": [
-            "طبق گزارش ژورزالِم پست، نیروهای ویژه اسرائیلی به‌صورت «گزارش‌شده» از یک پایگاه در آذربایجان برای عملیات علیه ایران استفاده کرده‌اند؛ یعنی محور عملیات فراتر از جغرافیای مستقیم، به تسهیل منطقه‌ای تکیه داشته است.",
-            "اگر این ادعا درست باشد، پیامد فوری آن افزایش سطح ریسک راهبردی در روابط همسایگی و گسترش میدان درگیری به واحدهای جدید سرزمینی است؛ جایی که تهران برای رصد/بازدارندگی عملاً با محدودیت بیشتری مواجه می‌شود.",
-            "در بعد داخلی، هرگونه تشدید تهدیدات خارجی معمولاً بهانه‌ای برای تشدید کنترل امنیتی و فشار سیاسی می‌سازد، اما همین‌طور می‌تواند هزینه‌های اقتصادی و بی‌ثباتی محاسباتی برای دولت را بالا ببرد—با این قید که در متن، داده مشخصی درباره اقتصاد یا اعتراضات ارائه نشده است."
-        ],
-        "impact": "در صورت صحت گزارش، این رخداد نشان‌دهنده افزایش عمق عملیاتی دشمن و گسترش بُرد تهدید علیه ایران در محیط منطقه‌ای است.",
-        "tag": "عملیات",
-        "urgency": 7,
-        "sentiment": -0.35,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95RTlRSTEyNDJlTWoyUUFhVlJjalNCVENRYXFNZ2NTNWNCbWFxc2M2Z1FCdmgyMmdOTVh5XzlNTUM2cGtyMmlrTk1SYVVhV0Zuc3BUR3ltZmxIb1Z1VGN0RDE1d2ZfTHhQSlM3UWRn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95RTlRSTEyNDJlTWoyUUFhVlJjalNCVENRYXFNZ2NTNWNCbWFxc2M2Z1FCdmgyMmdOTVh5XzlNTUM2cGtyMmlrTk1SYVVhV0Zuc3BUR3ltZmxIb1Z1VGN0RDE1d2ZfTHhQSlM3UWRn",
-        "image": null,
-        "timestamp": 1780769170.0
-    },
-    {
-        "title_fa": "سناریوی تقابل تیم‌های آمریکا و ایران در جام جهانی؛ رویداد صرفاً ورزشی با پیامد دیپلماتیک محدود در دالاس-فورت‌ورث",
-        "title_en": "US and Iran could play each other in the World Cup, and it would happen right here in Dallas-Fort Worth",
-        "summary": [
-            "گزارش WFAA به یک سناریوی ورزشی اشاره می‌کند که در آن آمریکا و ایران می‌توانند در جام جهانی به مصاف هم بروند و این مسابقه «اینجا در دالاس-فورت‌ورث» رخ می‌دهد.",
-            "این خبر از جنس رقابت فوتبال است و هیچ نشانه‌ای از تشدید فشار سیاسی/تحریمی یا رخداد امنیتی مرتبط با آن ارائه نمی‌دهد.",
-            "چون محتوای گزارش به خود مسابقه و محل برگزاری محدود است، نمی‌توان نتیجه‌گیری قابل اتکا درباره وضعیت رژیم، سازماندهی شبکه‌های منطقه‌ای یا روند اعتراضات داخلی از آن استخراج کرد."
-        ],
-        "impact": "اثر این خبر عمدتاً نمادین و رسانه‌ای است و شواهدی برای اثر مستقیم بر تحولات امنیتی یا اقتصادی ارائه نمی‌کند.",
-        "tag": "ورزشی",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "WFAA",
-        "url": "https://www.msn.com/en-us/news/other/us-and-iran-could-play-each-other-in-the-world-cup-and-it-would-happen-in-dallas-fort-worth/ar-AA2500c6",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-and-iran-could-play-each-other-in-the-world-cup-and-it-would-happen-in-dallas-fort-worth/ar-AA2500c6",
-        "image": null,
-        "timestamp": 1780769100.0
     }
 ]
