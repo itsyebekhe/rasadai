@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "نارضایتی گسترده در اسرائیل از توافق آمریکا و ایران؛ تهدید امنیتی حل‌نشده باقی می‌ماند",
+        "title_en": "In Israel, Broad Discontent Over the Emerging U.S. Deal With Iran",
+        "summary": [
+            "به‌گفته گزارش، طیف وسیعی از اسرائیلی‌ها در واکنش به «توافق در حال شکل‌گیری آمریکا با ایران» می‌گویند این توافق تهدیدهای امنیتی بنیادین ناشی از ایران را به‌طور جدی رفع نمی‌کند.",
+            "منتقدان از منظر امنیتی بر این نکته تمرکز دارند که چارچوب پیشنهادی، پاسخ عملی به ریسک‌های اصلی را ارائه نمی‌دهد و در نتیجه احتمال تداوم همان خطرات وجود دارد.",
+            "این نارضایتی در اسرائیل «فراسیاسی» توصیف می‌شود، یعنی اختلاف در جناح‌های سیاسی مانع از شکل‌گیری اجماع انتقادی بر سر ناکافی بودن پاسخ امنیتی نشده است."
+        ],
+        "impact": "گسترش مخالفت داخلی در اسرائیل می‌تواند هزینه سیاسی توافق و فشار برای بازنگری در مفاد آن را بالا ببرد، بدون آنکه از پیش روشن شود این فشار به تغییر واقعی منجر خواهد شد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html",
+        "clean_url": "https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html",
+        "image": "https://static01.nyt.com/images/2026/06/14/multimedia/14mideast-israel-opposition-vjlp/14mideast-israel-opposition-vjlp-facebookJumbo.jpg",
+        "timestamp": 1781466660.0
+    },
+    {
+        "title_fa": "ترامپ خواستار خویشتنداری شد؛ ضربه هوایی جدید اسرائیل به بیروت، مذاکرات ایران-آمریکا را دوباره متشنج کرد",
+        "title_en": "‘Let’s not blow it’: Trump calls for restraint after Israel launches fresh airstrikes on Beirut",
+        "summary": [
+            "ترامپ بعد از حمله هوایی تازه اسرائیل به بیروت گفت همه طرف‌ها باید «پایین بیا‌یند»، با این ادعا که می‌تواند «آغاز صلحی طولانی» باشد؛ همزمان میانجی‌ها برای رسیدن به یک توافق اولیه میان ایران و آمریکا تلاش می‌کنند تا جنگ سه‌ماهه پایان یابد، اما نشانه‌ای از جهش فوری دیده نمی‌شود.",
+            "اسرائیل گفته این حمله را علیه فرماندهان ارشد حزب‌الله انجام داده، چون سه فروند موشک/پهپاد از جنوب لبنان به شمال اسرائیل شلیک شده بود؛ تلفات گزارش‌شده برای بیروت: تخریب یک ساختمان در حومه جنوبی و کشته شدن سه نفر و زخمی شدن شش نفر.",
+            "در داخل ایران، مقامات مذاکره‌کننده و فرماندهان نظامی لحن تند دارند: محمدباقر قالیباف حملات اسرائیل به بیروت را نشانه «نداشتن اراده آمریکا یا ناتوانی آن» برای انجام تعهدات دانست و ژن. محمدجَعفر اسدی تهدید کرد «این جنایت‌ها بی‌پاسخ نخواهد ماند»؛ همچنین حمله هفته قبل باعث یک دور کوتاه اما شدید از درگیری ایران و اسرائیل و سپس بی‌ثباتی موقت مذاکرات شد."
+        ],
+        "impact": "حمله جدید اسرائیل به بیروت، با وجود ادعای نزدیک بودن «توافق»، نشان داد فشار میدانی می‌تواند سرعت و اراده سیاسی طرفین را در آخرین مرحله مذاکره منحرف کند و ریسک پاسخ نظامی را بالا ببرد.",
+        "tag": "مذاکرات",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
+        "clean_url": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
+        "image": null,
+        "timestamp": 1781464440.0
+    },
+    {
+        "title_fa": "ترامپ به اسرائیل و ایران هشدار داد که «خراب نکنند»؛ حملات تازه آتش‌بس در حال شکل‌گیری را تهدید می‌کند",
+        "title_en": "Trump warns Israel and Iran not to 'blow it' after new strikes threaten emerging ceasefire deal",
+        "summary": [
+            "طبق گزارش PBS، دونالد ترامپ در واکنش به «حملات تازه» به اسرائیل و ایران هشدار داد که وارد یک چرخه تشدید نشوند و مسیرِ یک توافق/آتش‌بس نوظهور را از بین نبرند.",
+            "نکته محوری خبر این است که حملات جدید به‌عنوان عامل مستقیمِ خطرِ شکست روند آتش‌بس معرفی شده‌اند؛ یعنی حتی تلاش‌های دیپلماتیک می‌تواند با یک دور جدید ضربه‌/پاسخ متقابل سقوط کند.",
+            "این هشدار، عملاً فشار سیاسی آمریکا برای تثبیت یک آتش‌بس محدود را برجسته می‌کند: جلوگیری از اقداماتی که محاسبات طرفین را به سمت تشدید نظامی هل می‌دهد."
+        ],
+        "impact": "با توجه به اینکه حملات تازه روند آتش‌بس در حال شکل‌گیری را تهدید می‌کند، احتمال گسترش درگیری و فروپاشی توافق بالقوه افزایش می‌یابد.",
+        "tag": "تنش‌منطقه‌ای",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnh3OHotVERBYllHdWxTbkxielBjVE4tMWk0Y3JFZlpLUXJhd2NBam1pS0ctMVE3Tms1cV9oa1NpMzBEaGhSenZJNk1QV1YxSXU1aXNXUUJ1Q3ZwS1lzWFMyVW1mYllEUHd0bEdId2ZYSDlMSXJoeFNNSGFNV1k3eTA5VUN1RjdUUXU5eHNHZnctMEF6LWtsRC01b0VnUG5Bazk0UmJ2dng3Ml9YQVZxTWo2LVY0eXlSWnNGbV8tbGlGaUtheVhN0gHMAUFVX3lxTE5yRlRNMldPdEZoOTE0QlQ3RTVGakdvWnZudHNtTVZZT1MtdV9XZ1FHMU90Nkt4RVRiUGFPN1FVSVZYQ1pmbUduMHlleldZYy11YjdmU1hWMFRUUHpFRTN6UzlJcXhOYWpLWXVLWFVEbU1Td0t2U1RRejVxR013dGtyYXRHd2FjbGw0ZUpCRGc0Q0pxSktqUXhpNFpHYVNwaEN5c1YwQ0QyR1RMbGJSYmc1azZacXRwOXJEUnoxRzkwNFgtTzVrLVFuV0p3WA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYnh3OHotVERBYllHdWxTbkxielBjVE4tMWk0Y3JFZlpLUXJhd2NBam1pS0ctMVE3Tms1cV9oa1NpMzBEaGhSenZJNk1QV1YxSXU1aXNXUUJ1Q3ZwS1lzWFMyVW1mYllEUHd0bEdId2ZYSDlMSXJoeFNNSGFNV1k3eTA5VUN1RjdUUXU5eHNHZnctMEF6LWtsRC01b0VnUG5Bazk0UmJ2dng3Ml9YQVZxTWo2LVY0eXlSWnNGbV8tbGlGaUtheVhN0gHMAUFVX3lxTE5yRlRNMldPdEZoOTE0QlQ3RTVGakdvWnZudHNtTVZZT1MtdV9XZ1FHMU90Nkt4RVRiUGFPN1FVSVZYQ1pmbUduMHlleldZYy11YjdmU1hWMFRUUHpFRTN6UzlJcXhOYWpLWXVLWFVEbU1Td0t2U1RRejVxR013dGtyYXRHd2FjbGw0ZUpCRGc0Q0pxSktqUXhpNFpHYVNwaEN5c1YwQ0QyR1RMbGJSYmc1azZacXRwOXJEUnoxRzkwNFgtTzVrLVFuV0p3WA",
+        "image": null,
+        "timestamp": 1781457859.0
+    },
+    {
         "title_fa": "ترامپ: ضربه اسرائیل به لبنان نباید رخ می‌داد، اما توافق هسته‌ای با ایران نزدیک است",
         "title_en": "Trump says Israeli strike on Lebanon should not have happened, but Iran deal close",
         "summary": [
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVFqaTlpQkZ5Z1lyZ3dSTHNEcGdqeExaOTlmSHZpeHhzZzhMcUJzVW8xRkQwV0s4T3lPRGpfTVlxMkk4LUQ3MW9LSWVseW83a1dfbHdBUG96dlNFWE9LRVRvWnJmcVJuWDNKVGFiZUdlUzhZSVZzZ0MwS2J1ek1tWnBOWlVaREU2bTk1S3pzcUhndTRqUGdaVllfSmkybmV3VzNyZmxUM2lVNTUxN0NuZnpBU2ZrZjgzb2xkdjZueEtveEZ2ZGc",
         "image": null,
         "timestamp": 1780864006.0
-    },
-    {
-        "title_fa": "حمله اسرائیل به مجتمع پتروشیمی ماهشهر و تشدید تهدید موشکی ایران",
-        "title_en": "Israel-Iran war news live: Israel hits multiple targets at petrochemical complex in Iran's Mahshahr",
-        "summary": [
-            "طبق گزارش Hindustan Times، اسرائیل چند هدف را در یک مجتمع پتروشیمی در ماهشهر هدف قرار داده است؛ حمله‌ای که مستقیماً به زیرساخت صنعتی و زنجیره تولید/صادرات نفت‌وپتروشیمی آسیب می‌زند.",
-            "هم‌زمان، نیروهای اسرائیلی اعلام کرده‌اند با تهدید موشکی ایران مواجه‌اند و در حال رهگیری برای مقابله با موشک‌های ایران هستند؛ یعنی چرخه تهاجم-پاسخ وارد فاز عملیاتی‌تر شده است.",
-            "با توجه به هدف قرار گرفتن یک دارایی پتروشیمی، پیامد فوری برای اقتصاد ایران «هزینه توقف/تخریب صنعتی + ریسک اختلال لجستیکی و بیمه» است و فشار داخلی برای جبران خسارت، ظرفیت دولت برای مدیریت بحران را محدود می‌کند."
-        ],
-        "impact": "هدف قرار گرفتن مجتمع پتروشیمی ماهشهر به‌عنوان دارایی حیاتی صنعتی، هم هزینه اقتصادی فوری ایجاد می‌کند و هم ریسک تشدید متقابل حملات را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Hindustan Times on MSN",
-        "url": "https://www.msn.com/en-in/news/news/iran-war-news-live-israel-facing-missile-threat-from-yemen-after-attack-on-iran-temporarily-closes-airspace/ar-AA253TwJ?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-in/news/news/iran-war-news-live-israel-facing-missile-threat-from-yemen-after-attack-on-iran-temporarily-closes-airspace/ar-AA253TwJ",
-        "image": "/th?id=ONUT.ajRZB_sAxh52jcLd30yskw&pid=News",
-        "timestamp": 1780863720.0
-    },
-    {
-        "title_fa": "ادعای اسرائیل از پرتاب موشک ایران؛ شکستن نخستین‌بار در میانه آتش‌بس شکننده",
-        "title_en": "Israel says Iran launched a missile at it, in a first during fragile ceasefire",
-        "summary": [
-            "طبق گزارش NPR، اسرائیل اعلام کرده ایران برای نخستین‌بار در زمان «آتش‌بس شکننده» موشکی علیه آن شلیک کرده است؛ این یعنی چارچوب توقف درگیری به‌صورت مستقیم نقض شده و خطر چرخه فوری تلافی بالا می‌رود.",
-            "اگر این ادعا درست باشد، آتش‌بس دیگر به‌عنوان سازوکار کنترل تنش عمل نمی‌کند و احتمال عملیات‌های بعدی (موشکی/پهپادی یا پاسخ متقابل) از سطح «مدیریت ریسک» به سطح «تشدید عملیاتی» منتقل می‌شود.",
-            "این رویداد مستقیماً هزینه سیاسی و امنیتی برای هر دو طرف را بالا می‌برد: برای اسرائیل، توجیه اقدامات بازدارنده یا تهاجمی تقویت می‌شود؛ برای ایران، هر ضربه به اعتبار آتش‌بس، دست رژیم را برای استفاده از سناریوی تلافی و مشروعیت‌سازی در داخل تنگ‌تر و پرهزینه‌تر می‌کند—اما همچنین می‌تواند به افزایش ریسک منطقه‌ای و محدود شدن گزینه‌های دیپلماتیک منجر شود."
-        ],
-        "impact": "نقض آتش‌بس در قالب شلیک موشکی می‌تواند به سرعت آستانه درگیری را بالا ببرد و شکنندگی توافق را به تشدید تبدیل کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1seERBQzlBNjZ2UHhWejR0VlBoMDFlNWlUTVhvYVZ2b0Z0Njd3Szl3Qi1jalZabWdYaDlHTEYtNkRDXzVnMlpkY0xHOVJLTDk1NjN0dmlwdkFfS2oxV0FWMjJLU2hFNWdsN0NGOXphZEp4Tm1kck1UTUpzQ3g?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1seERBQzlBNjZ2UHhWejR0VlBoMDFlNWlUTVhvYVZ2b0Z0Njd3Szl3Qi1jalZabWdYaDlHTEYtNkRDXzVnMlpkY0xHOVJLTDk1NjN0dmlwdkFfS2oxV0FWMjJLU2hFNWdsN0NGOXphZEp4Tm1kck1UTUpzQ3g",
-        "image": null,
-        "timestamp": 1780862187.0
-    },
-    {
-        "title_fa": "حمله اسرائیل به ایران با وجود درخواست ترامپ؛ تشدید ریسک به‌هم‌ریختگی بازار انرژی",
-        "title_en": "Israel Strikes Iran Despite Trump’s Call to Netanyahu",
-        "summary": [
-            "طبق گزارش Newsweek، اسرائیل حمله کرده و این اقدام در تضاد با درخواست ترامپ به بنیامین نتانیاهو برای خودداری از تشدید تنش عنوان شده است.",
-            "اسرائیل می‌گوید ایران موشک‌هایی را شلیک کرده که به‌عنوان تهدیدی برای آتش‌بس مطرح می‌شود؛ این چارچوب، منطق «پاسخ فوری» و استمرار چرخه تنش را تقویت می‌کند.",
-            "هم‌زمان، اختلال در تنگه هرمز به‌عنوان عامل فشار بر بازارهای جهانی انرژی مطرح است و نشان می‌دهد ریسک ژئوپلیتیک مستقیماً هزینه‌های اقتصادی جهانی را بالا نگه می‌دارد."
-        ],
-        "impact": "این رویداد احتمال فرسایش آتش‌بس و گسترش اختلالات انرژی را بالا می‌برد و فشار اقتصادی بیرونی را به‌صورت مستقیم تشدید می‌کند.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/iran-missiles-israel-first-strike-since-ceasefire-12042022",
-        "clean_url": "https://www.newsweek.com/iran-missiles-israel-first-strike-since-ceasefire-12042022",
-        "image": "http://www.bing.com/th?id=ONUT.EajitkFAXmU_i2uAsu9fag&pid=News",
-        "timestamp": 1780860660.0
     }
 ]
