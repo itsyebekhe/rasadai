@@ -1,5 +1,131 @@
 [
     {
+        "title_fa": "توافق آمریکا و ایران برای پایان درگیری؛ کاهش فشار کوتاه‌مدت، نه حل بحران حکمرانی",
+        "title_en": "U.S., Iran reach a deal to end fighting, both sides say",
+        "summary": [
+            "بر اساس گزارش واشنگتن‌پست، آمریکا و ایران درباره پایان درگیری به توافق رسیده‌اند؛ هر دو طرف اعلام کرده‌اند که جنگ متوقف می‌شود.",
+            "این نوع توافق می‌تواند فشار خارجی و ریسک‌های مستقیم درگیری را موقتاً کم کند، اما ساختار ناتوانی اقتصادی و بحران مشروعیت داخلی رژیم را به‌صورت فوری اصلاح نمی‌کند.",
+            "در نبود جزئیات الزام‌آور در متن خبر (مانند سازوکار نظارت، تضمین‌های اجرایی و شروط واقعی)، احتمال بازگشت تنش‌ها باقی می‌ماند؛ یعنی این توافق بیش از آنکه پایان استراتژیک بحران باشد، مدیریت مقطعی ریسک است."
+        ],
+        "impact": "اثر اصلی توافق، کاهش فوری هزینه و ریسک درگیری است، اما چون خبر چارچوب‌های تضمینی و سیاسیِ پایدار را روشن نمی‌کند، به معنای پایان منازعه ریشه‌ای نیست.",
+        "tag": "توافق",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/06/14/trump-says-us-iran-very-close-deal-urges-calm-after-israeli-strikes/",
+        "clean_url": "https://www.washingtonpost.com/world/2026/06/14/trump-says-us-iran-very-close-deal-urges-calm-after-israeli-strikes",
+        "image": null,
+        "timestamp": 1781534129.0
+    },
+    {
+        "title_fa": "بن‌بست در توافق آمریکا-ایران: اسرائیل خروج از لبنان را رد می‌کند، ایران پرداخت «نصف پول‌های بلوکه‌شده» را پیش‌شرط می‌داند",
+        "title_en": "U.S.-Iran deal updates: Israel says no Lebanon withdrawal, Iran says funds expected before final talks",
+        "summary": [
+            "طبق اعلام اسرائیل، نیروهایش در لبنان باقی می‌مانند و از عقب‌نشینی از این جبهه سخنی نمی‌گویند؛ این یعنی هرگونه حرکت دیپلماتیک، بدون تغییر عملی در میدان، پیش نمی‌رود.",
+            "همزمان ایران اعلام کرده پیش از آغاز گفت‌وگوهای نهایی با آمریکا، «نصف» منابع مالی بلوکه‌شده را دریافت می‌کند؛ این چارچوب‌گذاری مالی نشان می‌دهد تهران دنبال امتیاز پیشینی است نه معامله مرحله‌ای.",
+            "این وضعیت به‌جای ایجاد مسیر روشن برای کاهش تنش، دو طرف را در موقعیت‌های تقابلی نگه می‌دارد: استمرار حضور نظامی در لبنان در یک سو و شرط‌گذاری مالی پیش از مذاکرات نهایی در سوی دیگر."
+        ],
+        "impact": "این تعارض‌های علنی در میدان (لبنان) و روی میز (آزادسازی بخشی از دارایی‌های بلوکه‌شده) احتمال طولانی شدن بن‌بست و افزایش ریسک محاسبه‌نادرست را بالا می‌برد.",
+        "tag": "dealmatrix",
+        "urgency": 6,
+        "sentiment": -0.35,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreed-israel/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreed-israel",
+        "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/06/15/10b70937-f1c5-4bb8-b70f-302e566eecfa/thumbnail/1200x630/3b9bde6525221870203a69da0f2bbf25/gettyimages-2280223616.jpg",
+        "timestamp": 1781533920.0
+    },
+    {
+        "title_fa": "نگرانی اسرائیل از توافق ترامپ با ایران",
+        "title_en": "Israel Is Alarmed by Trump’s Deal With Iran",
+        "summary": [
+            "طبق گزارش WSJ، اسرائیل از این‌که ترامپ بر سر یک توافق با ایران پیش می‌رود، به‌شدت نگران شده است.",
+            "نگرانی اصلی در چارچوب موازنه تهدید و امنیت منطقه‌ای مطرح می‌شود، یعنی اسرائیل نمی‌خواهد پیامدهای توافق به کاهش فشارها یا تغییر محاسبات عملیاتی علیه ایران منجر شود.",
+            "این وضعیت نشان می‌دهد شکاف جدی در برداشت از «اثر» توافق وجود دارد: آمریکا از مسیر توافق به دنبال مدیریت مسئله است، اما اسرائیل آن را خطر برای منافع امنیتی خود می‌بیند."
+        ],
+        "impact": "این اختلاف نگاه میان آمریکا و اسرائیل می‌تواند تنش سیاسی-دیپلماتیک را تشدید کند و ریسک محاسبه غلط در قبال تهران را بالا ببرد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.35,
+        "source": "WSJ",
+        "url": "https://www.msn.com/en-us/news/world/israel-is-alarmed-by-trump-s-deal-with-iran/ar-AA25HwDu",
+        "clean_url": "https://www.msn.com/en-us/news/world/israel-is-alarmed-by-trump-s-deal-with-iran/ar-AA25HwDu",
+        "image": null,
+        "timestamp": 1781532000.0
+    },
+    {
+        "title_fa": "نیویورک‌تایمز: شکست راهبرد نتانیاهو علیه ایران در حال آشکار شدن است",
+        "title_en": "Israel Counts the Ways That Netanyahu's Iran Strategy Failed",
+        "summary": [
+            "خبر به این محور اشاره می‌کند که جنگی که نتانیاهو برای تثبیت «میراث» خود به آن امید بسته بود (حمله مشترک اسرائیل و آمریکا به ایران) به نتیجه‌ای که انتظار داشت نرسیده و روند آن می‌تواند به ناکامی ختم شود.",
+            "فرمول «همراهی آمریکا و اسرائیل برای حمله به ایران» به‌عنوان ستون راهبرد مطرح شده، اما متن نشان می‌دهد این مسیر عملیاتی یا سیاسی آن‌طور که طراحی شده پیش نرفته است.",
+            "جمع‌بندی مقاله روی «تعداد راه‌های شکست» تمرکز دارد؛ یعنی حتی اگر جنگ ادامه داشته باشد، منطق راهبرد نتانیاهو در دستیابی به هدف اصلی‌اش (فشار/تغییر وضعیت علیه ایران از مسیر حمله مشترک) دچار انحراف جدی شده است."
+        ],
+        "impact": "اگر حمله مشترک به ایران رخ نداده یا محدود مانده باشد، راهبرد نتانیاهو عملاً اعتبار بازدارندگی و مهندسی سیاسی-امنیتی آن را تضعیف می‌کند و بر محاسبات امنیتی تهران نیز سایه می‌اندازد.",
+        "tag": "تحلیل",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html",
+        "clean_url": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html",
+        "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15israel-assess-zcqm/15israel-assess-zcqm-facebookJumbo.jpg",
+        "timestamp": 1781529660.0
+    },
+    {
+        "title_fa": "مذاکره بر سر «مکانیسم پایان جنگ»: شکاف روایت‌ها و پیامدهای اهرم فشار",
+        "title_en": "What the US and Iran say is in the memorandum to end the war",
+        "summary": [
+            "خبر روی «متن» یا «محتوای» ادعاییِ یادداشت/مکانیسم پایان جنگ تمرکز دارد، اما خودِ کلیت گزارش به اختلاف در روایت‌های طرف آمریکایی و طرف ایرانی حول بندها و چارچوب اجرای آن اشاره می‌گذارد؛ همین اختلاف، از نظر راهبردی یعنی امکان کنترل‌پذیری پایین برای هر دو طرف وجود دارد.",
+            "اگر این یادداشت به‌عنوان گام عملی برای پایان درگیری عرضه شود، اثر فوری آن بیشتر سیاسی-امنیتی است تا اقتصادی؛ یعنی رژیم یا واشنگتن برای مهار ریسک تداوم تنش، زمان می‌خرند و از آن برای تثبیت مواضع استفاده می‌کنند.",
+            "از آنجا که جزئیات اجرایی (زمان‌بندی، ضمانت اجرا، سازوکار راستی‌آزمایی و جزئیات عقب‌نشینی/توقف اقدامات) در این عنوان به شکل روشن نیامده، ارزیابی نهایی از اینکه این «پایان جنگ» واقعی است یا صرفاً پوشش برای بازآرایی نیروها دشوار می‌ماند؛ اما خودِ اعلام «یادداشت» نشان می‌دهد هر دو طرف دنبال خروج از چرخه تنش هستند."
+        ],
+        "impact": "اعلام وجود یک «مکانیسم پایان جنگ» بدون روشن‌بودن بندهای اجرایی، بیشتر نشانه تغییر تاکتیک و مدیریت ریسک است تا تضمین پایان واقعی درگیری.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/factbox-what-the-us-and-iran-say-is-in-the-memorandum-to-end-the-war/ar-AA25GI1v",
+        "clean_url": "https://www.msn.com/en-us/news/world/factbox-what-the-us-and-iran-say-is-in-the-memorandum-to-end-the-war/ar-AA25GI1v",
+        "image": null,
+        "timestamp": 1781529369.0
+    },
+    {
+        "title_fa": "چارچوب توافق با آمریکا؛ تهران بین امید و ترس از نوسان سیاست واشینگتن",
+        "title_en": "In Iran, hopes and fears over what’s next as deal framework agreed with U.S.",
+        "summary": [
+            "خبر بر «چارچوب توافق» میان ایران و آمریکا و واکنش اجتماعی به آن تمرکز دارد و نشان می‌دهد بخشی از جامعه این وضعیت را به نوسان‌های اظهارات مقام‌های آمریکایی گره زده است.",
+            "یک استاد دانشگاه در تهران می‌گوید زندگی‌ها می‌تواند «بالا یا پایین» برود صرفاً با آنچه گفته می‌شود؛ یعنی نااطمینانی اقتصادی-روانی ناشی از وابستگی روزمره به سیاست خارجی، پررنگ است.",
+            "در این متن، هیچ نشانه‌ای از حل‌وفصل قطعی یا ضمانت اجرایی ارائه نشده و همین خلأ اطلاعاتی، ترس از پیامدهای بعدی را همزمان با امیدواری تقویت می‌کند."
+        ],
+        "impact": "این خبر بیشتر نشان‌دهنده اثرات نااطمینانی سیاست خارجی بر اقتصاد و تصمیم‌گیری روزمره در داخل ایران است تا یک تغییر پایدار و قابل‌سنجش در وضعیت.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/iran-respond-trump-hopes-deal-agreed-us-rcna350080",
+        "clean_url": "https://www.nbcnews.com/world/iran/iran-respond-trump-hopes-deal-agreed-us-rcna350080",
+        "image": "http://www.bing.com/th?id=ONUT._jwfMya8WtLdU5h2nk5gqg&pid=News",
+        "timestamp": 1781508840.0
+    },
+    {
+        "title_fa": "آزمون واقعی توافق ایرانِ ترامپ فقط زمانی روشن می‌شود که جنگ متوقف شود",
+        "title_en": "The true test of Trump’s Iran agreement will come only if the fighting stops",
+        "summary": [
+            "متن خبر CNN (روی MSN) عملاً درباره «مبارزه/دominance» و نمایش قدرت در مهمانی تولد ۸۰ سالگی ترامپ است و نه درباره جزئیات اجرایی یا روند میدانی توافق ایران.",
+            "عنوان می‌گوید آزمون واقعی توافق وقتی است که «فighting» متوقف شود، اما در بدنه گزارش اشاره مشخصی به ایران، توقف درگیری‌ها یا اثر مستقیم توافق بر میدان ارائه نمی‌شود.",
+            "بنابراین برای تحلیل فشار خارجی، نقش روسیه/چین/کره‌شمالی یا پیامد اقتصادی-داخلی، داده قابل اتکایی در همین گزارش وجود ندارد و نباید اتصال‌های فرضی ساخت."
+        ],
+        "impact": "این گزارش در عمل بیشتر یک گزاره رسانه‌ای درباره شرط‌بودن موفقیت توافق است تا ارائه شواهد درباره توقف جنگ یا تغییرات ملموس در سیاست/اقتصاد ایران.",
+        "tag": "تحلیل_رسانه‌ای",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/world/the-true-test-of-trump-s-iran-agreement-will-come-only-if-the-fighting-stops/ar-AA25EsVF",
+        "clean_url": "https://www.msn.com/en-us/news/world/the-true-test-of-trump-s-iran-agreement-will-come-only-if-the-fighting-stops/ar-AA25EsVF",
+        "image": "http://www.bing.com/th?id=ONUT.ConA-A126jDq917hqpF9Bw&pid=News",
+        "timestamp": 1781507580.0
+    },
+    {
         "title_fa": "توافق آمریکا و ایران بر سر جدول زمانی برای «توافق صلح» و ادعای ترامپ درباره بازگشایی تنگه هرمز",
         "title_en": "US and Iran agree timetable for peace deal as Trump says Strait of Hormuz to reopen",
         "summary": [
@@ -72,6 +198,24 @@
         "timestamp": 1781503320.0
     },
     {
+        "title_fa": "ابهام در «توافق بزرگ» ادعایی ترامپ درباره ایران؛ همه‌طرف‌ها به‌خاطر نبود جزئیات حیاتی انتقاد می‌کنند",
+        "title_en": "Lack Of Details On Trump’s ‘Great’ Iran Deal Prompts Criticism From All Sides",
+        "summary": [
+            "ترامپ اعلام کرده «توافق» با ایران «کامل» شده و به‌دنبال آن تنگه هرمز قرار است فوراً برای «جریان نفت» باز شود، اما در توضیح بعدی گفت امضا و بازگشایی برای جمعه و پس از زمان‌گذاری «حذف مین» انجام می‌شود؛ هم‌زمان ایرانی‌ها فقط از «موافقت‌نامه/یادداشت تفاهم» (memorandum of understanding) بعد از ماه‌ها مذاکره صحبت کرده‌اند.",
+            "هیچ‌یک از طرفین درباره نقاط کلیدی روشن‌سازی نکرده‌اند: سرنوشت اورانیوم غنی‌شده تهران و نیز وضعیت «رفع تحریم‌ها» مشخص نیست؛ همین خلأ اطلاعاتی باعث انتقاد از دو جناح شده است.",
+            "منتقدان آمریکایی—از جمله تامّی ویتور و مایکل مک‌فال—می‌گویند ترامپ نه برنامه هسته‌ای را حذف کرده و نه مسئله موشکی را حل کرده، و بازگشایی هرمز هم «پیروزی جنگ» نیست چون پیش‌تر نیز باز بوده؛ مارک لوین نیز به‌نبود انتشار متن واقعی MOU به مردم حمله کرده است."
+        ],
+        "impact": "این ابهام عملیاتی و حقوقی درباره برنامه هسته‌ای و تحریم‌ها، ریسک بی‌ثباتی در محاسبات فشار و امتیازدهی را بالا می‌برد و فرصت تنش‌زایی یا برگشت‌پذیری تعهدات را برای تهران و واشنگتن افزایش می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.35,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/siladityaray/2026/06/15/criticism-of-trumps-iran-deal-grows-from-all-sides-as-details-remain-secret/",
+        "clean_url": "https://www.forbes.com/sites/siladityaray/2026/06/15/criticism-of-trumps-iran-deal-grows-from-all-sides-as-details-remain-secret",
+        "image": "http://www.bing.com/th?id=ONUT.UOgs-kJf67fo9KbkQfQ8aw&pid=News",
+        "timestamp": 1781503260.0
+    },
+    {
         "title_fa": "اگر توافق صلح جنگ ایران را پایان دهد، آمریکا و اسرائیل دقیقاً چه چیزی را به دست می‌آورند؟",
         "title_en": "A peace deal may bring an end to the Iran war, but what did the US and Israel truly achieve?",
         "summary": [
@@ -88,6 +232,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVZhV1JaY1BQVEdJVjc4cWxFVTRENUdGTkszd1NhczdoVkN6Z0FEQmI4SFFDUExGdnFhNHViY09JWkthVGhpNFhScnc4N3F6NDVGTVlzNzAtX0NOdDFjYkhVSVdHRjRMejdST29KOFBfQ2YzQ0RaaTFxNC0wTG9IVXI1NHR0NFlLSl9Cb1JyVEVoeVJiZnhWR2NNQ2Yxald4MEpZUGdabnNlcEYzSGQ0Mjl0b2p3RnVFOXFYcXR2Q0g5YTg",
         "image": null,
         "timestamp": 1781503178.0
+    },
+    {
+        "title_fa": "تلاش فرانسه و بریتانیا برای مأموریت دریایی در تنگه هرمز همزمان با نزدیک‌شدن آتش‌بس؛ تعیین‌کننده موضع ایران",
+        "title_en": "France, Britain push Hormuz mission as truce nears, but Iran’s stance key",
+        "summary": [
+            "فرانسه و بریتانیا در حال پیگیری برنامه‌هایی برای یک مأموریت چندملیتی نیروی دریایی برای حفاظت از کشتیرانی در تنگه هرمز هستند، مشروط به اینکه آتش‌بس میان آمریکا و ایران عملی شود.",
+            "این طرح با تردید مواجه است چون جزئیات و امکان تحقق آن به اراده و چارچوب تصمیم‌گیری بازیگران مرتبط گره خورده و متن خبر روشن می‌کند که تحقق‌پذیری آن قطعی نیست.",
+            "با این حال، گزارش صریحاً تاکید می‌کند که «موضع ایران» عامل کلیدی در سرنوشت این ابتکار است؛ یعنی هر تغییر در خط سیاست تهران می‌تواند کل طرح را یا فعال کند یا بی‌اثر سازد."
+        ],
+        "impact": "این حرکت به‌طور مستقیم به افزایش فشار عملیاتی برای کنترل ریسک امنیتی تجارت در هرمز می‌انجامد، اما به شرط آتش‌بس و در نهایت در گرو تصمیم ایران است.",
+        "tag": "هرمز",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/france-britain-push-hormuz-mission-truce-nears-irans-stance-key-2026-06-15/",
+        "clean_url": "https://www.reuters.com/world/middle-east/france-britain-push-hormuz-mission-truce-nears-irans-stance-key-2026-06-15",
+        "image": "http://www.bing.com/th?id=ONUT.GM145282xoWoLW4MilgC1A&pid=News",
+        "timestamp": 1781498760.0
     },
     {
         "title_fa": "اعلام «توافق صلح» آمریکا-ایران و ادعای ترامپ درباره بازگشایی تنگه هرمز",
@@ -5236,167 +5398,5 @@
         "clean_url": "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html",
         "image": "http://www.bing.com/th?id=ONUT.IY1ttolHFXCsyW7Aggl9mA&pid=News",
         "timestamp": 1780930140.0
-    },
-    {
-        "title_fa": "رضا پهلوی: حل بحران با مذاکره با رژیم تهران ممکن نیست",
-        "title_en": "Iran’s Crown Prince Pahlavi says crisis cannot be solved through talks with Tehran's regime",
-        "summary": [
-            "رضا پهلوی (ولیعهد سابق در تبعید) در پی ۲۴ ساعت تشدید تنش میان ایران، حزب‌الله و اسرائیل، مذاکره با رژیم تهران را رد کرد و گفت صلح پایدار بدون تغییر حاکمیت در ایران شکل نمی‌گیرد.",
-            "او با اشاره به نقش تهران در حمایت از «پروکسی‌های تروریستی»، اتهام زد که جمهوری اسلامی دوباره منطقه را به سمت درگیری نظامی می‌کشاند؛ ادعایی که به حمله موشکی ایران به اسرائیل پس از ضربه اسرائیل به اهداف حزب‌الله در بیروت (دحیه) و سپس پاسخ هوایی اسرائیل به اهداف نظامی در غرب و مرکز ایران گره خورده است.",
-            "پهلوی همچنین از دولت‌های خارجی خواست از روند مذاکره با تهران دست بردارند و به جای آن از «مبارزه مردم ایران برای آزادی» حمایت کنند؛ هم‌زمان با گزارش‌هایی که از تلاش آمریکا برای توافق گسترده‌تر جهت پایان درگیری خبر می‌دهند."
-        ],
-        "impact": "این موضع‌گیری، فشار سیاسی علیه مسیر مذاکره با تهران را تشدید می‌کند و در چارچوب افزایش چرخه کنش متقابل ایران–اسرائیل، احتمال تداوم و سخت‌تر شدن مهار بحران را بالاتر می‌برد.",
-        "tag": "مذاکره",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-crown-prince-pahlavi-says-213847985.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-crown-prince-pahlavi-says-213847985.html",
-        "image": "http://www.bing.com/th?id=ONUT.hvxsiC9Ggd_6u9FvYxS0sA&pid=News",
-        "timestamp": 1780929900.0
-    },
-    {
-        "title_fa": "دادوستد حملات اسرائیل و ایران؛ تهدید بازگشت جنگ تمام‌عیار در منطقه",
-        "title_en": "Israel and Iran trade strikes, threatening to drag the region back into full-scale war",
-        "summary": [
-            "بنابر گزارش AP، اسرائیل و ایران به‌صورت متقابل دست به حمله می‌زنند و این چرخه حملات می‌تواند به تشدید سریع و فراتر رفتن از سطح فعلی منجر شود.",
-            "این وضعیت به‌طور مستقیم خطر گسترش درگیری به بازیگران و جبهه‌های بیشتر را بالا می‌برد، چون هر حمله می‌تواند پاسخ بعدی را اجتناب‌ناپذیر کند و محاسبات بازدارندگی را بی‌ثبات سازد.",
-            "در چارچوب پیامدهای سیاسی و امنیتی، چنین تشدیدی معمولاً به انسداد کانال‌های مدیریت بحران و افزایش ریسک خطای محاسباتی منتهی می‌شود، حتی اگر هدف اعلامی، محدود نگه‌داشتن دامنه باشد."
-        ],
-        "impact": "مبادله حملات می‌تواند روند را از کنترل خارج کند و مسیر منطقه به سمت درگیری گسترده‌تر را هموار سازد.",
-        "tag": "امنیتی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNFd1SWJOdm5JcmNCOVlSSWtZektaRGxzQTkwWHBMUllKcUZlb1FYbEV0R3F3elU0NVVEUjlJOUVVVE9VR2NCU3d0V2F2RjY1N1Vhelh1UkNXdXRUbE5LbUhQQTNJRnZTa28teXBfNUg4X3UzWUw5dkQ1ODJmYzBOYlAyUmFvMzcyWFBINmpfWC1ZZHpHQ2h5Ykxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNFd1SWJOdm5JcmNCOVlSSWtZektaRGxzQTkwWHBMUllKcUZlb1FYbEV0R3F3elU0NVVEUjlJOUVVVE9VR2NCU3d0V2F2RjY1N1Vhelh1UkNXdXRUbE5LbUhQQTNJRnZTa28teXBfNUg4X3UzWUw5dkQ1ODJmYzBOYlAyUmFvMzcyWFBINmpfWC1ZZHpHQ2h5Ykxn",
-        "image": null,
-        "timestamp": 1780926840.0
-    },
-    {
-        "title_fa": "نشانه‌های عقب‌نشینی در حملات اسرائیل و ایران پس از تبادل آتش برای نخستین بار از زمان آتش‌بس ماه آوریل",
-        "title_en": "Israel and Iran appear to pause strikes after trading fire for the first time since April ceasefire",
-        "summary": [
-            "طبق گزارش، اسرائیل و ایران پس از تبادل آتش درگیری را برای ساعاتی متوقف کردند؛ این نخستین تبادل مستقیم آتش از زمان «آتش‌بس ماه آوریل» است.",
-            "این تغییر در رفتار رزمی هم‌زمان با «توافق آمریکا برای آتش‌بس با تهران» توصیف شده و نشان می‌دهد فشار دیپلماتیک خارجی می‌تواند ضرب‌آهنگ عملیات را محدود کند.",
-            "اقدام به مکث، به‌جای پایان قطعی، بیشتر شبیه مدیریت ریسک است: طرف‌ها فعلاً از تشدید بیشتر فاصله گرفته‌اند، اما چراغ سبز پایدار برای فروکش کردن کامل جنگ در متن گزارش تأیید نشده است."
-        ],
-        "impact": "مکث موقت احتمالاً ناشی از مهار تشدید در چارچوب آتش‌بس و فشار خارجی است، اما به‌دلیل ماهیت «پایبندی نامشخص»، می‌تواند مقدمه موج‌های بعدی حملات یا آزمایش خطوط دفاعی باشد.",
-        "tag": "آتش‌بس",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Canadian Press on MSN",
-        "url": "https://www.msn.com/en-ca/news/world/israel-and-iran-appear-to-pause-strikes-after-trading-fire-for-the-first-time-since-april-ceasefire/ar-AA254b73",
-        "clean_url": "https://www.msn.com/en-ca/news/world/israel-and-iran-appear-to-pause-strikes-after-trading-fire-for-the-first-time-since-april-ceasefire/ar-AA254b73",
-        "image": "http://www.bing.com/th?id=ONUT.g9KbOVS4QRa_Ux0_sTq_Hg&pid=News",
-        "timestamp": 1780926641.0
-    },
-    {
-        "title_fa": "آیا مذاکرات ایران تاب تشدید تنش اسرائیل-ایران را دارد؟",
-        "title_en": "Can Iran Negotiations Survive Israel-Iran Escalation?",
-        "summary": [
-            "موضوع اصلی گزارش CSIS این است که «افزایش سطح تنش» میان اسرائیل و ایران می‌تواند مسیر مذاکرات ایران را از نظر سیاسی و امنیتی بی‌ثبات کند، چون هزینه‌های داخلی و ریسک امنیتی برای هر دو طرف بالا می‌رود.",
-            "چارچوب تحلیل بر شکنندگی مذاکرات در شرایط تشدید بحران متمرکز است: هر رویداد جدید می‌تواند بهانه برای عقب‌نشینی از تعهدات یا تغییر جدول زمانی مذاکرات فراهم کند، حتی اگر هدف مذاکره حفظ کانال‌ها باشد.",
-            "در این متن، محور تصمیم‌گیری مذاکرات نه از منظر اقتصادی داخلی یا سازوکارهای اجرایی مشخص، بلکه از منظر «بقا/پایداری» در برابر تشدید تنش قرار گرفته است؛ بنابراین خود گزارش بیشتر یک ارزیابی ریسک سیاسی است تا اعلام یک توافق یا اقدام مشخص."
-        ],
-        "impact": "تشدید تنش اسرائیل-ایران می‌تواند دوام مذاکرات را با افزایش فشارهای امنیتی و سیاسی و ایجاد انگیزه برای تغییر موضع، به‌صورت مستقیم تضعیف کند.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CSIS | Center for Strategic and International Studies",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkVkb3NybUZBQVB0SVZtYzFWM2MyOENabzFQWFdpWnRPZEx3VHhvaEkwUXZSNXI0M2ZMQ3ZNb3NFRGZMNExqMC1sUThkZGMzUTVydVBWMUtYY3ZlR3RQTWpzamhNNGotUzdmQXZ4VW9UeF9faDd6UElicmE0V2s3NTBFeWtKYjZ2TGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYkVkb3NybUZBQVB0SVZtYzFWM2MyOENabzFQWFdpWnRPZEx3VHhvaEkwUXZSNXI0M2ZMQ3ZNb3NFRGZMNExqMC1sUThkZGMzUTVydVBWMUtYY3ZlR3RQTWpzamhNNGotUzdmQXZ4VW9UeF9faDd6UElicmE0V2s3NTBFeWtKYjZ2TGc",
-        "image": null,
-        "timestamp": 1780924981.0
-    },
-    {
-        "title_fa": "ادعای توقف حملات ایران به اسرائیل پس از موج حملات؛ توقفی مشروط و تبلیغاتی برای مدیریت ریسک",
-        "title_en": "Iran says it will halt attacks on Israel after waves of strikes",
-        "summary": [
-            "ایران اعلام کرده پس از «امواج حملات» علیه اسرائیل، حملات را متوقف خواهد کرد؛ یعنی روایت رسمی بر کنترل شدت در فاز بعدی تمرکز دارد، نه بر پایان قطعی تنش.",
-            "این موضع در چارچوب فشار خارجی و محاسبه هزینه-فایده مطرح می‌شود: توقف اعلام‌شده می‌تواند برای کاهش احتمال پاسخ‌های شدیدتر و محدود کردن پیامدهای منطقه‌ای استفاده شود.",
-            "از متنِ موجود، جزئیات اجرای عملی، زمان‌بندی دقیق یا شرایط بازگشت حملات ارائه نشده؛ بنابراین این اعلام بیشتر یک ابزار مدیریت بحران و تبلیغ کنترل‌پذیری عملیات است تا توافق واقعی برای پایان راهبرد."
-        ],
-        "impact": "اعلام توقف حملات، موقتاً ریسک تشدید را پایین می‌آورد اما با توجه به نبود جزئیات اجرایی، احتمال ادامه یا برگشت چرخه حملات در آینده را از بین نمی‌برد.",
-        "tag": "امنیت",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/world/airstrikes-intensify-as-israel-iran-clashes-leave-ceasefire-on-brink/ar-AA255ikc",
-        "clean_url": "https://www.msn.com/en-us/news/world/airstrikes-intensify-as-israel-iran-clashes-leave-ceasefire-on-brink/ar-AA255ikc",
-        "image": null,
-        "timestamp": 1780921875.0
-    },
-    {
-        "title_fa": "۱۰۰ روز جنگ ایران: تلفات، ویرانی و اختلالی که به جهان سرایت کرد",
-        "title_en": "100 Days Of Iran War: Deaths, Devastation & Disruption That Engulfed The World",
-        "summary": [
-            "بر اساس گزارش News18، در بازه ۱۰۰ روزه جنگ، مرگ‌ومیر و ویرانی در کنار «اختلال» به ابعاد گسترده رسیده و صرفاً محدود به داخل ایران نمانده است.",
-            "این متن بر پیامدهای فرامرزی تمرکز دارد و نشان می‌دهد که جنگ و آشفتگی ناشی از آن، زنجیره‌های اقتصادی و اجتماعی خارج از میدان درگیری را نیز تحت فشار قرار داده است.",
-            "گزارش جزئیات سیاست‌گذاری یا سازوکارهای دقیق رویداد را در متن ارسالی ارائه نمی‌کند، اما چارچوب کلی آن بیانگر فرسایش سریع توان عملیاتی و افزایش هزینه‌های انسانی و زیرساختی است."
-        ],
-        "impact": "ادامه این روند تلفات و اختلال می‌تواند به تضعیف بیشتر توان حکمرانی و افزایش بی‌ثباتی داخلی منجر شود، حتی اگر شکل دقیق سازوکارها در متن حاضر مشخص نشده باشد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "News18",
-        "url": "https://www.news18.com/explainers/100-days-of-us-israel-iran-war-devastation-deaths-strikes-disruption-hormuz-global-shocks-to-elusive-peace-fragile-ceasefire-ws-l-10135822.html",
-        "clean_url": "https://www.news18.com/explainers/100-days-of-us-israel-iran-war-devastation-deaths-strikes-disruption-hormuz-global-shocks-to-elusive-peace-fragile-ceasefire-ws-l-10135822.html",
-        "image": null,
-        "timestamp": 1780918920.0
-    },
-    {
-        "title_fa": "تبـادل شلیک موشکی میان اسرائیل و ایران؛ تداوم آتش‌بس در خاورمیانه زیر تهدید",
-        "title_en": "Israel and Iran exchange missile fire threatening Middle East truce",
-        "summary": [
-            "طبق گزارش NPR، اسرائیل و ایران در یک چرخه تبادل آتش/موشکی وارد شده‌اند و همین مسئله «آتش‌بس خاورمیانه» را در معرض خطر مستقیم قرار می‌دهد.",
-            "این رویداد یک سیگنال تشدیدکننده است: هر موج شلیک می‌تواند محاسبات بازدارندگی را به هم بزند و به اقدام متقابل گسترده‌تر منجر شود، بدون اینکه هنوز مشخصات اهداف یا ابعاد تلفات در متن ارائه شده باشد.",
-            "نبود جزئیات بیشتر در متن ارسالی (NPR فقط در عنوان به «تهدید آتش‌بس» اشاره کرده) نشان می‌دهد تمرکز فوری بر پیامد سیاسی-امنیتی است: کاهش احتمال کنترل بحران و افزایش ریسک شکست توافق‌های منطقه‌ای."
-        ],
-        "impact": "تبادل موشکی، احتمال فروپاشی یا بی‌اثر شدن سازوکارهای مهار تنش در منطقه را بالا می‌برد و ریسک تبدیل بحران به درگیری وسیع‌تر را افزایش می‌دهد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
-        "clean_url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
-        "image": null,
-        "timestamp": 1780918160.0
-    },
-    {
-        "title_fa": "ایران و اسرائیل موقتاً حملات را متوقف کردند؛ هشدار تهران و اسرائیل به ادامه انتقام در صورت نقض آتش‌بس",
-        "title_en": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-        "summary": [
-            "ایران و اسرائیل پس از تبادل آتش برای نخستین بار از زمان «توافق آوریل»، اعلام کردند حملات را متوقف کرده‌اند؛ نتانیاهو گفت در لحظه آتش‌بس رعایت می‌شود اما «مبارزه با ایران و حزب‌الله تمام نشده».",
-            "تهران می‌گوید پس از «پاسخ دردناک» به حمله اسرائیل به بیروت، عملیات را متوقف کرده و در صورت تکرار حملات اسرائیل، «اقدام‌های شدیدتر و خردکننده‌تر»—از جمله در لبنان—در پیش است؛ همزمان اسرائیل در ساعات اولیه دوشنبه اهدافی در داخل ایران را هدف گرفت.",
-            "رئیس‌جمهور آمریکا در تماس با BBC گفت نتانیاهو از خواسته‌های او عدول نکرده و کاخ سفید تأیید کرد ترامپ برای بررسی بحران با نتانیاهو تماس گرفته؛ اسرائیل نیز اعلام کرد بنا بر درخواست او حملات را متوقف کرده است."
-        ],
-        "impact": "این توقف موقت می‌تواند چند روز فشار کوتاه‌مدت ایجاد کند، اما تهدیدهای متقابل و ادامه موج‌های حمله نشان می‌دهد احتمال از سرگیری سریع در صورت نقض آتش‌بس بالاست.",
-        "tag": "آتش‌بس",
-        "urgency": 8,
-        "sentiment": -0.3,
-        "source": "BBC",
-        "url": "https://www.bbc.com/news/articles/cj6ge150z5go",
-        "clean_url": "https://www.bbc.com/news/articles/cj6ge150z5go",
-        "image": "http://www.bing.com/th?id=ONUT.g0U2r0rPnxnd6B0p0wJ_dw&pid=News",
-        "timestamp": 1780913640.0
-    },
-    {
-        "title_fa": "پس از تشدید حملات، اسرائیل و ایران از پایان حملات خبر دادند؛ ترامپ خواستار خویشتنداری شد",
-        "title_en": "After escalating strikes, Israel and Iran signal end to attacks",
-        "summary": [
-            "طبق گزارش، پس از مرحله‌ای از تشدید حملات، واشنگتن‌پست اعلام می‌کند رئیس‌جمهور دونالد ترامپ به دو طرف توصیه به خویشتنداری کرده است و این پیام در فضای همان تشدید و سپس عقب‌نشینی مطرح شده است.",
-            "ایران اعلام کرده است که به حملات خود پایان می‌دهد؛ این یعنی دست‌کم در روایت طرفین، چرخه حملات وارد فاز توقف شده است.",
-            "عنوان گزارش از «سیگنال پایان» حملات سخن می‌گوید، اما متن تنها به خبر توقف در سمت ایران اشاره دارد و جزئیات عملی درباره مکانیسم نظارت یا تضمین ادامه‌نداشتن حملات ارائه نمی‌کند."
-        ],
-        "impact": "این اعلام می‌تواند شدت درگیری را موقتاً کاهش دهد، اما چون شواهدی از تضمین یا ساختار کنترل ارائه نشده، احتمال بازگشت تنش همچنان بالاست.",
-        "tag": "تنش-منطقه",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/world/after-escalating-strikes-israel-and-iran-signal-end-to-attacks/ar-AA255ikc",
-        "clean_url": "https://www.msn.com/en-us/news/world/after-escalating-strikes-israel-and-iran-signal-end-to-attacks/ar-AA255ikc",
-        "image": "http://www.bing.com/th?id=ONUT.w6oq_1SBZIL5klJq6IrKNw&pid=News",
-        "timestamp": 1780913023.0
     }
 ]
