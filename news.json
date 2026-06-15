@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اعلام امضای تفاهم واشنگتن-تهران و وعده افزایش تدریجی تردد در تنگه هرمز",
+        "title_en": "U.S. officials say Iran pact signed, Hormuz traffic will rise significantly",
+        "summary": [
+            "مقام‌های آمریکایی می‌گویند واشنگتن و تهران «موافقت‌نامه تفاهم» امضا کرده‌اند تا جنگ نزدیک به چهار ماهه پایان یابد؛ مراسم رسمی طبق این گزارش روز جمعه برگزار می‌شود و تردد کشتی‌ها در تنگه هرمز «به‌طور قابل توجه اما تدریجی» افزایش می‌یابد.",
+            "این تفاهم توسط «دونالد ترامپ»، «جی.دی. ونس» و از سوی ایران «محمدباقر قالیباف» (رئیس مجلس) امضا شده و هم‌زمان اعلام شده ساختار روابط آینده آمریکا-ایران را مشخص می‌کند؛ اما بخش‌های پیچیده‌تر درباره برنامه هسته‌ای به تعویق می‌افتد.",
+            "طبق گفته دو مقام آمریکایی، رفع تحریم‌ها و آزادسازی بخشی از منابع مسدودشده «مشروط» است: هرگونه امتیاز تنها در صورت همکاری تهران در چارچوب هسته‌ای و نه حمایت از آنچه آمریکا «افراط‌گرایی منطقه» توصیف کرده، داده می‌شود؛ و همچنین وعده «ژست‌های کوچک» اولیه مطرح شده است."
+        ],
+        "impact": "آزاد شدن نسبی راه دریایی هرمز می‌تواند فوری فشار بازار انرژی را کاهش دهد، ولی خطر تداوم بن‌بست هسته‌ای و شرطی‌بودن امتیازها همچنان عامل بی‌ثباتی سیاسی باقی می‌ماند.",
+        "tag": "هرمز",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Reuters",
+        "url": "https://www.yahoo.com/news/politics/articles/u-officials-says-iran-pact-160448543.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/u-officials-says-iran-pact-160448543.html",
+        "image": null,
+        "timestamp": 1781543116.0
+    },
+    {
         "title_fa": "توافق آمریکا و ایران برای پایان درگیری؛ کاهش فشار کوتاه‌مدت، نه حل بحران حکمرانی",
         "title_en": "U.S., Iran reach a deal to end fighting, both sides say",
         "summary": [
@@ -88,6 +106,42 @@
         "clean_url": "https://www.msn.com/en-us/news/world/factbox-what-the-us-and-iran-say-is-in-the-memorandum-to-end-the-war/ar-AA25GI1v",
         "image": null,
         "timestamp": 1781529369.0
+    },
+    {
+        "title_fa": "توافق آمریکا و ایران با ضرب‌الاجل ۶۰ روزه؛ آزمون اصلی بازگشایی تنگه هرمز",
+        "title_en": "America and Iran Have an Agreement. And 60 Days to Prevent the Next War",
+        "summary": [
+            "ترامپ در شبکه اجتماعی از توافق آمریکا و ایران برای پایان دادن به جنگ خبر داد؛ توافق قرار است ۱۹ ژوئن در سوئیس به‌صورت رسمی امضا شود و طبق گزارش، هدفش ایجاد «نفس دیپلماتیک» است نه حل کامل اختلاف‌ها یا مناقشه هسته‌ای.",
+            "منطقه از ۲۸ فوریه و پس از جنگ آمریکا و اسرائیل علیه ایران وارد وضعیت نیمه‌جنگ شده بود: آتش‌بس ۸ آوریل مقیاس درگیری را کم کرد اما تبادل حملات میان نیروهای آمریکایی و ایرانی و نیز آزمون‌کردن طرفین توسط ایران و اسرائیل متوقف نشد.",
+            "ارزش فوری این یادداشت در گرو اجرای بند بازگشایی تنگه هرمز است: اگر تردد کشتی‌ها از سر گرفته نشود، سایه جنگ دریایی فقط به یک بیانیه دیپلماتیک تبدیل می‌شود و اثرش بر کاهش شوک قیمت انرژی و غذا برای اقتصادهای منطقه حداقلی خواهد بود."
+        ],
+        "impact": "اگر توافق تا ۶۰ روز آینده به بازگشت واقعی کشتیرانی در هرمز منجر نشود، ریسک جهش دوباره به درگیری بالا می‌ماند و بازارها آرام نمی‌گیرند.",
+        "tag": "تحلیل",
+        "urgency": 8,
+        "sentiment": 0.2,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/06/15/america-iran-peace-agreement-prevent-next-war/",
+        "clean_url": "https://time.com/article/2026/06/15/america-iran-peace-agreement-prevent-next-war",
+        "image": "http://www.bing.com/th?id=ONUT.dpGnH_aGmlNioFWK925CEw&pid=News",
+        "timestamp": 1781519100.0
+    },
+    {
+        "title_fa": "وَنس: متن کامل توافق با ایران «همین هفته» منتشر می‌شود؛ امضای الکترونیکی در واشنگتن انجام شد",
+        "title_en": "Iran deal already signed, Vance says, promises full text this week",
+        "summary": [
+            "طبق گفته JD Vance، دولت ترامپ متن کامل توافق با ایران را «بعداً در همین هفته» منتشر خواهد کرد؛ زمان‌بندی انتشار به امضای الکترونیکی سند در روز یکشنبه گره خورده است.",
+            "خبر نشان می‌دهد روند رسمی این توافق در سطح آمریکا وارد فاز عملیاتی شده، چون «امضای الکترونیکی» به‌عنوان نقطه پایان‌گذاری فرایند داخلی معرفی شده است.",
+            "با توجه به اینکه متن کامل هنوز منتشر نشده، فعلاً نمی‌توان درباره جزئیات تعهدات یا سازوکارهای نظارتی/اجرایی قضاوت کرد؛ اما خودِ اظهارنظر رسمی یعنی توافق از نگاه واشنگتن قابل ارائه و پیگیری است."
+        ],
+        "impact": "انتشار قریب‌الوقوع متن می‌تواند اهرم فشار یا اهرم چانه‌زنی جدید بسازد، چون طرفین و بازیگران داخلی/منطقه‌ای از جزئیات اجرایی مطلع خواهند شد.",
+        "tag": "توافق",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/06/15/jd-vance-iran-deal-signed-00962149",
+        "clean_url": "https://www.politico.com/news/2026/06/15/jd-vance-iran-deal-signed-00962149",
+        "image": "http://www.bing.com/th?id=ONUT.KJkpfryTXW-LWHArKVsB0A&pid=News",
+        "timestamp": 1781514840.0
     },
     {
         "title_fa": "چارچوب توافق با آمریکا؛ تهران بین امید و ترس از نوسان سیاست واشینگتن",
@@ -232,6 +286,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTVZhV1JaY1BQVEdJVjc4cWxFVTRENUdGTkszd1NhczdoVkN6Z0FEQmI4SFFDUExGdnFhNHViY09JWkthVGhpNFhScnc4N3F6NDVGTVlzNzAtX0NOdDFjYkhVSVdHRjRMejdST29KOFBfQ2YzQ0RaaTFxNC0wTG9IVXI1NHR0NFlLSl9Cb1JyVEVoeVJiZnhWR2NNQ2Yxald4MEpZUGdabnNlcEYzSGQ0Mjl0b2p3RnVFOXFYcXR2Q0g5YTg",
         "image": null,
         "timestamp": 1781503178.0
+    },
+    {
+        "title_fa": "تحلیل: توافق آمریکا و ایران ممکن است درگیری را کاهش دهد، اما حکم سه‌ماهه جنگ را برنمی‌گرداند",
+        "title_en": "Analysis",
+        "summary": [
+            "بر اساس روایت رپترز، «توافق آمریکا و ایران» می‌تواند در کوتاه‌مدت صدای جنگ را کمتر کند، اما قادر نیست نتایج و پیامدهای بیش از سه ماه درگیری را تغییر دهد.",
+            "جمع‌بندی گزارش بر این است که حتی با کاهش احتمال درگیری مستقیم، منطقه از مرحله‌ای عبور کرده که آثار آن در اقتصاد، امنیت و موازنه‌های محلی باقی می‌ماند.",
+            "متن ارائه‌شده اطلاعات جزئی دیگری درباره تحریم‌ها، حمایت‌های خارجی (مثل روسیه/چین/کره‌شمالی) یا شکل‌گیری اعتراضات داخلی نمی‌دهد؛ بنابراین تمرکز باید روی محدودیت اثر توافق بر «حکم جنگ» باقی بماند، نه بازنویسی واقعیت‌های ایجادشده در سه ماه گذشته."
+        ],
+        "impact": "این توافق احتمالاً شدت درگیری را پایین می‌آورد، اما به‌تنهایی برای پاک‌کردن هزینه‌های امنیتی و سیاسی ناشی از سه ماه جنگ کافی نیست.",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/analysis-gulf-recalibrates-as-iran-emerges-intact-from-war/ar-AA25GxLh",
+        "clean_url": "https://www.msn.com/en-us/news/world/analysis-gulf-recalibrates-as-iran-emerges-intact-from-war/ar-AA25GxLh",
+        "image": "http://www.bing.com/th?id=ONUT.ldtMa4mW7xlOR3aeQPmP6Q&pid=News",
+        "timestamp": 1781502248.0
     },
     {
         "title_fa": "تلاش فرانسه و بریتانیا برای مأموریت دریایی در تنگه هرمز همزمان با نزدیک‌شدن آتش‌بس؛ تعیین‌کننده موضع ایران",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tdTdybjZHMG5MZ0tMUzlTZzMyWk5yQzNtMWtObFB2M3pPQkhRQzM2QmNsZG1xd3JTSmtzUDdOWFZjS1pmUzVPVWhmSmM2amdXVFRUbW14QUNNN2wyZ3M5ODR5cndwOGd3Q056NEY5TDBnR0xHa3k2VQ",
         "image": null,
         "timestamp": 1780946300.0
-    },
-    {
-        "title_fa": "تعلیق موقت پس از دور تازه انتقام: تهران و تل‌آویو فعلاً عقب نشستند",
-        "title_en": "After another round of retaliation, Iran and Israel say they will hold off for now",
-        "summary": [
-            "این گزارش می‌گوید پس از یک دور دیگر از «انتقام‌جویی/حمله متقابل»، ایران و اسرائیل اعلام کرده‌اند فعلاً از تشدید بیشتر خودداری می‌کنند؛ یعنی آتش‌بس یا توقف پایدار قطعی اعلام نشده و بیشتر «وقفه تاکتیکی» است.",
-            "برداشت راهبردی این وقفه، فشار خارجی و هزینه‌های عملیاتی ناشی از چرخه ضربه‌متقابل است: وقتی هر دو طرف از تشدید فوری حرف می‌زنند، یعنی ظرفیت ادامه‌دادن با ریسک بالاتر را در کوتاه‌مدت محدود می‌دانند.",
-            "با توجه به نبود جزئیات مشخص درباره سازوکارهای نظارتی یا توافق سیاسی، این تعلیق بیشتر به مدیریت ریسک می‌ماند تا حل‌وفصل؛ بنابراین احتمال ازسرگیری در صورت تغییر محاسبات امنیتی یا محرک‌های جدید بالاست."
-        ],
-        "impact": "این وقفه موقت احتمال تشدید فوری را کاهش می‌دهد، اما به‌دلیل عدم اعلام چارچوب پایدار، فقط زمان می‌خرد و چرخه تنش می‌تواند دوباره فعال شود.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.35,
-        "source": "The Christian Science Monitor",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT04zS19vNnRILTE4a1pNXzFGaVJvby1JTEIzYzJrcmNjajd2LURLTlQ2TkQ5YkUtc0YtenllTjdqRVhLQTZDY1EyWEc5eThhVmF6NXE0TUZJQS1fbnpZYUY3dFBQQ19jMlJKbHdvR010SDZqdE1vMy1jZ1E0cUt3QmVpYjFSLTJrS1FhdjNSY2ZuZnM5SXVoNFZMRmFNV3ZEU3hXaVZxYUg2SDMzbGd2ejdsUG9IRmdaTmpUWEdLWE5GT09pRzlXQmpJbGZKLVF2aElMR2JzWTVxN3F30gHqAUFVX3lxTFBtaE1yZS11OUItcFFFNE5oODNjRzV5UjZqUGlySHpWQXFPbDJ3VG5kNkROUVhmSmNvc1pDbHdyb3I1UzhPUXEwa3g3eWNrQ3pHYi1LQXNkYXVxOVNtWl82VldkVzY3V25vQ0w3b243eDl3Uk5BNWdzSWkxSXRCUnVrWWJrWFZsM2RfZjZ2dk1PU0hPUjhGaERhWW9ndC1fZEd6amQ5R0wyYXZkcGxSZFJ3S3pUOS15Y0VPa2NEMHk0RUxqd2xLekY5c2NVSmxJQV8wRVk1RHZPVGhMWFhka3NnY0ZhcmdsWkhWQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT04zS19vNnRILTE4a1pNXzFGaVJvby1JTEIzYzJrcmNjajd2LURLTlQ2TkQ5YkUtc0YtenllTjdqRVhLQTZDY1EyWEc5eThhVmF6NXE0TUZJQS1fbnpZYUY3dFBQQ19jMlJKbHdvR010SDZqdE1vMy1jZ1E0cUt3QmVpYjFSLTJrS1FhdjNSY2ZuZnM5SXVoNFZMRmFNV3ZEU3hXaVZxYUg2SDMzbGd2ejdsUG9IRmdaTmpUWEdLWE5GT09pRzlXQmpJbGZKLVF2aElMR2JzWTVxN3F30gHqAUFVX3lxTFBtaE1yZS11OUItcFFFNE5oODNjRzV5UjZqUGlySHpWQXFPbDJ3VG5kNkROUVhmSmNvc1pDbHdyb3I1UzhPUXEwa3g3eWNrQ3pHYi1LQXNkYXVxOVNtWl82VldkVzY3V25vQ0w3b243eDl3Uk5BNWdzSWkxSXRCUnVrWWJrWFZsM2RfZjZ2dk1PU0hPUjhGaERhWW9ndC1fZEd6amQ5R0wyYXZkcGxSZFJ3S3pUOS15Y0VPa2NEMHk0RUxqd2xLekY5c2NVSmxJQV8wRVk1RHZPVGhMWFhka3NnY0ZhcmdsWkhWQQ",
-        "image": null,
-        "timestamp": 1780945985.0
-    },
-    {
-        "title_fa": "چالش علنی نتانیاهو با ترامپ: حمله اسرائیل به ایران علی‌رغم درخواست آتش‌بس",
-        "title_en": "Netanyahu defies Trump as Iran, Lebanon drive wedge",
-        "summary": [
-            "طبق گزارش، نتانیاهو با وجود درخواست ترامپ برای خودداری از واکنش، ساعاتی بعد از اظهارکاهش‌تنش ترامپ علیه پاسخ به حملات پهپادی ایران، دستور حمله علیه ایران را صادر کرد؛ همین موضوع شکاف آشکار بین آمریکا و اسرائیل درباره «قدم بعدی» در جنگ خاورمیانه را تشدید می‌کند.",
-            "ترامپ به‌صورت علنی از کنترل میدانی تصمیم‌ها صحبت کرده و گفته نتانیاهو «دست‌بالا» نیست، اما برآوردی که از تماس تلفنی مطرح شده این است که درخواست ترامپ برای عدم تلافی علیه حملات ایران نادیده گرفته شده و اسرائیل در پاسخ به حمله موشکی/پهپادی ایران به شمال دست به اقدام زد.",
-            "در سطح عملیاتی، گزارش می‌گوید اسرائیل هفت سامانه پدافند هوایی جدید را در ایران هدف گرفت و یک تأسیسات پتروشیمی در جنوب‌غرب ایران مرتبط با تولید تسلیحات را زد؛ نتانیاهو هم این اقدام را «دفاع از خود» دانسته و ایران نیز حمله به حزب‌الله در بیروت را نقض آتش‌بس تلقی کرده است."
-        ],
-        "impact": "این شکاف سیاسی-عملیاتی بین آمریکا و اسرائیل، هزینه تصمیم‌گیری و ریسک خطای محاسباتی را بالا می‌برد و مسیر تشدید چرخه تلافی علیه ایران و نیز بی‌ثباتی در محور لبنان را تقویت می‌کند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/netanyahu-defies-trump-iran-lebanon-225221993.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/netanyahu-defies-trump-iran-lebanon-225221993.html",
-        "image": "http://www.bing.com/th?id=ONUT.J8p175Y-X7isELe1x2W0BQ&pid=News",
-        "timestamp": 1780942740.0
-    },
-    {
-        "title_fa": "حمله ایران به اسرائیل، جاه‌طلبی‌های منطقه‌ای تهاجمی‌تر را آشکار کرد",
-        "title_en": "Iran’s attack on Israel reveals new and aggressive regional ambitions",
-        "summary": [
-            "وال‌استریت ژورنال می‌گوید اقدام ایران در واکنش/حمایت از حزب‌الله نشان‌دهنده «اشتهای تازه برای ریسک» است؛ ریسکی که پیش‌تر در سطح راهبردی دیده نمی‌شد.",
-            "این تحلیل بر تغییر کیفیت رفتار منطقه‌ای تمرکز دارد: یعنی نه صرفاً واکنش، بلکه تصمیمی که با هدف حفاظت از یک بازیگر نیابتی و تثبیت نفوذ منطقه‌ای طراحی شده است.",
-            "نتیجه ضمنی گزارش این است که حمله اخیر، مرحله‌ای از بلندپروازی‌های جدید را نشان می‌دهد و می‌تواند آستانه درگیری‌های بعدی را بالا ببرد."
-        ],
-        "impact": "این رخداد، احتمال تشدید الگوهای درگیری فرامرزی و افزایش ریسک محاسباتی ایران در منطقه را بالا می‌برد.",
-        "tag": "منطقه‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-s-attack-on-israel-reveals-new-and-aggressive-regional-ambitions/ar-AA258bj3",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-attack-on-israel-reveals-new-and-aggressive-regional-ambitions/ar-AA258bj3",
-        "image": "http://www.bing.com/th?id=ONUT.gmq5aZBHSJxjJz7GeK9Dzg&pid=News",
-        "timestamp": 1780938000.0
-    },
-    {
-        "title_fa": "ترامپ می‌خواهد فرمان بدهد، اما در ایران به محدودیت می‌خورد",
-        "title_en": "Trump Wants to Call the Shots. But in Iran, He Keeps Hitting His Limits.",
-        "summary": [
-            "نیویورک‌تایمز توصیف می‌کند که ترامپ با بحران‌های خاورمیانه همان الگوی «صدور دستور و برخورد از بالا» را پیش می‌برد که خود وعده داده بود تکرار نشود، و همین مسئله در ایران با مانع روبه‌رو شده است.",
-            "این گزارش نشان می‌دهد محدودیت‌های عملی در ایران—نه صرفاً موضع‌گیری سیاسی—باعث می‌شود ترامپ نتواند کنترل کامل بر نتایج را در دست بگیرد؛ یعنی شکاف میان خواست تصمیم‌گیر و توان اثرگذاری وجود دارد.",
-            "چارچوب اصلی مقاله این است که «ایران مثل یک هدف ساده برای مدیریت بحران نیست» و برای اعمال فشار یا تغییر رفتار، هزینه‌ها، پیچیدگی‌ها و خطوط قرمز ساختاری باعث می‌شوند سیاست واشنگتن به نتیجه دلخواه نرسد."
-        ],
-        "impact": "اثر فوری این وضعیت، کاهش قابلیت پیش‌بینی سیاست خارجی واشنگتن در قبال ایران و استمرار بن‌بست در مدیریت بحران است.",
-        "tag": "تحلیل",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html",
-        "clean_url": "https://www.nytimes.com/2026/06/08/us/politics/trump-iran-war-middle-east.html",
-        "image": "http://www.bing.com/th?id=ONUT.IY1ttolHFXCsyW7Aggl9mA&pid=News",
-        "timestamp": 1780930140.0
     }
 ]
