@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "رویترز: بسته توافقی ایران شامل صندوق ۳۰۰ میلیارد دلاری است؛ بیش از نیمی از آن از پیش تخصیص/تعهد شده",
+        "title_en": "Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says",
+        "summary": [
+            "طبق گزارش رویترز به نقل از یک منبع، سازوکار توافق شامل «صندوق ۳۰۰ میلیارد دلاری» است و بیش از نیمی از این مبلغ از قبل «commitment» شده (یعنی بخشی از پول/منابع عملاً پشتوانه تعهدات قبلی دارد).",
+            "این یعنی اهرم زمان برای رژیم کاهش می‌یابد: مقدار قابل‌توجهی از منابع وعده‌داده‌شده عملاً وارد مسیر تعهدات شده و توان رژیم برای مدیریت روایت «توافق به‌مثابه نجات فوری» محدودتر می‌شود.",
+            "از منظر فشار خارجی، چنین طراحی‌ای می‌تواند قدرت تغییر سیاست را به‌صورت مشروط و تدریجی منتقل کند و در عین حال، عدم شفافیت درباره نحوه تخصیص آن ۴۸۰+ میلیارد/بیش از نیمی از صندوق، ریسک اجرای نامطلوب و انحراف داخلی را برای اقتصاد بالا می‌برد."
+        ],
+        "impact": "وجود یک صندوق بزرگ با سهم قابل‌توجه از پیش‌تعهدشده، می‌تواند چرخه شوک اقتصادی ناشی از فشار خارجی را تعدیل کند اما هم‌زمان خطر مدیریت غیرشفاف منابع و استمرار ناکارآمدی حکمرانی را در خود حمل می‌کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/business/finance/iran-deal-includes-300-billion-fund-more-than-half-which-already-committed-2026-06-16/",
+        "clean_url": "https://www.reuters.com/business/finance/iran-deal-includes-300-billion-fund-more-than-half-which-already-committed-2026-06-16",
+        "image": null,
+        "timestamp": 1781644450.0
+    },
+    {
+        "title_fa": "خروجی معامله ترامپ-ایران: امکان فروش فوری نفت برای تهران",
+        "title_en": "Exclusive | The Trump-Iran Deal Allows Tehran to Immediately Sell Oil",
+        "summary": [
+            "طبق گزارش WSJ، مفاد معامله ترامپ-ایران این اختیار را به تهران می‌دهد که «هم‌اکنون» نفت خود را بفروشد؛ یعنی گره اصلی فشار مالی با کاهش امکان دسترسی به درآمد نفتی از مسیر فروش فوری تا حدی باز می‌شود.",
+            "این تغییر مستقیم بر توان مالی رژیم اثر می‌گذارد: درآمد سریع‌تر، هزینه‌کرد داخلی و پشتیبانی از شبکه‌های نفوذ و سرکوب را آسان‌تر می‌کند و فشار اقتصادیِ ناشی از محدودیت فروش نفت را کاهش می‌دهد.",
+            "در چارچوب توازن سیاست خارجی/اقتصادی، این یک امتیاز ساختاری برای بقاست نه صرفاً یک تخفیف کوتاه‌مدت؛ چون جریان نقدی پیشاپیش تقویت می‌شود و انگیزه تهران برای ادامه رفتارهای تنش‌زا را عملی‌تر می‌کند."
+        ],
+        "impact": "با فراهم شدن امکان فروش فوری نفت، رژیم به درآمد نقدی سریع‌تر دست پیدا می‌کند و اهرم‌های فشار مالی که می‌توانستند ثبات سیاسی‌اش را فرسایش دهند تضعیف می‌شود.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "WSJ",
+        "url": "https://www.msn.com/en-us/news/world/the-trump-iran-deal-allows-tehran-to-immediately-sell-oil/ar-AA25NzEa",
+        "clean_url": "https://www.msn.com/en-us/news/world/the-trump-iran-deal-allows-tehran-to-immediately-sell-oil/ar-AA25NzEa",
+        "image": null,
+        "timestamp": 1781639580.0
+    },
+    {
         "title_fa": "در پیش‌نویس ادعایی توافق آمریکا-ایران، نام اسرائیل نیامده است",
         "title_en": "Israel not mentioned in reported leaked draft of US-Iran deal",
         "summary": [
@@ -126,6 +162,24 @@
         "timestamp": 1781623884.0
     },
     {
+        "title_fa": "یواس‌آی و اسرائیل: اطلاعات محرمانه نشان می‌دهد رژیم ایران به عقب‌نشینی هسته‌ای موردنظر ترامپ تن نمی‌دهد",
+        "title_en": "Iran live updates: US intel pessimistic about Iran making nuclear concessions",
+        "summary": [
+            "خبرها می‌گویند ترامپ پس از «عملیات‌های رزمی عمده» و سپس چند دور مذاکره/توقف درگیری، از یک «معامله بزرگ» خبر داده و اعلام شده متن تفاهم‌نامه تا چند روز آینده منتشر می‌شود؛ همزمان تأکید شده هر نوع تسهیلات مالی یا رفع تحریم‌ها به رفتار ایران گره می‌خورد.",
+            "طبق اظهارات JD Vance، برنامه غنی‌سازی «روی میز» است اما بحث اصلی بر سر ضمیمه‌کردن راستی‌آزمایی و بازرسی‌هاست؛ از طرفی مشخص نیست این به معنی محدودسازی کامل غنی‌سازی خواهد بود یا نه.",
+            "اطلاعات ارائه‌شده به ترامپ و کابینه نشان می‌دهد جمع‌بندی اطلاعاتی CIA و همچنین اطلاعات اسرائیل، احتمال پذیرش «تسلیم هسته‌ای» خواسته‌شده توسط تیم ترامپ را پایین می‌داند؛ این ارزیابی‌ها عمدتاً بر سیگنال‌های شنود از مقامات ارشد ایرانی تکیه داشته و پیش از امضای تفاهم‌نامه مطرح شده‌اند."
+        ],
+        "impact": "این جمع‌بندی اطلاعاتی، ریسک شکست مذاکرات و تداوم فشار اقتصادی/بازدارندگی را بالا می‌برد و نشان می‌دهد رژیم فعلاً به‌دنبال معامله‌ای نیست که ترامپ آن را «قابل قبول» بداند.",
+        "tag": "sanctions",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-live-updates-israel-wont-074331332.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-live-updates-israel-wont-074331332.html",
+        "image": "http://www.bing.com/th?id=ONUT.0z-CzP6sYaxaInalgnwBQg&pid=News",
+        "timestamp": 1781622000.0
+    },
+    {
         "title_fa": "افزایش قیمت نفت حتی پس از پایان درگیری با ایران؛ هشدار مدیر شل",
         "title_en": "Oil Prices Set to Keep Rising Even After Iran Conflict Ends, Shell Boss Says",
         "summary": [
@@ -180,6 +234,42 @@
         "timestamp": 1781619240.0
     },
     {
+        "title_fa": "ادعای «پیروزی» در جنگ با ایران؛ واشنگتن سرِ جمع‌بندی به نتیجه‌ای مبهم تکیه می‌کند",
+        "title_en": "White House talking points claim victories in initial Iran deal but often don't meet reality",
+        "summary": [
+            "طبق گزارش Associated Press (MSN)، کاخ سفید به حامیانش گفته که دونالد ترامپ به اهدافش در جنگ با ایران رسیده، اما «جزئیات توافق اولیه» روشن نیست و نسخه رسمی با واقعیت قابل‌سنجش هم‌خوانی ندارد.",
+            "درحالی‌که مذاکرات درباره روند بعدی هنوز ادامه دارد، تکیه بر «نقاط قوت» در صحبت‌های کاخ سفید پیش از روشن شدن محتوای توافق، بیشتر جنبه اطلاع‌رسانی سیاسی دارد تا یک جمع‌بندی عملیاتی.",
+            "این شکاف میان لحن پلتفرمی واشنگتن و ابهام مستند در توافق اولیه، نشان می‌دهد که خروجی فوری قابل راستی‌آزمایی در دسترس نیست و همچنان می‌تواند به بی‌ثباتی در مدیریت انتظارات عمومی و تصمیم‌های سیاستی منجر شود."
+        ],
+        "impact": "ابهام در جزئیات «توافق اولیه» همراه با تبلیغِ پیروزی، احتمال فرسایش اعتبار سیاست فشار و مذاکره را افزایش می‌دهد و مسیر تصمیم‌گیری را پرریسک‌تر می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.3,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/white-house-talking-points-claim-victories-in-initial-iran-deal-but-often-don-t-meet-reality/ar-AA25OdeG",
+        "clean_url": "https://www.msn.com/en-us/news/world/white-house-talking-points-claim-victories-in-initial-iran-deal-but-often-don-t-meet-reality/ar-AA25OdeG",
+        "image": "http://www.bing.com/th?id=ONUT.Z_J_kVS81I-Adhyb3BFTPA&pid=News",
+        "timestamp": 1781615975.0
+    },
+    {
+        "title_fa": "تیم امنیتی ترامپ با وجود تردید جدی درباره پایبندی ایران، به توافق برای پایان جنگ و چارچوب هسته‌ای تن داد",
+        "title_en": "‘We want to get this thing over with’: How Trump officials overcame skepticism of Iran to reach an agreement",
+        "summary": [
+            "طبق گزارش CNN، در مذاکرات نزدیک‌به‌روز طی دو هفته، بخش بزرگی از تیم امنیتی ترامپ (از جمله جان راتکلیف و پیت هیگست) نسبت به احتمال اجرای تعهدات ایران و ارائه «توافقات واقعی» در حوزه هسته‌ای بدبین بودند، اما هیچ‌کس در نهایت با اصل پیش‌روی برای توافق مخالفت نکرد.",
+            "جمع‌بندی درون‌سازمانی به سمت «جمع‌کردن پرونده» رفت: توافق موردنظر برای بازگشایی تنگه هرمز و تعیین یک چارچوب کلی درباره برنامه هسته‌ای ایران طراحی شده و سپس یک بازه ۶۰ روزه برای گفت‌وگوهای فنی‌تر در نظر گرفته می‌شود.",
+            "این تصمیم در قالب یک اجماع سیاسی-امنیتی در کاخ سفید شکل گرفت که در آن سران ارشد مانند مارکو روبیو، JD ونس، و نیز فرستادگان استیو ویتکاف و جرد کوشنر نسبت به پایبندی تهران «رزروهای جدی» مطرح کردند، ولی مسیر توافق را ادامه دادند."
+        ],
+        "impact": "پیام اصلی این است که واشنگتن با وجود عدم‌اعتماد، وارد فاز توافق قاب‌بندی‌شده شده و ریسکِ «بازی‌زمان/عدم‌تحقق» را به ۶۰ روز گفت‌وگوی فنی بعدی منتقل می‌کند.",
+        "tag": "ایران-هسته‌ای",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/16/politics/iran-agreement-skepticism-trump",
+        "clean_url": "https://www.cnn.com/2026/06/16/politics/iran-agreement-skepticism-trump",
+        "image": "http://www.bing.com/th?id=ONUT.05u5JQ67HyH-rgUODJMO3w&pid=News",
+        "timestamp": 1781615280.0
+    },
+    {
         "title_fa": "تحلیل احتیاطی از چشم‌انداز توافق موقت آمریکا-ایران؛ نه صلح جامع",
         "title_en": "OPINION",
         "summary": [
@@ -232,6 +322,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/will-iran-get-300bn-in-trump-s-iran-deal-what-officials-have-said/ar-AA25NNy2",
         "image": "http://www.bing.com/th?id=ONUT.tLG2Uc1iHDte9XV6aw-kkQ&pid=News",
         "timestamp": 1781609384.0
+    },
+    {
+        "title_fa": "سازوکار توافق با آمریکا: اسرائیل باید نیروهایش را از لبنان خارج کند؛ واکنش ایران به «جنگ کوچک»",
+        "title_en": "Live Updates: Deal with U.S. requires Israeli forces to leave Lebanon, Iran says",
+        "summary": [
+            "طبق گزارش CBS News، دولت آمریکا برای توافقی که درباره لبنان مطرح شده، شرط خروج نیروهای اسرائیلی از لبنان را در چارچوب فشار سیاسی-دیپلماتیک ایجاد می‌کند.",
+            "ایران این روند را به‌عنوان تغییر در موازنه می‌بیند و در موضع‌گیری اعلام کرده که «نیروهای اسرائیلی باید خارج شوند»؛ همزمان مقامات ایرانی تلاش می‌کنند این نتیجه را نشانه‌ای از امکان مهار عملیات اسرائیل معرفی کنند.",
+            "در ادامه گزارش، رئیس‌جمهور ترامپ به نحوه مدیریت بنیامین نتانیاهو از «جنگ کوچک» علیه حزب‌الله در لبنان انتقاد کرده است؛ یعنی محور اختلاف در روایت‌ها، کنترل عملیات و هزینه سیاسی آن است."
+        ],
+        "impact": "این نوع شرط‌گذاری برای خروج نیرو، فشار بر محاسبات نظامی-سیاسی اسرائیل و هم‌زمان اهرم تبلیغاتی برای ایران در ماجرای لبنان ایجاد می‌کند.",
+        "tag": "لبنان",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "CBS News",
+        "url": "https://www.cbsnews.com/live-updates/iran-war-us-deal-peace-israel-lebanon-hezbollah-strait-of-hormuz/",
+        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-deal-peace-israel-lebanon-hezbollah-strait-of-hormuz",
+        "image": "http://www.bing.com/th?id=ONUT.SqRQcSQWPJfl9bIF3B4ufQ&pid=News",
+        "timestamp": 1781609220.0
     },
     {
         "title_fa": "مسئله ۳۰۰ میلیارد دلاری در «توافق ایران»؛ دسترسی مالی به تهران و تناقضات داخلی آمریکا",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.thehindu.com/news/international/iran-us-israel-war-live-updates-donald-trump-benjamin-netanyahu-mojtaba-khamenei-ceasefire-strait-of-hormuz-oil-prices-june-10-2026/article71083282.ece",
         "image": "http://www.bing.com/th?id=ONUT.y4LUM12OnGJsfMpCSqfPqg&pid=News",
         "timestamp": 1781055000.0
-    },
-    {
-        "title_fa": "آمریکا به‌دنبال سقوط هلیکوپتر آپاچی، حملات هوایی علیه ایران را آغاز کرد؛ تهران پاسخ داد و منطقه را وارد دور جدید تشدید کرد",
-        "title_en": "The US launches airstrikes on Iran after blaming Tehran for helicopter crash, prompting retaliation",
-        "summary": [
-            "آمریکا بامداد چهارشنبه با استناد به نقش ایران در سقوط یک هلیکوپتر حمله‌ای آمریکایی، حملات هوایی علیه ایران را آغاز کرد؛ تهران نیز به‌سرعت موج تازه‌ای از حملات را آغاز کرد که چرخه تلافی‌جویانه را گسترده‌تر ساخت.",
-            "گزارش‌ها از درگیری‌های فرامرزی حکایت دارد: ایران به سایت‌هایی در بحرین و کویت حمله کرد (با فعال‌شدن آژیرها و پدافند هوایی) و اردن نیز اعلام کرد پنج موشک را که به یک پایگاه هواییِ میزبان نیروهای آمریکا شلیک شده بود، ساقط کرده است.",
-            "این حادثه «آتش‌بسِ شکننده» را بیشتر فرسوده کرد: با وجود اینکه تلاش‌ها برای تبدیل آتش‌بس آوریل به توافق دائمی بی‌نتیجه مانده، ساقط‌شدن هلیکوپتر آپاچی و حملات آمریکا، یک روز پس از اولین تبادل آتش ایران و اسرائیل از زمان آتش‌بس، تنش را جهش داد؛ همزمان اسرائیل نیز کارزارش علیه حزب‌الله در لبنان را شدت داده است."
-        ],
-        "impact": "تشدید مستقیم پس از سقوط یک سامانه نظامی آمریکایی، احتمال شکست آتش‌بس و گسترش درگیری منطقه‌ای را بالا می‌برد و هزینه‌های اقتصادی جنگ را بیشتر می‌کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iranian-fires-missiles-air-hosting-032924339.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iranian-fires-missiles-air-hosting-032924339.html",
-        "image": "http://www.bing.com/th?id=ONUT.fEqSHgyVZRx6gO0XrMXwUg&pid=News",
-        "timestamp": 1781053440.0
-    },
-    {
-        "title_fa": "ریسک‌کردن رهبران جدید ایران برای شکستن قواعد جنگ با اسرائیل و آمریکا",
-        "title_en": "Iran’s new leaders are taking risks their predecessors avoided",
-        "summary": [
-            "حملات اخیر ایران به اسرائیل، به‌عنوان جسورانه‌ترین تلاش‌ها برای تغییر «مرزهای درگیری» توصیف شده است؛ یعنی تهران دیگر صرفاً به چارچوب حمله از مسیر نیروهای نیابتی و پاسخ‌های محدودِ کنترل‌شده بسنده نمی‌کند.",
-            "به گفته متن، تهران برای این تغییر رفتار، «پاسخ مستقیم» را ابزار فشار می‌داند: اینکه آمریکا و اسرائیل را وادار کند ادعای ایران درباره نقض مکرر آتش‌بس آوریل ۸ را جدی بگیرند؛ هم‌زمان آمریکا همچنان حتی در خلال مذاکرات غیرمستقیم، به اهداف ایرانی حمله کرده و اسرائیل نیز ادعا می‌کند نزدیک به ۳۵۰۰ حمله در لبنان انجام داده است.",
-            "متن همچنین هشدار می‌دهد دامنه درگیری می‌تواند گسترش یابد: ایران در صورت شکست دیپلماسی تهدید کرده جنگ را از فراتر از حاشیه خلیج فارس ادامه دهد و مسیرهای کشتیرانی از اقیانوس هند تا دریای سرخ و مدیترانه را هدف قرار دهد؛ ضمن اینکه تبادل آتش تازه میان آمریکا و ایران پس از سرنگونی یک بالگرد ارتش آمریکا، شکنندگی وضعیت را نشان می‌دهد."
-        ],
-        "impact": "این رویکرد ریسک‌پذیر می‌تواند محاسبات بازدارندگی را از کنترل‌شدگی خارج کند و احتمال تقابل مستقیم‌تر آمریکا-ایران و در نتیجه فشار راهبردی گسترده‌تر را بالا ببرد.",
-        "tag": "جنگ",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/06/10/middleeast/iran-strike-israel-retaliation-strategy-analysis-intl",
-        "clean_url": "https://www.cnn.com/2026/06/10/middleeast/iran-strike-israel-retaliation-strategy-analysis-intl",
-        "image": "http://www.bing.com/th?id=ONUT.X-fH-xH79TEpw385QOOk6A&pid=News",
-        "timestamp": 1781048280.0
-    },
-    {
-        "title_fa": "حمله دوباره آمریکا به ایران پس از ادعای ترامپ درباره سرنگونی بالگرد آپاچی در تنگه هرمز",
-        "title_en": "US attacks Iran after Trump calls for response to Apache helicopter downing",
-        "summary": [
-            "ترامپ اعلام کرد ایران «بالگرد آپاچی» نیروی آمریکا را هنگام گشت‌زنی در تنگه هرمز سرنگون کرده و دستور پاسخ را داده است؛ هرچند آمریکا می‌گوید خلبان‌ها سالم و بی‌تروما هستند.",
-            "بلافاصله CENTCOM (فرماندهی مرکزی آمریکا) «حملات دفاعی» را ازسرگرفته و گزارش‌هایی از انفجار در بندر سیریک و دیگر نقاط پیرامون تنگه هرمز مطرح شد؛ آمریکا آن را «پاسخ متناسب» به «تهاجم ایران» خواند.",
-            "ایران سرنگونی را تأیید یا رد نکرده، اما تهدید به اقدام متقابل دارد و وزیر خارجه عباس عراقچی خواستار خروج نیروهای آمریکا از منطقه شده؛ این هم‌زمانی با شکنندگی آتش‌بس ۸ آوریل، ریسک فروریختن توافق و تشدید درگیری‌های منطقه‌ای را بالا برده است."
-        ],
-        "impact": "با توجه به اعلام ازسرگیری حملات در همان بازه زمانی پس از تنگه هرمز، آتش‌بس ۸ آوریل عملاً در معرض نقض مستقیم قرار می‌گیرد و احتمال چرخه تلافی افزایش یافته است.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-says-iran-shot-down-165415690.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-iran-shot-down-165415690.html",
-        "image": null,
-        "timestamp": 1781044563.0
-    },
-    {
-        "title_fa": "شروع حملات آمریکا علیه ایران پس از سقوط هلیکوپتر آپاچی ارتش آمریکا در نزدیکی ساحل عمان",
-        "title_en": "U.S. says it has begun strikes against Iran following crash of Army Apache helicopter off Oman coast",
-        "summary": [
-            "بر اساس گزارش PBS، آمریکا اعلام کرده که پس از سقوط یک هلیکوپتر آپاچی ارتش آمریکا در نزدیکی ساحل عمان، «حملاتی» را علیه ایران آغاز کرده است؛ یعنی یک رخداد مستقیم امنیتی به اقدام نظامی فراتر از سطح تهدید کلامی تبدیل شده است.",
-            "این تصمیم نشان می‌دهد که واشنگتن سقوط این هواپیما را به‌عنوان حادثه مرتبط با محیط عملیاتی پیرامون ایران ارزیابی کرده و زنجیره پاسخ را به سمت اقدام تهاجمی پیش برده است؛ با توجه به متن، جزئیات اهداف و میزان خسارت در دسترس نیست.",
-            "برای اقتصاد و ثبات سیاسی داخل ایران، حتی بدون دانستن جزئیات، چنین سطحی از تقابل می‌تواند هزینه‌های امنیتی را بالا ببرد و ریسک اختلال در محاسبات مالی/عملیاتی را افزایش دهد، اما طبق داده‌ی ارائه‌شده، شواهدی از اعتصاب، اعتراض داخلی یا فروپاشی اقتصادی فوری ذکر نشده است."
-        ],
-        "impact": "این رخداد سطح تنش را از بحران‌های نیابتی و فشارهای سیاسی به درگیری مستقیم بالقوه میان آمریکا و ایران می‌برد و خطر چرخه تلافی را بالا می‌کشد.",
-        "tag": "درگیری",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFZiMlBQUU9MVjNjejZaal9jNHZRY0picXJyMFk1ZW5FaC1DQUc2TGFhcjlSN1JlRWF3blowcm1MT3hDZzVoY2hhMmFRclVuSkJORG1FTmRWVUFaa1NHLXlBVHQtd0NmNUpBYzVfODJtSHhfN1NYcG05XzhKYXlvRkRsRjU2MGRZUk9rWlg3THlXdHRZVl90dzBkNWdoWVJjY043ZUJZV3ZIMktMM0d1OUViZ3gwbGM2RElKOXVCNFhVNjNrU2x1aG13eVNnbk3SAdQBQVVfeXFMTmhjQWExd2xqWDhodlliamJXRDhTNVVoVnh2NXNYNnpsWnhLVHJiUEZFVHJNYms5NDBleEQ1ZTI0Q2FfQkdpOGpNWEdLb2g5aGxMN2o0SFF3RmpPZENDSzBJWVVsQy13ZHVUS0MtNjVyQ1EwUDZ5MmNxbFp4bDVjVmFOd2d5dFBqVERzWVE0V0o4VXphYlZIY2VjMkpHV1hpSUl1ZEIzSWp2WXFIQUZYUldlTUczeEc1bFBBa040SjhadjB5dUZ6VlFKbUhlRENvSDNiVm4?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUFZiMlBQUU9MVjNjejZaal9jNHZRY0picXJyMFk1ZW5FaC1DQUc2TGFhcjlSN1JlRWF3blowcm1MT3hDZzVoY2hhMmFRclVuSkJORG1FTmRWVUFaa1NHLXlBVHQtd0NmNUpBYzVfODJtSHhfN1NYcG05XzhKYXlvRkRsRjU2MGRZUk9rWlg3THlXdHRZVl90dzBkNWdoWVJjY043ZUJZV3ZIMktMM0d1OUViZ3gwbGM2RElKOXVCNFhVNjNrU2x1aG13eVNnbk3SAdQBQVVfeXFMTmhjQWExd2xqWDhodlliamJXRDhTNVVoVnh2NXNYNnpsWnhLVHJiUEZFVHJNYms5NDBleEQ1ZTI0Q2FfQkdpOGpNWEdLb2g5aGxMN2o0SFF3RmpPZENDSzBJWVVsQy13ZHVUS0MtNjVyQ1EwUDZ5MmNxbFp4bDVjVmFOd2d5dFBqVERzWVE0V0o4VXphYlZIY2VjMkpHV1hpSUl1ZEIzSWp2WXFIQUZYUldlTUczeEc1bFBBa040SjhadjB5dUZ6VlFKbUhlRENvSDNiVm4",
-        "image": null,
-        "timestamp": 1781043132.0
-    },
-    {
-        "title_fa": "آغاز حملات ادعایی آمریکا علیه ایران پس از سقوط هلیکوپتر آپاچی نظامی آمریکا در نزدیکی ساحل عمان",
-        "title_en": "Iran war update: US says it has begun strikes against Iran following crash of Army Apache helicopter off Oman coast",
-        "summary": [
-            "طبق گزارش ABC7 Bay Area، آمریکا اعلام کرده که پس از سقوط هلیکوپتر آپاچی نظامی خود در نزدیکی ساحل عمان، حملاتی را علیه ایران آغاز کرده است.",
-            "این رخداد به‌عنوان نقطه شروع عملیات تلافی‌جویانه/بازدارنده از سوی واشنگتن مطرح شده و روایت خبر بر پیوند مستقیم «سقوط» و «شروع حملات» استوار است.",
-            "متن خبر به جزئیات عملیاتی، اهداف مشخص یا تلفات طرفین اشاره نمی‌کند، بنابراین فعلاً فقط می‌توان به سطح اعلام رسمی آمریکا و پیوند زمانی آن اکتفا کرد."
-        ],
-        "impact": "اگر این ادعا به حملات واقعی و تداوم‌دار منجر شود، سطح درگیری مستقیم بالا می‌رود و ریسک واکنش متقابل ایران و تشدید درگیری منطقه‌ای افزایش پیدا می‌کند.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "ABC7 Bay Area",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVlqR3ZYUW15aG9HRzJVQzZScFd0WW5HYkF5cXU1NExjRm9FYjBHb01ZNGdzZW5kaTViUEdkTFVrS09WaHdFME1NZ00tZFFlM28yTlQ2bDcxd2lQZEJzWXpxVHZhUWNubzJIc0VralpjVUtPSl83ZG5QeGNncGNjcnA4WE9nTXFqM2xLN1ZNVjBpXzhTWkdyU3dCeWg5Y2hFX3BXSTdpYmpiN0pkbVhaTkNFNkTSAboBQVVfeXFMUDFYc0JIYUZKbmdyRS01QUs4WDhYcXU0YnJpekdzQXQ5RGw5Wk9CTGtINmhWb1VEeHZkUHJnRHpvSVFBVkJnNHNpak9IR1Bjd2E4MzVBSEF4ZHpPczM4Yk01ZjQxMEJYQVdSdVZCVUhkV21JaUROdTNrUGdjcUN3aWZhNXBSSXVaT1c2S3JmQTh2VTd0RlY4ODRwSUVkLWN6Yk03Y0JvODNJM0JpWm15aGVTdGVBSVRnTGJB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVVlqR3ZYUW15aG9HRzJVQzZScFd0WW5HYkF5cXU1NExjRm9FYjBHb01ZNGdzZW5kaTViUEdkTFVrS09WaHdFME1NZ00tZFFlM28yTlQ2bDcxd2lQZEJzWXpxVHZhUWNubzJIc0VralpjVUtPSl83ZG5QeGNncGNjcnA4WE9nTXFqM2xLN1ZNVjBpXzhTWkdyU3dCeWg5Y2hFX3BXSTdpYmpiN0pkbVhaTkNFNkTSAboBQVVfeXFMUDFYc0JIYUZKbmdyRS01QUs4WDhYcXU0YnJpekdzQXQ5RGw5Wk9CTGtINmhWb1VEeHZkUHJnRHpvSVFBVkJnNHNpak9IR1Bjd2E4MzVBSEF4ZHpPczM4Yk01ZjQxMEJYQVdSdVZCVUhkV21JaUROdTNrUGdjcUN3aWZhNXBSSXVaT1c2S3JmQTh2VTd0RlY4ODRwSUVkLWN6Yk03Y0JvODNJM0JpWm15aGVTdGVBSVRnTGJB",
-        "image": null,
-        "timestamp": 1781042348.0
-    },
-    {
-        "title_fa": "اعلام حمله آمریکا به ایران پس از سرنگونی یک بالگرد",
-        "title_en": "US striking Iran in response to downing of helicopter, military says",
-        "summary": [
-            "طبق گزارش BBC، نیروی نظامی آمریکا اعلام کرده است که حملاتی علیه ایران انجام داده است؛ دلیل اعلام‌شده، سرنگونی یک بالگرد ذکر شده در همین اطلاعیه است.",
-            "این یک اقدام تلافی‌جویانه مستقیم بر اساس ادعای متقابل است و از متن گزارش، جزئیات فنی یا میزان خسارت‌ها به‌صورت قابل‌اتکا ارائه نشده است.",
-            "اگر این عملیات با چرخه پاسخ متقابل همراه شود، احتمال تشدید تنش میان نیروهای آمریکایی و نیروهای ایران افزایش پیدا می‌کند؛ اما در حال حاضر فقط «حمله» و «علت» به‌صورت خبری تأیید می‌شود، نه ابعاد آن."
-        ],
-        "impact": "این رویداد، تنش نظامی آمریکا و ایران را وارد مرحله مقابله مستقیم می‌کند و زمینه تشدید کوتاه‌مدت را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-xl/news/other/us-striking-iran-in-response-to-downing-of-helicopter-military-says/ar-AA25dQbI",
-        "clean_url": "https://www.msn.com/en-xl/news/other/us-striking-iran-in-response-to-downing-of-helicopter-military-says/ar-AA25dQbI",
-        "image": null,
-        "timestamp": 1781041405.0
     }
 ]
