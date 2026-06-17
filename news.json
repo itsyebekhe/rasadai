@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "هزینه جنگ علیه ایران چقدر بود و چرا اثرش باقی می‌ماند (NPR)",
+        "title_en": "Here's how much the the Iran war cost — and how its effects will linger",
+        "summary": [
+            "گزارش NPR بر «میزان هزینه» جنگ درباره ایران و همچنین «ماندگاری اثرات» آن تمرکز دارد، اما در متن ارائه‌شده عدد یا جزئیات مشخصی از هزینه‌ها و بازه زمانی پیامدها نیامده است.",
+            "با توجه به ماهیت موضوع، چارچوب اثرگذاری معمولاً از جنس تضعیف مالی، فشارهای اقتصادی و تبعات بلندمدت بر برنامه‌ریزی اقتصادی و امنیتی است؛ با این حال، این متن کوتاه هیچ مورد قابل‌اتکا درباره سازوکارها یا داده‌های دقیق ارائه نمی‌کند.",
+            "چون اطلاعات در دسترس فقط عنوان است، نمی‌توان درباره ارتباط مستقیم با سازوکارهای تحریم/فشار خارجی، نقش بازیگران بیرونی، یا شکل‌گیری ناآرامی داخلی اظهارنظر مستند کرد."
+        ],
+        "impact": "این گزارش به‌صورت کلی هشدار می‌دهد که هزینه‌ها صرفاً کوتاه‌مدت نیستند، اما متن فعلی برای نتیجه‌گیری عددی یا تحلیلیِ دقیق کافی نیست.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade",
+        "clean_url": "https://www.npr.org/2026/06/17/nx-s1-5860739/iran-war-cost-oil-military-trade",
+        "image": null,
+        "timestamp": 1781731434.0
+    },
+    {
+        "title_fa": "جمع‌بندی توافق آمریکا-ایران: باز شدن تنگه هرمز، تعلیق بخشی از تحریم‌های نفتی، و گشایش پرونده لبنان",
+        "title_en": "US-Iran deal takeaways: reopening the strait of Hormuz, waived oil sanctions and Lebanon",
+        "summary": [
+            "بر اساس گزارش گاردین، این توافق عملاً بر محور «بازگشایی تنگه هرمز» می‌چرخد و پیام آن برای بازار انرژی کاهش ریسک عملیاتی و محدودسازی تنش دریایی است.",
+            "همزمان بخشی از «تحریم‌های نفتی» آمریکا تعلیق/waived شده که می‌تواند به کاهش فشار مالی-اقتصادی مستقیم بر رژیم منجر شود و جریان درآمد ارزی را محدودتر از قبل می‌کند، اما نه لزوماً به پایان کامل محدودیت‌ها.",
+            "در پرونده لبنان نیز، گاردین این توافق را با محوریت امتیاز/تعهدات مرتبط با لبنان معرفی می‌کند؛ یعنی معامله صرفاً اقتصادی نیست و به مدیریت نفوذ منطقه‌ای گره خورده است."
+        ],
+        "impact": "این توافق با سبک کردن فشار دریایی و نفتی، توان رژیم را برای تحمل بحران‌های داخلی بیشتر می‌کند، در عین حال آن را وارد چارچوب کنترل‌شده‌تری از امتیازدهی منطقه‌ای می‌سازد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "The Guardian",
+        "url": "https://www.msn.com/en-us/news/world/strait-of-hormuz-to-reopen-us-to-lift-iran-sanctions-under-14-point-deal-seeking-to-end-iran-war/ar-AA25TEUm",
+        "clean_url": "https://www.msn.com/en-us/news/world/strait-of-hormuz-to-reopen-us-to-lift-iran-sanctions-under-14-point-deal-seeking-to-end-iran-war/ar-AA25TEUm",
+        "image": null,
+        "timestamp": 1781730300.0
+    },
+    {
         "title_fa": "سود و زیان احتمالی ایران و آمریکا از «توافق»؛ آنچه AP News روشن می‌کند",
         "title_en": "What do Iran and the US stand to gain from their deal? Here’s what to know",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://www.msn.com/en-us/money/general/explainer-what-do-iran-and-the-us-stand-to-gain-from-their-deal/ar-AA25TlUb",
         "image": null,
         "timestamp": 1781725260.0
+    },
+    {
+        "title_fa": "محتوای توافق ادعایی آمریکا و ایران (بر اساس گزارش BBC)",
+        "title_en": "What's in the agreement between the US and Iran?",
+        "summary": [
+            "این منبع فقط با عنوان «What's in the agreement between the US and Iran?» از BBC ذکر شده و متنِ جزئیات توافق در اختیار نیست؛ بنابراین امکان بررسی بندها، تعهدات یا زمان‌بندی‌ها وجود ندارد.",
+            "با توجه به نبودنِ اطلاعات محتوایی، نمی‌توان اثرات مشخص بر تحریم‌ها، مبادلات مالی، یا محدودیت‌های هسته‌ای/موشکی را ارزیابی کرد—هر نتیجه‌ای در این مرحله حدس‌محور می‌شود.",
+            "برای تحلیل دقیقِ فشار خارجی و پیامدهای داخلی، لازم است بخش‌های کلیدی توافق (تعهدات دوطرف، سازوکار راستی‌آزمایی، لغو/تعلیق تحریم‌ها، و مدت اجرا) از متن BBC استخراج شود."
+        ],
+        "impact": "در نبود متن واقعی توافق در داده فعلی، تنها جمع‌بندی ممکن این است که گزارش صرفاً به «موضوع توافق» اشاره کرده و تحلیل اثرات استراتژیک فعلاً غیرممکن است.",
+        "tag": "توافق",
+        "urgency": 4,
+        "sentiment": 0.0,
+        "source": "BBC",
+        "url": "https://www.msn.com/en-us/news/other/full-text-us-unveils-14-point-peace-deal-to-end-iran-war/ar-AA25TECo",
+        "clean_url": "https://www.msn.com/en-us/news/other/full-text-us-unveils-14-point-peace-deal-to-end-iran-war/ar-AA25TECo",
+        "image": null,
+        "timestamp": 1781723898.0
     },
     {
         "title_fa": "آزادسازی متن توافق ایالات متحده با ایران: تغییر در تاکتیک فشار یا راهبرد برای مهار بلندمدت؟",
@@ -126,6 +180,60 @@
         "timestamp": 1781706658.0
     },
     {
+        "title_fa": "نگرانی‌های فزاینده در میان جمهوری‌خواهان از توافق آتی آمریکا با ایران",
+        "title_en": "Trump’s Iran Agreement Draws More Alarm Than Relief From GOP",
+        "summary": [
+            "پیش از انتشار متن رسمی توافق در واشینگتن، «نشت‌های» اولیه باعث نگرانی شدید جمهوری‌خواهان شد؛ محور نگرانی‌ها شامل اجازه فروش مجدد نفت ایران، لغو/تخفيف تحریم‌ها و ایده یک «توافق توسعه اقتصادی» ۳۰۰ میلیارد دلاری است.",
+            "با وجود ادعای توقف درگیری، این توافق طبق گزارش TIME عملاً یک آتش‌بس ۶۰ روزه و «قابل تمدید با رضایت متقابل» است؛ هم‌زمان آمریکا و ایران قرار است درباره برنامه هسته‌ای ایران وارد گفت‌وگو شوند، اما این چارچوب جامع نیست.",
+            "در واشینگتن، علاقه‌مندی سیاسی پایین است و برخی از فعالان حوزه امنیت ملی می‌گویند این روند شبیه مرحله‌های اولیه توافق دوره اوباما است؛ حتی با این‌که ترامپ در دوره اول خود عامل به‌هم‌ریختگی آن مسیر معرفی می‌شود. درون حزب جمهوری‌خواه هم حتی چهره‌هایی مثل لیندزی گراهام واکنش «کم‌رمق» نشان داده‌اند و به نظر می‌رسد توجیه سیاسی توافق برایشان دشوار است."
+        ],
+        "impact": "این توافق ۶۰ روزه—به‌خصوص با اشاره به فروش نفت و تخفیف تحریم‌ها—می‌تواند ظرفیت تنفس اقتصادی و مانور سیاسی تهران را در کوتاه‌مدت افزایش دهد، درحالی‌که در واشینگتن اختلاف و بی‌انگیزگی سیاسی مانع از شکل‌گیری یک راهبرد سختگیرانه و پایدار می‌شود.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/06/17/trump-s-iran-agreement-draws-more-alarm-than-relief-from-gop/",
+        "clean_url": "https://time.com/article/2026/06/17/trump-s-iran-agreement-draws-more-alarm-than-relief-from-gop",
+        "image": "http://www.bing.com/th?id=ONUT.lEJ6ae9WAh3r5N84qBIMcQ&pid=News",
+        "timestamp": 1781704260.0
+    },
+    {
+        "title_fa": "دفاع ترامپ از توافق ایران و تهدید استفاده از زور در پایان نشست جی‌-۷",
+        "title_en": "Trump defends his Iran deal, criticizes longtime ally Israel as G-7 ends",
+        "summary": [
+            "در پایان نشست جی‌-۷ در فرانسه، ترامپ در یک کنفرانس خبری گسترده، از دستاوردهای اقتصادی ادعایی توافق/آتش‌بس دفاع کرد و همزمان به شکست احتمالی آن اشاره داشت.",
+            "او صراحتاً اعلام کرد اگر آتش‌بس جواب ندهد، گزینه استفاده از زور را در دستور کار دارد؛ یعنی تهدید نظامی به‌عنوان ابزار فشار سیاسی باقی می‌ماند.",
+            "هم‌زمان ترامپ از اسرائیل، متحد دیرینه‌اش، انتقاد کرد؛ اما متن منتشرشده تمرکز اصلی را بر اهرم فشار بر ایران از مسیر تهدید نیروی نظامی و پیام اقتصادی قرار می‌دهد."
+        ],
+        "impact": "ترکیب روایت منافع اقتصادی با تهدید نیروی نظامی، اهرم فشار خارجی را تشدید می‌کند و ریسک تشدید تنش را بالا می‌برد.",
+        "tag": "فشارخارجی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Washington Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-defends-his-iran-deal-criticizes-longtime-ally-israel-as-g-7-ends/ar-AA25TUYa",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-defends-his-iran-deal-criticizes-longtime-ally-israel-as-g-7-ends/ar-AA25TUYa",
+        "image": "http://www.bing.com/th?id=ONUT.sKLqyT2hcvrkwdV1IVQFOQ&pid=News",
+        "timestamp": 1781703122.0
+    },
+    {
+        "title_fa": "افشای متن کامل تفاهم‌نامه ترامپ درباره ایران خشم جناح «مِی‌گا» را شعله‌ور کرد",
+        "title_en": "MAGA Erupts in Fury as Full Text of Trump’s Iran Deal Is Revealed",
+        "summary": [
+            "طبق گزارش، متن ۱۴بندی تفاهم‌نامه ترامپ که چهارشنبه منتشر شد، شامل پایان «محاصره/انسداد» تنگه هرمز، همکاری برای فراهم‌کردن دسترسی ایران به ۳۰۰ میلیارد دلار جهت بازسازی زیرساخت و توقف تحریم‌هاست.",
+            "مخالفان راست‌گرا می‌گویند این تصمیم عقب‌نشینی بزرگ در برابر سپاه پاسداران است؛ تری گوودی مدعی شد با بازگشت به وضعیت پیش از انسداد، آمریکا چیزی به‌دست نیاورده و تنها امتیاز داده است، ضمن اشاره به فشارهای سیاسی مانند افت محبوبیت و نزدیک‌بودن انتخابات میان‌دوره‌ای.",
+            "جوانب دیگر این جریان آن را «تسلیم آمریکا» و احیای یک «رژیم تروریستی» با جاه‌طلبی هسته‌ای توصیف می‌کنند و میک پنس هم خواستار بازگشت به رویکرد سخت‌تر (ادامه محاصره و دنبال‌کردن توافقی با تعهد ایران به محدودسازی برنامه هسته‌ای و موشکی) می‌شود."
+        ],
+        "impact": "این تفاهم‌نامه، اگر طبق متن اجرا شود، فشار اقتصادی خارجی را از ایران برمی‌دارد و در نتیجه می‌تواند هم اهرم فشار آمریکا را کاهش دهد و هم شکاف داخلی در سیاست‌گذاری واشنگتن را تشدید کند.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The New Republic",
+        "url": "https://newrepublic.com/post/212016/maga-pissed-full-text-trump-iran-deal",
+        "clean_url": "https://newrepublic.com/post/212016/maga-pissed-full-text-trump-iran-deal",
+        "image": "http://www.bing.com/th?id=ONUT.MjfqJ3RyTeQ5oG7CaBJioA&pid=News",
+        "timestamp": 1781702040.0
+    },
+    {
         "title_fa": "جزئیات «MOU ۱۴ ماده‌ای» ادعایی ترامپ با ایران: نقاط کلیدی و پیامدها",
         "title_en": "Here’s what’s in Trump’s reported 14-point MOU with Iran",
         "summary": [
@@ -196,6 +304,24 @@
         "clean_url": "https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html",
         "image": "http://www.bing.com/th?id=ONUT.kz8mrQ_Il_iRoZUytATQBg&pid=News",
         "timestamp": 1781697300.0
+    },
+    {
+        "title_fa": "سند موقت آمریکا-ایران: تعهدات سنگین واشینگتن، امتیازهای حداقلی تهران",
+        "title_en": "How to read the US-Iran draft agreement: Big commitments from Washington, not from Tehran",
+        "summary": [
+            "طبق متنِ منتشرشده، واشینگتن در فاز اول «تن‌آسانی مالی فوری» در مقیاس «ده‌ها میلیارد دلار» می‌دهد؛ همزمان تحریم‌ها را برمی‌دارد و وجوهِ یخ‌زده را آزاد می‌کند، در حالی‌که تعهد تهران عمدتاً به «بازگشایی تنگه هرمز» محدود می‌شود.",
+            "در چارچوب همین سند، تعهدات هسته‌ای به آینده «مراجعه» داده شده و در این مرحله زمان‌بندی/الزام هسته‌ای مشخص و فوری در متن برجسته نیست؛ همچنین در این توافق «مقرره‌ای» درباره تروریسم یا «سوء‌رفتارهای حقوق بشری» گنجانده نشده است.",
+            "مقاله تحلیل می‌کند که منطق معامله به‌طور عملی این است: ایران «زیاد» می‌گیرد (امتیاز مالی فوری) در ازای توقف تیراندازی علیه کشتی‌ها در تنگه هرمز؛ و بخش اصلیِ جزئیات دشوار به یک توافق نهایی که طی ۶۰ روز مذاکره می‌شود موکول شده است."
+        ],
+        "impact": "این چینش یعنی فشار مالی آمریکا به‌سرعت تبدیل به اهرم‌زدایی می‌شود و برای ایران بدون گرفتن تضمین‌های فوری در موضوعات هسته‌ای، تروریسم و حقوق بشر، فرصت برای حفظ و ادامه الگوی فشار منطقه‌ای باقی می‌گذارد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/17/politics/how-to-read-us-iran-agreement-mcgurk-analysis",
+        "clean_url": "https://www.cnn.com/2026/06/17/politics/how-to-read-us-iran-agreement-mcgurk-analysis",
+        "image": "http://www.bing.com/th?id=ONUT.fulksCHOV8BStqtxNcipzg&pid=News",
+        "timestamp": 1781696280.0
     },
     {
         "title_fa": "ترامپ قرارداد ایران را به‌صورت تهاجمی بازتعریف می‌کند و خطای «صندوق بازسازی ۳۰۰ میلیارد دلاری» را رد می‌کند",
@@ -412,6 +538,24 @@
         "clean_url": "https://jewishinsider.com/2026/06/republicans-doubt-iran-will-follow-through-on-nuclear-commitments",
         "image": "http://www.bing.com/th?id=ONUT.26w-LPLw9YiNKQSbmtjOtA&pid=News",
         "timestamp": 1781666040.0
+    },
+    {
+        "title_fa": "پیش‌نویس توافق آمریکا-ایران: رقیق‌سازی اورانیوم، تعلیق غیرپایدار تحریم‌ها و «باز کردن مسیر» در تنگه",
+        "title_en": "US officials say Iran deal calls for diluting uranium at minimum, waiving sanctions, opening strait",
+        "summary": [
+            "بر اساس گزارش، متن پیشنهادی آمریکا و ایران بر «حداقل» رقیق‌سازی ذخیره اورانیوم با غنای بالا توسط تهران تکیه دارد؛ یعنی کاهش ریسک از مسیر فنی، نه حذف کامل توانمندی.",
+            "این پیش‌نویس همچنین «تحریم‌ها را می‌بخشد/تعلیق می‌کند»، اما آن را «به‌طور دائمی» پایان نمی‌دهد؛ بنابراین اهرم فشار خارجی برای مهار رفتار آینده ایران همچنان حفظ می‌شود.",
+            "در ادامه گزارش آمده که توافق شامل «باز کردن استریت» (باز شدن مسیر/تنگه) است که پیام راهبردی آن کاهش اصطکاک عملیاتی و افزایش آزادی کشتیرانی-تدارکاتی در یکی از گلوگاه‌های حساس منطقه‌ای است."
+        ],
+        "impact": "این ترکیب یعنی امتیاز فنی محدود در برابر تعلیق غیرپایدار تحریم‌ها و فشار دائمی برای کنترل رفتار آینده، که می‌تواند هم زمان‌بندی برنامه هسته‌ای را تغییر دهد و هم پایداری اقتصادی-سیاسی رژیم را همچنان وابسته به تداوم امتیازگیری نگه دارد.",
+        "tag": "توافق",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-officials-say-iran-deal-calls-for-diluting-uranium-at-minimum-waiving-sanctions-opening-strait/ar-AA25RpjS",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-officials-say-iran-deal-calls-for-diluting-uranium-at-minimum-waiving-sanctions-opening-strait/ar-AA25RpjS",
+        "image": "http://www.bing.com/th?id=ONUT.3o5e8xA4GfnTxc2X9C_SYA&pid=News",
+        "timestamp": 1781666014.0
     },
     {
         "title_fa": "ایران پس از امضای «توافق» با آمریکا، بازگشایی تنگه هرمز و فروش آزاد نفت را وعده داد",
@@ -5254,149 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/pete-hegseth-says-us-is-ready-to-restart-strikes-on-iran-if-no-deal-is-reached/ar-AA24pYP3",
         "image": null,
         "timestamp": 1781134449.0
-    },
-    {
-        "title_fa": "تداوم تبادل حملات آمریکا و ایران؛ تهدید ترامپ برای تشدید در صورت عدم توافق صلح",
-        "title_en": "US and Iran exchange fire for a second day, undermining shaky ceasefire",
-        "summary": [
-            "آمریکا و ایران برای دومین روز متوالی حملات هوایی را علیه هم انجام دادند و همین روند، «آتش‌بس شکننده» را عملاً بی‌اعتبار می‌کند.",
-            "ترامپ اعلام کرد در صورت عدم پذیرش «توافق صلح فوری» حملات بیشتری در راه است؛ پیام روشن برای افزایش فشار و کاهش فضای مانور طرف ایرانی است.",
-            "با توجه به اینکه گزارش فقط از «تعویض حملات» و تهدید به ادامه عملیات سخن می‌گوید، اثر مستقیم سیاسی-عملی این دور از تشدید، تضعیف ظرفیت تصمیم‌گیری تهران و سخت‌تر شدن هرگونه مذاکره تحت فشار میدانی است."
-        ],
-        "impact": "افزایش چرخه حملات، هر توافق احتمالی را از مسیر عملی خارج می‌کند و ریسک تشدید فوری را بالا می‌برد.",
-        "tag": "escalation",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
-        "clean_url": "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11",
-        "image": "http://www.bing.com/th?id=ONUT.2eiffhcMzBmrgmRoSbq5gw&pid=News",
-        "timestamp": 1781133000.0
-    },
-    {
-        "title_fa": "روز ۱۰۴ جنگ: ایران می‌گوید پس از حملات آمریکا به تأسیسات ایران، پایگاه‌های آمریکا در منطقه را هدف گرفته است",
-        "title_en": "Iran war day 104: Iran says it attacks US bases after American strikes",
-        "summary": [
-            "به‌گفته رسانه دولتی، سپاه پاسداران اعلام کرده چهارشنبه به پایگاه‌های آمریکا در اردن و ۲۱ هدف دیگر در حوزه خلیج حمله کرده است و این اقدام را پاسخ به حملات نیروهای آمریکایی مرتبط می‌داند.",
-            "وزیر دفاع آمریکا، پیت هیگست، تأیید کرده واشینگتن به «مأموریت‌های ضربه‌ای» علیه «تأسیسات کلیدی» در ایران دست زده و ترامپ دستور ادامه حملات در صورت نیاز را داده است؛ ترامپ نیز تهدید کرده در صورت ادامه عدم توافق، ایران «باید هزینه بدهد».",
-            "در واکنش، فرماندهی ارشد نظامی ایران از بستن کامل تنگه هرمز خبر داده و هشدار داده هر کشتی برای عبور ممکن است هدف قرار گیرد؛ هم‌زمان در استان هرمزگان اعلام شده خدمات آب‌رسانی دوباره برقرار شده است."
-        ],
-        "impact": "این دور از حملات مستقیم، هم ریسک درگیری گسترده‌تر را بالا می‌برد و هم با بستن تنگه هرمز، تهدید فوری علیه جریان تجارت انرژی ایجاد می‌کند.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-war-day-104-iran-055248789.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-war-day-104-iran-055248789.html",
-        "image": "http://www.bing.com/th?id=ONUT.Q4eaxkRuOeiAZD9kEcOplw&pid=News",
-        "timestamp": 1781132520.0
-    },
-    {
-        "title_fa": "آمریکا دور دوم حملات هوایی علیه ایران را آغاز کرد؛ ایران به تلافی به بحرین و کویت حمله کرد",
-        "title_en": "U.S. Launches New Strikes On Iran, Which Fires Back At Gulf States",
-        "summary": [
-            "طبق گزارش، آمریکا بامداد پنجشنبه «دور دوم» حملات هوایی علیه ایران را آغاز کرد؛ این اقدام پس از هشدار ترامپ مبنی بر اینکه تهران بابت بن‌بست در مذاکرات «هزینه خواهد پرداخت» انجام شد.",
-            "ایران نیز در پاسخ، حملاتی را علیه بحرین و کویت هدف گرفت؛ این چرخه تلافی‌جویانه سومین بار در همان هفته است که درگیری‌های رفت‌وبرگشتی «آزمون» یک آتش‌بس دوماهه را پشت سر می‌گذارد.",
-            "همزمان مذاکرات برای پایان جنگ متوقف/گیر کرده است: ایران بر ادامه کنترل «تنگه هرمز» به‌عنوان اهرم فشار اصرار دارد و نماینده ایران در سازمان ملل اعلام کرد ایران «زیر تهدید» مذاکره نمی‌کند. آمریکا و ایران همچنان دنبال راهی برای پایان نزاع هستند، با این تفاوت که هر طرف باید آن را در داخل به‌عنوان «برد» قابل فروش کند."
-        ],
-        "impact": "این تشدید مستقیم و تکرارشونده، اهرم‌های چانه‌زنی ایران را حول تنگه هرمز پررنگ‌تر می‌کند ولی هم‌زمان ریسک گسترش درگیری به کشورهای حوزه خلیج فارس را بالا می‌برد.",
-        "tag": "تنش",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/iran-us-trade-strikes_n_6a291ecde4b02d9edc7e943d",
-        "clean_url": "https://www.huffpost.com/entry/iran-us-trade-strikes_n_6a291ecde4b02d9edc7e943d",
-        "image": "http://www.bing.com/th?id=ONUT.pL-OiXCIhOb6IeURp29c6w&pid=News",
-        "timestamp": 1781132220.0
-    },
-    {
-        "title_fa": "دفاع هگست از شب دوم حملات آمریکا به ایران: مذاکرات با «بمب»",
-        "title_en": "‘Negotiate with bombs’: Hegseth defends second night of US strikes on Iran",
-        "summary": [
-            "پیت هگست، وزیر دفاع آمریکا، با تایید حملات جدید به «تاسیسات کلیدی» در ایران، آن را بخشی از مذاکرات برای آتش‌بس دائمی معرفی کرد؛ هم‌زمان لحن تهدیدآمیز رئیس‌جمهور آمریکا تکرار شد که ایران را «به پرداخت قیمت» در صورت تاخیر در مذاکرات تهدید می‌کند.",
-            "CENTCOM اعلام کرد «حملات دفاع از خود» در پاسخ به «تجاوزگری ادامه‌دار» ایران انجام شده و این دومین روز پیاپی حملات آمریکا علیه ایران است؛ نتیجه عملی این روند، شکاف در آتش‌بس شکننده‌ای است که در ۸ آوریل شکل گرفته بود.",
-            "پس از اعلام حملات، رسانه رسمی ایران (IRNA) گزارش انفجارها در بندرعباس و قشم را منتشر کرد؛ گزارش‌ها هنوز جزئیات اهداف و میزان خسارت را به‌صورت کامل ارائه نمی‌کنند، اما وقوع هم‌زمان حملات و واکنش ایران، استمرار چرخه تنش را نشان می‌دهد."
-        ],
-        "impact": "این موج حملات مستقیم، هم اهرم فشار آمریکا را به مذاکرات تزریق می‌کند و هم ریسک فرسایش کنترل‌شده توازن را بالا می‌برد و احتمال ادامه/گسترش در روزهای بعد را تقویت می‌کند.",
-        "tag": "مداخله",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/politics/articles/us-defence-secretary-hegseth-pledges-215157522.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us-defence-secretary-hegseth-pledges-215157522.html",
-        "image": null,
-        "timestamp": 1781131458.0
-    },
-    {
-        "title_fa": "حملات جدید آمریکا علیه ایران پس از وعده ترامپ برای «زدن محکم»",
-        "title_en": "US launches new strikes on Iran after Trump vows to 'hit them hard'",
-        "summary": [
-            "BBC گزارش می‌دهد آمریکا پس از موضع‌گیری ترامپ، حملات جدیدی را علیه ایران آغاز کرده است؛ چارچوب تصمیم‌گیری به‌صورت علنی بر تشدید فشار و واکنش سریع بنا شده است.",
-            "این رویداد به‌طور مستقیم ریسک قطع یا اختلال در کانال‌های عملیاتی و بازدارندگی منطقه‌ای را بالا می‌برد و می‌تواند چرخه اقدام-پاسخ را وارد مرحله سنگین‌تر کند.",
-            "با توجه به ماهیت «ضربات جدید»، پیام سیاسی و امنیتی آن روشن است: واشنگتن به جای توقف یا کاهش فشار، مسیر افزایش شدت را انتخاب کرده و این انتخاب می‌تواند بر محاسبات هزینه-فایده تصمیم‌گیران ایران اثر فوری بگذارد."
-        ],
-        "impact": "تشدید عملیات نظامی آمریکا احتمال افزایش بی‌ثباتی و ورود منطقه به چرخه حمله متقابل را بالا می‌برد و هزینه‌های عملیاتی برای ایران را فوری‌تر می‌کند.",
-        "tag": "تنش-نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WWJEczNyUXZjeUZ5WkhHSl9Nd20tSGl1MzZrTmpZNFVDQlZkeFAxbEwyUk9LTmstMTFZaXBoNDdzZUZJR0M4cXBqelVHTWY1NlpOMXFiUWMtZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55WWJEczNyUXZjeUZ5WkhHSl9Nd20tSGl1MzZrTmpZNFVDQlZkeFAxbEwyUk9LTmstMTFZaXBoNDdzZUZJR0M4cXBqelVHTWY1NlpOMXFiUWMtZw",
-        "image": null,
-        "timestamp": 1781131013.0
-    },
-    {
-        "title_fa": "آغاز دور دوم حملات هوایی آمریکا علیه ایران و پاسخ ایران به دولت‌های حاشیه خلیج فارس و اردن",
-        "title_en": "US launches a second day of strikes on Iran and Iran fires back at the Gulf states and Jordan",
-        "summary": [
-            "آمریکا دور دوم حملات هوایی علیه ایران را ادامه داد؛ این اقدام بلافاصله پس از هشدار ترامپ انجام شد که تهران را به «پرداخت هزینه» در صورت توقف مذاکرات تهدید کرده بود.",
-            "ایران در چارچوب «پاسخ» اعلام کرد که به دولت‌های حاشیه خلیج فارس و اردن واکنش نشان می‌دهد؛ متن نشان می‌دهد این موضع‌گیری هم‌زمان با ادامه حملات شکل گرفته است، نه جدا از آن.",
-            "گزارش، پیوند عملیات نظامی آمریکا با بن‌بست در مذاکرات را برجسته می‌کند و نشان می‌دهد دو طرف با افزایش سطح درگیری، از کانال سیاسی به مسیر فشار مستقیم روی آورده‌اند."
-        ],
-        "impact": "ادامه و تشدید حملات در روز دوم، ریسک چرخه انتقام و گسترش درگیری منطقه‌ای را بالا می‌برد.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "MSN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/us-launches-a-second-day-of-strikes-on-iran-and-iran-fires-back-at-gulf-states-and-jordan/ar-AA25lWmH",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-launches-a-second-day-of-strikes-on-iran-and-iran-fires-back-at-gulf-states-and-jordan/ar-AA25lWmH",
-        "image": "http://www.bing.com/th?id=ONUT.Ocoo6LT_7-jTA5raRN4JFw&pid=News",
-        "timestamp": 1781129110.0
-    },
-    {
-        "title_fa": "آغاز حملات چندهدفه آمریکا علیه ایران؛ تشدید مستقیم تنش‌ها",
-        "title_en": "U.S. military says it has begun striking 'multiple targets' in Iran in latest escalation of tensions",
-        "summary": [
-            "طبق گزارش PBS، نیروی نظامی آمریکا اعلام کرده که «چندین هدف» را در ایران هدف گرفته است؛ یعنی یک اقدام نظامی مستقیم و قابل راستی‌آزمایی در چارچوب تشدید اخیر تنش‌ها.",
-            "این رخداد در متن به‌عنوان «جدیدترین مرحله» از افزایش تنش‌ها توصیف شده که نشان می‌دهد واشنگتن وارد فاز عملیاتی‌تر از سطح تهدیدات لفظی شده است.",
-            "جزئیات دقیق اهداف و پیامدهای میدانی در متن ارائه نشده، اما نفس «شروع حمله» عامل اصلی ریسک تشدید متقابل و گسترش دامنه درگیری است."
-        ],
-        "impact": "حمله مستقیم آمریکا به چند هدف در ایران ریسک چرخه تلافی‌جویانه و گسترش جنگ را بالا می‌برد و می‌تواند تصمیم‌گیری‌های امنیتی-اقتصادی را در داخل ایران تحت فشار فوری قرار دهد.",
-        "tag": "تنش",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "PBS",
-        "url": "https://www.msn.com/en-us/politics/government/us-military-says-it-s-striking-multiple-targets-in-iran-in-latest-escalation-of-tensions/vi-AA25kgzB",
-        "clean_url": "https://www.msn.com/en-us/politics/government/us-military-says-it-s-striking-multiple-targets-in-iran-in-latest-escalation-of-tensions/vi-AA25kgzB",
-        "image": null,
-        "timestamp": 1781128945.0
-    },
-    {
-        "title_fa": "آغاز دور جدید حملات آمریکا علیه ایران",
-        "title_en": "Middle East: US launches new round of attacks on Iran",
-        "summary": [
-            "طبق گزارش dw.com، آمریکا «دور جدیدی از حملات» علیه ایران را آغاز کرده است؛ جزئیات هدف‌ها و زمان‌بندی در متن ارسالی نیامده است.",
-            "این اقدام در چارچوب فشار خارجی مستقیم قرار می‌گیرد و می‌تواند هزینه‌های امنیتی-عملیاتی رژیم را افزایش دهد، حتی اگر اثرات آن دقیقاً در همین خبر قابل سنجش نباشد.",
-            "با توجه به نبود اطلاعات تکمیلی درباره تلفات، موشک/پهپاد یا محل حمله، ارزیابی اثر داخلی و پیامدهای اقتصادی باید صرفاً محدود به «سیگنال تشدید تنش» باشد نه نتیجه‌گیری قطعی."
-        ],
-        "impact": "شروع حملات جدید، ریسک تشدید چرخه انتقام و فشار امنیتی بر ساختار تصمیم‌گیری رژیم را بالا می‌برد، اما داده‌های کافی برای سنجش ابعاد اقتصادی یا دامنه خسارت در همین متن وجود ندارد.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUVqQVdUZEJXNk15RjBFZ0NUZGlMMHpjM3VKUmFXTXlpSS1BZlNlUXJwUmN2U2Z4eHoybnlfRnZveHBsWGNidTVvNEoxWllvaUhZMkloZjY3dEw5QnFPeUxEaHBRQjZlLUhjNGZvb1VMZm1mRnhXSWpzalgyR0tOSTVLMGhKdC1KQ0E3SlpKdm9fUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUVqQVdUZEJXNk15RjBFZ0NUZGlMMHpjM3VKUmFXTXlpSS1BZlNlUXJwUmN2U2Z4eHoybnlfRnZveHBsWGNidTVvNEoxWllvaUhZMkloZjY3dEw5QnFPeUxEaHBRQjZlLUhjNGZvb1VMZm1mRnhXSWpzalgyR0tOSTVLMGhKdC1KQ0E3SlpKdm9fUQ",
-        "image": null,
-        "timestamp": 1781128549.0
     }
 ]
