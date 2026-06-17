@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "مقامات آمریکایی متن توافق ایران را کم‌اهمیت جلوه دادند: تعهدات پشت‌پرده در متن نیامده است",
+        "title_en": "US officials downplay text of the Iran agreement, saying it doesn’t account for backchannel commitments",
+        "summary": [
+            "طبق گزارش CNN، مقامات آمریکایی برداشت خود را از «متن توافق ایران» محدود می‌کنند و می‌گویند این متن تعهدات یا توافق‌های «پشت‌پرده/کانال‌های غیرعلنی» را پوشش نمی‌دهد.",
+            "این یعنی ارزیابی آمریکا از اجرای توافق، صرفاً به مفاد مکتوب وابسته نیست و ظرفیت تفسیرهای متفاوت یا اجرای گزینشی را بالا می‌برد.",
+            "در نتیجه، شفافیت حقوقی و قابل‌سنجش بودن تعهدات کاهش می‌یابد و ریسک بی‌ثباتی در مسیر اجرای توافق برای همه طرف‌ها—به‌ویژه در فضای سیاسی ایران—بیشتر می‌شود."
+        ],
+        "impact": "این پیام تلویحاً نشان می‌دهد توافق رسمی به‌تنهایی چارچوب محکمی برای اجرای دقیق نیست و عنصر غیرعلنی می‌تواند چرخه بی‌اعتمادی و فرسایش اهرم فشار را تشدید کند.",
+        "tag": "توافق",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fUlAyNnRFNXZJT3ZSUlJNUGZCc01EWXN6RTFCdEszNmRLM2cydlNfd2Qzb1FKemQtcW1MRVdHMDFDaDZzTGp6SzhqNF90dWpwaWF4OXRkeWtSSUJwRy1VS2YyMXNmMDBvbGNqNnM0ZlVXZms?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fUlAyNnRFNXZJT3ZSUlJNUGZCc01EWXN6RTFCdEszNmRLM2cydlNfd2Qzb1FKemQtcW1MRVdHMDFDaDZzTGp6SzhqNF90dWpwaWF4OXRkeWtSSUJwRy1VS2YyMXNmMDBvbGNqNnM0ZlVXZms",
+        "image": null,
+        "timestamp": 1781650240.0
+    },
+    {
+        "title_fa": "تهران شرط خروج اسرائیل از لبنان را برای پایان جنگ با آمریکا مطرح کرد",
+        "title_en": "Iran says deal to end war with U.S. requires Israel to withdraw from Lebanon",
+        "summary": [
+            "تهران می‌گوید هر توافق برای پایان جنگ با آمریکا مستلزم عقب‌نشینی اسرائیل از لبنان است.",
+            "این موضع، تلاش برای پیوند دادن پایان درگیری ایران-آمریکا به یک شرط میدانی در پرونده لبنان است، یعنی اهرم‌سازی از مسئله منطقه‌ای برای وادار کردن آمریکا به پذیرش خواسته‌های تهران.",
+            "با توجه به چارچوب خبر، تهران به‌جای تمرکز صرف بر مذاکرات دوجانبه، بر تغییر موازنه امنیتی در مرز لبنان-اسرائیل به‌عنوان پیش‌شرط سیاسی تکیه می‌کند."
+        ],
+        "impact": "این شرط می‌تواند مسیر هر توافق با آمریکا را پیچیده کند و ریسک تداوم تنش‌های منطقه‌ای را بالا ببرد، چون اسرائیل و شرکای آن احتمالاً از عقب‌نشینی کامل به‌عنوان امتیاز مذاکراتی استقبال نمی‌کنند.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Los Angeles Times",
+        "url": "https://apnews.com/article/iran-us-war-israel-lebanon-oil-june-16-2026-d79458506c46e3f4a78aef0f9d8b9250",
+        "clean_url": "https://apnews.com/article/iran-us-war-israel-lebanon-oil-june-16-2026-d79458506c46e3f4a78aef0f9d8b9250",
+        "image": null,
+        "timestamp": 1781645700.0
+    },
+    {
         "title_fa": "رویترز: بسته توافقی ایران شامل صندوق ۳۰۰ میلیارد دلاری است؛ بیش از نیمی از آن از پیش تخصیص/تعهد شده",
         "title_en": "Exclusive: Iran deal includes $300 billion fund, more than half of which already committed, source says",
         "summary": [
@@ -126,6 +162,24 @@
         "timestamp": 1781626620.0
     },
     {
+        "title_fa": "فشارها برای بازتدوین توافق هسته‌ای؛ اهرم اصلی دولت ترامپ علیه ایران",
+        "title_en": "Obama’s Nuclear Deal Looms Over Trump’s Iran Negotiations",
+        "summary": [
+            "خبرگزاری/رسانه نیویورک‌تایمز می‌گوید ترامپ زیر فشار است توافق هسته‌ای دوران اوباما را به‌طور جدی بهتر کند تا بتواند هزینه‌های سنگین «بردن آمریکا به جنگ» را توجیه کند.",
+            "چارچوب گزارش، مذاکرات ایران را نه یک مسیر صرفاً دیپلماتیک، بلکه یک امتحان سیاسی-امنیتی برای کاهش یا جلوگیری از سناریوی درگیری نظامی معرفی می‌کند؛ یعنی هر شکستی می‌تواند به افزایش هزینه‌ها و ریسک جنگ منجر شود.",
+            "این گزارش بر «هزینه انسانی و اقتصادی» دست‌کم به‌عنوان فشار داخلی به ترامپ تاکید دارد و نتیجه می‌گیرد که دولت آمریکا برای خروج از بن‌بست یا جلوگیری از تشدید تنش، باید از توافق فعلی فراتر برود."
+        ],
+        "impact": "این خبر نشان می‌دهد محور مذاکرات آتی ایران به جای توافق‌های حداقلی، به بازطراحی واقعی محدودیت‌ها و تضمین‌ها گره خورده تا هم فشار داخلی آمریکا مدیریت شود و هم ریسک جنگ کاهش یابد.",
+        "tag": "مذاکرات",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/16/us/politics/obama-nuclear-deal-trump-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/06/16/us/politics/obama-nuclear-deal-trump-iran.html",
+        "image": "http://www.bing.com/th?id=ONUT.HhUpUXifpMLWInT6SK6NZA&pid=News",
+        "timestamp": 1781626500.0
+    },
+    {
         "title_fa": "امضای توافق مقدماتی آمریکا و ایران؛ محرمانه بودن شروط، اهرم قدرت برای هر دو طرف می‌ماند",
         "title_en": "U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret",
         "summary": [
@@ -160,6 +214,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VZFYwTVl0ZTN4ZjJHam1RRC1lR251X1FDS0NWTTkwUkJHdS1VcU5fcUduX05UNWRrWmcycVRHR2h3SkV0WXBpdVdDaHN2NmgzclFpZThuN1ZjUQ",
         "image": null,
         "timestamp": 1781623884.0
+    },
+    {
+        "title_fa": "نگرانی جناح تندرو جمهوری‌خواه از «توافق با ایران» به‌خاطر امکان لغو فشار اقتصادی",
+        "title_en": "'Not so good': Republican hawks wary of Iran deal",
+        "summary": [
+            "بر اساس گزارش HuffPost روی MSN، جزئیات توافق با ایران هنوز روشن نیست، اما «جناح تندرو» جمهوری‌خواه از ایده کاهش فشار و ارائه «رهایی اقتصادی» به ایران بدبین است.",
+            "هُش‌پوینت بر مخالفت «hawk‌ها» با این چارچوب تاکید می‌کند، چون از نگاه آنان پیامدهای سیاسی/امنیتی احتمالی توافق، منافع طرف مقابل (آمریکا) را محدود می‌کند.",
+            "این گزارش بیشتر یک ارزیابی سیاسی-داخلی در آمریکا است تا خبر قطعی درباره متن یا اجرای توافق؛ محور نگرانی، خودِ «آرام شدن اقتصادی» برای ایران است نه جزئیات اجرای بندها."
+        ],
+        "impact": "فعلاً نشانه‌ای از تغییر فنی در رژیم فشارها ارائه نمی‌شود، اما شکاف در سیاست آمریکا می‌تواند مسیر تصویب یا اجرای هر توافقی را کند یا بی‌ثبات کند.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "HuffPost on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/not-so-good-republican-hawks-wary-of-iran-deal/ar-AA25Oezk",
+        "clean_url": "https://www.msn.com/en-us/news/politics/not-so-good-republican-hawks-wary-of-iran-deal/ar-AA25Oezk",
+        "image": "http://www.bing.com/th?id=ONUT.4GyDYPl1hHGsb32y6TC_Ig&pid=News",
+        "timestamp": 1781623607.0
     },
     {
         "title_fa": "یواس‌آی و اسرائیل: اطلاعات محرمانه نشان می‌دهد رژیم ایران به عقب‌نشینی هسته‌ای موردنظر ترامپ تن نمی‌دهد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU25kWmtrYVNpdHBud0dxUDhZdUx0OFMyQUxOWER5cXowaW8zWk9pdWNBeWdycUNTTXp4VjlmSWF1UDRzOEpBdl9RRTlYeno2cXBHUEJuVDJaTk05dldzaEwza29fR2I1NmpsZU5JZUlUWjNoWlZUTXFiaFFLYm9oSHR5Ukk4X2s5X193eU5fVm5KWjZmSHBsTnJ2U29JU1lVb3ZtLUZuTUpDNHM",
         "image": null,
         "timestamp": 1781073000.0
-    },
-    {
-        "title_fa": "آمریکا می‌گوید عملیات تلافی‌جویانه علیه ایران را پایان داده و به «نزدیک به ۲۰ هدف» ضربه زده است",
-        "title_en": "US Concludes Retaliatory Strikes On Iran, Says Nearly 20 Targets Hit",
-        "summary": [
-            "طبق گزارش رادیو فردا/رادیو آزادی، آمریکا اعلام کرده عملیات تلافی‌جویانه را خاتمه داده و نزدیک به ۲۰ هدف را هدف قرار داده است؛ این یعنی یک دور جدید از فشار مستقیم نظامی وارد مرحله‌ی پایان عملیات شده، نه صرفاً تهدید لفظی.",
-            "این سطح از درگیری مستقیم، توان برنامه‌ریزی و اجرای عملیات‌های برون‌مرزی رژیم را مختل می‌کند و هزینه‌ی عملیاتی نیروها/زیرساخت‌های مرتبط را بالا می‌برد؛ اما متن خبر جزئیات درباره ماهیت اهداف را ارائه نمی‌کند، پس میزان اثرگذاری دقیق قابل سنجش از خودِ گزارش نیست.",
-            "هم‌زمان با این اقدام، ریسک تشدید و پاسخ متقابل در کوتاه‌مدت افزایش می‌یابد؛ در چنین شرایطی، تصمیم‌گیری در تهران زیر فشار محدودیت‌های عملیاتی و احتمال حملات بعدی قرار می‌گیرد و فضای اقتصادی-سیاسی معمولاً از همین عدم‌قطعیت آسیب می‌بیند."
-        ],
-        "impact": "کاهش قطعیت و بالا رفتن هزینه امنیتی برای رژیم، می‌تواند به اختلال عملیاتی و افزایش ریسک دور جدید درگیری منجر شود.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.7,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWnhyaS1tS3NVV19VeVRlS1RUeUhFblVCTkRCWmg2Z2YwTW1uR051ZFctc3F2eEcyN29hbkJkLUY3THpPVzVaYVRlcTRybGlrTGVsX3ZvTFJyQmRELVNHckg3Nk9uOUw3V2RyN2lZY0dIMW1jLWVQSUVTdXBTZGpuVE55cDBQcG01",
-        "image": null,
-        "timestamp": 1781067600.0
-    },
-    {
-        "title_fa": "بحرانِ ایران؛ رهبرانِ حاکم ناتوان از مدیریت آن",
-        "title_en": "The Crisis Iran’s Leaders Can’t Ignore",
-        "summary": [
-            "این منبع فقط به نویسنده و معرفی کوتاه او اشاره می‌کند و هیچ جزئیات محتوایی درباره رویداد مشخص، تصمیم سیاسی، اقدام امنیتی یا داده اقتصادی ارائه نمی‌دهد؛ بنابراین نمی‌توان تحلیل رویدادمحور یا شواهد قابل استناد از متن استخراج کرد.",
-            "از آنجا که متنِ گزارش در اختیار نیست، نه می‌شود سطح فشار خارجی/تحریم یا پیامدهای اقتصادی را به‌طور مستند ارزیابی کرد و نه روند نارضایتی داخلی را—این بخش‌ها بدون داده، «حدس» محسوب می‌شود.",
-            "نتیجه: این صفحه برای سنجش ریسک و تحلیل راهبردی کافی نیست؛ برای تعیین شدت بحران باید متن کامل مقاله (یا حداقل پاراگراف‌های کلیدی) در دسترس قرار بگیرد."
-        ],
-        "impact": "بدون متن مقاله، ارزیابی اثر بحران بر ثبات رژیم یا اقتصاد و سیاست ایران از نظر تحلیلی قابل اتکا نیست.",
-        "tag": "تحلیل",
-        "urgency": 2,
-        "sentiment": -0.2,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/06/iran-economy-crisis/687489/",
-        "clean_url": "https://www.theatlantic.com/international/2026/06/iran-economy-crisis/687489",
-        "image": "http://www.bing.com/th?id=ONUT.HFVtDgUGo7QgDQ0eMGzclg&pid=News",
-        "timestamp": 1781064420.0
-    },
-    {
-        "title_fa": "هنر «عدم توافق» با ایران؛ تحلیل فشار و بن‌بست سیاسی",
-        "title_en": "Opinion | The art of no deal with Iran",
-        "summary": [
-            "این یادداشت در چارچوب «عدم توافق» استدلال می‌کند که فشار خارجی می‌تواند بدون ورود به یک معامله جامع، ابزار مدیریت ریسک و مهار برنامه هسته‌ای/رفتار منطقه‌ای باقی بماند، اما نتیجه‌اش الزاماً کاهش تنش نیست.",
-            "تمرکز آن بر پیام سیاسی است: کنار گذاشتن معامله‌محوری، می‌تواند رژیم را از امید به گشایش سریع اقتصادی محروم کند و محاسباتش را به سمت ادامه فرسایش‌پذیر پیش ببرد؛ در عین حال احتمال تداوم بن‌بست و تشدید اقدامات متقابل را بالا می‌برد.",
-            "از منظر واقع‌گرایانه، این رویکرد بیشتر روی محدود کردن گزینه‌های رژیم و حفظ اهرم‌هاست تا حل ریشه‌ای مسئله؛ بنابراین «عدم توافق» به‌عنوان سیاست، چرخه فشار-پاسخ را طولانی‌تر می‌کند."
-        ],
-        "impact": "این نوع چارچوب‌سازی احتمال دارد به جای توافق، به طولانی شدن فشار و عدم قطعیت سیاسی دامن بزند و همزمان ریسک محاسبه‌اشتباه در سطح تنش را بالا ببرد.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/opinions/2026/06/09/iran-shooting-down-us-helicopter-makes-case-against-deal/",
-        "clean_url": "https://www.washingtonpost.com/opinions/2026/06/09/iran-shooting-down-us-helicopter-makes-case-against-deal",
-        "image": null,
-        "timestamp": 1781062139.0
-    },
-    {
-        "title_fa": "گسترش تبادل آتش میان ایران و آمریکا/حامیانش پس از دستور ترامپ؛ هدف‌گیری پایگاه‌های آمریکا در اردن و حوزه خلیج فارس",
-        "title_en": "West Asia war LIVE: Iran targets U.S. bases in Jordan, Gulf after Trump orders strikes near Hormuz",
-        "summary": [
-            "ایران در واکنش به حملات آمریکا نزدیک تنگه هرمز و همچنین ادعای آمریکا درباره سقوط هلیکوپتر آپاچی ارتش آمریکا، اعلام کرد «سپاه» به یک پایگاه آمریکا در اردن و ۲۱ هدف دیگر در حوزه خلیج فارس حمله کرده است؛ هم‌زمان حملات متقابل به بحرین، کویت و اردن گزارش شد.",
-            "وزارت خارجه ایران به کشورهای همسایه—به‌ویژه کشورهای ساحل جنوبی خلیج فارس—«مسئولیت قانونی و اخلاقی» نسبت داد تا اجازه ندهند آمریکا و اسرائیل از خاک یا امکانات آن‌ها برای عملیات علیه ایران استفاده کنند؛ پیام سیاسی مستقیم برای فشار بر میزبان‌های نیروهای آمریکا/اسرائیل در منطقه.",
-            "این درگیری‌ها پس از آتش‌بس آوریل، یکی از بزرگ‌ترین تبادل‌ها از زمان توافق محسوب می‌شود و در چارچوب تداوم چرخه انتقام، مذاکرات برای پایان جنگ را تهدید می‌کند؛ در کنار آن، چین هم نسبت به تشدید هشدار داده و خواستار مهار تنش شده است."
-        ],
-        "impact": "این دور از هدف‌گیری پایگاه‌های آمریکا در اردن و تشدید حملات در بحرین و کویت، ریسک فروپاشی آتش‌بس و جهش به سطحی بالاتر از درگیری را به‌طور مستقیم بالا می‌برد.",
-        "tag": "تنش_نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/iran-us-israel-war-live-updates-donald-trump-benjamin-netanyahu-mojtaba-khamenei-ceasefire-strait-of-hormuz-oil-prices-june-10-2026/article71083282.ece",
-        "clean_url": "https://www.thehindu.com/news/international/iran-us-israel-war-live-updates-donald-trump-benjamin-netanyahu-mojtaba-khamenei-ceasefire-strait-of-hormuz-oil-prices-june-10-2026/article71083282.ece",
-        "image": "http://www.bing.com/th?id=ONUT.y4LUM12OnGJsfMpCSqfPqg&pid=News",
-        "timestamp": 1781055000.0
     }
 ]
