@@ -36,6 +36,24 @@
         "timestamp": 1781730300.0
     },
     {
+        "title_fa": "متن یادداشت تفاهم ایران و آمریکا منتشر شد",
+        "title_en": "Text of the Iran-U.S. memorandum of understanding",
+        "summary": [
+            "NBC News اعلام می‌کند که یک مقام ارشد آمریکایی متن «یادداشت تفاهم» میان آمریکا و ایران را در اختیار این رسانه گذاشته است و تمرکز گزارش بر خود متن سند است، نه جزئیات اجرایی آن.",
+            "این اقدام نشان می‌دهد واشنگتن در سطح رسمی در حال مدیریت روایت و چارچوب تعامل با تهران است؛ اما بدون انتشار جزئیات در گزارش حاضر، نمی‌توان سطح تعهدات، زمان‌بندی یا اثرات عملی را سنجید.",
+            "از منظر فشار خارجی، صرفِ انتشار یا ارائه متن سند می‌تواند نشانه تلاش برای ایجاد کانال‌های کنترل‌شده باشد؛ با این حال، اثر آن بر وضعیت داخلی ایران یا توازن قدرت سیاست‌گذاری صرفاً پس از روشن شدن محتوای بندها قابل ارزیابی است."
+        ],
+        "impact": "فعلاً خبر بیشتر ماهیت انتشار متن دارد تا اجرای واقعی؛ اثر راهبردی آن به محتوای دقیق تعهدات در همین سند وابسته است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "NBC News",
+        "url": "https://www.msn.com/en-us/news/world/text-of-the-iran-us-memorandum-of-understanding/ar-AA25Uky8",
+        "clean_url": "https://www.msn.com/en-us/news/world/text-of-the-iran-us-memorandum-of-understanding/ar-AA25Uky8",
+        "image": "https://static01.nyt.com/images/2026/06/17/us/17dc-iran-deal-promo-02/17dc-iran-deal-promo-02-facebookJumbo.png",
+        "timestamp": 1781729852.0
+    },
+    {
         "title_fa": "سود و زیان احتمالی ایران و آمریکا از «توافق»؛ آنچه AP News روشن می‌کند",
         "title_en": "What do Iran and the US stand to gain from their deal? Here’s what to know",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://www.msn.com/en-us/money/general/explainer-what-do-iran-and-the-us-stand-to-gain-from-their-deal/ar-AA25TlUb",
         "image": null,
         "timestamp": 1781725260.0
+    },
+    {
+        "title_fa": "چالش‌های احتمالی پیش‌روی دستیابی به «توافق نهایی» آمریکا و ایران",
+        "title_en": "Explainer-What challenges could stand in the way of a final US-Iran deal?",
+        "summary": [
+            "روایت رادیوی توضیحی روی این تمرکز دارد که مذاکرات آمریکا و ایران در سوئیس پس از نزدیک به چهار ماه جنگ، با موانع متعدد روبه‌روست و می‌تواند تلاش برای رسیدن به یک توافق جامع را متوقف کند.",
+            "این گزارش «عوامل شکست» را به‌صورت کلی فهرست می‌کند و نشان می‌دهد حتی اگر مذاکره آغاز شود، اختلافات و ابهام‌های اجرایی می‌تواند روند را به بن‌بست بکشاند.",
+            "جایگاه این مذاکرات به‌عنوان نقطه تصمیم‌گیری برای کاهش تنش و تعیین چارچوب آینده مذاکرات/صلح توصیف شده، اما تأکید می‌کند که موانع پیش‌رو آن را پرریسک کرده است."
+        ],
+        "impact": "این گزارش نشان می‌دهد حتی در شرایط تماس دیپلماتیک، فرآیند به توافق نهایی نیازمند مدیریت دقیق اختلافات است و احتمال شکست از ابتدا جدی است.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.1,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/explainer-what-challenges-could-stand-in-the-way-of-a-final-us-iran-deal/ar-AA25TIzZ",
+        "clean_url": "https://www.msn.com/en-us/news/world/explainer-what-challenges-could-stand-in-the-way-of-a-final-us-iran-deal/ar-AA25TIzZ",
+        "image": "https://www.reuters.com/resizer/v2/VVD37X637NJ6FJFJEARNABRLKI.jpg?auth=c3be9a2ba3481e779f704faf3546c4079236a4a49471749894b84198f4ffd9ed&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1781724253.0
     },
     {
         "title_fa": "محتوای توافق ادعایی آمریکا و ایران (بر اساس گزارش BBC)",
@@ -160,6 +196,42 @@
         "clean_url": "https://apnews.com/article/iran-israel-hezbollah-ceasefire-timeline-war-trump-f24c01d8b0cbc90b00fe90a79dbdaa1e",
         "image": null,
         "timestamp": 1781714825.0
+    },
+    {
+        "title_fa": "تلاش برای انتقال امضای توافق هسته‌ای-دریایی به «امضای از راه دور»؛ به‌ویژه برای بازگشایی تنگه هرمز",
+        "title_en": "U.S., Iran weigh shifting to remote deal signing as early as Wednesday",
+        "summary": [
+            "طبق گزارش Seeking Alpha، مذاکره‌کنندگان آمریکا و ایران ممکن است تا چهارشنبه آینده درباره یک توافق جدید به توافق برسند و امضای آن را از همان روز کلید بزنند.",
+            "محور توافق، «بازگشایی تنگه هرمز» و پایان دادن به «مسدودسازی/blockade» عنوان‌شده در خبر است؛ یعنی هدف فوری کاهش اصطکاک دریایی و افزایش عبور و مرور است.",
+            "خبر می‌گوید این توافق می‌تواند شامل «شرایط ترانزیت دریایی» باشد که پس از پایان انسداد، چارچوب فعالیت کشتی‌ها در منطقه را تعیین می‌کند و احتمالاً بر محاسبات اقتصادی تجارت دریایی اثر می‌گذارد."
+        ],
+        "impact": "اگر این مسیر عملی شود، کاهش ریسک عملیاتی در تنگه هرمز می‌تواند به ثبات جریان تجارت دریایی کمک کند، اما در کوتاه‌مدت همچنان یک گام مذاکره‌ای شکننده و وابسته به جزئیات اجرایی خواهد بود.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4604460-us-iran-weigh-shifting-to-remote-deal-signing-as-early-as-wednesday---report",
+        "clean_url": "https://seekingalpha.com/news/4604460-us-iran-weigh-shifting-to-remote-deal-signing-as-early-as-wednesday---report",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2265963203/image_2265963203.jpg?io=getty-c-w630",
+        "timestamp": 1781711400.0
+    },
+    {
+        "title_fa": "ترامپ با انتشار جزئیات، از توافق پایان جنگ با ایران دفاع کرد و تهدید بمباران را تکرار کرد",
+        "title_en": "Trump Defends Deal to End the War With Iran as Details Emerge",
+        "summary": [
+            "ترامپ به منتقدان حمله کرد که می‌گویند توافق جدید نسبت به توافق ۲۰۱۵ اوباما دستاورد کمتری دارد.",
+            "همزمان اعلام کرد در صورت نقض توافق، «دوباره» ایران را هدف بمباران قرار خواهد داد؛ یعنی چارچوب بازدارندگی از جنس تهدید نظامی است.",
+            "با گسترش جزئیات، محور نزاع سیاسی در آمریکا بر میزان کارایی و برابری این توافق با توافق ۲۰۱۵ متمرکز می‌شود."
+        ],
+        "impact": "این موضع‌گیری یعنی فشار خارجی با ابزار نظامی حفظ می‌شود و احتمال نوسان در سیاست‌گذاری ایران در قبال توافق، با ریسک تشدید تنش بالا می‌رود.",
+        "tag": "تحریم-فشار",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
+        "clean_url": "https://www.nytimes.com/2026/06/17/world/middleeast/trump-iran-deal-obama.html",
+        "image": "http://www.bing.com/th?id=ONUT.rGDYGAJhS5P90ER4ZiT7lA&pid=News",
+        "timestamp": 1781708640.0
     },
     {
         "title_fa": "ادعای «معامله ترامپ»؛ عقب‌نشینی فاجعه‌بار و تنگ شدن دست اسرائیل در برابر ایران",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.bbc.com/news/live/cly7nr3jzv5t",
         "image": "http://www.bing.com/th?id=ONUT.S9tUoedvxgNQUhHLL4_ARQ&pid=News",
         "timestamp": 1781141760.0
-    },
-    {
-        "title_fa": "اعلام آمادگی ترامپ برای «توافق بزرگ»؛ ایران می‌گوید تصمیم نهایی درباره توافق آمریکا نگرفته",
-        "title_en": "US-Iran war live updates: Iran says no final decision on US deal after Trump announces 'great settlement'",
-        "summary": [
-            "ترامپ اعلام کرد آمریکا و ایران می‌توانند همین آخر هفته به توافق صلح برسند و زمینه برای بازگشایی مسیر کشتیرانی از تنگه هرمز فراهم شود؛ این یعنی فشار جنگی/اقتصادی به‌عنوان اهرم مذاکره وارد فاز معامله شده است.",
-            "در مقابل، ایران اعلام کرده «تصمیم نهایی» درباره این معامله گرفته نشده؛ شکاف میان پیام واشنگتن و عدم قطعیت تهران نشان می‌دهد رژیم هنوز کنترل‌پذیری امتیازدهی را تضمین نکرده یا بر سر شروط داخلی اختلاف دارد.",
-            "اگر بازگشایی هرمز رخ دهد، ضربه مستقیم به محاسبات امنیتی و درآمدی ناشی از محدودیت‌های کشتیرانی وارد می‌شود؛ اما تا وقتی توافق نهایی تثبیت نشود، عدم‌قطعیت همچنان هزینه ریسک و اختلال در بازارهای انرژی و تجارت را بالا نگه می‌دارد."
-        ],
-        "impact": "پیام «توافق فوری» از سوی آمریکا و ردِ تصمیم نهایی از سوی ایران، وضعیت تنش را از آستانه درگیری به میدان معامله کشانده اما همچنان ریسک اختلال در هرمز را تا روشن شدن شروط افزایش می‌دهد.",
-        "tag": "تحریم-مذاکره",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Hindustan Times",
-        "url": "https://www.msn.com/en-in/news/news/us-iran-war-live-updates-iran-says-no-final-decision-on-us-deal-after-trump-announces-great-settlement/ar-AA25ldfr",
-        "clean_url": "https://www.msn.com/en-in/news/news/us-iran-war-live-updates-iran-says-no-final-decision-on-us-deal-after-trump-announces-great-settlement/ar-AA25ldfr",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA25pMTN.img?w=549&h=309&m=4&q=88",
-        "timestamp": 1781139745.0
-    },
-    {
-        "title_fa": "سازوکار ضربه تازه آمریکا علیه ایران؛ افزایش فشار نظامی",
-        "title_en": "U.S. Launches Fresh Wave of Strikes Against Iran",
-        "summary": [
-            "بر اساس گزارش WSJ، آمریکا موج تازه‌ای از حملات را علیه ایران آغاز کرده است که نشانه تشدید فشار مستقیم از مسیر نظامی است.",
-            "این نوع عملیات، ساختار توان عملیاتی نیروهای درگیر را تحت فرسایش قرار می‌دهد و هزینه‌های امنیتی و عملیاتی رژیم را بالا می‌برد، اما متن مشخص نمی‌کند دقیقاً هدف‌ها چه بوده‌اند.",
-            "چون جزئیات اقتصادی/پروتکل‌های تحریمی یا واکنش داخلی در متن ارائه نشده، اثر کوتاه‌مدت اصلی در چارچوب فشار خارجی و برهم‌زدن محاسبات دفاعی رژیم قابل تحلیل است."
-        ],
-        "impact": "اقدام جدید آمریکا با هدف تضعیف توان عملیاتی و افزایش هزینه‌های امنیتی، فشار مستقیم بر رژیم را بالا می‌برد؛ جزئیات اهداف برای سنجش شدت و پیامدهای اقتصادی/سیاسی هنوز روشن نیست.",
-        "tag": "تحرکات",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "WSJ",
-        "url": "https://www.msn.com/en-us/politics/international-relations/us-launches-fresh-wave-of-strikes-against-iran-straining-truce/ar-AA25kLLN",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-launches-fresh-wave-of-strikes-against-iran-straining-truce/ar-AA25kLLN",
-        "image": null,
-        "timestamp": 1781139060.0
-    },
-    {
-        "title_fa": "حمله‌ روز دوم آمریکا به ایران؛ ادعای ایران درباره بسته‌شدن تنگه هرمز",
-        "title_en": "Live updates: U.S. launches 2nd day of strikes; Iran fires back and says Strait of Hormuz closed",
-        "summary": [
-            "طبق گزارش NBC News، آمریکا «روز دوم» را با حملات جدید ادامه داده و هم‌زمان ایران «دست به اقدام تلافی‌جویانه» زده است؛ سطح درگیری به‌صورت روشن در حال تشدید است.",
-            "ایران اعلام کرده تنگه هرمز بسته شده است؛ این ادعا در صورت تحقق مستقیم، اثر فوری روی تجارت منطقه و ظرفیت صادرات انرژی خواهد داشت.",
-            "جزئیات عملیاتیِ دقیق (مکان‌ها، اهداف مشخص، میزان خسارت/تلفات) در متن ارسالی نیامده، اما خودِ «روند افزایش حملات» و پیام‌ ایران درباره هرمز، ریسک سقوط سریع به بحران گسترده‌تر را بالا می‌برد."
-        ],
-        "impact": "اگر ادعای بسته‌شدن تنگه هرمز عملیاتی شود، ضربه فوری به زنجیره حمل‌ونقل و اقتصاد منطقه وارد می‌کند و چرخه تشدید نظامی بین دو طرف را تشدید خواهد کرد.",
-        "tag": "تشدید-نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-strikes-iran-trump-hormuz-closed-rcna349554",
-        "clean_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-us-strikes-iran-trump-hormuz-closed-rcna349554",
-        "image": "http://www.bing.com/th?id=ONUT.ojE8vJ-8PkbNFjfyUAJhHA&pid=News",
-        "timestamp": 1781135700.0
-    },
-    {
-        "title_fa": "برنامه‌ریزی برای حملات گسترده آمریکا علیه ایران؛ ادعای هگست",
-        "title_en": "U.S. Plans Major Strikes on Iran, Hegseth Says",
-        "summary": [
-            "بر اساس گزارش وزارت جنگ آمریکا، جان هگست از برنامه‌ریزی برای «حملات بزرگ» علیه ایران خبر داده که نشان‌دهنده ورود واشنگتن به فاز فشار نظامی آشکار است.",
-            "این نوع اعلامیه، اگر اجرایی شود، به‌طور مستقیم بر امنیت زیرساخت‌های رژیم و توان واکنش آن اثر می‌گذارد و می‌تواند چرخه محاسبات امنیتی تهران را به سمت تصمیم‌های پرریسک سوق دهد.",
-            "در سطح سیاسی-اقتصادی، تشدید تهدید نظامی معمولاً ریسک سرمایه‌گذاری و تأمین مالی را بالا می‌برد و می‌تواند نوسان‌های ارزی و فشار بر اقتصاد داخلی را تشدید کند، حتی قبل از وقوع عملیات."
-        ],
-        "impact": "چنانچه این برنامه‌ها به اجرا برسند، رژیم با یک شوک امنیتی مستقیم مواجه می‌شود و هزینه‌های اقتصادی و سیاسی آن پیش از هر توافق احتمالی افزایش خواهد یافت.",
-        "tag": "تهدید_نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "U.S. Department of War (.gov)",
-        "url": "https://www.msn.com/en-us/politics/government/pete-hegseth-says-us-is-ready-to-restart-strikes-on-iran-if-no-deal-is-reached/ar-AA24pYP3",
-        "clean_url": "https://www.msn.com/en-us/politics/government/pete-hegseth-says-us-is-ready-to-restart-strikes-on-iran-if-no-deal-is-reached/ar-AA24pYP3",
-        "image": null,
-        "timestamp": 1781134449.0
     }
 ]
