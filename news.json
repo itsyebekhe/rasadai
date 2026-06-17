@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "جزئیات «MOU ۱۴ ماده‌ای» ادعایی ترامپ با ایران: نقاط کلیدی و پیامدها",
+        "title_en": "Here’s what’s in Trump’s reported 14-point MOU with Iran",
+        "summary": [
+            "گزارش «The Hill» محتوای «MOU ۱۴ ماده‌ای» را که به ترامپ نسبت داده شده به‌عنوان چارچوب مذاکره و توافق مطرح می‌کند، اما متن دقیق و ضمانت‌های اجرایی آن باید در خود سند/جزئیات رسمی روشن شود؛ در حال حاضر سطح گزارش بیشتر «گزارشِ محتوای ادعایی» است تا یک ارزیابی قطعی از تعهدات.",
+            "وجود ۱۴ بند، نشان می‌دهد هدف احتمالی این تفاهم ادعایی، تقسیم موضوعات حساس به حوزه‌های قابل مذاکره است (اعم از محدودیت‌ها/تعهدات مرتبط با برنامه‌های مورد مناقشه)، تا هم فشار خارجی مدیریت شود و هم امکان اجرای مرحله‌ای فراهم گردد.",
+            "از منظر تحلیل فشار خارجی، حتی اگر این MOU به‌صورت محدود یا مقدماتی باشد، می‌تواند به‌عنوان اهرم برای کاهش یا تنظیم ریسک‌های اقتصادی و سیاسی برای طرف‌های درگیر عمل کند؛ اما چون جزئیات هنوز به شکل کامل قابل راستی‌آزمایی در همین گزارش ارائه نشده، اثر آن بر ثبات رژیم بیشتر «سناریومحور» است تا قطعی."
+        ],
+        "impact": "این MOU ادعایی اگر واقعی و اجرایی شود، می‌تواند ابزار مدیریت فشار و ریسک را در کوتاه‌مدت تغییر دهد، ولی چون جزئیات سند و سازوکار ضمانت اجرایی در متن فعلی روشن نیست، اثرش بر ثبات داخلی رژیم هنوز قابل سنجش قطعی نیست.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Hill",
+        "url": "https://www.msn.com/en-us/politics/government/here-s-what-s-in-trump-s-reported-14-point-mou-with-iran/ar-AA25SWaz",
+        "clean_url": "https://www.msn.com/en-us/politics/government/here-s-what-s-in-trump-s-reported-14-point-mou-with-iran/ar-AA25SWaz",
+        "image": null,
+        "timestamp": 1781701620.0
+    },
+    {
+        "title_fa": "ترامپ: اگر از توافق ایران راضی نباشیم، «برمی‌گردیم به شلیک» و «بمب»",
+        "title_en": "Trump on Iran deal: 'If I don't like it, we'll go back to shooting'",
+        "summary": [
+            "ترامپ در نشست گروه ۷ در فرانسه گفت تفاهم‌نامه واشنگتن-تهران «نهایی نیست» و در صورت «رفتار نکردن»، تهدید کرد حملات و بمباران را از سر می‌گیرد؛ او این تهدید را با بیان اینکه «می‌زنیم وسط سرشان» تکرار کرد.",
+            "ترامپ و معاونش ونس تفاهم‌نامه مقدماتی را برای بازگشایی تنگه هرمز امضا کرده‌اند؛ امضای رسمی در سوئیس و انتشار جزئیات این هفته اعلام شده است، و طبق متن‌های ۱۴بندی بحث دسترسی ایران به یک صندوق توسعه ۳۰۰ میلیارددلاری مطرح است.",
+            "ترامپ تلاش کرد صندوق ۳۰۰ میلیارددلاری را از دولت آمریکا جدا کند و گفت آمریکا سرمایه‌گذاری نمی‌کند، اما در عین حال گفت شرکای دیگر مانع ندارند؛ او همچنین گزینه جایگزین را «افسردگی جهانی» خواند و افزود که نکته اصلی جلوگیری از دستیابی ایران به سلاح هسته‌ای است."
+        ],
+        "impact": "این پیام، سطح ریسک نظامی را بالا می‌برد و نشان می‌دهد رژیم می‌تواند با اهرم «تهدید اقدام تلافی‌جویانه» در چارچوب مذاکره تحت فشار امنیتی-سیاسی قرار بگیرد.",
+        "tag": "تهدید-نظامی",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Reuters",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-says-iran-deal-not-115704743.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-iran-deal-not-115704743.html",
+        "image": null,
+        "timestamp": 1781698502.0
+    },
+    {
+        "title_fa": "هاویم رتگ گور: جنگ با ایران کی پایان می‌یابد؟",
+        "title_en": "Haviv Rettig Gur: When Will the War with Iran End?",
+        "summary": [
+            "مطلب منتشرشده فقط با محوریت پرسش درباره زمان پایان «جنگ با ایران» شکل گرفته و هیچ جزئیات قابل راستی‌آزمایی درباره رخداد مشخص، تاریخ، طرف‌ها یا نوع درگیری ارائه نمی‌کند.",
+            "در متنِ ارائه‌شده، اثری از داده‌های مربوط به تحریم‌ها، فشار خارجی، حمله به دارایی‌های رژیم یا تغییرات سیاست‌های راهبردی دیده نمی‌شود؛ بنابراین نمی‌توان درباره فشار خارجی و پیامدهای ساختاری آن تحلیل مستند ارائه کرد.",
+            "همچنین هیچ اطلاعاتی درباره حمایت‌های خارجی (روسیه/چین/کره شمالی)، وضعیت اعتراضات داخلی، یا شاخص‌های اقتصادی (تورم، سقوط ارزش پول، اعتصابات) در متن وجود ندارد."
+        ],
+        "impact": "با توجه به نبود جزئیات در متنِ موجود، این یادداشت بیشتر یک پرسش کلی است و ارزش تحلیلی مستقیم برای ارزیابی روندهای جنگ، فشار خارجی یا فروپاشی داخلی ندارد.",
+        "tag": "تحلیل-رسانه‌ای",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "The Free Press",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTnBPY3BpdzRlMDdJbzFNM3ZjVm5XNDBBejd0bnFWSWdPSjVkVlVpeUF5Ukt4amxpLTBQX0FHSHJPLUFwMUlHUjVNRmZqRGVMYnFYNjNzZTNDS1I4MGRaVWg2YmxvZVhMSlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xTnBPY3BpdzRlMDdJbzFNM3ZjVm5XNDBBejd0bnFWSWdPSjVkVlVpeUF5Ukt4amxpLTBQX0FHSHJPLUFwMUlHUjVNRmZqRGVMYnFYNjNzZTNDS1I4MGRaVWg2YmxvZVhMSlE",
+        "image": null,
+        "timestamp": 1781698142.0
+    },
+    {
         "title_fa": "مخاطره سیاسی بنیامین نتانیاهو؛ واکنش خشم رأی‌دهندگان به ماجرای توافق با ایران",
         "title_en": "Netanyahu, Israel's arch-survivor, set to face voter fury over Iran deal",
         "summary": [
@@ -72,6 +126,78 @@
         "timestamp": 1781682758.0
     },
     {
+        "title_fa": "ترامپ: توافق با ایران «نقطه پایان» نیست؛ تهدید به ازسرگیری بمباران و تداوم ابهام در محاسبات امنیت دریایی",
+        "title_en": "Trump says Iran deal not final, will resume bombing \"if they don't behave\"",
+        "summary": [
+            "ترامپ اعلام کرد توافق آمریکا و ایران «نهایی» نیست و در صورت «رفتار نکردن»، آمریکا می‌تواند بمباران ایران را از سر بگیرد؛ هم‌زمان اسرائیل نیز از زمان اعلام توافق، به حملات محدود در لبنان ادامه داده است.",
+            "تهران هشدار داده اگر اسرائیل نیرو در لبنان نگه دارد و به حملات ادامه دهد، این اقدام «نقض» توافق با واشینگتن محسوب می‌شود؛ در مقابل، جوزف عون گفت مذاکرات لبنان با اسرائیل مستقل از توافق آمریکا-ایران است و «هیچ‌کس» برای لبنان مذاکره نمی‌کند.",
+            "تداوم عبور تانکرهای ایرانی از خط محاصره نیروی دریایی آمریکا، ابهام برای شرکت‌های کشتیرانی ایجاد کرده است؛ آن‌ها می‌گویند تا زمان امضای «memorandum» در جمعه (پس از نهایی شدن مکتوب توافق)، به شفافیت و تضمین‌های امنیتی نیاز دارند."
+        ],
+        "impact": "این وضعیت، با تهدید آشکار به تشدید نظامی و هم‌زمان اختلال در کشتیرانی، ریسک بی‌ثباتی و محاسبات غلط برای بازیگران منطقه‌ای را بالا می‌برد و عملاً «توافق» را به یک ابزار فشارِ ناپایدار تبدیل می‌کند.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "AOL",
+        "url": "https://www.aol.com/articles/israels-war-hezbollah-looms-over-103005000.html",
+        "clean_url": "https://www.aol.com/articles/israels-war-hezbollah-looms-over-103005000.html",
+        "image": "http://www.bing.com/th?id=ONUT.kEkrRynvZKWZl_rhBfTbyg&pid=News",
+        "timestamp": 1781680560.0
+    },
+    {
+        "title_fa": "هشدار ترامپ درباره «نقطه‌پایان نهایی نبودن» توافق ایران؛ امکان بازگشت به عملیات و فشار سیاسی-اقتصادی همزمان",
+        "title_en": "Trump warns Iran deal 'not final' ahead of formal signing on Friday",
+        "summary": [
+            "ترامپ اعلام کرده توافق ایران که قرار است جمعه در سوئیس «رسمی» امضا شود «نهایی نیست» و در صورت «نتیجه ندادن» یا «بد رفتار کردن» آمریکا می‌تواند به حملات بازگردد؛ تهدید مستقیم به استفاده دوباره از زور به‌عنوان اهرم اجرایی.",
+            "به گفته گزارش، متن توافق افشا نشده و خبرگزاری‌های بریتانیایی می‌گویند احتمالاً شامل لغو تحریم‌های نفتی ایران است، اما آمریکا (طبق گفته JD Vance) انتشار متن را دست‌کم تا جمعه به تعویق می‌اندازد؛ همچنین مطرح شده که سازوکارهای مالی مانند صندوق بازسازی ۳۰۰ میلیارد دلاری بدون تغییر رفتاری ایران فعال نمی‌شود.",
+            "هم‌زمان، رهبران G7 در پایان نشست خود خواستار «توافقی قوی/محکم» برای پیگیری توافق ایران شدند و ترامپ در حاشیه این فضا از محورهایی مثل جلوگیری از دستیابی ایران به سلاح هسته‌ای و باز شدن سریع تنگه هرمز سخن گفت؛ یعنی پیام سیاسی-امنیتی هم‌پوشان با فشار اجرایی آمریکا است."
+        ],
+        "impact": "ترکیب تهدید «بازگشت به حمله» با ابهام در متن و وابستگی منافع اقتصادی (مثل نفت) به «رفتار» می‌تواند هم توان مانور رژیم را برای تفسیر گزینشی شروط کاهش دهد و هم بی‌ثباتی انتظارات بازار و سیاست داخلی ایران را بالا ببرد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/live/c8j2ewl0dpxt",
+        "clean_url": "https://www.bbc.com/news/live/c8j2ewl0dpxt",
+        "image": "http://www.bing.com/th?id=ONUT.6vYuRIzeDsPydmLnSOPmiw&pid=News",
+        "timestamp": 1781674500.0
+    },
+    {
+        "title_fa": "پیش‌نویس ۱۴ ماده‌ای توافق آمریکا و ایران؛ توقف‌تشدید از تنگه هرمز تا شرط‌های هسته‌ای",
+        "title_en": "Read the 14-point draft agreement between the US and Iran",
+        "summary": [
+            "سی‌ان‌ان از یک نسخه پیش‌نویس ۱۴ ماده‌ای «موافقت‌نامه درک متقابل» میان آمریکا و ایران خبر می‌دهد که بر اساس آن، آتش‌بس، ازسرگیری کشتیرانی در تنگه هرمز و تعهد تهران برای تولید نکردن سلاح هسته‌ای در چارچوب توافق ذکر شده؛ متن هنوز رسمی منتشر نشده و امکان تغییر در نسخه نهایی وجود دارد.",
+            "بر پایه این پیش‌نویس، آمریکا اجازه فروش نفت و محصولات پتروشیمی ایران را می‌دهد و تهران در صورت پایبندی به تعهدات مرتبط با برنامه هسته‌ای می‌تواند به یک «صندوق توسعه ۳۰۰ میلیارد دلاری» دسترسی پیدا کند؛ اما سند درباره سرنوشت «اورانیوم با غنای بالا» جزئیات مشخص ارائه نمی‌کند.",
+            "گزارش همچنین می‌گوید متن به‌صورت محرمانه نگه داشته شده و حتی اختلاف روایت وجود دارد: یک سخنگوی کاخ سفید گفته این متن پیش‌نویسِ به‌دست‌آمده از سوی سی‌ان‌ان با «موافقت‌نامه واقعی» هم‌خوان نیست، و گفته می‌شود متن نهایی قرار است جمعه در سوئیس امضا شود."
+        ],
+        "impact": "اگر نسخه نهایی همین محورهای پیشنهادی را حفظ کند، هم اهرم اقتصادی آمریکا علیه تهران کاهش می‌یابد و هم مسیر کاهش تنش دریایی در تنگه هرمز هموار می‌شود؛ با این حال ابهام درباره وضعیت اورانیوم غنی‌شده می‌تواند دوباره منبع چالش باقی بماند.",
+        "tag": "توافق",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/17/middleeast/us-iran-war-mou-text-intl",
+        "clean_url": "https://www.cnn.com/2026/06/17/middleeast/us-iran-war-mou-text-intl",
+        "image": "http://www.bing.com/th?id=ONUT.Bj2RbA4RtT0DBYQsvYXihg&pid=News",
+        "timestamp": 1781671920.0
+    },
+    {
+        "title_fa": "تحلیل: «چه چیزی ممکن است در ایران رخ دهد؟» بدون محتوای قابل اتکا درباره ایران",
+        "title_en": "What Could Happen in Iran?",
+        "summary": [
+            "این مطلب از «The New York Times» عملاً به یک بحث عمومی/ورزشی درباره جذب جوانان به UFC و جزئیات یک برنامه (دادن فرزندان به شب مبارزات در کاخ سفید) و یک مسابقه فوتبال در نیوجرسی اشاره می‌کند و هیچ رخداد مشخص، سند یا ادعای قابل راستی‌آزمایی درباره ایران ارائه نمی‌دهد.",
+            "در متن حاضر هیچ اشاره‌ای به تحریم‌ها، فشار خارجی، عملیات نظامی، سرکوب داخلی، اعتراضات سازمان‌یافته یا فروپاشی اقتصادی با داده‌های مشخص دیده نمی‌شود؛ بنابراین نمی‌توان آن را به عنوان سیگنال تحلیلی از وضعیت رژیم استفاده کرد.",
+            "چارچوب‌های «تحریم/فشار»، «روسـیه/چین/کره‌شمالی»، و «اعتراضات/اقتصاد» در این قطعه خبری عملاً فعال نیستند چون هیچ اطلاعات مربوط به آن‌ها ذکر نشده است."
+        ],
+        "impact": "با توجه به نبود داده‌های مرتبط، این منبع در وضعیت فعلی برای ارزیابی دقیق سناریوهای ایران ارزش عملیاتی ندارد.",
+        "tag": "بی‌اطلاعی",
+        "urgency": 1,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/17/briefing/what-could-happen-in-iran.html",
+        "clean_url": "https://www.nytimes.com/2026/06/17/briefing/what-could-happen-in-iran.html",
+        "image": "http://www.bing.com/th?id=ONUT.UQeQB9CFpECyiecKobjsCQ&pid=News",
+        "timestamp": 1781669040.0
+    },
+    {
         "title_fa": "توافق آمریکا و ایران برای پایان جنگ؛ امضای احتمالی روز جمعه",
         "title_en": "US and Iran agree deal to end war; signing expected Friday",
         "summary": [
@@ -106,6 +232,24 @@
         "clean_url": "https://jewishinsider.com/2026/06/republicans-doubt-iran-will-follow-through-on-nuclear-commitments",
         "image": "http://www.bing.com/th?id=ONUT.26w-LPLw9YiNKQSbmtjOtA&pid=News",
         "timestamp": 1781666040.0
+    },
+    {
+        "title_fa": "ایران پس از امضای «توافق» با آمریکا، بازگشایی تنگه هرمز و فروش آزاد نفت را وعده داد",
+        "title_en": "Iran will reopen the Strait of Hormuz and can sell oil freely under deal with the US, officials say",
+        "summary": [
+            "بر اساس گزارش Associated Press، تهران اعلام کرده است که «فوراً» پس از امضای توافق موقت برای پایان جنگ با آمریکا، اقدامات لازم برای بازگشایی تنگه هرمز را انجام می‌دهد.",
+            "در چارچوب همین توافق، مقامات می‌گویند ایران می‌تواند نفت خود را «بدون محدودیت» بفروشد؛ یعنی امتیاز مستقیم در مسیر دور زدن فشار مالی و کاهش اثر تحریم‌های انرژی.",
+            "این تصمیم، اگر عملیاتی شود، صرفاً یک اقدام امنیتی نیست؛ پیام آن به بازار و اقتصاد داخلی روشن است: کاهش تنش کانال حیاتی کشتیرانی و تبدیل آن به درآمد قابل اتکا برای رژیم."
+        ],
+        "impact": "بازگشایی تنگه و رفع محدودیت فروش نفت می‌تواند فشار ساختاری بر اقتصاد ایران را موقتاً کاهش دهد و توان رژیم برای تحمل بحران‌های داخلی را بالا ببرد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-will-reopen-the-strait-of-hormuz-and-can-sell-oil-freely-under-deal-with-the-us-officials-say/ar-AA25QuEk",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-will-reopen-the-strait-of-hormuz-and-can-sell-oil-freely-under-deal-with-the-us-officials-say/ar-AA25QuEk",
+        "image": "http://www.bing.com/th?id=ONUT.CUmqi4Bdw8QDBjh7KZ7Y-Q&pid=News",
+        "timestamp": 1781666014.0
     },
     {
         "title_fa": "ایران اسرائیل را به‌خاطر حملات لبنان تهدید کرد؛ ترامپ به نتانیاهو تاخت",
@@ -5254,149 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-iran-took-too-113820907.html",
         "image": "http://www.bing.com/th?id=ONUT.XTL5ZG41gSGpbFjj6z_4vA&pid=News",
         "timestamp": 1781102700.0
-    },
-    {
-        "title_fa": "یک روز پس از وعده «صلح»، آمریکا دوباره به هدف‌های ایران حمله می‌کند؛ ایران هم تلافی پهپادی-موشکی را کلید زد",
-        "title_en": "Iran War Live Updates: A Day After Predicting Peace, Trump Says U.S. Will Strike Iran Again",
-        "summary": [
-            "ارتش آمریکا در جنوب ایران حمله نظامی انجام داد و آن را پاسخ به سرنگونی یک بالگرد آمریکایی عنوان کرد؛ این یعنی چرخه تقابل مستقیم میان دو طرف وارد فاز تشدیدشونده شده است.",
-            "هم‌زمان ایران اعلام کرد در واکنش، پهپادها و موشک‌هایی را به اهداف نظامی آمریکا در بحرین و اردن شلیک کرده است؛ محور درگیری از داخل خاک ایران به پایگاه‌های منطقه‌ای آمریکا کشیده می‌شود.",
-            "این تحولات نشان می‌دهد اظهارات سیاسیِ «پیش‌بینی صلح» بدون پشتوانه عملیاتی بوده و اکنون تصمیمات میدانی جای آن را گرفته‌اند؛ از نظر راهبردی، احتمال تداوم حملات متقابل افزایش یافته است."
-        ],
-        "impact": "با گسترش حمله از جنوب ایران به اهداف آمریکایی در بحرین و اردن، ریسک یک دور جدید از درگیری مستقیم و طولانی بالا می‌رود.",
-        "tag": "تشدید",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
-        "clean_url": "https://www.nytimes.com/live/2026/06/10/world/iran-war-trump-us",
-        "image": null,
-        "timestamp": 1781099340.0
-    },
-    {
-        "title_fa": "ترامپ: ایران برای توقف گفت‌وگوها «بهایش را می‌دهد»؛ جنگ تجاری میان آمریکا و تهران تشدید شد",
-        "title_en": "Trump says Iran will 'pay the price' for stalled talks, as U.S. and Tehran trade fire",
-        "summary": [
-            "ترامپ اعلام کرد ایران به‌خاطر «توقف» گفت‌وگوها «بهایش را می‌دهد»، همزمان با شعله‌ور شدن تنش‌های تجاری میان آمریکا و تهران.",
-            "این پیام در چارچوب فشار خارجی مطرح شده و می‌تواند به تشدید سیاست‌های تنبیهی و افزایش هزینه‌های اقتصادی برای حکومت منجر شود، بدون اینکه جزئیات اجرایی مشخص در متن آمده باشد.",
-            "نبود پیشرفت در مذاکرات به‌عنوان عامل محرک فشار معرفی شده و نشان می‌دهد کانال مذاکره برای طرفین در وضعیت فرسایشی قرار دارد."
-        ],
-        "impact": "این تهدید، اگر به اقدامات ملموس فشارزا تبدیل شود، می‌تواند گره اقتصادی حکومت را سخت‌تر کند و فضای سیاسی داخلی را زیر فشار افزایش دهد.",
-        "tag": "فشار_خارجی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "PBS",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnJfZHd5U1ZncDhMSHZrWW5paTB0WnFXNzhrb1d0aS1uUlhoVU1WcFQwMGpEQ0RyNmRVckg5dzhTcFNSMWp4N01PWm5HU1ZxeUZBQ0wySzFCTXhnUF9zbnhXQUpjVkZhVTJia2hSR3Y3aUc3UGZwVl9xMENyd0o2V3lGNTRwazZxSXg3LXBxUjFMTF9sMDJmWWhHa3ZJZ2p3SWNvZFVXWlJNMXJZNU95dy1lSndaOEZZZldWSdIBvAFBVV95cUxNbnJfZHd5U1ZncDhMSHZrWW5paTB0WnFXNzhrb1d0aS1uUlhoVU1WcFQwMGpEQ0RyNmRVckg5dzhTcFNSMWp4N01PWm5HU1ZxeUZBQ0wySzFCTXhnUF9zbnhXQUpjVkZhVTJia2hSR3Y3aUc3UGZwVl9xMENyd0o2V3lGNTRwazZxSXg3LXBxUjFMTF9sMDJmWWhHa3ZJZ2p3SWNvZFVXWlJNMXJZNU95dy1lSndaOEZZZldWSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbnJfZHd5U1ZncDhMSHZrWW5paTB0WnFXNzhrb1d0aS1uUlhoVU1WcFQwMGpEQ0RyNmRVckg5dzhTcFNSMWp4N01PWm5HU1ZxeUZBQ0wySzFCTXhnUF9zbnhXQUpjVkZhVTJia2hSR3Y3aUc3UGZwVl9xMENyd0o2V3lGNTRwazZxSXg3LXBxUjFMTF9sMDJmWWhHa3ZJZ2p3SWNvZFVXWlJNMXJZNU95dy1lSndaOEZZZldWSdIBvAFBVV95cUxNbnJfZHd5U1ZncDhMSHZrWW5paTB0WnFXNzhrb1d0aS1uUlhoVU1WcFQwMGpEQ0RyNmRVckg5dzhTcFNSMWp4N01PWm5HU1ZxeUZBQ0wySzFCTXhnUF9zbnhXQUpjVkZhVTJia2hSR3Y3aUc3UGZwVl9xMENyd0o2V3lGNTRwazZxSXg3LXBxUjFMTF9sMDJmWWhHa3ZJZ2p3SWNvZFVXWlJNMXJZNU95dy1lSndaOEZZZldWSQ",
-        "image": null,
-        "timestamp": 1781098971.0
-    },
-    {
-        "title_fa": "شروع حملات تازه آمریکا علیه چند هدف در ایران به دستور ترامپ؛ هشدار «پرداخت بهای قیمت» و واکنش تهاجمی تهران",
-        "title_en": "U.S. military begins strikes on 'multiple targets' in Iran at Trump's direction",
-        "summary": [
-            "سنتکام اعلام کرد آمریکا در ۲/۵۱۵ بعدازظهر ET، «حملات دفاعی» خود را علیه چند هدف در ایران آغاز کرده است؛ دلیل رسمی را «اقدام خصمانه و ادامه‌دار» ایران عنوان کرده‌اند.",
-            "ترامپ ساعاتی پیش تهدید کرد آمریکا «بیشتر و خیلی سخت‌تر» حمله خواهد کرد و همزمان تهران را تحت فشار برای امضای یک «معامله معنی‌دار و کارآمد» قرار داد؛ او در Truth Social هم هشدار داد ایران «وقت را از دست داده» و باید «بهای قیمت» را بپردازد.",
-            "رسانه‌های دولتی ایران ادعا کردند ایران به کشتی‌های آمریکایی در تنگه هرمز با موشک و پهپاد حمله کرده است؛ همزمان ابرهیم عزیژی، رئیس کمیسیون امنیت ملی مجلس، گفت «این‌بار جنگ محدود به منطقه نخواهد بود»."
-        ],
-        "impact": "این چرخش از تهدید سیاسی به عملیات نظامی مستقیم، ریسک تشدید سریع و گسترده را بالا می‌برد و می‌تواند هم بازار انرژی را بی‌ثبات‌تر کند و هم فشارهای امنیتی بر هر دو طرف را افزایش دهد.",
-        "tag": "تحریک",
-        "urgency": 10,
-        "sentiment": -0.8,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
-        "clean_url": "https://www.cnbc.com/2026/06/10/trump-iran-war-attacks-deal.html",
-        "image": "http://www.bing.com/th?id=ONUT.-PrMx0w_euZEXxx4_4jsig&pid=News",
-        "timestamp": 1781097540.0
-    },
-    {
-        "title_fa": "نشانه‌های تشدید درگیری با ایران؛ احتمال کارزار هوایی آمریکا و تردید جدی در آتش‌بس",
-        "title_en": "Fresh strikes, surging inflation signal new phase of Iran war",
-        "summary": [
-            "گزارش به «شک جدی» نسبت به دوام آتش‌بس آمریکا و ایران اشاره می‌کند؛ آتشی که از آوریل عمدتاً برقرار بوده و حالا با احتمال کارزار هوایی تازه آمریکا زیر سؤال رفته است.",
-            "«حمله‌های تازه» و «تورم رو به افزایش» به‌عنوان سیگنال‌های آغاز یک فاز جدید جنگ مطرح شده‌اند؛ یعنی هزینه‌های اقتصادی در حال تشدید است و فشار اقتصادی به‌عنوان اثر جانبی در روایت دیده می‌شود.",
-            "این ترکیب (حملات تازه + انتظار برای بمباران هوایی جدید) نشان می‌دهد که حتی اگر کانال‌های آتش‌بس وجود داشته باشند، برتری نظامی/فشار عملیاتی می‌تواند توافق را شکننده کند."
-        ],
-        "impact": "اگر کارزار هوایی جدید آمریکا جدی شود، آتش‌بس فعلی عملاً از حالت کنترل‌شده خارج می‌شود و هم‌زمان فشار اقتصادی با تورم بالاتر به بی‌ثباتی می‌انجامد.",
-        "tag": "تشدد_جنگ",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Los Angeles Times on MSN",
-        "url": "https://www.msn.com/en-us/politics/international-relations/fresh-strikes-surging-inflation-signal-new-phase-of-iran-war/ar-AA25kSz4",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/fresh-strikes-surging-inflation-signal-new-phase-of-iran-war/ar-AA25kSz4",
-        "image": "http://www.bing.com/th?id=ONUT.BfI0pKaTSq6CQSxuGiJfHg&pid=News",
-        "timestamp": 1781096927.0
-    },
-    {
-        "title_fa": "واشنگتن‌پست: مذاکرات آمریکا و ایران زیر فشار اولتیماتوم‌ها و در سایه حملات؛ آتش‌بس روی لبه تیغ",
-        "title_en": "U.S., Iran negotiate via ultimatums and attacks with ceasefire on the brink",
-        "summary": [
-            "طبق گزارش، از ۱۱ آوریل گفت‌وگوی مستقیم میان آمریکا و ایران انجام نشده و همین خلأ، مسیر خروج از چرخه حمله-پاسخ را دشوار کرده است.",
-            "با وجود تلاش برای مذاکره، «اَعمال اولتیماتوم» به‌عنوان ابزار پیش‌برد مذاکرات مطرح شده و هم‌زمان حملات متقابل در حال تشدید است؛ نتیجه عملی آن نزدیک شدن به بازگشت درگیری تمام‌عیار است.",
-            "نکته کلیدی گزارش این است که آتش‌بس هنوز نهایی نشده و «برگشت به جنگ گسترده» سناریوی واقعی محسوب می‌شود، چون هر دو طرف با منطق بازدارندگی از طریق حملات، اهرم فشار را بالا نگه داشته‌اند."
-        ],
-        "impact": "این روند یعنی هر توافق احتمالی شکننده است و چون حملات در حال افزایش‌اند، احتمال فروپاشی آتش‌بس و جهش به درگیری گسترده بالاست.",
-        "tag": "مذاکره",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/national-security/2026/06/10/us-iran-negotiate-via-ultimatums-attacks-amid-fragile-ceasefire/",
-        "clean_url": "https://www.washingtonpost.com/national-security/2026/06/10/us-iran-negotiate-via-ultimatums-attacks-amid-fragile-ceasefire",
-        "image": "http://www.bing.com/th?id=ONUT.NlunwLDZBtGxbDGKb_P8LQ&pid=News",
-        "timestamp": 1781096820.0
-    },
-    {
-        "title_fa": "تبادل حملات آمریکا و ایران پس از سرنگونی بالگرد آپاچی نزدیک تنگه هرمز",
-        "title_en": "U.S. and Iran exchange strikes after Apache helicopter downing",
-        "summary": [
-            "ترامپ اعلام کرد دو خدمه بالگرد آپاچی آمریکایی که نزدیک تنگه هرمز سرنگون شده بودند سالم هستند؛ با این حال همان رخداد به سرعت به مرحله حمله متقابل رسید.",
-            "واشینگتن بلافاصله در پاسخ، حملاتی علیه ایران انجام داد؛ هم‌زمان گزارش شده که تهران نیز حملاتی را متوجه بحرین، کویت و اردن اعلام/عملیاتی کرده است که نشان می‌دهد چرخه درگیری به بازیگران منطقه‌ای کشیده شده است.",
-            "با وجود ادعای «ایمنی خدمه»، نفس تبادل ضربه‌ها بدون نشانه بازدارنده فوری، ریسک تشدید را بالا می‌برد و می‌تواند هزینه‌های امنیتی-اقتصادی برای کل مسیر تنگه هرمز ایجاد کند؛ این وضعیت برای رژیم هم فشار می‌آورد چون هر افزایش تنش، قابلیت مدیریت بحران داخلی را محدودتر می‌کند."
-        ],
-        "impact": "این تبادل مستقیم حمله-پاسخ، احتمال گسترش درگیری در سطح منطقه و تشدید هزینه‌ها برای اقتصاد جنگی رژیم را افزایش می‌دهد.",
-        "tag": "escalation",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond",
-        "clean_url": "https://www.npr.org/2026/06/09/nx-s1-5851845/trump-confirms-iran-shot-down-helicopter-says-u-s-must-respond",
-        "image": "http://www.bing.com/th?id=ONUT.4hv8t438p8hMyLHAMC_AyQ&pid=News",
-        "timestamp": 1781094480.0
-    },
-    {
-        "title_fa": "حمله موشکی آمریکا به ۲۰ هدف در داخل ایران؛ پاسخ به سرنگونی آپاچی و افزایش خطر شکست مذاکرات",
-        "title_en": "US strikes Iran in retaliation for Apache shoot-down",
-        "summary": [
-            "طبق گزارش فاکس نیوز، آمریکا در روز سه‌شنبه به تلافی سرنگونی یک بالگرد آپاچی آمریکایی توسط نیروهای ایران، به ۲۰ هدف داخل ایران حمله کرد.",
-            "هر دو خلبان آمریکایی نجات یافته‌اند، اما این اقدام به‌طور مستقیم چرخه تنش را تشدید کرده و ریسک درگیری‌های بعدی را بالا می‌برد.",
-            "این گزارش تأکید می‌کند که آغاز دوباره خصومت‌ها می‌تواند مذاکرات صلح را از مسیر خارج کند."
-        ],
-        "impact": "ورود یک حمله گسترده به داخل خاک ایران، آستانه تقابل را بالا می‌برد و احتمال فروپاشی یا تعلیق مذاکرات را افزایش می‌دهد.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-trump-iran-israel-strikes-06-10-2026",
-        "clean_url": "https://www.foxnews.com/live-news/us-trump-iran-israel-strikes-06-10-2026",
-        "image": null,
-        "timestamp": 1781092500.0
-    },
-    {
-        "title_fa": "پاسخ دولت ترامپ به ادعاهای ایران درباره بلیت‌های جام جهانی فیفا",
-        "title_en": "Trump Admin responds to Iran's claims about FIFA World Cup tickets",
-        "summary": [
-            "یک مقام کاخ سفید به Newsweek گفته هر محدودیتی برای هواداران ایرانی ناشی از «قانون موجود» است، نه تصمیم جدید یا هدفمند.",
-            "این بیان، ادعای ایران مبنی بر اقدام اختصاصی را به سطح مقررات از پیش‌موجود تقلیل می‌دهد و نشان می‌دهد که کاخ سفید فعلاً روایت «تشدید برنامه‌ریزی‌شده» را نمی‌پذیرد.",
-            "در چارچوب فشار خارجی، این نوع محدودیت‌های حقوقی می‌تواند دسترسی عملی هواداران را کاهش دهد، اما در متن گزارش به اقدام تازه یا گسترده اشاره نشده است."
-        ],
-        "impact": "این موضع می‌تواند فضای دیپلماسی/روایت‌سازی را محدود کند، اما چون بر «قانون موجود» تاکید شده، اثر آن احتمالاً بیشتر اداری و محدودکننده است تا جهشی و فوری.",
-        "tag": "تحریم",
-        "urgency": 3,
-        "sentiment": -0.1,
-        "source": "MSN on MSN",
-        "url": "https://www.msn.com/en-us/sports/fifa_world_cup/trump-admin-responds-to-iran-s-claims-about-fifa-world-cup-tickets/ar-AA25kmJB",
-        "clean_url": "https://www.msn.com/en-us/sports/fifa_world_cup/trump-admin-responds-to-iran-s-claims-about-fifa-world-cup-tickets/ar-AA25kmJB",
-        "image": "http://www.bing.com/th?id=ONUT.a4MqLVnoZ5_F517md7IVcQ&pid=News",
-        "timestamp": 1781091944.0
     }
 ]
