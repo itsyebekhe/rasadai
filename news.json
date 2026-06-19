@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ایران گفت‌وگوهای هسته‌ای با آمریکا را به تعویق انداخت؛ همزمان تشدید درگیری‌ها در لبنان را برجسته می‌کند",
+        "title_en": "Iran Delays Nuclear Talks With US as Lebanon Clashes Worsen",
+        "summary": [
+            "طبق گزارش بلومبرگ، ایران زمان‌بندی گفت‌وگوهای هسته‌ای با آمریکا را عقب انداخته است؛ علت مستقیم در متن، تشدید بحران در لبنان عنوان شده است.",
+            "تعامل هسته‌ای به‌جای مسیر پیش‌بینی‌پذیر، با نوسان‌دادن به زمان مذاکرات دنبال می‌شود؛ نشانه‌ای از اولویت‌دادن به مدیریت محور منطقه‌ای یا استفاده از اهرم‌های همزمان است.",
+            "هم‌زمانی «تاخیر در مذاکرات» با «بدتر شدن درگیری‌ها در لبنان» می‌تواند فضای کاهش تنش را محدود کند و احتمال ادامهٔ چرخهٔ فشار و امتیازدهی گزینشی را بالا ببرد."
+        ],
+        "impact": "این عقب‌افتادن مذاکرات، شکاف در مسیر کنترل‌پذیری پرونده هسته‌ای را بیشتر می‌کند و با افزایش ریسک‌های منطقه‌ای، احتمال شکل‌گیری موج جدید فشار خارجی و بی‌ثباتی سیاسی-اقتصادی را بالا می‌برد.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Bloomberg.com",
+        "url": "https://www.msn.com/en-us/news/world/us-and-iran-delay-nuclear-talks-as-lebanon-clashes-worsen/ar-AA260Yb5",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-delay-nuclear-talks-as-lebanon-clashes-worsen/ar-AA260Yb5",
+        "image": null,
+        "timestamp": 1781902316.0
+    },
+    {
+        "title_fa": "تجدید آتش‌بس اسرائیل–حزب‌الله در لبنان؛ لغو نشست سوئیس پس از کشته‌شدن نظامیان اسرائیلی و تلافی هوایی",
+        "title_en": "Israel and Hezbollah agree to renew ceasefire after flareup of violence",
+        "summary": [
+            "اسرائیل و حزب‌الله پس از ۲۴ ساعت تشدید خشونت در لبنان، آتش‌بس شکننده را برای تمدید دوباره برقرار کردند؛ خشونت جدید عملاً یک چالش اولیه برای توافق تازه آمریکا و ایران تلقی شد.",
+            "نشست برنامه‌ریزی‌شده واشنگتن و تهران در سوئیس برای بررسی اجرای توافق جدید لغو شد؛ علت اعلام‌شده در متن: حزب‌الله چهار سرباز اسرائیلی را کشت و اسرائیل هم یک موج حملات هوایی تلافی‌جویانه در جنوب لبنان و دره بقاع انجام داد که دست‌کم ۴۷ کشته برجای گذاشت.",
+            "مذاکرات سوئیس قرار بود پس از امضای تفاهم‌نامه (MoU) با پنجره ۶۰ روزه برای رسیدن به توافق دائمی درباره برنامه هسته‌ای ایران و همزمان راه‌اندازی حرکت نفت در تنگه هرمز آغاز شود؛ با این حال، مقامات ایرانی از هرگونه نقض هشدار داده‌اند و هم‌زمان افزایش قیمت انرژی و نگرانی از آشوب اقتصادی جهانی به عدم قطعیت دامن زده است."
+        ],
+        "impact": "این چرخه حمله و تلافی نشان می‌دهد حتی اگر کانال‌های دیپلماسی فعال شوند، محور حزب‌الله-ایران ظرفیت ایجاد اختلال در مسیر اجرای توافق را دارد و ریسک فرسایشی شدن آن بالا می‌ماند.",
+        "tag": "لبنان",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
+        "clean_url": "https://www.theguardian.com/world/2026/jun/19/israel-hezbollah-renew-ceasefire-lebanon-us-iran-agreement",
+        "image": null,
+        "timestamp": 1781900160.0
+    },
+    {
         "title_fa": "هشدار اطلاعاتی آمریکا درباره تلاش اسرائیل برای تضعیف «توافق صلح» با ایران",
         "title_en": "U.S. intelligence warns Israel is likely to undermine Iran peace deal, officials say",
         "summary": [
@@ -178,6 +214,24 @@
         "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/the-chokepoint-doctrine-how-the-iran-war-exposed-the-rise-of-middle-powers/articleshow/131856512.cms",
         "image": "https://static.toiimg.com/thumb/msid-131858227,imgsize-107682,width-400,height-225,resizemode-4/satellite-image-of-the-strait-of-hormuz.jpg",
         "timestamp": 1781869680.0
+    },
+    {
+        "title_fa": "هفپست: گفت‌وگوهای صلح ایران تبدیل به «رسوایی بزرگ» برای جی‌دی ونس می‌شود",
+        "title_en": "Iran peace talks are shaping up to be a huge embarrassment for JD Vance",
+        "summary": [
+            "این گزارش بر شوخی‌های دونالد ترامپ درباره پیامدهای سیاسی شکست احتمالی گفت‌وگوهای ایران متمرکز است؛ به‌صورت مشخص ادعا می‌شود «گردن جی‌دی ونس» در معرض خطر است.",
+            "ترامپ همزمان گفته اگر این روند موفق شود، خودش تمام اعتبار را خواهد گرفت؛ یعنی از همان ابتدا تلاش برای کنترل روایت سیاسی روی نتیجه مذاکره دیده می‌شود.",
+            "در سطح محتوایی، متن صرفاً به واکنش‌های سیاسی تیم ترامپ اشاره دارد و هیچ جزئیات قابل‌تأیید درباره مفاد توافق یا مسیر اجرایی آن ارائه نمی‌کند."
+        ],
+        "impact": "این نوع قاب‌بندی رسانه‌ای، تمرکز را از محتوای مذاکره به رقابت‌های درون‌حاکمیتی آمریکا منتقل می‌کند و ریسک بی‌ثباتی سیاسی در صورت شکست را بالا می‌برد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "HuffPost on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-peace-talks-are-shaping-up-to-be-a-huge-embarrassment-for-jd-vance/ar-AA265hOX",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-peace-talks-are-shaping-up-to-be-a-huge-embarrassment-for-jd-vance/ar-AA265hOX",
+        "image": "http://www.bing.com/th?id=ONUT.8OA8lhk4k7xBWZt9AYNqMw&pid=News",
+        "timestamp": 1781866803.0
     },
     {
         "title_fa": "جزئیات توافق مقدماتی آمریکا-ایران که ترامپ امضا کرد",
@@ -484,6 +538,24 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/iran-s-loser-victory/ar-AA263Q2P",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2642z0.img?w=1024&h=683&m=4&q=79",
         "timestamp": 1781846083.0
+    },
+    {
+        "title_fa": "فضای افسرده سناتورهای جمهوری‌خواه درباره توافق ترامپ با ایران برای رفع تحریم‌ها و صندوق بازسازی ۳۰۰ میلیارد دلاری",
+        "title_en": "Senate Republicans in somber, pessimistic mood over Trump deal with Iran",
+        "summary": [
+            "سناتورهای جمهوری‌خواه در کنفرانس حزب، «ناامیدی» و «غمگینی» توصیف‌شده‌اند؛ دلیل اصلی نگرانی، هزینه و پیامدهای توافق ترامپ برای رفع تحریم‌های ایران و فراهم‌کردن دسترسی به صندوق بازسازی ۳۰۰ میلیارد دلاری است.",
+            "با وجود دفاع برخی از متحدان پرحرارت ترامپ در مجلس، بخش قابل‌توجهی از سناتورهای جمهوری‌خواه می‌گویند آمریکا در مذاکرات اهرم واقعی ندارد و رسیدن به توافقی امضا‌شده برای توقف برنامه غنی‌سازی هسته‌ای ایران بعید است؛ حتی یکی از منابع پیش‌بینی کرده کنگره اساساً فرصت رأی‌گیری پیدا نکند.",
+            "منتقدان در حزب جمهوری‌خواه می‌گویند متن توافق منتشرشده در هفته جاری به انبار موشکی ایران (طبق ارزیابی سیا، حدود ۷۰٪ ظرفیت پیش از جنگ) نمی‌پردازد و سازوکار الزام‌آوری برای جلوگیری از تأمین مالی شبکه‌های نیابتی با منابع آزادشده را پوشش نمی‌دهد."
+        ],
+        "impact": "این واکنش درون‌حزبی نشان می‌دهد توافق ترامپ با ریسک سیاسی-قانونی بالا و احتمال محدود شدن اثر آن بر مهار برنامه‌های فراتر از غنی‌سازی روبه‌رو است.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/senate-republicans-somber-pessimistic-mood-100000199.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/senate-republicans-somber-pessimistic-mood-100000199.html",
+        "image": "http://www.bing.com/th?id=ONUT.aykX1femDk12JAwXe_AuqQ&pid=News",
+        "timestamp": 1781845860.0
     },
     {
         "title_fa": "ادعای حمله اسرائیل به جنوب لبنان هم‌زمان با تعویق گفت‌وگوهای آمریکا و ایران",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/exclusive-uae-unlock-billions-dollars-181223224.html",
         "image": "http://www.bing.com/th?id=ONUT.Oit_gF_vGMB777noCOezzg&pid=News",
         "timestamp": 1781313660.0
-    },
-    {
-        "title_fa": "پیش‌روی یا بن‌بست؟ شش محور تعیین‌کننده برای هر توافق آمریکا-ایران و پیامد آن برای توقف درگیری",
-        "title_en": "Is a U.S.-Iran Deal Within Reach? Six Key Issues That Could Shape a Ceasefire",
-        "summary": [
-            "این گزارش به‌صورت مستقیم درباره امکان دستیابی به «توافق آمریکا-ایران» صحبت می‌کند و مدعی است که شش موضوع کلیدی می‌تواند مسیر هر «آتش‌بس» یا توافق را تعیین کند؛ اما هنوز اطلاعات مشخص از جزئیات حقوقی/عملیاتی ارائه نمی‌دهد.",
-            "محورهای مورد اشاره به‌طور ضمنی نشان می‌دهد که چالش اصلی، گره خوردن منافع امنیتی، محدودیت‌های مرتبط با برنامه‌های حساس و سازوکار راستی‌آزمایی/تضمین‌هاست؛ یعنی هر توافق بدون حل این گلوگاه‌ها، پایدار نمی‌ماند.",
-            "نکته مرکزی برای تحلیل رژیم این است که هر حرکت به سمت توافق (یا شکست آن) به معنای جابه‌جایی فشار خارجی و پیامدهای اقتصادی/سیاسی در داخل است، چون رژیم ایران برای دوام خود از مدیریت فشار و زمان‌بندی امتیازدهی استفاده می‌کند."
-        ],
-        "impact": "اگر این شش محور به توافق قابل اجرا تبدیل نشوند، می‌تواند به کاهش تنش و تغییر محاسبات اقتصادی و سیاسی فشار منجر شود؛ اگر نه، اختلافات همچنان آتش‌بس را شکننده نگه می‌دارد.",
-        "tag": "توافق",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Council on Foreign Relations",
-        "url": "https://www.cfr.org/articles/is-a-u-s-iran-deal-within-reach-six-key-issues-that-could-shape-a-ceasefire",
-        "clean_url": "https://www.cfr.org/articles/is-a-u-s-iran-deal-within-reach-six-key-issues-that-could-shape-a-ceasefire",
-        "image": null,
-        "timestamp": 1781303382.0
-    },
-    {
-        "title_fa": "Axios: توافق احتمالی ایران و آمریکا برای نتانیاهو «نوشداروی تلخ» است",
-        "title_en": "Trump's pending Iran deal is bitter pill for Netanyahu",
-        "summary": [
-            "مقاله می‌گوید توافق در حال آماده‌سازی دولت ترامپ درباره ایران، از دید نتانیاهو پیامدهای سیاسی-امنیتی دشواری دارد و می‌تواند فضای مانور دولت اسرائیل را محدود کند؛ یعنی مسئله در درجه اول «اختلاف منافع» بر سر مسیر معامله است، نه یک رویداد میدانی فوری.",
-            "به‌طور ضمنی، چنین توافقی می‌تواند فشار دیپلماتیک بر اسرائیل را کاهش ندهد، اما توازن تهدید-فرصت را به نفع کانال معامله تغییر می‌دهد؛ این تغییر یعنی نتانیاهو برای مدیریت روایت امنیتی داخلی اسرائیل با هزینه روبه‌رو می‌شود.",
-            "از منظر ساختاری، اگر توافق منجر به کاهش فشار بیرونی بر رژیم شود، اثر آن معمولاً تقویت بقا و نفس‌کشیدن اقتصادی/سیاسی است؛ در مقابل، اگر توافق شامل سازوکارهای محدودکننده نباشد یا مبهم بماند، پیامدش می‌تواند ادامه عدم‌اطمینان برای بازیگران منطقه‌ای باشد."
-        ],
-        "impact": "این خبر بیشتر نشان‌دهنده جابه‌جایی اهرم‌های فشار و مذاکره است تا یک ضربه مستقیم نظامی؛ اثر اصلی آن، تغییر محاسبات راهبردی نتانیاهو در برابر رژیم تهران است.",
-        "tag": "توافق",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Axios",
-        "url": "https://www.msn.com/en-us/politics/government/trump-s-pending-iran-deal-is-bitter-pill-for-netanyahu/ar-AA25vUHx",
-        "clean_url": "https://www.msn.com/en-us/politics/government/trump-s-pending-iran-deal-is-bitter-pill-for-netanyahu/ar-AA25vUHx",
-        "image": null,
-        "timestamp": 1781302374.0
-    },
-    {
-        "title_fa": "ادعای آمریکا درباره مفاد احتمالی توافق جنگ در پرونده ایران",
-        "title_en": "What the US says is in the potential Iran war agreement - ABC News",
-        "summary": [
-            "ABC News خبر می‌دهد که آمریکا درباره چارچوب «توافق احتمالی برای جلوگیری از جنگ» در پرونده ایران، ادعاها/مفادی را مطرح کرده است، اما متن منتشرشده جزئیات مشخصی ارائه نمی‌کند و فقط اشاره کلی به موضوع دارد.",
-            "با توجه به نبود متن کامل در گزارش، نمی‌توان ارزیابی دقیقی از میزان کاهش فشار، سازوکارهای راستی‌آزمایی یا آثار عملی بر ظرفیت هسته‌ای/مناطق درگیری را به‌صورت مستند انجام داد و هر نتیجه‌گیری فراتر از عنوان، ساختگی خواهد بود.",
-            "در نبود اطلاعات قابل راستی‌آزمایی از متن توافق ادعایی، اثرگذاری احتمالی بیشتر به فشار روانی-سیاسی و زمان‌خریدن برای مدیریت بحران در دو طرف محدود می‌ماند؛ اما شدت این اثر منوط به جزئیات است."
-        ],
-        "impact": "این نوع ادعاهای آمریکا بدون ارائه جزئیات در متن موجود، عمدتاً نقش اهرم سیاسی و زمان‌کشی در مدیریت ریسک درگیری را دارد، نه یک تغییر قابل سنجش در وضعیت میدانی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBRNXoyeG92bS03eHJzVTlHMVdtMDJTMGUwZ0JiN25COXlLa0dydHhpVUVTQndLY0JpTkliUEw4WnNzd3Q2Z3hNM0pUbjNUUktHYTFGTGkxTFluS2xLSWhDUlF1eklKTUMwUURUUnJjalZMNEtDQXdqWUFvTWNCaEFDZTdrVWZPUHZV?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcGJWdDZFaWtvYVBreWY2NDM3ZFpjUm9EQ1pCS3ZIVmxPR0k5MEM5SUhzWTg3cEFob0RiTW14ZWdzM1NQMzdNMjRhdmp3R2Z0Smc5dl9ESzBDaTh5aDIyTC1Bcll2NzVaSE0xTkJ5Nmo1cWRLNjg4b1BFZ2txRUNYZkJrZHprQdIBiwFBVV95cUxNLTBRNXoyeG92bS03eHJzVTlHMVdtMDJTMGUwZ0JiN25COXlLa0dydHhpVUVTQndLY0JpTkliUEw4WnNzd3Q2Z3hNM0pUbjNUUktHYTFGTGkxTFluS2xLSWhDUlF1eklKTUMwUURUUnJjalZMNEtDQXdqWUFvTWNCaEFDZTdrVWZPUHZV",
-        "image": null,
-        "timestamp": 1781299973.0
-    },
-    {
-        "title_fa": "سیگنال آمریکا و ایران برای نزدیک شدن توافق صلح؛ گزارش‌ها از امتیازدهی به تهران حکایت می‌کند",
-        "title_en": "U.S. and Iran signal peace deal close as reports suggest terms appear to favour Tehran",
-        "summary": [
-            "CBC گزارش می‌دهد آمریکا و ایران پیام‌های متقابل برای نزدیک شدن به یک «توافق صلح» ارسال کرده‌اند و روند مذاکرات در آستانه تعیین‌تکلیف است.",
-            "بر اساس همین گزارش‌ها، «به‌نظر می‌رسد» مفاد و شروط توافق به نفع تهران تنظیم شده؛ یعنی احتمال دارد امتیازهای اصلی، به شکل اقتصادی/سیاسی برای رژیم ایران سنگین‌تر باشد.",
-            "چون جزئیات دقیق در متن ارائه نشده، ارزیابی اثرگذاری این توافق باید حول پیام «نزدیکی» و «ترجیح‌بودن برای تهران» انجام شود: این وضعیت می‌تواند ابزارهای چانه‌زنی ایران را تقویت و فشار بیرونی بر رژیم را کاهش دهد."
-        ],
-        "impact": "اگر شروط واقعاً به نفع تهران باشد، رژیم با کاهش هزینه‌های خارجی و تقویت ظرفیت تنفس دیپلماتیک، از فشار ساختاری کاسته و در عین حال امتیاز گرفته است.",
-        "tag": "توافق",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CBC",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFBlLWNTLWxWZHZOUXU3VG5nNmhoVUdicDFYcFZfY3JDRHlrbk5yNmtZV1E2RUJ5bnRoSlU2MGdLTmRIaFFLTWRyS2NPYXR5bmIySWM1WEIzTDRzS1lYcHRiY3hEZ1dxUzVlTUhMSDRLVUl5UWNvUnFmWG1LMWl1RQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUFBlLWNTLWxWZHZOUXU3VG5nNmhoVUdicDFYcFZfY3JDRHlrbk5yNmtZV1E2RUJ5bnRoSlU2MGdLTmRIaFFLTWRyS2NPYXR5bmIySWM1WEIzTDRzS1lYcHRiY3hEZ1dxUzVlTUhMSDRLVUl5UWNvUnFmWG1LMWl1RQ",
-        "image": null,
-        "timestamp": 1781297775.0
     }
 ]
