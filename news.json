@@ -36,6 +36,24 @@
         "timestamp": 1781900160.0
     },
     {
+        "title_fa": "اظهارات معاون وزیر خارجه ایران درباره «پیشبرد» توافق با آمریکا؛ آزمون واقعی برای لغو فشار",
+        "title_en": "Iran deputy FM says ‘ready to move forward’ in deal with US",
+        "summary": [
+            "طبق گزارش رسانه‌ای، معاون وزیر خارجه ایران می‌گوید جمهوری اسلامی «آمادگی دارد» برای پیشبرد یک توافق با آمریکا جلو برود؛ یعنی هنوز بحث در سطح آمادگی و مذاکره است نه اجرای روشن و قابل راستی‌آزمایی.",
+            "از منظر فشار خارجی، چنین اظهاراتی اگر به لغو مؤثر محدودیت‌های مالی و نفتی منجر نشود، صرفاً مدیریت انتظارات داخلی است و نمی‌تواند به‌تنهایی ضعف ساختاری اقتصاد را ترمیم کند.",
+            "چون در متن خبر به نتیجه مشخص، جدول زمانی، یا جزئیات توافق اشاره نشده، اثر آن بر اعتراضات و ثبات داخلی نامشخص می‌ماند؛ اما هر روند مذاکره‌ای در ایران معمولاً تحت فشار کسری بودجه، کاهش قدرت خرید و بی‌اعتمادی عمومی قرار می‌گیرد."
+        ],
+        "impact": "این خبر بیش از آن‌که نشانه گشایش واقعی باشد، یک سیگنال مذاکراتی است که فقط در صورت حصول لغو عملی فشارهای مؤثر، می‌تواند اثر اقتصادی و سیاسی ملموسی داشته باشد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us/ar-AA265N3N",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us/ar-AA265N3N",
+        "image": null,
+        "timestamp": 1781899551.0
+    },
+    {
         "title_fa": "آمادگی ایران برای پیشبرد گفت‌وگو با آمریکا مشروط به پایبندی اسرائیل",
         "title_en": "Iran ‘ready to move forward’ in deal with US if Israel abides by terms",
         "summary": [
@@ -142,6 +160,24 @@
         "clean_url": "https://www.usatoday.com/story/news/world/2026/06/19/iran-war-trump-peace-us-updates--live/90615139007",
         "image": null,
         "timestamp": 1781879336.0
+    },
+    {
+        "title_fa": "او‌باما از آتش‌بس ترامپ با ایران خوشحال است؛ اما هشدار می‌دهد آمریکا ممکن است ضعیف‌تر شود",
+        "title_en": "Barack Obama ‘Very Happy’ to See Donald Trump’s Ceasefire With Iran",
+        "summary": [
+            "باراک او‌باما اعلام کرد از دستاورد ترامپ در گرفتن آتش‌بس با ایران «خیلی خوشحال» است، اما هم‌زمان هشدار داد ایالات متحده ممکن است در موقعیت ضعیف‌تری قرار بگیرد.",
+            "او‌باما با اشاره به اینکه این رخداد پس از «ماه‌ها» رخ داده، تلویحاً نشان می‌دهد فرآیند فشار/چانه‌زنی دولت آمریکا به نتیجه رسیده، ولی نتیجه الزاماً به نفع قدرت مذاکره آمریکا تثبیت نشده است.",
+            "این اظهارات از منظر راهبردی یعنی حتی وقتی آتش‌بس اعلام می‌شود، محاسبه هزینه-فایده و برتری امنیتی آمریکا می‌تواند محل تردید باشد؛ بنابراین آتش‌بس را باید یک «وقفه» نه «حل مسئله» تلقی کرد."
+        ],
+        "impact": "این موضع‌گیری نشان می‌دهد آتش‌بس ممکن است موقت و پرریسک باشد و در نتیجه توازن قدرت در مذاکرات و اجرای توافق برای آمریکا می‌تواند دشوارتر شود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/barack-obama-responds-donald-trump-ceasefire-iran-12096901",
+        "clean_url": "https://www.newsweek.com/barack-obama-responds-donald-trump-ceasefire-iran-12096901",
+        "image": "http://www.bing.com/th?id=ONUT.7H0AIXvIE3Yjnuavhjqwtw&pid=News",
+        "timestamp": 1781877600.0
     },
     {
         "title_fa": "توافق اسرائیل و حزب‌الله برای تمدید آتش‌بس؛ به‌هم‌خوردن زمان‌بندی مذاکرات صلح ایران",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOFNVaW1EQjcyVjlOZGtnLTdLXzctb2RqaXlFY0RfQ2FscHk3Y2NvYUkzZms3TGk1NHhoaGJGY21fV3hDa2VYYm4zRnVOTHpMYXJhOXk0UUdycFJMNlRNQ09SRFhXRTZvS2JiMDhtNlkzc2pIMWVrdm1mWGp0OUlIdHYwbGVDOGhUeW5FeFQ5ekdiY0RobFZjTDkyVnJONEhXM01TX1FKcE5INUg2RDlxWHpBa3RNRDEyX1J2SGlHd1pEVl9ZLUMw",
         "image": null,
         "timestamp": 1781321528.0
-    },
-    {
-        "title_fa": "در آستانه توافق احتمالی، تهرانِ پس از جنگ آماده‌تر برای تحمل فشار و ریسک‌پذیری",
-        "title_en": "With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure",
-        "summary": [
-            "گزارش نیویورک‌تایمز مدعی است که جنگ به تغییرات در سطح رهبری/ساختار انجامیده، اما «رهبران جدید» این برداشت را دارند که سخت‌ترین ضربه‌های ممکن از سوی آمریکا و اسرائیل را پشت سر گذاشته‌اند.",
-            "برخلاف تصور تضعیف‌پذیری با فشار خارجی، این متن می‌گوید تهران در فاز جدید ریسک‌پذیرتر شده و برای ادامه مسیر در برابر فشار آماده‌تر است؛ حتی در شرایطی که یک «توافق به‌نظر نزدیک» مطرح می‌شود.",
-            "جمع‌بندی مقاله این است که فشار آمریکا و اسرائیل، دیگر همان اثر بازدارنده سابق را ندارد و همین موضوع می‌تواند روند مذاکره/مهار را پیچیده کند، چون طرف ایرانی به‌طور ادراکی خود را در برابر بدترین سناریوها مقاوم‌تر می‌بیند."
-        ],
-        "impact": "اگر برداشت «جبران سخت‌ترین هزینه‌ها» در تهران تثبیت شده باشد، حتی توافق نزدیک آمریکا با ایران هم احتمالاً با محدودیت‌های جدی در اجرای واقعی عقب‌نشینی‌های مورد انتظار طرف آمریکایی روبه‌رو می‌شود.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
-        "clean_url": "https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html",
-        "image": "http://www.bing.com/th?id=ONUT.u3lABXICIiKCHpQwaNIvuw&pid=News",
-        "timestamp": 1781316180.0
-    },
-    {
-        "title_fa": "ترامپ از «غیرقابل‌احترام» بودن شرایط لو رفته توافق ایران انتقاد کرد و دستور توقف حملات را داد",
-        "title_en": "Trump blasts leaked Iranian deal terms, 'very dishonorable' negotiators",
-        "summary": [
-            "ترامپ اعلام کرد مذاکرات برای پایان درگیری با ایران «تقریباً کامل» است و از لغو زمان‌بندی‌شده حملات و بمباران‌ها علیه ایران در همان شب خبر داد.",
-            "او با اشاره به «متن‌های لو رفته» از توافق، مذاکره‌کنندگان را «خیلی بی‌احترام» توصیف کرد؛ یعنی اختلاف بر سر نحوه/محتوای توافق وارد فاز علنی و تخریب‌محور شده است.",
-            "این موضع عملاً اهرم فشار خارجی را از مسیر نظامیِ قریب‌الوقوع به مسیر سیاسی-اطلاعاتی (کنترل روایت و شرایط مذاکره) منتقل می‌کند و می‌تواند بر محاسبات تهران برای پذیرش یا رد چارچوب توافق اثر بگذارد."
-        ],
-        "impact": "لغو حملات به‌صورت فوری ریسک درگیری را کاهش می‌دهد، اما همزمان با علنی شدن اختلافات بر سر «شرایط لو رفته»، فضای چانه‌زنی و بی‌ثباتی محاسبات سیاسی را تشدید می‌کند.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-israel-lebanon-trump-deal-june-12",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-israel-lebanon-trump-deal-june-12",
-        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/06/624/351/5a263cf68f3719a391e74992c2b8ac1f.jpg?tl=1&ve=1",
-        "timestamp": 1781314740.0
     }
 ]
