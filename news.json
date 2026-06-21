@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آغاز مذاکرات صلح در سوئیس با حضور JD Vance و مقام‌های ایرانی",
+        "title_en": "JD Vance, Iranian officials begin peace talks in Switzerland",
+        "summary": [
+            "طبق گزارش واشنگتن پست، JD Vance و مقام‌های ایرانی «مذاکرات صلح» را در سوئیس آغاز کرده‌اند؛ این یک حرکت دیپلماتیک مستقیم با هدف مدیریت تنش‌ها و کاهش ریسک برخورد تعریف می‌شود.",
+            "فکت‌محور و محدود به گزارش: هیچ جزئیات روشن درباره توافقات، شروط طرفین، یا نقشه‌راه اجرایی ارائه نشده و بنابراین نتیجه‌گیری درباره دستاورد مشخص برای هیچ‌یک از دو طرف هنوز زود است.",
+            "حتی اگر گفت‌وگو پیش برود، چنین نشست‌هایی معمولاً در کوتاه‌مدت بیشتر نقش کانال کنترل بحران دارند تا حل ریشه‌ای بحران‌های سیاست خارجی و ساختار امنیتی؛ اثر واقعی زمانی سنجیده می‌شود که متن‌ها، تعهدات و زمان‌بندی‌ها منتشر شوند."
+        ],
+        "impact": "این نشست می‌تواند شدت بحران را موقتاً مهار کند، اما بدون جزئیات توافق، اثر پایدار بر سیاست رژیم یا کاهش فشارها قابل اتکا نیست.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxtYWxIa0RhbldFTENsNlZndFdweFBoWlhoWFkxWXY0RVZ0SUIxT3dDNVNQSlVjNjlPQ3JEZHVqa0FyM3hSRVBXUFUxYXJ6T1VxQ3NMeV9wX1F6TldlR0RHUThTb0JDMmFpN18zRmNIcGZfWENjMkpQTVFVU3B5RjlQc05sZEI1YUdHNDRUUTcwSE5NWEZHSGRXcUM?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxtYWxIa0RhbldFTENsNlZndFdweFBoWlhoWFkxWXY0RVZ0SUIxT3dDNVNQSlVjNjlPQ3JEZHVqa0FyM3hSRVBXUFUxYXJ6T1VxQ3NMeV9wX1F6TldlR0RHUThTb0JDMmFpN18zRmNIcGZfWENjMkpQTVFVU3B5RjlQc05sZEI1YUdHNDRUUTcwSE5NWEZHSGRXcUM",
+        "image": null,
+        "timestamp": 1782061053.0
+    },
+    {
         "title_fa": "تهدید تازه ترامپ علیه ایران همزمان با حضور ونس در مذاکرات سوئیس",
         "title_en": "Trump threatens Iran with fresh strikes as Vance attends talks in Switzerland",
         "summary": [
@@ -5379,24 +5397,6 @@
         "url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
         "clean_url": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
         "image": "http://www.bing.com/th?id=ONUT.JbiS__JMAsXVjV8nbK5-7w&pid=News",
-        "timestamp": 1781471820.0
-    },
-    {
-        "title_fa": "توافق صلح آمریکا و ایران؛ علامت آمادگی برای کاهش تحریم‌ها و جهش موقت بازارها",
-        "title_en": "CNBC Daily Open: Iran deal fuels global relief rally",
-        "summary": [
-            "خبرگزاری CNBC از توافق صلح آمریکا و ایران خبر می‌دهد که قرار است جمعه در ژنو امضا شود و بر «قطع فوری و دائمی درگیری» و همچنین پایبندی ایران به عدم پیگیری/توسعه سلاح هسته‌ای تأکید دارد؛ هم‌زمان از باز شدن مسیر تردد در تنگه هرمز و «برداشتن فوری محاصره دریایی آمریکا» سخن گفته شده است.",
-            "بخش سیاسی-امنیتی توافق، توقف درگیری‌ها در سطح منطقه و اشاره به توقف عملیات در پی تنش‌های لبنان (در چارچوب ذکرشده در متن) را در بر می‌گیرد و با حضور ترامپ در نشست‌های G7 و سپس امضای رسمی در ژنو همراه است.",
-            "واکنش جهانی، سیگنال‌ دادن به «تسکین تحریم‌ها» در برابر «گام‌های روشن و قابل راستی‌آزمایی» درباره برنامه هسته‌ای ایران است؛ در نتیجه بازارها هم‌زمان با کاهش قیمت نفت و جهش سهام در آسیا، موج «رلیف» نشان داده‌اند."
-        ],
-        "impact": "کاهش یا حتی انتظار کاهش تحریم‌ها و رفع محدودیت‌های دریایی، فشار اقتصادی و ریسک ژئوپلیتیک را موقتاً کم می‌کند و همین عامل به جهش بازارها دامن زده است.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/15/iran-deal-fuels-global-relief-stock-rally.html",
-        "clean_url": "https://www.cnbc.com/2026/06/15/iran-deal-fuels-global-relief-stock-rally.html",
-        "image": null,
         "timestamp": 1781471820.0
     }
 ]
