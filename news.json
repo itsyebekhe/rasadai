@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "توافق آمریکا و ایران بر نقشه‌راه «توافق نهایی» و برنامه برای پایان عملیات نظامی در لبنان",
+        "title_en": "U.S., Iran agree on roadmap for final deal and plan to end military operations in Lebanon",
+        "summary": [
+            "طبق گزارش CNBC، آمریکا و ایران بر یک «نقشه‌راه» برای رسیدن به توافق نهایی توافق کرده‌اند؛ یعنی مذاکرات وارد فاز طراحی چارچوب‌های پایانی شده و خروجی آن به‌صورت رسمی زمان‌بندی و مسیر پیگیری مشخص‌تری پیدا کرده است.",
+            "هم‌زمان، طرفین برنامه دارند «عملیات نظامی در لبنان» را پایان دهند؛ این موضوع مستقیماً به کاهش نقش‌پذیری عملیاتی بازیگران وابسته/همسو با تهران در یک محور کلیدی منجر می‌شود، اما جزئیات اجرایی در متن گزارش ارائه نشده است.",
+            "از منظر منافع رژیم، این روند می‌تواند به کاهش فشار خارجی و سیگنال کاهش ریسک منجر شود، اما اگر نقشه‌راه به تعهدات قابل راستی‌آزمایی نرسد، فقط یک مکانیسم مذاکره‌ای برای مهار هزینه‌های سیاسی/اقتصادی خواهد بود."
+        ],
+        "impact": "این توافق در صورت تبدیل شدن به اجرا و راستی‌آزمایی، می‌تواند فشار امنیتی و هزینه‌های منطقه‌ای تهران را کاهش دهد و مسیر کاهش تنش را برای اثرگذاری بر اقتصاد تحت تحریم هموار کند.",
+        "tag": "مذاکره",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "CNBC",
+        "url": "https://www.msn.com/en-us/politics/international-relations/us-iran-agree-on-roadmap-for-final-deal-and-plan-to-end-military-operations-in-lebanon/ar-AA26dGoN",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-iran-agree-on-roadmap-for-final-deal-and-plan-to-end-military-operations-in-lebanon/ar-AA26dGoN",
+        "image": null,
+        "timestamp": 1782094140.0
+    },
+    {
+        "title_fa": "ادعای پیشرفت «بزرگ» برای پایان جنگ لبنان؛ دیپلماسی آمریکا-ایران به‌عنوان اهرم کاهش فشار",
+        "title_en": "Iran’s foreign minister says ‘major progress’ made to end Lebanon war in talks with US",
+        "summary": [
+            "وزیر امور خارجه ایران مدعی شده در گفت‌وگو با آمریکا برای پایان جنگ لبنان «پیشرفت بزرگ» حاصل شده است؛ نکته کلیدی این است که این اظهارات به‌صورت رسمی، مسیر کاهش تنش منطقه‌ای را از کانال مذاکرات مطرح می‌کند.",
+            "این نوع پیام‌ها معمولاً در چارچوب فشار خارجی عمل می‌کند: اگر جنگ به هدف سیاسی/امنیتی ایران گره خورده باشد، کاهش شدت درگیری می‌تواند به منزله خرید زمان برای مدیریت هزینه‌های اقتصادی و سیاسی داخل باشد—اما متن، جزئیات قابل راستی‌آزمایی از توافق یا زمان‌بندی را ارائه نمی‌دهد.",
+            "چون هیچ داده مشخصی از نقشه توافق، تضمین‌ها یا توقف عملیاتی جنگ در گزارش وجود ندارد، این اظهارات بیشتر یک سیگنال سیاسی است تا یک تغییر تضمین‌شده؛ بنابراین اثر فوری بر امنیت منطقه‌ای یا معیشت مردم، بدون جزئیات، قابل سنجش نیست."
+        ],
+        "impact": "این پیام می‌تواند نشانه‌ای از تلاش برای کنترل هزینه‌های منطقه‌ای و کاهش فشارهای خارجی باشد، اما بدون جزئیات توافق، اثر واقعی هنوز نامشخص است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/world/iran-s-foreign-minister-says-major-progress-made-to-end-lebanon-war-in-talks-with-us/ar-AA26dNzy",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-s-foreign-minister-says-major-progress-made-to-end-lebanon-war-in-talks-with-us/ar-AA26dNzy",
+        "image": null,
+        "timestamp": 1782093958.0
+    },
+    {
         "title_fa": "بن‌بست مذاکرات صلح ایران پس از تهدیدهای ترامپ علیه هیئت ایران",
         "title_en": "Iran peace talks stumble over Trump’s threats to Iran’s delegation",
         "summary": [
@@ -72,6 +108,24 @@
         "timestamp": 1782076140.0
     },
     {
+        "title_fa": "پایان دور نخست گفت‌وگوهای آمریکا و ایران و چارچوب «نقشه ۶۰ روزه»؛ محور آن امنیت هرمز و توقف درگیری",
+        "title_en": "US-Iran War LIVE Updates: First round of US-Iran talks conclude, 60-day roadmap, Hormuz security among key outcomes",
+        "summary": [
+            "طبق گزارش News24، دور نخست گفت‌وگوهای آمریکا و ایران به پایان رسیده و «نقشه ۶۰ روزه» به‌عنوان مسیر بعدی مورد توافق قرار گرفته است.",
+            "این توافق موقت، طرفین را ملزم می‌کند تنگه هرمز را دوباره برای عبور و مرور باز کنند و همزمان «همه درگیری‌ها» را متوقف کنند.",
+            "شرط توقف جنگ فقط محدود به ایران نیست؛ توقف شامل ادامه درگیری‌ها از جمله «درگیری‌های جاری در لبنان» هم می‌شود."
+        ],
+        "impact": "اگر این چارچوب عملیاتی نشود، برگشت سریع تنش در هرمز می‌تواند کل منطقه را وارد چرخه جدید تشدید نظامی کند.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": 0.1,
+        "source": "News24",
+        "url": "https://news24online.com/world/us-iran-war-live-updates-first-round-of-us-iran-talks-conclude-60-day-roadmap-hormuz-security-among-key-outcomes/868718/",
+        "clean_url": "https://news24online.com/world/us-iran-war-live-updates-first-round-of-us-iran-talks-conclude-60-day-roadmap-hormuz-security-among-key-outcomes/868718",
+        "image": "http://www.bing.com/th?id=ONUT.vB_XlFC_K1frbhoRMYnBpw&pid=News",
+        "timestamp": 1782073020.0
+    },
+    {
         "title_fa": "آغاز دور جدید گفت‌وگوهای آمریکا-ایران در سوئیس؛ «برگ جدید» یعنی مدیریت بحران، نه رفع ریشه‌ها",
         "title_en": "Vance wants to ‘turn over a new leaf’ as US-Iran talks start in Switzerland",
         "summary": [
@@ -124,6 +178,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE45b1c0eDRGSHFUT2ZxbkptUVAtQzM0U2xKLVhEcTVvTmRtUHdsUzVmRnIzcWFWclRERlFWYVhxUVlBdDFzU1Nta3ZBRUJIQkx4aXVpeHA4bDR4My1RWFVRSEJEU29KdEk0cUZLYjBVd0JWQQ",
         "image": null,
         "timestamp": 1782069486.0
+    },
+    {
+        "title_fa": "ایران از «پیشرفت مهم» برای پایان جنگ لبنان در گفت‌وگوها خبر داد؛ واشنگتن و تهران در سوئیس روی جزئیات توافق موقت کار می‌کنند",
+        "title_en": "The Latest: Iran says ‘major progress’ to end Lebanon war during talks",
+        "summary": [
+            "طبق گزارش The Hill، مذاکره‌کنندگان آمریکایی و ایرانی در سوئیس برای تعیین جزئیات توافق موقت در چارچوب پایان جنگ میان ایران و آمریکا حضور دارند؛ تیم آمریکا به سرپرستی JD Vance پیش می‌رود.",
+            "ایران هم‌زمان اعلام کرده در مسیر پایان جنگ لبنان «پیشرفت مهم» حاصل شده است؛ یعنی تهران تلاش دارد از کانال مذاکره، خروجی منطقه‌ای به دست آورد و ریسک فرسایشی را کاهش دهد.",
+            "این خبر به‌تنهایی مدرکی از لغو کامل تحریم‌ها یا فروپاشی داخلی رژیم ارائه نمی‌کند، اما نشان می‌دهد مدیریت بحران از مسیر دیپلماسی در دستور کار قرار گرفته و مرحله بعد به توافق عملیاتی و جزئیات وابسته است."
+        ],
+        "impact": "این روند اگر به توافق اجرایی نزدیک شود، می‌تواند شدت تنش منطقه‌ای را کم کند، اما در کوتاه‌مدت بیشتر ابزار کنترل ریسک و چانه‌زنی است تا تغییر بنیادین در توان رژیم.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "The Hill",
+        "url": "https://thehill.com/homenews/ap/ap-international/ap-the-latest-vance-meets-iranian-negotiators-in-switzerland-to-work-on-details-of-deal/",
+        "clean_url": "https://thehill.com/homenews/ap/ap-international/ap-the-latest-vance-meets-iranian-negotiators-in-switzerland-to-work-on-details-of-deal",
+        "image": "http://www.bing.com/th?id=ONUT.ZZllmV88rspEDTXHtwa1xA&pid=News",
+        "timestamp": 1782068700.0
     },
     {
         "title_fa": "آمار جنگ آمریکا و ایران: تصویر عددی از یک تشدید پرهزینه",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/trump-says-deal-to-end-war-with-iran-already-signed-and-details-to-be-released-pretty-soon/ar-AA25IlvT",
         "image": "http://www.bing.com/th?id=ONUT.ISkSIUoc6e38yxDCzZxHeQ&pid=News",
         "timestamp": 1781530434.0
-    },
-    {
-        "title_fa": "نیویورک‌تایمز: شکست راهبرد نتانیاهو علیه ایران در حال آشکار شدن است",
-        "title_en": "Israel Counts the Ways That Netanyahu's Iran Strategy Failed",
-        "summary": [
-            "خبر به این محور اشاره می‌کند که جنگی که نتانیاهو برای تثبیت «میراث» خود به آن امید بسته بود (حمله مشترک اسرائیل و آمریکا به ایران) به نتیجه‌ای که انتظار داشت نرسیده و روند آن می‌تواند به ناکامی ختم شود.",
-            "فرمول «همراهی آمریکا و اسرائیل برای حمله به ایران» به‌عنوان ستون راهبرد مطرح شده، اما متن نشان می‌دهد این مسیر عملیاتی یا سیاسی آن‌طور که طراحی شده پیش نرفته است.",
-            "جمع‌بندی مقاله روی «تعداد راه‌های شکست» تمرکز دارد؛ یعنی حتی اگر جنگ ادامه داشته باشد، منطق راهبرد نتانیاهو در دستیابی به هدف اصلی‌اش (فشار/تغییر وضعیت علیه ایران از مسیر حمله مشترک) دچار انحراف جدی شده است."
-        ],
-        "impact": "اگر حمله مشترک به ایران رخ نداده یا محدود مانده باشد، راهبرد نتانیاهو عملاً اعتبار بازدارندگی و مهندسی سیاسی-امنیتی آن را تضعیف می‌کند و بر محاسبات امنیتی تهران نیز سایه می‌اندازد.",
-        "tag": "تحلیل",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html",
-        "clean_url": "https://www.nytimes.com/2026/06/15/world/middleeast/israel-netanyahus-iran-strategy.html",
-        "image": "https://static01.nyt.com/images/2026/06/15/multimedia/15israel-assess-zcqm/15israel-assess-zcqm-facebookJumbo.jpg",
-        "timestamp": 1781529660.0
-    },
-    {
-        "title_fa": "آیا کنگره می‌تواند مسیر «توافق با ایران» ترامپ را متوقف کند؟ علامت هشدار از درون جمهوری‌خواهان",
-        "title_en": "Can Congress Derail Trump’s Iran Deal? Republican Allies Signal Concern",
-        "summary": [
-            "خبرگزاری Newsweek می‌نویسد سناتور جمهوری‌خواه «چاک گراسلی» در گفت‌وگو با این رسانه درباره سابقه ایران در «پایبندی به توافق‌ها» ابراز تردید کرده و گفته است ایران «تاریخ خیلی خوبی» از رعایت توافق‌ها ندارد.",
-            "این موضع به‌عنوان نشانه‌ای از نگرانی متحدان جمهوری‌خواه در کنگره نسبت به امکان «کارآمدی» هر توافق آتی مطرح می‌شود؛ یعنی حتی هم‌حزبی‌های ترامپ هم روی قابلیت اعتماد به تعهدات ایران حساسیت دارند.",
-            "محتوای گزارش فعلاً وارد جزئیات مشخص درباره متن توافق، زمان‌بندی، یا اقدام عملی کنگره نمی‌شود و در سطح موضع سیاسی و ارزیابی سابقه توافق‌ها باقی می‌ماند."
-        ],
-        "impact": "این اظهارنظر نشان می‌دهد فشار سیاسی درون کنگره می‌تواند به فرایند تصویب/اجرای هر توافق با ایران گره بخورد، اما از متن گزارش نمی‌توان نتیجه گرفت که اقدام فوری و مشخصی انجام شده است.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/trump-iran-deal-congress-concern-lindsey-graham-12075596",
-        "clean_url": "https://www.newsweek.com/trump-iran-deal-congress-concern-lindsey-graham-12075596",
-        "image": "http://www.bing.com/th?id=ONUT.BJZupLl3h9bmThTnwYNf4g&pid=News",
-        "timestamp": 1781529600.0
-    },
-    {
-        "title_fa": "مذاکره بر سر «مکانیسم پایان جنگ»: شکاف روایت‌ها و پیامدهای اهرم فشار",
-        "title_en": "What the US and Iran say is in the memorandum to end the war",
-        "summary": [
-            "خبر روی «متن» یا «محتوای» ادعاییِ یادداشت/مکانیسم پایان جنگ تمرکز دارد، اما خودِ کلیت گزارش به اختلاف در روایت‌های طرف آمریکایی و طرف ایرانی حول بندها و چارچوب اجرای آن اشاره می‌گذارد؛ همین اختلاف، از نظر راهبردی یعنی امکان کنترل‌پذیری پایین برای هر دو طرف وجود دارد.",
-            "اگر این یادداشت به‌عنوان گام عملی برای پایان درگیری عرضه شود، اثر فوری آن بیشتر سیاسی-امنیتی است تا اقتصادی؛ یعنی رژیم یا واشنگتن برای مهار ریسک تداوم تنش، زمان می‌خرند و از آن برای تثبیت مواضع استفاده می‌کنند.",
-            "از آنجا که جزئیات اجرایی (زمان‌بندی، ضمانت اجرا، سازوکار راستی‌آزمایی و جزئیات عقب‌نشینی/توقف اقدامات) در این عنوان به شکل روشن نیامده، ارزیابی نهایی از اینکه این «پایان جنگ» واقعی است یا صرفاً پوشش برای بازآرایی نیروها دشوار می‌ماند؛ اما خودِ اعلام «یادداشت» نشان می‌دهد هر دو طرف دنبال خروج از چرخه تنش هستند."
-        ],
-        "impact": "اعلام وجود یک «مکانیسم پایان جنگ» بدون روشن‌بودن بندهای اجرایی، بیشتر نشانه تغییر تاکتیک و مدیریت ریسک است تا تضمین پایان واقعی درگیری.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/factbox-what-the-us-and-iran-say-is-in-the-memorandum-to-end-the-war/ar-AA25GI1v",
-        "clean_url": "https://www.msn.com/en-us/news/world/factbox-what-the-us-and-iran-say-is-in-the-memorandum-to-end-the-war/ar-AA25GI1v",
-        "image": null,
-        "timestamp": 1781529369.0
-    },
-    {
-        "title_fa": "توافق مبهم آمریکا-ایران، بلاتکلیفی لبنان را عمیق‌تر می‌کند",
-        "title_en": "U.S.-Iran Agreement Leaves Lebanon’s Fate Murky",
-        "summary": [
-            "ایران مدعی است این توافق شامل ادامه جنگ در لبنان است، اما هیچ جزئیاتی از مفاد توافق منتشر نشده؛ یعنی عملاً «قانون‌گذاری» نشده و قابل راستی‌آزمایی نیست.",
-            "اسرائیل اعلام کرده نیروهایش همچنان در لبنان باقی می‌مانند؛ در نتیجه برداشت عملی از توافق، توقف یا تغییر واقعیِ میدان نیست و شکاف روایت‌ها ادامه‌دار است.",
-            "نبود شفافیت درباره دامنه و سازوکار اجرا، خطر تشدیدِ درگیری‌های نیابتی و سوءتفاهم‌های عملیاتی را بالا نگه می‌دارد، چون طرف‌ها خروجی متفاوت از همان توافق را در نظر می‌گیرند."
-        ],
-        "impact": "این وضعیت بیشترین فشار را به لبنان می‌آورد، چون تصمیم‌گیری امنیتی بدون جزئیات و با تعارض برداشت‌ها در میدان ادامه پیدا می‌کند.",
-        "tag": "لبنان",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-agreement-lebanon.html",
-        "clean_url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-agreement-lebanon.html",
-        "image": "http://www.bing.com/th?id=ONUT.Q2vTBY8WZR04uqHOdix7Yg&pid=News",
-        "timestamp": 1781519520.0
     }
 ]
