@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "سنا با تصویب طرح پایان جنگ با ایران، تندکردن مخالفت با ترامپ را علنی کرد",
+        "title_en": "Senate rebukes Trump by approving House-passed measure calling for end to Iran war",
+        "summary": [
+            "بر اساس گزارش NBC News، مجلس سنا آمریکا با تصویب طرحی که پیش‌تر در مجلس نمایندگان تصویب شده بود، عملاً دولت ترامپ را در موضوع جنگ با ایران «توبیخ/ردگیری» کرد.",
+            "این طرح به‌طور مشخص بر «پایان جنگ با ایران» تاکید دارد و از همین مسیر نقش کنگره در مهار یا تغییر مسیر سیاست‌های اجرایی ترامپ را برجسته می‌کند.",
+            "مستقیماً در متن گزارش به مکانیزم اجرایی، سطح اثرگذاری حقوقی (الزام‌آور بودن) یا زمان‌بندی خروج/کاهش درگیری اشاره نشده، اما نفس تصویب نشان‌دهنده شکاف جدی میان قوه مجریه و بخش‌هایی از نهاد تصمیم‌گیری آمریکا است."
+        ],
+        "impact": "تصویب این طرح می‌تواند فضای سیاسی واشنگتن را برای محدودتر کردن ادامه رویکرد جنگی علیه ایران تحت فشار قرار دهد، هرچند اثر عملی آن به جزئیات حقوقی طرح بستگی دارد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "NBC News",
+        "url": "https://www.msn.com/en-us/news/politics/senate-rebukes-trump-by-approving-house-passed-measure-calling-for-end-to-iran-war/ar-AA26mYqu",
+        "clean_url": "https://www.msn.com/en-us/news/politics/senate-rebukes-trump-by-approving-house-passed-measure-calling-for-end-to-iran-war/ar-AA26mYqu",
+        "image": null,
+        "timestamp": 1782247120.0
+    },
+    {
         "title_fa": "سنا برای اولین‌بار قطعنامه اختیارات جنگی را تصویب کرد؛ واکنش مستقیم به سیاست‌های ترامپ درباره بحران ایران",
         "title_en": "Senate for first time approves a war powers resolution in a rebuke to Trump over Iran conflict",
         "summary": [
@@ -106,6 +124,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVI0M2FmMGM2MjZmOWpIbXc2Mk5HSWdBMkpTaHY2blZZWW1oVnJ5VTMxdXFQdWoxQmR2MDRlQkR3dnNreFRBSHBwejNsUHlmaWY1SmdINXpxbG5HZXhCQ2VNRTNtNHRJb2FJbF9lV3l1ZWJJN01hb2FDb0U5ZDA4RXpUd1R1bmxqSy04UFlqOU93TU11T3FDMkRGU1dKYW9oeVNOdA",
         "image": null,
         "timestamp": 1782233220.0
+    },
+    {
+        "title_fa": "اختلاف واشینگتن-تهران بر سر بازرسی‌های هسته‌ای، تکمیل «توافق پایان جنگ» را در ابهام نگه داشت",
+        "title_en": "A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
+        "summary": [
+            "در حالی که گفت‌وگوهای آمریکا و ایران برای پیشبرد یک توافق «پایان جنگ» ادامه داشت، اختلاف بر سر «بازرسی‌های هسته‌ای» مانع تعیین‌تکلیف نهایی شد و مسیر کار را تیره نگه داشت.",
+            "هم‌زمان، گزارش‌ها از احتمال شکستن گره ترافیکی/بن‌بست حمل‌ونقل در تنگه هرمز حکایت می‌کرد که می‌تواند پیامد مستقیم اقتصادی و عملیاتی برای تجارت منطقه‌ای داشته باشد.",
+            "ترکیب تنش بر سر بازرسی‌ها با نشانه‌های بهبود احتمالی در جریان کشتیرانی، نشان می‌دهد هرگونه توافق پایدار بیشتر وابسته به توافق فنی و سیاسی درباره نظارت هسته‌ای است تا صرفاً کاهش اصطکاک‌های لجستیکی."
+        ],
+        "impact": "ابهام در بازرسی‌های هسته‌ای به‌عنوان مانع اصلی، احتمال تأخیر یا شکنندگی توافق پایان جنگ را بالا می‌برد، حتی اگر در کوتاه‌مدت نشانه‌هایی از روان‌شدن مسیر حمل‌ونقل دیده شود.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.25,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
+        "clean_url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8407x4729+0+438/resize/1400/quality/85/format/jpeg/?url=http://npr-brightspot.s3.amazonaws.com/75/82/22f572474ec08d8512391774e197/ap26174197107950.jpg",
+        "timestamp": 1782232500.0
     },
     {
         "title_fa": "آتش اسرائیل در لبنان دو کشته بر جا گذاشت و «آتش‌بسِ مرتبط با ایران» را زیر آزمون برد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTRlSEpVZjJPTmVkR2hycHpnMERZa3dOSDBjZFVIcGhLd215UURpVkpsbmNpS3NBbVhSakF4cVM0VEV0ZUVpdGVZbGRUanJPcTBJT0J4RXlvLUZEa3BWVkszYWtXcEZrd253c3E5eEd0eHdwRWo3VlpBWm1TZUFKUE9MTVM",
         "image": null,
         "timestamp": 1781686800.0
-    },
-    {
-        "title_fa": "تکیه توافق احتمالی ترامپ درباره ایران به چند شرط کلیدی",
-        "title_en": "WSJ Politics Special Edition: Trump’s Iran Deal Will Hinge on These Things",
-        "summary": [
-            "این گزارشِ WSJ بر این محور می‌چرخد که هر توافق احتمالی با ایران، به «شرط‌ها/پیش‌شرط‌های مشخص» وابسته است؛ یعنی شکل‌دادن به دامنه امتیازدهی بدون این موارد عملاً ممکن نیست.",
-            "با توجه به ماهیت «شرط‌گذاری» در متن، پیام اصلی برای رژیم روشن است: توان مانور سیاسی و اقتصادی تهران برای پیشبرد اهدافش به میزان تحقق معیارهایی گره می‌خورد که طرف مقابل تعیین می‌کند (کاهش انعطاف‌پذیری رژیم در میز مذاکره).",
-            "چون جزئیات دقیقِ «این چیزها» در متن ارسالی موجود نیست، نمی‌توان درباره سطح سخت‌گیری، زمان‌بندی یا آثار مستقیم اقتصادی آن حکم قطعی داد؛ اما چارچوب کلی نشان می‌دهد که فشار خارجی و اجبارِ قراردادی محور کنترل‌کننده خواهد بود."
-        ],
-        "impact": "وابستگی توافق احتمالی به شروط مشخص، به‌طور ساختاری اهرم تصمیم‌گیری را از دست رژیم خارج می‌کند و ریسک بی‌ثباتی سیاسی/اقتصادی در صورت عدم تحقق معیارها را بالا می‌برد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "WSJ",
-        "url": "https://www.msn.com/en-us/politics/international-relations/wsj-politics-special-edition-trump-s-iran-deal-will-hinge-on-these-things/ar-AA25DsYt",
-        "clean_url": "https://www.msn.com/en-us/politics/international-relations/wsj-politics-special-edition-trump-s-iran-deal-will-hinge-on-these-things/ar-AA25DsYt",
-        "image": null,
-        "timestamp": 1781682758.0
-    },
-    {
-        "title_fa": "تأیید ترامپ بر فراخوان جی۷ برای درگیر شدن کشورهای بیشتر در «موافقت‌نامه ایران»؛ اما بدون قطعیت نهایی",
-        "title_en": "Iran deal: Trump backs G7 call for more countries to get involved",
-        "summary": [
-            "ترامپ از رأی رهبران جی۷ برای حمایت از «MOU ایران» پشتیبانی کرد و بر ضرورت یک توافق پیگیریِ قوی‌تر تأکید داشت، اما صراحتاً اعلام کرد این جمع‌بندی «نهایی» نیست.",
-            "این پیام یعنی مسیر دیپلماسی هنوز در مرحله طراحی باقی مانده و از نظر فشار خارجی، اثرگذاری آن به توافق تکمیلی وابسته است؛ هر تأخیر می‌تواند فرصت مانور سیاسی و اقتصادی بیشتری برای رژیم ایجاد کند.",
-            "فراخوان برای «درگیر شدن کشورهای بیشتر» نشان می‌دهد ائتلاف فشار/مذاکره قرار است گسترده‌تر شود تا شکاف‌های اجرای تعهدات کمتر شود؛ با این حال چون متن نهایی روشن نیست، ریسک فرسایش سیاسی و چندپاره شدن اجماع همچنان بالاست."
-        ],
-        "impact": "گسترش مشارکت بین‌المللی می‌تواند ظرفیت فشار را بالا ببرد، اما تأکید ترامپ بر «نهایی نبودن» یعنی نتیجه عملی هنوز قطعی نشده است.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "UPI",
-        "url": "https://www.upi.com/Top_News/World-News/2026/06/17/France-Iran-deal-Trump-backs-G7-call-for-wider-participation/4041781699540/",
-        "clean_url": "https://www.upi.com/Top_News/World-News/2026/06/17/France-Iran-deal-Trump-backs-G7-call-for-wider-participation/4041781699540",
-        "image": "http://www.bing.com/th?id=ONUT.EzQ4G-J6OkNJmIXprwxOKA&pid=News",
-        "timestamp": 1781680560.0
     }
 ]
