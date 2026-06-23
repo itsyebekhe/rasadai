@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آمریکا بخشی از تحریم‌های نفتی علیه ایران را کاهش داد؛ اما وضعیت پیشرفت هسته‌ای مبهم است",
+        "title_en": "U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy",
+        "summary": [
+            "طبق گزارش نیویورک‌تایمز، آمریکا در چارچوبی از «تسهیل تحریم‌ها» بخشی از محدودیت‌های مربوط به فروش نفت ایران را کمتر کرده است؛ یعنی فشار اقتصادیِ مستقیم بر درآمدهای نفتی کاهش می‌یابد.",
+            "هم‌زمان، گزارش تأکید می‌کند که پیشرفت درباره مسائل هسته‌ای «شفاف/روشن» نیست و برداشت از روند مذاکرات و توافقات می‌تواند متناقض باشد؛ این ابهام ریسکِ بازگشت دوبارهِ محدودیت‌ها را بالا می‌برد.",
+            "جمع‌بندی خبر این است که حتی اگر گام‌های اقتصادی برداشته شود، مسیر سیاسی-هسته‌ای همچنان در کنترل کامل قرار ندارد و همین وضعیت، برنامه‌ریزی اقتصادی و تصمیم‌گیری حکمرانی را ناپایدارتر می‌کند."
+        ],
+        "impact": "کاهش فشار تحریم نفتی می‌تواند کوتاه‌مدت به رژیم امکان تنفس مالی بدهد، اما ابهام در مسیر هسته‌ای، تضمین پایداری رفع تحریم‌ها را از بین می‌برد و زمینه بی‌ثباتی تصمیم‌گیری داخلی را حفظ می‌کند.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The New York Times",
+        "url": "https://www.msn.com/en-us/news/world/us-authorizes-iranian-oil-sales-amid-talks-on-final-peace-deal/ar-AA26gUvB",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-authorizes-iranian-oil-sales-amid-talks-on-final-peace-deal/ar-AA26gUvB",
+        "image": null,
+        "timestamp": 1782178250.0
+    },
+    {
         "title_fa": "اسرائیل از تقویت دست ایران در لبنان توسط ترامپ نگران است",
         "title_en": "Israel fears Trump is strengthening Iran's hand in Lebanon",
         "summary": [
@@ -106,6 +124,42 @@
         "clean_url": "https://www.wsj.com/opinion/israel-isnt-a-party-to-the-iran-deal-50b846a9",
         "image": null,
         "timestamp": 1782148740.0
+    },
+    {
+        "title_fa": "تحلیل تغییرات ریتوریک ترامپ درباره جنگ با ایران و پیامدهای آن",
+        "title_en": "We parsed Trump’s shifting rhetoric on the Iran war",
+        "summary": [
+            "طبق گزارش وال‌استریت ژورنال، ترامپ در ابتدا هدف را «برکندن رژیم در تهران»، «نابودی زرادخانه موشکی» و «کاهش برنامه هسته‌ای» اعلام کرده بود؛ یعنی چارچوب اظهاراتش مبتنی بر تضعیف ساختاری توان و بقای رژیم بود.",
+            "همان گزارش بر «نوسان/تغییر» در نگاه او به جنگ ایران تمرکز دارد و نشان می‌دهد که این اهداف اولیه به مرور در ادبیات او جابه‌جا شده‌اند؛ برای سیاست‌گذاری یعنی سیگنال ثبات و قابلیت پیش‌بینی برای تهران کاهش یافته است.",
+            "از زاویه فشار خارجی و تحمیل هزینه، تغییر لحن معمولاً به معنی بازتعریف ابزارها و سطح ریسک است: یا فشار سخت‌تر به سمت توان‌مندی‌های رژیم متمرکز می‌شود یا به سمت گزینه‌های محدودتر جابه‌جا می‌گردد؛ اما متن فعلی صرفاً «تغییر ریتوریک» را می‌گوید، نه تصمیم مشخص یا عملیات."
+        ],
+        "impact": "این تغییرات در ریتوریک، اگر به سیاست عملی تبدیل شود، می‌تواند محاسبات رژیم و اهرم‌های فشار را دگرگون کند—اما تا وقتی اقدام مشخص گزارش نشود، اثر واقعی بیشتر در سطح عدم قطعیت سیاسی است.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/we-parsed-trump-s-shifting-rhetoric-on-the-iran-war/ar-AA26iJWj",
+        "clean_url": "https://www.msn.com/en-us/news/world/we-parsed-trump-s-shifting-rhetoric-on-the-iran-war/ar-AA26iJWj",
+        "image": "http://www.bing.com/th?id=ONUT.oqxL4Yzfz7YWbiO3bKL4zw&pid=News",
+        "timestamp": 1782147600.0
+    },
+    {
+        "title_fa": "اختلافات جمهوری‌خواهان آمریکا بر سر توافق هسته‌ای ایران: تکرار همان ایرادها با تیم ترامپ",
+        "title_en": "What Republicans said about Obama’s Iran nuclear deal compared to Trump’s",
+        "summary": [
+            "خبر «Newsweek on MSN» می‌گوید جمهوری‌خواهانی که در زمان اوباما با توافق هسته‌ای ایران مخالفت کرده بودند، اکنون نیز با وجود تفاوت‌ها، درباره توافق/چارچوب موردنظر ترامپ نگرانی‌های مشابه مطرح می‌کنند.",
+            "نکته محوری گزارش این است که «اصطلاحات کلیدی» هنوز روشن نشده و همین ابهام باعث شده بخشی از اپوزیسیون سیاسی آمریکا همچنان منتقد بماند.",
+            "این وضعیت مستقیماً به نبود اجماع سیاسی پایدار در واشنگتن درباره مسیر آینده سیاست ایران اشاره دارد و نشان می‌دهد تصمیم‌های بعدی می‌تواند در معرض چرخش و فشار داخلی آمریکا قرار بگیرد."
+        ],
+        "impact": "ابهام در «شرط‌های کلیدی» و تداوم مخالفت‌های مشابه در اردوگاه جمهوری‌خواهان، ریسک بی‌ثباتی سیاسی در آمریکا را بالا می‌برد و احتمال تغییرات سریع در اجرای سیاست‌های مرتبط با ایران را افزایش می‌دهد.",
+        "tag": "سیاست_خارجی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Newsweek on MSN",
+        "url": "https://www.msn.com/en-us/news/politics/what-republicans-said-about-obama-s-iran-nuclear-deal-compared-to-trump-s/ar-AA26i0C8",
+        "clean_url": "https://www.msn.com/en-us/news/politics/what-republicans-said-about-obama-s-iran-nuclear-deal-compared-to-trump-s/ar-AA26i0C8",
+        "image": "http://www.bing.com/th?id=ONUT.1CKUYf44Uf78gVs-T5YZBA&pid=News",
+        "timestamp": 1782143266.0
     },
     {
         "title_fa": "آمریکا بخشی از تحریم‌های نفتی ایران را لغو کرد؛ پیام «گفت‌وگوهای امیدوارکننده» در روایت واشنگتن",
@@ -252,6 +306,24 @@
         "timestamp": 1782136860.0
     },
     {
+        "title_fa": "ادعاهای ترامپ درباره بازرسی‌های هسته‌ای؛ تکذیب ایران و ادامه بن‌بست ارتباطی در مذاکرات سوئیس",
+        "title_en": "Trump Says Iran Will Allow Nuclear Inspections—But Iran Denies New Commitments",
+        "summary": [
+            "ترامپ مدعی شد ایران «اجازه بازرسی‌های گسترده از تسلیحات عمده» را برای نظارت طولانی‌مدت بر «صداقت هسته‌ای» می‌پذیرد، اما سخنگوی وزارت خارجه ایران، اسماعیل بقایی، صراحتاً گفت ایران «هیچ تعهد جدیدی» نداده است.",
+            "JD Vance در سوئیس اعلام کرد از سرگیری دسترسی بازرسان آژانس بین‌المللی انرژی اتمی به ایران به‌عنوان «گام مهم» برای پایان برنامه تسلیحاتی در نظر گرفته می‌شود، در حالی که ایران آن را به‌عنوان تعهد الزام‌آور انکار می‌کند؛ حتی در دوره اخیر، آژانس پس از ضربات ژوئن سال قبل به سه تأسیسات کلیدیِ هدف‌گرفته‌شده، بازرسی انجام نداده و صرفاً گزارش شده بازرسی روتین در یک نیروگاه هسته‌ای انجام شده است.",
+            "این اختلاف روایی روی پس‌زمینه مذاکرات سطح‌بالا با میانجی‌گری پاکستان و قطر در چارچوب ۶۰ روزه برای کاهش تنش نظامی و پیگیری مسائل هسته‌ای مطرح می‌شود؛ هم‌زمان آمریکا ۶۰ روزه «لایسنس» تولید/حمل/فروش نفت صادر کرد و وعده‌هایی برای کاهش بخشی از تحریم‌ها و آزادسازی دارایی‌های مسدود را برای توافق نهایی مطرح کرده است."
+        ],
+        "impact": "اختلاف علنی درباره «تعهد جدید» باعث می‌شود توافق احتمالی بیش از آنکه شفافیت ایجاد کند، اهرم‌های مذاکره را برای هر دو طرف مبهم‌تر کند و زمان‌بندی ۶۰ روزه را پرریسک‌تر نشان دهد.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/saradorn/2026/06/22/trump-says-iran-will-allow-nuclear-inspections-but-iran-denies-new-commitments/",
+        "clean_url": "https://www.forbes.com/sites/saradorn/2026/06/22/trump-says-iran-will-allow-nuclear-inspections-but-iran-denies-new-commitments",
+        "image": null,
+        "timestamp": 1782135540.0
+    },
+    {
         "title_fa": "ونیس پیشرفت در مذاکرات صلح با ایران را مطرح کرد؛ کنگره نگران ارزش توافق و تهدیدهای ترامپ است",
         "title_en": "Vance Touts Progress in Iran Peace Talks as a Skeptical Congress Raises Concerns",
         "summary": [
@@ -358,6 +430,24 @@
         "clean_url": "https://newrepublic.com/post/212129/jd-vance-iran-trash-talk-trump-lucerne",
         "image": "http://www.bing.com/th?id=ONUT.8lzngCsv15CvXhI7tTYJyg&pid=News",
         "timestamp": 1782122340.0
+    },
+    {
+        "title_fa": "پیدا شدن ابعاد «اشتباه سیاسی» ترامپ درباره ایران؛ پایان جنگ را می‌خواهند، نه به خاطر اعتبار توافق",
+        "title_en": "The scale of Trump’s political blunder in Iran is coming into focus",
+        "summary": [
+            "یک نظرسنجی جدید CBS News-YouGov نشان می‌دهد ۷۸٪ آمریکایی‌ها خواهان پایان جنگ با ایران «همین الان» هستند، اما انگیزه‌شان نه اعتماد به توافق، بلکه خستگی از یک باتلاق سیاسی-عملی است.",
+            "فقط ۲۲٪ از پاسخ‌دهندگان می‌گویند توافق دولت ترامپ به نفع آمریکا است؛ در مقابل ۳۷٪ آن را به نفع ایران می‌دانند و ۴۱٪ نیز آن را برابر ارزیابی کرده‌اند.",
+            "با وجود اینکه برخی مشاوران ترامپ نتیجه نظرسنجی را به نفع خود تعبیر کرده‌اند، بدنه افکار عمومی هم‌زمان هم خواهان توقف جنگ است و هم تصویر روشنی از «پیروزی آمریکا» در این مسیر ندارد."
+        ],
+        "impact": "این شکاف بین «خواست توقف جنگ» و «عدم باور به برتری توافق» می‌تواند هزینه سیاسی دولت ترامپ را بالا ببرد و فضا را برای تصمیم‌های بعدی پرریسک‌تر کند.",
+        "tag": "تحلیل",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/06/22/politics/trump-iran-deal-poll",
+        "clean_url": "https://www.cnn.com/2026/06/22/politics/trump-iran-deal-poll",
+        "image": "http://www.bing.com/th?id=ONUT.GlLHlQDF7yTxFLR2OWEsHw&pid=News",
+        "timestamp": 1782121920.0
     },
     {
         "title_fa": "واشنگتن اجازه فروش نفت ایران به دلار را داد؛ تضعیف فوری اهرم فشار تحریمی",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.cnn.com/2026/06/16/politics/trump-obama-iran-money",
         "image": "http://www.bing.com/th?id=ONUT.8VSTCRBW15e6XsAWpSwy_g&pid=News",
         "timestamp": 1781607960.0
-    },
-    {
-        "title_fa": "توافق ادعایی ترامپ با ایران؛ آیا واقعاً «توافق» است یا فقط چارچوبی برای آینده؟",
-        "title_en": "Trump's Iran agreement raises a basic question: Is it actually a deal?",
-        "summary": [
-            "ترامپ در گزارش فاکس‌نیوز از «مذاکره‌زدایی» و عادی‌سازی روابط با ایران از طریق «مذکره/یادداشت» یاد می‌کند، اما طبق گفته مقامات، این سند فعلاً جایگزین توافق نهایی نمی‌شود.",
-            "دو گره اصلی که تعیین‌کننده رفتار ایران در برابر فشار خارجی است—رفع/تعدیل مؤثر تحریم‌ها و «محدودیت‌های هسته‌ای» یا «کنش‌های هسته‌ای»—به‌طور مشخص برای مذاکرات بعدی باقی مانده و در محتوای همین یادداشت حل نشده است.",
-            "نتیجه عملی: اگر بخش اصلیِ فشار (تحریم) و بخش حساسِ بازدارندگی (هسته‌ای) در این مرحله تعیین تکلیف نشود، این توافق عملاً بیشتر یک اعلام سیاسی/پیش‌مذاکره است تا معامله‌ای با اثر فوری و قابل راستی‌آزمایی."
-        ],
-        "impact": "تا زمانی که رفع واقعی تحریم‌ها و تعهدات هسته‌ای در متن نهایی و قابل راستی‌آزمایی تثبیت نشود، ساختار فشار خارجی همچنان اهرم تعیین‌گر برای توازن قدرت و پایداری سیاست داخلی ایران خواهد ماند.",
-        "tag": "تحریم‌ها",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-s-iran-agreement-raises-a-basic-question-is-it-actually-a-deal/ar-AA25NZBF",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-s-iran-agreement-raises-a-basic-question-is-it-actually-a-deal/ar-AA25NZBF",
-        "image": "http://www.bing.com/th?id=ONUT.9r_kIPcbtCvbcHu-C22RKw&pid=News",
-        "timestamp": 1781607819.0
-    },
-    {
-        "title_fa": "چگونه اسرائیل می‌تواند مذاکرات صلح ایران را پیچیده کند؛ پیوندی با رخدادهای دیگر (جام جهانی)",
-        "title_en": "How Israel could complicate Iran peace negotiations. And, World Cup highlights",
-        "summary": [
-            "منبع VPM بدون ارائه جزئیات مشخص، صرفاً به احتمال اثرگذاری اسرائیل بر روند «مذاکرات صلح» ایران اشاره می‌کند، اما هیچ اطلاعات قابل راستی‌آزمایی درباره اقدام، زمان‌بندی یا ابزار مشخص ارائه نمی‌دهد.",
-            "در همین گزارش، بخش دیگری به «هایلایت‌های جام جهانی» اختصاص دارد که ارتباط مستقیم و مستندی با مسئله مذاکرات صلح ندارد و بیشتر جنبه سرگرمی/رسانه‌ای دارد تا تحلیل راهبردی.",
-            "با توجه به نبود داده‌های مشخص در متن ارسالی، نمی‌توان پیامدهای اقتصادی، فشار خارجی یا شکل‌گیری تنش عملیاتی را به این گزارش نسبت داد؛ تنها می‌توان گفت موضوع «پیچیده‌سازی مذاکرات» در سطح سناریو/نگرانی مطرح شده است."
-        ],
-        "impact": "اثرگذاری اسرائیل بر مذاکرات، در این متن صرفاً در حد طرح نگرانی باقی می‌ماند و بدون جزئیات نمی‌توان پیامد سیاسی-امنیتی مشخصی را نتیجه گرفت.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": 0.0,
-        "source": "VPM",
-        "url": "https://www.wwno.org/npr-news/2026-06-16/how-israel-could-complicate-iran-peace-negotiations-and-world-cup-highlights",
-        "clean_url": "https://www.wwno.org/npr-news/2026-06-16/how-israel-could-complicate-iran-peace-negotiations-and-world-cup-highlights",
-        "image": null,
-        "timestamp": 1781607180.0
-    },
-    {
-        "title_fa": "مجدداً بالا گرفتن درگیری میان اسرائیل و حزب‌الله، می‌تواند توافق آمریکا-ایران را به بن‌بست بکشاند",
-        "title_en": "Renewed fighting between Israel and Hezbollah could scupper the U.S-Iran deal",
-        "summary": [
-            "طبق گزارش NBC News، تشدید دوباره درگیری اسرائیل و حزب‌الله تهدید می‌کند که زمینه اجرای توافق آمریکا-ایران از بین برود.",
-            "ریسک اصلی این است که درگیری منطقه‌ایِ فعال، محاسبات طرفین را برای امتیازدهی/اجرای تعهدات دچار اختلال کند و مسیر توافق را سیاسی و امنیتی پرهزینه‌تر سازد.",
-            "این خبر مستقیماً به پیوند میان وضعیت میدانی در منطقه و سرنوشت یک توافق سیاسی-دیپلماتیک اشاره دارد، بدون اینکه جزئیات فنی یا زمان‌بندی تازه‌ای از خودِ معامله ارائه کند."
-        ],
-        "impact": "بالا رفتن تنش بین اسرائیل و حزب‌الله می‌تواند اجرای توافق آمریکا-ایران را با مانع عملی و سیاسی جدی مواجه کند.",
-        "tag": "منطقه",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFlSMVNKS3U2NEdTLWRUSEh6MlJjMFBMLVRJZHUxdXExbDdiMnJRZnRiTl9oRGFZRnVGNGMwTjF3bEt2dVFYaHY1UTEwS19iV0h4MWZVS2o1Rkpyb0hPS0dBeFNfMzZhS291ZjNsdUxfdFdpVzhya0poMDFQcld2Nkl5S2lvbDdBNV9MX3BCRlk5UlZaNS1ZWVhPeEdNNjI2eXJDLXE5UkZqV2NXWFN0dFNpZG1UUG8?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaFlSMVNKS3U2NEdTLWRUSEh6MlJjMFBMLVRJZHUxdXExbDdiMnJRZnRiTl9oRGFZRnVGNGMwTjF3bEt2dVFYaHY1UTEwS19iV0h4MWZVS2o1Rkpyb0hPS0dBeFNfMzZhS291ZjNsdUxfdFdpVzhya0poMDFQcld2Nkl5S2lvbDdBNV9MX3BCRlk5UlZaNS1ZWVhPeEdNNjI2eXJDLXE5UkZqV2NXWFN0dFNpZG1UUG8",
-        "image": null,
-        "timestamp": 1781605860.0
-    },
-    {
-        "title_fa": "ترامپ می‌گوید جزئیات «توافق صلح با ایران» را می‌تواند به کنگره بدهد",
-        "title_en": "Trump signals he could send details of Iran deal to Congress",
-        "summary": [
-            "ترامپ اعلام کرد در صورت تمایل، متن «یادداشت تفاهم» توافق جدید با ایران را برای بررسی به کنگره ارسال می‌کند؛ زمان دقیق ارائه مشخص نشده است.",
-            "شماری از نمایندگان، از جمله جمهوری‌خواهان، می‌گویند پیش از نهایی شدن باید امکان بررسی جدی داشته باشند؛ جان تونه گفته هنوز بریف نشده و چاک شومر خواستار شفاف‌سازی برای مردم است.",
-            "حامیان و منتقدان داخل اردوگاه ترامپ هم تردید دارند؛ از جمله لیندزی گراهام درباره میزان پایبندی ایران به تعهدات ابراز نگرانی کرده و چارچوب تازه می‌تواند جنگ‌افروزی/درگیری میان آمریکا و ایران را که از فوریه آغاز شده، موقتاً متوقف کند."
-        ],
-        "impact": "باز شدن مسیر بررسی کنگره، ریسک کند شدن یا بازتعریف روند توافق را بالا می‌برد و در عمل می‌تواند ابزار فشار سیاسی داخلی آمریکا علیه هرگونه امتیازدهی را تقویت کند.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/16/trump-iran-deal-congress.html",
-        "clean_url": "https://www.cnbc.com/2026/06/16/trump-iran-deal-congress.html",
-        "image": "http://www.bing.com/th?id=ONUT.MOIk0RuVJ6ZjuJsn6KTe-g&pid=News",
-        "timestamp": 1781603880.0
-    },
-    {
-        "title_fa": "پایان جنگ در ایران و تهدید «شکست باشکوه» برای اسرائیل",
-        "title_en": "The end of the war in Iran threatens “glorious failure” for Israel",
-        "summary": [
-            "مقاله به این نکته می‌پردازد که اگر جنگ در ایران پایان بگیرد، پروژه محاسباتی اسرائیل برای مهار یا تضعیف رژیم می‌تواند نتیجه‌ای معکوس و ناکام تلقی شود.",
-            "چارچوب گزارش بر فاصله میان انتظارهای سیاسی-امنیتی اسرائیل و پیامد واقعیِ پایان درگیری‌ها تاکید دارد؛ یعنی توقف جنگ، لزوماً به اهداف اعلامی طرف مقابل نمی‌رسد.",
-            "متن، با تمرکز بر «تهدید شکست باشکوه»، عملاً هشدار می‌دهد که سناریوهای طولانی‌مدت جنگ به نفع اسرائیل نبود و پایان جنگ می‌تواند روایت پیروزی آن را شکننده کند."
-        ],
-        "impact": "اگر جنگ در ایران واقعاً به پایان برسد، ابزار فشار و اهرم‌های زمانی که اسرائیل بر آن حساب می‌کرد تضعیف می‌شود و ارزیابی «موفقیت» امنیتی‌اش زیر سؤال می‌رود.",
-        "tag": "تحلیل",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "The Economist",
-        "url": "https://www.economist.com/middle-east-and-africa/2026/06/16/the-end-of-the-war-in-iran-threatens-glorious-failure-for-israel",
-        "clean_url": "https://www.economist.com/middle-east-and-africa/2026/06/16/the-end-of-the-war-in-iran-threatens-glorious-failure-for-israel",
-        "image": null,
-        "timestamp": 1781602202.0
     }
 ]
