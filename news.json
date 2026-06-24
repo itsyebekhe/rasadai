@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "رأی سنا به پایان‌دادن مستقیم جنگ علیه ایران و توبیخ ترامپ بابت اختیارات جنگی",
+        "title_en": "Senate Votes to Direct End to Iran War, Rebuking Trump on War Powers",
+        "summary": [
+            "طبق گزارش، سنای آمریکا رأی داده است تا روند «پایان‌دادن جنگ علیه ایران» به‌صورت مستقیم دنبال شود و در همان چارچوب، سیاست ترامپ در مورد War Powers (اختیارات جنگی) مورد سرزنش قرار گرفته است.",
+            "این اقدام به معنی فشار حقوقی/سیاسی تازه از داخل آمریکا بر تصمیم‌گیری اجرایی دولت درباره ورود یا ادامه درگیری است؛ یعنی امکان مانور سیاسی برای ادامه جنگ محدودتر می‌شود.",
+            "در نبود جزئیات بیشتر درباره سازوکار اجرایی یا زمان‌بندی، اثر اصلی گزارش در سطح «مهار اختیارات» و تغییر جهت سیاست واشنگتن نسبت به جنگ علیه ایران است، نه یک تغییر اقتصادی یا امنیتی مشخص در متن."
+        ],
+        "impact": "این رأی می‌تواند مسیر تصمیم‌گیری آمریکا را علیه استمرار درگیری با ایران تنگ‌تر کند و ریسک تشدید درگیری را کاهش دهد، اما متن به اقدامات عملی دقیق اشاره نمی‌کند.",
+        "tag": "تحریم",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "The New York Times",
+        "url": "https://www.usatoday.com/story/news/politics/2026/05/20/susan-collins-republicans-vote-to-end-iran-war-whats-next/90174871007/",
+        "clean_url": "https://www.usatoday.com/story/news/politics/2026/05/20/susan-collins-republicans-vote-to-end-iran-war-whats-next/90174871007",
+        "image": null,
+        "timestamp": 1782303000.0
+    },
+    {
+        "title_fa": "جنگ و پیامدها: یک چارچوب تحلیلی بدون گزارش رویداد مشخص",
+        "title_en": "War and Consequences",
+        "summary": [
+            "متن ارائه‌شده صرفاً معرفی نویسنده (Eliot A. Cohen) در The Atlantic است و هیچ رخداد، اقدام نظامی، تحریم یا اتفاق منطقه‌ای به‌طور مشخص گزارش نشده است.",
+            "از آن‌جا که محتوای واقعی مقاله/گزارش در اختیار نیست، نمی‌توان پیامدهای قابل انتساب به رژیم، اقتصاد یا اعتراضات داخلی را بر اساس شواهد مشخص تحلیل کرد.",
+            "صرفاً می‌توان گفت تمرکز احتمالی عنوان («War and Consequences») بر پیوند جنگ و پیامدهاست، اما در داده‌های فعلی هیچ ارتباطی با ایران یا بازیگران مشخص قابل اثبات وجود ندارد."
+        ],
+        "impact": "در نبود متن تحلیلی یا گزارش رویداد، اثر سیاسی/امنیتی یا اقتصادی قابل ارزیابی نیست.",
+        "tag": "تحلیل",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/ideas/2026/06/iran-war-consequences/687669/",
+        "clean_url": "https://www.theatlantic.com/ideas/2026/06/iran-war-consequences/687669",
+        "image": null,
+        "timestamp": 1782295200.0
+    },
+    {
         "title_fa": "بازگشت بازرسی‌های آژانس در ایران؛ اهرم فشار آمریکا و خط قرمز نظامی تهران همزمان بالا گرفت",
         "title_en": "US-Iran War Live Updates: IAEA to resume Iran nuclear inspections after US-Iran accord",
         "summary": [
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSklNM1g3ZG9QYmFoMkJRS3o2T2ZRMTJ1azE5eG1YLU5TUXdEY1F5TkFBU01GMUt1UUstcHRrekJsOHBmRURqd2NTMVpzVVFoQlRPWHNvUVVQLU5ZRkJsNzZKNURTd01PQ1pubzFrR0UzdlMzbXU2RXBwLU9fT25GSU80UkRVcUlpWE9MOGhxYW4yS1lIbDJ3UkR5anJudnZPcDhhOHhqN3JxcWM",
         "image": null,
         "timestamp": 1781721216.0
-    },
-    {
-        "title_fa": "نیویورک‌تایمز: ترامپ «تسلیم بی‌قیدوشرط» خواست، ایران با آشوب اقتصادی پاسخ داد",
-        "title_en": "Trump Demanded Iran’s ‘Unconditional Surrender.’ He Got a Surprise Instead.",
-        "summary": [
-            "نیویورک‌تایمز می‌گوید ترامپ خواهان «تسلیم بی‌قیدوشرط» ایران بود، اما نتیجه برخلاف انتظار او رقم خورد و تقابل نشان داد ایران توان مدیریت پیامدهای فشار خارجی را دارد.",
-            "با وجود «تلفات قابل توجه» ایران در این درگیری، روایت اصلی مقاله این است که ایران از برخورد با یک قدرت نظامی برتر عبور کرد و قابلیت اثرگذاری بر فضای اقتصادی/اجتماعی را به‌عنوان ابزار بازدارنده به نمایش گذاشت.",
-            "جمع‌بندی مقاله این است که ایران «آشوب اقتصادی» را به‌عنوان سلاح به کار گرفته است؛ یعنی طرف مقابل با اعمال فشار صرفاً به فروپاشی فوری نرسیده و هزینه‌های انسانی/سیاسی و بی‌ثباتی اقتصادی برای هر دو طرف تشدید شده است."
-        ],
-        "impact": "این جمع‌بندی نشان می‌دهد اهرم فشار خارجی در کوتاه‌مدت به «تسلیم سریع» تبدیل نشده و ایران با ابزار اقتصادی، قدرت چانه‌زنی و دوام عملیاتی خود را تقویت کرده است.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html",
-        "clean_url": "https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html",
-        "image": "http://www.bing.com/th?id=ONUT.OjH0CWHok46SdQaQLFo0KA&pid=News",
-        "timestamp": 1781720460.0
-    },
-    {
-        "title_fa": "راهنمای غنی‌سازی اورانیوم در حالی‌که برنامه هسته‌ای ایران زیر ذره‌بین است",
-        "title_en": "A primer on uranium enrichment as Iran's nuclear program faces scrutiny",
-        "summary": [
-            "این گزارش یک پیش‌زمینه آموزشی درباره فرایند غنی‌سازی اورانیوم ارائه می‌کند و بر این تمرکز دارد که عملیات غنی‌سازی چگونه کار می‌کند و چرا برای برنامه هسته‌ای ایران حساسیت‌زا است.",
-            "در چارچوب «بررسی و حساسیت» پیرامون برنامه هسته‌ای، بحث روی توانمندی‌های فنی و مسیر رسیدن به مواد با کاربرد نظامی می‌چرخد (بدون اینکه در متن، شواهد جدید مشخص از اقدام یا حادثه ارائه شود).",
-            "نقطه کلیدی برای تحلیل امنیتی این است که هر سطح از پیشرفت یا شفافیت‌زدایی در زنجیره غنی‌سازی، خود محرکی برای فشار سیاسی و محدودسازی‌های بین‌المللی است؛ چون مبنای ارزیابی ریسک بر همان ظرفیت فنی است."
-        ],
-        "impact": "این نوع گزارش به‌جای خبر فوری، فضای تصمیم‌گیری سیاسی و نظارتی را حول داده‌های فنی تشدید می‌کند و می‌تواند فشارهای خارجی و هزینه‌های دیپلماتیک/تحریمی را افزایش دهد.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-ca/news/science/a-primer-on-uranium-enrichment-as-iran-s-nuclear-program-faces-scrutiny/ar-AA25SSKv",
-        "clean_url": "https://www.msn.com/en-ca/news/science/a-primer-on-uranium-enrichment-as-iran-s-nuclear-program-faces-scrutiny/ar-AA25SSKv",
-        "image": null,
-        "timestamp": 1781717802.0
     }
 ]
