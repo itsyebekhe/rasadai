@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "حمله ایران به یک کشتی در تنگه هرمز و ضربه به تلاش‌ها برای بازگرداندن ترافیک",
+        "title_en": "Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic",
+        "summary": [
+            "گزارش می‌گوید ایران در تنگه هرمز به یک کشتی حمله کرده و این اقدام مستقیماً تلاش‌ها برای احیای جریان عادی کشتیرانی و بازگرداندن «ترافیک» را مختل کرده است.",
+            "اثر فوری چنین حمله‌ای، افزایش ریسک دریانوردی و اختلال عملیاتی در مسیرهای تجاری منطقه است؛ یعنی حتی اگر هدف صرفاً یک رخداد محدود باشد، نتیجه آن به بی‌ثباتی محیط عملیاتی برای همه بازیگران تجاری تبدیل می‌شود.",
+            "این رویداد با هدف‌های اعلامی برای «بازگرداندن ترافیک» در تضاد است و نشان می‌دهد که سیاست بازدارندگی و کنترل کریدورهای کلیدی از مسیر فشار میدانی دنبال می‌شود، نه از مسیر کاهش تنش."
+        ],
+        "impact": "این حمله می‌تواند با افزایش ناامنی در تنگه هرمز، هزینه و ریسک تجارت را بالا ببرد و روند احیای ترافیک را برای مدت قابل‌توجه کند کند.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+        "clean_url": "https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html",
+        "image": null,
+        "timestamp": 1782424937.0
+    },
+    {
+        "title_fa": "حمله ایران به یک کشتی باری؛ آزمون عملی «توافق ترامپ» برای بازگشایی تنگه",
+        "title_en": "Exclusive | Iran Attacks Cargo Ship, Testing Trump’s Deal to Reopen Strait",
+        "summary": [
+            "طبق گزارش WSJ، ایران به یک کشتی باری حمله کرده تا اثر عملی بر سرنوشت مسیرهای دریایی و اجرای ادعایی «توافق ترامپ» برای بازگشایی تنگه را محک بزند.",
+            "این اقدام یک پیام فشار مستقیم به محیط تصمیم‌گیری ایالات متحده و بازیگران تجاری است: واشنگتن باید نشان دهد می‌تواند ریسک دریایی و هزینه بیمه/حمل‌ونقل را مهار کند یا نه.",
+            "از منظر رژیم، چنین آزمایشی به تهران امکان می‌دهد میزان امتیازگیری از مذاکرات را در میدان بسنجد—بدون اعلام رسمی پایان تنش یا تغییر رفتار."
+        ],
+        "impact": "این حمله می‌تواند مسیر تنگه را به سمت ناایمنی و افزایش ریسک عملیاتی سوق دهد و معامله روی کاغذ را به آزمون قدرت در دریا تبدیل کند.",
+        "tag": "دریایی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjg1OGdZT3JUNkFvb1UwSURFSDJHVXowZVItTUpmZnl6TWRFeVNab1RXcVM5ckFKREs4eWVzSDF1Q1RTWkRQZDhtVTVSaDJNUUdkVjdXQU9wVl9mYnMxRWkyNlNmRU5BbGpxM3ZJV1NpTFBTay1sWWYzVGJReTFWbnBFaERwTl85dXU2SHhlcS1HYlc2aW0zTWw2THBLWFBEazZ2SzI2QUZWWU0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUjg1OGdZT3JUNkFvb1UwSURFSDJHVXowZVItTUpmZnl6TWRFeVNab1RXcVM5ckFKREs4eWVzSDF1Q1RTWkRQZDhtVTVSaDJNUUdkVjdXQU9wVl9mYnMxRWkyNlNmRU5BbGpxM3ZJV1NpTFBTay1sWWYzVGJReTFWbnBFaERwTl85dXU2SHhlcS1HYlc2aW0zTWw2THBLWFBEazZ2SzI2QUZWWU0",
+        "image": null,
+        "timestamp": 1782421440.0
+    },
+    {
         "title_fa": "جمع‌بندی نظر واشنگتن‌پست درباره نتیجه «جنگ ایران» از نگاه یک کارشناس هسته‌ای",
         "title_en": "Opinion | A top nuclear expert on what the Iran war accomplished",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://www.washingtonpost.com/opinions/2026/06/25/is-iran-stronger-now-nuclear-expert-what-war-accomplished",
         "image": null,
         "timestamp": 1782419632.0
+    },
+    {
+        "title_fa": "هشدار روبیو درباره عوارض هرمز؛ بیانیه مشترک آمریکا و کشورهای خلیج برای مهار «سیاست هزینه‌گذاری» علیه آبراه بین‌المللی",
+        "title_en": "Rubio issues Hormuz toll warning as he wraps up Gulf visit",
+        "summary": [
+            "مارکو روبیو در نشست وزرای شورای همکاری خلیج فارس در بحرین هشدار داد عوارض یا محدودیت‌های احتمالی ایران برای عبور کشتی‌ها از تنگه هرمز می‌تواند به «الگو» و سپس گسترش جهانی تبدیل شود؛ او آن را تهدیدی علیه آبراهه‌های بین‌المللی دانست.",
+            "پس از نشست، آمریکا و کشورهای خلیج در بیانیه مشترک هرگونه عوارض یا محدودیت بر ترانزیت هرمز از سوی ایران را رد کردند و اعلام کردند هرگونه معامله با تهران باید به پایبندی ایران به مفاد «تفاهم‌نامه (MoU)» با آمریکا وابسته و قابل بازگشت باشد.",
+            "این موضع‌گیری با شرط‌گذاری امنیتی همراه شد: توقف «رفتار بی‌ثبات‌کننده» که در بیانیه به موشک‌های بالستیک، پهپادها و حمایت از گروه‌های متحد منطقه‌ای اشاره می‌شود، همراه با تأکید بر بازگشایی کامل و عبور آزاد و بدون مانع از تنگه هرمز."
+        ],
+        "impact": "این پیام سیاسی-امنیتی با تمرکز روی هزینه‌گذاری ایران برای هرمز، اهرم اقتصادی احتمالی تهران را به کانون اختلاف تبدیل می‌کند و ریسک تبدیل شدن یک اقدام محدود به پرونده‌ای فراگیر در آبراه‌های جهانی را بالا می‌برد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/politics/articles/rubio-tells-gulf-allies-iran-105944636.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/rubio-tells-gulf-allies-iran-105944636.html",
+        "image": null,
+        "timestamp": 1782419498.0
     },
     {
         "title_fa": "سازمان ملل طرح تخلیه تنگه هرمز را پس از گزارش حمله توسط یک کشتی متوقف کرد",
@@ -178,6 +232,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/irgc-warns-against-new-hormuz-route-for-ships-what-we-know/ar-AA26wNaj",
         "image": null,
         "timestamp": 1782398198.0
+    },
+    {
+        "title_fa": "فرمانده بازنشسته نیروی دریایی آمریکا: ایران قابل اعتماد نیست و تهدید اخذ میلیاردها دلار هزینه از کشتی‌های تنگه هرمز مطرح است",
+        "title_en": "Iran cannot be trusted: Retired naval commander",
+        "summary": [
+            "فرمانده بازنشسته نیروی دریایی آمریکا، کرک لیپولد، در گفت‌وگو با فاکس نیوز به برنامه ایران برای تحمیل «هزینه‌های میلیاردی» بر کشتی‌های تجاری که از تنگه هرمز عبور می‌کنند اشاره می‌کند.",
+            "مارکو روبیو، وزیر خارجه آمریکا، این اقدام را در چارچوب «غیرقابل‌اعتماد بودن ایران» ارزیابی می‌کند (بخش پایانی متن فقط به این حکم اشاره دارد و جزئیات بیشتری ارائه نمی‌دهد).",
+            "این روایت بیشتر بر کارکرد اقتصادی-امنیتی فشار از مسیر راهبرد گلوگاه آبی (تنگه هرمز) تمرکز دارد؛ یعنی افزایش ریسک و هزینه برای حمل‌ونقل بین‌المللی می‌تواند به بی‌ثباتی و فشار مالی علیه بازیگران تجاری منجر شود، حتی اگر متن هیچ شاهد اجرایی مشخصی ارائه نکند."
+        ],
+        "impact": "اگر چنین سیاست هزینه‌گذاری عملیاتی شود، اثر مستقیم آن افزایش هزینه و ریسک ترانزیت در تنگه هرمز و تشدید فشارهای سیاسی-اقتصادی خواهد بود.",
+        "tag": "هرمز",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "FOX News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-cannot-be-trusted-retired-naval-commander/vi-AA26y77q",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-cannot-be-trusted-retired-naval-commander/vi-AA26y77q",
+        "image": "http://www.bing.com/th?id=ONUT.w1SuDdUAfhDqrrsPk-78TA&pid=News",
+        "timestamp": 1782392377.0
     },
     {
         "title_fa": "خطر توافق آتش‌بس آمریکا-ایران در آن چیزی است که حذف می‌کند",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/pope-welcomes-us-iran-deal-hopes-for-strengthened-trust-security-and-stability/ar-AA25Utr5",
         "image": null,
         "timestamp": 1781836582.0
-    },
-    {
-        "title_fa": "احتمال گشایش پس از توافق با آمریکا؛ پنجره‌ای برای خروج رژیم از انزوای اقتصادی",
-        "title_en": "How Deal With U.S. Could Reconnect Iran to the Global Economy",
-        "summary": [
-            "این گزارش بر این محور است که ایران زیر سنگین‌ترین تحریم‌های جهان قرار داشته و هرگونه کاهش/برداشتن محدودیت‌ها می‌تواند دسترسی مالی و کانال‌های تجارت را به‌طور ساختاری باز کند.",
-            "برداشته شدن محدودیت‌ها، از منظر منافع اقتصادیِ کوتاه‌مدت، می‌تواند امکان جذب سرمایه، تسهیل نقل‌وانتقال پول و کاهش ریسک مالی برای شرکت‌ها را فراهم کند؛ یعنی یک محرک بالقوه برای جریان‌های اقتصادی.",
-            "با این حال، اتکای اصلی گزارش به «باز شدن مسیر» است و درباره سازوکارهای اجرایی، زمان‌بندی، یا تضمین ثبات اقتصادی/حکمرانی چیزی ارائه نمی‌دهد؛ بنابراین اثر آن در عمل می‌تواند نامنظم و وابسته به روند توافق باشد."
-        ],
-        "impact": "کاهش تحریم‌ها می‌تواند اقتصاد ایران را از تنگنای مالی خارج کند، اما بدون جزئیات اجرایی، میزان و پایداری اثر هنوز نامشخص است.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
-        "clean_url": "https://www.nytimes.com/2026/06/19/business/economy/iran-sanctions-oil.html",
-        "image": "http://www.bing.com/th?id=ONUT.Wo4E-8F9Xuv4vugl_5Gadg&pid=News",
-        "timestamp": 1781834640.0
-    },
-    {
-        "title_fa": "درگیری آتش‌بس‌گونه آمریکا و ایران برای دومین روز؛ تلاش برای «توافق با بمب»",
-        "title_en": "U.S. Trades Fire With Iran for Second Day in Bid to ‘Negotiate With Bombs’",
-        "summary": [
-            "براساس گزارش WSJ، آمریکا برای دومین روز متوالی درگیری مسلحانه/تبادل آتش با ایران داشته تا از مسیر فشار نظامی وارد روند مذاکره شود.",
-            "چارچوب اعلامی این اقدام «Negotiate With Bombs» است: اهرم‌سازی از طریق حمله/تهدید سخت، نه صرفاً کانال‌های دیپلماتیک معمول.",
-            "این روند عملاً ریسک تشدید سریع را بالا می‌برد و با توجه به ماهیت تبادل آتش، فشار خارجی مستقیماً به محاسبات امنیتی و هزینه‌های عملیاتیِ رژیم وارد می‌کند."
-        ],
-        "impact": "تداوم درگیری برای روز دوم، نشان‌دهنده ورود به فاز پرریسکِ فشار حداکثری با هدف وادار کردن به مذاکره است، اما هم‌زمان احتمال لغزش به درگیری بزرگ‌تر را بالا می‌برد.",
-        "tag": "تنش_نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "WSJ",
-        "url": "https://www.wsj.com/world/middle-east/u-s-launches-fresh-wave-of-strikes-against-iran-2a23d87b",
-        "clean_url": "https://www.wsj.com/world/middle-east/u-s-launches-fresh-wave-of-strikes-against-iran-2a23d87b",
-        "image": null,
-        "timestamp": 1781834335.0
-    },
-    {
-        "title_fa": "اظهارات دان برویللت: چارچوب آمریکا-ایران «بسیار کمک‌کننده» برای ایران",
-        "title_en": "Exclusive: Ex-Trump official: US-Iran framework is 'enormously helpful' to Iran",
-        "summary": [
-            "دان برویللت، پیش از این وزیر انرژی دولت ترامپ، می‌گوید چارچوب دیپلماتیک آمریکا-ایران «بسیار کمک‌کننده» است و آن را عاملی مثبت برای ایران ارزیابی می‌کند.",
-            "او تأکید می‌کند که این «شکست/گام دیپلماتیک» می‌تواند برای اقتصاد ایران که به گفته او درگیر فرسودگی ناشی از جنگ است، یک تغییر مهم به حساب بیاید.",
-            "این روایت مستقیماً پیام سیاسی-اقتصادی معامله را برجسته می‌کند: کاهش فشارهای محیطی و گشایش نسبی در دادوستد/توافقات می‌تواند اثر فوری بر وضعیت اقتصادی آسیب‌دیده ایران بگذارد."
-        ],
-        "impact": "اگر این چارچوب به کاهش اصطکاک‌های مالی و تجاری منجر شود، دولت ایران می‌تواند از آن برای ترمیم بخشی از هزینه‌های اقتصادی ناشی از جنگ و اختلالات بهره ببرد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/exclusive-ex-trump-official-us-iran-framework-is-enormously-helpful-to-iran/ar-AA261kcs",
-        "clean_url": "https://www.msn.com/en-us/news/politics/exclusive-ex-trump-official-us-iran-framework-is-enormously-helpful-to-iran/ar-AA261kcs",
-        "image": "http://www.bing.com/th?id=ONUT.7Cx6NEYzwpX417xszq8SsQ&pid=News",
-        "timestamp": 1781830826.0
-    },
-    {
-        "title_fa": "تاخیر در مذاکرات صلح نشان می‌دهد فاز بعدی هم همان‌قدر پرتنش خواهد بود",
-        "title_en": "Delayed talks show next phase of Iran peace talks will be just as bumpy as the first",
-        "summary": [
-            "CNN می‌گوید قرار بوده یک رویداد «تاریخی» با حضور همزمان معاون رئیس‌جمهور آمریکا و یک مقام ارشد سیاسی ایران برگزار شود، اما بخش «محصولی» این تماس‌ها از همان ابتدا با تاخیر و ناهماهنگی روبه‌رو شده است؛ نشانه‌ای از شکنندگی مسیر مذاکره.",
-            "ادامه مسیر به‌عنوان فازی که «همان‌قدر بَرف‌پاشیده/پر دست‌انداز» خواهد بود توصیف می‌شود، یعنی این مذاکرات به‌جای خروجی سریع، در معرض رفت‌وبرگشت سیاسی و اختلافات اجرایی باقی می‌ماند.",
-            "با توجه به اینکه روایت متن بر «تاخیر» و «بَسم‌کردنِ وعده‌ها» تمرکز دارد، نتیجه عملی برای رژیم و طرف مقابل احتمالاً بیشتر از جنس مدیریت زمان و فشار سیاسی است تا رسیدن به توافق پایدار."
-        ],
-        "impact": "تاخیر و پیش‌بینی‌شدن دشواری مرحله بعد، احتمال تحقق سریع توافق را کاهش می‌دهد و خودِ روند مذاکره را به منبع ادامه‌دار تنش سیاسی تبدیل می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/delayed-talks-show-next-phase-of-iran-peace-talks-will-be-just-as-bumpy-as-the-first/ar-AA262cSi",
-        "clean_url": "https://www.msn.com/en-us/news/world/delayed-talks-show-next-phase-of-iran-peace-talks-will-be-just-as-bumpy-as-the-first/ar-AA262cSi",
-        "image": "http://www.bing.com/th?id=ONUT.xQLHsl30XfSyYRdqpkwW8Q&pid=News",
-        "timestamp": 1781830713.0
     }
 ]
