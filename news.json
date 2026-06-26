@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "آمریکا حملات تازه علیه ایران را آغاز کرد",
+        "title_en": "U.S. Launches Fresh Attacks on Iran",
+        "summary": [
+            "گزارش WSJ می‌گوید ایالات متحده «حملات تازه» علیه ایران را اجرا کرده است، اما جزئیات نوع عملیات و محل/تأسیسات هدف در متن ارائه‌شده مشخص نیست.",
+            "این اقدام در چارچوب فشار خارجی عمل می‌کند و می‌تواند هزینه‌های امنیتی و عملیاتی رژیم را بالا ببرد، بدون اینکه از همین گزارش بتوان مشخص کرد آیا این فشار به تضعیف مستقیم توان تولید/صادرات یا فروپاشی اقتصادی منجر شده است.",
+            "با توجه به نبود اطلاعات تکمیلی در متن کوتاه، نمی‌توان درباره اثر آن بر اعتراضات داخلی یا واکنش بازیگران خارجی (روسیه، چین، کره‌شمالی) قضاوت دقیق کرد؛ محورِ قابل اتکا فقط افزایش تنش و ریسک تشدید است."
+        ],
+        "impact": "چون جزئیات در متن موجود نیست، اثر فوری را باید «افزایش ریسک تشدید و فشار امنیتی» دانست، نه یک سنجش قطعی از فروپاشی یا پیامد اقتصادی مشخص.",
+        "tag": "فشارخارجی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "WSJ",
+        "url": "https://www.msn.com/en-us/news/world/trump-says-iranian-attack-on-cargo-ship-was-violation-of-ceasefire-deal/ar-AA26D8KN",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iranian-attack-on-cargo-ship-was-violation-of-ceasefire-deal/ar-AA26D8KN",
+        "image": null,
+        "timestamp": 1782510300.0
+    },
+    {
+        "title_fa": "ادعای حمله تلافی‌جویانه آمریکا به ایران پس از حمله در تنگه هرمز",
+        "title_en": "Breaking News: The U.S. military said it launched strikes on Iran in retaliation for an Iranian attack on Thursday in the Strait of Hormuz. Follow live updates.",
+        "summary": [
+            "طبق گزارش منتشرشده، نیروی نظامی آمریکا اعلام کرده در پاسخ به «حمله ایرانی» در روز پنجشنبه در تنگه هرمز، اقدام به انجام حملات علیه ایران کرده است.",
+            "این روایت به‌صورت مستقیم وارد فاز تقابل نظامی می‌شود و سطح ریسک درگیری را به‌طور جدی بالا می‌برد؛ اما جزئیات مکان، اهداف و میزان خسارت در متن فعلی ارائه نشده است.",
+            "چون منبع تنها یک پست فیس‌بوک است و داده‌های قابل راستی‌آزمایی در اختیار نیست، باید این خبر به‌عنوان «ادعا» تا زمان انتشار اطلاعات رسمی/مستند ارزیابی شود."
+        ],
+        "impact": "در صورت تأیید، این اقدام می‌تواند به چرخه تلافی‌جویانه فوری منجر شود و بی‌ثباتی امنیتی در مسیرهای حیاتی منطقه را تشدید کند.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "facebook.com",
+        "url": "https://www.msn.com/en-us/news/world/us-strikes-targets-in-iran-after-drone-attack-on-cargo-ship/ar-AA26DW06",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-strikes-targets-in-iran-after-drone-attack-on-cargo-ship/ar-AA26DW06",
+        "image": null,
+        "timestamp": 1782508794.0
+    },
+    {
+        "title_fa": "ادعای آمریکا درباره حمله به اهداف ایران پس از حمله به کشتی باری در تنگه هرمز",
+        "title_en": "US says it struck Iran targets after attack on cargo ship in the strait of Hormuz",
+        "summary": [
+            "طبق گزارش گاردین، آمریکا اعلام کرده پس از حمله به یک کشتی باری در تنگه هرمز، به «اهدافی در ایران» حمله کرده است؛ جزئیات عملیاتی یا تأیید مستقل در متن ارائه نشده است.",
+            "این اقدام فشار خارجی مستقیم را به سطح درگیری نظامی می‌برد و ریسک تشدید چرخه انتقام‌جویی در منطقه را بالا می‌برد؛ از منظر ثبات رژیم، چنین ضربه‌هایی می‌تواند هزینه‌های امنیتی و اختلال در محاسبات امنیتی را افزایش دهد.",
+            "در سطح اقتصادی، تنگه هرمز گلوگاه تجارت است؛ هرگونه تشدید تنش می‌تواند به افزایش ریسک کشتیرانی، بی‌ثباتی درآمدهای ارزی و فشار بیشتر بر اقتصاد متکی به تجارت آسیب‌دیده منجر شود، هرچند اعداد یا پیامدهای فوری در گزارش ذکر نشده است."
+        ],
+        "impact": "این اعلامیه نشان می‌دهد تنش دریایی از سطح تهدید به سطح اقدام مستقیم رسیده و احتمال تشدید سریع در تنگه هرمز را افزایش می‌دهد.",
+        "tag": "تنش_نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnM2Y2ZEN00yLWlOOGlycTlaVHZqZjU4dV9VQU5FMW9ia25FNENlVmMwUE5oSHhUNnE2WUktZTRzeUE0dkFJZDF4OEFNYmRVWGlDOVF6RzhFU2ZmdGpTSTNWN0h6R0k0amZCUFViZUJCZUxqSHpiWDUzaWJGNGpnVGs1ZTM0Vkt2N2VHaGRQQ2I1SUpjbm1nUzY3aUdqZHpta0Jyc3VIWlhoSDVSZTRjOE9ROTFreE9uSkNieU1keXZUTGtUSVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSnM2Y2ZEN00yLWlOOGlycTlaVHZqZjU4dV9VQU5FMW9ia25FNENlVmMwUE5oSHhUNnE2WUktZTRzeUE0dkFJZDF4OEFNYmRVWGlDOVF6RzhFU2ZmdGpTSTNWN0h6R0k0amZCUFViZUJCZUxqSHpiWDUzaWJGNGpnVGs1ZTM0Vkt2N2VHaGRQQ2I1SUpjbm1nUzY3aUdqZHpta0Jyc3VIWlhoSDVSZTRjOE9ROTFreE9uSkNieU1keXZUTGtUSVE",
+        "image": null,
+        "timestamp": 1782508020.0
+    },
+    {
         "title_fa": "آمریکا و اسرائیل با لبنان چارچوب توافق اعلام کردند تا ایران را کنار بزنند",
         "title_en": "US, Israel, Lebanon announce framework agreement, boxing out Iran",
         "summary": [
@@ -88,6 +142,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWRNblB4TUdueEU5Mmptd3lZNDBpeDMzYlU4YjlMdVB1ZEJCX0RfUUI4N0F0WHhJM2dzWHliZ1NoVGNaUUtVQ3BtYzFvd253ZXdUMjhia2h3Nnl6dTI5NUFJVW5DN1I0YVRrcVZmaDVaNGxmZ3h5dDdoaVFGSjJJMDN5VGI",
         "image": null,
         "timestamp": 1782494808.0
+    },
+    {
+        "title_fa": "آیا لغو/تسکین تحریم‌ها رژیم ایران را نجات می‌دهد یا نابود؟ سه سناریوی آینده بر پایه بحران داخلی",
+        "title_en": "Will sanctions relief save or destroy the Iranian regime? The domestic crisis and three possible futures",
+        "summary": [
+            "این گزارش «مذاکره/چارچوب پیشنهادی اسلام‌آباد» را بر مبنای تزریق حدود ۳۰۰ میلیارد دلار برای اولویت‌دادن به بقای رژیم می‌بیند و می‌گوید شرط اصلی، جهت‌گیری این منابع است: کاهش فشار اقتصادی و نظم‌یابی یا بازتولید سریع توان‌های موشکی.",
+            "هسته تحلیل روی شکاف «دستگاه امنیتی-نظامی» و «بحران معیشت» است: اگر پول حاصل از تسکین تحریم‌ها اول از همه به تقویت موشک‌ها برسد، در حالی‌که صف‌های نان و خطوط بحران اقتصادی پابرجا می‌ماند، هزینه سیاسی-اجتماعی رژیم بالا می‌رود و ممکن است به فروپاشی شتاب بدهد.",
+            "سه آینده محتمل از همین تقاطع شکل می‌گیرد: سناریوی نجات (تقویت توان مقابله و همزمان تخفیف واقعی فشار معیشتی)، سناریوی فرسایش (پول زیاد اما توزیع نادرست/سیاست اشتباه و ادامه نارضایتی)، و سناریوی نابودی (سرمایه‌گذاری بیشتر در توان نظامی در برابر کاهش ناکافی فشار اقتصادی که مشروعیت را سریع‌تر می‌کاهد)."
+        ],
+        "impact": "نقطه تعیین‌کننده این است که منابع آزادشده از «تسکین تحریم‌ها» به جای آرام‌کردن بحران داخلی، به سوخت‌رسانی به رقابت نظامی تبدیل شود یا نه.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.65,
+        "source": "SOFREP",
+        "url": "https://www.msn.com/en-us/money/general/will-sanctions-relief-save-or-destroy-the-iranian-regime-the-domestic-crisis-and-three-possible-futures/ar-AA26DaHr",
+        "clean_url": "https://www.msn.com/en-us/money/general/will-sanctions-relief-save-or-destroy-the-iranian-regime-the-domestic-crisis-and-three-possible-futures/ar-AA26DaHr",
+        "image": null,
+        "timestamp": 1782489634.0
     },
     {
         "title_fa": "چگونه ایران می‌تواند به سلاح هسته‌ای برسد؛ در دولت ترامپ",
@@ -646,6 +718,24 @@
         "clean_url": "https://www.msn.com/en-us/politics/international-relations/how-iran-devastated-an-american-naval-base-and-caused-a-us-recalculation/ar-AA26yCOW",
         "image": null,
         "timestamp": 1782435600.0
+    },
+    {
+        "title_fa": "اختلاف لحن و جهت‌گیری میان Vance و Rubio درباره ایران و اسرائیل",
+        "title_en": "Vance, Rubio strike different tone on Iran and Israel",
+        "summary": [
+            "طبق گزارش رویترز، JD Vance و Marco Rubio درباره اقدامات اسرائیل و اثر آن بر روند صلح موضع‌های متفاوت دارند: Vance تأکید می‌کند اقدامات اسرائیل می‌تواند تلاش‌های صلح را تضعیف کند، اما Rubio می‌گوید اسرائیل حق دارد از خود دفاع کند.",
+            "این تفاوت لحن به «اردوگاه‌های رقیب» در سیاست خارجی جمهوری‌خواهان نسبت داده شده و نشان می‌دهد حتی در میان متحدان سیاسی آمریکا نیز یک اجماع یکدست درباره خط‌مشی نسبت به ایران/اسرائیل شکل نگرفته است.",
+            "متن خبر جزئیات مشخصی درباره تحرکات اجرایی علیه ایران (مثل تحریم جدید، عملیات نظامی یا تصمیمات فنی) ارائه نمی‌کند و تمرکز اصلی بر شکاف روایی و جهت‌گیری سیاسی در سطح سخن و پیام است."
+        ],
+        "impact": "این اختلاف می‌تواند پیام‌های ضدونقیض به تهران و تل‌آویو منتقل کند و به شکل غیرمستقیم بر میزان پیش‌بینی‌پذیری سیاست آمریکا اثر بگذارد.",
+        "tag": "سیاست",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/us/vance-rubio-strike-different-tone-iran-israel-2026-06-26/",
+        "clean_url": "https://www.reuters.com/world/us/vance-rubio-strike-different-tone-iran-israel-2026-06-26",
+        "image": "http://www.bing.com/th?id=ONUT.24xBPo-1MSEfhfKy3jz6EA&pid=News",
+        "timestamp": 1782433200.0
     },
     {
         "title_fa": "حمله ایران به یک کشتی در تنگه هرمز و ضربه به تلاش‌ها برای بازگرداندن ترافیک",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-president-trump-pezeshkian-peace-mou-deal-netanyahu-france-israel-latest-news-liveblog-154670329",
         "image": null,
         "timestamp": 1781928005.0
-    },
-    {
-        "title_fa": "آمادگی برای مذاکرات فنی آمریکا-ایران در سوئیس زیر سایه جنگ لبنان و هشدار رسانه‌های نزدیک به سپاه درباره «تخلف عملی» از توافق",
-        "title_en": "US envoy heading to Switzerland as Lebanon fighting tests Iran agreement",
-        "summary": [
-            "فرستاده آمریکا، استیو ویتکاف، برای گفت‌وگوهای فنی با ایران به سوئیس می‌رود و جرد کوشنر نیز قرار است همراه او باشد؛ همزمان وزیر کشور پاکستان برای رایزنی با مقام‌های ایرانی با هدف سوق‌دادن تهران به گفت‌وگوهای سوئیس وارد ایران شده است.",
-            "در لبنان، حملات هوایی اسرائیل دوباره تشدید شده و دست‌کم ۱۶ نفر کشته شده‌اند؛ همزمان آتش‌بس اسرائیل-حزب‌الله که «دیروز» تمدید شده بود دوباره تحت آزمون قرار گرفته و رسانه‌های نزدیک به نیروهای تندرو ایرانی می‌گویند تحقق شروط این چارچوب عملاً مختل شده است.",
-            "رسانه نیمه‌رسمی تسنیم که به سپاه نزدیک تلقی می‌شود به عباس عراقچی هشدار داده به سفر اروپا/ملاقات با ویتکاف ادامه ندهد و استدلال می‌کند بند نخست «مکمنوراندوم» که خواستار توقف در همه جبهه‌ها از جمله لبنان است، عملاً و علناً نقض شده؛ این رسانه حتی می‌گوید ادامه گفت‌وگو با آمریکا می‌تواند عملاً مجوز تداوم نقض توافق را بدهد."
-        ],
-        "impact": "ترکیب تشدید جنگ لبنان با شروع مذاکرات فنی سوئیس، خطر «فرسایش اعتماد» و در نتیجه شکنندگی توافق آمریکا-ایران را بالا می‌برد، چون هر دو طرف می‌توانند از تخلف میدانی برای سخت‌گیری در مذاکرات داخلی استفاده کنند.",
-        "tag": "تحلیل-مذاکرات",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/06/20/world/live-news/iran-war-trump-israel-lebanon",
-        "clean_url": "https://www.cnn.com/2026/06/20/world/live-news/iran-war-trump-israel-lebanon",
-        "image": "http://www.bing.com/th?id=ONUT.WYX-1gGPhrtDxg9uEYt0Hg&pid=News",
-        "timestamp": 1781927520.0
-    },
-    {
-        "title_fa": "رویترز: امپراتوری اقتصادی سپاه اگر تحریم‌های آمریکا برداشته شود، سود اصلی را می‌برد",
-        "title_en": "Iranian Guards' business empire to win big if U.S. sanctions lifted",
-        "summary": [
-            "رویترز گزارش می‌کند که امپراتوری تجاری سپاه در صورت برداشته شدن تحریم‌های آمریکا، از نظر دسترسی به بازارها و منابع مالی «سود بزرگ» خواهد برد؛ یعنی گره امنیتی-اقتصادی رژیم به ظرفیت اقتصادی سپاه وصل است.",
-            "این چارچوب نشان می‌دهد تحریم‌های آمریکا صرفاً ابزار فشار سیاسی نیست؛ بلکه اهرم کاهش درآمد و محدودسازی کانال‌های معاملاتی است که بقای شبکه‌های اقتصادی سپاه را تغذیه می‌کند.",
-            "برداشتن تحریم‌ها می‌تواند رقابت اقتصادی را به نفع شبکه‌های وابسته به سپاه تغییر دهد و هزینه‌های انحراف منابع دولتی و رانت‌محوری را برای اقتصاد و جامعه بیشتر کند."
-        ],
-        "impact": "برداشتن تحریم‌های آمریکا به طور مستقیم انگیزه و توان مالی شبکه‌های سپاه را افزایش می‌دهد و پایداری سیاسی رژیم را از مسیر اقتصادی تقویت می‌کند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/iranian-guards-business-empire-to-win-big-if-us-sanctions-lifted/ar-AA266zbj",
-        "clean_url": "https://www.msn.com/en-us/news/world/iranian-guards-business-empire-to-win-big-if-us-sanctions-lifted/ar-AA266zbj",
-        "image": null,
-        "timestamp": 1781926804.0
-    },
-    {
-        "title_fa": "پس از کشته‌شدن ۴ نظامی اسرائیلی، اسرائیل و حزب‌الله برای تمدید آتش‌بس توافق کردند",
-        "title_en": "After 4 Israeli soldiers’ deaths, Israel and Hezbollah agree to renew ceasefire",
-        "summary": [
-            "طبق گزارش واشنگتن‌پست، کشته‌شدن ۴ سرباز اسرائیلی به عنوان محرک مستقیم، به آتش‌بس جدید میان اسرائیل و حزب‌الله انجامیده است.",
-            "این توافق نشان می‌دهد که طرف‌ها در سطح میدانی حاضر شده‌اند چرخه درگیری را با تمدید آتش‌بس متوقف یا کنترل کنند، نه اینکه ادامه تشدید را به‌عنوان گزینه اول انتخاب کنند.",
-            "با وجود این، چون خبر حول «تجدید» آتش‌بس است، نتیجه‌گیری پایدار بودن کاهش تنش را تضمین نمی‌کند و صرفاً بر مدیریت بحران موقت دلالت دارد."
-        ],
-        "impact": "این توافق، احتمال کاهش فوری درگیری‌های مرزی را بالا می‌برد اما بدون حل ریشه‌ای اختلاف‌ها، ریسک بازگشت خشونت همچنان باقی است.",
-        "tag": "آتش‌بس",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/world/after-4-israeli-soldiers-deaths-israel-and-hezbollah-agree-to-renew-ceasefire/ar-AA263hTw",
-        "clean_url": "https://www.msn.com/en-us/news/world/after-4-israeli-soldiers-deaths-israel-and-hezbollah-agree-to-renew-ceasefire/ar-AA263hTw",
-        "image": null,
-        "timestamp": 1781924553.0
-    },
-    {
-        "title_fa": "ایران از ۲۰۱۸ تا امروز: فروش نفت در بازار آزاد دوباره فعال شد—سرعت افزایش صادرات، تعیین‌کننده ثبات رژیم است",
-        "title_en": "Iran can now sell oil. How fast can it ramp up?",
-        "summary": [
-            "این گزارش اعلام می‌کند «توافق واشنگتن–تهران» اجازه فروش نفت ایران در بازار آزاد را برای نخستین‌بار از سال ۲۰۱۸ می‌دهد؛ یعنی یک گشایش مستقیم در محدودیت‌های فروش که قبلاً به شکل ساختاری مانع درآمدهای ارزی شده بود.",
-            "سؤال کلیدی گزارش «چقدر سریع می‌شود ظرفیت صادرات را بالا برد؟» است؛ چون سرعت افزایش فروش و تبدیل آن به درآمد واقعی، می‌تواند فشار مالی رژیم را کاهش دهد یا برعکس، در صورت ناتوانی عملیاتی، تنها وقفه‌ای کوتاه ایجاد کند.",
-            "از منظر فشار خارجی و پیامد داخلی، باز شدن مسیر فروش در بازار آزاد الزاماً به معنای بهبود فوری اقتصاد نیست؛ اما کاهش شدت محدودیت‌ها معمولاً به رژیم فرصت می‌دهد شکاف‌های بودجه‌ای را پوشش دهد و مدیریت مطالبات داخلی را موقتاً آسان‌تر کند."
-        ],
-        "impact": "باز شدن فروش نفت در بازار آزاد از نظر اقتصادی می‌تواند اهرم فشار خارجی را کمتر کند، اما میزان و سرعت عملیاتی‌کردن فروش تعیین می‌کند این دستاورد چه‌قدر برای ثبات مالی رژیم اثرگذار است.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/iran-can-now-sell-oil-how-fast-can-it-ramp-up/ar-AA267RoO",
-        "clean_url": "https://www.msn.com/en-us/money/markets/iran-can-now-sell-oil-how-fast-can-it-ramp-up/ar-AA267RoO",
-        "image": "http://www.bing.com/th?id=ONUT.iVepQyBZOtRepcaIp3I3Dw&pid=News",
-        "timestamp": 1781922600.0
-    },
-    {
-        "title_fa": "شکایت ایران به فیفا درباره محدودیت‌های سفر تیم ملی در جام جهانی ۲۰۲۶",
-        "title_en": "Iran to lodge FIFA complaint over World Cup travel restrictions",
-        "summary": [
-            "فدراسیون فوتبال ایران اعلام کرده به فیفا شکایت/اعتراض رسمی ارسال می‌کند چون محدودیت‌های سفر در آمریکا را «نابرابر» می‌داند؛ تیم برای هر سه بازی گروهی در آمریکا مجبور است از پایگاه خود در مکزیک رفت‌وبرگشت بسیار فشرده داشته باشد، چون ورود باید ظرف ۲۴ ساعت قبل از مسابقه انجام شود و همان روز هم کشور را ترک کند.",
-            "آمریکا این محدودیت‌ها را به «دلایل ایمنی» و ضرورت کنترل شرایط مربوط به ورود و امنیت نسبت می‌دهد؛ با این حال، سرمربی امیر غالنوی این وضعیت را عامل اختلال در برنامه آماده‌سازی دانسته و حتی از «مظلوم‌ترین تیم» بودن ایران در تورنمنت سخن گفته است.",
-            "یک مقام در کارگروه ویژه جام جهانی کاخ سفید (اندرو جولیانی) گفته حاضر است درباره چارچوب ورود ایران «مذاکره مجدد» کند و احتمال می‌دهد برای نزدیک‌تر شدن به تعادل رقابتی، زمان اقامت بیشتر در اطراف مسابقه‌ها بررسی شود؛ فیفا نیز فعلاً به درخواست اظهار نظر پاسخ فوری نداده است."
-        ],
-        "impact": "این پرونده، به‌جای یک مسئله صرفاً فوتبالی، می‌تواند مستقیماً روی آمادگی فنی و کیفیت رقابت تیم ایران اثر بگذارد و در صورت پیگیری فیفا به تغییر عملی شرایط سفر بینجامد.",
-        "tag": "ورزشی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/20/iran-to-lodge-fifa-complaint-over-world-cup-travel-restrictions.html",
-        "clean_url": "https://www.cnbc.com/2026/06/20/iran-to-lodge-fifa-complaint-over-world-cup-travel-restrictions.html",
-        "image": null,
-        "timestamp": 1781920560.0
     }
 ]
