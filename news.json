@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "آماده‌سازی انتقال پایگاه‌های خلیج فارس آسیب‌دیده به اسرائیل توسط آمریکا",
+        "title_en": "US considering moving Gulf bases damaged by Iran to Israel",
+        "summary": [
+            "بر اساس گزارش Middle East Eye، آمریکا در حال بررسی جابه‌جایی پایگاه‌های مستقر در حوزه خلیج فارس است که به ادعای گزارش، بر اثر اقدامات منتسب به ایران آسیب دیده‌اند و مقصد پیشنهادی، اسرائیل عنوان شده است.",
+            "این تصمیم در چارچوب فشار عملیاتی واشنگتن می‌تواند به معنای تغییر الگوی استقرار نیرو و کاهش آسیب‌پذیری زیرساخت‌های آمریکا در خلیج فارس باشد، بدون اینکه هنوز جزئیات اجرایی یا زمان‌بندی قطعی ارائه شود.",
+            "فعل‌وانفعالات منطقه‌ای محتمل است؛ چون چنین تغییری معمولاً پیام بازدارندگی/تهدید ضمنی به بازیگران منطقه‌ای منتقل می‌کند و می‌تواند واکنش طرف‌های درگیر را تشدید کند—اما گزارش، مدرک مستقیم از اقدام جدید یا تأیید رسمی ارائه نمی‌دهد."
+        ],
+        "impact": "انتقال یا بررسی انتقال پایگاه‌ها به اسرائیل، اهرم عملیاتی آمریکا در منطقه را بازتنظیم می‌کند و ریسک تشدید رقابت امنیتی را بالا می‌برد.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Middle East Eye",
+        "url": "https://www.msn.com/en-us/news/world/us-considering-moving-gulf-bases-hit-by-iran-westward-including-to-israel-report/ar-AA26AXj9",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-considering-moving-gulf-bases-hit-by-iran-westward-including-to-israel-report/ar-AA26AXj9",
+        "image": null,
+        "timestamp": 1782468683.0
+    },
+    {
+        "title_fa": "هزینه‌ «برجام» برای اسرائیل و انکار ضمنی کاخ سفید",
+        "title_en": "The Iran Deal Comes at a Cost to Israel. The White House Hasn’t Acknowledged It.",
+        "summary": [
+            "این گزارش تأکید می‌کند که اجرای «برجام» برای منافع اسرائیل هزینه‌دار است، اما کاخ سفید این موضوع را به‌طور شفاف و رسمی به رسمیت نشناخته است.",
+            "نکته محوری مقاله شکاف در روایت سیاسی است: واشنگتن مفروضات و تبعات احتمالی توافق را برای طرف اسرائیلی روشن نمی‌کند، در حالی که اثر آن می‌تواند مستقیم به محاسبات امنیتی اسرائیل ضربه بزند.",
+            "چارچوب کلی گزارش بر این استوار است که «هزینه» فقط یک ادعای تبلیغاتی نیست، بلکه پیامدهایی دارد که باید در سطح سیاست‌گذاری آمریکا پذیرفته و محاسبه شود—اما طبق متن، انجام نشده است."
+        ],
+        "impact": "این وضعیت یعنی تصمیم‌گیری آمریکا درباره توافق هسته‌ای بدون مدیریت روشن هزینه‌های امنیتی برای اسرائیل، ریسک تنش سیاسی و محاسبات اشتباه در آینده را بالا می‌برد.",
+        "tag": "برجام",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Council on Foreign Relations",
+        "url": "https://www.cfr.org/articles/the-iran-deal-comes-at-a-cost-to-israel-the-white-house-hasnt-acknowledged-it",
+        "clean_url": "https://www.cfr.org/articles/the-iran-deal-comes-at-a-cost-to-israel-the-white-house-hasnt-acknowledged-it",
+        "image": null,
+        "timestamp": 1782464400.0
+    },
+    {
         "title_fa": "توافق هسته‌ای؛ دسترسی بازرسان به ایران طبق گفته رئیس آژانس",
         "title_en": "Iran deal grants access to nuclear inspectors, IAEA chief says",
         "summary": [
@@ -16,6 +52,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-deal-grants-access-to-nuclear-inspectors-iaea-chief-says/ar-AA26Aglu",
         "image": null,
         "timestamp": 1782458370.0
+    },
+    {
+        "title_fa": "نتانیاهو: اسرائیل از جنوب لبنان عقب‌نشینی نخواهد کرد",
+        "title_en": "Netanyahu says Israel will not withdraw from southern Lebanon",
+        "summary": [
+            "بنیامین نتانیاهو اعلام کرده است که اسرائیل قصد عقب‌نشینی از جنوب لبنان را ندارد؛ یعنی خط اشغال/کنترل در این منطقه تثبیت می‌شود نه کاهش فشار.",
+            "این موضع، نشانه تشدید احتمالی عملیات و ادامه حضور نظامی است و می‌تواند چرخه تنش را در مرز لبنان–اسرائیل طولانی‌تر کند.",
+            "برای محاسبات ایران، استمرار حضور اسرائیل در جنوب لبنان یک متغیر راهبردی علیه محورهای نیابتی و شبکه‌های درگیر در آن جغرافیاست، چون میدان عملیاتی بازتر برای ضربه‌زنی می‌ماند."
+        ],
+        "impact": "این اعلام احتمال افزایش فشار نظامی و طولانی شدن درگیری در جنوب لبنان را بالا می‌برد و فضای مانور برای بازیگران منطقه‌ای را محدودتر می‌کند.",
+        "tag": "لبنان",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3M3FUdi1kVFh4UEZ2czdJOVpXY01pZWgzTUZxMVNkd2tMTDdWMEFwS3BzMGlCZk5DRXZqQTNSSnBiX0JZNEoxbFc3N1BiQ0tiWWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3M3FUdi1kVFh4UEZ2czdJOVpXY01pZWgzTUZxMVNkd2tMTDdWMEFwS3BzMGlCZk5DRXZqQTNSSnBiX0JZNEoxbFc3N1BiQ0tiWWc",
+        "image": null,
+        "timestamp": 1782457781.0
     },
     {
         "title_fa": "بازداشت متهم ایرانیِ تحت تعقیب آمریکا در مونته‌نگرو به اتهام پرونده هک مرتبط با سپاه",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.spectator.com.au/2026/06/iran-is-a-losers-victory",
         "image": null,
         "timestamp": 1781859300.0
-    },
-    {
-        "title_fa": "جنگ ایران: مذاکرات سوئیس لغو شد و ونس در آمریکا ماند",
-        "title_en": "Iran war: Switzerland talks called off, Vance stays in US",
-        "summary": [
-            "طبق DW، گفت‌وگوهای میانجی‌گرانه با محوریت سوئیس برای کاهش تنش در پرونده جنگ/بحران ایران، لغو شده است؛ یعنی سازوکار میانجی‌گری عملاً از دستور خارج شده.",
-            "هم‌زمان اعلام شده که ونس در آمریکا می‌ماند؛ این پیام سیاسی-عملی می‌دهد که مسیر توافق یا هماهنگی سریع خارج از کانال‌های برنامه‌ریزی‌شده پیش نمی‌رود.",
-            "لغو مذاکرات سوئیس به‌خودی‌خود شواهدی از تغییر جدی در ساختار فشار خارجی یا واکنش فوری اقتصادی ارائه نمی‌کند، اما می‌تواند نشانه تشدید بن‌بست دیپلماتیک و افزایش احتمال پیگیری گزینه‌های سخت‌تر باشد."
-        ],
-        "impact": "لغو مذاکرات میانجی‌گرانه سوئیس و ماندن ونس در آمریکا، بن‌بست دیپلماتیک را تقویت می‌کند و کانال‌های مهار بحران را محدودتر می‌سازد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "DW.com",
-        "url": "https://www.msn.com/en-gb/news/world/iran-war-switzerland-talks-called-off-vance-stays-in-us/ar-AA261uDC",
-        "clean_url": "https://www.msn.com/en-gb/news/world/iran-war-switzerland-talks-called-off-vance-stays-in-us/ar-AA261uDC",
-        "image": null,
-        "timestamp": 1781858925.0
-    },
-    {
-        "title_fa": "ایران در پی برتری‌جویی؛ اما چالش‌های جدی در راه است",
-        "title_en": "Analysis: A confident Iran is pressing its advantage, but challenges loom",
-        "summary": [
-            "رسانه‌های ایران با ادعای «شکست باشکوه» از آمریکا، هم‌زمان تهران را در حال استفاده از موقعیت جدید نشان می‌دهند: تلاش برای فروش سریع نفت ذیل «توافق صلح موقت» که هفته جاری امضا شده است.",
-            "این رویکرد «فشار برای مزیت» یعنی رژیم می‌خواهد پیش از آنکه موانع یا محدودیت‌ها دوباره فعال شوند، از درآمد نفتی و فرصت‌های معاملاتی بهره‌برداری کند—حرکتی که به‌طور مستقیم به تنگنای اقتصادی و نیاز به پول نقد گره می‌خورد.",
-            "با وجود این، متن خبر صراحتاً از «چالش‌های در راه» صحبت می‌کند و می‌گوید تهران هم‌زمان می‌کوشد روندهایی را برای مهار پیامدهای احتمالی متوقف کند (بخش پایانی جمله در اطلاعات ارسالی کامل نیست، اما جهت‌گیری نشان می‌دهد محدودیت‌ها از بیرون و/یا در اجرای توافق می‌تواند هزینه‌زا شود)."
-        ],
-        "impact": "اقدام برای فروش سریع نفت تحت توافق موقت می‌تواند در کوتاه‌مدت نفس مالی بدهد، اما «چالش‌های پیشِ رو» ریسک بی‌ثباتی تصمیم‌گیری و شکست اجرای منافع را بالا می‌برد.",
-        "tag": "اقتصاد-تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/analysis-a-confident-iran-is-pressing-its-advantage-but-challenges-loom/ar-AA264CFD",
-        "clean_url": "https://www.msn.com/en-us/news/world/analysis-a-confident-iran-is-pressing-its-advantage-but-challenges-loom/ar-AA264CFD",
-        "image": "http://www.bing.com/th?id=ONUT.TK5j4TFAUU06GrU5aUG4hQ&pid=News",
-        "timestamp": 1781857549.0
-    },
-    {
-        "title_fa": "آتش‌بس لبنان پس از گفت‌وگوی آمریکا و ایران در سوئیس؛ اسرائیل و حزب‌الله به توافق رسیدند",
-        "title_en": "Lebanon ceasefire agreed after US-Iran talks in Switzerland scrapped",
-        "summary": [
-            "خبرگزاری ریتز گزارش می‌دهد اسرائیل و حزب‌الله یک آتش‌بس در لبنان را پس از تشدید درگیری‌ها پذیرفتند؛ تشدیدها به‌طور مستقیم «ریسک» می‌کرد که شانس یک توافق میان‌مدت برای پایان جنگ (در ارتباط با موضوع ایران) به توافق پایدار تبدیل نشود.",
-            "این تصمیم هم‌زمان با این چارچوب زمانی مطرح شده که مذاکرات آمریکا و ایران در سوئیس انجام شده و ادامه مسیر دیپلماتیک را از مسیر عملیاتیِ جنگی به سمت توقف موقت تنش در لبنان می‌برد.",
-            "کانون گزارش این است که آتش‌بس بیشتر «پیامد مدیریت ریسک» در سطح منطقه است تا نشانه کاهش واقعی نفوذ یا توان طرف‌ها؛ یعنی جنگ لبنان به اهرمی برای فشار بر روند توافق تبدیل شده بود."
-        ],
-        "impact": "آتش‌بس لبنان احتمالاً چند قدمی مانع تشدید بیشتر می‌شود، اما چون هدف آن حمایت از روند توافق میان‌مدت است، پایدار بودنش به دوامِ معادلات سیاسی و کنترل بحران در مراحل بعدی گره خورده است.",
-        "tag": "لبنان",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/europe/us-iran-peace-talks-postponed-clouding-prospects-lasting-truce-2026-06-19/",
-        "clean_url": "https://www.reuters.com/world/europe/us-iran-peace-talks-postponed-clouding-prospects-lasting-truce-2026-06-19",
-        "image": "http://www.bing.com/th?id=ONUT.l_rKiPvGrFsvIFfdRr6Olw&pid=News",
-        "timestamp": 1781856780.0
     }
 ]
