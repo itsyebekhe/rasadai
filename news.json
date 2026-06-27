@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حمله موشکی و پهپادی آمریکا به سایت‌های موشک و پهپاد در ایران؛ ضربه به توان عملیاتی، نه تغییر رژیم",
+        "title_en": "U.S. Military Strikes Missile and Drone Sites in Iran",
+        "summary": [
+            "طبق گزارش، آمریکا به «سایت‌های موشک و پهپاد» در ایران حمله نظامی انجام داده است؛ یعنی تمرکز مستقیم روی زیرساخت‌های عملیاتی که برای حملات دوربرد و پهپادی به‌کار می‌روند.",
+            "چنین اقداماتی به‌طور ساختاری توان فوری رژیم را در کوتاه‌مدت کاهش می‌دهد (آسیب به سامانه‌ها، اختلال در آمادگی و تعمیر/جایگزینی)، اما به‌تنهایی فراتر از سطح عملیات، مکانیسم داخلی فروپاشی رژیم را تضمین نمی‌کند.",
+            "این نوع عملیات می‌تواند زنجیره پاسخ را بالا ببرد و ریسک محاسبه‌نشدن و تشدید چرخه حمله-پاسخ را بیشتر کند؛ در نتیجه هزینه‌های امنیتی و فشار بر تصمیم‌گیری داخلی افزایش خواهد یافت."
+        ],
+        "impact": "حمله آمریکا مستقیماً قابلیت عملیاتی رژیم را هدف گرفته و احتمال تشدید نظامی را بالا می‌برد، اما نتیجه‌اش به‌صورت قطعی به «تغییر سیاسی» داخلی وابسته است، نه صرفاً تخریب سایت‌ها.",
+        "tag": "امنیت",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz",
+        "clean_url": "https://www.nytimes.com/live/2026/06/26/world/us-iran-strikes-hormuz",
+        "image": null,
+        "timestamp": 1782518371.0
+    },
+    {
         "title_fa": "آمریکا حملات تازه علیه ایران را آغاز کرد",
         "title_en": "U.S. Launches Fresh Attacks on Iran",
         "summary": [
@@ -160,6 +178,24 @@
         "clean_url": "https://www.msn.com/en-us/money/general/will-sanctions-relief-save-or-destroy-the-iranian-regime-the-domestic-crisis-and-three-possible-futures/ar-AA26DaHr",
         "image": null,
         "timestamp": 1782489634.0
+    },
+    {
+        "title_fa": "یو‌اس‌ای‌تودی: بازی جام جهانی ایران چند ساعت بعد از بمباران کشور توسط آمریکا",
+        "title_en": "Iran plays pivotal World Cup match hours after country bombed by U.S.",
+        "summary": [
+            "متن خبرِ قابل مشاهده عملاً فقط پیام فنی سایت است و هیچ ادعای مشخصی درباره جزئیات بمباران یا مسابقه در آن نیامده؛ بنابراین از نظر راستی‌آزمایی، اطلاعات رویدادی قابل استخراج نیست.",
+            "با این حال، عنوان منبع ادعا می‌کند که «ایران» چند ساعت پس از بمباران کشور توسط آمریکا، در یک مسابقه جام جهانی نقش‌آفرینی کرده؛ این، اگر درست باشد، نشان‌دهنده تلاش برای حفظ نمایش قدرت و استمرار فعالیت‌های عمومی تحت فشار امنیتی است.",
+            "چون بدنه مقاله در اختیار قرار نگرفته، نمی‌توان درباره میزان خسارت، زمان دقیق رویداد، یا پیامدهای داخلی (اقتصاد/اعتراضات) تحلیل مستند ارائه کرد."
+        ],
+        "impact": "در صورت صحت عنوان، فاصله زمانی کوتاه میان حمله ادعایی و برگزاری یک رویداد بزرگ می‌تواند به‌عنوان تلاش برای کنترل روایت و نمایش تداوم فعالیت‌ها در برابر فشار خارجی تفسیر شود، اما جزئیات قابل اتکا ارائه نشده است.",
+        "tag": "ایالات-متحده",
+        "urgency": 8,
+        "sentiment": -0.2,
+        "source": "USA TODAY",
+        "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/26/iran-egypt-world-cup-bomb-us-air-strikes/90715523007/",
+        "clean_url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/26/iran-egypt-world-cup-bomb-us-air-strikes/90715523007",
+        "image": null,
+        "timestamp": 1782488340.0
     },
     {
         "title_fa": "چگونه ایران می‌تواند به سلاح هسته‌ای برسد؛ در دولت ترامپ",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmJreHFfcFp6bS1xQlVZbDdaX05YdmNxUTRGRG5uTl9tM0dCZEFxTGR6ZG9INUVTSlR6bTRBdUVqbTdmMVlmdXNvdHJlTEFXTlBReUJ2a1FZUF9lRGFoRkZxZ3NzZENwamtQR2hQcXZEeFA4MjRxZ1RJMGlUNDJ5aUtfUm9qWklyYmVCbmhpeUs4U0NwRU1RZjlpOFk0TFl5NmhDYWZYQQ",
         "image": null,
         "timestamp": 1781931600.0
-    },
-    {
-        "title_fa": "ایران «توافقِ خوب» گرفت اما همچنان امکان نابود کردن دستاوردها وجود دارد",
-        "title_en": "Iran Got a Great Deal That It Could Still Squander",
-        "summary": [
-            "این گزارش با نگاه انتقادی می‌گوید ایران به‌نوعی دستاورد/توافق مطلوب به دست آورده، اما سازوکارهای داخلی و مدیریت می‌تواند باعث شود این فرصت از بین برود.",
-            "محتوای ارائه‌شده صرفاً به معرفی نویسنده و اشاره کلی به چارچوب تحلیلی مقاله محدود است و هیچ جزئیات قابل راستی‌آزمایی از متن (نوع توافق، زمان، طرف‌ها، شروط، یا نتایج اقتصادی/سیاسی) در اختیار قرار نگرفته است.",
-            "بنابراین از همین اطلاعات نمی‌توان درباره فشار خارجی، نقش بازیگران بیرونی یا موج نارضایتی داخلی نتیجه‌گیری دقیق کرد؛ تنها نکته قابل اتکا این است که «فرصت وجود دارد اما اتلاف آن محتمل است»."
-        ],
-        "impact": "اثر عملی این وضعیت وابسته است به اینکه ایران چگونه از فرصت یادشده در عمل استفاده می‌کند یا آن را با ناکارآمدی داخلی از دست می‌دهد.",
-        "tag": "تحلیل",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/06/iran-got-great-deal-it-could-still-squander/687647/",
-        "clean_url": "https://www.theatlantic.com/international/2026/06/iran-got-great-deal-it-could-still-squander/687647",
-        "image": "http://www.bing.com/th?id=ONUT.0OIyO4F6Qn-HIbtbhJQDqw&pid=News",
-        "timestamp": 1781928480.0
-    },
-    {
-        "title_fa": "لغو مذاکرات آمریکا و ایران و تلاش قطر برای میانجی‌گری؛ هم‌زمان آمادگی نفت برای عبور از تنگه هرمز",
-        "title_en": "Live Updates: Latest from Israel, Iran, and Middle East",
-        "summary": [
-            "مذاکرات آمریکا و ایران روز جمعه پس از تشدید درگیری میان اسرائیل و حزب‌الله در جنوب لبنان لغو شد؛ سپس یک آتش‌بس میان اسرائیل و حزب‌الله با میانجی‌گری قطر، آمریکا و ایران مطرح شد (طبق گفته چند مقام منطقه‌ای و یک مقام آمریکایی)، اما جزئیات آن هنوز قطعی و رسمی نیست.",
-            "یک مقام حزب‌الله اعلام کرد میانجی‌ها در تلاش برای اجرای آتش‌بس جدید بودند و ممکن است توافق به‌زودی اعلام شود، ولی تأیید نکرد که آتش‌بس بالفعل برقرار است؛ در همین حال دفتر نتانیاهو واکنش فوری نداد و سخنگوی نظامی اسرائیل گفت دستور جدیدی دریافت نشده و عملیات در «منطقه دفاع پیشرو» ادامه دارد.",
-            "در موازات تحولات میدانی، گزارش شده حدود ۸۰ میلیون بشکه نفت روی آب برای عبور از تنگه هرمز آماده است تا در صورت تبدیل توافق آمریکا و ایران به بازگشایی پایدار کریدور دریایی، حدود ۴۰ کشتی غول‌پیکر حامل نفتِ غیرمشمول تحریم در خلیج فارس وارد فاز تست‌عبور شوند."
-        ],
-        "impact": "ترکیب لغو مذاکرات با وجود شواهد از آتش‌بس مقطعی، ریسک نوسان در مسیرهای امنیتی لبنان و آینده بسته‌های توافقی آمریکا-ایران را بالا می‌برد و هم‌زمان چشم‌انداز بازگشایی هرمز را در گرو «پایدار شدن» توافق قرار می‌دهد.",
-        "tag": "لبنان",
-        "urgency": 8,
-        "sentiment": -0.45,
-        "source": "The Jerusalem Post",
-        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-president-trump-pezeshkian-peace-mou-deal-netanyahu-france-israel-latest-news-liveblog-154670329",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-president-trump-pezeshkian-peace-mou-deal-netanyahu-france-israel-latest-news-liveblog-154670329",
-        "image": null,
-        "timestamp": 1781928005.0
     }
 ]
