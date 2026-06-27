@@ -18,6 +18,24 @@
         "timestamp": 1782584400.0
     },
     {
+        "title_fa": "تست «خطوط قرمز» آمریکا و ایران در موج جدید درگیری",
+        "title_en": "US, Iran test each other’s red lines in new fighting",
+        "summary": [
+            "طبق گزارش The Hill، آمریکا و ایران در یک چرخه جدید درگیری، عملاً حدود اقدام طرف مقابل را آزمایش می‌کنند و این یعنی الگوی تقابل، کوتاه‌مدت قابل مهار نیست.",
+            "فرم‌بندی «خطوط قرمز» نشان می‌دهد هیچ‌کدام از طرفین حاضر نیست عقب‌نشینی کامل را بپذیرد و احتمال محاسبه‌نشدنِ تشدید در سطح میدانی بالا می‌رود.",
+            "این وضعیت برای رژیم ایران از منظر بقا، هم فرصت نمایش توان بازدارندگی ایجاد می‌کند و هم ریسک تبدیل شدن هر حادثه محدود به درگیری گسترده‌تر با پیامدهای مستقیم امنیتی."
+        ],
+        "impact": "تداوم آزمون خطوط قرمز، خطر سرایت یک درگیری محدود به زنجیره تشدید منطقه‌ای را بالا می‌برد و کنترل بحران را برای هر دو طرف سخت‌تر می‌کند.",
+        "tag": "درگیری",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The Hill",
+        "url": "https://www.msn.com/en-us/politics/international-relations/us-iran-test-each-other-s-red-lines-in-new-fighting/ar-AA26GSRW",
+        "clean_url": "https://www.msn.com/en-us/politics/international-relations/us-iran-test-each-other-s-red-lines-in-new-fighting/ar-AA26GSRW",
+        "image": null,
+        "timestamp": 1782579960.0
+    },
+    {
         "title_fa": "اظهار اسرائیل درباره توافق لبنان: «ضربه استراتژیک به محور ایران»",
         "title_en": "Live - Israel says deal with Lebanon ‘a strategic blow to the Iranian axis’",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWZLRUlHdXhuQXlwNkpEVUlGa2tQSEs5WmJzQUQwRFVzT3lsOG43LWNyOWNlQlFxM2VrQ2VaQVIwR0RGTWljb0JYSkFJeU9FZ3dERzdONnVrdmhXSlZpTjd4WFNnWno0OUdRV2QzbWVMSllVekxQel9PYkZhWlN0VHNkVGJyMGw4RVFkbk1lZ3ZKem14LWU0eWVn",
         "image": null,
         "timestamp": 1781967996.0
-    },
-    {
-        "title_fa": "تهران گفت‌وگوهای آمریکا-ایران را می‌پذیرد اما بلافاصله تنگه هرمز را در پاسخ به جنگ لبنان می‌بندد",
-        "title_en": "US-Iran talks to begin Sunday in Switzerland but Tehran closes the strait over Lebanon fighting",
-        "summary": [
-            "با آغاز گفت‌وگوهای آمریکا و ایران در سوئیس از یکشنبه، تهران دو ضربه سریع به توافق موقت زد: اعلام «بستن تنگه هرمز»، و اعلام اینکه با ادامه حملات اسرائیل در لبنان، «گام‌های بعدی» برنامه‌ریزی شده است.",
-            "فرماندهی مشترک نیروهای نظامی ایران علت این اقدام را «تداوم حملات اسرائیل» و «بدعهدی» آمریکا عنوان کرد؛ همچنین مدعی شد آمریکا تعهدات خود را با پایان ندادن جنگ نقض کرده است.",
-            "هم‌زمان، رسانه‌های رسمی ایران از سفر تیم مذاکره‌کننده به سوئیس خبر دادند؛ نام‌هایی از جمله محمدباقر قالیباف (رئیس مجلس) و عباس عراقچی (وزیر خارجه) همراه با مقام‌های بانک مرکزی و نفت مطرح شدند، و سخنگوی وزارت خارجه هم تأکید کرد تا وقتی آمریکا مطابق توافق عمل نکند، نتیجه‌ای انتظار نمی‌رود."
-        ],
-        "impact": "اقدام تهران برای بستن تنگه هرمز قبل از نشست سوئیس، ریسک اختلال در مسیرهای حیاتی تجارت و بالا بردن فشار بر ثبات و محاسبات امنیتی را به شکل فوری افزایش می‌دهد.",
-        "tag": "تنگه‌هرمز",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "AP News",
-        "url": "https://www.inquirer.com/news/nation-world/iran-us-deal-strait-hormuz-closed-israel-lebanon-fighting-talks-switzerland-20260620.html",
-        "clean_url": "https://www.inquirer.com/news/nation-world/iran-us-deal-strait-hormuz-closed-israel-lebanon-fighting-talks-switzerland-20260620.html",
-        "image": null,
-        "timestamp": 1781967780.0
     }
 ]
