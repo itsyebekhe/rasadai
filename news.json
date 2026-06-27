@@ -108,6 +108,42 @@
         "timestamp": 1782536409.0
     },
     {
+        "title_fa": "ونـس در برابر روبیو؛ «نسخهٔ ایران» در مقالهٔ The Atlantic",
+        "title_en": "Vance vs. Rubio: Iran Edition",
+        "summary": [
+            "این متن عملاً محتوای سیاست‌گذاری یا خبر مشخص دربارهٔ ایران ارائه نمی‌کند و صرفاً معرفی نویسندهٔ مقالهٔ The Atlantic است؛ بنابراین هیچ دادهٔ قابل اتکایی برای تحلیل رویداد، تصمیم یا اقدام مرتبط با ایران وجود ندارد.",
+            "چون متنِ ارائه‌شده بخش «ایران» را پوشش نمی‌دهد، امکان ارزیابی «تحریم/فشار خارجی»، نقش شرکای راهبردی (روسیه/چین/کره‌شمالی) یا وضعیت اقتصاد و اعتراضات داخلی طبق چارچوب تحلیلی فراهم نیست.",
+            "در نبود متنِ ادعاها و استدلال‌های دو سناریوی «ونـس vs. روبیو»، هرگونه اتصال به رژیم، سیاست ایران یا پیامدهای مشخص، به معنای حدس‌پردازی است و باید کنار گذاشته شود."
+        ],
+        "impact": "با توجه به اینکه فقط بیوگرافی نویسنده ارائه شده، این منبع فعلاً هیچ اثر قابل‌سنجشی بر ارزیابی وضعیت ایران یا ثبات رژیم نمی‌گذارد.",
+        "tag": "تحلیل",
+        "urgency": 1,
+        "sentiment": 0.0,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/06/lebanon-israel-us-mou-vance-rubio/687715/",
+        "clean_url": "https://www.theatlantic.com/national-security/2026/06/lebanon-israel-us-mou-vance-rubio/687715",
+        "image": null,
+        "timestamp": 1782533340.0
+    },
+    {
+        "title_fa": "ایران ادعا کرد به اهداف مرتبط با آمریکا حمله کرده و به کشورهای حاشیه خلیج هشدار داد کمک به حملات نکنند",
+        "title_en": "Iran claims to strike US-linked targets, warns Gulf states not to aid attacks",
+        "summary": [
+            "وزارت خارجه ایران اعلام کرد حمله آمریکا به ایران و همچنین «حمله‌ای» به لبنان که آن را در هماهنگی با آمریکا معرفی کرده، نقض آتش‌بس است.",
+            "هم‌زمان ایران مدعی شد به «اهداف مرتبط با آمریکا» حمله کرده و تلاش دارد روایت خود را به عنوان پاسخ/اقدام در چارچوب آتش‌بس یا مقابله با نقض آن جا بیندازد.",
+            "در همان چارچوب، به کشورهای حاشیه خلیج هشدار داده شد که در حملات علیه ایران کمک نکنند؛ یعنی تهران در حال اعمال فشار سیاسی-بازدارنده بر بازیگران منطقه‌ای است."
+        ],
+        "impact": "این ادعاها اگرچه مبتنی بر «بیانیه» هستند، اما نشان می‌دهد تهران در مدیریت بحران از ابزار بازدارندگی سیاسی و چارچوب‌بندی نقض آتش‌بس برای کاهش همکاری منطقه‌ای با هر طرف مقابل استفاده می‌کند.",
+        "tag": "هشدار",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Jerusalem Post on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-claims-to-strike-us-linked-targets-warns-gulf-states-not-to-aid-attacks/ar-AA26FpFy",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-claims-to-strike-us-linked-targets-warns-gulf-states-not-to-aid-attacks/ar-AA26FpFy",
+        "image": "http://www.bing.com/th?id=ONUT.Qa_4YpiTw6Ck76syEJgJPA&pid=News",
+        "timestamp": 1782531541.0
+    },
+    {
         "title_fa": "حملات هوایی آمریکا به تأسیسات نظامی ایران پس از اصابت به یک کشتی در تنگه هرمز",
         "title_en": "U.S. strikes Iranian military sites after ship was hit in Strait of Hormuz",
         "summary": [
@@ -160,6 +196,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CVXB2dFJZX0l6TTBhNUVtYVYwVzkwWVlHUW9zTktDZEdYRkdJZk1Hb2doYV9YRVRMaVVXZGQwYk9RamZoakxqWWNvVXFwT2QxaGc",
         "image": null,
         "timestamp": 1782526560.0
+    },
+    {
+        "title_fa": "توافق ترامپ، تزریق پول؛ نفس تازه برای مدیریت بحران اقتصادی رژیم",
+        "title_en": "Deal with Trump hands Iran economic lifeline as leaders eye postwar gains",
+        "summary": [
+            "طبق گزارش واشنگتن پست، قرار است با اجرای یک توافق مقدماتی صلح میان ترامپ، «جریان ورود نقدینگی» به ایران افزایش یابد؛ این یعنی رژیم به جای تحمل فشار مالی، امکان کوتاه‌مدت برای تثبیت اقتصاد پیدا می‌کند.",
+            "نویسنده تصریح می‌کند که رهبران ایران این پول را برای «پایداری اقتصاد» و «بازسازی پس از ماه‌ها جنگ» هدف می‌گیرند؛ بنابراین انگیزه اصلی، مهار فرسایش اقتصادی و حفظ ظرفیت حکمرانی در دوره گذار است.",
+            "این وضعیت در چارچوب فشار خارجی مهم است: کاهش فشار نقدینگی می‌تواند ثبات داخلی را موقتاً بالا ببرد، اما چون سازوکار پرداخت به «پسا جنگ/مراحل توافق» گره خورده، به جای اصلاح ساختاری، بیشتر نقش ترمیم‌کننده و زمان‌خریدن دارد."
+        ],
+        "impact": "تزریق نقدینگی از دل توافق مقدماتی، امکان مهار شوک اقتصادی و بازسازی محدود را فراهم می‌کند و فرصت تنفس کوتاه‌مدت برای بقای مدیریتی رژیم می‌سازد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/06/27/deal-with-trump-hands-iran-economic-lifeline-leaders-eye-postwar-gains/",
+        "clean_url": "https://www.washingtonpost.com/world/2026/06/27/deal-with-trump-hands-iran-economic-lifeline-leaders-eye-postwar-gains",
+        "image": "http://www.bing.com/th?id=ONUT.tBlb33yvRboJdH1ARhYNVQ&pid=News",
+        "timestamp": 1782522000.0
     },
     {
         "title_fa": "حمله موشکی و پهپادی آمریکا به سایت‌های موشک و پهپاد در ایران؛ ضربه به توان عملیاتی، نه تغییر رژیم",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-iran-missiles-arent-142008796.html",
         "image": "http://www.bing.com/th?id=ONUT.O36_tiPRSoPFKAV8DTV9Mw&pid=News",
         "timestamp": 1781947620.0
-    },
-    {
-        "title_fa": "ایران دوباره تنگه هرمز را به‌دلیل ادامه حملات اسرائیل در جنوب لبنان بست؛ واشنگتن می‌گوید مسیر امن برقرار است",
-        "title_en": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
-        "summary": [
-            "نیروی دریایی سپاه اعلام کرد تنگه هرمز را مجدداً «بسته» است و هشدار داد نزدیک شدن به تنگه می‌تواند امنیت را به خطر بیندازد؛ دلیل رسمی، نقض توافق ایران با آمریکا در پی ادامه حملات اسرائیل به لبنان عنوان شده است.",
-            "ایران مدعی است آمریکا بند نخست «مکاتبه ۱۴ ماده‌ای» را اجرا نکرده که بر «قطع فوری و دائمی عملیات نظامی در همه جبهه‌ها از جمله لبنان» توافق می‌کرد؛ هم‌زمان تهران به «نقض مستمر و بی‌وقفه آتش‌بس» در جنوب لبنان استناد کرده و تهدید کرده در صورت ادامه حملات، «گام‌های بعدی» برای واداشتن اسرائیل به تبعیت برنامه‌ریزی می‌شود.",
-            "در مقابل، فرماندهی مرکزی آمریکا (Centcom) گفت عبور امن از تنگه هرمز «در حال اجراست» و ترافیک تجاری شنبه افزایش یافته و ۵۵ کشتی تجاری در حال عبور بوده‌اند؛ همچنین اشاره می‌شود نزدیک به امضای توافق اولیه ایران و آمریکا برای پایان جنگ (از جمله لبنان) با هدف گفت‌وگوهای ۶۰ روزه، این تنش دوباره رخ داده است."
-        ],
-        "impact": "این تصمیم عملاً اهرم فشار فوری علیه مسیر حیاتی کشتیرانی را فعال می‌کند و هم‌زمان با ادعاهای متقابل آمریکا درباره «باز بودن مسیر»، خطر تشدید فوری تنش نظامی و اختلال اقتصادی در بازار انرژی را بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-closed-161106598.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-closed-161106598.html",
-        "image": "http://www.bing.com/th?id=ONUT.JxxM8cfqk4B3Eb6ydzGWoQ&pid=News",
-        "timestamp": 1781947560.0
-    },
-    {
-        "title_fa": "اسرائیل از توافق با ایران ناراضی است و ممکن است اقدام تازه‌ای انجام دهد؛ معاون رئیس شورای امنیت روسیه می‌گوید",
-        "title_en": "Israel dissatisfied with Iran deal and may seek further action: Russian Security Council deputy chair",
-        "summary": [
-            "به گزارش خبرگزاری آناتولی، اسرائیل از «توافق با ایران» ناراضی است و ممکن است برای اقدام‌های بعدی وارد عمل شود؛ این ادعا از زبان معاون رئیس شورای امنیت روسیه مطرح شده است.",
-            "این وضعیت، فشار خارجی را در سطح «تحلیل‌پذیر و مرحله‌ای» بالا می‌برد: حتی اگر توافقی امضا شده باشد، عدم رضایت طرف مقابل می‌تواند به چرخه تهدید-پاسخ و افزایش ریسک اقدام مستقیم یا غیرمستقیم منجر شود.",
-            "متن منبع به‌صورت مستقیم به ابزارهای تحریمی یا تغییرات اقتصادی اشاره نمی‌کند؛ بنابراین اثرگذاری مشخص آن بر اقتصاد و اعتراض داخلی فقط به شکل غیرمستقیم از جنس افزایش ریسک خارجی قابل ارزیابی است."
-        ],
-        "impact": "این پیام می‌تواند توازن بازدارندگی و فضای مذاکره را بی‌ثبات کند و ریسک تشدید اقدام‌های خارجی علیه منافع رژیم را بالا ببرد.",
-        "tag": "خارجی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV1pJaTdGVThSS3h4Q2JhUzB6cjkzSTBVRWVsQnRoVEdNVGtEeS1JX3VHbElNZWVvTk9KdWoxdTd1Ml9QbnlmZUZKX3YyTElEX1NvX3FwSi1SN0E2ZGN6Qjl6S2xIbTh4dXc5SzF0OU1mNUt3NjdDRHZYRERjVkpLSXF3SGxva05UbUsyOUMwRG5Va2hTRHRnZk5fUkhIcVhPa2dGX1FRMkFsdmx4OHRIODlJcEpGNjQ2UExoRE96TVBrNnFxYjk0d2kxcm5td01KOGdkVHU4S20?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNV1pJaTdGVThSS3h4Q2JhUzB6cjkzSTBVRWVsQnRoVEdNVGtEeS1JX3VHbElNZWVvTk9KdWoxdTd1Ml9QbnlmZUZKX3YyTElEX1NvX3FwSi1SN0E2ZGN6Qjl6S2xIbTh4dXc5SzF0OU1mNUt3NjdDRHZYRERjVkpLSXF3SGxva05UbUsyOUMwRG5Va2hTRHRnZk5fUkhIcVhPa2dGX1FRMkFsdmx4OHRIODlJcEpGNjQ2UExoRE96TVBrNnFxYjk0d2kxcm5td01KOGdkVHU4S20",
-        "image": null,
-        "timestamp": 1781947051.0
-    },
-    {
-        "title_fa": "تردید جهان در برابر «توافق با ایران»: چرا حتی بعد از ماه‌ها مذاکره اعتماد شکل نمی‌گیرد",
-        "title_en": "World Leaders Awaited Iran Deal for Months. Here’s Why They’re Still Wary.",
-        "summary": [
-            "طبق گزارش، رهبران و دولت‌های خارجی ماه‌ها منتظر رسیدن به یک توافق بوده‌اند، اما هنوز «بی‌اعتمادی» مانع جمع‌بندی شده؛ یعنی مسئله فقط زمان‌بندی نیست، بلکه ابهام در ضمانت اجرا و پایبندی است.",
-            "این تردید ساختاری است: هر توافقی باید سطحی از کنترل و شفافیت بدهد که برای کاهش ریسک سیاسی-امنیتی کافی باشد، و به همین دلیل بلوغ لازم در تصمیم‌گیری کشورها ایجاد نشده است.",
-            "در نبود توافق قطعی، فشار خارجی به‌عنوان اهرم فرسایشی باقی می‌ماند و همین بلاتکلیفی می‌تواند تصمیم‌های اقتصادی و سیاسی را در داخل دشوارتر کند، بدون اینکه طرفین حاضر شوند ریسک از دست دادن ابزار فشار را بپذیرند."
-        ],
-        "impact": "ادامه انتظار و عدم حصول توافق، اهرم فشار خارجی را معلق اما فعال نگه می‌دارد و فضای تصمیم‌گیری داخلی را در اقتصاد و سیاست پرهزینه‌تر می‌کند.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html",
-        "clean_url": "https://www.nytimes.com/2026/06/20/world/europe/world-iran-reaction.html",
-        "image": null,
-        "timestamp": 1781946161.0
     }
 ]
