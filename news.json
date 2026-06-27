@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "اسرائیل ممکن است بهای خستگی جنگی آمریکا را بپردازد",
+        "title_en": "Israel may pay the price for America’s war fatigue",
+        "summary": [
+            "گزارش «The Jerusalem Post» می‌گوید کاهش تمایل آمریکا به درگیری‌های پرهزینه می‌تواند به شکل مستقیم به محاسبات اسرائیل ضربه بزند.",
+            "هسته ادعا این است که «خستگی جنگی» آمریکا، هزینه‌/ریسک سیاست‌های تهاجمی یا تداوم عملیات را برای اسرائیل افزایش می‌دهد، چون پشتوانه سیاسی-عملی آمریکا ممکن است کمتر شود.",
+            "در متن ارائه‌شده جزئیات مشخصی از اقدامات رژیم ایران یا نیروی‌های نیابتی، یا زمان‌بندی تصمیمات اسرائیل/آمریکا نیامده؛ تمرکز صرفاً بر پیامدهای احتمالی در سطح راهبرد واشنگتن برای تل‌آویو است."
+        ],
+        "impact": "اگر آمریکا واقعاً از شدت یا استمرار فشار نظامی بکاهد، اسرائیل ناچار می‌شود هزینه‌ تصمیمات امنیتی را بیشتر از قبل خودش بپردازد.",
+        "tag": "راهبرد",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13Nm5DVnlWMFBEQUJ2d3p4UE50NnJIVlltVHVlNHZRdFQ2Z1lKVW5UQXN5dWRqQjlxNDlIc0ZSajdsc1RMOHZiNDM1VFJtYlJnOHplY19KZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE13Nm5DVnlWMFBEQUJ2d3p4UE50NnJIVlltVHVlNHZRdFQ2Z1lKVW5UQXN5dWRqQjlxNDlIc0ZSajdsc1RMOHZiNDM1VFJtYlJnOHplY19KZw",
+        "image": null,
+        "timestamp": 1782589296.0
+    },
+    {
         "title_fa": "نتانیاهو: معامله به ایران و حزب‌الله می‌گوید نقشی در لبنان ندارند و اسرائیل تا هر زمان لازم، «منطقه امنیتی» را نگه می‌دارد",
         "title_en": "Netanyahu: Deal tells Iran and Hezbollah they have 'no role in Lebanon,' and that Israel can keep security zone as long as needed",
         "summary": [
@@ -196,6 +214,24 @@
         "clean_url": "https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes",
         "image": "http://www.bing.com/th?id=ONUT.ZfkuMTJcOn7MdOzbKKE0rA&pid=News",
         "timestamp": 1782556440.0
+    },
+    {
+        "title_fa": "ابهام در زبان توافق امریکا-ایران درباره گذر کشتی‌ها از تنگه هرمز دوباره مانع‌تراشی می‌کند",
+        "title_en": "Vague Language of U.S.-Iran Deal Comes Back to Haunt Peace Efforts",
+        "summary": [
+            "توافق مورد اشاره، از ایران خواسته بود برای عبور کشتی‌ها از تنگه هرمز «تدابیری» اتخاذ کند؛ اما متن مبهم است و تعریف عملی این «تدابیر» روشن نشده.",
+            "ایران این عبارت را به‌گونه‌ای تفسیر کرده که می‌تواند مسیرهای عبور کشتی‌ها را تعیین کند؛ همین برداشت، اختلاف تفسیری را به یک گره در مذاکرات صلح تبدیل کرده است.",
+            "بازگشت این ابهام نشان می‌دهد حتی بدون گزارش اقدام عملی جدید، اختلاف زبانی می‌تواند برنامه‌های کاهش تنش را کند یا متوقف کند."
+        ],
+        "impact": "ابهام حقوقی در سطح توافق، اختیار عملی ایران بر انتخاب مسیرها در تفسیرش را به نقطه اصطکاک دائمی با تلاش‌های صلح تبدیل می‌کند.",
+        "tag": "تنگه_هرمز",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
+        "clean_url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
+        "image": "http://www.bing.com/th?id=ONUT.CmUabcRyh-O_0V8yghbahA&pid=News",
+        "timestamp": 1782554820.0
     },
     {
         "title_fa": "ایران حمله به «اهداف مرتبط با آمریکا» را اعلام کرد؛ هم‌زمان بحرین از حمله پهپادی خبر داد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.npr.org/2026/06/20/nx-s1-5865006/fighting-lebanon-despite-ceasefire",
         "image": null,
         "timestamp": 1781973625.0
-    },
-    {
-        "title_fa": "ایران با بستن تنگه هرمز، آتش‌بازی انرژی را از «آتش‌بس شکننده» به «شوک احتمالی طولانی» تبدیل می‌کند",
-        "title_en": "Iran Reportedly Closes Strait of Hormuz, Shattering Fragile Ceasefire",
-        "summary": [
-            "ستاد مرکزی خاتم‌الانبیاء اعلام کرده تنگه هرمز از ۲۰ ژوئن ۲۰۲۶ برای تردد کشتی‌ها بسته شده؛ دلیل رسمی «نقض یادداشت تفاهم اسلام‌آباد» توسط آمریکا و اسرائیل مطرح شده است.",
-            "این اقدام عملاً چارچوب کاهش تنشِ یادداشت تفاهم را به چالش می‌کشد و می‌تواند ریسک اختلال در مسیر حیاتی حمل‌ونقل نفت را دوباره بالا ببرد؛ آن هم زمانی که بازارها به «کاهش فشار» قیمت داده بودند.",
-            "تنگه هرمز حدود ۲۱ میلیون بشکه در روز (حدود ۲۰٪ مصرف جهانی فرآورده‌های نفتی) و نزدیک به یک‌چهارم تجارت نفت دریابُرد را پوشش می‌دهد؛ با نبود مسیرهای جایگزین کافی، هر اختلالی معمولاً به نوسان شدیدتر قیمت منجر می‌شود."
-        ],
-        "impact": "بستن تنگه هرمز می‌تواند به شوک عرضه و افزایش نوسان قیمت انرژی در بازار جهانی منجر شود و ریسک استمرار بحران را بالا ببرد.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-closes-strait-hormuz-shattering-134326685.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-closes-strait-hormuz-shattering-134326685.html",
-        "image": "http://www.bing.com/th?id=ONUT.B0EKCDc0fOibZxoZxpitEw&pid=News",
-        "timestamp": 1781969280.0
-    },
-    {
-        "title_fa": "ایران بستن تنگه هرمز را به بهانه نقض آتش‌بس و ادامه حملات اسرائیل در لبنان اعلام کرد",
-        "title_en": "Iran says Strait of Hormuz is closed over ceasefire violations after continued Israeli strikes in Lebanon",
-        "summary": [
-            "بر اساس گزارش NBC News، ایران ادعا کرده تنگه هرمز را به دلیل «نقض آتش‌بس» و در پی «ادامه حملات اسرائیل در لبنان» بسته است.",
-            "این اعلامیه هم‌زمان با ادامه حملات اسرائیل در لبنان مطرح شده و نشان می‌دهد تهران در حال پیوند زدن جبهه دریایی با تحولات زمینی-منطقه‌ای است.",
-            "گزارش صرفاً به ادعای ایران درباره بسته شدن تنگه اشاره دارد و جزئیات عملیاتی (زمان‌بندی دقیق، میزان اختلال، یا واکنش فوری دیگر بازیگران) در متن ارائه نشده است."
-        ],
-        "impact": "این اقدام، در صورت تحقق عملی، می‌تواند ریسک اختلال جدی در مسیرهای کشتیرانی و تشدید فشارهای مالی-اقتصادی را بالا ببرد و بحران منطقه‌ای را به سطح دریایی منتقل کند.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWZLRUlHdXhuQXlwNkpEVUlGa2tQSEs5WmJzQUQwRFVzT3lsOG43LWNyOWNlQlFxM2VrQ2VaQVIwR0RGTWljb0JYSkFJeU9FZ3dERzdONnVrdmhXSlZpTjd4WFNnWno0OUdRV2QzbWVMSllVekxQel9PYkZhWlN0VHNkVGJyMGw4RVFkbk1lZ3ZKem14LWU0eWVn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWZLRUlHdXhuQXlwNkpEVUlGa2tQSEs5WmJzQUQwRFVzT3lsOG43LWNyOWNlQlFxM2VrQ2VaQVIwR0RGTWljb0JYSkFJeU9FZ3dERzdONnVrdmhXSlZpTjd4WFNnWno0OUdRV2QzbWVMSllVekxQel9PYkZhWlN0VHNkVGJyMGw4RVFkbk1lZ3ZKem14LWU0eWVn",
-        "image": null,
-        "timestamp": 1781967996.0
     }
 ]
