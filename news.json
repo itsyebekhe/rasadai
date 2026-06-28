@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "ایران به کویت و بحرین حمله می‌کند؛ زنگ خطر برای فرسایش تلاش‌های صلح",
+        "title_en": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts",
+        "summary": [
+            "طبق گزارش NBC News، ایران به کویت و بحرین حمله کرده و این اقدام در چارچوب «افزایش حملات» گزارش شده است.",
+            "این حملات به‌عنوان عاملی مطرح شده‌اند که می‌تواند «تلاش‌های صلح» را به هم بریزد و فضای امنیتی منطقه را بی‌ثبات‌تر کند.",
+            "خبر مستقیماً روی خودِ رویداد (حمله به دو کشور) و اثر آن بر روند صلح تمرکز دارد و جزئیات بیشتر (نوع حمله، زمان‌بندی دقیق، خسارات یا پاسخ طرف‌ها) در متن ارائه‌شده ذکر نشده است."
+        ],
+        "impact": "حمله به کشورهای همسایه به‌طور مستقیم هزینه امنیتی و ریسک سیاسی هرگونه سازوکار صلح را بالا می‌برد و احتمال تشدید واکنش‌های منطقه‌ای را افزایش می‌دهد.",
+        "tag": "منطقه‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "NBC News",
+        "url": "https://www.msn.com/en-us/news/world/iran-strikes-kuwait-and-bahrain-as-escalating-attacks-threaten-to-unravel-peace-efforts/ar-AA26Jlws",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-strikes-kuwait-and-bahrain-as-escalating-attacks-threaten-to-unravel-peace-efforts/ar-AA26Jlws",
+        "image": null,
+        "timestamp": 1782645236.0
+    },
+    {
+        "title_fa": "جنگ سایه: استفاده از نیروهای نیابتی ایران، اسرائیل و آمریکا بی‌ثباتی خاورمیانه را تشدید می‌کند",
+        "title_en": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability",
+        "summary": [
+            "این گزارش «جنگ سایه» را به‌عنوان موتور اصلی بی‌ثباتی منطقه معرفی می‌کند: هر سه بازیگر با اتکا به نیروهای نیابتی، هزینه و ریسک رویارویی مستقیم را پایین می‌آورند اما دامنه درگیری را گسترش می‌دهند.",
+            "چارچوب عملیات نیابتی باعث می‌شود چرخه تنش به‌جای حل سیاسی، با ضربه‌های غیرمستقیم تداوم یابد؛ نتیجه آن افزایش احتمال سوءمحاسبه، تشدید واکنش‌ها و فرسایش تدریجی امنیت در کشورهای درگیر است.",
+            "این الگو نشان می‌دهد که «بی‌ثباتی» محصول طراحی‌شده بازیگران برای پیشبرد منافع است؛ اما در سطح عمومی، اثر آن به شکل افزایش ناامنی و رادیکالیزه شدن محیط سیاسی و امنیتی منطقه دیده می‌شود."
+        ],
+        "impact": "اتکای متقابل به نیروهای نیابتی، ریسک تشدید مرحله‌ای و فرسایشی بحران‌ها را بالا می‌برد و مانع از کاهش تنش واقعی در خاورمیانه می‌شود.",
+        "tag": "نیابتی",
+        "urgency": 5,
+        "sentiment": -0.35,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmtkbkRsT00wbzRHUjIzMTBmZXdrdkY4V1JhaVlZbDZmTWl1MWVDVWRwVGdScVhlcUhwMjhRSnRheUZyVEF2TjRxbVZmVmpDQ19KRzZJbE5WcTRnUDJ1eFlzSzVmcWtRUTFsZFdvLWM2NDVKclozX0FUUmFsNTBXNHl6YTE3QjhwM0E?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmtkbkRsT00wbzRHUjIzMTBmZXdrdkY4V1JhaVlZbDZmTWl1MWVDVWRwVGdScVhlcUhwMjhRSnRheUZyVEF2TjRxbVZmVmpDQ19KRzZJbE5WcTRnUDJ1eFlzSzVmcWtRUTFsZFdvLWM2NDVKclozX0FUUmFsNTBXNHl6YTE3QjhwM0E",
+        "image": null,
+        "timestamp": 1782643680.0
+    },
+    {
         "title_fa": "اعلام ضربه متقابل؛ آمریکا و ایران هر دو از عملیات تلافی‌جویانه در خاک ایران، کویت و بحرین خبر دادند",
         "title_en": "U.S. and Iran each announce retaliatory strikes in Iran, Kuwait and Bahrain",
         "summary": [
@@ -106,6 +142,24 @@
         "clean_url": "https://www.theguardian.com/us-news/2026/jun/27/us-iran-strikes",
         "image": null,
         "timestamp": 1782622238.0
+    },
+    {
+        "title_fa": "اعلام مسیرهای امن دریایی و الزام هماهنگی سپاه برای کشتیرانی در خلیج فارس",
+        "title_en": "US-Iran war live updates: Iran designates safe shipping routes through Gulf, keeps IRGC coordination mandatory",
+        "summary": [
+            "ایران «مسیرهای امن» برای کشتیرانی در خلیج فارس تعیین کرده است؛ همزمان نشان می‌دهد که مدیریت ریسک دریایی را در چارچوب تنش منطقه‌ای پیش می‌برد.",
+            "در این چارچوب، هماهنگی با سپاه پاسداران همچنان «اجباری» و شرط‌محور باقی مانده که می‌تواند هزینه‌های عملیاتی و ریسک‌های حقوقی/امنیتی را برای شرکت‌های درگیر افزایش دهد.",
+            "گام عملیاتیِ اعلام مسیرهای امن، در کنار اجباری بودن هماهنگی سپاه، بیشتر به کارکرد کنترلی-امنیتی می‌خورد تا صرفاً یک تصمیم فنی؛ بنابراین احتمال تداوم فشار و بی‌ثباتی بر تجارت دریایی و زنجیره تأمین منطقه بالا می‌رود."
+        ],
+        "impact": "این تصمیم با تثبیت نقش سپاه در کشتیرانی، ریسک تجارت دریایی را بالا می‌برد و می‌تواند به کندی جریان کالا و تشدید هزینه‌ها در خلیج فارس منجر شود.",
+        "tag": "اقتصادی-امنیتی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Economic Times",
+        "url": "https://economictimes.indiatimes.com/news/newsblogs/iran-war-trump-ceasefire-kuwait-attack-oil-prices-strait-of-hormuz-us-military-centcom-crude-lebanon-hezbollah/liveblog/132044421.cms",
+        "clean_url": "https://economictimes.indiatimes.com/news/newsblogs/iran-war-trump-ceasefire-kuwait-attack-oil-prices-strait-of-hormuz-us-military-centcom-crude-lebanon-hezbollah/liveblog/132044421.cms",
+        "image": null,
+        "timestamp": 1782620580.0
     },
     {
         "title_fa": "تعویض ضربات تازه آمریکا و ایران؛ تهدید تهران برای توقف مذاکرات و فشار بر گلوگاه هرمز",
@@ -360,6 +414,24 @@
         "timestamp": 1782577208.0
     },
     {
+        "title_fa": "بازگشت آتش میان ایران و اهداف مرتبط با آمریکا تردید درباره «توافقِ پایان جنگ» ترامپ را بالا برد",
+        "title_en": "Trump’s deal to end war in question after Iran retaliates to US strikes",
+        "summary": [
+            "ایران اعلام کرد به دنبال حملات آمریکا به محل‌های نگهداری موشک و پهپاد، به اهداف مرتبط با آمریکا ضربه زده است؛ یعنی دور تازه‌ای از تقابل مستقیم/غیرمستقیم دوباره فعال شده.",
+            "این تبادل تازه، طبق گزارش NBC News، باعث شده درباره «Memorandum» ترامپ و امکان پایدار شدن راه‌حل برای پایان جنگ تردید جدی مطرح شود؛ چون آتش‌بس یا توافق عملی هنوز آزمون خود را پس نداده است.",
+            "هسته پیام بحران این است که اقدام انتقامی ایران زنجیره بازدارندگی را از کنترل خارج کرده و هر طرح مبتنی بر توقف درگیری را در لحظه‌های کلیدی بی‌اعتبار می‌سازد."
+        ],
+        "impact": "احتمالاً هرگونه «توافق» یا چارچوب پایان جنگ تا زمانی که چرخه انتقام‌جویی ادامه دارد، شکننده می‌ماند و ریسک تشدید را بالا می‌برد.",
+        "tag": "درگیری",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/nightly-news/video/trump-s-deal-to-end-war-in-question-after-iran-retaliates-to-us-strikes-265807941770",
+        "clean_url": "https://www.nbcnews.com/nightly-news/video/trump-s-deal-to-end-war-in-question-after-iran-retaliates-to-us-strikes-265807941770",
+        "image": "http://www.bing.com/th?id=ONUT.-FkEJBSZwiK9GmiKg1u7Eg&pid=News",
+        "timestamp": 1782577140.0
+    },
+    {
         "title_fa": "افزایش متقابل حملات آمریکا و ایران؛ آزمایش دوام آتش‌بس با هدف‌های منطقه‌ای",
         "title_en": "Mideast Live Updates: U.S. and Iran Trade More Strikes, Testing Truce",
         "summary": [
@@ -448,6 +520,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-carries-out-new-strikes-on-iran-in-response-to-tanker-attack/ar-AA26Gf2m",
         "image": "http://www.bing.com/th?id=ONUT.rAihqG8HgLTz6MlrAYO6uA&pid=News",
         "timestamp": 1782574620.0
+    },
+    {
+        "title_fa": "حمله پهپادی به بحرین و برخورد به تانکر در تنگه هرمز؛ خطر فروریختن آتش‌بس واشنگتن-تهران",
+        "title_en": "Bahrain faces drone attack; tanker hit in the Strait of Hormuz, risking U.S.-Iran truce",
+        "summary": [
+            "بحرین اعلام کرد هدف حمله پهپادی «ایرانی» قرار گرفته و هم‌زمان نیروی دریایی بریتانیا از یک حمله تازه به یک تانکر در تنگه هرمز خبر داده؛ این رخدادها نشان می‌دهد تنش‌ها به سطحی رسیده که می‌تواند هر چارچوب محدود را به هم بزند.",
+            "گزارش روی «ریسک» برای یک توافق شکننده میان واشنگتن و تهران تأکید می‌کند؛ یعنی این عملیات‌ها، حتی اگر قصدشان کنترل‌شده باشد، در عمل بهانه کافی برای سخت‌تر شدن مواضع طرف مقابل ایجاد می‌کند.",
+            "محور مستقیم پیامد، امنیت کشتیرانی در گلوگاه انرژی است: برخورد تانکر در تنگه هرمز به‌معنای افزایش هزینه ریسک بیمه، توقف‌های احتمالی و فشار اقتصادی بر مسیرهای صادرات انرژی است."
+        ],
+        "impact": "تشدید حملات در تنگه هرمز هم احتمال درگیری مستقیم و هم فرسایش سریع توافق موقت واشنگتن-تهران را بالا می‌برد.",
+        "tag": "هورمز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Seeking Alpha",
+        "url": "https://seekingalpha.com/news/4607872-fresh-tanker-attack-risk-us-iran-peace-deal",
+        "clean_url": "https://seekingalpha.com/news/4607872-fresh-tanker-attack-risk-us-iran-peace-deal",
+        "image": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/2227085083/image_2227085083.jpg?io=getty-c-w630",
+        "timestamp": 1782571980.0
     },
     {
         "title_fa": "مشکل «ونْس» برای اسرائیل از «جی‌دی ونس» بزرگ‌تر است (Politico)",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/jd-vance-iranian-officials-begin-peace-talks-in-switzerland/ar-AA26bnNh",
         "image": "http://www.bing.com/th?id=ONUT.VZy_JuNsAaevegnpGLu0oA&pid=News",
         "timestamp": 1782037840.0
-    },
-    {
-        "title_fa": "جنگ در لبنان سایه سنگین بر مذاکرات هسته‌ای دوباره ایران و آمریکا می‌اندازد",
-        "title_en": "War in Lebanon Casts Shadow Over Renewed Iran-U.S. Nuclear Talks",
-        "summary": [
-            "با توجه به گزارش WSJ، تشدید جنگ در لبنان به‌عنوان عامل اصلی بی‌ثبات‌کننده، فضای مذاکرات هسته‌ای تازه ایران و آمریکا را تحت فشار قرار داده است؛ یعنی مذاکرات در شرایطی دنبال می‌شود که ریسک درگیری منطقه‌ای بالا است.",
-            "تداوم بحران لبنان عملاً قابلیت برنامه‌ریزی و اعتماد متقابل را کاهش می‌دهد و می‌تواند به تعویق، کندی یا سخت‌تر شدن توافق منجر شود، چون هر دو طرف ناچارند در تصمیم‌های خود «ریسک تشدید» را لحاظ کنند.",
-            "در چنین شرایطی، هرگونه توافق هسته‌ای در عمل زیر سایه نگرانی امنیتی منطقه‌ای قرار می‌گیرد و احتمال اینکه طرفین برای امتیازدهی سریع، انگیزه کافی نداشته باشند افزایش می‌یابد."
-        ],
-        "impact": "جنگ لبنان به‌عنوان عامل خارجیِ تشدیدکننده ریسک، احتمال دستیابی به پیشرفت واقعی و پایدار در مذاکرات هسته‌ای را پایین می‌آورد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTZVenJFcjA3OTZZWklMc1lneGJzd1VkcHpCb01HZlYtMTh4Rlh2LW1iWnhCMVZkWXNzRk0xa0Q2V3R5YnNTZ1pPTGRHSThoRWRaV3gtVGl0UjNVeXkxX0QxcnFpdVMtWkVJUmtCemVoVGZaZzhubWFqVHp1OUhxY0VOOU5tZGtHSkZlaXJNUWducFdGZVpVblhrOUx6TDZWbzlmYXZOOTlHYk1VaWhr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSTZVenJFcjA3OTZZWklMc1lneGJzd1VkcHpCb01HZlYtMTh4Rlh2LW1iWnhCMVZkWXNzRk0xa0Q2V3R5YnNTZ1pPTGRHSThoRWRaV3gtVGl0UjNVeXkxX0QxcnFpdVMtWkVJUmtCemVoVGZaZzhubWFqVHp1OUhxY0VOOU5tZGtHSkZlaXJNUWducFdGZVpVblhrOUx6TDZWbzlmYXZOOTlHYk1VaWhr",
-        "image": null,
-        "timestamp": 1782036780.0
-    },
-    {
-        "title_fa": "ورود ونس و مقام‌های ایرانی به سوئیس برای آغاز گفت‌وگوها درباره برنامه هسته‌ای تهران",
-        "title_en": "Vance and Iranian officials arrive in Switzerland to launch talks on Tehran’s nuclear program",
-        "summary": [
-            "مایک پنس در قالب تیم مذاکره‌ای مرتبط با ایالات متحده، به همراه مقام‌های ایرانی برای شروع دور تازه گفت‌وگوها در سوئیس وارد شدند؛ محور رسمی نشست «برنامه هسته‌ای تهران» است.",
-            "این رویداد یک حرکت دیپلماتیک برای کنترل و مهار موضوع هسته‌ای از مسیر مذاکره است، نه نشانه‌ای از تغییر ماهیت سیاست‌های عملی رژیم در متن گزارش.",
-            "در چارچوب فشار خارجی، خودِ آغاز مذاکرات معمولاً می‌تواند موقتاً فضای اقتصادی و محاسبات داخلی رژیم را تحت تأثیر قرار دهد، اما متن خبر اطلاعاتی درباره لغو فوری تحریم‌ها یا نتیجه مشخص ارائه نمی‌کند."
-        ],
-        "impact": "این نشست بیش از هر چیز یک ابزار مدیریت بحران دیپلماتیک برای موضوع هسته‌ای است و طبق متن خبر، هنوز اثر ملموس و قطعی بر کاهش فشار یا تغییر رفتار رژیم قابل احراز نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "AP News",
-        "url": "https://www.msn.com/en-ca/news/world/us-vice-president-jd-vance-arrives-in-switzerland-to-launch-talks-with-iran-on-its-nuclear-program/ar-AA26aFau",
-        "clean_url": "https://www.msn.com/en-ca/news/world/us-vice-president-jd-vance-arrives-in-switzerland-to-launch-talks-with-iran-on-its-nuclear-program/ar-AA26aFau",
-        "image": null,
-        "timestamp": 1782036540.0
-    },
-    {
-        "title_fa": "پیام دوگانه آمریکا در مذاکرات هسته‌ای: «دستِ دراز» همزمان با تهدید بمباران",
-        "title_en": "As Vance Offers Iran ‘Outstretched Hand’ in Talks, Trump Threatens Bombing",
-        "summary": [
-            "هم‌زمان با شروع دور جدید مذاکرات هسته‌ای آمریکا و ایران در سوئیس، مایک پنس/جِی‌دی ونس (طبق تیتر: ونس) پیام «دستِ دراز» برای گشودن راه مذاکره فرستاد، اما دونالد ترامپ تهدید کرد در صورت عدم توافق، حمله بمبارانی می‌تواند در دستور کار باشد.",
-            "این تضاد پیام‌ها نشان می‌دهد واشینگتن به‌جای یک مسیر واحد، از ترکیب «فرصت» و «تهدید فوری» برای فشار بر طرف ایرانی استفاده می‌کند؛ یعنی مذاکره به‌عنوان ابزار مدیریت ریسک و افزایش اهرم، نه صرفاً گفت‌وگو برای توافق پایدار.",
-            "در لحظه‌ای که مذاکرات تازه آغاز شده، تهدید بمباران می‌تواند محاسبات تصمیم‌گیری تهران را به سمت رویکردهای سخت‌تر یا تاکتیک‌های اتلاف زمان سوق دهد، زیرا هزینه سیاسی و امنیتی هر انعطاف‌پذیری بالا می‌رود."
-        ],
-        "impact": "پیام دوگانه واشینگتن ریسک شکست یا کندی مذاکرات را بالا می‌برد و در عین حال فشار روانی-امنیتی را بر روند تصمیم‌گیری ایران تشدید می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 7,
-        "sentiment": -0.35,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/21/world/middleeast/vance-iran-talks-trump.html",
-        "clean_url": "https://www.nytimes.com/2026/06/21/world/middleeast/vance-iran-talks-trump.html",
-        "image": "http://www.bing.com/th?id=ONUT.BZNAwsjSTgGEEpvQdAmMNQ&pid=News",
-        "timestamp": 1782036300.0
-    },
-    {
-        "title_fa": "ونِس به سوئیس می‌رود؛ مذاکرات هسته‌ای با ایران در دستور کار",
-        "title_en": "Vance travels to Switzerland for nuclear talks with Iran",
-        "summary": [
-            "Axios گزارش می‌دهد که جیمز ونس برای مذاکرات هسته‌ای با ایران به سوئیس سفر کرده است.",
-            "این اقدام نشان می‌دهد محور فشار/چانه‌زنی دولت آمریکا در پرونده هسته‌ای وارد فاز مذاکره مستقیم شده، اما متن خبر جزئیات دستاورد یا محتوای توافق احتمالی ارائه نمی‌کند.",
-            "چون هیچ داده‌ای درباره نتیجه مذاکرات، لغو تحریم‌ها یا عقب‌نشینی میدانی از سوی ایران یا آمریکا در خبر نیامده، اثر فوری آن بیش از هر چیز در سطح دیپلماسی و مدیریت ریسک پرونده هسته‌ای قابل ارزیابی است."
-        ],
-        "impact": "این سفر می‌تواند مسیر گفت‌وگو برای کنترل بحران هسته‌ای را فعال کند، اما بدون نشانه‌های مشخص از امتیازدهی یا تغییر سیاست، اثر عملی کوتاه‌مدتش محدود خواهد بود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "Axios",
-        "url": "https://www.msn.com/en-us/news/world/vance-travels-to-switzerland-for-nuclear-talks-with-iran/ar-AA269Ww1",
-        "clean_url": "https://www.msn.com/en-us/news/world/vance-travels-to-switzerland-for-nuclear-talks-with-iran/ar-AA269Ww1",
-        "image": null,
-        "timestamp": 1782030245.0
-    },
-    {
-        "title_fa": "جمع‌بندی: توافق آتش‌بس موقت ترامپ با ایران؛ گشایش مالی برای تهران و حاشیه‌نشینی اسرائیل در کانون انتقادها",
-        "title_en": "D: Iran deal is biggest foreign policy debacle in modern history. R: I wish I could disagree | Friendly Fire",
-        "summary": [
-            "بر اساس متن، توافق موقت آمریکا-ایران شامل آتش‌بس فوری، بازگشایی تنگه هرمز، و «تسکین جدی تحریم‌ها» است: دسترسی ایران به بازار نفت و یک صندوق توسعه ۳۰۰ میلیارد دلاری، همراه با تعهد ایران به عدم توسعه سلاح هسته‌ای در قالبی که جزئیاتش طی ۶۰ روز باید مذاکره شود.",
-            "منتقدان جمهوری‌خواه در متن می‌گویند آمریکا «چه به دست آورده» است؛ چون ایران ۳۰۰ میلیارد دلار می‌گیرد (بیش از رقم توافق اوباما) و تعهدات هسته‌ای «قطعی و تضمین‌شده» نیست، در نتیجه ابهام درباره توقف واقعی برنامه هسته‌ای برجسته است.",
-            "بحث سیاسی-داخلی هم محور شده: متن می‌گوید پیامدهای توافق هم بر موضع اسرائیل اثر گذاشته (سایدلاین شدن) و هم می‌تواند در رقابت‌های انتخاباتی آمریکا/فشار بر جمهوری‌خواهان نقش داشته باشد، ضمن این‌که همزمان اثر آن بر اتحادهای جهانی و حتی گره‌های منطقه‌ای (مثل اوکراین) محل نگرانی مطرح می‌شود."
-        ],
-        "impact": "این توافق، با اعطای منابع مالی و کاهش فشار خارجی به تهران اما بدون جزئیات الزام‌آور هسته‌ای، می‌تواند توازن منطقه‌ای را به نفع ایران تغییر دهد و هم‌زمان هزینه سیاسی برای آمریکا ایجاد کند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/d-iran-deal-biggest-foreign-134819378.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/d-iran-deal-biggest-foreign-134819378.html",
-        "image": "http://www.bing.com/th?id=ONUT.897vrl1HAHZ33XblNAXbbw&pid=News",
-        "timestamp": 1782029100.0
     }
 ]
