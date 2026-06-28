@@ -108,6 +108,24 @@
         "timestamp": 1782643680.0
     },
     {
+        "title_fa": "سلسله‌ ادعاهای نقض درگیری میان آمریکا و ایران؛ تهدید فوری بر «توافق آتش‌بس»",
+        "title_en": "US-Iran Strikes Threaten Peace Deal: Full Timeline of Violation Claims",
+        "summary": [
+            "این گزارش نیوزویک بر «رقابت اتهام‌ها» میان آمریکا و ایران درباره نقض آتش‌بس تمرکز دارد و نشان می‌دهد هر موج ادعای تخلف، فاصله میان دو طرف را بیشتر می‌کند.",
+            "کلید بحران، همین «تناقض روایی» است: آمریکا و ایران درباره زمان، مکان و ماهیت حملات/اقدامات ادعایی روایت‌های متفاوت ارائه می‌دهند و همین اختلاف، اجرای آتش‌بس را بی‌اعتبار می‌کند.",
+            "نتیجه عملیِ این روند، نزدیک شدن آتش‌بس شکننده به نقطه فروپاشی است؛ چون طرفین به جای مکانیزم راستی‌آزمایی، عملاً با تهدید و ضربه متقابل وارد چرخه فشار می‌شوند."
+        ],
+        "impact": "افزایش درگیری لفظی و عملی در قالب «ادعاهای نقض» می‌تواند آتش‌بس را از حالت مدیریت‌شده خارج کرده و به تشدید مستقیم منجر شود.",
+        "tag": "تنش",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/us-iran-strikes-threaten-peace-deal-full-timeline-of-violation-claims-12132032",
+        "clean_url": "https://www.newsweek.com/us-iran-strikes-threaten-peace-deal-full-timeline-of-violation-claims-12132032",
+        "image": "http://www.bing.com/th?id=ONUT.VaIE62LBcf7LxUUYL5OYJQ&pid=News",
+        "timestamp": 1782639120.0
+    },
+    {
         "title_fa": "اعلام ضربه متقابل؛ آمریکا و ایران هر دو از عملیات تلافی‌جویانه در خاک ایران، کویت و بحرین خبر دادند",
         "title_en": "U.S. and Iran each announce retaliatory strikes in Iran, Kuwait and Bahrain",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending/ar-AA26be8j",
         "image": null,
         "timestamp": 1782044875.0
-    },
-    {
-        "title_fa": "اعزام «کل‌حاکمیت» برای مذاکرات آمریکا؛ پیام روشن برای مطالبه نقدینگی فوری",
-        "title_en": "Iran's unprecedented 'whole-regime' delegation at US deal talks signals one goal: expert",
-        "summary": [
-            "طبق گزارش فاکس نیوز در MSN، ایران هیئتی «کل‌حاکمیت» به مذاکرات در سوئیس فرستاده که چهره‌های کلیدی مانند رئیس‌کل بانک مرکزی و مقام‌های نفتی را هم شامل می‌شود؛ نشانه‌ای از تمرکز روی یک هدف مشخص: راه‌اندازی فوری جریان نقدی.",
-            "حضور هم‌زمان نهاد مالی-پولی و زنجیره نفتی نشان می‌دهد درخواست ایران احتمالاً نه صرفاً سیاسی بلکه عملیاتی است: پول، تسویه و رفع گلوگاه‌های وصول درآمد/پرداخت برای جبران فشارهای اقتصادی.",
-            "این نوع چیدمان هیئت، هزینه‌گذاری سیاسی داخلی را هم بالا می‌برد و معمولاً وقتی رخ می‌دهد که تهران به اثر فوری توافق یا سازوکار پرداخت روی ثبات اقتصادی نیاز داشته باشد؛ یعنی زمان برای رژیم تبدیل به عامل فشار شده است."
-        ],
-        "impact": "اتخاذ فرم «کل‌حاکمیت» در مذاکرات می‌تواند نشان‌دهنده تشدید نیاز رژیم به نقدینگی و فشار اقتصادی باشد و در نتیجه احتمال معامله بر سر سازوکارهای سریع پرداخت را بالا ببرد.",
-        "tag": "sanctions",
-        "urgency": 7,
-        "sentiment": -0.25,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-s-unprecedented-whole-regime-delegation-at-us-deal-talks-signals-one-goal-expert/ar-AA26dkvB",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-unprecedented-whole-regime-delegation-at-us-deal-talks-signals-one-goal-expert/ar-AA26dkvB",
-        "image": "http://www.bing.com/th?id=ONUT.uSUatEg57RDJ2vnmH91-vQ&pid=News",
-        "timestamp": 1782044183.0
     }
 ]
