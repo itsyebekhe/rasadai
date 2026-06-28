@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حمله ایران به کشورهای حوزه خلیج فارس و تهدید توقف کامل مذاکرات با آمریکا",
+        "title_en": "Iran attacks Gulf nations, threatens ‘complete halt’ to talks with US",
+        "summary": [
+            "طبق گزارش The Hill، ایران به کشورهای حوزه خلیج فارس حمله کرده و همزمان تهدید کرده که مذاکرات با آمریکا را «کامل» متوقف می‌کند؛ یعنی هم اهرم نظامی فعال شده و هم مسیر دیپلماتیک مهار می‌شود.",
+            "این پیام، پیامد مستقیم بر محاسبات امنیتی کشورهای منطقه دارد و می‌تواند ریسک پاسخ متقابل یا تشدید درگیری‌های نیابتی/عملیات‌های محدود را بالا ببرد؛ بدون اینکه لزوماً به توافق سیاسی نزدیک باشد.",
+            "تهدید توقف مذاکرات، فشار خارجی را به سمت بن‌بست می‌برد و برای رژیم، از یک سو فرصت کسب امتیاز از مسیر مذاکره را کاهش می‌دهد و از سوی دیگر هزینه‌های مدیریت بحران و کنترل پیامدهای امنیتی را بیشتر می‌کند."
+        ],
+        "impact": "این رویداد هم خطر تشدید امنیتی در خلیج فارس را بالا می‌برد و هم با توقف مسیر مذاکره با آمریکا، احتمال مدیریت سیاسی بحران را کاهش می‌دهد.",
+        "tag": "خلیج‌فارس",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Hill",
+        "url": "https://www.msn.com/en-us/news/other/iran-attacks-gulf-nations-threatens-complete-halt-to-talks-with-us/ar-AA26J4Ok",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-attacks-gulf-nations-threatens-complete-halt-to-talks-with-us/ar-AA26J4Ok",
+        "image": null,
+        "timestamp": 1782647520.0
+    },
+    {
         "title_fa": "ایران به کویت و بحرین حمله می‌کند؛ زنگ خطر برای فرسایش تلاش‌های صلح",
         "title_en": "Iran strikes Kuwait and Bahrain as escalating attacks threaten to unravel peace efforts",
         "summary": [
@@ -106,6 +124,24 @@
         "clean_url": "https://www.msn.com/en-in/news/world/us-israel-iran-war-latest-update-renewed-us-iran-conflict-threatens-shipping-recovery-in-strait-of-hormuz/ar-AA26HKgh",
         "image": null,
         "timestamp": 1782631182.0
+    },
+    {
+        "title_fa": "ده گزاره؛ خوش‌بینی و خطای محاسبه در مذاکرات آمریکا با ایران و شکاف در روایت‌های سیاسی",
+        "title_en": "Ten Propositions: The US, Iran, and the Republican Party",
+        "summary": [
+            "JD Vance در سوئیس مدعی شد پس از یک روز مذاکرات، ایران اجازه بازرسی‌های آژانس بین‌المللی انرژی اتمی را پذیرفته، اما روز بعد تهران این ادعا را رد کرد؛ همین تناقض اعتبار روند مذاکره را زیر سوال می‌برد.",
+            "این متن تاکید می‌کند که سپاه پاسداران، که عملاً نقش تعیین‌کننده در اداره ایران دارد، نشانه‌ای از عقب‌نشینی از هدف اصلی خود برای «جنگ با روش‌های ممکن» علیه اسرائیل، برخی دولت‌های عرب سنی، آمریکا و غرب نشان نداده است؛ بنابراین انتظار از توافق پایدار، پرریسک توصیف می‌شود.",
+            "ترامپ هم‌زمان با امضای «موافقتنامه اسلام‌آباد» (MOU) میان آمریکا و ایران، از «توقف فوری و دائمی عملیات نظامی در همه جبهه‌ها از جمله لبنان» سخن می‌گوید و امید به معامله بزرگ‌تر در کل خاورمیانه را مطرح می‌کند، اما متن با مقایسه با پرونده غزه می‌گوید ستایش ترامپ از «پیشرفت در غزه» با ادعاهای بلندپروازانه درباره ایران هم‌خوان نیست و به رفتار ادامه‌دار نیروهای مورد حمایت ایران در غزه اشاره می‌کند."
+        ],
+        "impact": "این وضعیت—تعارض علنی درباره بازرسی‌های آژانس و شکاف میان وعده‌های دیپلماتیک و واقعیت‌های میدانی—احتمال شکست یا بی‌ثباتی توافق را بالا می‌برد.",
+        "tag": "مذاکره",
+        "urgency": 6,
+        "sentiment": -0.55,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/ten-propositions-us-iran-republican-123842047.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/ten-propositions-us-iran-republican-123842047.html",
+        "image": "http://www.bing.com/th?id=ONUT.clkk8j2aRcr3c6SicJQrwQ&pid=News",
+        "timestamp": 1782626580.0
     },
     {
         "title_fa": "تبادل حملات میان آمریکا و ایران و ادعای نقض آتش‌بس",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/trump-threatens-to-strike-iran-over-hezbollah-as-lebanon-snarls-talks/ar-AA26bPk7",
         "image": "http://www.bing.com/th?id=ONUT.xOBdxW7lnT-wdlizrGbcRQ&pid=News",
         "timestamp": 1782039540.0
-    },
-    {
-        "title_fa": "تمرکز «لیزری» دولت ترامپ بر برنامه هسته‌ای ایران و حرکت مذاکرات در سوئیس",
-        "title_en": "Trump administration \"laser focused\" on Iran's nuclear program, Waltz says",
-        "summary": [
-            "مایک والتز اعلام کرد دولت ترامپ «تمرکز لیزری» بر رسیدگی به برنامه هسته‌ای ایران دارد و این رویکرد را در برابر «انحراف سیاستی» در اهداف قبلی آمریکا قرار داد؛ هدف اعلامی، جلوگیری از دستیابی ایران به سلاح هسته‌ای است.",
-            "هم‌زمان با گفت‌وگوهای دشوار آمریکا و ایران در سوئیس، یک دیدار کم‌سابقه سطح بالا میان JD Vance و دیگر مقام‌های آمریکایی با عباس عراقچی (وزیر خارجه) و محمدباقر قالیباف (رئیس مجلس) انجام شد؛ قالیباف طبق گزارش، از افراد سخت‌گیر و مرتبط با برنامه موشکی و سرکوب اعتراض‌ها توصیف شده است.",
-            "والتز تأیید کرد کارشناسان فنی وزارت انرژی آمریکا در مذاکرات برای پرداختن به جزئیات فنی از جمله سرنوشت ذخایر اورانیوم با غنای بالا حضور دارند؛ همچنین در یک یادداشت تفاهم هفته گذشته بر «حل‌وفصل» وضعیت مواد غنی‌شده ذخیره‌شده تأکید شده و «داون‌بلندینگ» به‌عنوان «حداقل» نتیجه مطرح شده، اما ساختار توافق احتمالی هنوز روشن نیست و گفت‌وگوهای فنی تا حدود ۶۰ روز آینده موضوعات زیادی را دربر می‌گیرد."
-        ],
-        "impact": "این چارچوب نشان می‌دهد آمریکا از فاز کلی‌گویی عقب نشسته و مذاکرات را به مدیریت دقیق پرونده هسته‌ای و موجودی‌های غنی‌شده گره می‌زند، اما نبود جزئیات در یادداشت تفاهم ریسک بن‌بست یا توافق ناقص را بالا نگه می‌دارد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-administration-laser-focused-irans-170546049.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-administration-laser-focused-irans-170546049.html",
-        "image": "http://www.bing.com/th?id=ONUT.UbakMSHlp7olihb_TJff0A&pid=News",
-        "timestamp": 1782038100.0
-    },
-    {
-        "title_fa": "تهدید ترامپ علیه ایران بر سر هرمز؛ هم‌زمانی با گفت‌وگوهای «صلح» جی‌دی ونس در برن",
-        "title_en": "Trump threatens Iran over Hormuz as JD Vance holds peace talks",
-        "summary": [
-            "ترامپ با تهدید علیه ایران در ارتباط با هرمز، پیام روشنی از تداوم فشار امنیتی-نظامی آمریکا می‌دهد؛ یعنی حتی در دوره گفت‌وگو، گزینه بازدارندگی با محوریت تنگه همچنان روی میز است.",
-            "جی‌دی ونس در سوئیس از امید به «برگشتن به نقطه جدید» در روابط واشنگتن و تهران حرف زده، اما همین هم‌زمانی با تهدید صریح ترامپ نشان می‌دهد رویکرد دوگانه است: چانه‌زنی کلامی همراه با تهدید عملیاتی.",
-            "این وضعیت می‌تواند به تصمیم‌گیری اقتصادی و امنیتی در ایران ضربه بزند: ریسک اختلال در مسیرهای تجاری مرتبط با هرمز، هم برای قیمت‌ها و هم برای برنامه‌ریزی تولید و انرژی، عدم‌قطعیت ایجاد می‌کند—even اگر هنوز اقدام مشخصی گزارش نشده باشد."
-        ],
-        "impact": "حتی بدون اعلام اقدام نظامی فوری، تهدید رسمی درباره هرمز احتمال تشدید تنش و فشار اقتصادی-ریسکی بر اقتصاد ایران را بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/world/jd-vance-iranian-officials-begin-peace-talks-in-switzerland/ar-AA26bnNh",
-        "clean_url": "https://www.msn.com/en-us/news/world/jd-vance-iranian-officials-begin-peace-talks-in-switzerland/ar-AA26bnNh",
-        "image": "http://www.bing.com/th?id=ONUT.VZy_JuNsAaevegnpGLu0oA&pid=News",
-        "timestamp": 1782037840.0
     }
 ]
