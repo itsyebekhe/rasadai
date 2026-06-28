@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "آمریکا و ایران برای توقف حملات و نشست فوری توافق کردند",
+        "title_en": "U.S. and Iran agree to halt strikes and meet this week, U.S. official says",
+        "summary": [
+            "طبق گزارش Axios، یک مقام آمریکایی اعلام کرده است که آمریکا و ایران بر سر توقف حملات توافق کرده‌اند و نشست این دو طرف این هفته برگزار می‌شود.",
+            "این توافق از منظر فشار خارجی، یک مکانیسم کاهش ریسک موقت است که می‌تواند شدت درگیری‌های منطقه‌ای را کم کند؛ اما به معنای رفع بحران ساختاری نیست و بیشتر جنبه مدیریت بحران دارد.",
+            "از آنجا که جزئیات درباره زمان، دامنه توقف حملات و سازوکار راستی‌آزمایی ارائه نشده، اثر آن بر ثبات داخلی رژیم و فشار اقتصادیِ ناشی از بن‌بست‌ها قطعی نیست و می‌تواند به سکون کوتاه‌مدت ختم شود."
+        ],
+        "impact": "توقف موقت حملات و برنامه نشست این هفته، ریسک تشدید را کاهش می‌دهد اما بدون جزئیات اجرایی، احتمال برگشت تنش و ادامه فشارهای بیرونی باقی است.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Axios",
+        "url": "https://www.msn.com/en-us/news/world/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says/ar-AA26KBMF",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says/ar-AA26KBMF",
+        "image": null,
+        "timestamp": 1782678144.0
+    },
+    {
         "title_fa": "تعویض ضربات آمریکا-ایران و فروپاشی عملی آتش‌بس",
         "title_en": "U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire",
         "summary": [
@@ -70,6 +88,42 @@
         "clean_url": "https://www.msn.com/en-us/news/other/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes/ar-AA26JstG",
         "image": null,
         "timestamp": 1782655441.0
+    },
+    {
+        "title_fa": "نقطه عطف بازار: خبرهای ایران و نگرانی از هوش مصنوعی روی معاملات، هم‌زمان با تمرکز روی تسلا و داده‌های شغلی",
+        "title_en": "Dow Jones futures: Market at tipping point with Iran news, AI fears in focus. Tesla, jobs on tap.",
+        "summary": [
+            "بازار سهام در آستانه تصمیم‌گیری توصیف شده و «خبرهای ایران» به‌عنوان عامل اثرگذار هم‌زمان با ترس از پیامدهای هوش مصنوعی در کانون توجه سرمایه‌گذاران قرار دارد.",
+            "در کنار این متغیرهای ژئوپلیتیک و تکنولوژیک، جریان معاملات دوگانه است: بعضی نمادها مثل الی لیلی قوی گزارش می‌شوند، اما ریسک‌های دیگر مثل چشم‌انداز فروش خودروهای برقی تسلا برجسته مانده است.",
+            "هم‌زمان «داده‌های شغلی» و همچنین موضوع تسلا به‌عنوان محرک‌های احتمالی حرکت بعدی بازار مطرح شده‌اند تا سرمایه‌گذاران بتوانند اثر این خبرها را در قیمت‌گذاری ریسک بازتاب دهند."
+        ],
+        "impact": "این گزارش بیشتر یک سیگنال روانی-بازاری است: هرچه خبرهای مربوط به ایران و نگرانی از هوش مصنوعی تشدید شود، نوسان و واگرایی معاملات می‌تواند افزایش یابد.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "Investor's Business Daily on MSN",
+        "url": "https://www.msn.com/en-us/money/markets/dow-jones-futures-market-at-tipping-point-with-iran-news-ai-fears-in-focus-tesla-jobs-on-tap/ar-AA26CKoY",
+        "clean_url": "https://www.msn.com/en-us/money/markets/dow-jones-futures-market-at-tipping-point-with-iran-news-ai-fears-in-focus-tesla-jobs-on-tap/ar-AA26CKoY",
+        "image": "http://www.bing.com/th?id=ONUT.V2d0MO0y-YlJkylX4lCN0A&pid=News",
+        "timestamp": 1782655140.0
+    },
+    {
+        "title_fa": "ایران بعد از حملات موشکی، مطالبه‌ کنترل تردد از تنگه هرمز را دوباره مطرح کرد",
+        "title_en": "Iran follows missile strikes with new Hormuz demand",
+        "summary": [
+            "ایران در ادامه موج حمله علیه آمریکا، به پایگاه علی‌ال‌سالم در کویت و مقر ناوگان پنجم آمریکا در بحرین موشک بالستیک شلیک کرد و همزمان اعلام کرد کشتی‌ها بدون اجازه تهران حق عبور از تنگه هرمز ندارند.",
+            "این اقدام پس از سه روز تشدید دوباره جنگ میان ایران و آمریکا صورت گرفت؛ تهدیدی مستقیم برای برهم‌زدن آتش‌بسِ امضا شده در ۱۷ ژوئن و هم‌زمان با گزارش‌هایی که می‌گویند مذاکرات برنامه‌ریزی‌شده در سوئیس به‌خاطر حملات جدید متوقف شده‌اند.",
+            "در حالی که تهران بر «مسیر مورد کنترل» خود در تنگه هرمز تأکید دارد، گزارش می‌شود ده‌ها کشتی در یک هفته اخیر مسیر نزدیک به ساحل عمان را طی کرده‌اند؛ پیام تهران با هشدار افزایش تنش در منطقه، همراه شد و سپاه نیز ادعا کرد برای کنترل تردد در تنگه اقدام می‌کند."
+        ],
+        "impact": "این حرکت هم‌زمان اهرم نظامی در برابر آمریکا و ابزار فشار ژئوپلیتیک علیه تجارت انرژی را فعال می‌کند و مسیر آتش‌بس را برای شکست هموارتر می‌سازد.",
+        "tag": "هرمز",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-follows-missile-strikes-hormuz-185715495.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-follows-missile-strikes-hormuz-185715495.html",
+        "image": "http://www.bing.com/th?id=ONUT.fvt1vDa41OeSrnBwnvx03Q&pid=News",
+        "timestamp": 1782652800.0
     },
     {
         "title_fa": "ایران برای حفظ اهرم در تنگه هرمز، «آرامش» را قربانی گفت‌وگو با آمریکا می‌کند",
@@ -180,6 +234,24 @@
         "timestamp": 1782641940.0
     },
     {
+        "title_fa": "ایران و آمریکا تشدید حملات و تهدید به مرحله بعد؛ توافق دو هفته‌ای زیر فشار متقابل",
+        "title_en": "Iran and US step up attacks and threaten to escalate",
+        "summary": [
+            "رویترز گزارش می‌دهد هر دو طرف، توافقی را که دو هفته پیش برای پایان درگیری چهارماهه امضا شده بود، «نقض‌شده» می‌دانند و همین اتهام متقابل، موتور اصلی تشدید فعلی است.",
+            "تهدید به افزایش سطح درگیری از سوی هر دو طرف مطرح شده، اما متن خبر صراحتی درباره مقیاس، نوع حمله یا اهداف مشخص ارائه نمی‌کند و بنابراین نمی‌توان فراتر از «بالا رفتن احتمال تشدید» نتیجه‌گیری کرد.",
+            "در غیاب جزئیات قابل‌اتکا از روند نقض، پیام سیاسی این رخداد روشن است: توافق به‌جای کاهش تنش، به ابزار اتهام‌زنی تبدیل شده و هر لحظه می‌تواند به شکست عملی کامل منجر شود."
+        ],
+        "impact": "اگر توافق ظرف کوتاه‌مدت بازتعریف نشود، احتمال تبدیل تهدیدها به حملات گسترده‌تر به‌طور جدی بالا می‌رود و ریسک بی‌ثباتی منطقه‌ای افزایش می‌یابد.",
+        "tag": "تشدید",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/asia-pacific/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-hormuz-escalating-2026-06-27/",
+        "clean_url": "https://www.reuters.com/world/asia-pacific/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-hormuz-escalating-2026-06-27",
+        "image": null,
+        "timestamp": 1782639720.0
+    },
+    {
         "title_fa": "سلسله‌ ادعاهای نقض درگیری میان آمریکا و ایران؛ تهدید فوری بر «توافق آتش‌بس»",
         "title_en": "US-Iran Strikes Threaten Peace Deal: Full Timeline of Violation Claims",
         "summary": [
@@ -250,6 +322,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcDBTQkFEbzlzV3FGUXhBeks0Wm5CV2RIU0J4aFcwTl9jRFRNeHRNbkxzVEZNa3ZNSTcwS1FDZm5PM3RDbVJuMFc0bWRwR1hhSlZFVGlMSkdvOC1GcnlLUWpUbjQ0aFlMYWN3X0gtdVBUWHZYSHNKR3BKelJtdUZ1dUpnTWVubU1BOWowd1N3aE1kckE1Uklya1huN25iLUxYM2Q5N0JtcVY",
         "image": null,
         "timestamp": 1782634980.0
+    },
+    {
+        "title_fa": "ترامپ: ادامه ضربات آمریکا می‌تواند به حذف جمهوری اسلامی منجر شود؛ آتش‌بس شکننده زیر فشار تبادل حملات",
+        "title_en": "Trump threatens Iran’s existence amid fragile ceasefire",
+        "summary": [
+            "ترامپ با انتشار یک پیام در Truth Social اعلام کرد هواپیماهای آمریکا به‌دلیل نقض «توافق آتش‌بس» به محل‌های ذخیره موشک/پهپاد و همچنین سایت‌های رادار ساحلی در ایران حمله کرده‌اند و هشدار داد «ممکن است دیگر نتوانیم منطقی باشیم» و در نهایت مجبور به «تکمیل کار» شود تا جمهوری اسلامی «دیگر وجود نداشته باشد».",
+            "هم‌زمان گزارش می‌شود ایران حملات تلافی‌جویانه‌ای علیه کویت و بحرین انجام داده و به نقض آتش‌بس توسط آمریکا متهم کرده است؛ همچنین IRGC هشدار داده حملات بیشتر آمریکا به «توقف کامل همه فرآیندهای دیپلماتیک» منجر می‌شود. با این حال، در متن فعلاً تلفات انسانی گزارش نشده است.",
+            "از سوی دیگر، Centcom از ادامه حملات به اهداف ایرانی پس از حادثه برای نفتکش پاناما-پرچم در تنگه هرمز خبر داده و اشاره شده یک پهپاد به تانکر M/T Kiku برخورد کرده است. همچنین ایران بر کنترل عملیاتی تنگه هرمز تأکید کرده و گفته کشتی‌ها در صورت هماهنگی با مقامات تهران با «ایمنی» عبور خواهند کرد."
+        ],
+        "impact": "این لحن و چرخه حملات نشان می‌دهد آتش‌بس بیش از هر زمان دیگری در معرض فروپاشی است و احتمال تشدید مستقیم و گسترده‌تر را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-iran-existence-amid-124337063.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-threatens-iran-existence-amid-124337063.html",
+        "image": "http://www.bing.com/th?id=ONUT.bPS1cwyJRoaaJ4xAfTA-7w&pid=News",
+        "timestamp": 1782633660.0
     },
     {
         "title_fa": "جنگ آمریکا-اسرائیل علیه ایران؛ خطر تشدید مستقیم و فروپاشی کنترل بحران",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVF9idV83dFpLekJRQW1SMVJEdHVLRWRKZF9zanRTcmI4eHBGYmxxeHZ1eHdIczhVanlNSFFPb2stV2tHR3A5dmlid0UzT1lZdHUwaGpsR2d4aUI5bHM5Tl9HUHRPMXMza05sTENGVU9zUW9zc285dEFpOUtDbXYwZnVzLUpDRjlvQlgzQldHa3JwN1Aya1NQVQ",
         "image": null,
         "timestamp": 1782062997.0
-    },
-    {
-        "title_fa": "موضع‌گیری خامنه‌ای درباره MoU، بحث‌ها را داغ می‌کند؛ دیدار ایران و آمریکا در سوئیس",
-        "title_en": "Khamenei’s MoU stance stirs debate as Iran and US meet in Switzerland",
-        "summary": [
-            "خبرگزاری الجزیره اعلام می‌کند که موضع خامنه‌ای نسبت به «MoU» (سند/توافق مقدماتی) به محور بحث داخلی و رسانه‌ای تبدیل شده، هم‌زمان با اینکه نشست ایران و آمریکا در سوئیس برگزار می‌شود.",
-            "طبق گزارش، نشست دو طرف در سوئیس در چارچوب مذاکره/گفت‌وگوهای سیاسی دنبال می‌شود و شکاف در برداشت‌ها از جایگاه MoU می‌تواند به افزایش دودستگی در داخل منجر شود.",
-            "این هم‌زمانی نشان می‌دهد رهبر جمهوری اسلامی تلاش می‌کند مرزهای قابل‌قبول برای هر توافق مقدماتی را از پیش پررنگ کند؛ موضوعی که می‌تواند روند مذاکرات را کند یا پیچیده کند."
-        ],
-        "impact": "هم‌زمانی موضع سخت‌تر نسبت به MoU با مذاکرات در سوئیس، ریسک بن‌بست یا توافق محدود را بالا می‌برد و هزینه سیاسی را در داخل رژیم افزایش می‌دهد.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUpBUjQ5alZBSVFZU1U4QjlZRzBVSzd1WVltRURlZE9KdnAtVXF2OVpzZGhpSV8yYzBIdGRhbWNqNHdMckhuTXJtLUVKeWhZR3FSZFE3TjY0VzFhcEQxUG9oVE5OU2FWUko1aXBJNmllMWpyaHVyb3lrdmxOM0lLN20tQnBKSzdUYWZfamFnVFczVWpONnlsS0FpUEJVcWEwellnVkVPcmlxN01uTHfSAbMBQVVfeXFMT3g0czJOd01tXzE3TEh4WlJzSHJQYXR6ekt3X2tsVDcyVlJJMjc1eVpvRmdwcWtka1ZwYWdpR05KTmg2U0NEOWotNHMzU0NpT0E3SnRZZUhFXzZCQjVXcXc5S1F6RUxzOUxfZndXbjhpdHNxVm90eEdrSC1wZWNrU1FsaHJCMndHeE1mNy1KWHJNV3J0dnZ3X1g2UHhqU1ctbFlBY1E4clhvVEp1X2xPOWxMaTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcUpBUjQ5alZBSVFZU1U4QjlZRzBVSzd1WVltRURlZE9KdnAtVXF2OVpzZGhpSV8yYzBIdGRhbWNqNHdMckhuTXJtLUVKeWhZR3FSZFE3TjY0VzFhcEQxUG9oVE5OU2FWUko1aXBJNmllMWpyaHVyb3lrdmxOM0lLN20tQnBKSzdUYWZfamFnVFczVWpONnlsS0FpUEJVcWEwellnVkVPcmlxN01uTHfSAbMBQVVfeXFMT3g0czJOd01tXzE3TEh4WlJzSHJQYXR6ekt3X2tsVDcyVlJJMjc1eVpvRmdwcWtka1ZwYWdpR05KTmg2U0NEOWotNHMzU0NpT0E3SnRZZUhFXzZCQjVXcXc5S1F6RUxzOUxfZndXbjhpdHNxVm90eEdrSC1wZWNrU1FsaHJCMndHeE1mNy1KWHJNV3J0dnZ3X1g2UHhqU1ctbFlBY1E4clhvVEp1X2xPOWxMaTQ",
-        "image": null,
-        "timestamp": 1782061545.0
-    },
-    {
-        "title_fa": "بعد از حدود چهار ماه جنگ، «تغییر واقعی» برای ایران ناچیز بوده است",
-        "title_en": "What Changed After Almost Four Months of War? Analysts Say Not Much.",
-        "summary": [
-            "خبر بر این گزاره تکیه می‌کند که در جنگ اولیه ۱۲ روزه (ژوئن گذشته)، حملات آمریکا با اعزام بمب‌افکن‌های دوربرد، به‌صورت مقطعی «سایه» بر دوام بلندمدت برنامه هسته‌ای ایران انداخته بود.",
-            "با این حال، تحلیل‌گران می‌گویند پس از نزدیک به چهار ماه جنگ «چیز زیادی عوض نشده»، یعنی اثرگذاری راهبردی عملیات‌ها به سطح تصمیم‌گیرنده برای تغییر جدی وضعیت نرسیده است.",
-            "در چارچوب همین روایت، تمرکز اصلی روی آسیب‌پذیری بلندمدت برنامه هسته‌ای از طریق تخریب زیرساخت‌ها (مثل دفن تاسیسات زیر حجم ویرانی) است، نه برعکس‌پذیر یا قابل‌تکمیل بودن روندها."
-        ],
-        "impact": "نتیجه عملی این روایت آن است که حتی با توان نظامی نشان‌داده‌شده در آغاز جنگ، روند کلی تضعیف برنامه هسته‌ای به «دگرگونی بزرگ» در طول چهار ماه منجر نشده است.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
-        "clean_url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
-        "image": "https://static01.nyt.com/images/2026/06/21/multimedia/21int-iran-war-aftermath-gjlt/21int-iran-war-aftermath-gjlt-facebookJumbo-v2.jpg",
-        "timestamp": 1782061380.0
-    },
-    {
-        "title_fa": "آغاز مذاکرات صلح در سوئیس با حضور JD Vance و مقام‌های ایرانی",
-        "title_en": "JD Vance, Iranian officials begin peace talks in Switzerland",
-        "summary": [
-            "طبق گزارش واشنگتن پست، JD Vance و مقام‌های ایرانی «مذاکرات صلح» را در سوئیس آغاز کرده‌اند؛ این یک حرکت دیپلماتیک مستقیم با هدف مدیریت تنش‌ها و کاهش ریسک برخورد تعریف می‌شود.",
-            "فکت‌محور و محدود به گزارش: هیچ جزئیات روشن درباره توافقات، شروط طرفین، یا نقشه‌راه اجرایی ارائه نشده و بنابراین نتیجه‌گیری درباره دستاورد مشخص برای هیچ‌یک از دو طرف هنوز زود است.",
-            "حتی اگر گفت‌وگو پیش برود، چنین نشست‌هایی معمولاً در کوتاه‌مدت بیشتر نقش کانال کنترل بحران دارند تا حل ریشه‌ای بحران‌های سیاست خارجی و ساختار امنیتی؛ اثر واقعی زمانی سنجیده می‌شود که متن‌ها، تعهدات و زمان‌بندی‌ها منتشر شوند."
-        ],
-        "impact": "این نشست می‌تواند شدت بحران را موقتاً مهار کند، اما بدون جزئیات توافق، اثر پایدار بر سیاست رژیم یا کاهش فشارها قابل اتکا نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.1,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxtYWxIa0RhbldFTENsNlZndFdweFBoWlhoWFkxWXY0RVZ0SUIxT3dDNVNQSlVjNjlPQ3JEZHVqa0FyM3hSRVBXUFUxYXJ6T1VxQ3NMeV9wX1F6TldlR0RHUThTb0JDMmFpN18zRmNIcGZfWENjMkpQTVFVU3B5RjlQc05sZEI1YUdHNDRUUTcwSE5NWEZHSGRXcUM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRWxtYWxIa0RhbldFTENsNlZndFdweFBoWlhoWFkxWXY0RVZ0SUIxT3dDNVNQSlVjNjlPQ3JEZHVqa0FyM3hSRVBXUFUxYXJ6T1VxQ3NMeV9wX1F6TldlR0RHUThTb0JDMmFpN18zRmNIcGZfWENjMkpQTVFVU3B5RjlQc05sZEI1YUdHNDRUUTcwSE5NWEZHSGRXcUM",
-        "image": null,
-        "timestamp": 1782061053.0
-    },
-    {
-        "title_fa": "فضای چانه‌زنی آمریکا و ایران فراتر از پرونده هسته‌ای",
-        "title_en": "U.S. and Iran Have Plenty to Negotiate Beyond Nuclear Issues",
-        "summary": [
-            "طبق گزارش، واشنگتن و تهران صرفاً روی موضوع هسته‌ای توقف ندارند و برای «رفع تحریم‌ها» هم گفت‌وگو دارند؛ یعنی محور فشار اقتصادی در مذاکرات به‌طور مستقیم وارد فاز حل‌وفصل شده است.",
-            "موضوع «شکل‌دادن صندوق بازسازی» نیز در دستور کار قرار دارد؛ طرحی که می‌تواند مسیر تخصیص منابع مالی را از وضعیت مبهم به چارچوب قابل مذاکره تبدیل کند.",
-            "این بسته مذاکراتی نشان می‌دهد هر دو طرف می‌خواهند ابعاد اقتصادی و نهادیِ توافق را همزمان با پرونده هسته‌ای پیش ببرند، اما جزئیاتِ سازوکارها و میزانِ رفع تحریم‌ها در متن ارائه نشده است."
-        ],
-        "impact": "اگر مذاکرات روی رفع تحریم‌ها و صندوق بازسازی به نتیجه عملی برسد، هزینه‌های ساختاری فشار اقتصادی برای حکومت کاهش می‌یابد و توان مدیریت بحران‌ها را بالا می‌برد.",
-        "tag": "تحریم‌ها",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/21/world/middleeast/us-iran-negotiations-issues.html",
-        "clean_url": "https://www.nytimes.com/2026/06/21/world/middleeast/us-iran-negotiations-issues.html",
-        "image": null,
-        "timestamp": 1782057420.0
-    },
-    {
-        "title_fa": "تهدید تازه ترامپ علیه ایران همزمان با حضور ونس در مذاکرات سوئیس",
-        "title_en": "Trump threatens Iran with fresh strikes as Vance attends talks in Switzerland",
-        "summary": [
-            "CNBC گزارش می‌دهد ترامپ از «حمله/ضربات تازه» علیه ایران تهدید کرده است؛ یعنی رژیم با احتمال تشدید فشار نظامی از سوی آمریکا روبه‌روست.",
-            "همزمان با این تهدید، جی‌دی ونس در سوئیس در حال حضور در مذاکرات است که نشان می‌دهد محور فشار دیپلماتیک و تهدید عملیاتی می‌تواند هم‌زمان پیش برود.",
-            "این خبر به‌صورت مستقیم به تأثیر فوری بر اقتصاد یا اعتراضات داخلی اشاره نمی‌کند، اما ماهیت تهدید، ریسک بی‌ثباتی را در تصمیم‌گیری‌های سیاسی-امنیتی افزایش می‌دهد."
-        ],
-        "impact": "تهدید به ضربات تازه، اگر تبدیل به اقدام شود، می‌تواند هزینه‌های امنیتی و محاسبات ریسک رژیم را به‌طور جدی بالا ببرد، حتی بدون اشاره مستقیم به اقتصاد در خود خبر.",
-        "tag": "تهدیدنظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0lMRG9UMVhBSlRKQ3NYQ1hsMmlUQ3VwT0JlVEhYQUJFOHh6MnUyTnc0Nmd4NXo5dm5rZU5SUXZPbmtYYVRLU2ZhTEk1djZLX0NwaE82eWFRRldjVmdwQ2pJMHJ0eWVqb1FDaUJZWmh4MllHd25Wa2wtd2ZYNHV5bGp1VndLSFBrekRCTnpPVzgxUdIBlwFBVV95cUxNNnRneXJaTGVnWUhlSVItcWZMbENueVJ2RjRjb0dUeGFDU3ZzdHlteU5QanR5NE1iMEExRjgzdTM3MC0wbGZKcmpia3R6WUZ4Z1NPNElxN0tUT2ZOYlBHZHVRVXhjOGlHblNlMWUzQ1RPNkY5dkpPUGJWWFdjUk9nTzJJUUk1MUZiU0J3RnNMMDBqaHR3TzFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN0lMRG9UMVhBSlRKQ3NYQ1hsMmlUQ3VwT0JlVEhYQUJFOHh6MnUyTnc0Nmd4NXo5dm5rZU5SUXZPbmtYYVRLU2ZhTEk1djZLX0NwaE82eWFRRldjVmdwQ2pJMHJ0eWVqb1FDaUJZWmh4MllHd25Wa2wtd2ZYNHV5bGp1VndLSFBrekRCTnpPVzgxUdIBlwFBVV95cUxNNnRneXJaTGVnWUhlSVItcWZMbENueVJ2RjRjb0dUeGFDU3ZzdHlteU5QanR5NE1iMEExRjgzdTM3MC0wbGZKcmpia3R6WUZ4Z1NPNElxN0tUT2ZOYlBHZHVRVXhjOGlHblNlMWUzQ1RPNkY5dkpPUGJWWFdjUk9nTzJJUUk1MUZiU0J3RnNMMDBqaHR3TzFB",
-        "image": null,
-        "timestamp": 1782051165.0
     }
 ]
