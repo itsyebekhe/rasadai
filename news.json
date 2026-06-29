@@ -72,6 +72,24 @@
         "timestamp": 1782763716.0
     },
     {
+        "title_fa": "رقابت بر سر تصمیم‌گیری برای تنگه هرمز: ایران می‌خواهد تنها «اهرم مذاکره» را دست خودش نگه دارد",
+        "title_en": "Iran is jealously competing with Oman as decision-maker over strait of Hormuz",
+        "summary": [
+            "طبق گزارش، تنگه هرمز «اهرم اصلی» ایران در مذاکره با آمریکا است و نزاع بر سر هر مسیرِ عبور، به نمایش قدرت و فرسایش صبر دو طرف تبدیل شده؛ ایران تلاش دارد کنترل انحصاریِ روند رفع انسداد را در اختیار خود نگه دارد.",
+            "در چارچوب «موافقت‌نامه» ۱۸ ژوئن با واشنگتن، آغاز گفت‌وگوهای جدی درباره برنامه هسته‌ای به «رفع انسداد تنگه» گره خورده و آمریکا زمان‌بندی قطعی را به ایران نسپرده؛ ایران از همین خلأ برای تفسیر حداکثری سود می‌برد و مشارکت هر کشور/نهاد دیگری را در افتتاح مسیرها محدود می‌کند.",
+            "پیشنهاد مسیر جنوبی نزدیک سواحل عمان (با نظارت آمریکا از طریق مرکز اطلاعات دریایی مشترک) که در چارچوب IMO مطرح شده بود، با «حمله ایران به یک کشتی سنگاپوری» هنگام عبور در همین مسیر، عملاً متوقف شد؛ IMO می‌گوید به‌دلیل نبود توافق عملی، برنامه را رها کرده است و احتمالاً اختلاف در نشست‌های دوحه دوباره بالا می‌گیرد."
+        ],
+        "impact": "ممانعت ایران از هر «چیدمان جداگانه» برای مدیریت تنگه، مذاکرات را به جای راه‌حل بلندمدت، درگیر رقابت بر سر کنترل اجرایی و مسیرهای دریایی نگه می‌دارد.",
+        "tag": "هرمز",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/jun/29/oman-safe-reopening-strait-hormuz-iran-us-middle-east",
+        "clean_url": "https://www.theguardian.com/world/2026/jun/29/oman-safe-reopening-strait-hormuz-iran-us-middle-east",
+        "image": null,
+        "timestamp": 1782761400.0
+    },
+    {
         "title_fa": "ایران و آمریکا؛ توقف ضربات بدون توافق بر سر مسیر مذاکرات، گره‌های حل‌نشده در اختلاف",
         "title_en": "Iran says this. The U.S. says that. A look at the trickiest issues in the unresolved conflict",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://time.com/article/2026/06/22/jd-vance-donald-trump-iran-peace-talks-congress-nuclear-strait-of-hormuz",
         "image": "http://www.bing.com/th?id=ONUT.o4c9SoSU0C-6jBpiypXQQw&pid=News",
         "timestamp": 1782134340.0
-    },
-    {
-        "title_fa": "گفت‌وگوهای آمریکا-ایران «بنیاد خوبی» برای توافق پایان جنگ ایجاد می‌کند؛ ونس می‌گوید",
-        "title_en": "U.S.-Iran talks set ‘good foundation’ for deal to end war, Vance says",
-        "summary": [
-            "NBC News گزارش می‌دهد که جیمز ونس، مقام آمریکایی، اعلام کرده گفت‌وگوهای آمریکا و ایران «بنیاد خوبی» برای رسیدن به توافق جهت پایان جنگ ایجاد کرده است.",
-            "در متن منتشرشده، هیچ جزئیات قابل راستی‌آزمایی درباره مفاد توافق، جدول زمان‌بندی، یا شروط دو طرف ارائه نشده و بنابراین فعلاً سطح اعلام امیدواری سیاسی بالاست، نه یک توافق اجرایی.",
-            "این تحرک دیپلماتیک می‌تواند به‌عنوان تلاش برای کاهش هزینه‌های عملیاتی و فشارهای خارجی بر وضعیت رژیم و محیط امنیتی منطقه تفسیر شود، اما با داده‌های مشخص اقتصادی/تحریمی یا اقدامات اجرایی همراه نشده است."
-        ],
-        "impact": "این خبر بیشتر یک سیگنال سیاسی درباره مسیر مذاکرات است و تا زمان اعلام جزئیات، اثر مستقیم و قابل سنجش بر مهار جنگ یا ثبات داخلی قابل تایید نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F3TUhPcm9hMVI3M1JlRU1PSW1XV2RFLWJvVk9OWm10ZE9NR3pIOW1zVXZjQjhaV2ZGYTd4U284MTBidF93Q0dZTDdmNEFEcnNiaWRIVmM5VFJua0xzcUM1MGdxSXpROTZ2cDR3STFRNEVwMk0xZk5kdE5YMG1ZdHRRck1vaDVzWHNFYWNNbnR0aFdIVHdaUlNBZzZsRUYzOUpGYnRxV0lLbzRla1dkRWpBUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPY0F3TUhPcm9hMVI3M1JlRU1PSW1XV2RFLWJvVk9OWm10ZE9NR3pIOW1zVXZjQjhaV2ZGYTd4U284MTBidF93Q0dZTDdmNEFEcnNiaWRIVmM5VFJua0xzcUM1MGdxSXpROTZ2cDR3STFRNEVwMk0xZk5kdE5YMG1ZdHRRck1vaDVzWHNFYWNNbnR0aFdIVHdaUlNBZzZsRUYzOUpGYnRxV0lLbzRla1dkRWpBUQ",
-        "image": null,
-        "timestamp": 1782131246.0
     }
 ]
