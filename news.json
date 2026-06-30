@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حملات مرگبار در شمال‌غرب ایران؛ گزارش سپاه از درگیری‌های تازه",
+        "title_en": "Deadly attacks shake northwest Iran as IRGC reports new clashes",
+        "summary": [
+            "طبق گزارش ایران اینترنشنال، در شمال‌غرب ایران حملات مرگبار رخ داده و فضای امنیتی منطقه را به‌هم زده است.",
+            "همزمان، سپاه پاسداران از «درگیری‌های تازه» خبر داده که نشان می‌دهد تنش‌های میدانی ادامه‌دار است و یک رویداد محدود نبوده.",
+            "ترکیب «حملات مرگبار» با «گزارش درگیری‌های جدید» به معنای تشدید خطر امنیتی برای شهرها و مسیرهای منطقه‌ای است و می‌تواند واکنش‌های سخت‌گیرانه‌تر را محتمل کند."
+        ],
+        "impact": "ادامه و تکرار درگیری‌های گزارش‌شده در شمال‌غرب، هزینه امنیتی و سیاسی دولت را بالا می‌برد و به بی‌ثباتی منطقه‌ای دامن می‌زند.",
+        "tag": "امنیتی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.msn.com/en-in/news/world/iran-closes-strait-of-hormuz-after-fresh-us-strikes-reports-clashes-with-american-forces/ar-AA25koAB",
+        "clean_url": "https://www.msn.com/en-in/news/world/iran-closes-strait-of-hormuz-after-fresh-us-strikes-reports-clashes-with-american-forces/ar-AA25koAB",
+        "image": null,
+        "timestamp": 1782823680.0
+    },
+    {
         "title_fa": "وابستگی احتمالی توافق بلندمدت آمریکا-ایران به معامله اسرائیل-لبنان؛ گیر افتادن در جنگ با حزب‌الله",
         "title_en": "U.S.-Iran Latest: Peace deal efforts inch along, mired by Israel's fight with Hezbollah",
         "summary": [
@@ -72,6 +90,24 @@
         "timestamp": 1782816933.0
     },
     {
+        "title_fa": "انرژی‌ناو: گره‌های اصلی میان آمریکا و ایران برای هر «توافق صلح» چیست؟",
+        "title_en": "What Issues Do The US And Iran Need to Resolve for Any Peace Deal?",
+        "summary": [
+            "این گزارش عملاً یک جمع‌بندی پرسشی است و به جای ارائه جزئیات، بر این محور می‌چرخد که آمریکا و ایران باید «مسائل حل‌نشده» را مشخص کنند تا امکان توافق وجود داشته باشد؛ هیچ بند مشخص، تاریخ یا اقدام اجرایی ذکر نشده است.",
+            "سطح فشار خارجی یا تحریم‌ها، به‌صورت مستقیم در متن منبع به‌عنوان عامل تعیین‌کننده وارد نمی‌شود؛ بنابراین نمی‌توان اثر ساختاری آن بر ثبات رژیم را از همین داده استخراج کرد.",
+            "در گزارش اشاره‌ای به پروکسی‌ها، عملیات میدانی، یا نقش چین/روسیه/کره‌شمالی وجود ندارد و هیچ نشانه‌ای از موج اعتراض داخلی یا شاخص‌های اقتصادی مشخص ارائه نمی‌شود."
+        ],
+        "impact": "با توجه به کلی‌بودن متن، این محتوا بیشتر یک چارچوب بحث درباره شروط توافق است تا یک رویداد قابل سنجش با پیامد فوری.",
+        "tag": "دیپلماسی",
+        "urgency": 2,
+        "sentiment": -0.1,
+        "source": "EnergyNow.com",
+        "url": "https://www.reuters.com/world/middle-east/what-issues-do-us-iran-need-resolve-any-peace-deal-2026-06-05/",
+        "clean_url": "https://www.reuters.com/world/middle-east/what-issues-do-us-iran-need-resolve-any-peace-deal-2026-06-05",
+        "image": null,
+        "timestamp": 1782815858.0
+    },
+    {
         "title_fa": "ارزیابی تلاش آمریکا و ایران برای تمدید آتش‌بس دو هفته‌ای",
         "title_en": "US and Iran Weigh Extending Their Ceasefire by Two Weeks",
         "summary": [
@@ -126,6 +162,24 @@
         "timestamp": 1782805260.0
     },
     {
+        "title_fa": "رد مذاکره ایران با پیشنهاد جدید آمریکا؛ تمرکز بر دوحه، دارایی‌های بلوکه‌شده و تنش پایدار در تنگه هرمز",
+        "title_en": "Iran US Israel war Live Updates: Iran Rejects US Talks, Regional Powers Condemn Israel's Military Operations In Syria",
+        "summary": [
+            "دونالد ترامپ اعلام کرد مقامات آمریکا و ایران برای پیشبرد اجرای یک یادداشت تفاهم در دوحه دیدار خواهند کرد، اما ایران با سخنان کاظم غریب‌آبادی تأکید کرد هیچ مذاکره فنی رسمی زمان‌بندی نشده و فقط رایزنی‌ها با قطر برای اجرای توافق ادامه دارد.",
+            "بر اساس اظهارات کاخ سفید، فرستاده ویژه استیو ویتکاف و مشاور ارشد جرد کوشنر به دوحه می‌روند و قرار است هم‌زمان گفت‌وگوهای فنی و مذاکرات دیپلماتیک برگزار شود؛ در همین حال، وزارت خارجه ایران اعلام کرد نمایندگان کارشناس برای پیگیری روند آزادی دارایی‌های بلوکه‌شده—از جمله گزارش‌هایی درباره آزادی ۶ میلیارد دلار در قطر—اعزام می‌شوند، بدون تأیید رسمی انتقال از سوی واشینگتن یا دوحه.",
+            "تهران همچنین با پیشنهاد فرانسه برای حمایت از عملیات مین‌روبی در تنگه هرمز مخالفت کرد و آن را در محیط امنیتی حساس «تحریک‌آمیز» دانست؛ هم‌زمان حمله‌های گزارش‌شده به کشتی‌های تجاری در تنگه هرمز، از جمله ادعای اصابت/حمله به یک کشتی باری توسط ایران، نگرانی‌ها از شکنندگی آتش‌بس را تشدید کرده است."
+        ],
+        "impact": "این ترکیبِ بی‌اعتمادی در روند مذاکره، گره دار شدن مسئله دارایی‌های بلوکه‌شده و تداوم تنش در تنگه هرمز، احتمال فروپاشی آتش‌بس را بالا نگه می‌دارد.",
+        "tag": "اورژانس",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-president-trump-pezeshkian-netanyahu-peace-deal-military-bases-attacks-israel-iran-news-liveblog-154805177",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-us-war-live-updates-president-trump-pezeshkian-netanyahu-peace-deal-military-bases-attacks-israel-iran-news-liveblog-154805177",
+        "image": "http://www.bing.com/th?id=ONUT._BhZAWlyKU5WK_WaKWDqYw&pid=News",
+        "timestamp": 1782802920.0
+    },
+    {
         "title_fa": "گزارش: ۲ عضو سپاه پاسداران در تیراندازی کشته شدند",
         "title_en": "2 members of Iran's IRGC killed in shooting: Reports",
         "summary": [
@@ -142,6 +196,24 @@
         "clean_url": "https://www.aa.com.tr/en/middle-east/2-members-of-irans-irgc-killed-in-shooting-reports/3981821",
         "image": null,
         "timestamp": 1782800144.0
+    },
+    {
+        "title_fa": "تالاب جدید کریدور جنوبی و تشدید رقابت بر سر تنگه هرمز؛ ایران در پی حفظ اهرم کنترل است",
+        "title_en": "Iran fights to keep grip on Hormuz as US, Gulf allies carve new shipping route",
+        "summary": [
+            "همزمان با هدایت بیشتر کشتی‌ها به «کریدور جنوبی» کنار ساحل عمان توسط آمریکا و عمان، گزارش می‌گوید ایران حملاتی علیه کشتی‌های تجاری انجام داده تا اهرم اثرگذاری‌اش بر تنگه هرمز را حفظ کند؛ تحلیلگران این هم‌زمانی را «تصادفی» نمی‌دانند.",
+            "پس از حملات ایران، آمریکا به‌طور تلافی‌جویانه به اهداف نظامی ایران ضربه زد و سپس آتش‌بس و مذاکرات در دوحه شکل گرفت، هرچند ایران اعلام کرد مذاکره‌کنندگانش با مقامات آمریکایی در قطر دیدار نخواهند داشت.",
+            "این روند بازتاب دو رویکرد متضاد است: ایران می‌خواهد «وضعیت جدید» در خلیج فارس به گونه‌ای باشد که کنترل و نفوذش کاهش نیابد، در حالی که دولت‌های خلیج فارس نسبت به قابلیت اتکای آمریکا به عنوان شریک امنیتی ابراز تردید می‌کنند؛ همچنین گفته می‌شود نزدیک به نیمی از ترافیک تجاری ورودی از مسیر جنوبی استفاده می‌کند."
+        ],
+        "impact": "توسعه مسیرهای جایگزین و پاسخ نظامی آمریکا، توان ایران برای «اخذ هزینه از ترانزیت» را محدودتر می‌کند و خطر چرخه جدید درگیری برای امنیت کریدورها را بالا می‌برد.",
+        "tag": "هرمز",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-fights-keep-grip-hormuz-100033711.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-fights-keep-grip-hormuz-100033711.html",
+        "image": "http://www.bing.com/th?id=ONUT.6GEutAaxFuGWfTUSlDAVKw&pid=News",
+        "timestamp": 1782796500.0
     },
     {
         "title_fa": "دو قرارداد نشان‌دهنده دو رویکرد متفاوت ترامپ به بازیگران کلیدی خاورمیانه",
@@ -162,6 +234,42 @@
         "timestamp": 1782796408.0
     },
     {
+        "title_fa": "شکاف گسترده در «بلوک ایمان» جمهوری‌خواهان درباره تفاهم ترامپ و ایران؛ اختلاف بر سر میزان حفاظت از امنیت اسرائیل",
+        "title_en": "Trump’s massive GOP faith bloc raises red flag on Iran deal: Trust him, not his team",
+        "summary": [
+            "به گزارش Fox News (از طریق MSN)، رهبران انجیلی جمهوری‌خواه درباره یادداشت تفاهم ترامپ با ایران دچار دوگانگی‌اند: بخشی اقدام نظامی را می‌ستاید و بخشی دیگر هشدار می‌دهد که اسرائیل «خیانت» شده است.",
+            "این اختلاف صریح داخلی در بلوک مهم سیاسی، نشان می‌دهد که اجماع روشنی درباره خط ایران وجود ندارد و حتی درون اردوگاه حامی ترامپ هم اعتماد یکدست نیست.",
+            "از آنجا که متن خبر عمدتاً بر واکنش‌های مذهبی-سیاسی و نگرانی‌های امنیتی نسبت به اسرائیل تمرکز دارد، فشار اصلی این مرحله «اعتبارسنجی سیاسی» است نه تحریم یا اقدام عملی جدید علیه جمهوری اسلامی."
+        ],
+        "impact": "این شکاف داخلی می‌تواند اجرای یک توافق یا تفاهم را از نظر سیاسی پرهزینه کند و ریسک بی‌ثباتی در پشت صحنه تصمیم‌گیری درباره ایران را بالا ببرد.",
+        "tag": "ایران",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-s-massive-gop-faith-bloc-raises-red-flag-on-iran-deal-trust-him-not-his-team/ar-AA26S83O",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-massive-gop-faith-bloc-raises-red-flag-on-iran-deal-trust-him-not-his-team/ar-AA26S83O",
+        "image": "http://www.bing.com/th?id=ONUT.XYc01MRPAoquuirYOF8Rcw&pid=News",
+        "timestamp": 1782788448.0
+    },
+    {
+        "title_fa": "ابهام بر سر گام بعدی گفت‌وگوهای آمریکا و ایران در قطر؛ اختلاف روایت واشنگتن و تهران",
+        "title_en": "Uncertainty clouds next step in US-Iran negotiations",
+        "summary": [
+            "آمریکا و ایران درباره امکان و شکل برگزاری دیدار «کلیدی‌ها» در قطر پیام‌های متناقض می‌دهند؛ قرار بود مذاکرات در سوئیس و با محور هسته‌ای باشد، اما هم‌زمان با تغییر مکان و دستور، مسیر مذاکرات زیر سایه درگیری‌های اخیر بر تنگه هرمز قرار گرفت.",
+            "بر اساس گزارش، دور تازه «چک‌به‌چک» حملات آمریکا و ایران بر تنگه هرمز باعث شد محل و قالب نشست‌های سطح بالا و فنی عوض شود و اکنون معلوم نیست طرفین رو در رو مذاکره کنند یا صرفاً از طریق میانجی‌گری قطر پیام رد و بدل شود.",
+            "ترامپ اعلام کرده جلسه‌ای در دوحه برگزار می‌شود و آمریکا با حضور استیو ویتکاف و جرد کوشنر در سطحی مشخص نمایندگی خواهد داشت، اما اسماعیل باقایی، سخنگوی وزارت خارجه ایران، می‌گوید هیچ جلسه مذاکره‌ای با طرف آمریکایی در روزهای پیش رو برنامه‌ریزی نشده و سفر هیئت ایرانی به دوحه را به «اجرای توافق موقت» محدود می‌کند؛ این اختلاف روایت عملاً نشانه عقب‌نشینی تهران از قالب دیدار سطح بالا است."
+        ],
+        "impact": "ابهام در شکل و زمان‌بندی گفت‌وگوها احتمالاً فرایند را کند می‌کند و چون محور همچنان بین هسته‌ای و بحران تنگه هرمز در نوسان است، ریسک تشدید تنش عملیاتی بالا می‌ماند.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/uncertainty-clouds-next-step-us-092211849.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/uncertainty-clouds-next-step-us-092211849.html",
+        "image": "http://www.bing.com/th?id=ONUT.YM5GaiwnYhn7Syyg3zd4Wg&pid=News",
+        "timestamp": 1782786960.0
+    },
+    {
         "title_fa": "ایران هیئت را به دوحه می‌فرستد، اما «مذاکره با آمریکا» را رد می‌کند؛ فضای گفت‌وگو روی سوزنِ بحران می‌چرخد",
         "title_en": "Iran Says Its Delegation Will Be in Doha, but Not for Talks With U.S.",
         "summary": [
@@ -178,6 +286,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-says-delegation-visit-qatar-202015812.html",
         "image": null,
         "timestamp": 1782786824.0
+    },
+    {
+        "title_fa": "اظهارنظر توهین‌آمیز مقام کابینه ترامپ درباره حذف ایران از جام جهانی؛ چراغ سبز برای تشدید لحن ضدایرانی",
+        "title_en": "Trump cabinet official offers most undiplomatic commentary on Iran World Cup exit",
+        "summary": [
+            "مارک‌وِین مولین، وزیر امنیت داخلی آمریکا، با جمله‌هایی کاملاً غیرتعارفی واکنش نشان داد و گفت «خیلی خوشحالم» و حتی «شاید برقصم» چون ایران از جام جهانی حذف شده است.",
+            "این نوع اظهارنظر نشان می‌دهد بخش‌هایی از تیم ترامپ می‌خواهند لحن خصمانه علیه ایران را علنی و احساسی نگه دارند، نه صرفاً در سطح دیپلماتیک؛ هدفش فشار روانی و تقویت روایت تقابلی است.",
+            "در چارچوب فشار خارجی، چنین اظهاراتی به‌تنهایی تغییر فوری در سیاست یا اقتصاد ایجاد نمی‌کند، اما می‌تواند فضا برای تصمیم‌های سخت‌تر بعدی را هموار کند چون هزینه سیاسیِ گفتار تهاجمی را پایین می‌آورد."
+        ],
+        "impact": "تأثیر مستقیم اقتصادی یا امنیتی در کوتاه‌مدت محدود است، اما این نوع لحن ضدایرانی می‌تواند زمینه‌ساز تشدید فشار سیاسی و سخت‌گیری‌های بعدی شود.",
+        "tag": "فشارخارجی",
+        "urgency": 4,
+        "sentiment": -0.6,
+        "source": "HuffPost on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-cabinet-official-offers-most-undiplomatic-commentary-on-iran-world-cup-exit/ar-AA26RSej",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-cabinet-official-offers-most-undiplomatic-commentary-on-iran-world-cup-exit/ar-AA26RSej",
+        "image": "http://www.bing.com/th?id=ONUT.BAq9woVNLQTBnbAqqg1KcA&pid=News",
+        "timestamp": 1782784141.0
     },
     {
         "title_fa": "امنیت توخالی نتانیاهو: چراغ سبز به رشد سپاه",
@@ -5272,131 +5398,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-live-updates-us-iran-075814639.html",
         "image": "http://www.bing.com/th?id=ONUT.W3YkzBmFsv4WRAZoZNCuPQ&pid=News",
         "timestamp": 1782173940.0
-    },
-    {
-        "title_fa": "ایران برای جلوگیری از سوءتفاهم، «خط داغ هرمز» با آمریکا راه می‌اندازد؛ دور نخست گفت‌وگوها پایان یافت",
-        "title_en": "US Iran war LIVE updates: Iran to set up Hormuz 'hotline' with US to avoid misunderstandings as talks conclude",
-        "summary": [
-            "بر اساس گزارش هندوستان‌تایمز، پس از پایان دور طولانی گفت‌وگوهای اولیه میان جی.دی. ونس و محمدباقر قالیباف، موضوع ایجاد کانالی برای کاهش ریسک اشتباهات مطرح شده است؛ هدف اعلامی، جلوگیری از سوءتفاهم‌های میان دو طرف در سطح حساس هرمز است.",
-            "این اظهارات بلافاصله بعد از جمع‌بندی مذاکرات اولیه درباره «تثبیت پایان دائمی جنگ» مطرح شده؛ یعنی گفت‌وگوها به فاز نهایی صرفاً اعلام‌وار منتقل نشده و برای طراحی سازوکارهای پایدار در حال پیگیری است.",
-            "اهمیت راه‌اندازی خط ارتباطی در این است که کانال مستقیم مدیریت بحران می‌سازد؛ اما از نظر راهبردی، به‌جای حل ریشه تنش، صرفاً هزینه خطا و تشدید ناخواسته را پایین می‌آورد."
-        ],
-        "impact": "«خط داغ هرمز» احتمال تشدید ناخواسته تنش را کاهش می‌دهد، اما هم‌زمان نشان می‌دهد طرفین هنوز در چارچوب یک روند سخت برای تثبیت پایان جنگ در حرکت‌اند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/world-news/us-iran-war-live-peace-deal-switzerland-vance-trump-strait-of-hormuz-lebanon-israel-pakistan-qatar-tehran-nuclear-news-101782175716414.html",
-        "clean_url": "https://www.hindustantimes.com/world-news/us-iran-war-live-peace-deal-switzerland-vance-trump-strait-of-hormuz-lebanon-israel-pakistan-qatar-tehran-nuclear-news-101782175716414.html",
-        "image": null,
-        "timestamp": 1782167940.0
-    },
-    {
-        "title_fa": "اسرائیل از تقویت دست ایران در لبنان توسط ترامپ نگران است",
-        "title_en": "Israel fears Trump is strengthening Iran's hand in Lebanon",
-        "summary": [
-            "طبق گزارش Axios، نگرانی اصلی اسرائیل این است که سیاست‌های ترامپ می‌تواند به نفع ایران در لبنان تمام شود و اهرم فشار تهران را در این جبهه تقویت کند.",
-            "این برداشت مستقیماً به محور لبنان گره خورده است: یعنی نه درباره توان داخلی ایران، بلکه درباره پیامدهای ژئوپلیتیک و عملیاتی در همان میدان درگیری.",
-            "نکته کلیدی گزارش این است که تهدید برای اسرائیل از جنس برداشت رژیم/دولت اسرائیل نسبت به تغییر جهت سیاست آمریکا است؛ بنابراین اثر آن در سطح موازنه قدرت منطقه‌ای مطرح شده، نه اجرای قطعی یک اقدام مشخص."
-        ],
-        "impact": "اگر نگرانی اسرائیل مبنی بر تقویت موقعیت ایران در لبنان درست از آب دربیاید، موازنه بازدارندگی در مرزهای شمالی اسرائیل به نفع تهران تغییر می‌کند.",
-        "tag": "لبنان",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4ME1ZOERqaU1OY1VuOUZQSVlYMV9EczJDR1JfcDA5V1NHQk82QnNUbU1SR0dZSUNKcHhaT2hVYkUxeEFfUlMzWWZEZTlxQk1Ua1Iya2M3UlpJeGNiRklWZVdrb091RjVT?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4ME1ZOERqaU1OY1VuOUZQSVlYMV9EczJDR1JfcDA5V1NHQk82QnNUbU1SR0dZSUNKcHhaT2hVYkUxeEFfUlMzWWZEZTlxQk1Ua1Iya2M3UlpJeGNiRklWZVdrb091RjVT",
-        "image": null,
-        "timestamp": 1782165725.0
-    },
-    {
-        "title_fa": "فرصت برای توقف چرخه درگیری؛ اما «تبدیل صفحه» بدون تضمین",
-        "title_en": "Trump’s Iran Debacle Could Be a Gift for America",
-        "summary": [
-            "نویسنده با اشاره به «شانس» کم‌عودت به جنگ، می‌گوید احتمالاً مسیر ایالات متحده به سمت درگیری مستقیم با ایران برنمی‌گردد؛ محور خبر بیشتر نیت و امکانِ سیاسی است نه یک تصمیم قطعی.",
-            "ادعا روی ایده «turn the page» از ۴۷ سال دشمنی و رویارویی می‌چرخد؛ یعنی چالشی که مطرح می‌شود صرفاً نظامی نیست و به مدیریتِ تنش و سازوکارهای پایان‌دادن به چرخه تقابل مربوط می‌شود.",
-            "با وجود عبارت «debacle»، متن جزئیات درباره تحریم‌های جدید، فشار خارجی مشخص، یا رخداد میدانی ارائه نمی‌کند؛ پس ارزیابی عملی از اثر آن بر اقتصاد ایران یا توازن داخلی رژیم در همین گزارش قابل اتکا نیست."
-        ],
-        "impact": "این متن بیشتر یک ارزیابی سیاسی درباره جلوگیری از بازگشت به جنگ است تا گزارشِ اقدام مشخص که بتوان اثرش را فوراً بر فشارهای خارجی یا وضعیت داخلی ایران سنجید.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/23/opinion/trump-iran-war-confrontation.html",
-        "clean_url": "https://www.nytimes.com/2026/06/23/opinion/trump-iran-war-confrontation.html",
-        "image": "http://www.bing.com/th?id=ONUT.YNxGk2ohbo3M0VSrozRsZA&pid=News",
-        "timestamp": 1782165600.0
-    },
-    {
-        "title_fa": "آیا ایران بازرسی‌های هسته‌ای را از سر می‌گیرد؟ اختلاف روایی میان پاسخ‌های ترامپ و ایران",
-        "title_en": "Is Iran Resuming Nuclear Inspections? Trump And Iran Offer Different Answers",
-        "summary": [
-            "فوربس گزارش می‌دهد که موضوع ازسرگیری بازرسی‌های هسته‌ای دوباره روی میز آمده، اما روایت‌ها در دو طرف یکسان نیستند: ترامپ و طرف ایرانی برداشت‌های متفاوتی از وضعیت ارائه می‌دهند.",
-            "این اختلاف می‌تواند نشان‌دهنده بازی دوگانه ارتباطی باشد: یا ایران در حال مذاکره برای کنترل دامنه بازرسی‌هاست یا دولت ترامپ می‌خواهد تصویر «پذیرش سریع» را برجسته کند—در هر دو حالت، عدم‌هماهنگی یعنی موضوع هنوز حل‌وفصل نشده است.",
-            "تا وقتی جزئیات و زمان‌بندی و چارچوب بازرسی‌ها شفاف و قابل راستی‌آزمایی نباشد، این «اختلاف در پاسخ» به‌جای کاهش تنش، ریسک طولانی‌شدن بن‌بست و فشارهای بعدی را بالا می‌برد."
-        ],
-        "impact": "اختلاف روایت درباره ازسرگیری بازرسی‌ها نشانه تداوم ابهام و معامله‌محوری در پرونده هسته‌ای است و می‌تواند چرخه فشار/تقابل را طولانی‌تر کند.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Forbes",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRFY4dXJJODNqd2otYzNfamlNYS0zdHhwRTM5Wl9JQ3VaTGl0Ykc0VnhQMzIzRlUzZDd3ZjFMbi1NV3c2V2tJT1ZqaFE1bUxMc0JmZktUTS1SZ1VneE84dWNQaENIS0FSYzVMaEw2ZS1kX0hxZXZ6cWotQVFLbkZiSTRERVZkUzFlN1R4V21oaXFkQWJqQlcydXZUNW1VMm5sRlZZTi1KZlExc0doX3ltOHhVTWNWMlUtcWYyTXRGNkZLNGFBU1Uw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRFY4dXJJODNqd2otYzNfamlNYS0zdHhwRTM5Wl9JQ3VaTGl0Ykc0VnhQMzIzRlUzZDd3ZjFMbi1NV3c2V2tJT1ZqaFE1bUxMc0JmZktUTS1SZ1VneE84dWNQaENIS0FSYzVMaEw2ZS1kX0hxZXZ6cWotQVFLbkZiSTRERVZkUzFlN1R4V21oaXFkQWJqQlcydXZUNW1VMm5sRlZZTi1KZlExc0doX3ltOHhVTWNWMlUtcWYyTXRGNkZLNGFBU1Uw",
-        "image": null,
-        "timestamp": 1782160396.0
-    },
-    {
-        "title_fa": "ترامپ، ایران و انکار شکست",
-        "title_en": "Trump, Iran and the Denial of Defeat",
-        "summary": [
-            "این متن در چارچوب گزارش «تایم» به مسئله «انکار شکست» در سیاست‌های ترامپ نسبت به پرونده ایران می‌پردازد؛ یعنی تلاش برای حفظ روایت شکست‌ناپذیری حتی در شرایطی که نتیجه‌ها محل مناقشه است.",
-            "نشانه اصلی گزارش، تمرکز بر منطق سیاسی پشت تصمیم‌هاست: ترجیح ادامه مسیر فشار/چانه‌زنی به‌جای پذیرش پیامدهای منفی یا اصلاح راهبرد، که می‌تواند به تداوم بن‌بست منجر شود.",
-            "از آنجا که متن ارسالی فقط تیتر را دارد و جزئیات مشخص از اقدام‌ها یا رخدادهای میدانی ارائه نمی‌کند، ارزیابی دقیق پیامدهای اقتصادی یا امنیتیِ مشخص قابل اتکا نیست."
-        ],
-        "impact": "این نوع قاب‌بندی سیاسی («انکار شکست») احتمال تداوم چرخه تنش و طولانی شدن اختلافات را بالا می‌برد، اما با داده‌های فعلی نمی‌توان اثرات دقیق اقتصادی یا امنیتی را عددی یا قطعی کرد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Time Magazine",
-        "url": "https://www.msn.com/en-us/news/other/trump-iran-and-the-denial-of-defeat/ar-AA26hvAC",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-iran-and-the-denial-of-defeat/ar-AA26hvAC",
-        "image": null,
-        "timestamp": 1782155100.0
-    },
-    {
-        "title_fa": "وانس: تهران برای بازرسی‌های هسته‌ای توافق می‌کند؛ مشابه سازوکار دوران اوباما",
-        "title_en": "Vance says Iran agrees to nuclear inspections, as under Obama deal",
-        "summary": [
-            "جیمز وانس اعلام کرده ایران با اجرای بازرسی‌های هسته‌ای موافقت کرده و چارچوب مورد اشاره «مشابه توافق اوباما» است؛ یعنی یک گام دیپلماتیک برای کاهش تنش هسته‌ای و ایجاد مسیر نظارتی.",
-            "این نوع توافق، اگر عملی و قابل راستی‌آزمایی باشد، می‌تواند ابزار فشار خارجی را برای دوره کوتاه محدود کند، اما از نظر ساختاری الزاماً ضعف‌های حکمرانی و فشارهای اقتصادی را حل نمی‌کند و بیشتر به مدیریت بحران می‌خورد تا تغییر مسیر سیاست‌گذاری.",
-            "به‌دلیل نبود جزئیات در متن ارائه‌شده، نمی‌توان درباره سطح دسترسی بازرسان، زمان‌بندی، یا دامنه تعهدات قضاوت دقیق کرد؛ هر برداشت درباره اثر واقعی بر ثبات رژیم منوط به جزئیات اجرایی است."
-        ],
-        "impact": "این خبر یک حرکت تنظیم‌گر در مسیر نظارت هسته‌ای است و در کوتاه‌مدت می‌تواند فشارهای خارجی را تخفیف دهد، اما بدون جزئیات اجرایی، اثر بلندمدت آن بر ثبات سیاسی و اقتصادی قابل اثبات نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/politics/2026/06/22/vance-says-iran-agrees-inspections-nuclear-talks-move-ahead/",
-        "clean_url": "https://www.washingtonpost.com/politics/2026/06/22/vance-says-iran-agrees-inspections-nuclear-talks-move-ahead",
-        "image": null,
-        "timestamp": 1782153942.0
-    },
-    {
-        "title_fa": "آغاز مذاکرات هسته‌ای آمریکا و ایران با گزارش «پیشرفت» پس از گشایش نشست",
-        "title_en": "US and Iran begin nuclear negotiations with both sides reporting progress after opening talks",
-        "summary": [
-            "طبق گزارش Scripps News، آمریکا و ایران مذاکرات هسته‌ای را آغاز کرده‌اند و هر دو طرف پس از شروع گفت‌وگوها از «پیشرفت» خبر داده‌اند.",
-            "این گزارش به‌طور مشخص وارد جزئیات فنی یا محتوای توافق احتمالی نمی‌شود؛ بنابراین تنها می‌توان نتیجه گرفت که مذاکرات تازه وارد فاز اجرایی شده‌اند، نه اینکه نتیجه قطعی حاصل شده باشد.",
-            "صرفِ شروع مذاکره و اعلام پیشرفت می‌تواند برای محاسبات سیاسی دو طرف زمان بخرد و از تشدید سریع‌تر فشارها بکاهد، اما در نبود داده‌های روشن درباره محدودیت‌ها یا سازوکار راستی‌آزمایی، اثر واقعی هنوز قابل سنجش نیست."
-        ],
-        "impact": "اثر فوری این رویداد بیشتر در ایجاد مسیر گفت‌وگو و کاهش ریسک بی‌واسطه تنش است، نه در تغییر فوری ظرفیت‌های هسته‌ای یا رفع کامل فشارهای بیرونی.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Scripps News",
-        "url": "https://www.msn.com/en-us/news/other/us-and-iran-begin-nuclear-negotiations-with-both-sides-reporting-progress-after-opening-talks/ar-AA26geng",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-and-iran-begin-nuclear-negotiations-with-both-sides-reporting-progress-after-opening-talks/ar-AA26geng",
-        "image": null,
-        "timestamp": 1782150832.0
     }
 ]
