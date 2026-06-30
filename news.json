@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "دیدار مذاکره‌کنندگان آمریکا و ایران در قطر زیر سایه تناقض‌های علنی و تشدید نگرانی درباره تنگه هرمز",
+        "title_en": "US-Iran conflict: Negotiators meet in Qatar",
+        "summary": [
+            "خبرگزاری‌های آمریکایی می‌گویند استیو ویتکاف فرستاده آمریکا به دوحه در حال اعزام است؛ هم‌زمان دونالد ترامپ اعلام کرده مذاکرات روز سه‌شنبه در قطر انجام می‌شود، اما ایران صراحتاً می‌گوید در روزهای آتی هیچ مذاکره‌ای با آمریکا برنامه‌ریزی نشده است.",
+            "در چارچوب پیام‌های متناقض، رسانه‌ها گزارش می‌کنند یک هیئت کارشناسی/غیررسمی ایرانی قرار است بعداً در همین هفته به دوحه سفر کند؛ اما زمان‌بندی و ماهیت مذاکرات، بین طرفین روشن نیست.",
+            "هم‌زمان، داده‌های کپل که به CNN داده شده نشان می‌دهد عبور کشتی‌ها از تنگه هرمز در سطح پایین‌تری نسبت به قبل از جنگ/حملات (میانگین بیش از 100 کشتی در روز) قرار دارد؛ تنها 40 کشتی در روز دوشنبه عبور کرده‌اند و بخشی از مسیرها «ناشناخته» یا «خاموش» گزارش شده است."
+        ],
+        "impact": "تناقض علنی درباره زمان و انجام مذاکرات، ریسک سوءمحاسبه را بالا می‌برد و همراه با کاهش ترافیک در تنگه هرمز می‌تواند به تشدید فشار اقتصادی و امنیتی بر منطقه و بازیگران درگیر منجر شود.",
+        "tag": "قطر",
+        "urgency": 7,
+        "sentiment": -0.35,
+        "source": "LiveNOW from FOX",
+        "url": "https://www.cnn.com/2026/06/30/world/live-news/iran-war-trump",
+        "clean_url": "https://www.cnn.com/2026/06/30/world/live-news/iran-war-trump",
+        "image": null,
+        "timestamp": 1782810452.0
+    },
+    {
+        "title_fa": "گزارش: ۲ عضو سپاه پاسداران در تیراندازی کشته شدند",
+        "title_en": "2 members of Iran's IRGC killed in shooting: Reports",
+        "summary": [
+            "طبق گزارش رسانه‌ای، یک تیراندازی باعث کشته شدن ۲ عضو سپاه پاسداران شده است؛ جزئیات محل، علت و عامل حادثه در متن ارائه نشده.",
+            "از منظر فشار خارجی یا تحریم‌ها در این خبر هیچ اشاره‌ای وجود ندارد، بنابراین این رویداد فعلاً به عنوان اثر مستقیم از تحریم/فشار خارجی قابل ارزیابی نیست.",
+            "چون اطلاعاتی درباره اعتراضات داخلی یا وضعیت اقتصاد در متن نیست، نتیجه‌گیری درباره پیوند این حادثه با نارضایتی عمومی یا بی‌ثباتی اقتصادی، بدون پشتوانه داده‌ای، ممکن نیست."
+        ],
+        "impact": "این حادثه بیشتر یک رخداد امنیتی داخلی با نشانه آسیب‌پذیری عملیاتی است و در سطح داده‌های موجود، اثر راهبردی مستقیم بر اقتصاد یا سیاست خارجی را نمی‌توان تعیین کرد.",
+        "tag": "امنیتی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Anadolu Ajansı",
+        "url": "https://www.aa.com.tr/en/middle-east/2-members-of-irans-irgc-killed-in-shooting-reports/3981821",
+        "clean_url": "https://www.aa.com.tr/en/middle-east/2-members-of-irans-irgc-killed-in-shooting-reports/3981821",
+        "image": null,
+        "timestamp": 1782800144.0
+    },
+    {
         "title_fa": "دو قرارداد نشان‌دهنده دو رویکرد متفاوت ترامپ به بازیگران کلیدی خاورمیانه",
         "title_en": "Two deals show Trump's different approaches to Middle East key players",
         "summary": [
@@ -52,6 +88,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFMzbEp4TVlscjhJdWJIbHZOQm1WeHgtd2t6TEdmVlNoR0dTUXNhaFFsb3FjRFRrUTZuVTctV0lSYkdmMDRSemNTeHdRemIzeFNySVJyd1V4NXdBM0EzYnR2MU02N1FYNDlhNlJoQzN3OUpvSDE4WXFhTmlyQkxxXzRuWXFQMTBsY2gzcE1jaXhLdDVMNy1V",
         "image": null,
         "timestamp": 1782781620.0
+    },
+    {
+        "title_fa": "گزارش: کشورهای خلیج فارس در مسیر حذف آمریکا از چارچوب معامله با ایران درباره تنگه هرمز حرکت می‌کنند",
+        "title_en": "Gulf plans to cut the US out of Iran deal",
+        "summary": [
+            "طبق گزارش Yahoo، رایزنی‌های منطقه‌ای میان ایران و عمان، سپس عمان و قطر، بعد ایران و عربستان، و همچنین قطر و عربستان ادامه دارد تا «نظم جدید» پس از فروکش کردن جنگ‌ تعریف شود؛ از جمله نحوه مدیریت ترافیک در تنگه هرمز و بسته‌های مشوق مالی در ازای امتیازهای امنیتی.",
+            "هم‌زمان مذاکرات آمریکا و ایران برای یک توافق صلح بلندمدت تا اواخر آگوست در جریان است، اما تحلیل‌گران گزارش می‌گویند کاهش اعتبار آمریکا می‌تواند باعث شود کشورهای حاشیه خلیج «به درک مشترک خود» با ایران برسند و حتی به سمت «قطع تعامل مستقیم آمریکا» در یک معامله منطقه‌ای بروند.",
+            "در پیام‌رسانی رسمی، آمریکا و متحدانش بر «ناوبری آزاد و بدون قید و شرط» تأکید کرده‌اند و دریافت هرگونه «عوارض/هزینه» برای کنترل تنگه را رد کرده‌اند؛ با این حال گزارش اشاره می‌کند ایده‌هایی درباره جمع‌آوری «هزینه خدمات» مطرح شده که ظاهراً برای هزینه‌های پاکسازی مین، کاهش آسیب محیط‌زیست، هزینه بنادر یا بیمه خواهد بود—با جزئیات نامشخص درباره متولی، شیوه جمع‌آوری و پرداخت نهایی."
+        ],
+        "impact": "اگر کشورهای خلیج واقعاً مسیر «توافق جدا» با ایران را بدون اتکای عملی به آمریکا باز کنند، توازن نفوذ آمریکا در پرونده تنگه هرمز تضعیف می‌شود و فضای چانه‌زنی برای امتیازهای امنیتی/اقتصادی با منطق منطقه‌ای جایگزین منطق واشنگتن می‌گردد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/gulf-plans-cut-us-iran-050000409.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/gulf-plans-cut-us-iran-050000409.html",
+        "image": "http://www.bing.com/th?id=ONUT.VR5f_4qIIWOucs296z88sA&pid=News",
+        "timestamp": 1782774360.0
     },
     {
         "title_fa": "ارزیابی دیدگاه‌های اسرائیل درباره «موفقیت جنگ با ایران» در ۲۰۲۶ (Statista)",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/politics/vance-takes-lead-selling-trump-s-iran-gamble-as-rubio-hegseth-and-ratcliffe-cede-spotlight-on-fragile-deal/ar-AA26iunw",
         "image": "http://www.bing.com/th?id=ONUT.Z8Nth83_V5QlNyJP9ixnjA&pid=News",
         "timestamp": 1782140452.0
-    },
-    {
-        "title_fa": "اظهارات ونس از «بنیاد خوب» برای توافق پایان جنگ؛ نشانه‌ای از محاسبه منافع، نه تغییر در ماهیت سیاست",
-        "title_en": "Vance says talks with Iranian officials set ‘good foundation’ for a deal to end the war",
-        "summary": [
-            "در چارچوب مذاکرات، جِی ونس می‌گوید گفت‌وگو با مقامات ایرانی «بنیاد خوبی» برای رسیدن به یک توافق جهت پایان جنگ ایجاد کرده است؛ اما متن خبر جزئیات اجرایی، زمان‌بندی یا شروط مشخص برای توافق ارائه نمی‌دهد.",
-            "این نوع پیام سیاسی بیشتر بر کاهش اصطکاک و ایجاد زمینه برای معامله استوار است تا نشان دادن هرگونه تغییر ساختاری در سیاست‌های تهران؛ بنابراین اثر آن در کوتاه‌مدت عمدتاً در سطح دیپلماسی و پیام‌رسانی خواهد بود.",
-            "چون گزارش، داده‌ای درباره تحولات اقتصادی داخلی، فشارهای ملموس جدید، یا برنامه‌های مشخص اجرایی ندارد، نمی‌توان نتیجه گرفت این مسیر الزاماً به کاهش نارضایتی‌ها یا مهار آسیب‌های اقتصادی منجر می‌شود."
-        ],
-        "impact": "این اظهارات احتمالاً فضای مذاکره را تقویت می‌کند، اما تا وقتی شروط و ضمانت‌های اجرایی روشن نشوند، تأثیر واقعی بر مهار جنگ و ثبات رژیم قابل سنجش نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUJQNlpPSVpIZmFCR1pnckJLd25Eblo1OERBRFdscDFOOUZHbURVM2tNd1hPaHo5aHIxeExhbGt5R2RxZjFDMWhENm9GQnpadlRNQVg4QTN4ODBwRUNuVGNYLUt3YUdBODJSTXpEZHF3QjN0Zk1iVlVzdnhEblh3N0JkZUNTU3Q5QmxKdUEwTVc5LUd2czMxTC1FQVpDdnVvaWg2Tkh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeUJQNlpPSVpIZmFCR1pnckJLd25Eblo1OERBRFdscDFOOUZHbURVM2tNd1hPaHo5aHIxeExhbGt5R2RxZjFDMWhENm9GQnpadlRNQVg4QTN4ODBwRUNuVGNYLUt3YUdBODJSTXpEZHF3QjN0Zk1iVlVzdnhEblh3N0JkZUNTU3Q5QmxKdUEwTVc5LUd2czMxTC1FQVpDdnVvaWg2Tkh3",
-        "image": null,
-        "timestamp": 1782138960.0
-    },
-    {
-        "title_fa": "توافق آمریکا و ایران بر «نقشه راه»؛ شروع پرتنش اما با امید میانجی‌ها",
-        "title_en": "The U.S. and Iran agree to a 'road map' for a final deal, mediators say",
-        "summary": [
-            "آمریکا و ایران در سوئیس مذاکراتی را با هدف رسیدن به یک «توافق نهایی» انجام دادند و میانجی‌ها (قطر و پاکستان) از «پیشرفت امیدوارکننده» سخن گفتند، هرچند آغاز کار «پرتلاطم» توصیف شد.",
-            "قطر و پاکستان به صراحت اعلام کردند که پس‌زمینه تهدیدهای ترامپ—از جمله تهدید به «زدن ایران خیلی سخت دوباره»—باعث دشوار شدن روند مذاکرات از ابتدا شده است.",
-            "تمرکز مذاکرات روی چارچوب «نقشه راه» برای بسته‌شدن پرونده نهایی است، اما متن خبر هیچ جزئیاتی درباره اقدام‌های اجرایی، زمان‌بندی لغو تحریم‌ها یا محدودیت‌های مشخص ارائه نمی‌کند."
-        ],
-        "impact": "این «نقشه راه» می‌تواند موقتاً کانال ارتباطی را تثبیت کند، اما چون با تهدید نظامی و نبود جزئیات اجرایی همراه است، اثر آن روی کاهش واقعی فشارها نامشخص و شکننده باقی می‌ماند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
-        "clean_url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1024x576+0+54/resize/1400/quality/85/format/jpeg/?url=http://npr-brightspot.s3.amazonaws.com/77/f4/a2f75dc34a1d933047d775f83789/gettyimages-2282114937.jpg",
-        "timestamp": 1782138600.0
-    },
-    {
-        "title_fa": "سلب بخشی از تحریم‌های ایران از سوی آمریکا پس از مذاکرات؛ کاهش درگیری در لبنان به‌عنوان متغیر توافق",
-        "title_en": "US waives Iran sanctions after talks; Lebanon fighting abates",
-        "summary": [
-            "خبرگزاری رویترز گزارش می‌دهد آمریکا در پی گفت‌وگوها، بخشی از تحریم‌های ایران را لغو/تعلیق کرده است؛ هم‌زمان با این تغییر، میانجی‌های پاکستان و قطر از توافق طرف‌ها بر «نقشه راه» برای رسیدن به یک «توافق نهایی» ظرف ۶۰ روز خبر داده‌اند.",
-            "طبق همین گزارش، محور گفتگوها «پایان دادن به جنگ» در بازه ۶۰ روزه است و یکی از سیگنال‌های اجرایی آن، کاهش یا فروکش کردن درگیری‌ها در لبنان عنوان شده؛ یعنی فشار و هزینه امنیتیِ منطقه‌ای برای هر دو طرف پایین آمده است.",
-            "از زاویه تحلیل ساختاری، چنین امتیاز تحریمی (هرچند جزئی) می‌تواند برای رژیم نقش مسکن کوتاه‌مدت داشته باشد، اما چون گزارش به «پایان جنگ/توافق نهایی» شرط بسته، همزمان یک دوره عدم‌قطعیت و وابستگی به اجرای مرحله‌ایِ نقشه راه ایجاد می‌کند که برای ثبات سیاسی داخلی، به‌تنهایی کافی نیست."
-        ],
-        "impact": "تعلیق بخشی از تحریم‌ها همراه با نقشه راه ۶۰ روزه، فشار خارجی را موقتاً کاهش می‌دهد اما رژیم را در گرو اجرای مرحله‌ایِ توافق درباره لبنان و فرایند مذاکره نگه می‌دارد.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/us-iran-talks-go-into-day-2-after-trump-threats-hormuz-closure-2026-06-22/",
-        "clean_url": "https://www.reuters.com/world/asia-pacific/us-iran-talks-go-into-day-2-after-trump-threats-hormuz-closure-2026-06-22",
-        "image": "http://www.bing.com/th?id=ONUT.fFaL8p4yJ0iNc20VZd_urw&pid=News",
-        "timestamp": 1782138600.0
     }
 ]
