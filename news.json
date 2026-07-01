@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "معنای واقعی «آتش‌بس» در خاورمیانه؛ توقف کامل جنگ یا فقط تغییر شکل خشونت؟",
+        "title_en": "In Mideast and around the world, everyone's talking 'ceasefire.' But what does it really mean?",
+        "summary": [
+            "خبر می‌گوید در حالی که ترامپ و رسانه‌ها از «آتش‌بس» حرف می‌زنند، جنگ‌گونه بودن وضعیت در منطقه ادامه دارد: در غزه حملات روزانه اسرائیل برقرار است و در لبنان نیز «آتش‌بس» صرفاً عنوانی است، نه توقف عملی درگیری‌ها.",
+            "در مورد ایران، به گزارش متن، گفت‌وگوهای سطح پایین در قطر زیر یک ضرب‌الاجل ۶۰ روزه ادامه دارد و این فاصله تا یک «معامله/صلح واقعی» نشان می‌دهد «آتش‌بس» بیشتر مدیریت مذاکرات است تا پایان جنگ؛ ضمن اینکه مسیر دریایی تنگه هرمز نیز با شلیک‌ها و گاهی بسته‌شدن‌ها برای مدتی کوتاه قطع نشده است.",
+            "بر اساس نقل‌قول متن، فواز آ. گرگس می‌گوید «آتش‌بس» بین ایالات متحده و ایران عملاً وجود ندارد چون ایران به دولت ترامپ اعتماد ندارد و هدف، وادار کردن طرف مقابل برای انجام تعهدات به‌صورت مرحله‌ای است؛ نتیجه این است که آتش‌بس به معنای سنتیِ توقف واقعی تیراندازی تبدیل شده."
+        ],
+        "impact": "این الگو نشان می‌دهد آتش‌بس‌های اعلامی می‌توانند فضای تنفسی برای بازسازی ایجاد نکنند و در عمل به تشدید یا تثبیت «خشونتِ کم‌شدت اما مداوم» منجر شوند.",
+        "tag": "آتش‌بس",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.nbcnewyork.com/news/national-international/mideast-ceasefire-what-it-really-means/6520343/",
+        "clean_url": "https://www.nbcnewyork.com/news/national-international/mideast-ceasefire-what-it-really-means/6520343",
+        "image": null,
+        "timestamp": 1782947552.0
+    },
+    {
+        "title_fa": "جنگ در ایران و تنگه هرمز: شش سناریو و اثرشان بر اقتصاد جهانی",
+        "title_en": "The War in Iran and the Strait of Hormuz: Six Scenarios and How They Will Shape the Global Economy",
+        "summary": [
+            "مطلب به‌جای گزارش یک رویداد مشخص، چارچوبی سناریومحور ارائه می‌کند تا نشان دهد در صورت تشدید درگیری‌ها حول ایران و تنگه هرمز، مسیرهای تجارت انرژی چگونه می‌تواند دگرگون شود.",
+            "تمرکز اصلی روی پیامدهای اقتصادی است: با هر سناریوی افزایش ریسک در هرمز، هزینه و ریسک حمل‌ونقل دریایی بالا می‌رود و این یعنی فشار قیمتی و اختلال زنجیره تأمین برای اقتصادهای وابسته به نفت و گاز.",
+            "از نظر تحلیل فشار خارجی و ثبات رژیم، خودِ متن به‌طور مستقیم به سنجش‌های دقیق داخلی یا اقدام‌های مشخص تحریمی/سرکوب اشاره نمی‌کند؛ بنابراین نتیجه‌گیری درباره پیامد سیاسی داخل ایران باید در حد اثرات احتمالی ناشی از اختلال اقتصادی باقی بماند."
+        ],
+        "impact": "مهم‌ترین اثر قابل برداشت از این متن، سناریوسازی درباره اختلال احتمالی در صادرات انرژی و حمل‌ونقل از مسیر هرمز است که می‌تواند به نوسان شدید بازارهای جهانی و هزینه‌های واردات سوخت منجر شود.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Common Sense",
+        "url": "https://www.msn.com/en-us/news/world/how-iran-could-try-to-control-the-strait-of-hormuz-and-profit-from-it/ar-AA26YNDG",
+        "clean_url": "https://www.msn.com/en-us/news/world/how-iran-could-try-to-control-the-strait-of-hormuz-and-profit-from-it/ar-AA26YNDG",
+        "image": null,
+        "timestamp": 1782941887.0
+    },
+    {
+        "title_fa": "اظهارات ونس: بازگشت آمریکا به جنگ تمام‌عیار علیه ایران «فقط در صورت اجبار»",
+        "title_en": "Trump won't return U.S. to full war in Iran 'unless he has to,' Vance says",
+        "summary": [
+            "طبق گزارش CBC، جی‌دی ونس گفته آمریکا «به جنگ کامل علیه ایران» برنمی‌گردد مگر اینکه «اجبار» پیش بیاید؛ یعنی چرخه فشار و تهدید، مشروط به تشدید بحران نگه داشته می‌شود.",
+            "این موضع، نشانه‌ای از رویکرد کم‌هزینه‌تر و مرحله‌ای نسبت به گزینه جنگ تمام‌عیار است؛ اما همزمان سیگنال می‌دهد در صورت تغییر شرایط، امکان تشدید مستقیم وجود دارد.",
+            "از منظر فشار خارجی و پیام سیاسی، اظهارات ونس می‌تواند به تداوم عدم‌قطعیت برای تهران منجر شود و برنامه‌ریزی رژیم را در حوزه‌های امنیتی و اقتصادی دشوارتر کند، هرچند خودِ متن هیچ اقدام یا تصمیم عملی جدیدی را تأیید نمی‌کند."
+        ],
+        "impact": "اثر فوری این اظهارات بیشتر سیاسی و بازدارنده است و خطر تشدید را «مشروط» نگه می‌دارد، بدون اینکه نشانه مشخصی از آغاز جنگ یا تشدید رسمی ارائه شده باشد.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "CBC",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYMG1Sc2dYbmV1S0d1QlgxOUxvNWtFZXoya0FxLUFjQ0Y0VWs2VUUxckREcW9HOHJFdG5IcXRtd1p4MTh4YzQ5TGx6ZjZnd1dRQ2s3b2Y2ZXdGcTVsQmRCLVQwRC1RbHhzbEthZGh4TzR1YjNiZ21RZzhR?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYMG1Sc2dYbmV1S0d1QlgxOUxvNWtFZXoya0FxLUFjQ0Y0VWs2VUUxckREcW9HOHJFdG5IcXRtd1p4MTh4YzQ5TGx6ZjZnd1dRQ2s3b2Y2ZXdGcTVsQmRCLVQwRC1RbHhzbEthZGh4TzR1YjNiZ21RZzhR",
+        "image": null,
+        "timestamp": 1782938957.0
+    },
+    {
         "title_fa": "پایان گفت‌وگوهای آمریکا و ایران در دوحه با تمرکز بر تنگه",
         "title_en": "U.S., Iran talks conclude in Doha, focused on Strait",
         "summary": [
@@ -376,6 +430,24 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/iran-s-oil-money-is-coming-back-its-main-street-will-have-to-wait/ar-AA26Owuu",
         "image": null,
         "timestamp": 1782902783.0
+    },
+    {
+        "title_fa": "بازگشت محدود به دیپلماسی پس از تبادل حملات؛ میانجی‌گری قطر و افزایش تردد در تنگه هرمز",
+        "title_en": "After Trading Attacks, U.S. and Iran Edge Back Toward Diplomacy",
+        "summary": [
+            "بر اساس گزارش، مذاکرات غیرمستقیم میان آمریکا و ایران در قطر از سر گرفته شده است، اما اختلافات دو طرف در مسائل کلیدی هنوز «فاصله‌دار» توصیف می‌شود؛ یعنی عقب‌نشینی واقعی از گره‌های اصلی رخ نداده است.",
+            "هم‌زمان با این روند، تردد کشتی‌ها در تنگه هرمز افزایش یافته که سیگنال کاهش تنش عملیاتی/ریسک دریایی نسبت به دوره حملات اخیر است، هرچند مذاکرات هنوز شکننده‌اند.",
+            "هسته پیام گزارش این است که حرکت به سمت دیپلماسی «محدود و تاکتیکی» است: مذاکرات جریان دارد، ولی توافق محتوایی مشخص نشده و دو طرف همچنان بر مواضع خود قفل شده‌اند."
+        ],
+        "impact": "افزایش تردد در تنگه هرمز می‌تواند موقتاً فشار اقتصادی و ریسک امنیتی را کم کند، اما چون شکاف بر سر موضوعات اصلی پابرجاست، احتمال برگشت دوباره به تنش هم باقی می‌ماند.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
+        "clean_url": "https://www.nytimes.com/2026/07/01/world/middleeast/us-iran-diplomacy-qatar.html",
+        "image": "http://www.bing.com/th?id=ONUT.vM4-uBFNuXmatL0QdUeMMg&pid=News",
+        "timestamp": 1782901200.0
     },
     {
         "title_fa": "مذاکره غیرمستقیم آمریکا و ایران در دوحه برای کریدور هرمز و آتش‌بس پایدار",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/politics/government/us-iran-deal-may-leave-netanyahu-as-biggest-casualty/ar-AA26rBNz",
         "image": null,
         "timestamp": 1782311149.0
-    },
-    {
-        "title_fa": "افت قیمت جهانی نفت هم‌زمان با تلاش واشنگتن برای فروش توافق با ایران؛ جنگ‌طلبی زیر فشار سیاسی و اختلافات بر سر نظارت هسته‌ای",
-        "title_en": "Global oil prices fall to lowest level since before the US-Iran war",
-        "summary": [
-            "قیمت نفت جهانی—به‌ویژه نفت آمریکا—به پایین‌ترین سطح از پیش از جنگ آمریکا و ایران رسیده است؛ افت اخیر هم‌راستا با رشد خوش‌بینی بازار به احتمال باز شدن تنگه هرمز در چارچوب توافق واشنگتن-تهران است.",
-            "مارکو روبیو، وزیر خارجه آمریکا، در امارات، کویت و بحرین برای «فروش» توافق آمریکا و ایران در حال رایزنی است؛ کشورهای مذکور به‌عنوان محتاط‌ترین/مخالف‌ترین‌ها معرفی شده‌اند و هدف، گرفتن همراهی سیاسی آن‌هاست. هم‌زمان اعلام شده مذاکرات فنی در سطح کارشناسی با ایران احتمالاً روز سه‌شنبه برگزار می‌شود.",
-            "مسیر توافق طولانی‌مدت با گره هسته‌ای متوقف/کند شده: تهران به اظهارات یک مقام ارشد سازمان ملل درباره دسترسی کامل بازرسان واکنش منفی داده است؛ همچنین چند مقام دولت ترامپ مدعی شده‌اند ایران اجازه سفر به مناطق هسته‌ای برای بازرسان آژانس را تأیید کرده است."
-        ],
-        "impact": "افت قیمت نفت نشان می‌دهد بازار هزینه-ریسک جنگ را کاهش‌یافته ارزیابی می‌کند، اما اختلاف بر سر دسترسی بازرسی هسته‌ای و چنددستگی سیاسی در واشنگتن می‌تواند روند توافق را شکننده نگه دارد.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/06/24/world/live-news/iran-war-trump-israel-lebanon",
-        "clean_url": "https://edition.cnn.com/2026/06/24/world/live-news/iran-war-trump-israel-lebanon",
-        "image": null,
-        "timestamp": 1782309420.0
-    },
-    {
-        "title_fa": "تلاش برای مهار برنامه هسته‌ای: همزمان با اختلاف داخلی آمریکا درباره «اختیارات جنگ»، بازدید بازرسان سازمان ملل از چند سایت در دستور کار",
-        "title_en": "Trump rips congressional Iran war powers vote as 'meaningless'; UN nuclear inspectors to visit sites",
-        "summary": [
-            "ترامپ رأی کنگره درباره «اختیارات جنگ علیه ایران» را «بی‌معنا» خواند و همزمان مدعی شد اقتصاد ایران در جنگ آسیب جدی دیده؛ در همان چارچوب، او از کاهش قیمت نفت و افزایش صادرات از تنگه هرمز سخن گفت و ادامه حضور نیروهای بزرگ آمریکا در منطقه را تغییر داده‌تر نکرد.",
-            "دبیرکل ناتو، مارک راته، دفاع کرد که اگر ایران به سلاح هسته‌ای دست پیدا می‌کرد، پیامدهای فاجعه‌بار برای جهان داشت؛ او در کنار نقش مدیریت راهبردی پس از اقدام نظامی، عملاً بر ضرورت جلوگیری از مسیر هسته‌ای ایران تأکید کرد.",
-            "در فاز «۶۰ روز مذاکره»، ترامپ ادعا کرد ایران «تا اینجا» با خواسته‌های آمریکا همراهی می‌کند و تهدید کرد اگر شروط برآورده نشود، آمریکا به اقدام سخت برمی‌گردد؛ همچنین طبق گزارش، بازرسان هسته‌ای سازمان ملل برای بازدید از سایت‌های مرتبط وارد می‌شوند و در لبنان هم جوزف عون از تماس با JD Vance و مارکو روبیو برای توجه آمریکا جهت پایان جنگ تشکر کرده است."
-        ],
-        "impact": "این ترکیب یعنی فشار نظامی-دیپلماتیک همزمان با نظارت هسته‌ای، می‌تواند اهرم‌های چانه‌زنی آمریکا را در مذاکرات ۶۰ روزه تقویت کند اما ریسک بازگشت به تشدید را بالا نگه می‌دارد.",
-        "tag": "ایران",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-peace-deal-nuclear-talks-israel-lebanon-conflict-june-24-2026",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-peace-deal-nuclear-talks-israel-lebanon-conflict-june-24-2026",
-        "image": "http://www.bing.com/th?id=ONUT.b0yxxdZRJ_YBwjobZT1RfQ&pid=News",
-        "timestamp": 1782308880.0
-    },
-    {
-        "title_fa": "توهم صلح ترامپ با ایران و فشار به اسرائیل؛ تکرار اکوهای آشتی‌جویانه",
-        "title_en": "In Trump’s delusions of peace with Iran and efforts to bully Israel, dark echoes of appeasement",
-        "summary": [
-            "این گزارش به رویکرد ترامپ درباره «صلح» با ایران و همزمان «تهدید/فشار» به اسرائیل به‌عنوان دو رفتار درهم‌تنیده اشاره می‌کند، با این استدلال که هر دو می‌تواند یادآور سیاست‌های آشتی‌جویانه گذشته باشد.",
-            "نکته محوری مقاله این است که فروکاستن تهدید تهران به سطح یک مذاکره/معامله سیاسی، بدون تضمین‌های سخت، همان الگوی شکست‌خورده «باور به تغییر با امتیازدهی» را بازتولید می‌کند.",
-            "همچنین تأکید می‌شود که دستکاری مواضع اسرائیل از مسیر فشار سیاسی می‌تواند توان بازدارندگی اسرائیل را تضعیف کرده و پیام ناپایداری به بازیگران منطقه‌ای بفرستد."
-        ],
-        "impact": "اگر سیاست «امتیاز-مذاکره» با فشار بر اسرائیل همراه شود، احتمال سوءمحاسبه راهبردی بالا می‌رود و فضای بازدارندگی کاهش پیدا می‌کند.",
-        "tag": "قدرت‌موازنه",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkJNZkRTUkQ1QTN2NGxDbUFyQ3lFMTZfU05tcjlqZ3FnTmcwRjlJZFFHazg0czRfZ0lXMjB0WUxhVjYtTmN3WmRBbXdDLVpHbElJQ25fVlFZTFZ3NmZSSUplcm9JWVZISDlEam1Ha2JHSTZMUHF4OWxMVWRWbmxYbXY2Wm5uMEUteEpnWk1ETmktbi0ydjN2WEQ4bng3YlFfY1ZickJWSjlKYms2UUdCMVVSeU96V3ZaYkkwQ056OFh6d9IBxwFBVV95cUxNSmxmU2hDRFBybzNud1Jva3RXemNSVHE0Tl9RY0tXa0p5QU9hd3dRdTFpeEp4WUVCR3laMlo5X2VieGladmg2VXdfWHJRWjBpSU13bkpBLTBKNVRKVkxZVTZJckN2V0wya2U0V09WdENDekJRU0J6YjZtaFJsNjgzMy1uSTd3Y3NJMkZOc0dqcHRfUEFNMzBxZHNoMjE3QmJHRzZzVExnVWhkOTFRLU1OUHlTRTZIZHJVOGxTUUNtenpHQXlSblR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkJNZkRTUkQ1QTN2NGxDbUFyQ3lFMTZfU05tcjlqZ3FnTmcwRjlJZFFHazg0czRfZ0lXMjB0WUxhVjYtTmN3WmRBbXdDLVpHbElJQ25fVlFZTFZ3NmZSSUplcm9JWVZISDlEam1Ha2JHSTZMUHF4OWxMVWRWbmxYbXY2Wm5uMEUteEpnWk1ETmktbi0ydjN2WEQ4bng3YlFfY1ZickJWSjlKYms2UUdCMVVSeU96V3ZaYkkwQ056OFh6d9IBxwFBVV95cUxNSmxmU2hDRFBybzNud1Jva3RXemNSVHE0Tl9RY0tXa0p5QU9hd3dRdTFpeEp4WUVCR3laMlo5X2VieGladmg2VXdfWHJRWjBpSU13bkpBLTBKNVRKVkxZVTZJckN2V0wya2U0V09WdENDekJRU0J6YjZtaFJsNjgzMy1uSTd3Y3NJMkZOc0dqcHRfUEFNMzBxZHNoMjE3QmJHRzZzVExnVWhkOTFRLU1OUHlTRTZIZHJVOGxTUUNtenpHQXlSblR3",
-        "image": null,
-        "timestamp": 1782308879.0
-    },
-    {
-        "title_fa": "اثر سفر روبیو به خاورمیانه بر توافق هسته‌ای با ایران",
-        "title_en": "Here's how Rubio's Mideast trip could affect the Iran deal",
-        "summary": [
-            "بی‌بی‌سی اعلام می‌کند سفر مارکو روبیو به خاورمیانه می‌تواند بر مسیر مذاکرات و اجرای توافق هسته‌ای ایران اثر بگذارد، اما محتوای مشخصِ اقدامات یا تصمیم‌های فوری را در این تیتر ارائه نمی‌دهد.",
-            "چارچوب خبر به‌جای نتیجه قطعی، بر «امکان اثرگذاری» از طریق رایزنی‌های منطقه‌ای، هماهنگی با شرکای آمریکا و پیام‌های سیاسی به ایران تمرکز دارد.",
-            "با توجه به متن موجود (صرفاً تیتر)، نمی‌توان درباره تغییر در تحریم‌ها، موضع‌گیری رسمی مشخص، یا جزئیات فنی توافق ادعای قابل‌اتکا کرد؛ بنابراین ارزیابی باید در سطح سیاسی/دیپلماتیک باقی بماند."
-        ],
-        "impact": "این خبر بیشتر سیگنال سیاسی احتمالی است تا اعلام تغییر ملموس در متن یا اجرای توافق، و اثر آن به تصمیم‌های بعدی و مواضع طرف‌های مذاکره گره می‌خورد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16ckxYbU5Wa3VRckpaNkFhSHhCdm5wQUk5Vjc1SDAwWFJXTmZBWUxGN0Y3TEx3NUZXVmUta1N5Qk8xbGJGd1VOU2J3OHN2M3lzc2dVR3ZWNA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16ckxYbU5Wa3VRckpaNkFhSHhCdm5wQUk5Vjc1SDAwWFJXTmZBWUxGN0Y3TEx3NUZXVmUta1N5Qk8xbGJGd1VOU2J3OHN2M3lzc2dVR3ZWNA",
-        "image": null,
-        "timestamp": 1782306914.0
     }
 ]
