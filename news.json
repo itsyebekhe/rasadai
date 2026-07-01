@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "چگونگی شباهت «درک ترامپ» با ایران به توافق هسته‌ای ۲۰۱۵؛ تکرار همان الگوی رفع فشار بدون تضمین‌های سخت",
+        "title_en": "How Trump’s Understanding With Iran Echoes Obama’s 2015 Nuclear Deal",
+        "summary": [
+            "این یادداشت ادعا می‌کند که «درک ترامپ» با ایران از نظر منطق و پیامدها شبیه توافق هسته‌ای ۲۰۱۵ اوباما است: مسیر مذاکره/تفاهم به‌جای مهار قطعی و سازوکارهای بازدارنده‌تر.",
+            "چارچوب تحلیلی مقاله بر این محور می‌چرخد که تفاوت‌های ظاهری ممکن است، اما نتیجه‌گیری نهایی می‌تواند به سمت همان نوع اعتباردهی دیپلماتیک به برنامه هسته‌ای یا کاهش فشارهای خارجی بدون ضمانت‌های سخت قابل سنجش رفته باشد.",
+            "خروجی مورد اشاره این است که الگوی توافقی، اگر با «محدودیت‌های دقیق، راستی‌آزمایی مؤثر و تضمین‌های اجرایی» همراه نباشد، اثرش شبیه ۲۰۱۵ می‌شود و خطر تداوم نگرانی‌ها را بالا می‌برد."
+        ],
+        "impact": "این نوع مقایسه نشان می‌دهد که اگر تفاهم جدید سازوکارهای سخت مشابه «توافق ۲۰۱۵» نداشته باشد، احتمال تضعیف اهرم فشار و افزایش ریسک راهبردی برای آینده بالا می‌رود.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Foundation for Defense of Democracies",
+        "url": "https://www.msn.com/en-us/news/opinion/vance-rejects-claims-trump-iran-deal-echoes-obama-era-logic-as-hawks-raise-alarm/ar-AA25Ut4X",
+        "clean_url": "https://www.msn.com/en-us/news/opinion/vance-rejects-claims-trump-iran-deal-echoes-obama-era-logic-as-hawks-raise-alarm/ar-AA25Ut4X",
+        "image": null,
+        "timestamp": 1782935946.0
+    },
+    {
         "title_fa": "آمریکا و ایران گفت‌وگوهای غیرمستقیم در قطر برگزار کردند",
         "title_en": "Middle East: US and Iran hold indirect talks in Qatar",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us/ar-AA2708wo",
         "image": null,
         "timestamp": 1782926617.0
+    },
+    {
+        "title_fa": "آمریکا در از سرگیری مذاکرات دوحه می‌کوشد ایران را از عوارض (tolls) منصرف کند",
+        "title_en": "U.S. tries to talk Iran out of tolls as talks resume in Doha",
+        "summary": [
+            "با از سرگیری مذاکرات در دوحه، آمریکا تلاش می‌کند درباره «tolls» با ایران به تفاهم برسد و ایران را از ادامه/اعمال این عوارض منصرف کند.",
+            "این رویداد بیشتر یک اهرم دیپلماتیک-تجاری است تا تصمیم‌گیری نهایی؛ یعنی تمرکز فعلی بر تغییر رفتار ایران در یک مؤلفه مشخص است.",
+            "چون متن خبر جزئیات فنی، جدول زمانی یا میزان امتیازهای احتمالی را ارائه نمی‌کند، پیام اصلی فشار نرم و مذاکره برای محدود کردن اثرات «tolls» بر منافع طرف مقابل است."
+        ],
+        "impact": "مذاکرات دوحه با تمرکز بر «tolls» نشان می‌دهد واشنگتن دنبال مهار یک گلوگاه اثرگذار در تعاملات اقتصادی است و می‌تواند مسیر چانه‌زنی را برای توافق‌های بعدی تعیین کند.",
+        "tag": "مذاکره",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "Axios",
+        "url": "https://www.msn.com/en-us/news/world/us-tries-to-talk-iran-out-of-tolls-as-talks-resume-in-doha/ar-AA270q6R",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-tries-to-talk-iran-out-of-tolls-as-talks-resume-in-doha/ar-AA270q6R",
+        "image": null,
+        "timestamp": 1782925330.0
     },
     {
         "title_fa": "چرا تهران انتظار حمله دوباره اسرائیل پیش از اکتبر را دارد",
@@ -178,6 +214,24 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/oil-prices-soar-as-iran-halts-us-iran-ceasefire-negotiations/ar-AA24zTIw",
         "image": null,
         "timestamp": 1782910260.0
+    },
+    {
+        "title_fa": "تهدید ترامپ برای ازسرگیری حملات علیه ایران؛ فروپاشی آتش‌بس شکننده در سایه بن‌بست مذاکرات",
+        "title_en": "Iran-US war latest update: Trump threatens to resume strikes on Iran as peace talks falter and a fragile ceasefire unravels",
+        "summary": [
+            "دونالد ترامپ اعلام کرده در صورت ادامه توقف مذاکرات صلح، امکان ازسرگیری حملات نظامی علیه ایران را کنار نگذاشته است؛ همین موضع به گفته متن برای دیپلمات‌ها نگران‌کننده و برای فضای منطقه‌ای «بی‌ثبات‌کننده» توصیف شده است.",
+            "متن تصریح می‌کند مذاکرات به بن‌بست نزدیک شده و همزمان «آتش‌بس شکننده» در حال از هم پاشیدن است؛ یعنی ریسک تشدید مستقیم در کوتاه‌مدت بالا می‌رود.",
+            "واکنش دستگاه دیپلماتیک در روایت خبر نشان می‌دهد حتی کانال‌های سیاسی برای مهار تنش کارآمد نبوده و احتمال بازگشت به الگوی درگیری مستقیم، محور اصلی نگرانی‌هاست."
+        ],
+        "impact": "با توجه به بن‌بست مذاکرات و فرسایش آتش‌بس، زمینه برای تشدید نظامی و ضربه مستقیم به توان عملیاتی و برنامه‌ریزی نیروهای رژیم افزایش یافته است.",
+        "tag": "تشدیدنظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/news/world/iran-us-war-latest-update-trump-threatens-to-resume-strikes-on-iran-as-peace-talks-falter-and-a-fragile-ceasefire-unravels/ar-AA26ZUun",
+        "clean_url": "https://www.msn.com/en-in/news/world/iran-us-war-latest-update-trump-threatens-to-resume-strikes-on-iran-as-peace-talks-falter-and-a-fragile-ceasefire-unravels/ar-AA26ZUun",
+        "image": "http://www.bing.com/th?id=ONUT.ymeqg-e2VyXiQN8oiWp5vg&pid=News",
+        "timestamp": 1782908340.0
     },
     {
         "title_fa": "مذاکرات فنی در دوحه زیر سایه مطالبه تهران برای اقدام، با محوریت تنگه هرمز و ادعای حاکمیت",
@@ -358,6 +412,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-iran-negotiations-what-s-the-latest/ar-AA26Xblf",
         "image": null,
         "timestamp": 1782895824.0
+    },
+    {
+        "title_fa": "فوربس: آتش‌بس ایران در ۲۱ اوت تمام می‌شود؛ خاورمیانه یک ساعت مشترک ندارد",
+        "title_en": "Iran’s Ceasefire Runs Out August 21. The Rest Of The Middle East Isn't Even On A Clock",
+        "summary": [
+            "ایران در دوحه مذاکرات را متوقف کرد: محمدباقر قالیباف به میانجی‌ها گفته تهران تا اجرای مفاد یادداشت ماه قبل، حاضر به بازگشت به گفتگو با آمریکا نیست؛ نتیجه این شد که «آتش‌بس» به «توافق» تبدیل نشود.",
+            "اختلاف فوری بر سر حدود ۶ میلیارد دلار از دارایی‌های ایران است که هنوز در حسابی در قطر بلوکه مانده؛ بنابراین موضوع، بیش از آنکه یک پیام یکپارچه منطقه‌ای باشد، یک گره مشخص برای ایران است.",
+            "فوربس تاکید می‌کند دیگر کشورها هم‌زمان با ایران از نظر حقوقی/عملی تغییر نکرده‌اند: سوریه زودتر از این جنگ روزنه‌های بخشی را گشوده و نگه داشته، عراق درگیر کمپین ضدفساد داخلی است، لبنان چارچوب صلح دارد اما محور آن امضا نشده، و کشورهای حاشیه خلیج فارس اساساً تغییر قانونی نداشته‌اند—تنها مدل تهدیدشان عوض شده است."
+        ],
+        "impact": "با پایان مجوز موقت در ۲۱ اوت و باقی‌ماندن بدنه تحریم‌ها، ریسک و بی‌ثباتی مالی-عملی برای هر کشور جداگانه جابجا می‌شود، نه اینکه یک خط زمانی واحد برای کل منطقه ایجاد شود.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.55,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/01/irans-ceasefire-runs-out-august-21-the-rest-of-the-middle-east-isnt-even-on-a-clock/",
+        "clean_url": "https://www.forbes.com/sites/guneyyildiz/2026/07/01/irans-ceasefire-runs-out-august-21-the-rest-of-the-middle-east-isnt-even-on-a-clock",
+        "image": "http://www.bing.com/th?id=ONUT.X7Bqcmb22Mo8YVQGpySCKQ&pid=News",
+        "timestamp": 1782894660.0
     },
     {
         "title_fa": "کتاب جدید: تصمیم ترامپ برای حمله به ایران در ساعات پایانی چگونه شکل گرفت",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.foxnews.com/politics/obama-era-inspection-flaws-iran-could-persist-experts-warn-nuclear-blind-spots",
         "image": "http://www.bing.com/th?id=ONUT.065MLuQVtevL9C5KlQDsGQ&pid=News",
         "timestamp": 1782301620.0
-    },
-    {
-        "title_fa": "وزیر انرژی آمریکا: توان ایران برای بستن تنگه هرمز برای همیشه از بین رفت/افزایش فشار برای «عدم معامله» و امکان بازگشت محاصره دریایی",
-        "title_en": "Energy secretary says U.S. has ended Iran's ability to close Strait of Hormuz",
-        "summary": [
-            "کریس رایت اعلام کرد که «ایران دیگر توان بستن تنگه هرمز» را در آینده نخواهد داشت؛ دلیل اصلی، اسکورت‌های نظامی آمریکا برای کشتی‌های تجاری و عبور آن‌ها از بخش‌های جنوبی در چارچوب آب‌های عمان است.",
-            "رایت می‌گوید پس از اعلام بسته شدن مجدد تنگه در آخر هفته، حدود ۱۷ میلیون بشکه نفت از هرمز عبور کرده و در ۲۴ ساعت گذشته حدود ۷۲ کشتی با ۱۹ میلیون بشکه نفت رد شده‌اند؛ همچنین طبق داده‌های Kpler حدود ۴.۸ میلیون بشکه در روز از زمان توافق آمریکا و ایران برای بازگشایی گذر کرده است.",
-            "او هم‌زمان تهدید کرد که اگر ایران خواسته‌های واشنگتن را برآورده نکند، آمریکا می‌تواند بار دیگر محاصره دریایی را اعمال کند؛ رایت همچنین گفت ۶۰ روز معافیت فروش نفت به جمهوری اسلامی «برد بزرگ» نیست چون پولی آزاد نشده و «چیزی معنی‌دار» به تهران نرسیده است."
-        ],
-        "impact": "این موضع عملاً اهرم ژئوپلیتیک ایران در هرمز را از نظر عملی خنثی می‌کند و ریسک شوک نفتی را کاهش می‌دهد، در عین حال واشنگتن فشار اقتصادی-امنیتی را با تهدید بازگشت محاصره نگه می‌دارد.",
-        "tag": "تحریم",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "CNBC",
-        "url": "https://www.cnbc.com/2026/06/24/iran-strait-hormuz-oil-chris-wright-energy-secretary.html",
-        "clean_url": "https://www.cnbc.com/2026/06/24/iran-strait-hormuz-oil-chris-wright-energy-secretary.html",
-        "image": "http://www.bing.com/th?id=ONUT.0axmqu9mpyeM4ZtXEOht6w&pid=News",
-        "timestamp": 1782295620.0
-    },
-    {
-        "title_fa": "جنگ و پیامدها: یک چارچوب تحلیلی بدون گزارش رویداد مشخص",
-        "title_en": "War and Consequences",
-        "summary": [
-            "متن ارائه‌شده صرفاً معرفی نویسنده (Eliot A. Cohen) در The Atlantic است و هیچ رخداد، اقدام نظامی، تحریم یا اتفاق منطقه‌ای به‌طور مشخص گزارش نشده است.",
-            "از آن‌جا که محتوای واقعی مقاله/گزارش در اختیار نیست، نمی‌توان پیامدهای قابل انتساب به رژیم، اقتصاد یا اعتراضات داخلی را بر اساس شواهد مشخص تحلیل کرد.",
-            "صرفاً می‌توان گفت تمرکز احتمالی عنوان («War and Consequences») بر پیوند جنگ و پیامدهاست، اما در داده‌های فعلی هیچ ارتباطی با ایران یا بازیگران مشخص قابل اثبات وجود ندارد."
-        ],
-        "impact": "در نبود متن تحلیلی یا گزارش رویداد، اثر سیاسی/امنیتی یا اقتصادی قابل ارزیابی نیست.",
-        "tag": "تحلیل",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/ideas/2026/06/iran-war-consequences/687669/",
-        "clean_url": "https://www.theatlantic.com/ideas/2026/06/iran-war-consequences/687669",
-        "image": null,
-        "timestamp": 1782295200.0
-    },
-    {
-        "title_fa": "بازگشت بازرسی‌های آژانس در ایران؛ اهرم فشار آمریکا و خط قرمز نظامی تهران همزمان بالا گرفت",
-        "title_en": "US-Iran War Live Updates: IAEA to resume Iran nuclear inspections after US-Iran accord",
-        "summary": [
-            "ترامپ اعلام کرد در صورت خودداری تهران از پذیرش بازرسی‌های آژانس بین‌المللی انرژی اتمی (IAEA)، آمریکا گفت‌وگوهایش را معلق می‌کند؛ همزمان ایران «در اصل» با بازدیدها در زمان مناسب موافقت کرده و مذاکرات را به سمت «توافقات اقتصادی» برای نیازهای انسانی سوق می‌دهد.",
-            "پیش‌نویس/چارچوب حقوقی داخلی آمریکا نیز تحت فشار قرار گرفته: سنای آمریکا با رأی ۵۰-۴۸ قطعنامه اختیارات جنگی را تصویب کرد که از ترامپ می‌خواهد مشارکت نظامی آمریکا در ایران را پایان دهد؛ این یک چالش مستقیم برای سیاست خارجی رئیس‌جمهور محسوب می‌شود.",
-            "در سوی دیگر، رئیس‌جمهور ایران مسعود پزشکیان گفت مذاکره درباره توان نظامی و قابلیت‌های دفاعی خارج از بحث است؛ همزمان اسرائیل هشدار داد تفاهم اخیر آمریکا-ایران می‌تواند به تقویت حزب‌الله در لبنان بینجامد و اعلام کرد حضور خود در منطقه امنیتی جنوب لبنان را تا زمانی که حزب‌الله تهدید باقی بماند حفظ می‌کند."
-        ],
-        "impact": "بازگشت بازرسی‌های IAEA می‌تواند اهرم فشار اقتصادی/دیپلماتیک را فعال نگه دارد، اما همزمان بن‌بست «عدم مذاکره روی توان نظامی» و نگرانی اسرائیل درباره حزب‌الله ریسک تشدید منطقه‌ای را افزایش می‌دهد.",
-        "tag": "ایران-هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-oil-sanctions-waived-lebanon-de-confliction-talks-crude-strait-of-hormuz-liveblog-19929903.htm",
-        "clean_url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-oil-sanctions-waived-lebanon-de-confliction-talks-crude-strait-of-hormuz-liveblog-19929903.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/05/bilder-42-2026-05-24337251e70f2c833d01af7ec4ffc61f.jpg",
-        "timestamp": 1782294360.0
-    },
-    {
-        "title_fa": "رئیس آژانس: بازرسی‌های هسته‌ای ایران «انجام خواهند شد»",
-        "title_en": "Iranian nuclear inspections 'going to happen,' IAEA head",
-        "summary": [
-            "این گزارش فقط می‌گوید که «بازرسی‌های هسته‌ای ایران» از سوی آژانس بین‌المللی انرژی اتمی «در نهایت انجام خواهد شد» و هنوز جزئیات زمان‌بندی/دامنه یا تضمین اجرای آن ارائه نشده است.",
-            "سیگنال اصلی، حرکت آژانس به سمت عملیاتی‌کردن بازرسی‌هاست؛ اما تا وقتی برنامه دقیق مشخص نشود، اثر آن بیشتر در سطح فشـار سیاسی و افزایش ریسک حقوقی/بین‌المللی برای تهران باقی می‌ماند.",
-            "از منظر رژیم، همین پیام یعنی احتمال تشدید نظارت خارجی و افزایش هزینه‌های پنهان‌کاری؛ از منظر سیاسی-اقتصادی، می‌تواند بر فضای مذاکره و ریسک ادراک‌شده برای سرمایه و اقتصاد اثر بگذارد، هرچند متن فعلاً داده مشخص اقتصادی ارائه نمی‌کند."
-        ],
-        "impact": "نزدیک‌شدن بازرسی‌ها می‌تواند هزینه‌های برنامه هسته‌ای پنهان را بالا ببرد و ریسک سیاسی برای رژیم را افزایش دهد، اما تا اعلام جزئیات، اثر عملی محدود و عمدتاً روانی/دیپلماتیک است.",
-        "tag": "هسته‌ای",
-        "urgency": 4,
-        "sentiment": -0.1,
-        "source": "dw.com",
-        "url": "https://www.msn.com/en-in/news/world/iranian-nuclear-inspections-going-to-happen-iaea-head/ar-AA26qvrB",
-        "clean_url": "https://www.msn.com/en-in/news/world/iranian-nuclear-inspections-going-to-happen-iaea-head/ar-AA26qvrB",
-        "image": null,
-        "timestamp": 1782293526.0
     }
 ]
