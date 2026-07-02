@@ -108,6 +108,24 @@
         "timestamp": 1783008526.0
     },
     {
+        "title_fa": "کمین سپاه پاسداران علیه نیروهای کُرد در پیرانشهر؛ گسترش درگیری در غرب ایران",
+        "title_en": "Six Kurdish fighters killed in IRGC ambush as clashes spread across western Iran",
+        "summary": [
+            "به گفته PDKI، شش نیروی کُرد در یک کمین سپاه پاسداران نزدیک پیرانشهر کشته شدند؛ همزمان سپاه شمار دیگری را گزارش کرده و گفته پنج «مسلح کُرد» کشته شده‌اند.",
+            "اختلاف روایت‌ها نشان می‌دهد هر دو طرف برای کنترل چارچوب خبری و مشروعیت عملیاتی خود درگیر روایت‌سازی هستند، در حالی که واقعیت میدانی به‌صورت دقیق قابل راستی‌آزمایی سریع نیست.",
+            "گسترش درگیری در غرب ایران (به‌عنوان «clashes spread across western Iran») به معنی افزایش هزینه امنیتی برای حکومت و تشدید بی‌ثباتی در مناطق مرزی است."
+        ],
+        "impact": "این رویداد، شکاف امنیتی در غرب ایران را پررنگ‌تر می‌کند و می‌تواند چرخه عملیات متقابل و فشار بیشتر بر منابع امنیتی رژیم را تشدید کند.",
+        "tag": "درگیری",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/six-kurdish-fighters-killed-in-irgc-ambush-as-clashes-spread-across-western-iran/ar-AA2757de",
+        "clean_url": "https://www.msn.com/en-us/news/world/six-kurdish-fighters-killed-in-irgc-ambush-as-clashes-spread-across-western-iran/ar-AA2757de",
+        "image": "http://www.bing.com/th?id=ONUT.luxWBGE7eOTZRYqBTVFYJg&pid=News",
+        "timestamp": 1783000430.0
+    },
+    {
         "title_fa": "بن‌بست واشنگتن: پایان دادن به جنگ ایران یا میانجی‌گری صلح اسرائیل-لبنان، اما نه هر دو",
         "title_en": "The U.S. Can End the Iran War or Broker Israel-Lebanon Peace, but Not Both",
         "summary": [
@@ -196,6 +214,24 @@
         "clean_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral",
         "image": null,
         "timestamp": 1782994239.0
+    },
+    {
+        "title_fa": "فوربس: ایران «مسیر دوم» برای بمب دارد؛ آمریکا باید مسیرهای تولید را کاملاً ببندد",
+        "title_en": "Iran Has Another Path To The Bomb. Trump Needs To Close It Off.",
+        "summary": [
+            "فوربس هشدار می‌دهد دولت آمریکا بیش از حد روی مسیرِ غنی‌سازی اورانیوم تمرکز کرده، در حالی که «مسیرِ دوم» یعنی بازفرآوری پلوتونیوم می‌تواند به‌همان اندازه به سلاح هسته‌ای منتهی شود.",
+            "این گزارش به نیروگاه بوشهر در جنوب ایران به‌عنوان گره اصلی پلوتونیوم اشاره می‌کند: ساخت آن با مشارکت «روس‌آتوم» در دهه ۱۹۹۰ شروع شد، سپس روسیه سال‌هایی مدیریت و پایه فنی فراهم کرد و حالا با گذشت سه دهه، سوختِ مصرف‌شده انباشت شده است.",
+            "به نقل از هنری سوکولسکی، ایران احتمالاً حدود ۲۱۰۰ کیلوگرم پلوتونیومِ قابل‌مصرف برای سلاح در بوشهر دارد که از نظر او می‌تواند برای ساخت بیش از ۲۰۰ بمب کافی باشد؛ همچنین تبدیل پلوتونیوم به هسته بمب «از نظر فنی» هم‌سطح با مسیر اورانیوم توصیف می‌شود و گزارش می‌گوید سابقه فریب و پنهان‌کاری هسته‌ای رژیم احتمال پیگیری این مسیر را بالا می‌برد."
+        ],
+        "impact": "اگر مسیر بازفرآوری و دارایی‌های مرتبط با سوخت مصرف‌شده در بوشهر مهار نشود، هر توافق یا فشار محدود ممکن است تنها یک کانال تسلیحاتی را ببندد و کانال دوم را دست‌نخورده نگه دارد.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Forbes",
+        "url": "https://www.forbes.com/sites/ilanberman/2026/07/02/iran-has-another-path-to-the-bomb-trump-needs-to-close-it-off/",
+        "clean_url": "https://www.forbes.com/sites/ilanberman/2026/07/02/iran-has-another-path-to-the-bomb-trump-needs-to-close-it-off",
+        "image": "http://www.bing.com/th?id=ONUT.jpMi4wVhtfTFYsMcChzyCA&pid=News",
+        "timestamp": 1782993180.0
     },
     {
         "title_fa": "ادامه مذاکرات غیرمستقیم آمریکا-ایران و همزمانی با هشدار تهران درباره «خط قرمز» توان موشکی/پهپادی",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ1BrMDVsWWpBdUJrZWRLZTI5VlpZZTVvbXpWR3Q4QlFZcGNhcDc1RTVHOVZSYWtxZkdYckFnUlR4a3kxV3htc28xX2hnZWFzNnNHOEpMR3htVk9EenJ1V210ZEViN2dWSndDcDNxRWF2T3QzLUkyazlZSXlvbm1iaXFZMVA",
         "image": null,
         "timestamp": 1782400440.0
-    },
-    {
-        "title_fa": "هشدار سپاه درباره مسیر جدید هرمز برای کشتی‌ها",
-        "title_en": "IRGC warns against new Hormuz route for ships: What we know",
-        "summary": [
-            "طبق گزارش، سپاه نسبت به استفاده از «مسیر جدید هرمز» برای تردد کشتی‌ها هشدار داده است و این پیام را به عنوان عامل تهدیدکننده/قابل‌تسامح‌نبودن برای کشتیرانی مطرح کرده است.",
-            "متن منتشرشده در این منبع عملاً بر هشدار و «چه می‌دانیم» تمرکز دارد و جزئیات فنی، زمان اجرا یا مشخصات دقیق مسیر و پیامدهای مشخص را در همین اطلاعات ارائه نمی‌کند.",
-            "این اقدام در چارچوب سیاست بازدارندگی/فشار منطقه‌ای قابل خوانش است، اما بدون داده‌های بیشتر از سوی گزارش، نمی‌توان ادعا کرد که تهدید به اقدام مشخص (مانند توقیف یا حمله) در همین متن تأیید شده است."
-        ],
-        "impact": "این هشدار می‌تواند ریسک درک‌شده برای کشتیرانی در تنگه هرمز را بالا ببرد و هزینه‌های عملیاتی و برنامه‌ریزی مسیر را برای شرکت‌های حمل‌ونقل افزایش دهد، حتی اگر جزئیات عملیات مشخص نشده باشد.",
-        "tag": "امنیت_دریایی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/news/world/irgc-warns-against-new-hormuz-route-for-ships-what-we-know/ar-AA26wNaj",
-        "clean_url": "https://www.msn.com/en-us/news/world/irgc-warns-against-new-hormuz-route-for-ships-what-we-know/ar-AA26wNaj",
-        "image": null,
-        "timestamp": 1782398198.0
-    },
-    {
-        "title_fa": "حمله پهپادی ایران به یک کشتی در تنگه هرمز و توقف موقت عملیات سازمان ملل برای تخلیه ملوانان",
-        "title_en": "Iran strikes vessel pausing UN efforts to evacuate ships from Hormuz",
-        "summary": [
-            "CNN به نقل از یک مقام آمریکایی گزارش می‌دهد یک کشتی باری در تنگه هرمز با پهپاد ایرانی هدف قرار گرفته و همین حادثه باعث توقف موقت عملیات تخلیه هزاران ملوانِ گرفتار در خلیج فارس شده است؛ ایران هم مسئولیت را نپذیرفته است.",
-            "سازمان بریتانیایی عملیات تجارت دریایی (UKMTO) اعلام کرد یک کشتی در سمت راست (starboard) از سوی یک پرتابه ناشناس ضربه خورده و به پل فرمان آسیب وارد شده؛ هیچ تلفات و آلودگی محیطی گزارش نشده و مقامات در حال بررسی و کشتی‌ها در مورد عبور محتاطانه و گزارش فعالیت مشکوک هشدار گرفته‌اند.",
-            "وقفه در تخلیه، چند روز پس از اعلام موافقت‌نامه آمریکا-ایران توسط IMO برای تخلیه بیش از ۱۱ هزار ملوان صورت می‌گیرد؛ دبیرکل IMO، آرسنیو دومینگز، گفت این توقف برای بازبینی تضمین‌های ایمنی و هماهنگی ناوبری است چون کشتیِ مورد حمله تحت چارچوب تخلیه IMO نبوده است."
-        ],
-        "impact": "این اقدام، ریسک امنیتی کریدور دریایی هرمز را بالا برده و عملاً اجرای برنامه‌های هماهنگ سازمان ملل را با وقفه مواجه می‌کند.",
-        "tag": "درگیری",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/06/25/middleeast/un-pauses-hormuz-evacuation-after-us-says-iran-behind-attack-intl-latam",
-        "clean_url": "https://www.cnn.com/2026/06/25/middleeast/un-pauses-hormuz-evacuation-after-us-says-iran-behind-attack-intl-latam",
-        "image": "http://www.bing.com/th?id=ONUT.52_RytdXK3SUhnVDpliQwQ&pid=News",
-        "timestamp": 1782397020.0
     }
 ]
