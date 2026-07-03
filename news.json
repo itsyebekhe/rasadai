@@ -1,5 +1,77 @@
 [
     {
+        "title_fa": "هشدار آمریکا به ایران درباره هدف‌گیری ترور رهبران توسط اسرائیل",
+        "title_en": "U.S. warned Iran about Israel’s aims to assassinate leaders",
+        "summary": [
+            "واشینگتن اعلام کرده به ایران هشدار داده که «اهداف اسرائیل» شامل ترور یا حذف رهبران است؛ پیام اصلی مقاله، ماهیت تهدید در سطح نخبگان سیاسی/امنیتی است.",
+            "این هشدار نشان می‌دهد آمریکا در حال ارزیابی فعالانه سناریوهای تشدید خشونت در داخل ایران است و احتمال درگیری‌های پنهان را به‌عنوان ریسک فوری در نظر می‌گیرد.",
+            "سطح تهدید متوجه «رهبران» است؛ بنابراین پیامد بالقوه می‌تواند اختلال در سازوکار تصمیم‌گیری و افزایش اقدامات امنیتی داخلی باشد، حتی اگر خودِ اقدام تروریستی هنوز گزارش نشده باشد."
+        ],
+        "impact": "این نوع هشدار، ریسک بی‌ثباتی داخلی و تشدید امنیتی را بالا می‌برد چون هدف‌گیری رهبران مستقیماً ظرفیت مدیریت بحران را تضعیف می‌کند.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "The Washington Post",
+        "url": "https://www.msn.com/en-us/news/world/us-warned-iran-about-israels-aims-to-assassinate-leaders/ar-AA275WLW",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-warned-iran-about-israels-aims-to-assassinate-leaders/ar-AA275WLW",
+        "image": null,
+        "timestamp": 1783051260.0
+    },
+    {
+        "title_fa": "هشدار ایران به کشتیرانی: عبور از مسیرهای «غیرمجاز» در تنگه هرمز",
+        "title_en": "Iran warns ships against using unapproved routes in Strait of Hormuz",
+        "summary": [
+            "ایران اعلام کرده کشتی‌ها از مسیرهای «تأییدنشده/غیرمجاز» در تنگه هرمز استفاده نکنند؛ پیام اصلی این هشدار، افزایش کنترل عملیاتی بر تردد در یکی از گلوگاه‌های حیاتی تجارت دریایی است.",
+            "این رویکرد می‌تواند ریسک ناایمنی و اختلال در برنامه‌ریزی کشتیرانی را بالا ببرد؛ در عمل، هر محدودیت یا ادعای کنترل مسیر، احتمال تأخیر، تغییر مسیر و تشدید تنش‌های عملیاتی میان بازیگران دریایی را افزایش می‌دهد.",
+            "از منظر فشار خارجی/تحریم، این اقدام بیشتر یک ابزار مدیریت ریسک و نمایش قدرت در کوتاه‌مدت است تا راه‌حل اقتصادی؛ اما اگر به محدودیت‌های اجرایی واقعی تبدیل شود، هزینه‌های بیمه و حمل‌ونقل می‌تواند فشار مضاعفی بر اقتصاد وارد کند."
+        ],
+        "impact": "هشدار درباره مسیرهای غیرمجاز در هرمز، مستقیماً می‌تواند به اختلال در کشتیرانی و افزایش هزینه‌های تجاری منجر شود و زمینه تنش‌های دریایی را بالا ببرد.",
+        "tag": "دریایی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/world/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz/ar-AA276GjV",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz/ar-AA276GjV",
+        "image": null,
+        "timestamp": 1783047813.0
+    },
+    {
+        "title_fa": "ترامپ جنگ با ایران را در مصاحبه «اووال آفیس» توجیه می‌کند",
+        "title_en": "Donald Trump defends US war with Iran in Oval Office interview",
+        "summary": [
+            "دونالد ترامپ در مصاحبه‌ای در اووال آفیس، جنگ علیه ایران را دفاع و توجیه کرده و آن را به‌عنوان اقدام قابل‌دفاع در سیاست خارجی آمریکا قاب‌بندی می‌کند.",
+            "این موضع نشان می‌دهد واشینگتن حاضر است هزینه-فایده عملیات نظامی را در چارچوب سیاسی داخلی خود بازتفسیر کند؛ یعنی ریسک تبدیل تنش به اقدام نظامی بیشتر می‌شود.",
+            "در نبود جزئیات اجرایی در متن ارائه‌شده، تمرکز همچنان روی پیام سیاسی است: تشدید احتمالی فشار و آمادگی برای تقابل نظامی، بدون ارائه شواهد جدید از اقدامات مشخص."
+        ],
+        "impact": "این اظهارات، سطح ریسک درگیری مستقیم را بالا می‌برد و به‌طور بالقوه مانع از کاهش تنش می‌شود.",
+        "tag": "آمریکا",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "The Jerusalem Post",
+        "url": "https://www.msn.com/en-ie/news/world/nato-chief-rutte-defends-allies-as-trump-says-he-was-let-down-on-iran/vi-AA26yekK",
+        "clean_url": "https://www.msn.com/en-ie/news/world/nato-chief-rutte-defends-allies-as-trump-says-he-was-let-down-on-iran/vi-AA26yekK",
+        "image": null,
+        "timestamp": 1783044261.0
+    },
+    {
+        "title_fa": "گزارش نهایی DREF برای «اضطراری پیچیده» در ایران (2025)؛ تمرکز بر پاسخ بشردوستانه",
+        "title_en": "Iran, Islamic Republic of complex emergency 2025 - DREF Final Report (MDRIR015)",
+        "summary": [
+            "این گزارش نهایی DREF (MDRIR015) در چارچوب یک «اضطراری پیچیده 2025» ارائه شده و نشان می‌دهد تمرکز عملیات روی پاسخ‌های بشردوستانه در شرایط بحران بوده است.",
+            "در گزارش، سازوکارهای کمک‌رسانی و پوشش‌های انجام‌شده از سوی نهادهای مرتبط تشریح می‌شود و عملاً اعتبار عملکرد را در سطح میدانی/برنامه‌ای می‌سنجد (نه تحلیل سیاسی یا امنیتی).",
+            "از متن ارسالی هیچ داده مشخصی درباره شدت تحریم‌ها، اقدامات فشار خارجی، نقش بازیگران خارجی (روسیه/چین/کره‌شمالی)، یا وقوع اعتراضات داخلی ارائه نشده است؛ بنابراین نمی‌توان پیوندهای علّی فراتر از حوزه بشردوستانه ساخت."
+        ],
+        "impact": "این نوع گزارش‌ها معمولاً شاخصی از استمرار فشارهای انسانی و اختلالات میدانی است، اما با اطلاعات فعلی امکان نتیجه‌گیری درباره پیامدهای مستقیم سیاسی/امنیتی یا تغییرات رژیم وجود ندارد.",
+        "tag": "بشردوستانه",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "ReliefWeb",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXBRYk1fUWtTSHhNc21iZGdJX2hzVzUwSTR6UFRQSWpPZUVfZkVyZF9jN2xJVXlSVW5kQXdOQ1NiNU5qV19md0VBV2ZzMV9YNU0tTnRKUnp5aElQLWFWS3pKOS1NSHFfZk9xY3dBM2J2ZEt2ZkQtWlBVdVN4dnQySkwxbEhybFhjTkRWNkp6cHVYV3FoWWVybjlOSjRJLUVJSVNkd3NVSzFaMDg3ZzJRVkZzOXRrRktHc2IzaUtoVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXBRYk1fUWtTSHhNc21iZGdJX2hzVzUwSTR6UFRQSWpPZUVfZkVyZF9jN2xJVXlSVW5kQXdOQ1NiNU5qV19md0VBV2ZzMV9YNU0tTnRKUnp5aElQLWFWS3pKOS1NSHFfZk9xY3dBM2J2ZEt2ZkQtWlBVdVN4dnQySkwxbEhybFhjTkRWNkp6cHVYV3FoWWVybjlOSjRJLUVJSVNkd3NVSzFaMDg3ZzJRVkZzOXRrRktHc2IzaUtoVQ",
+        "image": null,
+        "timestamp": 1783041987.0
+    },
+    {
         "title_fa": "تنگه هرمز: BBC در بازدید از ایران، کشتی‌های توقیف‌شده و تانکرهای سرگردان را دیده است",
         "title_en": "Strait of Hormuz: BBC sees seized ships and stranded tankers on visit to Iran",
         "summary": [
@@ -34,6 +106,24 @@
         "clean_url": "https://www.msn.com/en-us/news/world/the-iran-deal-is-flawed-the-alternatives-are-worse/ar-AA275wzU",
         "image": null,
         "timestamp": 1783026346.0
+    },
+    {
+        "title_fa": "ایران پیام «سرپیچی» به ترامپ را با تشییع‌جنازه چندشهری و نمایشی برای علی خامنه‌ای ارسال می‌کند",
+        "title_en": "Iran sends a defiant message to Trump with colossal funeral for slain Supreme Leader Ali Khamenei",
+        "summary": [
+            "طبق گزارش CNN (از طریق MSN)، ایران «چهار ماه پس از کشته شدن علی خامنه‌ای» در آغاز جنگ آمریکا-اسرائیل علیه ایران، یک مراسم تشییع‌جنازه چندروزه و گسترده را در پنج شهر طی یک هفته برگزار می‌کند؛ اقدامی که آشکارا جنبه نمایشی و ارسال پیام سیاسی دارد.",
+            "گستردگی جغرافیایی و طول زمان مراسم (پخش در چند شهر) به‌عنوان پیام به ترامپ طراحی شده: رژیم تلاش می‌کند در بحبوحه درگیری خارجی، نشانه تداوم رهبری و مقاومت را به نمایش بگذارد، نه اینکه صرفاً یک مراسم سوگواری باشد.",
+            "در این خبر به جزئیات اقتصادی/تحریمی یا ماهیت دقیق پیام رسمی به ترامپ پرداخته نشده، اما خودِ هزینه‌گذاری تبلیغاتی-مناسبتی در شرایط جنگی، نشان می‌دهد اولویت حاکمیت حفظ انسجام داخلی و کنترل روایت عمومی است."
+        ],
+        "impact": "این سطح از نمایندگی سیاسی پس از حذف رهبر، احتمالاً برای مهار فرسایش روانی و تثبیت مشروعیت در کوتاه‌مدت طراحی شده است، اما هزینه تبلیغاتی می‌تواند شکاف‌های اجتماعی را در جامعه خسته از جنگ عمیق‌تر کند.",
+        "tag": "تشییع_نمایشی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-sends-a-defiant-message-to-trump-with-colossal-funeral-for-slain-supreme-leader-ali-khamenei/ar-AA276VMO",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-sends-a-defiant-message-to-trump-with-colossal-funeral-for-slain-supreme-leader-ali-khamenei/ar-AA276VMO",
+        "image": "http://www.bing.com/th?id=ONUT.qRiSrkyXC0epviLGCA4mDA&pid=News",
+        "timestamp": 1783026086.0
     },
     {
         "title_fa": "باور آمریکا به برنامه‌ریزی برای حذف مذاکره‌کنندگان ایرانی و نگرانی از فروپاشی مذاکرات",
@@ -162,6 +252,24 @@
         "timestamp": 1783011960.0
     },
     {
+        "title_fa": "نقشه مراسم تشییع علی خامنه‌ای؛ از تهران تا قم و عراق، زیر سایه جنگ مستقیم آمریکا و اسرائیل",
+        "title_en": "Mapping Iran’s Ali Khamenei funeral: Where mourners will gather each day",
+        "summary": [
+            "از ۳ ژوئیه، هفت روز مراسم تشییع برای علی خامنه‌ای در شهرهای ایران و عراق برنامه‌ریزی شده و محل دفن که پیش‌تر برای مارس تعیین شده بود، به‌دلیل ادامه جنگ آمریکا و اسرائیل علیه ایران به تعویق افتاده است.",
+            "خامنه‌ای (۸۶ ساله) در ۲۸ فوریه در یک حمله هوایی مشترک آمریکا و اسرائیل به مجموعه او کشته شد؛ این رخداد، مراسم تشییع را به نخستین آیین بزرگ دولتی پس از جانشینی رسمی خودِ او تبدیل می‌کند.",
+            "برنامه روزبه‌روز: ۴ و ۵ ژوئیه مراسم عمومی در تهران با خواباندن تابوت در گراند مسا (برای وداع عمومی)، ۶ و ۷ ژوئیه حرکت کاروان‌ها در تهران و سپس انتقال به قم (مرکز اصلی حوزه‌های شیعه) و ادامه مسیر به شهرها و مراکز مذهبی دیگر."
+        ],
+        "impact": "این تشییع دولتی در شرایط جنگ مستقیم، بیش از آنکه انسجام سیاسی بسازد، فشار سرنوشت‌ساز روی ساختار جانشینی و کنترل اجتماعی را در روزهای حساس افزایش می‌دهد.",
+        "tag": "ایران",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/news/2026/7/3/mapping-irans-ali-khamenei-funeral-where-mourners-will-gather-each-day",
+        "clean_url": "https://www.aljazeera.com/news/2026/7/3/mapping-irans-ali-khamenei-funeral-where-mourners-will-gather-each-day",
+        "image": null,
+        "timestamp": 1783011540.0
+    },
+    {
         "title_fa": "تغییر محور راهبردی آمریکا در خاورمیانه؛ از ریاض به «قدس» تحت تاثیر پیامدهای جنگ ایران",
         "title_en": "Analysis: Iran War Fallout Shifting America’s Middle East Anchor From Riyadh to Jerusalem",
         "summary": [
@@ -178,6 +286,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNkExNGRXdl8xMXc3SnJGMU94M0gxVTMtbWJRWGkwWk5XM3U3WDdTQ3J5dHg4ZDYyQnYwSXpKUDJhSDBXaklRaTNMRDY1c0gxNXlnX2d3N2xCNkh6Z3JMbVVTcmYwVE03WWVUNHVlQnRicHhsQnBaY0FGTEpRcGZ0SEJYX3pEQVNudU0zXzRZbmoyMHRFY2VXM1RqVTBoTnZVSnNpdU5qUm51aE1STENqaXY4aVc4bHNERHZOS1FDT0lEQjlFV19XQkJicWZrTldsbnc",
         "image": null,
         "timestamp": 1783008526.0
+    },
+    {
+        "title_fa": "ایران برنامه‌ریزی برای یک هفته عزای عمومی و مراسم تشییع سراسری برای علی خامنه‌ای؛ کنترل سیاسی از مسیر مراسم مذهبی",
+        "title_en": "Iran prepares to bury slain supreme leader with week of mass mourning",
+        "summary": [
+            "بر اساس گزارش رویترز، نهادهای حاکم در حال تدارک «روزهای عزای عمومی» و انجام مراسم تشییع گسترده برای علی خامنه‌ای هستند تا شکل‌دهی به احساسات عمومی را در خدمت مشروعیت‌سازی سیاسی به کار بگیرند.",
+            "این اقدام به‌عنوان نمایش «وفاداری عمومی» طراحی می‌شود: انتقال پیام اینکه انقلاب و نظام هنوز ظرفیت بسیج اجتماعی دارند، حتی با وجود تلفات/مرگ یک مقام عالی‌رتبه و پیامدهای آن برای ثبات درون حاکمیت.",
+            "کارکرد اصلی این برنامه، تقویت همبستگی اجباری و مدیریت ادراک عمومی در لحظه‌ای حساس است؛ یعنی استفاده از آیین‌های رسمی برای کاهش شکاف‌های سیاسی، کنترل روایت‌ها و پیشگیری از سرایت نارضایتی در دوره‌ای که تمرکز جامعه به مرکز قدرت گره خورده است."
+        ],
+        "impact": "یک هفته عزای سراسری بیش از آنکه صرفاً آیینی باشد، ابزاری برای کنترل سیاسی و مهار ریسک ناآرامی در پی مرگ رهبر عالی‌رتبه است.",
+        "tag": "کنترل-روایت",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-prepares-bury-slain-supreme-leader-with-week-mass-mourning-2026-07-02/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-prepares-bury-slain-supreme-leader-with-week-mass-mourning-2026-07-02",
+        "image": null,
+        "timestamp": 1783005240.0
     },
     {
         "title_fa": "کمین سپاه پاسداران علیه نیروهای کُرد در پیرانشهر؛ گسترش درگیری در غرب ایران",
@@ -5272,131 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLUl5NkNNZUFIUXRKNjNMemRhOHZac05oblY2LXdhTFlBN0VDZVFVSWVFWjUxZmJRMi15b2FVMVFuMXlkajRrTlpKRlhFc3JLTktreGhBX0N4c2Q4OW00QXM2TV9ZenY3dGpuVzZYemlfbkJHU3VTNWJmZS03eERET29LZGkzUmdNYnJtcVNZZVNEMTQyUm56Wkk3bndPN3VPanMwaEdEOGRUWG8",
         "image": null,
         "timestamp": 1782419720.0
-    },
-    {
-        "title_fa": "جمع‌بندی نظر واشنگتن‌پست درباره نتیجه «جنگ ایران» از نگاه یک کارشناس هسته‌ای",
-        "title_en": "Opinion | A top nuclear expert on what the Iran war accomplished",
-        "summary": [
-            "متن ارائه‌شده فقط عنوان یک مقاله نظر است و محتوای گزارش (ادعاها، شواهد، نتیجه‌گیری‌ها) در اختیار نیست؛ بنابراین نمی‌توان مشخص کرد این کارشناس دقیقاً چه دستاوردهایی برای جنگ عنوان کرده است.",
-            "چون مقاله «Opinion» است و اطلاعات ادعایی آن در این داده وجود ندارد، هیچ ارزیابی مستند درباره اثر بر تحریم‌ها، توان عملیاتی، یا پیامدهای سیاسی/اقتصادی داخل ایران قابل اتکا نیست.",
-            "با توجه به نبود جزئیات قابل استناد، نمی‌توان ارتباطی با نقش روسیه/چین/کره‌شمالی یا روند اعتراضات و اقتصاد ایران استخراج کرد؛ هر نتیجه‌گیری فراتر از داده، جعل خواهد بود."
-        ],
-        "impact": "در حال حاضر فقط می‌توان گفت که عنوان مقاله و برچسب «نظر» به تنهایی برای تحلیل نتیجه راهبردی کافی نیست و برای ارزیابی دقیق باید متن کامل یا نکات کلیدی منتشرشده در دسترس باشد.",
-        "tag": "تحلیل",
-        "urgency": 3,
-        "sentiment": 0.0,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/opinions/2026/06/25/is-iran-stronger-now-nuclear-expert-what-war-accomplished/",
-        "clean_url": "https://www.washingtonpost.com/opinions/2026/06/25/is-iran-stronger-now-nuclear-expert-what-war-accomplished",
-        "image": null,
-        "timestamp": 1782419632.0
-    },
-    {
-        "title_fa": "هشدار روبیو درباره عوارض هرمز؛ بیانیه مشترک آمریکا و کشورهای خلیج برای مهار «سیاست هزینه‌گذاری» علیه آبراه بین‌المللی",
-        "title_en": "Rubio issues Hormuz toll warning as he wraps up Gulf visit",
-        "summary": [
-            "مارکو روبیو در نشست وزرای شورای همکاری خلیج فارس در بحرین هشدار داد عوارض یا محدودیت‌های احتمالی ایران برای عبور کشتی‌ها از تنگه هرمز می‌تواند به «الگو» و سپس گسترش جهانی تبدیل شود؛ او آن را تهدیدی علیه آبراهه‌های بین‌المللی دانست.",
-            "پس از نشست، آمریکا و کشورهای خلیج در بیانیه مشترک هرگونه عوارض یا محدودیت بر ترانزیت هرمز از سوی ایران را رد کردند و اعلام کردند هرگونه معامله با تهران باید به پایبندی ایران به مفاد «تفاهم‌نامه (MoU)» با آمریکا وابسته و قابل بازگشت باشد.",
-            "این موضع‌گیری با شرط‌گذاری امنیتی همراه شد: توقف «رفتار بی‌ثبات‌کننده» که در بیانیه به موشک‌های بالستیک، پهپادها و حمایت از گروه‌های متحد منطقه‌ای اشاره می‌شود، همراه با تأکید بر بازگشایی کامل و عبور آزاد و بدون مانع از تنگه هرمز."
-        ],
-        "impact": "این پیام سیاسی-امنیتی با تمرکز روی هزینه‌گذاری ایران برای هرمز، اهرم اقتصادی احتمالی تهران را به کانون اختلاف تبدیل می‌کند و ریسک تبدیل شدن یک اقدام محدود به پرونده‌ای فراگیر در آبراه‌های جهانی را بالا می‌برد.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/politics/articles/rubio-tells-gulf-allies-iran-105944636.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/rubio-tells-gulf-allies-iran-105944636.html",
-        "image": null,
-        "timestamp": 1782419498.0
-    },
-    {
-        "title_fa": "سازمان ملل طرح تخلیه تنگه هرمز را پس از گزارش حمله توسط یک کشتی متوقف کرد",
-        "title_en": "UN pauses Hormuz evacuation plan after ship reports attack",
-        "summary": [
-            "رویترز گزارش می‌دهد که پس از ارائه گزارش «حمله» از سوی یک کشتی، سازمان ملل اجرای طرح تخلیه در منطقه تنگه هرمز را موقتاً متوقف کرده است.",
-            "این تصمیم نشان می‌دهد که امنیت دریانوردی و ارزیابی فوری ریسک در کریدورهای حساس بین‌المللی به سطحی رسیده که فعالیت عملیاتی طرح تخلیه بدون اطمینان از وضعیت تهدید قابل انجام نیست.",
-            "اگرچه متن گزارش جزئیات درباره عامل حمله یا طرف درگیر ارائه نمی‌کند، اما خودِ توقف برنامه سازمان ملل نشانه تشدید عدم‌قطعیت عملیاتی و افزایش ریسک برای جابه‌جایی‌ها در این مسیر راهبردی است."
-        ],
-        "impact": "توقف طرح تخلیه در هرمز، ریسک فوری برای تردد دریایی و مدیریت بحران را بالا می‌برد و می‌تواند زنجیره‌ای از اختلال‌های امنیتی و اقتصادی در منطقه ایجاد کند.",
-        "tag": "امنیت",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/un-pauses-hormuz-evacuation-plan-after-ship-reports-suspected-attack/ar-AA26xDnn",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/military-organizations/un-pauses-hormuz-evacuation-plan-after-ship-reports-suspected-attack/ar-AA26xDnn",
-        "image": null,
-        "timestamp": 1782417274.0
-    },
-    {
-        "title_fa": "تهران یک کشتی را در تنگه هرمز هدف قرار داد؛ بازگشایی مسیر نفتی در معرض خطر",
-        "title_en": "Iran-US war latest: Tehran strikes ship in Strait of Hormuz",
-        "summary": [
-            "گزارش می‌گوید در تنگه هرمز، تهران یک کشتی را هدف حمله قرار داده است و این رخداد مستقیماً تلاش کشورها برای بازگشایی مسیر نفتی منطقه را تهدید می‌کند.",
-            "این اقدام در چارچوب تشدید تنش میان ایران و آمریکا توصیف شده و نشان می‌دهد امنیت کریدور دریایی برای از سرگیری صادرات نفت به مانع جدی تبدیل شده است.",
-            "با توجه به اینکه متن بر «تهدید برای تلاش‌های بازگشایی» تاکید دارد، پیامد فوری آن بالا رفتن ریسک حمل‌ونقل، اخلال در برنامه‌های دریایی و افزایش عدم‌قطعیت برای بازار انرژی است."
-        ],
-        "impact": "هدف قرار گرفتن یک کشتی در تنگه هرمز، عملاً توان بازگشایی سریع مسیر نفتی را کاهش می‌دهد و ریسک زنجیره‌ای برای کشتیرانی و قیمت انرژی را بالا می‌برد.",
-        "tag": "هرمز",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-tehran-strikes-ship-in-strait-of-hormuz/ar-AA26uHVQ",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-latest-tehran-strikes-ship-in-strait-of-hormuz/ar-AA26uHVQ",
-        "image": "http://www.bing.com/th?id=ONUT.O4M0AXrb2__Ke9YmX5IvkA&pid=News",
-        "timestamp": 1782417223.0
-    },
-    {
-        "title_fa": "گزارش نیروی دریایی بریتانیا: اصابت یک کشتی باری در تنگه هرمز",
-        "title_en": "Iran: UK Navy reports cargo vessel hit in Strait of Hormuz",
-        "summary": [
-            "DW.com اعلام می‌کند که نیروی دریایی بریتانیا گزارش داده یک کشتی باری در تنگه هرمز هدف اصابت قرار گرفته است.",
-            "این رخداد، یک نشانه مستقیم از ناامنی عملیاتی در مسیرهای حیاتی کشتیرانی منطقه است و می‌تواند ریسک محاسباتی برای هر دو طرف درگیر را بالا ببرد.",
-            "در متن موجود، جزئیات درباره زمان دقیق، میزان خسارت، هویت کشتی/طرف مسئول و تلفات ارائه نشده و بنابراین فعلاً نمی‌توان سناریوی عامل و پیامد فوری را با قطعیت تعیین کرد."
-        ],
-        "impact": "تا وقتی جزئیات بیشتر منتشر نشود، این گزارش به‌عنوان تشدید تنش دریایی و افزایش احتمال اختلال در تجارت و محاسبات امنیتی منطقه‌ای عمل می‌کند.",
-        "tag": "تنش_دریایی",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "DW.com",
-        "url": "https://www.msn.com/en-in/news/world/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/ar-AA26vQn4",
-        "clean_url": "https://www.msn.com/en-in/news/world/iran-uk-navy-reports-cargo-vessel-hit-in-strait-of-hormuz/ar-AA26vQn4",
-        "image": null,
-        "timestamp": 1782411929.0
-    },
-    {
-        "title_fa": "هشدار ایران درباره عبور از تنگه هرمز بدون مجوز",
-        "title_en": "Iran warns against Hormuz crossings without authorisation",
-        "summary": [
-            "ایران اعلام کرده عبور از تنگه هرمز بدون «مجوز/تأییدیه» مجاز نیست و هشدار داده این مسیر می‌تواند با محدودیت یا برخورد مواجه شود.",
-            "این پیام به‌طور مستقیم اهرم فشار روی تردد کشتی‌ها را هدف می‌گیرد و می‌تواند ریسک عملیاتی و تصمیم‌گیری کشتیرانی‌ها در منطقه را بالا ببرد.",
-            "با توجه به اینکه این گزارش صرفاً بر هشدار و ممنوعیت اعلامی تمرکز دارد و به اقدام اجرایی مشخص اشاره نمی‌کند، در سطح فعلی بیشتر «سیگنال سیاسی-امنیتی» است تا عملیات قطعی."
-        ],
-        "impact": "این هشدار می‌تواند هزینه و ریسک تردد در تنگه هرمز را افزایش دهد، حتی اگر در کوتاه‌مدت به درگیری مستقیم منجر نشود.",
-        "tag": "هشدار",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSU1SZWtET2g3QXJZNkxfMWV2MllqQnBPS1FPLTRXNEh5Q0RQaW04LVB4Z29NMEJyQ3A5bDNKRURHem1UcTBHRDdHaXQzd0RVSzFvbDlZR2JTeDFROHNkSHJuZGExa1ZCZ3dzdG44UVpmc09XcUpoNWE3eFhMVTViUGh3UGxWU1dQVWZjZVFPX2hWZWQtbG9Oc3BFQmZ2bk3SAaQBQVVfeXFMUDlZQ3V4Nnl1WGp5OEprWUp4QUN6MDZQVkY3VjlpT3diblZBenFKS21kRjU2anpncXc5VEtHVS1xd1I1dHpDS0JqTmdUVkJKQ0VadGF1djcxeWQtOEs1WDBJOTFiVUlxUUl0NlVqQXlkbWYzbGtRRWFueGluMWVxeXhPamVfcFVHTkhpQkx0TC1VRlo0OWpGQi0xS2YtZERXcWtjWXE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSU1SZWtET2g3QXJZNkxfMWV2MllqQnBPS1FPLTRXNEh5Q0RQaW04LVB4Z29NMEJyQ3A5bDNKRURHem1UcTBHRDdHaXQzd0RVSzFvbDlZR2JTeDFROHNkSHJuZGExa1ZCZ3dzdG44UVpmc09XcUpoNWE3eFhMVTViUGh3UGxWU1dQVWZjZVFPX2hWZWQtbG9Oc3BFQmZ2bk3SAaQBQVVfeXFMUDlZQ3V4Nnl1WGp5OEprWUp4QUN6MDZQVkY3VjlpT3diblZBenFKS21kRjU2anpncXc5VEtHVS1xd1I1dHpDS0JqTmdUVkJKQ0VadGF1djcxeWQtOEs1WDBJOTFiVUlxUUl0NlVqQXlkbWYzbGtRRWFueGluMWVxeXhPamVfcFVHTkhpQkx0TC1VRlo0OWpGQi0xS2YtZERXcWtjWXE",
-        "image": null,
-        "timestamp": 1782410740.0
-    },
-    {
-        "title_fa": "AEI: قبرس باید میان ایران و اسرائیل در لبنان میانجی‌گری کند",
-        "title_en": "Cyprus should mediate with Iran and Israel in Lebanon - American Enterprise Institute",
-        "summary": [
-            "مقاله AEI پیشنهاد می‌کند قبرس نقش میانجی بین ایران و اسرائیل برای پرونده لبنان را بر عهده بگیرد؛ یعنی ایده مدیریت تنش از مسیر دیپلماتیک در یک کانون عملیاتی فعال.",
-            "این پیشنهاد مستقیماً به سازوکار کاهش درگیری در لبنان گره خورده است، اما متن ارائه‌شده هیچ جزئیاتی درباره شروط، زمان‌بندی یا کانال‌های اجرایی ندارد.",
-            "در فقدان جزئیات، اثر اصلی در سطح «چارچوب» است: تلاش برای شکل دادن به یک گفت‌وگوی هدفمند میان طرف‌های درگیر، نه یک اقدام قطعی با معیارهای قابل راستی‌آزمایی."
-        ],
-        "impact": "این پیشنهاد بیشتر یک طرح میانجی‌گری در سطح ایده است و در کوتاه‌مدت می‌تواند فضای دیپلماتیک برای مدیریت تنش در لبنان را مطرح کند، بدون اینکه نشانه‌ای از تصمیم اجرایی یا تغییر فوری در میدانی ارائه دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "American Enterprise Institute - AEI",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWw5MjJoMnF2ZHFfa0xWNFkzV0x5V3ZhZ29MQnJRak14c0RRQTdTS01nNTZMQ2F0c2tEVTU2NG1ISzM3UmlnT3hFRlFRNlVoRFo5UlJoWEFZWDNNOXZFSEtDbXllTFNKN1FGUEJEck91cTBSZUt2aGh4Rnd6bnJONk1VTkJLTy1w?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWWw5MjJoMnF2ZHFfa0xWNFkzV0x5V3ZhZ29MQnJRak14c0RRQTdTS01nNTZMQ2F0c2tEVTU2NG1ISzM3UmlnT3hFRlFRNlVoRFo5UlJoWEFZWDNNOXZFSEtDbXllTFNKN1FGUEJEck91cTBSZUt2aGh4Rnd6bnJONk1VTkJLTy1w",
-        "image": null,
-        "timestamp": 1782408725.0
     }
 ]
