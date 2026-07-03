@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "تلفات اقتصادی جنگ در داخل ایران؛ فشار مستقیم بر معیشت مردم",
+        "title_en": "Inside Iran, the economic fallout from war takes a huge personal toll",
+        "summary": [
+            "این گزارش روی «تلفات شخصی» ناشی از پیامدهای اقتصادی جنگ داخل ایران تمرکز دارد و نشان می‌دهد فشار امنیتی و اقتصادی از سطح کلان به زندگی روزمره مردم رسیده است.",
+            "نقطه مرکزی روایت، اثر مخرب جنگ بر توان خرید، هزینه‌های زندگی و شرایط اقتصادی خانوارهاست؛ یعنی هزینه جنگ عمدتاً به جیب مردم منتقل شده، نه به برنامه‌ریزی مؤثر برای تاب‌آوری اقتصادی.",
+            "چنین روندی معمولاً به نارضایتی پایدارتر، کاهش اعتماد عمومی و تشدید فرسایش سرمایه اجتماعی منجر می‌شود، چون مردم شاهد عینیِ بدتر شدن وضعیت معیشت هستند."
+        ],
+        "impact": "گسترش فشار اقتصادی جنگ، پایه‌های ثبات اجتماعی را فرسوده می‌کند و ریسک بحران معیشتی و نارضایتی عمومی را بالا می‌برد.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "NBC News",
+        "url": "https://www.nbcnews.com/world/iran/iran-war-us-israel-ceasefire-food-goods-tehran-expensive-economic-toll-rcna352335",
+        "clean_url": "https://www.nbcnews.com/world/iran/iran-war-us-israel-ceasefire-food-goods-tehran-expensive-economic-toll-rcna352335",
+        "image": null,
+        "timestamp": 1783094995.0
+    },
+    {
         "title_fa": "چرا اسرائیل از نزدیک‌شدن آمریکا و ایران بیشتر از درگیری می‌ترسد",
         "title_en": "Why Israel fears a US-Iran rapprochement far more than conflict",
         "summary": [
@@ -124,6 +142,42 @@
         "clean_url": "https://www.washingtonpost.com/the-seven/2026/07/03/7-things-know-friday-july-3",
         "image": null,
         "timestamp": 1783074403.0
+    },
+    {
+        "title_fa": "رژیم ایران می‌خواهد با مراسم تشییع خامنه‌ای «قدرت» نمایشی نشان دهد",
+        "title_en": "Iran’s regime hopes Khamenei’s funeral will demonstrate its strength",
+        "summary": [
+            "مقامات مراسم تشییع خامنه‌ای را با ابعاد بسیار بزرگ‌تر از مراسم رسمی سال ۱۹۸۹ برای خمینی طراحی کرده‌اند؛ در متن آمده که مراسم خمینی حدود دو روز بود، اما مراسم کنونی از نظر پوشش و ترتیب‌دهی «حتی از آن هم فراتر» می‌رود.",
+            "هدف‌گذاری اصلی این برنامه‌ریزی، استفاده از موج رسانه‌ای و حضور عمومی برای نمایش توان و تثبیت جایگاه حاکمیت است؛ این برداشت در همان عنوان و چارچوب گزارش برجسته شده است.",
+            "این نوع تشدید آیینی، به جای کاهش شکاف اجتماعی، معمولاً نشان‌دهنده اتکای بیشتر به نمایش اقتدار برای کنترل روایت و مدیریت ادراک عمومی است."
+        ],
+        "impact": "هرچه شکوه مراسم بیشتر باشد، نشانه‌ روشنی از تلاش رژیم برای جبران ضعف‌های مشروعیتی و سیاسی از مسیر «نمایش قدرت» است.",
+        "tag": "پهلوی",
+        "urgency": 4,
+        "sentiment": -0.35,
+        "source": "The Economist",
+        "url": "https://www.economist.com/interactive/middle-east-and-africa/2026/07/03/irans-regime-hopes-khameneis-funeral-will-demonstrate-its-strength",
+        "clean_url": "https://www.economist.com/interactive/middle-east-and-africa/2026/07/03/irans-regime-hopes-khameneis-funeral-will-demonstrate-its-strength",
+        "image": "http://www.bing.com/th?id=ONUT.ecaMnRoviJC9Bxc08LrCQA&pid=News",
+        "timestamp": 1783073100.0
+    },
+    {
+        "title_fa": "ایران و عمان سازوکار ناوبری هرمز را نهایی کردند و شرط حذف آمریکا را حفظ کردند",
+        "title_en": "Iran, Oman Finalize Hormuz Deal, Exclude US from Strait’s Future",
+        "summary": [
+            "ایران و عمان «مکانیسم ناوبری» برای تردد در تنگه هرمز را نهایی کردند تا چارچوب مدیریت رفت‌وآمد در این مسیر حساس مشخص شود.",
+            "طبق متن، تهران شرط اصلی را حفظ کرده: امنیت خلیج باید بدون دخالت آمریکا در آینده تنگه پیش برود و آمریکا از تصمیم‌گیری‌های مربوط به سازوکار آتی حذف شود.",
+            "این توافق بیش از آنکه یک اقدام صرفاً فنی باشد، یک سیگنال سیاسی درباره تلاش ایران برای تثبیت کنترل و نفوذ در سازوکارهای کلیدی کریدور هرمز و کاهش نقش بازیگران بیرونی است."
+        ],
+        "impact": "نهایی شدن این سازوکار می‌تواند به تثبیت نفوذ عملی ایران در مدیریت تردد هرمز کمک کند و هم‌زمان وابستگی تصمیم‌گیری‌های امنیتی این مسیر به آمریکا را کمتر کند.",
+        "tag": "هرمز",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Palestine Chronicle",
+        "url": "https://www.palestinechronicle.com/iran-oman-finalize-hormuz-deal-exclude-us-from-straits-future/",
+        "clean_url": "https://www.palestinechronicle.com/iran-oman-finalize-hormuz-deal-exclude-us-from-straits-future",
+        "image": null,
+        "timestamp": 1783072380.0
     },
     {
         "title_fa": "ایران عزاداری عمومی برای روحانی کشته‌شده در فوریه را آغاز کرد",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52dFhRbjdGSDlVd1VpazlpUWg2bEhNUDQxbDQ0Z1VyUlNIQ0Y5MWd2Vm1oMU92R2VBZk5uUmYzTG9WNVJkb1lxMDBPbnI0cHJraFliTmZzRQ",
         "image": null,
         "timestamp": 1782473698.0
-    },
-    {
-        "title_fa": "اتهام ترامپ به نقض آتش‌بس توسط ایران؛ تیراندازی به پهپادها در تنگه",
-        "title_en": "Iran live updates: Trump accuses Iran of violating ceasefire with strait drone strike",
-        "summary": [
-            "ترامپ ایران را متهم کرد که «آتش‌بس» را نقض کرده و در تنگه دست‌کم چهار پهپاد را به سمت شناورهای در آب هدف گرفته است.",
-            "جزئیات گزارش‌شده صرفاً به اقدام در همان آبراه محدود است و فعلاً هیچ داده‌ای درباره منبع شلیک، سرنشینان یا میزان خسارت ارائه نشده است.",
-            "اگر این ادعا به درگیری واقعی منجر شود، احتمال تشدید چرخه اتهام و واکنش در آبراهی که به امنیت کشتیرانی گره خورده، افزایش پیدا می‌کند."
-        ],
-        "impact": "این روایت، در صورت راستی‌آزمایی یا پاسخ متقابل، می‌تواند تنش عملیاتی در تنگه را بالا ببرد و مسیر برخورد مستقیم را هموارتر کند.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "ABC News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-maintains-strait-is-open-after-iranian-drone-strike/ar-AA26f3bD",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-maintains-strait-is-open-after-iranian-drone-strike/ar-AA26f3bD",
-        "image": "http://www.bing.com/th?id=ONUT.gtD4tBfVBHW-nuWUOu9nHQ&pid=News",
-        "timestamp": 1782469852.0
-    },
-    {
-        "title_fa": "ترامپ حمله اخیر ایران به یک کشتی در تنگه هرمز را «نقض آتش‌بس» خواند",
-        "title_en": "Trump Says Iran’s Latest Attack In Strait Of Hormuz Is A Ceasefire Violation",
-        "summary": [
-            "ترامپ در پست «تروث سوشال» گفت دست‌کم چهار پهپاد از سوی ایران پرتاب شده و به عرشه کشتی باری «گرسنگر و بسیار گران‌قیمت» اصابت کرده است؛ او همچنین ادعا کرد آمریکا سه پهپاد را سرنگون کرده و این را «نقض احمقانه» توافق آتش‌بس می‌داند.",
-            "این اظهارات پس از گزارش‌های متعدد درباره حمله مطرح شد؛ طبق گزارش‌ها، تردد از تنگه هرمز که مسیر حیاتی حمل‌ونقل نفت است برای مدتی مختل شد، در حالی که پیش‌تر قرار بود با «موافقت‌نامه تفاهم» ۱۷ ژوئن بین آمریکا و ایران مسیر دوباره باز شود.",
-            "با وجود ادامه مذاکرات دیپلمات‌ها در سوئیس، دو طرف از زمان امضای تفاهم‌نامه چندین بار یکدیگر را به نقض آتش‌بس متهم کرده‌اند؛ همزمان تنش با مسأله مسیرهای امن تنگه (از جمله هشدار ایران درباره عبور تنها از آب‌های خود) و ادعای آمریکا درباره عدم اخذ عوارض، روی دادوستد و بازار نفت اثر گذاشته است."
-        ],
-        "impact": "این ماجرا شکاف میان ادعای آتش‌بس و رفتار عملی دو طرف را عمیق‌تر می‌کند و هم‌زمان ریسک ژئوپولیتیک تنگه هرمز را برای اقتصاد و قیمت نفت فعال نگه می‌دارد.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/26/trump-says-irans-latest-attack-in-strait-of-hormuz-is-a-ceasefire-violation/",
-        "clean_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/26/trump-says-irans-latest-attack-in-strait-of-hormuz-is-a-ceasefire-violation",
-        "image": "http://www.bing.com/th?id=ONUT.WQ52AU2_M9zq7AsIFodn1w&pid=News",
-        "timestamp": 1782469560.0
-    },
-    {
-        "title_fa": "آماده‌سازی انتقال پایگاه‌های خلیج فارس آسیب‌دیده به اسرائیل توسط آمریکا",
-        "title_en": "US considering moving Gulf bases damaged by Iran to Israel",
-        "summary": [
-            "بر اساس گزارش Middle East Eye، آمریکا در حال بررسی جابه‌جایی پایگاه‌های مستقر در حوزه خلیج فارس است که به ادعای گزارش، بر اثر اقدامات منتسب به ایران آسیب دیده‌اند و مقصد پیشنهادی، اسرائیل عنوان شده است.",
-            "این تصمیم در چارچوب فشار عملیاتی واشنگتن می‌تواند به معنای تغییر الگوی استقرار نیرو و کاهش آسیب‌پذیری زیرساخت‌های آمریکا در خلیج فارس باشد، بدون اینکه هنوز جزئیات اجرایی یا زمان‌بندی قطعی ارائه شود.",
-            "فعل‌وانفعالات منطقه‌ای محتمل است؛ چون چنین تغییری معمولاً پیام بازدارندگی/تهدید ضمنی به بازیگران منطقه‌ای منتقل می‌کند و می‌تواند واکنش طرف‌های درگیر را تشدید کند—اما گزارش، مدرک مستقیم از اقدام جدید یا تأیید رسمی ارائه نمی‌دهد."
-        ],
-        "impact": "انتقال یا بررسی انتقال پایگاه‌ها به اسرائیل، اهرم عملیاتی آمریکا در منطقه را بازتنظیم می‌کند و ریسک تشدید رقابت امنیتی را بالا می‌برد.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Middle East Eye",
-        "url": "https://www.msn.com/en-us/news/world/us-considering-moving-gulf-bases-hit-by-iran-westward-including-to-israel-report/ar-AA26AXj9",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-considering-moving-gulf-bases-hit-by-iran-westward-including-to-israel-report/ar-AA26AXj9",
-        "image": null,
-        "timestamp": 1782468683.0
     }
 ]
