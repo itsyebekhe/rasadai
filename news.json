@@ -252,6 +252,24 @@
         "timestamp": 1783158256.0
     },
     {
+        "title_fa": "مراسم شش‌روزه تشییع علی خامنه‌ای در تهران؛ هشدار به آمریکا و اسرائیل درباره حمله در زمان مراسم",
+        "title_en": "Iran live: Mourners gather for funeral of former leader Ali Khamenei",
+        "summary": [
+            "مراسم شش‌روزه تشییع «علی خامنه‌ای» در تهران آغاز شده و «مردم/سوگواران» برای شرکت در آن گرد هم آمده‌اند.",
+            "طبق گزارش، ایران به آمریکا و اسرائیل هشدار داده است که هرگونه حمله در جریان این مراسم عمومی با پاسخ مواجه می‌شود.",
+            "این خبر به‌عنوان «آخرین تحولات جنگ ایران-آمریکا» پوشش داده شده و نشان می‌دهد دولت در آستانه/هم‌زمان با مراسم نمادین، سطح ریسک رویارویی را بالاخص در زمان رویداد حساس مدیریت می‌کند."
+        ],
+        "impact": "هشدار رسمی هم‌زمان با برگزاری مراسم عمومی، ریسک درگیری مستقیم را در کوتاه‌مدت افزایش می‌دهد و در عین حال تلاش می‌کند ثبات روانی و امنیت مراسم را به‌عنوان اولویت نشان دهد.",
+        "tag": "تحرک_امنیتی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-gb/news/world/iran-live-mourners-gather-for-funeral-of-former-leader-ali-khamenei/ar-AA27b7gZ",
+        "clean_url": "https://www.msn.com/en-gb/news/world/iran-live-mourners-gather-for-funeral-of-former-leader-ali-khamenei/ar-AA27b7gZ",
+        "image": "http://www.bing.com/th?id=ONUT.TRNP-UmSHUZ2K4ti1-NScw&pid=News",
+        "timestamp": 1783149313.0
+    },
+    {
         "title_fa": "تحلیل EA: ترورهای هدفمند اسرائیل آیا مانع توافق آمریکا-ایران می‌شود؟",
         "title_en": "EA on India News 9: Will Israel’s Targeted Assassinations Block US-Iran Deal?",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbDlLTkhYQkV2OWVHSEJNangxWWRNcWwwQkYxWXV4Q1c3UF94TWNFVzlzVUdPYkRvLWp4Yjh6TE5NYW53TTRhVm9rNUktNHlkRGFwcHFTREFoYnljZkUxbktLcG5HNmd3VWl3TFZWRlB0aVpJTkFjazZMaC1VaktWU3FnUGxHSkd6dm1zWHN3N1pvSmxHN1pLTl9RVUcyX0U",
         "image": null,
         "timestamp": 1782561420.0
-    },
-    {
-        "title_fa": "حمله پهپادی ایران به بحرین در بحبوحه مذاکرات آمریکا برای توافق گسترده؛ آتش‌بس شکننده در معرض فروپاشی",
-        "title_en": "Iran Drone Attacks on Bahrain Raise Fears for Fragile Ceasefire",
-        "summary": [
-            "ایران در روز شنبه به بحرین حمله پهپادی انجام داد؛ هم‌زمان با این‌که آمریکا برای یک «توافق صلح گسترده‌تر» مذاکره می‌کرد و این حمله می‌تواند آتش‌بس اخیر را به خطر بیندازد.",
-            "این تشدید پس از حمله ایران به یک کشتی تجاری با پرچم سنگاپور در تنگه هرمز رخ داد و سپس آمریکا و ایران هر کدام دیگری را به نقض مفاد یادداشت آتش‌بس درگیر کردند؛ آمریکا در پاسخ، مراکز ذخیره موشک و پهپاد و رادارهای ساحلی ایران را هدف گرفت.",
-            "بحرین اعلام کرد حملات پهپادی ایران «آسیب جزئی» به چند ساختمان و زیرساخت وارد کرده و تلفات نداشته است، و وزارت خارجه بحرین آن را نقض آشکار حاکمیت و تهدید جدی برای هنجارهای بین‌المللی دانست؛ همچنین مشخص نیست تشدید نظامی دو طرف چه اثری بر مذاکرات در سوئیس خواهد گذاشت."
-        ],
-        "impact": "این چرخه حمله و پاسخ‌گویی، کانال مذاکرات در سوئیس را پرریسک می‌کند و احتمال لغزش آتش‌بس منطقه‌ای را بالا می‌برد.",
-        "tag": "آتش‌بس",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/",
-        "clean_url": "https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes",
-        "image": "http://www.bing.com/th?id=ONUT.ZfkuMTJcOn7MdOzbKKE0rA&pid=News",
-        "timestamp": 1782556440.0
     }
 ]
