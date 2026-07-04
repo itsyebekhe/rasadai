@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "مراسم تشییع رهبر جمهوری اسلامی؛ شعارهای «انتقام» علیه آمریکا و اسرائیل",
+        "title_en": "Iranian mourners vow revenge on US, Israel during funeral for supreme leader",
+        "summary": [
+            "طبق گزارش «National News Desk»، در مراسم تشییعِ رهبر عالی‌رتبه، جمعی از عزاداران به‌صورت علنی وعده انتقام علیه آمریکا و اسرائیل دادند.",
+            "این روایت نشان می‌دهد پیام‌محوری ضدآمریکایی و ضداسرائیلی در سطح خیابان و مراسم رسمی همچنان ابزار بسیج سیاسی است، بدون ارائه جزئیات درباره اقدام یا برنامه عملی مشخص.",
+            "شدت و جهت‌دهی این شعارها می‌تواند در کوتاه‌مدت به افزایش احتمال تنش‌های نیابتی/پروکسی یا واکنش‌های متقابل منجر شود، اما در متن حاضر هیچ شواهدی از اقدام نظامی فوری ارائه نشده است."
+        ],
+        "impact": "این‌گونه وعده‌های انتقام در مراسم رسمی بیشتر کارکرد تحریک و آماده‌سازی افکار عمومی دارد و ریسک تشدید تنش در چارچوب درگیری‌های غیرمستقیم را بالا می‌برد، بدون اینکه سندی از مقابله مستقیم در گزارش وجود داشته باشد.",
+        "tag": "تشدیدتنش",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "National News Desk",
+        "url": "https://mynews4.com/news/nation-world/iranian-mourners-vow-revenge-on-us-israel-during-funeral-for-supreme-leader-ayatollah-ali-khamenei-united-states-war-conflict-strait-of-hormuz-gas-gasoline-oil-fuel-nuclear-weapon-president-donald-trump",
+        "clean_url": "https://mynews4.com/news/nation-world/iranian-mourners-vow-revenge-on-us-israel-during-funeral-for-supreme-leader-ayatollah-ali-khamenei-united-states-war-conflict-strait-of-hormuz-gas-gasoline-oil-fuel-nuclear-weapon-president-donald-trump",
+        "image": null,
+        "timestamp": 1783183490.0
+    },
+    {
         "title_fa": "واشنگتن پست: بقای رژیم و «سخت‌گیری بیشتر» به‌عنوان تحول راهبردی",
         "title_en": "Iran’s regime survived the war and is now savvier, ruthless and more hard-line",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes",
         "image": "http://www.bing.com/th?id=ONUT.ZfkuMTJcOn7MdOzbKKE0rA&pid=News",
         "timestamp": 1782556440.0
-    },
-    {
-        "title_fa": "ابهام در زبان توافق امریکا-ایران درباره گذر کشتی‌ها از تنگه هرمز دوباره مانع‌تراشی می‌کند",
-        "title_en": "Vague Language of U.S.-Iran Deal Comes Back to Haunt Peace Efforts",
-        "summary": [
-            "توافق مورد اشاره، از ایران خواسته بود برای عبور کشتی‌ها از تنگه هرمز «تدابیری» اتخاذ کند؛ اما متن مبهم است و تعریف عملی این «تدابیر» روشن نشده.",
-            "ایران این عبارت را به‌گونه‌ای تفسیر کرده که می‌تواند مسیرهای عبور کشتی‌ها را تعیین کند؛ همین برداشت، اختلاف تفسیری را به یک گره در مذاکرات صلح تبدیل کرده است.",
-            "بازگشت این ابهام نشان می‌دهد حتی بدون گزارش اقدام عملی جدید، اختلاف زبانی می‌تواند برنامه‌های کاهش تنش را کند یا متوقف کند."
-        ],
-        "impact": "ابهام حقوقی در سطح توافق، اختیار عملی ایران بر انتخاب مسیرها در تفسیرش را به نقطه اصطکاک دائمی با تلاش‌های صلح تبدیل می‌کند.",
-        "tag": "تنگه_هرمز",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
-        "clean_url": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
-        "image": "http://www.bing.com/th?id=ONUT.CmUabcRyh-O_0V8yghbahA&pid=News",
-        "timestamp": 1782554820.0
     }
 ]
