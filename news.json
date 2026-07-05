@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "میلیون‌ها در نمازت‌های تشییع رهبر جمهوری اسلامی برای علی خامنه‌ای و خانواده حضور یافتند",
+        "title_en": "Millions attend funeral prayers for Iran’s Khamenei and family",
+        "summary": [
+            "بر اساس گزارش الجزیره، میلیون‌ها نفر در مراسم نماز تشییع برای علی خامنه‌ای و اعضای خانواده او حاضر شدند.",
+            "این رویداد به‌عنوان یک رخداد توده‌ای با پوشش گسترده رسانه‌ای توصیف شده و نشان‌دهنده ظرفیت بسیج عمومی و کنترل روایت رسمی در فضای سیاسی است.",
+            "در متن ارائه‌شده هیچ جزئیات قابل راستی‌آزمایی درباره زمان‌بندی دقیق، میزان سازمان‌دهی، یا پیامدهای امنیتی و سیاسی بلافاصله بعد از مراسم ذکر نشده است."
+        ],
+        "impact": "این تجمع میلیونی عمدتاً ابزار نمایش انسجام و بسیج سیاسی برای بقای مشروعیت درون‌ساختار قدرت است، اما متن، داده‌ای برای سنجش اثر مستقیم بر اقتصاد یا سیاست خارجی ارائه نمی‌کند.",
+        "tag": "داخلی",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-xl/asia/pakistan/khameneis-sons-attend-funeral-as-successor-remains-out-of-public-viewpublished-on-july-5-2026-627-pm/ar-AA27fZOd",
+        "clean_url": "https://www.msn.com/en-xl/asia/pakistan/khameneis-sons-attend-funeral-as-successor-remains-out-of-public-viewpublished-on-july-5-2026-627-pm/ar-AA27fZOd",
+        "image": null,
+        "timestamp": 1783259516.0
+    },
+    {
+        "title_fa": "اتهام جاسوسی علیه یک دانشجوی آمریکایی در یشیوای میر به نفع ایران",
+        "title_en": "US national studying at Jerusalem’s Mir yeshiva charged with spying for Iran",
+        "summary": [
+            "بر اساس گزارش، یک فرد با تابعیت آمریکا که در یشیوای میر در اورشلیم تحصیل می‌کند به اتهام جاسوسی برای ایران تحت پیگرد قرار گرفته است.",
+            "این پرونده از منظر فشار خارجی، نشانه دیگری از حساسیت امنیتی آمریکا و اسرائیل نسبت به نفوذ اطلاعاتی ایران در محیط‌های آموزشی/مذهبی است و می‌تواند به تشدید کنترل‌ها و محدودیت‌های رفت‌وآمد منجر شود.",
+            "این رویداد به‌طور مستقیم بحران اقتصادی یا اعتراض داخلی را پوشش نمی‌دهد، اما نشان‌دهنده الگوی عملیات نفوذی است که در صورت تداوم، هزینه‌های سیاسی و امنیتی برای رژیم ایران و حامیان شبکه‌هایش بالا می‌برد."
+        ],
+        "impact": "این اتهام می‌تواند سطح مقابله امنیتی و ریسک عملیات نفوذی ایران را در حوزه‌های حساس افزایش دهد و به طور غیرمستقیم توان رژیم در پنهان‌کاری اطلاعاتی را محدود کند.",
+        "tag": "جاسوسی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/world/us-national-studying-at-jerusalem-s-mir-yeshiva-charged-with-spying-for-iran/ar-AA279BUa",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-national-studying-at-jerusalem-s-mir-yeshiva-charged-with-spying-for-iran/ar-AA279BUa",
+        "image": null,
+        "timestamp": 1783256892.0
+    },
+    {
         "title_fa": "ایران برای ازسرگیری صادرات نفت به ژاپن بعد از سال‌ها تحریم اقدام می‌کند",
         "title_en": "Iran Moves to Resume Oil Exports to Japan After Years of Sanctions",
         "summary": [
@@ -34,6 +70,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNNm5XMy1hZXZXRERjQXBLbGJRRGhkSkQtVUZFb2VWXzFCWmtCT2Ixa05QRldaV3hJc18yZndkdURPQnRibmxGNUR1VW1CVFN3MzVNejZ2My02YkRKeHNFM2JOSWczcTBvdnBiUlhhY3NtRWo4YVpTNA",
         "image": null,
         "timestamp": 1783250880.0
+    },
+    {
+        "title_fa": "ادامه رشد قیمت نفت به‌دلیل نگرانی از احتمال درگیری آمریکا و ایران",
+        "title_en": "Oil Prices Extend Gains on Concern Over Potential US-Iran Conflict",
+        "summary": [
+            "طبق گزارش EnergyNow.com، قیمت نفت پس از رشد قبلی نیز به افزایش ادامه داده است، محرک اصلی همین نگرانی بازار از احتمال درگیری میان آمریکا و ایران است.",
+            "این گزارش نشان می‌دهد که ریسک ژئوپلیتیک، مستقل از داده‌های بنیادی تولید یا تقاضا، به‌عنوان عامل تعیین‌کننده کوتاه‌مدت در قیمت نفت عمل می‌کند.",
+            "محدوده خبر در حد «نگرانی بازار» باقی می‌ماند و هیچ جزئیات قابل‌اتکا درباره عملیات، تصمیم رسمی یا اقدامات مشخص ارائه نمی‌کند."
+        ],
+        "impact": "افزایش قیمت نفت به‌واسطه ریسک درگیری، می‌تواند هزینه‌های اقتصادی و فشار روانی بر تصمیم‌گیری‌های اقتصادی را تشدید کند، اما متن خبر شواهد عملیاتی برای اثبات وقوع درگیری ارائه نمی‌دهد.",
+        "tag": "نفت",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "EnergyNow.com",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzBObHh2Z18wYkFCdldzRnJ1RzBJWHpRVmg4eUQyR25LckFMWjRjdE1RYUU0akdWemVnR1JjUE1ESC1VYmo0QUhFTmhvYTJPbVlieFMxSUowUzN6QVYtYXFET3NMNzRNa3h2NmRvMl9Ed0libEJJdlNWTVI0d3ZvQjdORnUtTFRwYUJFX0VnMEV4MjBzdlRqWlR6d1VLUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQzBObHh2Z18wYkFCdldzRnJ1RzBJWHpRVmg4eUQyR25LckFMWjRjdE1RYUU0akdWemVnR1JjUE1ESC1VYmo0QUhFTmhvYTJPbVlieFMxSUowUzN6QVYtYXFET3NMNzRNa3h2NmRvMl9Ed0libEJJdlNWTVI0d3ZvQjdORnUtTFRwYUJFX0VnMEV4MjBzdlRqWlR6d1VLUQ",
+        "image": null,
+        "timestamp": 1783248205.0
     },
     {
         "title_fa": "ایران اقدام حقوقی علیه اسرائیل و آمریکا را به‌دلیل کشته‌شدن [خامنئی] اعلام می‌کند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://seekingalpha.com/news/4607902-iran-claims-sole-authority-over-strait-of-hormuz-under-trump-peace-deal",
         "image": "http://www.bing.com/th?id=ONUT.D1h4m17nsy_psqNvKGDYyQ&pid=News",
         "timestamp": 1782641940.0
-    },
-    {
-        "title_fa": "ایران و آمریکا تشدید حملات و تهدید به مرحله بعد؛ توافق دو هفته‌ای زیر فشار متقابل",
-        "title_en": "Iran and US step up attacks and threaten to escalate",
-        "summary": [
-            "رویترز گزارش می‌دهد هر دو طرف، توافقی را که دو هفته پیش برای پایان درگیری چهارماهه امضا شده بود، «نقض‌شده» می‌دانند و همین اتهام متقابل، موتور اصلی تشدید فعلی است.",
-            "تهدید به افزایش سطح درگیری از سوی هر دو طرف مطرح شده، اما متن خبر صراحتی درباره مقیاس، نوع حمله یا اهداف مشخص ارائه نمی‌کند و بنابراین نمی‌توان فراتر از «بالا رفتن احتمال تشدید» نتیجه‌گیری کرد.",
-            "در غیاب جزئیات قابل‌اتکا از روند نقض، پیام سیاسی این رخداد روشن است: توافق به‌جای کاهش تنش، به ابزار اتهام‌زنی تبدیل شده و هر لحظه می‌تواند به شکست عملی کامل منجر شود."
-        ],
-        "impact": "اگر توافق ظرف کوتاه‌مدت بازتعریف نشود، احتمال تبدیل تهدیدها به حملات گسترده‌تر به‌طور جدی بالا می‌رود و ریسک بی‌ثباتی منطقه‌ای افزایش می‌یابد.",
-        "tag": "تشدید",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/world/asia-pacific/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-hormuz-escalating-2026-06-27/",
-        "clean_url": "https://www.reuters.com/world/asia-pacific/us-carries-out-fresh-strikes-against-iran-after-tanker-struck-hormuz-escalating-2026-06-27",
-        "image": null,
-        "timestamp": 1782639720.0
-    },
-    {
-        "title_fa": "سلسله‌ ادعاهای نقض درگیری میان آمریکا و ایران؛ تهدید فوری بر «توافق آتش‌بس»",
-        "title_en": "US-Iran Strikes Threaten Peace Deal: Full Timeline of Violation Claims",
-        "summary": [
-            "این گزارش نیوزویک بر «رقابت اتهام‌ها» میان آمریکا و ایران درباره نقض آتش‌بس تمرکز دارد و نشان می‌دهد هر موج ادعای تخلف، فاصله میان دو طرف را بیشتر می‌کند.",
-            "کلید بحران، همین «تناقض روایی» است: آمریکا و ایران درباره زمان، مکان و ماهیت حملات/اقدامات ادعایی روایت‌های متفاوت ارائه می‌دهند و همین اختلاف، اجرای آتش‌بس را بی‌اعتبار می‌کند.",
-            "نتیجه عملیِ این روند، نزدیک شدن آتش‌بس شکننده به نقطه فروپاشی است؛ چون طرفین به جای مکانیزم راستی‌آزمایی، عملاً با تهدید و ضربه متقابل وارد چرخه فشار می‌شوند."
-        ],
-        "impact": "افزایش درگیری لفظی و عملی در قالب «ادعاهای نقض» می‌تواند آتش‌بس را از حالت مدیریت‌شده خارج کرده و به تشدید مستقیم منجر شود.",
-        "tag": "تنش",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/us-iran-strikes-threaten-peace-deal-full-timeline-of-violation-claims-12132032",
-        "clean_url": "https://www.newsweek.com/us-iran-strikes-threaten-peace-deal-full-timeline-of-violation-claims-12132032",
-        "image": "http://www.bing.com/th?id=ONUT.VaIE62LBcf7LxUUYL5OYJQ&pid=News",
-        "timestamp": 1782639120.0
-    },
-    {
-        "title_fa": "اعلام ضربه متقابل؛ آمریکا و ایران هر دو از عملیات تلافی‌جویانه در خاک ایران، کویت و بحرین خبر دادند",
-        "title_en": "U.S. and Iran each announce retaliatory strikes in Iran, Kuwait and Bahrain",
-        "summary": [
-            "طبق گزارش NPR، آمریکا و ایران به‌طور جداگانه اعلام کرده‌اند که عملیات تلافی‌جویانه انجام داده‌اند و محدوده اقدام را «ایران، کویت و بحرین» ذکر کرده‌اند.",
-            "این هم‌زمانی در اعلام، نشان می‌دهد هر دو طرف در چارچوب بازدارندگی و جنگ روانی، تلاش دارند هزینه‌ اقدام قبلی را بالا ببرند؛ اما همین الگو ریسک چرخه تشدید را بالا می‌برد.",
-            "از آن‌جا که جزئیات دقیق درباره اهداف، میزان خسارت یا ماهیت نیروها/سامانه‌ها در متن منبع ارائه نشده، نمی‌توان درباره ابعاد واقعی یا موفقیت نظامی ادعایی کرد؛ با این حال، خودِ ورود هم‌زمان به چند حوزه جغرافیایی، خطر درگیری گسترده‌تر را افزایش می‌دهد."
-        ],
-        "impact": "تطبیق اعلام تلافی‌جویانه در سه نقطه هم‌زمان، احتمال ادامه و گسترش موج عملیات را بالا می‌برد و تهدید امنیت منطقه‌ای را تشدید می‌کند.",
-        "tag": "escalation",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
-        "clean_url": "https://www.npr.org/2026/06/27/nx-s1-5872954/us-strikes-iran",
-        "image": null,
-        "timestamp": 1782635894.0
     }
 ]
