@@ -1,5 +1,59 @@
 [
     {
+        "title_fa": "رصد قیمت نفت و قیمت گاز آمریکا در سایه درگیری ایران",
+        "title_en": "Tracking oil prices and US gas prices amid Iran conflict",
+        "summary": [
+            "این گزارش فقط بر «رصد» قیمت نفت و قیمت گاز آمریکا تمرکز دارد و خبر اقدام مشخصی از سوی دولت‌ها یا تحولات میدانی ارائه نمی‌کند.",
+            "چنین پایشی معمولاً نشان‌دهنده حساسیت بازار به ریسک ژئوپولیتیک مرتبط با ایران است، اما هیچ عدد، تصمیم سیاستی یا تأیید رویداد جدید در متن ذکر نشده است.",
+            "از آن‌جا که اطلاعات ارائه‌شده محدود است، نمی‌توان درباره فشار مستقیم تحریم‌ها، حمله به دارایی‌ها یا شدت بحران با استناد به همین منبع نتیجه‌گیری کرد."
+        ],
+        "impact": "در کوتاه‌مدت، این وضعیت بیشتر «اثر روانی و ریسک بازار» را برجسته می‌کند تا اینکه نشان‌دهنده تغییر راهبردی یا رخداد قطعی باشد.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.1,
+        "source": "KRDO",
+        "url": "https://www.msn.com/en-us/money/economy/tracking-oil-prices-and-us-gas-prices-amid-iran-conflict/ar-AA1XQ9Py",
+        "clean_url": "https://www.msn.com/en-us/money/economy/tracking-oil-prices-and-us-gas-prices-amid-iran-conflict/ar-AA1XQ9Py",
+        "image": null,
+        "timestamp": 1783296000.0
+    },
+    {
+        "title_fa": "انتظار برای تجمعات عظیم در مراسم تشییع رهبر ایران",
+        "title_en": "Massive crowds expected at Iran leader’s funeral procession",
+        "summary": [
+            "روزنامه «The New Arab» اعلام می‌کند که برای مراسم تشییع رهبر ایران، تجمعات بسیار گسترده‌ای در سطح شهرها انتظار می‌رود.",
+            "این پیامِ خبری به‌طور ضمنی نشان می‌دهد که دولت در تلاش است برای مدیریت افکار عمومی و نمایش قدرت اجتماعی، از مقیاس جمعیت در مراسم استفاده کند.",
+            "با توجه به نبود جزئیات درباره علت، میزان یا ترکیب جمعیت، فعلاً نمی‌توان شدت نارضایتی یا همبستگی عمومی را از این خبر به‌صورت دقیق سنجید، اما صرف «انبوهی جمعیت» خود یک شاخص حساس برای پایداری سیاسی است."
+        ],
+        "impact": "تجمعات گسترده در مراسم می‌تواند هم ابزار نمایش انسجام برای حکومت باشد و هم آزمون فشار خیابانی، اما ارزیابی اثر واقعی نیازمند جزئیات رسمی و میدانی است.",
+        "tag": "تجمع",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "The New Arab",
+        "url": "https://www.straitstimes.com/world/middle-east/huge-crowds-expected-at-iran-leader-ali-khameneis-funeral-procession",
+        "clean_url": "https://www.straitstimes.com/world/middle-east/huge-crowds-expected-at-iran-leader-ali-khameneis-funeral-procession",
+        "image": null,
+        "timestamp": 1783295923.0
+    },
+    {
+        "title_fa": "بازگشت بورس‌ها و افت جزئی رشد قیمت نفت پس از اعلام «مکث» از سوی ایران و اسرائیل",
+        "title_en": "Stocks bounce back, oil pares gains as Iran and Israel signal a pause By Reuters",
+        "summary": [
+            "طبق گزارش رویترز، بعد از نوسان اولیه، بازار سهام به مسیر صعودی برگشت و رشد قیمت نفت کاهش یافت؛ علت اصلی، پیام‌های مرتبط با «توقف/مکث» در تنش میان ایران و اسرائیل عنوان شده است.",
+            "این خبر نشان می‌دهد ریسک ژئوپلیتیک در کوتاه‌مدت وارد فاز کنترل‌شده‌تر شده و معامله‌گران از تشدید فوری به سمت سناریوی توقف موقت حرکت کرده‌اند.",
+            "با این حال، متن صرفاً به سیگنال «مکث» اشاره دارد و جزئیات عملی (مثل توقف رسمی عملیات یا توافق اجرایی) ارائه نمی‌کند، بنابراین اثر آن بیشتر کوتاه‌مدت و روانیِ بازار است."
+        ],
+        "impact": "سیگنال مکث، فشار ریسک فوری را کاهش داده و به برگشت بورس‌ها و تعدیل رشد نفت کمک کرده، اما چون اجرایی بودن آن روشن نیست، اثر پایدار قابل اتکا نیست.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 4,
+        "sentiment": 0.2,
+        "source": "Investing.com",
+        "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-07/",
+        "clean_url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-06-07",
+        "image": null,
+        "timestamp": 1783294512.0
+    },
+    {
         "title_fa": "رسانه سپاه: ایران برای «حفظ آرامش» باید بمب هسته‌ای توسعه دهد؛ در تضاد با وعده به ترامپ",
         "title_en": "Iran must develop nuclear bomb to protect ‘peace and calm,’ IRGC media says — despite pledge to Trump",
         "summary": [
@@ -70,6 +124,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQckh4cDR1QVpQLVlRZkZDeW95bFd6TGdyRElwTlBQcWxHWHVxaHBLR0QxYjRIY1RiZE5zSFV3X29tUkN1TC04XzBJajhjRF9jMkxKQi1hTFNteWtMWTQ3Vm8zZURYc3g2cFkzaWpIUWF4MTFEQTlRaVFQY21md0ZPM2ZGekNfUkxfcDY3aDVB",
         "image": null,
         "timestamp": 1783279920.0
+    },
+    {
+        "title_fa": "ایران: ادعای عدم حضور رهبر عالی برای مراسم پدر و تأکید بر حمایت از حزب‌الله (طبق توییت/پست‌های خبری تورنتو سان)",
+        "title_en": "IRAN LATEST: Supreme leader no-show for father's funeral as Iran vows support for Hezbollah",
+        "summary": [
+            "تورنتو سان گزارش داده که «رهبر عالی» در مراسم تشییع/مراسم پدر حاضر نشده و این موضوع به‌عنوان نشانه‌ای از بی‌اعتنایی یا بحران در روایت رسمی مطرح شده است.",
+            "همزمان گزارش دیگری منتشر شده که ایران «حمایت از حزب‌الله» را ادامه می‌دهد؛ اما جزئیات عملی (نوع کمک، زمان‌بندی یا میزان) در متن ارائه‌شده مشخص نیست.",
+            "بخش دیگری از متن منبع به الکساندر/آل فونزو دیویس و حواشی جام جهانی اشاره می‌کند که ربط مستقیمی به موضوع ایران ندارد و نشان‌دهنده آشفتگی/ترکیب محتوا در همان صفحه است."
+        ],
+        "impact": "این رویداد بیشتر در سطح روایت سیاسی و سیگنال‌گذاری پیش می‌رود و تا وقتی جزئیات حمایت و پیامدهای داخلی روشن نشود، اثر مستقیم قابل اندازه‌گیری بر امنیت یا اقتصاد از متن فعلی استخراج نمی‌شود.",
+        "tag": "سیگنال",
+        "urgency": 4,
+        "sentiment": -0.2,
+        "source": "Toronto Sun",
+        "url": "https://torontosun.com/news/world/supreme-leader-no-show-fathers-funeral",
+        "clean_url": "https://torontosun.com/news/world/supreme-leader-no-show-fathers-funeral",
+        "image": "http://www.bing.com/th?id=ONUT.DS1Id88BZPu4CR1qzsK9Jg&pid=News",
+        "timestamp": 1783275120.0
     },
     {
         "title_fa": "دولت اسرائیل اعلام کرد اجرای حکم دادگاه عالی درباره رگولاتور رسانه را به چالش می‌کشد",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUjMzVkxxSXh2OVNqNEhNQ0V3Njh5cGdkYnE4VUdwaE5xRU1hRzdvXzRmQXpNQ1NmdE9BbDAwXzBWa05KbnlDU2xLRVRiY2NpdWN1T1RFSk16cHBjSlR6Q3lER1FNblpLd1ZJRlU1QmdTejNpTU12NGxYenRWRlB3aVREX21RRVdwaXkxdVBvM2doTEdZdXpJRE9kZVNMS01WZ2xfU2U1cVk",
         "image": null,
         "timestamp": 1782693300.0
-    },
-    {
-        "title_fa": "توافق آمریکا و ایران برای «کنار گذاشتن موقت تنش» و ازسرگیری مذاکرات صلح",
-        "title_en": "US, Iran agree to ‘stand down for now,’ resume peace talks: Official",
-        "summary": [
-            "طبق گزارش The Hill، یک مقام اعلام کرده آمریکا و ایران برای «فعلاً کنار گذاشتن» تنش‌ها توافق کرده‌اند و قرار است مذاکرات صلح از سر گرفته شود.",
-            "این اقدام بیش از آنکه تغییر بنیادین در توازن قدرت ایجاد کند، یک مکانیسم مدیریت بحران است تا از تشدید در کوتاه‌مدت جلوگیری شود.",
-            "در سطح راهبردی، چنین وقفه‌ای معمولاً معنادار است چون نشان می‌دهد هر دو طرف در مقطع کنونی نیاز به کاهش ریسک و باز نگه‌داشتن کانال مذاکره دارند."
-        ],
-        "impact": "اثر فوری این توافق، کاهش احتمال درگیری کوتاه‌مدت و ایجاد فرصت برای چانه‌زنی مجدد است، نه حل ساختاری اختلافات.",
-        "tag": "مذاکره",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MYjNlbGFtNlBIaDhFM2RNWDNody1zV19JSHBveTE2YklHX1R2M3pucWh1OE5xTU13eU5xY294ZXhWZGZUSnhkb01zT0plMDVjbzdqRjNfejV0TEt5VUVkRHZJNnhqVl9xZGk3U1llUFBwbUFKT1Nn0gF8QVVfeXFMTlhQbFRVRUNlWDJjYUd0UWloVExQeG95d2gwRmNXVzRRNllBSjdXWExQT3NNeHh5UkZlQ0otZTV2ZEhlZFRmanoyZVRxUmI4NnZuc0ZncEE2X2w2bUhJR1Y0UUdIRjFzX2hoRlRYV3Q4NXBOdnZHMVBEZ1Bmcg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1MYjNlbGFtNlBIaDhFM2RNWDNody1zV19JSHBveTE2YklHX1R2M3pucWh1OE5xTU13eU5xY294ZXhWZGZUSnhkb01zT0plMDVjbzdqRjNfejV0TEt5VUVkRHZJNnhqVl9xZGk3U1llUFBwbUFKT1Nn0gF8QVVfeXFMTlhQbFRVRUNlWDJjYUd0UWloVExQeG95d2gwRmNXVzRRNllBSjdXWExQT3NNeHh5UkZlQ0otZTV2ZEhlZFRmanoyZVRxUmI4NnZuc0ZncEE2X2w2bUhJR1Y0UUdIRjFzX2hoRlRYV3Q4NXBOdnZHMVBEZ1Bmcg",
-        "image": null,
-        "timestamp": 1782691860.0
-    },
-    {
-        "title_fa": "توافق آمریکا و ایران برای توقف درگیری بر سر تنگه هرمز",
-        "title_en": "U.S. and Iran Agree to Stop Fight Over the Strait of Hormuz",
-        "summary": [
-            "بر اساس گزارش WSJ، آمریکا و ایران به توافقی رسیدند که دامنه تنش بر سر تنگه هرمز را متوقف می‌کند؛ یعنی فعلاً خطر تشدید فوری در یکی از گلوگاه‌های حیاتی تجارت دریایی کاهش می‌یابد.",
-            "این توافق بیشتر یک مدیریت بحران است تا حل ریشه‌ای منازعه؛ بنابراین هرگونه برگشت به درگیری می‌تواند با توجه به منافع متعارض دو طرف سریع رخ دهد، مخصوصاً در فضای رقابت منطقه‌ای.",
-            "از منظر عملیاتی، توقف «مبارزه» به معنی افت ریسک روی ناوبری و بیمه و هزینه‌های حمل‌ونقل در مسیرهای مرتبط است، اما داده‌های اقتصادی داخل ایران/رژیم از متن گزارش برای نتیجه‌گیری قطعی درباره بهبود پایداری اقتصاد ارائه نمی‌شود."
-        ],
-        "impact": "کاهش تنش فوری در هرمز احتمال شوک‌های زنجیره‌ای به تجارت و هزینه‌های دریایی را پایین می‌آورد، اما ماهیت کوتاه‌مدت توافق می‌تواند زمینه نوسان دوباره تنش را باقی بگذارد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.2,
-        "source": "WSJ",
-        "url": "https://www.msn.com/en-us/news/other/us-and-iran-agree-to-stop-fight-over-the-strait-of-hormuz/ar-AA26KgzN",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-and-iran-agree-to-stop-fight-over-the-strait-of-hormuz/ar-AA26KgzN",
-        "image": null,
-        "timestamp": 1782690000.0
-    },
-    {
-        "title_fa": "هشدار تهران به کشتی‌ها برای عبور از «مسیر انتخابی» در تنگه هرمز",
-        "title_en": "Iran warns ships not to bypass its chosen Hormuz route",
-        "summary": [
-            "تهران به کشتی‌ها هشدار داده از مسیری که «مسیر انتخابی» آن خوانده می‌شود در تنگه هرمز عبور نکنند؛ این اقدام مستقیم با افزایش ریسک اختلال در کشتیرانی و بیمِ تشدید تنش دریایی گره خورده است.",
-            "این پیام در عمل یک اهرم فشار دریایی است: به جای کاهش تنش، استانداردهای عبور و مرور را به نفع خواسته‌های خود بازتعریف می‌کند و هزینه‌های عملیاتی برای شرکت‌های کشتیرانی و بیمه را بالا می‌برد.",
-            "با توجه به اینکه این خبر به‌طور مشخص بر تهدید/هشدار عملیاتی در یک مسیر حیاتی تمرکز دارد، احتمال واکنش متقابل و شکل‌گیری «مسیرهای امن جایگزین» یا تشدید نظارت و احتیاط در منطقه افزایش می‌یابد."
-        ],
-        "impact": "این هشدار می‌تواند هزینه و ریسک عبور از هرمز را افزایش دهد و زمینه تنش دریایی را بدون حل اختلافات آماده‌تر کند.",
-        "tag": "هرمز",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "South China Morning Post",
-        "url": "https://www.msn.com/en-us/news/world/fears-in-strait-of-hormuz-as-tanker-struck-after-iran-warned-ships-to-turn-back/ar-AA26xfTJ",
-        "clean_url": "https://www.msn.com/en-us/news/world/fears-in-strait-of-hormuz-as-tanker-struck-after-iran-warned-ships-to-turn-back/ar-AA26xfTJ",
-        "image": null,
-        "timestamp": 1782685628.0
-    },
-    {
-        "title_fa": "آمریکا و ایران برای توقف حملات و نشست فوری توافق کردند",
-        "title_en": "U.S. and Iran agree to halt strikes and meet this week, U.S. official says",
-        "summary": [
-            "طبق گزارش Axios، یک مقام آمریکایی اعلام کرده است که آمریکا و ایران بر سر توقف حملات توافق کرده‌اند و نشست این دو طرف این هفته برگزار می‌شود.",
-            "این توافق از منظر فشار خارجی، یک مکانیسم کاهش ریسک موقت است که می‌تواند شدت درگیری‌های منطقه‌ای را کم کند؛ اما به معنای رفع بحران ساختاری نیست و بیشتر جنبه مدیریت بحران دارد.",
-            "از آنجا که جزئیات درباره زمان، دامنه توقف حملات و سازوکار راستی‌آزمایی ارائه نشده، اثر آن بر ثبات داخلی رژیم و فشار اقتصادیِ ناشی از بن‌بست‌ها قطعی نیست و می‌تواند به سکون کوتاه‌مدت ختم شود."
-        ],
-        "impact": "توقف موقت حملات و برنامه نشست این هفته، ریسک تشدید را کاهش می‌دهد اما بدون جزئیات اجرایی، احتمال برگشت تنش و ادامه فشارهای بیرونی باقی است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Axios",
-        "url": "https://www.msn.com/en-us/news/world/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says/ar-AA26KBMF",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-and-iran-agree-to-halt-strikes-and-meet-this-week-us-official-says/ar-AA26KBMF",
-        "image": null,
-        "timestamp": 1782678144.0
     }
 ]
