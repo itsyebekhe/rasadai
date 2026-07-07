@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "بازگشت کار از خانه در دهلی؛ عقب‌نشینی دولت دهلی با فروکش‌کردن تنش‌های غرب آسیا",
+        "title_en": "Delhi govt rolls back work-from-home for its employees as West Asia conflict eases",
+        "summary": [
+            "دولت دهلی اعلام کرده برنامه دورکاری کارکنان خود را پس از کاهش تنش در غرب آسیا متوقف می‌کند و کار حضوری را از سر می‌گیرد.",
+            "این تصمیم بیشتر یک تطبیق مدیریتی با وضعیت بیرونی است تا یک تغییر داخلی در سیاست‌های اقتصادی یا امنیتی؛ نشانه‌ای از فروکش‌کردن اثرات احتمالی تنش منطقه بر فعالیت‌های اداری است.",
+            "در متن ارائه‌شده، هیچ داده‌ای درباره بحران داخلی، اعتراضات، یا پیامدهای اقتصادی در دهلی ذکر نشده و بنابراین نمی‌توان از آن تحلیل فشار نهادی یا ناپایداری حکمرانی استخراج کرد."
+        ],
+        "impact": "بازگشت به کار حضوری احتمالاً اثرات عملی کوتاه‌مدت کاهش تنش منطقه را بر عملیات اداری نشان می‌دهد، بدون اینکه نشانه‌ای مستقیم از فشار ساختاری یا بحران داخلی ارائه کند.",
+        "tag": "دیپلماسی",
+        "urgency": 2,
+        "sentiment": 0.2,
+        "source": "MSN",
+        "url": "https://www.msn.com/en-in/money/topstories/delhi-govt-rolls-back-work-from-home-for-its-employees-as-west-asia-conflict-eases/ar-AA27b6BI",
+        "clean_url": "https://www.msn.com/en-in/money/topstories/delhi-govt-rolls-back-work-from-home-for-its-employees-as-west-asia-conflict-eases/ar-AA27b6BI",
+        "image": null,
+        "timestamp": 1783399650.0
+    },
+    {
         "title_fa": "ایران حملات دوباره به کشتی‌های تجاری در تنگه هرمز را از سر گرفت",
         "title_en": "Iran resumes attacks on commercial ships in Strait of Hormuz: Report",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.al-monitor.com/originals/2026/06/3-irgc-members-killed-twin-attacks-iran-intensifies-kurdish-crackdown",
         "image": "http://www.bing.com/th?id=ONUT.C06NB8GbgkmD9O5GH60B3w&pid=News",
         "timestamp": 1782807540.0
-    },
-    {
-        "title_fa": "آماده‌سازی نشست‌های آمریکا و ایران در قطر پس از تشدید حملات",
-        "title_en": "Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar",
-        "summary": [
-            "بر اساس گزارش نیویورک‌تایمز، تیم‌های آمریکایی و ایرانی برای دیدار در قطر—به‌عنوان میانجی منطقه‌ای—در حال حضور هستند، اما این حرکت بلافاصله پس از «دور جدیدی از حملات» انجام می‌شود؛ یعنی مسیر دیپلماسی با تهدیدات امنیتی هم‌زمان پیش می‌رود.",
-            "خبر تأکید می‌کند که همین حملات جدید، روند دستیابی به «توافق صلح پایدار» را به خطر انداخته‌اند؛ بنابراین نشست‌ها بیشتر واکنش به فشارهای میدانی و مدیریت ریسک تشدید هستند تا ضمانت واقعی برای یک توافق بلندمدت.",
-            "نشانه کلیدی این است که دستگاه سیاست خارجی ایران و آمریکا در یک چرخه تعامل قرار گرفته‌اند: هر بار که حملات اوج می‌گیرد، کانال میانجی‌گری قطر فعال می‌شود تا از شکست کامل مذاکرات جلوگیری شود."
-        ],
-        "impact": "این وضعیت احتمالاً موقتاً تنش را کنترل می‌کند، اما تا زمانی که «حملات جدید» ادامه داشته باشد، مبنای توافق پایدار شکننده می‌ماند.",
-        "tag": "قطر",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-        "clean_url": "https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz",
-        "image": null,
-        "timestamp": 1782805260.0
     }
 ]
