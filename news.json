@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ایران پس از موج حملات جدید آمریکا، اهدافی را در بحرین و کویت هدف گرفت",
+        "title_en": "Iran targets sites in Bahrain, Kuwait after wave of new US strikes",
+        "summary": [
+            "بر اساس گزارش USA Today، ایران در واکنش به موج تازه حملات آمریکا، به سراغ هدف‌گیری در بحرین و کویت رفته است؛ یعنی تهران تهدید را از مرزهای خود فراتر برده و ریسک برخورد مستقیم منطقه‌ای را بالا برده است.",
+            "از منظر فشار خارجی، این چرخه حمله-پاسخ می‌تواند تمرکز آمریکا و شرکای منطقه‌ای را تشدید کند: تشدید هزینه‌های امنیتی برای کشورهای هدف و افزایش احتمال اقدام‌های محدودکننده اقتصادی/دیپلماتیک علیه ایران (در سطح ساختاری، نه صرفاً تاکتیکی).",
+            "برای داخل رژیم، چنین الگوی اقدام می‌تواند به دو نتیجه هم‌زمان بینجامد: نمایش توان واکنش‌ سریع و کاهش کنترل‌پذیری بحران؛ اما در عمل معمولاً بار مالی و اختلال امنیتی را بیشتر می‌کند و نارضایتی اجتماعی را با توجه به فشارهای اقتصادی موجود تشدید می‌سازد (بدون ادعا درباره اعداد، چون در متن فقط اصل هدف‌گیری آمده است)."
+        ],
+        "impact": "هدف‌گیری در بحرین و کویت پس از حملات آمریکا، چرخه تنش را از سطح حملات محدود به سطح ناپایداری منطقه‌ای نزدیک‌تر می‌کند و احتمال تشدید متقابل را بالا می‌برد.",
+        "tag": "regional-escalation",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "USA Today",
+        "url": "https://www.msn.com/en-us/news/world/us-launches-strikes-on-iran-claims-ceasefire-violation/ar-AA27qRem",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-launches-strikes-on-iran-claims-ceasefire-violation/ar-AA27qRem",
+        "image": null,
+        "timestamp": 1783490100.0
+    },
+    {
         "title_fa": "آغاز حملات آمریکا به جنوب ایران و تهدید پاسخ «خردکننده» تهران",
         "title_en": "US launches strikes on southern Iran, Tehran vows ‘crushing response’",
         "summary": [
@@ -34,6 +52,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONlRxOVFtRHI1U3pmLWdYVHJoR2lMS2xZbFlFMzVjdzZUMXMwdl8ycXhGaTNsSEphNUxjbnZTWS0wNHN5ZjJfMEU0dmZrdEZvYU9TY1NPN0hBeTNWQ2h6Q3BaX18xd1ZRSDR0Q3hXS1NNWkdQc3RwZnYwb1h5bjdiVDBCWVpZSS1peU9zNk9jUnNnVFZNei10Z2hpTEJJb1BDSzNNcTg4S2xtbWNK",
         "image": null,
         "timestamp": 1783473420.0
+    },
+    {
+        "title_fa": "ایران پس از موج حملات آمریکا، به اهداف نظامی در بحرین و کویت حمله کرد",
+        "title_en": "Iran targets sites in Bahrain, Kuwait after wave of US strikes",
+        "summary": [
+            "سپاه پاسداران اعلام کرد که روز چهارشنبه «سایت‌های نظامی» آمریکا در بحرین و کویت را هدف قرار داده است؛ اقدام تلافی‌جویانه در پی موج جدید حملات نظامی آمریکا به ایران مطرح شده است.",
+            "مبنای روایت در خبر، زنجیره اقدام-پاسخ است: آمریکا «موج حملات» را آغاز کرده و تهران با هدف قراردادن نقاط مرتبط با نیروهای آمریکایی در دو کشور حاشیه خلیج فارس واکنش داده است.",
+            "در این گزارش، جزئیات فنی از نوع عملیات، میزان خسارت یا تلفات ارائه نشده و تمرکز صرفاً روی ادعاهای رسمی طرف‌های درگیر و محل‌های هدف (بحرین و کویت) است."
+        ],
+        "impact": "این تبادل اتهامی-عملی بین تهران و واشنگتن، ریسک درگیری مستقیم و گسترش دامنه حملات به محیط امنیتی خلیج فارس را بالا می‌برد.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/ar-AA27s06G",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-targets-sites-in-bahrain-kuwait-after-wave-of-us-strikes/ar-AA27s06G",
+        "image": "http://www.bing.com/th?id=ONUT.ZxdnPWVbvnOjDv2yHe4ayw&pid=News",
+        "timestamp": 1783465544.0
     },
     {
         "title_fa": "حمله آمریکا به ایران و بازگرداندن تحریم‌ها پس از حملات به نفتکش‌ها",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTEhaYWZzck5GRnJXQS1SRkY1RkNRNTA1M09acklqTHdyMWw0OXdtMnFaV1gwYTZYM1RWcDVKOF93al82LUdab29EQVBVeUFVNTVhZk9qdUhXMkE5S3djckE0QjQwOUVhQmRlX0p5dURzQW5XQV9TcHE5VWFYNXJIR3lSTmpNZjB0Q2JocjIxSllWNWxfYURmckRURTRXMkpqcXlkZ0pTbUM",
         "image": null,
         "timestamp": 1782891647.0
-    },
-    {
-        "title_fa": "حساسیت و پیچیدگی «تنگه هرمز» هم‌زمان با شکنندگی آتش‌بس؛ بحث بازگشت دسترسی کشتی‌ها و آزادسازی دارایی‌های مسدود در قطر",
-        "title_en": "Iran calls Strait of Hormuz situation \"sensitive and complex\" amid shaky ceasefire",
-        "summary": [
-            "وزارت خارجه ایران اعلام کرد مذاکره‌کننده‌هایش برای دیدار با مقام‌های آمریکایی در قطر روز سه‌شنبه حضور نخواهند داشت؛ هم‌زمان، تبادل حملات دو طرف در پایان هفته، آتش‌بس شکننده را دوباره زیر سؤال برده است.",
-            "یک مقام ایرانی «حساس و پیچیده» بودن وضعیت تنگه هرمز را در پی توافق فرانسه و عمان برای همکاری با شرکای بین‌المللی در زمینه مین‌زدایی این آبراه حیاتی برجسته کرد؛ نشانه‌ای از اینکه نگرانی عملیاتی و ریسک کشتیرانی هنوز بالاست.",
-            "هم‌زمان، رئیس‌جمهور ایران گفت ایران قرار است ۶ میلیارد دلار از دارایی‌های منجمدش که در قطر نگهداری می‌شود دریافت کند؛ آزادسازی این پول یکی از شروط مندرج در چارچوب تفاهم‌نامه آمریکا-ایران است، اما تحلیلگران می‌گویند بعید است تنگه هرمز به «وضعیت قبل از جنگ» بازگردد و اهرم‌سازی جغرافیا ادامه پیدا کند."
-        ],
-        "impact": "این ترکیبِ تداوم ابهام در آتش‌بس، ریسک مین‌زدایی و اختلاف بر سر دسترسی آزاد کشتی‌ها، همراه با مشروط‌بودن جریان مالی به توافقات، اهرم‌های فشار را برای هر دو طرف حفظ می‌کند و مانع آرام‌سازی پایدار کشتیرانی می‌شود.",
-        "tag": "هقتصادی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/no-date-set-u-iran-114629717.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/no-date-set-u-iran-114629717.html",
-        "image": "http://www.bing.com/th?id=ONUT.gwOuwqb-M_BH6FcavUKMZQ&pid=News",
-        "timestamp": 1782889680.0
-    },
-    {
-        "title_fa": "آمریکا به اسرائیل تاخت: تضعیف مذاکرات با ایران؛ اما اختلاف کم‌اهمیت تلقی می‌شود",
-        "title_en": "US Slams Israel for Undermining Peace Negotiations with Iran – but Rift is Dismissed as a Passing Show",
-        "summary": [
-            "طبق گزارش Global Issues.org، آمریکا اسرائیل را به تضعیف مذاکرات صلح با ایران متهم کرده است، اما در همان حال این «شکاف» به‌عنوان یک اختلاف گذرا و نمایشی ارزیابی می‌شود.",
-            "این روایت نشان می‌دهد که حتی درون جبهه غربی هم بر سر مسیر مذاکره با ایران اختلاف‌نظر وجود دارد، ولی احتمالاً مدیریت سیاسی اختلاف طوری انجام می‌شود که به انسجام بیرونی لطمه نزند.",
-            "چون متن منبع به جزئیات اجرایی (مثل تحریم‌های جدید، اقدامات مشخص یا ضربه عملی به ظرفیت‌های رژیم) اشاره ندارد، نتیجه‌گیری از آن باید محدود به سطح پیام‌رسانی و فشار سیاسی باقی بماند."
-        ],
-        "impact": "اثر مستقیم این رویداد بیشتر در حوزه پیام سیاسی و مدیریت روایت مذاکرات است تا نشانه‌ای قطعی از تغییر عمیق در ابزارهای فشار علیه رژیم.",
-        "tag": "مذاکرات",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Global Issues.org",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IelVvTWdxUDVreElqOWJkX3hSTWlnakE0SkVOWXI1ZDNiQXp2ZC1ZMUxPcFhWNEJiYm14N1lKNHNzSm1WZjdjV1dRQWt3NG1aNXdTQ3V2SEk2WTdCX0tj0gFkQVVfeXFMTmN0Q25hc05tZ2g5U1RSYXRkdDdQZGxMVVBMSFQ5VVExZURpTmlTZnlkMjVnTzRHWTdQWWpuMXhRTl9oTnBVaHRKWVpWTWFEamR1ZHZsS1VYUTZrN1ZzU1lfb0JLYg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1IelVvTWdxUDVreElqOWJkX3hSTWlnakE0SkVOWXI1ZDNiQXp2ZC1ZMUxPcFhWNEJiYm14N1lKNHNzSm1WZjdjV1dRQWt3NG1aNXdTQ3V2SEk2WTdCX0tj0gFkQVVfeXFMTmN0Q25hc05tZ2g5U1RSYXRkdDdQZGxMVVBMSFQ5VVExZURpTmlTZnlkMjVnTzRHWTdQWWpuMXhRTl9oTnBVaHRKWVpWTWFEamR1ZHZsS1VYUTZrN1ZzU1lfb0JLYg",
-        "image": null,
-        "timestamp": 1782887116.0
     }
 ]
