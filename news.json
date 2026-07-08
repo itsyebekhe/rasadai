@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "حمله آمریکا به ایران و بازگرداندن تحریم‌ها پس از حملات به نفتکش‌ها",
+        "title_en": "U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks",
+        "summary": [
+            "طبق گزارش نیویورک‌تایمز، آمریکا پس از حملات به نفتکش‌ها، به مواضع ایران حمله کرده و هم‌زمان تحریم‌ها را دوباره اعمال/بازگردانده است.",
+            "این اقدام فشار خارجی را به‌صورت ساختاری تشدید می‌کند: محدودیت‌های جدید می‌تواند ظرفیت فروش و نقل‌وانتقال انرژی، دسترسی به پول و فناوری و درآمدهای ارزی رژیم را هدف بگیرد و شکاف‌های مالی داخلی را عمیق‌تر کند.",
+            "هم‌زمان، تهدید عملیاتی مستقیم و افزایش ریسک امنیتی در مسیرهای دریایی، هزینه‌های تجارت و بیمه را بالا می‌برد و در نتیجه فشار اقتصادی—که معمولاً به نارضایتی عمومی و فرسایش توان حکمرانی می‌انجامد—را تشدید می‌کند."
+        ],
+        "impact": "بازگشت تحریم‌ها همراه با حمله نظامی یعنی محدودیت‌های اقتصادی رژیم به‌سرعت سخت‌تر می‌شود و هزینه مدیریت بحران برای دستگاه قدرت بالا می‌رود.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
+        "clean_url": "https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html",
+        "image": null,
+        "timestamp": 1783465324.0
+    },
+    {
         "title_fa": "آغاز حملات تازه آمریکا علیه ایران به عنوان پاسخ به حملات علیه کشتی‌های تجاری",
         "title_en": "U.S. launches new attacks on Iran in retaliation for attacks on commercial ships, U.S. military says",
         "summary": [
@@ -52,6 +70,24 @@
         "clean_url": "https://www.yahoo.com/news/world/articles/us-iran-launch-fresh-attacks-045609740.html",
         "image": null,
         "timestamp": 1783459937.0
+    },
+    {
+        "title_fa": "اعزام مجدد حملات «قدرتمند» آمریکا علیه ایران پس از حملات به کشتی‌ها در تنگه هرمز (CENTCOM)",
+        "title_en": "U.S. resumes 'powerful strikes' on Iran after Hormuz Strait ship attacks, CENTCOM says",
+        "summary": [
+            "CENTCOM اعلام کرده آمریکا پس از حملات به کشتی‌ها در تنگه هرمز، «حملات قدرتمند» علیه ایران را از سر گرفته است؛ یعنی اقدام نظامی مستقیم وارد فاز تشدید شده است.",
+            "این نوع ضربات می‌تواند ساختار ریسک را برای اقتصاد و تجارت منطقه‌ای بالا ببرد و از مسیر فشار عملیاتی بر زیرساخت‌ها، هزینه‌های امنیت انرژی را افزایش دهد—در نتیجه ثبات سیاسی-اقتصادی رژیم تحت فشار مضاعف قرار می‌گیرد.",
+            "با توجه به ماهیت اعلامیه نظامی (نه مذاکره یا سازوکار میانجی)، احتمال تداوم چرخه انتقام و گسترش درگیری در حوزه تنگه هرمز بالا می‌رود و این موضوع قدرت مانور سیاسی رژیم را کاهش می‌دهد."
+        ],
+        "impact": "اعلام ازسرگیری «حملات قدرتمند» نشان‌دهنده ورود به مرحله تشدید مستقیم است که می‌تواند هم فشار اقتصادی-امنیتی را بالا ببرد و هم چرخه درگیری را طولانی‌تر کند.",
+        "tag": "جنگ",
+        "urgency": 10,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xSlFOQ1RiWXZxQ0Fmb3l3dVIzdnlYOU54WGI3YUNCbXBTTWhhRURtblEtekZPeThXc0lpak1MQTUzdWd4b05EN2NTX2tUZkhqMkxaRzFBaVhZNzdGS0JFUFVtVHFOcUVYWlJWei1FQ3U5RknSAXhBVV95cUxQYVFoRXF5eGpuT19qMWptMVk4NkJ2R1NseGV6NFotR2xKSllzd3hDclExazBQS3ZJRkJINWdxeWVfVmhXcmVOVFQzQ0VZeERVbDFFZ0NTdVozZnhIem91cDJBRDFYUHlZN2s1RkdVVHZoZ2M4MXU5MUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9xSlFOQ1RiWXZxQ0Fmb3l3dVIzdnlYOU54WGI3YUNCbXBTTWhhRURtblEtekZPeThXc0lpak1MQTUzdWd4b05EN2NTX2tUZkhqMkxaRzFBaVhZNzdGS0JFUFVtVHFOcUVYWlJWei1FQ3U5RknSAXhBVV95cUxQYVFoRXF5eGpuT19qMWptMVk4NkJ2R1NseGV6NFotR2xKSllzd3hDclExazBQS3ZJRkJINWdxeWVfVmhXcmVOVFQzQ0VZeERVbDFFZ0NTdVozZnhIem91cDJBRDFYUHlZN2s1RkdVVHZoZ2M4MXU5MUQ",
+        "image": null,
+        "timestamp": 1783459377.0
     },
     {
         "title_fa": "بازگشت تحریم‌های فروش نفت ایران توسط دولت ترامپ",
@@ -180,6 +216,42 @@
         "timestamp": 1783448550.0
     },
     {
+        "title_fa": "حمله موشکی/هوایی آمریکا به مواضع ایران در تنگه هرمز؛ پاسخ مستقیم به حملات به کشتی‌های تجاری",
+        "title_en": "US launches strikes on Iran in response to ship attacks in Hormuz",
+        "summary": [
+            "گزارش می‌گوید آمریکا در واکنش به حملات ایران به کشتی‌های تجاری نزدیک تنگه هرمز، «ضربات» را آغاز کرده است؛ یعنی چرخه تنش با یک اقدام نظامی پاسخ داده شده، نه مذاکره.",
+            "این اقدام مستقیماً روی مسیر یک «توافق صلح» که برای پایان جنگ آمریکا-ایران شکل گرفته بود اثر می‌گذارد و متن صراحتاً می‌گوید تهدیدی علیه آن توافق محسوب می‌شود.",
+            "با توجه به این پیوند علت‌ومعلولی (حمله به کشتی‌ها → حمله متقابل آمریکا)، ریسک تشدید نظامی در آبراه کلیدی منطقه بالا می‌رود و هر دو طرف عملاً از اهرم بازدارندگی به سمت کنش تهاجمی حرکت کرده‌اند."
+        ],
+        "impact": "این ضربات می‌تواند توافق صلح را از مسیر خارج کند و به افزایش سریع‌تر تنش و تلافی‌های بعدی در تنگه هرمز منجر شود.",
+        "tag": "تنش",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-launches-strikes-on-iran-in-response-to-ship-attacks-in-hormuz/ar-AA27qhex",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-launches-strikes-on-iran-in-response-to-ship-attacks-in-hormuz/ar-AA27qhex",
+        "image": "http://www.bing.com/th?id=ONUT.gSJLXNmcy9fOxY2uHrmrhg&pid=News",
+        "timestamp": 1783447140.0
+    },
+    {
+        "title_fa": "آغاز موج جدید حملات آمریکا علیه ایران پس از بازگشت تحریم‌های نفتی",
+        "title_en": "US launches new strikes on Iran after reinstating oil sanctions over shipping attacks",
+        "summary": [
+            "بر اساس گزارش رویترز، آمریکا در روز سه‌شنبه موج تازه‌ای از حملات نظامی علیه ایران را اجرا کرد و هم‌زمان «مجوز فروش نفت» را که اجازه صادرات را می‌داد پس گرفت؛ این تصمیم پس از حمله به سه نفتکش در تنگه هرمز و شلیک/اصابت مهمات به آن‌ها اتخاذ شده است.",
+            "بازپس‌گیری مجوز فروش نفت، فشار ساختاری مستقیم بر درآمدهای ارزی و شبکه‌های حمل‌ونقل/تجارت دریایی وارد می‌کند و به‌صورت همزمان ریسک عملیاتی برای تجارت ایران را بالا می‌برد؛ یعنی حتی پیش از اثرگذاری کامل تحریم‌ها، صادرات عملاً بی‌ثبات‌تر می‌شود.",
+            "هم‌زمانی عملیات نظامی با بازگشت تحریم نفت نشان می‌دهد آمریکا از «ترکیب فشار میدانی و فشار اقتصادی» برای هدف‌گرفتن توان ایران در حوزه دریا و درآمدهای نفتی استفاده می‌کند؛ این ترکیب می‌تواند تصمیم‌گیری داخلی را سخت‌تر و مدیریت بحران را کم‌هزینه‌تر نکند."
+        ],
+        "impact": "این اقدام، هم از کانال نظامی (افزایش ریسک در تنگه هرمز) و هم از کانال اقتصادی (بازگشت محدودیت صادرات نفت) به تضعیف توان عملیاتی و مالی رژیم منجر می‌شود.",
+        "tag": "تحریم-نفتی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/ship-hit-hormuz-millions-march-ayatollah-iran-says-no-talks-unless-trump-halts-2026-07-07/",
+        "clean_url": "https://www.reuters.com/world/middle-east/ship-hit-hormuz-millions-march-ayatollah-iran-says-no-talks-unless-trump-halts-2026-07-07",
+        "image": "http://www.bing.com/th?id=ONUT.iGIfSc_mf4AS8Av_Uq8YLQ&pid=News",
+        "timestamp": 1783443720.0
+    },
+    {
         "title_fa": "هم‌راستایی نتانیاهو با ترامپ درباره ایران: سیگنال فشار سیاسی به تهران",
         "title_en": "Israel's Netanyahu tells CNN he and Trump align on big things over Iran",
         "summary": [
@@ -196,6 +268,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcld0TXM1eWlkSHBrZ1dxdnpFTERjbld4bFFXbUFUbkd5dTFWMWx3MnpTS0NyR3pVRUNpRV9NTDNSNEJtQW1XSlBVclhnTV82Z0tiTVQ2VVpEbHVrcjZNdGpjUHptRUlsMWRROWppMWpIZ1U2VTFxYWVTUnA2MVFfcjE2T0ZVR3UwMVFuYXl1cjlVeV9FeFJrNzE1dWxpWGwxUFJfXzI3ZV8yaHdaYU5OQVhHd1dhQ1cy",
         "image": null,
         "timestamp": 1783443628.0
+    },
+    {
+        "title_fa": "حملات هوایی آمریکا علیه ایران و لغو مجوز فروش نفت؛ تشدید ریسک فروپاشی آتش‌بس",
+        "title_en": "US strikes Iran and blocks oil sales in new threats to ceasefire",
+        "summary": [
+            "طبق گزارش بلومبرگ، آمریکا حملات هوایی جدیدی علیه ایران انجام داده و همزمان «معافیت» فروش نفت ایران به بازار جهانی را لغو کرده است؛ اقداماتی که عملاً فشار را هم‌زمان در میدان و اقتصاد بالا می‌برد.",
+            "این تصمیم‌ها «صلح‌نامه/آتش‌بس» را بیش از پیش در معرض خطر قرار می‌دهد، آن هم در شرایطی که پیش‌تر حملاتی به کشتی‌ها در تنگه هرمز رخ داده و زنجیره تنش در مسیر تجارت انرژی تشدید شده است.",
+            "لغو مجوز فروش نفت به معنی محدود شدن کانال درآمدی رژیم از مسیر صادرات است؛ در کنار حملات هوایی، پیام راهبردی این است که هزینه‌های ادامه تنش بالا نگه داشته می‌شود."
+        ],
+        "impact": "ترکیب حمله نظامی با قطع/محدودسازی درآمد نفتی می‌تواند هم ثبات اقتصادی را به هم بریزد و هم انگیزه‌های طرف‌ها برای حفظ آتش‌بس را کاهش دهد.",
+        "tag": "تحریم-نفت",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Bloomberg on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-strikes-iran-and-blocks-oil-sales-in-new-threats-to-ceasefire/ar-AA27qhLr",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-strikes-iran-and-blocks-oil-sales-in-new-threats-to-ceasefire/ar-AA27qhLr",
+        "image": "http://www.bing.com/th?id=ONUT.bqZw_xgdvnKQU1I7IrOYOw&pid=News",
+        "timestamp": 1783442483.0
     },
     {
         "title_fa": "ورای میدان نبرد: گام بعدی در جنگ ایران و غزه",
@@ -322,6 +412,24 @@
         "clean_url": "https://www.msn.com/en-us/money/other/iran-will-never-give-up-its-nuclear-ambitions-says-nikki-haley/vi-AA27oYaL",
         "image": null,
         "timestamp": 1783427994.0
+    },
+    {
+        "title_fa": "ریسک شدید در تنگه هرمز؛ حمله به نفتکش‌ها تنش آمریکا-ایران را دوباره فعال کرد",
+        "title_en": "Hormuz shipping risk raised to severe after tankers hit, reviving U.S.-Iran tensions",
+        "summary": [
+            "رویترز گزارش می‌دهد یک نفتکش ال‌ان‌جی قطری نزدیک تنگه هرمز در وضعیت «خطر انفجار» قرار گرفت و همزمان یک نفتکش نفت خام سعودی آسیب دید؛ این رخدادها بلافاصله باعث افزایش قیمت نفت شد.",
+            "مقامات دریایی سطح تهدید را بالا بردند و عملاً زنجیره ریسک امنیتی برای کشتیرانی در تنگه را از حالت معمول خارج کردند؛ نتیجه مستقیم آن افزایش هزینه و احتیاط عملیاتی برای مسیرهای عبوری است.",
+            "این موج تهدید، تنش آمریکا-ایران را دوباره به کانون توجه آورد؛ چون تنگه هرمز گره حیاتی تجارت انرژی است و هر حادثه می‌تواند به برداشت‌های تقابلی و تشدید پاسخ‌های امنیتی منجر شود."
+        ],
+        "impact": "افزایش سطح خطر در تنگه هرمز احتمال اختلال در کشتیرانی و جهش‌های کوتاه‌مدت قیمت نفت را بالا می‌برد و ریسک دور جدید درگیری‌های نیابتی/امنیتی میان طرف‌های درگیر را بیشتر می‌کند.",
+        "tag": "هورمز",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-fires-missiles-commercial-ships-strait-hormuz-axios-reports-2026-07-07/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-fires-missiles-commercial-ships-strait-hormuz-axios-reports-2026-07-07",
+        "image": "http://www.bing.com/th?id=ONUT.X9ujRITIcyYd8e_HPjnYgQ&pid=News",
+        "timestamp": 1783427940.0
     },
     {
         "title_fa": "دو نفتکش در نزدیکی تنگه هرمز آسیب دیدند؛ گزارش شلیک موشکی به ایران مطرح شده است",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/us-envoys-in-doha-to-meet-mediators-but-not-iranians-qatar-says/ar-AA26TsWb",
         "image": null,
         "timestamp": 1782870643.0
-    },
-    {
-        "title_fa": "واشنگتن بر سر گزینه‌های جنگ علیه ایران به بن‌بست نرسیده؛ ترامپ «گزینه جنگ همه‌جانبه» را دید اما روی «گفت‌وگو» ماند",
-        "title_en": "Exclusive | Trump Briefed on All-Out War Options in Iran but Opts to Stick With Talks",
-        "summary": [
-            "بر اساس گزارش WSJ، ترامپ از بسته کامل گزینه‌های «جنگ همه‌جانبه علیه ایران» توجیه شده، اما در نهایت انتخاب کرده فعلاً مسیر گفت‌وگو را ادامه دهد؛ یعنی تصمیم فعلی بر تشدید نظامی فوری نیست.",
-            "این روند نشان می‌دهد فشار خارجی به شکل تهدید معتبر و آماده‌سازی عملیاتی در جریان است، اما مدیریت ریسک باعث شده از اجرای فوری گزینه‌های سخت‌گیرانه خودداری شود—بنابراین اهرم اصلی فعلاً «ترس از تشدید» است نه خودِ تشدید.",
-            "با توجه به ماهیت انتخاب ترامپ، پیام سیاسی به تهران دوگانه است: هم راه نظامی روی میز است، هم فرصت توقفِ مسیر تنش از طریق مذاکره هنوز به‌عنوان مسیر کنترل بحران دنبال می‌شود."
-        ],
-        "impact": "تداوم گفت‌وگو در کنار توجیه رسمی گزینه جنگ، فضای عدم‌قطعیت راهبردی را بالا می‌برد و تهران را در موقعیت «فشارِ دائم ولی بدون فرمان فوری» قرار می‌دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDJ0Sk0yaWZoMEZHN1A5TEdPNXRwcmJuU2xvT014bllhdFp2dFZFY1VwOWhLRk5uaHRUSGpvRE05em12enVBOGduY1UwMFpDWmNJMTNFSUNlWFNwbWJva1JXQnE0ekhYVW5zdVE5cjdlbXpkQnhhYmxZNGZQVkowSDNQYTlpdEdsa3NLeE9xZHdQOVlsYy01V3lXdUF6OXJvdmJud3NGU3JvS1EtOXJMYktlOHYtN2tHNGxmaQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdDJ0Sk0yaWZoMEZHN1A5TEdPNXRwcmJuU2xvT014bllhdFp2dFZFY1VwOWhLRk5uaHRUSGpvRE05em12enVBOGduY1UwMFpDWmNJMTNFSUNlWFNwbWJva1JXQnE0ekhYVW5zdVE5cjdlbXpkQnhhYmxZNGZQVkowSDNQYTlpdEdsa3NLeE9xZHdQOVlsYy01V3lXdUF6OXJvdmJud3NGU3JvS1EtOXJMYktlOHYtN2tHNGxmaQ",
-        "image": null,
-        "timestamp": 1782865080.0
-    },
-    {
-        "title_fa": "تهران مداخله میانجی‌گرانه درباره هرمز را رد کرد؛ فشار آمریکا و اسرائیل محور تشدید است",
-        "title_en": "Iran war updates: Tehran rejects third-party intervention for Hormuz",
-        "summary": [
-            "طبق گزارش الجزیره، تهران «مداخله طرف ثالث» برای مدیریت بحران هرمز را رد کرده است؛ یعنی رژیم حاضر به قبول چارچوب‌های بیرونی برای کنترل تنش نیست.",
-            "این موضع در زمینه «به‌روزرسانی‌های جنگ» منتشر شده و هم‌زمان به «اقدامات آمریکا و اسرائیل علیه ایران» و «حملات اسرائیل به لبنان» اشاره می‌شود؛ بنابراین پیام تهران بیشتر یک پاسخ سیاسی-بازدارنده برای جلوگیری از مدیریت بیرونی سناریو است.",
-            "رد مداخله میانجی‌گرانه، با توجه به طبیعت کشمکش بر سر هرمز، می‌تواند مسیر تنش را به سمت برخوردهای بیشتر، از جمله تشدید ریسک دریایی و افزایش احتمال خطای محاسباتی، سوق دهد؛ اما گزارش جزئیات فنی/عملیاتی مشخص ارائه نمی‌کند."
-        ],
-        "impact": "رد مداخله میانجی‌گرانه تهران، احتمال تثبیت تنش در کانال هرمز و افزایش ریسک برخورد مستقیم یا اقدامات تلافی‌جویانه را بالا می‌برد، بدون آن‌که در متن منبع جزئیات قابل راستی‌آزمایی درباره اقدام مشخص ذکر شده باشد.",
-        "tag": "هرمز",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha",
-        "clean_url": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha",
-        "image": "http://www.bing.com/th?id=ONUT.qHzWtpkKZuutVZtkmSPEPg&pid=News",
-        "timestamp": 1782864960.0
-    },
-    {
-        "title_fa": "ترور «علی خامنه‌ای» و پیامدهای ادعایی آن برای «تقویت» ایران و نگرانی اسرائیل",
-        "title_en": "The Assassination of Ali Khamenei Led to a Revolution That Only Strengthened Iran—And Israel Is in a Pickle",
-        "summary": [
-            "مطلب بدون ارائه جزئیات قابل‌ راستی‌آزمایی، از «ترور علی خامنه‌ای» و به‌دنبال آن از یک «انقلاب/تحول» سخن می‌گوید که ادعا می‌شود نتیجه‌اش «تقویت» ایران بوده است.",
-            "استدلال اصلی متن بر این سوار است که شوک امنیتی و سیاسی ناشی از حذف یک مقام عالی، به جای فرسایش نظام، به انسجام ساختاری یا تقویت توان داخلی انجامیده؛ بنابراین محور نگرانی، اثرات جانشینی و بسیج درون‌حکومتی است.",
-            "بخش «اسرائیل در تنگناست» بیشتر یک جمع‌بندی سیاسی/بازدارنده است تا یک گزارش مستند از عملیات یا تصمیم مشخص؛ متن عملاً از ارائه شواهد عینی درباره اقدام‌های عملی اسرائیل یا تغییر ملموس در سیاست امنیتی آن خودداری می‌کند."
-        ],
-        "impact": "اگر ادعاهای متن درباره پیامد ترور و تثبیت قدرت درست باشد، می‌تواند ظرفیت مدیریت بحران و تداوم سیاست‌های خارجی/امنیتی رژیم را افزایش دهد؛ اما چون جزئیات و مستندات ارائه نشده، اثرگذاری واقعی نیازمند داده‌های قابل راستی‌آزمایی است.",
-        "tag": "تحولات-امنیتی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Middle East Forum",
-        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUtvdDk5SUNvcmYydkNRbElRV21FcEtiRVlhVV84eExlZ3JtZVgxUmQ1Q2s2ajBsSWpfeERJemZ6WGUyelNKVXhkZ2k1Q0tFQTNYZUJqRDIzQW9zTTRBSGtKZmZpQjZ4WDJfXzFDbjk5dE9GVE4yQ0RGZTBOT3F6ZUxoTVd5NFNqZVp0eVNRZUR5dEdBUy1EaWN4UmRZSzdaYWJrdkpfZFFnNHVsVkZySnlxbWtFSnE2QUNwa3piTlBRYzFIM3pYMnF6RUg4UkRfX2RqQi1kZlVjUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVUtvdDk5SUNvcmYydkNRbElRV21FcEtiRVlhVV84eExlZ3JtZVgxUmQ1Q2s2ajBsSWpfeERJemZ6WGUyelNKVXhkZ2k1Q0tFQTNYZUJqRDIzQW9zTTRBSGtKZmZpQjZ4WDJfXzFDbjk5dE9GVE4yQ0RGZTBOT3F6ZUxoTVd5NFNqZVp0eVNRZUR5dEdBUy1EaWN4UmRZSzdaYWJrdkpfZFFnNHVsVkZySnlxbWtFSnE2QUNwa3piTlBRYzFIM3pYMnF6RUg4UkRfX2RqQi1kZlVjUQ",
-        "image": null,
-        "timestamp": 1782862237.0
-    },
-    {
-        "title_fa": "ایران و قطر برای مذاکرات امروز پس از دیدار نمایندگان آمریکا با میانجی‌ها در دوحه",
-        "title_en": "Iran and Qatar to hold talks today after US envoys met with mediators about Iran",
-        "summary": [
-            "طبق گفته وزارت خارجه ایران، مذاکرات امروز تهران-دوحه بر «اجرای توافق با آمریکا» و نیز «دارایی‌های مسدودشده» متمرکز است؛ سخنگوی وزارت خارجه اعلام کرد تیم مذاکره‌کننده ایران برنامه‌ای برای دیدار با هیئت آمریکایی در روزهای آینده ندارد.",
-            "این دور مذاکرات یک روز پس از نشست‌های دوحه میان نماینده آمریکا، استیو ویتکاف، و جرد کوشنر با میانجی‌های قطری انجام می‌شود؛ قطر هم می‌گوید دیدار مذکور آخرین وضعیت مذاکرات واشنگتن-تهران و چارچوب تفاهم‌نامه دو طرف را مرور کرده و همچنین درباره تقویت امنیت منطقه از مسیر گفت‌وگو بحث شده است.",
-            "هم‌زمان، هم پیام‌های «دو پهلو» از سوی آمریکا و ایران درباره سطح مذاکرات وجود دارد و در موازات آن، در گزارشی دیگر سطح تهدید تنگه هرمز به‌علت خطر مین و عملیات پاکسازی به «substantial» افزایش یافته که می‌تواند هزینه‌های اقتصادی و امنیتی را بالا نگه دارد."
-        ],
-        "impact": "این روند نشان می‌دهد رژیم برای دسترسی به دارایی‌های مسدودشده و اجرای چارچوب توافق، به کانال‌های میانجی‌گری قطر متکی است، اما اختلاف در سیگنال‌های طرفین می‌تواند سرعت و قطعیت نتیجه را محدود کند.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump",
-        "clean_url": "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump",
-        "image": "http://www.bing.com/th?id=ONUT.q82dX817lwCPrfA43_9LTg&pid=News",
-        "timestamp": 1782858120.0
-    },
-    {
-        "title_fa": "اظهار مقام سازمان ملل: اسرائیل «بازی‌های» ایران را جدی می‌گیرد و همه‌چیز باید راستی‌آزمایی شود",
-        "title_en": "UN official says Israel takes Iran’s ‘games’ seriously: ‘You have to verify everything’",
-        "summary": [
-            "طبق گزارش فاکس بیزنس، یک مقام سازمان ملل تأکید کرده که اسرائیل «بازی‌های» ایران را جدی می‌گیرد و به همین دلیل رویکردش بر راستی‌آزمایی کامل استوار است.",
-            "این گزاره به‌طور مستقیم نشان می‌دهد که دستگاه‌های بین‌المللی، از جمله سازمان ملل، نسبت به قابلیت اتکا و شفافیت ادعاهای ایران تردید دارند و کنترل و تأیید را ضروری می‌دانند.",
-            "در سطح راهبردی، چنین چارچوبی فشار سیاسی-اطلاعاتی ایجاد می‌کند: هر ادعا یا حرکت تهران با هزینه راستی‌آزمایی مواجه می‌شود و مسیر سوءتفاهم یا پیش‌روی بدون کنترل را تنگ می‌کند."
-        ],
-        "impact": "این موضعِ علنی یعنی رژیم ایران با بی‌اعتمادی ساختاری روبه‌روست و هر پرونده یا ادعایی وارد چرخه راستی‌آزمایی سخت‌گیرانه می‌شود.",
-        "tag": "راستی‌سنجی",
-        "urgency": 4,
-        "sentiment": -0.25,
-        "source": "Fox Business",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBod2lZMi1LemxPVVAtTWRlRXh5dVJod2MzSlA1UTZCRS00dTBaandBZk55YmJGR1lkSm5OSWN2T082bEZKSzNWWTRHd3AxZkRQdEZaZEdWTUZrVDg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBod2lZMi1LemxPVVAtTWRlRXh5dVJod2MzSlA1UTZCRS00dTBaandBZk55YmJGR1lkSm5OSWN2T082bEZKSzNWWTRHd3AxZkRQdEZaZEdWTUZrVDg",
-        "image": null,
-        "timestamp": 1782855589.0
-    },
-    {
-        "title_fa": "اختلال در اتحاد آمریکا-اسرائیل به‌دلیل «توافق ایران»",
-        "title_en": "U.S.-Israel: Iran deal upsets the alliance",
-        "summary": [
-            "این گزارش خبر می‌دهد که «توافق ایران» (با عبارت کلی و بدون جزئیات) باعث برهم‌خوردن هم‌سویی آمریکا و اسرائیل شده است.",
-            "پیام اصلی محتوا این است که یک تصمیم/مذاکره خارجی درباره ایران، روی هماهنگی سیاسی-راهبردی واشنگتن و تل‌آویو اثر گذاشته، اما هیچ سند مشخصی از متن توافق یا واکنش رسمی مشخص ارائه نمی‌شود.",
-            "به‌دلیل فقدان اطلاعات عملیاتی در متن، نمی‌توان درباره پیامدهای اقتصادی یا امنیتی مستقیم برای ایران، شدت فشارها یا واکنش داخلی دولت چیزی را به‌طور قابل اتکا نتیجه گرفت."
-        ],
-        "impact": "اثر فوری گزارش، فرسایش هماهنگی سیاسی-راهبردی آمریکا و اسرائیل در قبال ایران است، بدون اینکه جزئیات قابل راستی‌آزمایی درباره سازوکارهای توافق ارائه شود.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Week",
-        "url": "https://theweek.com/world-news/us-israel-iran-deal-upsets-alliance",
-        "clean_url": "https://theweek.com/world-news/us-israel-iran-deal-upsets-alliance",
-        "image": null,
-        "timestamp": 1782855361.0
     }
 ]
