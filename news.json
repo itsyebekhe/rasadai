@@ -1,5 +1,41 @@
 [
     {
+        "title_fa": "بازگشت خطر جنگ مستقیم آمریکا-ایران و تشدید شوک بازار نفت در تنگه هرمز",
+        "title_en": "Is the US at war with Iran again?",
+        "summary": [
+            "طبق گزارش، پس از تبادل «حملات جدید» بین آمریکا و ایران، بازارهای جهانی و قیمت نفت دوباره نوسانی شده‌اند و ترامپ نیز گفته مذاکرات شکننده ممکن است «تمام شده باشد».",
+            "هم‌زمان، خبر از «شروع/اعمال محاصره بنادر ایران» توسط آمریکا برای فشار به تهران جهت دست کشیدن از کنترل تنگه هرمز آمده؛ موضوعی که روی عبور و خروج هزاران ملوان و نیروهای نظامی مستقر در چند کشور اثر می‌گذارد.",
+            "این رویدادها در ادامه یک چرخه جنگ از حمله اسرائیل و آمریکا به ایران در ۲۸ فوریه و پاسخ‌های ایران در سطح منطقه (از جمله ادعاهای کنترل تنگه هرمز) و ورود حزب‌الله به درگیری در ۲ مارس رخ داده است."
+        ],
+        "impact": "تشدید حملات و فشار دریایی می‌تواند مسیر تنگه هرمز را برای کشتیرانی پرریسک‌تر کند و هم‌زمان شوک‌های قیمتی به اقتصاد جهانی و ثبات سیاسی منطقه تزریق کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "vox.com",
+        "url": "https://www.baltimoresun.com/2026/07/08/iran-war-timeline/",
+        "clean_url": "https://www.baltimoresun.com/2026/07/08/iran-war-timeline",
+        "image": null,
+        "timestamp": 1783548300.0
+    },
+    {
+        "title_fa": "ایران ادامه فعالیت در سایت هسته‌ای کلیدی را پیش می‌برد و توافق با آمریکا را نقض می‌کند",
+        "title_en": "Iran Continues Work at Key Nuclear Site, Violating U.S.-Iran Agreement",
+        "summary": [
+            "طبق گزارش Foundation for Defense of Democracies، ایران روند کاری در یک سایت هسته‌ای مهم را ادامه می‌دهد؛ اقدامی که به‌عنوان نقض توافق آمریکا-ایران مطرح شده است.",
+            "این وضعیت، در چارچوب فشار خارجی، نشانه تضعیف کارکرد بازدارندگی اقتصادی-سیاسی توافق است: رژیم می‌تواند هزینه‌های سیاسی عدم‌تطابق را مدیریت کند، اما همزمان ریسک تشدید فشارهای هدفمندتر علیه برنامه هسته‌ای افزایش می‌یابد.",
+            "از منظر داخل، استمرار کار در سایت کلیدی با وجود ادعای توافق، الگوی حکمرانی مبتنی بر اولویت دادن به پروژه هسته‌ای بر تعهدات بیرونی را تقویت می‌کند؛ پیامد آن می‌تواند تداوم بی‌ثباتی اقتصادی ناشی از انتظار تحریم‌های سخت‌تر در آینده باشد."
+        ],
+        "impact": "ادامه فعالیت در سایت هسته‌ای کلیدی، هم اعتبار سازوکار توافق را می‌کاهد و هم احتمال اعمال فشارهای شدیدتر خارجی را بالا می‌برد.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Foundation for Defense of Democracies",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1RXNG9BN3ZEcXM5NjJmM01RaG13YzJqTVg5RFZIbTlHYTd6UzZjTDFXeG9MckpEUjZLRXJLM19FS3l6U25zR2xyaTFrb0hLeW5mNUhfSWJHYzl2WW1rQlNqSzRMd1ZZM3dsMW9wTkMxUHUwWW5RZjBnLWZfOFQ5T1piT0dtVnlfOGJjZ3RRNGhfSVBjUFZxT0lSMm1yTUNsQkVyYTlRUGJtd0pRT3c?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX1RXNG9BN3ZEcXM5NjJmM01RaG13YzJqTVg5RFZIbTlHYTd6UzZjTDFXeG9MckpEUjZLRXJLM19FS3l6U25zR2xyaTFrb0hLeW5mNUhfSWJHYzl2WW1rQlNqSzRMd1ZZM3dsMW9wTkMxUHUwWW5RZjBnLWZfOFQ5T1piT0dtVnlfOGJjZ3RRNGhfSVBjUFZxT0lSMm1yTUNsQkVyYTlRUGJtd0pRT3c",
+        "image": null,
+        "timestamp": 1783547100.0
+    },
+    {
         "title_fa": "تشدید حملات آمریکا علیه ایران هم‌زمان با فروپاشی «توافق موقت»",
         "title_en": "US carries out another wave of strikes on Iran",
         "summary": [
@@ -162,6 +198,24 @@
         "timestamp": 1783522560.0
     },
     {
+        "title_fa": "تغییرات رأی‌تخمینی ترامپ هم‌زمان با فروپاشی و تداوم آتش‌بس ایران در ۲۰۲۶",
+        "title_en": "How Donald Trump’s Approval Rating Has Changed During Iran Ceasefire",
+        "summary": [
+            "این گزارش می‌گوید هر بار که آتش‌بس ایران در ۲۰۲۶ فرو ریخته، اقبال عمومی ترامپ کاهش پیدا کرده است؛ یعنی شکست توافق به‌عنوان عامل فشار سیاسی در آمریکا عمل کرده.",
+            "هم‌زمان، هر بار که آتش‌بس برقرار مانده، امتیاز ترامپ دوباره رشد کرده؛ بنابراین افکار عمومی به «پایداری آتش‌بس» واکنش مستقیم نشان می‌دهد.",
+            "نکته راهبردی این است که پویایی داخلی آمریکا نه از عملیات‌های نظامی به‌تنهایی، بلکه از نتیجه سیاسیِ کنترل‌پذیری تنش‌ها (فروپاشی یا استمرار آتش‌بس) تغذیه می‌شود."
+        ],
+        "impact": "پیوند مستقیم میان وضعیت آتش‌بس و رتبه رأی ترامپ نشان می‌دهد که استمرار یا شکست آن، اهرم مهمی برای محاسبات سیاسی آمریکا در قبال پرونده ایران بوده است.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/how-donald-trump-approval-rating-changed-iran-ceasefire-12173837",
+        "clean_url": "https://www.newsweek.com/how-donald-trump-approval-rating-changed-iran-ceasefire-12173837",
+        "image": null,
+        "timestamp": 1783521900.0
+    },
+    {
         "title_fa": "تلاش برای معامله و همزمانی با چرخش تهدید؛ خط زمانی مناقشه و گفت‌وگوها در ABC News",
         "title_en": "Is an Iran deal ‘over’ and war back on? A timeline of the conflict and talks - ABC News",
         "summary": [
@@ -180,6 +234,24 @@
         "timestamp": 1783521251.0
     },
     {
+        "title_fa": "تداوم دور جدید حملات آمریکا به‌دنبال تهدید ترامپ و اعلام پایان آتش‌بس",
+        "title_en": "Iran live updates: US conducts new strikes after Trump threats",
+        "summary": [
+            "طبق گزارش USA TODAY، ترامپ بعد از ادامه چرخه «اقدام متقابل» حملات میان آمریکا و ایران اعلام کرد آتش‌بس میان دو کشور از نظر او تمام شده است.",
+            "هم‌زمان خبر از «حملات جدید» آمریکا در پی این ارزیابی منتشر شده که نشان می‌دهد واشنگتن مسیر را از حالت توقف به سمت تشدید عملیاتی تغییر داده است.",
+            "این رویداد مستقیماً ریسک محاسبه‌نادرست و پاسخ متقابل را بالا می‌برد، چون چارچوب سیاسیِ آتش‌بس عملاً کنار گذاشته شده و کنش-واکنش نظامی می‌تواند سریع‌تر از کنترل خارج شود."
+        ],
+        "impact": "اگر چرخه حملات بر پایه اعلام پایان آتش‌بس پیش برود، احتمال تشدید و گسترده‌تر شدن تقابل نظامی آمریکا و ایران به‌صورت فوری افزایش پیدا می‌کند.",
+        "tag": "تحریم",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-live-updates-us-conducts-new-strikes-after-trump-threats/ar-AA27t7CZ",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-us-conducts-new-strikes-after-trump-threats/ar-AA27t7CZ",
+        "image": "http://www.bing.com/th?id=ONUT.lZBxDnaBC8Tzwe_t0LkPoQ&pid=News",
+        "timestamp": 1783520960.0
+    },
+    {
         "title_fa": "چرا «توافق گام اول» آمریکا-ایران از ابتدا محکوم به شکست بود",
         "title_en": "Why the US and Iran’s First-Step Deal Was Doomed to Fail",
         "summary": [
@@ -196,6 +268,24 @@
         "clean_url": "https://www.newsweek.com/why-the-us-and-irans-first-step-deal-was-doomed-to-fail-12173268",
         "image": "http://www.bing.com/th?id=ONUT.RD924Dw5GuEltR2b2zk_uQ&pid=News",
         "timestamp": 1783518540.0
+    },
+    {
+        "title_fa": "پایان آتش‌بس در گلف و چرخه تشدید: دستور ترامپ برای حملات تازه پس از هدف‌گیری پایگاه‌های آمریکا",
+        "title_en": "Iran ceasefire is 'over,' Trump says, and orders additional strikes",
+        "summary": [
+            "طبق گزارش، پس از آنکه آمریکا چند محل در ایران را هدف حمله قرار داد و تحریم‌های مربوط به فروش نفت ایران را دوباره برقرار کرد، ایران نیز «پایگاه‌های نظامی آمریکا» را در خلیج هدف گرفت و همین روند باعث شد ترامپ اعلام کند آتش‌بس «تمام شده» و دستور حملات اضافی صادر می‌کند.",
+            "این زنجیره اقدام-پاسخ، عملاً مکانیزم کنترل تنش را از بین می‌برد: هر عملیات جدید با احتمال بالا به پاسخ متقابل منجر می‌شود و ریسک درگیری مستقیم‌تر در حوزه خلیج را افزایش می‌دهد.",
+            "بازگشت تحریم‌های نفتی به عنوان اهرم خارجی، هم فشار اقتصادی ساختاری ایجاد می‌کند و هم می‌تواند محاسبات امنیتی رژیم را به سمت تشدید عملیاتی سوق دهد، چون منبع اصلی درآمد ارزی دوباره در معرض محدودیت قرار می‌گیرد."
+        ],
+        "impact": "تشدید فوری عملیات‌ها و بازتعریف تحریم‌های نفتی، احتمال ادامه چرخه حمله و کاهش فضای مدیریت بحران را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Los Angeles Times on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-ceasefire-is-over-trump-says-and-orders-additional-strikes/ar-AA27t6QZ",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-ceasefire-is-over-trump-says-and-orders-additional-strikes/ar-AA27t6QZ",
+        "image": "http://www.bing.com/th?id=ONUT.C4FhsI-1bscTlJCeEW2Idw&pid=News",
+        "timestamp": 1783517520.0
     },
     {
         "title_fa": "استفراغ تبلیغاتی و خشم خیابانی پس از اعلام آتش‌بس ترامپ با ایران؛ جدی‌بودن یا ابزار فشار؟",
@@ -5308,95 +5398,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUltSGUwVW9xOVJYMnJlMmN3RVlTaE5JTTFlcXNxU1lfbjJ4VmFMbG9NdGg3YVJFdGwxekVFZjJWdlBBcGZnT3Y2ZGdIQWZhWF9hVlYwanFGbEVqQ3NTR3pIdkJLRDk5dnRzM0hSWEtsZGhCUWw1bjIwclVkblJEalhwdmpzdk1IaUNxODVpZW1JQkg5amRJYlNyc2J1bElsaFp3UVdObDRWVG1meGlIZ1BHMjlNbnpIMDVYUA",
         "image": null,
         "timestamp": 1782982156.0
-    },
-    {
-        "title_fa": "هشدار تهران به آمریکا و اسرائیل پیش از مراسم تشییع برای علی خامنه‌ای",
-        "title_en": "Iran warns US, Israel against attacks ahead of funeral processions for Khamenei",
-        "summary": [
-            "ایران در آستانه برگزاری مراسم تشییع برای علی خامنه‌ای به آمریکا و اسرائیل هشدار داده که از هرگونه اقدام تهاجمی خودداری کنند؛ تمرکز گزارش روی پیام سیاسی-بازدارنده تهران است.",
-            "تهدید/هشدار رسمی بدون ارائه جزئیات عملیاتی در متن روی رویارویی مستقیم حساب نمی‌کند، اما نشان می‌دهد رژیم در لحظه حساس امنیتی-اجتماعی به دنبال جلوگیری از هرگونه شوک بیرونی است.",
-            "زمان‌بندی پیام هم‌زمان با مراسم تشییع، عمق نگرانی امنیتی و تلاش برای کنترل فضای عمومی را برجسته می‌کند؛ چون هر اختلال خارجی می‌تواند اعتراضات یا شکاف‌های داخلی را تشدید کند."
-        ],
-        "impact": "این هشدار بیشتر کارکرد بازدارندگی و مدیریت ریسک در روزهای حساس داخلی دارد و می‌تواند رفتار بازیگران خارجی را موقتاً محدود کند.",
-        "tag": "هشدار",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/world/iran-warns-us-israel-against-attacks-ahead-of-funeral-processions-for-khamenei/ar-AA272Xax",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-warns-us-israel-against-attacks-ahead-of-funeral-processions-for-khamenei/ar-AA272Xax",
-        "image": null,
-        "timestamp": 1782981983.0
-    },
-    {
-        "title_fa": "تشدید تهدیدهای هرمز پس از پایان گفت‌وگوهای دوحه با «پیشرفت محتاطانه»",
-        "title_en": "Iran renews Hormuz threats as Doha talks end with cautious progress",
-        "summary": [
-            "تهران در پایان میانجی‌گری‌ها، به کشتی‌هایی که از «مسیرهای تأییدشده هرمز» خارج شوند، تهدید «پاسخ قاطع» داد؛ یعنی سیگنال مستقیم برای افزایش ریسک عملیاتی در مسیرهای دریایی حساس.",
-            "در همان زمان، میانجی‌ها اعلام کردند گفت‌وگوهای غیرمستقیم آمریکا و ایران در دوحه با «پیشرفت مثبت» به پایان رسیده؛ با این حال متن به نتیجه قطعی یا توافق عملی اشاره نمی‌کند و سطح ابهام باقی می‌ماند.",
-            "هم‌زمانی تهدید دریایی با ادعای پیشرفت دیپلماتیک، نشان‌دهنده رویکرد فشار-چانه‌زنی است: تهران هم‌زمان از اهرم نظامی/امنیتی برای بهبود موقعیت مذاکره استفاده می‌کند و ریسک تنش را بالا می‌برد."
-        ],
-        "impact": "افزایش احتمال درگیری‌های دریایی و اختلال در کشتیرانی، حتی در صورت ادامه روند گفت‌وگو، می‌تواند هزینه‌های اقتصادی و سیاسی را برای دو طرف بالا ببرد.",
-        "tag": "هرمز",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Euronews on MSN",
-        "url": "https://www.msn.com/en-ca/news/world/iran-renews-hormuz-threats-as-doha-talks-end-with-cautious-progress/ar-AA274Sfl",
-        "clean_url": "https://www.msn.com/en-ca/news/world/iran-renews-hormuz-threats-as-doha-talks-end-with-cautious-progress/ar-AA274Sfl",
-        "image": "http://www.bing.com/th?id=ONUT.PWmDeD54fWdD0tl5SOtz8w&pid=News",
-        "timestamp": 1782980630.0
-    },
-    {
-        "title_fa": "گفت‌وگوهای آمریکا-ایران در دوحه: توافق بر کانال رسمی، خط مستقیم و آزادسازی ۳ میلیارد دلار از منابع بلوکه‌شده",
-        "title_en": "US-Iran Talks In Doha Yield Breakthrough With $3 Billion Fund Release, Direct Hotline Agreed",
-        "summary": [
-            "طبق گزارش ABP News، مذاکرات آمریکا و ایران در دوحه به نتیجه‌ای «شکست‌ناپذیر» رسیده که شامل ایجاد کانال رسمی برای گزارش نقض‌های MoU از سوی ایران و اعلام وضعیت است.",
-            "هم‌زمان با این سازوکار ارتباطی، آزادسازی ۳ میلیارد دلار از «منابع بلوکه‌شده» برای مصارف بشردوستانه انجام می‌شود؛ یعنی فشار مالی می‌تواند موقتاً تخفیف بگیرد، اما وابسته به چارچوب همین توافق خواهد بود.",
-            "توافق بر یک خط تلفنی مستقیم، هزینهِ سوءتفاهم و تشدید تنش را کاهش می‌دهد و در عمل به رژیم امکان مدیریت ریسک ارتباطی با واشینگتن را می‌دهد، نه رفع ریشه‌های بحران ساختاری کشور."
-        ],
-        "impact": "آزادسازی ۳ میلیارد دلار همراه با خط مستقیم، فشار کوتاه‌مدت را کاهش می‌دهد و کانال کنترل تنش را تقویت می‌کند، اما این اقدام «حل بحران حکمرانی و اقتصاد» نیست و صرفاً مدیریت مرحله‌ای ریسک است.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "ABP News",
-        "url": "https://news.abplive.com/news/world/iran-us-talks-doha-breakthrough-ceasefire-hormuz-3-billion-fund-release-direct-hotline-agreed-1853937",
-        "clean_url": "https://news.abplive.com/news/world/iran-us-talks-doha-breakthrough-ceasefire-hormuz-3-billion-fund-release-direct-hotline-agreed-1853937",
-        "image": "http://www.bing.com/th?id=ONUT.BON3lu6pqXZpZ2YVK5gh9A&pid=News",
-        "timestamp": 1782977280.0
-    },
-    {
-        "title_fa": "سیاست سرمایه‌گذاری آمریکا در ایران: تکرار وعده‌هایی که همیشه به بن‌بست تاریخ خورده‌اند",
-        "title_en": "U.S. Hopes for Investment in Iran Would Break With Decades of History",
-        "summary": [
-            "نیویورک‌تایمز گزارش می‌کند که مقام‌های ارشد آمریکا امید دارند با تغییر موضع ایران نسبت به آمریکا، «پاداش سرمایه‌گذاری» در دستور کار قرار گیرد؛ اما این رویکرد با الگوی تاریخی ایران و ردکردن چنین معامله‌هایی در گذشته در تضاد است.",
-            "این خط فکری عملاً یک شرط سیاسی-اقتصادی می‌گذارد: آمریکا سرمایه می‌خواهد، ایران باید رفتار سیاسی‌اش را تغییر دهد؛ نتیجه محتمل، ادامه همان چرخه بی‌اعتمادی است که مانع شکل‌گیری سرمایه‌گذاری پایدار شده.",
-            "از منظر فشار خارجی، حتی اگر پیام آمریکا درباره پاداش سرمایه‌گذاری ارسال شود، اثرش بدون تغییرات محسوس و قابل راستی‌آزمایی کم‌دوام است و می‌تواند فقط فضای تبلیغاتی بسازد، نه اینکه ریسک‌های ساختاری و سیاسی را برای سرمایه‌گذار کاهش دهد."
-        ],
-        "impact": "این گزارش نشان می‌دهد ابتکار آمریکا برای جذب سرمایه به جای کاهش واقعی ریسک، به آزمون تاریخیِ «توافق‌های شرطی» برمی‌خورد و احتمال شکست آن به دلیل سابقه رد چنین باندبازی‌هایی بالاست.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
-        "clean_url": "https://www.nytimes.com/2026/07/02/world/middleeast/us-iran-negotiations-economy-opening-up.html",
-        "image": "http://www.bing.com/th?id=ONUT.KSUEd5Y_sJ_MaYubrp6Mhg&pid=News",
-        "timestamp": 1782976380.0
-    },
-    {
-        "title_fa": "سقوط قیمت نفت به پایین‌ترین سطح از آغاز جنگ آمریکا-اسرائیل علیه ایران",
-        "title_en": "Oil prices fall to levels not seen since start of US-Israel war on Iran",
-        "summary": [
-            "طبق گزارش الجزیره، قیمت نفت سقوط کرده و به سطحی رسیده که از زمان شروع جنگ آمریکا-اسرائیل علیه ایران مشاهده نشده است؛ یعنی شوک قیمتی جدید در بازار جهانی شکل گرفته.",
-            "این افت قیمت، مستقیماً توان درآمدزایی رژیم از نفت را کاهش می‌دهد و فشار بر بودجه و ثبات اقتصادی را تشدید می‌کند؛ در نتیجه اهرم مالی برای سرپوش گذاشتن بر نارضایتی‌ها تضعیف می‌شود.",
-            "در چارچوب فشار خارجی، چنین افتی می‌تواند پیامدهای سیاسی داخلی هم داشته باشد، چون هزینه‌های حکمرانی و تخصیص منابع در شرایط کاهش درآمد سخت‌تر می‌شود؛ اما متن فقط به سیگنال بازار اشاره دارد و جزئیات اقدامات یا تحرکات نظامی را ارائه نمی‌کند."
-        ],
-        "impact": "کاهش قیمت نفت، اهرم مالی رژیم را می‌کاهد و احتمال تشدید ناپایداری اقتصادی و فشار سیاسی داخلی را بالا می‌برد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/money/general/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran/ar-AA271KDv",
-        "clean_url": "https://www.msn.com/en-us/money/general/oil-prices-fall-to-levels-not-seen-since-start-of-us-israel-war-on-iran/ar-AA271KDv",
-        "image": null,
-        "timestamp": 1782969697.0
     }
 ]
