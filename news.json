@@ -144,6 +144,42 @@
         "timestamp": 1783607796.0
     },
     {
+        "title_fa": "به‌روزرسانی‌های ایران-آمریکا: مراسم دفن و ماندن ۶۰۰۰ ملوان در خلیج فارس",
+        "title_en": "Iran-US updates: Ayatollah to be buried; 6,000 sailors stranded in Persian Gulf",
+        "summary": [
+            "این گزارش به‌روزرسانی‌های رویدادهای مرتبط با ایران و آمریکا را کنار هم می‌آورد، اما متن ارسالی تنها به اشاره به «آیت‌الله/مراسم دفن» و جزئیات عملیاتی درباره وضعیت نیروها بسنده می‌کند.",
+            "طبق تیتر، «۶۰۰۰ ملوان» در خلیج فارس گرفتار/بلاتکلیف شده‌اند؛ این یعنی اختلال جدی در تدارکات، مسیرهای دریایی یا هماهنگی عملیاتی رخ داده است.",
+            "در متن ارسالی هیچ داده‌ای درباره علت دقیق حادثه، طرف‌های درگیر، یا ارتباط مستقیم با فشار خارجی ارائه نشده و بنابراین نمی‌توان درباره چرایی یا نقش آمریکا بدون اطلاعات تکمیلی نتیجه‌گیری کرد."
+        ],
+        "impact": "بلاتکلیفی ۶۰۰۰ ملوان در خلیج فارس یک شاخص فوری از اختلال عملیاتی و ضعف مدیریت بحران در حوزه دریایی است، حتی اگر دلیل آن در متن ارائه نشده باشد.",
+        "tag": "دریایی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Tennessean",
+        "url": "https://www.tennessean.com/story/news/world/2026/07/09/iran-war-strikes-donald-trump-ceasefire-updates--live/90857127007/",
+        "clean_url": "https://www.tennessean.com/story/news/world/2026/07/09/iran-war-strikes-donald-trump-ceasefire-updates--live/90857127007",
+        "image": null,
+        "timestamp": 1783604520.0
+    },
+    {
+        "title_fa": "اعلام پایان آتش‌بس ایران توسط ترامپ، جمهوری‌خواهان را در تنگنای سیاسی قرار داده است",
+        "title_en": "Trump's renewed Iran strikes put Republicans in a bind",
+        "summary": [
+            "ترامپ با اعلام پایان آتش‌بس با ایران، سطح تنش را بالا می‌برد و جمهوری‌خواهان را مجبور می‌کند میان همراهی با رئیس‌جمهور یا مخالفت با درگیری احتمالی انتخاب کنند.",
+            "مسئله اصلی برای حزب، هزینه سیاسی است: مقاله به این اشاره می‌کند که ادامه/گسترش درگیری می‌تواند به ضرر جمهوری‌خواهان تمام شود و جایگاه آن‌ها را در آستانه انتخابات تضعیف کند.",
+            "بن‌بست درون‌حزبی به‌طور مستقیم از تضاد بین منطق سیاست‌گذاری امنیتی دولت و ریسک‌های انتخاباتی حزب شکل می‌گیرد؛ یعنی تهدید «غرق شدن» حزب در نتیجه تشدید بحران، محرک اصلی اختلاف است."
+        ],
+        "impact": "اعلام پایان آتش‌بس، ریسک تشدید عملیات علیه ایران و در نتیجه تشدید فشارهای سیاسی-انتخاباتی بر جمهوری‌خواهان را بالا می‌برد.",
+        "tag": "آمریکا",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/07/09/trump-iran-republican-conflict-00992208",
+        "clean_url": "https://www.politico.com/news/2026/07/09/trump-iran-republican-conflict-00992208",
+        "image": "http://www.bing.com/th?id=ONUT.jXVrX0F3uDulnDyA7QWVlg&pid=News",
+        "timestamp": 1783603800.0
+    },
+    {
         "title_fa": "ایران حملات بیشتری را پس از اتهام به آمریکا برای حمله نزدیک تاسیسات هسته‌ای آغاز کرد",
         "title_en": "Iran launches more strikes after accusing US of striking near nuclear plant",
         "summary": [
@@ -286,6 +322,24 @@
         "clean_url": "https://www.nbcnews.com/world/iran/us-iran-new-attacks-trump-ceasefire-over-gulf-hormuz-rcna353615",
         "image": null,
         "timestamp": 1783589143.0
+    },
+    {
+        "title_fa": "تبادل حملات آمریکا و ایران برای دومین شب؛ ضربه دوباره به توافق ژوئن",
+        "title_en": "Latest in Iran: US and Iran exchange strikes for second night in a row",
+        "summary": [
+            "طبق گزارش Deseret News (از طریق MSN)، آمریکا و ایران «برای دومین شب» یکدیگر را با حمله متقابل هدف گرفته‌اند که نشان می‌دهد چرخه تنش دوباره به سطح نظامی برگشته است.",
+            "این حملات «بیشتر تهدید می‌کنند» توافقی را که در ژوئن میان دونالد ترامپ و رهبران ایران امضا شد؛ خود ترامپ بعدتر آن را «اتلاف وقت» خواند، اما اکنون واقعیت میدانی خلاف آن را نشان می‌دهد.",
+            "ادامه حملات در پی ماجرای توافق، یعنی کانال‌های مهار تنش عملاً کارکرد ندارند و خطر گسترش دامنه درگیری بالا می‌ماند."
+        ],
+        "impact": "تداوم حملات متقابل، اعتبار هر نوع چارچوب توافقی را فرسوده و احتمال تشدید سریع‌تر تنش را افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Deseret News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/latest-in-iran-us-and-iran-exchange-strikes-for-second-night-in-a-row/ar-AA27ztzX",
+        "clean_url": "https://www.msn.com/en-us/news/world/latest-in-iran-us-and-iran-exchange-strikes-for-second-night-in-a-row/ar-AA27ztzX",
+        "image": "http://www.bing.com/th?id=ONUT.4dK-f00cPHkGA2M8_mIGlg&pid=News",
+        "timestamp": 1783589117.0
     },
     {
         "title_fa": "سیکل خطرناک حملات بیشتر: آمریکا و ایران چندین دهه حمله متقابل را ادامه می‌دهند",
@@ -5344,59 +5398,5 @@
         "clean_url": "https://www.firstpost.com/explainers/iran-ayatollah-ali-khamenei-funeral-plans-foreign-leaders-cities-processions-security-14028645.html",
         "image": "http://www.bing.com/th?id=ONUT.4mPZhuUWLqOt6_LPX-Af5g&pid=News",
         "timestamp": 1783056000.0
-    },
-    {
-        "title_fa": "NDTV: ادعای خنثی‌سازی توطئه ترور اسرائیلی علیه عبـاس عراقچی و محمدباقر قالیباف با دخالت آمریکا",
-        "title_en": "When US Saved Iran's Abbas Araghchi, Mohammad Ghalibaf From An Israeli Kill Plot",
-        "summary": [
-            "NDTV با اتکا به خبر خود، ادعا می‌کند آمریکا جلوی ترور «عباس عراقچی» و همچنین «محمدباقر قالیباف» را گرفته و موضوع را به یک «توطئه قتل اسرائیلی» نسبت می‌دهد.",
-            "این گزارش به‌طور مشخص بر نقش آمریکا در «نجات» و جلوگیری از اجرای عملیات ترور تمرکز دارد و در نتیجه، یک سیگنال از سطح درگیری و ریسک امنیتی پیرامون چهره‌های کلیدی رژیم ارائه می‌کند.",
-            "با وجود ادعاهای امنیتی، متن ارائه‌شده جزئیات قابل راستی‌آزمایی از زمان، مکان، منبع خبر یا شواهد عملیاتی ارائه نمی‌دهد؛ بنابراین باید آن را بیشتر یک روایت خبری از کانال رسانه‌ای (NDTV) دانست نه یک سند قطعی."
-        ],
-        "impact": "اگر این ادعا درست باشد، افزایش ریسک ترور علیه مقامات کلیدی می‌تواند هم هزینه امنیتی حکومت را بالا ببرد و هم روایت «آسیب‌پذیری» را در داخل و خارج تقویت کند.",
-        "tag": "ترور",
-        "urgency": 7,
-        "sentiment": -0.25,
-        "source": "NDTV",
-        "url": "https://www.msn.com/en-in/news/world/when-us-saved-iran-s-abbas-araghchi-mohammad-ghalibaf-from-an-israeli-kill-plot/ar-AA2778Ku",
-        "clean_url": "https://www.msn.com/en-in/news/world/when-us-saved-iran-s-abbas-araghchi-mohammad-ghalibaf-from-an-israeli-kill-plot/ar-AA2778Ku",
-        "image": null,
-        "timestamp": 1783053162.0
-    },
-    {
-        "title_fa": "هشدار آمریکا به ایران درباره هدف‌گیری ترور رهبران توسط اسرائیل",
-        "title_en": "U.S. warned Iran about Israel’s aims to assassinate leaders",
-        "summary": [
-            "واشینگتن اعلام کرده به ایران هشدار داده که «اهداف اسرائیل» شامل ترور یا حذف رهبران است؛ پیام اصلی مقاله، ماهیت تهدید در سطح نخبگان سیاسی/امنیتی است.",
-            "این هشدار نشان می‌دهد آمریکا در حال ارزیابی فعالانه سناریوهای تشدید خشونت در داخل ایران است و احتمال درگیری‌های پنهان را به‌عنوان ریسک فوری در نظر می‌گیرد.",
-            "سطح تهدید متوجه «رهبران» است؛ بنابراین پیامد بالقوه می‌تواند اختلال در سازوکار تصمیم‌گیری و افزایش اقدامات امنیتی داخلی باشد، حتی اگر خودِ اقدام تروریستی هنوز گزارش نشده باشد."
-        ],
-        "impact": "این نوع هشدار، ریسک بی‌ثباتی داخلی و تشدید امنیتی را بالا می‌برد چون هدف‌گیری رهبران مستقیماً ظرفیت مدیریت بحران را تضعیف می‌کند.",
-        "tag": "تهدید",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/world/us-warned-iran-about-israels-aims-to-assassinate-leaders/ar-AA275WLW",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-warned-iran-about-israels-aims-to-assassinate-leaders/ar-AA275WLW",
-        "image": null,
-        "timestamp": 1783051260.0
-    },
-    {
-        "title_fa": "تعلیق گفت‌وگوهای صلح و اوج‌گیری برنامه تشییع رهبری ایران؛ همزمان افکار عمومی و برنامه‌ریزی جنگ به‌سمت خلأ توان آمریکا می‌رود",
-        "title_en": "Peace talks paused as Iran gears up for dayslong funeral for slain supreme leader",
-        "summary": [
-            "گفت‌وگوهای صلح «متوقف» شده و میانجی‌های قطری و پاکستانی گفته‌اند دور بعدی مذاکرات ایران و آمریکا پس از مراسم‌های یادبود آیت‌الله علی خامنه‌ای در «نزدیک‌ترین زمان ممکن» از سر گرفته می‌شود؛ خامنه‌ای در حملات آمریکا-اسرائیل در ۲۸ فوریه کشته شد.",
-            "پیکر خامنه‌ای صبح جمعه وارد تهران شد و برنامه تشییع عمومی از ۴ تا ۹ ژوئیه اعلام شده؛ همچنین در شامگاه پنج‌شنبه یک «خدمت کوچک» در رسانه دولتی برگزار شد و ژنرال احمد وحیدی، فرمانده قدرتمند نیروی شبه‌نظامی سپاه، کنار تابوت نشان داده شد.",
-            "هم‌زمان، فرمانده ناتو می‌گوید اروپا «بیشتر شکاف‌های» ناشی از کاهش تجهیزات از سوی آمریکا را پر کرده، اما در برخی حوزه‌های جایگزین‌پذیر نیست و طرح‌های پشتیبان در صورت حمله علیه اروپا هم در حال بررسی است."
-        ],
-        "impact": "این ترکیبِ تعلیق مذاکرات تا پایان مراسم و آشکارشدن بازآرایی توان نظامی اروپا، احتمال قفل‌شدن بحران در فازهای پرریسک و تشدید محاسبات نظامی را بالا می‌برد.",
-        "tag": "ایران-آمریکا",
-        "urgency": 8,
-        "sentiment": -0.4,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/u-iran-talks-pause-ayatollahs-113611075.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/u-iran-talks-pause-ayatollahs-113611075.html",
-        "image": "http://www.bing.com/th?id=ONUT.J-7-z264mZ_10cDye4VLZA&pid=News",
-        "timestamp": 1783050240.0
     }
 ]
