@@ -18,6 +18,24 @@
         "timestamp": 1783548300.0
     },
     {
+        "title_fa": "بازگشت «خواب‌زده» به جنگ؛ هشدار راهبردی در نبودِ مهار جدی",
+        "title_en": "‘We May Sleepwalk Our Way Back to War’",
+        "summary": [
+            "این گزارش بر خطرِ لغزش تدریجی به سمت جنگ تأکید می‌کند؛ یعنی سناریویی که طی آن تصمیم‌ها و اقداماتِ پراکنده بدون کنترل مؤثر، مسیر را به سمت رویارویی می‌برد.",
+            "محور اصلی متن، تحلیل شکاف میان محاسبات سیاسی و سازوکارهای واقعیِ بازدارندگی است: اگر مهار، قواعد ارتباط بحران، و کانال‌های مدیریت تنش جدی نباشد، احتمال تشدید از مسیرهای غیرمستقیم بالا می‌رود.",
+            "متن فعلاً به‌جای ارائه جزئیاتِ اقتصادی یا اقدامات مشخص علیه دارایی‌های رژیم/کشورهای هدف، یک چارچوب هشداردهنده می‌دهد و تمرکز آن بر «فرایند» است نه «یک حادثه مشخص»."
+        ],
+        "impact": "اثر این نوع هشدار، افزایش احتمال تصمیم‌گیری‌های شتاب‌زده در محیطی است که مهار و مدیریت بحران کم‌اثر شده و مسیر تشدید را هموار می‌کند.",
+        "tag": "جنگ",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/07/trump-iran-airstrikes-ceasefire-hormuz/687851/",
+        "clean_url": "https://www.theatlantic.com/national-security/2026/07/trump-iran-airstrikes-ceasefire-hormuz/687851",
+        "image": null,
+        "timestamp": 1783548265.0
+    },
+    {
         "title_fa": "ایران ادامه فعالیت در سایت هسته‌ای کلیدی را پیش می‌برد و توافق با آمریکا را نقض می‌کند",
         "title_en": "Iran Continues Work at Key Nuclear Site, Violating U.S.-Iran Agreement",
         "summary": [
@@ -126,6 +144,24 @@
         "timestamp": 1783533988.0
     },
     {
+        "title_fa": "آمریکا از «تشدید ضربات» تازه علیه ایران خبر داد؛ ادعای پاسخ سپاه به حملات در بحرین و کویت",
+        "title_en": "US military says it is carrying out fresh strikes on Iran, after Trump says accord is 'over'",
+        "summary": [
+            "رویترز می‌گوید آمریکا موجی از حملات نظامی علیه ایران را آغاز کرده و هم‌زمان «اعزام/اجرای ضربات تازه» را نیز در چارچوب عملیات اعلام کرده است؛ این روند پس از سخنان دونالد ترامپ مبنی بر اینکه توافق «تمام شده» شدت گرفته است.",
+            "سپاه پاسداران در واکنش، هدف‌گیری سایت‌های نظامی آمریکا را در بحرین و کویت اعلام کرده است؛ این یعنی بازیِ بازدارندگی وارد فاز تبادل مستقیم ادعاهای عملیاتی شده، نه صرفاً تهدیدهای سیاسی.",
+            "ریشه فوری تنش در گزارش رویترز «حمله به نفتکش‌ها» عنوان شده؛ اما چون جزئیات و اثبات‌پذیری عملیاتی در متن شما نیامده، تنها می‌توان نتیجه گرفت که محرک آغازین مناقشه همین پرونده امنیت دریایی بوده و اکنون به درگیری گسترده‌تر میان طرف‌ها کشیده شده است."
+        ],
+        "impact": "با تداوم چرخه حمله-پاسخ و تبدیل تهدیدها به ادعاهای عملیاتی در چند کشور منطقه، ریسک گسترش درگیری و درگیر شدن بیشتر نیروهای آمریکا در خلیج فارس به‌طور جدی افزایش می‌یابد.",
+        "tag": "escalation",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-targets-sites-bahrain-kuwait-after-wave-us-strikes-2026-07-08",
+        "image": null,
+        "timestamp": 1783530060.0
+    },
+    {
         "title_fa": "ترامپ: احتمال شروع دوباره درگیری با ایران را بعید می‌دانم",
         "title_en": "Trump says he doesn't think Iran conflict will start again",
         "summary": [
@@ -142,6 +178,24 @@
         "clean_url": "https://www.reuters.com/video/watch/idRW638308072026RP1",
         "image": null,
         "timestamp": 1783529819.0
+    },
+    {
+        "title_fa": "آژیرهای هشدار موشکی در بحرین و قطر همزمان با دور جدید حملات هوایی آمریکا علیه ایران",
+        "title_en": "Missile alerts sound in Bahrain and Qatar after US launches new round of airstrikes against Iran",
+        "summary": [
+            "خبرگزاری آسوشیتدپرس گزارش می‌کند که همزمان با آغاز دور جدید حملات هوایی آمریکا علیه ایران، هشدارهای موشکی در بحرین و قطر به صدا درآمد و پیامد مستقیم این تشدید برای امنیت منطقه ثبت شد.",
+            "دونالد ترامپ در ابتدا با اشاره به اینکه حملات ایران پایان آتش‌بس را نشان می‌دهد، تهدید کرد که حملات نظامی بیشتری را علیه ایران انجام خواهد داد؛ سپس در ادامه گزارش، گفته‌های او درباره جزئیات/ادامه حملات تعدیل یا تکمیل شده است (متن در اختیار ما ناقص است).",
+            "این رویداد نشان می‌دهد هرچند هدف اعلامی عملیات آمریکا «ایران» است، هزینه راهبردی آن با ورود خطر در کشورهای هم‌پشتوانه آمریکا در خلیج فارس—مانند بحرین و قطر—به‌صورت فوری قابل مشاهده است."
+        ],
+        "impact": "تشدید چرخه حملات و هشدارهای موشکی در پیرامون خلیج فارس احتمال بی‌ثباتی سریع‌تر منطقه‌ای و فرسایش بیشتر هرگونه چارچوب آتش‌بس را بالا می‌برد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-threatens-iran-with-more-strikes-but-says-recent-fighting-does-not-mean-a-return-to-war/ar-AA27qYmg",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-threatens-iran-with-more-strikes-but-says-recent-fighting-does-not-mean-a-return-to-war/ar-AA27qYmg",
+        "image": "http://www.bing.com/th?id=ONUT.Iva6yS5JFJe83XHquNYLEw&pid=News",
+        "timestamp": 1783529104.0
     },
     {
         "title_fa": "هشدار ترامپ به ایران: آماده‌سازی برای حملات بیشتر پس از پایان آتش‌بس",
@@ -358,6 +412,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTkFxXzBhSUQ2el9YSGpKdTRWaThUdDBiTHloeUV0WW41cnFfandpN3FVN3RsazE1T1lrSjZDNWRLYmpKbmZpLVJZZzNxRE9sWXFFM09BbklJU0ZRX1hhZUc4bmV5bEtBa2ZXMERJZjBaT1lFc3NIRG1YVlZHQUxVOE5NZ29kWU54Vm9KVkpGYUdodkdWS3ZsMkpyM0pMa2d3LVpCYjBVRGVpTjFqbmJN",
         "image": null,
         "timestamp": 1783511489.0
+    },
+    {
+        "title_fa": "ترامپ: توافق ایران عملاً تمام شد؛ هم‌زمان IRGC در مذاکرات با آمریکا نقش غالب می‌گیرد",
+        "title_en": "Trump says 'Iran lies and cheats' as IRGC emerges as dominant force in negotiations with US",
+        "summary": [
+            "ترامپ می‌گوید توافق هسته‌ای عملاً پایان یافته است، زیرا تهران به گفته او به سایت‌های نظامی آمریکا در بحرین و کویت حمله کرده و تهدید به حملات زیرساختی جدید را مطرح کرده است.",
+            "گزارش از «ظهور سپاه پاسداران» به‌عنوان نیروی غالب در مذاکرات با آمریکا سخن می‌گوید؛ یعنی کانال‌های تصمیم‌گیری و چانه‌زنی، به سمت بازیگری نظامی-امنیتی متمرکزتر می‌شوند.",
+            "پیام سیاسی-امنیتی این وضعیت روشن است: درگیری‌های فرامنطقه‌ای/عملیات‌های برون‌مرزی، شکاف اعتماد را تشدید می‌کند و مسیر دیپلماسی را به سمت اقدامات تلافی‌جویانه و تشدید فشار می‌برد."
+        ],
+        "impact": "این ترکیب از تشدید تهدیدات میدانی و «غلبه بازیگر امنیتی» احتمال بن‌بست و چرخه اقدام متقابل را بالا می‌برد و قدرت مانور سیاسی را کاهش می‌دهد.",
+        "tag": "تحریک",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-says-iran-lies-and-cheats-as-irgc-emerges-as-dominant-force-in-negotiations-with-us/ar-AA27v97t",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-lies-and-cheats-as-irgc-emerges-as-dominant-force-in-negotiations-with-us/ar-AA27v97t",
+        "image": "http://www.bing.com/th?id=ONUT.3TlwgM-MH2rsm4ZfWwIGKA&pid=News",
+        "timestamp": 1783510059.0
     },
     {
         "title_fa": "تهدید ترامپ به حملات بیشتر علیه ایران پس از اعلام پایان آتش‌بس",
@@ -5326,77 +5398,5 @@
         "clean_url": "https://www.msn.com/en-in/news/world/us-israel-iran-war-latest-news-donald-trump-says-iran-nuclear-progress-continues-as-us-iran-doha-talks-in-qatar-focus-on-strait-of-hormuz/ar-AA274Q1E",
         "image": "http://www.bing.com/th?id=ONUT.vSri_ySNrLD2oQSx83WJdQ&pid=News",
         "timestamp": 1782983760.0
-    },
-    {
-        "title_fa": "حاصل مذاکرات غیرمستقیم آمریکا-ایران در دوحه: محورهای تکراری، پیشرفت محدود و ادامه چرخه تنش",
-        "title_en": "US-Iran talks in Doha: What were the outcomes and what’s next?",
-        "summary": [
-            "طبق گزارش، آمریکا و ایران یک دور مذاکرات فنی غیرمستقیم در دوحه را پایان دادند؛ نشانه‌ای از پیشرفت واقعی برای «صلح پایدار» اعلام نشد و طرفین عملاً درباره موضوعاتی بحث کردند که دو هفته پیش در چارچوب یک توافق موقت «حل‌شده» توصیف شده بودند.",
-            "محورهای گفت‌وگو شامل تنگه هرمز، برنامه هسته‌ای ایران، آزادسازی دارایی‌های مسدود و بحران لبنان بود؛ در این فرایند قطر و پاکستان میانجی‌گری کردند و گزارش از «پیشرفت مثبت» ارائه شد، اما هیچ اعلام رسمی از پر کردن شکاف‌های اصلی منتشر نشد.",
-            "در بخش مالی، دو طرف درباره آزادسازی ۶ میلیارد دلار از دارایی‌های منجمد ایران صحبت کردند، همچنین قرار شد یک کانال ارتباطی برای حل اختلافات ایجاد شود؛ مذاکرات میان‌دوره‌ای پس از چند روز حملات متقابل نظامی آمریکا و ایران بر سر مسیرهای کشتیرانی در تنگه هرمز انجام شد."
-        ],
-        "impact": "این دور مذاکره بیشتر تلاش برای مدیریت بحران و اعطای نفس به طرفین بدون حل ریشه اختلافات بود و با توجه به سابقه حملات در تنگه هرمز، احتمال تداوم تنش بالا می‌ماند.",
-        "tag": "مذاکرات",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/politics/articles/us-iran-talks-doha-were-090614765.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us-iran-talks-doha-were-090614765.html",
-        "image": null,
-        "timestamp": 1782983475.0
-    },
-    {
-        "title_fa": "از «بهترین دوست» تا «بازنده»: توافق آمریکا و ایران شکاف در میان اسرائیلی‌ها علیه ترامپ را تشدید کرد",
-        "title_en": "From ‘greatest friend’ to ‘loser’: US-Iran deal sours many Israelis on Trump",
-        "summary": [
-            "بر اساس گزارش، بخشی از اسرائیلی‌ها پس از توافق آمریکا و ایران، روایت اولیه مبنی بر «همراهی بی‌چون‌وچرا» را کنار گذاشته و توافق را نشانه‌ای از عقب‌نشینی آمریکا تلقی می‌کنند.",
-            "این چرخش واکنش‌ها علیه ترامپ شکل گرفته و فضای سیاسی اسرائیل نسبت به معامله جدید آمریکا با ایران منفی‌تر شده است؛ یعنی منتقدان، هزینه سیاسی آن را برای تل‌آویو پررنگ‌تر می‌بینند.",
-            "در چارچوب ادعای اصلی گزارش، «سور شدن» روابط سیاسی در افکار عمومی اسرائیل پیامد مستقیم توافق تلقی می‌شود و اختلاف برداشت‌ها از منافع امنیتی مشترک را برجسته می‌کند."
-        ],
-        "impact": "مهم‌ترین پیام این رویداد، افزایش بی‌اعتمادی سیاسی در اسرائیل نسبت به مدیریت ریسک توسط واشنگتن است که می‌تواند مسیر تصمیم‌گیری منطقه‌ای را تندتر و شکننده‌تر کند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.35,
-        "source": "The Christian Science Monitor",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc0YXRneF81LTBFNUdPRzV3VFFUWkEwMWdQMDZPV2t3VDRkVzZ6SEdGRlZ1R1VDZmlpUHRqT2pMblBwWWxRZFR2NEdUSTZIRG5FOVNhZ252RzRzeUdnajBBSWlHYW9CdG96YkFzR29uaTh2YTlNS1dxUlhyNUdaUGNmNnlJLTFwNWlNLWxhblRkSURWN2dmckdfZDRWcnYtTFdiSHln0gGzAUFVX3lxTE1mTWVVV0RrTkFaMEVuR3lKSWozSURoMHZ6a2tBOTRSdld2LUw5YWtpY19CalpqbGdzVVZiY0thYjZwMzAxWWhZU3d6NndreHZtTEFaZndtazFXMC1oVlBtLUxKeU5TdDM3Umg5U2lOb1h3V0hiVU52UWpCNDZVWFNOclhsdk01d25Nb1V3dF9NMU9nMDNHWVhqb2R1Q3NUUG1NVUFMbGxpOEk0VmVFUUNYMWxn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTVc0YXRneF81LTBFNUdPRzV3VFFUWkEwMWdQMDZPV2t3VDRkVzZ6SEdGRlZ1R1VDZmlpUHRqT2pMblBwWWxRZFR2NEdUSTZIRG5FOVNhZ252RzRzeUdnajBBSWlHYW9CdG96YkFzR29uaTh2YTlNS1dxUlhyNUdaUGNmNnlJLTFwNWlNLWxhblRkSURWN2dmckdfZDRWcnYtTFdiSHln0gGzAUFVX3lxTE1mTWVVV0RrTkFaMEVuR3lKSWozSURoMHZ6a2tBOTRSdld2LUw5YWtpY19CalpqbGdzVVZiY0thYjZwMzAxWWhZU3d6NndreHZtTEFaZndtazFXMC1oVlBtLUxKeU5TdDM3Umg5U2lOb1h3V0hiVU52UWpCNDZVWFNOclhsdk01d25Nb1V3dF9NMU9nMDNHWVhqb2R1Q3NUUG1NVUFMbGxpOEk0VmVFUUNYMWxn",
-        "image": null,
-        "timestamp": 1782982824.0
-    },
-    {
-        "title_fa": "NYT: اظهارنظر آمریکا درباره «تغییر ایدئولوژی با سرمایه‌گذاری» با سابقه ایران در تضاد است",
-        "title_en": "U.S. Says Iran May Swap Ideology For Investment. History Shows Otherwise",
-        "summary": [
-            "نیویورک‌تایمز با ارجاع به تاریخ سیاسی ایران نتیجه می‌گیرد که منطق «تعویض ایدئولوژی با سرمایه‌گذاری» در عمل با رفتار رژیم سازگار نیست و نمی‌تواند به‌عنوان مسیر قابل اتکا برای تغییر سیاست‌ها مبنا قرار گیرد.",
-            "این چارچوب به‌طور ضمنی نشان می‌دهد فشار خارجی و ابزارهای اقتصادی برای تهران فقط وقتی اثرگذارند که به تغییر محاسبات سیاسی-امنیتی رژیم منجر شوند؛ در غیر این صورت، اهرم آمریکا به وعده سرمایه‌گذاری تقلیل پیدا می‌کند.",
-            "با توجه به متن کوتاه، خبر عملاً در سطح ارزیابی راهبردی آمریکا باقی می‌ماند و هیچ نشانه مشخص از توافق یا معامله قابل راستی‌آزمایی در آن ارائه نشده است."
-        ],
-        "impact": "این گزارش بیشتر یک آزمون واقع‌گرایانه از کارآمدی «معامله‌سازی» است تا یک تغییر ملموس در وضعیت تحریم‌ها یا سیاست منطقه‌ای.",
-        "tag": "تحلیل",
-        "urgency": 3,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVgzRm9oUEtmT0ZpNjJrXzBfQmpmSmYzVmxFUzNSRmRaWmlzUll5MWhzXzFSa0d3WjJoVTZHeHhOcV9QWWhkVnBKMUY5WWRkVExWUjVCWGx2Tncyel8ydUZTamdEMnBkMldhTDJDY0NDSjBMMHZLYWk5TEJXRlRDWkZydkVkN0RPQTBZSEhyWmJNSHpwbWhOX1ROd2k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSVgzRm9oUEtmT0ZpNjJrXzBfQmpmSmYzVmxFUzNSRmRaWmlzUll5MWhzXzFSa0d3WjJoVTZHeHhOcV9QWWhkVnBKMUY5WWRkVExWUjVCWGx2Tncyel8ydUZTamdEMnBkMldhTDJDY0NDSjBMMHZLYWk5TEJXRlRDWkZydkVkN0RPQTBZSEhyWmJNSHpwbWhOX1ROd2k",
-        "image": null,
-        "timestamp": 1782982205.0
-    },
-    {
-        "title_fa": "برداشتن تحریم فروش نفت؛ آزادسازی میلیاردها برای بقا و چرخش مالی رژیم",
-        "title_en": "With oil sale sanctions lifted, Iran potentially unlocks billions for regime",
-        "summary": [
-            "NPR گزارش می‌کند که با برداشته شدن تحریم‌های مرتبط با فروش نفت، ایران می‌تواند به منابع مالی بسیار بزرگ دسترسی پیدا کند؛ یعنی فشار مالیِ مستقیمِ ناشی از محدودیت صادرات نفت کاهش یافته است.",
-            "این گشایش بالقوه «موج نقدینگی» ایجاد می‌کند که طبق چارچوب گزارش، می‌تواند به نفع رژیم برای مدیریت هزینه‌های داخلی، پرداخت تعهدات و پیشبرد اولویت‌های حاکمیتی استفاده شود.",
-            "برداشتن تحریم فروش نفت، در عمل اهرم فشار خارجی را کم می‌کند و رژیم را از نظر مالی کمتر آسیب‌پذیر می‌سازد؛ در نتیجه فضای مانور سیاسی-امنیتی افزایش پیدا می‌کند."
-        ],
-        "impact": "برداشتن تحریم فروش نفت، توان مالی رژیم را سریع تقویت می‌کند و عملاً اهرم فشار خارجی را کاهش می‌دهد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUltSGUwVW9xOVJYMnJlMmN3RVlTaE5JTTFlcXNxU1lfbjJ4VmFMbG9NdGg3YVJFdGwxekVFZjJWdlBBcGZnT3Y2ZGdIQWZhWF9hVlYwanFGbEVqQ3NTR3pIdkJLRDk5dnRzM0hSWEtsZGhCUWw1bjIwclVkblJEalhwdmpzdk1IaUNxODVpZW1JQkg5amRJYlNyc2J1bElsaFp3UVdObDRWVG1meGlIZ1BHMjlNbnpIMDVYUA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOUltSGUwVW9xOVJYMnJlMmN3RVlTaE5JTTFlcXNxU1lfbjJ4VmFMbG9NdGg3YVJFdGwxekVFZjJWdlBBcGZnT3Y2ZGdIQWZhWF9hVlYwanFGbEVqQ3NTR3pIdkJLRDk5dnRzM0hSWEtsZGhCUWw1bjIwclVkblJEalhwdmpzdk1IaUNxODVpZW1JQkg5amRJYlNyc2J1bElsaFp3UVdObDRWVG1meGlIZ1BHMjlNbnpIMDVYUA",
-        "image": null,
-        "timestamp": 1782982156.0
     }
 ]
