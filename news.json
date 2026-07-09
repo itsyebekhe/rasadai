@@ -72,6 +72,42 @@
         "timestamp": 1783546560.0
     },
     {
+        "title_fa": "حملات نفتکش‌ها؛ سناریوی ایران‌هراسی یا محاسبه دوباره؟",
+        "title_en": "Tanker Attacks Risk Overplaying Iran’s Hand, Not a First, and Rekindling a War",
+        "summary": [
+            "مطلب با تکیه بر سابقه رفتاری ایران هشدار می‌دهد که بازی دادن بیش از حد «دست ایران» در واکنش‌ها می‌تواند به محاسبات غلط و تشدید خطر جنگ منجر شود؛ نکته کلیدی این است که حمله یا درگیری الزاماً اولین یا قابل‌پیش‌بینی‌ترین رخداد در این الگو نیست.",
+            "به‌جای فرض‌کردن پیروزی یا کنترل سریع، این متن روی این ریسک تمرکز دارد که ایران در صورت فشار خارجی «سر جای خودش می‌ایستد» حتی اگر متحمل زیان‌های جدی شود؛ یعنی چرخه اقدام-پاسخ می‌تواند از کنترل خارج شود.",
+            "هم‌زمان، موضوع «نفوذ تازه ایران بر گذرگاه‌های حیاتی تنگه هرمز» به‌عنوان عامل بازدارنده/محاسباتی مطرح می‌شود: بازیگران مقابل ممکن است برای مهار این نفوذ وسوسه شوند، اما همین وسوسه می‌تواند خطر درگیری گسترده‌تر را بالا ببرد."
+        ],
+        "impact": "این گزارش نشان می‌دهد که تحلیل‌های مبتنی بر بزرگ‌نمایی اثرگذاری ایران ممکن است واکنش‌های تهاجمی را تسریع کند و احتمال بازگشت به جنگ را بالا ببرد.",
+        "tag": "هشدار",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html",
+        "clean_url": "https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html",
+        "image": "http://www.bing.com/th?id=ONUT.ffbjE1LDa31AfeumtGLShw&pid=News",
+        "timestamp": 1783544400.0
+    },
+    {
+        "title_fa": "گزینه‌های ترامپ علیه ایران کم و همگی پرهزینه‌اند؛ اشتباه ساختاری در «مذاکره» و «تنبیه»",
+        "title_en": "What options does Trump have now in Iran? Not many, and they’re all bad",
+        "summary": [
+            "با وجود امضای «مذاکره‌نامه» (MOU) میان آمریکا و تهران تنها سه هفته پیش، حملات ایران به کشتی‌رانی در تنگه هرمز و سپس موج جدید حملات هوایی آمریکا نشان می‌دهد سند مذکور مبهم و کم‌اثر بوده و عملاً نتوانسته رفتار ایران را مهار کند.",
+            "این حملات از نگاه تحلیل، بخشی از تلاش ایران برای تبدیل هرمز به منبع درآمد از مسیر «عوارض/دریافت پول برای عبور» و وادار کردن کشتی‌ها به حرکت در مسیرهای ترجیحی خود است؛ یعنی اهرم جنگی ایران حفظ و تقویت می‌شود.",
+            "بن‌بست سیاست آمریکا میان دو گزینه بد قرار گرفته: یا تشدید جنگ برای شکستن نظم جدیدِ مبتنی بر اهرم ایران در هرمز (با هزینه انسانی، اقتصادی و سیاسی بالا)، یا تلاش برای احیای آتش‌بسِ معیوب که احتمالاً دوباره پرداخت‌های بزرگ به تهران در ازای «فقط حرف زدن» را به همراه می‌آورد."
+        ],
+        "impact": "این چرخه حمله-پاسخ نشان می‌دهد استراتژی آمریکا نه اهرم تهران را کاهش داده و نه اجرای مؤثر MOU را تضمین کرده، بنابراین احتمال کشیده‌شدن وضعیت به جنگ دوم افزایش می‌یابد.",
+        "tag": "تحلیل",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/07/09/politics/trump-iran-peace-deal-strait-analysis",
+        "clean_url": "https://www.cnn.com/2026/07/09/politics/trump-iran-peace-deal-strait-analysis",
+        "image": "http://www.bing.com/th?id=ONUT.wBWRjGSRpply5HK2x2TvgQ&pid=News",
+        "timestamp": 1783544400.0
+    },
+    {
         "title_fa": "هشدار مقام ایرانی به ترامپ: «خط قرمزی نداریم»",
         "title_en": "Iranian official issues warning to Trump over new threats: ‘We have no red lines’",
         "summary": [
@@ -88,6 +124,42 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iranian-official-issues-warning-to-trump-over-new-threats-we-have-no-red-lines/ar-AA27vu20",
         "image": null,
         "timestamp": 1783542780.0
+    },
+    {
+        "title_fa": "تشدید ضربات آمریکا به ایران و پاسخ تهران با حمله به کویت و بحرین؛ تلاش برای حفظ تنگه هرمز در آستانه قطع مذاکره",
+        "title_en": "US military carries out fresh strikes on Iran, prompting Iran attacks on Kuwait and Bahrain",
+        "summary": [
+            "نیروی نظامی آمریکا اعلام کرد در پی حمله روز سه‌شنبه ایران به سه کشتی باری در تنگه هرمز، حملات تازه‌ای را برای «کاهش توان تهدید علیه ناوبری آزاد» آغاز کرده؛ این دور، طبق اظهارات یک مقام آمریکایی برای رویترز، از نظر تعداد از حملات روز قبل بیشتر است.",
+            "هم‌زمان با این حملات، خبرها از لرزش شهرهای ساحلی جنوب ایران و قطع برق برخی مناطق منتشر شد؛ آمریکا این اقدام را پاسخ به «تهاجم غیرقابل‌توجیه» ایران علیه کشتی‌رانی و خدمه غیرنظامی دانست.",
+            "ایران در پاسخ، حملات دومرحله‌ای علیه کویت و بحرین را ادامه داد؛ کویت از رهگیری موشک‌ها و پهپادها خبر داد و بحرین نیز هدف حمله قرار گرفت. هر دو کشور میزبان پایگاه‌های نظامی آمریکا هستند."
+        ],
+        "impact": "این چرخه تهاجم-پاسخ، هزینه نظامی کنترل تنگه هرمز را بالا می‌برد و احتمال فروپاشی مسیرهای پایان جنگ را بیشتر می‌کند.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-says-interim-accord-to-end-iran-war-is-over-warns-of-new-us-strikes-134814826.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-says-interim-accord-to-end-iran-war-is-over-warns-of-new-us-strikes-134814826.html",
+        "image": "http://www.bing.com/th?id=ONUT.sVzqzdiyqWlef9hyCYF1aQ&pid=News",
+        "timestamp": 1783541640.0
+    },
+    {
+        "title_fa": "شروع موج جدید حملات هوایی آمریکا علیه ایران و درگیری متقابل با هدف‌گیری بحرین، کویت و قطر",
+        "title_en": "US launches new airstrikes on Iran, with Iran firing back at 3 Gulf Arab states",
+        "summary": [
+            "به گزارش NBC5، آمریکا بامداد پنج‌شنبه حملات هوایی جدیدی علیه ایران انجام داد و تهران در پاسخ، حملاتی را متوجه بحرین، کویت و قطر کرد؛ اقدامی که به گفته متن، درگیری را به چند کشور عرب حاشیه خلیج فارس کشاند.",
+            "طبق گزارش، این «آتش متقابل» بار دیگر خطر برهم خوردن یک توافق موقت را بالا برد؛ توافقی که قرار است به پایان منازعه کمک کند (متن جزئیات بیشتر از ماهیت و مفاد آن نمی‌دهد).",
+            "این الگو—حمله مستقیم آمریکا به ایران و سپس پاسخ ایران با هدف‌گیری کشورهای دیگر—نشانه تشدید چرخه اقدامات تلافی‌جویانه است و عملاً فضا برای مذاکرات را محدود می‌کند."
+        ],
+        "impact": "تشدید حملات و کشیده شدن آن به چند کشور خلیج فارس، احتمال شکست توافق موقت و ادامه‌دار شدن چرخه تلافی را بالا می‌برد.",
+        "tag": "escalation",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "My NBC5 on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-carries-out-another-round-of-strikes-on-iran-as-trump-says-ceasefire-might-be-over/ar-AA27vhpm",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-carries-out-another-round-of-strikes-on-iran-as-trump-says-ceasefire-might-be-over/ar-AA27vhpm",
+        "image": "http://www.bing.com/th?id=ONUT.WMDhxqsSpC8SlfzCPEq4dQ&pid=News",
+        "timestamp": 1783540920.0
     },
     {
         "title_fa": "فضای ایران بعد از مراسم تشییع و تشدید تنش با آمریکا متشنج مانده",
@@ -124,6 +196,24 @@
         "clean_url": "https://www.aol.com/articles/trump-says-iran-memorandum-understand-084501000.html",
         "image": null,
         "timestamp": 1783534967.0
+    },
+    {
+        "title_fa": "آغاز دور جدید حملات هوایی آمریکا علیه ایران و پاسخ تهران؛ تهران هدف آتش علیه بحرین، کویت و قطر",
+        "title_en": "US launches new airstrikes on Iran, with Tehran firing back at 3 Gulf Arab states",
+        "summary": [
+            "بر اساس گزارش Associated Press، آمریکا صبح پنجشنبه حملات هوایی جدیدی علیه ایران انجام داد و بلافاصله با پاسخ آتش ایران مواجه شد؛ این چرخه نشان می‌دهد که مدیریت تنش میان واشنگتن و تهران عملاً فروپاشیده است.",
+            "طبق متن گزارش، ایران در واکنش به حملات آمریکا، آتش را علیه سه دولت عرب حاشیه خلیج فارس یعنی بحرین، کویت و قطر هدف گرفت؛ این اقدام عملاً ریسک گسترش درگیری به سطح منطقه‌ای را بالا می‌برد.",
+            "AP تصریح می‌کند که تبادل آتش «دوباره» یک توافق/دورنمای توافق موقت را تهدید کرده است؛ یعنی هزینه سیاسی این تشدید، مستقیم به تضعیف مسیر مذاکره و سازوکارهای کاهش تنش می‌خورد."
+        ],
+        "impact": "این تشدید نظامی، هم احتمال شکست توافق موقت را بالا می‌برد و هم هزینه‌های فوری امنیتی و اقتصادی برای کشورهای همسایه را افزایش می‌دهد.",
+        "tag": "تشدید",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-carries-out-another-round-of-strikes-on-iran-after-trump-says-ceasefire-is-over/ar-AA27qYmg",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-carries-out-another-round-of-strikes-on-iran-after-trump-says-ceasefire-is-over/ar-AA27qYmg",
+        "image": "http://www.bing.com/th?id=ONUT.Cwgdvm_-VAspKDOQBFqyWg&pid=News",
+        "timestamp": 1783534603.0
     },
     {
         "title_fa": "ترامپ: قطعیت نسبت به توافق با ایران ندارم؛ هم‌زمان با تشدید تنش در تنگه هرمز",
@@ -232,6 +322,24 @@
         "clean_url": "https://www.nytimes.com/2026/07/08/business/energy-environment/iran-war-oil-prices.html",
         "image": "https://static01.nyt.com/images/2026/07/08/multimedia/2026-july-biz-promos-july-8-oil/2026-july-biz-promos-july-8-oil-facebookJumbo.png",
         "timestamp": 1783527540.0
+    },
+    {
+        "title_fa": "شکاف‌های درونی در ایران با حمله فیزیکی به رئیس‌جمهور و وزیرخارجه در جریان مذاکرات با آمریکا شعله‌ور شد",
+        "title_en": "Divisions Festered Within Iran Over Talks With the U.S.",
+        "summary": [
+            "حامیان یک جناح تندرو که با هرگونه معامله با آمریکا مخالفت دارد، این هفته رئیس‌جمهور و وزیر امور خارجه را مورد حمله فیزیکی قرار دادند؛ نشانه مستقیم از فروپاشی کنترل سیاسی در رأس ساختار تصمیم‌گیری.",
+            "این رخداد نشان می‌دهد اختلاف بر سر مسیر مذاکره با آمریکا نه‌تنها سیاسی، بلکه امنیتی و خشونت‌بار شده و هزینه‌های داخلی هر امتیاز یا سازش احتمالی را بالا می‌برد.",
+            "در غیاب سازوکارهای بازدارنده برای حل اختلاف، فضا برای افزایش بی‌ثباتی داخلی فراهم می‌شود؛ هر تصمیم درباره گفت‌وگو با واشنگتن می‌تواند به واکنش‌های سازمان‌یافته یا همدست‌محور تبدیل شود."
+        ],
+        "impact": "حمله فیزیکی به مقامات عالی، به‌طور مستقیم مشروعیت اجرایی و توان مدیریت اختلافات داخلی را تضعیف می‌کند و احتمال تشدید درگیری‌های درون‌نظام را بالا می‌برد.",
+        "tag": "اتحادشکنی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
+        "clean_url": "https://www.nytimes.com/2026/07/08/world/middleeast/iran-divisions-us-leaders.html",
+        "image": "http://www.bing.com/th?id=ONUT.5KhYY8f1blD0wyYrNOU6zw&pid=News",
+        "timestamp": 1783526400.0
     },
     {
         "title_fa": "بازگشت جنگ در تنگه هرمز: پایان آتش‌بس، حملات گسترده آمریکا و لغو معافیت‌های نفتی ایران",
@@ -5290,113 +5398,5 @@
         "clean_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-negotiations-pause-ayatollah-funeral",
         "image": null,
         "timestamp": 1782994239.0
-    },
-    {
-        "title_fa": "فوربس: ایران «مسیر دوم» برای بمب دارد؛ آمریکا باید مسیرهای تولید را کاملاً ببندد",
-        "title_en": "Iran Has Another Path To The Bomb. Trump Needs To Close It Off.",
-        "summary": [
-            "فوربس هشدار می‌دهد دولت آمریکا بیش از حد روی مسیرِ غنی‌سازی اورانیوم تمرکز کرده، در حالی که «مسیرِ دوم» یعنی بازفرآوری پلوتونیوم می‌تواند به‌همان اندازه به سلاح هسته‌ای منتهی شود.",
-            "این گزارش به نیروگاه بوشهر در جنوب ایران به‌عنوان گره اصلی پلوتونیوم اشاره می‌کند: ساخت آن با مشارکت «روس‌آتوم» در دهه ۱۹۹۰ شروع شد، سپس روسیه سال‌هایی مدیریت و پایه فنی فراهم کرد و حالا با گذشت سه دهه، سوختِ مصرف‌شده انباشت شده است.",
-            "به نقل از هنری سوکولسکی، ایران احتمالاً حدود ۲۱۰۰ کیلوگرم پلوتونیومِ قابل‌مصرف برای سلاح در بوشهر دارد که از نظر او می‌تواند برای ساخت بیش از ۲۰۰ بمب کافی باشد؛ همچنین تبدیل پلوتونیوم به هسته بمب «از نظر فنی» هم‌سطح با مسیر اورانیوم توصیف می‌شود و گزارش می‌گوید سابقه فریب و پنهان‌کاری هسته‌ای رژیم احتمال پیگیری این مسیر را بالا می‌برد."
-        ],
-        "impact": "اگر مسیر بازفرآوری و دارایی‌های مرتبط با سوخت مصرف‌شده در بوشهر مهار نشود، هر توافق یا فشار محدود ممکن است تنها یک کانال تسلیحاتی را ببندد و کانال دوم را دست‌نخورده نگه دارد.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/ilanberman/2026/07/02/iran-has-another-path-to-the-bomb-trump-needs-to-close-it-off/",
-        "clean_url": "https://www.forbes.com/sites/ilanberman/2026/07/02/iran-has-another-path-to-the-bomb-trump-needs-to-close-it-off",
-        "image": "http://www.bing.com/th?id=ONUT.jpMi4wVhtfTFYsMcChzyCA&pid=News",
-        "timestamp": 1782993180.0
-    },
-    {
-        "title_fa": "ادامه مذاکرات غیرمستقیم آمریکا-ایران و همزمانی با هشدار تهران درباره «خط قرمز» توان موشکی/پهپادی",
-        "title_en": "US-Iran War Live Updates: Trump says record number of vessels leaving Strait of Hormuz",
-        "summary": [
-            "آمریکا و ایران پس از مراسم خاکسپاری علی خامنه‌ای توافق کردند مذاکرات غیرمستقیم را ادامه دهند تا کانال‌های دیپلماتیک برای تثبیت آتش‌بس شکننده باز بماند؛ همچنین قطر و پاکستان در دو نشست جداگانه در دوحه با «پیشرفت مثبت» درباره مفاد مربوط به «یادداشت تفاهم اسلام‌آباد» گزارش داده‌اند و دور بعدی را به زمان نزدیک موکول کرده‌اند.",
-            "دونالد ترامپ ادعا کرده کاهش تنش‌ها باعث افت قیمت نفت و سوخت شده است، در حالی که هم‌زمان خبرها از ادامه جنگ غرب آسیا در پنجمین ماه آن حکایت می‌کند.",
-            "مجید ابون‌الرضا، وزیر دفاعِ سرپرست، اعلام کرد در مذاکره درباره توان دفاعی، موشکی و پهپادی بحث نخواهد شد و برنامه‌های موشکی و پهپادی «ادامه» خواهد داشت؛ او عملاً خطوط قرمز تهران را در مسیر مذاکرات مشخص کرد."
-        ],
-        "impact": "این همزمانیِ حفظ کانال‌های مذاکره با سخت‌گیری تهران درباره توان موشکی/پهپادی یعنی آتش‌بس می‌تواند بماند، اما احتمال توافق‌های سخت بر سر محدودسازی قابلیت‌های کلیدی کم است.",
-        "tag": "مذاکره",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-doha-talks-after-khamenei-funeral-trump-oil-prices-strait-of-hormuz-liveblog-19936847.htm",
-        "clean_url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-doha-talks-after-khamenei-funeral-trump-oil-prices-strait-of-hormuz-liveblog-19936847.htm",
-        "image": "http://www.bing.com/th?id=ONUT.1vn7uGlsGltETydnOoBySg&pid=News",
-        "timestamp": 1782989880.0
-    },
-    {
-        "title_fa": "ایران دسترسی بازرسان هسته‌ای سازمان ملل را به سایت‌های بمباران‌شده محدود کرد",
-        "title_en": "Iran Bans UN Nuclear Inspectors from Bombed Nuclear Sites after US-Israel Strikes",
-        "summary": [
-            "ایران طبق گزارش ایران‌وایر، دسترسی بازرسان هسته‌ای سازمان ملل را به سایت‌های هسته‌ای بمباران‌شده پس از حملات آمریکا-اسرائیل ممنوع کرده است؛ اقدامی که عملاً مسیر راستی‌آزمایی بین‌المللی را مختل می‌کند.",
-            "این تصمیم در قالب «کنترل اطلاعات» قابل تحلیل است: با حذف یا محدودسازی بازرسی میدانی، رژیم می‌کوشد بر روایت رسمی و زمان‌بندی پاسخ‌های آینده کنترل داشته باشد و هزینه سیاسی برایش را کاهش دهد.",
-            "از منظر فشار خارجی، این حرکت می‌تواند زمینه تشدید اختلاف با نهادهای بین‌المللی و افزایش حساسیت دولت‌ها نسبت به هرگونه تشدید تنش هسته‌ای را فراهم کند، بدون اینکه لزوماً نشانه کاهش ریسک باشد."
-        ],
-        "impact": "محدودسازی بازرسی‌ها به سایت‌های آسیب‌دیده، احتمال تشدید بحران اعتماد و افزایش ریسک سیاسی-امنیتی در پرونده هسته‌ای را بالا می‌برد.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "IranWire",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUng1VFB1Wm5lZERZOUtiVl83RXNyV3dSbm9MOWdyUk5wQ0hKQUNGV0lUTXh6MkFuVG04ZXMtYjdLVDRoN3pXT2tacndGRWU1bjdDblkwNkp0c1Bua3VUbjBETWV5SUVHR1JXbjNaS1d4U3ZWQjl5NEdGTzlXaXVMQ2xVWjc3dXFZSVBXVmpzRHhZYVdBX0VoWUR1S25fM1NKRm9oLWtnQ3VTaXVmb2NYYU1jU1JrN2ZGWUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUng1VFB1Wm5lZERZOUtiVl83RXNyV3dSbm9MOWdyUk5wQ0hKQUNGV0lUTXh6MkFuVG04ZXMtYjdLVDRoN3pXT2tacndGRWU1bjdDblkwNkp0c1Bua3VUbjBETWV5SUVHR1JXbjNaS1d4U3ZWQjl5NEdGTzlXaXVMQ2xVWjc3dXFZSVBXVmpzRHhZYVdBX0VoWUR1S25fM1NKRm9oLWtnQ3VTaXVmb2NYYU1jU1JrN2ZGWUE",
-        "image": null,
-        "timestamp": 1782989842.0
-    },
-    {
-        "title_fa": "هشدار تند ایران به آمریکا و اسرائیل همراه با تشدید امنیت پیش از مراسم تشییع؛ محدودیت پرواز و افزایش نیرو در تهران و مشهد",
-        "title_en": "Iran warns US, Israel ahead of Khamenei burial, millions expected to turn out",
-        "summary": [
-            "طبق گزارش، مقامات ایرانی پیش از مراسم یادشده امنیت را تشدید کرده‌اند؛ نیروهای بیشتری مستقر شده و محدودیت‌های حریم هوایی بر تهران و مشهد اعمال شده است.",
-            "در همین چارچوب، ایران به آمریکا و اسرائیل هشدار داده؛ یعنی رژیم از فضای مراسم برای افزایش سطح آمادگی امنیتی و ارسال پیام بازدارنده استفاده می‌کند.",
-            "با توجه به انتظار حضور گسترده مردم، رژیم عملاً ریسک ناآرامی یا رخدادهای امنیتی را بالا ارزیابی می‌کند و هزینه‌های اجراییِ کنترل شهری را افزایش داده است."
-        ],
-        "impact": "این نوع تشدید امنیت و محدودیت‌های هوایی نشان می‌دهد رژیم برای کنترل ریسک‌های داخلی و فشار خارجی در نقطه‌ای حساس از زمان، به ابزارهای امنیتی متکی‌تر می‌شود.",
-        "tag": "security",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "MEAWW News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-warns-us-israel-ahead-of-khamenei-burial-millions-expected-to-turn-out/ar-AA274QlV",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-warns-us-israel-ahead-of-khamenei-burial-millions-expected-to-turn-out/ar-AA274QlV",
-        "image": "http://www.bing.com/th?id=ONUT.yIkLdn7mxF6jnAJnx0sXvw&pid=News",
-        "timestamp": 1782985661.0
-    },
-    {
-        "title_fa": "بحث درباره انحلال سپاه، نزاع بر سر «دوقطبی» نظامی ایران را دوباره شعله‌ور می‌کند",
-        "title_en": "Talk of dissolving IRGC revives debate over Iran's dual military",
-        "summary": [
-            "بر اساس گزارش ایران اینترنشنال، طرح یا گمانه‌زنی درباره «انحلال» سپاه پاسداران، بار دیگر بحث داغ درباره ساختار دوگانه نیروهای مسلح ایران را احیا کرده است.",
-            "این موضوع عملاً مسئله قدرت، کنترل فرماندهی و نسبت نهادهای نظامی رقیب را به مرکز مناقشه سیاسی می‌آورد؛ یعنی همان شکاف سازمانی که در بحران‌های داخلی می‌تواند به بی‌ثباتی منجر شود.",
-            "بازگشت چنین اظهارنظرهایی نشان می‌دهد که اختلافات درون حاکمیت صرفاً سیاسی نیست و می‌تواند به بازتعریف نقش نیروها و توازن امنیتی بینجامد."
-        ],
-        "impact": "احیای بحث انحلال سپاه، احتمال تشدید کشمکش درون‌نظامی و فرسایش انسجام امنیتی را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FZkVHUWdIMXU0QXZSb3dzYXVDT3U2UWRqd0pWSUdKbGpJeW1qd0dJQThwd3FsOVhkVjUzOHBSeUNqUW4waG0xZC1hY2RHYVdidHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FZkVHUWdIMXU0QXZSb3dzYXVDT3U2UWRqd0pWSUdKbGpJeW1qd0dJQThwd3FsOVhkVjUzOHBSeUNqUW4waG0xZC1hY2RHYVdidHc",
-        "image": null,
-        "timestamp": 1782985378.0
-    },
-    {
-        "title_fa": "مذاکرات غیرمستقیم آمریکا و ایران در دوحه؛ تمرکز بر تنگه هرمز و ادامه پرونده هسته‌ای",
-        "title_en": "US-Israel-Iran war latest news: Donald Trump says Iran nuclear progress continues as US-Iran Doha talks in Qatar focus on Strait of Hormuz",
-        "summary": [
-            "گزارش از آغاز «مرحله جدید» مذاکرات غیرمستقیم آمریکا و ایران خبر می‌دهد که در دوحه انجام می‌شود و محور آن، سرنوشت تنگه هرمز است.",
-            "در همین چارچوب، دونالد ترامپ ادعا کرده که پیشرفت هسته‌ای ایران ادامه دارد؛ این گزاره نشان می‌دهد که واشینگتن همزمان مذاکرات را با فشار سیاسی-اطلاعاتی بر پرونده هسته‌ای پیش می‌برد.",
-            "طبق متن منتشرشده، تمرکز طرف‌ها بر امنیت/آینده تنگه هرمز است؛ یعنی مذاکره مستقیماً به اهرم حیاتی تجارت دریایی گره خورده و خطر سوءتفاهم یا تشدید تنش در کانال‌های دوجانبه را بالا می‌برد."
-        ],
-        "impact": "ورود مذاکره به فاز جدید با محور تنگه هرمز می‌تواند موقتاً از تشدید فوری جلوگیری کند، اما همزمان به دلیل ادامه ادعاهای هسته‌ای و ابهام‌های میدانی، احتمال نوسان تنش را از بین نمی‌برد.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/world/us-israel-iran-war-latest-news-donald-trump-says-iran-nuclear-progress-continues-as-us-iran-doha-talks-in-qatar-focus-on-strait-of-hormuz/ar-AA274Q1E",
-        "clean_url": "https://www.msn.com/en-in/news/world/us-israel-iran-war-latest-news-donald-trump-says-iran-nuclear-progress-continues-as-us-iran-doha-talks-in-qatar-focus-on-strait-of-hormuz/ar-AA274Q1E",
-        "image": "http://www.bing.com/th?id=ONUT.vSri_ySNrLD2oQSx83WJdQ&pid=News",
-        "timestamp": 1782983760.0
     }
 ]
