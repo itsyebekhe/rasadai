@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "جنگ آمریکا-اسرائیل علیه ایران؛ خطر تشدید مستقیم و فروپاشی کنترل بحران",
+        "title_en": "US-Israel war on Iran",
+        "summary": [
+            "گزارش گاردین با عنوان «US-Israel war on Iran» صراحتاً بر چارچوب «جنگ» میان آمریکا و اسرائیل علیه ایران تأکید می‌کند، اما در متن ارائه‌شده هیچ جزئیات قابل راستی‌آزمایی از عملیات، اهداف یا زمان‌بندی منتشر نشده است.",
+            "با اتکا به همین عنوان، محور فشار خارجی می‌تواند به شکل شوک امنیتی-اقتصادی خودش را نشان دهد؛ یعنی احتمال اختلال در تجارت، ریسک جهش نرخ ارز و فشار بر شبکه مالی دولت، بدون اینکه در این متن عدد یا سندی آمده باشد.",
+            "از آنجا که متن فقط عنوان را تکرار کرده، نمی‌توان درباره نقش روسیه/چین/کره‌شمالی یا شکل‌گیری اعتراضات داخلی، «واقعیت» ادعا کرد؛ هر تحلیل فراتر از عنوان در اینجا ساختگی می‌شود."
+        ],
+        "impact": "صرفِ طرح «جنگ» علیه ایران، حتی بدون جزئیات ارائه‌شده، بیشترین ریسک را برای تشدید بحران مستقیم، فرسایش توان حکمرانی و شوک اقتصادی-امنیتی ایجاد می‌کند.",
+        "tag": "جنگ",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.timesnownews.com/world/middle-east/us-iran-israel-war-live-updates-donald-trump-benjamin-netanyahu-pezeshkian-strikes-middle-east-israel-iran-news-liveblog-155041323",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-israel-war-live-updates-donald-trump-benjamin-netanyahu-pezeshkian-strikes-middle-east-israel-iran-news-liveblog-155041323",
+        "image": null,
+        "timestamp": 1783757946.0
+    },
+    {
         "title_fa": "آمادگی اسرائیل برای کمک به آمریکا علیه ایران؛ اما بدون برنامه ورود به جنگ",
         "title_en": "Israel willing to assist US against Iran if Trump requests, despite no plans to join war - report",
         "summary": [
@@ -5380,23 +5398,5 @@
         "clean_url": "https://www.npr.org/2026/07/03/g-s1-131963/iran-plans-dayslong-funeral-for-supreme-leader-khamenei-after-war-death",
         "image": "http://www.bing.com/th?id=ONUT.oHzhuJd8HLOibVU52kGH7w&pid=News",
         "timestamp": 1783086300.0
-    },
-    {
-        "title_fa": "مرگ رهبر ایران و تشییع: نمایش قدرت یک رژیم زیر فشار جنگ",
-        "title_en": "Iran's leader was killed in February. The country will finally bury him.",
-        "summary": [
-            "طبق گزارش، رهبر ایران در فوریه کشته شد و اکنون مراسم خاکسپاری برگزار می‌شود؛ این رویداد برای رژیمِ باقی‌مانده فرصتی است برای کنترل روایت و مهار فرسایش مشروعیت در داخل.",
-            "مقاله به «چند ماه جنگ با اسرائیل و ایالات متحده» اشاره می‌کند و می‌گوید تشییع قرار است قدرت‌نمایی کند؛ یعنی کارکرد اصلی مراسم، ارسال پیام بازدارنده و نشان دادن «تاب‌آوری» در برابر فشار خارجی است.",
-            "زمان‌بندی تشییع پس از ماه‌ها درگیری، نشان‌دهنده تلاش برای تبدیل یک ضربه جدی به ابزار بسیج و نمایش توان اجرایی است، بدون اینکه نشانه مشخصی از بهبود واقعی وضعیت ارائه شود."
-        ],
-        "impact": "مراسم خاکسپاری در این چارچوب بیشتر یک عملیات ارتباطی برای تثبیت روحیه و قدرت نمادین پس از جنگ طولانی است تا نشانه‌ای از تغییر ساختاری.",
-        "tag": "رژیم",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Washington Post on MSN",
-        "url": "https://www.msn.com/en-us/news/world/irans-leader-was-killed-in-february-the-country-will-finally-bury-him/ar-AA278Zfg",
-        "clean_url": "https://www.msn.com/en-us/news/world/irans-leader-was-killed-in-february-the-country-will-finally-bury-him/ar-AA278Zfg",
-        "image": "http://www.bing.com/th?id=ONUT.9PZXWVac9OntKsqm-Sqjyw&pid=News",
-        "timestamp": 1783083600.0
     }
 ]
