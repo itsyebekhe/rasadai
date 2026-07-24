@@ -1,5 +1,23 @@
 [
     {
+        "title_fa": "ترامپ در حال بررسی تشدید حملات علیه ایران با گسترش دامنه درگیری",
+        "title_en": "Trump weighs harder Iran strikes as conflict widens",
+        "summary": [
+            "طبق گزارش Al-Monitor، ترامپ گزینه‌های «حملات سخت‌تر» علیه ایران را در پی گسترش دامنه درگیری بررسی می‌کند؛ یعنی افزایش فشار نظامی به عنوان اهرم سیاست خارجی در دستور کار قرار گرفته است.",
+            "گسترش درگیری نشان می‌دهد ریسک تبدیل شدن یک بحران منطقه‌ای به اقدام مستقیم علیه زیرساخت‌ها و توان عملیاتی ایران بالا می‌رود؛ این وضعیت برای محاسبات امنیتی رژیم، عدم‌قطعیت و هزینه‌سازی می‌آورد.",
+            "محرک تصمیم ترامپ «گسترش جنگ» است نه یک توافق سیاسی؛ بنابراین تمرکز بر ضربه‌زدن عملیاتی و ایجاد بازدارندگی از مسیر افزایش شدت اقدامات محتمل‌تر از راهکارهای مذاکره‌محور است."
+        ],
+        "impact": "تشدید احتمالی حملات می‌تواند هم‌زمان ریسک شوک امنیتی و فشار مستقیم بر ظرفیت‌های اقتصادی-عملیاتی ایران را بالا ببرد و شکاف‌های حکمرانی را برجسته‌تر کند.",
+        "tag": "تحریم-فشار",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Al-Monitor",
+        "url": "https://www.barrons.com/news/trump-weighs-harder-iran-strikes-as-conflict-widens-26d12a7b?refsec=topics_afp-news",
+        "clean_url": "https://www.barrons.com/news/trump-weighs-harder-iran-strikes-as-conflict-widens-26d12a7b",
+        "image": null,
+        "timestamp": 1784932243.0
+    },
+    {
         "title_fa": "پیک‌اَکس مَونتین؛ سایت زیرزمینی هسته‌ای ایران و تهدید ترامپ، اهرم فشار علیه رژیم",
         "title_en": "What Is Pickaxe Mountain, Iran’s Underground Nuclear Site That Trump Is Threatening?",
         "summary": [
@@ -448,6 +466,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-considering-a-massive-attack-on-iran-as-tehran-labels-uk-accomplice-to-america/ar-AA28AoSn",
         "image": null,
         "timestamp": 1784879670.0
+    },
+    {
+        "title_fa": "وال‌استریت‌ژورنال: تردید ترامپ درباره دیپلماسی و حرکت به سمت فشار تلافی‌جویانه علیه تهران",
+        "title_en": "Trump is losing patience over an Iran war with no clear end in sight",
+        "summary": [
+            "یک مقام ارشد دولت آمریکا می‌گوید ترامپ نسبت به دیپلماسی درباره جنگ با ایران «بی‌صبر» شده و روند مذاکره را فاقد افق روشن می‌بیند.",
+            "به‌گفته همان منبع، رئیس‌جمهور در «حالت انتقام» علیه تهران قرار گرفته؛ یعنی رویکرد کنونی از کنترل بحران خارج شده و به فشار سیاسی/عملی بیشتر تمایل پیدا می‌کند.",
+            "در گزارش هیچ «پایان مشخص» یا چارچوب خروج دیپلماتیک ارائه نشده، پس ریسک طولانی‌شدن درگیری و سخت‌تر شدن مسیر مدیریت تنش بالا می‌رود."
+        ],
+        "impact": "این تحول یعنی احتمال کنار رفتن تدریجی دیپلماسی و افزایش فشار آمریکا می‌تواند چرخه تنش را طولانی‌تر و خطر برخورد مستقیم را بیشتر کند.",
+        "tag": "فشارخارجی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-is-losing-patience-over-an-iran-war-with-no-clear-end-in-sight/ar-AA28z12t",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-is-losing-patience-over-an-iran-war-with-no-clear-end-in-sight/ar-AA28z12t",
+        "image": "http://www.bing.com/th?id=ONUT.IrAbUm48CXi4DuNQAYGRfg&pid=News",
+        "timestamp": 1784879520.0
     },
     {
         "title_fa": "برنت بالای ۱۰۰ دلار؛ تنش با ایران هزینه انرژی را بالا برد",
@@ -5362,41 +5398,5 @@
         "clean_url": "https://www.msn.com/en-ca/news/world/turkey-s-erdogan-says-israel-must-not-scupper-us-iran-deal/ar-AA27cuHE",
         "image": null,
         "timestamp": 1783178365.0
-    },
-    {
-        "title_fa": "تشییع علی خامنه‌ای؛ تبدیل عزاداری به جرقه دیپلماتیک با توقف مذاکرات و تشدید نگرانی‌های امنیتی",
-        "title_en": "What Trump and Iran Have Said About Ayatollah Ali Khamenei’s Funeral",
-        "summary": [
-            "بر اساس گزارش نیوزویک، «مجموعه عظیم جمعیت»، نگرانی‌های امنیتی و تبدیل «دوره عزاداری» به مسئله‌ای سیاسی، فضای بحران‌زده‌ای ایجاد کرده که روی تعاملات خارجی اثر گذاشته است.",
-            "در همین چارچوب، «مذاکرات» به حالت تعلیق درآمده و همین توقف مستقیماً به عنوان بخشی از تبدیل این رویداد به «فلش‌پوینت دیپلماتیک» مطرح شده است؛ یعنی کانال‌های گفت‌وگو عملاً قفل شده‌اند.",
-            "هم‌زمان، اظهارات ترامپ و ایران درباره این مراسم، نشان‌دهنده آن است که طرفین از یک رویداد داخلی/نمادین برای فشار یا پیام‌رسانی سیاسی در سطح خارجی استفاده می‌کنند، نه صرفاً مدیریت مراسم."
-        ],
-        "impact": "این وضعیت به جای کاهش تنش، با توقف مذاکرات و تشدید نگرانی امنیتی، احتمال افزایش درگیری لفظی و بن‌بست دیپلماتیک را بالا می‌برد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/trump-iran-comments-khamenei-funeral-12158352",
-        "clean_url": "https://www.newsweek.com/trump-iran-comments-khamenei-funeral-12158352",
-        "image": "http://www.bing.com/th?id=ONUT.zJdjtnayHYAPpoc8Hr3XHg&pid=News",
-        "timestamp": 1783177560.0
-    },
-    {
-        "title_fa": "رد اطلاعاتی اسرائیل به درخواست نتانیاهو برای تأیید ادعای نابودی کامل برنامه هسته‌ای ایران",
-        "title_en": "Israeli intelligence rejects Netanyahu's request to back claim Iran's nuclear program was completely destroyed: Report",
-        "summary": [
-            "بر اساس گزارش آنادولو، اطلاعات اسرائیل درخواست نتانیاهو برای پشتیبانی از ادعای «نابودی کامل» برنامه هسته‌ای ایران را رد کرده است؛ یعنی ارزیابی‌های اطلاعاتی با روایت سیاسی نخست‌وزیر هم‌خوان نیست.",
-            "این فاصله میان «گزارش اطلاعاتی» و «ادعای رسمی/سیاسی» می‌تواند نشان‌دهنده نبود قطعیت در ارزیابی وضعیت واقعی برنامه هسته‌ای ایران باشد، نه یک دستاورد قطعی.",
-            "چنین ردّی معمولاً هزینه سیاسی و تبلیغاتی برای اسرائیل ایجاد می‌کند و می‌تواند بر توان آن برای شکل‌دهی اجماع بین‌المللی حول یک نتیجه قطعی، اثر منفی بگذارد."
-        ],
-        "impact": "این شکاف اطلاعاتی-سیاسی احتمالاً ادعای نابودی کامل را تضعیف کرده و فضا را برای تداوم اختلافات ارزیابی‌ها درباره وضعیت هسته‌ای ایران باز می‌گذارد.",
-        "tag": "اسرائیل",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRjBQdVdzcjg1RzF6NG1rSVpCaC1fQmU4Vmo5MGZwcnZaX1lfdU1wenFOS045ckxKTVZxVG5JN0NxVm9zUm9YU3NHdG5UYU1id1ZhaWFXZjBid3M1TnhyUFZQdmhGTEhVM0lFRW1uUGZiWkw3b1N6eG83U0hUa25iMnQybmJsZzRUMTlmN0pES0taWm1TblpZLWdEWHF3RXQ3Qi1tWkpzMTlCUUhBMXR3ZTBuSkdBWjFHV1Uza3JFSjFmTUZXVW1xVGhONDZxV1AzVGdQRkNtMlM1RkhlbGprMXJsY3JNVE8wd0FwV0xUMkFhZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRjBQdVdzcjg1RzF6NG1rSVpCaC1fQmU4Vmo5MGZwcnZaX1lfdU1wenFOS045ckxKTVZxVG5JN0NxVm9zUm9YU3NHdG5UYU1id1ZhaWFXZjBid3M1TnhyUFZQdmhGTEhVM0lFRW1uUGZiWkw3b1N6eG83U0hUa25iMnQybmJsZzRUMTlmN0pES0taWm1TblpZLWdEWHF3RXQ3Qi1tWkpzMTlCUUhBMXR3ZTBuSkdBWjFHV1Uza3JFSjFmTUZXVW1xVGhONDZxV1AzVGdQRkNtMlM1RkhlbGprMXJsY3JNVE8wd0FwV0xUMkFhZw",
-        "image": null,
-        "timestamp": 1783175777.0
     }
 ]
