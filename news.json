@@ -133,6 +133,25 @@
         "timestamp": 1785812400.0
     },
     {
+        "id": "8608be6f66",
+        "title_fa": "رخواست ایران از ترامپ: انتخابات آمریکا «به ما ربطی ندارد»",
+        "title_en": "US election 'not really our business,' says Iran as its currency rial hits record low post-Trump win",
+        "summary": [
+            "سخنگوی دولت ایران گفت نتیجه انتخابات ریاست‌جمهوری آمریکا تغییری در سیاست‌های تهران ایجاد نمی‌کند و «مسئله ما نیست»؛ ادعا از جنس آرام‌سازی افکار عمومی است.",
+            "هم‌زمان، ریال بعد از پیروزی ترامپ به کمترین سطح تاریخی در برابر دلار رسید؛ بازار عملاً حرف دولت را با یک شوک ارزی بی‌اعتبار کرد و ترس از فشارهای تازه را بالا برد.",
+            "سناریوی محتمل این است که بانک مرکزی دوباره با تزریق ارز یا اقدامات کنترلی تلاش کند نرخ را مهار کند؛ اما این بار ریسک «سیاست تحریمی ثابت نخواهد ماند» بیشتر از قبل به قیمت ارز تبدیل می‌شود."
+        ],
+        "impact": "ترامپ‌محور شدن فضای تحریم و جنگ روانی، به سرعت به افت ریال و هزینه مبادله واردات ایران می‌خورد.",
+        "tag": "ارز",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "WION",
+        "url": "https://www.wionews.com/world/us-election-not-really-our-business-says-iran-as-rial-hits-record-low-post-trump-win-774030",
+        "clean_url": "https://www.wionews.com/world/us-election-not-really-our-business-says-iran-as-rial-hits-record-low-post-trump-win-774030",
+        "image": "https://cdn.wionews.com/sites/default/files/2024/11/06/464643-2024-11-06t114844z1lynxmpeka50irrtroptp4usa-election-iran.JPG?imwidth=1200&imheight=900",
+        "timestamp": 1785809880.0
+    },
+    {
         "id": "be9307c84a",
         "title_fa": "ترامپ جنگ‌افزار می‌سوزاند؛ تهران هزینه‌ را بالا می‌برد",
         "title_en": "This is how Trump has (once again) taken a stand on Iran. The depleted arsenal and Tehran's determination to raise the cost of war",
@@ -5636,24 +5655,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785017061.0,
         "id": "f60ad035e0"
-    },
-    {
-        "title_fa": "حوثی‌ها یک جبهه تازه علیه آمریکا و ایران در عمل ایجاد کرده‌اند",
-        "title_en": "The Houthis Have Opened a New Front in the U.S.-Iran War",
-        "summary": [
-            "طبق گزارش WSJ، حوثی‌ها با گسترش حملات خود عملاً «جبهه جدیدی» را در جنگ غیرمستقیم آمریکا-ایران فعال کرده‌اند و این یعنی درگیری فقط به یک کانون محدود نیست.",
-            "این تحول می‌تواند فشار امنیتی و عملیاتی بیشتری بر نیروها و مسیرهای مرتبط با آمریکا وارد کند و هزینه مدیریت ریسک را برای واشنگتن بالا ببرد؛ نتیجه مستقیم، تشدید احتمال پاسخ‌های مقابله‌ای است.",
-            "برای تهران، این سناریو به معنای گسترش دامنه درگیری‌های نیابتی پیرامون منافع آمریکا است و می‌تواند محاسبات رژیم درباره زمان‌بندی تنش و کنترل پیامدها را پیچیده‌تر کند."
-        ],
-        "impact": "گشودن جبهه جدید، احتمال چرخه کنش-واکنش نظامی را بالا می‌برد و ریسک تشدید تنش میان آمریکا و شبکه‌های نیابتی ایران را افزایش می‌دهد.",
-        "tag": "جبهه‌جدید",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "WSJ",
-        "url": "https://www.msn.com/en-us/news/other/the-houthis-have-opened-a-new-front-in-the-us-iran-war/ar-AA28ykt4",
-        "clean_url": "https://www.msn.com/en-us/news/other/the-houthis-have-opened-a-new-front-in-the-us-iran-war/ar-AA28ykt4",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785015455.0,
-        "id": "68f04c9350"
     }
 ]
