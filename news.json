@@ -1,5 +1,23 @@
 [
     {
+        "id": "69cab7f84f",
+        "title_fa": "سوال داغ: ایران بعد از اهرم هرمز هنوز اتم می‌خواهد؟",
+        "title_en": "Does Iran still need nuclear weapon after Hormuz leverage?",
+        "summary": [
+            "این گزارش می‌گوید با پررنگ شدن مسئله تنگه هرمز، بحث «نیاز ایران به سلاح هسته‌ای» از کانون توجه خارج شده؛ انگار ایران در میدان فشار، اهرم دیگری پیدا کرده است.",
+            "صورت مسئله این نیست فقط «ساخت اتم»، بلکه این است که آیا تهران هنوز برای بازدارندگی، گزینه اتمی را لازم می‌بیند یا اهرم‌های عملیاتی در خلیج فارس کافی است—حتی اگر توان‌ ساخت هم در سطح قابل‌اتکا باقی مانده باشد."
+        ],
+        "impact": "تمرکز جنگ روانی از اتم به اهرم هرمز می‌لغزد و احتمالاً هر دو طرف، مذاکره/فشار را حول تنگه تنظیم می‌کنند.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.1,
+        "source": "Newspoint",
+        "url": "https://www.msn.com/en-in/news/other/does-iran-still-need-nuclear-weapon-after-hormuz-leverage/ar-AA29lNAr",
+        "clean_url": "https://www.msn.com/en-in/news/other/does-iran-still-need-nuclear-weapon-after-hormuz-leverage/ar-AA29lNAr",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA21rDQl.img?w=640&h=360&m=4&q=50",
+        "timestamp": 1785828733.0
+    },
+    {
         "id": "c5b51238a6",
         "title_fa": "دوحه: دیپلماسی برای پایان جنگ آمریکا-ایران هنوز در جریان",
         "title_en": "Iran live updates: Diplomatic efforts to end war ongoing, Qatari official says",
@@ -75,6 +93,24 @@
         "clean_url": "https://www.huffpost.com/entry/us-iran-talks-uncertain_n_6a71be31e4b02974827b0778",
         "image": "http://www.bing.com/th?id=ONUT.REPWZfjnFOAbJhE-EccQAA&pid=News",
         "timestamp": 1785814260.0
+    },
+    {
+        "id": "5b9314e592",
+        "title_fa": "اهرم ایران در تنگه هرمز؛ دنبال بمب می‌خواهد یا مجبور است؟",
+        "title_en": "With its new leverage over the Strait of Hormuz, does Iran want - or need",
+        "summary": [
+            "وقتی جنگ آمریکا علیه ایران کش‌دار و بی‌پایان می‌شود، بحث «نیاز یا خواست ایران برای سلاح هسته‌ای» از اولویت اول بیرون می‌رود و تنگه هرمز جای آن را می‌گیرد.",
+            "متن خبر می‌گوید گره اصلی فعلاً «ستون فشار» روی کشتی‌ها و تجارت است، اما سؤال واقعیِ پشت پرده این است که آیا ایران هنوز توان ساخت بمب را دارد یا نه—یعنی اهرم جدید در هرمز ممکن است ابزار چانه‌زنی باشد، نه لزوماً مسیر ساخت سلاح."
+        ],
+        "impact": "اگر ایران اهرم تنگه هرمز را عمدی به‌عنوان کارت فشار نگه دارد، می‌تواند بدون جهش مستقیم به سطح ساخت سلاح، طرف مقابل را درگیر بحران انرژی و امنیت دریایی کند.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "The Conversation",
+        "url": "https://www.msn.com/en-au/news/other/with-its-new-leverage-over-the-strait-of-hormuz-does-iran-want-or-need-a-nuclear-weapon/ar-AA29lnfS",
+        "clean_url": "https://www.msn.com/en-au/news/other/with-its-new-leverage-over-the-strait-of-hormuz-does-iran-want-or-need-a-nuclear-weapon/ar-AA29lnfS",
+        "image": "https://images.theconversation.com/files/751878/original/file-20260804-50-ijdefa.jpg?ixlib=rb-4.1.1&rect=0,174,2000,1000&q=45&auto=format&w=1356&h=668&fit=crop",
+        "timestamp": 1785813501.0
     },
     {
         "id": "5b6d8eae2f",
@@ -5619,43 +5655,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785015455.0,
         "id": "68f04c9350"
-    },
-    {
-        "title_fa": "گزینه‌های دیگر ترامپ برای هدف‌گیری هسته‌ای ایران؛ فراتر از «پیک‌اکس»",
-        "title_en": "It Isn’t Just Pickaxe: Trump’s Other Potential Nuclear Targets in Iran",
-        "summary": [
-            "گزارش WSJ می‌گوید در کنار «پیک‌اکس»، ترامپ گزینه‌های دیگری برای هدف‌گیری زیرساخت‌های هسته‌ای ایران نیز در نظر دارد؛ یعنی پیام تهدید صرفاً محدود به یک سناریوی واحد نیست.",
-            "این نوع فهرست‌برداری از «اهداف بالقوه» از منظر فشار خارجی، قابلیت اعمال شوک ساختاری بر محاسبات رژیم را بالا می‌برد: رژیم باید میان ادامه برنامه هسته‌ای و ریسک از بین رفتن زیرساخت‌های کلیدی انتخاب‌های سخت‌تری داشته باشد.",
-            "در سطح داخلی، چنین سیگنال‌هایی معمولاً به تشدید عدم‌اطمینان و ریسک‌پذیری دولت در مدیریت اقتصاد منجر می‌شود؛ اما چون متنِ ارائه‌شده جزئیات عملیات یا اقدامات اجرایی را تأیید نمی‌کند، نمی‌توان از وقوع ضربه یا فروپاشی فوری چیزی نتیجه گرفت."
-        ],
-        "impact": "اگر تهدیدهای چندلایه به مرحله اقدام برسند، هزینه حفظ و توسعه برنامه هسته‌ای به‌صورت جدی‌تر و چندمنبعی بالا می‌رود و ثبات تصمیم‌گیری رژیم را شکننده‌تر می‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "WSJ",
-        "url": "https://www.wsj.com/world/middle-east/it-isnt-just-pickaxe-trumps-other-potential-nuclear-targets-in-iran-975e960e",
-        "clean_url": "https://www.wsj.com/world/middle-east/it-isnt-just-pickaxe-trumps-other-potential-nuclear-targets-in-iran-975e960e",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785013200.0,
-        "id": "631cff7604"
-    },
-    {
-        "title_fa": "حیرت اسرائیل از تصمیم لحظه‌اخیر ترامپ برای عدم حمله به ایران و بازگشت به مذاکرات",
-        "title_en": "Israel Caught Off Guard as Trump Decided Last Minute Not to Strike Iran, Return to Negotiations",
-        "summary": [
-            "به گزارش Haaretz، اسرائیل به‌دلیل تصمیم ناگهانی ترامپ در لحظه پایانی برای وارد نشدن به فاز حمله به ایران، از قبل غافلگیر شد.",
-            "این تصمیم در روایت رسانه‌ای به معنای تغییر مسیر از گزینه فشار نظامی به سمت از سرگیری روند مذاکره معرفی شده است.",
-            "همین «برگشت به مذاکرات» نشان می‌دهد محاسبات امنیتی و برنامه‌ریزی عملیاتی اسرائیل تحت‌تأثیر تصمیمات متغیر کاخ سفید قرار گرفته است."
-        ],
-        "impact": "این تغییر ناگهانی احتمالاً ریسک «سردرگمی راهبردی» را برای طرف‌های درگیر بالا می‌برد و زمان تنفس جدیدی برای طرف ایرانی در چارچوب مذاکرات فراهم می‌کند، اما نشانه‌ای از کاهش فشار سیاسی نیست.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Haaretz",
-        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNRlNEOWpOT21acUE5ZEhVaGtiRXFNZXVDVmVYX2UyNzlKYlA2Yk50dHF3YWtzRC1zYV8yUkdsTDFmclZCWHptWXh1ZGtmaWxtX2tFakxXc3lfZUM3WDBoa3JqYjVqV3pTOEVGekRvd3R4ZEZNQV9MSEFjUjdadVN6WXRUSGstOVI1UlFNb3J2ZUtaMTRUc3VOY1hSZE5rWnMtYW1pSDZCNzRmdmdRRVQ4S0E5NW5GSHBhWmZ3clh6N0NZLVRrRDBETk8xcGtBVnFhQkdsV2p2b2hqbTAwVnVmRnNCSnVjWF9UV1FUS3N5dUpGOGwxcWNhcEFFZjZqVlFwbXVLdXlzcnQ0Yk9MT0g0QnpaQkFNOTRZR3Fr?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNRlNEOWpOT21acUE5ZEhVaGtiRXFNZXVDVmVYX2UyNzlKYlA2Yk50dHF3YWtzRC1zYV8yUkdsTDFmclZCWHptWXh1ZGtmaWxtX2tFakxXc3lfZUM3WDBoa3JqYjVqV3pTOEVGekRvd3R4ZEZNQV9MSEFjUjdadVN6WXRUSGstOVI1UlFNb3J2ZUtaMTRUc3VOY1hSZE5rWnMtYW1pSDZCNzRmdmdRRVQ4S0E5NW5GSHBhWmZ3clh6N0NZLVRrRDBETk8xcGtBVnFhQkdsV2p2b2hqbTAwVnVmRnNCSnVjWF9UV1FUS3N5dUpGOGwxcWNhcEFFZjZqVlFwbXVLdXlzcnQ0Yk9MT0g0QnpaQkFNOTRZR3Fr",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785012960.0,
-        "id": "f689f58212"
     }
 ]
