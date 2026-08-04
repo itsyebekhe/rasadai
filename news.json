@@ -1,5 +1,82 @@
 [
     {
+        "id": "f828356ac2",
+        "title_fa": "اکونومیست: شانس تداوم قدرت نتانیاهو زیر سؤال",
+        "title_en": "Will Binyamin Netanyahu hold on to power?",
+        "summary": [
+            "اکونومیست با تکیه بر میانگین نظرسنجی‌های اخیر می‌گوید احتمال ماندن نتانیاهو در قدرت قطعی نیست و آرایش سیاسی اسرائیل می‌تواند سریع جابه‌جا شود.",
+            "اشاره می‌کند که به خاطر خطای رُندینگ و «آستانه انتخاباتی» ممکن است اعداد دقیقاً جمع نشوند؛ اما پیام اصلی روشن است: نتایج انتخابات ۲۷ اکتبر می‌تواند توازن پارلمان را به نفع مخالفان تغییر دهد."
+        ],
+        "impact": "نگرانی از شکنندگی سیاسی نتانیاهو ممکن است تصمیم‌گیری‌های امنیتی و سیاست خارجی تل‌آویو را در آستانه انتخابات کندتر یا تاکتیکی‌تر کند.",
+        "tag": "سیاسی-انتخابات",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "The Economist",
+        "url": "https://www.economist.com/interactive/2026-israel-election-tracker",
+        "clean_url": "https://www.economist.com/interactive/2026-israel-election-tracker",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1785856560.0
+    },
+    {
+        "id": "947d176066",
+        "title_fa": "پیش‌نویس توافق آمریکا-ایران در گردش؛ عمان و هرمز در تب",
+        "title_en": "Drafts of potential US-Iran agreement are ‘being circulated,’ Qatar says",
+        "summary": [
+            "قطر می‌گوید گفت‌وگوهای آمریکا-ایران «در مراحل پیشرو» است و «پیش‌نویس‌های احتمالی» در حال دست‌به‌دست شدن‌اند، اما هنوز تماس مستقیم دو طرف برقرار نیست؛ یعنی بیشتر شبیه کانال‌سازی و هماهنگی پشت‌پرده است تا میز رسمی مذاکره.",
+            "همزمان، هم‌زمانی اخبار از هرمز و پیامدهای امنیت دریایی جالب است: آمریکا از «پیشرفت تا آستانه توافق» حرف می‌زند، اما تحلیل‌گران محتاط‌اند و یک کشتی هم بعد از اصابت یک شیء ناشناس دچار قطعی برق شده؛ این یعنی هم معامله در جریان است، هم ریسک عملیاتی همچنان بالا.",
+            "در مذاکرات ایران و عمان، هدف کوتاه‌مدت تا سه ماهه «تنظیم موقت» است؛ به تهران امکان می‌دهد کنترل/مدیریت یک مسیر از تنگه را در دوره توافق‌نما داشته باشد، در حالی‌که قطر روی آزادی کشتیرانی و اجماع منطقه‌ای تأکید می‌کند؛ شکاف بین منطق کنترل مسیر و منطق آزادی کشتیرانی می‌تواند گره اصلی هر توافق آینده باشد.",
+            "در سطح توان دفاعی هم هشدار می‌آید: آمریکا می‌گوید تقریباً ۸۰٪ رهگیرهای سامانه دفاع موشکی حیاتی خرج شده و ذخایر مهمات «به‌شدت پایین» است؛ چنین وضعیتی معمولاً دولت‌ها را به سمت توافق‌های کوتاه‌مدت و مدیریت ریسک می‌برد، نه چرخه طولانی تشدید."
+        ],
+        "impact": "احتمال توافق یا تفاهم در حال بالا رفتن است، اما هم‌زمان ناامنی عملیاتی در هرمز و کاهش رهگیرهای آمریکا، هر توافق را شکننده و نیازمند زمان‌بندی دقیق می‌کند.",
+        "tag": "توافق، هرمز، مذاکرات",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/04/world/live-news/iran-war-trump?post-id=cmsewg7dp00003b6yf71nvrjy",
+        "clean_url": "https://www.cnn.com/2026/08/04/world/live-news/iran-war-trump",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2235105352.jpg?c=16x9&q=w_800,c_fill",
+        "timestamp": 1785853920.0
+    },
+    {
+        "id": "95aedb7f65",
+        "title_fa": "تهران جنگ با آمریکا را سکوی دائمی برای هرمز می‌کند",
+        "title_en": "How Iran Is Using War With US to Forever Reshape the Middle East",
+        "summary": [
+            "خبرسازی آمریکا درباره تمرکز ایران روی هسته‌ای رد می‌شود؛ گزارش می‌گوید هدف اصلی تهران «قفل‌کردن» دستاورد جنگی در شکل کنترل و نفوذ پایدار بر تنگه هرمز است.",
+            "به‌عنوان اهرم راهبردی، تنگه هرمز هم ابزار فشار جنگی بوده و هم می‌تواند به «معادله هزینه-فایده» تبدیل شود؛ یعنی حتی اگر موضوع غنی‌سازی سر و سامان بگیرد، تهران اطمینان می‌خواهد که دست آمریکا برای مداخله دوباره بسته بماند.",
+            "ردی از یک سازوکار درآمدی-دریایی میان ایران و عمان مطرح شده: «کارمزد خدمات» از مسیر دو کشور هم‌مسیر خط نفت و گاز؛ ایده‌ای که می‌تواند تبدیل به چارچوبی رسمی برای تثبیت حق اثرگذاری تهران روی کریدور انرژی شود.",
+            "این حرکت صرفاً اقتصادی یا تاکتیکی نیست؛ متن از «بازی بزرگ‌تر» می‌گوید که می‌خواهد نظم منطقه را برای همیشه تغییر دهد، نه فقط یک دوره جنگ را مدیریت کند."
+        ],
+        "impact": "اگر چارچوب کارمزد و نفوذ روی تنگه هرمز رسمی شود، ریسک لجستیک و قیمت انرژی در منطقه بالا می‌رود و آمریکا و شرکا برای هر توافق آینده مجبور به چانه‌زنی جدی‌تر می‌شوند.",
+        "tag": "نیابتی-نظامی/تنگه هرمز",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/how-iran-using-war-us-reshape-middle-east-12282426",
+        "clean_url": "https://www.newsweek.com/how-iran-using-war-us-reshape-middle-east-12282426",
+        "image": "http://www.bing.com/th?id=ONUT.oeUDAIOn9sr1Q3Vdwi7LxA&pid=News",
+        "timestamp": 1785849360.0
+    },
+    {
+        "id": "e0f1ff9d7d",
+        "title_fa": "ایران می‌گوید در آتش‌بس با آمریکا «حداکثر استفاده» کرد",
+        "title_en": "‘Maximum use’: Iran boosts military strength during ceasefire with US",
+        "summary": [
+            "سخنگوی ارتش ایران می‌گوید هم‌زمان با آتش‌بس با آمریکا، «حداکثر استفاده» کرده‌اند: هم تجهیزات موجود را جذب کرده‌اند، هم تعمیر و بازیابی سامانه‌های آسیب‌دیده و هم تولید/ورود تجهیزات جدید را جلو برده‌اند.",
+            "در سطح عملیاتی، تأکید روی پهپادهای نسل جدید است؛ هم تولید موشک و پهپاد «قطع نشده» و حتی «چند برابر» شده، اما عدد دقیق نداده‌اند؛ یعنی محور پیام، نمایش ظرفیت انباشت توان در زمان توقف جنگ است.",
+            "هم‌زمان واشینگتن از احتمال نزدیک شدن توافق درباره تنگه هرمز حرف می‌زند و ترامپ هم خواستار «توافق یا تسلیم کامل» شده؛ تهران پاسخ می‌دهد مذاکرات می‌تواند ادامه پیدا کند، ولی تقویت توان نظامی هم‌چنان اولویت دارد."
+        ],
+        "impact": "این پیام یعنی ایران آتش‌بس را صرفاً فرصت مذاکره نمی‌بیند؛ آن را برای آماده‌سازی رزمی پیش برده و ریسک تشدید را در صورت شکست مذاکرات بالا نگه می‌دارد.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": 0.3,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/maximum-iran-boosts-military-strength-183448682.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/maximum-iran-boosts-military-strength-183448682.html",
+        "image": "http://www.bing.com/th?id=ONUT.mwzqMgtPFB9XX7GLUhyRbA&pid=News",
+        "timestamp": 1785843240.0
+    },
+    {
         "id": "ce77e49313",
         "title_fa": "دیپلماسی هسته‌ای با ایران دوباره قفل شد",
         "title_en": "Getting Nuclear Diplomacy with Iran Back on Track",
@@ -18,6 +95,26 @@
         "clean_url": "https://www.nationofchange.org/2026/08/04/getting-nuclear-diplomacy-with-iran-back-on-track",
         "image": "https://i0.wp.com/s3.us-east-2.amazonaws.com/media.nationofchange.org/wp-content/uploads/2026/08/04051018/vienna-international-centre.jpg?fit=1500%2C1125&ssl=1",
         "timestamp": 1785839700.0
+    },
+    {
+        "id": "bfc112f7ee",
+        "title_fa": "ترامپ: آخرین شانس؛ تهران: مذاکره‌ای با آمریکا نیست",
+        "title_en": "Is this Trump’s last ‘last chance’? Ceaseless string of broken ceasefires fuels doubt over Iran deal",
+        "summary": [
+            "ترامپ به ایران یک «آخرین شانس» برای توافق می‌دهد و همزمان می‌گوید گفت‌وگوهای غیرمستقیم می‌تواند مسیر ازسرگیری تنش در تنگه هرمز و سپس ورود به پرونده هسته‌ای را باز کند.",
+            "تهران ادعای مذاکره با آمریکا را رد می‌کند و می‌گوید فقط گفت‌وگوهای محدود با عمان برای ایجاد یک کریدور موقت دریایی مطرح است؛ یعنی بازی «فشار آخر» از سوی واشنگتن با روایت «مذاکره نبود» از سوی تهران هم‌زمان پیش می‌رود.",
+            "تناقضِ حرف‌های دو طرف باعث شده «توافق ایران» در پرده ابهام بماند: ترامپ لغو حمله بزرگ را محصول مذاکره معرفی می‌کند، اما تهران هیچ هیأتی از آمریکا یا فضای چانه‌زنی رسمی را نمی‌پذیرد.",
+            "اتهام «دوپهلو بودن» از سوی ترامپ، بیشتر از اینکه گزارش واقعیت دیپلماتیک بدهد، کارت جنگ روانی برای وادار کردن تهران به پذیرش چارچوب توافق مدنظر آمریکاست."
+        ],
+        "impact": "ریسک درگیری در تنگه هرمز بالا می‌ماند چون هر دو طرف درباره «وجود مذاکره واقعی» اختلاف دارند و ترامپ فشار را تا آستانه اقدام نظامی نگه می‌دارد.",
+        "tag": "دیپلماتیک",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-last-last-chance-ceaseless-161113132.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-last-last-chance-ceaseless-161113132.html",
+        "image": "http://www.bing.com/th?id=ONUT.t8KXOrexMd_aZg8qXOYLDQ&pid=News",
+        "timestamp": 1785834660.0
     },
     {
         "id": "69cab7f84f",
@@ -5561,100 +5658,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785040698.0,
         "id": "90e41c0c83"
-    },
-    {
-        "title_fa": "ارزیابی اطلاعاتی آمریکا: توجه بالاتر موجتبا خامنه‌ای به پیگیری سلاح هسته‌ای",
-        "title_en": "American intelligence agencies believe that Iran’s new supreme leader, Ayatollah Mojtaba Khamenei, is far more interested than his father and predecessor in pursuing a nuclear weapon, according to officials briefed on the assessments.",
-        "summary": [
-            "طبق ادعای مقام‌های مطلع از ارزیابی‌های اطلاعاتی، نهادهای اطلاعاتی آمریکا معتقدند «موجتبا خامنه‌ای» نسبت به پدر و جانشین پیشین خود، انگیزه و تمرکز بیشتری برای پیگیری سلاح هسته‌ای دارد.",
-            "این گزارش، بدون ارائه جزئیات فنی یا شواهد علنی، بر تفاوت در اولویت‌گذاری رهبری جدید نسبت به خط‌مشی هسته‌ای تأکید می‌کند و چارچوب تصمیم‌سازی آمریکا را برای فشار یا مهار سخت‌تر می‌چیند.",
-            "در این روایت، محور تحلیل امنیتی آمریکا «جهت‌گیری سیاسی-استراتژیک» رهبر جدید است؛ نه یک رویداد اجرایی مشخص مثل تست، اعلام رسمی یا اقدام صنعتی قابل راستی‌آزمایی در متن."
-        ],
-        "impact": "اگر ارزیابی آمریکا درست باشد، احتمال افزایش فشار خارجی و تشدید مسیرهای مهار هسته‌ای علیه رژیم بالا می‌رود.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "facebook.com",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVB5Mjd2QTh6ZTd5OUhTYVFIWk1zdEl5SnQ1Ni0xcDdtaC1oSmR1SllpQVd4OVBza25vZmR3bUhKelUxSEtYWnE0VEpzenZWdTdVNXBrSEpqcVhNSDhoSWxaT0lRcEhEZXB6dFRVZDFzd1VRTWVHcDF6YnRKN0hrOTVZaDM1bjB1VHB1WjkxWGZjYTNjOGtxeHN1Z3I4dzlOVFQ1MDRYUGMtLXROQTd5VWhUcnVoWFU5SGN6U3VuT0djZC1tZ0duX3BXcmtlM1R2M3BR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQLVB5Mjd2QTh6ZTd5OUhTYVFIWk1zdEl5SnQ1Ni0xcDdtaC1oSmR1SllpQVd4OVBza25vZmR3bUhKelUxSEtYWnE0VEpzenZWdTdVNXBrSEpqcVhNSDhoSWxaT0lRcEhEZXB6dFRVZDFzd1VRTWVHcDF6YnRKN0hrOTVZaDM1bjB1VHB1WjkxWGZjYTNjOGtxeHN1Z3I4dzlOVFQ1MDRYUGMtLXROQTd5VWhUcnVoWFU5SGN6U3VuT0djZC1tZ0duX3BXcmtlM1R2M3BR",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785038108.0,
-        "id": "a0275d3df5"
-    },
-    {
-        "title_fa": "اتهام حمله اوکراین به کشتی ایرانی در دریای خزر؛ تهران هشدار تشدید می‌دهد و کیف از دخالت روسیه می‌گوید",
-        "title_en": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
-        "summary": [
-            "تهران اعلام کرد یک حمله به یک کشتی تجاری ایرانی در دریای خزر رخ داده و پس از آن سفیران اوکراین احضار شدند؛ ایران این اقدام را «خصمانه و جنایتکارانه» توصیف کرد و از امکان ادامه تنش هشدار داد.",
-            "ولودیمیر زلنسکی گفت حملات دوربرد به کشتی‌هایی صورت گرفته که محموله نظامی مرتبط با ایران حمل می‌کردند و همچنین یک ناو روسی را هدف قرار داده است؛ او هم‌زمان مسکو را به کمک به کارزار نظامی ایران علیه ایالات متحده متهم کرد.",
-            "در حالی که میانجی‌گری برای جلوگیری از تشدید ادامه دارد و پیشنهاد «وقفه ۱۰ روزه» برای ازسرگیری مذاکرات مطرح شده، این رخداد می‌تواند دریای خزر را که پیش‌تر مسیر امن‌تری برای تجارت ایران تلقی می‌شد، به میدان تنش جدید تبدیل کند."
-        ],
-        "impact": "ورود دریای خزر به فهرست مناطق پرریسک، فشار عملیاتی بر مسیرهای دریایی ایران را بالا می‌برد و احتمال کشیده شدن رقابت‌های اوکراین و خاورمیانه به یک جبهه تازه را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/strait-hormuz-red-sea-iran-104523833.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/strait-hormuz-red-sea-iran-104523833.html",
-        "image": "http://www.bing.com/th?id=ONUT.Z4oCAI-B_IJWcdx7pAjUmQ&pid=News",
-        "timestamp": 1785037500.0,
-        "id": "9b10f93555"
-    },
-    {
-        "title_fa": "نگرانی ترامپ از رهگیرهای منطقه و خودداری از تشدید تنش با ایران",
-        "title_en": "Donald Trump concerned over Middle East interceptors, will not escalate with Iran",
-        "summary": [
-            "طبق گزارش Jerusalem Post، ترامپ از وضعیت سامانه‌های رهگیری در منطقه نگران است و همین نگرانی را عامل عدم تمایل به تشدید برخورد با ایران معرفی می‌کند.",
-            "این موضع یعنی واشینگتن در کوتاه‌مدت مسیر «افزایش فشار نظامی» را انتخاب نمی‌کند و احتمال درگیری مستقیم یا تشدید سریع را کاهش می‌دهد.",
-            "در سطح راهبردی، تمرکز بر رهگیرها نشان می‌دهد که ملاحظات دفاعی/هزینه-فایده در محاسبات آمریکا پررنگ است و هر اقدام علیه ایران به احتمال زیاد باید با ملاحظه کارایی دفاع هوایی صورت بگیرد."
-        ],
-        "impact": "این اعلامیه بیشتر یک سیگنال کنترل‌شده از سوی آمریکا برای جلوگیری از تشدید سریع است تا یک تغییر بنیادین در سیاست فشار یا تحریم.",
-        "tag": "آمریکا-ایران",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1abWtzaTl6VTdKZzhHdy05aElpZlZWMEZBeGJocUVaSHVHS0txNVFlZXIwN1NqWnM4RDRIZUlubHktSERIZ3lOTUJaVVpURDEtZEF2VUJydVdPYXhvODVxRHVjVmdvTFd0ZkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1abWtzaTl6VTdKZzhHdy05aElpZlZWMEZBeGJocUVaSHVHS0txNVFlZXIwN1NqWnM4RDRIZUlubHktSERIZ3lOTUJaVVpURDEtZEF2VUJydVdPYXhvODVxRHVjVmdvTFd0ZkE",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785027908.0,
-        "id": "9c24bbc749"
-    },
-    {
-        "title_fa": "گسترش جنگ ایران به دریای سرخ و دریای خزر؛ سکوت خلیج فارس با تصمیم آمریکا برای خودداری از ضربه",
-        "title_en": "Iran war spreads to Red Sea and Caspian, Gulf quiet as US forgoes strikes",
-        "summary": [
-            "طبق گزارش رویترز، درگیری‌ها به پهنه‌های دریای سرخ و دریای خزر کشیده شده که نشان‌دهنده توسعه جغرافیایی عملیات‌های مرتبط با جنگ است و فشار امنیتی را از مرزهای محدود فراتر می‌برد.",
-            "هم‌زمان «خلیج فارس» آرام گزارش شده؛ این یعنی اثر بازدارندگی یا کنترل ریسک در کوتاه‌مدت پابرجا مانده و فعالیت مستقیم میدانی گسترده در همان محدوده رخ نداده است.",
-            "کلید ماجرا در بخش واکنش آمریکا است: واشینگتن از اجرای «ضربه» صرف‌نظر کرده که به معنای عقب‌نشینی تاکتیکی/محاسبه پرهزینه‌بودن تشدید است و احتمالاً به موازات گسترش جنگ، از رسیدن آن به سطح رویارویی مستقیم جلوگیری کرده است."
-        ],
-        "impact": "این الگوی «گسترش میدان جنگ بدون اقدام مستقیم آمریکا» ریسک طولانی‌شدن و پراکنده‌شدن درگیری‌ها را بالا می‌برد، اما فعلاً از یک جهش به تقابل مستقیم نظامی جلوگیری می‌کند.",
-        "tag": "امنیت_منطقه‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnVSWlhuMFM5LW94bUxZY2tSeDlTX3p1RC1yNk10aVJobG02aVpFeGc3bFowLVZIT01sQk5yekpRWHNUYmhiS3gxSmJTbF9YU2hROXlmQ3hSMVFvaVpDZlhuUXp6N0d4c2lERjlra2NFeXp6Y1Uwd3M2U3prWUp2LTNvMG5Zd05laVktTmJXaXFTNnp4V3U2RkUwV0FNM04yc0dsQWZKc1BtOFk2aDFKQlUwc21pdW9k",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785021480.0,
-        "id": "e0cf1deaee"
-    },
-    {
-        "title_fa": "آمریکا حملات علیه ایران را متوقف می‌کند و «پنجره گفت‌وگو» را می‌بیند",
-        "title_en": "US halts strikes on Iran, sees opening for talks: What to know",
-        "summary": [
-            "بر اساس گزارش Al-Monitor، آمریکا در ادامه عملیات نظامی علیه ایران «حملات را متوقف کرده» و هم‌زمان مدعی است که فرصتی برای آغاز گفت‌وگو وجود دارد.",
-            "این تغییر لحن و رویکرد، فشار نظامی را از سطح اقدام فوری پایین می‌آورد؛ اما هم‌زمان پیام سیاسی می‌دهد که واشنگتن مایل است کانال مذاکره را به‌عنوان مسیر مدیریت ریسک فعال کند.",
-            "گزارش جزئیات دقیق از شروط یا محتوای احتمالی گفت‌وگو را ارائه نمی‌کند؛ بنابراین اثر فوری آن بیشتر در حوزه محاسبات امنیتی و کاهش احتمال درگیری مستقیم است تا در حل مسائل ساختاری."
-        ],
-        "impact": "توقف حملات، به‌طور کوتاه‌مدت احتمال تشدید سریع را کاهش می‌دهد، ولی «گفت‌وگو» بدون مشخص شدن چارچوب، تغییر بنیادین در وضعیت ایران ایجاد نمی‌کند.",
-        "tag": "diplomacy",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Al-Monitor",
-        "url": "https://www.al-monitor.com/originals/2026/07/us-halts-strikes-iran-sees-opening-talks-what-know",
-        "clean_url": "https://www.al-monitor.com/originals/2026/07/us-halts-strikes-iran-sees-opening-talks-what-know",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785019924.0,
-        "id": "523258ab40"
     }
 ]
