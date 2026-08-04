@@ -1,5 +1,25 @@
 [
     {
+        "id": "ce77e49313",
+        "title_fa": "دیپلماسی هسته‌ای با ایران دوباره قفل شد",
+        "title_en": "Getting Nuclear Diplomacy with Iran Back on Track",
+        "summary": [
+            "با ادامه جنگ و ناکامی در بازکردن مسیر تنگه هرمز، هدف اصلیِ مهار برنامه هسته‌ای ایران از مسیر «دیپلماسی» کنار زده شده؛ مذاکرات اتمی عملاً هفته‌هاست متوقف مانده.",
+            "مانع‌تراشی‌ها چندلایه است: نگاه بیش‌ازحد به گزینه فشار از سوی واشنگتن، بی‌اعتمادی تهران به آمریکا، و حالا ریسک یک «توافق هسته‌ای» آمریکا با عربستان که فضای مذاکره با ایران را تضعیف می‌کند.",
+            "مذاکره‌پذیریِ قبلی هم به هم خورد: توافق ۱۷ ژوئن (MOU) به خاطر جزئیات کم و بعدش بی‌عملی واشنگتن، عملاً از هم پاشیده؛ با این حال همان چارچوب شامل تعهد ایران به عدم ساخت سلاح و رسیدگی به موضوعات غنی‌سازی زیر نظر آژانس بود و آمریکا هم وعده «برداشتن تحریم‌ها» داده بود.",
+            "با وجود توافق اولیه، کاخ سفید پیگیری نکرد و تازه «رفع تحریم» برای فروش نفت ایران را هم لغو کرد؛ این یعنی معامله روی کاغذ ماند و طرف مقابل هم انگیزه‌ای برای ادامه نداد."
+        ],
+        "impact": "اگر واشنگتن روی همین مسیر بی‌عملی و عقب‌گرد تحریم‌ها برود، احتمال طرح‌های چندجانبه برای مهار هسته‌ای ایران بالا می‌رود و هزینه سیاسی مذاکره بیشتر می‌شود.",
+        "tag": "مذاکرات هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.55,
+        "source": "NationofChange",
+        "url": "https://www.nationofchange.org/2026/08/04/getting-nuclear-diplomacy-with-iran-back-on-track/",
+        "clean_url": "https://www.nationofchange.org/2026/08/04/getting-nuclear-diplomacy-with-iran-back-on-track",
+        "image": "https://i0.wp.com/s3.us-east-2.amazonaws.com/media.nationofchange.org/wp-content/uploads/2026/08/04051018/vienna-international-centre.jpg?fit=1500%2C1125&ssl=1",
+        "timestamp": 1785839700.0
+    },
+    {
         "id": "69cab7f84f",
         "title_fa": "سوال داغ: ایران بعد از اهرم هرمز هنوز اتم می‌خواهد؟",
         "title_en": "Does Iran still need nuclear weapon after Hormuz leverage?",
@@ -5636,24 +5656,5 @@
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785019924.0,
         "id": "523258ab40"
-    },
-    {
-        "title_fa": "جنگ ایران: شورشیان حوثی وعده پاسخ به حملات عربستان به الحدیده را دادند",
-        "title_en": "Iran war: Houthis vow response to Saudi strikes on Hodeida",
-        "summary": [
-            "بر اساس گزارش DW، شورشیان حوثی در پی حملات عربستان به بندر الحدیده در یمن اعلام کردند که «پاسخ» خواهند داد؛ این یعنی چرخه درگیری منطقه‌ای وارد فاز تشدیدی تازه می‌شود.",
-            "نکته راهبردی در همین گزارش این است که تهدید متقابل میان بازیگران درگیر در یمن، بدون پایان سیاسی، به احتمال افزایش حملات و اختلال بیشتر در مسیرهای حیاتی دریایی منجر می‌شود.",
-            "چون این روایت مستقیماً بر «حملات عربستان» و «پاسخ حوثی» تمرکز دارد، هرگونه اثر بر امنیت و اقتصاد منطقه‌ای می‌تواند زمینه‌ساز فشار بیشتر بر حامیان و هزینه‌های ادامه جنگ نیابتی باشد."
-        ],
-        "impact": "تشدید محتمل در یمن، خطر گسترش و طولانی‌شدن درگیری‌های نیابتی و افزایش هزینه‌های منطقه‌ای را بالا می‌برد.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "DW.com",
-        "url": "https://www.msn.com/en-us/war-and-conflicts/war-events/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/ar-AA28E44D",
-        "clean_url": "https://www.msn.com/en-us/war-and-conflicts/war-events/iran-war-houthis-vow-response-to-dangerous-escalation-by-saudi-arabia/ar-AA28E44D",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785017061.0,
-        "id": "f60ad035e0"
     }
 ]
