@@ -20,6 +20,24 @@
         "timestamp": 1785888000.0
     },
     {
+        "id": "e91a31c07f",
+        "title_fa": "سیگنال هرمز بسهنت به پزوی مکزیک جلا داد",
+        "title_en": "Bessent's Hormuz signal lifts Mexican peso: Rally may be thinner than it looks",
+        "summary": [
+            "پزوی مکزیک بعد از اظهارات بسهنت رشد تند گرفت؛ چون او گفت آمریکا و ایران می‌توانند ظرف ۴۸ ساعت تنگه هرمز را دوباره باز کنند.",
+            "واکنش بازار فوری است، اما «کم‌عمق بودن رالی» یعنی احتمالاً این حرکت بیشتر روی امید روانی به کاهش ریسک نفت سوار است تا تغییر واقعی و قطعی در مسیر تنش‌ها."
+        ],
+        "impact": "کوتاه‌مدت، کاهش قیمت نفت به‌خاطر امید به باز شدن هرمز می‌تواند فشار ارزی را از مکزیک کم کند، اما پایداری آن وابسته به اقدام عملی است.",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": 0.35,
+        "source": "Tech Times",
+        "url": "https://www.msn.com/en-us/money/economy/bessent-s-hormuz-signal-lifts-mexican-peso-rally-may-be-thinner-than-it-looks/ar-AA29orKd",
+        "clean_url": "https://www.msn.com/en-us/money/economy/bessent-s-hormuz-signal-lifts-mexican-peso-rally-may-be-thinner-than-it-looks/ar-AA29orKd",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA29pApO.img?w=2555&h=1761&m=4&q=94",
+        "timestamp": 1785886526.0
+    },
+    {
         "id": "ffb16af006",
         "title_fa": "ترامپ می‌گوید توافق نزدیک است؛ ایران نسخه خودش را می‌چینَد",
         "title_en": "Who's Really Negotiating Hormuz? Trump Says Deal Is Close; Iran Fires Back With a Different Version",
@@ -5642,24 +5660,5 @@
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785052805.0,
         "id": "d3b987657a"
-    },
-    {
-        "title_fa": "برنامه پنتاگون برای «تصاحب اورانیوم ایران» از دید منتقد، به‌معنای تهاجم است نه عملیات اجرایی",
-        "title_en": "ROBERT MAGINNIS: The Pentagon's plan to seize Iran's uranium isn't a raid. It's an invasion.",
-        "summary": [
-            "منبع مورد اشاره (Fox News) ادعا می‌کند برنامه پنتاگون برای دست‌بردن/تصاحب اورانیوم ایران در چارچوب «یورش/تهاجم» تعریف می‌شود، نه یک «حمله محدود یا عملیات ایزوله».",
-            "استدلال رسانه‌ای در گزارش بر این محور است که ماهیت اقدام، از کنترل یا انتقال امنیتی فراتر می‌رود و به سمت درگیری مستقیم امنیتی و سیاسی می‌لغزد.",
-            "متن به‌طور مشخص به نتایج فوری برای ایران یا جزئیات فنی برنامه (زمان‌بندی، محل، نوع نیرو یا مجوز) اشاره نمی‌کند و بیشتر بر چارچوب‌بندی تهدید متمرکز است."
-        ],
-        "impact": "این روایت اگر به اقدام واقعی نزدیک شود، می‌تواند ریسک تشدید تنش و واکنش‌های تلافی‌جویانه را بالا ببرد، بدون اینکه در گزارش منبع جزئیات قطعی ارائه شود.",
-        "tag": "ایران",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/opinion/robert-maginnis-pentagons-plan-seize-irans-uranium-isnt-raid-its-invasion",
-        "clean_url": "https://www.foxnews.com/opinion/robert-maginnis-pentagons-plan-seize-irans-uranium-isnt-raid-its-invasion",
-        "image": "http://www.bing.com/th?id=ONUT.uqaggPPGLXa5s1DFAxDCZQ&pid=News",
-        "timestamp": 1785051960.0,
-        "id": "261dd3fe7c"
     }
 ]
