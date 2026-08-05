@@ -1,5 +1,61 @@
 [
     {
+        "id": "a89cbfc420",
+        "title_fa": "آمریکا تحریم ضدتروریسم علیه «فلای بغداد» را برداشت",
+        "title_en": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا تحریم‌های ضدتروریسم را از ایرلاین عراقی «Fly Baghdad» و دو فروند هواپیما که از ۲۰۲۴ به‌خاطر ارتباط ادعایی با نیروی قدس وابسته به سپاه هدف گرفته بودند، لغو کرد.",
+            "این تصمیم یعنی واشنگتن عملاً مسیر تنش اقتصادی-امنیتی با یک بازیگر حمل‌ونقل عراق را بازتر کرده؛ هم‌زمان هم به تهران پیام می‌دهد که موضوع «اتصال به سپاه» را می‌شود با رفع ریسک/روایت‌ها از روی پرونده حذف کرد."
+        ],
+        "impact": "برداشتن تحریم ضدتروریسم احتمالاً هزینه‌های عملیاتی و محدودیت‌های بانکی/تجاری «Fly Baghdad» را کاهش می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.25,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/us-lifts-sanctions-on-fly-baghdad-previously-linked-to-irans-irgc/ar-AA29sXJG",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-lifts-sanctions-on-fly-baghdad-previously-linked-to-irans-irgc/ar-AA29sXJG",
+        "image": "https://www.reuters.com/resizer/v2/YKW2ZTXAYVNFRIPJU2TZJ37T6Y.jpg?auth=ea416c32665a702824f4e2b4c48496d1656c90fd43b7f181798c86997e1cbecb&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1785948291.0
+    },
+    {
+        "id": "5c1384ff6f",
+        "title_fa": "تهدید ایران به پاسخ به حملات آمریکا در خلیج",
+        "title_en": "Iran threatens to hit Gulf states if US launches new strikes",
+        "summary": [
+            "ایران اعلام کرده اگر آمریکا دوباره دست به حمله بزند، کشورهای حاشیه خلیج را هدف قرار خواهد داد؛ پیام روشن: هزینه‌گذاری برای منطقه، نه فقط برای واشینگتن.",
+            "این تهدید هم‌زمان با تقابل امنیتی آمریکا و ایران، در عمل نقش «بازدارندگی لفظی» دارد؛ یعنی از الان جنگ روانی روی سر راه می‌گذارد که گزینه‌های آمریکا بدون ریسک برای منطقه نیست."
+        ],
+        "impact": "اگر آمریکا حمله تازه‌ای کلید بزند، احتمال پاسخ‌ مستقیم یا غیرمستقیم ایران به مسیرهای حیاتی خلیج بالا می‌رود.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05/",
+        "clean_url": "https://www.reuters.com/world/middle-east/iran-threatens-hit-gulf-states-if-us-launches-new-strikes-2026-08-05",
+        "image": "http://www.bing.com/th?id=ONUT.IGTSdUXXZ_ZbC_wNmbDNMw&pid=News",
+        "timestamp": 1785940200.0
+    },
+    {
+        "id": "d0b66ebd12",
+        "title_fa": "انکار مذاکره آمریکا؛ احتمال ۵۰-۵۰ معامله ایران-عمان تا جمعه",
+        "title_en": "Tehran denies talks with US, as Gulf official says 50-50 chance of Iran-Oman deal on strait by Friday",
+        "summary": [
+            "عمان می‌گوید تا جمعه شانس رسیدن به توافق درباره کنترل/توافق کشتیرانی تنگه هرمز «۵۰-۵۰» است، اما طرف ایرانی تاکید می‌کند حتی توافق نزدیک، به معنی باز شدن خودکار مسیر نیست.",
+            "ایران همزمان هرگونه گفت‌وگو با آمریکا را رد می‌کند و می‌گوید رایزنی‌ها با عمان کاملاً دوجانبه است؛ هم‌زمان ترامپ وعده «بازگشایی خیلی زود» هرمز را داده و از «بحث‌های خیلی خوب» با تهران حرف زده است.",
+            "در سطح میدانی، یک کشتی در باب‌المندب بعد از حمله پهپاد/وسیله سطحی بدون سرنشین غرق شده؛ حادثه‌ای که در فضای تهدیدهای مکرر حوثی‌های مورد حمایت ایران علیه مسیرهای دریایی رخ داده است.",
+            "پزشکیان می‌گوید فشار تحریم و درگیری‌ها شرایط را سخت‌ترین دوره بعد از ۱۹۷۹ کرده؛ در همین چارچوب، ایران-عمان روی چارچوب حمل‌ونقل تجاری هرمز توافق‌های اولیه دارند ولی تضمین «باز شدن فوری» نمی‌دهند."
+        ],
+        "impact": "حتی اگر مذاکره ایران-عمان جلو برود، ایران با اهرم «باز نشدن خودکار» کنترل فشار را حفظ می‌کند و ریسک اختلال دریایی در منطقه با حملات علیه مسیرها بالا می‌ماند.",
+        "tag": "دیپلماتیک-نظامی",
+        "urgency": 7,
+        "sentiment": -0.2,
+        "source": "CNN International",
+        "url": "https://edition.cnn.com/2026/08/05/world/live-news/iran-war-trump?post-id=cmsfx9a4u0000356s7x417sym",
+        "clean_url": "https://edition.cnn.com/2026/08/05/world/live-news/iran-war-trump",
+        "image": "http://www.bing.com/th?id=ONUT.0m_Ks_YlCpQLZwXwW4oC9w&pid=News",
+        "timestamp": 1785940200.0
+    },
+    {
         "id": "03f5010860",
         "title_fa": "پیشنهاد معامله هرمز؛ ایران کنترل ورود را می‌گیرد",
         "title_en": "Proposed Hormuz deal would give Iran control of inbound traffic, sources say",
@@ -5599,62 +5655,5 @@
         "image": "http://www.bing.com/th?id=ONUT.lSw03UeGqe6yG2e2xT_RYw&pid=News",
         "timestamp": 1785074640.0,
         "id": "110763f48f"
-    },
-    {
-        "title_fa": "افزایش حس عدم‌قطعیت درباره جنگ ایران؛ اکثریت آن را سخت‌تر از انتظار می‌دانند",
-        "title_en": "CBS News poll finds Iran conflict marked by feelings of uncertainty; most say it's more difficult than Trump had expected",
-        "summary": [
-            "بر اساس نظرسنجی CBS News، فضای عمومی پیرامون درگیری/تنش با ایران با «عدم‌قطعیت» معنا پیدا کرده و بخش غالب پاسخ‌دهندگان این وضعیت را فراتر از تصور قبلی ارزیابی می‌کنند.",
-            "اکثریت شرکت‌کنندگان می‌گویند این درگیری «از انتظار ترامپ سخت‌تر» شده؛ یعنی پیامدهای میدان و مدیریت بحران با روایت اولیه هم‌خوان نیست.",
-            "این داده بیشتر نشان‌دهنده فرسایش اعتماد به برآوردهای سیاسی-عملی است تا اعلام یک پیشرفت مشخص؛ نشانه‌ای از هزینه‌برداری ادراکی و سیاسی در افکار عمومی است."
-        ],
-        "impact": "این نوع تغییر برداشت عمومی معمولاً فشار سیاسی بر تصمیم‌گیران را بالا می‌برد و کارایی محاسبات تبلیغاتی را زیر سؤال می‌برد.",
-        "tag": "افکارعمومی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "CBS News",
-        "url": "https://www.msn.com/en-us/news/politics/cbs-news-poll-finds-most-say-iran-conflict-more-difficult-than-trump-had-expected/ar-AA28ICQg",
-        "clean_url": "https://www.msn.com/en-us/news/politics/cbs-news-poll-finds-most-say-iran-conflict-more-difficult-than-trump-had-expected/ar-AA28ICQg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785070879.0,
-        "id": "721ed68355"
-    },
-    {
-        "title_fa": "آمریکا برای شب دوم حملات علیه ایران را متوقف کرد؛ بنیامین نتانیاهو زیر فشار انتخاباتی، و ترامپ بین گزینه دیپلماتیک و نظامی گیر کرده است",
-        "title_en": "US pauses Iran attacks for second night after Trump advised to halt bombing",
-        "summary": [
-            "آمریکا برای شب دوم حملات علیه ایران را متوقف کرد، بعد از آنکه مقام‌های ارشد نظامی به ترامپ توصیه کردند کمپین بمباران را قطع کند؛ در همین چارچوب مذاکره دیپلماتیک برای جلوگیری از بازگشت جنگ تمام‌عیار ادامه دارد.",
-            "تهران اعلام کرد «عملیات تلافی‌جویانه» علیه متحدان آمریکا در منطقه را متوقف کرده است؛ همزمان گزارش‌ها می‌گویند علت تصمیم آمریکا فقط فضای سیاسی نیست، بلکه کاهش اثربخشی و محدود شدن مهمات هم نقش دارد، به‌طوری‌که مقام‌ها به ترامپ درباره «توقف اثرگذاری» و «خسته شدن فهرست اهداف» هشدار داده‌اند.",
-            "نتانیاهو قرار است به دیدار رئیس‌جمهور آمریکا برود، اما از توافقات و گفت‌وگوهای واشنگتن با رهبران ایران انتقاد کرده و تحت فشار جدی است تا قبل از انتخابات اکتبر نتیجه‌ای ملموس از کمپین‌های نظامی علیه ایران و حزب‌الله نشان دهد."
-        ],
-        "impact": "وقفه در حملات نتیجه مستقیم ترکیب عوامل نظامیِ محدودیت مهمات و کاهش اثربخشی، و نیز فشارهای سیاسی طرفین است؛ بنابراین خطر جهش دوباره درگیری با ادامه تهدید «باز بودن گزینه‌ها» همچنان بالاست.",
-        "tag": "تنش-منطقه‌ای",
-        "urgency": 9,
-        "sentiment": -0.3,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
-        "clean_url": "https://www.theguardian.com/world/2026/jul/26/us-pauses-trump-netanyahu-attacks-on-iran-talks-hormuz",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785066300.0,
-        "id": "c7cd66c1d7"
-    },
-    {
-        "title_fa": "توقف دوم حملات آمریکا علیه ایران همزمان با ادامه مذاکرات صلح",
-        "title_en": "US pauses attacks on Iran for a second day as peace talks continue",
-        "summary": [
-            "طبق گزارش گاردین، آمریکا برای دومین روز متوالی حملات علیه ایران را متوقف کرده، در حالی که مذاکرات صلح در جریان است؛ این یعنی اهرم فشار نظامی آمریکا به‌طور موقت برای دادن فضا به کانال دیپلماتیک کاهش یافته.",
-            "این مکث می‌تواند نشانه‌ای از جابه‌جایی موقت راهبرد از «فشار از مسیر حمله» به «فشار از مسیر مذاکره» باشد، اما چون محتوای توافق یا خواسته‌های طرفین مشخص نشده، اثر آن بیشتر حالت تاکتیکی دارد تا نتیجه‌دار.",
-            "نبود اطلاعات درباره‌ی هم‌زمانی تصمیمات داخلی ایران (در حوزه اقتصاد، سرکوب یا سازوکار مذاکرات) اجازه نمی‌دهد روند ناآرامی یا فروپاشی اقتصادی را به این خبر نسبت بدهیم؛ این گزارش فقط از تغییر فاز در عملیات آمریکا خبر می‌دهد."
-        ],
-        "impact": "توقف دوباره حملات آمریکا در زمان مذاکرات، به‌صورت موقت فشار نظامی را کاهش می‌دهد و می‌تواند بر چانه‌زنی اثر بگذارد، اما بدون جزئیات مذاکرات نمی‌توان از نتیجه پایدار یا عقب‌نشینی راهبردی حرف زد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXpRZUVKLWdPbXlybXhsRDdrOG9nLUMtVGg2RkFhdHF3SGxTZndLTDJ6M2xKaDRWd1JJY3VjMVd5bnMyUjhFT2JIbF8tY3lfM2tncUl5bjJTWlI2UjBpR3VlN2ZwbTc2cXRaNXJyZUJwbHN2OFI4cGw4djRJcHhNV0ZfNHNOaEpSdXl3cXdSM1RqRFhYV241NHRoRjVTd2tsRFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXpRZUVKLWdPbXlybXhsRDdrOG9nLUMtVGg2RkFhdHF3SGxTZndLTDJ6M2xKaDRWd1JJY3VjMVd5bnMyUjhFT2JIbF8tY3lfM2tncUl5bjJTWlI2UjBpR3VlN2ZwbTc2cXRaNXJyZUJwbHN2OFI4cGw4djRJcHhNV0ZfNHNOaEpSdXl3cXdSM1RqRFhYV241NHRoRjVTd2tsRFE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785064680.0,
-        "id": "842107b25a"
     }
 ]
