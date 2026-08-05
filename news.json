@@ -77,6 +77,25 @@
         "timestamp": 1785843240.0
     },
     {
+        "id": "09bd79c076",
+        "title_fa": "پیشرفت ایران و عمان برای بازگشایی تنگه هرمز",
+        "title_en": "Iran and Oman make progress on a deal to reopen the Strait of Hormuz, officials say",
+        "summary": [
+            "ایران و عمان روی چارچوبی کار می‌کنند که عبور کشتی از یک مسیر «تحت کنترل ایران» به خروج از مسیری «تحت کنترل عمان» گره می‌خورد و بابت امنیت و حفظ محیط دریایی هم کارمزد می‌گیرند.",
+            "طبق روایت مقام‌های منطقه‌ای، هر توافق نهایی ممکن است به لغو «مسدودسازی آمریکا بر بنادر ایران» وابسته باشد؛ یعنی معامله فقط فنی نیست، سیاسی و تحریمی است.",
+            "اگر توافق، کنترل واقعی مسیرها به نفع ایران را تثبیت کند، تهران یک برد استراتژیک می‌گیرد و واشینگتن احتمالاً با ندادن چراغ سبز برای لغو فشارها می‌تواند جلوی آن را بگیرد."
+        ],
+        "impact": "اگر این مدل عملیاتی شود، ریسک جنگ روانی و درگیری در مسیر نفتی کاهش می‌یابد، اما گره اصلی همچنان تحریم و مسدودسازی آمریکا است.",
+        "tag": "دیپلماسی_دریایی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Boston Herald",
+        "url": "https://www.bostonherald.com/2026/08/04/iran-strait-of-hormuz-deal-progress/",
+        "clean_url": "https://www.bostonherald.com/2026/08/04/iran-strait-of-hormuz-deal-progress",
+        "image": "http://www.bing.com/th?id=ONUT.pvdnhUC_gbj1aQyiH9EQBw&pid=News",
+        "timestamp": 1785840420.0
+    },
+    {
         "id": "ce77e49313",
         "title_fa": "دیپلماسی هسته‌ای با ایران دوباره قفل شد",
         "title_en": "Getting Nuclear Diplomacy with Iran Back on Track",
@@ -5639,24 +5658,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785043687.0,
         "id": "650e212077"
-    },
-    {
-        "title_fa": "اظهار وزیر خارجه ایران درباره «عدم راه‌حل نظامی» برای بحران یمن",
-        "title_en": "Iran FM Says ‘No Military Solution’ to Yemen Conflict",
-        "summary": [
-            "وزیر خارجه ایران اعلام کرده که «راه‌حل نظامی» برای درگیری یمن وجود ندارد؛ این موضع بیشتر جنبه‌ی مدیریت پیام سیاسی دارد تا تغییر عملی در رفتار امنیتی.",
-            "این اظهارنظر در چارچوب فشارهای خارجی و حساسیت منطقه‌ای قابل خوانش است: رژیم تلاش می‌کند روایت خود را از مسیر نظامی به سمت گفت‌وگو/حل سیاسی منتقل کند تا هزینه‌ی بین‌المللی اقداماتش را کاهش دهد.",
-            "در غیاب جزئیات اجرایی، پیام غالب این است که هیچ تعهد قابل راستی‌آزمایی درباره کاهش حمایت‌های میدانی یا توقف اقدامات مرتبط با اهرم‌های منطقه‌ای ارائه نشده است."
-        ],
-        "impact": "این اظهارنظر می‌تواند کوتاه‌مدت به کاهش تنش لفظی کمک کند، اما چون عملیاتی و قابل راستی‌آزمایی نیست، احتمالاً تغییری در روند بحران یمن ایجاد نمی‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Defense Post",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zVFRnZ0RsaWc5YmQ5UjBDeUdselhNRkY4LXdHVEdsZlhWQjctUy1yWGt3VEdXM3RZNFBkYXdVYXl6SFZrQlBVTmhqYmthRTFLZldTUTFNc0xPMVlJaWFJTUlxdkE0WnFEVno1RXdUb9IBdEFVX3lxTE5Ma0ZCM0xOR2dwMFVMSkdkU3lzYjl3QVBuVF9zSEJtSk9HS2laMGNsbXdaNjZBdnR1YXhHN0lJMFdUVE5HMVJHbmxXRW1vS19NWnVvamNVN3RySGZERWpESVJIWmtGRXdlTF9mQWRNZ2t2cWM5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zVFRnZ0RsaWc5YmQ5UjBDeUdselhNRkY4LXdHVEdsZlhWQjctUy1yWGt3VEdXM3RZNFBkYXdVYXl6SFZrQlBVTmhqYmthRTFLZldTUTFNc0xPMVlJaWFJTUlxdkE0WnFEVno1RXdUb9IBdEFVX3lxTE5Ma0ZCM0xOR2dwMFVMSkdkU3lzYjl3QVBuVF9zSEJtSk9HS2laMGNsbXdaNjZBdnR1YXhHN0lJMFdUVE5HMVJHbmxXRW1vS19NWnVvamNVN3RySGZERWpESVJIWmtGRXdlTF9mQWRNZ2t2cWM5",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785040698.0,
-        "id": "90e41c0c83"
     }
 ]
