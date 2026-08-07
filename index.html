@@ -948,25 +948,39 @@ function renderHeroLead() {
     const heroContainer = document.getElementById('hero-lead-container');
     if (!newsData.length || !heroContainer) return;
 
-    const nowSec = Math.floor(Date.now() / 1000);
-    const twentyFourHoursAgo = nowSec - (24 * 3600);
-
-    // 1. Filter for news published within the last 24 hours
-    let candidateNews = newsData.filter(n => (n.timestamp || 0) >= twentyFourHoursAgo);
-
-    // Fallback to all news if fewer than 4 items exist in the last 24 hours
-    if (candidateNews.length < 4) {
-        candidateNews = [...newsData];
+    // Helper: Robustly parse timestamps (handles seconds, milliseconds, or ISO strings)
+    function parseTs(ts) {
+        if (!ts) return 0;
+        let n = Number(ts);
+        if (!isNaN(n)) return n > 1e11 ? Math.floor(n / 1000) : Math.floor(n);
+        let p = Date.parse(ts);
+        return isNaN(p) ? 0 : Math.floor(p / 1000);
     }
 
-    // 2. Sort by Urgency (descending) first, then by Timestamp (newest first)
-    const sorted = candidateNews.sort((a, b) => {
+    const nowSec = Math.floor(Date.now() / 1000);
+    const maxAgeSec = 36 * 3600; // Strictly limit "Today's News" to the last 36 hours
+
+    // 1. Filter news strictly from the last 36 hours
+    let recentPool = newsData.filter(n => {
+        const t = parseTs(n.timestamp);
+        return t > 0 && (nowSec - t) <= maxAgeSec;
+    });
+
+    // 2. If fewer than 4 items in 36 hours, pick ONLY from the 12 newest items overall
+    if (recentPool.length < 4) {
+        recentPool = [...newsData]
+            .sort((a, b) => parseTs(b.timestamp) - parseTs(a.timestamp))
+            .slice(0, 12);
+    }
+
+    // 3. Sort the recent pool: Highest Urgency first, then Newest Timestamp
+    const sorted = recentPool.sort((a, b) => {
         const urgA = Number(a.urgency) || 0;
         const urgB = Number(b.urgency) || 0;
         if (urgB !== urgA) {
-            return urgB - urgA; // Highest urgency first
+            return urgB - urgA; // Highest urgency within today's news
         }
-        return (b.timestamp || 0) - (a.timestamp || 0); // Newest timestamp first
+        return parseTs(b.timestamp) - parseTs(a.timestamp); // Newest first
     });
 
     const mainLead = sorted[0];
@@ -1040,7 +1054,7 @@ function renderHeroLead() {
                     </div>
                     <div class="flex justify-between items-center text-[10px] text-gray-500 pt-1 mt-1 border-t border-gray-200">
                         <span>${sec.source}</span>
-                        <span>${timeAgo(sec.timestamp * 1000)}</span>
+                        <span>${timeAgo(parseTs(sec.timestamp) * 1000)}</span>
                     </div>
                 </div>
             </div>
