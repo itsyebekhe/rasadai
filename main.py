@@ -69,7 +69,7 @@ CONFIG = {
     'MIN_TELEGRAM_URGENCY': 7,
     'MAX_NEWS_AGE_HOURS': 18,
     'HISTORY_SIZE': 300,
-    'RESOLVE_GOOGLE_URLS': False,
+    'RESOLVE_GOOGLE_URLS': True,
 }
 
 BAD_IMAGE_HOSTS = (
@@ -369,7 +369,10 @@ class IranNewsRadar:
                     'image': r.get('image')
                 })
         except Exception as e:
-            logger.error(f"DDG Error ({query[:40]}): {e}")
+            logger.warning(f"DDG blocked/failed ({query[:30]}), falling back to Bing RSS: {e}")
+            # Fallback to Bing RSS when DuckDuckGo fails (403 on GitHub Actions)
+            return self.fetch_bing_rss(query)
+        
         return results
 
     def fetch_bing_rss(self, query):
@@ -480,15 +483,19 @@ class IranNewsRadar:
             return None
         if "news.google.com" not in url:
             return url
+        
+        # If set to False, fallback to basic decoding instead of returning None
         if not CONFIG.get('RESOLVE_GOOGLE_URLS', False):
-            return None
+            return url  # Allow url to pass through
+    
         try:
-            resp = self.scraper.head(url, allow_redirects=True, timeout=5)
-            if "news.google.com" not in resp.url and "consent.google.com" not in resp.url:
+            resp = self.scraper.get(url, allow_redirects=True, timeout=8)
+            if resp.status_code == 200 and "news.google.com" not in resp.url:
                 return resp.url
-        except Exception:
-            pass
-        return None
+        except Exception as e:
+            logger.warning(f"Failed to resolve Google URL {url}: {e}")
+        
+        return url # Return original URL as fallback rather than dropping it
 
     # ───────────────────────── content grab ─────────────────────────
 
@@ -806,8 +813,8 @@ STRICT OUTPUT JSON:
             final_url, snippet, raw_image=entry.get('image')
         )
 
-        if hint < CONFIG.get('MIN_AI_URGENCY_HINT', 5) and len(text) < 200:
-            logger.info(f"Skip AI (low hint/thin text): {raw_title[:40]}")
+        if hint < 3 and len(text) < 80:
+            logger.info(f"Skip AI (very low hint/thin text): {raw_title[:40]}")
             return None
 
         ai = self.analyze_with_ai(raw_title, text, publisher)
