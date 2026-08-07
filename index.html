@@ -944,12 +944,31 @@ function openArticleById(id) {
     }
 }
 
-// REPLACE renderHeroLead function inside <script>
 function renderHeroLead() {
     const heroContainer = document.getElementById('hero-lead-container');
     if (!newsData.length || !heroContainer) return;
 
-    const sorted = [...newsData].sort((a, b) => b.urgency - a.urgency);
+    const nowSec = Math.floor(Date.now() / 1000);
+    const twentyFourHoursAgo = nowSec - (24 * 3600);
+
+    // 1. Filter for news published within the last 24 hours
+    let candidateNews = newsData.filter(n => (n.timestamp || 0) >= twentyFourHoursAgo);
+
+    // Fallback to all news if fewer than 4 items exist in the last 24 hours
+    if (candidateNews.length < 4) {
+        candidateNews = [...newsData];
+    }
+
+    // 2. Sort by Urgency (descending) first, then by Timestamp (newest first)
+    const sorted = candidateNews.sort((a, b) => {
+        const urgA = Number(a.urgency) || 0;
+        const urgB = Number(b.urgency) || 0;
+        if (urgB !== urgA) {
+            return urgB - urgA; // Highest urgency first
+        }
+        return (b.timestamp || 0) - (a.timestamp || 0); // Newest timestamp first
+    });
+
     const mainLead = sorted[0];
     const secondaryLeads = sorted.slice(1, 4);
 
@@ -963,7 +982,7 @@ function renderHeroLead() {
                 <div class="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent"></div>
                 
                 <div class="absolute top-2.5 right-2.5 bg-rasad-red text-white text-[9px] sm:text-[10px] font-black px-2 py-0.5 rounded-sm shadow uppercase tracking-wider">
-                    <i class="fas fa-bolt"></i> خبر اصلی / فوریت بالا
+                    <i class="fas fa-bolt"></i> خبر اصلی امروز / فوریت بالا
                 </div>
 
                 <div class="absolute bottom-2.5 right-2.5 left-2.5 text-white text-[11px] sm:text-xs leading-relaxed font-medium backdrop-blur-md bg-black/60 p-2.5 sm:p-3 rounded-sm border border-white/10">
