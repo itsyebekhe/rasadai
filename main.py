@@ -851,6 +851,100 @@ STRICT OUTPUT JSON:
 
     # ───────────────────────── telegram senders ─────────────────────────
 
+    def send_special_report_to_telegram(self, report):
+        """Format and send Special Topic Report to Telegram nightly."""
+        token = CONFIG['TELEGRAM']['BOT_TOKEN']
+        chat_id = CONFIG['TELEGRAM']['CHANNEL_ID']
+        if not token or not chat_id or not report:
+            logger.warning("TG credentials or report missing. Skipping TG dispatch.")
+            return False
+
+        def esc(s):
+            return html.escape(str(s or ''), quote=False)
+
+        tehran_now = self._get_tehran_time()
+        time_str = tehran_now.strftime("%H:%M")
+        date_str = tehran_now.strftime("%Y/%m/%d")
+
+        base_site = "https://itsyebekhe.github.io/rasadai/"
+        tag = esc(report.get('topic_tag', 'پرونده ویژه')).replace(' ', '_')
+        headline = esc(report.get('headline', 'گزارش ویژه'))
+        lead = esc(report.get('lead_paragraph', ''))
+        
+        findings_li = "".join([f"<li>🔹 {esc(f)}</li>\n" for f in report.get('key_findings', [])])
+        regime_vs_reality = esc(report.get('regime_vs_reality', ''))
+        strategic_outlook = esc(report.get('strategic_outlook', ''))
+
+        rich_html = (
+            f"<h1>📂 پرونده ویژه شبانگاهی: {headline}</h1>\n"
+            f"<p>⏱ <b>زمان صدور:</b> {time_str} — {date_str} (تهران) | 🏷 #{tag}</p>\n"
+            f"<hr/>\n"
+            f"<p>📌 <b>اصل ماجرا:</b> {lead}</p>\n"
+            f"<h2>🔍 یافته‌های کلیدی و زوایای پنهان</h2>\n"
+            f"<ul>\n{findings_li}</ul>\n"
+            f"<hr/>\n"
+            f"<h2>⚔️ ادعای حکومت در برابر واقعیت میدانی</h2>\n"
+            f"<p>{regime_vs_reality}</p>\n"
+            f"<h2>🔮 چشم‌انداز استراتژیک</h2>\n"
+            f"<p>{strategic_outlook}</p>\n"
+            f"<footer>\n"
+            f"<p>📊 <a href=\"{base_site}\">مشاهده کامل اخبار در داشبورد زنده</a> | 🆔 @RasadAIOfficial</p>\n"
+            f"</footer>\n"
+        )
+
+        inline_keyboard = {
+            "inline_keyboard": [[
+                {"text": "📊 مطالعه پرونده در داشبورد", "url": base_site},
+                {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
+            ]]
+        }
+
+        # 1. Send Rich Message
+        rich_api = f"https://api.telegram.org/bot{token}/sendRichMessage"
+        payload = {
+            "chat_id": chat_id,
+            "rich_message": {
+                "html": rich_html,
+                "is_rtl": True,
+            },
+            "reply_markup": inline_keyboard,
+        }
+
+        try:
+            resp = self.scraper.post(rich_api, json=payload, timeout=30)
+            if resp.status_code == 200:
+                logger.info(">>> Special Topic Report successfully sent as Rich Message.")
+                return True
+            logger.warning(f"sendRichMessage for Special Report failed ({resp.status_code}), falling back.")
+        except Exception as e:
+            logger.warning(f"Special Report Rich Message exception: {e}, falling back.")
+
+        # 2. Fallback sendMessage
+        findings_text = "".join([f"🔹 {esc(f)}\n" for f in report.get('key_findings', [])])
+        fallback_text = (
+            f"📂 <b>پرونده ویژه شبانگاهی: {headline}</b>\n"
+            f"⏱ <b>زمان:</b> {time_str} — {date_str} | 🏷 #{tag}\n\n"
+            f"📌 <b>اصل ماجرا:</b>\n{lead}\n\n"
+            f"🔍 <b>یافته‌های کلیدی:</b>\n{findings_text}\n"
+            f"⚔️ <b>واقعیت میدانی:</b>\n{regime_vs_reality}\n\n"
+            f"🔮 <b>چشم‌انداز:</b>\n{strategic_outlook}\n\n"
+            f"📊 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده</a> | 🆔 @RasadAIOfficial"
+        )
+
+        standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
+        try:
+            resp = self.scraper.post(standard_api, json={
+                "chat_id": chat_id,
+                "text": fallback_text,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": True,
+                "reply_markup": inline_keyboard
+            }, timeout=30)
+            return resp.status_code == 200
+        except Exception as e:
+            logger.error(f"Special Report standard fallback error: {e}")
+            return False
+
     def send_daily_summary_to_telegram(self, summary):
         """Format and send Daily Summary using Telegram Rich Messages with RTL support."""
         token = CONFIG['TELEGRAM']['BOT_TOKEN']
@@ -1533,47 +1627,35 @@ STRICT OUTPUT JSON:
         else:
             logger.info(">>> No valid new items found.")
 
-        # ───────────────────────── SCHEDULED DISPATCHES (CONFIRMED DELIVERY) ─────────────────────────
+        # ───────────────────────── SCHEDULED DISPATCHES ─────────────────────────
         tehran_now = self._get_tehran_time()
         curr_hour = tehran_now.hour
         today_date_str = tehran_now.strftime("%Y-%m-%d")
 
-        # 1. Generate & Save Daily Summary
-        daily_summary = self.generate_daily_summary()
-        if daily_summary:
-            # Check previous sent status from disk if exists
-            prev_sum = self._load_previous_daily_summary()
-            if prev_sum and prev_sum.get('last_sent_slot'):
-                daily_summary['last_sent_slot'] = prev_sum.get('last_sent_slot')
+        # NIGHTLY SPECIAL REPORT DISPATCH (Target Window: 20:00 -> 02:00 Tehran Time)
+        report_date_str = today_date_str
+        if 0 <= curr_hour < 2:
+            yesterday = tehran_now - timedelta(days=1)
+            report_date_str = yesterday.strftime("%Y-%m-%d")
 
-        # Determine Summary Window
-        summary_slot = None
-        if 6 <= curr_hour < 12:
-            summary_slot = f"summary_08_{today_date_str}"
-        elif 12 <= curr_hour < 18:
-            summary_slot = f"summary_14_{today_date_str}"
-        elif 18 <= curr_hour < 22:
-            summary_slot = f"summary_20_{today_date_str}"
-
-        if summary_slot and daily_summary:
-            is_sent_in_state = self._is_schedule_already_sent(summary_slot)
-            is_sent_in_json = (daily_summary.get('last_sent_slot') == summary_slot)
-
-            if not (is_sent_in_state or is_sent_in_json):
-                logger.info(f"Triggering scheduled Daily Summary for slot: {summary_slot}")
-                sent_ok = self.send_daily_summary_to_telegram(daily_summary)
-                if sent_ok:
-                    daily_summary['last_sent_slot'] = summary_slot
-                    daily_summary['sent_at'] = tehran_now.strftime("%Y-%m-%d %H:%M:%S")
-                    self._mark_schedule_as_sent(summary_slot)
+        if curr_hour >= 20 or curr_hour < 2:
+            special_report_slot = f"special_report_night_{report_date_str}"
+            if not self._is_schedule_already_sent(special_report_slot):
+                logger.info(f"Generating nightly Special Topic Report for slot: {special_report_slot}")
+                special_report = self.generate_special_topic_report()
+                if special_report:
+                    sent_ok = self.send_special_report_to_telegram(special_report)
+                    if sent_ok:
+                        self._mark_schedule_as_sent(special_report_slot)
             else:
-                logger.info(f"Daily Summary slot [{summary_slot}] was already confirmed sent.")
+                logger.info(f"Nightly Special Report slot [{special_report_slot}] was already sent today.")
 
-        # Always save updated daily summary with sent tracking
+        # Always generate and save daily_summary JSON for local dashboard use only (not dispatched to TG)
+        daily_summary = self.generate_daily_summary()
         if daily_summary:
             self.save_daily_summary(daily_summary)
 
-        # 2. Night Bulletin Window (Target 23:00 -> Window 22:00 to 02:00)
+        # 23:00 Bulletin Window
         bulletin_date_str = today_date_str
         if 0 <= curr_hour < 2:
             yesterday = tehran_now - timedelta(days=1)
@@ -1593,8 +1675,6 @@ STRICT OUTPUT JSON:
                         self._mark_schedule_as_sent(bulletin_slot)
             else:
                 logger.info(f"23:00 Bulletin slot [{bulletin_slot}] was already confirmed sent.")
-
-        self.generate_special_topic_report()
 
         logger.info(
             f">>> Done. New={len(new_processed_items)} | "
