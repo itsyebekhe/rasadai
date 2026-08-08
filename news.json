@@ -18,6 +18,25 @@
         "timestamp": 1786128780.0
     },
     {
+        "id": "98c81ad551",
+        "title_fa": "تحریم صرافی ارز دیجیتال دبی به بهانه کمک به سپاه",
+        "title_en": "US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report",
+        "summary": [
+            "آمریکا یک صرافی چندایالتیِ بدون مجوز را تحریم کرد و مدعی شد برای انتقال و تبدیل میلیون‌ها دلار ارز دیجیتال، نقش واسطه داشته است.",
+            "هدف ادعا شده، کمک به IRGC و گروه‌های مرتبط با دولت ایران است؛ یعنی واشنگتن روی «مسیرهای مالی» و نه صرفاً دارایی‌های دولتی ایران قفل کرده.",
+            "گسترش تحریم‌ها به یک بازیگر خارج از خاک آمریکا، ریسک کارکرد شبکه‌های رمزارزی را برای شرکت‌های همکار و بانک‌دارهای بیرونی بالا می‌برد."
+        ],
+        "impact": "این اقدام می‌تواند جریان مبادلات و شریک‌های عملیاتی صرافی‌های مشابه را مختل کرده و هزینه ریسک مالی برای بازارهای منطقه‌ای را بالا ببرد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.55,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/money/companies/us-sanctions-dubai-crypto-exchange-for-aiding-irans-irgc-following-a-reuters-report/ar-AA29CJvT",
+        "clean_url": "https://www.msn.com/en-us/money/companies/us-sanctions-dubai-crypto-exchange-for-aiding-irans-irgc-following-a-reuters-report/ar-AA29CJvT",
+        "image": "https://www.reuters.com/resizer/v2/5QMK2A7SZ5KGBJ6DC4B3YALJPI.jpg?auth=f231294e9ee8ab4da2e6333ddaef2cb0c420d045e2444a91eb5c8a7eacfa7695&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1786126700.0
+    },
+    {
         "id": "fd945fdcdc",
         "title_fa": "پیمان دفاعی مکه؛ ترکیه، عربستان و پاکستان رسماً متحد شدند",
         "title_en": "Turkiye, Saudi Arabia, Pakistan sign joint defence agreement: What’s in it?",
@@ -5635,24 +5654,5 @@
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785078892.0,
         "id": "7d41dbe3d4"
-    },
-    {
-        "title_fa": "پازِ دوم حملات؛ واشنگتن و تهران هم‌زمان توقف می‌دهند",
-        "title_en": "US pauses attacks on Iran for a second straight day and Tehran does too",
-        "summary": [
-            "طبق گزارش AP، آمریکا برای دومین روز پیاپی حملات علیه ایران را متوقف کرده و تهران نیز به‌طور هم‌زمان حملات خود را متوقف کرده است.",
-            "این توقف، نشانه‌ای از کاهش تنش عملیاتی و احتمالِ مدیریتِ مرحله‌ای بحران در کوتاه‌مدت است، اما هیچ تضمینی برای پایان درگیری یا حل ریشه‌ای اختلاف‌ها ارائه نمی‌کند.",
-            "از زاویه فشار خارجی، چنین وقفه‌هایی معمولاً به رژیم زمان می‌دهد برای بازتنظیم توان، پدافند و روایت داخلی؛ در عین حال، برای مردم و اقتصاد پیامد مستقیم و فوری اعلام نشده است چون خبر بر «ادامه/توقف عملیات» متمرکز است."
-        ],
-        "impact": "توقف هم‌زمان عملیات‌ها، ریسک تشدید فوری را کاهش می‌دهد ولی ماهیت ساختاری تهدیدها و فشارها بدون اعلام جزئیات جدید روشن نشده است.",
-        "tag": "تنش‌زدایی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1ZkcWRJbVdJX0lWSFo1TGFnSDdhUkFQbHZ1ZGlHVUp0b1BwbEZ0SHVPNGY2NS12NmQ3c3dpbjNVVG5qXzJvUDh6NGVSQnFkS2hEQ1BNbi1jUV9nN1lhUHF5MVlrRVpHdURweU9hTnZPTUYxSFVYaklYeWhlTURTQWJteG5acjYybFplamI2XzlJSW5RbktF?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1ZkcWRJbVdJX0lWSFo1TGFnSDdhUkFQbHZ1ZGlHVUp0b1BwbEZ0SHVPNGY2NS12NmQ3c3dpbjNVVG5qXzJvUDh6NGVSQnFkS2hEQ1BNbi1jUV9nN1lhUHF5MVlrRVpHdURweU9hTnZPTUYxSFVYaklYeWhlTURTQWJteG5acjYybFplamI2XzlJSW5RbktF",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785078747.0,
-        "id": "1918fb47ec"
     }
 ]
