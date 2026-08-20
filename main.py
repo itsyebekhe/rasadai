@@ -107,7 +107,6 @@ class IranNewsRadar:
             'Accept-Language': 'en-US,en;q=0.9,fa;q=0.8',
             'Cache-Control': 'no-cache',
         })
-        self.api_key = CONFIG['POLLINATIONS_KEY']
         self.existing_news = self._load_existing_news()
 
         self.seen_urls = set()
