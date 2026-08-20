@@ -143,6 +143,25 @@
         "timestamp": 1787242849.0
     },
     {
+        "id": "d8c75fe123",
+        "title_fa": "جهش قیمت نفت در پی تهدیدهای صریح ترامپ و انسداد تنگه هرمز",
+        "title_en": "Crude Oil Prices Jump as Hopes Dim of Reopening the Strait of Hormuz",
+        "summary": [
+            "دونالد ترامپ با تهدید به انزوای کامل اقتصادی ایران و جریمه سنگین شرکای تجاری تهران، امیدها برای بازگشایی تنگه هرمز را کاملاً کمرنگ کرد.",
+            "خط و نشان جدید واشنگتن برای تمام کشورها و نهادهایی که به حکومت ایران شریان حیاتی مالی یا لوجستیکی بدهند، بازار جهانی انرژی را دچار شوک صعودی کرد.",
+            "هم‌زمان با افت ارزش دلار، قیمت نفت به بالاترین سطح یک ماه اخیر رسید که نشان می‌دهد بازارهای جهانی ریسک طولانی شدن درگیری را جدی گرفته‌اند."
+        ],
+        "impact": "شوک صعودی به بازار جهانی انرژی و پرریسک‌تر شدن خطوط ترانزیت نفت در خلیج فارس.",
+        "tag": "انرژی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-jump-hopes-153356494.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-jump-hopes-153356494.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/8e9e755c7ef7fa235e7e307e9b9106d6.jpg",
+        "timestamp": 1787241341.0
+    },
+    {
         "id": "2402081653",
         "title_fa": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
         "title_en": "Trump threatens Iran’s trade partners, as military strikes make way for economic pressure",
@@ -5608,24 +5627,5 @@
         "image": "http://www.bing.com/th?id=ONUT.sVe48PfOFPGA8uWlmK1wJw&pid=News",
         "timestamp": 1785124500.0,
         "id": "7b861209ac"
-    },
-    {
-        "title_fa": "حملات پهپادی به همسایگان همزمان با توقف بمباران آمریکا؛ تهران عملاً «تست» تغییر جهت ترامپ را انجام می‌دهد",
-        "title_en": "Drones Attack Iran's Neighbors As Tehran Appears To Test Trump's Latest Pause",
-        "summary": [
-            "عربستان، اردن و عراق در روز دوشنبه گزارش کردند پهپادهایی را هدف قرار داده‌اند؛ عربستان مدعی است پهپادهای هدف‌گرفته‌شده به اهداف نفتی از عراق و توسط گروه‌های مورد حمایت ایران شلیک شده و حق پاسخ‌گویی را برای خود محفوظ دانسته است.",
-            "یاران حوثی ایران در یمن اعلام کردند «تأسیسات ترانزیتی» حمل‌ونقل نفت به بندر اصلی ینبع در دریای سرخ را هدف قرار داده‌اند؛ همزمان اردن دو پهپاد را ساقط کرد و منابع امنیتی عراق نیز از حملات پهپادی به اردوگاه‌های نیروهای کرد مخالف ایرانی در شمال عراق خبر دادند.",
-            "این موج هم‌زمان با «سکوت ناگهانی» آمریکا درباره توقف یک کارزار دو هفته‌ای حملات هوایی علیه ایران رخ داد؛ ترامپ پس از توصیه فرماندهان ارشد، بمباران ۱۳ شبِ تشدیدشده را متوقف کرد و ایران نیز اعلام کرد تا زمان توقف حمله آمریکا، حملات خود را متوقف می‌کند—اما همزمان بر کنترل تنگه هرمز تأکید کرد و از ازسرگیری گفت‌وگوهای صلح با آمریکا سخن نگفت."
-        ],
-        "impact": "این الگوی حملات پهپادی در کنار توقف بمباران آمریکا نشان می‌دهد تهران برای آزمودن هزینه‌-فایده چرخش راهبردی واشنگتن، کانال‌های نیابتی و عملیات فراتر از جنگ مستقیم را فعال نگه می‌دارد و همین عدم قطعیت می‌تواند دامنه بحران را گسترش دهد.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/iran-us-pause-attacks_n_6a672eaae4b00feba8462a2c",
-        "clean_url": "https://www.huffpost.com/entry/iran-us-pause-attacks_n_6a672eaae4b00feba8462a2c",
-        "image": "http://www.bing.com/th?id=ONUT.eoyq0PRQQ0zv0rlGX6nTQQ&pid=News",
-        "timestamp": 1785122280.0,
-        "id": "0924b5aec2"
     }
 ]
