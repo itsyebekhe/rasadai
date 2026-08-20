@@ -64,7 +64,8 @@ CONFIG = {
     'MAX_TEXT_CHARS': 1800,
     'MIN_TEXT_LEN': 100,
     'MIN_AI_URGENCY_HINT': 5,
-    'POLLINATIONS_KEY': os.environ.get('POLLINATIONS_API_KEY'),
+    'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
+    'GEMINI_MODEL': 'gemini-3.6-flash',
     'AI_RETRIES': 3,
     'MIN_TELEGRAM_URGENCY': 7,
     'MAX_NEWS_AGE_HOURS': 18,
@@ -614,11 +615,48 @@ class IranNewsRadar:
 
     # ───────────────────────── AI analysis ─────────────────────────
 
-    def analyze_with_ai(self, headline, full_text, source_name):
-        is_regime = any(x in source_name.lower() for x in ['tasnim', 'fars', 'irna', 'presstv', 'mehr'])
-        regime_instruction = ""
-        if is_regime:
-            regime_instruction = "CRITICAL: The source is Iranian State Media. Expose propaganda. "
+    def _call_gemini(self, system_prompt, user_prompt, temperature=0.2):
+        if not CONFIG.get('GEMINI_KEY'):
+            logger.error("GEMINI_API_KEY is not set.")
+            return None
+
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{CONFIG['GEMINI_MODEL']}:generateContent?key={CONFIG['GEMINI_KEY']}"
+        payload = {
+            "system_instruction": {
+                "parts": [{"text": system_prompt}]
+            },
+            "contents": [{
+                "parts": [{"text": user_prompt}]
+            }],
+            "generationConfig": {
+                "response_mime_type": "application/json",
+                "temperature": temperature
+            }
+        }
+        
+        for attempt in range(CONFIG['AI_RETRIES']):
+            try:
+                resp = self.scraper.post(url, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45))
+                if resp.status_code == 200:
+                    result = resp.json()
+                    raw_text = result['candidates'][0]['content']['parts'][0]['text']
+                    clean = re.sub(r'```json\s*|```', '', raw_text).strip()
+                    return json.loads(clean)
+                else:
+                    logger.error(f"Gemini API error {resp.status_code}: {resp.text[:200]}")
+                time.sleep(1)
+            except Exception as e:
+                logger.error(f"Gemini Attempt {attempt + 1} failed: {e}")
+                time.sleep(2)
+        return None
+
+    def batch_analyze_with_gemini(self, candidates_data):
+        """
+        Analyzes multiple candidate news articles in a SINGLE Gemini API request.
+        candidates_data format: list of dicts with {'index', 'source', 'headline', 'text'}
+        """
+        if not candidates_data or not CONFIG.get('GEMINI_KEY'):
+            return {}
 
         system_prompt = (
             "تو یک تحلیل‌گر ارشد و تیزبین ژئوپلیتیک، مسلط به ادبیات کانال‌های تحلیلی تلگرام فارسی (مانند تحلیل‌گران مستقل و اپوزیسیون ایرانی) هستی.\n"
@@ -649,60 +687,36 @@ class IranNewsRadar:
             "- 7-8: تحریم‌های خفه کننده جدید، سقوط شدید ارزی، اعتراضات سراسری، حملات نیابتی سنگین.\n"
             "- 4-6: تحرکات دیپلماتیک مهم، تنش‌های لفظی مسئولان، مانورهای منطقه‌ای.\n"
             "- 1-3: اظهارات routine، دیدارهای تشریفاتی.\n\n"
-            "فرمت خروجی باید دکارتی و دقیقاً ساختار JSON زیر باشد:\n"
-            "{\n"
-            ' "title_fa": "تیتر جذاب، روان، غیرتکراری و بدون کلمات خنثی (حداکثر ۱۰ کلمه)",\n'
-            ' "summary": ["نکته تحلیلی ۱ به فارسی روان و بدون کلمات اضافه", "نکته تحلیلی ۲ با تمرکز بر واقعیت پشت خبر"],\n'
-            ' "impact": "تأثیر عملیاتی یا اقتصادی خبر در یک جمله کوتاه، روان و ضربتی",\n'
-            ' "tag": "کلمه کلیدی اصلی (مثلاً: نظامی، ارز، تحریم، نیابتی)",\n'
-            ' "urgency": عدد بین 1 تا 10,\n'
-            ' "sentiment": عدد بین -1.0 تا 1.0\n'
-            "}"
+            "تو فهرستی از آیتم‌های خبری با شناسه index دریافت می‌کنی. خروجی باید یک لیست JSON معتبر شامل تحلیل تک تک این آیتم‌ها با ساختار زیر باشد:\n"
+            "[\n"
+            "  {\n"
+            '    "index": 0,\n'
+            '    "title_fa": "تیتر جذاب، روان، غیرتکراری و بدون کلمات خنثی (حداکثر ۱۰ کلمه)",\n'
+            '    "summary": ["نکته تحلیلی ۱ به فارسی روان و بدون کلمات اضافه", "نکته تحلیلی ۲ با تمرکز بر واقعیت پشت خبر"],\n'
+            '    "impact": "تأثیر عملیاتی یا اقتصادی خبر در یک جمله کوتاه، روان و ضربتی",\n'
+            '    "tag": "کلمه کلیدی اصلی (مثلاً: نظامی، ارز، تحریم، نیابتی)",\n'
+            '    "urgency": عدد بین 1 تا 10,\n'
+            '    "sentiment": عدد بین -1.0 تا 1.0\n'
+            "  }\n"
+            "]"
         )
 
-        headers = {"Content-Type": "application/json"}
-        if self.api_key:
-            headers["Authorization"] = f"Bearer {self.api_key}"
+        items_input = []
+        for item in candidates_data:
+            items_input.append(
+                f"--- ITEM INDEX: {item['index']} ---\n"
+                f"SOURCE: {item['source']}\n"
+                f"HEADLINE: {item['headline']}\n"
+                f"TEXT: {item['text'][:1000]}\n"
+            )
 
-        endpoints = [
-            "https://gen.pollinations.ai/v1/chat/completions",
-            "https://text.pollinations.ai/openai"
-        ]
+        user_prompt = "لطفاً تمامی آیتم‌های زیر را تحلیل و در قالب JSON مشخص‌شده برگردان:\n\n" + "\n".join(items_input)
 
-        current_text = full_text
-        for attempt in range(CONFIG.get('AI_RETRIES', 3)):
-            if attempt > 0:
-                current_text = headline + " " + full_text[:800]
-
-            payload = {
-                "model": "openai",
-                "messages": [
-                    {"role": "system", "content": system_prompt},
-                    {
-                        "role": "user",
-                        "content": f"{regime_instruction}SOURCE: {source_name}\nHEADLINE: {headline}\nTEXT: {current_text}"
-                    }
-                ],
-                "temperature": 0.25
-            }
-
-            for ep in endpoints:
-                try:
-                    resp = self.scraper.post(ep, headers=headers, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45))
-                    if resp.status_code == 200:
-                        raw = resp.json()['choices'][0]['message']['content']
-                        clean = re.sub(r'```json\s*|```', '', raw).strip()
-                        data = json.loads(clean)
-                        if 'title_fa' in data and 'summary' in data:
-                            return data
-                    else:
-                        logger.warning(f"AI endpoint ({ep}) returned HTTP {resp.status_code}: {resp.text[:200]}")
-                except Exception as e:
-                    logger.warning(f"AI endpoint ({ep}) attempt failed: {e}")
-
-            time.sleep(1.5)
-        return None
-
+        data = self._call_gemini(system_prompt, user_prompt, temperature=0.25)
+        if isinstance(data, list):
+            return {item.get('index'): item for item in data if 'index' in item}
+        return {}
+        
     def generate_daily_summary(self):
         now = datetime.now(timezone.utc)
         today_start = now.replace(hour=0, minute=0, second=0, microsecond=0)
@@ -733,8 +747,6 @@ class IranNewsRadar:
         return self.analyze_daily_summary_with_ai(news_block, previous_block)
 
     def analyze_daily_summary_with_ai(self, news_block, previous_block):
-        if not self.api_key:
-            return None
         system_prompt = """
 You are a senior geopolitical intelligence analyst aligned with the Iranian nationalist opposition.
 This is a rolling daily strategic assessment.
@@ -780,27 +792,8 @@ STRICT OUTPUT JSON:
   "change_from_previous": "افزایش | کاهش | بدون تغییر"
 }
 """
-        try:
-            resp = self.scraper.post(
-                "https://gen.pollinations.ai/v1/chat/completions",
-                headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
-                json={
-                    "model": "openai",
-                    "messages": [
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": f"TODAY NEWS:\n{news_block}\n\nPREVIOUS SUMMARY:\n{previous_block}"}
-                    ],
-                    "temperature": 0.2
-                },
-                timeout=60
-            )
-            if resp.status_code == 200:
-                raw = resp.json()['choices'][0]['message']['content']
-                clean = re.sub(r'```json\s*|```', '', raw).strip()
-                return json.loads(clean)
-        except Exception as e:
-            logger.error(f"Daily Summary AI Error: {e}")
-        return None
+        user_prompt = f"TODAY NEWS:\n{news_block}\n\nPREVIOUS SUMMARY:\n{previous_block}"
+        return self._call_gemini(system_prompt, user_prompt, temperature=0.2)
 
     # ───────────────────────── process item ─────────────────────────
 
@@ -1464,30 +1457,11 @@ STRICT OUTPUT JSON:
   "bottom_line": "نتیجه‌گیری در یک جمله کوتاه"
 }}
 """
-        try:
-            resp = self.scraper.post(
-                "https://gen.pollinations.ai/v1/chat/completions",
-                headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
-                json={
-                    "model": "openai",
-                    "messages": [
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": news_text}
-                    ],
-                    "temperature": 0.2
-                },
-                timeout=45
-            )
-            if resp.status_code == 200:
-                raw = resp.json()['choices'][0]['message']['content']
-                clean = re.sub(r'```json\s*|```', '', raw).strip()
-                data = json.loads(clean)
-                self._atomic_json_dump('bulletins.json', data)
-                logger.info(f">>> Scheduled Bulletin ({edition_title}) generated successfully.")
-                return data
-        except Exception as e:
-            logger.error(f"Bulletin Generation Error: {e}")
-        return None
+        data = self._call_gemini(system_prompt, news_text, temperature=0.2)
+        if data:
+            self._atomic_json_dump('bulletins.json', data)
+            logger.info(f">>> Scheduled Bulletin ({edition_title}) generated successfully.")
+        return data
 
     def generate_special_topic_report(self):
         if len(self.existing_news) < 5:
@@ -1522,30 +1496,11 @@ STRICT OUTPUT JSON:
   "strategic_outlook": "پیش‌بینی ادامه روند این پرونده در هفته آینده"
 }
 """
-        try:
-            resp = self.scraper.post(
-                "https://gen.pollinations.ai/v1/chat/completions",
-                headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
-                json={
-                    "model": "openai",
-                    "messages": [
-                        {"role": "system", "content": system_prompt},
-                        {"role": "user", "content": f"موضوع پرخبر: {top_tag}\n\nگزارش‌های هم‌زمان:\n{cluster_context}"}
-                    ],
-                    "temperature": 0.25
-                },
-                timeout=60
-            )
-            if resp.status_code == 200:
-                raw = resp.json()['choices'][0]['message']['content']
-                clean = re.sub(r'```json\s*|```', '', raw).strip()
-                data = json.loads(clean)
-                self._atomic_json_dump('special_reports.json', data)
-                logger.info(f">>> Special Report on ({top_tag}) generated successfully.")
-                return data
-        except Exception as e:
-            logger.error(f"Special Report Error: {e}")
-        return None
+        data = self._call_gemini(system_prompt, f"موضوع: {top_tag}\n\nگزارش‌ها:\n{cluster_context}", temperature=0.25)
+        if data:
+            self._atomic_json_dump('special_reports.json', data)
+            logger.info(f">>> Special Report on ({top_tag}) generated successfully.")
+        return data
 
     # ───────────────────────── main run ─────────────────────────
 
@@ -1611,19 +1566,80 @@ STRICT OUTPUT JSON:
             f"Total Fetched: {len(results)} | Candidates (new/recent/capped): {len(candidates)}"
         )
 
+        # In run() method:
         new_processed_items = []
         if candidates:
+            # 1. Parallel Content Extraction
+            scraped_items = []
             with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIG['MAX_WORKERS']) as exc:
-                futures = {exc.submit(self.process_item, i): i for i in candidates}
-                for fut in concurrent.futures.as_completed(futures):
+                future_to_cand = {}
+                for idx, cand in enumerate(candidates):
+                    raw_title = cand.get('title', '').rsplit(' - ', 1)[0].strip()
+                    publisher = cand.get('publisher', {}).get('title', 'Unknown')
+                    final_url = self._resolve_final_url(cand.get('url'), raw_title)
+                    if not final_url:
+                        continue
+                    clean_u = self._clean_url(final_url)
+                    snippet = cand.get('description', raw_title)
+                    f = exc.submit(self.scrape_article_data, final_url, snippet, cand.get('image'))
+                    future_to_cand[f] = (idx, cand, raw_title, publisher, final_url, clean_u, snippet)
+
+                for fut in concurrent.futures.as_completed(future_to_cand):
+                    idx, cand, raw_title, publisher, final_url, clean_u, snippet = future_to_cand[fut]
                     try:
-                        res = fut.result()
-                        if res:
-                            new_processed_items.append(res)
-                            self.seen_urls.add(res['clean_url'])
-                            self.recent_title_hashes.add(self._title_hash(res.get('title_en', '')))
+                        text, photo = fut.result()
+                        scraped_items.append({
+                            'index': idx,
+                            'cand': cand,
+                            'headline': raw_title,
+                            'source': publisher,
+                            'url': final_url,
+                            'clean_url': clean_u,
+                            'snippet': snippet,
+                            'text': text,
+                            'photo': photo
+                        })
                     except Exception as e:
-                        logger.error(f"process_item worker error: {e}")
+                        logger.error(f"Scrape worker error: {e}")
+
+            # 2. Batch AI Analysis in ONE Request
+            if scraped_items:
+                ai_batch_results = self.batch_analyze_with_gemini(scraped_items)
+
+                for item in scraped_items:
+                    ai = ai_batch_results.get(item['index'])
+                    if not ai:
+                        continue
+                    try:
+                        urgency_val = int(ai.get('urgency', 3))
+                    except Exception:
+                        urgency_val = 3
+                    try:
+                        ts = parser.parse(item['cand'].get('published date')).timestamp()
+                    except Exception:
+                        ts = time.time()
+
+                    photo_url = self._pick_image(item['photo'], item['cand'].get('image'), fallback_text=item['headline'])
+                    news_id = self._generate_news_id(item['clean_url'])
+
+                    res = {
+                        "id": news_id,
+                        "title_fa": ai.get('title_fa', item['headline']),
+                        "title_en": item['headline'],
+                        "summary": ai.get('summary', [item['snippet']]),
+                        "impact": ai.get('impact', '...'),
+                        "tag": ai.get('tag', 'General'),
+                        "urgency": urgency_val,
+                        "sentiment": ai.get('sentiment', 0),
+                        "source": item['source'],
+                        "url": item['url'],
+                        "clean_url": item['clean_url'],
+                        "image": photo_url,
+                        "timestamp": ts
+                    }
+                    new_processed_items.append(res)
+                    self.seen_urls.add(res['clean_url'])
+                    self.recent_title_hashes.add(self._title_hash(res.get('title_en', '')))
 
         if new_processed_items:
             self.existing_news = self.save_news(new_processed_items)
