@@ -98,21 +98,15 @@ logger = logging.getLogger()
 
 
 class IranNewsRadar:
-    # STEP 1: Replace __init__
     def __init__(self):
         self.scraper = cloudscraper.create_scraper(
             browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False}
         )
-        adapter = cloudscraper.requests.adapters.HTTPAdapter(
-            pool_connections=25, pool_maxsize=25, max_retries=2
-        )
-        self.scraper.mount('https://', adapter)
-        self.scraper.mount('http://', adapter)
         self.scraper.headers.update({
             'Accept-Language': 'en-US,en;q=0.9,fa;q=0.8',
             'Cache-Control': 'no-cache',
         })
-        self.api_key = CONFIG.get('POLLINATIONS_KEY')
+        self.api_key = CONFIG['POLLINATIONS_KEY']
         self.existing_news = self._load_existing_news()
 
         self.seen_urls = set()
@@ -489,19 +483,33 @@ class IranNewsRadar:
             return None
         if "news.google.com" not in url:
             return url
-        
-        # If set to False, fallback to basic decoding instead of returning None
-        if not CONFIG.get('RESOLVE_GOOGLE_URLS', False):
-            return url  # Allow url to pass through
-    
+
+        # Decode base64 Google News URL to avoid landing on JS redirect pages
+        try:
+            match = re.search(r'articles/([^?&]+)', url)
+            if match:
+                encoded = match.group(1)
+                # Pad base64 string
+                padded = encoded + '=' * (-len(encoded) % 4)
+                import base64
+                decoded_bytes = base64.urlsafe_b64decode(padded.encode('ascii'))
+                # Extract embedded URL from protobuf bytes
+                urls_found = re.findall(rb'https?://[a-zA-Z0-9.\-_~:/?#[\]@!$&\'()*+,;=%]+', decoded_bytes)
+                for u in urls_found:
+                    u_str = u.decode('utf-8', errors='ignore')
+                    if "google.com" not in u_str:
+                        return u_str
+        except Exception:
+            pass
+
         try:
             resp = self.scraper.get(url, allow_redirects=True, timeout=8)
             if resp.status_code == 200 and "news.google.com" not in resp.url:
                 return resp.url
         except Exception as e:
             logger.warning(f"Failed to resolve Google URL {url}: {e}")
-        
-        return url # Return original URL as fallback rather than dropping it
+
+        return url
 
     # ───────────────────────── content grab ─────────────────────────
 
@@ -606,10 +614,11 @@ class IranNewsRadar:
 
     # ───────────────────────── AI analysis ─────────────────────────
 
-    # STEP 2: Replace analyze_with_ai
     def analyze_with_ai(self, headline, full_text, source_name):
         is_regime = any(x in source_name.lower() for x in ['tasnim', 'fars', 'irna', 'presstv', 'mehr'])
-        regime_instruction = "CRITICAL: The source is Iranian State Media. Expose propaganda. " if is_regime else ""
+        regime_instruction = ""
+        if is_regime:
+            regime_instruction = "CRITICAL: The source is Iranian State Media. Expose propaganda. "
 
         system_prompt = (
             "تو یک تحلیل‌گر ارشد و تیزبین ژئوپلیتیک، مسلط به ادبیات کانال‌های تحلیلی تلگرام فارسی (مانند تحلیل‌گران مستقل و اپوزیسیون ایرانی) هستی.\n"
@@ -651,54 +660,48 @@ class IranNewsRadar:
             "}"
         )
 
-        endpoints = [
-            "https://text.pollinations.ai/openai",
-            "https://gen.pollinations.ai/v1/chat/completions"
-        ]
-
         headers = {"Content-Type": "application/json"}
         if self.api_key:
             headers["Authorization"] = f"Bearer {self.api_key}"
 
-        current_text = full_text[:1500] if full_text else headline
-        for endpoint in endpoints:
-            for attempt in range(CONFIG.get('AI_RETRIES', 2)):
+        endpoints = [
+            "https://gen.pollinations.ai/v1/chat/completions",
+            "https://text.pollinations.ai/openai"
+        ]
+
+        current_text = full_text
+        for attempt in range(CONFIG.get('AI_RETRIES', 3)):
+            if attempt > 0:
+                current_text = headline + " " + full_text[:800]
+
+            payload = {
+                "model": "openai",
+                "messages": [
+                    {"role": "system", "content": system_prompt},
+                    {
+                        "role": "user",
+                        "content": f"{regime_instruction}SOURCE: {source_name}\nHEADLINE: {headline}\nTEXT: {current_text}"
+                    }
+                ],
+                "temperature": 0.25
+            }
+
+            for ep in endpoints:
                 try:
-                    resp = self.scraper.post(
-                        endpoint,
-                        headers=headers,
-                        json={
-                            "model": "openai",
-                            "messages": [
-                                {"role": "system", "content": system_prompt},
-                                {
-                                    "role": "user",
-                                    "content": f"{regime_instruction}SOURCE: {source_name}\nHEADLINE: {headline}\nTEXT: {current_text}"
-                                }
-                            ],
-                            "temperature": 0.25
-                        },
-                        timeout=CONFIG.get('AI_TIMEOUT', 30)
-                    )
+                    resp = self.scraper.post(ep, headers=headers, json=payload, timeout=CONFIG.get('AI_TIMEOUT', 45))
                     if resp.status_code == 200:
                         raw = resp.json()['choices'][0]['message']['content']
                         clean = re.sub(r'```json\s*|```', '', raw).strip()
                         data = json.loads(clean)
                         if 'title_fa' in data and 'summary' in data:
                             return data
+                    else:
+                        logger.warning(f"AI endpoint ({ep}) returned HTTP {resp.status_code}: {resp.text[:200]}")
                 except Exception as e:
-                    logger.warning(f"AI attempt on {endpoint} failed: {e}")
-                    time.sleep(1)
+                    logger.warning(f"AI endpoint ({ep}) attempt failed: {e}")
 
-        # Resilient fallback so valid news is never discarded if AI endpoints lag
-        return {
-            "title_fa": headline,
-            "summary": [headline],
-            "impact": "تحولات و رویدادهای جاری مرتبط با ایران و منطقه.",
-            "tag": "خبر فوری",
-            "urgency": 7,
-            "sentiment": 0.0
-        }
+            time.sleep(1.5)
+        return None
 
     def generate_daily_summary(self):
         now = datetime.now(timezone.utc)
@@ -729,30 +732,39 @@ class IranNewsRadar:
             )
         return self.analyze_daily_summary_with_ai(news_block, previous_block)
 
-    # STEP 3: Replace analyze_daily_summary_with_ai
     def analyze_daily_summary_with_ai(self, news_block, previous_block):
+        if not self.api_key:
+            return None
         system_prompt = """
 You are a senior geopolitical intelligence analyst aligned with the Iranian nationalist opposition.
 This is a rolling daily strategic assessment.
+You will receive:
+1) All today's news events
+2) The previous run's strategic summary (if available)
+Your job:
+- Detect evolution compared to previous assessment.
+- Identify new escalation or de-escalation signals.
+- Strip away regime propaganda and expose their true vulnerabilities.
+- Provide highly analytical predictive intelligence based on geopolitical realities.
 OUTPUT LANGUAGE: Persian (Farsi)
 STRICT OUTPUT JSON:
 {
   "date": "YYYY-MM-DD HH:MM",
   "executive_tldr": "1 punchy sentence summarizing the day's geopolitical reality",
-  "themes": ["bullet 1", "bullet 2", "bullet 3"],
+  "themes": [3-5 bullet points],
   "regime_vulnerabilities": {
-    "regime_internal_friction": "1 sentence",
-    "infrastructure_vulnerability": "1 sentence",
-    "sanctions_evasion_watch": "1 sentence"
+    "regime_internal_friction": "1 sentence exposing IRGC vs Government infighting or purges",
+    "infrastructure_vulnerability": "1 sentence on energy shortages, cyber-attacks, or systemic failures",
+    "sanctions_evasion_watch": "1 sentence on oil smuggling or banking evasion exposed today"
   },
-  "proxy_network_status": "1 sentence",
-  "opposition_momentum": "1 sentence",
-  "regime_narrative": "1 sentence",
-  "predicted_regime_response": "1 sentence",
+  "proxy_network_status": "1 sentence analyzing the health/actions of regional proxies (Hezbollah, Houthis, etc.)",
+  "opposition_momentum": "1 sentence on diaspora actions, internal strikes, or civil disobedience",
+  "regime_narrative": "1 concise sentence explaining what propaganda state media is pushing today",
+  "predicted_regime_response": "1 sentence predicting their next move (e.g., proxy attack, internal crackdown, diplomatic deception)",
   "forecast": {
-    "most_likely_scenario": "1 paragraph",
-    "regime_worst_case_scenario": "1 paragraph",
-    "flashpoint_indicator": "1 sentence"
+    "most_likely_scenario": "1 paragraph predicting the realistic outcome over the next 3-7 days",
+    "regime_worst_case_scenario": "1 paragraph detailing the specific events that could fracture regime stability this week",
+    "flashpoint_indicator": "The specific trigger event/red line that signals immediate severe escalation"
   },
   "probability_matrix": {
     "military_escalation_percent": "integer (0-100)",
@@ -760,44 +772,34 @@ STRICT OUTPUT JSON:
     "domestic_unrest_percent": "integer (0-100)",
     "regime_defection_risk_percent": "integer (0-100)"
   },
-  "key_figures_in_focus": ["Name 1 - Reason"],
-  "strategic_assessment": "1-2 paragraphs of realistic geopolitical analysis",
-  "market_impact": "1 paragraph on economic vulnerabilities",
+  "key_figures_in_focus": ["Name 1 - Reason", "Name 2 - Reason"],
+  "strategic_assessment": "1-2 paragraphs of hardline, realistic geopolitical analysis",
+  "market_impact": "1 paragraph on economic vulnerabilities and sanctions impact",
   "currency_outlook": "جهش دلار | نوسان بالا | ثبات شکننده",
   "risk_level": "integer (1-10)",
   "change_from_previous": "افزایش | کاهش | بدون تغییر"
 }
 """
-        headers = {"Content-Type": "application/json"}
-        if self.api_key:
-            headers["Authorization"] = f"Bearer {self.api_key}"
-
-        endpoints = [
-            "https://text.pollinations.ai/openai",
-            "https://gen.pollinations.ai/v1/chat/completions"
-        ]
-
-        for endpoint in endpoints:
-            try:
-                resp = self.scraper.post(
-                    endpoint,
-                    headers=headers,
-                    json={
-                        "model": "openai",
-                        "messages": [
-                            {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": f"TODAY NEWS:\n{news_block}\n\nPREVIOUS SUMMARY:\n{previous_block}"}
-                        ],
-                        "temperature": 0.2
-                    },
-                    timeout=50
-                )
-                if resp.status_code == 200:
-                    raw = resp.json()['choices'][0]['message']['content']
-                    clean = re.sub(r'```json\s*|```', '', raw).strip()
-                    return json.loads(clean)
-            except Exception as e:
-                logger.error(f"Daily Summary AI ({endpoint}) Error: {e}")
+        try:
+            resp = self.scraper.post(
+                "https://gen.pollinations.ai/v1/chat/completions",
+                headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
+                json={
+                    "model": "openai",
+                    "messages": [
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": f"TODAY NEWS:\n{news_block}\n\nPREVIOUS SUMMARY:\n{previous_block}"}
+                    ],
+                    "temperature": 0.2
+                },
+                timeout=60
+            )
+            if resp.status_code == 200:
+                raw = resp.json()['choices'][0]['message']['content']
+                clean = re.sub(r'```json\s*|```', '', raw).strip()
+                return json.loads(clean)
+        except Exception as e:
+            logger.error(f"Daily Summary AI Error: {e}")
         return None
 
     # ───────────────────────── process item ─────────────────────────
@@ -1432,7 +1434,6 @@ STRICT OUTPUT JSON:
         except Exception as e:
             logger.error(f"Failed to save daily summary: {e}")
 
-    # STEP 4: Replace generate_scheduled_bulletin
     def generate_scheduled_bulletin(self):
         tehran_time = self._get_tehran_time()
         hour = tehran_time.hour
@@ -1452,7 +1453,7 @@ STRICT OUTPUT JSON:
             for item in top_items
         ])
         system_prompt = f"""
-تو سردبیر ارشد بخش اخبار فوری هستی. برای "{edition_title}" یک خلاصه خبر ۳ دقیقه‌ای روان به فارسی بنویس.
+تو سردبیر ارشد بخش اخبار فوری هستی. برای "{edition_title}" یک خلاصه خبر ۳ دقیقه‌ای روان، ضربتی و بسیار جذاب به فارسی بنویس.
 خروجی باید JSON زیر باشد:
 {{
   "edition": "{edition_key}",
@@ -1463,42 +1464,31 @@ STRICT OUTPUT JSON:
   "bottom_line": "نتیجه‌گیری در یک جمله کوتاه"
 }}
 """
-        headers = {"Content-Type": "application/json"}
-        if self.api_key:
-            headers["Authorization"] = f"Bearer {self.api_key}"
-
-        endpoints = [
-            "https://text.pollinations.ai/openai",
-            "https://gen.pollinations.ai/v1/chat/completions"
-        ]
-
-        for endpoint in endpoints:
-            try:
-                resp = self.scraper.post(
-                    endpoint,
-                    headers=headers,
-                    json={
-                        "model": "openai",
-                        "messages": [
-                            {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": news_text}
-                        ],
-                        "temperature": 0.2
-                    },
-                    timeout=40
-                )
-                if resp.status_code == 200:
-                    raw = resp.json()['choices'][0]['message']['content']
-                    clean = re.sub(r'```json\s*|```', '', raw).strip()
-                    data = json.loads(clean)
-                    self._atomic_json_dump('bulletins.json', data)
-                    logger.info(f">>> Scheduled Bulletin ({edition_title}) generated successfully.")
-                    return data
-            except Exception as e:
-                logger.error(f"Bulletin Generation ({endpoint}) Error: {e}")
+        try:
+            resp = self.scraper.post(
+                "https://gen.pollinations.ai/v1/chat/completions",
+                headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
+                json={
+                    "model": "openai",
+                    "messages": [
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": news_text}
+                    ],
+                    "temperature": 0.2
+                },
+                timeout=45
+            )
+            if resp.status_code == 200:
+                raw = resp.json()['choices'][0]['message']['content']
+                clean = re.sub(r'```json\s*|```', '', raw).strip()
+                data = json.loads(clean)
+                self._atomic_json_dump('bulletins.json', data)
+                logger.info(f">>> Scheduled Bulletin ({edition_title}) generated successfully.")
+                return data
+        except Exception as e:
+            logger.error(f"Bulletin Generation Error: {e}")
         return None
 
-    # STEP 5: Replace generate_special_topic_report
     def generate_special_topic_report(self):
         if len(self.existing_news) < 5:
             return None
@@ -1517,54 +1507,44 @@ STRICT OUTPUT JSON:
             for i in cluster_items[:6]
         ])
         system_prompt = """
-تو تیم تحریریه پرونده‌های ویژه خبری هستی. یک «پرونده ویژه اختصاصی» به فارسی روان بنویس.
+تو تیم تحریریه پرونده‌های ویژه خبری هستی. بر اساس گزارش‌های ورودی که همگی درباره یک موضوع پرخبر امروز هستند، یک «پرونده ویژه اختصاصی» به فارسی روان، جذاب و تحلیل‌گرایانه بنویس.
 خروجی باید JSON زیر باشد:
 {
   "topic_tag": "موضوع پرونده",
   "headline": "تیتر اصلی و جذاب پرونده ویژه",
-  "lead_paragraph": "مقدمه و اصل ماجرا",
+  "lead_paragraph": "مقدمه و اصل ماجرا در دو جمله بسیار روان",
   "key_findings": [
-    "یافته ۱",
-    "یافته ۲",
-    "یافته ۳"
+    "یافته و زاویه دید ۱",
+    "یافته و زاویه دید ۲",
+    "یافته و زاویه دید ۳"
   ],
-  "regime_vs_reality": "مقایسه ادعای رسانه‌های حکومتی با واقعیت میدانی",
-  "strategic_outlook": "پیش‌بینی ادامه روند"
+  "regime_vs_reality": "مقایسه ادعای رسانه‌های حکومتی با واقعیت میدانی در یک پاراگراف",
+  "strategic_outlook": "پیش‌بینی ادامه روند این پرونده در هفته آینده"
 }
 """
-        headers = {"Content-Type": "application/json"}
-        if self.api_key:
-            headers["Authorization"] = f"Bearer {self.api_key}"
-
-        endpoints = [
-            "https://text.pollinations.ai/openai",
-            "https://gen.pollinations.ai/v1/chat/completions"
-        ]
-
-        for endpoint in endpoints:
-            try:
-                resp = self.scraper.post(
-                    endpoint,
-                    headers=headers,
-                    json={
-                        "model": "openai",
-                        "messages": [
-                            {"role": "system", "content": system_prompt},
-                            {"role": "user", "content": f"موضوع پرخبر: {top_tag}\n\nگزارش‌های هم‌زمان:\n{cluster_context}"}
-                        ],
-                        "temperature": 0.25
-                    },
-                    timeout=50
-                )
-                if resp.status_code == 200:
-                    raw = resp.json()['choices'][0]['message']['content']
-                    clean = re.sub(r'```json\s*|```', '', raw).strip()
-                    data = json.loads(clean)
-                    self._atomic_json_dump('special_reports.json', data)
-                    logger.info(f">>> Special Report on ({top_tag}) generated successfully.")
-                    return data
-            except Exception as e:
-                logger.error(f"Special Report ({endpoint}) Error: {e}")
+        try:
+            resp = self.scraper.post(
+                "https://gen.pollinations.ai/v1/chat/completions",
+                headers={"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"},
+                json={
+                    "model": "openai",
+                    "messages": [
+                        {"role": "system", "content": system_prompt},
+                        {"role": "user", "content": f"موضوع پرخبر: {top_tag}\n\nگزارش‌های هم‌زمان:\n{cluster_context}"}
+                    ],
+                    "temperature": 0.25
+                },
+                timeout=60
+            )
+            if resp.status_code == 200:
+                raw = resp.json()['choices'][0]['message']['content']
+                clean = re.sub(r'```json\s*|```', '', raw).strip()
+                data = json.loads(clean)
+                self._atomic_json_dump('special_reports.json', data)
+                logger.info(f">>> Special Report on ({top_tag}) generated successfully.")
+                return data
+        except Exception as e:
+            logger.error(f"Special Report Error: {e}")
         return None
 
     # ───────────────────────── main run ─────────────────────────
