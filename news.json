@@ -1,5 +1,23 @@
 [
     {
+        "id": "9e739984b4",
+        "title_fa": "جهش دوباره قیمت نفت با تشدید فشارهای تحریمی آمریکا بر ایران",
+        "title_en": "Oil set for second weekly gain as US ramps up pressure on Iran",
+        "summary": [
+            "قیمت جهانی نفت تحت تاثیر تصمیم واشنگتن برای خفه کردن شریان‌های صادراتی ایران، دومین هفته صعودی خود را ثبت کرد.",
+            "سرمایه‌گذاران بازار انرژی، خط و نشان‌های جدید آمریکا را جدی گرفته و احتمال کاهش واقعی عرضه نفت ایران را قیمت‌گذاری کرده‌اند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه فشار مالی بر تهران و هم‌زمان صعود هزینه‌های انرژی در بازارهای جهانی.",
+        "tag": "اقتصاد",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787318381.0
+    },
+    {
         "id": "c9d174c404",
         "title_fa": "اعتراف مقام ارشد تهران به خفگی اقتصادی تحت تحریم‌ها",
         "title_en": "Iran Must Plan to Overcome ‘Unjust Sanctions,’ Top Tehran Official Says",
@@ -161,6 +179,25 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-touts-trade-ties-u-103447256.html",
         "image": "http://www.bing.com/th?id=ONUT.bxFa88XQBdXup-rq_iUoLw&pid=News",
         "timestamp": 1787291040.0
+    },
+    {
+        "id": "06ed4f8dd0",
+        "title_fa": "ادعای فرار به جلوی پزشکیان هم‌زمان با موج تازه فشارهای واشنگتن",
+        "title_en": "Iran's president calls for end to war from 'position of power' as US ups pressure",
+        "summary": [
+            "مسعود پزشکیان در یک ژست تبلیغاتی و برای پوشاندن اثر تحریم‌های جدید، از «موضع قدرت» خواستار پایان درگیری‌ها با آمریکا شد.",
+            "جیغ بنفش وزارت خارجه جمهوری اسلامی و «تروریسم اقتصادی» خواندن تحریم‌های تازه، نشان از ضربه کاری واشنگتن به منابع مالی حکومت دارد.",
+            "پوشاندن عقب‌نشینی در قالب خط کلامی «پیروزی»، تاکتیک تکراری تهران برای مدیریت بدنه داخلی در مواجهه با فشار حداکثری است."
+        ],
+        "impact": "تلاش سراسیمه تهران برای دست‌وپا کردن راه خروج دیپلماتیک بدون پذیرش رسمی شکست.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/articles/irans-president-calls-end-war-123133352.html",
+        "clean_url": "https://www.yahoo.com/news/articles/irans-president-calls-end-war-123133352.html",
+        "image": "http://www.bing.com/th?id=ONUT.JqU7uQumB5zjs2gDCdneeg&pid=News",
+        "timestamp": 1787290200.0
     },
     {
         "id": "6c58095057",
@@ -5564,43 +5601,5 @@
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785171600.0,
         "id": "073a3897d3"
-    },
-    {
-        "title_fa": "تغییر شیوه گزارش تلفات پنتاگون در جنگ علیه ایران: ابزار مدیریت ادراک، نه شفافیت",
-        "title_en": "Pentagon Changes How It Reports Casualties in Iran War",
-        "summary": [
-            "طبق گزارش نیویورک‌تایمز، پنتاگون «نحوه گزارش» تلفات در جنگ علیه ایران را تغییر داده است؛ یعنی داده‌های تلفات که رسانه‌ها و افکار عمومی بر پایه آن قضاوت می‌کنند، از این پس با قالب/روش متفاوتی ارائه خواهد شد.",
-            "این تغییر می‌تواند به کاهش یا مهار پیامدهای سیاسیِ تلفات (در افکار عمومی داخل آمریکا و میان متحدان) کمک کند، چون چارچوب ارائه آمار اثر مستقیم بر برداشت «شدت واقعی» جنگ دارد—حتی اگر عدد نهایی الزاماً تغییر نکرده باشد.",
-            "نبود شفافیت پایدار درباره تلفات، احتمال سوءبرداشت و بی‌اعتمادی را بالا می‌برد و می‌تواند به بی‌ثباتی در سطح روایت‌ها دامن بزند؛ در چنین شرایطی، رژیم‌ها و نهادهای جنگی معمولاً از «کنترل روایت» برای حفظ مشروعیت تصمیمات خود استفاده می‌کنند."
-        ],
-        "impact": "تغییر روش گزارش تلفات، عملاً میدان نبرد اطلاعاتی را به نفع مدیریت ادراک جابه‌جا می‌کند و اثر سیاسی-رسانه‌ای تلفات را بازطراحی می‌نماید.",
-        "tag": "اطلاعات",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
-        "clean_url": "https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785171600.0,
-        "id": "0f0054df4a"
-    },
-    {
-        "title_fa": "افزایش محدود محبوبیت ترامپ همزمان با مخالفت گسترده با جنگ در ایران",
-        "title_en": "Trump sees approval rating boost amid unpopular Iran war, poll shows",
-        "summary": [
-            "طبق نظرسنجی جدید Reuters/Ipsos (منتشرشده 27 جولای)، محبوبیت ترامپ به 37% رسیده (3 واحد بالاتر از ژوئن)، اما فقط 33% از آمریکایی‌ها با جنگ علیه ایران موافق‌اند؛ این کمترین سطح حمایت ثبت‌شده از آغاز درگیری در اواخر فوریه است.",
-            "با وجود رشد جزئی در عدد کلی محبوبیت رئیس‌جمهور، مخالفت اجتماعی نسبت به خود جنگ همچنان پایین و رو به بحرانی ماندن دارد و شکاف «محبوبیت ترامپ» با «پذیرش جنگ» برجسته‌تر شده است.",
-            "همزمان با این فضای سیاسی، تلفات نظامی آمریکا در چارچوب درگیری با ایران افزایش یافته: دو سرباز آمریکایی در حمله در اردن کشته شدند و شمار تلفات نیروهای آمریکا در این جنگ به 17 نفر رسیده است."
-        ],
-        "impact": "نوسان مثبت محدود در محبوبیت سیاسی ترامپ اثر جنگ‌زدایی/فشار عمومی را خنثی نمی‌کند و افزایش تلفات، هزینه سیاسی ادامه جنگ را تشدید می‌کند.",
-        "tag": "ایران",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-sees-approval-rating-boost-233540067.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-sees-approval-rating-boost-233540067.html",
-        "image": "http://www.bing.com/th?id=ONUT.BOYOQ1RyKpb5U8742jeu9Q&pid=News",
-        "timestamp": 1785171360.0,
-        "id": "a4e6023979"
     }
 ]
