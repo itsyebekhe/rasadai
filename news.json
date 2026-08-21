@@ -19,6 +19,24 @@
         "timestamp": 1787344382.0
     },
     {
+        "id": "f7ab0d37c5",
+        "title_fa": "تغییر معادله قدرت در لبنان با ضربات سنگین به جبهه نیابتی",
+        "title_en": "Video Regional power struggle intensifies as Iran-Israel tensions reshape Lebanon - ABC News",
+        "summary": [
+            "تنش مستقیم میان اسرائیل و حکومت ایران، ساختار امنیتی و سیاسی لبنان را وارد فاز تازه‌ای کرده است.",
+            "اسرائیل با تضعیف محور نیابتی سپاه، نفوذ منطقه‌ای تهران در جبهه شمالی را عقب می‌زند."
+        ],
+        "impact": "تضعیف عقب‌نشینی استراتژیک جمهوری اسلامی و از دست رفتن اهرم‌های فشار منطقه‌ای.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05ci01SVpEeUp1VmhKajEyMEFoZXBqYW1SRGdyLXFWbXJaTUJsZUEydVFDdHJHb3NWdnJsUVlNNEJFYXpFTUh3b0JoWnA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE05ci01SVpEeUp1VmhKajEyMEFoZXBqYW1SRGdyLXFWbXJaTUJsZUEydVFDdHJHb3NWdnJsUVlNNEJFYXpFTUh3b0JoWnA",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787337474.0
+    },
+    {
         "id": "28b9328db0",
         "title_fa": "تأکید بر تغییر رژیم ایران و فاصله‌گیری دمشق از محور تهران",
         "title_en": "Bessent vows to topple Iran regime; Syria weighs Mecca Defense Pact TV7 Israel News - 21 Aug.",
@@ -72,6 +90,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNRNl9oTjF2N0lxaFJXNmtadnlNb1FrdzhORDQ1OTRlNEhOUnFxMEY5Q2tQUDA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787328915.0
+    },
+    {
+        "id": "e597a7aa38",
+        "title_fa": "نوسان قیمت نفت در پی موضع‌گیری پزشکیان و تهدیدهای ترامپ",
+        "title_en": "Crude Oil Prices Consolidate Below Thursday’s 1-Month High",
+        "summary": [
+            "مسعود پزشکیان با ژست اقتدار خواستار پایان جنگ شد، اما بازار این اظهارات را عقب‌نشینی تاکتیکی تهران دید.",
+            "تهدید دونالد ترامپ مبنی بر خفه‌کردن شریان‌های اقتصادی ایران، احتمال بازگشایی تنگه هرمز را کم‌رنگ‌تر کرد.",
+            "بازار جهانی انرژی همچنان تحت تأثیر سایه سنگین درگیری‌های نظامی و فشار حداکثری واشنگتن نوسان می‌کند."
+        ],
+        "impact": "تداوم رکود در صادرات نفت ایران و بی‌ثباتی شدید در قیمت جهانی انرژی.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-consolidate-below-153802362.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-consolidate-below-153802362.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0.jpg",
+        "timestamp": 1787327523.0
     },
     {
         "id": "9fc21d1604",
@@ -5559,43 +5596,5 @@
         "image": "http://www.bing.com/th?id=ONUT.09naRJoUm5YQb5AWbZyddQ&pid=News",
         "timestamp": 1785191820.0,
         "id": "4c95e538cf"
-    },
-    {
-        "title_fa": "ترامپ: حملات آمریکا علیه ایران جلوی «متلاشی شدن» اسرائیل را گرفت",
-        "title_en": "Trump says U.S. strikes on Iran saved Israel from being ‘terminated’",
-        "summary": [
-            "ترامپ مدعی شده حملات آمریکا علیه ایران باعث شده اسرائیل از «terminated» شدن نجات پیدا کند؛ یعنی روایت رسمی واشینگتن بر بازدارندگی از مسیر عملیات نظامی استوار شده.",
-            "این اظهارات عملاً نشان می‌دهد فشار خارجی از حالت صرفاً سیاسی/دیپلماتیک خارج شده و به سطح ضربه امنیتی مستقیم به رژیم رسیده است؛ پیامد آن می‌تواند تشدید چرخه پاسخ‌دادن و افزایش هزینه‌های امنیتی برای تهران باشد.",
-            "در چارچوب تحلیل فشار خارجی، حتی اگر جزئیات عملیاتی در گزارش نیامده باشد، خودِ ادعای «نجات اسرائیل» بیانگر تایید و استمرار راهبرد حمله/مهار است و می‌تواند بر محاسبات رژیم در منطقه و توان مدیریت بحران اثر مستقیم بگذارد."
-        ],
-        "impact": "این نوع اعلامیه، نشانه تشدید الگوی فشار نظامی واشینگتن و پرریسک شدن فضای امنیتی برای رژیم را تقویت می‌کند.",
-        "tag": "فشارخارجی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "MS NOW",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHg4MDVWSlVuSnU4a1RvNFotSGhjR0ZjYm1RLWVqME5kR0JqQm0wRFZfVnFTRnlEcTY0dHAzZmMwNVZ0Zi1SOEpwZDQ2SlpPUnd1dlRkUzFrY2hTQXhZcDlRY2VtUHQtMG81NGNFaTltbkpOQmdNVHhwMDcteXBBeEwtVWtyOXM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUHg4MDVWSlVuSnU4a1RvNFotSGhjR0ZjYm1RLWVqME5kR0JqQm0wRFZfVnFTRnlEcTY0dHAzZmMwNVZ0Zi1SOEpwZDQ2SlpPUnd1dlRkUzFrY2hTQXhZcDlRY2VtUHQtMG81NGNFaTltbkpOQmdNVHhwMDcteXBBeEwtVWtyOXM",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785190007.0,
-        "id": "8ff3961937"
-    },
-    {
-        "title_fa": "پهپاد انتحاری «هادید ۱۱۰» ارتقایافته با پرواز پایین‌تر و سرعت بالاتر؛ تهدید مستقیم علیه پایگاه‌ها و ناوهای آمریکا",
-        "title_en": "Iran’s deadliest kamikaze drone yet sends a message to Trump",
-        "summary": [
-            "طبق گزارش، «هادید ۱۱۰» ارتقایافته با موتور توربوجت، سرعت بیش از ۳۰۰ مایل/ساعت و سطح پرواز پایین‌تر طراحی شده تا از پدافند آمریکا سریع‌تر عبور کند؛ به گفته IRGC برای نخستین‌بار در دو هفته اخیر مستقر شده و به سمت پایگاه‌ها و ناوهای آمریکایی در منطقه شلیک کرده است.",
-            "برتری عملیاتی این سامانه در «کاهش زمان واکنش» پدافند است: سرعت بالا پنجره رهگیری و رهگیری-انهدام را کوتاه می‌کند و شکل بدنه با پوشش جاذب رادار و ورودی هوای S شکل برای کاهش رؤیت راداری به‌کار رفته است.",
-            "برد حدود ۲۲۰ مایل، ماندگاری نزدیک به یک ساعت و کلاهک حدود ۳۰ کیلوگرم ذکر شده؛ همچنین ادعا شده «کاملاً داخلی» ساخته شده، اما در متن مشخص نیست که این ادعا مستقل از منابع داخلی قابل راستی‌آزمایی است."
-        ],
-        "impact": "این ارتقا یعنی تهدید ایران در سطح تاکتیکی-منطقه‌ای علیه نیروهای آمریکا کارآمدتر شده و ریسک درگیری مستقیم با افزایش توان نفوذ پهپاد به پدافند بالا می‌رود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/stealthier-faster-deadlier-iran-unveils-050000112.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/stealthier-faster-deadlier-iran-unveils-050000112.html",
-        "image": "http://www.bing.com/th?id=ONUT.R4jAbfCGm8f5T6eiCY_0PQ&pid=News",
-        "timestamp": 1785189540.0,
-        "id": "b8e2d54600"
     }
 ]
