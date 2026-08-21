@@ -147,6 +147,25 @@
         "timestamp": 1787246956.0
     },
     {
+        "id": "cb64cde64e",
+        "title_fa": "خط‌ونشان تازه آمریکا؛ اجرای سخت‌ترین تحریم‌های تاریخ علیه تهران",
+        "title_en": "US says it will impose 'toughest sanctions in history' on Iran",
+        "summary": [
+            "اسکات بسنت، وزیر خزانه‌داری آمریکا، از کلید خوردن دور جدیدی از فشار حداکثری خبر داد که هدف مستقیم آن انسداد کامل منابع درآمدی جمهوری اسلامی است.",
+            "این تصمیم تمام شریان‌های نفتی و شبکه‌های دور زدن تحریم‌ها را نشان رفته تا توان مالی دستگاه‌های نظامی و نفوذ منطقه‌ای را از کار بیندازد.",
+            "تفاوت این موج با گذشته در بستن کامل روزنه‌های تجاری با کشورهای ثالث و نظارت شدید بر مبادلات ارزی است."
+        ],
+        "impact": "تشدید جهش قیمت ارز در بازار آزاد و شوک سنگین به درآمدهای نفتی کشور.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/us-says-it-will-impose-toughest-sanctions-in-history-on-iran/ar-AA2aASDy",
+        "clean_url": "https://www.msn.com/en-us/news/other/us-says-it-will-impose-toughest-sanctions-in-history-on-iran/ar-AA2aASDy",
+        "image": "http://www.bing.com/th?id=ONUT.80j_BfTD-R9QBElGYyzugQ&pid=News",
+        "timestamp": 1787245289.0
+    },
+    {
         "id": "347b63bb5f",
         "title_fa": "خط‌ونشان تازه ترامپ؛ ایران هرگز به سلاح هسته‌ای نمی‌رسد",
         "title_en": "Iran, the economy and mending fences: Top takeaways from Trump interview with friend-turned-foe Michael Cohen",
@@ -5603,24 +5622,5 @@
         "image": "https://gdb.rferl.org/dd9ec779-92b9-4cd2-80a4-08decad17715_cx51_cy0_cw44_w1200_h630.jpg",
         "timestamp": 1785139920.0,
         "id": "8054bbe15e"
-    },
-    {
-        "title_fa": "ثبت «قلعه الموت و استحکامات وابسته به آن» در فهرست میراث جهانی یونسکو",
-        "title_en": "قلعه الموت در استان قزوین در فهرست میراث جهانی یونسکو ثبت شد",
-        "summary": [
-            "کمیته میراث فرهنگی یونسکو در چهل‌وهشتمین اجلاس خود در بوسان با ثبت «قلعه الموت و استحکامات وابسته به آن» در فهرست میراث جهانی موافقت کرد.",
-            "این تصمیم، ارزش تاریخی-فرهنگی یک دارایی ملی در استان قزوین را به عنوان میراث جهانی تثبیت می‌کند و می‌تواند زمینه جذب گردشگری و توجه بین‌المللی را فراهم کند.",
-            "این رخداد بیشتر یک پیامد فرهنگی-بین‌المللی است و در متن گزارش، هیچ نشانه‌ای از اثر مستقیم بر وضعیت سیاسی، تحریم‌ها یا بحران‌های داخلی ارائه نشده است."
-        ],
-        "impact": "ثبت جهانی می‌تواند به تقویت جایگاه بین‌المللی میراث ایران و رونق گردشگری کمک کند، اما در اطلاعات موجود اثر فوری بر ثبات سیاسی یا اقتصادی رژیم ثابت نشده است.",
-        "tag": "فرهنگی",
-        "urgency": 2,
-        "sentiment": 0.4,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/iran-alamut-castle-recognized-by-unesco-fortifications/33813803.html",
-        "clean_url": "https://www.radiofarda.com/a/iran-alamut-castle-recognized-by-unesco-fortifications/33813803.html",
-        "image": "https://gdb.rferl.org/a8f7d2ac-cdfa-4781-80a0-08decad17715_cx0_cy9_cw0_w1200_h630.jpg",
-        "timestamp": 1785139020.0,
-        "id": "ad2753e1fd"
     }
 ]
