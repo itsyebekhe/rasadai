@@ -144,6 +144,25 @@
         "timestamp": 1787297705.0
     },
     {
+        "id": "5489c7cc85",
+        "title_fa": "آغاز جنگ کامل اقتصادی آمریکا و تحرک دیپلماتیک تهران در منطقه",
+        "title_en": "Iran touts its trade ties as U.S. turns from bombs to economic warfare",
+        "summary": [
+            "واشنگتن با تغییر استراتژی از حملات نظامی به «جنگ کامل اقتصادی»، استراتژی فشار حداکثری و انسداد مالی علیه ایران را کلید زده است.",
+            "پزشکیان و قالیباف برای مقابله با طرح «روز دی اقتصادی» ترامپ، سراغ انعقاد قراردادهای تجاری با عمان و فعال‌سازی تجار در عراق رفته‌اند.",
+            "تیم اقتصادی ترامپ تلاش دارد با همراه کردن متحدان غربی و منطقه‌ای، تمام کانال‌های دور زدن تحریم و درآمد ارزی تهران را مسدود کند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه تحریم‌های مالی، جهش دوباره نرخ ارز و تشدید بحران معیشتی در داخل ایران را به همراه دارد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-touts-trade-ties-u-103447256.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-touts-trade-ties-u-103447256.html",
+        "image": "http://www.bing.com/th?id=ONUT.bxFa88XQBdXup-rq_iUoLw&pid=News",
+        "timestamp": 1787291040.0
+    },
+    {
         "id": "6c58095057",
         "title_fa": "هشدار مستقیم آمریکا به متحدان و چین: هدف فروپاشی اقتصاد تهران است",
         "title_en": "US warns allies and China to join Iran economic pressure campaign",
@@ -5583,24 +5602,5 @@
         "image": "http://www.bing.com/th?id=ONUT.BOYOQ1RyKpb5U8742jeu9Q&pid=News",
         "timestamp": 1785171360.0,
         "id": "a4e6023979"
-    },
-    {
-        "title_fa": "حمایت ترامپ از گفت‌وگو با ایران؛ اما فقدان مسیر روشن و عدم تمایل تهران به امتیازدهی",
-        "title_en": "Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time",
-        "summary": [
-            "ترامپ می‌گوید از گفت‌وگوهای تازه با ایران حمایت می‌کند، اما خودِ محتوا و هدف مشخص این دور از مذاکرات از متن روشن نیست.",
-            "ایران ادعای ترامپ درباره تمایل ایران به مذاکره را رد می‌کند و هیچ نشانه‌ای از تغییر موضع یا پذیرش مسیر مستقیم گفت‌وگو با مقام‌های آمریکایی ارائه نمی‌دهد.",
-            "عدم اعلام آمادگی تهران برای امتیاز یا کانال مستقیم ارتباطی، احتمال می‌دهد این «حمایت سیاسی» بیشتر در حد اهرم تبلیغاتی باشد تا یک روند واقعی با دستاورد قابل سنجش."
-        ],
-        "impact": "این وضعیت احتمال توقف یا بی‌نتیجه شدن مذاکره را بالا می‌برد، چون طرف ایرانی فعلاً مشارکت عملی و امتیازدهی را در دستور کار قرار نداده است.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html",
-        "clean_url": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html",
-        "image": "http://www.bing.com/th?id=ONUT.IurCCkCzaBVT2n7bebwfjA&pid=News",
-        "timestamp": 1785170940.0,
-        "id": "5981e2e59d"
     }
 ]
