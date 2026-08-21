@@ -55,6 +55,25 @@
         "timestamp": 1787255755.0
     },
     {
+        "id": "90a1fc6ff0",
+        "title_fa": "جهش قیمت نفت در بازار جهانی با اولتیماتوم ترامپ به شرکای ایران",
+        "title_en": "Crude Oil Prices Rally as President Trump Escalates Pressure on Iran",
+        "summary": [
+            "تهدید ترامپ مبنی بر مجازات سنگین کشورهای خریدار نفت یا ارائه‌دهنده خدمات مالی به ایران، قیمت نفت را ۲.۳ درصد بالا برد.",
+            "وزارت خزانه‌داری آمریکا روز دوشنبه طرح جامع جداسازی کاملاً سخت‌گیرانه ایران و همکاران تجاری‌اش را رونمایی می‌کند.",
+            "بازار جهانی انرژی با پیش‌بینی صفر شدن صادرات نفت ایران و تنش در تنگه هرمز وارد فاز التهاب شده است."
+        ],
+        "impact": "جهش قیمت انرژی در بازارهای جهانی و سخت‌تر شدن پروسه دور زدن تحریم‌های نفتی.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rally-president-191502345.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-rally-president-191502345.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/59dc140e9a765e197767ad46fc6173ef.jpg",
+        "timestamp": 1787252975.0
+    },
+    {
         "id": "3d9797d34c",
         "title_fa": "درخواست آمریکا از متحدان برای له کردن اقتصاد ایران",
         "title_en": "Scott Bessent urges US partners to back plans to 'squash' Iran economy",
@@ -126,6 +145,61 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZZLV90dzh4ZlE2b3BHNTZPTnNFczFFaVg2UnVmNzBLSXd0eFFrWl8wb3VyU3lvS3FBR0FmOU8xU1o0M3hUeWR2cGhCSTk2WmQ2TEhKdmhEcDRkc1otYmk1c3RpVmpYTmhPekg3aHkwaTBTLXpIZm11WWtyUFA5TEh2UkYxdkY5ZGROVFN3cUhVWTI1ck4wMXdCT3ZsQ3dlc3F1Y3BKaVlHZjhhaVJQZmV6VDR6dw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787246956.0
+    },
+    {
+        "id": "347b63bb5f",
+        "title_fa": "خط‌ونشان تازه ترامپ؛ ایران هرگز به سلاح هسته‌ای نمی‌رسد",
+        "title_en": "Iran, the economy and mending fences: Top takeaways from Trump interview with friend-turned-foe Michael Cohen",
+        "summary": [
+            "ترامپ مدعی شد ساختار نظامی و توان فرماندهی ایران نسبت به گذشته به شدت ضعیف شده است.",
+            "او بار دیگر بر موضع قطعی خود تاکید کرد که اجازه دستیابی ایران به سلاح هسته‌ای را نخواهد داد."
+        ],
+        "impact": "افزایش احتمال تقابل سخت‌تر واشنگتن با برنامه هسته‌ای ایران در ماه‌های پیش‌رو.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-economy-mending-fences-top-004308027.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-economy-mending-fences-top-004308027.html",
+        "image": "http://www.bing.com/th?id=ONUT.5OcPwKCl4etRPhpGNRAPFg&pid=News",
+        "timestamp": 1787245200.0
+    },
+    {
+        "id": "eaecdeb6a2",
+        "title_fa": "بازی جدید ترکیه در سوریه؛ هشدار آنکارا درباره «تله نتانیاهو»",
+        "title_en": "Turkey 'will not fall into trap' set by Netanyahu on Syria: Turkish presidency",
+        "summary": [
+            "نهاد ریاست جمهوری ترکیه اعلام کرد وارد بازی و تله‌های بنیامین نتانیاهو در خاک سوریه نخواهد شد.",
+            "آنکارا تلاش می‌کند بدون درگیری مستقیم با تل‌آویو، نفوذ خود را در شمال سوریه تثبیت کند."
+        ],
+        "impact": "امکان دست‌به‌دست شدن نفوذ در شمال سوریه و عدم همراهی آنکارا با طرح‌های منطقه‌ای اسرائیل.",
+        "tag": "منطقه",
+        "urgency": 5,
+        "sentiment": -0.2,
+        "source": "Al Arabiya English",
+        "url": "https://english.alarabiya.net/News/middle-east/2026/08/20/turkey-will-not-fall-into-trap-set-by-netanyahu-on-syria-turkish-presidency",
+        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/08/20/turkey-will-not-fall-into-trap-set-by-netanyahu-on-syria-turkish-presidency",
+        "image": "https://vid.alarabiya.net/images/2026/08/18/a537a342-12a3-4e99-9bd2-ddf8326485a1/a537a342-12a3-4e99-9bd2-ddf8326485a1_16x9_600x338.JPG",
+        "timestamp": 1787245020.0
+    },
+    {
+        "id": "415f7743a6",
+        "title_fa": "«روز دی اقتصادی»؛ نقشه ترامپ برای فلج‌سازی کامل اقتصاد ایران",
+        "title_en": "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran",
+        "summary": [
+            "ترامپ از کلید زدن «روز دی اقتصادی» برای خفه‌کردن شریان‌های مالی ایران خبر داد.",
+            "این طرح ترکیبی از محاصره شبه‌نظامی در دریا و قطع کامل ارتباط ایران با سیستم مالی جهانی است.",
+            "هدف واشنگتن کشاندن ایران به زانو از طریق ضربه محکم به زیرساخت‌های درآمدی کشور است."
+        ],
+        "impact": "تشدید فشار مالی روی بازارهای ایران و مسدود شدن کامل شریان‌های درآمد ارزی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
+        "clean_url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
+        "image": "http://www.bing.com/th?id=ONUT.WoiYlkZokJuJQ9tT2a4UPg&pid=News",
+        "timestamp": 1787244960.0
     },
     {
         "id": "b484ea4339",
@@ -5548,81 +5622,5 @@
         "image": "https://gdb.rferl.org/a8f7d2ac-cdfa-4781-80a0-08decad17715_cx0_cy9_cw0_w1200_h630.jpg",
         "timestamp": 1785139020.0,
         "id": "ad2753e1fd"
-    },
-    {
-        "title_fa": "توقف درگیری میان آمریکا و ایران برای ایجاد «فضای مذاکرات»؛ وضعیت مذاکرات در CNBC",
-        "title_en": "U.S. and Iran pause fighting to give peace talks 'space.' Here's where negotiations stand",
-        "summary": [
-            "خبر CNBC می‌گوید آمریکا و ایران برای اینکه «فضای» لازم به مذاکرات داده شود، درگیری‌ها را موقتاً متوقف کرده‌اند؛ یعنی اقدام اصلی، کاهش تنش عملیاتی برای راه‌اندازی کانال گفت‌وگو است.",
-            "تمرکز گزارش روی «جایی که مذاکرات در آن قرار دارند» است، اما متن ارائه‌شده فقط به اصلِ توقف جنگ اشاره می‌کند و جزئیات محتوای توافق، شروط طرفین یا پیشرفت مشخص را در اختیار نمی‌گذارد.",
-            "با توجه به فقدان اطلاعات دقیق در متن، تحلیل قابل اتکا این است که فعلاً یک مکث تاکتیکی ثبت شده، نه یک نتیجه قطعی؛ بنابراین باید آن را به‌عنوان ابزار مدیریت بحران تا زمان روشن شدن خطوط بعدی مذاکرات ارزیابی کرد."
-        ],
-        "impact": "این مکث می‌تواند ریسک تشدید فوری را کاهش دهد، اما چون جزئیات پیشرفت یا تضمین‌ها گزارش نشده، احتمال برگشت تنش تا روشن شدن روند توافق همچنان بالاست.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SzJtbzRPcjctRkx3Z0x3aGJUdm5zaEtkNExTLXYwczlGNUNxZ2V3VTZ4Wm9BOG1JUHdpM3licHFJVWU3d1RGRlE2bFlMN1NNSEFIQ3pPaS00TmpPcVdrODNaSFlWVDBSWTRqZTRn0gFzQVVfeXFMUDNxZFJCcW1MQVBXb3JrWWxhSFVLTVBOQlhFOVl3Nm9PT2xtLURudDkydFdsaUM5RmZUWUx3S1JpUjNCZkNTLU9EVWw0MWxCRlhvNWpQRGJscFE2bmZnNVRVUUJMOFIwRnJtX25RN2EtcWJMSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51SzJtbzRPcjctRkx3Z0x3aGJUdm5zaEtkNExTLXYwczlGNUNxZ2V3VTZ4Wm9BOG1JUHdpM3licHFJVWU3d1RGRlE2bFlMN1NNSEFIQ3pPaS00TmpPcVdrODNaSFlWVDBSWTRqZTRn0gFzQVVfeXFMUDNxZFJCcW1MQVBXb3JrWWxhSFVLTVBOQlhFOVl3Nm9PT2xtLURudDkydFdsaUM5RmZUWUx3S1JpUjNCZkNTLU9EVWw0MWxCRlhvNWpQRGJscFE2bmZnNVRVUUJMOFIwRnJtX25RN2EtcWJMSQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785138975.0,
-        "id": "b3f6c53cbb"
-    },
-    {
-        "title_fa": "پیشرفت میانجی‌ها برای بازگرداندن آمریکا و ایران به مذاکره؛ همزمان حملات پهپادی فضای منطقه را به‌هم می‌ریزد",
-        "title_en": "Mediators see progress in efforts to halt Iran war as drone attacks rattle region",
-        "summary": [
-            "طبق گزارش مقام‌های منطقه‌ای، میانجی‌ها می‌گویند آمریکا و ایران دوباره وارد مسیر مذاکره شده‌اند و هر دو طرف بعد از دوره‌ای از تشدید سریع حملات، موقتاً حمله‌ها را متوقف کرده‌اند.",
-            "در همان زمان، حملات پهپادی همچنان در منطقه «رعد و برق» ایجاد می‌کند و نشان می‌دهد حتی با وقفه‌های تاکتیکی، تنش عملیاتی به‌طور کامل کنترل نشده است.",
-            "این وضعیت فشار مستقیم بر سازوکار تصمیم‌گیری رژیم وارد می‌کند: اگرچه توقف نسبی حملات می‌تواند دست مذاکره را باز کند، اما ادامه‌ی حملات پهپادی ریسک شکست مسیر سیاسی و بازگشت سریع به چرخه تشدید را بالا نگه می‌دارد."
-        ],
-        "impact": "ترکیب «وقفه‌های مقطعی» با «ادامه‌ی حملات» احتمال شکل‌گیری یک آتش‌بس واقعی را پایین نگه می‌دارد و مذاکره را در برابر موج‌های مجدد تشدید آسیب‌پذیر می‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/mediators-see-progress-in-efforts-to-halt-iran-war-as-drone-attacks-rattle-region/ar-AA28LPtA",
-        "clean_url": "https://www.msn.com/en-us/news/other/mediators-see-progress-in-efforts-to-halt-iran-war-as-drone-attacks-rattle-region/ar-AA28LPtA",
-        "image": "http://www.bing.com/th?id=ONUT.4oDItxKpBnOaAyflp0mhGA&pid=News",
-        "timestamp": 1785134543.0,
-        "id": "2bdd319297"
-    },
-    {
-        "title_fa": "افت دوباره نفت؛ امید بازار به از سرگیری صادرات می‌تواند شکنندگی مالی رژیم را تشدید کند",
-        "title_en": "Here we go again. Why oil keeps tumbling even when the Iran war drags on",
-        "summary": [
-            "CNN روی این نکته تمرکز دارد که با هر «وقفه موقت در درگیری» میان آمریکا و ایران، معامله‌گران به احتمال حل دیپلماتیک و بازگشت جریان صادرات نفت از خاورمیانه واکنش مثبت نشان می‌دهند؛ همین یعنی افت قیمت نفت لزوماً از بین رفتن بحران نیست، بلکه تغییر انتظارات بازار درباره توقف/ادامه تنش است.",
-            "عنوان گزارش می‌گوید «چرا نفت همچنان می‌ریزد حتی وقتی جنگ در سطح تنش ادامه دارد»؛ سیگنال ضمنی این است که ریسک‌های ژئوپلیتیک برای سرمایه‌گذاران دائمی حل‌نشده تلقی می‌شود و بازار، حتی در دوره‌های کشمکش طولانی، به ثبات واقعی در عرضه/تدارکات اعتماد کامل ندارد.",
-            "در چارچوب فشار خارجی، افت نفت به‌صورت مکانیکی درآمد ارزی رژیم را در معرض کاهش قرار می‌دهد؛ اگرچه متن به جزئیات تحریم‌های جدید یا ضربه مشخص به دارایی‌ها اشاره نمی‌کند، اما مکانیسم «انتظارات تجاری + کاهش قیمت» به تضعیف مالی می‌انجامد."
-        ],
-        "impact": "افت بهای نفت—حتی با وجود ادامه تنش—می‌تواند درآمد ارزی رژیم را تحت فشار بیشتر بگذارد و توان مدیریت هزینه‌های داخلی را کاهش دهد.",
-        "tag": "اقتصادی",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/money/general/here-we-go-again-why-oil-keeps-tumbling-even-when-the-iran-war-drags-on/ar-AA28MZ9s",
-        "clean_url": "https://www.msn.com/en-us/money/general/here-we-go-again-why-oil-keeps-tumbling-even-when-the-iran-war-drags-on/ar-AA28MZ9s",
-        "image": "http://www.bing.com/th?id=ONUT.rRHFZFqI9b-fxJW6Iifg3w&pid=News",
-        "timestamp": 1785132833.0,
-        "id": "725effcc00"
-    },
-    {
-        "title_fa": "تأیید حکم ۹۹ ضربه شلاق برای پژمان جمشیدی در پرونده خشونت جنسی",
-        "title_en": "پژمان جمشیدی، بازیگر سینما و تلویزیون، در پرونده خشونت جنسی به ۹۹ ضربه شلاق محکوم شد",
-        "summary": [
-            "دیوان عالی کشور ایران حکم مجازات ۹۹ ضربه شلاق برای پژمان جمشیدی را در پرونده شکایت درباره خشونت جنسی تأیید کرد.",
-            "این پرونده نشان می‌دهد نظام قضایی در بالاترین مرجع خود، مجازات بدنی را به‌عنوان ابزار تنبیهی/بازدارنده در پرونده‌های مرتبط با خشونت جنسی حفظ می‌کند.",
-            "تأیید نهایی حکم از دیوان عالی، احتمال تغییر جدی در نتیجه پرونده را کم کرده و پیام روشنی از استمرار برخورد سخت‌گیرانه از سوی دستگاه قضایی به‌طور علنی ارسال می‌کند."
-        ],
-        "impact": "تأیید حکم توسط دیوان عالی کشور به تثبیت مجازات بدنی در پرونده‌های خشونت جنسی و تشدید فشار قضایی علیه متهمان شناخته‌شده می‌انجامد.",
-        "tag": "قوه_قضاییه",
-        "urgency": 3,
-        "sentiment": -0.6,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/iran-pejman-jamshidi-actor-sentenced-to-lashes-for-adultary/33813754.html",
-        "clean_url": "https://www.radiofarda.com/a/iran-pejman-jamshidi-actor-sentenced-to-lashes-for-adultary/33813754.html",
-        "image": "https://gdb.rferl.org/879f9995-9052-439d-95da-08ddfa9b85de_cx0_cy9_cw0_w1200_h630.jpg",
-        "timestamp": 1785131760.0,
-        "id": "5a49045736"
     }
 ]
