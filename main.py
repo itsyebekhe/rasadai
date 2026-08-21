@@ -194,31 +194,64 @@ class IranNewsRadar:
             return set()
         stop_words = {
             'a', 'an', 'the', 'and', 'or', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by',
-            'is', 'are', 'was', 'news', 'report', 'breaking',
+            'is', 'are', 'was', 'were', 'be', 'been', 'news', 'report', 'reports', 'breaking',
+            'live', 'updates', 'latest', 'warns', 'warning', 'says', 'vows', 'issues', 'pushes',
+            'threat', 'threats', 'vs', 'economic', 'war', 'warfare', 'iran', 'tehran',
             'از', 'به', 'در', 'که', 'و', 'این', 'آن', 'را', 'برای', 'با', 'است', 'شد',
-            'شده', 'می', 'بر', 'یک', 'خود', 'تا', 'کرد', 'نیز'
+            'شده', 'می', 'بر', 'یک', 'خود', 'تا', 'کرد', 'نیز', 'ایران', 'تهران', 'خبر', 'فوری'
         }
         text = text.replace('ي', 'ی').replace('ك', 'ک').replace('\u200c', ' ')
         clean = re.sub(r'[^\w\s]', '', text.lower())
-        return set(clean.split()) - stop_words
+        tokens = set()
+        for word in clean.split():
+            if word not in stop_words and len(word) > 2:
+                # Normalize common prefixes/suffixes
+                if word.startswith(('un', 're', 'dis')):
+                    word = word[2:]
+                tokens.add(word)
+        return tokens
 
     def _is_duplicate_fuzzy(self, new_title, comparison_pool):
         norm_title = self._normalize_text(new_title)
         if norm_title in self.seen_titles:
             return True
+            
         new_tokens = self._get_tokens(new_title)
-        if len(new_tokens) < 3:
+        if len(new_tokens) < 2:
             return False
-        pool = comparison_pool[:60] if len(comparison_pool) > 60 else comparison_pool
+
+        # Key entity sets for cross-story syndication detection
+        key_entity_groups = [
+            {'trump', 'china', 'allies', 'sanctions', 'pressure'},
+            {'trump', 'china', 'oil', 'trade', 'buyers'},
+            {'tanker', 'qatar', 'oil', 'hormuz'},
+            {'iaea', 'nuclear', 'enrichment', 'grossi'},
+            {'netanyahu', 'israel', 'strike', 'nuclear'}
+        ]
+
+        pool = comparison_pool[:120] if len(comparison_pool) > 120 else comparison_pool
         for item in pool:
             existing_title = item.get('title_en') or item.get('title_fa') or item.get('title', '')
             existing_tokens = self._get_tokens(existing_title)
             if not existing_tokens:
                 continue
+
             inter = new_tokens.intersection(existing_tokens)
             union = new_tokens.union(existing_tokens)
-            if union and (len(inter) / len(union)) > 0.5:
+            
+            # Lower Jaccard threshold from 0.5 to 0.32 to catch rephrased syndicated headlines
+            if union and (len(inter) / len(union)) >= 0.32:
                 return True
+
+            # If 2 or more distinct key topical tokens match, treat as duplicate story event
+            if len(inter) >= 2 and len(inter) / min(len(new_tokens), len(existing_tokens)) >= 0.5:
+                return True
+
+            # Match against known entity-event cluster groups
+            for group in key_entity_groups:
+                if len(new_tokens.intersection(group)) >= 2 and len(existing_tokens.intersection(group)) >= 2:
+                    return True
+
         return False
 
     def _load_existing_news(self):
@@ -665,6 +698,9 @@ class IranNewsRadar:
             " - **بنیامین نتانیاهو:** هشدارها، طرح‌های ضربتی علیه تاسیسات هسته‌ای یا سپاه را مستقیماً پوشش بده.\n"
             " - **شاهزاده رضا پهلوی (اپوزیسیون):** فراخوان‌ها، پیام‌ها به ملت ایران، و طرح‌های گذار از جمهوری اسلامی را با لحن محترمانه، روان و پوشش کامل خبری منعکس کن.\n"
             " - **فرماندهان سپاه (سلامی، قاآنی و...):** ادعاها و تهدیدهای آنان را افشا کرده و واقعیت پشت خط کلامی (جنگ روانی) را تحلیل کن.\n\n"
+            "🔴 **قانون حیاتی حذف اخبار تکراری و هم‌پوشان (Deduplication):**\n"
+            "- اگر چند خبر به یک رویداد واحد پرداخته‌اند (مثلاً چند خبرگزاری مختلف هشدار ترامپ به چین درباره نفت ایران را مخابره کرده‌اند)، "
+            "فقط و فقط یک مورد (کامل‌ترین منبع) را در خروجی بیاور و بقیه ایندکس‌های تکراری را از خروجی JSON حذف کن (آرایه فقط شامل آیتم‌های کاملاً مجزا و غیرتکراری باشد).\n\n"
             "🔴 قوانین حیاتی نگارش و انسانی‌سازی (مهم - حتماً رعایت شود):\n"
             "۱. **روانی، شفافیت و سادگی زبان (مهم):**\n"
             " - از کلمات قلم‌به‌سلم، پیچیده و عجیب دانشگاهی (مثل: 'گره مشخص'، 'تعمیم روایت'، 'شکل‌گیری محاسبات') مطلقاً استفاده نکن.\n"
@@ -1521,6 +1557,7 @@ STRICT OUTPUT JSON:
             seen_batch_titles = set()
             cutoff_date = datetime.now(timezone.utc) - timedelta(hours=CONFIG['MAX_NEWS_AGE_HOURS'])
 
+            # 1. First pass: filter by age, seen URLs, and exact hashes
             for item in results:
                 try:
                     p_date = item.get('published date')
@@ -1538,7 +1575,7 @@ STRICT OUTPUT JSON:
                 if clean_u in self.seen_urls:
                     continue
 
-                t = item.get('title', '').rsplit(' - ', 1)[0]
+                t = item.get('title', '').rsplit(' - ', 1)[0].strip()
                 norm_t = self._normalize_text(t)
                 th = self._title_hash(t)
 
@@ -1546,12 +1583,11 @@ STRICT OUTPUT JSON:
                     continue
                 if th in self.recent_title_hashes:
                     continue
-                if self._is_duplicate_fuzzy(t, self.existing_news):
-                    continue
 
                 seen_batch_titles.add(norm_t)
                 candidates.append(item)
 
+            # 2. Sort by domain reliability first so top sources are preferred
             candidates.sort(
                 key=lambda x: self._domain_score(
                     x.get('url'),
@@ -1559,13 +1595,24 @@ STRICT OUTPUT JSON:
                 ),
                 reverse=True
             )
-            candidates = candidates[:CONFIG.get('MAX_CANDIDATES', 15)]
+
+            # 3. Second pass: Cross-deduplicate against historical news AND within current batch
+            accepted_candidates = []
+            for item in candidates:
+                raw_t = item.get('title', '').rsplit(' - ', 1)[0].strip()
+                
+                # Check against historical news AND candidates already accepted in this run
+                if self._is_duplicate_fuzzy(raw_t, self.existing_news) or self._is_duplicate_fuzzy(raw_t, accepted_candidates):
+                    continue
+
+                accepted_candidates.append(item)
+
+            candidates = accepted_candidates[:CONFIG.get('MAX_CANDIDATES', 15)]
 
         logger.info(
             f"Total Fetched: {len(results)} | Candidates (new/recent/capped): {len(candidates)}"
         )
 
-        # In run() method:
         new_processed_items = []
         if candidates:
             # 1. Parallel Content Extraction
