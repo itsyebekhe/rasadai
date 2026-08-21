@@ -1,5 +1,24 @@
 [
     {
+        "id": "f5faaca1a4",
+        "title_fa": "افشای آمار تلفات؛ زخمی شدن بیش از ۷۵۰ نظامی آمریکایی در درگیری با ایران",
+        "title_en": "More than 750 U.S. service members wounded in Iran war",
+        "summary": [
+            "واشنگتن‌پست آمار مجروحان نیروهای آمریکایی در نبرد با ایران را بیش از ۷۵۰ نفر اعلام کرد.",
+            "این حجم از تلفات ابعاد واقعی و شدت بالای درگیری‌های میدانی بین طرفین را فاش می‌کند.",
+            "افزایش تلفات آمریکا فشار داخلی بر کاخ سفید را بالا برده و احتمال واکنش‌های تلافی‌جویانه سنگین‌تر را تقویت می‌کند."
+        ],
+        "impact": "افزایش احتمال گسترش نبرد و تشدید ضربات متقابل نظامی در سطح منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.75,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHQ3Zm9lU2xoYlZiSmN0bVlWZ08wMFNVa1A5ZDU5d2w5VjJCQXY0bnoxLW1FS1dxVnZsSHZzeVRyYmRiQldQUkxRNkxDSy05cy1pR1ZVbFQtd0FCMVpVSkNTdENBbV8xd0tjVHhTSE9fYXFWVElhejA2UFZJU2tXaV9sUDdWNWt3MFdtY1V0T3BFRUtkV0NCR3hqOERrcUYxVmw5NkhYUnFZaE1UMFYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHQ3Zm9lU2xoYlZiSmN0bVlWZ08wMFNVa1A5ZDU5d2w5VjJCQXY0bnoxLW1FS1dxVnZsSHZzeVRyYmRiQldQUkxRNkxDSy05cy1pR1ZVbFQtd0FCMVpVSkNTdENBbV8xd0tjVHhTSE9fYXFWVElhejA2UFZJU2tXaV9sUDdWNWt3MFdtY1V0T3BFRUtkV0NCR3hqOERrcUYxVmw5NkhYUnFZaE1UMFYw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787344382.0
+    },
+    {
         "id": "28b9328db0",
         "title_fa": "تأکید بر تغییر رژیم ایران و فاصله‌گیری دمشق از محور تهران",
         "title_en": "Bessent vows to topple Iran regime; Syria weighs Mecca Defense Pact TV7 Israel News - 21 Aug.",
@@ -53,6 +72,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcnJSaVhVRDBpM2o2QVRmZ2NtR1FhSGtDS2NKbFBBdU1pVEUxS3ZFTTh6eGh2cDlWT0hJR1hJblg3QzV0WW85M3VhYmxzd182S20zdUoxUlh0Mm8wT2FtZnltbWJBbnVLNWlfU3l1M1BPVDctRHREM0t5M1pieGhLbjU5VjctajFqTzE1eVVZMFdRMjNRNl9oTjF2N0lxaFJXNmtadnlNb1FrdzhORDQ1OTRlNEhOUnFxMEY5Q2tQUDA",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787328915.0
+    },
+    {
+        "id": "9fc21d1604",
+        "title_fa": "تهدید ترامپ به «روز دی اقتصادی»؛ احتمال ترجیح جنگ بر مذاکره",
+        "title_en": "Donald Trump’s Economic War Pushes Iran Toward a Dangerous Limit",
+        "summary": [
+            "ترامپ هرگونه کمک مالی، تجاری یا لجستیکی کشورها به ایران را با مجازات‌های بی‌سابقه تهدید کرد تا شریان‌های اقتصادی تهران کاملاً قطع شود.",
+            "برخلاف توافق سال ۲۰۱۵، رمقی برای دیپلماسی نمانده و انسداد سیاسی کامل میان دو طرف حاکم است.",
+            "اگر فشار خفه‌کننده اقتصادی حاکمیت را به دیوار بچسباند، پاسخ تهران به‌جای میز مذاکره، در میدان نبرد خواهد بود."
+        ],
+        "impact": "تنگ‌تر شدن حلقه انزوای بین‌المللی ایران، جهش مجدد قیمت ارز و بالا رفتن شدید احتمال درگیری نظامی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/donald-trumps-economic-war-pushes-iran-toward-a-dangerous-limit-12350672",
+        "clean_url": "https://www.newsweek.com/donald-trumps-economic-war-pushes-iran-toward-a-dangerous-limit-12350672",
+        "image": "http://www.bing.com/th?id=ONUT.RtnXVbuCirww4PKrQOTtaA&pid=News",
+        "timestamp": 1787318880.0
     },
     {
         "id": "9e739984b4",
@@ -5559,43 +5597,5 @@
         "image": "http://www.bing.com/th?id=ONUT.R4jAbfCGm8f5T6eiCY_0PQ&pid=News",
         "timestamp": 1785189540.0,
         "id": "b8e2d54600"
-    },
-    {
-        "title_fa": "دفاع عربستان در برابر پهپادهای منتسب به گروه‌های «پشتیبانی‌شده از ایران»؛ نشانه تشدید جنگ نیابتی",
-        "title_en": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
-        "summary": [
-            "عربستان اعلام کرده در برابر حملات پهپادی از سوی گروه‌هایی که به ایران نسبت داده می‌شوند دفاع کرده است؛ یعنی ریسک مستقیم برای زیرساخت و امنیت منطقه‌ای افزایش یافته، نه صرفاً یک درگیری دیپلماتیک.",
-            "این نوع حملات—اگر تکرارشونده باشد—هزینه امنیتی عربستان را بالا می‌برد و می‌تواند سیاست مهار تنش را به سمت اقدامات سخت‌تر و پرهزینه‌تر سوق دهد؛ در نتیجه فضای منطقه‌ای برای هر دو طرف کم‌ثبات‌تر می‌شود.",
-            "خبر مشخصاً بر «گروه‌های مورد حمایت ایران» تمرکز دارد و از منظر تحلیل، نشان می‌دهد شبکه نیابتی به‌عنوان ابزار اعمال فشار فعال است؛ با این حال، هیچ داده‌ای در متن درباره شدت/تلفات/اهداف دقیق یا اثر مستقیم اقتصادی ارائه نشده است."
-        ],
-        "impact": "تداوم این حملات پهپادی احتمال تشدید جنگ نیابتی و افزایش هزینه‌های امنیتی در خلیج فارس را بالا می‌برد.",
-        "tag": "نیابتی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "Al Jazeera",
-        "url": "https://www.msn.com/en-us/politics/government/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups/ar-AA28NZOb",
-        "clean_url": "https://www.msn.com/en-us/politics/government/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups/ar-AA28NZOb",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785187822.0,
-        "id": "efc723e6e6"
-    },
-    {
-        "title_fa": "ترامپ: مذاکرات جنگ با ایران در فاصله بین حملات در جریان است",
-        "title_en": "Trump says Iran war talks taking place during lull in strikes",
-        "summary": [
-            "خبر به‌صورت مشخص می‌گوید ترامپ اعلام کرده مذاکرات درباره جنگ با ایران «در زمان وقفه» بین حملات انجام می‌شود؛ یعنی فضای دیپلماتیک همزمان با شدت عملیات نظامی مدیریت می‌گردد.",
-            "این الگو نشان می‌دهد فشار نظامی می‌تواند به‌عنوان اهرم مذاکره عمل کند، اما متن گزارش جزئیات روشن از دستورکار مذاکرات، طرف‌های ایرانی، یا خطوط توافق را ارائه نمی‌کند.",
-            "چون خبر تنها به «لُب درگیری/وقفه در حملات» اشاره دارد و داده‌ای درباره نتیجه یا میزان کاهش تهدید نمی‌دهد، فعلاً بیشتر یک پیام تاکتیکی برای تغییر فاز است تا نشانه مهار پایدار."
-        ],
-        "impact": "همزمانی «وقفه در حملات» با «گفت‌وگو درباره جنگ» می‌تواند هم ریسک تشدید سریع پس از وقفه را بالا ببرد و هم فشار برای امتیازگیری کوتاه‌مدت را تقویت کند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/world/trump-says-iran-war-talks-taking-place-during-lull-in-strikes/ar-AA28NR3q",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-says-iran-war-talks-taking-place-during-lull-in-strikes/ar-AA28NR3q",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785186656.0,
-        "id": "bd4f0e26e7"
     }
 ]
