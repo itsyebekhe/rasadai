@@ -1,5 +1,24 @@
 [
     {
+        "id": "6c58095057",
+        "title_fa": "هشدار مستقیم آمریکا به متحدان و چین: هدف فروپاشی اقتصاد تهران است",
+        "title_en": "US warns allies and China to join Iran economic pressure campaign",
+        "summary": [
+            "دونالد ترامپ وعده سنگین‌ترین عملیات اقتصادی تاریخ علیه جمهوری اسلامی را داده و صریحاً هدف را فروپاشی ساختار حاکم اعلام کرد.",
+            "وزیر خزانه‌داری آمریکا تحریم‌کنندگان را تهدید کرد که هرگونه ارتباط مالی با تهران به نابودی اقتصادی خود آن‌ها می‌انجامد.",
+            "تهران این اقدامات را تروریسم اقتصادی خوانده اما گزینه‌های محدودی برای مقابله دارد."
+        ],
+        "impact": "قطع آخرین خطوط ارتباطی تجارت خارجی و احتمال وقفه کامل در صادرات نفت به چین.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "France 24",
+        "url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
+        "clean_url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
+        "image": "https://s.france24.com/media/display/715e1cda-9cb3-11f1-88f2-005056a90284/w:1280/p:16x9/02b5331290807cad5fafd6d3a495468f1fc01b9e.jpg",
+        "timestamp": 1787287080.0
+    },
+    {
         "id": "87c5983ce4",
         "title_fa": "خط و نشان ترامپ با «روز دی اقتصادی» و ادعای مقاومت تهران",
         "title_en": "Trump warns of 'economic D-Day' against Iran, but Tehran is well acquainted with sanctions",
@@ -54,6 +73,24 @@
         "timestamp": 1787279520.0
     },
     {
+        "id": "cf88c0af81",
+        "title_fa": "التیاتوم واشنگتن به چین برای قطع کامل خریدهای نفتی از ایران",
+        "title_en": "US pushes allies, China to back Trump's economic war on Iran",
+        "summary": [
+            "واشنگتن با ارسال پیامی قاطع به پکن، خواستار توقف کامل واردات انرژی از ایران شد.",
+            "تیم ترامپ قصد دارد با مسدود کردن روزنه‌های تجاری موجود، حاکمیت را در مضیقه شدید مالی قرار دهد."
+        ],
+        "impact": "تهدید مستقیم آخرین منبع درآمد ارزی ناپایدار تهران.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "The Manila Times",
+        "url": "https://www.msn.com/en-ph/politics/government/us-pushes-allies-china-to-back-trump-s-economic-war-on-iran/ar-AA2aBxnC",
+        "clean_url": "https://www.msn.com/en-ph/politics/government/us-pushes-allies-china-to-back-trump-s-economic-war-on-iran/ar-AA2aBxnC",
+        "image": "https://www.malaymail.com/malaymail/uploads/images/2026/08/21/358110.jpg",
+        "timestamp": 1787277911.0
+    },
+    {
         "id": "6fda19ca64",
         "title_fa": "انتقاد از فرسایشی شدن تنش‌ها و سیاست‌های ترامپ در قبال ایران",
         "title_en": "Joseph Wyatt: Growing frustration with war in Iran (Opinion)",
@@ -71,6 +108,43 @@
         "clean_url": "https://www.wvgazettemail.com/eedition/page-a4/page_a307746b-60d8-51ac-a7e2-01b9dd0537f3.html",
         "image": "https://bloximages.newyork1.vip.townnews.com/wvgazettemail.com/content/tncms/assets/v3/eedition/a/30/a307746b-60d8-51ac-a7e2-01b9dd0537f3/6a87a23a595da.preview-300.jpg?crop=300,300,0,186&resize=200,200&order=crop,resize",
         "timestamp": 1787270400.0
+    },
+    {
+        "id": "893a35745c",
+        "title_fa": "جهش قیمت نفت به ۹۴ دلار هم‌زمان با فروش تانکرهای سوخت‌رسان به قطر",
+        "title_en": "US Iran War News Live Updates: Seven ships pass through Strait of Hormuz in 24 hours as US-Iran talks remain stalled",
+        "summary": [
+            "توقف مذاکرات و اختلال در تردد تنگه هرمز، قیمت نفت برنت را به آستانه ۹۴ دلار رساند.",
+            "وزارت خارجه آمریکا فروش هواپیماهای سوخت‌رسان KC-46A به قطر را تایید کرد تا زیرساخت پشتیبانی هوایی در خلیج فارس تقویت شود.",
+            "بازار انرژی خاورمیانه در وضعیت آماده‌باش کامل قرار گرفته است."
+        ],
+        "impact": "افزایش ریسک نظامی در خلیج فارس و اوج‌گیری هزینه‌های حمل‌ونقل انرژی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-donald-trump-threat-dismissed-strait-of-hormuz-middle-east-conflict-tehran-gaza-latest-news/liveblog/133387250.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-donald-trump-threat-dismissed-strait-of-hormuz-middle-east-conflict-tehran-gaza-latest-news/liveblog/133387250.cms",
+        "image": "http://www.bing.com/th?id=ONUT.BJiIqAwJJXNU0-Z5fR9mBw&pid=News",
+        "timestamp": 1787266440.0
+    },
+    {
+        "id": "91362669cf",
+        "title_fa": "خط‌ونشان جدید ترامپ: جنگ تمام‌عیار اقتصادی علیه شرکای تجاری تهران",
+        "title_en": "Trump vows 'economic warfare' vs Iran",
+        "summary": [
+            "ترامپ تهدید کرد هر کشوری که با تهران معامله کند هدف جریمه‌ها و تحریم‌های سنگین آمریکا قرار می‌گیرد.",
+            "این استراتژی با هدف شل کردن پیچ و مهره‌های مالی حاکمیت و مسدودسازی منابع درآمدی اجرا می‌شود."
+        ],
+        "impact": "عقب‌نشینی خریداران آسیایی نفت و تعمیق کسری بودجه در تهران.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Manila Times",
+        "url": "https://www.msn.com/en-ph/news/world/trump-vows-economic-warfare-vs-iran/ar-AA2aA653",
+        "clean_url": "https://www.msn.com/en-ph/news/world/trump-vows-economic-warfare-vs-iran/ar-AA2aA653",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787262720.0
     },
     {
         "id": "282c734c9b",
@@ -125,6 +199,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPS01KSEp4SmY3bVRQcjFfcDlISGlIN090cVMyaENUWFh5TmhVcEdLSktpei1YZy1qbEZsaEZCbUEwZlJ5REROZFF6MUtvaW93ZXVjUFF6d1VoQ2NfbWZyU2xPM1RsQTRWN2wxeVI1SEpiMHE2N3c5WmlGRkx3WUpKVmlaTW9KN0UyN3psRXlzbkRIdkxqay11dlF6OFowUzRXUXpTb2YyeUJyUFpMaDlqaXQ0MVhSakVjclVqWU5FUQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787256231.0
+    },
+    {
+        "id": "906f61ce57",
+        "title_fa": "فشار واشنگتن به پکن و متحدان برای پیوستن به جنگ اقتصادی ترامپ",
+        "title_en": "US Pushes Allies, China To Support Trump's Economic War On Iran",
+        "summary": [
+            "کاخ سفید تحرکات جدیدی را برای همراه کردن چین و کشورهای غربی علیه شریان‌های مالی تهران آغاز کرده است.",
+            "هدف اصلی این کارزار اقتصادی، صفر کردن صادرات نفت و بستن منافذ دور زدن تحریم‌هاست."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره مالی و افزایش فشار مستقیم بر بازار ارز در داخل کشور.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/us-pushes-allies-china-to-support-trumps-economic-war-on-iran-11938182",
+        "clean_url": "https://www.ndtv.com/world-news/us-pushes-allies-china-to-support-trumps-economic-war-on-iran-11938182",
+        "image": "https://c.ndtvimg.com/2026-05/ge1cntbc_scott-bessent_625x300_29_May_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+        "timestamp": 1787256000.0
     },
     {
         "id": "f626b885f2",
@@ -344,6 +436,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kU2ZDenpzTlRoVEx6bWJtUnk5ZGtpcjJBdWw3YnRyWjBBbUp1bnZqVWxQc0tTUjd2YUcwTTlEZ0p1MDRkUThiLWxtNkxLdnRiX2ZzR0p3UnB3MmhtemdmRkVTdVcwMGk1c2FFbUJBUUZheGpBZUE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787244075.0
+    },
+    {
+        "id": "792f88f55b",
+        "title_fa": "اخطار شدید ترامپ به کشورهای کمک‌کننده به تهران",
+        "title_en": "Trump issues stark warning: Economic consequences for nations aiding Iran",
+        "summary": [
+            "ترامپ به تمام کشورها هشدار داد که تنفس دادن به اقتصاد تهران عواقب سنگین تجاری برای آن‌ها دارد.",
+            "هم‌زمان با تشدید تنش‌های منطقه‌ای، واشنگتن سیاست انتخاب بین بازار آمریکا یا معامله با تهران را احیا کرده است."
+        ],
+        "impact": "افزایش انزوای بین‌المللی و تشدید ریزش ارزش پول ملی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Newspoint",
+        "url": "https://www.msn.com/en-in/politics/international-relations/trump-issues-stark-warning-economic-consequences-for-nations-aiding-iran/ar-AA2aAnNr",
+        "clean_url": "https://www.msn.com/en-in/politics/international-relations/trump-issues-stark-warning-economic-consequences-for-nations-aiding-iran/ar-AA2aAnNr",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA24iyEB.img?w=640&h=480&m=4&q=50",
+        "timestamp": 1787243277.0
     },
     {
         "id": "f0c6128322",
@@ -5504,119 +5614,5 @@
         "image": "http://www.bing.com/th?id=ONUT.HzJmHc4rkybmu2C_h9yqWw&pid=News",
         "timestamp": 1785149028.0,
         "id": "ae2ef20f03"
-    },
-    {
-        "title_fa": "اعتراف بحث‌برانگیز مقام ترامپ درباره جنگ با ایران و واکنش فوری منتقدان",
-        "title_en": "Trump official makes shocking admission about Iran war — and is immediately criticized for it",
-        "summary": [
-            "خبر NJ.com به «اعتراف تکان‌دهنده» یک مقام رسمی تیم ترامپ درباره جنگ علیه ایران اشاره می‌کند، اما متن گزارشِ ارسالی جزئیات محتوای آن اعتراف را ارائه نمی‌دهد.",
-            "همزمان با انتشار این اظهارات، «منتقدان» همان لحظه واکنش نشان داده‌اند؛ یعنی موضوع صرفاً سیاسی-تبلیغاتی نبوده و حساسیت امنیتی/عملی در پس آن وجود داشته است.",
-            "در چارچوب تحلیل امنیتی، چون محتوای دقیق ادعا و ارتباط آن با تصمیمات عملی (در حد قابل‌استناد همین متن) مشخص نشده، نمی‌توان ادعاهای اتصال‌زا ساخت؛ فقط می‌توان گفت این اظهارات می‌تواند فضای تصمیم‌گیری و محاسبات بازدارندگی را به‌هم بزند."
-        ],
-        "impact": "تا وقتی جزئیات اعتراف و عبارت‌های مشخص منتشر نشده، اثر واقعی آن بر توان عملی رژیم یا شدت فشار خارجی قابل راستی‌آزمایی نیست، اما خودِ انتشار آن به تنش در روایت‌های جنگی و محاسبات بازدارندگی دامن می‌زند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "NJ.com",
-        "url": "https://www.nj.com/politics/2026/07/trump-official-makes-shocking-admission-about-iran-war-and-immediately-takes-it-back.html",
-        "clean_url": "https://www.nj.com/politics/2026/07/trump-official-makes-shocking-admission-about-iran-war-and-immediately-takes-it-back.html",
-        "image": "http://www.bing.com/th?id=ONUT.rDbsDCpkmQ-EoQtk-XGPWQ&pid=News",
-        "timestamp": 1785148800.0,
-        "id": "402ffadf2b"
-    },
-    {
-        "title_fa": "گزارش‌ها از تشدید هماهنگی امنیتی اسرائیل و دولت‌های عربی علیه ایران",
-        "title_en": "Israel, Arab states step up security coordination against Iran: reports",
-        "summary": [
-            "طبق گزارش «The New Arab»، اسرائیل و دولت‌های عربی سطح هماهنگی امنیتی خود را علیه ایران افزایش داده‌اند؛ یعنی تمرکز بیشتر روی رصد، پیشگیری و مهار تهدیدهای مرتبط با برنامه‌های ایران در منطقه.",
-            "این روند می‌تواند به شکل مستقیم فضای مانور نیروهای نیابتی و شبکه‌های عملیاتی ایران را محدود کند، چون هماهنگی اطلاعاتی/امنیتی معمولاً هزینه اقدام را بالا می‌برد و ریسک لو رفتن را افزایش می‌دهد (بدون آنکه جزئیات عملیاتی در متن گزارش شده باشد).",
-            "برای اقتصاد و ثبات داخلی، اثر اصلی از مسیر «افزایش فشار خارجی و نااطمینانی امنیتی» عمل می‌کند: هرچه هماهنگی بیشتر شود، احتمال واکنش‌های امنیتی و امنیتی‌سازی محیط منطقه بالاتر می‌رود و روی تجارت، سرمایه‌گذاری و درآمدهای ارزی تاثیر منفی می‌گذارد، حتی اگر در متن اشاره‌ای به تحریم یا حمله مشخص نشده باشد."
-        ],
-        "impact": "تشدید هماهنگی امنیتی منطقه‌ای می‌تواند توان عملیاتی ایران در محیط پیرامونی را محدود کرده و هزینه تصمیم‌گیری تهران را بالا ببرد، هرچند متن صرفاً در حد گزارش و بدون جزئیات روشن است.",
-        "tag": "امنیت-منطقه",
-        "urgency": 5,
-        "sentiment": -0.35,
-        "source": "The New Arab",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemIwV3gyUW8ybUQ5ZFFEaVMtTkN4Um9LdEIyUlZGcUJ6dXUzRW5UUmFIcGVUWm9PcVRkNjA5ZUdFZXhBWktJUE91MTdvRllLSDlSbWRmNnVmT2RMSTFTQWVoa3BZX2tDT3Q0c3d6T0ZndXNpMzBKZDFMSVJaQkY2cXBoVklvWmwxYWJhLUM0OVg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPemIwV3gyUW8ybUQ5ZFFEaVMtTkN4Um9LdEIyUlZGcUJ6dXUzRW5UUmFIcGVUWm9PcVRkNjA5ZUdFZXhBWktJUE91MTdvRllLSDlSbWRmNnVmT2RMSTFTQWVoa3BZX2tDT3Q0c3d6T0ZndXNpMzBKZDFMSVJaQkY2cXBoVklvWmwxYWJhLUM0OVg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785148013.0,
-        "id": "ad3eedf561"
-    },
-    {
-        "title_fa": "ایران اعلام کرد گفت‌وگو با آمریکا در جریان نیست و برای مذاکرات آینده شرط می‌گذارد",
-        "title_en": "Iran says no talks underway with US, sets conditions for future negotiations",
-        "summary": [
-            "بر اساس گزارش Anadolu Ajansı، ایران ادعا کرده گفت‌وگو با آمریکا هم‌اکنون برقرار نیست و فقط درباره امکان مذاکرات در آینده سخن گفته است.",
-            "این کشور برای ورود به مذاکرات آینده «شرط» تعیین کرده که نشان می‌دهد تهران می‌خواهد دستورکار و حد و مرز امتیازدهی را از پیش کنترل کند؛ اما متن خبر جزئیات قابل راستی‌آزمایی از آن شروط ارائه نکرده است.",
-            "از منظر فشار خارجی و اقتصاد، چنین موضعی معمولاً جایگزین اقدام عملی نمی‌شود و در عمل می‌تواند زمان را به نفع مدیریت تبلیغاتی بگذراند، نه رفع گلوگاه‌های اقتصادی و سیاسی ناشی از تحریم و بی‌ثباتی."
-        ],
-        "impact": "این اعلام بیشتر یک کنترل روایت و تعیین چارچوب مذاکره است تا نشانه توقف تنش یا گشایش فوری در مسیر کاهش فشارهای خارجی.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZfRkNXcXlocEZRRzJNeUVLRW9sbWRiNm5rZlhoTmdldXhpOENfQWFYVEtCLUctZ1VzTkxNbEIwVnRreGJ0VUpJMlF3NlpvaHdQMU1uZkdudTV6b2F1SzFoRDB2Z3lPM1FJMEdRS2t0bS0zR0Zmd2RVVXFlQWZnRk4wOGdkQVBQcVNobmRtWUFWaUZSanNTU2djN2FjMy1MdHg2U1c4R3k4djJiQ3h1b2hNY2pOZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeHZfRkNXcXlocEZRRzJNeUVLRW9sbWRiNm5rZlhoTmdldXhpOENfQWFYVEtCLUctZ1VzTkxNbEIwVnRreGJ0VUpJMlF3NlpvaHdQMU1uZkdudTV6b2F1SzFoRDB2Z3lPM1FJMEdRS2t0bS0zR0Zmd2RVVXFlQWZnRk4wOGdkQVBQcVNobmRtWUFWaUZSanNTU2djN2FjMy1MdHg2U1c4R3k4djJiQ3h1b2hNY2pOZw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785147999.0,
-        "id": "b890a1678e"
-    },
-    {
-        "title_fa": "آیا جنگ ایران ذخایر موشک‌های رهگیر آمریکا را خالی کرده است؟",
-        "title_en": "آیا جنگ ایران انبار موشکهای رهگیر آمریکا را خالی کرده است؟",
-        "summary": [
-            "گزارش‌های آمریکایی می‌گوید تصمیم ترامپ برای تعویق گسترش حملات علیه ایران با نگرانی درباره «کاهش ذخایر موشک‌های رهگیر و مهمات پدافند هوایی» در واشنگتن گره خورده؛ هم‌زمان وال‌استریت ژورنال می‌نویسد این موضوع در کنار تلاش برای ازسرگیری دیپلماسی مطرح بوده است، اما ترامپ کاهش ذخایر را رد کرده است.",
-            "نیویورک‌تایمز تاکید می‌کند نگرانی اصلی مربوط به رهگیرهای سامانه‌های دفاع هوایی مستقر در خاورمیانه است؛ رهگیرهایی که آمریکا برای دفاع از منافع و متحدانش در برابر حملات موشکی و پهپادی ایران مصرف می‌کند، و این نگرانی فقط به جنگ جاری محدود نیست چون ارتش آمریکا در دو سال اخیر همزمان از همین ذخایر در چند جبهه (حوثی‌ها در دریای سرخ، دفاع از اسرائیل، پشتیبانی از اوکراین) استفاده کرده است.",
-            "با وجود اینکه پنتاگون جزئیات موجودی انبارها را منتشر نمی‌کند، برخی کارشناسان می‌گویند نرخ مصرف این موشک‌های پیچیده چنان بوده که جایگزینی سریع‌شان برای صنایع دفاعی آمریکا دشوار است؛ هم‌زمان دریاسالار برد کوپر در سنتکام می‌گوید حتی با کاهش رهگیرها، آمریکا توان ادامه عملیات دارد چون تشدید حملات می‌تواند توان شلیک ایران را کم کند و نیاز به رهگیر را پایین بیاورد."
-        ],
-        "impact": "اگر نگرانی کاهش ذخایر رهگیر به شکل واقعی تشدید شود، هزینه و ریسک عملیات آمریکا در خاورمیانه بالا می‌رود و تصمیم‌گیری درباره شدت درگیری با ایران محتاج محاسبات تازه از ظرفیت دفاع هوایی خواهد شد.",
-        "tag": "تحلیل",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "BBC",
-        "url": "https://www.bbc.com/persian/articles/cn8n0e3e94yo",
-        "clean_url": "https://www.bbc.com/persian/articles/cn8n0e3e94yo",
-        "image": "https://ichef.bbci.co.uk/ace/ws/800/cpsprodpb/059f/live/84f87cc0-8937-11f1-b2ab-0dd01740f9f6.jpg.webp",
-        "timestamp": 1785146940.0,
-        "id": "5c4fec4ee9"
-    },
-    {
-        "title_fa": "ایران گفت‌وگو با آمریکا را رد می‌کند؛ تداوم بسته‌بودن تنگه هرمز",
-        "title_en": "Iran rules out US talks as Hormuz Strait remains closed",
-        "summary": [
-            "طبق گزارش DW، ایران اعلام کرده که وارد گفت‌وگو با آمریکا نمی‌شود، در حالی که وضعیت تنگه هرمز همچنان بسته است.",
-            "بسته‌بودن تنگه هرمز به‌عنوان گره حیاتی تجارت انرژی مطرح می‌شود و همین وضعیت می‌تواند فشار اقتصادی و نااطمینانی عملیاتی را بالا نگه دارد.",
-            "این موضع‌گیری، همزمان پیام سیاسی از سوی تهران درباره خطوط قرمز در تعامل با واشینگتن است؛ اما متن گزارش به جزئیات اقدام مشخص یا زمان‌بندی برای بازگشایی اشاره نمی‌کند."
-        ],
-        "impact": "رد گفت‌وگو با آمریکا در کنار تداوم بسته‌بودن هرمز، احتمال تشدید اختلال در تجارت انرژی و افزایش ریسک اقتصادی-عملیاتی منطقه را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "DW.com",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMFc4UGNrY3BXU25oZEd6MnZDRFlOVjRBalZDZWN1NHRNa0JhSVdDcmstZU9OSWVqLVFoNWp6TnVHLUg4MVpyMUxBaGoyNmF3U2ZLRFYxcXg1NHliR2pEaE9jQ01oNXhlTmhVVUtTdGtiS0FHT0pBMnZTQUJKQ3pSekFWZGdZd0dhWFRiMmVZOWUxSllCQmc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMFc4UGNrY3BXU25oZEd6MnZDRFlOVjRBalZDZWN1NHRNa0JhSVdDcmstZU9OSWVqLVFoNWp6TnVHLUg4MVpyMUxBaGoyNmF3U2ZLRFYxcXg1NHliR2pEaE9jQ01oNXhlTmhVVUtTdGtiS0FHT0pBMnZTQUJKQ3pSekFWZGdZd0dhWFRiMmVZOWUxSllCQmc",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785145992.0,
-        "id": "6599b7dd7f"
-    },
-    {
-        "title_fa": "حوثی‌ها عربستان را به نبردی جدید هل دادند",
-        "title_en": "How the Houthis Cornered Saudi Arabia Into a New Battle",
-        "summary": [
-            "این گزارش می‌گوید حوثی‌ها با تشدید فشار و عملیات علیه منافع عربستان، ریاض را در موقعیتی قرار داده‌اند که واکنش نظامی/امنیتی برایش «اجتناب‌پذیر» شده است.",
-            "چارچوب اصلی پرونده، بازتولید چرخه درگیری میان بازیگران منطقه‌ای است: حوثی‌ها هزینه‌های عملیاتی و امنیتی برای عربستان بالا می‌برند و عربستان ناچار به پاسخ می‌شود.",
-            "گره‌گاه راهبردی، نه یک توافق سیاسی، بلکه گرفتار شدن عربستان در منطقِ تقابل مستقیم است؛ یعنی هر اقدام حوثی‌ها طراحی شده تا انتخاب‌های عربستان را محدود و مخاطره‌دار کند."
-        ],
-        "impact": "افزایش احتمال درگیری‌های تازه می‌تواند نااطمینانی امنیتی را در مسیرهای انرژی و تجارت منطقه‌ای تشدید کند و هزینه‌های عملیاتی عربستان را بالا ببرد.",
-        "tag": "منطقه",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
-        "clean_url": "https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785144815.0,
-        "id": "b5c107cb1a"
     }
 ]
