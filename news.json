@@ -1,5 +1,23 @@
 [
     {
+        "id": "d1eccd6df1",
+        "title_fa": "له شدن سفره مردم زیر بار جنگ اقتصادی و کسری بودجه حکومت",
+        "title_en": "Iranian families struggle to afford the basics as US ratchets up economic warfare",
+        "summary": [
+            "تشدید تحریم‌های اقتصادی آمریکا در کنار سوءمدیریت عمیق داخلی، معیشت روزمره و تامین کالاهای اولیه را برای خانواده‌های ایرانی غیرممکن کرده است.",
+            "فشار حداکثری واشنگتن منابع مالی حکومت را هدف گرفته، اما بار اصلی سقوط ارزش پول ملی مستقیماً بر دوش اقشار کم‌درآمد افتاده است."
+        ],
+        "impact": "تنگ‌تر شدن خط فقر، رکوردشکنی تورم کالاهای اساسی و بالا رفتن پتانسیل خیزش‌های معیشتی در سراسر کشور.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "Boston Herald",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSjYzOXZLS0VSNkxGdzdyNlJHWGREUHhhbGtXMm5sVVVRcHZuRk52c2I4NlJBc1FGeTYxd3FoUEVjbHR1MFMzMEZJMndUT1BVRnlFNjJJaHZVTnpSNHlMdVZNTWFaNnljNTFaZk84WTI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSjYzOXZLS0VSNkxGdzdyNlJHWGREUHhhbGtXMm5sVVVRcHZuRk52c2I4NlJBc1FGeTYxd3FoUEVjbHR1MFMzMEZJMndUT1BVRnlFNjJJaHZVTnpSNHlMdVZNTWFaNnljNTFaZk84WTI",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787332499.0
+    },
+    {
         "id": "f37a3abb25",
         "title_fa": "تدارک تندروهای تهران برای جنگ طولانی با آمریکا پشت نقاب مذاکرات",
         "title_en": "Behind Peace Talks, Iran Hard-Liners Prepare for a Longer, Costlier U.S. War",
@@ -71,6 +89,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEpoQTB6TlFFcU42Z2lLV3VhMVJhSS1fTVJTZGxZb0dWLVNSRWR0Mkhmc21CclNXaVpfdW1QQ081Q2xhQkx6NnVLT2dMelZHV0s4MUhzRTV1R1FWc2dCTzFORWdkeFUxOVg0MWZzdTFYcDJDTEJyQ0drdTJQN3A1U3dZNjdlSjF0WjRPQTlxNjZtVzR0S2p0MkxB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787309050.0
+    },
+    {
+        "id": "8f6f40f14f",
+        "title_fa": "کشیده شدن پای اروپا به مناقشه؛ تهدید موشکی پایگاه بلغارستان توسط تهران",
+        "title_en": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
+        "summary": [
+            "تهران برای بازدارندگی در برابر آمریکا، بانک اهداف خود را گسترش داده و پایگاه‌های پشتیبانی واشنگتن در بلغارستان و جنوب شرقی اروپا را زیر نظر گرفته است.",
+            "گسترش دامنه تهدیدات موشکی به معابر دوردست نشان‌دهنده تلاش سپاه برای تحمیل هزینه به متحدان منطقه‌ای و فرامنطقه‌ای آمریکاست."
+        ],
+        "impact": "افزایش سطح هشدار امنیتی در بالکان و احتمال ورود فعالانه اتحادیه اروپا به تحریم‌های تسلیحاتی جدید علیه ایران.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/why-iran-threatening-europe-strategically-172917330.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/why-iran-threatening-europe-strategically-172917330.html",
+        "image": "http://www.bing.com/th?id=ONUT.9ZaHDNoGpz5maQnxGlFLuA&pid=News",
+        "timestamp": 1787308200.0
     },
     {
         "id": "63a3a6f0ab",
@@ -5562,43 +5598,5 @@
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785177758.0,
         "id": "2cc40a57a1"
-    },
-    {
-        "title_fa": "ایران و عمان برای توافق درباره هرمز تلاش می‌کنند تا راه را برای آغاز دوباره گفت‌وگوهای صلح هموار کنند",
-        "title_en": "Iran and Oman seek agreement on the Hormuz in bid to jumpstart peace talks",
-        "summary": [
-            "بر اساس گزارش، میانجی‌ها از «وقفه در درگیری‌ها» استفاده می‌کنند تا یک راه‌حل سریع برای بازگشایی تنگه هرمز آماده کنند؛ هدف، ایجاد شرایط برای ورود به گفت‌وگوهای جدی‌تر است.",
-            "این روند نشان می‌دهد که بازیگران منطقه‌ای دنبال کاهش تنش عملیاتی و بازکردن مسیر تجارت/عبور‌ومرور هستند، اما خودِ متن بر «توافق مرحله‌ای» تاکید دارد نه حل ریشه‌ای اختلافات.",
-            "پیام ضمنی این اقدام، مدیریت بحران به‌جای توافق پایدار است: یعنی تمرکز روی رفع مانع فوری برای ادامه مذاکرات، در حالی است که مشخص نیست طرف‌ها به مسیر «گفت‌وگوهای ملموس» رسیده‌اند یا نه."
-        ],
-        "impact": "توافق احتمالی برای بازگشایی هرمز می‌تواند شدت بحران را موقتاً پایین بیاورد، اما احتمالاً تا زمان روشن شدن خطوط اختلاف اصلی، اثر پایداری بر روند سیاسی نخواهد داشت.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "The Wall Street Journal on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-and-oman-seek-agreement-on-the-hormuz-in-bid-to-jumpstart-peace-talks/ar-AA28OXQP",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-and-oman-seek-agreement-on-the-hormuz-in-bid-to-jumpstart-peace-talks/ar-AA28OXQP",
-        "image": "http://www.bing.com/th?id=ONUT.Srz6ponn0FUYK-44xXVV7A&pid=News",
-        "timestamp": 1785175200.0,
-        "id": "6b6916cc64"
-    },
-    {
-        "title_fa": "اختلاف نتانیاهو با ترامپ؛ سفر به واشینگتن برای پیدا کردن «آخرین فرصت» توافق با ایران",
-        "title_en": "At odds with Trump on Iran, Netanyahu heads to DC to seek agreement where he still can",
-        "summary": [
-            "مبنای خبر: در شرایطی که نتانیاهو بر سر سیاست ایران با ترامپ در اختلاف قرار دارد، برای تلاش جهت رسیدن به توافق یا چارچوبی که «هنوز امکان‌پذیر» است راهی واشینگتن می‌شود.",
-            "نکته راهبردی: این سفر نشان می‌دهد حتی در سطح متحدان، اجماع یکپارچه درباره ایران وجود ندارد و اختلاف در کاخ سفید می‌تواند سرعت و شکل فشار خارجی را تغییر دهد.",
-            "چون متن خبر فقط به «اختلاف و تلاش برای توافق» اشاره می‌کند، نمی‌توان درباره اقدام مشخص (تحریم جدید، گزینه نظامی، یا توافق دقیق) ادعای مشخص ساخت؛ تمرکز این رویداد فعلاً بر مدیریت شکاف سیاسی در آمریکا است."
-        ],
-        "impact": "اثر مستقیم این رویداد، بی‌ثباتی در مسیر سیاست فشار بر ایران است، چون تصمیم‌گیری آمریکا می‌تواند با اختلاف داخلی تغییر کند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Times of Israel",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObVRnazVBR1NLNV91VzVLdUhxYTlsU2JhRXFaRHc2SWxGejYzN3hMZG9EeFF6T1N0WEV4Y1QybEt6RUVkRUVibEo0STItY2N0UUFMTVg3MzZQUHlidkY2TG9iUlhHSWpncXBQSHI5dmo1eElxN0w0LVpiUURoaEJnM2hHd0tCMUJnN0FJQ3VEeXdCQlI0MVNPaUZ4VXhaXzdPZktUNFliRGdFa0xSMFFtQU1SRUNkMHfSAbwBQVVfeXFMT3NNc053eFc2WFdOX3JrZHFNaFdwWFNCenZkUW9sU01lZ2UzOFpvNFJwdVZFaGxqSFdHM2hmVGVBZkczTkVwaW8wRVEyUmJiWVBYa2xaYVVwRDJ3MnRZMUNLby12a2pTX2FMUmhabTdpZ1VRRmxSVExIczhjSnNOVWhnQzRDczV4b0xVUDlZRU5GbTBCU0diVjAxVE5XenZvSHp6WFAxRGtJM2ZHNjI5blRTUnFCREVOanlRTlM?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObVRnazVBR1NLNV91VzVLdUhxYTlsU2JhRXFaRHc2SWxGejYzN3hMZG9EeFF6T1N0WEV4Y1QybEt6RUVkRUVibEo0STItY2N0UUFMTVg3MzZQUHlidkY2TG9iUlhHSWpncXBQSHI5dmo1eElxN0w0LVpiUURoaEJnM2hHd0tCMUJnN0FJQ3VEeXdCQlI0MVNPaUZ4VXhaXzdPZktUNFliRGdFa0xSMFFtQU1SRUNkMHfSAbwBQVVfeXFMT3NNc053eFc2WFdOX3JrZHFNaFdwWFNCenZkUW9sU01lZ2UzOFpvNFJwdVZFaGxqSFdHM2hmVGVBZkczTkVwaW8wRVEyUmJiWVBYa2xaYVVwRDJ3MnRZMUNLby12a2pTX2FMUmhabTdpZ1VRRmxSVExIczhjSnNOVWhnQzRDczV4b0xVUDlZRU5GbTBCU0diVjAxVE5XenZvSHp6WFAxRGtJM2ZHNjI5blRTUnFCREVOanlRTlM",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785173023.0,
-        "id": "7855eb4f82"
     }
 ]
