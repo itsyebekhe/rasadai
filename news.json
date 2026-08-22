@@ -72,6 +72,25 @@
         "timestamp": 1787369460.0
     },
     {
+        "id": "2b329cc15a",
+        "title_fa": "تغییر لحن مقامات ارشد تهران؛ پیام خروج از جنگ و فوریت مذاکره",
+        "title_en": "Iran’s top politicians urge an end to the war",
+        "summary": [
+            "مسعود پزشکیان و محمدباقر قالیباف علناً خواستار پایان دادن به درگیری‌ها و خروج از معرکه جنگی شده‌اند تا اقتصاد بحران‌زده را جمع‌وجور کنند.",
+            "سیاسیون حاکمیت می‌دانند اهرم‌های فشار منطقه‌ای تهران در حال فرسایش است و می‌خواهند قبل از از دست رفتن کامل قدرت چانه‌زنی، معامله کنند.",
+            "این موضع‌گیری عقب‌نشینی آشکار از خط تهدید نظامی و اعتراف صریح به ناکارآمدی زیرساخت‌های اقتصادی در برابر فشار حداکثری است."
+        ],
+        "impact": "تغییر ریل سریع حکومت به سمت دیپلماسی اجباری برای جلوگیری از فروپاشی کامل اقتصادی.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-top-politicians-urge-an-end-to-the-war/ar-AA2aHHFp",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-top-politicians-urge-an-end-to-the-war/ar-AA2aHHFp",
+        "image": "http://www.bing.com/th?id=ONUT._Tmz6nyOYIiYGT-ucGkq-w&pid=News",
+        "timestamp": 1787364900.0
+    },
+    {
         "id": "ff11a6ab3b",
         "title_fa": "تلاش کرملین برای میانجی‌گری در مذاکرات هسته‌ای ایران و آمریکا",
         "title_en": "Why Russia Could Mediate US-Iran Nuclear Talks",
@@ -5566,24 +5585,5 @@
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785236025.0,
         "id": "d12b1c1841"
-    },
-    {
-        "title_fa": "اعلان «محاصره دریایی» توسط حوثی‌ها در باب‌المندب و تشدید ریسک برای صادرات نفت عربستان",
-        "title_en": "Conflict in Yemen and the Red Sea | Global Conflict Tracker",
-        "summary": [
-            "حوثی‌های مورد حمایت ایران در یمن اعلام کردند «محاصره دریایی» علیه عربستان اعمال می‌کنند و قصد دارند کشتی‌های عربستانی را که از تنگه باب‌المندب (راه ارتباطی دریای سرخ و خلیج عدن) عبور می‌کنند هدف بگیرند؛ نشانه‌ای از تشدید خطرناک تنش جاری میان آمریکا و ایران.",
-            "این اقدام می‌تواند مستقیماً مسیر حمل‌ونقل نفت عربستان را تهدید کند؛ بخش قابل‌توجهی از صادرات نفت برای دور زدن تنگه هرمز به دریای سرخ منتقل شده است. عربستان نیز با «شدیدترین محکومیت» و وعده «همه اقدامات لازم» برای حفاظت از کشتی‌هایش واکنش نشان داد، اما اثرگذاری آن نامشخص است.",
-            "گزارش تأکید می‌کند هنوز فقط درباره هدف گرفتن کشتی‌های عربستانی صحبت شده و «بستن کامل» کریدور دریایی مطرح نیست؛ با این حال همین تهدیدها هم می‌توانند جریان کشتیرانی را مختل کنند و هزینه‌های حمل‌ونقل را بالا ببرند. افزون بر آن، باب‌المندب مسیر مهمی برای تجارت جهانی است (حدود ۱۰ تا ۱۲٪ تجارت دریایی سالانه از آن عبور می‌کند)."
-        ],
-        "impact": "این تحول ریسک اختلال در کریدور دریای سرخ را بالا می‌برد و می‌تواند زنجیره صادرات نفت عربستان را که برای کاهش وابستگی به هرمز تقویت شده، تحت فشار مستقیم هزینه و زمان قرار دهد.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Council on Foreign Relations",
-        "url": "https://theconversation.com/why-new-houthi-threats-in-the-red-sea-could-spell-trouble-for-global-oil-prices-and-inflation-287948",
-        "clean_url": "https://theconversation.com/why-new-houthi-threats-in-the-red-sea-could-spell-trouble-for-global-oil-prices-and-inflation-287948",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785232237.0,
-        "id": "2f56968bf6"
     }
 ]
