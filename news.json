@@ -1,5 +1,23 @@
 [
     {
+        "id": "6ccd6ba12e",
+        "title_fa": "چالش ترامپ در قبال ایران؛ مانور انتخاباتی یا تهدید واقعی؟",
+        "title_en": "Persuasion, denial and bluster: Trump ‘stuck’ on Iran war ahead of elections",
+        "summary": [
+            "دونالد ترامپ در آستانه انتخابات آمریکا میان شعارهای ضدجنگ و ادامه‌ی سیاست فشار حداکثری بر تهران دچار سردرگمی شده است.",
+            "مواضع تند و تهدیدهای لفظی او بیشتر کارکرد مصرف داخلی و تبلیغاتی دارد تا یک طرح مشخص و عملیاتی برای درگیری مستقیم نظامی."
+        ],
+        "impact": "این بلاتکلیف بودن در تصمیم‌گیری واشنگتن، احتمال خطای محاسباتی در درگیری‌های منطقه‌ای را بالا می‌برد.",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGdrSnZWXzRGY09FMEcyTDAtNmllR0tuWjZTZWxkSjRKcHUta2VRbkRYQ2tWN2p1SU44TjVhdzBlTm9QVDA1TzFyMmtSVlQ5aGZ6bVVtcFNaem5pSWNrOHRGU0RjN3luNWQwWlg2UVZhLURsWjIzcWMyX2dPYWNHbXVhQzJIekZLYkQ4cm0xSlQybUh5dlh0Mjk4MA?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZGdrSnZWXzRGY09FMEcyTDAtNmllR0tuWjZTZWxkSjRKcHUta2VRbkRYQ2tWN2p1SU44TjVhdzBlTm9QVDA1TzFyMmtSVlQ5aGZ6bVVtcFNaem5pSWNrOHRGU0RjN3luNWQwWlg2UVZhLURsWjIzcWMyX2dPYWNHbXVhQzJIekZLYkQ4cm0xSlQybUh5dlh0Mjk4MA",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787415720.0
+    },
+    {
         "id": "d02450eb93",
         "title_fa": "روایت‌سازی تهران از «پیروزی جهانی» بر آمریکا",
         "title_en": "Iran says ‘world approved our victory’ over the US",
@@ -5561,24 +5579,5 @@
         "image": "http://www.bing.com/th?id=ONUT.zklr-Wvfl9UOU3y6wgTaDA&pid=News",
         "timestamp": 1785258000.0,
         "id": "6bd8851533"
-    },
-    {
-        "title_fa": "گزینه‌های نظامی ترامپ برای مالی: شکاف در تصمیم‌گیری آمریکا و تمرکز بر JNIM",
-        "title_en": "What are Trump’s military options?",
-        "summary": [
-            "طبق گزارش، دولت ترامپ در حال بررسی اقدام نظامی علیه گروه وابسته به القاعده «JNIM» در مالی است؛ در صورت تصویب، این حمله می‌تواند هشتمین کشور هدف حملات بعد از آغاز دوره دوم ترامپ باشد.",
-            "با این حال، اختلاف جدی میان مقام‌های ارشد آمریکا وجود دارد: بخشی خواهان عملیات است و «سباستین گورکا» به‌عنوان مدافع پرقدرت استفاده از زور مطرح شده، در حالی‌که پنتاگون از اظهار نظر خودداری کرده و کاخ سفید نیز درباره تصمیم نهایی شفافیت نداده است.",
-            "حساب کار دولت آمریکا بیشتر روی فشار برای خرید تجهیزات و خدمات آمریکایی توسط دولت‌های شمال و غرب آفریقا گذاشته شده و تاکید شده تروریسم در صحرای آفریقا (ساحِل) یک مسئله چندملیتی است؛ همچنین از حمایت از ائتلاف‌های منطقه‌ای علیه JNIM و داعش نام برده شده است."
-        ],
-        "impact": "این روند می‌تواند با تشدید فشار امنیتی در ساحِل، فضای عملیاتی گروه‌های جهادی را مختل کند، اما چون اجماع داخلی آمریکا هنوز شکل نگرفته، احتمال تغییر مسیر یا تعویق تصمیم نظامی بالا می‌ماند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-administration-weighing-military-options-in-mali-officials-say-160303007.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-administration-weighing-military-options-in-mali-officials-say-160303007.html",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785257458.0,
-        "id": "940eee24ee"
     }
 ]
