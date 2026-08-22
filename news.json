@@ -127,6 +127,25 @@
         "timestamp": 1787383722.0
     },
     {
+        "id": "32560f27e6",
+        "title_fa": "تغییر الگوی ترامپ علیه ایران؛ از تاکتیک تاکتیکی تا تهدید جنگ مستقیم",
+        "title_en": "From broken promises to open war: The contradictions of Trump's Iran policy",
+        "summary": [
+            "ترامپ در دوره نخست خود با ایجاد رعب نظامی و شوک اقتصادی، در لحظه آخر از مواجهه مستقیم عقب می‌نشست تا تهران را مجبور به پذیرش توافق کند.",
+            "رویکرد جدید واشنگتن ابهام قبلی را کنار گذاشته و به‌جای دیپلماسی سنتی، فشار بر گزینه تسلیم بی‌قیدوشرط و ضربه مستقیم را تقویت کرده است.",
+            "نوسان میان دیپلماسی و تهدید نظامی، بخشی از استراتژی پیش‌بینی‌ناپذیری برای فروپاشی توان اقتصادی و ساختار بازدارندگی ایران محسوب می‌شود."
+        ],
+        "impact": "بالا رفتن احتمال ریسک نظامی و تشدید شوک‌های روانی بر بازار ارز و انرژی در منطقه.",
+        "tag": "ایالات متحده",
+        "urgency": 7,
+        "sentiment": -0.65,
+        "source": "Tehran Times",
+        "url": "https://www.tehrantimes.com/news/529306/From-broken-promises-to-open-war-The-contradictions-of-Trump-s",
+        "clean_url": "https://www.tehrantimes.com/news/529306/From-broken-promises-to-open-war-The-contradictions-of-Trump-s",
+        "image": "https://media.tehrantimes.com/d/t/2026/08/22/4/6142579.jpg?ts=1787408322261",
+        "timestamp": 1787382540.0
+    },
+    {
         "id": "ec08e9e648",
         "title_fa": "دور جدید تحریم‌های واشنگتن و واکنش تند تهران",
         "title_en": "Iran condemns US plans to announce new sanctions",
@@ -5561,24 +5580,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785257458.0,
         "id": "940eee24ee"
-    },
-    {
-        "title_fa": "بازگشت نتانیاهو به ترامپِ بدبین در حالی‌که جنگ با ایران فرسایشی ادامه دارد",
-        "title_en": "Netanyahu returns to a skeptical Trump as Iran war grinds on",
-        "summary": [
-            "طبق گزارش واشنگتن پست، بنیامین نتانیاهو در دور جدید رایزنی‌ها با دونالد ترامپ، با بدبینی و تردید از سوی طرف آمریکایی مواجه است؛ نشانه‌ای از تزلزل در اجماع سیاسی واشینگتن حول مسیر جنگ علیه ایران.",
-            "این وضعیت در بستر «فرسایشی شدن» درگیری مرتبط با ایران توصیف می‌شود؛ یعنی عملیات‌ها و فشارها به جای ایجاد جهش سریع، به چرخه طولانی‌مدت کشیده شده‌اند و همین موضوع بر تصمیم‌گیری آمریکا فشار می‌آورد.",
-            "عدم همسویی کامل در نگاه ترامپ/حلقه تصمیم‌گیری او نسبت به نتانیاهو، به‌طور عملی ریسک کاهش شدت یا تغییر شکل حمایت سیاسی/راهبردی را بالا می‌برد و می‌تواند بر محاسبات طرف‌های درگیر اثر مستقیم بگذارد."
-        ],
-        "impact": "بدبینی ترامپ نسبت به نتانیاهو می‌تواند سرعت و قطعیت سیاست آمریکا را در قبال جنگ فرسایشی علیه ایران پایین بیاورد و روند را به سمت مدیریت پرریسک‌تر سوق دهد.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.3,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/politics/netanyahu-returns-to-a-skeptical-trump-as-iran-war-grinds-on/ar-AA28RDB3",
-        "clean_url": "https://www.msn.com/en-us/news/politics/netanyahu-returns-to-a-skeptical-trump-as-iran-war-grinds-on/ar-AA28RDB3",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785253429.0,
-        "id": "f9969dc0c4"
     }
 ]
