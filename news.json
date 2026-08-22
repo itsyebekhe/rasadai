@@ -1,5 +1,23 @@
 [
     {
+        "id": "b661aa4315",
+        "title_fa": "موضع‌گیری تکراری تهران؛ متهم کردن واشنگتن به نقض حاکمیت کشورها",
+        "title_en": "Iran says new US sanctions violate sovereignty of other states",
+        "summary": [
+            "جمهوری اسلامی در واکنش به تحریم‌های جدید آمریکا، دوباره به خط کلامی تکراری متوسل شد و واشنگتن را به نقض حاکمیت سایر کشورها متهم کرد.",
+            "این‌گونه بیانیه‌های تشریفاتی صرفاً ژست دیپلماتیک برای سرپوش گذاشتن بر تبعات سنگین فشار حداکثری است."
+        ],
+        "impact": "بی‌تأثیر در روند اعمال تحریم‌ها و تداوم انزوای بین‌المللی.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNzBoOGIzMlNpYTZxX0lzUDRtVXUtanlrWDZ0SENSN1ZKMHZFbXctT1BBNUJKRFM4bGVic0dQRF9WejF4V0FsZlM0YlNYUVdBZlUxNTlrZ0VDQ0M3U0tCdk5MOXlROUttbnU0OHFQRGdMT0dxOHpMTnpIc0k1dVFXclE4R3JNWnBRZENCWWp3Nk9DYUxoeVlnSFBIWkpuclhCazh6Q0pXQWNvdnhwU2NJUW1LRjY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNzBoOGIzMlNpYTZxX0lzUDRtVXUtanlrWDZ0SENSN1ZKMHZFbXctT1BBNUJKRFM4bGVic0dQRF9WejF4V0FsZlM0YlNYUVdBZlUxNTlrZ0VDQ0M3U0tCdk5MOXlROUttbnU0OHFQRGdMT0dxOHpMTnpIc0k1dVFXclE4R3JNWnBRZENCWWp3Nk9DYUxoeVlnSFBIWkpuclhCazh6Q0pXQWNvdnhwU2NJUW1LRjY",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787380776.0
+    },
+    {
         "id": "6e55de141b",
         "title_fa": "جنگ لفظی واشنگتن و تهران در آستانه دور جدید تحریم‌ها",
         "title_en": "US, Iran keep up hostile rhetoric ahead of new sanctions",
@@ -236,6 +254,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zSjYzOXZLS0VSNkxGdzdyNlJHWGREUHhhbGtXMm5sVVVRcHZuRk52c2I4NlJBc1FGeTYxd3FoUEVjbHR1MFMzMEZJMndUT1BVRnlFNjJJaHZVTnpSNHlMdVZNTWFaNnljNTFaZk84WTI",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787332499.0
+    },
+    {
+        "id": "54e82ce198",
+        "title_fa": "وعده «دی-دی اقتصادی» ترامپ؛ فشار بی‌سابقه بر شریان‌های مالی تهران",
+        "title_en": "Trump wants to unleash ‘economic D-Day’. But Iran is no stranger to pain",
+        "summary": [
+            "ترامپ از آغاز یک جنگ اقتصادی تمام‌عیار برای قطع کامل منابع مالی و فلج کردن توان منطقه‌ای حکومت خبر داده است.",
+            "با وجود بحران شدید ارزی در داخل ایران، فشار اقتصادی به تنهایی و بدون مکمل‌های سخت نظامی، به سرعت رفتار تهران را تغییر نمی‌دهد."
+        ],
+        "impact": "شوک سنگین به بازار ارز و سخت‌تر شدن بی‌سابقه تجارت خارجی ایران.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-wants-unleash-economic-d-050000913.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-wants-unleash-economic-d-050000913.html",
+        "image": "http://www.bing.com/th?id=ONUT.AAxTsd41MmoF9krf05dJ0A&pid=News",
+        "timestamp": 1787331600.0
     },
     {
         "id": "f37a3abb25",
@@ -5551,43 +5587,5 @@
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785221976.0,
         "id": "b7c7ab99d3"
-    },
-    {
-        "title_fa": "افول حمایت عمومی آمریکا از جنگ علیه ایران؛ بلاتکلیفی هدف‌ها و افزایش تلفات، مشروعیت داخلی را فرسایش می‌دهد",
-        "title_en": "Just 1 in 3 support Iran war: Survey",
-        "summary": [
-            "یک نظرسنجی Reuters/Ipsos نشان می‌دهد فقط ۳۳٪ آمریکایی‌ها با حملات آمریکا علیه ایران موافق‌اند و ۶۲٪ مخالف‌اند؛ همچنین حدود ۷۰٪ می‌گویند ترامپ اهداف درگیری را «به‌وضوح توضیح نداده» است.",
-            "حمایت از جنگ به‌طور مداوم زیر ۴۰٪ بوده و اختلاف حزبی شدید است: جمهوری‌خواهان عمدتاً موافق (۷۱٪) اما دموکرات‌ها بسیار مخالف (۹۳٪) و مستقل‌ها نیز غالباً مخالف (۶۷٪).",
-            "هم‌زمان با ادامه جنگ پنج‌ماهه، آمار تلفات رسمی‌تر شده: فهرست کشته‌شدگان از ۶۰۰ عبور کرده و وزارت دفاع چهار نیروی پیش‌تر ثبت‌شده را به طبقه «Overseas Operations» برگردانده؛ جمع کشته‌ها ۱۸ نفر و مجروح‌ها ۶۲۴ نفر گزارش شده است."
-        ],
-        "impact": "کاهش حمایت عمومی و ناتوانی در توضیح روشن اهداف، هزینه سیاسی ادامه عملیات را بالا می‌برد و زمینه فشار برای تغییر مسیر یا توقف را بیشتر می‌کند.",
-        "tag": "تحلیل",
-        "urgency": 7,
-        "sentiment": -0.35,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/just-1-3-support-iran-132510820.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/just-1-3-support-iran-132510820.html",
-        "image": "http://www.bing.com/th?id=ONUT.5SO8zauVCyNWiw2ZDr57dQ&pid=News",
-        "timestamp": 1785219900.0,
-        "id": "9e4ae9cd4e"
-    },
-    {
-        "title_fa": "تهدید ازسرگیری بمباران علیه ایران سایه می‌اندازد؛ ترامپ با نتانیاهو دیدار می‌کند همزمان با تلاش برای معامله درباره تنگه هرمز",
-        "title_en": "Iran War Updates: Trump to meet Israel's Netanyahu as his threat to resume bombing Iran looms over diplomacy",
-        "summary": [
-            "طبق گزارش CBS News، ترامپ قرار است با بنیامین نتانیاهو دیدار کند، در حالی که «تهدید ازسرگیری بمباران ایران» به روند دیپلماسی فشار وارد می‌کند.",
-            "همزمان، آمریکا و ایران در حالت خودداری از اقدام نظامی قرار دارند و کار برای رسیدن به توافق جهت «بازگشایی تنگه هرمز» در جریان است.",
-            "این وضعیت نشان می‌دهد که کاهش تنش فعلی بیشتر مبتنی بر توقف آتش و مسیر مذاکرات است، نه حل ریشه‌ای بحران؛ چون همزمان تهدید عملیاتیِ بازگشت به درگیری مطرح شده است."
-        ],
-        "impact": "دیدار ترامپ با نتانیاهو و باقی‌ماندن تهدید بمباران، احتمال تبدیل دیپلماسی به چرخه تشدید را بالا می‌برد، حتی اگر فعلاً آتش‌بس/خودداری از درگیری برقرار باشد.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman/",
-        "clean_url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-talks-oman",
-        "image": "http://www.bing.com/th?id=ONUT.MYFJ5tVM9yL6VKsNmFDSvQ&pid=News",
-        "timestamp": 1785217200.0,
-        "id": "c77981f992"
     }
 ]
