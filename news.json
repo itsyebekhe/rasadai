@@ -1,5 +1,24 @@
 [
     {
+        "id": "ff11a6ab3b",
+        "title_fa": "تلاش کرملین برای میانجی‌گری در مذاکرات هسته‌ای ایران و آمریکا",
+        "title_en": "Why Russia Could Mediate US-Iran Nuclear Talks",
+        "summary": [
+            "روسیه می‌کوشد با ورود به خط معامله هسته‌ای تهران و واشنگتن، از کارت ایران برای امتیازگیری در بحران اوکراین استفاده کند.",
+            "جمهوری اسلامی به دلیل هراس از فشار حداکثری، باز هم ابزار بازی ژئوپلیتیک مسکو شده است.",
+            "عدم تمایل آمریکا به اهرم‌سازی کرملین، مانع اصلی تحقق این نقش میانجی خواهد بود."
+        ],
+        "impact": "پیچیده‌تر شدن پرونده هسته‌ای و گره خوردن آن به مناقشات شرق و غرب.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "The National Interest",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYW5hSlFEQ0ZPRWJxY1N5bWxNdTl1M3BZMnplSDlpbXVJT3ZHLVpicUpNdGxQMEd1WU1VNlZFV0NsZHZGaEp1WGp6WTY5aEFmNkF5clpUZjZfRWlxYnprX2d4S2NBd19WeXA3dUJBZzFwSWVoM0dFSWRwa0lGTEpSRFBEd1FfTXNCY1k0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYW5hSlFEQ0ZPRWJxY1N5bWxNdTl1M3BZMnplSDlpbXVJT3ZHLVpicUpNdGxQMEd1WU1VNlZFV0NsZHZGaEp1WGp6WTY5aEFmNkF5clpUZjZfRWlxYnprX2d4S2NBd19WeXA3dUJBZzFwSWVoM0dFSWRwa0lGTEpSRFBEd1FfTXNCY1k0",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787361489.0
+    },
+    {
         "id": "ec4166a678",
         "title_fa": "تأکید ترامپ بر ناکافی بودن مواضع تهران برای توافق",
         "title_en": "Trump says Iran not ready to make the 'right deal'",
@@ -163,6 +182,24 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-consolidate-below-153802362.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0.jpg",
         "timestamp": 1787327523.0
+    },
+    {
+        "id": "6414608cc4",
+        "title_fa": "چرا تهدید استراتژیک جمهوری اسلامی پس از هر عقب‌نشینی احیا می‌شود؟",
+        "title_en": "Why Iran's Threat Keeps Coming Back",
+        "summary": [
+            "اشتباه محاسباتی غرب در این است که چالش ایران را صرفاً به افراد حاکم تقلیل می‌دهد، در حالی که ماهیت ساختاری رژیم بر پایه صدور بحران تعریف شده است.",
+            "عقب‌نشینی‌های تاکتیکی تهران نباید تصمیم‌گیرندگان غربی را گمراه کند؛ بازسازی توان منطقه‌ای بخشی از استراتژی بقای جمهوری اسلامی است."
+        ],
+        "impact": "تغییر احتمالی استراتژی غرب از مهار موقت به سمت بی‌ثبات‌سازی ساختاری رژیم ایران.",
+        "tag": "استراتژی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Blogs | The Times of Israel",
+        "url": "https://blogs.timesofisrael.com/why-irans-threat-keeps-coming-back/",
+        "clean_url": "https://blogs.timesofisrael.com/why-irans-threat-keeps-coming-back",
+        "image": "https://static-cdn.toi-media.com/blogs/uploads/2026/05/pexels-cottonbro-4033852-640x400.jpg",
+        "timestamp": 1787323320.0
     },
     {
         "id": "9fc21d1604",
@@ -5555,43 +5592,5 @@
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785205496.0,
         "id": "55cff87554"
-    },
-    {
-        "title_fa": "مصاحبه نامزدهای ناحیه ۷ کنگره میسوری درباره درگیری در ایران",
-        "title_en": "August Primary: Missouri U.S. District 7 candidates discuss the conflict in Iran",
-        "summary": [
-            "KY3 گزارش می‌دهد که در آستانه انتخابات مقدماتی آگوست، نامزدهای انتخابات ناحیه ۷ دادگاه فدرال ایالات متحده (میسوری) درباره «درگیری در ایران» صحبت کرده‌اند.",
-            "این خبر محتوای دقیق مواضع یا جزئیات درباره نوع درگیری، اهداف سیاستی، یا اقدامات مشخص دولت آمریکا را ارائه نمی‌کند و صرفاً به گفت‌وگوهای انتخاباتی پیرامون موضوع ایران اشاره دارد.",
-            "بنابراین، از این گزارش نمی‌توان نتیجه قابل‌اتکا درباره تشدید تحریم‌ها، تصمیمات نظامی، یا تغییر سیاست رسمی ایالات متحده استخراج کرد؛ محور فعلی در سطح داخلی آمریکا و رقابت انتخاباتی است."
-        ],
-        "impact": "این گزارش بیشتر نشان‌دهنده ورود موضوع ایران به رقابت انتخاباتی است و نشانه مستقیمِ تغییر سیاست یا فشار خارجی جدید علیه رژیم ارائه نمی‌دهد.",
-        "tag": "انتخابات",
-        "urgency": 2,
-        "sentiment": 0.0,
-        "source": "KY3",
-        "url": "https://www.msn.com/en-us/news/politics/august-primary-missouri-us-house-district-7-candidates-answer-questions/ar-AA28kihy",
-        "clean_url": "https://www.msn.com/en-us/news/politics/august-primary-missouri-us-house-district-7-candidates-answer-questions/ar-AA28kihy",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785204960.0,
-        "id": "1871e514a5"
-    },
-    {
-        "title_fa": "نگرانی متحدان ترامپ: دیدار نتانیاهو با ترامپ می‌تواند آمریکا را عمیق‌تر به جنگ با ایران بکشاند",
-        "title_en": "‘A disaster for America First’: Trump allies fear Netanyahu meeting will pull US deeper into war with Iran",
-        "summary": [
-            "طبق گزارش Politico، قرار است ترامپ و نتانیاهو روز سه‌شنبه برای نخستین بار پس از حملات دو کشور به ایران در فوریه دیدار کنند؛ نتانیاهو نیز برای حضور در مراسم تشییع در واشنگتن خواهد بود.",
-            "اتحادی‌های ترامپ از این دیدار می‌ترسند که خروجی آن «کشیده شدن آمریکا به جنگ عمیق‌تر» با ایران باشد و این را ضربه به رویکرد «America First» می‌دانند.",
-            "منطق نگرانی‌ها در چارچوب فشارهای سیاسی-تبلیغاتی و پیامدهای تصمیمات کاخ سفید بعد از حملات فوریه شکل گرفته، اما متن گزارش به اقدام نظامی مشخص یا توافق جدید پس از دیدار اشاره قطعی نمی‌کند."
-        ],
-        "impact": "این دیدار، در صورت تولید سیگنال‌های سخت‌تر از سوی واشنگتن، می‌تواند ریسک درگیری مستقیم یا تشدید سطح درگیری آمریکا-ایران را بالا ببرد، بدون اینکه هنوز جزئیات قابل راستی‌آزمایی از تصمیم مشخص ارائه شده باشد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.35,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/07/28/trump-netanyahu-allies-worry-iran-01013125",
-        "clean_url": "https://www.politico.com/news/2026/07/28/trump-netanyahu-allies-worry-iran-01013125",
-        "image": "http://www.bing.com/th?id=ONUT.2fZBfujLi2Bn7N3FdnAPTw&pid=News",
-        "timestamp": 1785203100.0,
-        "id": "11dce43e9e"
     }
 ]
