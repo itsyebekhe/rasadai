@@ -36,6 +36,25 @@
         "timestamp": 1787408601.0
     },
     {
+        "id": "34af3fee34",
+        "title_fa": "ورود سپاه به منازعه سران قوا؛ حمایت سلامی از صداوسیما",
+        "title_en": "IRGC chief backs state broadcaster amid clashes with Pezeshkian, Ghalibaf",
+        "summary": [
+            "حسین سلامی با جانبداری صریح از صداوسیما، خط قرمزی پررنگ دور بوق تبلیغاتی حاکمیت در برابر انتقادات دولت کشید.",
+            "این اقدام افشا می‌کند که سپاه رسانه ملی را ابزاری حیاتی برای حفظ کنترل سیاسی می‌داند و اجازه اصلاحات یا تغییر ریل در آن را به پزشکیان نمی‌دهد.",
+            "علنی شدن این تقابل، شکاف عمیق میان دولت، مجلس قالیباف و نهادهای نظامی را بیش از پیش نمایان کرد."
+        ],
+        "impact": "کاهش شدید قدرت مانور دولت پزشکیان در سیاست‌گذاری داخلی و تثبیت سیطره جناح نظامی بر فضای رسانه‌ای.",
+        "tag": "سیاست داخلی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02SlhlR0wtMDI2Qjd3LTNmZG9GYnN6SFhHb1RPMjlERzB1TEFPM2R1ajc5cnFrS1h3SHNqeDBQV2J5VmlBcVktajR5WlJfRzBSVkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02SlhlR0wtMDI2Qjd3LTNmZG9GYnN6SFhHb1RPMjlERzB1TEFPM2R1ajc5cnFrS1h3SHNqeDBQV2J5VmlBcVktajR5WlJfRzBSVkE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787408474.0
+    },
+    {
         "id": "0fde820450",
         "title_fa": "بازگشت متخصصان روس به نیروگاه اتمی بوشهر",
         "title_en": "Russia’s Rosatom Returns Workers to Iran’s Bushehr Nuclear Plant",
@@ -142,6 +161,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNzBoOGIzMlNpYTZxX0lzUDRtVXUtanlrWDZ0SENSN1ZKMHZFbXctT1BBNUJKRFM4bGVic0dQRF9WejF4V0FsZlM0YlNYUVdBZlUxNTlrZ0VDQ0M3U0tCdk5MOXlROUttbnU0OHFQRGdMT0dxOHpMTnpIc0k1dVFXclE4R3JNWnBRZENCWWp3Nk9DYUxoeVlnSFBIWkpuclhCazh6Q0pXQWNvdnhwU2NJUW1LRjY",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787380776.0
+    },
+    {
+        "id": "de05b94ce5",
+        "title_fa": "تغییر تاکتیک ترامپ؛ تشدید جنگ اقتصادی به جای درگیری نظامی",
+        "title_en": "After Military Failure, Trump's Economic War on Iran",
+        "summary": [
+            "آمریکا پس از ناکامی در تحقق اهداف میدانی، راهبرد خود را کاملاً به سمت فلج‌سازی اقتصادی و بازگرداندن فشار حداکثری تغییر داده است.",
+            "تغییر تمرکز از گزینه‌های نظامی به تحریم‌های سخت‌گیرانه وزارت خزانه‌داری، هدف قرار دادن شریان‌های اصلی درامد نفتی و ارزی ایران را دنبال می‌کند.",
+            "واشنگتن با درک هزینه‌های سنگین درگیری مستقیم، فروپاشی اقتصادی را کم‌هزینه‌ترین ابزار برای مهار منطقه‌ای تهران می‌داند."
+        ],
+        "impact": "تشدید جهش‌های ارزی و فشارهای اقتصادی بر بازار داخل در پی مسدودسازی منفذهای درامد نفتی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Daily Times",
+        "url": "https://dailytimes.com.pk/1541968/after-military-failure-trumps-economic-war-on-iran/",
+        "clean_url": "https://dailytimes.com.pk/1541968/after-military-failure-trumps-economic-war-on-iran",
+        "image": "https://dailytimes.com.pk/assets/uploads/2025/03/23/Qamar-Bashir.jpg",
+        "timestamp": 1787379360.0
     },
     {
         "id": "6e55de141b",
@@ -5542,43 +5580,5 @@
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785253429.0,
         "id": "f9969dc0c4"
-    },
-    {
-        "title_fa": "ایران به دنبال ضربه تلافی‌جویانه به بندر اوکراین؛ هشدار برای گسترش درگیری به اروپا",
-        "title_en": "Iran Considered Retaliatory Strike on Ukrainian Seaport",
-        "summary": [
-            "عباس عراقچی، وزیر امور خارجه ایران، حمله اوکراین را «نقض منشور سازمان ملل» خواند و ادعا کرد هدف آن کشاندن اروپا به جنگ ایران علیه ایالات متحده است.",
-            "در گزارش نیویورک‌تایمز، موضوع «در نظر گرفتن ضربه تلافی‌جویانه» علیه یک بندر اوکراینی مطرح شده که نشان می‌دهد تهران در حال سنجش پیامدهای مستقیمِ واکنش فراتر از صحنه اوکراین است.",
-            "استدلال عراقچی بر مبنای پیوند دادن رخداد اوکراین به رقابت/درگیری ایران و آمریکا، سیگنال سیاسی-روانی برای مدیریت افکار عمومی و فشار به اروپا ارزیابی می‌شود."
-        ],
-        "impact": "اگر تهران واکنش عملی انجام دهد، احتمال تعمیق درگیری فرامرزی و افزایش فشار سیاسی-امنیتی بر اروپا و کاهش حاشیه امنیت فعالیت‌های دریایی در منطقه بالا می‌رود.",
-        "tag": "بازدارندگی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html",
-        "clean_url": "https://www.nytimes.com/2026/07/28/us/politics/iran-ukraine-tensions.html",
-        "image": "http://www.bing.com/th?id=ONUT.N74rZGF1-cHuJZfA5HDFig&pid=News",
-        "timestamp": 1785253140.0,
-        "id": "4ce165098d"
-    },
-    {
-        "title_fa": "کاهش اعتماد آمریکایی‌ها به اقتصاد آمریکا در پی افزایش قیمت گاز ناشی از تشدید تنش با ایران",
-        "title_en": "Americans’ confidence in US economy falls as Iran conflict sends gas prices higher",
-        "summary": [
-            "AP می‌گوید «اعتماد آمریکایی‌ها» به اقتصاد آمریکا کاهش یافته، و علت آن به افزایش قیمت بنزین/گاز نسبت داده می‌شود که در چارچوب تشدید درگیری با ایران رخ داده است.",
-            "این روایت نشان می‌دهد پیامد مستقیم تنش خارجی، به‌صورت ملموس از کانال هزینه انرژی وارد زندگی اقتصادی مردم شده و بر ادراک عمومی از وضعیت اقتصاد اثر گذاشته است.",
-            "با توجه به اینکه خبر صرفاً به اثر اقتصادی تنش بر قیمت انرژی و سپس بر اعتماد مصرف‌کننده/عمومی اشاره می‌کند، تمرکز گزارش بر هزینه‌های فوری و روانی بحران است نه بر جزئیات تصمیمات سیاسی یا نظامی."
-        ],
-        "impact": "افزایش قیمت انرژی ناشی از تنش با ایران به کاهش اعتماد اقتصادی در آمریکا دامن می‌زند و می‌تواند فشار هزینه‌ای را به کل افق مصرف و رشد اقتصادی منتقل کند.",
-        "tag": "اقتصادی",
-        "urgency": 4,
-        "sentiment": -0.35,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjFKSGphQTNUbkk2ZHZucHVwSzRxZm9ULXZDT2NJT0M4LUZfeW83MEU5S2tGZkhLMG95S0RfX21pR0FaS3hKaDBQWXZnQ0t2VkM0UEh6WkVzaUJ0OU13R1JkU210WVpRSHVuSG5Ebzg2ZUdzenNXemMySUtDS0VxT0ZNZkFwNDFITlRvSFRQRkZ0U1FVYVJYMzBRMGlNcC1BTm9LYQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQjFKSGphQTNUbkk2ZHZucHVwSzRxZm9ULXZDT2NJT0M4LUZfeW83MEU5S2tGZkhLMG95S0RfX21pR0FaS3hKaDBQWXZnQ0t2VkM0UEh6WkVzaUJ0OU13R1JkU210WVpRSHVuSG5Ebzg2ZUdzenNXemMySUtDS0VxT0ZNZkFwNDFITlRvSFRQRkZ0U1FVYVJYMzBRMGlNcC1BTm9LYQ",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785251760.0,
-        "id": "ba413161c4"
     }
 ]
