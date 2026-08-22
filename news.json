@@ -19,6 +19,25 @@
         "timestamp": 1787430980.0
     },
     {
+        "id": "20bbbbfd70",
+        "title_fa": "خط‌ونشان تهران برای همسایگان؛ تهدید مستقیم در صورت همراهی با تحریم‌های ترامپ",
+        "title_en": "Iran-US war live: Tehran cautions against joining US 'economic D-Day'",
+        "summary": [
+            "جمهوری اسلامی کشوری را که در کارزار جدید فشار اقتصادی آمریکا همراهی کند، مستقیماً تهدید به پیامدهای سنگین کرد.",
+            "هشدار بی‌سابقه تهران نشان‌دهنده هراس شدید از بسته شدن آخرین روزنه‌های دور زدن تحریم و مبادلات مالی منطقه‌ای است.",
+            "دونالد ترامپ با رد مواضع فعلی تهران، فشار حداکثری را برای تحمیل یک توافق جدید کلید زده است."
+        ],
+        "impact": "افزایش تنش‌های دیپلماتیک با کشورهای حاشیه خلیج فارس و بالا رفتن ریسک تجارت منطقه‌ای ایران",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.75,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/world/iran-us-war-live-tehran-cautions-against-joining-us-economic-d-day/ar-AA2aGZNh",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-us-war-live-tehran-cautions-against-joining-us-economic-d-day/ar-AA2aGZNh",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aIn5x.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1787429990.0
+    },
+    {
         "id": "6ccd6ba12e",
         "title_fa": "چالش ترامپ در قبال ایران؛ مانور انتخاباتی یا تهدید واقعی؟",
         "title_en": "Persuasion, denial and bluster: Trump ‘stuck’ on Iran war ahead of elections",
@@ -5560,24 +5579,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785261902.0,
         "id": "118029274f"
-    },
-    {
-        "title_fa": "از سرگیری حملات میان ایران و آمریکا؛ شلیک موشکی بالستیک و ضربه متقابل بر روی پهنه‌های منطقه‌ای",
-        "title_en": "Iran and US trade strikes, shattering brief lull in fighting",
-        "summary": [
-            "نظامیان آمریکا (سنتکام) اعلام کردند ایران «چندین» موشک بالستیک را برای «حمله غافلگیرانه» به نیروهای آمریکایی در خاورمیانه پرتاب کرده و هر موشک‌ها «موفقیت‌آمیز رهگیری» شده‌اند؛ هم‌زمان ایران مدعی هدف‌گیری یک پایگاه آمریکایی در اردن است.",
-            "سنتکام در چارچوب پاسخ متقابل، از حمله به «تروریست‌های همسو با ایران» در عراق خبر داد و هم‌زمان اعلام کرد این اقدام واکنش به بیش از ۳۰ حمله پهپادی هدایت‌شده از سوی سپاه در ۷۲ ساعت گذشته بوده است؛ از سوی دیگر نیروهای سعودی نیز از رهگیری و انهدام پهپادهای هدف‌گیری تأسیسات نفتی در شرق عربستان سخن گفتند.",
-            "با پایان یک وقفه کوتاه درگیری—که برای بازگرداندن مذاکرات طراحی شده بود—آژیر جنگ دوباره بالا رفته است؛ در همین گزارش همچنین ادعاهایی از اصابت سپاه به سه نفتکش در تنگه هرمز مطرح شده و دسترسی و کنترل هرمز همچنان گره اصلی در مذاکرات عنوان شده است."
-        ],
-        "impact": "این چرخه «حمله/پاسخ» با محوریت هرمز و تأسیسات انرژی، ریسک تشدید سریع‌تر درگیری را بالا می‌برد و هر مسیر مذاکره را بی‌ثبات می‌کند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/iran-and-us-trade-strikes-shattering-brief-lull-in-fighting-004230626.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/iran-and-us-trade-strikes-shattering-brief-lull-in-fighting-004230626.html",
-        "image": "http://www.bing.com/th?id=ONUT.PGBZJSP-pSHsgDDvsADpwA&pid=News",
-        "timestamp": 1785258000.0,
-        "id": "ae6480b056"
     }
 ]
