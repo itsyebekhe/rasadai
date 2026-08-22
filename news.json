@@ -1,5 +1,23 @@
 [
     {
+        "id": "6e55de141b",
+        "title_fa": "جنگ لفظی واشنگتن و تهران در آستانه دور جدید تحریم‌ها",
+        "title_en": "US, Iran keep up hostile rhetoric ahead of new sanctions",
+        "summary": [
+            "همزمان با نزدیک شدن زمان اعمال بسته‌های تحریمی جدید، تهدیدهای متقابل بین مقامات آمریکایی و ایرانی شدت گرفته است.",
+            "این تنش‌های کلامی بیشتر جنبه مانور روانی پیش از رویارویی جدید اقتصادی را دارد."
+        ],
+        "impact": "تشدید نوسانات در بازار ارز تهران و افزایش ریسک‌های ژئوپلیتیک منطقه‌ای.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "Al-Monitor",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONWRsWHdHV2oxeWZJYTVrajZ3TUt6UUpLbkNJcERtajQtbFJEdjJBSGt5ZERDcDY4X1pLYjZfdzNRdUlmS0d6QUpFNlVzVHIwcEYxV20wWlhtS3ZvY0RjdmJGelhhWG96NEluVkUyNkw1cXRCTnQ4bnE3YXVnbTljb1dOTVdPLUpJczdzQTlONDc0LVdld2xjQmRB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONWRsWHdHV2oxeWZJYTVrajZ3TUt6UUpLbkNJcERtajQtbFJEdjJBSGt5ZERDcDY4X1pLYjZfdzNRdUlmS0d6QUpFNlVzVHIwcEYxV20wWlhtS3ZvY0RjdmJGelhhWG96NEluVkUyNkw1cXRCTnQ4bnE3YXVnbTljb1dOTVdPLUpJczdzQTlONDc0LVdld2xjQmRB",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787369460.0
+    },
+    {
         "id": "ff11a6ab3b",
         "title_fa": "تلاش کرملین برای میانجی‌گری در مذاکرات هسته‌ای ایران و آمریکا",
         "title_en": "Why Russia Could Mediate US-Iran Nuclear Talks",
@@ -72,6 +90,42 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNHQ3Zm9lU2xoYlZiSmN0bVlWZ08wMFNVa1A5ZDU5d2w5VjJCQXY0bnoxLW1FS1dxVnZsSHZzeVRyYmRiQldQUkxRNkxDSy05cy1pR1ZVbFQtd0FCMVpVSkNTdENBbV8xd0tjVHhTSE9fYXFWVElhejA2UFZJU2tXaV9sUDdWNWt3MFdtY1V0T3BFRUtkV0NCR3hqOERrcUYxVmw5NkhYUnFZaE1UMFYw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787344382.0
+    },
+    {
+        "id": "1a5edbda7f",
+        "title_fa": "خط قرمز پکن برای ترامپ؛ ایران با تحریم محو نمی‌شود",
+        "title_en": "After Bessent Comments, China Warns US That It Cannot Sanction Iran Out of Existence",
+        "summary": [
+            "پکن در پاسخی صریح به اظهارات مقامات مالی ترامپ، تحریم‌های یک‌جانبه علیه صادرات نفت ایران را غیرقابل اجرا خواند.",
+            "چین نشان داد اجازه نخواهد داد شریان‌های انرژی و منافع منطقه‌ای‌اش قربانی استراتژی فشار حداکثری آمریکا شود."
+        ],
+        "impact": "تداوم خرید نفت ایران توسط چین و بی‌اثر شدن بخشی از تحریم‌های صادراتی ترامپ.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Common Dreams",
+        "url": "https://www.commondreams.org/news/china-won-t-help-crush-iran",
+        "clean_url": "https://www.commondreams.org/news/china-won-t-help-crush-iran",
+        "image": "https://www.commondreams.org/media-library/image.jpg?id=67658436&width=1200&height=600&coordinates=0%2C413%2C0%2C414",
+        "timestamp": 1787342940.0
+    },
+    {
+        "id": "413f8c026e",
+        "title_fa": "تمرد در جبهه ترامپ؛ انتقاد شدید طرفداران MAGA از سیاست ایران",
+        "title_en": "Trump’s Iran stance triggers MAGA revolt over broken war pledge",
+        "summary": [
+            "جناح ضدجنگ در میان هواداران ترامپ، موضع‌گیری‌های تند اخیر او علیه ایران را نقض وعده‌های انتخاباتی برای عدم ورود به جنگ‌های جدید می‌دانند.",
+            "فشار بدنه MAGA می‌تواند دست ترامپ را در گزینه‌های اقدام مستقیم نظامی تا حدی ببندد و او را به سمت ابزارهای اقتصادی سوق دهد."
+        ],
+        "impact": "ایجاد چالش داخلی برای ترامپ در تنظیم میزان فشار نظامی علیه جمهوری اسلامی.",
+        "tag": "سیاست خارجی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Idaho Public Press on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-s-iran-stance-triggers-maga-revolt-over-broken-war-pledge/ar-AA2aGac5",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-iran-stance-triggers-maga-revolt-over-broken-war-pledge/ar-AA2aGac5",
+        "image": "http://www.bing.com/th?id=ONUT._-0Ufy9iFlKfl_etBxnfOA&pid=News",
+        "timestamp": 1787338230.0
     },
     {
         "id": "f7ab0d37c5",
@@ -237,6 +291,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787318381.0
+    },
+    {
+        "id": "0decf8e913",
+        "title_fa": "شکاف در پاستور؛ پافشاری پزشکیان بر پایان جنگ زیر فشار ترامپ",
+        "title_en": "فشار اقتصادی جدید آمریکا بار دیگر شکاف‌ها در جمهوری اسلامی بر سر ادامه جنگ را آشکار کرد",
+        "summary": [
+            "تشدید فشارهای اقتصادی ترامپ توان مالی تهران را فلج کرده و اختلاف در حاکمیت را به اوج رسانده است.",
+            "مسعود پزشکیان با لحنی دوپلو و تحت پوشش ادعای «پیروزی»، صریحاً خواستار عقب‌نشینی و پایان رویارویی شده است.",
+            "تناقض میان شعارهای تندروهای حکومت و واقعیت خردکننده تورم، ساختار تصمیم‌گیری جمهوری اسلامی را دچار بن‌بست کرده است."
+        ],
+        "impact": "افزایش شکاف عمیق میان جناح‌های حاکمیت و احتمال عقب‌نشینی‌های تاکتیکی تحت فشار مالی.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608217202",
+        "clean_url": "https://www.iranintl.com/202608217202",
+        "image": "http://www.bing.com/th?id=ONUT.bHufsBSm3YUQkTj-4rkCwg&pid=News",
+        "timestamp": 1787312760.0
     },
     {
         "id": "7efbc3aa93",
@@ -5516,81 +5589,5 @@
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785214836.0,
         "id": "f097ee93ec"
-    },
-    {
-        "title_fa": "دیدار نتانیاهو-ترامپ؛ محورهای غزه، برنامه هسته‌ای عربستان و اختلاف با ترکیه",
-        "title_en": "Netanyahu to meet Trump for more than just Iran: Gaza, Saudi nuclear plan, Turkey on the line",
-        "summary": [
-            "طبق گزارش Jerusalem Post، نتانیاهو قرار است با ترامپ دیدار کند و دستورکار این دیدار صرفاً محدود به ایران نیست؛ محورهای اصلی غزه، برنامه هسته‌ای عربستان و مسأله ترکیه مطرح است.",
-            "این چینش نشان می‌دهد واشنگتن و تل‌آویو در حال تعریف «بسته امنیت منطقه‌ای» هستند که ایران یکی از اجزای آن است، اما نه مرکز انحصاری تصمیم‌گیری.",
-            "برای ایران، اثر مستقیم خبر در سطح «فشار سیاسی-دیپلماتیک» است: هرچه ظرفیت تمرکز آمریکا روی چند جبهه افزایش یابد، احتمال تغییر اولویت‌های ایران در محاسبات ریسک و محاسبات بازدارندگی بیشتر می‌شود، اما در متن خبر نشانه‌ای از تشدید فوری تحریم یا اقدام نظامی علیه دارایی‌های ایران ذکر نشده است."
-        ],
-        "impact": "این خبر بیشتر یک پیام‌گذاری و تنظیم اولویت‌های امنیتی آمریکا-اسرائیل است و اثر فوری و مستند بر اقتصاد یا تحریم‌های ایران ایجاد نمی‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdzQzeHM1M0NrSW5VVzZQdXVLZklULVhtWW85OG5aUmY0Z3FKb0NZRVNfQmZpZHNjdHg2VnctcGN3cjVkd1B5d0QtMmRzUTAzdDhmeTVCVHZ3eGdaTFQybXhkLTZ0Nk1EeXE5Rk5B?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9YdzQzeHM1M0NrSW5VVzZQdXVLZklULVhtWW85OG5aUmY0Z3FKb0NZRVNfQmZpZHNjdHg2VnctcGN3cjVkd1B5d0QtMmRzUTAzdDhmeTVCVHZ3eGdaTFQybXhkLTZ0Nk1EeXE5Rk5B",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785212790.0,
-        "id": "f20b485f55"
-    },
-    {
-        "title_fa": "نتانیاهو در واشنگتن برای دیدار با ترامپ",
-        "title_en": "Iran war: Netanyahu in Washington for meeting with Trump",
-        "summary": [
-            "طبق گزارش DW، بنیامین نتانیاهو برای دیدار با ترامپ وارد واشنگتن شده تا درباره محور جنگ و ایران مذاکره کند.",
-            "این خبر نشان می‌دهد هماهنگی سیاسی-امنیتی میان اسرائیل و دولت آمریکا در مسیر تصمیم‌سازی درباره سناریوهای درگیری با ایران در جریان است.",
-            "فعلاً جزئیات محتوای مذاکرات یا اقدامات مشخص مطرح نشده، اما خودِ زمان‌بندی دیدار برای مدیریت فشارها و گزینه‌های عملیاتی در ارتباط با ایران معنا دارد."
-        ],
-        "impact": "این سطح از تماس مستقیم، زمینه تصمیم‌های سخت‌تر درباره پرونده ایران را بالا می‌برد، هرچند متن گزارش جزئیات اقدام عملی ارائه نمی‌کند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.1,
-        "source": "dw.com",
-        "url": "https://www.msn.com/en-us/news/other/why-this-time-around-netanyahu-s-meeting-with-trump-might-not-go-to-script/ar-AA28PeMn",
-        "clean_url": "https://www.msn.com/en-us/news/other/why-this-time-around-netanyahu-s-meeting-with-trump-might-not-go-to-script/ar-AA28PeMn",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785211850.0,
-        "id": "45e2d5ec03"
-    },
-    {
-        "title_fa": "ایران در بازگشت به مذاکرات با آمریکا شتاب ندارد؛ شرط‌بندی بر دوام در فشار و اهرم تنگه هرمز",
-        "title_en": "Why Iran Is in No Rush to Return to Talks With United States",
-        "summary": [
-            "با وجود «مهلت» در درگیری‌ها، ایران و تحلیلگران می‌گویند رهبران این کشور از بازگشت سریع به مذاکرات با آمریکا خودداری می‌کنند تا تعادل اهرم را به نفع خود نگه دارند.",
-            "استدلال اصلی این است که ایران می‌خواهد نشان دهد می‌تواند «درد بیشتری» از دونالد ترامپ تحمل کند و همین تحمل را به عنوان قدرت چانه‌زنی در مذاکرات احتمالی به کار گیرد.",
-            "تحلیلگران همچنین بر اهرم عملیاتی ایران در تنگه هرمز تأکید می‌کنند؛ یعنی تهران روی کنترل/نفوذ در مسیرهای حساس تجاری به‌عنوان ابزار فشار در برابر واشینگتن حساب کرده است."
-        ],
-        "impact": "این رویکرد یعنی احتمال طولانی شدن بن‌بست و تداوم فشار روانی-اقتصادی بدون توافق، تا زمانی است که هزینه‌ها برای تهران از نظر سیاسی و اقتصادی غیرقابل تحمل شود یا اهرم‌هایش تضعیف گردد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
-        "clean_url": "https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html",
-        "image": "http://www.bing.com/th?id=ONUT.ODqGOXstw_KBhXwsH-nhsw&pid=News",
-        "timestamp": 1785210000.0,
-        "id": "22787c036a"
-    },
-    {
-        "title_fa": "کاهش حمایت عمومی آمریکا از جنگ با ایران؛ ابهام درباره اهداف ترامپ در نظرسنجی رویترز/ایپسوس",
-        "title_en": "Just one in three Americans back Iran war, most unsure of Trump’s goals, Reuters/Ipsos poll finds",
-        "summary": [
-            "طبق نظرسنجی رویترز/ایپسوس، تنها حدود یک‌سوم آمریکایی‌ها از جنگ علیه ایران حمایت می‌کنند و اکثریت در برابر این گزینه موضع منفی یا مردد دارند.",
-            "بخش بزرگی از پاسخ‌دهندگان نسبت به اهداف ترامپ در قبال ایران «مطمئن نیستند»؛ یعنی حتی اگر بحث اقدام نظامی مطرح شود، چارچوب اهداف روشن نیست.",
-            "این وضعیت می‌تواند هزینه سیاسی هرگونه تشدید تنش را برای کاخ سفید بالا ببرد و به تردید افکار عمومی در حمایت از سیاست جنگی دامن بزند."
-        ],
-        "impact": "کاهش حمایت و افزایش ابهام درباره اهداف، توان بسیج سیاسی واشنگتن برای گزینه جنگ را محدود می‌کند و احتمال هزینه‌سازی داخلی را برای هر مسیر تشدید تنش بالا می‌برد.",
-        "tag": "public-opinion",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Y100 WNCY",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkNLczBvQy11X1FtNWFUdXJuYjFZSmI4MmRIVUlmWGhyeW5TV3dCVWp4aGZTSndVNHhxVUxYZGJuZWE4ODczWncwdTUwWEhabjlmVWhtY0FJMU9ORFBtM09MblJfc2t3NVNRc2RDSUhTbFhwTWxqcmxWNXVfQ3V0blpITFV0cnRlVnYyaWdoa3JNTUxSd0NKdkdWRXNZb3lLQUh6dXJtYndQeGxFVko1M2lRYUVvbXU3LTZucGFPMnA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkNLczBvQy11X1FtNWFUdXJuYjFZSmI4MmRIVUlmWGhyeW5TV3dCVWp4aGZTSndVNHhxVUxYZGJuZWE4ODczWncwdTUwWEhabjlmVWhtY0FJMU9ORFBtM09MblJfc2t3NVNRc2RDSUhTbFhwTWxqcmxWNXVfQ3V0blpITFV0cnRlVnYyaWdoa3JNTUxSd0NKdkdWRXNZb3lLQUh6dXJtYndQeGxFVko1M2lRYUVvbXU3LTZucGFPMnA",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785205496.0,
-        "id": "55cff87554"
     }
 ]
