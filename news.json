@@ -73,6 +73,44 @@
         "timestamp": 1787353378.0
     },
     {
+        "id": "ef19f3bda0",
+        "title_fa": "خط و نشان تهران برای واشنگتن: تحریم جدید اعلام جنگ است",
+        "title_en": "US Israel Iran war latest live news: Iran hits back at new US sanctions, calls them a 'declaration of war'",
+        "summary": [
+            "حکومت ایران تحریم‌های اقتصادی جدید آمریکا را معادل مستقیم اقدام نظامی قلمداد کرد.",
+            "لحن تند مقامات تهران گویای بن‌بست کامل در کانال‌های دیپلماسی و ناکارآمدی ابزارهای چانه‌زنی است.",
+            "تهدید به پاسخ فرا منطقه‌ای، تلاشی برای سرپوش گذاشتن بر عواقب سنگین این تحریم‌ها بر اقتصاد داخلی است."
+        ],
+        "impact": "افزایش ریسک نظامی در منطقه و جهش دوباره قیمت ارز در بازار ایران.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/politics/international-relations/us-israel-iran-war-latest-live-news-iran-hits-back-at-new-us-sanctions-calls-them-a-declaration-of-war/ar-AA2aHj8t",
+        "clean_url": "https://www.msn.com/en-in/politics/international-relations/us-israel-iran-war-latest-live-news-iran-hits-back-at-new-us-sanctions-calls-them-a-declaration-of-war/ar-AA2aHj8t",
+        "image": "http://www.bing.com/th?id=ONUT.CPMxC7tH9grJA9HF2AhzVg&pid=News",
+        "timestamp": 1787346900.0
+    },
+    {
+        "id": "8850037a7b",
+        "title_fa": "تاکید ترامپ بر کنترل تنگه هرمز و تسلیم نظامی تهران",
+        "title_en": "Trump doubles down on controlling Strait of Hormuz as Iran begs for fighting to end",
+        "summary": [
+            "ترامپ باز ماندن و کنترل کامل شاهراه حیاتی هرمز را شرط اصلی پایان درگیری‌ها اعلام کرد.",
+            "شدت فشارهای نظامی و اقتصادی، تهران را در موقعیت ضعیف‌تری برای درخواست آتش‌بس قرار داده است.",
+            "واشنگتن قصد دارد با تسلط بر امنیت خلیج فارس، شریان انرژی ایران را کاملاً مهار کند."
+        ],
+        "impact": "محدودیت شدیدتر مانور دریایی ایران و قطع شریان‌های باقی‌مانده صادرات نفت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Daily Mail on MSN",
+        "url": "https://www.msn.com/en-us/news/world/trump-doubles-down-on-controlling-strait-of-hormuz-as-iran-begs-for-fighting-to-end/ar-AA2aGFoA",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-doubles-down-on-controlling-strait-of-hormuz-as-iran-begs-for-fighting-to-end/ar-AA2aGFoA",
+        "image": "http://www.bing.com/th?id=ONUT.VMHlJHiFNC5DYOPGXQ0Qdw&pid=News",
+        "timestamp": 1787345639.0
+    },
+    {
         "id": "f5faaca1a4",
         "title_fa": "افشای آمار تلفات؛ زخمی شدن بیش از ۷۵۰ نظامی آمریکایی در درگیری با ایران",
         "title_en": "More than 750 U.S. service members wounded in Iran war",
@@ -5551,43 +5589,5 @@
         "image": "http://www.bing.com/th?id=ONUT.MYFJ5tVM9yL6VKsNmFDSvQ&pid=News",
         "timestamp": 1785217200.0,
         "id": "c77981f992"
-    },
-    {
-        "title_fa": "میزبانی ترامپ از نتانیاهو و زلنسکی؛ جنگ ایران و اوکراین در «مراحل بحرانی»",
-        "title_en": "Trump to host Netanyahu, Zelenskiy as Ukraine, Iran wars reach critical stages",
-        "summary": [
-            "ترامپ قرار است نخست‌وزیر اسرائیل، نتانیاهو، و رئیس‌جمهور اوکراین، زلنسکی، را در واشنگتن میزبانی کند؛ زمینه خبر این است که جنگ ایران و اوکراین هر دو در «مراحل بحرانی» قرار دارند، اما روابط ترامپ با این دو نفر هم‌سطح نیست: با زلنسکی گرم‌تر شده چون اوکراین پیشروی روسیه را کند کرده، در حالی که نتانیاهو در فضایی می‌آید که کاخ سفید از نبود پیشرفت در رسیدن به یک «توافق گسترده» درباره مناقشه ایران عصبانی است.",
-            "در جنگ ایران، پس از فروپاشی آتش‌بس، ترامپ می‌گوید آمریکا حملات هوایی را برای دادن شانس به دیپلماسی متوقف کرده؛ با این حال «پایانی برای جنگ» در افق دیده نمی‌شود و صرف توقف تاکتیکی، تضمین‌کننده حل‌وفصل نیست.",
-            "در اوکراین، زلنسکی از موفقیت‌های اخیر اوکراین تقویت روحیه گرفته، اما این هم به معنای پایان جنگ نیست؛ علاوه بر آن، این دیدارها با حضور ترامپ و دو رهبر برای شرکت در مراسم یادبود سناتور لندسی گراهام انجام می‌شود."
-        ],
-        "impact": "این رویداد نشان می‌دهد تمرکز ترامپ در مدیریت دو جبهه هم‌زمان است: در ایران با مکث حملات برای فشار دیپلماتیک، و در اوکراین با همسویی بیشتر ناشی از دستاوردهای میدانی؛ با این حال هیچ مسیر پایان‌دار برای هیچ‌یک اعلام نشده است.",
-        "tag": "ایران",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Mighty 790 KFGO",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-host-netanyahu-zelenskiy-ukraine-050302348.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-host-netanyahu-zelenskiy-ukraine-050302348.html",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785215849.0,
-        "id": "891bd124fd"
-    },
-    {
-        "title_fa": "قلعه هسته‌ای ایران؛ در کانون فشار واشنگتن",
-        "title_en": "Iran’s nuclear fortress in America’s crosshairs",
-        "summary": [
-            "آل‌مجله ایران را با تعبیر «قلعه هسته‌ای» در معرض «چشم‌انداز فشار» آمریکا قرار می‌دهد، اما متن ارائه‌شده جزئیات عملیاتی یا اقدام مشخص واشنگتن را ذکر نمی‌کند.",
-            "بر اساس همین گزارشِ کوتاه، محور خبر «تهدید/فشار» است نه تأیید یک عملیات؛ بنابراین ارزیابی می‌تواند فقط به سطح تشدید فشار سیاسی-امنیتی محدود باشد.",
-            "چون هیچ داده‌ای درباره تحریم‌های جدید، حمله به تأسیسات، یا واکنش رسمی ایران در متن نیامده، نمی‌توان اثر مستقیم اقتصادی یا احتمال درگیری نظامی را فراتر از «افزایش ریسک» نتیجه گرفت."
-        ],
-        "impact": "این خبر—با توجه به نبود جزئیات قابل راستی‌آزمایی—بیش از آن‌که رویداد قطعی باشد، نشان‌دهنده تشدید ریسک در پرونده هسته‌ای و فشار امنیتی-سیاسی است.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Al Majalla",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0pFQ0g5RzBHVzJTRDBSMTBKdDFqLWdEVVBFSjVBQUI4UmhOWkZLREd2R00xQm1jR2lvWmZHdnZvcmwzVkt3YUFKSzM1aWVaZ042Y1BxSHEtRVlhd1UwUUlSTnd2X09hX1FMTFhHUUI4WjhOLWdmRDgwaXhxNDQwR3o2UXltVURiVks5QjNnNnFjZ0JwNGRFT3dnZkR0RlNaVnc5V2xqV0VTMFZW?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0pFQ0g5RzBHVzJTRDBSMTBKdDFqLWdEVVBFSjVBQUI4UmhOWkZLREd2R00xQm1jR2lvWmZHdnZvcmwzVkt3YUFKSzM1aWVaZ042Y1BxSHEtRVlhd1UwUUlSTnd2X09hX1FMTFhHUUI4WjhOLWdmRDgwaXhxNDQwR3o2UXltVURiVks5QjNnNnFjZ0JwNGRFT3dnZkR0RlNaVnc5V2xqV0VTMFZW",
-        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785214836.0,
-        "id": "f097ee93ec"
     }
 ]
