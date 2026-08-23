@@ -91,6 +91,25 @@
         "timestamp": 1787453321.0
     },
     {
+        "id": "35452559a1",
+        "title_fa": "طرح ضربتی ترامپ برای انسداد کامل شریان نفتی ایران و چین",
+        "title_en": "US-Iran War Live Updates: Iran says Strait of Hormuz to Stay shut until US meets commitments",
+        "summary": [
+            "دولت ترامپ در تدارک رونمایی از دور جدید فشار حداکثری علیه شبکه صادرات نفت ایران در هفته آینده است.",
+            "نشانه گرفتن پالایشگاه‌های مستقل چین (تی‌پات) و بانک‌های واسطه، هدف اصلی واشنگتن برای صفر کردن درآمد نفتی تهران است.",
+            "ادعای ایران درباره مسدود ماندن تنگه هرمز، مانور روانی برای مقابله با تبعات خفه‌کننده دور جدید تحریم‌هاست."
+        ],
+        "impact": "قطع شریان ارزی حاصل از فروش نفت به چین و جهش سنگین قیمت ارز در بازار داخلی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CNBCTV18",
+        "url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-president-donald-trump-iran-conflict-economic-pressure-us-allies-tehran-strait-of-hormuz-sanctions-scott-bessent-peace-talks-deal-liveblog-19975035.htm",
+        "clean_url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-president-donald-trump-iran-conflict-economic-pressure-us-allies-tehran-strait-of-hormuz-sanctions-scott-bessent-peace-talks-deal-liveblog-19975035.htm",
+        "image": "http://www.bing.com/th?id=ONUT.Tp6ffhT0mAgUNyPYTgeoUw&pid=News",
+        "timestamp": 1787437740.0
+    },
+    {
         "id": "7fd77bee2e",
         "title_fa": "تهدید مستقیم تهران: همراهان تحریم‌های آمریکا دشمن محسوب می‌شوند",
         "title_en": "Iran says any country joining new US sanctions would be ‘considered an enemy’",
@@ -5554,24 +5573,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785289426.0,
         "id": "aa3f83ef54"
-    },
-    {
-        "title_fa": "ایران حمله موشکی غافلگیرکننده به نیروهای آمریکا در خاورمیانه انجام داد",
-        "title_en": "Iran Launches Surprise Missile Attack on U.S. Forces in the Middle East",
-        "summary": [
-            "بر اساس گزارش WSJ، ایران یک حمله موشکی «غافلگیرکننده» علیه نیروهای آمریکا در خاورمیانه اجرا کرده است؛ یعنی اقدام مستقیم و میدانی، نه عملیات صرفاً نمادین یا محدود.",
-            "این رخداد نشان می‌دهد رژیم حاضر است ریسک تشدید را بپذیرد و هزینه‌های امنیتی را به ایالات متحده منتقل کند؛ از منظر راهبردی، این می‌تواند پاسخ‌محور برای فشارهای بیرونی و نمایش قدرت باشد، اما همزمان احتمال واکنش سریع و گسترده را بالا می‌برد.",
-            "با توجه به ماهیت مستقیم حمله به نیروهای آمریکا، پیامد اصلی برای ثبات بیرونی رژیم «تشدید احتمال هدف‌گیری» و برای نیروهای منطقه‌ای «بالا رفتن سطح درگیری میان‌متنی» است؛ نه هیچ نشانه‌ای از کاهش تنش یا کنترل از بالا برای جلوگیری از سرایت بحران."
-        ],
-        "impact": "این حمله احتمال چرخه پاسخ-انتقام و تشدید نظامی مستقیم با ایالات متحده را به‌طور جدی بالا می‌برد و می‌تواند فشار امنیتی و هزینه‌های سیاسی رژیم را فوراً افزایش دهد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "WSJ",
-        "url": "https://www.msn.com/en-us/news/other/iran-launches-surprise-ballistic-missile-attack-on-us-forces-in-the-middle-east/ar-AA28UaY4",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-launches-surprise-ballistic-missile-attack-on-us-forces-in-the-middle-east/ar-AA28UaY4",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785288660.0,
-        "id": "0359d7d2dd"
     }
 ]
