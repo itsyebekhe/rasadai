@@ -1,5 +1,23 @@
 [
     {
+        "id": "8d72f97cc9",
+        "title_fa": "مانور دیپلماتیک چین در بحران ایران برای حفظ شریان نفتی",
+        "title_en": "China ‘Actively Committed’ to Iran Talks With Tensions Rising",
+        "summary": [
+            "چین در اوج تنش‌های منطقه‌ای از تعهد خود به ادامه مذاکرات هسته‌ای با ایران خبر داد.",
+            "پکن تلاش می‌کند با ژست میانجی‌گری، از تصاعد بحران جلوگیری کرده و جریان خرید نفت ارزان از ایران را زنده نگه دارد."
+        ],
+        "impact": "ژست دیپلماتیک چین مانع از جدی‌تر شدن فشارهای بین‌المللی علیه پرونده اتمی ایران نخواهد شد.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.1,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3lCZ2FJNXI3ZmxaWWVnamxXbXc4bzQyZFpybEhObmYwWWM5Uk9qZnh6Q0UteUU1bDFHN0hjQWdpV2VpUFJ2U3FwbWplalk3Q0dRTFdmd0p6Z29Rdno3RmtDS3R5X05BMGtPUFVQVE14OXpEV1lLdk5IcGxJS0dvSVNRMGlrYkIxWXhPRkV4REFqVlJ6SWpZYVl1TUVMVmlydHo2SGo2Mm9sS3N1Tkg0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3lCZ2FJNXI3ZmxaWWVnamxXbXc4bzQyZFpybEhObmYwWWM5Uk9qZnh6Q0UteUU1bDFHN0hjQWdpV2VpUFJ2U3FwbWplalk3Q0dRTFdmd0p6Z29Rdno3RmtDS3R5X05BMGtPUFVQVE14OXpEV1lLdk5IcGxJS0dvSVNRMGlrYkIxWXhPRkV4REFqVlJ6SWpZYVl1TUVMVmlydHo2SGo2Mm9sS3N1Tkg0",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787492565.0
+    },
+    {
         "id": "9dd813fd63",
         "title_fa": "سفر فرمانده ارتش پاکستان به تهران برای رایزنی‌های مرزی",
         "title_en": "Iran says Pakistan's army chief to visit Tehran on Monday",
@@ -126,6 +144,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xYVltWkpyQnI1bEhpdWtiMDdYekNQbThNZWl5dEZQYWd2QlJXVlVRcTdQV25VNGJrNmNhSFI5ZTNXa2NrYlZTVmRpMnh5bXpIM3lhbzJVeUIzVDVlWktQQVI2OUluZllOU3c",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787467137.0
+    },
+    {
+        "id": "d638225b90",
+        "title_fa": "موضع‌گیری تدافعی تهران در برابر تحریم‌های جدید آمریکا",
+        "title_en": "Iran says new sanctions threatened by 'desperate' US will fail",
+        "summary": [
+            "وزیر خارجه ایران تهدید به تحریم‌های تازه آمریکا را نشانه استیصال واشنگتن دانست و مدعی شکست آن شد.",
+            "دستگاه دیپلماسی حکومت می‌کوشد با بی‌ارزش نشان دادن تحریم‌ها، جلوی شوک جدید به بازار ارز و ریزش بیشتر ریال را بگیرد."
+        ],
+        "impact": "مانورهای لفظی مسئولان تهران توان مهار آثار تورمی و انزوای مالی ناشی از تحریم‌های جدید را ندارد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/ar-AA2aL612",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-says-new-sanctions-threatened-by-desperate-us-will-fail/ar-AA2aL612",
+        "image": "http://www.bing.com/th?id=ONUT.c2wgriiJ5upF5c-xh1vPmg&pid=News",
+        "timestamp": 1787462685.0
     },
     {
         "id": "ffdcb758bd",
@@ -5528,43 +5564,5 @@
         "image": "http://www.bing.com/th?id=ONUT.FcD09pPzHdk3qR3nNRopbA&pid=News",
         "timestamp": 1785312900.0,
         "id": "963106b1dd"
-    },
-    {
-        "title_fa": "آمریکا حمله موشکی ایران به نیروهایش را دفع کرد و با حمایت سعودی، نیروهای نیابتی ایران در عراق را هدف گرفت",
-        "title_en": "U.S. thwarts Iranian missile attack on U.S. troops, strikes Iranian proxies in Iraq with Saudi forces",
-        "summary": [
-            "طبق گزارش CBS News، آمریکا یک حمله موشکی منتسب به ایران علیه نیروهای مستقر خود را در لحظه دفع کرده است؛ یعنی تهدید مستقیم علیه نیروهای آمریکایی محقق نشده اما به‌صورت عملی وجود داشته است.",
-            "هم‌زمان، آمریکا اعلام/اعمال کرده که با کمک نیروهای سعودی، به «پروکسی‌های ایرانی» در عراق ضربه زده است؛ اقدام مستقیم علیه شبکه‌های نیابتی نشان می‌دهد تمرکز واشینگتن فقط دفاع موشکی نبوده است.",
-            "این رخداد، احتمال تشدید چرخه حمله-پاسخ در عراق را بالا می‌برد و ریسک بی‌ثباتی بیشتر برای محیط امنیتی عراق و گسترش درگیری فراتر از کنترل نیروی نیابتی را افزایش می‌دهد."
-        ],
-        "impact": "دفع حمله و سپس ضربه مشترک علیه نیابتی‌ها، هزینه عملی استفاده ایران از شبکه‌های نیابتی را بالا می‌برد و می‌تواند به دور بعدی تلافی منجر شود.",
-        "tag": "نیابتی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "CBS News",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHZOSmtoZTBQNGNtZUlocFVfLTNmdFpvWFdoN2ZwVmpZMDNrcXNSdTVUUjJRVWRSTzJGeFQ2TG52cnVYZFllWFlfTTctTllRSExPRDhGNXhieEV0Z2VqRk5CcWtROVF2ZGR1WDhjd0tGQkVZQTExZEFYVGRTenkxdk9YVGZlYkwxY2Zz?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHZOSmtoZTBQNGNtZUlocFVfLTNmdFpvWFdoN2ZwVmpZMDNrcXNSdTVUUjJRVWRSTzJGeFQ2TG52cnVYZFllWFlfTTctTllRSExPRDhGNXhieEV0Z2VqRk5CcWtROVF2ZGR1WDhjd0tGQkVZQTExZEFYVGRTenkxdk9YVGZlYkwxY2Zz",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785310260.0,
-        "id": "0aefbe0cb6"
-    },
-    {
-        "title_fa": "حمله مشترک آمریکا و عربستان به شبه‌نظامیان عراقی پشتیبانی‌شده از ایران",
-        "title_en": "Iran war: US, Saudi Arabia strike Iran-backed Iraqi militias",
-        "summary": [
-            "بنابر گزارش DW.com، نیروهای آمریکا و عربستان دست به حملات علیه شبه‌نظامیان عراقی زده‌اند که به عنوان نیروهای «پشتیبانی‌شده از ایران» معرفی می‌شوند.",
-            "این اقدام مستقیماً نشان می‌دهد که محور درگیری از جنگ نیابتی صرف به سطح عملیات ضربتی علیه شبکه‌های مرتبط با نفوذ ایران در عراق کشیده شده است.",
-            "در چارچوب واقع‌گرایی، اثر فوری چنین حملاتی معمولاً اختلال در توان عملیاتی، جابه‌جایی نیروها و تشدید چرخه مقابله‌به‌مثل است—اما متن ارائه‌شده جزئیات بیشتری درباره محل، زمان، یا میزان خسارت نمی‌دهد."
-        ],
-        "impact": "این حمله، نفوذ عملیاتی ایران در عراق را هدف می‌گیرد و احتمال تشدید تنش‌های نیابتی و اقدامات تلافی‌جویانه را بالا می‌برد.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "DW.com",
-        "url": "https://www.aa.com.tr/en/us-israel-iran-war/saudi-arabia-warns-of-further-strikes-in-iraq-if-iran-backed-groups-launch-new-attacks/4012228",
-        "clean_url": "https://www.aa.com.tr/en/us-israel-iran-war/saudi-arabia-warns-of-further-strikes-in-iraq-if-iran-backed-groups-launch-new-attacks/4012228",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785306185.0,
-        "id": "75c853932d"
     }
 ]
