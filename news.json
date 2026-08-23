@@ -93,6 +93,25 @@
         "timestamp": 1787429990.0
     },
     {
+        "id": "5d222e487d",
+        "title_fa": "تهدید همسایگان و شرکت‌های آمریکایی توسط محسن رضایی",
+        "title_en": "Iran threatens to strike US companies after Trump declares economic war",
+        "summary": [
+            "محسن رضایی در واکنش به طرح‌های اقتصادی ترامپ، تهدید کرد که منافع و شرکت‌های تجاری آمریکا در منطقه مستقیماً هدف قرار خواهند گرفت.",
+            "تهران با خط‌ونشان کشیدن برای همسایگان، تلاش می‌کند از همراهی کشورهای عربی با حملات فلج‌کننده اقتصادی واشنگتن جلوگیری کند.",
+            "این تهدیدات صریح نشان‌دهنده بن‌بست دیپلماتیک و نگرانی شدید حکومت از آغاز موج جدید فشار حداکثری ترامپ است."
+        ],
+        "impact": "افزایش ریسک امنیتی برای شرکت‌های غربی در خلیج فارس و احتمال پاسخ قاطع‌تر واشنگتن.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-threatens-strike-us-companies-030336823.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-threatens-strike-us-companies-030336823.html",
+        "image": "http://www.bing.com/th?id=ONUT.Fwwe74PxVMztGMgk_XVNqg&pid=News",
+        "timestamp": 1787418060.0
+    },
+    {
         "id": "5dc374b123",
         "title_fa": "خط و نشان تهران برای همسایگان: همراهی با تحریم‌های ترامپ تاوان دارد",
         "title_en": "Iran warns nearby nations against joining US ‘economic war’ efforts",
@@ -5556,24 +5575,5 @@
         "image": "https://img.dunyanews.tv/live_event/268_88001876.jpg",
         "timestamp": 1785283200.0,
         "id": "942a6d9659"
-    },
-    {
-        "title_fa": "ادعای آمریکا: حمله موشکی ایران به نیروهای آمریکایی در خاورمیانه با رهگیری کامل",
-        "title_en": "Iran launched multiple missiles at American forces, U.S. military says",
-        "summary": [
-            "واحد فرماندهی مرکزی آمریکا می‌گوید ایران «چندین» موشک بالستیک را در قالب یک «اقدام برای حمله غافلگیرانه» به نیروهای آمریکایی شلیک کرده است.",
-            "آماده‌سازی زمان حمله 17:45 EDT (21:45 GMT) اعلام شده و ادعا می‌شود همه موشک‌ها «موفقیت‌آمیز رهگیری» شده‌اند؛ محل احتمالی اهداف ذکر نشده است.",
-            "تهران هنوز اظهار نظری نکرده و این ادعا در فاصله‌ای از کاهش درگیری میان دو طرف مطرح شده است."
-        ],
-        "impact": "اگر این گزارش درست باشد، نشان می‌دهد حتی در دوره‌های کاهش تنش، ایران و آمریکا در معرض چرخه واکنش سریع و تشدید خطر برخورد مستقیم قرار دارند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "PBS",
-        "url": "https://www.yahoo.com/news/us/articles/iran-launches-attempted-surprise-attack-232735626.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/iran-launches-attempted-surprise-attack-232735626.html",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785279295.0,
-        "id": "1b03af81af"
     }
 ]
