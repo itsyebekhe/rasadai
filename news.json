@@ -92,6 +92,25 @@
         "timestamp": 1787462655.0
     },
     {
+        "id": "298c5dcc44",
+        "title_fa": "تهدید دوباره خلیج فارس؛ خط و نشان تهران برای همسایگان در برابر تحریم‌ها",
+        "title_en": "Can Iran retaliate against countries that join US ‘economic war’?",
+        "summary": [
+            "محسن رضایی در واکنش به تحریم‌های جدید آمریکا، کشورهای منطقه را تهدید کرد که در صورت همراهی با واشنگتن، اجازه صادرات یک قطره نفت از تنگه هرمز را نخواهد داد.",
+            "این خط و نشان‌های تند بیش از آنکه توان نظامی واقعی را نشان دهد، هراس شدید حکومت از فلج شدن کامل اقتصاد و کارآمدی فشار حداکثری را برملا می‌کند.",
+            "تهدید به انسداد تنگه هرمز یک ابزار کهنه برای باج‌گیری سیاسی است؛ چرا که ورود به درگیری مستقیم در خلیج فارس، شریان‌های باقی‌مانده خود تهران را هم نابود خواهد کرد."
+        ],
+        "impact": "افزایش ریسک ترانزیت انرژی در خلیج فارس و صعود ناگهانی نرخ دلار در بازار داخلی.",
+        "tag": "تنگه هرمز",
+        "urgency": 7,
+        "sentiment": -0.75,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-retaliate-against-countries-join-115022983.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-retaliate-against-countries-join-115022983.html",
+        "image": "http://www.bing.com/th?id=ONUT.--41hwe5yEzssxSO1Z2RKQ&pid=News",
+        "timestamp": 1787460600.0
+    },
+    {
         "id": "4523f68e33",
         "title_fa": "خط‌ونشان امنیتی تهران برای همسایگان همراه با تحریم‌های آمریکا",
         "title_en": "US Israel Iran war latest news: Iran warns countries supporting US economic pressure, threatens to target their interests",
@@ -5550,24 +5569,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785301395.0,
         "id": "4bb1aaa000"
-    },
-    {
-        "title_fa": "حمله آمریکا و عربستان به گروه‌های موردحمایت ایران در عراق؛ تهدید به تشدید تنش",
-        "title_en": "US, Saudis attack Iran-backed groups in Iraq, threatening to intensify conflict",
-        "summary": [
-            "بر اساس گزارش رویترز، آمریکا و عربستان به گروه‌های موردحمایت ایران در عراق حمله کرده‌اند و همین اقدام عملاً ریسک چرخه تلافی‌جویانه را بالا می‌برد.",
-            "این رخداد مستقیماً در چارچوب رقابت نیابتی-منطقه‌ای معنا دارد: هر حمله‌ای به بازیگران نزدیک به تهران در عراق، فشار عملی بر شبکه‌های نفوذ و توان اختلال آن‌ها وارد می‌کند، اما در عین حال، محرک تشدید تنش را هم فعال می‌کند.",
-            "اثر فوری سیاسی-امنیتی آن، افزایش احتمال حملات متقابل و بی‌ثباتی بیشتر در عراق است؛ یعنی هزینه امنیتی برای دولت و نیروهای محلی بالا می‌رود و فضای مانور دیپلماسی محدودتر می‌شود."
-        ],
-        "impact": "این حملات، احتمال تبدیل رقابت نیابتی به درگیری گسترده‌تر در عراق را افزایش می‌دهد و می‌تواند امنیت منطقه‌ای و محاسبات تهران را برای ادامه نفوذ پرهزینه‌تر کند.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-us/news/other/us-saudis-attack-iran-backed-groups-in-iraq-threatening-to-intensify-conflict/ar-AA28WL4U",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-saudis-attack-iran-backed-groups-in-iraq-threatening-to-intensify-conflict/ar-AA28WL4U",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785299155.0,
-        "id": "1fe0719dca"
     }
 ]
