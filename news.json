@@ -1,5 +1,41 @@
 [
     {
+        "id": "5856b4b84c",
+        "title_fa": "قرار گرفتن اردن در آتش‌بار تقابل جمهوری اسلامی، آمریکا و اسرائیل",
+        "title_en": "Jordan caught in Iran-US-Israel war crossfire",
+        "summary": [
+            "کشور اردن به دلیل موقعیت جغرافیایی‌اش در خط مقدم رهگیری موشک‌ها و پهپادها قرار گرفته و امنیت ملی آن به شدت آسیب دیده است.",
+            "مقامات امان حاضر نیستند حریم هوایی خود را در اختیار ماجراجویی‌های منطقه‌ای سپاه قرار دهند و همکاری‌های پدافندی خود را با واشنگتن تقویت کرده‌اند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره دیپلماتیک تهران و احتمال رویارویی مستقیم پدافند اردن با پرتابه‌های نیابتی.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ0hOakNlaXpGOGc1QWRGYkZLeEtFb0YwUzBFYlo3X2VZcnQ1SGtxcFpJSHp3elFjelNoT3lELU80bWZ3SGNtdGRybjNKLThxS2xGeGx3R3QteUJ5bFR0WG9RQ1IydUU3T3FVdEs4bEdfMkxZOWRDT3dMWHlOM29TYlNSTUpIRzBXelZyNVkwWnRUN29WRWlYZ0s3c1lRMlk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ0hOakNlaXpGOGc1QWRGYkZLeEtFb0YwUzBFYlo3X2VZcnQ1SGtxcFpJSHp3elFjelNoT3lELU80bWZ3SGNtdGRybjNKLThxS2xGeGx3R3QteUJ5bFR0WG9RQ1IydUU3T3FVdEs4bEdfMkxZOWRDT3dMWHlOM29TYlNSTUpIRzBXelZyNVkwWnRUN29WRWlYZ0s3c1lRMlk",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787454404.0
+    },
+    {
+        "id": "2044dfa5b6",
+        "title_fa": "تهدیدهای لفاظانه دبیر شورای عالی امنیت ملی ایران در برابر فشارهای آمریکا",
+        "title_en": "Live - Iran security chief threatens ‘earthquake-like’ retaliation as US pressure builds",
+        "summary": [
+            "خط و نشان کشیدن‌های تهران و ادعای «پاسخ زلزله‌وار»، بیشتر کارکرد مصرف داخلی دارد و نشان‌دهنده هراس از بازگشت سیاست فشار حداکثری آمریکا است.",
+            "دستگاه تبلیغاتی جمهوری اسلامی برای سرپوش گذاشتن بر ضعف‌های میدانی و انزوای بین‌المللی، دست به دامن تهدیدهای کلامی بی‌پشتوانه شده است."
+        ],
+        "impact": "افزایش نوسانات روانی در بازار ارز و تشدید هشدارهای امنیتی در منطقه.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoWmgyT0l1R0RTN2xyTlNYNjBGZzVaMEdYNG5TcVZCa3puOV9XS0tZUTZOb1Z4MjZoc2NjOGhRMExkSDY1S1lDUjZGOEdUb3RMSHZoV0RKMVNSX3Q1bEE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoWmgyT0l1R0RTN2xyTlNYNjBGZzVaMEdYNG5TcVZCa3puOV9XS0tZUTZOb1Z4MjZoc2NjOGhRMExkSDY1S1lDUjZGOEdUb3RMSHZoV0RKMVNSX3Q1bEE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787453325.0
+    },
+    {
         "id": "7fd77bee2e",
         "title_fa": "تهدید مستقیم تهران: همراهان تحریم‌های آمریکا دشمن محسوب می‌شوند",
         "title_en": "Iran says any country joining new US sanctions would be ‘considered an enemy’",
@@ -5539,43 +5575,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785279295.0,
         "id": "1b03af81af"
-    },
-    {
-        "title_fa": "ایران در هفته‌های آینده میزبان سامانه‌های موشکی دوش‌پرتاب چینی می‌شود",
-        "title_en": "Exclusive-Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
-        "summary": [
-            "بر اساس گزارش رویترز (به نقل از سه منبع)، ایران قرار است ظرف چند هفته نخستین محموله از مجموع تا ۴۰۰ سامانه موشکی پدافند هوایی دوش‌پرتاب ساخت چین را دریافت کند؛ یعنی یک انتقال تسلیحاتی مرحله‌ای در حال شکل‌گیری است.",
-            "این خبر نشان می‌دهد برنامه نوسازی یا تکمیل ظرفیت پدافند هوایی/افزایش قابلیت‌های ضدپروژکتیل برای نیروهای زمینی با اتکا به تامین خارجی، بدون اتکا به تولید داخلی پایدار، پیش می‌رود.",
-            "چنین خریدی فشار خارجی و محدودیت‌های مالی را به‌جای توقف برنامه‌ها، تبدیل به آزمون «ادامه بقا» می‌کند: وقتی سخت‌گیری‌ها باعث کاهش منابع می‌شود، رژیم با قراردادهای خارجی تلاش می‌کند شکاف توان را با تجهیزات آماده پر کند."
-        ],
-        "impact": "دریافت قریب‌الوقوع لانچرهای دوش‌پرتاب چینی می‌تواند کارایی سامانه‌های دفاع هوایی رژیم را در کوتاه‌مدت افزایش داده و ریسک عملیاتی را برای هر قدرت خارجیِ درگیر کاهش‌ناپذیر کند.",
-        "tag": "تسلیحات",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/other/exclusive-iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/ar-AA28VyRo",
-        "clean_url": "https://www.msn.com/en-us/news/other/exclusive-iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/ar-AA28VyRo",
-        "image": "http://www.bing.com/th?id=ONUT.4lapT7D-RuStx40CsdmHdQ&pid=News",
-        "timestamp": 1785269188.0,
-        "id": "6b528ff6b4"
-    },
-    {
-        "title_fa": "پرش قیمت نفت و گسترش درگیری: حمله هوایی مشترک آمریکا و عربستان علیه نیروهای نیابتی ایران در عراق",
-        "title_en": "Iran War Live Updates: U.S. and Saudi Airstrikes Drag More Countries Into Fighting",
-        "summary": [
-            "به گزارش نیویورک‌تایمز، آمریکا و عربستان اعلام کرده‌اند که حملات هوایی مشترک علیه نیروهای نیابتی ایران در عراق انجام داده‌اند و همین خبر به جهش قیمت جهانی نفت منجر شده است.",
-            "درگیری مستقیمِ محور ایران با یک جبهه جدید (عراق) و واکنش بازار انرژی، نشان می‌دهد که هزینه‌های ژئوپلیتیک فوراً به اقتصاد بیرونی رژیم و شبکه‌هایش فشار می‌آورد.",
-            "گسترش دامنه جنگ به «کشورهای بیشتر» که در تیتر آمده، یعنی ریسک درگیر شدن بازیگران منطقه‌ای افزایش یافته و این می‌تواند محیط امنیتی و محاسبات عملیاتی تهران را بی‌ثبات‌تر کند."
-        ],
-        "impact": "این رخداد از مسیر نااطمینانی انرژی، فشار فوری بر درآمد و ثبات اقتصادی بلندمدت می‌آورد و همزمان احتمال تعمیق درگیری منطقه‌ای علیه شبکه‌های نیابتی ایران را بالا می‌برد.",
-        "tag": "هواپیما",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-        "clean_url": "https://www.nytimes.com/live/2026/07/28/world/iran-us-strikes-iraq-trump",
-        "image": "http://www.bing.com/th?id=ONUT.46UAcgvxnERswcrNrg62zw&pid=News",
-        "timestamp": 1785268080.0,
-        "id": "09226d1215"
     }
 ]
