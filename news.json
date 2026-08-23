@@ -1,5 +1,23 @@
 [
     {
+        "id": "badc33cd7f",
+        "title_fa": "چالش ترامپ با کره شمالی هسته‌ای و اتحاد جدید پیونگ‌یانگ با مسکو",
+        "title_en": "Trump plays nuclear poker with Kim Jong Un — but who holds the cards?",
+        "summary": [
+            "کره شمالی با داشتن بیش از ۵۰ کلاهک هسته‌ای و پشتوانه جدید روسیه، ابزار فشار قدرتمندتری در دست دارد.",
+            "هرگونه تلاش برای خلع سلاح هسته‌ای پیونگ‌یانگ در معادلات جدید جهانی عملاً غیرممکن شده است."
+        ],
+        "impact": "پیچیده‌تر شدن معادلات عدم انتشار سلاح‌های هسته‌ای و الگوبرداری احتمالی سایر رژیم‌ها.",
+        "tag": "هسته‌ای",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "FOX News",
+        "url": "https://www.msn.com/en-us/news/world/trump-plays-nuclear-poker-with-kim-jong-un-but-who-holds-the-cards/ar-AA2aKqOh",
+        "clean_url": "https://www.msn.com/en-us/news/world/trump-plays-nuclear-poker-with-kim-jong-un-but-who-holds-the-cards/ar-AA2aKqOh",
+        "image": "https://s.yimg.com/lo/mysterio/api/593a4b5acdf87052d391946965e135ca83253703f202ca365b116f6ac9f829ed/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/fox_news_text_979/03d92a1fa1c9240af20d7874ed52e3a7",
+        "timestamp": 1787475646.0
+    },
+    {
         "id": "a4a35e28f3",
         "title_fa": "اعتراف پزشکیان به جنگ تمام‌عیار همزمان با تحریم‌های جدید آمریکا",
         "title_en": "Iran in \"full-scale\" war, says president, as fresh US sanctions loom",
@@ -72,6 +90,43 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZGJoVXJCaUN6MGRKNTgzWENod2VrN29OUllhaVUwTFQ5VjZpc0tEWlNiNHUzWjAxMlZiUVl6Z2FTd0I1cmUwandhdFl3SGo4NENwV3k0XzlrNDlodFJtWXkta3VETkd4UjgyTEdVRUhzOHcxZEdHMkpaZXJQQVlJZUlud2Q0NVMyMHBQSDVobnc4clZEYVBIVVVxRG5MdEE2UG1yNmtYR2IxWDhGaldPZTNIb2phQmVvSlo5UTdUby1GQWlBUXFz",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787462655.0
+    },
+    {
+        "id": "4523f68e33",
+        "title_fa": "خط‌ونشان امنیتی تهران برای همسایگان همراه با تحریم‌های آمریکا",
+        "title_en": "US Israel Iran war latest news: Iran warns countries supporting US economic pressure, threatens to target their interests",
+        "summary": [
+            "مقام ارشد امنیت ملی ایران کشورهای همسایه را تهدید کرد که در صورت همراهی با فشارهای اقتصادی واشنگتن، منافعشان مستقیماً هدف قرار خواهد گرفت.",
+            "این خط کلامی و تهدید صریح نشان‌دهنده هراس شدید حکومت از تنگ‌تر شدن حلقه خفه ساختن شریان‌های مالی منطقه است."
+        ],
+        "impact": "افزایش ریسک همکاری‌های اقتصادی همسایگان با ایران و تعمیق انزوای تجاری کشور.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-news-iran-warns-countries-supporting-us-economic-pressure-threatens-to-target-their-interests/ar-AA2aKdHz",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-news-iran-warns-countries-supporting-us-economic-pressure-threatens-to-target-their-interests/ar-AA2aKdHz",
+        "image": "http://www.bing.com/th?id=ONUT.vcf1aEA9xPldJNpRSCZoTg&pid=News",
+        "timestamp": 1787458980.0
+    },
+    {
+        "id": "7b1ce53ad2",
+        "title_fa": "تحلیل اتلانتیک از موازنه جدید قدرت و تغییر بازی تهران در منطقه",
+        "title_en": "Iran Unleashed",
+        "summary": [
+            "نشریه اتلانتیک مدعی شد ایران با عبور از مواجهه مستقیم با آمریکا و اسرائیل، موازنه قدرت در خلیج فارس را به نفع خود تغییر داده است.",
+            "تهران دیگر خود را محتاج توافق با غرب نمی‌بیند و کشورهای منطقه در حال سازگاری با این واقعیت جدید هستند.",
+            "انفعال واشنگتن فرصت طلایی را برای تثبیت اهرم‌های فشار منطقه‌ای به حکومت ایران داده است."
+        ],
+        "impact": "سخت‌تر شدن هرگونه توافق دیپلماتیک و جسورتر شدن سیاست‌های منطقه‌ای حکومت.",
+        "tag": "منطقه",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
+        "clean_url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374",
+        "image": "http://www.bing.com/th?id=ONUT.wU-rS7h5usTREFtF737v2w&pid=News",
+        "timestamp": 1787457600.0
     },
     {
         "id": "0fc2127f9d",
@@ -5514,62 +5569,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785299155.0,
         "id": "1fe0719dca"
-    },
-    {
-        "title_fa": "توقف حملات علیه ایران: توان نظامی آمریکا به‌تنهایی کفایت نمی‌کند",
-        "title_en": "Trump pausing Iran attacks shows US military power is not enough on its own",
-        "summary": [
-            "گاردین گزارش می‌کند که تصمیم ترامپ برای مکث در حملات علیه ایران، نشان می‌دهد قدرت نظامی آمریکا بدون ابزارهای سیاسی-عملیاتی دیگر، قادر نیست به‌تنهایی به نتیجه پایدار برسد.",
-            "این تحلیل ضمنی بر این نکته استوار است که محاسبه هزینه-فایده و ملاحظات بازدارندگی/کنترل ریسک، می‌تواند از ادامه یا تشدید عملیات جلوگیری کند؛ یعنی صرفِ توان رزمی تضمین‌کننده نیست.",
-            "نتیجه‌گیری رسانه‌ای این است که معادله ایران فقط با نیروی نظامی حل نمی‌شود و نیاز به اهرم‌های مکمل در سطح سیاست خارجی و مدیریت بحران وجود دارد."
-        ],
-        "impact": "مکث در حملات، پیام ضعفِ «راه‌حل صرفاً نظامی» را تقویت می‌کند و احتمالاً فشار بر واشنگتن را برای ترکیب ابزارهای غیرنظامی و محدودکننده بیشتر می‌کند.",
-        "tag": "ایالات-متحده",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3NoUEVwZmd3bkhmSTZGdEVDOGNEOVFaY3RnUFZTRjJLdmdPMjFmNU5UTzhXS3h5MEZmdlp6b0dScHlKcUJhUmNSU3hqTnM5TEJsbXQ1dlE3elFiVjNfNXprVnVvdDVTVDk2VVpldHhJLTFFRDdheXlqYWFodFF0bHVRR202UFhRZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS3NoUEVwZmd3bkhmSTZGdEVDOGNEOVFaY3RnUFZTRjJLdmdPMjFmNU5UTzhXS3h5MEZmdlp6b0dScHlKcUJhUmNSU3hqTnM5TEJsbXQ1dlE3elFiVjNfNXprVnVvdDVTVDk2VVpldHhJLTFFRDdheXlqYWFodFF0bHVRR202UFhRZUE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785298380.0,
-        "id": "6d7f253ca3"
-    },
-    {
-        "title_fa": "آغاز دوباره درگیری‌های گسترده در خلیج؛ حمله مشترک آمریکا و عربستان به متحدان ایران در عراق همزمان با بن‌بست در تنگه هرمز",
-        "title_en": "Major Gulf Fighting Restarts As U.S. And Saudi Strike Iran's Allies In Iraq",
-        "summary": [
-            "آمریکا پس از توقف بمباران یک‌هفته‌ای، نخستین حملات هوایی خود در خاورمیانه را ازسر گرفت و همراه با عربستان به گروه‌های مسلح ایران‌محور در عراق حمله کرد؛ ادعای واکنش به حملات پهپادی به اهداف نفتی عربستان مطرح شده است.",
-            "نیروهای بسیج مردمی عراق اعلام کردند دست‌کم ۲۰ نفر کشته و ۳۲ نفر زخمی شدند؛ این حملات به پایگاه‌هایی در چند نقطه عراق صورت گرفت و نخستین اقدام بزرگ آمریکا/عربستان در میان‌مدت پس از تعلیق اخیر به شمار می‌آید.",
-            "تهران از تشدید درگیری خبر می‌دهد: گفته شد در تنگه هرمز به کشتی‌ها و همچنین به پایگاه‌های آمریکا در اردن حمله شده است؛ در همین حال، عراق جلسه اضطراری برگزار کرد و احتمال باز شدن جبهه جدید علیه «پروکسی‌ها» در کنار عربستان افزایش یافته است."
-        ],
-        "impact": "این رویداد احتمال گسترش جنگ را بالا می‌برد، شکاف میان عراقِ متأرجح میان آمریکا و ایران را تشدید می‌کند و با واکنش‌های متقابل در تنگه هرمز، هزینه اقتصادی و امنیتی را افزایش می‌دهد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/gulf-fighting-restarts_n_6a69d4ede4b098352c300f02",
-        "clean_url": "https://www.huffpost.com/entry/gulf-fighting-restarts_n_6a69d4ede4b098352c300f02",
-        "image": "http://www.bing.com/th?id=ONUT.5buo8yD63t1MNLSBt5OSHw&pid=News",
-        "timestamp": 1785295980.0,
-        "id": "de9ba238cf"
-    },
-    {
-        "title_fa": "وقتی گلوسترشر روی نقشه ایران قرار گرفت",
-        "title_en": "When Gloucestershire Appeared on Iran’s Map",
-        "summary": [
-            "در گزارش CounterPunch، اشاره سپاه به RAF Fairford (در گلوسترشر انگلستان) به عنوان یک نشانه «غیرعادی و گمراه‌کننده» توصیف می‌شود؛ یعنی تمرکز تهدید از سطح منطقه‌ای به سطح اروپا/زیرساخت‌های مشخص منتقل شده است.",
-            "متن بر این نکته تاکید می‌کند که Fairford «جای چندان قابل توجهی نیست»، اما همین طرز مواجهه با یک نقطه مشخص در بریتانیا نشان می‌دهد رژیم در سطح تبلیغاتی/عملی دنبال گسترده‌کردن دامنه پیام و نفوذ ادراک‌شده است.",
-            "CounterPunch این رویداد را بیشتر یک تغییر در چارچوب روایت و نشانه‌گیری می‌داند تا یک اقدام نظامیِ اثبات‌شده؛ بنابراین باید آن را به عنوان سیگنال سیاسی-امنیتی ارزیابی کرد، نه صرفاً خبر تدارکاتی یا عملیات قطعی."
-        ],
-        "impact": "این نوع نشانه‌گیری مستقیم علیه یک پایگاه مشخص در خاک اروپا، ریسک بی‌ثباتی ادراک عمومی و تشدید تنش امنیتی را بالا می‌برد، بدون آنکه در متن اقدام نظامیِ قابل‌اثبات گزارش شده باشد.",
-        "tag": "اروپا",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/07/29/when-gloucestershire-appeared-on-irans-map/",
-        "clean_url": "https://www.counterpunch.org/2026/07/29/when-gloucestershire-appeared-on-irans-map",
-        "image": "http://www.bing.com/th?id=ONUT._TbIppk1TU3GHenUXgeZ6A&pid=News",
-        "timestamp": 1785295260.0,
-        "id": "9eaa36bcc6"
     }
 ]
