@@ -1,5 +1,42 @@
 [
     {
+        "id": "a8de5cdc5c",
+        "title_fa": "نقشه جدید واشنگتن برای مسدود کردن راه‌های فرار تحریمی ایران",
+        "title_en": "Iran has survived sanctions before. This time, Washington wants to close the escape routes",
+        "summary": [
+            "آمریکا این‌بار قصد دارد تمام راه‌های دور زدن تحریم‌ها، از نفت‌کش‌های شبح تا صرافی‌های پنهان در آسیا را کاملاً مسدود کند.",
+            "تمرکز اصلی واشنگتن روی قطع شریان‌های مالی و خشکاندن کانال‌های درامدی باقی‌مانده تهران قرار گرفته است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه خفگی اقتصادی و جهش احتمالی نرخ ارز در بازار تهران.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "calcalistech.com",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZEpaNm1ScTJBRzBSRkwyd0JZcEJDcDZwTTRGajU0Y2hLWmYzNGtuUnBSWG80ZGVUMzNQb0RYdGlsZy10YUxhUGpDOTdRUE1hN2VmaDZUZGZ3RnNfdXFHbFJ3TC1pQzg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UZEpaNm1ScTJBRzBSRkwyd0JZcEJDcDZwTTRGajU0Y2hLWmYzNGtuUnBSWG80ZGVUMzNQb0RYdGlsZy10YUxhUGpDOTdRUE1hN2VmaDZUZGZ3RnNfdXFHbFJ3TC1pQzg",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787509380.0
+    },
+    {
+        "id": "fd11b3fcda",
+        "title_fa": "طرح جدید آمریکا برای فروپاشی ساختار اقتصادی جمهوری اسلامی",
+        "title_en": "'We are going to collapse this regime': Inside the US plan to target Iran's economy",
+        "summary": [
+            "واشنگتن استراتژی تازه خود را از تحریم‌های کنترلی به سمت فلج‌سازی کامل منابع مالی حکومت تغییر داده است.",
+            "هدف این طرح ضربه زدن به شریان‌های ارزی سپاه و غیرممکن ساختن تامین بودجه نهادهای نظامی و امنیتی است.",
+            "هم‌زمانی این فشار بی‌سابقه با بحران‌های داخلی، توان مانور مالی تهران را به حداقل می‌رساند."
+        ],
+        "impact": "قطع دسترسی به منابع ارزی، افت شدید ارزش پول ملی و تشدید فشار بر معیشت عمومی.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "Scripps News",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdl9KQjdoaDFLWTl3VE1oZnJHYmlwRUVjeDVSTnVmVWxubWd6WDFBSDBYMWs1dFMxZlpVaHlNY2J4WERzSWlvaVFpQlNMTGZkOVZEcUNOTWZZbm85RWFJY08zT2JUMHFUQ2hMTm1BZk9ZbUVtcDBab3RVV0Y5LU4yMXhxV2JCMzhabFVMbWpSWERnZ0hvRU9TVGktQjNfMV9WZUY0SzB4ODUtamR6aVFVSUtKeVU4Q3l6c0N0WGNSUjc0UQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdl9KQjdoaDFLWTl3VE1oZnJHYmlwRUVjeDVSTnVmVWxubWd6WDFBSDBYMWs1dFMxZlpVaHlNY2J4WERzSWlvaVFpQlNMTGZkOVZEcUNOTWZZbm85RWFJY08zT2JUMHFUQ2hMTm1BZk9ZbUVtcDBab3RVV0Y5LU4yMXhxV2JCMzhabFVMbWpSWERnZ0hvRU9TVGktQjNfMV9WZUY0SzB4ODUtamR6aVFVSUtKeVU4Q3l6c0N0WGNSUjc0UQ",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787505217.0
+    },
+    {
         "id": "a9afd4c26f",
         "title_fa": "هشدار مایک پنس: آمریکا برای اقدام حتمی علیه ایران آماده شود",
         "title_en": "Pence says US must prepare for ‘inevitable’ action against Iran",
@@ -5524,43 +5561,5 @@
         "image": "https://prod-img.independent.ie/public/incoming/ogzt3q-aftermath-of-us-saudi-strikes-in-iraq-in-mosul/alternates/SIXTEEN_NINE_1200/Aftermath+of+US-Saudi+strikes+in+Iraq+in+Mosul",
         "timestamp": 1785321480.0,
         "id": "3e028ba78d"
-    },
-    {
-        "title_fa": "سعودی عربستان به حملات نظامی آمریکا علیه نیروهای نیابتی ایران می‌پیوندد",
-        "title_en": "Saudi Arabia joins U.S. military strikes on Iranian proxies",
-        "summary": [
-            "گزارش واشنگتن پست می‌گوید عربستان سعودی در حملات نظامی آمریکا علیه نیروهای نیابتی ایران مشارکت کرده است؛ یعنی مرحله‌ای از هماهنگی مستقیم فراتر از سطح حمایت غیرمستقیم.",
-            "این اقدام فشار نظامی و عملیاتی تازه‌ای بر شبکه‌های نیابتی وارد می‌کند و می‌تواند توان آنها برای تداوم عملیات و تأمین لجستیک را محدود کند، اما متن به جزئیات درباره اهداف مشخص یا میزان خسارت اشاره نمی‌کند.",
-            "هم‌زمان، پیام سیاسی مشخصی به بازیگران منطقه مخابره می‌شود: رژیم ایران برای پیشبرد نفوذ خود روی نیابلا‌ت‌ها هزینه و ریسک امنیتی بیشتری خواهد پرداخت؛ در حالی که گزارش مستقیماً به فروپاشی یا تغییر رفتار داخلی رژیم اشاره ندارد."
-        ],
-        "impact": "مشارکت عربستان در حملات آمریکا، هزینه امنیتی و قابلیت عملیاتی نیروهای نیابتی ایران را بالا می‌برد و احتمال تشدید چرخه درگیری‌های منطقه‌ای را افزایش می‌دهد.",
-        "tag": "میدانی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Washington Post",
-        "url": "https://www.msn.com/en-us/news/other/saudi-arabia-joins-us-military-strikes-on-iranian-proxies/ar-AA28Ut4f",
-        "clean_url": "https://www.msn.com/en-us/news/other/saudi-arabia-joins-us-military-strikes-on-iranian-proxies/ar-AA28Ut4f",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785320878.0,
-        "id": "c6bd3f405a"
-    },
-    {
-        "title_fa": "الکس جونز خواستار استیضاح ترامپ به دلیل «جنگ ایران خارج از کنترل»",
-        "title_en": "Ex-MAGA loyalist demands Trump removal from office over ‘out of control’ Iran war",
-        "summary": [
-            "منبع NJ.com گزارش می‌کند الکس جونز، چهره مشهور جریان راست‌افراطی، ترامپ را بابت «جنگ ایران خارج از کنترل» به استیضاح و برکناری از قدرت فراخوانده است.",
-            "این اقدام بیشتر در چارچوب فشار سیاسی-رسانه‌ای و ادعاهای توطئه‌محور است، نه یک گزارش مستند از اقدامات مشخص یا خطای رسمیِ قابل راستی‌آزمایی در متن.",
-            "وجود چنین مطالبه‌ای نشان‌دهنده شکاف در میان بخشی از محافل راست‌افراطی آمریکا درباره مدیریت مسئله ایران است، اما شواهدی از تشدید مستقیم عملیاتی در متن ارائه نشده است."
-        ],
-        "impact": "این خبر در کوتاه‌مدت بیشتر یک سیگنال از تنش سیاسی داخلی در آمریکا درباره جنگ/تنش با ایران است تا نشانه‌ای قطعی از تغییر سیاست یا عملیات فوری.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "NJ.com",
-        "url": "https://www.nj.com/politics/2026/07/ex-maga-loyalist-demands-trump-removal-from-office-over-out-of-control-iran-war.html",
-        "clean_url": "https://www.nj.com/politics/2026/07/ex-maga-loyalist-demands-trump-removal-from-office-over-out-of-control-iran-war.html",
-        "image": "http://www.bing.com/th?id=ONUT.CYzyfW91xZ85yXKB4UaBuw&pid=News",
-        "timestamp": 1785319920.0,
-        "id": "c06b642bdd"
     }
 ]
