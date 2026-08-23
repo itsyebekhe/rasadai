@@ -1,5 +1,24 @@
 [
     {
+        "id": "0fc2127f9d",
+        "title_fa": "خط و نشان تهران برای همسایگان درباره همراهی با تحریم‌های آمریکا",
+        "title_en": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
+        "summary": [
+            "دبیر جدید شورای عالی امنیت ملی ایران رسماً اعلام کرد هر کشوری در منطقه که در فشار اقتصادی آمریکا همراهی کند، «دشمن» تلقی می‌شود.",
+            "این خط کلامی تند خطاب به همسایگان، برای جلوگیری از مسدود شدن مسیرهای دور زدن تحریم و مبادلات مالی است.",
+            "تهران با بالا بردن هزینه سیاسی، می‌کوشد مانع اجرای دستورالعمل‌های خزانه داری آمریکا توسط کشورهای همجوار شود."
+        ],
+        "impact": "ایجاد ریسک امنیتی در روابط تجاری و اختلال در مبادلات مرزی و بانکی ایران با همسایگان.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "The Guardian",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1I0S3hyemkyRkVnUldIb05KbVViYW1tclh2T3lNSUlEM00zT3hSeHZZNDFVNUhPdGVjenB2WW1NUGEyOHNxdTJoSU9oMnV4cmRYd08zb3BXcVhER3hOVW4wWUtMRHplS09qMXJqSWdWMXd5VDhaVmFPSE1zNTUwbDNWX2lodFN1LXpuc2NOYi16UXZWaUVLeXJwazZkVFdxQTJVM2szYXRvNzRZaXk0?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1I0S3hyemkyRkVnUldIb05KbVViYW1tclh2T3lNSUlEM00zT3hSeHZZNDFVNUhPdGVjenB2WW1NUGEyOHNxdTJoSU9oMnV4cmRYd08zb3BXcVhER3hOVW4wWUtMRHplS09qMXJqSWdWMXd5VDhaVmFPSE1zNTUwbDNWX2lodFN1LXpuc2NOYi16UXZWaUVLeXJwazZkVFdxQTJVM2szYXRvNzRZaXk0",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787456040.0
+    },
+    {
         "id": "5856b4b84c",
         "title_fa": "قرار گرفتن اردن در آتش‌بار تقابل جمهوری اسلامی، آمریکا و اسرائیل",
         "title_en": "Jordan caught in Iran-US-Israel war crossfire",
@@ -18,6 +37,24 @@
         "timestamp": 1787454404.0
     },
     {
+        "id": "a40d8dcf34",
+        "title_fa": "مانور مسکو روی اعتراضات کی‌یف؛ اهرم غرب برای کنترل زلنسکی",
+        "title_en": "Protests in Ukraine unlikely to change regime, expert believes",
+        "summary": [
+            "کارشناسان روس برکناری وزیر دفاع اوکراین و اعتراضات پس از آن را به عنوان سناریوی غرب برای فشار یا تغییر احتمالی زلنسکی ارزیابی می‌کنند.",
+            "تنش‌های درونی میان فرماندهان نظامی و ساختار سیاسی اوکراین، ابزار جدید جنگ روانی مسکو علیه کی‌یف شده است."
+        ],
+        "impact": "تضعیف موقعیت سیاسی زلنسکی در جنگ روانی و ایجاد شکاف در جبهه داخلی اوکراین.",
+        "tag": "اوکراین",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/politics/2176585",
+        "clean_url": "https://tass.com/politics/2176585",
+        "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
+        "timestamp": 1787454000.0
+    },
+    {
         "id": "2044dfa5b6",
         "title_fa": "تهدیدهای لفاظانه دبیر شورای عالی امنیت ملی ایران در برابر فشارهای آمریکا",
         "title_en": "Live - Iran security chief threatens ‘earthquake-like’ retaliation as US pressure builds",
@@ -34,6 +71,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoWmgyT0l1R0RTN2xyTlNYNjBGZzVaMEdYNG5TcVZCa3puOV9XS0tZUTZOb1Z4MjZoc2NjOGhRMExkSDY1S1lDUjZGOEdUb3RMSHZoV0RKMVNSX3Q1bEE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787453325.0
+    },
+    {
+        "id": "4229628777",
+        "title_fa": "حمله سایبری به نیروگاه برق؛ عبور از جاسوسی به تخریب فیزیکی",
+        "title_en": "Cyber attack shut down small power plant",
+        "summary": [
+            "حملات سایبری از فاز جاسوسی دیجیتال عبور کرده و رسماً وارد مرحله از کار انداختن زیرساخت‌های حیاتی انرژی شده‌اند.",
+            "از دست رفتن کنترل این نیروگاه، ضعف شدید امنیتی در سامانه‌های توزیع برق را برملا ساخت."
+        ],
+        "impact": "افزایش خطر فلج شدن خطوط انتقال انرژی و قطعی سراسری در زیرساخت‌های کلیدی.",
+        "tag": "حملات سایبری",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1peUdwV1h1Vno2SUg3ZjU5Vmc0bVhrUjd2UEVnMXYzNDlXRzd6RWtnODBLOWVSQXNZT0UyR29UMVFONHJvbi15Tl9WaHphRzl5a1praU9VODZzUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1peUdwV1h1Vno2SUg3ZjU5Vmc0bVhrUjd2UEVnMXYzNDlXRzd6RWtnODBLOWVSQXNZT0UyR29UMVFONHJvbi15Tl9WaHphRzl5a1praU9VODZzUQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787453321.0
     },
     {
         "id": "7fd77bee2e",
@@ -5518,62 +5573,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785288660.0,
         "id": "0359d7d2dd"
-    },
-    {
-        "title_fa": "ایران برای اولین‌بار از زمان توقف حملات توسط ترامپ، به پایگاه آمریکا موشک شلیک کرد",
-        "title_en": "Iran launches missiles at U.S. base for first time since Trump paused strikes",
-        "summary": [
-            "طبق گزارش Axios، ایران یک بار دیگر شلیک موشکی به پایگاه آمریکا انجام داده؛ رویدادی که به‌عنوان نخستین مورد پس از توقف حملات در دوره ترامپ توصیف شده و نشان‌دهنده تغییر یا ازسرگیری مستقیم الگوی فشار نظامی علیه منافع آمریکا است.",
-            "این اقدام مستقیماً به «سکوت/توقف» نسبت داده می‌شود و از نظر راهبردی، پیام می‌دهد که محاسبه‌گری تهران نسبت به هزینه-فایدهِ عملیات علیه آمریکا، از حالت مهار خارج شده است.",
-            "چون متن خبر بر شلیک مشخص و چراییِ توقف قبلی تمرکز دارد، نتیجه عملی برای رژیم و محیط منطقه‌ای این است که ریسک پاسخ متقابل و تشدید چرخه درگیری بالا می‌رود؛ در نتیجه، فضای اقتصادی-سیاسی نیز با خطر عدم‌قطعیت امنیتی بیشتر تحت فشار قرار می‌گیرد."
-        ],
-        "impact": "شلیک موشکی علیه پایگاه آمریکا می‌تواند شکاف بین بازدارندگی و تشدید را به سرعت پر کند و احتمال درگیری مستقیم یا حملات تلافی‌جویانه را افزایش دهد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nWDMyNnhqaERiaVJhaTJCa1NweVpqd3U1V20wcVlNWmdTOE1lUk5PaWxENjlMNjU2dDhUcS12Nlk1cGpWYURmQWlPclc2djdGNmgxUDl2X3lKcjlvTmgwSWFBaXF4NFZaTEpjUVpoeFYtaVpNaUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9nWDMyNnhqaERiaVJhaTJCa1NweVpqd3U1V20wcVlNWmdTOE1lUk5PaWxENjlMNjU2dDhUcS12Nlk1cGpWYURmQWlPclc2djdGNmgxUDl2X3lKcjlvTmgwSWFBaXF4NFZaTEpjUVpoeFYtaVpNaUE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785288306.0,
-        "id": "fa6b17a0e8"
-    },
-    {
-        "title_fa": "زلنسکی: ترامپ با مجوز تولید موشک‌های پاتریوت در اوکراین موافقت کرد",
-        "title_en": "زلنسکی: ترامپ با اعطای مجوز تولید موشکهای پاتریوت به اوکراین موافقت کرد",
-        "summary": [
-            "ولودیمیر زلنسکی اعلام کرده دونالد ترامپ با اعطای مجوزهای لازم برای تولید موشک‌های سامانه پاتریوت در اوکراین موافقت کرده است.",
-            "این تصمیم، در چارچوب تقویت ظرفیت دفاعی اوکراین، می‌تواند وابستگی به تأمین خارجی را کاهش دهد و زنجیره پشتیبانی سامانه پاتریوت را پایدارتر کند.",
-            "خبر به‌صورت مستقیم به مرحله اجرایی و جزئیات فنی/زمان‌بندی اشاره نمی‌کند، اما ماهیت آن به‌عنوان «مجوز تولید» نشان می‌دهد هدف، گسترش توان عملیاتی در داخل اوکراین است."
-        ],
-        "impact": "اگر تولید موشک‌های پاتریوت واقعاً فعال شود، اوکراین از نظر توان مقابله دفاعی در کوتاه‌مدت و میان‌مدت ظرفیت بیشتری خواهد داشت.",
-        "tag": "اوکراین",
-        "urgency": 5,
-        "sentiment": 0.2,
-        "source": "رادیو فردا",
-        "url": "https://www.radiofarda.com/a/trump-agreed-to-give-ukraine-licenses-for-patriot-missiles-zelenskiy-says/33817265.html",
-        "clean_url": "https://www.radiofarda.com/a/trump-agreed-to-give-ukraine-licenses-for-patriot-missiles-zelenskiy-says/33817265.html",
-        "image": "https://gdb.rferl.org/be7b6023-7f4f-45cc-6265-08decd277110_w1200_h630.jpg",
-        "timestamp": 1785283200.0,
-        "id": "869b4622d5"
-    },
-    {
-        "title_fa": "سعودی اعلام کرد حملات مشترک با آمریکا علیه شبه‌نظامیان مورد حمایت ایران در عراق آغاز شده است",
-        "title_en": "Saudi Arabia says it launched joint strikes with US on Iran-backed militias in Iraq",
-        "summary": [
-            "بر اساس گزارش Dunya News، عربستان سعودی اعلام کرده حملات مشترک با آمریکا را علیه «شبه‌نظامیان مورد حمایت ایران» در عراق شروع کرده است؛ یعنی وارد فاز عملیات نظامی مستقیم‌تر برای مهار این شبکه‌ها شده‌اند.",
-            "این خبر در ادامه همان روند تشدید تنش‌هاست که در متن به «جنگ آمریکا-ایران» و نیز راهبردهای شکست/بازگشت آتش‌بس اشاره می‌کند و نشان می‌دهد آتش‌بس‌ها شکننده و قابل برگشت‌اند.",
-            "در همان چارچوب، متن به بی‌اعتنایی ایران به برنامه‌های غیرعملیاتی عمان برای مدیریت مشترک تنگه هرمز و همچنین رد «طرح‌های غیرواقعی» اشاره دارد که هم‌زمان با عملیات‌های منطقه‌ای، فضای مذاکره و مدیریت بحران را محدود می‌کند."
-        ],
-        "impact": "ورود رسمی عربستان به عملیات مشترک با آمریکا در عراق، ریسک درگیری‌های نیابتی را به سطح عملیات هماهنگ‌تر می‌برد و می‌تواند چرخه تشدید را سریع‌تر از کانال‌های سیاسی پیش ببرد.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Dunya News",
-        "url": "https://dunyanews.tv/en/Event-Reporting/268",
-        "clean_url": "https://dunyanews.tv/en/Event-Reporting/268",
-        "image": "https://img.dunyanews.tv/live_event/268_88001876.jpg",
-        "timestamp": 1785283200.0,
-        "id": "942a6d9659"
     }
 ]
