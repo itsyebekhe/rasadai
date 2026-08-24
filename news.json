@@ -1,5 +1,42 @@
 [
     {
+        "id": "2ab5bf9f17",
+        "title_fa": "رونمایی آمریکا از «دی‌دی اقتصادی» برای فلج‌سازی کامل مالی ایران",
+        "title_en": "What to expect as Iran braces for new US economic measures amid war",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا در تدارک اجرای سنگین‌ترین بسته تحریمی علیه صرافی‌ها، بنادر، خریداران نفت و شبکه‌های دور زدن تحریم است.",
+            "ترامپ هدف این طرح را فروپاشی ساختار مالی حکومت دانسته، در حالی که شریان‌های باقی‌مانده تجارت خارجی ایران نشانه رفته‌اند.",
+            "با وجود شدت بی‌سابقه این اقدامات، ساختار تحریم‌دیده ایران ممکن است به جای تسلیم، به سمت تقابل سخت‌تر حرکت کند."
+        ],
+        "impact": "تنگ‌تر شدن کامل منافذ ارزی ایران و فشار مضاعف بر بازار ریال.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/politics/articles/expect-iran-braces-us-economic-160250320.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/expect-iran-braces-us-economic-160250320.html",
+        "image": "https://media.zenfs.com/en/al_jazeera_289/4a2f5d90d594c1bf916e18209cb8743e.jpg",
+        "timestamp": 1787587610.0
+    },
+    {
+        "id": "bbc800af0f",
+        "title_fa": "تهدید ایران به بستن تنگه هرمز در پاسخ به فشارهای جدید آمریکا",
+        "title_en": "Iran Pledges to Defy Trump's Escalating Sanctions",
+        "summary": [
+            "تهران در پاسخ به تنگ‌تر شدن حلقه فشار اقتصادی، بار دیگر دست روی کارت تهدید نظامی و بستن خطوط انتقال نفت از خلیج فارس گذاشته است.",
+            "فشار حد اکثری واشنگتن احتمال دست زدن ایران به اقدامات پرریسک نظامی برای بالا بردن هزینه طرف مقابل را به شدت افزایش داده است."
+        ],
+        "impact": "افزایش آنی خطر درگیری نظامی در خلیج فارس و جهش ریسک در بازار انرژی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+        "clean_url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
+        "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-facebookJumbo.jpg",
+        "timestamp": 1787583840.0
+    },
+    {
         "id": "5998f1476d",
         "title_fa": "آغاز سنگین‌ترین تهاجم مالی آمریکا علیه شریان‌های اقتصادی ایران",
         "title_en": "Iran faces 'greatest financial offensive ever', says US Treasury Secretary Scott Bessent",
@@ -5517,43 +5554,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/us--ap-poll-trump-iran-090624946.html",
         "image": "http://www.bing.com/th?id=ONUT.OvRxPOATI2IWALBjVoOocQ&pid=News",
         "timestamp": 1785377160.0
-    },
-    {
-        "title_fa": "گسترش «جبهه‌های جدید» جنگ ایران در خاورمیانه (گزارش WSJ)",
-        "title_en": "See the New Fronts of the Iran War Erupting Across the Middle East",
-        "summary": [
-            "WSJ از «جبهه‌های جدید» جنگ ایران در سراسر خاورمیانه خبر می‌دهد، اما در متن ارائه‌شده جزئیات مکان، زمان و نوع عملیات‌ها مشخص نیست.",
-            "این نوع روایت نشان‌دهنده تغییر الگوی درگیری فراتر از خطوط کلاسیک است و می‌تواند فشار امنیتی و سیاسی روی دولت‌های منطقه را افزایش دهد، بدون آنکه در همین داده، ادعای مشخصی درباره بازیگران یا عملیات‌ها تأیید شود.",
-            "چون متن فقط عنوان منبع را تکرار می‌کند، نمی‌توان ارتباط مستقیم با اقتصاد، تحریم‌ها یا درگیری‌های داخلی ایران را از همین اطلاعات نتیجه گرفت."
-        ],
-        "impact": "گسترش ادعاشده «جبهه‌های جدید» اگر با عملیات‌های واقعی همراه شود، هزینه مدیریت امنیتی و ریسک محاسبه‌نادرست برای رژیم را در منطقه بالا می‌برد؛ اما داده فعلی برای ارزیابی دقیق پیامدها کافی نیست.",
-        "tag": "نیابتی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "WSJ",
-        "url": "https://www.wsj.com/world/middle-east/see-the-new-fronts-of-the-iran-war-erupting-across-the-middle-east-dda24313",
-        "clean_url": "https://www.wsj.com/world/middle-east/see-the-new-fronts-of-the-iran-war-erupting-across-the-middle-east-dda24313",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785374340.0,
-        "id": "72c5c1cfc3"
-    },
-    {
-        "title_fa": "تکمیل موج سنگین حملات تلافی‌جویانه آمریکا علیه اهداف سپاه در ایران",
-        "title_en": "US military completes 'heavy wave' of retaliatory strikes on Iran",
-        "summary": [
-            "طبق گزارش، فرماندهی مرکزی آمریکا (CENTCOM) اعلام کرده نیروهای آمریکایی «موج سنگین» حملات را علیه ایران در پاسخ به هدف قرار دادن پایگاه‌های آمریکا در اردن توسط تهران تکمیل کرده‌اند؛ جنگ پس از یک وقفه نزدیک به یک هفته دوباره تشدید شده است.",
-            "این حملات «ده‌ها» هدف از جمله مراکز فرماندهی مرتبط با سپاه را دربر گرفته و خبرگزاری ایران (IRNA) از اصابت به چند شهر در استان خوزستان و همچنین جزیره قشم در خلیج فارس خبر داده است؛ مناطقی مانند آبادان، شادگان، اروندکنار و اهواز ذکر شده‌اند.",
-            "در سطح منطقه‌ای نیز هم‌زمانی تشدید در جریان بوده: عربستان و آمریکا در روز قبل اعلام کردند پایگاه‌های گروه‌های مسلح در عراق هدف قرار گرفته است، اسرائیل ادعا کرده که حزب‌الله توافق را نقض کرده و حملات پهپادی/موشکی میان جبهه‌ها ادامه دارد."
-        ],
-        "impact": "تشدید مستقیم و منطقه‌ای حملات، مسیر هر نوع مذاکره سریع را تضعیف کرده و خطر گسترش چرخه تلافی را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/us-saudi-strike-iraq-alliance-100046122.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us-saudi-strike-iraq-alliance-100046122.html",
-        "image": "http://www.bing.com/th?id=ONUT.rdbRLVVll_QU7i2rnQC2LQ&pid=News",
-        "timestamp": 1785363840.0,
-        "id": "295b9d2427"
     }
 ]
