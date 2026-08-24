@@ -1,5 +1,23 @@
 [
     {
+        "id": "0dcbae9074",
+        "title_fa": "تاریخچه تحریم‌های ایران؛ چهار دهه فشار و ساختار پیچیده انزوای مالی",
+        "title_en": "Economic Sanctions Against Iran: This is not the first and Probably Not The Last",
+        "summary": [
+            "بررسی مسیر تحریم‌های بین‌المللی نشان می‌دهد واشنگتن از سال ۱۹۷۹ تا امروز یک شبکه پیچیده و چندلایه مالی، انرژی و تجاری علیه ایران شکل داده است.",
+            "مسدودسازی دارایی‌ها، قطع فروش سلاح و بستن شریان‌های فراملی، ابزارهای دائمی آمریکا در چهار دهه گذشته برای مهار رفتارهای منطقه‌ای و هسته‌ای تهران بوده است."
+        ],
+        "impact": "تثبیت انزوای ساختاری اقتصاد ایران در بستر تعاملات مالی و بانکی بین‌المللی.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.4,
+        "source": "english.gujaratsamachar",
+        "url": "https://english.gujaratsamachar.com/news/international/economic-sanctions-against-iran-this-is-not-the-first-and-probably-not-the-last-66294199083",
+        "clean_url": "https://english.gujaratsamachar.com/news/international/economic-sanctions-against-iran-this-is-not-the-first-and-probably-not-the-last-66294199083",
+        "image": "https://cdn.gujaratsamachar.com/media/post/2026/08/b5abd706ba13e5a6c9c214eefd5507ee.webp?w=1200&h=630&q=80",
+        "timestamp": 1787592840.0
+    },
+    {
         "id": "e26ebfda49",
         "title_fa": "روز دی اقتصادی ترامپ؛ جهش بی‌سابقه دلار و تحریم‌های خردکننده",
         "title_en": "Iran's Rial Slump Sets Stage for Donald Trump's Economic 'D-Day'",
@@ -54,6 +72,25 @@
         "clean_url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
         "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-facebookJumbo.jpg",
         "timestamp": 1787583840.0
+    },
+    {
+        "id": "2c263fc9d8",
+        "title_fa": "عملیات «طرد اقتصادی» ترامپ؛ قطع کامل شریان‌های مالی و نفتی ایران",
+        "title_en": "Treasury Launches ‘Operation Economic Outcast’ To Isolate Iran’s Financial Networks",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا به دستور مستقیم ترامپ، کمپین بی‌سابقه «طرد اقتصادی» را برای انزوای کامل شبکه مالی، صادرات نفت و زنجیره تامین فناوری ایران آغاز کرد.",
+            "وزیر خزانه‌داری آمریکا این اقدام را به عملیات سرنوشت‌ساز نرماندی در جنگ جهانی دوم تشبیه کرد و از هدف‌گیری تمام راه‌های تنفسی اقتصادی حکومت خبر داد.",
+            "واشنگتن صراحتاً خط‌ونشان کشید که ریسک معامله با تهران را برای شرکت‌ها و کشورهای ثالث به اوج می‌رساند تا ایران کاملاً تنها بماند."
+        ],
+        "impact": "تنگ‌تر شدن بی‌سابقه حلقه تحریم‌های نفتی و بانکی که مستقیماً به جهش قیمت ارز و تعمیق بحران اقتصادی در داخل می‌انجامد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/treasury-launches-operation-economic-outcast-213034445.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/treasury-launches-operation-economic-outcast-213034445.html",
+        "image": "http://www.bing.com/th?id=ONUT.1xr8rZRrWwo5LHHa_62bgA&pid=News",
+        "timestamp": 1787581800.0
     },
     {
         "id": "3d96e89283",
@@ -5517,43 +5554,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785395029.0,
         "id": "d77dc78e1f"
-    },
-    {
-        "title_fa": "ادعای وزارت دفاع آمریکا: حمله به ده‌ها هدف مرتبط با سپاه پاسداران",
-        "title_en": "US military says it hit dozens of Iran's IRGC targets",
-        "summary": [
-            "طبق گزارش رویترز، نیروی نظامی آمریکا اعلام کرده ده‌ها هدف «مرتبط با سپاه پاسداران» را هدف قرار داده است.",
-            "این عملیات مستقیماً به بازوی نظامی جمهوری اسلامی گره خورده و بنابراین نشانه‌ای از تشدید فشار امنیتی واشنگتن علیه زیرساخت‌های عملیاتی سپاه است.",
-            "خبر، به‌دلیل نبود جزئیات درباره زمان/مکان دقیق و میزان خسارت، فعلاً در سطح «اقدام نظامی» باقی می‌ماند و هرگونه ارزیابی دقیق‌تر از پیامد میدانی نیازمند اطلاعات تکمیلی است."
-        ],
-        "impact": "چنین حمله‌ای می‌تواند توان مانور و عملیات‌های برون‌مرزی سپاه را محدود کند و همزمان ریسک چرخه تقابل و پاسخ متقابل را بالا ببرد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.msn.com/en-ca/politics/international-relations/us-military-says-it-hit-dozens-of-iran-s-irgc-targets/ar-AA292l9d",
-        "clean_url": "https://www.msn.com/en-ca/politics/international-relations/us-military-says-it-hit-dozens-of-iran-s-irgc-targets/ar-AA292l9d",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785393000.0,
-        "id": "7f45a59a33"
-    },
-    {
-        "title_fa": "اظهار رسمی سپاه: بستن‌بودن تنگه هرمز به «تهدیدهای آمریکا» گره خورده است",
-        "title_en": "Iran's IRGC says Strait of Hormuz cannot reopen while US 'threats' continue",
-        "summary": [
-            "سپاه پاسداران اعلام کرده تنگه هرمز «نمی‌تواند» دوباره باز شود، و شرط از منظر تهران را ادامه «تهدیدهای آمریکا» عنوان کرده است؛ یعنی سیاست بازدارندگی/فشار، به یک چارچوب سیاسی-امنیتی وابسته می‌ماند.",
-            "این موضع به‌طور مستقیم یک ریسک عملیاتی برای تجارت و کشتیرانی منطقه ایجاد می‌کند: هرگونه تشدید لفظی یا سوءتفاهم در سطح فرماندهی می‌تواند به اختلال‌های واقعی در عبور کشتی‌ها منجر شود (بدون اینکه در متن، اقدام اجرایی مشخصی گزارش شده باشد).",
-            "از منظر فشار خارجی و سنجش‌پذیری تحرکات رژیم، این پیام بیشتر برای مدیریت ادراک داخلی و خارجی استفاده می‌شود تا راه‌حل؛ چون همزمان «امنیت» را پیش‌شرط می‌گذارد، اما مشخص نمی‌کند چه اقدام قابل راستی‌آزمایی از سوی آمریکا باید انجام شود تا مسیر باز شدن تنگه روشن شود."
-        ],
-        "impact": "این اظهارات احتمال تداوم عدم‌قطعیت در تنگه هرمز را بالا می‌برد و هزینه ریسک برای بازار و کشتیرانی منطقه‌ای را بیشتر می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Anadolu Ajansı",
-        "url": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-strait-of-hormuz-cannot-reopen-while-us-threats-continue/4013306",
-        "clean_url": "https://www.aa.com.tr/en/middle-east/irans-irgc-says-strait-of-hormuz-cannot-reopen-while-us-threats-continue/4013306",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785391827.0,
-        "id": "f2b12055f1"
     }
 ]
