@@ -130,6 +130,25 @@
         "timestamp": 1787571184.0
     },
     {
+        "id": "c0e26c108e",
+        "title_fa": "اولتیماتوم دلاری واشنگتن به شرکای تجاری ایران",
+        "title_en": "Bessent warns Iran’s global partners to cut ties or face ‘Operation Economic Outcast’",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا طرح «انزوای اقتصادی» را کلید زد؛ تمام کشورها و بانک‌ها باید بین ادامه معامله با ایران یا قطع دسترسی به سیستم دلاری یکی را انتخاب کنند.",
+            "ترامپ شخصاً تماس با سران کشورهای جهان را آغاز کرده تا تمام شریان‌های مالی باقی‌مانده تهران را پیش از هرگونه اقدام نظامی مسدود کند.",
+            "این هشدار بیش از آنکه یک مصوبه آنی باشد، خط‌ونشان مستقیم واشنگتن برای خریداران نفت و شبکه‌های دور زدن تحریم است تا تسلیم شوند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه محاصره مالی، سخت‌تر شدن تامین ارز در تهران و فشار مضاعف بر بازار دلار.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/bessent-warns-iran-global-partners-183032666.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/bessent-warns-iran-global-partners-183032666.html",
+        "image": "http://www.bing.com/th?id=ONUT.znre3qVhdF60TWaltmvtrA&pid=News",
+        "timestamp": 1787570940.0
+    },
+    {
         "id": "8de84a1466",
         "title_fa": "ریزش تاریخی ریال همزمان با آماده‌سازی «دی‌دی اقتصادی» واشنگتن",
         "title_en": "Iran's Currency Plunges As Washington Readies 'Economic D-Day'",
@@ -5536,24 +5555,5 @@
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785391827.0,
         "id": "f2b12055f1"
-    },
-    {
-        "title_fa": "آغاز حملات سنگین آمریکا به ایران پس از اقدام منتسب به ایران علیه نیروهای آمریکایی",
-        "title_en": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
-        "summary": [
-            "طبق گزارش BBC، آمریکا پس از یک اقدام/تلاش برای حمله به نیروهای آمریکایی، حملات «سنگین» علیه ایران را آغاز کرده است.",
-            "این خبر بر منطق بازدارندگی و پاسخ مستقیم آمریکا به تهدید علیه نیروهایش تکیه دارد و نشان می‌دهد انتقال پرونده از فضای ادعای تهدید به عملیات نظامی رخ داده است.",
-            "جزئیات فنی درباره اهداف، زمان‌بندی، میزان خسارت یا واکنش رسمی ایران در متن ارائه‌شده ذکر نشده، بنابراین ارزیابی اثرات فوری باید محدود به تأیید وقوع حملات باشد."
-        ],
-        "impact": "ورود به فاز حمله مستقیم، ریسک تشدید سریع در سطح منطقه‌ای را بالا می‌برد و می‌تواند چرخه «پاسخ‌به‌پاسخ» را فعال کند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "BBC",
-        "url": "https://www.msn.com/en-us/news/world/us-launches-powerful-strikes-on-iran-a-day-after-attempted-attack-on-american-troops/ar-AA2913hC",
-        "clean_url": "https://www.msn.com/en-us/news/world/us-launches-powerful-strikes-on-iran-a-day-after-attempted-attack-on-american-troops/ar-AA2913hC",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785389787.0,
-        "id": "562def4889"
     }
 ]
