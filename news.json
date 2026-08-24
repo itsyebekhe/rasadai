@@ -241,6 +241,25 @@
         "timestamp": 1787509380.0
     },
     {
+        "id": "e3eec22c4e",
+        "title_fa": "واشنگتن در تدارک «دی‌دی اقتصادی»؛ پاسخ نفتی تهران و شوک بازار",
+        "title_en": "US vows 'economic D-Day' as Iran threatens to halt all oil exports",
+        "summary": [
+            "آمریکا در حال آماده‌سازی سنگین‌ترین حمله مالی علیه صادرات و منابع ارزی جمهوری اسلامی است تا شریان‌های باقی‌مانده اقتصاد ایران را کاملاً مسدود کند.",
+            "تهدید تهران به متوقف کردن کل صادرات نفت، مانوری روانی برای ایجاد هراس در بازارهای جهانی انرژی و عقب‌راندن آمریکا از اجرای تحریم‌هاست.",
+            "انتظارات تورمی در بازار داخل، بلافاصله پس از انتشار خبر این تهاجم مالی تشدید شده و فشار بر ارز را بالا برده است."
+        ],
+        "impact": "تشدید جهش ارزی و بن‌بست عمیق‌تر دولت در تامین منابع پرداختی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/world/us-vows-economic-d-day-as-iran-threatens-to-halt-all-oil-exports/ar-AA2aM7n9",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-vows-economic-d-day-as-iran-threatens-to-halt-all-oil-exports/ar-AA2aM7n9",
+        "image": "http://www.bing.com/th?id=ONUT.vUHO8Y6v4uqb0IqJUzDABA&pid=News",
+        "timestamp": 1787506415.0
+    },
+    {
         "id": "fd11b3fcda",
         "title_fa": "طرح جدید آمریکا برای فروپاشی ساختار اقتصادی جمهوری اسلامی",
         "title_en": "'We are going to collapse this regime': Inside the US plan to target Iran's economy",
@@ -5537,24 +5556,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785350491.0,
         "id": "0700e11cdc"
-    },
-    {
-        "title_fa": "پایان آتش‌بس میان آمریکا و ایران؛ ادعای «حمله غافلگیرانه» تهران و پاسخ واشینگتن",
-        "title_en": "Iran 'surprise attack' ends ceasefire; US retaliates. What's next in the war",
-        "summary": [
-            "طبق گزارش USA TODAY، درگیری مستقیم آمریکا و ایران پس از اجرای یک آتش‌بس، دوباره متوقف‌نشدنِ آن با «حمله غافلگیرانه» تهران علیه نیروهای آمریکایی پایان یافته است؛ ترامپ این رخداد را «surprise attack» توصیف کرده است.",
-            "در پی این اقدام، واشینگتن اقدام تلافی‌جویانه انجام داده است؛ گزارش بر این محور است که چرخه توقف/از سرگیری جنگ به‌طور مستقیم به همین رویداد گره خورده است.",
-            "متن با عنوان «What's next in the war» بر مرحله بعدی درگیری تأکید دارد، اما جزئیات بیشتر درباره نوع پاسخ، اهداف یا ابعاد عملیاتی ارائه نمی‌کند و فقط چارچوب کلی تشدید را نشان می‌دهد."
-        ],
-        "impact": "این رخداد یعنی هر سازوکار آتش‌بس تا اطلاع بعدی قابلیت اتکا ندارد و احتمال تشدید سریع تبادل حملات افزایش می‌یابد.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.9,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-surprise-attack-ends-ceasefire-us-retaliates-what-s-next-in-the-war/ar-AA28Z6xX",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-surprise-attack-ends-ceasefire-us-retaliates-what-s-next-in-the-war/ar-AA28Z6xX",
-        "image": "http://www.bing.com/th?id=ONUT.xh_uthhJrVocnbPpb870_g&pid=News",
-        "timestamp": 1785350471.0,
-        "id": "795cd35392"
     }
 ]
