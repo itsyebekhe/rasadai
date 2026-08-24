@@ -37,6 +37,25 @@
         "timestamp": 1787554440.0
     },
     {
+        "id": "bde2561c12",
+        "title_fa": "تحریم‌های بی‌سابقه آمریکا علیه ایران؛ هدف‌گیری راه‌های کریپتویی",
+        "title_en": "Crypto Braces ‘History’s Toughest US Sanctions’ on Iran in Matter of Hours — How Could XRP and Bitcoin Be Impacted?",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا آماده رونمایی از سنگین‌ترین بسته تحریمی تاریخ علیه جمهوری اسلامی می‌شود.",
+            "با توجه به تلاش‌های تهران برای استفاده از رمزارزها در صادرات نفت، واشنگتن نظارت بر مبادلات بیت‌کوین را شدیداً افزایش داده است.",
+            "این موج جدید تحریم‌ها شریان‌های غیررسمی مالی و کانال‌های دور زدن تحریم‌ها را کاملاً زیر ضربه قرار می‌دهد."
+        ],
+        "impact": "بسته‌شدن راه‌های تنفس رمزارزی جمهوری اسلامی و تشدید نوسانات در بازار ارز داخل.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-braces-history-toughest-us-124626091.html",
+        "clean_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-braces-history-toughest-us-124626091.html",
+        "image": "http://www.bing.com/th?id=ONUT.BP2hqVNfYruMUprQKQGEzA&pid=News",
+        "timestamp": 1787550360.0
+    },
+    {
         "id": "530e64fc4f",
         "title_fa": "تدارک آمریکا برای اجرای سنگین‌ترین هجوم مالی علیه ایران",
         "title_en": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
@@ -5537,24 +5556,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785358920.0,
         "id": "377814827c"
-    },
-    {
-        "title_fa": "تغییر معادله امنیتی خاورمیانه در سایه جنگ ایران (بر اساس گزارش رادیو فردا/رادیو آزادی)",
-        "title_en": "How The Iran War Is Changing Security Dynamics In The Middle East",
-        "summary": [
-            "این گزارش به‌طور کلی توضیح می‌دهد جنگ ایران دارد «پویایی‌های امنیتی» خاورمیانه را تغییر می‌دهد، یعنی الگوی تهدیدها و واکنش بازیگران منطقه‌ای در حال بازتنظیم است.",
-            "با توجه به متن موجود، جزئیات مشخصی درباره نوع عملیات، زمان‌بندی یا مکان‌های دقیق ارائه نشده و بنابراین نمی‌توان ادعاهای قابل راستی‌آزمایی درباره شدت درگیری‌ها یا هدف‌های عملیاتی استخراج کرد.",
-            "در سطح راهبردی، چنین تغییری معمولاً به تشدید رقابت امنیتی، افزایش احتمال درگیری‌های نیابتی و سخت‌تر شدن هماهنگی میان دولت‌ها منجر می‌شود؛ اما چون متن فقط تیتر را تکرار کرده، داده‌های حمایتی در دسترس نیست."
-        ],
-        "impact": "تا زمانی که متن کامل گزارش منتشر نشود، فقط می‌توان گفت جنگ ایران در حال بازتولید معادلات تهدید و پاسخ در خاورمیانه است، بدون امکان سنجش دقیق پیامدهای فوری.",
-        "tag": "امنیت",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGVaandXM1dwZlU3LXFneEFORFA2dVBFY3dCWGFLaXBwY0xrOEpocHpXQVhSTFpscUVJcGhWRnpZZ0FIX0ZsUk5hVlBLTGtXY053RE5BNlZXNjZZYzZLS3djeDdqdVR1N01QNno2NHJkMDBOV083cS1XSEs1SHdtb0JyMU1FQThEcl9kRWx5aXnSAZABQVVfeXFMTVBlWmp3VzNXcGZVNy1xZ3hBTkRQNnVQRWN3QlhhS2lwcGNMazhKaHB6V0FYUkxabHFFSXBoVkZ6WWdBSF9GbFJOYVZQS0xrV2NOd0ROQTZWVzY2WWM2S0t3Y3g3anVUdTdNUDZ6NjRyZDAwTldPN3EtV0hLNUh3bW9CcjFNRUE4RHJfZEVseWl5?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUGVaandXM1dwZlU3LXFneEFORFA2dVBFY3dCWGFLaXBwY0xrOEpocHpXQVhSTFpscUVJcGhWRnpZZ0FIX0ZsUk5hVlBLTGtXY053RE5BNlZXNjZZYzZLS3djeDdqdVR1N01QNno2NHJkMDBOV083cS1XSEs1SHdtb0JyMU1FQThEcl9kRWx5aXnSAZABQVVfeXFMTVBlWmp3VzNXcGZVNy1xZ3hBTkRQNnVQRWN3QlhhS2lwcGNMazhKaHB6V0FYUkxabHFFSXBoVkZ6WWdBSF9GbFJOYVZQS0xrV2NOd0ROQTZWVzY2WWM2S0t3Y3g3anVUdTdNUDZ6NjRyZDAwTldPN3EtV0hLNUh3bW9CcjFNRUE4RHJfZEVseWl5",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785352971.0,
-        "id": "10396f6cdd"
     }
 ]
