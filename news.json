@@ -19,6 +19,25 @@
         "timestamp": 1787578507.0
     },
     {
+        "id": "fdba13a38a",
+        "title_fa": "چرخش ترامپ از جنگ نظامی به «روز دی اقتصادی» علیه ایران",
+        "title_en": "Trump claims Iran 'collapsing' as US threatens 'economic D-Day'",
+        "summary": [
+            "دونالد ترامپ با ادعای «فروپاشی ایران»، راهبرد کاخ سفید را پس از بن‌بست در درگیری نظامی به سمت فشار شدید اقتصادی تغییر داد.",
+            "وزارت خزانه‌داری آمریکا طرح تحریم‌های ثانویه موسوم به «روز دی اقتصادی» را برای انزوای کامل مالی تهران و مجازات خریداران نفت کلید زد.",
+            "تداوم مسدود بودن تنگه هرمز و هزینه‌های سیاسی داخلی، واشنگتن را مجبور به ترجیح ابزارهای تحریمی بر درگیری مستقیم کرده است."
+        ],
+        "impact": "تشدید بی‌سابقه تحریم‌های ثانویه آمریکا ریسک همکاری اقتصادی و تجاری با ایران را برای کشورهای ثالث به اوج می‌رساند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "RTL Today",
+        "url": "https://today.rtl.lu/news/world/trump-claims-iran-collapsing-as-us-threatens-economic-d-day-165404115",
+        "clean_url": "https://today.rtl.lu/news/world/trump-claims-iran-collapsing-as-us-threatens-economic-d-day-165404115",
+        "image": "https://static-prod.rtl.lu/dims4/default/0467edb/2147483647/strip/true/crop/768x432+0+0/resize/1224x689!/quality/90/?url=https://rtl-luxembourg-new-production-web.s3.eu-central-1.amazonaws.com/brightspot/59/97/12629a4fddd2051443e873386acc/medias",
+        "timestamp": 1787577900.0
+    },
+    {
         "id": "8de84a1466",
         "title_fa": "ریزش تاریخی ریال همزمان با آماده‌سازی «دی‌دی اقتصادی» واشنگتن",
         "title_en": "Iran's Currency Plunges As Washington Readies 'Economic D-Day'",
@@ -147,6 +166,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmM1OWVNT01lQlNPWmo3Zk1RM1UtdE5HcXNBTHEtRFNNZS14b0prb2xkc1A3ZHNKY3pvR3dxcE5COWlFakFUSWM1SW5ldjhEYjNEY1Q5eUF6SEtXV1FYNGs4UzE5ajRBTGJpaG1scm9mOVZENzdVTUxVQ0RCTWNLaHcyZjFIQk3SAYwBQVVfeXFMTU9JYUFXTl91WGZhNXhua1hCZTF4ME5nc2hHRGVBVDJXYTVBMXlOLURJTG8teFdKRnhSTC1NdkVIM0FYU2xObWpPa2RMTEg5eS1vTHR4dmZuVkF5bUtLWmlDUHRXenQ5dVJ4QXZFODZKM3oyUlpraTJneVpGLUlyMFRYUEZKQTJTYVlTNEY",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787533140.0
+    },
+    {
+        "id": "a57915ee6e",
+        "title_fa": "بن‌بست استراتژیک واشنگتن در جنگ پرهزینه و نامحبوب با ایران",
+        "title_en": "What the 'Iran Experts' Didn't Tell the White House",
+        "summary": [
+            "تحمیل هزینه ۳۷.۵ میلیارد دلاری به مالیات‌دهندگان آمریکایی در کنار مخالفت ۶۵ درصدی افکار عمومی، عملیات نظامی را دچار بن‌بست کرده است.",
+            "ارزیابی‌های غلط مشاوران کاخ سفید درباره انسجام داخلی ایران، واشنگتن را وارد جنگی فرسایشی و بدون استراتژی خروج روشن کرد."
+        ],
+        "impact": "افزایش فشارهای سیاسی داخلی در واشنگتن، شانس مداوم بودن عملیات مستقیم نظامی را به شدت کاهش می‌دهد.",
+        "tag": "نظامی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "The American Conservative",
+        "url": "https://www.theamericanconservative.com/what-the-iran-experts-didnt-tell-the-white-house/",
+        "clean_url": "https://www.theamericanconservative.com/what-the-iran-experts-didnt-tell-the-white-house",
+        "image": "https://www.theamericanconservative.com/wp-content/uploads/2026/08/GettyImages-2291169760.jpg",
+        "timestamp": 1787529780.0
     },
     {
         "id": "902b0abcc4",
@@ -5518,43 +5555,5 @@
         "image": "http://www.bing.com/th?id=ONUT.rdbRLVVll_QU7i2rnQC2LQ&pid=News",
         "timestamp": 1785363840.0,
         "id": "295b9d2427"
-    },
-    {
-        "title_fa": "گزارش: ایران ظرف چند هفته سامانه‌های موشکی دوش‌پرتاب چینی دریافت می‌کند؛ پیامد مستقیم برای قابلیت‌های ضدنیرو",
-        "title_en": "US Iran War Live Updates: Iran to receive Chinese shoulder-fired missile systems within weeks, report says",
-        "summary": [
-            "بر اساس گزارشِ Firstpost، ایران طی چند هفته آینده سامانه‌های موشکی دوش‌پرتاب ساخت چین دریافت خواهد کرد؛ یعنی یک تقویت ملموس در توان دفاعی/درگیری‌های کوتاه‌برد، نه یک وعده مبهم سیاسی.",
-            "این نوع دریافت تسلیحات از کانال چین، در چارچوب فشار خارجی آمریکا می‌تواند شکاف‌های موجود در زنجیره تأمین را برای رژیم پر کند و از فرسایش توان عملیاتی جلوگیری کند.",
-            "با توجه به اینکه جزئیات در متن ارائه نشده (مدل دقیق، تعداد، نوع استقرار)، ارزیابی اثر نهایی به قابلیت‌های عملیاتی و نحوه یکپارچه‌سازی این سامانه‌ها با ساختار نیروهای رژیم وابسته است، اما اصل «تقویت ظرفیت» گزارش شده."
-        ],
-        "impact": "ورود قریب‌الوقوع سامانه‌های موشکی دوش‌پرتاب چینی می‌تواند توان پاسخ سریع و درگیری علیه اهداف هوایی/زمینی در میدان را برای رژیم افزایش دهد و هزینه اقدام نظامی را بالا ببرد.",
-        "tag": "بازدارندگی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/us-iran-war-live-updates-us-hits-iranian-sites-after-jordan-base-attack-targets-qeshm-and-bandar-abbas-liveblog-14034834.html",
-        "clean_url": "https://www.firstpost.com/world/us-iran-war-live-updates-us-hits-iranian-sites-after-jordan-base-attack-targets-qeshm-and-bandar-abbas-liveblog-14034834.html",
-        "image": "http://www.bing.com/th?id=ONUT.iNjwnkXYR4b6MuFDGcioYQ&pid=News",
-        "timestamp": 1785363240.0,
-        "id": "49f1f0b219"
-    },
-    {
-        "title_fa": "نتانیاهو بعد از گفت‌وگو با ترامپ، «فشارمحور» علیه ایران را پیش می‌برد",
-        "title_en": "Netanyahu backs pressure-first strategy on Iran after Trump talks",
-        "summary": [
-            "براساس گزارش، بنیامین نتانیاهو در پی گفت‌وگویش با ترامپ، از رویکردی حمایت می‌کند که محور آن «فشار» است؛ یعنی اول فشار افزایش یابد و سپس سناریوی بعدی دنبال شود.",
-            "این چارچوب عملاً معطوف به تشدید فشار خارجی علیه جمهوری اسلامی است، نه توافق سریع یا راه‌حل تدریجی؛ بنابراین ریسک برای اقتصاد و مدیریت داخلی از مسیر فشارهای بیرونی بالا می‌رود.",
-            "خبر به خودِ محتوای جزئی اقدامات فشار اشاره نمی‌کند، اما سیگنال سیاسی روشن است: راهبرد جدید قرار است از مرحله اهرم‌های فشار شروع شود و پیامش به تهران تشدید تنش است."
-        ],
-        "impact": "رویکرد فشارمحور می‌تواند چرخه بی‌ثباتی اقتصادی و سیاسی را از مسیر افزایش هزینه‌های خارجی برای حکومت تشدید کند.",
-        "tag": "فشار",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tOG5RU3NFLXQ4ZFhTRVdfX0ZRQXFxV24zQ1JEQXk5eFJsWVFlbi1GZTBZS0NZcXVNZkRoT003TGZUUTNNTjZ1Rl9UYTI4WVJxSHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tOG5RU3NFLXQ4ZFhTRVdfX0ZRQXFxV24zQ1JEQXk5eFJsWVFlbi1GZTBZS0NZcXVNZkRoT003TGZUUTNNTjZ1Rl9UYTI4WVJxSHc",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785359132.0,
-        "id": "1810fbc2bd"
     }
 ]
