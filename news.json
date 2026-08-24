@@ -112,6 +112,24 @@
         "timestamp": 1787577900.0
     },
     {
+        "id": "228775f123",
+        "title_fa": "هشدار مستقیم واشنگتن به خریداران نفت ایران: قطع رابطه یا تحریم",
+        "title_en": "Bessent says new US sanctions aim to block all potential sources of revenue for Iran",
+        "summary": [
+            "اسکات بست، وزیر خزانه‌داری آمریکا، استراتژی فلج‌کننده اقتصادی علیه تهران را کلید زد تا تمام مسیرهای درآمد ارزی را مسدود کند.",
+            "پیام آمریکا به کشورهای طرف معامله با ایران شفاف است: ادامه تجارت با تهران مساوی با تحریم کامل و حذف از سیستم مالی ایالات متحده خواهد بود."
+        ],
+        "impact": "تنگ‌تر شدن حلقه صادرات نفت ایران و تشدید جهش قیمت دلار در بازار تهران.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/bessent-says-new-us-sanctions-aim-to-block-all-potential-sources-of-revenue-for-iran/ar-AA2aNsuC",
+        "clean_url": "https://www.msn.com/en-us/news/world/bessent-says-new-us-sanctions-aim-to-block-all-potential-sources-of-revenue-for-iran/ar-AA2aNsuC",
+        "image": "http://www.bing.com/th?id=ONUT.YvNHIqqbqCheHQ5_hrrJSQ&pid=News",
+        "timestamp": 1787571184.0
+    },
+    {
         "id": "8de84a1466",
         "title_fa": "ریزش تاریخی ریال همزمان با آماده‌سازی «دی‌دی اقتصادی» واشنگتن",
         "title_en": "Iran's Currency Plunges As Washington Readies 'Economic D-Day'",
@@ -5535,23 +5553,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785381900.0,
         "id": "0a22023f1b"
-    },
-    {
-        "id": "f8f8ee9c54",
-        "title_fa": "ترامپ وعده ضربه سخت به ایران بعد از حمله بالستیک",
-        "title_en": "Trump retaliates after Iran attack as expert warns regime is growing more dangerous",
-        "summary": [
-            "CENTCOM می‌گوید همه موشک‌های بالستیک به نیروهای آمریکا در اردن رهگیری شدند و تلفات گزارش نشده؛ اما همین «موفقیت نسبی دفاعی» کافی است تا ترامپ وارد فاز تلافی سخت شود.",
-            "وعده «زدن ضربه سنگین» یعنی واشنگتن می‌خواهد هزینه حمله را از میدان درگیری به سطح تصمیم‌گیری و توان ایران منتقل کند، نه فقط در همان لحظه پاسخ بدهد."
-        ],
-        "impact": "احتمال افزایش عملیات‌های تلافی‌جویانه آمریکا علیه اهداف مرتبط با ایران بالا می‌رود و ریسک دور جدید تشدید در منطقه بیشتر می‌شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Fox News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-retaliates-after-iran-attack-as-expert-warns-regime-is-growing-more-dangerous/ar-AA293qZR",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-retaliates-after-iran-attack-as-expert-warns-regime-is-growing-more-dangerous/ar-AA293qZR",
-        "image": "http://www.bing.com/th?id=ONUT.kQjLa-VTGBoGWonXJSZeuw&pid=News",
-        "timestamp": 1785380429.0
     }
 ]
