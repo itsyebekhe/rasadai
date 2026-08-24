@@ -167,6 +167,45 @@
         "timestamp": 1787565600.0
     },
     {
+        "id": "f3507db6fe",
+        "title_fa": "جایزه ۱۰ میلیون دلاری آمریکا برای لو دادن فرماندهان سپاه",
+        "title_en": "US Iran War News Live Updates: US offers up to $10 million for information on senior IRGC figures",
+        "summary": [
+            "سنتکام با بازرسی، توقیف و تغییر مسیر ۷۱ شناور تجاری، محاصره دریایی ایران را وارد فاز عملیاتی شدیدتر کرده است.",
+            "وزارت خارجه آمریکا جایزه ۱۰ میلیون دلاری برای دریافت اطلاعات از ۵ فرمانده کلیدی سپاه تعیین کرد.",
+            "این اقدام مستقیماً فرماندهان ارشد واحدهای پهپادی، سایبری، اطلاعاتی و مقر خاتم‌الانبیا مانند احمد وحیدی و سعید آقاجانی را هدف قرار داده است.",
+            "واشنگتن هم‌زمان با فلج کردن ناوگان تجاری، فلج‌سازی اتاق فرماندهی سپاه را دنبال می‌کند."
+        ],
+        "impact": "ضربه مستقیم به شبکه فرماندهی سپاه و مسدود شدن مسیرهای تجارت دریایی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-donald-trump-strait-of-hormuz-middle-east-conflict-masoud-pezeshkian-asim-munir-visit-tehran-warning-latest-news/liveblog/133449725.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-donald-trump-strait-of-hormuz-middle-east-conflict-masoud-pezeshkian-asim-munir-visit-tehran-warning-latest-news/liveblog/133449725.cms",
+        "image": "https://static.toiimg.com/thumb/msid-133449725,width-1280,height-720,imgsize-496736,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+        "timestamp": 1787564520.0
+    },
+    {
+        "id": "705a10e874",
+        "title_fa": "اولتیماتوم واشنگتن به شرکای تجاری تهران؛ قطع رابطه یا تحریم",
+        "title_en": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran",
+        "summary": [
+            "اسکات بسنت، وزیر خزانه‌داری آمریکا، به تمامی کشورهای طرف معامله با ایران هشدار داد هرچه سریع‌تر روابط مالی خود را قطع کنند.",
+            "طرح «روز دی اقتصادی» دونالد ترامپ با هدف جداسازی کامل ایران از سیستم مالی جهانی و بدون ایجاد شوک ناگهانی به بازار نفت طراحی شده است.",
+            "واشنگتن مهلت کوتاهی به تجار و خریداران نفت داده تا پیش از به‌کارگیری تحریم‌های ثانویه و مسدودسازی حساب‌ها، از بازار ایران خارج شوند."
+        ],
+        "impact": "انسداد آخرین شریان‌های ارزآوری ایران و خروج شتابان شرکای تجاری منطقه‌ای.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Associated Press News",
+        "url": "https://apnews.com/article/iran-rial-currency-bessent-trade-august-24-2026-e367634d8853c8fa4a341132cd577f31",
+        "clean_url": "https://apnews.com/article/iran-rial-currency-bessent-trade-august-24-2026-e367634d8853c8fa4a341132cd577f31",
+        "image": "https://dims.apnews.com/dims4/default/74b899c/2147483647/strip/true/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https://assets.apnews.com/0c/94/cbc970464ba8bfbc6042dd7cdd78/the-ap-default-image-2026.png",
+        "timestamp": 1787560080.0
+    },
+    {
         "id": "4d14910c1d",
         "title_fa": "واکنش بازارهای نوظهور به تحریم‌های ایران؛ ثبات رند در اوج چندماهه",
         "title_en": "South African rand holds near multi-month high as Iran sanctions loom",
@@ -5516,42 +5555,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785389787.0,
         "id": "562def4889"
-    },
-    {
-        "id": "0bea061673",
-        "title_fa": "چرا ایران نمی‌تواند جنگِ بی‌پایان را دوام بیاورد",
-        "title_en": "Why Iran Cannot Fight a Forever War",
-        "summary": [
-            "به هم زدن مسیرهای انرژی و بالا بردن هزینه برای آمریکا و متحدان، توان واقعی ایران را نشان می‌دهد؛ اما «جنگ دائمی» نیازمند پایدار بودن منابع، تولید و زنجیره پشتیبانی است.",
-            "مسئله این نیست که ایران قدرت ایجاد اختلال دارد یا نه؛ مشکل، نگه‌داشتن یک وضعیت دائمیِ پرهزینه بدون فرسایش اقتصادی، لجستیکی و سیاسی است."
-        ],
-        "impact": "بحث «ماندگاری جنگ» را از میدانِ توان ضربه، به میدانِ محدودیت‌های فرسایشی می‌برد و احتمال معامله/تغییر الگوی درگیری را پررنگ‌تر می‌کند.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/07/30/iran-america-hormuz-forever-war/",
-        "clean_url": "https://time.com/article/2026/07/30/iran-america-hormuz-forever-war",
-        "image": "http://www.bing.com/th?id=ONUT.RI0Ai-UA0kKsfYbUnk2rVQ&pid=News",
-        "timestamp": 1785387600.0
-    },
-    {
-        "title_fa": "از سرگیری حملات آمریکا علیه ایران؛ نگرانی از گسترش جنگ",
-        "title_en": "US launches fresh strikes on Iran after days-long pause, amid fears the war is widening",
-        "summary": [
-            "طبق گزارش گاردین، آمریکا پس از یک وقفه چندروزه، حملات تازه علیه ایران را شروع کرده است؛ این پیام مستقیم برای کاهش یا مهار تنش نیست، بلکه ادامه/تشدید اقدام نظامی محسوب می‌شود.",
-            "این حملات در چارچوب «ترس از گسترش جنگ» مطرح شده‌اند؛ یعنی هدف‌گذاری و پیامدهای میدانی می‌تواند از سطح محدود به سمت دامنه گسترده‌تر حرکت کند.",
-            "توضیح مشخصی از اهداف یا نوع سامانه‌های درگیر در متن ارائه نشده، بنابراین ارزیابی اثرگذاری فوری به شکل دقیق فقط بر اساس واقعیت «از سرگیری حمله پس از وقفه» ممکن است."
-        ],
-        "impact": "بازگشت حملات پس از وقفه چندروزه ریسک تشدید سریع را بالا می‌برد و می‌تواند چرخه پاسخ‌متقابل منطقه‌ای را فعال کند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnVOeXVGanRXY1VyT01TUlVGZTNxSjlDR05vcTlHcjdRNFU5OFJIRnZSd3RsV3VtNVpCY1lua05jV0F4cnltUlZhek5iYVZTeXFOLUpqaHpjSWdhbGVRZENRR0dHT1RrSTZ6M0l5d0c0RHMwOXFnYjNFcmJ0SFdSTURlU0NPdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSnVOeXVGanRXY1VyT01TUlVGZTNxSjlDR05vcTlHcjdRNFU5OFJIRnZSd3RsV3VtNVpCY1lua05jV0F4cnltUlZhek5iYVZTeXFOLUpqaHpjSWdhbGVRZENRR0dHT1RrSTZ6M0l5d0c0RHMwOXFnYjNFcmJ0SFdSTURlU0NPdw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785381900.0,
-        "id": "0a22023f1b"
     }
 ]
