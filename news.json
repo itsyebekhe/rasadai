@@ -130,6 +130,25 @@
         "timestamp": 1787505217.0
     },
     {
+        "id": "ebb4178b7a",
+        "title_fa": "باج‌گیری تهران در تنگه هرمز و حمله مالی تازه آمریکا",
+        "title_en": "Iran’s Latest Hormuz Threat Meets a Bond Market Already Near Breaking Point",
+        "summary": [
+            "کمیسیون امنیت ملی مجلس طرح دریافت عوارض از کشتی‌های عبوری از تنگه هرمز را تصویب کرد؛ تلاشی صریح برای فشار بر مسیرهای انرژی جهان.",
+            "وزارت خزانه‌داری آمریکا تدارک سنگین‌ترین هجوم مالی و تحریمی علیه شبکه نفتی و تجاری ایران را کامل کرده است.",
+            "محسن رضایی کشورهای همکار با فشار تحریمی آمریکا را تهدید کرد، در حالی که نوسان در تنگه هرمز بازار جهانی نفت را ملتهب می‌کند."
+        ],
+        "impact": "تنگ‌تر شدن قفل تحریمی آمریکا و افزایش شدید ریسک ترانزیت نفت در خلیج فارس.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Yahoo Finance",
+        "url": "https://finance.yahoo.com/energy/articles/iran-latest-hormuz-threat-meets-024147324.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/iran-latest-hormuz-threat-meets-024147324.html",
+        "image": "http://www.bing.com/th?id=ONUT.YIk2mNy4kqYOqB03bFvbfQ&pid=News",
+        "timestamp": 1787504400.0
+    },
+    {
         "id": "a9afd4c26f",
         "title_fa": "هشدار مایک پنس: آمریکا برای اقدام حتمی علیه ایران آماده شود",
         "title_en": "Pence says US must prepare for ‘inevitable’ action against Iran",
@@ -5539,24 +5558,5 @@
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785337031.0,
         "id": "5128654000"
-    },
-    {
-        "title_fa": "ترامپ در دیدار با نتانیاهو وعده حمله سخت به ایران داد",
-        "title_en": "Trump vows to hit Iran hard as he meets with Netanyahu",
-        "summary": [
-            "طبق گزارش الجزیره، دونالد ترامپ در دیدار با بنیامین نتانیاهو وعده «زدن محکم» به ایران را مطرح کرده است؛ این پیام، سطح تهدید مستقیم را بالا می‌برد.",
-            "این نوع اظهارات معمولاً با آماده‌سازی برای فشار یا اقدام خارجی هم‌زمان می‌شود، اما متن گزارش جزئیات عملیات، زمان‌بندی یا نوع اقدام را ارائه نمی‌کند؛ بنابراین نمی‌توان فراتر از تهدید لفظی نتیجه‌سازی کرد.",
-            "هم‌پوشانی پیام‌های ترامپ و نتانیاهو نشان می‌دهد هماهنگی سیاسی میان واشینگتن و تل‌آویو برای تشدید فشار روی تهران در دستور کار است و می‌تواند به افزایش ریسک امنیتی منطقه‌ای منجر شود."
-        ],
-        "impact": "افزایش لحن تهدیدآمیز واشینگتن/تل‌آویو می‌تواند فضای ریسک را بالا ببرد و زمینه تشدید فشارهای خارجی و بی‌ثباتی محیطی برای تصمیم‌گیری در ایران را فراهم کند.",
-        "tag": "تشدید",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMjBFSGpuMjV3TGl0TUtZdlRCWERoc29wQU03XzJYbC1LWktVZks2ZGdpMGpUM1JFbmJLa05yQXU5QTE3WU80b1dTU18wUWdldFE4dGRTSlItYWlnNVB0TGpEa2ZGTWVCVGlJbWI4ZjVLVU5hVUtrX09OOEpacFczU1kzaDUwMThxcUR4eUZLenZaanJDODlFT2F1bk9rNGxyemtjddIBqgFBVV95cUxQOEkyVFAxd2oycDhpYVM1ZDdUYmVSaTVWMTFIQ3RZb0NZWXBmTWtFRWg2cmJrX01ISVVZSjloX3lvV2g0a3pXZTFQTDU3Z0wyTmNEOFJNd3ZiSWMtNTE1anJlMXU0SHJ1blctOFkyaFVvYVJ6UVJhQldxZG1ESzZFWllEYmFLbkRYbHg3UE9rWmdvcGY1c0s4ZHdlRERIdHUweldFM0NFd0VMZw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785335574.0,
-        "id": "fdfba2457a"
     }
 ]
