@@ -186,6 +186,25 @@
         "timestamp": 1787550360.0
     },
     {
+        "id": "f81c2bf11f",
+        "title_fa": "بزرگ‌ترین هجوم مالی آمریکا علیه ایران؛ هدف‌گیری مستقیم شریان‌های نفتی پکن",
+        "title_en": "What the latest US financial threats against Iran mean for China",
+        "summary": [
+            "واشنگتن سنگین‌ترین کارزار فشار مالی را کلید زده تا با هدف قرار دادن شرکای تجاری تهران، تمامی درآمدهای ارزی باقی‌مانده را مسدود کند.",
+            "تمرکز اصلی این تحریم‌های فلج‌کننده بر قطع شریان صادرات نفت ایران به چین و بستن کانال‌های دور زدن تحریم‌هاست.",
+            "این اقدام خط خط قرمزی برای خریداران نفت ایران رسم می‌کند و ریسک همکاری تجاری با تهران را به حداکثر می‌رساند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه خفگی اقتصادی، سقوط بیشتر ارزش ریال و توقف یا کُند شدن شدید صادرات نفت به چین.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/video/watch/idRW739424082026RP1/",
+        "clean_url": "https://www.reuters.com/video/watch/idRW739424082026RP1",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787541540.0
+    },
+    {
         "id": "530e64fc4f",
         "title_fa": "تدارک آمریکا برای اجرای سنگین‌ترین هجوم مالی علیه ایران",
         "title_en": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
@@ -5534,24 +5553,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-retaliates-after-iran-attack-as-expert-warns-regime-is-growing-more-dangerous/ar-AA293qZR",
         "image": "http://www.bing.com/th?id=ONUT.kQjLa-VTGBoGWonXJSZeuw&pid=News",
         "timestamp": 1785380429.0
-    },
-    {
-        "title_fa": "حمله هوایی آمریکا به ایران پس از گزارش تهدید جدید ترامپ",
-        "title_en": "U.S. strikes Iran after Trump reportedly issues menacing new threat",
-        "summary": [
-            "طبق گزارش NBC News، آمریکا در پی یک تهدید «جدی و تهدیدآمیز» که گفته می‌شود ترامپ مطرح کرده، به ایران حمله هوایی انجام داده است.",
-            "این خبر به پیوند مستقیم میان تشدید لحن و اقدام نظامی اشاره می‌کند و نشان می‌دهد واشینگتن حاضر است فاصله بین تهدید سیاسی و ضربه عملی را کوتاه کند.",
-            "چون متن فقط به «ضربات» اشاره کرده و جزئیات هدف، میزان خسارت یا تلفات را ارائه نمی‌کند، ارزیابی دقیق از اثر عملیاتی آن فعلاً محدود است."
-        ],
-        "impact": "این اقدام، نشانه تشدید فوری سطح تقابل آمریکا و ایران است و ریسک چرخه پاسخ متقابل و بی‌ثباتی منطقه‌ای را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/world/middle-east/us-thwarts-iranian-missile-attack-launches-strikes-saudi-arabia-rcna589773",
-        "clean_url": "https://www.nbcnews.com/world/middle-east/us-thwarts-iranian-missile-attack-launches-strikes-saudi-arabia-rcna589773",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785379440.0,
-        "id": "20c0c6a712"
     }
 ]
