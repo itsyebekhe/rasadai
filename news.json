@@ -1,5 +1,23 @@
 [
     {
+        "id": "7a11a019e3",
+        "title_fa": "سایه ترس از تحریم‌های ایران بر بازار بورس هند",
+        "title_en": "Indian shares open tad higher, but Iran sanction fears weigh",
+        "summary": [
+            "بازار سهام هند تحت تأثیر هراس از تحریم‌های جدید آمریکا علیه تجارت با ایران، با کندی رشد مواجه شد.",
+            "پالایشگاه‌های هند و معامله‌گران آسیایی برای درامان ماندن از مجازات‌های مالی ترامپ، عقب‌نشینی از ریسک را آغاز کرده‌اند."
+        ],
+        "impact": "احتمال افت بیشتر صادرات نفت به آسیا و کاهش درآمد ارزی کشور.",
+        "tag": "ارز",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787538120.0
+    },
+    {
         "id": "7d9d28424c",
         "title_fa": "عقب‌نشینی قیمت نفت در آستانه تحریم‌های شدید آمریکا",
         "title_en": "Oil prices fall as investors await 'toughest' U.S. sanctions on Iran",
@@ -16,6 +34,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYmM1OWVNT01lQlNPWmo3Zk1RM1UtdE5HcXNBTHEtRFNNZS14b0prb2xkc1A3ZHNKY3pvR3dxcE5COWlFakFUSWM1SW5ldjhEYjNEY1Q5eUF6SEtXV1FYNGs4UzE5ajRBTGJpaG1scm9mOVZENzdVTUxVQ0RCTWNLaHcyZjFIQk3SAYwBQVVfeXFMTU9JYUFXTl91WGZhNXhua1hCZTF4ME5nc2hHRGVBVDJXYTVBMXlOLURJTG8teFdKRnhSTC1NdkVIM0FYU2xObWpPa2RMTEg5eS1vTHR4dmZuVkF5bUtLWmlDUHRXenQ5dVJ4QXZFODZKM3oyUlpraTJneVpGLUlyMFRYUEZKQTJTYVlTNEY",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787533140.0
+    },
+    {
+        "id": "8bbc6e3bd8",
+        "title_fa": "طرح تحریمی «روز دی» آمریکا و بروز شکاف در تهران",
+        "title_en": "Iran war ‘entering the endgame,’ Bessent says as he’s set to unveil ‘economic D-Day’ sanctions",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا از آغاز سهمگین‌ترین هجوم مالی تاریخ علیه ایران و خریداران نفت آن خبر داد.",
+            "واشنگتن قصد دارد تمام مسیرهای درآمد ارزی تهران را ببندد و کشورها را بین معامله با ایران یا آمریکا مخیر کند.",
+            "هم‌زمان شکاف در ساختار قدرت ایران بالا گرفته؛ مسعود پزشکیان ادامه جنگ را غیرممکن دانسته اما تندروها بر تهدید بستن تنگه هرمز اصرار دارند."
+        ],
+        "impact": "توقف کامل خریدهای نفتی خریداران آسیایی و فلج شدن منابع ارزی باقی‌مانده.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/24/world/live-news/iran-war-trump",
+        "clean_url": "https://www.cnn.com/2026/08/24/world/live-news/iran-war-trump",
+        "image": "http://www.bing.com/th?id=ONUT.2iWD66wLfdgpvO69Eg9v8A&pid=News",
+        "timestamp": 1787522700.0
     },
     {
         "id": "b9fa83d14e",
@@ -5520,43 +5557,5 @@
         "image": "http://www.bing.com/th?id=ONUT.6tp0MBizH0UswHX1vgANJg&pid=News",
         "timestamp": 1785337860.0,
         "id": "961a7212fa"
-    },
-    {
-        "title_fa": "تهدید ترامپ برای حمله «سخت» به ایران پس از حمله موشکی به دارایی‌های آمریکا",
-        "title_en": "Trump threatens to hit Iran ‘hard’ following missile attack on U.S. assets",
-        "summary": [
-            "طبق گزارش واشنگتن پست، ترامپ بعد از حمله موشکی به دارایی‌های آمریکا تهدید کرده که ایران را «سخت» هدف قرار می‌دهد؛ این یعنی رژیم با سناریوی تشدید سریع تنش روبه‌رو است.",
-            "این تهدید بیشتر بر فشار خارجی و هزینه‌سازی احتمالی برای بازیگران ایرانی تکیه دارد و می‌تواند اهرم ریسک امنیتی را برای مهار گزینه‌های آینده تهران بالا ببرد.",
-            "محتوای گزارش صرفاً در سطح تهدید و واکنش سیاسی باقی می‌ماند و جزئیات مربوط به اقدام مشخص، زمان‌بندی یا نوع پاسخ ارائه نشده است؛ بنابراین اثرگذاری اصلی آن فعلاً از جنس انتظار تشدید تنش است."
-        ],
-        "impact": "این تهدید، احتمال مرحله بعدی از فشار و درگیری مستقیم/غیرمستقیم را افزایش می‌دهد و نااطمینانی راهبردی برای تصمیم‌گیری داخل ایران را بیشتر می‌کند.",
-        "tag": "تشدید",
-        "urgency": 7,
-        "sentiment": -0.55,
-        "source": "The Washington Post",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeHp4X1hONlVjM0VkRzlxeHQ1eUQ5X0ZTY1pRVHBmUThjc2o1RjlMVlRuSkREbXZNbUl4b3R2dGk5Q0otMTlCbVo3UmpFVWN6cUEwLXZpRUxJbGxyU1pBbE5UZlZVLWpmektjZ1FRQmJYeWpRa0I5bWRWZ0ZEaFJZOUt5bm11T3BJZmhmSjVvN3I5MWJJMllTY0tKS3lsbERiOWRDTTBuY0M3c2FJWmpqanN2N0lzb0tGc3BWYU1TQS1raHc0ZWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeHp4X1hONlVjM0VkRzlxeHQ1eUQ5X0ZTY1pRVHBmUThjc2o1RjlMVlRuSkREbXZNbUl4b3R2dGk5Q0otMTlCbVo3UmpFVWN6cUEwLXZpRUxJbGxyU1pBbE5UZlZVLWpmektjZ1FRQmJYeWpRa0I5bWRWZ0ZEaFJZOUt5bm11T3BJZmhmSjVvN3I5MWJJMllTY0tKS3lsbERiOWRDTTBuY0M3c2FJWmpqanN2N0lzb0tGc3BWYU1TQS1raHc0ZWc",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785337078.0,
-        "id": "08c28b59e9"
-    },
-    {
-        "title_fa": "تحریم آمریکا ۸ نفتکش و ۱۰ نهاد مرتبط با تجارت نفت ایران",
-        "title_en": "US sanctions 8 tankers, 10 entities for alleged role in Iranian oil trade",
-        "summary": [
-            "آمریکا ۸ نفتکش و ۱۰ نهاد را به بهانه نقش ادعایی در تجارت نفت ایران تحریم کرد؛ یعنی فشار مستقیم روی زنجیره حمل‌ونقل و معامله‌گری برای صادرات نفت. ",
-            "این اقدام با هدف محدود کردن کانال‌های عملیاتی فروش و انتقال درآمدهای ارزی اعمال شده و می‌تواند هزینه و ریسک تجارت را بالا ببرد (حتی اگر در کوتاه‌مدت صادرات از نظر حجم کامل متوقف نشود). ",
-            "اثر سیاسی داخلی، تقویت فشار اقتصادی و تنگ‌تر شدن فضای کسب‌وکارهای مرتبط با نفت است؛ جایی که عدم‌کفایت حکمرانی اقتصادی خود را در اختلال‌های مالی و افزایش ریسک‌های سیستماتیک نشان می‌دهد."
-        ],
-        "impact": "این تحریم‌ها به‌طور ساختاری ظرفیت رژیم برای تبدیل نفت به پول سریع‌تر و امن‌تر را محدود می‌کند و فشار بر اقتصاد و اجرای سیاست‌های داخلی را تشدید خواهد کرد.",
-        "tag": "اقتصادی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "Anadolu Ajansı",
-        "url": "https://www.aa.com.tr/en/americas/us-sanctions-8-tankers-10-entities-for-alleged-role-in-iranian-oil-trade/4012805",
-        "clean_url": "https://www.aa.com.tr/en/americas/us-sanctions-8-tankers-10-entities-for-alleged-role-in-iranian-oil-trade/4012805",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785337031.0,
-        "id": "5128654000"
     }
 ]
