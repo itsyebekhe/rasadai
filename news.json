@@ -1,5 +1,24 @@
 [
     {
+        "id": "e26ebfda49",
+        "title_fa": "روز دی اقتصادی ترامپ؛ جهش بی‌سابقه دلار و تحریم‌های خردکننده",
+        "title_en": "Iran's Rial Slump Sets Stage for Donald Trump's Economic 'D-Day'",
+        "summary": [
+            "سقوط تاریخی ریال و ثبت رکوردهای جدید، مقدمه شروع فاز نهایی فشار اقتصادی واشنگتن موسوم به 'روز دی' است.",
+            "ترامپ دو خط قرمز اصلی تعیین کرده: توقف کامل تسلیحات هسته‌ای و امنیت مطلق کشتیرانی در تنگه هرمز.",
+            "جهش شدید تورمی حاصل از این تحریم‌ها، پتانسیل جرقه اعتراضات خیابانی تازه در کشور را به اوج رسانده است."
+        ],
+        "impact": "سقوط ارزش پول ملی و تشدید تحریم‌ها، معیشت عمومی را در آستانه فروپاشی و تلاطم شدید قرار داده است.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/iran-rial-trump-d-day-economic-sanctions-war-12358349",
+        "clean_url": "https://www.newsweek.com/iran-rial-trump-d-day-economic-sanctions-war-12358349",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/08/GettyImages-2285414538.jpg?w=1200&crop=1",
+        "timestamp": 1787588160.0
+    },
+    {
         "id": "2ab5bf9f17",
         "title_fa": "رونمایی آمریکا از «دی‌دی اقتصادی» برای فلج‌سازی کامل مالی ایران",
         "title_en": "What to expect as Iran braces for new US economic measures amid war",
@@ -35,6 +54,24 @@
         "clean_url": "https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html",
         "image": "https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-facebookJumbo.jpg",
         "timestamp": 1787583840.0
+    },
+    {
+        "id": "3d96e89283",
+        "title_fa": "جنگ روانی تهران؛ انتشار ویدئوی تهدید پسر ترامپ",
+        "title_en": "Iran broadcasts sickening video claiming Barron Trump is 'fully monitored,' places $10M bounty on his head",
+        "summary": [
+            "رسانه‌های دولتی با پخش ویدئویی از ادعای رصد بارون ترامپ و تعیین جایزه ۱۰ میلیون دلاری، خط تهدید شخصی را فعال کردند.",
+            "این مانور تبلیغاتی در آستانه فشار حداکثری، اوج بی‌اثری ابزارهای دیپلماتیک و شتاب‌زدگی در جنگ روانی را برپرملا می‌کند."
+        ],
+        "impact": "تنش شخصی و تهدید خانواده ترامپ می‌تواند واکنش‌های بسیار تندتر و غیرقابل‌پیش‌بینی واشنگتن را به همراه داشته باشد.",
+        "tag": "جنگ روانی",
+        "urgency": 7,
+        "sentiment": -0.75,
+        "source": "New York Post",
+        "url": "https://nypost.com/2026/08/24/us-news/iran-broadcasts-sickening-video-claiming-barron-trump-is-fully-monitored-places-10m-bounty-on-his-head/",
+        "clean_url": "https://nypost.com/2026/08/24/us-news/iran-broadcasts-sickening-video-claiming-barron-trump-is-fully-monitored-places-10m-bounty-on-his-head",
+        "image": "https://nypost.com/wp-content/uploads/sites/2/2026/08/Barron-2.jpg?quality=75&strip=all&w=1200",
+        "timestamp": 1787581320.0
     },
     {
         "id": "5998f1476d",
@@ -92,6 +129,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ucTVkR1JFeHdZeGl6cU94LWY1dnpUYm1fc1kzbjdMYm5uaS1rUFRfZ3oxd25UTS05eDB0b1VYTzd3a2NVOWV0T2xEVF9obmpKOVlXRlFyNHhkOGRMYmE3bEZyUXNjTzlnQ0hsZ2d5QXljYXlsUXVPejZ1SndUQzjSAYIBQVVfeXFMUDRPcjBBVzdnaTAyTlZWb0FHQWpIZ2lsN0hCbkJpRllpY0tXX1B4OGxINGQ5cU9HSkJEaUt5OUQ2cURYWEFWQTVvUVVuNXdBMVhRdkxXbWUtNnhNbWhGUlZxU1A3NDJzeVBzVEowZGowa3huVERxanZvUXYwUlpvek9nQQ",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787567593.0
+    },
+    {
+        "id": "534d048a64",
+        "title_fa": "پایان ضرب‌الاجل ۶۰ روزه؛ تغییر استراتژی واشنگتن به تقابل مطلق",
+        "title_en": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
+        "summary": [
+            "با پایان مهلت ۶۰ روزه دیپلماسی، کاخ سفید تمامی کانال‌های گفت‌وگو را مسدود و فاز اجرای کامل محاصره اقتصادی را کلید زد.",
+            "استراتژی جدید ترامپ عبور از چانه‌زنی سیاسی و قطع کامل تمامی شریان‌های درآمدی حکومت ایران است."
+        ],
+        "impact": "بسته شدن پنجره دیپلماسی ریسک درگیری مستقیم نظامی و انسداد کامل اقتصادی را به اوج رسانده است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "OilPrice.com",
+        "url": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
+        "clean_url": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
+        "image": "http://www.bing.com/th?id=ONUT.PUNeGYFqc5u80Od0Nx3_OA&pid=News",
+        "timestamp": 1787565600.0
     },
     {
         "id": "4d14910c1d",
@@ -5498,61 +5553,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785379440.0,
         "id": "20c0c6a712"
-    },
-    {
-        "title_fa": "سنتکام: حملات سنگین آمریکا به اهداف سپاه پاسداران پس از تلاش برای حمله موشکی بالستیک ایران به نیروهای آمریکایی",
-        "title_en": "U.S. Strikes IRGC Targets After Attempted Iranian Attacks",
-        "summary": [
-            "سنتکام اعلام کرد آمریکا چهارشنبه «حملات سنگین» را در واکنش به تلاش برای حمله موشکی بالستیک ایران به نیروهای آمریکایی انجام داد و گفت «ده‌ها» هدف سپاه پاسداران را هدف گرفت؛ این حملات در پی شلیک‌های سه‌شنبه ایران به پایگاه‌های آمریکا در اردن و همچنین حمله به کشتی‌ها در تنگه هرمز صورت گرفت.",
-            "آمریکا تأکید کرد همه موشک‌های ایران رهگیری شدند و اهداف مورد اصابت شامل «مراکز فرماندهی نظامی، تأسیسات موشک و پهپاد، سامانه‌های رصد ساحلی و دفاع، و توانمندی‌های دریایی» بوده است؛ هم‌زمان، شدت درگیری‌ها یک روز قبل‌تر با «حملات مشترک آمریکا و عربستان» علیه نیروهای نیابتی ایران در عراق گسترش یافته بود.",
-            "با وجود ادعاهای مربوط به ازسرگیری گفت‌وگوها و توقف چند روزه حملات، درگیری دوباره شعله‌ور شد؛ ترامپ از «مذاکرات بسیار دوستانه» سخن گفت (تهران گفت گفت‌وگویی در کار نیست) و خبرگزاری Axios نیز از پیام عربستان برای تمایل به کاهش تنش خبر داد، اما حملات چهارشنبه نشان داد مانعِ عملی برای ادامه چرخه انتقام وجود ندارد."
-        ],
-        "impact": "این موج ضربات مستقیم و «سنگین» به زیرساخت‌های موشکی، پهپادی و فرماندهی سپاه، توان واکنش سریع و پیوستگی عملیات فرامرزی آن را در کوتاه‌مدت محدود می‌کند و ریسک تشدید دوباره را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.6,
-        "source": "centcom.mil",
-        "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo",
-        "clean_url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785378775.0,
-        "id": "cf04feaa62"
-    },
-    {
-        "title_fa": "افزایش ریسک جنگ تمام‌عیار؛ حملات موشکی متقابل آمریکا و ایران دوباره تشدید شد و چند کشور هم درگیر شدند",
-        "title_en": "Risk Of All-Out War Surges As U.S. And Iran Trade More Missile Strikes",
-        "summary": [
-            "آمریکا و ایران در پنج‌شنبه هر کدام «بَرج‌های» موشکی شلیک کردند و با بازگشت الگوی حملات تلافی‌جویانه، احتمال گسترش جنگ بار دیگر بالا رفت؛ امید به حل سریع مسئله عملاً کم‌رنگ شد.",
-            "دامنه درگیری منطقه‌ای شد: اردن برای دومین روز پیاپی موشک‌های ایرانی را رهگیری کرد؛ کویت از اصابت موشک در شمال کشور و یک کشته خبر داد؛ همچنین پهپادها در بندر مصر آتش‌سوزی ایجاد کردند و عربستان از شلیک گروه‌های شبه‌نظامی مورد حمایت ایران در عراق گفت.",
-            "حملات پس از آن رخ داد که فرماندهی مرکزی آمریکا از پایان یک «موج سنگین» حملات علیه ایران خبر داد؛ این عملیات در پاسخ به حمله موشکی ایران به یک پایگاه آمریکا در اردن انجام شد و واشنگتن مدعی شد ده‌ها هدف از جمله مراکز فرماندهی سپاه و تأسیسات موشک/پهپاد و نیز سایت‌های دیده‌بانی و دفاع ساحلی هدف گرفته شده‌اند."
-        ],
-        "impact": "بازگشت حملات موشکی متقابل و درگیری چند کشور، ریسک جهش به درگیری گسترده‌تر و درگیر شدن مستقیم دارایی‌های آمریکا و متحدانش را بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "HuffPost",
-        "url": "https://www.huffpost.com/entry/middle-east-flare-ups_n_6a6b0f6ce4b098352c30d0ba?origin=home-latest-news-unit",
-        "clean_url": "https://www.huffpost.com/entry/middle-east-flare-ups_n_6a6b0f6ce4b098352c30d0ba",
-        "image": "http://www.bing.com/th?id=ONUT.Ab_LkfKdGE-m9TnDpyi3iw&pid=News",
-        "timestamp": 1785377220.0,
-        "id": "fd192ddc1e"
-    },
-    {
-        "id": "679aa9112f",
-        "title_fa": "نظر آمریکایی‌ها درباره مدیریت ترامپ از ایران سرد شد",
-        "title_en": "How views on Trump's handling of Iran have shifted, according to a new AP-NORC poll",
-        "summary": [
-            "طبق نظرسنجی AP-NORC، بیشتر آمریکایی‌ها می‌گویند جنگ با ایران ارزش درگیری ندارد؛ یعنی افکار عمومی از مسیر «هزینه‌-فایده» به سمت تردید رفته است.",
-            "امتیاز تأیید ترامپ درباره ایران نسبت به ماه قبل کمی افت کرده؛ افت کوچک اما معنی‌دار، یعنی روایت رسمی سیاست فشار هنوز نتوانسته حمایت پایدار بسازد."
-        ],
-        "impact": "افزایش تردید افکار عمومی می‌تواند دست دولت آمریکا را برای تشدید فشار یا ادامه خط‌مشی پرریسک علیه ایران محدود کند.",
-        "tag": "سیاسی",
-        "urgency": 4,
-        "sentiment": -0.35,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/us--ap-poll-trump-iran-090624946.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us--ap-poll-trump-iran-090624946.html",
-        "image": "http://www.bing.com/th?id=ONUT.OvRxPOATI2IWALBjVoOocQ&pid=News",
-        "timestamp": 1785377160.0
     }
 ]
