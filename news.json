@@ -18,6 +18,24 @@
         "timestamp": 1787672220.0
     },
     {
+        "id": "8b9ba42776",
+        "title_fa": "افت قیمت نفت همزمان با تداوم حملات به نفت‌کش‌ها در عمان",
+        "title_en": "Iran oil prices fall 3% on de-escalation bet; tankers still getting hit",
+        "summary": [
+            "بازار با این ارزیابی که ترامپ جنگ اقتصادی را به درگیری مستقیم نظامی ترجیح می‌دهد، شاهد افت سه درصدی قیمت نفت بود.",
+            "هم‌زمان با تهدیدهای متقابل تهران، ناامنی در مسیر نفت‌کش‌ها در دریای عمان همچنان ادامه دارد."
+        ],
+        "impact": "کاهش درآمد نفتی ایران هم‌زمان با جهش هزینه‌های بیمه و حمل‌ونقل دریایی.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Tech Times",
+        "url": "https://www.msn.com/en-us/money/economy/iran-oil-prices-fall-3-on-de-escalation-bet-tankers-still-getting-hit/ar-AA2aTZOH",
+        "clean_url": "https://www.msn.com/en-us/money/economy/iran-oil-prices-fall-3-on-de-escalation-bet-tankers-still-getting-hit/ar-AA2aTZOH",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aTKwH.img?w=2624&h=1714&m=4&q=94",
+        "timestamp": 1787671586.0
+    },
+    {
         "id": "d921dd5954",
         "title_fa": "تکرار سناریوی هانوی؛ الگوی معامله‌گری ترامپ در پرونده‌های اتمی",
         "title_en": "Trump's risky deal: Midterm election-driven nuclear recognition fallout",
@@ -34,6 +52,24 @@
         "clean_url": "https://www.msn.com/en-xl/politics/government/trump-s-risky-deal-midterm-election-driven-nuclear-recognition-fallout/ar-AA2aUemu",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1MF1RI.img?w=500&h=500&m=4&q=80",
         "timestamp": 1787669040.0
+    },
+    {
+        "id": "85f05a3e47",
+        "title_fa": "مهلت مشروط واشنگتن به خریداران نفت ایران قبل از خفگی اقتصادی",
+        "title_en": "Even More Maximum Pressure on Iran",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا با اعطای مهلت زمانی به خریداران اصلی نفت ایران مثل چین، اعلام کرد تحریم‌های ثانویه به‌زودی اجرا می‌شوند.",
+            "تیم ترامپ قصد دارد بدون ایجاد شوک ناگهانی به سیستم مالی جهان، شریان‌های ارزی ایران را قطع کند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه خفگی اقتصادی و افت شدید درآمد نفتی ایران در هفته‌های پیش رو.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Atlantic",
+        "url": "https://www.theatlantic.com/national-security/2026/08/treasury-bessent-sanctions-iran-trump/688401/",
+        "clean_url": "https://www.theatlantic.com/national-security/2026/08/treasury-bessent-sanctions-iran-trump/688401",
+        "image": "http://www.bing.com/th?id=ONUT.TxvI60G1QL45rlMJIGfppA&pid=News",
+        "timestamp": 1787651160.0
     },
     {
         "id": "17105accde",
@@ -72,6 +108,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZGRndDR0cWE4YXJHVl9tV3k1YmhtbHl3RkdXWkRvUURnRHJTX25xMlFmLW1ncmJTOXhicFV4emJCVUEzSVJhbENwTk91dW1xU1VqM3pGdHZET2Vybzk3WnBDbUptN0N0VWlGZTRJbjRYN200bGxHSzBUXzhEZWc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787650789.0
+    },
+    {
+        "id": "60d9210c13",
+        "title_fa": "پروژه چابهار در لبه تیغ تحریم‌های ثانویه آمریکا",
+        "title_en": "US sanctions on Iran: Could India's trade and Chabahar plans take a hit?",
+        "summary": [
+            "تشدید فشار اقتصادی آمریکا، توافقات تجاری هند و توسعه بندر استراتژیک چابهار را با ریسک جریمه‌های سنگین مواجه کرده است.",
+            "دهلی‌نو برای عقب‌نشینی از پروژه‌های زیرساختی ایران تحت فشار شدید واشنگتن قرار دارد."
+        ],
+        "impact": "احتمال خروج هند از چابهار و فلج شدن یکی از مهم‌ترین راه‌های ترانزیتی ایران.",
+        "tag": "چابهار",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Firstpost",
+        "url": "https://www.firstpost.com/explainers/us-sanctions-iran-could-india-trade-and-chabahar-plans-take-hit-14040663.html",
+        "clean_url": "https://www.firstpost.com/explainers/us-sanctions-iran-could-india-trade-and-chabahar-plans-take-hit-14040663.html",
+        "image": "https://images.firstpost.com/uploads/2026/08/Abbas-Araqchi-India-May-2026-Reuters-2026-08-7a36c17f99e6473ba46fd865e5376be0-1200x675.jpg?im=FitAndFill,width=1200,height=675",
+        "timestamp": 1787650140.0
     },
     {
         "id": "c332aa0eea",
@@ -5500,63 +5554,5 @@
         "clean_url": "https://www.counterpunch.org/2026/07/31/washingtons-nuclear-double-standard-in-west-asia",
         "image": "https://www.counterpunch.org/wp-content/uploads/2025/06/Screenshot-2025-06-24-at-4.35.56-PM-953x630.png",
         "timestamp": 1785477420.0
-    },
-    {
-        "id": "8d2fb56b7e",
-        "title_fa": "خطای بزرگ ترامپ: نفهمیدن اولویت‌های تهران در جنگ",
-        "title_en": "This May Be Trump’s Biggest Error in the Iran War",
-        "summary": [
-            "این گزارش می‌گوید «بزرگ‌ترین اشتباه» دولت ترامپ در جنگ علیه ایران، نخواندن منطق تهران است: اینکه آمریکا چطور فکر می‌کند و تهران تا چه حد حاضر است هزینه و تنبیه را تحمل کند.",
-            "نمونه روشنش حمله بالستیک ایران به نیروهای آمریکا در اردن است؛ اقدامی که واشنگتن آن را «غافلگیرکننده» دانست، چون انتظار داشت آمریکا با فشار بیشتر، واکنش شتاب‌زده بگیرد—اما تهران بعد از توقف ۱۳ روز حملات آمریکا، فوراً فاز را تشدید کرد.",
-            "هم‌زمان، حملات مشترک آمریکا و عربستان علیه نیروهای نیابتی در عراق و اعلام علنی نخستین ضربه‌های نظامی ریاض دیده شد؛ این یعنی جنگ از سطح پیام و تهدید لفظی به میدان عملیاتی کشیده می‌شود و احتمال درگیر شدن بازیگران دیگر بالا می‌رود.",
-            "گزارش نتیجه می‌گیرد چرخه سوءبرداشت دو طرف ادامه دارد: یکی جنگ را با الگوی «انتقام-واکنش» می‌سنجد و دیگری آن را با منطق «بازدارندگی-خنثی‌سازی تهدید» پیش می‌برد."
-        ],
-        "impact": "اگر آمریکا اولویت‌های واقعی تهران را درست نفهمد، هر توقف یا تغییر فاز حملات می‌تواند با تشدید ناگهانی از سوی ایران پاسخ بگیرد و دام جنگ گسترده‌تر شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/07/iran-war-trump-misunderstandings/688117/",
-        "clean_url": "https://www.theatlantic.com/national-security/2026/07/iran-war-trump-misunderstandings/688117",
-        "image": "http://www.bing.com/th?id=ONUT.tJ4xQi-arKfJLNvE5bzHQQ&pid=News",
-        "timestamp": 1785473940.0
-    },
-    {
-        "id": "523ee803ae",
-        "title_fa": "ادعای ایران: دو کشتی در هرمز، حمله پهپادی به پایگاه کویت",
-        "title_en": "Live Updates: Iran claims strikes on 2 ships in Strait of Hormuz and drone attack on U.S. base in Kuwait",
-        "summary": [
-            "سپاه می‌گوید دو نفتکش را در تنگه هرمز با پوشش «همراهی هوایی آمریکا» هدف گرفته و چهار کشتی دیگر را برگردانده؛ یعنی تهران روی کنترل مسیر تجاری حساب باز کرده، نه صرفاً نمایش.",
-            "ایران همچنین از حمله پهپادی به تأسیسات آمریکا در پایگاه احمد الجابر کویت خبر داده، اما فرماندهی مرکزی آمریکا فعلاً واکنش رسمی نداده؛ فاصله بین «ادعا» و «تأیید» می‌تواند به افزایش ریسک خطای محاسباتی در ناوگان منجر شود."
-        ],
-        "impact": "افزایش تنش در هرمز و کویت، هزینه بیمه و ریسک کشتیرانی را بالا می‌برد و هر دو طرف را به پاسخ سریع‌تر هل می‌دهد.",
-        "tag": "نیابتی-نظامی",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "CBS News",
-        "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/",
-        "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base",
-        "image": "https://assets2.cbsnewsstatic.com/hub/i/r/2026/07/31/d12fb420-21ff-4c9f-a279-d192e95fab03/thumbnail/1200x630/67c5f688bf97466cdbc73c5b805b1a84/gettyimages-2287657615.jpg",
-        "timestamp": 1785471480.0
-    },
-    {
-        "id": "e2321fafa9",
-        "title_fa": "احتمال چرخش وزیر دفاع علیه کاهش حفاظت غیرنظامیان",
-        "title_en": "A Tragedy in Iran Might Persuade Hegseth to Change Course",
-        "summary": [
-            "پس‌لرزه دستور کار «عملیات سخت‌گیرانه» در پنتاگون: هگست برای بالا بردن لحن جنگی، بخش‌هایی از تیم‌های کاهش تلفات غیرنظامی را کوچک کرد و حالا پنتاگون دنبال برگشت بخشی از آن نقش‌هاست.",
-            "خبر مهم اینجاست که این چرخش، بعد از موج انتقادات و یک گزارش بازرس پنتاگون مطرح شده؛ گزارشی که می‌گوید کاهش جدی حمایت‌های مربوط به جلوگیری از آسیب به غیرنظامیان شاید با قوانین حمایت از غیرنظامیان در تضاد بوده است.",
-            "حادثه حمله هوایی اوایل جنگ با ایران (حدود ۱۷۰ کشته، بیشترشان کودک) در کنار «بازبینی راهبردی» داخلی، فشار سیاسی را بالا برده و دموکرات‌ها خواستار برگشت فوری مسیر شده‌اند.",
-            "اگر امضا نهایی هگست انجام شود، پنتاگون ممکن است به شکل نیمه‌برگشتی به چارچوب‌های سخت‌گیرانه‌تر در کنترل آسیب غیرنظامیان برگردد؛ تغییری که هم روی تاکتیک‌ها اثر می‌گذارد و هم روی مشروعیت سیاسی تصمیمات جنگی."
-        ],
-        "impact": "بازگشت بخشی از تیم‌های جلوگیری از تلفات غیرنظامی می‌تواند ریسک حملات پرخسارت را کم کند، اما در عین حال روند تصمیم‌گیری و سرعت عملیات را سخت‌تر می‌سازد.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/07/hegseth-pentagon-civilian-protections-iran/688110/",
-        "clean_url": "https://www.theatlantic.com/national-security/2026/07/hegseth-pentagon-civilian-protections-iran/688110",
-        "image": "http://www.bing.com/th?id=ONUT.lJmBUGTcU3GJXlcvL196xA&pid=News",
-        "timestamp": 1785470400.0
     }
 ]
