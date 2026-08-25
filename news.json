@@ -1,5 +1,23 @@
 [
     {
+        "id": "f9a57d8054",
+        "title_fa": "خطر ساخت بمب اتم در پی تشدید فشارهای آمریکا",
+        "title_en": "Iran is Being Driven Towards the Nuclear Threshold",
+        "summary": [
+            "تشدید حملات و فشارهای نظامی آمریکا، کارآمدی معاهده ان‌پتی را برای تصمیم‌گیران تهران به شدت زیر سوال برده است.",
+            "ادامه حملات می‌تواند تهران را به سمت خروج از پیمان‌های بین‌المللی و اعلام رسمی ساخت سلاح هسته‌ای سوق دهد."
+        ],
+        "impact": "احتمال تغییر ناگهانی دکترین هسته‌ای جمهوری اسلامی و عبور رسمی از آستانه ساخت بمب.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ZNetwork",
+        "url": "https://www.msn.com/en-us/news/other/iran-is-being-driven-towards-the-nuclear-threshold/ar-AA2aTXCP",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-is-being-driven-towards-the-nuclear-threshold/ar-AA2aTXCP",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aU00K.img?w=600&h=400&m=4&q=81",
+        "timestamp": 1787673600.0
+    },
+    {
         "id": "3e2ba35835",
         "title_fa": "تحریم هکرهای ایرانی؛ ضربه خزانه‌داری آمریکا به توان سایبری تهران",
         "title_en": "Treasury sanctions Iranian hackers tied to critical infrastructure breaches",
@@ -36,6 +54,24 @@
         "timestamp": 1787671586.0
     },
     {
+        "id": "d2effd14f2",
+        "title_fa": "کاهش قیمت جهانی نفت هم‌زمان با تشدید تحریم‌های ایران",
+        "title_en": "Oil Extends Retreat As U.S. Tightens Iran Sanctions",
+        "summary": [
+            "تحریم‌های تازه واشنگتن شریان‌های باقی‌مانده صادرات نفت ایران را هدف گرفته اما بازار نفت راه خود را رفته است.",
+            "افزایش عرضه از سوی سایر تولیدکنندگان، اثر بحران ایران را در بازار انرژی خنثی کرده و درآمد ارزی تهران را خفه می‌کند."
+        ],
+        "impact": "تعمیق شدید کسری بودجه در تهران و بی‌اثری ابزار نفتی برای باج‌گیری در بازار جهانی.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "WSJ",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWdfMGZLcWFBcUdhdTRZSnVQbmtRR1k0TGFKQWpCckpFTnlBREtHT1huekpWOXZHVjRwX01SWmxsYURQRDJzbmI0c3VQYjhaQVJlbXVhcURKOU4xQlNMekdKR3F6QTR2dEJoN3pDRHkzVkFtWTExWTZoQlc5cVhpbkdVSnY1eEx5MHBnS1RXbGd4dXNuOGF0OUE5RFkzdFB6b19xaG1oX0FEZGZPdEtEa25aYzlWdlNI?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORWdfMGZLcWFBcUdhdTRZSnVQbmtRR1k0TGFKQWpCckpFTnlBREtHT1huekpWOXZHVjRwX01SWmxsYURQRDJzbmI0c3VQYjhaQVJlbXVhcURKOU4xQlNMekdKR3F6QTR2dEJoN3pDRHkzVkFtWTExWTZoQlc5cVhpbkdVSnY1eEx5MHBnS1RXbGd4dXNuOGF0OUE5RFkzdFB6b19xaG1oX0FEZGZPdEtEa25aYzlWdlNI",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787670660.0
+    },
+    {
         "id": "d921dd5954",
         "title_fa": "تکرار سناریوی هانوی؛ الگوی معامله‌گری ترامپ در پرونده‌های اتمی",
         "title_en": "Trump's risky deal: Midterm election-driven nuclear recognition fallout",
@@ -52,6 +88,43 @@
         "clean_url": "https://www.msn.com/en-xl/politics/government/trump-s-risky-deal-midterm-election-driven-nuclear-recognition-fallout/ar-AA2aUemu",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1MF1RI.img?w=500&h=500&m=4&q=80",
         "timestamp": 1787669040.0
+    },
+    {
+        "id": "b3dfdef106",
+        "title_fa": "هشدار صریح ترامپ: نابودی انهدامی قایق‌های مین‌گذار در تنگه هرمز",
+        "title_en": "ترامپ: مین‌روبی تنگه هرمز تکمیل شد، هر تلاش تازه برای مین‌گذاری را هدف می‌گیریم",
+        "summary": [
+            "واشنگتن از پاکسازی کامل مین‌های جمهوری اسلامی در تنگه هرمز خبر داد و خط قرمزی جدید برای کشتیرانی کشید.",
+            "رصد لحظه‌ای تنگه هرمز و سایت‌های هسته‌ای نشان می‌دهد آمریکا سیاست تحمل صفر را اجرایی کرده است.",
+            "هر تلاش تازه سپاه برای ناامن‌سازی این آبراه، با پاسخ مستقیم و فوری نیروهای آمریکایی روبرو می‌شود."
+        ],
+        "impact": "تثبیت تسلط نظامی آمریکا بر تنگه هرمز و سلب ابزار فشار درگیری دریایی از تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608259785",
+        "clean_url": "https://www.iranintl.com/202608259785",
+        "image": "http://www.bing.com/th?id=ONUT.NNs3Bizqcq0RWxlmKV14ng&pid=News",
+        "timestamp": 1787656980.0
+    },
+    {
+        "id": "9ebc112ec7",
+        "title_fa": "مذاکرات ناامیدانه تهران و مسقط برای مدیریت تنگه هرمز",
+        "title_en": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East",
+        "summary": [
+            "جمهوری اسلامی پس از ماه‌ها انسداد خلیج فارس، دست به دامن عمان شده تا راهی برای گشایش آبرومندانه بیابد.",
+            "پذیرش مدیریت گام‌به‌گام نشان می‌دهد فشار نظامی آمریکا و ناتو تهران را مجبور به عقب‌نشینی مرحله‌ای کرده است."
+        ],
+        "impact": "احتمال بازگشایی مشروط و گام‌به‌گام خطوط کشتیرانی تحت نظارت بین‌المللی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-and-oman-hold-talks-on-managing-the-strait-of-hormuz-and-other-news-from-around-the-middle-east/ar-AA2aSQQL",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-and-oman-hold-talks-on-managing-the-strait-of-hormuz-and-other-news-from-around-the-middle-east/ar-AA2aSQQL",
+        "image": "http://www.bing.com/th?id=ONUT.mOQ-eJxe7zI-2hQPe7wCPQ&pid=News",
+        "timestamp": 1787654296.0
     },
     {
         "id": "85f05a3e47",
@@ -110,6 +183,24 @@
         "timestamp": 1787650789.0
     },
     {
+        "id": "90e8ba2bb2",
+        "title_fa": "جنگ با ایران؛ چالش اصلی معیشت و انتخابات آمریکا",
+        "title_en": "The Iran war is already on November ballots",
+        "summary": [
+            "درگیری نظامی با تهران از سطح یک موضوع دیپلماتیک خارج شده و مستقیماً بر تورم و معیشت آمریکایی‌ها اثر گذاشته است.",
+            "ترامپ برای جلب نظر رأی‌دهندگان ناچار است هزینه‌های اقتصادی جنگ در بازار انرژی را به سرعت مهار کند."
+        ],
+        "impact": "افزایش فشار سیاسی بر کاخ سفید برای تعیین تکلیف سریع بحران با تهران.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/08/25/iran-war-midterm-elections-01049015",
+        "clean_url": "https://www.politico.com/news/2026/08/25/iran-war-midterm-elections-01049015",
+        "image": "http://www.bing.com/th?id=ONUT.Ykfjd3SWWHrC0fmrETGiwQ&pid=News",
+        "timestamp": 1787650440.0
+    },
+    {
         "id": "60d9210c13",
         "title_fa": "پروژه چابهار در لبه تیغ تحریم‌های ثانویه آمریکا",
         "title_en": "US sanctions on Iran: Could India's trade and Chabahar plans take a hit?",
@@ -146,6 +237,24 @@
         "timestamp": 1787649720.0
     },
     {
+        "id": "55b6902989",
+        "title_fa": "واکنش سرویس مخفی آمریکا به ویدیوهای تهدیدآمیز علیه پسر ترامپ",
+        "title_en": "سرویس مخفی آمریکا: از انتشار ویدیوی تهدیدآمیز تهران علیه بارون ترامپ آگاهیم",
+        "summary": [
+            "انتشار ویدیوهای تبلیغاتی صداوسیما علیه بارون ترامپ، سرویس مخفی آمریکا را به حالت آماده‌باش حفاظتی درآورد.",
+            "روایت‌سازی تهدیدآمیز تهران کارکرد تبلیغات داخلی دارد اما در واشنگتن پرونده امنیتی و قضایی جدیدی گشوده است."
+        ],
+        "impact": "افزایش فشارهای امنیتی و حقوقی علیه صداوسیما و دستگاه‌های تبلیغاتی تهران.",
+        "tag": "حقوقی",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608255598",
+        "clean_url": "https://www.iranintl.com/202608255598",
+        "image": "http://www.bing.com/th?id=ONUT.08Mj2FIzw5-XBbsZwv9ERA&pid=News",
+        "timestamp": 1787646060.0
+    },
+    {
         "id": "f197a3720a",
         "title_fa": "کارت جدید آمریکا برای خفگی اقتصادی؛ ۶۰ نهاد ایرانی تحریم شدند",
         "title_en": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
@@ -163,6 +272,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/trump-latest-wave-iran-sanctions-141706003.html",
         "image": "http://www.bing.com/th?id=ONUT.qY8PBmyNekpUn1up-6rd7g&pid=News",
         "timestamp": 1787642220.0
+    },
+    {
+        "id": "90262c2000",
+        "title_fa": "تعطیلی جایگاه‌های سوخت و بحران بنزین در کلان‌شهرها",
+        "title_en": "صف‌های طولانی و تعطیلی جایگاه‌ها، دسترسی به بنزین را دشوار کرده است",
+        "summary": [
+            "تعطیلی سریالی جایگاه‌ها و صف‌های طولانی خودروها، از اختلال شدید در زنجیره تامین و توزیع بنزین خبر می‌دهد.",
+            "هم‌زمانی مشکلات پالایشگاهی با محاصره بنادر جنوبی، زیرساخت سوخت کشور را تا آستانه فلج شدن پیش برده است."
+        ],
+        "impact": "جهش نگران‌کننده نارضایتی‌های اجتماعی و احتمال شکل‌گیری موج تازه‌ای از اعتراضات.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608259078",
+        "clean_url": "https://www.iranintl.com/202608259078",
+        "image": "http://www.bing.com/th?id=ONUT.b_M-WrlRNe-gwSKjhPe9mQ&pid=News",
+        "timestamp": 1787635560.0
     },
     {
         "id": "9d5f0efa5e",
@@ -5426,133 +5553,5 @@
         "clean_url": "https://www.theatlantic.com/ideas/2026/07/trump-iran-war-strategy-military-remarks/688144",
         "image": "http://www.bing.com/th?id=ONUT.haw2ZbzC_uA_fP80ihG5QA&pid=News",
         "timestamp": 1785507780.0
-    },
-    {
-        "id": "506918ed56",
-        "title_fa": "ترامپ می‌گوید حمله سایبری آب مینه‌سوتا کار خودشان است",
-        "title_en": "Trump Claims Minnesota Is Behind Cyberattack on Its Own Water Systems, Not Iran",
-        "summary": [
-            "ترامپ ادعا می‌کند حمله سایبری به سامانه‌های آب مینه‌سوتا «از ایران نیست» و منشأ آن را داخلی می‌داند؛ یعنی روایتِ «تهدید خارجی» را از پرونده حذف می‌کند.",
-            "در همان حال، اشاره رسانه‌ای به تضعیف ظرفیت دولت فدرال برای مقابله با تهدیدهاست: کاهش جدی نیروی سازمان‌های امنیتی (به‌همراه پروژه‌هایی مثل DOGE) می‌تواند باعث شود تشخیص منبع حمله دیرتر، ضعیف‌تر یا مبهم‌تر شود؛ بنابراین نتیجه‌گیری‌های سیاسی سریع، بدون پشتوانه فنی، خطرناک است."
-        ],
-        "impact": "اگر روایت «داخلی بودن حمله» غالب شود، هم پاسخ اضطراری کندتر می‌ماند و هم موضوع، از امنیت ملی به جنگ روایت‌های سیاسی تبدیل می‌شود.",
-        "tag": "سایبری",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Gizmodo",
-        "url": "https://gizmodo.com/trump-claims-minnesota-is-behind-cyberattack-on-its-own-water-systems-not-iran-2000793470",
-        "clean_url": "https://gizmodo.com/trump-claims-minnesota-is-behind-cyberattack-on-its-own-water-systems-not-iran-2000793470",
-        "image": "http://www.bing.com/th?id=ONUT.H0Kqt9CEVh84-sx5hAljYg&pid=News",
-        "timestamp": 1785501000.0
-    },
-    {
-        "id": "b47bed3681",
-        "title_fa": "شبکه شرط‌بندی فارسی، مسیر دور زدن تحریم ۴ میلیارد دلاری",
-        "title_en": "SPECIAL REPORT-Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge",
-        "summary": [
-            "یک صرافی غیرمجاز با آدرس دفتر در دبی (Shelbit) به‌عنوان هاب انتقال رمزارز، پول را برای عملیات دور زدن تحریم به بازارهای جهانی می‌چرخاند؛ بر اساس گزارش تحقیقاتی، حداقل ۴ میلیارد دلار از می ۲۰۲۴ پردازش شده است.",
-            "گستردگی شبکه شرط‌بندی فارسی (بیش از ۲ هزار سایت) فقط «کلاهبرداری» نیست؛ این شبکه به سیستم پرداخت آنلاین ایران دسترسی دارد و عملاً از نظارت نزدیک بانک مرکزی هم عبور می‌کند یا آن را دور می‌زند.",
-            "دو اینفلوئنسر فارسی‌زبان با ارتباطات سطح‌بالای حکومتی، به‌عنوان ویترین این جریان معرفی شده‌اند؛ یعنی دور زدن تحریم، با پرزرق‌وبرق‌سازی رسانه‌ای و چسبیدن به حلقه‌های قدرت جلو می‌رود.",
-            "پیوند داده‌های پرونده به افراد و حتی محکومیت‌های قبلی (محکومیت ۲۰۲۳ برای پرونده شرط‌بندی) نشان می‌دهد این مدل فعالیت، چرخه‌ای و تکرارشونده است؛ نه یک اتفاق مقطعی."
-        ],
-        "impact": "این افشاگری یعنی بخشی از پول‌های ایران از یک زنجیره «پرداخت داخلی → ویترین شرط‌بندی → صرافی دبی → رمزارز جهانی» عبور می‌کند و کانال‌های نظارتی عملاً قابل دورزدن‌اند.",
-        "tag": "تحریم-رمزارز",
-        "urgency": 7,
-        "sentiment": -0.78,
-        "source": "devdiscourse",
-        "url": "https://www.devdiscourse.com/article/politics/3957730-special-report-illicit-iranian-gambling-network-helped-pull-off-a-4-billion-sanctions-dodge",
-        "clean_url": "https://www.devdiscourse.com/article/politics/3957730-special-report-illicit-iranian-gambling-network-helped-pull-off-a-4-billion-sanctions-dodge",
-        "image": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/aiimagegallery/29_07_2024_10_19_48_5921959.png&width=920&format=jpeg",
-        "timestamp": 1785488520.0
-    },
-    {
-        "id": "8f7c57bd2c",
-        "title_fa": "شبکه قمار غیرقانونی ایران، کانال فرار ۴ میلیاردی",
-        "title_en": "Illicit Iranian gambling network helped pull off a $4 billion sanctions dodge",
-        "summary": [
-            "یک شبکه بزرگ قمار غیرقانونی، میلیون‌ها دلار پول رمزارز را از طریق یک دفتر در دبی جابه‌جا می‌کند تا بخشی از عملیات دورزدن تحریم‌ها پیش برود.",
-            "این افشا نشان می‌دهد دورزدن تحریم فقط با مسیرهای کلاسیک تجاری نیست؛ پول از سرگرمی/قمار و شبکه‌های مالی خاکستری تغذیه می‌شود و بعد در قالب کریپتو شسته و منتقل می‌گردد."
-        ],
-        "impact": "تمرکز دوباره روی نقش صرافی‌ها، دفترهای تجاری و شرکت‌های واسط در دبی می‌تواند اجرای تحریم‌ها را سخت‌تر و پرریسک‌تر کند.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.55,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/investigations/illicit-iranian-gambling-network-helped-pull-off-4-billion-sanctions-dodge-2026-07-31/",
-        "clean_url": "https://www.reuters.com/investigations/illicit-iranian-gambling-network-helped-pull-off-4-billion-sanctions-dodge-2026-07-31",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785488040.0
-    },
-    {
-        "id": "dd79293cf0",
-        "title_fa": "۳ جمهوری‌خواه برای مهار اختیارات جنگی ترامپ شکستن صف",
-        "title_en": "3 Republicans break ranks in attempt to limit Trump's Iran war powers",
-        "summary": [
-            "۳ نماینده جمهوری‌خواه با رأیی عمدتاً نمادین، تلاش کردند اختیارات ترامپ برای اقدام نظامی علیه ایران محدود شود.",
-            "این حرکت هرچند اثر حقوقی گسترده‌ای ندارد، اما پیام سیاسی مهمی دارد: تنش‌ها آن‌قدر بالاست که حتی داخل حزب ترامپ هم شکاف دیده می‌شود و فضای «جنگ بدون ترمز» قابل کنترل نیست."
-        ],
-        "impact": "این رأی نمادین می‌تواند هزینه سیاسی حمله را بالا ببرد و ترامپ را به احتیاط بیشتر یا اتکا به مسیرهای دیگر برای اقدام سوق دهد.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "TIME on MSN",
-        "url": "https://www.msn.com/en-us/news/politics/3-republicans-break-ranks-in-attempt-to-limit-trump-s-iran-war-powers/ar-AA299kNx",
-        "clean_url": "https://www.msn.com/en-us/news/politics/3-republicans-break-ranks-in-attempt-to-limit-trump-s-iran-war-powers/ar-AA299kNx",
-        "image": "http://www.bing.com/th?id=ONUT.iekeEskIKRtZFjNxt8PTdg&pid=News",
-        "timestamp": 1785486373.0
-    },
-    {
-        "id": "ae25993d6d",
-        "title_fa": "ترامپ بین پیام‌های متضاد؛ راه خروج از جنگ ایران",
-        "title_en": "Trump gets conflicting messages as he seeks an exit ramp from the Iran war",
-        "summary": [
-            "حتی وقتی ترامپ از «نزدیک شدن ایران به معامله» حرف می‌زند، بخشی از مقام‌های آمریکایی می‌گویند تهران بازی را به سمت فشار روی تنگه هرمز می‌برد، نه عقب‌نشینی.",
-            "اختلاف پیام‌ها یعنی داخل آمریکا دو روایت همزمان در جریان است: یکی دنبال خروج کم‌هزینه، دیگری بر این باور که ایران هنوز اهرم را در دست دارد و زمان را برای سناریوی فشار نگه می‌دارد."
-        ],
-        "impact": "ابهام در واشنگتن می‌تواند برنامه خروج را کند یا مبهم کند و ریسک درگیری در محدوده تنگه هرمز را بالا ببرد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/trump-gets-conflicting-messages-as-he-seeks-an-exit-ramp-from-the-iran-war/ar-AA298JSW",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-gets-conflicting-messages-as-he-seeks-an-exit-ramp-from-the-iran-war/ar-AA298JSW",
-        "image": "http://www.bing.com/th?id=ONUT.Fv3WXR8bcLygtU2HO2c1XQ&pid=News",
-        "timestamp": 1785484997.0
-    },
-    {
-        "id": "d98b14fa5d",
-        "title_fa": "بی‌نشانی از گفت‌وگو؛ آمریکا نگران تشدید فشار ایران است",
-        "title_en": "Few signs of talks between US and Iran as Trump hears from different corners on path forward",
-        "summary": [
-            "با وجود ادعای ترامپ درباره «درخواست معامله» از سوی ایران، برخی مقام‌های آمریکا معتقدند تهران فعلاً دنبال امتیازگیری از مسیر تنگه هرمز است، نه نشستن پای میز مذاکره.",
-            "دوگانه‌گویی داخل آمریکا (گفتنِ یک روایت از طرف ترامپ و نگرانیِ مقام‌های دیگر از طرف برخی خطوط امنیتی/دیپلماتیک) یعنی تیم واشنگتن هنوز راه‌حل واحد ندارد؛ همین بلاتکلیفی می‌تواند ریسک سوءمحاسبه را بالا ببرد."
-        ],
-        "impact": "اگر نشانه‌های واقعی از مذاکره کم بماند، احتمال فشارهای اقتصادی-نظامی و درگیری غیرمستقیم در مسیر تنگه هرمز بیشتر می‌شود.",
-        "tag": "مذاکره",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/world/few-signs-of-talks-between-us-and-iran-as-trump-hears-from-different-corners-on-path-forward/ar-AA298JSW",
-        "clean_url": "https://www.msn.com/en-us/news/world/few-signs-of-talks-between-us-and-iran-as-trump-hears-from-different-corners-on-path-forward/ar-AA298JSW",
-        "image": "http://www.bing.com/th?id=ONUT.Fv3WXR8bcLygtU2HO2c1XQ&pid=News",
-        "timestamp": 1785483861.0
-    },
-    {
-        "id": "1cda68ecd1",
-        "title_fa": "قرارداد اتمی آمریکا و عربستان؛ استاندارد دوگانه",
-        "title_en": "Washington's Nuclear Double Standard in West Asia",
-        "summary": [
-            "آمریکا «همکاری صلح‌آمیز هسته‌ای» با عربستان را امضا می‌کند، اما همزمان روی سخت‌گیری و محدودسازی هسته‌ای برای رقبایش سیاست می‌گذارد؛ این یعنی یک خط‌کش واحد برای همه وجود ندارد.",
-            "وقتی کشوری با ظرفیت و نفوذ منطقه‌ای وارد چنین چارچوبی می‌شود، بازیگران دیگر منطقه هم خود را مجبور به بازتعریف محاسبات امنیتی می‌بینند؛ نتیجه‌اش مسابقه تسلیحاتی یا فشار امنیتیِ دائمی است."
-        ],
-        "impact": "این قرارداد هم تنش منطقه‌ای را بالا می‌برد و هم روایت آمریکا درباره «امنیت هسته‌ای» را سیاسی‌تر می‌کند.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "CounterPunch",
-        "url": "https://www.counterpunch.org/2026/07/31/washingtons-nuclear-double-standard-in-west-asia/",
-        "clean_url": "https://www.counterpunch.org/2026/07/31/washingtons-nuclear-double-standard-in-west-asia",
-        "image": "https://www.counterpunch.org/wp-content/uploads/2025/06/Screenshot-2025-06-24-at-4.35.56-PM-953x630.png",
-        "timestamp": 1785477420.0
     }
 ]
