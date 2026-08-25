@@ -1,5 +1,23 @@
 [
     {
+        "id": "024719b852",
+        "title_fa": "پیشرفت در مذاکرات تهران و اسلام‌آباد برای فروکش کردن تنش‌ها",
+        "title_en": "Pakistan and Iran made 'significant progress' in talks on conflict, minister says",
+        "summary": [
+            "وزرای دو کشور از توافقات ملموس برای کنترل درگیری‌های مرزی و جلوگیری از تسری تنش خبر دادند.",
+            "تهران تحت فشار شدید تحریم‌های غرب، توان باز کردن جبهه جدید در مرزهای شرقی را ندارد و به همزیستی مسالمت‌آمیز با پاکستان تن داده است."
+        ],
+        "impact": "ثبات نسبی در مرزهای شرقی و کاهش ریسک درگیری جدید نظامی برای سپاه.",
+        "tag": "دیپلماسی",
+        "urgency": 4,
+        "sentiment": 0.4,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHhjc21qOU4yNWN3Mm9RUFl3X0txd1FlVVd2Y3FZalhRRHJXYkxLMzNOVGV6dXlCaVpzdUlPVGRuN2ZrMWlqNkgyWHlYSFhrMkxqY2liXzRKOXNZeVI5NmtXZm94ZnBncmNkWnUzNVJWbGh2OEQwZXFKdDhWeW5CSV9uZ1c4OGpTZ1pJekVKZFVxNzBQVlBuM0hER1czeU9OUmNUUTVsdnZwa0Q5Rld1dmJjVnJoZWI2QjdiMjg2Ylk?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUHhjc21qOU4yNWN3Mm9RUFl3X0txd1FlVVd2Y3FZalhRRHJXYkxLMzNOVGV6dXlCaVpzdUlPVGRuN2ZrMWlqNkgyWHlYSFhrMkxqY2liXzRKOXNZeVI5NmtXZm94ZnBncmNkWnUzNVJWbGh2OEQwZXFKdDhWeW5CSV9uZ1c4OGpTZ1pJekVKZFVxNzBQVlBuM0hER1czeU9OUmNUUTVsdnZwa0Q5Rld1dmJjVnJoZWI2QjdiMjg2Ylk",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787629140.0
+    },
+    {
         "id": "59d4d341f2",
         "title_fa": "ادعای جدید نتانیاهو درباره طرح ترور فرزندش توسط ایران",
         "title_en": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
@@ -184,6 +202,25 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/expect-iran-braces-us-economic-160250320.html",
         "image": "https://media.zenfs.com/en/al_jazeera_289/4a2f5d90d594c1bf916e18209cb8743e.jpg",
         "timestamp": 1787587610.0
+    },
+    {
+        "id": "b28fe55ee3",
+        "title_fa": "«روز دی» اقتصادی ترامپ؛ تهاجم مالی و محاصره همه‌جانبه ایران",
+        "title_en": "گزارش اکسیوس از ۵ نشانه پژمردگی اقتصاد ایران زیر فشارهای ترامپ",
+        "summary": [
+            "دولت ترامپ با اعلام تهاجم بی‌سابقه مالی و محاصره بنادر، به دنبال قطع کامل صادرات نفت و خفه کردن شریان‌های ارزی تهران است.",
+            "تمرکز اصلی واشنگتن بر خریداران اصلی نفت ایران به ویژه چین است تا راه هرگونه دور زدن تحریم‌ها مسدود شود.",
+            "جمهوری اسلامی برای تامین هزینه‌ها به فشار مالیاتی روی مردم متوسل شده، اما فشار کمرشکن اقتصادی ممکن است تهران را به سمت دست‌زدن به اقدامات پرریسک منطقه‌ای سوق دهد."
+        ],
+        "impact": "سقوط شدید درآمدهای نفتی، تشدید بحران ارزی در تهران و احتمال تنش حاد در صادرات نفت منطقه.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608244836",
+        "clean_url": "https://www.iranintl.com/202608244836",
+        "image": "http://www.bing.com/th?id=ONUT.ov6boIVgU9UvlW2DnawAKg&pid=News",
+        "timestamp": 1787583900.0
     },
     {
         "id": "bbc800af0f",
@@ -5517,43 +5554,5 @@
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785420225.0,
         "id": "ca14d4b938"
-    },
-    {
-        "title_fa": "آغاز «موج سنگین» حملات جدید آمریکا علیه ایران؛ تهدید مستقیم اما بدون جزئیات در متن",
-        "title_en": "US launches ‘heavy wave’ of new attacks on Iran",
-        "summary": [
-            "طبق گزارش الجزیره، آمریکا «موج سنگین» حملات جدید علیه ایران را آغاز کرده است، اما متن ارسالی جزئیات محل، زمان‌بندی و نوع عملیات را مشخص نمی‌کند.",
-            "این اقدام در چارچوب فشار خارجی قرار می‌گیرد و می‌تواند به تضعیف محاسبات امنیتی-عملیاتی رژیم بینجامد، اما چون داده‌های قابل راستی‌آزمایی درباره دامنه خسارات ارائه نشده، نمی‌توان نتیجه قطعی درباره اثر فوری را پیش‌بینی کرد.",
-            "در سطح داخلی، هرگونه تشدید تنش خارجی معمولاً هزینه‌های اقتصادی و اختلال در مدیریت بحران را بالا می‌برد، ولی در این متن نشانه‌ای از واکنش مردمی یا وضعیت اقتصادی ارائه نشده است."
-        ],
-        "impact": "گزارش از تشدید مستقیم فشار نظامی آمریکا خبر می‌دهد، اما نبود جزئیات در متن ارسالی مانع ارزیابی دقیق از میزان ضربه و پیامدهای فوری داخلی است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUJwNER6Z1d6T0p5aVBwUnpZM2JUQWFxR2pSdVB4cVhCVGZkRDBvcVV4WDMwS0hEUDhpNTdWaEszeURRc1otQnJ3Z0toUlF3bThfN1Zvam5EYlItMU5JVU0yalYyT0RFS29Ycl9WSXZzUnpkQ004SmRfMFR3SUZRdmg0a3FBckd0LVhFMlNB0gGTAUFVX3lxTE1id1NxcERIelVSWk9aamxvSE1tQ3duZkY5VFRPVm5hQzd4bEp6MENxeXNjRlhIczlvbG1ZQ19HeHJxY2JNOE5LVHVqMGhYeGhGa3Z6QjZnNjhQcjRBcHNXeVRObXN4a2l6WUtxcUpTalNYSEdRR3k5dEJKN3lFZjEwcFFzLVFzZkx1NXJsMFByQnJWZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZUJwNER6Z1d6T0p5aVBwUnpZM2JUQWFxR2pSdVB4cVhCVGZkRDBvcVV4WDMwS0hEUDhpNTdWaEszeURRc1otQnJ3Z0toUlF3bThfN1Zvam5EYlItMU5JVU0yalYyT0RFS29Ycl9WSXZzUnpkQ004SmRfMFR3SUZRdmg0a3FBckd0LVhFMlNB0gGTAUFVX3lxTE1id1NxcERIelVSWk9aamxvSE1tQ3duZkY5VFRPVm5hQzd4bEp6MENxeXNjRlhIczlvbG1ZQ19HeHJxY2JNOE5LVHVqMGhYeGhGa3Z6QjZnNjhQcjRBcHNXeVRObXN4a2l6WUtxcUpTalNYSEdRR3k5dEJKN3lFZjEwcFFzLVFzZkx1NXJsMFByQnJWZw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785416852.0,
-        "id": "8324346913"
-    },
-    {
-        "title_fa": "حمله پهپادی نزدیک کانال سوئز در مصر؛ زنگ خطر امنیتی در جنگی رو به گسترش",
-        "title_en": "Drone strike near Suez Canal in Egypt raises new security threat in widening war",
-        "summary": [
-            "رویترز گزارش داده یک حمله پهپادی نزدیک کانال سوئز در مصر رخ داده و این رخداد «تهدید امنیتی جدید» را در پیوند با گسترش جنگ در منطقه برجسته می‌کند.",
-            "این حادثه نشان می‌دهد که میدان درگیری محدود به جغرافیای سنتی جنگ نیست و مسیرهای راهبردی و گلوگاه‌های کشتیرانی مانند سوئز می‌توانند هدف قرار بگیرند یا در معرض تهدید قرار بگیرند.",
-            "با توجه به گزارش، پیامد فوری نه یک جابه‌جایی سیاسی در تهران یا جای دیگر، بلکه افزایش ریسک عملیاتی برای امنیت منطقه، کشتیرانی و مدیریت تهدیدات هوایی در کشورهای هم‌مرز با مسیرهای حساس است."
-        ],
-        "impact": "این رویداد ریسک درگیری و ناامنی پیرامون یکی از مهم‌ترین گلوگاه‌های تجاری جهان را بالا می‌برد و می‌تواند چرخه تهدید را در جنگ منطقه‌ای گسترده‌تر کند.",
-        "tag": "امنیت",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "reuters.com",
-        "url": "https://www.msn.com/en-us/news/world/drone-strike-near-suez-canal-in-egypt-raises-new-security-threat-in-widening-war/ar-AA293POY",
-        "clean_url": "https://www.msn.com/en-us/news/world/drone-strike-near-suez-canal-in-egypt-raises-new-security-threat-in-widening-war/ar-AA293POY",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785416503.0,
-        "id": "47aa8b0ec9"
     }
 ]
