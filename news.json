@@ -73,6 +73,25 @@
         "timestamp": 1787629140.0
     },
     {
+        "id": "85d666fcd8",
+        "title_fa": "پتک تحریمی جدید آمریکا روی رمزارزها و شریان‌های مالی سپاه",
+        "title_en": "US Can Now Sanction Anyone Operating in Iran's Crypto Sector",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا تحت طرح «روز D اقتصادی»، اختیار تحریم هر شخص یا نهادی در سراسر جهان که در حوزه رمزارز، طلا، فناوری، کشتیرانی و هوانوردی ایران فعال باشد را به دست گرفت.",
+            "هدف مستقیم این دستورالعمل، خشکاندن کانال‌های مالی نیروی قدس سپاه است که صدها میلیون دلار پول ناشی از فروش قاچاق نفت را از طریق کریپتو منتقل می‌کرد.",
+            "واشنگتن با ورود مستقیم به بازار رمزارز و فناوری، آخرین تنفس‌گاه‌ها و راه‌های اصلی دور زدن تحریم‌ها را برای حاکمیت تهران مسدود کرد."
+        ],
+        "impact": "قفل شدن کانال‌های رمزارزی دور زدن تحریم‌ها و فلج شدن شبکه تامین مالی فرامرزی سپاه.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Decrypt",
+        "url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
+        "clean_url": "https://decrypt.co/376424/us-can-now-sanction-anyone-operating-in-irans-crypto-sector",
+        "image": "http://www.bing.com/th?id=ONUT.g40iBP9HK6mc7WkkKYvxKA&pid=News",
+        "timestamp": 1787628120.0
+    },
+    {
         "id": "f73d93242f",
         "title_fa": "دیپلماسی نظامی اسلام‌آباد؛ تلاش ارتش پاکستان برای توقف جنگ ۶ ماهه",
         "title_en": "Can Pakistan’s Asim Munir convince Iran military chiefs to return to talks?",
@@ -5538,23 +5557,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHlZVG11bzlmcEpRNUQxNVNzR0RuQlRrWW1lWjNEb0F1XzdjekZsdFlKNFNSMW0tNnRpcHQyUXVYbjUzNGpIUEs1ZnZxXzk3eVRjZzZ2SHFrcGsyLVpxdkVOVlV2VUpIMzlQXzhkX19FZW1pRlBPZnJXXzVmblVfaDROaWJEZ243ZXc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785439780.0
-    },
-    {
-        "id": "36a7ea447d",
-        "title_fa": "ترامپ می‌خواهد تحریم ایران با تعرفه گره بخورد",
-        "title_en": "Trump says sanctions bill should include tariffs on Iran, despite 'trivial' trade with U.S.",
-        "summary": [
-            "ترامپ می‌گوید لایحه تحریم علیه ایران باید با تعرفه‌های تجاری همراه شود، حتی اگر تجارت ایران و آمریکا «ناچیز» باشد.",
-            "این موضع یعنی فشار صرفاً محدود به بخش پول و نفت نیست؛ هدف، وادار کردن بازیگرهای منطقه‌ای و شرکت‌های خارجی به هزینه‌دار کردن کار با ایران از مسیر تعرفه و مقررات تجاری است."
-        ],
-        "impact": "احتمال طراحی بسته تحریمی-تعرفه‌ای تازه بالا می‌رود و ریسک تجاری ایران و شرکت‌های مرتبط بیشتر می‌شود.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.35,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xbnVYQ25VOU5kWXhoSlF5VTFjcEJrT0xEcFI5cHpPSUxqOG5WMnNpOGJ0NmR0cGgzM2lEbHBGcTZhNWdlQWF6bUFxcTBRazA5cElMVFVfZzY4Yk55LTdFdF9MZ1lxYlVxeW02VDJzSThyTUJ6Y091RV9B0gF_QVVfeXFMUFYxaW93MVVqcHhJVTVRSWxwaU9ickpzalAtWVJhWW9iQklwa2J6S1RSYjgxcTJBZklDOG5PQi1WS2tzbW1UR2Z6Z25kSlh6MVRfeFJpQjY0LWN0dDRid1FiYzZFZ0FaN1VJeFdKc2stSW5BRnlfWE5XNG5RdjdsSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xbnVYQ25VOU5kWXhoSlF5VTFjcEJrT0xEcFI5cHpPSUxqOG5WMnNpOGJ0NmR0cGgzM2lEbHBGcTZhNWdlQWF6bUFxcTBRazA5cElMVFVfZzY4Yk55LTdFdF9MZ1lxYlVxeW02VDJzSThyTUJ6Y091RV9B0gF_QVVfeXFMUFYxaW93MVVqcHhJVTVRSWxwaU9ickpzalAtWVJhWW9iQklwa2J6S1RSYjgxcTJBZklDOG5PQi1WS2tzbW1UR2Z6Z25kSlh6MVRfeFJpQjY0LWN0dDRid1FiYzZFZ0FaN1VJeFdKc2stSW5BRnlfWE5XNG5RdjdsSQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785439261.0
     }
 ]
