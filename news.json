@@ -1,5 +1,41 @@
 [
     {
+        "id": "3e2ba35835",
+        "title_fa": "تحریم هکرهای ایرانی؛ ضربه خزانه‌داری آمریکا به توان سایبری تهران",
+        "title_en": "Treasury sanctions Iranian hackers tied to critical infrastructure breaches",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا هکرهای وابسته‌به ایران را به اتهام نفوذ به زیرساخت‌های حیاتی زیر ضربه تحریمی برد.",
+            "واشنگتن همزمان با فشار اقتصادی، جبهه جدیدی برای مسدودسازی توان نفوذ الکترونیک و گروه‌های سایبری ایران باز کرده است."
+        ],
+        "impact": "افزایش فشارهای امنیتی بین‌المللی و اختلال در شبکه عملیات سایبری ایران.",
+        "tag": "سایبری",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Nextgov/FCW",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXg4RWpwZXpabldxN1VWYnoxZGVpZnFBVk9jNlljQXBjUmo5cGRaUWtDb0ljbm85MlBGX1hudDFRMkpHQU92WDFvSEx0dHkxZXI4dG1mRVJmTm1HZ2tqNzJYZ3NxRVQtcXJBdlA5aVJUR2tkMkpSWG1VakhXX08zZE5uNFIzSHQwUTZwSWR0OTNIcHBkQzQteGZ3MTFpc3YwT255aWkxX0dQUy05a3RHNzBaUXFVMVFxR3RjbXRscGtyM3dT?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZXg4RWpwZXpabldxN1VWYnoxZGVpZnFBVk9jNlljQXBjUmo5cGRaUWtDb0ljbm85MlBGX1hudDFRMkpHQU92WDFvSEx0dHkxZXI4dG1mRVJmTm1HZ2tqNzJYZ3NxRVQtcXJBdlA5aVJUR2tkMkpSWG1VakhXX08zZE5uNFIzSHQwUTZwSWR0OTNIcHBkQzQteGZ3MTFpc3YwT255aWkxX0dQUy05a3RHNzBaUXFVMVFxR3RjbXRscGtyM3dT",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787672220.0
+    },
+    {
+        "id": "d921dd5954",
+        "title_fa": "تکرار سناریوی هانوی؛ الگوی معامله‌گری ترامپ در پرونده‌های اتمی",
+        "title_en": "Trump's risky deal: Midterm election-driven nuclear recognition fallout",
+        "summary": [
+            "بازخوانی ناکامی مذاکرات ۲۰۱۹ هانوی نشان می‌دهد کیم جونگ اون پس از رد پیشنهاد معامله کوچک توسط ترامپ دست خالی برگشت.",
+            "تمرکز ترامپ بر خروجی‌های سریع تبلیغاتی برای انتخابات، ریسک بن‌بست‌های ناگهانی یا فشارهای خردکننده را بالا می‌برد."
+        ],
+        "impact": "پیام روشن برای تهران که ترامپ انعطاف‌های نیم‌بند را نپذیرفته و هدفش عقب‌نشینی کامل طرف مقابل است.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Chosun Ilbo",
+        "url": "https://www.msn.com/en-xl/politics/government/trump-s-risky-deal-midterm-election-driven-nuclear-recognition-fallout/ar-AA2aUemu",
+        "clean_url": "https://www.msn.com/en-xl/politics/government/trump-s-risky-deal-midterm-election-driven-nuclear-recognition-fallout/ar-AA2aUemu",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1MF1RI.img?w=500&h=500&m=4&q=80",
+        "timestamp": 1787669040.0
+    },
+    {
         "id": "17105accde",
         "title_fa": "خط و نشان اقتصادی واشنگتن برای تهران؛ ادعای آماده‌باش دو ساله ایران",
         "title_en": "Iran says it's ready for new U.S. sanctions, has 2-year plan",
@@ -54,6 +90,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787649720.0
+    },
+    {
+        "id": "f197a3720a",
+        "title_fa": "کارت جدید آمریکا برای خفگی اقتصادی؛ ۶۰ نهاد ایرانی تحریم شدند",
+        "title_en": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا ۶۰ فرد و نهاد مرتبط با فروش نفت، تأمین تسلیحات و عملیات سایبری ایران را هدف قرار داد.",
+            "وزیر خزانه‌داری آمریکا هدف این کارزار را «خفگی اقتصادی» و قطع کامل شریان‌های مالی تهران اعلام کرد.",
+            "واکنش مقامات اقتصادی ایران نشان‌دهنده خط کلامی تکراری برای بی‌اثر جلوه‌دادن فشارهاست، اما انسداد شبکه‌های صرافی و نفتی وارد فاز حادی شده است."
+        ],
+        "impact": "تنگ‌تر شدن بی‌سابقه حلقه محاصره مالی، سقوط درآمدهای ارزی و تشدید بحران در بازار ارز ایران.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-latest-wave-iran-sanctions-141706003.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-latest-wave-iran-sanctions-141706003.html",
+        "image": "http://www.bing.com/th?id=ONUT.qY8PBmyNekpUn1up-6rd7g&pid=News",
+        "timestamp": 1787642220.0
     },
     {
         "id": "9d5f0efa5e",
@@ -5503,61 +5558,5 @@
         "clean_url": "https://www.theatlantic.com/national-security/2026/07/hegseth-pentagon-civilian-protections-iran/688110",
         "image": "http://www.bing.com/th?id=ONUT.lJmBUGTcU3GJXlcvL196xA&pid=News",
         "timestamp": 1785470400.0
-    },
-    {
-        "id": "4e8d18865d",
-        "title_fa": "بحث واشنگتن-تل‌آویو برای «محاصره زمینی» ایران",
-        "title_en": "Iran Land Blockade BREAKING: Trump-Netanyahu PLAN to Cut Off Iran, U.S.-Israel Eye For NEW Move",
-        "summary": [
-            "گزارش می‌گوید آمریکا و اسرائیل بعد از ناکامی عملیات‌های نظامی و فشارهای دریایی، سراغ ایده محاصره زمینی رفته‌اند؛ یعنی تنگ‌کردن گذرگاه‌ها و محدود کردن تجارت با اصرار به ۷ همسایه ایران.",
-            "اما کارِ بستن کامل مرزهای زمینی سخت است؛ ایران هم مرزهای وسیع دارد، هم شبکه‌های قاچاق جاافتاده و هم وزن سیاسی-اقتصادی بازیگرهایی مثل چین و روسیه که می‌توانند گلوگاه‌ها را دور بزنند.",
-            "اگر این سناریو جدی شود، بیشتر از اینکه «خفه‌کردن کامل» اثر بگذارد، نقش فشار روانی و ایجاد هزینه برای مسیرهای زمینی را بازی می‌کند؛ همان چیزی که به‌راحتی می‌تواند به تنش مرزی و بی‌ثباتی منطقه‌ای دامن بزند."
-        ],
-        "impact": "محاصره زمینی اگر اجرایی شود، فشار لجستیکی و تجاری را بالا می‌برد و ریسک درگیری‌های پراکنده و جنگ روایت‌ها را بیشتر می‌کند.",
-        "tag": "محاصره زمینی",
-        "urgency": 7,
-        "sentiment": -0.35,
-        "source": "Oneindia",
-        "url": "https://www.oneindia.com/videos/iran-land-blockade-breaking-trumpnetanyahu-plan-to-cut-off-iran-u-s-israel-eye-for-new-move-4319126.html",
-        "clean_url": "https://www.oneindia.com/videos/iran-land-blockade-breaking-trumpnetanyahu-plan-to-cut-off-iran-u-s-israel-eye-for-new-move-4319126.html",
-        "image": "https://imagesvs.oneindia.com/img/videos/2026/07/590910677-iran-land-blockade-breaking-trump-netanyahu-plan-to-cut-off-iran-u.s.-israel-eye-for-new-move.jpg",
-        "timestamp": 1785467400.0
-    },
-    {
-        "id": "2826363c92",
-        "title_fa": "گفت‌وگوی آمریکا و اسرائیل درباره «محاصره زمینی» ایران",
-        "title_en": "Israel and US consider Iran land blockade",
-        "summary": [
-            "طبق گزارش‌ها، آمریکا و اسرائیل درباره بستن یا سخت‌کردن گذرگاه‌های مرزی برای قطع رفت‌وآمد کالاهای ایران صحبت کرده‌اند تا فشار اقتصادی جای حملات را بگیرد.",
-            "ایده عملیاتی این است: شریک‌های منطقه‌ای مجبور شوند مرزها را شُل نکنند یا کامل ببندند؛ اما چون ایران با چند کشور همسایه طولانی مرزی دارد، موفقیتش بدون همکاری همسایه‌ها سخت و پرهزینه می‌شود."
-        ],
-        "impact": "اگر چنین طرحی جلو برود، با کم‌شدن مسیرهای واردات و صادرات، هزینه اقتصادی ایران بالا می‌رود و فشار برای همراه‌سازی همسایه‌ها به یک محور جدید تبدیل می‌شود.",
-        "tag": "محاصره زمینی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/israel-us-consider-iran-land-093000609.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/israel-us-consider-iran-land-093000609.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/70c627269af9b668e73c601151a411b313f7ba956d2aa5c55691ac9457d2c170/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F14891df9281c09645dabbd9f7479e817",
-        "timestamp": 1785465060.0
-    },
-    {
-        "id": "d1e0ef04f2",
-        "title_fa": "تشدید حملات آمریکا به زیرساخت؛ اقتصاد ایران زیر فشار",
-        "title_en": "Trump’s infrastructure strikes leave Iran’s economy battered",
-        "summary": [
-            "حمله به زیرساخت و تهدیدِ ادامه‌دار، فشار اقتصادی را مستقیم‌تر از تحریم بالا می‌برد؛ یعنی ضربه فقط مالی نیست، عملیاتی و روزمره است.",
-            "تهران روی «فرسایش زمان» حساب کرده: سرمایه، تعمیرپذیری و تاب‌آوری شبکه‌ها در برابر تداوم شوک‌ها تست می‌شود، نه فقط درآمدها.",
-            "محرک سیاسی این سناریو روشن است: اگر مذاکره شکست بخورد، ریسک گسترش هدف‌ها بالا می‌رود و هزینه پیش‌بینی‌پذیری برای اقتصاد را بیشتر می‌کند."
-        ],
-        "impact": "هر موج حمله به زیرساخت، هم هزینه تعمیر را بالا می‌برد هم تولید و خدمات را کند کرده و رشد اقتصادی را می‌خواباند.",
-        "tag": "نظامی-اقتصادی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/07/31/trumps-infrastructure-strikes-leave-irans-economy-battered/",
-        "clean_url": "https://www.washingtonpost.com/world/2026/07/31/trumps-infrastructure-strikes-leave-irans-economy-battered",
-        "image": "http://www.bing.com/th?id=ONUT.8xx6Xh4weJiZkv8hglWqCg&pid=News",
-        "timestamp": 1785463200.0
     }
 ]
