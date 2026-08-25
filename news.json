@@ -37,6 +37,25 @@
         "timestamp": 1787614049.0
     },
     {
+        "id": "c1214c6c35",
+        "title_fa": "خط‌ونشان اقتصادی واشنگتن و رکوردشکنی تاریخی سقوط ریال",
+        "title_en": "Iran defiant as US vows ‘economic D-Day’ penalties on nations doing business with Tehran",
+        "summary": [
+            "تیم اقتصادی دونالد ترامپ با مطرح کردن تهدید «دی‌دی اقتصادی»، نهادها و کشورهای همکار با تهران در دور زدن تحریم‌ها را به اخراج کامل از سیستم مالی آمریکا تهدید کرد.",
+            "با وجود شعارهای موازی مقامات تهران درباره آمادگی برای مقابله، بازار ارز واکنش سرعتی نشان داد و ارزش ریال به پایین‌ترین حد نصاب تاریخ سقوط کرد.",
+            "رایزنی‌های شتاب‌زده با مقامات پاکستان و عمان، تحرکی سراسیمه برای پیدا کردن منفذهای مالی و راه‌های تنفسی جدید در برابر فشار حداکثر است."
+        ],
+        "impact": "تنگ‌تر شدن مسدودسازهای مالی، سقوط بیشتر ارزش پول ملی و جهش مجدد تورم در ایران.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/08/25/world/live-news/iran-war-trump-sanctions",
+        "clean_url": "https://www.cnn.com/2026/08/25/world/live-news/iran-war-trump-sanctions",
+        "image": "http://www.bing.com/th?id=ONUT.5T5jkDwKdN8QVf4dyIg4xw&pid=News",
+        "timestamp": 1787607360.0
+    },
+    {
         "id": "5e960b4a90",
         "title_fa": "گره خوردن طرح خفه‌سازی اقتصادی ایران به تصمیم پکن",
         "title_en": "U.S. Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
@@ -5536,24 +5555,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785416503.0,
         "id": "47aa8b0ec9"
-    },
-    {
-        "title_fa": "واکنش آمریکا به «حمله غافلگیرانه» ایران در اردن",
-        "title_en": "U.S. retaliates against ‘surprise attack’ by Iran in Jordan",
-        "summary": [
-            "NPR گزارش می‌دهد آمریکا در واکنش به حمله‌ای که از سوی ایران به‌عنوان «حمله غافلگیرانه» در اردن توصیف شده، اقدام تلافی‌جویانه انجام داده است.",
-            "مضمون خبر حول محور این است که این رخداد مستقیماً به یک عملیات فراتر از چارچوب معمولِ تهدیدات نیابتی رسیده و منجر به پاسخ نظامی/امنیتی آمریکا شده است.",
-            "جزئیات بیشتر درباره ابعاد حمله یا محل/هدف دقیق پاسخ آمریکا در متن ارائه‌شده نیامده و بنابراین فقط می‌توان بر اصلِ «تلافی» و «ارتباط رویداد در اردن» اتکا کرد."
-        ],
-        "impact": "این اقدام نشان‌دهنده ورود بحران ایران-آمریکا به سطح ریسک بالاترِ برخورد مستقیم در سرزمین‌های ثالث مانند اردن است.",
-        "tag": "تشدید",
-        "urgency": 9,
-        "sentiment": -0.6,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OY1JhT0ZDaDFtbWNIX2VYSHBGUGRISXF0dGNRa2VQR19pYzVsODZJOXNYcWgxTnJPRl9faUdpMEtTU2RTWWZBZEdMYlN3UHJjVjgySEIyS3Z3aTNZczd4YzlUS2R1eFF6VldyMg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9OY1JhT0ZDaDFtbWNIX2VYSHBGUGRISXF0dGNRa2VQR19pYzVsODZJOXNYcWgxTnJPRl9faUdpMEtTU2RTWWZBZEdMYlN3UHJjVjgySEIyS3Z3aTNZczd4YzlUS2R1eFF6VldyMg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785411444.0,
-        "id": "db14e2ac53"
     }
 ]
