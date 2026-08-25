@@ -36,6 +36,24 @@
         "timestamp": 1787627238.0
     },
     {
+        "id": "74fd43fe3e",
+        "title_fa": "عقب‌نشینی رهبر دموکرات‌های آمریکا از طرح درمان سراسری رایگان",
+        "title_en": "Larry Elder",
+        "summary": [
+            "حکیم جفریز رهبر اقلیت دموکرات‌ها در مجلس نمایندگان آمریکا، حمایت خود از طرح بهداشت همگانی را پس گرفت.",
+            "پیش‌بینی هزینه ۳۵ تریلیون دلاری این طرح طی ۱۰ سال، اجرای آن را برای اقتصاد آمریکا غیرممکن کرده است."
+        ],
+        "impact": "تشدید اختلافات درون‌حزبی دموکرات‌ها و شکست جناح چپ در پیشبردن طرح‌های بهداشتی.",
+        "tag": "سیاسی",
+        "urgency": 3,
+        "sentiment": -0.3,
+        "source": "Crescent-News",
+        "url": "https://www.crescent-news.com/opinion/opinion_columnists/larry-elder---did-jeffries-discover-the-price-of-free-healthcare/article_6640c273-4512-4ee2-949e-0200c78e4035.html",
+        "clean_url": "https://www.crescent-news.com/opinion/opinion_columnists/larry-elder---did-jeffries-discover-the-price-of-free-healthcare/article_6640c273-4512-4ee2-949e-0200c78e4035.html",
+        "image": "https://bloximages.newyork1.vip.townnews.com/crescent-news.com/content/tncms/assets/v3/editorial/b/ab/babf1996-3921-11ed-9a87-dbb3771b4700/632a20d2695aa.image.jpg",
+        "timestamp": 1787619600.0
+    },
+    {
         "id": "8c50ca78ef",
         "title_fa": "رونمایی آمریکا از تحریم‌های تازه و تعویق سنگین‌ترین ضربه مالی",
         "title_en": "Bessent unveils sweeping new Iran sanctions but delays toughest blow",
@@ -53,6 +71,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFhKYWdzQ1RSVzB5dEs3NDRxTmZ6MzBPZXpidVhlSmp1YXEyUXhXa1Q4bEZTRC1NTE90VmxfT05ZMFZUXzlrNHA1Q0xsQmQ1NFUxWUNmdE8xUGI4UEZIbUM1VzJxenp6a3RJU09RY1dQRmtlb2VjTXZqMDdCOFg5X2w1S1JQdGVoRTJ6dDFxcW5QSWs0LTBBRlk3aW51Z24tall0SzhqYw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787614049.0
+    },
+    {
+        "id": "46d0dd20a1",
+        "title_fa": "فرمان ترامپ برای محاصره بنادر و شروع «روز دی اقتصادی» علیه ایران",
+        "title_en": "How US sanctions on Iran ripple through global markets and consumers",
+        "summary": [
+            "دولت دونالد ترامپ با اعلام «روز دی اقتصادی»، محاصره دریایی بنادر ایران و شریان‌های اصلی تجارت کشور را کلید زد.",
+            "اسکات بسنت وزیر خزانه‌داری آمریکا اعلام کرد تحریم‌های جدید مستقیماً صنایع نفت، گاز، طلا، رمزارزها و ناوگان کشتیرانی ایران را هدف گرفته است.",
+            "هدف واشنگتن در شش‌ماهگی درگیری‌ها، قطع کامل درآمدهای ارزی تهران و قطع روابط اقتصادی سایر کشورها با ایران است."
+        ],
+        "impact": "توقف کامل صادرات نفت و طلا، فشار شدید بر درآمدهای ارزی و صعود کم‌سابقه قیمت دلار.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers",
+        "clean_url": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/reuters_6a8ca0bf-1787601087.jpg?resize=1920,1440",
+        "timestamp": 1787611560.0
     },
     {
         "id": "c1214c6c35",
@@ -5517,42 +5554,5 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/energy-costs-squeezed-lower-income-families-out-of-q2-gdp-while-ai-propped-investment/ar-AA294Myd",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA294gex.img?w=2647&h=1699&m=4&q=94",
         "timestamp": 1785422853.0
-    },
-    {
-        "id": "7096f0adbb",
-        "title_fa": "اولین حمله به مصر؛ جنگ آمریکا و ایران دامنه‌دار شد",
-        "title_en": "Egypt struck for first time as US-Iran conflict pulls in more countries",
-        "summary": [
-            "گزارش آتش‌سوزی بندری مصر به‌خاطر «حمله پهپادی» است و چون مسئولیتش برعهده هیچ طرفی نیست، فعلاً روی میز یک ریسک بزرگ قرار دارد: مصر وارد فاز درگیری مستقیم شده یا حداقل زیر فشار امنیتی می‌رود.",
-            "هم‌زمان آمریکا با موج سنگین حملات تازه به ایران پاسخ داده؛ ایران هم تهدید «بستن تنگه هرمز» و تنبیه مهاجم را تکرار کرده. این یعنی هر حمله کوچک در دریا می‌تواند به درگیری چندکشوری تبدیل شود."
-        ],
-        "impact": "اگر ادعای پهپادی بودن حمله به مصر تأیید شود، امنیت کشتیرانی و ریسک صادرات-واردات در مسیرهای خلیج فارس جهشی بالا می‌رود.",
-        "tag": "نیابتی-دریایی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/07/30/world/live-news/iran-war-trump?post-id=cms7r68wa00003b6ttdcw0mzo",
-        "clean_url": "https://edition.cnn.com/2026/07/30/world/live-news/iran-war-trump",
-        "image": "http://www.bing.com/th?id=ONUT.gchfh5tSesHkA8-rmsfT9w&pid=News",
-        "timestamp": 1785420840.0
-    },
-    {
-        "title_fa": "ایران جنگ را دوباره شعله‌ور می‌کند همزمان با سفر نتانیاهو به واشنگتن",
-        "title_en": "Iran Re-ignites War as Netanyahu Visits Washington",
-        "summary": [
-            "طبق گزارش Soufan Center، هم‌زمان با سفر نتانیاهو به واشنگتن، ایران «جنگ را دوباره» فعال کرده است؛ یعنی یک جابجایی یا تشدید عملیاتی در کارزار منطقه‌ای در همین بازه زمانی رخ داده.",
-            "این هم‌زمانی، از نگاه راهبردی، نشانه تلاش تهران برای فشار هم‌زمان بر فضای تصمیم‌گیری واشنگتن و مدیریت پیام سیاسی-امنیتی پیش از یا در خلال رایزنی‌های نتانیاهو است.",
-            "با توجه به متن محدودِ گزارش (فقط اعلام «ری‌اِگنایْت/شعله‌ور کردن جنگ» در زمان سفر)، هیچ جزئیاتی درباره نوع اقدام، هدف‌ها یا خسارت‌ها ارائه نشده و بنابراین ارزیابی دقیقِ شدت و کانال عملیات فقط در چارچوب همین تشدید زمانی قابل طرح است."
-        ],
-        "impact": "تشدید هم‌زمان با حضور نتانیاهو در واشنگتن می‌تواند احتمال یک چرخش سریع در محاسبات امنیتی طرف‌های درگیر را بالا ببرد، حتی اگر ماهیت دقیق عملیات در همین متن مشخص نشده باشد.",
-        "tag": "تشدید",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "The Soufan Center",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wTnlLTi1aUjJ2aVBTcXZfWWJNR2tFZy0ta09pdV9TNF81RXR0emZyYUUyTWRMQWE4Q3JrejdHQ2FzRzl0b2xpQl9nQ0RwUWhUTWduZE5GLUFlZ1Z1cTVTWi13?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5wTnlLTi1aUjJ2aVBTcXZfWWJNR2tFZy0ta09pdV9TNF81RXR0emZyYUUyTWRMQWE4Q3JrejdHQ2FzRzl0b2xpQl9nQ0RwUWhUTWduZE5GLUFlZ1Z1cTVTWi13",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785420225.0,
-        "id": "ca14d4b938"
     }
 ]
