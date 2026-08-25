@@ -19,6 +19,24 @@
         "timestamp": 1787614049.0
     },
     {
+        "id": "5e960b4a90",
+        "title_fa": "گره خوردن طرح خفه‌سازی اقتصادی ایران به تصمیم پکن",
+        "title_en": "U.S. Attempt to Strangle Iran’s Economy Depends on China’s Cooperation",
+        "summary": [
+            "کاخ سفید پس از ناکامی در تحقق اهداف نظامی، دوباره به ابزار فلج‌کننده اقتصادی برگشته اما این‌بار همه چیز به همراهی چین بستگی دارد.",
+            "چین اصلی‌ترین خریدار نفت ایران است و اگر پکن به خریدهای پنهانی پایان ندهد، فشار حداکثری آمریکا بی‌اثر خواهد شد."
+        ],
+        "impact": "احتمال اعمال فشار سنگین‌تر واشنگتن بر پالایشگاه‌های مستقل چین و جهش قیمت دلار در بازار ایران.",
+        "tag": "اقتصاد",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
+        "clean_url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
+        "image": "http://www.bing.com/th?id=ONUT._pS2Wu8C9Z-xMXCkxg0UZw&pid=News",
+        "timestamp": 1787598600.0
+    },
+    {
         "id": "0dcbae9074",
         "title_fa": "تاریخچه تحریم‌های ایران؛ چهار دهه فشار و ساختار پیچیده انزوای مالی",
         "title_en": "Economic Sanctions Against Iran: This is not the first and Probably Not The Last",
@@ -35,6 +53,62 @@
         "clean_url": "https://english.gujaratsamachar.com/news/international/economic-sanctions-against-iran-this-is-not-the-first-and-probably-not-the-last-66294199083",
         "image": "https://cdn.gujaratsamachar.com/media/post/2026/08/b5abd706ba13e5a6c9c214eefd5507ee.webp?w=1200&h=630&q=80",
         "timestamp": 1787592840.0
+    },
+    {
+        "id": "a2c162d5e3",
+        "title_fa": "تهدید متقابل تهران در پاسخ به چنگال تحریم‌های جدید آمریکا",
+        "title_en": "Iran vows to retaliate after US widens sanctions",
+        "summary": [
+            "واشنگتن شریان‌های اقتصادی ایران را هدف گرفته و تهران مدعی است که شرکای تجاری اصلی‌اش تحریم‌ها را دور خواهند زد.",
+            "واکنش کلامی تهران بیش از آنکه ابزار اجرایی داشته باشد، مانوری برای پنهان کردن هراس از فلج شدن کامل مبادلات مالی است."
+        ],
+        "impact": "تشدید تنش دیپلماتیک و افزایش ریسک برای خریداران باقی‌مانده نفت ایران.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters",
+        "url": "https://www.reuters.com/world/china/iran-vows-retaliate-after-us-widens-sanctions-2026-08-25/",
+        "clean_url": "https://www.reuters.com/world/china/iran-vows-retaliate-after-us-widens-sanctions-2026-08-25",
+        "image": "http://www.bing.com/th?id=ONUT.HfwKAJkDqrO6OQLQtnbWPg&pid=News",
+        "timestamp": 1787590800.0
+    },
+    {
+        "id": "eac34d776f",
+        "title_fa": "اولتیماتوم دلاری آمریکا به شرکای تجاری ایران",
+        "title_en": "Join new Iran sanctions or leave the dollar system: Bessent",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا عملیات «انزوای اقتصادی» را کلید زد و به تمام کشورها هشدار داد دادوستد با ایران مساوی با اخراج از سیستم دلاری است.",
+            "پنج بخش کلیدی طلا، فناوری، هوانوردی، کشتیرانی و ارزهای دیجیتال تحت تحریم کامل قرار گرفتند تا آخرین منافذ ارزآوری تهران مسدود شود.",
+            "واشنگتن فعالیت در «فضای خاکستری» را ممنوع کرده و خریداران نفت و ارزهای دیجیتال را مستقیماً هدف گرفته است."
+        ],
+        "impact": "قطع کامل شریان‌های باقی‌مانده ارزآوری ایران و احتمال ریزش شدید ارزش ریال.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Asia Times",
+        "url": "https://asiatimes.com/2026/08/join-new-iran-sanctions-or-leave-the-dollar-system-bessent/",
+        "clean_url": "https://asiatimes.com/2026/08/join-new-iran-sanctions-or-leave-the-dollar-system-bessent",
+        "image": "http://www.bing.com/th?id=ONUT.rmcqDl2XqEVZ-A4ONK3Q-Q&pid=News",
+        "timestamp": 1787590800.0
+    },
+    {
+        "id": "2f94006534",
+        "title_fa": "شکست استراتژیک اسرائیل در جنگ با ایران",
+        "title_en": "Netanyahu got his Iran war, but maybe not his desired result",
+        "summary": [
+            "برخلاف تصور نتانیاهو، جنگ شش‌ماهه با ایران نه‌تنها ساختار جمهوری اسلامی را فرو نپاشید، بلکه آن را در مواضعش جسورتر کرده است.",
+            "تغییر نوسانی سیاست ترامپ و آتش‌بس ناگهانی به دلیل صعود قیمت نفت، محاسبات تل‌آویو را کاملاً به هم ریخت.",
+            "تحلیل‌گران ارشد امنیتی اسرائیل اذعان می‌کنند که با وجود ترور مقامات ارشد، استراتژی کلان تل‌آویو در قبال تهران با شکست مواجه شده است."
+        ],
+        "impact": "تعمیق شکاف سیاسی در تل‌آویو و افزایش سردرگمی استراتژیک اسرائیل در برابر تهران.",
+        "tag": "تحلیل",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/netanyahu-got-iran-war-maybe-021754910.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/netanyahu-got-iran-war-maybe-021754910.html",
+        "image": "http://www.bing.com/th?id=ONUT.OloCBj0IZxwaAf7-xECMaA&pid=News",
+        "timestamp": 1787590800.0
     },
     {
         "id": "e26ebfda49",
@@ -203,6 +277,24 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/bessent-warns-iran-global-partners-183032666.html",
         "image": "http://www.bing.com/th?id=ONUT.znre3qVhdF60TWaltmvtrA&pid=News",
         "timestamp": 1787570940.0
+    },
+    {
+        "id": "edf1a1f288",
+        "title_fa": "ادعای نتانیاهو درباره ترور ناکام فرزندش توسط ایران",
+        "title_en": "Iran tried to assassinate one of Netanyahu's sons, prime minister says",
+        "summary": [
+            "بنیامین نتانیاهو مدعی شد دستگاه‌های امنیتی ایران قصد ترور یکی از پسرانش را داشته‌اند و خواستار افزایش حفاظت از نامزدها شد.",
+            "طرح این موضوع در آستانه انتخابات، هم کاربرد داخلی برای جمع‌آوری رای دارد و هم زمینه‌ساز توجیه ضربات امنیتی جدید علیه تهران است."
+        ],
+        "impact": "افزایش سطح حفاظت امنیتی مقامات اسرائیلی و احتمال پاسخ تلافی‌جویانه امنیتی علیه مهره‌های جمهوری اسلامی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/world/iran-tried-to-assassinate-one-of-netanyahus-sons-prime-minister-says/ar-AA2aPyTG",
+        "clean_url": "https://www.msn.com/en-us/news/world/iran-tried-to-assassinate-one-of-netanyahus-sons-prime-minister-says/ar-AA2aPyTG",
+        "image": "http://www.bing.com/th?id=ONUT.tl3pL_-4wwqskHxAXnsC_w&pid=News",
+        "timestamp": 1787570006.0
     },
     {
         "id": "ef65fad85e",
@@ -5463,97 +5555,5 @@
         "clean_url": "https://www.bbc.com/news/articles/c78gnyq3wvdo",
         "image": "http://www.bing.com/th?id=ONUT.WbZlnQLE5YiJPzFoQYNq8g&pid=News",
         "timestamp": 1785407160.0
-    },
-    {
-        "id": "15f2d9ee39",
-        "title_fa": "ترامپ و نتانیاهو روی سه سناریوی ایران می‌چرخند",
-        "title_en": "Trump and Netanyahu weigh 3 Iran strategies: Which way will the war go next?",
-        "summary": [
-            "بحث سه مسیر برای ایران یعنی آمریکا و اسرائیل دنبال گزینه‌های قابل‌مدیریت‌اند: فشار ترکیبی، مهار عملیاتی، یا تشدید مرحله‌ای؛ نه یک تصمیم احساسی یک‌شبه.",
-            "چرخش بین سناریوها نشان می‌دهد اختلاف یا حداقل اختلاف‌نظر تاکتیکی وجود دارد: چه چیزی «قابل کنترل» است و چه چیزی هزینه بازدارندگی را بالا می‌برد."
-        ],
-        "impact": "در کوتاه‌مدت احتمال افزایش هماهنگی‌های اطلاعاتی/فشارهای غیرمستقیم بیشتر می‌شود و مسیر جنگی نامعلوم‌تر از قبل می‌ماند.",
-        "tag": "دیپلماتیک",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/explainers/trump-and-netanyahu-weigh-three-iran-strategies-what-next-for-iran-war-14034921.html",
-        "clean_url": "https://www.firstpost.com/explainers/trump-and-netanyahu-weigh-three-iran-strategies-what-next-for-iran-war-14034921.html",
-        "image": "https://images.firstpost.com/uploads/2026/07/Netanyahu-Trump-Reuters-2026-07-38ef0a196384f1525a7b95572ed1ba36.jpg?im=FitAndFill=(1200,675)",
-        "timestamp": 1785407100.0
-    },
-    {
-        "title_fa": "ایران در کانون جنگ با اسرائیل و آمریکا؛ ردیابی تعارضات در «Global Conflict Tracker»",
-        "title_en": "Iran’s War With Israel and the United States | Global Conflict Tracker",
-        "summary": [
-            "این صفحه از «Global Conflict Tracker» چارچوب کلیِ درگیری ایران با اسرائیل و آمریکا را دنبال می‌کند، اما در متنِ ارائه‌شده هیچ جزئیات قابل راستی‌آزمایی درباره زمان، مکان، نوع حمله یا طرف‌های درگیر ارائه نشده است.",
-            "چنین ردیابی‌های بیرونی معمولاً نشانگر این است که منازعه به سطحی رسیده که نیازمند پایش مستمر است؛ با این حال، در محتوای فعلی هیچ داده‌ای درباره شدت، پیامد اقتصادی یا وضعیت تحریم‌ها ذکر نشده است.",
-            "در غیاب اطلاعات مشخص از این متن، نمی‌توان درباره سازوکارهای «فشار خارجی»، نقش روسیه/چین/کره‌شمالی، یا موج‌های اعتراض داخلی و اثر اقتصادی نتیجه‌گیری مستند انجام داد."
-        ],
-        "impact": "تا زمانی که متن گزارش‌شده جزئیات عملیاتی (حمله/پاسخ/تلفات/زمان) ندهد، اثر دقیق بر ثبات رژیم یا سطح خطر قابل اندازه‌گیری نیست.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Council on Foreign Relations",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785405461.0,
-        "id": "2584fce582"
-    },
-    {
-        "title_fa": "گزارش‌ها از تشدید درگیری؛ پهپاد ناشناس در مصر و اعتراف مستقیم عربستان",
-        "title_en": "Iran War Live Updates: Middle East Faces Expanded War as Iran and U.S. Reignite Attacks",
-        "summary": [
-            "مصر اعلام کرده که هدف حمله یک پهپاد ناشناس قرار گرفته است؛ منبع حمله مشخص نشده اما وقوع آن به گسترش دامنه درگیری در منطقه اشاره می‌کند.",
-            "عربستان برای نخستین بار رسماً از «دخالت مستقیم» در جنگ خبر داده؛ این یعنی ریختن خطوط مشارکت کشورها از سطح حمایت پنهان به سطح درگیری علنی.",
-            "هم‌زمان با «ریج‌ِنیت شدن» حملات میان ایران و آمریکا، گزارش‌ها از افزایش خطر درگیری گسترده‌تر در خاورمیانه حکایت دارند؛ جزئیات بیشتر از سوی متن ارائه نشده است."
-        ],
-        "impact": "اعتراف عربستان به مشارکت مستقیم و حمله پهپادی علیه مصر، احتمال درگیر شدن بیشتر بازیگران منطقه‌ای و افزایش ریسک برخوردهای گسترده‌تر را بالا می‌برد.",
-        "tag": "تشدید",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
-        "clean_url": "https://www.nytimes.com/live/2026/07/30/world/iran-war-strikes-trump",
-        "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30mideast-live-promo-gcht/30mideast-live-promo-gcht-facebookJumbo.jpg",
-        "timestamp": 1785404700.0,
-        "id": "f9ceea0a3e"
-    },
-    {
-        "title_fa": "پرواز پهپادها از مصر: جبهه تازه علیه ایران",
-        "title_en": "War in Iran: The latest",
-        "summary": [
-            "حمله پهپادی به مصر یعنی جنگ فقط داخل مرزهای ایران/محورهای نیابتی نمی‌ماند؛ پای بازیگران منطقه‌ای دیگر وسط آمده.",
-            "ایجاد «جبهه مصر» معمولاً برای کم‌کردن فشار روی یک گره مشخص است: یا تهران/نیابتی‌ها دنبال پراکندن تمرکز هستند یا طرف مقابل می‌خواهد روایتِ تهدید را به کل منطقه تعمیم دهد."
-        ],
-        "impact": "تهدید پرنده علیه مصر ریسک درگیری مستقیم و تغییر محاسبات امنیتیِ کل مدیترانه شرقی را بالا می‌برد.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Deseret News on MSN",
-        "url": "https://www.msn.com/en-us/news/world/war-in-iran-the-latest/ar-AA27UXFJ",
-        "clean_url": "https://www.msn.com/en-us/news/world/war-in-iran-the-latest/ar-AA27UXFJ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785401567.0,
-        "id": "d6c0949b95"
-    },
-    {
-        "id": "1d5bd9f6b8",
-        "title_fa": "آمریکایی‌ها جنگ با ایران را به پای بنزین نمی‌خرند",
-        "title_en": "Is the Iran war worth the gas prices? Many Americans say no.",
-        "summary": [
-            "افزایش فشار هزینه‌های زندگی باعث شده بخش بزرگی از مردم آمریکا با ادامه جنگ علیه ایران همراهی نکنند.",
-            "این نارضایتی اجتماعی برای دولت هزینه‌ساز می‌شود: هر گزینه نظامی جدید در واشنگتن باید همزمان توجیه اقتصادی هم پیدا کند."
-        ],
-        "impact": "هر موج تشدید تنش با ایران می‌تواند به بی‌پشتوانی داخلی در آمریکا دامن بزند و دست سیاست‌گذار را محدود کند.",
-        "tag": "سیاسی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "USA TODAY on MSN",
-        "url": "https://www.msn.com/en-us/money/general/is-the-iran-war-worth-the-gas-prices-many-americans-say-no/ar-AA294zSv",
-        "clean_url": "https://www.msn.com/en-us/money/general/is-the-iran-war-worth-the-gas-prices-many-americans-say-no/ar-AA294zSv",
-        "image": "http://www.bing.com/th?id=ONUT.tDQEczpQIgJwooaTfaHSmQ&pid=News",
-        "timestamp": 1785400081.0
     }
 ]
