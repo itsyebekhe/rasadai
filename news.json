@@ -56,6 +56,25 @@
         "timestamp": 1787649720.0
     },
     {
+        "id": "9d5f0efa5e",
+        "title_fa": "«نورماندی اقتصادی» ترامپ علیه ایران؛ کلید زدن خفه‌سازی کامل مالی",
+        "title_en": "Could Iran’s regime collapse? Experts assess Bessent’s bid to sever financial lifelines",
+        "summary": [
+            "اعلام طرح «D-Day اقتصادی» توسط وزیر خزانه‌داری آمریکا، تغییر استراتژی واشنگتن از فشار تدریجی به مسدودسازی ضربتی و کامل شریان‌های مالی تهران در سراسر جهان را کلید زد.",
+            "هدف‌گیری هم‌زمان ۶۰ شبکه نفتی، تسلیحاتی و سایبری، ضربه مستقیم به منابع تامین مالی سپاه و دستگاه‌های امنیتی برای فروپاشی توان مالی حاکمیت است.",
+            "ژست بی‌تفاوتی مقامات اقتصادی تهران و ادعای شکست تحریم‌ها صرفاً کارکرد مصرف داخلی دارد؛ واقعیت میدان، قفل شدن بیشتر منابع ارزی و شوک تازه به بازار است."
+        ],
+        "impact": "قطع شریان‌های نفتی و بانکی، فلج‌شدن توان مالی تامین گروه‌های نیابتی و جهش شدید نرخ ارز در بازار داخلی را به دنبال دارد.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/could-iran-regime-collapse-experts-120947350.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/could-iran-regime-collapse-experts-120947350.html",
+        "image": "http://www.bing.com/th?id=ONUT._DRmovAqgtPVaSfAeU6XDA&pid=News",
+        "timestamp": 1787634540.0
+    },
+    {
         "id": "f9ab4c6a1b",
         "title_fa": "پیامدهای معکوس فشار اقتصادی؛ خلیج فارس در آستانه درگیری نظامی",
         "title_en": "U.S. Campaign on Iran’s Economy May Still Risk Regional Military Escalation",
@@ -5540,23 +5559,5 @@
         "clean_url": "https://www.washingtonpost.com/world/2026/07/31/trumps-infrastructure-strikes-leave-irans-economy-battered",
         "image": "http://www.bing.com/th?id=ONUT.8xx6Xh4weJiZkv8hglWqCg&pid=News",
         "timestamp": 1785463200.0
-    },
-    {
-        "id": "7c89550ebc",
-        "title_fa": "آمریکا ردپای حمله سایبری به آب مینه‌سوتا را می‌جوید",
-        "title_en": "US Iran War Live Updates: US probes cyberattacks on Minnesota water systems for suspected Iran link",
-        "summary": [
-            "گزارش‌ها می‌گوید آمریکا در حال بررسی حمله‌های سایبری به سامانه‌های آب مینه‌سوتاست و دنبال ارتباط احتمالی با ایران است؛ یعنی از یک پرونده فنی، سرنخ سیاسی می‌سازد.",
-            "هدف این نوع حمله‌ها معمولاً «اختلال عملیاتی» است نه صرفاً هک نمایشی: تهدید آب شهری از نظر روانی و امنیتی فوری‌تر از خیلی از عرصه‌هاست و می‌تواند بحران رسانه‌ای بسازد."
-        ],
-        "impact": "ریسک اختلال در زیرساخت حیاتی و بالا رفتن تنش امنیتی واشنگتن-تهران را تشدید می‌کند.",
-        "tag": "سایبری",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/world/us-iran-war-live-updates-saudi-arabia-egypt-donald-trump-liveblog-14035015.html",
-        "clean_url": "https://www.firstpost.com/world/us-iran-war-live-updates-saudi-arabia-egypt-donald-trump-liveblog-14035015.html",
-        "image": "http://www.bing.com/th?id=ONUT.NuoZ6r2h0zg9FRJdlbBDxQ&pid=News",
-        "timestamp": 1785456240.0
     }
 ]
