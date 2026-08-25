@@ -1,5 +1,23 @@
 [
     {
+        "id": "f08e58f69d",
+        "title_fa": "ازسرگیری تدریجی پروازهای بین‌المللی در آسمان خاورمیانه",
+        "title_en": "Airlines gradually restore Middle East services after Iran conflict",
+        "summary": [
+            "با کاهش احتمال درگیری‌های مستقیم نظامی، شرکت‌های بزرگ هواپیمایی پروازهای خود به خاورمیانه را از سر گرفتند.",
+            "ارزیابی جدید شرکت‌های بیمه از کاهش خطرات فوری هوایی، مسیر را برای عادی‌سازی عبور و مرور پروازهای تجاری باز کرده است."
+        ],
+        "impact": "کاهش هزینه‌های ترانزیت هوایی و بازگشت آرامش نسبی به خطوط پروازی منطقه.",
+        "tag": "هوانوردی",
+        "urgency": 4,
+        "sentiment": 0.5,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVBTWVJmQzQ0amNDbXRwTnRpMXZOc19tNndrYlRWNHFWWllULVVkZGxEVkNic2lGdkhKdFE1N0NzQUt6d3BVcEhvME11eUVWSjlZNXlDcUJ5ZFBMSF9KMDNXMnVMaksyT1p5UUhOVUV1b3pYeVZzeEVCa285VGRtYUN3UFZOalRsS3Bzb0dNV3UzMGZrOWdsdC1FWjdvYW9qUkNVOENCUERpTGdjbl9yM0VLYmxMdw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQVBTWVJmQzQ0amNDbXRwTnRpMXZOc19tNndrYlRWNHFWWllULVVkZGxEVkNic2lGdkhKdFE1N0NzQUt6d3BVcEhvME11eUVWSjlZNXlDcUJ5ZFBMSF9KMDNXMnVMaksyT1p5UUhOVUV1b3pYeVZzeEVCa285VGRtYUN3UFZOalRsS3Bzb0dNV3UzMGZrOWdsdC1FWjdvYW9qUkNVOENCUERpTGdjbl9yM0VLYmxMdw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787689956.0
+    },
+    {
         "id": "fdccf15741",
         "title_fa": "تشدید جنگ اقتصادی واشنگتن علیه ایران و پیامدهای آن",
         "title_en": "The U.S. is escalating its economic war on Iran. Here’s what that means.",
@@ -70,6 +88,25 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-is-being-driven-towards-the-nuclear-threshold/ar-AA2aTXCP",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2aU00K.img?w=600&h=400&m=4&q=81",
         "timestamp": 1787673600.0
+    },
+    {
+        "id": "3c95171a15",
+        "title_fa": "سقوط سنگین قیمت نفت در پی عقب‌نشینی از سایه جنگ",
+        "title_en": "Crude Prices Tumble on Signs of Easing US-Iran Hostilities",
+        "summary": [
+            "انتشار اخبار بازگشت دیپلمات‌های آمریکایی به سفارتخانه‌های منطقه، قیمت نفت را با ریزش ۳ درصدی همراه کرد.",
+            "خروج همزمان ۴۰ نفتکش از تنگه هرمز و انتقال ۱۶ میلیون بشکه نفت در یک شب، افت محسوس ریسک‌های عملیاتی در شریان انرژی را تایید می‌کند.",
+            "بازار جهانی با افت سریع قیمت‌ها به منتفی شدن سناریوی درگیری تمام‌عیار میان واشنگتن و تهران واکنش نشان داد."
+        ],
+        "impact": "افت درآمد ارزی ناشی از حباب جنگ و بازگشت شریان صادرات نفت به حالت عادی.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.4,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-prices-tumble-signs-easing-152942575.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-tumble-signs-easing-152942575.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/5a60c1cd3665d5734fce8e957bb258e6.jpg",
+        "timestamp": 1787673312.0
     },
     {
         "id": "3e2ba35835",
@@ -5512,42 +5549,5 @@
         "clean_url": "https://www.msn.com/en-in/news/other/trump-threatens-more-strikes-on-iran-iran-accuses-us-over-escalating-tensions-in-middle-east/ar-AA29bPFe",
         "image": "http://www.bing.com/th?id=ONUT.FJEPbyzwZVFhe44avsE_Lg&pid=News",
         "timestamp": 1785552670.0
-    },
-    {
-        "id": "d0cb835cc7",
-        "title_fa": "تفاوت ترامپ و نتانیاهو دوباره روی «طرح خلع سلاح غزه»",
-        "title_en": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan",
-        "summary": [
-            "ترامپ طرح جدید خلع‌سلاح حماس را «قابل اجرا» دانست و گفت اسرائیل از آن راضی است، با این حال یک روز بعد خودِ او هم روی پیچیدگی ماجرا و بالا و پایین شدن روند تاکید کرد.",
-            "طرح در عمل پشت یک مکانیزم چندملیتی پیش رفت (قاصر: قطر، مصر، ترکیه) اما تل‌آویو می‌تواند با ورود نتانیاهو به موضوع، در اجرای توافق دست‌انداز ایجاد کند؛ چون شرط اسرائیل برای عقب‌نشینی کامل، واگذاری واقعی سلاح‌هاست."
-        ],
-        "impact": "اگر نتانیاهو با طرح ترامپ زاویه بگیرد، امکان کند شدن یا شکست روند خلع‌سلاح و عقب‌نشینی در غزه بالا می‌رود.",
-        "tag": "دیپلماسی، غزه، حماس",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html",
-        "clean_url": "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html",
-        "image": "https://static01.nyt.com/images/2026/07/31/multimedia/31dc-gaza-topart-vhgb/31dc-gaza-topart-vhgb-facebookJumbo.jpg",
-        "timestamp": 1785542700.0
-    },
-    {
-        "id": "5e054c4412",
-        "title_fa": "ترامپ: از همین آخرهفته ضربه سنگین به ایران",
-        "title_en": "US plans fresh strikes on Iran as soon as this weekend, officials say",
-        "summary": [
-            "سی‌ان‌ان می‌گوید آمریکا برنامه «حمله‌های تازه» علیه ایران را برای همین آخرهفته در دستور دارد؛ اما دامنه و هدف‌ها هنوز مشخص نیست و حتی احتمال لغو هم مطرح شده است.",
-            "کویت نیز از رهگیری حملات پهپادی در صبح شنبه خبر داده و گفته انفجارها مربوط به رهگیری است؛ هدف دقیق اعلام نشده، ولی این هم‌زمانی، فضای آماده‌باش منطقه را بالا می‌برد.",
-            "یک تانکر در نزدیکی تنگه هرمز با «پرتاب ناشناس» هدف گرفته شده و خبری از تلفات نیست؛ با این حال، روشن نبودن عامل حمله نشان می‌دهد زنجیره تنش‌ها می‌تواند بهانه/سیگنال برای تشدید حملات باشد."
-        ],
-        "impact": "ریسک درگیری مستقیم و گسترش حملات در محور خلیج فارس بالا می‌رود و کشورهای میزبان مثل کویت در معرض موج رهگیری و اخلال عملیاتی قرار می‌گیرند.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/01/world/live-news/iran-war-trump",
-        "clean_url": "https://www.cnn.com/2026/08/01/world/live-news/iran-war-trump",
-        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-07-31t155857z-972215172-rc23pmaz37ju-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
-        "timestamp": 1785534000.0
     }
 ]
