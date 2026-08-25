@@ -54,6 +54,25 @@
         "timestamp": 1787619600.0
     },
     {
+        "id": "2b60180a5b",
+        "title_fa": "ضربت مالی آمریکا؛ شاهرگ نفتی و اقتصادی جمهوری اسلامی زیر تیغ",
+        "title_en": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا جدی‌ترین هجوم مالی تحت عنوان «دی‌دی اقتصادی» را آغاز کرده تا تمام منابع درآمدی و خریداران نفت ایران، به‌ویژه خریداران چینی را کاملاً منزوی کند.",
+            "ادعای علی مدنی‌زاده، وزیر اقتصاد تهران مبنی بر «آمادگی کامل»، صرفاً یک مانور روانی برای پنهان کردن وحشت حاکمیت از فروپاشی درآمد‌های ارزی است.",
+            "هدف گرفتن خریداران چینی که ۹۰ درصد نفت ایران را جذب می‌کردند، خط لوله ۳۰ میلیارد دلاری بقای اقتصادی تهران را در آستانه قطع کامل قرار داده است."
+        ],
+        "impact": "شوک شدید به بازار ارز، تشدید انزوای بانکی و فلج شدن صادرات غیررسمی نفت ایران.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "BBC",
+        "url": "https://www.bbc.com/news/articles/c0qxew81y83o",
+        "clean_url": "https://www.bbc.com/news/articles/c0qxew81y83o",
+        "image": "http://www.bing.com/th?id=ONUT.4lxX8wLNSIoFgxgAjJXNog&pid=News",
+        "timestamp": 1787615640.0
+    },
+    {
         "id": "8c50ca78ef",
         "title_fa": "رونمایی آمریکا از تحریم‌های تازه و تعویق سنگین‌ترین ضربه مالی",
         "title_en": "Bessent unveils sweeping new Iran sanctions but delays toughest blow",
@@ -5535,24 +5554,5 @@
         "clean_url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
         "image": "http://www.bing.com/th?id=ONUT.DYu76CvSFyhSDKDdHXW2-Q&pid=News",
         "timestamp": 1785425100.0
-    },
-    {
-        "id": "59a981f819",
-        "title_fa": "فشار هزینه انرژی رشد اقتصادی را کند کرد",
-        "title_en": "Energy Costs Squeezed Lower-Income Families Out of Q2 GDP While AI Propped Investment",
-        "summary": [
-            "رشد اقتصادی سه‌ماهه دوم ۲۰۲۶ حدود ۱.۵٪ (سالانه‌شده) ثبت شد؛ پایین‌تر از پیش‌بینی ۲.۱٪ و یعنی مصرف و تولید واقعی نفس کشیده‌اند.",
-            "سرمایه‌گذاری تجهیزات هوش مصنوعی مثل یک لایه پوششی عمل کرده و اثر افت پیوسته کارخانه‌ها را موقتاً پنهان کرده؛ ولی جنگ‌محور شدن هزینه انرژی قدرت خرید خانوارهای کم‌درآمد را می‌خورد.",
-            "ترکیب «فرسایش مصرف» و «ضعف تولید» یعنی حتی اگر سرمایه‌گذاری فناورانه بالا باشد، موتور اقتصاد روی مردم و بنگاه‌های غیرهوش مصنوعی گیر می‌کند."
-        ],
-        "impact": "اقتصاد زیر فشار هزینه‌های انرژی، از نیمه دوم وارد چرخه کندی مصرف و رکود صنعتی می‌شود؛ تنها بخشی مثل هوش مصنوعی تا حدی سرپا نگهش می‌دارد.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Tech Times",
-        "url": "https://www.msn.com/en-us/money/economy/energy-costs-squeezed-lower-income-families-out-of-q2-gdp-while-ai-propped-investment/ar-AA294Myd",
-        "clean_url": "https://www.msn.com/en-us/money/economy/energy-costs-squeezed-lower-income-families-out-of-q2-gdp-while-ai-propped-investment/ar-AA294Myd",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA294gex.img?w=2647&h=1699&m=4&q=94",
-        "timestamp": 1785422853.0
     }
 ]
