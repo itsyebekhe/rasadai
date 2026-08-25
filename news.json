@@ -111,6 +111,25 @@
         "timestamp": 1787611560.0
     },
     {
+        "id": "1795f5e695",
+        "title_fa": "محاصره کامل اقتصادی؛ رویارویی مستقیم ترامپ با خریداران نفت ایران",
+        "title_en": "Trump targets Iran’s trade lifelines — here are the countries most exposed",
+        "summary": [
+            "واشنگتن با کلید زدن طرح «روز D اقتصادی»، فشار حداکثری بر شریان‌های تجاری ایران را وارد فاز جدیدی کرده تا تمامی راه‌های تنفس مالی جمهوری اسلامی را مسدود کند.",
+            "هدف اصلی این کارزار چین است؛ کشوری که خریدار حدود ۹۰ درصد نفت صادراتی ایران است و نقشی کلیدی در حفظ شریان‌های ارزی تهران دارد.",
+            "پالایشگاه‌های خصوصی چین با تغییر برچسب نفت ایران به نام کشورهای دیگر، میلیاردها دلار پول نفت را جابه‌جا می‌کردند که با این طرح جدید تحت ریسک تحریم مستقیم قرار گرفته‌اند."
+        ],
+        "impact": "مسدود شدن مسیرهای دور زدن تحریم در چین، ورود ارز نفتی را بشدت محدود کرده و فشار بر بازار ارز تهران را دوچندان می‌کند.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CNBC",
+        "url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+        "clean_url": "https://www.cnbc.com/2026/08/25/us-iran-secondary-sanctions-china-india-uae-hormuz-trade-.html",
+        "image": "http://www.bing.com/th?id=ONUT.jrEMKaJ5P-BtAj3Yts5AJg&pid=News",
+        "timestamp": 1787610540.0
+    },
+    {
         "id": "c1214c6c35",
         "title_fa": "خط‌ونشان اقتصادی واشنگتن و رکوردشکنی تاریخی سقوط ریال",
         "title_en": "Iran defiant as US vows ‘economic D-Day’ penalties on nations doing business with Tehran",
@@ -5536,23 +5555,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785427215.0,
         "id": "64844af7d8"
-    },
-    {
-        "id": "dcf098cac7",
-        "title_fa": "جنگ ایران-آمریکا، زنجیر کشورهای بیشتری را می‌کشد",
-        "title_en": "Iran War Is Entangling a Growing List of Mideast Nations",
-        "summary": [
-            "با کم‌رنگ شدن امید به ازسرگیری مذاکرات، چرخه حمله و مقابله دوباره فعال شد؛ دو شب پیاپی درگیری مستقیم میان ایران و آمریکا مثل «سیگنال خطر» برای کل منطقه عمل می‌کند.",
-            "خبر فقط درباره ایران نیست؛ وقتی حملات تکرار می‌شود، کشورها ناچارند در محاسبه امنیتی‌شان تجدیدنظر کنند و همین باعث «گیر افتادن» بازیگران بیشتر در منازعه می‌شود: از پایگاه‌ها و کریدورهای دریایی تا سیاست‌های داخلی و امنیتی."
-        ],
-        "impact": "هر موج حمله، هزینه محاسبات امنیتی دیگر کشورها را بالا می‌برد و ریسک درگیری نیابتی/غیرمستقیم را بیشتر می‌کند.",
-        "tag": "منطقه‌ای",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
-        "clean_url": "https://www.nytimes.com/2026/07/30/world/middleeast/us-iran-war-expansion.html",
-        "image": "http://www.bing.com/th?id=ONUT.DYu76CvSFyhSDKDdHXW2-Q&pid=News",
-        "timestamp": 1785425100.0
     }
 ]
