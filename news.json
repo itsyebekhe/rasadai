@@ -73,6 +73,25 @@
         "timestamp": 1787707740.0
     },
     {
+        "id": "0fef5463f1",
+        "title_fa": "طرح ایران و عمان برای تنگه هرمز و صف‌های بنزین در تهران",
+        "title_en": "Iran, Oman edge toward Strait of Hormuz reopening plan, but Tehran demands U.S. lift blockade",
+        "summary": [
+            "تهران و مسقط بر سر ایجاد یک مسیر عبور موقت و مین‌روبی در تنگه هرمز مذاکره می‌کنند، اما ایران شرط اصلی تردد کشتی‌ها را رفع کامل محاصره دریایی توسط آمریکا اعلام کرده است.",
+            "واشنگتن با هدف شکستن بن‌بست جنگ، موج تازه‌ای از تحریم‌ها را علیه متحدان ایران اعمال کرد؛ اقدامی که تشر تند چین به آمریکا برای عدم مداخله در منافع پکن را در پی داشت.",
+            "در حالی که مقامات تهران تأثیر تحریم‌های جدید را ناچیز می‌دانند، هراس مردم از کمبود سوخت و فروپاشی اقتصادی، خیابان‌های پایتخت را شاهد صف‌های طولانی در پمپ‌بنزین‌ها کرده است."
+        ],
+        "impact": "تداوم بحران عبور انرژی در هرمز همراه با موج جدید التهاب اقتصادی و روانی در داخل کشور.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/iran-oman-edge-toward-strait-070327916.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/iran-oman-edge-toward-strait-070327916.html",
+        "image": "http://www.bing.com/th?id=ONUT.ok2tUtY_n0vQT2yPtIBdLw&pid=News",
+        "timestamp": 1787702580.0
+    },
+    {
         "id": "b3dc422b56",
         "title_fa": "رایزنی تهران و مسقط برای ایجاد گذرگاه موقت در تنگه هرمز",
         "title_en": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on",
@@ -5532,23 +5551,5 @@
         "clean_url": "https://www.bostonglobe.com/2026/08/02/world/irans-leaders-show-united-front-over-war",
         "image": "http://www.bing.com/th?id=ONUT.l5K0XINhgh3JuY_5VplN9w&pid=News",
         "timestamp": 1785603600.0
-    },
-    {
-        "id": "4e7be669fa",
-        "title_fa": "هشدار فوری سفارت آمریکا در اردن؛ احتمال ضربه تازه به ایران",
-        "title_en": "US-Israel-Iran war latest live news: Is Trump preparing fresh strikes on Iran this weekend? US embassy issues urgent security alert in Middle East",
-        "summary": [
-            "سفارت آمریکا در اردن یک هشدار امنیتی تازه داده که عملاً به موج تنش میان آمریکا، اسرائیل و ایران سوخت می‌دهد و فضای منطقه را از حالت معمول خارج می‌کند.",
-            "هم‌زمان با بحث‌های رسانه‌ای درباره «اقدام احتمالی این آخر هفته»، این نوع هشدارها معمولاً نشانه آمادگی برای سناریوهای تلافی/بازدارندگی است؛ یعنی تمرکز روی زمان‌بندی عملیات و افزایش سطح مراقبت می‌افتد."
-        ],
-        "impact": "این هشدار می‌تواند به افزایش تدابیر امنیتی، محدودیت‌ها و بالا رفتن ریسک درگیری‌های نیابتی یا پاسخ‌های سریع منجر شود.",
-        "tag": "امنیتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-live-news-is-trump-preparing-fresh-strikes-on-iran-this-weekend-us-embassy-issues-urgent-security-alert-in-middle-east/ar-AA29dxFf",
-        "clean_url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-live-news-is-trump-preparing-fresh-strikes-on-iran-this-weekend-us-embassy-issues-urgent-security-alert-in-middle-east/ar-AA29dxFf",
-        "image": "http://www.bing.com/th?id=ONUT.MWwMhQMA3OLoymeKLPboWw&pid=News",
-        "timestamp": 1785597780.0
     }
 ]
