@@ -18,6 +18,24 @@
         "timestamp": 1787748742.0
     },
     {
+        "id": "9c7c6dd9a7",
+        "title_fa": "تشدید تحریم‌های فرامرزی آمریکا و اولتیماتوم به خریداران نفت",
+        "title_en": "US expands sanctions on Iran, puts other countries on notice",
+        "summary": [
+            "واشنگتن دور جدیدی از تحریم‌های گسترده را کلید زد و به کشورهای ثالث برای قطع کامل روابط مالی با تهران هشدار داد.",
+            "این اقدام مکمل استراتژی «روز دی اقتصادی» ترامپ برای مسدودسازی کامل رگ‌های حیاتی تجارت خارجی ایران است."
+        ],
+        "impact": "تنگ‌تر شدن حلقه تحریم‌های فرامرزی، آخرین منافذ باقی‌مانده برای صادرات نفت را می‌بندد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Scripps News",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0VKRHcyQkl3SEdOOTFWcklXNFd4Z3VteUdtcllIV3dYWDV1WjVVcmVHa2REU3BCSjZSSnhwRF9ZUEl1aGFWVG9qbGFDb2lyVjJaUFh5c1g0NUpKMHFiR2plWFo2ZERYbld5eW9La0c4QlBJU19rT3ZLc3MteWpCMS1Zd0ZjRXlSbUJyUzVVQkFKakZpTVJyTWZKQVFyS2NOdHBldXJ4TmR6ZXl4U1o3Zmp2eHQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0VKRHcyQkl3SEdOOTFWcklXNFd4Z3VteUdtcllIV3dYWDV1WjVVcmVHa2REU3BCSjZSSnhwRF9ZUEl1aGFWVG9qbGFDb2lyVjJaUFh5c1g0NUpKMHFiR2plWFo2ZERYbld5eW9La0c4QlBJU19rT3ZLc3MteWpCMS1Zd0ZjRXlSbUJyUzVVQkFKakZpTVJyTWZKQVFyS2NOdHBldXJ4TmR6ZXl4U1o3Zmp2eHQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787747912.0
+    },
+    {
         "id": "4fb0f395cf",
         "title_fa": "طرح تهران برای ممنوعیت ورود ناوهای خارجی به تنگه هرمز",
         "title_en": "Iran warns of military ship ban in Hormuz under potential deal with Oman and other Middle East news",
@@ -71,6 +89,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSTNxYVc5cXBxc3BKYnRCQUFkZzAzVnNkRVotNTk1ZVhMbkE4S2g5MmhobENrNXNLbXNHWl9YemlHR1B2Z3Q4VmgyWnNkM0NxWUZwbW9SV0d3aEc2OTZGYlZVU2d2aFFNY29ZenU2WnRxMkF3OWhxWmhRSDZYVXRGeGlxcEM5RzlIZTRxUWlrRjdmazBwSFVmb0Nfbnl5TzRJV3lLZmwyQy1lZl9pWEFZWVdxMExna29IZVkwMHlkb1U0UFNVek5pbjFxdUM0MGpJ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787738700.0
+    },
+    {
+        "id": "bca98105df",
+        "title_fa": "ادعای جنجالی ترامپ درباره مجتبی خامنه‌ای و ساختار قدرت تهران",
+        "title_en": "Trump Says Mojtaba Khamenei Is Alive. Either Way, His Ghost Rules Iran",
+        "summary": [
+            "ترامپ رسماً اعلام کرد مجتبی خامنه‌ای زنده اما شدیداً مجروح است و سناریوی پنهان‌کاری تهران را زیر سوال برد.",
+            "حتی در صورت غیبت مجتبی خامنه‌ای، ساختار امنیتی برای حفظ توازن از اسم او به عنوان نماد حاکمیت استفاده می‌کند.",
+            "پیامدهای عملیات «خشم حماسی» آمریکا، تهران را در انسداد کامل استراتژیک قرار داده است."
+        ],
+        "impact": "تداوم ابهام در راس هرم قدرت، اختلال شدید در تصمیم‌گیری‌های کلان نظامی ایجاد کرده است.",
+        "tag": "سیاسی",
+        "urgency": 8,
+        "sentiment": -0.6,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/trump-mojtaba-khamenei-alive-iran-irgc-ghost-rule-12370507",
+        "clean_url": "https://www.newsweek.com/trump-mojtaba-khamenei-alive-iran-irgc-ghost-rule-12370507",
+        "image": "http://www.bing.com/th?id=ONUT.t7Gk-93npowoeNHmB1oWFg&pid=News",
+        "timestamp": 1787731980.0
     },
     {
         "id": "b40c09ed2c",
@@ -291,6 +328,25 @@
         "timestamp": 1787707740.0
     },
     {
+        "id": "2c380a1161",
+        "title_fa": "خسارت سنگین حملات پهپادی ایران به پایگاه‌های جاسوسی آمریکا",
+        "title_en": "Iranian attacks cause billions in damage to US surveillance hardware in Middle East — TV",
+        "summary": [
+            "گزارش منابع آمریکایی از خسارت چند میلیارد دلاری به تجهیزات پیشرفته نظارتی و اطلاعاتی آمریکا در منطقه پرده برداشت.",
+            "این حجم از آسیب، توان پدافندی و آمادگی پنتاگون برای حفاظت از پایگاه‌های حساس را زیر سوال برده است.",
+            "واشنگتن برای بازسازی این پایگاه‌های ضربه‌دیده به میلیاردها دلار بودجه و زمان طولانی نیاز دارد."
+        ],
+        "impact": "تضعیف اشراف اطلاعاتی آمریکا در منطقه، فضا را برای تحرکات غیرقابل‌پیش‌بینی نظامی بازتر می‌کند.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2177687",
+        "clean_url": "https://tass.com/world/2177687",
+        "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20260826/1484677.jpg",
+        "timestamp": 1787705520.0
+    },
+    {
         "id": "c75dd38788",
         "title_fa": "پنهان‌کاری در تهران؛ غیبت مجتبی خامنه‌ای نشانه چیست؟",
         "title_en": "غیبت مجتبی به بقای جمهوری اسلامی کمک خواهد کرد؟",
@@ -308,6 +364,25 @@
         "clean_url": "https://www.iranintl.com/202608252395",
         "image": "http://www.bing.com/th?id=ONUT.g7c0BK0ke4b9QrYxhBmD2A&pid=News",
         "timestamp": 1787705220.0
+    },
+    {
+        "id": "9df4c2569c",
+        "title_fa": "فلج شدن مسیرهای ترانزیتی اوراسیا در پی حملات موشکی آمریکا",
+        "title_en": "The Iran War Is Disrupting Trade Connectivity Across Eurasia",
+        "summary": [
+            "انهدام پل راه‌آهن آق‌قلا توسط موشک‌های کروز آمریکا، شریان اصلی ترانزیت ریلی شمال ایران به اوراسیا را قطع کرد.",
+            "ناامنی شدید در تنگه هرمز و البحر الاحمر تجارت ترانزیتی قاره اوراسیا را به نبرد واشنگتن و تهران گره زده است.",
+            "نبود هیچ‌گونه مذاکره آتش‌بس از آغاز فاز جدید فلج‌سازی زیرساخت‌های مواصلاتی ایران خبر می‌دهد."
+        ],
+        "impact": "قطع خطوط ترانزیتی، ضربه‌ای مهلک به درآمدهای ارزی و موقعیت ژئواکونومیک کشور وارد می‌کند.",
+        "tag": "ترانزیت",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/08/the-iran-war-is-disrupting-trade-connectivity-across-eurasia/",
+        "clean_url": "https://thediplomat.com/2026/08/the-iran-war-is-disrupting-trade-connectivity-across-eurasia",
+        "image": "http://www.bing.com/th?id=ONUT.47dN69XcHPVgvslYsdPC0Q&pid=News",
+        "timestamp": 1787702700.0
     },
     {
         "id": "0fef5463f1",
@@ -5471,81 +5546,5 @@
         "clean_url": "https://www.msn.com/en-in/news/world/us-israel-iran-war-latest-news-pakistan-and-qatar-to-send-emissaries-for-us-iran-talks-following-recent-military-escalations/ar-AA29hybi",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA29gYul.img?w=1200&h=900&m=4&q=100",
         "timestamp": 1785705060.0
-    },
-    {
-        "id": "d791ef5bde",
-        "title_fa": "ترامپ مذاکره می‌گوید؛ ایران می‌گوید مذاکره‌ای نیست",
-        "title_en": "Trump's on-again, off-again war with Iran: Every major threat, every U-turn and what he expects from today's talks",
-        "summary": [
-            "ترامپ اعلام کرده مذاکرات تازه با ایران از «فردا بعدازظهر» آغاز می‌شود و قرار است درباره آینده تنگه هرمز و در نهایت برنامه هسته‌ای ایران صحبت شود؛ اما هیچ جزئیاتی از محل و طرف‌های مذاکره نداده است.",
-            "تهران همان ساعت خبر را خط زده: وزارت خارجه می‌گوید فعلاً با آمریکا مذاکره‌ای ندارند و تنها گفت‌وگوهایشان با عمان برای تضمین عبور امن از تنگه هرمز است؛ پس اختلاف، از همان شروع روی «میز مذاکره» است نه صرفاً محتوای آن.",
-            "ترامپ در ادامه روایت تهدید-تغییر موضع، به ادعای «تعویق حمله بزرگ از سوی ایران و چند کشور» اشاره کرده که رسانه‌های ایران تکذیبش کرده‌اند؛ همین چرخه تهدید نظامی، توقف ناگهانی و بعد برگشت به دیپلماسی، کل منازعه را از ماه‌های قبل شکل داده است."
-        ],
-        "impact": "این رفت‌وبرگشت تهدید و مذاکره، ریسک نااطمینانی امنیتی در تنگه هرمز را بالا نگه می‌دارد و مسیر واقعی گفت‌وگوها را مبهم می‌کند.",
-        "tag": "مذاکره",
-        "urgency": 7,
-        "sentiment": -0.2,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/trump-s-on-again-off-again-war-with-iran-every-major-threat-every-u-turn-and-what-he-expects-from-today-s-talks-article-13992565.html",
-        "clean_url": "https://www.moneycontrol.com/world/trump-s-on-again-off-again-war-with-iran-every-major-threat-every-u-turn-and-what-he-expects-from-today-s-talks-article-13992565.html",
-        "image": "https://images.moneycontrol.com/static-mcnews/2026/08/20260803122705_Trump-iran-New-6.jpg",
-        "timestamp": 1785704340.0
-    },
-    {
-        "id": "8f0c7fc45c",
-        "title_fa": "ایران: بدون پایان حملات آمریکا، هرمز باز نمی‌شود",
-        "title_en": "US-Iran War Live Updates: Iran says no Hormuz reopening without end to US strikes",
-        "summary": [
-            "سخنگوی وزارت خارجه ایران تأکید کرد «میانجی جدیدی» وارد بازی نشده و پاکستان محور مذاکره با آمریکا است؛ قطر هم فقط در موارد ضروری کمک می‌کند و نقش تازه‌ای برای چین قائل نیستند.",
-            "ایران می‌گوید با عمان روی مسیر موقت امن برای کشتیرانی از تنگه هرمز کار می‌کند، اما «صرفِ توافق» تنگه را باز نمی‌کند؛ شرط باز شدن، توقف حملات آمریکا علیه ایران است.",
-            "در همین فضا، ترکیه نتانیاهو را به تضعیف روند صلح متهم کرد و ادامه حملات مرگبار به غزه را نشانه بی‌میلی به حل‌وفصل فلسطینی‌ها دانست.",
-            "ترامپ پس از اشاره به حمله قریب‌الوقوع، از تشدید نظامی عقب نشست؛ اما تهران این عقب‌نشینی‌های مقطعی را در چارچوب همان الگوی رفت‌وبرگشت فشار و مذاکره در جنگ پنج‌ماهه می‌بیند."
-        ],
-        "impact": "پیام ایران برای هرمز عملاً دست آمریکا و متحدانش را در بازگشایی سیاسی/کشتیرانی تنگ می‌کند و ریسک تداوم تنش را بالا نگه می‌دارد.",
-        "tag": "هرمز",
-        "urgency": 8,
-        "sentiment": -0.35,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-trump-confirms-saudi-call-as-us-pauses-iran-strike-nuclear-talks-strait-of-hormuz-liveblog-19958939.htm",
-        "clean_url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-trump-confirms-saudi-call-as-us-pauses-iran-strike-nuclear-talks-strait-of-hormuz-liveblog-19958939.htm",
-        "image": "http://www.bing.com/th?id=ONUT.3TZahvB1J6mgk-Fl9zhRLA&pid=News",
-        "timestamp": 1785696060.0
-    },
-    {
-        "id": "77055b93b6",
-        "title_fa": "ایران دامنه حملات را گسترش داد؛ فشار به کریدورهای دریایی آمریکا",
-        "title_en": "Iran intensifies attacks, threatening American dominance over vital regional shipping routes",
-        "summary": [
-            "طبق گزارش‌ها، تهران از حالت صرفاً واکنشی خارج شده و با ضربات پیش‌دستانه در حال تعیین ریتم درگیری است؛ هدف این است که آمریکا پاسخ را «به زبان ایران» بدهد نه به میل واشنگتن.",
-            "گسترش جنگ از اردن تا دریای سرخ، همراه با دستکاری مسیرهای حیاتی کشتیرانی، هزینه عملیاتی آمریکا را بالا می‌برد و هم‌زمان دولت‌های عرب را علیه تشدید ناگهانی درگیر می‌کند.",
-            "با اینکه ترامپ از لغو یک حمله برنامه‌ریزی‌شده با درخواست متحدان منطقه‌ای خبر داده، روند مذاکرات شکننده است؛ چون توافق ماه ژوئن برای توقف درگیری و بازگشایی مسیرها ظاهراً نتوانسته دوام بیاورد."
-        ],
-        "impact": "فشار هم‌زمان نظامی و امنیتی روی مسیرهای دریایی می‌تواند هزینه حمل‌ونقل منطقه را بالا ببرد و واشنگتن را مجبور به واکنش پرهزینه‌تر کند.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Moneycontrol",
-        "url": "https://www.moneycontrol.com/world/iran-intensifies-attacks-threatening-american-dominance-over-vital-regional-shipping-routes-article-13992165.html",
-        "clean_url": "https://www.moneycontrol.com/world/iran-intensifies-attacks-threatening-american-dominance-over-vital-regional-shipping-routes-article-13992165.html",
-        "image": "http://www.bing.com/th?id=ONUT.Z5a7YnmKzRiplw9vhJuV2w&pid=News",
-        "timestamp": 1785690780.0
-    },
-    {
-        "id": "a760e8793b",
-        "title_fa": "ترامپ کرشمه «موفقیت جنگ»؛ واقعیتِ میدانی چیز دیگر است",
-        "title_en": "Fact-checking Trump's claims about how the Iran war is going",
-        "summary": [
-            "هم‌زمان با فروریختن آتش‌بس، آمریکا حملات تازه علیه ایران را شروع کرده؛ تبلیغ «موفقیت جنگ» با جدول زمانی واقعیت هم‌خوان نیست.",
-            "مدعای ترامپ بیشتر حالت جنگ روانی دارد: وقتی عملیات ادامه دارد و کنترل اوضاع از دست می‌رود، «موفقیت» بیشتر یک روایت سیاسی برای توجیه فشار حداکثری است تا گزارش عملیاتی."
-        ],
-        "impact": "گزارش PBS روایت ترامپ را زیر سؤال می‌برد و هزینه سیاسیِ ادعاهای موفقیت‌نمای جنگ را بالا می‌برد.",
-        "tag": "رسانه‌ای",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "Public Broadcasting Service (PBS)",
-        "url": "https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going",
-        "clean_url": "https://www.pbs.org/newshour/world/fact-checking-trumps-claims-about-how-the-iran-war-is-going",
-        "image": "https://d3i6fh83elv35t.cloudfront.net/static/2026/08/2026-07-31T061146Z_355163413_RC2ROMAOX291_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ-1024x668.jpg",
-        "timestamp": 1785690720.0
     }
 ]
