@@ -1,5 +1,23 @@
 [
     {
+        "id": "b3dc422b56",
+        "title_fa": "رایزنی تهران و مسقط برای ایجاد گذرگاه موقت در تنگه هرمز",
+        "title_en": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on",
+        "summary": [
+            "در پی بن‌بست سنگین میان ایران و آمریکا، مقامات جمهوری اسلامی دست‌به‌دامن عمان شده‌اند تا راهی برای کاهش تنش در خطوط کشتیرانی پیدا کنند.",
+            "مسقط بار دیگر نقش واسطه را بازی می‌کند تا از رویارویی مستقیم در خلیج فارس و مسدود شدن کامل صادرات جلوگیری شود."
+        ],
+        "impact": "تلاش تهران برای ایجاد تنفس خلوت در صادرات نفتی و جلوگیری از درگیری مستقیم با نیروهای آمریکایی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787696460.0
+    },
+    {
         "id": "f08e58f69d",
         "title_fa": "ازسرگیری تدریجی پروازهای بین‌المللی در آسمان خاورمیانه",
         "title_en": "Airlines gradually restore Middle East services after Iran conflict",
@@ -52,6 +70,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEkxWHdqMkdiOVNxTkliaDVMN2xZbU4xdWVnYzFyWm4taWVZVUZ1ZW81R0trTDN0djVaS3B1YmE3OENvdkl6ZF9GdDJnUk45b05Ecm1xRWdkY2xLYUtnSENnbXk0c1JfZlgtbktDMUNiSHYyMGN1NG1LbXUtYzJRN0RyVlJzbEVTZFJRNVlpM29tVHVLaGlxLXgtUVFaZzNTN21ZUDFYMnZEQ1h6X09JOTRsdjVXX1k",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787688667.0
+    },
+    {
+        "id": "00685acb8e",
+        "title_fa": "افت شدید قیمت نفت با بازگشت دیپلمات‌های آمریکایی به منطقه",
+        "title_en": "Crude Oil Prices Sharply Lower as Middle East Hostilities Subside",
+        "summary": [
+            "قیمت نفت پس از انتشار اخبار بازگشت دیپلمات‌های آمریکایی به سفارتخانه‌های خاورمیانه بیش از ۳ درصد ریزش کرد.",
+            "عبور حدود ۴۰ نفتکش از تنگه هرمز در یک شب نشان داد که شایعات مربوط به مسدود شدن کامل این شاهراه واقعی نیست.",
+            "سیگنال‌های واشنگتن مبنی بر عدم تمایل به شروع یک جنگ تمام‌عیار، هیجان بازار جهانی انرژی را کاملاً تخلیه کرده است."
+        ],
+        "impact": "کاهش درآمدهای ارزی ایران به دلیل افت قیمت جهانی نفت و افت هیجان بازار انرژی.",
+        "tag": "نفت",
+        "urgency": 5,
+        "sentiment": 0.3,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191558812.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191558812.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/ca88e087f12a3f8d2cc35756e5cb650e.jpg",
+        "timestamp": 1787685024.0
     },
     {
         "id": "ecae34ce40",
@@ -252,6 +289,25 @@
         "clean_url": "https://www.msn.com/en-us/money/markets/iran-and-oman-discuss-joint-shipping-route-in-strait-of-hormuz-and-mine-clearing-mission/ar-AA2aUu8H",
         "image": "http://www.bing.com/th?id=ONUT.jELBBskU8nzpJEdLTjCQrw&pid=News",
         "timestamp": 1787652985.0
+    },
+    {
+        "id": "bfb73b2162",
+        "title_fa": "جنگ اقتصادی ترامپ علیه ایران؛ تحریم‌های فلج‌کننده جانشین حمله مستقیم",
+        "title_en": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+        "summary": [
+            "دولت ترامپ پس از بن‌بست نظامی و ناکامی اولتیماتوم ۶۰ روزه آتش‌بس، تمام ثقل فشار را روی خفه کردن شریان‌های اقتصادی تهران گذاشته است.",
+            "هدف واشنگتن از محدود کردن برنامه هسته‌ای به خارج کردن کنترل تنگه هرمز از دست ایران و قطع کامل صادرات نفت تغییر یافته است.",
+            "وزارت خزانه داری آمریکا قصد دارد با مجازات شدید خریداران نفت ایران، آخرین راه‌های تنفس مالی جمهوری اسلامی را مسدود کند."
+        ],
+        "impact": "تشدید فشار بی‌سابقه بر بازار ارز تهران و مسدودتر شدن مسیرهای دور زدن تحریم‌ها.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "NPR",
+        "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+        "clean_url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8516x4790+0+444/resize/1400/quality/85/format/jpeg/?url=http://npr-brightspot.s3.amazonaws.com/6a/47/dba05d284318a540221bd45f9cfb/ap26122373189543.jpg",
+        "timestamp": 1787652420.0
     },
     {
         "id": "85f05a3e47",
@@ -5494,60 +5550,5 @@
         "clean_url": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
         "image": "http://www.bing.com/th?id=ONUT.bEscPZVdFe3coUUX5p1OnQ&pid=News",
         "timestamp": 1785573960.0
-    },
-    {
-        "id": "76dd1a9a8f",
-        "title_fa": "ترامپ: ایران را «خیلی سخت» می‌زنیم؛ هشدار خروج از منطقه",
-        "title_en": "Iran-US War LIVE updates: Trump says will hit Iran ‘very hard’; US embassy urges Americans to consider leaving Middle East",
-        "summary": [
-            "ترامپ صریحاً اعلام کرده که در صورت تداوم درگیری‌ها، حمله به ایران را «خیلی سخت» انجام می‌دهد؛ لحن این خبر یعنی فشار صرفاً سیاسی نیست.",
-            "همزمان سفارت آمریکا به شهروندانش توصیه کرده از خاورمیانه خارج شوند/فکر ترک منطقه را داشته باشند؛ این یعنی آمریکا خودِ افزایش ریسک را جدی‌تر از حرف‌های دیپلماتیک می‌بیند."
-        ],
-        "impact": "ریسک حملات مستقیم یا تشدید ضربات علیه نیروهای همسو با ایران بالا می‌رود و بازار انرژی هم آماده شوک‌های جدیدتر است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Financial Express",
-        "url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-homrmuz-oil-price-today-middle-east-attack/4306096/",
-        "clean_url": "https://www.financialexpress.com/world-news/iran-us-war-live-updates-trump-homrmuz-oil-price-today-middle-east-attack/4306096",
-        "image": "http://www.bing.com/th?id=ONUT.u89Nb30XlrurPSLedNKPMA&pid=News",
-        "timestamp": 1785572160.0
-    },
-    {
-        "id": "c7d0ac9001",
-        "title_fa": "ساختار چندقدرتی ایران آتش‌بس با آمریکا را سخت می‌کند",
-        "title_en": "Iran's overlapping power centers make ending the war more complicated",
-        "summary": [
-            "نفوذ هم‌زمان چند «مرکز قدرت» در ایران، اجرای هر آتش‌بس با آمریکا را از حالت یک تصمیم ساده خارج می‌کند؛ از سطح عالی تا ساختارهای امنیتی و نظامی.",
-            "حتی اگر واشنگتن و ایران روی آتش‌بس توافق کنند، هماهنگی برای توقف واقعی در میدان، به خاطر رقابت یا تفاوت مأموریت‌ها میان این مراکز پیچیده می‌شود."
-        ],
-        "impact": "هر آتش‌بس احتمالی، شکننده و پرریسک‌تر از چیزی است که صرفاً با اعلام سیاسی قابل تضمین باشد.",
-        "tag": "دیپلماسی-امنیتی",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "CNBC",
-        "url": "https://www.msn.com/en-us/news/world/irans-overlapping-power-centers-make-ending-the-war-more-complicated/ar-AA29bh50",
-        "clean_url": "https://www.msn.com/en-us/news/world/irans-overlapping-power-centers-make-ending-the-war-more-complicated/ar-AA29bh50",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785567162.0
-    },
-    {
-        "id": "582cf2f227",
-        "title_fa": "ترامپ تهدید به حمله بیشتر به ایران؛ کویت هم واکنش داد",
-        "title_en": "Trump threatens more strikes on Iran; Iran accuses US over escalating tensions in Middle East",
-        "summary": [
-            "ترامپ آشکارا روی گزینه «حمله‌های بیشتر» مانور می‌دهد و هم‌زمان فشار برای بازگشایی مسیر حیاتی تنگه هرمز را در مرکز ادبیات تهدیداتش می‌گذارد؛ یعنی تهدید نظامی را به اهرم اقتصادی-تجاری وصل می‌کند.",
-            "ایران همزمان آمریکا را عامل تشدید تنش در خاورمیانه معرفی می‌کند تا هزینه سیاسی تهدیدات واشنگتن را به گردن طرف مقابل بیندازد؛ اما این دو روایت عملاً در یک نقطه مشترک می‌چرخند: افزایش ریسک امنیتی و عملیاتی در آب‌ها و آسمان منطقه.",
-            "خبر کویت از «پاسخ به یک دور جدید پهپاد» نشان می‌دهد ماجرا فقط لفظ نیست و فضای امنیتی منطقه وارد چرخه واکنش‌های سریع شده؛ هر حمله/رهگیری می‌تواند زنجیره بعدی را فعال کند."
-        ],
-        "impact": "ریسک تشدید نظامی و اختلال در کشتیرانی تنگه هرمز بالا می‌رود و احتمال درگیری‌های محدودِ پهپادی/رهگیری بیشتر می‌شود.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "The New Indian Express on MSN",
-        "url": "https://www.msn.com/en-in/news/other/trump-threatens-more-strikes-on-iran-iran-accuses-us-over-escalating-tensions-in-middle-east/ar-AA29bPFe",
-        "clean_url": "https://www.msn.com/en-in/news/other/trump-threatens-more-strikes-on-iran-iran-accuses-us-over-escalating-tensions-in-middle-east/ar-AA29bPFe",
-        "image": "http://www.bing.com/th?id=ONUT.FJEPbyzwZVFhe44avsE_Lg&pid=News",
-        "timestamp": 1785552670.0
     }
 ]
