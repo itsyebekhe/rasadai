@@ -1,5 +1,23 @@
 [
     {
+        "id": "2eca3ce438",
+        "title_fa": "اثر معکوس تحریم‌ها؛ تقویت جریان‌های رادیکال در ایران",
+        "title_en": "Economic sanctions on Iran causes extremist elements to strengthen",
+        "summary": [
+            "ارزیابی‌های تحلیلی نشان می‌دهد تحریم‌های خفه‌کننده اقتصادی نه تنها تندروها را تضعیف نکرده، بلکه ساختار تصمیم‌گیری در تهران را به سمت افراطی‌تر شدن سوق داده است.",
+            "با فشار شدید بر اقتصاد رسمی و معیشت مردم، شبکه‌های رانتی وابسته به نهادهای نظامی کنترل بیشتری بر اقتصاد زیرزمینی و اهرم‌های قدرت پیدا کرده‌اند."
+        ],
+        "impact": "انسداد اقتصادی فرصت هرگونه عقب‌نشینی دیپلماتیک را از حکومت گرفته و دست تندروها را برای اقدامات حادتر بازتر می‌کند.",
+        "tag": "تحریم",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1idWVEa3pfLXRiYU4teHBBbFp0WU9mLV9yczVVZi1RbklwSUd6WG94enlJNFJaM0EzWFc4bzVaeEY4OGVqa2tFRXhnMTFXUy03NEo3RXVvOFpkQlpLUDZieG43Q1BaWl9JYmc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1idWVEa3pfLXRiYU4teHBBbFp0WU9mLV9yczVVZi1RbklwSUd6WG94enlJNFJaM0EzWFc4bzVaeEY4OGVqa2tFRXhnMTFXUy03NEo3RXVvOFpkQlpLUDZieG43Q1BaWl9JYmc",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1787728185.0
+    },
+    {
         "id": "0bbde03ccf",
         "title_fa": "نشانه رفتن بانک ملی در کانون جنگ اقتصادی جدید آمریکا",
         "title_en": "What to Know About Bank Melli, Singled Out in U.S. Call for Economic War",
@@ -200,6 +218,25 @@
         "clean_url": "https://www.israelnationalnews.com/news/432246",
         "image": "https://2.a7.org/files/pictures/000/1124496.jpg",
         "timestamp": 1787677200.0
+    },
+    {
+        "id": "b5f58accbe",
+        "title_fa": "مذاکرات تهران و مسقط برای گشودن مشروط تنگه هرمز",
+        "title_en": "Iran says Hormuz strait still closed despite transit corridor talks",
+        "summary": [
+            "ایران و عمان در حال تنظیم یک طرح مرحله‌ای برای پاک‌سازی مین‌ها و ایجاد مسیر عبور موقت در تنگه هرمز هستند، اما تهران بازگشایی نهایی را مستقیماً به توقف کامل جنگ و پایان محاصره توسط آمریکا مشروط کرده است.",
+            "وزیر خزانه‌داری آمریکا هدف تحریم‌های تازه را «خفه کردن اقتصادی» ایران اعلام کرده که نشان‌دهنده تشدید بی‌سابقه فشار بر شریان‌های مالی کشور است.",
+            "عباس عراقچی طرح مشترک با مسقط را نشانه کنترل ایران بر گذرگاه‌های استراتژیک می‌داند، در حالی که واشنگتن درصدد قطع کامل صادرات نفت و انرژی ایران است."
+        ],
+        "impact": "امنیت دریانوردی و قیمت جهانی انرژی در گروی بازی خطرناک ایران با کارت تنگه هرمز و تشدید تحریم‌های خفه‌کننده آمریکا است.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-says-hormuz-strait-still-051302996.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-says-hormuz-strait-still-051302996.html",
+        "image": "http://www.bing.com/th?id=ONUT.M14lmNHJ9iKxDEpc3Bycsw&pid=News",
+        "timestamp": 1787677140.0
     },
     {
         "id": "87ce528cb4",
@@ -5513,43 +5550,5 @@
         "clean_url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-live-news-is-trump-preparing-fresh-strikes-on-iran-this-weekend-us-embassy-issues-urgent-security-alert-in-middle-east/ar-AA29dxFf",
         "image": "http://www.bing.com/th?id=ONUT.MWwMhQMA3OLoymeKLPboWw&pid=News",
         "timestamp": 1785597780.0
-    },
-    {
-        "id": "499beb8c20",
-        "title_fa": "ترامپ هشدار حملات تازه؛ کویت موشک‌های ایران را رهگیری کرد",
-        "title_en": "Iran war latest: Trump warns of fresh strikes",
-        "summary": [
-            "ترامپ به‌طور علنی از «حملات تازه» علیه ایران حرف می‌زند و پیامش روشن است: گزینه نظامی را روی میز نگه داشته تا ایران را عقب‌تر بیاورد.",
-            "در همان زمان، گزارش شده کویت موشک‌هایی را که از سمت تهران آمده بودند رهگیری کرده؛ یعنی این هشدار صرفاً لفظی نیست و ریسک درگیری مستقیم در خلیج فارس بالا می‌ماند.",
-            "ارتش ایران هم آمریکا را متهم کرده «مسیر تشدید تنش» را جلو می‌برد؛ جدال لفظی اما در کنار رهگیری موشک، بیشتر شبیه جنگ روانی برای مدیریت ترس و محاسبه طرف مقابل است تا یک کاهش تنش واقعی."
-        ],
-        "impact": "احتمال حمله محدود یا پاسخ سریع بالا می‌رود و ریسک اشتباه محاسباتی در مسیرهای موشکی/پدافندی منطقه بیشتر می‌شود.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Independent on MSN",
-        "url": "https://www.msn.com/en-us/news/world/iran-war-latest-trump-warns-of-fresh-strikes/ar-AA29bSsS",
-        "clean_url": "https://www.msn.com/en-us/news/world/iran-war-latest-trump-warns-of-fresh-strikes/ar-AA29bSsS",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785593504.0
-    },
-    {
-        "id": "ea5bb3f8a7",
-        "title_fa": "هشدار آمریکا در خاورمیانه؛ ترامپ از ضربه «خیلی سنگین» می‌گوید",
-        "title_en": "US warns citizens across the Middle East as Trump and Iran issue new threats",
-        "summary": [
-            "واشنگتن می‌گوید آماده اجرای حملات جدید علیه ایران از همین آخرهفته است، اما دامنه و اهداف هنوز مشخص نیست و ممکن است حمله لغو شود؛ ترامپ هم تهدید را با جمله «خیلی سخت می‌زنیم» علنی کرد.",
-            "همزمان آمریکا برای شهروندانش در کل منطقه هشدار تازه سفر داده و هم‌زمان خبرهای میدانی می‌گوید: تهدیدهای تازه تهران برای کشور‌های میزبان پایگاه‌های آمریکا و گزارش حمله پهپادی ایران به کویت در بامداد شنبه.",
-            "در غزه، اسرائیل طی کمتر از ۴۸ ساعت از اعلام «امکان پیشرفت» در مذاکرات آمریکا-اسرائیل/حماس، به یک بیمارستان ضربه زده و دهانه بزرگ ایجاد کرده؛ نتیجه: هر توافق احتمالی زیر فشار تشدید خشونت، مبهم‌تر می‌شود."
-        ],
-        "impact": "احتمال اجرای حملات فوری علیه ایران و گسترش ناامنی برای نیروها و شهروندان آمریکایی، ریسک درگیری منطقه‌ای را همین هفته بالا می‌برد.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.85,
-        "source": "CNN International",
-        "url": "https://edition.cnn.com/2026/08/01/world/live-news/iran-war-trump?post-id=cmsahjwkx00003b6t2awsxp7o",
-        "clean_url": "https://edition.cnn.com/2026/08/01/world/live-news/iran-war-trump",
-        "image": "http://www.bing.com/th?id=ONUT.spdcWfiifvgBROTBv9GPsQ&pid=News",
-        "timestamp": 1785593220.0
     }
 ]
