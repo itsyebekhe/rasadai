@@ -1,5 +1,96 @@
 [
     {
+        "id": "5963303fef",
+        "title_fa": "ذخیره ۴۴۰ کیلوگرمی اورانیوم ۶۰ درصد و بن‌بست بازرسی‌ها",
+        "title_en": "Nuclear watchdog chief warns Iran maintains 'many capabilities' as Iranian officials block inspections",
+        "summary": [
+            "هشدار صریح گروسی درباره ۴۴۰ کیلوگرم اورانیوم ۶۰ درصد، توانمندی حفظ‌شده ایران برای جهش هسته‌ای را فاش ساخت.",
+            "ممانعت تهران از بازرسی‌ها، دیپلماسی هسته‌ای را به نقطه صفر رسانده و ریسک اقدام پیشگیرانه نظامی را بالا برده است."
+        ],
+        "impact": "نزدیک شدن پرونده هسته‌ای ایران به نقطه بی‌بازگشت و افزایش احتمال درگیری نظامی پیشگیرانه.",
+        "tag": "هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "KSHB 41 Kansas City",
+        "url": "https://www.kshb.com/us-news/iran-war/nuclear-watchdog-chief-warns-iran-maintains-many-capabilities-as-iranian-officials-block-inspections",
+        "clean_url": "https://www.kshb.com/us-news/iran-war/nuclear-watchdog-chief-warns-iran-maintains-many-capabilities-as-iranian-officials-block-inspections",
+        "image": "https://ewscripps.brightspotcdn.com/dims4/default/f3c62f8/2147483647/strip/true/crop/1024x538+0+62/resize/1200x630!/quality/90/?url=https://ewscripps.brightspotcdn.com/44/54/042d3a654ff9b32ac6984b362acc/ap25246459852560.jpg",
+        "timestamp": 1787783760.0
+    },
+    {
+        "id": "3f1d7a33a0",
+        "title_fa": "هدف‌گیری شریان مالی چین؛ فشار کنگره برای انسداد نفت ایران",
+        "title_en": "Lawmakers press Treasury to target Chinese banks over Iran",
+        "summary": [
+            "نمایندگان آمریکایی به دنبال تحریم بانک‌های بزرگ چینی هستند تا آخرین خریدار عمده نفت ایران را عقب برانند.",
+            "کاخ سفید میان ترس از تنش تجاری مستقیم با پکن و بستن کامل شیر نفت ایران در تردید است."
+        ],
+        "impact": "احتمال انسداد کامل مسیرهای دور زدن تحریم‌های نفتی ایران از طریق سیستم بانکی چین.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/08/26/lawmakers-treasury-target-china-banks-iran-01051851",
+        "clean_url": "https://www.politico.com/news/2026/08/26/lawmakers-treasury-target-china-banks-iran-01051851",
+        "image": "http://www.bing.com/th?id=ONUT.IzGkruMRPNGSt24uWXqJsQ&pid=News",
+        "timestamp": 1787761440.0
+    },
+    {
+        "id": "13c638d512",
+        "title_fa": "طرح ایجاد دالان موقت کشتیرانی در تنگه هرمز",
+        "title_en": "Crude Oil Prices Slightly Lower on the Push to Reopen Strait of Hormuz",
+        "summary": [
+            "مذاکرات تهران و مسقط برای ایجاد دالان موقت، تلاشی برای کاهش فشار ناشی از انسداد تنگه هرمز است.",
+            "این عقب‌نشینی تاکتیکی نشان‌دهنده هراس تهران از اجماع بین‌المللی و شکل‌گیری ائتلاف‌های قدرتمند دریایی است."
+        ],
+        "impact": "کاهش موقت قیمت جهانی نفت و عقب‌نشینی تاکتیکی ایران در حوزه ترانزیت انرژی.",
+        "tag": "منطقه",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-slightly-lower-154244601.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-slightly-lower-154244601.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/8e9e755c7ef7fa235e7e307e9b9106d6.jpg",
+        "timestamp": 1787760000.0
+    },
+    {
+        "id": "d9fe9664fb",
+        "title_fa": "طرح جدید آمریکا برای مصادره سریع نفتکش‌های ایران",
+        "title_en": "آمریکا برای توقیف نفت ایران دادگاه‌های «غنائم دریایی» را احیا می‌کند",
+        "summary": [
+            "واشنگتن با احیای قوانین جنگ جهانی دوم، روند توقیف و فروش نفت و نفتکش‌های ایران را سرعت می‌بخشد.",
+            "این اقدام میان‌بری حقوقی برای دور زدن بروکراسی طولانی دادگاه‌های عادی و ضربه مستقیم به شریان مالی تهران است."
+        ],
+        "impact": "افزایش شدید ریسک حمل‌ونقل دریایی و افت فاحش درآمدهای نفتی جمهوری اسلامی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608265533",
+        "clean_url": "https://www.iranintl.com/202608265533",
+        "image": "http://www.bing.com/th?id=ONUT._I5j63AicqgzE8ppRRqMIQ&pid=News",
+        "timestamp": 1787753760.0
+    },
+    {
+        "id": "e4d9bcfc11",
+        "title_fa": "موج جدید خریدهای هیجانی و اعتصابات کارگری در کشور",
+        "title_en": "Labor protests and panic buying signal growing pressure in Iran",
+        "summary": [
+            "وحشت از کمبود سوخت و مواد غذایی، مردم را به سمت خریدهای هجومی و ذخیره‌سازی در منازل سوق داده است.",
+            "تداوم فشار اقتصادی و بحران معیشت، جرقه‌های ناآرامی‌های کارگری را روشن‌تر از قبل کرده است.",
+            "سقوط شدید اعتماد عمومی به وعده‌های مسئولان، بازارهای اساسی را دچار شوک کرده است."
+        ],
+        "impact": "تشدید تورم انتظاری و احتمال فوران اعتراضات معیشتی در شهرهای مختلف.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "The Wall Street Journal on MSN",
+        "url": "https://www.msn.com/en-us/news/other/labor-protests-and-panic-buying-signal-growing-pressure-in-iran/ar-AA2aZC7s",
+        "clean_url": "https://www.msn.com/en-us/news/other/labor-protests-and-panic-buying-signal-growing-pressure-in-iran/ar-AA2aZC7s",
+        "image": "http://www.bing.com/th?id=ONUT.582n5ngKTSAqLZyahhP6eg&pid=News",
+        "timestamp": 1787749860.0
+    },
+    {
         "id": "b5861d1ae1",
         "title_fa": "اردن روی گسل بحران ایران؛ افزایش اهمیت استراتژیک و آسیب‌پذیری",
         "title_en": "The Iran Conflict Makes Jordan More Valuable and More Vulnerable",
@@ -18,6 +109,24 @@
         "timestamp": 1787748742.0
     },
     {
+        "id": "0afc202067",
+        "title_fa": "موضع جنجالی ترامپ و ادعای پایان ماموریت در جنگ ایران",
+        "title_en": "Trump declares ‘Mission Accomplished’ in Iran as conflict drags on",
+        "summary": [
+            "ترامپ با انتشار تصویری نمادین، مدعی درهم‌کوبیدن قدرت نظامی و رهبری جمهوری اسلامی شد.",
+            "تداوم جنگ ۶ ماهه و نارضایتی شدید افکار عمومی در آمریکا، ترامپ را به سمت مانورهای تبلیغاتی برای انتخابات کشانده است."
+        ],
+        "impact": "پیچیده‌تر شدن محاسبات نظامی آمریکا و احتمال تغییر فاز عملیات‌ها در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.4,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-declares-mission-accomplished-iran-194900174.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-declares-mission-accomplished-iran-194900174.html",
+        "image": "http://www.bing.com/th?id=ONUT.BF23e-DuHca-6GwMtALKtA&pid=News",
+        "timestamp": 1787748480.0
+    },
+    {
         "id": "9c7c6dd9a7",
         "title_fa": "تشدید تحریم‌های فرامرزی آمریکا و اولتیماتوم به خریداران نفت",
         "title_en": "US expands sanctions on Iran, puts other countries on notice",
@@ -34,6 +143,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPb0VKRHcyQkl3SEdOOTFWcklXNFd4Z3VteUdtcllIV3dYWDV1WjVVcmVHa2REU3BCSjZSSnhwRF9ZUEl1aGFWVG9qbGFDb2lyVjJaUFh5c1g0NUpKMHFiR2plWFo2ZERYbld5eW9La0c4QlBJU19rT3ZLc3MteWpCMS1Zd0ZjRXlSbUJyUzVVQkFKakZpTVJyTWZKQVFyS2NOdHBldXJ4TmR6ZXl4U1o3Zmp2eHQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787747912.0
+    },
+    {
+        "id": "5ee5e88d8c",
+        "title_fa": "خط ونشان تازه نیروهای مسلح برای رسانه‌های فارسی‌زبان",
+        "title_en": "از زندان تا «هدف نظامی»؛ تهدید تازه جمهوری اسلامی علیه روزنامه‌نگاران",
+        "summary": [
+            "تهدید روزنامه‌نگاران خارج از کشور به عنوان «اهداف نظامی»، استیصال حاکمیت در کنترل جنگ روایت‌ها را برلا کرد.",
+            "جمهوری اسلامی با ساختن خط کلامی جدید، زمینه‌سازی برای ترورهای فرامرزی و فشار بر خانواده خبرنگاران را دنبال می‌کند."
+        ],
+        "impact": "بالا رفتن سطح تهدیدات امنیتی فرامرزی علیه روزنامه‌نگاران و فعالان رسانه‌ای.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608268519",
+        "clean_url": "https://www.iranintl.com/202608268519",
+        "image": "http://www.bing.com/th?id=ONUT.Cu41qNmEmOoGN8xrhndZ-Q&pid=News",
+        "timestamp": 1787747460.0
     },
     {
         "id": "4fb0f395cf",
@@ -5409,139 +5536,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/trump-warns-he-s-giving-iran-last-chance-to-avoid-decapitation/ar-AA29iJOt",
         "image": "http://www.bing.com/th?id=ONUT.0zIO5Pnl9IBJDjdMU8EDyQ&pid=News",
         "timestamp": 1785762503.0
-    },
-    {
-        "id": "719b786f96",
-        "title_fa": "فشار جمهوری‌خواهان به دادستانی برای پرونده جک اسمیت",
-        "title_en": "Get off Jack Smith's back | Letters to the editor",
-        "summary": [
-            "رپولیکن‌های واشنگتن تحت فشار می‌خواهند جک اسمیت، بازرس ویژه سابق، به اتهام «دروغ‌گویی زیر سوگند» یا perjury متهم شود؛ محور استدلالشان این است که او به یک سوال «نیمه‌حقیقت» گفته است.",
-            "نویسنده نامه تاکید می‌کند مشکل اصلی از نگاه او کیفیت پرسش‌گری تیم مقابل است: سوال‌کننده «طبق استاندارد دادگاه» پیش‌برده و پاسخ باید دقیقاً به همان سوال مستقیم محدود می‌شده، نه بیشتر."
-        ],
-        "impact": "این فشار سیاسی می‌تواند پرونده‌های قضایی اسمیت را وارد فاز تازه‌ای کند و هزینه‌های حقوقی-رسانه‌ای برای او بسازد.",
-        "tag": "سیاسی-حقوقی",
-        "urgency": 4,
-        "sentiment": -0.2,
-        "source": "Sun Sentinel",
-        "url": "https://www.sun-sentinel.com/2026/08/03/get-off-jack-smiths-back-letters-to-the-editor/",
-        "clean_url": "https://www.sun-sentinel.com/2026/08/03/get-off-jack-smiths-back-letters-to-the-editor",
-        "image": "https://www.sun-sentinel.com/wp-content/uploads/2026/07/Jack_Smith_Justice_Department_86_68.jpg?w=4391&h=2927",
-        "timestamp": 1785751200.0
-    },
-    {
-        "id": "3d342a6278",
-        "title_fa": "ترامپ برای فشار بر ایران سراغ ایده‌های غیرمتعارف رفت",
-        "title_en": "Trump Admin Now Crowdsourcing for “Creative” Ideas on Iran",
-        "summary": [
-            "خبر از این حکایت دارد که کاخ و پنتاگون بعد از شکست فشارهای نظامی، تیم‌های اطلاعاتی و تحلیلگران را برای «روش‌های جدیدِ خلاقانه و غیرمتعارف» علیه ایران درگیر کرده‌اند؛ یعنی گزینه‌های کلاسیک دیگر کار نمی‌کند.",
-            "در میان سناریوهای مطرح، حمله به برخی سایت‌های زیرزمینی مرتبط با تجهیزات/مواد هسته‌ای مثل «Pickaxe Mountain» دیده می‌شود؛ اما عمق استقرارها احتمالاً بدون نیروی زمینی ممکن نیست و خود ترامپ دنبال درگیر شدن زمینی نیست.",
-            "تناقض اصلی: ترامپ همزمان می‌خواهد نشانِ «فشار حداکثری» بدهد و از جنگ فرسایشی فاصله بگیرد، برای همین از بمباران بیشتر به‌عنوان ابزار فشار استفاده می‌کند؛ ابزارهایی که طبق ارزیابی‌های سازمان‌های اطلاعاتی، موضع مذاکره‌ای ایران را تکان نمی‌دهد.",
-            "با ورود جنگ به ماه ششم و تلفات آمریکایی، تیم کاخ با محدودیت‌های سیاسی-عملیاتی و فشار افکار عمومی درباره شفافیت تلفات روبه‌روست؛ از همین‌جا درخواست «ایده‌های جدید» معنا پیدا می‌کند."
-        ],
-        "impact": "احتمال سناریوهای پیچیده‌ترِ خرابکاری/حملات هدفمند با ریسک بالا بالا می‌رود، بی‌آنکه به تغییر واقعی موضع مذاکره‌ای ایران منجر شود.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.35,
-        "source": "The New Republic",
-        "url": "https://newrepublic.com/post/213863/defense-department-trump-crowdsourcing-creative-ways-punish-iran",
-        "clean_url": "https://newrepublic.com/post/213863/defense-department-trump-crowdsourcing-creative-ways-punish-iran",
-        "image": "http://www.bing.com/th?id=ONUT.Q5eiyW5hCYjNodxt7SJqRQ&pid=News",
-        "timestamp": 1785744540.0
-    },
-    {
-        "id": "be70a59322",
-        "title_fa": "لغو حمله ترامپ، نفت را ۵٪ ریخت",
-        "title_en": "Oil prices drop 5% to three-week low after Trump cancels attack on Iran",
-        "summary": [
-            "قیمت نفت بیش از ۵ دلار در هر بشکه افت کرد و تا کف سه‌هفته اخیر پایین آمد؛ بازار این حرکت را «کاهش ریسک درگیری با ایران» می‌خواند.",
-            "ترامپ حمله تازه را متوقف کرده تا شاید یک معامله سریع بسته شود، اما تهران همزمان گفته برنامه‌ای برای مذاکره ندارد؛ یعنی اهرم فشار هم‌چنان می‌تواند پابرجا بماند."
-        ],
-        "impact": "کاهش ریسک نظامی کوتاه‌مدت باعث ریزش فوری نفت شد، اما نبودِ مذاکره از سوی ایران می‌تواند نوسان را دوباره بالا ببرد.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/oil-tumbles-trump-cancels-attack-iran-reach-nuclear-deal-2026-08-03/",
-        "clean_url": "https://www.reuters.com/business/energy/oil-tumbles-trump-cancels-attack-iran-reach-nuclear-deal-2026-08-03",
-        "image": "http://www.bing.com/th?id=ONUT.zXk7EgfrcRDil54lH4gulw&pid=News",
-        "timestamp": 1785744060.0
-    },
-    {
-        "id": "de3891e089",
-        "title_fa": "پنتاگون از سربازان «ایده خلاق» برای فشار به ایران می‌خواهد",
-        "title_en": "Pentagon asks soldiers for ‘creative’ ideas to punish Iran",
-        "summary": [
-            "پنتاگون از طریق ایمیل به تحلیلگران و نیروهای اطلاعاتی سنتکام خواسته «راه‌های جدید و غیرمعمول» برای «فشار و مجازات» ایران ارائه کنند؛ یعنی آمریکا دنبال گزینه‌های جایگزینِ سناریوهای کلاسیک است.",
-            "این درخواست در خلأِ بن‌بست راهبردی شکل گرفته: جنگی که نتوانسته تهران را به پذیرش خواسته‌های ترامپ وادار کند و همزمان ابزارهای باقی‌مانده یا اثرگذاری محدودی دارند یا ریسک‌هایی دارند که رئیس‌جمهور کمتر حاضر به پذیرششان بوده است.",
-            "حتی قدرت بالای جنگ‌افزارهای متعارف هم برای هدف گرفتن سایت‌های هسته‌ای/حساس زیرزمینی ایران «مؤثر از آب درنمی‌آید»؛ نتیجه‌اش تکیه بر ایده‌های نامتعارف و احتمالاً مبهم‌تر شدن عملیات است.",
-            "این حرکت هم‌زمان با الگوی «اعلام حمله سنگین و لغو در لحظه آخر» بعد از عملیاتی که با اسرائیل مطرح شد، نشانه می‌دهد واشنگتن در کنترل خروجی‌ها به سقف توان برنامه‌ریزی رسیده است."
-        ],
-        "impact": "آمریکا با «جمع‌سپاری ایده» در حال تغییر بسته فشار علیه ایران است و احتمالاً به سمت روش‌های غیرمتعارف‌ترِ افزایش ریسک حرکت می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/pentagon-asks-soldiers-creative-ideas-134226485.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/pentagon-asks-soldiers-creative-ideas-134226485.html",
-        "image": "http://www.bing.com/th?id=ONUT.Pwsbu8gAqHSVVzPjVsrx-g&pid=News",
-        "timestamp": 1785739320.0
-    },
-    {
-        "id": "692d0d1be5",
-        "title_fa": "ترامپ تحت فشار: فقط «تسلیم بی‌قیدوشرط» از ایران",
-        "title_en": "Trump Must Demand Unconditional Surrender From Iran",
-        "summary": [
-            "این متن می‌گوید جنگ با ایران وارد ششمین ماه شده و حتی حامیان سرسخت ترامپ نسبت به مسیر و هزینه‌های عملیات تردید پیدا کرده‌اند؛ یعنی روایت «حل دیپلماتیک» دیگر جواب نمی‌دهد.",
-            "استدلال اصلی این است که مذاکره با تهران «کسب زمان» است؛ پس پیشنهاد می‌دهد ترامپ فوراً به جای مذاکره، هدف را تسلیم بی‌قیدوشرط ایران تعیین کند؛ تغییری صریح از فشار برای توافق به فشار برای شکست کامل."
-        ],
-        "impact": "اگر این لحن در فضای سیاسی آمریکا غالب شود، راهبرد فشار حداکثری از «مذاکره برای محدودسازی» به «اصرار بر فروپاشی/شکست کامل» سوق پیدا می‌کند.",
-        "tag": "ایران",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-must-demand-unconditional-surrender-132240636.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-must-demand-unconditional-surrender-132240636.html",
-        "image": "http://www.bing.com/th?id=ONUT.IejUjA-QYSLi_o4yjsP76A&pid=News",
-        "timestamp": 1785738180.0
-    },
-    {
-        "id": "fd6f4ce715",
-        "title_fa": "ترامپ حملات را می‌خواباند؛ مذاکرات با ایران «فعلاً» برگشت",
-        "title_en": "With Iran, Trump Says Fighting Is Off and Talks Are On—For Now, Again",
-        "summary": [
-            "ترامپ بعد از لغو برخی حملات برنامه‌ریزی‌شده گفت طبق درخواست ایران و چند کشور منطقه‌ای، حمله‌ها در چارچوب توافق موقت تا زمان شکل‌گیری «دیل» متوقف می‌ماند.",
-            "او چارچوب پیشنهادی را این‌طور چید: بازگشایی فوری و کامل تنگه هرمز + توقف تهدید هسته‌ای ایران؛ اما هیچ جدول زمانی مشخصی برای رسیدن به توافق اعلام نکرد.",
-            "ترامپ همزمان تهدید را هم قطع نکرد: «آماده و مسلح» علیه ایران در حدی که ادعا می‌کند بی‌سابقه است؛ یعنی توقف حمله بیشتر شبیه اهرم مذاکره است تا حل قطعی بحران.",
-            "سوابق قبلی نشان می‌دهد این توقف‌ها ممکن است چند روز بعد با برگشت آمریکا به گزینه نظامی تغییر کند؛ مخصوصاً با فرسایشی شدن جنگ و هزینه‌های داخلی برای دولت آمریکا."
-        ],
-        "impact": "اکنون ریسک فوری حملات کاهش یافته، اما به خاطر شرط «توانایی سریع برای معامله» و هشدارهای نظامی، احتمال شوک برگشت حمله در کوتاه‌مدت همچنان بالاست.",
-        "tag": "مذاکره",
-        "urgency": 8,
-        "sentiment": -0.2,
-        "source": "TIME",
-        "url": "https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline/",
-        "clean_url": "https://time.com/article/2026/08/03/us-iran-war-talks-on-off-fighting-pause-history-timeline",
-        "image": "http://www.bing.com/th?id=ONUT.3mtFNyHaRO13USge9esQwg&pid=News",
-        "timestamp": 1785731400.0
-    },
-    {
-        "id": "f88446230f",
-        "title_fa": "ایران مذاکرات مستقیم با آمریکا را امروز رد کرد",
-        "title_en": "Iran denies Trump claim that U.S-Iran negotiations begin today",
-        "summary": [
-            "ایران اعلام کرد برنامه‌ای برای گفت‌وگوی مستقیم با واشنگتن ندارد؛ در حالی که ترامپ گفته بود مذاکرات از امروز آغاز می‌شود.",
-            "ایران می‌گوید مذاکره‌اش فقط با عمان است؛ عمان طی هفته گذشته درباره یک مسیر موقت تازه برای عبور از تنگه هرمز «بحث‌های سازنده» داشته است.",
-            "همزمان، تهران درباره حمله ادعایی اوکراین به یک کشتی تجاری ایرانی در دریای خزر گفت «اقدامات لازم» را انجام می‌دهد و روی «عمدی بودن» تاکید می‌کند.",
-            "این دو محور کنار هم پیام یکسان می‌دهد: فشار رسانه‌ای ترامپ درباره شروع مذاکرات، در عمل با محور کنترل تنش در هرمز و مدیریت پرونده خزر پاسخ داده می‌شود."
-        ],
-        "impact": "فعلاً کانال مذاکره مستقیم آمریکا-ایران روشن نیست و تنش هرمز و پرونده خزر می‌تواند مسیر تصمیم‌سازی را تندتر کند.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-denies-trump-claim-u-111708718.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-denies-trump-claim-u-111708718.html",
-        "image": "http://www.bing.com/th?id=ONUT.dvpPRfBlY6qZ18bKs5m4ZA&pid=News",
-        "timestamp": 1785730620.0
     }
 ]
