@@ -1,5 +1,41 @@
 [
     {
+        "id": "0f0dfc4af3",
+        "title_fa": "موج تازه تحریم‌های آمریکا و فوران اعتراضات معیشتی",
+        "title_en": "New US sanctions will hit ordinary Iranians hard as crashing economy stirs fresh protests",
+        "summary": [
+            "دور جدید فشار خفه‌کننده مالی آمریکا، مستقیماً بر بازار بحران‌زده ارز در ایران بار شده است.",
+            "فشار معیشتی به نقطه جوش رسیده و سقوط آزاد پول ملی، جرقه‌زن دور تازه‌ای از خیزش‌های خیابانی خواهد بود."
+        ],
+        "impact": "جهش نگران‌کننده نرخ ارز و آماده‌سازی فضای جامعه برای اعتراضات سراسری معیشتی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Fortune",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmZwRUxqTVM1WXZpUnZwVmxYcDV6Q2hPZ1lMUVlVYzdOT3BDSHZLVjJmcU15dTQyUEdqWXRaZTRCRVhVX0JLRnRoMERQd2hZbXlyZndwdDdCOW9CM3VkWk93YVdETElBNEFXb1pPdDl0UmNLcXlfWDJzZlRaOVNYYzFMMEhHVzdidWFnN3k5OTNIRzZmRjQ5YU5hbEhTTTFJM3BCeEtn?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTmZwRUxqTVM1WXZpUnZwVmxYcDV6Q2hPZ1lMUVlVYzdOT3BDSHZLVjJmcU15dTQyUEdqWXRaZTRCRVhVX0JLRnRoMERQd2hZbXlyZndwdDdCOW9CM3VkWk93YVdETElBNEFXb1pPdDl0UmNLcXlfWDJzZlRaOVNYYzFMMEhHVzdidWFnN3k5OTNIRzZmRjQ5YU5hbEhTTTFJM3BCeEtn",
+        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788038760.0
+    },
+    {
+        "id": "512d56f4f1",
+        "title_fa": "خط سرکوب شدید در داخل و بلوف‌زنی در برابر آمریکا",
+        "title_en": "6 months in, Iran's leaders are defying the U.S. and signaling no tolerance for dissent",
+        "summary": [
+            "سران جمهوری اسلامی برای مهار بحران ناكارآمدی، خط سرکوب معترضان را شدیدتر کرده‌اند و هیچ‌گونه مخالفتی را برنمی‌تابند.",
+            "پیام تهران به واشنگتن عدم عقب‌نشینی است، اما واقعیت میدانی از ترس شدید حکومت از جرقه‌زدن مجدد اعتراضات خبر می‌دهد."
+        ],
+        "impact": "افزایش خشم زیرپوستی در جامعه و قطعی‌تر شدن تقابل مستقیم مردم با بدنه سرکوب.",
+        "tag": "سرکوب",
+        "urgency": 6,
+        "sentiment": -0.6,
+        "source": "PBS",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFBVNV84TzJuQ1N0OXd1OHJYYi1MaUhEeXhzX1I0eG1vRlNpMGxiUkNudDFXMzNBd1AzY0U1Q3Q4Nk96U1dQeEkzSzFPdzY0VnY4dlk3R2lXOTJMVkJWdk5zU0dMWm9iOXNyQ0FlRlF1aHE0WFZfZWFvc1k5c3FWejlQMDZMelYxeGdVU0NvNVk4cnl1aVVER3RWbUpYaHoxLTc4eTQ4NjNLeWVENVI1Z3ZxTV9wN1R3RFZn0gHAAUFVX3lxTE5Sd2otdnpWWU1zVW54VHRSWHJMRUpBSWVUandaWkhpaC00bDUzNEdfNGJTWF9wTDE3NVRaa3NhSUxYMHBYanVhNFJYcHRZUTdSMFNvVU1mSm55WHZ5TnpraHh1RUg2U05tXzU4U04wS1ZuSUpxejhiQVlULTIxU0JrUEh0cnkweG5OS1UwUlQwYWJBSG9wWTFpLTA5RjdhQXQ2RnM4NFoyeV80SFhYTXlNeHhZT2FiU0xLMktUVl93Xw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUFBVNV84TzJuQ1N0OXd1OHJYYi1MaUhEeXhzX1I0eG1vRlNpMGxiUkNudDFXMzNBd1AzY0U1Q3Q4Nk96U1dQeEkzSzFPdzY0VnY4dlk3R2lXOTJMVkJWdk5zU0dMWm9iOXNyQ0FlRlF1aHE0WFZfZWFvc1k5c3FWejlQMDZMelYxeGdVU0NvNVk4cnl1aVVER3RWbUpYaHoxLTc4eTQ4NjNLeWVENVI1Z3ZxTV9wN1R3RFZn0gHAAUFVX3lxTE5Sd2otdnpWWU1zVW54VHRSWHJMRUpBSWVUandaWkhpaC00bDUzNEdfNGJTWF9wTDE3NVRaa3NhSUxYMHBYanVhNFJYcHRZUTdSMFNvVU1mSm55WHZ5TnpraHh1RUg2U05tXzU4U04wS1ZuSUpxejhiQVlULTIxU0JrUEh0cnkweG5OS1UwUlQwYWJBSG9wWTFpLTA5RjdhQXQ2RnM4NFoyeV80SFhYTXlNeHhZT2FiU0xLMktUVl93Xw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788029714.0
+    },
+    {
         "id": "0977778d68",
         "title_fa": "تشدید فشار مالی؛ بررسی فوری تحریم‌های ضدایرانی در امارات و مصر",
         "title_en": "Egypt's Banque Misr reviews US Iran sanctions notice, UAE central bank launches urgent examination",
@@ -5487,42 +5523,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-warns-further-defeat-trump-132457227.html",
         "image": "http://www.bing.com/th?id=ONUT.7u5x5ew3QLVfHglr6f2LBA&pid=News",
         "timestamp": 1787207040.0
-    },
-    {
-        "id": "77f8358d7b",
-        "title_fa": "بازتاب وضعیت زندانیان سیاسی ایران در گاردین",
-        "title_en": "US latest news",
-        "summary": [
-            "روزنامه گاردین در نامه‌ای سرگشاده به وضعیت خفه‌کننده زندانیان سیاسی در ایران پرداخته است.",
-            "این گزارش زندانیان را گرفتار در میان دو تیغه قیچی سرکوب داخلی و تنش‌های بین‌المللی توصیف می‌کند."
-        ],
-        "impact": "افزایش فشارهای حقوق بشری و رسانه‌ای بر تهران در سطح بین‌المللی.",
-        "tag": "حقوق بشر",
-        "urgency": 4,
-        "sentiment": -0.4,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news",
-        "clean_url": "https://www.theguardian.com/us-news",
-        "image": "https://sb.scorecardresearch.com/p?c1=2&c2=6035250&cv=2.0&cj=1&cs_ucfr=0&comscorekw=us-news",
-        "timestamp": 1787200140.0
-    },
-    {
-        "id": "7516c97522",
-        "title_fa": "ادعای جهش ۵۰ درصدی درآمدهای نفتی ایران در اوج تنش",
-        "title_en": "Iran's oil revenues defy war",
-        "summary": [
-            "وزارت نفت مدعی شده طی چهار ماه اول سال، ۷.۵ میلیارد دلار ارز به بانک مرکزی واریز کرده است.",
-            "تهران با استفاده از شبکه‌های پنهان دور زدن تحریم و تخفیف‌های سنگین، سعی در جبران محاصره دریایی دارد.",
-            "این آمارها بیشتر کارکرد جنگ روانی دارد تا نشان‌دهنده ثبات واقعی در ساختار اقتصادی."
-        ],
-        "impact": "تلاش حکومت برای سیگنال‌دهی ثبات به بازار داخلی و پنهان‌سازی اثر تحریم‌ها.",
-        "tag": "نفت",
-        "urgency": 6,
-        "sentiment": 0.4,
-        "source": "CAJ News Africa",
-        "url": "https://cajnewsafrica.com/2026/08/20/irans-oil-revenues-defy-war/",
-        "clean_url": "https://cajnewsafrica.com/2026/08/20/irans-oil-revenues-defy-war",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787197680.0
     }
 ]
