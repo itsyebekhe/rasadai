@@ -1,5 +1,60 @@
 [
     {
+        "id": "0d2159eef6",
+        "title_fa": "شش ماه پس از آغاز جنگ؛ شکاف در هسته سخت قدرت در تهران",
+        "title_en": "How has life changed for Iranians six months into the war?",
+        "summary": [
+            "کشته شدن علی خامنه‌ای و فرماندهان ارشد سپاه، مجتبی خامنه‌ای را به صورت چراغ‌خاموش در مسند قدرت نشانده است.",
+            "بدنه حکومت میان جناح موافق دیپلماسی و جناح افراطی مدافع جنگ تا آخر دچار شکاف و سردرگمی شدید شده است.",
+            "معیشت ۹۰ میلیون ایرانی تحت ضربات مستقیم جنگ و ناامنی اقتصادی به شدت سقوط کرده است."
+        ],
+        "impact": "تعمیق شکاف در ساختار سیاسی تهران و افزایش نارضایتی‌های اجتماعی علیه حکومت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/world/articles/life-changed-iranians-six-months-120812122.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/life-changed-iranians-six-months-120812122.html",
+        "image": "https://media.zenfs.com/en/al_jazeera_289/4a2f5d90d594c1bf916e18209cb8743e.jpg",
+        "timestamp": 1788091895.0
+    },
+    {
+        "id": "6ab94b67ef",
+        "title_fa": "ژست وحدت اسلامی تهران همزمان با تنش در کرانه باختری",
+        "title_en": "Iran's leader calls for Muslim unity, NBC crew attacked in West Bank and other Mideast news",
+        "summary": [
+            "دست‌پاچگی حکومت در صدور فراخوان‌های وحدت اسلامی، سرپوشی برای ناکامی‌های منطقه‌ای و تضعیف شدید نیروهای نیابتی است.",
+            "تشدید خشونت‌ها و حمله به خبرنگاران در کرانه باختری، از گستردگی ابعاد ناامنی در منطقه خبر می‌دهد."
+        ],
+        "impact": "تداوم مانورهای تبلیغاتی تهران برای ترمیم چهره تضعیف‌شده‌اش در میان نیروهای نیابتی.",
+        "tag": "نیابتی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORXNXUlRyRVRBMTBUdkJPYjk4a1lyalIyS04tY0QzS0JxYjRFR1F4a2lDeEZteUhYNTJnMFYzLTVBc0N2Uk5uNVc2cElLOUVmd3VxRFRjOEpWYUNRTzdkTE9uMTNIcV9QdXhzTEhmXzN2NmgyYlkzczRYYTgtWGxsZlhDSVFwMWFKS2VyRHBzbHNnSU9HMlN0b1BhdExxWTcyTFpTQUFjb0xsRUE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788091020.0
+    },
+    {
+        "id": "aa5f0c021e",
+        "title_fa": "فرسایش سیاسی رهبران در جبهه داخلی جنگ سه جانبه",
+        "title_en": "The home front: How Israel, Iran, and US leaders have been hit by the war",
+        "summary": [
+            "تداوم جنگ بر پایداری سیاسی رهبران در واشنگتن، تل‌آویو و تهران فشار سنگینی وارد کرده است.",
+            "حکومت ایران با افت بی‌سابقه مشروعیت و فشار افکار عمومی جان‌به‌لب‌شده مواجه است."
+        ],
+        "impact": "افزایش فشارهای داخلی بر رهبران سیاسی جهت تغییر استراتژی یا پنهان‌سازی تلفات.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "Al Jazeera",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVozc0NjYTVBbF94MXExQVdEZE9BOXJ4aGVxdGtPX2ppWkZvTlVSa29oOGxLUHZ1SUcyaHk0RDJ5bDhnR1FLZDJiX2dkWGhuVTFIOHZRa0t4YUV3LXdWZm5XR0FVZ2l3d1N2bjVxS3dxdVRBa0F2Ujh2RVJXRjAyR2Jrc09IYXh0eUtRVWtyLS16MGRrZkp1UllsaUxBWUhBTFN5WVlMMXk4eWx2enU1MdIBtgFBVV95cUxPcDkwWjdhenN4bVpGRjZJdExCQ0lveWo3RmlqV0NlVUt6ZXJicnlxdnkyeUZJaEZweE9LcFViekU0U1VlTTN1UGNSWHFCODhvMVV4clpYMHFLTk5abFFYd3VsOU1JeHRLVUgzb24wYjNTelNxMlNkc1ZVVTVVZW5vLTlBRW1WTTFlRHZnUDI4QkhHRl83OTBleEUtTGpoSU01WjhJMENFc19mZ212M3QzN2JfazdVZw",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788082917.0
+    },
+    {
         "id": "67b2a849f3",
         "title_fa": "ادعای منهدم کردن تیم واشنگتن و تل‌آویو در سیستان و بلوچستان",
         "title_en": "Iran claims to take out Israel-US terrorist cell in Sistan, Baluchistan Province",
@@ -54,6 +109,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQ2dxVFZES1Rvcmlwdk1kb1VvT3JIOERSQW5BRGNxUlBjLXBuNkliM3NXLV91OUd2aTRKcE42NE9OdTF2eGVBU3ltRmVOR0FuWVE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788060690.0
+    },
+    {
+        "id": "6ed8a472cb",
+        "title_fa": "رتبه‌بندی جدید فساد؛ هزینه‌های سنگین عدم شفافیت مالی",
+        "title_en": "25 most corrupt countries: global corruption index 2023 reve",
+        "summary": [
+            "فساد نهادینه‌شده در ساختار حکومت‌های مستبد، اصلی‌ترین عامل فروپاشی اقتصادی و ناامیدی عمومی است.",
+            "گزارش جهانی فساد ابعاد رانت‌خواری و نابودی منابع ملی در این کشورها را برملا می‌کند."
+        ],
+        "impact": "افشای بیشتر سوءمدیریت ساختاری و فرار سرمایه‌گذاران خارجی.",
+        "tag": "اقتصاد",
+        "urgency": 3,
+        "sentiment": -0.6,
+        "source": "list25",
+        "url": "https://www.msn.com/en-us/news/other/25-most-corrupt-countries-global-corruption-index-2023-reve/ar-AA2bbvPv",
+        "clean_url": "https://www.msn.com/en-us/news/other/25-most-corrupt-countries-global-corruption-index-2023-reve/ar-AA2bbvPv",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bc7V0.img?w=1408&h=768&m=4&q=99",
+        "timestamp": 1788060293.0
+    },
+    {
+        "id": "77705aa4d8",
+        "title_fa": "ادعای درآمد ۷.۵ میلیاردی نفت تهران تحت محاصره دریایی",
+        "title_en": "Irán reporta 7.500 millones de dólares en ingresos petroleros pese al bloqueo naval de EE.UU.",
+        "summary": [
+            "وزارت نفت جمهوری اسلامی مدعی تحقق ۹۹ درصدی درآمد نفتی بودجه شده تا دور زدن تحریم‌ها را موفق جلوه دهد.",
+            "این آمارسازی‌ها بیشتر برای آرام کردن بازار داخلی و پنهان کردن اثر خفه‌کننده محاصره دریایی آمریکا است."
+        ],
+        "impact": "تداوم فشار ارز در بازار داخلی و تلاش حکومت برای پنهان‌سازی کسری بودجه شدید.",
+        "tag": "ارز",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Euronews on MSN",
+        "url": "https://www.msn.com/es-us/noticias/otras/ir%C3%A1n-reporta-7500-millones-de-d%C3%B3lares-en-ingresos-petroleros-pese-al-bloqueo-naval-de-eeuu/ar-AA2bdczY",
+        "clean_url": "https://www.msn.com/es-us/noticias/otras/ir%C3%A1n-reporta-7500-millones-de-d%C3%B3lares-en-ingresos-petroleros-pese-al-bloqueo-naval-de-eeuu/ar-AA2bdczY",
+        "image": "http://www.bing.com/th?id=ONUT.LvMVI9Ai-7CbhRaU0VLE2Q&pid=News",
+        "timestamp": 1788058421.0
+    },
+    {
+        "id": "b0c48a1f72",
+        "title_fa": "خط‌ونشان اسرائیل برای تاسیسات اتمی و موشکی تهران",
+        "title_en": "Iran's supreme leader admits economic hardships as US sanctions campaign takes toll",
+        "summary": [
+            "وزیر انرژی اسرائیل صریحاً تاکید کرد حتی در صورت توافق تهران با واشنگتن، در صورت تلاش برای بازسازی برنامه اتمی یا موشکی، حمله نظامی مجدد قطعی است.",
+            "ارزیابی‌های اطلاعاتی نشان می‌دهد ضربات مشترک آمریکا و اسرائیل برنامه هسته‌ای تهران را دو تا چهار سال به عقب انداخته است."
+        ],
+        "impact": "احتمال بالای حملات پیشگیرانه مجدد و انسداد کامل مسیر بازسازی تسلیحاتی حکومت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/iran-war-us-sanctions-trump-strait-hormuz-oman-oil-prices-08-29-2026",
+        "clean_url": "https://www.foxnews.com/live-news/iran-war-us-sanctions-trump-strait-hormuz-oman-oil-prices-08-29-2026",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/08/624/351/8c6de4e822bc92fbdfecfbfe74a5c720.jpg?ve=1&tl=1",
+        "timestamp": 1788054660.0
     },
     {
         "id": "1255456121",
@@ -5419,117 +5528,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787239438.0
-    },
-    {
-        "id": "ac463eb7ab",
-        "title_fa": "تهدید ترامپ به اجرای فلج‌کننده‌ترین تحریم‌های تاریخ علیه ایران",
-        "title_en": "Trump vows tougher economic measures on Iran and supporting countries",
-        "summary": [
-            "ترامپ پس از پایان آتش‌بس ۶۰ روزه و ناکامی حملات نظامی در تسلیم ساختن تهران، خط نشان جدیدی برای خفه‌سازی کامل اقتصادی ایران کشیده است.",
-            "واشنگتن قصد دارد علاوه بر تهران، تمام کشورها و بانک‌های خارجی طرف حساب با ایران را هدف شدیدترین جرایم و تحریم‌های ثانویه قرار دهد."
-        ],
-        "impact": "تنگ‌تر شدن حلقه تبادلات مالی ایران و احتمال جهش دوباره قیمت دلار در بازار داخلی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tremendous-economic-consequences-002545163.html?ncid=pushly",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-threatens-tremendous-economic-consequences-002545163.html",
-        "image": "http://www.bing.com/th?id=ONUT._zGO0D5M_nh7mWsBDsEbaA&pid=News",
-        "timestamp": 1787239080.0
-    },
-    {
-        "id": "8206baf521",
-        "title_fa": "ورود ناو هواپیمابر تازه آمریکا به منطقه و جهش نفت تا ۹۴ دلار",
-        "title_en": "US signals ramped up economic pressure on Iran and levies new sanctions against Hezbollah",
-        "summary": [
-            "ناو جرج واشنگتن برای تحکیم آرایش نظامی و تعویض ناو آبرام لینکلن وارد خاورمیانه شد.",
-            "تنش در تنگه هرمز قیمت جهانی نفت را به خردادماه بازگردانده و به مرز ۹۴ دلار رسانده است.",
-            "معاون ترامپ جنگ اقتصادی را ابزار اصلی دانسته، اما نگران جهش قیمت بنزین در داخل آمریکاست."
-        ],
-        "impact": "تشدید آرایش نظامی واشنگتن در خلیج فارس همراه با فشار مضاعف بر بازار جهانی انرژی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/20/world/live-news/iran-war-trump",
-        "clean_url": "https://www.cnn.com/2026/08/20/world/live-news/iran-war-trump",
-        "image": "http://www.bing.com/th?id=ONUT.H_G4q8jx2cpf-X0faMlSMw&pid=News",
-        "timestamp": 1787234040.0
-    },
-    {
-        "id": "f78db4fd83",
-        "title_fa": "تهدیدهای آخرالزمانی ترامپ علیه ایران؛ بلوف یا تاکتیک فشار؟",
-        "title_en": "Donald Trump’s Apocalyptic Threats Fall Flat with Iran",
-        "summary": [
-            "ترامپ هشدارهای سنگینی مثل «سنگین‌ترین حمله پس از جنگ جهانی دوم» را مطرح کرده، اما در عمل این خط و نشان‌ها فعلاً جای خود را به مانورهای سیاسی داده‌اند.",
-            "پیام‌های متناقض کاخ سفید درباره توقف یا ادامه مذاکرات، بخشی از استراتژی ایجاد عدم قطعیت برای عقب راندن تهران است.",
-            "تکرار تهدیدهای بی‌سرانجام کلامی، اثرگذاری ابزار ارعاب را در برابر جمهوری اسلامی کاهش داده است."
-        ],
-        "impact": "عدم تحقق تهدیدات لفظی، ریسک محاسبات اشتباه درگیری مستقیم در منطقه را بالا می‌برد.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/donald-trumps-apocalyptic-threats-fall-flat-with-iran-12346940",
-        "clean_url": "https://www.newsweek.com/donald-trumps-apocalyptic-threats-fall-flat-with-iran-12346940",
-        "image": "http://www.bing.com/th?id=ONUT.uDCYMr4YO6VCq1nm9JXnyg&pid=News",
-        "timestamp": 1787230140.0
-    },
-    {
-        "id": "22e21305ef",
-        "title_fa": "وزارت خزانه‌داری آمریکا: هدف ما فروپاشی اقتصادی ایران است",
-        "title_en": "US Treasury secretary says new economic measures will ‘collapse’ Iran",
-        "summary": [
-            "اسکات بسنت، وزیر خزانه‌داری آمریکا، از اجرای سخت‌ترین تحریم‌های تاریخ برای ضربه نهایی به حاکمیت ایران خبر داد.",
-            "واشنگتن اولتیماتوم مستقیم «با ما یا بر ما» را به خریداران نفت و طرف‌های معامله با ایران ابلاغ کرده است.",
-            "تمرکز اصلی این حملات مالی بر ناوگان نفتکش‌ها، سیستم‌های بانکی و نقل‌وانتقال پول متمرکز است."
-        ],
-        "impact": "افت شدید صادرات نفت ایران و اختلال جدی در ورود درآمدهای ارزی به کشور.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/us-treasury-secretary-says-economic-191144919.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/us-treasury-secretary-says-economic-191144919.html",
-        "image": "http://www.bing.com/th?id=ONUT.U2QfFTyZrE1k804zDEDMbA&pid=News",
-        "timestamp": 1787227800.0
-    },
-    {
-        "id": "d6067d8ef0",
-        "title_fa": "پایان مهلت توافق؛ ورود بحران ایران به فاز خطرناک",
-        "title_en": "The Iran peace deal expires — and the conflict enters a dangerous phase",
-        "summary": [
-            "با انقضای زمان توافقات، موازنه شکننده موجود از بین رفته و ابعاد تقابل پیچیده‌تر می‌شود.",
-            "از دست رفتن چارچوب‌های دیپلماتیک، احتمال اقدامات تلافی‌جویانه و ضربات پیش‌دستانه را به شدت افزایش داده است."
-        ],
-        "impact": "خطر مواجهه نظامی مستقیم و تهدید خطوط انتقال انرژی در خلیج فارس به اوج رسیده است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Washington Examiner on MSN",
-        "url": "https://www.msn.com/en-us/news/world/the-iran-peace-deal-expires-and-the-conflict-enters-a-dangerous-phase/ar-AA2aAco5",
-        "clean_url": "https://www.msn.com/en-us/news/world/the-iran-peace-deal-expires-and-the-conflict-enters-a-dangerous-phase/ar-AA2aAco5",
-        "image": "http://www.bing.com/th?id=ONUT.MNBbfDhwfOcAQK5t1jRgxg&pid=News",
-        "timestamp": 1787227200.0
-    },
-    {
-        "id": "3863328acc",
-        "title_fa": "بن‌بست شکننده میان واشنگتن و تهران؛ جنگ فرسایشی صبر",
-        "title_en": "As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?",
-        "summary": [
-            "نه خبری از دیپلماسی فعال است و نه درگیری نظامی تمام‌عیار؛ دو طرف در یک جنگ روانی و فرسایشی قفل شده‌اند.",
-            "کاخ سفید و تهران هر دو تصور می‌کنند زمان به نفع آن‌هاست، اما این تقابل معلق می‌تواند با کوچک‌ترین جرقه‌ای منفجر شود.",
-            "جمهوری اسلامی روی صبر استراتژیک حساب کرده، در حالی که واشنگتن شریان‌های اقتصادی ایران را تنگ‌تر می‌کند."
-        ],
-        "impact": "تداوم این بن‌بست به معنای استمرار فشار خفه‌کننده اقتصادی و نوسانات شدید در بازار ارز تهران است.",
-        "tag": "سیاسی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
-        "clean_url": "https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html",
-        "image": "http://www.bing.com/th?id=ONUT.Fwqmt0Yrfwj3rBlUuMN_DQ&pid=News",
-        "timestamp": 1787224440.0
     }
 ]
