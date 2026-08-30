@@ -1,5 +1,24 @@
 [
     {
+        "id": "4b191367e7",
+        "title_fa": "حمله مستقیم نیروهای آمریکایی به پرتابگرهای موشکی ایران در جزیره لارک",
+        "title_en": "US forces strike two Iranian launchers on Iran's Larak island, US official says",
+        "summary": [
+            "ارتش آمریکا دو سکوی پرتاب موشک متعلق به نیروهای نظامی ایران را در جزیره استراتژیک لارک هدف قرار داد.",
+            "این ضربه نظامی مستقیم، پاسخ واشنگتن به تهدیدات مداوم علیه امنیت کشتیرانی در تنگه هرمز است.",
+            "هدف قرار گرفتن خاک ایران نشان می‌دهد آمریکا خط قرمزهای گذشته را کنار گذاشته و آماده برخورد سخت با تحرکات موشکی است."
+        ],
+        "impact": "افزایش بی سایقه احتمال تصاعد درگیری نظامی و بسته شدن خطوط مواصلاتی انرژی در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTkpiVXljY0dfaG41QTlsRW1PXzVEMU9UUGRWYk41QzQ4UERCRnJ5TlVUSUloZXFTUF9ieVBhaGFxQi1iZ3NSOVRPODFnR3NQbnZxdWFJMnl6TmRwYnZqT3pOZFhWUEo5MzRVY2YtdEppVmNMSVQ2UVB0WW5zLThXNjIwdU9ZLUUyQVhWTENEQ3k0bGo2QUdNQVVHdWxSak91RkU5dGNlUFBOZjNqTDRuRGJRZHJHNWRuQTRiaDBSZFpjOTNGcGRV",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788123965.0
+    },
+    {
         "id": "5a1951d84f",
         "title_fa": "تحلیل مطبوعات عرب: افول نفوذ منطقه‌ای جمهوری اسلامی و تغییر بازی اسرائیل",
         "title_en": "Voices from the Arab press: Weighing Iran's decline, Israel's strategy and Infantino's Arab support",
@@ -182,6 +201,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9rQ2dxVFZES1Rvcmlwdk1kb1VvT3JIOERSQW5BRGNxUlBjLXBuNkliM3NXLV91OUd2aTRKcE42NE9OdTF2eGVBU3ltRmVOR0FuWVE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788060690.0
+    },
+    {
+        "id": "892a4e35a4",
+        "title_fa": "فراخوان مجتبی خامنه‌ای به کشورهای عربی برای مقابله با دشمن مشترک",
+        "title_en": "Iran’s Khamenei calls for Gulf unity as Hormuz tensions persist",
+        "summary": [
+            "مجتبی خامنه‌ای در اولین پیام رسمی پس از کشته شدن علی خامنه‌ای، خواستار جبهه‌گیری کشورهای خلیج فارس علیه آمریکا و اسرائیل شد.",
+            "این موضع‌گیری کلامی در اوج بحران تنگه هرمز، تلاش تهران برای انحراف فشار نظامی و ایجاد شکاف میان کشورهای منطقه را افشا می‌کند.",
+            "هم‌زمان با خط و نشان‌های تبلیغاتی، رژیم از طریق عمان به دنبال رایزنی‌های پنهانی برای کاهش بحران در تنگه هرمز است."
+        ],
+        "impact": "تلاش ناکام تهران برای استفاده از ابزار دیپلماتیک جهت فرار از فشارهای نظامی خفه کننده.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/world/articles/iran-khamenei-calls-gulf-unity-103057449.html",
+        "clean_url": "https://www.yahoo.com/news/world/articles/iran-khamenei-calls-gulf-unity-103057449.html",
+        "image": "http://www.bing.com/th?id=ONUT.ie2pWp6-2kNWz9K99lucJQ&pid=News",
+        "timestamp": 1788060600.0
     },
     {
         "id": "6ed8a472cb",
@@ -5496,40 +5534,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/iran-live-updates-trump-says-us-control-of-strait-of-hormuz-a-great-idea/ar-AA2agTBg",
         "image": "https://i.abcnewsfe.com/a/f3ac78eb-ca1f-4cf6-950f-0fc9e806b279/Trump-DB-260817_1786968320439_hpMain_16x9.jpg?w=1600",
         "timestamp": 1787244540.0
-    },
-    {
-        "id": "b751a0e9e7",
-        "title_fa": "Trump warns 'economic consequences' for nations helping Iran",
-        "title_en": "Trump warns 'economic consequences' for nations helping Iran",
-        "summary": [
-            "Trump warns 'economic consequences' for nations helping Iran"
-        ],
-        "impact": "تحولات و رویدادهای جاری مرتبط با ایران و منطقه.",
-        "tag": "خبر فوری",
-        "urgency": 7,
-        "sentiment": 0.0,
-        "source": "dw.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kU2ZDenpzTlRoVEx6bWJtUnk5ZGtpcjJBdWw3YnRyWjBBbUp1bnZqVWxQc0tTUjd2YUcwTTlEZ0p1MDRkUThiLWxtNkxLdnRiX2ZzR0p3UnB3MmhtemdmRkVTdVcwMGk1c2FFbUJBUUZheGpBZUE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kU2ZDenpzTlRoVEx6bWJtUnk5ZGtpcjJBdWw3YnRyWjBBbUp1bnZqVWxQc0tTUjd2YUcwTTlEZ0p1MDRkUThiLWxtNkxLdnRiX2ZzR0p3UnB3MmhtemdmRkVTdVcwMGk1c2FFbUJBUUZheGpBZUE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787244075.0
-    },
-    {
-        "id": "792f88f55b",
-        "title_fa": "اخطار شدید ترامپ به کشورهای کمک‌کننده به تهران",
-        "title_en": "Trump issues stark warning: Economic consequences for nations aiding Iran",
-        "summary": [
-            "ترامپ به تمام کشورها هشدار داد که تنفس دادن به اقتصاد تهران عواقب سنگین تجاری برای آن‌ها دارد.",
-            "هم‌زمان با تشدید تنش‌های منطقه‌ای، واشنگتن سیاست انتخاب بین بازار آمریکا یا معامله با تهران را احیا کرده است."
-        ],
-        "impact": "افزایش انزوای بین‌المللی و تشدید ریزش ارزش پول ملی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Newspoint",
-        "url": "https://www.msn.com/en-in/politics/international-relations/trump-issues-stark-warning-economic-consequences-for-nations-aiding-iran/ar-AA2aAnNr",
-        "clean_url": "https://www.msn.com/en-in/politics/international-relations/trump-issues-stark-warning-economic-consequences-for-nations-aiding-iran/ar-AA2aAnNr",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA24iyEB.img?w=640&h=480&m=4&q=50",
-        "timestamp": 1787243277.0
     }
 ]
