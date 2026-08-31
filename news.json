@@ -1,5 +1,60 @@
 [
     {
+        "id": "cfe32dc7a6",
+        "title_fa": "دیدگاه اردن درباره خطرات اسرائیل در مقایسه با ایران",
+        "title_en": "Jordan Sees Bigger Threat From Israel Than Iran",
+        "summary": [
+            "دستگاه تصمیم‌گیری امان، رفتارهای نظامی و ماجراجویی‌های تل‌آویو را تهدیدی فوری‌تر برای امنیت ملی خود در مقایسه با تحرکات تهران برآورد می‌کند.",
+            "تنش میان امان و تل‌آویو موجب شکاف عمیقی در ائتلاف‌های منطقه‌ای تحت حمایت غرب شده است."
+        ],
+        "impact": "تضعیف همگرایی امان با برنامه‌های امنیتی اسرائیل و دشوارتر شدن اجماع منطقه‌ای علیه ایران.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Foreign Policy",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFhkRnRzak5Ma1JHdTZLUVcwS1ZDd0Q0VTdsS3QyeHVJeUdNc2otVDZ5NHNxRTBHVmFVNlctLW1acm1NZ0lKbTY3ejByZkhacUJ0UUNnUm84aGp5MTZseDU2aHdodHlPYkZleDBwc0E2ZnpzSndteVBFeVEwYXBONGRNVDExTGVWUk03MzdiUmRKbS1uQVE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFhkRnRzak5Ma1JHdTZLUVcwS1ZDd0Q0VTdsS3QyeHVJeUdNc2otVDZ5NHNxRTBHVmFVNlctLW1acm1NZ0lKbTY3ejByZkhacUJ0UUNnUm84aGp5MTZseDU2aHdodHlPYkZleDBwc0E2ZnpzSndteVBFeVEwYXBONGRNVDExTGVWUk03MzdiUmRKbS1uQVE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788184146.0
+    },
+    {
+        "id": "adcec0b80e",
+        "title_fa": "واکنش تهران به ویدئوی هوش مصنوعی ترامپ",
+        "title_en": "Iran war latest: Tehran calls Trump AI video 'laughable'",
+        "summary": [
+            "مقامات جمهوری اسلامی انتشار ویدئوی شبیه‌سازی‌شده توسط هوش مصنوعی از سوی ترامپ را اقدامی مضحک و جنگ روانی کم‌ارزش خواندند.",
+            "ترامپ با ابزارهای تبلیغاتی جدید به‌دنبال تشدید فشار روانی بر ساختار تصمیم‌گیری در تهران است."
+        ],
+        "impact": "تداوم فضای جنگ کلامی میان واشنگتن و تهران بدون ایجاد تغییر در موازنه میدانی.",
+        "tag": "جنگ روانی",
+        "urgency": 3,
+        "sentiment": -0.2,
+        "source": "Sky News",
+        "url": "https://news.sky.com/story/iran-us-latest-trump-bessent-economic-d-day-13509565",
+        "clean_url": "https://news.sky.com/story/iran-us-latest-trump-bessent-economic-d-day-13509565",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788136260.0
+    },
+    {
+        "id": "b7ad817749",
+        "title_fa": "پاسخ موشکی و پهپادی ایران به حمله آمریکا در جزیره لارک",
+        "title_en": "تشدید تنش‌ها در منطقه با حمله جمهوری اسلامی به پایگاه‌های نظامی در اردن و امارات",
+        "summary": [
+            "سپاه و ارتش در پاسخی سریع به حمله آمریکا در جزیره لارک، پایگاه المنهاد امارات و دو مرکز هوایی در اردن را موشک‌باران و پهپادباران کردند.",
+            "امارات وقوع حمله موشکی به المنهاد را رد کرده اما انهدام یک پهپاد ایرانی در آب‌های سرزمینی خود را تأیید کرد.",
+            "پایگاه‌های ملک حسین و الازرق اردن به دلیل پشتیبانی از پروازهای جنگنده‌های آمریکایی هدف مستقیم حملات سپاه قرار گرفتند."
+        ],
+        "impact": "خطر شکل‌گیری درگیری مستقیم و همه‌جانبه میان ایران و آمریکا در خلیج فارس به اوج رسید.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608319195",
+        "clean_url": "https://www.iranintl.com/202608319195",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/f7ffc0f8cf39ffc9b3d9c24b1826c7c55174f35b-1920x1080.png?rect=0,36,1920,1008&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1788133260.0
+    },
+    {
         "id": "5f3498d777",
         "title_fa": "برنامه خزانه‌داری آمریکا برای تحریم یک بانک جدید مرتبط با ایران",
         "title_en": "U.S. plans to sanction another bank in effort to clamp down on Iran transactions: Bessent",
@@ -5481,61 +5536,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787250015.0
-    },
-    {
-        "id": "04af23625a",
-        "title_fa": "بحران در تنگه هرمز و اوج‌گیری نبرد کلامی",
-        "title_en": "US-Iran War Live Updates: Trump's 'Most Crushing' Iran Sanctions Trigger Furious Response From Tehran",
-        "summary": [
-            "تنگه هرمز به کانون اصلی تنش تبدیل شده؛ ایران بازگشایی کامل آن را مشروط به رفع فشارهای آمریکا کرده است.",
-            "حملات پهپادی و موشکی نیابتی در منطقه همراه با تنش‌های خلیج فارس، امنیت انرژی را متزلزل ساخته است.",
-            "هم‌زمانی نبرد اقتصادی آمریکا با بحران‌های منطقه‌ای، ریسک رویکرد نظامی را به شدت بالا برده است."
-        ],
-        "impact": "احتمال بالای درگیری محدود دریایی و جهش قیمت جهانی نفت.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Times Now",
-        "url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-trump-new-economic-pressure-iran-attacks-strait-of-hormuz-crisis-and-peace-talks-middle-east-conflict-latest-breaking-news-liveblog-155807536",
-        "clean_url": "https://www.timesnownews.com/world/middle-east/us-iran-war-live-updates-trump-new-economic-pressure-iran-attacks-strait-of-hormuz-crisis-and-peace-talks-middle-east-conflict-latest-breaking-news-liveblog-155807536",
-        "image": "https://images.timesnownews.com/thumb/msid-155807536,thumbsize-1082697,width-1280,height-720,resizemode-75/155807536.jpg",
-        "timestamp": 1787247780.0
-    },
-    {
-        "id": "9de74a32cc",
-        "title_fa": "محکومیت تحریم‌های جدید آمریکا توسط وزارت خارجه ایران",
-        "title_en": "Iran condemns fresh raft of US sanctions as ‘economic terrorism’",
-        "summary": [
-            "ایران موج جدید فشارهای مالی آمریکا را موضعی خصمانه و «تروریسم اقتصادی» خواند.",
-            "موضع‌گیری‌های کلامی تهران بدون داشتن ابزار تلافی اقتصادی، صرفاً ناظر بر فضای حقوقی بین‌المللی است."
-        ],
-        "impact": "بی‌اثری بیانیه‌ها در کند کردن روند تحریم‌های جدید واشنگتن.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Anadolu Ajansı",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZZLV90dzh4ZlE2b3BHNTZPTnNFczFFaVg2UnVmNzBLSXd0eFFrWl8wb3VyU3lvS3FBR0FmOU8xU1o0M3hUeWR2cGhCSTk2WmQ2TEhKdmhEcDRkc1otYmk1c3RpVmpYTmhPekg3aHkwaTBTLXpIZm11WWtyUFA5TEh2UkYxdkY5ZGROVFN3cUhVWTI1ck4wMXdCT3ZsQ3dlc3F1Y3BKaVlHZjhhaVJQZmV6VDR6dw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmZZLV90dzh4ZlE2b3BHNTZPTnNFczFFaVg2UnVmNzBLSXd0eFFrWl8wb3VyU3lvS3FBR0FmOU8xU1o0M3hUeWR2cGhCSTk2WmQ2TEhKdmhEcDRkc1otYmk1c3RpVmpYTmhPekg3aHkwaTBTLXpIZm11WWtyUFA5TEh2UkYxdkY5ZGROVFN3cUhVWTI1ck4wMXdCT3ZsQ3dlc3F1Y3BKaVlHZjhhaVJQZmV6VDR6dw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787246956.0
-    },
-    {
-        "id": "cb64cde64e",
-        "title_fa": "خط‌ونشان تازه آمریکا؛ اجرای سخت‌ترین تحریم‌های تاریخ علیه تهران",
-        "title_en": "US says it will impose 'toughest sanctions in history' on Iran",
-        "summary": [
-            "اسکات بسنت، وزیر خزانه‌داری آمریکا، از کلید خوردن دور جدیدی از فشار حداکثری خبر داد که هدف مستقیم آن انسداد کامل منابع درآمدی جمهوری اسلامی است.",
-            "این تصمیم تمام شریان‌های نفتی و شبکه‌های دور زدن تحریم‌ها را نشان رفته تا توان مالی دستگاه‌های نظامی و نفوذ منطقه‌ای را از کار بیندازد.",
-            "تفاوت این موج با گذشته در بستن کامل روزنه‌های تجاری با کشورهای ثالث و نظارت شدید بر مبادلات ارزی است."
-        ],
-        "impact": "تشدید جهش قیمت ارز در بازار آزاد و شوک سنگین به درآمدهای نفتی کشور.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/other/us-says-it-will-impose-toughest-sanctions-in-history-on-iran/ar-AA2aASDy",
-        "clean_url": "https://www.msn.com/en-us/news/other/us-says-it-will-impose-toughest-sanctions-in-history-on-iran/ar-AA2aASDy",
-        "image": "http://www.bing.com/th?id=ONUT.80j_BfTD-R9QBElGYyzugQ&pid=News",
-        "timestamp": 1787245289.0
     }
 ]
