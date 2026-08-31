@@ -1,5 +1,24 @@
 [
     {
+        "id": "3fec7fb6cc",
+        "title_fa": "هشدار صریح ترامپ به تهران: پاسخ بسیار سختی در راه است",
+        "title_en": "Trump vows US response to Iranian strikes: 'Going to hit them hard'",
+        "summary": [
+            "پس از پایان آرامش شکننده یک‌ماهه و تبادل آتش مستقیم میان نیروهای آمریکا و جمهوری اسلامی، دونالد ترامپ وعده پاسخ نظامی سنگین داد.",
+            "تهران با اختلال در مسیرهای صادرات انرژی درصدد باج‌گیری و دریافت امتیازات فوری است، اما واشنگتن خط کلامی خود را تغییر داده است.",
+            "تداوم این درگیری‌ها می‌تواند محاسبات طرفین را مخدوش کرده و منطقه را به سمت یک درگیری مستقیم و تمام‌عیار بکشاند."
+        ],
+        "impact": "خطر بالای تقابل مستقیم نظامی در خلیج فارس و جهش فوری قیمت جهانی نفت.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "USA Today",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ09pLWxvRVI5MmZJak9za3Q1cFdnYkR0RjdzZDVjZ1lPZWVHamtQd3ZqLWxXZ2laWTZ3b0QzZlF0U3FXaEktNVVpMTdZWUNIOEFiMVJ3dUtCMzdVUURBTTNyZFZfejVnbEc4N2JwQmJKdXUzbGR5RnQ1NXpBVnB1eGlKWEpmYkhfczRIUllTNG8wMElGeDRUVXpQZXdkb0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQ09pLWxvRVI5MmZJak9za3Q1cFdnYkR0RjdzZDVjZ1lPZWVHamtQd3ZqLWxXZ2laWTZ3b0QzZlF0U3FXaEktNVVpMTdZWUNIOEFiMVJ3dUtCMzdVUURBTTNyZFZfejVnbEc4N2JwQmJKdXUzbGR5RnQ1NXpBVnB1eGlKWEpmYkhfczRIUllTNG8wMElGeDRUVXpQZXdkb0k",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788204060.0
+    },
+    {
         "id": "cfe32dc7a6",
         "title_fa": "دیدگاه اردن درباره خطرات اسرائیل در مقایسه با ایران",
         "title_en": "Jordan Sees Bigger Threat From Israel Than Iran",
@@ -16,6 +35,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFhkRnRzak5Ma1JHdTZLUVcwS1ZDd0Q0VTdsS3QyeHVJeUdNc2otVDZ5NHNxRTBHVmFVNlctLW1acm1NZ0lKbTY3ejByZkhacUJ0UUNnUm84aGp5MTZseDU2aHdodHlPYkZleDBwc0E2ZnpzSndteVBFeVEwYXBONGRNVDExTGVWUk03MzdiUmRKbS1uQVE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788184146.0
+    },
+    {
+        "id": "1320b62108",
+        "title_fa": "نشست شانگهای؛ مانور قدرت پکن با کارت ایران و روسیه",
+        "title_en": "Summit With Russia, India and Iran Shows Leverage Wars Have Given Xi of China",
+        "summary": [
+            "حضور همزمان ایران، روسیه و هند در قرقیزستان نشان داد سیاست فشار و تحریم اقتصادی آمریکا با بن‌بست جدی روبرو شده است.",
+            "پکن از انزوای غربی تهران و موسکو بیشترین بهره را برده تا موقعیت خود را به عنوان رهبر بی‌منازع ائتلاف شرق تثبیت کند."
+        ],
+        "impact": "تعمیق وابستگی اقتصادی و راهبردی جمهوری اسلامی به چین و بی‌اثر شدن بخشی از تحریم‌ها.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+        "clean_url": "https://www.nytimes.com/2026/08/31/world/asia/putin-xi-modi-sco.html",
+        "image": "http://www.bing.com/th?id=ONUT.3qSdVIg0ABQArcx5G2fjWA&pid=News",
+        "timestamp": 1788179400.0
     },
     {
         "id": "adcec0b80e",
@@ -5500,41 +5537,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MOUpxR0VLZHYtWllTZWxtUklUanM1R2tDOEhsZlJLRldrV1pmWWxBTHYtRnROUDlUZmkzUEx6VTJvNFh1MmxUYTNkNEl5X0R2SEQzSWFnTUdGdw",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787251246.0
-    },
-    {
-        "id": "d848a651c0",
-        "title_fa": "برنامه ترامپ برای جهش ۱۰ برابری پرتاب‌های فضایی آمریکا",
-        "title_en": "ترامپ می‌خواهد شمار پرتاب‌های فضایی آمریکا را سالانه به هزار مورد برساند",
-        "summary": [
-            "دونالد ترامپ با صدور دستورالعمل جدید، تسهیل مجوزها و واگذاری اراضی فدرال به بخش خصوصی را برای رسیدن به ۱۰۰۰ پرتاب در سال کلید زد.",
-            "مشارکت سنگین با اسپیس‌ایکس و تسریع در بررسی‌های زیست‌محیطی، زیرساخت‌های فضایی و نظامی آمریکا را وارد فاز کم‌نظیری می‌کند."
-        ],
-        "impact": "تثبیت برتری مطلق فضایی و مخابراتی آمریکا و تنگ‌تر شدن عرصه بر رقابت‌های ماهواره‌ای شرقی.",
-        "tag": "فناوری",
-        "urgency": 4,
-        "sentiment": 0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608216996",
-        "clean_url": "https://www.iranintl.com/202608216996",
-        "image": "http://www.bing.com/th?id=ONUT.37fFY2A7yzC0EzpHoUOLYA&pid=News",
-        "timestamp": 1787250240.0
-    },
-    {
-        "id": "7b42516ceb",
-        "title_fa": "تحریم‌های تازه آمریکا علیه حزب‌الله و شریان‌های مالی ایران",
-        "title_en": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا جریانات مالی متصل‌کننده حکومت ایران به حزب‌الله لبنان را هدف موج جدید تحریم‌ها قرار داد.",
-            "واشنگتن با این اقدام به دنبال قطع کانال‌های انتقال پول نقد و تسلیحات به نیروهای نیابتی منطقه است."
-        ],
-        "impact": "خشکاندن منابع مالی حزب‌الله و سنگین‌تر شدن هزینه پشتیبانی منطقه‌ای برای تهران.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787250015.0
     }
 ]
