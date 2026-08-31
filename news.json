@@ -111,6 +111,62 @@
         "timestamp": 1788095700.0
     },
     {
+        "id": "99c1161a08",
+        "title_fa": "حمله پیش‌دستانه آمریکا به سکوهای مین‌ریزی سپاه در جزیره لارک",
+        "title_en": "آمریکا دو پرتابگر موشک در جزیره لارک را هدف گرفت؛ سپاه: تلافی می‌کنیم",
+        "summary": [
+            "ارتش آمریکا با حمله به دو سکوی پرتاب در جزیره لارک، عملیات سپاه برای مین‌ریزی و بستن تنگه هرمز را خنثی کرد.",
+            "در پاسخ، سپاه با حملات راکتی به پایگاه‌های آمریکا در اردن، دور جدیدی از درگیری مستقیم را رقم زد.",
+            "هدف قرار گرفتن مستقیم جزایر ایرانی از سوی سنتکام نشان می‌دهد واشنگتن دکترین ضربه پیش‌دستانه را عملیاتی کرده است."
+        ],
+        "impact": "جهش بی‌سابقه ریسک نظامی در تنگه هرمز و اوج‌گیری هزینه‌های حمل‌ونقل و بیمه دریایی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608302277",
+        "clean_url": "https://www.iranintl.com/202608302277",
+        "image": "http://www.bing.com/th?id=ONUT.mi07_Oz88hGQQg9ae8nRLQ&pid=News",
+        "timestamp": 1788095100.0
+    },
+    {
+        "id": "8f0ec0afe2",
+        "title_fa": "جنگ روانی ترامپ با شبیه‌سازی انهدام شریان نفتی خارگ",
+        "title_en": "Trump says Iran's Kharg being 'blown to smithereens', but gives no details",
+        "summary": [
+            "دونالد ترامپ با انتشار ویدئویی ساختگی با هوش مصنوعی، مدعی نابودی تاسیسات نفتی جزیره خارگ شد.",
+            "این اقدام ترامپ یک مانور تبلیغاتی و جنگ روانی مستقیم برای فشار بر شریان صادرات ۹۰ درصدی نفت ایران است.",
+            "مطرح شدن نام خارگ، سیگنال صریحی از احتمال هدف‌گیری خطوط انرژی ایران در صورت تصاعد بحران است."
+        ],
+        "impact": "تلاطم فوری در بازار جهانی انرژی و افزایش ریسک انتظارات تورمی در بازار داخلی.",
+        "tag": "جنگ‌روانی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Business Standard",
+        "url": "https://www.tbsnews.net/worldbiz/middle-east/trump-says-irans-kharg-being-blown-smithereens-gives-no-details-1529076",
+        "clean_url": "https://www.tbsnews.net/worldbiz/middle-east/trump-says-irans-kharg-being-blown-smithereens-gives-no-details-1529076",
+        "image": "http://www.bing.com/th?id=ONUT.F-nvz1vqF3t8fNQn7Irfug&pid=News",
+        "timestamp": 1788093780.0
+    },
+    {
+        "id": "0da74f36b1",
+        "title_fa": "فشار واشنگتن بر شریان‌های دلاری بانک مصر در امارات",
+        "title_en": "بانک‌های مرکزی مصر و امارات: درباره پیشنهاد قطع دسترسی دلاری شعب بانک مصر هماهنگ هستیم",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا به دنبال مسدود کردن تراکنش‌های دلاری شعب بانک مصر در امارات است تا مسیرهای دور زدن تحریم‌ها را ببندد.",
+            "واکنش سریع و هماهنگ بانک‌های مرکزی مصر و امارات، ترس شدید این کشورها از جریمه‌های ثانویه آمریکا را برمی‌تابد."
+        ],
+        "impact": "تنگ‌تر شدن حلقه صرافی‌ها و دشوارتر شدن تأمین ارز از طریق واسطه‌های منطقه‌ای.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202608308306",
+        "clean_url": "https://www.iranintl.com/202608308306",
+        "image": "http://www.bing.com/th?id=ONUT.ZJ5NpqNUd3l2XPH5eLxYdw&pid=News",
+        "timestamp": 1788092100.0
+    },
+    {
         "id": "0d2159eef6",
         "title_fa": "شش ماه پس از آغاز جنگ؛ شکاف در هسته سخت قدرت در تهران",
         "title_en": "How has life changed for Iranians six months into the war?",
@@ -5481,60 +5537,5 @@
         "clean_url": "https://www.msn.com/en-us/news/other/us-says-it-will-impose-toughest-sanctions-in-history-on-iran/ar-AA2aASDy",
         "image": "http://www.bing.com/th?id=ONUT.80j_BfTD-R9QBElGYyzugQ&pid=News",
         "timestamp": 1787245289.0
-    },
-    {
-        "id": "347b63bb5f",
-        "title_fa": "خط‌ونشان تازه ترامپ؛ ایران هرگز به سلاح هسته‌ای نمی‌رسد",
-        "title_en": "Iran, the economy and mending fences: Top takeaways from Trump interview with friend-turned-foe Michael Cohen",
-        "summary": [
-            "ترامپ مدعی شد ساختار نظامی و توان فرماندهی ایران نسبت به گذشته به شدت ضعیف شده است.",
-            "او بار دیگر بر موضع قطعی خود تاکید کرد که اجازه دستیابی ایران به سلاح هسته‌ای را نخواهد داد."
-        ],
-        "impact": "افزایش احتمال تقابل سخت‌تر واشنگتن با برنامه هسته‌ای ایران در ماه‌های پیش‌رو.",
-        "tag": "هسته‌ای",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-economy-mending-fences-top-004308027.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-economy-mending-fences-top-004308027.html",
-        "image": "http://www.bing.com/th?id=ONUT.5OcPwKCl4etRPhpGNRAPFg&pid=News",
-        "timestamp": 1787245200.0
-    },
-    {
-        "id": "eaecdeb6a2",
-        "title_fa": "بازی جدید ترکیه در سوریه؛ هشدار آنکارا درباره «تله نتانیاهو»",
-        "title_en": "Turkey 'will not fall into trap' set by Netanyahu on Syria: Turkish presidency",
-        "summary": [
-            "نهاد ریاست جمهوری ترکیه اعلام کرد وارد بازی و تله‌های بنیامین نتانیاهو در خاک سوریه نخواهد شد.",
-            "آنکارا تلاش می‌کند بدون درگیری مستقیم با تل‌آویو، نفوذ خود را در شمال سوریه تثبیت کند."
-        ],
-        "impact": "امکان دست‌به‌دست شدن نفوذ در شمال سوریه و عدم همراهی آنکارا با طرح‌های منطقه‌ای اسرائیل.",
-        "tag": "منطقه",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "Al Arabiya English",
-        "url": "https://english.alarabiya.net/News/middle-east/2026/08/20/turkey-will-not-fall-into-trap-set-by-netanyahu-on-syria-turkish-presidency",
-        "clean_url": "https://english.alarabiya.net/News/middle-east/2026/08/20/turkey-will-not-fall-into-trap-set-by-netanyahu-on-syria-turkish-presidency",
-        "image": "https://vid.alarabiya.net/images/2026/08/18/a537a342-12a3-4e99-9bd2-ddf8326485a1/a537a342-12a3-4e99-9bd2-ddf8326485a1_16x9_600x338.JPG",
-        "timestamp": 1787245020.0
-    },
-    {
-        "id": "415f7743a6",
-        "title_fa": "«روز دی اقتصادی»؛ نقشه ترامپ برای فلج‌سازی کامل اقتصاد ایران",
-        "title_en": "The Message Behind Trump’s Threats of ‘Economic Warfare’ Against Iran",
-        "summary": [
-            "ترامپ از کلید زدن «روز دی اقتصادی» برای خفه‌کردن شریان‌های مالی ایران خبر داد.",
-            "این طرح ترکیبی از محاصره شبه‌نظامی در دریا و قطع کامل ارتباط ایران با سیستم مالی جهانی است.",
-            "هدف واشنگتن کشاندن ایران به زانو از طریق ضربه محکم به زیرساخت‌های درآمدی کشور است."
-        ],
-        "impact": "تشدید فشار مالی روی بازارهای ایران و مسدود شدن کامل شریان‌های درآمد ارزی.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "The New York Times",
-        "url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
-        "clean_url": "https://www.nytimes.com/2026/08/20/world/europe/trump-iran-economy-sanctions-threats.html",
-        "image": "http://www.bing.com/th?id=ONUT.WoiYlkZokJuJQ9tT2a4UPg&pid=News",
-        "timestamp": 1787244960.0
     }
 ]
