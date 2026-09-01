@@ -1,5 +1,41 @@
 [
     {
+        "id": "3ca6845c16",
+        "title_fa": "تکذیب ادعای تهران درباره حمله به پایگاه آمریکا در اردن",
+        "title_en": "Iran war live: US military denies claim Tehran struck base in Jordan",
+        "summary": [
+            "ارتش آمریکا ادعای رسانه‌های حاکمیتی ایران درباره هدف قرار دادن پایگاه نظامی آمریکا در اردن را رسماً تکذیب کرد.",
+            "ادعاهای تلافی‌جویانه تهران بیشتر کارکرد تبلیغاتی درون‌مرزی دارد تا ضربات سنگین سنتکام را در انظار عمومی پوشش دهد."
+        ],
+        "impact": "تشدید جنگ اطلاعاتی و عملیات روانی همزمان با درگیری‌های میدانی در منطقه.",
+        "tag": "جنگ روانی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/other/iran-war-live-us-military-denies-claim-tehran-struck-base-in-jordan/ar-AA2bjqOd",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-us-military-denies-claim-tehran-struck-base-in-jordan/ar-AA2bjqOd",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bmfX5.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1788299092.0
+    },
+    {
+        "id": "3ef0b9b93a",
+        "title_fa": "جهش بودجه نظامی آمریکا و بحران در زنجیره تامین جهانی",
+        "title_en": "Iran War Reshapes Congress, Defense Spending, and Supply Chains",
+        "summary": [
+            "درگیری مستقیم با ایران معادلات کنگره آمریکا را تغییر داده و موجب افزایش ناگهانی بودجه‌های پنتاگون شده است.",
+            "ناامنی در مسیر استراتژیک خلیج فارس، هزینه‌های بیمه کشتیرانی و زنجیره تامین کالاهای حیاتی را ملتهب کرده است."
+        ],
+        "impact": "افزایش هزینه‌های حمل‌ونقل دریایی و رشد قیمت جهانی انرژی.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Legis1",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yam1ZdV9XTElsVGg4SHM3Q0ZqcHFJYllmc0FaaGNCZVIyS0FWbU9BVXNPNTBRQW4zV0FRanNnODBnY2hhM2syX3dsV3pMQnl1RDR1d0NubUVnTWx2TlBGQUVScjRnMTVSVnFtQU4wWHlBM3J4UGx3?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yam1ZdV9XTElsVGg4SHM3Q0ZqcHFJYllmc0FaaGNCZVIyS0FWbU9BVXNPNTBRQW4zV0FRanNnODBnY2hhM2syX3dsV3pMQnl1RDR1d0NubUVnTWx2TlBGQUVScjRnMTVSVnFtQU4wWHlBM3J4UGx3",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788291592.0
+    },
+    {
         "id": "9081ff1806",
         "title_fa": "«خفه کردن اقتصادی تهران»؛ طرح آمریکا برای تحریم هفتگی بانک‌های ایران",
         "title_en": "Iran defiant as Bessent says US likely to announce bank sanctions this week",
@@ -17,6 +53,25 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-urges-us-comply-interim-111339974.html",
         "image": "https://media.zenfs.com/en/reuters.com/cbae01ce81f680fee55ff5ae10761ddf.jpg",
         "timestamp": 1788277873.0
+    },
+    {
+        "id": "57b30d0183",
+        "title_fa": "تهدید صریح ترامپ به سنگین‌ترین حمله و اجرای طرح خفگی اقتصادی",
+        "title_en": "Trump Threatens Iran With ‘Biggest Attack of Them All’ After New US Strikes",
+        "summary": [
+            "دونالد ترامپ پس از حملات سنتکام هشدار داد در صورت ادامه پاسخ‌های نظامی، بزرگ‌ترین حمله ممکن را علیه ایران اجرا خواهد کرد.",
+            "وزیر خزانه‌داری آمریکا در نشست G20 از برنامه «خفگی اقتصادی» و تحریم‌های فلج‌کننده جدید برای فشار بر تهران خبر داد.",
+            "تغییر فاز واشنگتن از فشار مالی محض به ترکیب ضربات نظامی و محاصره اقتصادی، استراتژی جدید ترامپ را روشن می‌کند."
+        ],
+        "impact": "افزایش شدید فشار بر بازار ارز ایران و ریسک بالای جهش مجدد قیمت دلار.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Newsweek",
+        "url": "https://www.newsweek.com/us-resumes-iran-war-strikes-economic-pressure-trump-12390872",
+        "clean_url": "https://www.newsweek.com/us-resumes-iran-war-strikes-economic-pressure-trump-12390872",
+        "image": "https://assets.newsweek.com/wp-content/uploads/2026/09/AP26212588786989.jpg?w=1200&crop=1",
+        "timestamp": 1788274980.0
     },
     {
         "id": "ecd8ef5496",
@@ -72,6 +127,43 @@
         "clean_url": "https://time.com/article/2026/09/01/irans-president-willing-to-resume-peace-talks-what-stands-in-the-way-",
         "image": "http://www.bing.com/th?id=ONUT.n_dXxWrwP1CZNiAaWzaZtg&pid=News",
         "timestamp": 1788260880.0
+    },
+    {
+        "id": "0234e1ce22",
+        "title_fa": "موج جدید حملات آمریکا به مواضع سپاه و پاسخ موشکی ایران",
+        "title_en": "The Latest: US and Iran exchange fire after abrupt end to month without military action",
+        "summary": [
+            "سنتکام رادارها و پهپادهای سپاه را در بندرعباس، قشم و کوهستک هدف قرار داد؛ واشنگتن این اقدام را پاسخ به تهدید کشتیرانی خواند.",
+            "تهران بلافاصله با شلیک موشک و پهپاد دست به تلافی زد؛ گزارش‌ها از تلفات غیرنظامی در سواحل جنوبی ایران خبر می‌دهند.",
+            "پایان آتش‌بس ناپایدار یک‌ماهه، درگیری طرفین را وارد مرحله تنش مستقیم و خطرناک در تنگه هرمز کرده است."
+        ],
+        "impact": "تنش نظامی در تنگه هرمز به اوج رسیده و خطوط ترانزیت انرژی در آستانه شللی کامل قرار گرفته است.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Newsday",
+        "url": "https://www.newsday.com/news/nation/trump-army-hegseth-ballroom-court-congress-q61469",
+        "clean_url": "https://www.newsday.com/news/nation/trump-army-hegseth-ballroom-court-congress-q61469",
+        "image": "http://www.bing.com/th?id=ONUT.h4P11DY_1xEIFQ5XlPD88w&pid=News",
+        "timestamp": 1788260760.0
+    },
+    {
+        "id": "57e83e4126",
+        "title_fa": "مانور پوتین در قرقیزستان و وعده حمایت نظامی از تهران",
+        "title_en": "Putin pledges support to Iran, rallies leaders to challenge U.S.",
+        "summary": [
+            "ولادیمیر پوتین در نشست منطقه‌ای قرقیزستان بر تقویت ائتلاف نظامی و سیاسی با جمهوری اسلامی تاکید کرد.",
+            "کرملین تلاش می‌کند از درگیری ایران و آمریکا به عنوان ابزاری برای چانه‌زنی با غرب و کاهش فشار بر جبهه اوکراین استفاده کند."
+        ],
+        "impact": "تعمیق وابستگی امنیتی تهران به مسکو در ازای ژست‌های دیپلماتیک کم‌هزینه روسیه.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.1,
+        "source": "The Washington Post",
+        "url": "https://www.washingtonpost.com/world/2026/09/01/putin-pledges-support-iran-rallies-leaders-challenge-us/",
+        "clean_url": "https://www.washingtonpost.com/world/2026/09/01/putin-pledges-support-iran-rallies-leaders-challenge-us",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788258180.0
     },
     {
         "id": "ec2d22f149",
@@ -5444,96 +5536,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpxaFhEMTF1TTRyR211YnNILUtfb0VZVmhGdDYwN3VvMUFySThIcDhuTXV4elZ4SlhtT2Z4c3FZTDc2NUtydHJ5bGxMQ0E4V0p3NHRuQnZ5VUduN2pjVFp2aHlEN0hmd2YyWDNJbkp2ME12SnpJUmZKaDNDQjZjVWNWWDF5OElKMkxCYnhkRS12ZFdwdFk4cTFtSlNidDRMMC1LMFBwM1dWVk5JaHpFNndqbksxY0puOXJXb21mWThLQ2tzUXNZ0gHbAUFVX3lxTE1yNWpWUTJ5ZjV1a2oxLTdBdG1RX3ZTSm1uV2ZPVDRiV0lZSXlsUi03Rkd5QWhWR05HWVp6UWIyMGxPa2t1TnQzSHN4MWxYdkR6OFpYYl9ndExSdUhwVkxNdWE3WXA1dE1UbXU5YmtteHA5MlNSaC1XUFg2N1JhUWE0NkN5bHVRUU9KcWNoWXNWQkZBVEtMQ0J0SXdtYU0yV0o2ZnozbC1xLVBTdjc4cXNYRWhjSUhEc1pKRE1ZRHlzUzNpYkVYanN0UkNObG1EbU1jNC1fdjFIUDFVQQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787301345.0
-    },
-    {
-        "id": "946beb0e89",
-        "title_fa": "برنامه آمریکا برای اعمال سنگین‌ترین دور تحریم‌ها علیه ایران",
-        "title_en": "US Plans Toughest Sanctions Yet Against Iran",
-        "summary": [
-            "واشنگتن در حال آماده‌سازی بسته‌ای بی‌سابقه از تحریم‌هاست تا مجاری باقی‌مانده تنفس اقتصادی تهران را کاملاً مسدود کند.",
-            "تمرکز اصلی این دور از فشارها بر شبکه صادرات غیررسمی نفت و شبکه صرافی‌های واسطه در امارات و چین خواهد بود.",
-            "این اقدام پیامی صریح به جمهوری اسلامی برای عقب‌نشینی از رفتارهای بی‌ثبات‌کننده و کاهش منابع مالی نیابتی‌هاست."
-        ],
-        "impact": "تنگ‌تر شدن حلقه تحریم‌ها فشار روانی و واقعی سنگینی بر بازار ارزی تهران وارد کرده و جهش نرخ دلار را تسریع می‌کند.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Media Line",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFNzSm9xa1hOQkVGTlNKbXBwOEk4WmJwV2RWeHNoN3lvamhKd21JZWU2c0cwQUVDVmZRSjZzYkJvcU1ZU21Pc1FCdllfWndKVHlXVVY0eVhjS3c2UXJFelVmbnhnZTJqbU1SWDFMT1VHeWI2VWpwM0hKSnJmOWJwRVRKUlVRN3c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeFNzSm9xa1hOQkVGTlNKbXBwOEk4WmJwV2RWeHNoN3lvamhKd21JZWU2c0cwQUVDVmZRSjZzYkJvcU1ZU21Pc1FCdllfWndKVHlXVVY0eVhjS3c2UXJFelVmbnhnZTJqbU1SWDFMT1VHeWI2VWpwM0hKSnJmOWJwRVRKUlVRN3c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787300989.0
-    },
-    {
-        "id": "6c784d9065",
-        "title_fa": "ارزیابی شریان‌های اقتصادی ایران در خلیج فارس",
-        "title_en": "What to Know About Iran’s Economic Ties With Gulf Countries",
-        "summary": [
-            "کشورهای حاشیه خلیج فارس همچنان به عنوان سوپاپ اطمینان مالی و مسیر اصلی دور زدن تحریم‌ها برای تهران عمل می‌کنند.",
-            "توازن شکننده میان روابط تجاری کشورهای عربی با ایران و فشارهای سنگین واشنگتن تحت شعاع قرار گرفته است."
-        ],
-        "impact": "تنگ‌تر شدن احتمالی کانال‌های مبادلات ارزی در امارات و قطر.",
-        "tag": "تحریم",
-        "urgency": 5,
-        "sentiment": -0.2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGhRc1VWaXJQSGdUNnNsNTRYd0dRQUhISk1zMko0S2FTS0N0Zmd6ZW45VF9PWFpTSlpHVjhXWUN5dG8wdW9OdER2QnVmUDhiaXRjckJmdWsza1NwRVI1TlBQWUZnUmQ0WVQzUDRNUXJZOFNJUUtKQ0NfS3RSdURtNUR6UFVOdTctaU5BT3F1aEV3TWs?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONGhRc1VWaXJQSGdUNnNsNTRYd0dRQUhISk1zMko0S2FTS0N0Zmd6ZW45VF9PWFpTSlpHVjhXWUN5dG8wdW9OdER2QnVmUDhiaXRjckJmdWsza1NwRVI1TlBQWUZnUmQ0WVQzUDRNUXJZOFNJUUtKQ0NfS3RSdURtNUR6UFVOdTctaU5BT3F1aEV3TWs",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787298956.0
-    },
-    {
-        "id": "30b56b8afe",
-        "title_fa": "افزایش تحرکات مرزی میان ایران و عراق",
-        "title_en": "US-Iran Conflict: Iranians cross into Iraq as tensions remain high",
-        "summary": [
-            "هم‌زمان با بالا گرفتن تنش میان ایران و آمریکا، تردد غیرعادی در مرزهای غربی و ورود نیروها به خاک عراق ثبت شده است.",
-            "عراق بار دیگر به کانون احتمالی تسویه‌حساب‌های منطقه‌ای و مواضع گروه‌های نیابتی تبدیل می‌شود."
-        ],
-        "impact": "افزایش احتمال درگیری‌های نیابتی در خاک عراق و ناامنی مرزی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "news.cgtn.com",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MdjdqY3dyR09tVGlQVmZSZGJLNC1Md0lzUkJ4c21VVUZLaUJfWVNMdTBlSkxPMTIxWXNoSDFyYlJCcTNoaEdnN3Vob2NZMU1UVmh6Rjl3bUJ4dkNKZV9FU05US2owZkF2anlCRHBaZktVZWVlVFFYYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MdjdqY3dyR09tVGlQVmZSZGJLNC1Md0lzUkJ4c21VVUZLaUJfWVNMdTBlSkxPMTIxWXNoSDFyYlJCcTNoaEdnN3Vob2NZMU1UVmh6Rjl3bUJ4dkNKZV9FU05US2owZkF2anlCRHBaZktVZWVlVFFYYw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787298075.0
-    },
-    {
-        "id": "b0dcbe2027",
-        "title_fa": "کاهش کارایی تحریم‌های سنتی و لزوم فشار هدفمند",
-        "title_en": "U.S. sanctions can hurt Iran if deployed effectively, says expert",
-        "summary": [
-            "تحلیل‌گران غربی معتقدند تحریم‌ها تنها در صورت انسداد کامل شبکه‌های صرافی زیرزمینی موثر خواهند بود.",
-            "بدون همراهی کشورهای منطقه، ابزارهای تحریمی آمریکا اثرگذاری فوری خود را از دست می‌دهند."
-        ],
-        "impact": "تغییر استراتژی واشنگتن به سمت تحریم‌های نقطه‌ای و شبکه صرافی‌ها.",
-        "tag": "ارز",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTVFem5ueFJzbkdSWUMwRVI2Y1ZvZDZHZUZTUlAyNldWck4xdzZ2amhPb2xUU0dBRzZ0WklCSVdnd0d3NUNEREdqQnAyejZGLWFycjg5Q05vTDRJN2NqeVAwSjJYdzAyenBVMnVkRnQ1U2NISWlXNjRPQUtjQTBLT2UyREgyRkNYaXIzcVhRN3ZtRUd1cnFLdFZ3UVZlT2tIeXo0UlFnQXo?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTVFem5ueFJzbkdSWUMwRVI2Y1ZvZDZHZUZTUlAyNldWck4xdzZ2amhPb2xUU0dBRzZ0WklCSVdnd0d3NUNEREdqQnAyejZGLWFycjg5Q05vTDRJN2NqeVAwSjJYdzAyenBVMnVkRnQ1U2NISWlXNjRPQUtjQTBLT2UyREgyRkNYaXIzcVhRN3ZtRUd1cnFLdFZ3UVZlT2tIeXo0UlFnQXo",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787297722.0
-    },
-    {
-        "id": "83e5b802a2",
-        "title_fa": "آغاز فاز جنگ تمام‌عیار اقتصادی آمریکا علیه ایران",
-        "title_en": "US turns to economic warfare in new phase of Iran conflict, Vance says",
-        "summary": [
-            "معاون ترامپ از تغییر استراتژی واشنگتن به سمت فلج‌سازی کامل ساختار مالی و فروش نفت ایران خبر داد.",
-            "تمرکز اصلی این طرح، خشکاندن منابع درآمدی سپاه و شبکه‌های تامین مالی منطقه‌ای آن است."
-        ],
-        "impact": "تشدید فشار بر بازار ارز و تشدید ریزش ارزش ریال.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "middle-east-online.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUppdFRrd1YwYlNOQ3dLSUlLT2FvNDktdlVnX3V2bTR4T0R6eEFtVV9fY21OQXdOeXlfb29iUTZPZzBsVWVnMnNrYnYwMXR4VDJTZVo4aWd5WElEWlZVc1RjTzZybnZTYU5XVV96TGhYZHJHSUJjclJtaGQtOVNfRDBQd0x0NlFWd1JqU1d1cm9uTk9LS0VLbXBB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUppdFRrd1YwYlNOQ3dLSUlLT2FvNDktdlVnX3V2bTR4T0R6eEFtVV9fY21OQXdOeXlfb29iUTZPZzBsVWVnMnNrYnYwMXR4VDJTZVo4aWd5WElEWlZVc1RjTzZybnZTYU5XVV96TGhYZHJHSUJjclJtaGQtOVNfRDBQd0x0NlFWd1JqU1d1cm9uTk9LS0VLbXBB",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787297705.0
     }
 ]
