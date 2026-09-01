@@ -1,5 +1,42 @@
 [
     {
+        "id": "9081ff1806",
+        "title_fa": "«خفه کردن اقتصادی تهران»؛ طرح آمریکا برای تحریم هفتگی بانک‌های ایران",
+        "title_en": "Iran defiant as Bessent says US likely to announce bank sanctions this week",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا از آغاز موج جدیدی از تحریم‌های بانکی علیه ایران خبر داد که هدف آن فلج کردن کامل شریان‌های مالی حکومت است.",
+            "هم‌زمان با اختلال در رفت‌وآمد نفتکش‌ها در تنگه هرمز و تهدید ترامپ به حملات شدیدتر، قیمت جهانی نفت دوباره جهش کرد.",
+            "تهران خط و نشان‌های کلامی می‌کشد، اما فشارهای هم‌زمان نظامی و بانکی، راه‌های تنفس اقتصادی را مسدودتر کرده است"
+        ],
+        "impact": "جهش فوری قیمت جهانی نفت و تعمیق بحران ارز در بازار تهران به دلیل فلج شدن کانال‌های بانکی.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Reuters",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-urges-us-comply-interim-111339974.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-urges-us-comply-interim-111339974.html",
+        "image": "https://media.zenfs.com/en/reuters.com/cbae01ce81f680fee55ff5ae10761ddf.jpg",
+        "timestamp": 1788277873.0
+    },
+    {
+        "id": "ecd8ef5496",
+        "title_fa": "تکذیب فعالیت اتمی در کوه کلنگ گَزلا توسط سخنگوی وزارت خارجه",
+        "title_en": "Iran has no nuclear production at Mount Kuh-e Kolang Gaz-La — Foreign Ministry",
+        "summary": [
+            "اسماعیل بقائی وجود هرگونه تاسیسات یا فعالیت غنی‌سازی در منطقه کوه کلنگ گزلا را رد کرد و ادعا نمود گروسی از این موضوع باخبر است.",
+            "موضع‌گیری دفاعی وزارت خارجه نشان می‌دهد پرونده جدیدی درباره سایت‌های پنهانی اتمی توسط آژانس و نهادهای اطلاعاتی غرب گشوده شده است"
+        ],
+        "impact": "افزایش فشارهای نظارتی آژانس بین‌المللی انرژی اتمی بر سایت‌های مشکوک و غیرعلنی در ایران.",
+        "tag": "هسته‌ای",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "TASS Russian News Agency",
+        "url": "https://tass.com/world/2180459",
+        "clean_url": "https://tass.com/world/2180459",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788269760.0
+    },
+    {
         "id": "9dc0741ad1",
         "title_fa": "التماس دیپلماتیک تهران پس از تهدیدهای جدید ترامپ",
         "title_en": "Iran urges US to comply with interim deal after Trump threatens further strikes",
@@ -88,6 +125,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hazUzeEdpb3d6cjRyQW5mcXRoUmo3LTVTZHB3VURKMTFScV83YTJrc3gzekJOenFlZUh3VVJsOE8tYzByejVUR0JlSTctcXJ0SmhEVy1naUh2dHpyZkNiTDJBN2c",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788251645.0
+    },
+    {
+        "id": "6de2f95a79",
+        "title_fa": "چراغ سبز مشروط تهران به واشنگتن برای بازگشت به آتش‌بس",
+        "title_en": "Iran's president says Iran would return to ceasefire agreement if US does, and other Mideast news",
+        "summary": [
+            "رئیس‌جمهور ایران اعلام کرد اگر واشنگتن به توافق آتش‌بس ژوئن پایبند باشد، تهران نیز آماده توقف درگیری‌هاست.",
+            "این سخنان نرم پس از دور جدید تبادل آتش و تهدیدهای سنگین ترامپ، نشان‌دهنده هراس از کشانده شدن کشور به یک درگیری ویرانگر تمام‌عیار است"
+        ],
+        "impact": "تلاش سیگنالی تهران برای کاهش زهر تحریم‌های جدید و جلوگیری از حملات نظامی بیشتر آمریکا.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.2,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/irans-president-says-iran-would-return-to-ceasefire-agreement-if-us-does-and-other-mideast-news/ar-AA2bkGMk",
+        "clean_url": "https://www.msn.com/en-us/news/other/irans-president-says-iran-would-return-to-ceasefire-agreement-if-us-does-and-other-mideast-news/ar-AA2bkGMk",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788251460.0
     },
     {
         "id": "975abd6103",
@@ -5480,60 +5535,5 @@
         "clean_url": "https://www.yahoo.com/news/articles/irans-president-calls-end-war-123133352.html",
         "image": "http://www.bing.com/th?id=ONUT.JqU7uQumB5zjs2gDCdneeg&pid=News",
         "timestamp": 1787290200.0
-    },
-    {
-        "id": "6c58095057",
-        "title_fa": "هشدار مستقیم آمریکا به متحدان و چین: هدف فروپاشی اقتصاد تهران است",
-        "title_en": "US warns allies and China to join Iran economic pressure campaign",
-        "summary": [
-            "دونالد ترامپ وعده سنگین‌ترین عملیات اقتصادی تاریخ علیه جمهوری اسلامی را داده و صریحاً هدف را فروپاشی ساختار حاکم اعلام کرد.",
-            "وزیر خزانه‌داری آمریکا تحریم‌کنندگان را تهدید کرد که هرگونه ارتباط مالی با تهران به نابودی اقتصادی خود آن‌ها می‌انجامد.",
-            "تهران این اقدامات را تروریسم اقتصادی خوانده اما گزینه‌های محدودی برای مقابله دارد."
-        ],
-        "impact": "قطع آخرین خطوط ارتباطی تجارت خارجی و احتمال وقفه کامل در صادرات نفت به چین.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "France 24",
-        "url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
-        "clean_url": "https://www.france24.com/en/middle-east/20260821-us-warns-allies-and-china-to-join-iran-economic-pressure-campaign",
-        "image": "https://s.france24.com/media/display/715e1cda-9cb3-11f1-88f2-005056a90284/w:1280/p:16x9/02b5331290807cad5fafd6d3a495468f1fc01b9e.jpg",
-        "timestamp": 1787287080.0
-    },
-    {
-        "id": "87c5983ce4",
-        "title_fa": "خط و نشان ترامپ با «روز دی اقتصادی» و ادعای مقاومت تهران",
-        "title_en": "Trump warns of 'economic D-Day' against Iran, but Tehran is well acquainted with sanctions",
-        "summary": [
-            "دونالد ترامپ از ضربه نهایی اقتصادی به ایران سخن می‌گوید، اما تهران مدعی است به تحریم‌های طولانی‌مدت عادت دارد.",
-            "با وجود ادعای پایداری مسئولان، ظرفیت واقعی اقتصاد ایران زیر بار این حجم از فشار به نقطه بحرانی رسیده است."
-        ],
-        "impact": "وقوع شوک جدید در بازار ارز و طلا به محض اجرای فاز تازه تحریم‌ها.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Bozeman Daily Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQS0tieWZoMTJDZ0U1dU5BTWhBWlFvRmdCM2IxUDZFS0ZCamJ2azFmWjJBLXB5RXk1bVBnRUV1blIzT040OTg2dmlSN1FWcUFuLTV1Q0Y1QUxqSXU3ODM5c3RacC1kRXFoT1lqMGhjcHpCdmdSYlpvajN2eXcwSUwzdHYxa2RhUDVxV3llSVozQkFiZjRqNDZJc19MSVVYSHNMUDVZTUkxOHY5WWs5TGF2RnJvd1VicVVhTXVxMWdaTnRsakN3UHhKV3B2Wkt1eXgwUTc1RVlQTF9NZ2EwcmM3OU9XTHNDbmpELVVrS3hIUkQ4YmFWdzYwR0dEX2RIT0tjaG0wVHcyemlzRzFrWjVHTnQ0cw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQS0tieWZoMTJDZ0U1dU5BTWhBWlFvRmdCM2IxUDZFS0ZCamJ2azFmWjJBLXB5RXk1bVBnRUV1blIzT040OTg2dmlSN1FWcUFuLTV1Q0Y1QUxqSXU3ODM5c3RacC1kRXFoT1lqMGhjcHpCdmdSYlpvajN2eXcwSUwzdHYxa2RhUDVxV3llSVozQkFiZjRqNDZJc19MSVVYSHNMUDVZTUkxOHY5WWs5TGF2RnJvd1VicVVhTXVxMWdaTnRsakN3UHhKV3B2Wkt1eXgwUTc1RVlQTF9NZ2EwcmM3OU9XTHNDbmpELVVrS3hIUkQ4YmFWdzYwR0dEX2RIT0tjaG0wVHcyemlzRzFrWjVHTnQ0cw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787284988.0
-    },
-    {
-        "id": "65d8422770",
-        "title_fa": "طرح «روز دی اقتصادی» ترامپ برای تسلیم تهران",
-        "title_en": "Iran dismisses Trump’s ‘Economic D-Day’ threat amid pressure for deal to end war",
-        "summary": [
-            "ترامپ تهدید کرده طرح «روز دی اقتصادی» را علیه ایران به اجرا می‌گذارد تا تهران را مجبور به پذیرش توافق کند.",
-            "تهران با وجود فشار سنگین مالی، تلاش می‌کند خود را بی‌تفاوت نشان دهد و شروط آمریکا را نپذیرد."
-        ],
-        "impact": "احتمال انسداد کامل آخرین مجاری مالی و صادرات نفتی ایران.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Scripps News",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdDhVNzRHX2g1MV9uSXU5QXN3QjZJRW5ISkI4YW10My1SVnRQZzJ5VVM5ODAxZEplMkk5OTdWMXNJREMtZW1kbENFRjBHUkFCZUZUMzkzMEJFLU5qRms2RmtTTXJNd0dNWks1c3k5eHQ0bFU1TngwWXBwZWJhSU9PRlN5R1NXNXB3emhYdDYxQ1NfZldIemtXVy1wMUlzSjgxRzVYTlhUMVFaclBwS1FsNXRuMTBEdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdDhVNzRHX2g1MV9uSXU5QXN3QjZJRW5ISkI4YW10My1SVnRQZzJ5VVM5ODAxZEplMkk5OTdWMXNJREMtZW1kbENFRjBHUkFCZUZUMzkzMEJFLU5qRms2RmtTTXJNd0dNWks1c3k5eHQ0bFU1TngwWXBwZWJhSU9PRlN5R1NXNXB3emhYdDYxQ1NfZldIemtXVy1wMUlzSjgxRzVYTlhUMVFaclBwS1FsNXRuMTBEdw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787284575.0
     }
 ]
