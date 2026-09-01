@@ -55,6 +55,25 @@
         "timestamp": 1788262790.0
     },
     {
+        "id": "cf74b0a8f7",
+        "title_fa": "سیگنال صلح پزشکیان در بیشکک هم‌زمان با حملات سنگین آمریکا",
+        "title_en": "Iran’s President Signals Willingness to Resume Peace Talks. What Stands in the Way?",
+        "summary": [
+            "مسعود پزشکیان در اجلاس شانگهای اعلام کرد اگر آمریکا به شرایط آتش‌بس ژوئن برگردد، ایران هم فوراً اجرای تعهدات را از سر می‌گیرد.",
+            "موضع‌گیری نرم تهران در شرایطی رخ می‌دهد که واشنگتن علاوه بر حملات نظامی جدید، جنگ اقتصادی و تحریمی را سخت‌تر کرده است.",
+            "دست‌پایین کشیدن دیپلماتیک مسئولان اجرایی در برابر ضربات سنگین نظامی، از دست رفتن اهرم‌های فشار تهران را برملا می‌کند."
+        ],
+        "impact": "بی‌اثری دیپلماسی تهران در برابر استراتژی نظامی آمریکا و تداوم فشار بر بازارها.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "TIME",
+        "url": "https://time.com/article/2026/09/01/irans-president-willing-to-resume-peace-talks-what-stands-in-the-way-/",
+        "clean_url": "https://time.com/article/2026/09/01/irans-president-willing-to-resume-peace-talks-what-stands-in-the-way-",
+        "image": "http://www.bing.com/th?id=ONUT.n_dXxWrwP1CZNiAaWzaZtg&pid=News",
+        "timestamp": 1788260880.0
+    },
+    {
         "id": "ec2d22f149",
         "title_fa": "رونق نفتی آمریکا و مرگ اهرم انرژی خاورمیانه",
         "title_en": "The Americas’ oil bonanza will outlast the Iran conflict at expense of Mideast",
@@ -162,6 +181,25 @@
         "clean_url": "https://www.israelnationalnews.com/news/432530",
         "image": "https://2.a7.org/files/pictures/000/1154439.jpg",
         "timestamp": 1788249240.0
+    },
+    {
+        "id": "19444d1a96",
+        "title_fa": "حملات سنگین آمریکا به تنگه هرمز و جهش نفت به بالای ۹۰ دلار",
+        "title_en": "Trump says Iran is 'dead' — experts point to the real sign Tehran is nearing the brink",
+        "summary": [
+            "نیروهای آمریکایی سکوهای پرتاب موشک ایران را در نزدیکی تنگه هرمز هدف قرار دادند که با پاسخ متقابل موشکی روبه‌رو شد.",
+            "دونالد ترامپ صریحاً اعلام کرد جمهوری اسلامی به انتهای خط رسیده و قدرت مانور خود را از دست داده است.",
+            "با بالا گرفتن شعله درگیری در شاهراه خلیج فارس، قیمت نفت برنت از مرز ۹۰ دلار عبور کرد."
+        ],
+        "impact": "جهش فوری قیمت جهانی انرژی و ریسک انسداد خلیج فارس در اثر درگیری مستقیم نظامی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-says-iran-is-dead-experts-point-to-the-real-sign-tehran-is-nearing-the-brink/ar-AA2bkmLg",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-says-iran-is-dead-experts-point-to-the-real-sign-tehran-is-nearing-the-brink/ar-AA2bkmLg",
+        "image": "http://www.bing.com/th?id=ONUT.oLHf4bEMlpC1SiIVqhhktQ&pid=News",
+        "timestamp": 1788231612.0
     },
     {
         "id": "71e96b8f16",
@@ -5497,43 +5535,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUppdFRrd1YwYlNOQ3dLSUlLT2FvNDktdlVnX3V2bTR4T0R6eEFtVV9fY21OQXdOeXlfb29iUTZPZzBsVWVnMnNrYnYwMXR4VDJTZVo4aWd5WElEWlZVc1RjTzZybnZTYU5XVV96TGhYZHJHSUJjclJtaGQtOVNfRDBQd0x0NlFWd1JqU1d1cm9uTk9LS0VLbXBB",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787297705.0
-    },
-    {
-        "id": "5489c7cc85",
-        "title_fa": "آغاز جنگ کامل اقتصادی آمریکا و تحرک دیپلماتیک تهران در منطقه",
-        "title_en": "Iran touts its trade ties as U.S. turns from bombs to economic warfare",
-        "summary": [
-            "واشنگتن با تغییر استراتژی از حملات نظامی به «جنگ کامل اقتصادی»، استراتژی فشار حداکثری و انسداد مالی علیه ایران را کلید زده است.",
-            "پزشکیان و قالیباف برای مقابله با طرح «روز دی اقتصادی» ترامپ، سراغ انعقاد قراردادهای تجاری با عمان و فعال‌سازی تجار در عراق رفته‌اند.",
-            "تیم اقتصادی ترامپ تلاش دارد با همراه کردن متحدان غربی و منطقه‌ای، تمام کانال‌های دور زدن تحریم و درآمد ارزی تهران را مسدود کند."
-        ],
-        "impact": "تنگ‌تر شدن حلقه تحریم‌های مالی، جهش دوباره نرخ ارز و تشدید بحران معیشتی در داخل ایران را به همراه دارد.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.75,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/politics/articles/iran-touts-trade-ties-u-103447256.html",
-        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-touts-trade-ties-u-103447256.html",
-        "image": "http://www.bing.com/th?id=ONUT.bxFa88XQBdXup-rq_iUoLw&pid=News",
-        "timestamp": 1787291040.0
-    },
-    {
-        "id": "06ed4f8dd0",
-        "title_fa": "ادعای فرار به جلوی پزشکیان هم‌زمان با موج تازه فشارهای واشنگتن",
-        "title_en": "Iran's president calls for end to war from 'position of power' as US ups pressure",
-        "summary": [
-            "مسعود پزشکیان در یک ژست تبلیغاتی و برای پوشاندن اثر تحریم‌های جدید، از «موضع قدرت» خواستار پایان درگیری‌ها با آمریکا شد.",
-            "جیغ بنفش وزارت خارجه جمهوری اسلامی و «تروریسم اقتصادی» خواندن تحریم‌های تازه، نشان از ضربه کاری واشنگتن به منابع مالی حکومت دارد.",
-            "پوشاندن عقب‌نشینی در قالب خط کلامی «پیروزی»، تاکتیک تکراری تهران برای مدیریت بدنه داخلی در مواجهه با فشار حداکثری است."
-        ],
-        "impact": "تلاش سراسیمه تهران برای دست‌وپا کردن راه خروج دیپلماتیک بدون پذیرش رسمی شکست.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/articles/irans-president-calls-end-war-123133352.html",
-        "clean_url": "https://www.yahoo.com/news/articles/irans-president-calls-end-war-123133352.html",
-        "image": "http://www.bing.com/th?id=ONUT.JqU7uQumB5zjs2gDCdneeg&pid=News",
-        "timestamp": 1787290200.0
     }
 ]
