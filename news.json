@@ -1,5 +1,42 @@
 [
     {
+        "id": "25a33ac96c",
+        "title_fa": "مانور تبلیغاتی سپاه درباره حمله به پایگاه آمریکا در کویت",
+        "title_en": "Iran’s IRGC claims US personnel killed, drones destroyed in attack on Kuwait air base",
+        "summary": [
+            "رسانه‌های وابسته به سپاه مدعی تلفات نیروهای آمریکایی در کویت شدند؛ اقدامی که بیشتر کارکرد جنگ روانی دارد.",
+            "تهران تلاش می‌کند با بزرگ‌نمایی خط خبری حملات، خنثی‌سازی موشک‌هایش توسط پدافند آمریکا را پوشش دهد."
+        ],
+        "impact": "تلاش برای بازسازی روحیه تضعیف‌شده نیروهای نیابتی از طریق تبلیغات رسانه‌ای.",
+        "tag": "نیابتی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Anadolu Ajansı",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS2E1a0JDdktzZllNcU5VcUhsYTR2UFRyTU12d3R5YTBGZF9aUU9CTTFNNE8yOGJzQWo2QnpKWjdKZ0cybFF0dklZdzZlUHpaS1YzSDdjeXR5YTh1R2dpVllIZkRQUmZVSW9IWVozQ3UtaFNEUHNEdjJxWW9FdXJtZHo0a1JyQm1IMWtaOXlYNTdrejI2NDlrNjN6Qm1GbllvYWNaUGotWEQzWW9qV0ZoSXNMeVRfdXpJYWQwTVZsT2xLVDJGWXJkSFB1WldweFlWdkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS2E1a0JDdktzZllNcU5VcUhsYTR2UFRyTU12d3R5YTBGZF9aUU9CTTFNNE8yOGJzQWo2QnpKWjdKZ0cybFF0dklZdzZlUHpaS1YzSDdjeXR5YTh1R2dpVllIZkRQUmZVSW9IWVozQ3UtaFNEUHNEdjJxWW9FdXJtZHo0a1JyQm1IMWtaOXlYNTdrejI2NDlrNjN6Qm1GbllvYWNaUGotWEQzWW9qV0ZoSXNMeVRfdXpJYWQwTVZsT2xLVDJGWXJkSFB1WldweFlWdkE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788327470.0
+    },
+    {
+        "id": "5f57a9dfc5",
+        "title_fa": "پاسخ موشکی ناکام ایران و ادعای ترامپ درباره تسلط بر هرمز",
+        "title_en": "Iran launches retaliation after US strikes on IRGC targets across Iran",
+        "summary": [
+            "سامانه‌های پدافندی آمریکا اکثر موشک‌ها و پهپادهای شلیک‌شده ایران را رهگیری کردند و آسیب جدی به پایگاه‌های منطقه وارد نشده است.",
+            "دونالد ترامپ با رد شایعات تلاش برای کشاندن ایران به پای میز مذاکره، از تسلط کامل آمریکا بر تنگه هرمز خبر داد.",
+            "ضربات سنگین به مراکز فرماندهی سپاه، ساختار تصمیم‌گیری را دچار سردرگمی کرده است."
+        ],
+        "impact": "بی‌اثری نسبی پاسخ موشکی ایران و تثبیت برتری نظامی و پدافندی آمریکا در منطقه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-news-trump-leader-latest-today-september-1",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-news-trump-leader-latest-today-september-1",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/012f80813f3e23bd5757453d33382195.jpg",
+        "timestamp": 1788314700.0
+    },
+    {
         "id": "1aabd57daf",
         "title_fa": "حملات سنگین سنتکام به مواضع سپاه و خط‌ونشان جدید ترامپ",
         "title_en": "US military completes latest strikes against Iran, while Trump vows more for Tehran's retaliation",
@@ -53,6 +90,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yam1ZdV9XTElsVGg4SHM3Q0ZqcHFJYllmc0FaaGNCZVIyS0FWbU9BVXNPNTBRQW4zV0FRanNnODBnY2hhM2syX3dsV3pMQnl1RDR1d0NubUVnTWx2TlBGQUVScjRnMTVSVnFtQU4wWHlBM3J4UGx3",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788291592.0
+    },
+    {
+        "id": "f316b31567",
+        "title_fa": "جهش ۵ درصدی قیمت نفت در پی ناامنی در تنگه هرمز",
+        "title_en": "Crude Prices Surge on Escalation of US-Iran Hostilities",
+        "summary": [
+            "اصابت پرتابه‌ها به دو سوپرتانکر نفت در تنگه هرمز، قیمت نفت خام را به بالاترین سطح ۶ هفته اخیر رساند.",
+            "آمریکا حملات پیش‌دستانه‌ای را علیه پرتابگرهای سپاه که قصد مین‌گذاری در تنگه هرمز را داشتند اجرا کرده است."
+        ],
+        "impact": "خطر اختلال گسترده در ترانزیت جهانی انرژی و جهش ناگهانی تورم در بازارهای بین‌المللی.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-escalation-us-191334343.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-escalation-us-191334343.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/8e9e755c7ef7fa235e7e307e9b9106d6.jpg",
+        "timestamp": 1788290331.0
     },
     {
         "id": "5cc6dd05ed",
@@ -5484,60 +5539,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEh1QVJmcTNtSE1PMURxNmRBT3RIWHhVTmtwZDRiMk5yUzJtc2xuNHFlQXF1a3VJS3FQckxIY3Y2VjhFejlkNDZnLTY0R0prazZHb194Y19sRDdjUVJtNHlMT0lwSHRRcU5UM2VBTFZpVHBDZEl1OGFWbUkxX1pacWhMYUtFQ0pRbGVRYVNYcy1zSUNZVWtxNW4zczc0YVhZVkFWUHJwRWlFQl8zQUR3dFNIU1o",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787318381.0
-    },
-    {
-        "id": "0decf8e913",
-        "title_fa": "شکاف در پاستور؛ پافشاری پزشکیان بر پایان جنگ زیر فشار ترامپ",
-        "title_en": "فشار اقتصادی جدید آمریکا بار دیگر شکاف‌ها در جمهوری اسلامی بر سر ادامه جنگ را آشکار کرد",
-        "summary": [
-            "تشدید فشارهای اقتصادی ترامپ توان مالی تهران را فلج کرده و اختلاف در حاکمیت را به اوج رسانده است.",
-            "مسعود پزشکیان با لحنی دوپلو و تحت پوشش ادعای «پیروزی»، صریحاً خواستار عقب‌نشینی و پایان رویارویی شده است.",
-            "تناقض میان شعارهای تندروهای حکومت و واقعیت خردکننده تورم، ساختار تصمیم‌گیری جمهوری اسلامی را دچار بن‌بست کرده است."
-        ],
-        "impact": "افزایش شکاف عمیق میان جناح‌های حاکمیت و احتمال عقب‌نشینی‌های تاکتیکی تحت فشار مالی.",
-        "tag": "اقتصادی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608217202",
-        "clean_url": "https://www.iranintl.com/202608217202",
-        "image": "http://www.bing.com/th?id=ONUT.bHufsBSm3YUQkTj-4rkCwg&pid=News",
-        "timestamp": 1787312760.0
-    },
-    {
-        "id": "7efbc3aa93",
-        "title_fa": "ادعای شکست نظامی آمریکا؛ تلاش تهران برای توجیه بحران اقتصادی",
-        "title_en": "Top Iran official says US focus on economic warfare shows it has failed militarily",
-        "summary": [
-            "مقامات جمهوری اسلامی ادعا می‌کنند تمرکز واشنگتن بر تحریم‌ها نشان از ترس از مواجهه نظامی دارد؛ خط خبری کاملاً تدافعی برای پنهان کردن بحران شدید ارزی.",
-            "این مانور تبلیغاتی تلاش می‌کند تحریم‌های خفه‌کننده را نقطه ضعف آمریکا جا بزند، در حالی که رژیم هیچ ابزاری برای مهار تورم و فروپاشی اقتصادی ندارد."
-        ],
-        "impact": "این خط کلامی تاثیری بر واقعیت میدانی تحریم‌ها ندارد و تنها برای مصرف داخلی و حفظ روحیه نیروهای وابسته است.",
-        "tag": "جنگ روانی",
-        "urgency": 4,
-        "sentiment": -0.5,
-        "source": "NPR",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3p4enFfTGhkOEU4VkprbkZPLU1DQ0lBOXM1b0wwUlBjS1pwOXY3VnNrbE9Uc0kybHp2bUlsYURlRzF1ejV5cHR5SkVTNUQyc2R4bkxoOEdUWTJ1VzhwWnFmWWhSRF84aTlSWWI0UGY4c1FpNmViOXhWY3JNamJ0d1Zn?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU3p4enFfTGhkOEU4VkprbkZPLU1DQ0lBOXM1b0wwUlBjS1pwOXY3VnNrbE9Uc0kybHp2bUlsYURlRzF1ejV5cHR5SkVTNUQyc2R4bkxoOEdUWTJ1VzhwWnFmWWhSRF84aTlSWWI0UGY4c1FpNmViOXhWY3JNamJ0d1Zn",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787312530.0
-    },
-    {
-        "id": "c9d174c404",
-        "title_fa": "اعتراف مقام ارشد تهران به خفگی اقتصادی تحت تحریم‌ها",
-        "title_en": "Iran Must Plan to Overcome ‘Unjust Sanctions,’ Top Tehran Official Says",
-        "summary": [
-            "تأکید مقامات تهران بر لزوم «برنامه‌ریزی برای عبور از تحریم‌های ظالمانه»، اعتراف به بی‌اثری ادعاهای قبلی مبنی بر خنثی‌سازی تحریم‌هاست.",
-            "رژیم در مواجهه با خشم عمومی تلاش می‌کند فلج اقتصادی ناشی از سوءمدیریت را کاملاً به فشارهای خارجی نسبت دهد."
-        ],
-        "impact": "تعمیق بی‌اعتمادی عمومی به وعده‌های اقتصادی حاکمیت و ریزش بیشتر ارزش پول ملی.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEpoQTB6TlFFcU42Z2lLV3VhMVJhSS1fTVJTZGxZb0dWLVNSRWR0Mkhmc21CclNXaVpfdW1QQ081Q2xhQkx6NnVLT2dMelZHV0s4MUhzRTV1R1FWc2dCTzFORWdkeFUxOVg0MWZzdTFYcDJDTEJyQ0drdTJQN3A1U3dZNjdlSjF0WjRPQTlxNjZtVzR0S2p0MkxB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEpoQTB6TlFFcU42Z2lLV3VhMVJhSS1fTVJTZGxZb0dWLVNSRWR0Mkhmc21CclNXaVpfdW1QQ081Q2xhQkx6NnVLT2dMelZHV0s4MUhzRTV1R1FWc2dCTzFORWdkeFUxOVg0MWZzdTFYcDJDTEJyQ0drdTJQN3A1U3dZNjdlSjF0WjRPQTlxNjZtVzR0S2p0MkxB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787309050.0
     }
 ]
