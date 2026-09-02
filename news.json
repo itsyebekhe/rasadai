@@ -1,5 +1,24 @@
 [
     {
+        "id": "1aabd57daf",
+        "title_fa": "حملات سنگین سنتکام به مواضع سپاه و خط‌ونشان جدید ترامپ",
+        "title_en": "US military completes latest strikes against Iran, while Trump vows more for Tehran's retaliation",
+        "summary": [
+            "سنتکام حملات جدیدی علیه اهداف سپاه پاسداران در خاک ایران انجام داد؛ هم‌زمان ترامپ هشدار داد پاسخ هرگونه اقدام تلافی‌جویانه تهران را بسیار محکم‌تر خواهد داد.",
+            "واشنگتن با هدف قرار دادن پرتابگرها و تاسیسات نظامی، به دنبال فلج کردن توان تهاجمی ایران است و درگیری وارد فاز مستقیم‌تر شده است.",
+            "تهران در بن‌بست سخت تاکتیکی قرار دارد: پاسخ نظامی خطر جنگ همه‌جانبه را بالا می‌برد و سکوت ضربه سنگینی به هیمنه داخلی و منطقه‌ای سپاه می‌زند."
+        ],
+        "impact": "افزایش ریسک درگیری مستقیم نظامی و تشدید فاز تهاجمی سنتکام در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "AP News",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788304020.0
+    },
+    {
         "id": "3ca6845c16",
         "title_fa": "تکذیب ادعای تهران درباره حمله به پایگاه آمریکا در اردن",
         "title_en": "Iran war live: US military denies claim Tehran struck base in Jordan",
@@ -36,6 +55,25 @@
         "timestamp": 1788291592.0
     },
     {
+        "id": "5cc6dd05ed",
+        "title_fa": "فشار کمرشکن محاصره دریایی و تحریم‌های جدید بر زندگی مردم ایران",
+        "title_en": "As US steps up pressure on Iran, ordinary people say they're paying the price",
+        "summary": [
+            "اجرای طرح «روز دی اقتصادی» توسط واشنگتن و محاصره دریایی بنادر، شریان باقی‌مانده اقتصاد ایران را رسماً قفل کرده است.",
+            "بار اصلی این جنگ اقتصادی و نظامی نه بر دوش حاکمیت، بلکه مستقیماً بر گرده سفره مردم و طبقه متوسط افتاده است.",
+            "ناامیدی عمومی نسبت به آینده اقتصادی شدت یافته، چرا که اقتصاد حتی پیش از آغاز حملات نظامی نیز فروپاشیده بود."
+        ],
+        "impact": "تعمیق بحران معیشتی، رکود سنگین بازار و تعمیق نارضایتی‌های اجتماعی درون کشور.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.9,
+        "source": "The Christian Science Monitor",
+        "url": "https://www.csmonitor.com/World/Middle-East/2026/0901/iranian-people-trump-economic-sanctions",
+        "clean_url": "https://www.csmonitor.com/World/Middle-East/2026/0901/iranian-people-trump-economic-sanctions",
+        "image": "https://images.csmonitor.com/csm/2026/09/0901_OIRAN_fish_mkt.jpg?alias=standard_900x600",
+        "timestamp": 1788283200.0
+    },
+    {
         "id": "9081ff1806",
         "title_fa": "«خفه کردن اقتصادی تهران»؛ طرح آمریکا برای تحریم هفتگی بانک‌های ایران",
         "title_en": "Iran defiant as Bessent says US likely to announce bank sanctions this week",
@@ -53,6 +91,25 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-urges-us-comply-interim-111339974.html",
         "image": "https://media.zenfs.com/en/reuters.com/cbae01ce81f680fee55ff5ae10761ddf.jpg",
         "timestamp": 1788277873.0
+    },
+    {
+        "id": "8c0b4b2bc6",
+        "title_fa": "جهش قیمت نفت در پی حمله به نفتکش‌ها در تنگه هرمز",
+        "title_en": "Crude Rallies on Concern of Prolonged Disruption to Middle East Oil Supplies",
+        "summary": [
+            "قیمت نفت پس از استهداف دو سوپرتانکر در تنگه هرمز و درگیری‌های موشکی میان ایران و آمریکا، به بالاترین حد در شش هفته اخیر رسید.",
+            "ترامپ اعلام کرد محاصره دریایی بنادر ایران ادامه دارد و هیچ جدول زمانی برای پایان این مواجهه نظامی تعیین نکرده است.",
+            "حملات متقابل به بنادر و پایگاه‌ها، تهدید ترانزیت انرژی از تنگه هرمز را به خط قرمز بازار جهانی تبدیل کرده است."
+        ],
+        "impact": "جهش ناگهانی قیمت جهانی انرژی و اختلال در خطوط کشتیرانی خلیج فارس.",
+        "tag": "ارز",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/crude-rallies-concern-prolonged-disruption-152804006.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/crude-rallies-concern-prolonged-disruption-152804006.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0.jpg",
+        "timestamp": 1788275818.0
     },
     {
         "id": "57b30d0183",
@@ -146,6 +203,24 @@
         "clean_url": "https://www.newsday.com/news/nation/trump-army-hegseth-ballroom-court-congress-q61469",
         "image": "http://www.bing.com/th?id=ONUT.h4P11DY_1xEIFQ5XlPD88w&pid=News",
         "timestamp": 1788260760.0
+    },
+    {
+        "id": "79d004d6b7",
+        "title_fa": "شکاف در میان ایرانیان خارج از کشور در قبال آینده ایران",
+        "title_en": "Abroad and at odds: How the war has divided Iranians in the diaspora",
+        "summary": [
+            "جنگ جاری جامعه ایرانیان خارج از کشور را میان مخالفت با حاکمیت تهران و نگران بودن از پیامدهای مداخله نظامی دچار پارادوکس و چنددستگی کرده است.",
+            "بخش مهمی از دیاسپورا ضمن استقبال از تضعیف ساختار سرکوب سپاه، نگران تخریب زیرساخت‌های ملی و آسیب به مردم عادی هستند."
+        ],
+        "impact": "تشدید مرزبندی‌های سیاسی میان گروه‌های مختلف اپوزیسیون در خارج از کشور.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Al Jazeera",
+        "url": "https://www.msn.com/en-us/news/other/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora/ar-AA2bk70k",
+        "clean_url": "https://www.msn.com/en-us/news/other/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora/ar-AA2bk70k",
+        "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/getty_6a925d4100-1787977025.jpg?resize=1920,1440",
+        "timestamp": 1788258460.0
     },
     {
         "id": "57e83e4126",
@@ -5464,77 +5539,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEpoQTB6TlFFcU42Z2lLV3VhMVJhSS1fTVJTZGxZb0dWLVNSRWR0Mkhmc21CclNXaVpfdW1QQ081Q2xhQkx6NnVLT2dMelZHV0s4MUhzRTV1R1FWc2dCTzFORWdkeFUxOVg0MWZzdTFYcDJDTEJyQ0drdTJQN3A1U3dZNjdlSjF0WjRPQTlxNjZtVzR0S2p0MkxB",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787309050.0
-    },
-    {
-        "id": "8f6f40f14f",
-        "title_fa": "کشیده شدن پای اروپا به مناقشه؛ تهدید موشکی پایگاه بلغارستان توسط تهران",
-        "title_en": "Why Iran is threatening Europe’s ‘strategically important’ southeast",
-        "summary": [
-            "تهران برای بازدارندگی در برابر آمریکا، بانک اهداف خود را گسترش داده و پایگاه‌های پشتیبانی واشنگتن در بلغارستان و جنوب شرقی اروپا را زیر نظر گرفته است.",
-            "گسترش دامنه تهدیدات موشکی به معابر دوردست نشان‌دهنده تلاش سپاه برای تحمیل هزینه به متحدان منطقه‌ای و فرامنطقه‌ای آمریکاست."
-        ],
-        "impact": "افزایش سطح هشدار امنیتی در بالکان و احتمال ورود فعالانه اتحادیه اروپا به تحریم‌های تسلیحاتی جدید علیه ایران.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/why-iran-threatening-europe-strategically-172917330.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/why-iran-threatening-europe-strategically-172917330.html",
-        "image": "http://www.bing.com/th?id=ONUT.9ZaHDNoGpz5maQnxGlFLuA&pid=News",
-        "timestamp": 1787308200.0
-    },
-    {
-        "id": "07adf820f6",
-        "title_fa": "تهدید آمریکا به تحریم‌های خفه‌کننده و واکنش لفظی تهران",
-        "title_en": "Iran vows ‘devastating’ response as US threatens crushing sanctions designed to ‘collapse’ regime",
-        "summary": [
-            "واشنگتن با سنگین‌ترین بسته فشار مالی تاریخ، فروپاشی ساختار اقتصادی حکومت را هدف گرفته است.",
-            "تهران با خط‌ونشان کلامی از پاسخ «ویرانگر» دم می‌زند، اما ابزارهای واقعی برای مقابله با این حجم از انزوا را ندارد.",
-            "تغییر استراتژی آمریکا از مهار تدریجی به ضربات سریع مالی، منابع ارزی ایران را کاملاً مسدود خواهد کرد."
-        ],
-        "impact": "جهش شدید نرخ ارز و فلج شدن آخرین شریان‌های صادراتی حکومت.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "New York Post on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/ar-AA2aFlzV",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-vows-devastating-response-as-us-threatens-crushing-sanctions-designed-to-collapse-regime/ar-AA2aFlzV",
-        "image": "http://www.bing.com/th?id=ONUT.5hLr1u1Jp6Se0y8BMfuXPQ&pid=News",
-        "timestamp": 1787305282.0
-    },
-    {
-        "id": "63a3a6f0ab",
-        "title_fa": "تمرکز ویژه رسانه‌های بین‌المللی بر تحرکات نظامی ایران",
-        "title_en": "Iran War: Latest News, Live Coverage and Video",
-        "summary": [
-            "پوشش پیوسته و لحظه‌ای اخبار درگیری‌ها نشان می‌دهد پرونده ایران همچنان در صدر اولویت‌های امنیتی و رسانه‌ای غرب قرار دارد."
-        ],
-        "impact": "تشدید جنگ روانی و حساسیت آنی بازارهای جهانی به کوچک‌ترین تحرک نظامی در خلیج فارس.",
-        "tag": "رسانه",
-        "urgency": 5,
-        "sentiment": -0.3,
-        "source": "NBC News",
-        "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787304269.0
-    },
-    {
-        "id": "af0ffea02c",
-        "title_fa": "ارزیابی تاب‌آوری رژیم ایران پس از شش ماه فشار حداکثری",
-        "title_en": "After six months of war, Washington has failed to strangle Iran’s economy",
-        "summary": [
-            "تحلیلگران غربی می‌گویند فشار اقتصادی واشنگتن هنوز منجر به فروپاشی کامل ساختار مالی رژیم نشده است.",
-            "واقعیت این است که معیشت جامعه فروپاشیده، اما حاکمیت با فروش قاچاق نفت و سرکوب داخلی، منابع بقای خود را تامین می‌کند."
-        ],
-        "impact": "احتمال اتخاذ تدابیر انسدادی شدیدتر از سوی آمریکا برای بستن منافذ قاچاق نفت ایران.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "EL PAÍS English",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpxaFhEMTF1TTRyR211YnNILUtfb0VZVmhGdDYwN3VvMUFySThIcDhuTXV4elZ4SlhtT2Z4c3FZTDc2NUtydHJ5bGxMQ0E4V0p3NHRuQnZ5VUduN2pjVFp2aHlEN0hmd2YyWDNJbkp2ME12SnpJUmZKaDNDQjZjVWNWWDF5OElKMkxCYnhkRS12ZFdwdFk4cTFtSlNidDRMMC1LMFBwM1dWVk5JaHpFNndqbksxY0puOXJXb21mWThLQ2tzUXNZ0gHbAUFVX3lxTE1yNWpWUTJ5ZjV1a2oxLTdBdG1RX3ZTSm1uV2ZPVDRiV0lZSXlsUi03Rkd5QWhWR05HWVp6UWIyMGxPa2t1TnQzSHN4MWxYdkR6OFpYYl9ndExSdUhwVkxNdWE3WXA1dE1UbXU5YmtteHA5MlNSaC1XUFg2N1JhUWE0NkN5bHVRUU9KcWNoWXNWQkZBVEtMQ0J0SXdtYU0yV0o2ZnozbC1xLVBTdjc4cXNYRWhjSUhEc1pKRE1ZRHlzUzNpYkVYanN0UkNObG1EbU1jNC1fdjFIUDFVQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSkpxaFhEMTF1TTRyR211YnNILUtfb0VZVmhGdDYwN3VvMUFySThIcDhuTXV4elZ4SlhtT2Z4c3FZTDc2NUtydHJ5bGxMQ0E4V0p3NHRuQnZ5VUduN2pjVFp2aHlEN0hmd2YyWDNJbkp2ME12SnpJUmZKaDNDQjZjVWNWWDF5OElKMkxCYnhkRS12ZFdwdFk4cTFtSlNidDRMMC1LMFBwM1dWVk5JaHpFNndqbksxY0puOXJXb21mWThLQ2tzUXNZ0gHbAUFVX3lxTE1yNWpWUTJ5ZjV1a2oxLTdBdG1RX3ZTSm1uV2ZPVDRiV0lZSXlsUi03Rkd5QWhWR05HWVp6UWIyMGxPa2t1TnQzSHN4MWxYdkR6OFpYYl9ndExSdUhwVkxNdWE3WXA1dE1UbXU5YmtteHA5MlNSaC1XUFg2N1JhUWE0NkN5bHVRUU9KcWNoWXNWQkZBVEtMQ0J0SXdtYU0yV0o2ZnozbC1xLVBTdjc4cXNYRWhjSUhEc1pKRE1ZRHlzUzNpYkVYanN0UkNObG1EbU1jNC1fdjFIUDFVQQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787301345.0
     }
 ]
