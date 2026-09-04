@@ -1,5 +1,42 @@
 [
     {
+        "id": "b48cd72479",
+        "title_fa": "جی‌دی ونش: پایان درگیری به تصمیم خود ایران بستگی دارد",
+        "title_en": "Vance says he doesn’t know when Iran conflict will end — it’s up to Iran",
+        "summary": [
+            "معاون رئیس‌جمهور آمریکا تعیین هرگونه جدول زمانی برای پایان دادن به درگیری با ایران را رد کرد.",
+            "واشنگتن توپ را به زمین تهران انداخته و توقف عملیات را منوط به عقب‌نشینی کامل ایران دانسته است.",
+            "این موضع‌گیری نشان می‌دهد آمریکا برنامه‌ای برای آتش‌بس زودهنگام ندارد و استراتژی فشار حداکثری را دنبال می‌کند."
+        ],
+        "impact": "تداوم فضای جنگی، بلاتکلیفی بازارها و نبود هیچ افق دیپلماتیک در کوتاه‌مدت.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkg1LUZscnlBMGFEQWpoT2dZb0QwZFVpUWpZOUNydUcxbHBJYUFqNmpxUmtOeXMzTW9IRzFtOGg1Ylg2Z2NDOTlfRnVlMWtBQ0FuTGVYVTBvc003MWhFaEJ3YXd6TFVzYmp4MmNKWVgyLXh3b0d6WTNZVU5Kckk3YlpnOU1nbFhHaVZkcnlkMklWRVdTVVBzT1VBX25kVnpNU1dNZDNFT0xmb0w2aGxtazdjeERwenFL?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUkg1LUZscnlBMGFEQWpoT2dZb0QwZFVpUWpZOUNydUcxbHBJYUFqNmpxUmtOeXMzTW9IRzFtOGg1Ylg2Z2NDOTlfRnVlMWtBQ0FuTGVYVTBvc003MWhFaEJ3YXd6TFVzYmp4MmNKWVgyLXh3b0d6WTNZVU5Kckk3YlpnOU1nbFhHaVZkcnlkMklWRVdTVVBzT1VBX25kVnpNU1dNZDNFT0xmb0w2aGxtazdjeERwenFL",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788483347.0
+    },
+    {
+        "id": "bc29b6edc2",
+        "title_fa": "بررسی گزارش‌ها درباره اصابت موشک به مراسم عروسی در ایران",
+        "title_en": "US investigating if missile hit Iran wedding, Vance says",
+        "summary": [
+            "واشنگتن تحقیقات درباره احتمال اصابت موشک به یک مراسم عروسی در ایران را آغاز کرده است.",
+            "اظهارات جی‌دی ونش نشان می‌دهد پنتاگون نگران پیامدهای حقوقی و رسانه‌ای تلفات غیرنظامی در طول درگیری است."
+        ],
+        "impact": "افزایش فشارهای افکار عمومی بین‌المللی بر واشنگتن و پرونده نظامی ایران.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "bbc.com",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMEZVQnZ4T0hIaEV0UW9jcUpPcDFyOUpLbGVNdXN0bW5ycXBabkJielhZV2gxUDNNWk1JZHZXZmtQTzhRVWZDM2Vadkt4NWlOdnlLMmxHUFVjUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5RMEZVQnZ4T0hIaEV0UW9jcUpPcDFyOUpLbGVNdXN0bW5ycXBabkJielhZV2gxUDNNWk1JZHZXZmtQTzhRVWZDM2Vadkt4NWlOdnlLMmxHUFVjUQ",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788473999.0
+    },
+    {
         "id": "7cfbb18a11",
         "title_fa": "تسلیم جمهوري‌خواهان در برابر سناریوی جنگ فرسایشی با ایران",
         "title_en": "Republicans once hoped the Iran war would end before the elections. They’ve given up that dream.",
@@ -53,6 +90,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYWxnVThEUFBybnJWc0RXUGh4Q2Y3aEJydFB6SVMyVGR2ZG91Zm5mWjdubWJ3eGhUb0ZKa3JYU3FZX2ppOVRrU1RFenNTNzVhd2J3RjNNVUFKUlZBOUl0MXpKRTFWN3BkVUJ2MEFxUF9FRmNUTUY0NnBuejlBZDFkLVNDRHpyYmNOZDhrVGZVWVo2OGdMVlRlY3pQdUVPMXBUbmpObEI3d19pdVFYZk15bVptVFlkZ0xtdnBFQlR5TThtYnRaOHZ2RWFQcw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788464340.0
+    },
+    {
+        "id": "3d5f5e59b0",
+        "title_fa": "نتانیاهو: تغییر حکومت ایران هدف اصلی و دست‌یافتنی اسرائیل است",
+        "title_en": "US-Israel-Iran war latest live news: Netanyahu calls overthrowing Iran's leadership Israel's 'next main mission', says goal is within reach",
+        "summary": [
+            "بنیامین نتانیاهو صراحتاً سرنگونی جمهوری اسلامی را مأموریت محوری جدید تل‌آویو خواند.",
+            "نخست‌وزیر اسرائیل مدعی شد فروپاشی ساختار قدرت در تهران بیش از هر زمان دیگری در دسترس قرار گرفته است.",
+            "این موضع‌گیری نشان‌دهنده تغییر رسمی دکترین اسرائیل از ضربات نقطه‌ای به سمت تغییر رژیم است."
+        ],
+        "impact": "تغییر سطح درگیری‌ها به فاز متلاشی‌سازی ساختارهای حاکمیتی و احتمال حملات گسترده‌تر.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Sunday Guardian Live on MSN",
+        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-netanyahu-calls-overthrowing-iran-s-leadership-israel-s-next-main-mission-says-goal-is-within-reach/ar-AA2bvrl2",
+        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-netanyahu-calls-overthrowing-iran-s-leadership-israel-s-next-main-mission-says-goal-is-within-reach/ar-AA2bvrl2",
+        "image": "http://www.bing.com/th?id=ONUT.DzHVFAFTVb8ChhSVU9v1Vg&pid=News",
+        "timestamp": 1788455100.0
     },
     {
         "id": "ca680ebe4f",
@@ -5476,61 +5532,5 @@
         "clean_url": "https://www.yahoo.com/news/politics/articles/iran-retaliate-against-countries-join-115022983.html",
         "image": "http://www.bing.com/th?id=ONUT.--41hwe5yEzssxSO1Z2RKQ&pid=News",
         "timestamp": 1787460600.0
-    },
-    {
-        "id": "4523f68e33",
-        "title_fa": "خط‌ونشان امنیتی تهران برای همسایگان همراه با تحریم‌های آمریکا",
-        "title_en": "US Israel Iran war latest news: Iran warns countries supporting US economic pressure, threatens to target their interests",
-        "summary": [
-            "مقام ارشد امنیت ملی ایران کشورهای همسایه را تهدید کرد که در صورت همراهی با فشارهای اقتصادی واشنگتن، منافعشان مستقیماً هدف قرار خواهد گرفت.",
-            "این خط کلامی و تهدید صریح نشان‌دهنده هراس شدید حکومت از تنگ‌تر شدن حلقه خفه ساختن شریان‌های مالی منطقه است."
-        ],
-        "impact": "افزایش ریسک همکاری‌های اقتصادی همسایگان با ایران و تعمیق انزوای تجاری کشور.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "The Sunday Guardian Live on MSN",
-        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-news-iran-warns-countries-supporting-us-economic-pressure-threatens-to-target-their-interests/ar-AA2aKdHz",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-news-iran-warns-countries-supporting-us-economic-pressure-threatens-to-target-their-interests/ar-AA2aKdHz",
-        "image": "http://www.bing.com/th?id=ONUT.vcf1aEA9xPldJNpRSCZoTg&pid=News",
-        "timestamp": 1787458980.0
-    },
-    {
-        "id": "7b1ce53ad2",
-        "title_fa": "تحلیل اتلانتیک از موازنه جدید قدرت و تغییر بازی تهران در منطقه",
-        "title_en": "Iran Unleashed",
-        "summary": [
-            "نشریه اتلانتیک مدعی شد ایران با عبور از مواجهه مستقیم با آمریکا و اسرائیل، موازنه قدرت در خلیج فارس را به نفع خود تغییر داده است.",
-            "تهران دیگر خود را محتاج توافق با غرب نمی‌بیند و کشورهای منطقه در حال سازگاری با این واقعیت جدید هستند.",
-            "انفعال واشنگتن فرصت طلایی را برای تثبیت اهرم‌های فشار منطقه‌ای به حکومت ایران داده است."
-        ],
-        "impact": "سخت‌تر شدن هرگونه توافق دیپلماتیک و جسورتر شدن سیاست‌های منطقه‌ای حکومت.",
-        "tag": "منطقه",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374/",
-        "clean_url": "https://www.theatlantic.com/international/2026/08/iran-middle-east-power/688374",
-        "image": "http://www.bing.com/th?id=ONUT.wU-rS7h5usTREFtF737v2w&pid=News",
-        "timestamp": 1787457600.0
-    },
-    {
-        "id": "0fc2127f9d",
-        "title_fa": "خط و نشان تهران برای همسایگان درباره همراهی با تحریم‌های آمریکا",
-        "title_en": "Iran’s new security chief says neighbours who join US economic war will be considered ‘enemies’",
-        "summary": [
-            "دبیر جدید شورای عالی امنیت ملی ایران رسماً اعلام کرد هر کشوری در منطقه که در فشار اقتصادی آمریکا همراهی کند، «دشمن» تلقی می‌شود.",
-            "این خط کلامی تند خطاب به همسایگان، برای جلوگیری از مسدود شدن مسیرهای دور زدن تحریم و مبادلات مالی است.",
-            "تهران با بالا بردن هزینه سیاسی، می‌کوشد مانع اجرای دستورالعمل‌های خزانه داری آمریکا توسط کشورهای همجوار شود."
-        ],
-        "impact": "ایجاد ریسک امنیتی در روابط تجاری و اختلال در مبادلات مرزی و بانکی ایران با همسایگان.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1I0S3hyemkyRkVnUldIb05KbVViYW1tclh2T3lNSUlEM00zT3hSeHZZNDFVNUhPdGVjenB2WW1NUGEyOHNxdTJoSU9oMnV4cmRYd08zb3BXcVhER3hOVW4wWUtMRHplS09qMXJqSWdWMXd5VDhaVmFPSE1zNTUwbDNWX2lodFN1LXpuc2NOYi16UXZWaUVLeXJwazZkVFdxQTJVM2szYXRvNzRZaXk0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX1I0S3hyemkyRkVnUldIb05KbVViYW1tclh2T3lNSUlEM00zT3hSeHZZNDFVNUhPdGVjenB2WW1NUGEyOHNxdTJoSU9oMnV4cmRYd08zb3BXcVhER3hOVW4wWUtMRHplS09qMXJqSWdWMXd5VDhaVmFPSE1zNTUwbDNWX2lodFN1LXpuc2NOYi16UXZWaUVLeXJwazZkVFdxQTJVM2szYXRvNzRZaXk0",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787456040.0
     }
 ]
