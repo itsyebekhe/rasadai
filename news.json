@@ -1,5 +1,95 @@
 [
     {
+        "id": "d7bc02ef7e",
+        "title_fa": "انسداد شریان مالی تهران؛ تحریم بانک ترکیه‌ای گلدن گلوبال",
+        "title_en": "US Targets Turkish Bank In New Bid To Cut Iran's Financial Lifelines",
+        "summary": [
+            "وزارت خزانه داری آمریکا در قالب طرح جدید خود، بانک سرمایه‌گذاری گلدن گلوبال ترکیه و شرکت‌های تابعه‌اش را به اتهام تسهیل جابه‌جایی عواید نفتی ایران تحریم کرد.",
+            "این اقدام بخشی از کمپین خفه‌کننده 'مطرود اقتصادی' برای قطع کامل دسترسی تهران به شبکه بانکی بین‌المللی و ارزهای معتبر است."
+        ],
+        "impact": "مسدود شدن آخرین کانال‌های تنفسی ارزی ایران در ترکیه و سخت‌تر شدن فرآیند بازگرداندن دلار نفتی.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Radio Free Europe/Radio Liberty",
+        "url": "https://www.rferl.org/a/iran-turkey-bank-sanctions-treasury-economic-outcast/33847194.html",
+        "clean_url": "https://www.rferl.org/a/iran-turkey-bank-sanctions-treasury-economic-outcast/33847194.html",
+        "image": "https://gdb.rferl.org/55f6dde7-e814-4bf7-d3cd-08de3c914337_cx26_cy24_cw73_w1200_h630.jpg",
+        "timestamp": 1788549360.0
+    },
+    {
+        "id": "d639c5bd6d",
+        "title_fa": "موضع ترامپ: درگیری با ایران ناچیز و قابل مدیریت است",
+        "title_en": "Trump says Iran conflict, which has killed 18 US service members and injured hundreds more, is ‘small potatoes’",
+        "summary": [
+            "ترامپ تلفات و درگیری‌های اخیر با ایران را در مقایسه با اهداف کلان آمریکا «ناچیز» خواند.",
+            "این پیام نشان می‌دهد واشنگتن قصد ندارد با تهدیدات نامتقارن یا تلفات جزئی از مسیر فشار حداکثری و نابودی توان نظامی تهران عقب‌نشینی کند."
+        ],
+        "impact": "تثبیت اراده کاخ سفید برای ادامه نبرد تا تضعیف کامل توان تهاجمی ایران.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.5,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53alVLRTNPV1hocjlTbVhwb3U5eFg1S3doWVVqdG9GYXNiS1VMWmwyWjhpMDh0UjdrSE9wVWEzVXBMcGdJbllzWUI2eHhaRmpqb1FnUHMzbG5HeDZ4anpISm5DeHdjNk9HR2JTRXlkWHNyQ0k?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE53alVLRTNPV1hocjlTbVhwb3U5eFg1S3doWVVqdG9GYXNiS1VMWmwyWjhpMDh0UjdrSE9wVWEzVXBMcGdJbllzWUI2eHhaRmpqb1FnUHMzbG5HeDZ4anpISm5DeHdjNk9HR2JTRXlkWHNyQ0k",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788548871.0
+    },
+    {
+        "id": "9b803f6890",
+        "title_fa": "خط‌ونشان پدافند سپاه همزمان با تدوین استراتژی پسامات آمریکا",
+        "title_en": "Vance says 'everything' on the table to pressure Iran as US diesel prices hit record high",
+        "summary": [
+            "فرمانده پدافند هوایی ایران مدعی آمادگی برای غافلگیری دشمن شد، در حالی که سفیر آمریکا موقعیت نظامی تهران را کاملاً تضعیف‌شده می‌داند.",
+            "واشنگتن در حال تدوین طرحی برای دوران پس از درگیری است تا با توسعه پیمان ابراهیم، ایران را در انزوای کامل منطقه‌ای قرار دهد."
+        ],
+        "impact": "تقابل خط تبلیغاتی سپاه با برنامه‌ریزی ساختاری آمریکا برای مهندسی دوباره خاورمیانه.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-04-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-04-26",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/568a69ac04e8402eeb4267a093e5c82e.jpg?ve=1&tl=1",
+        "timestamp": 1788548400.0
+    },
+    {
+        "id": "11f3af97e5",
+        "title_fa": "وحشت دیپلمات‌های عرب از گسترش درگیری و حملات تلافی‌جویانه ایران",
+        "title_en": "‘What is the endgame?’: Arab diplomats worry about Iran escalation ahead of midterms",
+        "summary": [
+            "افزایش حملات موشکی و پهپادی تهران به کشورهای عربی، دیپلمات‌های منطقه را نسبت به مهار بحران ناامید کرده است.",
+            "کشورهای حاشیه خلیج فارس نگرانند با نزدیک‌تر شدن به انتخابات آمریکا، شیب درگیری‌ها تندتر و کل منطقه وارد جنگ فراگیر شود."
+        ],
+        "impact": "تلاش کشورهای عربی برای فاصله گرفتن از منازعه مستقیم و بازنگری در ترتیبات امنیتی با واشنگتن.",
+        "tag": "منطقه",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Politico",
+        "url": "https://www.politico.com/news/2026/09/04/iran-escalation-us-midterms-01065126",
+        "clean_url": "https://www.politico.com/news/2026/09/04/iran-escalation-us-midterms-01065126",
+        "image": "http://www.bing.com/th?id=ONUT.9mjeVSwaL8Xp2DBLVJbQEw&pid=News",
+        "timestamp": 1788512520.0
+    },
+    {
+        "id": "8f0ffedff5",
+        "title_fa": "حمله به نیروهای آمریکایی در کویت و تغییر دکترین دفاعی ایران",
+        "title_en": "Under pressure, Iran lashes out and ramps up rhetoric",
+        "summary": [
+            "در پاسخ به فشار شدید اقتصادی، ایران نیروهای آمریکایی در کویت را هدف قرار داد و محمدرضا عارف از تغییر دکترین دفاعی به جنگ نامتقارن خبر داد.",
+            "معاون رئیس‌جمهور ایران تهدید کرد که آمریکایی‌ها باید منتظر بحران سوخت و روزهای تاریک اقتصادی باشند."
+        ],
+        "impact": "جهش قیمت جهانی نفت و افزایش ریسک حمله مستقیم آمریکا به تاسیسات حیاتی ایران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Washington Post",
+        "url": "https://www.yahoo.com/news/politics/articles/under-pressure-iran-lashes-ramps-091118843.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/under-pressure-iran-lashes-ramps-091118843.html",
+        "image": "https://d29szjachogqwa.cloudfront.net/images/2026-09/f88259fc-85f8-4fd4-8c7c-c982cba04cd9",
+        "timestamp": 1788511737.0
+    },
+    {
         "id": "0b0ffb36eb",
         "title_fa": "اختلاف واشنگتن و بروکسل بر سر شدت تحریم‌های جدید ایران",
         "title_en": "US claims EU joined new Iran sanctions push, yet Brussels only endorsed it",
@@ -34,6 +124,60 @@
         "clean_url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMDdHVHlBUlpkekdKcVA5bGJnTENYNG12Vzg5S05iaGhRZllFWEpiS1I2dnFBWFdXVENJRndodXFIeERCeU1BZWNhREczd1lDRkVMcnFWU2VaM2lBd1o3NVh0dVJhZDZmbW9zcDRSeUZjc2hmR1hveEFJc2xaQ1d5RnFuRQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788507886.0
+    },
+    {
+        "id": "8979aa2be5",
+        "title_fa": "برنامه واشنگتن برای قطع دسترسی زیست اقتصادی تهران از طریق پکن",
+        "title_en": "Iran war live: Vance says 'sometimes things happen' on wedding strike",
+        "summary": [
+            "معاون رئیس‌جمهور آمریکا اعلام کرد چین برای انزوای اقتصادی تهران همراهی خواهد کرد تا اصلی‌ترین خریدار نفت ایران نیز محدود شود.",
+            "وی با اشاره به فازهای ابتدایی جنگ تاکید کرد واشنگتن فشار اقتصادی و نظامی را تا تسلیم کامل تهران ادامه خواهد داد."
+        ],
+        "impact": "مسدود شدن آخرین منفذ فروش نفت ایران به چین و بن‌بست کامل تجارت خارجی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-gb/news/other/iran-war-live-jd-vance-claims-china-will-help-isolate-tehran/ar-AA2bxvXT",
+        "clean_url": "https://www.msn.com/en-gb/news/other/iran-war-live-jd-vance-claims-china-will-help-isolate-tehran/ar-AA2bxvXT",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bwkw1.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1788499637.0
+    },
+    {
+        "id": "07f82a1641",
+        "title_fa": "سقوط آزاد صادرات نفت ایران به ۲۶۰ هزار بشکه در روز",
+        "title_en": "US Oil Blockade Deepens Iran's Economic Crisis",
+        "summary": [
+            "محاصره نفتی و تحریم‌های ثانویه آمریکا صادرات روزانه نفت ایران را از ۱.۷ میلیون بشکه در سال گذشته به تنها ۲۶۰ هزار بشکه رسانده است.",
+            "این سقوط بی‌سابقه درآمد ارزی، هزینه‌های سنگین جنگ و فروپاشی ارزش ریال، حاکمیت را با بحران عمیق تامین کالاهای اساسی مواجه کرده است."
+        ],
+        "impact": "خفگی شدید مالی، احتمال جیره‌بندی ارزی و ناتوانی دولت در تامین بودجه جاری و نظامی.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "EconoTimes",
+        "url": "https://www.econotimes.com/US-Oil-Blockade-Deepens-Irans-Economic-Crisis-1751276",
+        "clean_url": "https://www.econotimes.com/US-Oil-Blockade-Deepens-Irans-Economic-Crisis-1751276",
+        "image": "https://f1.econotimes.com/2020/01/232xctc0br.jpg",
+        "timestamp": 1788498480.0
+    },
+    {
+        "id": "b96bee68e2",
+        "title_fa": "هشدار مستقیم ترامپ درباره ضربه نهایی و فروپاشی ساختار حاکمیت",
+        "title_en": "Breaking down Trump’s latest Iran threat",
+        "summary": [
+            "دونالد ترامپ تاکید کرده حمله اصلی آمریکا هنوز انجام نشده و در صورت عدم عقب‌نشینی تهران، ضربه بعدی چیزی از ساختار حکومت باقی نخواهد گذاشت.",
+            "این موضع‌گیری نشان‌دهنده عبور واشنگتن از سیاست مهار و حرکت به سمت گزینه فلج‌سازی کامل ساختار سیاسی-نظامی ایران است."
+        ],
+        "impact": "افزایش شدید ریسک درگیری نظامی گسترده و ریزش سنگین‌تر ارزش ریال در بازار تهران.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "The David Pakman Show on MSN",
+        "url": "https://www.msn.com/en-us/video/news/breaking-down-trump%E2%80%99s-latest-iran-threat---this-was-supposed-to-be-brief/vi-AA2bypWa?ocid=BingNewsVerp",
+        "clean_url": "https://www.msn.com/en-us/video/news/breaking-down-trump%E2%80%99s-latest-iran-threat---this-was-supposed-to-be-brief/vi-AA2bypWa",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788496200.0
     },
     {
         "id": "fdc407621f",
@@ -5384,153 +5528,5 @@
         "clean_url": "https://www.msn.com/en-us/news/world/mike-pence-urges-trump-to-finish-the-job-in-iran/ar-AA2aLYQZ",
         "image": "http://www.bing.com/th?id=ONUT.Vi43mc-QrK-APwXE78MJ3Q&pid=News",
         "timestamp": 1787495157.0
-    },
-    {
-        "id": "8d72f97cc9",
-        "title_fa": "مانور دیپلماتیک چین در بحران ایران برای حفظ شریان نفتی",
-        "title_en": "China ‘Actively Committed’ to Iran Talks With Tensions Rising",
-        "summary": [
-            "چین در اوج تنش‌های منطقه‌ای از تعهد خود به ادامه مذاکرات هسته‌ای با ایران خبر داد.",
-            "پکن تلاش می‌کند با ژست میانجی‌گری، از تصاعد بحران جلوگیری کرده و جریان خرید نفت ارزان از ایران را زنده نگه دارد."
-        ],
-        "impact": "ژست دیپلماتیک چین مانع از جدی‌تر شدن فشارهای بین‌المللی علیه پرونده اتمی ایران نخواهد شد.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": 0.1,
-        "source": "Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3lCZ2FJNXI3ZmxaWWVnamxXbXc4bzQyZFpybEhObmYwWWM5Uk9qZnh6Q0UteUU1bDFHN0hjQWdpV2VpUFJ2U3FwbWplalk3Q0dRTFdmd0p6Z29Rdno3RmtDS3R5X05BMGtPUFVQVE14OXpEV1lLdk5IcGxJS0dvSVNRMGlrYkIxWXhPRkV4REFqVlJ6SWpZYVl1TUVMVmlydHo2SGo2Mm9sS3N1Tkg0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNa3lCZ2FJNXI3ZmxaWWVnamxXbXc4bzQyZFpybEhObmYwWWM5Uk9qZnh6Q0UteUU1bDFHN0hjQWdpV2VpUFJ2U3FwbWplalk3Q0dRTFdmd0p6Z29Rdno3RmtDS3R5X05BMGtPUFVQVE14OXpEV1lLdk5IcGxJS0dvSVNRMGlrYkIxWXhPRkV4REFqVlJ6SWpZYVl1TUVMVmlydHo2SGo2Mm9sS3N1Tkg0",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787492565.0
-    },
-    {
-        "id": "9dd813fd63",
-        "title_fa": "سفر فرمانده ارتش پاکستان به تهران برای رایزنی‌های مرزی",
-        "title_en": "Iran says Pakistan's army chief to visit Tehran on Monday",
-        "summary": [
-            "فرمانده ارتش پاکستان برای گفتگو درباره امنیت مرزها و مهار گروه‌های مسلح وارد تهران می‌شود.",
-            "تهران تلاش می‌کند از پتانسیل نظامی اسلام‌آباد برای پر کردن خلاءهای امنیتی در مرزهای شرقی استفاده کند."
-        ],
-        "impact": "افزایش گشت‌های مشترک مرزی بدون تغییر جدی در معادلات کلان منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787490787.0
-    },
-    {
-        "id": "3f67b00907",
-        "title_fa": "تلاش رئیس‌جمهور ایران برای خروج از بن‌بست جنگ با یادداشت آمریکا",
-        "title_en": "Iran’s president says US memorandum is best path out of stalled war,",
-        "summary": [
-            "رئیس‌جمهور ایران یادداشت پیشنهادی آمریکا را مناسب‌ترین طرح برای پایان دادن به درگیری‌های فرسایشی دانست.",
-            "این موضع‌گیری نشان از تمایل جناح اجرایی برای کاهش تنش و فرار از فروپاشی کامل اقتصادی دارد."
-        ],
-        "impact": "باز شدن فضای احتمالی برای چانه‌زنی‌های پنهان دیپلماتیک و کاهش ریسک درگیری مستقیم.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.3,
-        "source": "Scripps News",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEJ1aTdCSDB0ZFRIQ2J4bW5sRW00NHlRN0V5eDRPdHBVLTc0amRSOFpnMkN3ZGdHcmlReHJQTGJGdFljQkJNbjdTd3BnT0ZtZWtsdEdSSkNVX2Y1UWt5Yk9PbHZGeGpJVllaVERROFY0dU81UU1tR2ZacnVkTHRTR25GZTZQcm1ubWpvNzhzemNKNVpxcWVtRF9ZNVdXbWtfMFZycXAxT0cxaG9DRURQdg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTEJ1aTdCSDB0ZFRIQ2J4bW5sRW00NHlRN0V5eDRPdHBVLTc0amRSOFpnMkN3ZGdHcmlReHJQTGJGdFljQkJNbjdTd3BnT0ZtZWtsdEdSSkNVX2Y1UWt5Yk9PbHZGeGpJVllaVERROFY0dU81UU1tR2ZacnVkTHRTR25GZTZQcm1ubWpvNzhzemNKNVpxcWVtRF9ZNVdXbWtfMFZycXAxT0cxaG9DRURQdg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787490683.0
-    },
-    {
-        "id": "a816985c01",
-        "title_fa": "احتمال تشدید حاد تنش‌ها؛ اهرم ضعیف ایران در تنگه هرمز",
-        "title_en": "The Iran war could last deep into 2027 as the Strait of Hormuz isn’t that closed, allowing more oil to leak out—but major escalation is likely soon",
-        "summary": [
-            "عدم توانایی جمهوری اسلامی در مسدودسازی کامل تنگه هرمز، اصلی‌ترین ابزار فشار تهران را بی‌اثر کرده است.",
-            "پیش‌بینی کشیده شدن درگیری‌ها تا سال ۲۰۲۷ از سناریوی یک جنگ فرسایشی و سنگین خبر می‌دهد.",
-            "ضعف در فلج کردن صادرات نفت، احتمال اقدامات نظامی حادتر از سوی سپاه برای باج‌گیری را بالا می‌برد."
-        ],
-        "impact": "افزایش آنی ریسک درگیری مستقیم نظامی و تهدید امنیت خطوط کشتیرانی بین‌المللی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Fortune on MSN",
-        "url": "https://www.msn.com/en-us/money/general/the-iran-war-could-last-deep-into-2027-as-the-strait-of-hormuz-isn-t-that-closed-allowing-more-oil-to-leak-out-but-major-escalation-is-likely-soon/ar-AA2aLHj1",
-        "clean_url": "https://www.msn.com/en-us/money/general/the-iran-war-could-last-deep-into-2027-as-the-strait-of-hormuz-isn-t-that-closed-allowing-more-oil-to-leak-out-but-major-escalation-is-likely-soon/ar-AA2aLHj1",
-        "image": "http://www.bing.com/th?id=ONUT.98exx9VRvWb2vRrK7AhVhA&pid=News",
-        "timestamp": 1787489941.0
-    },
-    {
-        "id": "badc33cd7f",
-        "title_fa": "چالش ترامپ با کره شمالی هسته‌ای و اتحاد جدید پیونگ‌یانگ با مسکو",
-        "title_en": "Trump plays nuclear poker with Kim Jong Un — but who holds the cards?",
-        "summary": [
-            "کره شمالی با داشتن بیش از ۵۰ کلاهک هسته‌ای و پشتوانه جدید روسیه، ابزار فشار قدرتمندتری در دست دارد.",
-            "هرگونه تلاش برای خلع سلاح هسته‌ای پیونگ‌یانگ در معادلات جدید جهانی عملاً غیرممکن شده است."
-        ],
-        "impact": "پیچیده‌تر شدن معادلات عدم انتشار سلاح‌های هسته‌ای و الگوبرداری احتمالی سایر رژیم‌ها.",
-        "tag": "هسته‌ای",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "FOX News",
-        "url": "https://www.msn.com/en-us/news/world/trump-plays-nuclear-poker-with-kim-jong-un-but-who-holds-the-cards/ar-AA2aKqOh",
-        "clean_url": "https://www.msn.com/en-us/news/world/trump-plays-nuclear-poker-with-kim-jong-un-but-who-holds-the-cards/ar-AA2aKqOh",
-        "image": "https://s.yimg.com/lo/mysterio/api/593a4b5acdf87052d391946965e135ca83253703f202ca365b116f6ac9f829ed/lightyear_networkapi/resizefill_w1200;quality_80;format_jpg/https://media.zenfs.com/en/fox_news_text_979/03d92a1fa1c9240af20d7874ed52e3a7",
-        "timestamp": 1787475646.0
-    },
-    {
-        "id": "a4a35e28f3",
-        "title_fa": "اعتراف پزشکیان به جنگ تمام‌عیار همزمان با تحریم‌های جدید آمریکا",
-        "title_en": "Iran in \"full-scale\" war, says president, as fresh US sanctions loom",
-        "summary": [
-            "مسعود پزشکیان با صراحت وضعیت کشور را «جنگ تمام‌عیار» نامید تا پیشاپیش شانه از بار مسئولیت بحران اقتصادی خالی کند.",
-            "واشنگتن تحریم‌های سنگین‌تری را آماده کرده که هدف آن مسدودسازی آخرین شریان‌های مالی حکومت است.",
-            "این مانور کلامی، آماده‌سازی افکار عمومی برای مواجهه با موج تازه فروپاشی معیشتی است."
-        ],
-        "impact": "جهش مجدد انتظارات تورمی در بازار ایران و فشار سنگین بر بازارهای ارز و طلا.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.8,
-        "source": "Egypt Independent",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEl3bnZhem9oOE9rWXlNVUFXWmtTQVhsY0YtMWtXeXFTb3FWcVhJSU9FMnhIRGw0VWVILVp5TnltQmRhTEtLajIxQlNGaURhckk2cHB0Uk5IMk9yRllub1k0LS0yX1ViQjQtblZqYVlMQnhaa3ZwSE14dlg2SmlQNkl5dm8wX0dvNWlpS3FtTFBzUlFhd3lsenB2bHdIWlU?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEl3bnZhem9oOE9rWXlNVUFXWmtTQVhsY0YtMWtXeXFTb3FWcVhJSU9FMnhIRGw0VWVILVp5TnltQmRhTEtLajIxQlNGaURhckk2cHB0Uk5IMk9yRllub1k0LS0yX1ViQjQtblZqYVlMQnhaa3ZwSE14dlg2SmlQNkl5dm8wX0dvNWlpS3FtTFBzUlFhd3lsenB2bHdIWlU",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787473784.0
-    },
-    {
-        "id": "5e4245b85d",
-        "title_fa": "آغاز سخت‌ترین تحریم‌های تاریخ و انزوای تهران",
-        "title_en": "ادامه جدال لفظی تهران و واشینگتن در آستانه سفر فرمانده ارتش پاکستان به ایران",
-        "summary": [
-            "عراقچی تحریم‌های جدید را نشان درماندگی می‌خواند، در حالی که اقتصاد ایران زیر بار فشار خزانه داری آمریکا قفل شده است.",
-            "جزییات تحریم‌های بی‌پیشینه آمریکا که به‌زودی اعلام می‌شود، آخرین راه‌های دور زدن تحریم‌ها و صادرات نفت را می‌بندد.",
-            "سفر فرمانده ارتش پاکستان به تهران نشان می‌دهد همسایگان نیز نگران پیامدهای تنش روزافزون میان ایران و آمریکا هستند."
-        ],
-        "impact": "کاهش شدید درآمد ارزی کشور و بسته‌شدن کامل مجاری مالی باقی‌مانده",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608235733",
-        "clean_url": "https://www.iranintl.com/202608235733",
-        "image": "http://www.bing.com/th?id=ONUT.9OoFH_ONWJvxFcbob_B2-g&pid=News",
-        "timestamp": 1787471340.0
-    },
-    {
-        "id": "9de9c960fe",
-        "title_fa": "رایزنی دیپلماتیک مصر و ایران برای مهار تنش‌های منطقه‌ای",
-        "title_en": "Egypt Stresses Need For Diplomacy In Call With Iranian Foreign Minister",
-        "summary": [
-            "مصر در گفتگو با وزیر خارجه ایران بر لزوم مسیر دیپلماتیک و کاهش تنش‌های منطقه‌ای تاکید کرد.",
-            "قاهره نگران کشیده شدن پایگاه‌های کانال سوئز و اقتصاد آسیب‌پذیر خود به بحران‌آفرینی‌های تهران و اسرائیل است.",
-            "این تحرکات دیپلماتیک بیشتر جنبه مدیریت بحران دارد و به معنای حل اختلافات ساختاری قاهره و تهران نیست."
-        ],
-        "impact": "تلاش قاهره برای ایمن‌سازی مرزها و اقتصاد خود از تبعات جنگ احتمالی در منطقه.",
-        "tag": "دیپلماسی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Radio Free Europe/Radio Liberty",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OeTc1VE5lcEx0QzNhVlh6TnBVZUhfdi1MR0xZQnJOLWo2U3dHb09ucVhPNXctSTFXNTF6R3EwZEJXSl96SF9zS2FPUWFwcHpHeFVMaGtUckZiaGIydHc1SFMwT3U1R1h5WnMtY2RGUkdtYm1jV2VUMWFB",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787468700.0
     }
 ]
