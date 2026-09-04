@@ -1,5 +1,23 @@
 [
     {
+        "id": "0daaae9704",
+        "title_fa": "عقب‌نشینی کلامی ترامپ از جنگ با ایران قبل از انتخابات",
+        "title_en": "Trump downplays Iran ‘military conflict’ as war shows no signs of ending before midterms",
+        "summary": [
+            "ترامپ در تلاش است شدت درگیری نظامی با ایران را در افکار عمومی کم‌رنگ کند تا هزینه‌های سیاسی آن بر انتخابات میان‌دوره‌ای آمریکا اثر نگذارد.",
+            "واقعیت‌های میدانی از وارد شدن جنگ به یک فاز فرسایشی خبر می‌دهند و هیچ افق روشنی برای پایان سریع درگیری وجود ندارد."
+        ],
+        "impact": "شکاف میان تهدیدهای برون‌مرزی ترامپ و ترسی که از ریزش آرا در داخل آمریکا دارد.",
+        "tag": "سیاسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "NBC News",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPal90WEFPVUFPa2NUMlFuNEdHX2RnTWJEY2NBOWZaTXJNLWU0d0t3bzgxaHdQa21Sdl9YMDN5UW5qRVZhNVU3bDJoUlFHOElQQ0FlRDczSXNpdkdrdUY1bU1LVmJNeVctb0l3bHBLUTNJTEVFcFdHTDZiMjJMeUlMWm8yaEFxcVVPRGQtclB0QmRhMzVtdW1oaVlYOHBGYk42YWNvSVBRUTY4U0dqaDE2R3M3b1hQVUc5TDNPZEV3MXdIV01UeWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPal90WEFPVUFPa2NUMlFuNEdHX2RnTWJEY2NBOWZaTXJNLWU0d0t3bzgxaHdQa21Sdl9YMDN5UW5qRVZhNVU3bDJoUlFHOElQQ0FlRDczSXNpdkdrdUY1bU1LVmJNeVctb0l3bHBLUTNJTEVFcFdHTDZiMjJMeUlMWm8yaEFxcVVPRGQtclB0QmRhMzVtdW1oaVlYOHBGYk42YWNvSVBRUTY4U0dqaDE2R3M3b1hQVUc5TDNPZEV3MXdIV01UeWc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788558891.0
+    },
+    {
         "id": "d7bc02ef7e",
         "title_fa": "انسداد شریان مالی تهران؛ تحریم بانک ترکیه‌ای گلدن گلوبال",
         "title_en": "US Targets Turkish Bank In New Bid To Cut Iran's Financial Lifelines",
@@ -52,6 +70,44 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-04-26",
         "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/568a69ac04e8402eeb4267a093e5c82e.jpg?ve=1&tl=1",
         "timestamp": 1788548400.0
+    },
+    {
+        "id": "67c21db14d",
+        "title_fa": "روز دی اقتصادی آمریکا؛ تحریم‌های قطره‌چکانی علیه ایران",
+        "title_en": "Trump promised ‘economic D-Day’ for Iran. The result isn’t what was expected",
+        "summary": [
+            "دستور صریح مارکو روبیو به دیپلمات‌ها برای قطع روابط مالی کشورها با ایران و تحریم بانک ترکیه‌ای، فاز تازه‌ای از فشار واشنگتن را کلید زد.",
+            "برخلاف مانور تبلیغاتی ترامپ درباره ضربه فلج‌کننده یک‌باره، تحریم‌ها به‌صورت تدریجی اعمال می‌شوند و کارشناسان درباره همراهی پکن تردید جدی دارند.",
+            "تهران با اتکا به تجربه دهه‌ها دور زدن تحریم‌ها، این فشارهای خرد را تا زمانی که چین خریدار نفت باشد هضم می‌کند."
+        ],
+        "impact": "بی‌اثری تحریم‌های خرد بدون همراهی چین، صدمات مالی به تهران را فرسایشی و کند می‌کند.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "CNN",
+        "url": "https://www.cnn.com/2026/09/04/politics/trump-economic-d-day-actions-skepticism",
+        "clean_url": "https://www.cnn.com/2026/09/04/politics/trump-economic-d-day-actions-skepticism",
+        "image": "https://media.cnn.com/api/v1/images/stellar/prod/2026-08-26t011607z-1958370069-rc2r5naht8f6-rtrmadp-3-iran-crisis-economy.jpg?c=16x9&q=w_800,c_fill",
+        "timestamp": 1788526260.0
+    },
+    {
+        "id": "59e10accff",
+        "title_fa": "تهدید ترامپ به حمله به تأسیسات کوه کلنگ نطنز",
+        "title_en": "Live Updates: IDF kills Hamas terrorist in Gaza, raids West Bank terror infrastructure",
+        "summary": [
+            "ترامپ از احتمال حمله بزودی به سایت بسیار مستحکم «کوه کلنگ» در نزدیکی نطنز خبر داد؛ نقطه‌ای که عمیق‌ترین تونل‌های هسته‌ای ایران را در خود جای داده است.",
+            "هم‌زمان ارتش اسرائیل زیرساخت‌های کلیدی و تونل‌های استراتژیک حزب‌الله را در جنوب لبنان منهدم کرد.",
+            "بررسی خطوط لوله جایگزین برای نفت، نشان‌دهنده آمادگی واشنگتن و متحدانش برای بسته‌شدن احتمالی تنگه هرمز است."
+        ],
+        "impact": "احتمال هدف قرار گرفتن زیرزمین‌ترین تأسیسات اتمی ایران و جهش ناگهانی خطر درگیری مستقیم تمام‌عیار.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://www.jpost.com/middle-east/iran-news/2026-09-04/live-updates-907568",
+        "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-04/live-updates-907568",
+        "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/707445",
+        "timestamp": 1788513480.0
     },
     {
         "id": "11f3af97e5",
@@ -160,6 +216,24 @@
         "clean_url": "https://www.econotimes.com/US-Oil-Blockade-Deepens-Irans-Economic-Crisis-1751276",
         "image": "https://f1.econotimes.com/2020/01/232xctc0br.jpg",
         "timestamp": 1788498480.0
+    },
+    {
+        "id": "27c1a29d83",
+        "title_fa": "ادعای معاون ترامپ درباره انزوای ایران با همراهی چین",
+        "title_en": "Iran war live: JD Vance claims China will help isolate Tehran",
+        "summary": [
+            "جی‌دی ونس مدعی شد عملیات نظامی اصلی تنها شش هفته طول کشیده و مرحله سخت جنگ پایان یافته است.",
+            "واشنگتن قصد دارد چین را برای قطع شریان‌های اقتصادی تهران همراه کند؛ ادعایی که با واقعیت خریدهای نفتی پکن همخوانی ندارد."
+        ],
+        "impact": "تلاش کاخ سفید برای کوچک‌نمایی ابعاد جنگ و جا انداختن سناریوی کنترل ایران بدون درگیری فرسایشی.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-gb/news/other/iran-war-live-jd-vance-claims-china-will-help-isolate-tehran/ar-AA2btEi1",
+        "clean_url": "https://www.msn.com/en-gb/news/other/iran-war-live-jd-vance-claims-china-will-help-isolate-tehran/ar-AA2btEi1",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bwkw1.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1788497681.0
     },
     {
         "id": "b96bee68e2",
@@ -5453,80 +5527,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdl9KQjdoaDFLWTl3VE1oZnJHYmlwRUVjeDVSTnVmVWxubWd6WDFBSDBYMWs1dFMxZlpVaHlNY2J4WERzSWlvaVFpQlNMTGZkOVZEcUNOTWZZbm85RWFJY08zT2JUMHFUQ2hMTm1BZk9ZbUVtcDBab3RVV0Y5LU4yMXhxV2JCMzhabFVMbWpSWERnZ0hvRU9TVGktQjNfMV9WZUY0SzB4ODUtamR6aVFVSUtKeVU4Q3l6c0N0WGNSUjc0UQ",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787505217.0
-    },
-    {
-        "id": "5851e28d16",
-        "title_fa": "«روز D اقتصادی» ترامپ علیه تهران و اعتراف پزشکیان به جنگ تمام‌عیار",
-        "title_en": "Trump is trying to tighten the screws on an Iran numb to economic pain",
-        "summary": [
-            "دولت ترامپ با کلید زدن «روز D اقتصادی»، سنگین‌ترین بسته تحریمی تاریخ را برای قطع کامل شریان‌های مالی جمهوری اسلامی و شرکای تجاری‌اش به اجرا می‌گذارد.",
-            "واشنگتن پس از تضعیف ساختارهای نظامی و هسته‌ای رژیم، اکنون فلج کردن کامل راه‌های تنفس مالی و منابع درآمدی تهران را هدف گرفته است.",
-            "مسعود پزشکیان با پذیرش انفعالی شرایط، رسماً اعتراف کرد که کشور درگیر یک «جنگ تمام‌عیار اقتصادی، نظامی و امنیتی» است و توان حل مشکلات معیشتی را ندارد.",
-            "تداوم اختلال در کشتیرانی تنگه هرمز توسط جمهوری اسلامی، اجماع واشنگتن برای قطع دسترسی ایران به بازارهای جهانی را شتاب داده است."
-        ],
-        "impact": "انسداد کامل مجاری ارزی باقی‌مانده، تسریع فروپاشی ارزش ریال و تعمیق بحران معیشتی در داخل کشور.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "CNN",
-        "url": "https://www.cnn.com/2026/08/24/middleeast/trump-iran-economic-pain-intl",
-        "clean_url": "https://www.cnn.com/2026/08/24/middleeast/trump-iran-economic-pain-intl",
-        "image": "http://www.bing.com/th?id=ONUT.2iWD66wLfdgpvO69Eg9v8A&pid=News",
-        "timestamp": 1787504400.0
-    },
-    {
-        "id": "ebb4178b7a",
-        "title_fa": "باج‌گیری تهران در تنگه هرمز و حمله مالی تازه آمریکا",
-        "title_en": "Iran’s Latest Hormuz Threat Meets a Bond Market Already Near Breaking Point",
-        "summary": [
-            "کمیسیون امنیت ملی مجلس طرح دریافت عوارض از کشتی‌های عبوری از تنگه هرمز را تصویب کرد؛ تلاشی صریح برای فشار بر مسیرهای انرژی جهان.",
-            "وزارت خزانه‌داری آمریکا تدارک سنگین‌ترین هجوم مالی و تحریمی علیه شبکه نفتی و تجاری ایران را کامل کرده است.",
-            "محسن رضایی کشورهای همکار با فشار تحریمی آمریکا را تهدید کرد، در حالی که نوسان در تنگه هرمز بازار جهانی نفت را ملتهب می‌کند."
-        ],
-        "impact": "تنگ‌تر شدن قفل تحریمی آمریکا و افزایش شدید ریسک ترانزیت نفت در خلیج فارس.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/energy/articles/iran-latest-hormuz-threat-meets-024147324.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/iran-latest-hormuz-threat-meets-024147324.html",
-        "image": "http://www.bing.com/th?id=ONUT.YIk2mNy4kqYOqB03bFvbfQ&pid=News",
-        "timestamp": 1787504400.0
-    },
-    {
-        "id": "a9afd4c26f",
-        "title_fa": "هشدار مایک پنس: آمریکا برای اقدام حتمی علیه ایران آماده شود",
-        "title_en": "Pence says US must prepare for ‘inevitable’ action against Iran",
-        "summary": [
-            "مایک پنس برخورد با تهران را اجتناب‌ناپذیر دانسته و خواستار آمادگی کامل واشنگتن برای سناریوهای سخت شد.",
-            "جناح محافظه‌کار آمریکا در حال زمینه‌سازی برای عبور از دیپلماسی و بازگرداندن گزینه نظامی روی میز است."
-        ],
-        "impact": "افزایش احتمال اتخاذ سیاست‌های تهاجمی و تشدید فشار حداکثری در واشنگتن.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV19ScXJMckRaZWxlYl9rTC0tSXJSTlNxMU1fSHN3OTFVNm82LU1hTE1hal83MHNjUkRJVnJWLW1HbERyNHMxUzZScm5ZcHBCeXhuNWFad1hENlY5eG81cU92SXExUUM0ZkdFcmFlZzFBMDl3bTZQN3lQWkpnc3FPQmd2Q1c4WGFNdHfSAY8BQVVfeXFMT0VmSlk3Tk1LVjFQYWlQVVRVNW1CazRidXdKWmlMazZPNG53YXcxLVNCeXZpSXh3Zk9VWmFTam1KWUJUOVh5QVFtNzBXT3dyWVJ6XzZJeGNfT2VKSU9oZkJqQThrMFVjdFo3Z0pLNlQ4UG1ZeWFxNDFCQ3owa1lvU0tlNnV1SWZFTXhKbUNyREE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV19ScXJMckRaZWxlYl9rTC0tSXJSTlNxMU1fSHN3OTFVNm82LU1hTE1hal83MHNjUkRJVnJWLW1HbERyNHMxUzZScm5ZcHBCeXhuNWFad1hENlY5eG81cU92SXExUUM0ZkdFcmFlZzFBMDl3bTZQN3lQWkpnc3FPQmd2Q1c4WGFNdHfSAY8BQVVfeXFMT0VmSlk3Tk1LVjFQYWlQVVRVNW1CazRidXdKWmlMazZPNG53YXcxLVNCeXZpSXh3Zk9VWmFTam1KWUJUOVh5QVFtNzBXT3dyWVJ6XzZJeGNfT2VKSU9oZkJqQThrMFVjdFo3Z0pLNlQ4UG1ZeWFxNDFCQ3owa1lvU0tlNnV1SWZFTXhKbUNyREE",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787499060.0
-    },
-    {
-        "id": "83c3fab63d",
-        "title_fa": "هشدار مایک پنس: ترامپ باید کار جمهوری اسلامی را یکسره کند",
-        "title_en": "Mike Pence urges Trump to \"finish the job\" in Iran",
-        "summary": [
-            "مایک پنس تاکید کرد تهران هنوز شکست را نپذیرفته و اقدام نظامی جدید آمریکا علیه ایران بسیار محتمل است.",
-            "معاون سابق ترامپ با اعمال فشار علنی، خواستار حملات مستقیم و قاطع‌تر برای پایان دادن به تهدیدات حکومت ایران شد."
-        ],
-        "impact": "افزایش جدی احتمال درگیری مستقیم نظامی و بالا رفتن سطح هشدار امنیتی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Newsweek on MSN",
-        "url": "https://www.msn.com/en-us/news/world/mike-pence-urges-trump-to-finish-the-job-in-iran/ar-AA2aLYQZ",
-        "clean_url": "https://www.msn.com/en-us/news/world/mike-pence-urges-trump-to-finish-the-job-in-iran/ar-AA2aLYQZ",
-        "image": "http://www.bing.com/th?id=ONUT.Vi43mc-QrK-APwXE78MJ3Q&pid=News",
-        "timestamp": 1787495157.0
     }
 ]
