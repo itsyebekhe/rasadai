@@ -1,5 +1,78 @@
 [
     {
+        "id": "62491cec9e",
+        "title_fa": "شعله‌ور شدن جنگ در یمن؛ ۶۰ کشته در باب‌المندب",
+        "title_en": "Over 60 killed in Yemen as Houthis battle Saudi-backed forces near Red Sea gateway",
+        "summary": [
+            "نبردهای شدید میان حوثی‌ها و نیروهای تحت حمایت عربستان در نزدیکی ورودی دریای سرخ بیش از ۶۰ کشته برجای گذاشت.",
+            "جنگنده‌های سعودی مواضع حوثی‌ها را زیر آتش سنگین گرفته‌اند تا مانع پیشروی آن‌ها شوند."
+        ],
+        "impact": "تشدید ناامنی در شاهراه دریای سرخ و فشار مضاعف بر بازوی نیابتی تهران در جنوب.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Times of Israel",
+        "url": "https://www.timesofisrael.com/over-60-killed-in-yemen-as-houthis-battle-saudi-backed-forces-near-red-sea-gateway/",
+        "clean_url": "https://www.timesofisrael.com/over-60-killed-in-yemen-as-houthis-battle-saudi-backed-forces-near-red-sea-gateway",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2024/06/AFP__20240415__34PH8PE__v1__HighRes__YemenConflict-e1718966801890-640x400.jpg",
+        "timestamp": 1788627420.0
+    },
+    {
+        "id": "3c976d0084",
+        "title_fa": "پاسخ موشکی سنتکام؛ انهدام سه نفتکش ایرانی در خلیج فارس",
+        "title_en": "U.S. strikes Iranian oil tankers in retaliation for Iran targeting warships",
+        "summary": [
+            "ارتش آمریکا پس از حمله موشکی سپاه به ناوهای جنگی‌اش، سه نفتکش ایرانی را در خلیج فارس و عمان از کار انداخت.",
+            "ترامپ این درگیری را یک مناقشه نظامی محدود خوانده، اما قیمت جهانی سوخت بلافاصله جهش بی‌سابقه‌ای کرد.",
+            "تهران هشدار داده که در صورت ادامه حملات آمریکا به کشتی‌رانی، پاسخ‌های بعدی بسیار شدیدتر خواهد بود."
+        ],
+        "impact": "بالا رفتن آنی قیمت جهانی سوخت و ورود درگیری ایران و آمریکا به فاز مستقیم ناامنی دریانوردی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/6569c018c45c64ee36f691c22c9e2c012ebbca96583eb1119b57e696a3f64f41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F5550307d5f60f37732da4fe2778e1345.jpg",
+        "timestamp": 1788620940.0
+    },
+    {
+        "id": "502ce59a0c",
+        "title_fa": "هشدار اطلاعات اسرائیل؛ تلاش سپاه برای بازسازی شبکه نیابتی",
+        "title_en": "Iran rebuilding its axis of resistance for attack, Israeli intelligence. suggests",
+        "summary": [
+            "سرویس‌های اطلاعاتی اسرائیل از تلاش فشرده تهران برای بازسازی سازمان رزم و تسلیح مجدد گروه‌های نیابتی خبر می‌دهند.",
+            "هدف اصلی سپاه، آماده‌سازی این شبکه برای موج جدید حملات هماهنگ منطقه‌ای است."
+        ],
+        "impact": "افزایش سطح آماده‌باش ارتش اسرائیل و احتمال حملات پیش‌دستانه علیه مواضع تسلیحاتی سپاه.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tbjJBU0JLWHMtWjBZOEZGcGVDUHcwZVgzbFlxb3RPZVJYM3Z6S2ttOGhBZDNwT0Vpc2lxRkRGYUd1bWluWFJlNGtoWVQ0aTB0NTBBRDhuT0Fva3ZX?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tbjJBU0JLWHMtWjBZOEZGcGVDUHcwZVgzbFlxb3RPZVJYM3Z6S2ttOGhBZDNwT0Vpc2lxRkRGYUd1bWluWFJlNGtoWVQ0aTB0NTBBRDhuT0Fva3ZX",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788620360.0
+    },
+    {
+        "id": "ea9df0a99e",
+        "title_fa": "فشار خفه‌کننده واشنگتن و هراس مسعود پزشکیان از اعتراضات سراسری",
+        "title_en": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
+        "summary": [
+            "آمریکا طرح «روز دی اقتصادی» را برای قطع کامل شریان‌های مالی سپاه و حکومت آغاز کرده است.",
+            "مسعود پزشکیان با هشدار درباره شکاف‌های داخلی، خواستار همبستگی شد تا مانع تکرار اعتراضات سراسری سال‌های گذشته شود."
+        ],
+        "impact": "تنگ‌تر شدن حلقه تحریم‌ها، سقوط بیشتر منابع ارزی و بالا رفتن ریسک ناآرامی‌های خیابانی در ایران.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/us/articles/iran-president-pezeshkian-calls-unity-130736547.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/iran-president-pezeshkian-calls-unity-130736547.html",
+        "image": "https://media.zenfs.com/en/al_jazeera_289/619572ed665f1cabfee2f9d164a5fb5c.jpg",
+        "timestamp": 1788615094.0
+    },
+    {
         "id": "5453ec516d",
         "title_fa": "حمله به نفتکش در نزدیکی خارگ و خطر تنش بی־سابقه",
         "title_en": "Live - Tanker hit near Kharg Island as US sees risk of major Iran escalation",
@@ -5452,80 +5525,5 @@
         "clean_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-braces-history-toughest-us-124626091.html",
         "image": "http://www.bing.com/th?id=ONUT.BP2hqVNfYruMUprQKQGEzA&pid=News",
         "timestamp": 1787550360.0
-    },
-    {
-        "id": "f81c2bf11f",
-        "title_fa": "بزرگ‌ترین هجوم مالی آمریکا علیه ایران؛ هدف‌گیری مستقیم شریان‌های نفتی پکن",
-        "title_en": "What the latest US financial threats against Iran mean for China",
-        "summary": [
-            "واشنگتن سنگین‌ترین کارزار فشار مالی را کلید زده تا با هدف قرار دادن شرکای تجاری تهران، تمامی درآمدهای ارزی باقی‌مانده را مسدود کند.",
-            "تمرکز اصلی این تحریم‌های فلج‌کننده بر قطع شریان صادرات نفت ایران به چین و بستن کانال‌های دور زدن تحریم‌هاست.",
-            "این اقدام خط خط قرمزی برای خریداران نفت ایران رسم می‌کند و ریسک همکاری تجاری با تهران را به حداکثر می‌رساند."
-        ],
-        "impact": "تنگ‌تر شدن حلقه خفگی اقتصادی، سقوط بیشتر ارزش ریال و توقف یا کُند شدن شدید صادرات نفت به چین.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/video/watch/idRW739424082026RP1/",
-        "clean_url": "https://www.reuters.com/video/watch/idRW739424082026RP1",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787541540.0
-    },
-    {
-        "id": "530e64fc4f",
-        "title_fa": "تدارک آمریکا برای اجرای سنگین‌ترین هجوم مالی علیه ایران",
-        "title_en": "U.S. to unveil 'greatest financial offensive' against Iran as Tehran threatens ship seizures",
-        "summary": [
-            "واشنگتن قصد دارد جامع‌ترین بسته تحریم اقتصادی را برای کور کردن شریان‌های مالی تهران رونمایی کند.",
-            "تهدیدهای اخیر سپاه به توقیف کشتی‌ها، واشنگتن را به سمت قطع کامل شریان‌های صادرات نفتی سوق داده است.",
-            "هدف اصلی این تهاجم مالی، بستن راه‌های دور زدن تحریم‌ها و هدف قرار دادن شرکای تجاری ایران است."
-        ],
-        "impact": "سقوط شدیدتر ارزش ریال و انسداد شبکه صرافی‌های دور زننده تحریم‌ها.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "CNBC",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMk9SMktfYXdieWhWd1IwYWNxZEE4YzBVczRlNlpXdXFoWHJ2VF80dFdHSnFzZmNNMVhHQzQ3b25YeXRGelp0bkhIb051bGplTTNBOUVFMjlOWlZIbmRuY29YNnFyUDVWZTU3SmpVRjZ5alB2Q1cxUk52NlBYNnVhMjRDak10RzFKM3g4X2ZlVVBsVTjSAZgBQVVfeXFMUFA4dUtPZEVwT2ZoMXR2UHNWZHl3TFpicW9LdS1CLWpkbVVZNUdWVHpxZmJCY0pJQlVaQ1V2R213bFFnemtwNmNyNVVzRFFGX3Vna1ViZnFTMkFNd2duVUNNQXVWbHU5cUlDTnpHcllPbl9fZ1dLd0VMMktqRDRIOEZDMGlncEl4SDEtSmxUY2RlMWU5dUkyc04?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMk9SMktfYXdieWhWd1IwYWNxZEE4YzBVczRlNlpXdXFoWHJ2VF80dFdHSnFzZmNNMVhHQzQ3b25YeXRGelp0bkhIb051bGplTTNBOUVFMjlOWlZIbmRuY29YNnFyUDVWZTU3SmpVRjZ5alB2Q1cxUk52NlBYNnVhMjRDak10RzFKM3g4X2ZlVVBsVTjSAZgBQVVfeXFMUFA4dUtPZEVwT2ZoMXR2UHNWZHl3TFpicW9LdS1CLWpkbVVZNUdWVHpxZmJCY0pJQlVaQ1V2R213bFFnemtwNmNyNVVzRFFGX3Vna1ViZnFTMkFNd2duVUNNQXVWbHU5cUlDTnpHcllPbl9fZ1dLd0VMMktqRDRIOEZDMGlncEl4SDEtSmxUY2RlMWU5dUkyc04",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787538300.0
-    },
-    {
-        "id": "7a11a019e3",
-        "title_fa": "سایه ترس از تحریم‌های ایران بر بازار بورس هند",
-        "title_en": "Indian shares open tad higher, but Iran sanction fears weigh",
-        "summary": [
-            "بازار سهام هند تحت تأثیر هراس از تحریم‌های جدید آمریکا علیه تجارت با ایران، با کندی رشد مواجه شد.",
-            "پالایشگاه‌های هند و معامله‌گران آسیایی برای درامان ماندن از مجازات‌های مالی ترامپ، عقب‌نشینی از ریسک را آغاز کرده‌اند."
-        ],
-        "impact": "احتمال افت بیشتر صادرات نفت به آسیا و کاهش درآمد ارزی کشور.",
-        "tag": "ارز",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM09QeWVZWGJNRTU2Y2hDN2lmLVhsZDN1OHVDeG1GODlEY2M4cjdMOUM3YkJBbzRYTXJkMHVSSkdpdXE5dllmcy11WVRPU1MxMXVxcnZMZHFzYTFCdXpfYWZJNU51TC1jY0ZyQkltTVhYMTRsYWpYYXBVWWstalVXTktkTlBiblNrSE5iZjRnRXpsNnJQdDVUT2ExVVRKSlgwOWcyU2F1bVJ1dG9IRUdqVzd5Yw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787538120.0
-    },
-    {
-        "id": "e02f395778",
-        "title_fa": "سقوط تاریخی ریال به مرز ۲ میلیون و حمله به نفتکش در دریا",
-        "title_en": "US-Iran War Live Updates: Iran says US sanctions expose Washington’s ‘hatred for the Iranian people’",
-        "summary": [
-            "دلار در بازار آزاد ایران در آستانه دور تازه تحریم‌ها به رکورد بی‌سابقه ۲ میلیون ریال رسید.",
-            "عباس عراقچی تحریم‌های جدید را نشانه خصومت آمریکا با مردم خواند و از اثر مستقیم آن بر زندگی شهروندان گفت.",
-            "هم‌زمان با هشدار درباره تردد کشتی‌ها، یک نفتکش در حوالی بندر ینبع عربستان هدف پرتابه نامشخص قرار گرفت."
-        ],
-        "impact": "سقوط آزاد ارزش پول ملی، جهش لحظه‌ای تورم و بالا رفتن ریسک نبرد دریایی در مسیرهای ترانزیت انرژی.",
-        "tag": "ارز",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "CNBCTV18",
-        "url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-bessent-to-unveil-toughest-sanctions-in-history-oil-falls-pakistan-army-chief-heads-to-tehran-liveblog-19974045.htm",
-        "clean_url": "https://www.cnbctv18.com/world/us-iran-war-live-updates-bessent-to-unveil-toughest-sanctions-in-history-oil-falls-pakistan-army-chief-heads-to-tehran-liveblog-19974045.htm",
-        "image": "https://images.cnbctv18.com/uploads/2026/08/untitled-design-2026-08-b091405cd43c511b5349af700b55fcc1.jpg?im=FitAndFill,width=1200,height=675",
-        "timestamp": 1787536860.0
     }
 ]
