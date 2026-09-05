@@ -73,6 +73,62 @@
         "timestamp": 1788615094.0
     },
     {
+        "id": "644f679a6e",
+        "title_fa": "پیش‌نویس قطعنامه غرب برای ارجاع پرونده هسته‌ای ایران به شورای امنیت",
+        "title_en": "US, allies draft resolution to refer Iran to UNSC over nuclear 'noncompliance'",
+        "summary": [
+            "آمریکا و سه‌گانه اروپایی پیش‌نویس قطعنامه‌ای را آماده کرده‌اند که ایران را به دلیل عدم همکاری با آژانس به شورای امنیت ارجاع می‌دهد.",
+            "ممانعت تهران از بازرسی‌های آژانس پس از حملات اخیر به تاسیسات هسته‌ای، مبنای حقوقی برخورد جدید قدرت‌های غربی قرار گرفته است.",
+            "ارجاع پرونده به شورای امنیت، راه را برای بازگشت خودکار تحریم‌های بین‌المللی و فعال‌سازی مکانیزم ماشه هموار می‌کند."
+        ],
+        "impact": "تشدید خفه‌کننده تحریم‌های بین‌المللی، افزایش انزوای سیاسی تهران و جهش شدید در بازار ارز.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "National Herald",
+        "url": "https://www.nationalheraldindia.com/international/us-allies-draft-resolution-to-refer-iran-to-unsc-over-nuclear-noncompliance",
+        "clean_url": "https://www.nationalheraldindia.com/international/us-allies-draft-resolution-to-refer-iran-to-unsc-over-nuclear-noncompliance",
+        "image": "https://cf-images.assettype.com/nationalherald/2022-09/4128e638-1a70-4574-8ba3-614849cc214d/62684115_403.jpg?rect=0,0,940,494&w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+        "timestamp": 1788608880.0
+    },
+    {
+        "id": "b78c9a0ecf",
+        "title_fa": "حاشیه‌های استقلال؛ خط قرمز بختیاری‌زاده روی نام حردانی",
+        "title_en": "بختیاری‌زاده: تا زمانی که من هستم، حردانی نمی‌تواند در تمرین استقلال حاضر شود",
+        "summary": [
+            "سرمربی استقلال علت اصلی کنار گذاشتن کاپیتان تیمش را بی‌نظمی‌های مداوم یک ماه اخیر و رفتار غیرحرفه‌ای در دربی اعلام کرد.",
+            "بختیاری‌زاده تاکید کرده تا زمان حضورش روی نیمکت استقلال، حردانی جایی در تمرینات گروهی نخواهد داشت."
+        ],
+        "impact": "تداوم بحران مدیریتی و حواشی انضباطی در باشگاه استقلال پیش از دیدارهای حساس لیگ.",
+        "tag": "ورزشی",
+        "urgency": 2,
+        "sentiment": -0.4,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609052379",
+        "clean_url": "https://www.iranintl.com/202609052379",
+        "image": "http://www.bing.com/th?id=ONUT.MEfDOlP1iq9LkY90AB8AAA&pid=News",
+        "timestamp": 1788602460.0
+    },
+    {
+        "id": "03999edc0c",
+        "title_fa": "سفر نمایندگان ویژه ترامپ به مسکو برای پایان جنگ اوکراین",
+        "title_en": "نمایندگان ویژه ترامپ برای گفت‌وگو با پوتین درباره جنگ اوکراین وارد مسکو شدند",
+        "summary": [
+            "استیو ویتکاف و جرد کوشنر به عنوان فرستادگان ترامپ برای ارائه طرح جدید واشنگتن جهت پایان دادن به جنگ وارد کرملین شدند.",
+            "این رایزنی مستقیم، اراده ترامپ را برای دور زدن کانال‌های تشریفاتی دیپلماسی و نهایی کردن توافق سریع با پوتین اثبات می‌کند.",
+            "ورود مستقیم فرستادگان ترامپ به مسکو فشارها را بر کی‌یف و متحدان اروپایی برای پذیرش جزییات طرح آمریکا افزایش می‌دهد."
+        ],
+        "impact": "تغییر تسریع‌شده معادلات میدانی و سیاسی جنگ اوکراین با ورود مستقیم واشنگتن به مذاکرات با کرملین.",
+        "tag": "بین‌الملل",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609050966",
+        "clean_url": "https://www.iranintl.com/202609050966",
+        "image": "http://www.bing.com/th?id=ONUT.0JHhJIsGyzvFCME-ISRgiw&pid=News",
+        "timestamp": 1788600180.0
+    },
+    {
         "id": "5453ec516d",
         "title_fa": "حمله به نفتکش در نزدیکی خارگ و خطر تنش بی־سابقه",
         "title_en": "Live - Tanker hit near Kharg Island as US sees risk of major Iran escalation",
@@ -107,6 +163,44 @@
         "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788591775.0
+    },
+    {
+        "id": "1bcc2738a8",
+        "title_fa": "طرح ۵ کشور اروپایی برای اخراج مهاجران غیرقانونی",
+        "title_en": "توافق ۵ کشور اروپایی برای انتقال مهاجران غیرقانونی به خارج از اتحادیه اروپا",
+        "summary": [
+            "آلمان، اتریش، یونان، دانمارک و هلند توافق کردند مراکز بازگرداندن پناهجویان فاقد مدرک را در کشورهای ثالث ایجاد کنند.",
+            "این اقدام تشدید بی‌سابقه سیاست‌های انقباضی اتحادیه اروپا برای مهار موج مهاجرت و کاهش فشارهای سیاسی داخلی است.",
+            "طرح استقرار پناهجویان در کمپ‌های خارج از اتحادیه، تغییر بنیادی در قوانین پناهندگی اروپا ایجاد می‌کند."
+        ],
+        "impact": "سخت‌تر شدن بی‌سابقه شرایط پناهجویان در اروپا و مسدود شدن مسیرهای مهاجرت غیرقانونی.",
+        "tag": "مهاجرت",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609053414",
+        "clean_url": "https://www.iranintl.com/202609053414",
+        "image": "http://www.bing.com/th?id=ONUT.x9hojYF0Sp9P3q4pxnwrNA&pid=News",
+        "timestamp": 1788588180.0
+    },
+    {
+        "id": "96753b8b98",
+        "title_fa": "پاسخ موشکی آمریکا؛ انهدام ۳ نفتکش سپاه در خلیج فارس",
+        "title_en": "مکالمه جنگنده‌ آمریکایی با نفتکش حامل نفت ایران در تنگه هرمز و دادن اخطار پیش از شلیک",
+        "summary": [
+            "سنتکام در واکنشی ضربتی پس از شلیک موشک‌های بالستیک سپاه به سمت دو ناوشکن آمریکایی، ۳ نفتکش وابسته به سپاه را به طور کامل از کار انداخت.",
+            "نفتکش‌های استارک ۱ در جاسک و داونی در خارک هدف قرار گرفتند و شناور کایلو نیز پس از تخلیه پرسنل در دریای عمان منهدم شد.",
+            "این درگیری مستقیم، اتمام حجت واشنگتن در تنگه هرمز را ثابت می‌کند؛ هرگونه تحرک موشکی سپاه بلافاصله با پاسخ کوبنده روبه‌رو می‌شود."
+        ],
+        "impact": "بالارفتن بی‌سابقه ریسک کشتیرانی در تنگه هرمز، جهش قیمت نفت و احتمال بروز درگیری گسترده‌تر دریایی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609054616",
+        "clean_url": "https://www.iranintl.com/202609054616",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/7b4e99f92b15236e962cb3b600fa7fdf15838f75-1536x1024.png?rect=0,109,1536,806&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1788583320.0
     },
     {
         "id": "0fb046c92e",
@@ -5431,99 +5525,5 @@
         "clean_url": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
         "image": "http://www.bing.com/th?id=ONUT.CDdspsGmEdEeBOmufv9LMw&pid=News",
         "timestamp": 1787567100.0
-    },
-    {
-        "id": "534d048a64",
-        "title_fa": "پایان ضرب‌الاجل ۶۰ روزه؛ تغییر استراتژی واشنگتن به تقابل مطلق",
-        "title_en": "The 60 Day Peace Window Closed, and Trump’s Iran Strategy May Shift Dramatically",
-        "summary": [
-            "با پایان مهلت ۶۰ روزه دیپلماسی، کاخ سفید تمامی کانال‌های گفت‌وگو را مسدود و فاز اجرای کامل محاصره اقتصادی را کلید زد.",
-            "استراتژی جدید ترامپ عبور از چانه‌زنی سیاسی و قطع کامل تمامی شریان‌های درآمدی حکومت ایران است."
-        ],
-        "impact": "بسته شدن پنجره دیپلماسی ریسک درگیری مستقیم نظامی و انسداد کامل اقتصادی را به اوج رسانده است.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "OilPrice.com",
-        "url": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
-        "clean_url": "https://oilprice.com/Energy/Energy-General/The-60-Day-Peace-Window-Closed-and-Trumps-Iran-Strategy-May-Shift-Dramatically.html",
-        "image": "http://www.bing.com/th?id=ONUT.PUNeGYFqc5u80Od0Nx3_OA&pid=News",
-        "timestamp": 1787565600.0
-    },
-    {
-        "id": "f3507db6fe",
-        "title_fa": "جایزه ۱۰ میلیون دلاری آمریکا برای لو دادن فرماندهان سپاه",
-        "title_en": "US Iran War News Live Updates: US offers up to $10 million for information on senior IRGC figures",
-        "summary": [
-            "سنتکام با بازرسی، توقیف و تغییر مسیر ۷۱ شناور تجاری، محاصره دریایی ایران را وارد فاز عملیاتی شدیدتر کرده است.",
-            "وزارت خارجه آمریکا جایزه ۱۰ میلیون دلاری برای دریافت اطلاعات از ۵ فرمانده کلیدی سپاه تعیین کرد.",
-            "این اقدام مستقیماً فرماندهان ارشد واحدهای پهپادی، سایبری، اطلاعاتی و مقر خاتم‌الانبیا مانند احمد وحیدی و سعید آقاجانی را هدف قرار داده است.",
-            "واشنگتن هم‌زمان با فلج کردن ناوگان تجاری، فلج‌سازی اتاق فرماندهی سپاه را دنبال می‌کند."
-        ],
-        "impact": "ضربه مستقیم به شبکه فرماندهی سپاه و مسدود شدن مسیرهای تجارت دریایی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "The Times of India",
-        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-donald-trump-strait-of-hormuz-middle-east-conflict-masoud-pezeshkian-asim-munir-visit-tehran-warning-latest-news/liveblog/133449725.cms",
-        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-donald-trump-strait-of-hormuz-middle-east-conflict-masoud-pezeshkian-asim-munir-visit-tehran-warning-latest-news/liveblog/133449725.cms",
-        "image": "https://static.toiimg.com/thumb/msid-133449725,width-1280,height-720,imgsize-496736,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
-        "timestamp": 1787564520.0
-    },
-    {
-        "id": "705a10e874",
-        "title_fa": "اولتیماتوم واشنگتن به شرکای تجاری تهران؛ قطع رابطه یا تحریم",
-        "title_en": "Trump's 'economic D-Day' threats become warnings for countries to sever financial ties with Iran",
-        "summary": [
-            "اسکات بسنت، وزیر خزانه‌داری آمریکا، به تمامی کشورهای طرف معامله با ایران هشدار داد هرچه سریع‌تر روابط مالی خود را قطع کنند.",
-            "طرح «روز دی اقتصادی» دونالد ترامپ با هدف جداسازی کامل ایران از سیستم مالی جهانی و بدون ایجاد شوک ناگهانی به بازار نفت طراحی شده است.",
-            "واشنگتن مهلت کوتاهی به تجار و خریداران نفت داده تا پیش از به‌کارگیری تحریم‌های ثانویه و مسدودسازی حساب‌ها، از بازار ایران خارج شوند."
-        ],
-        "impact": "انسداد آخرین شریان‌های ارزآوری ایران و خروج شتابان شرکای تجاری منطقه‌ای.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "Associated Press News",
-        "url": "https://apnews.com/article/iran-rial-currency-bessent-trade-august-24-2026-e367634d8853c8fa4a341132cd577f31",
-        "clean_url": "https://apnews.com/article/iran-rial-currency-bessent-trade-august-24-2026-e367634d8853c8fa4a341132cd577f31",
-        "image": "https://dims.apnews.com/dims4/default/74b899c/2147483647/strip/true/crop/1281x854+0+0/resize/980x653!/quality/90/?url=https://assets.apnews.com/0c/94/cbc970464ba8bfbc6042dd7cdd78/the-ap-default-image-2026.png",
-        "timestamp": 1787560080.0
-    },
-    {
-        "id": "4d14910c1d",
-        "title_fa": "واکنش بازارهای نوظهور به تحریم‌های ایران؛ ثبات رند در اوج چندماهه",
-        "title_en": "South African rand holds near multi-month high as Iran sanctions loom",
-        "summary": [
-            "هم‌زمان با اعلام تحریم‌های جدید علیه ایران، ارزهایی چون رند آفریقای جنوبی موقعیت خود را در اوج حفظ کردند.",
-            "بازارهای بین‌المللی با احتیاط در حال تنظیم سرمایه‌گذاری‌ها بر اساس تغییرات احتمالی بازار نفت هستند."
-        ],
-        "impact": "نوسان در بازار ارزهای نوظهور و جا‌به‌جایی سرمایه‌ها در آستانه اختلال در عرضه نفت.",
-        "tag": "اقتصاد جهانی",
-        "urgency": 4,
-        "sentiment": 0.1,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGQybU1aeHVscjllZWFSNjREdlZJNWJFWWNVS2VzTjJSWmw2cGg5RXJhTHhjSUhCbEYyQlI4Um5VZnBjRUVmSGVQeUtQZ2ladmN6SHd2REdQRThiOFMtT3oxTWNuYzQ2RWRlOTVqa2RzX3lBNk5LalBtRG9Ya2VnM0VWUjdIOGkyN0ZzdGtRa1hNYWJJNVZuNFFTQm50a0hyUEtkQnNNUU93c0V1OG9CRGc3REpxUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZGQybU1aeHVscjllZWFSNjREdlZJNWJFWWNVS2VzTjJSWmw2cGg5RXJhTHhjSUhCbEYyQlI4Um5VZnBjRUVmSGVQeUtQZ2ladmN6SHd2REdQRThiOFMtT3oxTWNuYzQ2RWRlOTVqa2RzX3lBNk5LalBtRG9Ya2VnM0VWUjdIOGkyN0ZzdGtRa1hNYWJJNVZuNFFTQm50a0hyUEtkQnNNUU93c0V1OG9CRGc3REpxUQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787554440.0
-    },
-    {
-        "id": "bde2561c12",
-        "title_fa": "تحریم‌های بی‌سابقه آمریکا علیه ایران؛ هدف‌گیری راه‌های کریپتویی",
-        "title_en": "Crypto Braces ‘History’s Toughest US Sanctions’ on Iran in Matter of Hours — How Could XRP and Bitcoin Be Impacted?",
-        "summary": [
-            "وزارت خزانه‌داری آمریکا آماده رونمایی از سنگین‌ترین بسته تحریمی تاریخ علیه جمهوری اسلامی می‌شود.",
-            "با توجه به تلاش‌های تهران برای استفاده از رمزارزها در صادرات نفت، واشنگتن نظارت بر مبادلات بیت‌کوین را شدیداً افزایش داده است.",
-            "این موج جدید تحریم‌ها شریان‌های غیررسمی مالی و کانال‌های دور زدن تحریم‌ها را کاملاً زیر ضربه قرار می‌دهد."
-        ],
-        "impact": "بسته‌شدن راه‌های تنفس رمزارزی جمهوری اسلامی و تشدید نوسانات در بازار ارز داخل.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Yahoo Finance",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-braces-history-toughest-us-124626091.html",
-        "clean_url": "https://finance.yahoo.com/markets/crypto/articles/crypto-braces-history-toughest-us-124626091.html",
-        "image": "http://www.bing.com/th?id=ONUT.BP2hqVNfYruMUprQKQGEzA&pid=News",
-        "timestamp": 1787550360.0
     }
 ]
