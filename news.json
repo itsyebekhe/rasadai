@@ -18,6 +18,25 @@
         "timestamp": 1788627420.0
     },
     {
+        "id": "9599f94f11",
+        "title_fa": "ضربه‌ متقابل آمریکا به ناوگان سایه سپاه در خلیج فارس",
+        "title_en": "US forces destroy three IRGC oil tankers after coming under Iranian fire",
+        "summary": [
+            "سنتکام در پاسخ به حمله موشکی سپاه به ناوهای آمریکایی، ۳ نفتکش شبکه قاچاق نفت سپاه را در تنگه هرمز و دریای عمان منهدم کرد.",
+            "هدف قرار گرفتن نفتکش‌های شبکه سایه، شریان مالی چند میلیارد دلاری سپاه و گروه‌های نیابتی‌اش را مستقیماً نشانه رفته است.",
+            "ادعای تبلیغاتی سپاه درباره اصابت به ناو هواپیمابر آمریکا با تکذیب صریح سنتکام و اعلام دفع کامل حملات همراه شد."
+        ],
+        "impact": "آغاز درگیری مستقیم نظامی در حوزه انرژی خلیج فارس و جهش فوری ریسک دریانوردی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "Jewish News Syndicate",
+        "url": "https://www.jns.org/news/u-s-news/us-forces-destroy-three-irgc-oil-tankers-after-coming-under-iranian-fire",
+        "clean_url": "https://www.jns.org/news/u-s-news/us-forces-destroy-three-irgc-oil-tankers-after-coming-under-iranian-fire",
+        "image": "https://static.jns.org/dims4/default/7575d71/2147483647/strip/true/crop/4096x2306+0+213/resize/1000x563!/format/webp/quality/90/?url=https://static.jns.org/cc/d1/3d55f6b04c35a530963cd54885b4/hjwyggwwmaaxgh7.jpg",
+        "timestamp": 1788623340.0
+    },
+    {
         "id": "3c976d0084",
         "title_fa": "پاسخ موشکی سنتکام؛ انهدام سه نفتکش ایرانی در خلیج فارس",
         "title_en": "U.S. strikes Iranian oil tankers in retaliation for Iran targeting warships",
@@ -5506,24 +5525,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ucTVkR1JFeHdZeGl6cU94LWY1dnpUYm1fc1kzbjdMYm5uaS1rUFRfZ3oxd25UTS05eDB0b1VYTzd3a2NVOWV0T2xEVF9obmpKOVlXRlFyNHhkOGRMYmE3bEZyUXNjTzlnQ0hsZ2d5QXljYXlsUXVPejZ1SndUQzjSAYIBQVVfeXFMUDRPcjBBVzdnaTAyTlZWb0FHQWpIZ2lsN0hCbkJpRllpY0tXX1B4OGxINGQ5cU9HSkJEaUt5OUQ2cURYWEFWQTVvUVVuNXdBMVhRdkxXbWUtNnhNbWhGUlZxU1A3NDJzeVBzVEowZGowa3huVERxanZvUXYwUlpvek9nQQ",
         "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787567593.0
-    },
-    {
-        "id": "e44561077b",
-        "title_fa": "اعلام «روز دی اقتصادی» آمریکا و کلید خوردن محاصره مالی ایران",
-        "title_en": "Bessent threatens new Iran secondary sanctions, says Trump is asking world leaders to cooperate",
-        "summary": [
-            "دولت ترامپ با تحریم ۶۰ شرکت، فرد و کشتی، فاز جدیدی از قطع شریان‌های مالی ایران را کلید زد.",
-            "واشنگتن این بار مستقیم ناوگان نفتکش‌ها، معاملات طلا و ارزهای دیجیتال را هدف گرفته تا راه‌های دور زدن تحریم را کاملاً مسدود کند.",
-            "فشار بر خریداران چینی نشان می‌دهد هدف واشنگتن صفر کردن واقعی درآمد ارزی تهران است."
-        ],
-        "impact": "تشدید خفقان ارزی، برهم خوردن شبکه صرافی‌های سایه و جهش قیمت دلار در بازار تهران.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "NBC News",
-        "url": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
-        "clean_url": "https://www.nbcnews.com/business/economy/bessent-iran-sanctions-d-day-rcna594103",
-        "image": "http://www.bing.com/th?id=ONUT.CDdspsGmEdEeBOmufv9LMw&pid=News",
-        "timestamp": 1787567100.0
     }
 ]
