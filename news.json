@@ -1,5 +1,42 @@
 [
     {
+        "id": "7e45667952",
+        "title_fa": "پاتک شورای حکام به پرونده هسته‌ای ایران و هشدار صریح تهران",
+        "title_en": "Iran to announce new Strait of Hormuz route as gas prices hit record high on Labor Day",
+        "summary": [
+            "آمریکا و تروئیکای اروپایی پیش‌نویس قطعنامه‌ای تند را برای ارجاع مجدد پرونده هسته‌ای ایران به شورای امنیت آماده کرده‌اند.",
+            "سخنگوی وزارت خارجه ایران رسماً هشدار داد که در صورت تصویب این قطعنامه، تهران واکنش تلافی‌جویانه و سختی نشان خواهد داد.",
+            "انسداد مسیر بازرسی‌های آژانس توسط ایران، آخرین پل‌های دیپلماسی هسته‌ای را در آستانه فرپاشی کامل قرار داده است."
+        ],
+        "impact": "احتمال فعال‌سازی مکانیسم ماشه و بازگشت کلیه تحریم‌های بین‌المللی شورای امنیت.",
+        "tag": "هسته‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-07-26",
+        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-07-26",
+        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/a11f43f066a4370039b40387602749f0.jpg?ve=1&tl=1",
+        "timestamp": 1788813180.0
+    },
+    {
+        "id": "f9a2728542",
+        "title_fa": "رایزنی ترامپ درباره بازگشایی تنگه هرمز و مهار اتمی ایران",
+        "title_en": "Burnham, Trump discuss Hormuz reopening, Iran nuclear program",
+        "summary": [
+            "ترامپ در حال بررسی طرح‌های عملیاتی برای بازگشایی شریان حیاتی خلیج فارس و تضمین امنیت کشتیرانی است.",
+            "تمرکز اصلی واشنگتن بر مهار هم‌زمان برنامه هسته‌ای ایران و خنثی‌سازی تهدیدهای ترانزیتی قرار دارد."
+        ],
+        "impact": "احتمال تغییر آرایش نظامی آمریکا در خلیج فارس برای مقابله با تهدیدهای دریایی.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.4,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4MkZBWHRVODFuYWttWmI5VTNIYjl4ZzlqY3lQdTlRbkdWdWEtWHdkOUpDUHh0UGZkenJSUm1hWm5NZHEzVHd0Z2w2SkY?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4MkZBWHRVODFuYWttWmI5VTNIYjl4ZzlqY3lQdTlRbkdWdWEtWHdkOUpDUHh0UGZkenJSUm1hWm5NZHEzVHd0Z2w2SkY",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788807167.0
+    },
+    {
         "id": "9af557fba9",
         "title_fa": "اتهام‌زنی اردوغان به اسرائیل درباره تخریب توافق ایران و آمریکا",
         "title_en": "Erdogan accuses Israel of sabotaging Iran-US MoU, fueling regional war",
@@ -70,6 +107,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788786803.0
+    },
+    {
+        "id": "8687d547c9",
+        "title_fa": "فشار حداکثری ترامپ و تهدید تهران به گسترش دامنه جنگ",
+        "title_en": "Trump’s blockade pushes Iran toward military escalation",
+        "summary": [
+            "واشنگتن با کنار گذاشتن دیپلماسی و تشدید فشار اقتصادی، تهران را در تنگنای سخت قرار داده است.",
+            "جمهوری اسلامی برای فرار از خفگی اقتصادی، استراتژی ریسک‌افزایی و تهدید به جنگ گسترده را پیش گرفته تا طرف مقابل را مجبور به عقب‌نشینی کند.",
+            "این رویارویی نشان می‌دهد که خطر درگیری مستقیم نظامی در منطقه به بالاترین حد خود رسیده است."
+        ],
+        "impact": "افزایش احتمال درگیری مستقیم نظامی و جهش شدید قیمت جهانی انرژی.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "CNN on MSN",
+        "url": "https://www.msn.com/en-us/news/other/trump-s-blockade-pushes-iran-toward-military-escalation/ar-AA2bKEvU",
+        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-blockade-pushes-iran-toward-military-escalation/ar-AA2bKEvU",
+        "image": "http://www.bing.com/th?id=ONUT.86nXGot2So-i8qf0RxH8gg&pid=News",
+        "timestamp": 1788776363.0
     },
     {
         "id": "11c825849f",
@@ -163,6 +219,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTmhDWFpnOE0xTW9sOGJvVlJhcUxTRTRiM0NxWHFuaXFaT0NwQVVWNS1PSzluQmF4bmpUSUhxSXVVLTdPSDhiajF4RkpLRmtmdkp0STRlMWZUaUNKVzlQWEZ0X1dZUzk4T0h3bGNsOXZCVWwybnYwWWNxS1p2OERTZ3h3S2tTZ0pVdU5SVHE0VjVoZk9CS3ZJVGVxOTVpV01pWkE4QjZn",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788766920.0
+    },
+    {
+        "id": "72af93d642",
+        "title_fa": "حمله به آرامکو و بستن تنگه هرمز با طرح جدید محسن رضایی",
+        "title_en": "Iran War Live Updates: Saudi Aramco's Oil Facilities in Jizan Hit",
+        "summary": [
+            "تاسیسات نفتی آرامکو در جیزان عربستان هدف حملات قرار گرفته که نشان‌دهنده هدف‌گیری مستقیم شریان‌های انرژی منطقه است.",
+            "محسن رضایی از ایجاد منطقه جدید ممنوعه در تنگه هرمز خبر داد و شرط بازگشایی را توقف تهدیدهای آمریکا اعلام کرد.",
+            "هم‌زمان با شوک قیمتی سوخت در بازار داخلی ایران، حملات سنگین اسرائیل به جنوب لبنان همچنان قربانی می‌گیرد."
+        ],
+        "impact": "فلج شدن ترانزیت نفت در خلیج فارس و جهش بی‌سابقه تورم سوخت در بازار جهانی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Times Now",
+        "url": "https://www.timesnownews.com/world/middle-east/iran-war-live-updates-donald-trump-watches-as-tehran-unveils-new-strait-of-hormuz-shipping-route-raising-global-oil-supply-concerns-liveblog-156101164",
+        "clean_url": "https://www.timesnownews.com/world/middle-east/iran-war-live-updates-donald-trump-watches-as-tehran-unveils-new-strait-of-hormuz-shipping-route-raising-global-oil-supply-concerns-liveblog-156101164",
+        "image": "https://images.timesnownews.com/thumb/msid-156101164,thumbsize-57926,width-1280,height-720,resizemode-75/156101164.jpg",
+        "timestamp": 1788758100.0
     },
     {
         "id": "a121f9d7ea",
@@ -5448,77 +5523,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4tZGRndDR0cWE4YXJHVl9tV3k1YmhtbHl3RkdXWkRvUURnRHJTX25xMlFmLW1ncmJTOXhicFV4emJCVUEzSVJhbENwTk91dW1xU1VqM3pGdHZET2Vybzk3WnBDbUptN0N0VWlGZTRJbjRYN200bGxHSzBUXzhEZWc",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787650789.0
-    },
-    {
-        "id": "90e8ba2bb2",
-        "title_fa": "جنگ با ایران؛ چالش اصلی معیشت و انتخابات آمریکا",
-        "title_en": "The Iran war is already on November ballots",
-        "summary": [
-            "درگیری نظامی با تهران از سطح یک موضوع دیپلماتیک خارج شده و مستقیماً بر تورم و معیشت آمریکایی‌ها اثر گذاشته است.",
-            "ترامپ برای جلب نظر رأی‌دهندگان ناچار است هزینه‌های اقتصادی جنگ در بازار انرژی را به سرعت مهار کند."
-        ],
-        "impact": "افزایش فشار سیاسی بر کاخ سفید برای تعیین تکلیف سریع بحران با تهران.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Politico",
-        "url": "https://www.politico.com/news/2026/08/25/iran-war-midterm-elections-01049015",
-        "clean_url": "https://www.politico.com/news/2026/08/25/iran-war-midterm-elections-01049015",
-        "image": "http://www.bing.com/th?id=ONUT.Ykfjd3SWWHrC0fmrETGiwQ&pid=News",
-        "timestamp": 1787650440.0
-    },
-    {
-        "id": "60d9210c13",
-        "title_fa": "پروژه چابهار در لبه تیغ تحریم‌های ثانویه آمریکا",
-        "title_en": "US sanctions on Iran: Could India's trade and Chabahar plans take a hit?",
-        "summary": [
-            "تشدید فشار اقتصادی آمریکا، توافقات تجاری هند و توسعه بندر استراتژیک چابهار را با ریسک جریمه‌های سنگین مواجه کرده است.",
-            "دهلی‌نو برای عقب‌نشینی از پروژه‌های زیرساختی ایران تحت فشار شدید واشنگتن قرار دارد."
-        ],
-        "impact": "احتمال خروج هند از چابهار و فلج شدن یکی از مهم‌ترین راه‌های ترانزیتی ایران.",
-        "tag": "چابهار",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Firstpost",
-        "url": "https://www.firstpost.com/explainers/us-sanctions-iran-could-india-trade-and-chabahar-plans-take-hit-14040663.html",
-        "clean_url": "https://www.firstpost.com/explainers/us-sanctions-iran-could-india-trade-and-chabahar-plans-take-hit-14040663.html",
-        "image": "https://images.firstpost.com/uploads/2026/08/Abbas-Araqchi-India-May-2026-Reuters-2026-08-7a36c17f99e6473ba46fd865e5376be0-1200x675.jpg?im=FitAndFill,width=1200,height=675",
-        "timestamp": 1787650140.0
-    },
-    {
-        "id": "c332aa0eea",
-        "title_fa": "خط‌ونشان «دی‌دی اقتصادی» برای تهران؛ تشدید نبرد مالی آمریکا",
-        "title_en": "Bessent’s Warning of ‘Economic D-Day’ for Iran Amounts to More Threats",
-        "summary": [
-            "هشدار اسکوت بسنت درباره «روز دی اقتصادی» علیه ایران، از نقشه جدید واشنگتن برای مسدود‌سازی کامل شریان‌های مالی و صادرات نفت باقی‌مانده پرده برمی‌دارد.",
-            "این تهدیدهای علنی بیش از آنکه طرح جدیدی باشند، ابزار جنگ روانی برای برهم زدن ثبات ثانیه‌ای بازار ارز در داخل ایران هستند."
-        ],
-        "impact": "احتمال جهش هیجانی در بازار آزاد ارز و تشدید محدودیت روی تبادلات مالی منطقه.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xYzV1OHFrN0pNdGo3V1VSMExkc2pvc1NhbHpJdE1HdzFsQ3h1M2lMU1JzeGotX212N1VRTVNHcVJibEVmbDJvbjNjdGdLdnZFbnNjSEhRUEt0Z2U1cWp1WGlUYTZkSWVZclM1SzhXZlFjSW1r",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787649720.0
-    },
-    {
-        "id": "55b6902989",
-        "title_fa": "واکنش سرویس مخفی آمریکا به ویدیوهای تهدیدآمیز علیه پسر ترامپ",
-        "title_en": "سرویس مخفی آمریکا: از انتشار ویدیوی تهدیدآمیز تهران علیه بارون ترامپ آگاهیم",
-        "summary": [
-            "انتشار ویدیوهای تبلیغاتی صداوسیما علیه بارون ترامپ، سرویس مخفی آمریکا را به حالت آماده‌باش حفاظتی درآورد.",
-            "روایت‌سازی تهدیدآمیز تهران کارکرد تبلیغات داخلی دارد اما در واشنگتن پرونده امنیتی و قضایی جدیدی گشوده است."
-        ],
-        "impact": "افزایش فشارهای امنیتی و حقوقی علیه صداوسیما و دستگاه‌های تبلیغاتی تهران.",
-        "tag": "حقوقی",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608255598",
-        "clean_url": "https://www.iranintl.com/202608255598",
-        "image": "http://www.bing.com/th?id=ONUT.08Mj2FIzw5-XBbsZwv9ERA&pid=News",
-        "timestamp": 1787646060.0
     }
 ]
