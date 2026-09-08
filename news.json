@@ -1,5 +1,78 @@
 [
     {
+        "id": "28b5952cec",
+        "title_fa": "هشدار تند اسحاق هرتزوگ به بریتانیا درباره تحریم‌های تجاری",
+        "title_en": "Herzog: UK settlement trade ban would be 'gross interference' in Israel's election, harm Palestinians",
+        "summary": [
+            "رئیس‌جمهور اسرائیل طرح بریتانیا برای ممنوعیت معامله با شهرک‌ها را مداخله در فرآیند سیاسی داخلی کشورش خواند.",
+            "این موضع‌گیری نشان‌دهنده نگرانی تل‌آویو از شکاف‌های جدید دیپلماتیک با متحدان اروپایی در میان تنش‌های منطقه‌ای است."
+        ],
+        "impact": "افزایش اصطکاک سیاسی میان لندن و تل‌آویو در سطح دیپلماتیک.",
+        "tag": "بین‌الملل",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "The Times of Israel",
+        "url": "https://www.msn.com/en-us/news/other/herzog-uk-settlement-trade-ban-would-be-gross-interference-in-israels-election-harm-palestinians/ar-AA2bMGJ7",
+        "clean_url": "https://www.msn.com/en-us/news/other/herzog-uk-settlement-trade-ban-would-be-gross-interference-in-israels-election-harm-palestinians/ar-AA2bMGJ7",
+        "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/F260816OBH511.jpg",
+        "timestamp": 1788860865.0
+    },
+    {
+        "id": "08ba935dbc",
+        "title_fa": "تهدید صریح قالیباف به هدف قرار دادن زیرساخت‌های انرژی منطقه",
+        "title_en": "Iran vows to retaliate if US attacks its assets",
+        "summary": [
+            "رئیس مجلس شورای اسلامی صراحتاً تهدید کرد که هرگونه اقدام نظامی آمریکا با حمله به شریان‌های نفت و گاز پاسخ داده می‌شود.",
+            "توسل به تهدید مستقیم انرژی جهانی، نشان‌دهنده بن‌بست در ابزارهای دیپلماتیک و هراس تهران از ضربات بعدی است."
+        ],
+        "impact": "التهاب در بازارهای جهانی نفت و جهش آنی قیمت انرژی.",
+        "tag": "تهدید",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Northwest Arkansas Democrat-Gazette",
+        "url": "https://www.nwaonline.com/news/2026/sep/08/iran-vows-to-retaliate-if-us-attacks-its-assets/",
+        "clean_url": "https://www.nwaonline.com/news/2026/sep/08/iran-vows-to-retaliate-if-us-attacks-its-assets",
+        "image": "https://wehco.media.clients.ellingtoncms.com/static-4/teaser_images/www.nwaonline.com_default.jpg",
+        "timestamp": 1788858000.0
+    },
+    {
+        "id": "d8bd239054",
+        "title_fa": "لغو نمایشگاه هوایی بحرین در سایه تنش‌های نظامی با ایران",
+        "title_en": "Bahrain Airshow Canceled Amid Ongoing Iran Conflict",
+        "summary": [
+            "سرایت ناامنی‌های ناشی از تحرکات جمهوری اسلامی باعث تعطیلی رویدادهای بزرگ تجاری در خلیج فارس شد.",
+            "این تصمیم نشان می‌دهد که فعالان اقتصادی منطقه خطرات ناشی از درگیری نظامی را کاملاً جدی ارزیابی می‌کنند."
+        ],
+        "impact": "ضربه به اعتبار ترانزیتی و تجاری منطقه و خسارت مالی به شرکت‌های بین‌المللی.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Aviation Week",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlpZWXM0dk5CZXZvNVU2clZLaFc4WW9aX3FiTmw5dG5zQmtiQUNUbl91R2p4b01GVmJ2SEhHMGVablVpaEVIR3p0NFMwc3JXSTZVOUpJZGM0T1JPZHlxQzlQSzY0QUZpWXN2MElIWVduS0xJZmRNY0kwdG91ZmxOVFptTzNOUXdydFRIWVZyNDN0RGFwd3FzS0NDMXl5eEh6NC1KUF9mT3hkQk5sRlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlpZWXM0dk5CZXZvNVU2clZLaFc4WW9aX3FiTmw5dG5zQmtiQUNUbl91R2p4b01GVmJ2SEhHMGVablVpaEVIR3p0NFMwc3JXSTZVOUpJZGM0T1JPZHlxQzlQSzY0QUZpWXN2MElIWVduS0xJZmRNY0kwdG91ZmxOVFptTzNOUXdydFRIWVZyNDN0RGFwd3FzS0NDMXl5eEh6NC1KUF9mT3hkQk5sRlE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788855300.0
+    },
+    {
+        "id": "3f7c1d136b",
+        "title_fa": "موج جدید حملات پهپادی حوثی‌ها به تاسیسات جنوب عربستان",
+        "title_en": "US Iran War Live Updates: Houthis to announce major operation deep inside Saudi Arabia",
+        "summary": [
+            "گروه نیابتی حوثی با تحریک تهران، تاسیسات زیربنایی و اقتصادی عربستان را هدف قرار داد تا نطاق جنگ را گسترش دهد.",
+            "اظهارات مقامات سپاه نشان می‌دهد حکومت ایران از این حملات کور برای تبلیغات اقتدارگرایانه و جنگ روانی بهره‌برداری می‌کند.",
+            "محکومیت شدید این اقدامات توسط کشورهای منطقه، همبستگی عربی علیه تحرکات تهران را محکم‌تر کرد."
+        ],
+        "impact": "اختلال موقت در فعالیت‌های اقتصادی جنوب عربستان و احتمال پاسخ تلافی‌جویانه ائتلاف.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The Times of India",
+        "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-strait-of-hormuz-middle-east-conflict-donald-trump-fresh-tehran-attacks-us-gas-prices-hike-latest-news/liveblog/133902377.cms",
+        "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-news-live-updates-strait-of-hormuz-middle-east-conflict-donald-trump-fresh-tehran-attacks-us-gas-prices-hike-latest-news/liveblog/133902377.cms",
+        "image": "http://www.bing.com/th?id=ONUT.tnmRzx2H2ubGzUEkiCw4og&pid=News",
+        "timestamp": 1788834960.0
+    },
+    {
         "id": "1c4fd5f41f",
         "title_fa": "مدرسه‌ای که در آغاز جنگ آسیب دید به بنای یادبود کودکان تبدیل شد",
         "title_en": "The Iranian school struck in the war's earliest attacks is now a memorial for children",
@@ -56,6 +129,24 @@
         "timestamp": 1788813180.0
     },
     {
+        "id": "bc0ee624d9",
+        "title_fa": "خط‌ونشان موشکی تهران در خلیج فارس و ادعای انسداد دریانوردی",
+        "title_en": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
+        "summary": [
+            "جمهوری اسلامی با هدف باج‌گیری امنیتی، ادعای شلیک موشکی به ناوهای آمریکایی و ایجاد منطقه ممنوعه در خلیج فارس را مطرح کرد.",
+            "این تحرکات ایذایی در تنگه هرمز بیش از آنکه جنبه عملیاتی داشته باشد، مانوری برای سرپوش گذاشتن بر آسیب‌پذیری‌های داخلی است."
+        ],
+        "impact": "افزایش فوری ریسک دریانوردی تجاری و صعود نرخ بیمه نفتکش‌ها در خلیج فارس.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/ar-AA2bLuVP",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/ar-AA2bLuVP",
+        "image": "http://www.bing.com/th?id=ONUT.qrBEuQiL_XPCK6N1d620Bw&pid=News",
+        "timestamp": 1788808690.0
+    },
+    {
         "id": "f9a2728542",
         "title_fa": "رایزنی ترامپ درباره بازگشایی تنگه هرمز و مهار اتمی ایران",
         "title_en": "Burnham, Trump discuss Hormuz reopening, Iran nuclear program",
@@ -91,6 +182,24 @@
         "clean_url": "https://www.msn.com/en-us/money/general/netanyahu-says-iran-s-regime-is-nearing-its-end-warns-tehran-of-a-blow-it-cannot-imagine/ar-AA2bKp9b",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bKzEI.img?w=883&h=500&m=4&q=90",
         "timestamp": 1788801461.0
+    },
+    {
+        "id": "4aabe514a5",
+        "title_fa": "حمایت سیاستمداران ارشد استرالیا از نقش شاهزاده رضا پهلوی",
+        "title_en": "چهار سیاستمدار ارشد استرالیا: شاهزاده رضا پهلوی چهره‌ای کلیدی در گذار از جمهوری اسلامی است",
+        "summary": [
+            "چهار نماینده و سناتور برجسته پارلمان استرالیا، شاهزاده رضا پهلوی را چهره کلیدی و صدای اصلی مردم ایران برای گذار از جمهوری اسلامی دانستند.",
+            "افزایش تعاملات دیپلماتیک بین‌المللی با محوریت اپوزیسیون، روند مشروعیت‌زدایی از حکومت تهران را سرعت بخشیده است."
+        ],
+        "impact": "تقویت موقعیت بین‌المللی اپوزیسیون و انزوای بیشتر دیپلماتیک جمهوری اسلامی.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609088173",
+        "clean_url": "https://www.iranintl.com/202609088173",
+        "image": "http://www.bing.com/th?id=ONUT.Yrk2SPhMEe8cYGDEOOe6Ug&pid=News",
+        "timestamp": 1788800400.0
     },
     {
         "id": "9af557fba9",
@@ -5413,115 +5522,5 @@
         "clean_url": "https://www.msn.com/en-xl/politics/government/trump-s-risky-deal-midterm-election-driven-nuclear-recognition-fallout/ar-AA2aUemu",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1MF1RI.img?w=500&h=500&m=4&q=80",
         "timestamp": 1787669040.0
-    },
-    {
-        "id": "1fb70da4ae",
-        "title_fa": "هزینه‌های سرسام‌آور درگیری با ایران روی دوش اقتصاد آمریکا",
-        "title_en": "Buckle In America — Iran War Costs Are Steep And Growing",
-        "summary": [
-            "بحران نظامی با ایران هزینه‌های پنهان و آشکار سنگینی بر بودجه واشنگتن تحمیل کرده که اثرات آن در بازار گران انرژی مشهود است.",
-            "تداوم این تنش نظامی بدون استراتژی خروج شفاف، ریسک‌های بی‌سابقه‌ای برای ثبات اقتصادی ایالات متحده ایجاد می‌کند."
-        ],
-        "impact": "افزایش فشارهای تورمی و مالی بر واشنگتن و محدودتر شدن دست پنتاگون برای مانور طولانی‌مدت.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.6,
-        "source": "Forbes",
-        "url": "https://www.forbes.com/sites/michaelpdempsey/2026/08/25/buckle-in-america---iran-war-costs-are-steep-and-growing/",
-        "clean_url": "https://www.forbes.com/sites/michaelpdempsey/2026/08/25/buckle-in-america---iran-war-costs-are-steep-and-growing",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787664480.0
-    },
-    {
-        "id": "b3dfdef106",
-        "title_fa": "هشدار صریح ترامپ: نابودی انهدامی قایق‌های مین‌گذار در تنگه هرمز",
-        "title_en": "ترامپ: مین‌روبی تنگه هرمز تکمیل شد، هر تلاش تازه برای مین‌گذاری را هدف می‌گیریم",
-        "summary": [
-            "واشنگتن از پاکسازی کامل مین‌های جمهوری اسلامی در تنگه هرمز خبر داد و خط قرمزی جدید برای کشتیرانی کشید.",
-            "رصد لحظه‌ای تنگه هرمز و سایت‌های هسته‌ای نشان می‌دهد آمریکا سیاست تحمل صفر را اجرایی کرده است.",
-            "هر تلاش تازه سپاه برای ناامن‌سازی این آبراه، با پاسخ مستقیم و فوری نیروهای آمریکایی روبرو می‌شود."
-        ],
-        "impact": "تثبیت تسلط نظامی آمریکا بر تنگه هرمز و سلب ابزار فشار درگیری دریایی از تهران.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608259785",
-        "clean_url": "https://www.iranintl.com/202608259785",
-        "image": "http://www.bing.com/th?id=ONUT.NNs3Bizqcq0RWxlmKV14ng&pid=News",
-        "timestamp": 1787656980.0
-    },
-    {
-        "id": "9ebc112ec7",
-        "title_fa": "مذاکرات ناامیدانه تهران و مسقط برای مدیریت تنگه هرمز",
-        "title_en": "Iran and Oman hold talks on managing the Strait of Hormuz and other news from around the Middle East",
-        "summary": [
-            "جمهوری اسلامی پس از ماه‌ها انسداد خلیج فارس، دست به دامن عمان شده تا راهی برای گشایش آبرومندانه بیابد.",
-            "پذیرش مدیریت گام‌به‌گام نشان می‌دهد فشار نظامی آمریکا و ناتو تهران را مجبور به عقب‌نشینی مرحله‌ای کرده است."
-        ],
-        "impact": "احتمال بازگشایی مشروط و گام‌به‌گام خطوط کشتیرانی تحت نظارت بین‌المللی.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.2,
-        "source": "Associated Press News on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-and-oman-hold-talks-on-managing-the-strait-of-hormuz-and-other-news-from-around-the-middle-east/ar-AA2aSQQL",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-and-oman-hold-talks-on-managing-the-strait-of-hormuz-and-other-news-from-around-the-middle-east/ar-AA2aSQQL",
-        "image": "http://www.bing.com/th?id=ONUT.mOQ-eJxe7zI-2hQPe7wCPQ&pid=News",
-        "timestamp": 1787654296.0
-    },
-    {
-        "id": "7348c3ad20",
-        "title_fa": "رایزنی تهران و مسقط برای کنترل تنگه هرمز و مین‌روبی",
-        "title_en": "Iran and Oman discuss joint shipping route in Strait of Hormuz and mine clearing mission",
-        "summary": [
-            "جمهوری اسلامی برای دور زدن فشار غرب و تثبیت نفوذ خود بر شاهراه نفتی جهان، دست‌به‌دامن عمان شده است.",
-            "طرح گشت مشترک و مین‌روبی، مانوری خلیجی برای کاهش حضور نیروهای فرامنطقه‌ای و اعمال کنترلی سنگین‌تر بر تردد نفتکش‌هاست."
-        ],
-        "impact": "احتمال افزایش تسلط نظامی تهران بر تنگه هرمز و بالا رفتن ریسک ترانزیت انرژی برای غرب.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "CNBC on MSN",
-        "url": "https://www.msn.com/en-us/money/markets/iran-and-oman-discuss-joint-shipping-route-in-strait-of-hormuz-and-mine-clearing-mission/ar-AA2aUu8H",
-        "clean_url": "https://www.msn.com/en-us/money/markets/iran-and-oman-discuss-joint-shipping-route-in-strait-of-hormuz-and-mine-clearing-mission/ar-AA2aUu8H",
-        "image": "http://www.bing.com/th?id=ONUT.jELBBskU8nzpJEdLTjCQrw&pid=News",
-        "timestamp": 1787652985.0
-    },
-    {
-        "id": "bfb73b2162",
-        "title_fa": "جنگ اقتصادی ترامپ علیه ایران؛ تحریم‌های فلج‌کننده جانشین حمله مستقیم",
-        "title_en": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
-        "summary": [
-            "دولت ترامپ پس از بن‌بست نظامی و ناکامی اولتیماتوم ۶۰ روزه آتش‌بس، تمام ثقل فشار را روی خفه کردن شریان‌های اقتصادی تهران گذاشته است.",
-            "هدف واشنگتن از محدود کردن برنامه هسته‌ای به خارج کردن کنترل تنگه هرمز از دست ایران و قطع کامل صادرات نفت تغییر یافته است.",
-            "وزارت خزانه داری آمریکا قصد دارد با مجازات شدید خریداران نفت ایران، آخرین راه‌های تنفس مالی جمهوری اسلامی را مسدود کند."
-        ],
-        "impact": "تشدید فشار بی‌سابقه بر بازار ارز تهران و مسدودتر شدن مسیرهای دور زدن تحریم‌ها.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "NPR",
-        "url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
-        "clean_url": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
-        "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/8516x4790+0+444/resize/1400/quality/85/format/jpeg/?url=http://npr-brightspot.s3.amazonaws.com/6a/47/dba05d284318a540221bd45f9cfb/ap26122373189543.jpg",
-        "timestamp": 1787652420.0
-    },
-    {
-        "id": "85f05a3e47",
-        "title_fa": "مهلت مشروط واشنگتن به خریداران نفت ایران قبل از خفگی اقتصادی",
-        "title_en": "Even More Maximum Pressure on Iran",
-        "summary": [
-            "وزیر خزانه‌داری آمریکا با اعطای مهلت زمانی به خریداران اصلی نفت ایران مثل چین، اعلام کرد تحریم‌های ثانویه به‌زودی اجرا می‌شوند.",
-            "تیم ترامپ قصد دارد بدون ایجاد شوک ناگهانی به سیستم مالی جهان، شریان‌های ارزی ایران را قطع کند."
-        ],
-        "impact": "تنگ‌تر شدن حلقه خفگی اقتصادی و افت شدید درآمد نفتی ایران در هفته‌های پیش رو.",
-        "tag": "تحریم",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Atlantic",
-        "url": "https://www.theatlantic.com/national-security/2026/08/treasury-bessent-sanctions-iran-trump/688401/",
-        "clean_url": "https://www.theatlantic.com/national-security/2026/08/treasury-bessent-sanctions-iran-trump/688401",
-        "image": "http://www.bing.com/th?id=ONUT.TxvI60G1QL45rlMJIGfppA&pid=News",
-        "timestamp": 1787651160.0
     }
 ]
