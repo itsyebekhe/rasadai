@@ -1,5 +1,41 @@
 [
     {
+        "id": "15b84b23a6",
+        "title_fa": "جهش قیمت نفت به مرز ۱۰۰ دلار و ادعای توقیف زیردریایی آمریکا",
+        "title_en": "NZ dollar tests 13 year lows",
+        "summary": [
+            "حملات موشکی حوثی‌ها به تأسیسات نفتی عربستان و تهدیدهای جدید در خلیج فارس، قیمت نفت برنت را به آستانه ۱۰۰ دلار رساند.",
+            "سپاه پاسداران ادعا کرده یک زیردریایی بدون سرنشین آمریکایی را در تنگه هرمز توقیف کرده و در صورت هدف قرار گرفتن شناورهایش، منافع آمریکا را خواهد زد."
+        ],
+        "impact": "التهاب شدید در بازارهای جهانی انرژی و بالا رفتن ریسک جنگ فراگیر در خطوط دریانوردی.",
+        "tag": "اقتصادی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "interest.co.nz",
+        "url": "https://www.interest.co.nz/currencies/140169/currency-markets-settle-well-contained-australian-focus-shifts-more-hawkish",
+        "clean_url": "https://www.interest.co.nz/currencies/140169/currency-markets-settle-well-contained-australian-focus-shifts-more-hawkish",
+        "image": "https://www.interest.co.nz/sites/default/files/2024-03/nzd-pressure.jpg",
+        "timestamp": 1788912060.0
+    },
+    {
+        "id": "f5867c9690",
+        "title_fa": "نوسان شدید در بازارهای بورس و اوج‌گیری قیمت جهانی نفت",
+        "title_en": "Markets live: ASX to recover from six-week low, Middle East flare-up drives oil price towards $US100",
+        "summary": [
+            "اخبار مربوط به انفجارها در اطراف جزیره خارک و حملات به تأسیسات انرژی منطقه، بازار سهام آسیا و جهان را دچار افت و التهاب کرده است.",
+            "قیمت نفت به بالاترین سطح شش هفته اخیر رسیده که بازتاب مستقیمی از هراس سهام‌داران از بروز اختلال گسترده در عرضه انرژی است."
+        ],
+        "impact": "ایجاد شوک تورمی جدید در بازارهای جهانی و صعودی شدن قیمت ارز و طلا.",
+        "tag": "نفت",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ABC (Australian Broadcasting Corporation)",
+        "url": "https://www.abc.net.au/news/2026-09-09/asx-markets-business-live-news/106752628",
+        "clean_url": "https://www.abc.net.au/news/2026-09-09/asx-markets-business-live-news/106752628",
+        "image": "https://live-production.wcms.abc-cdn.net.au/a10a96b8fb841e8baf05fd853e8b2c09?impolicy=wcms_watermark_news&cropH=1686&cropW=2997&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+        "timestamp": 1788904200.0
+    },
+    {
         "id": "d2861c8613",
         "title_fa": "تحریم کامل و همه‌جانبه بخش هوانوردی ایران توسط آمریکا",
         "title_en": "U.S. hits remaining parts of Iran's aviation sector with sanctions in latest move to isolate Tehran",
@@ -74,6 +110,25 @@
         "timestamp": 1788884687.0
     },
     {
+        "id": "8eea09c64d",
+        "title_fa": "انهدام ۵ نفتکش سپاه توسط سنتکام در پاسخ به حملات موشکی",
+        "title_en": "سنتکام ۵ نفتکش دیگر ایران را منهدم کرد، سپاه با موشک‌های خوشه‌ای اردن را هدف گرفت",
+        "summary": [
+            "نیروهای آمریکایی در واکنشی ضربتی، ۵ نفتکش حامل نفت خام متعلق به سپاه پاسداران را در دریای عمان و نزدیکی جزیره خارک منهدم کردند.",
+            "این اقدام پاسخ مستقیم سنتکام به حملات موشکی بالستیک سپاه به سمت ناو جنگی ایالات متحده طی دو روز گذشته بوده است.",
+            "ارتش آمریکا پیش از انهدام شناورها اقدام به تخلیه خدمه کرد تا پیام هشدار نظامی صریحی بدون تلفات انسانی به تهران بفرستد."
+        ],
+        "impact": "تشدید فوق‌العاده درگیری مستقیم نظامی در خلیج فارس و وارد آمدن ضربه سنگین به صادرات نفتی سپاه.",
+        "tag": "نظامی",
+        "urgency": 10,
+        "sentiment": -0.9,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609089305",
+        "clean_url": "https://www.iranintl.com/202609089305",
+        "image": "http://www.bing.com/th?id=ONUT.2SoVL-wl-rIY5Kc43anMNQ&pid=News",
+        "timestamp": 1788883320.0
+    },
+    {
         "id": "67319cff97",
         "title_fa": "موج دوم حملات موشکی ایران به ناوهای جنگی آمریکا",
         "title_en": "Iran launched undisclosed second wave of attacks on US Navy ships",
@@ -93,6 +148,24 @@
         "timestamp": 1788871800.0
     },
     {
+        "id": "df57f1e546",
+        "title_fa": "تحریم‌های گسترده و جدید آمریکا علیه صنعت هوانوردی ایران",
+        "title_en": "US Treasury ratchets up pressure on Iran with sweeping new aviation sanctions",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا در راستای تشدید فشار حداکثری، ۳۶ مورد تحریم جدید علیه بخش هوانوردی و شرکت‌های مرتبط با جمهوری اسلامی اعمال کرد.",
+            "این اقدام شریان‌های لجستیکی و هوایی وابسته به حاکمیت را هدف قرار داده تا امکان دور زدن تحریم‌ها و ترانزیت تسلیحاتی را مسدود کند."
+        ],
+        "impact": "فلج‌تر شدن ناوگان هوایی ایران و افزایش تنگنای اقتصادی و ترانزیتی تهران.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/money/general/us-treasury-ratchets-up-pressure-on-iran-with-sweeping-new-aviation-sanctions/ar-AA2bPk0l",
+        "clean_url": "https://www.msn.com/en-us/money/general/us-treasury-ratchets-up-pressure-on-iran-with-sweeping-new-aviation-sanctions/ar-AA2bPk0l",
+        "image": "http://www.bing.com/th?id=ONUT.sd1DaGX-XWK7iu2sleIsfg&pid=News",
+        "timestamp": 1788869201.0
+    },
+    {
         "id": "ebebd0e6c9",
         "title_fa": "واکنش ترامپ به نفت ۱۰۰ دلاری و ادعای پیروزی در جنگ",
         "title_en": "Iran live updates: Trump says oil prices will drop 'when we win the war'",
@@ -109,6 +182,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-oil-prices-will-drop-when-we-win-the-war/ar-AA2bItw1",
         "image": "http://www.bing.com/th?id=ONUT.n0qJ4ooQgn1Dq6MpwXPDhw&pid=News",
         "timestamp": 1788867635.0
+    },
+    {
+        "id": "5db29ec423",
+        "title_fa": "بستن کنسولگری بریتانیا توسط اسرائیل در پاسخ به تحریم شهرک‌ها",
+        "title_en": "اسرائیل در واکنش به ممنوعیت واردات کالاهای شهرک‌نشینان، کنسولگری بریتانیا را می‌بندد",
+        "summary": [
+            "تل‌آویو در واکنشی قاطع به تصمیم بریتانیا، فرانسه و کانادا برای تحریم کالاهای تولیدشده در شهرک‌های کرانه باختری، کنسولگری بریتانیا در اورشلیم شرقی را تعطیل می‌کند.",
+            "اسرائیل همچنین بریتانیا را از مأموریت‌های هماهنگی غزه و آموزش نیروهای تشکیلات خودگردان محروم کرد تا هزینه دیپلماتیک سنگینی به لندن تحمیل کند."
+        ],
+        "impact": "تعمیق شکاف دیپلماتیک میان اسرائیل و متحدان غربی و تغییر معادلات مدیریتی در غزه.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609080324",
+        "clean_url": "https://www.iranintl.com/202609080324",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/fcad1c20db3992e60c29f2dc0d89ef52d8be5e87-800x600.jpg?rect=0,90,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1788861360.0
     },
     {
         "id": "28b5952cec",
@@ -163,6 +254,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWlpZWXM0dk5CZXZvNVU2clZLaFc4WW9aX3FiTmw5dG5zQmtiQUNUbl91R2p4b01GVmJ2SEhHMGVablVpaEVIR3p0NFMwc3JXSTZVOUpJZGM0T1JPZHlxQzlQSzY0QUZpWXN2MElIWVduS0xJZmRNY0kwdG91ZmxOVFptTzNOUXdydFRIWVZyNDN0RGFwd3FzS0NDMXl5eEh6NC1KUF9mT3hkQk5sRlE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788855300.0
+    },
+    {
+        "id": "0a8e79dbec",
+        "title_fa": "ابلاغ دستورالعمل جدید حجاب در دانشگاه‌ها و احیای گشت‌ها",
+        "title_en": "حکومت از ابلاغ قریب‌الوقوع دستورالعمل حجاب اجباری در دانشگاه‌های ایران خبر داد",
+        "summary": [
+            "مقامات حکومت با ابلاغ دستورالعمل‌های سخت‌گیرانه در دانشگاه‌ها و احیای دوباره گروه‌های تذکر لسانی، فاز جدیدی از سرکوب پوشش اختیاری را آغاز کرده‌اند.",
+            "این تشدید فشارها واکنش سرآسیمه حاکمیت در برابر مقاومت مدنی شهروندان و ترس از شکل‌گیری موج تازه اعتراضات است."
+        ],
+        "impact": "افزایش چشمگیر پتانسیل خشم عمومی و تعمیق شکاف میان جامعه و حاکمیت.",
+        "tag": "سرکوب",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609087914",
+        "clean_url": "https://www.iranintl.com/202609087914",
+        "image": "http://www.bing.com/th?id=ONUT.t1LuTpCN6AU--1-9gYxw2g&pid=News",
+        "timestamp": 1788851400.0
     },
     {
         "id": "d2cf55a2ef",
@@ -5413,116 +5522,5 @@
         "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191558812.html",
         "image": "https://media.zenfs.com/en/barchart_com_477/ca88e087f12a3f8d2cc35756e5cb650e.jpg",
         "timestamp": 1787685024.0
-    },
-    {
-        "id": "ecae34ce40",
-        "title_fa": "بی‌اثری فشار حداکثری؛ تهران چیزی برای از دست دادن ندارد",
-        "title_en": "Iran May Have Little to Lose as U.S. Tries to Squeeze Its Economy",
-        "summary": [
-            "تشدید تحریم‌های اقتصادی آمریکا به نقطه‌ای رسیده که دیگر ابزار تحریمی جدید کارساز نیست و به بن‌بست خورده است.",
-            "قرار گرفتن تهران در وضعیت «چیزی برای از دست دادن نداشتن»، خطر اقدامات تقابلی و تهاجمی را بشدت بالا می‌برد."
-        ],
-        "impact": "بی‌اثر شدن ابزار تحریم و سوق یافتن تهران به سمت پاسخ‌های سخت نظامی و منطقه‌ای.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjU0VWNoYjBxYlZ6c2FnZmJ4cHltY2NiUmUwNEhWLXVJNXNiV2pYSFBsQVlfV1R3T0l0YVJNLWxnd1BEX05mVmdabnZuZDdFV1hCakI2UUdlR0IxTTJrMkpHTTJmOV8wQ0dibVZSSmR6YjBuNEZ0bU1DTExzNmFjLTlIRW9OX0N5QVE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSjU0VWNoYjBxYlZ6c2FnZmJ4cHltY2NiUmUwNEhWLXVJNXNiV2pYSFBsQVlfV1R3T0l0YVJNLWxnd1BEX05mVmdabnZuZDdFV1hCakI2UUdlR0IxTTJrMkpHTTJmOV8wQ0dibVZSSmR6YjBuNEZ0bU1DTExzNmFjLTlIRW9OX0N5QVE",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787682520.0
-    },
-    {
-        "id": "7c17941480",
-        "title_fa": "طرح واشنگتن برای قطع دسترسی خزانه‌داری تهران به دلار",
-        "title_en": "Rep. Pat Fallon: Economic Pressure May Be the Key to Forcing Iran's Hand",
-        "summary": [
-            "نماینده کنگره آمریکا از راهبرد جدید خزانه‌داری برای اخراج تمام نهادهای تسهیل‌کننده پولشویی ایران از سیستم دلاری خبر داد.",
-            "فشار شدید اقتصادی اخیر، شکاف را میان جناح‌های سیاسی و فرماندهان سپاه در تهران عمیق‌تر کرده است.",
-            "هدف اصلی این طرح، خشکاندن منابع درامدی سپاه و فلج کردن کامل شریان‌های ارزی حکومت است."
-        ],
-        "impact": "انسداد بیشتر مجاری ارزی کشور و جهش احتمالی قیمت دلار در بازار آزاد تهران.",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "FOX News Radio",
-        "url": "https://radio.foxnews.com/2026/08/25/rep-pat-fallon-economic-pressure-may-be-the-key-to-forcing-irans-hand/",
-        "clean_url": "https://radio.foxnews.com/2026/08/25/rep-pat-fallon-economic-pressure-may-be-the-key-to-forcing-irans-hand",
-        "image": "https://static-radio.foxnews.com/radio.foxnews.com/content/uploads/2022/08/pat-fallon-e1660938618892.jpg",
-        "timestamp": 1787680200.0
-    },
-    {
-        "id": "a37fa8b7ff",
-        "title_fa": "دوراهی واشنگتن؛ تغییر رفتار جمهوری اسلامی یا تغییر رژیم؟",
-        "title_en": "Iran Regime Change: Why it has failed and what must happen now",
-        "summary": [
-            "بحث‌های جدی میان چهره‌های کلیدی آمریکا مانند مارکو روبیو بر سر هدف نهایی در قبال ایران بالا گرفته و گزینه «تغییر رژیم» را به متن محاسبات آورده است.",
-            "واقعه ۷ اکتبر و فعال شدن محور نیابتی، استراتژی قدیمی «مهار» را کاملاً ناکارآمد و شکست‌خورده نشان داد.",
-            "ارزیابی‌ها در واشنگتن و تل‌آویو نشان می‌دهد بدون تغییر ساختاری در تهران، خطر ایران هسته‌ای و نیابتی‌ها هرگز رفع نخواهد شد."
-        ],
-        "impact": "افزایش احتمال اتخاذ استراتژی‌های تهاجمی‌تر و حمایت مستقیم از سناریوی گذار توسط واشنگتن.",
-        "tag": "دیپلماسی",
-        "urgency": 8,
-        "sentiment": -0.6,
-        "source": "Israel National News",
-        "url": "https://www.israelnationalnews.com/news/432246",
-        "clean_url": "https://www.israelnationalnews.com/news/432246",
-        "image": "https://2.a7.org/files/pictures/000/1124496.jpg",
-        "timestamp": 1787677200.0
-    },
-    {
-        "id": "ac5fd06c52",
-        "title_fa": "توقف وقت‌های کنسولی آمریکا؛ تشدید محاصره مهاجرتی ایرانیان",
-        "title_en": "دولت ترامپ وقت‌های مصاحبه ویزای آمریکا در سراسر جهان را به‌طورموقت متوقف کرد",
-        "summary": [
-            "دولت آمریکا به بهانه برگزاری دوره‌های آموزشی جهانی، وقت‌های مصاحبه ویزا را در سراسر جهان لغو یا معلق کرد.",
-            "این اقدام بلافاصله پس از لغو حکم دادگاه فدرال رخ داد تا عملاً مانع ورود اتباع کشورهای تحت محدودیت از جمله ایران شود."
-        ],
-        "impact": "انسداد کامل راه‌های قانونی مهاجرت و سفر برای شهروندان ایرانی.",
-        "tag": "مهاجرت",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608267661",
-        "clean_url": "https://www.iranintl.com/202608267661",
-        "image": "http://www.bing.com/th?id=ONUT.ukXPHIFbeUbzOOTGhMZaNQ&pid=News",
-        "timestamp": 1787677140.0
-    },
-    {
-        "id": "6961fcd62c",
-        "title_fa": "شرط هسته‌ای ترامپ برای عربستان: عادی‌سازی روابط با اسرائیل",
-        "title_en": "ترامپ توافق هسته‌ای با عربستان را برای تایید به کنگره فرستاد",
-        "summary": [
-            "دونالد ترامپ توافق همکاری هسته‌ای غیرنظامی با ریاض را به کنگره فرستاد اما اجرای آن را رسماً به پیوستن عربستان به «پیمان ابراهیم» مشروط کرد.",
-            "واشنگتن با اهرم فناوری هسته‌ای می‌کوشد ساختار امنیتی جدیدی در منطقه علیه جمهوری اسلامی شکل دهد."
-        ],
-        "impact": "فشار سنگین دیپلماتیک بر ریاض برای تسریع در عادی‌سازی روابط با تل‌آویو.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608260716",
-        "clean_url": "https://www.iranintl.com/202608260716",
-        "image": "http://www.bing.com/th?id=ONUT.uOw4fJ6ti_LrAV2_fi-rWw&pid=News",
-        "timestamp": 1787677140.0
-    },
-    {
-        "id": "b5f58accbe",
-        "title_fa": "مذاکرات تهران و مسقط برای گشودن مشروط تنگه هرمز",
-        "title_en": "Iran says Hormuz strait still closed despite transit corridor talks",
-        "summary": [
-            "ایران و عمان در حال تنظیم یک طرح مرحله‌ای برای پاک‌سازی مین‌ها و ایجاد مسیر عبور موقت در تنگه هرمز هستند، اما تهران بازگشایی نهایی را مستقیماً به توقف کامل جنگ و پایان محاصره توسط آمریکا مشروط کرده است.",
-            "وزیر خزانه‌داری آمریکا هدف تحریم‌های تازه را «خفه کردن اقتصادی» ایران اعلام کرده که نشان‌دهنده تشدید بی‌سابقه فشار بر شریان‌های مالی کشور است.",
-            "عباس عراقچی طرح مشترک با مسقط را نشانه کنترل ایران بر گذرگاه‌های استراتژیک می‌داند، در حالی که واشنگتن درصدد قطع کامل صادرات نفت و انرژی ایران است."
-        ],
-        "impact": "امنیت دریانوردی و قیمت جهانی انرژی در گروی بازی خطرناک ایران با کارت تنگه هرمز و تشدید تحریم‌های خفه‌کننده آمریکا است.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/world/articles/iran-says-hormuz-strait-still-051302996.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/iran-says-hormuz-strait-still-051302996.html",
-        "image": "http://www.bing.com/th?id=ONUT.M14lmNHJ9iKxDEpc3Bycsw&pid=News",
-        "timestamp": 1787677140.0
     }
 ]
