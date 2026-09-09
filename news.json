@@ -1,5 +1,24 @@
 [
     {
+        "id": "055bd27661",
+        "title_fa": "حمله مستقیم ایران به پایگاه آمریکا در اردن و ترانزیت هرمز",
+        "title_en": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk",
+        "summary": [
+            "تهران با حمله به پایگاه نظامی آمریکا در اردن و هدف قرار دادن کشتی‌ها در تنگه هرمز، درگیری‌ها را به سطح مواجهه مستقیم کشاند.",
+            "غرق شدن نفتکش‌ها و این پاسخ هجومی نشان می‌دهد جمهوری اسلامی روی گزینه تنش‌زایی حداکثری برای فرار از تنگنا شرط‌بندی کرده است.",
+            "واکنش نظامی حتمی واشنگتن طی ساعت‌های آینده، ابعاد و دامنه این بحران منطقه‌ای را مشخص خواهد کرد."
+        ],
+        "impact": "جهش فوری قیمت جهانی نفت و قرار گرفتن منطقه در آستانه درگیری مستقیم نظامی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE",
+        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1788926820.0
+    },
+    {
         "id": "15b84b23a6",
         "title_fa": "جهش قیمت نفت به مرز ۱۰۰ دلار و ادعای توقیف زیردریایی آمریکا",
         "title_en": "NZ dollar tests 13 year lows",
@@ -90,6 +109,24 @@
         "clean_url": "https://www.msn.com/en-us/news/other/iran-s-uranium-enriched-to-a-short-step-from-weapons-grade-has-gone-unverified-for-the-better-part-of-a-year-per-the-iaea/ar-AA2bOzKL",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788889061.0
+    },
+    {
+        "id": "c60e62a541",
+        "title_fa": "آمادگی تهران برای تنش‌زایی در پاسخ به فشارهای حداکثری آمریکا",
+        "title_en": "Iran Signals Readiness to Escalate Fight in Face of Rising U.S. Pressure",
+        "summary": [
+            "جمهوری اسلامی در مواجهه با خفگی اقتصادی و هراس از سست شدن تسلطش بر تنگه هرمز، رویکرد تهاجمی‌تری پیش گرفته است.",
+            "ارزیابی‌ها نشان می‌دهد تهران قصد دارد با گروگان‌گرفتن امنیت انرژی، غرب را مجبور به عقب‌نشینی از فشارهای مالی کند."
+        ],
+        "impact": "افزایش ریسک ترانزیت دریایی در خلیج فارس و احتمال تقابل شدیدتر تحریمی و نظامی.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "The New York Times",
+        "url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
+        "clean_url": "https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html",
+        "image": "http://www.bing.com/th?id=ONUT.c6VBwNflK1nvdpygY0yf6g&pid=News",
+        "timestamp": 1788886860.0
     },
     {
         "id": "a1a98fdcaa",
@@ -5485,42 +5522,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeFhyNjFOLW5mSzZtUWJNYTRoUEFlQjU0MlY2RVQyOXgzREtXdDJERWdNc2xHWUVvajFYb0RtcVRJTENUQ2QtMlB0cGhIWndIanBNVmVTZExUUU5yUTduMmNfNzZRWXFNb093UlJUTVYzYWlud3V1LWhnNlIyVTFKaUx3Z0x4RDlNN0tTNDd2Y3hEanp2Q29KcmhLaElURzRxLUx1aEIxQk9hZ042NGc",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1787688750.0
-    },
-    {
-        "id": "1c4ba394a2",
-        "title_fa": "نظم جدید خاورمیانه در سایه عقب‌نشینی تدریجی آمریکا",
-        "title_en": "A Post-US Regional Order? The Shifting Security Architecture in MENA Amid the Iran War",
-        "summary": [
-            "بحران ایران ثابت کرد چتر امنیتی سنتی آمریکا در منطقه دیگر کارکرد سابق را ندارد.",
-            "کشورهای عربی خلیج فارس برای مهار خطر جنگ، به سمت دیپلماسی مستقیم با تهران و چین سوق پیدا کرده‌اند."
-        ],
-        "impact": "تضعیف ائتلاف‌های سنتی واشنگتن و شکل‌گیری معماری امنیتی جدید بدون محوریت آمریکا.",
-        "tag": "ژئوپلیتیک",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Quincy Institute for Responsible Statecraft",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEkxWHdqMkdiOVNxTkliaDVMN2xZbU4xdWVnYzFyWm4taWVZVUZ1ZW81R0trTDN0djVaS3B1YmE3OENvdkl6ZF9GdDJnUk45b05Ecm1xRWdkY2xLYUtnSENnbXk0c1JfZlgtbktDMUNiSHYyMGN1NG1LbXUtYzJRN0RyVlJzbEVTZFJRNVlpM29tVHVLaGlxLXgtUVFaZzNTN21ZUDFYMnZEQ1h6X09JOTRsdjVXX1k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEkxWHdqMkdiOVNxTkliaDVMN2xZbU4xdWVnYzFyWm4taWVZVUZ1ZW81R0trTDN0djVaS3B1YmE3OENvdkl6ZF9GdDJnUk45b05Ecm1xRWdkY2xLYUtnSENnbXk0c1JfZlgtbktDMUNiSHYyMGN1NG1LbXUtYzJRN0RyVlJzbEVTZFJRNVlpM29tVHVLaGlxLXgtUVFaZzNTN21ZUDFYMnZEQ1h6X09JOTRsdjVXX1k",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1787688667.0
-    },
-    {
-        "id": "00685acb8e",
-        "title_fa": "افت شدید قیمت نفت با بازگشت دیپلمات‌های آمریکایی به منطقه",
-        "title_en": "Crude Oil Prices Sharply Lower as Middle East Hostilities Subside",
-        "summary": [
-            "قیمت نفت پس از انتشار اخبار بازگشت دیپلمات‌های آمریکایی به سفارتخانه‌های خاورمیانه بیش از ۳ درصد ریزش کرد.",
-            "عبور حدود ۴۰ نفتکش از تنگه هرمز در یک شب نشان داد که شایعات مربوط به مسدود شدن کامل این شاهراه واقعی نیست.",
-            "سیگنال‌های واشنگتن مبنی بر عدم تمایل به شروع یک جنگ تمام‌عیار، هیجان بازار جهانی انرژی را کاملاً تخلیه کرده است."
-        ],
-        "impact": "کاهش درآمدهای ارزی ایران به دلیل افت قیمت جهانی نفت و افت هیجان بازار انرژی.",
-        "tag": "نفت",
-        "urgency": 5,
-        "sentiment": 0.3,
-        "source": "Barchart",
-        "url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191558812.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-oil-prices-sharply-lower-191558812.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/ca88e087f12a3f8d2cc35756e5cb650e.jpg",
-        "timestamp": 1787685024.0
     }
 ]
