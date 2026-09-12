@@ -19,6 +19,25 @@
         "timestamp": 1789199902.0
     },
     {
+        "id": "4bdf2fd4a6",
+        "title_fa": "تصرف جزیره استراتژیک پریم در باب‌المندب توسط حوثی‌ها",
+        "title_en": "Iran’s Houthi allies capture strategic island on vital oil shipping route",
+        "summary": [
+            "حوثی‌های مورد حمایت جمهوری اسلامی با عقب‌نشینی نیروهای وابسته به عربستان، کنترل جزیره حیاتی پریم را در گلوگاه باب‌المندب به دست گرفتند.",
+            "تسلط بر این جزیره کلیدی، شریان ترانزیت انرژی و کشتیرانی بین‌المللی از بابل‌المندب تا کانال سوئز را زیر اهرم فشار مستقیم پهپادی و موشکی حوثی‌ها قرار می‌دهد.",
+            "حملات هوایی ریاض پس از عقب‌نشینی نیروهایش، عملاً افشاکننده شکست استراتژیک ائتلاف و دست‌پاچگی در برابر پیشروی‌های اخیر حوثی‌هاست."
+        ],
+        "impact": "افزایش خطرات امنیت دریانوردی، جهش هزینه‌های بیمه کشتیرانی و احتمال بالا رفتن قیمت جهانی نفت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
+        "clean_url": "https://www.theguardian.com/world/2026/sep/11/iran-houthi-allies-capture-strategic-island-bab-al-mandab-strait",
+        "image": "https://i.guim.co.uk/img/media/5eff73a7a26c674254ad73697082a0fbe13b4973/0_254_4682_3746/master/4682.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=067e43ae7b6d8a742dd725b7dba3b423",
+        "timestamp": 1789189200.0
+    },
+    {
         "id": "99b4e3f2e6",
         "title_fa": "شعله‌ور شدن جبهه‌های نیابتی تهران همزمان با فشارهای تازه واشنگتن",
         "title_en": "Iran-Backed Fronts Flare as Washington Presses Tehran",
@@ -5506,24 +5525,5 @@
         "clean_url": "https://www.iranintl.com/202608299259",
         "image": "http://www.bing.com/th?id=ONUT.bD2ipGPJ0PN3XK8QDmElQA&pid=News",
         "timestamp": 1787936400.0
-    },
-    {
-        "id": "9b4a0f65b7",
-        "title_fa": "طرح ترامپ برای نفت ونزوئلا؛ تسلط بر ۶۵ میلیارد بشکه ذخایر",
-        "title_en": "ترامپ برای در اختیار گرفتن یک‌پنجم ذخایر نفت ونزوئلا خیز برداشت",
-        "summary": [
-            "دونالد ترامپ از توافقی برای کنترل اکثریت بر یک‌پنجم ذخایر نفت ونزوئلا خبر داد که هدف آن کاهش قیمت جهانی سوخت و فشار بر بازار انرژی است.",
-            "همکاری وزرای خارجه و جنگ آمریکا با دولت موقت ونزوئلا، شریان مالی دور زدن تحریم‌ها و همکاری‌های نفتی تهران-کاراکاس را رسماً متوقف می‌کند.",
-            "وارد کردن شرکت‌های خصوصی آمریکایی به این پروژه، دست برتر واشنگتن را در بازار جهانی نفت تثبیت خواهد کرد."
-        ],
-        "impact": "افت قیمت جهانی نفت و بی‌اثر شدن شبکه قاچاق نفت جمهوری اسلامی.",
-        "tag": "نفت",
-        "urgency": 7,
-        "sentiment": 0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202608288151",
-        "clean_url": "https://www.iranintl.com/202608288151",
-        "image": "http://www.bing.com/th?id=ONUT.bPp2uRAnfvNERvDbdMofog&pid=News",
-        "timestamp": 1787935980.0
     }
 ]
