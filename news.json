@@ -1,5 +1,24 @@
 [
     {
+        "id": "5922c0d054",
+        "title_fa": "خط‌ونشان محسن رضایی برای واشنگتن؛ رد مذاکره و تهدید نفت",
+        "title_en": "US Air Force colonel shot down over Iran recounts 'modern-day miracle'",
+        "summary": [
+            "محسن رضایی سیگنال‌های واشنگتن برای گفتگو را بازی روانی خواند و هرگونه مذاکره را مشروط به تمکین کامل آمریکا دانست.",
+            "تهران با دست گذاشتن بر امنیت تنگه هرمز و صادرات نفت، از ابزار انرژی برای باج‌گیری دیپلماتیک استفاده می‌کند.",
+            "این خط کلامی تهاجمی، احتمال توافق سریع یا کاهش تنش در کوتاه‌مدت را کاملاً منتفی می‌سازد."
+        ],
+        "impact": "تداوم تنش لفظی و احتمال تحرکات بیشتر در تنگه هرمز که ناامنی بازار انرژی را تشدید می‌کند.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/live-news/us-air-force-colonel-shot-down-over-iran-recounts-modern-day-miracle",
+        "clean_url": "https://www.foxnews.com/live-news/us-air-force-colonel-shot-down-over-iran-recounts-modern-day-miracle",
+        "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/8bbea49dd354b3a9d1227235f0f74b74.jpg",
+        "timestamp": 1789429260.0
+    },
+    {
         "id": "81d13e263d",
         "title_fa": "تحریم بانک روسی توسط آمریکا برای انسداد شریان مالی ایران",
         "title_en": "U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
@@ -94,6 +113,25 @@
         "timestamp": 1789412663.0
     },
     {
+        "id": "4fd8d8cc25",
+        "title_fa": "جهش قیمت نفت در پی حمله به خط لوله عربستان",
+        "title_en": "Middle East Supply Constraints Lift Crude Oil Prices",
+        "summary": [
+            "حمله حوثی‌ها به خط لوله شرق به غرب عربستان، مسیر اصلی جایگزین تنگه هرمز را مسدود کرد و بازار را شوک داد.",
+            "تلاش مقامات آمریکایی برای آرام کردن بازار با مانور روی عبور نفت از هرمز، اثر موقتی داشت.",
+            "هدف قرار گرفتن شریان‌های حیاتی انرژی، شکنندگی شدید خطوط انتقال را در برابر حملات نیابتی آشکار کرد."
+        ],
+        "impact": "افزایش فوری قیمت جهانی نفت خام و بالا رفتن ریسک ترانزیت انرژی در خاورمیانه.",
+        "tag": "ارز و انرژی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Barchart",
+        "url": "https://finance.yahoo.com/energy/articles/middle-east-supply-constraints-lift-191350297.html",
+        "clean_url": "https://finance.yahoo.com/energy/articles/middle-east-supply-constraints-lift-191350297.html",
+        "image": "https://media.zenfs.com/en/barchart_com_477/be26e7c56ab8991d1d89507f82c52ba0.jpg",
+        "timestamp": 1789411689.0
+    },
+    {
         "id": "05e37818c6",
         "title_fa": "تعویق گفتگوهای امنیت تنگه هرمز توسط کشورهای عربی",
         "title_en": "Gulf states postpone strait of Hormuz talks with Iran as Yemen conflict intensifies",
@@ -185,6 +223,25 @@
         "clean_url": "https://www.msn.com/en-in/war-and-conflicts/warfare-technologies/us-israel-iran-war-latest-live-news-trump-says-iran-wants-to-make-a-deal-as-israeli-artillery-hits-near-beaufort-castle-in-southern-lebanon/ar-AA2cd8pi",
         "image": "http://www.bing.com/th?id=ONUT.adbsByYMs6GzjPllrZfOSg&pid=News",
         "timestamp": 1789388040.0
+    },
+    {
+        "id": "28be2c73f5",
+        "title_fa": "بازطراحی نظم خلیج فارس؛ تضعیف آمریکا و نفوذ بیشتر چین",
+        "title_en": "How will the Iran war reshape the Persian Gulf?",
+        "summary": [
+            "ارزیابی پژوهشگاه چتم هاوس از فرسایش موقعیت برتر آمریکا در منطقه پس از فروکش کردن درگیری‌ها خبر می‌دهد.",
+            "پادشاهی‌های عرب با تردید در چتر حمایتی واشنگتن، معادلات امنیتی خود را تجدیدنظر می‌کنند.",
+            "چین با استفاده از این خلاء استراتژیک، نقش فعال‌تری در ساختار سیاسی و اقتصادی خلیج فارس ایفا خواهد کرد."
+        ],
+        "impact": "تغییر موازنه قدرت بلندمدت در خلیج فارس و گرایش کشورهای عربی به سمت پکن.",
+        "tag": "ژئوپلیتیک",
+        "urgency": 5,
+        "sentiment": -0.4,
+        "source": "Chatham House",
+        "url": "https://www.chathamhouse.org/publications/the-world-today/2026-09/how-will-iran-war-reshape-persian-gulf",
+        "clean_url": "https://www.chathamhouse.org/publications/the-world-today/2026-09/how-will-iran-war-reshape-persian-gulf",
+        "image": "https://www.chathamhouse.org/sites/default/files/styles/16_9_media_small/public/2024-10/2024-10-03-past-events-bronwen-blinken.jpg?h=199d8c1f&itok=DroxWQ1H",
+        "timestamp": 1789377240.0
     },
     {
         "id": "e85c049728",
@@ -5479,59 +5536,5 @@
         "clean_url": "https://www.washingtonpost.com/world/2026/09/01/putin-pledges-support-iran-rallies-leaders-challenge-us",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788258180.0
-    },
-    {
-        "id": "ec2d22f149",
-        "title_fa": "رونق نفتی آمریکا و مرگ اهرم انرژی خاورمیانه",
-        "title_en": "The Americas’ oil bonanza will outlast the Iran conflict at expense of Mideast",
-        "summary": [
-            "جهش بی‌سابقه تولید نفت در قاره آمریکا جایگاه خاورمیانه را در بازار جهانی انرژی به شدت حاشیه‌ای کرده است.",
-            "جمهوری اسلامی دیگر توان اختلال در بازار نفت را ندارد و اهرم قدیمی تهدید صادرکنندگان از دست رفته است."
-        ],
-        "impact": "کاهش چشمگیر قدرت چانه‌زنی نفتی ایران و سقوط درآمدهای ارزی رژیم.",
-        "tag": "انرژی",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "The Arab Weekly",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1RmSHNDZWFQR2FmeGRJSzZ4alJ3eDBBWTlNZVV6cmNyaFdfN0dIVEpxcWFVUGo0LXA0OVdOVXZoZWJMeGNhQUR4LVhKcjQybC1KNjdQSDlMVVAwdHZiTldzU1ZlZnhWWU9FRk81YkNja3lSRUpPSW8wbjNjSzFoR2FIWHNXNnJTdGE3RnIzcHJCeTQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQ1RmSHNDZWFQR2FmeGRJSzZ4alJ3eDBBWTlNZVV6cmNyaFdfN0dIVEpxcWFVUGo0LXA0OVdOVXZoZWJMeGNhQUR4LVhKcjQybC1KNjdQSDlMVVAwdHZiTldzU1ZlZnhWWU9FRk81YkNja3lSRUpPSW8wbjNjSzFoR2FIWHNXNnJTdGE3RnIzcHJCeTQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788257823.0
-    },
-    {
-        "id": "c165b5cea3",
-        "title_fa": "آشفتگی جدید در راهبرد جنگی ترامپ علیه ایران",
-        "title_en": "New turbulence upends stability of Iran war for Trump",
-        "summary": [
-            "پیچیدگی‌های صحنه نبرد، محاسبات کاخ سفید برای پایان دادن به پرونده ایران را دچار نوسان کرده است.",
-            "سردرگمی میان گزینه حمله قاطع یا فشار اقتصادی، فرصت تنفس کوتاهی به تهران داده است."
-        ],
-        "impact": "تداوم بلاتکلیفی در بازارها و بی‌ثباتی شدید در فضای سیاسی منطقه.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "The Hill",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUtYUURvOXRYSVZWdFRSQWctZ3NqX0dJOTN5RnkwbFNsWDVJelYwejBUNEwzaGlPWlh5Qzc5Rl95TXM0aXR4ajlOODU4ZzNzZG5iR01oenZWa0QzalROQzk2LURGalVwSlNsTHJBSkdwRnItRzc0cEtOd1QzcDRsaGtyeGhfcVctdTJmemxDeEE0VzFuVUNUUU130gGfAUFVX3lxTE10MjdmbW0wSktlQTNuY0ltM2JIaEZNNUZNQnA3X2lMbG9KNDNsa19XSmdvWEdvNTU3SkhqemI1Zm5rczFud3RVWDhfSzU2VVhRQWc0VEl2YjR5NWlqNDlEbXV3WG1Tby1SaG1vdGFhNFZCN2lsU3J4OGdZTGNWYTJ1NU5BdlEtUzA2bVBkeU5aLWwtbFUtVm1ZOWN2bkkyRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUtYUURvOXRYSVZWdFRSQWctZ3NqX0dJOTN5RnkwbFNsWDVJelYwejBUNEwzaGlPWlh5Qzc5Rl95TXM0aXR4ajlOODU4ZzNzZG5iR01oenZWa0QzalROQzk2LURGalVwSlNsTHJBSkdwRnItRzc0cEtOd1QzcDRsaGtyeGhfcVctdTJmemxDeEE0VzFuVUNUUU130gGfAUFVX3lxTE10MjdmbW0wSktlQTNuY0ltM2JIaEZNNUZNQnA3X2lMbG9KNDNsa19XSmdvWEdvNTU3SkhqemI1Zm5rczFud3RVWDhfSzU2VVhRQWc0VEl2YjR5NWlqNDlEbXV3WG1Tby1SaG1vdGFhNFZCN2lsU3J4OGdZTGNWYTJ1NU5BdlEtUzA2bVBkeU5aLWwtbFUtVm1ZOWN2bkkyRQ",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788256800.0
-    },
-    {
-        "id": "a2705923af",
-        "title_fa": "فشار تحریم‌های آمریکا بر گرده دانشجویان ایرانی",
-        "title_en": "U.S. Sanctions on Iran Cut Off Students from Tests Needed for Study Abroad",
-        "summary": [
-            "تحریم‌های آمریکا دسترسی دانشجویان داخل کشور به آزمون‌های بین‌المللی برای اخذ پذیرش تحصیلی را قطع کرده است.",
-            "این محدودیتی ناخواسته است که به جای ضربه به بدنه حکومت، نسل جوان و نخبه را هدف قرار می‌دهد."
-        ],
-        "impact": "مسدود شدن راه خروج تحصیلی و فشار مضاعف بر جوانان جویای تحصیل در خارج.",
-        "tag": "تحریم",
-        "urgency": 4,
-        "sentiment": -0.8,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFB2WEhDZXpkVE9oVFpDbXloMFdyMUJyaXp6d2lnSHNXc2lKS0l1Zm5XSTI3dWVWM1VBUXdkenBBQjh1SzRCZlQ0MjNsVS1PMl9OV280NFR5dXJOYkJnd3B0MWhEUW1vOGhmQndoeUhDMmNqSTU0RTVXVDN1bUZHaEhQSXRkbVVmYlp6Sg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUFB2WEhDZXpkVE9oVFpDbXloMFdyMUJyaXp6d2lnSHNXc2lKS0l1Zm5XSTI3dWVWM1VBUXdkenBBQjh1SzRCZlQ0MjNsVS1PMl9OV280NFR5dXJOYkJnd3B0MWhEUW1vOGhmQndoeUhDMmNqSTU0RTVXVDN1bUZHaEhQSXRkbVVmYlp6Sg",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788253381.0
     }
 ]
