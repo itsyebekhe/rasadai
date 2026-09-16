@@ -1,5 +1,41 @@
 [
     {
+        "id": "0948959bbf",
+        "title_fa": "تلاش‌های نفوذ و تبلیغاتی جمهوری اسلامی علیه اسرائیل در تایلند",
+        "title_en": "Iran fuels anti-Israel sentiment in Thailand",
+        "summary": [
+            "دستگاه‌های اطلاعاتی و رسانه‌ای تهران در حال گسترش فعالیت‌های روان‌شناختی برای موج‌سازی ضداسرائیلی در تایلند هستند.",
+            "جنوب شرق آسیا به جبهه جدید جنگ نرم و تبلیغاتی ایران برای هدف قرار دادن افکار عمومی و منافع اسرائیل تبدیل شده است."
+        ],
+        "impact": "افزایش مخاطرات امنیتی برای شهروندان و گردشگران اسرائیلی در شرق آسیا.",
+        "tag": "عملیات روانی",
+        "urgency": 5,
+        "sentiment": -0.6,
+        "source": "israelhayom.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDRjZmVKTjBnLUltSVZqb1B0aG5pelpOUFpuSFc2dFlYcjJQWlVOREtpU3AzcURnb0pNZWhQeWxvbHlIVXMtWGlYZ19WWERaZ0kzdVpENWxUVWY0MzNfeEkyZGxjQUhZTVplRXhQUTJFcXpubmFvaktRYjBpdmx5elA1RnVhSW5BRDRTcQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRDRjZmVKTjBnLUltSVZqb1B0aG5pelpOUFpuSFc2dFlYcjJQWlVOREtpU3AzcURnb0pNZWhQeWxvbHlIVXMtWGlYZ19WWERaZ0kzdVpENWxUVWY0MzNfeEkyZGxjQUhZTVplRXhQUTJFcXpubmFvaktRYjBpdmx5elA1RnVhSW5BRDRTcQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789532109.0
+    },
+    {
+        "id": "ae5e91c594",
+        "title_fa": "رهگیری پهپاد مهاجم در مکه و ابراز تمایل مشروط ترامپ برای مذاکره",
+        "title_en": "Iran war live: Saudi Arabia says it shot down drone near Mecca",
+        "summary": [
+            "پدافند عربستان یک فروند پهپاد انتحاری را در نزدیکی شهر مکه سرنگون کرد که نشان از گسترش شعاع عملیات پرتابه‌ها دارد.",
+            "هم‌زمان دونالد ترامپ اعلام کرد علی‌رغم حفظ موضع قدرت، در صورت وجود شروط مناسب حاضر به مذاکره برای پایان جنگ است."
+        ],
+        "impact": "گسترش دامنه تهدیدات نظامی به عمق خاک عربستان همراه با سیگنال‌های شکننده دیپلماتیک از سوی واشنگتن.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.6,
+        "source": "The Independent",
+        "url": "https://www.msn.com/en-us/news/news/iran-war-live-saudi-arabia-says-it-shot-down-drone-near-mecca/ar-AA2ceLKA",
+        "clean_url": "https://www.msn.com/en-us/news/news/iran-war-live-saudi-arabia-says-it-shot-down-drone-near-mecca/ar-AA2ceLKA",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cfoEN.img?w=1200&h=800&m=4&q=81",
+        "timestamp": 1789529717.0
+    },
+    {
         "id": "f849ab390b",
         "title_fa": "انهدام دو قایق ایرانی توسط آمریکا در درگیری پهپادی",
         "title_en": "US military says it destroyed 2 Iranian boats trying to steal sea drone",
@@ -90,6 +126,24 @@
         "timestamp": 1789503389.0
     },
     {
+        "id": "d4008fed64",
+        "title_fa": "سومین مصوبه مجلس نمایندگان آمریکا برای سلب اختیارات جنگی ترامپ",
+        "title_en": "House votes for a third time to end the Iran war as conflict drags on",
+        "summary": [
+            "مجلس نمایندگان آمریکا در اقدامی کم‌سابقه، برای سومین بار طرح محدودسازی اختیارات نظامی ترامپ علیه ایران را به تصویب رساند.",
+            "این مصوبه دست ترامپ را برای ادامه یا گسترش عملیات نظامی علیه تهران بدون مجوز مستقیم کنگره می‌بندد."
+        ],
+        "impact": "ایجاد شکاف جدی در بدنه حاکمیت آمریکا و کند شدن روند تصمیم‌گیری‌های ناگهانی نظامی علیه ایران.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": 0.3,
+        "source": "Associated Press News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/house-votes-for-a-third-time-to-end-the-iran-war-as-conflict-drags-on/ar-AA2cizyS",
+        "clean_url": "https://www.msn.com/en-us/news/other/house-votes-for-a-third-time-to-end-the-iran-war-as-conflict-drags-on/ar-AA2cizyS",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789501228.0
+    },
+    {
         "id": "794f64ba5d",
         "title_fa": "هزینه ۳۸ میلیارد دلاری جنگ آمریکا و رد درخواست مذاکره",
         "title_en": "Iran war has cost well over $33.4 billion, Pentagon report says",
@@ -143,6 +197,60 @@
         "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-15/live-updates-908607",
         "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737803",
         "timestamp": 1789496880.0
+    },
+    {
+        "id": "3df842027e",
+        "title_fa": "تلاش سپاه برای صید شناورهای جاسوسی و پهپادی آمریکا در تنگه هرمز",
+        "title_en": "Iran’s drone hunt escalates as Tehran targets US spy tech to expose battlefield secrets",
+        "summary": [
+            "تیم‌های پهپادی ایران عملیات ویژه‌ای را برای تصرف و به دام انداختن شناورهای بی‌سرنشین آمریکایی در تنگه هرمز کلید زده‌اند.",
+            "هدف اصلی تهران از این اقدامات، دستیابی به کدها و فناوری‌های حساس جاسوسی ایالات متحده در منطقه است."
+        ],
+        "impact": "بالا رفتن ریسک برخورد مستقیم نظامی در حوزه خلیج فارس و خطر سرقت فناوری‌های هوشمند دریایی آمریکا.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-s-drone-hunt-escalates-as-tehran-targets-us-spy-tech-to-expose-battlefield-secrets/ar-AA2cjlzi",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-s-drone-hunt-escalates-as-tehran-targets-us-spy-tech-to-expose-battlefield-secrets/ar-AA2cjlzi",
+        "image": "http://www.bing.com/th?id=ONUT.MxVxM9a2iU90HYrCKvIR-w&pid=News",
+        "timestamp": 1789494970.0
+    },
+    {
+        "id": "9b0874ac60",
+        "title_fa": "خط‌ونشان قضایی و امنیتی سپاه برای رضا درمیشیان؛ در خواست توقیف اموال",
+        "title_en": "تشکیل پرونده قضایی برای یک فیلمساز؛ سپاه پاسداران خواستار توقیف اموال رضا درمیشیان شد",
+        "summary": [
+            "دستگاه قضایی با همراهی سپاه پاسداران پس از حمایت رضا درمیشیان از معترضان، اقدام به صدور قرار جلب برای این کارگردان کرده‌اند.",
+            "نهادهای امنیتی علاوه بر بازداشت، خواستار مصادره و توقیف کامل اموال این سینماگر شده‌اند تا هزینه انتقاد را سنگین‌تر کنند."
+        ],
+        "impact": "تشدید فشار مالی و امنیتی بر چهره‌های فرهنگی سرشناس برای تسریع خفقان و جلوگیری از همراهی آنان با اعتراضات.",
+        "tag": "سرکوب",
+        "urgency": 6,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609168300",
+        "clean_url": "https://www.iranintl.com/202609168300",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/9feb4119f88d07df123e0bcab07c33d408d9f59c-455x483.png?rect=0,57,455,239&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1789491600.0
+    },
+    {
+        "id": "21f10ed8db",
+        "title_fa": "تحلیل جاکوبین از سیاست منابع‌خوارانه و امپریالیسم عریان ترامپ",
+        "title_en": "Donald Trump's imperialism of decline is a global menace",
+        "summary": [
+            "نشریه جاکوبین تأکید می‌کند ترامپ پنهان‌کاری‌های معمول دیپلماتیک را کنار گذاشته و علناً به دنبال تصاحب منابع سایر کشورهاست.",
+            "این رویکرد تهاجمی نتیجه تضعیف موقعیت ساختاری آمریکا در عرصه بین‌المللی و اتکای محض به زورآزمایی است."
+        ],
+        "impact": "افزایش انزوای بین‌المللی واشنگتن و تعمیق بی‌اعتمادی متحدان سنتی به سیاست خارجی آمریکا.",
+        "tag": "تحلیل",
+        "urgency": 4,
+        "sentiment": -0.5,
+        "source": "Jacobin",
+        "url": "https://www.msn.com/en-us/news/other/donald-trump-s-imperialism-of-decline-is-a-global-menace/ar-AA2cgyVQ",
+        "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-s-imperialism-of-decline-is-a-global-menace/ar-AA2cgyVQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789484778.0
     },
     {
         "id": "9183819dd5",
@@ -5422,115 +5530,5 @@
         "clean_url": "https://www.foxnews.com/live-news/us-iran-war-news-trump-leader-latest-today-september-1",
         "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/012f80813f3e23bd5757453d33382195.jpg",
         "timestamp": 1788314700.0
-    },
-    {
-        "id": "ee6007c58d",
-        "title_fa": "سناریوی خطرناک تهران؛ هدف‌گیری تاسیسات نفتی خلیج فارس",
-        "title_en": "Explainer-What are Iran's options to retaliate as open warfare resumes with the US?",
-        "summary": [
-            "در صورت انسداد کامل صادرات نفت ایران، پالایشگاه‌ها و زیرساخت‌های انرژی کشورهای همسایه هدف مستقیم خواهند بود.",
-            "استراتژی تهران ایجاد رکود تورمی و شوک فلج‌کننده به بازار جهانی انرژی برای بالا بردن هزینه جنگ برای غرب است."
-        ],
-        "impact": "خطر فلج شدن صادرات نفت خلیج فارس و بروز بحران کمبود انرژی در سطح بین‌المللی.",
-        "tag": "انرژی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Al-Monitor",
-        "url": "https://www.al-monitor.com/originals/2026/08/explainer-what-are-irans-options-retaliate-open-warfare-resumes-us",
-        "clean_url": "https://www.al-monitor.com/originals/2026/08/explainer-what-are-irans-options-retaliate-open-warfare-resumes-us",
-        "image": "http://www.bing.com/th?id=ONUT.-1tHSCuqdr8guX3QegI_8A&pid=News",
-        "timestamp": 1788310620.0
-    },
-    {
-        "id": "1aabd57daf",
-        "title_fa": "حملات سنگین سنتکام به مواضع سپاه و خط‌ونشان جدید ترامپ",
-        "title_en": "US military completes latest strikes against Iran, while Trump vows more for Tehran's retaliation",
-        "summary": [
-            "سنتکام حملات جدیدی علیه اهداف سپاه پاسداران در خاک ایران انجام داد؛ هم‌زمان ترامپ هشدار داد پاسخ هرگونه اقدام تلافی‌جویانه تهران را بسیار محکم‌تر خواهد داد.",
-            "واشنگتن با هدف قرار دادن پرتابگرها و تاسیسات نظامی، به دنبال فلج کردن توان تهاجمی ایران است و درگیری وارد فاز مستقیم‌تر شده است.",
-            "تهران در بن‌بست سخت تاکتیکی قرار دارد: پاسخ نظامی خطر جنگ همه‌جانبه را بالا می‌برد و سکوت ضربه سنگینی به هیمنه داخلی و منطقه‌ای سپاه می‌زند."
-        ],
-        "impact": "افزایش ریسک درگیری مستقیم نظامی و تشدید فاز تهاجمی سنتکام در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "AP News",
-        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZEFCR3pYMFczek00TGhzVl9ram9qaUExZmVLWk05OGRzalVmc1J1dEcya2dON1I3TFRJNjZMRGxSeTVpZzVmMVdMVTFzMlFJWl9Vai01TVRFRWJ2eTlmU2ZuVW1QaHU4NzZneE5ndjRydTdRb2JrMWx6cnd4dUpwYg",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788304020.0
-    },
-    {
-        "id": "d18f315347",
-        "title_fa": "اولتیماتوم ترامپ به نابودی حاکمیت و حملات موشکی ایران به همسایگان",
-        "title_en": "Iran retaliates after US strikes, defying Trump’s warning it could be hit ‘much harder’",
-        "summary": [
-            "دونالد ترامپ هشدار داد در صورت تداوم تلافی تهران، حمله بعدی آمریکا چیز زیادی از ساختار جمهوری اسلامی باقی نخواهد گذاشت.",
-            "تهران با شلیک موشک‌های بالستیک به اردن، بحرین و کویت، دایره نبرد را به کل جغرافیای خلیج فارس کشید.",
-            "گزارش‌ها از تلفات غیرنظامیان در حملات آمریکا، وضعیت را به نقطه غیرقابل بازگشت نزدیک‌تر کرده است."
-        ],
-        "impact": "ورود منطقه به فاز جنگ گسترده و ریسک ضربات مستقیم آمریکا به مراکز اصلی تصمیم‌گیری در تهران.",
-        "tag": "نظامی",
-        "urgency": 10,
-        "sentiment": -0.95,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/us-military-carries-strikes-iranian-165923002.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/us-military-carries-strikes-iranian-165923002.html",
-        "image": "http://www.bing.com/th?id=ONUT.Z2Dw9LCnUoiqEAdMlrTwFA&pid=News",
-        "timestamp": 1788302700.0
-    },
-    {
-        "id": "3ca6845c16",
-        "title_fa": "تکذیب ادعای تهران درباره حمله به پایگاه آمریکا در اردن",
-        "title_en": "Iran war live: US military denies claim Tehran struck base in Jordan",
-        "summary": [
-            "ارتش آمریکا ادعای رسانه‌های حاکمیتی ایران درباره هدف قرار دادن پایگاه نظامی آمریکا در اردن را رسماً تکذیب کرد.",
-            "ادعاهای تلافی‌جویانه تهران بیشتر کارکرد تبلیغاتی درون‌مرزی دارد تا ضربات سنگین سنتکام را در انظار عمومی پوشش دهد."
-        ],
-        "impact": "تشدید جنگ اطلاعاتی و عملیات روانی همزمان با درگیری‌های میدانی در منطقه.",
-        "tag": "جنگ روانی",
-        "urgency": 6,
-        "sentiment": -0.4,
-        "source": "The Independent",
-        "url": "https://www.msn.com/en-us/news/other/iran-war-live-us-military-denies-claim-tehran-struck-base-in-jordan/ar-AA2bjqOd",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-war-live-us-military-denies-claim-tehran-struck-base-in-jordan/ar-AA2bjqOd",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bmfX5.img?w=1200&h=800&m=4&q=81",
-        "timestamp": 1788299092.0
-    },
-    {
-        "id": "3ef0b9b93a",
-        "title_fa": "جهش بودجه نظامی آمریکا و بحران در زنجیره تامین جهانی",
-        "title_en": "Iran War Reshapes Congress, Defense Spending, and Supply Chains",
-        "summary": [
-            "درگیری مستقیم با ایران معادلات کنگره آمریکا را تغییر داده و موجب افزایش ناگهانی بودجه‌های پنتاگون شده است.",
-            "ناامنی در مسیر استراتژیک خلیج فارس، هزینه‌های بیمه کشتیرانی و زنجیره تامین کالاهای حیاتی را ملتهب کرده است."
-        ],
-        "impact": "افزایش هزینه‌های حمل‌ونقل دریایی و رشد قیمت جهانی انرژی.",
-        "tag": "اقتصاد",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Legis1",
-        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yam1ZdV9XTElsVGg4SHM3Q0ZqcHFJYllmc0FaaGNCZVIyS0FWbU9BVXNPNTBRQW4zV0FRanNnODBnY2hhM2syX3dsV3pMQnl1RDR1d0NubUVnTWx2TlBGQUVScjRnMTVSVnFtQU4wWHlBM3J4UGx3?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yam1ZdV9XTElsVGg4SHM3Q0ZqcHFJYllmc0FaaGNCZVIyS0FWbU9BVXNPNTBRQW4zV0FRanNnODBnY2hhM2syX3dsV3pMQnl1RDR1d0NubUVnTWx2TlBGQUVScjRnMTVSVnFtQU4wWHlBM3J4UGx3",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788291592.0
-    },
-    {
-        "id": "f316b31567",
-        "title_fa": "جهش ۵ درصدی قیمت نفت در پی ناامنی در تنگه هرمز",
-        "title_en": "Crude Prices Surge on Escalation of US-Iran Hostilities",
-        "summary": [
-            "اصابت پرتابه‌ها به دو سوپرتانکر نفت در تنگه هرمز، قیمت نفت خام را به بالاترین سطح ۶ هفته اخیر رساند.",
-            "آمریکا حملات پیش‌دستانه‌ای را علیه پرتابگرهای سپاه که قصد مین‌گذاری در تنگه هرمز را داشتند اجرا کرده است."
-        ],
-        "impact": "خطر اختلال گسترده در ترانزیت جهانی انرژی و جهش ناگهانی تورم در بازارهای بین‌المللی.",
-        "tag": "ارز",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Barchart",
-        "url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-escalation-us-191334343.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/crude-prices-surge-escalation-us-191334343.html",
-        "image": "https://media.zenfs.com/en/barchart_com_477/8e9e755c7ef7fa235e7e307e9b9106d6.jpg",
-        "timestamp": 1788290331.0
     }
 ]
