@@ -1,5 +1,43 @@
 [
     {
+        "id": "6cf76311c7",
+        "title_fa": "نشست بریکس؛ چرخش هند و مانور سیاسی پزشکیان علیه تحریم‌ها",
+        "title_en": "BRICS Declaration: India’s Great U-turn on Iran",
+        "summary": [
+            "مسعود پزشکیان در اجلاس دهلی توانست متن بیانیه پایانی بریکس را به سمت مقابله با تحریم‌های یک‌جانبه آمریکا هدایت کند.",
+            "هند برای حفظ موازنه با ترامپ، اسم آمریکا را مستقیماً در بیانیه نیاورد اما مجبور شد به بندهای ضدتحریمی تن دهد.",
+            "این بیانیه اگرچه یک دستاورد رسانه‌ای برای تهران است، اما در عمل تعهد مالی یا راه‌حل ملموسی برای گشایش اقتصادی ایران ایجاد نمی‌کند."
+        ],
+        "impact": "فشار سیاسی چندجانبه بر واشنگتن بدون دستاورد ملموس مالی برای ایران.",
+        "tag": "دیپلماسی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Diplomat",
+        "url": "https://thediplomat.com/2026/09/brics-declaration-indias-great-u-turn-on-iran/",
+        "clean_url": "https://thediplomat.com/2026/09/brics-declaration-indias-great-u-turn-on-iran",
+        "image": "http://www.bing.com/th?id=ONUT.9JBbzVlqpvXrrpi8w1wpeA&pid=News",
+        "timestamp": 1789623060.0
+    },
+    {
+        "id": "30e60039d5",
+        "title_fa": "گزارش سازمان ملل؛ اتهام جنایت جنگی به آمریکا و جنایت علیه بشریت به ایران",
+        "title_en": "Iran war latest: Trump’s forces may have committed war crime, says UN",
+        "summary": [
+            "هیئت حقیقت‌یاب سازمان ملل دلایلی یافت که نشان می‌دهد نیروهای آمریکایی در حمله به یک مدرسه در ایران مرتکب جنایت جنگی شده‌اند.",
+            "این گزارش هم‌زمان حکومت ایران را به دلیل سرکوب مرگبار اعتراضات داخلی، به ارتکاب جنایت علیه بشریت متهم کرد.",
+            "صدور این گزارش فشار حقوقی بی‌سابقه‌ای را به‌طور هم‌زمان متوجه واشنگتن و تهران می‌کند."
+        ],
+        "impact": "تنگ‌تر شدن حلقه حقوقی بین‌المللی بر سرکوب‌گران داخلی و افشای ابعاد انسانی جنگ.",
+        "tag": "حقوق_بشر",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "The Independent on MSN",
+        "url": "https://www.msn.com/en-us/news/other/un-says-us-may-have-committed-war-crime-in-iran-school-attack-live/ar-AA2cozdR",
+        "clean_url": "https://www.msn.com/en-us/news/other/un-says-us-may-have-committed-war-crime-in-iran-school-attack-live/ar-AA2cozdR",
+        "image": "http://www.bing.com/th?id=ONUT.kK98fiyYGybMBPNbCXxukg&pid=News",
+        "timestamp": 1789616166.0
+    },
+    {
         "id": "5ee69eebb1",
         "title_fa": "تصویب لایحه تحریم‌های سنگین علیه روسیه در کنگره آمریکا",
         "title_en": "WATCH LIVE: House passes sweeping Russia sanctions bill, sending it to Trump",
@@ -35,6 +73,25 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON0w5T0N0a2JNYkg5aTJQd3pYUmZicGVsZ2RpZHpCX3BwQnpzWXIyZzJWb2paaC1hNVhnclZHa21McjZ4dGt3TkVDTElUbFdlTDI1WnBVS2tpNWlIckhsQXVBOFVST2xRWGIxcHBKbDFIcWNEcDR0dk5VZVVYMkptdGxKMFk5cFREOFZPbVFwbmF1MmduejVJbDVZaEE1b1dTV0JVWk1ZMkl4NFXSAbABQVVfeXFMTll0T1RfZTU1d2JmOGVXS05kakZsLWdHbUlHRmk3bGxsLWZpN3VSNnUwUENFeTRxelV0bjM3NF91OGVVNWhsLVJvTDVnSTMzTWxjV3pEYmRoajQ4Ymt6WDFrd0hyT2JSZUxJU2E3dEFWR21ZQ3N2YzluU3h4U2NaMEZMY3JwMkMzbDRORmNjM01CZHpUY3FienNpYVVuWkUxQno0WDltVTdRVTJMbTNMOWQ",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789588581.0
+    },
+    {
+        "id": "d6dfa4ac91",
+        "title_fa": "بن‌بست صادراتی ایران؛ تلاش‌ها برای دور زدن هرمز شکست خورد",
+        "title_en": "Iran’s Attempts to Get Around the Hormuz Blockade Are Hitting a Wall",
+        "summary": [
+            "صدها کامیون ایرانی پشت مرزهای زمینی گیر افتاده‌اند و خطوط ترانزیتی جایگزین تنگه هرمز عملاً قفل شده است.",
+            "برخلاف رقبای منطقه‌ای مانند عربستان که مسیرهای زمینی صادرات را توسعه داده‌اند، ایران به دلیل فقدان زیرساخت و فشار تحریم‌ها توان دور زدن انسداد دریایی را ندارد.",
+            "این شریان فلج‌شده، صادرات غیرنفتی و تامین ارز کشور را با بحران جدی مواجه می‌کند."
+        ],
+        "impact": "توقف ترانزیت زمینی و تشدید فشار بر شریان‌های اقتصادی و ارزی کشور.",
+        "tag": "اقتصاد",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "The Wall Street Journal",
+        "url": "https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe",
+        "clean_url": "https://www.wsj.com/world/middle-east/irans-attempts-to-get-around-the-hormuz-blockade-are-hitting-a-wall-c1f42cbe",
+        "image": "http://www.bing.com/th?id=ONUT.vat1JR5TSN2SozbTF3gSbg&pid=News",
+        "timestamp": 1789585200.0
     },
     {
         "id": "52f08bd642",
@@ -5473,60 +5530,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOSXVyVVZYZDJpajQzYlRFZmhPS1AwZTZaZFhPWG91MjZSdXM1VlU1cExZc2pjRnh2TlFiTXc2QnA4bElObi01UEZKMnFTWGROc295RFhoTUhFeVgwcjh2OTY5aWdHZm0yU3ZBbW50Slg2VVVFOGpPNlh1QVJZRExhcHNaeXVpbU1NeTJiZ0tUWklwYUlXU2s2bWpYYkVUSGdYeEN4OGdTeldSR3VTMl9MVWlKUTVnMjlEVGNWQkphbUdYV1hYR2x5blRNZkQ5NG9IUk4zc3VHcWxVNXFwSDJ6UUVJNVdGNFk3elZKTzBCOHNndGYwMmZ0UGJ4VWVyUmVSZUhua3BLa0p3QmdCLXhpaEEtOFlYZ0FleTRLYmhDX1AyZlpzVWxFekdUb1lNdDBabXVR",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788378334.0
-    },
-    {
-        "id": "e917e27b11",
-        "title_fa": "گسترش جبهه جنگ؛ حمله موشکی و پهپادی ایران به کویت",
-        "title_en": "Iran strikes Kuwait as Trump says renewed Mideast hostilities will not last 'too long'",
-        "summary": [
-            "ارتش کویت از درگیری پدافند هوایی خود با موج موشک‌ها و پهپادهای شلیک‌شده از سوی ایران خبر داد.",
-            "هدف قرار دادن کویت نشان می‌دهد ایران استراتژی بالا بردن هزینه برای کشورهای میزبان پایگاه‌های آمریکایی را فعال کرده است.",
-            "ادعای ترامپ مبنی بر کوتاه بودن زمان جنگ، با روند عملیاتی و کشیده شدن پای کشورهای همسایه به معرکه تناقض دارد."
-        ],
-        "impact": "تسریع گسترش جغرافیایی جنگ به خاک کشورهای عربی خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "CNBC on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-strikes-kuwait-as-trump-says-renewed-mideast-hostilities-will-not-last-too-long/ar-AA2bsffs",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-strikes-kuwait-as-trump-says-renewed-mideast-hostilities-will-not-last-too-long/ar-AA2bsffs",
-        "image": "http://www.bing.com/th?id=ONUT.QA_dVDSdvAp3DvMVdi2lUQ&pid=News",
-        "timestamp": 1788377192.0
-    },
-    {
-        "id": "e48a240b59",
-        "title_fa": "وزیر خزانه‌داری آمریکا: ایران در مارپیچ فروپاشی قرار دارد",
-        "title_en": "Bessent: Iran is in a \"death spiral,\" state will collapse \"slowly, then quickly\"",
-        "summary": [
-            "اسکات بسنت در نشست G20 تاکید کرد فشار خفه‌کننده مالی، حاکمیت ایران را به نقطه گسست و درگیری درون‌گروهی نزدیک می‌کند.",
-            "استراتژی واشنگتن بر فروپاشی تدریجی و سپس سریع ساختار قدرت از طریق مسدودسازی کامل رگ‌های اقتصادی استوار است."
-        ],
-        "impact": "تنگ‌تر شدن حلقه تحریم‌های مالی و ارزی بر منابع باقی‌مانده کشور.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "RealClearPolitics",
-        "url": "https://www.msn.com/en-us/news/other/bessent-iran-is-in-a-death-spiral-state-will-collapse-slowly-then-quickly/ar-AA2brt8I",
-        "clean_url": "https://www.msn.com/en-us/news/other/bessent-iran-is-in-a-death-spiral-state-will-collapse-slowly-then-quickly/ar-AA2brt8I",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2brqzC.img?w=1280&h=800&m=4&q=85",
-        "timestamp": 1788377080.0
-    },
-    {
-        "id": "0cf82169b9",
-        "title_fa": "توافق هسته‌ای آمریکا و عربستان؛ بنزین روی آتش جنگ با ایران",
-        "title_en": "Trump's Saudi nuke agreement may prolong the Iran war",
-        "summary": [
-            "واشنگتن در حال دادن امتیازات هسته‌ای به ریاض است تا جبهه منطقه‌ای علیه ایران را تقویت کند.",
-            "دستیابی عربستان به فناوری‌های پیشرفته هسته‌ای، رفتارهای دفاعی و موشکی ایران را تهاجمی‌تر خواهد کرد."
-        ],
-        "impact": "شتاب گرفتن مسابقه تسلیحاتی و هسته‌ای در منطقه خلیج فارس.",
-        "tag": "هسته‌ای",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Responsible Statecraft",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-saudi-nuke-agreement-may-prolong-the-iran-war/ar-AA2bronu",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-saudi-nuke-agreement-may-prolong-the-iran-war/ar-AA2bronu",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA1QbRpB.img?w=3998&h=2950&m=4&q=74",
-        "timestamp": 1788376086.0
     }
 ]
