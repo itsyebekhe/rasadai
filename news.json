@@ -1,5 +1,41 @@
 [
     {
+        "id": "b86b844735",
+        "title_fa": "فلج شدن خطوط هوایی ایران با تحریم‌های جامع آمریکا",
+        "title_en": "Iran’s Isolation Grows After U.S. Imposes Sweeping Sanctions on Airlines",
+        "summary": [
+            "واشنگتن با اعمال تحریم‌های سنگین جدید علیه ناوگان هوایی ایران، شریان ارتباطی و ترانزیتی کلیدی کشور را هدف قرار داد.",
+            "این اقدام مستقیم ارتباطات بین‌المللی را محدودتر کرده و هزینه‌های جابه‌جایی قطعات و خدمات را برای صنعت هوانوردی ایران سرسام‌آور می‌کند."
+        ],
+        "impact": "عمقی‌تر شدن انزوای بین‌المللی، زمین‌گیر شدن بخش دیگری از ناوگان هوایی و صعود هزینه‌های حمل‌ونقل.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd21jUktGbU5udUZNVXpKdXIxRUtvM0JnZ0M2VDIwZ1ZSMWQ3WE1TZS1yTUFQU0FtYS02UjVCRzEydVVJdlhfVjd3aHNfc2FTQTd3RWctSUxTeDVMSmNQUHlrSHMtWE92cEhfaDBzZmFIR1NWUTZHR0xabW5VcjFkVXRZT2NUbTd2T1lRb2FvcHlkRmdkUnhNWnB4R2x4Qk1BYTUtRw?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd21jUktGbU5udUZNVXpKdXIxRUtvM0JnZ0M2VDIwZ1ZSMWQ3WE1TZS1yTUFQU0FtYS02UjVCRzEydVVJdlhfVjd3aHNfc2FTQTd3RWctSUxTeDVMSmNQUHlrSHMtWE92cEhfaDBzZmFIR1NWUTZHR0xabW5VcjFkVXRZT2NUbTd2T1lRb2FvcHlkRmdkUnhNWnB4R2x4Qk1BYTUtRw",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789711020.0
+    },
+    {
+        "id": "8328a531cd",
+        "title_fa": "سردرگمی بازار جهانی نفت در پی بن‌بست نظامی ایران",
+        "title_en": "Oil Traders Stymied by Iran War Stalemate: Evening Briefing Americas",
+        "summary": [
+            "تداوم درگیری فرسایشی و نبود دورنمای روشن از پایان جنگ، بازار جهانی انرژی را در برزخ عدم قطعیت فرو برده است.",
+            "معامله‌گران بین ریسک جهش ناگهانی قیمت در صورت انفجار تنش‌ها و افت قیمت در صورت معامله ناگهانی سردرگم مانده‌اند."
+        ],
+        "impact": "تداوم نوسانات نامنظم در بازار انرژی و ریسک بالای سرمایه‌گذاری در حوزه نفت.",
+        "tag": "ارز و انرژی",
+        "urgency": 6,
+        "sentiment": -0.5,
+        "source": "Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW0xSnVFQ1JsVExqeGFxYUpCdjc0OXg5cVFuM29YTmhrVWE4WFJYaGZ1dXBVa0gycm5NTXlOVTJ0bjBEY0Fsb2VFcFFRc2VnQzVOY0lWYl9OMk5nWEgtQjl5MktrTlVjbFBzcDA2b0JNVWVhcXVtTlFjYjJwaWtJNnY5dGJPRXNuQzh6Y195WDJyVlRzYTFfTERqN21fTEwtcF9BdGliV3cxR2RqcFUwS2tmQWtMek5KaC10dThB?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbW0xSnVFQ1JsVExqeGFxYUpCdjc0OXg5cVFuM29YTmhrVWE4WFJYaGZ1dXBVa0gycm5NTXlOVTJ0bjBEY0Fsb2VFcFFRc2VnQzVOY0lWYl9OMk5nWEgtQjl5MktrTlVjbFBzcDA2b0JNVWVhcXVtTlFjYjJwaWtJNnY5dGJPRXNuQzh6Y195WDJyVlRzYTFfTERqN21fTEwtcF9BdGliV3cxR2RqcFUwS2tmQWtMek5KaC10dThB",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789704754.0
+    },
+    {
         "id": "45065b857d",
         "title_fa": "بازگشت گسترده پناهجویان افغان از ایران در پی شرایط دشوار اقتصادی",
         "title_en": "Impoverished by war in Iran, Afghan migrants return to Taliban rule",
@@ -34,6 +70,24 @@
         "clean_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORjVQd2NiZWtyS3YtZVpua0dsYzJIeEtycER0N0VQeENfTmtSMWlrZ3haOUc3UVYzSVd5T0l5TU0wdENTR2Zub0FzNjhZVldjQWVEWHdJSzZkMkdaYWhYWWlnTndOWVZIeERKd0c1b2JibFR2a0VMcjl1N2huenZBamVUbmxfVFlpalNfejAwTdIBowFBVV95cUxQQjZFUlhQU2NvcUlpX200R0FPMWZCX0h6UEVfQ3lEcE1nb3RjbGZ5OV94MkNtZWF2WTJvV09mOExnMmVwbkRHOGVxUHNBT3NadDJoZi15MlIydklFVURmaE5BTllaZDFLQzE4M0d2dG8tRi1JVDNUeXEtaVowX1FMVnpRbmxrRlBTZzBxWjVyVWZDTUI1MTM4amRpV0tVQ3ViZkNr",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789683780.0
+    },
+    {
+        "id": "db4288efa5",
+        "title_fa": "چالش ترامپ در سازمان ملل در پی فرسایشی شدن جنگ با ایران",
+        "title_en": "Analysis-as Iran war grinds on, Trump to face skeptical world leaders at UN",
+        "summary": [
+            "ترامپ در حالی عازم سازمان ملل می‌شود که رویکرد نظامی‌اش علیه تاسیسات هسته‌ای ایران با تردید و انتقاد جدی متحدان غربی روبرو شده است.",
+            "تداوم بن‌بست نظامی با تهران، دست بالا را از واشنگتن در افکار عمومی جهان گرفته و فشار دیپلماتیک بر کاخ سفید را تشدید کرده است."
+        ],
+        "impact": "تضعیف اجماع بین‌المللی علیه ایران و افزایش فشارهای دیپلماتیک بر واشنگتن برای عقب‌نشینی از گزینه نظامی.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-ca/politics/international-relations/analysis-as-iran-war-grinds-on-trump-to-face-skeptical-world-leaders-at-un/ar-AA2ctZK0",
+        "clean_url": "https://www.msn.com/en-ca/politics/international-relations/analysis-as-iran-war-grinds-on-trump-to-face-skeptical-world-leaders-at-un/ar-AA2ctZK0",
+        "image": "http://www.bing.com/th?id=ONUT.MJ6Lql3BMq20WJs3ai4zvA&pid=News",
+        "timestamp": 1789682606.0
     },
     {
         "id": "5730ab4e31",
@@ -5479,59 +5533,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN0xvN2xocmd5Z1NfSmpyTVV4Qm1WWnRQN0pzM3pnbGhPNjZLd1FCYV9zVUQ1eThYRGpSSEhyYzd3TkowdXcwV3ZHWDBuM2tZLWxBVExFdEpMOS1yQkE3WXhXNXBXQ3dPWnBQTERYazVrX0pGM2NzWVc5SDBGQjk5RTZld3M5dkh5ZlRQamxyU09zZ0E2S3NSQS1rSFlRYmUzOGdyQ1dVUXhoM0ZSbEFRelJJMnEyclhQNkE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788428520.0
-    },
-    {
-        "id": "bba1546f8b",
-        "title_fa": "هماهنگی آمریکا و امارات برای تشدید فشارهای مالی بر ایران",
-        "title_en": "Witkoff meets powerful UAE official amid crackdown on Iran",
-        "summary": [
-            "دیدار نماینده ویژه آمریکا با مقامات ارشد امارات با هدف بستن منافذ تنفسی اقتصادی تهران انجام شد.",
-            "واشنگتن تلاش می‌کند شبکه‌های دور زدن تحریم‌های جمهوری اسلامی در خلیج فارس را کاملاً فلج کند."
-        ],
-        "impact": "تنگ‌تر شدن حلقه تحریم‌های مالی و دشوارتر شدن مبادلات ارزی ایران از طریق امارات.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "Axios",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUTBmR21IOHhobUZKUmx6WGJEUlBtbHMtdDUxVENGTHFoMURPOHJ5YUhvTk16ckNoQTdDaUpVbVRWdnpEZnctQXRPWmFRQVRfdWpCeFJkOU16MUxLYlRJSnRLR3RTbW5KMXFXYjFWbm9hVGNYS2c?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWUTBmR21IOHhobUZKUmx6WGJEUlBtbHMtdDUxVENGTHFoMURPOHJ5YUhvTk16ckNoQTdDaUpVbVRWdnpEZnctQXRPWmFRQVRfdWpCeFJkOU16MUxLYlRJSnRLR3RTbW5KMXFXYjFWbm9hVGNYS2c",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788422977.0
-    },
-    {
-        "id": "47a0bf1e65",
-        "title_fa": "حمله موشکی و پهپادی ایران به کویت در اوج درگیری با آمریکا",
-        "title_en": "Iran fires missiles and drones at Kuwait as strikes resume in war with U.S.",
-        "summary": [
-            "پدافند هوایی کویت حملات موشکی و پهپادی از سمت ایران را رهگیری کرد؛ اقدامی که نشان‌دهنده کشیده شدن پای کشورهای همسایه به آتش درگیری است.",
-            "تهران آمریکا را به هدف قرار دادن غیرنظامیان متهم کرده و هم‌زمان فشار نظامی بر کشورهای میزبان پایگاه‌های آمریکایی را بالا برده است."
-        ],
-        "impact": "تهدید مستقیم امنیت انرژی خلیج فارس و احتمال ورود رسمی کشورهای عربی به منازعه.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "The Washington Post",
-        "url": "https://www.washingtonpost.com/world/2026/09/03/iran-fires-missiles-drones-kuwait-strikes-resume-us-war/",
-        "clean_url": "https://www.washingtonpost.com/world/2026/09/03/iran-fires-missiles-drones-kuwait-strikes-resume-us-war",
-        "image": "http://www.bing.com/th?id=ONUT.b4zEPEVWcLRz0OK0NivHPw&pid=News",
-        "timestamp": 1788421140.0
-    },
-    {
-        "id": "bfba61b9af",
-        "title_fa": "شکاف در محور مقاومت؛ گروه‌های نیابتی مسیر خود را جدا می‌کنند",
-        "title_en": "Iran’s proxies are going their own way",
-        "summary": [
-            "ضربات شدید نظامی به ساختار فرماندهی حزب‌الله و بحران مالی، توانایی تهران برای کنترل یکپارچه شبکه نیابتی را به شدت کاهش داده است.",
-            "گروه‌های شبه‌نظامی منطقه اکنون بر اساس اولویت‌های بقای منطقه‌ای خود تصمیم می‌گیرند، نه لزوماً دستورالعمل‌های دیکته‌شده از تهران."
-        ],
-        "impact": "افت شدید کارایی استراتژی بازدارندگی منطقه‌ای و پراکندگی در تصمیم‌گیری‌های جبهه نیابتی.",
-        "tag": "نیابتی",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "The Economist",
-        "url": "https://www.economist.com/middle-east-and-africa/2026/09/03/irans-proxies-are-going-their-own-way",
-        "clean_url": "https://www.economist.com/middle-east-and-africa/2026/09/03/irans-proxies-are-going-their-own-way",
-        "image": "http://www.bing.com/th?id=ONUT.acCe59z9LLhpc8AIi8JFwA&pid=News",
-        "timestamp": 1788415680.0
     }
 ]
