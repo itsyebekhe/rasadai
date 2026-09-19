@@ -1,5 +1,23 @@
 [
     {
+        "id": "dedee311d3",
+        "title_fa": "حمله حوثی‌ها به فرودگاه ریاض و موضع‌گیری جدید تهران",
+        "title_en": "Live - Iran says it wants Saudi-Yemen war to end after Houthis hit Riyadh airport",
+        "summary": [
+            "در پی شلیک موشک توسط حوثی‌های یمن به فرودگاه بین‌المللی ریاض، مسئولان ایرانی خواستار خاتمه جنگ یمن شدند.",
+            "تهران همزمان با فعال‌سازی کارت گروه نیابتی خود در یمن، مانور دیپلماتیک برای کاهش تبعات مواجهه با عربستان را پیش می‌برد."
+        ],
+        "impact": "افزایش تهدیدات امنیتی در خطوط پروازی خلیج فارس و تعمیق تنش‌های منطقه‌ای.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1789850944.0
+    },
+    {
         "id": "e96b6d2625",
         "title_fa": "تحریم صرافی رمزارز بیت‌بانک به دلیل کمک مالی به سپاه",
         "title_en": "Treasury Sanctions Iranian Crypto Exchange BitBank Over Bitcoin Transfers to IRGC",
@@ -90,6 +108,25 @@
         "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-media-reports-two-killed-several-hurt-in-israeli-strike-in-gaza-city",
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1789825380.0
+    },
+    {
+        "id": "96a24d83d8",
+        "title_fa": "شروط تهران برای پایان جنگ؛ پیام رسمی رضایی به ترامپ",
+        "title_en": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
+        "summary": [
+            "محسن رضایی، دبیر شورای عالی امنیت ملی، از ارسال شروط ایران برای پایان جنگ و رفع محاصره دریایی از طریق قطر به واشنگتن خبر داد.",
+            "تهران خواستار توقف عملیات نظامی در همه جبهه‌ها، لغو محاصره تنگه هرمز و آزادسازی فوری دارایی‌های بلوکه‌شده است.",
+            "این تحرک دیپلماتیک تحت فشارهای سنگین نظامی و اقتصادی، تلاشی برای سنجش میزان انعطاف‌پذیری دونالد ترامپ محسوب می‌شود."
+        ],
+        "impact": "احتمال شکل‌گیری کانال مذاکراتی اضطراری میان واشنگتن و تهران با میانجی‌گری دوحه.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.3,
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
+        "clean_url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
+        "image": "http://www.bing.com/th?id=ONUT.Sll_FXXsAFg7UuEn7IPqGw&pid=News",
+        "timestamp": 1789817520.0
     },
     {
         "id": "581792e55f",
@@ -5499,41 +5536,5 @@
         "clean_url": "https://www.msn.com/en-gb/news/other/iran-war-live-jd-vance-claims-china-will-help-isolate-tehran/ar-AA2btEi1",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bwkw1.img?w=1200&h=800&m=4&q=81",
         "timestamp": 1788497681.0
-    },
-    {
-        "id": "b96bee68e2",
-        "title_fa": "هشدار مستقیم ترامپ درباره ضربه نهایی و فروپاشی ساختار حاکمیت",
-        "title_en": "Breaking down Trump’s latest Iran threat",
-        "summary": [
-            "دونالد ترامپ تاکید کرده حمله اصلی آمریکا هنوز انجام نشده و در صورت عدم عقب‌نشینی تهران، ضربه بعدی چیزی از ساختار حکومت باقی نخواهد گذاشت.",
-            "این موضع‌گیری نشان‌دهنده عبور واشنگتن از سیاست مهار و حرکت به سمت گزینه فلج‌سازی کامل ساختار سیاسی-نظامی ایران است."
-        ],
-        "impact": "افزایش شدید ریسک درگیری نظامی گسترده و ریزش سنگین‌تر ارزش ریال در بازار تهران.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.9,
-        "source": "The David Pakman Show on MSN",
-        "url": "https://www.msn.com/en-us/video/news/breaking-down-trump%E2%80%99s-latest-iran-threat---this-was-supposed-to-be-brief/vi-AA2bypWa?ocid=BingNewsVerp",
-        "clean_url": "https://www.msn.com/en-us/video/news/breaking-down-trump%E2%80%99s-latest-iran-threat---this-was-supposed-to-be-brief/vi-AA2bypWa",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788496200.0
-    },
-    {
-        "id": "fdc407621f",
-        "title_fa": "جهش قیمت نفت با بالا گرفتن تنش در تنگه هرمز",
-        "title_en": "Crude oil prices post biggest weekly gain since July",
-        "summary": [
-            "بازار جهانی انرژی با بیم از اختلال طولانی‌مدت در صادرات نفت منطقه، بزرگ‌ترین رشد هفتگی خود را تجربه کرد.",
-            "احتمال درگیری نظامی میان آمریکا و ایران در شاهراه هرمز، خریداران عمده را به سمت ذخیره‌سازی اضطراری کشانده است."
-        ],
-        "impact": "افزایش ناگهانی قیمت جهانی نفت و سنگین‌تر شدن هزینه انرژی برای کشورهای مصرف‌کننده.",
-        "tag": "ارز",
-        "urgency": 7,
-        "sentiment": -0.5,
-        "source": "AzerNews",
-        "url": "https://www.azernews.az/oil_and_gas/263388.html",
-        "clean_url": "https://www.azernews.az/oil_and_gas/263388.html",
-        "image": "https://www.azernews.az/media/2026/06/20/oil_rig_070623.jpg",
-        "timestamp": 1788484680.0
     }
 ]
