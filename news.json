@@ -1,5 +1,176 @@
 [
     {
+        "id": "5b14c22eda",
+        "title_fa": "تهدید مستقیم ترامپ در سازمان ملل: توافق یا نابودی",
+        "title_en": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
+        "summary": [
+            "دونالد ترامپ در سخنرانی سازمان ملل ضرب‌الاجل نهایی را روی میز گذاشت: یا توافق جامع یا نابودی کامل.",
+            "با وجود خط‌ونشان‌های تند، ترامپ از دیدارهای پشت‌پرده و سازنده با هیات ایرانی در نیویورک خبر داد.",
+            "این دوگانگی رفتاری نشان‌دهنده استراتژی فشار حداکثری همراه با دیپلماسی اجباری است."
+        ],
+        "impact": "افزایش ریسک درگیری گسترده نظامی در صورت به نتیجه نرسیدن دیپلماسی دقیقه نودی.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ibnAxMnNWQ0xzYjdoWFlDOWNZSkhoNXdKVm5QanZsMmg5Wno3cDEtTzUxOVI0U0hGWU9rdmFwX2l2TTVTaXYzMTJlMFZEMEotRE1sdHJEQWdoQlE",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790113831.0
+    },
+    {
+        "id": "9fdbb6583e",
+        "title_fa": "بحران سوخت در غرب و احتمال توقف صادرات گازوئیل آمریکا",
+        "title_en": "حمایت ترامپ از ممنوعیت صادرات گازوئیل؛ مقام‌های انرژی درباره پیامدهای احتمالی هشدار دادند",
+        "summary": [
+            "جنگ ایران و تنگنای عرضه، قیمت گازوئیل را در آمریکا به رکورد بی‌سابقه ۶.۵ دلار رسانده است.",
+            "جمهوری‌خواهان برای مهار تورم در آستانه انتخابات، ترامپ را برای ممنوعیت صادرات سوخت تحت فشار گذاشتند.",
+            "اجرای این تصمیم می‌تواند بحران کمبود انرژی در اروپا را وارد فاز فاجعه‌بار کند."
+        ],
+        "impact": "جهش مجدد قیمت جهانی سوخت و فشار شدید تورمی بر بازار انرژی غرب.",
+        "tag": "اقتصادی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609222201",
+        "clean_url": "https://www.iranintl.com/202609222201",
+        "image": "http://www.bing.com/th?id=ONUT.Y1Ft6iyOqxdXGsv1oMXXSw&pid=News",
+        "timestamp": 1790090220.0
+    },
+    {
+        "id": "b210180251",
+        "title_fa": "مخالفت صریح مکرون با تغییر حکومت ایران از طریق بمباران",
+        "title_en": "مکرون: تغییر حکومت از طریق بمباران یک کشور عملی نیست",
+        "summary": [
+            "امانوئل مکرون تاکید کرد تغییر رژیم در ایران از طریق حملات هوایی و بمباران عملی نیست.",
+            "رئیس‌جمهور فرانسه اذعان کرد که قدرت اهرم ایران در تنگه هرمز دست‌کم گرفته شده بود.",
+            "این موضع افشاگر شکاف عمیق میان اروپا و آمریکا در نحوه مواجهه با جنگ ایران است."
+        ],
+        "impact": "تضعیف اجماع بین‌المللی همراه با آمریکا و امتناع اروپا از ورود به جنگ مستقیم.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609228199",
+        "clean_url": "https://www.iranintl.com/202609228199",
+        "image": "http://www.bing.com/th?id=ONUT.UkCYMfJrS1xVH37zVk7EHw&pid=News",
+        "timestamp": 1790088840.0
+    },
+    {
+        "id": "b32522be07",
+        "title_fa": "چانه زنی سخت در نیویورک؛ رد شروط ایران برای هرمز",
+        "title_en": "ترامپ: مذاکره با هیات ایرانی سازنده بود؛ یا توافق می‌کنیم یا همه‌چیز سریع پایان می‌یابد",
+        "summary": [
+            "دیدار حساس هیات ایرانی با نماینده ترامپ در حاشیه مجمع عمومی سازمان ملل برگزار شد.",
+            "تهران لغو محاصره دریایی و آزادسازی دارایی‌ها را شرط بازگشایی تنگه هرمز اعلام کرده است.",
+            "واشنگتن درخواست لغو محاصره را سریعاً رد کرده تا مذاکرات در لبه پرتگاه قرار گیرد."
+        ],
+        "impact": "تداوم انسداد تنگه هرمز و بالا ماندن ریسک درگیری در خطوط دریانوردی.",
+        "tag": "دیپلماسی",
+        "urgency": 8,
+        "sentiment": -0.5,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609225885",
+        "clean_url": "https://www.iranintl.com/202609225885",
+        "image": "http://www.bing.com/th?id=ONUT.Lpsj4UG3DuOrHpgQ7xfV-A&pid=News",
+        "timestamp": 1790086440.0
+    },
+    {
+        "id": "c59306580c",
+        "title_fa": "فشار سنگین جمهوری‌خواهان بر ترامپ برای پایان جنگ ایران",
+        "title_en": "End the open-ended war. GOP candidates push Trump on Iran",
+        "summary": [
+            "نامزدها و سناتورهای برجسته حزب جمهوری‌خواه خواستار خروج سریع آمریکا از جنگ نامحبوب ایران شدند.",
+            "جهش قیمت سوخت و افکار عمومی ناراضی، این جنگ را به پاشنه آشیل انتخاباتی ترامپ تبدیل کرده است.",
+            "سناتور هوستد صراحتاً اعلام کرد جنگ ایران باید هرچه سریع‌تر و با توافق به پایان برسد."
+        ],
+        "impact": "محدود شدن زمان ترامپ برای عملیات نظامی و افزایش تمایل واشنگتن به بستن معامله.",
+        "tag": "سیاسی",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "USA TODAY on MSN",
+        "url": "https://www.msn.com/en-us/news/other/end-the-open-ended-war-gop-candidates-push-trump-on-iran/ar-AA2cKyTo",
+        "clean_url": "https://www.msn.com/en-us/news/other/end-the-open-ended-war-gop-candidates-push-trump-on-iran/ar-AA2cKyTo",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790085165.0
+    },
+    {
+        "id": "7b37c5e68c",
+        "title_fa": "خط و نشان ترامپ برای انهدام سایت زیرزمینی کلنگ‌گزلا",
+        "title_en": "تهدید دوباره ترامپ: آمریکا به مجموعه زیرزمینی کوه «کلنگ گزلا» حمله می‌کند",
+        "summary": [
+            "ترامپ تهدید کرد در صورت مشاهده هرگونه تحرک در مجموعه تونلی کلنگ‌گزلا نطنز، آن را منفجر می‌کند.",
+            "این مرکز زیرزمینی محل اصلی احداث و مونتاژ سانتریفیوژهای پیشرفته ایران محسوب می‌شود.",
+            "پیام واشنگتن شفاف است: هیچ نقطه کور زیرزمینی از ضربات سنگین موشکی در امان نخواهد بود."
+        ],
+        "impact": "احتمال حمله پیش‌دستانه و تخریب کامل زیرساخت‌های غنی‌سازی عمیق ایران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609229256",
+        "clean_url": "https://www.iranintl.com/202609229256",
+        "image": "http://www.bing.com/th?id=ONUT.Lpsj4UG3DuOrHpgQ7xfV-A&pid=News",
+        "timestamp": 1790084520.0
+    },
+    {
+        "id": "1285b5130e",
+        "title_fa": "تلاش‌های فشرده بین‌المللی برای مهار جنگ ایران و آمریکا",
+        "title_en": "آنچه در ۳۱ شهریور گذشت:",
+        "summary": [
+            "دبیرکل سازمان ملل، پوتین و بن‌سلمان خواستار توقف فوری جنگ و امنیت کشتیرانی شدند.",
+            "قطر و برخی کشورهای منطقه در حال میانجی‌گری برای بازگشایی تنگه هرمز و فروکش تنش هستند.",
+            "ترامپ هم‌زمان خواستار انزوای کامل اقتصادی تهران تا زمان توقف حملات دریایی شده است."
+        ],
+        "impact": "تلاش‌های شکننده دیپلماتیک برای جلوگیری از تسری جنگ به کل خلیج فارس.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609225402",
+        "clean_url": "https://www.iranintl.com/202609225402",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790075400.0
+    },
+    {
+        "id": "23e24190b9",
+        "title_fa": "توافق نظامی آمریکا و گرینلند برای استقرار گنبد طلایی",
+        "title_en": "ترامپ و رهبران دانمارک و گرینلند توافق گسترش حضور نظامی آمریکا را امضا کردند",
+        "summary": [
+            "ترامپ توافق گسترش حضور نظامی آمریکا در گرینلند را صادر و امضا کرد.",
+            "این طرح شامل استقرار سامانه پدافندی گنبد طلایی برای مهار نفوذ روسیه و چین است.",
+            "واشنگتن با این توافق، تسلط نظامی خود بر شاهراه‌های قطب شمال را تثبیت کرد."
+        ],
+        "impact": "تغییر موازنه ژئوپلیتیک قطب شمال و خشم احتمالی مسکو و پکن.",
+        "tag": "بین‌الملل",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609220587",
+        "clean_url": "https://www.iranintl.com/202609220587",
+        "image": "http://www.bing.com/th?id=ONUT.i5Fbhc7PxZNMuXLi7mGdig&pid=News",
+        "timestamp": 1790074800.0
+    },
+    {
+        "id": "6e2c9da078",
+        "title_fa": "مصوبه مجلس برای جریمه ۲۰ درصدی شناورها در تنگه هرمز",
+        "title_en": "کمیسیون امنیت ملی مجلس: شناورهای متخلف توقیف و ۲۰ درصد محموله آنها اخذ می‌شود",
+        "summary": [
+            "کمیسیون امنیت ملی مجلس طرح توقیف شناورهای متخلف و اخذ ۲۰ درصد ارزش محموله را تصویب کرد.",
+            "تشکیل شعب تخصصی قضایی نشان می‌دهد تهران قصد دارد برای عبور از هرمز اهرم‌های قانونی بسازد.",
+            "این اقدام پاسخی مستقیم به محاصره دریایی آمریکا و تلاش برای اخاذی در خطوط مواصلاتی است."
+        ],
+        "impact": "جهش بی‌سابقه هزینه بیمه کشتیرانی و بالارفتن احتمال تصادم نظامی در تنگه هرمز.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609229630",
+        "clean_url": "https://www.iranintl.com/202609229630",
+        "image": "http://www.bing.com/th?id=ONUT.YOdathwc_eLoHh36y9G2PA&pid=News",
+        "timestamp": 1790072400.0
+    },
+    {
         "id": "9e2384264e",
         "title_fa": "تلاش مسکو برای سپر بلا شدن در برابر فشارهای هسته‌ای علیه ایران",
         "title_en": "Russia Fought Nuclear Pressure on Syria. Now It Is Doing the Same on Iran",
@@ -5368,171 +5539,5 @@
         "clean_url": "https://www.yahoo.com/news/us/articles/us-hits-3-iranian-oil-143559236.html",
         "image": "http://www.bing.com/th?id=ONUT.J7A1zMdD2h5rNwfiwaFqHg&pid=News",
         "timestamp": 1788623040.0
-    },
-    {
-        "id": "3c976d0084",
-        "title_fa": "پاسخ موشکی سنتکام؛ انهدام سه نفتکش ایرانی در خلیج فارس",
-        "title_en": "U.S. strikes Iranian oil tankers in retaliation for Iran targeting warships",
-        "summary": [
-            "ارتش آمریکا پس از حمله موشکی سپاه به ناوهای جنگی‌اش، سه نفتکش ایرانی را در خلیج فارس و عمان از کار انداخت.",
-            "ترامپ این درگیری را یک مناقشه نظامی محدود خوانده، اما قیمت جهانی سوخت بلافاصله جهش بی‌سابقه‌ای کرد.",
-            "تهران هشدار داده که در صورت ادامه حملات آمریکا به کشتی‌رانی، پاسخ‌های بعدی بسیار شدیدتر خواهد بود."
-        ],
-        "impact": "بالا رفتن آنی قیمت جهانی سوخت و ورود درگیری ایران و آمریکا به فاز مستقیم ناامنی دریانوردی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/price-diesel-u-hits-record-112852555.html",
-        "image": "https://s.yimg.com/lo/mysterio/api/6569c018c45c64ee36f691c22c9e2c012ebbca96583eb1119b57e696a3f64f41/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fcbs_news_897%2F5550307d5f60f37732da4fe2778e1345.jpg",
-        "timestamp": 1788620940.0
-    },
-    {
-        "id": "502ce59a0c",
-        "title_fa": "هشدار اطلاعات اسرائیل؛ تلاش سپاه برای بازسازی شبکه نیابتی",
-        "title_en": "Iran rebuilding its axis of resistance for attack, Israeli intelligence. suggests",
-        "summary": [
-            "سرویس‌های اطلاعاتی اسرائیل از تلاش فشرده تهران برای بازسازی سازمان رزم و تسلیح مجدد گروه‌های نیابتی خبر می‌دهند.",
-            "هدف اصلی سپاه، آماده‌سازی این شبکه برای موج جدید حملات هماهنگ منطقه‌ای است."
-        ],
-        "impact": "افزایش سطح آماده‌باش ارتش اسرائیل و احتمال حملات پیش‌دستانه علیه مواضع تسلیحاتی سپاه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tbjJBU0JLWHMtWjBZOEZGcGVDUHcwZVgzbFlxb3RPZVJYM3Z6S2ttOGhBZDNwT0Vpc2lxRkRGYUd1bWluWFJlNGtoWVQ0aTB0NTBBRDhuT0Fva3ZX?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tbjJBU0JLWHMtWjBZOEZGcGVDUHcwZVgzbFlxb3RPZVJYM3Z6S2ttOGhBZDNwT0Vpc2lxRkRGYUd1bWluWFJlNGtoWVQ0aTB0NTBBRDhuT0Fva3ZX",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788620360.0
-    },
-    {
-        "id": "ea9df0a99e",
-        "title_fa": "فشار خفه‌کننده واشنگتن و هراس مسعود پزشکیان از اعتراضات سراسری",
-        "title_en": "Iran President Pezeshkian calls for unity as US ramps up economic pressure",
-        "summary": [
-            "آمریکا طرح «روز دی اقتصادی» را برای قطع کامل شریان‌های مالی سپاه و حکومت آغاز کرده است.",
-            "مسعود پزشکیان با هشدار درباره شکاف‌های داخلی، خواستار همبستگی شد تا مانع تکرار اعتراضات سراسری سال‌های گذشته شود."
-        ],
-        "impact": "تنگ‌تر شدن حلقه تحریم‌ها، سقوط بیشتر منابع ارزی و بالا رفتن ریسک ناآرامی‌های خیابانی در ایران.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.7,
-        "source": "Al Jazeera",
-        "url": "https://www.yahoo.com/news/us/articles/iran-president-pezeshkian-calls-unity-130736547.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/iran-president-pezeshkian-calls-unity-130736547.html",
-        "image": "https://media.zenfs.com/en/al_jazeera_289/619572ed665f1cabfee2f9d164a5fb5c.jpg",
-        "timestamp": 1788615094.0
-    },
-    {
-        "id": "644f679a6e",
-        "title_fa": "پیش‌نویس قطعنامه غرب برای ارجاع پرونده هسته‌ای ایران به شورای امنیت",
-        "title_en": "US, allies draft resolution to refer Iran to UNSC over nuclear 'noncompliance'",
-        "summary": [
-            "آمریکا و سه‌گانه اروپایی پیش‌نویس قطعنامه‌ای را آماده کرده‌اند که ایران را به دلیل عدم همکاری با آژانس به شورای امنیت ارجاع می‌دهد.",
-            "ممانعت تهران از بازرسی‌های آژانس پس از حملات اخیر به تاسیسات هسته‌ای، مبنای حقوقی برخورد جدید قدرت‌های غربی قرار گرفته است.",
-            "ارجاع پرونده به شورای امنیت، راه را برای بازگشت خودکار تحریم‌های بین‌المللی و فعال‌سازی مکانیزم ماشه هموار می‌کند."
-        ],
-        "impact": "تشدید خفه‌کننده تحریم‌های بین‌المللی، افزایش انزوای سیاسی تهران و جهش شدید در بازار ارز.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "National Herald",
-        "url": "https://www.nationalheraldindia.com/international/us-allies-draft-resolution-to-refer-iran-to-unsc-over-nuclear-noncompliance",
-        "clean_url": "https://www.nationalheraldindia.com/international/us-allies-draft-resolution-to-refer-iran-to-unsc-over-nuclear-noncompliance",
-        "image": "https://cf-images.assettype.com/nationalherald/2022-09/4128e638-1a70-4574-8ba3-614849cc214d/62684115_403.jpg?rect=0,0,940,494&w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "timestamp": 1788608880.0
-    },
-    {
-        "id": "ae86d94030",
-        "title_fa": "خط‌ونشان تازه ترامپ برای حمله به سایت هسته‌ای کوه کلنگ",
-        "title_en": "Trump renews threat against Iran's nuclear sites, calls war 'small potatoes'",
-        "summary": [
-            "دونالد ترامپ ضمن تایید کشته‌شدن ۱۸ نظامی آمریکایی، نبرد با ایران را درگیری کوچک خواند اما تهدید به حمله قریب‌الوقوع به سایت کوه کلنگ کرد.",
-            "واشنگتن همزمان پروژه احداث خطوط لوله جایگزین برای بی‌اثر کردن تهدید بستن تنگه هرمز را دنبال می‌کند.",
-            "لحن ترامپ نشان می‌دهد آمریکا خود را برای ضربه به عمیق‌ترین تاسیسات زیرزمینی ایران آماده می‌کند."
-        ],
-        "impact": "افزایش چشمگیر احتمال درگیری مستقیم با تاسیسات هسته‌ای و اتمی ایران.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Samaa TV",
-        "url": "https://www.samaa.tv/2087356288-trump-renews-threat-against-iran-s-nuclear-sites-calls-war-small-potatoes",
-        "clean_url": "https://www.samaa.tv/2087356288-trump-renews-threat-against-iran-s-nuclear-sites-calls-war-small-potatoes",
-        "image": "https://images.samaa.tv/images/Trump-Iran-nuclear-inspections.jpg",
-        "timestamp": 1788606540.0
-    },
-    {
-        "id": "b78c9a0ecf",
-        "title_fa": "حاشیه‌های استقلال؛ خط قرمز بختیاری‌زاده روی نام حردانی",
-        "title_en": "بختیاری‌زاده: تا زمانی که من هستم، حردانی نمی‌تواند در تمرین استقلال حاضر شود",
-        "summary": [
-            "سرمربی استقلال علت اصلی کنار گذاشتن کاپیتان تیمش را بی‌نظمی‌های مداوم یک ماه اخیر و رفتار غیرحرفه‌ای در دربی اعلام کرد.",
-            "بختیاری‌زاده تاکید کرده تا زمان حضورش روی نیمکت استقلال، حردانی جایی در تمرینات گروهی نخواهد داشت."
-        ],
-        "impact": "تداوم بحران مدیریتی و حواشی انضباطی در باشگاه استقلال پیش از دیدارهای حساس لیگ.",
-        "tag": "ورزشی",
-        "urgency": 2,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609052379",
-        "clean_url": "https://www.iranintl.com/202609052379",
-        "image": "http://www.bing.com/th?id=ONUT.MEfDOlP1iq9LkY90AB8AAA&pid=News",
-        "timestamp": 1788602460.0
-    },
-    {
-        "id": "03999edc0c",
-        "title_fa": "سفر نمایندگان ویژه ترامپ به مسکو برای پایان جنگ اوکراین",
-        "title_en": "نمایندگان ویژه ترامپ برای گفت‌وگو با پوتین درباره جنگ اوکراین وارد مسکو شدند",
-        "summary": [
-            "استیو ویتکاف و جرد کوشنر به عنوان فرستادگان ترامپ برای ارائه طرح جدید واشنگتن جهت پایان دادن به جنگ وارد کرملین شدند.",
-            "این رایزنی مستقیم، اراده ترامپ را برای دور زدن کانال‌های تشریفاتی دیپلماسی و نهایی کردن توافق سریع با پوتین اثبات می‌کند.",
-            "ورود مستقیم فرستادگان ترامپ به مسکو فشارها را بر کی‌یف و متحدان اروپایی برای پذیرش جزییات طرح آمریکا افزایش می‌دهد."
-        ],
-        "impact": "تغییر تسریع‌شده معادلات میدانی و سیاسی جنگ اوکراین با ورود مستقیم واشنگتن به مذاکرات با کرملین.",
-        "tag": "بین‌الملل",
-        "urgency": 7,
-        "sentiment": 0.2,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609050966",
-        "clean_url": "https://www.iranintl.com/202609050966",
-        "image": "http://www.bing.com/th?id=ONUT.0JHhJIsGyzvFCME-ISRgiw&pid=News",
-        "timestamp": 1788600180.0
-    },
-    {
-        "id": "5453ec516d",
-        "title_fa": "حمله به نفتکش در نزدیکی خارگ و خطر تنش بی־سابقه",
-        "title_en": "Live - Tanker hit near Kharg Island as US sees risk of major Iran escalation",
-        "summary": [
-            "هدف قرار گرفتن یک نفتکش در حیاتی‌ترین شریان صادرات نفتی ایران در نزدیکی جزیره خارگ.",
-            "هشدار جدی واشنگتن درباره احتمال خروج کنترل درگیری‌ها از دست طرفین."
-        ],
-        "impact": "تهدید مستقیم جریان صادرات نفت ایران و احتمال صعود ناگهانی قیمت جهانی انرژی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VzE5VXZZUC0yUU02WnVobXRXcnBXU1d4NmZwVTJZRXV0ZFBxU2pHQkpiTk56MEE4Z2RpVnEwUU1PQ3dwUy1GQTBCZHFDSDd1ZFZjR0FkM2NRMF8zQ0E?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0VzE5VXZZUC0yUU02WnVobXRXcnBXU1d4NmZwVTJZRXV0ZFBxU2pHQkpiTk56MEE4Z2RpVnEwUU1PQ3dwUy1GQTBCZHFDSDd1ZFZjR0FkM2NRMF8zQ0E",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788595229.0
-    },
-    {
-        "id": "7a360f5414",
-        "title_fa": "چالش‌های واشنگتن در اجرای «پروژه شل‌کننده اقتصادی» علیه ایران",
-        "title_en": "Why Washington’s ‘Economic D-Day’ Against Iran Faces Steep Odds",
-        "summary": [
-            "تحلیل وال‌استریت ژورنال از مسیر سخت آمریکا برای مسدودسازی کامل شبکه دور زدن تحریم‌های تهران.",
-            "پیچیدگی‌های خنثی‌سازی شریان‌های مالی ایران بدون اقدام مکمل نظامی."
-        ],
-        "impact": "امکان تداوم تنفس اقتصادی محدود جمهوری اسلامی از طریق شبکه‌های تراستی.",
-        "tag": "اقتصاد",
-        "urgency": 6,
-        "sentiment": -0.3,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMFBMazdEbXNKMUZPQU41Sllwak13VUQtcm5ySGo3bHRWNlRhQ2hjUGI0ZFFRdktRNm1VeWNHZ2hKc1lTZTRIbG1fX3ZNNlVIdlVEbUlMQlVaY2NxV0FoS3lNQ3NxcUxDOG1IRTREbTh3LTJvSG5ZWEpPa3lBczFRbjRQSlhHOXhhWXFhS1FVWmRfNl9aMk95ZXBSSQ",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788591775.0
     }
 ]
