@@ -1,5 +1,132 @@
 [
     {
+        "id": "911595abb9",
+        "title_fa": "پیشنهاد عقب‌نشینی هسته‌ای پزشکیان در نیویورک",
+        "title_en": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
+        "summary": [
+            "مسعود پزشکیان برای کاهش فشارها مدعی آمادگی برای رقیق‌سازی اورانیوم و پذیرش بازرسی‌های گسترده‌تر شده است.",
+            "این موضع‌گیری نرم‌افزاری دقیقاً هم‌زمان با متهم کردن واشنگتن به عنوان عامل اصلی بحران منطقه انجام شد."
+        ],
+        "impact": "تلاش تهران برای گرفتن زهر تحریم‌ها و ایجاد مانع در برابر حمله احتمالی آمریکا از طریق معامله هسته‌ای.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": 0.1,
+        "source": "Fox News",
+        "url": "https://www.msn.com/en-us/news/other/iranian-president-blames-us-for-middle-east-conflict-while-denying-nuclear-ambitions-offers-to-dilute-uranium/ar-AA2cVCA6",
+        "clean_url": "https://www.msn.com/en-us/news/other/iranian-president-blames-us-for-middle-east-conflict-while-denying-nuclear-ambitions-offers-to-dilute-uranium/ar-AA2cVCA6",
+        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cRmZn.img?w=1280&h=720&m=4&q=81",
+        "timestamp": 1790295936.0
+    },
+    {
+        "id": "dd0e4c076a",
+        "title_fa": "طرح جدید تهران روی میز دولت ترامپ برای مذاکره",
+        "title_en": "Iran says it has given Trump administration new proposal for peace talks",
+        "summary": [
+            "ایران از ارائه یک بسته پیشنهادی جدید به دولت دونالد ترامپ جهت آغاز گفتگوهای صلح و کاهش تنش خبر داد.",
+            "این اقدام نشان‌دهنده تلاش آخرین لحظه‌ای تهران برای کنترل ریسک برخورد مستقیم نظامی است."
+        ],
+        "impact": "تلاش برای فعال‌سازی کانال‌های پشتی دیپلماسی پیش از وقوع هرگونه درگیری نظامی مستقیم.",
+        "tag": "مذاکره",
+        "urgency": 7,
+        "sentiment": 0.2,
+        "source": "The Washington Post",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkxxQ0tXQkJTWm1HVER6Vk9aOUU2cEhZc3M0ckNEaFBuMHVnOFVDS1dBakZCMmU1MVpjbmpDVHR1SlNkMlY2U2kzMC1YT1BpOVk3RWNUT1ZGWlVjbkF4M1FXcTlDQ3BJN2E4Y29MbjRudzNHWnVTYVB2djIyVUxKc1pGb2pFRjR3WlhMOFIycWlGdkVrMS1SLWlCYTlKdXJaR1J4d3h3ODFZOTVfd3hLc2FqeGY0cW1j?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkxxQ0tXQkJTWm1HVER6Vk9aOUU2cEhZc3M0ckNEaFBuMHVnOFVDS1dBakZCMmU1MVpjbmpDVHR1SlNkMlY2U2kzMC1YT1BpOVk3RWNUT1ZGWlVjbkF4M1FXcTlDQ3BJN2E4Y29MbjRudzNHWnVTYVB2djIyVUxKc1pGb2pFRjR3WlhMOFIycWlGdkVrMS1SLWlCYTlKdXJaR1J4d3h3ODFZOTVfd3hLc2FqeGY0cW1j",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790295684.0
+    },
+    {
+        "id": "3cb92e3825",
+        "title_fa": "دفاع تهاجمی نتانیاهو از جنگ با ایران در سازمان ملل",
+        "title_en": "Israel’s Netanyahu defends Iran war, rails against critics in combative UN speech",
+        "summary": [
+            "بنیامین نتانیاهو در سخنرانی تند خود در سازمان ملل، نبرد علیه جمهوری اسلامی و شبکه نیابتی‌اش را حیاتی و غیرقابل توقف خواند.",
+            "او با حمله به منتقدان بین‌المللی تاکید کرد تل‌آویو تا نابودی کامل تهدیدات هسته‌ای و منطقه‌ای عقب نخواهد نشست."
+        ],
+        "impact": "تثبیت استراتژی حملات پیش‌دستانه اسرائیل و بی‌توجهی کامل به هشدارهای بین‌المللی.",
+        "tag": "منطقه‌ای",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Semafor",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnUtQ2dVazNUT05Ea21Tb1FoWXhjZ2FSN2pnZmtqSjRhMENFUzFWTWMxU1RJV2lranlXUEkwRkRCS2Z2VGVWZXE4SVRWWngwbXhpaFJWbnB1R0JmMXprVjVyaDdXRkx0cWNIckR1bmstMXJKUTRBcS1KTlNWbW51MzNTb0J3di1QMzVlYjhpWWdvWF9OanZiRTNWb2dyWG9Sbm1QaGNEQ1U?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnUtQ2dVazNUT05Ea21Tb1FoWXhjZ2FSN2pnZmtqSjRhMENFUzFWTWMxU1RJV2lranlXUEkwRkRCS2Z2VGVWZXE4SVRWWngwbXhpaFJWbnB1R0JmMXprVjVyaDdXRkx0cWNIckR1bmstMXJKUTRBcS1KTlNWbW51MzNTb0J3di1QMzVlYjhpWWdvWF9OanZiRTNWb2dyWG9Sbm1QaGNEQ1U",
+        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790289780.0
+    },
+    {
+        "id": "2d5a0b9bbd",
+        "title_fa": "تکذیب صریح اتهام ترور ترامپ توسط پزشکیان",
+        "title_en": "We aren’t trying to kill Trump, Iran’s president insists to reporters at New York hotel",
+        "summary": [
+            "مسعود پزشکیان در گفتگو با خبرنگاران در نیویورک، هرگونه برنامه ایران برای ترور دونالد ترامپ را به کلی رد کرد.",
+            "تهران سعی دارد هراس واشنگتن از اقدامات تلافی‌جویانه را کاهش دهد تا پرونده‌های جدید امنیتی علیه رژیم گشوده نشود."
+        ],
+        "impact": "عقب‌نشینی آشکار از مانورهای کلامی انتقام‌جویانه برای جلوگیری از واکنش تند آمریکا.",
+        "tag": "امنیت",
+        "urgency": 6,
+        "sentiment": 0.0,
+        "source": "CNN",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEQ2Z3M4SWZSejhfVjg4dVlpNEFrZ0Zmelc2YUMxQjRRU3dQWnlqVjVyWVQyMzhiRm9wSUlEVndzeC1VTXJTS29zOHhQZW9xT1R0TXplME53U0MtWm9ObnM5WllERXU4LWVuWEpXYTJHVWRpZG9EWjJPaC1VbGw4NHIwZl9oai1ObmdMQ0hjOVU5a2I0?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEQ2Z3M4SWZSejhfVjg4dVlpNEFrZ0Zmelc2YUMxQjRRU3dQWnlqVjVyWVQyMzhiRm9wSUlEVndzeC1VTXJTS29zOHhQZW9xT1R0TXplME53U0MtWm9ObnM5WllERXU4LWVuWEpXYTJHVWRpZG9EWjJPaC1VbGw4NHIwZl9oai1ObmdMQ0hjOVU5a2I0",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790283401.0
+    },
+    {
+        "id": "c1b2941cf6",
+        "title_fa": "آماده‌باش بمب‌افکن‌های B-2 برای انهدام تاسیسات کوه کلنگ",
+        "title_en": "LIVE: B-2's Prepare to CRUSH Pickaxe Mountain",
+        "summary": [
+            "گزارش‌های نظامی از شبیه‌سازی عملیات بمب‌افکن‌های سنگین B-2 مسلح به سنگربشکن‌های GBU-57 برای حمله به عمیق‌ترین سایت هسته‌ای ایران خبر می‌دهند.",
+            "این تحرکات پس از موضع‌گیری صریح دونالد ترامپ درباره رصد کامل تحرکات در منطقه 'کوه کلنگ' اوج گرفته است."
+        ],
+        "impact": "پیام صریح عملیاتی به تهران درباره احتمال تخریب کامل زیرساخت‌های عمیق هسته‌ای در صورت عبور از خطوط قرمز.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "YouTube",
+        "url": "https://www.msn.com/en-us/news/other/live-b-2s-prepare-to-crush-pickaxe-mountain/vi-AA2cTWSG",
+        "clean_url": "https://www.msn.com/en-us/news/other/live-b-2s-prepare-to-crush-pickaxe-mountain/vi-AA2cTWSG",
+        "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790265600.0
+    },
+    {
+        "id": "dc9d5925c3",
+        "title_fa": "نمایش دیپلماتیک رژیم‌های اقتدارگرا در نیویورک",
+        "title_en": "Gustavo de Arístegui: Geopolitical analysis of 24 September",
+        "summary": [
+            "تحلیل‌گران حضور و مانور هم‌زمان نمایندگان ایران، ونزوئلا و چین در آمریکا را ژست‌های بدون ضمانت اجرایی ارزیابی می‌کنند.",
+            "مطالبات مطرح‌شده از سوی ایران در سازمان ملل، غیرقابل تحقق دانسته شده و بیشتر کارکرد مصرف داخلی دارد."
+        ],
+        "impact": "بی‌اعتباری بیانیه‌های تهران در نهادهای بین‌المللی و تعمیق انزوای سیاسی.",
+        "tag": "تحلیل",
+        "urgency": 5,
+        "sentiment": -0.5,
+        "source": "Atalayar",
+        "url": "https://www.atalayar.com/en/articulo/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-24-september/20260924170000229507.html",
+        "clean_url": "https://www.atalayar.com/en/articulo/gustavo-aristegui/gustavo-aristegui-geopolitical-analysis-of-24-september/20260924170000229507.html",
+        "image": "https://www.atalayar.com/media/atalayar/images/2025/03/20/2025032014121991579.jpg",
+        "timestamp": 1790262060.0
+    },
+    {
+        "id": "0c74353306",
+        "title_fa": "خط‌ونشان پزشکیان در سازمان ملل و خروج دیپلمات آمریکایی",
+        "title_en": "Iran will not bow to US pressure, Pezeshkian tells UN",
+        "summary": [
+            "مسعود پزشکیان در تریبون سازمان ملل بر تداوم مقاومت علیه تحریم‌ها تاکید کرد و گفت زیر بار زور نمی‌رود.",
+            "هم‌زمان با آغاز سخنرانی، تنها دیپلمات حاضر آمریکا سالن را ترک کرد که نشان‌دهنده بن‌بست کامل در دیپلماسی مستقیم است.",
+            "پزشکیان با اشاره مستقیم به دونالد ترامپ، خواستار گفت‌وگو بدون زبان تهدید و فشار نظامی شد."
+        ],
+        "impact": "تعمیق بن‌بست سیاسی میان تهران و واشنگتن و بی‌اثری سخنرانی‌های تشریفاتی در تغییر محاسبات آمریکا.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.4,
+        "source": "The Nation",
+        "url": "https://www.nation.com.pk/24-Sep-2026/iran-will-bow-us-pressure-pezeshkian-tells-un",
+        "clean_url": "https://www.nation.com.pk/24-Sep-2026/iran-will-bow-us-pressure-pezeshkian-tells-un",
+        "image": "https://www.nation.com.pk/print_images/large/2026-09-24/iran-will-bow-us-pressure-pezeshkian-tells-un-1790210842-8456.jpg",
+        "timestamp": 1790256660.0
+    },
+    {
         "id": "5b14c22eda",
         "title_fa": "تهدید مستقیم ترامپ در سازمان ملل: توافق یا نابودی",
         "title_en": "Trump threatens to 'annihilate' Iran in UN speech as officials meet on sidelines",
@@ -5411,133 +5538,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeXUyT3djU2gxZUJQcWxaN3ZwMGRzU1VJSmhsNWVzYmpXTmtnR2dFYnpXN3BUa3hmUkhLVG9FSnZMdXJ5NmRqanBGLS1oS3VQcWJ3SndiT1lsS3hkb3VJUGFzbWQ5UmVDUjJweTBYdkN4X2JFWHNMUVRxLVdQWS1jTVJub014WFRRdG02M0gyNXRna2FDRE42OEFPRWtuTmx1S3Z0bEg2VU5SMFlpd1k4ZWVrMDJDUWZF",
         "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788675272.0
-    },
-    {
-        "id": "5b03d005c0",
-        "title_fa": "کاهش اهرم فشار ایران در تنگه هرمز تحت ضربات اقتصادی آمریکا",
-        "title_en": "Iran's Hormuz leverage wanes as US economic squeeze bites",
-        "summary": [
-            "اهرم سنتی ایران برای بستن تنگه هرمز تحت فشار شدید اقتصادی و حضور نظامی آمریکا کارایی قبلی خود را از دست داده است.",
-            "ناتوانی عملیاتی در مسدودسازی کامل این شریان حیاتی، ادعاهای تهدیدآمیز تهران را به مانورهای تبلیغاتی تقلیل داده است."
-        ],
-        "impact": "تضعیف تسلط ایران بر تنگه هرمز راه را برای تشدید اثرگذاری تحریم‌های نفتی آمریکا بازتر می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://www.reuters.com/business/energy/irans-hormuz-leverage-wanes-us-economic-squeeze-bites-2026-09-06/",
-        "clean_url": "https://www.reuters.com/business/energy/irans-hormuz-leverage-wanes-us-economic-squeeze-bites-2026-09-06",
-        "image": "http://www.bing.com/th?id=ONUT.NUoaJ7sHcHVUYVSN8qAAnA&pid=News",
-        "timestamp": 1788673680.0
-    },
-    {
-        "id": "aee08177b3",
-        "title_fa": "برنامه تهران برای حمله همزمان از چند جبهه به اسرائیل",
-        "title_en": "Iran preparing coordinated multi-front attack on Israel - JPost",
-        "summary": [
-            "گزارش‌ها نشان می‌دهد جمهوری اسلامی در حال هماهنگی با نیروهای نیابتی برای اجرای یک حمله هم‌زمان و چندمحوره به خاک اسرائیل است.",
-            "هدف اصلی این طرح، سردرگم کردن پدافند هوایی اسرائیل و تحمیل هزینه سنگین نظامی به تل‌آویو ارزیابی می‌شود."
-        ],
-        "impact": "افزایش شدید احتمال یک درگیری موشکی و پهپادی گسترده و بی‌سابقه در روزهای آینده.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "iranintl.com",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iM2Q0YUIzZGtnRUp5ZWVmSUFzUlRDdGJfYkFacGt2aFdCd3BoX3JtVE1ScThTNWtGOHd6Qm15WWV4dHFEQmVQN3J3c08?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1iM2Q0YUIzZGtnRUp5ZWVmSUFzUlRDdGJfYkFacGt2aFdCd3BoX3JtVE1ScThTNWtGOHd6Qm15WWV4dHFEQmVQN3J3c08",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788665688.0
-    },
-    {
-        "id": "544f829d50",
-        "title_fa": "احتمال ورود مستقیم ارتش اسرائیل به حملات علیه ایران",
-        "title_en": "Iran war: Will Israel get involved in strikes?",
-        "summary": [
-            "بحث‌ها در واشنگتن و تل‌آویو درباره پیوستن رسمی نیروی هوایی اسرائیل به موج بعدی حملات علیه مواضع ایران شدت گرفته است.",
-            "ورود مستقیم اسرائیل می‌تواند معامله نظامی منطقه را از ضربات محدود به یک نبرد تمام‌عیار تبدیل کند."
-        ],
-        "impact": "تغییر سطح رویارویی از جنگ سایه به نبرد مستقیم و علنی میان اسرائیل و ایران.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "LiveNOW from FOX",
-        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBadnJMR1VQX1VyWkthY1oxOVg5WVEwbmNTbm5WRG1JOUJPQ3hxNmtjdk9ZeTlybFRBWWt4b3ZOUkN4RXYwbWFhR1lnZzZ4Um1veXVpS3JkQ0N5RlVyT0tma0dIY9IBaEFVX3lxTFBKNlBUeFR3QjVsYVNiWnVUbGxMZ0h6TmpGYkN3elJwTUtMTGdoQnlzWVNFTFlwdjJaQnkwd0pMZzNfR0t6RE1pVjlBWlU1SVVYNjE3UENCcF9CblBsSXBwa2JsN2lmQXRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBadnJMR1VQX1VyWkthY1oxOVg5WVEwbmNTbm5WRG1JOUJPQ3hxNmtjdk9ZeTlybFRBWWt4b3ZOUkN4RXYwbWFhR1lnZzZ4Um1veXVpS3JkQ0N5RlVyT0tma0dIY9IBaEFVX3lxTFBKNlBUeFR3QjVsYVNiWnVUbGxMZ0h6TmpGYkN3elJwTUtMTGdoQnlzWVNFTFlwdjJaQnkwd0pMZzNfR0t6RE1pVjlBWlU1SVVYNjE3UENCcF9CblBsSXBwa2JsN2lmQXRR",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788663930.0
-    },
-    {
-        "id": "a275dcf48b",
-        "title_fa": "حمله موشکی ایران به تنگه هرمز و پایگاه آمریکا در اردن",
-        "title_en": "Iran launches new ballistic missile strikes in Hormuz and targets US base in Jordan",
-        "summary": [
-            "تهران در پاسخ به توقیف و شلیک به نفت‌کش‌های خود، با شلیک موشک‌های بالستیک ضدکشتی، جبهه دریایی را شلوغ‌تر کرده است.",
-            "هدف قرار دادن هم‌زمان پایگاه آمریکا در اردن، نشان‌دهنده تغییر تئوری نظامی ایران به سمت ضربات پیش‌دستانه است."
-        ],
-        "impact": "تشدید ناامنی در گلوگاه انرژی جهان و بالا رفتن آنی قیمت جهانی نفت.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "bankingnews.gr",
-        "url": "https://www.bankingnews.gr/diethni/articles/897699/iran-launches-new-ballistic-missile-strikes-in-hormuz-and-targets-us-base-in-jordan",
-        "clean_url": "https://www.bankingnews.gr/diethni/articles/897699/iran-launches-new-ballistic-missile-strikes-in-hormuz-and-targets-us-base-in-jordan",
-        "image": "https://www.bankingnews.gr/media/k2/items/cache/c28e0da9d6c7e4efd1945dedf655c245_XL.jpg",
-        "timestamp": 1788654360.0
-    },
-    {
-        "id": "62491cec9e",
-        "title_fa": "شعله‌ور شدن جنگ در یمن؛ ۶۰ کشته در باب‌المندب",
-        "title_en": "Over 60 killed in Yemen as Houthis battle Saudi-backed forces near Red Sea gateway",
-        "summary": [
-            "نبردهای شدید میان حوثی‌ها و نیروهای تحت حمایت عربستان در نزدیکی ورودی دریای سرخ بیش از ۶۰ کشته برجای گذاشت.",
-            "جنگنده‌های سعودی مواضع حوثی‌ها را زیر آتش سنگین گرفته‌اند تا مانع پیشروی آن‌ها شوند."
-        ],
-        "impact": "تشدید ناامنی در شاهراه دریای سرخ و فشار مضاعف بر بازوی نیابتی تهران در جنوب.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "The Times of Israel",
-        "url": "https://www.timesofisrael.com/over-60-killed-in-yemen-as-houthis-battle-saudi-backed-forces-near-red-sea-gateway/",
-        "clean_url": "https://www.timesofisrael.com/over-60-killed-in-yemen-as-houthis-battle-saudi-backed-forces-near-red-sea-gateway",
-        "image": "https://static-cdn.toi-media.com/www/uploads/2024/06/AFP__20240415__34PH8PE__v1__HighRes__YemenConflict-e1718966801890-640x400.jpg",
-        "timestamp": 1788627420.0
-    },
-    {
-        "id": "9599f94f11",
-        "title_fa": "ضربه‌ متقابل آمریکا به ناوگان سایه سپاه در خلیج فارس",
-        "title_en": "US forces destroy three IRGC oil tankers after coming under Iranian fire",
-        "summary": [
-            "سنتکام در پاسخ به حمله موشکی سپاه به ناوهای آمریکایی، ۳ نفتکش شبکه قاچاق نفت سپاه را در تنگه هرمز و دریای عمان منهدم کرد.",
-            "هدف قرار گرفتن نفتکش‌های شبکه سایه، شریان مالی چند میلیارد دلاری سپاه و گروه‌های نیابتی‌اش را مستقیماً نشانه رفته است.",
-            "ادعای تبلیغاتی سپاه درباره اصابت به ناو هواپیمابر آمریکا با تکذیب صریح سنتکام و اعلام دفع کامل حملات همراه شد."
-        ],
-        "impact": "آغاز درگیری مستقیم نظامی در حوزه انرژی خلیج فارس و جهش فوری ریسک دریانوردی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Jewish News Syndicate",
-        "url": "https://www.jns.org/news/u-s-news/us-forces-destroy-three-irgc-oil-tankers-after-coming-under-iranian-fire",
-        "clean_url": "https://www.jns.org/news/u-s-news/us-forces-destroy-three-irgc-oil-tankers-after-coming-under-iranian-fire",
-        "image": "https://static.jns.org/dims4/default/7575d71/2147483647/strip/true/crop/4096x2306+0+213/resize/1000x563!/format/webp/quality/90/?url=https://static.jns.org/cc/d1/3d55f6b04c35a530963cd54885b4/hjwyggwwmaaxgh7.jpg",
-        "timestamp": 1788623340.0
-    },
-    {
-        "id": "6a6d2b8763",
-        "title_fa": "ضربه‌کاری آمریکا به نفتکش‌های ایرانی و پاسخ تلافی‌جویانه تهران",
-        "title_en": "US and Iran trade retaliatory attacks on ships as conflict flares",
-        "summary": [
-            "ارتش آمریکا سه نفتکش مرتبط با ایران را در خلیج عمان و نزدیک جزیره خارگ به طور کامل نابود یا زمین‌گیر کرد.",
-            "رسانه‌های دولتی ایران در پاسخ مدعی هدف قرار دادن چند شناور آمریکایی و نفتکش عبوری از تنگه هرمز شدند.",
-            "جنگ نیابتی در دریا اکنون به مرحله انهدام مستقیم زیرساخت‌ها و شناورهای نفتی کشیده شده است."
-        ],
-        "impact": "جهش آنی ریسک دریانوردی در تنگه هرمز و احتمال بالا رفتن قیمت جهانی انرژی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.75,
-        "source": "Yahoo",
-        "url": "https://www.yahoo.com/news/us/articles/us-hits-3-iranian-oil-143559236.html",
-        "clean_url": "https://www.yahoo.com/news/us/articles/us-hits-3-iranian-oil-143559236.html",
-        "image": "http://www.bing.com/th?id=ONUT.J7A1zMdD2h5rNwfiwaFqHg&pid=News",
-        "timestamp": 1788623040.0
     }
 ]
