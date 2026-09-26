@@ -1,5 +1,23 @@
 [
     {
+        "id": "706bf80955",
+        "title_fa": "تحلیل اورشلیم‌پست درباره لزوم تفکیک کردها از تجزیه‌طلبی",
+        "title_en": "Why Israel must distinguish Iran’s Kurds from separatist movements - opinion",
+        "summary": [
+            "تحلیلگران اسرائیلی بر ضرورت تمایز میان مطالبات قومی کردها و جریان‌های تجزیه‌طلب در ساختار سیاسی آینده ایران تاکید می‌کنند.",
+            "راهبرد تل‌آویو بر تمرکز فشار علیه هسته سخت جمهوری اسلامی قرار دارد، نه اقداماتی که به تمامیت ارضی ایران آسیب بزند."
+        ],
+        "impact": "تنظیم دقیق‌تر راهبردهای امنیتی و رسانه‌ای تل‌آویو در قبال اقوام ایرانی در نبرد با جمهوری اسلامی.",
+        "tag": "امنیتی",
+        "urgency": 5,
+        "sentiment": 0.2,
+        "source": "The Jerusalem Post",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQjVZQ2hSS1RadzBUT3E3RlVVUG1CaHVvUkpFUUxWN0RLakphbEtUbWhnTUM2aElpYkU4MU80d3BwSjUyZWpfUWVoQk1IUXZoVlFUanBlRQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+        "clean_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9TQjVZQ2hSS1RadzBUT3E3RlVVUG1CaHVvUkpFUUxWN0RLakphbEtUbWhnTUM2aElpYkU4MU80d3BwSjUyZWpfUWVoQk1IUXZoVlFUanBlRQ",
+        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+        "timestamp": 1790404936.0
+    },
+    {
         "id": "62511c376b",
         "title_fa": "سرایت بحران جنگ در ایران به رویدادهای ورزشی بین‌المللی",
         "title_en": "How the war in Iran is creating chaos and uncertainty in sport",
@@ -90,6 +108,44 @@
         "timestamp": 1790367949.0
     },
     {
+        "id": "e6ed71b752",
+        "title_fa": "رد طرح آتش‌بس ایران توسط ترامپ و بن‌بست در تنگه هرمز",
+        "title_en": "Iran awaits US move after WSJ report says Trump rejects peace plan",
+        "summary": [
+            "تهران پیشنهاد داده در ازای رفع محاصره بنادر و لغو تحریم‌های نفتی، تنگه هرمز را باز کند و آتش‌بس ۷ روزه برقرار کند، اما ترامپ این طرح را رد کرده است.",
+            "مسعود پزشکیان با مشروط کردن بازرسی‌های آژانس اتمی به توافق هرمز، سعی در امتیازگیری دارد اما مقامات ارشد رژیم هم‌زمان اعلام کرده‌اند هیچ عقب‌نشینی اتمی نخواهند داشت.",
+            "زیاده‌خواهی تهران در کنار اصرار واشنگتن بر لغو کامل برنامه اتمی، مذاکرات را به بن‌بست کشانده و ریسک درگیری مستقیم را بالا برده است."
+        ],
+        "impact": "افزایش شدید ریسک درگیری نظامی در تنگه هرمز و احتمال جهش قیمت جهانی نفت.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "Reuters on MSN",
+        "url": "https://www.msn.com/en-us/news/other/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan/ar-AA2cZJHM",
+        "clean_url": "https://www.msn.com/en-us/news/other/iran-awaits-us-move-after-wsj-report-says-trump-rejects-peace-plan/ar-AA2cZJHM",
+        "image": "http://www.bing.com/th?id=ONUT.wA2ogFV0ZVYESbu8sZ8ZXQ&pid=News",
+        "timestamp": 1790364118.0
+    },
+    {
+        "id": "c6e5e79453",
+        "title_fa": "تمجید شاهزاده رضا پهلوی از اقدام کلمبیا در قطع رابطه با تهران",
+        "title_en": "شاهزاده رضا پهلوی از کلمبیا برای قطع روابط دیپلماتیک با جمهوری اسلامی قدردانی کرد",
+        "summary": [
+            "شاهزاده رضا پهلوی تصمیم کلمبیا برای قطع روابط دیپلماتیک با جمهوری اسلامی را تصمیمی اصولی در برابر تروریسم و ناقضان حقوق بشر خواند.",
+            "این موضع‌گیری نشان‌دهنده تقویت فشارهای بین‌المللی بر جمهوری اسلامی و تلاش اپوزیسیون برای انزوای بیشتر تهران است.",
+            "وی تاکید کرد که در ایران آزاد، روابط با کشورهای مدافع آزادی بر پایه منافع ملی بازسازی خواهد شد."
+        ],
+        "impact": "تشدید انزوای دیپلماتیک جمهوری اسلامی در آمریکای لاتین و دستاورد سیاسی برای اپوزیسیون.",
+        "tag": "اپوزیسیون",
+        "urgency": 5,
+        "sentiment": 0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609255894",
+        "clean_url": "https://www.iranintl.com/202609255894",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/092e2365e3a30efcbcd5d2eb9f247dd032110987-800x533.jpg?rect=0,74,614,322&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790358180.0
+    },
+    {
         "id": "3998dda6ce",
         "title_fa": "حاشیه‌سازی هدیه ترامپ به شی جین‌پینگ در کاخ سفید",
         "title_en": "Trump's 'Communist' Hypocrisy? Melania's Gift To Xi Sparks Fury, Users Unload Online",
@@ -106,6 +162,24 @@
         "clean_url": "https://www.msn.com/en-in/news/other/trump-s-communist-hypocrisy-melania-s-gift-to-xi-sparks-fury-users-unload-online/vi-AA2cXc3O",
         "image": "https://static.toiimg.com/thumb/msid-134483569,width-1280,height-720,imgsize-28964,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
         "timestamp": 1790357400.0
+    },
+    {
+        "id": "19eea3cf36",
+        "title_fa": "تاکید ترامپ بر ماندگاری اسکات بسنت در وزارت خزانه‌داری",
+        "title_en": "ترامپ: بسنت در وزارت خزانهداری عملکرد بسیار خوبی دارد و جایی نخواهد رفت",
+        "summary": [
+            "دونالد ترامپ گزارش‌ها درباره تغییر سمت وزیر خزانه‌داری خود را اخبار جعلی خواند و بر ادامه کار او تاکید کرد.",
+            "ثبات در تیم اقتصادی ترامپ نشان‌دهنده تداوم خط‌مشی سخت‌گیرانه مالی و تحریمی علیه مخالفان آمریکا است."
+        ],
+        "impact": "تثبیت تیم تحریمی آمریکا و تداوم فشار حداکثری بر شریان‌های مالی رژیم ایران.",
+        "tag": "اقتصاد",
+        "urgency": 4,
+        "sentiment": 0.1,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609252781",
+        "clean_url": "https://www.iranintl.com/202609252781",
+        "image": "https://i.iranintl.com/images/rdk9umy0/production/2063bc470a30f0b349b2d7ae9b1e1439662a2a9e-678x452.jpg?rect=0,48,678,356&w=1200&h=630&q=66&fit=max&auto=format",
+        "timestamp": 1790355720.0
     },
     {
         "id": "4450b56e8e",
@@ -200,6 +274,25 @@
         "clean_url": "https://www.algemeiner.com/2026/09/25/el-sayed-refuses-stand-iranian-protesters-condemn-regimes-brutal-crackdown",
         "image": "https://www.algemeiner.com/wp-content/uploads/2026/09/2026-09-22T151955Z_1747379369_RC2DONA8KKFX_RTRMADP_3_USA-ELECTION-MICHIGAN-1.jpg",
         "timestamp": 1790355000.0
+    },
+    {
+        "id": "c075efd1a0",
+        "title_fa": "رایزنی ترامپ و شی جین‌پینگ درباره جنگ ایران",
+        "title_en": "ترامپ درباره گفتوگو با شی درباره جنگ ایران: فکر میکنم عملکرد خیلی خوبی خواهیم داشت",
+        "summary": [
+            "دونالد ترامپ در حاشیه دیدارهایش از گفتگو با رئیس‌جمهور چین درباره پرونده جنگ ایران خبر داده و آن را بسیار مثبت ارزیابی کرد.",
+            "واشنگتن تلاش می‌کند چین را برای قطع شریان‌های مالی و خریدهای نفتی از ایران تحت فشار بگذارد تا ماشین جنگی تهران فلج شود.",
+            "پکن برای حفظ تعادل انرژی خود، بین فشارهای آمریکا و خریدهای ارزان از ایران دست به عصا حرکت می‌کند."
+        ],
+        "impact": "احتمال تنگ‌تر شدن حلقه تحریم‌های نفتی ایران از طریق هماهنگی واشنگتن و پکن.",
+        "tag": "دیپلماسی",
+        "urgency": 6,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609252033",
+        "clean_url": "https://www.iranintl.com/202609252033",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790353800.0
     },
     {
         "id": "81829c7044",
@@ -5436,98 +5529,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788788629.0
-    },
-    {
-        "id": "66f8471372",
-        "title_fa": "موضع قاطع امارات در برابر تهدیدات نفتی و عبور از بحران",
-        "title_en": "UAE says its energy exports will not be 'held hostage' by Iran war",
-        "summary": [
-            "ابوظبی تاکید کرده که صادرات انرژی این کشور هرگز گروگان جنگ و باج‌خواهی‌های منطقه‌ای نخواهد شد.",
-            "نگرانی شدید کشورهای خلیج فارس از کشیده شدن پای زیرساخت‌های نفتی به درگیری مستقیم با تهران کاملاً مشهود است."
-        ],
-        "impact": "افزایش فشار بر واشنگتن جهت تضمین امنیت کامل خطوط کشتیرانی خلیج فارس.",
-        "tag": "انرژی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2k1aEFKNWUzaXRzZXlkTVZNb3MyOTZoSjBoa2N5Zmtpd1Z2VVRWbV9JcnNHN0hkS1ZPRXEyb1UxdGMzN1pFNUFCUmpPVTNvQndsa3c1TzBwNEVvVXNLVXZjNGVnbzF6TUdGS2N5SVdLT2k2Nlk1TmREb0ZlTVp1cGlLRzJTMWJqLTN4VVRiY2s1emV6YldrQnJHQWRmZFBKRUdDalJjb1lFM1NxaHI2eDdWWFN1R0tydFJYOUh3Z0phb0paZUNRMw",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788786803.0
-    },
-    {
-        "id": "8687d547c9",
-        "title_fa": "فشار حداکثری ترامپ و تهدید تهران به گسترش دامنه جنگ",
-        "title_en": "Trump’s blockade pushes Iran toward military escalation",
-        "summary": [
-            "واشنگتن با کنار گذاشتن دیپلماسی و تشدید فشار اقتصادی، تهران را در تنگنای سخت قرار داده است.",
-            "جمهوری اسلامی برای فرار از خفگی اقتصادی، استراتژی ریسک‌افزایی و تهدید به جنگ گسترده را پیش گرفته تا طرف مقابل را مجبور به عقب‌نشینی کند.",
-            "این رویارویی نشان می‌دهد که خطر درگیری مستقیم نظامی در منطقه به بالاترین حد خود رسیده است."
-        ],
-        "impact": "افزایش احتمال درگیری مستقیم نظامی و جهش شدید قیمت جهانی انرژی.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "CNN on MSN",
-        "url": "https://www.msn.com/en-us/news/other/trump-s-blockade-pushes-iran-toward-military-escalation/ar-AA2bKEvU",
-        "clean_url": "https://www.msn.com/en-us/news/other/trump-s-blockade-pushes-iran-toward-military-escalation/ar-AA2bKEvU",
-        "image": "http://www.bing.com/th?id=ONUT.86nXGot2So-i8qf0RxH8gg&pid=News",
-        "timestamp": 1788776363.0
-    },
-    {
-        "id": "11c825849f",
-        "title_fa": "حملات سنگین به جنوب لبنان و تحرکات پهپادی حوثی‌ها",
-        "title_en": "Israeli airstrikes on Lebanese village kill 12, plus other key Mideast...",
-        "summary": [
-            "حملات هوایی اسرائیل به مقرها و عناصر حزب‌الله در جنوب لبنان حداقل ۱۲ کشته برجای گذاشت.",
-            "حوثی‌های مورد حمایت تهران ادعای سرنگونی پهپاد شناسايی عربستان و هدف قرار دادن نفتکش‌ها را مطرح کردند.",
-            "تلفات جانی در لبنان و ناپدید شدن خدمه نفتکش‌ها، نشان‌دهنده هماهنگی کامل بازوهای نیابتی سپاه است."
-        ],
-        "impact": "گسترش دامنه جنگ به جبهه‌های چندگانه و خطر ورود مستقیم ریاض به درگیری‌های دریایی.",
-        "tag": "نیابتی",
-        "urgency": 9,
-        "sentiment": -0.85,
-        "source": "Associated Press",
-        "url": "https://www.yahoo.com/news/world/articles/israeli-airstrikes-hit-southern-lebanon-091000051.html",
-        "clean_url": "https://www.yahoo.com/news/world/articles/israeli-airstrikes-hit-southern-lebanon-091000051.html",
-        "image": "https://media.zenfs.com/en/ap.org/b2288724b0e68a971943d79c061ba54a.jpg",
-        "timestamp": 1788773870.0
-    },
-    {
-        "id": "7f6f7d4819",
-        "title_fa": "فشار برای ارجاع پرونده هسته‌ای ایران به شورای امنیت",
-        "title_en": "US proposes referring Iran to UN Security Council over nuclear inspections",
-        "summary": [
-            "آمریکا و تروئیکای اروپایی ارجاع پرونده ایران به شورای امنیت سازمان ملل را در دستور کار آژانس قرار دادند.",
-            "ممانعت تهران از بازرسی سایت‌های غنی‌سازی، قفل دیپلماتیک را سنگین‌تر کرده است.",
-            "این تندترین اقدام حقوقی بین‌المللی علیه برنامه هسته‌ای ایران در طول دو دهه اخیر محسوب می‌شود."
-        ],
-        "impact": "کلید خوردن بازگشت تحریم‌های سازمان ملل و انزوای مطلق دیپلماتیک تهران.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.85,
-        "source": "Crypto Briefing",
-        "url": "https://cryptobriefing.com/us-iran-un-security-council-nuclear-referral/",
-        "clean_url": "https://cryptobriefing.com/us-iran-un-security-council-nuclear-referral",
-        "image": "https://static.cryptobriefing.com/wp-content/uploads/2026/09/07044852/library-us-proposes-referring-iran-to-un-security-council-over-n-800x450.png",
-        "timestamp": 1788770940.0
-    },
-    {
-        "id": "4745e6b337",
-        "title_fa": "گره خوردن پرونده هسته‌ای به تغییر رهبری در ایران",
-        "title_en": "Iran nuclear deal may await new leadership as US pressure deepens",
-        "summary": [
-            "تشدید فشار حداکثری آمریکا توافق هسته‌ای را رسماً به بعد از تغییرات کلان حاکمیتی در ایران موکول کرده است.",
-            "واشنگتن دیگر انعطافی برای چانه‌زنی با تیم فعلی تهران نشان نمی‌دهد."
-        ],
-        "impact": "تداوم و تشدید تحریم‌های خفه‌کننده بدون هیچ افق گشایش اقتصادی.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "The Arab Weekly",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBqYTJ5Y0VWekdaTHdJLXJucERHUjhzX2pRQUQyRHc2aTZKdWtCM2tNc2UyQl9wS0lfUG9YeHd0a0RfUzBHSC1jamhPbkFxX3lvdGN2WTltSUoxMDdlV2k2SU92TzZ2RjJKVks3eUZUV3ZNX0JaZHQ1NHE4QkVwSjgyUVVaTGZ3YkRra3BPZ01OZw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBqYTJ5Y0VWekdaTHdJLXJucERHUjhzX2pRQUQyRHc2aTZKdWtCM2tNc2UyQl9wS0lfUG9YeHd0a0RfUzBHSC1jamhPbkFxX3lvdGN2WTltSUoxMDdlV2k2SU92TzZ2RjJKVks3eUZUV3ZNX0JaZHQ1NHE4QkVwSjgyUVVaTGZ3YkRra3BPZ01OZw",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788770144.0
     }
 ]
