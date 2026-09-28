@@ -1,5 +1,157 @@
 [
     {
+        "id": "8abf3bebb5",
+        "title_fa": "افشاگری والز: ایران پیشنهاد تامین اورانیوم غیرنظامی آمریکا را رد کرد",
+        "title_en": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+        "summary": [
+            "مایک والز اعلام کرد واشینگتن در مذاکرات قبلی پیشنهاد تامین اورانیوم غنی‌شده برای برنامه صلح‌آمیز مشابه مدل امارات را داد اما تهران نپذیرفت.",
+            "شرط آمریکا برای فعالیت هسته‌ای ایران، پذیرش بازرسی‌های کامل بین‌المللی و توقف غنی‌سازی بومی بوده است.",
+            "رد این پیشنهاد نشان داد جمهوری اسلامی اصرار دارد خط قرمز غنی‌سازی در داخل را حفظ کند."
+        ],
+        "impact": "بسته‌تر شدن مسیرهای دیپلماتیک و توجیه اعمال تحریم‌ها و فشارهای سخت‌تر علیه برنامه هسته‌ای.",
+        "tag": "هسته‌ای",
+        "urgency": 7,
+        "sentiment": -0.65,
+        "source": "Al Jazeera",
+        "url": "https://www.yahoo.com/news/politics/articles/mike-waltz-us-offered-sell-174245430.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/mike-waltz-us-offered-sell-174245430.html",
+        "image": "https://media.zenfs.com/en/al_jazeera_289/6d0f29aa9753c3357212c5ac5fa3ade0.jpg",
+        "timestamp": 1790532300.0
+    },
+    {
+        "id": "4b7fc69daf",
+        "title_fa": "خط و نشان ترامپ: ترکیب فشار اقتصادی و حمله نظامی به ایران",
+        "title_en": "ترامپ: با ترکیب فشار اقتصادی و اقدام نظامی، در جنگ با حکومت ایران پیروز می‌شویم",
+        "summary": [
+            "دونالد ترامپ با رد پیشنهاد توافق تهران، گزینه اقدام نظامی پیش از انتخابات میدترم را کاملاً باز گذاشته است.",
+            "واشینگتن پیشنهاد فعلی جمهوری اسلامی برای بازگشایی تنگه هرمز را ناکافی می‌داند و خواستار عقب‌نشینی‌های بنیادین است.",
+            "مواضع جدید آمریکا نشان می‌دهد مانور دیپلماتیک تهران نتوانسته محاسبات طرف مقابل را تغییر دهد."
+        ],
+        "impact": "افزایش احتمال درگیری مستقیم نظامی و جهش ریسک اقتصادی در بازارهای مالی تهران.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.85,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609279652",
+        "clean_url": "https://www.iranintl.com/202609279652",
+        "image": "http://www.bing.com/th?id=ONUT.c2BAJRmEfSJZPKCfla2Ftw&pid=News",
+        "timestamp": 1790522820.0
+    },
+    {
+        "id": "a917cb0c92",
+        "title_fa": "تکذیب ادعای سپاه؛ سنتکام توقیف شناور بدون‌سرنشین را رد کرد",
+        "title_en": "سنتکام با رد ادعای سپاه درباره توقیف یک شناور زیر سطحی گفت بر شناورهایش کنترل کامل دارد",
+        "summary": [
+            "فرماندهی مرکزی آمریکا ادعای سپاه پاسداران درباره توقیف شناور زیرسطحی رموس ۶۰۰ در تنگه هرمز را ناشی از استیصال خواند.",
+            "سنتکام تاکید کرد تمام شناورها و پهپادهای آمریکایی در منطقه تحت کنترل کامل قرار دارند و تردد تجاری جریان دارد.",
+            "روایت‌سازی تبلیغاتی سپاه تلاشی برای دستاوردسازی نظامی و جبران عقب‌نشینی‌ها در آبراه‌های بین‌المللی است."
+        ],
+        "impact": "بی‌اثر شدن مانور رسانه‌ای سپاه در ایجاد ارعاب دریایی برای کشتی‌رانی بین‌المللی.",
+        "tag": "نظامی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609270145",
+        "clean_url": "https://www.iranintl.com/202609270145",
+        "image": "http://www.bing.com/th?id=ONUT.pDwhVkSCQ_teLDF6lc0NJg&pid=News",
+        "timestamp": 1790522340.0
+    },
+    {
+        "id": "dd6b81e4e2",
+        "title_fa": "جنگ روانی ترامپ؛ انتشار نقشه با نام «تنگه ترامپ»",
+        "title_en": "ترامپ پس از رد پیشنهاد تهران، بار دیگر تصویری با عنوان «تنگه ترامپ» منتشر کرد",
+        "summary": [
+            "انتشار نقشه تنگه هرمز با نام جعلی «تنگه ترامپ» توسط رئیس‌جمهور آمریکا، پیام صریح واشینگتن درباره تسلط کامل بر این آبراه است.",
+            "این اقدام در پاسخ به اهرم‌سازی عباس عراقچی برای شرط‌گذاری در بازگشایی تنگه صورت گرفت.",
+            "واشینگتن با این پیام تصویری نشان داد تسلط بر خطوط مواصلاتی انرژی غیرقابل معامله است."
+        ],
+        "impact": "تشدید جنگ روانی در خلیج فارس و احتمال واکنش‌های تندتر از سوی نیروهای دریایی ایران.",
+        "tag": "جنگ‌روانی",
+        "urgency": 7,
+        "sentiment": -0.7,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609274603",
+        "clean_url": "https://www.iranintl.com/202609274603",
+        "image": "http://www.bing.com/th?id=ONUT.EmamrKtqtYMbSzvaHqyz6w&pid=News",
+        "timestamp": 1790519340.0
+    },
+    {
+        "id": "4ea3ec8393",
+        "title_fa": "کشف طرح حمله منتسب به ایران در پایگاه هوایی آمریکا در بریتانیا",
+        "title_en": "Iran’s terrifying campaign of revenge against countries that oppose it",
+        "summary": [
+            "پلیس ضدتروریسم بریتانیا پنج نفر را به اتهام تلاش برای حمله به پایگاه هوایی فیرفورد محل استقرار بمب‌افکن‌های آمریکایی بازداشت کرد.",
+            "این پایگاه نقش کلیدی در عملیات‌های نظامی علیه ایران داشته و تهران پیشتر آن را هدف مشروع قلمداد کرده بود.",
+            "کشیده شدن دامنه عملیات‌های تلافی‌جویانه ایران به اروپا، خطر درگیری مستقیم امنیتی با بریتانیا را بسیار بالا برده است."
+        ],
+        "impact": "تشدید برخوردهای امنیتی در اروپا علیه شبکه‌های وابسته به تهران و احتمال اقدام متقابل بریتانیا.",
+        "tag": "امنیتی",
+        "urgency": 8,
+        "sentiment": -0.85,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/us/articles/iran-terrifying-campaign-revenge-against-205550977.html",
+        "clean_url": "https://www.yahoo.com/news/us/articles/iran-terrifying-campaign-revenge-against-205550977.html",
+        "image": "https://s.yimg.com/lo/mysterio/api/eee376b3308498ce1e63de39abe1084fd79e1d02b01d45fd05353f7345f86cdf/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe_telegraph_258%2F17c982220c931332dfcfada3f47972d4.jpg",
+        "timestamp": 1790517300.0
+    },
+    {
+        "id": "e4527bf21e",
+        "title_fa": "سفر محرمانه نتانیاهو به ابوظبی و استقرار گنبد آهنین در امارات",
+        "title_en": "وای‌نت: نتانیاهو مخفیانه به ابوظبی رفت و با رییس امارات متحده عربی دیدار کرد",
+        "summary": [
+            "بنیامین نتانیاهو در سفری مخفیانه با محمد بن زاید دیدار کرده تا هماهنگی‌های پدافندی و امنیتی علیه ایران را نهایی کند.",
+            "استقرار موقت سامانه‌های گنبد آهنین اسرائیل در امارات، گامی عملی برای شکل‌گیری ائتلاف دفاعی منطقه‌ای است.",
+            "این همگرایی نشان می‌دهد کشورهای خلیج فارس برای مهار تهدیدهای موشکی، علناً با تل‌آویو وارد ساختار دفاع مشترک شده‌اند."
+        ],
+        "impact": "تعمیق انزوای منطقه‌ای تهران و مستقر شدن تجهیزات نظامی اسرائیل در همسایگی ایران.",
+        "tag": "دیپلماسی‌مخفی",
+        "urgency": 8,
+        "sentiment": -0.75,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609275516",
+        "clean_url": "https://www.iranintl.com/202609275516",
+        "image": "http://www.bing.com/th?id=ONUT.xY6vqAWpl6v-O5eKQ4DAXw&pid=News",
+        "timestamp": 1790511360.0
+    },
+    {
+        "id": "488db21df8",
+        "title_fa": "پیام جنجالی نتانیاهو در سالگرد ترور حسن نصرالله",
+        "title_en": "نتانیاهو در سالگرد کشته شدن حسن نصرالله: عید بر مردم اسرائیل مبارک است",
+        "summary": [
+            "بنیامین نتانیاهو با انتشار ویدیویی از علی خامنه‌ای و حسن نصرالله در میان آتش، سالگرد کشته شدن رهبر حزب‌الله را تبریک گفت.",
+            "این اقدام مستقیم، بخشی از رویکرد تحقیر علنی برای تضعیف روحیه بدنه شبکه نیابتی ایران در منطقه است.",
+            "پیام تل‌آویو روشن است: سران محور مقاومت همچنان بانک اهداف اصلی اسرائیل را تشکیل می‌دهند."
+        ],
+        "impact": "افزایش احتمال پاسخ‌های پهپادی یا موشکی شتاب‌زده گروه کاتائب یا حزب‌الله برای بازسازی اعتبار.",
+        "tag": "جنگ‌روانی",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609273326",
+        "clean_url": "https://www.iranintl.com/202609273326",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790502000.0
+    },
+    {
+        "id": "05730c3208",
+        "title_fa": "سقوط یک‌پله‌ای ایران در بازی‌های آسیایی و صعود بحرین",
+        "title_en": "یک برنز و چند برد تاریخی؛ بحرین جانشین ایران در روز هشتم بازی‌های آسیایی ۲۰۲۶",
+        "summary": [
+            "کاروان ورزشی ایران با کسب یک مدال برنز در روز هشتم، جایگاه هفتم را به بحرین واگذار کرد و به رتبه هشتم افتاد.",
+            "برنز ریحانه کریمی در وزنه‌برداری و پیروزی‌های زنان در تنیس انفرادی، تنها موفقیت‌های محدود ایران در این روز بود.",
+            "روند کند مدال‌آوری بار دیگر ضعف‌های ساختاری در مدیریت و پشتیبانی ورزش حرفه‌ای کشور را رو کرد."
+        ],
+        "impact": "موج جدید انتقادات رسانه‌ای از وضعیت فدراسیون‌ها و مدیریت ورزش کشور.",
+        "tag": "ورزش",
+        "urgency": 2,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202609277770",
+        "clean_url": "https://www.iranintl.com/202609277770",
+        "image": "http://www.bing.com/th?id=ONUT.EEd8zlP1AlP0iY-756nAYQ&pid=News",
+        "timestamp": 1790497620.0
+    },
+    {
         "id": "706bf80955",
         "title_fa": "تحلیل اورشلیم‌پست درباره لزوم تفکیک کردها از تجزیه‌طلبی",
         "title_en": "Why Israel must distinguish Iran’s Kurds from separatist movements - opinion",
@@ -5383,151 +5535,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX0F2SjZRdjNPdFlNLTI5RkxuSmNFZ0pzU3ZIRlRzQnl6Y3dQazN6OFhZT1lnbW9xSHVYemFXQ3hxeGpIVDg5cXJpNFdCZVJfMElmSDlnNmJXa2xRZU9qYTZEcWdxRUFHeVJVMGZENTZYa2NtcVAzSFhOcW9Bd2JxM1l1VlVyeVkwT0hndW1nU2h1ZjJaYlE",
         "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788815098.0
-    },
-    {
-        "id": "7e45667952",
-        "title_fa": "پاتک شورای حکام به پرونده هسته‌ای ایران و هشدار صریح تهران",
-        "title_en": "Iran to announce new Strait of Hormuz route as gas prices hit record high on Labor Day",
-        "summary": [
-            "آمریکا و تروئیکای اروپایی پیش‌نویس قطعنامه‌ای تند را برای ارجاع مجدد پرونده هسته‌ای ایران به شورای امنیت آماده کرده‌اند.",
-            "سخنگوی وزارت خارجه ایران رسماً هشدار داد که در صورت تصویب این قطعنامه، تهران واکنش تلافی‌جویانه و سختی نشان خواهد داد.",
-            "انسداد مسیر بازرسی‌های آژانس توسط ایران، آخرین پل‌های دیپلماسی هسته‌ای را در آستانه فرپاشی کامل قرار داده است."
-        ],
-        "impact": "احتمال فعال‌سازی مکانیسم ماشه و بازگشت کلیه تحریم‌های بین‌المللی شورای امنیت.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Fox News",
-        "url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-07-26",
-        "clean_url": "https://www.foxnews.com/live-news/us-iran-war-strait-of-hormuz-energy-prices-09-07-26",
-        "image": "https://a57.foxnews.com/assets.foxnews.com/liveblog/fn/prod/images/2026/09/624/351/a11f43f066a4370039b40387602749f0.jpg?ve=1&tl=1",
-        "timestamp": 1788813180.0
-    },
-    {
-        "id": "bc0ee624d9",
-        "title_fa": "خط‌ونشان موشکی تهران در خلیج فارس و ادعای انسداد دریانوردی",
-        "title_en": "Iran says it plans new Gulf 'exclusion zone', threatens US with new missiles",
-        "summary": [
-            "جمهوری اسلامی با هدف باج‌گیری امنیتی، ادعای شلیک موشکی به ناوهای آمریکایی و ایجاد منطقه ممنوعه در خلیج فارس را مطرح کرد.",
-            "این تحرکات ایذایی در تنگه هرمز بیش از آنکه جنبه عملیاتی داشته باشد، مانوری برای سرپوش گذاشتن بر آسیب‌پذیری‌های داخلی است."
-        ],
-        "impact": "افزایش فوری ریسک دریانوردی تجاری و صعود نرخ بیمه نفتکش‌ها در خلیج فارس.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Reuters on MSN",
-        "url": "https://www.msn.com/en-us/news/other/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/ar-AA2bLuVP",
-        "clean_url": "https://www.msn.com/en-us/news/other/iran-says-it-plans-new-gulf-exclusion-zone-threatens-us-with-new-missiles/ar-AA2bLuVP",
-        "image": "http://www.bing.com/th?id=ONUT.qrBEuQiL_XPCK6N1d620Bw&pid=News",
-        "timestamp": 1788808690.0
-    },
-    {
-        "id": "f9a2728542",
-        "title_fa": "رایزنی ترامپ درباره بازگشایی تنگه هرمز و مهار اتمی ایران",
-        "title_en": "Burnham, Trump discuss Hormuz reopening, Iran nuclear program",
-        "summary": [
-            "ترامپ در حال بررسی طرح‌های عملیاتی برای بازگشایی شریان حیاتی خلیج فارس و تضمین امنیت کشتیرانی است.",
-            "تمرکز اصلی واشنگتن بر مهار هم‌زمان برنامه هسته‌ای ایران و خنثی‌سازی تهدیدهای ترانزیتی قرار دارد."
-        ],
-        "impact": "احتمال تغییر آرایش نظامی آمریکا در خلیج فارس برای مقابله با تهدیدهای دریایی.",
-        "tag": "دیپلماسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4MkZBWHRVODFuYWttWmI5VTNIYjl4ZzlqY3lQdTlRbkdWdWEtWHdkOUpDUHh0UGZkenJSUm1hWm5NZHEzVHd0Z2w2SkY?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB4MkZBWHRVODFuYWttWmI5VTNIYjl4ZzlqY3lQdTlRbkdWdWEtWHdkOUpDUHh0UGZkenJSUm1hWm5NZHEzVHd0Z2w2SkY",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788807167.0
-    },
-    {
-        "id": "e07727ed51",
-        "title_fa": "خط‌ونشان تازه نتانیاهو: سرنگونی جمهوری اسلامی تنها راه است",
-        "title_en": "Netanyahu says Iran's regime is nearing its end, warns Tehran of a blow it cannot imagine",
-        "summary": [
-            "بنیامین نتانیاهو صریح‌تر از گذشته سرنگونی حکومت ایران را هدف اصلی دانسته و تغییر رژیم را پروژه‌ای نیمه‌کاره می‌خواند.",
-            "هشدار اسرائیل درباره «ضربه‌ای دور از تصور» نشان‌دهنده برنامه آماده‌سازی برای حمله به نقاط زیست‌محیطی، هسته‌ای یا کلیدی در ایران است.",
-            "تهران با تهدید به پاسخ شدیدتر نشان داده که خط کلامی جنگ را عقب نکشیده، اما ریسک برخورد مستقیم به بالاترین سطح رسیده است."
-        ],
-        "impact": "افزایش احتمال ضربه متقابل اسرائیل به زیرساخت‌های حیاتی ایران و پیامد سنگین نظامی در منطقه.",
-        "tag": "نظامی",
-        "urgency": 8,
-        "sentiment": -0.8,
-        "source": "Arkansas Public Advocate",
-        "url": "https://www.msn.com/en-us/money/general/netanyahu-says-iran-s-regime-is-nearing-its-end-warns-tehran-of-a-blow-it-cannot-imagine/ar-AA2bKp9b",
-        "clean_url": "https://www.msn.com/en-us/money/general/netanyahu-says-iran-s-regime-is-nearing-its-end-warns-tehran-of-a-blow-it-cannot-imagine/ar-AA2bKp9b",
-        "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2bKzEI.img?w=883&h=500&m=4&q=90",
-        "timestamp": 1788801461.0
-    },
-    {
-        "id": "4aabe514a5",
-        "title_fa": "حمایت سیاستمداران ارشد استرالیا از نقش شاهزاده رضا پهلوی",
-        "title_en": "چهار سیاستمدار ارشد استرالیا: شاهزاده رضا پهلوی چهره‌ای کلیدی در گذار از جمهوری اسلامی است",
-        "summary": [
-            "چهار نماینده و سناتور برجسته پارلمان استرالیا، شاهزاده رضا پهلوی را چهره کلیدی و صدای اصلی مردم ایران برای گذار از جمهوری اسلامی دانستند.",
-            "افزایش تعاملات دیپلماتیک بین‌المللی با محوریت اپوزیسیون، روند مشروعیت‌زدایی از حکومت تهران را سرعت بخشیده است."
-        ],
-        "impact": "تقویت موقعیت بین‌المللی اپوزیسیون و انزوای بیشتر دیپلماتیک جمهوری اسلامی.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.7,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609088173",
-        "clean_url": "https://www.iranintl.com/202609088173",
-        "image": "http://www.bing.com/th?id=ONUT.Yrk2SPhMEe8cYGDEOOe6Ug&pid=News",
-        "timestamp": 1788800400.0
-    },
-    {
-        "id": "9af557fba9",
-        "title_fa": "اتهام‌زنی اردوغان به اسرائیل درباره تخریب توافق ایران و آمریکا",
-        "title_en": "Erdogan accuses Israel of sabotaging Iran-US MoU, fueling regional war",
-        "summary": [
-            "رئیس‌جمهور ترکیه، تل‌آویو را عامل اصلی بن‌بست در تفاهم‌نامه‌های سیاسی و آتش‌افروزی منطقه دانست.",
-            "آنکارا تلاش می‌کند با مانور دیپلماتیک بر سر پرونده ایران، نقش میانجی‌گرانه خود را به واشنگتن تحمیل کند."
-        ],
-        "impact": "تعمیق تنش سیاسی میان ترکیه و اسرائیل و پیچیده‌تر شدن رایزنی‌های دیپلماتیک پشت پرده.",
-        "tag": "دیپلماسی",
-        "urgency": 5,
-        "sentiment": -0.4,
-        "source": "Iran International",
-        "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mZ0Y4bWc0VVl2Mzdod1IxclJubFRjLVpDMDlYSG92bzE5bWZUOEVtN2dXcEN6SVdHWjg1NlRwUG91eE10Tzh6WHM0M1k?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5mZ0Y4bWc0VVl2Mzdod1IxclJubFRjLVpDMDlYSG92bzE5bWZUOEVtN2dXcEN6SVdHWjg1NlRwUG91eE10Tzh6WHM0M1k",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788796785.0
-    },
-    {
-        "id": "b10570657d",
-        "title_fa": "اخراج بازرسان آژانس و انسداد نظارت اتمی هم‌زمان با تهدید هرمز",
-        "title_en": "IAEA says Iran blocking nuclear inspectors as Hormuz threats mount",
-        "summary": [
-            "تهران در اقدامی هماهنگ با تهدیدات نظامی، مانع ورود بازرسان آژانس بین‌المللی انرژی اتمی شده است.",
-            "گروسی درباره کوری اطلاعاتی آژانس و خطر جهش کنترل‌نشده در برنامه هسته‌ای هشدار داد."
-        ],
-        "impact": "تسریع در فعال‌سازی مکانیسم ماشه توسط اروپا و افزایش احتمال اقدام نظامی علیه تاسیسات اتمی.",
-        "tag": "هسته‌ای",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "euronews.com",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlFoNGNQMDdUb29uM0tjMkxfS21vd2I4bW4xUnVrTUtyWUMzOUhGMDQ0WHh0a1phWG9mUWVFZWwtMjJ0WER5Z3Z1d1VTbFZCZXB1Rm1mMEhfRUFNaTdrb3B4T0YtMk9sb1c2c3Y4dHdSaFNPcl85Vk9TV3Rqb3poMFhwWHNvaFBGeDVIUERQRGRTQnBCaFE0TW9GcVE1clhPTGVtOA?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQlFoNGNQMDdUb29uM0tjMkxfS21vd2I4bW4xUnVrTUtyWUMzOUhGMDQ0WHh0a1phWG9mUWVFZWwtMjJ0WER5Z3Z1d1VTbFZCZXB1Rm1mMEhfRUFNaTdrb3B4T0YtMk9sb1c2c3Y4dHdSaFNPcl85Vk9TV3Rqb3poMFhwWHNvaFBGeDVIUERQRGRTQnBCaFE0TW9GcVE1clhPTGVtOA",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788795718.0
-    },
-    {
-        "id": "c4bf6e0667",
-        "title_fa": "افشای شبکه مالی دور زدن تحریم‌ها از طریق بانک‌های آمریکا",
-        "title_en": "How Billions in Iranian Money Passes Through U.S. Banks",
-        "summary": [
-            "گزارش افشاگرانه از گردش میلیاردی پول‌های وابسته به شبکه صادراتی ایران در سیستم بانکی ایالات متحده پرده برداشت.",
-            "استفاده هوشمندانه سپاه و صرافی‌های پوششی از روزنه‌های نظارتی غرب، شریان مالی تحریم‌شده را زنده نگه داشته است."
-        ],
-        "impact": "انسداد ضربتی روزنه‌های دلاری توسط وزارت خزانه‌داری آمریکا و جریمه سنگین بانک‌های متخلف.",
-        "tag": "تحریم",
-        "urgency": 6,
-        "sentiment": -0.5,
-        "source": "WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQjNzVkFoRzZ3c0FnUE11ZlBzdGZOVnhPWS1Eb2FRYzZPekxwY2FOTFVSVjd5THpEU0YySmNTZ1ljZUJiTHhEbl8xS3lacGlaTS1rUFUwUXdXZlBSQTd0SkZsUVpOMjNtMVhhcnI2SzBlZjZHbGNKbzFRTE1fT0NYbTJ6ZTczREl2bTNweUtBcXJCUmg0aWtmckx0OXlVaXl1YlhPbw",
-        "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788788629.0
     }
 ]
