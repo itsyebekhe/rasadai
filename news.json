@@ -1,5 +1,157 @@
 [
     {
+        "id": "6e49120dcc",
+        "title_fa": "بازداشت نفوذی حوثی‌ها در قلب وزارت انرژی آمریکا",
+        "title_en": "US Energy Department employee arrested over alleged support for Iran-backed Houthis",
+        "summary": [
+            "یکی از کارمندان وزارت انرژی آمریکا به اتهام تامین تجهیزات پیشرفته مخابراتی، قطعات پهپاد و مواد اولیه انفجاری برای شبه‌نظامیان حوثی بازداشت شد.",
+            "متهم با سوءاستفاده از گذرنامه رسمی و سابقه کار در بخش مهندسی ارتش آمریکا، دانش فنی و تجهیزات تخصصی را مستقیماً به یمن منتقل کرده است.",
+            "لو رفتن این پرونده، عمق نفوذ ساختاری و جذب نیرو توسط شبکه نیابتی جمهوری اسلامی در داخل نهادهای حساس فدرال آمریکا را برپرملا کرد."
+        ],
+        "impact": "تنگ‌تر شدن شدید نظارت‌های امنیتی در نهادهای حساس فدرال و حساسیت مضاعف واشینگتن به شبکه نفوذ ایران.",
+        "tag": "امنیتی",
+        "urgency": 7,
+        "sentiment": -0.8,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610014094",
+        "clean_url": "https://www.iranintl.com/en/202610014094",
+        "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+        "timestamp": 1790895060.0
+    },
+    {
+        "id": "d5462ce1d5",
+        "title_fa": "خروج آمریکا از عراق و خطر جهش تحرکات شبه‌نظامیان",
+        "title_en": "America Exits Iraq, The Third Time",
+        "summary": [
+            "پایان ماموریت رسمی نظامی آمریکا در عراق، زمینه‌ساز جسارت بیشتر گروه‌های نیابتی وابسته به سپاه در منطقه شده است.",
+            "شبه‌نظامیان عراق با هماهنگی کامل با حوثی‌ها، حملات خود را علیه اهداف آمریکایی و منطقه‌ای تشدید کرده‌اند.",
+            "خالی شدن پایگاه‌های آمریکا می‌تواند خاک عراق را به زمین بازی اصلی تنش نظامی میان اسرائیل، آمریکا و محور شیعی تبدیل کند."
+        ],
+        "impact": "افزایش قدرت مانور میدانی نیابتی‌های تهران در عراق و بالا رفتن خطر تصاعد مستقیم بحران.",
+        "tag": "نیابتی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Free Press Journal",
+        "url": "https://www.freepressjournal.in/analysis/america-exits-iraq-the-third-time",
+        "clean_url": "https://www.freepressjournal.in/analysis/america-exits-iraq-the-third-time",
+        "image": "https://media.assettype.com/freepressjournal/2026-10-01/m858dye6/Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Copy-of-Queen-Of-All-Mayhem-2026-10-01T211401.143.jpg",
+        "timestamp": 1790869500.0
+    },
+    {
+        "id": "acf3a14e5b",
+        "title_fa": "صدمه کاری تحریم‌ها: صادرات نفت ایران به صفر نزدیک شد",
+        "title_en": "اسکات بسنت، وزیر خزانه‌داری آمریکا: بارگیری نفت خام ایران در ماه سپتامبر به صفر رسید",
+        "summary": [
+            "وزیر خزانه‌داری آمریکا اعلام کرد در سایه اجرای محاصره دریایی و فشار حداکثری، بارگیری نفت خام ایران در ماه سپتامبر عملاً به صفر رسیده است.",
+            "واشینگتن هم‌زمان با مسدود کردن مسیرهای دریانوردی نفتکش‌ها، تحریم‌های جدیدی را بر بخش‌های ریلی و خودروسازی ایران تحمیل کرد.",
+            "قطع شریان درآمد نفتی، قدرتمندترین ابزار مالی حکومت را برای تامین هزینه گروه‌های نیابتی منطقه فلج کرده است."
+        ],
+        "impact": "سقوط شدید درآمدهای ارزی جمهوری اسلامی و خفگی مالی گسترده در شبکه نیابتی منطقه.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.9,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610014947",
+        "clean_url": "https://www.iranintl.com/202610014947",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790868720.0
+    },
+    {
+        "id": "9b705155c5",
+        "title_fa": "محکومیت جهانی موج اعدام‌ها؛ فشار حقوق بشری بر تهران",
+        "title_en": "46 states condemn Iran’s use of death penalty ‘to instill fear, suppress dissent’",
+        "summary": [
+            "۴۶ کشور در شورای حقوق بشر سازمان ملل با صدور بیانیه‌ای مشترک، موج شتابان اعدام معترضان در ایران و معامله با جان شهروندان را محکوم کردند.",
+            "در این بیانیه بر برگزاری دادگاه‌های غیرعلنی، شکنجه، اعترافات اجباری و خطر اعدام‌های قریب‌الوقوع معترضان بازداشتی تاکید شده است.",
+            "اجماع کم‌نظیر بین‌المللی در سازمان ملل، ابزار فشار حقوق بشری را پابه‌پای تحریم‌های اقتصادی علیه حکومت فعال‌تر کرده است."
+        ],
+        "impact": "تشدید انزوای دیپلماتیک جمهوری اسلامی و هموار شدن مسیر اجماع جهانی برای پرونده‌های حقوق بشری.",
+        "tag": "حقوق بشر",
+        "urgency": 6,
+        "sentiment": -0.7,
+        "source": "Iran International",
+        "url": "https://www.iranintl.com/en/202610011134",
+        "clean_url": "https://www.iranintl.com/en/202610011134",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790868480.0
+    },
+    {
+        "id": "b3f0519924",
+        "title_fa": "پیشنهاد عقب‌نشینی عراقچی در نیویورک برای لغو تحریم‌ها",
+        "title_en": "بلومبرگ: عراقچی پیشنهاد ورود بازرسان آژانس به ایران را در ازای کاهش تحریم‌ها مطرح کرد",
+        "summary": [
+            "عباس عراقچی در دیدارهای خصوصی نیویورک پیشنهاد داده در ازای کاهش تحریم‌ها، بازرسان آژانس به تاسیسات اتمی بمباران‌شده بازگردند.",
+            "دیپلمات‌های اروپایی درخواست عقب‌نشینی از تحریم‌های سازمان ملل را رد کرده و این پیشنهاد را نشانه صریح استیصال اقتصادی تهران می‌دانند.",
+            "دست‌پافچگی دیپلماسی حکومت برای باز کردن گره تحریم‌ها، از خالی شدن دست برنده تهران در برابر غرب خبر می‌دهد."
+        ],
+        "impact": "بی‌اثری تحرکات شتاب‌زده دیپلماتیک تهران و تداوم فشار قاطع واشینگتن و اروپا.",
+        "tag": "دیپلماسی",
+        "urgency": 7,
+        "sentiment": -0.6,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610012798",
+        "clean_url": "https://www.iranintl.com/202610012798",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790855340.0
+    },
+    {
+        "id": "901a8922ce",
+        "title_fa": "جنگ ایران و اقتصاد؛ چالش ترامپ در انتخابات میان‌دوره‌ای",
+        "title_en": "ترامپ کارزاری ۳۲ روزه را برای حمایت از جمهوری‌خواهان در انتخابات میان‌دوره‌ای آغاز می‌کند",
+        "summary": [
+            "ترامپ کمپین فشرده‌ای را برای حفظ اکثریت جمهوری‌خواهان آغاز کرده، اما نگرانی افکار عمومی از جنگ با ایران روی نتایج تاثیر گذاشته است.",
+            "برخی نامزدهای حزب جمهوری‌خواه به دلیل فشار اقتصادی و ترس از پیامدهای درگیری نظامی با ایران، در حال فاصله گرفتن از مواضع کاخ سفید هستند.",
+            "عامل ایران و هزینه‌های اقتصادی درگیری‌های منطقه‌ای به یکی از محورهای اصلی رقابت در انتخابات فشرده نوامبر تبدیل شده است."
+        ],
+        "impact": "احتمال شتاب‌زدگی کاخ سفید برای تعیین‌تکلیف سریع‌تر پرونده ایران جهت مهار پیامدهای داخلی انتخابات.",
+        "tag": "سیاسی",
+        "urgency": 5,
+        "sentiment": -0.3,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610013780",
+        "clean_url": "https://www.iranintl.com/202610013780",
+        "image": "http://www.bing.com/th?id=ONUT.RbUM1j6YzDhHu6DwoWxhUg&pid=News",
+        "timestamp": 1790854920.0
+    },
+    {
+        "id": "f9ac996bec",
+        "title_fa": "خط‌ونشان بی‌سابقه ترامپ برای تهران: توافق یا نابودی کامل",
+        "title_en": "دونالد ترامپ: اگر ایران پشت حادثه فلای‌دبی باشد، به‌شدت هدف قرار خواهد گرفت",
+        "summary": [
+            "دونالد ترامپ با مطرح کردن احتمال دخالت تهران در حادثه پرواز فلای‌دبی، هشدار داد در صورت اثبات این موضوع، واشینگتن ضربه نظامی بسیار سنگینی وارد خواهد کرد.",
+            "پیام ترامپ صریح‌تر از همیشه است: حکومت ایران یا یک توافق کاملاً یک‌طرفه را به نفع آمریکا امضا می‌کند یا کلاً از هم فرو می‌پاشد.",
+            "ارزیابی‌های اولیه نهادهای امنیتی اسرائیل نشان می‌دهد کمک‌خلبان عمانی احتمالاً خودسرانه عمل کرده، اما واشینگتن از این فضا برای تشدید فشار روانی و نظامی حداکثری بهره می‌برد."
+        ],
+        "impact": "افزایش بی‌سابقه خطر درگیری مستقیم نظامی و انسداد کامل هرگونه مسیر دیپلماسی کم‌هزینه.",
+        "tag": "نظامی",
+        "urgency": 9,
+        "sentiment": -0.9,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610017719",
+        "clean_url": "https://www.iranintl.com/202610017719",
+        "image": "http://www.bing.com/th?id=ONUT.h0Z3bCQn8-Mt0pmyszyyuQ&pid=News",
+        "timestamp": 1790850300.0
+    },
+    {
+        "id": "a6ffbfa6e2",
+        "title_fa": "دور زدن وتوی پکن و پوتن؛ تشکیل هیات نظارت بر تحریم‌های ایران",
+        "title_en": "مایک والتز: هیاتی برای نظارت بر اجرای تحریم‌های جمهوری اسلامی تشکیل خواهیم داد",
+        "summary": [
+            "سفیر آمریکا در سازمان ملل اعلام کرد واشینگتن پس از وتوی چین و روسیه، هیات اختصاصی خود را برای نظارت بر تحریم‌های اسنپ‌بک تشکیل می‌دهد.",
+            "آمریکا قصد دارد با همراه کردن متحدان جهانی، خروج کامل ایران از محدودیت‌های هسته‌ای را بدون نیاز به شورای امنیت تنبیه کند.",
+            "این اقدام مستقیم نشان می‌دهد واشینگتن اجازه نخواهد داد چین و روسیه چتر حمایتی برای دور زدن تحریم‌های تهران ایجاد کنند."
+        ],
+        "impact": "مسدود شدن راه‌های تنفسی جمهوری اسلامی از طریق شرق و بی‌اثر شدن حمایت‌های دیپلماتیک پکن و مسکو.",
+        "tag": "تحریم",
+        "urgency": 8,
+        "sentiment": -0.8,
+        "source": "ایران اینترنشنال",
+        "url": "https://www.iranintl.com/202610013255",
+        "clean_url": "https://www.iranintl.com/202610013255",
+        "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+        "timestamp": 1790844900.0
+    },
+    {
         "id": "37c87dd212",
         "title_fa": "خروج دولت ترامپ از نهاد مبارزه با فساد اروپایی",
         "title_en": "US Withdraws from European Anti-Corruption Panel",
@@ -5384,151 +5536,5 @@
         "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN3lJSHppY0liT3lJTDhwYml2Z3BTT3NNVW1WN3BPdVdlc3lJcXM4dTBKZ2sya2l2cVRaOHdIOGlwd3N5SVVtR0JfN3ZRbVk2bnVHbExwcmVNdG1iMkk1NHRUQ2FoZFVTVnpFY09DY1BNeDZ6dS1DdGtRS3JXOXpUSTlkYVg2V0FhclZFSXBpTzN3S28zbkE4MEhNdG9zRzdhLWc",
         "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1788976440.0
-    },
-    {
-        "id": "2eee1bbf91",
-        "title_fa": "بازسازی شبکه نیابتی؛ برنامه‌ریزی تهران برای حوثی‌ها و عراقی‌ها",
-        "title_en": "From Iraq to Yemen: How Iran is rebuilding its proxy network",
-        "summary": [
-            "با ضربات سنگین به حزب‌الله و حماس، سپاه پاسداران مرکز ثقل عملیات را به یمن و عراق منتقل کرده است.",
-            "ایجاد اتاق عملیات مشترک میان حوثی‌ها و شبه‌نظامیان عراقی جهت حمله به تاسیسات نفتی عربستان لو رفت.",
-            "تهران با توزیع توان موشکی در چند جبهه، به دنبال ایجاد بازدارندگی جدید در منطقه است."
-        ],
-        "impact": "گسترش دامنه ناامنی در خلیج فارس و هدف قرار گرفتن شریان‌های انرژی منطقه.",
-        "tag": "نیابتی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "Gulf News",
-        "url": "https://gulfnews.com/world/gulf/yemen/from-iraq-to-yemen-how-iran-is-rebuilding-its-proxy-network-1.500668872",
-        "clean_url": "https://gulfnews.com/world/gulf/yemen/from-iraq-to-yemen-how-iran-is-rebuilding-its-proxy-network-1.500668872",
-        "image": "https://media.assettype.com/gulfnews/2026-01-22/lcc042ao/newsml_afp_com_20260122T183438Z_doc_93pl6d4.jpeg?w=1200&ar=40:21&auto=format,compress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
-        "timestamp": 1788966660.0
-    },
-    {
-        "id": "8d604876cb",
-        "title_fa": "ریزش بازدارندگی سنتی و فروریختن هراس جهانی از جنگ هسته‌ای",
-        "title_en": "World leaders are losing their terror of nuclear war",
-        "summary": [
-            "برخلاف دوران جنگ سرد که ترس از نابودی متقابل مانع درگیری مستقیم می‌شد، رهبران امروز جهان حساسیت خود نسبت به خطرات اتمی را از دست داده‌اند.",
-            "نادیده گرفتن خطوط قرمز هسته‌ای، ریسک محاسبات غلط در مناقشات منطقه‌ای را به شدت افزایش داده است."
-        ],
-        "impact": "افزایش خطر اشتباه محاسباتی در منازعات بین‌المللی به دلیل بی‌حسی نسبت به سلاح هسته‌ای.",
-        "tag": "بین‌الملل",
-        "urgency": 5,
-        "sentiment": -0.5,
-        "source": "Mint",
-        "url": "https://www.livemint.com/global/world-leaders-are-losing-their-terror-of-nuclear-war-11788959418488.html",
-        "clean_url": "https://www.livemint.com/global/world-leaders-are-losing-their-terror-of-nuclear-war-11788959418488.html",
-        "image": "https://www.livemint.com/lm-img/img/2026/09/09/1600x900/logo/Russia-Putin-1_1788961282388_a840cc55-a74a-479b-bad3-a408881b4495_1788961300406_2a3bc031-60b5-4f1e-ad86-45c5a535ed21_1bfcef07-3cdb-4381-bf46-b21fda437b6d_4f0ecf7f-b269-4bf2-bbd1-92632c6211db.jpg",
-        "timestamp": 1788961500.0
-    },
-    {
-        "id": "f2d1730761",
-        "title_fa": "پیام ترامپ درباره پایان جنگ با تهران پس از انتخابات آمریکا",
-        "title_en": "ترامپ: جنگ با جمهوری اسلامی بلافاصله پس از انتخابات میان‌دوره‌ای پایان می‌یابد",
-        "summary": [
-            "دونالد ترامپ اعلام کرد جمهوری اسلامی به امید کاهش فشارها در پی دستکاری انتخابات آمریکا است، اما جنگ بلافاصله پس از انتخابات با شکست زیاده‌خواهی‌های تهران پایان می‌یابد.",
-            "هرگونه توافق آتی با ایران بسیار فراتر از پرونده هسته‌ای خواهد بود و برچیده شدن برنامه موشکی و شبکه نیابتی نظام را شامل می‌شود."
-        ],
-        "impact": "خط ونشان صریح ترامپ برای تحمیل توافقی جامع و فراهسته‌ای پس از انتخابات.",
-        "tag": "سیاسی",
-        "urgency": 7,
-        "sentiment": -0.4,
-        "source": "ایران اینترنشنال",
-        "url": "https://www.iranintl.com/202609094510",
-        "clean_url": "https://www.iranintl.com/202609094510",
-        "image": "http://www.bing.com/th?id=ONUT.pzRWDNfDi7mXoGMZSZdKRw&pid=News",
-        "timestamp": 1788958440.0
-    },
-    {
-        "id": "afe80cc75a",
-        "title_fa": "فراخوان ترامپ و نتانیاهو به مردم ایران برای سرنگونی جمهوری اسلامی",
-        "title_en": "Trump called for Iranians to overthrow their government. What happened?",
-        "summary": [
-            "واشنگتن و اورشلیم با صراحت کامل از اقوام و مردم ایران خواسته‌اند برای پایان دادن به استبداد دینی و بازگرداندن آینده کشور، حکومت را ساقط کنند.",
-            "این راهبرد مستقیم، هدف نهایی آمریکا و اسرائیل را از تضعیف نظامی به تغییر ساختار سیاسی و گذار کامل در ایران تغییر داده است."
-        ],
-        "impact": "تغییر رسمیت‌یافته استراتژی غربی-اسرائیلی به سمت حمایت مستقیم از سرنگونی حکومت.",
-        "tag": "سیاسی",
-        "urgency": 8,
-        "sentiment": 0.2,
-        "source": "ms",
-        "url": "https://www.ms.now/news/trump-iran-failed-uprising",
-        "clean_url": "https://www.ms.now/news/trump-iran-failed-uprising",
-        "image": "https://www.ms.now/wp-content/uploads/2026/09/260904-trump-failed-uprising-iran-03-zz.webp?w=792",
-        "timestamp": 1788944400.0
-    },
-    {
-        "id": "9b5a7dde60",
-        "title_fa": "انهدام نفتکش‌های سپاه توسط آمریکا و صعود نفت به بالای ۱۰۰ دلار",
-        "title_en": "US Hits Several Iran Oil Tankers in Response to Warship Attack",
-        "summary": [
-            "سنتکام در پاسخی کوبنده به حملات موشکی سپاه به ناو آمریکایی، ۵ نفتکش ایرانی را در خلیج عمان و نزدیک جزیره خارگ نابود کرد.",
-            "هدف قرار گرفتن شریان صادرات نفت ایران توسط واشنگتن، نفت برنت را به بالای ۱۰۰ دلار رساند تا هزینه ماجراجویی نظامی سپاه در تنگه هرمز فوراً به بازار جهانی منتقل شود."
-        ],
-        "impact": "انسداد شریان نفتی سپاه و جهش فوری قیمت جهانی انرژی به بالای ۱۰۰ دلار.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.8,
-        "source": "Bloomberg",
-        "url": "https://finance.yahoo.com/energy/articles/us-hits-several-iran-oil-091803758.html",
-        "clean_url": "https://finance.yahoo.com/energy/articles/us-hits-several-iran-oil-091803758.html",
-        "image": "https://media.zenfs.com/en/bloomberg_holding_pen_162/6c975458210725f979018c8699b7d4ef.jpg",
-        "timestamp": 1788943986.0
-    },
-    {
-        "id": "92c71cda7b",
-        "title_fa": "انسداد شبکه ۷.۸ میلیارد دلاری کریپتو و تتر سپاه توسط خزانه آمریکا",
-        "title_en": "US Treasury's Office Targeting Iran's Sanctions Evasion Through Bitcoin and USDT",
-        "summary": [
-            "دفتر کنترل دارایی‌های خارجی آمریکا (OFAC) کل بخش ارز دیجیتال ایران، به‌ویژه ذخایر ۵۰۷ میلیون دلاری تتر بانک مرکزی و صرافی نوبیتکس را تحریم کرد.",
-            "سپاه پاسداران که بیش از نصف معاملات آن‌چین را برای دور زدن تحریم‌ها و حفظ ارزش ریال استفاده می‌کرد، با فلج شدن این شریان مالی مواجه شد."
-        ],
-        "impact": "کور شدن آخرین معبر مالی دور زدن تحریم‌ها و فشار مضاعف بر سقوط ارزش ریال.",
-        "tag": "تحریم",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "BeInCrypto",
-        "url": "https://finance.yahoo.com/markets/crypto/articles/us-treasurys-office-targeting-irans-060445743.html",
-        "clean_url": "https://finance.yahoo.com/markets/crypto/articles/us-treasurys-office-targeting-irans-060445743.html",
-        "image": "https://media.zenfs.com/en/beincrypto_us_662/a2284625ca65963467775718fd425a25.jpg",
-        "timestamp": 1788933186.0
-    },
-    {
-        "id": "055bd27661",
-        "title_fa": "حمله مستقیم ایران به پایگاه آمریکا در اردن و ترانزیت هرمز",
-        "title_en": "Iran attacks US base in Jordan, ships near Hormuz after tankers sunk",
-        "summary": [
-            "تهران با حمله به پایگاه نظامی آمریکا در اردن و هدف قرار دادن کشتی‌ها در تنگه هرمز، درگیری‌ها را به سطح مواجهه مستقیم کشاند.",
-            "غرق شدن نفتکش‌ها و این پاسخ هجومی نشان می‌دهد جمهوری اسلامی روی گزینه تنش‌زایی حداکثری برای فرار از تنگنا شرط‌بندی کرده است.",
-            "واکنش نظامی حتمی واشنگتن طی ساعت‌های آینده، ابعاد و دامنه این بحران منطقه‌ای را مشخص خواهد کرد."
-        ],
-        "impact": "جهش فوری قیمت جهانی نفت و قرار گرفتن منطقه در آستانه درگیری مستقیم نظامی.",
-        "tag": "نظامی",
-        "urgency": 9,
-        "sentiment": -0.9,
-        "source": "Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ2FPaUNRYjRBWnd2cmxkT044cmZYbENZYnhTWXAzUGxadUpEZ3N3aHpVSEtodVVsWUt6djBaeFhjUm5JOGVrNEE1SXlaUkxoSzBVaUpaWjZTdkdXZzItRTFOaGtMZWVtbEhpdUFSUWgwczNXa2VqZ3ktdzVhajBmYllFNVJIaUxnMDBLazE4S0VSTzZSbVFxMDZSUVY4aHIxVmhkcUpZeF85TzZYV2tqWkE5bVNWM29qWlE",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1788926820.0
-    },
-    {
-        "id": "15b84b23a6",
-        "title_fa": "جهش قیمت نفت به مرز ۱۰۰ دلار و ادعای توقیف زیردریایی آمریکا",
-        "title_en": "NZ dollar tests 13 year lows",
-        "summary": [
-            "حملات موشکی حوثی‌ها به تأسیسات نفتی عربستان و تهدیدهای جدید در خلیج فارس، قیمت نفت برنت را به آستانه ۱۰۰ دلار رساند.",
-            "سپاه پاسداران ادعا کرده یک زیردریایی بدون سرنشین آمریکایی را در تنگه هرمز توقیف کرده و در صورت هدف قرار گرفتن شناورهایش، منافع آمریکا را خواهد زد."
-        ],
-        "impact": "التهاب شدید در بازارهای جهانی انرژی و بالا رفتن ریسک جنگ فراگیر در خطوط دریانوردی.",
-        "tag": "اقتصادی",
-        "urgency": 8,
-        "sentiment": -0.7,
-        "source": "interest.co.nz",
-        "url": "https://www.interest.co.nz/currencies/140169/currency-markets-settle-well-contained-australian-focus-shifts-more-hawkish",
-        "clean_url": "https://www.interest.co.nz/currencies/140169/currency-markets-settle-well-contained-australian-focus-shifts-more-hawkish",
-        "image": "https://www.interest.co.nz/sites/default/files/2024-03/nzd-pressure.jpg",
-        "timestamp": 1788912060.0
     }
 ]
