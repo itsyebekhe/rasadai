@@ -22,6 +22,13 @@ from ddgs import DDGS
 from dateutil import parser
 import hashlib
 
+# Silence verbose third-party loggers
+logging.getLogger("trafilatura").setLevel(logging.ERROR)
+logging.getLogger("urllib3").setLevel(logging.ERROR)
+logging.getLogger("ddgs").setLevel(logging.WARNING)
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger()
+
 # --- CONFIGURATION ---
 CONFIG = {
     'SEARCH_QUERY': 'Iran AND (Israel OR USA OR nuclear OR conflict OR sanctions OR currency OR IRGC)',
@@ -61,9 +68,13 @@ CONFIG = {
     'MAX_TEXT_CHARS': 1800,
     'MIN_TEXT_LEN': 100,
     'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
-    'GEMINI_MODEL': os.environ.get('GEMINI_MODEL', 'gemini-3.8-flash'),
+    'GEMINI_MODELS': [
+        os.environ.get('GEMINI_MODEL', 'gemini-3.8-flash'),
+        'gemini-3.8-flash',
+        'gemini-3.7-flash',
+        'gemini-3.1-pro-preview'
+    ],
     'GEMINI_EMBED_MODEL': 'text-embedding-004',
-    'AI_RETRIES': 3,
     'MIN_TELEGRAM_URGENCY': 7,
     'MAX_NEWS_AGE_HOURS': 18,
     'HISTORY_SIZE': 300,
@@ -84,7 +95,7 @@ PROXY_NAMES = [
     "تهمینه", "گردآفرید", "سهراب", "آتوسا", "رکسانا", "ماندانا"
 ]
 
-# --- GEMINI STRUCTURED SCHEMAS ---
+# --- STRUCTURED SCHEMAS ---
 BATCH_ANALYSIS_SCHEMA = {
     "type": "ARRAY",
     "items": {
@@ -196,26 +207,26 @@ SPECIAL_REPORT_SCHEMA = {
     "required": ["topic_tag", "headline", "lead_paragraph", "key_findings", "regime_vs_reality", "strategic_outlook"]
 }
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logger = logging.getLogger()
-
 
 class IranNewsRadar:
     def __init__(self):
-        # 1. Scraper for general websites (handles Cloudflare)
+        # 1. Scraper with adequate connection pool to handle multiple threads
         self.scraper = cloudscraper.create_scraper(
             browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False}
         )
+        pool_adapter = HTTPAdapter(pool_connections=30, pool_maxsize=30)
+        self.scraper.mount('http://', pool_adapter)
+        self.scraper.mount('https://', pool_adapter)
         self.scraper.headers.update({
             'Accept-Language': 'en-US,en;q=0.9,fa;q=0.8',
             'Cache-Control': 'no-cache',
         })
 
-        # 2. Optimized, low-overhead session specifically for Gemini APIs
+        # 2. Optimized, low-overhead session for Gemini API
         self.ai_session = requests.Session()
-        retries = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
-        adapter = HTTPAdapter(max_retries=retries, pool_connections=10, pool_maxsize=10)
-        self.ai_session.mount('https://', adapter)
+        retries = Retry(total=2, backoff_factor=0.5, status_forcelist=[429, 500, 502, 504])
+        ai_adapter = HTTPAdapter(max_retries=retries, pool_connections=10, pool_maxsize=10)
+        self.ai_session.mount('https://', ai_adapter)
         self.ai_session.headers.update({'Content-Type': 'application/json'})
 
         self.existing_news = self._load_existing_news()
@@ -239,14 +250,18 @@ class IranNewsRadar:
 
         self.gnews_en = GNews(language='en', country='US', period='4h', max_results=5)
 
-    # ───────────────────────── AI API Core ─────────────────────────
+    # ───────────────────────── AI API Core with Model Cascade ─────────────────────────
 
     def _call_gemini(self, system_prompt, user_prompt, schema=None, temperature=0.2):
         if not CONFIG.get('GEMINI_KEY'):
             logger.error("GEMINI_API_KEY is not configured.")
             return None
 
-        url = f"https://generativelanguage.googleapis.com/v1beta/models/{CONFIG['GEMINI_MODEL']}:generateContent?key={CONFIG['GEMINI_KEY']}"
+        # Build list of unique models to try in priority order
+        models_to_try = []
+        for m in CONFIG['GEMINI_MODELS']:
+            if m and m not in models_to_try:
+                models_to_try.append(m)
 
         gen_config = {"temperature": temperature}
         if schema:
@@ -259,22 +274,30 @@ class IranNewsRadar:
             "generationConfig": gen_config
         }
 
-        for attempt in range(CONFIG['AI_RETRIES']):
+        for model_name in models_to_try:
+            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={CONFIG['GEMINI_KEY']}"
             try:
                 resp = self.ai_session.post(url, json=payload, timeout=CONFIG['AI_TIMEOUT'])
                 if resp.status_code == 200:
                     data = resp.json()
                     raw = data['candidates'][0]['content']['parts'][0]['text']
                     return json.loads(raw)
+                
+                # If model is unavailable (503) or rate-limited (429), fall back to next model
+                if resp.status_code in [503, 429, 500]:
+                    logger.warning(f"Model {model_name} returned {resp.status_code} (overloaded). Cascading to next model...")
+                    time.sleep(1)
+                    continue
                 else:
-                    logger.error(f"Gemini API Error [{resp.status_code}]: {resp.text[:250]}")
+                    logger.error(f"Gemini API Error [{resp.status_code}] on {model_name}: {resp.text[:250]}")
             except Exception as e:
-                logger.warning(f"Gemini API attempt {attempt + 1} failed: {e}")
-                time.sleep(1.5 * (attempt + 1))
+                logger.warning(f"Gemini request exception on {model_name}: {e}. Cascading...")
+                time.sleep(1)
+
+        logger.error("All Gemini cascade models failed.")
         return None
 
     def get_embedding(self, text):
-        """Fetch normalized vector embedding via text-embedding-004."""
         if not text or not CONFIG.get('GEMINI_KEY'):
             return None
 
@@ -297,8 +320,8 @@ class IranNewsRadar:
                         self.embeddings_cache.pop(next(iter(self.embeddings_cache)))
                     self.embeddings_cache[cache_key] = values
                     return values
-        except Exception as e:
-            logger.debug(f"Embedding request failed: {e}")
+        except Exception:
+            pass
         return None
 
     @staticmethod
@@ -656,7 +679,7 @@ class IranNewsRadar:
 
         return extracted_text, self._pick_image(extracted_image, raw_image, fallback_text=extracted_text)
 
-    # ───────────────────────── AI Analysis Core & Deduplication ─────────────────────────
+    # ───────────────────────── AI Analysis Core ─────────────────────────
 
     def batch_analyze_with_gemini(self, candidates_data):
         if not candidates_data or not CONFIG.get('GEMINI_KEY'):
@@ -908,7 +931,6 @@ class IranNewsRadar:
         date_str = to_farsi_num(now_ir.strftime("%Y/%m/%d"))
         base_site = "https://itsyebekhe.github.io/rasadai/"
 
-        # Media Gallery Preparation (Pre-formatted outside f-string expressions)
         photo_urls = [it['image'] for it in items if self._is_valid_image_url(it.get('image'))]
         if not photo_urls:
             photo_urls = [self._get_fallback_image(items[0].get('title_en', 'news'))]
@@ -920,7 +942,6 @@ class IranNewsRadar:
             collage_imgs = "".join([f"<img src=\"{esc(u)}\"/>" for u in photo_urls[:4]])
             media_html = f"<tg-collage>{collage_imgs}<figcaption>تصاویر رویدادهای مهم</figcaption></tg-collage>\n"
 
-        # Market Ticker
         market_html = ""
         try:
             with open(CONFIG['FILES']['MARKET'], 'r', encoding='utf-8') as f:
@@ -937,7 +958,6 @@ class IranNewsRadar:
         except Exception:
             pass
 
-        # Headlines List
         headlines_li = []
         for it in items[:10]:
             title = esc(it.get('title_fa') or it.get('title_en'))
@@ -948,7 +968,6 @@ class IranNewsRadar:
             headlines_li.append(f"<li>{icon} <a href=\"{esc(deep)}\">{title}</a> <i>({src})</i></li>")
         headlines_html = "<ul>\n" + "\n".join(headlines_li) + "\n</ul>\n"
 
-        # Item Details
         details_parts = []
         for i, it in enumerate(items[:5], 1):
             title = esc(it.get('title_fa') or it.get('title_en'))
@@ -994,7 +1013,6 @@ class IranNewsRadar:
         except Exception as e:
             logger.warning(f"Rich message error: {e}")
 
-        # Fallback Photo Dispatch
         top_lines = []
         for it in items[:5]:
             icon = '🔥' if it.get('urgency', 3) >= 9 else '🔹'
@@ -1112,7 +1130,7 @@ class IranNewsRadar:
                 except Exception as e:
                     logger.error(f"Scraper thread failed: {e}")
 
-        # 5. Single Batch AI Inference with Strict Schema
+        # 5. Single Batch AI Inference with Cascade
         new_processed_items = []
         if scraped_items:
             ai_batch = self.batch_analyze_with_gemini(scraped_items)
