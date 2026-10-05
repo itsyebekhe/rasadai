@@ -61,7 +61,7 @@ CONFIG = {
     'MAX_TEXT_CHARS': 1800,
     'MIN_TEXT_LEN': 100,
     'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
-    'GEMINI_MODEL': os.environ.get('GEMINI_MODEL', 'gemini-2.5-flash'),
+    'GEMINI_MODEL': os.environ.get('GEMINI_MODEL', 'gemini-3.8-flash'),
     'GEMINI_EMBED_MODEL': 'text-embedding-004',
     'AI_RETRIES': 3,
     'MIN_TELEGRAM_URGENCY': 7,
@@ -293,7 +293,6 @@ class IranNewsRadar:
             if resp.status_code == 200:
                 values = resp.json().get('embedding', {}).get('values', [])
                 if values:
-                    # Cache up to 600 embeddings
                     if len(self.embeddings_cache) > 600:
                         self.embeddings_cache.pop(next(iter(self.embeddings_cache)))
                     self.embeddings_cache[cache_key] = values
@@ -389,7 +388,6 @@ class IranNewsRadar:
         return hashlib.md5(self._normalize_text(title).encode('utf-8')).hexdigest()
 
     def _is_duplicate_hybrid(self, new_title, comparison_pool):
-        """Combined Semantic Embedding + Jaccard Token Deduplication."""
         norm_title = self._normalize_text(new_title)
         if norm_title in self.seen_titles:
             return True
@@ -402,7 +400,6 @@ class IranNewsRadar:
             if not existing_title:
                 continue
 
-            # 1. Semantic Vector Match
             if new_emb:
                 existing_emb = self.get_embedding(existing_title)
                 if existing_emb:
@@ -410,7 +407,6 @@ class IranNewsRadar:
                     if sim >= CONFIG['SEMANTIC_DEDUPE_THRESHOLD']:
                         return True
 
-            # 2. Token overlap fallback
             tokens_new = set(norm_title.split())
             tokens_exist = set(self._normalize_text(existing_title).split())
             if tokens_new and tokens_exist:
@@ -433,19 +429,6 @@ class IranNewsRadar:
             if domain.split('.')[0] in pub:
                 return score
         return 3
-
-    def _cheap_urgency_hint(self, title, publisher=""):
-        t = (title or '').lower()
-        score = 3
-        high = ['attack', 'strike', 'missile', 'killed', 'nuclear', 'drone', 'war', 'حمله', 'موشک', 'هسته‌ای', 'پهپاد', 'کشته', 'انفجار']
-        mid = ['sanction', 'dollar', 'currency', 'irgc', 'protest', 'تحریم', 'دلار', 'ارز', 'سپاه', 'اعتراض']
-        if any(w in t for w in high):
-            score += 3
-        if any(w in t for w in mid):
-            score += 2
-        if self._domain_score('', publisher) >= 8:
-            score += 1
-        return min(score, 9)
 
     def _generate_news_id(self, clean_url):
         return hashlib.md5((clean_url or str(time.time())).encode('utf-8')).hexdigest()[:10]
@@ -676,7 +659,6 @@ class IranNewsRadar:
     # ───────────────────────── AI Analysis Core & Deduplication ─────────────────────────
 
     def batch_analyze_with_gemini(self, candidates_data):
-        """Analyzes multiple candidate news articles in a single request with guaranteed schema output."""
         if not candidates_data or not CONFIG.get('GEMINI_KEY'):
             return {}
 
@@ -769,21 +751,18 @@ class IranNewsRadar:
         return data
 
     def generate_special_topic_report(self):
-        """Identifies the single biggest strategic theme using semantic clustering and compiles a deep report."""
         if len(self.existing_news) < 4:
             return None
 
         recent_news = self.existing_news[:25]
         headlines = "\n".join([f"{idx}: [{i.get('tag')}] {i.get('title_fa')}" for idx, i in enumerate(recent_news)])
 
-        # Step 1: AI selects the most crucial story thread
         cluster_prompt = (
             "از میان تیترهای زیر، بحرانی‌ترین و مهم‌ترین پرونده خبری روز را انتخاب کن "
             "و اندیس موارد مرتبط را در یک سطر بنویس (مثلاً: 0, 3, 5). فقط اندیس‌ها:"
         )
         try:
             sel = self._call_gemini(cluster_prompt, headlines, temperature=0.1)
-            # Fallback if raw text returned
             indices = [int(n) for n in re.findall(r'\d+', str(sel))]
             cluster_items = [recent_news[i] for i in indices if i < len(recent_news)]
         except Exception:
@@ -822,14 +801,17 @@ class IranNewsRadar:
         headline = esc(report.get('headline'))
         tag = esc(report.get('topic_tag', 'پرونده_ویژه')).replace(' ', '_')
         findings_li = "".join([f"<li>🔹 {esc(f)}</li>\n" for f in report.get('key_findings', [])])
+        lead_p = esc(report.get('lead_paragraph'))
+        regime_real = esc(report.get('regime_vs_reality'))
+        strat_out = esc(report.get('strategic_outlook'))
 
         rich_html = (
             f"<h1>📂 پرونده ویژه شبانگاهی: {headline}</h1>\n"
             f"<p>⏱ <b>زمان صدور:</b> {time_str} — {date_str} (تهران) | 🏷 #{tag}</p>\n<hr/>\n"
-            f"<p>📌 <b>اصل ماجرا:</b> {esc(report.get('lead_paragraph'))}</p>\n"
+            f"<p>📌 <b>اصل ماجرا:</b> {lead_p}</p>\n"
             f"<h2>🔍 یافته‌های کلیدی و مستند</h2>\n<ul>\n{findings_li}</ul>\n<hr/>\n"
-            f"<h2>⚔️ ادعای حکومت در برابر واقعیت میدانی</h2>\n<p>{esc(report.get('regime_vs_reality'))}</p>\n"
-            f"<h2>🔮 چشم‌انداز استراتژیک</h2>\n<p>{esc(report.get('strategic_outlook'))}</p>\n"
+            f"<h2>⚔️ ادعای حکومت در برابر واقعیت میدانی</h2>\n<p>{regime_real}</p>\n"
+            f"<h2>🔮 چشم‌انداز استراتژیک</h2>\n<p>{strat_out}</p>\n"
             f"<footer><p>📊 <a href=\"https://itsyebekhe.github.io/rasadai/\">مشاهده داشبورد رصد</a> | 🆔 @RasadAIOfficial</p></footer>\n"
         )
 
@@ -849,15 +831,14 @@ class IranNewsRadar:
         except Exception:
             pass
 
-        # Standard Fallback
         findings_text = "".join([f"🔹 {esc(f)}\n" for f in report.get('key_findings', [])])
         fallback = (
             f"📂 <b>پرونده ویژه شبانگاهی: {headline}</b>\n"
             f"⏱ {time_str} — {date_str} | 🏷 #{tag}\n\n"
-            f"📌 <b>اصل ماجرا:</b>\n{esc(report.get('lead_paragraph'))}\n\n"
+            f"📌 <b>اصل ماجرا:</b>\n{lead_p}\n\n"
             f"🔍 <b>یافته‌های کلیدی:</b>\n{findings_text}\n"
-            f"⚔️ <b>واقعیت میدانی:</b>\n{esc(report.get('regime_vs_reality'))}\n\n"
-            f"🔮 <b>چشم‌انداز:</b>\n{esc(report.get('strategic_outlook'))}\n\n"
+            f"⚔️ <b>واقعیت میدانی:</b>\n{regime_real}\n\n"
+            f"🔮 <b>چشم‌انداز:</b>\n{strat_out}\n\n"
             f"📊 <a href=\"https://itsyebekhe.github.io/rasadai/\">مشاهده در داشبورد</a> | 🆔 @RasadAIOfficial"
         )
         resp2 = self.scraper.post(f"https://api.telegram.org/bot{token}/sendMessage", json={
@@ -874,12 +855,15 @@ class IranNewsRadar:
         def esc(s): return html.escape(str(s or ''), quote=False)
         title = esc(bulletin.get('title'))
         bullets_li = "".join([f"<li>🔹 {esc(b)}</li>\n" for b in bulletin.get('bullets', [])])
+        b_time = esc(bulletin.get('time'))
+        b_date = esc(bulletin.get('date'))
+        b_line = esc(bulletin.get('bottom_line'))
 
         rich_html = (
             f"<h1>🗞 {title}</h1>\n"
-            f"<p>⏱ <b>زمان:</b> {esc(bulletin.get('time'))} — {esc(bulletin.get('date'))} (تهران)</p>\n<hr/>\n"
+            f"<p>⏱ <b>زمان:</b> {b_time} — {b_date} (تهران)</p>\n<hr/>\n"
             f"<h2>📌 سرخط نکات کلیدی</h2>\n<ul>\n{bullets_li}</ul>\n<hr/>\n"
-            f"<p>💡 <b>جمع‌بندی تحلیلی:</b> {esc(bulletin.get('bottom_line'))}</p>\n"
+            f"<p>💡 <b>جمع‌بندی تحلیلی:</b> {b_line}</p>\n"
             f"<footer><p>📊 <a href=\"https://itsyebekhe.github.io/rasadai/\">مشاهده در داشبورد</a> | 🆔 @RasadAIOfficial</p></footer>\n"
         )
 
@@ -901,8 +885,8 @@ class IranNewsRadar:
 
         bullets_txt = "".join([f"🔹 {esc(b)}\n\n" for b in bulletin.get('bullets', [])])
         fallback = (
-            f"🗞 <b>{title}</b>\n⏱ {esc(bulletin.get('time'))} — {esc(bulletin.get('date'))}\n\n"
-            f"{bullets_txt}💡 <b>جمع‌بندی:</b>\n{esc(bulletin.get('bottom_line'))}\n\n"
+            f"🗞 <b>{title}</b>\n⏱ {b_time} — {b_date}\n\n"
+            f"{bullets_txt}💡 <b>جمع‌بندی:</b>\n{b_line}\n\n"
             f"📊 <a href=\"https://itsyebekhe.github.io/rasadai/\">داشبورد زنده</a> | 🆔 @RasadAIOfficial"
         )
         resp2 = self.scraper.post(f"https://api.telegram.org/bot{token}/sendMessage", json={
@@ -924,26 +908,30 @@ class IranNewsRadar:
         date_str = to_farsi_num(now_ir.strftime("%Y/%m/%d"))
         base_site = "https://itsyebekhe.github.io/rasadai/"
 
-        # Media Gallery Preparation
+        # Media Gallery Preparation (Pre-formatted outside f-string expressions)
         photo_urls = [it['image'] for it in items if self._is_valid_image_url(it.get('image'))]
         if not photo_urls:
             photo_urls = [self._get_fallback_image(items[0].get('title_en', 'news'))]
 
-        media_html = (
-            f"<figure><img src=\"{esc(photo_urls[0])}\"/><figcaption>رادار رصد — {time_str}</figcaption></figure>\n"
-            if len(photo_urls) == 1 else
-            f"<tg-collage>{''.join(f'<img src=\"{esc(u)}\"/>' for u in photo_urls[:4])}<figcaption>تصاویر رویدادهای مهم</figcaption></tg-collage>\n"
-        )
+        first_img = esc(photo_urls[0])
+        if len(photo_urls) == 1:
+            media_html = f"<figure><img src=\"{first_img}\"/><figcaption>رادار رصد — {time_str}</figcaption></figure>\n"
+        else:
+            collage_imgs = "".join([f"<img src=\"{esc(u)}\"/>" for u in photo_urls[:4]])
+            media_html = f"<tg-collage>{collage_imgs}<figcaption>تصاویر رویدادهای مهم</figcaption></tg-collage>\n"
 
         # Market Ticker
         market_html = ""
         try:
             with open(CONFIG['FILES']['MARKET'], 'r', encoding='utf-8') as f:
                 mkt = json.load(f)
+            m_usd = esc(mkt.get('usd'))
+            m_oil = esc(mkt.get('oil'))
+            m_upd = esc(mkt.get('updated'))
             market_html = (
                 "<table bordered striped>\n"
                 "<tr><th>💵 دلار</th><th>🛢 نفت</th><th>⏱ زمان</th></tr>\n"
-                f"<tr><td align='center'>{esc(mkt.get('usd'))}</td><td align='center'>{esc(mkt.get('oil'))}</td><td align='center'>{esc(mkt.get('updated'))}</td></tr>\n"
+                f"<tr><td align='center'>{m_usd}</td><td align='center'>{m_oil}</td><td align='center'>{m_upd}</td></tr>\n"
                 "</table>\n"
             )
         except Exception:
@@ -956,7 +944,8 @@ class IranNewsRadar:
             u = it.get('urgency', 3)
             icon = "🔥" if u >= 9 else ("🚨" if u >= 7 else "🔹")
             deep = f"{base_site}?id={it.get('id', '')}"
-            headlines_li.append(f"<li>{icon} <a href=\"{esc(deep)}\">{title}</a> <i>({esc(it.get('source'))})</i></li>")
+            src = esc(it.get('source'))
+            headlines_li.append(f"<li>{icon} <a href=\"{esc(deep)}\">{title}</a> <i>({src})</i></li>")
         headlines_html = "<ul>\n" + "\n".join(headlines_li) + "\n</ul>\n"
 
         # Item Details
@@ -965,21 +954,26 @@ class IranNewsRadar:
             title = esc(it.get('title_fa') or it.get('title_en'))
             deep = f"{base_site}?id={it.get('id', '')}"
             summary_li = "".join([f"<li>{esc(s)}</li>" for s in it.get('summary', [])])
+            f_num = to_farsi_num(i)
+            impact = esc(it.get('impact'))
+            src_url = esc(it.get('url'))
+            open_attr = " open" if i == 1 else ""
             details_parts.append(
-                f"<details{' open' if i == 1 else ''}>\n"
-                f"<summary><b>{to_farsi_num(i)}. {title}</b></summary>\n"
+                f"<details{open_attr}>\n"
+                f"<summary><b>{f_num}. {title}</b></summary>\n"
                 f"<ul>{summary_li}</ul>\n"
-                f"<p>🎯 <b>اثرگذاری:</b> {esc(it.get('impact'))}</p>\n"
-                f"<p>🔗 <a href=\"{esc(deep)}\">گزارش تحلیلی</a> | <a href=\"{esc(it.get('url'))}\">منبع خبر</a></p>\n"
+                f"<p>🎯 <b>اثرگذاری:</b> {impact}</p>\n"
+                f"<p>🔗 <a href=\"{esc(deep)}\">گزارش تحلیلی</a> | <a href=\"{src_url}\">منبع خبر</a></p>\n"
                 f"</details>\n<hr/>\n"
             )
+        details_html = "".join(details_parts)
 
         full_html = (
             f"<h1>🚨 رادار اخبار مهم و فوری</h1>\n"
             f"<p>⏱ <b>بروزرسانی:</b> {time_str} — {date_str} (تهران)</p>\n"
             f"{market_html}<hr/>\n{media_html}"
             f"<h2>📌 سرخط مهم‌ترین رویدادها</h2>\n{headlines_html}<hr/>\n"
-            f"<h2>📋 تحلیل و جزئیات رخدادها</h2>\n{''.join(details_parts)}"
+            f"<h2>📋 تحلیل و جزئیات رخدادها</h2>\n{details_html}"
             f"<footer><p>📊 <a href=\"{base_site}\">داشبورد زنده رصد</a> | 🆔 @RasadAIOfficial</p></footer>\n"
         )
 
@@ -1001,10 +995,15 @@ class IranNewsRadar:
             logger.warning(f"Rich message error: {e}")
 
         # Fallback Photo Dispatch
-        caption = f"🚨 <b>رادار اخبار مهم ایران</b>\n⏱ {time_str}\n\n" + "\n".join([
-            f"{'🔥' if it.get('urgency',3)>=9 else '🔹'} {esc(it.get('title_fa') or it.get('title_en'))}"
-            for it in items[:5]
-        ]) + f"\n\n<a href=\"{base_site}\">📊 مشاهده داشبورد تحلیلی</a>"
+        top_lines = []
+        for it in items[:5]:
+            icon = '🔥' if it.get('urgency', 3) >= 9 else '🔹'
+            t = esc(it.get('title_fa') or it.get('title_en'))
+            top_lines.append(f"{icon} {t}")
+
+        caption_body = "\n".join(top_lines)
+        caption = f"🚨 <b>رادار اخبار مهم ایران</b>\n⏱ {time_str}\n\n{caption_body}\n\n<a href=\"{base_site}\">📊 مشاهده داشبورد تحلیلی</a>"
+
         self.scraper.post(f"https://api.telegram.org/bot{token}/sendPhoto", json={
             "chat_id": chat_id, "photo": photo_urls[0], "caption": caption[:1024],
             "parse_mode": "HTML", "reply_markup": reply_markup
