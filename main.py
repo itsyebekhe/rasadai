@@ -62,7 +62,7 @@ CONFIG = {
     },
     'PROXY_URL': 'https://raw.githubusercontent.com/itsyebekhe/MTProtoNexus/refs/heads/gh-pages/extracted_proxies.json',
     'TIMEOUT': 12,
-    'AI_TIMEOUT': 40,
+    'AI_TIMEOUT': 35,
     'MAX_WORKERS': 4,
     'MAX_CANDIDATES': 14,
     'MAX_TEXT_CHARS': 1800,
@@ -71,9 +71,8 @@ CONFIG = {
     'GEMINI_MODELS': [
         os.environ.get('GEMINI_MODEL', 'gemini-3.8-flash'),
         'gemini-3.7-flash',
-        'gemini-3.1-pro-preview',
-        'gemini-2.5-flash',
-        'gemini-2.0-flash'
+        'gemini-3.5-flash',
+        'gemini-3.1-pro-preview'
     ],
     'GEMINI_EMBED_MODEL': 'text-embedding-004',
     'MIN_TELEGRAM_URGENCY': 7,
@@ -95,118 +94,6 @@ PROXY_NAMES = [
     "جمشید", "زال", "بهرام", "شاپور", "آرتابان", "پیروز", "مازیار",
     "تهمینه", "گردآفرید", "سهراب", "آتوسا", "رکسانا", "ماندانا"
 ]
-
-# --- STRUCTURED SCHEMAS ---
-BATCH_ANALYSIS_SCHEMA = {
-    "type": "ARRAY",
-    "items": {
-        "type": "OBJECT",
-        "properties": {
-            "index": {"type": "INTEGER"},
-            "title_fa": {"type": "STRING"},
-            "summary": {
-                "type": "ARRAY",
-                "items": {"type": "STRING"}
-            },
-            "impact": {"type": "STRING"},
-            "tag": {"type": "STRING"},
-            "urgency": {"type": "INTEGER"},
-            "sentiment": {"type": "NUMBER"}
-        },
-        "required": ["index", "title_fa", "summary", "impact", "tag", "urgency", "sentiment"]
-    }
-}
-
-DAILY_SUMMARY_SCHEMA = {
-    "type": "OBJECT",
-    "properties": {
-        "date": {"type": "STRING"},
-        "executive_tldr": {"type": "STRING"},
-        "themes": {
-            "type": "ARRAY",
-            "items": {"type": "STRING"}
-        },
-        "regime_vulnerabilities": {
-            "type": "OBJECT",
-            "properties": {
-                "regime_internal_friction": {"type": "STRING"},
-                "infrastructure_vulnerability": {"type": "STRING"},
-                "sanctions_evasion_watch": {"type": "STRING"}
-            },
-            "required": ["regime_internal_friction", "infrastructure_vulnerability", "sanctions_evasion_watch"]
-        },
-        "proxy_network_status": {"type": "STRING"},
-        "opposition_momentum": {"type": "STRING"},
-        "regime_narrative": {"type": "STRING"},
-        "predicted_regime_response": {"type": "STRING"},
-        "forecast": {
-            "type": "OBJECT",
-            "properties": {
-                "most_likely_scenario": {"type": "STRING"},
-                "regime_worst_case_scenario": {"type": "STRING"},
-                "flashpoint_indicator": {"type": "STRING"}
-            },
-            "required": ["most_likely_scenario", "regime_worst_case_scenario", "flashpoint_indicator"]
-        },
-        "probability_matrix": {
-            "type": "OBJECT",
-            "properties": {
-                "military_escalation_percent": {"type": "INTEGER"},
-                "economic_shock_percent": {"type": "INTEGER"},
-                "domestic_unrest_percent": {"type": "INTEGER"},
-                "regime_defection_risk_percent": {"type": "INTEGER"}
-            },
-            "required": ["military_escalation_percent", "economic_shock_percent", "domestic_unrest_percent", "regime_defection_risk_percent"]
-        },
-        "key_figures_in_focus": {
-            "type": "ARRAY",
-            "items": {"type": "STRING"}
-        },
-        "strategic_assessment": {"type": "STRING"},
-        "market_impact": {"type": "STRING"},
-        "currency_outlook": {"type": "STRING"},
-        "risk_level": {"type": "INTEGER"},
-        "change_from_previous": {"type": "STRING"}
-    },
-    "required": [
-        "date", "executive_tldr", "themes", "regime_vulnerabilities", "proxy_network_status",
-        "opposition_momentum", "regime_narrative", "predicted_regime_response", "forecast",
-        "probability_matrix", "key_figures_in_focus", "strategic_assessment", "market_impact",
-        "currency_outlook", "risk_level", "change_from_previous"
-    ]
-}
-
-BULLETIN_SCHEMA = {
-    "type": "OBJECT",
-    "properties": {
-        "edition": {"type": "STRING"},
-        "title": {"type": "STRING"},
-        "time": {"type": "STRING"},
-        "date": {"type": "STRING"},
-        "bullets": {
-            "type": "ARRAY",
-            "items": {"type": "STRING"}
-        },
-        "bottom_line": {"type": "STRING"}
-    },
-    "required": ["edition", "title", "time", "date", "bullets", "bottom_line"]
-}
-
-SPECIAL_REPORT_SCHEMA = {
-    "type": "OBJECT",
-    "properties": {
-        "topic_tag": {"type": "STRING"},
-        "headline": {"type": "STRING"},
-        "lead_paragraph": {"type": "STRING"},
-        "key_findings": {
-            "type": "ARRAY",
-            "items": {"type": "STRING"}
-        },
-        "regime_vs_reality": {"type": "STRING"},
-        "strategic_outlook": {"type": "STRING"}
-    },
-    "required": ["topic_tag", "headline", "lead_paragraph", "key_findings", "regime_vs_reality", "strategic_outlook"]
-}
 
 
 class IranNewsRadar:
@@ -230,6 +117,12 @@ class IranNewsRadar:
         self.existing_news = self._load_existing_news()
         self.embeddings_cache = self._load_embeddings_cache()
 
+        # Build initial unique model priority list
+        self.active_models = []
+        for m in CONFIG['GEMINI_MODELS']:
+            if m and m not in self.active_models:
+                self.active_models.append(m)
+
         self.seen_urls = set()
         self.seen_titles = set()
         self.recent_title_hashes = set()
@@ -248,60 +141,74 @@ class IranNewsRadar:
 
         self.gnews_en = GNews(language='en', country='US', period='4h', max_results=5)
 
-    # ───────────────────────── AI API Core with Multi-Round Resilience ─────────────────────────
+    # ───────────────────────── AI API Core ─────────────────────────
 
-    def _call_gemini(self, system_prompt, user_prompt, schema=None, temperature=0.2):
+    @staticmethod
+    def _clean_and_parse_json(text):
+        if not text:
+            return None
+        raw = text.strip()
+        raw = re.sub(r'^```(?:json)?\s*', '', raw, flags=re.MULTILINE)
+        raw = re.sub(r'\s*```$', '', raw, flags=re.MULTILINE).strip()
+        try:
+            return json.loads(raw)
+        except json.JSONDecodeError:
+            match = re.search(r'(\[.*\]|\{.*\})', raw, re.DOTALL)
+            if match:
+                try:
+                    return json.loads(match.group(1))
+                except Exception:
+                    pass
+        return None
+
+    def _call_gemini(self, system_prompt, user_prompt, temperature=0.2):
         if not CONFIG.get('GEMINI_KEY'):
             logger.error("GEMINI_API_KEY is not configured.")
             return None
 
-        models_to_try = []
-        for m in CONFIG['GEMINI_MODELS']:
-            if m and m not in models_to_try:
-                models_to_try.append(m)
-
-        gen_config = {"temperature": temperature}
-        if schema:
-            gen_config["response_mime_type"] = "application/json"
-            gen_config["response_schema"] = schema
-
         payload = {
             "system_instruction": {"parts": [{"text": system_prompt}]},
             "contents": [{"parts": [{"text": user_prompt}]}],
-            "generationConfig": gen_config
+            "generationConfig": {
+                "response_mime_type": "application/json",
+                "temperature": temperature
+            }
         }
 
-        # Multi-round recovery with exponential backoff & jitter
         MAX_ROUNDS = 3
         for round_idx in range(MAX_ROUNDS):
-            for model_name in models_to_try:
+            for model_name in list(self.active_models):
                 url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={CONFIG['GEMINI_KEY']}"
                 try:
                     resp = self.ai_session.post(url, json=payload, timeout=CONFIG['AI_TIMEOUT'])
                     if resp.status_code == 200:
                         data = resp.json()
-                        raw = data['candidates'][0]['content']['parts'][0]['text']
-                        return json.loads(raw)
+                        raw_text = data['candidates'][0]['content']['parts'][0]['text']
+                        parsed = self._clean_and_parse_json(raw_text)
+                        if parsed is not None:
+                            return parsed
+                        logger.warning(f"JSON parse error on {model_name}. Retrying...")
 
-                    # Handle temporary traffic spikes & rate limits
-                    if resp.status_code in [503, 429, 500]:
+                    elif resp.status_code == 404:
+                        logger.warning(f"Model {model_name} is discontinued (404). Permanently removing from cascade.")
+                        if model_name in self.active_models:
+                            self.active_models.remove(model_name)
+                        continue
+
+                    elif resp.status_code in [503, 429, 500]:
                         retry_after = resp.headers.get('Retry-After')
-                        if retry_after and retry_after.isdigit():
-                            wait_s = min(int(retry_after), 15)
-                        else:
-                            wait_s = min(2.5 * (1.8 ** round_idx) + random.uniform(1.0, 2.5), 18)
-
+                        wait_s = min(int(retry_after), 12) if retry_after and retry_after.isdigit() else min(2.0 * (1.6 ** round_idx) + random.uniform(0.5, 1.5), 14)
                         logger.warning(
                             f"[Round {round_idx + 1}/{MAX_ROUNDS}] {model_name} returned {resp.status_code}. "
-                            f"Waiting {wait_s:.1f}s before trying next model..."
+                            f"Sleeping {wait_s:.1f}s before trying next model..."
                         )
                         time.sleep(wait_s)
                         continue
                     else:
                         logger.error(f"Gemini API Error [{resp.status_code}] on {model_name}: {resp.text[:200]}")
                 except Exception as e:
-                    logger.warning(f"Connection exception on {model_name}: {e}")
-                    time.sleep(2)
+                    logger.warning(f"Network error on {model_name}: {e}")
+                    time.sleep(1.5)
 
         logger.error("All Gemini cascade rounds exhausted.")
         return None
@@ -688,16 +595,28 @@ class IranNewsRadar:
 
         return extracted_text, self._pick_image(extracted_image, raw_image, fallback_text=extracted_text)
 
-    # ───────────────────────── AI Analysis with Adaptive Micro-Batching ─────────────────────────
+    # ───────────────────────── AI Analysis Core ─────────────────────────
 
     def _execute_batch_prompt(self, items):
         system_prompt = (
-            "تو یک تحلیل‌گر ارشد و تیزبین ژئوپلیتیک، مسلط به زبان فارسی روان و ضربتی هستی.\n"
-            "وظیفه تو استخراج چکیده، ارزیابی دقیق فوریت و اثرگذاری رویدادها است.\n\n"
-            "🔴 **قوانین اعتبارسنجی و جلوگیری از توهم تحلیلی (Grounding):**\n"
-            "۱. تمام فکت‌ها باید منحصراً ریشه در متن ورودی (TEXT) داشته باشند. هیچ سناریوی فرضی نساز.\n"
-            "۲. سخنان ترامپ، نتانیاهو و رضا پهلوی را بدون سانسور و با لحن روان بازتاب بده.\n"
-            "۳. نمره فوریت (Urgency): ۱۰ برای برخورد موشکی/نظامی، ۸-۹ برای تحریم‌های جدید نفتی/ترور فرماندهان، ۶-۷ برای جهش ارزی و مانورها، ۴-۵ برای دیپلماسی عادی."
+            "تو تحلیل‌گر ارشد ژئوپلیتیک و مسلط به زبان فارسی روان، ضربتی و ژورنالیستی هستی.\n"
+            "وظیفه: تحلیل دقیق و بی‌طرفانه رویدادها، استخراج نکات کلیدی و نمره‌دهی فوریت.\n\n"
+            "🔴 قوانین حیاتی:\n"
+            "۱. تمام فکت‌ها منحصراً باید از متن ورودی (TEXT) باشند. ابداً سناریوی خیالی نساز.\n"
+            "۲. سخنان چهره‌ها (دونالد ترامپ، نتانیاهو، شاهزاده رضا پهلوی) را شفاف، مستقیم و بدون سانسور پوشش بده.\n"
+            "۳. نمره فوریت (Urgency 1-10): ۱۰ برای جنگ/حمله مستقیم، ۸-۹ برای تحریم جدید نفتی/هلاکت فرماندهان ارشد، ۶-۷ برای جهش ارز و رزمایش‌ها، ۴-۵ برای دیپلماسی عادی.\n\n"
+            "فرمت خروجی صرفاً یک آرایه JSON معتبر مطابق ساختار زیر است:\n"
+            "[\n"
+            "  {\n"
+            '    "index": 0,\n'
+            '    "title_fa": "تیتر جذاب و کوتاه فارسی",\n'
+            '    "summary": ["نکته ۱", "نکته ۲"],\n'
+            '    "impact": "اثر میدانی در یک جمله",\n'
+            '    "tag": "تگ موضوعی (نظامی، تحریم، ارز و...)",\n'
+            '    "urgency": 8,\n'
+            '    "sentiment": -0.2\n'
+            "  }\n"
+            "]"
         )
 
         items_input = []
@@ -709,15 +628,13 @@ class IranNewsRadar:
                 f"TEXT: {item['text'][:900]}\n"
             )
 
-        user_prompt = "لطفاً موارد زیر را تحلیل کن و در قالب JSON با اسکیما خروجی بده:\n\n" + "\n".join(items_input)
-        return self._call_gemini(system_prompt, user_prompt, schema=BATCH_ANALYSIS_SCHEMA, temperature=0.15)
+        user_prompt = "تمامی موارد زیر را تحلیل و فقط در قالب آرایه JSON خروجی بده:\n\n" + "\n".join(items_input)
+        return self._call_gemini(system_prompt, user_prompt, temperature=0.15)
 
     def batch_analyze_with_gemini(self, candidates_data):
-        """Analyzes candidates with adaptive sub-batching to guarantee throughput under 503/429 limits."""
         if not candidates_data or not CONFIG.get('GEMINI_KEY'):
             return {}
 
-        # If candidates are numerous, split into micro-chunks of 5 to fit under TPM/capacity limits
         chunk_size = 5
         results_map = {}
 
@@ -726,10 +643,10 @@ class IranNewsRadar:
             data = self._execute_batch_prompt(chunk)
             if isinstance(data, list):
                 for item in data:
-                    if 'index' in item:
+                    if isinstance(item, dict) and 'index' in item:
                         results_map[item['index']] = item
             else:
-                logger.warning(f"Micro-batch {i//chunk_size + 1} failed. Retrying items individually...")
+                logger.warning(f"Batch chunk failed. Retrying items individually...")
                 for single in chunk:
                     single_res = self._execute_batch_prompt([single])
                     if isinstance(single_res, list) and single_res:
@@ -757,15 +674,44 @@ class IranNewsRadar:
         news_block = "\n\n".join(news_context)
 
         system_prompt = (
-            "You are a top-tier geopolitical strategist analyzing developments regarding the Iranian regime, opposition, and regional conflicts.\n"
-            "GROUNDING RULES:\n"
-            "- Base every assessment strictly on today's monitored events. DO NOT hallucinate regime factional splits or shadow actions unless evidenced.\n"
-            "- If no data is observed for a vulnerability field, explicitly write 'موردی در داده‌های امروز رصد نشد'.\n"
-            "- Output strictly in Persian adhering to the structured JSON schema."
+            "You are a top-tier geopolitical strategist analyzing events regarding Iran.\n"
+            "GROUNDING RULES: Base every assessment strictly on monitored events. If no evidence exists for a field, write 'موردی در داده‌های امروز رصد نشد'.\n"
+            "Output strictly a valid JSON object matching this schema:\n"
+            "{\n"
+            '  "date": "YYYY-MM-DD HH:MM",\n'
+            '  "executive_tldr": "...",\n'
+            '  "themes": ["...", "..."],\n'
+            '  "regime_vulnerabilities": {\n'
+            '    "regime_internal_friction": "...",\n'
+            '    "infrastructure_vulnerability": "...",\n'
+            '    "sanctions_evasion_watch": "..."\n'
+            '  },\n'
+            '  "proxy_network_status": "...",\n'
+            '  "opposition_momentum": "...",\n'
+            '  "regime_narrative": "...",\n'
+            '  "predicted_regime_response": "...",\n'
+            '  "forecast": {\n'
+            '    "most_likely_scenario": "...",\n'
+            '    "regime_worst_case_scenario": "...",\n'
+            '    "flashpoint_indicator": "..."\n'
+            '  },\n'
+            '  "probability_matrix": {\n'
+            '    "military_escalation_percent": 50,\n'
+            '    "economic_shock_percent": 70,\n'
+            '    "domestic_unrest_percent": 60,\n'
+            '    "regime_defection_risk_percent": 30\n'
+            '  },\n'
+            '  "key_figures_in_focus": ["..."],\n'
+            '  "strategic_assessment": "...",\n'
+            '  "market_impact": "...",\n'
+            '  "currency_outlook": "...",\n'
+            '  "risk_level": 8,\n'
+            '  "change_from_previous": "افزایش | کاهش | بدون تغییر"\n'
+            "}"
         )
 
         user_prompt = f"TODAYS EVENTS:\n{news_block}"
-        return self._call_gemini(system_prompt, user_prompt, schema=DAILY_SUMMARY_SCHEMA, temperature=0.2)
+        return self._call_gemini(system_prompt, user_prompt, temperature=0.2)
 
     def generate_scheduled_bulletin(self):
         tehran_time = self._get_tehran_time()
@@ -781,10 +727,21 @@ class IranNewsRadar:
             return None
 
         news_text = "\n".join([f"- {i.get('title_fa')}: {' '.join(i.get('summary', []))}" for i in top_items])
-        system_prompt = f"تو سردبیر ارشد هستی. برای '{edition_title}' یک مرور خبری ۳ دقیقه‌ای، صریح و شفاف به زبان فارسی آماده کن."
-        user_prompt = f"زمان: {tehran_time.strftime('%H:%M')} | اخبار برتر:\n{news_text}"
+        system_prompt = (
+            f"تو سردبیر ارشد هستی. برای '{edition_title}' یک مرور خبری ۳ دقیقه‌ای، صریح و شفاف به زبان فارسی آماده کن.\n"
+            "خروجی دقیقاً یک آبجکت JSON با ساختار زیر باشد:\n"
+            "{\n"
+            f'  "edition": "{edition_key}",\n'
+            f'  "title": "{edition_title}",\n'
+            f'  "time": "{tehran_time.strftime("%H:%M")}",\n'
+            f'  "date": "{tehran_time.strftime("%Y/%m/%d")}",\n'
+            '  "bullets": ["نکته ۱", "نکته ۲", "نکته ۳", "نکته ۴"],\n'
+            '  "bottom_line": "جمع‌بندی نهایی در یک جمله"\n'
+            "}"
+        )
+        user_prompt = f"اخبار برتر:\n{news_text}"
 
-        data = self._call_gemini(system_prompt, user_prompt, schema=BULLETIN_SCHEMA, temperature=0.2)
+        data = self._call_gemini(system_prompt, user_prompt, temperature=0.2)
         if data:
             self._atomic_json_dump('bulletins.json', data)
         return data
@@ -816,11 +773,19 @@ class IranNewsRadar:
         ])
 
         system_prompt = (
-            "تو هیئت تحریریه گزارش‌های ویژه رصد هستی. برای پرونده منتخب، گزارشی عمیق، خواندنی و مستند بر اساس فکت‌ها بنویس.\n"
-            "قانون: هرگز از عبارات مجهول و حدس‌های بی‌اساس استفاده نکن. مقایسه ادعای حاکمیت با واقعیت را کاملاً مستدل بنویس."
+            "تو هیئت تحریریه گزارش‌های ویژه رصد هستی. برای پرونده منتخب، گزارشی عمیق و مستند بر اساس فکت‌ها بنویس.\n"
+            "خروجی دقیقاً یک آبجکت JSON با ساختار زیر باشد:\n"
+            "{\n"
+            '  "topic_tag": "موضوع پرونده",\n'
+            '  "headline": "تیتر پرونده ویژه",\n'
+            '  "lead_paragraph": "مقدمه ماجرا",\n'
+            '  "key_findings": ["یافته ۱", "یافته ۲", "یافته ۳"],\n'
+            '  "regime_vs_reality": "مقایسه ادعای حکومت با واقعیت میدانی",\n'
+            '  "strategic_outlook": "چشم‌انداز استراتژیک"\n'
+            "}"
         )
 
-        data = self._call_gemini(system_prompt, cluster_context, schema=SPECIAL_REPORT_SCHEMA, temperature=0.2)
+        data = self._call_gemini(system_prompt, cluster_context, temperature=0.2)
         if data:
             self._atomic_json_dump('special_reports.json', data)
         return data
@@ -1079,10 +1044,8 @@ class IranNewsRadar:
     def run(self):
         logger.info(">>> Starting Geopolitical Intelligence Radar with Optimized AI Engine...")
 
-        # 1. Update Market Baseline
         self._atomic_json_dump(CONFIG['FILES']['MARKET'], self.fetch_market_rates())
 
-        # 2. Gather candidates
         results = self.get_combined_news()
         cutoff_date = datetime.now(timezone.utc) - timedelta(hours=CONFIG['MAX_NEWS_AGE_HOURS'])
         filtered_candidates = []
@@ -1109,7 +1072,6 @@ class IranNewsRadar:
 
             filtered_candidates.append(item)
 
-        # 3. Sort by priority & Semantic deduplication
         filtered_candidates.sort(key=lambda x: self._domain_score(x.get('url'), x.get('publisher', {}).get('title', '')), reverse=True)
 
         accepted_candidates = []
@@ -1122,7 +1084,6 @@ class IranNewsRadar:
 
         logger.info(f"Candidates selected for deep scrape & AI analysis: {len(accepted_candidates)}")
 
-        # 4. Scrape candidates in parallel
         scraped_items = []
         with concurrent.futures.ThreadPoolExecutor(max_workers=CONFIG['MAX_WORKERS']) as exc:
             future_to_cand = {}
@@ -1146,7 +1107,6 @@ class IranNewsRadar:
                 except Exception as e:
                     logger.error(f"Scraper thread failed: {e}")
 
-        # 5. Single Batch AI Inference with Adaptive Sub-Batching
         new_processed_items = []
         if scraped_items:
             ai_batch = self.batch_analyze_with_gemini(scraped_items)
@@ -1178,12 +1138,10 @@ class IranNewsRadar:
                 self.seen_urls.add(res['clean_url'])
                 self.recent_title_hashes.add(self._title_hash(res['title_en']))
 
-        # 6. Save news & Dispatches
         if new_processed_items:
             self.existing_news = self.save_news(new_processed_items)
             self._save_embeddings_cache()
 
-            # Filter for Telegram Broadcast
             urgent_items = [
                 it for it in new_processed_items
                 if it.get('urgency', 0) >= CONFIG['MIN_TELEGRAM_URGENCY'] or
@@ -1193,7 +1151,6 @@ class IranNewsRadar:
                 logger.info(f"Dispatching {len(urgent_items)} urgent items to Telegram.")
                 self.send_digest_to_telegram(urgent_items)
 
-        # 7. Scheduled Reports
         tehran_now = self._get_tehran_time()
         curr_hour = tehran_now.hour
         today_date_str = tehran_now.strftime("%Y-%m-%d")
@@ -1215,7 +1172,6 @@ class IranNewsRadar:
                 if blt and self.send_bulletin_to_telegram(blt):
                     self._mark_schedule_as_sent(b_slot)
 
-        # Daily strategic summary saved for local dashboard
         daily_summary = self.generate_daily_summary()
         if daily_summary:
             self._atomic_json_dump(CONFIG['FILES']['DAILY_SUMMARY'], daily_summary)
