@@ -62,7 +62,7 @@ CONFIG = {
     },
     'PROXY_URL': 'https://raw.githubusercontent.com/itsyebekhe/MTProtoNexus/refs/heads/gh-pages/extracted_proxies.json',
     'TIMEOUT': 12,
-    'AI_TIMEOUT': 35,
+    'AI_TIMEOUT': 40,
     'MAX_WORKERS': 4,
     'MAX_CANDIDATES': 14,
     'MAX_TEXT_CHARS': 1800,
@@ -70,9 +70,10 @@ CONFIG = {
     'GEMINI_KEY': os.environ.get('GEMINI_API_KEY'),
     'GEMINI_MODELS': [
         os.environ.get('GEMINI_MODEL', 'gemini-3.8-flash'),
-        'gemini-3.8-flash',
         'gemini-3.7-flash',
-        'gemini-3.1-pro-preview'
+        'gemini-3.1-pro-preview',
+        'gemini-2.5-flash',
+        'gemini-2.0-flash'
     ],
     'GEMINI_EMBED_MODEL': 'text-embedding-004',
     'MIN_TELEGRAM_URGENCY': 7,
@@ -210,7 +211,6 @@ SPECIAL_REPORT_SCHEMA = {
 
 class IranNewsRadar:
     def __init__(self):
-        # 1. Scraper with adequate connection pool to handle multiple threads
         self.scraper = cloudscraper.create_scraper(
             browser={'browser': 'chrome', 'platform': 'windows', 'mobile': False}
         )
@@ -222,10 +222,8 @@ class IranNewsRadar:
             'Cache-Control': 'no-cache',
         })
 
-        # 2. Optimized, low-overhead session for Gemini API
         self.ai_session = requests.Session()
-        retries = Retry(total=2, backoff_factor=0.5, status_forcelist=[429, 500, 502, 504])
-        ai_adapter = HTTPAdapter(max_retries=retries, pool_connections=10, pool_maxsize=10)
+        ai_adapter = HTTPAdapter(pool_connections=15, pool_maxsize=15)
         self.ai_session.mount('https://', ai_adapter)
         self.ai_session.headers.update({'Content-Type': 'application/json'})
 
@@ -250,14 +248,13 @@ class IranNewsRadar:
 
         self.gnews_en = GNews(language='en', country='US', period='4h', max_results=5)
 
-    # ───────────────────────── AI API Core with Model Cascade ─────────────────────────
+    # ───────────────────────── AI API Core with Multi-Round Resilience ─────────────────────────
 
     def _call_gemini(self, system_prompt, user_prompt, schema=None, temperature=0.2):
         if not CONFIG.get('GEMINI_KEY'):
             logger.error("GEMINI_API_KEY is not configured.")
             return None
 
-        # Build list of unique models to try in priority order
         models_to_try = []
         for m in CONFIG['GEMINI_MODELS']:
             if m and m not in models_to_try:
@@ -274,27 +271,39 @@ class IranNewsRadar:
             "generationConfig": gen_config
         }
 
-        for model_name in models_to_try:
-            url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={CONFIG['GEMINI_KEY']}"
-            try:
-                resp = self.ai_session.post(url, json=payload, timeout=CONFIG['AI_TIMEOUT'])
-                if resp.status_code == 200:
-                    data = resp.json()
-                    raw = data['candidates'][0]['content']['parts'][0]['text']
-                    return json.loads(raw)
-                
-                # If model is unavailable (503) or rate-limited (429), fall back to next model
-                if resp.status_code in [503, 429, 500]:
-                    logger.warning(f"Model {model_name} returned {resp.status_code} (overloaded). Cascading to next model...")
-                    time.sleep(1)
-                    continue
-                else:
-                    logger.error(f"Gemini API Error [{resp.status_code}] on {model_name}: {resp.text[:250]}")
-            except Exception as e:
-                logger.warning(f"Gemini request exception on {model_name}: {e}. Cascading...")
-                time.sleep(1)
+        # Multi-round recovery with exponential backoff & jitter
+        MAX_ROUNDS = 3
+        for round_idx in range(MAX_ROUNDS):
+            for model_name in models_to_try:
+                url = f"https://generativelanguage.googleapis.com/v1beta/models/{model_name}:generateContent?key={CONFIG['GEMINI_KEY']}"
+                try:
+                    resp = self.ai_session.post(url, json=payload, timeout=CONFIG['AI_TIMEOUT'])
+                    if resp.status_code == 200:
+                        data = resp.json()
+                        raw = data['candidates'][0]['content']['parts'][0]['text']
+                        return json.loads(raw)
 
-        logger.error("All Gemini cascade models failed.")
+                    # Handle temporary traffic spikes & rate limits
+                    if resp.status_code in [503, 429, 500]:
+                        retry_after = resp.headers.get('Retry-After')
+                        if retry_after and retry_after.isdigit():
+                            wait_s = min(int(retry_after), 15)
+                        else:
+                            wait_s = min(2.5 * (1.8 ** round_idx) + random.uniform(1.0, 2.5), 18)
+
+                        logger.warning(
+                            f"[Round {round_idx + 1}/{MAX_ROUNDS}] {model_name} returned {resp.status_code}. "
+                            f"Waiting {wait_s:.1f}s before trying next model..."
+                        )
+                        time.sleep(wait_s)
+                        continue
+                    else:
+                        logger.error(f"Gemini API Error [{resp.status_code}] on {model_name}: {resp.text[:200]}")
+                except Exception as e:
+                    logger.warning(f"Connection exception on {model_name}: {e}")
+                    time.sleep(2)
+
+        logger.error("All Gemini cascade rounds exhausted.")
         return None
 
     def get_embedding(self, text):
@@ -679,47 +688,54 @@ class IranNewsRadar:
 
         return extracted_text, self._pick_image(extracted_image, raw_image, fallback_text=extracted_text)
 
-    # ───────────────────────── AI Analysis Core ─────────────────────────
+    # ───────────────────────── AI Analysis with Adaptive Micro-Batching ─────────────────────────
 
-    def batch_analyze_with_gemini(self, candidates_data):
-        if not candidates_data or not CONFIG.get('GEMINI_KEY'):
-            return {}
-
+    def _execute_batch_prompt(self, items):
         system_prompt = (
             "تو یک تحلیل‌گر ارشد و تیزبین ژئوپلیتیک، مسلط به زبان فارسی روان و ضربتی هستی.\n"
             "وظیفه تو استخراج چکیده، ارزیابی دقیق فوریت و اثرگذاری رویدادها است.\n\n"
-            "🔴 **قوانین اعتبارسنجی و جلوگیری از توهم تحلیلی (Grounding & Anti-Hallucination):**\n"
-            "۱. تمام ادعاها و فکت‌ها باید منحصراً ریشه در متن ورودی (TEXT) داشته باشند. هیچ سناریوی خیالی یا فرضی نساز.\n"
-            "۲. اگر خبری جزئیات کافی ندارد، خلاصه را کوتاه نگه دار و از زیاده‌گویی بپرهیز.\n\n"
-            "🎯 **پوشش مواضع چهره‌ها:**\n"
-            "- سخنان دونالد ترامپ، بنیامین نتانیاهو، و شاهزاده رضا پهلوی را صریح، شفاف و بدون تغییر سوگیری پوشش بده.\n"
-            "- ادعاهای پروپاگاندای فرماندهان سپاه را با عیار واقعیت میدانی بسنج.\n\n"
-            "⚖️ **معیار کالیبراسیون دقیق نمره فوریت (Urgency 1-10):**\n"
-            "- نمره ۱۰: حملات مستقیم موشکی/نظامی به مواضع یکدیگر، اصابت سنگین، اعلام جنگ رسمی.\n"
-            "- نمره ۸-۹: ترور یا هلاکت فرماندهان ارشد، تصویب تحریم‌های سنگین جدید نفتی/بانکی، غنی‌سازی ۹۰٪.\n"
-            "- نمره ۶-۷: تحرکات ناوگان‌ها، مانورهای هشدارآمیز، تهدید مستقیم لفظی سران کشورها، جهش ناگهانی ارز.\n"
-            "- نمره ۴-۵: دیپلماسی روتین منطقه‌ای، مذاکرات فنی آژانس اتمی، موضع‌گیری‌های معمول اداری.\n"
-            "- نمره ۱-۳: تعارفات دیپلماتیک و گزارش‌های تکراری و کم‌اثر.\n\n"
-            "قواعد نگارش:\n"
-            "- کلمات ممنوعه: ('به نظر می‌رسد'، 'نشان‌دهنده این است که'، 'شایان ذکر است'، 'در نهایت').\n"
-            "- زبان کاملاً روان، پرانرژی و جذاب ژورنالیستی فارسی."
+            "🔴 **قوانین اعتبارسنجی و جلوگیری از توهم تحلیلی (Grounding):**\n"
+            "۱. تمام فکت‌ها باید منحصراً ریشه در متن ورودی (TEXT) داشته باشند. هیچ سناریوی فرضی نساز.\n"
+            "۲. سخنان ترامپ، نتانیاهو و رضا پهلوی را بدون سانسور و با لحن روان بازتاب بده.\n"
+            "۳. نمره فوریت (Urgency): ۱۰ برای برخورد موشکی/نظامی، ۸-۹ برای تحریم‌های جدید نفتی/ترور فرماندهان، ۶-۷ برای جهش ارزی و مانورها، ۴-۵ برای دیپلماسی عادی."
         )
 
         items_input = []
-        for item in candidates_data:
+        for item in items:
             items_input.append(
                 f"--- ITEM INDEX: {item['index']} ---\n"
                 f"SOURCE: {item['source']}\n"
                 f"HEADLINE: {item['headline']}\n"
-                f"TEXT: {item['text'][:1100]}\n"
+                f"TEXT: {item['text'][:900]}\n"
             )
 
-        user_prompt = "لطفاً تمامی آیتم‌های زیر را دقیق تحلیل کن و مستقیماً در قالب آرایه JSON با اسکیما خروجی بده:\n\n" + "\n".join(items_input)
+        user_prompt = "لطفاً موارد زیر را تحلیل کن و در قالب JSON با اسکیما خروجی بده:\n\n" + "\n".join(items_input)
+        return self._call_gemini(system_prompt, user_prompt, schema=BATCH_ANALYSIS_SCHEMA, temperature=0.15)
 
-        data = self._call_gemini(system_prompt, user_prompt, schema=BATCH_ANALYSIS_SCHEMA, temperature=0.15)
-        if isinstance(data, list):
-            return {item['index']: item for item in data if 'index' in item}
-        return {}
+    def batch_analyze_with_gemini(self, candidates_data):
+        """Analyzes candidates with adaptive sub-batching to guarantee throughput under 503/429 limits."""
+        if not candidates_data or not CONFIG.get('GEMINI_KEY'):
+            return {}
+
+        # If candidates are numerous, split into micro-chunks of 5 to fit under TPM/capacity limits
+        chunk_size = 5
+        results_map = {}
+
+        for i in range(0, len(candidates_data), chunk_size):
+            chunk = candidates_data[i:i + chunk_size]
+            data = self._execute_batch_prompt(chunk)
+            if isinstance(data, list):
+                for item in data:
+                    if 'index' in item:
+                        results_map[item['index']] = item
+            else:
+                logger.warning(f"Micro-batch {i//chunk_size + 1} failed. Retrying items individually...")
+                for single in chunk:
+                    single_res = self._execute_batch_prompt([single])
+                    if isinstance(single_res, list) and single_res:
+                        results_map[single['index']] = single_res[0]
+
+        return results_map
 
     def generate_daily_summary(self):
         now = datetime.now(timezone.utc)
@@ -736,7 +752,7 @@ class IranNewsRadar:
             f"Title: {item.get('title_en')}\nSource: {item.get('source')}\n"
             f"Urgency: {item.get('urgency')}\nTag: {item.get('tag')}\n"
             f"Impact: {item.get('impact')}\nSummary: {' '.join(item.get('summary', []))}"
-            for item in todays_items[:22]
+            for item in todays_items[:18]
         ]
         news_block = "\n\n".join(news_context)
 
@@ -777,7 +793,7 @@ class IranNewsRadar:
         if len(self.existing_news) < 4:
             return None
 
-        recent_news = self.existing_news[:25]
+        recent_news = self.existing_news[:20]
         headlines = "\n".join([f"{idx}: [{i.get('tag')}] {i.get('title_fa')}" for idx, i in enumerate(recent_news)])
 
         cluster_prompt = (
@@ -1130,7 +1146,7 @@ class IranNewsRadar:
                 except Exception as e:
                     logger.error(f"Scraper thread failed: {e}")
 
-        # 5. Single Batch AI Inference with Cascade
+        # 5. Single Batch AI Inference with Adaptive Sub-Batching
         new_processed_items = []
         if scraped_items:
             ai_batch = self.batch_analyze_with_gemini(scraped_items)
