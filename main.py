@@ -422,94 +422,94 @@ class IranNewsRadar:
         return []
 
     def fetch_market_rates(self):
-    data = {
-        "usd": "نامشخص",
-        "oil": "نامشخص",
-        "updated": "--:--"
-    }
-
-    # Calculate USD/Toman using AED/USD and AED/Toman
-    try:
-        # AED -> USD exchange rate
-        resp_usd = self.scraper.get(
-            "https://alanchand.com/en/exchange-rates/aed-usd",
-            timeout=10
-        )
-
-        # AED price in Iran
-        resp_aed = self.scraper.get(
-            "https://alanchand.com/en/currencies-price/aed",
-            timeout=10
-        )
-
-        if resp_usd.status_code == 200 and resp_aed.status_code == 200:
-            soup_usd = BeautifulSoup(resp_usd.text, "lxml")
-            soup_aed = BeautifulSoup(resp_aed.text, "lxml")
-
-            # AED/USD
-            usd_input = soup_usd.find(
-                "input",
-                attrs={"data-curr": "tmn"}
+        data = {
+            "usd": "نامشخص",
+            "oil": "نامشخص",
+            "updated": "--:--"
+        }
+    
+        # Calculate USD/Toman using AED/USD and AED/Toman
+        try:
+            # AED -> USD exchange rate
+            resp_usd = self.scraper.get(
+                "https://alanchand.com/en/exchange-rates/aed-usd",
+                timeout=10
             )
-
-            # AED price
-            aed_input = soup_aed.find(
-                "input",
-                attrs={"data-curr": "tmn"}
+    
+            # AED price in Iran
+            resp_aed = self.scraper.get(
+                "https://alanchand.com/en/currencies-price/aed",
+                timeout=10
             )
-
-            if usd_input and aed_input:
-                usd_value = (
-                    usd_input.get("data-price")
-                    or usd_input.get("value")
+    
+            if resp_usd.status_code == 200 and resp_aed.status_code == 200:
+                soup_usd = BeautifulSoup(resp_usd.text, "lxml")
+                soup_aed = BeautifulSoup(resp_aed.text, "lxml")
+    
+                # AED/USD
+                usd_input = soup_usd.find(
+                    "input",
+                    attrs={"data-curr": "tmn"}
                 )
-
-                aed_value = (
-                    aed_input.get("data-price")
-                    or aed_input.get("value")
+    
+                # AED price
+                aed_input = soup_aed.find(
+                    "input",
+                    attrs={"data-curr": "tmn"}
                 )
-
-                if usd_value and aed_value:
-                    # 1 AED = 0.2723 USD
-                    aed_usd = float(
-                        usd_value.replace(",", "").strip()
+    
+                if usd_input and aed_input:
+                    usd_value = (
+                        usd_input.get("data-price")
+                        or usd_input.get("value")
                     )
-
-                    # AED price returned by AlanChand
-                    # Convert Rial -> Toman
-                    aed_toman = float(
-                        aed_value.replace(",", "").strip()
-                    ) / 10
-
-                    if aed_usd > 0:
-                        # USD/Toman
-                        usd_toman = aed_toman / aed_usd
-
-                        data["usd"] = f"{int(usd_toman):,}"
-
-    except Exception:
-        pass
-
-    # Oil price
-    try:
-        resp = self.scraper.get(
-            "https://oilprice.com/oil-price-charts/46",
-            timeout=10
-        )
-
-        if resp.status_code == 200:
-            soup = BeautifulSoup(resp.text, "lxml")
-            oil = soup.select_one(".last_price")
-
-            if oil:
-                data["oil"] = oil.get_text(strip=True)
-
-    except Exception:
-        pass
-
-    data["updated"] = time.strftime("%H:%M")
-
-    return data
+    
+                    aed_value = (
+                        aed_input.get("data-price")
+                        or aed_input.get("value")
+                    )
+    
+                    if usd_value and aed_value:
+                        # 1 AED = 0.2723 USD
+                        aed_usd = float(
+                            usd_value.replace(",", "").strip()
+                        )
+    
+                        # AED price returned by AlanChand
+                        # Convert Rial -> Toman
+                        aed_toman = float(
+                            aed_value.replace(",", "").strip()
+                        ) / 10
+    
+                        if aed_usd > 0:
+                            # USD/Toman
+                            usd_toman = aed_toman / aed_usd
+    
+                            data["usd"] = f"{int(usd_toman):,}"
+    
+        except Exception:
+            pass
+    
+        # Oil price
+        try:
+            resp = self.scraper.get(
+                "https://oilprice.com/oil-price-charts/46",
+                timeout=10
+            )
+    
+            if resp.status_code == 200:
+                soup = BeautifulSoup(resp.text, "lxml")
+                oil = soup.select_one(".last_price")
+    
+                if oil:
+                    data["oil"] = oil.get_text(strip=True)
+    
+        except Exception:
+            pass
+    
+        data["updated"] = time.strftime("%H:%M")
+    
+        return data
 
     # ───────────────────────── Web Scraping & Content ─────────────────────────
 
