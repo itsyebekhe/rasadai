@@ -421,6 +421,10 @@ class IranNewsRadar:
             pass
         return []
 
+    import time
+from bs4 import BeautifulSoup
+
+
     def fetch_market_rates(self):
         data = {
             "usd": "نامشخص",
@@ -446,46 +450,41 @@ class IranNewsRadar:
                 soup_usd = BeautifulSoup(resp_usd.text, "lxml")
                 soup_aed = BeautifulSoup(resp_aed.text, "lxml")
     
-                # AED/USD
-                usd_input = soup_usd.find(
-                    "input",
-                    attrs={"data-curr": "tmn"}
-                )
+                # 1. Extract AED to USD rate
+                usd_rate_str = None
+                usd_input = soup_usd.find("input", id="inputCalcValue") or soup_usd.find("input", id="outputCalcValue")
+                if usd_input:
+                    usd_rate_str = usd_input.get("data-rate")
+                
+                # Fallback to text span if input attribute is missing
+                if not usd_rate_str:
+                    dest_span = soup_usd.find(id="destinationAmount")
+                    if dest_span:
+                        usd_rate_str = dest_span.get_text(strip=True)
     
-                # AED price
-                aed_input = soup_aed.find(
-                    "input",
-                    attrs={"data-curr": "tmn"}
-                )
+                # 2. Extract AED price in Iranian Rials
+                aed_price_str = None
+                aed_input = soup_aed.find("input", attrs={"data-curr": "tmn"})
+                if aed_input:
+                    aed_price_str = aed_input.get("data-price") or aed_input.get("value")
+                
+                # Fallback to calculator result span if input is missing
+                if not aed_price_str:
+                    tmn_span = soup_aed.find(id="tmn")
+                    if tmn_span:
+                        aed_price_str = tmn_span.get_text(strip=True)
     
-                if usd_input and aed_input:
-                    usd_value = (
-                        usd_input.get("data-price")
-                        or usd_input.get("value")
-                    )
+                # 3. Calculate USD/Toman
+                if usd_rate_str and aed_price_str:
+                    # 1 AED = X USD
+                    aed_usd = float(str(usd_rate_str).replace(",", "").strip())
     
-                    aed_value = (
-                        aed_input.get("data-price")
-                        or aed_input.get("value")
-                    )
+                    # AED price in Tomans (AlanChand uses Rials: 1 Toman = 10 Rials)
+                    aed_toman = float(str(aed_price_str).replace(",", "").strip()) / 10
     
-                    if usd_value and aed_value:
-                        # 1 AED = 0.2723 USD
-                        aed_usd = float(
-                            usd_value.replace(",", "").strip()
-                        )
-    
-                        # AED price returned by AlanChand
-                        # Convert Rial -> Toman
-                        aed_toman = float(
-                            aed_value.replace(",", "").strip()
-                        ) / 10
-    
-                        if aed_usd > 0:
-                            # USD/Toman
-                            usd_toman = aed_toman / aed_usd
-    
-                            data["usd"] = f"{int(usd_toman):,}"
+                    if aed_usd > 0:
+                        usd_toman = aed_toman / aed_usd
+                        data["usd"] = f"{int(round(usd_toman)):,}"
     
         except Exception:
             pass
