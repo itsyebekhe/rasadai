@@ -421,17 +421,12 @@ class IranNewsRadar:
             pass
         return []
 
-    import time
-from bs4 import BeautifulSoup
-
-
     def fetch_market_rates(self):
         data = {
             "usd": "نامشخص",
             "oil": "نامشخص",
             "updated": "--:--"
         }
-    
         # Calculate USD/Toman using AED/USD and AED/Toman
         try:
             # AED -> USD exchange rate
