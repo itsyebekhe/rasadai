@@ -1,5 +1,96 @@
 [
   {
+    "id": "2acb1cdd01",
+    "title_fa": "باریک‌تر شدن فاصله میان مذاکره و جنگ از دیدگاه تهران",
+    "title_en": "From talks to war: Tehran sees the gap narrowing",
+    "summary": [
+      "تهران فاصله میان دیپلماسی و وقوع جنگ همه‌جانبه را در حال کاهش و باریک‌تر شدن می‌بیند."
+    ],
+    "impact": "افزایش احتمال شکست کامل دیپلماسی و سوق یافتن طرفین به سمت درگیری مستقیم.",
+    "tag": "سیاسی",
+    "urgency": 7,
+    "sentiment": -0.6,
+    "source": "Iran International",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9POTIyTjB2dHkwZGVMdld2ZEJHNU1vWENNU3VmZUtyUWlSbGJIdVo3ckZBRWJIazFPUEdtYXBtc1lCZWpGS21ib3pLYUZDRF9UM1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9POTIyTjB2dHkwZGVMdld2ZEJHNU1vWENNU3VmZUtyUWlSbGJIdVo3ckZBRWJIazFPUEdtYXBtc1lCZWpGS21ib3pLYUZDRF9UM1E",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791424661.0
+  },
+  {
+    "id": "b53d532b32",
+    "title_fa": "حمله مشترک آمریکا و اسرائیل به ایران و ترور آیت‌الله خامنه‌ای",
+    "title_en": "Moment of Opportunity",
+    "summary": [
+      "آمریکا و اسرائیل در ۲۸ فوریه با حملات گسترده به ایران، آیت‌الله علی خامنه‌ای، رهبر عالی این کشور را ترور کردند.",
+      "در پی اصابت موشک‌های آمریکایی به یک مدرسه ابتدایی، ۱۵۰ غیرنظامی که بیشتر آن‌ها کودک بودند کشته شدند.",
+      "ایران با هدف قرار دادن پایگاه‌های آمریکا و اسرائیل در منطقه و محدود کردن تردد در تنگه هرمز تلافی کرد.",
+      "کشورهای عربی میزبان پایگاه‌های آمریکا هدف حملات تلافی‌جویانه ایران قرار گرفتند و قیمت جهانی انرژی جهش یافت."
+    ],
+    "impact": "بی‌ثباتی شدید خاورمیانه، ترور بالاترین مقام ایران، تلفات سنگین غیرنظامی و بحران جهانی انرژی.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.9,
+    "source": "OrissaPOST",
+    "url": "https://www.orissapost.com/moment-of-opportunity/",
+    "clean_url": "https://www.orissapost.com/moment-of-opportunity",
+    "image": "https://www.orissapost.com/wp-content/uploads/2026/10/Abdullah-Gul.png",
+    "timestamp": 1791424020.0
+  },
+  {
+    "id": "882cb335bd",
+    "title_fa": "آماده‌سازی گزینه‌های جدید جنگی علیه ایران توسط ارتش آمریکا",
+    "title_en": "U.S. military prepares new Iran war options ahead of midterm elections",
+    "summary": [
+      "ارتش ایالات متحده در آستانه انتخابات میان‌دوره‌ای، در حال آماده‌سازی گزینه‌های نظامی جدید برای جنگ با ایران است."
+    ],
+    "impact": "افزایش آمادگی رزمی آمریکا برای سناریوهای احتمالی برخورد نظامی با ایران.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.5,
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVM0Sy1rbHNiVjdWLVdNMmRxWk9ZOTdhWWNkbFZicW9ycDdvMy1WMXQ4LTZ3a0VPMElzOWI4THB3ZUhmTkxNYkZIdEpPdHMzdnhzSHN6LUkxYWlVU0Rmbi1RY1VCX2xydDY0Z1kzZmRDSGZYODN5YjdpaHNWMUthSEtZbXVvUlRHU01KSW1XUUJ3MExLTkxWdzctVldDUGlMLUgwM1M4aE9EMkVnZXVmS2VYZlZOZ0hFUU9oVWJ4RWt6Q3dxZWc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTVM0Sy1rbHNiVjdWLVdNMmRxWk9ZOTdhWWNkbFZicW9ycDdvMy1WMXQ4LTZ3a0VPMElzOWI4THB3ZUhmTkxNYkZIdEpPdHMzdnhzSHN6LUkxYWlVU0Rmbi1RY1VCX2xydDY0Z1kzZmRDSGZYODN5YjdpaHNWMUthSEtZbXVvUlRHU01KSW1XUUJ3MExLTkxWdzctVldDUGlMLUgwM1M4aE9EMkVnZXVmS2VYZlZOZ0hFUU9oVWJ4RWt6Q3dxZWc",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791417660.0
+  },
+  {
+    "id": "418cad558a",
+    "title_fa": "حمله کشنده حوثی‌ها به فرودگاه‌های عربستان و پاسخ گسترده ائتلاف با انهدام ۸۲ هدف",
+    "title_en": "US-Iran War Live Updates: Tanker struck by multiple projectiles off Qatar, casualties reported",
+    "summary": [
+      "حمله حوثی‌ها به دو فرودگاه بین‌المللی ریاض و ابها در عربستان منجر به ۳ کشته و ۳۶ مجروح شد.",
+      "ائتلاف به رهبری عربستان در پاسخ به این حملات، ۸۲ هدف نظامی حوثی‌ها را در سراسر یمن منهدم کرد.",
+      "حوثی‌ها ادعا کردند کنترل مناطق کلیدی و تنگه باب‌المندب را پس از درگیری شدید پس گرفته‌اند."
+    ],
+    "impact": "اوج‌گیری شدید درگیری‌های نظامی منطقه و تهدید مستقیم زیرساخت‌های غیرنظامی و حمل‌ونقل هوایی و دریایی.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.8,
+    "source": "The Times of India",
+    "url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-saudi-yemen-houthis-strait-of-hormuz-trump-latest-news/liveblog/134748685.cms",
+    "clean_url": "https://timesofindia.indiatimes.com/world/middle-east/us-iran-war-live-updates-saudi-yemen-houthis-strait-of-hormuz-trump-latest-news/liveblog/134748685.cms",
+    "image": "https://static.toiimg.com/thumb/msid-134748685,width-1280,height-720,imgsize-37458,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+    "timestamp": 1791417180.0
+  },
+  {
+    "id": "22ba7badd2",
+    "title_fa": "دستور آماده‌باش به ارتش آمریکا برای حملات احتمالی به ایران",
+    "title_en": "Military ordered to be ready for possible Iran strikes as Trump weighs timing",
+    "summary": [
+      "به ارتش ایالات متحده دستور داده شده تا برای حملات احتمالی به ایران آماده باشد.",
+      "دونالد ترامپ در حال ارزیابی و بررسی زمان‌بندی مناسب برای آغاز این حملات است."
+    ],
+    "impact": "قرار گرفتن نیروهای آمریکایی در آستانه اقدام نظامی مستقیم علیه اهداف ایرانی.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.7,
+    "source": "Axios",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJVT0lpY01IdHRxLXR3WFJUWVdlVlNWM2IyV0p2cFNoQVRPQjVMdXNkTHNpYk5NY2lvRzQ0SkpHN1I3T21KLThjVHI5SHlmeFZyZndfempWYjgzNWJMaWFmY1B2dk9nbGxuV056WG9NSWlRdWszd085cWZUOXBKbjc5YlFrcGo4VjI4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcTJVT0lpY01IdHRxLXR3WFJUWVdlVlNWM2IyV0p2cFNoQVRPQjVMdXNkTHNpYk5NY2lvRzQ0SkpHN1I3T21KLThjVHI5SHlmeFZyZndfempWYjgzNWJMaWFmY1B2dk9nbGxuV056WG9NSWlRdWszd085cWZUOXBKbjc5YlFrcGo4VjI4",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791414619.0
+  },
+  {
     "id": "6066dc89af",
     "title_fa": "درخواست کاخ سفید از پنتاگون برای تدوین گزینه‌های حمله به ایران پیش از انتخابات",
     "title_en": "Vance presses Iran for 'meaningful' reduction in nuclear capability to end war",
@@ -53,6 +144,26 @@
     "timestamp": 1791407595.0
   },
   {
+    "id": "3eb9f53db8",
+    "title_fa": "تعدیل موضع جی‌دی ونس در قبال غنی‌سازی ایران همزمان با تهدید هرمز",
+    "title_en": "Vance appears to soften U.S. demands on Iranian nuclear enrichment",
+    "summary": [
+      "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، با تعدیل موضع سخت‌گیرانه قبلی ترامپ (غنی‌سازی صفر)، اعلام کرد ایران باید اقدامی معنی‌دار برای کاهش غنی‌سازی انجام دهد.",
+      "یک مقام ارشد نظامی ایران اعلام کرد نیروهای مسلح این کشور تسلط کامل بر تنگه هرمز دارند و به زودی مسیرهای کشتیرانی غیرقانونی را مسدود خواهند کرد.",
+      "مارکو روبیو، وزیر خارجه آمریکا، مدعی شد ایران کنترل تنگه هرمز را از دست داده و جریان صادرات نفت تقریباً به سطح پیش از درگیری بازگشته است.",
+      "ویدیوهای جدیدی از حمله ایران به یک پایگاه بزرگ نظامی آمریکا در کویت در آغاز جنگ منتشر شده است."
+    ],
+    "impact": "تنش نظامی در خلیج فارس با تهدید به انسداد تنگه هرمز و افشای اسناد حمله به پایگاه آمریکا وارد فاز جدیدی شده است.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.4,
+    "source": "Yahoo",
+    "url": "https://www.yahoo.com/news/politics/articles/vance-appears-soften-u-demands-112624435.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/vance-appears-soften-u-demands-112624435.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/227dcf485ff103371fd05099258c24ddfcc2eb33d9c17d9ea158bc6720a94e1c/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https://media.zenfs.com/en/cbs_news_897/cd405d5cdb0c2cc3043afb5f45c5cb4c.jpg",
+    "timestamp": 1791407400.0
+  },
+  {
     "id": "b01dad298e",
     "title_fa": "تعدیل موضع هسته‌ای آمریکا توسط ونس و ادعاهای متناقض درباره کنترل تنگه هرمز",
     "title_en": "Live Updates: Vance seems to soften Iran nuclear demands, Rubio says Tehran has \"lost control\" of Strait of Hormuz",
@@ -91,6 +202,43 @@
     "timestamp": 1791400076.0
   },
   {
+    "id": "0b0f87df41",
+    "title_fa": "هشدار نماینده مجلس ایران درباره برنامه آمریکا و اسرائیل برای ایجاد شورش خیابانی",
+    "title_en": "Iran MP says US seeks to pressure Tehran, trigger street unrest",
+    "summary": [
+      "علی خضریان نماینده مجلس مدعی شد آمریکا و اسرائیل به دنبال ایجاد ناآرامی خیابانی از طریق عوامل داخلی هستند.",
+      "به گفته وی، ارزیابی آمریکا بر این است که ظرف دو هفته آینده می‌تواند تاب‌آوری ایران را تحت فشار شدید قرار دهد."
+    ],
+    "impact": "افزایش سطح هوشیاری امنیتی در داخل ایران و پیش‌بینی احتمال تشدید فشارهای همه‌جانبه تا دو هفته آینده.",
+    "tag": "امنیت داخلی",
+    "urgency": 6,
+    "sentiment": -0.6,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610076038",
+    "clean_url": "https://www.iranintl.com/en/202610076038",
+    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+    "timestamp": 1791389400.0
+  },
+  {
+    "id": "23e7d57b4c",
+    "title_fa": "انتقال ۲۰۰ میلیون دلار از ایران به حزب‌الله با کارمزد ۲۰ درصدی واسطه‌ها",
+    "title_en": "Iran sent Hezbollah $200 million after Lebanon war",
+    "summary": [
+      "ایران ماه گذشته با وجود فشارهای مالی آمریکا، ۲۰۰ میلیون دلار برای کمک به آوارگان جنگ به حزب‌الله منتقل کرد.",
+      "واسطه‌های مالی به دلیل ریسک بالای انتقال، کارمزد ۲۰ درصدی (چهار برابر حد معمول) دریافت کردند.",
+      "مارکو روبیو اعلام کرد که جریان صادرات نفت از تنگه هرمز تقریباً به سطح پیش از درگیری‌ها بازگشته است."
+    ],
+    "impact": "تداوم تامین مالی حزب‌الله توسط ایران با وجود هزینه‌های هنگفت و تحریم‌های سنگین بانکی.",
+    "tag": "تحریم و مالی",
+    "urgency": 8,
+    "sentiment": -0.3,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610072464",
+    "clean_url": "https://www.iranintl.com/en/202610072464",
+    "image": "https://i.iranintl.com/images/rdk9umy0/production/17a8603b3a17d07e60fe0aaf5b98a7e8b0298891-1280x853.jpg?rect=263,16,763,763&w=200&h=200&q=58&fit=crop&auto=format",
+    "timestamp": 1791387180.0
+  },
+  {
     "id": "739a3c8743",
     "title_fa": "سالگرد حمله ۷ اکتبر و حملات موشکی جدید حوثی‌ها به ریاض و عدن",
     "title_en": "1 p.m. recap: 3 years since Oct. 7; new Houthi attacks on Riyadh and Aden; Rubio says Iran 'lost control' of Hormuz",
@@ -108,6 +256,25 @@
     "clean_url": "https://today.lorientlejour.com/article/1549975/1-pm-recap-3-years-since-oct-7-new-houthi-attacks-on-riyadh-and-aden-rubio-says-iran-lost-control-of-hormuz.html",
     "image": "https://s.lorientlejour.com/storage/attachments/1550/medias_928611_314214.jpg/r/800/medias_928611_314214.jpg",
     "timestamp": 1791381780.0
+  },
+  {
+    "id": "7714b74d42",
+    "title_fa": "ادعای روبیو درباره رد فرصت‌های توافق هسته‌ای توسط ایران و تداوم بن‌بست دیپلماتیک",
+    "title_en": "Marco Rubio says Iran 'failed' to seize 'multiple opportunities' for nuclear deal — Tehran slams Washington's 'requests and ideas'",
+    "summary": [
+      "مارکو روبیو اعلام کرد ایران فرصت‌های متعدد برای دست‌یابی به توافق هسته‌ای را از دست داده است.",
+      "مذاکرات میان واشنگتن و تهران در بن‌بست کامل قرار دارد.",
+      "تهران ایده‌ها و درخواست‌های مطرح‌شده از سوی آمریکا را به شدت رد کرده است."
+    ],
+    "impact": "تعمیق بن‌بست دیپلماتیک میان طرفین و کاهش شانس دستیابی به راهکار سیاسی در کوتاه مدت.",
+    "tag": "دیپلماسی",
+    "urgency": 5,
+    "sentiment": -0.4,
+    "source": "Benzinga",
+    "url": "https://www.msn.com/en-us/news/other/marco-rubio-says-iran-failed-to-seize-multiple-opportunities-for-nuclear-deal-tehran-slams-washingtons-requests-and-ideas/ar-AA2dLnFC",
+    "clean_url": "https://www.msn.com/en-us/news/other/marco-rubio-says-iran-failed-to-seize-multiple-opportunities-for-nuclear-deal-tehran-slams-washingtons-requests-and-ideas/ar-AA2dLnFC",
+    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dKu6L.img?w=1024&h=683&m=4&q=81",
+    "timestamp": 1791379878.0
   },
   {
     "id": "ea4d3e65c0",
@@ -162,6 +329,25 @@
     "clean_url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-strike-midterms/688910",
     "image": "http://www.bing.com/th?id=ONUT.tU2vesSfDdvlbzS8Y-ZxHA&pid=News",
     "timestamp": 1791374460.0
+  },
+  {
+    "id": "4ce76f6cf9",
+    "title_fa": "شرط جدید آمریکا برای توافق با ایران؛ هشدار ترامپ درباره پایان جنگ به دو روش",
+    "title_en": "US sets new demands for Iran deal: What are they?",
+    "summary": [
+      "جی دی ونس، معاون رئیس‌جمهور آمریکا خواستار کاهش معنی‌دار ظرفیت غنی‌سازی اورانیوم ایران برای پایان دادن به جنگ شد.",
+      "دونالد ترامپ هشدار داد که جنگ یا از راه خوب یا از راه نه چندان خوب به پایان خواهد رسید.",
+      "مارکو روبیو، وزیر خارجه آمریکا تاکید کرد که ایران به هیچ وجه نباید به سلاح هسته‌ای دست یابد."
+    ],
+    "impact": "احتمال تعدیل مواضع واشنگتن از لغو کامل غنی‌سازی به کاهش آن همزمان با فشار و تهدید مستقیم نظامی.",
+    "tag": "دیپلماسی هسته‌ای",
+    "urgency": 7,
+    "sentiment": -0.5,
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
+    "clean_url": "https://www.aljazeera.com/news/2026/10/7/us-sets-new-demands-for-iran-deal-what-are-they",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/ap_6abbbece3e71c-1790688974.jpg?resize=1920,1440",
+    "timestamp": 1791370680.0
   },
   {
     "id": "5ca9ebf6bb",
@@ -5308,190 +5494,5 @@
     "clean_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWHVUdFB5Z1ZSVjdYUFp3NkJDNHdQa2M0ckdvWGNRb3E3dUVLVkp6djlUeXlvbVdGTHZZbnZVazZDOEw3dnFDTGVnQVRyV2VxZEhBWDdGS3JoTUFTMVVEcjg1dHlWQWFXbUJsOGtYQ21mZFVwLXByVWNLLXFWNWpMbm5HdElBRWZnRldTZVVlQ2lSN1dJYWxsSlE2VFRZblh2X2tjWjBqbklIQnFaSmVLZEZDZklzM0ZpYnJFYmlNRmo0Q3hlc2RrYWtHSQ",
     "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1789497978.0
-  },
-  {
-    "id": "fde3b3b625",
-    "title_fa": "سرنگونی پهپاد آمریکایی در هرمز و درخواست کمک ریاض از غرب",
-    "title_en": "Live Updates: IDF troops destroy Hezbollah rocket launchers as Saudi Arabia turns to Western allies for help",
-    "summary": [
-      "پدافند هوایی سپاه یک فروند پهپاد MQ-1 آمریکا را بر فراز تنگه هرمز سرنگون کرد که نشان‌دهنده آسیب‌پذیری شدید تجهیزات آمریکایی است.",
-      "همزمان با افت شدید ذخایر مهمات پنتاگون، عربستان سعودی در پی افزایش تهدیدات منطقه‌ای دست به دامن متحدان غربی شده است."
-    ],
-    "impact": "افزایش فرسایش تجهیزاتی نیروهای آمریکایی و تعمیق بحران پدافندی در میان متحدان منطقه‌ای واشنگتن.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "The Jerusalem Post",
-    "url": "https://www.jpost.com/middle-east/iran-news/2026-09-15/live-updates-908607",
-    "clean_url": "https://www.jpost.com/middle-east/iran-news/2026-09-15/live-updates-908607",
-    "image": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/737803",
-    "timestamp": 1789496880.0
-  },
-  {
-    "id": "3df842027e",
-    "title_fa": "تلاش سپاه برای صید شناورهای جاسوسی و پهپادی آمریکا در تنگه هرمز",
-    "title_en": "Iran’s drone hunt escalates as Tehran targets US spy tech to expose battlefield secrets",
-    "summary": [
-      "تیم‌های پهپادی ایران عملیات ویژه‌ای را برای تصرف و به دام انداختن شناورهای بی‌سرنشین آمریکایی در تنگه هرمز کلید زده‌اند.",
-      "هدف اصلی تهران از این اقدامات، دستیابی به کدها و فناوری‌های حساس جاسوسی ایالات متحده در منطقه است."
-    ],
-    "impact": "بالا رفتن ریسک برخورد مستقیم نظامی در حوزه خلیج فارس و خطر سرقت فناوری‌های هوشمند دریایی آمریکا.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "Fox News on MSN",
-    "url": "https://www.msn.com/en-us/news/other/iran-s-drone-hunt-escalates-as-tehran-targets-us-spy-tech-to-expose-battlefield-secrets/ar-AA2cjlzi",
-    "clean_url": "https://www.msn.com/en-us/news/other/iran-s-drone-hunt-escalates-as-tehran-targets-us-spy-tech-to-expose-battlefield-secrets/ar-AA2cjlzi",
-    "image": "http://www.bing.com/th?id=ONUT.MxVxM9a2iU90HYrCKvIR-w&pid=News",
-    "timestamp": 1789494970.0
-  },
-  {
-    "id": "9b0874ac60",
-    "title_fa": "خط‌ونشان قضایی و امنیتی سپاه برای رضا درمیشیان؛ در خواست توقیف اموال",
-    "title_en": "تشکیل پرونده قضایی برای یک فیلمساز؛ سپاه پاسداران خواستار توقیف اموال رضا درمیشیان شد",
-    "summary": [
-      "دستگاه قضایی با همراهی سپاه پاسداران پس از حمایت رضا درمیشیان از معترضان، اقدام به صدور قرار جلب برای این کارگردان کرده‌اند.",
-      "نهادهای امنیتی علاوه بر بازداشت، خواستار مصادره و توقیف کامل اموال این سینماگر شده‌اند تا هزینه انتقاد را سنگین‌تر کنند."
-    ],
-    "impact": "تشدید فشار مالی و امنیتی بر چهره‌های فرهنگی سرشناس برای تسریع خفقان و جلوگیری از همراهی آنان با اعتراضات.",
-    "tag": "سرکوب",
-    "urgency": 6,
-    "sentiment": -0.8,
-    "source": "ایران اینترنشنال",
-    "url": "https://www.iranintl.com/202609168300",
-    "clean_url": "https://www.iranintl.com/202609168300",
-    "image": "https://i.iranintl.com/images/rdk9umy0/production/9feb4119f88d07df123e0bcab07c33d408d9f59c-455x483.png?rect=0,57,455,239&w=1200&h=630&q=66&fit=max&auto=format",
-    "timestamp": 1789491600.0
-  },
-  {
-    "id": "21f10ed8db",
-    "title_fa": "تحلیل جاکوبین از سیاست منابع‌خوارانه و امپریالیسم عریان ترامپ",
-    "title_en": "Donald Trump's imperialism of decline is a global menace",
-    "summary": [
-      "نشریه جاکوبین تأکید می‌کند ترامپ پنهان‌کاری‌های معمول دیپلماتیک را کنار گذاشته و علناً به دنبال تصاحب منابع سایر کشورهاست.",
-      "این رویکرد تهاجمی نتیجه تضعیف موقعیت ساختاری آمریکا در عرصه بین‌المللی و اتکای محض به زورآزمایی است."
-    ],
-    "impact": "افزایش انزوای بین‌المللی واشنگتن و تعمیق بی‌اعتمادی متحدان سنتی به سیاست خارجی آمریکا.",
-    "tag": "تحلیل",
-    "urgency": 4,
-    "sentiment": -0.5,
-    "source": "Jacobin",
-    "url": "https://www.msn.com/en-us/news/other/donald-trump-s-imperialism-of-decline-is-a-global-menace/ar-AA2cgyVQ",
-    "clean_url": "https://www.msn.com/en-us/news/other/donald-trump-s-imperialism-of-decline-is-a-global-menace/ar-AA2cgyVQ",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789484778.0
-  },
-  {
-    "id": "9183819dd5",
-    "title_fa": "بن‌بست ۷ ماهه در تنگه هرمز و نفت بالای ۱۰۰ دلار",
-    "title_en": "What Is the Status of the U.S.-Iran Peace Talks? Here's What Both Sides Are Saying",
-    "summary": [
-      "جنگ میان واشنگتن و تهران وارد هفتمین ماه خود شده و ادعای اولیه ترامپ برای پایان چند هفته‌ای درگیری‌ها کاملاً باطل شده است.",
-      "تبادل آتش متقابل در تنگه هرمز و هدف قرار گرفتن نفتکش‌ها، گذرگاه حیاتی انرژی را در بن‌بست کامل نظامی قرار داده است.",
-      "پیشروی‌های جدید حوثی‌ها در یمن موازنه قدرت در خلیج فارس را بیش از پیش به زیان جبهه آمریکایی-سعودی برهم زده است."
-    ],
-    "impact": "جهش قیمت نفت به بالای ۱۰۰ دلار و ناامنی گسترده در خطوط ترانزیت انرژی خلیج فارس.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.8,
-    "source": "TIME",
-    "url": "https://time.com/article/2026/09/15/us-iran-peace-talks-deal-stalled-houthis-leverage-shipping-disruptions/",
-    "clean_url": "https://time.com/article/2026/09/15/us-iran-peace-talks-deal-stalled-houthis-leverage-shipping-disruptions",
-    "image": "http://www.bing.com/th?id=ONUT.mh5ZVGDcveI1mGD_gSVH6g&pid=News",
-    "timestamp": 1789480680.0
-  },
-  {
-    "id": "6d4d0d5a3d",
-    "title_fa": "سیگنال ترامپ برای مذاکره همزمان با بحران کمبود سلاح در آمریکا",
-    "title_en": "Iran war live: US facing weapons shortages as cost of war hits $33bn",
-    "summary": [
-      "انباشت خسارت ۳۳ میلیارد دلاری و تخریب تجهیزات، واشنگتن را با کمبود شدید تسلیحات مواجه کرده است.",
-      "چراغ سبز ترامپ برای گفتگو با تهران، بیش از آنکه یک مانور سیاسی باشد، حاصل فشار هزینه‌های سنگین جنگ است."
-    ],
-    "impact": "احتمال تمایل واشنگتن به کاهش موقت تنش جهت بازسازی ذخایر موشکی و تجهیزاتی",
-    "tag": "دیپلماسی",
-    "urgency": 7,
-    "sentiment": -0.4,
-    "source": "The Independent",
-    "url": "https://www.msn.com/en-gb/news/other/iran-war-live-us-forces-reject-claim-that-mines-blew-up-tanker/ar-AA2ceLYu",
-    "clean_url": "https://www.msn.com/en-gb/news/other/iran-war-live-us-forces-reject-claim-that-mines-blew-up-tanker/ar-AA2ceLYu",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789460982.0
-  },
-  {
-    "id": "5922c0d054",
-    "title_fa": "خط‌ونشان محسن رضایی برای واشنگتن؛ رد مذاکره و تهدید نفت",
-    "title_en": "US Air Force colonel shot down over Iran recounts 'modern-day miracle'",
-    "summary": [
-      "محسن رضایی سیگنال‌های واشنگتن برای گفتگو را بازی روانی خواند و هرگونه مذاکره را مشروط به تمکین کامل آمریکا دانست.",
-      "تهران با دست گذاشتن بر امنیت تنگه هرمز و صادرات نفت، از ابزار انرژی برای باج‌گیری دیپلماتیک استفاده می‌کند.",
-      "این خط کلامی تهاجمی، احتمال توافق سریع یا کاهش تنش در کوتاه‌مدت را کاملاً منتفی می‌سازد."
-    ],
-    "impact": "تداوم تنش لفظی و احتمال تحرکات بیشتر در تنگه هرمز که ناامنی بازار انرژی را تشدید می‌کند.",
-    "tag": "دیپلماسی",
-    "urgency": 7,
-    "sentiment": -0.7,
-    "source": "Fox News",
-    "url": "https://www.foxnews.com/live-news/us-air-force-colonel-shot-down-over-iran-recounts-modern-day-miracle",
-    "clean_url": "https://www.foxnews.com/live-news/us-air-force-colonel-shot-down-over-iran-recounts-modern-day-miracle",
-    "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/09/8bbea49dd354b3a9d1227235f0f74b74.jpg",
-    "timestamp": 1789429260.0
-  },
-  {
-    "id": "81d13e263d",
-    "title_fa": "تحریم بانک روسی توسط آمریکا برای انسداد شریان مالی ایران",
-    "title_en": "U.S. Sanctions Russian Bank in Latest Target for Campaign Against Iran",
-    "summary": [
-      "وزارت خزانه‌داری آمریکا در ادامه کمپین فشار بر ایران، یک بانک فعال روسی را هدف تحریم قرار داد.",
-      "واشنگتن با این اقدام به دنبال مسدود کردن کانال‌های مالی و دور زدن تحریم‌ها میان مسکو و تهران است.",
-      "هدف گرفتن موسسات مالی واسط، هزینه مبادلات تجاری ایران را به شدت بالا می‌برد."
-    ],
-    "impact": "سخت‌تر شدن مبادلات ارزی ایران و افزایش هزینه دور زدن تحریم‌ها با همکاری روسیه.",
-    "tag": "تحریم",
-    "urgency": 7,
-    "sentiment": -0.5,
-    "source": "WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2VlWFpWc09aZzZyc3M3YWJOSUZXai00aHRDTDZZajFjUWh3QTFQQTVHa0p1RS1EUzlyYVpZMndKMnB5UE5xVmp3UGNVQ29iYlhncm5nQ0Y2b0s4STctdG9nVXM2VjRCXzIzODdfRVRldDRITHBrVGh6MjlCQUZDeDBjLWxmTTdqcHU1amV2MTdZN0d6RFRmS0N1Q0VOVWRwR1UzOGdSdXNqSWZyUkZRZFZxT3FhUDlz?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOY2VlWFpWc09aZzZyc3M3YWJOSUZXai00aHRDTDZZajFjUWh3QTFQQTVHa0p1RS1EUzlyYVpZMndKMnB5UE5xVmp3UGNVQ29iYlhncm5nQ0Y2b0s4STctdG9nVXM2VjRCXzIzODdfRVRldDRITHBrVGh6MjlCQUZDeDBjLWxmTTdqcHU1amV2MTdZN0d6RFRmS0N1Q0VOVWRwR1UzOGdSdXNqSWZyUkZRZFZxT3FhUDlz",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789422240.0
-  },
-  {
-    "id": "db09df229c",
-    "title_fa": "ممانعت آمریکا از حضور رئیس سازمان انرژی اتمی ایران در وین",
-    "title_en": "US blocks Iran nuclear chief from attending key Vienna conference",
-    "summary": [
-      "دولت آمریکا مانع صدور روادید و حضور رئیس سازمان انرژی اتمی ایران در کنفرانس کلیدی آژانس در وین شد.",
-      "این اقدام واشنگتن شکاف دیپلماتیک موجود میان تهران و آژانس بین‌المللی انرژی اتمی را عمیق‌تر می‌سازد.",
-      "بستن مسیرهای گفتگوی مستقیم فنی، احتمال همگرایی در پرونده هسته‌ای را کمتر از قبل می‌کند."
-    ],
-    "impact": "افزایش تیرگی روابط دیپلماتیک ایران با نهادهای بین‌المللی نظارتی.",
-    "tag": "هسته‌ای",
-    "urgency": 5,
-    "sentiment": -0.4,
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzItWklyVzBrZ2ZhWUdvWks5NWh2ZTlPTS0tanB3MnJqOWRrOVQxM0ZzaE04LXctbGpmWkZDN3laQTFnM29VQlFoQ0pWbEJKMW1QUUJYT0xyMTE2S21aU05CRUNzel9FcU5GWkNTQ2NKaTRIa25iQXFaUGJ1QUxoSkQtYUVQUjZTQldsUnp1ZEl2RDlldkQ5aDhlYUk3Z2VZcVNadGI5ZFZUQdIBrwFBVV95cUxOel9QakJaLUh3VUM1SHdyd0ZpN0dqeGJhTWt1bXFfUXZXbzhiNDVmQkVGQlhTLUJpUHNLU0NGRnRwQzdnbUkxNXBjdTJiME9nckpURXE4ajl0QzdfeENWVi14bGJ0NTVNTFhybmd6M1M0dDhmUkZENHJwaDRkVlQ5bkt4UDROUEQzd0EyVkJHVXBHMWhzeno2NEZWWGp4S2tQY1F0MUZib0Vja3kyZjhr?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRzItWklyVzBrZ2ZhWUdvWks5NWh2ZTlPTS0tanB3MnJqOWRrOVQxM0ZzaE04LXctbGpmWkZDN3laQTFnM29VQlFoQ0pWbEJKMW1QUUJYT0xyMTE2S21aU05CRUNzel9FcU5GWkNTQ2NKaTRIa25iQXFaUGJ1QUxoSkQtYUVQUjZTQldsUnp1ZEl2RDlldkQ5aDhlYUk3Z2VZcVNadGI5ZFZUQdIBrwFBVV95cUxOel9QakJaLUh3VUM1SHdyd0ZpN0dqeGJhTWt1bXFfUXZXbzhiNDVmQkVGQlhTLUJpUHNLU0NGRnRwQzdnbUkxNXBjdTJiME9nckpURXE4ajl0QzdfeENWVi14bGJ0NTVNTFhybmd6M1M0dDhmUkZENHJwaDRkVlQ5bkt4UDROUEQzd0EyVkJHVXBHMWhzeno2NEZWWGp4S2tQY1F0MUZib0Vja3kyZjhr",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789420893.0
-  },
-  {
-    "id": "0e9691fa4b",
-    "title_fa": "هشدار پنتاگون از کاهش نگران‌کننده ذخایر تسلیحاتی آمریکا",
-    "title_en": "Pentagon watchdog says Iran war has led to munitions shortfall",
-    "summary": [
-      "گزارش دیده‌بان پنتاگون نشان می‌دهد شدت درگیری‌ها با ایران منجر به کمبود جدی ذخایر مهمات ارتش آمریکا شده است.",
-      "تداوم نبرد سنگین منطقه‌ای زنجیره تامین تسلیحات پیشرفته پنتاگون را تحت فشار بی‌سابقه‌ای قرار داده است.",
-      "این کمبود تسلیحاتی می‌تواند توان مانور آمریکا را در مناقشات طولانی‌مدت محدود کند."
-    ],
-    "impact": "کاهش توان پشتیبانی تسلیحاتی آمریکا در نبردهای فرسایشی خاورمیانه.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDJMMGxRblFITlJtQllWa2Njd1NvWnZXejVlVmRXQjd1bmstSWU4Ykd5cjl6RzRvaEUyYTZUdXF5VWMxN09GaHdWSmw1OVgxZ3JEdlJHWU5WeTF0eXVHbkNQQTVGTVNId1BtY0pJcFlJY0JjNU1MRFhfQ25SMkZqVWVHTHVTNmVzdEdkR1YxNkp6SldBUXA3NnNqdWZRMGJWaHE0eE55TGxFcll1R0dGVllGR09xZURn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObDJMMGxRblFITlJtQllWa2Njd1NvWnZXejVlVmRXQjd1bmstSWU4Ykd5cjl6RzRvaEUyYTZUdXF5VWMxN09GaHdWSmw1OVgxZ3JEdlJHWU5WeTF0eXVHbkNQQTVGTVNId1BtY0pJcFlJY0JjNU1MRFhfQ25SMkZqVWVHTHVTNmVzdEdkR1YxNkp6SldBUXA3NnNqdWZRMGJWaHE0eE55TGxFcll1R0dGVllGR09xZURn",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789420075.0
   }
 ]
