@@ -1,5 +1,22 @@
 [
   {
+    "id": "208691d4a8",
+    "title_fa": "رصد روزانه قیمت بنزین در ایالات متحده",
+    "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+    "summary": [
+      "نمودارها و نقشه‌های آماری به طور روزانه قیمت بنزین را در سطوح ایالتی و کشوری آمریکا ردیابی می‌کنند."
+    ],
+    "impact": "افزایش حساسیت افکار عمومی آمریکا نسبت به نوسانات قیمت سوخت در آستانه انتخابات.",
+    "tag": "اقتصادی",
+    "urgency": 3,
+    "sentiment": 0.0,
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791577323.0
+  },
+  {
     "id": "4b6301ff52",
     "title_fa": "جدال لفظی نامزدهای سنای میشیگان بر سر سیاست‌های مربوط به ایران و اسرائیل",
     "title_en": "Michigan Senate debate: El-Sayed and Rogers spar over Iran and Israel",
@@ -110,6 +127,24 @@
     "timestamp": 1791558360.0
   },
   {
+    "id": "7f02dd1888",
+    "title_fa": "هشدار درباره فروپاشی اقتصادی ایران و احتمال قیام مردمی",
+    "title_en": "Iran's economy could spark popular uprising",
+    "summary": [
+      "بحران اقتصادی شدید در ایران پتانسیل جرقه زدن یک قیام مردمی جدید را دارد.",
+      "تحلیل‌گران نسبت به پیامدهای امنیتی وخامت اوضاع معیشتی هشدار می‌دهند."
+    ],
+    "impact": "افزایش احتمال ناآرامی‌های گسترده اجتماعی به دلیل فشارهای معیشتی.",
+    "tag": "اقتصادی",
+    "urgency": 5,
+    "sentiment": -0.6,
+    "source": "Newsmax on MSN",
+    "url": "https://www.msn.com/en-us/news/other/irans-economy-could-spark-popular-uprising/ar-AA2dVpRg",
+    "clean_url": "https://www.msn.com/en-us/news/other/irans-economy-could-spark-popular-uprising/ar-AA2dVpRg",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791552322.0
+  },
+  {
     "id": "80e8f70348",
     "title_fa": "چگونه مقررات‌زدایی داخلی آمریکا، «دی-دی اقتصادی» ترامپ علیه ایران را تضعیف می‌کند؟",
     "title_en": "How Deregulation Undermines the Trump Administration's 'Economic D-Day' Against Iran",
@@ -126,6 +161,42 @@
     "clean_url": "https://www.americanprogress.org/article/how-deregulation-undermines-the-trump-administrations-economic-d-day-against-iran",
     "image": "https://www.americanprogress.org/wp-content/uploads/sites/2/2026/10/GettyImages-2293189053-cropped.jpg",
     "timestamp": 1791551160.0
+  },
+  {
+    "id": "9e2446f1d5",
+    "title_fa": "توافق یا جنگ؟ هراس اسرائیل از اقدام بعدی ترامپ درباره ایران",
+    "title_en": "Iran executed over 2,000 people in past year, rights group says",
+    "summary": [
+      "نگرانی شدید اسرائیل از تبعات و پیامدهای گام بعدی دونالد ترامپ در قبال ایران",
+      "دغدغه میان دو سناریوی کلیدی: دستیابی به توافق یا وقوع جنگ"
+    ],
+    "impact": "افزایش عدم قطعیت در محاسبات امنیتی و راهبردی اسرائیل در قبال تصمیمات ترامپ.",
+    "tag": "ژئوپلیتیک",
+    "urgency": 6,
+    "sentiment": -0.4,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610091479",
+    "clean_url": "https://www.iranintl.com/en/202610091479",
+    "image": "http://www.bing.com/th?id=ONUT.xfA7iacs684KhejzefeLKQ&pid=News",
+    "timestamp": 1791551040.0
+  },
+  {
+    "id": "c0561e1a6c",
+    "title_fa": "ارائه طرح سه فوریتی در مجلس ایران درباره پرونده هسته‌ای",
+    "title_en": "Iran Doesn't Need to Leave the Treaty. It Has Already Left the Inspectors.",
+    "summary": [
+      "ارسال دو پیام مهم از سوی ایران در یک هفته از ماه سپتامبر.",
+      "ارائه طرحی با قید «سه فوریت» توسط گروهی از نمایندگان مجلس تهران در تاریخ ۲۰ سپتامبر."
+    ],
+    "impact": "افزایش چالش‌های قانونی در تقابل ایران با بازرسان بین‌المللی و تشدید تنش‌های هسته‌ای.",
+    "tag": "هسته‌ای",
+    "urgency": 6,
+    "sentiment": -0.4,
+    "source": "RealClearDefense",
+    "url": "https://www.realcleardefense.com/articles/2026/10/09/iran_doesnt_need_to_leave_the_treaty_it_has_already_left_the_inspectors_1210757.html",
+    "clean_url": "https://www.realcleardefense.com/articles/2026/10/09/iran_doesnt_need_to_leave_the_treaty_it_has_already_left_the_inspectors_1210757.html",
+    "image": "https://assets.realclear.com/images/72/722344_6_.jpg",
+    "timestamp": 1791545160.0
   },
   {
     "id": "408151ad40",
@@ -145,6 +216,24 @@
     "clean_url": "https://www.iranintl.com/en/202610093051",
     "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
     "timestamp": 1791543780.0
+  },
+  {
+    "id": "86745b90cb",
+    "title_fa": "بررسی ابعاد حقوقی مناقشه ایران",
+    "title_en": "Oil falls as Trump comments on Iran talks ease supply fears",
+    "summary": [
+      "تحلیل و ارزیابی جنبه‌های حقوقی مرتبط با مناقشات بین‌المللی ایران",
+      "انتشار بررسی حقوقی پرونده ایران در مجله حقوقی BC Law"
+    ],
+    "impact": "تبیین چارچوب‌های حقوق بین‌الملل در ارتباط با مناقشات جاری ایران.",
+    "tag": "حقوقی",
+    "urgency": 4,
+    "sentiment": 0.0,
+    "source": "Reuters on MSN",
+    "url": "https://www.msn.com/en-us/news/other/oil-falls-as-trump-comments-on-iran-talks-ease-supply-fears/ar-AA2dUD9k",
+    "clean_url": "https://www.msn.com/en-us/news/other/oil-falls-as-trump-comments-on-iran-talks-ease-supply-fears/ar-AA2dUD9k",
+    "image": "http://www.bing.com/th?id=ONUT.-kdrAu52178NVNEmv2DvNw&pid=News",
+    "timestamp": 1791542255.0
   },
   {
     "id": "08cf7d4eaf",
@@ -200,6 +289,63 @@
     "timestamp": 1791535598.0
   },
   {
+    "id": "a32e30b9f0",
+    "title_fa": "تداوم جنگ در ایران؛ منافع طبقه حاکم و تداوم حملات منطقه‌ای مانع آتش‌بس است",
+    "title_en": "War in Iran prolonged by ruling class’s self-interest",
+    "summary": [
+      "کارشناسان اقتصادی و انرژی معتقدند منفعت‌طلبی طبقه حاکم ایران، حملات مداوم به کشتی‌ها و کشورهای همسایه و تهدید حملات پساانتخاباتی آمریکا مانع پایان جنگ شده است.",
+      "بسیاری از اهداف ایالات متحده از جمله نابودی بخش عمده‌ای از توانمندی تسلیحات هسته‌ای ایران برآورده شده است.",
+      "شواهد نشان می‌دهد محاصره اعمال‌شده از سوی آمریکا اثرگذار بوده و احتمال بروز تغییرات معنادار وجود دارد، در حالی که قیمت جهانی نفت همچنان در نوسان است."
+    ],
+    "impact": "تداوم درگیری‌های نظامی و حملات به کشتیرانی علی‌رغم آسیب به زیرساخت‌های هسته‌ای، بازار جهانی نفت را ملتهب نگه داشته است.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.65,
+    "source": "Yahoo",
+    "url": "https://www.yahoo.com/news/politics/articles/war-iran-prolonged-ruling-class-154600950.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/war-iran-prolonged-ruling-class-154600950.html",
+    "image": "http://www.bing.com/th?id=ONUT.ZoB_ucwV8l3do7Q8DrZz0A&pid=News",
+    "timestamp": 1791535560.0
+  },
+  {
+    "id": "ed3db2db1e",
+    "title_fa": "ترامپ حمله نظامی به ایران پیش از انتخابات میان‌دوره‌ای را رد کرد",
+    "title_en": "Trump rules out striking Iran before the midterms",
+    "summary": [
+      "دونالد ترامپ اعلام کرد که ایالات متحده تا پیش از انتخابات میان‌دوره‌ای در ۳ نوامبر به ایران حمله نخواهد کرد.",
+      "این تصمیم با وجود حمله به دست‌کم ۹ نفت‌کش در تنگه هرمز در هفته گذشته و توقف مجدد جریان نفت اتخاذ شده است.",
+      "قیمت نفت برنت به ۱۰۵ دلار در هر بشکه رسیده که شانس جمهوری‌خواهان در انتخابات را به دلیل افزایش قیمت بنزین تهدید می‌کند."
+    ],
+    "impact": "توقف موقت اقدام نظامی مستقیم آمریکا علیه ایران به دلیل ملاحظات انتخاباتی و قیمت سوخت.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.4,
+    "source": "Yahoo",
+    "url": "https://www.yahoo.com/news/politics/articles/trump-rules-striking-iran-midterms-145229601.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/trump-rules-striking-iran-midterms-145229601.html",
+    "image": "http://www.bing.com/th?id=ONUT.ItJyPKm6QdKcnJzGDaksWw&pid=News",
+    "timestamp": 1791532320.0
+  },
+  {
+    "id": "1358b9785b",
+    "title_fa": "اتهام سنگین سناتور مورفی به دولت ترامپ درباره پنهان‌کاری در جنگ ایران",
+    "title_en": "Sen. Murphy accuses admin of 'active cover-up' of Iran war, ...vows to leverage funding to end war",
+    "summary": [
+      "سناتور کریس مورفی دولت ترامپ را به پنهان‌کاری فعالانه درباره هزینه‌های جنگ در ایران متهم کرد.",
+      "مورفی تهدید کرد که دموکرات‌ها از بودجه دفاعی در کنگره بعدی برای پایان دادن به این جنگ استفاده خواهند کرد.",
+      "او به مقامات سعودی هشدار داد که توافق هسته‌ای پیشنهادی آمریکا-سعودی در دولت یک رئیس‌جمهور دموکرات دوام نخواهد آورد."
+    ],
+    "impact": "تشدید شکاف سیاسی در واشنگتن بر سر هزینه‌های درگیری نظامی با ایران و آینده توافقات منطقه‌ای.",
+    "tag": "دیپلماسی",
+    "urgency": 7,
+    "sentiment": -0.5,
+    "source": "Jewish Insider",
+    "url": "https://jewishinsider.com/2026/10/chris-murphy-iran-war-saudi-arabia-qatar-funding-nuclear-deal/",
+    "clean_url": "https://jewishinsider.com/2026/10/chris-murphy-iran-war-saudi-arabia-qatar-funding-nuclear-deal",
+    "image": "https://image.jewishinsider.com/wp-content/uploads/2026/10/06063510/GettyImages-2289530066-720x479.jpg",
+    "timestamp": 1791530460.0
+  },
+  {
     "id": "0037a5e0bc",
     "title_fa": "سکوت سیاستمدار آمریکایی درباره تهدید ایران یا اسرائیل برای واشنگتن",
     "title_en": "Is Israel or Iran a bigger threat to the US? Michigan’s Abdul El-Sayed won’t say",
@@ -215,6 +361,24 @@
     "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSTlSNlVMeDY0bXZ6M3Z3VTdSWm1nMU92RUNSbF8zWVpPYzZtZFBqczE1Qzd4ZUx1VTZQX0xIa0tRcFN6WVI5ZzJ1LWFnN2g2NERST1VjOUlDbVAtUjlZaS1kRFR5NkZXYmVlSmQ3Y0FWcElGNjZPOXRRQ3BzOVdKZkJVVTN2Vjc4WDJKclBSb3hiY0VLdzR6Rml2cWhiZDJSMlNabDdVS2prQUp6RzE4VlBTVmM5d1d5",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791530413.0
+  },
+  {
+    "id": "09594582e2",
+    "title_fa": "ریزش قیمت نفت در پی سخنان ترامپ درباره مذاکره با ایران و کاهش نگرانی‌های عرضه",
+    "title_en": "Oil falls as Trump comments on Iran talks ease supply concerns",
+    "summary": [
+      "سخنان دونالد ترامپ پیرامون مذاکره با ایران باعث فروکش کردن نگرانی‌ها درباره اختلال در عرضه و کاهش بهای نفت شد.",
+      "قیمت نفت در این هفته به دلیل تشدید تهدیدها علیه خطوط کشتیرانی در خلیج فارس و تنگه هرمز طی ماه اکتبر، دچار نوسان شدید بوده است."
+    ],
+    "impact": "اظهارات ترامپ موقتاً اثر تنش‌های ناشی از تهدید کشتیرانی در تنگه هرمز را خنثی کرد و بهای جهانی نفت را کاهش داد.",
+    "tag": "انرژی و نفت",
+    "urgency": 5,
+    "sentiment": 0.1,
+    "source": "The Detroit News",
+    "url": "https://www.detroitnews.com/story/business/2026/10/09/oil-falls-trump-comments-iran-talks-ease-supply-concerns/92167970007/",
+    "clean_url": "https://www.detroitnews.com/story/business/2026/10/09/oil-falls-trump-comments-iran-talks-ease-supply-concerns/92167970007",
+    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791528360.0
   },
   {
     "id": "dbdc693b70",
@@ -5313,171 +5477,5 @@
     "clean_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONVZwZkZ3Q3dUaUZZV1UzWnoycEFrVGhmSTNyT1U1OHNEelNEZkQxQUYzYVA4Y3RPQU1CV25qVG5xTmxJdjlEWXI2VGlDcVlaLXQyd0ZXbVBKdXI0anBLTXN0ZGlIQzgyZ0FTZjRVNDNqSW14RlJwZldaZ3BSS3dHRXJJYmdNVlNzZ1BWclJ3djZqbEk1Si1NQkFqZGptNDFUMkx3TUVJOHlBQnd4",
     "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1789871979.0
-  },
-  {
-    "id": "bf73891756",
-    "title_fa": "تکذیب واسطه‌گری پاکستان میان ایران و آمریکا",
-    "title_en": "US-Israel-Iran war latest news: Iran says it does not expect Pakistan minister to deliver US message 'No signs of any message or proposal'",
-    "summary": [
-      "وزارت خارجه ایران ارسال هرگونه پیام یا پیشنهاد جدید از سوی واشنگتن توسط وزیر کشور پاکستان را رد کرد.",
-      "تهران با این موضع‌گیری قصد دارد عدم تمایل خود به عقب‌نشینی دیپلماتیک زیر فشار نظامی را نمایش دهد."
-    ],
-    "impact": "تداوم بن‌بست کامل دیپلماتیک و انسداد کانال‌های پیام‌رسانی میان تهران و واشنگتن.",
-    "tag": "دیپلماسی",
-    "urgency": 5,
-    "sentiment": -0.4,
-    "source": "The Sunday Guardian Live on MSN",
-    "url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-news-iran-says-it-does-not-expect-pakistan-minister-to-deliver-us-message-no-signs-of-any-message-or-proposal/ar-AA2cAFi3",
-    "clean_url": "https://www.msn.com/en-in/news/news/us-israel-iran-war-latest-news-iran-says-it-does-not-expect-pakistan-minister-to-deliver-us-message-no-signs-of-any-message-or-proposal/ar-AA2cAFi3",
-    "image": "http://www.bing.com/th?id=ONUT.3Lu0wWka9MMfvlYA1H-3Kg&pid=News",
-    "timestamp": 1789853100.0
-  },
-  {
-    "id": "dedee311d3",
-    "title_fa": "حمله حوثی‌ها به فرودگاه ریاض و موضع‌گیری جدید تهران",
-    "title_en": "Live - Iran says it wants Saudi-Yemen war to end after Houthis hit Riyadh airport",
-    "summary": [
-      "در پی شلیک موشک توسط حوثی‌های یمن به فرودگاه بین‌المللی ریاض، مسئولان ایرانی خواستار خاتمه جنگ یمن شدند.",
-      "تهران همزمان با فعال‌سازی کارت گروه نیابتی خود در یمن، مانور دیپلماتیک برای کاهش تبعات مواجهه با عربستان را پیش می‌برد."
-    ],
-    "impact": "افزایش تهدیدات امنیتی در خطوط پروازی خلیج فارس و تعمیق تنش‌های منطقه‌ای.",
-    "tag": "نیابتی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "Iran International",
-    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9BcTVua29tT2VUc1Rjck5kUFhWS3VPZzJNY21Cako2S1NKTDh3b1R5ZlZhRlpUVURza3F1VURXY0Y1QUJkZzA2blktQWk2NlNTcGwzZWVmUnlOMm5aTGc",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789850944.0
-  },
-  {
-    "id": "e96b6d2625",
-    "title_fa": "تحریم صرافی رمزارز بیت‌بانک به دلیل کمک مالی به سپاه",
-    "title_en": "Treasury Sanctions Iranian Crypto Exchange BitBank Over Bitcoin Transfers to IRGC",
-    "summary": [
-      "وزارت خزانه‌داری آمریکا صرافی ایرانی بیت‌بانک را به دلیل انتقال بیت‌کوین برای سپاه تحریم کرد.",
-      "واشنگتن کانال‌های مالی دیجیتال سپاه را برای مسدودسازی شریان‌های مالی هدف گرفته است.",
-      "این اقدام دور زدن تحریم‌ها از طریق کریپتو را بسیار سخت‌تر می‌کند."
-    ],
-    "impact": "تنگ‌تر شدن حلقه تحریم‌های مالی و مسدود شدن راه‌های رمزارزی سپاه.",
-    "tag": "تحریم",
-    "urgency": 7,
-    "sentiment": -0.6,
-    "source": "Bitcoin Magazine",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSlhvWFNBVV9EYmNCcXBjVTBJSW5zM29EYmpBVl9QcF91R0hlTnZlQTRQOXBaS3dJSFF4d1VBTVpiX3NubEN2VGNtcnBTXzZBN19zQ0RvSTBraVVvSC03bzJ1TEhScVFVNmttSkZsRV9Rd25vNWFIaWNMU1dQUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9mSlhvWFNBVV9EYmNCcXBjVTBJSW5zM29EYmpBVl9QcF91R0hlTnZlQTRQOXBaS3dJSFF4d1VBTVpiX3NubEN2VGNtcnBTXzZBN19zQ0RvSTBraVVvSC03bzJ1TEhScVFVNmttSkZsRV9Rd25vNWFIaWNMU1dQUQ",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789833214.0
-  },
-  {
-    "id": "f5b284b7fb",
-    "title_fa": "اعدام یک متهم به جاسوسی موشکی برای اسرائیل در ایران",
-    "title_en": "Iran executes man accused of providing missile info to Israel: judiciary",
-    "summary": [
-      "دستگاه قضایی جمهوری اسلامی فردی را به اتهام لو دادن اطلاعات موشکی به اسرائیل اعدام کرد.",
-      "افزایش اعدام‌ها از هراس امنیتی شدید تهران نسبت به نفوذ اطلاعاتی اسرائیل خبر می‌دهد."
-    ],
-    "impact": "تشدید فضای امنیتی داخلی و برخورد قاطع با هرگونه پرونده جاسوسی.",
-    "tag": "امنیت",
-    "urgency": 7,
-    "sentiment": -0.8,
-    "source": "アラブニュース",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1NzeUNiTy1qdFdDME1wcWN1MWtVdzBkUlExNnUxeWxKNWJKSE1ZMm1tdm9RMzlwNmpvdHdMX2owTjVFTVVQemJvVzZCcGVCVzVRakRsZXNWRFRkSHVROEZzeDd3Y19OYWZ3TDg4U0xScFVvUjBIMUdnelNhNTBEd1hHUXAyR0NFeHNNQjR2U29RYVRwUWZNaDZ5NHpZaUJhSERWQzJ3THFYMkxWbUoxemZ3YUlxcHJCQnc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY1NzeUNiTy1qdFdDME1wcWN1MWtVdzBkUlExNnUxeWxKNWJKSE1ZMm1tdm9RMzlwNmpvdHdMX2owTjVFTVVQemJvVzZCcGVCVzVRakRsZXNWRFRkSHVROEZzeDd3Y19OYWZ3TDg4U0xScFVvUjBIMUdnelNhNTBEd1hHUXAyR0NFeHNNQjR2U29RYVRwUWZNaDZ5NHpZaUJhSERWQzJ3THFYMkxWbUoxemZ3YUlxcHJCQnc",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789832309.0
-  },
-  {
-    "id": "e259af0769",
-    "title_fa": "آسیب جبران‌ناپذیر انسداد صادرات به چاه‌های نفت ایران",
-    "title_en": "Will shutdowns forced by US blockade damage Iran’s oil wells?",
-    "summary": [
-      "کاهش شدید بارگیری و توقف صادرات، تهران را مجبور به افت اجباری تولید و پلمب برخی چاه‌های قدیمی کرده است.",
-      "برخلاف ادعای وزیر نفت مبنی بر برقراری کامل صادرات، تعطیلی ناگهانی چاه‌ها افت فشار مخازن و آسیب فنی دائمی به میدان‌های مشترک را به همراه دارد.",
-      "راه اندازی مجدد این چاه‌ها پس از تحریم‌ها، نیازمند سرمایه‌گذاری سنگین و فناوری خارجی است که فعلاً در دسترس نیست."
-    ],
-    "impact": "افت دائمی توان تولید نفت ایران و جهش بی‌سابقه هزینه‌های نگهداری مخازن.",
-    "tag": "نفت",
-    "urgency": 7,
-    "sentiment": -0.8,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202609190748",
-    "clean_url": "https://www.iranintl.com/en/202609190748",
-    "image": "http://www.bing.com/th?id=ONUT.Ekig_ZPiSraKZYZZ1s0wwQ&pid=News",
-    "timestamp": 1789830900.0
-  },
-  {
-    "id": "942931ff6c",
-    "title_fa": "مخالفت کره جنوبی با درخواست ترامپ برای اعزام نیرو به ایران",
-    "title_en": "South Korean Leader Says He Will Not Send Troops to Iran, Despite Trump’s Call",
-    "summary": [
-      "رئیس‌جمهور کره جنوبی صریحاً اعلام کرد به ایران نیرو ارسال نخواهد کرد.",
-      "این تصمیم از امتناع متحدان واشنگتن برای ورود به درگیری مستقیم نظامی با ایران پرده برمی‌دارد.",
-      "ترامپ در جلب همراهی نظامی متحدان کلیدی خود در آسیا ناکام ماند."
-    ],
-    "impact": "تضعیف اجماع بین‌المللی مدنظر آمریکا برای ائتلاف‌سازی نظامی علیه ایران.",
-    "tag": "دیپلماسی",
-    "urgency": 6,
-    "sentiment": -0.3,
-    "source": "The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3Nzd1dtRmJZSnYxQUdkU0FlcUpkZG9Oc0dKMFJVLXhsV05obWZmTFBIT0J2WlRKWUhVTXNCa3dfUzNhb2VXNHgwbW5vcVAxeFd0VmNCbEtwWkQ3aUNfcTVsbWhkSUN6cWxKanFGSk1LbHdRLURQbGg3VWtIbnVHclA5cWsxZy1TVm5ETXR3LVdqbXFUaHJkQ29mMWlGdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZ3Nzd1dtRmJZSnYxQUdkU0FlcUpkZG9Oc0dKMFJVLXhsV05obWZmTFBIT0J2WlRKWUhVTXNCa3dfUzNhb2VXNHgwbW5vcVAxeFd0VmNCbEtwWkQ3aUNfcTVsbWhkSUN6cWxKanFGSk1LbHdRLURQbGg3VWtIbnVHclA5cWsxZy1TVm5ETXR3LVdqbXFUaHJkQ29mMWlGdw",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789829650.0
-  },
-  {
-    "id": "455d08d620",
-    "title_fa": "رونمایی از پارچه ۱۰۰ متری اسامی کودکان قربانی غزه در سازمان ملل",
-    "title_en": "Interfaith group unveil 100-meter shroud with names of 20,000 children killed in Gaza war at UN",
-    "summary": [
-      "یک گروه حقوق بشری در مقر سازمان ملل پارچه‌ای با نام ۲۰ هزار کودک کشته‌شده در غزه پهن کرد.",
-      "این اقدام نمادین فشار بین‌المللی بر اسرائیل را برای توقف جنگ افزایش داده است."
-    ],
-    "impact": "افزایش فشارهای افکار عمومی و نهادهای بین‌المللی علیه اقدامات نظامی اسرائیل.",
-    "tag": "حقوق بشر",
-    "urgency": 5,
-    "sentiment": -0.6,
-    "source": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/interfaith-group-unveil-100-meter-shroud-with-names-of-20000-children-killed-in-gaza-war-at-un/",
-    "clean_url": "https://www.timesofisrael.com/liveblog_entry/interfaith-group-unveil-100-meter-shroud-with-names-of-20000-children-killed-in-gaza-war-at-un",
-    "image": "https://static-cdn.toi-media.com/www/uploads/2026/09/814768775_1501135232045439_8182221094199574809_n-e1789826628313.jpg",
-    "timestamp": 1789826760.0
-  },
-  {
-    "id": "fe531de61b",
-    "title_fa": "حمله هوایی اسرائیل به خودرویی در غزه با دو کشته",
-    "title_en": "Palestinian media reports two killed, several hurt in Israeli strike in Gaza City",
-    "summary": [
-      "حمله ارتش اسرائیل به خودرویی در محله شیخ رضوان غزه، دو کشته و چند زخمی برجای گذاشت.",
-      "تلفات ناشی از حملات هدفمند شهری در غزه همچنان رو به افزایش است."
-    ],
-    "impact": "تداوم تنش نظامی و تلفات انسانی در نوار غزه.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/palestinian-media-reports-two-killed-several-hurt-in-israeli-strike-in-gaza-city/",
-    "clean_url": "https://www.timesofisrael.com/liveblog_entry/palestinian-media-reports-two-killed-several-hurt-in-israeli-strike-in-gaza-city",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789825380.0
-  },
-  {
-    "id": "96a24d83d8",
-    "title_fa": "شروط تهران برای پایان جنگ؛ پیام رسمی رضایی به ترامپ",
-    "title_en": "Iran says conditions to re-engage in talks, end war sent to US via Qatar",
-    "summary": [
-      "محسن رضایی، دبیر شورای عالی امنیت ملی، از ارسال شروط ایران برای پایان جنگ و رفع محاصره دریایی از طریق قطر به واشنگتن خبر داد.",
-      "تهران خواستار توقف عملیات نظامی در همه جبهه‌ها، لغو محاصره تنگه هرمز و آزادسازی فوری دارایی‌های بلوکه‌شده است.",
-      "این تحرک دیپلماتیک تحت فشارهای سنگین نظامی و اقتصادی، تلاشی برای سنجش میزان انعطاف‌پذیری دونالد ترامپ محسوب می‌شود."
-    ],
-    "impact": "احتمال شکل‌گیری کانال مذاکراتی اضطراری میان واشنگتن و تهران با میانجی‌گری دوحه.",
-    "tag": "دیپلماسی",
-    "urgency": 8,
-    "sentiment": -0.3,
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
-    "clean_url": "https://www.aljazeera.com/news/2026/9/19/iran-says-conditions-to-re-engage-in-talks-end-war-sent-to-us-via-qatar",
-    "image": "http://www.bing.com/th?id=ONUT.Sll_FXXsAFg7UuEn7IPqGw&pid=News",
-    "timestamp": 1789817520.0
   }
 ]
