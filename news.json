@@ -1,5 +1,40 @@
 [
   {
+    "id": "7d0a9fc5f6",
+    "title_fa": "هشدار درباره صفر شدن درآمدهای نفتی تهران و کسری ماهانه ۶ میلیارد دلاری",
+    "title_en": "Ex-Qatari PM calls Iran 'main enemy' of Persian Gulf states in sharp shift",
+    "summary": [
+      "هشدار کارشناسان درباره صفر شدن درآمدهای نفت خام و میعانات گازی ایران و زیان ماهانه ۳ تا ۶ میلیارد دلاری برای اولین بار.",
+      "داده‌های کپلر نشان می‌دهد نفت روی آب ایران از ۹۰ میلیون بشکه در ژوئیه به ۸ میلیون بشکه سقوط کرده و بارگیری جدیدی ثبت نشده است."
+    ],
+    "impact": "قطع کامل جریان ورودی دلارهای نفتی به خزانه تا اواسط دسامبر و تشدید فشار سهمگین ارزی بر اقتصاد ایران.",
+    "tag": "تحریم و انرژی",
+    "urgency": 8,
+    "sentiment": -0.8,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610102894",
+    "clean_url": "https://www.iranintl.com/en/202610102894",
+    "image": "https://i.iranintl.com/images/rdk9umy0/production/2a7b4eda6f4740e60e78ef33b5bbcbcb189f43dc-822x537.jpg?rect=0,53,822,432&w=1200&h=630&q=66&fit=max&auto=format",
+    "timestamp": 1791673500.0
+  },
+  {
+    "id": "7097655a9d",
+    "title_fa": "رصد تحرکات چشمگیر در سایت هسته‌ای آسیب‌دیده ایران",
+    "title_en": "'Significant' activity detected at Iran nuclear site that was battered during early stages of the war",
+    "summary": [
+      "شناسایی فعالیت‌های قابل‌توجه در یکی از سایت‌های هسته‌ای ایران که پیش‌تر در جریان مراحل اولیه جنگ هدف قرار گرفته بود."
+    ],
+    "impact": "احتمال ازسرگیری فعالیت‌ها یا بازسازی تاسیسات هسته‌ای آسیب‌دیده با تبعات امنیتی بالا.",
+    "tag": "هسته‌ای",
+    "urgency": 8,
+    "sentiment": -0.4,
+    "source": "New York Post",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRwYUNvd2ZPQmVGbjFZc3NDWE5ZMk4wQmt5Z1BEcXQ4U0dWZ1pMTFhaU2RWSmlacUxhcS1PVnRzd1N1MVFHMTJFV21SdWlJNXhwUUxjN1NOLUtHNXk4SnJNcE5MZWhGY2NYZjJIdmVxX1FjNFIyNURtWmdUSGx2ekNCLWQybklZdjg1NW9fS1hTb2J4VUhEUVZoOHM4ci1iNGVqeXFOZFY0OW5lV3FTRUViUThjblYzd3oxNUZaeVYwcHFIUnB3Qjh2UktiRFRqam10RXpnNlI?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWHRwYUNvd2ZPQmVGbjFZc3NDWE5ZMk4wQmt5Z1BEcXQ4U0dWZ1pMTFhaU2RWSmlacUxhcS1PVnRzd1N1MVFHMTJFV21SdWlJNXhwUUxjN1NOLUtHNXk4SnJNcE5MZWhGY2NYZjJIdmVxX1FjNFIyNURtWmdUSGx2ekNCLWQybklZdjg1NW9fS1hTb2J4VUhEUVZoOHM4ci1iNGVqeXFOZFY0OW5lV3FTRUViUThjblYzd3oxNUZaeVYwcHFIUnB3Qjh2UktiRFRqam10RXpnNlI",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1791666600.0
+  },
+  {
     "id": "9eaa215371",
     "title_fa": "تأکید مجتبی خامنه‌ای بر تقویت فراجا همزمان با حمله بمب‌گذاری در زاهدان",
     "title_en": "Mojtaba Khamenei Hails Police as a \"Pillar\" as Bombing and Recession Undercut Show of Strength",
@@ -53,6 +88,24 @@
     "timestamp": 1791655320.0
   },
   {
+    "id": "4bf680b193",
+    "title_fa": "هشدار درباره استفاده جمهوری اسلامی از القاعده به عنوان نیروی نیابتی مخفی",
+    "title_en": "Iran may be restoring activity at nuclear-linked site struck by Israel",
+    "summary": [
+      "گزارش‌های اطلاعاتی تاییدنشده از آمادگی سیف‌العدل، رهبر دوفاکتوی القاعده مستقر در ایران، برای انجام حمله در صورت گسترش جنگ.",
+      "ارزیابی کارشناسان مبنی بر بهره‌برداری تهران از قابلیت انکارپذیری القاعده جهت هدف قرار دادن منافع غرب."
+    ],
+    "impact": "احتمال گسترش درگیری‌ها از طریق عملیات مخفی نیروهای افراطی مستقر در خاک ایران.",
+    "tag": "امنیتی",
+    "urgency": 7,
+    "sentiment": -0.7,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610109658",
+    "clean_url": "https://www.iranintl.com/en/202610109658",
+    "image": "https://i.iranintl.com/images/rdk9umy0/production/983ca6aec4e7d1c07a6a211961b7349de5dfc721-800x533.jpg?rect=134,0,533,533&w=200&h=200&q=58&fit=crop&auto=format",
+    "timestamp": 1791653880.0
+  },
+  {
     "id": "23412ccdbd",
     "title_fa": "گزارش کپلر: سقوط شدید ذخایر شناور و خطر قطع کامل درآمدهای ارزی ایران",
     "title_en": "کپلر: درآمد نفتی ایران در صورت تداوم محاصره آمریکا ممکن است تا اواخر آذر به صفر برسد",
@@ -69,6 +122,24 @@
     "clean_url": "https://www.iranintl.com/202610100070",
     "image": "https://i.iranintl.com/images/rdk9umy0/production/e0add143691dba758bd6903de463b1606889e605-1160x773.jpg?rect=0,83,1160,609&w=1200&h=630&q=66&fit=max&auto=format",
     "timestamp": 1791646680.0
+  },
+  {
+    "id": "4f9c4dfe1b",
+    "title_fa": "حمله مرگبار به فرودگاه عربستان سعودی با ده‌ها کشته و صدها زخمی",
+    "title_en": "Iran live updates: 12 killed, 300 injured at brutal attack on Saudi airport",
+    "summary": [
+      "کشته شدن ۱۲ نفر و مجروحیت ۳۰۰ تن دیگر در پی حمله سنگین به فرودگاهی در عربستان سعودی.",
+      "تایید وارد آمدن خسارات مادی مستقیم به تاسیسات فرودگاه از سوی مقامات ریاض."
+    ],
+    "impact": "تلفات گسترده انسانی و وارد آمدن آسیب مستقیم به زیرساخت هوایی عربستان که تنش‌های نظامی منطقه را اوج می‌برد.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.9,
+    "source": "ABC News on MSN",
+    "url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-us-wont-attack-iran-again-ahead-of-midterms/ar-AA2dQb7l",
+    "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-trump-says-us-wont-attack-iran-again-ahead-of-midterms/ar-AA2dQb7l",
+    "image": "http://www.bing.com/th?id=ONUT.eM2Nz9qW_a78rO1Q7ekHrA&pid=News",
+    "timestamp": 1791646514.0
   },
   {
     "id": "0440b1473e",
@@ -159,6 +230,24 @@
     "clean_url": "https://www.iranintl.com/en/202610106649",
     "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
     "timestamp": 1791629520.0
+  },
+  {
+    "id": "9e56ef7e3a",
+    "title_fa": "تشدید حملات جمهوری اسلامی علیه کشتی‌رانی در تنگه هرمز",
+    "title_en": "Iran shows Trump's opportunity in escalating Hormuz attacks",
+    "summary": [
+      "افزایش حملات تهران به شناورهای عبوری از تنگه هرمز با هدف مختل کردن اقدامات آمریکا برای بازگشایی این آبراهه حیاتی.",
+      "گزارش نیروی دریایی آمریکا مبنی بر بازگشت سطح صادرات انرژی از تنگه هرمز به میزان پیش از جنگ."
+    ],
+    "impact": "تلاش برای اخلال در ترانزیت انرژی منطقه همزمان با احیای جریان صادرات نفت توسط نیروهای آمریکایی.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.6,
+    "source": "Washington Examiner",
+    "url": "https://www.msn.com/en-us/money/general/iran-shows-trump-s-opportunity-in-escalating-hormuz-attacks/ar-AA2dWCfu",
+    "clean_url": "https://www.msn.com/en-us/money/general/iran-shows-trump-s-opportunity-in-escalating-hormuz-attacks/ar-AA2dWCfu",
+    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dc3Ok.img?w=1024&h=682&m=4&q=100",
+    "timestamp": 1791626400.0
   },
   {
     "id": "4e235e795b",
@@ -5379,95 +5468,5 @@
     "clean_url": "https://www.yahoo.com/news/world/articles/saudi-arabia-allies-line-support-083248581.html",
     "image": "https://media.zenfs.com/en/al_jazeera_289/a9948560c29feda3360b806f5b0686e7.jpg",
     "timestamp": 1790323493.0
-  },
-  {
-    "id": "911595abb9",
-    "title_fa": "پیشنهاد عقب‌نشینی هسته‌ای پزشکیان در نیویورک",
-    "title_en": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
-    "summary": [
-      "مسعود پزشکیان برای کاهش فشارها مدعی آمادگی برای رقیق‌سازی اورانیوم و پذیرش بازرسی‌های گسترده‌تر شده است.",
-      "این موضع‌گیری نرم‌افزاری دقیقاً هم‌زمان با متهم کردن واشنگتن به عنوان عامل اصلی بحران منطقه انجام شد."
-    ],
-    "impact": "تلاش تهران برای گرفتن زهر تحریم‌ها و ایجاد مانع در برابر حمله احتمالی آمریکا از طریق معامله هسته‌ای.",
-    "tag": "هسته‌ای",
-    "urgency": 7,
-    "sentiment": 0.1,
-    "source": "Fox News",
-    "url": "https://www.msn.com/en-us/news/other/iranian-president-blames-us-for-middle-east-conflict-while-denying-nuclear-ambitions-offers-to-dilute-uranium/ar-AA2cVCA6",
-    "clean_url": "https://www.msn.com/en-us/news/other/iranian-president-blames-us-for-middle-east-conflict-while-denying-nuclear-ambitions-offers-to-dilute-uranium/ar-AA2cVCA6",
-    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2cRmZn.img?w=1280&h=720&m=4&q=81",
-    "timestamp": 1790295936.0
-  },
-  {
-    "id": "dd0e4c076a",
-    "title_fa": "طرح جدید تهران روی میز دولت ترامپ برای مذاکره",
-    "title_en": "Iran says it has given Trump administration new proposal for peace talks",
-    "summary": [
-      "ایران از ارائه یک بسته پیشنهادی جدید به دولت دونالد ترامپ جهت آغاز گفتگوهای صلح و کاهش تنش خبر داد.",
-      "این اقدام نشان‌دهنده تلاش آخرین لحظه‌ای تهران برای کنترل ریسک برخورد مستقیم نظامی است."
-    ],
-    "impact": "تلاش برای فعال‌سازی کانال‌های پشتی دیپلماسی پیش از وقوع هرگونه درگیری نظامی مستقیم.",
-    "tag": "مذاکره",
-    "urgency": 7,
-    "sentiment": 0.2,
-    "source": "The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkxxQ0tXQkJTWm1HVER6Vk9aOUU2cEhZc3M0ckNEaFBuMHVnOFVDS1dBakZCMmU1MVpjbmpDVHR1SlNkMlY2U2kzMC1YT1BpOVk3RWNUT1ZGWlVjbkF4M1FXcTlDQ3BJN2E4Y29MbjRudzNHWnVTYVB2djIyVUxKc1pGb2pFRjR3WlhMOFIycWlGdkVrMS1SLWlCYTlKdXJaR1J4d3h3ODFZOTVfd3hLc2FqeGY0cW1j?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTkxxQ0tXQkJTWm1HVER6Vk9aOUU2cEhZc3M0ckNEaFBuMHVnOFVDS1dBakZCMmU1MVpjbmpDVHR1SlNkMlY2U2kzMC1YT1BpOVk3RWNUT1ZGWlVjbkF4M1FXcTlDQ3BJN2E4Y29MbjRudzNHWnVTYVB2djIyVUxKc1pGb2pFRjR3WlhMOFIycWlGdkVrMS1SLWlCYTlKdXJaR1J4d3h3ODFZOTVfd3hLc2FqeGY0cW1j",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790295684.0
-  },
-  {
-    "id": "3cb92e3825",
-    "title_fa": "دفاع تهاجمی نتانیاهو از جنگ با ایران در سازمان ملل",
-    "title_en": "Israel’s Netanyahu defends Iran war, rails against critics in combative UN speech",
-    "summary": [
-      "بنیامین نتانیاهو در سخنرانی تند خود در سازمان ملل، نبرد علیه جمهوری اسلامی و شبکه نیابتی‌اش را حیاتی و غیرقابل توقف خواند.",
-      "او با حمله به منتقدان بین‌المللی تاکید کرد تل‌آویو تا نابودی کامل تهدیدات هسته‌ای و منطقه‌ای عقب نخواهد نشست."
-    ],
-    "impact": "تثبیت استراتژی حملات پیش‌دستانه اسرائیل و بی‌توجهی کامل به هشدارهای بین‌المللی.",
-    "tag": "منطقه‌ای",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "Semafor",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnUtQ2dVazNUT05Ea21Tb1FoWXhjZ2FSN2pnZmtqSjRhMENFUzFWTWMxU1RJV2lranlXUEkwRkRCS2Z2VGVWZXE4SVRWWngwbXhpaFJWbnB1R0JmMXprVjVyaDdXRkx0cWNIckR1bmstMXJKUTRBcS1KTlNWbW51MzNTb0J3di1QMzVlYjhpWWdvWF9OanZiRTNWb2dyWG9Sbm1QaGNEQ1U?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnUtQ2dVazNUT05Ea21Tb1FoWXhjZ2FSN2pnZmtqSjRhMENFUzFWTWMxU1RJV2lranlXUEkwRkRCS2Z2VGVWZXE4SVRWWngwbXhpaFJWbnB1R0JmMXprVjVyaDdXRkx0cWNIckR1bmstMXJKUTRBcS1KTlNWbW51MzNTb0J3di1QMzVlYjhpWWdvWF9OanZiRTNWb2dyWG9Sbm1QaGNEQ1U",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790289780.0
-  },
-  {
-    "id": "2d5a0b9bbd",
-    "title_fa": "تکذیب صریح اتهام ترور ترامپ توسط پزشکیان",
-    "title_en": "We aren’t trying to kill Trump, Iran’s president insists to reporters at New York hotel",
-    "summary": [
-      "مسعود پزشکیان در گفتگو با خبرنگاران در نیویورک، هرگونه برنامه ایران برای ترور دونالد ترامپ را به کلی رد کرد.",
-      "تهران سعی دارد هراس واشنگتن از اقدامات تلافی‌جویانه را کاهش دهد تا پرونده‌های جدید امنیتی علیه رژیم گشوده نشود."
-    ],
-    "impact": "عقب‌نشینی آشکار از مانورهای کلامی انتقام‌جویانه برای جلوگیری از واکنش تند آمریکا.",
-    "tag": "امنیت",
-    "urgency": 6,
-    "sentiment": 0.0,
-    "source": "CNN",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEQ2Z3M4SWZSejhfVjg4dVlpNEFrZ0Zmelc2YUMxQjRRU3dQWnlqVjVyWVQyMzhiRm9wSUlEVndzeC1VTXJTS29zOHhQZW9xT1R0TXplME53U0MtWm9ObnM5WllERXU4LWVuWEpXYTJHVWRpZG9EWjJPaC1VbGw4NHIwZl9oai1ObmdMQ0hjOVU5a2I0?oc=5&hl=en-CA&gl=CA&ceid=CA:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWEQ2Z3M4SWZSejhfVjg4dVlpNEFrZ0Zmelc2YUMxQjRRU3dQWnlqVjVyWVQyMzhiRm9wSUlEVndzeC1VTXJTS29zOHhQZW9xT1R0TXplME53U0MtWm9ObnM5WllERXU4LWVuWEpXYTJHVWRpZG9EWjJPaC1VbGw4NHIwZl9oai1ObmdMQ0hjOVU5a2I0",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790283401.0
-  },
-  {
-    "id": "c1b2941cf6",
-    "title_fa": "آماده‌باش بمب‌افکن‌های B-2 برای انهدام تاسیسات کوه کلنگ",
-    "title_en": "LIVE: B-2's Prepare to CRUSH Pickaxe Mountain",
-    "summary": [
-      "گزارش‌های نظامی از شبیه‌سازی عملیات بمب‌افکن‌های سنگین B-2 مسلح به سنگربشکن‌های GBU-57 برای حمله به عمیق‌ترین سایت هسته‌ای ایران خبر می‌دهند.",
-      "این تحرکات پس از موضع‌گیری صریح دونالد ترامپ درباره رصد کامل تحرکات در منطقه 'کوه کلنگ' اوج گرفته است."
-    ],
-    "impact": "پیام صریح عملیاتی به تهران درباره احتمال تخریب کامل زیرساخت‌های عمیق هسته‌ای در صورت عبور از خطوط قرمز.",
-    "tag": "نظامی",
-    "urgency": 9,
-    "sentiment": -0.8,
-    "source": "YouTube",
-    "url": "https://www.msn.com/en-us/news/other/live-b-2s-prepare-to-crush-pickaxe-mountain/vi-AA2cTWSG",
-    "clean_url": "https://www.msn.com/en-us/news/other/live-b-2s-prepare-to-crush-pickaxe-mountain/vi-AA2cTWSG",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1790265600.0
   }
 ]
