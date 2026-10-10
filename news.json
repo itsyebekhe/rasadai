@@ -1,5 +1,62 @@
 [
   {
+    "id": "a598d2c2ae",
+    "title_fa": "خسارات جنگ و بحران برق در ایران؛ روی آوردن به واردات از ترکیه",
+    "title_en": "Iran turns to Turkey, Turkmenistan for power as war strains industry",
+    "summary": [
+      "خروج ۴۷۰۰ مگاوات از ظرفیت تولید برق صنایع و شرکت‌های پتروشیمی به دلایل گوناگون و ناشی از خسارات جنگ.",
+      "آماده‌سازی زیرساخت‌های شبکه سراسری برای واردات برق صنایع پتروشیمی از ترکیه در غیاب قراردادهای نهایی.",
+      "توقف کامل برنامه‌های صادرات برق ایران به دلیل نیاز مبرم داخلی در بخش صنعت."
+    ],
+    "impact": "تشدید بحران انرژی و وابستگی زیرساخت‌های پتروشیمی ایران به واردات برق از کشورهای همسایه در اثر آسیب‌های جنگی.",
+    "tag": "انرژی",
+    "urgency": 7,
+    "sentiment": -0.7,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610105838",
+    "clean_url": "https://www.iranintl.com/en/202610105838",
+    "image": "http://www.bing.com/th?id=ONUT.jZ-OzMD7S-sr9xHzTFeY1w&pid=News",
+    "timestamp": 1791595740.0
+  },
+  {
+    "id": "a4ba97e3c3",
+    "title_fa": "هشدار نماینده مجلس ایران درباره احتمال اقدام نظامی ترامپ پیش از آغاز کنگره جدید",
+    "title_en": "Trump says Iran among conflicts he expects to ‘settle or win’",
+    "summary": [
+      "علی خضریان اعلام کرد زمان در یک جنگ فرسایشی به ضرر آمریکا پیش می‌رود و شکست ترامپ در انتخابات میان‌دوره‌ای اختیارات او را محدود خواهد کرد.",
+      "احتمال اقدام نظامی جدید از سوی ترامپ علیه ایران بین اوایل نوامبر تا اوایل ژانویه مطرح شده است.",
+      "افزایش بهای نفت و انرژی می‌تواند به شکست انتخاباتی ترامپ دامن بزند."
+    ],
+    "impact": "افزایش تنش‌های امنیتی و گمانه‌زنی‌ها پیرامون احتمال درگیری نظامی در آستانه تغییرات سیاسی در آمریکا.",
+    "tag": "نظامی",
+    "urgency": 6,
+    "sentiment": -0.6,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/liveblog/202610105959",
+    "clean_url": "https://www.iranintl.com/en/liveblog/202610105959",
+    "image": "http://www.bing.com/th?id=ONUT.slUx7Q28NSpxfllSvNsDIw&pid=News",
+    "timestamp": 1791594540.0
+  },
+  {
+    "id": "839b67ad2e",
+    "title_fa": "افشای شبکه مالی بابک زنجانی و سپاه پاسداران در صرافی بایننس",
+    "title_en": "افشای جزییات شبکه مالی بابک زنجانی در صرافی رمزارز بایننس و ارتباط آن با سپاه پاسداران",
+    "summary": [
+      "ارائه سند ۸۰ صفحه‌ای بایننس به واحد اطلاعات مالی امارات پیرامون تراکنش‌های ۸۵۰ میلیون دلاری شبکه زنجانی.",
+      "نقش سهراب اویماخمدوف، تبعه تاجیکستان، با استفاده از پوشش شرکتی در دبی تحت مدیریت خواهر زنجانی.",
+      "واریز بیش از ۱۰ میلیون دلار از کیف‌پول‌های متعلق به سپاه پاسداران به حساب این شبکه از اواخر سال ۲۰۲۳."
+    ],
+    "impact": "افشای مجاری رمزارزی دور زدن تحریم‌ها و ردیابی کانال‌های تامین مالی متصل به سپاه پاسداران.",
+    "tag": "تحریم",
+    "urgency": 7,
+    "sentiment": -0.5,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202610109486",
+    "clean_url": "https://www.iranintl.com/202610109486",
+    "image": "http://www.bing.com/th?id=ONUT.iqby7z39jX1My74Maoy97Q&pid=News",
+    "timestamp": 1791592620.0
+  },
+  {
     "id": "16fc882bd0",
     "title_fa": "پیشنهاد ترامپ برای توافق هسته‌ای همزمان با حفظ فشار نظامی بر ایران",
     "title_en": "Trump offers Iran path to nuclear deal while keeping up military pressure",
@@ -18,6 +75,24 @@
     "timestamp": 1791592302.0
   },
   {
+    "id": "6ddee3245d",
+    "title_fa": "تحلیل شهرام خلدی: هدف ترامپ تسلیم جمهوری اسلامی با کمترین هزینه است",
+    "title_en": "شهرام خلدی: ترامپ به‌دنبال تسلیم جمهوری اسلامی با کمترین هزینه است",
+    "summary": [
+      "تلاش ترامپ برای وادار کردن جمهوری اسلامی به پذیرش مطالبات با حداقل هزینه ممکن.",
+      "حرکت مسکو در مسیری به زیان منافع جمهوری اسلامی جهت تحقق اهداف کلان‌تر روسیه."
+    ],
+    "impact": "تداوم فشار حداکثری کم‌هزینه از سوی آمریکا و انزوای دیپلماتیک بیشتر تهران در معادلات با مسکو.",
+    "tag": "دیپلماسی",
+    "urgency": 4,
+    "sentiment": -0.5,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202610105838",
+    "clean_url": "https://www.iranintl.com/202610105838",
+    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+    "timestamp": 1791591000.0
+  },
+  {
     "id": "70f0662272",
     "title_fa": "گسترش پروازهای خطوط هوایی ایران به عراق علی‌رغم تحریم‌های آمریکا",
     "title_en": "Iranian Airlines Expand Trips to Iraq Despite U.S. Sanctions",
@@ -33,6 +108,24 @@
     "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdkt0TW0taW5icjB3aXJmVDRtbExLY09DMVNtWHk1UU1jX1AybjM0Mm5LdTJRUDVDU0ZTbGk0NEdHVDJwT2Rzd1hqVEVZdnA0eW5YdEdfTnh2V1Rxa0ppR0J3Q3RwTVQ2U2dDLUZlTUFybWxvT25NakZsbWpsNVFYbkIyWHlhMjBrWVRqMVFwMXl1ZEE",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791585000.0
+  },
+  {
+    "id": "e71a9f9b07",
+    "title_fa": "برنامه نتانیاهو برای تبدیل اسرائیل به قدرت دریایی سطحی و زیرسطحی",
+    "title_en": "Paper; Israeli Navy: From Protecting Coasts to Addressing Threats in Distant Waters",
+    "summary": [
+      "تاکید بر اهمیت استراتژیک دریا برای اسرائیل به منظور ایجاد عمق استراتژیک در برابر تهدیدات پیرامونی به دلیل محدودیت جغرافیای سرزمینی.",
+      "بازدید بنیامین نتانیاهو از پایگاه نیروی دریایی در اشدود و اعلام طرح‌های تقویت توان سطحی و زیرسطحی جهت ارتقای بازدارندگی نظامی."
+    ],
+    "impact": "گسترش حوزه عملیاتی و گشت‌زنی دریایی اسرائیل در آب‌های دوردست جهت مقابله با تهدیدات و تقویت بازدارندگی منطقه‌ای.",
+    "tag": "نظامی",
+    "urgency": 7,
+    "sentiment": 0.1,
+    "source": "AhluBayt News Agency",
+    "url": "https://en.abna24.com/news/1875998/Paper-Israeli-Navy-From-Protecting-Coasts-to-Addressing-Threats",
+    "clean_url": "https://en.abna24.com/news/1875998/Paper-Israeli-Navy-From-Protecting-Coasts-to-Addressing-Threats",
+    "image": "https://media.abna24.com/d/2026/10/10/4/3311619.jpg?ts=1791615914000",
+    "timestamp": 1791578340.0
   },
   {
     "id": "aee342e14b",
@@ -71,6 +164,43 @@
     "timestamp": 1791577323.0
   },
   {
+    "id": "23fb6fb35d",
+    "title_fa": "ترامپ: تا پیش از انتخابات میان‌دوره‌ای به ایران حمله نمی‌کنیم؛ وقوع انفجار در ریاض",
+    "title_en": "US-Iran war news: Trump says US won’t strike Iran before midterm elections, claims to stop Tehran from getting nuclear weapons: 6 key developments",
+    "summary": [
+      "شنیده شدن صدای چند انفجار در ریاض عربستان، از جمله یک انفجار بزرگ در فرودگاه بین‌المللی ملک خالد.",
+      "اظهارات دونالد ترامپ مبنی بر اینکه آمریکا تا پیش از انتخابات میان‌دوره‌ای به ایران حمله نخواهد کرد و مدعی شد مانع دستیابی تهران به سلاح هسته‌ای می‌شود."
+    ],
+    "impact": "کاهش موقت احتمال درگیری نظامی مستقیم تا انتخابات میان‌دوره‌ای هم‌زمان با تشدید تنش‌های منطقه‌ای با انفجار در ریاض.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.6,
+    "source": "ET Now on MSN",
+    "url": "https://www.msn.com/en-in/news/other/us-iran-war-news-trump-says-us-won-t-strike-iran-before-midterm-elections-claims-to-stop-tehran-from-getting-nuclear-weapons-6-key-developments/ar-AA2dW0It",
+    "clean_url": "https://www.msn.com/en-in/news/other/us-iran-war-news-trump-says-us-won-t-strike-iran-before-midterm-elections-claims-to-stop-tehran-from-getting-nuclear-weapons-6-key-developments/ar-AA2dW0It",
+    "image": "http://www.bing.com/th?id=ONUT.44DvO6K2-DhscumMkWuw0A&pid=News",
+    "timestamp": 1791569693.0
+  },
+  {
+    "id": "a46a484ddc",
+    "title_fa": "توافق ترامپ با پوتین بر سر گازوئیل در پی بی‌اعتنایی اوکراین به واشینگتن",
+    "title_en": "مقام آمریکایی: ترامپ پس از بی‌اعتنایی زلنسکی به درخواست‌هایش با پوتین توافق کرد",
+    "summary": [
+      "توافق ترامپ با پوتین پیرامون عرضه گازوئیل پس از رد شش درخواست آمریکا از سوی اوکراین مبنی بر توقف حمله به پالایشگاه‌های روسیه.",
+      "نگرانی ترامپ از تاثیر حملات اوکراین بر جهش بهای بنزین در بازار داخلی آمریکا.",
+      "زلنسکی این اقدام واشینگتن را حرکتی غافلگیرکننده و غیرصادقانه توصیف کرد که روابط دو کشور را دچار بحران می‌کند."
+    ],
+    "impact": "بروز شکاف عمیق میان واشینگتن و کی‌یف و احتمال اختلال در روند دستیابی به توافق پایان جنگ اوکراین.",
+    "tag": "دیپلماسی",
+    "urgency": 5,
+    "sentiment": -0.4,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202610103157",
+    "clean_url": "https://www.iranintl.com/202610103157",
+    "image": "http://www.bing.com/th?id=ONUT.mf_9aff-ESGXhnPcUxvxYA&pid=News",
+    "timestamp": 1791569520.0
+  },
+  {
     "id": "4b6301ff52",
     "title_fa": "جدال لفظی نامزدهای سنای میشیگان بر سر سیاست‌های مربوط به ایران و اسرائیل",
     "title_en": "Michigan Senate debate: El-Sayed and Rogers spar over Iran and Israel",
@@ -87,6 +217,60 @@
     "clean_url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRjlBR053N1ZJX0NVcmNZN0RoWW1pcjdYTzFmRHQtM04tNGRZVjRSUTJ4MHZSQnhZQ08zbkRSd1E1eXZsa2FTT3NqSU1ZYVI4cXZiQWpPaTJKWUN6ZWZCU3lqaG1hbkhBUWlCV0JheUI1NkJ5ZFpuNXNfaFNWa3YwTk8tR2pBVkkxZ2JWSmFzWXpYZ3c",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1791565247.0
+  },
+  {
+    "id": "d51f56a64b",
+    "title_fa": "حمله ترامپ به کمیته صلح نوبل و تحریم فوری دیوان کیفری بین‌المللی",
+    "title_en": "ترامپ اعطا نشدن جایزه صلح نوبل به خودش را «لکه ننگی» بر اعتبار نروژ خواند",
+    "summary": [
+      "انتقاد شدید ترامپ از کمیته نوبل برای اعطا نکردن جایزه صلح به او و توصیف آن به عنوان «لکه ننگ» بر اعتبار نروژ با استناد به متوقف کردن هشت جنگ.",
+      "اعطای جایزه نوبل صلح به ناوی پیلای، قاضی پیشین دیوان کیفری بین‌المللی، و اقدام تلافی‌جویانه ترامپ در تحریم این دادگاه بین‌المللی تنها چند ساعت بعد."
+    ],
+    "impact": "تشدید تقابل واشنگتن با نهادهای حقوقی بین‌المللی و تضعیف موقعیت دیوان کیفری بین‌المللی با ابزار تحریم آمریکا.",
+    "tag": "سیاست خارجی",
+    "urgency": 5,
+    "sentiment": -0.5,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202610108848",
+    "clean_url": "https://www.iranintl.com/202610108848",
+    "image": "http://www.bing.com/th?id=ONUT.mf_9aff-ESGXhnPcUxvxYA&pid=News",
+    "timestamp": 1791565200.0
+  },
+  {
+    "id": "d1c64c7d9e",
+    "title_fa": "کاهش اهرم فشار تهران در پی توافق انرژی آمریکا و روسیه و تنش دیپلماتیک ایران و فرانسه",
+    "title_en": "صادق بیگدلی: توافق گازی آمریکا و روسیه اهرم فشار جمهوری اسلامی را تضعیف می‌کند",
+    "summary": [
+      "ارزیابی صادق بیگدلی مبنی بر اینکه توافق گازی آمریکا و روسیه اهرم فشار جمهوری اسلامی در تنگه هرمز را تضعیف و دست ترامپ را برای فشار بازتر می‌کند.",
+      "احضار متقابل سفیران ایران و فرانسه در تهران و پاریس در پی بیانیه‌های رسمی پیرامون اعتراضات دانش‌آموزی در فرانسه."
+    ],
+    "impact": "تضعیف کارت بازی نفت و تنگه هرمز برای ایران همراه با تعمیق انزوای دیپلماتیک در رابطه با اروپا.",
+    "tag": "دیپلماسی و انرژی",
+    "urgency": 6,
+    "sentiment": -0.4,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202610104262",
+    "clean_url": "https://www.iranintl.com/202610104262",
+    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+    "timestamp": 1791565200.0
+  },
+  {
+    "id": "4c3759a8fa",
+    "title_fa": "افشای انتقال دست‌کم ۶۷ میلیون دلار به سپاه از طریق شبکه بابک زنجانی و صرافی بایننس",
+    "title_en": "وال‌استریت ژورنال: شبکه بابک زنجانی از بایننس برای انتقال پول به سپاه پاسداران استفاده کرد",
+    "summary": [
+      "افشای اسناد محرمانه بایننس مبنی بر جابه‌جایی صدها میلیون دلار توسط شبکه بابک زنجانی از طریق ۲۱ حساب و شرکت‌هایی در امارات و ترکیه.",
+      "انتقال مستقیم دست‌کم ۶۷ میلیون دلار از حساب‌های این شبکه به کیف‌پول‌های دیجیتال متعلق به سپاه پاسداران جهت دور زدن تحریم‌ها."
+    ],
+    "impact": "افزایش ریسک نظارتی بر صرافی‌های بین‌المللی و شناسایی شریان‌های ارزی و رمزارزی نیروی قدس و سپاه پاسداران.",
+    "tag": "تحریم و مالی",
+    "urgency": 8,
+    "sentiment": -0.7,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202610103329",
+    "clean_url": "https://www.iranintl.com/202610103329",
+    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+    "timestamp": 1791565200.0
   },
   {
     "id": "26637a938e",
@@ -5296,185 +5480,5 @@
     "clean_url": "https://www.aljazeera.com/news/2026/9/21/how-oil-gas-losses-have-shrunk-irans-gdp-by-10-percent-during-war",
     "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/epa_6ab0e85b3c47-1789978715.jpg?resize=1920,1440",
     "timestamp": 1789984860.0
-  },
-  {
-    "id": "6c3140c77c",
-    "title_fa": "هشدار نظامی ایران درباره احتمال ازسرگیری حملات آمریکا",
-    "title_en": "Iran’s military says US preparing to resume strikes",
-    "summary": [
-      "نیروهای مسلح جمهوری اسلامی با رصد تحرکات واشینگتن، احتمال شروع موج جدید ضربات نظامی را مطرح کرده‌اند.",
-      "این هشدار سطح آلارم قرمز در نیروهای دفاعی را بالا برده و از نگرانی نسبت به ضربات غافلگیرکننده خبر می‌دهد."
-    ],
-    "impact": "به صدا درآمدن زنگ خطر درگیری نظامی مستقیم و رفتن نیروها به حالت آماده‌باش کامل.",
-    "tag": "نظامی",
-    "urgency": 9,
-    "sentiment": -0.7,
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ2o4VlNDVWc4MFhvY3laajdhME4yZkZZVXM0TFlkV0ZVYzFReURGWFhCYXdZWTJQdEhFMDNocnRiUTl6Zk42YnZQdjc2ZjFnQnJTRG1Del95SnYwa1p6RElQMXYtTkpyN2NUeF93d2ppMm12c0NiQTlmVUhmUk1VZ3ZJcU5OTnBHR2FDMDlVTXA0YngxQ2fSAZsBQVVfeXFMUDRVWWpxUVFOVzctel93SGhwQ05TN3ZaX0cxazZXdDlacE1EQ0NMNmpoN3VDOWpyQ3hBSE9oUWlGb0t1ekVEVl8tbTExbG1XWjRvOWUyWndrVTBUbWk3SHhCT0tEVy0yR3N1UGwwSEpYX3BKZFlreXNpWE1kMXZUQUY4Sl91UmFJNnEwSjJUOE1Qd3R6TGZVRDVCb1U",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789968652.0
-  },
-  {
-    "id": "707757a8a8",
-    "title_fa": "گمانه‌زنی درباره نقش دیپلماتیک چین در پایان دادن به جنگ ایران",
-    "title_en": "Will China play a role in ending Iran war?",
-    "summary": [
-      "پکن برای تامین امنیت عبور و مرور انرژی، حفظ جریان نفت و تجارت خود ناچار به ورود فعال‌تر به پرونده است.",
-      "چین ترجیح می‌دهد بدون هزینه نظامی، از اهرم‌های اقتصادی برای مهار طرفین و کسب امتیاز از آمریکا بهره ببرد."
-    ],
-    "impact": "احتمال ورود میانجی‌گرانه چین برای جلوگیری از انسداد کامل شریان‌های نفتی منطقه.",
-    "tag": "دیپلماسی",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "アラブニュース",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmVwbUpLU25EOUk3dU15dU13TFRyZEFfY0xXYTNycnJaMUJBMGZwa2UtcUVrRWNLMWREQVlXMzBHQTdsM01zdktjZjVpZ3dfdXJHSU45UHhLbXJqeUJoWTVmNjAtQUI0NEE0VXpid3diRWg0Nk5iODh0NHpOcWkwYURwWGhMblhwMmNRVQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYmVwbUpLU25EOUk3dU15dU13TFRyZEFfY0xXYTNycnJaMUJBMGZwa2UtcUVrRWNLMWREQVlXMzBHQTdsM01zdktjZjVpZ3dfdXJHSU45UHhLbXJqeUJoWTVmNjAtQUI0NEE0VXpid3diRWg0Nk5iODh0NHpOcWkwYURwWGhMblhwMmNRVQ",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789965906.0
-  },
-  {
-    "id": "dc79ac6106",
-    "title_fa": "تیم ترامپ: هیچ تاریخی برای پایان جنگ با ایران وجود ندارد",
-    "title_en": "Trump’s ambassador to U.N. says there’s no timeline on Iran war’s end",
-    "summary": [
-      "نماینده جدید آمریکا در سازمان ملل بر تداوم فشارها و عدم وابستگی به جدول زمانی تاکید کرد.",
-      "سیاست واشنگتن ادامه ضربات مداوم تا خلع‌سلاح کامل و استیصال ساختار حاکمیت است."
-    ],
-    "impact": "تثبیت وضعیت جنگی فرساینده و انسداد کامل هرگونه افق بازسازی اقتصادی.",
-    "tag": "سیاست خارجی",
-    "urgency": 8,
-    "sentiment": -0.8,
-    "source": "The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaF9UUGtpRDNQdHhZOW1MSHdDQzlSN1JmeXg2RERyN2JrNHpIV1VyMk5iQi04dktsSlh3aTQyc0V3MU00bHJ5Sk5Ha1k2Q1VpUGVoc0lZRExqVWkwbU9RY0llcDdZMGVaUGxyU0JVNGI3d0tNRWdjczBSbkRmcDhtYklJRWo3a3ZhUVVfZUR5cUQ5djhqQjhERE9xcXFQQ20zNEtlbw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaF9UUGtpRDNQdHhZOW1MSHdDQzlSN1JmeXg2RERyN2JrNHpIV1VyMk5iQi04dktsSlh3aTQyc0V3MU00bHJ5Sk5Ha1k2Q1VpUGVoc0lZRExqVWkwbU9RY0llcDdZMGVaUGxyU0JVNGI3d0tNRWdjczBSbkRmcDhtYklJRWo3a3ZhUVVfZUR5cUQ5djhqQjhERE9xcXFQQ20zNEtlbw",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789945758.0
-  },
-  {
-    "id": "d9d487cf7a",
-    "title_fa": "گسترش همکاری‌های دانشگاهی اسپانیا و جمهوری آذربایجان",
-    "title_en": "Spain's IE University, Azerbaijan look to build long-term bridge of knowledge and talent",
-    "summary": [
-      "باکو برای توسعه زیرساخت‌های انسانی و جذب سرمایه‌های علمی غرب، راه‌اندازی برنامه‌های جدید با موسسات اروپایی را کلید زد."
-    ],
-    "impact": "تقویت پیوندهای آموزشی و نفوذ نرم منطقه‌ای آذربایجان در تعامل با موسسات غربی.",
-    "tag": "دیپلماسی",
-    "urgency": 2,
-    "sentiment": 0.3,
-    "source": "Trend News Agency",
-    "url": "https://www.trend.az/azerbaijan/4226062.html",
-    "clean_url": "https://www.trend.az/azerbaijan/4226062.html",
-    "image": "https://www.trend.az/media/2026/09/21/trend_viliam_davila.jfif",
-    "timestamp": 1789936020.0
-  },
-  {
-    "id": "8af41585de",
-    "title_fa": "توصیف نخست‌وزیر قطر از تبعات ویرانگر درگیری‌ها بر ایران",
-    "title_en": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
-    "summary": [
-      "مقام قطری پیامدهای درگیری سنگین آمریکا و اسرائیل با ایران را زلزله‌ای برای تمام منطقه دانست.",
-      "کشورهای حاشیه خلیج فارس از سرایت بی‌ثباتی و پیامدهای درگیری نظامی به شدت نگرانند."
-    ],
-    "impact": "تغییر شتابان آرایش امنیتی کشورهای منطقه برای مصون ماندن از موج درگیری‌ها.",
-    "tag": "دیپلماسی",
-    "urgency": 7,
-    "sentiment": -0.8,
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlY5OExNNU5sVzBjN1RxWXdZXzUtVGk0c05qel9GV1NNZ1JicE5ZblBGTHN5Y0o1d1BNcFduM2ExQ3ZrbmxINUJvQURXVnJ1NlFmbU1MM1VoVmlMSjBQUkJCSzk1Ql9vbWNzalpkcHhIcHhzNWw2QVM4UHhNQTc0MkZHam9XQ0FmZWk3Qkl5ZmY5MzVKMnFzb0J0eVQ0bENEejdVZ2M2TdIBrAFBVV95cUxOYWl2d3laUXlCdUNoRDZFS1pFaFVnTUwxeGdhajc0UjhxSTZyQlZxaWRjcEdPNWZaWlpESkVlT2x3Y2JCd0cwbGItc041UFJmem94R0NacHlfZDBBN0RvQ0s2aUctdk10MFp6WE00RmhmelQ0YW5TTGJkQUtKbHJuYk1keTN3UEVFdGw4Q0tOZjNkYmJILWlFYnRxMHg5cEtCY19QVHlTTDN3Umtw",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1789935300.0
-  },
-  {
-    "id": "fa4feadb5f",
-    "title_fa": "جهش ارز، تظاهرات بازنشستگان و تشدید برخوردهای امنیتی حکومت",
-    "title_en": "Rial Slides to 232,000 as Retirees March and Parliament Widens Iran's Security Controls",
-    "summary": [
-      "سقوط ارزش ریال و تجمع بازنشستگان در شهرهای مختلف، تعمیق فروپاشی معیشتی و خشم خیابانی را علنی کرده است.",
-      "مجلس به جای اصلاحات اقتصادی، تشدید کنترلهای امنیتی بر دانشگاه‌ها و ارتباطات خارجی را تصویب کرد.",
-      "تایید ارسال سیگنال‌های مذاکره توسط قالیباف، استیصال حاکمیت تحت فشار همزمان خیابان و بحران مالی را افشا می‌کند."
-    ],
-    "impact": "گسترش اعتراضات معیشتی و تشدید رکود تورمی که می‌تواند به جرقه‌ای برای خیزش سراسری تبدیل شود.",
-    "tag": "ارز",
-    "urgency": 9,
-    "sentiment": -0.8,
-    "source": "NCRI",
-    "url": "https://www.ncr-iran.org/en/news/economy/rial-slides-to-232000-as-retirees-march-and-parliament-widens-irans-security-controls/",
-    "clean_url": "https://www.ncr-iran.org/en/news/economy/rial-slides-to-232000-as-retirees-march-and-parliament-widens-irans-security-controls",
-    "image": "https://www.ncr-iran.org/en/wp-content/uploads/2023/09/iran-money-exchange-economy.jpg",
-    "timestamp": 1789926540.0
-  },
-  {
-    "id": "399561abb3",
-    "title_fa": "توقف در لحظه آخر؛ ترامپ حمله به حوثی‌ها را لغو کرد",
-    "title_en": "نیویورک‌تایمز: ترامپ در آخرین لحظات حمله آمریکا به مواضع حوثی‌ها را متوقف کرد",
-    "summary": [
-      "ترامپ در آخرین مراحل آماده‌سازی، دستور توقف حمله به مواضع حوثی‌ها را صادر کرد تا از گشوده شدن جبهه مستقیم جدید جلوگیری کند.",
-      "تردید کاخ سفید و احتیاط ریاض نشان می‌دهد واشینگتن هنوز تصمیم نهایی را برای پیوند زدن جنگ یمن به درگیری اصلی با تهران نگرفته است."
-    ],
-    "impact": "تعویق ضربه نظامی مستقیم به بازوی نیابتی تهران و تداوم مخاطرات در دریای سرخ.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.4,
-    "source": "ایران اینترنشنال",
-    "url": "https://www.iranintl.com/202609212765",
-    "clean_url": "https://www.iranintl.com/202609212765",
-    "image": "http://www.bing.com/th?id=ONUT.QO2TuqeFTT9PlM0iSA0lLw&pid=News",
-    "timestamp": 1789923600.0
-  },
-  {
-    "id": "2d071ea3c6",
-    "title_fa": "توافق موقت تجاری آمریکا و چین پس از تشدید جنگ تعرفه‌ها",
-    "title_en": "ترامپ و شی چگونه از جنگ تعرفه‌ای به توافق موقت تجاری رسیدند؟",
-    "summary": [
-      "واشینگتن و پکن پس از بالابردن متقابل تعرفه‌ها تا سطح جریمه‌های سنگین، مجبور به باج‌دهی متقابل و پذیرش آتش‌بس موقت شدند.",
-      "فشار اقتصادی ناشی از اختلال در زنجیره تامین، ترامپ را به سمت مدیریت بحران با چین سوق داد تا تمرکز بیشتری روی خاورمیانه داشته باشد."
-    ],
-    "impact": "کاهش موقت فشار تجاری میان دو قدرت برای باز شدن دست واشینگتن در پرونده خاورمیانه.",
-    "tag": "اقتصاد",
-    "urgency": 5,
-    "sentiment": 0.1,
-    "source": "ایران اینترنشنال",
-    "url": "https://www.iranintl.com/2026092196520",
-    "clean_url": "https://www.iranintl.com/2026092196520",
-    "image": "http://www.bing.com/th?id=ONUT.ElGpwbsiZydBypHqvNOfwg&pid=News",
-    "timestamp": 1789923600.0
-  },
-  {
-    "id": "24d49a30b1",
-    "title_fa": "خط‌ونشان‌های سخنگوی سپاه؛ جنگ روانی در اوج تنش منطقه‌ای",
-    "title_en": "سخنگوی سپاه پاسداران: سپاه هیچ ارتباط رسمی یا غیررسمی با آمریکا ندارد",
-    "summary": [
-      "سخنگوی سپاه با ادعای نبرد طولانی‌مدت و از کار انداختن پایگاه‌های آمریکا، خط کلامی تهاجمی را برای پنهان کردن آسیب‌پذیری‌ها پیش برده است.",
-      "تکذیب هرگونه کانال مذاکره مستقیم با واشینگتن، از بن‌بست کامل دیپلماتیک و تلاش برای حفظ ظاهر مقتدرانه حکایت دارد."
-    ],
-    "impact": "افزایش احتمال خطای محاسباتی طرفین و بالا رفتن ریسک درگیری ناگهانی.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "ایران اینترنشنال",
-    "url": "https://www.iranintl.com/202609210000",
-    "clean_url": "https://www.iranintl.com/202609210000",
-    "image": "http://www.bing.com/th?id=ONUT.78RcxrA-PHktQDrJYFFgQw&pid=News",
-    "timestamp": 1789923600.0
-  },
-  {
-    "id": "d4cb61e16e",
-    "title_fa": "بررسی سه سناریوی اصلی ترامپ برای تعیین تکلیف درگیری با ایران",
-    "title_en": "واشینگتن تایمز: ترامپ سه گزینه را برای ادامه جنگ با جمهوری اسلامی بررسی می‌کند",
-    "summary": [
-      "کاخ سفید میان سه گزینه‌ی حملات سنگین نظامی، فرسایش اقتصادی شدید، یا معامله سیاسی برای خروج از بحران معطل است.",
-      "جهش قیمت جهانی سوخت و تصرف نقاط راهبردی دریای سرخ توسط حوثی‌ها، هزینه سناریوی جنگ فرسایشی را برای آمریکا بسیار بالا برده است."
-    ],
-    "impact": "تصمیم نهایی ترامپ مسیر قیمت انرژی و میزان شتاب کشیده شدن درگیری به نقطه خطیر را مشخص می‌کند.",
-    "tag": "نظامی",
-    "urgency": 9,
-    "sentiment": -0.6,
-    "source": "ایران اینترنشنال",
-    "url": "https://www.iranintl.com/202609206485",
-    "clean_url": "https://www.iranintl.com/202609206485",
-    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-    "timestamp": 1789922580.0
   }
 ]
