@@ -1,5 +1,93 @@
 [
   {
+    "id": "00a0f31d71",
+    "title_fa": "توصیف جنگ ایران به عنوان «رزمایش نظامی» توسط ترامپ هم‌زمان با افزایش تلفات آمریکا",
+    "title_en": "Trump Calls Iran War a ‘Military Exercise’ After US Death Toll Climbs",
+    "summary": [
+      "دونالد ترامپ در پی افزایش شمار کشته‌شدگان نظامیان آمریکا، جنگ ایران را صرفاً یک «رزمایش نظامی» نامید.",
+      "آمار تلفات و کشته‌های ارتش ایالات متحده در جریان تقابل با ایران روند صعودی به خود گرفته است."
+    ],
+    "impact": "افزایش فشارهای سیاسی داخلی بر واشنگتن بر سر هزینه‌های سنگین انسانی جنگ در پی اعلام تلفات میدانی.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.8,
+    "source": "Newsweek",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnBtQmJhaHBjN05MaGdJZUh5Rmg1UFpFRlpzWXdQOWR3Rk1SdVh4ekFZbDZWU3YtT0FoeXV6cGJQUDdZeXBkYjBCcnFzSU1MN0VtNk1rTWtmOGdXd1UxQ0diQlpRWGoxY0RBTVl4VzR2T0JveFdWRWVYdVZrNzBiaUh2Nkc4YkxuZkdpcXJkV2Q?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSnBtQmJhaHBjN05MaGdJZUh5Rmg1UFpFRlpzWXdQOWR3Rk1SdVh4ekFZbDZWU3YtT0FoeXV6cGJQUDdZeXBkYjBCcnFzSU1MN0VtNk1rTWtmOGdXd1UxQ0diQlpRWGoxY0RBTVl4VzR2T0JveFdWRWVYdVZrNzBiaUh2Nkc4YkxuZkdpcXJkV2Q",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792193280.0
+  },
+  {
+    "id": "38a62df90d",
+    "title_fa": "پوشش زنده تحولات امنیتی میان اسرائیل، ایران و خاورمیانه",
+    "title_en": "Live Updates: Latest from Israel, Iran, and the Middle East",
+    "summary": [
+      "پوشش لحظه‌به‌لحظه آخرین رویدادها و تنش‌های جاری میان اسرائیل، ایران و سطح منطقه توسط جروزالم پست."
+    ],
+    "impact": "حفظ وضعیت هشدار بالا در فضای رسانه‌ای و آمادگی‌های متقابل منطقه‌ای.",
+    "tag": "منطقه‌ای",
+    "urgency": 6,
+    "sentiment": -0.3,
+    "source": "The Jerusalem Post",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11NWFDZjV2eVJvRlEtQzBwQWIwRnlEeFgxMkRLd1d1Yk5Hc2pPd01KYlJMV3dxYTBBMDRsQXJNRnVCaW1VVVZCTXpVWXlXQnJYZjVOYjhxb1ZTcFRaWHVtN0J5aEtHaHV4YWZiREh1YnRwR3BKUWI3Nl95dGNiMXM?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11NWFDZjV2eVJvRlEtQzBwQWIwRnlEeFgxMkRLd1d1Yk5Hc2pPd01KYlJMV3dxYTBBMDRsQXJNRnVCaW1VVVZCTXpVWXlXQnJYZjVOYjhxb1ZTcFRaWHVtN0J5aEtHaHV4YWZiREh1YnRwR3BKUWI3Nl95dGNiMXM",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792191605.0
+  },
+  {
+    "id": "134aaac2ee",
+    "title_fa": "دیده‌بان بحران‌های بین‌المللی؛ رصد تحولات جاری توسط گروه بین‌المللی بحران",
+    "title_en": "On Our Radar",
+    "summary": [
+      "ثبت گزارش دیده‌بان (On Our Radar) توسط گروه بین‌المللی بحران جهت پایش نقاط بحرانی."
+    ],
+    "impact": "تداوم رصد تحولات و روندهای ژئوپلیتیک بین‌المللی بدون ارائه جزئیات میدانی جدید.",
+    "tag": "دیپلماسی",
+    "urgency": 3,
+    "sentiment": 0.0,
+    "source": "International Crisis Group",
+    "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TTTkyVGppeko1WEFvMmEzamUxWU9rVzBaOEh6MklzRUhjRUVaWkJidHEweHFXTDcyT2dERWt4ZDV6bG9hSVdvVWtrTXpLcVRqZjhBVUVNZ2hqdkct?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TTTkyVGppeko1WEFvMmEzamUxWU9rVzBaOEh6MklzRUhjRUVaWkJidHEweHFXTDcyT2dERWt4ZDV6bG9hSVdvVWtrTXpLcVRqZjhBVUVNZ2hqdkct",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792191405.0
+  },
+  {
+    "id": "065544471c",
+    "title_fa": "ترامپ: جنگ ایران پس از انتخابات میان‌دوره‌ای تمام می‌شود؛ تهدید به حمله به کوه پیک‌اکس",
+    "title_en": "HOW ABOUT NOW INSTEAD? Trump Says Iran War to End after US Midterm Elections, Threatens to Attack Pickaxe Mountain",
+    "summary": [
+      "دونالد ترامپ اظهار داشت جنگ ایران پس از انتخابات میان‌دوره‌ای آمریکا خاتمه خواهد یافت.",
+      "ترامپ تهدید به حمله علیه منطقه‌ای موسوم به کوه پیک‌اکس (Pickaxe Mountain) کرده است."
+    ],
+    "impact": "تشدید مستقیم لفاظی‌های جنگی و تعیین ضرب‌الاجل‌های سیاسی برای سرنوشت درگیری‌های نظامی.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.7,
+    "source": "EnergyNow.com",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3AtUThyTTFHa2J5N1pOeDh1SnQ3MnlOM3RseDFESUszd2VkSF9UTE52LXZmM1JKdWcySTdlamhRRVhRaUVoUlM2cGE4b3Q5LVlKMS14Z3RBZ05Bal9fcU5YVDhCYnFjUF8zaVVQbDJGeFZPeGl3bVlreUgyeERSNk5pd2FMYW1na1JjYnh4NmRXNzZkVy1tSElfRTJyMjBKcVlWOVk3ZGJqYTkySnJaajRqZXFNdm05MGhlUV9hTzdPQmwzVC10b25OYUI0dUxFRzM3d2EzblhNZXc?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3AtUThyTTFHa2J5N1pOeDh1SnQ3MnlOM3RseDFESUszd2VkSF9UTE52LXZmM1JKdWcySTdlamhRRVhRaUVoUlM2cGE4b3Q5LVlKMS14Z3RBZ05Bal9fcU5YVDhCYnFjUF8zaVVQbDJGeFZPeGl3bVlreUgyeERSNk5pd2FMYW1na1JjYnh4NmRXNzZkVy1tSElfRTJyMjBKcVlWOVk3ZGJqYTkySnJaajRqZXFNdm05MGhlUV9hTzdPQmwzVC10b25OYUI0dUxFRzM3d2EzblhNZXc",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792190209.0
+  },
+  {
+    "id": "c83c378d7b",
+    "title_fa": "مواضع نماینده جمهوری‌خواه کنگره درباره جنگ ایران و رقابت‌های انتخاباتی",
+    "title_en": "Republican Congressman Mike Bost on Medicaid, Iran war, and why he won't debate his opponent",
+    "summary": [
+      "مایک بوست، نماینده جمهوری‌خواه کنگره آمریکا، در خصوص طرح بیمه مدیکید و جنگ ایران موضع‌گیری کرد.",
+      "بوست دلایل خود را برای امتناع از مناظره با رقیب انتخاباتی‌اش برشمرد."
+    ],
+    "impact": "ورود مبحث درگیری با ایران به محور مناقشات و رقابت‌های انتخابات داخلی ایالات متحده.",
+    "tag": "سیاست خارجی",
+    "urgency": 5,
+    "sentiment": -0.2,
+    "source": "IPM Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXF6MzA2VGpqQ3hBMDdVa00wempfMHZqMFdFNVFwcTZDTWRCaUlpczFoUE0ycTAzUTNCcDBrNjRoZzFVVGY0MWVMM0xPb3liUFJqZVFqbkUxcXNkaEdvZndKM3hOQ1dUbEtZaW90TmxfTmxILXUzWEdEc3F2M2dqTUVEem9SZ1NEcTN5cFJJZEE5UHZBZzBMWkkwaVJtTVB2Y0VLSnBwZjZPaFdjZ0liU01FazY?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOXF6MzA2VGpqQ3hBMDdVa00wempfMHZqMFdFNVFwcTZDTWRCaUlpczFoUE0ycTAzUTNCcDBrNjRoZzFVVGY0MWVMM0xPb3liUFJqZVFqbkUxcXNkaEdvZndKM3hOQ1dUbEtZaW90TmxfTmxILXUzWEdEc3F2M2dqTUVEem9SZ1NEcTN5cFJJZEE5UHZBZzBMWkkwaVJtTVB2Y0VLSnBwZjZPaFdjZ0liU01FazY",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792188000.0
+  },
+  {
     "id": "9be0c5729d",
     "title_fa": "ادعای آمریکا: ارسال پول از سوی شبه‌نظامیان به سپاه پاسداران",
     "title_en": "Iran-backed militias sending money back to cash-starved IRGC, U.S. says",
@@ -5334,93 +5422,5 @@
     "clean_url": "https://www.foxnews.com/live-news/us-iran-war-trump-oil-strait-hormuz-terrorism-october-5",
     "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/10/d192d649a8f08b2a0ee938666bdc81b0.jpg",
     "timestamp": 1791251220.0
-  },
-  {
-    "id": "450e77127f",
-    "title_fa": "استعفای وزیر نفت ایران همزمان با وخامت بحران اقتصادی کشور",
-    "title_en": "Iran’s oil minister resigns as country’s economic crisis worsens",
-    "summary": [
-      "وزیر نفت ایران در پی تشدید بحران اقتصادی کشور از سمت خود استعفا داد.",
-      "این کناره‌گیری نشان‌دهنده عمق چالش‌های مالی و مدیریتی در بخش انرژی ایران است."
-    ],
-    "impact": "افزایش بی‌ثباتی در مدیریت شریان حیاتی اقتصاد ایران همزمان با تشدید فشارهای مالی.",
-    "tag": "اقتصادی",
-    "urgency": 7,
-    "sentiment": -0.8,
-    "source": "The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGFMcUJwTDBpZnh0djlPVlU4OHBVWjA5VTVjSW5IOWoxdDdSVmQycWVlWmp0ejNoaHdWakRiZE5pOW1KS1Z0R1lvMW1oMk5xRUNqaFZHUUFTd3h3MEppSzNsTXl0ZUpCc2FvODdvdHR2Y0p1ZHdjbHZwTG04SnlxaHdISG1tVHVhdWV3X3ZRUEM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaGFMcUJwTDBpZnh0djlPVlU4OHBVWjA5VTVjSW5IOWoxdDdSVmQycWVlWmp0ejNoaHdWakRiZE5pOW1KS1Z0R1lvMW1oMk5xRUNqaFZHUUFTd3h3MEppSzNsTXl0ZUpCc2FvODdvdHR2Y0p1ZHdjbHZwTG04SnlxaHdISG1tVHVhdWV3X3ZRUEM",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791250260.0
-  },
-  {
-    "id": "5a2624b5a6",
-    "title_fa": "آخرین بازی لیونل مسی در تیم ملی آرژانتین مقابل بنین",
-    "title_en": "Argentina-Benin, today Messi's last match: time and where to watch it on TV",
-    "summary": [
-      "لیونل مسی پس از شکست در فینال جام جهانی ۲۰۲۶ مقابل اسپانیا، بازنشستگی خود را از بازی‌های ملی اعلام کرد.",
-      "دیدار دوستانه آرژانتین مقابل بنین در ورزشگاه مانیومنتال، آخرین حضور مسی با پیراهن تیم ملی کشورش خواهد بود."
-    ],
-    "impact": "پایان حضور یکی از بزرگ‌ترین ستاره‌های فوتبال جهان در رده ملی.",
-    "tag": "ورزشی",
-    "urgency": 2,
-    "sentiment": 0.0,
-    "source": "jen.jiji",
-    "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261006KRONOS-202610121459301224_eng",
-    "clean_url": "https://jen.jiji.com/jc/eng_agt",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791244800.0
-  },
-  {
-    "id": "5190bd5f16",
-    "title_fa": "تغییر آرایش امنیتی: ایران امارات را در کنار آمریکا و اسرائیل دشمن خود می‌داند",
-    "title_en": "Iran Sees United Arab Emirates as an Enemy Alongside the United States and Israel",
-    "summary": [
-      "ایران، امارات متحده عربی را به عنوان یک دشمن در تراز ایالات متحده و اسرائیل قلمداد می‌کند.",
-      "این موضع‌گیری نشان‌دهنده افزایش شدید تنش‌های ژئوپلیتیکی میان تهران و ابوظبی است."
-    ],
-    "impact": "افزایش احتمال تقابل‌های امنیتی و تضعیف روابط دیپلماتیک در حوزه خلیج فارس.",
-    "tag": "ژئوپلیتیک",
-    "urgency": 8,
-    "sentiment": -0.9,
-    "source": "Middle East Forum",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWZTR2s4SFdibjZTQ0ZYeDFxd0htVjJ5Zl9TSWlfWEFKTjUyQ3BDS2RzUVFKeHp0a0JiSVlNOFQxVnduSVp2Sk15U3d6cEdHM3UteHpmYkR6TTNGNnRGNEFET0ZsYXpWWWhvLXA0WDc0VnJCQnEydnpJNnhsNmdKT0lhY0ZqT0l1cVFlWko1cThxNVlrNW13RDJjNDlITWRrdGZjcWJKOWJLZDhzSzBRSkdqT2NmZHFuSXc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTWZTR2s4SFdibjZTQ0ZYeDFxd0htVjJ5Zl9TSWlfWEFKTjUyQ3BDS2RzUVFKeHp0a0JiSVlNOFQxVnduSVp2Sk15U3d6cEdHM3UteHpmYkR6TTNGNnRGNEFET0ZsYXpWWWhvLXA0WDc0VnJCQnEydnpJNnhsNmdKT0lhY0ZqT0l1cVFlWko1cThxNVlrNW13RDJjNDlITWRrdGZjcWJKOWJLZDhzSzBRSkdqT2NmZHFuSXc",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791242486.0
-  },
-  {
-    "id": "e0892e2a37",
-    "title_fa": "برآورد هزینه‌های مالی جنگ ایران برای شهروندان ایالت یوتای آمریکا",
-    "title_en": "How much is the Iran war costing Utahns? Here’s an estimate.",
-    "summary": [
-      "بررسی و تخمین میزان هزینه‌های اقتصادی ناشی از درگیری و جنگ با ایران برای ساکنان ایالت یوتا."
-    ],
-    "impact": "انعکاس پیامدهای اقتصادی ملموس درگیری‌های منطقه‌ای بر زندگی روزمره شهروندان آمریکایی.",
-    "tag": "اقتصادی",
-    "urgency": 4,
-    "sentiment": -0.2,
-    "source": "The Salt Lake Tribune",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pR3U3bV9NMW41bi1KTk84TDM4d0Rnelk0azdaTzlWZERoNXdpWV9rV3E0Z0hUQU5rWUxHNF95U1ZsdnB4RHloMkV1dmVXTXptZDd6WG9FRENJajd2bVZ6dVYxYmF5eUE2UHlWakNXOE4yMElHMlgw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pR3U3bV9NMW41bi1KTk84TDM4d0Rnelk0azdaTzlWZERoNXdpWV9rV3E0Z0hUQU5rWUxHNF95U1ZsdnB4RHloMkV1dmVXTXptZDd6WG9FRENJajd2bVZ6dVYxYmF5eUE2UHlWakNXOE4yMElHMlgw",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791239938.0
-  },
-  {
-    "id": "3e98a4d6de",
-    "title_fa": "ادعای اخذ عوارض از تردد نفتکش‌ها توسط ایران در تنگه هرمز",
-    "title_en": "Is Iran charging a toll to allow oil traffic through Hormuz?",
-    "summary": [
-      "طرح گمانه‌زنی‌ها درباره دریافت حق عبور یا عوارض از سوی ایران برای اجازه عبور به محموله‌های نفتی از تنگه هرمز."
-    ],
-    "impact": "احتمال تغییر قوانین ترانزیت انرژی در حیاتی‌ترین آبراهه نفتی جهان و افزایش هزینه‌های حمل‌ونقل بین‌المللی.",
-    "tag": "انرژی",
-    "urgency": 6,
-    "sentiment": -0.4,
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnBJWDdQN21OVE55MVZsLUFoMmIxTVBpZXgtNWpGR3o4U1liTUFzYWU2ODhTM24yeWh1Mm5NOWlEcXZTWHU0RGNRaUhvSjF4b2FRajZSajdGWWJwcXRpZzFBWjlfYkJSeTl4M1BrNUxVdHFUUGtfNHdNLXVmTHhPbzMyZ1BvVldXSEFZR2VBeUlPRWhudXMtdlpjbk9INTRRSUHSAacBQVVfeXFMTml3NXBicnEzMEw0NXFQTktsODdqcG1FcUszd1FjMmJlUjdGczk3c0JvS3pPTkVNYUk4RTB4dWV0Nl9XYXlhazJZU2pyYjRnUUFKZHhEVVBfbjNKVFhJWXM1UlVvTzVIWWxWMWE2dS1VaEszTUtFMzhmakFobGdVcU15dWphMlRMRXZZdUtkZ01SYmpTZDhZZmxEZjN3V1M3VjVBdnVJanM?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYnBJWDdQN21OVE55MVZsLUFoMmIxTVBpZXgtNWpGR3o4U1liTUFzYWU2ODhTM24yeWh1Mm5NOWlEcXZTWHU0RGNRaUhvSjF4b2FRajZSajdGWWJwcXRpZzFBWjlfYkJSeTl4M1BrNUxVdHFUUGtfNHdNLXVmTHhPbzMyZ1BvVldXSEFZR2VBeUlPRWhudXMtdlpjbk9INTRRSUHSAacBQVVfeXFMTml3NXBicnEzMEw0NXFQTktsODdqcG1FcUszd1FjMmJlUjdGczk3c0JvS3pPTkVNYUk4RTB4dWV0Nl9XYXlhazJZU2pyYjRnUUFKZHhEVVBfbjNKVFhJWXM1UlVvTzVIWWxWMWE2dS1VaEszTUtFMzhmakFobGdVcU15dWphMlRMRXZZdUtkZ01SYmpTZDhZZmxEZjN3V1M3VjVBdnVJanM",
-    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791237331.0
   }
 ]
