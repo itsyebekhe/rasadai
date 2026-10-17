@@ -1,5 +1,22 @@
 [
   {
+    "id": "f635e8e989",
+    "title_fa": "خطر عقب‌ماندگی و انزوای ایران هم‌زمان با توسعه کریدورهای تجاری شرق و غرب",
+    "title_en": "Iran risks losing ground as East-West trade routes expand",
+    "summary": [
+      "گسترش مسیرها و شاهراه‌های تجاری جدید بین شرق و غرب، جایگاه استراتژیک و ترانزیتی ایران را با خطر افول مواجه کرده است."
+    ],
+    "impact": "حاشیه‌نشینی ژئواکونومیک ایران و از دست رفتن درآمدهای ترانزیتی در پی شکل‌گیری مسیرهای جایگزین.",
+    "tag": "ژئواکونومی",
+    "urgency": 5,
+    "sentiment": -0.4,
+    "source": "Iran International",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0THBCSGNoTHlSVXhPckpjQTlUYnJQeFg5TU16ei13UmJfRjJxaUdwVVlVWnFsZ19BU1YzekxwRWdnR0R5SmU0dkFOR25YcHJBR1E?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0THBCSGNoTHlSVXhPckpjQTlUYnJQeFg5TU16ei13UmJfRjJxaUdwVVlVWnFsZ19BU1YzekxwRWdnR0R5SmU0dkFOR25YcHJBR1E",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792270800.0
+  },
+  {
     "id": "6420381fe5",
     "title_fa": "تنگ‌تر شدن پنجره دیپلماسی با تهدیدهای جدید ترامپ علیه ایران",
     "title_en": "Window for diplomacy with Iran may be closing as Trump again threatens Pickaxe Mountain",
@@ -18,6 +35,23 @@
     "timestamp": 1792265462.0
   },
   {
+    "id": "cebe159d9d",
+    "title_fa": "هشدار درباره تشدید خطر جنگ برای آمریکا و اسرائیل با تداوم جهش قیمت نفت",
+    "title_en": "US, Israel face threats of war if oil prices keep rising",
+    "summary": [
+      "گزارش‌ها حاکی از آن است که ادامه روند افزایشی بهای جهانی نفت، خطر کشیده شدن آمریکا و اسرائیل به درگیری نظامی را تشدید می‌کند."
+    ],
+    "impact": "تداوم بحران در بازار انرژی ریسک تصاعد تنش و درگیری‌های نظامی مستقیم را بالا می‌برد.",
+    "tag": "انرژی و امنیت",
+    "urgency": 7,
+    "sentiment": -0.6,
+    "source": "The Jerusalem Post",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBsY1JDdGkySENGaDFUSGF4MTdTTlNMeXFSYXhnZWZKdWxjeV9BREF3X0FVY2hCWmlQNl9DRE1ZdktlZWdqMGxQRE15dHZJdEc0c2NJdE1tLTQ5MzJwcEpjUGxkRmNPUE40NkE",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792265225.0
+  },
+  {
     "id": "489ff17b83",
     "title_fa": "ارزیابی نبرد یمن؛ انسجام حوثی‌ها در مقابل تفرقه ائتلاف سعودی",
     "title_en": "The West needs a coherent plan for tackling Iran's proxies- opinion",
@@ -34,6 +68,24 @@
     "clean_url": "https://worldisraelnews.com/the-west-needs-a-coherent-plan-for-tackling-irans-proxies-opinion",
     "image": "https://worldisraelnews.com/wp-content/uploads/2017/11/AP_16349059500825.jpg",
     "timestamp": 1792262700.0
+  },
+  {
+    "id": "eb9ed791dd",
+    "title_fa": "پیش‌بینی وقوع طوفان سهمگین در خاورمیانه در اوج تنش‌های جنگی پیرامون ایران",
+    "title_en": "Significant storm heading toward Middle East amid Iran war, forecasts show - ABC News",
+    "summary": [
+      "پیش‌بینی‌های هواشناسی از حرکت یک سامانه طوفانی قابل‌توجه به سوی منطقه خاورمیانه خبر می‌دهند.",
+      "این شرایط ناپایدار جوی هم‌زمان با تشدید بحران و هشدارهای جنگی مرتبط با ایران به وقوع می‌پیوندد."
+    ],
+    "impact": "اختلال احتمالی شرایط جوی بر روند ترابری و فعالیت‌های عملیاتی در بحبوحه تنش‌های نظامی منطقه.",
+    "tag": "منطقه‌ای",
+    "urgency": 6,
+    "sentiment": -0.3,
+    "source": "ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGVuZmI2Sjh5TjRhZXdKdk4xOGNyNV9oQ3lfQ0ttWmtfbFJWUnRaQUVld2JwTzNNSzI4dksxcXZ1VUVlMUpNT09ibTVLUm1kanhicWZJbzh2cEdGMFhTbU0tdk5zVGRBcFJJUUtqNHA3NmNrYmgxUE1Va0ZmaHRlMnVyYjNyaDhWWHJxRzAybFpBVk00ODlLODBiM0ZHWlVBSHhBbFNmY9IBrAFBVV95cUxNS0ZKYVVBS0R5Z1RsZGtFaDFocGNIS1pwSTRhYTRqb2pMRnZLZnhOelZRVmo1clJuZzFpZlI2YnVwMHQyMnphY21wc0dDR1NCVVRXUjQxbUJiNlNJSV8wRW1Gc3dwQ1cya19NY0xyX2VJakJ5dFBJWDAycmx3YV9FNGV0WHNFSDEwSng5cGhYbzNudTFYVVo3aW9QYXhMajI4dkE2eDhUT1Rjb2cw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdGVuZmI2Sjh5TjRhZXdKdk4xOGNyNV9oQ3lfQ0ttWmtfbFJWUnRaQUVld2JwTzNNSzI4dksxcXZ1VUVlMUpNT09ibTVLUm1kanhicWZJbzh2cEdGMFhTbU0tdk5zVGRBcFJJUUtqNHA3NmNrYmgxUE1Va0ZmaHRlMnVyYjNyaDhWWHJxRzAybFpBVk00ODlLODBiM0ZHWlVBSHhBbFNmY9IBrAFBVV95cUxNS0ZKYVVBS0R5Z1RsZGtFaDFocGNIS1pwSTRhYTRqb2pMRnZLZnhOelZRVmo1clJuZzFpZlI2YnVwMHQyMnphY21wc0dDR1NCVVRXUjQxbUJiNlNJSV8wRW1Gc3dwQ1cya19NY0xyX2VJakJ5dFBJWDAycmx3YV9FNGV0WHNFSDEwSng5cGhYbzNudTFYVVo3aW9QYXhMajI4dkE2eDhUT1Rjb2cw",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1792262436.0
   },
   {
     "id": "d8f853af99",
@@ -5366,61 +5418,5 @@
     "clean_url": "https://www.iranintl.com/202610070734",
     "image": "http://www.bing.com/th?id=ONUT.EwujYSkBdRmVmY97k3wzBw&pid=News",
     "timestamp": 1791386940.0
-  },
-  {
-    "id": "739a3c8743",
-    "title_fa": "سالگرد حمله ۷ اکتبر و حملات موشکی جدید حوثی‌ها به ریاض و عدن",
-    "title_en": "1 p.m. recap: 3 years since Oct. 7; new Houthi attacks on Riyadh and Aden; Rubio says Iran 'lost control' of Hormuz",
-    "summary": [
-      "برگزاری مراسم بزرگداشت قربانیان حمله سه سال پیش حماس (۷ اکتبر ۲۰۲۳) در اسرائیل همزمان با یادآوری شکست‌های امنیتی این کشور.",
-      "آغاز حملات جدید نیروهای حوثی یمن به اهدافی در ریاض (پایتخت عربستان) و بندر عدن.",
-      "تکرار ادعای مارکو روبیو مبنی بر اینکه ایران کنترل خود بر تنگه هرمز را از دست داده است."
-    ],
-    "impact": "گسترش جغرافیای درگیری‌های منطقه‌ای توسط متحدان ایران به عمق خاک عربستان و یمن.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.6,
-    "source": "L'Orient Today",
-    "url": "https://today.lorientlejour.com/article/1549975/1-pm-recap-3-years-since-oct-7-new-houthi-attacks-on-riyadh-and-aden-rubio-says-iran-lost-control-of-hormuz.html",
-    "clean_url": "https://today.lorientlejour.com/article/1549975/1-pm-recap-3-years-since-oct-7-new-houthi-attacks-on-riyadh-and-aden-rubio-says-iran-lost-control-of-hormuz.html",
-    "image": "https://s.lorientlejour.com/storage/attachments/1550/medias_928611_314214.jpg/r/800/medias_928611_314214.jpg",
-    "timestamp": 1791381780.0
-  },
-  {
-    "id": "7714b74d42",
-    "title_fa": "ادعای روبیو درباره رد فرصت‌های توافق هسته‌ای توسط ایران و تداوم بن‌بست دیپلماتیک",
-    "title_en": "Marco Rubio says Iran 'failed' to seize 'multiple opportunities' for nuclear deal — Tehran slams Washington's 'requests and ideas'",
-    "summary": [
-      "مارکو روبیو اعلام کرد ایران فرصت‌های متعدد برای دست‌یابی به توافق هسته‌ای را از دست داده است.",
-      "مذاکرات میان واشنگتن و تهران در بن‌بست کامل قرار دارد.",
-      "تهران ایده‌ها و درخواست‌های مطرح‌شده از سوی آمریکا را به شدت رد کرده است."
-    ],
-    "impact": "تعمیق بن‌بست دیپلماتیک میان طرفین و کاهش شانس دستیابی به راهکار سیاسی در کوتاه مدت.",
-    "tag": "دیپلماسی",
-    "urgency": 5,
-    "sentiment": -0.4,
-    "source": "Benzinga",
-    "url": "https://www.msn.com/en-us/news/other/marco-rubio-says-iran-failed-to-seize-multiple-opportunities-for-nuclear-deal-tehran-slams-washingtons-requests-and-ideas/ar-AA2dLnFC",
-    "clean_url": "https://www.msn.com/en-us/news/other/marco-rubio-says-iran-failed-to-seize-multiple-opportunities-for-nuclear-deal-tehran-slams-washingtons-requests-and-ideas/ar-AA2dLnFC",
-    "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2dKu6L.img?w=1024&h=683&m=4&q=81",
-    "timestamp": 1791379878.0
-  },
-  {
-    "id": "ea4d3e65c0",
-    "title_fa": "وزیر دفاع آمریکا: ایران هرگز به سلاح هسته‌ای دست نخواهد یافت",
-    "title_en": "Hegseth says Iran will never obtain nuclear weapon",
-    "summary": [
-      "پیت هگست، وزیر دفاع آمریکا در دیدار با پرسنل ناو هواپیمابر آبرام لینکلن تأکید کرد ایران هرگز به سلاح هسته‌ای دست نخواهد یافت.",
-      "ناو هواپیمابر آبرام لینکلن پس از استقرار ۳۲۰ روزه که شامل درگیری و عملیات در جنگ با ایران بود، به سان‌دیگو بازگشت."
-    ],
-    "impact": "نمایش قدرت و تأکید مجدد بر خط قرمز موشکی و هسته‌ای آمریکا در قبال ایران پس از ماموریت مستقیم جنگی.",
-    "tag": "نظامی / هسته‌ای",
-    "urgency": 8,
-    "sentiment": -0.6,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202610071378",
-    "clean_url": "https://www.iranintl.com/en/202610071378",
-    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-    "timestamp": 1791378900.0
   }
 ]
