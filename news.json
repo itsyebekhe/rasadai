@@ -1,5 +1,41 @@
 [
   {
+    "id": "d62c60861c",
+    "title_fa": "هشدار ایران درباره پاسخ «بدون مهار» و آماده‌باش برای جنگ تمام‌عیار در نشست‌های ارشد تهران",
+    "title_en": "Netanyahu says Iran considering Israeli election interference",
+    "summary": [
+      "پزشکیان شرط مذاکره را لغو عملی تحریم‌ها دانست و سخنگوی سپاه از گذار به جنگ نامتقارن و عملیات تهاجمی خبر داد.",
+      "هشدار مقام امنیتی به پرس‌تی‌وی درباره آمادگی برای جنگ تمام‌عیار و دیدار قالیباف با مجتبی خامنه‌ای درباره تقابل با آمریکا و اسرائیل."
+    ],
+    "impact": "تغییر آرایش نیروهای مسلح ایران به سمت عملیات تهاجمی نامتقارن و اعلام آمادگی برای نبرد تمام‌عیار، احتمال درگیری مستقیم را تشدید می‌کند.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.8,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610220458",
+    "clean_url": "https://www.iranintl.com/en/202610220458",
+    "image": "http://www.bing.com/th?id=ONUT.iLTc3mL6TG2eJV9hvwh80Q&pid=News",
+    "timestamp": 1792606320.0
+  },
+  {
+    "id": "98268cac4d",
+    "title_fa": "افشای طرح عملیات ۳ روزه و شدید آمریکا و اسرائیل علیه تاسیسات موشکی و هسته‌ای ایران",
+    "title_en": "ترامپ: جمهوری اسلامی شرورترین حکومت جهان است و اگر سلاح هسته‌ای داشت، از آن استفاده می‌کرد",
+    "summary": [
+      "برنامه‌ریزی واشینگتن و تل‌آویو برای عملیاتی کوتاه اما کوبنده به منظور وادار کردن تهران به امتیازدهی و رایزنی پیت هگست با نتانیاهو.",
+      "تاسیسات هسته‌ای و زرادخانه‌های موشکی-پهپادی به عنوان اهداف اصلی در نظر گرفته شده و پالایشگاه‌ها برای مهار بهای بنزین استثنا شده‌اند."
+    ],
+    "impact": "تمرین مانورهای هوایی مشترک بر فراز عراق و تعیین اهداف هسته‌ای و موشکی، منطقه را در آستانه آغاز یک حمله نظامی سنگین قرار داده است.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.9,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202610224827",
+    "clean_url": "https://www.iranintl.com/202610224827",
+    "image": "http://www.bing.com/th?id=ONUT.4EIepv5TMcbRW3Ouo0tixg&pid=News",
+    "timestamp": 1792602000.0
+  },
+  {
     "id": "69facc87e7",
     "title_fa": "سپاه پاسداران در تدارک رونمایی از «پدر همه بمب‌ها»",
     "title_en": "Iran’s Revolutionary Guards say preparing to unveil ‘father of all bombs’",
@@ -54,6 +90,42 @@
     "timestamp": 1792588955.0
   },
   {
+    "id": "478731a3a6",
+    "title_fa": "وقوع انفجارهای مشکوک در سیریک هرمزگان همزمان با تحریم‌های تازه خزانه‌داری آمریکا",
+    "title_en": "Explosions reported in southern Iran's Sirik, cause unknown",
+    "summary": [
+      "گزارش منابع خبری از شنیده شدن صدای انفجارهایی با منشأ نامشخص در بندر سیریک واقع در استان هرمزگان.",
+      "تحریم چهار شرکت از جمله شرکت حقوقی کارناکیس در پاناما و یونان تحت کارزار «طرد اقتصادی» اسکات بسنت برای بستن شریان‌های مالی تهران."
+    ],
+    "impact": "همزمانی رویدادهای امنیتی در نوار ساحلی جنوب با تشدید تحریم‌های شبکه ثبت و خدمات کشتی‌رانی، فشارهای میدانی و اقتصادی بر ایران را عمیق‌تر می‌کند.",
+    "tag": "امنیتی",
+    "urgency": 8,
+    "sentiment": -0.7,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610211399",
+    "clean_url": "https://www.iranintl.com/en/202610211399",
+    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
+    "timestamp": 1792586220.0
+  },
+  {
+    "id": "bf84c1f07b",
+    "title_fa": "پافشاری تهران بر عدم بازگشایی تنگه هرمز و حفظ غنی‌سازی همزمان با رایزنی‌های دیپلماتیک",
+    "title_en": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+    "summary": [
+      "سفر عاصم منیر، فرمانده ارتش پاکستان به تهران برای رایزنی درباره جنگ و تنش‌های یمن در میانه تلاش‌های دیپلماتیک منطقه‌ای.",
+      "تاکید قاطع تهران بر ادامه مواضع تا زمان پذیرش شروط ایران از سوی آمریکا و خودداری از بازگشایی تنگه هرمز و کوتاه آمدن در پرونده هسته‌ای."
+    ],
+    "impact": "تداوم انسداد تنگه هرمز و بن‌بست دیپلماتیک به رغم رفت‌وآمدهای منطقه‌ای، خطر تشدید تنش‌های نظامی و نفتی را در سطح بالایی نگه می‌دارد.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.6,
+    "source": "Al Jazeera",
+    "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings",
+    "clean_url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings",
+    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad8b1a00e1a8-1792586144.jpg?resize=1920%2C1440",
+    "timestamp": 1792583880.0
+  },
+  {
     "id": "d85e69984e",
     "title_fa": "حاشیه‌نشینی و انزوای اتحادیه اروپا در مذاکرات صلح اوکراین",
     "title_en": "EU frustrated over exclusion from Ukraine negotiations — Finnish politician",
@@ -70,6 +142,24 @@
     "clean_url": "https://tass.com/world/2205419",
     "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
     "timestamp": 1792583460.0
+  },
+  {
+    "id": "e5e4638ff0",
+    "title_fa": "پزشکیان در دیدار فرمانده ارتش پاکستان: پیش از لغو تحریم‌ها هیچ مذاکره‌ای با آمریکا در کار نیست",
+    "title_en": "Iran's President Says No Talks Until the US Lifts Sanctions. So Who's Dictating Terms?",
+    "summary": [
+      "رئیس‌جمهور ایران در گفتگو با عاصم منیر شرط ورود به مذاکرات صلح با دولت ترامپ را توقف فشارها و لغو عملی تحریم‌ها عنوان کرد.",
+      "پزشکیان منشأ بحران‌های منطقه‌ای و اختلال در تنگه هرمز را جنگ‌افروزی ایالات متحده دانست و خواستار پاسخگویی واشینگتن شد."
+    ],
+    "impact": "رد هرگونه گفت‌وگوی مستقیم پیش از رفع تحریم‌ها، چشم‌انداز دستیابی به توافق سیاسی میان تهران و دولت ترامپ را تا اطلاع ثانوی مسدود می‌سازد.",
+    "tag": "دیپلماسی",
+    "urgency": 6,
+    "sentiment": -0.4,
+    "source": "Townhall",
+    "url": "https://townhall.com/news/jeff-charles/2026/10/21/irans-president-says-no-talks-until-the-us-lifts-sanctions-so-whos-dictating-terms-n2685091",
+    "clean_url": "https://townhall.com/news/jeff-charles/2026/10/21/irans-president-says-no-talks-until-the-us-lifts-sanctions-so-whos-dictating-terms-n2685091",
+    "image": "https://media.townhall.com/cdn/hodl/2026/59/0b1bb793-3bac-452d-adaf-e005f1896b5b-1200x630.jpg",
+    "timestamp": 1792574040.0
   },
   {
     "id": "8fd2f81c12",
@@ -5313,94 +5403,5 @@
     "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-new-attack-launched-on-saudi-airport-officials-say/ar-AA2dQb7l",
     "image": "http://www.bing.com/th?id=ONUT.e3m5-igqj28RFzwY2tf1GQ&pid=News",
     "timestamp": 1791717503.0
-  },
-  {
-    "id": "b0fe310643",
-    "title_fa": "حمله حوثی‌ها به فرودگاه بین‌المللی ریاض در جریان رویارویی منطقه‌ای",
-    "title_en": "UPDATES: US War on Iran, Day 226 — Houthis Hit Riyadh’s International Airport",
-    "summary": [
-      "منابع خبری از هدف قرار گرفتن فرودگاه بین‌المللی ریاض توسط حوثی‌ها در جریان روز ۲۲۶ درگیری‌ها خبر دادند."
-    ],
-    "impact": "گسترش مستقیم دامنه آتش جنگ به عمق زیرساخت‌های حیاتی و هوایی عربستان سعودی.",
-    "tag": "نظامی و عملیاتی",
-    "urgency": 10,
-    "sentiment": -0.8,
-    "source": "EA WorldView",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VTU9NRG9MUlpTZnBUaFJJQ2Z2VU03TWw5cHlEZTNzeWlxcnR3Tm9oRjVWNzJYbnUxUG1GTzVvVFZvbmV2djNKNjkxS216SHMyMVVwVnJpTFVlc3dRcGo0bTZzbS1pS1RfSGFZQi1nVzhhZ002blE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9VTU9NRG9MUlpTZnBUaFJJQ2Z2VU03TWw5cHlEZTNzeWlxcnR3Tm9oRjVWNzJYbnUxUG1GTzVvVFZvbmV2djNKNjkxS216SHMyMVVwVnJpTFVlc3dRcGo0bTZzbS1pS1RfSGFZQi1nVzhhZ002blE",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791714245.0
-  },
-  {
-    "id": "63a3a6f0ab",
-    "title_fa": "پوشش زنده ان‌بی‌سی نیوز از تحولات رویارویی نظامی با ایران",
-    "title_en": "Iran War: Latest News, Live Coverage and Video",
-    "summary": [
-      "شبکه ان‌بی‌سی نیوز پوشش مستقیم، اخبار لحظه‌ای و گزارش‌های ویدئویی مرتبط با جنگ ایران را آغاز کرده است."
-    ],
-    "impact": "افزایش سطح آماده‌باش افکار عمومی بین‌المللی در پی تمرکز رسانه‌های غربی بر تحولات جنگی.",
-    "tag": "نظامی و رسانه",
-    "urgency": 7,
-    "sentiment": -0.3,
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vRFdEaTJrbkd5dmlGNzFrY19yTEJFZko2aXBSejFKbXNsbl95eFBsM2dSNkRjdVNudjhZTl9DSzFud3JoTTJ2R2ttX3lBNkE",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1791713513.0
-  },
-  {
-    "id": "087f1c93ab",
-    "title_fa": "رویکرد متفاوت مسکو و غرب به برنامه هسته‌ای ایران و عدم حمایت جدی در جنگ ۱۲ روزه",
-    "title_en": "Iran nuclear chief accuses IAEA of selective silence over attacks on its facilities",
-    "summary": [
-      "سیاست غرب همواره برنامه هسته‌ای ایران را بحران اصلی دانسته، اما مسکو اولویت متفاوتی در قبال تهران دارد.",
-      "پوتین در دیدار با پزشکیان در ترکمنستان پیشنهاد کمک برای پایان جنگ را مطرح کرد، اما طبق تحلیل کارشناسان، روسیه در جنگ ۱۲ روزه سال گذشته علیه تاسیسات هسته‌ای ایران کمک چندانی نکرد.",
-      "روسیه عدم دستیابی ایران به بمب اتم را ترجیح می‌دهد اما برخلاف اسرائیل و غرب، موضع شتاب‌زده و هیستریک نسبت به آن ندارد."
-    ],
-    "impact": "آشکار شدن عدم تمایل روسیه برای مداخله مستقیم به نفع ایران در مواجهه هسته‌ای و درگیری‌های نظامی.",
-    "tag": "دیپلماسی / هسته‌ای",
-    "urgency": 6,
-    "sentiment": -0.3,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202610119962",
-    "clean_url": "https://www.iranintl.com/en/202610119962",
-    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-    "timestamp": 1791711780.0
-  },
-  {
-    "id": "0a19a4e2ce",
-    "title_fa": "افزایش حملات به نفتکش‌ها در خلیج فارس؛ تلاش تهران برای تحریک واشنگتن",
-    "title_en": "After oil increasingly left the Gulf, Iran is trying to regain its stranglehold on shipping",
-    "summary": [
-      "تشدید حملات به تانکرها در تنگه هرمز و خلیج فارس با هدف احیای اهرم فشار بر این آبراهه کلیدی",
-      "احتمال کشاندن ایالات متحده به اقدام تلافی‌جویانه نظامی از طریق تنش‌زایی دریایی"
-    ],
-    "impact": "افزایش ریسک درگیری مستقیم نظامی میان ایران و آمریکا در آبراه‌های بین‌المللی خلیج فارس.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.6,
-    "source": "CNN on MSN",
-    "url": "https://www.msn.com/en-us/news/other/after-oil-increasingly-left-the-gulf-iran-is-trying-to-regain-its-stranglehold-on-shipping/ar-AA2e1uxT",
-    "clean_url": "https://www.msn.com/en-us/news/other/after-oil-increasingly-left-the-gulf-iran-is-trying-to-regain-its-stranglehold-on-shipping/ar-AA2e1uxT",
-    "image": "http://www.bing.com/th?id=ONUT.0BQCD5dRKP6h0vzh509Bvw&pid=News",
-    "timestamp": 1791710929.0
-  },
-  {
-    "id": "c26f0775e9",
-    "title_fa": "هشدار صریح ایران درباره حمله به زیرساخت‌های داده و کابل‌های منطقه‌ای",
-    "title_en": "Iran calls latest US response to proposal insufficient, and other Mideast developments",
-    "summary": [
-      "مقام ارشد ایرانی پیشنهاد جدید آمریکا برای پایان جنگ را ناکافی دانست.",
-      "تهران هشدار داد در صورت شدت گرفتن درگیری‌ها، مراکز داده و کابل‌های ارتباطی منطقه هدف قرار خواهند گرفت."
-    ],
-    "impact": "افزایش شدید مخاطرات امنیتی برای زیرساخت‌های حیاتی دیجیتال و ارتباطی در خاورمیانه.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "Associated Press News on MSN",
-    "url": "https://www.msn.com/en-us/news/other/iran-calls-latest-us-response-to-proposal-insufficient-and-other-mideast-developments/ar-AA2e0BAl",
-    "clean_url": "https://www.msn.com/en-us/news/other/iran-calls-latest-us-response-to-proposal-insufficient-and-other-mideast-developments/ar-AA2e0BAl",
-    "image": "http://www.bing.com/th?id=ONUT.gxn3nM_kZrAuwfs31g7hCA&pid=News",
-    "timestamp": 1791703819.0
   }
 ]
