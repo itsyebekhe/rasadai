@@ -54,6 +54,24 @@
     "timestamp": 1792692520.0
   },
   {
+    "id": "3cc3d47e72",
+    "title_fa": "گزارش آتلانتیک درباره «قمار ترامپ» برای پایان دادن به جنگ ایران",
+    "title_en": "Trump’s Gamble to End the Iran War",
+    "summary": [
+      "تیتر نشریه آتلانتیک به موضوع قمار و رویکرد دونالد ترامپ برای پایان بخشیدن به جنگ با ایران پرداخته است.",
+      "متن اصلی گزارش به دلیل فعال شدن پروتکل‌های امنیتی کلودفلر و مسدودسازی دسترسی، در دسترس نیست."
+    ],
+    "impact": "به دلیل مسدود بودن متن گزارش، جزئیات برنامه و تاثیرات میدانی آن در این منبع در دسترس نیست.",
+    "tag": "سیاست خارجی",
+    "urgency": 4,
+    "sentiment": 0.0,
+    "source": "The Atlantic",
+    "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
+    "clean_url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121",
+    "image": "http://www.bing.com/th?id=ONUT.oFoViOxrU6V5I-L2vHeiFQ&pid=News",
+    "timestamp": 1792683660.0
+  },
+  {
     "id": "7a572a3224",
     "title_fa": "نمایش تبلیغاتی بدلباز دونالد ترامپ در سلول زندان در تهران",
     "title_en": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
@@ -5383,23 +5401,5 @@
     "clean_url": "https://www.iranintl.com/en/202610124030",
     "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
     "timestamp": 1791798780.0
-  },
-  {
-    "id": "a0e17ab456",
-    "title_fa": "خنثی‌سازی عملیات فریب هوش مصنوعی ایران توسط شرکت OpenAI",
-    "title_en": "Iran spread anti-Israel, US disinformation to global media through fake journalists, OpenAI says",
-    "summary": [
-      "استفاده جمهوری اسلامی از هوش مصنوعی برای تولید هویت هفت روزنامه‌نگار جعلی و انتشار اخبار گمراه‌کننده.",
-      "توقف کارزار نفوذ سایبری توسط OpenAI با هدف انتشار محتوای ضداسرائیلی و ضدآمریکایی در رسانه‌های بین‌المللی."
-    ],
-    "impact": "افشای بهره‌گیری ساختارهای تبلیغاتی ایران از ابزارهای پیشرفته هوش مصنوعی و تشدید محدودیت‌های سایبری علیه تهران.",
-    "tag": "سایبر و اطلاعاتی",
-    "urgency": 5,
-    "sentiment": -0.4,
-    "source": "Yahoo",
-    "url": "https://www.yahoo.com/news/world/articles/iran-spread-anti-israel-us-155418108.html",
-    "clean_url": "https://www.yahoo.com/news/world/articles/iran-spread-anti-israel-us-155418108.html",
-    "image": "http://www.bing.com/th?id=ONUT.X9s6lM9ULjMtse7iW-WyZg&pid=News",
-    "timestamp": 1791795180.0
   }
 ]
