@@ -1,5 +1,77 @@
 [
   {
+    "id": "249eef8ded",
+    "title_fa": "ورود پزشکیان به مسکو برای اجلاس گاز و انتقاد کیهان از دیپلماسی منطقه‌ای",
+    "title_en": "Iran's Pezeshkian arrives in Russia for gas exporters summit",
+    "summary": [
+      "مسعود پزشکیان برای شرکت در هشتمین مجمع کشورهای صادرکننده گاز (GECF) وارد مسکو شد.",
+      "حسین شریعتمداری، مدیرمسئول کیهان، طرح علی باقری کنی برای ایجاد چارچوب امنیتی منطقه‌ای را زیر سؤال برد."
+    ],
+    "impact": "پیگیری رایزنی‌های انرژی در مسکو همزمان با بروز اختلافات سیاسی داخلی بر سر دیپلماسی منطقه‌ای.",
+    "tag": "دیپلماسی",
+    "urgency": 5,
+    "sentiment": -0.1,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610266961",
+    "clean_url": "https://www.iranintl.com/en/202610266961",
+    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+    "timestamp": 1793043360.0
+  },
+  {
+    "id": "aed1393eb8",
+    "title_fa": "ادعای باقری کنی درباره اجماع منطقه‌ای علیه اسرائیل در نشست تهران",
+    "title_en": "Iran says regional talks identified Israel as source of instability",
+    "summary": [
+      "علی باقری کنی اعلام کرد که کشورهای منطقه در گفتگوهای تهران، اسرائیل را منشأ اصلی ناامنی و بحران معرفی کرده‌اند.",
+      "وی بر خنثی‌سازی اهداف آمریکا و اسرائیل توسط نیروهای مسلح ایران تاکید کرد، در حالی که روزنامه کیهان نسبت به تضعیف موضع تهران هشدار داد."
+    ],
+    "impact": "تلاش تهران برای ایجاد جبهه سیاسی منطقه‌ای علیه اسرائیل همزمان با انتقادات شدید داخلی.",
+    "tag": "دیپلماسی",
+    "urgency": 5,
+    "sentiment": -0.3,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610263670",
+    "clean_url": "https://www.iranintl.com/en/202610263670",
+    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+    "timestamp": 1793042160.0
+  },
+  {
+    "id": "84a4670f4e",
+    "title_fa": "توصیف روابط ایران و چین به عنوان یک مشارکت معامله‌گرایانه مبتنی بر انرژی",
+    "title_en": "Iraq orders arrest of provincial leader amid tensions over Iran ties",
+    "summary": [
+      "یک کارشناس به ایران اینترنشنال گفت روابط چین و ایران معامله‌گرایانه بوده و نه بر پایه همبستگی ایدئولوژیک، بلکه بر اساس منافع اقتصادی است.",
+      "چین خریدار اصلی نفت ایران زیر تحریم‌ها است، اما امنیت انرژی خود را بر روابط با تهران مقدم می‌داند."
+    ],
+    "impact": "مشخص شدن محدودیت‌های ساختاری اتکای اقتصادی و دیپلماتیک تهران به چین.",
+    "tag": "تحریم",
+    "urgency": 5,
+    "sentiment": -0.1,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610267939",
+    "clean_url": "https://www.iranintl.com/en/202610267939",
+    "image": "https://i.iranintl.com/images/rdk9umy0/production/9a5a860a08290bd22edee3b3de6aa98108a47203-800x534.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+    "timestamp": 1793037840.0
+  },
+  {
+    "id": "a87bee6eb2",
+    "title_fa": "بازتاب انتخابات اسرائیل و مواضع نتانیاهو در میان برخی کاربران فارسی‌زبان",
+    "title_en": "Iran security chief says US threats have little impact on regional states",
+    "summary": [
+      "برخی کاربران فارسی‌زبان در شبکه‌های اجتماعی به تقابل نتانیاهو با جمهوری اسلامی ابراز امیدواری کردند.",
+      "گزارش تاکید می‌کند این واکنشی عمومی یا نماینده کل افکار عمومی داخل یا خارج از ایران نیست."
+    ],
+    "impact": "انعکاس شکاف‌های سیاسی و انتظارات بخشی از افکار عمومی مجازی از تقابل‌های منطقه‌ای.",
+    "tag": "افکار عمومی",
+    "urgency": 4,
+    "sentiment": -0.2,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202610267992",
+    "clean_url": "https://www.iranintl.com/en/202610267992",
+    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+    "timestamp": 1793037780.0
+  },
+  {
     "id": "f3df62db7d",
     "title_fa": "تکذیب وجود اختلاف میان نتانیاهو و فرمانده ارتش اسرائیل در خصوص ایران",
     "title_en": "Israel defense minister denies report of rift between PM, army chief on Iran",
@@ -53,6 +125,24 @@
     "clean_url": "https://www.yahoo.com/news/politics/articles/iran-shrugs-off-trumps-attack-104506448.html",
     "image": "http://www.bing.com/th?id=ONUT.QxDIP5i35Hh1dTDs5fAxFA&pid=News",
     "timestamp": 1793000160.0
+  },
+  {
+    "id": "d245e76fe3",
+    "title_fa": "دیپلماسی فشرده منطقه‌ای در تهران برای جلوگیری از وقوع جنگ",
+    "title_en": "Flurry of Diplomacy in Iran as Regional Countries Try to Stave Off War",
+    "summary": [
+      "نمایندگان ارشد عربستان، ترکیه و پاکستان در سفری نادر جهت مهار تنش‌ها وارد تهران می‌شوند.",
+      "این اقدامات همزمان با انتشار گزارش‌هایی مبنی بر برنامه‌ریزی آمریکا و اسرائیل برای ازسرگیری جنگ علیه ایران صورت می‌گیرد."
+    ],
+    "impact": "افزایش تحرکات دیپلماتیک برای مانع شدن از بروز درگیری مستقیم نظامی در منطقه.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.6,
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+    "clean_url": "https://www.nytimes.com/2026/10/26/world/middleeast/iran-war-new-attacks-diplomacy.html",
+    "image": "http://www.bing.com/th?id=ONUT.L3T2JYZAEqG3KP0UqphQTw&pid=News",
+    "timestamp": 1792997160.0
   },
   {
     "id": "e9f5f2a467",
@@ -5293,96 +5383,5 @@
     "clean_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRy1kTkRzSFhZVkt4UXhBX2RQVEhpRlZqbnVSTUlhdzJLaDBBWkh3dDVfNFJPVVZFV2NRSk5VLUx0U0prcUtuU2ZBY1hTU0xyejRQY1RqYThGWXJBUUtSU0VkU1Z6RG9ZbDJ6bGRFV3V3OTBwLUF4NWFzWFJmZXR6X1htekNINzQ",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792182426.0
-  },
-  {
-    "id": "ea14435b53",
-    "title_fa": "موضع هسته‌ای پزشکیان، تهدید ارتش درباره تنگه هرمز و حمله موشکی به عدن",
-    "title_en": "Iran's president denies nuclear ambitions, says he's ready for talks",
-    "summary": [
-      "مسعود پزشکیان در دیدار با نخست‌وزیر گرجستان ساخت سلاح هسته‌ای را رد کرد و از آمادگی برای مذاکره گفت.",
-      "سخنگوی ارتش ایران بازگشایی کامل تنگه هرمز را به خروج نیروهای آمریکایی از منطقه مشروط دانست.",
-      "دیده‌بان‌های دریانوردی از تداوم حملات در تنگه هرمز خبر دادند و دو موشک حوثی‌ها به فرودگاه عدن اصابت کرد."
-    ],
-    "impact": "ناامنی فزاینده در خطوط کشتیرانی خلیج فارس هم‌زمان با مانور دیپلماتیک پاستور پیرامون پرونده هسته‌ای.",
-    "tag": "نظامی و دیپلماسی",
-    "urgency": 8,
-    "sentiment": -0.5,
-    "source": "CBS News",
-    "url": "https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-reopen-122000272.html",
-    "clean_url": "https://www.yahoo.com/news/world/articles/iran-says-strait-hormuz-reopen-122000272.html",
-    "image": "https://media.zenfs.com/en/cbs_news_897/eae27da207965334993a32ad5c2274e4.jpg",
-    "timestamp": 1792179354.0
-  },
-  {
-    "id": "0666edfcf6",
-    "title_fa": "پشتیبانی اطلاعاتی و هدف‌گیری ایران از حملات حوثی‌ها به عربستان",
-    "title_en": "Iran is giving Houthis targeting and intelligence for attacks on Saudi Arabia",
-    "summary": [
-      "ارائه داده‌های حساس ماهواره‌ای، اطلاعاتی و موقعیت‌یابی توسط جمهوری اسلامی به حوثی‌های یمن",
-      "تقویت چشمگیر توانمندی حوثی‌ها برای اجرای مرگبارترین و دقیق‌ترین حملات علیه اهداف و تأسیسات عربستان سعودی"
-    ],
-    "impact": "به‌خطر افتادن امنیت انرژی و زیرساخت‌های کلیدی عربستان و افزایش احتمال اصطکاک امنیتی مستقیم در حوزه خلیج فارس.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.6,
-    "source": "The Wall Street Journal on MSN",
-    "url": "https://www.msn.com/en-us/news/other/iran-is-giving-houthis-targeting-and-intelligence-for-attacks-on-saudi-arabia/ar-AA2eph5i",
-    "clean_url": "https://www.msn.com/en-us/news/other/iran-is-giving-houthis-targeting-and-intelligence-for-attacks-on-saudi-arabia/ar-AA2eph5i",
-    "image": "http://www.bing.com/th?id=ONUT.ykGp_EVHclWcrjkKq6n2mw&pid=News",
-    "timestamp": 1792177200.0
-  },
-  {
-    "id": "cecc3bdcb7",
-    "title_fa": "تمرکز کارزار تبلیغاتی ایران بر هزینه‌های جنگ در آستانه انتخابات آمریکا",
-    "title_en": "How Iran messaging highlights cost of war ahead of US midterm elections",
-    "summary": [
-      "پیام‌رسانی تهران بر برجسته‌سازی هزینه‌های جنگ برای واشنگتن متمرکز شده است.",
-      "این خط رسانه‌ای در آستانه انتخابات میان‌دوره‌ای آمریکا با هدف اثرگذاری بر افکار عمومی دنبال می‌شود."
-    ],
-    "impact": "استفاده از اهرم فشار اقتصادی برای افزایش هزینه سیاسی جنگ‌طلبی در داخل ساختار قدرت آمریکا.",
-    "tag": "جنگ روانی",
-    "urgency": 4,
-    "sentiment": 0.0,
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPckE1c3laVXZKWGlFMEUwMEcwQXR4VDBqRlJxRUo0M1pMWk9SRDVtOHMzLU5qNzJxYW92NUw3QkVadlNlUU5OZWJjeG9ubURBNlpKNnVHU0otOWV4Si1GenlwV2tadElpRjRjQkM1aGlJTGZUeGJfU3JWSGdNQ0dUc0szQ0hvdFZPWnhKaURtcXJuMVlBeFdZdVdhbENBZVlfVk9yaXdtZWFsVEgyVnl3NWRjSQ",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792175284.0
-  },
-  {
-    "id": "0113f76771",
-    "title_fa": "هشدار تل‌آویو درباره پاسخ ویرانگر؛ ام‌آی۵ از چهار برابر شدن تهدیدات ایران خبر داد",
-    "title_en": "Israel warns of devastating retaliation; MI5: Russia, Iran threats quadrupled TV7Israel News 16 Oct.",
-    "summary": [
-      "اسرائیل نسبت به اقدام تلافی‌جویانه و ویرانگر هشدار داد.",
-      "سازمان اطلاعات داخلی بریتانیا (MI5) اعلام کرد تهدیدات امنیتی ناشی از ایران و روسیه چهار برابر شده است."
-    ],
-    "impact": "تشدید سطح آماده‌باش اطلاعاتی در اروپا هم‌زمان با افزایش احتمال پاسخ کوبنده نظامی اسرائیل.",
-    "tag": "نظامی و امنیتی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "TV7 Israel News",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zTnBaVER0dnljbmJSTENqOXNzeGF4N1ljZHpDU0dPMzd3cVh4OUxsa2R2NGtkTWhZRF9Hazd4dnRBZENxMW1kR0F4RXNxMV9LaV9zelI4dmdsa1E2a0tVNDBuaHpVeG54a0paRnRtbWhZYVFHcHFV?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zTnBaVER0dnljbmJSTENqOXNzeGF4N1ljZHpDU0dPMzd3cVh4OUxsa2R2NGtkTWhZRF9Hazd4dnRBZENxMW1kR0F4RXNxMV9LaV9zelI4dmdsa1E2a0tVNDBuaHpVeG54a0paRnRtbWhZYVFHcHFV",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792173858.0
-  },
-  {
-    "id": "633a8af1bd",
-    "title_fa": "بررسی لغو تحریم‌های ناوگان در سایه ایران توسط واشنگتن",
-    "title_en": "US weighs lifting sanctions on Iran's 'shadow fleet' to address surging costs",
-    "summary": [
-      "ایالات متحده در حال بررسی گزینه رفع تحریم‌ها از ناوگان در سایه نفتکش‌های ایران است.",
-      "هدف اصلی این اقدام مهار افزایش هزینه‌ها و کنترل تورم فزاینده در بازار انرژی عنوان شده است."
-    ],
-    "impact": "احتمال گشایش موقت در صادرات نفتی ایران و ورود درآمدهای ارزی در ازای کنترل قیمت سوخت در غرب.",
-    "tag": "تحریم و انرژی",
-    "urgency": 7,
-    "sentiment": 0.3,
-    "source": "Middle East Eye",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnAxODVxOUV3cmk5cGFZeUpvUXJsVkxjUFRTVzc2ei1qQ1JjcU5hdVc1U0dNLUhxRHFKYUh5UDZaeTZMMGlPSy1JQTVZdEVrUTlnejdvODBabU1BdF85VDItNjFPZGZmMFR0RWh6QUNDQUgzV0NOUFZJWUp3YUp6cGotSEpZX3RSUW5TNGRCVFRETjB2bUdWTzJLSzR3ZGdENGNrVWV3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRnAxODVxOUV3cmk5cGFZeUpvUXJsVkxjUFRTVzc2ei1qQ1JjcU5hdVc1U0dNLUhxRHFKYUh5UDZaeTZMMGlPSy1JQTVZdEVrUTlnejdvODBabU1BdF85VDItNjFPZGZmMFR0RWh6QUNDQUgzV0NOUFZJWUp3YUp6cGotSEpZX3RSUW5TNGRCVFRETjB2bUdWTzJLSzR3ZGdENGNrVWV3",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792173701.0
   }
 ]
