@@ -1,5 +1,22 @@
 [
   {
+    "id": "29fb68e222",
+    "title_fa": "هشدار خامنه‌ای به آمریکا و اسرائیل درباره پیامدهای حملات جدید",
+    "title_en": "Iran's Khamenei warns US and Israel against new attacks",
+    "summary": [
+      "رهبر ایران به ایالات متحده و اسرائیل نسبت به انجام هرگونه حمله جدید هشدار داد."
+    ],
+    "impact": "افزایش سطح هشدار نظامی در منطقه و احتمال تصاعد بحران در صورت اقدام نظامی جدید.",
+    "tag": "نظامی",
+    "urgency": 7,
+    "sentiment": -0.5,
+    "source": "France 24",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMkxFamlvVzdzdlp2NWJScFhNcEdod2M1WVpmY2JrOEwzY1FDa1FMWE5BQ0tESHljYUFXbUFpck5Ba2xxbmQ2aU41bVJXWTdrY244S0VaQVFpcU9OS21vZjY2ZFlJSHVRWDBRUWNwbWVaSjdiUTBERnNnU1o2THlBWGhQUkFLVmNFMXRvOF9rLWZrZFhjRDJyOVg5SjVpLVAtREMycjhTQQ",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793466036.0
+  },
+  {
     "id": "242859b617",
     "title_fa": "بررسی گزینه‌های تشدید تنش با ایران و عملیات غزه توسط اسرائیل پس از انتخابات آمریکا",
     "title_en": "Israel weighs Iran escalation, Gaza offensive after US vote",
@@ -89,6 +106,80 @@
     "timestamp": 1793446755.0
   },
   {
+    "id": "55a45c9f7f",
+    "title_fa": "نگرانی خاورمیانه از احتمال ازسرگیری جنگ ایران و آمریکا پس از انتخابات میان‌دوره‌ای",
+    "title_en": "Middle East on edge as fears mount the Iran war could restart after the midterms",
+    "summary": [
+      "اشاره دونالد ترامپ به احتمال درگیری‌های جدید پس از انتخابات میان‌دوره‌ای سه‌شنبه.",
+      "برنامه‌ریزی برخی شهروندان آمریکایی برای خروج از منطقه خلیج فارس و نگرانی از اختلال در سفرها و تعطیلی مدارس.",
+      "ورود جنگ به هشتمین ماه خود پس از آغاز آن در فوریه با حملات آمریکا و اسرائیل که به کشته شدن علی خامنه‌ای انجامید."
+    ],
+    "impact": "ایجاد فضای اضطراب عمومی و آماده‌باش در کشورهای خلیج فارس برای مواجهه با اختلالات احتمالی.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.8,
+    "source": "CNN",
+    "url": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
+    "clean_url": "https://www.cnn.com/2026/10/31/middleeast/gulf-braces-us-midterms-intl",
+    "image": "http://www.bing.com/th?id=ONUT.2ncAqaUlbmTZ91ZJPp5SNA&pid=News",
+    "timestamp": 1793439840.0
+  },
+  {
+    "id": "959d83d21e",
+    "title_fa": "دستور رهبر ایران برای پاسخ نظامی فوری و بدون محدودیت جغرافیایی",
+    "title_en": "Khamenei orders Iran military response without geographical limitations",
+    "summary": [
+      "تأکید رهبر عالی ایران بر پاسخ فوری به هر نوع و هر سطحی از تهدیدات.",
+      "صادر شدن دستور پاسخ متقابل بدون در نظر گرفتن محدودیت‌های جغرافیایی."
+    ],
+    "impact": "افزایش ریسک گسترش دامنه درگیری‌ها به سراسر منطقه و خارج از آن.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.7,
+    "source": "Newsweek on MSN",
+    "url": "https://www.msn.com/en-us/news/other/khamenei-orders-iran-military-response-without-geographical-limitations/ar-AA2gtAJr",
+    "clean_url": "https://www.msn.com/en-us/news/other/khamenei-orders-iran-military-response-without-geographical-limitations/ar-AA2gtAJr",
+    "image": "http://www.bing.com/th?id=ONUT.tXU5Je4kr9TAo8d6DABJvg&pid=News",
+    "timestamp": 1793438514.0
+  },
+  {
+    "id": "2cef6c18d1",
+    "title_fa": "واکنش عراقچی به نامه معاون رئیس‌جمهور آمریکا و تعیین شروط بازگشایی تنگه هرمز",
+    "title_en": "Iran FM says US outreach a ‘positive step’ as delegation in Qatar for talks",
+    "summary": [
+      "عباس عراقچی تلاش آمریکا برای آغاز گفتگو را «گامی مثبت» دانست، اما اعلام کرد فعلاً برنامه‌ای برای دیدار مستقیم با مقامات آمریکایی وجود ندارد.",
+      "ایران نامه ارسال شده از سوی جی‌دی ونس (معاون رئیس‌جمهور آمریکا) را بررسی کرده و شروط خود را برای بازگشایی تنگه هرمز مشخص کرده است.",
+      "هیئتی از ایران به سرپرستی یکی از معاونان وزارت خارجه برای احیای آتش‌بس میان ایران و آمریکا وارد دوحه شد."
+    ],
+    "impact": "احتمال گشایش دیپلماتیک و کاهش تنش‌های دریایی در صورت توافق بر سر شروط ایران برای بازگشایی تنگه هرمز.",
+    "tag": "دیپلماسی",
+    "urgency": 6,
+    "sentiment": 0.3,
+    "source": "Yahoo",
+    "url": "https://www.yahoo.com/news/politics/articles/iran-fm-says-us-outreach-143137339.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/iran-fm-says-us-outreach-143137339.html",
+    "image": "http://www.bing.com/th?id=ONUT.L3mXwd8BWHZ8uqGjwBEVKA&pid=News",
+    "timestamp": 1793431860.0
+  },
+  {
+    "id": "4423b95558",
+    "title_fa": "هشدار عربستان و مصر درباره تبعات فوق‌العاده مخرب تشدید تنش‌ها در منطقه",
+    "title_en": "Iran's Khamenei orders unrestricted response to threats",
+    "summary": [
+      "تأکید ولید الخریجی، معاون وزیر خارجه عربستان، بر تلاش کشورهای منطقه برای بازگرداندن صلح و عدم امکان پیش‌بینی نتیجه تلاش‌ها.",
+      "هشدار بدر عبدالعاطی، وزیر خارجه مصر، در مجمع امنیتی بحرین درباره ویرانگر بودن دور جدید تصاعد بحران."
+    ],
+    "impact": "تکاپوی دیپلماتیک کشورهای عربی برای جلوگیری از بروز جنگ تمام‌عیار در منطقه.",
+    "tag": "دیپلماسی",
+    "urgency": 6,
+    "sentiment": -0.5,
+    "source": "The New Arab",
+    "url": "https://www.newarab.com/news/irans-khamenei-orders-unrestricted-response-threats",
+    "clean_url": "https://www.newarab.com/news/irans-khamenei-orders-unrestricted-response-threats",
+    "image": "http://www.bing.com/th?id=ONUT.qyE6LeD6pbCmBJUKmJYoBw&pid=News",
+    "timestamp": 1793428200.0
+  },
+  {
     "id": "d63b097f5a",
     "title_fa": "چرخش رهبران منطقه به سمت اروپا در پی تشدید بحران خاورمیانه توسط ترامپ",
     "title_en": "As Trump blows up the Mideast, regional leaders look to Europe",
@@ -104,6 +195,44 @@
     "clean_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CMHp3X2x3WFRINUtFenljNXVIUnluOGxjWWdoUXFaWHVSX2NId3EzYmpfeDhvZk9lZnMyZ1FmODQ0eEpiZXNicEMyYjlHdE85NVB1bVdpbVZRR2tyRU9z",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1793423700.0
+  },
+  {
+    "id": "356a02398d",
+    "title_fa": "دستور مجتبی خامنه‌ای برای پاسخ بدون محدودیت جغرافیایی؛ میانجی‌گری قطر در تهران",
+    "title_en": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+    "summary": [
+      "مجتبی خامنه‌ای در پیام و دستورالعمل‌های راهبردی به فرماندهان ارشد نظامی، خواستار ایجاد حداکثر بازدارندگی و آمادگی برای پاسخ فوری و بدون محدودیت جغرافیایی در صورت حمله شد.",
+      "دیپلمات‌های ارشد قطری طی روزهای جمعه و شنبه در تهران مشغول رایزنی برای جلوگیری از وقوع جنگ جدید میان ایران و آمریکا هستند.",
+      "گزارش‌ها از آمادگی آمریکا و اسرائیل برای انجام حملات جدید علیه ایران خبر می‌دهند."
+    ],
+    "impact": "افزایش ریسک درگیری فرا منطقه‌ای و پاسخ گسترده نظامی ایران در صورت حمله آمریکا و اسرائیل.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.8,
+    "source": "Yahoo",
+    "url": "https://www.yahoo.com/news/world/articles/iran-warns-unfettered-retaliation-attacked-121342288.html",
+    "clean_url": "https://www.yahoo.com/news/world/articles/iran-warns-unfettered-retaliation-attacked-121342288.html",
+    "image": "http://www.bing.com/th?id=ONUT.Vp-pAayN_GFStMS5WI1jPw&pid=News",
+    "timestamp": 1793423580.0
+  },
+  {
+    "id": "d483cf57a5",
+    "title_fa": "مذاکرات ۱۲ ساعته میانجی‌های قطری در تهران برای جلوگیری از حملات آمریکا",
+    "title_en": "Qatari mediators held talks in Tehran aimed at restarting direct U.S.-Iran negotiations, source says",
+    "summary": [
+      "برگزاری بیش از ۱۲ ساعت گفتگو توسط میانجی‌های قطری در تهران جهت احیای مذاکرات و جلوگیری از حملات آمریکا.",
+      "تأکید عباس عراقچی، وزیر امور خارجه ایران، بر عدم وجود برنامه‌ای برای دیدار مستقیم با مقامات آمریکایی و اعزام هیئت ایرانی به دوحه.",
+      "هشدار مجدد ایران مبنی بر پاسخ بدون محدودیت جغرافیایی به هرگونه حمله جدید آمریکا."
+    ],
+    "impact": "تلاش‌های فشرده دیپلماتیک منطقه‌ای برای مهار تنش‌ها و جلوگیری از درگیری مجدد پس از انتخابات میان‌دوره‌ای.",
+    "tag": "دیپلماسی",
+    "urgency": 6,
+    "sentiment": -0.3,
+    "source": "CNBC",
+    "url": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+    "clean_url": "https://www.cnbc.com/2026/10/31/qatar-iran-us-talks-mediation.html",
+    "image": "http://www.bing.com/th?id=ONUT.Y7YnY42TedrSLXE2ro282Q&pid=News",
+    "timestamp": 1793423460.0
   },
   {
     "id": "9dfc650023",
@@ -174,6 +303,24 @@
     "clean_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5DYUJ1andXbVdyamtGbmFRaHlvYm91V0ZPS3pXOE5HdFBnT2puQ2tna3BDVG0wNnNIWXJHV1ZGTVAtTTk0dXkwUGxoVldvQXlTNDgzUFZmZ24",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1793419578.0
+  },
+  {
+    "id": "764c57927f",
+    "title_fa": "هشدار دولت ترامپ به ایران و طرح نگرانی درباره امنیت تنگه هرمز در G20",
+    "title_en": "Trump admin threatens Iran with 'consequences' as allies convene amid threats of post-election escalation",
+    "summary": [
+      "هشدار دولت ترامپ به ایران درباره عواقب و تبعات اقداماتش.",
+      "طرح نگرانی‌های مربوط به امنیت انرژی و تنگه هرمز توسط مارکو روبیو در نشست G20."
+    ],
+    "impact": "افزایش فشارهای سیاسی و هشدار رسمی نسبت به امنیت خطوط انتقال انرژی.",
+    "tag": "دیپلماسی",
+    "urgency": 7,
+    "sentiment": -0.6,
+    "source": "Fox News on MSN",
+    "url": "https://www.msn.com/en-us/news/other/trump-admin-threatens-iran-with-consequences-as-allies-convene-amid-threats-of-post-election-escalation/ar-AA2gsKGC",
+    "clean_url": "https://www.msn.com/en-us/news/other/trump-admin-threatens-iran-with-consequences-as-allies-convene-amid-threats-of-post-election-escalation/ar-AA2gsKGC",
+    "image": "http://www.bing.com/th?id=ONUT.llysBa7SUNY9a-VspRTkbg&pid=News",
+    "timestamp": 1793419254.0
   },
   {
     "id": "53dee046d3",
@@ -5234,150 +5381,5 @@
     "clean_url": "https://www.msn.com/en-us/news/other/iran-tells-pakistan-army-chief-no-talks-with-washington-until-demands-are-met/ar-AA2fGi9s",
     "image": "https://images.moneycontrol.com/static-mcnews/2026/09/20260929110046_Hormuz-New-10.jpg",
     "timestamp": 1792524900.0
-  },
-  {
-    "id": "758463c345",
-    "title_fa": "اتهام دخالت و تشدید ناآرامی‌های فرانسه توسط جمهوری اسلامی",
-    "title_en": "Iran accused of stoking French unrest through influence operations",
-    "summary": [
-      "گزارش تایمز از تلاش ایران و روسیه برای دامن زدن به ناآرامی‌های دانشجویی فرانسه از طریق کارزارهای سایبری و پیوند با چپ‌های افراطی.",
-      "ادعای ممانعت امانوئل مکرون از انتشار ارزیابی رسمی مداخله ایران برای جلوگیری از تنش با تهران."
-    ],
-    "impact": "افزایش فشارهای دیپلماتیک و اطلاعاتی اروپا بر شبکه‌های نفوذ وابسته به تهران در غرب.",
-    "tag": "امنیتی و دیپلماسی",
-    "urgency": 5,
-    "sentiment": -0.4,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202610200213",
-    "clean_url": "https://www.iranintl.com/en/202610200213",
-    "image": "http://www.bing.com/th?id=ONUT.0DdttmPHKUW2zA6EO7ERzg&pid=News",
-    "timestamp": 1792522800.0
-  },
-  {
-    "id": "a44f1dec27",
-    "title_fa": "شکسته شدن تابوی ساخت سلاح هسته‌ای در تهران در سایه بن‌بست جنگ",
-    "title_en": "With War In Limbo, Influential Iranian Officials Openly Call For A Nuclear Bomb",
-    "summary": [
-      "مقامات ارشد و نمایندگان مجلس ایران برخلاف گذشته و فتوای مذهبی پیشین، آشکارا خواستار دستیابی به بمب اتمی شده‌اند.",
-      "این مواضع هم‌زمان با بررسی برنامه آمریکا برای حمله احتمالی به تاسیسات عمیق زیرزمینی کلنگ‌کوه (Pickaxe Mountain) مطرح می‌شود.",
-      "یادآوری اظهارات کمال خرازی پیش از کشته‌شدن در حملات هوایی اسرائیل مبنی بر احتمال بازنگری در دکترین هسته‌ای."
-    ],
-    "impact": "تغییر علنی دکترین دفاعی تهران به سمت بازدارندگی اتمی و تشدید خطر رویارویی پیشگیرانه.",
-    "tag": "هسته‌ای",
-    "urgency": 9,
-    "sentiment": -0.6,
-    "source": "Radio Free Europe/Radio Liberty",
-    "url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
-    "clean_url": "https://www.rferl.org/a/iran-nuclear-weapon-bomb-us-war/33880169.html",
-    "image": "https://gdb.rferl.org/1fac091e-29c6-4d86-5b9e-08decd277110_cx0_cy4_cw0_w1200_h630.jpg",
-    "timestamp": 1792515780.0
-  },
-  {
-    "id": "f425ec5fe4",
-    "title_fa": "تاکید مجدد نتانیاهو بر براندازی جمهوری اسلامی به عنوان شرط امنیت اسرائیل",
-    "title_en": "Saudi, Kuwaiti FMs condemn Iran-backed Houthi attacks",
-    "summary": [
-      "نتانیاهو اتمام کار را در گرو ساقط کردن حکومت ایران دانست و آن را وعده اصلی امنیتی خود قرار داد.",
-      "هشدار نسبت به تلاش تهران برای احیای توانمندی‌های هسته‌ای و نیابتی در صورت تداوم حاکمیت کنونی."
-    ],
-    "impact": "بالا رفتن سطح هشدار راهبردی در منطقه در سایه لفاظی‌های تهاجمی سران اسرائیل.",
-    "tag": "نظامی",
-    "urgency": 7,
-    "sentiment": -0.7,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202610205722",
-    "clean_url": "https://www.iranintl.com/en/202610205722",
-    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-    "timestamp": 1792515300.0
-  },
-  {
-    "id": "848239dfbf",
-    "title_fa": "حمایت لاوروف از تهران در میانه ارزیابی منافع مسکو از بحران ایران و آمریکا",
-    "title_en": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
-    "summary": [
-      "سرگئی لاوروف وزیر خارجه روسیه حمایت خود را از موضع تهران در این بحران اعلام کرد.",
-      "تحلیل‌ها و پرسش‌ها پیرامون منافع راهبردی و جانبی مسکو از تشدید اصطکاک میان واشنگتن و تهران شدت یافته است."
-    ],
-    "impact": "استفاده مسکو از کارت تهران در چانه‌زنی‌های ژئوپلیتیک با واشنگتن در شرایط تنش منطقه‌ای.",
-    "tag": "بین‌الملل",
-    "urgency": 5,
-    "sentiment": 0.0,
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVi1HY3YwYUlka0VtT3NwLUxjZHhxUWV4X204SkpWTkloQjZndmZBZ3FFSkFTRXFHdmQzejNnX0tJT0dMQ1FPb0Y2cy1MX19ScTMxMVpZc1pTUFlPSXZQOWo3czRWV1RtT0szQjBRbkRxLVBHMDl3YU5WQVdhY1pJdElmMG8teWxjT2xiMUhkM2EwS3YzNnl3SnBNaU5lSGpoRnhvdjN4Z1dyVU1RY3pKatIBtgFBVV95cUxPd0xmNVN3Q011b1NvTUhrRlhBMEY1dUQ2Wk40T3h1VVd2eENfTVNOcmFtS0VjdFdiY3BIajBRUDl0cEdkNDhKUnpQWnozaFNnOWRBUjlYZGFlUVNkbll4YUlKWXNRYWFyaTljU2h1Y28zcHB3Nl9MT1VPd0tXZ0xrTS0wbC02SV9nYl9zNm0taDhKWGEwRzMyTUxhbTVzMlMtQ3RkWFhkSWNkRzVPNTBkZkpWSHVzdw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVi1HY3YwYUlka0VtT3NwLUxjZHhxUWV4X204SkpWTkloQjZndmZBZ3FFSkFTRXFHdmQzejNnX0tJT0dMQ1FPb0Y2cy1MX19ScTMxMVpZc1pTUFlPSXZQOWo3czRWV1RtT0szQjBRbkRxLVBHMDl3YU5WQVdhY1pJdElmMG8teWxjT2xiMUhkM2EwS3YzNnl3SnBNaU5lSGpoRnhvdjN4Z1dyVU1RY3pKatIBtgFBVV95cUxPd0xmNVN3Q011b1NvTUhrRlhBMEY1dUQ2Wk40T3h1VVd2eENfTVNOcmFtS0VjdFdiY3BIajBRUDl0cEdkNDhKUnpQWnozaFNnOWRBUjlYZGFlUVNkbll4YUlKWXNRYWFyaTljU2h1Y28zcHB3Nl9MT1VPd0tXZ0xrTS0wbC02SV9nYl9zNm0taDhKWGEwRzMyTUxhbTVzMlMtQ3RkWFhkSWNkRzVPNTBkZkpWSHVzdw",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792512744.0
-  },
-  {
-    "id": "414740b610",
-    "title_fa": "اعلام تمایل وزارت خارجه ایران به دیپلماسی هم‌زمان با رشد بهای نفت",
-    "title_en": "Iran's Foreign Ministry suggested that the country favous diplomacy, though crude benchmarks continued to move higher; GBP gains post-jobs data",
-    "summary": [
-      "وزارت امور خارجه ایران اعلام کرد در صورت وجود کوچک‌ترین شانس برای مهار تنش‌ها، از مسیر دیپلماتیک حمایت می‌کند.",
-      "با وجود سیگنال‌های دیپلماتیک تهران، شاخص‌های نفتی در بازارهای جهانی روندی صعودی را تجربه کردند."
-    ],
-    "impact": "تلاش برای ارسال سیگنال کاهش تنش در بحبوحه بی‌اعتمادی بازارهای انرژی به ثبات خاورمیانه.",
-    "tag": "دیپلماسی",
-    "urgency": 5,
-    "sentiment": 0.2,
-    "source": "China Tech News",
-    "url": "https://www.chinatechnews.com/2026/10/20/131113-irans-foreign-ministry-suggested-that-the-country-favous-diplomacy-though-crude-benchmarks-continued-to-move-higher-gbp-gains-post-jobs-data-newsquawk-us-market-open",
-    "clean_url": "https://www.chinatechnews.com/2026/10/20/131113-irans-foreign-ministry-suggested-that-the-country-favous-diplomacy-though-crude-benchmarks-continued-to-move-higher-gbp-gains-post-jobs-data-newsquawk-us-market-open",
-    "image": "https://www.chinatechnews.com/wp-content/uploads/chinatechnews-logo-1200x675-1.png",
-    "timestamp": 1792491480.0
-  },
-  {
-    "id": "f56d239063",
-    "title_fa": "خط‌ونشان مقامات تهران برای آمریکا و اسرائیل در برابر هرگونه اقدام جدید",
-    "title_en": "Iranian Officials Warn U.S. and Israel Against Further Actions",
-    "summary": [
-      "مقامات جمهوری اسلامی به ایالات متحده و اسرائیل درباره عواقب اقدامات بیشتر هشدار دادند.",
-      "تهران خطوط قرمز خود را در برابر رفتارهای آتی واشینگتن و تل‌آویو یادآور شد."
-    ],
-    "impact": "تشدید جنگ لفاظی و بازدارندگی کلامی در بحبوحه بحران نظامی منطقه.",
-    "tag": "هشدار سیاسی",
-    "urgency": 5,
-    "sentiment": -0.3,
-    "source": "WANA News Agency",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGt0UUlJQkpHNXEwUld3OFNIdmJhbmUxdFdaeWxlaVFabjZTdlBvZmxhbWJCSEk0bzltRWlTTEo3TkpOZ1NjMDNieE1BVVdGUWVoQmxFdHExbkZqREhETDhXM19wVE5YYkQ1Tk9QTlNyd3hsMFRsakNQZGtnenoyeHBCTHRaNlNR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGt0UUlJQkpHNXEwUld3OFNIdmJhbmUxdFdaeWxlaVFabjZTdlBvZmxhbWJCSEk0bzltRWlTTEo3TkpOZ1NjMDNieE1BVVdGUWVoQmxFdHExbkZqREhETDhXM19wVE5YYkQ1Tk9QTlNyd3hsMFRsakNQZGtnenoyeHBCTHRaNlNR",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792481779.0
-  },
-  {
-    "id": "a4a8e77903",
-    "title_fa": "دیدار سرزده هگست با نتانیاهو همزمان با تشدید تنش‌ها با ایران",
-    "title_en": "Hegseth Meets Netanyahu in Unannounced Israel Visit as Iran Tensions Rise",
-    "summary": [
-      "پیت هگست در سفری از پیش اعلام‌نشده وارد اسرائیل شد و با بنیامین نتانیاهو دیدار کرد.",
-      "این سفر ناگهانی در میانه اوج‌گیری تنش‌ها میان اسرائیل و جمهوری اسلامی انجام شده است."
-    ],
-    "impact": "افزایش هماهنگی‌های سطح بالای امنیتی میان واشینگتن و تل‌آویو علیه تهران.",
-    "tag": "نظامی",
-    "urgency": 7,
-    "sentiment": -0.4,
-    "source": "The Media Line",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3J4c0tOSDBqZ3k5M3A5MExXb2huMG8tV29UY3hNeE5TQV9JTl95dEp2NTMtYnlualo4b2N6QzB0WHUySm9rSEhoVjVsZEVGdXBwNnMtQThVRGxLUU53dXBpV2xzOWJ2QnZKSXZrS0FUM2J1V2VreE9GSHJUaWgzS1lvNHJ1TkJ3aDNRX3JQWEoyZU1OeWlQTTVkRGhibHlKNXlMbGdKMzJMTFVDRkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM3J4c0tOSDBqZ3k5M3A5MExXb2huMG8tV29UY3hNeE5TQV9JTl95dEp2NTMtYnlualo4b2N6QzB0WHUySm9rSEhoVjVsZEVGdXBwNnMtQThVRGxLUU53dXBpV2xzOWJ2QnZKSXZrS0FUM2J1V2VreE9GSHJUaWgzS1lvNHJ1TkJ3aDNRX3JQWEoyZU1OeWlQTTVkRGhibHlKNXlMbGdKMzJMTFVDRkE",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792480876.0
-  },
-  {
-    "id": "1da3d5a090",
-    "title_fa": "توقف مبادلات تجاری در گذرگاه‌های مرزی ایران و پاکستان و سرگردانی کامیون‌ها",
-    "title_en": "Iran-Pakistan border trade halt leaves trucks and cargo stranded",
-    "summary": [
-      "تردد تجاری از گذرگاه‌های گبد-ریمدان و تفتان از ۲۰ اکتبر متوقف شده و ناوگان باربری و محموله‌ها بلاتکلیف مانده‌اند.",
-      "اسلام‌آباد علت را تدابیر امنیتی و مقابله با قاچاق خوانده و تهران آن را ناشی از نقص فنی و اقدامات احتیاطی دانسته است."
-    ],
-    "impact": "اختلال در زنجیره تأمین مرزی و فشار کوتاه‌مدت بر تبادلات اقتصادی میان دو کشور همسایه.",
-    "tag": "تجارت",
-    "urgency": 6,
-    "sentiment": -0.4,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202610201460",
-    "clean_url": "https://www.iranintl.com/en/202610201460",
-    "image": "http://www.bing.com/th?id=ONUT.aG6AMYeHjVwmwpyU5IwBWw&pid=News",
-    "timestamp": 1792480560.0
   }
 ]
