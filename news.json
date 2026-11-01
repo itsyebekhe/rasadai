@@ -179,6 +179,25 @@
     "timestamp": 1793439840.0
   },
   {
+    "id": "6478bed89b",
+    "title_fa": "دستور مجتبی خامنه‌ای برای پاسخ «بدون محدودیت جغرافیایی» به هرگونه حمله جدید",
+    "title_en": "Iran's supreme leader orders 'geographically unrestricted' response to any enemy threat",
+    "summary": [
+      "رهبر ایران در پیامی کتبی به نیروهای مسلح دستور داد تا به هر حمله جدید بلافاصله و بدون در نظر گرفتن مرزهای جغرافیایی پاسخ دهند.",
+      "از فرماندهان نظامی خواسته شده فهرست اهداف را گسترش داده و میزان تولید تسلیحات را افزایش دهند.",
+      "این پیام در کانال تلگرامی وی و در آستانه انتخابات میان‌دوره‌ای آمریکا منتشر شده، در حالی که دونالد ترامپ احتمال حملات جدید علیه ایران را رد نکرده است."
+    ],
+    "impact": "گسترش دایره اهداف نظامی ایران و احتمال کشیده شدن درگیری‌های احتمالی به خارج از منطقه.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.8,
+    "source": "MEAWW News",
+    "url": "https://news.meaww.com/irans-supreme-leader-orders-geographically-unrestricted-response-to-any-enemy-threat",
+    "clean_url": "https://news.meaww.com/irans-supreme-leader-orders-geographically-unrestricted-response-to-any-enemy-threat",
+    "image": "http://www.bing.com/th?id=ONUT.bzRRO4_R35NTEwDt9BZb6A&pid=News",
+    "timestamp": 1793438700.0
+  },
+  {
     "id": "959d83d21e",
     "title_fa": "دستور رهبر ایران برای پاسخ نظامی فوری و بدون محدودیت جغرافیایی",
     "title_en": "Khamenei orders Iran military response without geographical limitations",
@@ -5362,23 +5381,5 @@
     "clean_url": "https://jewishinsider.com/2026/10/war-iran-israeli-elections-u-s-midterms-threats-pete-hegseth",
     "image": "http://www.bing.com/th?id=ONUT.KMWEvHXAhWFDtwkROlXThQ&pid=News",
     "timestamp": 1792539180.0
-  },
-  {
-    "id": "093e127404",
-    "title_fa": "نتانیاهو: نابودی رژیم ایران هدف اصلی و نهایی ماست",
-    "title_en": "Iran in Israeli election: Netanyahu all-in on regime change, rivals want more",
-    "summary": [
-      "بنیامین نتانیاهو در دانشگاه تل‌حی تأکید کرد تضعیف نظامی ایران برای امنیت اسرائیل کافی نیست و باید کار را با سرنگونی رژیم تمام کرد.",
-      "نتانیاهو سرنگونی جمهوری اسلامی را در آستانه انتخابات ۲۷ اکتبر به عنوان شعار و پیام محوری خود قرار داده است."
-    ],
-    "impact": "افزایش احتمال گسترش دامنه درگیری‌ها به حملات هدفمند برای تغییر رژیم در ایران.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.8,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202610200861",
-    "clean_url": "https://www.iranintl.com/en/202610200861",
-    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-    "timestamp": 1792536720.0
   }
 ]
