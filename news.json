@@ -1,5 +1,94 @@
 [
   {
+    "id": "208691d4a8",
+    "title_fa": "رصد و به‌روزرسانی روزانه قیمت بنزین در ایالت‌های آمریکا",
+    "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+    "summary": [
+      "پایش مداوم تغییرات قیمت بنزین در سطح کشوری، ایالتی و منطقه‌ای آمریکا.",
+      "ارائه نقشه‌ها و نمودارهای آماری روزانه برای بررسی نوسانات سوخت."
+    ],
+    "impact": "ارائه داده‌های اقتصادی شفاف به مصرف‌کنندگان در ایالات متحده.",
+    "tag": "اقتصادی",
+    "urgency": 3,
+    "sentiment": 0.0,
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793557790.0
+  },
+  {
+    "id": "cdc687b03a",
+    "title_fa": "مشروط شدن بازگشایی تنگه هرمز به ۷ شرط ایران و تداوم گفت‌وگوها در دوحه",
+    "title_en": "Netanyahu pressing Trump to strike Iran immediately after midterms",
+    "summary": [
+      "رضایی اعلام کرد بازگشایی تنگه هرمز منوط به پذیرش ۷ شرط ایران از سوی آمریکا است.",
+      "رایزنی‌های فشرده با میانجی‌گری قطر در دوحه در جریان است و مارکو روبیو از مفتوح بودن مسیر دیپلماتیک خبر داد."
+    ],
+    "impact": "گره خوردن امنیت ترانزیت انرژی به پاسخ نهایی آمریکا و روند گفت‌وگوهای قطر.",
+    "tag": "دیپلماسی",
+    "urgency": 7,
+    "sentiment": -0.2,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202611015366",
+    "clean_url": "https://www.iranintl.com/en/202611015366",
+    "image": "https://i.iranintl.com/images/rdk9umy0/production/e3a60a60cd0c8a47336ca0c18de0de31d854b09e-800x533.jpg?rect=0,57,800,420&w=1200&h=630&q=66&fit=max&auto=format",
+    "timestamp": 1793557500.0
+  },
+  {
+    "id": "ff002f5f3e",
+    "title_fa": "آماده‌باش دیپلمات‌ها برای بدترین سناریو در مذاکرات تنگه هرمز",
+    "title_en": "Negotiators ‘braced for worst’ over US-Iran talks to reopen strait of Hormuz",
+    "summary": [
+      "مذاکره‌کنندگان خود را برای احتمال شکست کامل گفت‌وگوهای مربوط به بازگشایی تنگه هرمز آماده می‌کنند."
+    ],
+    "impact": "تشدید بدبینی در بازارهای بین‌المللی انرژی و احتمال بن‌بست کامل سیاسی.",
+    "tag": "دیپلماسی",
+    "urgency": 7,
+    "sentiment": -0.6,
+    "source": "The Guardian",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVSR3czb2tNNE5iaEtFN0ZqWnZvczZzV3F0ZHpoMEVSdl9Jb01HOXF6U3BITmRVM3BEc3JraWl6alRYWndQR1kzdVZxZVVsNjQ3cmhLUmlpS0FGT1dxVV9tbWlHUnQyWUZvR2JLcm9oTmJpWHVKWmtiN2tLbXp6UFRJZUFXWnBIUFlCZE1fOVZ5QkYwOW1VRnAtOGl2MnhRRHpjcEtWeTl1d0JJMGpKdjEzZF9yUkNUdTFJTg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcjVSR3czb2tNNE5iaEtFN0ZqWnZvczZzV3F0ZHpoMEVSdl9Jb01HOXF6U3BITmRVM3BEc3JraWl6alRYWndQR1kzdVZxZVVsNjQ3cmhLUmlpS0FGT1dxVV9tbWlHUnQyWUZvR2JLcm9oTmJpWHVKWmtiN2tLbXp6UFRJZUFXWnBIUFlCZE1fOVZ5QkYwOW1VRnAtOGl2MnhRRHpjcEtWeTl1d0JJMGpKdjEzZF9yUkNUdTFJTg",
+    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793557500.0
+  },
+  {
+    "id": "ec917457c1",
+    "title_fa": "ارتش ایران: ترامپ تعیین‌کننده مدت زمان جنگ نخواهد بود",
+    "title_en": "Iranian army: War could be longer than previous one, Trump won’t dictate its duration",
+    "summary": [
+      "هشدار ارتش ایران درباره طولانی‌تر بودن جنگ احتمالی بعدی نسبت به درگیری‌های گذشته.",
+      "تأکید مستقیم بر اینکه دونالد ترامپ قادر به دیکته کردن مدت زمان جنگ نخواهد بود."
+    ],
+    "impact": "تشدید جنگ لفظی و پیام مستقیم بازدارندگی نظامی به واشنگتن.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.7,
+    "source": "The Times of Israel",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0lMRlVva0JjWlN1Y1JZcFloZHZ0Z1VVX1VYTWhldDVNbldlQlJDbWNfRE8zOEEzdU82R3gyZzZjZUNRVWREZ2FxM1lHemhSbUlQeXVqT1hiUHZMS3RPUHQwejZGQ18zZ294bWJSbEJvR05KSmZhcnRja3VzSC1NTldFNjl5Rm9RRjBhQkJWTVRHUFZtR1A0S3hvb0tRVzRMRG9ScTUxM1FlUVZaaW9ZbThmZ9IBuAFBVV95cUxNel80bFpSYVhEZF9MbUtDSi1vVFlGNVZqMDkzMWJlTTRVOEg3LThxTHljVU5oMjQwTzhxdXVyaWNBQlM2OThVZmw4M2VjbGp4YjQ5RHVwU3JpTzFYejM2eXhwNEFkd2FiNkk2aTNCVUhaNHFQY09rNkhySVdORWlTV0hiWnBBdERwQ3JTcWlVMkh5TTd6QUxBSnFjemxWYTltM2RFNTNwMGZLR2NBMTRPM2FLbFN6aWJS?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc0lMRlVva0JjWlN1Y1JZcFloZHZ0Z1VVX1VYTWhldDVNbldlQlJDbWNfRE8zOEEzdU82R3gyZzZjZUNRVWREZ2FxM1lHemhSbUlQeXVqT1hiUHZMS3RPUHQwejZGQ18zZ294bWJSbEJvR05KSmZhcnRja3VzSC1NTldFNjl5Rm9RRjBhQkJWTVRHUFZtR1A0S3hvb0tRVzRMRG9ScTUxM1FlUVZaaW9ZbThmZ9IBuAFBVV95cUxNel80bFpSYVhEZF9MbUtDSi1vVFlGNVZqMDkzMWJlTTRVOEg3LThxTHljVU5oMjQwTzhxdXVyaWNBQlM2OThVZmw4M2VjbGp4YjQ5RHVwU3JpTzFYejM2eXhwNEFkd2FiNkk2aTNCVUhaNHFQY09rNkhySVdORWlTV0hiWnBBdERwQ3JTcWlVMkh5TTd6QUxBSnFjemxWYTltM2RFNTNwMGZLR2NBMTRPM2FLbFN6aWJS",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793555578.0
+  },
+  {
+    "id": "8bf70a7daf",
+    "title_fa": "بررسی اهداف و زمان‌بندی آمریکا و اسرائیل برای جنگ احتمالی سوم با ایران",
+    "title_en": "US, Israeli targets, timelines, priorities for a potential third Iran war",
+    "summary": [
+      "بررسی اولویت‌ها، اهداف و زمان‌بندی راهبردی آمریکا و اسرائیل در صورت وقوع جنگ سوم با ایران.",
+      "ارزیابی گزینه‌های عملیاتی مراجع نظامی مشترک دو کشور برای تقابل با ایران."
+    ],
+    "impact": "تشدید زمینه‌سازی‌های نظامی و افزایش ریسک درگیری مستقیم در منطقه.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.6,
+    "source": "The Jerusalem Post",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNEl0U1dTYjV6dVU0c0RrTUtpeUpFYTZkeklLTEk4SDdERXFzZERKOE5RN1ktQXVYa3VlWk92UFlzUFRPSEtnTE93VHc2R1cydmU1TDNXcFdZNFNqZDVaR1VETFJDNGVEclE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hNEl0U1dTYjV6dVU0c0RrTUtpeUpFYTZkeklLTEk4SDdERXFzZERKOE5RN1ktQXVYa3VlWk92UFlzUFRPSEtnTE93VHc2R1cydmU1TDNXcFdZNFNqZDVaR1VETFJDNGVEclE",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793551903.0
+  },
+  {
     "id": "4842762ee3",
     "title_fa": "افشای عمدی ویدیوهای موساد در ایران برای تحریک موج بازداشت‌ها",
     "title_en": "Israel intentionally released footage of Mossad operatives in Iran to provoke mass arrests, ex-chief says",
@@ -70,6 +159,42 @@
     "timestamp": 1793532720.0
   },
   {
+    "id": "da7f2c0029",
+    "title_fa": "رد دیپلماسی با ایران توسط سناتور آمریکایی و فشار نتانیاهو برای حمله نظامی",
+    "title_en": "US senator says 'no deals' possible with Iran's 'radical' leadership",
+    "summary": [
+      "سناتور تیم شیخی توافق با رهبری ایران را غیرممکن دانست و خواستار نظارت و اعمال فشار نظامی شد.",
+      "نتانیاهو در حال فشار بر ترامپ برای اقدام نظامی فوری علیه ایران پس از انتخابات میان‌دوره‌ای است."
+    ],
+    "impact": "افزایش ریسک درگیری مستقیم نظامی در منطقه و انسداد مسیرهای دیپلماتیک.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.8,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202611014488",
+    "clean_url": "https://www.iranintl.com/en/202611014488",
+    "image": "http://www.bing.com/th?id=ONUT.GOBdt3lzPhrcDp70T1D_Eg&pid=News",
+    "timestamp": 1793532000.0
+  },
+  {
+    "id": "d5b991848f",
+    "title_fa": "هشدار سپاه به شناسایی اهداف جدید و آمادگی برای پاسخ موشکی",
+    "title_en": "Iran's Revolutionary Guards threaten new targets if attacks resume",
+    "summary": [
+      "سخنگوی سپاه از شناسایی اهداف جدید ملموس و ناملموس دشمن و آمادگی برای رونمایی از توانمندی‌های جدید خبر داد.",
+      "سپاه پاسداران بر ایستادگی کامل در کنار جبهه مقاومت در تمامی مراحل نبرد تاکید کرد."
+    ],
+    "impact": "گسترش بانک اهداف نظامی ایران و تقویت توان بازدارندگی منطقه‌ای.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.5,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202611013177",
+    "clean_url": "https://www.iranintl.com/en/202611013177",
+    "image": "http://www.bing.com/th?id=ONUT.DidrgPEkmANFr2llZlU-ig&pid=News",
+    "timestamp": 1793529360.0
+  },
+  {
     "id": "368fec81c1",
     "title_fa": "ترامپ: می‌توانیم ۲ سایت هسته‌ای باقی‌مانده ایران را در ۱۰ دقیقه نابود کنیم",
     "title_en": "Trump on remaining Iranian nuclear sites: 'We can do that in 10 minutes'",
@@ -86,6 +211,24 @@
     "clean_url": "https://www.clevelandjewishnews.com/jns/trump-on-remaining-iranian-nuclear-sites-we-can-do-that-in-10-minutes/article_653d8bd1-0e34-5996-8021-09fdd03f3c56.html",
     "image": "https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg?resize=600%2C315",
     "timestamp": 1793522820.0
+  },
+  {
+    "id": "431dcb2504",
+    "title_fa": "هشدار ایران درباره پاسخ بدون محدودیت جغرافیایی و احتمال حمله پیش‌دستانه",
+    "title_en": "Iran’s supreme leader warns of 'geographically unrestricted response' if US attacks again",
+    "summary": [
+      "ایران احتمال اقدام نظامی پیش‌دستانه و پاسخ بدون مرز جغرافیایی در صورت حمله مجدد آمریکا را مطرح کرد.",
+      "هم‌زمان به گام‌های مثبت در مذاکرات میانجی‌گری‌شده پیش از انتخابات میان‌دوره‌ای اشاره شده است."
+    ],
+    "impact": "افزایش حداکثری سطح هشدار نظامی در منطقه و ریسک مواجهه پیش‌دستانه.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.7,
+    "source": "Euronews on MSN",
+    "url": "https://www.msn.com/en-xl/news/other/iran-s-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again/ar-AA2gwiVQ",
+    "clean_url": "https://www.msn.com/en-xl/news/other/iran-s-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again/ar-AA2gwiVQ",
+    "image": "http://www.bing.com/th?id=ONUT.71VLccsq3trDRc0OzDczyQ&pid=News",
+    "timestamp": 1793517577.0
   },
   {
     "id": "91f22cf411",
@@ -5232,149 +5375,5 @@
     "clean_url": "https://www.iranintl.com/202610229875",
     "image": "http://www.bing.com/th?id=ONUT.1r-EUVxFMqWtFqU6RBKnLg&pid=News",
     "timestamp": 1792602000.0
-  },
-  {
-    "id": "98268cac4d",
-    "title_fa": "افشای طرح عملیات ۳ روزه و شدید آمریکا و اسرائیل علیه تاسیسات موشکی و هسته‌ای ایران",
-    "title_en": "ترامپ: جمهوری اسلامی شرورترین حکومت جهان است و اگر سلاح هسته‌ای داشت، از آن استفاده می‌کرد",
-    "summary": [
-      "برنامه‌ریزی واشینگتن و تل‌آویو برای عملیاتی کوتاه اما کوبنده به منظور وادار کردن تهران به امتیازدهی و رایزنی پیت هگست با نتانیاهو.",
-      "تاسیسات هسته‌ای و زرادخانه‌های موشکی-پهپادی به عنوان اهداف اصلی در نظر گرفته شده و پالایشگاه‌ها برای مهار بهای بنزین استثنا شده‌اند."
-    ],
-    "impact": "تمرین مانورهای هوایی مشترک بر فراز عراق و تعیین اهداف هسته‌ای و موشکی، منطقه را در آستانه آغاز یک حمله نظامی سنگین قرار داده است.",
-    "tag": "نظامی",
-    "urgency": 10,
-    "sentiment": -0.9,
-    "source": "ایران اینترنشنال",
-    "url": "https://www.iranintl.com/202610224827",
-    "clean_url": "https://www.iranintl.com/202610224827",
-    "image": "http://www.bing.com/th?id=ONUT.4EIepv5TMcbRW3Ouo0tixg&pid=News",
-    "timestamp": 1792602000.0
-  },
-  {
-    "id": "69facc87e7",
-    "title_fa": "سپاه پاسداران در تدارک رونمایی از «پدر همه بمب‌ها»",
-    "title_en": "Iran’s Revolutionary Guards say preparing to unveil ‘father of all bombs’",
-    "summary": [
-      "سپاه پاسداران انقلاب اسلامی از آمادگی برای معرفی یک بمب فوق‌سنگین خبر داد.",
-      "این سلاح تحت عنوان «پدر همه بمب‌ها» معرفی و رونمایی خواهد شد."
-    ],
-    "impact": "تلاش برای ارتقای بازدارندگی نظامی و نمایش توان تخریبی سنگین.",
-    "tag": "نظامی",
-    "urgency": 7,
-    "sentiment": -0.4,
-    "source": "Anadolu Ajansı",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1JJZmRnakszOVhDRkdFWUlDSjBUUUhVUlk4QnQ5eHQ1WnIxc3pRTGFQeGZ4MVdDd2ZDUjdsaXJkVm1yME9HdzZORHlLckdKYzh3RnF6TmdqRUlGZWowdFFIVkhuMjhQY1ZaeUVNcG9VejRhS3ZIeVNqMURUQkpSOHM4VEpjQlJRYURtZE1jem5JbjNJLU5haHVKdjlmUHMyN2ZDUUQzcTZtbzAwVFdzRGNrSzFvVkJj?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ1JJZmRnakszOVhDRkdFWUlDSjBUUUhVUlk4QnQ5eHQ1WnIxc3pRTGFQeGZ4MVdDd2ZDUjdsaXJkVm1yME9HdzZORHlLckdKYzh3RnF6TmdqRUlGZWowdFFIVkhuMjhQY1ZaeUVNcG9VejRhS3ZIeVNqMURUQkpSOHM4VEpjQlJRYURtZE1jem5JbjNJLU5haHVKdjlmUHMyN2ZDUUQzcTZtbzAwVFdzRGNrSzFvVkJj",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792589275.0
-  },
-  {
-    "id": "bedd00c6f3",
-    "title_fa": "تغییر رهبران در انتخابات اسرائیل؛ سیاست جنگی علیه ایران دست‌نخورده باقی می‌ماند",
-    "title_en": "Israel's election may change its leader, but not Iran war policy",
-    "summary": [
-      "احتمال جابه‌جایی نخست‌وزیر و رهبران سیاسی در پی انتخابات سراسری در اسرائیل.",
-      "ثبات کامل خط‌مشی نظامی و تداوم استراتژی جنگی تل‌آویو در قبال ایران بدون توجه به نتیجه انتخابات."
-    ],
-    "impact": "تغییر دولت در اسرائیل هیچ‌گونه تغییری در محاسبات و رویکرد تهاجمی نظامی تل‌آویو علیه تهران ایجاد نخواهد کرد.",
-    "tag": "نظامی",
-    "urgency": 7,
-    "sentiment": -0.5,
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZm1ibWE2TFE3M0JlejZpUkp2aHJkY1NBTFRUR2tvaVV5dmtrbkFjbTlYMGM5WkpOTUp6MXFka3pyX1FGeUthY1NlS25oamJ6R1kzdjR2NHJIWWJDay1VWm00WmJkNjhnWlBwNFp0RDhvdnBZbjMyZHNabGZPSjFhbzJ0eU5lRGpvZXFaN0pXb1F0aWVveW93WWw2a0k1eFg0anJWQllTODdPaDkyejZVNVF3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZm1ibWE2TFE3M0JlejZpUkp2aHJkY1NBTFRUR2tvaVV5dmtrbkFjbTlYMGM5WkpOTUp6MXFka3pyX1FGeUthY1NlS25oamJ6R1kzdjR2NHJIWWJDay1VWm00WmJkNjhnWlBwNFp0RDhvdnBZbjMyZHNabGZPSjFhbzJ0eU5lRGpvZXFaN0pXb1F0aWVveW93WWw2a0k1eFg0anJWQllTODdPaDkyejZVNVF3",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792588983.0
-  },
-  {
-    "id": "3bb1c6eaa1",
-    "title_fa": "آمادگی ایران با سلاح‌ها و تاکتیک‌های جدید برای جنگ احتمالی با آمریکا و اسرائیل",
-    "title_en": "Iran prepares new weapons, tactics for possible US-Israel war",
-    "summary": [
-      "ایران در حال آماده‌سازی تسلیحات و تاکتیک‌های نوین عملیاتی است.",
-      "این اقدامات با هدف مقابله با سناریوی درگیری احتمالی با آمریکا و اسرائیل انجام می‌شود."
-    ],
-    "impact": "افزایش سطح آمادگی دفاعی و تهاجمی ایران در صورت بروز درگیری مستقیم منطقه‌ای.",
-    "tag": "نظامی",
-    "urgency": 7,
-    "sentiment": -0.6,
-    "source": "The New Arab",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzFFczZXaWoyWFpQT3RJelI5NzRQdnNVUW5BQXJ6NXpJWG9RSGdYZEpEMjA3eGtLYjZ3MGVhQ0lIM19SZ21XQ2dfb1VqQmhhQ190SHNYZjNfX3RuTlF5aDZOS0MxOXJHR2I3QVgwQWdlV3lNNE5VSnhLQmVUTWRud01SbzAxUHdWX2x3Y2xn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUzFFczZXaWoyWFpQT3RJelI5NzRQdnNVUW5BQXJ6NXpJWG9RSGdYZEpEMjA3eGtLYjZ3MGVhQ0lIM19SZ21XQ2dfb1VqQmhhQ190SHNYZjNfX3RuTlF5aDZOS0MxOXJHR2I3QVgwQWdlV3lNNE5VSnhLQmVUTWRud01SbzAxUHdWX2x3Y2xn",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792588955.0
-  },
-  {
-    "id": "478731a3a6",
-    "title_fa": "وقوع انفجارهای مشکوک در سیریک هرمزگان همزمان با تحریم‌های تازه خزانه‌داری آمریکا",
-    "title_en": "Explosions reported in southern Iran's Sirik, cause unknown",
-    "summary": [
-      "گزارش منابع خبری از شنیده شدن صدای انفجارهایی با منشأ نامشخص در بندر سیریک واقع در استان هرمزگان.",
-      "تحریم چهار شرکت از جمله شرکت حقوقی کارناکیس در پاناما و یونان تحت کارزار «طرد اقتصادی» اسکات بسنت برای بستن شریان‌های مالی تهران."
-    ],
-    "impact": "همزمانی رویدادهای امنیتی در نوار ساحلی جنوب با تشدید تحریم‌های شبکه ثبت و خدمات کشتی‌رانی، فشارهای میدانی و اقتصادی بر ایران را عمیق‌تر می‌کند.",
-    "tag": "امنیتی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202610211399",
-    "clean_url": "https://www.iranintl.com/en/202610211399",
-    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-    "timestamp": 1792586220.0
-  },
-  {
-    "id": "bf84c1f07b",
-    "title_fa": "پافشاری تهران بر عدم بازگشایی تنگه هرمز و حفظ غنی‌سازی همزمان با رایزنی‌های دیپلماتیک",
-    "title_en": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
-    "summary": [
-      "سفر عاصم منیر، فرمانده ارتش پاکستان به تهران برای رایزنی درباره جنگ و تنش‌های یمن در میانه تلاش‌های دیپلماتیک منطقه‌ای.",
-      "تاکید قاطع تهران بر ادامه مواضع تا زمان پذیرش شروط ایران از سوی آمریکا و خودداری از بازگشایی تنگه هرمز و کوتاه آمدن در پرونده هسته‌ای."
-    ],
-    "impact": "تداوم انسداد تنگه هرمز و بن‌بست دیپلماتیک به رغم رفت‌وآمدهای منطقه‌ای، خطر تشدید تنش‌های نظامی و نفتی را در سطح بالایی نگه می‌دارد.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.6,
-    "source": "Al Jazeera",
-    "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings",
-    "clean_url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings",
-    "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ad8b1a00e1a8-1792586144.jpg?resize=1920%2C1440",
-    "timestamp": 1792583880.0
-  },
-  {
-    "id": "d85e69984e",
-    "title_fa": "حاشیه‌نشینی و انزوای اتحادیه اروپا در مذاکرات صلح اوکراین",
-    "title_en": "EU frustrated over exclusion from Ukraine negotiations — Finnish politician",
-    "summary": [
-      "سیاستمدار فنلاندی اتحادیه اروپا را متهم کرد که از مذاکرات صلح کنار گذاشته شده و چاره‌ای جز تماشای اقدامات آمریکا ندارد.",
-      "درحالی‌که آمریکا توافق بازسازی ۸۰۰ میلیارد دلاری اوکراین را مدنظر دارد، اروپا همچنان بر تشدید تحریم‌های روسیه و ارسال سلاح پافشاری می‌کند."
-    ],
-    "impact": "تضعیف نفوذ سیاسی و راهبردی اتحادیه اروپا در معادلات بین‌المللی جنگ اوکراین.",
-    "tag": "دیپلماسی",
-    "urgency": 5,
-    "sentiment": -0.4,
-    "source": "TASS Russian News Agency",
-    "url": "https://tass.com/world/2205419",
-    "clean_url": "https://tass.com/world/2205419",
-    "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
-    "timestamp": 1792583460.0
-  },
-  {
-    "id": "e5e4638ff0",
-    "title_fa": "پزشکیان در دیدار فرمانده ارتش پاکستان: پیش از لغو تحریم‌ها هیچ مذاکره‌ای با آمریکا در کار نیست",
-    "title_en": "Iran's President Says No Talks Until the US Lifts Sanctions. So Who's Dictating Terms?",
-    "summary": [
-      "رئیس‌جمهور ایران در گفتگو با عاصم منیر شرط ورود به مذاکرات صلح با دولت ترامپ را توقف فشارها و لغو عملی تحریم‌ها عنوان کرد.",
-      "پزشکیان منشأ بحران‌های منطقه‌ای و اختلال در تنگه هرمز را جنگ‌افروزی ایالات متحده دانست و خواستار پاسخگویی واشینگتن شد."
-    ],
-    "impact": "رد هرگونه گفت‌وگوی مستقیم پیش از رفع تحریم‌ها، چشم‌انداز دستیابی به توافق سیاسی میان تهران و دولت ترامپ را تا اطلاع ثانوی مسدود می‌سازد.",
-    "tag": "دیپلماسی",
-    "urgency": 6,
-    "sentiment": -0.4,
-    "source": "Townhall",
-    "url": "https://townhall.com/news/jeff-charles/2026/10/21/irans-president-says-no-talks-until-the-us-lifts-sanctions-so-whos-dictating-terms-n2685091",
-    "clean_url": "https://townhall.com/news/jeff-charles/2026/10/21/irans-president-says-no-talks-until-the-us-lifts-sanctions-so-whos-dictating-terms-n2685091",
-    "image": "https://media.townhall.com/cdn/hodl/2026/59/0b1bb793-3bac-452d-adaf-e005f1896b5b-1200x630.jpg",
-    "timestamp": 1792574040.0
   }
 ]
