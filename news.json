@@ -1,5 +1,59 @@
 [
   {
+    "id": "667ab38b66",
+    "title_fa": "انتخابات میان‌دوره‌ای آمریکا زیر سایه جنگ با ایران و تورم",
+    "title_en": "Midterm elections coming to a close as voters pass judgment on Trump’s second term",
+    "summary": [
+      "رأی‌دهندگان آمریکایی خشمگین از تورم بالا و جنگ نامحبوب با ایران، در انتخابی که همه‌پرسی دوره دوم ترامپ محسوب می‌شود به پای صندوق‌ها می‌روند.",
+      "دموکرات‌ها امیدوارند عدم تحقق وعده‌های ترامپ درباره کاهش هزینه‌ها، موجب کاهش مشارکت جمهوری‌خواهان و پیروزی آن‌ها شود."
+    ],
+    "impact": "احتمال تغییر موازنه قدرت در کنگره آمریکا و تمایل بیشتر واشنگتن به پایان دادن به جنگ با ایران.",
+    "tag": "سیاسی",
+    "urgency": 6,
+    "sentiment": -0.5,
+    "source": "The Virginian-Pilot",
+    "url": "https://www.pilotonline.com/2026/11/03/2026-election-midterm-results-updates/",
+    "clean_url": "https://www.pilotonline.com/2026/11/03/2026-election-midterm-results-updates",
+    "image": "https://www.pilotonline.com/wp-content/uploads/2026/11/Election_2_26_Early_Voting_Alaska_41752-1.jpg?w=2000&h=1333",
+    "timestamp": 1793655240.0
+  },
+  {
+    "id": "961bab95ac",
+    "title_fa": "نخستین مورد مرگ بر اثر سرخک در ایالت نیویورک پس از ۳۰ سال",
+    "title_en": "Child in New York dies after contracting measles, the state’s first such death in 30 years",
+    "summary": [
+      "مقامات بهداشتی از جان باختن یک کودک در شهرستان لوئیس به دلیل ابتلا به بیماری سرخک خبر دادند.",
+      "این حادثه نخستین مورد فوت ناشی از سرخک در ایالت نیویورک طی سه دهه گذشته است."
+    ],
+    "impact": "ایجاد نگرانی در سیستم بهداشت عمومی آمریکا نسبت به شیوع مجدد بیماری‌های قابل پیشگیری.",
+    "tag": "بهداشت",
+    "urgency": 4,
+    "sentiment": -0.6,
+    "source": "CNN on MSN",
+    "url": "https://www.msn.com/en-us/news/other/child-in-new-york-dies-after-contracting-measles-the-state-s-first-such-death-in-30-years/ar-AA2gBYXG",
+    "clean_url": "https://www.msn.com/en-us/news/other/child-in-new-york-dies-after-contracting-measles-the-state-s-first-such-death-in-30-years/ar-AA2gBYXG",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793652248.0
+  },
+  {
+    "id": "780704c6f2",
+    "title_fa": "حمله نظامی آمریکا به مواضع ایران در جزیره قشم",
+    "title_en": "U.S. launches defensive strikes at Iranian targets near Strait of Hormuz",
+    "summary": [
+      "ارتش آمریکا در پاسخ به شلیک سپاه پاسداران به یک فروند هواپیمای آمریکایی، حملات دفاعی محدودی را علیه مواضع ایران در جزیره قشم انجام داد.",
+      "این حملات در آستانه انتخابات میان‌دوره‌ای انجام شد؛ در حالی که ترامپ موضع متناقضی میان حمله گسترده و دستیابی به توافق اتخاذ کرده است."
+    ],
+    "impact": "تشدید بی‌سابقه درگیری مستقیم نظامی میان ایران و آمریکا در تنگه هرمز و به مخاطره افتادن مذاکرات دیپلماتیک.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.8,
+    "source": "CBS News",
+    "url": "https://www.cbsnews.com/news/u-s-strikes-iran-targets/",
+    "clean_url": "https://www.cbsnews.com/news/u-s-strikes-iran-targets",
+    "image": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/11/01/19a77fa7-b6a4-4c7c-a08d-0bdf60a7a166/thumbnail/1200x630/bc931c02b7f44ba01b63cda263c1bb2c/wn-thumb-1031.jpg",
+    "timestamp": 1793649000.0
+  },
+  {
     "id": "fa797809ac",
     "title_fa": "توقف مذاکرات قطر و موضع دوگانه ترامپ؛ نتانیاهو خواهان ازسرگیری حملات است",
     "title_en": "Iran says \"ball is in the U.S. court\" on any deal to end the war",
@@ -33,6 +87,42 @@
     "clean_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZDhDMmNsQ2tpZmxyZnVvc0tXTmstOUlXRWxWSHh4ZG8wTV95VlVDc29MemRtbVNGSXQzRHU5SFAtOTBMOW9hRXVQa0VPanRCWmloOUFFVF9jU1RiNmpEU2xIdHNqZHpKeFRvN0R3UC1JWE1OU2NkS1hxLXk3c3hpTndoOHJXTVZXZHpjV1JWTDUxZE5pd3hveGFQeWhmMHI3VGhjZkpUNl9RSE53MzQ4bk1DbjFaeHJfdlE2YmFOVGY0TFYtR00tV9IBzgFBVV95cUxOdXRFVVVob2hRQUlFWUZOVW9TTktGdWFPLUUxRkEyVjdSRnN4dlozbmdqaG1YTTRzVENmcmtnSXY2ellxU21YeV9NUHNEUUdqd3pYYjBSMjVWUlcwcnMyQkhlU09HbnJrMkFtVk96MzktdzNsdDlSUW1lUDJBRTk5UTJCVTlsa2MxaWY1bWdpd2puWmdsXzNHSnI4VDJoY1dUZkEwekVNZFp0Vnl2TVdpRWJBZ1oxWkJGUm1XMEJUZFRpWi1lbDl0Q1Rnb2ZpUQ",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1793635338.0
+  },
+  {
+    "id": "a197730170",
+    "title_fa": "تقابل نهایی ترامپ و دموکرات‌ها در آخرین ساعات پیش از انتخابات",
+    "title_en": "Reflecting Pool vs the state of the economy: Trump and Dems clash in closing messages",
+    "summary": [
+      "دموکرات‌ها بر وضعیت اقتصادی تمرکز کرده‌اند، در حالی که ترامپ با مانور روی پروژه‌های عمرانی واشنگتن، رقبای خود را رادیکال‌های خطرناک خواند.",
+      "دیوان عالی درخواست دولت ترامپ برای کنار گذاشتن برخی آرای پستی کالیفرنیا را رد کرد و ترامپ ادعای احتمال تقلب در آلاسکا را مطرح نمود."
+    ],
+    "impact": "تعیین ساختار قدرت در دو سال پایانی ریاست‌جمهوری ترامپ و افزایش تشکیک در سلامت انتخابات.",
+    "tag": "سیاسی",
+    "urgency": 5,
+    "sentiment": -0.3,
+    "source": "Los Angeles Daily News",
+    "url": "https://www.dailynews.com/2026/11/02/election-2026-midterms-final-message/",
+    "clean_url": "https://www.dailynews.com/2026/11/02/election-2026-midterms-final-message",
+    "image": "https://www.dailynews.com/wp-content/uploads/2026/11/Trump_41554.jpg?w=1999&h=1333",
+    "timestamp": 1793634600.0
+  },
+  {
+    "id": "f43c90a047",
+    "title_fa": "حمله رئیس دیوان کیفری بین‌المللی به تحریم‌های دولت ترامپ",
+    "title_en": "ICC president hits back at Trump administration penalties in remote UN address",
+    "summary": [
+      "رئیس دیوان کیفری بین‌المللی (ICC) در سخنرانی سازمان ملل، ترامپ را به موانع‌تراشی در مسیر عدالت بین‌المللی متهم کرد.",
+      "وی تأکید کرد که این دادگاه در برابر تحریم‌ها و فشارهای واشنگتن تسلیم نخواهد شد."
+    ],
+    "impact": "تعمیق تقابل حقوقی و دیپلماتیک ایالات متحده با نهادهای قضایی بین‌المللی.",
+    "tag": "بین‌الملل",
+    "urgency": 5,
+    "sentiment": -0.4,
+    "source": "Associated Press News",
+    "url": "https://apnews.com/article/un-us-icc-trump-sanctions-international-justice-6ebdd7a7e5c66f0fbd29ef30d9b34785",
+    "clean_url": "https://apnews.com/article/un-us-icc-trump-sanctions-international-justice-6ebdd7a7e5c66f0fbd29ef30d9b34785",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793633580.0
   },
   {
     "id": "f31a86d425",
@@ -5283,95 +5373,5 @@
     "clean_url": "https://www.yahoo.com/news/articles/iran-says-indirect-talks-u-135034480.html",
     "image": "https://s.yimg.com/lo/mysterio/api/ef8951a8003397c8350512ba11453ecd604a2181805be76e13c491634954a863/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https://media.zenfs.com/en/cbs_news_897/6d670596acfaa900fd2c0ad43ed9528d.jpg",
     "timestamp": 1792710540.0
-  },
-  {
-    "id": "ed81596b1e",
-    "title_fa": "برنامه‌ریزی واشنگتن و تل‌آویو برای حملات پس از انتخابات به ایران",
-    "title_en": "US and Israel drawing up plans to resume attacks on Iran post-election, sources say - ABC News",
-    "summary": [
-      "منابع خبری اعلام کردند ایالات متحده و اسرائیل در حال تدوین طرح‌هایی برای ازسرگیری حملات نظامی به ایران پس از برگزاری انتخابات هستند."
-    ],
-    "impact": "افزایش احتمال موج جدید حملات سنگین نظامی علیه ایران در میان‌مدت.",
-    "tag": "نظامی",
-    "urgency": 9,
-    "sentiment": -0.7,
-    "source": "ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19fS1N5MG9ScWZka1NXVEM3S1NoUlBSTURnR09nR3Y5SGIxRFFpRktHNHZXeElmbzFPcTBkMUdNNXE5MG01aWhRVmhKSTVGZVcwZVBNRWxHTGxQc1JpQWZBRnBLNTVPWkoyRnFIZkxSTnI0SktYRGQ5dlh2aWxhSWhOVVlMVjktd1hHak1PV19HbXpyNS0waGRfVXXSAaIBQVVfeXFMUGJ0OE81VjRRZ1dhN1gtLVd2d2szU19XZzRNREJQdWV6OG1mRUhtQ0JTWXZYc3Jqa0FOdkFoWTF3b19JMEx3YW9XYkJRbXRlVHkxcWpPbWx3bVVydFBySV9yMW9tVFZRVWljYUNXeEEwNXMzSWJmeEdwdTZwaHh6VG52alZDQ3dmcU5NTXE4MWk1V0w4ZHMzX2FkNXUydndhTktR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd19fS1N5MG9ScWZka1NXVEM3S1NoUlBSTURnR09nR3Y5SGIxRFFpRktHNHZXeElmbzFPcTBkMUdNNXE5MG01aWhRVmhKSTVGZVcwZVBNRWxHTGxQc1JpQWZBRnBLNTVPWkoyRnFIZkxSTnI0SktYRGQ5dlh2aWxhSWhOVVlMVjktd1hHak1PV19HbXpyNS0waGRfVXXSAaIBQVVfeXFMUGJ0OE81VjRRZ1dhN1gtLVd2d2szU19XZzRNREJQdWV6OG1mRUhtQ0JTWXZYc3Jqa0FOdkFoWTF3b19JMEx3YW9XYkJRbXRlVHkxcWpPbWx3bVVydFBySV9yMW9tVFZRVWljYUNXeEEwNXMzSWJmeEdwdTZwaHh6VG52alZDQ3dmcU5NTXE4MWk1V0w4ZHMzX2FkNXUydndhTktR",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792702689.0
-  },
-  {
-    "id": "378bd965f9",
-    "title_fa": "تحلیلگر کارنگی: نگاه چین به ایران معامله‌محور است و تا پای جان از تهران دفاع نمی‌کند",
-    "title_en": "China values Iran but won't pay any price to defend it",
-    "summary": [
-      "به گفته تونگ ژائو، پژوهشگر ارشد اندیشکده کارنگی، چین روابط خود با ایران را صرفاً معامله‌محور می‌داند و تعهدی برای دفاع از حکومت ایران ندارد.",
-      "همکاری پکن و تهران به‌جای همبستگی ایدئولوژیک، بر پایه امنیت انرژی، منافع اقتصادی و محاسبات ژئوپلیتیکی برپا شده است."
-    ],
-    "impact": "کاهش اتکای استراتژیک تهران به پشتیبانی همه‌جانبه چین در مواجهه با فشارهای بین‌المللی.",
-    "tag": "ژئوپلیتیک",
-    "urgency": 5,
-    "sentiment": -0.4,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202610227980",
-    "clean_url": "https://www.iranintl.com/en/202610227980",
-    "image": "https://i.iranintl.com/images/rdk9umy0/production/6f3798ebe979e7bf3db87f8c98e80fd88e44d61f-1024x768.jpg?rect=58,137,869,456&w=1200&h=630&q=66&fit=max&auto=format",
-    "timestamp": 1792698900.0
-  },
-  {
-    "id": "4ee194fb31",
-    "title_fa": "ارزیابی تاب‌آوری پایگاه‌های زیرزمینی ایران نظیر عقاب ۴۴ تا سال ۲۰۳۱",
-    "title_en": "Iran's Underground Military Resilience: Eagle 44",
-    "summary": [
-      "بررسی زیرساخت‌های نظامی حفاظت‌شده و توانایی ایران در بازسازی قدرت رزم دفاعی.",
-      "تحلیل پیامدهای راهبردی زیرساخت‌های زیرزمینی ایران بر امنیت خاورمیانه و اروپا."
-    ],
-    "impact": "تقویت توان بازدارندگی و حفاظت از توان رزمی ایران در برابر حملات موشکی و هوایی.",
-    "tag": "نظامی",
-    "urgency": 5,
-    "sentiment": -0.1,
-    "source": "debuglies",
-    "url": "https://debuglies.com/2026/10/22/irans-underground-military-resilience-eagle-44-gulf-security-and-europes-exposure/",
-    "clean_url": "https://debuglies.com/2026/10/22/irans-underground-military-resilience-eagle-44-gulf-security-and-europes-exposure",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792698360.0
-  },
-  {
-    "id": "5bce80b657",
-    "title_fa": "طرح مشترک آمریکا و اسرائیل برای حملات جدید؛ حمله مرگبار به فرودگاه دمام",
-    "title_en": "US Iran War Live Updates: Trump, Israel Draw Up Plan to Restart Strikes on Iran, Says Report",
-    "summary": [
-      "بر اساس گزارش‌ها، آمریکا و اسرائیل در حال تنظیم برنامه‌ای برای ازسرگیری حملات تازه به ایران هستند.",
-      "دونالد ترامپ تاکید کرد جنگ به‌زودی پایان می‌یابد اما باید مانع بازسازی توان هسته‌ای ایران شد.",
-      "حمله به فرودگاه بین‌المللی ملک فهد در دمام عربستان ۱ کشته و ۸ زخمی بر جای گذاشت."
-    ],
-    "impact": "تشدید بی‌سابقه ریسک درگیری مستقیم نظامی و تهدید امنیت زیرساخت‌های منطقه‌ای.",
-    "tag": "نظامی",
-    "urgency": 10,
-    "sentiment": -0.85,
-    "source": "Times Now",
-    "url": "https://www.timesnownews.com/world/middle-east/iranus-war-live-updates-today-world-latest-news-trump-statements-iran-ceasefire-talks-and-strait-of-hormuz-tensions-middle-east-liveblog-156382938",
-    "clean_url": "https://www.timesnownews.com/world/middle-east/iranus-war-live-updates-today-world-latest-news-trump-statements-iran-ceasefire-talks-and-strait-of-hormuz-tensions-middle-east-liveblog-156382938",
-    "image": "https://images.timesnownews.com/thumb/msid-156382938,thumbsize-1250579,width-1280,height-720,resizemode-75/156382938.jpg",
-    "timestamp": 1792693140.0
-  },
-  {
-    "id": "601ff229e5",
-    "title_fa": "سقوط بازارهای جهانی تحت تأثیر نگرانی از جنگ ایران و هزینه‌های هوش مصنوعی",
-    "title_en": "Market sell-off gains steam as concerns about Iran war and high AI spending collide",
-    "summary": [
-      "شتاب گرفتن موج فروش در بازارهای مالی جهانی به دلیل همزمانی دو بحران.",
-      "افزایش نگرانی سرمایه‌گذاران از احتمال وقوع جنگ مرتبط با ایران و هزینه‌های سنگین هوش مصنوعی."
-    ],
-    "impact": "تشدید بی‌ثباتی در بازارهای مالی و ریزش شاخص‌های سهام تحت فشار ریسک‌های ژئوپلیتیکی خاورمیانه.",
-    "tag": "اقتصاد جهانی",
-    "urgency": 6,
-    "sentiment": -0.6,
-    "source": "NBC News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1792692520.0
   }
 ]
