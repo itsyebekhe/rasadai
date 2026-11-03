@@ -105,6 +105,24 @@
     "timestamp": 1793629472.0
   },
   {
+    "id": "aa10276ae4",
+    "title_fa": "طرح دو روزه ایران برای بازگشایی تنگه هرمز و ازسرگیری مذاکرات هسته‌ای با آمریکا",
+    "title_en": "Iran has a 2-day plan to reopen strait, resume nuclear talks with US, and other Mideast news",
+    "summary": [
+      "ایران اعلام کرد که طرح بازگشایی تنگه هرمز و ازسرگیری مذاکرات هسته‌ای با ایالات متحده را از هفت روز به دو روز کاهش داده است.",
+      "این روند فشرده، نشان‌دهنده شتاب در اقدامات دیپلماتیک و کاهش محدودیت‌های عبور و مرور در تنگه هرمز است."
+    ],
+    "impact": "تسریع در بازگشایی شریان حیاتی انرژی در خلیج فارس و احیای کانال دیپلماتیک مستقیم میان تهران و واشنگتن.",
+    "tag": "دیپلماسی و نظامی",
+    "urgency": 7,
+    "sentiment": 0.3,
+    "source": "Associated Press News on MSN",
+    "url": "https://www.msn.com/en-us/news/other/iran-has-a-2-day-plan-to-reopen-strait-resume-nuclear-talks-with-us-and-other-mideast-news/ar-AA2gA0xl",
+    "clean_url": "https://www.msn.com/en-us/news/other/iran-has-a-2-day-plan-to-reopen-strait-resume-nuclear-talks-with-us-and-other-mideast-news/ar-AA2gA0xl",
+    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1793621310.0
+  },
+  {
     "id": "eee34850c0",
     "title_fa": "ادامه رایزنی‌های فشرده ایران و آمریکا؛ عراقچی: همه‌چیز به عقلانیت واشنگتن بستگی دارد",
     "title_en": "Iran says contacts with US over ending war continue",
@@ -5355,23 +5373,5 @@
     "clean_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVY4cFhVNmoxak9SOVdrbDh3NkozUkd0Wmc3YmtsWW9PWUFQWFgtb25pX2xhV2liWmxyRktLSjgwRkxLRERjaTk0Y1RyLWdFeVVHNFphUDY4aDZyVWhHdWltNnBtM0JWTTFVRXNjY2prMWZnRlJpeUFMeGxnb1VlOGlFWE5FRGNtNlpEUUtKVVFzT2J5dWc",
     "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1792692520.0
-  },
-  {
-    "id": "3cc3d47e72",
-    "title_fa": "گزارش آتلانتیک درباره «قمار ترامپ» برای پایان دادن به جنگ ایران",
-    "title_en": "Trump’s Gamble to End the Iran War",
-    "summary": [
-      "تیتر نشریه آتلانتیک به موضوع قمار و رویکرد دونالد ترامپ برای پایان بخشیدن به جنگ با ایران پرداخته است.",
-      "متن اصلی گزارش به دلیل فعال شدن پروتکل‌های امنیتی کلودفلر و مسدودسازی دسترسی، در دسترس نیست."
-    ],
-    "impact": "به دلیل مسدود بودن متن گزارش، جزئیات برنامه و تاثیرات میدانی آن در این منبع در دسترس نیست.",
-    "tag": "سیاست خارجی",
-    "urgency": 4,
-    "sentiment": 0.0,
-    "source": "The Atlantic",
-    "url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121/",
-    "clean_url": "https://www.theatlantic.com/national-security/2026/10/trump-iran-war-strikes-after-midterms/689121",
-    "image": "http://www.bing.com/th?id=ONUT.oFoViOxrU6V5I-L2vHeiFQ&pid=News",
-    "timestamp": 1792683660.0
   }
 ]
