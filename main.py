@@ -54,7 +54,8 @@ CONFIG = {
         'MARKET': 'market.json',
         'DAILY_SUMMARY': 'daily_summary.json',
         'SCHEDULE_STATE': 'schedule_state.json',
-        'EMBEDDINGS_CACHE': 'embeddings_cache.json'
+        'EMBEDDINGS_CACHE': 'embeddings_cache.json',
+        'FUTURIST_REPORT': 'futurist_report.json'
     },
     'TELEGRAM': {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'),
@@ -851,6 +852,133 @@ class IranNewsRadar:
             self._atomic_json_dump('special_reports.json', data)
         return data
 
+    def generate_futurist_forecast(self):
+        if len(self.existing_news) < 4:
+            return None
+
+        top_items = sorted(self.existing_news[:25], key=lambda x: x.get('urgency', 0), reverse=True)[:10]
+        news_block = "\n".join([
+            f"- [{i.get('tag', 'عمومی')}] {i.get('title_fa')}: {' '.join(i.get('summary', []))} | پیامد مستقیم: {i.get('impact', '')}"
+            for i in top_items
+        ])
+
+        system_prompt = (
+            "Act as a world-class Futurist, Strategic Foresight Expert, Systems Thinker, and Future Intelligence Analyst.\n"
+            "Apply multidisciplinary foresight: link geopolitical dynamics, tech shifts, macroeconomics, and sociology.\n"
+            "Rules:\n"
+            "1. Identify weak signals, systemic feedback loops, second-order consequences, and tipping points.\n"
+            "2. Challenge conventional consensus and highlight what mainstream observers overlook.\n"
+            "3. Ground assessments in empirical facts while projecting across realistic horizons (1-3y, 3-10y, wildcards).\n"
+            "4. Language: Persian (فاخر، تحلیلی، صریح و بدون کلیشه).\n\n"
+            "Output strictly a valid JSON object matching this schema:\n"
+            "{\n"
+            '  "title": "عنوان چشم‌انداز آینده‌پژوهی",\n'
+            '  "executive_insight": "مهم‌ترین جمع‌بندی راهبردی آینده",\n'
+            '  "current_reality": "واقعیت بنیادین و ساختاری امروز",\n'
+            '  "driving_forces": ["نیروی پیشران ۱", "نیروی پیشران ۲"],\n'
+            '  "weak_signals": ["سیگنال ضعیف نوظهور ۱", "سیگنال ضعیف نوظهور ۲"],\n'
+            '  "scenarios": {\n'
+            '    "baseline": {"horizon": "۱ الی ۳ سال", "description": "سناریوی پایه و روند تداوم"}, \n'
+            '    "optimistic": {"horizon": "۳ الی ۵ سال", "description": "سناریوی گشایش یا جهش مثبت"}, \n'
+            '    "pessimistic": {"horizon": "۱ الی ۳ سال", "description": "سناریوی بحران حاد یا فروپاشی ساختاری"}, \n'
+            '    "disruptive": {"horizon": "رویداد غافلگیرکننده", "description": "شوک پیش‌بینی‌نشده یا قوی سیاه"}\n'
+            '  },\n'
+            '  "second_order_consequences": ["پیامد زنجیره‌ای دوم/سوم ۱", "پیامد دوم/سوم ۲"],\n'
+            '  "winners_and_losers": {\n'
+            '    "winners": ["برندگان ساختاری و بازیگران موقعیت‌یاب"],\n'
+            '    "losers": ["نهادها یا بخش‌های در مسیر زوال"]\n'
+            '  },\n'
+            '  "strategic_opportunities": ["فرصت نامتقارن یا راهبردی ۱", "فرصت ۲"],\n'
+            '  "risks_and_uncertainties": ["ریسک نقض تحلیل ۱", "عدم‌قطعیت بنیادین"],\n'
+            '  "actionable_intelligence": ["اقدام و آمادگی عملیاتی امروز ۱", "اقدام ۲"],\n'
+            '  "indicators_to_watch": ["شاخص زودهنگام پایش ۱", "شاخص ۲"]\n'
+            "}"
+        )
+
+        user_prompt = f"رخدادها و شواهد اطلاعاتی امروز برای مدل‌سازی آینده‌پژوهی:\n{news_block}"
+        data = self._call_gemini(system_prompt, user_prompt, temperature=0.25)
+        if data:
+            self._atomic_json_dump(CONFIG['FILES']['FUTURIST_REPORT'], data)
+        return data
+
+    def send_futurist_report_to_telegram(self, report):
+        token, chat_id = CONFIG['TELEGRAM']['BOT_TOKEN'], CONFIG['TELEGRAM']['CHANNEL_ID']
+        if not token or not chat_id or not report:
+            return False
+
+        def esc(s): return html.escape(str(s or ''), quote=False)
+        tehran_now = self._get_tehran_time()
+        time_str = tehran_now.strftime("%H:%M")
+        date_str = tehran_now.strftime("%Y/%m/%d")
+
+        title = esc(report.get('title', 'چشم‌انداز و آینده‌پژوهی راهبردی'))
+        exec_insight = esc(report.get('executive_insight'))
+        weak_signals_li = "".join([f"<li>📡 {esc(s)}</li>\n" for s in report.get('weak_signals', [])])
+        second_order_li = "".join([f"<li>⚡️ {esc(c)}</li>\n" for c in report.get('second_order_consequences', [])])
+        actions_li = "".join([f"<li>🎯 {esc(a)}</li>\n" for a in report.get('actionable_intelligence', [])])
+
+        scenarios = report.get('scenarios', {})
+        scenarios_html = ""
+        for s_type, s_meta in scenarios.items():
+            s_name = {
+                'baseline': 'سناریوی مبنا',
+                'optimistic': 'سناریوی گشایش',
+                'pessimistic': 'سناریوی بحران',
+                'disruptive': 'شوک غافلگیرکننده (قوی سیاه)'
+            }.get(s_type, s_type)
+            scenarios_html += f"<p><b>🔹 {s_name} ({esc(s_meta.get('horizon', ''))}):</b> {esc(s_meta.get('description', ''))}</p>\n"
+
+        rich_html = (
+            f"<h1>🔮 آینده‌پژوهی و سناریوهای راهبردی: {title}</h1>\n"
+            f"<p>⏱ <b>زمان پایش:</b> {time_str} — {date_str} (تهران) | 🧠 <i>تحلیل‌گر هوش آینده‌پژوهی</i></p>\n<hr/>\n"
+            f"<p>💡 <b>بینش کلیدی:</b> {exec_insight}</p>\n<hr/>\n"
+            f"<h2>📡 سیگنال‌های ضعیف نوظهور</h2>\n<ul>\n{weak_signals_li}</ul>\n<hr/>\n"
+            f"<h2>🧭 ماتریس سناریوهای محتمل</h2>\n{scenarios_html}<hr/>\n"
+            f"<h2>⚡️ پیامدهای دوم و سوم</h2>\n<ul>\n{second_order_li}</ul>\n<hr/>\n"
+            f"<h2>🎯 توصیه‌های عملیاتی و هوش راهبردی</h2>\n<ul>\n{actions_li}</ul>\n"
+            f"<footer><p>📊 <a href=\"https://itsyebekhe.github.io/rasadai/\">مشاهده داشبورد رصد</a> | 🆔 @RasadAIOfficial</p></footer>\n"
+        )
+
+        reply_markup = {"inline_keyboard": [[
+            {"text": "📊 مطالعه پرونده آینده در داشبورد", "url": "https://itsyebekhe.github.io/rasadai/"},
+            {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
+        ]]}
+
+        try:
+            resp = self.scraper.post(f"https://api.telegram.org/bot{token}/sendRichMessage", json={
+                "chat_id": chat_id,
+                "rich_message": {"html": rich_html, "is_rtl": True},
+                "reply_markup": reply_markup
+            }, timeout=25)
+            if resp.status_code == 200:
+                return True
+        except Exception:
+            pass
+
+        scenarios_txt = "\n".join([
+            f"▫️ {k}: {v.get('description', '')}"
+            for k, v in scenarios.items()
+        ])
+        weak_txt = "\n".join([f"📡 {esc(s)}" for s in report.get('weak_signals', [])])
+        actions_txt = "\n".join([f"🎯 {esc(a)}" for a in report.get('actionable_intelligence', [])])
+
+        fallback = (
+            f"🔮 <b>آینده‌پژوهی و سناریوهای راهبردی: {title}</b>\n"
+            f"⏱ {time_str} — {date_str}\n\n"
+            f"💡 <b>بینش کلیدی:</b>\n{exec_insight}\n\n"
+            f"📡 <b>سیگنال‌های ضعیف:</b>\n{weak_txt}\n\n"
+            f"🧭 <b>سناریوها:</b>\n{scenarios_txt}\n\n"
+            f"🎯 <b>هوش عملیاتی:</b>\n{actions_txt}\n\n"
+            f"📊 <a href=\"https://itsyebekhe.github.io/rasadai/\">مشاهده در داشبورد</a> | 🆔 @RasadAIOfficial"
+        )
+
+        resp2 = self.scraper.post(f"https://api.telegram.org/bot{token}/sendMessage", json={
+            "chat_id": chat_id, "text": fallback, "parse_mode": "HTML",
+            "disable_web_page_preview": True, "reply_markup": reply_markup
+        }, timeout=20)
+        return resp2.status_code == 200
+
+
     # ───────────────────────── Telegram Formatting & Dispatch ─────────────────────────
 
     def send_special_report_to_telegram(self, report):
@@ -1232,6 +1360,14 @@ class IranNewsRadar:
                 blt = self.generate_scheduled_bulletin()
                 if blt and self.send_bulletin_to_telegram(blt):
                     self._mark_schedule_as_sent(b_slot)
+
+        # Strategic Foresight & Futurist Dispatch (07:00 - 11:00)
+        if 7 <= curr_hour < 11:
+            f_slot = f"futurist_report_{today_date_str}"
+            if not self._is_schedule_already_sent(f_slot):
+                f_rep = self.generate_futurist_forecast()
+                if f_rep and self.send_futurist_report_to_telegram(f_rep):
+                    self._mark_schedule_as_sent(f_slot)
 
         daily_summary = self.generate_daily_summary()
         if daily_summary:
