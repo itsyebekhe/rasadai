@@ -45,7 +45,22 @@ jobs:
           git config --global user.name "IranRadarBot"
           git config --global user.email "bot@noreply.github.com"
 
-          git add news.json market.json daily_summary.json bulletins.json special_reports.json futurist_report.json schedule_state.json embeddings_cache.json --ignore-missing
+          FILES=(
+            news.json
+            market.json
+            daily_summary.json
+            bulletins.json
+            special_reports.json
+            futurist_report.json
+            schedule_state.json
+            embeddings_cache.json
+          )
+
+          for file in "${FILES[@]}"; do
+            if [ -f "$file" ]; then
+              git add -- "$file"
+            fi
+          done
 
           if ! git diff --cached --quiet; then
             git commit -m "chore(feed): update intelligence feeds and futurist report"
