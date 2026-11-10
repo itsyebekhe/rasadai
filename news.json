@@ -1,5 +1,23 @@
 [
   {
+    "id": "2962d7f1f2",
+    "title_fa": "اعمال مجدد تحریم‌های کانادا علیه ۱۱ نهاد مرتبط با برنامه‌های هسته‌ای و موشکی ایران",
+    "title_en": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities",
+    "summary": [
+      "آنیتا آناند، وزیر امور خارجه کانادا، از بازگرداندن تحریم‌ها علیه ۱۱ نهاد ایرانی خبر داد.",
+      "علت این تحریم‌ها مشارکت این نهادها در فعالیت‌های هسته‌ای و برنامه موشک‌های بالستیک ایران اعلام شده است."
+    ],
+    "impact": "افزایش فشارهای حقوقی و بین‌المللی بر زیرساخت‌ها و نهادهای فعال در صنایع هسته‌ای و موشکی ایران.",
+    "tag": "تحریم",
+    "urgency": 7,
+    "sentiment": -0.6,
+    "source": "Reuters",
+    "url": "https://www.msn.com/en-ca/news/other/canada-reimposes-sanctions-on-11-iranian-entities-for-contributing-to-nuclear-activities/ar-AA2h83Wl",
+    "clean_url": "https://www.msn.com/en-ca/news/other/canada-reimposes-sanctions-on-11-iranian-entities-for-contributing-to-nuclear-activities/ar-AA2h83Wl",
+    "image": "https://www.reuters.com/resizer/v2/6BZQMQ7HGNPULNS2K4CAXJDOEQ.jpg?auth=e55dc49ae3c28a9edf493789afcd37d35975b3eb5dcb6c3b1e221cacbc0fe171&width=1920&quality=80",
+    "timestamp": 1794307601.0
+  },
+  {
     "id": "a2ae9d4974",
     "title_fa": "احتمال گرایش ترامپ به سیاست خارجی تهاجمی‌تر در پی پیروزی دمکرات‌ها در کنگره",
     "title_en": "A weakened Trump could mean more volatile US policy for Africa",
@@ -16,6 +34,24 @@
     "clean_url": "https://www.polity.org.za/article/a-weakened-trump-could-mean-more-volatile-us-policy-for-africa-2026-11-10",
     "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001311164_resized_donaldtrump0125bloomberg1022.jpeg",
     "timestamp": 1794302932.689284
+  },
+  {
+    "id": "96676be15c",
+    "title_fa": "هشدار هگست: آمریکا در حالت آماده‌باش کامل برای حملات جدید علیه ایران است",
+    "title_en": "Iran live updates: Hegseth says Trump 'kicked their teeth in'",
+    "summary": [
+      "پیت هگست اعلام کرد ترامپ ضربه مهلکی به ایران وارد کرده است.",
+      "وی تأکید کرد که ایالات متحده همچنان برای حملات جدید در حالت آماده‌باش کامل (locked and loaded) قرار دارد."
+    ],
+    "impact": "افزایش تنش نظامی و بالا رفتن احتمال درگیری مستقیم و تجدید حملات آمریکا.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.8,
+    "source": "ABC News on MSN",
+    "url": "https://www.msn.com/en-us/news/other/iran-live-updates-hegseth-says-trump-kicked-their-teeth-in/ar-AA2h3thB",
+    "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-hegseth-says-trump-kicked-their-teeth-in/ar-AA2h3thB",
+    "image": "http://www.bing.com/th?id=ONUT.yDT_fV1CgDcX7WCHmvxFFA&pid=News",
+    "timestamp": 1794301836.0
   },
   {
     "id": "31ffc4e939",
@@ -86,6 +122,25 @@
     "clean_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZVGlrZGdkVXQyRXBjbUdDMVliNVZPR2l1eFFud2tLMnRGSlRmbmYtbnBpVGFfX1FqRkh0WGpMbHlfT1U3WjVkR21hNnJmRFdTcndqS2F1OE5EYXM",
     "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794288805.0
+  },
+  {
+    "id": "6f7d869b65",
+    "title_fa": "سقوط ارزش دلاری حقوق معلمان و تشدید فضای امنیتی در مدارس",
+    "title_en": "فرمانده نیروی هوافضای سپاه پاسداران: در صورت ضرورت، ظرفیت‌های دشمن را زیر آتش می‌گیریم",
+    "summary": [
+      "افت ارزش دلاری میانگین حقوق معلمان از ۶۳۶ دلار به ۱۰۹ دلار طی ۱۰ سال گذشته (کاهش به حدود یک‌ششم).",
+      "گزارش‌ها از دریافتی ۳۰ تا ۴۵ میلیون تومانی معلمان باتجربه و ۲۰ میلیون تومانی تازه‌استخدامی‌ها در برابر هزینه‌های بالای زندگی.",
+      "تمرکز نشست‌های صنفی بر فشار شدید اقتصادی، نیاز معلمان به شغل دوم و تشدید فضای امنیتی و نظامی در مدارس."
+    ],
+    "impact": "افزایش فشار معیشتی بر فرهنگیان و احتمال تعمیق نارضایتی‌های اجتماعی و صنفی.",
+    "tag": "اقتصادی",
+    "urgency": 5,
+    "sentiment": -0.7,
+    "source": "iranintl",
+    "url": "https://www.iranintl.com/202611107745",
+    "clean_url": "https://www.iranintl.com/202611107745",
+    "image": "https://i.iranintl.com/images/rdk9umy0/production/3ec3e8d97fe5c918aacbdf72b6d30ebd1da975a5-800x557.jpg?rect=0,0,595,312&w=1200&h=630&q=66&fit=max&auto=format",
+    "timestamp": 1794284700.0
   },
   {
     "id": "f274ff1cc7",
@@ -5330,59 +5385,5 @@
     "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Mcl90c0FjWm1ETXFmYmZmZmZMdEZOT3hmUGpXZGN0WG1BM0ZWX18yQkhYT3Z0Uk1FOGJDOGlscThUam1hRFlaY3I3Z0tlYmFONzJ0cllhZ0VHU2Vmcktpa3MwYlprU3hMM1NyNUtTM2ViQQ",
     "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1793230295.0
-  },
-  {
-    "id": "2e04f466e1",
-    "title_fa": "افزایش هزینه‌های جنگ ایران به ۴۷ میلیارد دلار طبق برآورد ارتش آمریکا",
-    "title_en": "Iran war costs rise to $47 billion, U.S. military estimates",
-    "summary": [
-      "برآورد جدید ارتش آمریکا از هزینه‌های جنگ مرتبط با ایران",
-      "رسیدن مجموع هزینه‌های نظامی به ۴۷ میلیارد دلار"
-    ],
-    "impact": "افزایش فشارهای بودجه‌ای و چالش‌های سیاسی در پنتاگون جهت تأمین مالی عملیات‌ها.",
-    "tag": "نظامی/اقتصادی",
-    "urgency": 6,
-    "sentiment": -0.5,
-    "source": "The Washington Post",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUg3U20teGRmUGJTMVJrb29JZl9xOTU0N2tzZEVHY2xxMzVtTDZ6UmFDc01JbGhTVUlwOVZUOC1PVEQwLWpkMld4Qk1hbUZvelI2UUVSOEg5YUZYWGNfdnE2Z2xFNWYwMHN0UDRfVHE0T0ZMckp6bzRXdnIza2U1a1BPM3BjTDdKYnZ2eVhPaHR1c3NRTzlwWldmUXJjSkg2NFdUdGQwWQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQUg3U20teGRmUGJTMVJrb29JZl9xOTU0N2tzZEVHY2xxMzVtTDZ6UmFDc01JbGhTVUlwOVZUOC1PVEQwLWpkMld4Qk1hbUZvelI2UUVSOEg5YUZYWGNfdnE2Z2xFNWYwMHN0UDRfVHE0T0ZMckp6bzRXdnIza2U1a1BPM3BjTDdKYnZ2eVhPaHR1c3NRTzlwWldmUXJjSkg2NFdUdGQwWQ",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793221808.0
-  },
-  {
-    "id": "45284ddf0e",
-    "title_fa": "انتخابات بدون برنده قاطع در اسرائیل و ابهام در آینده تحولات منطقه",
-    "title_en": "Israel’s Election Had No Clear Winner. What Comes Next for the Region?",
-    "summary": [
-      "عدم پیروزی شفاف هیچ‌یک از احزاب در انتخابات سراسری اسرائیل",
-      "بررسی پیامدها و سناریوهای آتی برای خاورمیانه"
-    ],
-    "impact": "تداوم فلج سیاسی در تل‌آویو و پیچیده‌تر شدن تصمیم‌گیری‌های راهبردی در منطقه.",
-    "tag": "سیاسی/منطقه‌ای",
-    "urgency": 5,
-    "sentiment": -0.2,
-    "source": "Carnegie Endowment for International Peace",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVldqX1lrUGVGdm9MNEZYV2dmOE5zVVFHRHJ1eE96ZjhYb2VZN0NJLXRPNkFIVGwtUEhXck5ieGNOM2R2VXZ1RWxjVjBLbFQ4NXB5ZV83eWxMMFp5eElsT3o2Q20wY0pIV212VF9xM3hlNW5QVlYxOFNqN2JjY2plTTBMV2xDV1k2cnJqQkU1YVVOX2toMk5mWk5B?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVldqX1lrUGVGdm9MNEZYV2dmOE5zVVFHRHJ1eE96ZjhYb2VZN0NJLXRPNkFIVGwtUEhXck5ieGNOM2R2VXZ1RWxjVjBLbFQ4NXB5ZV83eWxMMFp5eElsT3o2Q20wY0pIV212VF9xM3hlNW5QVlYxOFNqN2JjY2plTTBMV2xDV1k2cnJqQkU1YVVOX2toMk5mWk5B",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793221200.0
-  },
-  {
-    "id": "97abf386ad",
-    "title_fa": "فشار بر ایران برای امتیازدهی هسته‌ای همزمان با تهدید حملات پس از انتخابات",
-    "title_en": "Iran pressed to make nuke concessions as massive post-midterms strikes loom",
-    "summary": [
-      "فشار بر ایران جهت دادن امتیازات هسته‌ای",
-      "احتمال وقوع حملات گسترده پس از انتخابات میان‌دوره‌ای"
-    ],
-    "impact": "افزایش چشمگیر احتمال درگیری نظامی و تشدید فشارهای بین‌المللی بر پرونده هسته‌ای ایران.",
-    "tag": "نظامی/هسته‌ای",
-    "urgency": 8,
-    "sentiment": -0.8,
-    "source": "Axios",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ORVA0cF9QdVNRYWwzaGFXNFd1UnIxdlRrOWY0YktCWjlLX05xVE5pazNfTmhIOVVDNWZCbEZGVm5nRUYtYUJjcWl4MVgxdHlvbXQ3azQ0ZkZ1c01mamNyd1ZnalpMdExnanVOdjY4NGFxZHJNTGNIQjZ1ZVpKZkE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ORVA0cF9QdVNRYWwzaGFXNFd1UnIxdlRrOWY0YktCWjlLX05xVE5pazNfTmhIOVVDNWZCbEZGVm5nRUYtYUJjcWl4MVgxdHlvbXQ3azQ0ZkZ1c01mamNyd1ZnalpMdExnanVOdjY4NGFxZHJNTGNIQjZ1ZVpKZkE",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793220058.0
   }
 ]
