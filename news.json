@@ -1,5 +1,95 @@
 [
   {
+    "id": "a0bdf09165",
+    "title_fa": "کشف توطئه عامل مرتبط با سپاه از داخل زندان آمریکا برای حمله به پایگاه هوایی در بریتانیا",
+    "title_en": "Iran-backed operative plotted attack on US aircraft in UK from prison",
+    "summary": [
+      "محمد الساعدی، تبعه دوگانه ایرانی-عراقی، از داخل زندان آمریکا و از طریق تماس‌های رمزگذاری‌شده با اقارب خود در عراق، طرح حمله به هواپیماهای نظامی آمریکا در پایگاه RAF Fairford انگلستان را هدایت می‌کرد.",
+      "طبق دادخواست دادستان‌های نیویورک، وی این عملیات را با همکاری دو همدست مرتبط با سپاه پاسداران در داخل ایران هماهنگ کرده بود که با مداخله پلیس بریتانیا ناکام ماند."
+    ],
+    "impact": "افشای تلاش‌های شبکه تابعه سپاه پاسداران برای اجرای عملیات تخریبی علیه تجهیزات نظامی آمریکا در خاک اروپا.",
+    "tag": "امنیتی",
+    "urgency": 7,
+    "sentiment": -0.6,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202611101051",
+    "clean_url": "https://www.iranintl.com/en/202611101051",
+    "image": "https://i.iranintl.com/images/rdk9umy0/production/73da0862b29a4bbe2a787a4affb556bc70eb1337-700x402.jpg?rect=0,4,700,394&w=576&h=324&q=90&fit=max&auto=format",
+    "timestamp": 1794341700.0
+  },
+  {
+    "id": "f3fa015f33",
+    "title_fa": "آتش‌سوزی و تخلیه سکوی پارس جنوبی همزمان با هشدار درباره فرسایش اقتصادی ایران",
+    "title_en": "Fire erupts at major Iranian gas platform, prompts evacuation",
+    "summary": [
+      "وقوع آتش‌سوزی در یکی از سکوهای میدان گازی پارس جنوبی با تولید روزانه ۱۴.۵ میلیون متر مکعب گاز، منجر به تخلیه کامل نیروها جهت حفظ ایمنی شد.",
+      "همزمان یک اقتصاددان ایرانی در گفتگو با روزنامه شرق هشدار داد تداوم تقابل با واشنگتن، حتی بدون فروپاشی ناگهانی، موجب فرسایش شدید اقتصاد ایران می‌شود."
+    ],
+    "impact": "اختلال موقت در بخشی از شبکه تولید انرژی ایران و ابراز نگرانی از پیامدهای طولانی‌مدت فشارهای اقتصادی آمریکا.",
+    "tag": "انرژی",
+    "urgency": 6,
+    "sentiment": -0.5,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202611100661",
+    "clean_url": "https://www.iranintl.com/en/202611100661",
+    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+    "timestamp": 1794339180.0
+  },
+  {
+    "id": "9f827185be",
+    "title_fa": "بازنشر هشدار مشاور مجتبی خامنه‌ای درباره طولانی شدن چند دهه‌ای مذاکرات و جنگ با آمریکا",
+    "title_en": "Mojtaba Khamenei aide's chilling '40 years' warning surfaces amid US push for Iran deal",
+    "summary": [
+      "در پی گزارش‌ها درباره نامه جی‌دی ونس برای ازسرگیری گفتگوها، سخنان قدیمی محسن رضایی، دبیر شورای عالی امنیت ملی و مشاور مجتبی خامنه‌ای، مجدداً بازتاب یافته است.",
+      "رضایی در این گفتگو تاکید کرده بود که مذاکرات زمان جنگ ممکن است دهه‌ها به طول بینجامد و آتش‌بس را به مثابه «جنگ ناتمام» توصیف کرده بود."
+    ],
+    "impact": "تأکید بر نگاه بدبینانه نهادهای امنیتی ایران به موضوع آتش‌بس و پایداری بر سناریوی درگیری طولانی‌مدت.",
+    "tag": "سیاست خارجی",
+    "urgency": 5,
+    "sentiment": -0.4,
+    "source": "Yahoo",
+    "url": "https://www.yahoo.com/news/politics/articles/mojtaba-khamenei-aides-chilling-40-213304875.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/mojtaba-khamenei-aides-chilling-40-213304875.html",
+    "image": "http://www.bing.com/th?id=ONUT.D5oqDITQ9vUnIQKItKuc1A&pid=News",
+    "timestamp": 1794317580.0
+  },
+  {
+    "id": "63c6db3aa5",
+    "title_fa": "اختلاف‌نظر مشاوران ارشد ترامپ میان گزینه دیپلماسی، حملات محدود و تشدید درگیری با ایران",
+    "title_en": "No Good Choices on Iran",
+    "summary": [
+      "مشاوران و دستیاران ارشد دونالد ترامپ درباره تعیین استراتژی نهایی برای پایان دادن به جنگ و مواجهه با ایران دچار دوگانگی و تقابل شده‌اند.",
+      "گزینه‌های مطرح در دولت شامل تشدید نظامی، انجام حملات محدودتر یا پیشبرد مسیرهای دیپلماتیک است."
+    ],
+    "impact": "تداوم ابهام در تصمیم‌گیری نهایی کاخ سفید برای تعیین الگوی تقابل یا تعامل با جمهوری اسلامی.",
+    "tag": "دیپلماسی",
+    "urgency": 5,
+    "sentiment": -0.2,
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
+    "clean_url": "https://www.nytimes.com/2026/11/10/world/iran-trump-war-hegseth-impeach.html",
+    "image": "http://www.bing.com/th?id=ONUT.YV4k2sBbbet7itIPinhQbQ&pid=News",
+    "timestamp": 1794315840.0
+  },
+  {
+    "id": "40d3e2793e",
+    "title_fa": "انتقاد مجدد جی‌دی ونس از اتحاد آمریکا و اسرائیل و نقش جنگ با ایران در ناکامی‌های انتخابی",
+    "title_en": "Once again, Vance declares war on Israel",
+    "summary": [
+      "جی‌دی ونس، معاون رئیس‌جمهور آمریکا، بار دیگر اتحاد با اسرائیل و جنگ با ایران را مقصر چالش‌ها و شکست‌های انتخابی جمهوری‌خواهان معرفی کرد.",
+      "وی با تکرار موضع‌گیری‌های قبلی خود، رویکرد مداخله‌گرایانه و هزینه واشنگتن در نزاع‌های خاورمیانه را زیر سؤال برده است."
+    ],
+    "impact": "تشدید شکاف‌های سیاسی درون حزبی در آمریکا در قبال میزان حمایت از اسرائیل و ورود به مناقشه مستقیم با ایران.",
+    "tag": "سیاست خارجی",
+    "urgency": 4,
+    "sentiment": -0.3,
+    "source": "Washington Examiner",
+    "url": "https://www.msn.com/en-us/news/other/once-again-vance-declares-war-on-israel/ar-AA2h7Zwj",
+    "clean_url": "https://www.msn.com/en-us/news/other/once-again-vance-declares-war-on-israel/ar-AA2h7Zwj",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794308400.0
+  },
+  {
     "id": "2962d7f1f2",
     "title_fa": "اعمال مجدد تحریم‌های کانادا علیه ۱۱ نهاد مرتبط با برنامه‌های هسته‌ای و موشکی ایران",
     "title_en": "Canada reimposes sanctions on 11 Iranian entities for contributing to nuclear activities",
@@ -5295,95 +5385,5 @@
     "clean_url": "https://indianexpress.com/article/world/us-iran-war-trump-post-midterm-strikes-vance-peace-talks-10941204",
     "image": "https://images.indianexpress.com/2026/10/TRUMP-IRAN.jpg",
     "timestamp": 1793240400.0
-  },
-  {
-    "id": "f06296f84e",
-    "title_fa": "پیچیدگی‌های تشکیل دولت جدید در اسرائیل در غیاب اکثریت مطلق در کنست",
-    "title_en": "پس از اعلام نتایج نهایی انتخابات اسرائیل چه اتفاقی می‌افتد؟",
-    "summary": [
-      "عدم دست‌یابی هیچ‌یک از ائتلاف‌های اصلی به اکثریت ۶۱ کرسی کنست، احتمال مذاکرات طولانی‌مدت یا کشیده شدن به انتخابات مجدد را افزایش داده است.",
-      "حزب لیکود به رهبری نتانیاهو با ۲۶ کرسی بزرگ‌ترین حزب است، اما تعیین مأمور تشکیل کابینه به رایزنی‌های اسحاق هرتزوگ و حمایت سایر احزاب بستگی دارد."
-    ],
-    "impact": "آغاز فرآیند چندمرحله‌ای و زمان‌بر تشکیل کابینه، اسرائیل را در مسیر رایزنی‌های فشرده سیاسی و احتمال عدم استقرار سریع دولت قرار داده است.",
-    "tag": "دیپلماسی",
-    "urgency": 4,
-    "sentiment": -0.1,
-    "source": "ایران اینترنشنال",
-    "url": "https://www.iranintl.com/202610293187",
-    "clean_url": "https://www.iranintl.com/202610293187",
-    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-    "timestamp": 1793234400.0
-  },
-  {
-    "id": "d455912372",
-    "title_fa": "انتقاد منتقدان هم‌زمان با هشت‌ماهه شدن جنگ ایران",
-    "title_en": "Iran war’s critics highlight eight-month milestone",
-    "summary": [
-      "برجسته کردن ورود جنگ ایران به هشتمین ماه خود توسط منتقدان",
-      "تداوم انتقادها نسبت به طولانی شدن روند جنگ"
-    ],
-    "impact": "افزایش فشارهای سیاسی بر تصمیم‌گیرندگان جهت مدیریت یا پایان دادن به جنگ فرسایشی.",
-    "tag": "سیاسی",
-    "urgency": 6,
-    "sentiment": -0.5,
-    "source": "Roll Call",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWdFSDRxUHlYVGpMR3U5X0s4ZkNyYjVtTks2cGF1YlQtZ3lBZEVvNmJWc0FTUjRlWG5XUEN0QVctTHdvXzFraVRzc3RESnpvN2RzNzNCRExSSG1TMTRIbjdNMXBtVkxTek5LNDdkSHR0YmlIZWZYX0V5MVBtWWlyT3JHOXRpejFxUHc?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUWdFSDRxUHlYVGpMR3U5X0s4ZkNyYjVtTks2cGF1YlQtZ3lBZEVvNmJWc0FTUjRlWG5XUEN0QVctTHdvXzFraVRzc3RESnpvN2RzNzNCRExSSG1TMTRIbjdNMXBtVkxTek5LNDdkSHR0YmlIZWZYX0V5MVBtWWlyT3JHOXRpejFxUHc",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793233690.0
-  },
-  {
-    "id": "d6d8a05dec",
-    "title_fa": "هشدار آمریکا به متحدان در مورد حمله به ایران و پاسخ تلافی‌جویانه",
-    "title_en": "US warns allies to prepare for possible Iran strikes, retaliation after elections, AP sources say",
-    "summary": [
-      "هشدار آمریکا به متحدان برای آمادگی در برابر حملات احتمالی به ایران پس از انتخابات",
-      "پیش‌بینی وقوع اقدامات تلافی‌جویانه از سوی ایران"
-    ],
-    "impact": "افزایش احتمال درگیری مستقیم نظامی و پاسخ‌های متقابل در سطح منطقه.",
-    "tag": "نظامی",
-    "urgency": 9,
-    "sentiment": -0.8,
-    "source": "AP News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjBaT3BqdnFQYS1UeUNSUWJLTUljTWt3NnBfQkxBUmtGMUVYSXNCaEFBc1djNkhnZXl2SnFHTDNXZ2taRzlVc0FPSmVmb1k2WG45clBiMVdWQ3lYRFRtWTA5Zk5ySGdjcnBJNzBhNFJDQU5iRWlsSXYwMWRpTW1jRlBGVzgxYTJuanlYc3d5dkRDaFoycnBLVWIydFY",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793233260.0
-  },
-  {
-    "id": "1862058810",
-    "title_fa": "بررسی گزینه‌های حمله جدید توسط ترامپ و تاکید تهران بر عدم تسلیم",
-    "title_en": "As Trump mulls fresh strikes after midterms, Vance writes to Iran, Tehran says won't surrender",
-    "summary": [
-      "بررسی احتمال حملات جدید علیه ایران توسط دونالد ترامپ پس از انتخابات میان‌دوره‌ای آمریکا.",
-      "ارسال نامه از سوی جی‌دی ونس به ایران و موضع تهران مبنی بر عدم تسلیم در برابر فشارها."
-    ],
-    "impact": "افزایش احتمال تشدید درگیری‌های مستقیم نظامی پس از برگزاری انتخابات آمریکا.",
-    "tag": "نظامی",
-    "urgency": 7,
-    "sentiment": -0.7,
-    "source": "The Times of India on MSN",
-    "url": "https://www.msn.com/en-in/news/world/as-trump-mulls-fresh-strikes-after-midterms-vance-writes-to-iran-tehran-says-wont-surrender/ar-AA2gj5kS",
-    "clean_url": "https://www.msn.com/en-in/news/world/as-trump-mulls-fresh-strikes-after-midterms-vance-writes-to-iran-tehran-says-wont-surrender/ar-AA2gj5kS",
-    "image": "http://www.bing.com/th?id=ONUT.hIxvsUYwFtcoaabzvIO6_w&pid=News",
-    "timestamp": 1793230380.0
-  },
-  {
-    "id": "9543d78be3",
-    "title_fa": "تاکید ونس بر ضرورت گنجاندن برنامه هسته‌ای در مذاکرات با ایران",
-    "title_en": "Vance tells top Iranian official negotiations must address nuclear program",
-    "summary": [
-      "پیام ونس به مقام ارشد ایرانی درباره شرط اصلی مذاکرات",
-      "الزام پوشش دادن برنامه هسته‌ای ایران در جریان گفت‌وگوها"
-    ],
-    "impact": "سخت‌تر شدن چارچوب مذاکرات دیپلماتیک و تمرکز مستقیم بر پرونده هسته‌ای.",
-    "tag": "دیپلماسی",
-    "urgency": 5,
-    "sentiment": -0.2,
-    "source": "Axios",
-    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Mcl90c0FjWm1ETXFmYmZmZmZMdEZOT3hmUGpXZGN0WG1BM0ZWX18yQkhYT3Z0Uk1FOGJDOGlscThUam1hRFlaY3I3Z0tlYmFONzJ0cllhZ0VHU2Vmcktpa3MwYlprU3hMM1NyNUtTM2ViQQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Mcl90c0FjWm1ETXFmYmZmZmZMdEZOT3hmUGpXZGN0WG1BM0ZWX18yQkhYT3Z0Uk1FOGJDOGlscThUam1hRFlaY3I3Z0tlYmFONzJ0cllhZ0VHU2Vmcktpa3MwYlprU3hMM1NyNUtTM2ViQQ",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793230295.0
   }
 ]
