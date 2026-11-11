@@ -1,5 +1,149 @@
 [
   {
+    "id": "6843fa9ac1",
+    "title_fa": "تلاش واشنگتن برای پنهان‌سازی و سانسور تصاویر ماهواره‌ای از دید افکار عمومی",
+    "title_en": "What We Lose When Satellite Images Go Dark",
+    "summary": [
+      "دولت آمریکا مانع از انتشار و دسترسی عمومی به تصاویر ماهواره‌ای مشخصی از فضا می‌شود.",
+      "نگرانی‌ها درباره تبعات امنیتی و اطلاعاتی پنهان‌ماندن داده‌های فضایی افزایش یافته است."
+    ],
+    "impact": "محدود شدن شفافیت اطلاعاتی درباره تحولات حساس میدان نبرد برای رسانه‌ها و تحلیلگران.",
+    "tag": "امنیتی",
+    "urgency": 4,
+    "sentiment": -0.3,
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/video/opinion/100000011242544/what-we-lose-when-satellite-images-go-dark.html",
+    "clean_url": "https://www.nytimes.com/video/opinion/100000011242544/what-we-lose-when-satellite-images-go-dark.html",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794392966.2027118
+  },
+  {
+    "id": "dee06fb71d",
+    "title_fa": "محدودسازی تصاویر ماهواره‌ای نظارت بر جنگ‌ها توسط دولت آمریکا",
+    "title_en": "Satellite Imagery Is Being Restricted. The U.S. Government Is to Blame.",
+    "summary": [
+      "دولت ایالات متحده در تلاش است تا دسترسی عمومی و پژوهشگران به تصاویر ماهواره‌ای فضایی را سانسور کند.",
+      "اولی بالینگر، پژوهشگر داده‌باز (OSINT)، هشدار داده که این اقدام مانع از رصد مستقل درگیری‌های بین‌المللی می‌شود."
+    ],
+    "impact": "ایجاد اختلال در تحلیل‌های مستقل رسانه‌ای و راستی‌آزمایی تحرکات نظامی در نقاط جنگی.",
+    "tag": "امنیتی",
+    "urgency": 4,
+    "sentiment": -0.3,
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
+    "clean_url": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
+    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794392966.2026596
+  },
+  {
+    "id": "fd668e1ba3",
+    "title_fa": "انتقال بسنت به پایگاه نظامی در پی تهدیدهای جانی ایران",
+    "title_en": "Bessent relocates from D.C.-area home to military base after Iran threatens to kill him, reports say",
+    "summary": [
+      "گزارش‌ها حاکی از انتقال اسکات بسنت از منزلش در منطقه واشنگتن به یک پایگاه نظامی است.",
+      "این اقدام حفاظتی پس از تهدید مستقیم جمهوری اسلامی به قتل وی صورت گرفته است."
+    ],
+    "impact": "تشدید تدابیر امنیتی پیرامون مقامات ارشد دولت آمریکا به دلیل تهدیدات جانی مستقیم از سوی تهران.",
+    "tag": "امنیتی",
+    "urgency": 8,
+    "sentiment": -0.6,
+    "source": "CBS News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm9tazhKTnpORkdUS2hjRHVxNGJ1SVZQTGlLU1JPZVh2RFY5M2JSMEFpN2NKZ3BHbEc2UmZxbFE1TDg2MTEyd3pqeFVuRHI3dWR4T05UNzdPcWxfRnRoQkNJd05OYUMyTUMzNWlkd3FsX05WeFFHRUtYUWdCX21HN0JHc1g3RXVkUTJqYjdxSlYwZUhYNTBHR3Iwc0ozQVU?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm9tazhKTnpORkdUS2hjRHVxNGJ1SVZQTGlLU1JPZVh2RFY5M2JSMEFpN2NKZ3BHbEc2UmZxbFE1TDg2MTEyd3pqeFVuRHI3dWR4T05UNzdPcWxfRnRoQkNJd05OYUMyTUMzNWlkd3FsX05WeFFHRUtYUWdCX21HN0JHc1g3RXVkUTJqYjdxSlYwZUhYNTBHR3Iwc0ozQVU",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794388980.0
+  },
+  {
+    "id": "ffb3fecbe5",
+    "title_fa": "صعود دوباره قیمت جهانی نفت در پی عدم‌قطعیت جنگ ایران و آمریکا",
+    "title_en": "Oil Rebounds After Two-Day Drop on U.S.-Iran Conflict Uncertainty",
+    "summary": [
+      "قیمت نفت خام پس از دو روز کاهش، مجدداً روند صعودی خود را از سر گرفت.",
+      "نااطمینانی حاکم بر آینده مناقشه نظامی میان ایران و ایالات متحده عامل اصلی رشد دوباره قیمت‌ها بوده است."
+    ],
+    "impact": "بازگشت ریسک‌گریزی به بازارهای انرژی و حساسیت شدید زنجیره تأمین سوخت به تنش‌های میدانی.",
+    "tag": "نفت",
+    "urgency": 6,
+    "sentiment": -0.2,
+    "source": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWlUN29aYldzSEZmOWV5Yi1pNEIxY2F1d1Y2TFU1S2dGZGo3V1Y1bE9NR0VJT2ZiU2RQUDl2S1l1Y2Zid05VT2p5VUJFS3d3UjhuVzR2NkUza3MtUmdyd1NsVVBWeHJrWVB0cUNFNENTYmczdTJRNmdLOHJqeExOUF9acTE0NXYxQzRnNzEyUmh1NlZSc19wRzRR?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWlUN29aYldzSEZmOWV5Yi1pNEIxY2F1d1Y2TFU1S2dGZGo3V1Y1bE9NR0VJT2ZiU2RQUDl2S1l1Y2Zid05VT2p5VUJFS3d3UjhuVzR2NkUza3MtUmdyd1NsVVBWeHJrWVB0cUNFNENTYmczdTJRNmdLOHJqeExOUF9acTE0NXYxQzRnNzEyUmh1NlZSc19wRzRR",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794388020.0
+  },
+  {
+    "id": "0343dfc0bd",
+    "title_fa": "تکذیب مذاکره با آمریکا؛ هرمز تا تحقق شروط بسته می‌ماند",
+    "title_en": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
+    "summary": [
+      "ایران هرگونه مذاکره جاری با ایالات متحده آمریکا را به طور رسمی تکذیب کرد.",
+      "تهران هشدار داد که تنگه هرمز تا زمان تحقق کامل مطالباتش همچنان مسدود خواهد ماند."
+    ],
+    "impact": "تداوم بحران در شریان انتقال انرژی جهان و افزایش ریسک برخورد مستقیم نظامی در خلیج فارس.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.7,
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjE0dVFENk1CX2NnRnVSUEtzYzVDWlpBVlFvMnlNMnV5SjBncHJNcFI4WmRjNmdJWGtwXzJ6aUtYOUs4Ynl1bVUzVm5TWXFxNGxfSzRtaEY0czhyRTFSVU1mN3NqNW1BWm1WT1dCS2dZbEVTQ0hBcGRsM05RUWVQRGNUVHF1ZGhHOUZNVGVqR19keHFTUzJ3V0JwMnpFWF9uWDBYV2l3M01SN01ROFc2bzJHZUt1TjjSAbwBQVVfeXFMUDJtWTM5WXEtX3NDM0RkOG1ZVjE3RXVRYnRQNm5feHhKb0VJaXlLMjdPcjBCa1NzMkIySmk2a1hRMmwybS1SWG13RzNxLUtVZF9mQV9QYlB4cGxWcDVUbUFjVXdvcHo4THhtN2NIU01lUEYtUzVPdzRNcXIyWlBYM09QR0FsNzJUMUpBRGxaYUpQbl84bjNseUp6bWU1cFM2aUpvaUU5UnVJYXY0b1QybnBaX21OdWM2M3AtZ0w?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjE0dVFENk1CX2NnRnVSUEtzYzVDWlpBVlFvMnlNMnV5SjBncHJNcFI4WmRjNmdJWGtwXzJ6aUtYOUs4Ynl1bVUzVm5TWXFxNGxfSzRtaEY0czhyRTFSVU1mN3NqNW1BWm1WT1dCS2dZbEVTQ0hBcGRsM05RUWVQRGNUVHF1ZGhHOUZNVGVqR19keHFTUzJ3V0JwMnpFWF9uWDBYV2l3M01SN01ROFc2bzJHZUt1TjjSAbwBQVVfeXFMUDJtWTM5WXEtX3NDM0RkOG1ZVjE3RXVRYnRQNm5feHhKb0VJaXlLMjdPcjBCa1NzMkIySmk2a1hRMmwybS1SWG13RzNxLUtVZF9mQV9QYlB4cGxWcDVUbUFjVXdvcHo4THhtN2NIU01lUEYtUzVPdzRNcXIyWlBYM09QR0FsNzJUMUpBRGxaYUpQbl84bjNseUp6bWU1cFM2aUpvaUU5UnVJYXY0b1QybnBaX21OdWM2M3AtZ0w",
+    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794386250.0
+  },
+  {
+    "id": "6e197ab4d7",
+    "title_fa": "نتانیاهو: تغییر رژیم تنها راه رفع تهدید هسته‌ای ایران است",
+    "title_en": "Netanyahu: Regime Change Is the Only Way to Eliminate Iran’s Nuclear Threat",
+    "summary": [
+      "بنیامین نتانیاهو تأکید کرد که مهار برنامه اتمی ایران تنها از طریق تغییر ساختار سیاسی حاکم ممکن خواهد بود.",
+      "موضع‌گیری صریح نخست‌وزیر اسرائیل بر تمرکز راهبرد تل‌آویو جهت سرنگونی نظام جمهوری اسلامی دلالت دارد."
+    ],
+    "impact": "تغییر رسمی هدف راهبردی اسرائیل از بازدارندگی اتمی به تغییر حکومت در تهران.",
+    "tag": "امنیتی",
+    "urgency": 8,
+    "sentiment": -0.5,
+    "source": "IranWire",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmhOeVhVRHluMVJZVG16SmRnOURQaThHWFJqNERydzFncmx4YVh5S0V3QVg1RG8yak82Zk5nOURNR1dSVlFxUEk5OVpueFhhSlMzakN2WWdvcmZfU0NSbmp6bTJUNWdkYUxZUUppZHViazhVbGhEU3AxalNoM0ctMWx0dVpPQXpmXzlLVGtjcTlFZk1tS1d0OHlMR0h5bmtNTjJISEhuMEdDX1dJelYw?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmhOeVhVRHluMVJZVG16SmRnOURQaThHWFJqNERydzFncmx4YVh5S0V3QVg1RG8yak82Zk5nOURNR1dSVlFxUEk5OVpueFhhSlMzakN2WWdvcmZfU0NSbmp6bTJUNWdkYUxZUUppZHViazhVbGhEU3AxalNoM0ctMWx0dVpPQXpmXzlLVGtjcTlFZk1tS1d0OHlMR0h5bmtNTjJISEhuMEdDX1dJelYw",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794384697.0
+  },
+  {
+    "id": "3ea6b3681b",
+    "title_fa": "تحلیل رویترز: توقف جنگ با ایران برای ترامپ به اندازه حملات نظامی جدید پرهزینه است",
+    "title_en": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes",
+    "summary": [
+      "یادداشت تحلیلی رویترز تأکید می‌کند که وقفه دونالد ترامپ در اقدام نظامی علیه ایران عواقبی سنگین دارد.",
+      "هزینه‌های راهبردی ناشی از مکث در جنگ با تبعات آغاز موج جدید حملات برابر ارزیابی شده است."
+    ],
+    "impact": "افزایش فشارهای سیاسی و رسانه‌ای بر دولت ترامپ جهت تعیین تکلیف راهبرد نظامی در قبال ایران.",
+    "tag": "سیاسی",
+    "urgency": 7,
+    "sentiment": -0.4,
+    "source": "Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794380400.0
+  },
+  {
+    "id": "911e339d60",
+    "title_fa": "انتقال وزیر خزانه‌داری آمریکا به پایگاه نظامی در پی تهدیدات؛ هشدار ایران به واشنگتن و تل‌آویو",
+    "title_en": "US-Iran war live | US Treasury chief Scott Bessent relocates to military base amid Iran threats; home address exposed",
+    "summary": [
+      "اسکات بسنت، وزیر خزانه‌داری آمریکا، در پی تهدیدات ایران و افشای آدرس محل سکونتش به یک پایگاه نظامی منتقل شد.",
+      "ایران به واشنگتن و تل‌آویو هشدار مستقیم داده که هرگونه تهاجم نظامی مجدد با ضرباتی بسیار مرگبارتر پاسخ داده خواهد شد."
+    ],
+    "impact": "تشدید سطح تدابیر امنیتی برای مقامات ارشد آمریکا و ارتقای احتمال تبادل آتش مستقیم منطقه‌ای.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.7,
+    "source": "Hindustan Times on MSN",
+    "url": "https://www.msn.com/en-in/news/world/us-iran-war-live-us-treasury-chief-scott-bessent-relocates-to-military-base-amid-iran-threats-home-address-exposed/ar-AA2hb5lH",
+    "clean_url": "https://www.msn.com/en-in/news/world/us-iran-war-live-us-treasury-chief-scott-bessent-relocates-to-military-base-amid-iran-threats-home-address-exposed/ar-AA2hb5lH",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794360292.0
+  },
+  {
     "id": "a0bdf09165",
     "title_fa": "کشف توطئه عامل مرتبط با سپاه از داخل زندان آمریکا برای حمله به پایگاه هوایی در بریتانیا",
     "title_en": "Iran-backed operative plotted attack on US aircraft in UK from prison",
@@ -34,6 +178,25 @@
     "clean_url": "https://www.iranintl.com/en/202611100661",
     "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
     "timestamp": 1794339180.0
+  },
+  {
+    "id": "e08529649a",
+    "title_fa": "فشار برای ساخت بمب هسته‌ای هم‌زمان با تهدیدات نظامی ترامپ",
+    "title_en": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+    "summary": [
+      "ایران اعلام کرد تعهدات ان‌پی‌تی را تعلیق نکرده، اما بازرسی‌های بین‌المللی فعلاً دور از دسترس است.",
+      "پس از حملات آمریکا و اسرائیل به تأسیسات اتمی و ترور رهبران ارشد، گفتمان تولید سلاح هسته‌ای در تهران شدت یافته است.",
+      "تهدیدهای دونالد ترامپ برای حمله به تأسیسات زیرزمینی کوه کلنگ نطنز، انگیزه جناح تندرو برای تغییر دکترین هسته‌ای را تقویت کرده است."
+    ],
+    "impact": "افزایش احتمال خروج نهایی ایران از پیمان منع اشاعه و پیشروی مستقیم به سمت تولید سلاح اتمی.",
+    "tag": "هسته‌ای",
+    "urgency": 9,
+    "sentiment": -0.6,
+    "source": "Al Jazeera · via Yahoo News",
+    "url": "https://www.yahoo.com/news/politics/articles/iran-backs-nuclear-treaty-even-173507838.html",
+    "clean_url": "https://www.yahoo.com/news/politics/articles/iran-backs-nuclear-treaty-even-173507838.html",
+    "image": "https://media.zenfs.com/en/al_jazeera_289/da0e7efafab2151886f95498874702df.jpg",
+    "timestamp": 1794331731.0
   },
   {
     "id": "9f827185be",
@@ -5220,170 +5383,5 @@
     "clean_url": "https://www.samaa.tv/2087359306-iran-seeks-4-day-peace-deal-as-us-talks-move-to-turkey",
     "image": "https://images.samaa.tv/images/Iran-and-United-States.jpg",
     "timestamp": 1793274420.0
-  },
-  {
-    "id": "57d4cb13b5",
-    "title_fa": "چراغ سبز ترامپ به ونس برای ارسال نامه به محسن رضایی و ازسرگیری مذاکرات",
-    "title_en": "Iranian army official says adversaries failed to achieve aims in wars",
-    "summary": [
-      "ترامپ تایید کرد که ونس برای تماس با مقامات ایرانی جهت اقلام پزشکی موافقت او را جلب کرده است.",
-      "وال‌استریت ژورنال از ارسال نامه ونس به محسن رضایی، دبیر شورای عالی امنیت ملی ایران، برای شروع مجدد گفتگوهای هسته‌ای خبر داد.",
-      "تلاش‌های دیپلماتیک قطر برای جلوگیری از درگیری در حالی در جریان است که آمریکا و اسرائیل برای حملات احتمالی پس از انتخابات ۳ نوامبر آماده می‌شوند."
-    ],
-    "impact": "شکل‌گیری کانال دیپلماتیک پشت‌پردهمگام با افزایش احتمال حملات نظامی پس از انتخابات آمریکا.",
-    "tag": "دیپلماسی و نظامی",
-    "urgency": 7,
-    "sentiment": 0.1,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202610291049",
-    "clean_url": "https://www.iranintl.com/en/202610291049",
-    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
-    "timestamp": 1793269740.0
-  },
-  {
-    "id": "222b93c9fc",
-    "title_fa": "سه راهی هسته‌ای تهران پس از حمله نظامی آمریکا به زیرساخت‌ها",
-    "title_en": "Dismantle, weaponize, or rebuild: Why the Iran nuclear threat isn't going away",
-    "summary": [
-      "ایالات متحده طی یک سال دوبار برای تخریب زیرساخت‌های هسته‌ای ایران از نیروی نظامی استفاده کرده که منجر به کاهش شدید ظرفیت غنی‌سازی شده است.",
-      "این حملات دانش فنی و انگیزه سیاسی ایران را از بین نبرده اما شکست استراتژی حضور در آستانه هسته‌ای را آشکار کرده است.",
-      "تهران اکنون باید بین سه گزینه انتخاب کند: انحلال برنامه هسته‌ای، نظامی‌سازی (ساخت سلاح) یا بازسازی ظرفیت‌های گذشته."
-    ],
-    "impact": "احتمال تغییر استراتژی ایران به سمت ساخت سلاح هسته‌ای در پاسخ به حملات نظامی آمریکا.",
-    "tag": "هسته‌ای",
-    "urgency": 8,
-    "sentiment": -0.6,
-    "source": "Bulletin of the Atomic Scientists",
-    "url": "https://thebulletin.org/2026/10/dismantle-weaponize-or-rebuild-why-the-iran-nuclear-threat-isnt-going-away/",
-    "clean_url": "https://thebulletin.org/2026/10/dismantle-weaponize-or-rebuild-why-the-iran-nuclear-threat-isnt-going-away",
-    "image": "https://thebulletin.org/wp-content/uploads/2026/10/Masoud-Pezeshkian-IAEO-2.png.webp",
-    "timestamp": 1793267940.0
-  },
-  {
-    "id": "3b07a5518c",
-    "title_fa": "فاجعه ریلی در اسپانیا؛ حداقل ۶۸ کشته در مرگبارترین حادثه قطار اروپا از ۲۰۱۳",
-    "title_en": "At least 68 people dead in Spain's second major train crash this year",
-    "summary": [
-      "برخورد قطار سریع‌السیر به یک قطار متوقف‌شده در جنوب مادرید دست‌کم ۶۸ کشته بر جای گذاشت.",
-      "علت حادثه خطای انسانی در صدور مجوز حرکت به‌رغم فعال بودن چراغ قرمز و نقص سیستم ارتباطات کامپیوتری اعلام شد.",
-      "پدرو سانچز، نخست‌وزیر اسپانیا، با اعلام عزای عمومی، وعده تحقیقات کامل و برخورد با خطاهای احتمالی را داد."
-    ],
-    "impact": "توقف خطوط ریلی زیرساختی در اسپانیا و آغاز تحقیقات گسترده ملی درباره زیرساخت‌های ایمنی حمل‌ونقل.",
-    "tag": "حوادث",
-    "urgency": 5,
-    "sentiment": -0.85,
-    "source": "Ariana News",
-    "url": "https://www.ariananews.af/at-least-68-people-dead-in-spains-second-major-train-crash-this-year/",
-    "clean_url": "https://www.ariananews.af/at-least-68-people-dead-in-spains-second-major-train-crash-this-year",
-    "image": "https://www.ariananews.af/wp-content/uploads/2026/10/Train-crash.jpg",
-    "timestamp": 1793258460.0
-  },
-  {
-    "id": "6450b1f680",
-    "title_fa": "ادعای ارتش ایران مبنی بر سرنگونی پهپاد MQ-1 در شرق تنگه هرمز",
-    "title_en": "Iran’s army says it downed MQ-1 drone east of Strait of Hormuz",
-    "summary": [
-      "ارتش جمهوری اسلامی ایران اعلام کرد یک فروند پهپاد از نوع MQ-1 را سرنگون کرده است.",
-      "محل وقوع این حادثه در مناطق شرقی تنگه هرمز گزارش شده است."
-    ],
-    "impact": "افزایش مخاطرات امنیتی و تشدید تنش‌های نظامی در خطوط مواصلاتی و استراتژیک تنگه هرمز.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.6,
-    "source": "Anadolu Ajansı",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeV9oUjY2QjF0RkVjMVFZYnc0UDhvZ3pTS2FIalA2aE9OWjFRb1RLbUFTN1pMT0JoV2hRYkMxd1hpY1BRUndiX1I2UXBta1RsQTItaFFWejhCQWJSdEZ5aEpwTlVzVEEyeW1CWWxWcU5OenNiZVh4dk55UlZVTm9mMzJWaGJPMW1fTUowNlMzYUcwMnpoaC1EUldYNTJzWVJBLVYxY3dMTFg1Z1E?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeV9oUjY2QjF0RkVjMVFZYnc0UDhvZ3pTS2FIalA2aE9OWjFRb1RLbUFTN1pMT0JoV2hRYkMxd1hpY1BRUndiX1I2UXBta1RsQTItaFFWejhCQWJSdEZ5aEpwTlVzVEEyeW1CWWxWcU5OenNiZVh4dk55UlZVTm9mMzJWaGJPMW1fTUowNlMzYUcwMnpoaC1EUldYNTJzWVJBLVYxY3dMTFg1Z1E",
-    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793255836.0
-  },
-  {
-    "id": "0c8fb0e5de",
-    "title_fa": "تماس معاون ترامپ با مقام ارشد امنیتی ایران برای احیای مذاکرات صلح",
-    "title_en": "Vance reportedly contacted top Iran security official in bid to restart peace talks",
-    "summary": [
-      "ارتباط گزارش‌شده جی‌دی ونس با مقام عالی امنیتی ایران جهت تلاش برای ازسرگیری گفتگوهای صلح."
-    ],
-    "impact": "تلاش سطح بالا برای کاهش تنش‌ها و جلوگیری از بروز مناقشه نظامی جدید در منطقه.",
-    "tag": "دیپلماسی",
-    "urgency": 5,
-    "sentiment": 0.3,
-    "source": "The Times of Israel",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU94Q29pdUFIbXY3Y1V4aUh3RFNiTG5OdkpYYzJUeFQwb2tkTGtCQUlXM2RwdGVTbjJMMEk1NWhTdWZudHZwMWhUa2cyMHJNUjhQVm5fR0hYdGtGczdLcVFXc3FnZEoyaVhiMXlfN0dvNFJTSjNtY3BUOEc5N1FjdTJyUzhLbHF1TXhybUZlcTlnaUEwV2I4OXhsLVJMY3Y4d2pzUm1CeDJid04zT3RZS21ZOE7SAboBQVVfeXFMTjFmLVc3S2kzdFh0Y2doM0FwSHZDWmZwbnNhVEVZbmtXWXkyMWdGdE5JbllmVXVfWHo0ekpsWFdkcmdrX3hiWGo5YVVkU2x1Y29VX255Skx1UHFLb3dNOGFrQ1lldzlWZEFnQ2U1dFFlSlJhdGtTQ1hqbFhTYnRKVnhLdUdiV2ZHa3dwWEg2Z1ZqTGtvYUYxLVdhWHhsVjhOcmF2bHROa0JDc0NkX0JPTl92ZXhZbTJPN3VR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU94Q29pdUFIbXY3Y1V4aUh3RFNiTG5OdkpYYzJUeFQwb2tkTGtCQUlXM2RwdGVTbjJMMEk1NWhTdWZudHZwMWhUa2cyMHJNUjhQVm5fR0hYdGtGczdLcVFXc3FnZEoyaVhiMXlfN0dvNFJTSjNtY3BUOEc5N1FjdTJyUzhLbHF1TXhybUZlcTlnaUEwV2I4OXhsLVJMY3Y4d2pzUm1CeDJid04zT3RZS21ZOE7SAboBQVVfeXFMTjFmLVc3S2kzdFh0Y2doM0FwSHZDWmZwbnNhVEVZbmtXWXkyMWdGdE5JbllmVXVfWHo0ekpsWFdkcmdrX3hiWGo5YVVkU2x1Y29VX255Skx1UHFLb3dNOGFrQ1lldzlWZEFnQ2U1dFFlSlJhdGtTQ1hqbFhTYnRKVnhLdUdiV2ZHa3dwWEg2Z1ZqTGtvYUYxLVdhWHhsVjhOcmF2bHROa0JDc0NkX0JPTl92ZXhZbTJPN3VR",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793255625.0
-  },
-  {
-    "id": "77f8358d7b",
-    "title_fa": "پیشتازی دموکرات‌ها در نظرسنجی‌های سنا و تحقیقات جنجالی در آلاسکا",
-    "title_en": "US latest news",
-    "summary": [
-      "طبق نظرسنجی جدید سی‌ان‌ان، نامزدهای دموکرات در رقابت‌های مجلس سنا در ایالت‌های تگزاس و میشیگان پیشتازند.",
-      "آغاز تحقیقات در خصوص کمپین انتخاباتی پلتیلا در آلاسکا موجب اعتراض شدید جمهوری‌خواهان شده است."
-    ],
-    "impact": "افزایش فشارهای سیاسی بر جمهوری‌خواهان در آستانه رقابت‌های حساس مجلس سنا.",
-    "tag": "سیاست داخلی آمریکا",
-    "urgency": 3,
-    "sentiment": -0.2,
-    "source": "The Guardian",
-    "url": "https://www.theguardian.com/us-news",
-    "clean_url": "https://www.theguardian.com/us-news",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793253600.0
-  },
-  {
-    "id": "fd062dd34f",
-    "title_fa": "ارسال نامه جی‌دی ونس به محسن رضایی برای آغاز مذاکرات مستقیم",
-    "title_en": "Iran peace proposals multiply ahead of US midterms: Can diplomacy avert a fresh war?",
-    "summary": [
-      "ارسال نامه جی‌دی ونس به محسن رضایی، دبیر شورای عالی امنیت ملی ایران، از طریق میانجی‌های قطری و با تایید دونالد ترامپ.",
-      "پیشنهاد مذاکره مستقیم و بدون پیش‌شرط توسط ونس، همراه با تاکید واشنگتن بر قرار گرفتن برنامه هسته‌ای در دستور کار.",
-      "وجود مانع‌های اصلی شامل بازرسی‌های هسته‌ای، لغو تحریم‌ها و امنیت منطقه‌ای در آستانه انتخابات ۳ نوامبر آمریکا."
-    ],
-    "impact": "ایجاد کانال ارتباطی دیپلماتیک جدید میان واشنگتن و تهران برای جلوگیری از وقوع جنگ جدید.",
-    "tag": "دیپلماسی",
-    "urgency": 6,
-    "sentiment": 0.2,
-    "source": "The Week",
-    "url": "https://www.theweek.in/news/middle-east/2026/10/29/us-iran-diplomatic-efforts-us-midterm-polls.html",
-    "clean_url": "https://www.theweek.in/news/middle-east/2026/10/29/us-iran-diplomatic-efforts-us-midterm-polls.html",
-    "image": "https://img.theweek.in/content/dam/week/news/world/images/2025/trump-mojtaba.jpg",
-    "timestamp": 1793251440.0
-  },
-  {
-    "id": "9b828443a6",
-    "title_fa": "باز ماندن مسیر حمله به ایران پس از رای‌گیری در اسرائیل",
-    "title_en": "Israel vote leaves door open to Iran attack",
-    "summary": [
-      "نتایج رای‌گیری اخیر در اسرائیل، دست این کشور را برای حمله احتمالی به ایران باز گذاشته است."
-    ],
-    "impact": "تداوم و افزایش ریسک اقدام نظامی مستقیم اسرائیل علیه مواضع و زیرساخت‌های ایران.",
-    "tag": "نظامی",
-    "urgency": 7,
-    "sentiment": -0.8,
-    "source": "Financial Times",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPclExdndUblNPem1VbXVhY093WGtoRkNqaHBYd25leDl0SXZMRi1VcDkyVTNKLW0yODFsUWVjQW54WjhRSTlwbTB5ZkRPUmxVQWJSYS01a3Bjdk9SaVpsX0FQOXpEekZwMkpYRGRiVy1qeU5GMHRIUlE4UFhhbE9qLVpzNFU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPclExdndUblNPem1VbXVhY093WGtoRkNqaHBYd25leDl0SXZMRi1VcDkyVTNKLW0yODFsUWVjQW54WjhRSTlwbTB5ZkRPUmxVQWJSYS01a3Bjdk9SaVpsX0FQOXpEekZwMkpYRGRiVy1qeU5GMHRIUlE4UFhhbE9qLVpzNFU",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793250156.0
-  },
-  {
-    "id": "d51a0a1471",
-    "title_fa": "هشدار ترامپ درباره جنگ شدید و کوتاه با ایران همزمان با تماس جی‌دی ونس",
-    "title_en": "Trump warns Gulf states to prepare for 'possible short, intense renewal of Iran war' after US midterms: Report",
-    "summary": [
-      "ترامپ به کشورهای خلیج فارس هشدار داده تا برای احتمال ازسرگیری کوتاه اما شدید جنگ با ایران پس از انتخابات آماده شوند.",
-      "برنامه‌ریزی ترامپ برای حمله احتمالی به زیرساخت‌ها و سایت‌های هسته‌ای ایران پس از انتخابات آمریکا.",
-      "گزارش‌ها از تماس جی‌دی ونس با رئیس دستگاه امنیتی ایران برای احیای گفت‌وگوهای صلح حکایت دارد."
-    ],
-    "impact": "افزایش احتمال درگیری مستقیم نظامی گسترده علیه زیرساخت‌های ایران پس از انتخابات آمریکا.",
-    "tag": "نظامی",
-    "urgency": 9,
-    "sentiment": -0.7,
-    "source": "The Indian Express",
-    "url": "https://indianexpress.com/article/world/us-iran-war-trump-post-midterm-strikes-vance-peace-talks-10941204/",
-    "clean_url": "https://indianexpress.com/article/world/us-iran-war-trump-post-midterm-strikes-vance-peace-talks-10941204",
-    "image": "https://images.indianexpress.com/2026/10/TRUMP-IRAN.jpg",
-    "timestamp": 1793240400.0
   }
 ]
