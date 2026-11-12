@@ -1,5 +1,93 @@
 [
   {
+    "id": "63d115fae7",
+    "title_fa": "بحران سیاسی و بن‌بست در تشکیل دولت جدید اسرائیل",
+    "title_en": "Even after the elections, Israel waits for change",
+    "summary": [
+      "سوگند اعضای بیست‌وششمین کنست اسرائیل در پی نتایج نامشخص انتخابات ۲۷ اکتبر انجام شد.",
+      "ائتلاف نتانیاهو با ۵۳ کرسی و ائتلاف اپوزیسیون به رهبری گادی آیزنکوت با ۴۸ کرسی، هیچ‌کدام موفق به کسب اکثریت قاطع نشدند."
+    ],
+    "impact": "تداوم بی‌ثباتی سیاسی و عدم قطعیت در تصمیم‌گیری‌های کلان تل‌آویو.",
+    "tag": "سیاسی",
+    "urgency": 5,
+    "sentiment": -0.3,
+    "source": "Hindustan Times",
+    "url": "https://www.hindustantimes.com/opinion/even-after-the-elections-israel-waits-for-change-101794428275117.html",
+    "clean_url": "https://www.hindustantimes.com/opinion/even-after-the-elections-israel-waits-for-change-101794428275117.html",
+    "image": "https://www.bing.com/th?id=ONUT.hbYuDpoT-9iKSqfF-IXOKA",
+    "timestamp": 1794446613.3835382
+  },
+  {
+    "id": "64dfd42b90",
+    "title_fa": "درگیری لفظی شدید ترامپ و نتانیاهو بر سر ازسرگیری حملات به ایران",
+    "title_en": "Trump, Netanyahu clash in explosive call over Iran war as Tehran threatens US bases",
+    "summary": [
+      "تماس تلفنی ترامپ و نتانیاهو درباره آغاز مجدد عملیات نظامی علیه ایران به مجادله‌ای بسیار تند تبدیل شد.",
+      "نتانیاهو بر ازسرگیری حملات نظامی اصرار دارد، در حالی که ترامپ خواهان حفظ مسیر دیپلماسی و ادامه مذاکرات صلح است."
+    ],
+    "impact": "شکاف علنی میان راهبرد نظامی تل‌آویو و رویکرد دیپلماتیک کاخ سفید در قبال تهران.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.6,
+    "source": "Fox News",
+    "url": "https://www.foxnews.com/live-news/rubio-iran-war-strikes-economic-crackdown-continues-11-11-26",
+    "clean_url": "https://www.foxnews.com/live-news/rubio-iran-war-strikes-economic-crackdown-continues-11-11-26",
+    "image": "https://assets.foxnews.com/liveblog/fn/prod/images/2026/11/d082a140cd494f7e9bd2e732de98ce3b.jpg",
+    "timestamp": 1794444840.0
+  },
+  {
+    "id": "5a2624b5a6",
+    "title_fa": "آماده‌باش کامل اسرائیل برای حمله به ایران و تهدید رضایی به هدف قرار دادن پایگاه‌های آمریکا در اروپا",
+    "title_en": "Iran, Israel prepares new attack: Tehran threatens US bases in Europe",
+    "summary": [
+      "کابینه امنیتی اسرائیل به ریاست بنیامین نتانیاهو به نیروهای مسلح دستور داد آمادگی‌ها برای حمله احتمالی به ایران را تشدید کنند و ارتش در بالاترین سطح هشدار قرار گرفته است.",
+      "محسن رضایی، دبیر شورای عالی امنیت ملی ایران هشدار داد در صورت حمله آمریکا، پاسخ ایران محدود به پایگاه‌های منطقه‌ای نخواهد بود و می‌تواند پایگاه‌های آمریکا در اروپا را نیز هدف قرار دهد."
+    ],
+    "impact": "تشدید بی Radio بی‌سابقه ریسک درگیری مستقیم نظامی و گسترش دامنه جنگ به پایگاه‌های فرامنطقه‌ای آمریکا.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.8,
+    "source": "jen.jiji",
+    "url": "https://jen.jiji.com/jc/eng_agt?g=adnkronos&k=20261112KRONOS-202611121650909747_eng",
+    "clean_url": "https://jen.jiji.com/jc/eng_agt",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794441600.0
+  },
+  {
+    "id": "9bc837934b",
+    "title_fa": "سنجش میزان حمایت افکار عمومی از جنگ علیه ایران",
+    "title_en": "How popular is the Iran War?",
+    "summary": [
+      "بررسی میزان محبوبیت و میزان پذیرش جامعه آمریکا نسبت به ورود به درگیری نظامی با ایران."
+    ],
+    "impact": "تأثیر مستقیم افکار عمومی بر اتخاذ تصمیمات جنگی در واشنگتن.",
+    "tag": "رسانه",
+    "urgency": 4,
+    "sentiment": 0.0,
+    "source": "Silver Bulletin",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3eDNLS181RFBYRXRqMnpMYzA2VTQ2My01b2ZkaWZqRG5aSnVEMmRWeTQwU256N2ZXWkdNaTR2MTZ0Z2xBeVQ0ZTV5YWZpNlB2ZXdNMy1sVHBQMnc4dFJvaFFNZmsweWtIME01YmVBMzE",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794434819.0
+  },
+  {
+    "id": "f6d8dd6834",
+    "title_fa": "مخالفت دبیر شورای عالی امنیت ملی ایران با خروج اورانیوم غنی‌شده از کشور",
+    "title_en": "Iran will not allow enriched nuclear material to leave the country, security chief says",
+    "summary": [
+      "دبیر شورای عالی امنیت ملی ایران تاکید کرد که جمهوری اسلامی اجازه خروج مواد هسته‌ای غنی‌شده را از کشور نخواهد داد."
+    ],
+    "impact": "تثبیت خط قرمز هسته‌ای تهران در هرگونه مذاکره یا فشار بین‌المللی.",
+    "tag": "هسته‌ای",
+    "urgency": 6,
+    "sentiment": -0.2,
+    "source": "Al-Monitor",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUpWOWVGNjZDQW1qbzBobllKbVo2T2NxUXItWFVCYTR3V200RF96ejktNGFUVVRWc0RpRTdiUmhocjRTcFc2LUtCdXBTX1FEZE5YSXZfbVktYVFVNmpBelVSRDBySlljQlNiTXJzZFloOGtRSWYzbjQ2R1FMZXd5LWFDY1V0VnVVUmNrUUY4UmR0NXRLT2xhRWVqZnBQbjBDTlJpUU93cllfanpvenBCYnpEZFh0VjdZcEVhWVpydEZ6QQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYUpWOWVGNjZDQW1qbzBobllKbVo2T2NxUXItWFVCYTR3V200RF96ejktNGFUVVRWc0RpRTdiUmhocjRTcFc2LUtCdXBTX1FEZE5YSXZfbVktYVFVNmpBelVSRDBySlljQlNiTXJzZFloOGtRSWYzbjQ2R1FMZXd5LWFDY1V0VnVVUmNrUUY4UmR0NXRLT2xhRWVqZnBQbjBDTlJpUU93cllfanpvenBCYnpEZFh0VjdZcEVhWVpydEZ6QQ",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794433783.0
+  },
+  {
     "id": "1d9d534ee5",
     "title_fa": "شکست سنگین جمهوری‌خواهان در انتخابات ۲۰۲۶ آمریکا به دلیل جنگ با ایران",
     "title_en": "U.S. Elections, Iran war, and the global economy",
@@ -109,6 +197,24 @@
     "timestamp": 1794411830.0
   },
   {
+    "id": "ea9525aca0",
+    "title_fa": "احتمال ورود معاون رئیس‌جمهور آمریکا به گفت‌وگوی مستقیم با ایران",
+    "title_en": "Vance considers direct talks with Iran hardliner in push to end war",
+    "summary": [
+      "جی‌دی ونس در حال بررسی امکان مذاکره مستقیم با جناح تندرو در ایران جهت پایان دادن به مناقشه است.",
+      "مقامات آمریکایی این گام را یک ریسک بزرگ سیاسی برای معاون رئیس‌جمهور ارزیابی می‌کنند."
+    ],
+    "impact": "احتمال شکل‌گیری مسیر دیپلماتیک جدید میان واشنگتن و تهران برای کاهش تنش‌ها.",
+    "tag": "دیپلماسی",
+    "urgency": 5,
+    "sentiment": 0.1,
+    "source": "The Wall Street Journal on MSN",
+    "url": "https://www.msn.com/en-us/news/other/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war/ar-AA2heJuh",
+    "clean_url": "https://www.msn.com/en-us/news/other/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war/ar-AA2heJuh",
+    "image": "http://www.bing.com/th?id=ONUT.l7NdieW7CNXd1ed9krjkFQ&pid=News",
+    "timestamp": 1794396300.0
+  },
+  {
     "id": "6843fa9ac1",
     "title_fa": "تلاش واشنگتن برای پنهان‌سازی و سانسور تصاویر ماهواره‌ای از دید افکار عمومی",
     "title_en": "What We Lose When Satellite Images Go Dark",
@@ -162,6 +268,24 @@
     "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz",
     "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/f9c8db49-c1ee-4c5b-91ae-0b896c95a089/thumbnail/1200x630/9e316495b141e26b462e3a0a7f9a36cd/gettyimages-2304010876.jpg",
     "timestamp": 1794391440.0
+  },
+  {
+    "id": "155df58729",
+    "title_fa": "مقاومت همسایگان ایران در برابر طرح آمریکا برای مسدودسازی مرزهای زمینی",
+    "title_en": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+    "summary": [
+      "واشنگتن قصد دارد فشار اقتصادی بر ایران را از طریق مسدود ساختن مرزهای زمینی تشدید کند.",
+      "کشورهای همسایه ایران به دلیل ترس از تبعات و آسیب‌های اقتصادی، در برابر این فشار آمریکا مقاومت می‌کنند."
+    ],
+    "impact": "کاهش اثرگذاری کمپین محاصره اقتصادی آمریکا علیه تهران به دلیل عدم همراهی همسایگان.",
+    "tag": "تحریم",
+    "urgency": 7,
+    "sentiment": -0.4,
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+    "clean_url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+    "image": "http://www.bing.com/th?id=ONUT.1c-KmWofN_AwtiySVOxhOQ&pid=News",
+    "timestamp": 1794391320.0
   },
   {
     "id": "6c731a8883",
@@ -5266,129 +5390,5 @@
     "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjloNUpHX2J6SGw3cUhGazdxaWZUUnd1TXg3WjNNZ0Zlc0VZZExkLXJfSmZGa2dTTVlLN292akwtb3A2N3JLSXZpdERsY0xMSTd5Q19fM0V3T1RKTzhxalRfeWFLXzQzREZKb24xS0tjRUtvQk5PaHo4QjZMckxwdzU5YVJxSHU4YjhpcE9PV0V3d2h2UG4wZ1R3R1UzNERXdUQ3NWFaMmh2QQ",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1793321788.0
-  },
-  {
-    "id": "5ddd9555dd",
-    "title_fa": "ورود هواپیماهای نظامی آمریکا به اسرائیل در میان آمادگی‌ها برای جنگ با ایران",
-    "title_en": "US military planes arrive in Israel from Texas amid Iran war preparations",
-    "summary": [
-      "پرواز و استقرار هواپیماهای نظامی ایالات متحده از مبدأ تگزاس به سمت اسرائیل انجام شد.",
-      "این جابه‌جایی‌های گسترده در راستای آمادگی‌های نظامی برای درگیری و جنگ احتمالی با ایران صورت می‌گیرد."
-    ],
-    "impact": "تقویت ارایش دفاعی-هجومی مشترک آمریکا و اسرائیل و افزایش ملموس احتمال درگیری مستقیم نظامی در منطقه.",
-    "tag": "نظامی",
-    "urgency": 10,
-    "sentiment": -0.9,
-    "source": "The Jerusalem Post",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE94RGFGQzBYYVoyM3F2NjBaaEtXWHQxQmx1WTBDZ284S18zTDFFLVVoZ3FZa2l4TmlfZkNmY1UzbWJmQ3FyOGRnUENZTnJza3dlRGFNRDRocnliaFkxTlRxMkZKbEJCbVFxVkNoRFh3",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793317705.0
-  },
-  {
-    "id": "547f85bc19",
-    "title_fa": "ادعای ایران درباره برخورد چهار نفتکش با مین در تنگه هرمز",
-    "title_en": "Iran claims four tankers struck mines in Hormuz as strike fears grow after US midterms",
-    "summary": [
-      "ایران اعلام کرد چهار نفتکش در تنگه هرمز با مین برخورد کرده‌اند.",
-      "تکذیب ادعای آمریکا توسط تهران درباره پاکسازی مسیرهای اصلی کشتیرانی."
-    ],
-    "impact": "تشدید مستقیم خطرات نظامی و تهدید امنیت کشتیرانی بین‌المللی در تنگه هرمز.",
-    "tag": "نظامی",
-    "urgency": 10,
-    "sentiment": -0.9,
-    "source": "CNBC on MSN",
-    "url": "https://www.msn.com/en-us/money/markets/iran-claims-four-tankers-struck-mines-in-hormuz-as-strike-fears-grow-after-us-midterms/ar-AA2gos1x",
-    "clean_url": "https://www.msn.com/en-us/money/markets/iran-claims-four-tankers-struck-mines-in-hormuz-as-strike-fears-grow-after-us-midterms/ar-AA2gos1x",
-    "image": "http://www.bing.com/th?id=ONUT.wpSXD984Row01kg3TTsadA&pid=News",
-    "timestamp": 1793316832.0
-  },
-  {
-    "id": "ca23c95d97",
-    "title_fa": "ارزیابی تازه موسسه مطالعه جنگ از آخرین تحولات ایران",
-    "title_en": "Iran Update: October 29, 2026",
-    "summary": [
-      "انتشار گزارش به روزرسانی تحرکات و وضعیت امنیتی-نظامی مرتبط با ایران در تاریخ ۲۹ اکتبر ۲۰۲۶.",
-      "پوشش و تحلیل آخرین وضعیت جبهه‌های منطقه‌ای و تحرکات جمهوری اسلامی."
-    ],
-    "impact": "تسهیل رصد دقیق تحرکات میدانی و امنیتی ایران برای تحلیلگران و تصمیم‌گیرندگان غربی.",
-    "tag": "نظامی",
-    "urgency": 6,
-    "sentiment": -0.2,
-    "source": "Critical Threats",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vMzNuX3VZRUpSWm40S2I4LWJkcjc2WWJ0YVRtTDdybHljci1wOTBZVEdVS3MtOFB4UHBIaXdMaHdoaFltRHBpdzVNcFBGWnloNnlsaHNZV3JVWTlXbVNVSlQxU1UzSTdfRlpnV05KRXhqMmFsWHIw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5vMzNuX3VZRUpSWm40S2I4LWJkcjc2WWJ0YVRtTDdybHljci1wOTBZVEdVS3MtOFB4UHBIaXdMaHdoaFltRHBpdzVNcFBGWnloNnlsaHNZV3JVWTlXbVNVSlQxU1UzSTdfRlpnV05KRXhqMmFsWHIw",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793316523.0
-  },
-  {
-    "id": "883e4c1e17",
-    "title_fa": "بن‌بست سیاسی در اسرائیل و تقاطع آن با پرونده ایران و انتخابات آمریکا",
-    "title_en": "Israel deadlocked / Trump, Iran and the midterms : Sources & Methods",
-    "summary": [
-      "بررسی وضعیت بن‌بست سیاسی داخلی در اسرائیل و ارتباط آن با معادلات منطقه‌ای.",
-      "تأثیرگذاری متقابل نقش ترامپ، پرونده ایران و انتخابات میان‌دوره‌ای بر تصمیم‌گیری‌های سیاسی."
-    ],
-    "impact": "کند شدن فرایند تصمیم‌گیری‌های کلان امنیتی و دیپلماتیک به دلیل پیچیدگی‌های سیاسی داخلی.",
-    "tag": "دیپلماسی",
-    "urgency": 5,
-    "sentiment": -0.3,
-    "source": "NPR",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDhFRTk0X2UwdXRNR19OSjBESnIxNFY2RE53LWNVZGVpMmFPYlA1ak1aTk1vaU05WjR2Snd0aHg4c0NFeHFFQ3JlcGluVmdWSWFhaUF2QkotMWo3OVVCYnUyLWtUV1BneGcyYmkzQXhxNGREdTRSci1NTWZBRkhSZ2xHcmFZUXRsNHpsd1pBZThGbHB3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdDhFRTk0X2UwdXRNR19OSjBESnIxNFY2RE53LWNVZGVpMmFPYlA1ak1aTk1vaU05WjR2Snd0aHg4c0NFeHFFQ3JlcGluVmdWSWFhaUF2QkotMWo3OVVCYnUyLWtUV1BneGcyYmkzQXhxNGREdTRSci1NTWZBRkhSZ2xHcmFZUXRsNHpsd1pBZThGbHB3",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793312031.0
-  },
-  {
-    "id": "8931d4598c",
-    "title_fa": "ادعای ایران درباره برخورد سه نفتکش با مین در منطقه",
-    "title_en": "Iran says 3 oil tankers struck mines, and other Mideast news",
-    "summary": [
-      "ایران اعلام کرد که سه فروند نفتکش با مین‌های شناور برخورد کرده‌اند."
-    ],
-    "impact": "افزایش ریسک دریانوردی تجاری و احتمال جهش قیمت انرژی و تنش در ترانزیت دریایی.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "AP News",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPODlXY2RDRGVPYkNGQ20xbjVsN01Vdzl0NWItMlVkOFJzTnRjNU1GRW9vdzBOckdWVjNhdHdfa3RLV0VETGxWOVVCVWFSbVUxSUJnQ2lKaUFrdFNoU1gyNHdyQVhoc3h4MFNTaXRoOEl0aHRmZGpfb2txSEpXS1M1WWR3UmoxZXVwNWV3Y080emJWX1pNSWJLMlYxNXhVOHNPeUNOV0ZWT0oxZ3pMYUN2c2VlR1Y",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793303880.0
-  },
-  {
-    "id": "8f2b6167ab",
-    "title_fa": "تحقیقات شاباک در مورد مداخله قطر و ادعای بحران مالی در نیروهای نظامی ایران",
-    "title_en": "Shin Bet probes alleged Qatar meddling; Bessent: Iran can't pay its troops TV7 Israel News - 29 Oct.",
-    "summary": [
-      "دستگاه امنیت داخلی اسرائیل (شاباک) در حال بررسی مداخله ادعایی قطر در امور منطقه‌ای است.",
-      "بسنت ادعا کرد ایران به دلیل بحران مالی توانایی پرداخت حقوق نیروهای نظامی خود را ندارد."
-    ],
-    "impact": "تضعیف روحیه عملیاتی نیروها در صورت صحت ادعای مالی و افزایش فشارهای اطلاعاتی بر روی کانال‌های مالی منطقه.",
-    "tag": "امنیت و اقتصاد",
-    "urgency": 6,
-    "sentiment": -0.6,
-    "source": "TV7 Israel News",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xMGZKTlljU1pvMno2M1RkQnZNZmtjcmlpeTN5Ung1LUptaWEzMzZBSTNpQlpobGFoMjBheWU0UWp5ZHRBSlhqUUo2eUpJbmRxODl6R3VWall2NlpMeEhTREZfM3lCbEdPTkRqMDA0b2VuODc3Rkkw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xMGZKTlljU1pvMno2M1RkQnZNZmtjcmlpeTN5Ung1LUptaWEzMzZBSTNpQlpobGFoMjBheWU0UWp5ZHRBSlhqUUo2eUpJbmRxODl6R3VWall2NlpMeEhTREZfM3lCbEdPTkRqMDA0b2VuODc3Rkkw",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793302428.0
-  },
-  {
-    "id": "fe563b0246",
-    "title_fa": "موضع تهران درباره اسرائیل: عدم تفاوت میان نتانیاهو و آیزنکوت در رویکرد جنگی",
-    "title_en": "Netanyahu or Eisenkot? Tehran sees little difference on war",
-    "summary": [
-      "تهران تفاوت موثری میان رهبران مختلف سیاسی و نظامی اسرائیل نظیر نتانیاهو و آیزنکوت در قبال جنگ نمی‌بیند."
-    ],
-    "impact": "تثبیت رویکرد تهاجمی و عدم تغییر در محاسبات استراتژیک ایران نسبت به تحولات داخلی اسرائیل.",
-    "tag": "سیاسی",
-    "urgency": 4,
-    "sentiment": -0.2,
-    "source": "Iran International",
-    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYdXBBZVZROUhaR3dtUnc0NmZvSHpKZUdfS0EzSzQ5OGxJTWJtNG9EZ3l2Nm9LaDJyVTVTbHE1S0FlZ1FBYXJlb3RNRDFzYzdhUlE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYdXBBZVZROUhaR3dtUnc0NmZvSHpKZUdfS0EzSzQ5OGxJTWJtNG9EZ3l2Nm9LaDJyVTVTbHE1S0FlZ1FBYXJlb3RNRDFzYzdhUlE",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793301458.0
   }
 ]
