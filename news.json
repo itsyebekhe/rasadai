@@ -1,5 +1,93 @@
 [
   {
+    "id": "6cf66fa42e",
+    "title_fa": "استعفای هوانگ و بحران وابستگی اقتصاد آمریکا به انویدیا",
+    "title_en": "Too Many Chips in One Basket?",
+    "summary": [
+      "اقتصاد ایالات متحده اتکای شدیدی به کمپانی انویدیا و جنسن هوانگ پیدا کرده بود.",
+      "با کناره‌گیری هوانگ از قدرت، این شرکت تراشه‌سازی وارد چالش‌ها و عدم قطعیت‌های عمیق شده است."
+    ],
+    "impact": "ریسک نوسان و کاهش ثبات در بخش فناوری پیشرفته و زنجیره ارزش پردازنده‌های نیمه‌هادی آمریکا.",
+    "tag": "فناوری",
+    "urgency": 5,
+    "sentiment": -0.4,
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+    "clean_url": "https://www.nytimes.com/2026/11/15/world/nvidia-jensen-huang-ai-chips.html",
+    "image": "https://www.bing.com/th?id=ONUT.OHxBhkLQAz3NSAZz_sajig",
+    "timestamp": 1794778340.0565393
+  },
+  {
+    "id": "4963bfd117",
+    "title_fa": "ترامپ: آمریکا دیگر نیازی به توافق با ایران ندارد",
+    "title_en": "Trump’s Hormuz squeeze has Iran strangled — now slam its back door, too",
+    "summary": [
+      "دونالد ترامپ صراحتاً اعلام کرد واشنگتن دیگر نیازی به دستیابی به توافق با ایران ندارد.",
+      "ترامپ تأکید کرد که پول‌های ایران در کنترل آمریکا قرار گرفته است."
+    ],
+    "impact": "تشدید مواضع تقابلی واشنگتن و انسداد کامل مسیرهای دیپلماتیک جهت حل‌وفصل بحران اقتصادی و مالی ایران.",
+    "tag": "تحریم",
+    "urgency": 7,
+    "sentiment": -0.6,
+    "source": "New York Post on MSN",
+    "url": "https://www.msn.com/en-us/news/other/trump-s-hormuz-squeeze-has-iran-strangled-now-slam-its-back-door-too/ar-AA2hutsO?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/news/other/trump-s-hormuz-squeeze-has-iran-strangled-now-slam-its-back-door-too/ar-AA2hutsO",
+    "image": "https://www.bing.com/th?id=ONUT.c3zyKAK6_7csN-1FvZElLQ",
+    "timestamp": 1794778340.0564783
+  },
+  {
+    "id": "208691d4a8",
+    "title_fa": "پایش روزانه قیمت بنزین در سطح ایالات و شهرستان‌های آمریکا",
+    "title_en": "Tracking U.S., state and county gas prices, in maps and charts. Updated daily.",
+    "summary": [
+      "ارائه نقشه‌ها و نمودارهای آماری روزانه برای پیگیری نوسانات قیمت سوخت در ایالات متحده آمریکا."
+    ],
+    "impact": "بازتاب تغییرات قیمت انرژی بر هزینه‌های مصرف‌کننده در اقتصاد داخلی ایالات متحده.",
+    "tag": "اقتصادی",
+    "urgency": 2,
+    "sentiment": 0.0,
+    "source": "NBC News",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMWgwSVltbkxJVmRPeHZtbUNLb0wwcEFVUnpnc0MzdEsxSTVTd3NnVGI3TGQ5Y2t2RHVad05VZmF2UmlIZFhFSS00Q05xTEpJSW9nbnJXMndOLVU1bmFLUkJCeGtnSE9uODE0NnFWUmU2YS1rM2FfbjgzNDRObmZpYk9DMWoyUTlUMkZBMU04THAxTFFLdEJockxn",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794772524.0
+  },
+  {
+    "id": "f0a4cd88fc",
+    "title_fa": "افشاگری نیویورک‌تایمز از ربایش ژنرال‌های ایرانی توسط اسرائیل",
+    "title_en": "Israel Kidnapped Iranian Generals in Hunt for Ron Arad",
+    "summary": [
+      "نیویورک‌تایمز فاش کرد اسرائیل در جریان پرونده مفقود شدن رون آراد، اقدام به ربودن فرماندهان نظامی ایران کرده است."
+    ],
+    "impact": "افشای ابعاد عملیات‌های مخفیانه و تقابل اطلاعاتی-امنیتی سنگین اسرائیل علیه نیروهای مسلح ایران.",
+    "tag": "امنیتی",
+    "urgency": 8,
+    "sentiment": -0.7,
+    "source": "The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGRYOUx0YXZ4S2tHQVhmYWZUWUpzamk2dEpVNjhYREQyV3E1WmRsa0ZLM3lMUGd3MF8zTmltQ2FWQU1DT1liQ2VSRFNtWF9xSF9JR1pOZzJwSUhSNUZDSTF1azBXbWtWRkhJWHR4eUFtb3lkaTJXSElUUjZBQzNvWk40MG5vYnRFU1JkS1MycjhrbmpjTGNnWg?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOGRYOUx0YXZ4S2tHQVhmYWZUWUpzamk2dEpVNjhYREQyV3E1WmRsa0ZLM3lMUGd3MF8zTmltQ2FWQU1DT1liQ2VSRFNtWF9xSF9JR1pOZzJwSUhSNUZDSTF1azBXbWtWRkhJWHR4eUFtb3lkaTJXSElUUjZBQzNvWk40MG5vYnRFU1JkS1MycjhrbmpjTGNnWg",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794768469.0
+  },
+  {
+    "id": "58c8aafe63",
+    "title_fa": "بازگشت رئیس موساد به اسرائیل پس از رایزنی‌های ضدایرانی در واشنگتن",
+    "title_en": "Mossad chief returns to Israel after US talks on Iran, set to brief Netanyahu: Report",
+    "summary": [
+      "رئیس سازمان اطلاعاتی موساد پس از انجام گفتگوهایی با مقامات آمریکایی در خصوص ایران، به اسرائیل بازگشت.",
+      "او قرار است نتایج این مذاکرات و ارزیابی‌های خود را مستقیماً به بنیامین نتانیاهو ارائه دهد."
+    ],
+    "impact": "افزایش سطح هماهنگی‌های اطلاعاتی و امنیتی واشنگتن و تل‌آویو علیه ایران در واکنش به تحولات اخیر منطقه.",
+    "tag": "امنیتی-نظامی",
+    "urgency": 6,
+    "sentiment": -0.5,
+    "source": "Anadolu Ajansı",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFhJVkhNM25VajlTeS1sSVhCaHF3MS1YWDRFR2pma1F5NjRPbzhFbzl1UjdtM0xaLUNYZjNyRTdSaEg3TjlURFZUeU1RNVFhejROUk1xOWFmQkNMWHh0RHhVcUtHblktdzg2a3M0am5ta2lmNENuRW91QW9icmdydHlqUWpjdzNpSGo0eXhZdVJOQkdlcklZQmpuYVdpeEsxVnJEUWNubGt3SS1rVWtTOWRUNEYxTGtJZ1RmSFhLZTFCQXVHUVU4?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFhJVkhNM25VajlTeS1sSVhCaHF3MS1YWDRFR2pma1F5NjRPbzhFbzl1UjdtM0xaLUNYZjNyRTdSaEg3TjlURFZUeU1RNVFhejROUk1xOWFmQkNMWHh0RHhVcUtHblktdzg2a3M0am5ta2lmNENuRW91QW9icmdydHlqUWpjdzNpSGo0eXhZdVJOQkdlcklZQmpuYVdpeEsxVnJEUWNubGt3SS1rVWtTOWRUNEYxTGtJZ1RmSFhLZTFCQXVHUVU4",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794767896.0
+  },
+  {
     "id": "46b3c96656",
     "title_fa": "ارزیابی بن‌بست درگیری آمریکا و ایران و شرط واشنگتن برای هسته‌ای نشدن تهران",
     "title_en": "America's war with Iran won't end until Washington faces reality",
@@ -106,6 +194,62 @@
     "clean_url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQRjhaLVIxd1pHX1E4UkNkVUFSNGRudDlyV1hyZGhYTDk1ZWNuY1l1WkVwQ2FVNGFvUjBra0V0aTBDMklSR1ZSMHRabGlNZXBTSldYNWtrakp2a0Rra25USXNSSVhvR0pPUjZTRHRZRndVcWJwcmVGVWxmVkFCRHV6eE0td1RYbDRjVXVkb2dRTTZMemY1T0NoNkU0cjFISDEzazM5bTdLVGQ1TXpUbVE0bThaSXJBOUQ1UklxUVRPY20wM3pDaHd5dUhKeVBkd3I1LU0xcDM0dDVvNFgyUE9rdUNMVG5zeExCUnhIa0dORHpDWWJwTHdoWUgwb2VOUjhCVVBnSzlBdkNPQUU",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794745560.0
+  },
+  {
+    "id": "b2f1ff68a7",
+    "title_fa": "واکنش مسکو به تصمیم استونی برای انسداد کامل مرزهای مشترک با روسیه",
+    "title_en": "Russia to check information about Estonia's plans to close border crossings — diplomat",
+    "summary": [
+      "اعلام برنامه استونی برای بستن تمام ۳ گذرگاه مرزی خود با روسیه از تاریخ ۱ دسامبر.",
+      "حمله تند ماریا زاخاروفا به این اقدام و توصیف آن به عنوان «نمود دیگری از روس‌هراسی افسارگسیخته».",
+      "بررسی صحت و سقم خبر توسط وزارت امور خارجه روسیه جهت اتخاذ تصمیمات متقابل."
+    ],
+    "impact": "افزایش انزوای ترانزیتی روسیه در اروپای شرقی و بالا رفتن سطح تنش‌های مرزی میان مسکو و اعضای ناتو.",
+    "tag": "دیپلماسی-امنیتی",
+    "urgency": 5,
+    "sentiment": -0.6,
+    "source": "TASS Russian News Agency",
+    "url": "https://tass.com/politics/2218399",
+    "clean_url": "https://tass.com/politics/2218399",
+    "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261115/1493155.jpg",
+    "timestamp": 1794745380.0
+  },
+  {
+    "id": "ac0c847b0b",
+    "title_fa": "تعمیق بحران بنزین در ایران و شکل‌گیری اعتراضات خیابانی در بندرعباس",
+    "title_en": "Can higher fuel prices curb Iran's smuggling problem?",
+    "summary": [
+      "اعتراف رئیس سازمان بهینه‌سازی مصرف سوخت به بحران جدی در تامین بنزین و خالی بودن دست دولت از ذخایر.",
+      "توصیه مقامات انرژی به مردم برای صرفه‌جویی و ناتوانی پمپ‌بنزین‌ها در پاسخگویی به تقاضا.",
+      "مسدود شدن جاده توسط رانندگان معترض در منطقه رجایی بندرعباس در اعتراض به صف‌های طولانی و پمپ‌های خالی."
+    ],
+    "impact": "تشدید نارضایتی‌های عمومی و احتمال تسری ناآرامی‌های معیشتی ناشی از ناترازی سوخت به سایر شهرهای کشور.",
+    "tag": "اقتصادی-اجتماعی",
+    "urgency": 7,
+    "sentiment": -0.7,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202611157506",
+    "clean_url": "https://www.iranintl.com/en/202611157506",
+    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+    "timestamp": 1794736680.0
+  },
+  {
+    "id": "aa27ee186e",
+    "title_fa": "برآورد آمریکا: زرادخانه موشکی ایران همچنان تا ۲۵۰۰ موشک ظرفیت دارد",
+    "title_en": "Iran can still hit US and allied targets with up to 2,500 missiles, US officials say",
+    "summary": [
+      "مقامات آمریکایی ارزیابی کرده‌اند که زرادخانه موشکی باقیمانده ایران بین ۱۵۰۰ تا ۲۵۰۰ فروند سلاح است.",
+      "این گزارش نشان می‌دهد ایران کماکان توانایی موشکی هدف قرار دادن مواضع آمریکا و متحدانش در منطقه را حفظ کرده است."
+    ],
+    "impact": "تداوم تهدید مستقیم بالستیک علیه پایگاه‌های آمریکا و متحدان منطقه‌ای آن علیرغم تنش‌های موجود.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.5,
+    "source": "Arkansas Public Advocate on MSN",
+    "url": "https://www.msn.com/en-us/news/other/iran-can-still-hit-us-and-allied-targets-with-up-to-2-500-missiles-us-officials-say/ar-AA2huv8X",
+    "clean_url": "https://www.msn.com/en-us/news/other/iran-can-still-hit-us-and-allied-targets-with-up-to-2-500-missiles-us-officials-say/ar-AA2huv8X",
+    "image": "http://www.bing.com/th?id=ONUT.BWNdBK4II9mSNvILUKwcaA&pid=News",
+    "timestamp": 1794736562.0
   },
   {
     "id": "e4ff3fdadd",
@@ -287,6 +431,24 @@
     "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-bahrain-reports-iranian-attack-irgc-says-air-base-targeted/ar-AA2h3thB",
     "image": "http://www.bing.com/th?id=ONUT.L3fmQvyxCMu4E5-a6VfZIQ&pid=News",
     "timestamp": 1794716001.0
+  },
+  {
+    "id": "1fb07416d4",
+    "title_fa": "دومین حمله ایران به بحرین همزمان با بن‌بست در مذاکرات صلح",
+    "title_en": "Iran Attacks Bahrain for the Second Time in Days",
+    "summary": [
+      "ایران پس از دو ماه آرامش نسبی، برای دومین بار ظرف چند روز گذشته بحرین را هدف حمله قرار داد.",
+      "این عملیات‌ها در شرایطی از سر گرفته شده که مذاکرات صلح میان آمریکا و ایران به بن‌بست خورده است."
+    ],
+    "impact": "گسترش مستقیم دامنه درگیری‌های نظامی در حوزه خلیج فارس و شکست کامل روندهای دیپلماتیک فعال.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.9,
+    "source": "The New York Times",
+    "url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+    "clean_url": "https://www.nytimes.com/2026/11/15/world/middleeast/bahrain-iran-israel.html",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1794715680.0
   },
   {
     "id": "4fb8122b4e",
@@ -5232,165 +5394,5 @@
     "clean_url": "https://tass.com/politics/2213567",
     "image": "https://cdn-media.tass.ru/width/1200_4ce85301/tass/m2/en/uploads/i/20261106/1492091.jpg",
     "timestamp": 1793912520.0
-  },
-  {
-    "id": "ec26526dbd",
-    "title_fa": "دیدار مقام امنیتی ایران با پوتین و تحویل نامه رهبری",
-    "title_en": "Iran’s security chief meets Putin, delivers message from Khamenei",
-    "summary": [
-      "محسن رضایی در مسکو با ولادیمیر پوتین دیدار کرد و نامه مجتبی خامنه‌ای، رهبر ایران را به او تحویل داد.",
-      "مذاکرات بر ترتیبات امنیتی منطقه پس از جنگ، توقف تجاوزات آمریکا و توسعه خطوط لوله گاز متمرکز بود."
-    ],
-    "impact": "تقویت تعاملات امنیتی و انرژی میان تهران و مسکو برای مقابله با عملیات نظامی آمریکا و اسرائیل.",
-    "tag": "امنیتی",
-    "urgency": 7,
-    "sentiment": 0.1,
-    "source": "Yahoo",
-    "url": "https://www.yahoo.com/news/world/articles/iran-security-chief-meets-putin-024819329.html",
-    "clean_url": "https://www.yahoo.com/news/world/articles/iran-security-chief-meets-putin-024819329.html",
-    "image": "http://www.bing.com/th?id=ONUT.f4W6GEQcNp7HClEx3s-wbQ&pid=News",
-    "timestamp": 1793904480.0
-  },
-  {
-    "id": "35146f1220",
-    "title_fa": "انتخابات ۲۰۲۶ اسرائیل؛ عدم قطعیت سیاسی و ماندن نتانیاهو در قدرت",
-    "title_en": "Israel's election leaves Netanyahu in power",
-    "summary": [
-      "انتخابات پارلمانی ۲۷ اکتبر ۲۰۲۶ اسرائیل نتایج مبهمی به همراه داشته است.",
-      "بنیامین نتانیاهو همچنان در قدرت باقی مانده اما وضعیت برتری احزاب نامشخص است."
-    ],
-    "impact": "تداوم فضای بی‌ثباتی سیاسی در تل‌آویو و شکل‌گیری بن‌بست در تشکیل دولت جدید.",
-    "tag": "سیاسی",
-    "urgency": 5,
-    "sentiment": -0.3,
-    "source": "Warfronts on MSN",
-    "url": "https://www.msn.com/en-us/news/other/israel-s-election-leaves-netanyahu-in-power-my-take/vi-AA2gBEIz?ocid=BingNewsVerp",
-    "clean_url": "https://www.msn.com/en-us/news/other/israel-s-election-leaves-netanyahu-in-power-my-take/vi-AA2gBEIz",
-    "image": "https://www.bing.com/th?id=ONUT.mz-pUM9EpgmrPjcVazvlbA",
-    "timestamp": 1793896048.5989065
-  },
-  {
-    "id": "97e6e88a88",
-    "title_fa": "تهدید مجدد ترامپ به حمله علیه تاسیسات هسته‌ای ایران",
-    "title_en": "Trump threatens another attack on Iran's nuclear facilities - why November 2026 could bring new military escalation",
-    "summary": [
-      "هشدار دونالد ترامپ درباره احتمال حمله جدید به تاسیسات هسته‌ای ایران و تشدید تصاعدی درگیری‌ها.",
-      "ارزیابی آمادگی‌های نظامی، تهدیدات سایبری و هشدارهای اضطراری دولتی برای نوامبر ۲۰۲۶."
-    ],
-    "impact": "بالا رفتن مخاطرات امنیتی در منطقه و احتمال وقوع مواجهه مستقیم نظامی و حمله به تاسیسات حیاتی.",
-    "tag": "تهدید نظامی",
-    "urgency": 10,
-    "sentiment": -0.8,
-    "source": "Andrei Jikh on MSN",
-    "url": "https://www.msn.com/en-us/news/other/trump-threatens-another-attack-on-iran-s-nuclear-facilities-why-november-2026-could-bring-new-military-escalation-my-take/vi-AA2gPKRl?ocid=BingNewsVerp",
-    "clean_url": "https://www.msn.com/en-us/news/other/trump-threatens-another-attack-on-iran-s-nuclear-facilities-why-november-2026-could-bring-new-military-escalation-my-take/vi-AA2gPKRl",
-    "image": "https://www.bing.com/th?id=ONUT.xX-dsBFjDKzZv0MqLH8raQ",
-    "timestamp": 1793896048.5986724
-  },
-  {
-    "id": "51a051913c",
-    "title_fa": "سرخوردگی جریان راست آمریکا پس از شکست در انتخابات میان‌دوره‌ای",
-    "title_en": "The Right’s Election Meltdown Is Just Getting Started",
-    "summary": [
-      "ابراز خوش‌بینی اولیه فعالان رسانه‌ای نزدیک به ترامپ نظیر بنی جانسون با پیروزی محدود در گوام.",
-      "چرخش سریع اوضاع به سود دموکرات‌ها با کسب حداقل ۵۴ کرسی سنا و پیروزی گسترده در مجلس نمایندگان."
-    ],
-    "impact": "تغییر موازنه قدرت در کنگره آمریکا و افزایش فشارهای سیاسی داخلی بر جریان محافظه‌کار.",
-    "tag": "سیاست داخلی",
-    "urgency": 3,
-    "sentiment": -0.6,
-    "source": "The Bulwark",
-    "url": "https://www.thebulwark.com/p/right-wing-media-2026-midterm-election-meltdown-is-just-getting-started",
-    "clean_url": "https://www.thebulwark.com/p/right-wing-media-2026-midterm-election-meltdown-is-just-getting-started",
-    "image": "https://www.bing.com/th?id=ONUT.50SWaQG5UhnXW9cJsDGDuQ",
-    "timestamp": 1793896048.5984938
-  },
-  {
-    "id": "263cf57fd9",
-    "title_fa": "ادعای بدون مدرک تاکر کارلسون درباره بررسی حمله هسته‌ای توسط ترامپ",
-    "title_en": "Analyst claims Trump is considering a nuclear strike on Iran",
-    "summary": [
-      "تحلیلگر محافظه‌کار مدعی شد دولت ترامپ در حال بررسی گزینه حمله هسته‌ای به ایران است.",
-      "این ادعا بدون ارائه هرگونه سند یا مدرک پشتیبان مطرح شده است."
-    ],
-    "impact": "تشدید تنش و جنگ روانی رسانه‌ای درباره تقابل آمریکا و ایران.",
-    "tag": "جنگ روانی",
-    "urgency": 7,
-    "sentiment": -0.4,
-    "source": "Warfronts on MSN",
-    "url": "https://www.msn.com/en-us/news/news/analyst-claims-trump-is-considering-a-nuclear-strike-on-iran-my-take/vi-AA2gJwn0?ocid=BingNewsVerp",
-    "clean_url": "https://www.msn.com/en-us/news/news/analyst-claims-trump-is-considering-a-nuclear-strike-on-iran-my-take/vi-AA2gJwn0",
-    "image": "https://www.bing.com/th?id=ONUT.vzzXK1DsGNuakXYEG1f4mQ",
-    "timestamp": 1793896048.5983605
-  },
-  {
-    "id": "60b6b16410",
-    "title_fa": "بررسی طرح دموکرات‌ها برای متوقف کردن فوری جنگ با ایران",
-    "title_en": "How Democrats Can Stop the Iran War Now",
-    "summary": [
-      "تحلیل راهکارها و اهرم‌های سیاسی که دموکرات‌های آمریکا برای پایان دادن سریع به جنگ با ایران در اختیار دارند."
-    ],
-    "impact": "افزایش فشارهای تقنینی و سیاسی درون آمریکا جهت مهار و توقف درگیری‌های نظامی.",
-    "tag": "سیاسی",
-    "urgency": 6,
-    "sentiment": 0.1,
-    "source": "Reason Magazine",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjRlZoeUg5X2Y5a2psNzJfQ09YM0o1MjBzajRfdmhtd1k2NUdFY0lfSlZVS29nbEFLWEZTWERMWWJlYk1EWnZFcV9aaWZTWkNfTE1neFRjQTdCQnBKaEt6WWVEUVZkdG5FNDBQTW9qYk5CeFdaX1d5QjR3?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjRlZoeUg5X2Y5a2psNzJfQ09YM0o1MjBzajRfdmhtd1k2NUdFY0lfSlZVS29nbEFLWEZTWERMWWJlYk1EWnZFcV9aaWZTWkNfTE1neFRjQTdCQnBKaEt6WWVEUVZkdG5FNDBQTW9qYk5CeFdaX1d5QjR3",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793893961.0
-  },
-  {
-    "id": "e513072d28",
-    "title_fa": "اختلال در ۲۷ پرواز اروپایی در پی دومین موج تهدیدهای جعلی بمب‌گذاری",
-    "title_en": "At least 27 flights across Europe now affected by hoax bomb threats",
-    "summary": [
-      "حداقل ۲۷ پرواز از ایرلند تا بلغارستان هدف تهدیدهای جعلی بمب‌گذاری قرار گرفتند که دومین موج این تهدیدها در هفته جاری است.",
-      "این رویداد باعث فرود اضطراری برخی هواپیماها و ورود جت‌های جنگنده برای رهگیری و اسکورت آنان شد."
-    ],
-    "impact": "ایجاد اختلال شدید در امنیت فضای هوایی اروپا و مداخله مستقیم جت‌های جنگنده.",
-    "tag": "امنیت هوایی",
-    "urgency": 6,
-    "sentiment": -0.6,
-    "source": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/at-least-27-flights-across-europe-now-affected-by-hoax-bomb-threats/",
-    "clean_url": "https://www.timesofisrael.com/liveblog_entry/at-least-27-flights-across-europe-now-affected-by-hoax-bomb-threats",
-    "image": "https://static-cdn.toi-media.com/www/uploads/2026/11/AP26309440633386.jpg",
-    "timestamp": 1793892780.0
-  },
-  {
-    "id": "680142df7b",
-    "title_fa": "ابعاد جنگ ۲۰۲۶ ایران و بحران در تنگه هرمز و بازار نفت",
-    "title_en": "2026 Iran war | Oil, Explained, United States, Israel, Strait of Hormuz, Map, & Conflict",
-    "summary": [
-      "بررسی و مستندسازی درگیری نظامی سال ۲۰۲۶ میان ایران، ایالات متحده و اسرائیل.",
-      "تحلیل تاثیرات مستقیم جنگ بر بازار جهانی نفت و جغرافیا و نقشه‌های درگیری در تنگه هرمز."
-    ],
-    "impact": "تهدید شدید امنیت خطوط انتقال انرژی بین‌المللی و مسدودسازی احتمالی شریان‌های نفتی.",
-    "tag": "انرژی",
-    "urgency": 10,
-    "sentiment": -0.7,
-    "source": "Britannica",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5nTzlhOGZTS180cWNtVG91c2VWRVJFYlk0cW5Ba1RHUEFOSEtldU15QktQT0EzRVY1ZVdZZ0VTRHVWTVhyN1IzeU1wbmlDMUhrQ3Roc1YxcmdMUQ",
-    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793889071.0
-  },
-  {
-    "id": "2f4dbdcd86",
-    "title_fa": "آماده‌باش مجدد کشورهای عرب خلیج فارس برای درگیری نظامی با ایران",
-    "title_en": "Gulf states brace for war with Iran—again",
-    "summary": [
-      "کشورهای حاشیه خلیج فارس مجدداً در حال آماده‌سازی و مواجهه با احتمال بروز جنگ با ایران هستند."
-    ],
-    "impact": "تشدید اقدامات دفاعی-امنیتی و بالا رفتن احتمال مواجهه مستقیم در منطقه خلیج فارس.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.7,
-    "source": "The Economist",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2I0Y0VRNU82dHV3WVZxZnN2Zmt3dHZFWXFJRjVJbHBickRIcFFqdEROQTdnMDk3SnRBMFo2TEFESWx0YVBLaHVHUVlPcmRGS3dSTkJDRU4tc0ZuV3diVUpsVE8xdVFCVmVTbFFqWldVWEU1bFVXLWowZ1lfS09ySFBESlE0VTBsWTlib2xlVjJCc2x1Z2FtYWhJeDM4cGFtZXlB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2I0Y0VRNU82dHV3WVZxZnN2Zmt3dHZFWXFJRjVJbHBickRIcFFqdEROQTdnMDk3SnRBMFo2TEFESWx0YVBLaHVHUVlPcmRGS3dSTkJDRU4tc0ZuV3diVUpsVE8xdVFCVmVTbFFqWldVWEU1bFVXLWowZ1lfS09ySFBESlE0VTBsWTlib2xlVjJCc2x1Z2FtYWhJeDM4cGFtZXlB",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1793887097.0
   }
 ]
