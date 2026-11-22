@@ -1,5 +1,127 @@
 [
   {
+    "id": "213ce856e0",
+    "title_fa": "بازتاب محاصره ایران و تحولات منطقه‌ای در مطبوعات عربی",
+    "title_en": "Voices from the Arab press: Iran’s blockade, learning in the AI age, and a divided France",
+    "summary": [
+      "بررسی گزیده‌ای از تحلیل‌ها و آرا منتشرشده در رسانه‌های جهان عرب.",
+      "پرداختن به موضوعاتی همچون محاصره ایران، آموزش در عصر هوش مصنوعی و شکاف‌های سیاسی در فرانسه."
+    ],
+    "impact": "انعکاس تحولات منطقه‌ای و موضوع محاصره ایران در فضای رسانه‌ای جهان عرب.",
+    "tag": "رسانه",
+    "urgency": 4,
+    "sentiment": 0.0,
+    "source": "The Jerusalem Post on MSN",
+    "url": "https://www.msn.com/en-gb/news/other/voices-from-the-arab-press-iran-s-blockade-learning-in-the-ai-age-and-a-divided-france/ar-AA2hYSH7?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-gb/news/other/voices-from-the-arab-press-iran-s-blockade-learning-in-the-ai-age-and-a-divided-france/ar-AA2hYSH7",
+    "image": "https://www.bing.com/th?id=ONUT.1f1IGqiYigDHqonyuCTTuw",
+    "timestamp": 1795371751.7103002
+  },
+  {
+    "id": "f6b4a492d3",
+    "title_fa": "هشدار ترامپ درباره سقوط بورس و انتقاد شدید از تامین مالی جنگ‌های نتانیاهو",
+    "title_en": "The Kobeissi Letter on X: \"BREAKING: President Trump says the stock market crash “will only get worse” if the Democrats “don’t change fast.”\"",
+    "summary": [
+      "دونالد ترامپ هشدار داد که در صورت عدم تغییر سریع سیاست‌های دموکرات‌ها، سقوط بازار سهام بدتر خواهد شد.",
+      "انتقاد شدید از سیاست‌های اقتصادی ترامپ، تورم بالا، قیمت نفت و غارت خزانه آمریکا برای تامین مالی جنگ‌های نتانیاهو به ضرر مردم عادی."
+    ],
+    "impact": "افزایش فشارهای اقتصادی و نارضایتی‌های داخلی در آمریکا در پی هزینه‌های سنگین حمایت از جنگ‌های منطقه.",
+    "tag": "اقتصاد",
+    "urgency": 6,
+    "sentiment": -0.8,
+    "source": "X",
+    "url": "https://x.com/KobeissiLetter/status/2124555029885460532",
+    "clean_url": "https://x.com/KobeissiLetter/status/2124555029885460532",
+    "image": "https://www.bing.com/th?id=ONUT.wAT9EzXsxDU6rn19KS5KNg",
+    "timestamp": 1795371751.7101457
+  },
+  {
+    "id": "7e0722d452",
+    "title_fa": "ارزیابی ابعاد شکست سه‌گانه دولت ترامپ در منازعه با ایران",
+    "title_en": "Guerre avec l'Iran : une triple défaite pour Trump?",
+    "summary": [
+      "گذشت زمان نشان می‌دهد که روند درگیری با ایران به نفع دولت دونالد ترامپ پیش نمی‌رود.",
+      "چالش‌های روزافزون واشنگتن در مدیریت ابعاد مختلف رویارویی با ایران."
+    ],
+    "impact": "تضعیف موضع سیاسی و راهبردی واشنگتن در برابر تهران با طولانی‌تر شدن منازعه.",
+    "tag": "سیاسی",
+    "urgency": 5,
+    "sentiment": -0.6,
+    "source": "TVA Nouvelles on MSN",
+    "url": "https://www.msn.com/fr-ca/actualites/other/guerre-avec-liran-une-triple-défaite-pour-trump/ar-AA2hZ5oP?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/fr-ca/actualites/other/guerre-avec-liran-une-triple-défaite-pour-trump/ar-AA2hZ5oP",
+    "image": "https://www.bing.com/th?id=ONUT.INgWn3l7_Baumn50wBBHug",
+    "timestamp": 1795371751.710093
+  },
+  {
+    "id": "a00f826684",
+    "title_fa": "تلاش ترامپ برای توافق دائمی جهت مهار برنامه هسته‌ای ایران",
+    "title_en": "Trump Seeks Permanent Deal to Prevent Iran from Acquiring Nuclear Weapons",
+    "summary": [
+      "دونالد ترامپ به‌دنبال دستیابی به یک توافق دائمی است تا مانع از دستیابی ایران به سلاح‌های هسته‌ای شود."
+    ],
+    "impact": "احتمال بازگشت فشار حداکثری و بازترسیم معادلات دیپلماتیک میان واشنگتن و تهران.",
+    "tag": "دیپلماسی",
+    "urgency": 5,
+    "sentiment": 0.0,
+    "source": "Kurdistan24",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelZoVjd1WU1rZHFDQWRFV1pLRm9WTlVOMjY1ekdwTXRvVTBKOTVqcG4wMjN4dmJsWDVnejNid3l3ZXBFQ0l3VGhzUV9CbnNmYVgydkZ4M2V6RE9DMEZST280VHo0cmVXQ05RTi1peFk1cmY1aXNvRnMtZXhfdUU1VFRtNnhGeGFIZWcyMnpBc1JhODh5Z1lRQVl0cWtSanJTTEtleXZ5X0dfdVk0am9lelVNTmJMWHNu?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPelZoVjd1WU1rZHFDQWRFV1pLRm9WTlVOMjY1ekdwTXRvVTBKOTVqcG4wMjN4dmJsWDVnejNid3l3ZXBFQ0l3VGhzUV9CbnNmYVgydkZ4M2V6RE9DMEZST280VHo0cmVXQ05RTi1peFk1cmY1aXNvRnMtZXhfdUU1VFRtNnhGeGFIZWcyMnpBc1JhODh5Z1lRQVl0cWtSanJTTEtleXZ5X0dfdVk0am9lelVNTmJMWHNu",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795370782.0
+  },
+  {
+    "id": "af900d3a47",
+    "title_fa": "تأکید وال‌استریت ژورنال بر پافشاری ایران بر جاه‌طلبی‌های هسته‌ای",
+    "title_en": "Opinion | Iran Doubles Down on Its Nuclear Ambitions",
+    "summary": [
+      "وال‌استریت ژورنال در یادداشتی تحلیلی اعلام کرد که ایران اهداف و جاه‌طلبی‌های هسته‌ای خود را دوبرابر کرده است."
+    ],
+    "impact": "افزایش نگرانی‌های بین‌المللی و تشدید فشارهای سیاسی بر پرونده هسته‌ای ایران.",
+    "tag": "هسته‌ای",
+    "urgency": 6,
+    "sentiment": -0.4,
+    "source": "WSJ",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWEpBTXAyTE1ncTBsTl9xamdsVXlUTjdYWFl6Z3lBa19iWmhPVzYtamxaZEY3MWp0ZXpxYzA0ZW96QkFjVEpSRGVmUUFCRGVHNnhIMndyd0VwVWNqQjhhVTd0NGNFMTJJZFRXbDBrOHVSeklDelkxSDJQdlNCbDY3Wlp0d0JTUQ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWEpBTXAyTE1ncTBsTl9xamdsVXlUTjdYWFl6Z3lBa19iWmhPVzYtamxaZEY3MWp0ZXpxYzA0ZW96QkFjVEpSRGVmUUFCRGVHNnhIMndyd0VwVWNqQjhhVTd0NGNFMTJJZFRXbDBrOHVSeklDelkxSDJQdlNCbDY3Wlp0d0JTUQ",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795365856.0
+  },
+  {
+    "id": "da460ac02d",
+    "title_fa": "رکورد بی‌سابقه حملات ایران در تنگه هرمز به گزارش سی‌ان‌ان",
+    "title_en": "Iranian attacks in the Strait of Hormuz are at the highest levels since the conflict began",
+    "summary": [
+      "سی‌ان‌ان گزارش داد که حملات ایران در تنگه هرمز به بالاترین سطح خود از زمان آغاز درگیری‌ها رسیده است."
+    ],
+    "impact": "به خطرافتادن شدید امنیت دریانوردی بین‌المللی و افزایش احتمال تصاعد درگیری‌های نظامی.",
+    "tag": "نظامی",
+    "urgency": 9,
+    "sentiment": -0.8,
+    "source": "CNN",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPazIzNmZVck5Udmx0UjFsVV9LQjJsSDhlUm95QjhZalplRUNIa1QyNXh0Z0lPYXVEblBmOWpWN3p3b0pXWXhyZko4cmlzSl92b19UbjNqS3NZUHJwWFZiZnZiRWJHSTVKMjBkNGFmdWJWcGpBcEJfSzROU0VjZHEyVXdOWWFkb2gxN1FaZ0N3",
+    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795360408.0
+  },
+  {
+    "id": "b8cd491c58",
+    "title_fa": "رونمایی ایران از پرتابگر دوگانه موشک و شهر موشکی جدید",
+    "title_en": "Iran unveils dual-missile launcher, new ‘missile city’: What to know",
+    "summary": [
+      "شبکه الجزیره از رونمایی ایران از یک سامانه پرتابگر دوگانه موشک و یک «شهر موشکی» جدید خبر داد."
+    ],
+    "impact": "ارتقای توان بازدارندگی و نمایش قدرتمایی نظامی ایران در منطقه.",
+    "tag": "نظامی",
+    "urgency": 7,
+    "sentiment": -0.3,
+    "source": "Al Jazeera",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ?oc=5&hl=en-US&gl=US&ceid=US:en",
+    "clean_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZWZsOWN0bmtuM0VnLWpjVnlLMXVfeVdqdFlkZjVsb01uLUJhUjFoOC0yeDZtLURYbVBObWg3T2dUQm51akxZMVJfeU43Nl90eHNfc29hNVVNVG40dXd1V1VvTUtUSE5nVGFDOTdRN0tVa0xGS3BXUm9Ycm5MVDdtRXpyZWN5WFhZc2ZnSldjcXI2N0ZHTTMtSjFLZVdYTFpYWGNubk9ZM3FJUdIBrwFBVV95cUxQTGlqSVNoVU0xLTB4MDNLbW9haElfa3ZsWFVqVVFvV3I3RU04eEItYnlUTTUxNEw1N3ZMUjJab2wtcmw5M2FHbVJOdmpnUG40bGVBdURINWs0cXVMaUJuNjRHV0RSemV4T3ZBQS1nQ1VITGtUemZaY29JMVJwaFlVTm1NUVZsRlNBeUNVRXg0aVNlZWdFNmhDRWs5UmR3cFplVFNaTDl0RnRpMXpIaHFZ",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795358565.0
+  },
+  {
     "id": "446ffd89e3",
     "title_fa": "شکاف در سنای آمریکا؛ تشدید اختلافات بر سر حمایت از نتانیاهو و جنگ غزه",
     "title_en": "Hutzell: Israel divides Van Hollen and Schumer in Senate leadership fight",
@@ -89,6 +211,24 @@
     "timestamp": 1795341177.0
   },
   {
+    "id": "5e558c4813",
+    "title_fa": "سپاه: حملات در بحرین سامانه‌های پاتریوت آمریکا را هدف قرار داد",
+    "title_en": "Iran live updates: IRGC says Bahrain attacks targeted US Patriot sites",
+    "summary": [
+      "سپاه پاسداران اعلام کرد هدف حملات صورت‌گرفته در بحرین، مواضع سامانه‌های دفاعی پاتریوت آمریکا بوده است.",
+      "مقامات منامه مدعی شدند حمله روز شنبه منجر به وقوع آتش‌سوزی در یک واحد صنعتی غیرنظامی شده است."
+    ],
+    "impact": "تشدید حملات مستقیم به پایگاه‌ها و سامانه‌های پدافندی آمریکا در خلیج فارس.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.9,
+    "source": "ABC News on MSN",
+    "url": "https://www.msn.com/en-us/news/other/iran-live-updates-irgc-says-bahrain-attacks-targeted-us-patriot-sites/ar-AA2hx5G8",
+    "clean_url": "https://www.msn.com/en-us/news/other/iran-live-updates-irgc-says-bahrain-attacks-targeted-us-patriot-sites/ar-AA2hx5G8",
+    "image": "http://www.bing.com/th?id=ONUT.zhU9c6FV4AofCp0NxErP1g&pid=News",
+    "timestamp": 1795340942.0
+  },
+  {
     "id": "6fc8fd17de",
     "title_fa": "توافق واشنگتن و تل‌آویو برای تدوین طرح‌های مشترک تشدید بحران علیه ایران",
     "title_en": "Israel, US agree to develop joint plans for possible escalation against Iran: Report",
@@ -104,6 +244,24 @@
     "clean_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORmg3Q2V5TzdFTG5GM201aERtU1VmRVhDeGZfN184LTl2aE44NEtLOTVxUDh5R2VxTFBxWmdicDZlbmMtT003N2IwZ1R3Ukw2NlUzSTJzOU80Q1pDSzdsSkxwZDFZVlg3VUxOYnJBa1JNWk44elFlM0RjNUZUZm1VRXpjREVsLVhlMUpIay14YW82TzRSTEdnM0NGNk5iMmxLZFlUYjZ0d2NmWFF3T2FOUzRWOXJIUDVwWkx3WE1wMldjclVR0gHKAUFVX3lxTFA5SlQ2cW9vTU1ZckZnT1VBdWllU2E0YWo0ZndLSG5SNi14ZlpScG5WZ0pBX1VvS2VLQjV6M3Y3ZE1ocG0zOWlfZGk1NFJJSXYyV0R0QVRvSkg1bWFJVHVEZXRIV1V4QmZVaU05YlliVnYtYWlRMllQRkczcmlHeTBYOFo1cF9GMXJqOEEtaXo3TU90TmJKX1FxMEk1b01tTk92N0prYWJvMHdDSno0YW4xRUw3b1dQd25kd19IdGhiQ090N1ItY1RGNGc",
     "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1795337820.0
+  },
+  {
+    "id": "378c4017a6",
+    "title_fa": "رونمایی ایران از شهر موشکی زیرزمینی و پرتابگر دوگانه جدید به عنوان هشدار به ترامپ",
+    "title_en": "Iran taunts Trump, shows off underground missile city with new double launcher",
+    "summary": [
+      "ایران از یک پرتابگر جدید موشکی زیرزمینی با قابلیت شلیک هم‌زمان دو راکت رونمایی کرد.",
+      "انتشار تصاویر این پایگاه موشکی هم‌زمان با بررسی گزینه‌های واشنگتن، پیامی هشدارآمیز به ترامپ تلقی می‌شود."
+    ],
+    "impact": "افزایش سطح بازدارندگی موشکی ایران و نمایش آمادگی دفاعی در برابر تهدیدات آمریکا.",
+    "tag": "نظامی",
+    "urgency": 7,
+    "sentiment": -0.5,
+    "source": "New York Post on MSN",
+    "url": "https://www.msn.com/en-us/news/other/iran-taunts-trump-shows-off-underground-missile-city-with-new-double-launcher/ar-AA2hYvcy",
+    "clean_url": "https://www.msn.com/en-us/news/other/iran-taunts-trump-shows-off-underground-missile-city-with-new-double-launcher/ar-AA2hYvcy",
+    "image": "http://www.bing.com/th?id=ONUT.GxBNBrFH6SJ9cwEnAvlfkQ&pid=News",
+    "timestamp": 1795332429.0
   },
   {
     "id": "c290c3d56e",
@@ -122,6 +280,43 @@
     "clean_url": "https://www.irishsun.com/news/279447830/iran-to-ration-electricity-as-world-awaits-trump-next-move",
     "image": "https://chitra-api.kreatio.com/api/v1/wps/4c362ec/33cfd66b-6704-43d4-8b6a-8a104ca3b75b/0/NTg2NzNkNzEtZTM-600x315.jpg",
     "timestamp": 1795321800.0
+  },
+  {
+    "id": "14f6b3bf9d",
+    "title_fa": "تشدید حملات سپاه در خلیج فارس؛ حمله به پایگاه آمریکا و اصابت به ۲۵ نفتکش",
+    "title_en": "What’s behind Iran’s escalation of attacks in the Gulf?",
+    "summary": [
+      "سپاه پاسداران انقلاب اسلامی مدعی هدف قرار دادن رادارهای پایگاه نظامی ایالات متحده در بحرین و سرنگونی پهپادهای آمریکایی شد.",
+      "طی هفت روز گذشته دست‌کم ۲۵ نفتکش در تنگه هرمز مورد اصابت قرار گرفته و جریان صادرات نفت خلیج فارس به شدت افت کرده است.",
+      "مسعود پزشکیان، رئیس‌جمهور ایران، اعلام کرد این کشور در میان تحریم‌ها و محاصره دریایی آمریکا با یک «جنگ خاموش اقتصادی» روبرو است."
+    ],
+    "impact": "افت شدید صادرات نفت خلیج فارس و تعمیق بحران جهانی انرژی هم‌زمان با افزایش احتمال رویارویی مستقیم نظامی میان تهران و واشنگتن.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.8,
+    "source": "Yahoo",
+    "url": "https://www.yahoo.com/news/world/articles/behind-iran-escalation-attacks-gulf-114642710.html",
+    "clean_url": "https://www.yahoo.com/news/world/articles/behind-iran-escalation-attacks-gulf-114642710.html",
+    "image": "https://s.yimg.com/lo/mysterio/api/6cf2a66f6f7eacf44844da7aed7ecf3de10c3578fa352cf1280aadf5b9b56d7a/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fal_jazeera_289%2F475a40988f23f32c4b6078cf77b89804.jpg_up.jpg",
+    "timestamp": 1795319160.0
+  },
+  {
+    "id": "cb140d9412",
+    "title_fa": "نگرانی شدید بایرن مونیخ از اختلال عصبی موسیالا و دستمزد سنگین او",
+    "title_en": "کنایه روزبه سینکی به پزشکیان:آیا برای خوابیدن با کاپشن و بی‌برقی نیاز به رییس جمهور داریم؟",
+    "summary": [
+      "رومنیگه، مدیر سابق و عضو هیئت نظارت بایرن مونیخ، از احتمال عدم بازگشت جمال موسیالا به سطح گذشته به دلیل حملات تشنج غیابی ناشی از اختلال عصبی خبر داد.",
+      "مدیران باشگاه بایرن مونیخ امیدوارند این بازیکن که دارای بزرگ‌ترین قرارداد تاریخ باشگاه (بیش از ۲۵ میلیون یورو در سال) است، از بخشی از دستمزد خود صرف‌نظر کند."
+    ],
+    "impact": "ایجاد بحران مالی و ورزشی برای گران‌ترین بازیکن بایرن مونیخ و چالش مدیریتی برای این باشگاه.",
+    "tag": "ورزشی",
+    "urgency": 3,
+    "sentiment": -0.6,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202611221001",
+    "clean_url": "https://www.iranintl.com/202611221001",
+    "image": "http://www.bing.com/th?id=ONUT.n5gZegoHHcoiT6AdGmNqmw&pid=News",
+    "timestamp": 1795317420.0
   },
   {
     "id": "6a269c02b7",
@@ -5181,206 +5376,5 @@
     "clean_url": "https://www.msn.com/en-us/news/other/vance-considers-direct-talks-with-iran-hardliner-in-push-to-end-war/ar-AA2heJuh",
     "image": "http://www.bing.com/th?id=ONUT.l7NdieW7CNXd1ed9krjkFQ&pid=News",
     "timestamp": 1794396300.0
-  },
-  {
-    "id": "6843fa9ac1",
-    "title_fa": "تلاش واشنگتن برای پنهان‌سازی و سانسور تصاویر ماهواره‌ای از دید افکار عمومی",
-    "title_en": "What We Lose When Satellite Images Go Dark",
-    "summary": [
-      "دولت آمریکا مانع از انتشار و دسترسی عمومی به تصاویر ماهواره‌ای مشخصی از فضا می‌شود.",
-      "نگرانی‌ها درباره تبعات امنیتی و اطلاعاتی پنهان‌ماندن داده‌های فضایی افزایش یافته است."
-    ],
-    "impact": "محدود شدن شفافیت اطلاعاتی درباره تحولات حساس میدان نبرد برای رسانه‌ها و تحلیلگران.",
-    "tag": "امنیتی",
-    "urgency": 4,
-    "sentiment": -0.3,
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/video/opinion/100000011242544/what-we-lose-when-satellite-images-go-dark.html",
-    "clean_url": "https://www.nytimes.com/video/opinion/100000011242544/what-we-lose-when-satellite-images-go-dark.html",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794392966.2027118
-  },
-  {
-    "id": "dee06fb71d",
-    "title_fa": "محدودسازی تصاویر ماهواره‌ای نظارت بر جنگ‌ها توسط دولت آمریکا",
-    "title_en": "Satellite Imagery Is Being Restricted. The U.S. Government Is to Blame.",
-    "summary": [
-      "دولت ایالات متحده در تلاش است تا دسترسی عمومی و پژوهشگران به تصاویر ماهواره‌ای فضایی را سانسور کند.",
-      "اولی بالینگر، پژوهشگر داده‌باز (OSINT)، هشدار داده که این اقدام مانع از رصد مستقل درگیری‌های بین‌المللی می‌شود."
-    ],
-    "impact": "ایجاد اختلال در تحلیل‌های مستقل رسانه‌ای و راستی‌آزمایی تحرکات نظامی در نقاط جنگی.",
-    "tag": "امنیتی",
-    "urgency": 4,
-    "sentiment": -0.3,
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
-    "clean_url": "https://www.nytimes.com/2026/11/11/opinion/satellite-images-us-government.html",
-    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794392966.2026596
-  },
-  {
-    "id": "2058482ab9",
-    "title_fa": "بن‌بست هسته‌ای و خط‌ونشان پنتاگون؛ خسارت ۲۰۰ میلیارد دلاری جنگ به اعراب خلیج فارس",
-    "title_en": "Iran War Updates: Iran vows not to part with \"single particle of enriched nuclear material\" as standoff continues",
-    "summary": [
-      "رئیس شورای عالی امنیت ملی ایران: تهران اجازه خروج حتی یک ذره از مواد هسته‌ای غنی‌شده را نخواهد داد.",
-      "پیت هگست، وزیر دفاع آمریکا: اسلام‌گرایان دیوانه در تهران هرگز به سلاح هسته‌ای دست نخواهند یافت.",
-      "گزارش موسسه آلیانتس: جنگ بیش از ۲۰۰ میلیارد دلار خسارت به کشورهای خلیج فارس وارد کرده و تا ۲۰۳۰ می‌تواند ۴ برابر شود."
-    ],
-    "impact": "انسداد کامل مسیر دیپلماسی هسته‌ای هم‌زمان با تشدید مواضع تند نظامی آمریکا و بحران شدید اقتصادی برای متحدان منطقه‌ای.",
-    "tag": "هسته‌ای",
-    "urgency": 9,
-    "sentiment": -0.7,
-    "source": "CBS News",
-    "url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz/",
-    "clean_url": "https://www.cbsnews.com/live-updates/iran-war-us-nuclear-strait-of-hormuz",
-    "image": "https://assets1.cbsnewsstatic.com/hub/i/r/2026/11/11/f9c8db49-c1ee-4c5b-91ae-0b896c95a089/thumbnail/1200x630/9e316495b141e26b462e3a0a7f9a36cd/gettyimages-2304010876.jpg",
-    "timestamp": 1794391440.0
-  },
-  {
-    "id": "155df58729",
-    "title_fa": "مقاومت همسایگان ایران در برابر طرح آمریکا برای مسدودسازی مرزهای زمینی",
-    "title_en": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
-    "summary": [
-      "واشنگتن قصد دارد فشار اقتصادی بر ایران را از طریق مسدود ساختن مرزهای زمینی تشدید کند.",
-      "کشورهای همسایه ایران به دلیل ترس از تبعات و آسیب‌های اقتصادی، در برابر این فشار آمریکا مقاومت می‌کنند."
-    ],
-    "impact": "کاهش اثرگذاری کمپین محاصره اقتصادی آمریکا علیه تهران به دلیل عدم همراهی همسایگان.",
-    "tag": "تحریم",
-    "urgency": 7,
-    "sentiment": -0.4,
-    "source": "The New York Times",
-    "url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
-    "clean_url": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
-    "image": "http://www.bing.com/th?id=ONUT.1c-KmWofN_AwtiySVOxhOQ&pid=News",
-    "timestamp": 1794391320.0
-  },
-  {
-    "id": "6c731a8883",
-    "title_fa": "تولید ماهانه ۵۰ موشک بالستیک در ایران هم‌زمان با خط‌ونشان هسته‌ای تهران",
-    "title_en": "Iran producing up to 50 ballistic missiles a month, half its prewar rate – report",
-    "summary": [
-      "مقام غربی با استناد به داده‌های اطلاعاتی: ایران ماهانه تا ۵۰ موشک بالستیک تولید می‌کند که نصف آمار پیش از جنگ است.",
-      "برآورد اطلاعاتی غرب نشان می‌دهد جمهوری اسلامی در حال حاضر ۱۷۰۰ فروند موشک در اختیار دارد.",
-      "تأکید و تعهد رژیم ایران بر اینکه هیچ مقدار از مواد هسته‌ای غنی‌شده از کشور خارج نخواهد شد."
-    ],
-    "impact": "تداوم توان موشکی ایران و حفظ ذخایر تسلیحاتی علی‌رغم کاهش سرعت تولید در شرایط جنگی.",
-    "tag": "نظامی",
-    "urgency": 7,
-    "sentiment": -0.4,
-    "source": "The Times of Israel on MSN",
-    "url": "https://www.msn.com/en-us/news/other/iran-producing-up-to-50-ballistic-missiles-a-month-half-its-prewar-rate-report/ar-AA2hdvxQ",
-    "clean_url": "https://www.msn.com/en-us/news/other/iran-producing-up-to-50-ballistic-missiles-a-month-half-its-prewar-rate-report/ar-AA2hdvxQ",
-    "image": "http://www.bing.com/th?id=ONUT.fQ7fmlIvGEh5kxSaZ4XeNQ&pid=News",
-    "timestamp": 1794390219.0
-  },
-  {
-    "id": "6b647d78e3",
-    "title_fa": "بیانیه دیپلماتیک G7 و اتحادیه اروپا برای مهار اقتصادی ایران و اجرای تحریم‌های اسنپ‌بک",
-    "title_en": "Trump says Iran war will end soon, expects 'total victory'",
-    "summary": [
-      "وزیران خارجه گروه هفت و اتحادیه اروپا: ایران هرگز نباید به سلاح هسته‌ای دست یابد یا آن را توسعه دهد.",
-      "تأکید بر اعمال محدودیت‌های شدید اقتصادی و سیاسی در صورت عدم دستیابی به راهکار دیپلماتیک.",
-      "درخواست برای همکاری کامل تهران با آژانس و تأکید بر اجرای تحریم‌های بازگشتی (اسنپ‌بک) سازمان ملل."
-    ],
-    "impact": "اجماع قدرت‌های غربی بر تشدید فشارهای بین‌المللی و اجرای تحریم‌های اسنپ‌بک عليه جمهوری اسلامی.",
-    "tag": "دیپلماتیک",
-    "urgency": 6,
-    "sentiment": -0.3,
-    "source": "Iran International",
-    "url": "https://www.iranintl.com/en/202611112833",
-    "clean_url": "https://www.iranintl.com/en/202611112833",
-    "image": "http://www.bing.com/th?id=ONUT.2NbA0HmM4koAJWjlCgZWqA&pid=News",
-    "timestamp": 1794388980.0
-  },
-  {
-    "id": "fd668e1ba3",
-    "title_fa": "انتقال بسنت به پایگاه نظامی در پی تهدیدهای جانی ایران",
-    "title_en": "Bessent relocates from D.C.-area home to military base after Iran threatens to kill him, reports say",
-    "summary": [
-      "گزارش‌ها حاکی از انتقال اسکات بسنت از منزلش در منطقه واشنگتن به یک پایگاه نظامی است.",
-      "این اقدام حفاظتی پس از تهدید مستقیم جمهوری اسلامی به قتل وی صورت گرفته است."
-    ],
-    "impact": "تشدید تدابیر امنیتی پیرامون مقامات ارشد دولت آمریکا به دلیل تهدیدات جانی مستقیم از سوی تهران.",
-    "tag": "امنیتی",
-    "urgency": 8,
-    "sentiment": -0.6,
-    "source": "CBS News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm9tazhKTnpORkdUS2hjRHVxNGJ1SVZQTGlLU1JPZVh2RFY5M2JSMEFpN2NKZ3BHbEc2UmZxbFE1TDg2MTEyd3pqeFVuRHI3dWR4T05UNzdPcWxfRnRoQkNJd05OYUMyTUMzNWlkd3FsX05WeFFHRUtYUWdCX21HN0JHc1g3RXVkUTJqYjdxSlYwZUhYNTBHR3Iwc0ozQVU?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMm9tazhKTnpORkdUS2hjRHVxNGJ1SVZQTGlLU1JPZVh2RFY5M2JSMEFpN2NKZ3BHbEc2UmZxbFE1TDg2MTEyd3pqeFVuRHI3dWR4T05UNzdPcWxfRnRoQkNJd05OYUMyTUMzNWlkd3FsX05WeFFHRUtYUWdCX21HN0JHc1g3RXVkUTJqYjdxSlYwZUhYNTBHR3Iwc0ozQVU",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794388980.0
-  },
-  {
-    "id": "ffb3fecbe5",
-    "title_fa": "صعود دوباره قیمت جهانی نفت در پی عدم‌قطعیت جنگ ایران و آمریکا",
-    "title_en": "Oil Rebounds After Two-Day Drop on U.S.-Iran Conflict Uncertainty",
-    "summary": [
-      "قیمت نفت خام پس از دو روز کاهش، مجدداً روند صعودی خود را از سر گرفت.",
-      "نااطمینانی حاکم بر آینده مناقشه نظامی میان ایران و ایالات متحده عامل اصلی رشد دوباره قیمت‌ها بوده است."
-    ],
-    "impact": "بازگشت ریسک‌گریزی به بازارهای انرژی و حساسیت شدید زنجیره تأمین سوخت به تنش‌های میدانی.",
-    "tag": "نفت",
-    "urgency": 6,
-    "sentiment": -0.2,
-    "source": "WSJ",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWlUN29aYldzSEZmOWV5Yi1pNEIxY2F1d1Y2TFU1S2dGZGo3V1Y1bE9NR0VJT2ZiU2RQUDl2S1l1Y2Zid05VT2p5VUJFS3d3UjhuVzR2NkUza3MtUmdyd1NsVVBWeHJrWVB0cUNFNENTYmczdTJRNmdLOHJqeExOUF9acTE0NXYxQzRnNzEyUmh1NlZSc19wRzRR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWlUN29aYldzSEZmOWV5Yi1pNEIxY2F1d1Y2TFU1S2dGZGo3V1Y1bE9NR0VJT2ZiU2RQUDl2S1l1Y2Zid05VT2p5VUJFS3d3UjhuVzR2NkUza3MtUmdyd1NsVVBWeHJrWVB0cUNFNENTYmczdTJRNmdLOHJqeExOUF9acTE0NXYxQzRnNzEyUmh1NlZSc19wRzRR",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794388020.0
-  },
-  {
-    "id": "0343dfc0bd",
-    "title_fa": "تکذیب مذاکره با آمریکا؛ هرمز تا تحقق شروط بسته می‌ماند",
-    "title_en": "Iran denies talks with US, says Hormuz will stay shut until demands are met",
-    "summary": [
-      "ایران هرگونه مذاکره جاری با ایالات متحده آمریکا را به طور رسمی تکذیب کرد.",
-      "تهران هشدار داد که تنگه هرمز تا زمان تحقق کامل مطالباتش همچنان مسدود خواهد ماند."
-    ],
-    "impact": "تداوم بحران در شریان انتقال انرژی جهان و افزایش ریسک برخورد مستقیم نظامی در خلیج فارس.",
-    "tag": "نظامی",
-    "urgency": 9,
-    "sentiment": -0.7,
-    "source": "Al Jazeera",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjE0dVFENk1CX2NnRnVSUEtzYzVDWlpBVlFvMnlNMnV5SjBncHJNcFI4WmRjNmdJWGtwXzJ6aUtYOUs4Ynl1bVUzVm5TWXFxNGxfSzRtaEY0czhyRTFSVU1mN3NqNW1BWm1WT1dCS2dZbEVTQ0hBcGRsM05RUWVQRGNUVHF1ZGhHOUZNVGVqR19keHFTUzJ3V0JwMnpFWF9uWDBYV2l3M01SN01ROFc2bzJHZUt1TjjSAbwBQVVfeXFMUDJtWTM5WXEtX3NDM0RkOG1ZVjE3RXVRYnRQNm5feHhKb0VJaXlLMjdPcjBCa1NzMkIySmk2a1hRMmwybS1SWG13RzNxLUtVZF9mQV9QYlB4cGxWcDVUbUFjVXdvcHo4THhtN2NIU01lUEYtUzVPdzRNcXIyWlBYM09QR0FsNzJUMUpBRGxaYUpQbl84bjNseUp6bWU1cFM2aUpvaUU5UnVJYXY0b1QybnBaX21OdWM2M3AtZ0w?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbjE0dVFENk1CX2NnRnVSUEtzYzVDWlpBVlFvMnlNMnV5SjBncHJNcFI4WmRjNmdJWGtwXzJ6aUtYOUs4Ynl1bVUzVm5TWXFxNGxfSzRtaEY0czhyRTFSVU1mN3NqNW1BWm1WT1dCS2dZbEVTQ0hBcGRsM05RUWVQRGNUVHF1ZGhHOUZNVGVqR19keHFTUzJ3V0JwMnpFWF9uWDBYV2l3M01SN01ROFc2bzJHZUt1TjjSAbwBQVVfeXFMUDJtWTM5WXEtX3NDM0RkOG1ZVjE3RXVRYnRQNm5feHhKb0VJaXlLMjdPcjBCa1NzMkIySmk2a1hRMmwybS1SWG13RzNxLUtVZF9mQV9QYlB4cGxWcDVUbUFjVXdvcHo4THhtN2NIU01lUEYtUzVPdzRNcXIyWlBYM09QR0FsNzJUMUpBRGxaYUpQbl84bjNseUp6bWU1cFM2aUpvaUU5UnVJYXY0b1QybnBaX21OdWM2M3AtZ0w",
-    "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794386250.0
-  },
-  {
-    "id": "6e197ab4d7",
-    "title_fa": "نتانیاهو: تغییر رژیم تنها راه رفع تهدید هسته‌ای ایران است",
-    "title_en": "Netanyahu: Regime Change Is the Only Way to Eliminate Iran’s Nuclear Threat",
-    "summary": [
-      "بنیامین نتانیاهو تأکید کرد که مهار برنامه اتمی ایران تنها از طریق تغییر ساختار سیاسی حاکم ممکن خواهد بود.",
-      "موضع‌گیری صریح نخست‌وزیر اسرائیل بر تمرکز راهبرد تل‌آویو جهت سرنگونی نظام جمهوری اسلامی دلالت دارد."
-    ],
-    "impact": "تغییر رسمی هدف راهبردی اسرائیل از بازدارندگی اتمی به تغییر حکومت در تهران.",
-    "tag": "امنیتی",
-    "urgency": 8,
-    "sentiment": -0.5,
-    "source": "IranWire",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmhOeVhVRHluMVJZVG16SmRnOURQaThHWFJqNERydzFncmx4YVh5S0V3QVg1RG8yak82Zk5nOURNR1dSVlFxUEk5OVpueFhhSlMzakN2WWdvcmZfU0NSbmp6bTJUNWdkYUxZUUppZHViazhVbGhEU3AxalNoM0ctMWx0dVpPQXpmXzlLVGtjcTlFZk1tS1d0OHlMR0h5bmtNTjJISEhuMEdDX1dJelYw?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTmhOeVhVRHluMVJZVG16SmRnOURQaThHWFJqNERydzFncmx4YVh5S0V3QVg1RG8yak82Zk5nOURNR1dSVlFxUEk5OVpueFhhSlMzakN2WWdvcmZfU0NSbmp6bTJUNWdkYUxZUUppZHViazhVbGhEU3AxalNoM0ctMWx0dVpPQXpmXzlLVGtjcTlFZk1tS1d0OHlMR0h5bmtNTjJISEhuMEdDX1dJelYw",
-    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794384697.0
-  },
-  {
-    "id": "3ea6b3681b",
-    "title_fa": "تحلیل رویترز: توقف جنگ با ایران برای ترامپ به اندازه حملات نظامی جدید پرهزینه است",
-    "title_en": "COMMENTARY: Trump’s Iran war pause is as costly as new strikes",
-    "summary": [
-      "یادداشت تحلیلی رویترز تأکید می‌کند که وقفه دونالد ترامپ در اقدام نظامی علیه ایران عواقبی سنگین دارد.",
-      "هزینه‌های راهبردی ناشی از مکث در جنگ با تبعات آغاز موج جدید حملات برابر ارزیابی شده است."
-    ],
-    "impact": "افزایش فشارهای سیاسی و رسانه‌ای بر دولت ترامپ جهت تعیین تکلیف راهبرد نظامی در قبال ایران.",
-    "tag": "سیاسی",
-    "urgency": 7,
-    "sentiment": -0.4,
-    "source": "Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYXNuaEJXU0pFb0oxRlkzenJYREJId21QY2pxclZ3bnBDWEFwZXFhZkJCLTJEUWJELTRKeExPZDdYWmZUY25UZnNJYXZ5NGNUYXpUSHkwZUJyYU9wWmp0aWVHTUQ1ZFVlQ3dOZnE3azBSNm9KZVRMWnJEWXExR3VrektGaXU2RlNySG5GX01LbHR2M2xxMF92RzcwZWV0REJ6T3ZIV0dvQkM0c1pQU1hzQlVB",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794380400.0
   }
 ]
