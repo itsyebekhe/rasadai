@@ -1,5 +1,78 @@
 [
   {
+    "id": "58dd823d5d",
+    "title_fa": "گرامیداشت سالگرد مرگبارترین آتش‌سوزی هنگ‌کنگ تحت هشدارهای امنیتی",
+    "title_en": "HK marks deadly fire anniv with flowers, govt warning",
+    "summary": [
+      "مردم هنگ‌کنگ با اهدای گل و برگزاری مراسم دعا، یاد قربانیان مرگبارترین آتش‌سوزی ده‌ها سال اخیر این شهر را گرامی داشتند.",
+      "این مراسم در حالی برگزار شد که دولت چند روز قبل به شهروندان هشدار داده بود احتیاط کنند."
+    ],
+    "impact": "تداوم فضای سوگواری و تدابیر احتیاطی در سطح شهری در هنگ‌کنگ.",
+    "tag": "اجتماعی",
+    "urgency": 2,
+    "sentiment": -0.3,
+    "source": "BusinessMirror",
+    "url": "https://businessmirror.com.ph/2026/11/26/hk-marks-deadly-fire-anniv-with-flowers-govt-warning/",
+    "clean_url": "https://businessmirror.com.ph/2026/11/26/hk-marks-deadly-fire-anniv-with-flowers-govt-warning",
+    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
+    "timestamp": 1795701935.0118608
+  },
+  {
+    "id": "dfb9d114b8",
+    "title_fa": "چالش‌های حقوقی ترامپ و نقض مداوم دستورهای منع افشا در دادگاه‌ها",
+    "title_en": "Trump trying to silence thousands of companies before Dem take over | Opinion",
+    "summary": [
+      "دادگاه‌های آمریکا درگیر نقض‌های پی‌درپی دستور منع افشا (Gag order) برای ساکت کردن شرکت‌ها پیش از انتقال قدرت هستند.",
+      "گزارش‌ها نشان می‌دهد فرد اصلی پشت ادعایی که منجر به صدور این دستور علیه ترامپ شد، یک مجرم محکوم است."
+    ],
+    "impact": "تشدید تنش‌های حقوقی و قضایی حول ترامپ در آستانه جابه‌جایی قدرت.",
+    "tag": "حقوقی",
+    "urgency": 3,
+    "sentiment": -0.4,
+    "source": "AlterNet on MSN",
+    "url": "https://www.msn.com/en-us/news/other/trump-trying-to-silence-thousands-of-companies-before-dem-take-over-opinion/ar-AA2ihwRt?ocid=BingNewsVerp",
+    "clean_url": "https://www.msn.com/en-us/news/other/trump-trying-to-silence-thousands-of-companies-before-dem-take-over-opinion/ar-AA2ihwRt",
+    "image": "https://www.bing.com/th?id=ONUT.IqEY4Y52B05mnl0e_2Hqdg",
+    "timestamp": 1795701935.0117245
+  },
+  {
+    "id": "996ec96483",
+    "title_fa": "فلج شدن صادرات نفت ایران در پی محاصره دریایی آمریکا و تغییر تصمیم نظامی ترامپ",
+    "title_en": "Iran rapidly builds underground complex near nuclear sites",
+    "summary": [
+      "اسکات بسنت، وزیر خزانه‌داری آمریکا اعلام کرد ذخایر نفت روی آب ایران به پایان رسیده و از زمان آغاز «عملیات مطرود اقتصادی» در اوت، هیچ نفتکشی بارگیری نشده است.",
+      "مارکو روبیو، وزیر خارجه آمریکا تاکید کرد خسارات اقتصادی محاصره به قدری شدیدی بوده که دونالد ترامپ دیگر نیازی به اجرای عملیات نظامی گسترده نمی‌بیند.",
+      "صادرات نفت خام ایران به چین که پیش از محاصره دریایی حدود ۱.۵ میلیون بشکه در روز بود، به صادرات بسیار محدود فرآورده‌هایی مانند نفت کوره و گاز مایع تقلیل یافته است."
+    ],
+    "impact": "توقف کامل بارگیری نفتکش‌های ایران و تقلیل صادرات نفتی، موجب تغییر استراتژی واشنگتن از گزینه نظامی به تشدید محاصره اقتصادی شده است.",
+    "tag": "تحریم",
+    "urgency": 8,
+    "sentiment": -0.8,
+    "source": "Iran International",
+    "url": "https://www.iranintl.com/en/202611265861",
+    "clean_url": "https://www.iranintl.com/en/202611265861",
+    "image": "https://i.iranintl.com/images/rdk9umy0/production/10fbe2546f2e45ec323b85263431d584d115a5af-1280x853.jpg?rect=214,0,853,853&w=200&h=200&q=90&fit=crop&auto=format",
+    "timestamp": 1795690320.0
+  },
+  {
+    "id": "353704c72c",
+    "title_fa": "توهین جدید ترامپ به مقامات ایران و بررسی حملات نظامی پس از سال نو",
+    "title_en": "Iran just got handed a new insult from Trump: He called its officials ‘professional tap dancers’ as he eyes new strikes after the new year",
+    "summary": [
+      "دونالد ترامپ مقامات جمهوری اسلامی را «رقصندگان حرفه‌ای تپ» خواند و در حال بررسی احتمال حملات جدید پس از سال نو میلادی است.",
+      "تحلیلگران هشدار می‌دهند ترامپ در حال ورود به تله استراتژیک ایران است، زیرا تندروها در تهران دست بالا را گرفته و شروط آمریکا را رد کرده‌اند."
+    ],
+    "impact": "افزایش ریسک درگیری مستقیم نظامی میان آمریکا و جمهوری اسلامی در منطقه.",
+    "tag": "نظامی",
+    "urgency": 8,
+    "sentiment": -0.7,
+    "source": "National Security Journal on MSN",
+    "url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-new-insult-from-trump-he-called-its-officials-professional-tap-dancers-as-he-eyes-new-strikes-after-the-new-year/ar-AA2ihOnw",
+    "clean_url": "https://www.msn.com/en-us/news/other/iran-just-got-handed-a-new-insult-from-trump-he-called-its-officials-professional-tap-dancers-as-he-eyes-new-strikes-after-the-new-year/ar-AA2ihOnw",
+    "image": "http://www.bing.com/th?id=ONUT.uiQ3Zno6RlE2aY6s2gb2EA&pid=News",
+    "timestamp": 1795668790.0
+  },
+  {
     "id": "13da133ef7",
     "title_fa": "مقایسه دونالد ترامپ با حاکمان خودکامه توسط باب وودوارد به گزارش آلترنت",
     "title_en": "Legend Bob Woodward levels Trump with a chilling comparison",
@@ -16,6 +89,79 @@
     "clean_url": "https://www.msn.com/en-au/news/other/legend-bob-woodward-levels-trump-with-a-chilling-comparison/ar-AA2ify41",
     "image": "https://www.bing.com/th?id=ONUT.YfWUZjNnY0167Edx02q2xg",
     "timestamp": 1795666549.8036828
+  },
+  {
+    "id": "f36ed685fa",
+    "title_fa": "آغاز طرح سراسری عراق برای بستن گذرگاه‌های مرزی غیررسمی و مقابله با قاچاق نفت",
+    "title_en": "فرمانده کل سپاه: هر تعرضی با شگفتانه‌های غیرقابل تصور نیروهای نظامی مواجه خواهد شد",
+    "summary": [
+      "نیروهای مرزبانی عراق اجرای دستور نخست‌وزیر این کشور را برای بستن تمامی گذرگاه‌های غیررسمی مرزی، از جمله در اقلیم کردستان، آغاز کردند.",
+      "وزارت کشور عراق با تشدید نظارت بر جاده‌ها و گذرگاه‌ها، شناسایی شبکه‌های قاچاق نفت و منابع مالی آن‌ها را پس از تحقیقات در شرکت دولتی نفت شمال در دستور کار قرار داده است."
+    ],
+    "impact": "تنگ‌تر شدن عرصه بر شبکه‌های قاچاق کالا و سوخت و افزایش تسلط دولت مرکزی بغداد بر مرزهای اقلیم کردستان.",
+    "tag": "امنیت مرزی",
+    "urgency": 5,
+    "sentiment": -0.2,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202611260109",
+    "clean_url": "https://www.iranintl.com/202611260109",
+    "image": "http://www.bing.com/th?id=ONUT.xUwwEo5IZ8k-8R5Zfmtujw&pid=News",
+    "timestamp": 1795666200.0
+  },
+  {
+    "id": "b6162a84eb",
+    "title_fa": "افشاگری سنتکام از توقیف محموله تسلیحاتی سپاه پاسداران در سوریه",
+    "title_en": "نیروی دریایی سپاه پاسداران از انفجار ۲ نفتکش در شمال بندر خصب خبر داد",
+    "summary": [
+      "فرمانده سنتکام اعلام کرد نیروهای امنیت داخلی سوریه محموله تسلیحاتی قاچاق سپاه پاسداران به مقصد حزب‌الله لبنان را توقیف کردند.",
+      "پس از سقوط بشار اسد، نیروی قدس سپاه تلاش کرده مسیرهای جایگزین دریایی و مرز عراق را برای ارسال سلاح به حزب‌الله به‌کار گیرد."
+    ],
+    "impact": "مسدود شدن شریان‌های قاچاق سلاح سپاه پاسداران به لبنان پس از سقوط اسد.",
+    "tag": "نظامی",
+    "urgency": 7,
+    "sentiment": -0.5,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202611262624",
+    "clean_url": "https://www.iranintl.com/202611262624",
+    "image": "https://www.iranintl.com/images/ii/og-fallback.jpg",
+    "timestamp": 1795658520.0
+  },
+  {
+    "id": "1de4b01c7a",
+    "title_fa": "شکست هوش مصنوعی ترامپ در جنگ با ایران؛ ناکامی سامانه «ماون» پس از حملات سنگین",
+    "title_en": "How Trump’s Iran War Was Betrayed by AI",
+    "summary": [
+      "دونالد ترامپ حدود ۹ ماه پیش دستور آغاز عملیات نظامی گسترده و مشترک آمریکا و اسرائیل علیه ایران را با اتکای کم‌نظیر به سامانه‌های خودکار صادر کرد.",
+      "در ۲۴ ساعت نخست یورش، بیش از ۱۰۰۰ هدف از جمله آیت‌الله علی خامنه‌ای توسط سامانه هوشمند «ماون» (پشتیبانی‌شده توسط پالانتیر) هدف قرار گرفتند و این آمار ظرف یک ماه به ۱۳ هزار هدف رسید.",
+      "با وجود ادعاهای پیروزی از سوی دولت ترامپ، هوش مصنوعی نتوانسته دستاورد قاطعی را رقم بزند و جنگ به بن‌بست خورده است."
+    ],
+    "impact": "تکیه کامل عملیات مشترک آمریکا و اسرائیل به هوش مصنوعی برای نابودی سریع اهداف، علی‌رغم ترور رهبری و حجم بالای حملات اولیه، به بن‌بست میدانی انجامیده است.",
+    "tag": "نظامی",
+    "urgency": 10,
+    "sentiment": -0.6,
+    "source": "Newsweek",
+    "url": "https://www.newsweek.com/how-trumps-iran-war-was-betrayed-by-ai-12765338",
+    "clean_url": "https://www.newsweek.com/how-trumps-iran-war-was-betrayed-by-ai-12765338",
+    "image": "http://www.bing.com/th?id=ONUT.JDNy7c-F_6OgOoBLSiScWg&pid=News",
+    "timestamp": 1795658400.0
+  },
+  {
+    "id": "73b2a4f108",
+    "title_fa": "ناکامی سپاه در جایگزینی مسیرهای دریایی و زمینی ارسال سلاح به حزب‌الله",
+    "title_en": "فرمانده نیروی دریایی سپاه:شرق و غرب تنگه هرمز تحت «کنترل کامل» سپاه قرار دارد",
+    "summary": [
+      "بیانیه سنتکام و گزارش‌های اطلاعاتی نشان می‌دهد تلاش‌های نیروی قدس سپاه برای قاچاق سلاح به حزب‌الله از راه دریا و مرز عراق لو رفته است.",
+      "وزارت کشور سوریه در تیرماه و هفته‌های اخیر چندین محموله نظامی منتسب به سپاه پاسداران را توقیف کرده است."
+    ],
+    "impact": "اختلال گسترده در زنجیره پشتیبانی و تسلیحاتی جمهوری اسلامی برای حزب‌الله لبنان.",
+    "tag": "نظامی",
+    "urgency": 7,
+    "sentiment": -0.5,
+    "source": "ایران اینترنشنال",
+    "url": "https://www.iranintl.com/202611267696",
+    "clean_url": "https://www.iranintl.com/202611267696",
+    "image": "http://www.bing.com/th?id=ONUT.juX1Z8shyUN3mR2bCmCBQA&pid=News",
+    "timestamp": 1795653540.0
   },
   {
     "id": "67a225aa81",
@@ -5238,148 +5384,5 @@
     "clean_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQXVRZ1d4T2tYRDEzQjdCOVBKQ1BsTEg3WnR2TzNvdjJXVzF5TFU4WlowYVp3SEVhcGtaNU1NSURfOXkyVUZhaWI5dFVsSjQxbkVWek5IZkZfVE9NYzdXVkdIN2ZSU0pHeEV6MVFyc3ZHUnlPeGZxQ1B3UmoxUzJWeTlmc0Zwb0xqdVgwNWpKdVBaT0RBZWpsSGp3NTR3bDdvczQ2ZWhYd2dab2FvdTNn",
     "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
     "timestamp": 1794616747.0
-  },
-  {
-    "id": "938dfad960",
-    "title_fa": "تغییر تاکتیک ترامپ و چرخش متحدان عرب خلیج فارس به سمت دیپلماسی با تهران",
-    "title_en": "As Trump shifts Iran strategy, Gulf allies pursue diplomacy with Tehran",
-    "summary": [
-      "هم‌زمان با تغییر استراتژی ترامپ درباره ایران، متحدان منطقه‌ای آمریکا در خلیج فارس کانال‌های دیپلماتیک با تهران را فعال کرده‌اند."
-    ],
-    "impact": "کاهش انزوای منطقه‌ای ایران و تمایل همسایگان به مدیریت تنش بدون اتکای کامل به واشنگتن.",
-    "tag": "دیپلماسی",
-    "urgency": 5,
-    "sentiment": 0.3,
-    "source": "PBS",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHRmUU1nendWQU5JOEp5c0VxXzhXVEVOaHdVUnlZNUI2MFpsMHd6VERDSWV0TE4yYlVISFpMMmJmMVJ1S1BuYVpKQlljOVRSdzd3dVZJLVVRaTVLOFQ0Q3pqeHhZeXNtZUpzdGVwYXJhVXhiSWZ0UUtBRkNHaHk5blZ2WVR1TDlNbGViUG9ENTZjckFoSWg4RkVWbHNJVnFLYkFBZWc2cHpwSFpVamsyc0xRckRFZk9uN05qTWJXSGZ5cGcyZks0?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbHRmUU1nendWQU5JOEp5c0VxXzhXVEVOaHdVUnlZNUI2MFpsMHd6VERDSWV0TE4yYlVISFpMMmJmMVJ1S1BuYVpKQlljOVRSdzd3dVZJLVVRaTVLOFQ0Q3pqeHhZeXNtZUpzdGVwYXJhVXhiSWZ0UUtBRkNHaHk5blZ2WVR1TDlNbGViUG9ENTZjckFoSWg4RkVWbHNJVnFLYkFBZWc2cHpwSFpVamsyc0xRckRFZk9uN05qTWJXSGZ5cGcyZks0",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794616201.0
-  },
-  {
-    "id": "4ec0128351",
-    "title_fa": "حمله موشکی حوثی‌ها به نیروها و تاسیسات نفتی جازان عربستان",
-    "title_en": "Houthis say they fired missiles at Saudi forces in Jazan",
-    "summary": [
-      "حوثی‌ها از شلیک موشک به سمت نیروهای سعودی در منطقه جازان خبر دادند.",
-      "پالایشگاه آرامکو جازان با ظرفیت ۴۰۰ هزار بشکه در روز و سایر زیرساخت‌های انرژی و نظامی جنوب عربستان بارها هدف حملات موشکی و پهپادی حوثی‌ها قرار گرفته‌اند."
-    ],
-    "impact": "تهدید مستقیم امنیت زیرساخت‌های انرژی منطقه و افزایش ریسک در بازار نفت.",
-    "tag": "نظامی",
-    "urgency": 8,
-    "sentiment": -0.9,
-    "source": "The Times of Israel",
-    "url": "https://www.timesofisrael.com/liveblog_entry/houthis-say-they-fired-missiles-at-saudi-forces-in-jazan/",
-    "clean_url": "https://www.timesofisrael.com/liveblog_entry/houthis-say-they-fired-missiles-at-saudi-forces-in-jazan",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794610920.0
-  },
-  {
-    "id": "e7f5c9d3ae",
-    "title_fa": "نقش‌های پیچیده و جنجالی قطر، ترکیه و پاکستان در منطقه",
-    "title_en": "The complex and controversial roles played by regional players - Qatar, Turkey, and Pakistan",
-    "summary": [
-      "تأکید بر نقش‌های پیچیده و بحث‌برانگیز بازیگران کلیدی منطقه شامل قطر، ترکیه و پاکستان."
-    ],
-    "impact": "تداوم ابهام و تضاد منافع در مناسبات سیاسی و دیپلماتیک منطقه‌ای.",
-    "tag": "دیپلماسی",
-    "urgency": 4,
-    "sentiment": -0.2,
-    "source": "TV7 Israel News",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81el91VEZnNXNOSndqSjlla0lBSDZlNnBnMjZlY3JuSDI2SlhUTDEtNGtELVZqQzdGaTNBWUNvMWh4N1FDTndOdUJvRUlULTN6R1pVRzVsckVSTHcyRWZGTlJxRWdxWmoxcTF5dnB5aHhOdThNaEpn?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE81el91VEZnNXNOSndqSjlla0lBSDZlNnBnMjZlY3JuSDI2SlhUTDEtNGtELVZqQzdGaTNBWUNvMWh4N1FDTndOdUJvRUlULTN6R1pVRzVsckVSTHcyRWZGTlJxRWdxWmoxcTF5dnB5aHhOdThNaEpn",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794608514.0
-  },
-  {
-    "id": "04ed92276a",
-    "title_fa": "تغییر استراتژی ترامپ: پایان نیاز به توافق با ایران و کنار گذاشتن ونس از مذاکرات",
-    "title_en": "The Real Reason Donald Trump Claims He No Longer Needs a Deal with Iran Is That He Cannot Get One",
-    "summary": [
-      "دونالد ترامپ مدعی شد آمریکا پیروز جنگ است، بر منابع مالی ایران تسلط دارد و دیگر نیازی به توافق با تهران ندارد.",
-      "ترامپ با اتکا به اهرم‌های فشار اقتصادی و نظامی، جی‌دی ونس را از پرونده مذاکرات ایران خارج و به پرونده‌های داخلی منتقل کرد."
-    ],
-    "impact": "توقف مسیر دیپلماسی رسمی واشنگتن و اتخاذ رویکرد بن‌بست مدیریت‌شده علیه تهران.",
-    "tag": "دیپلماسی",
-    "urgency": 6,
-    "sentiment": -0.3,
-    "source": "nationalsecurityjournal",
-    "url": "https://nationalsecurityjournal.org/the-real-reason-donald-trump-claims-he-no-longer-needs-a-deal-with-iran-is-that-he-cannot-get-one/",
-    "clean_url": "https://nationalsecurityjournal.org/the-real-reason-donald-trump-claims-he-no-longer-needs-a-deal-with-iran-is-that-he-cannot-get-one",
-    "image": "https://www.bing.com/th?id=ONUT.1-w1aJbp1C17u4oVW7NPWA",
-    "timestamp": 1794604721.4231594
-  },
-  {
-    "id": "114878c3a6",
-    "title_fa": "هشدار آژانس درباره سایت زیرزمینی اصفهان و موضع تند ترامپ علیه توافق",
-    "title_en": "U.N. watchdog agency pushes for access to key Iran nuclear site",
-    "summary": [
-      "آژانس بین‌المللی انرژی اتمی از ممانعت ایران در دسترسی بازرسان به تاسیسات زیرزمینی غنی‌سازی اصفهان ابراز نگرانی شدید کرد.",
-      "مذاکره‌کننده ارشد ایران مدعی شد آمریکا از پوتین خواسته میانجی‌گری میان واشنگتن و تهران را تسهیل کند.",
-      "ترامپ با بیان اینکه «ما نیازی به توافق با ایران نداریم»، مدعی شد پیروزی در جنگ قطعی است و تنها زمان پایان دادن به آن مطرح است."
-    ],
-    "impact": "افزایش شدید پتانسیل بحران هسته‌ای به دلیل ممانعت از بازرسی‌ها همزمان با بسته شدن درهای دیپلماسی توسط ترامپ.",
-    "tag": "هسته‌ای",
-    "urgency": 8,
-    "sentiment": -0.6,
-    "source": "CBS News · via Yahoo News",
-    "url": "https://www.yahoo.com/news/world/articles/u-n-watchdog-agency-pushes-131413861.html",
-    "clean_url": "https://www.yahoo.com/news/world/articles/u-n-watchdog-agency-pushes-131413861.html",
-    "image": "https://media.zenfs.com/en/cbs_news_897/8eb50a5b754263775183ef122c306b2c.jpg",
-    "timestamp": 1794600931.0
-  },
-  {
-    "id": "5465a594b9",
-    "title_fa": "فرانسه؛ جدیدترین هدف خرابکاری سایبری ایران پس از اسرائیل",
-    "title_en": "France Is Latest Victim of Iranian Cyber Sabotage First Unleashed on Israel",
-    "summary": [
-      "بر اساس گزارش بنیاد دفاع از دمکراسی‌ها، فرانسه به جدیدترین قربانی حملات سایبری ایران تبدیل شده است.",
-      "این حملات سایبری پیش از این با همان شیوه و الگو علیه اهداف اسرائیلی اجرا شده بود."
-    ],
-    "impact": "گسترش جبهه نبرد سایبری ایران به سمت کشورهای اروپایی و افزایش تلافی‌های امنیتی.",
-    "tag": "سایبری",
-    "urgency": 6,
-    "sentiment": -0.4,
-    "source": "Foundation for Defense of Democracies",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRk9Bd21VQ283QzU3aG1RVm9NdUlJNDBjUWxUMGlwN3E1WkNaYTV3VE55VXVucUlIRjV3X1d0dlF2YXVJU3oxNXNMVDVuSW1zc0oxOUhtdHg5eVBuOTFzemVxRk1idXJQRmZrdGpBSkxkVThWdGgzLVMtVVgyakFzSW5WeHBRVl84QTNEV3U3WHZXMHRSeUw3U051UEpmaU5FVTE1QVMzRWE?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRk9Bd21VQ283QzU3aG1RVm9NdUlJNDBjUWxUMGlwN3E1WkNaYTV3VE55VXVucUlIRjV3X1d0dlF2YXVJU3oxNXNMVDVuSW1zc0oxOUhtdHg5eVBuOTFzemVxRk1idXJQRmZrdGpBSkxkVThWdGgzLVMtVVgyakFzSW5WeHBRVl84QTNEV3U3WHZXMHRSeUw3U051UEpmaU5FVTE1QVMzRWE",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794600900.0
-  },
-  {
-    "id": "592f678ba8",
-    "title_fa": "شرط پیروزی با سقوط رژیم ایران و مقاومت همسایگان در برابر خواسته‌های مرزی آمریکا",
-    "title_en": "Victory requires Iran regime's fall; Iran's neighbors resist US border demands TV7 Israel 13 Nov.",
-    "summary": [
-      "تحلیل‌های منطقه‌ای تحقق پیروزی نهایی را مستلزم فروپاشی و سقوط حکومت ایران می‌دانند.",
-      "کشورهای همسایه ایران در برابر مطالبات و فشارهای مرزی ایالات متحده مقاومت نشان می‌دهند."
-    ],
-    "impact": "چالش دیپلماتیک آمریکا در همراه ساختن همسایگان ایران برای فشار مرزی و تغییر رژیم.",
-    "tag": "ژئوپلیتیک",
-    "urgency": 5,
-    "sentiment": -0.4,
-    "source": "TV7 Israel News",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UeHR5c3E0eVltU0hWZXJSeU9DSk93NzUtMWpwNEhwZzkydjBzLUpEN2VkenF5MEZ1SnRjLXR5OGdwQjI4VTBfYXBYREYybzZnVldYY0tTRXpBYnhQa2hiRmZWUkx5NE1feEhfMTZCUS1MUlptMEpR?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9UeHR5c3E0eVltU0hWZXJSeU9DSk93NzUtMWpwNEhwZzkydjBzLUpEN2VkenF5MEZ1SnRjLXR5OGdwQjI4VTBfYXBYREYybzZnVldYY0tTRXpBYnhQa2hiRmZWUkx5NE1feEhfMTZCUS1MUlptMEpR",
-    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794598611.0
-  },
-  {
-    "id": "cf91085136",
-    "title_fa": "سفر رئیس جاسوسی اسرائیل به واشنگتن؛ فشار نتانیاهو به ترامپ برای ازسرگیری جنگ",
-    "title_en": "Scoop: Israeli spy chief in D.C. as Netanyahu presses Trump to resume war",
-    "summary": [
-      "رئیس سرویس اطلاعاتی اسرائیل برای رایزنی‌های امنیتی وارد واشنگتن شد.",
-      "بنیامین نتانیاهو، نخست‌وزیر اسرائیل، دونالد ترامپ را تحت فشار گذاشته تا جنگ علیه ایران را از سر بگیرد."
-    ],
-    "impact": "افزایش احتمال ورود به فاز جدید درگیری مستقیم نظامی با تحریک و فشار نتانیاهو.",
-    "tag": "نظامی",
-    "urgency": 9,
-    "sentiment": -0.8,
-    "source": "Axios",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0RsNzRSR3JhRUdIYkdjZ0VGRFdfeGJkUDd6NzRmV1FWMVRtSGtHYlFCQTZoRElpN2pBcmF6OXlQblJDaXlIeElKRjRXaXdvSkZNNGJTc21GaTdDTzRnUlJJcXVRZWx3N1pRYkhTSnZTNHVmc3VmQ19PdEttQ1FLV0t3dzd5VG1z?oc=5&hl=en-US&gl=US&ceid=US:en",
-    "clean_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPc0RsNzRSR3JhRUdIYkdjZ0VGRFdfeGJkUDd6NzRmV1FWMVRtSGtHYlFCQTZoRElpN2pBcmF6OXlQblJDaXlIeElKRjRXaXdvSkZNNGJTc21GaTdDTzRnUlJJcXVRZWx3N1pRYkhTSnZTNHVmc3VmQ19PdEttQ1FLV0t3dzd5VG1z",
-    "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-    "timestamp": 1794597026.0
   }
 ]
